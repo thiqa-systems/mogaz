@@ -1,0 +1,33 @@
+name: تحديث الأخبار
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # كل ساعة (بتوقيت UTC، وقد يتأخر GitHub دقائق)
+  workflow_dispatch:        # زر تشغيل يدوي من تبويب Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: جمع الأخبار
+        run: node scripts/update.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: حفظ البيانات
+        run: |
+          git config user.name "mogaz-bot"
+          git config user.email "mogaz-bot@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "تحديث الأخبار"
+          git push

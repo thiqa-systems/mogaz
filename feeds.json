@@ -1,0 +1,48 @@
+{
+  "_comment": "مصادر الأخبار. أضف أو احذف أي مصدر من هنا فقط. name يظهر للقارئ. الخلاصة التي تفشل تُتخطى وتُسجَّل في data.json تحت failed.",
+  "sections": [
+    {
+      "id": "egypt",
+      "title": "مصر",
+      "feeds": [
+        { "name": "اليوم السابع", "url": "https://www.youm7.com/rss/SectionRss?SectionID=65" },
+        { "name": "المصري اليوم", "url": "https://www.almasryalyoum.com/rss/rssfeed" },
+        { "name": "Egypt Independent", "url": "https://egyptindependent.com/feed/" },
+        { "name": "", "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=ar&gl=EG&ceid=EG:ar" },
+        { "name": "", "url": "https://news.google.com/rss/search?q=%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1%20%D9%82%D8%B1%D8%A7%D8%B1%20when%3A1d&hl=ar&gl=EG&ceid=EG:ar" }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "اقتصاد وأسواق",
+      "feeds": [
+        { "name": "BBC عربي", "url": "https://feeds.bbci.co.uk/arabic/business/rss.xml" },
+        { "name": "CNN بالعربية", "url": "https://arabic.cnn.com/api/v1/rss/business/rss.xml" },
+        { "name": "", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ar&gl=EG&ceid=EG:ar" },
+        { "name": "", "url": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%20OR%20%D8%B3%D8%B9%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1%20OR%20%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9%20when%3A1d&hl=ar&gl=EG&ceid=EG:ar" }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "العالم",
+      "feeds": [
+        { "name": "BBC عربي", "url": "https://feeds.bbci.co.uk/arabic/rss.xml" },
+        { "name": "الجزيرة", "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9" },
+        { "name": "فرانس 24", "url": "https://www.france24.com/ar/rss" },
+        { "name": "DW عربية", "url": "https://rss.dw.com/rdf/rss-ar-all" },
+        { "name": "CNN بالعربية", "url": "https://arabic.cnn.com/api/v1/rss/rss.xml" },
+        { "name": "", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ar&gl=EG&ceid=EG:ar" }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "تكنولوجيا",
+      "feeds": [
+        { "name": "البوابة العربية للأخبار التقنية", "url": "https://aitnews.com/feed/" },
+        { "name": "BBC عربي", "url": "https://feeds.bbci.co.uk/arabic/scienceandtech/rss.xml" },
+        { "name": "عالم التقنية", "url": "https://www.tech-wd.com/wd/feed/" },
+        { "name": "", "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ar&gl=EG&ceid=EG:ar" }
+      ]
+    }
+  ]
+}
