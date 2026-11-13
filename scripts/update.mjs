@@ -37,7 +37,8 @@ export function parseFeed(xml, fallbackName = "") {
     }
     const dateRaw = decode(tag(b, "pubDate") || tag(b, "dc:date") || tag(b, "updated") || tag(b, "published"));
     const t = Date.parse(dateRaw);
-    let source = decode(tag(b, "source")) || fallbackName;
+    // المصدر المسمّى في feeds.json له الأولوية؛ وسم <source> يُستخدم فقط مع خلاصات أخبار جوجل
+    let source = fallbackName || decode(tag(b, "source"));
     // أخبار جوجل تكتب «العنوان - المصدر»
     if (source && title.endsWith(" - " + source)) title = title.slice(0, -(source.length + 3)).trim();
     if (!title || !/^https?:\/\//i.test(url) || !source) continue;
@@ -118,12 +119,14 @@ async function main() {
   const cfg = JSON.parse(await readFile(new URL("feeds.json", ROOT), "utf8"));
   const failed = [];
   const sections = [];
+  const trusted = cfg.trusted || [];
   for (const s of cfg.sections) {
     const results = await Promise.all(
       s.feeds.map(async (f) => {
         try {
-          const items = parseFeed(await fetchText(f.url), f.name);
+          let items = parseFeed(await fetchText(f.url), f.name);
           if (!items.length) throw new Error("no items");
+          if (!f.name && trusted.length) items = items.filter((i) => trusted.some((t) => i.source.includes(t)));
           return items;
         } catch (e) {
           failed.push({ section: s.id, feed: f.name || new URL(f.url).hostname, error: String(e.message || e) });
