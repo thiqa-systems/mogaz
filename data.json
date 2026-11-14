@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:39:59.377Z",
+ "updated": "2026-11-14T18:49:59.621Z",
  "minute": [
   "تشهد الأسواق المصرية استقراراً في أسعار الدولار والدينار الكويتي والذهب، بالتوازي مع طرح بنك مصر لشهادات ادخارية جديدة.",
   "تابع رئيس الوزراء المصري مشروع توطين صناعة مشتقات البلازما بالدقهلية، فيما حذرت الأرصاد الجوية من شبورة ضبابية وأمطار قادمة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-14T18:29:59.570Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-14T18:49:59.621Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65863,
-   "change": -3.5,
-   "asOf": "2026-11-14T18:39:57.000Z",
+   "value": 65502,
+   "change": -4.03,
+   "asOf": "2026-11-14T18:52:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "غلق المقاهي.. حملة لرفع الإشغالات على طريق المنصورية في الهرم.. صور",
-     "url": "https://www.elbalad.news/7180635",
+     "title": "الذكاء الاصطناعي له يد في شلل قطاع الطيران الأمريكي؟ أحمد موسى يكشف مفاجأة",
+     "url": "https://www.elbalad.news/7180655",
      "source": "صدى البلد",
-     "time": "2026-11-14T18:37:20.000Z",
-     "seen": "2026-11-14T18:39:59.377Z"
+     "time": "2026-11-14T18:48:37.000Z",
+     "seen": "2026-11-14T18:49:59.621Z"
     },
     {
-     "title": "ترامب: قرار حاكم كاليفورنيا بتخفيف أحكام الإعدام بحق مئات السجناء كارثة للعدالة",
-     "url": "https://www.elbalad.news/7180633",
+     "title": "تشكيل الجزائر لمواجهة توجو في التصفيات المؤهلة لبطولة كأس الأمم الإفريقية 2027",
+     "url": "https://www.elbalad.news/7180637",
      "source": "صدى البلد",
-     "time": "2026-11-14T18:35:57.000Z",
-     "seen": "2026-11-14T18:39:59.377Z"
+     "time": "2026-11-14T18:47:52.000Z",
+     "seen": "2026-11-14T18:49:59.621Z"
     },
     {
-     "title": "شعلة المحبة.. مطران بورسعيد يشعل شعلة احتفالية اليوبيل الذهبي لايبارشية بورسعيد",
-     "url": "https://www.elbalad.news/7180624",
+     "title": "خبير عن شلل قطاع الطيران بأمريكا: أي هجوم سيبراني بمثابة إعلان حرب",
+     "url": "https://www.elbalad.news/7180650",
      "source": "صدى البلد",
-     "time": "2026-11-14T18:35:45.000Z",
-     "seen": "2026-11-14T18:39:59.377Z"
+     "time": "2026-11-14T18:47:27.000Z",
+     "seen": "2026-11-14T18:49:59.621Z"
     },
     {
      "title": "وزير الأوقاف وسفير كازاخستان يحتفلان باليوبيل الفضي لجامعة «نور مبارك»",
@@ -241,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم السبت في البنك الأهلي",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ldUV1cEdzTUFWS0N6aHhMTmItN0MyVkF3cV9kN1pRT253RE1yVlVtMjh6M3V1QXlRNS0zekNDSHJmWlJS?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-14T18:45:02.000Z",
+     "seen": "2026-11-14T18:49:59.621Z"
+    },
     {
      "title": "ترامب يدرس تعليق الضربات على إيران وسط ضغوط سعودية وتركية، ونتنياهو يتعهّد بـ\"محو التهديد الإيراني للأبد\"",
      "url": "https://www.bbc.com/arabic/articles/cwp9dznjmpllo?at_medium=RSS&at_campaign=rss",
@@ -334,13 +343,6 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16MmR5SXp1OGgtM212S25uS19mX21ZRmlLVi0tT3R4SFlzcjlSRWx2SU5XZXFBTi01VG5tOGR2UTZQZnFsVjJPRVhXNS1sUnFZUWlXalk0Tld3cVl0NnZB?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-14T15:57:00.000Z",
-     "seen": "2026-11-14T18:29:59.570Z"
-    },
-    {
-     "title": "وزير النقل: خطة عاجلة لرفع معدلات السلامة بالسكك الحديدية خلال عام",
-     "url": "https://alborsaanews.com/2026/11/14/2006257",
-     "source": "البورصة",
-     "time": "2026-11-14T15:29:39.000Z",
      "seen": "2026-11-14T18:29:59.570Z"
     }
    ]
@@ -505,6 +507,13 @@
      "seen": "2026-11-14T12:41:29.232Z"
     },
     {
+     "title": "مقتل 7 عناصر إجرامية شديدة الخطورة وضبط مخدرات بقيمة 300 مليون جنيه",
+     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxONUFIbUVicTducl9DdklnWmhaLWJUdkxLWHdCMERWVzdQMWVUVmZRU0NMSVI5N1FrOFpldzM0eklRVFNxSHhpLXhhMmhQdGZJWkdBQjNJOVFIem0zSzBvVThXWkVRcFZvZWJwSWI0SW1qYWFmbTlveVg3ZzBuNzVOOVFhc1Y4YUxfdVY4UEtuTm5rYm5PbTdXVDk4Y08yU2NSYzJqaEx6cnVlUzAxUEptNWk1R0M0M3lISDZhcUJYZHdNUExiQTNXQ29KdXE5V3hzS0pTYWp5LXpwRTZyY3hpLURBRWxablNjNHdRcjI4VC1lZGxTaDZGQ1Z6cmV0ellhY1hjeWpLdzZTTWhQZmE4V1d4X190cDUwaHNMbzZwZmhfbzVRUGtlb3FOazI1SXVReFlVVWRWQW9RNG82R3lLalRXRS1UdnZob21taldOUDRPOHR2dHkyUWJLOXpVNWlhTTcyeTczT3pVNzd0d0JEWmp1ZFJoUGg4aWlLMmp1Uk1XTWdjWnFjZ1NMNXdZaXd5UzVaQjNSc0M2eGtnM2ZlRTFva1c4LUFlVWRQYmN5dmtpUjhwbDE1VUUtbnhYVGJBX2ZuM9IBvwNBVV95cUxQTlYxOW0xU0ZyX3FpTW4zTFljYVdOOURaMk8zeHJ3QTN2RlZuMWpSQ2g2Qm9ZMExtLWwzdXNnZ3FpWmJTbHVZZUZidll1MmdTUWdVaVRsQU1SN1JITjRCVHM0YjE1ZkxhQXp1LVdiUUxLbWFEbGNMNlhXaW8xT1hJZW9tVUF1MHE3T2Eza3VuZlZBakVRZXQ3UHVWTDkwZHdYSTY1ZUFjU256SGJoUlRQU2xPWUlFQkFfdzJfVm03dzNIanE1OXZlTzJNMlRXeVhoeVJOb28wenZKNFpqLW81WFhtbXE0MTcxMGdsdlFQNTMzM041cnF1amItUDYxTDVScWU4NUw5R09SY1BVdjVUTk5KV21TZW9Sbk10aDM0MGVBaWFMU2tvZmlDZl9qUGpvVDJIMUtsN1Z0N1ZxZ2hvQ3NMM2tWaUt4WnFhd3M5cExiSmFRczBrZlFmcDFyeEUzZzd3Yy1QWG5BQzlmcUNIX1pjV1pMTE1oOVVZRzFLZmkxMk1Dd3BwN2FJVHZBY05aM0IzcTFkelJpcVhHS08xeXdFV1U4alg3eUM1dEFWRVlCaUNHd0hCZVJxMnk1ekU?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-14T11:23:00.000Z",
+     "seen": "2026-11-14T18:49:59.621Z"
+    },
+    {
      "title": "يد روبوتية تمشي على أصابعها وتقوم بمهام معقدة.. ابتكار سويسري يثير الدهشة",
      "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxPZHJNcU1JMTVtaGRpLURBM29lcVNhbWc3S0dSdkpKdjNoVE9YcjlXNVRBWkF3OFcxd0d6OUl3TjFZX1R4YmdEZGVGVFl0S2szWURTSVBQR3N6c05FaDY1QmlpZXBVNUxfLVVfN3U3ZWoyZEhiWjdTQmZWc2pHM3NMQ0dJVFV0eE01Z1pUVks3T0JnV20xWE5BaDZJb3VRazRWdkMwTmx2d2dRRm1RR25INnFWNE9BOFFoWGpMYmJELXIzYlA1VmtRT29ubE1uZldvcWx2SzU4X045RV9sd0lDM2U2QUhUWGwtSklZOHQyMnplLWxFYm5kdTdDcDhNcno5MkdnLWZPYkxHd3B2ZnVXQkRPaHJaVjFVaEVIWlMyNEhoTjhxS0E0TS1mTXZFZWdDYWFkd2NkMkYtZTk3bDJYQUxwb3Rqcjl5YkU5SlZqRU9VZk9VMk1aaENJMVg3NThUOEtXdkw2ZUNMYkFpbGI2UkZudWJzNDFRVDBYVDhBcGZnT2twSzM5bjBQVThLWld1SW9xM0U3UEhlR05SaVBGZGhJWmpaMUJoX1dsalQwUE5KRGhIVHl1dVEybENITWtOejhvUmcySmstTFk5Y2hTZkI2MGdBeFJ0S01ha21GUFoyTS1qTDRJeTRmVWlUVl9HamVnX1lTMTUwM2NlR0I4b0JqZVFoa1VDcXhsYThOc3I2MGtMTHhZeVdqUdIBoARBVV95cUxQYk1vOUloMEgxYl9FcEc3U2RGRFFHbWptUDJzWG5KUmdXek5XTmxYZG9lbmF0YXZ5bzRjWmM0RW15WWRKTmttZlhXQ2VDa2N5cjg3ZUZUZGxFYm9fQWt5OHEzTWlYNk55a2MzUU9ZVDctcS0tTVpTQ3BaTU4zWHRqc0hnNDV6bjdVUVQ4RXR2dF9tWUpRdGE3TmU2eUYxdVd4UHBJbHduRWl2Vy0zWlMtS0VlLWc1clBLSTJUNGNtb2dRT3BuU0g1UmRGUVVmbzBDcGdLRDRqUm1HTG83andWZ1dxa2lPVEJZaEM0X28zSnlKX3k5TDJvY05jelhzekdvS2FjVFhKeFFDMUtfdTc3TDRTYS00cG96c2FoOVVWcUlrQzl2VEhIQTBzRy01QzRhb2s1Nm1DTFVhTWZXRHRiT24wV0Z0bnlzQkxpWWhTWHFGRzRmX1pQYUNWeVhrWDFlRTQ5LXZERElMZ21uVmRtRmN0RHd6SVZIeDJJZDY5Q01lLTV6NFRncFY0VmdoXzc4eF9yaVJjeUZjdVFCZXRicEN6bm9WQkxrQlVPNTRBcFRGWkh4Y2pGUjdFNVFwaHJQSzZ1TF9CT3UxZDBUS3pYcm9xS01ycUt4RzlRUTRrTTJ1UTFCeEs1UGdoM2lXQU1WMWJ1NXNLOGhWMFppUDIzZG5ETVZsRGZFV21WZkJfWkhfWHJNSkd0M29lNU9YUUNv?oc=5",
      "source": "العربية",
@@ -544,13 +553,6 @@
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPTVQ3bU9hNF9vTXBJcmRKLUt1SmNpOG5lUVVRY01CXzUyTUFaV01nV200R1YwazRiaHBmVkxjZjNOdFBzMVNzZVU2NHR1NVcwWk5UazZkS2c5cmdDaHhOZjZfdHR0bWFsT1Bmc2ZKZmRiVjdaX1FRZGFPS1F4UjVZUS1vMWFPR0dJdmVvRzk2cnl0bHY4TWRqbFVBVG15MjVmTjR6eXY2ODlyMFFaUFROZkZQdW9RblNmTERWTnFmWWsyLUN4bmZWZjVZS2RlcFhOZE1HMWRadFVNMjJYU3VyM0psV3JPMmpKcEFUMnNFVUQyd2Q0NGVLOVNTZUNsblI4dmo4R0JvY3gwajE0b3Y4eWlwQnNBanpleFViTXpPb3g2WFJCTEkzR21PLXZDdlNWaU9DakZpV0ZVRXJSbGhsZzJOYlJmQmxjRWwxdEtRVVZMOW9WV1FwYlB0d19CX2xSbmk2UmJpQTZMOXZwQ2xERGZ1dmVSZVZJNEs5cFpYZjlGSC1sUXRtZDZSVXo3ZVRNMHh1NHIwSDUtalluSkFrb0Q2Y3d2UGlSZzFkYmJwUkhwajM4ZGxTQWV3M05iUFpFckloekhPWlZpQU04NHdTR2pR0gHXA0FVX3lxTE5tamVlV1VLLU8yMWd5YkFyZ24zM0E0b09xZkx2NGlLanh6S0ZIU2JWWEJwMW9Qa3ZnN1Ria3VlSy1UaHhDejJXR3ZBU251bnRDelQycE1wRXJZODVyczZkV2hFLV9aZm5WSGZUMFlHdGJvdC1jaklETm5TcG9YQWFvUFN5MV9tUFFCUmhicHkyYjF1SnozZmF1T1dKd0tIYUFrU1R6R1VwV0Niczc0enRacVFhRGFRbE5HaVA3ZThsY04tVUZVMWNzUDJvcVNrazdOWkJQYjh3Vm5IZEVrcmx1LXd1dHNHNGNEbDliTDNyQlVZMGFnVVR3NGxFbDdHSTdLMkg1bDRKS25UNUtIMTdWQ19MQ0NITFpkTEYtSEJUTzJKSXBQLUw3enBXVTNtUm9RcUh5MGtwbGhReG9lUFZ5VElKZ3BoTWRjcFFxU1hQUC1jU19JWTdVSEozZkVQRXZLb21ZbV8yZFhZVll2OEhUU05qMUFuNm8xeFctLTN0eUlBNGJNdjI1aGl0X2RIcGd2a2tjeVJoTnlCd2N0NVRkNTV3a3BfdUE3Y0JPUDJnLWdKQ2RlS0hFazh4dnA5dnVycFlaRm5pak1TNHFmNXljR25jYUJORQ?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-14T09:33:32.000Z",
-     "seen": "2026-11-14T12:41:29.232Z"
-    },
-    {
-     "title": "\"غوغل\" تطلق نموذج Gemini 4 Hydrogen الجديد.. أسرع 2.5 مرة في تنفيذ المهام",
-     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPM0lRTTdXZ1RINjhLRWpFUU5QYlhqbmQ2dVlVaEY3VzJ2WkN5T3A3MUpBMFNZdGhHT0RBT0RIeHludXNLTkRtUTdSWmdxSm1KN19wVWtnVkplQVozWDcyR2lybEstdWtIQXJhQTlvcHI0NnN1SlIzLVNRUkpWM1ZiVHFIejBNNVFsQjJlRU9PQWZFQndMb1cxWC1QWEZ0dVZnbm82Tm1xVkFMTURVclkyWThlTTRodVhUR0Jybkxoa3FYUWlTakV6ekk0WVFFU0E5dl94N2pVQVE4aDlDdTE5aFVkOFNTWHpnMXUySGdvZ1B6dThkb1NrSFJBYlI0OGx2UEFfRktzWFNBTkVlNlhYQ1hQMk9pT24tdzE4QjNDSlBGY1NCZG11dHNBbFUtNkpGSjR4d2Z0R3pNdlZ5Y0JKdDdIYTdSVnRwMmx2SjJ1N2dsYmpzeVNzdkZ2NG9tNmN3SHNjY2dmRGZwS05ZZmJpVlFBTlNMbVJjLVI5MWxtN1dGWEltc2VCQTFzc1JIRUNWT1BqUjV0eTF3enJLV2pJbUp6ckszTFkwQU9VMWNzdTRoVlkyODh2WFhvNnNqWk0?oc=5",
-     "source": "العربية",
-     "time": "2026-11-14T08:34:31.000Z",
      "seen": "2026-11-14T12:41:29.232Z"
     }
    ]
