@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:25:25.434Z",
+ "updated": "2026-11-14T12:34:31.588Z",
  "minute": [
   "قام رئيس الوزراء المصري بتفقد عدد من المصانع والاستثمارات الصناعية في ميت غمر مؤكداً تهيئة المناخ الملائم للاستثمار.",
   "حقق بنك saib إيرادات بلغت 20 مليار جنيه بنهاية سبتمبر، بالتزامن مع استقرار متابعة أسعار صرف الدولار مقابل الجنيه.",
@@ -12,112 +12,151 @@
   "key": 1,
   "impacts": 9
  },
+ "markets": [
+  {
+   "id": "usdegp",
+   "name": "الدولار / جنيه",
+   "unit": "ج.م",
+   "value": 53.37,
+   "change": -0.28,
+   "asOf": "2026-11-13T22:33:36.000Z",
+   "source": "Yahoo Finance"
+  },
+  {
+   "id": "gold21",
+   "name": "ذهب عيار 21 (تقديري)",
+   "unit": "ج.م/جرام",
+   "value": 5835,
+   "change": -0.26,
+   "asOf": "2026-11-13T21:59:59.000Z",
+   "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
+  },
+  {
+   "id": "gold24",
+   "name": "ذهب عيار 24 (تقديري)",
+   "unit": "ج.م/جرام",
+   "value": 6662,
+   "change": -0.26,
+   "asOf": "2026-11-13T21:59:59.000Z",
+   "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
+  },
+  {
+   "id": "gold",
+   "name": "الذهب عالمياً",
+   "unit": "$/أونصة",
+   "value": 3886,
+   "change": 0.03,
+   "asOf": "2026-11-13T21:59:59.000Z",
+   "source": "Yahoo Finance"
+  },
+  {
+   "id": "egx30",
+   "name": "البورصة المصرية EGX30",
+   "unit": "نقطة",
+   "value": 52023,
+   "change": -0.91,
+   "asOf": "2026-11-12T12:25:08.000Z",
+   "source": "Yahoo Finance"
+  },
+  {
+   "id": "eurusd",
+   "name": "اليورو / دولار",
+   "unit": "$",
+   "value": 1.1028,
+   "change": -0.61,
+   "asOf": "2026-11-13T22:29:33.000Z",
+   "source": "Yahoo Finance"
+  },
+  {
+   "id": "brent",
+   "name": "خام برنت",
+   "unit": "$/برميل",
+   "value": 95.84,
+   "change": 0.02,
+   "asOf": "2026-11-13T21:59:30.000Z",
+   "source": "Yahoo Finance"
+  },
+  {
+   "id": "sp500",
+   "name": "S&P 500",
+   "unit": "نقطة",
+   "value": 7562,
+   "change": -0.4,
+   "asOf": "2026-11-13T21:43:19.000Z",
+   "source": "Yahoo Finance"
+  },
+  {
+   "id": "btc",
+   "name": "بيتكوين",
+   "unit": "$",
+   "value": 67148,
+   "change": -1.61,
+   "asOf": "2026-11-14T12:34:53.000Z",
+   "source": "Yahoo Finance"
+  }
+ ],
+ "indicators": [
+  {
+   "name": "التضخم السنوي (المدن)",
+   "value": "12.7%",
+   "note": "أكتوبر 2026، نزولاً من 13.9%",
+   "source": "الجهاز المركزي للتعبئة العامة والإحصاء",
+   "url": "https://www.capmas.gov.eg/"
+  },
+  {
+   "name": "التضخم الأساسي",
+   "value": "13.1%",
+   "note": "أكتوبر 2026، نزولاً من 14.1%",
+   "source": "البنك المركزي المصري",
+   "url": "https://www.cbe.org.eg/"
+  },
+  {
+   "name": "فائدة الإيداع لليلة واحدة",
+   "value": "20%",
+   "note": "بعد الرفع الأخير بنسبة 1%، أول زيادة منذ مارس 2024",
+   "source": "البنك المركزي المصري",
+   "url": "https://www.cbe.org.eg/"
+  },
+  {
+   "name": "فائدة الإقراض لليلة واحدة",
+   "value": "21%",
+   "note": "بعد الرفع الأخير بنسبة 1%، أول زيادة منذ مارس 2024",
+   "source": "البنك المركزي المصري",
+   "url": "https://www.cbe.org.eg/"
+  },
+  {
+   "name": "توقع نمو الاقتصاد",
+   "value": "2.1%",
+   "note": "توقع البنك المركزي لعام 2026، و2.8% لعام 2027",
+   "source": "البنك المركزي المصري",
+   "url": "https://www.cbe.org.eg/"
+  }
+ ],
  "sections": [
   {
    "id": "egypt",
    "title": "مصر",
    "items": [
     {
-     "title": "رئيس الوزراء يتفقد مصنع لإنتاج قضبان التسليح المركب بطاقة إنتاجية سنوية 6 ملايين متر طولي",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c2tRQkZpLXpyTkFGb0FFTV80eXJMT2NaQjZ5bl9TRGRxUWtTRzl3bkJYMFpBdGU1REtOVFp3b2NxeF9xRzdndm5yOGFaclRreVRxbWM2RE1YLVo4V1NZ?oc=5",
+     "title": "متجربش تخدعهم.. مواليد 4 أبراج يشمون رائحة الكذب ويكشفونك من أول موقف",
+     "url": "https://www.almasryalyoum.com/news/details/4409716",
      "source": "المصري اليوم",
-     "time": "2026-11-14T11:59:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "يهتم المستثمرون في مصر بمتابعة الطاقة الإنتاجية للمصانع المحلية في قطاع مواد البناء والتسليح."
+     "time": "2026-11-13T23:40:15.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     },
     {
-     "title": "100 مليون جنيه استثمارات.. رئيس الوزراء يتفقد مصنع لمنتجات الكهرباء والإضاءة بالمنطقة الاستثمارية بميت غمر",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSk0zZ2tNcXFXQlNIZ1c2Vi1CdGU2YjFQbzVicDFNUzdtTFZsMTFPcEw4djQtY0xEUmI5TFNjNlNRekg2RUxpUnNNVGhrUHZka1J0eXdNa3hYclAxWEtv?oc=5",
+     "title": "هدى هاني تعلق على اتهام محمد صبحي باحتكار الفنانين (فيديو)",
+     "url": "https://www.almasryalyoum.com/news/details/4409715",
      "source": "المصري اليوم",
-     "time": "2026-11-14T11:56:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "يوضح ضخ استثمارات بقيمة 100 مليون جنيه في منتجات الكهرباء والإضاءة فرص النمو بالمنطقة الاستثمارية بميت غمر."
+     "time": "2026-11-13T23:36:56.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     },
     {
-     "title": "مدبولي يتفقد مصانع «آي لوك» بميت غمر باستثمارات 400 مليون جنيه",
-     "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPQWhTTVRfbDNBcmtaRnZDT0NaMmhxT1lKMUw5c3ZOTnI0cWhBVng0MHpOUFNDdWVXdXRpaU5EZ0Q1WGJnb09zaTRGbXVtOWF5SkJCWW52XzMyd1A4d0lMMTJsWmw0bWpVMXZFa1E2N3JXS0N4ekpLMGZ3cktuOTZmWW02NHpYRXI1MWRLdnYzanlISVdCblpteW13M0FnNWlHVTdHODNRNTEwVEdRcEdBSnM4c0lzR2h6TDU1aUpUbzJqdmdybVIxUVZCZHBhSXpWZkNhZUlVVW5hZVBMQmdJR2gxSVQwNk4tOG9hd3lmck1uTDJWdEszZkZzQW9hQ2FhSlZ2U2JtWmdpTUhoZkdmMVhsSzI0QXJ5VUVRam1GN3BqXzdQcEk4MlFyamdNcGtDTF9FS3J4V1dEZjdwMk5MQkN0LWZyUVRlVjJMejEtYnFhanhMLXh3YXY4c1VleldVbkljN3dMWnk1Ymc5UXhmVDNNS2M0QU5TQWppZEkyT1pWd0FKWUFJcGVxUlp3SXhMNFVoZ1pmSXhHd2k0MTZDVmNxQnV5STlYeXZDVVlaYmN0ZWdpaFNZYk9QUVZJb3B6RjV5bHpLeGthNlBmY3poWFE4OGJ1NnZTR0dhOExIaDRvQTJGek4ydDhuSzh3U3VodGFfTHFKSC1QQTk5NXdR0gGEBEFVX3lxTE1XemxvYTZ5ekdUODRMeEk4T2kyTER2SHFlR25TTzNERW02dEVqeG4yN3FBRDQwcVFxMVF4SERiTldBMkhWNGNLTXZ0N01uREN0bXQ4R1A4SzhjYTUwajJWMk1VOV9EdmlSLS1FNkV5YXljaG9RczB3ZzlXcF9ETWVfUmxWOG1aMVhJVUN6Z1lvRkZpQjk0Yi1ld2luZ1Z5azBaVEpyRlpQZVA3RnBJX0NoaVN2bXRkT0ZzSTI4Sm9QODhNZ0g0cEJFMk5qVkJwbnlWOE5ySFZ4VUZxTkxHSmhyTzV0cGR5NlBSaWlKRkRiQkk4VzRvVER4aW9xNnM0NzZmM2RNSXd3QVR6c25aRGJLQ0FndmhPTXZ4dGo3bmhENmFxS3UxbzJRdVBGYWkyNWxEd3Z2c2VkM0tzaHF5R05GSmpxcVNHZU1WeGFzMlNkM3FlR2Utek1XTGZmS0FzWW83cFREUzA2NjUtTEN0UU9iN3FSd2RzczRXTWYtSHYtcjlkZnptdjF6RGRENDZWVU1adU9ZRzFYZVktV2RRRmZSeFk0VHJGT09qWUE3X1hKRFM1WmVlbmhlbG9FSllKOXNpNUFSRmJlak1uWlk2LUppMks4ZDRrbzlvNHhVejBWR1RKX3psSS1tZHp1S0RqWlh4UjNRVHRYS0tNQ2R4bHk1RUdycg?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-14T11:52:05.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "يعكس تفقد مصانع باستثمارات 400 مليون جنيه حجم التوسع الصناعي بالمنطقة الاستثمارية بميت غمر."
-    },
-    {
-     "title": "مدبولي لعاملة مصنع في ميت غمر: \"طمنيني على المرتب\".. والأخيرة: \"إحنا في نعمة كبيرة\"",
-     "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxPVU9rRFd0T1JMaF9PdGI4MFFqemN6Uzg2QVBBWDNjcXdWWWt5MjlaYlNoSmw2MUpfNndHc0l6OUZpb3NRQW1rUDBVTmtka2wzUWtmcExXTG9uREtQWUcyZ1g3LTRpU0ZWNnAxcHJGUjZZNVA1blY3dnRTNDRpUERtVlFGZVYzMWlSRnJGaDB4YXBjejdJUFJJdm9hM1hpekU1bmIyT3kwZ2dta2RvQW15LWVZNzNHTFN4MGZibGg1T3ZMWFhtaXI0RUhGMVZlSXYwa2N4NlVKWmdBMEQxOVAtaU95TEg1SC1HT1EyLThhX085YmltcmJ1WEhiSFM5cFRab1RwdUV0ZDZmNDVRMWZSZGotRUhXT0lqSjljUmEwbTJReU52TTBPQVkxOFA5QlV3SmotQzFZTEZyeEJsS2dIeWs1YmJwRzdfNHc3bjd2WmZIUHBMV19tVDRFOWZmTk1sb1BSSXlfSFRMdEhqVmQtb1NfRnBSYVlfYnMwMnlnV2FaRXZrSzktN19WbnZ3UlVLeW90bFNkWGdDRGRVeHpRSmJORkg3YXc5SUdETnZSa1MwTFNvUUFibmlXY1hjMlJrSjh3ZzQ0OS11Q3M1SEp1bDduc19yMjdlcDFJeTNHZlFXX0ZyY1Q1cEpZR2VMclhUSXMxNl9XMzg5SVU2N0RpRG9YZklFcXZMRmZQNk1Qd0tZVzR3MHZwaHFnU2N2ZjlMZC1NNTZHNXljdGo2eHRvNUc5aElrOU9zU182VEJMcTRzRklCREMzUzBiVkZoM2Zod0M4UlFBS1dkLTNTcnZJcHU3cEo0bmVQYUk0THhjLTlYdDd2OW4yeDh4d9IBgAVBVV95cUxNX0NNbHdUTmMzU0hiWjFtRnNZWS1BNzVVZFVFbkstQU9iSnRjR191RU1aemItMXpRNU1FOERUMi1pcFY4MzFFeXgybjNSVjFyOWJoNkZQYndQelFyUmtYXzk5ZWs1R2k4Z3RLV3k0UWJhcDJzb1JFdTE0endROGc3NXd0SldSVWw0Y2ZsTjZzTDRUOGp0XzI3MUhLUzE5RmZCRFdvVVRYNmZBX0VLZE9ZYU9odFY1eG54VVF4d1JFRTBlVzBJVzQ2Y0t1Rk5ramZNVzdBdWtMcUR6YXRLdHQtNzNoSUozMmVPVTd5RWxKY2ZRdnVEbnFPeVMtbi1tdmIwakZCOTZLbkdUVUNxYURyRC0zX2g4UF9RR2lORVFSbWlBTV9ORXJjdjdDUzdiQk12RTY3dUQ0SGppTzZqZEZQc3B6OVpxVkR1enVfU0k1aUVLZEdqY2tiaGppUFpPT3FSSEJ0aHZ2SEtHeUhCbnRqa29rVWJac2ZVczZGZHk2N3NUTEY4b1NWaGhCZkltM0NXY0hSU0RiNGQ4UU5aRkFQNEdLQmtoeXBpUl9OYkNDOVp4OXdHZ1BLNmtTNTVMQjdNWkY2bU9neDdGUW00SVZZR3kyZlZFWGt3ZkhPVU84U1FyaVRvcng0ckFqaXhpLVc3WFhuOW5uRFdsMXpaWmxHLVh2ZEVnd0UxNkx4R2RGaDNzbGl3SU9WWXdFNUJxOGoyZ1RXVFlyZDJ4My1Ec3I3ajJoR2VrYjZmZU96emRUVXRLZF8zcFBVbXBScUE3VGczOHdhNU9iMkZpdnd0Q2plY2ltaU5aX1RsaVowYW9jWlFEbDdNbEIyZTJDY040SmRa?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-14T11:45:13.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "رئيس الوزراء: تهيئة المناخ الملائم أمام الاستثمارات الصناعية",
-     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNRFdKM19nX2R2RVdGUGYyN0xWd2NmaVJfd1JKSEl0ZnM2dlRWVXFYN3o0dWwyZWk3V1Q4RVZpbTg0OUtKX3ZPblhIaHBaVjJveXpFdDhvU2xCTDBDOUJlTVA5S25IbDFHWnotdVNETWJBOFlnR216X2ZKQWtxUkF2SUFBcTlROXc5MlhLRzdzTXlydXNSMS1YX3RDeG45UlNGMUx4VHFXSkFTZWU1bVRqXzdybjdoal9FLU1VRUV5QTBCbnlxSGVncmw4Y1VYMm5QN0J5ZTBveXY4cXE4LXJXNzhtdGFrbWVCMno3ZTNlS3ZVS0M4aThyeWo1Uk84aEZfSW1icGpwZlNrMWhNem9IODZwVGJsWUhrSWE0VXMtdDFYcmN1dFZzUEFBeDNXUEZCcWNDdUh1ZE1IT1BTX2JIMkdZVHU5M1Nqb2gwSXBOREJKWE5GV21vMnNDVlNET2xmNG10S2J2b0VYaXVIVjBnV3BfdWxBMmZLcmJodUthSzlaMUhVS2FqNVQ3UHBheEtucHpldWNYSlN6WF9yRkY1MkRqekF2QkN3RnJGNXk0N3RzR1QtbDd0Q3JQREttQjZyajdnQXNiUDZZem9VU193OTltLXp4WE9JbDFnRDg3VGhpM0lEVWo2X0Q3MFdYb0E3U1paSldqdHZDRk92Z3FVY0pnY292WFpGUXg4dkpzeWxSMmJmQ3hoR0VxajBTMDDSAaQEQVVfeXFMUFBwX3ZlM041ckJMd21CZXI4N0V5YVR0aEJGVmVFR2xtS3JrbGlyWUYzdHI4OVowMEd1TkJhSHpSR05VNVB6TGJJbjIxcjRBUXNWbThYMGgycDg4SmlHWFJSLWdRMnJxb3FfMDMtc0RyZkdUcTE0cFR0N0VzTzdvQWRsMFdDZm1tZTRkQnIzZ1VRcldObWdzc0ZudjlObXNrQmRTZ2xhMmpoQWhuT09ZR09JdjAwZi0wbTNZSThnNU1HYk9uNlJmR2JlSGdjTVh2WU4xUWZMSFJlTnRIRXFRcFlHZm5uYkdsTUFKdU1DeU5mODljU1ZLV1dRX1psWXBFcW4yQVZqQ2JwNDhYMHd6VF9qcm1QVWJWa2VuX0lKeG5OWUViTER5VUV5M0NwbXN1alotdkFJUXFVVzVnUl9hc2lCeEZOMXVpd29ndXByS3ZObWUyWThDZDMtVDM0SWpGOGE5QVBYUUtLRlRBU3BqbnRubjRWXzEzVEtoVHdIWngta3pHRDB1N0dtcGxvV2JFZ1l4NGU2Y0hRQXhmd29vd3NOTXlhNTJpYm5sODVsOWNmbjVkblBubEpvSnE0T0ozTnFmeHF4bjFOVkhnTTJzbWNUalJRaTNteFhmR1VxWm1IRHpVVEFpUzJxYktNSTR0dGJaaF82TlcwaGtSMTlfOG9ETmlSNWhxdHRUSXowenZ3Y3lwTHNERFdIak5iZ0VzVVN5czU?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-14T11:36:57.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "تعد تأكيدات رئيس الوزراء بشأن تهيئة مناخ الاستثمار مؤشراً يعزز بيئة الأعمال للمستثمرين في القطاع الصناعي بمصر."
-    },
-    {
-     "title": "«اتهامات بالانحياز وبيانات رسمية».. تعليق حفيظ دراجي على مباراة ليبيا وتونس يثير أزمة",
-     "url": "https://www.almasryalyoum.com/news/details/4410018",
+     "title": "حظك اليوم السبت 14 نوفمبر 2026.. أبراج مالية وسعيدة وعودة الزهرة تفتح أبواب الحب",
+     "url": "https://www.almasryalyoum.com/news/details/4409714",
      "source": "المصري اليوم",
-     "time": "2026-11-14T11:31:40.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "50 مشروعا و2500 فرصة عمل.. مدبولي يتفقد المنطقة الاستثمارية بميت غمر",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0SWhkNTRwVjFZUUdMZTZ4cVpFZF9fNVB3OExxc0UzLTk1dG81dUNPME5wTEUxa251bTFmdy1HMDV4X3lSRTJB?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-14T11:04:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "باستثمارات 100 مليون جنيه.. مدبولي يتفقد مصنع «المركز العربي – النحاس» للصناعات الهندسية بميت غمر",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lYlNNR084ZnVETEdwRjNCR0MzbDVrQzJ4REJQVFEyVkpaamZkMWw4YkNMcFp4aWFiU0tLS0pNZ2h4SzM0N1E?oc=5",
-     "source": "القاهرة 24",
-     "time": "2026-11-14T10:53:50.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "مدبولي: زيادة المكون المحلي في المنتجات الصناعية تمثل أحد المحاور المهمة لدعم الاقتصاد الوطني",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHBkNHladVd1VncyWnhKd1ZYVWVJUWtRZ0gtVzg4RjlYR0YyZlU5ckQ0ZnR4UUdORmVhS09mdjFqTjF2bzVoNDdRdkJXV245WUszREJXUXlfNVpoUi1CREJKRnFWd09mUmsza2Ffcl90SXdhbERSaHhjYTFnb2pNdUp5OTBtNEZTZUFmdHN1N3lyOHFETTY0WlpabE1MQQ?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-14T10:41:17.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "مدبولي: المناطق الاستثمارية نموذج ناجح لدعم المشروعات الصغيرة والمتوسطة وتوفير فرص عمل",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fUGNBMkVmYlBKeU16N2ZpMXpyNmZFdi1Jdmx5Zm5QcU5RNDNKcXUtX0tWdzQ1d2lrRFdnd0RIMVlzQi1uZml3?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-14T10:38:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "وُلِدت بالاسماعيلية.. سفير سابق: والدة رئيس إسرائيل الحالي من جذور مصرية",
-     "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPek9OSDZOQV9wWDRRY3FrOEVTdmFSYWJGSXpPekRmUHlVR3BTeFUtWGt3eXRqY0NhdzFTSlo1NklReWp3cWg2VDBoRUREOUhBendhdzh4ZnVpQ1RUMEtuQURMSk1VeG85UW9OMS1lVkRXbElHNXM3QThGX3MxM1dXeHMyckh2SUVlQUxiTHluRzNiYk9PenVCNFR0TEl3YUMxVlJPVlduYzJWcDdvVWozd2ViWEloOU12VnNzcnNuM3dLODRGaWVtNGtlelZBY1RvTi1qeHU2SFN6ZjFDamtHWWZ4c3A0c1djS3J6dUw1d3Y5MW5Mdk0ta3k4V0lvLWdCbTV3bkkzQUtOQ2dnaExFTUJVSGFjanhRQmEzVnFwaHVIZDhLd2FhTXBLeUVCTTVFV1pfa3JyZjNCTWJjZkZaV2J0endvc0ZkRTFsQllrMm5adGNxNEM3aGh2eDlDS0V3NmZRSUQ4OG9rTXFiZU9fWVZNRnFoNzdjYTF1R3R4YXZ1VkNlaldUR1dzbWQ4ZUNXejJOMXMxRkpwaUNubjNLdWozVjdGdElYZFRtTlh6eUJIUmdwUU5hN3ppSTNwQ0U3Nndaa1BUZnp3X0NmZVRFM2VSSkJLSFE4TnNCaVZ2aWN3UENJUm4ybE9vRnNycEJzdTBaZFpBQzNWNnQ0Q1NDdjVQeG9aVDB6ZW5sMmx3TURGRURSank5cjVpWnluN3JyeTRzMmdsTFJEWWJjNTJpNTNNMzlGSDJFWlYzVTFRTXnSAcYEQVVfeXFMTlRURU1QR2Y2X1pxME1laXNycXh5VXNyeW85WGdDNl9TcGdlSWttYnV1RDlYekZScWNVa283cVlBdkNyOGpVSHZyUUYzeUhPa1pXMWd2MzZhc1ZnenNfQjV2WHBxTnhaZndRTlRyRXkxQ2E5eEtyYzNmU2cwbmd6R2lZQkFsNVJKRU1xZlJFWl9Sc0xLU1plLXdtODlVaV9YamxtdzBVVkw3UFlmcG00R2I5Q0hlVlE0TGFXcEUxbFBVNFdvOV9Sd1JMX1hfS2RkWXdRcUppUjdwV1c4WU5FRzZyTnJjQWI4QXVieTZKc3lwajk5WHBDYVVCcjRlUGhKMnh5T3lKZE56WnpVSDJZOGd3YzBXQ2RUN1BrRTdVRDRONnBENDl0UEhkQ1Y3QUtIbjZQNDRWMGZkZE1XR05jRy1mVlcwUTZ5aUV1MjZ4RC1ySU5KX3NfY2hpNEIwUUlYSTlVcEVuR0xTYXd1RmlGZ1M4MXZQSWw4VjdmbUt4V0tHeXFWQWFQbjVFNU14aUtNYW9aeWdVUUJHZGNjeFhLSmV1Uzg1dlFTSlFWUTVMSkJuUlpOcHBwUVZrZTNoWHFLaXd0Nm1URDZGbFZOeU1WLWV6SURPcjZNNkJ1MGxJVDYzUVJ2U0lodV9RMnVrY1NMNnA2RTdUdXZUbUEwQVQzbzFRcjl4X0ctZHNqckN3OFE0QVU4b0NNejhmbWJ4R2hqZ3dBZTNoTHJVTHNmZzg1Zi1wMFUwWms3Q0trX2ZTUFhwWjRnNGVR?oc=5",
-     "source": "العربية",
-     "time": "2026-11-14T09:03:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "​بيان رسمي من سكك حديد مصر بشأن واقعة محطة الإسكندرية",
-     "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNVTdpNVdyZnpBN2lSZUZibnBtcEpBM21CVU1mOEJkdWFNU2U4WW9NZmI4UEQ5TUxxcnF1UHhuSTI4M19JUGI5aUNJUFg4NlJISW1UTEVPanBoT05UZ1BLZXR4YnlLcWUzM29qN0Z5aDhSbTNLbGwxYTdkSVBNc1hVak5INTkwb21GaHk1eHp2cTQwNUFETXdnQTF5Z2NCUkRvUHVLdjRNUUFXRUVNZzJuZ2s4UUwwcU1oWDB2eDhTa01qVEtpaTA0OFZ1YTRkR1FHcjVFV0hyNC13Q2NXOXRyN0RHMGNkYTNsV2h0QjN3TjhhZXV3VWVMZDNUWmIxSHR0N3dMajZfRDFpck02QlNRWTItcmlDeWlNWG9mS2s1SXhWYURLekNlRUl2YTdDSWFCVjdyQjZtX25RYUdmRFRwUkpNZmFVbWZuYjh4WDB0YWxrUW1scE9WOF9SVzIzY1plSE84b3lYMWwzZW56YVdCVTRIRlJ0MGtjeWRkYTA0bEFpTXptOFZna2diZWNseXhWVHFyTzhjdGx5YzY3S1FjX1A2dTdUTzJmNmFPVFd0a3BXZldZUUJldnRjLWNveWk3aTRURDZRT2VHTWPSAcYDQVVfeXFMTkNlZEhFSXBiX2NiZXU1VlRoS0Y0Tm5XUUktNi11Z0Y0UDVUdl9kWDdDQWlYNWFab0dwbmtJUEJvTmsxam1BM0pGMVV3TkhzTERBZnZTTDctSEtqTmViZjFJMjRiXzVwSzFCd3g1Rjd6cFlTLTJhbWVXUmtqNVRka1h4Q25pQ3Z3TXJMQjRIX3NmNW5zYmxxamd3NVpXV04tRFdGbXpfVXExR1pQZXFQR253LXlGV3ZFWHV6dDdHZ0R0cUtHN3Y1SGg2YXdVNW9XQ0ZxY2lndXVXZkF3YS1uN0JyNHBLOXB0Z3lMSmZyRThHclZVamoxTGRmSHhwNkQ2TzJCQjhtUkRtSUotcU1HV0VvUVFZeThSVUxJMFNrN0J4RnppaHdiS0wtTUF5SVdZb1JMaE9ZbDE1T3dhZS12UFNrNEtQbGhPd1Njdl9GQ0xmX25Cc0ltUVptdFd1UUd2RWk3UXZ3WnJwUzVUaGljbk1Id2cydkt4Nkh1aUVpdzhZcFIzY1NjSU0xZWstZUpwLWZ6LUoyV1pkS0R0X252ZWFDaGluZ2prMllXdmtNX1Rjc0VWWXp3bzBtZExvMEdKVXBrWWJxZw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T08:09:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "رئيس الوزراء يتفقد اليوم عددا من المشروعات بمحافظة الدقهلية",
-     "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPQmk1aE9Fem1iaFhxaXlIVEtsQ09NcUE0UDhIdzNkWVhtZ0p0ZGZoRUo5b1JoQk8ybkVIZ0VqSFVqa1VzcnJCRGZlZGJBa0lFT0FuWC1SNVRHb1lfSWtMR2VRdldCdDZ0WEZyWm5MVGZRZkpxaktsTF9aN01NcHRwdU1LTDFUdG5ySWs2N2pUXzIwTWtQZE9yRUdrU3hUUWZaam8wYUpUc2JRN0ZGektGYTBUbWVCMkh1OGY1X2JyLWxQdVNOd0lVX0o0WHJ5cFRMUXZ3UlBiT2dZM0RlaFlqU1A5UDZzdHNOTC10cEQ0MU4xSnJvSGxMWWJQT3Nnejd3bHF2V0xiZUNnclpnaXNuRGtVdVpzaXRwMFFTT1VmR0VlLUxOcHFzaTh3cWd5SnJObDY1cWJ6eU9RUVhnNTM0bkZrWGFMaWlXeWt0ZkxQMUhQb1QxdnNCRkJrY3JRcUdBYnhQNnhnWVJpdUY3XzhEVFM0YVpNV1d4VFdGN3F6Njg5blBSQ3NuR0wtT1pUNE5TbTJEX1FvOEtSdi1PVi1neDctcktHQjMtcWJnck42X3Q0UXRtbkl5bGtTMEZ4TG40X2ZjSjgxeFhTSzZwbjJoTUEtWndyc25YU1BuOWZWZTRRVkkyQjVoQjItQ0pmRXZEeVRrMS1XYWFFQkVjTHfSAfgDQVVfeXFMT3AwWWpSeFhRRUFaZlV5bk9TRV9zWU04cjBDN0F5aVU4dWtTZDVSeDlyQlNhUm82U1RuWmtXY0VtZ3RmU1Vvc2FuY0I2My1WLUFWeDdiMGFHQ21icTNrMFcxM0s3WHlsalI3eDkwZWJTT0VKQ0MwTVU1TmU0S2xveDJXUTk3d21yMVU3R3Z0cXRjaGc4UTI2Qm9EbkJ6M0owREZUV1JJWldwUFFuVlhYNkp1S0hJSlhrUUdYWTNERVhwa0tRV09hSjFpejBpdnZVU0JjNzZ5UGo3NTlrWUVPdWNHWjZHZy10M182LUdocGZ6SllRTWhsUTZTcUJOLW1LUGFrdzQwUVBUWjdzb1g5VmUxdU5QNDRKUmNqZXBzeG9YNElIbE5HRERyMGYxNHNlQXc2VW4tWmtNeEdHeVBvQ3BWTGttSDVzNmpKQXJISjVTbmYxQXkxZ2g0NnVPb1Q2UW1QUGFwNHRFRDVnbTBFQlc2X0xISlE2aXpkOXFsLXhRSFY4ZjZHOVZ3QVdVenVTaFBJa3ZremtBRm5GX21sSnNWVWg4NGdFaTFaX1hoLUEwTkJNNWV2d0pFMHVoa1luZmVJbXZMcW1TM2l4RDdOTFZoekdUbG1Jd2t2d3dCUUJuNUwtRzhtRkRySVVZazVqNXUxZkJZNmpl?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T07:51:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "3 زلازل في أسبوع.. ماذا يحدث تحت الأرض في مصر؟",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMjFiZ0FwTUxweUw3UUxKUzNXRGhKTllNUHVJZEgtTXljdlZ0N2lMSzhwV19ZNkhiMGtodkxybjlUS0RTRWFhVlNudW4wajVSN3U3SlNya3FBVUtnRVFacExWek5CclBYVlBmOF9EOFNER05Qd1Rhc0l5WEdBQ2owdzlLbWJROTFibUZmQUt2aU52am1yUnlHTzU5eWtsbXBYOEJlT2dmbmV1ZExYZWlFcml2c2ExdTFWd3NXUlEtUmNRXzdQbXVKZk9XX2x1RlFTQ2dVV1lpZ1ctT1hOeE4zdm9wcEE5RHpyMENuZ2hIcGtXWEpjeU0yOTJtekdsM29NNENiVS1zZDB4SkVOVm81Y1psWGPSAZoCQVVfeXFMT25tMU9meklwTXVOQ1ZLaWQtX1lrZ013SjAzRjhPaG1KRTNrMWtzdTg4cGYyN2xRS0hESHI0Qmplc1RwTmJxbXJJajl6T0tRUGF5ZFozZFJDOEM1ek5LYXRBdHdOaFpweF9qTm9UVmV0SXFEZ2pOTVo1LVJDb3VLVnFRNGdMMHdkQ2l2WmF2eFN5WDRYUEZGbVhrVlhVOEtVaWJOaWRwT2NqOVRwSzJfWV9EaXpMUzBGRlVVNFF4SF80TWVrTjJfSVFkNjdpMnFKWEhULVpWVHljVWlrdk9jeU1uR3lBOGRCU3E2TVpxZDdBOFZxYkhadTRwOE92d3piX0tjWEhHWUh4cXNSWDBnWFdGMVEzUTA4Z05B?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-14T06:19:35.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
+     "time": "2026-11-13T23:35:33.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     }
    ]
   },
@@ -130,23 +169,8 @@
      "url": "https://www.bbc.com/arabic/articles/cmn80llyzjn6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-14T12:02:50.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 14 نوفمبر 2026 مقابل الجنيه",
-     "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPaGt3M1hsc3ppYUstdmFFQzVnSTN2SkdQakZLc0F3Y05BRzlDeHBtVmlpZ3FrNzBqQTNjNTNuTVU3TkNvUGVBU1Y4OFAyOHlhTXB4MUFiMHVpejNnTEtHOUVVUUtUUGcwR2Ryd2R5WVVRdk5Bc1ZuQnhZekszTmxDUUhfYUJDN1E5MXVaMzlXUURjTFdDTi10ZHhvUHBqRlZOWXE3ekR0M2Fwdk0wRG9SNU8zVEpvTnhJYXVMbzlJLXdmSDJ4YjVuaEJVWjRXYVZaWkdpZzVPVkY0alVJYU9aN1VYa1hPdl9ENk1fMlZkcGV1OUVyczA4Vk1TOXhUbm5Mekc3UjhPSldGRDgtMExFRURrdV9aZG9WclRCeDNPREdCa2RPTHBTMVVWVjB4WEZsTGNOX3MwQlpGTkFUQW9VRjBydmdGUFBLNUgxNGcxaGhoSFBqcHRudmY2eEdQZzlDQ19Ud2NwNW54WE9fYUd2Yk1zMElxallGM3pnRHNzRm5PdGJRM1Z0RXFieFNmS0lZWW9adzFR?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T12:00:00.000Z",
      "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "تساعد معرفة أسعار صرف الدولار مقابل الجنيه الأفراد والمستثمرين في مصر على إدارة قراراتهم المالية اليومية."
-    },
-    {
-     "title": "الأخضر بكام الآن؟.. سعر الدولار اليوم السبت 14 نوفمبر 2026 مقابل الجنيه المصري",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40QnlQYzFsSFcwZExURWpXZDU5a1ptMWhDSVpCc3h1blY0Ri1vcGhMR19jM21aUHRzd21MX083NmVyLXFYOG1qbTk1VjktVmM0N3VINl9QN0FZMnhULTJJ?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-14T10:35:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "متابعة سعر صرف الدولار تهم المستثمرين والمستهلكين لمراقبة أسواق الصرف وتكلفة المعاملات المالية."
+     "impact": "تأثير عطل خدمة أوتلوك والتعرف على البدائل يهم الأفراد والشركات بمصر لاستمرارية الأعمال وتجنب توقف المراسلات."
     },
     {
      "title": "جرف الصخر أم جرف النصر؟ اتهامات بتهريب النفط تعيد الملفات العالقة إلى الواجهة",
@@ -156,74 +180,10 @@
      "seen": "2026-11-14T12:25:25.434Z"
     },
     {
-     "title": "بنك saib يحقق إيرادات بقيمة 20 مليار جنيه بنهاية سبتمبر",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZ1BiU0xxRjd1cGpXVHlNTFE3ajRKTUNrRm1oX3FwLWxBSEdMbVZQYVdVZkdRNVgtOWgtOUhDVFNJWGdWSjF1dUtIV1l3aXgwQ2FFU1dJaEVwcktSVWYzd2dFWjRJNVhmZVJRZHFFcXQtQ0syUHJudVlJOTR6UVVSZ09uaDUtaUdrYkFTbXZGZHd6di1XcjNiRDFDLURUdEVSMkY4a1FBQldBamc5WXpMR2VidHJ3aHF5ZEV2MU5yNDZXNURqMVE2RjcwSG56cXB0b3EtV3RqbVpvalBfVnB0NTY3cWUtTXlKaTNMa1lkMDR5NC00Z29mcEtFODZ4UUpMWTJUaTBERVQ1VkFfaHRxWmlaWGdwQQ?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-14T10:21:15.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "تؤشر الإيرادات البالغة 20 مليار جنيه لبنك saib على الأداء المالي للقطاع المصرفي وتهم المتعاملين في السوق المصري."
-    },
-    {
-     "title": "سعر الدولار رسميا في البنوك مقابل الجنيه اليوم السبت",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4YmxYTlNSZ04zZ25OYUNuTkZERndfd2lfcEJZb3lqSmdzS1hieHVmWGwyRmd3RkhOZFg5WEZCS2MySnJDa1U0?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-14T10:21:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر صرف الدولار مقابل الليرة السورية في مصرف دمشق اليوم السبت",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKOWZtNFdZbnp3aXdWMXNqUkFkOHYzZ2hILWJyQTJQY1hpcFF0WktxdWFtM3hnMWg4dGtMMHpyMFVXVDlLb1Bj?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-14T09:53:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 14-11-2026.. آخر تحديث للعملة الخضراء الآن",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lWlBqRl9Mb2FEOHVmRTR2Z0ZXdFlCN05LUzJ4ZVZFRnNoY1ljaDdMR1d5X0QwRS0wbmc2TjQ0azF2Snl0V21GbkhSckp2N01yY1Y1SEtTWk5WbWlxV1Nz?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-14T09:23:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر صرف الدولار في البنك المركزي المصري والبنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aGdFcGtXb3llTG52WF9hMG1HOUROemNSNTYtMjYyVmJqOWd6cVBaeGktX29xZzlQQjZreldpWkEtbVNKOG5F?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-14T09:17:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "أسعار العملات اليوم السبت.. الدينار الكويتي يتجاوز 173 جنيهًا",
-     "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPcGtFUXpfSHM0QlNXQWRCTG1JaU1LR1Z1SXE2T1p3dTJJdC0wMDBOZ0lCazJnVzZsUVY4R3dMelJkYS1PUk1pMmR1LU5DOTc4d3VFUFh6blhtWnhqVnpJa0czc0RJNnYyNjhQeGlKQ1lhRlZGX19jTE9RNElEQUZYckZWZ1JtVW5iMDFFTHEyWmhEN0pRaElQbzMzc29qS2ZQS1d0Z0tmbktSWUVnamZSdVNOaEl4N2xnalJhdlRwZ2xPcVVDMnppQnBiRU5ydGstRHdyVTlmMTYzajRNVnlTNG9JYWgtN0VrWVdpbDc1U1kyc3lvV2h0OV9PQWt1ZkFGU3NEbWNlX25LMHFVNDB6VUt4Yk1XbWFOcm9FdVF2Mmg0SVFvdTFtZXBjUTV6V0k3TkFDMmhxSXdkMGJmcE9nSGR5REtNYXZYN2xqa2xyTUI2TXBJSEN0WEJmdGFKbzd6MHlLcWVsTEx4N2Z6c2dmQjBkUndSWkRPUzF2RWUzb1gtVGlLUGMyM1NLXzRueElwU0QwbkJIc0NLMjh4X3ctY3NmcnJSZw?oc=5",
-     "source": "عالم المال",
-     "time": "2026-11-14T09:01:18.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر اليورو في مصر اليوم السبت 14/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MYjhRQW1UUHdaRmJtVDZWdzJFXzZaQ1VWay1DbUJFYUxrbjV0NWlUUVROOUFaZU14N3FuVWtjaXFrVmNUV0Y2ZmlUalpCZTFzNTZCN1BB?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-14T09:00:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر الريال السعودي في مصر اليوم السبت 14/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVEt5TVhLUU41UXJTa01od1I5c3o3WjlOcXliOG1SRzNTSHhqOXhueFE4NjlJcGJCV2p3amoweVBOV0c3X2lnc2FoM3l1ZkpYdlJjMXZR?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-14T08:23:52.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
      "title": "قيود التأشيرات الأمريكية تضع مشاركة ملكات جمال أفريقيات في \"ملكة جمال الكون\" على المحك",
      "url": "https://www.bbc.com/arabic/articles/ck8dvjl95pn6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-14T08:22:03.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "سعر الدولار أمام الجنيه اليوم السبت 14 نوفمبر 2026 في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPX2dMZTdtTFE0UUszVFNoRDU2SUE1MGlBakpVelVwRWNFY0x2RzZsWkpHLVZ5UHdJQklVc2FBdUxGQTFrMjVKckNwOG9KSTA5Sm5oa1pseXBnTlA0Q0JZUF81RTNvejFUY0tTdGNwNTQ0OEhab0hFb2hheDRmVFg3SGt3Rk9IbUMwd3BYY0MxQUxiVlJkdDZsS2xxQ2hleUwtbGE4TFdOU0ZSTmV0aWhQc0R5VDJDb2RfN3lnOW1HR3IwaE5KaDZZYXVvQ09lTUZxUzJsTDVTSVpRdzZRWW9XTjBBNzBvc2ZZTnBfZGZRcDgtS1B4ejZUVXY0Ulp5NTZEWm5EWGNXQ3JSeXp2VTRDTUVWZTVPdnZZa3ZBc2k0dTEtSk01elpSTGZKN0tHQmprOTRoeFBBNFpSUVNGdGc?oc=5",
-     "source": "قناة صدى البلد",
-     "time": "2026-11-14T08:18:55.000Z",
      "seen": "2026-11-14T12:25:25.434Z"
     }
    ]
@@ -262,13 +222,6 @@
      "seen": "2026-11-14T12:25:25.434Z"
     },
     {
-     "title": "عطل في أوتلوك: كيف تواصل العمل وما البدائل المتاحة للبريد الإلكتروني؟ - قراءة في الصحف",
-     "url": "https://www.bbc.com/arabic/articles/cmn80llyzjn6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-14T12:02:50.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
      "title": "عطل مايكروسوفت يكشف المستور .. هل وضع العالم كل بيضه الرقمي في سلة واحدة؟",
      "url": "https://www.dw.com/ar/عطل-مايكروسوفت-يكشف-المستور-هل-وضع-العالم-كل-بيضه-الرقمي-في-سلة-واحدة؟/a-79947815?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -290,13 +243,6 @@
      "seen": "2026-11-14T12:25:25.434Z"
     },
     {
-     "title": "جرف الصخر أم جرف النصر؟ اتهامات بتهريب النفط تعيد الملفات العالقة إلى الواجهة",
-     "url": "https://www.bbc.com/arabic/articles/c9m2j8pry2ndo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-14T10:23:27.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
      "title": "مباشر: احتجاجات ضد غلاء المعيشة بدعوة من \"السترات الصفراء\" ومجموعات شبابية في فرنسا",
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261114-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%81%D8%B1%D8%A7%D8%A1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA-%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
      "source": "فرانس 24",
@@ -304,32 +250,46 @@
      "seen": "2026-11-14T12:25:25.434Z"
     },
     {
-     "title": "زيلينسكي يكشف سؤالاً أميركياً حول التنازل عن دونباس مقابل الناتو",
-     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPTXZlc0R6aHRvYThHNjE0UFdmYk10aHNTOG5oeEdOalZXeGI4dW1DN2txblJWeFQ3THU3aWFwOGx3WWQ2WkJDZ0JvY0p0dHp4djZXQjFmeVpXS0F4clhaX2M0NVR0NU40N1pxWFl3enFaWDU2S0ZZdzhCQmg4QzdMSVN6ek1rT1FMU3h0dmctdGdNa0dwdklqMDNjYngyd09zNHJIeGZGRFU4WVh6aEZsendNNVBSZUViSVZHTGhWR3pzY2xrVEVFNVNaRFEwUVZua01rbGRJUFRMUklTSFhtdmFiSFRuV2c4MGJrZXl0YTJvM0tzblZyWTNadzRBLUFGekREZmVFM3pyZXhCdTJ0aUp3dk0waTl2S0JvMV9KeUtDRVZ0OFFxSXhzemlqWjJxcHJXbGUtNTJpX05ORDVKd0t5TUhobVlVcWFpT1BfM2ttRWc4d3NMbG5VYUR1UW5ocXdtSElFRTI5Y01qUzdSZ1F4UkFueHE5R2VvdDdveVN6YTVaUkNveC00Z3RLbTd1bjFheDlCOXAtb2R4MlpWSUVNTFgxNFhTS3MzWFJmMENnY3d3T085RlJWeVNieFRRcll4bnBWd3VEOUVuWGlzYmRuLWR4ODZodjlRRzZXYV9CV2V5SHpJLVIycHE5YlhPSERLbGc2Q0V6Q1g3dW9vM3BNUTJMV2VHNENnSjBB0gGTBEFVX3lxTE03VmNHTmwxQnplcHFadnVHRmRjVFhmT1ZJMXlncnZLanNPbUV6YUVHVHowOFNmSDl4OVkyRkNLY09WOXZDZGJrQWM3Ykl5S2FTcklwM2NfbnJQMUFqSmVLVHZVcUtqUlJRb2thZjN6clUzbWtfZjJRR0xac25CLURDME5FSTc1NDdDM3ZBbi1ZdWVfZnZYX2M2eGtlTFJzenhPT1ZBc2FOMENyOXpzWXV3YTJSYVZNVnlBdWNSNElPeTRySi1Cc3kzZ1NXWEh2MVRlMlBhNDR0czZQdU9FTHNNcGdxaDVpVmlIQl9KWVhqNEwxMy1VNXdTdTJ6REU0S1d5N1VXOGk4ZV9fMWFxRDNBVWhWczVubktkU0ZwSWFtZDBKQjJvejJjYVhJQW9aVnFfYnc5QjJlTEg2M2lobDhpRHotc1BDcGVHUjJpS0NPNERkdlhCX1FVTmJxeHlMcVY3QjNJMUd1RGN5WW9najNRVkx0N3NxMGtQd1E2TGw3cGlWVFR4bW9mN0d1dndRcWt6TzQ2NHZRMnZVRFBBTFE2Y1Y2THVzemFQa2k4QmZXd3JGazhLcFgyMktoNjRhTVlkazk0ekJXQjd3RG9iX2d2eHh1aDMtQUFDd0Fzdnd0NXVmcUwxVU1xYXJRem5YR3I4TGp5eF9jNFYtajlTNUJyV0IyRE5KbFU1MVFYdlRwMG1WTQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-14T10:01:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "مشاهير يروّجون لشرب زيت الزيتون يومياً... ماذا يقول الخبراء؟",
-     "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeEl6UFhaVDlrSlI1eTZWN1ZJdDVNNmpyVzJndnhrUERJVnBLWHFHZzJUNEFuM1puT1QwWHMydzR6dEp1dFFHZlFjYlhpSkFKbm1UVnRJRk51UzVlUzNPMThZUmk5RHR1dEwwTmRSWFhtMFFqVGZLYVVIS01MWF9XZnpWcF9mTXdENm9mQkNVdGhVZndNbDVOM1hSbVRoS0lybFNfaVlzNWFJNnQ5MzNwdllJTHB0dU9xN29xd3pvTmc3OHNtMkVmSTVIVDllblZqVXlMdnRhcHlMcy1tVWxCVVJPbG5Ecm5sSFRMWTEyMjQwOEo4QkFKSE1NZjdfZk45aXVoYXQ0MkVLVVhlZ0JBOW40U3JnRTJhRHlMUlpPa1RKY3Jqb05jVXZ5X1dFSGExUVdsYzRTVTlON3JWaUV0QUZrS25zYS1RY2hFUjhDbjdqNk5FM0JXSWRsR096aUdwREpiSEROV3lvTUl0R2laS0tWNi1tNXp3bDFwdU9ETEZ1SHRmVTYzUmVBdDY3dzJDenNwQ2ZaV3pWNHBBVVN2QUJLME5PNFpZdkU2Y2dGb21sbUhIckdneC1ET09vNjZ2UkRIdndoVmU0bmVIQXRzVkFsWUVfOFpfazBEV1JKVEU4d0pMSFNRRlVNNmtGQ0Y2NXRHQQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-14T09:46:58.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "5 مليارات دولار في مهب \"الترقيع\".. الأبعاد الاقتصادية لشلل سماء أمريكا",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/14/5-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d9%87%d8%a8-%d8%a7%d9%84%d8%aa%d8%b1%d9%82%d9%8a%d8%b9-%d8%a7%d9%84%d8%a3%d8%a8%d8%b9%d8%a7%d8%af?traffic_source=rss",
+     "title": "ماذا يحدث في كواليس السياسة الأمريكية؟ اعترافات الرئيس السابق لـ\"سي آي إيه\"",
+     "url": "https://www.aljazeera.net/politics/2026/11/14/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%ad%d8%af%d8%ab-%d9%81%d9%8a-%d9%83%d9%88%d8%a7%d9%84%d9%8a%d8%b3-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-14T08:56:03.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
+     "time": "2026-11-14T09:18:10.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     },
     {
-     "title": "أحمد العلواني.. من ساحات الاحتجاج العراقية إلى الاغتيال الغامض في بيروت",
-     "url": "https://www.aljazeera.net/encyclopedia/2026/11/14/%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d8%a7%d9%86%d9%8a-%d9%85%d9%86-%d8%b3%d8%a7%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac?traffic_source=rss",
+     "title": "الوجه الآخر لمشاركة الإنترنت عبر الهاتف المحمول.. هل تعرف مخاطره؟",
+     "url": "https://www.aljazeera.net/tech/2026/11/14/%d8%a7%d9%84%d9%88%d8%ac%d9%87-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa-%d8%b9%d8%a8%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-14T08:50:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
+     "time": "2026-11-14T09:11:00.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
+    },
+    {
+     "title": "\"دومينو المدربين\" يعيد عدنان حمد إلى العراق بعد 18 عاما من الغياب",
+     "url": "https://www.aljazeera.net/sport/2026/11/14/%d8%af%d9%88%d9%85%d9%8a%d9%86%d9%88-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8%d9%8a%d9%86-%d9%8a%d8%b9%d9%8a%d8%af-%d8%b9%d8%af%d9%86%d8%a7%d9%86-%d8%ad%d9%85%d8%af-%d8%a5%d9%84%d9%89?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-14T09:10:06.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
+    },
+    {
+     "title": "ألمانيا أمام اختبار مالي صعب.. اقتصاديون يحذرون من أزمة موازنة وانفجار الديون بعد 2028",
+     "url": "https://www.dw.com/ar/ألمانيا-أمام-اختبار-مالي-صعب-اقتصاديون-يحذرون-من-أزمة-موازنة-وانفجار-الديون-بعد-2028/a-79946922?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-14T08:31:00.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
+    },
+    {
+     "title": "ماذا نعرف عن وقف الرحلات الجوية في الولايات المتحدة، وما حقوق المسافرين؟",
+     "url": "https://www.bbc.com/arabic/articles/c3dx1vlv2jqko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-14T08:06:11.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
+    },
+    {
+     "title": "مايكروسوفت تعتذر عن العطل في خدماتها وتنفي ارتباطه بهجوم سيبراني",
+     "url": "https://www.bbc.com/arabic/articles/ck1l04y736q9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-13T21:34:25.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     }
    ]
   },
@@ -337,70 +297,6 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
-    {
-     "title": "عطل في أوتلوك: كيف تواصل العمل وما البدائل المتاحة للبريد الإلكتروني؟ - قراءة في الصحف",
-     "url": "https://www.bbc.com/arabic/articles/cmn80llyzjn6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-14T12:02:50.000Z",
-     "seen": "2026-11-14T12:25:25.434Z",
-     "impact": "تأثير عطل خدمة أوتلوك والتعرف على البدائل يهم الأفراد والشركات بمصر لاستمرارية الأعمال وتجنب توقف المراسلات."
-    },
-    {
-     "title": "روكيت لاب تسجل 100 عملية إطلاق لـ «إلكترون» لوضع قمرًا يابانيًا في المدار",
-     "url": "https://aitnews.com/2026/11/14/rocket-lab-electron-100th-launch-japanese-satellite/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-14T11:14:14.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "فيرتف تستكمل الاستحواذ على «يوتيليتي إنوفيشن غروب» بدفعة أولية قدرها 1.45 مليار دولار",
-     "url": "https://aitnews.com/2026/11/14/%d9%81%d9%8a%d8%b1%d8%aa%d9%81-%d8%aa%d8%b3%d8%aa%d9%83%d9%85%d9%84-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0-%d8%b9%d9%84%d9%89-%d9%8a%d9%88%d8%aa%d9%8a%d9%84%d9%8a%d8%aa%d9%8a/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-14T11:06:55.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "«تحكيم» يناقش دور الذكاء الاصطناعي وحدوده في تسوية المنازعات",
-     "url": "https://aitnews.com/2026/11/14/%d8%aa%d8%ad%d9%83%d9%8a%d9%85-%d9%8a%d9%86%d8%a7%d9%82%d8%b4-%d8%af%d9%88%d8%b1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%88%d8%ad/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-14T10:56:44.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "مصر تدعم الإجراءات التي تتخذها السعودية لحماية أمنها",
-     "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxPeUJCZzV4ejAzN2ZNMnI0R291SmhPbXo2TlZFN1h4Q3hucklPMXVhRjJuS0FtTmZ6T2tlMmdURERlREFsT1lPdWFoOGFMSlBxbWtJVkVDUkZPWUtUMy1DWkZFN0NHU2I1UHcwMGJvak1rZ1FWanVIam9kQV9EUkFQMlQyRXhRa2hZbWNLYUI5UElpQURZUHJmd215YnJwdF9vYVRRekxvOTdvRUJRdGJ5Q3owejdDbUhZRHlIYVdMVXNwR3F5NEZWRzFKSUxZMER6RVRoVk41WFBVMVphM0o4RFFEeUIwZWhyWmVXVnV2bXpYTnNsTUJIS2JTUmdqeXBTTXFSbndaLXNnZWFoZUh2MzZxY1h6N1hYbW1CVnZUREJRSnlydW5JZTgxZ1QyM1B2T1lqd24yQlpDejhhMzFmU1Jic05iVzBVRjVqLVIxQW9wSVlQSDNLdTBnc2ZGMy1Nd1A1cmJ6UlRVa0ZSc3VFa0ZJd0FjYzN2bzFZYzZiNXY5T0wyMkR2a0VBZzU0NmlqYWlnaXFEeDlvWG0wWGJ3UnNKYU5uanpLb09JcGp6T1pqMkxIcmZEMW45WEtNNnBuYTZpWW9WWlVKTDZDYXFMdVZKZ1BLdXMzdXBjMVB5elJmNnI5cmdWRDA0M0xPYnVlLWtyWXB0ZGRVNlRucG54SEYxVjhhNG5LRldkMXFtNF82NzlWeERfQ1kxNGNTT0VHd3hmUU5qc0lRbUxObUxmcUp6NThVSTNpbmYxU243dm9FQVd2djY4bG1rRl9SUnpyY2JmWkx4dkoxWnBwNVpNa20yaVQyVndlY0FDRXotaw?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-14T10:52:30.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "جرف الصخر أم جرف النصر؟ اتهامات بتهريب النفط تعيد الملفات العالقة إلى الواجهة",
-     "url": "https://www.bbc.com/arabic/articles/c9m2j8pry2ndo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-14T10:23:27.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "حرب خفية تهدد أوروبا.. هجمات إلكترونية أسرع وأكثر تعقيدا",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPTVQ3bU9hNF9vTXBJcmRKLUt1SmNpOG5lUVVRY01CXzUyTUFaV01nV200R1YwazRiaHBmVkxjZjNOdFBzMVNzZVU2NHR1NVcwWk5UazZkS2c5cmdDaHhOZjZfdHR0bWFsT1Bmc2ZKZmRiVjdaX1FRZGFPS1F4UjVZUS1vMWFPR0dJdmVvRzk2cnl0bHY4TWRqbFVBVG15MjVmTjR6eXY2ODlyMFFaUFROZkZQdW9RblNmTERWTnFmWWsyLUN4bmZWZjVZS2RlcFhOZE1HMWRadFVNMjJYU3VyM0psV3JPMmpKcEFUMnNFVUQyd2Q0NGVLOVNTZUNsblI4dmo4R0JvY3gwajE0b3Y4eWlwQnNBanpleFViTXpPb3g2WFJCTEkzR21PLXZDdlNWaU9DakZpV0ZVRXJSbGhsZzJOYlJmQmxjRWwxdEtRVVZMOW9WV1FwYlB0d19CX2xSbmk2UmJpQTZMOXZwQ2xERGZ1dmVSZVZJNEs5cFpYZjlGSC1sUXRtZDZSVXo3ZVRNMHh1NHIwSDUtalluSkFrb0Q2Y3d2UGlSZzFkYmJwUkhwajM4ZGxTQWV3M05iUFpFckloekhPWlZpQU04NHdTR2pR0gHXA0FVX3lxTE5tamVlV1VLLU8yMWd5YkFyZ24zM0E0b09xZkx2NGlLanh6S0ZIU2JWWEJwMW9Qa3ZnN1Ria3VlSy1UaHhDejJXR3ZBU251bnRDelQycE1wRXJZODVyczZkV2hFLV9aZm5WSGZUMFlHdGJvdC1jaklETm5TcG9YQWFvUFN5MV9tUFFCUmhicHkyYjF1SnozZmF1T1dKd0tIYUFrU1R6R1VwV0Niczc0enRacVFhRGFRbE5HaVA3ZThsY04tVUZVMWNzUDJvcVNrazdOWkJQYjh3Vm5IZEVrcmx1LXd1dHNHNGNEbDliTDNyQlVZMGFnVVR3NGxFbDdHSTdLMkg1bDRKS25UNUtIMTdWQ19MQ0NITFpkTEYtSEJUTzJKSXBQLUw3enBXVTNtUm9RcUh5MGtwbGhReG9lUFZ5VElKZ3BoTWRjcFFxU1hQUC1jU19JWTdVSEozZkVQRXZLb21ZbV8yZFhZVll2OEhUU05qMUFuNm8xeFctLTN0eUlBNGJNdjI1aGl0X2RIcGd2a2tjeVJoTnlCd2N0NVRkNTV3a3BfdUE3Y0JPUDJnLWdKQ2RlS0hFazh4dnA5dnVycFlaRm5pak1TNHFmNXljR25jYUJORQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-14T09:41:15.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "قيود التأشيرات الأمريكية تضع مشاركة ملكات جمال أفريقيات في \"ملكة جمال الكون\" على المحك",
-     "url": "https://www.bbc.com/arabic/articles/ck8dvjl95pn6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-14T08:22:03.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
-    {
-     "title": "بابا الفاتيكان يعقّب على قضية \"الخلود\" والقضاء على الشيخوخة عبر التكنولوجيا وما رأي الأنثروبولوجيا المسيحية",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkpuNk5rRmFFTlJEOFdmZjJVcHpnWGF2QWU5am94SVdQUE5aU1NJMFVCdHk2SDU4MHhjZG53QjRISVJadjlfMjYyY1MzbnJaZ2lzWldSZG05dWFqNkd6c25qVlZpOHB6a1JKMkc1M05tZWVBQVZvWEdKRGlObjhwYXdrWFE3R1hLS1ByUEg5Q25QSTc5Y2VlVk1R?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-14T07:55:45.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
-    },
     {
      "title": "لينوفو تكشف عن إصدار Where Winds Meet لجهاز Legion Y700 Gen 5",
      "url": "https://www.tech-wd.com/wd/2026/11/14/%d9%84%d9%8a%d9%86%d9%88%d9%81%d9%88-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-where-winds-meet-%d9%84%d8%ac%d9%87%d8%a7%d8%b2-legion-y700-gen-5/",
@@ -423,21 +319,65 @@
      "seen": "2026-11-14T12:25:25.434Z"
     },
     {
-     "title": "جنسن هوانغ ضلل قادة \"إنفيديا\" بشأن علاقته بسيدة أعمال صينية",
-     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNMDZ1LXQ1bFotWnVPYnBhM0JLUW5QdXhJMEFhczl1M3FDeU40enJ5dU9SMTBVWElONlM3bWVfejZINEgwYVhTTHIzX28yZWNKMTBzNG1LTEZhZlIxUV9zaVBVNXQ0N3BUVTc4Z2ZXbElNd3M4TmZtTVpQdjVjUzg4bEVSRElJaElzZ2ZsN3FJQ0FKeVZjQTljR1NSRFJVV1Y3STRwTkJLWFN5bEdUMnk5ckVsRzJhMi1ESjRKR01uZTdvZTdzdTRZTTZpeUpId1RvWjB4YnZ3R2dTdmtKTFJqTUxzcHVyQTlKTmcxS0prQ2hISEM1bF9VSWF6bUhxWVQzWkpLZHF4VlY0ck5MOGpxQjN2UE1YcmI2a2Fhc0dqX0RjaWNxZndlZldseUFjbE5CaTdyWEgybmJHWDdITUJGRXA5NmoySXZuY2ZMYUYxOUpsUkk5UHktWWhIc1Q2VmRQMFNaZFloNDQ2M29sTEdESFBIZ2NoU3g1aVltYk82V0YzMTZaRFNpeG9JVGVzVkxlXzY0VFRDYmRBS3JvemVsMG1sbVRhZWRwSGl2cnpfbkxUQ2ROY3lQam5MclVGYWIxNUZ4LXR0RHF1WkhvbXBMZjB5cnNJeUZHNGp4cVpGVjd2T1BmeVVJUlZKbHdmc3PSAfQDQVVfeXFMT2pmNF9BZEhjSXFLdUJybllTZHhDNF9YUjl5TFg2SDFXLU1CcEtGWF9XU3pkXzhqZDNjZjVlTnR3akJqM2N5VEREb3U5SlE0RVg3T0RFa2hjc1dPa050MlM4MkZ2c0wzWWJHRGxjUmVHelBDOTRVQ3ZVeWJLQV9hcWxxNE5DNGVUT0FKUWtxazEzdjFKNlAyR2tZZ3JrRWRkMXRyQmhxSzQ0RnFyblhBdGpKRmRuZXYwRGFDWFNNVHhFcTdmNGZLLWhtU1d1cjJ5RU0wbkJ4Q2QwWVBxVWVBVko0TnNLaWsyLU9icHFwOUlleHdMbXNhZDhpREhPOGFoMmRxZnhFbjB4cFBnM3ZpT1pQU1E4YklaTjY5cTNXYWlmblpGbGFIbWdabGM1NU9ReDdqbXEwVHRHdS1CSy11bTBmMjUzcEtYQ09vM3prbVNGVFpIem10OEhLVXY5dUEtVjVWZ3pRTHlUcEdWS21VZFhFcDFDaVJzbjZxWjVHYVVEY0dUVFlFUXJOMGRPc191ZkxBSzkyQ04xSmQtalhGVTkzVVkxc19adGZxOG8xVF9lUHZBVlFpamxuZmZGSUNiTlhHeWxDbTZiQURjVnptM21Vc2psUUZvLVB6eG5rM1RoTWFob3FuRGtnV1JuMmk4SHZ0TXc?oc=5",
-     "source": "العربية",
-     "time": "2026-11-14T06:25:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
+     "title": "كيف وصلت فضيحة جنسية في إنفيديا إلى البيت الأبيض؟",
+     "url": "https://www.bbc.com/arabic/articles/cwe891n227q5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-13T20:01:43.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     },
     {
-     "title": "بعد الدعوة لاحتجاجات جديدة.. فرنسا تنشر 70 ألف شرطي لضبط الأمن",
-     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOYXN6ZDlhRkpZWElaTGpaVlRCbHdCbDRKMXQtVkpFWDAyQkstUHprekN2endRMDBBUGgxLVM0VFc2aFlpWEUxT0VpaHVlVjUtOUY2LWRuNjFnSFBvcnRrZW5fVW0wbC04cTc4LWo1WExWQzJLNlZ0dFA3amdoeXc0MWttcUJ0OWxpNDFDa0xvTE00SlUxS0RsQnJZQTFGNlJodEs4enBvYnZnMTVwLUdjSG1ZaFdrTkRmamV1YmhqcU12UlpQbEdpRmQtOFprcUd6OUxJRkR1bkRoOVJCVnhTeExJLWVMYUtWV1FTZ3E3OXlURTdRbGFrOTZvWXctNlhxOFJCZ3l3NEJfS3ZYTkNyakc2NVVTWGIzT2FTZ2NGcEpUZUFxWkVwVzlfd2NTdm9vcVNHQk1UVzJMUmFvdzhpMHJuY0pQUFJGbGs4d2dwQlBfamJ5NkRQQVhpc2VYaTV0MW1acVg3ckhBWVBzM3N5Mms0T3pwT3g2MVRlNUdaenRBaW9QUzFpNkFOSG9IRjlRMnh2V0Mxb2JOZVJIQWF6UzkxVE9JX2xoaFRBSFR1T1BBOUJmSlNVY3pOX2M2ZnlUV09MOEI5REczYk5fWDJYOVdJTlY5TkJwX201R2R1Wlhjb2JvU1pUeGRHTHlWVGJ2OHJQVG5pUTdnQdIB_wNBVV95cUxQbWpnRS1Ud3BjQ3BIOWNzdEIzdGN3U3JhV0JDeHBKRHFvRXVmTmU3cnhwNmJ6QVViMkpGRklrNHIzNkE1ejl1eDY1cS16UVlKTFlOSDFqckFXbllnbTd4QnQzc3hTSUFCWnBVeWhPUkpnSWFBU1IybmdSSUhEMUhXZzEtZEVpRXBzdVVCbVJzQmphRTVqd3IwSFJCVGd0OGpFQm5HRzhaYkJFZDBUX3NIT01WRnF2Zk1wbV9xSmRJc2pVMTlUSjFncDJGNEExaHdqUkVEdmNlMEx0ZXZuZDA3Ym9aRWlOQkFpOExiMHZ1WlpzbUJlWXFZOVlORDNsY1duRWEtZzFoUHJlV29FaXRHV3FIeUdrQ1RaLWd6NVVkS3FhcTJQX2tyYlIxTFg3NUhoLTMzU2VWb2p6bWZySVE4TjNTaEVESHJnbWFKZ0wwMXFKT2ttSHN0T25jZ0FKYzFWT2lmQnpDS05fUXo3eXFlNjRtSVdIM0N0aVdFZHpJbHVWR3FxOHREdUJtazZXanFob19jMzZNaVhvQnFwY0lHTUUyMDhBb2k4VG50YUVnWGduVG1qN2ZSLTBLd0VGdThSZUs0TkJkNC11bG9FRXFYejgydXZzQzh2dU9WUWtpNWhqS3FUTmxEWnFOWFBvSFMyd0FHWmg4bndqVDRtOEVv?oc=5",
-     "source": "العربية",
-     "time": "2026-11-14T05:22:00.000Z",
-     "seen": "2026-11-14T12:25:25.434Z"
+     "title": "بين الإصلاحات القضائية وتطبيق الحدود: ماذا تكشف قضية الحكم بجلد عاملة كينية في السعودية؟",
+     "url": "https://www.bbc.com/arabic/articles/cq0k6j2v74xro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-13T18:57:22.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
+    },
+    {
+     "title": "إدانة حارس شخصي سابق لأحد قادة حماس أمام محكمة بريطانية",
+     "url": "https://www.bbc.com/arabic/articles/c6jd7595xyl3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-13T17:59:20.000Z",
+     "seen": "2026-11-14T12:34:31.588Z"
     }
    ]
   }
  ],
- "failed": []
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "news.google.com",
+   "error": "HTTP 503"
+  },
+  {
+   "section": "egypt",
+   "feed": "news.google.com",
+   "error": "HTTP 503"
+  },
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 503"
+  },
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 503"
+  },
+  {
+   "section": "world",
+   "feed": "news.google.com",
+   "error": "HTTP 503"
+  },
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "HTTP 415"
+  },
+  {
+   "section": "tech",
+   "feed": "news.google.com",
+   "error": "HTTP 503"
+  }
+ ],
+ "marketErrors": []
 }
