@@ -25,6 +25,26 @@ const tag = (block, name) => {
   return m ? m[1] : "";
 };
 
+const AR_MONTHS = { "يناير": 0, "فبراير": 1, "مارس": 2, "أبريل": 3, "ابريل": 3, "مايو": 4, "يونيو": 5, "يوليو": 6, "أغسطس": 7, "اغسطس": 7, "سبتمبر": 8, "أكتوبر": 9, "اكتوبر": 9, "نوفمبر": 10, "ديسمبر": 11 };
+const toLatinDigits = (s) => s.replace(/[\u0660-\u0669]/g, (d) => d.charCodeAt(0) - 0x660);
+// فرق توقيت القاهرة عن UTC في لحظة معينة (يراعي التوقيت الصيفي)
+function cairoOffsetMs(utcMs) {
+  const parts = Object.fromEntries(new Intl.DateTimeFormat("en-US", { timeZone: "Africa/Cairo", hourCycle: "h23", year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric" }).formatToParts(new Date(utcMs)).map((p) => [p.type, +p.value]));
+  return Date.UTC(parts.year, parts.month - 1, parts.day, parts.hour, parts.minute, parts.second) - utcMs;
+}
+// يقبل الصيغ القياسية، وصيغة مثل «السبت، 14 نوفمبر 2026 02:19 م» على أنها بتوقيت القاهرة
+export function parseDate(raw = "") {
+  const t = Date.parse(raw);
+  if (Number.isFinite(t)) return t;
+  const m = toLatinDigits(raw).match(/(\d{1,2})\s+([\u0600-\u06FF]+)\s+(\d{4})\s+(\d{1,2}):(\d{2})(?::(\d{2}))?\s*([صم])?/);
+  if (!m || AR_MONTHS[m[2]] === undefined) return NaN;
+  let h = +m[4] % 12;
+  if (m[7] === "م") h += 12;
+  if (!m[7]) h = +m[4];
+  const asUtc = Date.UTC(+m[3], AR_MONTHS[m[2]], +m[1], h, +m[5], +(m[6] || 0));
+  return asUtc - cairoOffsetMs(asUtc);
+}
+
 // يقبل RSS 2.0 و RDF و Atom
 export function parseFeed(xml, fallbackName = "") {
   const blocks = xml.match(/<(item|entry)[\s>][\s\S]*?<\/\1>/gi) || [];
@@ -37,9 +57,13 @@ export function parseFeed(xml, fallbackName = "") {
       url = m ? decode(m[1]) : "";
     }
     const dateRaw = decode(tag(b, "pubDate") || tag(b, "dc:date") || tag(b, "updated") || tag(b, "published"));
-    const t = Date.parse(dateRaw);
-    // المصدر المسمّى في feeds.json له الأولوية؛ وسم <source> يُستخدم فقط مع خلاصات أخبار جوجل
-    let source = fallbackName || decode(tag(b, "source"));
+    const t = parseDate(dateRaw);
+    // بنج يضع الرابط الحقيقي داخل معامل url في رابط إعادة التوجيه
+    if (/bing\.com\/news\/apiclick/i.test(url)) {
+      try { const real = new URL(url).searchParams.get("url"); if (real) url = real; } catch {}
+    }
+    // المصدر المسمّى في feeds.json له الأولوية؛ وإلا وسم <source> (جوجل) أو <News:Source> (بنج)
+    let source = fallbackName || decode(tag(b, "source")) || decode(tag(b, "News:Source")).replace(/\s+on MSN$/i, "");
     // أخبار جوجل تكتب «العنوان - المصدر»
     if (source && title.endsWith(" - " + source)) title = title.slice(0, -(source.length + 3)).trim();
     if (!title || !/^https?:\/\//i.test(url) || !source) continue;
@@ -71,12 +95,16 @@ export function pick(items, now = Date.now()) {
 }
 
 async function fetchText(url) {
-  const res = await fetch(url, {
-    signal: AbortSignal.timeout(TIMEOUT_MS),
-    headers: { "user-agent": "Mozilla/5.0 (compatible; MogazBot/1.0; RSS reader)", accept: "application/rss+xml, application/xml, text/xml, */*" },
-  });
-  if (!res.ok) throw new Error("HTTP " + res.status);
-  return res.text();
+  let status = 0;
+  for (const accept of ["application/rss+xml, application/xml, text/xml, */*", "*/*"]) {
+    const res = await fetch(url, {
+      signal: AbortSignal.timeout(TIMEOUT_MS),
+      headers: { "user-agent": "Mozilla/5.0 (compatible; MogazBot/1.0; RSS reader)", accept },
+    });
+    if (res.ok) return res.text();
+    status = res.status;
+  }
+  throw new Error("HTTP " + status);
 }
 
 // ---------- الذكاء الاصطناعي (Gemini) ----------
@@ -160,6 +188,7 @@ async function main() {
   const trusted = cfg.trusted || [];
   const nowIso = new Date().toISOString();
   const usedUrls = new Set(); // الخبر يظهر في أول قسم فقط
+  const excludeRe = cfg.exclude?.length ? new RegExp(cfg.exclude.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")) : null;
   for (const s of cfg.sections) {
     const results = await Promise.all(
       s.feeds.map(async (f) => {
@@ -174,7 +203,12 @@ async function main() {
         }
       })
     );
-    const items = pick(results.flat().filter((i) => !usedUrls.has(i.url))).map((i) => {
+    // أخبار التشغيل السابق لنفس القسم تدخل كمرشحين، فلا يفرغ القسم لو تعطّل مصدر مؤقتاً
+    const carried = (prev.sections || []).find((p) => p.id === s.id)?.items || [];
+    const fetchedUrls = new Set(results.flat().map((i) => i.url));
+    const pool = [...results.flat(), ...carried.filter((i) => !fetchedUrls.has(i.url))]
+      .filter((i) => !usedUrls.has(i.url) && !(excludeRe && excludeRe.test(i.title)));
+    const items = pick(pool).map((i) => {
       usedUrls.add(i.url);
       const old = prevByUrl.get(i.url);
       // seen: أول مرة ظهر فيها الخبر عندنا (لعلامة «جديد»). impact: يُحتفظ به من التشغيل السابق.

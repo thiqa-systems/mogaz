@@ -1,5 +1,5 @@
 {
-  "_comment": "مصادر الأخبار. أضف أو احذف أي مصدر من هنا فقط. name يظهر للقارئ. الخلاصة التي تفشل تُتخطى وتُسجَّل في data.json تحت failed. trusted: المصادر المقبولة من خلاصات أخبار جوجل (التي ليس لها name)؛ أي مصدر خارجها يُستبعد.",
+  "_comment": "مصادر الأخبار. أضف أو احذف من هنا فقط. name يظهر للقارئ؛ الخلاصات بلا name (جوجل وبنج) تقبل فقط المصادر في trusted. exclude: كلمات تُستبعد العناوين التي تحتويها. الخلاصة التي تفشل تُسجَّل في data.json تحت failed.",
   "sections": [
     {
       "id": "egypt",
@@ -10,8 +10,12 @@
           "url": "https://www.youm7.com/rss/SectionRss?SectionID=65"
         },
         {
-          "name": "المصري اليوم",
-          "url": "https://www.almasryalyoum.com/rss/rssfeed"
+          "name": "اليوم السابع",
+          "url": "https://www.youm7.com/rss/SectionRss?SectionID=97"
+        },
+        {
+          "name": "صدى البلد",
+          "url": "https://www.elbalad.news/rss.aspx"
         },
         {
           "name": "",
@@ -20,6 +24,14 @@
         {
           "name": "",
           "url": "https://news.google.com/rss/search?q=%D9%85%D8%AF%D8%A8%D9%88%D9%84%D9%8A%20OR%20%22%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%22%20OR%20%22%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%22%20when%3A1d&hl=ar&gl=EG&ceid=EG:ar"
+        },
+        {
+          "name": "",
+          "url": "https://www.bing.com/news/search?q=%D9%85%D8%AF%D8%A8%D9%88%D9%84%D9%8A&format=rss&cc=EG&setlang=ar"
+        },
+        {
+          "name": "",
+          "url": "https://www.bing.com/news/search?q=%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9&format=rss&cc=EG&setlang=ar"
         }
       ]
     },
@@ -27,6 +39,10 @@
       "id": "economy",
       "title": "اقتصاد وأسواق",
       "feeds": [
+        {
+          "name": "البورصة",
+          "url": "https://www.alborsaanews.com/feed"
+        },
         {
           "name": "BBC عربي",
           "url": "https://feeds.bbci.co.uk/arabic/business/rss.xml"
@@ -42,6 +58,14 @@
         {
           "name": "",
           "url": "https://news.google.com/rss/search?q=%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%20OR%20%D8%B3%D8%B9%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1%20OR%20%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9%20when%3A1d&hl=ar&gl=EG&ceid=EG:ar"
+        },
+        {
+          "name": "",
+          "url": "https://www.bing.com/news/search?q=%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A&format=rss&cc=EG&setlang=ar"
+        },
+        {
+          "name": "",
+          "url": "https://www.bing.com/news/search?q=%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9&format=rss&cc=EG&setlang=ar"
         }
       ]
     },
@@ -50,8 +74,16 @@
       "title": "العالم",
       "feeds": [
         {
+          "name": "CNN بالعربية",
+          "url": "https://arabic.cnn.com/api/v1/rss/middle-east/rss.xml"
+        },
+        {
           "name": "BBC عربي",
-          "url": "https://feeds.bbci.co.uk/arabic/rss.xml"
+          "url": "https://feeds.bbci.co.uk/arabic/middleeast/rss.xml"
+        },
+        {
+          "name": "سكاي نيوز عربية",
+          "url": "https://www.skynewsarabia.com/web/rss/middle-east.xml"
         },
         {
           "name": "الجزيرة",
@@ -66,8 +98,8 @@
           "url": "https://rss.dw.com/rdf/rss-ar-all"
         },
         {
-          "name": "CNN بالعربية",
-          "url": "https://arabic.cnn.com/api/v1/rss/rss.xml"
+          "name": "BBC عربي",
+          "url": "https://feeds.bbci.co.uk/arabic/rss.xml"
         },
         {
           "name": "",
@@ -84,16 +116,20 @@
           "url": "https://aitnews.com/feed/"
         },
         {
-          "name": "BBC عربي",
-          "url": "https://feeds.bbci.co.uk/arabic/scienceandtech/rss.xml"
-        },
-        {
           "name": "عالم التقنية",
           "url": "https://www.tech-wd.com/wd/feed/"
         },
         {
+          "name": "BBC عربي",
+          "url": "https://feeds.bbci.co.uk/arabic/scienceandtech/rss.xml"
+        },
+        {
           "name": "",
           "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ar&gl=EG&ceid=EG:ar"
+        },
+        {
+          "name": "",
+          "url": "https://www.bing.com/news/search?q=%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A&format=rss&cc=EG&setlang=ar"
         }
       ]
     }
@@ -137,5 +173,23 @@
     "الهيئة العامة للاستعلامات",
     "البوابة العربية للأخبار التقنية",
     "عالم التقنية"
+  ],
+  "exclude": [
+    "حظك اليوم",
+    "الأبراج",
+    "أبراج",
+    "برج الحمل",
+    "برج الثور",
+    "برج الجوزاء",
+    "برج السرطان",
+    "برج الأسد",
+    "برج العذراء",
+    "برج الميزان",
+    "برج العقرب",
+    "برج القوس",
+    "برج الجدي",
+    "برج الدلو",
+    "برج الحوت",
+    "مواليد"
   ]
 }
