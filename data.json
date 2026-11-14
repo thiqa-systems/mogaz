@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:19:59.591Z",
+ "updated": "2026-11-14T19:29:59.551Z",
  "minute": [
   "تشهد الأسواق المصرية استقراراً في أسعار الدولار والدينار الكويتي والذهب، بالتوازي مع طرح بنك مصر لشهادات ادخارية جديدة.",
   "تابع رئيس الوزراء المصري مشروع توطين صناعة مشتقات البلازما بالدقهلية، فيما حذرت الأرصاد الجوية من شبورة ضبابية وأمطار قادمة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-14T19:19:59.591Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-14T19:29:59.551Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65387,
-   "change": -4.19,
-   "asOf": "2026-11-14T19:20:22.000Z",
+   "value": 65508,
+   "change": -4.02,
+   "asOf": "2026-11-14T19:30:08.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خروقات إسرائيلية متواصلة في جنوب لبنان وتحليق مكثف للمسيرات فوق بيروت.. تفاصيل",
-     "url": "https://www.elbalad.news/7180672",
+     "title": "المجر تهزم جورجيا بثنائية في دوري الأمم الأوروبية",
+     "url": "https://www.elbalad.news/7180710",
      "source": "صدى البلد",
-     "time": "2026-11-14T19:19:39.000Z",
-     "seen": "2026-11-14T19:19:59.591Z"
+     "time": "2026-11-14T19:28:51.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
     },
     {
-     "title": "طريقة عمل كرات البطاطس بالجبنة.. وصفة مقرمشة واقتصادية يحبها الأطفال",
-     "url": "https://www.elbalad.news/7180684",
+     "title": "إصابة 3 أشخاص بكسور وجروح في انفجار إطار سيارة داخل ورشة بالوادى الجديد",
+     "url": "https://www.elbalad.news/7180680",
      "source": "صدى البلد",
-     "time": "2026-11-14T19:18:50.000Z",
-     "seen": "2026-11-14T19:19:59.591Z"
+     "time": "2026-11-14T19:27:28.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
     },
     {
-     "title": "وزيرة التنمية توجه برفع درجة الاستعداد بالمحافظات لمواجهة الشبورة المائية الكثيفة",
-     "url": "https://www.elbalad.news/7180685",
+     "title": "أحمد موسى عن جولة مدبولي بالدقهلية: رئيس الوزراء استمع إلى طلبات أصحاب المشروعات والمستثمرين",
+     "url": "https://www.elbalad.news/7180691",
      "source": "صدى البلد",
-     "time": "2026-11-14T19:18:21.000Z",
-     "seen": "2026-11-14T19:19:59.591Z"
+     "time": "2026-11-14T19:27:03.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
+    },
+    {
+     "title": "دولة التلاوة.. متسابق: بدأت رحلتى مع القرآن بعمر 3 سنوات.. ووالدى كلمة السر",
+     "url": "https://www.youm7.com/story/2026/11/14/دولة-التلاوة-متسابق-بدأت-رحلتى-مع-القرآن-بعمر-3-سنوات/7618365",
+     "source": "اليوم السابع",
+     "time": "2026-11-14T19:27:00.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
+    },
+    {
+     "title": "وزيرة التضامن تشكر النائب العام خلال افتتاح مركز بيانات الذكاء الاصطناعي",
+     "url": "https://www.youm7.com/story/2026/11/14/وزيرة-التضامن-تشكر-النائب-العام-خلال-افتتاح-مركز-بيانات-الذكاء/7618536",
+     "source": "اليوم السابع",
+     "time": "2026-11-14T19:22:00.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
     },
     {
      "title": "كلمة النائب العام في احتفالية افتتاح مركز بيانات الذكاء الاصطناعي.. فيديو",
@@ -167,18 +181,18 @@
      "seen": "2026-11-14T19:19:59.591Z"
     },
     {
-     "title": "آيزنكوت يرفض دعوة نتنياهو لتشكيل حكومة وحدة..ويؤكد: مناورة سياسية",
-     "url": "https://www.youm7.com/story/2026/11/14/آيزنكوت-يرفض-دعوة-نتنياهو-لتشكيل-حكومة-وحدة-ويؤكد-مناورة-سياسية/7618545",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T19:15:00.000Z",
-     "seen": "2026-11-14T19:19:59.591Z"
+     "title": "مدبولي يوجه بتوفير تمويل لإنشاء امتداد لمستشفى الطوارئ بالمنصورة",
+     "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPb0N5cXdsSDYtQWtVZFY5cWJRVkxtSXJLQlRERHFsSWhFTElIdWRKQ1RuSE9ubmJ3Qkd4b01wUUhBX1djQnJVMFBpeXlwcnpJdGhCTHkzTDVqRnBwRVJFQy1CQnVpal9KSE1LX29kOV9sTlZBYXZkN2I1NnlWNFRIQS1IOHNQdnhxUUllUzNBeW9UNU5ZWXZFUHI0NHRuSnNvcDNBRjBRdk9tMk5MOTljU1YzNFFxWjIxbHNvM3FtNDZCOVgxd3hBZ01FX1k1R3Y1aW85bThhOTFkT19ONGlsZ3l4MXVfSElUT0RzN090dlZ3OWZSOUI2LWVIamhZUElISlc0ZUZMdzQ1MTlKdm9oMzRwaFd6U0J5NlJ3OEFqX04zZFVRUzh0Ukh2bVg4Z1YwN3MxNTlqeXpLTHI1U0x3S3ZYZHJUNjIyMlJZSjFsbHpiZTJiVXM3ZmhfWkVIV18tWndQLVF6S3QzRFJ1NlBDdEtvSV9yeno2cVJGNVBvQTRocFhEaERJVEgwSlM5UWR0UDdOSzNoTnVld0xJSFlFRloyNGpyXzRJVFRkNjZPNUs3a3pSQWRNdVl6a2dvZXprRkpqWTIxRXM4U2JDd04xNTBBcE9sTl9PeU9mbFE3STlTSUZseFpQOGo0c0V4T3UzWE12VzFNWUFNZlg1R2dUcFRXV0xGLTNCazhZTE5HQ2ktRFdhTEtvaTJPUVZzUnp1UEYxOHdlbC1UNEJfa0FpdHpHYmpkX3ZveUNpTDlHaFF0Rk3SAcgEQVVfeXFMT3dYTENScjltVlY3SDlPekRXRW02eEg4RmxseHNtdUlFVFNXTXc2U3BLWVR0ZVljVW1mN1NtNjVIcGpVU0cyc3BVWktxNGx0eXJ3MTU2cXFKa3BjREFRQmR1SjFhVkdwLTQtcWExUW94OXpnd0xjc0NFY3RrLWcxU1BmaTkyRUZzYW1oV2tMdWxRZWpIc2Z6MlJ4YzJVOWVGTGVKQ3dVZEUwc3J1VVdESHhDYkpMczdWTDJmWVlMc1lRcFlUOXBZVWZiNUZOTzJEYzdEMDFoU003bmxkbnVYb0lVckZ6TEU5R2J2Rm9yX1ltVXBuay1wbjJHa3pkS09ieFc1bl9tVUE4bU5tZm1lTXFBTWlodWJTV0RWUURlZWI3OXh4cWtkeXUzSWJBeFE5ZjZmb3dhOWlZd3V6b1pTTlBFQUhQdUVEZ2ZwSTdmS3FkRDJISm1EemZhcFM4Q05nV0JUVXBDOFlPXzlmVkpPQWdpQlVsNjVGRW9OdEpCSllZcmxRc0RQZlQzRFVrclQ3a2MtTlFpb0t5Y2FlQ2FjdmlvVjJrZTkxckc2WElFSVFLa2hlakN6anRQNjV1MFdHbENIRk9hY1VlODlsT0pJcVZDcC1ZTHUwcW11MGFWa0lWSmpNMVRlVG1YZVdVbTBKVW5ESHRwMnlFMmlTNTlRbkcySkwxLTY5N0NzRXZVYmRPcWhsNFpQbk1vcUN2MWFJTktYQ01WdFpfelN3MzItZ3E4YTZ2aHU2WDlUbkNwX1pSZi1odmxJdzA?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-14T19:14:33.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
     },
     {
-     "title": "دولة التلاوة.. الشيخ عبد الفتاح الطاروطي ضيف شرف الحلقة الثانية",
-     "url": "https://www.youm7.com/story/2026/11/14/دولة-التلاوة-الشيخ-عبد-الفتاح-الطاروطي-ضيف-شرف-الحلقة-الثانية/7618369",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T19:07:00.000Z",
-     "seen": "2026-11-14T19:10:00.026Z"
+     "title": "مدبولي: لدينا خطة لمضاعفة عدد المناطق الاستثمارية خلال الثلاث السنوات المقبلة",
+     "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxNMHpVX1NEblpIdlB1Nk04NnZuUUVGZ29yWE5GeGJuME56ak1ORWFjclZvV013NlJ5SlFhb2o4bFVVQ1NmWGQyN1ZraGpqX1NlT2V1ZnpYOEtpbmc5c3JSaXFPTnBVLW93dUtmZTd6Y1MyaGV6T0JfdW1wNWI1RG9Cc0wxV2U1ODlKM3ZDbWRqRU9SZEloMlRwYTJPYUEzTmpEV2doUlRWRUI2Z2hoMUxHak1XRGlkZnlBVTZnZXRsNVYwc05KdDBIZzJadEQwSVJhTDNZRkhGNklxRmNueUF1ckFUcWJnT2k0eGlPYjM1U0ZWb3dzVmRWaWpkUHdWRVlraW05S0VneG05MmlST1E0U0NNbzVTZFlCQ1g5TjY4SGo1SjdEUGpSdXVXdEVQOHRaY01oUzJTeXc1NnpBMjIwaTlQN0JIcTVEeFhwLVdrS1g2YnA2dnZpSmdLLVFPREE3WDEtbXNlbnQ3TUZOZVljOUJwdGlJYWdxaTdBXzRJV3RiRk9EbkJwQ3F2WGhHdFJIRzNOaGdwb0xwenBoalhUSTI1d2g3NEJaY2lWcEpRTHJ5V1R1NTkzemxTR0VxWC1yQ0NfNERXYjNMUlhrZ1pTeUlhZXZBMGZ2ZFVlSENDb3BGdExJdVF1MndEb21QRTBnRnhzaGFqOGdvZkZvWm9XdGhhZEFsRmQ1ekR4cjBXdERhZGhDTU91cjExOW1ETmcyZTNVNjFtVFNGRE41UDN0RmdXSERCRklIYmRvSVdYWERyZmRQQzFVV2t6cFB0cXJvcXlBNEhBMnpwalh4Wm1MSmpBc1AxZm1xN3d6Z0U4T0N4ckRpcW1RUzlOaG1hMVlNSG5WV2dRODJYQ3EzT3JUaVdn0gGXBUFVX3lxTE9mZkRrNFhnUzZzWFVOSERRczdKOHJrS09xODhZWm96dzFIeS1YTlBPZ0o3bUZ0TjctT1lfaFYtT0ExcmlzakZqbUdmUlNma085QUI1bmpBRzNnV0l1bXRRSk9UMEg1anQtbTlzQUhDV3hGM282QnlqNU1RMm5BU2NNY09WdEF6VE05RDFYU1hVWjAwVEFOVTlpVVphSnVDRnJtSEp3TGtzQ0ZKTll2eFdLcnBtbTVMOTBZbVZEMUlvOU5qNHlMUmpUVDFvOTFnSEZjY2wzQTh6dzkxN1RMc2JnU3lEd2hNRE1TUERnQ29LSktiN0NBcDBFOHNnOEZKVmJFalR4bFlsUzAxQ19xUlJDQ1ZrcHBIeUx5ckhHU1NWMl9YVHpUS3BJUDk0WnlSaXVVUWoxY2ZyNS1DcDcwOFM1LTdUMERVNmF6M1gyYi03RjlaMVM4aWRuekt4dzF6RThGX3hHTFkwUnVaYUZiSjdHQ3dOSVp4Wl9DeUV2ajdpMmMycG1OTVZlOWp6UllWV3FLeHM5V3JhbktQMFF5dWhlYUdXMHlnVTI1MzJLZTN1bVB0bThrdE5zTFpjQlhpc2p6TW95a21zUWlWallsYWJmYkt4TDBoOGZyemdpaUlRUnYzNVREdnRWWlJvcFMxQ0liQVlJbmJrUUxJMGtfVnJ0LUtjakpvcnFvdEdVZlBuZzZwZ1QxVXlZUFh5T0ZGLVBZVUV5V1psTUtlSkNBVmo3ZVBiVE96VGZFUmctMjJVNkRpakptLUpQOXFtNGIwMGxDUzdrUGFRQUZUSTFhVE5VNmh6cnN6aVlKR3lJT0FFVG94Wm9XRnVHamlCWEFBY2pTQkIydG1XakxFQm9rLXFTczUxN1R4VQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-14T19:12:58.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
     },
     {
      "title": "رئيس الوزراء من الدقهلية: \"رأيت قصص نجاح ملهمة لشباب ميت غمر\"",
@@ -186,14 +200,6 @@
      "source": "Masrawy",
      "time": "2026-11-14T18:25:26.000Z",
      "seen": "2026-11-14T18:39:59.377Z"
-    },
-    {
-     "title": "خلال زيارته للدقهلية.. مدبولي يشيد بمشروع توطين صناعة مشتقات البلازما (صور)",
-     "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxPYjZUVHBaOEFwN2RUaGlFYk5FbFpTLVZOOVZoSXg3MkMxUjhPTWY2WHdlTlc4V3BKRGpsQWd4aGtyMXFRdGs4ZFJXR3BGOTBKY0ozQ05FNHd2NEJtTXdBbWVvNVRlU21UWl9hX2VJVW1ENDE5SnQ2VjBwZHJJWGVlcmdBM2V5UzRMaVhsQTZXbmZsZU9MYzNSMmNhMVNIOHRONVk0dEd4MmxhSGVoNU94NWlYY0lUc0Q1ZUxrT0FmcDgteVNXQmZXRFdTd1BjWDc4ZFd5MDNMWUxzR05ibXlVR09nZ1hjYXV4ZXhPZVJuQk1QUVdCNFdmNHdvZVgtZ2pvTEhjcUNaS0puRmVCR3hGMVV5NVVrVlZ1YjhCMXdYTFFEVERqQ3ZFbkJMcy1PM2NzT05RNk5tZ2hQZC1zVXBwa0hOZDJxQmtBRkdMVWdKbTJvYzJJRDcyaUlkRmNrM1A2MU44VHZDQUxwNUNENTBERUtZSldVLU5WVDNTQzVUUTZ1Z3RxbjYzSmtlUXh5a3gzZE9KMGZyUHR2cDBNLWI0QUp2OVczZGl0dlY3cllFQTFzdm9wa0lZbjRFc1IzZUR3MWdZM1NVYzZsVmdCNnlXV0YyNmZka0l0ek90dUcydmpCTU00TVhaeFI0dFl0SVRwaEpiYXA4eU5BaTVadERPTlBsVDRFdWF2NU1SOWJGSHlZMkVtbE9XcTlBTzBWa19GMFpjTjR1Tmk0NzVLNk5QaWt4VGZjelU4N3gyUzZtWGxBY28xN0RhXzFjc2hGWWRtd3NZRVB3Tl9ycVhZWmMteUlPOXFod2hTZmlOcnlVMNIB9ARBVV95cUxNckpfeC1JdnphN3NnOGJ4RE9fc2lYb3JLVVZHMk1LTkZRSHVLMjhlNGpGVUI5TjhzQjRiaXMxM0lJbmIzQUtxbXd5SnAtem5JQlYxc04za2hTTXVuTXlwOVh0TksyQlpfLXk4VzVPTVZKQjBFOG1YbHhPeXZITzQybFpPd0xhQzRjVnJtV2lURGNoLTNEdklvZTMwazZybHh6Y0RtdmQxWXJydTUzcHp1NkhacFB6TFFYdVRRdUxyTERmTXhwVnhibzdHUmFJU21feTJXX0dhb1NFVzM2TG9JaDJyT2Y1UV84X0NnNkFxeGZXLWliZG5CNkdmQWYwMUZEYUlWY3QzY1dyallzM3VIa25lT20zeVVST0JxSTluTGg3M3FoTGZHQzQ3NVRFalFsbThQWlBYSEtuLTJhYmRPSHY4ekVKZlZiVzAtcjJidUllaXVVVE80RmxveGx0MkVCZ3JmZmI3bFhCRzNXSnptNlZhS29iLXA4S0pfbmJIZ2ZzS09RemZsamdlYmR5alJPYkE2bE1EbGlIbWJMUGJtbGdXTnVEdFBRZ0RVaTVCbTIzdXQxek96a1hTNTZwOC0wRmpUZ1phOE4wYU5YSGx0cHQzdUhGanFIa1RqZFJoNThqUlJmZDdncmlyUXRCemd3X0ZrTzdhQ2NIdmJPTzRpVWdYUXh3WXc1SXN5bExDQkpyRk1USFdaVTRpSHFWYVN4cDJsLWRfaC1lZDJGT21JM2syMlFUV0RvOVVkUlJHQml2N3d6Z3JWbVR5OXJLYldzeXVoOHRWdE4wRkdNMmh6V2hqazF0azBHTGxVM1BxUzQ3Qkh4?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-14T18:21:59.000Z",
-     "seen": "2026-11-14T18:29:59.570Z",
-     "impact": "توضح للمستثمرين اتجاه الدولة لنقل وتوطين الصناعات الطبية الحيوية في المحافظات المصرية."
     },
     {
      "title": "«فخور بيكم».. مدبولي يتفقد العاملين في المصانع بالدقهلية",
@@ -229,13 +235,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-14T16:02:02.000Z",
      "seen": "2026-11-14T18:29:59.570Z"
-    },
-    {
-     "title": "بالصور- رئيس الوزراء يتفقد المراكز الطبية بجامعة المنصورة ويزور المرضى",
-     "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNX3VpWTN4WDBISjFNV2pKcFYyanN2SjMyc2thNmxmN05CSzBYOWJZc2kxQkpVUGtKaGlaYlE1SGNRdDcxQWJ4cUpWR094dFA4ck1hTG9KcFFNU2dvbURnd3p0X0NtSVJmTURpYzFZY1EydmVUQlRRUGQ1RW1WZlFySXBOdHlvUVAtaTBSM2ZfeFFibWlZc045a2F3OTA1aEtaTG9iMjU4N3MyY3ZqRVQtWmUzYnFDTkdlU1RZdjJoc2pycVRxTDIxOThJQ2YzVk1FcmRmRUZsams2bERnWTlhY01CUnF1MW9PTmhOTXFEUEJXQTRnd1BndW45UGtQYmNPRVZVbEV0NlB1Qkgyb0FoaWo5NmlYTnlxTXJHSi1VdVBteGMtbDFtRzE0aHFGLXFVTlFWWWRHVk5HampId3RJRHpsaEw2VktSVXhEZGZnRmpZQ2ZmeFJLN1JkUWJaZnduSEw1ejNvcG96ei1qNWhZYy1sbTV1S2szRVVqYVktYTRVLS1zRXZKRk12N1VpMEo1OGRWajdFdWpBb3hCUEJzZUw0aVg1UDV1ZXM1NUNZalktRTFKa1AzdTZiUUtsc1RYaUdVcWZMb1NxV0k4UmcxZTNwWVlTS19jd19mbnNmbU9oVWN2Y1h5OHpOU1hWREpyTHBNT1p1OHRXSi1tWDdKc1cxbllMN2pqNDVyc1ZwMVJKbnh5Nmo0OVhtLUt4VlptU3J5QmVYanJYY2szcTVEd1htcnd3UlRTcmJpcGw0djltVXFDZkJ5b09UQV9paFUwWTZQYWlSWnhVSFpzaFhmZ0cwV27SAeoEQVVfeXFMTVF1bmpYMlBTZUJhSnBqb2cybC1uQ1RmRHI3UUJIekdyVlN1eEF6bGJVS2REeDJsc3Z1TzlqYTlMWldDejBFT2RaQ3NwUjU1bWVORm8xVmgwM1gtQVN5SFpTMEo5U2Jkb0t6WWFJZUhxckFBMGdyeVFrSjc3blNtRjdmVTg2TURueU5ITVVqMFM3TTFvR1YzbkZMMGQ3TWFISldSVWZ0N0NqVnpKZk9NUlNJMjc0SG5PSi1qNGtJaXdDZGQtWVNXbGZMUWtJOFc2Rk05amVENEwyTmxVT1BBWENSX2lJQWpnSm9nM2JyMjNTR3RsUlIyeVB3TkJGNW0xMTNpaE5CRGFvYkg4d0dNZHlfbTc5QkIyenNFQi1lSDE5NFEteExnWTNyZW9zcEZJUk9fOWJxUS1UUktFc2hpVGNidUJQbDZLNU1FM181cHhWZFJXVlo0OVJNYnVvOFlMX3NhSmI1dVRZSEZzcktGTVhhUDhGN0Rab240dEJ2VzY4eGZpdGFEQlpxYzR1b2FFbFlYZURwdVRyeUl5RC1tS2RUZUFYRTlMQkMxTURnbGZheUlEUEhzNmI5YXpVZWljMFRrcERFUjVMRVNMblVRd3RkOXEtbzRMUFFtTE1sbTctWERQYUZTT09WclgtM29LUmJTQXRpSks3eVJNaklRYXR0Ykl6STlObmFiUGxpY1YzdncwY2FnSnVrZFBaX0xhNlZJZE1aSWIzUnh0MVMxSnBDeC05d1lJbGRFcVhENXVRT0wwWTBtZ09NUE1PbTYyeVNHLTdPdjZvUTNKZkdlQzU2alctX0gwT0NB?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-14T15:03:04.000Z",
-     "seen": "2026-11-14T18:29:59.570Z"
     }
    ]
   },
@@ -265,20 +264,19 @@
      "seen": "2026-11-14T18:29:59.570Z"
     },
     {
+     "title": "استقرار سعر الدولار مقابل الجنيه فى البنوك اليوم السبت",
+     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNX0xwSS1BdGhCMFdoS1VTQ09tUmd2NXdXcWl0ZTBzeXB2c25VcEdPbnhRM21rNXhzNnVESzZ5WUNiVW8tdE9ESHZsalNJU1UzbGVpTzFIQUYyRlp1Rm9uVU93Ulh1ejM3ZE40MVVpdk1rdlVJTmR4dlRVbTBQejFRcGhIVU1VMTlSVm9wNHJLOU9xWnhxM01fT0VvclluTGxTX1J5bFRGd3Joc2FKN3ZLUmhfYkFmSHg4NTEyUEZ5T0FRWUFkYzFBcHNFVVdNN1d1dTZvcUQyZXdEbGNNcDczbmR0U2ZTMGZtekJHLWJtem9pM1l6dThWU1F6Y0JZeXZUVkt4OXNJSnRISHdQR3BiMWFzbU1Zanp3QzViMGdZcTBNaWh2RzdHYS1ubEZEN0VEVVN0bk1COVp4ZTFubTlJQm5idEFXaUNHbTJxdDV0Vy1vZEtTVVltcFFOVFowMUV2dmtHZE9nOU53am9xWW5vVUlMZUl6LXBtUTNra2hVT0hVM3lCMDE4b0UzbnByNjFURTYwNFBTNUdIeGI0WWwtT3I5VkhrUkRLVU0tZERmb1ZGXzRRa2RTOF9RNVljNU9hMmMzbWtDZmJOeFA1TDJNYdIB0ANBVV95cUxNX0xwSS1BdGhCMFdoS1VTQ09tUmd2NXdXcWl0ZTBzeXB2c25VcEdPbnhRM21rNXhzNnVESzZ5WUNiVW8tdE9ESHZsalNJU1UzbGVpTzFIQUYyRlp1Rm9uVU93Ulh1ejM3ZE40MVVpdk1rdlVJTmR4dlRVbTBQejFRcGhIVU1VMTlSVm9wNHJLOU9xWnhxM01fT0VvclluTGxTX1J5bFRGd3Joc2FKN3ZLUmhfYkFmSHg4NTEyUEZ5T0FRWUFkYzFBcHNFVVdNN1d1dTZvcUQyZXdEbGNNcDczbmR0U2ZTMGZtekJHLWJtem9pM1l6dThWU1F6Y0JZeXZUVkt4OXNJSnRISHdQR3BiMWFzbU1Zanp3QzViMGdZcTBNaWh2RzdHYS1ubEZEN0VEVVN0bk1COVp4ZTFubTlJQm5idEFXaUNHbTJxdDV0Vy1vZEtTVVltcFFOVFowMUV2dmtHZE9nOU53am9xWW5vVUlMZUl6LXBtUTNra2hVT0hVM3lCMDE4b0UzbnByNjFURTYwNFBTNUdIeGI0WWwtT3I5VkhrUkRLVU0tZERmb1ZGXzRRa2RTOF9RNVljNU9hMmMzbWtDZmJOeFA1TDJNYQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-14T18:04:43.000Z",
+     "seen": "2026-11-14T19:29:59.551Z"
+    },
+    {
      "title": "مميزات شهادة يوماتي 2026 من بنك مصر",
      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQenZOemstZGFLOEh3ZDBXSlN2bjNBZHc0UEpGaVNtNmVQQ3RneVFxSkRkX25fRmt6eWZZRDVpc2lqTFNmcjV4d052ZGZUb1Z0T1JFTjRjblJpS0paZmdDaGpDd2wwR3lYSjZtbW1KYk9ac2kwOXFnTXdzcnplckZSNWtIN3M5dGUzTUk1UEhhRlJEVVNiT3NyY0RWSEhJUXBkY3FUYnlDRTQ1YUdLUExycGxPSlJxSDZ3ZGxoVTBMcVB4ZGp3Z0Y1YkVzWm4xZFpKdno0dDBXNUFFQTQ3ZXhTN0VSQU5NTF9XUWdRZWdaN1dCVksxTXYyd2N5eEhRaWU0Y1NVbGJ0ZmVnUkhveXQ0NE16QV93Skc3YWZsVnFXVnkzNU0?oc=5",
      "source": "عالم المال",
      "time": "2026-11-14T18:01:02.000Z",
      "seen": "2026-11-14T18:29:59.570Z",
      "impact": "تُعرّف المودعين والأفراد في مصر بالخيارات الادخارية المتاحة لتنظيم استثماراتهم المالية."
-    },
-    {
-     "title": "استقرار سعر الدولار مقابل الجنيه فى البنوك اليوم السبت",
-     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxORU9SbXlUaEVKM1NoQzNqSXpGZkRlSVZ4cUIybXplZ2tvREhYb3haTDgtRC1XTGQzdUhGc18xV3FnSGtmWmtSRmpPdHNwTnd5ZVlDdWpPS01xTWc3Y3FrcW5PMzhLaDRfSWhXME1ONWZtQUVzbk81aFdsTEN3V1RhT2hDZkU3eEtzNHRoTVFhNzVxT3BwVFJ3VnN0RlVyZGxpN1hhTl9SWjNsM2hDRVdNRDZUd2FLdmVaaElVcGRzUnRvSXVQX3phel92R1ppRDkza0E1R0dxWkpEeVB6bmk2U05sUW50aWpjVTlHRThPM01Vbm9NWWNBVS1BSUFPR0NUN19pX3lWTUlJUDd1STVWai1hN3FINkg2dEpvYkc2Vk1ZVWhpc1JRaG9ueURPc3U0bXJScWVtdFUtMVJhaDRaWTlrOV8zWi14aExwTHE2VGhZcnBBTFVTd0lrVjhBb3M4clhUTjBmMTMyOUlhdC1XRENnSkNlMDk3ck0zTGdTenF5LVRfM0diVTNCOXpDM1dvVm04YzFhbjRVOHVIX0s0V2kzV0dPM1J1V2NSc0IzSFhPempDY1VOR3dCYUI0MmJrY2JoWXdEU2Z0bTBSSXlMMjBpdUtwUdIB0ANBVV95cUxNX0xwSS1BdGhCMFdoS1VTQ09tUmd2NXdXcWl0ZTBzeXB2c25VcEdPbnhRM21rNXhzNnVESzZ5WUNiVW8tdE9ESHZsalNJU1UzbGVpTzFIQUYyRlp1Rm9uVU93Ulh1ejM3ZE40MVVpdk1rdlVJTmR4dlRVbTBQejFRcGhIVU1VMTlSVm9wNHJLOU9xWnhxM01fT0VvclluTGxTX1J5bFRGd3Joc2FKN3ZLUmhfYkFmSHg4NTEyUEZ5T0FRWUFkYzFBcHNFVVdNN1d1dTZvcUQyZXdEbGNNcDczbmR0U2ZTMGZtekJHLWJtem9pM1l6dThWU1F6Y0JZeXZUVkt4OXNJSnRISHdQR3BiMWFzbU1Zanp3QzViMGdZcTBNaWh2RzdHYS1ubEZEN0VEVVN0bk1COVp4ZTFubTlJQm5idEFXaUNHbTJxdDV0Vy1vZEtTVVltcFFOVFowMUV2dmtHZE9nOU53am9xWW5vVUlMZUl6LXBtUTNra2hVT0hVM3lCMDE4b0UzbnByNjFURTYwNFBTNUdIeGI0WWwtT3I5VkhrUkRLVU0tZERmb1ZGXzRRa2RTOF9RNVljNU9hMmMzbWtDZmJOeFA1TDJNYQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T18:00:00.000Z",
-     "seen": "2026-11-14T18:29:59.570Z",
-     "impact": "تساعد المستوردين والمتعاملين في مصر على متابعة استقرار أسعار الصرف وتكلفة المعاملات."
     },
     {
      "title": "سعر الدولار الأمريكي اليوم السبت 13 نوفمبر 2026 مقابل الجنيه",
