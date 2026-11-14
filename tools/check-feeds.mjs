@@ -9,7 +9,12 @@ const out = await Promise.all(list.map(async ([sec, name, url]) => {
       const res = await fetch(url, { signal: AbortSignal.timeout(15000), headers: { "user-agent": "Mozilla/5.0 (compatible; MogazBot/1.0; RSS reader)", accept } });
       r.status = res.status;
       if (!res.ok) continue;
-      const items = parseFeed(await res.text(), name);
+      const xml = await res.text();
+      const items = parseFeed(xml, name);
+      const firstItem = (xml.match(/<(item|entry)[\s>][\s\S]*?<\/\1>/i) || [""])[0];
+      r.rawDates = (firstItem.match(/<(pubDate|dc:date|updated|published)[^>]*>[\s\S]*?<\/\1>/gi) || []).slice(0, 2);
+      r.rawSource = (firstItem.match(/<[^>]*source[^>]*>[\s\S]*?<\/[^>]*source>/i) || [""])[0].slice(0, 200);
+      r.rawLink = (firstItem.match(/<link[^>]*>[\s\S]*?<\/link>|<link[^>]*\/>/i) || [""])[0].slice(0, 300);
       const times = items.map((i) => Date.parse(i.time)).filter(Number.isFinite);
       r.items = items.length;
       r.fresh24h = times.filter((t) => Date.now() - t < 24 * 3600e3).length;
