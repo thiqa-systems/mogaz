@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>موجز الصباح</title>
-<meta name="description" content="أهم أخبار مصر والعالم والاقتصاد والتكنولوجيا من مصادر متعددة، تتحدّث كل ساعة.">
+<meta name="description" content="أهم أخبار مصر والعالم والاقتصاد والتكنولوجيا من مصادر متعددة، تتحدّث كل 10 دقائق.">
 <meta name="theme-color" content="#0B6B6B">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
@@ -57,6 +57,7 @@ ul.list li:last-child{border-bottom:0}
 .t{font-size:16.5px;font-weight:600;line-height:1.55;text-decoration:none;text-wrap:pretty}
 .t:hover{text-decoration:underline}
 .m{font-size:13px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.m .new{font-style:normal;background:var(--accent);color:var(--surface);font-weight:600;font-size:12px;padding:1px 9px;border-radius:999px}
 .m b{color:var(--accent);background:var(--accent-soft);font-weight:500;padding:1px 9px;border-radius:999px}
 .impact{background:var(--note-soft);border-radius:8px;padding:8px 12px;font-size:14.5px}
 .impact b{color:var(--note);font-size:12.5px;display:block}
@@ -140,7 +141,9 @@ footer p{margin:0 0 6px}
         var a = el(u ? "a" : "span", "t", it.title);
         if (u){ a.href = u; a.target = "_blank"; a.rel = "noopener noreferrer"; }
         li.appendChild(a);
-        var meta = el("div", "m"); meta.appendChild(el("b", null, it.source)); meta.appendChild(el("span", null, ago(it.time)));
+        var meta = el("div", "m");
+        if (it.seen && Date.now() - Date.parse(it.seen) < 60 * 60000) meta.appendChild(el("i", "new", "جديد"));
+        meta.appendChild(el("b", null, it.source)); meta.appendChild(el("span", null, ago(it.time)));
         li.appendChild(meta);
         if (it.impact){ var im = el("div", "impact"); im.appendChild(el("b", null, "ماذا يعني لك")); im.appendChild(document.createTextNode(it.impact)); li.appendChild(im); }
         ul.appendChild(li);
@@ -151,7 +154,7 @@ footer p{margin:0 0 6px}
   }
 
   function load(){
-    fetch("data.json?t=" + Math.floor(Date.now() / 300000), { cache: "no-store" })
+    fetch("data.json?t=" + Math.floor(Date.now() / 60000), { cache: "no-store" })
       .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function(d){ state.data = d; render(); })
       .catch(function(){
@@ -163,7 +166,7 @@ footer p{margin:0 0 6px}
   }
   load();
   document.addEventListener("visibilitychange", function(){ if (!document.hidden) load(); });
-  setInterval(function(){ if (!document.hidden) load(); }, 10 * 60 * 1000);
+  setInterval(function(){ if (!document.hidden) load(); }, 5 * 60 * 1000);
 
   var deferred = null, btn = $("install");
   window.addEventListener("beforeinstallprompt", function(e){ e.preventDefault(); deferred = e; btn.hidden = false; });

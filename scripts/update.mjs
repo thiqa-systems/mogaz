@@ -1,5 +1,5 @@
 // يجمع العناوين من خلاصات RSS في feeds.json ويكتب data.json. بدون أي مكتبات خارجية (Node 20+).
-// اختياري: لو وُجد ANTHROPIC_API_KEY يضيف «في دقيقة» و«ماذا يعني لك» لأهم الأخبار.
+// اختياري: لو وُجد مفتاح Gemini يضيف «في دقيقة» و«ماذا يعني لك» لأهم الأخبار.
 import { readFile, writeFile } from "node:fs/promises";
 
 const ROOT = new URL("../", import.meta.url);
@@ -78,48 +78,86 @@ async function fetchText(url) {
   return res.text();
 }
 
-async function aiEnrich(sections) {
-  const key = process.env.ANTHROPIC_API_KEY;
-  if (!key) return null;
-  const list = [];
-  sections.forEach((s) => s.items.slice(0, 5).forEach((it) => list.push({ id: list.length, sec: s.title, it })));
-  const prompt =
-    "هذه عناوين أخبار اليوم من مصادر عربية. اعتمد على العناوين فقط ولا تضف أي واقعة أو رقم غير موجود فيها. " +
-    "أخرج JSON فقط بهذا الشكل: {\"minute\":[\"...\"],\"impacts\":{\"رقم الخبر\":\"...\"}}. " +
-    "minute: من 3 إلى 4 جمل قصيرة محايدة تلخص أهم ما في اليوم. " +
-    "impacts: لأهم 8 أخبار على الأكثر، جملة واحدة تشرح لماذا يهم الخبر فرداً أو مستثمراً في مصر، بدون توصية شراء أو بيع وبدون رأي سياسي.\n\n" +
-    list.map((x) => `${x.id} [${x.sec}] ${x.it.title} (${x.it.source})`).join("\n");
-  try {
-    const res = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      signal: AbortSignal.timeout(60000),
-      headers: { "content-type": "application/json", "x-api-key": key, "anthropic-version": "2023-06-01" },
-      body: JSON.stringify({
-        model: process.env.AI_MODEL || "claude-haiku-5-5",
-        max_tokens: 1500,
-        messages: [{ role: "user", content: prompt }],
-      }),
-    });
-    if (!res.ok) throw new Error("AI HTTP " + res.status);
-    const j = await res.json();
-    const text = (j.content || []).map((c) => c.text || "").join("");
-    const parsed = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));
-    for (const [id, imp] of Object.entries(parsed.impacts || {})) {
-      const x = list[+id];
-      if (x && typeof imp === "string") x.it.impact = imp.slice(0, 300);
-    }
-    return Array.isArray(parsed.minute) ? parsed.minute.filter((m) => typeof m === "string").slice(0, 4) : null;
-  } catch (e) {
-    console.warn("AI skipped:", e.message);
-    return null;
+// ---------- الذكاء الاصطناعي (Gemini) ----------
+// المفاتيح من أسرار GitHub: GEMINI_API_KEY و GEMINI_API_KEY_2 (الثاني احتياطي عند نفاد الحصة).
+// النموذج: GEMINI_MODEL إن وُجد، وإلا يجرّب القائمة بالترتيب حتى يجد نموذجاً متاحاً.
+const DEFAULT_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"];
+const AI_MIN_GAP_MIN = 20; // أقل فاصل بين طلبين للذكاء الاصطناعي، لتوفير الحصة المجانية
+
+export function buildPrompt(list) {
+  return (
+    "هذه عناوين أخبار من مصادر عربية في آخر ساعات. اعتمد على العناوين فقط، ولا تضف أي واقعة أو رقم أو اسم غير موجود فيها. " +
+    'أخرج JSON فقط بهذا الشكل: {"minute":["..."],"impacts":{"رقم الخبر":"..."}}. ' +
+    "minute: من 3 إلى 4 جمل قصيرة ومحايدة بالعربية البسيطة تلخص أهم ما في الأخبار. " +
+    "impacts: لأهم 10 أخبار على الأكثر، جملة واحدة تشرح لماذا يهم الخبر فرداً أو مستثمراً في مصر، بدون توصية شراء أو بيع، وبدون رأي سياسي، وبدون تأكيد اتهام غير منسوب لمصدره.\n\n" +
+    list.map((x) => `${x.id} [${x.sec}] ${x.it.title} (${x.it.source})`).join("\n")
+  );
+}
+
+export function parseAI(text, list) {
+  const parsed = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));
+  let n = 0;
+  for (const [id, imp] of Object.entries(parsed.impacts || {})) {
+    const x = list[+id];
+    if (x && typeof imp === "string" && imp.trim()) { x.it.impact = imp.trim().slice(0, 300); n++; }
   }
+  const minute = Array.isArray(parsed.minute) ? parsed.minute.filter((m) => typeof m === "string" && m.trim()).slice(0, 4) : [];
+  return { minute, n };
+}
+
+async function callGemini(prompt) {
+  const keys = [process.env.GEMINI_API_KEY, process.env.GEMINI_API_KEY_2].filter(Boolean);
+  if (!keys.length) return { error: "no keys" };
+  const models = process.env.GEMINI_MODEL ? [process.env.GEMINI_MODEL] : DEFAULT_MODELS;
+  const errors = [];
+  for (const model of models) {
+    for (let k = 0; k < keys.length; k++) {
+      try {
+        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+          method: "POST",
+          signal: AbortSignal.timeout(60000),
+          headers: { "content-type": "application/json", "x-goog-api-key": keys[k] },
+          body: JSON.stringify({
+            contents: [{ role: "user", parts: [{ text: prompt }] }],
+            generationConfig: { responseMimeType: "application/json", temperature: 0.2, maxOutputTokens: 2500 },
+          }),
+        });
+        if (res.ok) {
+          const j = await res.json();
+          const text = (j.candidates?.[0]?.content?.parts || []).map((p) => p.text || "").join("");
+          if (!text) throw new Error("empty response");
+          return { text, model, key: k + 1 };
+        }
+        errors.push(`${model} key${k + 1}: HTTP ${res.status}`);
+        if (res.status === 404 || res.status === 400) break; // النموذج غير متاح: جرّب النموذج التالي
+        // 429 (حصة) أو 401/403 (مفتاح): جرّب المفتاح التالي
+      } catch (e) {
+        errors.push(`${model} key${k + 1}: ${e.message}`);
+      }
+    }
+  }
+  return { error: errors.join("; ") };
 }
 
 async function main() {
   const cfg = JSON.parse(await readFile(new URL("feeds.json", ROOT), "utf8"));
+  let prev = {};
+  try { prev = JSON.parse(await readFile(new URL("data.json", ROOT), "utf8")); } catch {}
+  const prevByUrl = new Map();
+  // الخبر نفسه قد يظهر في أكثر من قسم: نحتفظ بأقدم seen وبأي impact موجود
+  (prev.sections || []).forEach((s) =>
+    (s.items || []).forEach((i) => {
+      const o = prevByUrl.get(i.url);
+      if (!o) return prevByUrl.set(i.url, { ...i });
+      if (i.impact && !o.impact) o.impact = i.impact;
+      if (i.seen && (!o.seen || i.seen < o.seen)) o.seen = i.seen;
+    })
+  );
+
   const failed = [];
   const sections = [];
   const trusted = cfg.trusted || [];
+  const nowIso = new Date().toISOString();
   for (const s of cfg.sections) {
     const results = await Promise.all(
       s.feeds.map(async (f) => {
@@ -134,7 +172,11 @@ async function main() {
         }
       })
     );
-    const items = pick(results.flat());
+    const items = pick(results.flat()).map((i) => {
+      const old = prevByUrl.get(i.url);
+      // seen: أول مرة ظهر فيها الخبر عندنا (لعلامة «جديد»). impact: يُحتفظ به من التشغيل السابق.
+      return { ...i, seen: old?.seen || nowIso, ...(old?.impact ? { impact: old.impact } : {}) };
+    });
     console.log(`${s.id}: ${items.length} items from ${new Set(items.map((i) => i.source)).size} sources`);
     sections.push({ id: s.id, title: s.title, items });
   }
@@ -146,8 +188,35 @@ async function main() {
     console.error(`Only ${total} items collected; keeping previous data.json.`);
     process.exit(1);
   }
-  const minute = await aiEnrich(sections);
-  const data = { updated: new Date().toISOString(), minute: minute || [], sections, failed };
+
+  let minute = prev.minute || [];
+  let ai = prev.ai || null;
+  const list = [];
+  sections.forEach((s) => s.items.slice(0, 5).forEach((it) => list.push({ id: list.length, sec: s.title, it })));
+  const needs = list.some((x) => !x.it.impact);
+  const lastAt = ai?.at ? Date.parse(ai.at) : 0;
+  const due = Date.now() - lastAt > AI_MIN_GAP_MIN * 60e3;
+  if (needs && due && (process.env.GEMINI_API_KEY || process.env.GEMINI_API_KEY_2)) {
+    const r = await callGemini(buildPrompt(list));
+    if (r.text) {
+      try {
+        const out = parseAI(r.text, list);
+        if (out.minute.length) minute = out.minute;
+        ai = { at: nowIso, model: r.model, key: r.key, impacts: out.n };
+        console.log(`AI ok: ${r.model} (key ${r.key}), ${out.n} impacts`);
+      } catch (e) {
+        ai = { ...(ai || {}), error: "bad JSON: " + e.message, errorAt: nowIso };
+        console.warn("AI parse failed:", e.message);
+      }
+    } else {
+      ai = { ...(ai || {}), error: r.error, errorAt: nowIso };
+      console.warn("AI failed:", r.error);
+    }
+  } else {
+    console.log(`AI skipped (new items: ${needs}, gap ok: ${due})`);
+  }
+
+  const data = { updated: nowIso, minute, ai, sections, failed };
   await writeFile(new URL("data.json", ROOT), JSON.stringify(data, null, 1) + "\n");
   console.log(`Wrote data.json with ${total} items.`);
 }

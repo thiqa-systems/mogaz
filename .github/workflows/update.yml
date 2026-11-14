@@ -2,7 +2,7 @@ name: تحديث الأخبار
 
 on:
   schedule:
-    - cron: "17 * * * *"   # كل ساعة (بتوقيت UTC، وقد يتأخر GitHub دقائق)
+    - cron: "*/10 * * * *"   # كل 10 دقائق (GitHub قد يؤخر المواعيد المجدولة وقت الزحام)
   workflow_dispatch:        # زر تشغيل يدوي من تبويب Actions
 
 permissions:
@@ -23,11 +23,15 @@ jobs:
       - name: جمع الأخبار
         run: node scripts/update.mjs
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
       - name: حفظ البيانات
         run: |
           git config user.name "mogaz-bot"
           git config user.email "mogaz-bot@users.noreply.github.com"
           git add data.json
-          git diff --cached --quiet || git commit -m "تحديث الأخبار"
+          git diff --cached --quiet && exit 0
+          git commit -m "تحديث الأخبار"
+          git pull --rebase -X ours origin main || true
           git push

@@ -1,5 +1,5 @@
 // الواجهة تُحفظ للعمل بدون إنترنت. البيانات: الشبكة أولاً، وآخر نسخة محفوظة عند انقطاعها.
-const CACHE = "mogaz-v1";
+const CACHE = "mogaz-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
