@@ -18,13 +18,15 @@
 :root{
   --bg:#F2F5F4; --surface:#FFFFFF; --ink:#13222B; --muted:#586972; --line:#DCE3E2;
   --accent:#0B6B6B; --accent-soft:#E0EFEE; --note:#8A5A0A; --note-soft:#FBF1DC;
+  --up:#1F6F4A; --down:#A33A2A;
   --display:"Reem Kufi","IBM Plex Sans Arabic","Segoe UI",Tahoma,sans-serif;
   --body:"IBM Plex Sans Arabic","Segoe UI",Tahoma,Arial,sans-serif;
 }
 @media (prefers-color-scheme: dark){
   :root{ color-scheme:dark;
     --bg:#0E171B; --surface:#172329; --ink:#E7EEF0; --muted:#94A5AD; --line:#27363D;
-    --accent:#56C4BE; --accent-soft:#16343A; --note:#E8B45C; --note-soft:#2E2718; }
+    --accent:#56C4BE; --accent-soft:#16343A; --note:#E8B45C; --note-soft:#2E2718;
+    --up:#6FCB9B; --down:#F08B78; }
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -61,6 +63,21 @@ ul.list li:last-child{border-bottom:0}
 .m b{color:var(--accent);background:var(--accent-soft);font-weight:500;padding:1px 9px;border-radius:999px}
 .impact{background:var(--note-soft);border-radius:8px;padding:8px 12px;font-size:14.5px}
 .impact b{color:var(--note);font-size:12.5px;display:block}
+.mk{display:flex;flex-direction:column;gap:6px}
+.mk[hidden],.ind[hidden]{display:none}
+.tiles{display:flex;gap:10px;overflow-x:auto;padding-bottom:4px;scroll-snap-type:x proximity}
+.tile{flex:0 0 auto;min-width:150px;background:var(--surface);border:1px solid var(--line);border-radius:10px;
+  padding:10px 12px;scroll-snap-align:start;display:flex;flex-direction:column;gap:1px}
+.tile .n{font-size:12.5px;color:var(--muted)}
+.tile .v{font-size:19px;font-weight:600;font-variant-numeric:tabular-nums}
+.tile .u{font-size:12px;color:var(--muted);font-weight:400;margin-inline-start:4px}
+.tile .c{font-size:13px;font-variant-numeric:tabular-nums;direction:ltr;text-align:right}
+.tile .c.up{color:var(--up)} .tile .c.down{color:var(--down)}
+.tile.stale{opacity:.65}
+.fine{margin:0;font-size:12px;color:var(--muted)}
+.ind h2{font-family:var(--display);font-size:21px;margin:0 0 10px}
+.ind .row{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.ind .val{font-size:18px;font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap}
 .state{color:var(--muted);text-align:center;padding:28px 0}
 footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:12px}
 footer p{margin:0 0 6px}
@@ -76,6 +93,11 @@ footer p{margin:0 0 6px}
     <button class="btn" id="install" type="button" hidden>تثبيت التطبيق</button>
   </header>
 
+  <section class="mk" id="mkBox" hidden aria-label="الأسعار">
+    <div class="tiles" id="markets"></div>
+    <p class="fine" id="mkNote"></p>
+  </section>
+
   <div class="minute" id="minuteBox" hidden>
     <h2>في دقيقة</h2>
     <ol id="minute"></ol>
@@ -83,6 +105,11 @@ footer p{margin:0 0 6px}
 
   <nav class="tabs" id="tabs" aria-label="الأقسام"></nav>
   <main id="feed"><p class="state">جارٍ تحميل الأخبار…</p></main>
+
+  <section class="ind" id="indBox" hidden>
+    <h2>مؤشرات مصر الأساسية</h2>
+    <ul class="list" id="indicators"></ul>
+  </section>
 
   <footer>
     <p>العناوين من مصادرها المذكورة، والضغط على الخبر يفتحه في موقع المصدر. الجمع والترتيب آليان بدون تحرير بشري.</p>
@@ -112,6 +139,34 @@ footer p{margin:0 0 6px}
     var d = state.data, feed = $("feed");
     if (!d) return;
     $("updated").textContent = "آخر تحديث " + ago(d.updated);
+
+    var nf = function(v){ return Number(v).toLocaleString("ar-EG", { maximumFractionDigits: 4 }); };
+    var mk = $("markets"); mk.textContent = "";
+    (d.markets || []).forEach(function(x){
+      var t = el("div", "tile" + (x.stale ? " stale" : ""));
+      t.title = (x.source || "") + (x.asOf ? " · " + new Date(x.asOf).toLocaleString("ar-EG") : "");
+      t.appendChild(el("span", "n", x.name));
+      var v = el("span", "v", nf(x.value)); v.appendChild(el("span", "u", x.unit || "")); t.appendChild(v);
+      if (typeof x.change === "number"){
+        var up = x.change > 0, dn = x.change < 0;
+        t.appendChild(el("span", "c" + (up ? " up" : dn ? " down" : ""), (up ? "▲ +" : dn ? "▼ " : "") + x.change.toFixed(2) + "%"));
+      } else if (x.stale){ t.appendChild(el("span", "c", "آخر قيمة متاحة")); }
+      mk.appendChild(t);
+    });
+    $("mkBox").hidden = !(d.markets || []).length;
+    $("mkNote").textContent = "التغير مقارنة بإغلاق اليوم السابق. سعر الذهب المحلي تقديري من السعر العالمي وسعر الدولار الرسمي، وسعر محلات الصاغة يختلف (مصنعية وفرق سوق).";
+
+    var ind = $("indicators"); ind.textContent = "";
+    (d.indicators || []).forEach(function(x){
+      var li = el("li"), row = el("div", "row");
+      row.appendChild(el("span", "t", x.name)); row.appendChild(el("span", "val", x.value));
+      li.appendChild(row);
+      var meta = el("div", "m"); meta.appendChild(el("span", null, x.note || ""));
+      var u = safe(x.url);
+      var src = el(u ? "a" : "b", null, x.source || ""); if (u){ src.href = u; src.target = "_blank"; src.rel = "noopener noreferrer"; src.style.color = "var(--accent)"; }
+      meta.appendChild(src); li.appendChild(meta); ind.appendChild(li);
+    });
+    $("indBox").hidden = !(d.indicators || []).length;
 
     var mb = $("minuteBox"), m = $("minute"); m.textContent = "";
     (d.minute || []).forEach(function(x){ m.appendChild(el("li", null, x)); });

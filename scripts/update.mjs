@@ -1,6 +1,7 @@
 // يجمع العناوين من خلاصات RSS في feeds.json ويكتب data.json. بدون أي مكتبات خارجية (Node 20+).
 // اختياري: لو وُجد مفتاح Gemini يضيف «في دقيقة» و«ماذا يعني لك» لأهم الأخبار.
 import { readFile, writeFile } from "node:fs/promises";
+import { fetchMarkets } from "./markets.mjs";
 
 const ROOT = new URL("../", import.meta.url);
 const MAX_AGE_H = 36;      // تجاهل ما هو أقدم من ذلك
@@ -218,7 +219,13 @@ async function main() {
     console.log(`AI skipped (new items: ${needs}, gap ok: ${due})`);
   }
 
-  const data = { updated: nowIso, minute, ai, sections, failed };
+  const { markets, errors: marketErrors } = await fetchMarkets(prev.markets || []);
+  if (marketErrors.length) console.warn("Market errors:", marketErrors.join("; "));
+  console.log(`Markets: ${markets.filter((m) => !m.stale).length} fresh, ${markets.filter((m) => m.stale).length} stale`);
+  let indicators = [];
+  try { indicators = JSON.parse(await readFile(new URL("indicators.json", ROOT), "utf8")).items || []; } catch {}
+
+  const data = { updated: nowIso, minute, ai, markets, indicators, sections, failed, marketErrors };
   await writeFile(new URL("data.json", ROOT), JSON.stringify(data, null, 1) + "\n");
   console.log(`Wrote data.json with ${total} items.`);
 }
