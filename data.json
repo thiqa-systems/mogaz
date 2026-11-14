@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:40:00.129Z",
+ "updated": "2026-11-14T20:50:00.127Z",
  "minute": [
   "تتابع الأخبار المحلية في مصر أسعار الدولار والذهب، إلى جانب استضافة مدينة الإسكندرية لمعسكر فيفا للمحاضرين.",
   "عالمياً، تتناول العناوين تطورات الأزمة الأوكرانية وتصريحات حول اجتماع مرتقب بين قادة الولايات المتحدة وروسيا والصين.",
@@ -9,7 +9,9 @@
   "at": "2026-11-14T20:29:59.706Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-14T20:50:00.127Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65498,
-   "change": -4.03,
-   "asOf": "2026-11-14T20:40:00.000Z",
+   "value": 65292,
+   "change": -4.33,
+   "asOf": "2026-11-14T20:51:12.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "حملات مكثفة لتحسين الخدمات ورفع كفاءة المرافق بمراكز ومدن وقرى دمياط",
-     "url": "https://www.elbalad.news/7180790",
+     "title": "أوغندا وبوتسوانا يقتسمان النقاط بتعادل إيجابي في تصفيات أمم إفريقيا 2027",
+     "url": "https://www.elbalad.news/7180802",
      "source": "صدى البلد",
-     "time": "2026-11-14T20:39:24.000Z",
-     "seen": "2026-11-14T20:40:00.129Z"
+     "time": "2026-11-14T20:49:16.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
     },
     {
-     "title": "4000 جنيه زيادة على المرتب لهؤلاء.. موعد صرف مرتبات نوفمبر 2026 للعاملين بالدولة",
-     "url": "https://www.elbalad.news/7180580",
+     "title": "هل قيام الموظف بإثبات الحضور لزميله الغائب عن العمل حرام؟.. الإفتاء تحذر",
+     "url": "https://www.elbalad.news/7180803",
      "source": "صدى البلد",
-     "time": "2026-11-14T20:39:00.000Z",
-     "seen": "2026-11-14T20:40:00.129Z"
+     "time": "2026-11-14T20:49:08.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
     },
     {
-     "title": "شقيقان في منافسة «دولة التلاوة».. لجنة التحكيم تشيد بموهبة الحسين بركات: حنجرتك ذهبية وصوتك ندي",
-     "url": "https://www.elbalad.news/7180784",
+     "title": "مصطفى حسني يترك مقعده في «دولة التلاوة» لمساندة نصر السيد نصر.. ورسالة مؤثرة عن حسن الظن بالله",
+     "url": "https://www.elbalad.news/7180797",
      "source": "صدى البلد",
-     "time": "2026-11-14T20:38:59.000Z",
-     "seen": "2026-11-14T20:40:00.129Z"
+     "time": "2026-11-14T20:47:17.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
     },
     {
      "title": "دولة التلاوة.. متسابق كفيف: رحلتى مع القرآن بدأت وعمرى 3 سنوات",
@@ -200,6 +202,13 @@
      "seen": "2026-11-14T18:29:59.570Z"
     },
     {
+     "title": "هل حرّض صفوت الشريف على موقعة الجمل؟.. عائشة عبدالهادي تكشف كواليس التحقيق معها",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WLVZfeDROSlFWMFp3YUdNU1VXd3NMNldPeUdGeVJiUm1memNQVnVQVVdVUDNPS3ZPVzdOZ04zMUQ1ejIwLWhURXhVY0JQZjl4aWZwdHY4Q19SejZXX2RR?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-14T18:36:00.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
+    },
+    {
      "title": "رئيس الوزراء من الدقهلية: \"رأيت قصص نجاح ملهمة لشباب ميت غمر\"",
      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPWUF5STNmQjRKN0xuZUZMS1RNWDJyNWhNV3hoQkFlc0MyNUZwN3czRlpYSHIzYlgzUW9UcEttby02Y3czUHlFVzdMY1dseEg5SGlSZ0RNVHVYbDA0OHZEQjdYZkNOWnY4bHhvMTdyTXMzclNkcTRHTmFMQ2p5Y0wtS0hGLXRsaGt2WnduNVM3V1FPSUNieXloQjBKeEpDSzV6Z3BXTEF5bEVvTm5EeXNCLXZBdDZCVGtrLXlMSkJVYXNxMXMyYmkycjN5ZXI3cnVXREhiU2pUcElkam9rNmxtLWt6YU5MaUFBRzFhSVVaRThYZ2Zkc0RfQlR2VnRJY3NnUWdjdE84RmRHSEVlUm1DODJvN0pjd185UHNDTlFRWlB0TUJLenJiclpSLTI3RW5oZVozdDFHVXFKT2hXZ284N2djNjRqczFTSlJZZ2JSd3VKSDhqb0N2dXc0M0lRUXJVeHRFd3Q4ZTZmWDg1M0RzNWhtZ3duUUFmd1pySDBGOUpmaUgwYThYQWxuN1dkMmk3dWY1dHFZNEd3RWxpR0dTMGhQMlh3ZW1qazlhSktxQnMwSy1QN1pGekdXdFRNRk1sSVZFUml4Nm42VGF3VDZUNkd0NzhlZk04cXk1SFpzMFgtbFRzZE1Hel9iLUNIdC1SZzljOXJvd0VoSXlqUkdWcnBPWWxvM3PSAYwEQVVfeXFMTnFPQ05hQUNJSnl3S2g4NFctYVh3WW5hMjBqdzlQc21jMkdlb2FwYmxkTll2eFNMUF8zWTF0Tlo3dmp3b2NKS1RWa0ZlWUhUd21ibWFDd3ZfNEJacVkwZThTeTk4Mmh5elNCeG15cjBuaW54ME1yVVhJSi16UGY0UExCUFNGMWktU25CNUlJQXE3eFBEYXRBaVVtUGVOdEdQQ0VtSkNoeGl2Q0ZJQ2dEYndFYjhDb0RRb05qLUNiTUdkcWlsRGY3UXdsaE9LaDVvZ0g3ZjZMMUhtLWVSSm9YaW4ySUtKTWVGdnFRQ2VEaG9HRENFRjhtRmZvWlhsaVZXUVRDSEV5T2lTTENCb21UaWU5S2U1eldQM0FMM092NjNINWNFN3hQSEt6ZU1GNFdud190ZUUwN3NhVjFuOVNNN1gzWWxnZVhYNVNYbFR6S3JHSHJHb0huQTZXcFR1czZ2NWIxSUNZbG1obEg1dHBJckl2LTlTMDNlV1BVbExHMjI3TVZWY1hSTDNWazFpdnNRMldVS3BjLXNrUlc1RTVIdFlPTFRfVWFrWjR4V2cwcHlmblkzYzdvNGVWdm9QMWxJUkYxdmktMGtIaEtiME4xZi1sb3RHNGlxdDYtZklEU3V4UXBxUmoydlRBOFhuYkhSaXhnSU8yYzdYbXZBZV9fTDdHaWVSZlFEQjFycW4?oc=5",
      "source": "Masrawy",
@@ -225,13 +234,6 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93aU5wcWhqQVV5UzlIemxBNWhTU2xkSjVQeG5rWW13ZHBZNkVQZE5zM2JySGVRQWpCVDFkRUVZdjZuZXR3T2dqM1VNVDl6eWNQYkkzUkZkVWVqaDJ5amRZ?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-14T16:29:00.000Z",
-     "seen": "2026-11-14T18:29:59.570Z"
-    },
-    {
-     "title": "مدبولي: الرئيس السيسي صاحب فكرة تجميع وتصنيع مشتقات البلازما في مصر",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VFNaaE04Q1R4LUhDQVhKQ1oyWEFyeXhGcTViUmpUUEpfMGNTMGZXVEh4bmItNVFIVWc1cl91UUJ5aXpFb3JjamExVkREYjZGYnpqWlE4TmlYVnZOejJ3?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-14T16:09:00.000Z",
      "seen": "2026-11-14T18:29:59.570Z"
     }
    ]
@@ -353,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "العراق ـ وسط توترات مع فصيل مقرب من طهران.. الزيدي يقيل تسعة مسؤولين",
+     "url": "https://www.dw.com/ar/العراق-ـ-وسط-توترات-مع-فصيل-مقرب-من-طهران-الزيدي-يقيل-تسعة-مسؤولين/live-79926107?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-14T20:40:00.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
+    },
+    {
      "title": "شيخ مشايخ الكرك: الأعراف العشائرية لا تُطبّق على الجرائم الإرهابية",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/14/jordan-atef-al-majali-the-paramount-sheikh-of-the-al-karak-tribes",
      "source": "CNN بالعربية",
@@ -417,6 +426,13 @@
      "impact": "تُهم المسافرين وقطاع السياحة لمتابعة مدى تأثير اضطرابات الطيران العالمية على رحلاتهم."
     },
     {
+     "title": "شاهد.. لفتة مؤثرة من لاعبي البرتغال لتوديع قائدهم رونالدو",
+     "url": "https://www.aljazeera.net/sport/2026/11/14/%d8%b4%d8%a7%d9%87%d8%af-%d9%84%d9%81%d8%aa%d8%a9-%d9%85%d8%a4%d8%ab%d8%b1%d8%a9-%d9%85%d9%86-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-14T17:34:35.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
+    },
+    {
      "title": "مجلة إسرائيلية: \"يريدون أريحا كلها\".. الاستيطان يدخل مرحلة جديدة",
      "url": "https://www.aljazeera.net/politics/2026/11/14/%d9%85%d8%ac%d9%84%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d8%a9-%d9%8a%d8%b1%d9%8a%d8%af%d9%88%d9%86-%d8%a3%d8%b1%d9%8a%d8%ad%d8%a7-%d9%83%d9%84%d9%87%d8%a7?traffic_source=rss",
      "source": "الجزيرة",
@@ -436,20 +452,6 @@
      "source": "فرانس 24",
      "time": "2026-11-14T17:15:18.000Z",
      "seen": "2026-11-14T18:29:59.570Z"
-    },
-    {
-     "title": "\"ما وراء الخبر\" يناقش جدية أمريكا في حل الأزمة الليبية",
-     "url": "https://www.aljazeera.net/video/behindthenews/2026/11/14/%d9%85%d8%a7-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%a8%d8%b1-%d9%8a%d9%86%d8%a7%d9%82%d8%b4-%d8%ac%d8%af%d9%8a%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%81%d9%8a-%d8%ad%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-14T17:13:05.000Z",
-     "seen": "2026-11-14T20:29:59.706Z"
-    },
-    {
-     "title": "إيطاليا تغرم \"ميتا\" 805 ملايين يورو بسبب الوصول غير المصرح به لبيانات المستخدمين",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261114-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%85%D9%8A%D8%AA%D8%A7-%D9%8A%D9%88%D8%B1%D9%88-%D9%81%D9%8A%D8%B3-%D8%A8%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D9%88%D8%B1",
-     "source": "فرانس 24",
-     "time": "2026-11-14T16:59:45.000Z",
-     "seen": "2026-11-14T18:29:59.570Z"
     }
    ]
   },
@@ -457,6 +459,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "TCL CSOT تستعرض شاشات تلفاز عملاقة حتى 163 بوصة بتقنية Micro LED في معرض DTC 2026",
+     "url": "https://www.tech-wd.com/wd/2026/11/14/tcl-csot-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d8%b4%d8%a7%d8%b4%d8%a7%d8%aa-%d8%aa%d9%84%d9%81%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%d8%a7%d9%82%d8%a9-%d8%ad%d8%aa%d9%89-163-%d8%a8%d9%88%d8%b5%d8%a9-%d8%a8/",
+     "source": "عالم التقنية",
+     "time": "2026-11-14T20:42:51.000Z",
+     "seen": "2026-11-14T20:50:00.127Z"
+    },
     {
      "title": "صواريخ روسية مطوّرة تهدد بشطر أوكرانيا إلى نصفين.. كييف تحت حصار الجسور والطاقة",
      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNcFBvZ1RtZ1hNcUtlbjJxZk94bXlxUVdkM1ZhZ2RleEFVdEVPRWotMk56MDVJXzBfSnJRUm1XWkhSYU9lSG9EZTFLdHlBcmlhZjdnYVd2cG16b3dHektGcXB5RzNaeHNpSFktN0sySmEwamZEM3RNbnZkYzhRQ0RGNTFoMXg5UGhZZ2FoZml0N1hEUnpiS1VWMENsc3ZVUEE4LVFZUUNWVWM2bk40amhVeXVXNlUxSEVEX0ZibEdpSVBBZzlQeVhzY09KU3JnZW1IN2ZkTHZEU1N0NENLdjRoRWRJUWlBRDhRN1hCaTNiYzdaMXpIVUJIdjdGRHZKanp5ei1BN1FwSHlOR3BrakY4VU1PQlBUUjNxUmpGR1JMaXZJTmZGUW0tZTF1V3lZZ1R6Z3RjOVczcXY0TlhHZlJEc2xDMzdPMFY4bXc4dUhrZzd1T0Y3NFZYQ1UwTV9UcERDNk5mUzBwdVhrVmo2NjVXX0p2ZjZVeXptVzdVVHV4OWR4dFlqQkJLY2hoa0twdWtIQldQNmR0U3dINVFTaXdiYUdvWHhmZnVDQ3pxYXJWMHRmU3N0NDB6dzNQTDhqNlBNWnk1bzJfZ2VERVU2SEVNZ194cEJoSkQtMEZNa1pqS08yUDBwTUUtVWJRSkc2WFFsRnlaRmJHckZPQ0pSamlhX2t1ZURKQXdOMURDRWF4cmlqTENta1BBOHQ3ZFlIbHRTSTlocWxjZGZGalRESjdoaDN2MWFHLVprREZxZ0lwOG9aUFYtU1ZsUW9DbmhLaTdNNXZ5eWxSSjFieFlQUEFKdlRBQW1sSmtDZGN5TWZ0LWlGZFnSAfgEQVVfeXFMTjNtOWMxcjMyZXNuRXpZSU1tS18tWkNNR2ZOcXBLSDhKSW4tU29UWnVVOFdsQ0hKQzhDSVVwWXEteEI4UHB2QUd0WmYtRm1oRlc4ODloNzZvYVg1NGFPVmRPS05ZcGd2RGtCOThlS3FyeXQ5eXFLT2RhOFZhUnlDdTFTbk9MS01tV2hITnU2blRnZFJJc2V1MEc0MmhOeEczc2pZcmhBTUFUQW5SUUFKTlJscWFYX3V5blhZanR5UG13S2lhVURxY0RiWGI2anJwTU55VXRXYlB6eVBBTnhpc05jY2s3cFd6SGFOcWY4TmJ6dWxkMllHeTVzWlhXQ3JSbFRrYUZzMGUySEE3ZndMSlV0SE1qSTZhMkVEZHBmcVNfYkJyS2NTeHAxNWdyUFJUQUk4VGpNQnBqakNQSnhZcmNLWnBvdng3Q0stUW1zYlhtazR5YkRhcjc3ejkyQzRGM0hzZmJaalg5YzBEUngyV1kwOXN5TTJhZFR1RVBvRHJ6NW44Tk9OUWp2VzFhMGZsWFJqSFM1SlRqRkwtLXVmNm5ILTE3azFIMlpHeUppSFF2emRieThIcHpCd09Ba0U1c2tIMWJRY3NxT2d2NHZWamZad0FqcklZU1ZKdXFGV2ZJN3J3cXpTd0FOS0M0VThKSUVycmdVdHFGdXBlejNUUmZ0X1M5NFR0NEZiTUNCY19GdTRYMUplMmhTT2JZOW5qMDdMRTRzbWFXRTNLUlJWSktvUHVwc29wd29GSHZqQUNfRVpRWThKYncyQm1FdHA5VXI1cFRScjI2cmRxMjJvRjRmWm54T2pWOW9saVA1SDNZb2syYlBJM2g?oc=5",
@@ -551,13 +560,6 @@
      "url": "https://aitnews.com/2026/11/14/%d9%81%d9%8a%d8%b1%d8%aa%d9%81-%d8%aa%d8%b3%d8%aa%d9%83%d9%85%d9%84-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0-%d8%b9%d9%84%d9%89-%d9%8a%d9%88%d8%aa%d9%8a%d9%84%d9%8a%d8%aa%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-14T11:06:55.000Z",
-     "seen": "2026-11-14T12:41:29.232Z"
-    },
-    {
-     "title": "«تحكيم» يناقش دور الذكاء الاصطناعي وحدوده في تسوية المنازعات",
-     "url": "https://aitnews.com/2026/11/14/%d8%aa%d8%ad%d9%83%d9%8a%d9%85-%d9%8a%d9%86%d8%a7%d9%82%d8%b4-%d8%af%d9%88%d8%b1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%88%d8%ad/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-14T10:56:44.000Z",
      "seen": "2026-11-14T12:41:29.232Z"
     }
    ]
