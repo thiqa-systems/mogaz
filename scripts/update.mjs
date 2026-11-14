@@ -158,6 +158,7 @@ async function main() {
   const sections = [];
   const trusted = cfg.trusted || [];
   const nowIso = new Date().toISOString();
+  const usedUrls = new Set(); // الخبر يظهر في أول قسم فقط
   for (const s of cfg.sections) {
     const results = await Promise.all(
       s.feeds.map(async (f) => {
@@ -172,7 +173,8 @@ async function main() {
         }
       })
     );
-    const items = pick(results.flat()).map((i) => {
+    const items = pick(results.flat().filter((i) => !usedUrls.has(i.url))).map((i) => {
+      usedUrls.add(i.url);
       const old = prevByUrl.get(i.url);
       // seen: أول مرة ظهر فيها الخبر عندنا (لعلامة «جديد»). impact: يُحتفظ به من التشغيل السابق.
       return { ...i, seen: old?.seen || nowIso, ...(old?.impact ? { impact: old.impact } : {}) };
