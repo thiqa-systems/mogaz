@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:39:59.259Z",
+ "updated": "2026-11-14T22:49:59.525Z",
  "minute": [
   "شهدت الأسواق المصرية تحديثات حول أسعار صرف الدولار مقابل الجنيه في البنوك.",
   "أعلنت إيران اصطدام ناقلات نفط بألغام في مضيق هرمز مع مطالبات أممية بالسماح بعبور الأسمدة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-14T22:30:00.048Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-14T22:49:59.525Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63633,
-   "change": -6.76,
-   "asOf": "2026-11-14T22:39:55.000Z",
+   "value": 63437,
+   "change": -7.05,
+   "asOf": "2026-11-14T22:52:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الحرس الثوري: اندلاع حريق في ناقلتي نفط جنوب هرمز",
-     "url": "https://www.elbalad.news/7180902",
+     "title": "أعلام مصر وصور الرئيس السيسي.. عروض الكشافة تشعل أجواء اليوبيل الذهبي لايبارشية بورسعيد.. شاهد",
+     "url": "https://www.elbalad.news/7180893",
      "source": "صدى البلد",
-     "time": "2026-11-14T22:37:00.000Z",
-     "seen": "2026-11-14T22:39:59.259Z"
+     "time": "2026-11-14T22:49:14.000Z",
+     "seen": "2026-11-14T22:49:59.525Z"
     },
     {
-     "title": "حقك عليّا يا أخويا ما تزعلش.. «الحسين» ينهار من البكاء على شقيقه «الحسن» التوأم بعد خروجه من «دولة التلاوة»",
-     "url": "https://www.elbalad.news/7180880",
+     "title": "غدًا.. يسر فاروق فلوكس تحاور والدها في لقاء مفتوح بالمسرح المكشوف بدار الأوبرا المصرية",
+     "url": "https://www.elbalad.news/7180904",
      "source": "صدى البلد",
-     "time": "2026-11-14T22:33:44.000Z",
-     "seen": "2026-11-14T22:39:59.259Z"
+     "time": "2026-11-14T22:48:07.000Z",
+     "seen": "2026-11-14T22:49:59.525Z"
     },
     {
-     "title": "محفظة جوجل بلمسة ذكية.. تحديث جديد من جيميني يراقب مصاريفك ويخطط لميزانيتك",
-     "url": "https://www.elbalad.news/7180690",
+     "title": "رسمياً - تعيين الحكم السلفادوري ايفان بارتون لـ قمة الدوري بين الأهلي وبيراميدز",
+     "url": "https://www.elbalad.news/7180903",
      "source": "صدى البلد",
-     "time": "2026-11-14T22:30:00.000Z",
-     "seen": "2026-11-14T22:39:59.259Z"
+     "time": "2026-11-14T22:46:19.000Z",
+     "seen": "2026-11-14T22:49:59.525Z"
     },
     {
      "title": "أخبار 24 ساعة.. وزارة التعليم تضيف سؤالا بمواصفة امتحان المستوى الرفيع للابتدائية",
@@ -356,6 +358,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مقتل قيادي عسكري من حماس في عملية إسرائيلية",
+     "url": "https://www.skynewsarabia.com/middle-east/1904817-%D9%85%D9%82%D8%AA%D9%84-%D9%82%D9%8A%D8%A7%D8%AF%D9%8A-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%AD%D9%85%D8%A7%D8%B3-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-14T22:45:58.000Z",
+     "seen": "2026-11-14T22:49:59.525Z"
+    },
+    {
      "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/egyptian-interior-ministry-issues-statement-regarding-the-suicide-minya-doctor",
      "source": "CNN بالعربية",
@@ -446,13 +455,6 @@
      "source": "الجزيرة",
      "time": "2026-11-14T19:20:07.000Z",
      "seen": "2026-11-14T22:39:59.259Z"
-    },
-    {
-     "title": "ما دلالة استهداف إيران موقعاً عسكرياً أمريكياً في الخليج لأول مرة منذ شهرين؟",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTExFa0pUWTJDYi0ySmh3ajJGaGVTVVBwRkJQLVJ3ek1maEgxUEQtaHlQLUdaSWxCWV9lV3A2VUZIMWplT2l4SENVd21nSndVbWJMYlFOZW1iTll5eDNjamo5bEFGV0FGcl93NHhtSFJZWHVYaDJLTHR1YTV6NE1pdmp0dEZBcVZvRHE1MW5pOFdlRzBLR3ZzVE5Ta3VfVFZuOTFGbmh3YjRxcnp0THpROGJEQW9sRjBpeFhiaQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-14T19:17:15.000Z",
-     "seen": "2026-11-14T22:30:00.048Z"
     }
    ]
   },
