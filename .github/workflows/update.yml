@@ -1,13 +1,18 @@
 name: تحديث الأخبار
 
+# التشغيل الواحد يحدّث كل 10 دقائق لنحو 5 ساعات و40 دقيقة، ثم يبدأ التشغيل التالي بنفسه.
+# الجدول (schedule) احتياطي فقط: يعيد تشغيل السلسلة لو انقطعت، لأن مواعيد GitHub المجدولة غير مضمونة.
+
 on:
   schedule:
-    - cron: "*/10 * * * *"   # كل 10 دقائق (GitHub قد يؤخر المواعيد المجدولة وقت الزحام)
-  workflow_dispatch:        # زر تشغيل يدوي من تبويب Actions
+    - cron: "7 */3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
+# تشغيل واحد فقط في نفس الوقت، وتشغيل واحد في الانتظار على الأكثر
 concurrency:
   group: update-news
   cancel-in-progress: false
@@ -15,23 +20,42 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: جمع الأخبار
-        run: node scripts/update.mjs
+      - name: تحديث كل 10 دقائق
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-      - name: حفظ البيانات
+          INTERVAL: 600
+          RUN_FOR: 20400
         run: |
           git config user.name "mogaz-bot"
           git config user.email "mogaz-bot@users.noreply.github.com"
-          git add data.json
-          git diff --cached --quiet && exit 0
-          git commit -m "تحديث الأخبار"
-          git pull --rebase -X ours origin main || true
-          git push
+          end=$((SECONDS + RUN_FOR))
+          while :; do
+            start=$SECONDS
+            # أحدث نسخة من المستودع، فأي تعديل في الكود يُطبَّق من الدورة التالية
+            git fetch -q origin main && git reset -q --hard origin/main
+            if node scripts/update.mjs; then
+              git add data.json
+              if ! git diff --cached --quiet; then
+                git commit -q -m "تحديث الأخبار"
+                git push -q origin HEAD:main || echo "push failed; will retry next cycle"
+              fi
+            else
+              echo "update failed; will retry next cycle"
+            fi
+            left=$((INTERVAL - (SECONDS - start)))
+            [ $((SECONDS + left)) -ge $end ] && break
+            [ $left -gt 0 ] && sleep $left
+          done
+      - name: بدء التشغيل التالي
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update.yml --ref main --repo "$GITHUB_REPOSITORY"
