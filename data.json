@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:41:55.290Z",
+ "updated": "2026-11-15T07:51:55.375Z",
  "minute": [
   "تضمنت الأحداث الإقليمية إعلان الحرس الثوري الإيراني استهداف رادارات وقاعدة مروحيات أمريكية في البحرين، وسط تحذيرات أمنية للسكان.",
   "وعلى المستوى المحلي في مصر، تتابع الأسواق تحديثات أسعار العملات الأجنبية في البنوك مع تحذيرات جوية من شبورة كثيفة وتفاصيل حول مشروع قانون الأحوال الشخصية للمسيحيين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-15T07:41:55.290Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-15T07:51:55.375Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63938,
-   "change": -0.3,
-   "asOf": "2026-11-15T07:43:14.000Z",
+   "value": 63786,
+   "change": -0.53,
+   "asOf": "2026-11-15T07:52:56.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "رئيس جامعة المنصورة ينعي نجل الدكتور مسعد سلامة مندور عميد كلية الآداب",
-     "url": "https://www.elbalad.news/7181034",
+     "title": "اليمن.. القوات الجنوبية تعيد تموضعها في مطار ذوباب وباب المندب غرب تعز",
+     "url": "https://www.elbalad.news/7181068",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:41:02.000Z",
-     "seen": "2026-11-15T07:41:55.290Z"
+     "time": "2026-11-15T07:51:26.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
     },
     {
-     "title": "الثلاثاء.. قصر الأمير طاز يناقش «العملات الإسلامية.. ذاكرة مصر التاريخية»",
-     "url": "https://www.elbalad.news/7181060",
+     "title": "موعد مباراة الزمالك المقبلة أمام الجونة في الدوري المصري والقناة الناقلة",
+     "url": "https://www.elbalad.news/7181067",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:40:48.000Z",
-     "seen": "2026-11-15T07:41:55.290Z"
+     "time": "2026-11-15T07:50:37.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
     },
     {
-     "title": "الإعدام شنقًا لـ3 متهمين في الأردن.. محكمة أمن الدولة تصدر حكمها بقضية إرهاب الكرك",
-     "url": "https://www.elbalad.news/7181056",
+     "title": "الرئيس الباكستاني يؤكد مجددا دعم بلاده لإقامة دولة فلسطينية مستقلة وعاصمتها القدس الشريف",
+     "url": "https://www.elbalad.news/7181069",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:40:39.000Z",
-     "seen": "2026-11-15T07:41:55.290Z"
+     "time": "2026-11-15T07:50:37.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
+    },
+    {
+     "title": "هل تشهد البلاد تقلبات جوية قادمة؟.. الأرصاد تكشف أخطر الظواهر الجوية المتوقعة",
+     "url": "https://www.youm7.com/story/2026/11/15/هل-تشهد-البلاد-تقلبات-جوية-قادمة-الأرصاد-تكشف-أخطر-الظواهر/7617730",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T07:49:00.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
+    },
+    {
+     "title": "البحرين: منظومات الدفاع الجوى اعترضت ودمرت عددًا من الاعتداءات الجوية الإيرانية",
+     "url": "https://www.youm7.com/story/2026/11/15/البحرين-منظومات-الدفاع-الجوى-اعترضت-ودمرت-عددًا-من-الاعتداءات-الجوية/7618714",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T07:46:00.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
     },
     {
      "title": "الجريدة الرسمية تنشر قرار إنشاء مركز إصلاح جغرافى بقسم شرطة منوف فى المنوفية",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T07:34:00.000Z",
      "seen": "2026-11-15T07:41:55.290Z"
-    },
-    {
-     "title": "مرصد الأزهر: الاستيطان يبتلع الضفة الغربية.. أكثر من 100 بؤرة جديدة خلال 2026",
-     "url": "https://www.youm7.com/story/2026/11/15/مرصد-الأزهر-الاستيطان-يبتلع-الضفة-الغربية-أكثر-من-100-بؤرة/7618701",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T07:32:00.000Z",
-     "seen": "2026-11-15T07:41:55.290Z"
-    },
-    {
-     "title": "جامعة القاهرة الأهلية تستضيف السفير محمد العرابي فى لقاء مع طلاب سياسة واقتصاد",
-     "url": "https://www.youm7.com/story/2026/11/15/جامعة-القاهرة-الأهلية-تستضيف-السفير-محمد-العرابي-فى-لقاء-مع/7618694",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T07:24:00.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
     },
     {
      "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "هل كانت العبودية ممارسة سائدة في الدولة العثمانية خلال القرن التاسع عشر؟",
+     "url": "https://www.bbc.com/arabic/articles/c6zxvrd81751o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-15T07:41:49.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
+    },
     {
      "title": "سعر اليورو مقابل الجنيه المصري اليوم الأحد 15 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBURVI5czRNcXdlNEIzd21kS2kwaFBOc2U4akR5QUtOeHVTV3hPelp0WDZXMjN4VFZVTUFaTm42WFFqNVpz?oc=5",
@@ -338,14 +345,6 @@
      "time": "2026-11-15T04:31:00.000Z",
      "seen": "2026-11-15T06:11:55.534Z",
      "impact": "يهم أصحاب الشركات والمستثمرين في مصر لتأثير تقلبات أسعار الدولار على خطط تسعير المنتجات واستراتيجيات التحوط."
-    },
-    {
-     "title": "سعر الدولار على مدار الساعة.. 53.39 جنيه سعر شراء الأخضر فى بنك البركة",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQeV9TVzY2dUcyZVdRRGl0bzNycGhtN2d1MEFTaTRQRDROYkw3M2JvQ3l4S0hoa2NuVUQxNTFLdk0xN1JQU1BOMDdPTC00X193bzRyTVFMODBJdUMzeXMwV0pDbzhyWnVtMmwzckRkRVRjMnU0c1M1STNXVVQtdW9WYVdOQWpsajltMlFuem4zZ2JBdmhDczBxNFdnY1RNdWRRVXk3aWNMWUhvb21iWHhUSWoyNmZKaW5kWTlWLXhKMzJfa093dUVZUV83RjZheG1TS1ltQjdZU2tOTnB4ZFprbDg3bWdiOEttU1pSVFlGUzdieEpkcTBpVGx2QTlZV2J0a1llZlI4WnBlT09IcW5rSC0wWDYtRFB4TjViUG53NG92aXNyVUQxS0lHUVlPd0I3azJ2MDJjRDBkd3Y4RmVfTU9OQ0dRVFg3SDB5ODItaTM4bWxTMXE4UlBWQUlBY05VU0s3Tl91RjNfQTlsUGpFUXM4dmswUWPSAfcCQVVfeXFMUHlfU1c2NnVHMmVXUURpdG8zcnBobTdndTBBU2k0UEQ0TmJMNzNib0N5eEtIaGtjblVEMTUxS3ZNMTdSUFNQTjA3T0wtNF9fd280ck1RTDgwSXVDM3lzMFdKQ284clp1bTJsM3JEZEVUYzJ1NHNTNUkzV1VULXVvVmFXTkFqbGo5bTJRbnpuM2diQXZoQ3MwcTRXZ2NUTXVkUVV5N2ljTFlIb29tYlh4VElqMjZmSmluZFk5Vi14SjMyX2tPd3VFWVFfN0Y2YXhtU0tZbUI3WVNrTk5weGRaa2w4N21nYjhLbVNaUlRZRlM3YnhKZHEwaVRsdkE5WVdidGtZZWZSOFpwZU9PSHFua0gtMFg2LURQeE41YlBudzRvdmlzclVEMUtJR1FZT3dCN2sydjAyY0QwZHd2OEZlX01PTkNHUVRYN0gweTgyLWkzOG1sUzFxOFJQVkFJQWNOVVNLN05fdUYzX0E5bFBqRVFzOHZrMFFj?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T04:01:31.000Z",
-     "seen": "2026-11-15T05:41:55.453Z",
-     "impact": "يهم الأفراد والمستثمرين لتحديد سعر شراء الدولار في بنك البركة عند 53.39 جنيه."
     }
    ]
   },
@@ -359,6 +358,13 @@
      "source": "فرانس 24",
      "time": "2026-11-15T07:30:04.000Z",
      "seen": "2026-11-15T07:31:55.329Z"
+    },
+    {
+     "title": "تصعيد جديد.. البحرين تحبط هجمات جوية إيرانية",
+     "url": "https://www.skynewsarabia.com/middle-east/1904851-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T07:26:55.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
     },
     {
      "title": "البحرين تحبط هجمات جوية إيرانية.. وتعلن رفع الجاهزية",
@@ -382,25 +388,11 @@
      "seen": "2026-11-15T07:41:55.290Z"
     },
     {
-     "title": "تصادم طائرتين في مطار ميامي.. ومشاهد من قلب الحادث",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNb1hGbjdydnRuUlZxTXdYb01pQUMyZDBkcjhFVllFN3JnZ2xGVHZ2bVlJekJudFplS2lycWEwNk8zUlBZdWxkb2hjS1dvVDR5WUQ3LW9jMzV2dG9yVGhvaVNzak9SenlWVVJqRGdlOEhEZUI5Rm02LW5TQU9XY2tUNkdhd1hQQTFzaU9KbzNxQXJxVm9xZW81eERjdmpFRnFwc2hiTmw2NHpUS1ZIUGh3b0ZMV3I0ZV9pZ2pVaGN2OXQtTUJvTGR1T1l3VUJKVmI3WTlTZ3pOck9INnM3c0xPVWd3cF9pbWpDR3Z3UUtMM29KTENnNENWWFl5aG10akFqV1RkU1hlLXp3MGVfM25PVmRxM0lVdVdOczYzVVh1XzRlaEp0ZGpiRXZoajdSbl9waXptM1lMb2l5SHI2MUF2ME1kTHBlZTFOOUhhTDRuMTdpSjZGbWlYc25FSWVmbFpBY0hKb1FpdHN3ZmRrbVFxU2ZOQ3V0VFhaa2RfUDctMUVfSlQ4a0VwWW90bEs3S3NFZGNhdG1xNnZDUVNlX2JmVFhvMEpSNGZwYVRPSlpQYVJpQjVZVFo0Ykp4Vk13RDV3N1lLd09YUk1ReXpU0gHSA0FVX3lxTE5Xb3dZWmNISWtWMnFyMUNSamtLUnBTRWVzR2diX080M1d5M3VuWWRVMEUwQ2RmUU1RaWUycWJkTmJ4RGQyeFJjVF80TmlHMmptR1Nwb0Zqdk50QUdNUDh2YmJILTJ3YVFzd2dENmhiYnRfV3VKYzktRm9LMnlTZlBpWG1vZTVuaFUtRWdweFhxRHcwY0ZZQjRNdlN0Q1FfS1BHMmlKV3JmQU96Q2M4TERqQWhGQWJ0bEphQmdRdF9nMnBaWDdwQndYeEFxMGF3WFYxZjN3NjR0dUtmbk1DQ2c3M0FLWFJxQTRsV3VPcm9YOW83Sm1uc0I0TUtkU29DV0lRZHY5REJnTjFBNy1mdEVxbjJ2WGxjc2pZNnV1dlVEcVZJOHA2ZU91X2RRbzk5S2w2cmU4QmVnVXVIWkpoYzYyVE1xS05uZ0xJNnZydmI2UWxHdHREc04tLWlfZlF5bzZHUk1MYlBQaDJLc3VCVm5JOXBESzh3LVphLWNFWU84M2RqYVhvaGJMZEZ1a2NSdTlfd1JqOGVPWnRFR2E5N2plR0pJMnVuYzVIVi1SVUpoWEFZb3FpT0NZS2d5RVZvdGhSZEo3cjl2dS10ZjlUWUQzLXc?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T07:10:25.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
-    },
-    {
      "title": "خلاف بين الكونغو الديمقراطية ورواندا بشأن رئاسة المنظمة الدولية للفرنكوفونية",
      "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261115-%D8%AE%D9%84%D8%A7%D9%81-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9-%D9%88%D8%B1%D9%88%D8%A7%D9%86%D8%AF%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%81%D8%B1%D9%86%D9%83%D9%88%D9%81%D9%88%D9%86%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-15T07:08:56.000Z",
      "seen": "2026-11-15T07:21:55.387Z"
-    },
-    {
-     "title": "قضية مقتل العلواني تثير الجدل.. توضيح رسمي من لبنان",
-     "url": "https://www.skynewsarabia.com/middle-east/1904846-%D9%82%D8%B6%D9%8A%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T07:04:06.000Z",
-     "seen": "2026-11-15T07:11:56.101Z"
     },
     {
      "title": "البحرين.. الحرس الثوري يعلن استهداف قاعدة مروحيات أمريكية ورادارات دفاعية",
@@ -431,6 +423,20 @@
      "seen": "2026-11-15T06:21:55.484Z"
     },
     {
+     "title": "تصادم طائرتين في مطار ميامي.. ومشاهد من قلب الحادث",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNb1hGbjdydnRuUlZxTXdYb01pQUMyZDBkcjhFVllFN3JnZ2xGVHZ2bVlJekJudFplS2lycWEwNk8zUlBZdWxkb2hjS1dvVDR5WUQ3LW9jMzV2dG9yVGhvaVNzak9SenlWVVJqRGdlOEhEZUI5Rm02LW5TQU9XY2tUNkdhd1hQQTFzaU9KbzNxQXJxVm9xZW81eERjdmpFRnFwc2hiTmw2NHpUS1ZIUGh3b0ZMV3I0ZV9pZ2pVaGN2OXQtTUJvTGR1T1l3VUJKVmI3WTlTZ3pOck9INnM3c0xPVWd3cF9pbWpDR3Z3UUtMM29KTENnNENWWFl5aG10akFqV1RkU1hlLXp3MGVfM25PVmRxM0lVdVdOczYzVVh1XzRlaEp0ZGpiRXZoajdSbl9waXptM1lMb2l5SHI2MUF2ME1kTHBlZTFOOUhhTDRuMTdpSjZGbWlYc25FSWVmbFpBY0hKb1FpdHN3ZmRrbVFxU2ZOQ3V0VFhaa2RfUDctMUVfSlQ4a0VwWW90bEs3S3NFZGNhdG1xNnZDUVNlX2JmVFhvMEpSNGZwYVRPSlpQYVJpQjVZVFo0Ykp4Vk13RDV3N1lLd09YUk1ReXpU0gHSA0FVX3lxTE5Xb3dZWmNISWtWMnFyMUNSamtLUnBTRWVzR2diX080M1d5M3VuWWRVMEUwQ2RmUU1RaWUycWJkTmJ4RGQyeFJjVF80TmlHMmptR1Nwb0Zqdk50QUdNUDh2YmJILTJ3YVFzd2dENmhiYnRfV3VKYzktRm9LMnlTZlBpWG1vZTVuaFUtRWdweFhxRHcwY0ZZQjRNdlN0Q1FfS1BHMmlKV3JmQU96Q2M4TERqQWhGQWJ0bEphQmdRdF9nMnBaWDdwQndYeEFxMGF3WFYxZjN3NjR0dUtmbk1DQ2c3M0FLWFJxQTRsV3VPcm9YOW83Sm1uc0I0TUtkU29DV0lRZHY5REJnTjFBNy1mdEVxbjJ2WGxjc2pZNnV1dlVEcVZJOHA2ZU91X2RRbzk5S2w2cmU4QmVnVXVIWkpoYzYyVE1xS05uZ0xJNnZydmI2UWxHdHREc04tLWlfZlF5bzZHUk1MYlBQaDJLc3VCVm5JOXBESzh3LVphLWNFWU84M2RqYVhvaGJMZEZ1a2NSdTlfd1JqOGVPWnRFR2E5N2plR0pJMnVuYzVIVi1SVUpoWEFZb3FpT0NZS2d5RVZvdGhSZEo3cjl2dS10ZjlUWUQzLXc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T05:51:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "السعودية: الحرس الثوري الإيراني يعلن مهاجمة قاعدة عسكرية بالبحرين، وصواريخ باليستية تستهدف الرياض",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tS1NXT2hPOWpVWlZYS01QLUp1dURETldXN1FSS1R0QUMwUDN6b2JRSVR2RVpuNk1mUzBVdVlpdTRsc252cVJGaGlLMU5lUVNGSWl1bU9mbUxsTDNFTnfSAWNBVV95cUxOclBtWjN6RkFoOVU2MWJCNW9QNjdNYkt5dkVMZjBpbU9wYWhIeGtxY1JXNVgyY2JSdHIwVmhRbDFYa29PUzhrdl9la2pWR1lIY3NPdkhfcU5zWFpIdDdCcVRlb2M?oc=5",
+     "source": "BBC",
+     "time": "2026-11-15T05:40:45.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
+    },
+    {
      "title": "\"تنبيه بوجود خطر\".. الداخلية البحرينية تحذر فجر الأحد وتطلب التوجه لأقرب مكان آمن",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/bahrain-warning-early-sunday-post-x",
      "source": "CNN بالعربية",
@@ -442,13 +448,6 @@
      "url": "https://www.aljazeera.net/politics/2026/11/15/%d8%a7%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a-%d9%88%d9%81%d9%88%d9%83%d8%b3-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d8%a7%d9%86-%d9%87%d9%84-%d8%aa%d8%aa%d8%ac%d9%87?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-15T04:25:29.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
-    },
-    {
-     "title": "عاجل | وكالة الأنباء الأردنية: محكمة أمن الدولة تصدر قرارها بإعدام منفذي العمل الإرهابي في بلدة حمود بالكرك",
-     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%b9%d8%a7%d8%ac%d9%84-%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86%d9%8a%d8%a9-%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a3%d9%85%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T04:25:28.000Z",
      "seen": "2026-11-15T07:31:55.329Z"
     }
    ]
