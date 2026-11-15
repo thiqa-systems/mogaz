@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:43:43.026Z",
+ "updated": "2026-11-15T16:53:42.450Z",
  "minute": [
   "أعلنت الحكومة المصرية عن إطلاق برنامج جديد لرد الأعباء التصديرية، بالتوازي مع مباحثات لتطوير جهاز تنظيم مرفق الكهرباء وتعزيز التعاون البترولي مع كمبوديا.",
   "سجل سعر الدولار ارتفاعاً أمام الجنيه المصري في ختام تعاملات اليوم الأحد بالبنوك.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T16:33:42.561Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T16:53:42.450Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64562,
-   "change": 0.68,
-   "asOf": "2026-11-15T16:43:41.000Z",
+   "value": 64548,
+   "change": 0.65,
+   "asOf": "2026-11-15T16:54:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الصحة: استقبلنا 9255 مكالمة على الخط الساخن 105 خلال أكتوبر بزيادة 11.49%",
-     "url": "https://www.elbalad.news/7181804",
+     "title": "استشاري تغذية تكشف مفاجأة عن «لية الخروف».. 4 فيتامينات مهمة وفوائد لا يعرفها كثيرون",
+     "url": "https://www.elbalad.news/7181819",
      "source": "صدى البلد",
-     "time": "2026-11-15T16:43:01.000Z",
-     "seen": "2026-11-15T16:43:43.026Z"
+     "time": "2026-11-15T16:52:17.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
     },
     {
-     "title": "سفيرة الاتحاد الأوروبي تتفقد مركز الحفريات بجامعة الوادي الجديد",
-     "url": "https://www.elbalad.news/7181792",
+     "title": "أذكار المساء كاملة مكتوبة من حصن المسلم.. كلمات تحميك من كل شر طوال الليل",
+     "url": "https://www.elbalad.news/7181821",
      "source": "صدى البلد",
-     "time": "2026-11-15T16:42:25.000Z",
-     "seen": "2026-11-15T16:43:43.026Z"
+     "time": "2026-11-15T16:51:34.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
     },
     {
-     "title": "اللا حرب واللا سلم| خبير بترول: أسعار النفط تنخفض لـ91 دولارًا مع تراجع التوتر والتصعيد",
-     "url": "https://www.elbalad.news/7181802",
+     "title": "خبير طاقة: مضيق هرمز كلمة السر في تحركات أسعار النفط",
+     "url": "https://www.elbalad.news/7181814",
      "source": "صدى البلد",
-     "time": "2026-11-15T16:41:49.000Z",
-     "seen": "2026-11-15T16:43:43.026Z"
+     "time": "2026-11-15T16:51:19.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
+    },
+    {
+     "title": "أمل عمار لـ وزيرة الأسرة بجيبوتى: المرأة المصرية تعيش عصرها الذهبى",
+     "url": "https://www.youm7.com/story/2026/11/15/أمل-عمار-لـ-وزيرة-الأسرة-بجيبوتى-المرأة-المصرية-تعيش-عصرها/7619635",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T16:51:00.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
+    },
+    {
+     "title": "رئيس مياه الجيزة يتفقد محطة جزيرة الدهب لمتابعة كفاءة التشغيل",
+     "url": "https://www.youm7.com/story/2026/11/15/رئيس-مياه-الجيزة-يتفقد-محطة-جزيرة-الدهب-لمتابعة-كفاءة-التشغيل/7619649",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T16:50:00.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
     },
     {
      "title": "رسميًا.. الحكومة تقر رفع الحد الأدنى للأجور بالقطاع الخاص إلى 8500 جنيه",
@@ -170,21 +186,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T16:35:00.000Z",
      "seen": "2026-11-15T16:43:43.026Z"
-    },
-    {
-     "title": "نائب رئيس الوزراء يبحث مع وزير الكهرباء جهود تطوير أداء جهاز تنظيم مرفق الكهرباء",
-     "url": "https://www.youm7.com/story/2026/11/15/نائب-رئيس-الوزراء-يبحث-مع-وزير-الكهرباء-جهود-تطوير-أداء/7619628",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T16:30:00.000Z",
-     "seen": "2026-11-15T16:32:10.154Z",
-     "impact": "يعني المواطنين وأصحاب الأعمال في مصر لما له من انعكاس على مستوى كفاءة وتنظيم خدمات مرفق الكهرباء."
-    },
-    {
-     "title": "محمد الدرندلي يحصل على الدكتوراة بتقدير امتياز مع مرتبة الشرف من حقوق بنها",
-     "url": "https://www.youm7.com/story/2026/11/15/محمد-الدرندلي-يحصل-على-الدكتوراة-بتقدير-امتياز-مع-مرتبة-الشرف/7619169",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T16:26:00.000Z",
-     "seen": "2026-11-15T16:32:10.154Z"
     },
     {
      "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
@@ -215,13 +216,6 @@
      "seen": "2026-11-15T16:33:42.561Z"
     },
     {
-     "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkM3d0ZFM1dEb1J5eGYxRXU2U1ZaZnJMR3FHcjV4aURXUk5YR3lvNklHdWpOM3FxZ0tRMGwzek95NnhocWhwa0pkUnBINlBZN3RfZFBVQTk2NU1kQlVMSmRWamt2eng4OGZmNnhtWU1LQkJ3YzFXUTFrLTB1RllQVTlsemFzY250bm5jZ09JeGZwNEI5cWVCbDZBbzFQRHFiZG1MQmFnVzctLWZ2Zmx6MGFUU0FMOC1NYWx1YUtQUzZsdG42ZFBKQllvZWw?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-15T14:10:59.000Z",
-     "seen": "2026-11-15T15:42:09.821Z"
-    },
-    {
      "title": "الحكومة تتحرك لتعزيز تنافسية الصادرات المصرية.. ومدبولي يتابع تفعيل «ضمان المخاطر» وتطوير مراكز التدريب",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcFZiS1NuUlotN1Z3alpvbkpDNGt3N1FlOGxFNkNQN3hFN00xWUkyTFZma0FLWk9ONGpWazJReGs4enpabnY4ZFdpZXBFZkxCNjFObm45dTBGUEwyNnVJ?oc=5",
      "source": "المصري اليوم",
@@ -236,6 +230,13 @@
      "time": "2026-11-15T12:00:56.000Z",
      "seen": "2026-11-15T12:12:09.794Z",
      "impact": "يؤثر تشكيل لجنة المناطق الساحلية على التنظيم والتنمية الاستثمارية والبيئية للمشروعات الواقعة على البحر المتوسط."
+    },
+    {
+     "title": "برئاسة مدبولي وعضوية 14 وزيرًا.. الحكومة تشكل لجنة عليا لإدارة المناطق الساحلية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcDBCWUIxM1VpX2tGNGhMeHdkWHVtYWExbFZETmotN2FwWDA2YVRreS0zZTBhLUMyRHVlYUNQZXBrcUY3cW0xT1gxZWFLeFlKUVZRbm95eDRjV3BBeWFZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-15T11:31:00.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
     }
    ]
   },
@@ -390,6 +391,13 @@
      "impact": "تؤثر التغيرات الميدانية قرب باب المندب على حركة التجارة والملاحة البحرية وسلاسل الإمداد المؤثرة على الأسواق."
     },
     {
+     "title": "تحقيق يكشف أسرار عمليات \"الموساد\" للعثور على رون أراد",
+     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOeklIazkxeG9Lb0k0RVZUbWVzd0RPVDg3bnVtSEVOVXRRc2t2NXF1YjlHMzZkTEUxZmtPU0hUZWZxcnlkZ2RlOWZZVHRXcEtnbnJzeFVJaFpVdGJSVV9nR3FUUElTcmJoT3dhTDdHalp6VVJwdjVwUUlwRUkzcFpuT0REaDZJeGkwNktiUnl4SXNZdEpCb3lvVkpnamlTZTJIOXRhelExY21Za1BSVWRRbXFHZVBhb1FsamxOQll0M3pLMnJjeUk5OXVrY2JTaDJYR1JiblpabFB1R0JQT2cwdmp5SGlEM3ZtcWJxXzNlcjNuUkllY3dndk9Tc1o2TU5fcFAxdnJYbWpyTlZxOWFTZlFMY0VBRnpNR05WeHVveEpkOVVrbHNiUTlwUDcxUlpLVDU2LWdFdlBjb1dXRDFacUVkN2t5dlhNVzViZmdsazVqZmc0TG9aa3FlY1hTR1VDaVhrcU9kODZBMGhpWk5KX1ExSnBtVEl6SFFzTGpCZENFXzE5OUZhMTZBMXR2VV9EVThvX3FWek9NMU4wTzg3cNIBpgNBVV95cUxORGZLX1lqeHVtS0k4N0hnd3lFTXZpbERDbWhVT01oeEt2XzBtUjdSUFpFb21rWjlPNFRuZDNKVkkzcm5xdzQ0NnFHYkQzek1ScHBKQWVVNjJ2R2s5c2gxT29vV0xpUjNKM2dDdDRGLXNhT093YWR0aG1pOW80VWFWLS1OYlozaFFNWmVBRkVzSmhrZUN0Rm5RX0J6ZVI4XzZjM3AyeGxVY3FsekxUVHZSWDhBX3JZNVZLNk1zWVJmN0w3RTg3V3BUbUZLSzh3ZHZaUjlIWHlYSmJsSWM3RjdfbGhpbkI4Z2VLT094YmdmVWJHWHJqdkRfeXNTbzB3V2tTSVRtSkM0UXVRYkdpZlRzdlFQZnlGZzllby16NXdNZjZHSWJRaGhWWFgxVW1ET1NrVExHSldMWXB1OVRmV0tyRmJDRWpub240dFJVSEpIRFdtLVlQMXFVSzd6MUx1OW9ISWdGV3RMSzEtSEJ5MW5lX1B6bERfbkxSTDVTN0tEQUp0cjVHZ0NBdGJERUZPc3NSZkZnd2dua1RGdlUzUy1hcklRdV9pUQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T15:20:33.000Z",
+     "seen": "2026-11-15T16:53:42.450Z"
+    },
+    {
      "title": "البابا ليون الرابع عشر يعبر مئات الكيلومترات لزيارة عاصمة الإنكا وبوابة الأمازون",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261115-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%84%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%B9%D8%B4%D8%B1-%D9%83%D9%8A%D9%84%D9%88%D9%85%D8%AA%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D9%83%D8%A7-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86",
      "source": "فرانس 24",
@@ -444,13 +452,6 @@
      "source": "BBC عربي",
      "time": "2026-11-15T14:31:52.000Z",
      "seen": "2026-11-15T14:42:10.229Z"
-    },
-    {
-     "title": "\"ميغاسبيد\" السنغافورية تنفي صلتها بأليس هوانغ وتؤكد مغادرتها قبل أكثر من عام",
-     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261115-%D9%85%D9%8A%D8%BA%D8%A7%D8%B3%D8%A8%D9%8A%D8%AF-%D8%A3%D9%84%D9%8A%D8%B3-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%AA%D8%AC%D8%B3%D8%B3",
-     "source": "فرانس 24",
-     "time": "2026-11-15T14:29:12.000Z",
-     "seen": "2026-11-15T14:32:10.222Z"
     }
    ]
   },
@@ -459,18 +460,18 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
+     "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-15T14:48:23.000Z",
+     "seen": "2026-11-15T09:11:55.978Z"
+    },
+    {
      "title": "كواليس قبل الوفاة ورسائل الزوجة.. الأمن يكشف جديد واقعة طبيب المنيا",
      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOc2tlN0dNWi1XdXRFX3pPUzhzcnA1NVRGSy1QRXNvXy1NMlB0WnphUDBZTGF4WDRCWDF0WjdjUnZWZmNsdzJ2d2E4NkFYSllSOERyQm1LT3hxZVROLWVLMjVmaG9RV0NNR2ptdW0teDd1b1V6UWFEX0dXcktNZkVfbTd6dHdPQnZfN1prbldrYkxMc2dSdy1HcTk4TXNJazB5WVNVQ1lDbGFMVUJHZ1RJeTBtUV9wRlJia193eEZWWU92d3FvY2c4R04yb3BWanVKaVROaFBjUGFJTkpuem5LTkVBNHJkZ0MtQmg4bGpYN0ZJOUI1eFhxWDNEbEpaaFdiLVJGb3pPc2haQU02RWllU3FfdWdURGkwTk5ZVjZZTUFXWHpwajBTc2Q4SnNuQV9GekxVWDhRRnBkVkplNVNGaW9YSnZTcHZJckhmV3QxbUw4WV9hVGZBRHZXdklzWWZPOFFMamZuUTFwaG1nMHpFdFJ6azNrQVh3LUMweXpFZW1RdHVXS3BlaEJ5di1FTVprbkswbS1wOFJXakhuTExnNFRRQ3hBczByQ1dCRkF5YlBxa0xZNWlQeHI3Z29VS1dUTUY0VGdtYlV1MXR0RFdIUHlsYzIwek5lYzlDWVludEkzSUZtS0JNbW8tZFVtbVE3Y1V6SGFRZW0yMHhEOENGb3MtV2F4cEQ1VzdzZHJrR3pNSnRzeVltbDJ5ZjEyb0ZvRW9lUUlGa1ZXM05ubHFB0gG0BEFVX3lxTE1jRklmNTV1WTA3eVlSc3AxaWdlX3h2M1BSVmZRQkxUQ1RfYTFoY0ExaThISzJnbmhxSmpkeTRGdFc5aC1yMmhBaF80Z0NZUjRhMWV5ZGlQa3k3THVNaXBWVU82a1BOYXZkcnppQ2ZENlVWMHgyNEowNDBBNUFoYVRFekhvMHNlSnpPV21JX0JfT1MxczJsSWN5NGJiNm41ZWFySU51em80WEhyUGdwQW93MlVlSFJlLWlMdGxwMjhUNFBMenVZMTZscmt5YVZLQ1dnNWNvenNHQlJ2SE8tbTdhMUJBMFpETFpEV21RcDNaZDIyOFJ4b25URC1oYkNobEtwa0FYRTQ0Y0U5Ym1BUElwdjRuWmJQU1I1c2ZaWUZSa0stSU9kRTRxUkJVOURIZVFVOTUwQy1JVG5FNkQxbGQzeXJuUkdoUXM1SFNjbG1laExtMFJsaFhuc3JtWUVFY0U3b0hRQk44bmV0amU4WVY1VGNfZFFpU25YQ2pwaUM5ME4xVTluLVB5R0gtWF9SN1hHMVBnTUJWMWZxbVJyRUE0aEE1cVAydVVxN1hfVVhzTVBJWi1IX003MU41TVdBRVZjS1d3T1k1ZUZfeThGVWtZT1VudEVUT1BSOUpOUmZCZFAteC1VWVNNV3R3QlpDUXE4U0VMT29nLXQ3Y1pPc0MxQlQtbXBUN0EtbF9XSVFsYWd6YlB0bWJKbHY5RGN5SmJxQWdYcGFVWjBzVlhfQ1RTSWl6LQ?oc=5",
      "source": "العربية",
      "time": "2026-11-15T14:36:32.000Z",
      "seen": "2026-11-15T14:52:09.376Z"
-    },
-    {
-     "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
-     "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-15T14:18:22.000Z",
-     "seen": "2026-11-15T09:11:55.978Z"
     },
     {
      "title": "محكمة أمن الدولة في الأردن تصدر قرارها بإعدام منفذي الهجوم على كنيسة الكرك",
@@ -514,7 +515,7 @@
      "title": "بعد جدل علاقتها برئيس إنفيديا.. تطور جديد بشأن أليس هوانغ",
      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPRkZUclB0b1B4Q25CYm5STUNYc2hZQ0dhdXJvN0ZQdGExOE1ibkpITzh6VjBXYjYtN1pKWDV6dnhkMWMyX0JYWXNKZzlHYm1yNTFaZFctYzlBMHhlUVF5U250RktMN3F0VFlYekhTcG01dWJRMVpsYUhPSElFMUpKT2R1S2RwZEowMjE4dXVKNzBQdWN5ZENzXzhiTEZiakxkZEVmNE9jeVNvbFcyS043cmNyak1hRDYweUhOeXBYb08wODAwdVg4a0tBejE2RmQ0c2ViMUpxLW5mN2Fya2JscjVmcUNjRlRQOXI5S0lhQThocmx2RzExZ2JMVzJBelNOR2RoOWlTOEdEVEtCajRJTVROWWkxbDlhZ1N3eEVPeVl3MkYtb0l3MzBqMVhEcXc1b2V0VVl4alA4UkJLekcwSC1tNUhWemxXZkxyX2RUZ1c2bDdaWlE1U3JnRHF0dEFsR2RJWXREaUo3YVRUTDg4SnBfaHc1ZDhhZDFnZUhid3FJeURJMnhoYzE2VU5aYVFuUndaVVBfb2tsam94UHM3SEJkZGJfNUFUYW9sZmtzVjBMMEZZMW1iSXd30gG_A0FVX3lxTE9pU0lROFdva3NyQk5IQUlxejlXTk1HbERqS0sxQ1NKWExNZFZXVGhiRGpGaWw2Z0hPWDFNM1NwQkh2Q3ZaVFBwa2F4c1pOY0ZMZHdZMlNKR09YR1VfZy1wYzNaU1pNSkNtYkFnODQxZlFjQ3dNU0R5c2NwZ1VQalBiVzNLX0JBTW9lWGNKWk90R0VWdE45WVNIVHM5OHo3WVkxRHlBVzJmazRyNzBnUkx5S3RVcHpPWS14YjJIcHZicGo5NHVGM01nTWdwY1RaZm9vbUR6MDZwN0lxUVcxXzdRVmV3VzQ0NU9uczFTMEowbDBqWkV0TkNUS2poUHdHb05ZdmQ2UFZ6Y0ZlalBFb1kyZG5aVGxVcGZKb1owbzQ0dDhxTmZYTXVjR1ZVQ0RyeGROZy1jWHBsQ2pDcUhRRlJFME9SanFmMUEwUnM2bkZFdWtFLXI5cWJiel93LVJwMTFudDNyT19oSWgxbHczRllfMVFGSFFsYkI4MUI3VlhmNFVoRXA3Vkw4VVhIbHpaRWdLa2dtWVJPamdjbkQ5ZGdnd183ZTRjZUFNX05QN1B2UDR2UmRVa1FPSk5KWEdOUQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T10:30:23.000Z",
+     "time": "2026-11-15T10:42:41.000Z",
      "seen": "2026-11-15T10:41:56.059Z"
     },
     {
