@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-15T08:41:55.851Z",
+ "updated": "2026-11-15T08:51:55.850Z",
  "minute": [
-  "تتناول الأخبار الاقتصادية في مصر مستجدات أسعار العملات وتطورات البورصة وطرح بنك القاهرة، إلى جانب بحث شركة النيل للأدوية مضاعفة رأسمالها.",
-  "حذرت هيئة الأرصاد الجوية من تشكل الشبورة خلال الأيام المقبلة، بالتزامن مع رصد كثافات مرورية في القاهرة والجيزة وإغلاق شارع الهرم.",
-  "على الصعيد الإقليمي، أُعلنت تطورات عسكرية شملت إحباط البحرين هجمات جوية وإعلان الحرس الثوري الإيراني استهداف مواقع وقواعد عسكرية.",
-  "وفي قطاع التكنولوجيا، تراجعت القيمة السوقية لشركات مرتبطة بمراكز بيانات الذكاء الاصطناعي، ورصدت تحقيقات ترتيبات توريد رقاقات لشركات صينية."
+  "شهدت أسعار العملات في مصر تحركات جديدة بارتفاع سعر الدولار وتراجع اليورو أمام الجنيه بالبنوك.",
+  "أعلنت شركة شل مصر بدء إنتاج الغاز الطبيعي من حقل مينا غرب بالبحر المتوسط.",
+  "صدرت تحذيرات للسائقين في مصر من شبورة كثيفة تضرب الطرق وانخفاض مستوى الرؤية حتى يوم الخميس.",
+  "شهد القطاع التكنولوجي والعالمي خسائر لشركات مرتبطة بالذكاء الاصطناعي وتطورات إقليمية متفرقة."
  ],
  "ai": {
-  "at": "2026-11-15T08:01:55.608Z",
+  "at": "2026-11-15T08:51:55.850Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-15T08:41:55.851Z"
+  "impacts": 6
  },
  "markets": [
   {
@@ -55,9 +53,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51809,
-   "change": -1.32,
-   "asOf": "2026-11-15T08:29:11.000Z",
+   "value": 51828,
+   "change": -1.28,
+   "asOf": "2026-11-15T08:38:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64706,
-   "change": 0.9,
-   "asOf": "2026-11-15T08:44:11.000Z",
+   "value": 64766,
+   "change": 1,
+   "asOf": "2026-11-15T08:53:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,46 +138,47 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إعادة فتح الطريق الإقليمى بالمنوفية بعد غلقه بسبب الشبورة المائية",
-     "url": "https://www.youm7.com/story/2026/11/15/إعادة-فتح-الطريق-الإقليمى-بالمنوفية-بعد-غلقه-بسبب-الشبورة-المائية/7618827",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T08:41:00.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
-    },
-    {
-     "title": "«قوى النواب» تناقش أزمة التأمينات وتدهور معيشة أصحاب المعاشات.. اليوم",
-     "url": "https://www.elbalad.news/7181125",
+     "title": "إصابة زوجين في انقلاب سيارة ملاكي واصطدامها بعمود إنارة بطريق كفر محفوظ بالفيوم",
+     "url": "https://www.elbalad.news/7181120",
      "source": "صدى البلد",
-     "time": "2026-11-15T08:40:19.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
+     "time": "2026-11-15T08:50:26.000Z",
+     "seen": "2026-11-15T08:51:55.850Z"
     },
     {
-     "title": "مؤتمر المناخ.. تحذير من تداعيات ارتفاع الحرارة والكوارث المناخية",
-     "url": "https://www.elbalad.news/7181123",
-     "source": "صدى البلد",
-     "time": "2026-11-15T08:39:07.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
-    },
-    {
-     "title": "اليوم..ختام منافسات كأس العالم لـ سلاح السيف بالعاصمة الجديدة",
-     "url": "https://www.elbalad.news/7181124",
-     "source": "صدى البلد",
-     "time": "2026-11-15T08:38:08.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
-    },
-    {
-     "title": "التأمين الصحى يعلن 22 موقعًا لإصدار وتجديد البطاقات بالقاهرة.. اعرف العناوين",
-     "url": "https://www.youm7.com/story/2026/11/15/التأمين-الصحى-يعلن-22-موقعًا-لإصدار-وتجديد-البطاقات-بالقاهرة-اعرف/7618830",
+     "title": "مشاهد بالعين المجردة.. اقتران المشتري والمريخ فى مشهد بديع فجر غد",
+     "url": "https://www.youm7.com/story/2026/11/15/مشاهد-بالعين-المجردة-اقتران-المشتري-والمريخ-فى-مشهد-بديع-فجر/7618849",
      "source": "اليوم السابع",
-     "time": "2026-11-15T08:37:00.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
+     "time": "2026-11-15T08:50:00.000Z",
+     "seen": "2026-11-15T08:51:55.850Z"
     },
     {
-     "title": "هيئة الدواء تحذر من حقن «الريتروتايد» وتؤكد: غير مسجلة واستخدامها خطر",
-     "url": "https://www.youm7.com/story/2026/11/15/هيئة-الدواء-تحذر-من-حقن-«الريتروتايد»-وتؤكد-غير-مسجلة-واستخدامها/7618813",
+     "title": "حدائق أكتوبر : تحرير 42 محضرًا مخالفات في النرجس خلال حملة تفتيش",
+     "url": "https://www.elbalad.news/7181129",
+     "source": "صدى البلد",
+     "time": "2026-11-15T08:48:15.000Z",
+     "seen": "2026-11-15T08:51:55.850Z"
+    },
+    {
+     "title": "الصحة العالمية: مليون طفل مبتسر من بين 15 مليونا يموتون سنويا بسبب المضاعفات",
+     "url": "https://www.youm7.com/story/2026/11/15/الصحة-العالمية-مليون-طفل-مبتسر-من-بين-15-مليونا-يموتون/7618836",
      "source": "اليوم السابع",
-     "time": "2026-11-15T08:33:00.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
+     "time": "2026-11-15T08:48:00.000Z",
+     "seen": "2026-11-15T08:51:55.850Z"
+    },
+    {
+     "title": "الشبورة الكثيفة تضرب الطرق حتى الخميس.. وتحذير للسائقين من انخفاض الرؤية",
+     "url": "https://www.youm7.com/story/2026/11/15/الشبورة-الكثيفة-تضرب-الطرق-حتى-الخميس-وتحذير-للسائقين-من-انخفاض/7618746",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T08:47:00.000Z",
+     "seen": "2026-11-15T08:51:55.850Z",
+     "impact": "تؤثر الشبورة الكثيفة على سلامة التنقل اليومي ومواعيد السفر للأفراد والسائقين في مصر."
+    },
+    {
+     "title": "\"بيتكوين\" تهبط إلى أدنى مستوى في ثلاثة أشهر مع تسارع تصفية المراكز الشرائية",
+     "url": "https://www.elbalad.news/7181130",
+     "source": "صدى البلد",
+     "time": "2026-11-15T08:43:57.000Z",
+     "seen": "2026-11-15T08:51:55.850Z"
     },
     {
      "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
@@ -245,25 +244,43 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "ارتفاع سعر الدولار مقابل الليرة في مصرف سورية المركزي اليوم الأحد",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MX3cyeDJkV3FlWHA4c09aNUpxSnJ6TV9EVGFvcXRWVC1qamZwd3NHWnlaVUtxd29ONmx5b01HNXctQ05fM3NV?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-15T08:45:00.000Z",
+     "seen": "2026-11-15T08:51:55.850Z"
+    },
+    {
      "title": "تراجع سعر اليورو اليوم الأحد 15 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPQXZWMWVjcktNR0dscUIweU8zbWYtbUJDZmpaVlluZERIWHgxS3VaYlVDNm9hd0d5ZFhBZ3ctX0QtM1JURkZQbjB6Y0NDb0ZpVkxWRXNDa001MjJvb1dxY0NpM2UyNDhmRWc2azhFNVF0TVBsQXF3bG9PSDFPWFZqd2hNU3JSNmpSYnFBRzU3MDEwSTEtN0Zha2xaSDB3UFJwSXVuQ1hHOW9nTW1mSEVIRDRmQjBqQ2FxYXd3NUpoRGduWDhRcFNTTFZWZUVwZkpJaElDRkdqQlRaV0tOemVtSk83UEo4cXVzYk5RS2JMdHhFamJ5RTFTeE5WUUxDbGgzQVlVeE45NmtPVGRvX0VzU2NUUGl4QkFLWXpKaGpLYUdzZUpNNHhBemVNY3Z2VG96VGZpY1BTY2hqd082OTZzSXpsVE90dVBPSUdFYzBhMG5XTVpKc0gwUXBzTTdCU2ladWQxZTRaM2JqcVllbDVNcDVwVXItOXNGcHVlbkI2dlNwODhYbTVxd2k0Nnk3WkstNEgwNXBSLWQ5YWNTWDJvaFp5cF9sdEZERXVKbS1Xb9IBqgNBVV95cUxORTB0Q3cwaGE1NGF1VWxVVjJCLTkzYUJ5ekU0bG5QbWpaV0VObTNHQmg1eGZoRWRjbm8zZER3cUJhNC1jYmt6NUVKVHVZMEdaRkp5NGp2bUVoNjdoVVZNTUtUZkVrN3dGdDNNcmdNcmVaYlZTc3ozNjFaU19pQk5uZWFhc2I2LS01MWlhUjdES2RyX2JmVC1fSFdadThtRG1rcERQa1FWa19BaXJWbjFZMTVOZl96bldyVENuYVZONUdhZFQzd09oQ3hmWERsazJfY3F6ckRLaEZzR3lXMmRKbi1zZF9TVzN4Tl9GZFhObEZqYXhGVjBMaThwNWVDWVktUGVpVXJsTlhNRVduV0lkQnpaRkVyVG5HRDRvQmJWRF9xWHBQZjZUOUdST0hOdndEc2hFTTFuVjdidV9Za1BGOGNsT2xOSVFHSzVmN1E2QzZRNnl5RDNWNDB6T0hmWmxEaWM0YTRZVmY0anNUcXBKZ3hPaTdkM2t2Yk10WF94WU5uVWJBTElqZkRGZEFZeVU1NFNOYkFKRFkyUFVoM0Y3MExyaWtCSUtVblE?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-15T08:34:00.000Z",
-     "seen": "2026-11-15T08:41:55.851Z"
+     "seen": "2026-11-15T08:41:55.851Z",
+     "impact": "يفيد تراجع سعر اليورو أمام الجنيه المستوردين والتعاملات المالية بالعملة الأوروبية في مصر."
+    },
+    {
+     "title": "سعر الدولار في مصر يسجل مكاسب جديدة",
+     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPOWplLVJjaEpyVnZTbDVmOWozWWFmVU9vZGNZQU5oRTNySVVfZW9SU3dRZTRSdHBiX3pEX2xWLUpXcG9zVUs5dXNnZ2dLdi1ZZTNQSjlrMFhVd3ltZFNwTWFOblRlUk5BNXdxcVJHZ0NmSUpHbHk1OGFTTk9NZVNJRU10bnZnQkFzRGhhRnpPVFRocFk4SERaNXlJbHFGdk1tcGxuQVdiUTBya0swZTBmRmkwak01SUYyRkpyVGtmaEs4UFdDNFpuaW1UVVFfR1J1eGc3akdTOE5tdjhWSG45RFlBTm5QN0tWTWc1Tjc2ZzhZdlhKcE12dElFVms2SklLOGUzZjVkSVVYLThaSjJaekpWMWNzM2F1eldxMElXeGU5Y2Fyd0VYUHBnaTZYQ2E2aDhleHJ5OFZzb2ZiS0lmcmc0MnJqc3c0ZW5GanhtZWZzbjhnX3RINtIB3gJBVV95cUxOb0VFR19NNTNZdU1PWUNiSWJkanFEMWdfU3l6UzlFUDlKdDhORnRBT3V1bXdmVDEzME1FcThkQ05SbXI4aFZqa2tFLVZoU3hISDRLWTlWVTlQa0labzN4ZlM4cUJnWHIyNzJpWjQ1UWVZMjFxN2dCWEJUMFdET01jSEw4UlNfT2gzeklodFhmU2s4V3BQbnhoZ0FEQ3VJcDJzQ3UtRVlYNng0ZmlYYm5lUkkta1VqZHczMnhlT0JVelE2VjJjMFFydmNxY21XdTlNTkIwNVFqUzdKdk0tMUlQMm9Hc19USFpjakszV3V0RjV0UlhqZlpEN1JQd2xneXM5bU9OTXVlUHplaUJCQUlCUFVNaWw4cDJPLWVTeUc5R2I1VTFxeEtQVzY1VFpRb19zc0ZIQ3hiSlBlOUVNdEphRUhDZ3RUZmMyQXJ6QzN4OXc3WVhFS3p1U0czMjhEQQ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T08:32:00.000Z",
+     "seen": "2026-11-15T08:51:55.850Z",
+     "impact": "يؤثر ارتفاع سعر الدولار أمام الجنيه على أسعار السلع المستوردة وتكاليف المعيشة في مصر."
     },
     {
      "title": "تحديثات أسعار الشراء والبيع.. سعر الدولار اليوم في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE41b1pOV3NsekxxUEh0NFIyYkh3NGhJMW5RaUozbUVaUWNWblM1VzliZWY1QTdmQnJSRzNWeU9OVTRaTXdQ?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-15T08:25:44.000Z",
-     "seen": "2026-11-15T08:31:55.799Z"
+     "seen": "2026-11-15T08:31:55.799Z",
+     "impact": "تساعد متابعة أسعار الشراء والبيع للدولار الباحثين عن إدارات مالية أو ادخارية في مصر."
     },
     {
      "title": "“شل مصر” تبدأ إنتاج الغاز من حقل مينا غرب بالبحر المتوسط",
      "url": "https://alborsaanews.com/2026/11/15/2006338",
      "source": "البورصة",
      "time": "2026-11-15T08:14:10.000Z",
-     "seen": "2026-11-15T08:31:55.799Z"
+     "seen": "2026-11-15T08:31:55.799Z",
+     "impact": "يعزز بدء إنتاج الغاز من حقل مينا غرب إمدادات الطاقة ومناخ الاستثمار البترولي في مصر."
     },
     {
      "title": "سعر الديزل ينخفض في أمريكا لقاع شهرين مع انحسار التوتر وانخفاض الطلب",
@@ -330,21 +347,6 @@
      "source": "قناة صدى البلد",
      "time": "2026-11-15T07:16:58.000Z",
      "seen": "2026-11-15T07:41:55.290Z"
-    },
-    {
-     "title": "الدولار نزل.. أسعار العملات الأجنبية اليوم الأحد",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBhRGtuUTBCUXN6dk44V0I5cVZEcWRHNjR4dGVlangtbDd4a0pXei1QMVdBR1hfVnNRanlrX1Qwa2s1dmo3?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-15T07:12:24.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
-    },
-    {
-     "title": "سعر الريال السعودي في مصر اليوم الأحد 15/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbjMxQzFzajFfNnF3OUhmWkpTYnhYelcwQV9pUEFXLVFGQUFlZzlxMERKbkU1ajJNS0xPSXdpTFNkaVNSc1JuaUlJN1VpRnRheU9famlB?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-15T06:59:49.000Z",
-     "seen": "2026-11-15T06:51:56.184Z",
-     "impact": "يهم الراغبين في السفر أو المتعاملين بالريال السعودي لمعرفة أسعار الصرف الرسمية في البنوك."
     }
    ]
   },
@@ -462,7 +464,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-15T06:49:23.000Z",
      "seen": "2026-11-15T06:51:56.184Z",
-     "impact": "يفيد المستثمرين المهتمين بقطاع التكنولوجيا والذكاء الاصطناعي في تتبع تقلبات القيم السوقية للشركات العاملة بالقطاع."
+     "impact": "تؤثر التراجعات الحادة لشركات مراكز بيانات الذكاء الاصطناعي على تقييمات أسهم التكنولوجيا للمستثمرين."
     },
     {
      "title": "بعد «مايكروسوفت»... عطل في منصة أميركية لإدارة الرواتب يربك شركات كبرى",
