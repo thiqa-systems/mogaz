@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:21:55.322Z",
+ "updated": "2026-11-15T10:31:56.248Z",
  "minute": [
   "شهدت الأسواق المصرية ارتفاعاً في سعر صرف الدولار مقابل تراجع في أسعار الذهب وتباين في مؤشرات البورصة.",
   "أعلنت الحكومة تخصيص 25.6 مليار جنيه لاستثمارات التعليم العالي بسيناء، بالتزامن مع تحذيرات الأرصاد من شبورة تصل لحد الضباب.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T10:11:55.746Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T10:31:56.248Z"
  },
  "markets": [
   {
@@ -52,9 +54,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 52218,
-   "change": -0.54,
-   "asOf": "2026-11-15T10:06:53.000Z",
+   "value": 52221,
+   "change": -0.53,
+   "asOf": "2026-11-15T10:18:25.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65453,
-   "change": 2.07,
-   "asOf": "2026-11-15T10:21:55.000Z",
+   "value": 65496,
+   "change": 2.13,
+   "asOf": "2026-11-15T10:33:27.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,31 +139,38 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تخيل ده اللي يفرحك.. شيكوبانزا يتوهج مع الزمالك ومنتخب أنجولا",
-     "url": "https://www.elbalad.news/7181237",
+     "title": "محافظ أسيوط يتابع جاهزية الحملة الميكانيكية بديروط ويوجه برفع كفاءة المعدات",
+     "url": "https://www.elbalad.news/7181213",
      "source": "صدى البلد",
-     "time": "2026-11-15T10:20:32.000Z",
-     "seen": "2026-11-15T10:21:55.322Z"
+     "time": "2026-11-15T10:31:01.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
     },
     {
-     "title": "صلاة الجنازة على والدة علا الشافعي بمسقط رأسها في المنوفية.. فيديو وصور",
+     "title": "محافظ الغربية يستقبل وزيرة الإسكان قبل افتتاح محطات صرف صحي بطنطا وبسيون",
+     "url": "https://www.elbalad.news/7181229",
+     "source": "صدى البلد",
+     "time": "2026-11-15T10:30:11.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
+    },
+    {
+     "title": "من دكة كونيا سبور إلى صراع الكبار في مصر.. هل يكتب مصطفى محمد نهاية رحلته الأوروبية؟",
+     "url": "https://www.elbalad.news/7181179",
+     "source": "صدى البلد",
+     "time": "2026-11-15T10:30:00.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
+    },
+    {
+     "title": "منال عوض: تنفيذ برامج تدريبية لتوظيف الذكاء الاصطناعى فى متابعة البرنامج السكانى",
+     "url": "https://www.youm7.com/story/2026/11/15/منال-عوض-تنفيذ-برامج-تدريبية-لتوظيف-الذكاء-الاصطناعى-فى-متابعة/7619061",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T10:29:00.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
+    },
+    {
+     "title": "صلاة الجنازة على والدة علا الشافعي بمسقط رأسها في المنوفية.. صور",
      "url": "https://www.youm7.com/story/2026/11/15/صلاة-الجنازة-على-والدة-علا-الشافعي-بمسقط-رأسها-في-المنوفية/7619033",
      "source": "اليوم السابع",
      "time": "2026-11-15T10:19:00.000Z",
-     "seen": "2026-11-15T10:21:55.322Z"
-    },
-    {
-     "title": "وزيرا خارجية مصر وتركيا يبحثان جهود خفض التصعيد الإقليمي ومنع اتساع الصراع",
-     "url": "https://www.elbalad.news/7181232",
-     "source": "صدى البلد",
-     "time": "2026-11-15T10:18:37.000Z",
-     "seen": "2026-11-15T10:21:55.322Z"
-    },
-    {
-     "title": "اتبهدلنا من بعدك يا ميسي إنت ورونالدو.. أول مباراة لـ التانجو والبرتغال بعد اعتزال الدون والبرغوث",
-     "url": "https://www.elbalad.news/7181233",
-     "source": "صدى البلد",
-     "time": "2026-11-15T10:18:09.000Z",
      "seen": "2026-11-15T10:21:55.322Z"
     },
     {
@@ -173,19 +182,18 @@
      "impact": "تستهدف التوعية بتخفيض النفقات المنزلية والاستهلاك لدى المواطنين."
     },
     {
-     "title": "الحكومة: 25.6 مليار جنيه استثمارات موجهة لدعم منظومة التعليم العالي بسيناء",
-     "url": "https://www.youm7.com/story/2026/11/15/الحكومة-25-6-مليار-جنيه-استثمارات-موجهة-لدعم-منظومة-التعليم/7619015",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T10:09:00.000Z",
-     "seen": "2026-11-15T10:11:55.746Z",
-     "impact": "تساهم في تحسين جودة التعليم العالي وتوفير فرص تنموية جديدة لسكان ومستثمري سيناء."
-    },
-    {
      "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxObjFma1NPOFZMYlFTdnlFX0l1NkFOYUlwa0VKQnNQcEJqUjVlMXVRNzkyN01HbFcxU1F0VFY0N2VBQWtfb2kyU1dzN29paG4tZDk3Z1d1WXdiV3MweHhJN1IwdFlkZUtQWnA4bVNrdFZ6ZktCV3lRUzRrN0k2b2EzaVo2dkJ0dndlUXhzWGJ0Vmk3ZTJHTkNSeDdkWVplbGZhX0ltWlRTTEhpRmMxTV93LTU3cnFvdG9yTzc3NERXaXF6QkRnaDliU2tVZmFsY1kwQkxiOENzR1pCenhEVXNfMEhfVWVScUtqOXhaTHZ1VmxXeTJmMFo0RGFUSlNXdzZabTJwYzJ2LV9wYk5BdXpkdnp6VkdkT2ptVWFhNU1LaFRib2tldzgwVGlxUWQ4Nl81cXREbWNVX08tYzVwbDk2N1JIUUF6eVNMZnZjRU5pN1ZZSlpOTWZSQldsbGhvWC14VGc5UVlIQjJ5VkdLQ1h5bjFwaWRWYzlpampBLUJ5aGo0Zm50R2tGd21RLTlQWVBiX0x6cjdGLWtvLWtiUHY0N0dDUUdUQWdteVNtMFRQMzQzN203SUJGaDdxVmlIbEpoY0dvSzJuUkF0TFlsc0pVRU5tR1FFUkNGbzFRejZqR0dOZ1ZFU0E0SEE5dUdseVpUeXBVbGt5czFqNUdrOC1MV2J3?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-15T06:39:58.000Z",
+     "time": "2026-11-15T08:14:33.000Z",
      "seen": "2026-11-15T07:41:55.290Z"
+    },
+    {
+     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-15T07:42:41.000Z",
+     "seen": "2026-11-15T04:00:28.027Z"
     },
     {
      "title": "يطبق اليوم.. قرار مهم من النقل للركاب بالقاهرة الكبرى",
@@ -200,13 +208,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T01:22:00.000Z",
      "seen": "2026-11-15T09:11:55.978Z"
-    },
-    {
-     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-15T00:54:41.000Z",
-     "seen": "2026-11-15T04:00:28.027Z"
     },
     {
      "title": "إجازة 3 أيام متتالية للموظفين.. الموعد والفئات المستحقة",
@@ -266,7 +267,7 @@
      "impact": "يؤثر ارتفاع الدولار على أسعار السلع المستوردة وتكاليف الإنتاج في السوق المحلي."
     },
     {
-     "title": "\"من السويس إلى هرمز: ما الذي تغير فعلاً خلال سبعين عاماً؟\" - مقال في اللإندبندنت",
+     "title": "\"من السويس إلى هرمز: ما الذي تغير فعلاً خلال سبعين عاماً؟\" - مقال في الإندبندنت",
      "url": "https://www.bbc.com/arabic/articles/c6x2w841m842o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-15T09:41:45.000Z",
@@ -355,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الأردن: الإعدام لثلاثة مدانين بالهجوم المسلح على كنيسة في الكرك",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%85%D8%AF%D8%A7%D9%86%D9%88%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B3%D9%84%D8%AD-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D9%83",
+     "source": "فرانس 24",
+     "time": "2026-11-15T10:26:22.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
+    },
+    {
      "title": "انطلاق قمة آسيان في مانيلا لبحث التجارة والأمن وأزمة الطاقة وسط ترقب زيارة ترامب",
      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261115-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D9%85%D8%A9-%D8%A2%D8%B3%D9%8A%D8%A7%D9%86-%D9%85%D8%A7%D9%86%D9%8A%D9%84%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A3%D9%85%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
      "source": "فرانس 24",
@@ -381,6 +389,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T08:36:35.000Z",
      "seen": "2026-11-15T08:41:55.851Z"
+    },
+    {
+     "title": "مشاهير يروّجون لشرب زيت الزيتون يومياً... ماذا يقول الخبراء؟",
+     "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeEl6UFhaVDlrSlI1eTZWN1ZJdDVNNmpyVzJndnhrUERJVnBLWHFHZzJUNEFuM1puT1QwWHMydzR6dEp1dFFHZlFjYlhpSkFKbm1UVnRJRk51UzVlUzNPMThZUmk5RHR1dEwwTmRSWFhtMFFqVGZLYVVIS01MWF9XZnpWcF9mTXdENm9mQkNVdGhVZndNbDVOM1hSbVRoS0lybFNfaVlzNWFJNnQ5MzNwdllJTHB0dU9xN29xd3pvTmc3OHNtMkVmSTVIVDllblZqVXlMdnRhcHlMcy1tVWxCVVJPbG5Ecm5sSFRMWTEyMjQwOEo4QkFKSE1NZjdfZk45aXVoYXQ0MkVLVVhlZ0JBOW40U3JnRTJhRHlMUlpPa1RKY3Jqb05jVXZ5X1dFSGExUVdsYzRTVTlON3JWaUV0QUZrS25zYS1RY2hFUjhDbjdqNk5FM0JXSWRsR096aUdwREpiSEROV3lvTUl0R2laS0tWNi1tNXp3bDFwdU9ETEZ1SHRmVTYzUmVBdDY3dzJDenNwQ2ZaV3pWNHBBVVN2QUJLME5PNFpZdkU2Y2dGb21sbUhIckdneC1ET09vNjZ2UkRIdndoVmU0bmVIQXRzVkFsWUVfOFpfazBEV1JKVEU4d0pMSFNRRlVNNmtGQ0Y2NXRHQQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-15T08:17:35.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
     },
     {
      "title": "محكمة أمن الدولة في الأردن تصدر قرارها بإعدام المتهمين بتنفيذ الهجوم على كنيسة الكرك",
@@ -419,11 +434,11 @@
      "impact": "تهم المستثمرين لمتابعة تداعيات التوترات الأمنية في الخليج على حركة التجارة الإقليمية وأسواق الطاقة."
     },
     {
-     "title": "انفجارات في البحرين وإيران تعلن استهداف قاعدة أمريكية بست مسيّرات",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%B3%D8%AA-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
-     "source": "فرانس 24",
-     "time": "2026-11-15T07:30:04.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
+     "title": "قضية مقتل العلواني تثير الجدل.. توضيح رسمي من لبنان",
+     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPeGhScmw1dXdTb0JrQktSRWxJUTIzdFgtU09qSW9UVS1SR0diOVBodVl3UUJacFN4WlpLY0VqelhUejdRUlZ6bE1WU1o2SXZpWExIRzBUbUlabTNrNnQtZnVnNjRSeWJlcHRnY250eXpDWC1lOGduR01FdWR4Zkg1OUNiSkdQSld4M1dJdUw5WU5NSlRVVFR3SGNfNEVBeXZqdHo0UmpiOTR5Rk9sSUZVcjBxbWFuQ2Z5Y2tXd3lBX2JaUXdBdHRjMHZtT2ZZWXI3NHAzZTRlYnFrZ2FpY2pJeVdrdmlKNC05MnRralJONkZqTGxnbnlGa1NLdXZpYjRfQUM2Yl9VRUJ2bVZMQzNLMWNnTHJsOGp5TkZId1preHJseXhQVlNZV3hFU20xdHd2TzZLUmczU2lpVmlYZFFtYzFXTldPS2RMUUlseEVxLTdOc1R5RW9SdThuUlMtU1JacWl6R1doTmZFdXRNYXJlVlUwbU1tTG9TaDV3eUF6MlVNMnN0aEJta1M5bU9FaUtyMTlPd3hfRXRJQ0hKbHFlUdIBpgNBVV95cUxPR3kxa2lEdHRHM1R2MU1jVmVuRE1TQzlLeTJydWxldmhBUUZwYTNBZGZ6VVhEOFZqX09ON2hjWkJmZms5NVkyWWJrSXdzM0VWZXc1clpEQzZ5RGtDdTRCZHRGUnBoNDhvendRcWd4WEdzbTRMbkpGS0dQY05DbnA0TzNwQzA4U2tHMVVwR2VCMTAyX201XzFKcTJ6WnZPLUhEcmdCYjFFTVNIVHlCaloyMXVBR3ZwWm5zUVdiSmpxakt1enJ6bVZMTjR0V3hLOFVQTVRDU2l0OENzNlhDZWVNMk41cXRUWUNuV05oLWoybTRpUENWUHl0OVo5SnJSWHE3MHpvOFhmODNtV1NrOHczVzc5YzJtc19iLWVob1BoTmx4VUpTa0RBQjBsZkxOdlcxckw1cVhQWXhhS0x4RjhNOVRMMlk3SElJeTY2bW5UcGE3NmRwTlFsOC1ZMXlFTDRQS1J1RHg2MmtkdElUQktacVprdTZTbUtxQkthajBJengwcHY5NXMxZ1RpZTE4Z295TG0wTzNBQThrWENaOEh4ZEFlTGJGZw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T07:29:55.000Z",
+     "seen": "2026-11-15T10:31:56.248Z"
     },
     {
      "title": "تصعيد جديد.. البحرين تحبط هجمات جوية إيرانية",
@@ -433,25 +448,11 @@
      "seen": "2026-11-15T07:51:55.375Z"
     },
     {
-     "title": "البحرين تحبط هجمات جوية إيرانية.. وتعلن رفع الجاهزية",
-     "url": "https://www.skynewsarabia.com/middle-east/1904851-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D9%84%D9%86-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T07:26:55.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
-    },
-    {
      "title": "\"فجر اليمن\" تلاحق ميليشيا الحوثي في مأرب وتعز والجوف",
      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRHRFc1lDQ2tSenBTSkx3UUZVVjlzYmFCc2g5Y2NvV1FBZkN0VEtoNU1xYzVEUW9nOGU4TkdQdmstWGFnV3JSNDU1NjVXbkFnd2dwMHQ1bmdLRHRyeV9xblNMRWoxS2F3SjhkNFllaVZuV1UxWTNwMFhnazRMSVVJUURvdXdYSWhHTXNZdnZxUVpES29zU3Q1WlVTY0o5MHc5RVV1blhMNGJwdHBDMmZYbVNmaXQ4UE1DaTZOd19kTW16Q2Nhc3VXS0Z1ZHJIV19fd3FnNFNwLU9XV09qSnJ2RjdtSVhYbkhtelBaVTg1ekl5aEhXSkVkWk9SQ2pCRHlZWlpaTjJmMmFlMDY3a3Nqa1B6YnRKNUpNdWlOY0xTMlgwZmJWTktQNTd4OHhiUE9MUkdUenN3OUlDRHJnUDVkX1drRGxfUnNudnQ5RFQxdE5vczRqdG1QRExKR0xFaFp5aENmOGlPdGVjVFZROVA3UEwzcHVRbmtMblFxb21pMVVZQ1hhTGNHdWh1U0ZoMExMLUxIVWJuNk9ac3Y4cGVXbzh4T1N4V0hSRWtvUVowWmIzSnRDb1VvNzNiYUI0b1F5TDBIRw?oc=5",
      "source": "العربية",
      "time": "2026-11-15T07:17:00.000Z",
      "seen": "2026-11-15T07:41:55.290Z"
-    },
-    {
-     "title": "شهادة من داخل البيت الأبيض.. لماذا تفشل حروب أمريكا؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/15/%d8%b4%d9%87%d8%a7%d8%af%d8%a9-%d9%85%d9%86-%d8%af%d8%a7%d8%ae%d9%84-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%a3%d8%a8%d9%8a%d8%b6-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d9%81%d8%b4%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T07:01:01.000Z",
-     "seen": "2026-11-15T10:11:55.746Z"
     }
    ]
   },
@@ -553,7 +554,7 @@
      "title": "بعد 22 ساعة.. سبيس إكس تحقق أول التقاط لـ\"ستارشيب\"",
      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQTWVTdm5iQ1piaVh4UDBoX0JBWlFPSC10ZU52M1VLTnY5NWVKYmhfazc5eC1OdFIwU2UteHp2XzJyX1RMTnZ3M3p4cHIwbEtkQkpRQVRmUlRnUHlIN2VtTnNWd1NZUFZMb0ZGSjZCdDY2ZThBZXhndThac29JYjI4MXVRYVVycEhlTHRnenhwdGl4MnRidU1zTEh1UXpmclVvbXZPcDdoek4tTTB4ZFRWdEh0R0p3N2lOLVczVUJPRk9pZWtYSTlZX2E0dlZESE9GM3hBRzRJSEh4T2VxeHJHMGgxampMVDVNX0ppaFgwQXp3cGRaMWZkaVJPamg5RklJX1lqVVdjelpsbmhzbjZwZWZHLWt0ckNTSWxWYjEwcnJzYmJtcHBDYkVQRWNHQ1JsOUtWOXJLS3dZVDQzUDhiUG5kUDlnd0lMbmg5MmJoODBMd9IB1wJBVV95cUxOTUR1SlRpcDlEX0dCWm5VT0c1OG9TNDhOb05fX3pEendQOElxQVFqR1dCSXZUQldrY28tWG5CRHZ4VmdfUHdUaVF3QmVvSDlkbGxzb2N3dWRWa0NLY01LYTBXNHBqMVZEc3FKNnpHSkY0THpwV2s3YUFybk5IMG1EWnNsZjF2WU1TLU9JTmpvS1NROHgyUlBQQUpVdnZsQnlwbzJSY25lN1BLbmpSZGNuVG1HVlJra1l2c2hDVWtQUlZxbE5SZW5ITWdNbnVGOFZZWWR2MUNLQmVMeklvNk5oQVBfRGNBUjBnTFM3TXhXRGFENkY3SXotRGpRU3JyZi02RUQwZ2hkMThJUE11UHNocXBJbXhrODdVTU8tLVFWQjk1MmVoUkMyaEdtNDgybVJaY1VFNktMSGozbW5TaVdLZFhxWGRmT0xxNmFoUDA4WXp1MFVwWDU4?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-14T23:53:27.000Z",
+     "time": "2026-11-14T23:57:29.000Z",
      "seen": "2026-11-15T03:00:27.186Z"
     },
     {
