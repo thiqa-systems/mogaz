@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-15T12:42:09.263Z",
+ "updated": "2026-11-15T12:52:10.005Z",
  "minute": [
-  "شهدت الأسواق المصرية ارتفاعاً مستمراً لسعر الدولار مقابل الجنيه مع تسجيل الذهب أكبر تراجع أسبوعي منذ ثلاثة أشهر، بينما ارتفعت أرباح شركة غاز مصر.",
-  "وعلى صعيد الخدمات والبنية التحتية، أُعلن عن موعد تشغيل الخط الرابع للمترو، وتشكيل لجنة عليا للإدارة المتكاملة للمناطق الساحلية بالبحر المتوسط.",
-  "وإقليمياً ودولياً، استمرت التوترات والتصعيد العسكري والإدانات السياسية، إلى جانب تداعيات عالمية لأعطال تقنية ومشكلات في بعض الأجهزة الحديثة."
+  "شهدت الأسواق المصرية ارتفاعاً في سعر صرف الدولار أمام الجنيه مقابل تراجع أسبوعي في أسعار الذهب.",
+  "أعلنت الرقابة المالية اتخاذ خطوات نحو الربط اللحظي لحماية المتعاملين، بالتزامن مع توقعات بنك دولي بخفض الفائدة في مصر مستقبلاً.",
+  "تم الإعلان عن موعد تشغيل الخط الرابع للمترو، بينما وجه مركز المناخ تحذيرات وتوجيهات لمزارعي البطاطس.",
+  "وعلى الصعيد الإقليمي والدولي، تتابعت التطورات السياسية والعسكرية في المنطقة إلى جانب متابعة تداعيات عطل تقني عالمي."
  ],
  "ai": {
-  "at": "2026-11-15T12:22:09.854Z",
+  "at": "2026-11-15T12:52:10.005Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-15T12:42:09.263Z"
+  "impacts": 10
  },
  "markets": [
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65420,
-   "change": 2.01,
-   "asOf": "2026-11-15T12:44:17.000Z",
+   "value": 65424,
+   "change": 2.02,
+   "asOf": "2026-11-15T12:52:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,48 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بالأسماء..وزير الأوقاف يعتمد حركة تكليفات جديدة لقيادات مديريات 7 محافظات",
-     "url": "https://www.elbalad.news/7181405",
+     "title": "برلماني: توجيهات الرئيس السيسي ترسم خارطة طريق لتعزيز صلابة الاقتصاد المصري",
+     "url": "https://www.elbalad.news/7181423",
      "source": "صدى البلد",
-     "time": "2026-11-15T12:41:24.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
+     "time": "2026-11-15T12:51:07.000Z",
+     "seen": "2026-11-15T12:52:10.005Z"
     },
     {
-     "title": "مدحت العدل: الجمهور أعاد اكتشاف المسرح.. وأحلم بتخليد رائدات السينما المصرية",
-     "url": "https://www.elbalad.news/7181403",
+     "title": "ضبط أدمن صفحة لبيع المخدرات على الإنترنت",
+     "url": "https://www.elbalad.news/7181420",
      "source": "صدى البلد",
-     "time": "2026-11-15T12:40:51.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
+     "time": "2026-11-15T12:51:05.000Z",
+     "seen": "2026-11-15T12:52:10.005Z"
     },
     {
-     "title": "هل تفرض الحكومة ضرائب جديدة في 2027؟| مستشار رئيس مصلحة الضرائب يجيب.. حوار",
-     "url": "https://www.elbalad.news/7181407",
+     "title": "مركز المناخ يحذر مزارعي البطاطس من تشقق الدرنات.. ويحدد موعدًا مهمًا قبل بدء الزراعة الصيفية",
+     "url": "https://www.youm7.com/story/2026/11/15/مركز-المناخ-يحذر-مزارعي-البطاطس-من-تشقق-الدرنات-ويحدد-موعدًا/7618709",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T12:51:00.000Z",
+     "seen": "2026-11-15T12:52:10.005Z",
+     "impact": "يساعد مزارعي ومستثمري القطاع الزراعي في مصر على حماية المحصول وتحديد التوقيت المناسب للزراعة."
+    },
+    {
+     "title": "الرقابة المالية: التحول نحو الربط اللحظي خطوة فعالة لحماية المتعاملين",
+     "url": "https://www.elbalad.news/7181422",
      "source": "صدى البلد",
-     "time": "2026-11-15T12:40:23.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
+     "time": "2026-11-15T12:50:15.000Z",
+     "seen": "2026-11-15T12:52:10.005Z",
+     "impact": "يعزز مستوى الأمان والشفافية لحماية أموال المتعاملين والمستثمرين في الأنشطة المالية."
     },
     {
-     "title": "رئيس جهاز حماية المستهلك يكشف لليوم السابع آليات التعامل مع شكاوى السيارات",
-     "url": "https://www.youm7.com/story/2026/11/15/رئيس-جهاز-حماية-المستهلك-يكشف-لليوم-السابع-آليات-التعامل-مع/7618947",
+     "title": "الخارجية الإيرانية: عراقجى يجرى محادثات فى عُمان الثلاثاء",
+     "url": "https://www.youm7.com/story/2026/11/15/الخارجية-الإيرانية-عراقجى-يجرى-محادثات-فى-عُمان-الثلاثاء/7619339",
      "source": "اليوم السابع",
-     "time": "2026-11-15T12:40:00.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
+     "time": "2026-11-15T12:46:00.000Z",
+     "seen": "2026-11-15T12:52:10.005Z"
     },
     {
-     "title": "وزير النقل يشهد خروج ثالث ماكينة حفر بالمرحلة الأولى للخط الرابع للمترو بمحطة المساحة",
-     "url": "https://www.youm7.com/story/2026/11/15/وزير-النقل-يشهد-خروج-ثالث-ماكينة-حفر-بالمرحلة-الأولى-للخط/7619306",
+     "title": "الأرصاد تكشف توقعات الأمطار والظواهر الجوية ودرجات الحرارة بكل الأنحاء",
+     "url": "https://www.youm7.com/story/2026/11/15/الأرصاد-تكشف-توقعات-الأمطار-والظواهر-الجوية-ودرجات-الحرارة-بكل-الأنحاء/7618754",
      "source": "اليوم السابع",
-     "time": "2026-11-15T12:34:00.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
-    },
-    {
-     "title": "توقيع اتفاقين بقيمة 18 مليون جنيه لاستكمال تطوير منطقتى الزاوية الحمراء وعزبة خيرالله",
-     "url": "https://www.youm7.com/story/2026/11/15/توقيع-اتفاقين-بقيمة-18-مليون-جنيه-لاستكمال-تطوير-منطقتى-الزاوية/7619242",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T12:31:00.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
+     "time": "2026-11-15T12:44:00.000Z",
+     "seen": "2026-11-15T12:52:10.005Z"
     },
     {
      "title": "مدبولي يشكل لجنة وطنية عليا للإدارة المتكاملة للمناطق الساحلية بالبحر المتوسط",
@@ -217,6 +218,13 @@
      "seen": "2026-11-15T11:12:09.414Z"
     },
     {
+     "title": "عبر 1650 منشأة وسداً.. مصر تحول السيول لثروة مائية",
+     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQX1RYTVdmOHRqTHZrMkhYZUtfMmNTQUJMd1RZdHp0dDBLQnplS24yRzNDeE1PemtZQThEbEdTRlNCdC1OTTNkSFZyUElBaGNsOUJwUF9Pd05rYWFPbEpXSjhla3Mtay02LXpycUl4RWctcGJDRUw2MFBfNWUzLXdvaGVGTnFKT2lWWUUxM05wbTBOMXpGQ0doRzlBUHFHUEM1MkctR1FOaUpnc00wWVFHMG9aTmE3SnY0YjNWdnA5djBCSjluci1WVkZST0ZmWGRDdFVINEh3SlIwQlo2cVBkNkhhNVdzYjY1RkFKaV9EQS1LX1BycGREa1l3UUNPQnFrWS1JMlhWME9TVWRTeEFBVjhvUndCR3Q1QUVwRS0zMGZNWXVWbVMxa1hndlljbjkyT2trNTZFQ2lsc1VfNERkYmhRbWVZb0sxenN2V0RNdm8xajNWT01JY1FtZGNISE5FeDV6ZVNGcDE3NnBWeGtKeFNnUjRmU2VZ0gH-AkFVX3lxTE1xX09NUENRbVVQM0lCNjdkVWtyNDFfQWtOVHB3RnpxMFQyZklQYXMxdVBQVEMxdDZaX05CY3NFdXJCS2g0cnoyWVJTYmJMRmdxemI2TWJORmlNQURvM1BrV0FwNU43dWNuMXIxNEZOMEo4eEVsZVJJdjRCTDY1ekg1aHdZWFBCUWhXOVpHWjltY3BfQWpLUkFSdlBILWRuMEdKNEhoR3gtZ3JXejRNX3V6U1oxdmYyVlJqS0o2V3NqR1k0MHVzcnhFZGZBNFlCcHVIdjBhZmxnY2QtWDBQZFI1RjFyb1RnU3pYb0JoajdMaWtvQXJjY3h0VnhDVjJWN0VVcVZsLTNpeVBoX0VNMGtrN3JhMzNfSmZxOWdQVUstZzdQWFlxNTJWaXdiWDRrekJHWEsxbEEtZXVFZGI4NmlZYXJxQ2lyNVhmXzB4V3VTcjFMd1JYSEVUakV6enF3cEhuakZrNHJydDAzOEJMYmNnZkRyVWRXLUpTNmFUT1E?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T09:37:18.000Z",
+     "seen": "2026-11-15T11:01:55.530Z"
+    },
+    {
      "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxObjFma1NPOFZMYlFTdnlFX0l1NkFOYUlwa0VKQnNQcEJqUjVlMXVRNzkyN01HbFcxU1F0VFY0N2VBQWtfb2kyU1dzN29paG4tZDk3Z1d1WXdiV3MweHhJN1IwdFlkZUtQWnA4bVNrdFZ6ZktCV3lRUzRrN0k2b2EzaVo2dkJ0dndlUXhzWGJ0Vmk3ZTJHTkNSeDdkWVplbGZhX0ltWlRTTEhpRmMxTV93LTU3cnFvdG9yTzc3NERXaXF6QkRnaDliU2tVZmFsY1kwQkxiOENzR1pCenhEVXNfMEhfVWVScUtqOXhaTHZ1VmxXeTJmMFo0RGFUSlNXdzZabTJwYzJ2LV9wYk5BdXpkdnp6VkdkT2ptVWFhNU1LaFRib2tldzgwVGlxUWQ4Nl81cXREbWNVX08tYzVwbDk2N1JIUUF6eVNMZnZjRU5pN1ZZSlpOTWZSQldsbGhvWC14VGc5UVlIQjJ5VkdLQ1h5bjFwaWRWYzlpampBLUJ5aGo0Zm50R2tGd21RLTlQWVBiX0x6cjdGLWtvLWtiUHY0N0dDUUdUQWdteVNtMFRQMzQzN203SUJGaDdxVmlIbEpoY0dvSzJuUkF0TFlsc0pVRU5tR1FFUkNGbzFRejZqR0dOZ1ZFU0E0SEE5dUdseVpUeXBVbGt5czFqNUdrOC1MV2J3?oc=5",
      "source": "الشرق الأوسط",
@@ -229,13 +237,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T03:38:00.000Z",
      "seen": "2026-11-15T06:41:56.030Z"
-    },
-    {
-     "title": "«الفتح الفرنساوي»",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pU1RsTjNVT3B4ZXA4THE0SldBZGp0MU8yVzY0X2tMRzBmNnJKd1I3XzVpWFBnTF91dW9hU0RaUmxCVTk0SllYQzYwUFUtXzJ2NDRIM0J2Q2RZbGh0M2tn?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T01:22:00.000Z",
-     "seen": "2026-11-15T09:11:55.978Z"
     }
    ]
   },
@@ -244,11 +245,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "ارتفاع جديد.. سعر الصرف بالبنوك نهاية تعاملات اليوم الأحد 15 نوفمبر",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMlZrYjRudGg3RzZsTHZoamRFX0tBUF83bzFTcHRzakhzTlpFaE14MG50b0pYOEgyemxoZDBtbGhxaFBXOG9ueUxxSkVRNUdla01PZw?oc=5",
+     "source": "الأهرام اوتو",
+     "time": "2026-11-15T12:41:24.000Z",
+     "seen": "2026-11-15T12:52:10.005Z",
+     "impact": "يؤثر ارتفاع سعر الصرف بالبنوك على أسعار السلع المستوردة وتكلفة المعيشة للأفراد."
+    },
+    {
      "title": "«جولدمان ساكس» يتوقع خفض أسعار الفائدة في مصر 600 نقطة أساس في 2027",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0tZERmWTduNlBUdkdoQmxkYWZGNFVpMkhNQnFXc2lmeTRhX0ZzUEtibkVtcWtfTjhmY1dqZ1RLTlB4MHhM?oc=5",
      "source": "بوابة التكنولوجيا المالية",
      "time": "2026-11-15T12:31:53.000Z",
-     "seen": "2026-11-15T12:42:09.263Z"
+     "seen": "2026-11-15T12:42:09.263Z",
+     "impact": "يعطي المستثمرين رؤية حول التوجّهات المستقبليّة لتكلفة الاقتراض والادخار في مصر."
     },
     {
      "title": "سعر الدولار يواصل الارتفاع أمام الجنيه فى البنوك اليوم الأحد",
@@ -256,7 +266,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T12:04:00.000Z",
      "seen": "2026-11-15T12:12:09.794Z",
-     "impact": "ينعكس ارتفاع سعر الدولار أمام الجنيه بشكل مباشر على تكاليف الاستيراد وأسعار السلع والقوة الشرائية للمواطنين والمستثمرين."
+     "impact": "يؤثر ارتفاع الدولار المتواصل على القوة الشرائية وتكاليف مستلزمات الإنتاج للمستثمرين."
     },
     {
      "title": "أسعار الذهب في مصر تسجل أكبر تراجع أسبوعي منذ 3 أشهر.. عيار 21 يفقد 275 جنيهًا",
@@ -264,7 +274,7 @@
      "source": "جريدة المال",
      "time": "2026-11-15T11:33:18.000Z",
      "seen": "2026-11-15T12:02:10.002Z",
-     "impact": "يهتم المباشرون بالادخار والمستثمرون في مصر بتراجع أسعار الذهب لتحديد أوقات الشراء أو إعادة تقييم محافظم المالية."
+     "impact": "يتيح للأفراد والمستثمرين في الذهب فرصة لمراجعة قرارات الشراء والادخار بعد هبوط الأسعار."
     },
     {
      "title": "الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين، واعتراض صواريخ باليستية في الرياض",
@@ -341,14 +351,6 @@
      "source": "BBC عربي",
      "time": "2026-11-15T09:41:45.000Z",
      "seen": "2026-11-15T09:51:55.569Z"
-    },
-    {
-     "title": "كم سجلت أسعار العملات في البنك المركزي اليوم الأحد 15 نوفمبر 2026؟",
-     "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNM2RRQzBoaDhGa3pkTUVmcE5JSzRrZmhTMFNjdDVmZmtJdlpTTG54S1VSaHBRQ2FCck51RVF5YUtyQ2lxamZlOW9tX29BZ0ttZEpkcDZtSnVxajFRMDR6STZCR1FQZ0N3SWhNWl9uc3lpZ1lCdGNucGZmcG5mbTYzNUdBMEpYOGRoSDI2TVFFNFBLQm9vMDBJSWEtS09UX3hSSGhnNFRfZF9hbThObUczN21JQ29VcUZBMnBGb0ctc3BDajJMMEJBaTlQd1l3N2x2cFBNb0w2dlRtZmlLa0ZvMS1LdHZFOUNjVkJQTHh0Q0V5cnRUbkdEVWxyRlhWdkNMWDZRaFVpMDJlS3ZKLUc3R3hoWUxUUEhiNVpZbkVfX3hEWjRPelhhQjh4Y0NFN1hzam02VDQxbTRmQV9USnVIMFpRd2tIQ1E0Vl90SzN3?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-15T09:32:54.000Z",
-     "seen": "2026-11-15T09:41:56.165Z",
-     "impact": "تمكن المتعاملين في التجارة الخارجية والمحولين للأموال من معرفة الأسعار الرسمية للصرف."
     }
    ]
   },
@@ -473,7 +475,7 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T11:04:00.000Z",
      "seen": "2026-11-15T11:42:09.499Z",
-     "impact": "يسهم إعلان موعد تشغيل الخط الرابع للمترو في تحسين حركة النقل اليومية وتسهيل الانتقال، وتحديد القيمة العقارية للمناطق المحيطة."
+     "impact": "يسهم تشغيل خط المترو الجديد في تسهيل حركة تنقل المواطنين وتخفيف تكلفة ووسائل المواصلات."
     },
     {
      "title": "عطل مايكروسوفت يكبد العالم 16 مليار دولار ويعيد البنوك إلى الفاكس",
@@ -481,7 +483,7 @@
      "source": "Masrawy",
      "time": "2026-11-15T09:58:42.000Z",
      "seen": "2026-11-15T10:41:56.059Z",
-     "impact": "تسترعي الخسائر الناجمة عن عطل مايكروسوفت انتباه المؤسسات والبنوك في مصر لتعزيز الجاهزية وإدارة مخاطر الأزمات التقنية."
+     "impact": "ينبه الأفراد والمؤسسات إلى التأثيرات الاقتصادية للأعطال التقنية وضرورة وجود حلول بديلة للمعاملات."
     },
     {
      "title": "مأساة في قرية مصرية.. شاحن هاتف يقتل طفلين شقيقين حرقاً",
@@ -489,7 +491,7 @@
      "source": "العربية",
      "time": "2026-11-15T09:55:00.000Z",
      "seen": "2026-11-15T11:32:09.481Z",
-     "impact": "تنبّه حادثة شاحن الهاتف الأسر والمستهلكين لمخاطر الأجهزة الكهربائية غير الآمنة وضرورة اتباع إجراءات السلامة المنزلية."
+     "impact": "يرفع وعي الأفراد داخل المنازل بأهمية السلامة عند استخدام الشواحن والأجهزة الكهربائية."
     },
     {
      "title": "لم يتحملوا عيوبه.. مشترون يعيدون آيفون ديو بعد أيام من شرائه",
@@ -497,14 +499,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T09:13:00.000Z",
      "seen": "2026-11-15T09:51:55.569Z",
-     "impact": "يهتم مستهلكو التكنولوجيا بظهور عيوب في الهواتف الذكية لمراجعة قرارات الشراء وتجنب خسارة الأموال."
-    },
-    {
-     "title": "عبر 1650 منشأة وسداً.. مصر تحول السيول لثروة مائية",
-     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQX1RYTVdmOHRqTHZrMkhYZUtfMmNTQUJMd1RZdHp0dDBLQnplS24yRzNDeE1PemtZQThEbEdTRlNCdC1OTTNkSFZyUElBaGNsOUJwUF9Pd05rYWFPbEpXSjhla3Mtay02LXpycUl4RWctcGJDRUw2MFBfNWUzLXdvaGVGTnFKT2lWWUUxM05wbTBOMXpGQ0doRzlBUHFHUEM1MkctR1FOaUpnc00wWVFHMG9aTmE3SnY0YjNWdnA5djBCSjluci1WVkZST0ZmWGRDdFVINEh3SlIwQlo2cVBkNkhhNVdzYjY1RkFKaV9EQS1LX1BycGREa1l3UUNPQnFrWS1JMlhWME9TVWRTeEFBVjhvUndCR3Q1QUVwRS0zMGZNWXVWbVMxa1hndlljbjkyT2trNTZFQ2lsc1VfNERkYmhRbWVZb0sxenN2V0RNdm8xajNWT01JY1FtZGNISE5FeDV6ZVNGcDE3NnBWeGtKeFNnUjRmU2VZ0gH-AkFVX3lxTE1xX09NUENRbVVQM0lCNjdkVWtyNDFfQWtOVHB3RnpxMFQyZklQYXMxdVBQVEMxdDZaX05CY3NFdXJCS2g0cnoyWVJTYmJMRmdxemI2TWJORmlNQURvM1BrV0FwNU43dWNuMXIxNEZOMEo4eEVsZVJJdjRCTDY1ekg1aHdZWFBCUWhXOVpHWjltY3BfQWpLUkFSdlBILWRuMEdKNEhoR3gtZ3JXejRNX3V6U1oxdmYyVlJqS0o2V3NqR1k0MHVzcnhFZGZBNFlCcHVIdjBhZmxnY2QtWDBQZFI1RjFyb1RnU3pYb0JoajdMaWtvQXJjY3h0VnhDVjJWN0VVcVZsLTNpeVBoX0VNMGtrN3JhMzNfSmZxOWdQVUstZzdQWFlxNTJWaXdiWDRrekJHWEsxbEEtZXVFZGI4NmlZYXJxQ2lyNVhmXzB4V3VTcjFMd1JYSEVUakV6enF3cEhuakZrNHJydDAzOEJMYmNnZkRyVWRXLUpTNmFUT1E?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T08:29:00.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
+     "impact": "يساعد المستهلكين على اتخاذ قرارات شرائية واعية وتجنب إنفاق الأموال على هواتف بها عيوب تصنيع."
     },
     {
      "title": "محكمة أمن الدولة في الأردن تصدر قرارها بإعدام منفذي الهجوم على كنيسة الكرك",
@@ -565,6 +560,13 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-15T06:16:21.000Z",
      "seen": "2026-11-15T06:21:55.484Z"
+    },
+    {
+     "title": "الحرس الثوري الإيراني يستهدف رادارًا أمريكيًا في البحرين بـ 6 طائرات مسيرة",
+     "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNYXFjajB1NTJFTDUxV2dJUFFXLTcxOXc3WXdRYXZYQTY0Q3F5blVENTUxcEY0Q3BINUtrV2wtbEZ2eVJVcm1Edl8tN2Y3MmFCRTZqWV9VUEpmMlJwbGh0bUxGbkR3QVlkVktoa19MQjhUOG5WdTVpUllmQmNhQkFJOHRWdEpKQlNBMGV6eEJJZUtmbjRXWFA4a284WjBjSklpeEZfWDVhbUY5dWEta0Naak0zM3VtMVQzU2kwUWJLZmRuRmpoODdhSmQ5Y3R0Y2E4NmliT01XelFUMjZkYzlSbzNnRTZRWnN3V01sRUxCQllTR3RkZ1cxRGFLaTdPaWZ1Q3BjSUZkaUsxSHJiWnpOcnFycmhCMzdGSlNHSzdzZkdBMDNYNjUwRWg4RjZxVldidnFGYVJwMHJSc0ZtM1NjQ25PcmJBYlZfZmdNc3FMa0JUX2V0djQ3VTY2b2I0RkZabFh3UWxITXc5R1RmMjdzSS1XMG93MGhTcW5RUGs5ellUaVdoQ3RITkxHNEdxVjNmTVF4TmRMWUdzUXowYzVoUEpfUjhWRVI0UUlRQUxvVF9GOWFITmhGYWREaHR5S2JUdGlQbUJ2U1FfX2hZMVRfcHdWcG9SenBlNUM4MnlMWGg2WEdkdGJCZHNjdTlsclYwZ3ZIQWtYMDFGQXpEM2F1NzlDN0pVaVgtTGhHdmZWSDNrQXVCaWpEczZCV212N1MzRXB4ZnpjU2FKd2EtVUxmT2x4eHUyWU9Bdlotd0k0OVE0WDV2T2ZxWEdyUHV5ZFdsM1o2V0pSdVh6VFFCTW1YcFpGUk8tTU41MFFETlVXa29MYUXSAfgEQVVfeXFMUEdYUUlvZEJFNk50U00tSlRKR3hfSm82ZVJxb3BBSGhMZ3pSN2t4b3hIZjV1TzFfZW5pcGtGWl8tYnNRX0ZyQWZQU2JYWHMyMWtrNmtJWnEwUUVXcTFlOXF3TjQ3cWw4bUUwOGlyN1NrcFhMWDZ3clNjTExjeEVDZF9FZ0JhUlE3bG5vbk5SdG5IMEV5NVM0Y3lSUU8tTFM0cC04ZlBJTENFQUg0cHh6TFVmUVhPcHg3bHZMQ1oxMTlBblhtc3p6TEZDRXdqeS1xR3NVYWhZS0VXNmRrWjRObFNvRTF2NHlLR0EwX1RQQ1djYnF2QUdXQVREamo5aE5LU3hlWTcwODdyQlB3eHEyVjQ5dDRaTkYtNTNLamVldlNkWDZHUFpqRWdvUnY0RTFEbGI5R1ppN0RfS3MwVjhfSl9zaHhVWGdPbWQzaWExQXNyNGxyVUxnV3ZOSkpPSzVtTzBSSG44Uk4yY0ZNOFMwbHRtXzhROUVSVG5BdWNfZ1BON1JaSnd3VlR1NjhGV3I2SjNiNnRTaDNraWVaeTdLVUVsNnlKejBkOVl5bXZxYnI2LXFnWjg0MnVENVRrb1ZRdGVIbklSOGRLT19yZzZIdXdyNzlQMmVqQmpMTnZLS1Brend0ejJkLXNneHBKMm9BZHpFN3pfRURpcHlNMXZmZXE0NUZzeGpBRzNieXlSVC15SkdFTVd5TGF4S3ZPTHdPTkkzQy1jb0hlakFGSDVCcUZpaEpkbE5FRXdYNzNSZUxKaGtNTng1ckEzdlk2WW15cFZTOWdiS194RFhrTUtrREp6dmt2VlZhQ2dDWXR5aEQ2ZTRGblZ3RzM?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T06:02:50.000Z",
+     "seen": "2026-11-15T12:52:10.005Z"
     }
    ]
   }
