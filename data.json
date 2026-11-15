@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:40:26.908Z",
+ "updated": "2026-11-15T00:50:26.706Z",
  "minute": [
   "تضمنت الأخبار المحلية في مصر متابعة أسعار الدولار بالبنوك، ومصير طلبات التصالح في مخالفات البناء، إضافة إلى مواعيد حركة القطارات.",
   "وعلى الصعيد الإقليمي والدولي، تواصلت التطورات العسكرية والأمنية في المنطقة وأوكرانيا، إلى جانب تحركات سياسية لتوحيد المؤسسات في ليبيا.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T00:30:26.408Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T00:50:26.706Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63758,
-   "change": -6.58,
-   "asOf": "2026-11-15T00:40:25.000Z",
+   "value": 63592,
+   "change": -6.82,
+   "asOf": "2026-11-15T00:51:47.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محافظ الوادي الجديد وسفيرة الاتحاد الأوروبي تتفقدان مصنع الخزف ومعرض الحرف اليدوية والتراثية بالخارجة",
-     "url": "https://www.elbalad.news/7180914",
+     "title": "ياسر ريان: محمد صلاح «ماينفعش» يخرج من الملعب مهما كان مستواه",
+     "url": "https://www.elbalad.news/7180933",
      "source": "صدى البلد",
-     "time": "2026-11-15T00:30:00.000Z",
-     "seen": "2026-11-15T00:40:26.908Z"
+     "time": "2026-11-15T00:48:30.000Z",
+     "seen": "2026-11-15T00:50:26.706Z"
     },
     {
-     "title": "امتلكت آيفون Duo القابل للطي؟ 9 إعدادات سحرية ستغير طريقة استخدامك",
-     "url": "https://www.elbalad.news/7180705",
+     "title": "«مش ضده» .. خالد طلعت: فخور بصحة وجهة نظري بشأن عدد أهداف محمد صلاح الدولية",
+     "url": "https://www.elbalad.news/7180932",
      "source": "صدى البلد",
-     "time": "2026-11-15T00:30:00.000Z",
-     "seen": "2026-11-15T00:40:26.908Z"
+     "time": "2026-11-15T00:47:32.000Z",
+     "seen": "2026-11-15T00:50:26.706Z"
     },
     {
-     "title": "تحالف دعم الشرعية يعلن اعتراض طائرة مسيرة وتدميرها في المنطقة الشرقية بالمملكة العربية السعودية",
-     "url": "https://www.elbalad.news/7180930",
+     "title": "وزير الدفاع الإسرائيلي يعلن استمرار العمليات العسكرية في غزة حتى نزع سلاح حماس",
+     "url": "https://www.elbalad.news/7180931",
      "source": "صدى البلد",
-     "time": "2026-11-15T00:28:59.000Z",
-     "seen": "2026-11-15T00:30:26.408Z"
+     "time": "2026-11-15T00:43:57.000Z",
+     "seen": "2026-11-15T00:50:26.706Z"
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الأحد 15/ 11/ 2026",
@@ -311,19 +313,19 @@
      "seen": "2026-11-15T00:10:26.719Z"
     },
     {
+     "title": "سعر الذهب عيار 14 اليوم الأحد 15 نوفمبر يصل إلى3973 جنيهًا",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZkcxRVZ6WjRlZ21SajRkOWstanFpRThRdTJrcHRfTXNTZVBKaG0yV19jc0k1VXBzZENyb1BxRnpLMEtNQ2pNUmw5M3RHWXJ1bng5WjBlNzFEZ2pEb3NXbEt1dDh5VVQ2VzBNeTdUNU00Q2tBeGl4UEFYb3lsNTlXb2E1M2dKWVBVQlZMUDZmWTM3WFpmV25OUTV0aWh6bWttd2Q3Y2F0OXRQVzlONzJWY0tMUVA3am1EaUkzOUxKT0xxZUN3SnpSa0dpaVZNQ1FQVWNJVjlad1FDNVo3UkNrb3FpMzlTNy12TFpHeHV6VDR4WlQ5NFBSX0VEdTcwY0FDVDFIdGItV1pyYlduZ0VPVFJqZ1drTURIa2xFY2laNHNCVVB5RXY5cEdsYjFmZVBXT2ZwVzN4SHh2cjVWblVtV3hqUkltRHpOc3VKRW1YVVp6dXE2N19zaG8yc0lhdzBCemNYUkxjdW9wZnNFMWNFdmVzbWdydnNGbXhYNlUxQmM1UdIB_AJBVV95cUxOZHdtQ3owNDJHTXJWMEN2alNEQW02THZpMW1xbzdET0lxd3lvWDZZSFQ0MXpqVXdiWGpycFBpU21Dd2RhVlo3MFFkMkNfS2FDOGZMZFNVN0dodS1aU2JXaHFEV2FydXA2d2JKbmxnblRObnRoU0NpOFJsSUV4akQya2MxcUF4Yzc3eWZGMEFvdWhWWk8zWlFaVEU2RXh0ZEw4bFpTUXZ4RTN5bDhnWE5pV1YzQ245U3o2U0NEXzdOLXYxZ1F1Z3N0dzZDMjZPVTE3OS1VMkVFQTJBNU0tUXBTVjV1VUh6U2ZvaFNKT051VlBVT3BndXNWZnZvYXU3YzEwbVRocVlBQkQ5MUR4ZVJvaTVTbEFDVF9hdDlrMkEtRzVGb21hbnl0UzRycXNqdHR6RFpCWXdlbEtlV1BmVTY2aGxFdmR6OW1FcnR5RTVUT1hxTFFmeVhuQmh3Uk41cUo0ZFdtaVpyaUdxUF95SDJ1NVJJWmFFNnVGQVdDcw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-14T22:00:00.000Z",
+     "seen": "2026-11-14T23:39:59.233Z"
+    },
+    {
      "title": "بعد تراجعه 3 جنيهات.. سعر الدولار اليوم في مصر",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LSGRxV1g1dWdKblBkYlZyaTVQRXFKczZiQnVfeHJLUGZqQ0hoVENTeG1nbGw1cDBYaHpxUXJPZnllTTFsZEFN?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-14T22:00:00.000Z",
      "seen": "2026-11-14T22:09:59.936Z",
      "impact": "يهتم المتعاملون في السوق المصري بمتابعة تراجعات سعر الدولار لتأثيرها على حركة الأسعار والسلع."
-    },
-    {
-     "title": "سعر الذهب عيار 14 اليوم الأحد 15 نوفمبر يصل إلى3973 جنيهًا",
-     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZkcxRVZ6WjRlZ21SajRkOWstanFpRThRdTJrcHRfTXNTZVBKaG0yV19jc0k1VXBzZENyb1BxRnpLMEtNQ2pNUmw5M3RHWXJ1bng5WjBlNzFEZ2pEb3NXbEt1dDh5VVQ2VzBNeTdUNU00Q2tBeGl4UEFYb3lsNTlXb2E1M2dKWVBVQlZMUDZmWTM3WFpmV25OUTV0aWh6bWttd2Q3Y2F0OXRQVzlONzJWY0tMUVA3am1EaUkzOUxKT0xxZUN3SnpSa0dpaVZNQ1FQVWNJVjlad1FDNVo3UkNrb3FpMzlTNy12TFpHeHV6VDR4WlQ5NFBSX0VEdTcwY0FDVDFIdGItV1pyYlduZ0VPVFJqZ1drTURIa2xFY2laNHNCVVB5RXY5cEdsYjFmZVBXT2ZwVzN4SHh2cjVWblVtV3hqUkltRHpOc3VKRW1YVVp6dXE2N19zaG8yc0lhdzBCemNYUkxjdW9wZnNFMWNFdmVzbWdydnNGbXhYNlUxQmM1UdIB_AJBVV95cUxOZHdtQ3owNDJHTXJWMEN2alNEQW02THZpMW1xbzdET0lxd3lvWDZZSFQ0MXpqVXdiWGpycFBpU21Dd2RhVlo3MFFkMkNfS2FDOGZMZFNVN0dodS1aU2JXaHFEV2FydXA2d2JKbmxnblRObnRoU0NpOFJsSUV4akQya2MxcUF4Yzc3eWZGMEFvdWhWWk8zWlFaVEU2RXh0ZEw4bFpTUXZ4RTN5bDhnWE5pV1YzQ245U3o2U0NEXzdOLXYxZ1F1Z3N0dzZDMjZPVTE3OS1VMkVFQTJBNU0tUXBTVjV1VUh6U2ZvaFNKT051VlBVT3BndXNWZnZvYXU3YzEwbVRocVlBQkQ5MUR4ZVJvaTVTbEFDVF9hdDlrMkEtRzVGb21hbnl0UzRycXNqdHR6RFpCWXdlbEtlV1BmVTY2aGxFdmR6OW1FcnR5RTVUT1hxTFFmeVhuQmh3Uk41cUo0ZFdtaVpyaUdxUF95SDJ1NVJJWmFFNnVGQVdDcw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T22:00:00.000Z",
-     "seen": "2026-11-14T23:39:59.233Z"
     },
     {
      "title": "جرف الصخر أم جرف النصر؟ اتهامات بتهريب النفط تعيد الملفات العالقة إلى الواجهة",
