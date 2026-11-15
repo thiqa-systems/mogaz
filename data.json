@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:20:26.839Z",
+ "updated": "2026-11-15T05:30:27.121Z",
  "minute": [
   "شهدت الأخبار تطورات إقليمية وأمنية شملت استهدافات بصواريخ ومسيرات وتصريحات بشأن إغلاق مضيق هرمز.",
   "على الصعيد الاقتصادي والمحلي في مصر، جرى نشر تحديثات لسعر الدولار وتفاصيل التحول من الدعم العيني إلى النقدي.",
@@ -10,7 +10,9 @@
   "at": "2026-11-15T05:10:26.997Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T05:30:27.121Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64931,
-   "change": -4.86,
-   "asOf": "2026-11-15T05:20:25.000Z",
+   "value": 64770,
+   "change": -5.1,
+   "asOf": "2026-11-15T05:31:42.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -181,10 +183,10 @@
      "impact": "تهم المواطنين في مصر لمعرفة تفاصيل منظومة السلع والتغيرات عند التحول للدعم النقدي."
     },
     {
-     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
+     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي | CNN Arabic | CNN",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-15T00:54:41.000Z",
+     "time": "2026-11-15T00:24:41.000Z",
      "seen": "2026-11-15T04:00:28.027Z"
     },
     {
@@ -283,6 +285,13 @@
      "impact": "تهم مستخدمي تطبيقات الهواتف في مصر لمتابعة قضايا الخصوصية وحماية الصور الشخصية."
     },
     {
+     "title": "سعر الذهب اليوم الأحد 15 نوفمبر 2026 في مصر.. عيار 21 يسجل 5960 جنيها",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNU3ctTVQwS2UzclpLblB5S3RJbTk0Uk1pMDJ0QmlpZXVHdnVwQXBFcWM5TldoTUF1UlBmOTNISmFJWVd6QnZnQlZ3LXllek44Wlp1eUNlaEZhTWg4RFkzdXY4V2hnb250bDBPY2tlU3JsZUI5UlU4NW80R004OFUyZFFHcmVzYVQ1MGlWQ0xQd1pTamVFRGxzYUs4R0VaOXRSVHF1ang1eEh1VGRpcGRTMWJMajdZUzh0cnM1cW9USUVqSUFyUHQtaXNvYWxSS2FPRl9uQU1CcXpSbGZfNVNKVGxQZWdITGNvTTEyQ0ZTSm1xTUp2Slg0V0ZVZzBxMjl6OXo0RjU5X05ab3Ixa0F6TG1odk5GVzd6OFIxUDZSdjFTQUxNd2Q0WmxhbUZmUm5VemkwdnpnQ0dBbjVqNUtBRjA0dHpjQ1R1aEk0TzlnakE3VEdUcnNzUXkwSWRsZ1hWZWI5d0tndHVISmI0ODhqOG85VWVRYzDSAfICQVVfeXFMUHg2NU5Va1loSUpEd0N5QXdSYnBueWl1aGJKZ3lIV2x2M3EtS0pqcGJKeGZtWkpCN1c2dW56OUVmR0pZd3dBVS1vLWpOMEN5YVR4RXhhS0pnal9SYmlVTExvckc1OG1IUktwSW04ZDJzUmRLY0ZFaTFHUjBxVDk0V0VPbVkyaUljYjRKUUVId3FOQ1FSVDIwX3Z1cEtQMXpZVzRvMmJsR21SY0JhazUzUnRRYzd6TkJtUDdETl9ZLWpMWkp4MlcxSEczSUxYcGd3MUV2emQ3RjQ1LWdrR3F6OXRKS3Q5anQyQUNxUWs3ZXc2QUV1SDlzNldadFc1aHVreVotMDEwa1AtTXBEV0JmYXIwZTl4TkloNEpoWFFVLUVTYnRjSjZWdEJXaEpxdUhvc05BSWcyRFR6cnlDRVJHS2VDOGxuQ0FhNnBRMG9QTVlXNHN5N050YmhiYkRQY3lTVG1yaFBoM1o4U1dPRG5wWXNlQQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T03:00:00.000Z",
+     "seen": "2026-11-15T05:30:27.121Z"
+    },
+    {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الأحد",
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPR1U3TEJ0b2dheEVWY09taVVlclVqdXdnVl9RdmZKcERBb203emYxS3RWSzlNUFBYRk1FQnNlbTgzeTdEbWJyY0R0Z3J1R3ZjaUFjcWlUdHNXNjgxaWVwMnVJcHhSQktTa3lwdE1LQlFlVHZhaktBd3gzbUVodDhGYmRDQXBvTXVINE52Tm9VX1JBb3JfMlJQRllqbHRQQVpEZEZESGYyM2xkYXpnc2NoNm9wNmMtdzhVZUtDYTItTVZXUTVTNmNBZHBVWko3Y2VpUml2bTVfZXRCZ0pYTkpUMlZRSHBFS2VpNEw2UDk3OWcxdE9VbkgzSUltbVQ4elQ1UTFtdElJbGNNTy1LWnV4Y1FHYjg3OU9hUXYtcGd2N1hBeDRBcEZybDdlNUFIZ0xIS2JsOXZVUTM5X3lhV3lCZVZvR3BhZHdyOU1TSzBGLTNOUHpXcGd2WnR4ZHJFbWJVTFNHVkFvc2FCX2xmdVdsOGxXUkFzSFpSMmpieUtfdWpCbGs2Z08xTi1uZUFZNlF2NmV3QV85TENEbGlLaWZETXlqaVA2Q1JrcGNBaUlRNEd0UTBpektRUVFFU0xQWkJvOGtnNlhpRjd0TU9FU0YybEhB0gHSA0FVX3lxTE9HVTdMQnRvZ2F4RVZjT21pVWVyVWp1d2dWX1F2ZkpwREFvbTd6ZjFLdFZLOU1QUFhGTUVCc2VtODN5N0RtYnJjRHRncnVHdmNpQWNxaVR0c1c2ODFpZXAydUlweFJCS1NreXB0TUtCUWVUdmFqS0F3eDNtRWh0OEZiZENBcG9NdUg0TnZOb1VfUkFvcl8yUlBGWWpsdFBBWkRkRkRIZjIzbGRhemdzY2g2b3A2Yy13OFVlS0NhMi1NVldRNVM2Y0FkcFVaSjdjZWlSaXZtNV9ldEJnSlhOSlQyVlFIcEVLZWk0TDZQOTc5ZzF0T1VuSDNJSW1tVDh6VDVRMW10SUlsY01PLUtadXhjUUdiODc5T2FRdi1wZ3Y3WEF4NEFwRnJsN2U1QUhnTEhLYmw5dlVRMzlfeWFXeUJlVm9HcGFkd3I5TVNLMEYtM05QeldwZ3ZadHhkckVtYlVMU0dWQW9zYUJfbGZ1V2w4bFdSQXNIWlIyamJ5S191akJsazZnTzFOLW5lQVk2UXY2ZXdBXzlMQ0RsaUtpZkRNeWppUDZDUmtwY0FpSVE0R3RRMGl6S1FRUUVTTFBaQm84a2c2WGlGN3RNT0VTRjJsSEE?oc=5",
      "source": "اليوم السابع",
@@ -319,14 +328,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T00:09:00.000Z",
      "seen": "2026-11-15T05:20:26.839Z"
-    },
-    {
-     "title": "سعر الدولار لحظة بلحظة.. 53.39 سعر شراء الأخضر فى بنك مصر",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxONDRsa0xLTmRWRWR3UGxuakxnQWI4U1otblhCemFfTlBmMXQ1T041Z2tzaGt3eHh1RXFTQWE0aGstWWx4MF9vTWRSZHo1YTl3RlRPd0lzQkRSSHZibjN6Y0FidWxWRzhMSk45MUY4WTBocmFxVU8ydFlneGNrZElzU0JBT09UaHZHZFh5bzNtUUNWcWdIRzZBMTRlN1NmSVRaMnZSNGtyeHR6M1dLTzBUbE9Fc0ZfelRpTTJSbEhBMDh3R2g1bFktT2NYRm9oZ1kwQ196dDVfX2JWTEo5ellTRjF3SFlPRmgyb3pwUFhWcGM1LTFGbUp1bTJ3N1hUek5RbnYwWXRDSlRTc3NqZEFWOVMyNm5mT19PMWxsSkYteHRNUHJCWWt2VmdqeVhWMy1GMnBEZVRWbjJHYXJPS21fN3luMm16UkdMdWJXRDdOU2NuaWNMMllCeG1iZ0FuSm5aRUxJVVpLQzZSRXczaDVtQkRKNE1pMmfSAfcCQVVfeXFMTjQ0bGtMS05kVkVkd1BsbmpMZ0FiOFNaLW5YQnphX05QZjF0NU9ONWdrc2hrd3h4dUVxU0FhNGhrLVlseDBfb01kUmR6NWE5d0ZUT3dJc0JEUkh2Ym4zemNBYnVsVkc4TEpOOTFGOFkwaHJhcVVPMnRZZ3hja2RJc1NCQU9PVGh2R2RYeW8zbVFDVnFnSEc2QTE0ZTdTZklUWjJ2UjRrcnh0ejNXS08wVGxPRXNGX3pUaU0yUmxIQTA4d0doNWxZLU9jWEZvaGdZMENfenQ1X19iVkxKOXpZU0Yxd0hZT0ZoMm96cFBYVnBjNS0xRm1KdW0ydzdYVHpOUW52MFl0Q0pUU3NzamRBVjlTMjZuZk9fTzFsbEpGLXh0TVByQllrdlZnanlYVjMtRjJwRGVUVm4yR2FyT0ttXzd5bjJtelJHTHViV0Q3TlNjbmljTDJZQnhtYmdBbkpuWkVMSVVaS0M2UkV3M2g1bUJESjRNaTJn?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T00:02:28.000Z",
-     "seen": "2026-11-15T01:30:26.908Z",
-     "impact": "يؤثر تحديد سعر شراء الدولار عند 53.39 جنيه في بنك مصر على أسعار السلع المستوردة والقوة الشرائية للأفراد."
     },
     {
      "title": "أقل سعر دولار في البنوك الآن",
@@ -366,7 +367,7 @@
      "seen": "2026-11-15T05:20:26.839Z"
     },
     {
-     "title": "الرياض: صواريخ باليستية ومسيرات تستهدف السعودية والبحرين، وقصف جوي للعاصمة صنعاء",
+     "title": "السعودية: الحرس الثوري الإيراني يعلن مهاجمة قاعدة عسكرية بالبحرين، وصواريخ باليستية تستهدف الرياض",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tS1NXT2hPOWpVWlZYS01QLUp1dURETldXN1FSS1R0QUMwUDN6b2JRSVR2RVpuNk1mUzBVdVlpdTRsc252cVJGaGlLMU5lUVNGSWl1bU9mbUxsTDNFTnfSAWNBVV95cUxOclBtWjN6RkFoOVU2MWJCNW9QNjdNYkt5dkVMZjBpbU9wYWhIeGtxY1JXNVgyY2JSdHIwVmhRbDFYa29PUzhrdl9la2pWR1lIY3NPdkhfcU5zWFpIdDdCcVRlb2M?oc=5",
      "source": "BBC",
      "time": "2026-11-15T04:18:45.000Z",
@@ -416,18 +417,18 @@
      "impact": "تؤثر الأخبار المتعلقة بمضيق هرمز على أسواق الطاقة والتجارة التي قد تنعكس على الاقتصاد والمستثمرين."
     },
     {
-     "title": "«الناتو» مقابل دونباس... زيلينسكي يكشف طرحاً أميركياً ويتمسك بضمانات شاملة",
-     "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxOXzI2OXdjWDQxeXBtWHZyT0lYbnR4eXpRSEVYV0xPakFlUnJ0bnlBSzlEanNlUGIyWHJwMUdBYzc2bmNfamZ2NVNqdXRGV0VEOVlrT29nNGp3SWZiZHBIeGZDaGNPOUxUT3U1eHVZc2doM25CTFJPM3hmd2Z1ak54dThrR2FUMTFJY1NXSnVYdTRKSlFiSXl2SzVSRnVGcWt2ODBOYTB2WElGTzNHMkJlOGlUWGs5aGYwaEFXSTkzQUFXV18tR0E3X0xjY2hiUWVXNm13eExXYTdaWUxPZmpXY1gtUnlnWk5hMmZ0eEN4NnF0RHFxd2pfb2xRM1ItVV9BajhWb05oaGpLYlJCdzNRR0FHQnpSS2NfSnpYUWNjLXN5V01VS05VSk9RdThpUnhXR1VST01xREFHUlloUWk1eThFSG5panRFQ01SYWFJSXRJUzBzelNlalRWX09ibkNIcGJvSVd1aF82VkcxVmhLUVZEcERXRUhKY0ptcjJhbU16VnVubHhOVmRtS2MtU3NlZU5vTnBieDhIZXV4Sk9XT3V1RkxfRmFJOXNkS29MeTJBeWtONlhhV3VkVUdNemJ1azlzUUNkS1hxQnV6UVpUZEdna0FCZmJwWDdRTWJiSVJmY0hjUXZ4M2RRS25heTBVeUV1c2dra3p4VjAyMlVlVktiM3JZdFJGM2M0cklrMi0tNmk1WHp2N1BLTUVDZHdLekRpRTZCMDdsc3ZwRDdtaFV3TXBKdnczZ0xKOWlvalg3WGprVWhMek5YbWdiYlFwams2OVJvVkVvb3dPQnNhU05WY3pRZHBvZl9jVFV1Z1F6eXlmOVVUMWFkU01RMFNJaHduX3dCNmN0ZkRNT25R?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-15T01:38:30.000Z",
-     "seen": "2026-11-15T03:40:26.544Z"
-    },
-    {
      "title": "سمير أبو يونس: إسرائيل تعلن اغتيال قائد لواء رفح في حماس، والحركة تقول إنه أحد أبرز مخططي هجوم 7 أكتوبر",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZnVNYU9vaWdYWW5OWnNuZXNNWEM2dzE1RVM2cEJMMzk5UHFWNFZuSm5lanlLN2lHSWdSQm1keWZTRXVCcU56dHVjVzBhSW1zR1dTWFozV1c4d3VGT0HSAWNBVV95cUxOZjVfbEkzWDFZdUF4M0oyS1FsZUF2MXpISXhnODZTbHV1N0JSbEdiVVdEc1kwUXFyQ0NycE5nQjVBb0ozMkJfUWE0Q0pNczRBUmJ5MmtUWnVIZUQ3eGlJS2R4Q1E?oc=5",
      "source": "BBC",
      "time": "2026-11-15T01:18:55.000Z",
      "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
+     "title": "«الناتو» مقابل دونباس... زيلينسكي يكشف طرحاً أميركياً ويتمسك بضمانات شاملة",
+     "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxOXzI2OXdjWDQxeXBtWHZyT0lYbnR4eXpRSEVYV0xPakFlUnJ0bnlBSzlEanNlUGIyWHJwMUdBYzc2bmNfamZ2NVNqdXRGV0VEOVlrT29nNGp3SWZiZHBIeGZDaGNPOUxUT3U1eHVZc2doM25CTFJPM3hmd2Z1ak54dThrR2FUMTFJY1NXSnVYdTRKSlFiSXl2SzVSRnVGcWt2ODBOYTB2WElGTzNHMkJlOGlUWGs5aGYwaEFXSTkzQUFXV18tR0E3X0xjY2hiUWVXNm13eExXYTdaWUxPZmpXY1gtUnlnWk5hMmZ0eEN4NnF0RHFxd2pfb2xRM1ItVV9BajhWb05oaGpLYlJCdzNRR0FHQnpSS2NfSnpYUWNjLXN5V01VS05VSk9RdThpUnhXR1VST01xREFHUlloUWk1eThFSG5panRFQ01SYWFJSXRJUzBzelNlalRWX09ibkNIcGJvSVd1aF82VkcxVmhLUVZEcERXRUhKY0ptcjJhbU16VnVubHhOVmRtS2MtU3NlZU5vTnBieDhIZXV4Sk9XT3V1RkxfRmFJOXNkS29MeTJBeWtONlhhV3VkVUdNemJ1azlzUUNkS1hxQnV6UVpUZEdna0FCZmJwWDdRTWJiSVJmY0hjUXZ4M2RRS25heTBVeUV1c2dra3p4VjAyMlVlVktiM3JZdFJGM2M0cklrMi0tNmk1WHp2N1BLTUVDZHdLekRpRTZCMDdsc3ZwRDdtaFV3TXBKdnczZ0xKOWlvalg3WGprVWhMek5YbWdiYlFwams2OVJvVkVvb3dPQnNhU05WY3pRZHBvZl9jVFV1Z1F6eXlmOVVUMWFkU01RMFNJaHduX3dCNmN0ZkRNT25R?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-15T01:18:21.000Z",
+     "seen": "2026-11-15T03:40:26.544Z"
     },
     {
      "title": "كيف أربكت خسائر ترمب حسابات إمبراطوريات الإعلام؟",
