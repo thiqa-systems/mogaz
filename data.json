@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:31:55.329Z",
+ "updated": "2026-11-15T07:41:55.290Z",
  "minute": [
   "تضمنت الأحداث الإقليمية إعلان الحرس الثوري الإيراني استهداف رادارات وقاعدة مروحيات أمريكية في البحرين، وسط تحذيرات أمنية للسكان.",
   "وعلى المستوى المحلي في مصر، تتابع الأسواق تحديثات أسعار العملات الأجنبية في البنوك مع تحذيرات جوية من شبورة كثيفة وتفاصيل حول مشروع قانون الأحوال الشخصية للمسيحيين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-15T07:31:55.329Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T07:41:55.290Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64248,
-   "change": 0.19,
-   "asOf": "2026-11-15T07:33:58.000Z",
+   "value": 63938,
+   "change": -0.3,
+   "asOf": "2026-11-15T07:43:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الداخلية البحرينية تصدر تنبيها بوجود خطر وتدعو المواطنين للتوجه إلى أقرب مكان آمن",
-     "url": "https://www.elbalad.news/7181044",
+     "title": "رئيس جامعة المنصورة ينعي نجل الدكتور مسعد سلامة مندور عميد كلية الآداب",
+     "url": "https://www.elbalad.news/7181034",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:31:25.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
+     "time": "2026-11-15T07:41:02.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
     },
     {
-     "title": "خبير مناخي: فجوة التمويل وغياب كبار الملوثين يعرقلان مواجهة التغيرات المناخية.. ومصر تقود جهود التحول الأخضر",
-     "url": "https://www.elbalad.news/7181036",
+     "title": "الثلاثاء.. قصر الأمير طاز يناقش «العملات الإسلامية.. ذاكرة مصر التاريخية»",
+     "url": "https://www.elbalad.news/7181060",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:31:02.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
+     "time": "2026-11-15T07:40:48.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
     },
     {
-     "title": "خبير عسكري روسي يتهم زيلينسكي بإصدار أوامر لاستهداف حافلات الركاب في روسيا",
-     "url": "https://www.elbalad.news/7181033",
+     "title": "الإعدام شنقًا لـ3 متهمين في الأردن.. محكمة أمن الدولة تصدر حكمها بقضية إرهاب الكرك",
+     "url": "https://www.elbalad.news/7181056",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:30:07.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
+     "time": "2026-11-15T07:40:39.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
+    },
+    {
+     "title": "الجريدة الرسمية تنشر قرار إنشاء مركز إصلاح جغرافى بقسم شرطة منوف فى المنوفية",
+     "url": "https://www.youm7.com/story/2026/11/15/الجريدة-الرسمية-تنشر-قرار-إنشاء-مركز-إصلاح-جغرافى-بقسم-شرطة/7618705",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T07:34:00.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
+    },
+    {
+     "title": "مرصد الأزهر: الاستيطان يبتلع الضفة الغربية.. أكثر من 100 بؤرة جديدة خلال 2026",
+     "url": "https://www.youm7.com/story/2026/11/15/مرصد-الأزهر-الاستيطان-يبتلع-الضفة-الغربية-أكثر-من-100-بؤرة/7618701",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T07:32:00.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
     },
     {
      "title": "جامعة القاهرة الأهلية تستضيف السفير محمد العرابي فى لقاء مع طلاب سياسة واقتصاد",
@@ -167,18 +181,11 @@
      "seen": "2026-11-15T07:31:55.329Z"
     },
     {
-     "title": "تنبيه من المدارس بشأن تقييمات الطلاب الحاصلين على إجازة من التأمين الصحى",
-     "url": "https://www.youm7.com/story/2026/11/15/تنبيه-من-المدارس-بشأن-تقييمات-الطلاب-الحاصلين-على-إجازة-من/7618691",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T07:21:00.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
-    },
-    {
-     "title": "الأزهر يعلن فتح باب التقدم للدفعة 5 برواق الخط العربي والزخرفة الإسلامية",
-     "url": "https://www.youm7.com/story/2026/11/15/الأزهر-يعلن-فتح-باب-التقدم-للدفعة-5-برواق-الخط-العربي/7618689",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T07:19:00.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
+     "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
+     "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxObjFma1NPOFZMYlFTdnlFX0l1NkFOYUlwa0VKQnNQcEJqUjVlMXVRNzkyN01HbFcxU1F0VFY0N2VBQWtfb2kyU1dzN29paG4tZDk3Z1d1WXdiV3MweHhJN1IwdFlkZUtQWnA4bVNrdFZ6ZktCV3lRUzRrN0k2b2EzaVo2dkJ0dndlUXhzWGJ0Vmk3ZTJHTkNSeDdkWVplbGZhX0ltWlRTTEhpRmMxTV93LTU3cnFvdG9yTzc3NERXaXF6QkRnaDliU2tVZmFsY1kwQkxiOENzR1pCenhEVXNfMEhfVWVScUtqOXhaTHZ1VmxXeTJmMFo0RGFUSlNXdzZabTJwYzJ2LV9wYk5BdXpkdnp6VkdkT2ptVWFhNU1LaFRib2tldzgwVGlxUWQ4Nl81cXREbWNVX08tYzVwbDk2N1JIUUF6eVNMZnZjRU5pN1ZZSlpOTWZSQldsbGhvWC14VGc5UVlIQjJ5VkdLQ1h5bjFwaWRWYzlpampBLUJ5aGo0Zm50R2tGd21RLTlQWVBiX0x6cjdGLWtvLWtiUHY0N0dDUUdUQWdteVNtMFRQMzQzN203SUJGaDdxVmlIbEpoY0dvSzJuUkF0TFlsc0pVRU5tR1FFUkNGbzFRejZqR0dOZ1ZFU0E0SEE5dUdseVpUeXBVbGt5czFqNUdrOC1MV2J3?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-15T06:39:58.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
     },
     {
      "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
@@ -229,13 +236,6 @@
      "source": "العربية",
      "time": "2026-11-14T20:02:00.000Z",
      "seen": "2026-11-14T21:59:59.376Z"
-    },
-    {
-     "title": "ما الذي تريده القاهرة من واشنطن في نزاع «سد النهضة» وملف غزة؟",
-     "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxQd0ZYTW5NQmxPVGdRUUs4WkROalBaUFB4Y19BN25VOElad0RZTFhzU1lfekRfWTJIX2R6NnZUWW94WXBoeWMycVpRaWNYVWhBTHZGeWRhVi1HVEx2Ql9MUkptclBwNGU3TEhuQUZobEZoU196VC1LbTBtdGFmbFhWaXRRS2F2WVlCejEyTFI0TmMwaHcyY1dmX3k4LTFXYjd5N1k3c19KRFN4SWpvQ0wwVWVrdjdOd1l1aVlwenBRbWRtYUdRWUNzRl9Da0hMZFZKcXl6N3FPVlJIRnNybmE0QURMdk9LZ1FhdlpiY0RCX1ZBMExhRlQzUTNlTU5Ja3JZcl9pdTBINlB5ZjhlblpVUG9xZ2tWX2wwR0JJdzhkYW5tdWMwbXJ1OFp3LWFDOGNCMkRNdWZ2ZUJDVXktOXgwTFc3UWxMdDU4SEhGZDlCM1djYk9LSDJ0RV82ZUFtSjI0S0F0eTN4cXFWNHZ3S1hXRzB3MndKMVA4VUdPb3VkN0lvXzlDWVYyTkViR25Ic2FoT092MGt3aWszOU5ueHhGVkN4bHBsRjlkQkc3aGc0NnRqQ01vNklOOWF6c2V1TjNYeWRicUxIejYwUEFITTVfU0NpSHM1VWY1OG9jQkRQTDVTZGUwYkV4T0plSjlYNXI2Znppc0d1VjlWak1NZk9XSVJ4UHljY3ZQU0Jub2dxY1RlOTc2U1BBQzZNNjBXdDgteTFsWEdHS1hIcFFPeWRuUHFHMF9NcUZWZThEdWxCaDg1ZmdZWERWeFhhWkRJZlYyRE5xNGpQR1hxWERIQ0ZKM2lJU3RUdG1wWVRFWkw5cE1jQ0FTMi1FanNiRF91azRLVEVvWGN6Y1E4aHBo?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-14T19:50:44.000Z",
-     "seen": "2026-11-15T07:11:56.101Z"
     }
    ]
   },
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر اليورو مقابل الجنيه المصري اليوم الأحد 15 نوفمبر 2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBURVI5czRNcXdlNEIzd21kS2kwaFBOc2U4akR5QUtOeHVTV3hPelp0WDZXMjN4VFZVTUFaTm42WFFqNVpz?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-15T07:32:19.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
+    },
     {
      "title": "الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين، واعتراض صواريخ باليستية في الرياض",
      "url": "https://www.bbc.com/arabic/articles/c5evr91z1ek4o?at_medium=RSS&at_campaign=rss",
@@ -273,11 +280,11 @@
      "seen": "2026-11-15T07:31:55.329Z"
     },
     {
-     "title": "سعر الدولار اليوم الأحد 15 نوفمبر 2026 في البنوك مقابل الجنيه المصري",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xVk5OMHQyLVFNYWZRS1dMOWMzcVRBWHh5Z19wTV9TNEcwSjV6ckJyN0VBQlJJX2xSYTNka3NMS09YVUgt?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-15T07:12:40.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
+     "title": "سعر الدولار اليوم الأحد 15 نوفمبر 2026 في البنوك المصرية.. آخر تحديث",
+     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObDN2OW1WNjFieXlXRXdlWklUWnJpNkhjdzRlRkVIZWpUdXpOeDJnanJiR0NwSnpGcEVQR3Z4b050SnZKdUZ3ZVAwb1VaelFlaXFyQ1ptSmRldnlxOTF4Vk82MjBORkcxTzBVU29uQmw2OXhGRkRoSmZlcGNXLXZHV3hodkdKYnI5aFNXS3VCU2lYdnZlMXIwb2xhdnJ4MjF1bndVanNyT2x2aEF4OW9tRG9HQjNWelB2SkRkUkhROXc4czBaT2dFSFpubTAyUG84UVg5T1FGbVl6aW5oM3ozMUQ1T1JxeWtrQWQ2ckdwRWNRTjYxc3FJLVhoRzY0Mk5FdmhuVzhxVlZ5VUN3Wi1yTkNDWkNWUjhrRmlVcm9DQWpkQm9hN19BV1p3bDVIYmd5bko5eEh6VnkyaGwxOUJmWFhDeTE?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-15T07:16:58.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
     },
     {
      "title": "الدولار نزل.. أسعار العملات الأجنبية اليوم الأحد",
@@ -339,14 +346,6 @@
      "time": "2026-11-15T04:01:31.000Z",
      "seen": "2026-11-15T05:41:55.453Z",
      "impact": "يهم الأفراد والمستثمرين لتحديد سعر شراء الدولار في بنك البركة عند 53.39 جنيه."
-    },
-    {
-     "title": "53.50 جنيه سعر بيع الدولار في البنك الأهلى الكويتى اليوم السبت",
-     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNTXNXQjJtZkYtXzhlU3hmemo3Uzk5UzJoeDBINm1kVXBmVUZOb0hjVDBBcWFKT2hkb21RMlNBOXNPQ1laV1JJZ1NTNEdVVEZaWm5QUG1pdXVfV244STB4cmVYV0ZkRHZudWJvbFFkaDVqZlVZZlBlYmJfd3ZtRk5wMkdDQVo4OE9Fbk0xbXZoMW8zU1p0NEJRSWdQa3kyandhYkdhMmdBN0tfbUNOVDhiNzU1T1c4RTdmQUgtVTFnbVE3OVVYNnB0ME85akRhZEFTU1lQbHpDajJLNmZlbk1wa3BkSWJ4WUQ3cjZqSkpYdDhLcGlTY1B3VXB1M21SaFpQNjZVRmtaOVpSNUlmemdpemJHVkQ4VkZCYVNMUzBQX0ZOWTE5QkNSTWgyM1hGbElQOW5Cc3hvU2tVZXNTajhqaGhlVzNSOERlbTNfcEthY1hwcjZmY3JlR3NtY1k0Mkd2XzNERkcwT1RkTExxRVNDTlVISEFKNlJTOFFmVDlwRWowRGFVZVd1ak9JUWxJRzTSAY8DQVVfeXFMTU1zV0IybWZGLV84ZVN4ZnpqN1M5OVMyaHgwSDZtZFVwZlVGTm9IY1QwQXFhSk9oZG9tUTJTQTlzT0NZWldSSWdTUzRHVVRGWlpuUFBtaXV1X1duOEkweHJlWFdGZER2bnVib2xRZGg1amZVWWZQZWJiX3d2bUZOcDJHQ0FaODhPRW5NMW12aDFvM1NadDRCUUlnUGt5Mmp3YWJHYTJnQTdLX21DTlQ4Yjc1NU9XOEU3ZkFILVUxZ21RNzlVWDZwdDBPOWpEYWRBU1NZUGx6Q2oySzZmZW5NcGtwZElieFlEN3I2akpKWHQ4S3BpU2NQd1VwdTNtUmhaUDY2VUZrWjlaUjVJZnpnaXpiR1ZEOFZGQmFTTFMwUF9GTlkxOUJDUk1oMjNYRmxJUDluQnN4b1NrVWVzU2o4amhoZVczUjhEZW0zX3BLYWNYcHI2ZmNyZUdzbWNZNDJHdl8zREZHME9UZExMcUVTQ05VSEhBSjZSUzhRZlQ5cEVqMERhVWVXdWpPSVFsSUc0?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T04:01:30.000Z",
-     "seen": "2026-11-15T05:10:26.997Z",
-     "impact": "يهم المتعاملين بالنقد الأجنبي لمعرفة سعر بيع الدولار في البنك الأهلي الكويتي عند 53.50 جنيه."
     }
    ]
   },
@@ -374,6 +373,20 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T07:25:07.000Z",
      "seen": "2026-11-15T07:31:55.329Z"
+    },
+    {
+     "title": "\"فجر اليمن\" تلاحق ميليشيا الحوثي في مأرب وتعز والجوف",
+     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRHRFc1lDQ2tSenBTSkx3UUZVVjlzYmFCc2g5Y2NvV1FBZkN0VEtoNU1xYzVEUW9nOGU4TkdQdmstWGFnV3JSNDU1NjVXbkFnd2dwMHQ1bmdLRHRyeV9xblNMRWoxS2F3SjhkNFllaVZuV1UxWTNwMFhnazRMSVVJUURvdXdYSWhHTXNZdnZxUVpES29zU3Q1WlVTY0o5MHc5RVV1blhMNGJwdHBDMmZYbVNmaXQ4UE1DaTZOd19kTW16Q2Nhc3VXS0Z1ZHJIV19fd3FnNFNwLU9XV09qSnJ2RjdtSVhYbkhtelBaVTg1ekl5aEhXSkVkWk9SQ2pCRHlZWlpaTjJmMmFlMDY3a3Nqa1B6YnRKNUpNdWlOY0xTMlgwZmJWTktQNTd4OHhiUE9MUkdUenN3OUlDRHJnUDVkX1drRGxfUnNudnQ5RFQxdE5vczRqdG1QRExKR0xFaFp5aENmOGlPdGVjVFZROVA3UEwzcHVRbmtMblFxb21pMVVZQ1hhTGNHdWh1U0ZoMExMLUxIVWJuNk9ac3Y4cGVXbzh4T1N4V0hSRWtvUVowWmIzSnRDb1VvNzNiYUI0b1F5TDBIRw?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T07:17:00.000Z",
+     "seen": "2026-11-15T07:41:55.290Z"
+    },
+    {
+     "title": "تصادم طائرتين في مطار ميامي.. ومشاهد من قلب الحادث",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNb1hGbjdydnRuUlZxTXdYb01pQUMyZDBkcjhFVllFN3JnZ2xGVHZ2bVlJekJudFplS2lycWEwNk8zUlBZdWxkb2hjS1dvVDR5WUQ3LW9jMzV2dG9yVGhvaVNzak9SenlWVVJqRGdlOEhEZUI5Rm02LW5TQU9XY2tUNkdhd1hQQTFzaU9KbzNxQXJxVm9xZW81eERjdmpFRnFwc2hiTmw2NHpUS1ZIUGh3b0ZMV3I0ZV9pZ2pVaGN2OXQtTUJvTGR1T1l3VUJKVmI3WTlTZ3pOck9INnM3c0xPVWd3cF9pbWpDR3Z3UUtMM29KTENnNENWWFl5aG10akFqV1RkU1hlLXp3MGVfM25PVmRxM0lVdVdOczYzVVh1XzRlaEp0ZGpiRXZoajdSbl9waXptM1lMb2l5SHI2MUF2ME1kTHBlZTFOOUhhTDRuMTdpSjZGbWlYc25FSWVmbFpBY0hKb1FpdHN3ZmRrbVFxU2ZOQ3V0VFhaa2RfUDctMUVfSlQ4a0VwWW90bEs3S3NFZGNhdG1xNnZDUVNlX2JmVFhvMEpSNGZwYVRPSlpQYVJpQjVZVFo0Ykp4Vk13RDV3N1lLd09YUk1ReXpU0gHSA0FVX3lxTE5Xb3dZWmNISWtWMnFyMUNSamtLUnBTRWVzR2diX080M1d5M3VuWWRVMEUwQ2RmUU1RaWUycWJkTmJ4RGQyeFJjVF80TmlHMmptR1Nwb0Zqdk50QUdNUDh2YmJILTJ3YVFzd2dENmhiYnRfV3VKYzktRm9LMnlTZlBpWG1vZTVuaFUtRWdweFhxRHcwY0ZZQjRNdlN0Q1FfS1BHMmlKV3JmQU96Q2M4TERqQWhGQWJ0bEphQmdRdF9nMnBaWDdwQndYeEFxMGF3WFYxZjN3NjR0dUtmbk1DQ2c3M0FLWFJxQTRsV3VPcm9YOW83Sm1uc0I0TUtkU29DV0lRZHY5REJnTjFBNy1mdEVxbjJ2WGxjc2pZNnV1dlVEcVZJOHA2ZU91X2RRbzk5S2w2cmU4QmVnVXVIWkpoYzYyVE1xS05uZ0xJNnZydmI2UWxHdHREc04tLWlfZlF5bzZHUk1MYlBQaDJLc3VCVm5JOXBESzh3LVphLWNFWU84M2RqYVhvaGJMZEZ1a2NSdTlfd1JqOGVPWnRFR2E5N2plR0pJMnVuYzVIVi1SVUpoWEFZb3FpT0NZS2d5RVZvdGhSZEo3cjl2dS10ZjlUWUQzLXc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T07:10:25.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
      "title": "خلاف بين الكونغو الديمقراطية ورواندا بشأن رئاسة المنظمة الدولية للفرنكوفونية",
@@ -404,7 +417,7 @@
      "seen": "2026-11-15T07:01:55.779Z"
     },
     {
-     "title": "مباشر: مقتل قيادي عسكري كبير في حماس في غارة إسرائيلية على غزة",
+     "title": "مباشر: حماس تعلن مقتل قيادي عسكري كبير في غارة إسرائيلية على غزة",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%87%D8%A7%D8%AC%D9%85%D8%A9-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
      "source": "فرانس 24",
      "time": "2026-11-15T06:26:13.000Z",
@@ -416,13 +429,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-15T06:19:24.000Z",
      "seen": "2026-11-15T06:21:55.484Z"
-    },
-    {
-     "title": "تصادم طائرتين في مطار ميامي.. ومشاهد من قلب الحادث",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNb1hGbjdydnRuUlZxTXdYb01pQUMyZDBkcjhFVllFN3JnZ2xGVHZ2bVlJekJudFplS2lycWEwNk8zUlBZdWxkb2hjS1dvVDR5WUQ3LW9jMzV2dG9yVGhvaVNzak9SenlWVVJqRGdlOEhEZUI5Rm02LW5TQU9XY2tUNkdhd1hQQTFzaU9KbzNxQXJxVm9xZW81eERjdmpFRnFwc2hiTmw2NHpUS1ZIUGh3b0ZMV3I0ZV9pZ2pVaGN2OXQtTUJvTGR1T1l3VUJKVmI3WTlTZ3pOck9INnM3c0xPVWd3cF9pbWpDR3Z3UUtMM29KTENnNENWWFl5aG10akFqV1RkU1hlLXp3MGVfM25PVmRxM0lVdVdOczYzVVh1XzRlaEp0ZGpiRXZoajdSbl9waXptM1lMb2l5SHI2MUF2ME1kTHBlZTFOOUhhTDRuMTdpSjZGbWlYc25FSWVmbFpBY0hKb1FpdHN3ZmRrbVFxU2ZOQ3V0VFhaa2RfUDctMUVfSlQ4a0VwWW90bEs3S3NFZGNhdG1xNnZDUVNlX2JmVFhvMEpSNGZwYVRPSlpQYVJpQjVZVFo0Ykp4Vk13RDV3N1lLd09YUk1ReXpU0gHSA0FVX3lxTE5Xb3dZWmNISWtWMnFyMUNSamtLUnBTRWVzR2diX080M1d5M3VuWWRVMEUwQ2RmUU1RaWUycWJkTmJ4RGQyeFJjVF80TmlHMmptR1Nwb0Zqdk50QUdNUDh2YmJILTJ3YVFzd2dENmhiYnRfV3VKYzktRm9LMnlTZlBpWG1vZTVuaFUtRWdweFhxRHcwY0ZZQjRNdlN0Q1FfS1BHMmlKV3JmQU96Q2M4TERqQWhGQWJ0bEphQmdRdF9nMnBaWDdwQndYeEFxMGF3WFYxZjN3NjR0dUtmbk1DQ2c3M0FLWFJxQTRsV3VPcm9YOW83Sm1uc0I0TUtkU29DV0lRZHY5REJnTjFBNy1mdEVxbjJ2WGxjc2pZNnV1dlVEcVZJOHA2ZU91X2RRbzk5S2w2cmU4QmVnVXVIWkpoYzYyVE1xS05uZ0xJNnZydmI2UWxHdHREc04tLWlfZlF5bzZHUk1MYlBQaDJLc3VCVm5JOXBESzh3LVphLWNFWU84M2RqYVhvaGJMZEZ1a2NSdTlfd1JqOGVPWnRFR2E5N2plR0pJMnVuYzVIVi1SVUpoWEFZb3FpT0NZS2d5RVZvdGhSZEo3cjl2dS10ZjlUWUQzLXc?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T05:51:00.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
      "title": "\"تنبيه بوجود خطر\".. الداخلية البحرينية تحذر فجر الأحد وتطلب التوجه لأقرب مكان آمن",
@@ -443,13 +449,6 @@
      "url": "https://www.aljazeera.net/news/2026/11/15/%d8%b9%d8%a7%d8%ac%d9%84-%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86%d9%8a%d8%a9-%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a3%d9%85%d9%86?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-15T04:25:28.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
-    },
-    {
-     "title": "إيطاليا تغرم \"ميتا\" 805 ملايين يورو وهذا السبب",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/15/%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d8%ba%d8%b1%d9%85-%d9%85%d9%8a%d8%aa%d8%a7-805-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%8a%d9%88%d8%b1%d9%88-%d9%88%d9%87%d8%b0%d8%a7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T04:20:36.000Z",
      "seen": "2026-11-15T07:31:55.329Z"
     }
    ]
