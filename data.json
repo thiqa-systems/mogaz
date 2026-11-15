@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-15T03:50:26.892Z",
+ "updated": "2026-11-15T04:00:28.027Z",
  "minute": [
-  "تناولت الأخبار تحديثات أسعار صرف الدولار مقابل الجنيه في البنوك المصرية وتطورات إدارة الاقتصاد والمال العام.",
-  "على الصعيد السياسي والإقليمي، تبرز متابعة تعليق الضربات على إيران وتطورات الأحداث في غزة وإثيوبيا.",
-  "شهد القطاع الخدمي والتكنولوجي إتاحة هيئة الدواء خدمة جديدة عبر واتساب، ونجاح شركة سبيس إكس في التقاط مركبة ستارشيب."
+  "تتناول الأخبار التطورات الاقتصادية في مصر مع متابعة أسعار صرف الدولار وتفاصيل عوائد شهادات الادخار الجديدة بعد رفع الفائدة.",
+  "تتضمن النشرات معلومات خدمية وتوعوية للمواطنين تشمل مواعيد رحلات قطار تالجو وطريقة التحقق من التراخيص المهنية للأطباء.",
+  "وعلى الصعيد العالمي والتكنولوجي، تبرز المستجدات السياسية والدولية إلى جانب إنجاز شركة سبيس إكس في التقاط مركب السبل الفضائية ستارشيب."
  ],
  "ai": {
-  "at": "2026-11-15T03:00:27.186Z",
+  "at": "2026-11-15T04:00:28.027Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-15T03:50:26.892Z"
+  "key": 2,
+  "impacts": 8
  },
  "markets": [
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64824,
-   "change": -5.02,
-   "asOf": "2026-11-15T03:51:46.000Z",
+   "value": 64850,
+   "change": -4.98,
+   "asOf": "2026-11-15T04:00:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +137,29 @@
    "title": "مصر",
    "items": [
     {
+     "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
+     "url": "https://www.youm7.com/story/2026/11/15/قطار-تالجو-مواعيد-الرحلات-على-خطوط-السكة-الحديد/7617863",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T04:00:00.000Z",
+     "seen": "2026-11-15T04:00:28.027Z",
+     "impact": "تساعد المسافرين والمواطنين في مصر على تنظيم وتخطيط مواعيد التنقل عبر خطوط السكة الحديد."
+    },
+    {
+     "title": "إزاي تطمن؟.. خطوة بخطوة طريقة التحقق من قيد طبيبك وتخصصه لمنع انتحال الصفة",
+     "url": "https://www.youm7.com/story/2026/11/15/إزاي-تطمن-خطوة-بخطوة-طريقة-التحقق-من-قيد-طبيبك-وتخصصه/7617574",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T04:00:00.000Z",
+     "seen": "2026-11-15T04:00:28.027Z",
+     "impact": "تمكن الأفراد في مصر من حماية أنفسهم والتأكد من القيد الرسمي للطباء لمنع التعامل مع منتحلي الصفة."
+    },
+    {
+     "title": "أخبار قنا: طالبة ثانوي بمدرسة داوود تكلا تحصد المركز الثاني جمهوريًا في الاقتصاد المنزلي، و«جنوب الوادي الأهلية» تبحث إنشاء مستشفى جامعي",
+     "url": "https://www.elbalad.news/7180959",
+     "source": "صدى البلد",
+     "time": "2026-11-15T03:52:39.000Z",
+     "seen": "2026-11-15T04:00:28.027Z"
+    },
+    {
      "title": "الحرس الثوري الإيراني يُحذّر فرنسا من «فخ إسرائيلي» بعد اتهامات بشن هجمات إلكترونية",
      "url": "https://www.elbalad.news/7180958",
      "source": "صدى البلد",
@@ -153,13 +174,6 @@
      "seen": "2026-11-15T03:40:26.544Z"
     },
     {
-     "title": "تحركات إسرائيلية مُفاجئة ضد إيران.. رئيس الموساد في واشنطن ونتنياهو يبحث استئناف الحرب",
-     "url": "https://www.elbalad.news/7180953",
-     "source": "صدى البلد",
-     "time": "2026-11-15T03:28:42.000Z",
-     "seen": "2026-11-15T03:30:26.244Z"
-    },
-    {
      "title": "هيئة الدواء تتيح خدمة واتساب للشركات والمصانع لتسريع الاستجابة",
      "url": "https://www.youm7.com/story/2026/11/15/هيئة-الدواء-تتيح-خدمة-واتساب-للشركات-والمصانع-لتسريع-الاستجابة/7580801",
      "source": "اليوم السابع",
@@ -168,19 +182,11 @@
      "impact": "تساعد هذه الخدمة عبر واتساب المصانع والشركات الطبية في مصر على تسريع الإجراءات والتواصل مع هيئة الدواء."
     },
     {
-     "title": "رئيس اتحاد المعلمين العرب: المنشآت التعليمية فى مناطق الصراع مستهدفة",
-     "url": "https://www.youm7.com/story/2026/11/15/رئيس-اتحاد-المعلمين-العرب-المنشآت-التعليمية-فى-مناطق-الصراع-مستهدفة/7617657",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T03:00:00.000Z",
-     "seen": "2026-11-15T03:00:27.186Z"
-    },
-    {
-     "title": "مواعيد القطارات على خط أسوان / القاهرة والعكس.. اليوم الأحد 15/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/15/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الأحد-15/7617861",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T02:00:00.000Z",
-     "seen": "2026-11-15T02:10:26.291Z",
-     "impact": "تساعد معرفة مواعيد القطارات الأفراد في مصر على التخطيط الدقيق لرحلاتهم وتنقلاتهم بين أسوان والقاهرة."
+     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-15T00:54:41.000Z",
+     "seen": "2026-11-15T04:00:28.027Z"
     },
     {
      "title": "«مدبولي»: الدولة مستمرة في تهيئة مناخ جاذب للاستثمار وتعميق التصنيع المحلي",
@@ -231,13 +237,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-14T18:36:00.000Z",
      "seen": "2026-11-14T20:50:00.127Z"
-    },
-    {
-     "title": "«فخور بيكم».. مدبولي يتفقد العاملين في المصانع بالدقهلية",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrSHE2UEpKMF9Ydk01ZXlBRmtEWnpIQXNKdW1jbGFEdGhSdTVRelFrMVhoVlBXOU1BN0FZODU3dHllYWZYU1FrX2tmN3A2VG02OVVuZENXNFppeEhU?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-14T18:11:32.000Z",
-     "seen": "2026-11-14T18:29:59.570Z"
     }
    ]
   },
@@ -259,14 +258,15 @@
      "source": "جريدة الدستور",
      "time": "2026-11-15T03:09:24.000Z",
      "seen": "2026-11-15T01:40:27.158Z",
-     "impact": "يساعد متابعة تحديث أسعار شراء وبيع الدولار الأفراد والمستثمرين على اتخاذ قرارات مالية يومية مناسبة."
+     "impact": "تهم المستثمرين والأفراد في مصر لمتابعة تحركات أسعار الصرف وتأثيرها على القوة الشرائية والتكاليف."
     },
     {
      "title": "إيطاليا تُغرم ميتا 805 ملايين يورو بسبب وصولها إلى صور مستخدمي \"أندرويد\" دون موافقتهم",
      "url": "https://www.bbc.com/arabic/articles/cw3dgep0l30ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-15T03:02:18.000Z",
-     "seen": "2026-11-15T03:10:26.327Z"
+     "seen": "2026-11-15T03:10:26.327Z",
+     "impact": "تسترعي انتباه المهتمين بقطاع التكنولوجيا والخصوصية للتعرف على العقوبات التنظيمية على الشركات الرقمية الكبرى."
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الأحد",
@@ -274,6 +274,14 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T02:03:11.000Z",
      "seen": "2026-11-15T03:20:26.209Z"
+    },
+    {
+     "title": "بعد قرار البنك المركزي رفع الفائدة.. تفاصيل أرباح 100 ألف جنيه في شهادات الادخار الجديدة",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVbnJjeUZSMFY0SHVYWXhGMzRuRi1mRkJaY1FmamF2Y2xiQ3VPQkVtbENMbFl0cENaWU1BUkRfZ1hCZEJmaGlTZFEyV1UwdjFEU2JEYV9KUUd4c3dvYzlR?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-15T01:51:00.000Z",
+     "seen": "2026-11-15T04:00:28.027Z",
+     "impact": "تفید المودعين والمستثمرين الأفراد في مصر للتعرف على حجم العائد المالي المتوقع عند استثمار أموالهم في الشهادات الجديدة."
     },
     {
      "title": "من إنتاج الدولار إلى كشف حساب المواطن.. كيف تتغير فلسفة إدارة الاقتصاد والمال العام في مصر؟",
@@ -343,13 +351,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-14T22:06:00.000Z",
      "seen": "2026-11-15T00:10:26.719Z"
-    },
-    {
-     "title": "«جيزة للغزل والنسيج» تنفذ توسعات جديدة باستثمارات 50 مليون دولار",
-     "url": "https://alborsaanews.com/2026/11/15/2006265",
-     "source": "البورصة",
-     "time": "2026-11-14T22:02:51.000Z",
-     "seen": "2026-11-14T23:09:59.245Z"
     }
    ]
   },
@@ -376,7 +377,8 @@
      "url": "https://www.aljazeera.net/politics/2026/11/15/%d9%88%d9%88%d9%84-%d8%b3%d8%aa%d8%b1%d9%8a%d8%aa-%d8%ac%d9%88%d8%b1%d9%86%d8%a7%d9%84-%d9%85%d8%a7-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%ad%d8%aa%d8%a7%d8%ac?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-15T00:33:18.000Z",
-     "seen": "2026-11-15T03:40:26.544Z"
+     "seen": "2026-11-15T03:40:26.544Z",
+     "impact": "تزود المسافرين من وإلى مصر بالمعلومات اللازمة للتعامل مع حالات ارتباك وتغيير رحلات الطيران."
     },
     {
      "title": "قائد \"أفريكوم\" يلتقي قيادات ليبية دعما لتوحيد المؤسسات",
@@ -470,13 +472,13 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-15T01:41:55.000Z",
      "seen": "2026-11-15T01:50:26.594Z",
-     "impact": "تفيد متابعة النجاحات التكنولوجية لشركة سبيس إكس المهتمين بقطاع التكنولوجيا والاستثمار التقني في متابعة الاتجاهات العالمية."
+     "impact": "تهم المستثمرين والمهتمين بالقطاع التقني لمتابعة التطورات والفرص في صناعة الفضاء والتقنيات المتقدمة."
     },
     {
      "title": "بعد 22 ساعة.. سبيس إكس تحقق أول التقاط لـ\"ستارشيب\"",
      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQTWVTdm5iQ1piaVh4UDBoX0JBWlFPSC10ZU52M1VLTnY5NWVKYmhfazc5eC1OdFIwU2UteHp2XzJyX1RMTnZ3M3p4cHIwbEtkQkpRQVRmUlRnUHlIN2VtTnNWd1NZUFZMb0ZGSjZCdDY2ZThBZXhndThac29JYjI4MXVRYVVycEhlTHRnenhwdGl4MnRidU1zTEh1UXpmclVvbXZPcDdoek4tTTB4ZFRWdEh0R0p3N2lOLVczVUJPRk9pZWtYSTlZX2E0dlZESE9GM3hBRzRJSEh4T2VxeHJHMGgxampMVDVNX0ppaFgwQXp3cGRaMWZkaVJPamg5RklJX1lqVVdjelpsbmhzbjZwZWZHLWt0ckNTSWxWYjEwcnJzYmJtcHBDYkVQRWNHQ1JsOUtWOXJLS3dZVDQzUDhiUG5kUDlnd0lMbmg5MmJoODBMd9IB1wJBVV95cUxOTUR1SlRpcDlEX0dCWm5VT0c1OG9TNDhOb05fX3pEendQOElxQVFqR1dCSXZUQldrY28tWG5CRHZ4VmdfUHdUaVF3QmVvSDlkbGxzb2N3dWRWa0NLY01LYTBXNHBqMVZEc3FKNnpHSkY0THpwV2s3YUFybk5IMG1EWnNsZjF2WU1TLU9JTmpvS1NROHgyUlBQQUpVdnZsQnlwbzJSY25lN1BLbmpSZGNuVG1HVlJra1l2c2hDVWtQUlZxbE5SZW5ITWdNbnVGOFZZWWR2MUNLQmVMeklvNk5oQVBfRGNBUjBnTFM3TXhXRGFENkY3SXotRGpRU3JyZi02RUQwZ2hkMThJUE11UHNocXBJbXhrODdVTU8tLVFWQjk1MmVoUkMyaEdtNDgybVJaY1VFNktMSGozbW5TaVdLZFhxWGRmT0xxNmFoUDA4WXp1MFVwWDU4?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-14T23:55:10.000Z",
+     "time": "2026-11-14T23:52:24.000Z",
      "seen": "2026-11-15T03:00:27.186Z"
     },
     {
@@ -499,7 +501,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-14T20:42:51.000Z",
      "seen": "2026-11-14T20:50:00.127Z",
-     "impact": "تساعد استعراض التلفزيونات الحديثة بتقنية Micro LED المهتمين بالتقنية والتجارة في مصر على متابعة أحدث الابتكارات في سوق الإلكترونيات."
+     "impact": "تفيد المستهلكين والتجار في سوق الإلكترونيات بمصر في الاطلاع على أحدث ما توصلت إليه تكنولوجيا الشاشات التلفزيونية."
     },
     {
      "title": "جنوب السودان يرجئ أول انتخابات له مجدداً وسط تصاعد العنف والصراع على السلطة",
@@ -522,6 +524,13 @@
      "time": "2026-11-14T15:50:00.000Z",
      "seen": "2026-11-14T18:29:59.570Z",
      "impact": "تؤثر اضطرابات الطاقة العالمية الناتجة عن الصراع على أسعار السلع وسلاسل الإمداد التي تمس السوق المصري."
+    },
+    {
+     "title": "إيطاليا تغرم \"ميتا\" 805 ملايين يورو بسبب الوصول إلى صور المستخدمين",
+     "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQdmpqeHBYVENqcHZBTEptMmhrOE52RHZfbmxKZF9qNUJOQ1pkU0x1Z0o0dFIyRnhSUTF2V1RRWUgxVUVvaGVmbUNUb2oyaVJZdVI0dG1JZEE3ZHV6ZFJxdEtoMi1wY2NhT05PMmRHOE84YTFDQmwzNFg2NUZtN05MZUZhT0lTQUo4Wl9pYTRkMmxnUFd3b1dGaC1kdk5VY3lDcmVTN0pLLTlpcFJRNzB4Skc5VjNpSVFxSXNEeHZMR2J1aFFlYkZjRnBfNC0xOVA0NDRGMGwtNDV0R1JScXdwWi1wVmtxdTdaamRkX2JoNFRFYmhneTdQNFFnSlFpbUF5V1lfR08yV2c5b2tmWDhGbThUWlFWY1pJdUpOUUpLSUhsSnMxWTdOdE1PMUM0SDZwSHd0ZU95S2JwamZhbVdzN3ZJcHFWdmF5V0N1LUF0MTNLb2pyNkVERXNOVWpjdlJPU0FkS2ZCVlJ0VFJETE55SEJlWGR2MVJyNzBIRlpNUnhqaGZ4c2FndWFYTzZYdHppdUtMNHdZa2EzdF8tZTlvMXhueXoxeEE0dUFiOGtQYUVaOFJ0bXlDZ0Nvbw?oc=5",
+     "source": "الشرق للأخبار",
+     "time": "2026-11-14T15:47:44.000Z",
+     "seen": "2026-11-15T04:00:28.027Z"
     },
     {
      "title": "5 أماكن لا تشحن هاتفك فيها.. بعضها قد يعرّضك لمخاطر لا تتوقعها",
@@ -559,13 +568,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-14T14:21:25.000Z",
      "seen": "2026-11-15T00:40:26.908Z"
-    },
-    {
-     "title": "لتفادى زحام الشوارع.. روبوتات توصل البقالة للمنازل عبر أنابيب تحت الأرض بأمريكا",
-     "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOMmRVMW8tMzNyb05wcHZZVERpUDRYUVlkZzMyemFWWVBMRnlYS2N3cjVyYlJFYlNHcTJTTXVxLUpHNGoxLW94Mk5ZX2J4UmtmUTkxd09scFpjUHNkeEl3Mk0waU91S1BaQXcteFg1RjhTRHk0NmZ1UW43Q0hsWUpqY1FfU3c1X3ZvV1ptdE1kcjF2VERjNE9KdkNyV2NCZ3dUbF9MV1hOVURJemRKT2hNb19nTGFiVWF0cXhUM3c0NElEU2tqLS01UW81MVNDb1VCTVhaZUF5M285ME1CdkRCelpoeEtsNFFIZHZaWGN2UTg3YVVkNzNpcWptVWtDcTFnY3hXSVppX1I5N1FUcTl1N0ZBUjF0dDJCYlRDUkdlMVhpV2VuMmYwV0lFYzIwUmRIRDVRYXBPbi1DNnowUEZ1UXozSjFJT3ZzX2ZySWxsSWxJWmJLdHp4TnNNVk5VdnAyU3NqamY2dnQzcXRLTlNoOWh0ZHhocG1pa1Itemh3S2lFUV8wQ3YzRU1ueklPRDcyaVhZTUMtLTl2ekFPMXl6NkJfdl9ONW9QQjIzeDFTZTd1U09ObVFwaGlYckFsREZDTkdmQ2ItSm9kNW5yNm9HWldVQjFPQ2JRUzhBVjdPYkhGMXRpcDYyb0JIWWtOSXNwOXNZSDN4QUFTVzMwN0ItSGRXdXluZkVfeU1EZC0xb1YtT1NrV1lB?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-14T12:30:00.000Z",
-     "seen": "2026-11-14T18:29:59.570Z"
     }
    ]
   }
