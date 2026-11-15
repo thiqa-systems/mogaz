@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:00:26.664Z",
+ "updated": "2026-11-15T02:10:26.291Z",
  "minute": [
   "أعلنت وزارة العمل عن توفير 620 فرصة عمل في قطاع الأمن والحراسة برواتب تصل إلى 11 ألف جنيه، بالتوازي مع متابعة تحديثات أسعار صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى الصعيد الإقليمي والدولي، تتواصل المتابعات للتطورات السياسية والعسكرية، شملت تقارير حول دراسة تعليق الضربات على إيران وأحداث غزة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T01:50:26.594Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T02:10:26.291Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62684,
-   "change": -8.15,
-   "asOf": "2026-11-15T02:00:23.000Z",
+   "value": 63814,
+   "change": -6.5,
+   "asOf": "2026-11-15T02:11:46.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "«العربية اتعجنت».. الإعلامي شريف فؤاد يكشف تفاصيل نجاة نجله من حادث مروّع: «ربنا كتب له عمرًا جديدًا»",
+     "url": "https://www.elbalad.news/7180944",
+     "source": "صدى البلد",
+     "time": "2026-11-15T02:07:18.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
+     "title": "الدعاء قبل صلاة الفجر بنصف ساعة .. أذكار وأدعية أوصى بها النبي مُستجابة",
+     "url": "https://www.elbalad.news/7180136",
+     "source": "صدى البلد",
+     "time": "2026-11-15T02:07:00.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
+     "title": "«أختكم بتتخطف» .. تفاصيل مُثيرة في رواية «الزوزات» عن مُحاولة خطف شقيقتهما وطفلها",
+     "url": "https://www.elbalad.news/7180943",
+     "source": "صدى البلد",
+     "time": "2026-11-15T02:01:47.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
+     "title": "مواعيد القطارات على خط أسوان / القاهرة والعكس.. اليوم الأحد 15/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/15/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الأحد-15/7617861",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T02:00:00.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
      "title": "ارتفاع إنتاج الأسماك في مصر لـ2.1 مليون طن ونسبة الاكتفاء الذاتي إلى 93.5%",
      "url": "https://www.youm7.com/story/2026/11/15/ارتفاع-إنتاج-الأسماك-في-مصر-لـ2-1-مليون-طن-ونسبة/7610211",
      "source": "اليوم السابع",
@@ -144,40 +174,11 @@
      "seen": "2026-11-15T02:00:26.664Z"
     },
     {
-     "title": "هشام حنفي: بصمة علي ماهر ظهرت مع منتخب مصر أمام مالاوي.. ومباراة الأهلي وبيراميدز «صعبة»",
-     "url": "https://www.elbalad.news/7180934",
-     "source": "صدى البلد",
-     "time": "2026-11-15T02:00:00.000Z",
-     "seen": "2026-11-15T02:00:26.664Z"
-    },
-    {
-     "title": "تجديد حبس صانعة محتوى بتهمة نشر فيديوهات خادشة على صفحتها بمواقع التواصل الاجتماعي",
-     "url": "https://www.elbalad.news/7180907",
-     "source": "صدى البلد",
-     "time": "2026-11-15T02:00:00.000Z",
-     "seen": "2026-11-15T02:00:26.664Z"
-    },
-    {
-     "title": "خبير توظيف: الوقت أهم مورد في حياة الإنسان.. والتحقق من احتياجات السوق سر نجاح المشروعات",
-     "url": "https://www.elbalad.news/7180761",
-     "source": "صدى البلد",
-     "time": "2026-11-15T02:00:00.000Z",
-     "seen": "2026-11-15T02:00:26.664Z"
-    },
-    {
-     "title": "المستشار حسام الدين علام يعلن الترشح لانتخابات نادى مستشارى قضايا الدولة",
-     "url": "https://www.youm7.com/story/2026/11/15/المستشار-حسام-الدين-علام-يعلن-الترشح-لانتخابات-نادى-مستشارى-قضايا/7618670",
+     "title": "كمال ريان: جولة «مدبولي» في ميت غمر تجسد العدالة التنموية",
+     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNay12QW9QZGtjMU1OVEZheXNDYXhqNzJYUTN4QXF5YXU3WElsTlc4eXQ3MEdVd2dBX0EwbWZxN3BWWTJHSU9rQmpFTlZfcUxGNm9OcDRvMGxBTkdubXhZUUh3MGFJSlFWdXpFTlZ0MWhPMWJkYzJ4SWVVUktsOWNyOGNiMkhUbWh5TE9SblZla0hGU25fVHk3TUVQYWpWODJrUUQwSUR3eEF1Q0k5cXJVRFZhYjVGbm80NEFzSEpCMkZTZHhNQ05VV2xKSThQT0lxZTlraEJiQmRqb2QwUXhSVTBUMDFGYmNWcWZRZmNydzljT2JaRHBMMFU1Z0w2ZXg5Tk4tOG5rckRvNkNLZE1IU2lrRW10NFdsOXNsYmRfRXJabi0xVVlTMVBOd054MldPcFAzM3pybmI4aFdxaWU5WHNVTmhJUDdMdWZYb25Id1c1ZEZNOWY1cmI4TWxjNjYwOXNCUEp1MUdHN3NSV2d3N3VzMDZVTEc2QzItSUgtcC1VdExuaDM5MXh6MEhiUEFtN21rSGNzRHduRmdwdEI3M2I3U0hBWVA2MVJkNnhOdjBFenZaX0loanpwbzBlV01xYlYtdTBRQmxmd0NscXZIdVlreDdpVnAyZDhqZjFjb9IB2gNBVV95cUxPODhpcWg0WFp3Y2c2THR1aHBPcnFqQnFNVWVXRmVtTjVNNE0tTjVCOVAyck9PRHBpVDdidDJuVnZSQnI0MVZXMEd1eXhaQmpGaWpKTGgwRFp2UWRDVDNlUXp3VXBUcWJrclB4cEFFcUN1ZGJEa09Rc1ptUmFDMFlnMktXd2lEazFFSmNMc2ZLNWJKdFJwZmZ0R1FLVkJSZVYybmNWU3lMWjlvX0FTV0hIMmNIWkdHaWtRa2JWdFJ1UXBsNXhoSnJkcHBhTmpRMHlDQS01X3VFNmg1ZFAtODUzR3VQc29pY3I2aFJId1VrR0pZWTc0WEJMX2ItM2FqWDFTSEk3VkFrc3FlM2paT2tYNC1uaDJ3d0d6dlBHajVFS0kweDlScDJWT0JSa0dDcHloZmRWUy1KQ3hrN2U1SzF0TlJvbEE1UDRkNzBVekRsdFJNOVctbWNCTk9vZE1fbC16YlFZNzcwQ1hEaGY1YlozYnRYQWFISTEzS3RwbnhrcjJCQVNzNWx1MW5LZUdONlNWZ0ZCbEg1Z1ZhbkJSX3NtMU1Jcl9iY25KdjlKUEsxbnJydWhGN09PbHJXNUhtVkhPZjVGdjBCc0R2OGxRanNuMGdORDVsTkJRYXc?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-15T01:03:00.000Z",
-     "seen": "2026-11-15T01:10:26.851Z"
-    },
-    {
-     "title": "برواتب تصل لـ11 ألف جنيه.. «العمل» تعلن عن 620 فرصة عمل بالأمن والحراسة",
-     "url": "https://www.youm7.com/story/2026/11/15/برواتب-تصل-لـ11-ألف-جنيه-«العمل»-تعلن-عن-620-فرصة/7614589",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T01:00:00.000Z",
-     "seen": "2026-11-15T01:00:26.890Z",
-     "impact": "تتيح للباحثين عن عمل في مصر الاطلاع على فرص توظيف جديدة برواتب محددة تحسن مستوى المعيشة."
+     "time": "2026-11-15T02:00:00.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
     },
     {
      "title": "«مدبولي»: الدولة مستمرة في تهيئة مناخ جاذب للاستثمار وتعميق التصنيع المحلي",
@@ -363,6 +364,13 @@
      "seen": "2026-11-15T00:20:26.513Z"
     },
     {
+     "title": "سمير أبو يونس: الجيش الإسرائيلي يستهدف قائد لواء رفح في حماس، والاتحاد الأوروبي يحث على إدخال المساعدات إلى غزة \"دون عوائق\"",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZnVNYU9vaWdYWW5OWnNuZXNNWEM2dzE1RVM2cEJMMzk5UHFWNFZuSm5lanlLN2lHSWdSQm1keWZTRXVCcU56dHVjVzBhSW1zR1dTWFozV1c4d3VGT0HSAWNBVV95cUxOZjVfbEkzWDFZdUF4M0oyS1FsZUF2MXpISXhnODZTbHV1N0JSbEdiVVdEc1kwUXFyQ0NycE5nQjVBb0ozMkJfUWE0Q0pNczRBUmJ5MmtUWnVIZUQ3eGlJS2R4Q1E?oc=5",
+     "source": "BBC",
+     "time": "2026-11-14T23:21:07.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
      "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/ethiopia-levels-new-accusations-against-egypt-over-the-high-dam",
      "source": "CNN بالعربية",
@@ -390,6 +398,13 @@
      "source": "BBC",
      "time": "2026-11-14T22:33:55.000Z",
      "seen": "2026-11-14T23:09:59.245Z"
+    },
+    {
+     "title": "عاجل | وول ستريت جورنال عن مسؤولين أمريكيين: تقدير استخباراتي بامتلاك إيران ما بين 1500 و2500 صاروخ",
+     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%b9%d8%a7%d8%ac%d9%84-%d9%88%d9%88%d9%84-%d8%b3%d8%aa%d8%b1%d9%8a%d8%aa-%d8%ac%d9%88%d8%b1%d9%86%d8%a7%d9%84-%d8%b9%d9%86-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d9%86-18?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-14T22:33:30.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
     },
     {
      "title": "قراءة في أبرز ما تسرب من مطالب روسيا لإنهاء الحرب في أوكرانيا",
@@ -421,6 +436,13 @@
      "seen": "2026-11-14T22:30:00.048Z"
     },
     {
+     "title": "ستارشيب تنجح في العودة إلى موقع إطلاقها بأميركا لأول مرة",
+     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNN3ZLUjY3Zm1WN29UTGs0V3AyMmZmMzFQLXVheXFWVlU4TVNMYUJ2ZHZDQ1d6eEM3Q25BbW9jbUhtbUE0OC16ZUtiZDh5YTE5QjlTcm5FZFN3NEJiOXpKV0FlNTlzQk9jd0pxcEV6RmhibUlDalU3eHFiWmV3a0xDbm9HOWVCbjRCaTY2cjU0NXIwMUpvZjVjbnh3czVLV1NfVDBCbWVnb19yb3FTS0szR0NxNXgwaFB4RUJKU0RWVU13d3ltVmhwN2FiTDNqeGJMT3RXQ2pmQVh4eWIxdnF4Zk5icUxpblJJQk1GYk1HZ0RIMkZRSjBvdjJVRy1tdWpzb013bUp2YnlzY05Zd0FwdHM2Q2s2WjlPVTFWNmQyelNnanp0TDBwZ1Y5UFJrblJiTDFhb3BrR1QxeXhaaFNKQXhGU0MxZ2VyU0JmTjlaYVJkQ1pjYzlRdHpnUHVyaE5CMkdxTUFfMGxtTDdEczExMldkOEdiQi1ZYy0xbFVxSmgxMTZqakFNNEdSbzBMZ241WV9ETi1yWnM2eTdMeTgtWXdiNEJ4TE1icjlZMzRCckpKY1Z0b0c5UmFsejJVNWxHbEFPelBaSHVmRXJ5enVwNG9ZdDdKOE92bm5nbWc4UdIB5ANBVV95cUxPeGx3dVFBbWV6cXJzUW1wT1ZQLUpkUVQwOXFPR3hkQlJERkl2eHpCVU9aNk5BbnRENW9RUVA5eFdNMlZYYlVTY211dC14Nmg5dFlPVkVUOFJXdElwUU9sMEZLU255TGFtenRlaUFReXhFV1JfeTh0MXcyRnVJZmlFNGM0NmI1cllRX09UMVRZTngtTDBpcXA2OTlyRjJtTjlUeXlIX2N4UFFEY2YwRXFfR3JOS01DalEyRng1SGgtaVNkTHkwczdXajYwUnhad0hYOUdvbWlxQkU1YzVkQVAwUEdxSkZfM0hRYXZuUTY5X2VsNkpmUlc5UXEzUVViY1MxT1pUSkhIVXV2Nk9XcmkxSkVKZVZOUG90dUxmejRiSmlpNzQ2blFfMWwxMTlGWk9UcG1KWDFCcVduOTdEc0kyWHc5V2xhNnh6eTVBLUFFNnRFR0JvTHJFamhWVHhraGdiQjZmeXZMQ2RNQ0ctTE1NbkFMeHZrbF9zRG5CQ1dSV1NfM09sdkFiSVo4RTVBa3d6WWFidlJDY1ZSWmU4N0w5bFp5X29UWDViTU1PMS1kMDJYVVJsR2ZRZmNpRTlQUWc2bTdTU1VGeHZ0QXlkaVFfdkJEUnJ3VWZra3pvMjctV0dJempr?oc=5",
+     "source": "العربية",
+     "time": "2026-11-14T22:13:00.000Z",
+     "seen": "2026-11-15T02:10:26.291Z"
+    },
+    {
      "title": "إيران تعلن اصطدام ناقلات نفط بألغام في مضيق هرمز والأمم المتحدة تدعو للسماح بعبور الأسمدة فورا",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261114-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%AF%D8%A9",
      "source": "فرانس 24",
@@ -434,27 +456,6 @@
      "source": "الجزيرة",
      "time": "2026-11-14T21:13:02.000Z",
      "seen": "2026-11-15T00:40:26.908Z"
-    },
-    {
-     "title": "أمريكا تسعى إلى اتصالات بين أوروبا وروسيا وماكرون ينتقد دعوات تقليص المعونات لأوكرانيا",
-     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%ae%d8%a8%d8%b1-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-2?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-14T20:50:27.000Z",
-     "seen": "2026-11-15T00:00:00.040Z"
-    },
-    {
-     "title": "العراق ـ وسط توترات مع فصيل مقرب من طهران.. الزيدي يقيل تسعة مسؤولين",
-     "url": "https://www.dw.com/ar/العراق-ـ-وسط-توترات-مع-فصيل-مقرب-من-طهران-الزيدي-يقيل-تسعة-مسؤولين/live-79926107?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-14T20:40:00.000Z",
-     "seen": "2026-11-14T20:50:00.127Z"
-    },
-    {
-     "title": "حماس تعلن استشهاد قائد لواء رفح في غارة إسرائيلية على خان يونس",
-     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-%d9%82%d8%a7%d8%a6%d8%af-%d9%84%d9%88%d8%a7%d8%a1-%d8%b1%d9%81%d8%ad-%d9%81%d9%8a-%d8%ba%d8%a7%d8%b1%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-14T20:10:32.000Z",
-     "seen": "2026-11-14T23:49:59.742Z"
     }
    ]
   },
