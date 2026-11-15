@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:24:30.211Z",
+ "updated": "2026-11-15T23:34:30.138Z",
  "minute": [
   "شهدت الأخبار الاقتصادية ثبات سعر الدولار بالبنوك المصرية وتحديد موعد اجتماع البنك المركزي الأخير في 2026 لحسم أسعار الفائدة.",
   "على المستوى الدولي والإقليمي، تواصلت التحركات العسكرية بالمنطقة مع صدور بيانات تطالب بإدخال المساعدات إلى غزة وتأثيرات على خطوط النفط.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T23:14:30.146Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-15T23:34:30.138Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5875,
-   "change": 0.62,
-   "asOf": "2026-11-15T23:14:31.000Z",
+   "value": 5872,
+   "change": 0.56,
+   "asOf": "2026-11-15T23:25:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6708,
-   "change": 0.62,
-   "asOf": "2026-11-15T23:14:31.000Z",
+   "value": 6704,
+   "change": 0.56,
+   "asOf": "2026-11-15T23:25:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3886,
-   "change": -0.02,
-   "asOf": "2026-11-15T23:14:31.000Z",
+   "value": 3883,
+   "change": -0.08,
+   "asOf": "2026-11-15T23:25:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1023,
-   "change": -0.25,
-   "asOf": "2026-11-15T23:23:44.000Z",
+   "value": 1.1024,
+   "change": -0.24,
+   "asOf": "2026-11-15T23:34:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.2,
-   "change": -0.67,
-   "asOf": "2026-11-15T23:13:26.000Z",
+   "value": 95.44,
+   "change": -0.42,
+   "asOf": "2026-11-15T23:22:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65067,
-   "change": 1.46,
-   "asOf": "2026-11-15T23:24:28.000Z",
+   "value": 65037,
+   "change": 1.42,
+   "asOf": "2026-11-15T23:35:30.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "مش هتصدق.. أفضل وقت لشرب عصير الرمان لتحسين ضغط الدم",
+     "url": "https://www.elbalad.news/7177636",
+     "source": "صدى البلد",
+     "time": "2026-11-15T23:24:13.000Z",
+     "seen": "2026-11-15T23:34:30.138Z"
+    },
+    {
      "title": "جراديشار عن إمام عاشور: لاعب كسول وأناني",
      "url": "https://www.elbalad.news/7182264",
      "source": "صدى البلد",
@@ -149,13 +158,6 @@
      "source": "صدى البلد",
      "time": "2026-11-15T23:14:15.000Z",
      "seen": "2026-11-15T23:24:30.211Z"
-    },
-    {
-     "title": "حكم تغطية بعض الوجه في الصلاة بسبب البرد الشديد.. الإفتاء توضح",
-     "url": "https://www.elbalad.news/7182246",
-     "source": "صدى البلد",
-     "time": "2026-11-15T23:09:30.000Z",
-     "seen": "2026-11-15T23:14:30.146Z"
     },
     {
      "title": "الحسابات الفلكية تكشف موعد غرة شهر رجب وأول أيامه لعام 1448 هجرياً",
@@ -274,6 +276,13 @@
      "impact": "يدعم التوجه الألماني لتعزيز التصنيع والتصدير في مصر فرص النمو الاقتصادي وجذب الاستثمارات المباشرة."
     },
     {
+     "title": "سعر الذهب عيار 14 اليوم الاثنين 16 نوفمبر يصل إلى 3983 جنيهًا",
+     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQQjdmODlkZVgwR2s3SkFKVDBNMy01SXBQWkdDcjFRaWN4bExOdzc2R0xST3RqSVVULWdHLTc4Ync4WnFsTXhXLVVDQ3piZzIxWnIxbF8wdk5nQWl0NzNYOFE4aFpyUHNHVk5BWGdzdHp6TmxfN1YyYWI3UDlfNG1nVGxiTXhPUEstTFlzUEZFeURmNGx1TmdwWUVUWjh1cWVlV09kMC15cExqb1hHcEJZeHE4Mzcxb2JNd1o3WG5fLVBCczVucUJaSGZ4SXIwYXdqOUs4eVNkTHNJRGNwdUR1RFNNOUMydy11NVJ4dm9XRnJTZUN6ZXdVQkJ3WHdwUzdxdEpZY2tCOElGUkJqMDRkbnlRallYTkhwcGViSlFmMFc1bTV1Tnl6Z0JFT3NMTkhIMDBJNFFCaWdEeTNSME5ZaDBVZTlBb2JIMjVZSjdvcS1mQk9USnl0VWtIWk9jZmJyTkFULXRVQ1VLeTZkb2RnZ05zS3BCQkxyUzFnZV96TEsxWkNZb3hvTlZKSUzSAYcDQVVfeXFMUGFZZ0NudTRVdFpBQUJRM3ZBMTF1bVVEX1A1dVBLMnJ5eG1yRUs0SXBBeFNlWXg0dXZvcm11NjA2Q3VzR24yX215T2ZZUVpwUXB1WXpwVndwY29sZ0tSWFV5X2FiMXlkYVFXS20yMVFaYlpTOWl2VXlwb0xia1pwWXhLNmlKdzdwNlg4S1h1ZExqR0Ita3NxNnVhVEc3aEt5U1dfRW14RXdodXFCR0ZOZ3hCYzdPUVlkNGNaT2R0LUh0cmVkNW9FWVFwb0NNdnlsMlJvNDBhU3JhRUVUY1gzVzBST19ITjV6SEEya3F5dnVodzlNN2dUOFIybVJveFBQRVhtcHNGVDZCR0dLQ1ZqZHhQeWxGampROUczUFIxMFVWSlJ0MFhPc2tUVHFGMmtfU09kUnp4aDRxOWVJTlpMMjFVNW92bU5VMzl5U2hlVDNnWkFCQ0o1RVYwQ3pRdzA0OVUtem9nWTlxcW5Ra0NTd3VXVWlCRlN4QjBhM0xIUi1YOTQwQlVYdw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T22:00:00.000Z",
+     "seen": "2026-11-15T23:34:30.138Z"
+    },
+    {
      "title": "ثبات سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين 16 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQdHdXQ0R5Tk9RTnFFTjdUUDVxS1o0T2p4MlVOZ3JTNXcyZmtGMVFYOHVaRU52V3VVX1pJcmpoMVB6RklybG8yWVhrSlVNLXVSNm1mejQ3azJObkdnd2FwV1A2UXc3VkpWdGQ5YmhkRS02azY2eFcwVHIxR1FFcUJEZm45VzcxYXFOYWlwQXUtM1d0VzhQM0RtaloxMFF1RElMOVlTOU56S2hsNjlmbjh4TmM3czFFeE9uS3RmZEVpZ3NKbWV0N2dDR2pZS1pEV1VaUjVwMzd1Z19JbXYya0ZQVll6S01yZlgwQzBGcVhZT2Y3ZTV3LVdaWl9FZzZRczJHSHJTbzYxYkVycnoxYjhiYjBUVjUtMUh3OUZfYl9jSS1yQjFGa1gtV3NpYXF2SXNxN1VyRUEtQjZQLTRsTm5tUC11UkJJa2UtTWtLLU1ta05nRWVpNGE5MU5BU29ockc2LUh2eFNGZ0k1eG5naXVZUWh5cGhTRk83WTlnblZUSmF4UmhobVFwZk51OFpPaXhlc2FESC1IV3NrTkxYbEhyTXlRRElNYkEtLXlfVVZQQ3JMNjlPbEVVYkFVMWR6anR5OUZjc00yQ09hajdMWTdJalFn0gHMA0FVX3lxTE01SnlINmxfSmtUV0VWWE9SNkNQYnRXZHFCTWh5SDY2djA1alRJTmVjTEZUOGozam9TSkt4eUpTS0R1QlFkdElwUWJrMEUwbmFSaVhpR3E1ZFZpbm8xQWd6ZV91eUdRRGFVdVJycWMwVEZDN2xHNHFjYXdfSW9VdUd0WVVQa1pscF90bThEVXZReDJHMGRqUERacHFrVEloT0xScFVPaFFDSHdEdkdVOWNPQzF3bjFkSnZ5QlFZNXhBQjljQUd0RFotMjB1eTBOQV9xQjFWT29FZTItR3BZU2Zud0hsSTV2dEQybFZhU3RkcWFGWHQzcE4wQTFaTjBoRUdFUFdYU0lEZVlneG9xekdWNjZvQUEtWFZid3V3dmRMWjR4M0RYWW5TeUY0aEtkZHRnYl83RjBWMmhfbGJQRXBiMndKbXRFb2pydklzQ2RYZFRIREh3Nk1BVV9hdE9HSFFUejdCckJDcUo0STlfd2JqdngwSGg0cWcxblI5NGpKM241V1hidUlqVnFVZFhXeVdOeDlhNnRGRW12ZDZuM3pEYVVzNUdzZ2luVGNQLWJvRXFzOUZCQW5CTThFclhCQUxjQXBuZDhRU3ZaLV8?oc=5",
      "source": "اليوم السابع",
@@ -341,13 +350,6 @@
      "time": "2026-11-15T19:08:00.000Z",
      "seen": "2026-11-15T19:13:42.475Z",
      "impact": "ارتفاع سعر الدولار في البنوك يهم المتعاملين بالعملة الأجنبية والمستوردين والمستثمرين لتحديد تكاليف أعمالهم وإدارة المخاطر."
-    },
-    {
-     "title": "ميغا سبييد: المشتبه بها بالتجسس للصين والتي ارتبط اسمها بالرئيس السابق لإنفيديا غادرت منصبها في 2025",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MTmJzTkxYajNkYTFibmhJYmVDNmRON0FmX3BvYnRNeFUxZjBMSUc1T0R4SUJhTzRUY0d0blFCN2M4RnRHN1dnU05TZWtnZmhBaWRQVDVWdlBxREtKSXfSAWNBVV95cUxNQUgxdVU5SFlsa2FhUFFybmlHU3NPcDVraHI5bTZVcVBXc1BJcTVobXFiRkhxWEl5Q044VFBTUlVHUEVNSjdTM1AtWnpjbUt6Z1ByYk1MY2lhTkJQbXNhdFBqcmM?oc=5",
-     "source": "BBC",
-     "time": "2026-11-15T18:37:47.000Z",
-     "seen": "2026-11-15T20:13:42.426Z"
     }
    ]
   },
@@ -520,6 +522,13 @@
      "seen": "2026-11-15T17:33:42.307Z"
     },
     {
+     "title": "أدباء: الحكاية باقية رغم تحديات الذكاء الاصطناعي",
+     "url": "https://www.alwatan.com.sa/article/1189337",
+     "source": "جريدة الوطن السعودية",
+     "time": "2026-11-15T14:20:00.000Z",
+     "seen": "2026-11-15T23:34:30.138Z"
+    },
+    {
      "title": "مشاركون في “كوب 31” يحذرون من مخاطر الذكاء الاصطناعي على ‏الطاقة والنقل",
      "url": "https://sana.sy/international/2636222/",
      "source": "الوكالة العربية السورية للأنباء",
@@ -543,26 +552,19 @@
      "impact": "التحديات المتعلقة بالغش عبر الذكاء الاصطناعي تنبه المؤسسات إلى ضرورة تحديث معايير الأمان والنزاهة في الاختبارات."
     },
     {
+     "title": "الذكاء الاصطناعي قد يجعل ريادة الأعمال وظيفة المستقبل اليومية",
+     "url": "https://www.msn.com/ar-sa/money/news/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%82%D8%AF-%D9%8A%D8%AC%D8%B9%D9%84-%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%88%D8%B8%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9/ar-AA2hvhQ2",
+     "source": "CNBC عربية",
+     "time": "2026-11-15T13:21:40.000Z",
+     "seen": "2026-11-15T23:34:30.138Z"
+    },
+    {
      "title": "دون عجلة قيادة أو دواسات.. تسلا تفتح باب حجز «سايبر كاب» بشروط غير متوقعة",
      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNam1ZT3p2N1pyVHdEZEJlN3o3T3Bmd3pJTGRoWWxpdzJLUUJRa29qLXRJNkY3Z2FFRzNPMXFURTd0VF9iamR6ODdxWFVoT3FpbUJ0cHhaeDJ1TERNeTZJTDFuQzMwTFdNUDJKcGdBNllPa3hjOHdCb1pDZkxSWWVtUTNOTlN2R0hIWTRSX2hUYlZRMzQwdDN1QldYcjR6MEZBRHppYnN2d3BTVXFpaE10STlRNmZQcnhxeU5VMXhRUGQyWUp2b1lXXzNPSzBOSXEzVzRfNVp2NHpTY05maWlBQWpiZEhCRVlOaFBkUGpEa2VpTUlYb0NEcjc3UzZSZ01Jc0ZjM1ZYaDhEMkRPdWtQd1ZvT01abG8wYlh2dGU4ZVhGQmZnNUF5OWxEQjZac2ZiUkpQT1JMUXdNUWlhY3M0VzFfZDBXLUl1VjE4Z0ZBVlJ0czFuRUtlMFFHaW5abm5vLUVNVUxoYVpGcmxyZEtTRm1PWXY2dVZVRUd5NXNhdG8xbGNiX2ZLN1JoVUhRVTVodFZLVEJPNWFVQzE3OV9hZk9JdjJFeWvSAaIDQVVfeXFMUG9wNHJ1R0ZjUldraG5NRG5Ba1d1bEdWbUNxUlJWMmVFWEdYdWhpck9TQ0FiWlVnVC1UT0ZFajhyNURBalJKRDktYUdEekRCa3hYaUlnMmppdUlkLVAyR1F0SDRtLTJJOG1TUE9YVkV2QmQ0OHVodEVnbml3UVY1Mm9GM1RycEpwYjRiVktjWkFwUnpaOXFteTUtRHdvQmRwSkZOVU9aRGN6Qm5Ld05QWnlBVlJZZTczbEdBX2hVSGhsWHEwYzM4eTd3VUs0NUFGbkYxNmlWX3gtcElCMXp4R1BLNFpGMC1OSXludi1hQlk5NF9LNVBtY1lJbVFQdVFNaDRob0dkbE9Jb0RFYmVacXlMQjYtanF4Qm0yU3lmTjA5eGlhWFRmMjh5X2QwbXZvY05EeEthMzJkS0Nra1dzOU1wYjNvNlY3OWZraS05b1BvY0xYU2lQTlkzREpvcmF5M204cE9pS3M4TEhxSTlQY2lRc3ZiV2JIcTJBdmZqdVVsN2x6XzNHb2tOTHBpS3h5MXlQc283YVJLNnRLdkVBbmlfZw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-15T13:00:00.000Z",
      "seen": "2026-11-15T13:32:09.595Z",
      "impact": "يوفر فتح حجز مركبة تسلا الجديدة للمهتمين بقطاع السيارات والتكنولوجيا في مصر فكرة عن اتجاهات الأسعار والتقنيات الحديثة."
-    },
-    {
-     "title": "الذكاء الاصطناعي يدخل عالم العطور.. ثورة تكنولوجية تعيد ابتكار الروائح",
-     "url": "https://www.almasryalyoum.com/news/details/4411311",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T12:50:00.000Z",
-     "seen": "2026-11-15T20:53:42.257Z"
-    },
-    {
-     "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
-     "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-15T11:37:04.000Z",
-     "seen": "2026-11-15T09:11:55.978Z"
     }
    ]
   }
