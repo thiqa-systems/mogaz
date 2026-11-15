@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:12:09.292Z",
+ "updated": "2026-11-15T15:22:09.981Z",
  "minute": [
   "تتناول الأخبار المصرية متابعة أسعار الدولار مقابل الجنيه وتفاصيل شهادات الادخار الجديدة وحالة الطقس المرتقبة.",
   "استعرض رئيس الوزراء نتائج قافلة طبية في الإسكندرية، بينما تواصل المنتخبات والفرق الرياضية تدريباتها واستعداداتها.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T15:02:09.759Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T15:22:09.981Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64659,
-   "change": 0.83,
-   "asOf": "2026-11-15T15:12:09.000Z",
+   "value": 64674,
+   "change": 0.85,
+   "asOf": "2026-11-15T15:23:22.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استعدادا لـ الجونة.. موقف الغيابات والإصابات في صفوف الزمالك بـ الدوري",
-     "url": "https://www.elbalad.news/7181675",
+     "title": "القبض على عاطل تحرش بفتاة داخل ميكروباص بالجيزة",
+     "url": "https://www.elbalad.news/7181677",
      "source": "صدى البلد",
-     "time": "2026-11-15T15:11:53.000Z",
-     "seen": "2026-11-15T15:12:09.292Z"
+     "time": "2026-11-15T15:21:21.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
     },
     {
-     "title": "وزير البترول يعرض رؤية مصر لتحقيق السلام والاستقرار أمام قمة الفرانكوفونية",
-     "url": "https://www.elbalad.news/7181568",
+     "title": "1000 إصابة بالفيروس.. البرازيل تسجل أول وفاة بجدري القرود في 2026",
+     "url": "https://www.elbalad.news/7181622",
      "source": "صدى البلد",
-     "time": "2026-11-15T15:09:59.000Z",
-     "seen": "2026-11-15T15:12:09.292Z"
+     "time": "2026-11-15T15:21:02.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
     },
     {
-     "title": "صلاح ومحمد هاني يقودان التشكيل المثالي للجولة الثالثة من تصفيات أمم إفريقيا",
-     "url": "https://www.elbalad.news/7181665",
+     "title": "بعد مشاجرة بينهم.. القبض على المتهمين بالإصطدام بشخص بسيارة نقل في البحيرة",
+     "url": "https://www.elbalad.news/7181671",
      "source": "صدى البلد",
-     "time": "2026-11-15T15:09:24.000Z",
-     "seen": "2026-11-15T15:12:09.292Z"
+     "time": "2026-11-15T15:20:34.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
+    },
+    {
+     "title": "من الوصول للمغادرة.. رحلة علاج الأشقاء الفلسطينيين القادمين من غزة",
+     "url": "https://www.youm7.com/story/2026/11/15/من-الوصول-للمغادرة-رحلة-علاج-الأشقاء-الفلسطينيين-القادمين-من-غزة/7619518",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T15:15:00.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
+    },
+    {
+     "title": "سفير كندا يحيي ذكرى ميلاد طه حسين بزيارة ضريحه واقتباس من الأيام",
+     "url": "https://www.youm7.com/story/2026/11/15/سفير-كندا-يحيي-ذكرى-ميلاد-طه-حسين-بزيارة-ضريحه-واقتباس/7619490",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T15:12:00.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
     },
     {
      "title": "برئاسة مدبولي وعضوية 14 وزيرًا.. تشكيل لجنة عليا لإدارة السواحل المصرية",
@@ -171,21 +187,6 @@
      "time": "2026-11-15T15:01:00.000Z",
      "seen": "2026-11-15T15:02:09.759Z",
      "impact": "يهم الأفراد في محافظة الإسكندرية لمتابعة نتائج الخدمات الصحية والطبية المقدمة لهم."
-    },
-    {
-     "title": "الطقس غدا.. شبورة كثيفة تصل للضباب وانخفاض الرؤية والصغرى بالقاهرة 17 درجة",
-     "url": "https://www.youm7.com/story/2026/11/15/الطقس-غدا-شبورة-كثيفة-تصل-للضباب-وانخفاض-الرؤية-والصغرى-بالقاهرة/7619083",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T15:00:00.000Z",
-     "seen": "2026-11-15T15:02:09.759Z",
-     "impact": "يهم الأفراد لتوخي الحذر أثناء القيادة بسبب الشبورة الكثيفة التي تصل للضباب وانخفاض الرؤية."
-    },
-    {
-     "title": "محافظ القاهرة يتفقد القافلة الطبية ومبادرة التوعية الصحية بالأسمرات",
-     "url": "https://www.youm7.com/story/2026/11/15/محافظ-القاهرة-يتفقد-القافلة-الطبية-ومبادرة-التوعية-الصحية-بالأسمرات/7619501",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T14:55:00.000Z",
-     "seen": "2026-11-15T15:02:09.759Z"
     },
     {
      "title": "الكشف على 3180 مواطنا.. مدبولي يستعرض حصاد قافلة طبية مجانية بالإسكندرية",
@@ -210,13 +211,6 @@
      "impact": "يهتم المستثمرون والمصدرون في مصر بمتابعة تفعيل هيئة ضمان مخاطر الصادرات والاستغلال الأمثل لمراكز التدريب الحكومية."
     },
     {
-     "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkM3d0ZFM1dEb1J5eGYxRXU2U1ZaZnJMR3FHcjV4aURXUk5YR3lvNklHdWpOM3FxZ0tRMGwzek95NnhocWhwa0pkUnBINlBZN3RfZFBVQTk2NU1kQlVMSmRWamt2eng4OGZmNnhtWU1LQkJ3YzFXUTFrLTB1RllQVTlsemFzY250bm5jZ09JeGZwNEI5cWVCbDZBbzFQRHFiZG1MQmFnVzctLWZ2Zmx6MGFUU0FMOC1NYWx1YUtQUzZsdG42ZFBKQllvZWw?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-15T13:44:14.000Z",
-     "seen": "2026-11-15T15:02:09.759Z"
-    },
-    {
      "title": "عبر 1650 منشأة وسداً.. مصر تحول السيول لثروة مائية",
      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQX1RYTVdmOHRqTHZrMkhYZUtfMmNTQUJMd1RZdHp0dDBLQnplS24yRzNDeE1PemtZQThEbEdTRlNCdC1OTTNkSFZyUElBaGNsOUJwUF9Pd05rYWFPbEpXSjhla3Mtay02LXpycUl4RWctcGJDRUw2MFBfNWUzLXdvaGVGTnFKT2lWWUUxM05wbTBOMXpGQ0doRzlBUHFHUEM1MkctR1FOaUpnc00wWVFHMG9aTmE3SnY0YjNWdnA5djBCSjluci1WVkZST0ZmWGRDdFVINEh3SlIwQlo2cVBkNkhhNVdzYjY1RkFKaV9EQS1LX1BycGREa1l3UUNPQnFrWS1JMlhWME9TVWRTeEFBVjhvUndCR3Q1QUVwRS0zMGZNWXVWbVMxa1hndlljbjkyT2trNTZFQ2lsc1VfNERkYmhRbWVZb0sxenN2V0RNdm8xajNWT01JY1FtZGNISE5FeDV6ZVNGcDE3NnBWeGtKeFNnUjRmU2VZ0gH-AkFVX3lxTE1xX09NUENRbVVQM0lCNjdkVWtyNDFfQWtOVHB3RnpxMFQyZklQYXMxdVBQVEMxdDZaX05CY3NFdXJCS2g0cnoyWVJTYmJMRmdxemI2TWJORmlNQURvM1BrV0FwNU43dWNuMXIxNEZOMEo4eEVsZVJJdjRCTDY1ekg1aHdZWFBCUWhXOVpHWjltY3BfQWpLUkFSdlBILWRuMEdKNEhoR3gtZ3JXejRNX3V6U1oxdmYyVlJqS0o2V3NqR1k0MHVzcnhFZGZBNFlCcHVIdjBhZmxnY2QtWDBQZFI1RjFyb1RnU3pYb0JoajdMaWtvQXJjY3h0VnhDVjJWN0VVcVZsLTNpeVBoX0VNMGtrN3JhMzNfSmZxOWdQVUstZzdQWFlxNTJWaXdiWDRrekJHWEsxbEEtZXVFZGI4NmlZYXJxQ2lyNVhmXzB4V3VTcjFMd1JYSEVUakV6enF3cEhuakZrNHJydDAzOEJMYmNnZkRyVWRXLUpTNmFUT1E?oc=5",
      "source": "العربية",
@@ -237,6 +231,13 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T11:31:00.000Z",
      "seen": "2026-11-15T11:42:09.499Z"
+    },
+    {
+     "title": "السيسي يوجه بإطلاق أدوات دفع إلكتروني جديدة وتمويلات مبتكرة للبنية الأساسية",
+     "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxNejMyWXVwNHMyMWU1bnpQNmxUanByTU1oSXRpLXB0ZlZqVWRSRHRoRE5tcFptYVhnLVh3eFNHTk9oSHdlbXNSSXdtYWk3cUZxY2ExZUNCUXJTMDFnbFQ4T3BkUzVrTWVvQmpzaHNfZ0g4cXM4UkpGU2l2emRwNWVzOFN0aENrUDhGSjZvdWRJalNjZG5EQnVMTGV1dl9RNTRIcExZamd3T2ZzQS1zT1dabDdqOVZGdWYwVHZCclFScTZfVTlPak9HUk5QcVdzZUMtNGVXcnRLN2N3dkpXZzZrVTFManpXMTZQR1VCRm1IbDhDMzJ6QUhlanFyZUxSaHZuMkwzQ2p6SmtPYkFTdXMxZXNrVEZrUXFnc0N4ZUgtZWlpSXpwWWR0S2g5SGREcE5nNFlUaXZDWjhDQ3Vub01RbVE5bnVyeTQ3by1DZHhvbjBQQzZicHhERzE1LTZhNEsxUVVsZEpWOHdUcGY5MDVfQXFPTU95VVRuSzZ1QkNpVmZWVnkyMzJ4WG5TOW45VFBPTU5yQUh2bm02MUFsUG42ZXp6TzJUSDFQeFFDdTk3X3lpMFJQaVBOUTRMMVdvcGZ6NVpmVmpKUkp5TnBXUTZXcU4tS1N1c0hXNXF1NDJMMFJPcUtkMk40ZS1uVVZkN0xPS1FWN2xKSFVDUk9lY09YeTlHVjJ6YzctQzBZMjk0anZyNk9CMmg1d0NKdERrUVdYaGRPZmtWelFGVWlLblhPOUVUa05TcVVFcHdXREV2b2NuUUc5aGZJcG1TSkNRbzNDeHVxMFpXN19PSFQyd2dsREZRdWxFTjJkdjV4X0s1WEhTTzI1X0VGRkk4ZDhNTEJPcjRmVURlX1VtbnPSAZAFQVVfeXFMTjJ4TE9GaE9haXFJRmRsdUpEQXlwWDg0cDNhR3h6QW5CNG95MEhIam83Q0tJZWlwN0FoQi16MFVEVFVxbjZmSWdPWjlCQTdCZUZGa25kVEpmZ1JUUzVYdGZmenRpdmEtZjlrS2x0M1BsVHIxa2xveDVfb2FhbTRWbW0zei1iQm5JRHVOTUFKd0RVZi1OYVlCNlJMaTRmaXRSVU9XdWU3cGVEcEdZa1NrZFRQcG5KT1FLOGJ5Q0NBakFWOUM2QVU2a1ZpWmk5dFlMQkx5Z3ZxS1RSakV4Xy1BQnpoakZ2MlFFNzRiZklKd3VXc0xRd0laaTBXZnV0b25lano3VTUtOWdrUTJDNW5oRDVEZmdDWTRGZGxwMTVDQzhsSkEyeDRrNG5VVVZiZmtONUFoSHA1SWRpV1FLQU5qWlQyRGdFWGlSdmNrWThPVGRRbVExa0I2MzVtQTN5cHpiVlJlQzA2VU9iRVExV2hfck03VDNYRUJlUzVQMEZiQ0FCY1NOS0NKSU1pU0JyR0tlTnhsaFMxTi1uNHhVV2pKbmtST1ZYMkJWSXp3bU9fcUItYUEyMzRmUDJpQ3FqSTlzUGttb1E5S0t3ZEozT241TnRIYm05WF9PN2Z5Sk4xcXBKZUMtYmIxZlZrTEtHeG9GM3c2VVpLbzRZb2M0dVUzN0VfNmR2UW5NZVVHcGkxYTQ5SkVvV3VvY29sOWE3S3lhQ1JPTzhfaC1hMTQ5WW5wWlVXb0ZJYWswTEhmaHBfc3hkQ1Zud1VaZ1RaYmNSZTJCUzJfZjVtcnh4MXFUU0dDT0IySnFOTXgzRWV2OGlZRVJhZDZmUFBhWUNrVkc2emZlbDJvZEttdHhqVklsXy1SNE4?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T11:06:08.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
     }
    ]
   },
@@ -273,6 +274,27 @@
      "source": "BBC عربي",
      "time": "2026-11-15T14:31:52.000Z",
      "seen": "2026-11-15T14:42:10.229Z"
+    },
+    {
+     "title": "أرباح “عتاقة” ترتفع إلى 175 مليون جنيه خلال 9 أشهر",
+     "url": "https://alborsaanews.com/2026/11/15/2006502",
+     "source": "البورصة",
+     "time": "2026-11-15T14:25:03.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
+    },
+    {
+     "title": "منال عوض: نطالب بمضاعفة تمويل التكيف 3 مرات بحلول 2035",
+     "url": "https://alborsaanews.com/2026/11/15/2006501",
+     "source": "البورصة",
+     "time": "2026-11-15T14:23:07.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
+    },
+    {
+     "title": "“مينا للاستثمار” تتحول لربح 13.7 مليون جنيه خلال 9 أشهر",
+     "url": "https://alborsaanews.com/2026/11/15/2006496",
+     "source": "البورصة",
+     "time": "2026-11-15T14:19:12.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
     },
     {
      "title": "محكمة أمن الدولة في الأردن تصدر قرارها بإعدام منفذي الهجوم على كنيسة الكرك",
@@ -322,27 +344,6 @@
      "impact": "يهم المستهلكين والمصنعين في مصر حيث يقلل من تكلفة شراء بعض السلع الغذائية الأساسية مثل الزيوت."
     },
     {
-     "title": "ارتفاع أرباح “العبور للاستثمار” إلى 61.7 مليون جنيه خلال 9 أشهر",
-     "url": "https://alborsaanews.com/2026/11/15/2006452",
-     "source": "البورصة",
-     "time": "2026-11-15T13:21:32.000Z",
-     "seen": "2026-11-15T14:22:10.201Z"
-    },
-    {
-     "title": "أرباح “موبكو” تتخطى 12.1 مليار جنيه خلال 9 أشهر بنمو 56%",
-     "url": "https://alborsaanews.com/2026/11/15/2006448",
-     "source": "البورصة",
-     "time": "2026-11-15T13:17:48.000Z",
-     "seen": "2026-11-15T14:22:10.201Z"
-    },
-    {
-     "title": "“جى بى كوربوريشن” تربح 1.83 مليار جنيه خلال 9 أشهر",
-     "url": "https://alborsaanews.com/2026/11/15/2006444",
-     "source": "البورصة",
-     "time": "2026-11-15T13:11:02.000Z",
-     "seen": "2026-11-15T14:22:10.201Z"
-    },
-    {
      "title": "مجلس النواب يناقش تعديلات قانون ضمان الصادرات صلاحيات جديدة للجمعية العامة لتحديد الأسواق والقطاعات المستهدفة.. تعديلات تشريعية لتعزيز تنافسية الصادرات المصرية ودعم مستهدفات الوصول بالصادرات إلى 100 مليار دولار",
      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNaTctWU1MM3BMYWUxX3FGZUlwQ0pHc3BwU0Y2MGZScFRiZ3ZlYWJzZnFCem1HYS1HOUtmQUtNUHdJTEpVRE15eDNBY0lJVXBJWjVZbTdIWGdQdm1MY3UzU1RUVFllRU5oY0drdVBINEo5bW5HNnhyWHRXYm91SUZDRG5pakw3WnhYVnBxVG1oalFjT0hwZGpkTWJKNTBUV1ZBLTJzWVBrZm9rbXBrZWFIeGpCQzZnTThzYWVFT0lGZHZPdGRaX01WNjg3T0x4QkNJNXRQTmtxd2hiY0NsVlhWMDdSUlY3eHNwVDNBQ0V5SV96aWQ3N2pVVjFONURQTzhnRE5MZ0NTdVhSM21vanNTczczNFo1bVZORDM1MW11NEpKY096dXZQNzVqNFdMV2FxM1pXRUtvWk5pc0ZkMnRFX0FuZ0lVNHpvcFZkSjhUWWl3VWhGdEhoN1VXUGNqZVp0MjN3OG9pd2s1dGFGQ3A3S1BDLXk2a1RnWjlWRHRMRXBCRm82QURfdzdPQlIyRjNtMEoyeWhWajhYQ042aUo3UU5JNHhicHhsNXZDY0dsY3hxcUd3MXJYckpPS2dIa1FEcnlWQ2lNTS1ucTF5LUFub0V1SnJWMzNHaW8tTEJVTXhySVBWdEJzMEVKR1VXay1UUkoyN3Y0elpLc3o3YWRSTFNlRG5HNjZlOXpYeHBCaE40ODNqa2JEMnRuWW9LNmlQSU91bWZGU0wtYnZreUtTYnVBODJSazjSAbIEQVVfeXFMTUwxOUU1NjQ2akoxcnhRS01lZlhaWmduSzdZV2o2emxYbEljRXY0MGMzMTE3QmRvTktOMDJNeVFmVGpPb3p6ejNnRXNoX0JTUV9nR1gwRXlyUFktbktzTkNhV3lDTTJ0bE5POFRQNFFxVXB1eGhnUEJISzdiTzlKOUJHTGZpZUpYNzVRUWNSSlVCc2dKQ05LUUdjWFF3el9tMngtdU85X0g1X0J2eTd4QlB6ZDdIazhTTzNTQ1BrcE9wMUhNejYzS0hMRzU2M2xGSWRybG9uQUR5Vk5DRDdhNTF2bHVyRXVHUzE1b1I2Yko2QV9YbGxzcklITHJkbHhjeXp0MVZOeElzVF9kcjU4ZXlsT2Q1MmtEdFpPMGhidndSWmw4emdva3NOWDM5N0V5LWE0dUN1ampYMGdlY2xGdmdCM2VFellYaWNDdHBJN3lQOU45bk9vOXlpbnU0Y2VNV1AzM3EzVlk3VWVWODdjSUlLLWgxZ2lBWTR0aVBLbGpjTHZMNkZWS2RuTFk2X0JNdWNldkdIMFV2d1ZDV0E3b3htbzlaaXJqc3IzeDEwOTJjQ3RjY3pLMk50SHpvXzg4RjZWeEhkTDQxT3hXbXdma0tZSUVORmR0X1hnZmx4MEF4RTRWVzVlOTBmSHlOaEJnSW5SWHhZYTdQUmtzbmpOSmJBSklsaEhDS2M5S3A1akx0N3dyMzFZTW84ZU9wcEoyTi0zTVhOYlk3RUVsdnBMN0gtdw?oc=5",
      "source": "اليوم السابع",
@@ -356,6 +357,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "البابا ليون الرابع عشر يعبر مئات الكيلومترات لزيارة عاصمة الإنكا وبوابة الأمازون",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261115-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%84%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%B9%D8%B4%D8%B1-%D9%83%D9%8A%D9%84%D9%88%D9%85%D8%AA%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D9%83%D8%A7-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86",
+     "source": "فرانس 24",
+     "time": "2026-11-15T15:14:38.000Z",
+     "seen": "2026-11-15T15:22:09.981Z"
+    },
     {
      "title": "بايدن يصف زيلينسكي بالعنيد… ويفضح رأي ميركل بترامب",
      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOLV9mYml3bC02UDRkd3RGWmJLRi12LTBaR2JFTkZTZG01a3NkbXp2WEVKRjRIaU8yQU9FQjFXTVVoaGZUNGl4a0VGOXlqb0lJUVhfNENSU2FOZnBFNWFGMG0xb2Zmb0xoejVYS3h6SDkwdDJqTGtZc3NpN1hfOXhING9FV0c3eHJfVlBQdngyenFXeW1LbllXWTlheDJ1OV9KdG1iOXFIdkZvX2FoRERjVmJldjNTSDVIQUNmaE42SG1jZkVFTTFHUVhGVkVPT1hDVmF2MnlwdkVQbTdzakRRU04yZFhJV0djV24tZzFucWZJYzRyOVRNRmFiWEtYWkdlOUJNSTdWUHBzOUoyMC1DTmR6R2pJSVp6UV84M01MSFF0OTY2WXNtQ2tmSWtSSmttVGNja2RhLUZmcFBLQ1huR2QwSTRuNWhJbTZuNmg4R1FRcE1PSnd3a2dCRFFQMXlBS3RpWGliYkRWbk0tTFVTOXR4cHJCaG8wdnhzQTVyeVlIbU5jajZxM1A3LW95OFc0ZlBLZ1VJZm4xOGhkQ3lUeXVFV0ZHM3hOcVZpbHJNdEwwcDdEbE95a0tPV053TzlaR19UVEFyTFN1Y215bVhxMGxoTlNIazM5Z0ZoWNIB4gNBVV95cUxPdEpNZWVVQlZfZlExcWhBbDZxckc1dF85SEdRODVhT01iTUxTd0dqdE5hc2pyWWRrc2F3TmFwRWx6NW1KT1NBMU1aQ1l3cFhmSWxiVzc5Q1psN0h1Q2xhc2o0QVR4SzdpQzF6c0w5MDI3V3lIRUVvdGp3ZlNFSGxUT1dNc0ZZTUl1TElrbjlyN2pFcDhOcmlDTGE0ajEtLWVBbjB2eXdwWFVtYjRCZmpKc003TUhmMDk0RE9DTy1xOWUtZ0tIb0hTTmZNYTY5bE1QekcwenZCOXZSVEZWWTJiM195d1JOS0VjUmN4VURrZGVqYkVHZDdZU1Nqc1ZFdWFzaTJxdmRMbkNZX0dmV1BjV1g4UFlmanpxUHpLRXhZQWRXM1VoRjltY2E2MzVuU2NGMFRPMzJvb2VON2k4SF9UT0NHSEx0MEpRV0pQdEhWekwwRU0zVFJRV2Vhb2FsN1BYcDBsNHB6dWZpY292eUFVT3B5bU5LNXNVeU9uYmUtN0xEYm5OTEFGNnd0NEFXRzZIVEFKaG9tWnhmSldkcUcxZWt5LWdrYUw0SVhpVm12OWZid1Q4ZVVqWlZWSy1HVEdLUGlURTVFaV9vZ01lYjV5NmItdm1pYjhTYWxsSDdSaVAtUQ?oc=5",
@@ -428,13 +436,6 @@
      "seen": "2026-11-15T13:42:09.624Z"
     },
     {
-     "title": "قمة المناخ \"كوب 31\": خلافات بشأن هدف الحد من الاحترار عند 1,5 درجة مئوية",
-     "url": "https://www.france24.com/ar/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/20261115-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%83%D9%88%D8%A8-31-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D9%87%D8%AF%D9%81-%D8%AD%D8%AF-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AB%D8%A7%D8%AA-%D9%83%D8%B1%D8%A8%D9%88%D9%86",
-     "source": "فرانس 24",
-     "time": "2026-11-15T13:22:52.000Z",
-     "seen": "2026-11-15T13:32:09.595Z"
-    },
-    {
      "title": "قاعدة الرفاع: الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tS1NXT2hPOWpVWlZYS01QLUp1dURETldXN1FSS1R0QUMwUDN6b2JRSVR2RVpuNk1mUzBVdVlpdTRsc252cVJGaGlLMU5lUVNGSWl1bU9mbUxsTDNFTnfSAWNBVV95cUxOclBtWjN6RkFoOVU2MWJCNW9QNjdNYkt5dkVMZjBpbU9wYWhIeGtxY1JXNVgyY2JSdHIwVmhRbDFYa29PUzhrdl9la2pWR1lIY3NPdkhfcU5zWFpIdDdCcVRlb2M?oc=5",
      "source": "BBC",
@@ -472,7 +473,7 @@
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-15T14:05:42.000Z",
+     "time": "2026-11-15T14:18:22.000Z",
      "seen": "2026-11-15T09:11:55.978Z"
     },
     {
