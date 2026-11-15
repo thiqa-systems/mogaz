@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:23:42.843Z",
+ "updated": "2026-11-15T17:33:42.307Z",
  "minute": [
   "أعلنت وزارة الاستثمار المصرية إدراج النقل الداخلي والتأمين على الشحنات لأول مرة ضمن المساندة التصديرية.",
   "تستهدف مصر تحقيق معدل نمو بنسبة 5.4% باستثمارات تصل إلى 3.7 تريليون جنيه، وسط تسجيل ارتفاع لسعر الدولار أمام الجنيه.",
@@ -10,7 +10,9 @@
   "at": "2026-11-15T17:13:43.113Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 5
+  "impacts": 5,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T17:33:42.307Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64788,
-   "change": 1.03,
-   "asOf": "2026-11-15T17:23:40.000Z",
+   "value": 64691,
+   "change": 0.88,
+   "asOf": "2026-11-15T17:34:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,33 +140,74 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ترامب يقلل من حجم خسائر الانتخابات مقارنة بفترة أوباما",
-     "url": "https://www.elbalad.news/7181866",
+     "title": "أسماء صابر تحصد المركز الثاني عالميا بابتكار حزام ذكي لحماية الأطفال بعد تجربة اختطاف شقيقتها",
+     "url": "https://www.elbalad.news/7181880",
      "source": "صدى البلد",
-     "time": "2026-11-15T17:22:34.000Z",
-     "seen": "2026-11-15T17:23:42.843Z"
+     "time": "2026-11-15T17:32:29.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
     },
     {
-     "title": "ترامب يطالب الكونجرس بتمويل عاجل لتحديث نظام مراقبة الحركة الجوية",
-     "url": "https://www.elbalad.news/7181868",
-     "source": "صدى البلد",
-     "time": "2026-11-15T17:20:46.000Z",
-     "seen": "2026-11-15T17:23:42.843Z"
-    },
-    {
-     "title": "ما حكم لعب البلايستيشن على أموال؟.. أمين الإفتاء يجيب",
-     "url": "https://www.elbalad.news/7181870",
-     "source": "صدى البلد",
-     "time": "2026-11-15T17:20:00.000Z",
-     "seen": "2026-11-15T17:23:42.843Z"
-    },
-    {
-     "title": "النيابة العامة توثق رحلتها من التحول الرقمي إلى الذكاء الاصطناعي بفيلم وثائقي",
-     "url": "https://www.youm7.com/story/2026/11/15/النيابة-العامة-توثق-رحلتها-من-التحول-الرقمي-إلى-الذكاء-الاصطناعي/7619670",
+     "title": "القومي للأجور: حد أدنى لعلاوة العاملين بالقطاع الخاص 3% من الاشتراك التأمينى",
+     "url": "https://www.youm7.com/story/2026/11/15/القومي-للأجور-حد-أدنى-لعلاوة-العاملين-بالقطاع-الخاص-3-من/7619699",
      "source": "اليوم السابع",
-     "time": "2026-11-15T17:09:00.000Z",
-     "seen": "2026-11-15T17:13:43.113Z",
-     "impact": "يطلع المواطنين والمتعاملين في مصر على مسار تطوير ورقمنة الإجراءات والخدمات القضائية."
+     "time": "2026-11-15T17:31:00.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "نائب يشيد بتوجه مصر نحو توطين صناعة السيارات والبطاريات والمحركات",
+     "url": "https://www.elbalad.news/7181629",
+     "source": "صدى البلد",
+     "time": "2026-11-15T17:30:00.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "اختلس 50 بطاقة تموين وصرف بها 200 ألف جنيه سكر وخبز.. تفاصيل محاكمة رئيس مكتب باب الشعرية",
+     "url": "https://www.elbalad.news/7181875",
+     "source": "صدى البلد",
+     "time": "2026-11-15T17:29:49.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "رئيس الوزراء: حريصون على إلزام القطاع الخاص بتطبيق الحد الأدنى للأجور",
+     "url": "https://www.youm7.com/story/2026/11/15/رئيس-الوزراء-حريصون-على-إلزام-القطاع-الخاص-بتطبيق-الحد-الأدنى/7619701",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T17:29:00.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "القومي للأجور: رفع الحد الأدنى للأجر بالساعة للعاملين في أعمال مؤقتة",
+     "url": "https://www.youm7.com/story/2026/11/15/القومي-للأجور-رفع-الحد-الأدنى-للأجر-بالساعة-للعاملين-في-أعمال/7619698",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T17:28:00.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "موعد تطبيق زيادة الحد الأدنى للأجور بالقطاع الخاص",
+     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPQlo5R1dNU2dxMG1MQ2lXVFVROW1CS3Fud0g3OTdxZm1vSzNhTXhlQ2lPWXZJRDd6SjdpVlFPVXNrWnB4Z2J2YWg3MXRPbTFkU21wbW1jQ0RULWxiMkRDMjVyX3duTXBDNDdtNnBDczh2aWMzX0lCbFktZWtKRFBwcUZGNmRxSE9oU0l1cDNvT29raXhoRTc5RlpOejVfUHZ2SXFpZVhfQlFySE14bE5LemxUOFlHR0Nwc2F6bERmbG5lY0hsWW1XQzc0c2lzbXRocEdDdnNtckwzdWlEajlxUE00akR2cHBEUFluYy0zTlNIbXVRUmFlMFpnWTNVb3Ftc243SGMtalVld0JqbW1OekpoMm40dmpXakdGc0RJZXJqMTgyYU5kUklXWHdwU1o4dG9zcnUweTlvaW96ZERBWWN6OGJxTVZxMW9oYnF0cVhqWXVrbm9FN295X1BfcUxlQThzM1VBczg5UTh4WU96UkJuVDFQZTVlakNfbDhKSXdfVjhsLXJtcV80b0RhQWxvR0MzcUpFb3h3d0paY0xUZE9MYkprb2pyLUNnZjZweFdSdEpwcGY2YWdPaklmMVdlZ1JBNTltV2RoQlRUWjlB0gHUA0FVX3lxTFBzODYzVmc5aEFyaGo5cjdTR3FyTU12YVhyQk9ocXh0N0YxRGI3NWVVMFFEYWpXUHVqRWpPeGI3V3Z5Rlc3QjRva014T3lna0lUUkRQU3F3b3FxU2p2MndjOVBtOFBxd0pMaXZnUG0xVUpwZER1RW9QbXJmS2FJR2Nsam9kU1Jrai1zbXROa2xfVjBZU01ra3FsMUxibVh3N1hPQl9tUjI3SGhCT2llV0Q5aWZnOHhTZTZUT2tvNUVIdlhoaE1WVy1nQkpGUmttZDhIMXd2elhBQlZOUVdXVENrQndTTllWRUtSb1pCTndMWDF3WlZrVldadlo4OWlPNGlGTFhGLUZWckRvbnlnMm55Yi1jNFJteWFuMEZuNVFjS0VjMHJoNjF0WmJPS3Z4cF9hbHRzWEJfb2lRSFJSc0ljbVlrcURlQ3hFaG9pWU1yZzNMZHBmUXA3bU1OZER3RnhkZHByOWZ5Q0RUSXMxQ2RaTGtmS0dQd1ZTM0VhZC1kcjBnY2ExOEp4SHdaS2Rpb2Z3RDNpYXpRdUlYSmJqckxEV2VhTGpUdXdsTVIxZ19KcHQ0bmpsOWIwUTNKc1VRVVFWSHFzenY0TnhGa2RDaEotZ2pTcQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T17:24:39.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "رئيس الوزراء يستعرض نتائج قافلة طبية شاملة نظمتها اللجنة الطبية العليا والاستغاثات بمجلس الوزراء بمحافظة الإسكندرية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1vdmUtdmZ1Yk9iSm9zZkJNcWQ2ek5GV2ZCSDFvV2pDSl82Y2ZUU0NSdThHOU9uMnc4ZzJJVGhEYTByUUdI?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-15T17:22:11.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "أول قراراته رفع الحد الأدنى لـ8500 جنيه.. تعرف على أعضاء المجلس القومي للأجور في تشكيله الجديد",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBienUycEIxN2hRMFNQU2JQMVZ4ZVRVUFZzNnFQNVJLNWtGQmwtbDBYRXB5WTZvV2preVI4N19KaDdNcTc2cmtmLUMxSjZrdkpnWjEwQXM2VmxyTDRVVGEw?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-15T17:21:00.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
+     "title": "\"القومي للأجور\" يقرر رفع الحد الأدنى للأجر بالساعة لـ34 جنيهًا صافيًا",
+     "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPTkg3UGVzdnVNVXNtcVA2dVMzWDhDMDdHNWRzYmtGc3NuOEVuallNT25CUVQxWGtmTUNySXJSM0pXZlJ4aEVhdkNsLWlGc29DLTMzbVRhM25VaWU4Vmlmd3dGT3FCakszNkZfUVFIV3FPOC1BeXhoaGlLUkpJUFFmajdLeXdqMXoxVW9iRzc3SDBOVmphZU5hUkd0enJoNEhIdUhQcU82dklGZWVrZFdRRmNpZkpXX0FycFFLTjVFaEFIZWxJOEttZGNMNTk0LU9oT3Q1YWwwTVB1c0h5V1ZMZVNEUExWMUFPWkpoYW5wYTRxWWZHMUl2TUpaZVJzSlVvaTJDcER3dlJnWXJUeHFfQ2l5T2JVVEt6NkszNDJ1WklrQXI0MHVBZWlHTkxGdUVkLXlGNE1NYlYwMG5KbWhYdEdkWWlWNGVvRWl2ZXpWcHk5UkRfcXFUTDdJOVFhUGYtTUtoV1l1RkdxWVQ0YzBIUlNkZS16RnpabTlfRFhxR0xPUXp3djdYUkRZMjl1VnYwWm53MUVhaDdoeEx3bjdvZ1owa3lhdUE1cVBSdDRfeElZaEh4YmFpN2N0Mko2T3g3SjBfeEMyZ196T3hheWdVUWRTd0dzTUxqWmpVb0FtSXBtOHpBRkRQYlpBSHFQUWVBclZaZUVTbGQ0dnZYbDgyMWxEQVYwNl9oM2VPTnZ5cDdMVHE5WlhjaGc0b2o3aEN3QzczS1Fyb3NlQkRHazBNcDBB0gG3BEFVX3lxTFAxdm1RQnlEYnVXN20yTkZmb0Z4VUVmNnFKdXZDaVl2R0ZRNkN1VExWb3E2WEh6TG9OeUplZHZGQTdCdnAydG1raE4tczlZVUdSeWw1ZURvaUlOX2RYcG1Kbm1jUjVXWUVrODNTUVNmWmRzTzRkUEc1YmdsRzVicjEzcEJFOXA3QWpDUlBXVG1tLWxsWFVyYk1meWd1Q2RhUW5uaE1xVlN5djJELTlhV2JHLUFDeVJqZHoxZl9RT0V3eDdaMzJIQXZvWlVCTG5kYUFJamMydnBIX0t2UlZzNlF6c3FrU2VNSExyS1NhdTdaakZnWnhWZm1fa3ZNLTByVVk0dzlCeUFadVVGdXpqVjZLYmdrRTY0Mm9UZURhYXlnekZpQ01WeENrbkhoWGJBMjVZVHFCQ2stakxjWWJkcjhxVmFxLVdpckRTMWtFQ190bncwXzdkUnp0LTJlaHQ2M0c5UlBUYUVXd1dGaG9ZMjVhMVBkZ3BaalZaUkljR0VaTWtFSDN0Smg2SkZXSHM1Zmx5SWFzVjBRTWd1cnlydmRjWFg2SFYyeDdUdVNjMk5FTDcwZjJoQUdtYm9oVHMwZ29GN25XeWh1THdXVTk3Mm1hSWtmVHBKSWR5UWt3Q3hDY1p2TWhqZUlmZlUybm5rMHNkdWhLeTBlc1M0VlRfSlVBeHctVHJvNTR3X3Bnd1NJZTdROUh2SkQ1Q0diU1lkMUV6VDFKZWNMT3pxN3RXcVlSdlA0anZ5QQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T17:16:35.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
     },
     {
      "title": "الحكومة تدرس زيادة الأجور حتى 2030.. مدبولي يشكل مجموعة عمل مع القطاع الخاص",
@@ -174,21 +217,6 @@
      "seen": "2026-11-15T17:23:42.843Z"
     },
     {
-     "title": "اليوم السابع: 5.4% معدل نمو مستهدف باستثمارات 3.7 تريليون جنيه",
-     "url": "https://www.youm7.com/story/2026/11/15/اليوم-السابع-5-4-معدل-نمو-مستهدف-باستثمارات-3-7/7619606",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T17:00:00.000Z",
-     "seen": "2026-11-15T17:03:42.594Z",
-     "impact": "يوفر للمستثمرين مؤشرات رسمية حول مستهدفات النمو وحجم التدفقات الاستثمارية المخططة في السوق المصري."
-    },
-    {
-     "title": "الصحة: استقبال 9255 مكالمة على الخط الساخن 105 خلال أكتوبر بزيادة 11.49%",
-     "url": "https://www.youm7.com/story/2026/11/15/الصحة-استقبال-9255-مكالمة-على-الخط-الساخن-105-خلال-أكتوبر/7619644",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T16:54:00.000Z",
-     "seen": "2026-11-15T17:03:42.594Z"
-    },
-    {
      "title": "رسميًا.. الحكومة تقر رفع الحد الأدنى للأجور بالقطاع الخاص إلى 8500 جنيه",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05VnQtZGlxR1dHbFNRMTl5Z29zOU9FZTFuS3FOWUpLWWtVTG4wTk9qZEVOODJIZDFjcjljakdUZXB5SEZiV3NvT1B6XzdkRTFhSUdIdVUzMUxqXzdUejNJ?oc=5",
      "source": "المصري اليوم",
@@ -196,11 +224,11 @@
      "seen": "2026-11-15T16:43:43.026Z"
     },
     {
-     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
+     "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkM3d0ZFM1dEb1J5eGYxRXU2U1ZaZnJMR3FHcjV4aURXUk5YR3lvNklHdWpOM3FxZ0tRMGwzek95NnhocWhwa0pkUnBINlBZN3RfZFBVQTk2NU1kQlVMSmRWamt2eng4OGZmNnhtWU1LQkJ3YzFXUTFrLTB1RllQVTlsemFzY250bm5jZ09JeGZwNEI5cWVCbDZBbzFQRHFiZG1MQmFnVzctLWZ2Zmx6MGFUU0FMOC1NYWx1YUtQUzZsdG42ZFBKQllvZWw?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-15T15:12:41.000Z",
-     "seen": "2026-11-15T16:12:09.618Z"
+     "time": "2026-11-15T15:40:59.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
     },
     {
      "title": "برئاسة مدبولي وعضوية 14 وزيرًا.. تشكيل لجنة عليا لإدارة السواحل المصرية",
@@ -208,35 +236,6 @@
      "source": "الوطن اليوم",
      "time": "2026-11-15T15:05:23.000Z",
      "seen": "2026-11-15T15:12:09.292Z"
-    },
-    {
-     "title": "الكشف على 3180 مواطنا.. مدبولي يستعرض حصاد قافلة طبية مجانية بالإسكندرية",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xYWRCQmdiZFMtMWlYNVQ0VkxxYVh0N0xMcF9PNDl4SktCUTBmdWRqWHJQWjBVNjB6dU5JRng3bDZSMU5lZU1semFJZzFsbW1aUjNyU1V5eW4wS3hq?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-15T14:54:19.000Z",
-     "seen": "2026-11-15T15:12:09.292Z"
-    },
-    {
-     "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
-     "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxObjFma1NPOFZMYlFTdnlFX0l1NkFOYUlwa0VKQnNQcEJqUjVlMXVRNzkyN01HbFcxU1F0VFY0N2VBQWtfb2kyU1dzN29paG4tZDk3Z1d1WXdiV3MweHhJN1IwdFlkZUtQWnA4bVNrdFZ6ZktCV3lRUzRrN0k2b2EzaVo2dkJ0dndlUXhzWGJ0Vmk3ZTJHTkNSeDdkWVplbGZhX0ltWlRTTEhpRmMxTV93LTU3cnFvdG9yTzc3NERXaXF6QkRnaDliU2tVZmFsY1kwQkxiOENzR1pCenhEVXNfMEhfVWVScUtqOXhaTHZ1VmxXeTJmMFo0RGFUSlNXdzZabTJwYzJ2LV9wYk5BdXpkdnp6VkdkT2ptVWFhNU1LaFRib2tldzgwVGlxUWQ4Nl81cXREbWNVX08tYzVwbDk2N1JIUUF6eVNMZnZjRU5pN1ZZSlpOTWZSQldsbGhvWC14VGc5UVlIQjJ5VkdLQ1h5bjFwaWRWYzlpampBLUJ5aGo0Zm50R2tGd21RLTlQWVBiX0x6cjdGLWtvLWtiUHY0N0dDUUdUQWdteVNtMFRQMzQzN203SUJGaDdxVmlIbEpoY0dvSzJuUkF0TFlsc0pVRU5tR1FFUkNGbzFRejZqR0dOZ1ZFU0E0SEE5dUdseVpUeXBVbGt5czFqNUdrOC1MV2J3?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-15T14:39:00.000Z",
-     "seen": "2026-11-15T16:33:42.561Z"
-    },
-    {
-     "title": "الحُطام تطاير في الاتجاهين.. تصادم بين سيارتين على «الأوسطي» يوقف حركة الطريق",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSYXpNX1ZGdGk1RGlhN0VLTEg2RkliQTc3Q2ttQkdUamVDM183T1IweUVmd0NPTG5BTTNsLXRrdktvSUtEdm1zSGhaSUlUNlBQYVowNzdZR1ZxQjRkWGtr?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T14:11:00.000Z",
-     "seen": "2026-11-15T17:23:42.843Z"
-    },
-    {
-     "title": "الحكومة تتحرك لتعزيز تنافسية الصادرات المصرية.. ومدبولي يتابع تفعيل «ضمان المخاطر» وتطوير مراكز التدريب",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcFZiS1NuUlotN1Z3alpvbkpDNGt3N1FlOGxFNkNQN3hFN00xWUkyTFZma0FLWk9ONGpWazJReGs4enpabnY4ZFdpZXBFZkxCNjFObm45dTBGUEwyNnVJ?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T14:09:00.000Z",
-     "seen": "2026-11-15T14:12:09.424Z",
-     "impact": "يهتم المستثمرون والمصدرون في مصر بمتابعة تفعيل هيئة ضمان مخاطر الصادرات والاستغلال الأمثل لمراكز التدريب الحكومية."
     }
    ]
   },
@@ -466,6 +465,13 @@
      "seen": "2026-11-15T16:22:09.353Z"
     },
     {
+     "title": "التحالف يعلن اعتراض وتدمير طائرة مسيرة بمنطقة المدينة المنورة",
+     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOS1dHTlhHdXVwSVRRVWhCa1cxWHo3cWNqcWNtNzRITkdfV3UyN2I1d2YzT3hPdlQxZ3VlaFlVVVNyZ3BUSmFLaFBWOE5pamIwclh1YTJDc1JFaUlXRkJtQkM5Q2ZsbS1NeThQWnpLU05XaDE0MlVXQzN3dEtua01SZlBIODQ3Z2sxTzBTY2k2NWF5NWF4ZTNWRlpaejBBcUgtZThEZlRjOHF0RHdhODhXQU9JNkRHUUJrUk1ZSDJONnhZaWpOZjRPWEVKQ3lpSTAxZTV6VUc1QlljMzRPRHB3ZWpUcVBQU25Rb1dfY09LX3dudUI5NGNFVDFScjNnbDV6aHpQU0hRVkE5WlVaZVV4WVQ4YkhPaTliUDFFX0E1bFkyei1BMEtoZmwxYjZfOUpxaEc4WXI3c1JwbU9SN0JrOVhnNVdLX3F2V0taOVJhb0F2ZHJaZzNYaGpqdHRNblItNW5haUl0ZVp0eENRVGZLTFdZUXN1R2ZZS0Y4LUZVTUdvYTNZcnNCSmhJendRNWNjRS05clR6cVBRbl94ZkdTNHdGMDhrWXRDUVNWZE5yTWNBem05SVFwUExFcUNWd0Q3RW8zUnJydFZvbE44MmZpNkRsZEhyVGVpVktscXh0UHlTTlFxWjJhalpxWndHRG1uaG1qQ2pDOTRmTDhDM2JEV0Z6YmR1S2ZOSkh0RXNB0gGIBEFVX3lxTE9aZ29DUjhCVldtTWZHZGFqMXFhVDBNckIzcVFSOEdtYnRaSnVMY0loQ1kxUVI1dG1zeFpDb2NJeXVvNmNNNUIxZE9QZ3NkaDhuTUt3YnM5VmpYeS03YV9mM2ljOHhPWGdyQWZxcGRReldfNXdZSDJyWE9yY3pYWUloMy0zOFF1LXFGX1VTQzhETmZWLXFZcTN4OXJkcUc1N0FDaFg4dzlwbmFSUjM1dnpBSUZqMUVJTDlFbGZZU19salY0VGpIYU9VUzFtYmVuVEs5d0FZTHZqdGJhYmlzWXdEeXgzNGRuYUwtUElqc2QzZzNDWVhJS19xLVZHc1BpSkh1Z1ZMTm83TFlhbEMxeTg3aFU5T2pGZFRDdXA4QXI2enIxYjc5eHlIYnFOcFlWbzdzc2pMTHByNGx0M1QzZWhaLWV1VEQxb1FxSzlpa21nWjNhck1wVkxTNldLcDVUMDU1a3lma3F4c1VIMllvRTJUaU13dGRRaFBtemxEVTJoclNUMy1BOXplZ0NEYU9nY0k3LWd6THZ2c3ZGdWhaZFZJM2Rwd1diQ3ptYlNKU2piN1U2dW1WZ2Vrd1JrWUlYUjA4Z3BhRVhEZGZFNmxMZFFaOFNvTmJ2dlhXRC1teG84TjBmbHVZTTZMTmFrZFNic3VNamtvX0R1ZDZrU3c3ZHZVWHZoQktaWHY?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T15:58:00.000Z",
+     "seen": "2026-11-15T17:33:42.307Z"
+    },
+    {
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
      "source": "الشرق الأوسط",
@@ -554,13 +560,6 @@
      "time": "2026-11-15T07:33:37.000Z",
      "seen": "2026-11-15T09:41:56.165Z",
      "impact": "ابتكارات الذكاء الاصطناعي الطبية تعزز قدرات التنبؤ بالمخاطر الصحية مما قد ينعكس إيجاباً على الرعاية الصحية للمواطنين."
-    },
-    {
-     "title": "دون ذكاء اصطناعي.. أبل تضيف ميزة جديدة إلى أفلامها",
-     "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQbFFDQm1LNHhPYW9mNWw4VVZ3dzJTOVlKU19MdFo2ek1iOEZwTGFnU3lRX1h5dFRSUmlQRUdkRWZHdVg4NGxxQk1fbEJSd3dGRG5NNGY2YWhueTJLNVpKZGlSX1R4czlVZGduR3RHbFZQUkk1b1hGT2VObVhHTjZsQkZzWVRQaHFLT18zOHBBM1d0VzM5QWtXTzY4RS1KajAwV2pfbnk0QTJ4YURzVXBXdVdRa3FxUGlueVRvZzJHQ1loYUVfTmNMbXVqZFBVaHlSUE9GVnFlbkszcnkyR3ZlYVV0aTR4eDZQeFIzaUVLcDd0THA0ZGZibXJpZjMzNHJjSjlXMmQxQjB4NVRaREJuT3dCMGFJc3BrZ2Z4MjhZY095eTZXeUd2dGs3c1BpWVc5Q1h5WFl3T1FoQk5xMFg0blpDeUFpWGdua29tNjNacFYzbmpnbktyT0dtbFJDU3YwSUluSkdRWUVhbWU2c2lERlJWRkfSAfoCQVVfeXFMUERjRHlCVjVzLW4yeEFJcjYtQldCeFo2MC1HUmcxcVRjTjg4QnhOSWJPbTFweXg0Qk5wNUdId08xTHBKNHhkOWltMmFMRVR3TERNWHBpUHVoVGlyMDRlMDJxczJsRjBYVnJfOTlEeFM0a2VSSU5GOE5OYUtydVNUS3kwMTZVQ2lGOFpaRlpHTlpDU2NHMGgzbEZBaFY4ODhoSXh6VTdZcG5qcXVuZmtxNzVHeWMxMDJZZWsyX1dIY3U2T3ZDbHloRDdQczc2dmxUZy01RWNMalQ4cncxWlNBdmNLbFFGVkRCZGFsLXNydmFKZXM0U0hldldlWHdBUm4yOWpEekRkWTYwZVRwMnNmMEhvTjRrejF4akFUN2dQNE04clBxdVVodzNiQmk1V0NIcTMxTExWTVZRU005WTJHX2V3dGxLN2VjR1ZVTkVXRUVBMWZWakt6STB3dkttdzlSd3BiR1hVQzhuNFJsWDFTemd0SGxET213WUFR?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T07:10:32.000Z",
-     "seen": "2026-11-15T11:12:09.414Z"
     }
    ]
   }
