@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:10:27.055Z",
+ "updated": "2026-11-15T04:20:26.557Z",
  "minute": [
   "تتناول الأخبار التطورات الاقتصادية في مصر مع متابعة أسعار صرف الدولار وتفاصيل عوائد شهادات الادخار الجديدة بعد رفع الفائدة.",
   "تتضمن النشرات معلومات خدمية وتوعوية للمواطنين تشمل مواعيد رحلات قطار تالجو وطريقة التحقق من التراخيص المهنية للأطباء.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T04:00:28.027Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T04:20:26.557Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64666,
-   "change": -5.25,
-   "asOf": "2026-11-15T04:10:24.000Z",
+   "value": 64854,
+   "change": -4.98,
+   "asOf": "2026-11-15T04:22:01.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "«دويدار»: علي ماهر «سالك» لأنه رغم أن فيه مشكلة بينه وبين ناصر ماهر إلا أنه ضمه للمنتخب",
+     "url": "https://www.elbalad.news/7180964",
+     "source": "صدى البلد",
+     "time": "2026-11-15T04:20:04.000Z",
+     "seen": "2026-11-15T04:20:26.557Z"
+    },
+    {
      "title": "عصام عبدالفتاح: إيفا بارتون من حكام النخبة.. ولن يكون هناك تحليل للحالات التحكيمية لمباراة الأهلي وبيراميدز",
      "url": "https://www.elbalad.news/7180963",
      "source": "صدى البلد",
@@ -165,13 +174,6 @@
      "time": "2026-11-15T04:00:00.000Z",
      "seen": "2026-11-15T04:00:28.027Z",
      "impact": "تمكن الأفراد في مصر من حماية أنفسهم والتأكد من القيد الرسمي للطباء لمنع التعامل مع منتحلي الصفة."
-    },
-    {
-     "title": "مصير الدراسة في رمضان 2027 لطلاب المدارس .. ماذا قررت التعليم؟",
-     "url": "https://www.elbalad.news/7180956",
-     "source": "صدى البلد",
-     "time": "2026-11-15T04:00:00.000Z",
-     "seen": "2026-11-15T04:10:27.055Z"
     },
     {
      "title": "هيئة الدواء تتيح خدمة واتساب للشركات والمصانع لتسريع الاستجابة",
@@ -245,6 +247,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "صواريخ باليستية ومسيرات تستهدف السعودية والبحرين، وقصف جوي للعاصمة صنعاء",
+     "url": "https://www.bbc.com/arabic/articles/c5evr91z1ek4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-15T04:15:24.000Z",
+     "seen": "2026-11-15T04:20:26.557Z"
+    },
+    {
      "title": "ترامب يدرس تعليق الضربات على إيران، ونتنياهو يتعهّد بـ\"محو التهديد الإيراني للأبد\"",
      "url": "https://www.bbc.com/arabic/articles/cwp9dznjmpllo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -300,13 +309,6 @@
      "impact": "تساعد معرفة أعلى سعر للدولار بالبنوك الأفراد والمستثمرين على التخطيط المالي والمقارنة بين البنوك المختلفة."
     },
     {
-     "title": "إسرائيل تعلن اغتيال قائد لواء رفح في حماس، والحركة تقول إنه أحد أبرز مخططي هجوم 7 أكتوبر",
-     "url": "https://www.bbc.com/arabic/articles/cm5y1x7r2q25o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-15T00:54:20.000Z",
-     "seen": "2026-11-14T23:19:59.485Z"
-    },
-    {
      "title": "سعر الدولار لحظة بلحظة.. 53.39 سعر شراء الأخضر فى بنك مصر",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxONDRsa0xLTmRWRWR3UGxuakxnQWI4U1otblhCemFfTlBmMXQ1T041Z2tzaGt3eHh1RXFTQWE0aGstWWx4MF9vTWRSZHo1YTl3RlRPd0lzQkRSSHZibjN6Y0FidWxWRzhMSk45MUY4WTBocmFxVU8ydFlneGNrZElzU0JBT09UaHZHZFh5bzNtUUNWcWdIRzZBMTRlN1NmSVRaMnZSNGtyeHR6M1dLTzBUbE9Fc0ZfelRpTTJSbEhBMDh3R2g1bFktT2NYRm9oZ1kwQ196dDVfX2JWTEo5ellTRjF3SFlPRmgyb3pwUFhWcGM1LTFGbUp1bTJ3N1hUek5RbnYwWXRDSlRTc3NqZEFWOVMyNm5mT19PMWxsSkYteHRNUHJCWWt2VmdqeVhWMy1GMnBEZVRWbjJHYXJPS21fN3luMm16UkdMdWJXRDdOU2NuaWNMMllCeG1iZ0FuSm5aRUxJVVpLQzZSRXczaDVtQkRKNE1pMmfSAfcCQVVfeXFMTjQ0bGtMS05kVkVkd1BsbmpMZ0FiOFNaLW5YQnphX05QZjF0NU9ONWdrc2hrd3h4dUVxU0FhNGhrLVlseDBfb01kUmR6NWE5d0ZUT3dJc0JEUkh2Ym4zemNBYnVsVkc4TEpOOTFGOFkwaHJhcVVPMnRZZ3hja2RJc1NCQU9PVGh2R2RYeW8zbVFDVnFnSEc2QTE0ZTdTZklUWjJ2UjRrcnh0ejNXS08wVGxPRXNGX3pUaU0yUmxIQTA4d0doNWxZLU9jWEZvaGdZMENfenQ1X19iVkxKOXpZU0Yxd0hZT0ZoMm96cFBYVnBjNS0xRm1KdW0ydzdYVHpOUW52MFl0Q0pUU3NzamRBVjlTMjZuZk9fTzFsbEpGLXh0TVByQllrdlZnanlYVjMtRjJwRGVUVm4yR2FyT0ttXzd5bjJtelJHTHViV0Q3TlNjbmljTDJZQnhtYmdBbkpuWkVMSVVaS0M2UkV3M2g1bUJESjRNaTJn?oc=5",
      "source": "اليوم السابع",
@@ -359,6 +361,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "\"التحالف\" يعلن تدمير صاروخين باليستيين في الرياض و3 مسيرات بالمنطقة الشرقية",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/cjfcspox-destruction-of-two-ballistic-missiles-three-drones-ksa",
+     "source": "CNN بالعربية",
+     "time": "2026-11-15T04:12:43.000Z",
+     "seen": "2026-11-15T04:20:26.557Z"
+    },
+    {
+     "title": "اعتراض صاروخين استهدفا الرياض.. والبحرين تتصدى لمسيّرات",
+     "url": "https://www.skynewsarabia.com/middle-east/1904834-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T04:09:00.000Z",
+     "seen": "2026-11-15T04:20:26.557Z"
+    },
+    {
      "title": "سمير أبو يونس: إسرائيل تعلن اغتيال قائد لواء رفح في حماس، والحركة تقول إنه أحد أبرز مخططي هجوم 7 أكتوبر",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZnVNYU9vaWdYWW5OWnNuZXNNWEM2dzE1RVM2cEJMMzk5UHFWNFZuSm5lanlLN2lHSWdSQm1keWZTRXVCcU56dHVjVzBhSW1zR1dTWFozV1c4d3VGT0HSAWNBVV95cUxOZjVfbEkzWDFZdUF4M0oyS1FsZUF2MXpISXhnODZTbHV1N0JSbEdiVVdEc1kwUXFyQ0NycE5nQjVBb0ozMkJfUWE0Q0pNczRBUmJ5MmtUWnVIZUQ3eGlJS2R4Q1E?oc=5",
      "source": "BBC",
@@ -371,6 +387,20 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-15T01:01:41.000Z",
      "seen": "2026-11-15T03:40:26.544Z"
+    },
+    {
+     "title": "كيف أربكت خسائر ترمب حسابات إمبراطوريات الإعلام؟",
+     "url": "https://www.aljazeera.net/media/2026/11/15/%d9%85%d9%86-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%a8%d9%88%d8%b3%d8%aa-%d8%a5%d9%84%d9%89-%d8%b3%d9%8a-%d8%a8%d9%8a-%d8%a5%d8%b3-%d9%83%d9%8a%d9%81-%d8%a3%d8%b1%d8%a8%d9%83%d8%aa?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-15T00:58:53.000Z",
+     "seen": "2026-11-15T04:20:26.557Z"
+    },
+    {
+     "title": "إسرائيل تعلن اغتيال قائد لواء رفح في حماس، والحركة تقول إنه أحد أبرز مخططي هجوم 7 أكتوبر",
+     "url": "https://www.bbc.com/arabic/articles/cm5y1x7r2q25o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-15T00:54:20.000Z",
+     "seen": "2026-11-14T23:19:59.485Z"
     },
     {
      "title": "هذا ما يحتاج المسافر إلى معرفته عند اضطراب الرحلات الجوية",
@@ -417,13 +447,6 @@
      "seen": "2026-11-15T03:40:26.544Z"
     },
     {
-     "title": "قتلى جراء غارة لجيش ميانمار على مخيم للنازحين في أراكان",
-     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%ba%d8%a7%d8%b1%d8%a9-%d9%84%d8%ac%d9%8a%d8%b4-%d9%85%d9%8a%d8%a7%d9%86%d9%85%d8%a7%d8%b1-%d8%b9%d9%84%d9%89-%d9%85%d8%ae%d9%8a%d9%85-%d9%84%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-14T23:13:09.000Z",
-     "seen": "2026-11-15T02:50:26.658Z"
-    },
-    {
      "title": "زيلينسكي: الولايات المتحدة اقترحت تنازل أوكرانيا عن دونباس مقابل عضوية الناتو",
      "url": "https://www.bbc.com/arabic/articles/cqy0eldp4640o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -437,28 +460,6 @@
      "source": "فرانس 24",
      "time": "2026-11-14T22:36:27.000Z",
      "seen": "2026-11-15T01:40:27.158Z"
-    },
-    {
-     "title": "جرف الصخر أم جرف النصر؟ اتهامات بتهريب النفط تعيد الملفات العالقة إلى الواجهة",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iNWN5Umo2Mzh6R3BEdUwxN1hkOFVoRnlwS2dNVlk3YmZ5WnhrOUljSmtmbDQ3aXZpTktPUEJfZWNqXzJUNW1xYk0wNlRTRWh5S3d1cXhLczBaSjg4WkHSAWNBVV95cUxQdHZaUS1zLWJubDRtcDQtTi1DeU81OHZJVmp4M2lMRGl2NFh2cEVzaGxTc2RvaE91MEtWRlFRdW9Lenltb0lVRUZ5R0t4dk5IQVdMUTl2cEdTakdhMWVZWnA5R00?oc=5",
-     "source": "BBC",
-     "time": "2026-11-14T22:33:55.000Z",
-     "seen": "2026-11-14T23:09:59.245Z"
-    },
-    {
-     "title": "قراءة في أبرز ما تسرب من مطالب روسيا لإنهاء الحرب في أوكرانيا",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261114-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%A7-%D8%AA%D8%B3%D8%B1%D8%A8-%D9%85%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-14T22:33:07.000Z",
-     "seen": "2026-11-15T01:40:27.158Z"
-    },
-    {
-     "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/egyptian-interior-ministry-issues-statement-regarding-the-suicide-minya-doctor",
-     "source": "CNN بالعربية",
-     "time": "2026-11-14T22:31:49.000Z",
-     "seen": "2026-11-14T22:39:59.259Z",
-     "impact": "يهم المواطنين والمتابعين للتعرف على التوضيح الرسمي الصادر عن وزارة الداخلية بشأن ملابسات حادثة طبيب المنيا."
     }
    ]
   },
