@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-15T07:51:55.375Z",
+ "updated": "2026-11-15T08:01:55.608Z",
  "minute": [
-  "تضمنت الأحداث الإقليمية إعلان الحرس الثوري الإيراني استهداف رادارات وقاعدة مروحيات أمريكية في البحرين، وسط تحذيرات أمنية للسكان.",
-  "وعلى المستوى المحلي في مصر، تتابع الأسواق تحديثات أسعار العملات الأجنبية في البنوك مع تحذيرات جوية من شبورة كثيفة وتفاصيل حول مشروع قانون الأحوال الشخصية للمسيحيين.",
-  "وعالميًا وتكنولوجيًا، أشار تحليل اقتصادي إلى تراجع القيمة السوقية لشركات مرتبطة بمراكز بيانات الذكاء الاصطناعي، مع استمرار التوترات الميدانية واغتيال قيادي في حماس."
+  "تتناول الأخبار الاقتصادية في مصر مستجدات أسعار العملات وتطورات البورصة وطرح بنك القاهرة، إلى جانب بحث شركة النيل للأدوية مضاعفة رأسمالها.",
+  "حذرت هيئة الأرصاد الجوية من تشكل الشبورة خلال الأيام المقبلة، بالتزامن مع رصد كثافات مرورية في القاهرة والجيزة وإغلاق شارع الهرم.",
+  "على الصعيد الإقليمي، أُعلنت تطورات عسكرية شملت إحباط البحرين هجمات جوية وإعلان الحرس الثوري الإيراني استهداف مواقع وقواعد عسكرية.",
+  "وفي قطاع التكنولوجيا، تراجعت القيمة السوقية لشركات مرتبطة بمراكز بيانات الذكاء الاصطناعي، ورصدت تحقيقات ترتيبات توريد رقاقات لشركات صينية."
  ],
  "ai": {
-  "at": "2026-11-15T07:01:55.779Z",
+  "at": "2026-11-15T08:01:55.608Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-15T07:51:55.375Z"
+  "impacts": 9
  },
  "markets": [
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63786,
-   "change": -0.53,
-   "asOf": "2026-11-15T07:52:56.000Z",
+   "value": 63905,
+   "change": -0.35,
+   "asOf": "2026-11-15T08:02:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,50 @@
    "title": "مصر",
    "items": [
     {
-     "title": "اليمن.. القوات الجنوبية تعيد تموضعها في مطار ذوباب وباب المندب غرب تعز",
-     "url": "https://www.elbalad.news/7181068",
+     "title": "حسام عيد: الأداء المالي القوي للشركات يعزز صعود البورصة ويجذب الاستثمارات",
+     "url": "https://www.elbalad.news/7181042",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:51:26.000Z",
-     "seen": "2026-11-15T07:51:55.375Z"
+     "time": "2026-11-15T08:00:53.000Z",
+     "seen": "2026-11-15T08:01:55.608Z",
+     "impact": "يزود المستثمرين في مصر بنظرة حول العوامل المؤثرة في أداء البورصة وجذب رؤوس الأموال."
     },
     {
-     "title": "موعد مباراة الزمالك المقبلة أمام الجونة في الدوري المصري والقناة الناقلة",
-     "url": "https://www.elbalad.news/7181067",
+     "title": "خلود ماهر: الفسطاط أول عاصمة إسلامية لمصر.. والقاهرة التاريخية شاهدة على تعاقب العصور والحضارات",
+     "url": "https://www.elbalad.news/7181078",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:50:37.000Z",
-     "seen": "2026-11-15T07:51:55.375Z"
+     "time": "2026-11-15T08:00:22.000Z",
+     "seen": "2026-11-15T08:01:55.608Z"
     },
     {
-     "title": "الرئيس الباكستاني يؤكد مجددا دعم بلاده لإقامة دولة فلسطينية مستقلة وعاصمتها القدس الشريف",
-     "url": "https://www.elbalad.news/7181069",
+     "title": "خبير: طرح بنك القاهرة بقيمة 36 مليار جنيه دفعة قوية لبرنامج الطروحات الحكومية",
+     "url": "https://www.elbalad.news/7181046",
      "source": "صدى البلد",
-     "time": "2026-11-15T07:50:37.000Z",
-     "seen": "2026-11-15T07:51:55.375Z"
+     "time": "2026-11-15T08:00:14.000Z",
+     "seen": "2026-11-15T08:01:55.608Z",
+     "impact": "يفيد المستثمرين في متابعة حجم فرائض الاستثمار المتاحة ضمن برنامج الطروحات الحكومية."
     },
     {
-     "title": "هل تشهد البلاد تقلبات جوية قادمة؟.. الأرصاد تكشف أخطر الظواهر الجوية المتوقعة",
-     "url": "https://www.youm7.com/story/2026/11/15/هل-تشهد-البلاد-تقلبات-جوية-قادمة-الأرصاد-تكشف-أخطر-الظواهر/7617730",
+     "title": "تحذير عاجل من الأرصاد بسبب الشبورة الأيام المقبلة.. اعرف المناطق المتأثرة",
+     "url": "https://www.youm7.com/story/2026/11/15/تحذير-عاجل-من-الأرصاد-بسبب-الشبورة-الأيام-المقبلة-اعرف-المناطق/7618721",
      "source": "اليوم السابع",
-     "time": "2026-11-15T07:49:00.000Z",
-     "seen": "2026-11-15T07:51:55.375Z"
+     "time": "2026-11-15T08:00:00.000Z",
+     "seen": "2026-11-15T08:01:55.608Z",
+     "impact": "ينبه المواطنين والسائقين في مصر لأخذ الاحتياطات اللازمة أثناء القيادة في فترات تكون الشبورة."
     },
     {
-     "title": "البحرين: منظومات الدفاع الجوى اعترضت ودمرت عددًا من الاعتداءات الجوية الإيرانية",
-     "url": "https://www.youm7.com/story/2026/11/15/البحرين-منظومات-الدفاع-الجوى-اعترضت-ودمرت-عددًا-من-الاعتداءات-الجوية/7618714",
+     "title": "النشرة المرورية.. كثافات متحركة بمحاور القاهرة والجيزة وغلق شارع الهرم",
+     "url": "https://www.youm7.com/story/2026/11/15/النشرة-المرورية-كثافات-متحركة-بمحاور-القاهرة-والجيزة-وغلق-شارع-الهرم/7618736",
      "source": "اليوم السابع",
-     "time": "2026-11-15T07:46:00.000Z",
-     "seen": "2026-11-15T07:51:55.375Z"
+     "time": "2026-11-15T08:00:00.000Z",
+     "seen": "2026-11-15T08:01:55.608Z",
+     "impact": "يساعد الأفراد والسائقين في الجيزة والقاهرة على تنظيم رحلاتهم وتجنب المحاور المزدحمة وشارع الهرم المغلق."
     },
     {
-     "title": "الجريدة الرسمية تنشر قرار إنشاء مركز إصلاح جغرافى بقسم شرطة منوف فى المنوفية",
-     "url": "https://www.youm7.com/story/2026/11/15/الجريدة-الرسمية-تنشر-قرار-إنشاء-مركز-إصلاح-جغرافى-بقسم-شرطة/7618705",
+     "title": "وزير الرى: تعزيز دور روابط مستخدمي المياه وتوسيع مشاركة القطاع الخاص في إدارة المياه",
+     "url": "https://www.youm7.com/story/2026/11/15/وزير-الرى-تعزيز-دور-روابط-مستخدمي-المياه-وتوسيع-مشاركة-القطاع/7618708",
      "source": "اليوم السابع",
-     "time": "2026-11-15T07:34:00.000Z",
-     "seen": "2026-11-15T07:41:55.290Z"
+     "time": "2026-11-15T07:54:00.000Z",
+     "seen": "2026-11-15T08:01:55.608Z"
     },
     {
      "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
@@ -251,11 +254,20 @@
      "seen": "2026-11-15T07:51:55.375Z"
     },
     {
+     "title": "سعر الدولار مقابل الجنيه اليوم الأحد 15-11-2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSjRCNU5XQkVVRzlWUkRMR1FYNER5eHBROGpUYVFTRnB2N3V6ckl2NHZCV0hkS2p6MS1tZFhEWkl4X2dTam1xa29YX2FsdzVVV0ZSeXlCbmt3cHRT?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-15T07:35:48.000Z",
+     "seen": "2026-11-15T08:01:55.608Z",
+     "impact": "يهتم به الأفراد والمستثمرون لمتابعة أسعار صرف الدولار وأثرها على تكاليف المعيشة والعمليات التجارية."
+    },
+    {
      "title": "سعر اليورو مقابل الجنيه المصري اليوم الأحد 15 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBURVI5czRNcXdlNEIzd21kS2kwaFBOc2U4akR5QUtOeHVTV3hPelp0WDZXMjN4VFZVTUFaTm42WFFqNVpz?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-15T07:32:19.000Z",
-     "seen": "2026-11-15T07:41:55.290Z"
+     "seen": "2026-11-15T07:41:55.290Z",
+     "impact": "يهم المتعاملين والمستثمرين لتحديد أسعار التحويلات والتكاليف المرتبطة بالعملة الأوروبية."
     },
     {
      "title": "الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين، واعتراض صواريخ باليستية في الرياض",
@@ -270,7 +282,8 @@
      "url": "https://alborsaanews.com/2026/11/15/2006303",
      "source": "البورصة",
      "time": "2026-11-15T07:23:11.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
+     "seen": "2026-11-15T07:31:55.329Z",
+     "impact": "يهتم به المساهمون والمستثمرون في سوق المال لمتابعة قرار زيادة رأس مال الشركة وتأثيره على أسهمها."
     },
     {
      "title": "«أكسا مصر» تطور حلولًا ادخارية وتأمينية أكثر مرونة",
@@ -337,14 +350,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T06:48:00.000Z",
      "seen": "2026-11-15T06:51:56.184Z"
-    },
-    {
-     "title": "تقلبات الدولار تُربك خطط تسعير المنتجات بالشركات المصرية.. ما خيارات التحوط؟",
-     "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOVHJ2dDZZdWQwZTBoSTFpd1NkT0s4eHF2eTJ4TFM4Rzd3dFZQSElLV3lBMEFzbE0taWdqYjIxM1VLbWt2TlJjaHFvdjlucHdDT0phRXhiX1h3NXM0QV9rUWppUTZkczZBTjlyNFBHSklHWlI3MVlLOXR3a2s3bFNWNEdfMTM5bkJCNnhRVm5RUjVkaktzV3BrX2tYMWN2THF0ZGtwTEFveG5mcTZySzE0VW54N3ZpaGtoUlRrdTF2UEhENlN3NURSMTZZemN6bGpnNF9YMzZGZjQ1V3dmV0ZjM2x4TmVuY1FSbWJjNTZZa3lTQy1FUWpWeDhEZDBtYXRHcl9ySEp2MzJtelVsbEh3TS1ITzBfRDUyMlRoU2ZnWUU0VmZJbjlLTGtTcEZkT2RaQndON2FLMUJDdGtWOFVNNWJrdXZRNUh2cFp6SFRDYndkMjZiVlR6Um5LZkJodDBJZDJmS2x6cktIczBWX3lEUXkwMWx3dHVnX09QRTBVOGd5enJVeFRmMEJEQ1RQemFzRWJaM3NFOVFpa05aNTFZRjBzSkljc2hjRkxOOTVoZFM1VGZsWVlnNzdjcURHRWc0NW82TGVGd1BVLWZUX1p2aWZCZS1JZzh4X0drV1hINHk1dF9GV2VkcTFQem45cXI5NHlab2ZfQmZ1MlpvU25QTUlzNUZTc1Y0cm55NU5OZGU2MDdtREpFVEkzQVNJY19LbEZtc1YtUDVOZXpnU3dmaHBuNFlMZEFfbjRfMTlvTHdzSXFDdUtZdjhNZ3VVZWdPcjNlektnb1djRWlxTjdCeDRKRUZfamxT0gHoBEFVX3lxTE5UcnZ0Nll1ZDBlMGhJMWl3U2RPSzh4cXZ5MnhMUzhHN3d0VlBISUtXeUEwQXNsTS1pZ2piMjEzVUtta3ZOUmNocW92OW5wd0NPSmFFeGJfWHc1czRBX2tRamlRNmRzNkFOOXI0UEdKSUdaUjcxWUs5dHdrazdsU1Y0R18xMzluQkI2eFFWblFSNWRqS3NXcGtfa1gxY3ZMcXRka3BMQW94bmZxNnJLMTRVbng3dmloa2hSVGt1MXZQSEQ2U3c1RFIxNll6Y3psamc0X1gzNkZmNDVXd2ZXRmMzbHhOZW5jUVJtYmM1NllreVNDLUVRalZ4OERkMG1hdEdyX3JISnYzMm16VWxsSHdNLUhPMF9ENTIyVGhTZmdZRTRWZkluOUtMa1NwRmRPZFpCd043YUsxQkN0a1Y4VU01Ymt1dlE1SHZwWnpIVENid2QyNmJWVHpSbktmQmh0MElkMmZLbHpyS0hzMFZfeURReTAxbHd0dWdfT1BFMFU4Z3l6clV4VGYwQkRDVFB6YXNFYlozc0U5UWlrTlo1MVlGMHNKSWNzaGNGTE45NWhkUzVUZmxZWWc3N2NxREdFZzQ1bzZMZUZ3UFUtZlRfWnZpZkJlLUlnOHhfR2tXWEg0eTV0X0ZXZWRxMVB6bjlxcjk0eVpvZl9CZnUyWm9TblBNSXM1RlNzVjRybnk1Tk5kZTYwN21ESkVUSTNBU0ljX0tsRm1zVi1QNU5lemdTd2ZocG40WUxkQV9uNF8xOW9Md3NJcUN1S1l2OE1ndVVlZ09yM2V6S2dvV2NFaXFON0J4NEpFRl9qbFM?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T04:31:00.000Z",
-     "seen": "2026-11-15T06:11:55.534Z",
-     "impact": "يهم أصحاب الشركات والمستثمرين في مصر لتأثير تقلبات أسعار الدولار على خطط تسعير المنتجات واستراتيجيات التحوط."
     }
    ]
   },
@@ -352,6 +357,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "الأردن.. محكمة أمن الدولة تحكم بإعدام منفذي \"الهجوم الإرهابي\" في كنيسة حمود",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/jordan-security-court-sentences-perpetrators-hamoud-church-attack-to-death",
+     "source": "CNN بالعربية",
+     "time": "2026-11-15T08:00:52.000Z",
+     "seen": "2026-11-15T08:01:55.608Z"
+    },
+    {
+     "title": "الفلبين وأستراليا توقعان اتفاقية لتعزيز التعاون الدفاعي وسط توترات بحر الصين الجنوبي",
+     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261115-%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86-%D9%88%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A-%D9%88%D8%B3%D8%B7-%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+     "source": "فرانس 24",
+     "time": "2026-11-15T07:54:39.000Z",
+     "seen": "2026-11-15T08:01:55.608Z"
+    },
     {
      "title": "انفجارات في البحرين وإيران تعلن استهداف قاعدة أمريكية بست مسيّرات",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%B3%D8%AA-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
@@ -409,13 +428,6 @@
      "seen": "2026-11-15T07:01:55.779Z"
     },
     {
-     "title": "مباشر: حماس تعلن مقتل قيادي عسكري كبير في غارة إسرائيلية على غزة",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%87%D8%A7%D8%AC%D9%85%D8%A9-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
-     "source": "فرانس 24",
-     "time": "2026-11-15T06:26:13.000Z",
-     "seen": "2026-11-15T07:21:55.387Z"
-    },
-    {
      "title": "البرادعي يبرز جملة بتدوينة سيناتور عن حقيقة حروب أمريكا وآخرها بإيران",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/mohamed-elbaradei-iran-war-truth-us-senator-sandars-x",
      "source": "CNN بالعربية",
@@ -430,25 +442,18 @@
      "seen": "2026-11-15T07:21:55.387Z"
     },
     {
-     "title": "السعودية: الحرس الثوري الإيراني يعلن مهاجمة قاعدة عسكرية بالبحرين، وصواريخ باليستية تستهدف الرياض",
+     "title": "الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين، واعتراض صواريخ باليستية في الرياض",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tS1NXT2hPOWpVWlZYS01QLUp1dURETldXN1FSS1R0QUMwUDN6b2JRSVR2RVpuNk1mUzBVdVlpdTRsc252cVJGaGlLMU5lUVNGSWl1bU9mbUxsTDNFTnfSAWNBVV95cUxOclBtWjN6RkFoOVU2MWJCNW9QNjdNYkt5dkVMZjBpbU9wYWhIeGtxY1JXNVgyY2JSdHIwVmhRbDFYa29PUzhrdl9la2pWR1lIY3NPdkhfcU5zWFpIdDdCcVRlb2M?oc=5",
      "source": "BBC",
      "time": "2026-11-15T05:40:45.000Z",
      "seen": "2026-11-15T07:51:55.375Z"
     },
     {
-     "title": "\"تنبيه بوجود خطر\".. الداخلية البحرينية تحذر فجر الأحد وتطلب التوجه لأقرب مكان آمن",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/bahrain-warning-early-sunday-post-x",
-     "source": "CNN بالعربية",
-     "time": "2026-11-15T05:12:56.000Z",
-     "seen": "2026-11-15T05:20:26.839Z"
-    },
-    {
-     "title": "الحزب الشعبي وفوكس يتصدران.. هل تتجه إسبانيا نحو اليمين بعد سانشيز؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/15/%d8%a7%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a-%d9%88%d9%81%d9%88%d9%83%d8%b3-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d8%a7%d9%86-%d9%87%d9%84-%d8%aa%d8%aa%d8%ac%d9%87?traffic_source=rss",
+     "title": "\"إزهاق الأنفس بأيدي الروبوتات\".. انقسام دولي بشأن تفويض الآلة باتخاذ قرار القتل",
+     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%a5%d8%b2%d9%87%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d9%86%d9%81%d8%b3-%d8%a8%d9%8a%d8%af-%d8%a7%d9%84%d8%b1%d9%88%d8%a8%d9%88%d8%aa%d8%a7%d8%aa-%d8%a7%d9%86%d9%82%d8%b3%d8%a7%d9%85?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-15T04:25:29.000Z",
-     "seen": "2026-11-15T07:31:55.329Z"
+     "time": "2026-11-15T04:47:42.000Z",
+     "seen": "2026-11-15T08:01:55.608Z"
     }
    ]
   },
@@ -462,14 +467,15 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-15T06:49:23.000Z",
      "seen": "2026-11-15T06:51:56.184Z",
-     "impact": "يهم المتداولين والمستثمرين في قطاع التكنولوجيا لمتابعة تقلبات القيمة السوقية لشركات الذكاء الاصطناعي."
+     "impact": "يفيد المستثمرين المهتمين بقطاع التكنولوجيا والذكاء الاصطناعي في تتبع تقلبات القيم السوقية للشركات العاملة بالقطاع."
     },
     {
      "title": "بعد «مايكروسوفت»... عطل في منصة أميركية لإدارة الرواتب يربك شركات كبرى",
      "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxOcVpBdHhBMXpudXBGTUdTaW1BM2dSMHJoRVVUZ2tEZ25RREo1Vi1pelpwTnM4aWxERVh1VUVWYUJacThOcVpqWmt5WEg0T3VQMkc4M1hxY3kwUUtFM0k3RlVuQ1JjUWlPOU51ZDlac3FpZmZLUzllVDkzMlppSnJvTkRUd1U4eFFZVFF2UGVucmZXRDBtTUN5bFN3Um5KWktFMnl0ZDBnY00xUlNlQVpOQXFZdExHbFNGY1prMk5XUG5ESUw5OGxSdlFIel9iMFc3MmJvTnhTQThHSG84bXdNdHVnc1VLMlBPOFhkckR2ZXc4LUQ4Nm9LNFB5bk40WHZYdFFzLTd2cmg4bmxHenM2U0hGTkFEQUZuZXQ3M3Bkc2tiaFVSZzg2dl9aeW9EaF9RQUVMdkpXbW9jQVRwUGNRbHdveUg4TU5EdjNsOEgyY3FUSEJ4cDVvbVZncURnLXc1QkVKOUlaUGEtOEUyX0NXWVlDSEpjRXVhSGdhV1hyc0lJZE8tZHZhSVI2dnpmMmZVVHBTYUZIb19hZE1jNGs1YmlGWGtvWUNBejNMZktoUVk5NVlrcWRieVFwME9wV2tNRzFvdVNlMU9NZFJpU1FxdDQ2VFdSNWp2WWV0aVk0RXBvVmhDWmNqYlBkTDdhWWFjOU5vMGlna2Q5Z2J2NGVDSmg4VE04UlYxa09yWG1ZTnZ2VnNVTlFRQjdMRm9wdHc5YUNmcHR3Ump3WnZNWEgyaU1TeDlYSWZIS1U1b2wta0dnUDIyVkVN?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-15T06:42:13.000Z",
-     "seen": "2026-11-15T07:11:56.101Z"
+     "seen": "2026-11-15T07:11:56.101Z",
+     "impact": "يزود الشركات والأفراد بمتابعة لتأثير الأعطال التقنية العالمية على المنصات المسؤولة عن صرف المستحقات والرواتب."
     },
     {
      "title": "تحقيق: «ميجاسبيد» رتبت طلبات لرقاقات إنفيديا بنحو 12 مليار دولار لشركات صينية",
