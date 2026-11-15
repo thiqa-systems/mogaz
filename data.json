@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:12:09.618Z",
+ "updated": "2026-11-15T16:22:09.353Z",
  "minute": [
   "شهدت الأخبار الاقتصادية متابعة لأسعار صرف الدولار في البنوك المصرية وتسجيله مكاسب جديدة، بالإضافة إلى تفاصيل عوائد شهادات الادخار في بنكي الأهلي ومصر.",
   "وفي قطاع النقل والتكنولوجيا، تم الإعلان عن موعد تشغيل الخط الرابع للمترو، إلى جانب فتح تسلا باب حجز سايبر كاب.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T16:02:09.306Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 4
+  "impacts": 4,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T16:22:09.353Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64637,
-   "change": 0.79,
-   "asOf": "2026-11-15T16:12:08.000Z",
+   "value": 64487,
+   "change": 0.56,
+   "asOf": "2026-11-15T16:22:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أشجار تحكي تاريخ جامعة القاهرة.. الجامعة توثق 150 شجرة نادرة وتاريخية",
-     "url": "https://www.elbalad.news/7181716",
+     "title": "أيمن الشاعر: عودة تحاليل المكملات الغذائية إلى معامل هيئة سلامة الغذاء",
+     "url": "https://www.elbalad.news/7181771",
      "source": "صدى البلد",
-     "time": "2026-11-15T16:11:20.000Z",
-     "seen": "2026-11-15T16:12:09.618Z"
+     "time": "2026-11-15T16:20:30.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
     },
     {
-     "title": "تبول دمـ ـوي بعد العودة من المدرسة.. تفاصيل واقعة اعتـ ـداء مدرس على تلميذ بالصف الثالث الابتدائي في القليوبية",
-     "url": "https://www.elbalad.news/7181742",
+     "title": "رئيس البنك الأهلي لـ صدى البلد: الأهلي لم يطلب ضم علي حمدي ضمن صفقة تبادلية",
+     "url": "https://www.elbalad.news/7181770",
      "source": "صدى البلد",
-     "time": "2026-11-15T16:10:14.000Z",
-     "seen": "2026-11-15T16:12:09.618Z"
+     "time": "2026-11-15T16:20:11.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
     },
     {
-     "title": "ازدراء الأديان وانتحال صفة.. مرتضى منصور يتقدم بـ12 بلاغا ضد أحمد عبده ماهر",
-     "url": "https://www.elbalad.news/7181759",
+     "title": "البطريرك الأنبا إبراهيم إسحق يحتفل بعيد مار جرجس بكنيسته بالإسكندرية | صور",
+     "url": "https://www.elbalad.news/7181768",
      "source": "صدى البلد",
-     "time": "2026-11-15T16:10:10.000Z",
-     "seen": "2026-11-15T16:12:09.618Z"
+     "time": "2026-11-15T16:18:58.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
     },
     {
      "title": "رئيس استئناف القاهرة يشارك في أداء اليمين القانونية للأعضاء الجدد بالقضاء والنيابة العامة",
@@ -215,13 +217,6 @@
      "impact": "يهتم المستثمرون والمصدرون في مصر بمتابعة تفعيل هيئة ضمان مخاطر الصادرات والاستغلال الأمثل لمراكز التدريب الحكومية."
     },
     {
-     "title": "عبر 1650 منشأة وسداً.. مصر تحول السيول لثروة مائية",
-     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQX1RYTVdmOHRqTHZrMkhYZUtfMmNTQUJMd1RZdHp0dDBLQnplS24yRzNDeE1PemtZQThEbEdTRlNCdC1OTTNkSFZyUElBaGNsOUJwUF9Pd05rYWFPbEpXSjhla3Mtay02LXpycUl4RWctcGJDRUw2MFBfNWUzLXdvaGVGTnFKT2lWWUUxM05wbTBOMXpGQ0doRzlBUHFHUEM1MkctR1FOaUpnc00wWVFHMG9aTmE3SnY0YjNWdnA5djBCSjluci1WVkZST0ZmWGRDdFVINEh3SlIwQlo2cVBkNkhhNVdzYjY1RkFKaV9EQS1LX1BycGREa1l3UUNPQnFrWS1JMlhWME9TVWRTeEFBVjhvUndCR3Q1QUVwRS0zMGZNWXVWbVMxa1hndlljbjkyT2trNTZFQ2lsc1VfNERkYmhRbWVZb0sxenN2V0RNdm8xajNWT01JY1FtZGNISE5FeDV6ZVNGcDE3NnBWeGtKeFNnUjRmU2VZ0gH-AkFVX3lxTE1xX09NUENRbVVQM0lCNjdkVWtyNDFfQWtOVHB3RnpxMFQyZklQYXMxdVBQVEMxdDZaX05CY3NFdXJCS2g0cnoyWVJTYmJMRmdxemI2TWJORmlNQURvM1BrV0FwNU43dWNuMXIxNEZOMEo4eEVsZVJJdjRCTDY1ekg1aHdZWFBCUWhXOVpHWjltY3BfQWpLUkFSdlBILWRuMEdKNEhoR3gtZ3JXejRNX3V6U1oxdmYyVlJqS0o2V3NqR1k0MHVzcnhFZGZBNFlCcHVIdjBhZmxnY2QtWDBQZFI1RjFyb1RnU3pYb0JoajdMaWtvQXJjY3h0VnhDVjJWN0VVcVZsLTNpeVBoX0VNMGtrN3JhMzNfSmZxOWdQVUstZzdQWFlxNTJWaXdiWDRrekJHWEsxbEEtZXVFZGI4NmlZYXJxQ2lyNVhmXzB4V3VTcjFMd1JYSEVUakV6enF3cEhuakZrNHJydDAzOEJMYmNnZkRyVWRXLUpTNmFUT1E?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T13:00:14.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
-    },
-    {
      "title": "مدبولي يشكل لجنة وطنية عليا للإدارة المتكاملة للمناطق الساحلية بالبحر المتوسط",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oOC1mRjNhT0VlT0ZNY2duaG5jSUVaODhBWDRYTzFuMk1GeF9zVXFDQVNjejRKYjlEamZRXzM4eVY1eFRxazZj?oc=5",
      "source": "فيتو",
@@ -235,6 +230,13 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T11:31:00.000Z",
      "seen": "2026-11-15T11:42:09.499Z"
+    },
+    {
+     "title": "السيسي يوجه بإطلاق أدوات دفع إلكتروني جديدة وتمويلات مبتكرة للبنية الأساسية",
+     "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxNejMyWXVwNHMyMWU1bnpQNmxUanByTU1oSXRpLXB0ZlZqVWRSRHRoRE5tcFptYVhnLVh3eFNHTk9oSHdlbXNSSXdtYWk3cUZxY2ExZUNCUXJTMDFnbFQ4T3BkUzVrTWVvQmpzaHNfZ0g4cXM4UkpGU2l2emRwNWVzOFN0aENrUDhGSjZvdWRJalNjZG5EQnVMTGV1dl9RNTRIcExZamd3T2ZzQS1zT1dabDdqOVZGdWYwVHZCclFScTZfVTlPak9HUk5QcVdzZUMtNGVXcnRLN2N3dkpXZzZrVTFManpXMTZQR1VCRm1IbDhDMzJ6QUhlanFyZUxSaHZuMkwzQ2p6SmtPYkFTdXMxZXNrVEZrUXFnc0N4ZUgtZWlpSXpwWWR0S2g5SGREcE5nNFlUaXZDWjhDQ3Vub01RbVE5bnVyeTQ3by1DZHhvbjBQQzZicHhERzE1LTZhNEsxUVVsZEpWOHdUcGY5MDVfQXFPTU95VVRuSzZ1QkNpVmZWVnkyMzJ4WG5TOW45VFBPTU5yQUh2bm02MUFsUG42ZXp6TzJUSDFQeFFDdTk3X3lpMFJQaVBOUTRMMVdvcGZ6NVpmVmpKUkp5TnBXUTZXcU4tS1N1c0hXNXF1NDJMMFJPcUtkMk40ZS1uVVZkN0xPS1FWN2xKSFVDUk9lY09YeTlHVjJ6YzctQzBZMjk0anZyNk9CMmg1d0NKdERrUVdYaGRPZmtWelFGVWlLblhPOUVUa05TcVVFcHdXREV2b2NuUUc5aGZJcG1TSkNRbzNDeHVxMFpXN19PSFQyd2dsREZRdWxFTjJkdjV4X0s1WEhTTzI1X0VGRkk4ZDhNTEJPcjRmVURlX1VtbnPSAZAFQVVfeXFMTjJ4TE9GaE9haXFJRmRsdUpEQXlwWDg0cDNhR3h6QW5CNG95MEhIam83Q0tJZWlwN0FoQi16MFVEVFVxbjZmSWdPWjlCQTdCZUZGa25kVEpmZ1JUUzVYdGZmenRpdmEtZjlrS2x0M1BsVHIxa2xveDVfb2FhbTRWbW0zei1iQm5JRHVOTUFKd0RVZi1OYVlCNlJMaTRmaXRSVU9XdWU3cGVEcEdZa1NrZFRQcG5KT1FLOGJ5Q0NBakFWOUM2QVU2a1ZpWmk5dFlMQkx5Z3ZxS1RSakV4Xy1BQnpoakZ2MlFFNzRiZklKd3VXc0xRd0laaTBXZnV0b25lano3VTUtOWdrUTJDNW5oRDVEZmdDWTRGZGxwMTVDQzhsSkEyeDRrNG5VVVZiZmtONUFoSHA1SWRpV1FLQU5qWlQyRGdFWGlSdmNrWThPVGRRbVExa0I2MzVtQTN5cHpiVlJlQzA2VU9iRVExV2hfck03VDNYRUJlUzVQMEZiQ0FCY1NOS0NKSU1pU0JyR0tlTnhsaFMxTi1uNHhVV2pKbmtST1ZYMkJWSXp3bU9fcUItYUEyMzRmUDJpQ3FqSTlzUGttb1E5S0t3ZEozT241TnRIYm05WF9PN2Z5Sk4xcXBKZUMtYmIxZlZrTEtHeG9GM3c2VVpLbzRZb2M0dVUzN0VfNmR2UW5NZVVHcGkxYTQ5SkVvV3VvY29sOWE3S3lhQ1JPTzhfaC1hMTQ5WW5wWlVXb0ZJYWswTEhmaHBfc3hkQ1Zud1VaZ1RaYmNSZTJCUzJfZjVtcnh4MXFUU0dDT0IySnFOTXgzRWV2OGlZRVJhZDZmUFBhWUNrVkc2emZlbDJvZEttdHhqVklsXy1SNE4?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T11:06:08.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
     }
    ]
   },
@@ -242,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم في مصر الأحد 15 نوفمبر 2026 بالبنوك",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wVnRyRGNFTGRRSlFfdUZWcXJRdG95TGdud2wyQmJEMTdVZWJ6UFNpUEpFRmZidTZldTJlRkYwZ1A1UWlnS1Vv?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-15T16:17:00.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
+    },
     {
      "title": "انسحاب القوات اليمنية من قرب باب المندب، وجماعة أنصار الله تفرج عن 600 من أفراد القوات الحكومية",
      "url": "https://www.bbc.com/arabic/articles/c8zx9vqx3w22o?at_medium=RSS&at_campaign=rss",
@@ -337,14 +346,6 @@
      "source": "BBC عربي",
      "time": "2026-11-15T14:05:11.000Z",
      "seen": "2026-11-15T08:11:55.982Z"
-    },
-    {
-     "title": "سعر الدولار في مصر اليوم الأحد 15/11/2026.. عودة الارتفاع",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDRl9HY3RLdXRVN3lWaU81YzBnN2pwSk9EMjRGNXFrNjZSRVhOdkRQZXhlOXdvbkNSbVVoSDNxOVVJekZoVTBZNEFnSmFTUXdyX0tQUk1R?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-15T14:03:45.000Z",
-     "seen": "2026-11-15T13:52:09.521Z",
-     "impact": "يهم المستثمرين والمتعاملين في مصر لمتابعة تحركات سعر صرف الدولار وعودة ارتفاعه."
     }
    ]
   },
@@ -352,6 +353,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "اليمن..\"إعادة تموضع\" حكومي من باب المندب وسط حديث عن \"انتكاسة\" ميدانية",
+     "url": "https://www.dw.com/ar/اليمن-إعادة-تموضع-حكومي-من-باب-المندب-وسط-حديث-عن-انتكاسة-ميدانية/a-79952909?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-15T16:13:00.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
+    },
     {
      "title": "الجيش الإسرائيلي يعلق على حادثة تسلل شخص للحدود الأردنية",
      "url": "https://www.skynewsarabia.com/middle-east/1904905-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%82-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%AA%D8%B3%D9%84%D9%84-%D8%B4%D8%AE%D8%B5-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9",
@@ -442,13 +450,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T13:47:11.000Z",
      "seen": "2026-11-15T13:52:09.521Z"
-    },
-    {
-     "title": "انطلاق أعمال قمة الفرانكفونية بكمبوديا على وقع صراع دبلوماسي بين الكونغو ورواندا",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261115-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%82%D9%85%D8%A9-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%81%D9%88%D9%86%D9%8A%D8%A9-%D9%83%D9%85%D8%A8%D9%88%D8%AF%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%81-%D8%A3%D9%85%D9%8A%D9%86-%D8%B9%D8%A7%D9%85",
-     "source": "فرانس 24",
-     "time": "2026-11-15T13:41:30.000Z",
-     "seen": "2026-11-15T13:52:09.521Z"
     }
    ]
   },
@@ -469,6 +470,13 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-15T14:18:22.000Z",
      "seen": "2026-11-15T09:11:55.978Z"
+    },
+    {
+     "title": "ضجة في كوريا.. متصدر امتحان المحاسبين يعترف بالغش عبر الـ AI",
+     "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPeERrbHE4QUhFTWZxQUlGRnBjd3ZBU3NQSDNxWFVqaEVuNXJtOTc2ZEpDWnQ0dXE5N0tPVlBYdWdpaU9WTF9GWEJZUUpORUFkdk1aZHBGbXoxZ0dkN0xIYTNaWFlGcFpIa1MyS2lvTHllTV8tNHdpekJ5TDc2aUFuSXdsRk4zdkxFWWRhRDVMUHBBZmZtWkZRR2U4bjZ6ZGFTT2VqVWxJbjZka3Y2N1dVMmxNNXMwMWZsMmxEcU5pUmZ1RG5qVkNBaF9FUFpDTldHekN6WHBWY1JwLVcxU1FVaE1pRnpoa1dIVEdfczVaOWx1WnhMSThHMXVxbjBqejExMDl5bHVucEpEMlhnc3dFbmhBRlFIOU9LdEV1RFFhcEotY1lQQVBvSmM1VG91LXFkc0tkNm5YdXRMN1JRZTQ0UjBvRnBpM3JnMDktNktabWE5SFh2eDdvX0FuTFdwVWYxQ21vYklVMVhUblRub09TbTBxcUx4RU55SllqT0Q3SUJfWXdZY3pUNTV2SEdManVUTUY0bUl2UnlDZFZERzZmZ3NrVzNMWVpxalhkR21UMU1MYTVWVUE2YkYxSzBCUdIBwwNBVV95cUxOeTdBU21hbEE1eHRQT0FYVTUwazFrU1JjU2dDdkdMbklUckx5MXhkRlI5RDR4YVJTOXZBdjlDdGpVRDhFdUcydTZLUnBOUldFNmdnb0tZRWt5TU1YNzFjWWctRXYwekgyRE5UN0dkTVJOQ2VKMWFlTUJjd2RvTURrNzcwN3dNQnZ2Mk5rQmVQMkdtQm9EVU8yX2RkQ3NYSlRlMkROYkpCQlU3V2VybmNaX0NSblRxWlJUSXJBY19VUE5wNGloRnBLcm1tU3BRc3c0SGNvUnBSSTFiUXZMWk1hOHR5RkJZa1p3bldCdnNyekhFM1FzSnBLUTUtWkxONVFjMVZXeU5XQnRYQlc5TFQtbFpMX3Ryc21FNTFHVU9zaHlQYmJqSnl1UFlIRjdGSkpEcmV3blpwNlBSQVdSblBsV25fdDJ5a3FpOTdoVlEydEo2ZG9xUHd0U1Y4WTFkZmJZZnFFenFfekJpQTJ3RWg3YjFTWnltRGt2dEJQNUFTWDZvTHFlZGkwNDdBZmJfdTVWczFDdXY2MzlyQWdqdDBzdllTM1M4UjFzd3NEbWJ0d1hvUEt3UU9sNHZLS0I4bXl6RGlJ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T13:22:00.000Z",
+     "seen": "2026-11-15T16:22:09.353Z"
     },
     {
      "title": "دون عجلة قيادة أو دواسات.. تسلا تفتح باب حجز «سايبر كاب» بشروط غير متوقعة",
@@ -553,14 +561,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T07:11:32.000Z",
      "seen": "2026-11-15T11:12:09.414Z"
-    },
-    {
-     "title": "تحليل: شركات مرتبطة بتشييد مراكز بيانات الذكاء الاصطناعي تفقد 4.2 تريليونات دولار من قيمتها السوقية",
-     "url": "https://aitnews.com/2026/11/15/ai-data-centre-supplier-stocks-4-2-trillion-selloff/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-15T06:49:23.000Z",
-     "seen": "2026-11-15T06:51:56.184Z",
-     "impact": "توضح التحديات المخاطر الاستثمارية المتعلقة بأسهم الشركات المرتبطة ببنية الذكاء الاصطناعي."
     }
    ]
   }
