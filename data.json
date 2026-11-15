@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:11:56.101Z",
+ "updated": "2026-11-15T07:21:55.387Z",
  "minute": [
   "تضمنت الأحداث الإقليمية إعلان الحرس الثوري الإيراني استهداف رادارات وقاعدة مروحيات أمريكية في البحرين، وسط تحذيرات أمنية للسكان.",
   "وعلى المستوى المحلي في مصر، تتابع الأسواق تحديثات أسعار العملات الأجنبية في البنوك مع تحذيرات جوية من شبورة كثيفة وتفاصيل حول مشروع قانون الأحوال الشخصية للمسيحيين.",
@@ -9,7 +9,9 @@
   "at": "2026-11-15T07:01:55.779Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T07:21:55.387Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64365,
-   "change": -5.69,
-   "asOf": "2026-11-15T07:11:55.000Z",
+   "value": 64431,
+   "change": 0.47,
+   "asOf": "2026-11-15T07:23:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,49 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إيران تكشف عن مدينة صاروخية تحت الأرض.. وقاليباف يهدد بتغيير موازين القوى",
-     "url": "https://www.elbalad.news/7181019",
-     "source": "صدى البلد",
-     "time": "2026-11-15T07:10:02.000Z",
-     "seen": "2026-11-15T07:11:56.101Z"
-    },
-    {
-     "title": "حكم ضمان ما تلف من القماش في يد الخياط.. الإفتاء توضح",
-     "url": "https://www.elbalad.news/7181012",
-     "source": "صدى البلد",
-     "time": "2026-11-15T07:07:50.000Z",
-     "seen": "2026-11-15T07:11:56.101Z"
-    },
-    {
-     "title": "عفاف شعيب: أحمد عز يذكرني بالفنان الراحل محمود عبد العزيز",
-     "url": "https://www.elbalad.news/7181017",
-     "source": "صدى البلد",
-     "time": "2026-11-15T07:07:00.000Z",
-     "seen": "2026-11-15T07:11:56.101Z"
-    },
-    {
-     "title": "تفاصيل نسب ميراث الزوج والزوجة والوالدين وفق مشروع قانون الأحوال الشخصية للمسيحيين",
-     "url": "https://www.youm7.com/story/2026/11/15/تفاصيل-نسب-ميراث-الزوج-والزوجة-والوالدين-وفق-مشروع-قانون-الأحوال/7602893",
+     "title": "تنبيه من المدارس بشأن تقييمات الطلاب الحاصلين على إجازة من التأمين الصحى",
+     "url": "https://www.youm7.com/story/2026/11/15/تنبيه-من-المدارس-بشأن-تقييمات-الطلاب-الحاصلين-على-إجازة-من/7618691",
      "source": "اليوم السابع",
-     "time": "2026-11-15T07:00:00.000Z",
-     "seen": "2026-11-15T07:01:55.779Z",
-     "impact": "يهم المواطنين المسيحيين في مصر لمتابعة التفاصيل القانونية المتعلقة بتوزيع نسب الميراث بين أفراد الأسرة."
+     "time": "2026-11-15T07:21:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
-     "title": "الطقس اليوم.. شبورة كثيفة وانخفاض الرؤية الأفقية والصغرى بالقاهرة 17 درجة",
-     "url": "https://www.youm7.com/story/2026/11/15/الطقس-اليوم-شبورة-كثيفة-وانخفاض-الرؤية-الأفقية-والصغرى-بالقاهرة-17/7618037",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T06:00:00.000Z",
-     "seen": "2026-11-15T06:01:55.513Z",
-     "impact": "يهم السائقين والمواطنين في مصر لتوخي الحذر على الطرق بسبب انخفاض الرؤية الأفقية والشبورة الكثيفة."
+     "title": "موعد مباراة منتخب مصر ومالاوي في تصفيات أمم أفريقيا 2027",
+     "url": "https://www.elbalad.news/7181031",
+     "source": "صدى البلد",
+     "time": "2026-11-15T07:21:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
-     "title": "من 100 لـ25 كم.. كيف غيرت «محاور النيل» خريطة الاستثمار والعمران بمصر؟.. انفوجراف",
-     "url": "https://www.youm7.com/story/2026/11/15/من-100-لـ25-كم-كيف-غيرت-«محاور-النيل»-خريطة-الاستثمار/7580720",
+     "title": "الأزهر يعلن فتح باب التقدم للدفعة 5 برواق الخط العربي والزخرفة الإسلامية",
+     "url": "https://www.youm7.com/story/2026/11/15/الأزهر-يعلن-فتح-باب-التقدم-للدفعة-5-برواق-الخط-العربي/7618689",
      "source": "اليوم السابع",
-     "time": "2026-11-15T06:00:00.000Z",
-     "seen": "2026-11-15T06:01:55.513Z",
-     "impact": "يهم المستثمرين والمواطنين لأن تقليص المسافات عبر محاور النيل يعيد تشكيل خريطة العمران والاستثمار."
+     "time": "2026-11-15T07:19:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "مواعيد مواجهات نهائيات سوبر رجال اليد بصالة حسن مصطفى",
+     "url": "https://www.elbalad.news/7181024",
+     "source": "صدى البلد",
+     "time": "2026-11-15T07:16:59.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "الحكم في دعوى محام يطالب محمد صلاح بأتعاب وتعويض 255 ألف جنيه.. بعد قليل",
+     "url": "https://www.elbalad.news/7181026",
+     "source": "صدى البلد",
+     "time": "2026-11-15T07:16:01.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "جامعة القاهرة تعزز حضورها الدولى بمنتدى مراكز الفكر الصينية الأفريقية",
+     "url": "https://www.youm7.com/story/2026/11/15/جامعة-القاهرة-تعزز-حضورها-الدولى-بمنتدى-مراكز-الفكر-الصينية-الأفريقية/7618686",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T07:16:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-15T05:09:03.000Z",
+     "seen": "2026-11-15T04:00:28.027Z"
     },
     {
      "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
@@ -194,13 +200,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T03:38:00.000Z",
      "seen": "2026-11-15T06:41:56.030Z"
-    },
-    {
-     "title": "إثيوبيا تطلق اتهامات جديدة ضد مصر بسبب السد العالي",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHRLRl9ITXhMLXM4TGJQUUlqZERoTEVWb0k0T3UxR2ZXbDFwWU1nb2xaMnMtR0lUOWxubDlUMWNkSkRMZ19TSldTSHVyWDRtLXlzTGVZOGhaV0trcHdQbEctM3ZXWk9GQlVrVFpUM3Ffb2cxWDkySC1ocDU2Wlp4R1MyZlhNTVdFaFZsSGN0SHJsRnJ0aUpuRDl1amVVVTRZYlFlU2ZXOTdrYTNHZ1JSbnphWkNrSmNk?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-15T00:54:41.000Z",
-     "seen": "2026-11-15T04:00:28.027Z"
     },
     {
      "title": "إجازة 3 أيام متتالية للموظفين.. الموعد والفئات المستحقة",
@@ -245,6 +244,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم الأحد 15 نوفمبر 2026 في البنوك مقابل الجنيه المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xVk5OMHQyLVFNYWZRS1dMOWMzcVRBWHh5Z19wTV9TNEcwSjV6ckJyN0VBQlJJX2xSYTNka3NMS09YVUgt?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-15T07:12:40.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "الدولار نزل.. أسعار العملات الأجنبية اليوم الأحد",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBhRGtuUTBCUXN6dk44V0I5cVZEcWRHNjR4dGVlangtbDd4a0pXei1QMVdBR1hfVnNRanlrX1Qwa2s1dmo3?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-15T07:12:24.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
+     "title": "الدولار واليورو والجنيه الإسترليني.. أسعار العملات الأجنبية اليوم الأحد 15 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9vNENScy1ZQ2RrRjdYRzFSNzlxcnJmZVBoYVNNcjJxb2pfM2haUEc0QjJvX0JXa0FXMDRHc3pLUUJza2tO?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-15T07:12:09.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
      "title": "سعر الريال السعودي في مصر اليوم الأحد 15/11/2026",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbjMxQzFzajFfNnF3OUhmWkpTYnhYelcwQV9pUEFXLVFGQUFlZzlxMERKbkU1ajJNS0xPSXdpTFNkaVNSc1JuaUlJN1VpRnRheU9famlB?oc=5",
      "source": "جريدة البورصة",
@@ -274,14 +294,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T06:48:00.000Z",
      "seen": "2026-11-15T06:51:56.184Z"
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه في البنوك اليوم الأحد 15 نوفمبر 2026.. تحديث أسعار الشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3ZlpEcEVRb1VsV2Jacy1sMUpHSFRvQ05ZWEJFRVR1SjVYeDROa0EwdHdOLUVOcXVYQ3VtbUtJLXJsM21V?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-15T05:00:00.000Z",
-     "seen": "2026-11-15T01:40:27.158Z",
-     "impact": "يهم المتعاملين والمستثمرين في مصر لمتابعة تحديثات أسعار شراء وبيع الدولار أمام الجنيه بالبنوك."
     },
     {
      "title": "الحرس الثوري الإيراني يعلن مهاجمة قاعدة عسكرية بالبحرين، وصواريخ باليستية تستهدف الرياض",
@@ -337,22 +349,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T03:00:00.000Z",
      "seen": "2026-11-15T05:30:27.121Z"
-    },
-    {
-     "title": "بعد قرار البنك المركزي رفع الفائدة.. تفاصيل أرباح 100 ألف جنيه في شهادات الادخار الجديدة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVbnJjeUZSMFY0SHVYWXhGMzRuRi1mRkJaY1FmamF2Y2xiQ3VPQkVtbENMbFl0cENaWU1BUkRfZ1hCZEJmaGlTZFEyV1UwdjFEU2JEYV9KUUd4c3dvYzlR?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T01:51:00.000Z",
-     "seen": "2026-11-15T04:00:28.027Z",
-     "impact": "تفید المودعين والمستثمرين الأفراد في مصر للتعرف على حجم العائد المالي المتوقع عند استثمار أموالهم في الشهادات الجديدة."
-    },
-    {
-     "title": "من إنتاج الدولار إلى كشف حساب المواطن.. كيف تتغير فلسفة إدارة الاقتصاد والمال العام في مصر؟",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkOWdsaGpKQjF6VG85aW1RZC03SUJ5YUtrOXc1UEsxSmtVOGNrbTN5M3QyQzJvU1haX1NQVnlZcG5va05qaVhIUTF3di1JUnYzX1JYMTVQZUd6b18weEZz?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T01:12:00.000Z",
-     "seen": "2026-11-15T01:20:26.630Z",
-     "impact": "يهتم المستثمر والمواطن في مصر بمتابعة تغير فلسفة إدارة الاقتصاد والمال العام للتعرف على توجهات الدولة الاقتصادية."
     }
    ]
   },
@@ -360,6 +356,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "خلاف بين الكونغو الديمقراطية ورواندا بشأن رئاسة المنظمة الدولية للفرنكوفونية",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261115-%D8%AE%D9%84%D8%A7%D9%81-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9-%D9%88%D8%B1%D9%88%D8%A7%D9%86%D8%AF%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%81%D8%B1%D9%86%D9%83%D9%88%D9%81%D9%88%D9%86%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-15T07:08:56.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
     {
      "title": "قضية مقتل العلواني تثير الجدل.. توضيح رسمي من لبنان",
      "url": "https://www.skynewsarabia.com/middle-east/1904846-%D9%82%D8%B6%D9%8A%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A7%D9%86%D9%8A-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
@@ -389,11 +392,25 @@
      "seen": "2026-11-15T06:41:56.030Z"
     },
     {
+     "title": "مباشر: دوي انفجارات في البحرين وإيران تعلن مهاجمة قاعدة أمريكية بالمسيّرات",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%87%D8%A7%D8%AC%D9%85%D8%A9-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
+     "source": "فرانس 24",
+     "time": "2026-11-15T06:26:13.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
+    },
+    {
      "title": "البرادعي يبرز جملة بتدوينة سيناتور عن حقيقة حروب أمريكا وآخرها بإيران",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/mohamed-elbaradei-iran-war-truth-us-senator-sandars-x",
      "source": "CNN بالعربية",
      "time": "2026-11-15T06:19:24.000Z",
      "seen": "2026-11-15T06:21:55.484Z"
+    },
+    {
+     "title": "تصادم طائرتين في مطار ميامي.. ومشاهد من قلب الحادث",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNb1hGbjdydnRuUlZxTXdYb01pQUMyZDBkcjhFVllFN3JnZ2xGVHZ2bVlJekJudFplS2lycWEwNk8zUlBZdWxkb2hjS1dvVDR5WUQ3LW9jMzV2dG9yVGhvaVNzak9SenlWVVJqRGdlOEhEZUI5Rm02LW5TQU9XY2tUNkdhd1hQQTFzaU9KbzNxQXJxVm9xZW81eERjdmpFRnFwc2hiTmw2NHpUS1ZIUGh3b0ZMV3I0ZV9pZ2pVaGN2OXQtTUJvTGR1T1l3VUJKVmI3WTlTZ3pOck9INnM3c0xPVWd3cF9pbWpDR3Z3UUtMM29KTENnNENWWFl5aG10akFqV1RkU1hlLXp3MGVfM25PVmRxM0lVdVdOczYzVVh1XzRlaEp0ZGpiRXZoajdSbl9waXptM1lMb2l5SHI2MUF2ME1kTHBlZTFOOUhhTDRuMTdpSjZGbWlYc25FSWVmbFpBY0hKb1FpdHN3ZmRrbVFxU2ZOQ3V0VFhaa2RfUDctMUVfSlQ4a0VwWW90bEs3S3NFZGNhdG1xNnZDUVNlX2JmVFhvMEpSNGZwYVRPSlpQYVJpQjVZVFo0Ykp4Vk13RDV3N1lLd09YUk1ReXpU0gHSA0FVX3lxTE5Xb3dZWmNISWtWMnFyMUNSamtLUnBTRWVzR2diX080M1d5M3VuWWRVMEUwQ2RmUU1RaWUycWJkTmJ4RGQyeFJjVF80TmlHMmptR1Nwb0Zqdk50QUdNUDh2YmJILTJ3YVFzd2dENmhiYnRfV3VKYzktRm9LMnlTZlBpWG1vZTVuaFUtRWdweFhxRHcwY0ZZQjRNdlN0Q1FfS1BHMmlKV3JmQU96Q2M4TERqQWhGQWJ0bEphQmdRdF9nMnBaWDdwQndYeEFxMGF3WFYxZjN3NjR0dUtmbk1DQ2c3M0FLWFJxQTRsV3VPcm9YOW83Sm1uc0I0TUtkU29DV0lRZHY5REJnTjFBNy1mdEVxbjJ2WGxjc2pZNnV1dlVEcVZJOHA2ZU91X2RRbzk5S2w2cmU4QmVnVXVIWkpoYzYyVE1xS05uZ0xJNnZydmI2UWxHdHREc04tLWlfZlF5bzZHUk1MYlBQaDJLc3VCVm5JOXBESzh3LVphLWNFWU84M2RqYVhvaGJMZEZ1a2NSdTlfd1JqOGVPWnRFR2E5N2plR0pJMnVuYzVIVi1SVUpoWEFZb3FpT0NZS2d5RVZvdGhSZEo3cjl2dS10ZjlUWUQzLXc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T05:51:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
      "title": "\"تنبيه بوجود خطر\".. الداخلية البحرينية تحذر فجر الأحد وتطلب التوجه لأقرب مكان آمن",
@@ -417,46 +434,25 @@
      "seen": "2026-11-15T06:11:55.534Z"
     },
     {
-     "title": "أمريكا.. الديزل عند أدنى مستوى في شهرين",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/15/%d8%a7%d9%84%d8%af%d9%8a%d8%b2%d9%84-%d9%81%d9%8a-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%8a%d9%86%d8%ae%d9%81%d8%b6-%d8%a5%d9%84%d9%89-%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89?traffic_source=rss",
+     "title": "أدوية تخسيس تسبب العمى.. حقيقة التحذير الأمريكي وحدود الخطر",
+     "url": "https://www.aljazeera.net/health/2026/11/15/%d8%a3%d8%af%d9%88%d9%8a%d8%a9-%d8%aa%d8%ae%d8%b3%d9%8a%d8%b3-%d8%aa%d8%b3%d8%a8%d8%a8-%d8%a7%d9%84%d8%b9%d9%85%d9%89-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-15T03:16:01.000Z",
-     "seen": "2026-11-15T07:01:55.779Z"
+     "time": "2026-11-15T04:07:00.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
-     "title": "عاجل | قاليباف: لن نبقى في حالة اللاحرب واللاسلم وإذا ارتكبت واشنطن أي خطأ فإن قدرات قواتنا ستحدد جغرافيا المعركة",
-     "url": "https://www.aljazeera.net/news/2026/11/15/%d8%b9%d8%a7%d8%ac%d9%84-%d9%82%d8%a7%d9%84%d9%8a%d8%a8%d8%a7%d9%81-%d9%84%d9%86-%d9%86%d8%a8%d9%82%d9%89-%d9%81%d9%8a-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%84%d8%a7%d8%ad%d8%b1%d8%a8?traffic_source=rss",
+     "title": "هل \"الخنق الاقتصادي\" الأمريكي لإيران أقوى من الحصار؟",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/15/%d8%aa%d8%ad%d8%b1%d9%83%d8%a7%d8%aa-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%ae%d9%86%d9%82-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-15T03:15:36.000Z",
-     "seen": "2026-11-15T07:01:55.779Z"
+     "time": "2026-11-15T04:03:49.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     },
     {
-     "title": "موسكو تؤكد انعقاد القمة التي ستجمع بوتين وترمب وشي في الصين",
-     "url": "https://www.aljazeera.net/news/2026/11/15/%d9%85%d9%88%d8%b3%d9%83%d9%88-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%86%d8%b9%d9%82%d8%a7%d8%af-%d8%a7%d9%84%d9%82%d9%85%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ac%d9%85%d8%b9?traffic_source=rss",
+     "title": "\"وايلد وود\".. غابة مسحورة لا تنجو من صراعات البشر",
+     "url": "https://www.aljazeera.net/arts/2026/11/15/%d9%88%d8%a7%d9%8a%d9%84%d8%af-%d9%88%d9%88%d8%af-%d8%ba%d8%a7%d8%a8%d8%a9-%d9%85%d8%b3%d8%ad%d9%88%d8%b1%d8%a9-%d9%84%d8%a7-%d8%aa%d9%86%d8%ac%d9%88-%d9%85%d9%86?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-15T03:07:50.000Z",
-     "seen": "2026-11-15T06:21:55.484Z"
-    },
-    {
-     "title": "الدفاع الجوي البحريني يدمر مسيرات إيرانية",
-     "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPOTZGTlJRcWhYT2NuV05VNDlfdWZXQmRNSWFEWC1YTnlNLWVOdllFSW95b1FkaFkwdHE1UWIwSnhqcnQ5MFNiV3dNRXhaT1FYLXRWTU16S2Nia0RoM2VxcE5Md0EwTzMwOEZSQ242YVVuNTgzOGtnZEhnRWxNdVpVcjdOUXN2Rkp6THJXd2M0SEN1Q1Y0eHJSMmJGcEE2czkxdFJybWd0TDdMcHJVczRrZFJTS0duZWV0cDRZTGYxbnluWmNyQzdfbjR1UG5uVmJfS0cxd0stdTBVcUVlbmozSXdMM1FxVUt1QkV1c01lSWNyWWlFVWJwTE82cEwtaVh2UXBfdUk0NzVNZzdub2FiODBqcnNSQnZVSmR1UlhvQlRDQjlycVJ2Q2FNNldHTVVlMnRKdDZMQUVWTXNiQmdubGVmbUNwVWI5X0dHWFZJaXczaE5ZeDB3SGxsbW9SaW1ONWRfU2JZSHZFT1FKQUF4SzFQbGNQUkdwSDVMVG8zdE9ldzh0R2k40gGMA0FVX3lxTFBvSDFSWXpDNGhsYTNHY2JVNHR1aTVxWmF1bThDdEtxdzgtaVNvUl9Vby1wXzRRSVJudGJ4MTdmbTJyX2RQR09iYWpoS1J1NDJBdFM4Wmd0cnlrNG5GdTFfU0hFNzA2WG5VN0hRNERaTzJPTThkeUdpZmY2Q0pvWXhsVDZhYmRRY28teUtaU3VmU2IzUWFjM09waFBuMVg5OHV6RzZQQU5Za2tTVmhlLWtrb3ZCQXdMS1VBbHIzX0lYdExmOWZScDRCbnZIYW5IeXBDVjE2OTBHZmh0QUpySjFPbURaZGNiYm1HUEFOR3hxbmJjQ1BmdUFVSGxoQlpJSVJyaWxDYmQ5SWFaS2wtNC1kdm0yVEVKZmViT1V1M1hYQ0FLQ0ZtZGt2VEpXUFc5aFRnSXY5SEN1T3IyYlhFR2VyWDZYVUV1aFd3YmhncEVveDRxTEFwOXhZNHE5ZW9uMzBwMEJvTm44RVdySEd4bjZjbHBkMlctQzU0bE1PVDBRUlVnd2JiNk1uNGpfTw?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T02:11:00.000Z",
-     "seen": "2026-11-15T06:11:55.534Z"
-    },
-    {
-     "title": "إنذار أمني في البحرين..ونداء عاجل للمواطنين والمقيمين",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUZDl5ZzhncjBMR3lob1U5UVpPVWk3NVRsMFFMR1NfcTE2SE5XOHRGY2VDSldDZi1NZUNUNHhjSU1UN3JCT0lmVVktUHM2QnRPQmxwMVhULXBsQ21oQndV?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T02:09:00.000Z",
-     "seen": "2026-11-15T04:30:26.685Z"
-    },
-    {
-     "title": "سمير أبو يونس: إسرائيل تعلن اغتيال قائد لواء رفح في حماس، والحركة تقول إنه أحد أبرز مخططي هجوم 7 أكتوبر",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZnVNYU9vaWdYWW5OWnNuZXNNWEM2dzE1RVM2cEJMMzk5UHFWNFZuSm5lanlLN2lHSWdSQm1keWZTRXVCcU56dHVjVzBhSW1zR1dTWFozV1c4d3VGT0HSAWNBVV95cUxOZjVfbEkzWDFZdUF4M0oyS1FsZUF2MXpISXhnODZTbHV1N0JSbEdiVVdEc1kwUXFyQ0NycE5nQjVBb0ozMkJfUWE0Q0pNczRBUmJ5MmtUWnVIZUQ3eGlJS2R4Q1E?oc=5",
-     "source": "BBC",
-     "time": "2026-11-15T01:18:55.000Z",
-     "seen": "2026-11-15T02:10:26.291Z"
+     "time": "2026-11-15T04:03:35.000Z",
+     "seen": "2026-11-15T07:21:55.387Z"
     }
    ]
   },
