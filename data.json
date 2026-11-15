@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:42:09.624Z",
+ "updated": "2026-11-15T13:52:09.521Z",
  "minute": [
   "تناولت الأخبار المصرية مناقشة تعديلات قانون ضمان الصادرات لدعم وصولها إلى 100 مليار دولار، في حين سجل سعر الصرف بالبنوك ارتفاعاً جديداً وتوقع مؤسسات خفض أسعار الفائدة مستقبلاً.",
   "وعلى مستوى الخدمات والنقل، أُعلن عن موعد تشغيل الخط الرابع للمترو وتوفير خدمات رقمية بمطار القاهرة، إلى جانب تزويد القطارات الجديدة بكاميرات مراقبة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-15T13:32:09.595Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T13:52:09.521Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65395,
-   "change": 1.98,
-   "asOf": "2026-11-15T13:42:09.000Z",
+   "value": 65459,
+   "change": 2.08,
+   "asOf": "2026-11-15T13:53:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بعد 3 سنوات تحت الأنقاض.. غزة تشيع 70 جثمانًا انتُشلت من شمال القطاع| صور",
-     "url": "https://www.elbalad.news/7181488",
+     "title": "تشييع رفات 70 شهيدا انتشلوا من تحت الأنقاض شمال مدينة غزة",
+     "url": "https://www.elbalad.news/7181517",
      "source": "صدى البلد",
-     "time": "2026-11-15T13:40:58.000Z",
-     "seen": "2026-11-15T13:42:09.624Z"
+     "time": "2026-11-15T13:51:30.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
     },
     {
-     "title": "أفريقيا.. تحضيرات لإطلاق تأشيرة موحدة في 12 دولة على غرار نموذج \"شنجن\" الأوروبي",
-     "url": "https://www.elbalad.news/7181491",
+     "title": "رئيس «قوى النواب»: إنجاز 92% من طلبات صرف المعاشات.. والعمل على الانتهاء من النسبة المتبقية",
+     "url": "https://www.elbalad.news/7181490",
      "source": "صدى البلد",
-     "time": "2026-11-15T13:39:20.000Z",
-     "seen": "2026-11-15T13:42:09.624Z"
+     "time": "2026-11-15T13:51:09.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
     },
     {
-     "title": "محمود حميدة وصبري فواز في افتتاح الدورة الأولى لملتقى «من الكتاب إلى الشاشة»",
-     "url": "https://www.elbalad.news/7181482",
+     "title": "سامح شكري : العالم يواجه تحديات بالغة التعقيد.. والتسوية السلمية أساس تحقيق الاستقرار",
+     "url": "https://www.elbalad.news/7181498",
      "source": "صدى البلد",
-     "time": "2026-11-15T13:38:51.000Z",
-     "seen": "2026-11-15T13:42:09.624Z"
+     "time": "2026-11-15T13:50:29.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
+    },
+    {
+     "title": "وزير الخارجية يبحث مع ولي عهد الكويت العلاقات الثنائية ومستجدات الأوضاع الإقليمية",
+     "url": "https://www.youm7.com/story/2026/11/15/وزير-الخارجية-يبحث-مع-ولي-عهد-الكويت-العلاقات-الثنائية-ومستجدات/7619417",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T13:43:00.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
     },
     {
      "title": "الجمارك المصرية تصدر منشورًا بشأن التدابير الوقائية على منتجات الصاج المجلفن",
@@ -171,14 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T13:11:00.000Z",
      "seen": "2026-11-15T13:12:09.382Z"
-    },
-    {
-     "title": "مطار القاهرة الدولى يطلق خدمات رقمية عبر تطبيقه الذكى لتيسير تجربة السفر",
-     "url": "https://www.youm7.com/story/2026/11/15/مطار-القاهرة-الدولى-يطلق-خدمات-رقمية-عبر-تطبيقه-الذكى-لتيسير/7619381",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T13:07:00.000Z",
-     "seen": "2026-11-15T13:12:09.382Z",
-     "impact": "يسهل على المسافرين عبر مطار القاهرة تخطيط رحلاتهم وإتمام إجراءات السفر بشكل أكثر مرونة عبر الهاتف."
     },
     {
      "title": "عبر 1650 منشأة وسداً.. مصر تحول السيول لثروة مائية",
@@ -201,13 +202,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T11:31:00.000Z",
      "seen": "2026-11-15T11:42:09.499Z"
-    },
-    {
-     "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkM3d0ZFM1dEb1J5eGYxRXU2U1ZaZnJMR3FHcjV4aURXUk5YR3lvNklHdWpOM3FxZ0tRMGwzek95NnhocWhwa0pkUnBINlBZN3RfZFBVQTk2NU1kQlVMSmRWamt2eng4OGZmNnhtWU1LQkJ3YzFXUTFrLTB1RllQVTlsemFzY250bm5jZ09JeGZwNEI5cWVCbDZBbzFQRHFiZG1MQmFnVzctLWZ2Zmx6MGFUU0FMOC1NYWx1YUtQUzZsdG42ZFBKQllvZWw?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-15T11:10:59.000Z",
-     "seen": "2026-11-15T05:51:56.145Z"
     },
     {
      "title": "السيسي يوجه بإطلاق أدوات دفع إلكتروني جديدة وتمويلات مبتكرة للبنية الأساسية",
@@ -236,6 +230,13 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T03:38:00.000Z",
      "seen": "2026-11-15T06:41:56.030Z"
+    },
+    {
+     "title": "«الفتح الفرنساوي»",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pU1RsTjNVT3B4ZXA4THE0SldBZGp0MU8yVzY0X2tMRzBmNnJKd1I3XzVpWFBnTF91dW9hU0RaUmxCVTk0SllYQzYwUFUtXzJ2NDRIM0J2Q2RZbGh0M2tn?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-15T01:22:00.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
     }
    ]
   },
@@ -243,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار في مصر اليوم الأحد 15/11/2026.. عودة الارتفاع",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDRl9HY3RLdXRVN3lWaU81YzBnN2pwSk9EMjRGNXFrNjZSRVhOdkRQZXhlOXdvbkNSbVVoSDNxOVVJekZoVTBZNEFnSmFTUXdyX0tQUk1R?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-15T13:42:11.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
+    },
     {
      "title": "هل ارتفعت أسعار العملات أمام الجنيه اليوم الأحد 15-11-2026؟",
      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNQXd4RmxJRGYtZ3FYMUwzdDlpaUd3UUJCTmlwbFFCU19OdFc5TVdod1BySGo2ZEZ5UUc3MFJPdmVhRU1POEcyeG9wMjJ1NE92MVNQc1VqTWxobE5uUmNtUlpaMkxfdmhPQThaNTZTbWIzUzBfWmNmelYyUVY2SVBzbERoRWR6NjJOcDQzdTVMYkdzVGQ1RWhhbWgyenpkSVpOdWl2TnVRQjd3YUxydE9rZVh0Zm1uaUdsWHFUdmFNYldYcFBsb3pFcWI3V1NnMFpzVTZSVVRKeHU0cC1oWWM3RXFQQTI2eWR4c0VSUV9yMVZTUHVZWXZ4dFhCUlQ3QmFQQmF0OVlRVVpReFJsTzdzdFFLWlY3OUlWWmVxeTFpYzFFNXN5TVpDRGZRZllPMWVjN3AxWnVMTmotZTVoQW1kMmRQVDBZQUpRb0xRUmI1a2hqZ1N2U1NjTUtkTGRUU0ZOTGk0eHB3?oc=5",
@@ -342,14 +350,6 @@
      "time": "2026-11-15T10:30:00.000Z",
      "seen": "2026-11-15T10:51:55.424Z",
      "impact": "يساعد الأفراد والمستثمرين في مصر على فهم اتجاهات سوق الذهب وتأثير الانخفاض الأسبوعي على حركة المبيعات."
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه خلال منتصف تعاملات اليوم الأحد",
-     "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPb3NlSGVWdkpFQ1RHNzNtR2dFNWtOTVQ2QjFYZ3RvWFpZLWd1TFo2bGpJWWtuRGZtZEgyZm4zczd3VWJDaW9zTkZ6VEx4QWRaeUpET3A5c0tFdFh0d0d4c0tmVUNOQ2RBdVY0dmdNRDB4NXV6bTUzM0VEaENFNXZpRGc5cS04M21ONWdfZkxnWTFuM2xGUmdYWm9ReGVSOUktT0dNZ0NqVUJWMU4zdGZqOHZfMUdoQXhqT2hIb2tRU2dSZ3JwYUIxQXhSMDg0U2ViOHpqOFplYkZXMl8xVzdKTGlNQ25oR00yYVFhRHhTTkM0ZEJMZU5KNEVPXzZRUWR6c2ZsUFpUeVhXYTZxTHk2Vl9hTkJONWNSdm5nNWtVZ214dkpMTl9hc0lHNElJd3ZuMkxBbkVyMWV1WURrZ1FLZ1pmNl9BUlJQYVZ5eVFfUXNLN0ZDSUkteTM4QWxlSTdVeUZGWGplc29JRUJEdW1sbmlYZUY3SkF3Q0kzaHdrbElUUlVaN0UxSGEyQ0Q5UXl6UzNQb1FWNURLd3RWdlh4UHBobGNzbm01RmxBWXFXX05KbEh1Qks4UERCMVprYlJQLVV1dUVjYUF4dHlFaXFXTlpSTUZJMmhZQmI2MS1R0gHYA0FVX3lxTE4wMEo4MGtpNW9VbThBN0tqa0Q4RjJsaVMydWVoUEV1WTBUczlyN3ViNzRVTmo2SVVzb3R6ZHY2RVJaZGNPcmZpSHJTaklMZjYzNzhxenRSa3Bob0RPSGxNUnRjMFdOOUlYQ0dOS3QxZXZSVzVnVExYSGsyOXVka0VlbWJVbWt6SGdjVUUyNTJ2ZkRnU2pubjdLS3AwVGdwU1h5Uzg2MExYeXhscHd0OG42dDl2alR2MVczcUNQM1FQNlNWNXhILWUyRFpHVGFDTmlkRGVzcVNJUmdKRVFvTXpySmhyTmpiYUtSR3JzLXJqbVhrUkVXZnQ1WXFrVUxieDh0UEdVYTBSWUJUWThQMUl4WWljZHFueENRN0l0QV9rdVY0V2pkUEJRYjgwR3NjaXBpcm5fdlh4Z2xHcmhleHMyT2Fla2h4ZngyV3FaZDFJMEYtX05OR083blc1NHZpMThrM0FJZ2RKOUFVX3hLZVYwZ2N1T09Mcnk4LVEzVGhKbkRTZVBjcVd1WUZDNHpITE8zM1o0NDhtaE9uZFpEUFZZMFZjNXBOR2hzdnljY2diejJ4aFpoYmlTeXRRUmwyeDUxT1pzaDcxSHZmN3ZBV1NPNm55SnJKNXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T10:10:00.000Z",
-     "seen": "2026-11-15T10:21:55.322Z",
-     "impact": "متابعة تغيرات سعر الدولار مقابل الجنيه تهم المستوردين والمستهلكين لتقدير تكاليف السلع والخدمات."
     }
    ]
   },
@@ -358,6 +358,34 @@
    "title": "العالم",
    "items": [
     {
+     "title": "السعودية تعلن تدمير مسيرتين حوثيتين فوق مكة المكرمة",
+     "url": "https://www.skynewsarabia.com/middle-east/1904888-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B3%D9%8A%D8%B1%D8%AA%D9%8A%D9%86-%D8%AD%D9%88%D8%AB%D9%8A%D8%AA%D9%8A%D9%86-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T13:47:11.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
+    },
+    {
+     "title": "انطلاق أعمال قمة الفرانكفونية بكمبوديا على وقع صراع دبلوماسي بين الكونغو ورواندا",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261115-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%82%D9%85%D8%A9-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%81%D9%88%D9%86%D9%8A%D8%A9-%D9%83%D9%85%D8%A8%D9%88%D8%AF%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%81-%D8%A3%D9%85%D9%8A%D9%86-%D8%B9%D8%A7%D9%85",
+     "source": "فرانس 24",
+     "time": "2026-11-15T13:41:30.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
+    },
+    {
+     "title": "إيطاليا تغرّم \"ميتا\" 805 ملايين يورو بسبب الوصول إلى صور مستخدمي \"فيسبوك\" دون موافقتهم",
+     "url": "https://www.dw.com/ar/إيطاليا-تغرّم-ميتا-805-ملايين-يورو-بسبب-الوصول-إلى-صور-مستخدمي-فيسبوك-دون-موافقتهم/a-79952248?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-15T13:41:00.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
+    },
+    {
+     "title": "إعلام إيراني: عراقجي يزور باكستان وسلطنة عُمان.. ماذا سيناقش؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/iranian-foreign-minister-visit-pakistan-sultanate-oman",
+     "source": "CNN بالعربية",
+     "time": "2026-11-15T13:38:02.000Z",
+     "seen": "2026-11-15T13:52:09.521Z"
+    },
+    {
      "title": "الأردن يوقف إسرائيليا تسلل للمياه الإقليمية",
      "url": "https://www.skynewsarabia.com/middle-east/1904887-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D9%88%D9%82%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A7-%D8%AA%D8%B3%D9%84%D9%84-%D9%84%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -365,7 +393,7 @@
      "seen": "2026-11-15T13:42:09.624Z"
     },
     {
-     "title": "قمة المناخ \"كوب 31\": خلافات بشأن هدف الحد من الاحترار عند 1.5 درجة مئوية",
+     "title": "قمة المناخ \"كوب 31\": خلافات بشأن هدف الحد من الاحترار عند 1,5 درجة مئوية",
      "url": "https://www.france24.com/ar/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/20261115-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%83%D9%88%D8%A8-31-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D9%87%D8%AF%D9%81-%D8%AD%D8%AF-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AB%D8%A7%D8%AA-%D9%83%D8%B1%D8%A8%D9%88%D9%86",
      "source": "فرانس 24",
      "time": "2026-11-15T13:22:52.000Z",
@@ -426,34 +454,6 @@
      "source": "BBC",
      "time": "2026-11-15T11:26:15.000Z",
      "seen": "2026-11-15T11:52:09.366Z"
-    },
-    {
-     "title": "مفاوضات الوحدة بين نتنياهو وآيزنكوت.. تشعل الغضب في إسرائيل",
-     "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPck9qNWdYNEdTR0tkRGtCUEhoMFpQd0xkUlhyYWsyQ0lLekJaampPV0lMcnNST0dmNWdtMjJ2REJCckJWQVFpX3hHUnZnc1pELWVUR3dCQnJrQW5QZUVXaTBMQXliVmJrV1lBT0lha2h5X0FtbUZkekp6VjZFc0NURjJ2UFFaaUlkZV9rMWNweGVkQkdTQVJpQzQzazA1OHEwQlhocERwRE1JQmRYVEc0UVNHZWF3UjFvUHkweFlJeS0tbFd6bGdIRGhJX1c0dVV0M0JVbG8wbzdnWnNsczZnQXR4UGNPV29OQmliZnZ2Y0tNc1piUjFTZUZoanJiQ0VQZjExR2IyVzl4Ny1oVWd3bjNRYkE2WEdRTmJCTzVwbTJESDZBVC1uT0w0cWRCaTBMX0NNNGZERkVwMF82QlNUMTJ1U3pDQ0hSODJsendJQjhnREdLVEZ0b2xWOUotbkhrTUtjSHEydjdmTFNiUVlTOHllOGhDbUdBNmY1SWczUlA2eDZMNDRMR1p2NVZSOGJEbnZhM2tBV0Q5aU1KSU9KTXdGX2Uyc1ZIMjRTaXFuY1lpM2dHWlJ5T3BkYVhzWDRDX3lyVnZHbDZXR1l3WXpxN0NYRFBfODZiTVZ5VGcyV2pFaUJ4SkVoUTkxSVI0dklKQXlZb9IB-gNBVV95cUxNcy1kSV82eVN4NkJNd09KdlhaYmhqUmd4VWNQUnY2WVdwemJYVTZ3UkxaWndNbDl5S3lqTjNfSmtmS1BlcE1HNjZKN3RYUWtNdHM2VTVRcFZ5ZWRpeTVOOWVaNElVbVI2X2xmUUpmMmRKUFI0a2VKbXl1YUNQTm1hNVBVNTNHVVFsd1VyT0tSRzhrLXhnSGc1b1lEMVl6dTJUU21iOEdaTG4tbjNLUDRnMW85TjRuTWtQZzdQWEVYTjNVTnROQU5YaWUzZ0ZrS3hrdTBnTGQ0SndBaGZ3V2hBanY0S1RyeFZfZzdxMzQ1R1UyQzBGaDg1eEVwN0hWNVVwSUxMY25rWG14ZDB6eF9MaTd4SjRJc1BnODdhZnBscjBtNUQ2dmd3WXdYVFdFY1VsaExXRVVwcG5zQW5wOHpScUNlY3oxNTVvWWpzSjAtNkFsRFFfNXlPX2s3djhUVzdMa19WaUYwSERYUmRDZ2RsT3VFN084NU04aVo5NXkteHNxczM1OFUxUzZKSl9YZVZfNGpVM0g3a2MzWXE2YXRiSlBXY1J0Ujhia3BqcXFhMUN1VHlZR0FINFd1TWZxUS1uTldtV3NvcGhIN2NFdzdyV2FoNEVXNjBXSnFtNXphdWN3UDdBcndfQ2k2TlllQlNNc0RMaTFvaWY0dw?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T11:05:00.000Z",
-     "seen": "2026-11-15T13:02:09.736Z"
-    },
-    {
-     "title": "على طريقة هوليوود.. \"عصابة مسنين\" من روائية ومخرج ومصور تسرق سبائك ذهب بفرنسا",
-     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNTEpNcGQ3TTVIT2xEME5tbXpXcU9EMHk0b1JuQkt3RkFJNkFZTkdzbkw2UGpOXzItaTFvODYwN1pWM3N6WGNBb0lkWVNZVThsMlVtNEdkdURqeFlRbEdmMmt5bFBtMzQ5b2dxdm1jQklMRWJPVE9kX3FsaDF3T0pNTVVGdVI4ZHJoeEVJZThyemkzYjJjTnktTmtscGN3bG82ZUV0OElWbElIb2hLbHpacVVkVFJSM0hfY2ZOV1V3YzBULVZFVW1QR2cwYy0wbnFSWC1wUTlweG5JVWFQLXNpTkMzTFFnX0dBRnlVcVotQTd1SjAtQ0hMTGhjdVFNb3AycGZHSUZaTGNRR1lzX01PRG1KRGdGb3NOcmx6dVpvSV9tQ1BtTUtsUWdMYU5uNjJoX1o0eVRuV2dNMHlrWmhUdTVoRlFSdkJEWWVSX0hERG9vN2pnLTVIcFU5dmF1eVhqMHczaVhWajkyZTRtMEI4VkJvck1yallUcDJfdEx0Zm5wbW1wRmFlblVtMkVaUjIxZGFxeVlES3N1VkVJVmtGTVJSa1UzZmtYZFJIMHYtSzJ5WERHTFVMSUFxS3B6Rk1NbXRDbDZXaUc3Qy12WEoycnBlQmV1WGNoa251VWU4Y9IB2gNBVV95cUxORnhqZnY4Vzh0TkRBTzZQOGc0MzN4amNwT09YTTRQbWJnVVBjSFRfdkVoVUVxQUdtdV9hVEVKMktyZlg0M1FaanY3VVY4TXFJR09Pak5jS3NmcTRxT2NCOFdLM2lBVE9mZjJzNFhpd3hpMTdHTHhMQ2p6Ul9IMm5yOUtJcndFNkhPNDBLVUpNV1YzcG9nSU1QbHNfU3A5TlFvTnB2N3RXRk1CZzUtZjY3a2dxS1NFLVdlajNNSWF3RlJGLW9JNmVBV0FGeC1pSjNYNHRkYXFta1Vyems0aDhKdlNPTnhpT0JQTlhXQ19DRmpyazRyWElnVHRydUxLb2ZrTjhITVFFQ29kTzViUnJZQkl6bThtdS1pOXd3M0huNi0yT0JpX1RDNnVfZlJoNWRYQ01CU0RGVGNZdlZYX1hVQlRjbi1yOXFRaVM0TDZOWUJPNXNlNTZEVFdLeElpbm1TMWp3WWNka0IxWVFVZ2l6dmVxam5MemxrZ3BqZzVJTGFWbFJqeExRUWxzalZpdVFHNWNOYlNZTVA4WUpCRDNadF9SSnpsX3l1aW5RaFk0TW00anFXVjNJajJlV01TZTUtZVpKcUtTWUdYV2x2eXBKUkdkQm5qRUpSTVE?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T11:00:00.000Z",
-     "seen": "2026-11-15T12:22:09.854Z"
-    },
-    {
-     "title": "مسؤولون أميركيون: بناء طهران لمنظومتها الصاروخية تباطأ",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPcEpVbzNYS3pZWEdleU9VX1E4bWM0Mm1LU0lEcGVNN0ExUGd5T19vbnF4d0Fsai1mdm9WdUxXbGkzTzlES0tsUGd5QzlPYlU3U1ZqSl80VU5Dd21iMDNpaTNmaV8wV2ZURjBDWjFXZS05cFNQQktNSXl2NHc0MGR5d2wyOXNTVFNRM2ZEMmZLSjJ1MS1XLTdwX2UxOTNBbG4xWWF6WFZNRkNvMVdmbEkyVlBDaTVRT3hQQTJlQk1uSkk4RWZzUWhhNGFuOWxDZXlxNzhLWndPNW1fbGZWWkdrNEFVcGdxVV9NbW1jc3JiQnhfTzRvU1M3bEpQb0ttNFF5UVFwemhpaDc1RDNJMUwtbjJybks4b3FNT0ZpaFlpTHl3TC1zdGZudnNBejV4dWdMTnVXaHEtZ0dpb01udFhtcHUydFd5MkVOS1B0djJfdmU4eDVpSWNjckVtRjhHOHR4bFotMFVwcG1ScmZsXzk5cC1QbW0yS3FQbWdkZHBnY01xZVU1RWE1UXdRRGNIeTAxbzlXTUVfaTBqVmxIUlJRbUpXMGhkWWNHSFI1ZWNmbG1wSlhrdkhjdmhPM2piSmJVODdWQ2NHTHROUTY2RVJyMk45LUHSAdoDQVVfeXFMT0tEZ1FJWE1CRXFtT0JkMmNIOGxlLS1GYmVKel9oQmhwYUNOb2dsVGhXQzlKNk1yUjVCcm0xUjJHLThJRkRHMVhzYk1rUFE4S1YtNjI1Yk94b0dLMjBUZnJ2OEhnTXlVVHBIRmt6cml4TGtlZ3dueGVmQVd0bUxPRzdrYUV0VFpyZUhFYmdYcmQtbWIzcF85cnlrTURjY0hpckVQak95TnpJSlRYc2NSQWoyZHVOaGtHVC1oOEdvR19vMTFUMzJrdjFaXzBHZXExaTlqX0htbThCaFJKVjRIZlZYX2VpMDQxWHNqUko5ZTNuNER2WjJYUjNSRmJzY1dVTkdkMVVUT3R5M0dlUnZrQ0FKSGVQN1BYM19fLV9PemNjc2xTY0RTYzB4bEE0NURKRDEyQWNBZkRGVUlxWU5BaFF2ai1zVjV2dDEyaGUxblN0RlBDZURGTE9CSndPd0syVjZMSWtQV0JpY21BYThVWHJXbkNMZVU1OGFFT29xNkptOXBxQ1lWUFZDaFhXYmdPNGVwNVZZRFpBeGN6MkRBVk9NWTdrSTdQaXZ0b19CX1M0cHRzQnhITHFCNjJRdmJmYTF1aExLRXZVQnk5TTg5cW00WUVLY3pqV3JR?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T10:58:59.000Z",
-     "seen": "2026-11-15T11:12:09.414Z"
-    },
-    {
-     "title": "\"احذروا من فتح الجرح القديم\".. إيران ترد على مطالب مجلس التعاون الخليجي بالتعويضات",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/beware-reopening-old-wounds-iran-responds-gulf-demands-reparations",
-     "source": "CNN بالعربية",
-     "time": "2026-11-15T10:57:39.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
     }
    ]
   },
@@ -472,7 +472,7 @@
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-15T11:59:17.000Z",
+     "time": "2026-11-15T12:41:19.000Z",
      "seen": "2026-11-15T09:11:55.978Z"
     },
     {
