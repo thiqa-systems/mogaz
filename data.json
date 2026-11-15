@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T11:02:09.368Z",
+ "updated": "2026-11-15T11:12:09.414Z",
  "minute": [
   "تابع الرئيس المصري البرنامج الوطني للتحول الاقتصادي موجها بتعزيز دور القطاع الخاص وتطوير الخدمات الإلكترونية للمواطنين.",
   "شهدت أسواق الذهب في مصر أكبر انخفاض أسبوعي لها منذ ثلاثة أشهر بالتوازي مع متابعة أسعار العملات وحالة الطقس.",
@@ -10,7 +10,9 @@
   "at": "2026-11-15T10:51:55.424Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-15T11:12:09.414Z"
  },
  "markets": [
   {
@@ -53,9 +55,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 52176,
-   "change": -0.62,
-   "asOf": "2026-11-15T10:47:08.000Z",
+   "value": 52149,
+   "change": -0.67,
+   "asOf": "2026-11-15T10:59:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65463,
-   "change": 2.08,
-   "asOf": "2026-11-15T11:02:06.000Z",
+   "value": 65281,
+   "change": 1.8,
+   "asOf": "2026-11-15T11:14:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,46 +140,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "3.7 تريليون جنيه استثمارات..الرئيس السيسي يستعرض ملامح خطة التنمية الاقتصادية والاجتماعية للعام المالي ٢٠٢٧/٢٠٢٦",
-     "url": "https://www.elbalad.news/7181279",
+     "title": "سقوط لص إطارات سيارات النقل الثقيل في سوهاج",
+     "url": "https://www.elbalad.news/7181294",
      "source": "صدى البلد",
-     "time": "2026-11-15T11:01:21.000Z",
-     "seen": "2026-11-15T11:02:09.368Z"
+     "time": "2026-11-15T11:10:39.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
-     "title": "البابا ليو يقطع 2270 كيلومتراً في جولة بين عاصمة إمبراطورية الإنكا وبوابة الأمازون",
-     "url": "https://www.elbalad.news/7181276",
+     "title": "قومي المرأة يبحث مع مدير صندوق الإدمان تعزيز التعاون في حماية الأسرة",
+     "url": "https://www.elbalad.news/7181291",
      "source": "صدى البلد",
-     "time": "2026-11-15T11:00:35.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
+     "time": "2026-11-15T11:09:35.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
-     "title": "تداول 92 ألف طن بضائع عامة و متنوعة بمواني البحر الأحمر",
-     "url": "https://www.elbalad.news/7181280",
+     "title": "التضامن تشارك في الورشة الإقليمية لتعزيز الجاهزية لمواجهة الأزمات في أفريقيا",
+     "url": "https://www.elbalad.news/7181288",
      "source": "صدى البلد",
-     "time": "2026-11-15T11:00:12.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
+     "time": "2026-11-15T11:08:22.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
-     "title": "هل يجوز نقل الموظف إلى محافظة بعيدة دون مبرر؟.. الإدارية العليا تكشف",
-     "url": "https://www.youm7.com/story/2026/11/15/هل-يجوز-نقل-الموظف-إلى-محافظة-بعيدة-دون-مبرر-الإدارية/7618973",
+     "title": "قرار جمهورى بمد فترة التصرف فى أملاك الدولة الخاصة لمدة مماثلة",
+     "url": "https://www.youm7.com/story/2026/11/15/قرار-جمهورى-بمد-فترة-التصرف-فى-أملاك-الدولة-الخاصة-لمدة/7619144",
      "source": "اليوم السابع",
-     "time": "2026-11-15T11:00:00.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
+     "time": "2026-11-15T11:08:00.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
-     "title": "تشغيل قطارات Metropolis الجديدة على الخط الأول لمترو القاهرة.. صور",
-     "url": "https://www.youm7.com/story/2026/11/15/تشغيل-قطارات-Metropolis-الجديدة-على-الخط-الأول-لمترو-القاهرة-صور/7619116",
+     "title": "رئيس حماية المستهلك لليوم السابع: حماية القوة الشرائية تتطلب ضمان توافر السلع",
+     "url": "https://www.youm7.com/story/2026/11/15/رئيس-حماية-المستهلك-لليوم-السابع-حماية-القوة-الشرائية-تتطلب-ضمان/7618868",
      "source": "اليوم السابع",
-     "time": "2026-11-15T10:59:00.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
+     "time": "2026-11-15T11:08:00.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
-     "title": "الحكومة: من تآكل الرقعة الزراعية للتوسع في الاستصلاح.. كيف تطور القطاع منذ 2014؟",
-     "url": "https://www.youm7.com/story/2026/11/15/الحكومة-من-تآكل-الرقعة-الزراعية-للتوسع-في-الاستصلاح-كيف-تطور/7619118",
+     "title": "تكليفات حاسمة من السيسي لـ وزير التخطيط والتنمية الاقتصادية بحضور مدبولي",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VdXVaU1RoWUpwckM0WXI2X0VGOFN6YlBpWVl6SWZEN2JyN0hNcHphVGRIcHNYbjhLelgxQmNWV1lkZ0E3XzM4?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-15T11:05:00.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
+    },
+    {
+     "title": "الهلال الأحمر المصري يطلق قافلة «رد الجميل» لأهالي 4 قرى بمحيط حادث قطار العياط",
+     "url": "https://www.youm7.com/story/2026/11/15/الهلال-الأحمر-المصري-يطلق-قافلة-«رد-الجميل»-لأهالي-4-قرى/7619131",
      "source": "اليوم السابع",
-     "time": "2026-11-15T10:59:00.000Z",
-     "seen": "2026-11-15T11:01:55.530Z"
+     "time": "2026-11-15T11:04:00.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
      "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
@@ -227,13 +236,6 @@
      "source": "Masrawy",
      "time": "2026-11-14T21:15:00.000Z",
      "seen": "2026-11-14T22:19:59.829Z"
-    },
-    {
-     "title": "كواليس قبل الوفاة ورسائل الزوجة.. الأمن يكشف جديد واقعة طبيب المنيا",
-     "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOc2tlN0dNWi1XdXRFX3pPUzhzcnA1NVRGSy1QRXNvXy1NMlB0WnphUDBZTGF4WDRCWDF0WjdjUnZWZmNsdzJ2d2E4NkFYSllSOERyQm1LT3hxZVROLWVLMjVmaG9RV0NNR2ptdW0teDd1b1V6UWFEX0dXcktNZkVfbTd6dHdPQnZfN1prbldrYkxMc2dSdy1HcTk4TXNJazB5WVNVQ1lDbGFMVUJHZ1RJeTBtUV9wRlJia193eEZWWU92d3FvY2c4R04yb3BWanVKaVROaFBjUGFJTkpuem5LTkVBNHJkZ0MtQmg4bGpYN0ZJOUI1eFhxWDNEbEpaaFdiLVJGb3pPc2haQU02RWllU3FfdWdURGkwTk5ZVjZZTUFXWHpwajBTc2Q4SnNuQV9GekxVWDhRRnBkVkplNVNGaW9YSnZTcHZJckhmV3QxbUw4WV9hVGZBRHZXdklzWWZPOFFMamZuUTFwaG1nMHpFdFJ6azNrQVh3LUMweXpFZW1RdHVXS3BlaEJ5di1FTVprbkswbS1wOFJXakhuTExnNFRRQ3hBczByQ1dCRkF5YlBxa0xZNWlQeHI3Z29VS1dUTUY0VGdtYlV1MXR0RFdIUHlsYzIwek5lYzlDWVludEkzSUZtS0JNbW8tZFVtbVE3Y1V6SGFRZW0yMHhEOENGb3MtV2F4cEQ1VzdzZHJrR3pNSnRzeVltbDJ5ZjEyb0ZvRW9lUUlGa1ZXM05ubHFB0gG0BEFVX3lxTE1jRklmNTV1WTA3eVlSc3AxaWdlX3h2M1BSVmZRQkxUQ1RfYTFoY0ExaThISzJnbmhxSmpkeTRGdFc5aC1yMmhBaF80Z0NZUjRhMWV5ZGlQa3k3THVNaXBWVU82a1BOYXZkcnppQ2ZENlVWMHgyNEowNDBBNUFoYVRFekhvMHNlSnpPV21JX0JfT1MxczJsSWN5NGJiNm41ZWFySU51em80WEhyUGdwQW93MlVlSFJlLWlMdGxwMjhUNFBMenVZMTZscmt5YVZLQ1dnNWNvenNHQlJ2SE8tbTdhMUJBMFpETFpEV21RcDNaZDIyOFJ4b25URC1oYkNobEtwa0FYRTQ0Y0U5Ym1BUElwdjRuWmJQU1I1c2ZaWUZSa0stSU9kRTRxUkJVOURIZVFVOTUwQy1JVG5FNkQxbGQzeXJuUkdoUXM1SFNjbG1laExtMFJsaFhuc3JtWUVFY0U3b0hRQk44bmV0amU4WVY1VGNfZFFpU25YQ2pwaUM5ME4xVTluLVB5R0gtWF9SN1hHMVBnTUJWMWZxbVJyRUE0aEE1cVAydVVxN1hfVVhzTVBJWi1IX003MU41TVdBRVZjS1d3T1k1ZUZfeThGVWtZT1VudEVUT1BSOUpOUmZCZFAteC1VWVNNV3R3QlpDUXE4U0VMT29nLXQ3Y1pPc0MxQlQtbXBUN0EtbF9XSVFsYWd6YlB0bWJKbHY5RGN5SmJxQWdYcGFVWjBzVlhfQ1RTSWl6LQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-14T20:02:00.000Z",
-     "seen": "2026-11-14T21:59:59.376Z"
     }
    ]
   },
@@ -356,6 +358,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مسؤولون أميركيون: بناء طهران لمنظومتها الصاروخية تباطأ",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPcEpVbzNYS3pZWEdleU9VX1E4bWM0Mm1LU0lEcGVNN0ExUGd5T19vbnF4d0Fsai1mdm9WdUxXbGkzTzlES0tsUGd5QzlPYlU3U1ZqSl80VU5Dd21iMDNpaTNmaV8wV2ZURjBDWjFXZS05cFNQQktNSXl2NHc0MGR5d2wyOXNTVFNRM2ZEMmZLSjJ1MS1XLTdwX2UxOTNBbG4xWWF6WFZNRkNvMVdmbEkyVlBDaTVRT3hQQTJlQk1uSkk4RWZzUWhhNGFuOWxDZXlxNzhLWndPNW1fbGZWWkdrNEFVcGdxVV9NbW1jc3JiQnhfTzRvU1M3bEpQb0ttNFF5UVFwemhpaDc1RDNJMUwtbjJybks4b3FNT0ZpaFlpTHl3TC1zdGZudnNBejV4dWdMTnVXaHEtZ0dpb01udFhtcHUydFd5MkVOS1B0djJfdmU4eDVpSWNjckVtRjhHOHR4bFotMFVwcG1ScmZsXzk5cC1QbW0yS3FQbWdkZHBnY01xZVU1RWE1UXdRRGNIeTAxbzlXTUVfaTBqVmxIUlJRbUpXMGhkWWNHSFI1ZWNmbG1wSlhrdkhjdmhPM2piSmJVODdWQ2NHTHROUTY2RVJyMk45LUHSAdoDQVVfeXFMT0tEZ1FJWE1CRXFtT0JkMmNIOGxlLS1GYmVKel9oQmhwYUNOb2dsVGhXQzlKNk1yUjVCcm0xUjJHLThJRkRHMVhzYk1rUFE4S1YtNjI1Yk94b0dLMjBUZnJ2OEhnTXlVVHBIRmt6cml4TGtlZ3dueGVmQVd0bUxPRzdrYUV0VFpyZUhFYmdYcmQtbWIzcF85cnlrTURjY0hpckVQak95TnpJSlRYc2NSQWoyZHVOaGtHVC1oOEdvR19vMTFUMzJrdjFaXzBHZXExaTlqX0htbThCaFJKVjRIZlZYX2VpMDQxWHNqUko5ZTNuNER2WjJYUjNSRmJzY1dVTkdkMVVUT3R5M0dlUnZrQ0FKSGVQN1BYM19fLV9PemNjc2xTY0RTYzB4bEE0NURKRDEyQWNBZkRGVUlxWU5BaFF2ai1zVjV2dDEyaGUxblN0RlBDZURGTE9CSndPd0syVjZMSWtQV0JpY21BYThVWHJXbkNMZVU1OGFFT29xNkptOXBxQ1lWUFZDaFhXYmdPNGVwNVZZRFpBeGN6MkRBVk9NWTdrSTdQaXZ0b19CX1M0cHRzQnhITHFCNjJRdmJmYTF1aExLRXZVQnk5TTg5cW00WUVLY3pqV3JR?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T10:58:59.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
+    },
+    {
      "title": "\"احذروا من فتح الجرح القديم\".. إيران ترد على مطالب مجلس التعاون الخليجي بالتعويضات",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/15/beware-reopening-old-wounds-iran-responds-gulf-demands-reparations",
      "source": "CNN بالعربية",
@@ -445,13 +454,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T07:52:03.000Z",
      "seen": "2026-11-15T11:01:55.530Z"
-    },
-    {
-     "title": "هل كانت العبودية ممارسة سائدة في الدولة العثمانية خلال القرن التاسع عشر؟",
-     "url": "https://www.bbc.com/arabic/articles/c6zxvrd81751o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-15T07:41:49.000Z",
-     "seen": "2026-11-15T07:51:55.375Z"
     }
    ]
   },
@@ -486,7 +488,7 @@
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-15T08:46:45.000Z",
+     "time": "2026-11-15T09:02:37.000Z",
      "seen": "2026-11-15T09:11:55.978Z"
     },
     {
@@ -505,12 +507,26 @@
      "impact": "ابتكارات الذكاء الاصطناعي الطبية تعزز قدرات التنبؤ بالمخاطر الصحية مما قد ينعكس إيجاباً على الرعاية الصحية للمواطنين."
     },
     {
+     "title": "هل كانت العبودية ممارسة سائدة في الدولة العثمانية خلال القرن التاسع عشر؟",
+     "url": "https://www.bbc.com/arabic/articles/c6zxvrd81751o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-15T07:41:49.000Z",
+     "seen": "2026-11-15T07:51:55.375Z"
+    },
+    {
      "title": "الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين، واعتراض صواريخ باليستية في الرياض",
      "url": "https://www.bbc.com/arabic/articles/c5evr91z1ek4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-15T07:30:50.000Z",
      "seen": "2026-11-15T04:20:26.557Z",
      "impact": "تهم المستثمرين لمتابعة تداعيات التوترات الأمنية في الخليج على حركة التجارة الإقليمية وأسواق الطاقة."
+    },
+    {
+     "title": "دون ذكاء اصطناعي.. أبل تضيف ميزة جديدة إلى أفلامها",
+     "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQbFFDQm1LNHhPYW9mNWw4VVZ3dzJTOVlKU19MdFo2ek1iOEZwTGFnU3lRX1h5dFRSUmlQRUdkRWZHdVg4NGxxQk1fbEJSd3dGRG5NNGY2YWhueTJLNVpKZGlSX1R4czlVZGduR3RHbFZQUkk1b1hGT2VObVhHTjZsQkZzWVRQaHFLT18zOHBBM1d0VzM5QWtXTzY4RS1KajAwV2pfbnk0QTJ4YURzVXBXdVdRa3FxUGlueVRvZzJHQ1loYUVfTmNMbXVqZFBVaHlSUE9GVnFlbkszcnkyR3ZlYVV0aTR4eDZQeFIzaUVLcDd0THA0ZGZibXJpZjMzNHJjSjlXMmQxQjB4NVRaREJuT3dCMGFJc3BrZ2Z4MjhZY095eTZXeUd2dGs3c1BpWVc5Q1h5WFl3T1FoQk5xMFg0blpDeUFpWGdua29tNjNacFYzbmpnbktyT0dtbFJDU3YwSUluSkdRWUVhbWU2c2lERlJWRkfSAfoCQVVfeXFMUERjRHlCVjVzLW4yeEFJcjYtQldCeFo2MC1HUmcxcVRjTjg4QnhOSWJPbTFweXg0Qk5wNUdId08xTHBKNHhkOWltMmFMRVR3TERNWHBpUHVoVGlyMDRlMDJxczJsRjBYVnJfOTlEeFM0a2VSSU5GOE5OYUtydVNUS3kwMTZVQ2lGOFpaRlpHTlpDU2NHMGgzbEZBaFY4ODhoSXh6VTdZcG5qcXVuZmtxNzVHeWMxMDJZZWsyX1dIY3U2T3ZDbHloRDdQczc2dmxUZy01RWNMalQ4cncxWlNBdmNLbFFGVkRCZGFsLXNydmFKZXM0U0hldldlWHdBUm4yOWpEekRkWTYwZVRwMnNmMEhvTjRrejF4akFUN2dQNE04clBxdVVodzNiQmk1V0NIcTMxTExWTVZRU005WTJHX2V3dGxLN2VjR1ZVTkVXRUVBMWZWakt6STB3dkttdzlSd3BiR1hVQzhuNFJsWDFTemd0SGxET213WUFR?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T07:08:23.000Z",
+     "seen": "2026-11-15T11:12:09.414Z"
     },
     {
      "title": "تحليل: شركات مرتبطة بتشييد مراكز بيانات الذكاء الاصطناعي تفقد 4.2 تريليونات دولار من قيمتها السوقية",
@@ -549,22 +565,6 @@
      "source": "Masrawy",
      "time": "2026-11-15T06:02:50.000Z",
      "seen": "2026-11-15T06:41:56.030Z"
-    },
-    {
-     "title": "ترامب يدرس تعليق الضربات على إيران، ونتنياهو يتعهّد بـ\"محو التهديد الإيراني للأبد\"",
-     "url": "https://www.bbc.com/arabic/articles/cwp9dznjmpllo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-15T03:39:38.000Z",
-     "seen": "2026-11-14T18:29:59.570Z",
-     "impact": "تساعد المستثمرين في مصر على تقييم المخاطر الإقليمية وتأثيرها المحتمل على الأسواق العالمية وأسعار النفط."
-    },
-    {
-     "title": "إيطاليا تُغرم ميتا 805 ملايين يورو بسبب وصولها إلى صور مستخدمي \"أندرويد\" دون موافقتهم",
-     "url": "https://www.bbc.com/arabic/articles/cw3dgep0l30ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-15T03:02:18.000Z",
-     "seen": "2026-11-15T03:10:26.327Z",
-     "impact": "تهم مستخدمي تطبيقات الهواتف في مصر لمتابعة قضايا الخصوصية وحماية الصور الشخصية."
     }
    ]
   }
