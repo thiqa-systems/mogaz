@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:57:18.046Z",
+ "updated": "2026-11-16T19:07:17.714Z",
  "minute": [
   "شهدت البنوك المصرية تراجعاً في أسعار صرف الدولار واليورو مقابل الجنيه المصري.",
   "أعلن وزير الزراعة المصري وصول الصادرات الزراعية إلى 11.5 مليار دولار عبر 160 سوقاً عالمياً.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T18:57:18.046Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T19:07:17.714Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5814,
-   "change": -0.42,
-   "asOf": "2026-11-16T18:48:03.000Z",
+   "value": 5820,
+   "change": -0.32,
+   "asOf": "2026-11-16T18:57:15.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6638,
-   "change": -0.42,
-   "asOf": "2026-11-16T18:48:03.000Z",
+   "value": 6645,
+   "change": -0.32,
+   "asOf": "2026-11-16T18:57:15.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3854,
-   "change": -0.84,
-   "asOf": "2026-11-16T18:48:03.000Z",
+   "value": 3858,
+   "change": -0.73,
+   "asOf": "2026-11-16T18:57:15.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,34 +66,34 @@
    "unit": "$",
    "value": 1.1001,
    "change": -0.45,
-   "asOf": "2026-11-16T18:57:44.000Z",
+   "asOf": "2026-11-16T19:06:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.34,
-   "change": -3.65,
-   "asOf": "2026-11-16T18:47:58.000Z",
+   "value": 92.41,
+   "change": -3.58,
+   "asOf": "2026-11-16T18:57:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7438,
-   "change": -1.63,
-   "asOf": "2026-11-16T18:58:03.000Z",
+   "value": 7429,
+   "change": -1.76,
+   "asOf": "2026-11-16T19:07:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65012,
-   "change": -0.45,
-   "asOf": "2026-11-16T18:57:59.000Z",
+   "value": 64932,
+   "change": -0.57,
+   "asOf": "2026-11-16T19:07:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أنتم مالكم بالدين؟| أحمد موسى للإخوان: إحنا بنحمي الإسلام منكم",
-     "url": "https://www.elbalad.news/7183360",
+     "title": "التشكيل الرسمي لمباراة هولندا وألمانيا في دوري الأمم الأوروبية",
+     "url": "https://www.elbalad.news/7183384",
      "source": "صدى البلد",
-     "time": "2026-11-16T18:56:22.000Z",
-     "seen": "2026-11-16T18:57:18.046Z"
+     "time": "2026-11-16T19:06:30.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
     },
     {
-     "title": "وزير خارجية باكستان: إسلام آباد تستضيف قمة تحالف مكة الشهر الجاري",
-     "url": "https://www.elbalad.news/7183363",
+     "title": "لبنى عسل: قرارات إدراج كيانات وأشخاص مرتبطين بالإخوان تستهدف قلب التنظيم الدولي",
+     "url": "https://www.elbalad.news/7183385",
      "source": "صدى البلد",
-     "time": "2026-11-16T18:56:09.000Z",
-     "seen": "2026-11-16T18:57:18.046Z"
+     "time": "2026-11-16T19:05:32.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
     },
     {
-     "title": "هدد قائد سيارة بقطعة زجاج .. القبض على سايس بالجيزة",
-     "url": "https://www.elbalad.news/7183366",
+     "title": "حريق يلتهم كابينة كهرباء بجوار مجمع مدارس المنوات في أبو النمرس.. صور",
+     "url": "https://www.elbalad.news/7183380",
      "source": "صدى البلد",
-     "time": "2026-11-16T18:55:43.000Z",
-     "seen": "2026-11-16T18:57:18.046Z"
+     "time": "2026-11-16T19:04:39.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
+    },
+    {
+     "title": "اعرف قيمة معاشك بعد تطبيق حد الـ2080 جنيها في يناير 2027.. قواعد الاستحقاق",
+     "url": "https://www.youm7.com/story/2026/11/16/اعرف-قيمة-معاشك-بعد-تطبيق-حد-الـ2080-جنيها-في-يناير/7620342",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T19:00:00.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
+    },
+    {
+     "title": "لماذا لا نشعر بدوران الأرض رغم سرعتها المذهلة؟.. مركز الفلك الدولى يجيب",
+     "url": "https://www.youm7.com/story/2026/11/16/لماذا-لا-نشعر-بدوران-الأرض-رغم-سرعتها-المذهلة-مركز-الفلك/7620373",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T19:00:00.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
+    },
+    {
+     "title": "مدبولي يبحث مع مدير «الويبو» تعزيز التعاون في «الملكية الفكرية».. ومصر الأولى أفريقيًا في تسجيل العلامات التجارية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mczJMWjJpaVFISXdOVXhqRUhzS20xbXBWUUVFTV80QVlOZl9TVWhSeWRLYmQyNVk0UV81ak9SUGdfdlZZeExZT1h2S1NYV1hIWGZ1aGR2NVQ1bGtXZ1pZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-16T18:56:00.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
     },
     {
      "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي وتعزيز حقوق المبدعين",
@@ -175,26 +196,11 @@
      "seen": "2026-11-16T18:57:18.046Z"
     },
     {
-     "title": "مستشفى الفيوم النموذجي للتأمين الصحي ينجح في إعادة بناء مفصل الفخذ لطفل بتشوه خلقي نادر",
-     "url": "https://www.youm7.com/story/2026/11/16/مستشفى-الفيوم-النموذجي-للتأمين-الصحي-ينجح-في-إعادة-بناء-مفصل/7621353",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T18:40:00.000Z",
-     "seen": "2026-11-16T18:47:17.856Z"
-    },
-    {
      "title": "مدبولي:الدولة المصرية ملتزمة بمواصلة تطوير منظومتها الوطنية للملكية الفكرية",
      "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPRExYcUs4VUtPdVFjcDRTZXN5Wk9zQmVFZmR3ekNWQjhFYzZ0TDhMNGVsSmxFSlY0aWdBZzNfZ2xlM0dqYXJoZUZHWG9TampHenpjN0xDX2VTa0o3SDQ2VnoxUmtOek5tUzE2MmJySk45RksxM3VZWDItRmJ4bFBEMnJHZklYUGFaTGppYS1DbEdKZGEwdUFsSGNZYk9PS0dPenV2b0RkdVJlbF9US0ZRTXU0TjFZQ3FlMGJ3T2tqZkszQ1BWRHhNZGF2czZhdEZyRDN5SGsxellBZEx3MGJoMFlhSjJoRkt2bDQ5VjFOejFaNHdkRDdpVFZvZkgyUWxsMTRMZ3ZMN09GTHFaRWdkbFRNUWQ0VnBKaDJsZjM0VzNkcW15V2FyZXhYaTZkLUtFOVJ3ZWF2T1gxOG9SWGFzX1NBUUVMWTJhSmk3SWhuVkpETGVCbjYtUXRBX1ZCY3NHWGxJT2FDOVBNbWF6SFJWYXBhMklvTjBwYXhPTEVzdDkyZ0tIZzl5TFh5VnNmbzlmVXd2Nm5XTUVlZ3lQdDZybmZ0VlFFVWhTcS1aNG9WeXlwR2UwR2h5WmZuUVlkLW1hWVFLVlhYUWFiZnc4M2JjYzUzeHNfczFZSldRa2F0ZFJocEdINVJLUGd4TnJyaTkxWFg1b2QzUkZBclB6YzNVTzZ0N0pJcXpOWVRiVGdYQ21tRFNjYl9mR3hCRVlnR0JSWDFlRDZqY2hvdmR4cDEyaWlBdFJWV0o0ZWVmMVBPenAzSnVkcExPcWhYdXRCUzRKa2NtTl9tN2kxLWJZclBXSW0wYmZnLTUzVENmZ0RFTW5fOXRKbUdv?oc=5",
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-16T18:39:00.000Z",
      "seen": "2026-11-16T18:47:17.856Z"
-    },
-    {
-     "title": "وزير الزراعة أمام البرلمان: 11.5 مليار دولار صادرات زراعية و160 سوقاً عالمياً",
-     "url": "https://www.youm7.com/story/2026/11/16/وزير-الزراعة-أمام-البرلمان-11-5-مليار-دولار-صادرات-زراعية/7621340",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T18:33:00.000Z",
-     "seen": "2026-11-16T18:37:18.312Z",
-     "impact": "يعكس نمو الصادرات الزراعية فرصاً استثمارية للمتعاملين في قطاع الزراعة والتصدير في مصر."
     },
     {
      "title": "مدبولي: الدولة تعمل على تعظيم العائد الاقتصادي للأصول الفكرية بقطاعات الثقافة والصناعات الإبداعية",
@@ -230,13 +236,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T17:42:00.000Z",
      "seen": "2026-11-16T17:47:17.822Z"
-    },
-    {
-     "title": "مدبولي: أطلقنا الاستراتيجية الوطنية للملكية الفكرية لتحقيق 4 أهداف مترابطة",
-     "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxOZDdBOFRGTS1lT1F0ZW9sZWV6YU9GZVo5X2Y0ejBNcEpEOGxLcXdPWEI2TWhTT182clE0SWNPVVU3SVdCNUxrYjNGdEF3ZWkwUmkxeHRNb3BETTN0c3lKTEFNTWdQLXlpdDZJVGFqN0NqR090WXJXYUhHNUlTcDBHRXgtbnduNmNWUDBXRlR1TTd1UWxEUTN1NS1wRXdwOHREeEJRTXpSYk1kSldneHVUMERqSEJSS3Mxa0FvaDRnanBTVEZDNmpfOTR4RjVsOTlUMWNzYl91b0hrNVZvdmwwNV9QS0pBaEZIU1h5YlVtQ2Q3QkJkSXhqNmZaSkEtSTFSdWpYa244SE5MTlFpbjFzczljVGlNT1A0T2RUdTFZRTItNWNla0lqdW9aN19NVFpnYU5SdHVfN2RGSEI1d2lwd2NBai1jQ2prY0FlY29GNUp5c2xLTDkzand2X3ZjNWt5S2JqVW5TYVJyVWk5Ri1QT0lGQ2NmeFdhWnh1M0RlZlZCeEhtTTlWUkhtb21qaEw0SW5LRk9SRXhxU01aT1Rxa19SNEIxcktBRHBjclN2ZGRaT1B3amtTWnhWV0k3UWVYTURjMElLdlpRVzlxVTFBU3VFc0hVMjVuVUo5eUR5OXQyUUQwUTBNOTVDSlVpYUpEeGd6VFlBczVxNXBoQ1dzZXNVdDl0by1DNFdFdTB0blBWVlp2VU92SGN1WWFrN3htcXU3YTJqVkxGNV9sNC13LTd6RlRsX21DcUtEVnZIUWkwZVhjMU9YM2pIcXdITlhiRWRZdUZza1pBZF9NMU5jVVZBdkhOTkZqSThPWEhMNWtsTWhFT2pqMmVVQdIBgAVBVV95cUxNWGhndXl1dW9vNEhZSnF5Tk80TF8yLTlNbllsUnUweE40Uy1Gc043SEpMSmJfUy04U0FuRndrbk1xbmpEaTJiRXpoNkRLRWFJdkZuU19VamxkNzhKdzhGRzJDcE82MTRXMVFWSi1EMWZfWWx2RjJ5b2tnbUUzZHJad2wwNTBNRTdVclhxVEw3bWFGNlkyVjNhZ050TDJKcEJZSThGQzVEdU5NMlpTVlBFY1hfQS00NndxSjktZWwxcTFDQzZPRk5uV2ctWndvajV1eV82b3dXdEFlOVlBS01CcnNKVmtPUmRuUGVacWF5RGE2Yk9nVllkMmJXV2ctZzhCSDJ5UHhqUjlZbDlGWjl5Z1Bic1IxaXRIZmpXcTAtMEFxSGJaU1YyM0RLS1pucV9rQThFRXkxcDhjZUZQYk9YYzcxa09iSVI0SHo4Y290S0RLeW91LXM5Sm5JRlpDREQ2cm5LdEYydTBhYW9MM3JoOEY1QlpiYWZrU3BiLXVUR0tqbTFEMEY1Zk1QT2JyYXQ4VUM3QXh2SzVRalVncXBCTUx1eERKeHZRSXFKMkpKVWJsWG5wS3BuOFNWekZHc0FLaVppMlBaQ21rWDhORnJFZ2pyNjNrZHdROE96bkpmd2d4NjZiWXEtUDBUY0V3VnJBSF8tc0YyTjJzY0V5a01zMjgxeUxPSVJGWHpSLWozeVA5TXB1TE9ibEcxeEhFV3RKQ080MXdCUUs2NC1ldmd6NE9DTjhueWdzalBwdUZTSmZBd21EQXEzQW04MFJXblNLYjV3VGRxb3I2Uy1xY1FiaWkzZzl3VkFjT05TaVdtdUtIaHlBOHhLMDhJV1lPbThl?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-16T17:31:00.000Z",
-     "seen": "2026-11-16T17:47:17.822Z"
     }
    ]
   },
@@ -266,6 +265,13 @@
      "time": "2026-11-16T18:00:00.000Z",
      "seen": "2026-11-16T18:07:17.891Z",
      "impact": "تساعد معرفة سعر صرف الدولار اليومي الأفراد والمستثمرين في التخطيط المالي والتعاملات التجارية."
+    },
+    {
+     "title": "«سينجنتا» تستثمر 1.5 مليار دولار سنويًا في البحث والتطوير لتعزيز الابتكار الزراعي",
+     "url": "https://alborsaanews.com/2026/11/16/2006936",
+     "source": "البورصة",
+     "time": "2026-11-16T17:59:56.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
     },
     {
      "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
@@ -340,13 +346,6 @@
      "time": "2026-11-16T16:30:00.000Z",
      "seen": "2026-11-16T16:37:17.910Z",
      "impact": "يهِم الأفراد والمستثمرين في مصر للتعرف على أسعار صرف الدولار وأثرها على تعاملاتهم المالية اليومية."
-    },
-    {
-     "title": "استقرار سعر الدولار الأمريكي أمام الجنيه في ختام تعاملات اليوم 16 نوفمبر",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNUVVN29kckd0dzhIM1NYVDNZdGZ4QVYtakdLdTZuR0l0QkE0eWtFb215cmR6NnFCQ1MxVUJ6YWxVeDBCVWRIYWQyUUFjM3hHRllNeENBSnFYaExHTHhzOFpydkpyaWN0LXNEZndqZmlGcXZQdFhPQ2hTeUlLOWtJdHlqLXQwT2dael9CbFBxMW1IcnhzZEJ1RVZYakJNZ2ZkTDdJOE9hVDM4RDJQUEVJZ3hXNzlWbkZKT3kxLU1ZMlE4cmpYcl8yU0pBWkNlNkFKeFQ0alpoaFdsNENUcDhia1dlcWNkLU45Yml4VEEzMW5WbGRsV1FTb1lPS1lQQjFHc242cXFVNEROVXZRdVc3Z0ozUFhORkxydGhaU2QxbGpBX292UmdubnhVa1lmTVVTSUU3ZTdyYW1XeW5hUVUzWEplZW52dVcxWWJPVWNVQm1DWGRQSExwMjBrOGtSTVVVZXdoNEIwVTA3S0NnWG9Nb3ZGTWFzSlZLSHN6eHhR?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-16T16:20:17.000Z",
-     "seen": "2026-11-16T16:27:18.026Z"
     }
    ]
   },
@@ -354,6 +353,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "قوات عراقية نحو جرف الصخر.. اختبار لسلطة بغداد",
+     "url": "https://www.skynewsarabia.com/middle-east/1905161-%D9%82%D9%88%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T19:04:40.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
+    },
+    {
+     "title": "إعلام إيراني: تفعيل الدفاعات الجوية في محافظة أصفهان وسط البلاد",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/air-defenses-activated-in-central-irans-isfahan-province",
+     "source": "CNN بالعربية",
+     "time": "2026-11-16T18:52:04.000Z",
+     "seen": "2026-11-16T19:07:17.714Z"
+    },
     {
      "title": "سياسيان إسرائيليان معارضان يتهمان نتنياهو بـ\"محاولة انقلاب\" والشرطة تحقق",
      "url": "https://www.dw.com/ar/سياسيان-إسرائيليان-معارضان-يتهمان-نتنياهو-بـ-محاولة-انقلاب-والشرطة-تحقق/live-79926107?maca=ara-rss-ar-all-1125-rdf",
@@ -405,13 +418,6 @@
      "seen": "2026-11-16T17:27:17.911Z"
     },
     {
-     "title": "مصر ترفع الحد الأدنى للأجور.. زيادة تاريخية أم تعويض للغلاء؟",
-     "url": "https://www.skynewsarabia.com/middle-east/1905113-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89-%D9%84%D9%84%D8%A3%D8%AC%D9%88%D8%B1-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D8%B9%D9%88%D9%8A%D8%B6-%D9%84%D9%84%D8%BA%D9%84%D8%A7%D8%A1",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T17:24:56.000Z",
-     "seen": "2026-11-16T17:37:17.463Z"
-    },
-    {
      "title": "قاليباف: لن يعود الهدوء إلى المنطقة دون إنهاء الحرب في لبنان",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/iran-is-giving-attention-to-the-lebanon-file-in-negotiations-to-end-the-war",
      "source": "CNN بالعربية",
@@ -445,13 +451,6 @@
      "source": "فرانس 24",
      "time": "2026-11-16T15:50:42.000Z",
      "seen": "2026-11-16T15:57:17.360Z"
-    },
-    {
-     "title": "بعد 3 أيام من الفوضى.. حركة الطيران في الولايات المتحدة تعود تدريجيا لطبيعتها",
-     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%a8%d8%b9%d8%af-3-%d8%a3%d9%8a%d8%a7%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89-%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-16T15:49:00.000Z",
-     "seen": "2026-11-16T18:57:18.046Z"
     }
    ]
   },
@@ -548,10 +547,10 @@
     },
     {
      "title": "فرنسا تؤكد حيازتها أدلة على هجمات إيران.. وبقائي ينفي",
-     "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNQ3RWOE9LM2ljTUlQYlZYdDhPT0ZjTm1taHp1RGZiTllqclVaTXl0UXVlcTNZUjRjWnA4R1BHUWM3VDFYRkRRUjZUMm43NHdrblA2WmJIdFcyOTY5ZDNmcC03S2RiMWVObUNRN0hlQ3FUMWp6U1J2TVRZOEt2VS1vMzZuRGRDb2xvc3MycmF0SmRMcnl0STlNMXh4YzlNdDdUYmNFQmo3T081MU1sT2pEYzRWdXpQMld3VlZIclE0M2lmZU1qaVJHeXRaWUp0VlJaV25tSmxiOHZld2dSVUNlSXF6dDZfZFZMVlZrV3Zzc0ZQSjZnLWVvdkthN09GTUZqREV5dURjN1lMTnJ0UjA5a2dEaVA2YWZPTnlScXpOcDVjVm1nT3B0TWcyNGtVLTFkeHpXQzY0Q240REtJdWhQZmlkVkNfckdOUHpFM21XRzFXdkY2b1FQcnZuTEx0cy1ld3pXS2FuOWtIaFlNenBPcGZWT19kdnExQ2dLb0xkcGlSbjNrNUFzR2JlUWowRUNuUW9LSGxHMFJvc0VjUU1SbWRLdzhZZmxpRW9SQk80NXBNRENtRS1OTGZIZ0JFWDY2QUdVLXluSmxuN2ZOU0J5eDliNUNpV3ZBU3lZN1VsMU9GeGFtSUd2bnlMazZvblk0bVhtalJmQmRJVVdiZGpZdmFLNXFiSzMxbDd5ZzNfcjg2SkVBT3fSAZsEQVVfeXFMTW00YUtlR19TWE0xQkhNMHpGVE9melpUU2ExM3g3TWRJVGlyc2pqRU9SX2FsdnFRU3FTMDh4a1hFckZtbmlteVNQX3Rrd2w0d3A3cmUtcUtRTl9Hcy11aEZ6YVp4czd0UXFqb29hWTM0alB2TmhnbWlvRm9ReWFGeFlOYURiMEVkZHZ3aWNIOEN2OUhwTGotb0FKWWJLc3ZFQ2lJM2VUTnhKSHVrcVFTRUx0WlNJc3V6TGRXRU9pNHBlZFVHYlhyUFdVR1NJS21MbWMtYWFDQVkxdTJFR0tmV3FwcXZQc2hLSjhtVW5iS3hTQ2l2SWk4TzlZWFhpdEtxcXdDc2l5OVlJZW0wRFlVVzJmYjY0M0xPdklhTjZhVi1JOUgyaF9Gd2JkaUZlNHFNaTROMWgxcW5fM1JlcXZYTThEQk5OMzUzY0g4QmY0Wmhya2ZIVF9WSVVyNU9kbERXQkVxOTBmQWRZQ3AwYnpORzBQSDIyUWhPbl9QcDFXMVFxcF81ZDJzZjBXd0JQZFRlWjl0UHZaQnlKNEVoQ081N0dfaXdyQUdxWENCS0VoS3BkMWZweGtxTmpaYmVwOHlxWHM0VFlXeElXeGJtMm5qcFJWbnYzQWg1Y001SVZFWGpTYzk1RTg3dk9VSEdZOUM1d2ZNczdHOEhlM0puZ0lmQ196M05NYzg0bkpYWTA0djBheG51Z1h0bDhCMm8?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNQ3RWOE9LM2ljTUlQYlZYdDhPT0ZjTm1taHp1RGZiTllqclVaTXl0UXVlcTNZUjRjWnA4R1BHUWM3VDFYRkRRUjZUMm43NHdrblA2WmJIdFcyOTY5ZDNmcC03S2RiMWVObUNRN0hlQ3FUMWp6U1J2TVRZOEt2VS1vMzZuRGRDb2xvc3MycmF0SmRMcnl0STlNMXh4YzlNdDdUYmNFQmo3T081MU1sT2pEYzRWdXpQMld3VlZIclE0M2lmZU1qaVJHeXRaWUp0VlJaV25tSmxiOHZld2dSVUNlSXF6dDZfZFZMVlZrV3Zzc0ZQSjZnLWVvdkthN09GTUZqREV5dURjN1lMTnJ0UjA5a2dEaVA2YWZPTnlScXpOcDVjVm1nT3B0TWcyNGtVLTFkeHpXQzY0Q240REtJdWhQZmlkVkNfckdOUHpFM21XRzFXdkY2b1FQcnZuTEx0cy1ld3pXS2FuOWtIaFlNenBPcGZWT19kdnExQ2dLb0xkcGlSbjNrNUFzR2JlUWowRUNuUW9LSGxHMFJvc0VjUU1SbWRLdzhZZmxpRW9SQk80NXBNRENtRS1OTGZIZ0JFWDY2QUdVLXluSmxuN2ZOU0J5eDliNUNpV3ZBU3lZN1VsMU9GeGFtSUd2bnlMazZvblk0bVhtalJmQmRJVVdiZGpZdmFLNXFiSzMxbDd5ZzNfcjg2SkVBT3c?oc=5",
      "source": "العربية",
      "time": "2026-11-16T09:28:00.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
+     "seen": "2026-11-16T19:07:17.714Z"
     },
     {
      "title": "74 % من البشر أونلاين.. 6.15 مليار مستخدم للإنترنت و5.81 مليار حساب سوشيال",
@@ -565,6 +564,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
