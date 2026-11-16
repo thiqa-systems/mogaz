@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:57:17.360Z",
+ "updated": "2026-11-16T16:07:17.512Z",
  "minute": [
   "باع البنك المركزي المصري أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%.",
   "تبحث وزارة الإسكان المصرية مع شركة أكوا باور السعودية التوسع في مشروعات تحلية مياه البحر، وتستهدف الإسكندرية للحاويات تحديث معداتها.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T15:57:17.360Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T16:07:17.512Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.63,
    "change": 0.42,
-   "asOf": "2026-11-16T14:47:07.000Z",
+   "asOf": "2026-11-16T16:05:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5836,
-   "change": -0.06,
-   "asOf": "2026-11-16T15:48:09.000Z",
+   "value": 5828,
+   "change": -0.19,
+   "asOf": "2026-11-16T15:58:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6663,
-   "change": -0.06,
-   "asOf": "2026-11-16T15:48:09.000Z",
+   "value": 6654,
+   "change": -0.19,
+   "asOf": "2026-11-16T15:58:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3868,
-   "change": -0.47,
-   "asOf": "2026-11-16T15:48:09.000Z",
+   "value": 3863,
+   "change": -0.61,
+   "asOf": "2026-11-16T15:58:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1008,
-   "change": -0.38,
-   "asOf": "2026-11-16T15:57:45.000Z",
+   "value": 1.1012,
+   "change": -0.35,
+   "asOf": "2026-11-16T16:07:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.92,
-   "change": -2,
-   "asOf": "2026-11-16T15:48:06.000Z",
+   "value": 93.56,
+   "change": -2.38,
+   "asOf": "2026-11-16T15:58:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7490,
-   "change": -0.94,
-   "asOf": "2026-11-16T15:58:09.000Z",
+   "value": 7485,
+   "change": -1.02,
+   "asOf": "2026-11-16T16:08:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64460,
-   "change": -1.29,
-   "asOf": "2026-11-16T15:58:05.000Z",
+   "value": 64389,
+   "change": -1.4,
+   "asOf": "2026-11-16T16:08:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزير الكهرباء يدرس تغيير نظام شرائح الاستهلاك لمنع قفزات الفواتير",
-     "url": "https://www.elbalad.news/7183106",
+     "title": "عصمت: المالية ستسدد أكثر من 260 مليار جنيه مستحقات البترول نيابة عن الكهرباء",
+     "url": "https://www.elbalad.news/7183115",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:56:46.000Z",
-     "seen": "2026-11-16T15:57:17.360Z"
+     "time": "2026-11-16T16:06:05.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
     },
     {
-     "title": "أنشيلوتي يرد على مطالبات روماريو بإقالته من تدريب البرازيل",
-     "url": "https://www.elbalad.news/7183103",
+     "title": "وزير التعليم: نستهدف إنهاء الفترة المسائية بالمرحلة الابتدائية العام الدراسي القادم",
+     "url": "https://www.elbalad.news/7183129",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:55:50.000Z",
-     "seen": "2026-11-16T15:57:17.360Z"
+     "time": "2026-11-16T16:05:36.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
     },
     {
-     "title": "لأصحاب العدادات الكودية قبل يناير 2024.. الكهرباء: خفض سعر الكيلووات إلى 92 قرشًا لمدة 6 أشهر",
-     "url": "https://www.elbalad.news/7183104",
+     "title": "تركيا وأوزبكستان تبحثان سُبل تعزيز التعاون الدفاعي",
+     "url": "https://www.elbalad.news/7183120",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:55:17.000Z",
-     "seen": "2026-11-16T15:57:17.360Z"
+     "time": "2026-11-16T16:05:33.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
+    },
+    {
+     "title": "رئيس الوزراء يترأس اجتماع المجموعة الاقتصادية",
+     "url": "https://www.youm7.com/story/2026/11/16/رئيس-الوزراء-يترأس-اجتماع-المجموعة-الاقتصادية/7621161",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T15:59:00.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
+    },
+    {
+     "title": "مصر والهند تبحثان إقامة منطقة صناعية هندية بالمنطقة الاقتصادية لقناة السويس",
+     "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxOLUVnNk9DTHJBYkI1YmlPbWdZTkVZWkczT2NOQklsbE1GS2tYaFpSREhTYlNQcUNYSG01TzktYWVaWUd2T1daZ0ZUMHhYRlhNclVLaUpYdGRCLUswTkJSeFU1bE01Z1hrNjZmcTYwbUk0dUFFYUJ1MDl6eVJKa1I3NjAwaVlLRjNzckxWZWxCOTBHN2RuQlV4TndMa1pPbGpCZm9xdllGMVFodG1LUnNtYXlkanZoYVY4X2xhUTQ3RllXSnNEeUhGQU9WTjAta0xrTDRBcllvZUJ6clBCVUh5Y19laUoxVEhjY3E4RV9Uam5Fa0thTkV1enhYbEx2NndZQ2Q5Z1lFSkN6dkcyWGRjem1PRERkdmR4WHppNU0zQl8wa0wyazdqZkcyVlJramZIc2d6U0s2Z3NBRlM0ZEdYVmNxQXI1bFE0NzlJZk5Jbm9nRFlQREUza0xXcXVGR1hlX0toX3Z0QTJNbWNPT2dlWE1ZWXZBQThtaThoX1I0U3diaUdTYU1JUTJzc1B6NDd1YjdEbkJTT1VXSllxVk4tRk5NRmxmNFBsOWFYN3RMTDZjNzdza2E4WEpBT1lqTlI1VXduZ2d2MFJtMnZSdjRVb3A2WDNYYWZyd3JKdlBmeU1ublc3YTNLYzNvd3ZUT1dWbkVFUXJ2VWhGR1pJdEVPQzExV3YxM3hxeU9ESXI0V05yRF9DOU5DVW1LTXpXNXBhWVhyY09qQ29pUU1vWmFBRlVaTWY5MURpaWVfbWJ5dkttV2JUM2ZIQlJocjVDZWl2aTNabndxSmdJRWxVRmNnRHdhZkFzNWlnc1p3d19RWEt4ZEFfdUZEb3B2V3g2dWZ4WHRDNGVmR2kxZlHSAZAFQVVfeXFMTUQ3Mk1RRTVheEJsUi14YS1FaGcwaHV5ejBhWWhmUzFLMGFwMm9jbno1b1llemhQbVJaSUdxYkVpUW9GeUd3V1lldnB6Nmt3SDhjSzQ3ekhFRVdpX2RZT3FjNnJhS0NfU01KelhzVklWUjRBV3ZWdm9Rb0NpRG1Xbm5yVllucUh4ZEJZV1FWRGJhWXY0bTZaSlYwVlVsbG8zMDVOd1FiUnpiOFBueGNCV25TNDZlYm5SdG82TGk0LU5WZ2I0a0JSbFB5ZVlVenk3UnllRlczZFFBUllJX3MzV3hJM18xOGZrdnBkQ2JWWms5UW4yanhMcVVzV3k5bDBSVlJaTGF5eEZUaGtYUlhweVBkSl9kT01vZWV5a1Rablh1Tk9GNWR3b1NNTDNSSkNZMF9nWnNDaDR1aXJoV0NFclVvNHRiek0zRnBsOXdjQ25nMVA1aFBIdGZJampMZ1hoZ0Jzd0U2T3BSQlFzNk1nTW9KRjgyUV9feThDOHVkM2tZcTZQblZVbDhvXzlQOTJfU3piTHFSSTRYSmNMRlNKQzFaSnhjUVdqOW1rXy1JM0g2TmNJOTRJQ183VDRyM041UHdzTXlET1VnVm5pYWdBUlZsSnJicFk3MW90ZlBBYlhGbkg5dmNia3JHYkxNQ2JFV1l4ajdoXzAxX0JYTjFJemxsVUl6WFBrZHBVWDFXN2ZrN2d5U2VJbkI2RzQyUVJobGFfZXM1MnlTVEZJSTlHSlBGTDlDNEJoVXNxQXF2Y3FWWUtEcjA2ZkFDSmNmWUlkeDFxRlE1ekFuRTB1ZUt6Q2doMmxRM01leU0yLUtHLWZRV1cwc1JVTVVDRnh1TndCN0ZiZHRlTWI2SHhQbjFRZnE?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-16T15:53:53.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
     },
     {
      "title": "​محافظ القاهرة يثمن جهود المبادرة الرئاسية للكشف عن مشكلات الإبصار",
@@ -173,13 +187,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T15:30:00.000Z",
      "seen": "2026-11-16T15:37:17.805Z"
-    },
-    {
-     "title": "وزارة النقل تنفي شائعات أوزان العربات الروسية الجديدة.. وتؤكد: آمنة تمامًا",
-     "url": "https://www.youm7.com/story/2026/11/16/وزارة-النقل-تنفي-شائعات-أوزان-العربات-الروسية-الجديدة-وتؤكد-آمنة/7621093",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T15:26:00.000Z",
-     "seen": "2026-11-16T15:27:17.571Z"
     },
     {
      "title": "رئيس الوزراء يبحث مع وزير التجارة الهندي تعزيز العلاقات بين البلدين",
@@ -230,13 +237,6 @@
      "source": "BBC",
      "time": "2026-11-16T11:44:11.000Z",
      "seen": "2026-11-16T11:56:22.213Z"
-    },
-    {
-     "title": "تفاصيل القبض على مذيع بقناة فضائية بعد اتهامه بقتل طفليه في الجيزة",
-     "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxQVnFsNk9tU01qV0tqOFJ2Zkw5YnFCNWxYNHN4WjlRWGJlMUlGVFRlT1JrR0ZTdkg5MnZvaE9zeVF3bE1uNFlhdWQ0WTZITnN2UWdONW9oRDBHSjEyZlN2bV93T1VvTkNQOUl1OWhSTUVaMUZYYjlyWlg4V1IyWDQ1T01BYzBmQ3IzaURmZnNELV9ybGlLVWVPM0VxTFJDbDVOQnNqSkVPMWZKMXRhMU9INmxlbE5rbjFuZUt2RjcyZ1A1dDFSQjNLWldCOHNtZXhycy1ieVZtVGhvYzVGOWhWUnNwZGd2RDhiLXFjdHBFX21MM3BWSnA0dk5GdXNVNF9iNWtkWndjMHZfSUdqaF9sR0JMMEphdlQ1blJkcm43MXp0V2hNWVBmQnpyMTc0bHVwdUg3ZThtaXJMOU9LV0NNV096TXJ2UTdid1hoMFpMN3F6QlpRNEZwVy1Cd0o4bGVYLTRFcE1TbjlSekludS1rMTZoUVZTTExNT3dzRk85SEZ2MjVIYUdwcW43ZHc4SGxIOWJBTGdmdWt6MFRjZ0Vtb1RRbkNtN3Bwem9uN1FIZTBQZzVnNTQybU55ZWR5eWRqWXY5dTd6bERzdDFqTkFYTTZyQThSaVJ3b0NPR0dULWttR3RCbkdOZTg2QV9ZdHktN3RGOUVKQWU4b1JpUHN6MWlrUUtiWGFaVFB0MkJLenF0cWU5RlFfQXRaYVcta1d3VmlGM2paQWxjZDEwM3RqS3VXamJsdVl2RXg0M9IBwgRBVV95cUxOY2FGNGxFS3JXWXpJRi1KYndkTFExYUFVUGJNUHV0dDFmNXVMalluMU9aSWRLenVOczQyTTZKOGNKZmJmVnB3ek1YMmEwUEdMNUVld2h4enhIbllyNFRCeUI1MEZwMmRFUjM3dmg0TlgwRmRuTVZja3h2cjBucDJfLTdmZkM5V3cwVUx4WHR4d0JRR1hjSFRyR2hiUU16QU5HNWxnWkphRGpRTTdMLUdFdHhiZldVc2tjWjJvZFZsMDdiYnRXdEZUNzJLaGo2ZHBTaVBDQk9OeU9UNGhfbG4ybmtxRmJPVmNEV2ZnaGxXVjVpUkxxZG1sZ3ZORDZrRFZVOFJqdE1obWx3dHhQV1NTQl9neGFGNFg0QjZqQ1pfXzZsZm1RaDNZa2dHbW1KOEh2cnRGSlVleHdVUDgwMHVNR2UySjBUazBKRDVRVW40bm1RZXBxSDEwV0ZpZkFaRmxxTFFwZWxBMVVMRkdVSjdraXNsRlJPZW9fVC1rY1R5UUhrc0dSMm9JTV90bHNTZXhjSXJSeUxmSmJveTMzZnJfenZfa2VnN1U1Q2lIZFRaUjJ4dXdacEc4UENNQjZxZUdsNm96QTAtdGZmekVjb0FaNHozdXBwaFlRckNrdFViMUphRmNTc2VsWHhwY1kzbVhucm1jTlNWTEY4R2ZQaWxJdnVOX2hFdnFPR2VWYkpqQndrYzVnQzlHVG40OG5FYjYyekM5cnFvdEQwd0ZQcXIzNS12N1AxS2FvYl9jb2gzMTRqUQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-16T11:27:22.000Z",
-     "seen": "2026-11-16T12:46:22.626Z"
     }
    ]
   },
@@ -244,6 +244,34 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "53.63 جنيه سعر الدولار فى بنك مصر اليوم الإثنين",
+     "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTlhJLXlwYmJxMUdiVlNMZm50aFdIWlJuWWZQd2VNYmtCNUE0OTNhaFYtUXgwakc0RE5LNWpOakotV1hxNVJyTGVuRkNMX25GRDlCOTh4VFpLRTdndHg1QmxVUk4wNW9rQUhOUHFtM29ublA4MjBOT2YyUU12bURFRDdqWmVHVUxyNk4yZ3l1Qk91eEd2TmdzcUVCTmJHTWFPMGJ4LVNxZVpleGdKWlVlODhBVWxiWldlRzNJemY1T1BZR1Fydnd4TzhPRWppMllfSXRsQXUzcWR1LTkzMWtrNkxIVDdSWGRFaHR3bFhxUzAwaFRURmpPZmNkOGZGS2xNQjVpQ0Z2ZmxjeEZWRG1ZYnVfU0wwcXRxeGtQYmJhbHJlZFpRY3gzNjRIakcwY3lOS2xlUlJ1a0F0d1BlNW9WamRRaTZsbTR3SXVBRWxwQ0ZhdnpuQ0t0NEZwQ2t6UEdyNkxxODZMY3Rpd2RuVlluZndrNDVjUnhZZm4zatIB9wJBVV95cUxNQlFoLVV5VmRqbmdiaVRicUktU3ViLTZjQy0zYWJfOFZveGkxYzJIR2g4c0xCb18zSFV4VnQ3aXRQRnU2UzRSdDlCVm9YWUc4ajVHYW96UmNWQTE4ZERIbUV6aDhUZmRCMVVoOF9GTHVmSUFzRVJGWWpxM0xNaFQ3bmdERzFVNjZxVUVRUzU5TUZSWkVueWQ3aEl4WXc1ZmJlNEFwZ3gzdV9POFI3RVpzWXh6NDM4Wko3RkxzOThEY0dUNl9td0VGOHFnUlI2OXM0SGNjdVpKM2M1VHd3N0xVSjJiN25nSWFuNXEzZnQ3bjZkLUc0Yy0tVC03T3NBQ2JMRmlQeFg0LWVJci1FR2s1SUloQXZsNXozV2FDWmpVelluTHVpTXpTb3V4VWxIXzVOU083MWVCVmwtVDFJcExTaTdYcHRTV3BJUXpRV3hESW9qc2FrckE0dkpmd2dqUHQwLThKQmlrcG9FQWpOSE44dGstdGUwTHc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T16:00:00.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
+    },
+    {
+     "title": "«ميرسك» و«هاباج لويد» تعيدان 3 خدمات شحن إلى قناة السويس",
+     "url": "https://alborsaanews.com/2026/11/16/2006903",
+     "source": "البورصة",
+     "time": "2026-11-16T15:24:20.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
+    },
+    {
+     "title": "“النقل” تبحث مع شركات هندية إنشاء ترسانة لبناء السفن التجارية",
+     "url": "https://alborsaanews.com/2026/11/16/2006895",
+     "source": "البورصة",
+     "time": "2026-11-16T15:20:53.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
+    },
+    {
+     "title": "هل يواصل «EGX70» الهبوط بعد خسارة 3.76%؟",
+     "url": "https://alborsaanews.com/2026/11/16/2006899",
+     "source": "البورصة",
+     "time": "2026-11-16T15:20:04.000Z",
+     "seen": "2026-11-16T16:07:17.512Z"
+    },
     {
      "title": "الذهب و\"الدهابة\" والعرجاني: كيف تسعى مصر لتنظيم التنقيب الأهلي عن الذهب؟",
      "url": "https://www.bbc.com/arabic/articles/cmx2r6qzrxx6o?at_medium=RSS&at_campaign=rss",
@@ -268,34 +296,11 @@
      "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
     },
     {
-     "title": "“الإسكان” تبحث مع “أكوا باور” السعودية التوسع في مشروعات تحلية مياه البحر",
-     "url": "https://alborsaanews.com/2026/11/16/2006864",
-     "source": "البورصة",
-     "time": "2026-11-16T14:29:48.000Z",
-     "seen": "2026-11-16T15:07:17.983Z",
-     "impact": "يهِمّ المستثمرين في قطاع المياه والبنية التحتية لمتابعة خطط التوسع في مشروعات تحلية مياه البحر."
-    },
-    {
      "title": "\"أنا هنا لأعيش لحظة خاصة\": عودة رونالدينيو إلى الملاعب بعد أكثر من عقد على الاعتزال",
      "url": "https://www.bbc.com/arabic/articles/cw808v7nrmrxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-16T14:18:14.000Z",
      "seen": "2026-11-16T14:26:22.411Z"
-    },
-    {
-     "title": "“الإسكندرية للحاويات” تستهدف تحديث أوناش ومعدات بمحطتي الإسكندرية والدخيلة",
-     "url": "https://alborsaanews.com/2026/11/16/2006841",
-     "source": "البورصة",
-     "time": "2026-11-16T14:17:27.000Z",
-     "seen": "2026-11-16T15:07:17.983Z",
-     "impact": "يهِمّ المستثمرين والمتعاملين في قطاع النقل البحري والبورصة لمتابعة خطة تحديث أوناش ومعدات الإسكندرية للحاويات."
-    },
-    {
-     "title": "«بنك قناة السويس» يطلق منتجاً لتمويل سلاسل الإمداد مطلع 2027",
-     "url": "https://alborsaanews.com/2026/11/16/2006856",
-     "source": "البورصة",
-     "time": "2026-11-16T14:12:12.000Z",
-     "seen": "2026-11-16T15:07:17.983Z"
     },
     {
      "title": "سعر صرف اليورو اليوم الاثنين 16 نوفمبر 2026 في البنوك المصرية.. أسعار الشراء والبيع",
@@ -344,14 +349,6 @@
      "time": "2026-11-16T12:14:50.000Z",
      "seen": "2026-11-16T12:26:23.007Z",
      "impact": "يهم المستثمرين في السوق المصري لتقييم الرؤية الدولية حول اتجاهات الفائدة والتضخم وسعر الصرف."
-    },
-    {
-     "title": "سعر الصرف بالبنوك نهاية تعاملات اليوم الاثنين 16 نوفمبر",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52R1hWdU05WENqQkNrd1FQQk5GUW96RkkxOGR0bW1iRjhKbFFtc3dsV2NPSXY0eGxXSFZJYnlSMXdCbHU0SnY2cTRoMlIyMTZVUlBmTQ?oc=5",
-     "source": "الأهرام اوتو",
-     "time": "2026-11-16T12:04:50.000Z",
-     "seen": "2026-11-16T12:06:21.750Z",
-     "impact": "يهم المتعاملين والموردين في مصر لمتابعة مستويات أسعار الصرف في نهاية التعاملات اليومية."
     }
    ]
   },
@@ -571,12 +568,7 @@
  ],
  "failed": [
   {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
+   "section": "tech",
    "feed": "www.bing.com",
    "error": "no items"
   },
