@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:18:20.372Z",
+ "updated": "2026-11-16T21:28:19.680Z",
  "minute": [
   "تناولت الأخبار تراجع سعر الدولار مقابل الجنيه المصري في ختام التعاملات ومتابعة أسعاره بالبنك المركزي.",
   "بحث سفير العراق مع وزير النقل المصري تعزيز التعاون المشترك، مع استعراض توافر الملح المصري من بحيرة البردويل للأسواق المحلية والعالمية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T21:18:20.372Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T21:28:19.680Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5812,
-   "change": -0.46,
-   "asOf": "2026-11-16T21:08:16.000Z",
+   "value": 5815,
+   "change": -0.41,
+   "asOf": "2026-11-16T21:19:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6635,
-   "change": -0.46,
-   "asOf": "2026-11-16T21:08:16.000Z",
+   "value": 6639,
+   "change": -0.41,
+   "asOf": "2026-11-16T21:19:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3852,
-   "change": -0.88,
-   "asOf": "2026-11-16T21:08:16.000Z",
+   "value": 3854,
+   "change": -0.83,
+   "asOf": "2026-11-16T21:19:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0999,
-   "change": -0.46,
-   "asOf": "2026-11-16T21:17:46.000Z",
+   "value": 1.1,
+   "change": -0.45,
+   "asOf": "2026-11-16T21:28:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -75,7 +75,7 @@
    "unit": "$/برميل",
    "value": 92.19,
    "change": -3.81,
-   "asOf": "2026-11-16T21:08:05.000Z",
+   "asOf": "2026-11-16T21:16:12.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -84,16 +84,16 @@
    "unit": "نقطة",
    "value": 7417,
    "change": -1.92,
-   "asOf": "2026-11-16T21:18:23.000Z",
+   "asOf": "2026-11-16T21:20:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64916,
-   "change": -0.6,
-   "asOf": "2026-11-16T21:17:37.000Z",
+   "value": 65186,
+   "change": -0.18,
+   "asOf": "2026-11-16T21:29:19.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إصابة 10 أشخاص في انقلاب ميكروباص على الطريق الصحراوي في البحيرة",
-     "url": "https://www.elbalad.news/7183558",
+     "title": "لا ينشر ------------- حقيقة تقديم عرض لـ محمد أبو تريكة لتولي منصب مدير منتخب قطر.. تفاصيل",
+     "url": "https://www.elbalad.news/7183561",
      "source": "صدى البلد",
-     "time": "2026-11-16T21:18:07.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
+     "time": "2026-11-16T21:27:32.000Z",
+     "seen": "2026-11-16T21:28:19.680Z"
     },
     {
-     "title": "دول أوروبية تتفق مع رواندا على استقبال اللاجئين لمواجهة أزمة الهجرة غير الشرعية",
-     "url": "https://www.elbalad.news/7183559",
+     "title": "شبانة تعليقًا على تصريح حسين لبيب: إزاي هنثق في مجلس الزمالك بشأن ملف شركة الكرة؟",
+     "url": "https://www.elbalad.news/7183569",
      "source": "صدى البلد",
-     "time": "2026-11-16T21:17:02.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
+     "time": "2026-11-16T21:25:32.000Z",
+     "seen": "2026-11-16T21:28:19.680Z"
     },
     {
-     "title": "«من فينا يقدر ينسى لن أعيش في جلباب أبي؟».. عمرو الليثي يستضيف ابنة الموسيقار حسن أبو السعود في «واحد من الناس»",
-     "url": "https://www.elbalad.news/7183557",
+     "title": "مصرع شاب غرقًا في مياه بحر البطس بمركز طامية في الفيوم",
+     "url": "https://www.elbalad.news/7183562",
      "source": "صدى البلد",
-     "time": "2026-11-16T21:16:17.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
+     "time": "2026-11-16T21:24:54.000Z",
+     "seen": "2026-11-16T21:28:19.680Z"
+    },
+    {
+     "title": "طوارئ بغرف عمليات المرور بسبب الشبورة المتوقعة على الطرق السريعة",
+     "url": "https://www.youm7.com/story/2026/11/16/طوارئ-بغرف-عمليات-المرور-بسبب-الشبورة-المتوقعة-على-الطرق-السريعة/7621489",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T21:24:00.000Z",
+     "seen": "2026-11-16T21:28:19.680Z"
+    },
+    {
+     "title": "الصحة العالمية: إريتريا تقضي على التراكوما.. إنجاز هام في مجال الصحة العامة",
+     "url": "https://www.youm7.com/story/2026/11/16/الصحة-العالمية-إريتريا-تقضي-على-التراكوما-إنجاز-هام-في-مجال/7621472",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T21:21:00.000Z",
+     "seen": "2026-11-16T21:28:19.680Z"
     },
     {
      "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي",
@@ -172,20 +186,6 @@
      "url": "https://www.youm7.com/story/2026/11/16/الأرصاد-تحذر-من-شبورة-مائية-كثيفة-على-الطرق-خلال-الساعات/7621484",
      "source": "اليوم السابع",
      "time": "2026-11-16T21:06:00.000Z",
-     "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "​محافظ القاهرة لـ اليوم السابع: ننفذ خطة شاملة لإعادة تنظيم العتبة والموسكى",
-     "url": "https://www.youm7.com/story/2026/11/16/​محافظ-القاهرة-لـ-اليوم-السابع-ننفذ-خطة-شاملة-لإعادة-تنظيم/7620689",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T21:01:00.000Z",
-     "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "برواتب تصل لـ30 ألف جنيه.. تفاصيل 1983 فرصة عمل جديدة في 10 شركات",
-     "url": "https://www.youm7.com/story/2026/11/16/برواتب-تصل-لـ30-ألف-جنيه-تفاصيل-1983-فرصة-عمل-جديدة/7616685",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T21:00:00.000Z",
      "seen": "2026-11-16T21:08:19.974Z"
     },
     {
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "546.7 مليون دولار في يوم.. الأموال الساخنة تتدفق على الدين المصري",
+     "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOS242NlJyb0tZdmY3U2syTVNOYTNrVGtRdE0teVFLWVRtblJmSDM3SWV0WmNWd0hPLW1ucWhSeFlHcW5JSFNBUUZLMEMwcU0ybWp6Yk55X3Fjc3IxV0dkVDlNSjBqQzhEMG5Ca185dkZTMnBjV05SY09EeTlZX180bm9vdmxzTEhXejFIVHZhbzBwZXR3Z2hjM3JBcGpGWFp6dV9YRVRaMTVRVkF4NzJGelJ6ajhNUWFRSS1XdXZpZWZaem5ZVjRFbVVBTkhRRWlVOE5oeGpObjI1UVQ3UmJsc1NVMFBnME55dnQzdjRHakp5SDRUYTlNUFlrZndDNy1RZjFTdmota1pZc0lXdDAyVzhSS25rS0VTTXB0RUpWWnd1TjFpMmUwdkd3eU85YVU1bmxaWVNFSEp4Mk95RXJjeVh6SzZ3aXVfSlNKS0t6ZFRiLTI5aHFqSXpjX1dHZDA2bEZrQmtzaTZYLUhrQnd1dU00OFlYM1p1aGRWYTNqRHNPQVM1bXdFNDlFaHZWblpzR2Z3VmJrNzhYRE1DaDU1ZGF6WHFlMkQwc3QySXF3NHlKeGpzVkx3SlZma1l0ZGpRdEw4bGVuVVd3NllKYUNsMVJGS1RTZXFxVHRTVXBHcTZvRFZTLUlCcWtjS09TekhHUzI4MmtsZDRzM3pX0gGCBEFVX3lxTE02T2p5d1ZlU0FkdkNIWF9aSVlwVGdWdUdHdldpRmYzSFdHcjZXOVJZOTR4dTJKUEpPUDg0cmR0ZmRUYjJvNU5wMjBNZ3BNUXNwelhveFlOUExld0hJVHVQd3NLc18ySUtBU0tzS0NZS0VZTXUtYzlEdHcyNF9MSzF5QzVnWDE4S1ZHSW1lMlZMdG40eVZFdzVrZVZ2ZUNjVmdCTWNKZFJnM2FPV2MzbHA3RDlmUzVoMWJuVjZaZnFwaDROQ1E4Nm5PTmxlLVRtaEttUEdhcnZHQVRqR0o4Rm9hM09QZ0kwZ0s1X3hDTGxIMC1LTkN0LW5idzdmbzA5WlBld09vQ1JPRlJZTVZ4bU1fTkRUbmpvWElCZm5EVC1PTUV2LUFVNkt2WGU4ZjYyWWdQWVdTVkFIeFJuSk4tUEMxMFk0RXZndGNmWE9OZU54X2JJME5KX1JyQUp3Wlh4NkdLLTJmb2Nydlo3dVltelU5SjlGSzltYVliYkd5d3hOUEFXeFktbHFGOGg1c2VSVU1rdkVQS0dJaHJMOHZRR0hoejRpUldQeWNiWmR2Y29INGZ4ejBOQlpiMWFMZkh0cUI2VTFPdldWT3E1SlVzLU9fTGtwcHFpUzRrYmVxbDZFeFA4ZkIyTTRkSTJWeU9wTEpKUGFaWEx2T0FLYlhuYnY5LWc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T21:14:38.000Z",
+     "seen": "2026-11-16T21:28:19.680Z"
+    },
     {
      "title": "آخر تطورات سعر اليوان الصيني أمام الجنيه في البنوك المصرية مساء اليوم الإثنين",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUalJUVHdib2ZDMmpjdkNHNUtfdDFsUlZWQjRXRXVNbHIxdVFmWEdUb2VLVl9RWlJsR256ald5OHV3SG02YmZ3?oc=5",
@@ -335,13 +342,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T18:01:41.000Z",
      "seen": "2026-11-16T19:37:18.041Z"
-    },
-    {
-     "title": "سعر الذهب اليوم الاثنين 16 نوفمبر 2026.. عيار 21 بدون مصنعية بـ5910 جنيهات",
-     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQOFpVSXFKX19sNzFlbVZDVUlmTUczVUJNSmllWW9VOTAwNUYzNF9lc1lXZU96eXlEaW93N1dfdG5ZV2U0d2NDZl9ncmYyWW05Y3NUaUV1THRRNXAwdU1Jc1RGTmZRM24wLTc4VTJQSl9Fc2lEcGxnY1VJSnNfY0IxVC1nSVE3NE9FNGF6bFVTVUpuZkRaUjJoQ0FjT08tZXhHM0szX3diNm8yVTg3OWNiYkpHR2Uzb0tJb2phU1pXcWQweDZ0V1FNOTc2TnJJZGtzd0Y5OUYtY2JfRFo0YUVsX0FOU3RRSWhTbUdIaU9hd1g5Ym56RmdDNF9CNjVrZnpVX1RvSlRWM1BsbDh6UnNFb0NmaG9Id0RvLTZIQm9ySFkyRUJDN2Q0ZHNwVDczSzlTVnhEVE8yVkRRSnlfR21SaUNCYm14ejV3ZWpfYmVENU5zTzZTTkRtV1R4Qm0zX2dvR0ladndvdkRIRE5oMEUwTFhjMVY0WlRuamNkTC1lYndFUdIB_AJBVV95cUxQSFVUWldobzliMDBycVRmQW9GRk90OGZCbm9xVkZZcG00MDVUOFVkeWJRSVBwMm5uZVFibXVDakVhYWpwYno2RURsMlhoUnJCVUpjUm03eVVvS2pacngzbFdHcVNYbnM4RWl2dHZRRmc2TWJIQjJWVThFQkx0bWpEY3pzOFg0LVJPMkRFMTNYTnN6WkN1VnlxcUh3dlFYa3c0Uk5US1ZzeXl5ZkdLVldmQ1RJYi1QMGdvNVd3MlVockFSdUNTaC1ZWHd4SWZkM2lHbjZrT1R2VU9IMXdrU0VJRHcxTDBkQzdWT0hOcnA1OXQ4ZGs3YWh4Uk9JOFVxQ0hrS1F6OEdYUDJkR0FiZnUyNEJweHNRTGRTZXNleUNJVzdZOTVoQldaeU5wV3J5YUpsMTFZd01iRk81TjZEWG5hcWJHdmhXTnNUdEpDVmhHT3BQTFlLTnZUZkw0QjF5bk8tUWJ4cUthRWVZNTY1dkttREtUaDU2eVVtcTZCNg?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T18:00:00.000Z",
-     "seen": "2026-11-16T20:48:20.010Z"
     }
    ]
   },
@@ -515,7 +515,7 @@
      "title": "تحذير من سيناريو كارثي يهدد محطات أوكرانيا النووية",
      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQeVJpRjE2em50T3BMY3c2NmV2NEZzNkJ0ZTRiSzFTbUo4Mnp5bXJzY3JSZmlSZFdWeXFIV0p6dGlXa3M1UzVkNjhONUg1S3hQS0hKY0JxTzJVNzVRYm81VnpsUDluM0paUkhQUzhfaUR3Sk9YRWxpbDE0bXJBMjVjbkg2V2xuanJzcDZXOFcwTE5HS2NadnNNSnJpa2RkSzlwT0lxNjlhandNOEduZEI2MG9PTXptYlcwYkdnRC1oVjV2WThyTUxia2VrLTd3MzZ4SHVoSS1nQmF6N0dwU0g4b08yQS0wbGNscjZ1ZGVVYWFuT3E1MlRydmgyUGZzajE4TDk2NmJteFVDWUY3TmtxenREaW45YmdXZWg2clowdGxha3Jmdk5wMGdfdmdPbk5NYTlBbE1aMXNxcERQN0hQOGtwdGZ3RWJPNFZvNkI2dmtqWmY2SjBnOHpfWkpfeXhMTTNCTWljWGN0cGJiYUJ2NHZyTW1BMkdLVGVHVkpRUlV1YWVOTFJxMDRRU282em5TZHJVbUNCSW1hTDZqUGxCQ1hJajNDQVnSAawDQVVfeXFMUDdHaVVzejR3ZlNOX0xFb3NDSFpCei02RVNtcGJZa3MzNVdYYnIyWklXNmRfOVVnakRsRFlJY09FZWtMYnhoRTdkdndZVTBnbnFBRllxSnBWeFNmbUdub1p3bkpBYjNwb0puQnhUTnRnSkRlb3gwSzNSMW9DMkRTNUEzZ29CUGlEeFEzekpfQU5UNHFvRlRkOFktajlIVmtSUDFnVmxab3FiMVdKR1RIbXlPMFFsajVSYXgwTXdlWjdzQmpSWUN1TWJfSGRka0ozYlhxd1VuX0luTk1wVWNjUnNwYnpJSTZNSkc1ZVk2OXNCejJwa1M2Y1RUSC0xOUpuM2YzY1RNV2h0OEtJNGZEUzNJTjYtcE5lWmRGX0t2TzgyLU5wcElOdTJLLXBIdTJMMXJqMzN2NE5haG5CUWlSaFlzSFdCME9McVF5OFJHMmV1akVlQV9BcGpNZ1lfemRUZHlUaXhvV0M3dXBjajdmcE1WNlRkTlhwRTdBWTVSRW9hRU5XN3p4OXJTeG8zVkFjTVQ1OXhncWdLQUFSOWRqS0xmVjBMOU9NVUxROFQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T14:46:59.000Z",
+     "time": "2026-11-16T14:26:26.000Z",
      "seen": "2026-11-16T18:07:17.891Z"
     },
     {
@@ -558,6 +558,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
