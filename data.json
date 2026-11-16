@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:24:45.514Z",
+ "updated": "2026-11-16T05:34:45.518Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T05:24:45.514Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T05:34:45.518Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.74,
    "change": 0.63,
-   "asOf": "2026-11-16T05:06:41.000Z",
+   "asOf": "2026-11-16T05:31:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5853,
-   "change": 0.24,
-   "asOf": "2026-11-16T05:14:47.000Z",
+   "value": 5865,
+   "change": 0.44,
+   "asOf": "2026-11-16T05:25:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6682,
-   "change": 0.24,
-   "asOf": "2026-11-16T05:14:47.000Z",
+   "value": 6696,
+   "change": 0.44,
+   "asOf": "2026-11-16T05:25:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3871,
-   "change": -0.39,
-   "asOf": "2026-11-16T05:14:47.000Z",
+   "value": 3879,
+   "change": -0.18,
+   "asOf": "2026-11-16T05:25:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1025,
-   "change": -0.23,
-   "asOf": "2026-11-16T05:24:47.000Z",
+   "value": 1.1028,
+   "change": -0.2,
+   "asOf": "2026-11-16T05:35:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.36,
-   "change": -0.5,
-   "asOf": "2026-11-16T05:14:18.000Z",
+   "value": 95.43,
+   "change": -0.43,
+   "asOf": "2026-11-16T05:25:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64816,
-   "change": 1.07,
-   "asOf": "2026-11-16T05:24:43.000Z",
+   "value": 64724,
+   "change": 0.93,
+   "asOf": "2026-11-16T05:35:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,18 +140,25 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الحرس الثوري: 6 ناقلات نفط تعرضت لحوادث في مضيق هرمز",
+     "url": "https://www.elbalad.news/7182322",
+     "source": "صدى البلد",
+     "time": "2026-11-16T05:33:41.000Z",
+     "seen": "2026-11-16T05:34:45.518Z"
+    },
+    {
+     "title": "خبير طاقة: وصول مستحقات الشركات الأجنبية بالبترول إلى صفر انطلاقة جديدة للاستثمارات",
+     "url": "https://www.elbalad.news/7182233",
+     "source": "صدى البلد",
+     "time": "2026-11-16T05:30:00.000Z",
+     "seen": "2026-11-16T05:34:45.518Z"
+    },
+    {
      "title": "عقوبات الغياب في رمضان .. تحذير عاجل لطلاب المدارس",
      "url": "https://www.elbalad.news/7182321",
      "source": "صدى البلد",
      "time": "2026-11-16T05:10:45.000Z",
      "seen": "2026-11-16T05:14:46.105Z"
-    },
-    {
-     "title": "هيئة بريطانية: 4 مسلحين يهددون ناقلة نفط قبالة سواحل اليمن",
-     "url": "https://www.elbalad.news/7182320",
-     "source": "صدى البلد",
-     "time": "2026-11-16T05:03:18.000Z",
-     "seen": "2026-11-16T05:04:45.881Z"
     },
     {
      "title": "متى لا يجوز لطالب البكالوريا اختيار اللغة الثانية.. وحالة واحدة تمنعه من تغييرها",
@@ -164,13 +171,6 @@
      "title": "«الزراعة» تشدد الرقابة على سوق المبيدات وتحاصر المنتجات مجهولة المصدر",
      "url": "https://www.youm7.com/story/2026/11/16/«الزراعة»-تشدد-الرقابة-على-سوق-المبيدات-وتحاصر-المنتجات-مجهولة-المصدر/7618760",
      "source": "اليوم السابع",
-     "time": "2026-11-16T05:00:00.000Z",
-     "seen": "2026-11-16T05:04:45.881Z"
-    },
-    {
-     "title": "رسالة مهمة من عموتة للاعبي الأهلي قبل مواجهة بيراميدز",
-     "url": "https://www.elbalad.news/7182305",
-     "source": "صدى البلد",
      "time": "2026-11-16T05:00:00.000Z",
      "seen": "2026-11-16T05:04:45.881Z"
     },
@@ -252,6 +252,14 @@
      "seen": "2026-11-16T05:04:45.881Z"
     },
     {
+     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 16 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aalRVZklzZllwXzM1N01zdExkVGYteW56V0trM1ZEaHB2VnRucThPY0F1TWFrb01sWUhyUm5xTkFpbnRz?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-16T05:00:00.000Z",
+     "seen": "2026-11-16T01:04:29.668Z",
+     "impact": "يفيد المستثمرين والأفراد في مصر لمتابعة استقرار أسعار الصرف وتخطيط معاملاتهم المالية."
+    },
+    {
      "title": "الحاصل على أعلى الدرجات بامتحان المحاسبة الضريبية في كوريا الجنوبية يعترف بالغش، فما القصة؟",
      "url": "https://www.bbc.com/arabic/articles/cqze737ng165o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -279,14 +287,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T04:02:19.000Z",
      "seen": "2026-11-16T05:04:45.881Z"
-    },
-    {
-     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 16 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aalRVZklzZllwXzM1N01zdExkVGYteW56V0trM1ZEaHB2VnRucThPY0F1TWFrb01sWUhyUm5xTkFpbnRz?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-16T03:55:41.000Z",
-     "seen": "2026-11-16T01:04:29.668Z",
-     "impact": "يفيد المستثمرين والأفراد في مصر لمتابعة استقرار أسعار الصرف وتخطيط معاملاتهم المالية."
     },
     {
      "title": "سعر الدولار على مدار الساعة.. 53.74 جنيه شراء الأخضر فى البنك الأهلى",
@@ -486,6 +486,13 @@
      "seen": "2026-11-16T03:44:45.545Z"
     },
     {
+     "title": "كيف تواجه إفريقيا سيل المعلومات المضللة؟",
+     "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQTmMzZlFEWGEyNVpTcjRnTnpzVzRqb2RVVVlCZzdLN0d6a1VUVHdNWVUzTDFtZ1JGRllmY2pGVG5fWUVOMjVVdFF0OS1sS24xMEU5b1M1V1lkYVBxZHoyOGJpd1FpZFQyUWdNXzZJcmxIT0xOdXdweWpUa2ZhX01LQmgydzhTNVhtalhUaUZzQkFtTEx2Q2RUdGJHRmRuNTNXVHNCLUVnUXNCVjVKWG1uOGp0aTNIZU1ZbHUzNlNvSU4wSmRKZDg2V0NMeDY2YUIxcFhxRFRuM3dvcFVtcmd5TUh6dmtGX2VrMDhZTHlTQmVwNnJERVRZYnF1d0xQZ1dmcG1CWVJCbGxBWG5JNmV3akptWElDTWNRSmplcW9qVnJkTVFiSklGUlgwdy0zR0FkVUtWU2JhQWVfbFhFeFozazFXbC1wcUdXb3poRE9rZm4zaVdNOGxGLUFIckFKR0JxSW5kdEZWampKNnRaZUt5Sm42TjlWRnpoaWdqczhhLTItLTV1ZWFlVTJGdXFFZVZrUy04MWlVZ0txcWZmM0tudnlEd2tjMUxVWjBwWnNfZHZPYU1Ya0FscGNRRGdjb20tQXFuSFFZWmlfSlZBOFRrU2txODVhd0Q3MXBPRy11ZDAxYUNHc2prWXExeU1fNlVtU2otemdzLXkwQjJoX3Y3N1JuSmFidTFHZklqbHNSUW5SX1RUUko0M0lCcEt3dGNOR1BLZVZXXzVDczlPWk9XT1Y2d2RsblNJMmM1WDdxcjEtWnJoSktjdVJSOHc5a2EtSGZDOWdUOTVDNjdBcHo2ZGVtNnI1R1A2aGxIdDhsVW12Ni13WHpuTTdKLW5Ca03SAf8EQVVfeXFMT3R5cjBTb3ZBdV9yVlo5SEZ2Q0J2eUs5WTJOQ3FaY2xmOGdpZThXNVVGSGM1eXdCcHpPQlUteVN3N0NiaHZ6V3ZqajhGOGo4OHdsYklrVXBVYU9hYWxqWmhyWTZGa0h1TXdrUmRyZDB1UVd6Ylp1YllOOC1RZi00dy1Pbmd5RldjUzRCNTFBV2hid092R1RXWmx4RkhpcV9YaklGTUZIZ0dWTzRIQ3BrOWM4WjUzNGQwbnFYc05pN3ZJTzdMbm1VX2dPTWRvQXlucWJjUXhGZ0VSYzRsclVwWTl0ODMwbC1maUFSS3d4SFE5eEtva3Uzd3h1TzFreFFBNzVvOTE2b3VIWWR5ZVc2ZFpBeVZBWGd0c1ZnTl9pSGZMQndnZHpsbUlLb3QweXlTMk9tYUo2N0M4QXpZYVlubEFmQTdtMGtXS2l2Y0hVZ1VaaEI1TEJBSDlBOFhOTmNKS241bTF2T0lhcWI5bkhqV3JwNDR4alhtRzJyZzEtZ054VUlKOXJpZGR5YU9TRG10R2tBbkVHSUs4WjVaV0FteWJKZDJaUE5EdTYzaFhCVDZKcEJpUVVTZ3BtSUwyUE9oRkNFZ2ZBNEtPamI0WXFfcHhHZkZXZ25USG5fQ3N5XzgyTXhmY2tWdWlhTzhMSmZMV3JpcjRVVXNGdk8xYkN6VVZNQTdCcW5PajRhMElUR3pINkNHeUJoZXlaQnhVa3JkS0hjbUdPak1GZmNEUXV6N3FsX3NvUzk4OF9xdEwzVjBRaUZ0dXVyOVJHMDB6LTllZUhNeWFjOTRIcjF6Y3FUcXVXUUJpclBpNU5JMlBybWY2bGoyZ0s4ZG03MHNKT1l3?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-15T22:11:17.000Z",
+     "seen": "2026-11-16T05:34:45.518Z"
+    },
+    {
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
      "source": "الشرق الأوسط",
@@ -557,13 +564,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-15T16:08:18.000Z",
      "seen": "2026-11-16T04:04:46.139Z"
-    },
-    {
-     "title": "التحالف يعلن اعتراض وتدمير طائرة مسيرة بمنطقة المدينة المنورة",
-     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOS1dHTlhHdXVwSVRRVWhCa1cxWHo3cWNqcWNtNzRITkdfV3UyN2I1d2YzT3hPdlQxZ3VlaFlVVVNyZ3BUSmFLaFBWOE5pamIwclh1YTJDc1JFaUlXRkJtQkM5Q2ZsbS1NeThQWnpLU05XaDE0MlVXQzN3dEtua01SZlBIODQ3Z2sxTzBTY2k2NWF5NWF4ZTNWRlpaejBBcUgtZThEZlRjOHF0RHdhODhXQU9JNkRHUUJrUk1ZSDJONnhZaWpOZjRPWEVKQ3lpSTAxZTV6VUc1QlljMzRPRHB3ZWpUcVBQU25Rb1dfY09LX3dudUI5NGNFVDFScjNnbDV6aHpQU0hRVkE5WlVaZVV4WVQ4YkhPaTliUDFFX0E1bFkyei1BMEtoZmwxYjZfOUpxaEc4WXI3c1JwbU9SN0JrOVhnNVdLX3F2V0taOVJhb0F2ZHJaZzNYaGpqdHRNblItNW5haUl0ZVp0eENRVGZLTFdZUXN1R2ZZS0Y4LUZVTUdvYTNZcnNCSmhJendRNWNjRS05clR6cVBRbl94ZkdTNHdGMDhrWXRDUVNWZE5yTWNBem05SVFwUExFcUNWd0Q3RW8zUnJydFZvbE44MmZpNkRsZEhyVGVpVktscXh0UHlTTlFxWjJhalpxWndHRG1uaG1qQ2pDOTRmTDhDM2JEV0Z6YmR1S2ZOSkh0RXNB0gGIBEFVX3lxTE9aZ29DUjhCVldtTWZHZGFqMXFhVDBNckIzcVFSOEdtYnRaSnVMY0loQ1kxUVI1dG1zeFpDb2NJeXVvNmNNNUIxZE9QZ3NkaDhuTUt3YnM5VmpYeS03YV9mM2ljOHhPWGdyQWZxcGRReldfNXdZSDJyWE9yY3pYWUloMy0zOFF1LXFGX1VTQzhETmZWLXFZcTN4OXJkcUc1N0FDaFg4dzlwbmFSUjM1dnpBSUZqMUVJTDlFbGZZU19salY0VGpIYU9VUzFtYmVuVEs5d0FZTHZqdGJhYmlzWXdEeXgzNGRuYUwtUElqc2QzZzNDWVhJS19xLVZHc1BpSkh1Z1ZMTm83TFlhbEMxeTg3aFU5T2pGZFRDdXA4QXI2enIxYjc5eHlIYnFOcFlWbzdzc2pMTHByNGx0M1QzZWhaLWV1VEQxb1FxSzlpa21nWjNhck1wVkxTNldLcDVUMDU1a3lma3F4c1VIMllvRTJUaU13dGRRaFBtemxEVTJoclNUMy1BOXplZ0NEYU9nY0k3LWd6THZ2c3ZGdWhaZFZJM2Rwd1diQ3ptYlNKU2piN1U2dW1WZ2Vrd1JrWUlYUjA4Z3BhRVhEZGZFNmxMZFFaOFNvTmJ2dlhXRC1teG84TjBmbHVZTTZMTmFrZFNic3VNamtvX0R1ZDZrU3c3ZHZVWHZoQktaWHY?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T15:58:00.000Z",
-     "seen": "2026-11-15T17:33:42.307Z"
     }
    ]
   }
