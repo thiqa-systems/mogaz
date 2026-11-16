@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:24:45.652Z",
+ "updated": "2026-11-16T07:34:46.253Z",
  "minute": [
   "شهدت الأخبار تحديثات حول أسعار الدولار والعملات العربية مقابل الجنيه المصري في البنوك.",
   "تطرقت العناوين إلى تطورات إقليمية ودولية منها حادثة مضيق هرمز ودراسة الأونروا تقليص عملياتها.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T07:24:45.652Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T07:34:46.253Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.74,
    "change": 0.63,
-   "asOf": "2026-11-16T07:24:29.000Z",
+   "asOf": "2026-11-16T07:27:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5832,
-   "change": -0.12,
-   "asOf": "2026-11-16T07:14:46.000Z",
+   "value": 5826,
+   "change": -0.22,
+   "asOf": "2026-11-16T07:24:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6658,
-   "change": -0.12,
-   "asOf": "2026-11-16T07:14:46.000Z",
+   "value": 6652,
+   "change": -0.22,
+   "asOf": "2026-11-16T07:24:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3857,
-   "change": -0.74,
-   "asOf": "2026-11-16T07:14:46.000Z",
+   "value": 3854,
+   "change": -0.84,
+   "asOf": "2026-11-16T07:24:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.102,
    "change": -0.27,
-   "asOf": "2026-11-16T07:24:44.000Z",
+   "asOf": "2026-11-16T07:34:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 96.32,
-   "change": 0.5,
-   "asOf": "2026-11-16T07:11:16.000Z",
+   "value": 96.3,
+   "change": 0.48,
+   "asOf": "2026-11-16T07:23:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64537,
-   "change": -1.18,
-   "asOf": "2026-11-16T07:24:43.000Z",
+   "value": 64852,
+   "change": -0.69,
+   "asOf": "2026-11-16T07:34:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الولايات المتحدة وحلفاؤها يطلقون تحركا مشتركا لتأمين سلاسل إمداد الذكاء الاصطناعي",
+     "url": "https://www.elbalad.news/7182393",
+     "source": "صدى البلد",
+     "time": "2026-11-16T07:34:05.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
+    },
+    {
+     "title": "ترقب نتائج إنفيديا يضغط على الأسهم الآسيوية وسط اختبار جديد لقطاع التكنولوجيا",
+     "url": "https://www.elbalad.news/7182392",
+     "source": "صدى البلد",
+     "time": "2026-11-16T07:31:46.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
+    },
+    {
+     "title": "رسالة خاصة من جراديشار لقادة الأهلي.. ماذا قال عن الشناوي والسولية؟",
+     "url": "https://www.elbalad.news/7182346",
+     "source": "صدى البلد",
+     "time": "2026-11-16T07:30:00.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
+    },
+    {
+     "title": "هل يجوز للموظف الحكومى العمل فى شركة خاصة أو امتلاك مشروع؟.. اعرف الضوابط",
+     "url": "https://www.youm7.com/story/2026/11/16/هل-يجوز-للموظف-الحكومى-العمل-فى-شركة-خاصة-أو-امتلاك/7618985",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T07:28:00.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
+    },
+    {
      "title": "منال عوض: 76 موافقة بيئية وتحركات عاجلة لمواجهة التلوث",
      "url": "https://www.youm7.com/story/2026/11/16/منال-عوض-76-موافقة-بيئية-وتحركات-عاجلة-لمواجهة-التلوث/7619974",
      "source": "اليوم السابع",
@@ -146,38 +174,10 @@
      "seen": "2026-11-16T07:24:45.652Z"
     },
     {
-     "title": "فى ذكراه.. قصة مأساة استيفان روستي فى أيامه الأخيرة",
-     "url": "https://www.elbalad.news/7182375",
-     "source": "صدى البلد",
-     "time": "2026-11-16T07:23:42.000Z",
-     "seen": "2026-11-16T07:24:45.652Z"
-    },
-    {
-     "title": "\"أبيك\" يشدد على الاستخدام الآمن والموثوق للذكاء الاصطناعي لدعم النمو الشامل",
-     "url": "https://www.elbalad.news/7182383",
-     "source": "صدى البلد",
-     "time": "2026-11-16T07:22:09.000Z",
-     "seen": "2026-11-16T07:24:45.652Z"
-    },
-    {
      "title": "وزارة التضامن تنفذ 778 جلسة توعوية عن مفاهيم التربية الإيجابية فى 449 مدرسة",
      "url": "https://www.youm7.com/story/2026/11/16/وزارة-التضامن-تنفذ-778-جلسة-توعوية-عن-مفاهيم-التربية-الإيجابية/7619971",
      "source": "اليوم السابع",
      "time": "2026-11-16T07:22:00.000Z",
-     "seen": "2026-11-16T07:24:45.652Z"
-    },
-    {
-     "title": "قمة نارية بين ألمانيا وهولندا.. مواعيد مباريات اليوم في دوري الأمم الأوروبية والقنوات الناقلة",
-     "url": "https://www.elbalad.news/7182368",
-     "source": "صدى البلد",
-     "time": "2026-11-16T07:20:22.000Z",
-     "seen": "2026-11-16T07:24:45.652Z"
-    },
-    {
-     "title": "الداخلية تأذن لـ84 مصريًا بالتجنس بجنسيات أجنبية ورد الجنسية لـ21 آخرين",
-     "url": "https://www.youm7.com/story/2026/11/16/الداخلية-تأذن-لـ84-مصريًا-بالتجنس-بجنسيات-أجنبية-ورد-الجنسية-لـ21/7619957",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T07:16:00.000Z",
      "seen": "2026-11-16T07:24:45.652Z"
     },
     {
@@ -195,11 +195,11 @@
      "seen": "2026-11-16T01:24:29.843Z"
     },
     {
-     "title": "تبدأ يوم خميس.. 3 أيام إجازة للموظفين والعاملين بالقطاع الخاص والطلاب (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVUt0cnNuc3lleUFIX1pwQnhDbVhud0RDalplS3I0bEI2X3pzN0ZLbEl4TjQ5bDhhMUt6dGwyWFJVM1JjQUlOTlB3bDJ1QjJpTHhWYVdHVWZtYl8xMWE4?oc=5",
+     "title": "عطلة 3 أيام.. موعد أول إجازة رسمية في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1U1k4LV9IdUJkbkd4RC1FWE8wSk9iUUtRT2plekt2dUpNOERGb0hXcURqTnFCTHEzSzlXWXJmeW1RVkk1eU1fZFZaLVNHYVhoS0FQREpuVTRwNlBjaVhN?oc=5",
      "source": "المصري اليوم",
-     "time": "2026-11-16T00:29:00.000Z",
-     "seen": "2026-11-16T07:14:46.361Z"
+     "time": "2026-11-16T00:52:00.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
     },
     {
      "title": "ماذا طلب خال اللاعب محمد صلاح من وزيرة الإسكان في نجريج؟.. اعرف التفاصيل",
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "أسعار العملات الأجنبية بيع وشراء البنك المركزي المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PQzNjaXRRQVg4dUJGTFRDdll5WThFcHlPMG1aVm40Q2xkUWU2Zk9TRUp5WFJwck04VzVQcDlwNlZIeTd6?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-16T07:24:08.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
+    },
     {
      "title": "بعد الارتفاع الأخير.. سعر الدولار مقابل الجنيه المصري اليوم الاثنين 16 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dW5YalZmbGVuUmk4R1R0YlowS0NGUmliRzhJVHpwVF9zS3FWRURUQzhGVTBObmVZTXc4NUlnYmE5d3dRZWh5VWRWVFEwR0RnN3hvaFR1c0JNRXhtR2pN?oc=5",
@@ -336,14 +343,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T04:02:19.000Z",
      "seen": "2026-11-16T05:04:45.881Z"
-    },
-    {
-     "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN3g2NGUybC12a0JvQU9vanJWV2toQ0JkT2VZRnk3Ql9OZnQySVZ6Ry10RlpYUGVYRzdQUXdYU0Nac1RCZ2hJdGYtY2o4S19DcTVmVnBRVV9JMzhfVzR0Q1ZudFBtcHpzdXVmRWM1UQ?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-16T02:27:34.000Z",
-     "seen": "2026-11-16T01:34:29.592Z",
-     "impact": "يساعد المهتمين بالاستثمار والادخار في مصر على متابعة التقديرات العالمية لمستقبل أسعار الذهب كأصل استثماري."
     }
    ]
   },
@@ -351,6 +350,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "الأردن يعلن حجب تطبيق\"تلغرام\"",
+     "url": "https://www.skynewsarabia.com/middle-east/1905024-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%AD%D8%AC%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%85",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T07:28:54.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
+    },
     {
      "title": "العفو الدولية تعتبر أن العمال المهاجرين لدى \"أمازون\" في السعودية يتعرضون للاستغلال",
      "url": "https://www.france24.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/20261116-%D8%A7%D9%84%D8%B9%D9%81%D9%88%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%88%D9%86-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84",
@@ -403,13 +409,6 @@
      "seen": "2026-11-16T05:54:45.409Z"
     },
     {
-     "title": "4 دول غربية تطالب إسرائيل بإدخال المساعدات لغزة بعد فيضانات",
-     "url": "https://www.skynewsarabia.com/middle-east/1904978-4-%D8%AF%D9%88%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%A5%D8%AF%D8%AE%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D9%84%D8%BA%D8%B2%D8%A9-%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T05:30:14.000Z",
-     "seen": "2026-11-16T05:44:45.655Z"
-    },
-    {
      "title": "الحاصل على أعلى الدرجات بامتحان المحاسبة الضريبية في كوريا الجنوبية يعترف بالغش، فما القصة؟",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ycENsZkFVYkd5cXQ0bjRKTXZ5c3lnUjdHXzgtZXBndjFUQnh6a0VuQ1RzMDJUbjZRY2Z2WWxOWUVlc1pqS3NQNWpiS1l5U0VOSHZRcWQyRjdxR3FVSUHSAWNBVV95cUxPT09kU3o5ZWRDc2Z0bWstX1ZRTmlDWUFrbnJsU1JmRVFuUzdBdmtkRS1mbDdfMEpWM1dsWlhRbWRfS1EzMmY5RnFURlZaQWNSeFBKVXkwajZVZ0FweFkwOWhtUWM?oc=5",
      "source": "BBC",
@@ -438,18 +437,18 @@
      "seen": "2026-11-16T04:14:45.910Z"
     },
     {
-     "title": "سفير أمريكي سابق: فضيحة باراغواي لم تصنع الفساد بل كشفت نظامه",
-     "url": "https://www.aljazeera.net/politics/2026/11/16/%d9%86%d9%8a%d9%88%d8%b2%d9%88%d9%8a%d9%83-%d8%a7%d9%84%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a3%d8%b7%d8%a7%d8%ad-%d8%a8%d8%b1%d8%a6%d9%8a%d8%b3-%d9%88%d9%83%d8%b4%d9%81-%d8%b9%d9%86?traffic_source=rss",
+     "title": "ما الورقة التي أغضبت عرفات وسحبها الأمريكيون من كامب ديفيد 2000؟",
+     "url": "https://www.aljazeera.net/politics/2026/11/16/%d9%85%d8%a7-%d8%a7%d9%84%d9%88%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%a3%d8%ba%d8%b6%d8%a8%d8%aa-%d8%b9%d8%b1%d9%81%d8%a7%d8%aa-%d9%88%d8%b3%d8%ad%d8%a8%d9%87%d8%a7?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-16T03:48:48.000Z",
-     "seen": "2026-11-16T06:54:45.980Z"
+     "time": "2026-11-16T04:10:00.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
     },
     {
-     "title": "طهران: لا يمكن التوصل لتفاهم مع واشنطن في الوقت الحالي",
-     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQYjcyZVdDZ1hSSk5XZWY2TWJjb210UjNpSmwzLTFUSUcxTk81UF9FTXVqbkJjV1UxaFVkYTBjNkVKWkRKVm55NnhHYlBBUlpCQVVPYU5OTUJ0MExrWXZJYzQ4SDlEblJYSXFaSERicXpwdHZfVF84a2tfUzVqV0ZOcC1pTlo0a1JFa3hwVE5nTlp0REVPaERRdXpqaEtoSUoxUkIzX2dPUjJWSmFzS01JSkdwejVfZExpZ0xEWV9vUW1hS1FDV0RzeVl1YkhnZGFFZE1VbGs4ZTN3X013czVTWURjTE1FZG5Hek5NR0ZoOGFQcDZPaFJIQkhRWlRRQWJzdjFRcGE5VXNiWk1MSUxDN1Z5MmlULXVMTHZvMlU3ZnN6SjlxLXpfbDFEeWRsaTQzWTJZcnRLNk9LRjJadXV3WFBwVVJqQ3IwRTFuOUEzZXdLT0pqcE5IX1JVRHY0cEZzSTlIeGRsdnBVbG05Z2cyUWExWmVrZ1N5cG0xRVFmZHU0VVlrN0FhcGpTNGNROVVvNmJYRDh6QjNGNGExODh6WW0tekVYV0stLTVvX1BKS2QybHdpcUxnOHJEelJrc3dK0gHGA0FVX3lxTE9ZdVlWbzVjMVVjX0VsZk54cTV3QlVJb19Bb0FkWGhlU05Kc1ZySlJnOHVtSVNvWWM5Unl6S2lQVE94UHZOb01lUHUta1lwQ2lPeWJSbU9YWGVZY010TlVCRFVQSmIyTFhuUUkxM1FaMVFhMVp1OXBUbDFQamM5ajNabTFKejAzSVVwZUo4aEJ4UFMxeVFhU1k3a2NmMXU3NG1DLUpLNWtFRWpvdkhtMVpHX1FpeEZEd3B4LVVLX0ZhN2NYUUtfaU5KNnB0Qll3UkdocW5wREliaFR3b2NBbUNfRHo1aGZNaDlBcUNLRnd6c2dxTng5MnV0aG1xbUs1WEhueWNkQ2FGSDM0TzhyU24zOVdhU0dmdko1MlMtblg0VFRfS0p1STJIY0x1TTQwWUExRkdmT0JNZHAzcWlIMHp1dTFzMjU3QXVOYU1ib0sydDRvTG1rTzhpQW0zR2hKc3k1QWdzN19oc3g4d2pCQUN3VDNCSER2UEFfMXZHS0dpTGowZUx1a0dTMktRbDNMY3lQYnVHd3ZIWmFIa1lEbkhWTGY4V3FpVGVQSHp0WVp1OU9PRkVuR0doUEFfOEd2akFRUUxnRXc?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T03:45:00.000Z",
-     "seen": "2026-11-16T06:24:45.742Z"
+     "title": "صحيفة: هكذا وصلت ذخائر حربية سويسرية إلى أيدي مقاتلين روس",
+     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%8a%d9%83%d8%b4%d9%81-%d9%88%d8%b5%d9%88%d9%84-110-%d8%a2%d9%84%d8%a7%d9%81-%d8%b7%d9%84%d9%82%d8%a9-%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d9%8a%d8%a9-%d8%a5%d9%84%d9%89?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-16T04:06:38.000Z",
+     "seen": "2026-11-16T07:34:46.253Z"
     }
    ]
   },
