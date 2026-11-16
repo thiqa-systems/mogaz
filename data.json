@@ -1,80 +1,78 @@
 {
- "updated": "2026-11-16T10:46:22.180Z",
+ "updated": "2026-11-16T10:56:22.152Z",
  "minute": [
-  "شهدت البنوك المصرية تراجعاً في سعر صرف الدولار مقابل الجنيه المصري خلال تعاملات اليوم الإثنين.",
-  "على الصعيد التكنولوجي، تواصل الشركات العالمية إطلاق حلول الذكاء الاصطناعي والسيارات ذاتية القيادة وأدوات إدارة الأعمال.",
-  "كما تناولت الأخبار قضايا إقليمية ودولية شملت القمم الاقتصادية، ومكافحة خطاب الكراهية، وتطورات الأحكام القضائية والهجرة."
+  "تدرس الحكومة المصرية منح مكافآت وخصومات للمواطنين على فواتير الكهرباء مقابل ترشيد الاستهلاك، وتستهدف إصدار قانون لتنظيم السوق العقارية خلال شهر.",
+  "شهد سعر الدولار تراجعاً مقابل الجنيه المصري في التعاملات اليومية، وسط تقارير ترصد تاثير التوترات الإقليمية على مستقبل سعر الصرف.",
+  "تواصل مصر تقديم المساعدات الطبية والإنسانية لغزة بالتزامن مع مطالبات دولية بإدخال المساعدات، وتستمر التطورات الميدانية والسياسية في السودان واليمن والأردن."
  ],
  "ai": {
-  "at": "2026-11-16T10:26:22.088Z",
+  "at": "2026-11-16T10:56:22.152Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T10:46:22.180Z"
+  "impacts": 8
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.63,
-   "change": 0.42,
-   "asOf": "2026-11-16T10:49:02.000Z",
+   "value": 53.64,
+   "change": 0.44,
+   "asOf": "2026-11-16T10:58:24.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5837,
-   "change": -0.03,
-   "asOf": "2026-11-16T10:39:01.000Z",
+   "value": 5841,
+   "change": 0.04,
+   "asOf": "2026-11-16T10:48:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6664,
-   "change": -0.03,
-   "asOf": "2026-11-16T10:39:01.000Z",
+   "value": 6669,
+   "change": 0.04,
+   "asOf": "2026-11-16T10:48:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3869,
-   "change": -0.45,
-   "asOf": "2026-11-16T10:39:01.000Z",
+   "value": 3871,
+   "change": -0.4,
+   "asOf": "2026-11-16T10:48:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 52284,
-   "change": 0.19,
-   "asOf": "2026-11-16T10:34:00.000Z",
+   "value": 52411,
+   "change": 0.43,
+   "asOf": "2026-11-16T10:43:42.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1011,
-   "change": -0.35,
-   "asOf": "2026-11-16T10:48:43.000Z",
+   "value": 1.1008,
+   "change": -0.38,
+   "asOf": "2026-11-16T10:58:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.48,
-   "change": -0.38,
-   "asOf": "2026-11-16T10:38:44.000Z",
+   "value": 95.49,
+   "change": -0.37,
+   "asOf": "2026-11-16T10:48:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64466,
-   "change": -1.28,
-   "asOf": "2026-11-16T10:48:57.000Z",
+   "value": 64508,
+   "change": -1.22,
+   "asOf": "2026-11-16T10:58:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +137,56 @@
    "title": "مصر",
    "items": [
     {
-     "title": "كلوب في اختبار ناري أمام تشافي.. ألمانيا تقاتل للبقاء وهولندا تترقب حسم الصدارة بقمة برلين",
-     "url": "https://www.elbalad.news/7182625",
+     "title": "مصر تواصل إرسال المساعدات الإنسانية والطبية إلى غزة",
+     "url": "https://www.elbalad.news/7182642",
      "source": "صدى البلد",
-     "time": "2026-11-16T10:45:41.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "time": "2026-11-16T10:55:52.000Z",
+     "seen": "2026-11-16T10:56:22.152Z"
     },
     {
-     "title": "لـ 19 ديسمير.. تأجيل محاكمة المهندس المتهم بارتكاب جريمة 15 مايو",
-     "url": "https://www.elbalad.news/7182624",
+     "title": "خصومات على فواتير الكهرباء.. الحكومة تدرس مكافآت للمواطنين مقابل ترشيد الاستهلاك",
+     "url": "https://www.elbalad.news/7182643",
      "source": "صدى البلد",
-     "time": "2026-11-16T10:45:21.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "time": "2026-11-16T10:54:58.000Z",
+     "seen": "2026-11-16T10:56:22.152Z",
+     "impact": "قد يساهم خفض الاستهلاك في تقليل الأعباء المالية على المواطنين في مصر عبر الاستفادة من الخصومات والمكافآت المقترحة."
     },
     {
-     "title": "خصم أم جزاء؟.. قانون العمل يضع ضوابط معاقبة العاملين بالقطاع الخاص",
-     "url": "https://www.elbalad.news/7182627",
+     "title": "«الصحة» تدرب 30 من العاملين بالمستشفيات على تسويق الخدمات الطبية",
+     "url": "https://www.youm7.com/story/2026/11/16/«الصحة»-تدرب-30-من-العاملين-بالمستشفيات-على-تسويق-الخدمات-الطبية/7620582",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T10:53:00.000Z",
+     "seen": "2026-11-16T10:56:22.152Z"
+    },
+    {
+     "title": "التدريب الزراعي وإدارة المياه.. تفاصيل التعاون الجديد بين مصر وجايكا",
+     "url": "https://www.elbalad.news/7182634",
      "source": "صدى البلد",
-     "time": "2026-11-16T10:45:11.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "time": "2026-11-16T10:50:19.000Z",
+     "seen": "2026-11-16T10:56:22.152Z",
+     "impact": "قد ينعكس هذا التعاون على تطوير كفاءة إدارة المياه والقطاع الزراعي للمستثمرين والعاملين بالمجال في مصر."
     },
     {
-     "title": "رئيس الإدارة المركزية للتعليم الفني يتفقد مدارس التكنولوجيا التطبيقية ببورسعيد",
-     "url": "https://www.youm7.com/story/2026/11/16/رئيس-الإدارة-المركزية-للتعليم-الفني-يتفقد-مدارس-التكنولوجيا-التطبيقية-ببورسعيد/7620579",
+     "title": "حالة الطقس.. الأرصاد تكشف درجات الحرارة حتى السبت المقبل",
+     "url": "https://www.youm7.com/story/2026/11/16/حالة-الطقس-الأرصاد-تكشف-درجات-الحرارة-حتى-السبت-المقبل/7620365",
      "source": "اليوم السابع",
-     "time": "2026-11-16T10:45:00.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "time": "2026-11-16T10:50:00.000Z",
+     "seen": "2026-11-16T10:56:22.152Z",
+     "impact": "تساعد متابعة توقعات الطقس الأفراد في مصر على اتخاذ الاحتياطات وتخطيط أنشطتهم وتنقلاهم اليومية."
     },
     {
-     "title": "وزير الخارجية يستقبل المدير العام للمنظمة العالمية للملكية الفكرية",
-     "url": "https://www.youm7.com/story/2026/11/16/وزير-الخارجية-يستقبل-المدير-العام-للمنظمة-العالمية-للملكية-الفكرية/7620567",
+     "title": "أسامة الأزهري لـ\"اليوم السابع\": خطة مسقط صيحة حكمة وباب رحمة في ظرف عصيب تمر به الإنسانية",
+     "url": "https://www.youm7.com/story/2026/11/16/أسامة-الأزهري-لـ-اليوم-السابع-خطة-مسقط-صيحة-حكمة-وباب/7620588",
      "source": "اليوم السابع",
-     "time": "2026-11-16T10:44:00.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "time": "2026-11-16T10:49:00.000Z",
+     "seen": "2026-11-16T10:56:22.152Z"
     },
     {
-     "title": "وزير الأوقاف من سلطنة عمان: تعارف الحضارات بديل لصدام الثقافات",
-     "url": "https://www.youm7.com/story/2026/11/16/وزير-الأوقاف-من-سلطنة-عمان-تعارف-الحضارات-بديل-لصدام-الثقافات/7620568",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T10:43:00.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "title": "الحكومة تدرس مبادرات لـ«منظومة حوافز لترشيد استهلاك الكهرباء» (تفاصيل)",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hdHV5ZHRVd1cwN1p0M1NWb1RxRElQN2JDaFR1dkRTY3VCRWxkRmtBcmc3WGRhSUhfRlI4QVNnWUdBTmdGNjFWVEtmcExyU0lqMnhzYWlOOXZ2aFc3UzE4?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-16T10:49:00.000Z",
+     "seen": "2026-11-16T10:56:22.152Z"
     },
     {
      "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
@@ -216,13 +224,6 @@
      "seen": "2026-11-16T09:16:22.269Z"
     },
     {
-     "title": "منح مالية ورواتب بالدولار.. 6 دول تفتح أبوابها للمصريين للهجرة والإقامة رسميًا",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HcVE4SEp2NEhmVExUTGEzU0pzZDRHTDhtVk45RExVeGZQRkNkZGFkcEZnTjVjMWlHck1Hb3RMYnBwWG9GT0d2emJudWhmYlZJN0p0Zm9jTmdjVHFrSDN3?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-16T03:00:00.000Z",
-     "seen": "2026-11-16T04:44:45.486Z"
-    },
-    {
      "title": "ماذا طلب خال اللاعب محمد صلاح من وزيرة الإسكان في نجريج؟.. اعرف التفاصيل",
      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxONUI4VG56b2drUG1rSHFhNjJBd2N0NzBBUW5QV1Jrb3NObXZVWVVBS3l2V3UxRjZTcVNnYU9GTUJTQ05LSnRSTDlpcmRrZ3VPZ24tWkNjUnJXWktLYWJfcTlPaC1XTjRjSWY0STN4SnZRbGViaS1OVUgyMVZzMXRQbHN6QjBkVGRSTWM0WEswRnMybFNTUUlMY0FIVEU3N0RMM0lrSTMxdWQ2Q1hGMW9GV2g1SFdMUnVOMWF4dzUya0RGeW4yRmJIbjBoMFpRbTA5SG9lNTJ0R2hldnhIZVM4cmoxU3ZDMi1TVVZqZ1AtbDA5dWd6VkJPNlN1a0FpNUlLMFB6VGxndHlHbERScnM0MkFva3hWM0pBSTFOMndxUjZGeVYwV3pmNGZJcUxpTlNhODRJVk1uRW03RV8ya1V4aGtTZHFrczM2NmJkMTRkUUxUZEd6c1dqVUtFeHFwd2NRQS0yNE53SVhHNnRiVmhzZHpYRG1VYnphV2JEMWdOdDF4cExtZk0wMFZhbUl1MHZoeUxjTW9IdC1ycTIweUpNRHpfUy14YWFMVXlBM01YWWlkY3NSZDNLSXhVbTVibEY2a01MeTJpUWkxbzd0S3ZxREFpZkRUUGxtUWViOHp6VlRNbHRQVnFYRnhYMS1fU1ZSUzBZaW5nRnk5SjZnVnh1V1R5bS1FR0pKMERmTlRsMy13RWVJTExkVHItc0ZteV9BdE1xanc0Z1ZTb3VyMGN4LUo2V0xzLWVEbHdFNkNOckdsdE1tQzJDVDdTUGdlM0pr0gHWBEFVX3lxTE95czBkb2tRRFRXeWFET0VMWkIzUjdJaUJhYVByMFU0TzlNa2haOUFXMG5RMFNOMWRQcFJNd21MR293cUd3Wlh1YzF3LWZRdXAyNXRVN1FmbVZHWUc2d0cycjZqeVZOdUpTLV9YeVpKcnVTZWtUcUlMT2pSRkdla25zcjl0QTZtb01Cem9qMGNMX3kzbE80NC1mZ3dXbGhId2xRY1p5V2FjZmlfUkhMMW5RNEUxc01xRU9VT2ZnYUlxOExabVo3b25HRGt6aEhIVW51c3R0eGlaVl9wbmswZ2hzYXdPTmhwaXJjVDFFN1N0a1RKRnlqNmdVTFpjbjFiaU9ER1pxVVlYQTRyYThYcVk2NTNRYlBMblB6OUcySlJyVVA0d1J4b0xSbURVY3BQSEdvb1BXc3NwWDAxX2VoYjRtMUdnVkVuMEIxckV5SFhtLWQtLUtMLVlTcXNPWWdYS05EaWphakczaE9uR0RidXVMV2hsaERqdUZMQ0JNSGcyN3hZdi13bnJzN3NIQjJvdEFCLTNBaHpBYVplNnZQajJtX2hwdEhMRUNnQy1DTGpoSU9JZzRNblFaUTZQWFIyTWRuSjJMd1UtSnlSMk1qUnJNUi04dmROd0NPZnpxa0FSRkxFandLM1NsNXZDcU9ZV0ZxajVYOHRIVzloQWZnUl9yQ29tVG5WRGxlYV9TSzhQNVpreTVoVzdpR0lPWU5aT3NOMlhmSnY5ZGxObzF3YU9oVjNQZWdwaE1GOW5QOU9FbnZUbmxQeVkzekU1UjlyOW9xbjhvUmc?oc=5",
      "source": "Masrawy",
@@ -254,7 +255,8 @@
      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNR1lxdXFrbDRKVzUyQzAyVU5XczlTT0RHX0VVY1Bhek1ZWGtZaEc0aTNJdXpkcE1lRjk3RV9waDFDa3k3NUdWNXM0bHNxMHUtbGJuX3JuaTlkMl9EVGJNN2ZHakpjQkJEeUJwT3JmN1haejAxYWJTajBZdFZUc0FKV1ZMQU04NVJOR3VoLU5aWW12aURxbVdOZDViSDNmTTZrMHA3VEdjY0F1MzdNZnZTVGo1amZvVU9LZkdNUTBKcTc2OEUzT3RsbGh3bjhDMWo0VTdlRlR4N2xydy1UbFFKMGxnTy10OHoxNWVHV0xremprSThCYl8xMFJlY283a1VzOXpwQnVJR0JTTWl3MzdCZlB5c1NkZXpKREV5OHlVOWFXZ19EN29FTmxCMlFDcTR6Nl96eWtKaGlKSzF1RkRMbkU1UjliMWlBSkh6dFV1eTY1OVotd1RtZ0tBYnFSNnFMM2dLdC00dDBZWExjRGI5UHZyT2lsTXdlUUdfVkg5c1lmaVphNEZWa1J6UGFKSjNrRk1NT1pXYnBOeURyanh5bDFCNng0bkx5dmN3SzA2ZkwtbFhPY0ZBd1RWTHF0bkRTYTNleUFQV2Q2bS1ZbjUwS2VfeXhIaFFqazhQaloza2FtanRTemFJV0t5NGpPamxQR0xBSHJpdEZBckFOS19Eb2YzbDhUaEUzZldzQ0dEYmQ1aEhPeTlGRTB1VFNnT1N5THVYakc4bXJKR2ZsZ3duZmZoZlZkNHQ2T01wS2dWdEFjN1A2S1JTTUMwLXV6RUdKOHd6ZGNESnVHNzF0Zy1tY0l2ZklIWk54UXpYMktVdnpGSnJhRFdJMmhHMi0zUDJ2SHpHMUFEaHU2TGpBdlNfeg?oc=5",
      "source": "اندبندنت عربية",
      "time": "2026-11-16T10:23:40.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
+     "seen": "2026-11-16T10:36:21.726Z",
+     "impact": "يهتم المستثمرون والمتعاملون في مصر بمتابعة التحليلات والسيناريوهات المحتملة لسعر صرف الجنيه وتأثيرات أحداث المنطقة عليه."
     },
     {
      "title": "تراجع سعر الدولار مقابل الجنيه خلال منتصف تعاملات اليوم الإثنين",
@@ -262,7 +264,15 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T10:05:00.000Z",
      "seen": "2026-11-16T10:16:21.659Z",
-     "impact": "يتيح للمواطنين والمستوردين في مصر متابعة تأثير تراجع سعر الدولار على التكاليف والأسواق."
+     "impact": "يؤثر تراجع سعر الدولار مقابل الجنيه بصورة مباشرة على أسعار السلع والتعاملات التجارية اليومية في مصر."
+    },
+    {
+     "title": "مصر تستهدف إصدار قانون لتنظيم السوق العقارية خلال شهر",
+     "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNLXJNNDhaTmxxakprWUFXdUZ3cVJoZW5UclJaNU56VE91Vldfd3BJOEZ1VmpBNmV6U1c3b1M0X1o0akMxMEVZU1RRdURDZVhoRkJEank1bm9Sa0pwMlBuekcxb2ZHb0Q3d2EzRzJvSGk0d3YteXFqbFJFenFNVGRrUHdDd01QOVRTVEZJOFhSSlhMczNxRFRYdGJDSzF0RHBnQVZSbjl0WHQ0SmIzUXRjcEI0LWpSTTZXM2s0c0tMY09VU1c1VlhUMTZobXRxYVp1RDdFcnBFbGpueEVDNnl3NWZHSlU5ZVctSzRTYWtMRzlEcFppaDU2WmtTU3RNOEZWN3BWSjlBU3ZaV3kxelZKdmx4cjJwbWhOS0oxYWNkVVA2MUUxS1FmQTM3OTZqOWRHajR2Ym80VmFNdi1DeU1ELVdRV1ZJUmZQa0FlQW1TNlFkVnU3QWNoaW5UNmhzZ1BnNzlvX0VfamwtQkM2RGhzazNXRnJtV2FFOFR1UzZIVk5MbFVpa3F3TWhWWE5IQVBWeU9ZWW1WdVI2dmtWYWpEYnVSSVllUkp6SG9wLTVnRGhJcVRtRWNIdzNvUE1ZTlhFeEJqN21mc29RUTg?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-16T09:56:48.000Z",
+     "seen": "2026-11-16T10:56:22.152Z",
+     "impact": "يتيح تنظيم السوق العقارية بقانون جديد رؤية أكثر وضوحاً وضوابط محددة للمستثمرين والراغبين في شراء العقارات في مصر."
     },
     {
      "title": "\"كل ما درسته كان بلا جدوى\" : كيف يغير الذكاء الاصطناعي مساراتنا المهنية؟",
@@ -270,7 +280,7 @@
      "source": "BBC عربي",
      "time": "2026-11-16T09:55:12.000Z",
      "seen": "2026-11-16T09:56:21.620Z",
-     "impact": "يفيد المهنيين والشباب في مصر لتحديد المهارات المطلوبة وتعديل مساراتهم المهنية مع انتشار الذكاء الاصطناعي."
+     "impact": "يحث التغير التكنولوجي الأفراد والشباب في مصر على تطوير مهاراتهم المهنية لتتناسب مع متطلبات سوق العمل الجديدة."
     },
     {
      "title": "الدولار واليورو بكام؟.. أسعار العملات اليوم الاثنين في البنوك",
@@ -340,13 +350,6 @@
      "time": "2026-11-16T09:14:40.000Z",
      "seen": "2026-11-16T08:34:45.880Z",
      "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
-    },
-    {
-     "title": "سعر الدولار في بنك الإسكندرية مقابل الجنيه المصري 16 نوفمبر 2026 للشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LUmh6VnIweGNOdlZrZ0VTTlplMmxzN2JCREJhdkxQZGFJS201ckNFSnNRY09VWHFKanNndjJ0c2lZcUxN?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-16T09:10:04.000Z",
-     "seen": "2026-11-16T09:16:22.269Z"
     }
    ]
   },
@@ -354,6 +357,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بريطانيا وحلفاؤها يطالبون إسرائيل \"بدخول فوري\" للمساعدات إلى غزة",
+     "url": "https://www.dw.com/ar/بريطانيا-وحلفاؤها-يطالبون-إسرائيل-بدخول-فوري-للمساعدات-إلى-غزة/a-79955318?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-16T10:50:00.000Z",
+     "seen": "2026-11-16T10:56:22.152Z"
+    },
     {
      "title": "بينهم أطفال..مقتل 15 شخصا في قصف للجيش السوداني غربي كردفان",
      "url": "https://www.skynewsarabia.com/middle-east/1905069-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%82%D8%AA%D9%84-15-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%BA%D8%B1%D8%A8%D9%8A-%D9%83%D8%B1%D8%AF%D9%81%D8%A7%D9%86",
@@ -444,13 +454,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T08:41:09.000Z",
      "seen": "2026-11-16T10:16:21.659Z"
-    },
-    {
-     "title": "الحوثيون يسيطرون على منطقة رئيسية على ساحل البحر الأحمر بعد انسحاب القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QWkRRNzlxZ1hkbWU5akdvSU51NWpReEduWXNPVnlKZ2dkYWlDZ1k1NEFvdnJRakRMdGF3bEtBTzVCblhLTnJBcWNfQ19uMklHejJ5UDIxbjdSZEk1SVHSAWNBVV95cUxPWEhTbXg3VmhmanJVdTFSWWE1SnJCRFhsSFQ5UkJ6ZUpVM1BpcU1DTTJHcC10X19qam1aTjd5Q0FSSFVETjYzcGRVdTRzbEIwYTFNVHNIVHpEYjdaNXNFc3FicHc?oc=5",
-     "source": "BBC",
-     "time": "2026-11-16T08:38:24.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
     }
    ]
   },
@@ -478,7 +481,7 @@
      "title": "الأردن يعلن حجب تطبيق\"تلغرام\"",
      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSDl3c2R1RTdFWDRwcDlNNGx1NXludkpiUEx3ZUttUWE5bmpGaTJEdFpZekxsVjFWVlY2d0xkck5QTjJfcHpIQUtmRHpvcDU3T3NKOXJNLWZEQ2JmeXpia2RJcjMzZjhteXNfSWdpVUN5Sm5EcGNLWGw5TFhLVXp4bGtiUUhxdllDMXpNTVZpZ2JuM0RKZVdJblJsYmtoSV8wdmxVdXAybmpyVnhtWWtxNUJFdHdxTU1pb21DR2JVM182bXlPbUdRZmdWZVVSOXJvSHhFend2Tmliam5kem5DdTRNZ3ctVnVodjlqcGlTVjJRU1h5TnBIeFNrR2RlZ1l3b2I5RHE5ZHlXSmRNUUU0dG14RjZuQlB4WGNsTl95QU4yVm5n0gGqAkFVX3lxTE92amFMRC14V1RaQTEyNTVIcTFTRDVGNjIzN2hwcVZTQXQ5OXNzWnFycUtmSV9xQVhNeUdJUTY2R21kc0FvbTl2SDI2Q1V2WjFWcVdqNkRwTVVLQkIzbXpYQ0tWX2ZYQWZfOGZLOFkwT3hRb1lxaXJwSmpuU0NwSE12M1lxS0YxM1pSUFdBMjZpcFA1M0JTVlRKYzgxMHk0cE5LdURMc0hvRmY5RkxIS3hUckJPYXpJNlhjbVNUbFdHcnVuWEt2Y0hONWlUaUN1bjdQRDNvQTVMVkZaNk1ITzZVTU0weXZuOFFWQnFMV0xGRUxHeEE1SDduZ09ablNHaHZxSzJxRHZmeDZMa1QtNVpmeWoyN2RGUk85NWJQRzdJRjF4Zm1jRWVmZ2c?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T07:30:56.000Z",
+     "time": "2026-11-16T07:30:25.000Z",
      "seen": "2026-11-16T08:04:45.803Z"
     },
     {
@@ -487,7 +490,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-16T07:20:26.000Z",
      "seen": "2026-11-16T07:24:45.652Z",
-     "impact": "ينفع أصحاب الشركات الصغيرة والمتوسطة في مصر للتعرف على حلول جديدة لإدارة عملياتهم المالية."
+     "impact": "يقدم هذا التطبيق حلولاً جديدة للشركات الصغيرة والمتوسطة في مصر لتنظيم وتسهيل إدارتها المالية."
     },
     {
      "title": "ليبرمان يرأس لجنة الأمن بالكنيست.. ويستدعي قادة الاستخبارات",
