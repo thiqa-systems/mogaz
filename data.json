@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:14:45.910Z",
+ "updated": "2026-11-16T04:24:46.096Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,44 +11,44 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T04:14:45.910Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T04:24:46.096Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.75,
-   "change": 0.64,
-   "asOf": "2026-11-16T04:07:08.000Z",
+   "value": 53.74,
+   "change": 0.63,
+   "asOf": "2026-11-16T04:21:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5861,
-   "change": 0.37,
-   "asOf": "2026-11-16T04:04:45.000Z",
+   "value": 5859,
+   "change": 0.34,
+   "asOf": "2026-11-16T04:14:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6691,
-   "change": 0.37,
-   "asOf": "2026-11-16T04:04:45.000Z",
+   "value": 6689,
+   "change": 0.34,
+   "asOf": "2026-11-16T04:14:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3876,
-   "change": -0.27,
-   "asOf": "2026-11-16T04:04:45.000Z",
+   "value": 3875,
+   "change": -0.28,
+   "asOf": "2026-11-16T04:14:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1019,
-   "change": -0.28,
-   "asOf": "2026-11-16T04:14:45.000Z",
+   "value": 1.1017,
+   "change": -0.3,
+   "asOf": "2026-11-16T04:24:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.43,
-   "change": -0.43,
-   "asOf": "2026-11-16T04:04:45.000Z",
+   "value": 95.35,
+   "change": -0.51,
+   "asOf": "2026-11-16T04:14:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64892,
-   "change": 1.19,
-   "asOf": "2026-11-16T04:14:47.000Z",
+   "value": 65063,
+   "change": 1.46,
+   "asOf": "2026-11-16T04:24:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
