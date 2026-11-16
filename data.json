@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:34:46.253Z",
+ "updated": "2026-11-16T07:44:46.076Z",
  "minute": [
   "شهدت الأخبار تحديثات حول أسعار الدولار والعملات العربية مقابل الجنيه المصري في البنوك.",
   "تطرقت العناوين إلى تطورات إقليمية ودولية منها حادثة مضيق هرمز ودراسة الأونروا تقليص عملياتها.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T07:34:46.253Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T07:44:46.076Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.74,
    "change": 0.63,
-   "asOf": "2026-11-16T07:27:58.000Z",
+   "asOf": "2026-11-16T07:46:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5826,
-   "change": -0.22,
-   "asOf": "2026-11-16T07:24:42.000Z",
+   "value": 5836,
+   "change": -0.04,
+   "asOf": "2026-11-16T07:36:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6652,
-   "change": -0.22,
-   "asOf": "2026-11-16T07:24:42.000Z",
+   "value": 6664,
+   "change": -0.04,
+   "asOf": "2026-11-16T07:36:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3854,
-   "change": -0.84,
-   "asOf": "2026-11-16T07:24:42.000Z",
+   "value": 3861,
+   "change": -0.66,
+   "asOf": "2026-11-16T07:36:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.102,
-   "change": -0.27,
-   "asOf": "2026-11-16T07:34:44.000Z",
+   "value": 1.1023,
+   "change": -0.25,
+   "asOf": "2026-11-16T07:45:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 96.3,
-   "change": 0.48,
-   "asOf": "2026-11-16T07:23:54.000Z",
+   "value": 95.84,
+   "change": 0,
+   "asOf": "2026-11-16T07:36:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64852,
-   "change": -0.69,
-   "asOf": "2026-11-16T07:34:45.000Z",
+   "value": 64859,
+   "change": -0.68,
+   "asOf": "2026-11-16T07:46:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الولايات المتحدة وحلفاؤها يطلقون تحركا مشتركا لتأمين سلاسل إمداد الذكاء الاصطناعي",
-     "url": "https://www.elbalad.news/7182393",
+     "title": "مواصفات نيسان اكس تريل 2027 الجديدة",
+     "url": "https://www.elbalad.news/7182400",
      "source": "صدى البلد",
-     "time": "2026-11-16T07:34:05.000Z",
-     "seen": "2026-11-16T07:34:46.253Z"
+     "time": "2026-11-16T07:44:03.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
     },
     {
-     "title": "ترقب نتائج إنفيديا يضغط على الأسهم الآسيوية وسط اختبار جديد لقطاع التكنولوجيا",
-     "url": "https://www.elbalad.news/7182392",
+     "title": "دار الإفتاء توضح الضوابط الشرعية للإنجاب وحقوق الأبناء",
+     "url": "https://www.elbalad.news/7182402",
      "source": "صدى البلد",
-     "time": "2026-11-16T07:31:46.000Z",
-     "seen": "2026-11-16T07:34:46.253Z"
+     "time": "2026-11-16T07:43:24.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
     },
     {
-     "title": "رسالة خاصة من جراديشار لقادة الأهلي.. ماذا قال عن الشناوي والسولية؟",
-     "url": "https://www.elbalad.news/7182346",
+     "title": "خريطة ربع نهائي دوري الأمم الأوروبية تتشكل.. سقوط إيطاليا وصدامات مرتقبة بين كبار القارة",
+     "url": "https://www.elbalad.news/7182398",
      "source": "صدى البلد",
-     "time": "2026-11-16T07:30:00.000Z",
-     "seen": "2026-11-16T07:34:46.253Z"
+     "time": "2026-11-16T07:42:09.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
+    },
+    {
+     "title": "حصر الترع المتهالكة بقنا والأقصر خلال أسبوع.. توجيهات عاجلة من وزير الري",
+     "url": "https://www.youm7.com/story/2026/11/16/حصر-الترع-المتهالكة-بقنا-والأقصر-خلال-أسبوع-توجيهات-عاجلة-من/7619985",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T07:36:00.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
     },
     {
      "title": "هل يجوز للموظف الحكومى العمل فى شركة خاصة أو امتلاك مشروع؟.. اعرف الضوابط",
@@ -171,13 +178,6 @@
      "url": "https://www.youm7.com/story/2026/11/16/منال-عوض-76-موافقة-بيئية-وتحركات-عاجلة-لمواجهة-التلوث/7619974",
      "source": "اليوم السابع",
      "time": "2026-11-16T07:24:00.000Z",
-     "seen": "2026-11-16T07:24:45.652Z"
-    },
-    {
-     "title": "وزارة التضامن تنفذ 778 جلسة توعوية عن مفاهيم التربية الإيجابية فى 449 مدرسة",
-     "url": "https://www.youm7.com/story/2026/11/16/وزارة-التضامن-تنفذ-778-جلسة-توعوية-عن-مفاهيم-التربية-الإيجابية/7619971",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T07:22:00.000Z",
      "seen": "2026-11-16T07:24:45.652Z"
     },
     {
@@ -243,6 +243,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "آخر تحديث لـسعر الدولار .. أسعار صرف العملات في البنك المركزي المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56RVpWbkJrMmxWZUF6WDVudlE1VnE2cmRodXJvQ1dvTkx4UmpETzRhcC1wZGdtaEVYb2pjOHJqMy1OSi1r?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-16T07:34:18.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
+    },
+    {
      "title": "أسعار العملات الأجنبية بيع وشراء البنك المركزي المصري",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PQzNjaXRRQVg4dUJGTFRDdll5WThFcHlPMG1aVm40Q2xkUWU2Zk9TRUp5WFJwck04VzVQcDlwNlZIeTd6?oc=5",
      "source": "جريدة الدستور",
@@ -288,10 +295,10 @@
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه قبل بدء التداول عليه اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNMUZsLTlHYlN1U1BNaGRpNWhnSTlaZi1JeWY1akdTcXNHa3BOZnRUUDNxN1hRTHlmQVBudDlrbjVJRk1LTG5mVUJQOVB5a1R4emdfcEN1MnBBeC1yYUl0RGo1OUF2QW03UjVWTVZmaml2amtxb3VZeHFaXzNBU1FUeGpOQ2NKRmpySkU2M01SeHlBOWNvS2R4Y0stNmJXUTJiSjB2OFloV3hCYjY1clcyd3NzUTNaeGNRYmd0cUthNGpxUnZPSXZTUF9va0VZeFNNMmtsTEFZUU91SEF0U1VHMzhpWUtyMXlHWjV6c09GcjByek9PRHN0cUVhTzY0NFhvQUpybWtmRm9iYTN4ZjZtUnBMWUlOMWRiTldHS2hHT0hudmpjc21yempKV1NjdXVmdTlhNGRKOTIyQjQxX0lqV2VpeW9abDhjRE5zMnVZS3RybWk1aWRLUDMxQ2ZQZzZuZjRRTVhzanpDODlRNmZQRlRmdkd4WDRpVUxNR3VReDZyWnJVWlpRVVFOSElKZEN1eE1HZDZxSk9qSUlhTnJua0MwZzhINFVJdVIyeUtvWmpaRW5lOHF3SllqeldSb2hXWTZlZmdXa20wUDVyNXkw0gHKA0FVX3lxTE1IZkdHS0IzRFBkQUNWZlBFTkM4d0pKMk5qcTVwdVp1UkNfY01xWkZtcmtZbFE0MzlrSTdPRDNHaHlXa0EzRXJFTDliRGFxT3E1TmRwR2lBeE1rWEd3SmRfVEdfOVg2bnd1ZGViR2oyVG4wbVBSYXVBcFczeEY4bDgzZVhoSGo1YU50dGZWb3gzMjM3Z1Vsd041Q2lURVN0ODlUVmJ5UmhlbXJnWGlDOTMweUwtcUlObklNcFZjMXN5TVFQMU1ydmo4ZHI3dzNXTS1zZkpoTUhEZld5MXVlNEprYk1pREZHeUZqdi11MnlNZ1hBNjBOSk5tdXVUSEZDVk95RU9tSXdBblVLLTIzSDFQblUwbGVCRHhnTk5Ub1M4MUVwaFRsTEp2LTRRTlZibzdlN1NoMmFWa1VCMWtYYlFSdlNwOXRaR2Q5UzhCRGpPdlc4TUFveUczSTJNLVg1Y0VUQTR6bHRVMDd4TTBKUTVqMDMwRFpROU8wYzVrZ1N4T0YtZVZsWk9PdmJWMU9xRzMtMEdVR3VqemFBUlczSXpkT3VzX3d3aDBfVEhTclhEb0pIa19ETUhTbFhzSDFmcFBvTE04cXN3RVFR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNSGZHR0tCM0RQZEFDVmZQRU5DOHdKSjJOanE1cHVadVJDX2NNcVpGbXJrWWxRNDM5a0k3T0QzR2h5V2tBM0VyRUw5YkRhcU9xNU5kcEdpQXhNa1hHd0pkX1RHXzlYNm53dWRlYkdqMlRuMG1QUmF1QXBXM3hGOGw4M2VYaEhqNWFOdHRmVm94MzIzN2dVbHdONUNpVEVTdDg5VFZieVJoZW1yZ1hpQzkzMHlMLXFJTm5JTXBWYzFzeU1RUDFNcnZqOGRyN3czV00tc2ZKaE1IRGZXeTF1ZTRKa2JNaURGR3lGanYtdTJ5TWdYQTYwTkpObXV1VEhGQ1ZPeUVPbUl3QW5VSy0yM0gxUG5VMGxlQkR4Z05OVG9TODFFcGhUbExKdi00UU5WYm83ZTdTaDJhVmtVQjFrWGJRUnZTcDl0WkdkOVM4QkRqT3ZXOE1Bb3lHM0kyTS1YNWNFVEE0emx0VTA3eE0wSlE1ajAzMERaUTlPMGM1a2dTeE9GLWVWbFpPT3ZiVjFPcUczLTBHVUd1anphQVJXM0l6ZE91c193d2gwX1RIU3JYRG9KSGtfRE1IU2xYc0gxZnBQb0xNOHFzd0VRUdIBygNBVV95cUxNSGZHR0tCM0RQZEFDVmZQRU5DOHdKSjJOanE1cHVadVJDX2NNcVpGbXJrWWxRNDM5a0k3T0QzR2h5V2tBM0VyRUw5YkRhcU9xNU5kcEdpQXhNa1hHd0pkX1RHXzlYNm53dWRlYkdqMlRuMG1QUmF1QXBXM3hGOGw4M2VYaEhqNWFOdHRmVm94MzIzN2dVbHdONUNpVEVTdDg5VFZieVJoZW1yZ1hpQzkzMHlMLXFJTm5JTXBWYzFzeU1RUDFNcnZqOGRyN3czV00tc2ZKaE1IRGZXeTF1ZTRKa2JNaURGR3lGanYtdTJ5TWdYQTYwTkpObXV1VEhGQ1ZPeUVPbUl3QW5VSy0yM0gxUG5VMGxlQkR4Z05OVG9TODFFcGhUbExKdi00UU5WYm83ZTdTaDJhVmtVQjFrWGJRUnZTcDl0WkdkOVM4QkRqT3ZXOE1Bb3lHM0kyTS1YNWNFVEE0emx0VTA3eE0wSlE1ajAzMERaUTlPMGM1a2dTeE9GLWVWbFpPT3ZiVjFPcUczLTBHVUd1anphQVJXM0l6ZE91c193d2gwX1RIU3JYRG9KSGtfRE1IU2xYc0gxZnBQb0xNOHFzd0VRUQ?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-16T06:00:00.000Z",
-     "seen": "2026-11-16T06:34:46.321Z"
+     "time": "2026-11-16T06:02:24.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
     },
     {
      "title": "سعر الدولار اليوم الإثنين 16 نوفمبر 2026 في البنوك المصرية",
@@ -306,14 +313,6 @@
      "source": "صدى البلد",
      "time": "2026-11-16T05:00:00.000Z",
      "seen": "2026-11-16T05:04:45.881Z"
-    },
-    {
-     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 16 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aalRVZklzZllwXzM1N01zdExkVGYteW56V0trM1ZEaHB2VnRucThPY0F1TWFrb01sWUhyUm5xTkFpbnRz?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-16T05:00:00.000Z",
-     "seen": "2026-11-16T01:04:29.668Z",
-     "impact": "يفيد المستثمرين والأفراد في مصر لمتابعة استقرار أسعار الصرف وتخطيط معاملاتهم المالية."
     },
     {
      "title": "الحاصل على أعلى الدرجات بامتحان المحاسبة الضريبية في كوريا الجنوبية يعترف بالغش، فما القصة؟",
@@ -350,6 +349,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "أوكرانيا تطلق 600 طائرة مسيرة نحو موسكو وتقصف الجسر الرابط بين روسيا وشبه جزيرة القرم",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261116-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-600-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D9%82%D8%B5%D9%81-%D8%AC%D8%B3%D8%B1-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%B4%D8%A8%D9%87-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D9%85",
+     "source": "فرانس 24",
+     "time": "2026-11-16T07:33:01.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
+    },
     {
      "title": "الأردن يعلن حجب تطبيق\"تلغرام\"",
      "url": "https://www.skynewsarabia.com/middle-east/1905024-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%AD%D8%AC%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%85",
@@ -416,13 +422,6 @@
      "seen": "2026-11-16T07:14:46.361Z"
     },
     {
-     "title": "إسرائيل: آيزنكوت يعتبر أن نتانياهو لا يمكنه البقاء \"دقيقة إضافية\" على رأس الحكومة",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261116-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-16T04:43:26.000Z",
-     "seen": "2026-11-16T04:54:46.236Z"
-    },
-    {
      "title": "إيران تعلن اشتعال ناقلة نفط بلغم بحري شرق مضيق هرمز.. ماذا حدث؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/iran-oil-tanker-struck-by-naval-mine-east-strait-of-hormuz",
      "source": "CNN بالعربية",
@@ -457,6 +456,20 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "علي بابا تطلق Qwen4-Max بقدرات متعددة الوسائط وسياق مليون رمز",
+     "url": "https://aitnews.com/2026/11/16/alibaba-qwen4-max-multimodal-million-token-context/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-16T07:39:24.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
+    },
+    {
+     "title": "بوني إيه آي وتويوتا تطلقان سيارات أجرة bZ4X بلا سائق في الصين",
+     "url": "https://aitnews.com/2026/11/16/pony-ai-toyota-bz4x-driverless-taxi-china/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-16T07:37:38.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
+    },
+    {
      "title": "ديلويت تطلق BusinessNext لإدارة العمليات المالية للشركات الصغيرة والمتوسطة",
      "url": "https://aitnews.com/2026/11/16/%d8%af%d9%8a%d9%84%d9%88%d9%8a%d8%aa-%d8%aa%d8%b7%d9%84%d9%82-businessnext-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -472,12 +485,11 @@
      "impact": "يهتم به المتابعون لقطاع التكنولوجيا والنقل للاطلاع على فرص وتطورات الطيران الكهربائي التجاري."
     },
     {
-     "title": "دراسة: ارتفاع بلاغات مواد استغلال الأطفال المولّدة بالذكاء الاصطناعي بأكثر من 8400%",
-     "url": "https://aitnews.com/2026/11/16/ai-generated-child-abuse-material-reports-childlight-2026/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-16T02:05:34.000Z",
-     "seen": "2026-11-16T02:14:29.793Z",
-     "impact": "ينبه الأسر والمستخدمين للترددات والأخطار المرتبطة بإساءة استخدام تقنيات الذكاء الاصطناعي."
+     "title": "روسيا تعلن إسقاط مئات المسيّرات الأوكرانية في هجوم واسع استهدف موسكو",
+     "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNajlUTUd3c204TVVQX2VBTGxzT2NBLUxRSTRrazJWbkQyWFhka2x0LXV0ZnJSVUlSbzhsdnMwWFAzOUVpY05raURpWGZFVlRNRklWTTB2UXFWZHJUMnRpTHZHQUpENEZWbGVHUU42Vk43Y0o0UnNRYWdid2NlQktlcFBSbUtzakNOYlBqVkUtOVFsdVNuaXVtX0NKMTRYRFRvVkh4T1JOejRsQTF0T2p0WmZYWVBkRXlYM09qRzlWeVROcWJxMkRWam5DdVRrQ3JjOTA3NVl6a0xiU3E4TXdpVXhJUVhKaEQtSjNmWEdLN2dlb2o2S1NVZFhIT0tqNEVQUWNzUXRsMDhIdVo2NXRtRjBjMUt2dGlrS2xqakVzVU1tUUdsWEhwVVRQdWFiRV9ZOGJJV21yclUtZXZLdjlmUEEwZlhoSEFNQVlEWDRMTFZBMTk3NUVTSDZBMA?oc=5",
+     "source": "الجزيرة نت",
+     "time": "2026-11-16T03:08:06.000Z",
+     "seen": "2026-11-16T07:44:46.076Z"
     },
     {
      "title": "انتكاسة لـ\"أمازون\".. فقدت 40 قمرا اصطناعيا دفعة واحدة",
@@ -545,21 +557,6 @@
      "time": "2026-11-15T17:14:55.000Z",
      "seen": "2026-11-15T17:23:42.843Z",
      "impact": "تسلط مناقشة مخاطر الأعطال التكنولوجية الضوء على أهمية خطط الاستمرارية للشركات والأفراد المعتمدين على البرامج الرقمية."
-    },
-    {
-     "title": "محمد عثمان الميرغني: شيخ الطريقة الذي اعتلى منبر السياسة ونادى بـ\"وحدة السودان أرضاً وشعباً\"",
-     "url": "https://www.bbc.com/arabic/articles/cmz74w51j9xzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-15T16:51:56.000Z",
-     "seen": "2026-11-16T04:34:45.687Z"
-    },
-    {
-     "title": "تقنية جديدة تحوّل حركة الشفاه إلى نصوص مكتوبة",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPWUQ3VTdQU1hKSDl2Tm1nSWRUNk03Vmd0MTRzNDdKRkd5dUw2NUpfVzhiMkp0MWYyR2Fpa183d25MMm85U01JUTVuYThBOGhpbzAzM0dZRXdKeXBPTzEtdVk3VUdCOWNBekRlenRjdnlBZ0RQMlFGT2tackd6c0t5dUoyb1dLNmxQZzBsUUVlREt2UjdIZ0o3VktMbmhEdlRVemo1enVRTzdWQ21VV1RFZTNlbGp5XzBWOGxYMUY3YlRYeENESkx1UlQ5ZzFoOG45OUZ5TUEzTHlPZnRfNVlzcnlfT2t6ZVBLVlVRY1pBbkp2bWF6OFhoTmtPZk5zUlkwN3hUaEtMamtxOHB1T2o3dlFEWHlWVmR5U1B0dTBqVTBJX3JtVFNzUXJLalIyWnpNMl9qVUxmbUpFTDVFTDhvU1hhTkF1OTFJaXl0MlFmSFk3ajZGVUNFODgzQlNFM2JiZ0owSFQtVURoeDBGQ2FGbnJnQ2NWX2MxVHFIUUxwQlQySi04TnhNWThUTmlSS204T1VoYzlOQlU0RE9TeklCdlpjbE1MTnRKZnlCNXkzZkt1VzBDYWs1ZEVMc1dudkE5S2czaEhRakxKVHR4WU9ENHdHYXo?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-15T16:15:22.000Z",
-     "seen": "2026-11-15T21:23:42.798Z",
-     "impact": "تهم رواد الأعمال ومستخدمي التقنية في مصر للتعرف على أدوات وتطبيقات جديدة لتحويل حركة الشفاه إلى نصوص."
     }
    ]
   }
