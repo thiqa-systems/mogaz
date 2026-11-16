@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:58:19.611Z",
+ "updated": "2026-11-16T22:08:19.426Z",
  "minute": [
   "شهدت مصر تطورات بارزة شملت تدفق 546.7 مليون دولار من الأموال الساخنة على الدين المصري وتوقيع بروتوكول لإنشاء غرف لزرع النخاع بمستشفى مبرة مصر القديمة.",
   "أعلنت شركات استثمارية عن خطط لجذب استثمارات بمليارات الدولارات وتجهيز صناديق استثمارية جديدة، مع متابعة المرور للشبورة المتوقعة على الطرق السريعة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-16T21:48:19.588Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T22:08:19.426Z"
  },
  "markets": [
   {
@@ -25,18 +27,18 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5823,
-   "change": -0.28,
-   "asOf": "2026-11-16T21:48:17.000Z",
+   "value": 5822,
+   "change": -0.29,
+   "asOf": "2026-11-16T21:58:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6648,
-   "change": -0.28,
-   "asOf": "2026-11-16T21:48:17.000Z",
+   "value": 6647,
+   "change": -0.29,
+   "asOf": "2026-11-16T21:58:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -44,8 +46,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3859,
-   "change": -0.69,
-   "asOf": "2026-11-16T21:48:17.000Z",
+   "change": -0.71,
+   "asOf": "2026-11-16T21:58:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1001,
-   "change": -0.45,
-   "asOf": "2026-11-16T21:57:47.000Z",
+   "value": 1.0999,
+   "change": -0.46,
+   "asOf": "2026-11-16T22:07:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.83,
-   "change": -4.18,
-   "asOf": "2026-11-16T21:47:38.000Z",
+   "value": 91.82,
+   "change": -4.19,
+   "asOf": "2026-11-16T21:56:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65240,
-   "change": -0.1,
-   "asOf": "2026-11-16T21:58:18.000Z",
+   "value": 65413,
+   "change": 0.17,
+   "asOf": "2026-11-16T22:08:20.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,48 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأهلي يؤجل حسم مصير ياسين مرعي لهذا السبب",
-     "url": "https://www.elbalad.news/7183606",
-     "source": "صدى البلد",
-     "time": "2026-11-16T21:56:56.000Z",
-     "seen": "2026-11-16T21:58:19.611Z"
-    },
-    {
-     "title": "رنا حسن أبو السعود»: والدي كان أبًا قبل أن يكون موسيقارًا.. وبهاء سلطان قال لي بعد وفاته «مبقاش ليا سند في الدنيا»",
-     "url": "https://www.elbalad.news/7183605",
-     "source": "صدى البلد",
-     "time": "2026-11-16T21:55:29.000Z",
-     "seen": "2026-11-16T21:58:19.611Z"
-    },
-    {
-     "title": "رنا حسن أبو السعود: والدي علمني الفرفشة وحب الدنيا.. وكان بيقولي «انتي واخدة روحي»",
-     "url": "https://www.elbalad.news/7183596",
-     "source": "صدى البلد",
-     "time": "2026-11-16T21:54:34.000Z",
-     "seen": "2026-11-16T21:58:19.611Z"
-    },
-    {
-     "title": "وزير الصحة يشهد توقيع بروتوكول لإنشاء وتجهيز غرف زرع النخاع بمستشفى مبرة مصر القديمة.. صور",
-     "url": "https://www.youm7.com/story/2026/11/16/وزير-الصحة-يشهد-توقيع-بروتوكول-لإنشاء-وتجهيز-غرف-زرع-النخاع/7621492",
+     "title": "شيخ الأزهر ينعى السفير عبد الهادي مخلوف نجل مفتي الديار المصرية الأسبق",
+     "url": "https://www.youm7.com/story/2026/11/17/شيخ-الأزهر-ينعى-السفير-عبد-الهادي-مخلوف-نجل-مفتي-الديار/7621507",
      "source": "اليوم السابع",
-     "time": "2026-11-16T21:35:00.000Z",
-     "seen": "2026-11-16T21:38:19.798Z",
-     "impact": "يهيم المرضى والمواطنين في مصر لكونه يعزز من تقديم وتطوير الخدمات الطبية وتوفير غرف زرع النخاع بمستشفى مبرة مصر القديمة."
+     "time": "2026-11-16T22:01:00.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
     },
     {
-     "title": "طوارئ بغرف عمليات المرور بسبب الشبورة المتوقعة على الطرق السريعة",
-     "url": "https://www.youm7.com/story/2026/11/16/طوارئ-بغرف-عمليات-المرور-بسبب-الشبورة-المتوقعة-على-الطرق-السريعة/7621489",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T21:24:00.000Z",
-     "seen": "2026-11-16T21:28:19.680Z",
-     "impact": "يهتم قائدي السيارات والمستثمرين في مصر لتوخي الحذر واستحداث إجراءات السلامة أثناء السفر بسبب الشبورة المتوقعة على الطرق السريعة."
+     "title": "سويسرا تكتسح اسكتلندا برباعية نظيفة في دوري الأمم الأوروبية",
+     "url": "https://www.elbalad.news/7183609",
+     "source": "صدى البلد",
+     "time": "2026-11-16T22:00:23.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
     },
     {
-     "title": "الصحة العالمية: إريتريا تقضي على التراكوما.. إنجاز هام في مجال الصحة العامة",
-     "url": "https://www.youm7.com/story/2026/11/16/الصحة-العالمية-إريتريا-تقضي-على-التراكوما-إنجاز-هام-في-مجال/7621472",
+     "title": "كيف تؤدى سجدة التلاوة وهل يشترط استقبال القبلة؟.. أمين الإفتاء يوضح",
+     "url": "https://www.elbalad.news/7183613",
+     "source": "صدى البلد",
+     "time": "2026-11-16T22:00:06.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
+    {
+     "title": "حماية المستهلك القانون يحظر إخفاء أسعار السلع ويلزم بإعلانها كاملة",
+     "url": "https://www.youm7.com/story/2026/11/17/حماية-المستهلك-القانون-يحظر-إخفاء-أسعار-السلع-ويلزم-بإعلانها-كاملة/7621500",
      "source": "اليوم السابع",
-     "time": "2026-11-16T21:21:00.000Z",
-     "seen": "2026-11-16T21:28:19.680Z"
+     "time": "2026-11-16T22:00:00.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
+    {
+     "title": "أخبار 24 ساعة.. التعليم: نستهدف إنهاء الفترة المسائية للابتدائية خلال 28/27",
+     "url": "https://www.youm7.com/story/2026/11/17/أخبار-24-ساعة-التعليم-نستهدف-إنهاء-الفترة-المسائية-للابتدائية-خلال/7621178",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T22:00:00.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
+    {
+     "title": "الذهب يستقر بعد الهبوط الكبير.. عيار 21 ثابت عند 5910 جنيهات في بداية تعاملات الثلاثاء",
+     "url": "https://www.elbalad.news/7183568",
+     "source": "صدى البلد",
+     "time": "2026-11-16T22:00:00.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
     },
     {
      "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي",
@@ -223,17 +223,17 @@
      "seen": "2026-11-16T18:47:17.856Z"
     },
     {
+     "title": "كانت تحمل قمحًا مصريًا.. من استهدف سفينة الشحن\"BETUL 8\" القادمة من رومانيا؟",
+     "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNMHFjRkRnRUEyWnJKUXN2VHM0VnF6ZlV3eEt4dTFoSXFZVHN3aTZoclRNcmMxbG1vSnc2N3Y2aU0yeThDV2swcXR5eXRvZXJiZGhzZ2F0SkdJdmFqZnROMWdQaENHbk92U0NUMU5pV3NCVEl3SGs2SVJjRl9yck5FbFRnSWt3czhjWDkwRVFDZUl4RTFGMnRkYURzbDBVeXd4NVFrbm1fYTJiNFUzSzFWRmRfXzlXbHJkcU9QcGJ4Nmh5VW84NDcySkVEQV9URzFjQ1ZkX3hyNi1Geng1STByZEJ2dW9RTFZUUFZUQ3c4aUtYdzhCcnVTRkpfU0xVLXJVVmZnd0U2cXFxeVB3X0tXQ05UX0RRU0tCYnZPT0w2cFk3QzBELVZjaG1YNDhqTkJmRzZuME1qSmZJai1aUGxHd3lKUlJROVJaUko3bGJLOFJkZVVaZ3BScXJobFhlVTJYa0s5YWxKR0lPMWdJVlNYWnFmN2tOOEZwSmg1alVMRE1RSW4xcUhqOXlraUhZcllVT2V2MFdnbWFVVHprekxHSlh0TG4zeE53UGdDbVpGa3B2US1BcXFPN0NMX3piNVNVT19UT0dlaDduR19zbzBfYUN3d2pMT0NHblJ2bDdoTzliRUI3b01tV3ZzdjZSUDBwcmJZc0FNMldPb2lPaHFTU1JKbTdSRkFudWhVRHk5QTZPb3NKVWt2UTd0LW1CWjRJUjIzam1nNjFWcl9PVFpma1dTZDXSAboEQVVfeXFMT0ZwYmY2dU1fSmVVMmJULW5xMzRaY0NaTTI3RTE0SFhkRko2RkpKZ0k2RWVUSFVaakxTZjlJWGlBbW81bUtWcXVnampIMFlEaVQ3UUtJWTd6QWY3WHRCajdyTUU4WUd6YVhNalJCUEdrWlpKSTEtYzduMFhON2RfOU1LVXJzakZnQlV5d2VjM0FjMmRRQjhQdkV4aHdLeG15aDg5VzRybnM1N196VjdLUHZjSFNEbjNGQkxsWWxfV3BkdFFQTFJIN3FZZnU4dXFBSUFJcjhHa3NFTHFLMEVoSEtlUjBQbDJUVWhING14SGpFWHBwRmZnV2tMNlhQdThobnltaEZsYXFVU1lOWDM4d3JvNi1FcXV0V2doT0RwOUFVOGVVNUpPNjctQy16bkc5UjFjWnByUTJmWmo3YnF6bzA4Yno1VGpjTzB6YThtWmF1cF9UbU42T3NsLUNlYVR2ZFlUaHhzVGtGSVREd002WTZlVl9Lb0JkYUd6S2ZySTdvSlJmTjcydHQ3aFV6SzlvcXhqOFhBVWR1am5QckNNMThoTEJ6U19LM0gyTDVOWXV6RU1UbGNwSWxQcDR1WXdKZklkZ2FXclZMWkZleHJmQmU1LU1JZHdYcTNEaUNQMVh5UTgzQ1JSZEhXdmxZTlNmRTBZNVFzMzQzQWVaN2tiUGpXeGJfeTA0Z0g5b0dtTngzdk9KUGFTNk1vUE5Id1Z2NFl5Sk9ENGJkU21Md3hUbEpWNUJLd3FWMWJn?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-16T18:33:19.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
+    {
      "title": "مدبولي: الدولة تعمل على تعظيم العائد الاقتصادي للأصول الفكرية بقطاعات الثقافة والصناعات الإبداعية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3N3VzcnJ0UFFJZndyNjVNTThwM2JHOEdCVi1idVE2dXBlN005VnNER3VGNjRabVQ0UVlaRVJYTmd2cHZZ?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-16T18:17:08.000Z",
-     "seen": "2026-11-16T18:37:18.312Z"
-    },
-    {
-     "title": "مدبولي: مصر ملتزمة بتطوير منظومة الملكية الفكرية وتحديث التشريعات لمواكبة الذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMi9AVBVV95cUxQQm1MaFBlbEQ3RUMzelFvaG9kaE43ZUNCc2NQZ1FvVWJ3WjU2bnNCb2toMUN5Q0lZazE1U1Q2a19sUEl4a2Q1UzVGX2VIRXQ5MnQxRFFXUUNHWGFkbGo2SnY2TGc3N2ktU1Q5VVd0UE5JNTNRc0MwUGNZcjNNMFpPem9aR2FKOFlOVy1jbzBMUmMtLVJHdHJHcGUxQTFMQl9FaGhGSXRzWF93OXFvOEx6Szd6T0JPTDVnaHZPVVA4TlV6eGs0QURWdXVfeGVHbk5VcVFlNjRfVmhNTnE5cDVwRFAxejZLbEh5MWJYN3lyb2o4TjdURkFFSnBrUHR0cGdRVlFkNm9FMHhyMXhHcFVmUW95SG5Tb0NmX1N3RFlKcDJsd1daWjlBQnEtYkp4WjBZR2pZeFZvbWw0RmlfQV9YY3lpYjFxY2dvUUVXVXlzOWRTSEh4MXlGUy16RHdZRmJLNkhZbDBaNmdsYlRCVnN4YmtzNVhvNnYzQ3dwMml2cUdTZ2haLWdKbUx6ZGxOdEREVERPSlFwLU9ibDBoYVZyY2tQbHdFejczdVZPcW83akRRdzBkMnBnTGNlbEZBN0tkdU5aMEtVYnNaUEdvUWwyNW5POFJ6WkhHbVp6X0FnQzFHMGMzbDFWeDFJLW91b0ZUSVZtMEhRZGtpbFRoeEVFcTNMR3hRNVhzdkdzSWJLX0YzMk9ZTFFVUW15MzJUZzUxMWk2bWNXdE1PVzljVW54M1B0Yk9MRE9jSVBlcmdhRWgyS01UTWdtcUQ2OUQ1eGVRa3BhTnJfQzZmSXh4aWYyY0x1MWxnZWhJZjJTQ1RwMk1LMnVOM1hrcXRYb2l5aHBmMjBMd1R5MGFiTkZTczJhYVdnalJXc0tjODc0dXRNNzFubVluOUdyaTRXRmtUWE9QTTI3SDJ1TUtFRjBjaU9EVjdKRVhabnVPYzVrbzY5WFhBeGZLSWpjb2xsQ3NfSDlWRHVxUUViSkY1Q2VwbUxGazhHa1bSAfoFQVVfeXFMTjFqc09udlI3NVE2dHlNcE9ISE1rR1Qwckd5MVhkc1dSaDJIZGhWTXpXeVpkNkREbUpWVWpXRG5yZDlQN2M4OFRFZEJTWk1iNms2UzFROVBLLUs3YmZSOHY5dVNHZV90ZUw5TWVERnZLdTZJUzBHc2NTSWtrSHhSSnlFeVYyNzVzLVNKblhjN3FNVkx3XzZpdUtJYlNNMHZhZU5xUVFlX21nLTllSFBlcVR6T1lXeDVWS29melBTVDRBcy12TW0tTmRrUUNhSklXRzIxaUE0bjJaaHdXZmxUenRrYkdDZ0xDYjVQaGNBd0ZmZWtNclQyaC1GalpRUDAzY2tHY1VHQ3dGdlJsNXJhX2llNVgyUzgtZGNNdlB4eEVxeUVJUjJYdWJFWXFUYjUzc2hPMXBMZE9fckJUYmU1dHlkZ0ZSWThPWWZIdy1JQ2FQV055Und5N0ZwSlNHaVZ1OVpiM1F1blZyNTk1ZXdUX2hEdGVUNE56aFJZSU1iNElQVkFfa2NTRkYzSG5fSVE5aDZHcndXQl8yenNiT0VWQllUak9xQmV2YmtGWUFqTHUyeE9BZFhYRmh3Q2RmS0dMaDRmbDZEZTUxTmQ4UldoRzJwcXpPVm9ncXEzcTJYVGoyT2dlYWtWRmxhTDhGdWNRRFh0eS1SNTZuUHBVVlktaXR5Uy1ZeFg4RkViUFBUcV9XbW9jdkNTdHlQZ3RTckdpcWxMdGxrRzZ5b2JQZWdRYXl6Y1JjaVhlRUpmM2ZpdExmQTFwSWNOTGFWWTM4Qy1Hc01mOVRhUjFkYTBlM2IzZGlpYlBEemcyekExd2hKTXNJVTVrNVNYQzhCUDZxNlJwS0FwOGhtZ0o2N0RyMTFWMVhzLS1LX18zd0ZoNEwxc1FPSlhoN3Uwc3Via0FlVUJra0UzclROTXA5andyVVVjMk5BVlVKS3RLWm10eXJLaW5OV3A5RTZKZHRSM2dSTnpUay0xTWRIdUhDamZ1aFhPNzdhNGcyOEl0RXVn?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-16T18:14:00.000Z",
      "seen": "2026-11-16T18:37:18.312Z"
     }
    ]
@@ -354,6 +354,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إسرائيل تدرس استئناف حرب إيران.. وحديث عن \"تحرك منفرد\"",
+     "url": "https://www.skynewsarabia.com/middle-east/1905195-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AA%D8%AD%D8%B1%D9%83-%D9%85%D9%86%D9%81%D8%B1%D8%AF",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T21:58:23.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
+    {
      "title": "موريتانيا تطالب السفن الأوروبية بالمغادرة بعد انتهاء العمل باتفاق الصيد البحري",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A",
      "source": "فرانس 24",
@@ -431,25 +438,18 @@
      "seen": "2026-11-16T19:07:17.714Z"
     },
     {
+     "title": "باكستان: ننتظر رد واشنطن على المقترح الإيراني الأخير",
+     "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNLVVEV19QMTFLQnYzWmVKVER2M1hocmhsVnlFd1lGSDBvb2kwem5VOTRRbWVRRmc0aUZ4bXhrN29EODhfbHBjS3h5VVptX3A1MXBpNXJGZ1dyVXRZUy1BdjhGWGl6UDU2aTkwWXlLMjQxb213bS1Ecl9ueDhEMU5RODlSMjR4d25Bd3h4cW5lQ2VnYkVNbEhMUThpZTBYY2lFMGwxZWtKTWlrYzBiTURhM2FFQjZ4S085MmVxaTQyVTE3anM0bTZBc0dHaEdDM1kxZTIzS0RpQkc1amRQMGxUcXVYN19sY3NZa0tyMUFBaGNPMzJobmlUOVBGQ1p3b2huOEhfbDdKZ29zM3doM2tKNnNtcjBEY242M2xzZ1hGYmYzd09OV0hvOXFXakRpLU9ZbFpHMHJXZ1gzb2NxUnNGMGJvNnF0ZFZXZTU4eVdVbUk2ZGtRWnkwa0w1MzdaM0hzRXMtZlUwenlVemVqcWhOeXJIcmwxQ2xiSHFfNTFfOGluUTgwV09taGQ3ZEpyRV9HczMwWVhBTEpLZ1hlU3ZuOWpyWUMyaWZaZmVFRGFiaktlcWpMcktLWFhR0gG_A0FVX3lxTE1ZOUhwRGk0Y0dtTFk5VzBxWHV2UnZYVTh3T21GLWRWYVNNZVlpYS1CNnZEd3hGcjg3TzltcjAtRm5IOGlJWnRPdmVJVzREek9hT0tYUW14Vk9tT0xoZkZCc0hfTUJsSE1mVU5CanY0TThBTms4TUFlSGpQXzFhb1g4Vy16bFZyM1dzS2lDTllSV2pnWTdYUHJUb3NtbWhWWEZzSDdIM2ZZSXU2VnNWVjJreFJ3djJHRWp5bXFTX0hXeUVLUENXX2RYbWdwRGZxTWcxUXVlQWxEcC1tRzdVVTFpMk50cDB5SzZMZHB3R01DaS1Zdk9uLTVpOEhPOXpHSHlIYnJBUk00R214YWg0OThaT2IwU2c1c1QwRndXY0pWUWNaY3hrcVMyWThBQTh1OE5ranJ6RDh2QkYtckJEQ1RUSmVaWl9HZ2xLanJ2N1dkV3F5Q3d5dlM3dVQ3WVBQb003UTk5Y3BFTXY2dUVoelNEN3p5bm1SQnRFMzcwX2hFamwzYUhwUy0tTnRBRE85VzJpVzBsQlA3SXEwSF9PVzVZdzhNcV9NZ2RXdzE3VHZQazlYNTdudnRaTUVUbkFIOA?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T18:55:00.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
+    {
      "title": "آيزنكوت: نتانياهو لا يمكن أن يبقى «دقيقة إضافية واحدة» في الحكم",
      "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOWXJJRFM1NHFtcjNSWEtkUDRQeE1nTmx4ZGFsWm5FR1ZhVktJR0hXMDdzOGNyLVNySnlSVGhDX19OcGg4MU40MFFHQTAyUnRHSVpLckJPZGMwcFlmbklLeHUyOHNGSFlMa2lKV3Rjdm9uSURJcXBjTnlwZjZWeGRseWxjVWVrRVVNQV8ydHpTZi10ajdZb0h6UnB0MGRlQmxRUjZsZHF0Z0R1MlllNlhCaWlYd2s2ZFpzS1ExYnFTY01HUGt1Q2dCbWlhOU5XZEhXVmlNRjVxXy14UXlNRlNNZmlXUy1GWUU2cWNFZ1B3N0cxbGpyNlcwbjd2Zjd4WXFITlcxckg4Z3pvcUZZNzh4bXpfQVdZYUw2V3BxN2hYZWxsamlmSjRNczVVX05FQXFPM1AxSEl3ajJyRW9YOXNCOHcwUEZBUDFhVVFZa2RRQmZEOE5xeWJiOFVuNDF4ZW5FNW9EWHdzNklQUjZ4OTAtN2pzaWd6TG1MZjFzMnEzWnNGYjJWUWZCRGt4U2djbDhPVTNaSFR6V1RLaEI4eUphTEFiTzJYTDdpbXBvMlgxb0JvOUoxNURQVlBIazVqV19OX2JLQ0w2a050cWZXZVNhejgtN3NKcUNjdU51ZV9RMmVudHQxbnNmaW9WeEdzRnNiUkVUZTFlcnFBQTdYZUlEMUJaRUluV01wTk1rQjNUc0E4amd1VE5PYzhmTVBEQzJxcXcwamRLVFE2SDFQRW1aWThzaFdqU1Y2?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-16T18:46:54.000Z",
      "seen": "2026-11-16T20:07:17.458Z"
-    },
-    {
-     "title": "سياسيان إسرائيليان معارضان يتهمان نتنياهو بـ\"محاولة انقلاب\" والشرطة تحقق",
-     "url": "https://www.dw.com/ar/سياسيان-إسرائيليان-معارضان-يتهمان-نتنياهو-بـ-محاولة-انقلاب-والشرطة-تحقق/live-79926107?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-16T18:45:00.000Z",
-     "seen": "2026-11-16T21:38:19.798Z"
-    },
-    {
-     "title": "\"ادعوا لهم ولا تنسوهم\".. مقاتل بلجيكي يتضامن مع أطفال فلسطين (فيديو)",
-     "url": "https://www.aljazeera.net/sport/2026/11/17/%d8%a7%d8%af%d8%b9%d9%88%d8%a7-%d9%84%d9%87%d9%85-%d9%88%d9%84%d8%a7-%d8%aa%d9%86%d8%b3%d9%88%d9%87%d9%85-%d9%85%d9%82%d8%a7%d8%aa%d9%84-%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-16T18:22:00.000Z",
-     "seen": "2026-11-16T21:58:19.611Z"
     }
    ]
   },
@@ -457,6 +457,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "وزير الكهرباء: لا عودة لتخفيف الأحمال ولدينا سيناريوهات لمواجهة الأزمات",
+     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVU1oeHk3N2FiMVJvY2xYeXhzeExCeFVBM2RsWTJwSU5mZHYwOVFkY1RvT1lmUGhDSWlKTmhwa3hXaEoteEwwc3dtQVREZGdjYkZHUlVxU0RmZl91c3JKbFNCa2ZmOWNiYUFSVDVRVkV2TjI0dTBLZjk3VEFpNUNyLWVIYXZsMW52TnNIdjlYREYtT0VnTGNhSEpMZTA5SzhDWmxyZk5nSnJLalI0WlNBcF9TQ3N5VTRKZnFteEU5U1JzTFlTbWhUcEEzcDV4aUlBRDRmZTJ4N3lwTXFrRFB1VjlsX0tHcDZ5QmZjUXgxaDBENWVaNTNtVFpYRWE4N0RRU0R3VGVsZVdvMWNKaWxhQ1F4UHlCZHFfM2RSXzU0cTNPbERoUVY5RlhzVkN6WDlUNlhPanV0OFcwWmxtajlIQVFLRlhrQ2ppZ0QzVlc5MGN2RzJIcFZTTGU4VXROcTBZNnZyVVczaU1SRDRqRlYwaXhfdm54TDV2dzVyM2c3SWJHZ1Y2SGRJa3JYeVNTWTJGRWw4U1d6YnNsbHJ4LVBfR0FuSnBKcEF3VllrdzBaS2k0X1pvbUpZLXM2aUwzTERxLUxObFRSYWE1aFJyTXZGUFowVVp2YTBGMjlTdmpqX25hNF9sT1pjdm96RlQxdGtIWUhVTXdlM19zaDlreUZFbThpVGtsSGZ6OFVGbHdtZUltUDJxaER2OG5jQkE0WENfazhvVXBueEJRWVNzUXFnSlBaWHV0bWJLaHh2V1dkU3JfRjlHM2RHM3haQldpMVg2RF9lTloweWQydUdwNEJTaEdGdGMyQ09VRXfSAe8EQVVfeXFMTkhWSkRuX291ZGxvUDAxZGxTamRQaFJ4TGFkNFNwWElFRDZHdV9ZaWFMQXBzSEZIeWtJWG1pT09CRGt3RVpQa0RlbUh5NTFlM3pYaVpvMjF3bWpHZXdCNFhPT1lUSndPa2NrUV81Rmt3b1FtX1ZWVlFjUnp5Wmg4YTc0Q0l5Uy10ZG1HZkJrbzFoeG5UNzNWb2xHZEgtOFVGOHRLX2JNdUt3OHNmejZMR1JvM2c2UWwyUV9xRWRCeUpuM0p5REZvZWdEaDNZUlV3SnZOd2dsWG05ejRKVFVNb01pUmY0UlZlc0tNZndEVG5PWkZfeDBLWjJlV2NzOEhmcldBNURxVkZweEtrSktSMDdrUE5DdVRVbk9YTnRTUEUzclMzdXp6eDR0REhPSnA0cUVFSkF5YU1sZDlpYkdBWm1SV0FucjlrRzNCbWk0czJwalFJaU9pZVRKa2ZmVDBGel8zRk5HaXpYMnVpVFdfQXFPNGhXbnFyY2Y1cExEaTN5a25GZjNMUW5HYXBoNzEzZ1BwMHdVY2dmQ3NQNUUxTWEtM0RJb3RQZEcyMlY4SlVKMlVHaUFaS3VCMGVjdEhaZFFsVWdZODVBYzBLUkgwV040T0R5QXhIaG9saG5vSlMyTmtyYTdlNHRjQ2lpNlQxckRLOTVRd1JqZWRvcWpIYy1zVThjenNfb0R0WUY5aVFKeUZ1UEZRMXRUSmllMDZCd2VNTEFtUkZ5dDVMdTNoeEE3Zml2YmFQSWdydzhjOUMteVY4WUVxa09IWWlyNUlSTGtFcmpOeGJmTkRwQzZ1M01sc0pod3paZzk5NGFtVTQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-16T20:26:43.000Z",
+     "seen": "2026-11-16T22:08:19.426Z"
+    },
     {
      "title": "عطل تقني \"واسع\" يضرب بنوكًا كبرى في أمريكا ويُربك حسابات آلاف العملاء",
      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPMWxFWl8zZ05GejhjbXB2SzE5V25DTE50OVVPd0V6bjM0Mm84WDY5TFpYSDFVMmlKX19Xc3pVNXZMbFF3YjZSY0tqM2ZNQTUtU0JLSkx5S1FWV052eTRSRHlTbno0VVJsbmp6bmdER0JYNG5pNnpxaFE1UWY0aVRiXzlTdEZ3V2VSTE9zZXI1MTdoYUpFVENlbEx3NWJoTDRqcDFjWUEtZlpSY0lDWm9aU2RoWkVZME1uMWs0N3dOMHNjcmZXSjdHREl0VmtWVWRhT1doYzcxOXZ5Ty1rVU9vWkJoa3pCTzR4Q3ZLTnhyZWFEN0dsaEZEc1h0ZXdNYmJ6dV9iLVNMbDlrdzhzNUZZeW9XM3hDc2lYakZjbWxSZGtoWFo1eGp3SVhmejUtRzV6a0QyN1lJRFhzdmxnSUp4X1dOMWdrTXJUUkE3eXhfUHBzeFJIX3QzcXMzUzZxdG9Wc015aHBKQmpIY19KaXJJemI0a2hIWnZGZlpWX2FPVXBNNmt4ZE95QUxXYmFjQVpESkUxeVdnRnpsSmMzWFNaOV90eUhwcHRNVGZnVHhyZXQyUlhaMFBEMTRLQlluM2h5Mms0dnV4bW93NDc4S09UUmJsWmVkcU9JTWtJWnUxTWZyTWhRUmRVdFU4OHl4dnQxVGNoMnU2dHgzNFZoejZjSlRvUmQzSFh6T3dMaVV0V0lpa2YzcjhOX2Q0YmZoQnl4Z24tbVZUVzhsNDdkaU5EN2lSV3U2R2xlWmJSRXJtSXJuZ9IBxwRBVV95cUxOdDUzZ3N4dGRoSk4tZzk0WHhrMXI5eFhtLTBsT21TY19CUUZET1FIM3poTzBhSi1HX2k5ZXdsdTZVd3RIZDAwcnRxWURWX1Eyc25kbkljVUJSUGVIajJHSm9fVEtTOTBaMEY2TkstMDdhano5d0g4TGQyT0pwcEVMTEplOWhIWXI0V0xzQml4eXVxMVc0SEFRcE9QWXJFeG9QNDZBaEJlN2RmblBCeF82R3B4b0huZTQ5Xzd3c0hudlA3cGpBb1BQN1RGRmU0U1dQRXZXcmxudzlmbmlJdFlNM1dieG0zRzdoOVU4NzlFRTVuQVJxekkyWXE0QnNudzg2WUpkb1hBTnFqdGVOVWNMX0RQR2FEZ0I3QkZkVzhmLW1Scl9KQXFneUpDcFRWUGViOHNHQVNVYTJQMnVyWU11Q3pndlJQNWxNbXpnd0toOWlqSVVEMWhLR190ZEhuSXFQeUtRTUVnNVZ0RlRrRmdtUlg0dUhwR2lZdnpuX29sa0thLUdwMG9lRHZWRzkySHNWT1NpVWp1STZ1V216ajdROXlHRkJHRkZuc2VBcV9yZml3RnIweTJrRnZfZF9PcE5mVndxVVpmUmxacmVpOTZvOVRFc1J4X05TSXJwenE4RkJLTzFwMHYtTGFDNUlwZExCQWZmVVExQS13V2hmeHlSMGRCR3Y0NmVGT3JSWldaRlhSNG5iTFloUGNKaW95Z2lBZGVWY3ZXQy15S19yTHN1a2VjOHI0bUlMUHZzMTIxcUxtWmpURi1Z?oc=5",
@@ -546,13 +553,6 @@
      "seen": "2026-11-16T19:57:17.760Z"
     },
     {
-     "title": "الحكومة تدرس مكافأة المواطنين على ترشيد الكهرباء.. نقاط وخصومات على الفواتير",
-     "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOT3lObmtsSk82eks4cVE1X1BTMnYzREJTRWFOcTNtcUM2VnZ1YmVUcGtZcXpETjZ0c1RIRWN3TzhmaDAtWndnXzdaX2k0ZVA2VmJRakNncHpWcUlOVlIyS0xfclFsOFkzamRCLUZldndZVG5GVEQwLU1pWHlZV0VTVVJHdlU5YmxzRmZ0QnpxOEFNdHlTbGRUT3d0dENfOExHSTRNZEZNS0VmNVEtd1dzY0trR1VTSFFNbGRWRVBibU5DNlBGV2JqN3pLTFY5bnhib213VVFHN0NRUmx4eHFMOUprVkZDSW5uek9scGJGWG9ZaVhMUnpCU0x1b055bTRHQlQ3S0J3VEJ2VmUyVV9mY0FlVGh3MmhYYm1yTG9pamxUZjNJRlFvOV9jbE1aZUVVYVFkMzgzQ3R1OXlsamZMWFl0djRoUWJqX2ZjbE8zN3BINjNFd3g0dHFqVmR1SjRCakF3MUNRcENzTlQ0bDZzMlJOcElQUGc5Q1MwYWNNbHpUTDBZVFpEeFltS2xoWDI4Qm9mQlZ0YWstakYtTnpyMzd6NnRqWmIyck5wNjhzbV9PMl9PT3QzTTVLWFNRdmJiVmx1OUdLY2Z0dTZtc1lVeG44WkZCLUU5Vm12UUJDYVFMNlgwc1ZJbXg3SDJKUGdhOWRXOHpINlpoX0M5dDBXaFV1Z2VnMHdRQ2NNZHJoWTlXU0R6YnV2RTRHbmdXTDRpOTFmaVd4bkVPSS1oc1o2eVNvNjk1cm9LUlp6ZWJrV2xjblQ0Q1pYa1R1VnpLaUlvSnJ4dlJsUXF5RjJfaTFiWTFzcldidTdQZWg0Y3ZaM2dfaDZSLXRPUTdCb3FDRm1xYXZn0gGIBUFVX3lxTE14bVU4NXprNExoelJQWUtzNmstMjJud1dtcUZ1bGMzd2tRZzdxLS1Tb1BUX3lZNFdINjUtUE1GanRxRngxdDdqLTB6eHgteGpLd3JaTUhLbU9Yd19YMzdHazNaYmdTT0RBV2NLZGVkS2E4dHh3RDExMWpOUGZsT05rcThFem5nQ2JwN1FEZ3NuckFtVVlxb0xEUXhsaXRLcU04RE5ITDJlSW5kNTVGVzZMSWZPbFg0TEFBeWFkLTBiM24tTlNUR0gyTnJFcWpUQkRmay0yRnZnaUtUX1ZpUmlFVnl4eGRYOFRJOTZVdDNPYkJHb3l4WTJiV2h6UU8teTJVcjFCem1GSXRoQTRfcE9jWWZTdWlQcVJ3V2dKMDVna1AwTzN6T1RlVGQ1S3ZWMEFUQ2Q0QmpNOWZpT1BLVmQ4V1RWejk1cHUtY2xwTi1naHh6NG9BNmROOUxBcmZVTGlMSVlxY0JwNmdHSEN5UFhaRElLcVZ4ejNmMWZNa01xOHVVOTNzNUxLVDh5X3AxSHZEWUZ0MmRQVHJ2eEZVbzVPeXJUMXpZelQwanRDLVFiODZCbzhvcVlmek5vSFVCak5qQmM1V202OVVRY0dTM3o5LUdkek9ZMkZicHdOLWNsS0QySnhzTktNZE5PMHNFSmR1TS0xUHpyT0lDRXRSYy1SY0FvX3R4ZUV5TXBIN2ZTNTg5aExPVWtnYk5ITEd2WDFRRWI4WWFtNkFKU3JVWFRsN1FLSzZnaDFkZExzemt5RWVDZ2R3em1zOTVVeGJ6S2pzbzgxbU9DenY3Uk55ZmN2d2xKRU1IVmIwYWNPYTdIcjM0elJ6VWUzNVdmZV9waHdVQk9qSmM2cg?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-16T11:13:06.000Z",
-     "seen": "2026-11-16T11:26:22.176Z"
-    },
-    {
      "title": "رقم قياسي.. روسيا تدمر أكبر عدد من المسيرات الأوكرانية بيوم",
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOcWhLeU1iWWd6LU1VSkI3SS1kUE8teHp0UmFaNnJnUTZNcXRIMDI2OEczUjdIdHc4d1pTY3A5RGZZS1RyUWk4aUlCT1VLZmlFbHpIOGpIc1FyMG1CaHc0VVZZTjl3X2laWjVzbmt1YW9INWw0Y21oX1VLV1BoS0RyeDFubndkNWI0Q0VER2ltNmk5dWZZdmt5dmg2aE9VQm13U3kwOGJ1bnVMZzNuMjZheUJVX3BzbHpBdlRna1pCTXNQcUZWNmdQQy11TUc4OF9ORHoyRG9rbjhBR3ZNT1Jick5leExhRTBIN0ZSbnZ6YXAtTV9LZUJwZGJhUjAxSjBlSy0xVUdsLU4tYklzajFGZUpHVl9DZVBYRF9EV2Q2TmhtTWdpUi1xQ3JwcFFzZDd6ak1tSUJyZjB6WU1ZLW5MckNPTUlwTGZDSUN3T1RhZGdTR2pROTdyeExsdGg5T0t6ekFHYjRlVGRhVmlzSnoxY3RDSFozZ1NjVVB6WXNNT0NCM3NhTmw1TEEwYmZQbkxyUUY1UFVId2cwSWM2M0I1U3R2OGcxYk9HS1BxSFJzZFJrQmROeFA4eXJJMlRZTUpwWTRNVFVoaFRfa3pLVWo2Q2930gHXA0FVX3lxTE9SUEZqYnIxbjdLVGIwNlB1RW1USmVFekJYb284TW1hM1N0MGxUTVU4dDFCMW9kVzVib3Rsd2owNWY1ZGhsN3c2SzhYcW1IbWNuV1BXUFlCZVNEUmpQdXgwTGFKeU9RdXNidDZ0VjBzaktpS211TUlEQlZhUmVaVEVrUWdxelpjUGtiVXh2TWRzdWNNSVhGR00wc3gxT2hhUXZWRXpaaW5hc2pqWTVBb3RHamJGRHdGSjNUNlVuOUgzWTViN2F0VWdNN2paWWFQc0lOVW1KWEFtNTZ4Wkd2aVcxODRJMURIdS03TFdhTmhMREtFQk9sSmVyeUtURFJmYWlIdGdwM2t5TkxYcmxvLURBTWJ5blJWN3c0ZFJDYy0xWmc1eW5rbEJhejA5d0RzU29VTjlwRVQ1RGtpb3JsMXNRa3p5Rl9GMkVYNVFmNmljbHZsMFBTOEVDZzdDczQzNTZwQkUxR2EtNjZxNGxpR1hRdjVyY1ppMHJobkpGYXMwYnJmYU9qWWN2aHVKTGVRMlZqY3llZDlqVDNUazY4MUVQdWRtWnRLTWNDODh5SmVEa1dMOV9wVEd6VF9GSGpkcmhJak1YVU81V1R3MkRnaG93cnE5bzhTUQ?oc=5",
      "source": "سكاي نيوز عربية",
@@ -563,6 +563,16 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
