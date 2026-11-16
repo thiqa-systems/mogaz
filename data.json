@@ -1,53 +1,51 @@
 {
- "updated": "2026-11-16T14:06:22.684Z",
+ "updated": "2026-11-16T14:16:23.237Z",
  "minute": [
-  "واصل سعر الدولار تراجعه أمام الجنيه المصري في البنوك، بينما أعلنت هيئة الاستثمار عن خطة لإنشاء مناطق حرة واستثمارية جديدة.",
-  "ارتفعت أسعار الفاصوليا البيضاء نتيجة قفزة في الطلب التصديري، في حين أعلنت وزارة الزراعة عن إنتاج أكثر من 4500 طن من منتجات تدوير المخلفات.",
-  "تستمر التطورات المتسارعة في قطاع التكنولوجيا والذكاء الاصطناعي في إثارة النقاشات حول أثرها على الاستثمارات وسوق العمل والمسارات المهنية."
+  "تناولت الأخبار المصرية دعوة وزير الاستثمار للشركات الصينية لزيادة استثماراتها وتوطين التكنولوجيا، إضافة إلى تخصيص 25 مليار جنيه سنوياً لزيادة دخل أساتذة الجامعات.",
+  "تابع الشارع الاقتصادي حركة أسعار العملات في البنوك المصرية، حيث تم رصد تراجع سعر الدولار بختام التعاملات وارتفاع الدينار البحريني ومتابعة أسعار اليورو.",
+  "شملت الأخبار الإقليمية والعالمية صدور أوامر ملكية بتغييرات قيادية عسكرية في السعودية، بجانب حجب الأردن لتطبيق تلغرام وتطورات تكنولوجية جديدة."
  ],
  "ai": {
-  "at": "2026-11-16T13:36:22.911Z",
+  "at": "2026-11-16T14:16:23.237Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T14:06:22.684Z"
+  "key": 1,
+  "impacts": 7
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.63,
-   "change": 0.42,
-   "asOf": "2026-11-16T13:59:19.000Z",
+   "value": 53.53,
+   "change": 0.23,
+   "asOf": "2026-11-16T14:13:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5839,
-   "change": 0,
-   "asOf": "2026-11-16T13:56:21.000Z",
+   "value": 5824,
+   "change": -0.25,
+   "asOf": "2026-11-16T14:06:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6666,
-   "change": 0,
-   "asOf": "2026-11-16T13:56:21.000Z",
+   "value": 6650,
+   "change": -0.25,
+   "asOf": "2026-11-16T14:06:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3870,
-   "change": -0.42,
-   "asOf": "2026-11-16T13:56:21.000Z",
+   "value": 3868,
+   "change": -0.48,
+   "asOf": "2026-11-16T14:06:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1016,
-   "change": -0.31,
-   "asOf": "2026-11-16T14:05:47.000Z",
+   "value": 1.1014,
+   "change": -0.33,
+   "asOf": "2026-11-16T14:16:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 94.23,
-   "change": -1.68,
-   "asOf": "2026-11-16T13:56:24.000Z",
+   "value": 94.07,
+   "change": -1.85,
+   "asOf": "2026-11-16T14:06:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64102,
-   "change": -1.84,
-   "asOf": "2026-11-16T14:06:21.000Z",
+   "value": 64416,
+   "change": -1.36,
+   "asOf": "2026-11-16T14:16:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +137,26 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محمود عبد الغفار: عواطف حلمي فى منزلها وليست بالعناية المركزة.. خاص",
-     "url": "https://www.elbalad.news/7182919",
+     "title": "خاص| اجتماع يجمع حسين لبيب بـ فاروق جعفر لمناقشة تطوير شركة الكرة",
+     "url": "https://www.elbalad.news/7182936",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:05:21.000Z",
-     "seen": "2026-11-16T14:06:22.684Z"
+     "time": "2026-11-16T14:15:19.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
     },
     {
-     "title": "القبض على طرفى مشاجرة بالأسلحة البيضاء في القاهرة",
-     "url": "https://www.elbalad.news/7182911",
+     "title": "حسين عيسى: العلاقات المصرية الصينية راسخة وقوية",
+     "url": "https://www.elbalad.news/7182917",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:05:10.000Z",
-     "seen": "2026-11-16T14:06:22.684Z"
+     "time": "2026-11-16T14:14:50.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
+    },
+    {
+     "title": "وزير الاستثمار يدعو الشركات الصينية لزيادة استثماراتها في مصر وتوطين التكنولوجيا",
+     "url": "https://www.elbalad.news/7182929",
+     "source": "صدى البلد",
+     "time": "2026-11-16T14:14:45.000Z",
+     "seen": "2026-11-16T14:16:23.237Z",
+     "impact": "يساعد المستثمرين في مصر على متابعة الفرص المتاحة وتوجيه الاستثمارات نحو توطين التكنولوجيا مع الشركاء الصينيين."
     },
     {
      "title": "وزير الخارجية يدعو \"الوكالات الأممية\" لمزيد من التعاون في مجالات التنمية",
@@ -160,18 +166,12 @@
      "seen": "2026-11-16T14:06:22.684Z"
     },
     {
-     "title": "مقدم 5000 جنيه.. الوادي الجديد تفتح باب التقديم للحصول على المنازل الريفية بقرية دوش",
-     "url": "https://www.elbalad.news/7182904",
-     "source": "صدى البلد",
-     "time": "2026-11-16T14:02:44.000Z",
-     "seen": "2026-11-16T14:06:22.684Z"
-    },
-    {
      "title": "تخصيص 25 مليار جنيه سنويا.. قيمة الزيادة حسب الدرجة العلمية لأساتذة الجامعات",
      "url": "https://www.youm7.com/story/2026/11/16/تخصيص-25-مليار-جنيه-سنويا-قيمة-الزيادة-حسب-الدرجة-العلمية/7620969",
      "source": "اليوم السابع",
      "time": "2026-11-16T14:02:00.000Z",
-     "seen": "2026-11-16T14:06:22.684Z"
+     "seen": "2026-11-16T14:06:22.684Z",
+     "impact": "يمس مباشرة أساتذة الجامعات في مصر لمعرفة حجم الزيادة المالية السنوية المقرر إضافتها لدخولهم وفق درجاتهم العلمية."
     },
     {
      "title": "نائب رئيس الوزراء يشهد افتتاح منتدى الاستثمار المصرى الصينى بالقاهرة فى دورته الثانية",
@@ -243,6 +243,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر صرف اليورو اليوم الاثنين 16 نوفمبر 2026 في البنوك المصرية.. أسعار الشراء والبيع",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VSk1MaEc4a0FNQm01NzlYbF9mdzZnNkgzLU5zY1ZvdkhwZHFmX1hwOU9uUFpCbmlqbEk1WXdkSm9uX0Rf?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-16T14:07:23.000Z",
+     "seen": "2026-11-16T14:16:23.237Z",
+     "impact": "يفيد الأفراد والمستوردين المتعاملين باليورو لمتابعة أسعار الشراء والبيع وتحديد تكاليف معاملاتهم في البنوك المصرية."
+    },
+    {
      "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
      "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -255,21 +263,45 @@
      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOcm5Kb1daZGk0UUNBODZqbkxYa3RfZURTcW83ZlFPbzJrQ2hkZkNDQUNCYVZiWl9XVm5DRnRDWDJGT29NREJyMU9RUktEMHZnQTU3NDR2UW9jdWcxeUFEdXUwY1ZrQzJFbDkzT2NJNXdCSnNJNEo2NFFBQWl4cUZNcE5EVlVEd2NqMzZEVUlWem14Q1NId3AwN1dwRmNONUNGSU1EVXpmcEpnalVXeTljVGRhNldOUVRiYlluVkRfU3p6WHFrUjNvY2ZWSVp5LWFGVWlLaV96YU1sTmhRS0t5TEJrRC1LalQwdDhxYzVTbmFGM0FhRWdpTlhFRHpucjBieUh5RlAzN2pMTFY2WGx5WnNMLURNakhXa0NYandHMnEtazNfZFZlR3F1QkdMUkJrMHNpak1xcnNkOG1uZzc3RzVPMldEZld4dU5PeTVvMzJWbGNtLTVkMjBUX1RJSjZFS2Y3Rl9kNlBrNF9VQzAyS0poby1idw?oc=5",
      "source": "جريدة المال",
      "time": "2026-11-16T13:58:03.000Z",
-     "seen": "2026-11-16T14:06:22.684Z"
+     "seen": "2026-11-16T14:06:22.684Z",
+     "impact": "يوفر للأفراد والمستثمرين في مصر المؤشر الرسمي لمعرفة أسعار مختلف العملات أمام الجنيه."
     },
     {
      "title": "سعر الدولار في مصر اليوم الاثنين 16/11/2026.. تراجع بالختام",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQjVTbUhwdFdRVHJvSlpTS2UzVVU3MmhQWFk5Y1MzSE8tckl6cDBXM2tJbVdCNnJqazBHeUFMVXhBb0tvMXJQOUNzRkVoRmx4UnZ5UC1R?oc=5",
      "source": "جريدة البورصة",
      "time": "2026-11-16T13:51:10.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
+     "seen": "2026-11-16T13:56:22.907Z",
+     "impact": "يهم المستوردين والمتعاملين بالدولار في مصر لمتابعة حركة السعر وتأثير تراجعه في ختام التعاملات على تكلفة الواردات."
     },
     {
      "title": "ارتفاع سعر الدينار البحريني مقابل الجنيه في البنوك المصرية اليوم الإثنين",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43LWtqRGJpSy1HTGtVWUpuZGFzak8tMEJ5aDRwdFFXVjF6dFNrZlVGQXkyOFozQnVzYmY1TnFiTEZxeVo4VE9n?oc=5",
      "source": "فيتو",
      "time": "2026-11-16T13:39:00.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
+     "seen": "2026-11-16T13:56:22.907Z",
+     "impact": "يهم المغتربين والمحولين للأموال بين مصر والبحرين لمعرفة التأثير المالي لارتفاع الدينار مقابل الجنيه."
+    },
+    {
+     "title": "«تصديرى الصناعات الهندسية» يدرس تنظيم بعثة تجارية للبرازيل والأرجنتين خلال 2027",
+     "url": "https://alborsaanews.com/2026/11/16/2006818",
+     "source": "البورصة",
+     "time": "2026-11-16T13:29:28.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
+    },
+    {
+     "title": "الحكومة تبحث تخفيف أعباء الشركات استعدادًا لزيادة الأجور",
+     "url": "https://alborsaanews.com/2026/11/16/2006814",
+     "source": "البورصة",
+     "time": "2026-11-16T13:27:07.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
+    },
+    {
+     "title": "شركات هندية تدرس استثمار ملياري دولار في الصناعة المصرية خلال 2027",
+     "url": "https://alborsaanews.com/2026/11/16/2006797",
+     "source": "البورصة",
+     "time": "2026-11-16T13:25:47.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
     },
     {
      "title": "مواد جديدة يصممها الذكاء الاصطناعي قد تغير مستقبل التكنولوجيا",
@@ -285,30 +317,6 @@
      "time": "2026-11-16T12:29:00.000Z",
      "seen": "2026-11-16T12:36:23.208Z",
      "impact": "ينعكس تراجع سعر الدولار أمام الجنيه على تكاليف التمويل وأسعار المواد والسلع المستوردة بالنسبة للمستهلكين والمستثمرين."
-    },
-    {
-     "title": "الطلب التصديرى يقفز بأسعار الفاصوليا البيضاء إلى 80 ألف جنيه للطن",
-     "url": "https://alborsaanews.com/2026/11/16/2006757",
-     "source": "البورصة",
-     "time": "2026-11-16T12:25:48.000Z",
-     "seen": "2026-11-16T13:16:23.106Z",
-     "impact": "تؤثر قفزة أسعار الفاصوليا البيضاء على تكلفة المعيشة للمستهلك وتزيد من تكاليف وأرباح العاملين في التجارة الزراعية."
-    },
-    {
-     "title": "«هيئة الاستثمار» تخطط لإنشاء 4 إلى 5 مناطق حرة واستثمارية جديدة",
-     "url": "https://alborsaanews.com/2026/11/16/2006759",
-     "source": "البورصة",
-     "time": "2026-11-16T12:24:05.000Z",
-     "seen": "2026-11-16T13:16:23.106Z",
-     "impact": "توفر المناطق الحرة والاستثمارية المزمع إنشاؤها بيئة جاذبة لتأسيس الأعمال وتوسيع المشاريع في مصر."
-    },
-    {
-     "title": "“الإسماعيلية للاستثمار” تخطط لرفع محفظتها إلى 50 عقارًا خلال عامين",
-     "url": "https://alborsaanews.com/2026/11/16/2006722",
-     "source": "البورصة",
-     "time": "2026-11-16T12:21:56.000Z",
-     "seen": "2026-11-16T13:16:23.106Z",
-     "impact": "تعكس خطة رفع المحفظة العقارية لشركة الإسماعيلية حركة النمو والتوسع في سوق الاستثمار العقاري المحلي."
     },
     {
      "title": "كيف يرى دويتشه بنك مستقبل الاقتصاد المصري؟ توقعات الدولار والفائدة والتضخم وتدفقات النقد الأجنبي",
@@ -328,10 +336,10 @@
     },
     {
      "title": "هل تسقط \"إنفيديا\" برحيل رجل واحد؟ - مقال في واشنطن بوست",
-     "url": "https://www.bbc.com/arabic/articles/cw4gnle7k1ndo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T11:32:23.000Z",
-     "seen": "2026-11-16T11:36:22.120Z"
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RVFdpVGdMSHVEUEl1S0wyNmdMaktkOHRFZlFYRWFweVIzci1KSWRnSUg1TmgtRmJwNTRvWWJPV2hzaXFSei0xNHVESkVuUkJzRmQzQTdWRVJVUERyX1HSAWNBVV95cUxOalhaRDIwR0EzclhXZXFiNHFpYllqVk8xRXZfS3I5MlU5NjFzM3ZqVWhNaEM1TUgwS1ZiUmJiaXhDYXJrRDVoREtuQkNqWjBrS3RJbUNHbkcyUnozZXpIaFpCM1E?oc=5",
+     "source": "BBC",
+     "time": "2026-11-16T11:39:07.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
     },
     {
      "title": "بعد تدفق 615 مليون دولار في يوم واحد.. هل تقع مصر في فخ الأموال الساخنة؟",
@@ -340,14 +348,6 @@
      "time": "2026-11-16T10:52:06.000Z",
      "seen": "2026-11-16T11:06:21.962Z",
      "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة أثر تدفقات الأموال الأجنبية الكبيرة على السوق والسياسة النقدية."
-    },
-    {
-     "title": "بين 48 و60 للدولار... صراع الشرق الأوسط يرسم مستقبل الجنيه المصري",
-     "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNR1lxdXFrbDRKVzUyQzAyVU5XczlTT0RHX0VVY1Bhek1ZWGtZaEc0aTNJdXpkcE1lRjk3RV9waDFDa3k3NUdWNXM0bHNxMHUtbGJuX3JuaTlkMl9EVGJNN2ZHakpjQkJEeUJwT3JmN1haejAxYWJTajBZdFZUc0FKV1ZMQU04NVJOR3VoLU5aWW12aURxbVdOZDViSDNmTTZrMHA3VEdjY0F1MzdNZnZTVGo1amZvVU9LZkdNUTBKcTc2OEUzT3RsbGh3bjhDMWo0VTdlRlR4N2xydy1UbFFKMGxnTy10OHoxNWVHV0xremprSThCYl8xMFJlY283a1VzOXpwQnVJR0JTTWl3MzdCZlB5c1NkZXpKREV5OHlVOWFXZ19EN29FTmxCMlFDcTR6Nl96eWtKaGlKSzF1RkRMbkU1UjliMWlBSkh6dFV1eTY1OVotd1RtZ0tBYnFSNnFMM2dLdC00dDBZWExjRGI5UHZyT2lsTXdlUUdfVkg5c1lmaVphNEZWa1J6UGFKSjNrRk1NT1pXYnBOeURyanh5bDFCNng0bkx5dmN3SzA2ZkwtbFhPY0ZBd1RWTHF0bkRTYTNleUFQV2Q2bS1ZbjUwS2VfeXhIaFFqazhQaloza2FtanRTemFJV0t5NGpPamxQR0xBSHJpdEZBckFOS19Eb2YzbDhUaEUzZldzQ0dEYmQ1aEhPeTlGRTB1VFNnT1N5THVYakc4bXJKR2ZsZ3duZmZoZlZkNHQ2T01wS2dWdEFjN1A2S1JTTUMwLXV6RUdKOHd6ZGNESnVHNzF0Zy1tY0l2ZklIWk54UXpYMktVdnpGSnJhRFdJMmhHMi0zUDJ2SHpHMUFEaHU2TGpBdlNfeg?oc=5",
-     "source": "اندبندنت عربية",
-     "time": "2026-11-16T10:23:40.000Z",
-     "seen": "2026-11-16T10:36:21.726Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة توقعات حركة سعر الجنيه مقابل الدولار في ظل التوترات الإقليمية."
     }
    ]
   },
@@ -361,6 +361,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T13:50:33.000Z",
      "seen": "2026-11-16T13:56:22.907Z"
+    },
+    {
+     "title": "عراقجي: التزمنا بالتفاوض لكن أميركا اتخذت مساراً آخر",
+     "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxONXU2VEhhRUJveVJDaWQzMTJUcFB2MTdvTTJnSVlGa00xX0ZsVEtwZVVvdlhtREFWUXpUTlkwMDJJWnpSM2lwVWd3R19Fdmc3TDJOa2lJM1ppOU5kamNTLTZBbkxvUVQ5Um52TDR1bEtjcTBLMjB3X0h4dGw2aXdDV0VpSkNNWGtyeFpGal8ybExzYzJtY0xaal9VSTNrOHhGYjlEaFRrdktGN1A0WjNqR2ZnNFJrZ0dUMDFvUXpCQUc4STRlb3doLUp5d0FrZVlFSlkwYmcyZi1EU3lvcVAtWjRzM2NVS3Q1bWVROHlaMTZadWRYcVE1bEU1SXF5Z0RHcVl1VDdjTjNwZG9XSi01dlFKNHNSbFJKd25nMGtwUDR3dUNfTV9JblVsRG96dnN1bHhNOGtEeEcwWDhNdnBFdVhfMFoxX1FYWldBUU9OQVVTaWRXZGNNY2hMYlEwU2N1ZVI5YWlOMXBVY19VVk40YkkxR1pMUU5UWWFtOXJpaWFGWm1DYTYzMEZSOHBBT0tVdkN1ZU9JM3RhTGY0bk5lNDBFZG15S1BzUmpsTVJ6Wk52OVZqblHSAbsDQVVfeXFMTkU0V3d3TkQ5dW5XbkZEc24wTXZ5b2Y1TEhzV1lxSVMzbEIwM2lhRmdqTHpOM3pCRUF5djNWZy04UUxRanRxY2VqRk5GV0RabE5KVW1IdVFka3hwUDBfR3lRbEsyeVBzTEV4dWdCWmYxMDFWWVRfWV9lTThSRE1WTXhqRlNiT1NyNDJJM2tVUmRwOVppVlpZZU5yMXk3VjJXWWRwUGxmd3RieVZLTDZoMlA5Q2I2QjlVbDZvTGtmWmc5eHVpYklvT3ZBaUhfM2tvcWozLVpFRGVlRVp3QkVSbGRxTmxMdTAyRjBobTVwNGM3QjI4b0tISktPU3dVb0dpQlJrUFhOYU0zM0k0MUxjdTA1VHZvSzkxbHF2WkY4RXlsTFV6dWU1Vmozd2JEWHYwNmJ6NEZwal9JYzhLTmZWSnl2UDBVRDl0OXlkdE83eEhyclk4MTgxWmsyWTIzdkVFS0lyWHNkVHJ6cVdGcldING15MklucGhlU2hhSzF5Yks1TFVOdzJJQ0RZZXZ1bVdsb2czenA5UTJfZUtvUmR3RGNsdHJULTN4WEg4MWZxMVZZR21PMFlXQ0ZPaEk?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T13:49:25.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
     },
     {
      "title": "السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية",
@@ -377,7 +384,14 @@
      "seen": "2026-11-16T13:56:22.907Z"
     },
     {
-     "title": "التحالف في اليمن يعلن اعتراض مسيرتين أطلقهما الحوثيون باتجاه مكة والمدينة",
+     "title": "آيزنكوت: نتانياهو لا يمكن أن يبقى «دقيقة إضافية واحدة» في الحكم",
+     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOWXJJRFM1NHFtcjNSWEtkUDRQeE1nTmx4ZGFsWm5FR1ZhVktJR0hXMDdzOGNyLVNySnlSVGhDX19OcGg4MU40MFFHQTAyUnRHSVpLckJPZGMwcFlmbklLeHUyOHNGSFlMa2lKV3Rjdm9uSURJcXBjTnlwZjZWeGRseWxjVWVrRVVNQV8ydHpTZi10ajdZb0h6UnB0MGRlQmxRUjZsZHF0Z0R1MlllNlhCaWlYd2s2ZFpzS1ExYnFTY01HUGt1Q2dCbWlhOU5XZEhXVmlNRjVxXy14UXlNRlNNZmlXUy1GWUU2cWNFZ1B3N0cxbGpyNlcwbjd2Zjd4WXFITlcxckg4Z3pvcUZZNzh4bXpfQVdZYUw2V3BxN2hYZWxsamlmSjRNczVVX05FQXFPM1AxSEl3ajJyRW9YOXNCOHcwUEZBUDFhVVFZa2RRQmZEOE5xeWJiOFVuNDF4ZW5FNW9EWHdzNklQUjZ4OTAtN2pzaWd6TG1MZjFzMnEzWnNGYjJWUWZCRGt4U2djbDhPVTNaSFR6V1RLaEI4eUphTEFiTzJYTDdpbXBvMlgxb0JvOUoxNURQVlBIazVqV19OX2JLQ0w2a050cWZXZVNhejgtN3NKcUNjdU51ZV9RMmVudHQxbnNmaW9WeEdzRnNiUkVUZTFlcnFBQTdYZUlEMUJaRUluV01wTk1rQjNUc0E4amd1VE5PYzhmTVBEQzJxcXcwamRLVFE2SDFQRW1aWThzaFdqU1Y2?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-16T13:39:30.000Z",
+     "seen": "2026-11-16T14:16:23.237Z"
+    },
+    {
+     "title": "التحالف في اليمن يعلن اعتراض مسيرتين أطلقهما الحوثيون باتجاه مكة والرياض",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/the-coalition-in-yemen-announces-the-interception-of-two-drones",
      "source": "CNN بالعربية",
      "time": "2026-11-16T13:37:05.000Z",
@@ -433,25 +447,11 @@
      "seen": "2026-11-16T12:36:23.208Z"
     },
     {
-     "title": "مساجد في الأردن تبث أغاني وردة الجزائرية بدلًا من أذان الفجر.. ما القصة؟",
-     "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxPTWI1bmx1YzJ2cU5jeU1JZFgxbHN5bVZjMUtZY0g1SEFSNWZFUHdrOG04N0hKU09wSlAwRmliNUFOWlEteFMzdWRDTUNib2ozSWY4c0VEeVU5MTBMSFJ5MEtHb3dWbHVieFRaNDhMc3oxWHZJYnBaWWNhdXNoTFNKUnh6aVdBaTE1NU1Tblh3MTVsalRJUjJKMjBzaG9qX05sdzRvVmVyTEtvbXI3eHIta2UtbFBfdWQ0dXVpXzRzZENRVFdrb1d1bkktSzJsUzREWHRCQ0Z2dFFuM3phU055bHN4cXZXVk1TZGFFSmF4dEJtZ1ZQT3RYN0hKaUZpdzdKN1VIcjBUbGdZY1F3dU5ubUdzWUdOQ0t6OEtPU2FVMy1JZWhBRHFPelA3S0g4OW1QckZkdVNnOWhpTWxWLWViVEFZTEhVeFNTYXhMOHJIVVJfYWRnUXQxWWxSMjhEakpxM0ExbTNKVjlIcFV6ZjJua3ZsVzVNQ21lWi12b1p0MTlBUDVEQkh4Uzl6OVhOUy1TVHJNY0M1bF9ZWDdTN3dKLUVaZG9LaHNWM18wU3lwNEtrNXlleWdFZWtlLVM1YzFNTnVydzJUZDVSS1ZKdmZLeTV6YUxYWDc5RU84QWpJdmdUZ0ZhN1FzX0h4SDRxZmhpeFdUUEUtMV9MdFdqU2llSFpCT1A2RFhwVi1OSV9mSFpEelpGUmFRYmJVMXBxd3BJTDFRa0wxLUwzR3ZiMS1PY3ZsZkNBaEw1Uk9pYzdIMHdRSjR4QU5FSkV1cW9JandrWWQw0gHYBEFVX3lxTE1OZzJYQzdvcV9HdVlhWHlvM2FtVHBJWXJKRnp1bHFYMnpYWGZ4ZU1sUFZpU1VQMGNFM0hRWDBPUFdkNTRBSktRYWRtVE1DWURMbmpCeDV5SWRmTU5YYXY5YVFsRTc1RHFySnB4VzBacWFIRTROLXQ0M21lOHlzOGRxdkkxM1JhOUtBS1VpV3V2NXNrdkdaUGh0QXhlX29fSFV3eTc3LU1PcGV1YkJYRTdoQmxBUmlEVVJpZEk3U095NC01Y0hUdUVEUnpSeER2SUxjSERhV1FucXYzblFYQl9Hbm5BalhobEhuY3FEbFhienEzQ1NfZktERjRYbHR2M1dYcjFlRThTU0I4LVhDVEtyLW9EZ29DbTZKZk5ySnhSSkU3aWhPZXd5YjV4OHVTZmN0X3BwUldUMVFZTENVZGY1QVlMZksyNlpRVmVMOVVBT3p5TUtGeTJ1c2NfWllIaW5BNFFmdXFWSExGWGllY0pTMkxnZHFwUE5kMWlaVjI2SVdvVFZ4UTdITmFiVEVIam1NV3ZySEVVaFFrZi1fdXBJcjJidU93SjB4Yl9qLWwxak9jYzRZN1VjdkdGTmE5WU1NOFFLa0NfYTFjbmdJVkxlclFrbUNYNUtnUlhrQlI3dVljX1VnTGNDRzRsRFJrUzZySmNMY3U0aWRoend5Vk5ILXZ6cmZtRnMwMkY4aDVYQ01kNEU5QVZDejFwZXh2TnR5TDZxb0p1OFdOMHhjd0hfOGVGdDN3ZFZNdGktQzBwRktnQ1pkZUtVbHBXN3RRMGdyOUpzak80Vg?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-16T11:26:25.000Z",
-     "seen": "2026-11-16T13:06:23.166Z"
-    },
-    {
-     "title": "حقيقة فيديو طرد أحمد الطيبى لإيتمار بن غفير من الكنيست",
-     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQal84WXFMNGlUSWNiOWxFNkFyZmZyTkxBZXZaMHN6SHlpdnRkUnBPeXgwdFgxOTlseTMzNV82MXpsYjFiU3MtVVhockN1WlNfOV8yWGthM0Z0RENuTURMMmZicEZlQVMzcGY5WFhPd1dOa3NXbmhjQjlQWDB2Q21mVWJudVBiYl95Z0JfUDJTUjFUZFVTWm1pbTJpM1VUbHY3YTQyUlllc1Zud2s2Nk1mTk11MDhMMFJHUE5WRXFqT3FKOVpSWVV2dUl1N3Y2bi1iNjlKTDBkUXpaN3lqLTdxcWxudjQ5ZVhndnZiU1pGMFZOc3IyeHVCS3FrTFZydm9QVXNxRGlhbmlpSjlycHZpaVhRaTRkYjZlUnhhWENRRmg4UUlqSXZPbWZsamJDMUVJOXNqbFloNi03X2hldGlOZEVDZ1pyM2J4dkQ4WmJ2blBXWTNFVllJTnJCdWh6bWpmWWJjOWZQNlBYRkhza2U2NDBQTXA2TzI1bm0yZUU1d2F2ZGtSRzVSTzJZRC1zd1ZtQk1jSUpENEE2Yjh0RkYxSUhCSEhla2Z2b0VFMENpWU8wNG9nTml6Ykt4QTVrLVpHTFFweVFpYTJKenh4VWFN?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T11:22:00.000Z",
-     "seen": "2026-11-16T13:06:23.166Z"
-    },
-    {
-     "title": "ضباط إسرائيليون يحذرون من «الاحتلال السخيف الجديد» للأراضي السورية",
-     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxObjdOMmdneGxPd2FPTDJfcE8zSDNxZWtlcHYxaXRVa3laeGdzUy11SWJpN3RSdF9wUUlBSGRvZ2NGLWJnaVdyMFRTaGlGZjZvMDV6eS1aQlpweGZIc3VfVlVZaGFUUjMzaWFQTkx1ek9HdElJYjFkUkpCZ1ZrN1prNmJ4M29VcEpZMUw5d2pWRVE4STl0V3RjcVBNUkxiTndwc0lPSjRNNElxVGo3UEtFcWhvdVBqbkRyWl9ZMW8wZjExRVp1aTB2QnZ3SFp0aGlmaFdiWHRGLXpkOGFLbng0a3VaelRrOTZNYWRzUFNIMG9aZjJSdFluNURVSktXLW80OE85Q3JvamtNUW4wUGt1WTh3M0FreS1Zc2R5NHl2SlR6ZlAzUDRMX3VoOVlqWEdBQVdBMnQ1QXZwQ3lOYkRpS043T0JrVEdCYUVJbGhJQzY5X1BCcXRIRVBrNTVIWGRiQ0lCUWtjMDlyaU9vOXlWMVBuVnBobTlYMUdyN0pLVmVtLUR3cFhoZUxYTmNJSzR5eE13cklPRTBuRkltd1RBNVNIWkpQQjMtVVpWMVpjdFpLdkJxdGNhM1UxcG5xVmE5bUtUcDdZZVBaQjZpTl9ydW5SSm5HRzBXQk5DVzNra3daVzZLM2YxLUR1ZlE0MF9rbjFRemdCUTVIZVV0ZDI4b0NBMzROb2ZMQXVOaGVYVF9rZjBuY00xeXpQNDVDVnU1U0pCNnZ0bE91VUktLWJXZE8xX3Y4TlJhSWJ3UEdWS3pOMEN4SGpTa3dCWF9OTmo0aHp5R1BieFkyMVV2azYteGdHZmtPdw?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-16T11:09:48.000Z",
-     "seen": "2026-11-16T11:16:21.828Z"
+     "title": "هل تسقط \"إنفيديا\" برحيل رجل واحد؟ - مقال في واشنطن بوست",
+     "url": "https://www.bbc.com/arabic/articles/cw4gnle7k1ndo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T11:32:23.000Z",
+     "seen": "2026-11-16T11:36:22.120Z"
     }
    ]
   },
@@ -485,7 +485,8 @@
      "url": "https://www.bbc.com/arabic/articles/cm62p3x05xgwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-16T10:41:39.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
+     "seen": "2026-11-16T10:46:22.180Z",
+     "impact": "يهتم به الأفراد والتجار الصغار الذين يعتمدون على تطبيق تلغرام في التواصل الاجتماعي أو تقديم الخدمات والأنشطة التجارية."
     },
     {
      "title": "رقم قياسي.. روسيا تدمر أكبر عدد من المسيرات الأوكرانية بيوم",
