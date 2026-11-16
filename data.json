@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:24:29.843Z",
+ "updated": "2026-11-16T01:34:29.592Z",
  "minute": [
   "تتناول الأخبار المحلية في مصر أسعار صرف الدولار ومواعيد حسم الفائدة بالبنك المركزي بالإضافة إلى مواعيد القطارات.",
   "وعلى الصعيد الإقليمي والدولي، تتواصل التطورات الأمنية والتحركات العسكرية مع صدور تحذيرات للمواطنين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T01:24:29.843Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T01:34:29.592Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5859,
-   "change": 0.35,
-   "asOf": "2026-11-16T01:14:32.000Z",
+   "value": 5861,
+   "change": 0.38,
+   "asOf": "2026-11-16T01:26:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6690,
-   "change": 0.35,
-   "asOf": "2026-11-16T01:14:32.000Z",
+   "value": 6691,
+   "change": 0.38,
+   "asOf": "2026-11-16T01:26:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3875,
-   "change": -0.29,
-   "asOf": "2026-11-16T01:14:32.000Z",
+   "value": 3876,
+   "change": -0.27,
+   "asOf": "2026-11-16T01:26:26.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.102,
-   "change": -0.27,
-   "asOf": "2026-11-16T01:23:47.000Z",
+   "value": 1.1024,
+   "change": -0.24,
+   "asOf": "2026-11-16T01:35:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.27,
-   "change": -0.59,
-   "asOf": "2026-11-16T01:14:22.000Z",
+   "value": 95.34,
+   "change": -0.52,
+   "asOf": "2026-11-16T01:22:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64682,
-   "change": 0.86,
-   "asOf": "2026-11-16T01:24:29.000Z",
+   "value": 64778,
+   "change": 1.01,
+   "asOf": "2026-11-16T01:36:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "قمة ثلاثية تجمع ترامب وبوتين وشي جين بينج في الصين.. ملفات نووية على الطاولة",
+     "url": "https://www.elbalad.news/7182298",
+     "source": "صدى البلد",
+     "time": "2026-11-16T01:34:06.000Z",
+     "seen": "2026-11-16T01:34:29.592Z"
+    },
+    {
+     "title": "4 من 10 لمجلس الإدارة.. هشام نصر يرد على حسين لبيب: تتناسب مع طموحه",
+     "url": "https://www.elbalad.news/7182275",
+     "source": "صدى البلد",
+     "time": "2026-11-16T01:30:00.000Z",
+     "seen": "2026-11-16T01:34:29.592Z"
+    },
+    {
      "title": "لجنة الحكام: لم يصلنا اعتراض من بيراميدز على حكم مباراة الأهلي",
      "url": "https://www.elbalad.news/7182294",
      "source": "صدى البلد",
@@ -151,20 +165,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T01:19:00.000Z",
      "seen": "2026-11-16T01:24:29.843Z"
-    },
-    {
-     "title": "عموتة يفرض السرية على تدريبات الأهلي قبل مواجهة بيراميدز",
-     "url": "https://www.elbalad.news/7182281",
-     "source": "صدى البلد",
-     "time": "2026-11-16T01:04:52.000Z",
-     "seen": "2026-11-16T01:14:30.231Z"
-    },
-    {
-     "title": "سيف زاهر: لا يوجد تحركات رسمية من الأهلي لضم أي لاعب من زد",
-     "url": "https://www.elbalad.news/7182290",
-     "source": "صدى البلد",
-     "time": "2026-11-16T01:04:15.000Z",
-     "seen": "2026-11-16T01:14:30.231Z"
     },
     {
      "title": "مرصد الأزهر يحذر من التطرف الرقمي: الذكاء الاصطناعي بوابة لاستقطاب النشء",
@@ -253,11 +253,10 @@
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNWMzNWYtWUFDMFFtbnJXY1A0SzVnZExHVnFXS2NkQzJiVEtjSmNaeEZ1bVBOd09rZFVjRGdmS3lxUVJOb2p2dk9XRWpaTWFPZm5hLVpvRE5SaHNjZVNFZ3pvNWNRNzFZMmpmZ1RDSjVxSTdubDlGdEx2QUxxMV91dXRCeDVWYWZWZl9jUHNmMmVDbE5ndklPd0ItbHBYbzJxb2FwM0loMGI4eEljVGt3ZnhkNVc4WEtwdjJrLVh0cmpaaWxabHdqN3pYekZ6anI5Qlh3VjFhUWRBRjA3dDZEd1NNTnYta2NBdkdyLWU4RlB2TlNYLWVjU3RWNlJfaUtTa1RyU2VQSDJRanlWbHhyVy1KZXRzbmczRDU5UGFWS0F6Q1FRWldWOEQxR3lJU2EyQXZMLS1TNERRUWtRSHpTYWxZVzJ5VzlSTXUwNllpVkFYTlNLUHRZM08xbnFDVHJZMXFaQ2Z4SVVzeGpybDA3RzNuT1ZvZEkxYzdMMk5aWEotakJXQTFPX2tXc3lvbktEX2IwOEJlODdmY1BOZnRtT2NxanFSMmlZQjRpZ1ZxZmItYzljb2Vqd1VvQ1ptM0xEbHlGYmRJXzZiMmdwbTVqZkdLZE1LU1RCQ2dQNXV4dWgwVzdwel9B0gHiA0FVX3lxTE4zbDBxdDlBdGNEMzhNR2FndlBrcjkydVBnUGNlOFJrQm43R0xsQzFpOXZueDhlSlNRbkJNYjZ1VWlPV1NqUl9YVmJ2SUE4U0ZVODZ1N0ZZSEZFT0QyQzllU0FHeUxwanNsSHF5MlBGVkpzN3VvZl8zTldydEdZNm41YkVtdmVLQzhNUUJsQ2gyVXN4QldhZG1JSHdfTlFINXlqZlZoRHJBNXltRkZQZ09UN21aeXM4T0pkTXFFWllYOTlKRm5DX1htbVROWWdPc2EyaXpkODlORk9aSTBEZGdZSm9pMlR2Zks4cHlmSkUycW1Ya3VVYXhZc3VLUlJTYVZ3b2R2c0lQRGVjSUJOdVhraDNhZXNob0tKa3FMcGNMZ29PVHJnRkNvbEFMWDJiREpSSUxZUTBBM1N6N1dRWm9zY2J6SWF2ak41T01xVmxDNjZ0eVlEeFIybGVONUE4eFZEdnVEaXBsWk1FZGxhUXpKUHJSUkpnTEx5dl83Rnd1dDZLak9JbU1mVktVeTBuc3ZJaHJuNFBjZGg3UmZwNmtrZ1JfcGJpTnhRT3dqcDRac2R0cW1fcjQ2R0pqNDZER0Fpd0M3aVFBRXRiYkZnRlhMZGhaSS1zRmtiOUs4QzRqLUV3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOM2wwcXQ5QXRjRDM4TUdhZ3ZQa3I5MnVQZ1BjZThSa0JuN0dMbEMxaTl2bng4ZUpTUW5CTWI2dVVpT1dTalJfWFZidklBOFNGVTg2dTdGWUhGRU9EMkM5ZVNBR3lMcGpzbEhxeTJQRlZKczd1b2ZfM05XcnRHWTZuNWJFbXZlS0M4TVFCbENoMlVzeEJXYWRtSUh3X05RSDV5amZWaERyQTV5bUZGUGdPVDdtWnlzOE9KZE1xRVpZWDk5SkZuQ19YbW1UTllnT3NhMml6ZDg5TkZPWkkwRGRnWUpvaTJUdmZLOHB5ZkpFMnFtWGt1VWF4WXN1S1JSU2FWd29kdnNJUERlY0lCTnVYa2gzYWVzaG9LSmtxTHBjTGdvT1RyZ0ZDb2xBTFgyYkRKUklMWVEwQTNTejdXUVpvc2NieklhdmpONU9NcVZsQzY2dHlZRHhSMmxlTjVBOHhWRHZ1RGlwbFpNRWRsYVF6SlByUlJKZ0xMeXZfN0Z3dXQ2S2pPSW1NZlZLVXkwbnN2SWhybjRQY2RoN1JmcDZra2dSX3BiaU54UU93anA0WnNkdHFtX3I0NkdKajQ2REdBaXdDN2lRQUV0YmJGZ0ZYTGRoWkktc0ZrYjlLOEM0ai1Fd9IB4gNBVV95cUxOM2wwcXQ5QXRjRDM4TUdhZ3ZQa3I5MnVQZ1BjZThSa0JuN0dMbEMxaTl2bng4ZUpTUW5CTWI2dVVpT1dTalJfWFZidklBOFNGVTg2dTdGWUhGRU9EMkM5ZVNBR3lMcGpzbEhxeTJQRlZKczd1b2ZfM05XcnRHWTZuNWJFbXZlS0M4TVFCbENoMlVzeEJXYWRtSUh3X05RSDV5amZWaERyQTV5bUZGUGdPVDdtWnlzOE9KZE1xRVpZWDk5SkZuQ19YbW1UTllnT3NhMml6ZDg5TkZPWkkwRGRnWUpvaTJUdmZLOHB5ZkpFMnFtWGt1VWF4WXN1S1JSU2FWd29kdnNJUERlY0lCTnVYa2gzYWVzaG9LSmtxTHBjTGdvT1RyZ0ZDb2xBTFgyYkRKUklMWVEwQTNTejdXUVpvc2NieklhdmpONU9NcVZsQzY2dHlZRHhSMmxlTjVBOHhWRHZ1RGlwbFpNRWRsYVF6SlByUlJKZ0xMeXZfN0Z3dXQ2S2pPSW1NZlZLVXkwbnN2SWhybjRQY2RoN1JmcDZra2dSX3BiaU54UU93anA0WnNkdHFtX3I0NkdKajQ2REdBaXdDN2lRQUV0YmJGZ0ZYTGRoWkktc0ZrYjlLOEM0ai1Fdw?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-16T00:00:00.000Z",
-     "seen": "2026-11-16T00:24:29.740Z",
-     "impact": "يهتم الأفراد والمستثمرون بمتابعة سعر الدولار أمام الجنيه لتأثيره المباشر على تكاليف السلع والخدمات في البنوك."
+     "time": "2026-11-16T00:00:29.000Z",
+     "seen": "2026-11-16T01:34:29.592Z"
     },
     {
      "title": "موعد الاجتماع الأخير لـ«المركزي» في 2026.. متى يحسم مصير أسعار الفائدة؟",
@@ -266,6 +265,13 @@
      "time": "2026-11-15T22:31:49.000Z",
      "seen": "2026-11-15T22:54:29.968Z",
      "impact": "تفيد معرفة موعد اجتماع البنك المركزي المستثمرين والمودعين لتوقع قرارات الفائدة وتأثيرها على الادخار والاستثمار."
+    },
+    {
+     "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN3g2NGUybC12a0JvQU9vanJWV2toQ0JkT2VZRnk3Ql9OZnQySVZ6Ry10RlpYUGVYRzdQUXdYU0Nac1RCZ2hJdGYtY2o4S19DcTVmVnBRVV9JMzhfVzR0Q1ZudFBtcHpzdXVmRWM1UQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-15T22:26:55.000Z",
+     "seen": "2026-11-16T01:34:29.592Z"
     },
     {
      "title": "التنين الصينى عالق بين ازدهار الصناعة وركود العقارات",
@@ -345,13 +351,6 @@
      "time": "2026-11-15T19:48:16.000Z",
      "seen": "2026-11-15T16:12:09.618Z",
      "impact": "يهُم المستثمرين لمتابعة أمن الطاقة الإقليمي وتأثير استهداف خطوط النفط على الأسعار العالمية والمحلية."
-    },
-    {
-     "title": "بعد استقالته.. جنسن هوانغ يناقش مع حلفائه العودة إلى قيادة \"إنفيديا\"",
-     "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNS3BwWjkxR2VBODhIUnF0YTRGTTlCRGItUXMzVklZX3RTbnNlNlVWSG5aekd0ekdObG92YWl6OFRzQU40bzRiUjlsd0N0dDBJbjloWl8xZHJPeFhCSzhPellwamtNcE1ULVVfcDRRUU93RmV3QkhiYWRieTA5Vjktb3hLdWk1SzlGcEM0UEY2dlRidkpvWHB6LUYzbjRKbGQ5NFlnV25NWi1oNzB4SzZvNkMydXlQaVdzSXRKNDhYem5feE5YZzhpRUYyU2ZFUFplQ0hvNllMNld5eXQtMzdGQXJsdHo1MHRXUlp4NHZJSjQ5ZDVDN2o3OVBneEpYWEh5LWVIcGNlN091WDZscjhqS1NnQk1FenoyN0VrVkJmZm9CRFJIZTNMN2pibHp6YXJwX3JXWng3U3o2S1RJd29kWHhyTU9heW9hMkUwT0dBaFpEbEE4QnpUM0dkX2hYcnVUckNxX3YwUERrQlpOdmZaLUZYNmNTUnVqZ3JxTG16OHh4dnJoY1VVS3QtUXNnVkxEQ3cxUnZMQkRGdkhTVF9DSlpmNVRETzc5Ty05NWtpTE9pWjk3d1Q0bldZTmlsY3VROXMtVG9mdnZGVDVoYVRrMEU1aVRzQjMxY1hlQXdmZk5rVVlFUE5oanRtQlZBelJmTjdZV3d5alQzZEpoNjlvdkFBV01hWml3REJVSV84b3lUX1ZwZDNlYVJ6N0lNZEVJV0k4M0d6YVBrcC1wSEg4bXRsc1R6UkRjaUNHaWc0SWw0STBfcTRzdnhJcnZZY2gzcHZLOEZJdWlYcC1iX0p5VDc3UzBpZUQ0OG45TWJlTGZQLUZQWjhKT2pianRZNkdXYmVDWGVkaUY2Y2pTSWt2UmxZVEJpX1oxVUkwaUdWQjlxdEcxSzVKRENUVTfSAbIFQVVfeXFMTllTQUxsYmdVOHZzVWFCd2RpSlJWUFlxNnNLUWg5Tmo4Z2RYdEJFRGx2WlVOMldkS1QwbXdDc01Ja3J6VllHc0wySElaSEMtUE83dkJpWmc0MG1KYkZpVURyWDV2TnotMlJ5ZEdDc2xYUklwYUtEMjBfeUF2MEdZSlpMOU1Ba2ZMbjVaRjluQThrMllvbzZHNVZ0bzRNWXRKd2ZoYUdYbDJsRXlqZmpLQ05oazVZOG9US0k4QzNQaU9DOUhDcExCSkIzd1NTWUg0WXZLdVR0djV1TDhWeGNQR2UzclNWNTUyUm90eEo5c2xBTkpjMWhlM041S3FzV3ZSM1k4SXlZd3FaVFJGOGhGOUpEUU5hanBhdzZlNE9KbDdYb0FEMXJHZXZfTng5QUo4bGJRX1BqQmlpRG8zY09zY0lfYTd2VE9wSjA2QnltaGNOakpJclhlM0p4SXI1QVpjejdHemkxR0twNU5DdjQtTi13elBhZkc1eHVacEtCaFo5SlR6a25wQnE2WElYVDVwTUllSVItVlQxYk91WnFLMzZjTGlJSW50RVk3SHM5dGoxTzQ2MnZLQXBZRkkyQTRBVFNEbFRTSHJWZnZaZk92YmtSRk1zenV4SFJWMGJROU5FRV92YVVvZ09CaGxrTGllZW9uQV93aTVfMUJLWFowWGt4bXhqcFVhRU15UWxOWHdDeGFVUXgyUzdmNVF5ZGRpLTBDZmlWTFlya1hIc2gtY0hSZE1yXzU5X2tLN2VnNS10TG9MUVh4M3pzT3BPZHpwOHZabGtVY2tkOExmeXpkdHZ1a19tcWdpemJfUWN1dTFOM1pwalVtb1Z6eWVoWDRSWTNteHZsWHhPVVN0V205Q2k3MnlnX25XYlpXazFOTS1ScllXNkg1LVNEcWxpUXNMU2Jn?oc=5",
-     "source": "العربية",
-     "time": "2026-11-15T19:38:00.000Z",
-     "seen": "2026-11-15T22:24:29.761Z"
     }
    ]
   },
@@ -538,6 +537,13 @@
      "seen": "2026-11-15T23:34:30.138Z"
     },
     {
+     "title": "\"هواوي\" تكشف تصميم هاتف Mate X8 القابل للطي دون الإعلان عن مواصفاته",
+     "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNYkZ1dUJpdjQwbm9oZ09BMlZibGxRNWd6VWhrUlFobC02RF9sSDFXVzEyRWt0cjdCWTF3cUgxU24tNVZ5WHJ5U1BZVEhaM0NZUmVhWG5TT3hTTmFfN09BaTFXM1I1SjV3b2hQN2lvWWRXNFZsMXBnZ1BOTkUxbWRETVlDdzNRd1JnQ2RxV19oeW9DSjRnV2FVUXhvMFp4OFNGdUZsTlJ2WDdUN3Q3S3lsTFdSQ0MzblduWVhJMHhlbEVwV2pmLWg5LWpWdHRHWlBpSzUyUTBGMDY2bWxxN0YzcUJRNHB6U0VtMGFBWFptSVc4QWgxZkV1bTJLNzZoODFySXBydEpnVF9JcndLNUdNdHlwa3Q2dXJ6SnVzTThtSzVfMm1vYWN5SWo4T2U2Mzc5UXRLZ1E2RWpLOVdOVjZNUXc0dHZUdzgwLWxsLVplTWVZQ0Nqbk5TblV2LXlvXzNDTXk2RTZWYTB6TUVtdjE1NjN5aU84Yk1wNlgxcGdfc1ByMGpFUE1BYk9kT19tT3NLQjQycmZZQ2tBWkZMalNteFJqM1FxV2NpRGs2dUVwc2FjU2cyRnhQcElzTTZxTHRtTXVXbXBkUVJIbGJzOF83a0k0VXJwTXMwR3BxZF9uTXhEVkpFM2xobXpZaXVHUHF6QmJ2YlgtaDl6cVJMLVVtdnNJclrSAYoEQVVfeXFMTmNvWTh3czVXZ01SbDZOdWlWNkRlWWYwVjBRcEM3V0ZhTGFqTGhodUVRaF9aTU12VXc5dlRma3BIakdLMlgxWUZVcmtGTm5Od2UxTEpmYWVFYk9aR1FQR2ZZZllvZkJLelR4SGV1cEtfNzFMZ1B2SENEQlF3cGVPTjd6MjRheU45dVlwNFNGQWdxWV8xMGlGTHFQaHExdVFUNTF3TzBYamJBN1hxMkZDc3ZYOHpUcGs3ZW9tRVpLZm1EU2JvSnlZa29fbG5VXzZxNHVERGM5aWdBSDhXWWVHVEVDM1RrZ0dpZWZnTFdTWFNRdlRFSDN1bjkzX1cxaVJ5MEU0eS1uaVBwTG9KVVI5VEZQSDFrZHRHVHhsNmdiN0pPSHcxUEd4UzZWRUpHWlhJWE4wZVB1cFhjc3h2OVFfTXZLbUJlVVFNQmJtREtQUU9qMEMtSjBBZ29IMUM0a1NTb19QU0w5bEZnaFFDZjJGbDFjRk5OekxLLXVKLVRhbUtmM1JEM0hmY3FIY295WVRiYnNNZmlwLVpEQ3lidFZKbU1RcFFJekxabEpsbWVLWi1xQnJYdGV6d0FMbWcxelJLN2lScktkVHh6VzZwdlc3MjdhWHNjQ1Vfam1fbkVwd3c3U01tMlFOSk5hU2swYmE3VXo3YUIxdmxuUVdtb0xiOTZZQTc0RF83Z05n?oc=5",
+     "source": "العربية",
+     "time": "2026-11-15T14:18:00.000Z",
+     "seen": "2026-11-16T01:34:29.592Z"
+    },
+    {
      "title": "مشاركون في “كوب 31” يحذرون من مخاطر الذكاء الاصطناعي على ‏الطاقة والنقل",
      "url": "https://sana.sy/international/2636222/",
      "source": "الوكالة العربية السورية للأنباء",
@@ -559,13 +565,6 @@
      "time": "2026-11-15T13:22:00.000Z",
      "seen": "2026-11-15T16:22:09.353Z",
      "impact": "التحديات المتعلقة بالغش عبر الذكاء الاصطناعي تنبه المؤسسات إلى ضرورة تحديث معايير الأمان والنزاهة في الاختبارات."
-    },
-    {
-     "title": "دون عجلة قيادة أو دواسات.. تسلا تفتح باب حجز «سايبر كاب» بشروط غير متوقعة",
-     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNam1ZT3p2N1pyVHdEZEJlN3o3T3Bmd3pJTGRoWWxpdzJLUUJRa29qLXRJNkY3Z2FFRzNPMXFURTd0VF9iamR6ODdxWFVoT3FpbUJ0cHhaeDJ1TERNeTZJTDFuQzMwTFdNUDJKcGdBNllPa3hjOHdCb1pDZkxSWWVtUTNOTlN2R0hIWTRSX2hUYlZRMzQwdDN1QldYcjR6MEZBRHppYnN2d3BTVXFpaE10STlRNmZQcnhxeU5VMXhRUGQyWUp2b1lXXzNPSzBOSXEzVzRfNVp2NHpTY05maWlBQWpiZEhCRVlOaFBkUGpEa2VpTUlYb0NEcjc3UzZSZ01Jc0ZjM1ZYaDhEMkRPdWtQd1ZvT01abG8wYlh2dGU4ZVhGQmZnNUF5OWxEQjZac2ZiUkpQT1JMUXdNUWlhY3M0VzFfZDBXLUl1VjE4Z0ZBVlJ0czFuRUtlMFFHaW5abm5vLUVNVUxoYVpGcmxyZEtTRm1PWXY2dVZVRUd5NXNhdG8xbGNiX2ZLN1JoVUhRVTVodFZLVEJPNWFVQzE3OV9hZk9JdjJFeWvSAaIDQVVfeXFMUG9wNHJ1R0ZjUldraG5NRG5Ba1d1bEdWbUNxUlJWMmVFWEdYdWhpck9TQ0FiWlVnVC1UT0ZFajhyNURBalJKRDktYUdEekRCa3hYaUlnMmppdUlkLVAyR1F0SDRtLTJJOG1TUE9YVkV2QmQ0OHVodEVnbml3UVY1Mm9GM1RycEpwYjRiVktjWkFwUnpaOXFteTUtRHdvQmRwSkZOVU9aRGN6Qm5Ld05QWnlBVlJZZTczbEdBX2hVSGhsWHEwYzM4eTd3VUs0NUFGbkYxNmlWX3gtcElCMXp4R1BLNFpGMC1OSXludi1hQlk5NF9LNVBtY1lJbVFQdVFNaDRob0dkbE9Jb0RFYmVacXlMQjYtanF4Qm0yU3lmTjA5eGlhWFRmMjh5X2QwbXZvY05EeEthMzJkS0Nra1dzOU1wYjNvNlY3OWZraS05b1BvY0xYU2lQTlkzREpvcmF5M204cE9pS3M4TEhxSTlQY2lRc3ZiV2JIcTJBdmZqdVVsN2x6XzNHb2tOTHBpS3h5MXlQc283YVJLNnRLdkVBbmlfZw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T13:00:00.000Z",
-     "seen": "2026-11-16T00:54:29.585Z"
     }
    ]
   }
