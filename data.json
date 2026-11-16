@@ -1,53 +1,52 @@
 {
- "updated": "2026-11-16T12:46:22.626Z",
+ "updated": "2026-11-16T12:56:22.813Z",
  "minute": [
-  "تدرس وزارة الصناعة المصرية خطط التوسع مع شركات هندية بالتوازي مع متابعة مؤشرات تدفق الأموال ومستقبل سعر صرف الجنيه.",
-  "تتجه القطاعات التعليمية في مصر لإعلان مقترح لزيادة دخل أعضاء هيئة التدريس وتقديم برامج دراسات عليا للمعلمين برسوم مخفضة.",
-  "تتواصل المتابعات الإقليمية والدولية للأوضاع السياسية والميدانية إلى جانب مناقشة قضايا انتشار الإنترنت والتكنولوجيا."
+  "اعتمدت وزارة المالية المصرية زيادة مرتبات هيئة تدريس الجامعات بقيمة 25 مليار جنيه، بينما واصل سعر الدولار تراجعه أمام الجنيه في البنوك.",
+  "استعرض دويتشه بنك توقعاته لمستقبل الاقتصاد المصري من حيث الفائدة والتضخم وتدفقات النقد الأجنبي، كما عرضت مصر فرصاً استثمارية بالنقل على الشركات الهندية.",
+  "أعلنت شركة كيما استخدام 2.59 مليار جنيه من متحصلات زيادة رأس المال، بالتوازي مع متابعة أسعار الصرف بالبنوك.",
+  "على المستوى الإقليمي والدولي، حجب الأردن والعراق تطبيق تلغرام لدواعٍ أمنية، مع استمرار التطورات التكنولوجية والميدانية."
  ],
  "ai": {
-  "at": "2026-11-16T11:56:22.213Z",
+  "at": "2026-11-16T12:56:22.813Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T12:46:22.626Z"
+  "impacts": 9
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.63,
-   "change": 0.42,
-   "asOf": "2026-11-16T12:45:37.000Z",
+   "value": 53.68,
+   "change": 0.52,
+   "asOf": "2026-11-16T12:46:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5843,
-   "change": 0.08,
-   "asOf": "2026-11-16T12:36:41.000Z",
+   "value": 5847,
+   "change": 0.14,
+   "asOf": "2026-11-16T12:46:35.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6671,
-   "change": 0.08,
-   "asOf": "2026-11-16T12:36:41.000Z",
+   "value": 6676,
+   "change": 0.14,
+   "asOf": "2026-11-16T12:46:35.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3873,
-   "change": -0.34,
-   "asOf": "2026-11-16T12:36:41.000Z",
+   "value": 3872,
+   "change": -0.38,
+   "asOf": "2026-11-16T12:46:35.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1013,
-   "change": -0.34,
-   "asOf": "2026-11-16T12:45:46.000Z",
+   "value": 1.1016,
+   "change": -0.31,
+   "asOf": "2026-11-16T12:55:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 94.85,
-   "change": -1.03,
-   "asOf": "2026-11-16T12:36:35.000Z",
+   "value": 94.83,
+   "change": -1.05,
+   "asOf": "2026-11-16T12:46:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64149,
-   "change": -1.77,
-   "asOf": "2026-11-16T12:46:39.000Z",
+   "value": 64075,
+   "change": -1.88,
+   "asOf": "2026-11-16T12:56:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +138,27 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محافظ المنيا: نشر الوعي الأثري والسياحي بين النشء يعزز الانتماء",
-     "url": "https://www.elbalad.news/7182791",
+     "title": "المالية تعتمد زيادة مرتبات هيئة تدريس الجامعات بقيمة 25 مليار جنيه",
+     "url": "https://www.elbalad.news/7182815",
      "source": "صدى البلد",
-     "time": "2026-11-16T12:44:51.000Z",
-     "seen": "2026-11-16T12:46:22.626Z"
+     "time": "2026-11-16T12:53:52.000Z",
+     "seen": "2026-11-16T12:56:22.813Z",
+     "impact": "يهم أساتذة وهواة القطاع الأكاديمي في مصر لمعرفة حجم الزيادة المالية المعتمدة لدخولهم."
     },
     {
-     "title": "الرئيس السيسي يهنئ لاتفيا بمناسبة ذكرى إعلان الجمهورية",
-     "url": "https://www.elbalad.news/7182803",
+     "title": "كامل الوزير: مصر تمتلك فرصًا استثمارية واعدة للشركات الهندية بمختلف قطاعات النقل",
+     "url": "https://www.elbalad.news/7182807",
      "source": "صدى البلد",
-     "time": "2026-11-16T12:44:36.000Z",
-     "seen": "2026-11-16T12:46:22.626Z"
+     "time": "2026-11-16T12:53:46.000Z",
+     "seen": "2026-11-16T12:56:22.813Z",
+     "impact": "يهم المستثمرين والشركات العاملة في مصر لبحث فرص الشراكة والاستثمار في قطاع النقل."
     },
     {
-     "title": "«الأمريكان بيقولوا الآن وإلا فلا».. اللواء عادل عزب يكشف تفاصيل تسجيلات محمد مرسي وعبد العاطي",
-     "url": "https://www.elbalad.news/7182792",
+     "title": "عبدالستار صبري يُعلن تشكيل منتخب مصر 2010 أمام الجزائر في تصفيات شمال أفريقيا",
+     "url": "https://www.elbalad.news/7182809",
      "source": "صدى البلد",
-     "time": "2026-11-16T12:44:28.000Z",
-     "seen": "2026-11-16T12:46:22.626Z"
+     "time": "2026-11-16T12:53:44.000Z",
+     "seen": "2026-11-16T12:56:22.813Z"
     },
     {
      "title": "المجلس القومى للمرأة ووزيرة الأسرة بالمالديف تستعرضان جهود دعم وتمكين المرأة",
@@ -247,21 +248,24 @@
      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNN3Z0Z2J1bXI2WnlEZ1ctSFF1cEY4cjBlYkhNcmFpWnBad1dMdEhQaHFTVHdUWWpWM1UwUzE2YUdQQkNGWDYtd0x6dE81eFNoLUNMTFhXS1I2T2lsRXgwZGR1QW5sVW1FeUF4aWRhdEM2bUdZTmpzVjhBaGptWUwxbVZabmtXdE5NdnU3QlNZS0pvUHltMjlRaWwyaXFsUUVzVWRnYUdwVzRvOTAtelY1V3kyRnJCNjI2N212OVRvY282eXQwdXdlZ2JjaVdDRlJuOEk2NnRYTnFLUkpzQXhyRHNRb1RfbHRoMEZET014dkxoY2RkbkZsaER4NkNIOWt0SXlqMFdwR285Q1ZLN3VsOXNXMVYwYjYwR0diLWVYV2ZLbXBkdjZRV0xOaFZwck5FTTVRdjY5U0sxVER3V2J0MjZxZWMzemJTcVpReW9mX2MyS3VwNmpGUktCWHU5ZjBTejVsY1JxNFRnT0Q4NmNJd3NfSm1Za2ZYVWljVmNJRkRrVV80cDBZdHoyM1FWMC1KUzdyUEJCRk1JWll5SmhmRVBzSklORDRpU3I0aFVXUThRLUZyVlZLbENUc004bHJnSzBldlZVWDN4VDdhZElIb3FsSXNsaTRUNk5iUXlxR3pGMVJUdkNoTnNKMVZKdFh3S0FCNllzUUFsYllQcFFXbzZrOHBjaEXSAYIEQVVfeXFMTk9WN3IzczBxU2xZbVJZMEVRWktkcEJncWxpTHRObFVnZFVoWkZ2MzNxU0Npbjh2UnhxN1JFY2tmS2tHS0ZmeXd0azMyNW1sQzJOT2NlTjM1REtFSTlzdnA5cmhVVG1mckQ3UG1QR3FrU3VQT09wdnhyVG5Wd0RPbHFQQ0dVdURXaFJBY2tCRDRnMExHOWNFeVFiLThnNlMzSVpTa0VxVW12Z0xqM0hpbTR3QVVUYnFiV09mU3ZKQnl4cUdqV0ZfUFFWY3FiSy00VG8xSDRpWmVMcVVrQWMtY0JmQ01pT1RSZnlldFRCWE5wMkNPN19yQldKdWt2cHBRR3hRTVlRRm93Nm9acjIwTFo4UXIwTTJNcE94Wk1nTUQyNnoyeDM4WW5UZlRoWnJ6WUk2dGJDNTgyc2RielpEMTYtZUU3UUpZSl84d0NpUEdWaFVfWHdGemI0SzlZWUpDSmNzU0o2Z00yMWJZeDE5M0haU20zUTQ1TVh0RXNHVmw0WW0yQU84QXhBMlQ3a3gwU3VRcF9kaXY4SVlMRlhqc0lScDNZNVM5SVItb01kN0ZLVF9VVV9nVWM2TEdRQ3Z4aFNTUHVmandIWjlXMUZsWWlOdllsWDlMMFVTVWM5X2tScXJ2QkNjVVJnSGtiTlBtSmZJaS1wc0VwZ3h2dmdjbjJ3QQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T12:29:00.000Z",
-     "seen": "2026-11-16T12:36:23.208Z"
+     "seen": "2026-11-16T12:36:23.208Z",
+     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة انخفاض تكلفة النقد الأجنبي وتأثيره على أسعار السلع."
     },
     {
      "title": "كيف يرى دويتشه بنك مستقبل الاقتصاد المصري؟ توقعات الدولار والفائدة والتضخم وتدفقات النقد الأجنبي",
      "url": "https://news.google.com/rss/articles/CBMimgZBVV95cUxOOGZ4OV9uRU9vLWliRThqRlFNbjNZbldZLXFpMDBtODJGRXFYYS1iVjUzZENvbzNPQjhuSWJtaWltWG4wajZpUExQSDljcTM5czBJUGxIRndWbmpXYmYyeUVRdUlNemdNc3hwSF9mWmJKRVliY2xXaXI3N3NQYl9KZHpUdzVGUWxyVU5OdzNpb2oteklVNUFiR1d5d2lLcV80R2FGSjRHUExQOUlxOGc2UUc2ejZyVnlWLUU2Z0ZYRFozTC1rOEQ4dm1jRG9vLUJOS3JmYktfTkI1cWtZVnF4S3UxV3NpVmh1QWFfNkdaTExDeDJpcUZWT2NJLXNnanVNdU9xZ3NHWDdaU3NRMXlGRUlxOEtzTDNtelhuelJ2WDBIZkVVMU13UkpHYkhNd3NteTMtMGY2N1ZUdS1IQU5TSlBTTExLMWk4NE50dURnSl8wd3hHS1p5bWRQVGhaSUpTbmJxSEUtYXQyVHlySVRQc01Idm9oTmZIdDZXRUNOT0lMWlJRbkdsTzk1U0JwYXFwTUZ6ak5NY2JDVGh3YjNsQ3ZDajJQRlAtM2JrVUxuOEU4cU9YZm9HUGY1SmJNTGlubHhZS1ZqeThxOVFCWHZ6TFp3b2dWVFB1ZWN2WnZFc3VoWGt3bTlBN3dXOEN2NEd0bmZ6ejQxM1V1MjlIS2k0bExoUEcyWTVtSS1JRHBoMUQ4V0o4TmhPd0g5dklndldTTkE3Ym5qOG9jM2pfWlFXWXMxck9YU1ktY21PbG9walZTMWxscTY1MzdQRGpyRTQ2SmlDMEFmdlA2YzdPcGFyNnQ1OG9vNWZCU3VvZ2NFalpsUkI5UTQ2eUxtdFRWR05hYlkzM2w2cDlBdEFobkg3amYxSi0wRDFyWjdwTENxb0c1emtrRU01Ym82eFV4RFdqX0hZYXhabHAxT2JSQ1hJdDNZT1ZWRE1wWXV5d1NjR2gxQzZ2RWRENHZVTUpKYTZxWlU0ellIS0I1NWNJOTRneXdkNU5QNHl2NUdlenpOakxQNGFRVVRMMXl6OEhBQXdLekxQTWQxTVFnZ9IBnwZBVV95cUxPMng0MVJzVlBNX2JqOHR2MWJsVmkyVXhqZG85TzJMbWJXSUxXV2RTM0NfUDl0SEY1M1lrYUtpT1NPV05zMldxNGtiR3pVaEFUT3BWQVpBSUtMaXpqZThDUDZzbWtpUy1OREhwOTg3M1lsTEFhR2QzakRKamhBak9nblBfOWh0WDhUUjYxazlpWTRGbnlsMlhXV2JXWlBpeVU5NDFiNGI0U2NxWWtIQ19vN2pCaGhwZlBLV0x0MUxheDZHc0hCNnk4bVRVWlEydk85SllJcW1lNGZmNFl4LTlGNmJRaDZxRVhJZGNGZ2p2alRRWFVCY0U1MjNSR3E0N3FuV1VpdUxKeDNqSXZDTTlILV9MNDgyVXNUS3VtZW00aW9GdnBaaWs2M1RGdjl5VDR3V3FnSTliZWRBWEYxV1hNT1g1UlE1TU9xRlliTE5icDA4ZVV4U2dZVGV0dzY0ZzVYU3FkTE1Ra25DTFNheFkxUEdiTTZWQjhxTzFlb1A3STh3aU9RU2NPejlJM2l0dXdUdHV5OFMwVHZLNDBPMm5EdXQxVEMyYTRUa0hjbDBHc3FQZlBqRVMzWGxvdUZPaXdhXzNtOWZlcTNIc3NkblFJSU50N1BBRjBrbldaRXp0SzZJNFJEeC14bXJPajRmZEtIc2x2SVBlaG9pQnBDMWU3YUE2ckFNc3lkbllPaGQ0aVNzLXZ6OWdvb3QxMWhDNmh1dHZDSTFwdVk0RVFoTVZkaW84b3E3dkI2eVBpRmNvUUxhUFFzY1pnLTFLWl9XVDFxZndXUWhnTHFPZzNpZ3pqVXZFblN3dXFsSDFXeDZiaDdEdnNqanhFZVI3VjBNbjdaM1NEZkRWUGpWbGNGSDJzSF9weWhYOGstcmt5TlhzaW5rNFgzU080REc0cXdZNDNFSE91N0FncG92TmZhS01MTXJLU2ZHb2haLUlnUldQbG5VR3k3aTZENC1UZXA2aW9NMHhyR0Z1Ui1zcWNneU1JYW5BRlo0VDh0UVNrWFJSSmhSUjB1ak9hRUtXQmVtS1BJUFBZd3BMMFh2YVJkY2hV?oc=5",
      "source": "Masrawy",
      "time": "2026-11-16T12:14:50.000Z",
-     "seen": "2026-11-16T12:26:23.007Z"
+     "seen": "2026-11-16T12:26:23.007Z",
+     "impact": "يهم المستثمرين في السوق المصري لتقييم الرؤية الدولية حول اتجاهات الفائدة والتضخم وسعر الصرف."
     },
     {
      "title": "سعر الصرف بالبنوك نهاية تعاملات اليوم الاثنين 16 نوفمبر",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52R1hWdU05WENqQkNrd1FQQk5GUW96RkkxOGR0bW1iRjhKbFFtc3dsV2NPSXY0eGxXSFZJYnlSMXdCbHU0SnY2cTRoMlIyMTZVUlBmTQ?oc=5",
      "source": "الأهرام اوتو",
      "time": "2026-11-16T12:00:00.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "seen": "2026-11-16T12:06:21.750Z",
+     "impact": "يهم المتعاملين والموردين في مصر لمتابعة مستويات أسعار الصرف في نهاية التعاملات اليومية."
     },
     {
      "title": "هل تسقط \"إنفيديا\" برحيل رجل واحد؟ - مقال في واشنطن بوست",
@@ -275,7 +279,8 @@
      "url": "https://alborsaanews.com/2026/11/16/2006691",
      "source": "البورصة",
      "time": "2026-11-16T11:29:07.000Z",
-     "seen": "2026-11-16T12:16:22.375Z"
+     "seen": "2026-11-16T12:16:22.375Z",
+     "impact": "يهم المساهمين والمتعاملين في البورصة المصرية لمتابعة إعادة توظيف رأس مال شركة كيما."
     },
     {
      "title": "عوائد السندات البريطانية لأجل عامين تتجاوز 5%",
@@ -356,7 +361,15 @@
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%AD%D8%AC%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%85-%D9%84%D8%AF%D9%88%D8%A7%D8%B9%D9%8D-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-16T12:40:18.000Z",
-     "seen": "2026-11-16T12:46:22.626Z"
+     "seen": "2026-11-16T12:46:22.626Z",
+     "impact": "يهم مستخدمي التطبيقات الرقمية في المنطقة لمتابعة القيود والتطورات التنظيمية على تلغرام."
+    },
+    {
+     "title": "\"الملف المغلق\".. العراق: الجيش سيدخل منطقة جرف الصخر بعد أزمة تهريب النفط",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/iraq-army-to-enter-jurf-al-sakhar-area-following-oil-smuggling-crisis",
+     "source": "CNN بالعربية",
+     "time": "2026-11-16T12:33:41.000Z",
+     "seen": "2026-11-16T12:56:22.813Z"
     },
     {
      "title": "برلمان ليبيا.. إغلاق مطار الزنتان يربك جلسة توحيد المرتبات",
@@ -377,7 +390,8 @@
      "url": "https://www.skynewsarabia.com/middle-east/1905093-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AD%D8%AC%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%85",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T12:10:02.000Z",
-     "seen": "2026-11-16T12:16:22.375Z"
+     "seen": "2026-11-16T12:16:22.375Z",
+     "impact": "يهم المهتمين بالتواصل الرقمي والتجارة الإلكترونية لمتابعة اتساع نطاق حجب التطبيق إقليمياً."
     },
     {
      "title": "الفرانكفونية.. حين تتحول اللغة إلى قوة ثقافية واقتصادية",
@@ -436,18 +450,11 @@
      "seen": "2026-11-16T09:36:21.426Z"
     },
     {
-     "title": "بارعة الأحمر تكتب: عن الدولة المؤجلة.. هل أضاع لبنان فرصة بناء الجمهورية؟",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/lebanon-opportunities-for-state-building-oped",
-     "source": "CNN بالعربية",
-     "time": "2026-11-16T09:35:49.000Z",
-     "seen": "2026-11-16T09:46:21.497Z"
-    },
-    {
-     "title": "تقرير: إسرائيل اختطفت جنرالين إيرانيين لكشف مصير طيار مفقود منذ 40 عاماً",
-     "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPdHBlRFJMUDJiRUFfQUQ4a29Jdk9vOERSZEIxVW0tTjYzZ3dTdDJ4dkc2cDFBRVZXWGM3RkFDeW9nY1FPRHExMUtla0ZjYmJVMFlYZFZuNWQ4N0xwVE1oZ2h4TWdtbC02UTNQd2MyR0dWQ2ZtQldfbjM2TGdZUlBvVEJkQjYxejZuYi1UaklKZEFCUGl2b19WR2JEOFg3M1RtaWFFU2RybWZvWk40ZFRNNUdxczJUYnc5RmdWWUhaQzRQRXdQUG5HdjhwTWx3MnEwMnU2TGttaFVJVFJmc21TdDVTVWt1bHBFbzR5NVplMllKeGFyNzZ3MmN3RlFjX0gxMkdqbkJTVWQtd3AyVkxhWmZOTUtDQ3lpR1UwMWxVRUllb1dsUUNkX2VTMTBzS1NsVmx5R3ZUNnB0WTJLUWRHbmVCbDBFb3RiWDE1a2k2Q2hhWm5HTDc4XzljMUJ3U1ZEQnNoZHl0eXQweDdYWHRmYnRlMERQSFhaU0M0bVJVeDZvUE81eTAxYmdGb2NUVy1ub1Q5cDduY0VlcG5FM2YxUWt5V1JiUnJxekRCMUE2N3JERzkydHJQMXNKYVhRSGNpN0lDYVNBTjVGc1l4VHU5TXJUODBfc0VhOVZvMUM2akZwN05GZGpSd01lUnhUcnVaZV85bkl3UEs0OVE1R1d1YlJuSlozak80ZnJNQVNTbjc0TzF6Tms1bFdUT0dmcHhBLUY4TG1IM1pKT29rZTVyRk0tZlJZbGZPTkRnb1dmWlVNNTRHQllaZXEzYU8tMWE5TnhFY2phaDBOMmwzZGJDZk96NVZmMHBiRnJGbHlXYXBmdGdKa3BXajRvZDg?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-16T09:30:08.000Z",
-     "seen": "2026-11-16T09:46:21.497Z"
+     "title": "سيارتك الكهربائية تعدك بمئات الكيلومترات فكم تقطع فعليا في الصيف؟",
+     "url": "https://www.aljazeera.net/motors/2026/11/16/%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%83-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a6%d9%8a%d8%a9-%d8%aa%d8%b9%d8%af%d9%83-%d8%a8%d9%85%d8%a6%d8%a7%d8%aa?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-16T09:41:00.000Z",
+     "seen": "2026-11-16T12:56:22.813Z"
     }
    ]
   },
@@ -475,7 +482,7 @@
      "source": "BBC",
      "time": "2026-11-16T10:03:48.000Z",
      "seen": "2026-11-16T11:06:21.962Z",
-     "impact": "يهم العاملين والموظفين لمتابعة تأثيرات الذكاء الاصطناعي على استقرار الوظائف وسوق العمل Global."
+     "impact": "يهم الموظفين والعاملين لمتابعة تداعيات التكنولوجيا والذكاء الاصطناعي على أمانهم الوظيفي."
     },
     {
      "title": "الأمم المتحدة تبحث كبح جماح \"الروبوتات القاتلة\"",
