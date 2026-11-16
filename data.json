@@ -1,45 +1,42 @@
 {
- "updated": "2026-11-16T08:34:45.880Z",
+ "updated": "2026-11-16T08:44:45.511Z",
  "minute": [
-  "بحث وزير الصناعة المصري مع نظيره الهندي سبل تعزيز التعاون الصناعي المشترك، بالتوازي مع توضيح ضوابط تطبيق الحد الأدنى لأجور القطاع الخاص.",
-  "استقرت أسعار صرف الدولار والعملات الأجنبية مقابل الجنيه المصري في البنك المركزي والبنوك مع بداية التعاملات.",
-  "شهدت المنطقة والعالم تطورات شملت إعلان الأردن حجب تطبيق تيلغرام، وأنباء عن تصعيد ميداني في اليمن وأوكرانيا.",
-  "أطلقت شركات تكنولوجيا عالمية حلولاً جديدة في الذكاء الاصطناعي والمركبات ذاتية القيادة وإدارة العمليات المالية للشركات."
+  "تتابع الأخبار المحلية أسعار صرف الدولار مقابل الجنيه في البنوك المصرية، إلى جانب تحديد مواصفات امتحان العلوم لطلاب الابتدائية.",
+  "شهدت المنطقة تطورات ميدانية شملت انسحاب قوات يمنية وسيطرة الحوثيين على مناطق بساحل البحر الأحمر وباب المندب.",
+  "أعلن الأردن حجب تطبيق تيليغرام لأسباب أمنية، في حين أطلقت شركات عالمية تقنيات جديدة في الذكاء الاصطناعي والسيارات ذاتية القيادة والحلول المالية."
  ],
  "ai": {
-  "at": "2026-11-16T08:14:45.524Z",
+  "at": "2026-11-16T08:44:45.511Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T08:34:45.880Z"
+  "impacts": 8
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.74,
-   "change": 0.63,
-   "asOf": "2026-11-16T08:36:38.000Z",
+   "value": 53.7,
+   "change": 0.55,
+   "asOf": "2026-11-16T08:46:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5837,
-   "change": -0.02,
-   "asOf": "2026-11-16T08:26:55.000Z",
+   "value": 5833,
+   "change": -0.09,
+   "asOf": "2026-11-16T08:36:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6665,
-   "change": -0.02,
-   "asOf": "2026-11-16T08:26:55.000Z",
+   "value": 6660,
+   "change": -0.09,
+   "asOf": "2026-11-16T08:36:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,35 +44,35 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3861,
-   "change": -0.65,
-   "asOf": "2026-11-16T08:26:55.000Z",
+   "change": -0.64,
+   "asOf": "2026-11-16T08:36:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 52313,
-   "change": 0.24,
-   "asOf": "2026-11-16T08:21:56.000Z",
+   "value": 52276,
+   "change": 0.17,
+   "asOf": "2026-11-16T08:31:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1019,
-   "change": -0.28,
-   "asOf": "2026-11-16T08:36:46.000Z",
+   "value": 1.1025,
+   "change": -0.23,
+   "asOf": "2026-11-16T08:46:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 96.33,
-   "change": 0.51,
-   "asOf": "2026-11-16T08:26:57.000Z",
+   "value": 93.22,
+   "change": -2.73,
+   "asOf": "2026-11-16T08:36:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64528,
-   "change": -1.19,
-   "asOf": "2026-11-16T08:36:54.000Z",
+   "value": 64557,
+   "change": -1.15,
+   "asOf": "2026-11-16T08:46:56.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,47 +137,47 @@
    "title": "مصر",
    "items": [
     {
-     "title": "طلب إحاطة فى النواب لتقنين التعدين الأهلي وحماية ثروات الذهب المصرية",
-     "url": "https://www.elbalad.news/7182439",
+     "title": "بيلينجهام يفتح النار على كوكوريلا: طلبت منه أن يتوقف عن التفاهات ويتصرف كرجل بالغ",
+     "url": "https://www.elbalad.news/7182455",
      "source": "صدى البلد",
-     "time": "2026-11-16T08:32:20.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
+     "time": "2026-11-16T08:44:44.000Z",
+     "seen": "2026-11-16T08:44:45.511Z"
     },
     {
-     "title": "التصريح بدفن صغير لقى مصرعه فى حادث تصادم بالعبور",
-     "url": "https://www.elbalad.news/7182427",
+     "title": "الاتحاد الأوروبي: سوريا بحاجة لدعمنا لضمان استقرارها",
+     "url": "https://www.elbalad.news/7182457",
      "source": "صدى البلد",
-     "time": "2026-11-16T08:31:01.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
+     "time": "2026-11-16T08:44:34.000Z",
+     "seen": "2026-11-16T08:44:45.511Z"
     },
     {
-     "title": "الأردن يعلن حجب تطبيق “تليجرام” في المملكة لأسباب تتعلق بالأمن الوطني",
-     "url": "https://www.elbalad.news/7182446",
+     "title": "صاحب الحصان الأبيض.. من هو مارجرجس الذي يحتفل الآلاف بمولده بالرزيقات ؟",
+     "url": "https://www.elbalad.news/7182462",
      "source": "صدى البلد",
-     "time": "2026-11-16T08:30:45.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
+     "time": "2026-11-16T08:44:21.000Z",
+     "seen": "2026-11-16T08:44:45.511Z"
     },
     {
-     "title": "ضبط 5 أطنان نخالة دون فواتير وتحرير محاضر نقص وزن بمخابز كرداسة",
-     "url": "https://www.youm7.com/story/2026/11/16/ضبط-5-أطنان-نخالة-دون-فواتير-وتحرير-محاضر-نقص-وزن/7620080",
+     "title": "البابا تواضروس يدعو كهنة الإسكندرية لجعل 2027 «سنة الافتقاد».. التفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/16/البابا-تواضروس-يدعو-كهنة-الإسكندرية-لجعل-2027-«سنة-الافتقاد»-التفاصيل/7620116",
      "source": "اليوم السابع",
-     "time": "2026-11-16T08:27:00.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
+     "time": "2026-11-16T08:43:00.000Z",
+     "seen": "2026-11-16T08:44:45.511Z"
     },
     {
-     "title": "محافظ الجيزة: شراكتنا مع جامعة القاهرة تستهدف تقديم حلول مبتكرة للتحديات",
-     "url": "https://www.youm7.com/story/2026/11/16/محافظ-الجيزة-شراكتنا-مع-جامعة-القاهرة-تستهدف-تقديم-حلول-مبتكرة/7620041",
+     "title": "مواصفات امتحان العلوم لطلاب الابتدائية بالفصل الدراسى الأول",
+     "url": "https://www.youm7.com/story/2026/11/16/مواصفات-امتحان-العلوم-لطلاب-الابتدائية-بالفصل-الدراسى-الأول/7620090",
      "source": "اليوم السابع",
-     "time": "2026-11-16T08:11:00.000Z",
-     "seen": "2026-11-16T08:14:45.524Z"
+     "time": "2026-11-16T08:37:00.000Z",
+     "seen": "2026-11-16T08:44:45.511Z",
+     "impact": "تتيح لمعلمي وأولياء أمور طلاب الابتدائية في مصر إعداد الطلاب وفق المواصفات المعتمدة للامتحان."
     },
     {
-     "title": "ضوابط وشروط استحقاق الـ8500 جنيه.. دليلك الكامل لتطبيق الحد الأدنى لأجور القطاع الخاص",
-     "url": "https://www.youm7.com/story/2026/11/16/ضوابط-وشروط-استحقاق-الـ8500-جنيه-دليلك-الكامل-لتطبيق-الحد-الأدنى/7619980",
+     "title": "انطلاق المؤتمر الدولي الرابع عشر للجمعية المصرية للرعاية المركزة والإصابات",
+     "url": "https://www.youm7.com/story/2026/11/16/انطلاق-المؤتمر-الدولي-الرابع-عشر-للجمعية-المصرية-للرعاية-المركزة-والإصابات/7620078",
      "source": "اليوم السابع",
-     "time": "2026-11-16T08:06:00.000Z",
-     "seen": "2026-11-16T08:14:45.524Z",
-     "impact": "تساعد معرفة ضوابط الحد الأدنى للأجور العاملين وأصحاب الأعمال في القطاع الخاص على فهم الاستحقاقات والالتزامات المالية."
+     "time": "2026-11-16T08:36:00.000Z",
+     "seen": "2026-11-16T08:44:45.511Z"
     },
     {
      "title": "منح مالية ورواتب بالدولار.. 6 دول تفتح أبوابها للمصريين للهجرة والإقامة رسميًا",
@@ -245,18 +242,28 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "انسحاب القوات اليمنية يترك منطقة رئيسية على ساحل البحر الأحمر تحت سيطرة الحوثيين",
+     "title": "الحوثيون يسيطرون على منطقة رئيسية على ساحل البحر الأحمر بعد انسحاب القوات اليمنية",
      "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-16T08:33:07.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
+     "seen": "2026-11-16T08:34:45.880Z",
+     "impact": "تؤثر السيطرة على مناطق بساحل البحر الأحمر على أمن الملاحة وتدفّق حركة التجارة البحرية للمستثمرين."
     },
     {
      "title": "سعر الدولار في مصر الاثنين 16 نوفمبر 2026 داخل البنوك",
      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNRWdaN0J4RGQyVDRabWhWdzJXcFVtX0I4dFdINDJ2VFJIV1dkUHhicmpncmJqWHlKOFQxaTlnMEFRTENpcUkzYXdDU2QzWGVObGxZN3dEc3NWaGRPZlJrZ3hkeTVuMjJhMkxJamdRX0JPMFRraEFUeWtFU29zeUdxZXY5OS1DRWxfcjlkLVZJR2hCV20wVkZ1Uk5oNmo0R3dhbkNLVTVWTk5qMkFCeWdMSzhzejU3TUlFZGVvWHpjSWllOEF2N2NqRTRsNjVDTHUxY2luMmJIbWljMGRXU3AwdnpaMlNwcG9Jc2ZpckhRX3NaQ3hXLXBTYlJfOWpRZUlZUnhMelFYcnFxT01uX2R2M2tuTE1tRG05RWl6ejBzSjM5bzRSeTRfN0VFVm1SY21jSmhRMnBPdm9zQ21zeUpmWjloU2tMTERFZGN4bFhRMzVMMU42SjFnX1huUUhrQWFhSVBpWjJ4OTYyZU5uVFBHTkxMWDVkQVhIbTZZQXV0Zk9BUkstR1B4MGhMeV9LdVpBakltT1JzUURXMjNUcUtsa2UtTlJQUjRW?oc=5",
      "source": "CNN الاقتصادية",
      "time": "2026-11-16T08:26:43.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
+     "seen": "2026-11-16T08:34:45.880Z",
+     "impact": "تساعد معرفة سعر الدولار بالبنوك الأفراد والمستثمرين في مصر على تقييم تكاليف الواردات والاحتياجات المالية."
+    },
+    {
+     "title": "تعرف على سعر الدولار مقابل الجنيه خلال التعاملات الصباحية",
+     "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQczgtRUdrdTRJVmtQNk42SzlFMlJlSHhxTTJGSjloYjNiWDQ2bGhWWURuT3lzQzFYSEpYNk1kLXMtbnhPWC1Zc2FYcE5vdGlLRWNWWGppZEFVNmdILXFmWGlFUnczUUlsQm5NZEhFaVI3NHJnVkZBNjZBdWMwWkpRS05ZWURWZGhsM0VJWUFpQTRIVVNsd29Pc1ctOFdqaUpXcHd4T28tSmFXeS1FdlZRR1dyVXVHY2dnRlozZE5ZeHpHMmxlak9ISmViVEFaQTZHTjFucDBMNVFGdGl2bW5aMDVwS0o3T1FFLTgyS0VoQ1FZMWh5aXhPQ0FmLWExbFRpcHlhTHZWVmtvYWoxUFV3RWFBV3NMU2NLaWVWdWU1MktpSkZ3THZuRWhldXZlMEx1eWk3ZzNmejJ1RFNoQ21UamEwel9VWXY1ZkVOczdGVGhYUVpCT2dOLWNlaTBOZFM1QUNrTVFvSTBKdy1jakJPS1lXOVNzOENaZDgzQ2NtMURWcmlvMmZXcUloZjVsWmtUUGZ1Z0dhOUYyNTFnamFzeG02cm9kbE5Td183VHZiWnlqbjR1QU43NWNIN0prazNqdzlzUGJaWjduZDNPdkM1QkpYdVZqdVJEQXdreGtjUEJ6RnVkRlZjRlp6QThDUdIB6ANBVV95cUxPMkdRZjc4MWNCSVZ3bWxXZmdURlJoZ3VkRFhTLWdsM0ZGaENmbVVVU0N2dzRYY2p3M2RiU2dwd1gwanppRUQwUER0Zy1heEt0UV9NUXhDaUFwZHZXMWFNV1cwR2k5OVRDeWlVTjdJY04xSHhmZjZKbzBxckxyc2RZZ3hKQXpaQUZHa2lzMjdsSDk0T3M3UWFHbVVSUzF1ZGpRUTFPWUk2SFFFRXpqOG1vZmxDTVdKajVSeDFjMTM4VENraVVkMW8xWE9VTDg0d3l0ZjdQQzdGU0hfN2luMEh1YzJEcHJPVGktSzFXLWlRZVFwbElleEoySV9sWG1LQUN5dTlKVmdEb3JNVThPR3hnVkFXM3ZnYm1ubDJZeFRnTEFBcnp4TG8wVDU1UjctRDR2Tk9pblRZdW90MDVnQ194VEFHdDdzSnFQc3RnY0s4dXl6V3BXcjNubmtFOUJ4Yi11S0dSSE1zM003NnFxQUdHaWJxNGs1dTNyRmdVWG0yWmdTNThLUzlMc190cjkwZmh5YjVlT052STl6OS1qTVY0YmFja0hhTHVDYlc1Ym9CamlPX3E5Q3VWLWgtMmhNWDczWDVHYlZOejM0R0FsWllLSTFKZUZwNlB5Z1Q4aVdkOWtYNld3WlhsRg?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T08:14:00.000Z",
+     "seen": "2026-11-16T08:44:45.511Z",
+     "impact": "تمنح متابعة سعر الصرف في التعاملات الصباحية التجار والمستثمرين بال سوق المصري قدرة على التخطيط اليومي."
     },
     {
      "title": "انسحاب القوات اليمنية من منطقة باب المندب، وأنباء عن تقدم الحوثيين باتجاه عدن",
@@ -264,7 +271,7 @@
      "source": "BBC عربي",
      "time": "2026-11-16T08:05:09.000Z",
      "seen": "2026-11-15T16:12:09.618Z",
-     "impact": "تؤثر التطورات والأوضاع في باب المندب على حركة الملاحة وتكاليف الشحن البحري لسلاسل الإمداد."
+     "impact": "تؤثر التطورات العسكرية قرب باب المندب على استقرار سلاسل الإمداد والشحن البحري في المنطقة."
     },
     {
      "title": "سعر الدولار مقابل الجنيه المصري في البنوك اليوم الاثنين 16-11-2026",
@@ -339,14 +346,6 @@
      "time": "2026-11-16T06:53:17.000Z",
      "seen": "2026-11-16T07:04:45.714Z",
      "impact": "يمكّن المتعاملين والمستثمرين في مصر من متابعة التغيرات اليومية لسعر الدولار وتأثيره على الأسواق."
-    },
-    {
-     "title": "سعر الريال السعودي والعملات العربية اليوم مقابل الجنيه المصري.. آخر تحديث بالبنوك",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzWFJZMVNzUjdzdzFPYWtReDM3WHIxVVZ3WFhfbU4yYTR5RU1iU0tOaTluN3ZTRUw3a0tGTEdJQ2V4c3psZzkyRWFmMld1X1I4RWs3dVB4QW92X3hJU21v?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-16T06:28:00.000Z",
-     "seen": "2026-11-16T06:34:46.321Z",
-     "impact": "يفيد الأفراد والمستثمرين المهتمين بالتحويلات والتجارة بمتابعة سعر الريال والعملات العربية مقابل الجنيه."
     }
    ]
   },
@@ -355,7 +354,7 @@
    "title": "العالم",
    "items": [
     {
-     "title": "مخلفات البلاستيك تعيد بوابير الكاز إلى مطابخ غزة",
+     "title": "الحرب تعيد\"بابور الكاز\" إلى غزة",
      "url": "https://www.skynewsarabia.com/middle-east/1904980-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A8%D9%88%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D8%A7%D8%B2-%D9%85%D8%B7%D8%A7%D8%A8%D8%AE-%D8%BA%D8%B2%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T08:22:43.000Z",
@@ -366,7 +365,8 @@
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/jordanian-security-authorities-block-telegram-app",
      "source": "CNN بالعربية",
      "time": "2026-11-16T08:21:09.000Z",
-     "seen": "2026-11-16T08:24:46.195Z"
+     "seen": "2026-11-16T08:24:46.195Z",
+     "impact": "تؤثر قرارات حجب المنصات الرقمية على مستخدمي التطبيقات وأصحاب الأعمال المعتمدين عليها في التواصل."
     },
     {
      "title": "الأردن يعلن حجب تطبيق تيلغرام بالمملكة لأسباب تتعلق \"بالأمن ​الوطني\"",
@@ -464,7 +464,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-16T07:39:24.000Z",
      "seen": "2026-11-16T07:44:46.076Z",
-     "impact": "تساعد النماذج المتقدمة للذكاء الاصطناعي شركات التكنولوجيا والمطورين على تحسين الحلول الرقمية وزيادة الإنتاجية."
+     "impact": "تتيح إطلاق أدوات الذكاء الاصطناعي المتقدمة لشركات التقنية والمستثمرين تحسين كفاءة المعالجة والبرمجة."
     },
     {
      "title": "بوني إيه آي وتويوتا تطلقان سيارات أجرة bZ4X بلا سائق في الصين",
@@ -486,7 +486,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-16T07:20:26.000Z",
      "seen": "2026-11-16T07:24:45.652Z",
-     "impact": "تتيح أدوات إدارة العمليات المالية لأصحاب الشركات الصغيرة والمتوسطة في مصر حلولاً لتنظيم المحاسبة والتدفقات النقدية."
+     "impact": "تساعد المنصات المالية الجديدة أصحاب الشركات الصغيرة والمتوسطة على تنظيم عملياتهم المحاسبية والمالية."
     },
     {
      "title": "الحاصل على أعلى الدرجات بامتحان المحاسبة الضريبية في كوريا الجنوبية يعترف بالغش، فما القصة؟",
