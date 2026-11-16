@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:18:19.439Z",
+ "updated": "2026-11-16T20:28:20.094Z",
  "minute": [
   "تناولت الأخبار تراجع سعر الدولار مقابل الجنيه المصري في ختام التعاملات ومتابعة أسعاره بالبنك المركزي.",
   "بحث سفير العراق مع وزير النقل المصري تعزيز التعاون المشترك، مع استعراض توافر الملح المصري من بحيرة البردويل للأسواق المحلية والعالمية.",
@@ -10,7 +10,9 @@
   "at": "2026-11-16T20:07:17.458Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T20:28:20.094Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5834,
-   "change": -0.09,
-   "asOf": "2026-11-16T20:08:17.000Z",
+   "value": 5829,
+   "change": -0.17,
+   "asOf": "2026-11-16T20:18:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6660,
-   "change": -0.09,
-   "asOf": "2026-11-16T20:08:17.000Z",
+   "value": 6655,
+   "change": -0.17,
+   "asOf": "2026-11-16T20:18:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3867,
-   "change": -0.51,
-   "asOf": "2026-11-16T20:08:17.000Z",
+   "value": 3863,
+   "change": -0.59,
+   "asOf": "2026-11-16T20:18:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1006,
-   "change": -0.4,
-   "asOf": "2026-11-16T20:17:45.000Z",
+   "value": 1.1005,
+   "change": -0.41,
+   "asOf": "2026-11-16T20:27:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.36,
-   "change": -3.63,
-   "asOf": "2026-11-16T20:08:13.000Z",
+   "value": 92.29,
+   "change": -3.7,
+   "asOf": "2026-11-16T20:16:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7408,
-   "change": -2.03,
-   "asOf": "2026-11-16T20:18:23.000Z",
+   "value": 7415,
+   "change": -1.94,
+   "asOf": "2026-11-16T20:28:29.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64984,
-   "change": -0.49,
-   "asOf": "2026-11-16T20:18:21.000Z",
+   "value": 65135,
+   "change": -0.26,
+   "asOf": "2026-11-16T20:28:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "البنك المركزي يبيع سندات خزانة بـ55.9 مليار جنيه والفائدة تقترب من 26.5%",
-     "url": "https://www.elbalad.news/7183492",
+     "title": "طقس الثلاثاء في مصر.. درجات الحرارة والشبورة والأمطار غدًا",
+     "url": "https://www.elbalad.news/7183506",
      "source": "صدى البلد",
-     "time": "2026-11-16T20:18:09.000Z",
-     "seen": "2026-11-16T20:18:19.439Z"
+     "time": "2026-11-16T20:27:33.000Z",
+     "seen": "2026-11-16T20:28:20.094Z"
     },
     {
-     "title": "يديعوت أحرونوت: إسرائيل تستعد لشن موجة من الهجمات ضد لبنان خلال ساعات",
-     "url": "https://www.elbalad.news/7183454",
+     "title": "قطر والسعودية تبحثان علاقات التعاون والمستجدات الإقليمية",
+     "url": "https://www.elbalad.news/7183505",
      "source": "صدى البلد",
-     "time": "2026-11-16T20:16:49.000Z",
-     "seen": "2026-11-16T20:18:19.439Z"
+     "time": "2026-11-16T20:26:43.000Z",
+     "seen": "2026-11-16T20:28:20.094Z"
     },
     {
-     "title": "هداف ابن هداف.. مصطفى زيكو يهنئ مروان حمدي بعيد ميلاده",
-     "url": "https://www.elbalad.news/7183455",
+     "title": "لازم نكون في \"ألتيك كير\".. عمرو أديب: أمريكا بلد التكنولوجيا والمزيكا فيها عطل ضخم في البنوك",
+     "url": "https://www.elbalad.news/7183483",
      "source": "صدى البلد",
-     "time": "2026-11-16T20:15:31.000Z",
-     "seen": "2026-11-16T20:18:19.439Z"
+     "time": "2026-11-16T20:25:21.000Z",
+     "seen": "2026-11-16T20:28:20.094Z"
     },
     {
      "title": "عضة الكلب مش إصابة بسيطة.. خطوات عاجلة تحميك من خطر السعار",
@@ -486,6 +488,13 @@
      "seen": "2026-11-16T16:17:17.824Z"
     },
     {
+     "title": "كتاب مهم عن الذكاء الاصطناعى واستدامة الاستثمار",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG51cmE1MkticGVYT05VYzl4b1M0R3l4ZzcxeUs4Rjl5djNuUklKUjV3MkNlZ0Rsc1FZb3JOYnB3TkFpLWo5TmRpeUdGd1hmel84WElVeXdPUG1MUjI5LXNXakIzdjhuenZNZndVVmVjclg5MTh6bGdCNkR0dlJmSGt5empDbEdXWXVxZnZxTVhsTlNpb3JIVG9TcHJQNU9aaHNud1hkSEwzdlU?oc=5",
+     "source": "بوابة الشروق",
+     "time": "2026-11-16T15:23:21.000Z",
+     "seen": "2026-11-16T20:28:20.094Z"
+    },
+    {
      "title": "\"مدينة المعجزات\" الصينية.. لم يزرها أي رئيس أميركي قبل ترامب",
      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQQmVwb0k1SU1VOTByZ1YtRENIbjVwalhlMnBHRWVsdEVrV3ZDSXVTNDhsb2EtU0xwakZyTnFULWJrUTVIYk5kSThMUUlfUGQ0c21MeVhwZjJsOEZYdmstajA0aTQ5Mm1hUEZPUkp4R3Jyb25TX2RZenRzUEpSQ0h2a3ZEalJzeldRUkdNZHdiTjQ5Z3RRbVFGejd1dU1qRjMyRHVLLXl2anRqS1YtMGtsNDVpUi1PMTc2UTdobmtNd0Z0OWpKNDE1TFQ2VUx4NEFkcTlKekZ0X3JWdWRfN09CdXNRWWwteEVrV08wemJBWl9VU1psbnVYbGtIRDZDOTZLbGRTQ3Axel9OM0E3MS1YbUp6VzdLcmdOaGJud3BHSldfVTl3UGlHTVhSUGppdTdvSDJJbnNlcUY4VlZRSDFPQ3RsZmhRZllrQjVRUTF5cDlxVHp5M3JpTDFYcGdYLWFJaDZDcm40Ny1JZWExeWdVUW5VbFcwYmhCR0x6ZHNoYTBIanF6cHlYaEpRWllNY3c4Sl9HOFR0cXRLSzYyWUM3UDh6M2dtZFAxajJCMUJUZVN5UGh3Q0x2YlFPRmtJWUZfQkp3QjNHVDQ3SnptRXltNnVZaUswUk9BOVpvOC02LURwVXY5cHN3Q2wzRFh5VHPSAfQDQVVfeXFMTzQ3OS1xWWk2VEUtZGk0Rlp0NDhONnJ4bjJ4cDlNN0UwZVg5VHBtbFg2cnNKZm9NUkNRRUhuNGNma21McTZaTEpISHZ3U1M4NkhFLXhWNTFaMFAzRUpFMk9OekhuZ1NjVUpnUVdmb0VvVnZycmpfWF9zSlFHUjdaUE1TNC1fOEZWZEFfVTRaeXpIRWpJVGJUMGpjazhmSU9zeDN3Vk5ZR0JWZEdMclFhMG4zS1M1MFBuQ2tEdHFrUUV6ZnZNNm52OFhta3lfdWZtTTVEelVremsydXJtLXVzSVphYlR4SjZBaWNHNWZvZ05SeGduejlaZ0N5R3JEcmxON0hpd3QtQWVHSjU1N3VEYk90SmJyZDFxcDhDMk9CTnhsR3B4bXZOeFJYdG5NOGJ0N0ticjVkQVlnUjhRY1NweWpMejRsb3hVYVpXNVZaeHBQaWdOSzJPZk5oemtGeE83WmFGOHdHRnR6WGMzTjVTTmZZcm1fOTQtclFNS05HY2ZlbURIWkxhdEZJVF9yMXJWSHlDQ29MaFV6RGh3QXNJTTBmNnh1X2pISUJtUVFpZFY0bWVmMi1oVWFhcEk5SE1Ecm1naGduLVZYcmRfS1g1czI0YXEwY1JvU29zMVdFMDZCTTdOQ0t0WmZfY3VRS0ZBSlJ6N3I?oc=5",
      "source": "العربية",
@@ -548,19 +557,21 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T10:16:57.000Z",
      "seen": "2026-11-16T12:06:21.750Z"
-    },
-    {
-     "title": "هل أصبح الذكاء الاصطناعي \"ذريعة\" للتسريحات الجماعية؟",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IQzNQM1VSRklKR1dDOGtOR29WbmdqZHV2TVVBNG1iQUE5NXlFc1ZIU1FKYmMwUXlpaEpvVjZCcmJNa2lUdko5akoybkhDdkFBdnVKXzRabEFwTG5WTGfSAWNBVV95cUxNYmhPMlYxSWUwU05lUWVGVEtBcVhKRkVWUWJmaEFfVU5KaFlOb1lTOFY2bWlqRlczaWtsUDRxZERLUXJSd1owYkVpOEVUZlMwdmJBLTFOcEswSzhWLUl5VndOSXc?oc=5",
-     "source": "BBC",
-     "time": "2026-11-16T10:03:48.000Z",
-     "seen": "2026-11-16T11:06:21.962Z",
-     "impact": "يتطلب توجه الشركات لاستخدام الذكاء الاصطناعي إعادة تقييم التكاليف التشغيلية واستراتيجيات التوظيف في قطاعات الأعمال."
     }
    ]
   }
  ],
  "failed": [
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
   {
    "section": "world",
    "feed": "news.google.com",
@@ -570,11 +581,6 @@
    "section": "tech",
    "feed": "عالم التقنية",
    "error": "HTTP 403"
-  },
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
   }
  ],
  "marketErrors": []
