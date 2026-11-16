@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:34:29.592Z",
+ "updated": "2026-11-16T01:44:29.891Z",
  "minute": [
   "تتناول الأخبار المحلية في مصر أسعار صرف الدولار ومواعيد حسم الفائدة بالبنك المركزي بالإضافة إلى مواعيد القطارات.",
   "وعلى الصعيد الإقليمي والدولي، تتواصل التطورات الأمنية والتحركات العسكرية مع صدور تحذيرات للمواطنين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T01:34:29.592Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T01:44:29.891Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5861,
-   "change": 0.38,
-   "asOf": "2026-11-16T01:26:26.000Z",
+   "value": 5858,
+   "change": 0.34,
+   "asOf": "2026-11-16T01:34:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6691,
-   "change": 0.38,
-   "asOf": "2026-11-16T01:26:26.000Z",
+   "value": 6689,
+   "change": 0.34,
+   "asOf": "2026-11-16T01:34:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3876,
-   "change": -0.27,
-   "asOf": "2026-11-16T01:26:26.000Z",
+   "value": 3874,
+   "change": -0.31,
+   "asOf": "2026-11-16T01:34:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1024,
-   "change": -0.24,
-   "asOf": "2026-11-16T01:35:47.000Z",
+   "value": 1.1023,
+   "change": -0.25,
+   "asOf": "2026-11-16T01:44:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.34,
-   "change": -0.52,
-   "asOf": "2026-11-16T01:22:06.000Z",
+   "value": 95.18,
+   "change": -0.69,
+   "asOf": "2026-11-16T01:33:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64778,
-   "change": 1.01,
-   "asOf": "2026-11-16T01:36:26.000Z",
+   "value": 64736,
+   "change": 0.95,
+   "asOf": "2026-11-16T01:44:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "قمة ثلاثية تجمع ترامب وبوتين وشي جين بينج في الصين.. ملفات نووية على الطاولة",
-     "url": "https://www.elbalad.news/7182298",
+     "title": "بيدق المسمار بضربة واحدة.. نجار مصري يبهر السعوديبن بمهارته وكرمه",
+     "url": "https://www.elbalad.news/7182301",
      "source": "صدى البلد",
-     "time": "2026-11-16T01:34:06.000Z",
-     "seen": "2026-11-16T01:34:29.592Z"
+     "time": "2026-11-16T01:43:57.000Z",
+     "seen": "2026-11-16T01:44:29.891Z"
     },
     {
-     "title": "4 من 10 لمجلس الإدارة.. هشام نصر يرد على حسين لبيب: تتناسب مع طموحه",
-     "url": "https://www.elbalad.news/7182275",
+     "title": "عموتة يحسم ثنائي دفاع الأهلي أمام بيراميدز.. ومفاضلة بين 3 لاعبين",
+     "url": "https://www.elbalad.news/7182295",
      "source": "صدى البلد",
-     "time": "2026-11-16T01:30:00.000Z",
-     "seen": "2026-11-16T01:34:29.592Z"
+     "time": "2026-11-16T01:38:54.000Z",
+     "seen": "2026-11-16T01:44:29.891Z"
     },
     {
-     "title": "لجنة الحكام: لم يصلنا اعتراض من بيراميدز على حكم مباراة الأهلي",
-     "url": "https://www.elbalad.news/7182294",
+     "title": "كواليس استعدادات منتخب مصر لمواجهة الجزائر في تصفيات شمال أفريقيا",
+     "url": "https://www.elbalad.news/7182291",
      "source": "صدى البلد",
-     "time": "2026-11-16T01:23:54.000Z",
-     "seen": "2026-11-16T01:24:29.843Z"
+     "time": "2026-11-16T01:35:59.000Z",
+     "seen": "2026-11-16T01:44:29.891Z"
     },
     {
      "title": "أهمها زيادة المرتبات.. 4 قرارات عاجلة من الحكومة تهم ملايين المواطنين",
@@ -259,19 +259,19 @@
      "seen": "2026-11-16T01:34:29.592Z"
     },
     {
+     "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN3g2NGUybC12a0JvQU9vanJWV2toQ0JkT2VZRnk3Ql9OZnQySVZ6Ry10RlpYUGVYRzdQUXdYU0Nac1RCZ2hJdGYtY2o4S19DcTVmVnBRVV9JMzhfVzR0Q1ZudFBtcHpzdXVmRWM1UQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-15T23:26:55.000Z",
+     "seen": "2026-11-16T01:34:29.592Z"
+    },
+    {
      "title": "موعد الاجتماع الأخير لـ«المركزي» في 2026.. متى يحسم مصير أسعار الفائدة؟",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LazRaWU5wUFFkTy1Ka2hQUFZCQW1lTDFPcXFNLV9Od2tCb2lTUkRoY0xTN29HVEdLVzJCZWEyX2RaWnFmcXEzR0tmN2hieEprMzRnWnlzWUFJSW1T?oc=5",
      "source": "الوطن",
      "time": "2026-11-15T22:31:49.000Z",
      "seen": "2026-11-15T22:54:29.968Z",
      "impact": "تفيد معرفة موعد اجتماع البنك المركزي المستثمرين والمودعين لتوقع قرارات الفائدة وتأثيرها على الادخار والاستثمار."
-    },
-    {
-     "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN3g2NGUybC12a0JvQU9vanJWV2toQ0JkT2VZRnk3Ql9OZnQySVZ6Ry10RlpYUGVYRzdQUXdYU0Nac1RCZ2hJdGYtY2o4S19DcTVmVnBRVV9JMzhfVzR0Q1ZudFBtcHpzdXVmRWM1UQ?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-15T22:26:55.000Z",
-     "seen": "2026-11-16T01:34:29.592Z"
     },
     {
      "title": "التنين الصينى عالق بين ازدهار الصناعة وركود العقارات",
