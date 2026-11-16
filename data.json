@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:28:19.680Z",
+ "updated": "2026-11-16T21:38:19.798Z",
  "minute": [
   "تناولت الأخبار تراجع سعر الدولار مقابل الجنيه المصري في ختام التعاملات ومتابعة أسعاره بالبنك المركزي.",
   "بحث سفير العراق مع وزير النقل المصري تعزيز التعاون المشترك، مع استعراض توافر الملح المصري من بحيرة البردويل للأسواق المحلية والعالمية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T21:28:19.680Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T21:38:19.798Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5815,
-   "change": -0.41,
-   "asOf": "2026-11-16T21:19:22.000Z",
+   "value": 5818,
+   "change": -0.36,
+   "asOf": "2026-11-16T21:28:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6639,
-   "change": -0.41,
-   "asOf": "2026-11-16T21:19:22.000Z",
+   "value": 6642,
+   "change": -0.36,
+   "asOf": "2026-11-16T21:28:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3854,
-   "change": -0.83,
-   "asOf": "2026-11-16T21:19:22.000Z",
+   "value": 3856,
+   "change": -0.78,
+   "asOf": "2026-11-16T21:28:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1,
+   "value": 1.1001,
    "change": -0.45,
-   "asOf": "2026-11-16T21:28:46.000Z",
+   "asOf": "2026-11-16T21:38:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.19,
-   "change": -3.81,
-   "asOf": "2026-11-16T21:16:12.000Z",
+   "value": 92,
+   "change": -4.01,
+   "asOf": "2026-11-16T21:28:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65186,
+   "value": 65187,
    "change": -0.18,
-   "asOf": "2026-11-16T21:29:19.000Z",
+   "asOf": "2026-11-16T21:38:55.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لا ينشر ------------- حقيقة تقديم عرض لـ محمد أبو تريكة لتولي منصب مدير منتخب قطر.. تفاصيل",
-     "url": "https://www.elbalad.news/7183561",
+     "title": "متى يبدأ وينتهي وقت أذكار المساء؟.. انتبه لـ5 حقائق ينبغي معرفتها",
+     "url": "https://www.elbalad.news/7183584",
      "source": "صدى البلد",
-     "time": "2026-11-16T21:27:32.000Z",
-     "seen": "2026-11-16T21:28:19.680Z"
+     "time": "2026-11-16T21:37:51.000Z",
+     "seen": "2026-11-16T21:38:19.798Z"
     },
     {
-     "title": "شبانة تعليقًا على تصريح حسين لبيب: إزاي هنثق في مجلس الزمالك بشأن ملف شركة الكرة؟",
-     "url": "https://www.elbalad.news/7183569",
+     "title": "شعبة المحمول: نحتاج إلى 20 مليون هاتف في السنة.. ومعظم المكونات تستورد",
+     "url": "https://www.elbalad.news/7183578",
      "source": "صدى البلد",
-     "time": "2026-11-16T21:25:32.000Z",
-     "seen": "2026-11-16T21:28:19.680Z"
+     "time": "2026-11-16T21:37:10.000Z",
+     "seen": "2026-11-16T21:38:19.798Z"
     },
     {
-     "title": "مصرع شاب غرقًا في مياه بحر البطس بمركز طامية في الفيوم",
-     "url": "https://www.elbalad.news/7183562",
+     "title": "نائب رئيس اتحاد المعاشات: صرف المستحقات المتأخرة والتعويضات لـ41 ألف صاحب معاش",
+     "url": "https://www.elbalad.news/7183582",
      "source": "صدى البلد",
-     "time": "2026-11-16T21:24:54.000Z",
-     "seen": "2026-11-16T21:28:19.680Z"
+     "time": "2026-11-16T21:35:36.000Z",
+     "seen": "2026-11-16T21:38:19.798Z"
+    },
+    {
+     "title": "وزير الصحة يشهد توقيع بروتوكول لإنشاء وتجهيز غرف زرع النخاع بمستشفى مبرة مصر القديمة.. صور",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-الصحة-يشهد-توقيع-بروتوكول-لإنشاء-وتجهيز-غرف-زرع-النخاع/7621492",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T21:35:00.000Z",
+     "seen": "2026-11-16T21:38:19.798Z"
     },
     {
      "title": "طوارئ بغرف عمليات المرور بسبب الشبورة المتوقعة على الطرق السريعة",
@@ -180,13 +187,6 @@
      "source": "جـريـدة الوطن",
      "time": "2026-11-16T21:07:00.000Z",
      "seen": "2026-11-16T21:18:20.372Z"
-    },
-    {
-     "title": "الأرصاد تحذر من شبورة مائية كثيفة على الطرق خلال الساعات المقبلة",
-     "url": "https://www.youm7.com/story/2026/11/16/الأرصاد-تحذر-من-شبورة-مائية-كثيفة-على-الطرق-خلال-الساعات/7621484",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T21:06:00.000Z",
-     "seen": "2026-11-16T21:08:19.974Z"
     },
     {
      "title": "مدبولي يبحث مع مدير «الويبو» تعزيز التعاون في «الملكية الفكرية».. ومصر الأولى أفريقيًا في تسجيل العلامات التجارية",
@@ -307,6 +307,13 @@
      "seen": "2026-11-16T21:18:20.372Z"
     },
     {
+     "title": "أعطال تقنية تضرب خدمات 4 بنوك كبرى في أميركا والسبب مجهول",
+     "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNN25oX2RJaUJDcnpNUDE4SUowdzRBdWQ4UmJGOEljREVMaG1fQVRfeWVlMHFuWGtUMXZ2TUhhTzlTc2hnNVZMdkt6bjlEV3k0UGFsU1lSeUx0ckhGVmRSWURKclR5VkZ0SjYxWjNLNFE0S0J5SUNhRDdlc1hZRnR2dVloWS1WWElIWXN3azFfNXJESWNsQjdvVVplZ2Q4ck03dmhtY0JLNTVGV25YeFNqdG4yWFFwaVdSWEFvWlJkVEdoRDlHUGVCSXFUQnczZFJfRU9JbTVWVWdSYjBGY1BFZHpWdzlZLU5kNFRsVERqN2t6OGpHVmNaZm0ydWlqM0lLOHU3UklTRVhfRDNyTGhlNHlqTEo1Uk9XTHZQSmVqR0Nrck91LWFJcDdnWEZweUdKcUloRE5ERmMycmVXV0Zfd2QxVXA1S1hLWnhoNU1NbEMweUpzZVdHMlV5R3c5emY5ZWswbjlwVFdMQnFhNkIwZnVMZW5yOHR6QnRvUzZCYWJDNkpsdHUzY3BFOGFObU5VbFV1MS15blNFU0VxV0J3X1VDbG9IN2NSM1E0X2ZDcGEtSlVkNXAybTV0WEpKVnJfQkIyZU50TmVqaWPSAdADQVVfeXFMTk12cVFzcjlXNkdsQXZsOFFFNFZkQWJ4YVRNZXVYTEVBMVF4ekViSnhzaXRoVGNGQkRtai1sQnU3ZzhHTnhYRkhTRndFeHZjUGswdm80RXZvX0ZfYm53aE5pRnY5ZzVuQ1d6RWpmWDA1ZE9ubzVfa3Z5bGpuRFJMZmJnQVBQbmV6Q0NfWGVTRG9YQWJHX3VXSTRqeGx1ZXhtYUNMTlh1dlY0V3MwbklEeTJFaFIyTUl0bl9fLVlYV2MtUjRObnFidEk1OUY2bnd1YTVyYkFRR01xSHAyS1AzRHhRQkh6dkNhUUF6YUh1ejhVejhza045dFJvMHhFOC1oeXZSQ1Z4RTRCSmhNeElpbzdxTlhobktfaWpwdGplZ0FsbGE2OXgxX3l6QkxFMXVvblFyU0pPSURqSlFFQzB6bzFSckV2dXRlby1WX0RJMi0tdUVpQm9kR2hScy04QXBkeHBScGtBSjhFUjU3c244Yks4d1hfTlV3NFpTWU8takY1YzlITjg4NXQyUk1YUmRyc09LRGlrRXFvWDd5Wmk0TUw2ZFhaZk4xRDFjN0d0NU90eFRSQWExMnhJV0s3NHNNeWFqN2F0UVUzMVhoZy1FcTc?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T19:34:14.000Z",
+     "seen": "2026-11-16T21:38:19.798Z"
+    },
+    {
      "title": "سعر الدولار اليوم الاثنين في مصر",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mYWxZRXh6Z1dhaWFPUU44TnlPc2FJZThtaGlwaWpiOFVBY2U1ZVN1a0pzcUhRVUIzWlNRU0xvby1tUjYy?oc=5",
      "source": "جريدة الدستور",
@@ -335,13 +342,6 @@
      "source": "BBC عربي",
      "time": "2026-11-16T18:11:26.000Z",
      "seen": "2026-11-16T18:17:17.431Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOMVdXRWRnamppcy1SMFVYTHhuQndqQ2VaN1RrTkRGRzdNT3dGQm5hUXlWOFB4NHE4T0NxWk9QY1RjSGdWWWxESk53cGtraWRRcG5QT1J5M3BQTVRBZ3ZwMTJ2OWxVYldqVGloenQxZEh3NVI5cDZIR0VqWGV6NTBBN1JSMmZWVm1qT0hDY2JPY3RmTWZxNVgzSWZ6Vl9NT1hVNldCLXpGc2JWbHdpNXNFSEVKcVZ3VTdleEFuTzJaN3lHalV3R3Q1NFJ3a00tazRiUGxYYzl2YTZGNzM2WWZ5bUNabU4xVmVxNXRPTjNETmlyRGwxaW1yTkZ1c2xpcUc5SG1ad2pJcUlWeXlfYWlyRTFaYU94X2F3U2xmOExaQk5NQkltYW1yNDJYOWFxdVNTNmV4aGFXNDVkR1c1MWVwaU1HV1gxdGE3VUt6YXQ4X1lyNzY2Nkp0NHB0a0cxN1hiRHozNTU2VEtfeWNnUjJFMHlDa01IUi1INHhiV1hDZG0tTWFmN2d0YlpxLXNraUEzZExONGlhU2V5aVpSSXVYSm1VSWVmN0hPZmxkVWlSbkNoTlV6QkRMMUN3UWt0RmRXVWpkRlliWEZMdUF3UFYxOHpLd05tZklnTzkxVXJGU0VXUdIB4gNBVV95cUxOMVdXRWRnamppcy1SMFVYTHhuQndqQ2VaN1RrTkRGRzdNT3dGQm5hUXlWOFB4NHE4T0NxWk9QY1RjSGdWWWxESk53cGtraWRRcG5QT1J5M3BQTVRBZ3ZwMTJ2OWxVYldqVGloenQxZEh3NVI5cDZIR0VqWGV6NTBBN1JSMmZWVm1qT0hDY2JPY3RmTWZxNVgzSWZ6Vl9NT1hVNldCLXpGc2JWbHdpNXNFSEVKcVZ3VTdleEFuTzJaN3lHalV3R3Q1NFJ3a00tazRiUGxYYzl2YTZGNzM2WWZ5bUNabU4xVmVxNXRPTjNETmlyRGwxaW1yTkZ1c2xpcUc5SG1ad2pJcUlWeXlfYWlyRTFaYU94X2F3U2xmOExaQk5NQkltYW1yNDJYOWFxdVNTNmV4aGFXNDVkR1c1MWVwaU1HV1gxdGE3VUt6YXQ4X1lyNzY2Nkp0NHB0a0cxN1hiRHozNTU2VEtfeWNnUjJFMHlDa01IUi1INHhiV1hDZG0tTWFmN2d0YlpxLXNraUEzZExONGlhU2V5aVpSSXVYSm1VSWVmN0hPZmxkVWlSbkNoTlV6QkRMMUN3UWt0RmRXVWpkRlliWEZMdUF3UFYxOHpLd05tZklnTzkxVXJGU0VXUQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T18:01:41.000Z",
-     "seen": "2026-11-16T19:37:18.041Z"
     }
    ]
   },
@@ -427,13 +427,6 @@
      "seen": "2026-11-16T19:07:17.714Z"
     },
     {
-     "title": "باكستان: ننتظر رد واشنطن على المقترح الإيراني الأخير",
-     "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNLVVEV19QMTFLQnYzWmVKVER2M1hocmhsVnlFd1lGSDBvb2kwem5VOTRRbWVRRmc0aUZ4bXhrN29EODhfbHBjS3h5VVptX3A1MXBpNXJGZ1dyVXRZUy1BdjhGWGl6UDU2aTkwWXlLMjQxb213bS1Ecl9ueDhEMU5RODlSMjR4d25Bd3h4cW5lQ2VnYkVNbEhMUThpZTBYY2lFMGwxZWtKTWlrYzBiTURhM2FFQjZ4S085MmVxaTQyVTE3anM0bTZBc0dHaEdDM1kxZTIzS0RpQkc1amRQMGxUcXVYN19sY3NZa0tyMUFBaGNPMzJobmlUOVBGQ1p3b2huOEhfbDdKZ29zM3doM2tKNnNtcjBEY242M2xzZ1hGYmYzd09OV0hvOXFXakRpLU9ZbFpHMHJXZ1gzb2NxUnNGMGJvNnF0ZFZXZTU4eVdVbUk2ZGtRWnkwa0w1MzdaM0hzRXMtZlUwenlVemVqcWhOeXJIcmwxQ2xiSHFfNTFfOGluUTgwV09taGQ3ZEpyRV9HczMwWVhBTEpLZ1hlU3ZuOWpyWUMyaWZaZmVFRGFiaktlcWpMcktLWFhR0gG_A0FVX3lxTE1ZOUhwRGk0Y0dtTFk5VzBxWHV2UnZYVTh3T21GLWRWYVNNZVlpYS1CNnZEd3hGcjg3TzltcjAtRm5IOGlJWnRPdmVJVzREek9hT0tYUW14Vk9tT0xoZkZCc0hfTUJsSE1mVU5CanY0TThBTms4TUFlSGpQXzFhb1g4Vy16bFZyM1dzS2lDTllSV2pnWTdYUHJUb3NtbWhWWEZzSDdIM2ZZSXU2VnNWVjJreFJ3djJHRWp5bXFTX0hXeUVLUENXX2RYbWdwRGZxTWcxUXVlQWxEcC1tRzdVVTFpMk50cDB5SzZMZHB3R01DaS1Zdk9uLTVpOEhPOXpHSHlIYnJBUk00R214YWg0OThaT2IwU2c1c1QwRndXY0pWUWNaY3hrcVMyWThBQTh1OE5ranJ6RDh2QkYtckJEQ1RUSmVaWl9HZ2xLanJ2N1dkV3F5Q3d5dlM3dVQ3WVBQb003UTk5Y3BFTXY2dUVoelNEN3p5bm1SQnRFMzcwX2hFamwzYUhwUy0tTnRBRE85VzJpVzBsQlA3SXEwSF9PVzVZdzhNcV9NZ2RXdzE3VHZQazlYNTdudnRaTUVUbkFIOA?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T18:55:00.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
-    },
-    {
      "title": "الحرب تكشف السر وراء شبكة السدود الإيرانية التي حيرت المراقبين",
      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOdUxoNHVzdFFFZEYwVzhLWkVjSFBkNXN4cHJsU2tmSUZabHlyVUJuLVd1N2JHazJITnB6eVlkZ3daTUxrWmJwU1p6NVYzb0VvR0t6RXg0V2c1bmhHRDhrWmVjbkxTcEZNNkcySVVxUnRCYUxaTnVHR3BuMFJTRU5UQWFLNmpnRzAzWVZadG9uY0E4TDRqTEFFWjFCQjItOWlabWRmNkNFNnlLWVpNeTU1dkZmTzRLWVBEWjh2dzl6VU5Pd041dVFkdDdkUDZ5VkFoZmNoTklURHROZjVBV1V3cjRqZWZEZlR0UXpOTXJQcDNBUEZIRnQ3VFpDemV5blowSHVraHhZMDZjb05sR3JVcjBiQ0xyWTJXNWdLdTZ5T2YtRWVNVGJsXzNIQ3Z2TEpjbGh1UDlodVlwNkprVlVnRTZMdDVNY01QNDNmdTgwOEtWT3FBYzU3MlhUYWdvd2kzMUR2OGV0V2o0R2h6NWdkTjdFWDFUR0MydEhkeUN2UmJKWUFLRWJ3RVZiYVZPQkxTeVVNM2c4c3I4UFZYR1QtckRmY0t0MjdaaEFlX2JJSGs0Uy1DZzRsQ1JZSWhaaEhyVnNwNUNtS3VDVHFsck13bmVaTzR5YW5XMzctYmNIRF9KbDVZUlQydFl2bWNOMmV5OV9HQ1N5VjU0UzBsSnZUdmlGT0FHYXZEQXfSAY8EQVVfeXFMTVhuRkRscTRfYzFQNG1peTJkMWFJN1kyaUZERGcwWDEzd05LMzlycGFHVVhUNkYyNEJGWHRGM0REY3pHZGQ2dncyUHJQczlWajYxZnFsYm1iOG5KMFhEQWVZSDMzSFhGUXZhOVA4WmswY2NzOWwyVkF2WTlWS2hDUUV2YzBSb1lKMlJBWmh5RS1uSkNMbW0xZmptUnpGZDI5T3FZOHl1UzFKS0tBWUZHOERTdzRiTnIxVnFBUjQ3ZXdIbVIwSmpmMGN6R2kwUTFMRFNKUUxkVDlxZ2FUX2Nlb2p6MXI3RWNJVkZISndodjVobHM1WEFOM0pIeTB4MGJIQ19Va1ZsckNLTG5tcnVoYmdpTEJoeURwb2pZZ0NIX2RsQTFsX2xRbkRJRXM2MmZVSDk0d3d2M2tHOEJ4TlliTDEtZkNhZlQzUWYtTVhPOURpUWQxaFNKZjlSQi1zQW03YUpzZUdIUHRmb2ZQckQ2QTRBekJnOWdxUzl6aUxGNHpnVExzSkRHbk9MQkZLeXFaalExYnpyY0tBNEpLS2tvNk9JSkdKM2hhWjE4LWgwMm85QVRnSFdDalZrRnNMSjkxdkpDbmRJeUEzUDROX1ZlVzRwNlFtRkhSOVVfTnE5Z1BTeWxfZFdIRWJlVFFla3FaMmp3ZXhVZFNyZUVtcWZ2QVdJbkFDeF9oVzc5UlEydm8?oc=5",
      "source": "العربية",
@@ -446,6 +439,13 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T18:46:54.000Z",
      "seen": "2026-11-16T20:07:17.458Z"
+    },
+    {
+     "title": "سياسيان إسرائيليان معارضان يتهمان نتنياهو بـ\"محاولة انقلاب\" والشرطة تحقق",
+     "url": "https://www.dw.com/ar/سياسيان-إسرائيليان-معارضان-يتهمان-نتنياهو-بـ-محاولة-انقلاب-والشرطة-تحقق/live-79926107?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-16T18:45:00.000Z",
+     "seen": "2026-11-16T21:38:19.798Z"
     }
    ]
   },
@@ -559,9 +559,9 @@
  ],
  "failed": [
   {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
   },
   {
    "section": "tech",
