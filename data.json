@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:14:45.630Z",
+ "updated": "2026-11-16T06:24:45.742Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,26 +11,26 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T06:14:45.630Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T06:24:45.742Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.74,
-   "change": 0.63,
-   "asOf": "2026-11-16T06:11:22.000Z",
+   "value": 53.7,
+   "change": 0.55,
+   "asOf": "2026-11-16T06:25:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5824,
-   "change": -0.25,
-   "asOf": "2026-11-16T06:04:23.000Z",
+   "value": 5825,
+   "change": -0.24,
+   "asOf": "2026-11-16T06:15:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,17 +38,17 @@
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 6650,
-   "change": -0.25,
-   "asOf": "2026-11-16T06:04:23.000Z",
+   "change": -0.24,
+   "asOf": "2026-11-16T06:15:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3853,
-   "change": -0.87,
-   "asOf": "2026-11-16T06:04:23.000Z",
+   "value": 3856,
+   "change": -0.79,
+   "asOf": "2026-11-16T06:15:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1024,
-   "change": -0.24,
-   "asOf": "2026-11-16T06:13:48.000Z",
+   "value": 1.1019,
+   "change": -0.28,
+   "asOf": "2026-11-16T06:25:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.78,
-   "change": -0.06,
-   "asOf": "2026-11-16T06:03:27.000Z",
+   "value": 95.98,
+   "change": 0.15,
+   "asOf": "2026-11-16T06:15:26.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64254,
-   "change": 0.2,
-   "asOf": "2026-11-16T06:14:57.000Z",
+   "value": 64345,
+   "change": 0.34,
+   "asOf": "2026-11-16T06:25:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "احترسوا.. يارا السكري تشوق الجمهور لشخصية دهب في مسلسل سلطان الديب",
+     "url": "https://www.elbalad.news/7182333",
+     "source": "صدى البلد",
+     "time": "2026-11-16T06:19:26.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
+    },
+    {
      "title": "جراديشار عن غرفة ملابس الأهلي: التعامل مع كل هؤلاء النجوم صعب",
      "url": "https://www.elbalad.news/7182330",
      "source": "صدى البلد",
@@ -171,13 +178,6 @@
      "title": "القومى للمرأة يطلق مسابقة «شباب بيغيّر الصورة» لمشروعات التخرج والبحوث العلمية",
      "url": "https://www.youm7.com/story/2026/11/16/القومى-للمرأة-يطلق-مسابقة-«شباب-بيغيّر-الصورة»-لمشروعات-التخرج-والبحوث/7617790",
      "source": "اليوم السابع",
-     "time": "2026-11-16T06:00:00.000Z",
-     "seen": "2026-11-16T06:04:45.942Z"
-    },
-    {
-     "title": "موعد مباراة منتخب مصر للشباب وتنزانيا الودية اليوم.. والقناة الناقلة",
-     "url": "https://www.elbalad.news/7182299",
-     "source": "صدى البلد",
      "time": "2026-11-16T06:00:00.000Z",
      "seen": "2026-11-16T06:04:45.942Z"
     },
@@ -315,7 +315,7 @@
      "title": "انتكاسة لـ\"أمازون\".. فقدت 40 قمرا اصطناعيا دفعة واحدة",
      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNVlNsekZBX1l5bHpfNm9GX0xnSy1CT3paRURSSzctbVYxM2tjRkh6MjlkeUZ0N1AzUUJ6ZHJMT0VyMXJybUZjdGhnc3l2VkVKeVVRXzhPVmJrN2JOWVhMYjNKd09TczN3eGEzVXgySjY2VnlfZ1NybzVxYmQ3Zk5icWlQTmc2Rm8xY0gtdkhBanlfRXF5SE5fbXJXN1UtTXpUZ0o4VFF0X1ZmWElkQWJMRExoTFNwZzVRQ3JicFNJV3NxWjAyV3NyczVQTWYzZC11ZGNMZXJnZU4zQVZYWHNRMDMwVzdPTTJiRkNTRndNLWFqTi1ucEFNV2R5UFdURU5jcDdrZFY2aW9OQk0xR0NNSW1aa1dJajUwSWJaUWJYWjVvTEFMWXRHd3ZlVXlhYXN6blRoSkxfV0Z3RDd4U3R6MEptendmM0Y2NTJqdDhjdzRMU09JUHMzRjctQm5ES1MtWW5XLXNFQzZvZGZhS1d1SDdHd3YtcnB1RVVCWU5kZ2dhN0JJNTUyQWJOY3k4OC1VZlJpUVVnaFlPaVFDNmtZMFZTZ9IBqANBVV95cUxQN1lWVUw1d3RJbHFSdGMxVDE2eGRfOHFucEdTSjFQSGRNUWNwN0lpMjNPUWRvcjZ6dzRoS01NT29VMDFYVE4yNURTMGFnRjJEYXNNNnhuMkliQUFfa1dlUURsd3lXUHNMREphc05MVEN0TzJmSDBoM3l2enhSUC1PWnNJVDA4VFVxbVh5TnN6QmpyVFpIbXgySTBLUVAtSlc4TUNabHdNV0VCWlJ5aW5Rc0VTcjBhTW1YbFE2c1VaOGJXM3pqTjVFMXYwa2RDUVF3YW9xYzB6QXN4UXQ2dkFVejMxLTlIclJudFFHOUNpS1NUc3FSY0lZSjd1Ym9YTzRoWUhSOUJRZDg4d20zOG1pZG5oeHVuV3BJSkJVak5adHpnXzNYcjlKRmFfendudjlybDZueG0tZ2IweWpHbEx5eVd1VmNGNWh4Rm9Cd2JOYk1NclJkeWpkRG5HX2ROS0NmUmM0SXJTeVZ2Z1JlMlBTaS1ydFlPc0pBWEVhRVZUR2tJLXRHVFY0c0I0S2dyREhRTVgxQ2hMMGRQZmpXNFROSzBqMF9IODFz?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T00:15:00.000Z",
+     "time": "2026-11-16T00:15:37.000Z",
      "seen": "2026-11-16T00:34:30.215Z",
      "impact": "يلفت انتباه المستثمرين المتابعين لقطاع التكنولوجيا والاتصالات العالمية إلى التحديات التشغيلية التي تواجه الشركات الكبرى."
     },
@@ -357,6 +357,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "الإعدام لـ3 مدانين بهجوم كنيسة الكرك يثير أسئلة التمويل",
+     "url": "https://www.skynewsarabia.com/middle-east/1904992-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%843-%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D9%83-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T06:14:48.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
+    },
+    {
+     "title": "الأونروا تدرس تسريح آلاف الموظفين وتقليص عملياتها",
+     "url": "https://www.skynewsarabia.com/middle-east/1904989-%D8%A7%D9%84%D8%A3%D9%88%D9%86%D8%B1%D9%88%D8%A7-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%AA%D8%B3%D8%B1%D9%8A%D8%AD-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%88%D8%AA%D9%82%D9%84%D9%8A%D8%B5-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA%D9%87%D8%A7",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T06:11:08.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
+    },
     {
      "title": "مباشر: الحرس الثوري الإيراني يعلن اشتعال النيران بناقلتي نفط إثر اصطدامهما بألغام في مضيق هرمز",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261116-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D8%B4%D8%AA%D8%B9%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
@@ -407,39 +421,32 @@
      "seen": "2026-11-16T04:14:45.910Z"
     },
     {
-     "title": "شاهد.. الصين تنجز أول رحلة تجارية مأهولة لطائرة كهربائية",
-     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTHdGVlNqS25UeTNmSGd6WlVnZzFPX2FUY0N2QkR4S29qZFlTQkt5em9hUV9fR0RfRzRTbEZkTVphY2pHcUF1Tm1RN005czBUdmdXY25fczRPRHFXZjNuT3VGRDd3dzM2X2U2eDIyWFZuZmtfTmdqUE1waE9rb08yMmxJbjlNRmU4X0ZWV3NnYXJWaEJ0ZEZFeUpKM1JCYTZzQnp2ay1oelloSFZYLXFxNEgtVFpDcVg3YlNXYXpfd0dLQWhiVmJ2dXc3QUs4WWVEX3VFNjJBeEJ0U3hMQlZqLTktR2xGaUdkbHF5RURHdUpmNE1QT0dFWE1jSmpQazQ0V1hsVmRaX0FNYmJKY29wZXBuc1JSdllzekxpamJIRFJCRTJhSjN4NThBLUs4R0lXTUhZSmpnNU9zQnFYS0FIVWtmeElYQ284d1N5XzF5c3BYTkhVWmZpdmtrcEhLSEZpb1JhcUJjb2l6YUpxVERzV3hHTDQ0SDFVVzlWZUtBbWl4UEF5ZXI0TFdzb1BGeVZkWFJEYmt2bVlrS2lSWnFoUUNjWlBYaW1ESXBFbDdvOHBSekdLU1d6bFRqbF9FVlnSAcQDQVVfeXFMTWt0OG4tME9SZlU1RmdaZDJWTzFrRjVwVkwyaVdLcXhiYjdxa3pEcGNpU080MDJkUFpBdmlYVE9VOEZYZ2NtTGtBWGhkMDJlUVFINEU5Q25CU0x5aGdaX214bnZsamphbDJwODhaS1lVbTlhZUNDaEFyZ0JBUHpKUGNqWTFncjdXa2d3VTJFVE1lb2I2NXQ0Um11enFiSlpjVG1kejY5NHFDcU1UZWdMd0xVQnZpWWpxMkdad1pWMnd5VTA5Y2l5M1IxNXhncVBwWGJFdUJNMVF6WnJxQmMwVmdRWGFidkswVWlJdUtRZDh1aGlaaTlmZWo1VVl3NkR4Y2drSXJBbTM0N0NMTU4zdXFfeEZ3RHBvMmd3a0YzNE1NMkJISURWRU5QWXFicWV6WFZEelVFQ0YxeDQ5RFEydFVFUlc3YlFVZUg0akg0bFRDMVYzcmdzOGZNSHJ4cDJubjd3a0VSblMyd3lOWWNQUHNZQlhEXzdJOFRVWnBfaEt6aHg5ZU9UdHYyajllQ2xtUjhJQURCUGo0S0VaXzJiNktTNGt6SkFNWGo2T2VxdDZ3T3Flbl9RMEdUWm93YTVjTXBIeVY?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T03:51:07.000Z",
-     "seen": "2026-11-16T05:04:45.881Z"
+     "title": "طهران: لا يمكن التوصل لتفاهم مع واشنطن في الوقت الحالي",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQYjcyZVdDZ1hSSk5XZWY2TWJjb210UjNpSmwzLTFUSUcxTk81UF9FTXVqbkJjV1UxaFVkYTBjNkVKWkRKVm55NnhHYlBBUlpCQVVPYU5OTUJ0MExrWXZJYzQ4SDlEblJYSXFaSERicXpwdHZfVF84a2tfUzVqV0ZOcC1pTlo0a1JFa3hwVE5nTlp0REVPaERRdXpqaEtoSUoxUkIzX2dPUjJWSmFzS01JSkdwejVfZExpZ0xEWV9vUW1hS1FDV0RzeVl1YkhnZGFFZE1VbGs4ZTN3X013czVTWURjTE1FZG5Hek5NR0ZoOGFQcDZPaFJIQkhRWlRRQWJzdjFRcGE5VXNiWk1MSUxDN1Z5MmlULXVMTHZvMlU3ZnN6SjlxLXpfbDFEeWRsaTQzWTJZcnRLNk9LRjJadXV3WFBwVVJqQ3IwRTFuOUEzZXdLT0pqcE5IX1JVRHY0cEZzSTlIeGRsdnBVbG05Z2cyUWExWmVrZ1N5cG0xRVFmZHU0VVlrN0FhcGpTNGNROVVvNmJYRDh6QjNGNGExODh6WW0tekVYV0stLTVvX1BKS2QybHdpcUxnOHJEelJrc3dK0gHGA0FVX3lxTE9ZdVlWbzVjMVVjX0VsZk54cTV3QlVJb19Bb0FkWGhlU05Kc1ZySlJnOHVtSVNvWWM5Unl6S2lQVE94UHZOb01lUHUta1lwQ2lPeWJSbU9YWGVZY010TlVCRFVQSmIyTFhuUUkxM1FaMVFhMVp1OXBUbDFQamM5ajNabTFKejAzSVVwZUo4aEJ4UFMxeVFhU1k3a2NmMXU3NG1DLUpLNWtFRWpvdkhtMVpHX1FpeEZEd3B4LVVLX0ZhN2NYUUtfaU5KNnB0Qll3UkdocW5wREliaFR3b2NBbUNfRHo1aGZNaDlBcUNLRnd6c2dxTng5MnV0aG1xbUs1WEhueWNkQ2FGSDM0TzhyU24zOVdhU0dmdko1MlMtblg0VFRfS0p1STJIY0x1TTQwWUExRkdmT0JNZHAzcWlIMHp1dTFzMjU3QXVOYU1ib0sydDRvTG1rTzhpQW0zR2hKc3k1QWdzN19oc3g4d2pCQUN3VDNCSER2UEFfMXZHS0dpTGowZUx1a0dTMktRbDNMY3lQYnVHd3ZIWmFIa1lEbkhWTGY4V3FpVGVQSHp0WVp1OU9PRkVuR0doUEFfOEd2akFRUUxnRXc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T03:45:00.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
     },
     {
-     "title": "القضاء العراقي يصدر مذكرات توقيف لمتهمين في قضية جرف الصخر",
-     "url": "https://www.skynewsarabia.com/middle-east/1904947-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%82%D8%B6%D9%8A%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T03:18:52.000Z",
-     "seen": "2026-11-16T03:24:30.154Z"
-    },
-    {
-     "title": "\"الحمد لله\" تهزّ ميشيغان.. الخطاب الذي أطاح بالجمهوريين",
-     "url": "https://www.aljazeera.net/opinions/2026/11/16/%d8%a7%d9%84%d8%ad%d9%85%d8%af-%d9%84%d9%84%d9%87-%d8%aa%d9%87%d8%b2-%d9%85%d9%8a%d8%b4%d9%8a%d8%ba%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a7%d9%84%d8%b0%d9%8a?traffic_source=rss",
+     "title": "موعد مباراة توغو ضد الجزائر في تصفيات كأس أمم أفريقيا والقنوات الناقلة",
+     "url": "https://www.aljazeera.net/sport/2026/11/16/%d9%85%d9%88%d8%b9%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%aa%d9%88%d8%ba%d9%88-%d8%b6%d8%af-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-16T02:47:39.000Z",
-     "seen": "2026-11-16T05:54:45.409Z"
+     "time": "2026-11-16T03:16:53.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
     },
     {
-     "title": "كارني: كندا قد تلجأ لصناع السيارات الصينيين إذا فشلت مفاوضاتنا مع ترمب",
-     "url": "https://www.aljazeera.net/news/2026/11/16/%d9%83%d8%a7%d8%b1%d9%86%d9%8a-%d9%83%d9%86%d8%af%d8%a7-%d9%82%d8%af-%d8%aa%d9%84%d8%ac%d8%a3-%d9%84%d8%b5%d9%86%d8%a7%d8%b9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa?traffic_source=rss",
+     "title": "النفط يهبط وسط توقعات بفائض في المعروض",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/16/%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d9%87%d8%a8%d8%b7-%d9%88%d8%b3%d8%b7-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a8%d9%81%d8%a7%d8%a6%d8%b6-%d9%81%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-16T02:38:19.000Z",
-     "seen": "2026-11-16T05:44:45.655Z"
+     "time": "2026-11-16T03:11:07.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
     },
     {
-     "title": "\"تعاون مؤقت\".. رئيس الإكوادور ينفي وجود قاعدة عسكرية أمريكية في بلاده",
-     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%85%d8%a4%d9%82%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d9%86%d9%81%d9%8a-%d9%88%d8%ac%d9%88%d8%af?traffic_source=rss",
+     "title": "مصدر سماوي غريب يرسل نبضات للأرض كل 8 دقائق",
+     "url": "https://www.aljazeera.net/science/2026/11/16/%d9%85%d8%b5%d8%af%d8%b1-%d8%b3%d9%85%d8%a7%d9%88%d9%8a-%d8%ba%d8%b1%d9%8a%d8%a8-%d9%8a%d8%b1%d8%b3%d9%84-%d9%86%d8%a8%d8%b6%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b1%d8%b6-%d9%83%d9%84-8?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-16T02:35:07.000Z",
-     "seen": "2026-11-16T05:44:45.655Z"
+     "time": "2026-11-16T03:01:28.000Z",
+     "seen": "2026-11-16T06:24:45.742Z"
     },
     {
      "title": "تقرير: إسرائيل اختطفت جنرالين إيرانيين لكشف مصير طيار مفقود منذ 40 عاماً",
@@ -447,13 +454,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T00:40:51.000Z",
      "seen": "2026-11-16T04:44:45.486Z"
-    },
-    {
-     "title": "أمريكا تدعو مواطنيها في البحرين إلى توخي الحذر وسط هجمات محتملة",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/the-us-embassy-in-bahrain-on-sunday-urged-americans-to-exercise-heightened",
-     "source": "CNN بالعربية",
-     "time": "2026-11-15T22:52:51.000Z",
-     "seen": "2026-11-15T23:14:30.146Z"
     }
    ]
   },
@@ -461,6 +461,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "شاهد.. الصين تنجز أول رحلة تجارية مأهولة لطائرة كهربائية",
+     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTHdGVlNqS25UeTNmSGd6WlVnZzFPX2FUY0N2QkR4S29qZFlTQkt5em9hUV9fR0RfRzRTbEZkTVphY2pHcUF1Tm1RN005czBUdmdXY25fczRPRHFXZjNuT3VGRDd3dzM2X2U2eDIyWFZuZmtfTmdqUE1waE9rb08yMmxJbjlNRmU4X0ZWV3NnYXJWaEJ0ZEZFeUpKM1JCYTZzQnp2ay1oelloSFZYLXFxNEgtVFpDcVg3YlNXYXpfd0dLQWhiVmJ2dXc3QUs4WWVEX3VFNjJBeEJ0U3hMQlZqLTktR2xGaUdkbHF5RURHdUpmNE1QT0dFWE1jSmpQazQ0V1hsVmRaX0FNYmJKY29wZXBuc1JSdllzekxpamJIRFJCRTJhSjN4NThBLUs4R0lXTUhZSmpnNU9zQnFYS0FIVWtmeElYQ284d1N5XzF5c3BYTkhVWmZpdmtrcEhLSEZpb1JhcUJjb2l6YUpxVERzV3hHTDQ0SDFVVzlWZUtBbWl4UEF5ZXI0TFdzb1BGeVZkWFJEYmt2bVlrS2lSWnFoUUNjWlBYaW1ESXBFbDdvOHBSekdLU1d6bFRqbF9FVlnSAcQDQVVfeXFMTWt0OG4tME9SZlU1RmdaZDJWTzFrRjVwVkwyaVdLcXhiYjdxa3pEcGNpU080MDJkUFpBdmlYVE9VOEZYZ2NtTGtBWGhkMDJlUVFINEU5Q25CU0x5aGdaX214bnZsamphbDJwODhaS1lVbTlhZUNDaEFyZ0JBUHpKUGNqWTFncjdXa2d3VTJFVE1lb2I2NXQ0Um11enFiSlpjVG1kejY5NHFDcU1UZWdMd0xVQnZpWWpxMkdad1pWMnd5VTA5Y2l5M1IxNXhncVBwWGJFdUJNMVF6WnJxQmMwVmdRWGFidkswVWlJdUtRZDh1aGlaaTlmZWo1VVl3NkR4Y2drSXJBbTM0N0NMTU4zdXFfeEZ3RHBvMmd3a0YzNE1NMkJISURWRU5QWXFicWV6WFZEelVFQ0YxeDQ5RFEydFVFUlc3YlFVZUg0akg0bFRDMVYzcmdzOGZNSHJ4cDJubjd3a0VSblMyd3lOWWNQUHNZQlhEXzdJOFRVWnBfaEt6aHg5ZU9UdHYyajllQ2xtUjhJQURCUGo0S0VaXzJiNktTNGt6SkFNWGo2T2VxdDZ3T3Flbl9RMEdUWm93YTVjTXBIeVY?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T03:51:07.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
     {
      "title": "دراسة: ارتفاع بلاغات مواد استغلال الأطفال المولّدة بالذكاء الاصطناعي بأكثر من 8400%",
      "url": "https://aitnews.com/2026/11/16/ai-generated-child-abuse-material-reports-childlight-2026/",
@@ -555,13 +562,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-15T16:08:18.000Z",
      "seen": "2026-11-16T04:04:46.139Z"
-    },
-    {
-     "title": "التحالف يعلن اعتراض وتدمير طائرة مسيرة بمنطقة المدينة المنورة",
-     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOS1dHTlhHdXVwSVRRVWhCa1cxWHo3cWNqcWNtNzRITkdfV3UyN2I1d2YzT3hPdlQxZ3VlaFlVVVNyZ3BUSmFLaFBWOE5pamIwclh1YTJDc1JFaUlXRkJtQkM5Q2ZsbS1NeThQWnpLU05XaDE0MlVXQzN3dEtua01SZlBIODQ3Z2sxTzBTY2k2NWF5NWF4ZTNWRlpaejBBcUgtZThEZlRjOHF0RHdhODhXQU9JNkRHUUJrUk1ZSDJONnhZaWpOZjRPWEVKQ3lpSTAxZTV6VUc1QlljMzRPRHB3ZWpUcVBQU25Rb1dfY09LX3dudUI5NGNFVDFScjNnbDV6aHpQU0hRVkE5WlVaZVV4WVQ4YkhPaTliUDFFX0E1bFkyei1BMEtoZmwxYjZfOUpxaEc4WXI3c1JwbU9SN0JrOVhnNVdLX3F2V0taOVJhb0F2ZHJaZzNYaGpqdHRNblItNW5haUl0ZVp0eENRVGZLTFdZUXN1R2ZZS0Y4LUZVTUdvYTNZcnNCSmhJendRNWNjRS05clR6cVBRbl94ZkdTNHdGMDhrWXRDUVNWZE5yTWNBem05SVFwUExFcUNWd0Q3RW8zUnJydFZvbE44MmZpNkRsZEhyVGVpVktscXh0UHlTTlFxWjJhalpxWndHRG1uaG1qQ2pDOTRmTDhDM2JEV0Z6YmR1S2ZOSkh0RXNB0gGIBEFVX3lxTE9aZ29DUjhCVldtTWZHZGFqMXFhVDBNckIzcVFSOEdtYnRaSnVMY0loQ1kxUVI1dG1zeFpDb2NJeXVvNmNNNUIxZE9QZ3NkaDhuTUt3YnM5VmpYeS03YV9mM2ljOHhPWGdyQWZxcGRReldfNXdZSDJyWE9yY3pYWUloMy0zOFF1LXFGX1VTQzhETmZWLXFZcTN4OXJkcUc1N0FDaFg4dzlwbmFSUjM1dnpBSUZqMUVJTDlFbGZZU19salY0VGpIYU9VUzFtYmVuVEs5d0FZTHZqdGJhYmlzWXdEeXgzNGRuYUwtUElqc2QzZzNDWVhJS19xLVZHc1BpSkh1Z1ZMTm83TFlhbEMxeTg3aFU5T2pGZFRDdXA4QXI2enIxYjc5eHlIYnFOcFlWbzdzc2pMTHByNGx0M1QzZWhaLWV1VEQxb1FxSzlpa21nWjNhck1wVkxTNldLcDVUMDU1a3lma3F4c1VIMllvRTJUaU13dGRRaFBtemxEVTJoclNUMy1BOXplZ0NEYU9nY0k3LWd6THZ2c3ZGdWhaZFZJM2Rwd1diQ3ptYlNKU2piN1U2dW1WZ2Vrd1JrWUlYUjA4Z3BhRVhEZGZFNmxMZFFaOFNvTmJ2dlhXRC1teG84TjBmbHVZTTZMTmFrZFNic3VNamtvX0R1ZDZrU3c3ZHZVWHZoQktaWHY?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T15:58:00.000Z",
-     "seen": "2026-11-16T06:14:45.630Z"
     }
    ]
   }
