@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:56:22.907Z",
+ "updated": "2026-11-16T14:06:22.684Z",
  "minute": [
   "واصل سعر الدولار تراجعه أمام الجنيه المصري في البنوك، بينما أعلنت هيئة الاستثمار عن خطة لإنشاء مناطق حرة واستثمارية جديدة.",
   "ارتفعت أسعار الفاصوليا البيضاء نتيجة قفزة في الطلب التصديري، في حين أعلنت وزارة الزراعة عن إنتاج أكثر من 4500 طن من منتجات تدوير المخلفات.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T13:56:22.907Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T14:06:22.684Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.63,
    "change": 0.42,
-   "asOf": "2026-11-16T13:34:17.000Z",
+   "asOf": "2026-11-16T13:59:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5844,
-   "change": 0.09,
-   "asOf": "2026-11-16T13:47:37.000Z",
+   "value": 5839,
+   "change": 0,
+   "asOf": "2026-11-16T13:56:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6672,
-   "change": 0.09,
-   "asOf": "2026-11-16T13:47:37.000Z",
+   "value": 6666,
+   "change": 0,
+   "asOf": "2026-11-16T13:56:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3874,
-   "change": -0.33,
-   "asOf": "2026-11-16T13:47:37.000Z",
+   "value": 3870,
+   "change": -0.42,
+   "asOf": "2026-11-16T13:56:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1012,
-   "change": -0.35,
-   "asOf": "2026-11-16T13:56:47.000Z",
+   "value": 1.1016,
+   "change": -0.31,
+   "asOf": "2026-11-16T14:05:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 94.25,
-   "change": -1.66,
-   "asOf": "2026-11-16T13:47:37.000Z",
+   "value": 94.23,
+   "change": -1.68,
+   "asOf": "2026-11-16T13:56:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64051,
-   "change": -1.92,
-   "asOf": "2026-11-16T13:57:34.000Z",
+   "value": 64102,
+   "change": -1.84,
+   "asOf": "2026-11-16T14:06:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "«زراعة النواب» تناقش أسعار القمح وقصب وبنجر السكر وأزمات الأسمدة وكارت الفلاح",
-     "url": "https://www.elbalad.news/7182902",
+     "title": "محمود عبد الغفار: عواطف حلمي فى منزلها وليست بالعناية المركزة.. خاص",
+     "url": "https://www.elbalad.news/7182919",
      "source": "صدى البلد",
-     "time": "2026-11-16T13:54:55.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
+     "time": "2026-11-16T14:05:21.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
+    },
+    {
+     "title": "القبض على طرفى مشاجرة بالأسلحة البيضاء في القاهرة",
+     "url": "https://www.elbalad.news/7182911",
+     "source": "صدى البلد",
+     "time": "2026-11-16T14:05:10.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
+    },
+    {
+     "title": "وزير الخارجية يدعو \"الوكالات الأممية\" لمزيد من التعاون في مجالات التنمية",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-الخارجية-يدعو-الوكالات-الأممية-لمزيد-من-التعاون-في-مجالات/7620974",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T14:03:00.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
+    },
+    {
+     "title": "مقدم 5000 جنيه.. الوادي الجديد تفتح باب التقديم للحصول على المنازل الريفية بقرية دوش",
+     "url": "https://www.elbalad.news/7182904",
+     "source": "صدى البلد",
+     "time": "2026-11-16T14:02:44.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
+    },
+    {
+     "title": "تخصيص 25 مليار جنيه سنويا.. قيمة الزيادة حسب الدرجة العلمية لأساتذة الجامعات",
+     "url": "https://www.youm7.com/story/2026/11/16/تخصيص-25-مليار-جنيه-سنويا-قيمة-الزيادة-حسب-الدرجة-العلمية/7620969",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T14:02:00.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
     },
     {
      "title": "نائب رئيس الوزراء يشهد افتتاح منتدى الاستثمار المصرى الصينى بالقاهرة فى دورته الثانية",
@@ -151,36 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T13:53:00.000Z",
      "seen": "2026-11-16T13:56:22.907Z"
-    },
-    {
-     "title": "الاقتصاد الياباني ينكمش 0.1% خلال الربع الثالث من 2026",
-     "url": "https://www.elbalad.news/7182898",
-     "source": "صدى البلد",
-     "time": "2026-11-16T13:52:26.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
-    },
-    {
-     "title": "حسين عيسى: مصر تستهدف جذب استثمارات صينية في الصناعة والطاقة والبنية التحتية",
-     "url": "https://www.elbalad.news/7182897",
-     "source": "صدى البلد",
-     "time": "2026-11-16T13:51:09.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
-    },
-    {
-     "title": "محافظ القاهرة لـ\"اليوم السابع\": تطوير «الإمام الشافعى» يحظى بدعم من فخامة الرئيس السيسي",
-     "url": "https://www.youm7.com/story/2026/11/16/محافظ-القاهرة-لـ-اليوم-السابع-تطوير-«الإمام-الشافعى»-يحظى-بدعم/7620706",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T13:28:00.000Z",
-     "seen": "2026-11-16T13:36:22.911Z",
-     "impact": "قد يؤدي تطوير منطقة الإمام الشافعي إلى تحسين التنمية الحضرية والبنية التحتية وزيادة قيمة القاطنين والأنشطة بالمنطقة."
-    },
-    {
-     "title": "وزارة الزراعة: إنتاج أكثر من 4500 طن من منتجات تدوير المخلفات",
-     "url": "https://www.youm7.com/story/2026/11/16/وزارة-الزراعة-إنتاج-أكثر-من-4500-طن-من-منتجات-تدوير/7620848",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T13:27:00.000Z",
-     "seen": "2026-11-16T13:36:22.911Z",
-     "impact": "يبرز إنتاج منتجات تدوير المخلفات التوسع في تطبيقات الاقتصاد الأخضر وفرص الاستثمار البيئي في مصر."
     },
     {
      "title": "المتحدث باسم مجلس الوزراء المصري لـ CNBC عربية: رفع الحد الأدنى للأجور يشمل جميع منشآت القطاع الخاص.. نستهدف رفع أجور القطاع الحكومي إلى 15 ألف جنيه خلال 3 سنوات",
@@ -244,6 +242,21 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
+     "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T14:00:43.000Z",
+     "seen": "2026-11-16T08:34:45.880Z",
+     "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
+    },
+    {
+     "title": "أسعار العملات في البنك المركزي المصري اليوم الاثنين 16-11-2026",
+     "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOcm5Kb1daZGk0UUNBODZqbkxYa3RfZURTcW83ZlFPbzJrQ2hkZkNDQUNCYVZiWl9XVm5DRnRDWDJGT29NREJyMU9RUktEMHZnQTU3NDR2UW9jdWcxeUFEdXUwY1ZrQzJFbDkzT2NJNXdCSnNJNEo2NFFBQWl4cUZNcE5EVlVEd2NqMzZEVUlWem14Q1NId3AwN1dwRmNONUNGSU1EVXpmcEpnalVXeTljVGRhNldOUVRiYlluVkRfU3p6WHFrUjNvY2ZWSVp5LWFGVWlLaV96YU1sTmhRS0t5TEJrRC1LalQwdDhxYzVTbmFGM0FhRWdpTlhFRHpucjBieUh5RlAzN2pMTFY2WGx5WnNMLURNakhXa0NYandHMnEtazNfZFZlR3F1QkdMUkJrMHNpak1xcnNkOG1uZzc3RzVPMldEZld4dU5PeTVvMzJWbGNtLTVkMjBUX1RJSjZFS2Y3Rl9kNlBrNF9VQzAyS0poby1idw?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-16T13:58:03.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
+    },
     {
      "title": "سعر الدولار في مصر اليوم الاثنين 16/11/2026.. تراجع بالختام",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQjVTbUhwdFdRVHJvSlpTS2UzVVU3MmhQWFk5Y1MzSE8tckl6cDBXM2tJbVdCNnJqazBHeUFMVXhBb0tvMXJQOUNzRkVoRmx4UnZ5UC1R?oc=5",
@@ -329,26 +342,12 @@
      "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة أثر تدفقات الأموال الأجنبية الكبيرة على السوق والسياسة النقدية."
     },
     {
-     "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ\"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
-     "url": "https://www.bbc.com/arabic/articles/cm62p3x05xgwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T10:41:39.000Z",
-     "seen": "2026-11-16T10:46:22.180Z"
-    },
-    {
      "title": "بين 48 و60 للدولار... صراع الشرق الأوسط يرسم مستقبل الجنيه المصري",
      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNR1lxdXFrbDRKVzUyQzAyVU5XczlTT0RHX0VVY1Bhek1ZWGtZaEc0aTNJdXpkcE1lRjk3RV9waDFDa3k3NUdWNXM0bHNxMHUtbGJuX3JuaTlkMl9EVGJNN2ZHakpjQkJEeUJwT3JmN1haejAxYWJTajBZdFZUc0FKV1ZMQU04NVJOR3VoLU5aWW12aURxbVdOZDViSDNmTTZrMHA3VEdjY0F1MzdNZnZTVGo1amZvVU9LZkdNUTBKcTc2OEUzT3RsbGh3bjhDMWo0VTdlRlR4N2xydy1UbFFKMGxnTy10OHoxNWVHV0xremprSThCYl8xMFJlY283a1VzOXpwQnVJR0JTTWl3MzdCZlB5c1NkZXpKREV5OHlVOWFXZ19EN29FTmxCMlFDcTR6Nl96eWtKaGlKSzF1RkRMbkU1UjliMWlBSkh6dFV1eTY1OVotd1RtZ0tBYnFSNnFMM2dLdC00dDBZWExjRGI5UHZyT2lsTXdlUUdfVkg5c1lmaVphNEZWa1J6UGFKSjNrRk1NT1pXYnBOeURyanh5bDFCNng0bkx5dmN3SzA2ZkwtbFhPY0ZBd1RWTHF0bkRTYTNleUFQV2Q2bS1ZbjUwS2VfeXhIaFFqazhQaloza2FtanRTemFJV0t5NGpPamxQR0xBSHJpdEZBckFOS19Eb2YzbDhUaEUzZldzQ0dEYmQ1aEhPeTlGRTB1VFNnT1N5THVYakc4bXJKR2ZsZ3duZmZoZlZkNHQ2T01wS2dWdEFjN1A2S1JTTUMwLXV6RUdKOHd6ZGNESnVHNzF0Zy1tY0l2ZklIWk54UXpYMktVdnpGSnJhRFdJMmhHMi0zUDJ2SHpHMUFEaHU2TGpBdlNfeg?oc=5",
      "source": "اندبندنت عربية",
      "time": "2026-11-16T10:23:40.000Z",
      "seen": "2026-11-16T10:36:21.726Z",
      "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة توقعات حركة سعر الجنيه مقابل الدولار في ظل التوترات الإقليمية."
-    },
-    {
-     "title": "تراجع سعر الدولار مقابل الجنيه خلال منتصف تعاملات اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNUUs3LXVKeWdmanVuYVp2ZnNFREVHSl9BbTM2MUpJd1BNYkZRMzdfQVV5bktEaTQwZTVYUnJ3WkpUR2NWWkFJa2YtanNScWhudU95bjBOT256WGo0YWc1MzNhRFNNX2ZJT0k2VDRmd0l0MjdyN28zZ0lQamRaNnNjemI1UnplakpaS2M4LUtCVzM3d2l1Uk05bG9xZ3Z4UGktelVaLXM4NGtEdEFLSUtsdURLVE8yYnA2c1ZFd3ppcjZPWEdjd0ZENUNxNDNZUlNRMTVadmY1bEgycHk0am1qVEN0WndaY05HSXhqREhPeGFOQ09nQWtlRml5akRCRkROeDhNeEFkSUQ3cFd3NXpkbWZLYUE4aEJZZWxVQ1diQ194eVNIanl3N1RMZ0k3NTY5bm1Oc3VRMUJLUE9HLVd2WGtuR3FwWC0tVjdpbnp2X0RURzRhc1oydERZWlRNOHZEWkR1OW9nV09lSGpmVXFaX2c3Ymt0aGcwcF9ua0t3YkJNN3R0Uk1TRTNwT0R2dHI2OW83SmIzRWFMR3ZjOV9qN3Y4UmJzTTVjQzVaMFdZVVBsTnRpNWN3Ml9qNzBqUS1JZDJicGFhN2NZZldDdlozQW13SjBOQ0hSMXNhUXEtQVcxd0dEbWZKSWZGcUF5M3hnZjc4ZER1T1JrNFl6c2RxWVI5MHdndGlQTFRoZnRNdVE3SGlPMHZZ0gGSBEFVX3lxTE1UY05sLWZwbUdnc2RGdk9hX1p3d2lkZ0g3VzVrRFM4SG9DX0xYV2x2ZzlZcEJHeTZfdWFUUDBLVXRsclJucEVRQm1kRDlyUTFnZ1p2eGd4Njdad2kwV2gyZGwzMnRXdmJwSXIwSDZpeF9IdVp5dUdUWUhpeTdGOHRRLTA3Q1QxMTdyd1RJU0JsVXhTMDNuLWRjSGRDMW5IcWlhNG5RMldVU1BjZ1lqUU1ja3NxTzZGX2taUGhJZWdOSHV4SC1LektKNHhjeUhUYkNqcTRxd1A1M2NualV4OVRNd0U2Yk1UNTJ0TWJFRUY3dndpOHlCRnBTQmZfVWFjN0lKUlJHY2txemtrYzdKOXVjQ3owRzVrOUxZTnhYVzB0VVpzdGtIZEtDVTQyWmIxU2NUbGlqT0FkUVBMSDdscHNocTBLUGdVVzdBVlBiajdPZjkzaWVRV1JSZFhzZzR3QWdoNzNURHhHaHFpY1JuT0ktcWtCdlQ5RHdJQXdPbGNIcUNKUWRLU1NWUG9aM0M3Qk5fRDZfVkdtYUZkeWhaWG82NnBySzdlQVpDS3I0R2l0d1ZVSDBUWkk1UTlfcmExN3c0UTNoMHdBY3RDUW5VdEIxYnRrVG1YVUJDUGtJX2lfM2VRUXREZ2x6aVYzbzNZQVNjWFhFZWt1VnpXQXlhSHVZS0pBYkxKaFFlNGVlS0l2aktn?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T10:05:00.000Z",
-     "seen": "2026-11-16T11:56:22.213Z"
     }
    ]
   },
@@ -461,6 +460,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "ملايين الصور لفلسطينيين.. هل استخدمت إسرائيل أمازون لرصدهم؟",
+     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPanByUTZuWm1TaWpZb1Bxay1uOTNVbHh6RDRrYkVRLXAtcXVac195dTV1S2ZCdE9abEt1V09qa25LcXBXOXQ3M3p3TUM1MlRQdlBZWERCLU9NWlF1YVNGa2RYblJkX2JHY1BGYTY0RHZEWXdzRHUwbUIyQWpwUnRWT0RrREdtdUxINUdiVzRQRGtVMWFWcU5vVWFhM01TWVFvWnhseE4yMnZkbVF0ZHhxcjZxM19yMTN5WmZPcEU1QlI0X0VwelFYS3hWQ0xITV9GT2F0a2RHaVlVMjV0WFNCWmhMVFZaUWhkdGM2cFV4Qk40M0hDUF9MaUE0ZmtDbmVrZVBXZi1uTXVsMEE5Xzc1SjRVMmhaeXhMbGVkdzliTFBVMEJEekVINDZFN3pVMkYtYkRZUXdWQmJtWkV6aG0yX0l4MDhWZzNPWFFnOWppS3VxdE9OcHNGWGZpT3JQY2w1VTZLTzM5WW9GQUNTOVJiQzVhUjMtbUtHR0s1WTBfYXExVzZTYUppSWlLbzUxX2tHZHVFa1owQ2lqTVQya3Z3bnE1V2twajktb0NVRjktX0RBU1plRE5NYjM4cTFnd0Q2U2d5bmlDMGVKNUFNcFRDTVFoWW5XWFhhN051UEFDY9IB5ANBVV95cUxQQVZLOXp0MENkZFRORHZkbE5KdVlRZVVVNjhrZEpkb2JFRm1aZEc4TXZHbkRlbmdHcHV6aFowaTE2ZklCWXl3UFNZUmk3MWdHeVdQZzhCSTRlNkFxSVJWbHhWaHRULVl3QlRFUTV0NTROSWU2LTdrNUdCclhSR1NMOTUtOGJGR2xzZkpxZF9LaXg0LTBmTGpfUkx3eXRXandlSXAwN3JFMklIZ0RGdVItLUFyX3Q3ZVhrQm44M3hkZXg4d2ptbm1fcHVLQ3dTdWVSNEZnUmtJLWRRNnhYT3lhWnBITy1aT05WbkNwRnNRNG0zSXRGa0g3V1RrdzF2R1EyMEdtMkhxRzFFMDA2OVdqeENGRkQxUTFLMzNUR3FOeUdwSUc4T2wxQ0VNaFd3SnJFS0ZKeGxsRjhRa0JHdk9sNzgxdUpiWFpRZHlRT0x0YzdBNFV3dlZSUElDZjFERDJ3djBKcFY3R3RkOFRzdkxVTGY3ejdkS0NUMHlFMmMtc1F3bXhYN1ZoVTF0TjRsZDgwWWlNR2N3WmtvR2I5TUQzcGY5SjhkZVZwY2w1RDZPS2VHQlBWVmU2TVVvSVVLUmhVeEpsT2JtTjBRX3N6dkhZdUxFOUl2NlpNa1Z6M0hFSjVQcUFn?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T13:15:33.000Z",
+     "seen": "2026-11-16T14:06:22.684Z"
+    },
+    {
      "title": "مُبيد إلكترونى.. جهاز محمول بالذكاء الاصطناعى للقضاء على الناموس بالليزر",
      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOc3NsZTFJUVBZWllSRnplVFJPLU45U280Vk8xUm1DYWR0R2I2OUdQNTZmQkwxbGxpd2U5d0I5b3djTEk0Uzl4ZXN2LWh2ZVBURVQzaWZPUzQ1MmlGYnZSd1RES19FLWNaV2t1c255dGhEdFRuajZQaVRyU2pMejRoMHVqTU5ZSU40VUJrWnhTTXh1aFpQVXhhMHdjQWJVUUQxbFdkSkRqY2tYVTI3WXdoT1BIM2pKbGR6VU5NMXcyZEl4SWRFRVFGenhpTUxkUmkzcUt0OVF3ZHFxNVJ5cjF3RmFrZ09mRWtxakRYaS1qcmxhZXNQOF8yckFnY01LaDEwVWJtMEJKa0EwZDFPYmh4eGtqRUgyd1R5QUlraHo5NHhWekNINWQtTWhQV0pZeVJsNl9IM3otTWRsc1hWQlpiR0swMFNOc0o3T1pWWnpqN2IyQnBudXNwcEVOR041eWpvTWF5MzJkOHZwYzJTdnNkR0YtcjdhRk9xOGVOY1ZPOUwyck0yR3BwcUV3dUhDMzFtWFRwMmd5eFBlRTdCOXd1SmFpMDhmeWl0SnpBcTB3Yk9qNDBvZWtzZE5JalJVbmhpeU9CN0YzcUxpa1RldThLS2pXUWhUOGJUejJqcV9adGNLYVQ0N20ta1l3cENFTXkyaENicEdfUHI3OW5BMmQ4SFQ4aHZNaFV3SFR6c2s4ZzA3cGptd251Y0VGY2ViT0pxcUhjMnhrWVM4a2VlU3h0R2N3OTZnZUhQcXg1bHJUT2dlaUtpRVRoVzV4Y3BuUHPSAcoEQVVfeXFMTkR1X2l4N2hKSWtxYWRKWXNqcEdhYjF5TUhVMks2Q1MtZVBIR2hvQTd2Y01Tc1hjbTVaTFd5ZnJES29fdUxGazBUcGs3cWtaQVVUaG9GOTItVGNaWC1vVFdTM2oyMU5wcEtXREt6V1NXZjRRcEN1VTRCZ085Z3NyRjZwUjdTZUR1Q1F6SUNHMzRUeENmYTUtLUQwSzBEMUx3SDFNQU9KbDBKU0loOVFiRTdTVkYzYWlNc21TaWp3S2FYanFYRFptVlhGZEpIZTZKYlBLTzNUdmdEMG9jSlhVQWhRYi1QcThBZ3A3TDdhbTlGb2RFTVBWRHlzUk1mZ3VWMG00OGdGV3drc1VWbGxqODRGU2hDcS15N0NEdmNac19mS2twb3VDVVMwQ0JTWjBubWE3ck93b3dIX1R4Rk51YTM4ZUhYdk1yZlRNUHdubEd5M0xHczZ2d3dESExfb1BwWVR2NDlBZ0VjT1JJdGZKdXB6UVJGV1FpVmlPR2RocklFQjY3VS1UNUhUd3pHaFhvX3plTW5GVTctUHZXeVViSHdfVVg3eFYyVE1EVlhWUlJ3cWt4NUdVT2o4MW1WVkEyT0lhblNiNktRSE5qUGREZFIxcEd5Z0hvWHRxVE5JRHNxTVNILWEtRDJaYm1scU1DMjAzaFMtdE9vTFRkMG9ZakpMV2tWU3BMOEY5SEM2Z2UxUGt3WGhfekl1NkJaYVdXVlVJdFRWTDE0dlhScVh5My1FU1VRSmMxblAwNGpmYlJPMF9menNvaXgzdw?oc=5",
      "source": "اليوم السابع",
@@ -473,6 +479,13 @@
      "source": "العربية",
      "time": "2026-11-16T10:53:18.000Z",
      "seen": "2026-11-16T13:56:22.907Z"
+    },
+    {
+     "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ\"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
+     "url": "https://www.bbc.com/arabic/articles/cm62p3x05xgwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T10:41:39.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
      "title": "رقم قياسي.. روسيا تدمر أكبر عدد من المسيرات الأوكرانية بيوم",
@@ -505,14 +518,6 @@
      "impact": "يدفع تأثر المسارات المهنية بالذكاء الاصطناعي الأفراد إلى التطوير المستمر لمهاراتهم لضمان الملائمة لسوق العمل."
     },
     {
-     "title": "القوات اليمنية تنسحب من باب المندب لـ\"الدفاع\" عن عدن مع تقدّم الحوثيين نحو المدينة",
-     "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T09:14:40.000Z",
-     "seen": "2026-11-16T08:34:45.880Z",
-     "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
-    },
-    {
      "title": "الأمم المتحدة تبحث كبح جماح \"الروبوتات القاتلة\"",
      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNZnMxcXI1czVtWm1WcGNfUU5KVEFfTzh5VHI0aVpEY0YwN1J5WGIwSnFpa3VFNWpYdjN5U1hBdW9HZ2NoTFNmdGU1b0lfeEI3Rkp1QW9fNE5td0s3d1dwbjdyOHF1bGdXN3VKQmlna0s0WkdoOW5MZWQ0aDFmM2xGdHBYeEs3VXp1NGRYTHRTSjRjYTRsdTc0XzJ6MlJJSGVISWRHQVpXQUdBT2NRZjB0OTRjTnIwWFlEV2FCLWxIOWJKYzRxbGRVeGlCRDktbWVJNld1cURRZ05yVEhBRkZuTU9paTBsNGhjRnkyUWdsQmJ4STNFZ2duOEd3ZERnbzdxUVJBenU5akhiZFF1bk5lVnRNNV8ycFpMSkEwbXo4cGlEYkJFVl9FdG9BOHE2M1FGWC1ac2t5YjhuaE5XN0t4SXlQQy1pT0lhSjZXeUsxV0I3WkM2NmVKQkxNbTJKamhHYkZ0Si1SeDVjbGJZSEJRM2hOR2tpckVpYlE2Z1d3OU5uM1N5MHFBNS1EZldqR1NJUC1TNnp0NNIBnANBVV95cUxOb3VZWXpHQ1hwMUJ4aGpZMnc1TkV6V3J6VlJCV0NXdWdBMDdocDdiWVVnV1VRR3pSMnJwcDJ4REhkbXhlUG5VZHRRdEw5LTg5bnRldi1OMUd4c1RHQ0tNYTBSc1RoYW9LQjV1N0lVcmJ5NkdqX1lwcnd1bERYUTRpaFpsc2sybXlySmZKQ1pKUHhVQUI3Nmp1bEd2ZHM0ZW1Pb1E0c2tRV1J1RXI3bmRKSHd3eHpTSFl5M0E0d3NZZjJSaG5kdFpVZWtYZTY0SmNNdXE5ZXJxMENGQnZ5REszaUcyWE94RDhDNlE0VTZTVlF3M3M5UkVYRV9EUlo5THZKcXVmUTdzWndLZU5KM1ozZU1RMnNtTkYydUhhbl9IbzUxRVN6ODRNWmE3aGpqT0NHbDYzWTFvR3NIdEswUVdoMG9lRG84d2RXRVNkUGxXbjRqeWx3YnFfTDlfTmhmajUwZzZ3WEttUGNla1VpN0lOUGtVaHdEQlVNcFk4aWZMSEZLZThqUHhrX2xnOXRta1RSZ1E4MGVYbWhQU0xa?oc=5",
      "source": "سكاي نيوز عربية",
@@ -533,13 +538,6 @@
      "source": "BBC عربي",
      "time": "2026-11-16T08:52:18.000Z",
      "seen": "2026-11-16T08:54:45.920Z"
-    },
-    {
-     "title": "الأردن يعلن حجب تطبيق\"تلغرام\"",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSDl3c2R1RTdFWDRwcDlNNGx1NXludkpiUEx3ZUttUWE5bmpGaTJEdFpZekxsVjFWVlY2d0xkck5QTjJfcHpIQUtmRHpvcDU3T3NKOXJNLWZEQ2JmeXpia2RJcjMzZjhteXNfSWdpVUN5Sm5EcGNLWGw5TFhLVXp4bGtiUUhxdllDMXpNTVZpZ2JuM0RKZVdJblJsYmtoSV8wdmxVdXAybmpyVnhtWWtxNUJFdHdxTU1pb21DR2JVM182bXlPbUdRZmdWZVVSOXJvSHhFend2Tmliam5kem5DdTRNZ3ctVnVodjlqcGlTVjJRU1h5TnBIeFNrR2RlZ1l3b2I5RHE5ZHlXSmRNUUU0dG14RjZuQlB4WGNsTl95QU4yVm5n0gGqAkFVX3lxTE92amFMRC14V1RaQTEyNTVIcTFTRDVGNjIzN2hwcVZTQXQ5OXNzWnFycUtmSV9xQVhNeUdJUTY2R21kc0FvbTl2SDI2Q1V2WjFWcVdqNkRwTVVLQkIzbXpYQ0tWX2ZYQWZfOGZLOFkwT3hRb1lxaXJwSmpuU0NwSE12M1lxS0YxM1pSUFdBMjZpcFA1M0JTVlRKYzgxMHk0cE5LdURMc0hvRmY5RkxIS3hUckJPYXpJNlhjbVNUbFdHcnVuWEt2Y0hONWlUaUN1bjdQRDNvQTVMVkZaNk1ITzZVTU0weXZuOFFWQnFMV0xGRUxHeEE1SDduZ09ablNHaHZxSzJxRHZmeDZMa1QtNVpmeWoyN2RGUk85NWJQRzdJRjF4Zm1jRWVmZ2c?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T08:50:59.000Z",
-     "seen": "2026-11-16T08:04:45.803Z"
     },
     {
      "title": "علي بابا تطلق Qwen4-Max بقدرات متعددة الوسائط وسياق مليون رمز",
