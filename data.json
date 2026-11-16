@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:37:17.463Z",
+ "updated": "2026-11-16T17:47:17.822Z",
  "minute": [
   "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
   "أعلنت وزارة التربية والتعليم إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية، وسعيها لإنهاء الفترة المسائية بالمرحلة الابتدائية بحلول 2027/2028.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T17:37:17.463Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T17:47:17.822Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5841,
-   "change": 0.04,
-   "asOf": "2026-11-16T17:28:14.000Z",
+   "value": 5839,
+   "change": 0,
+   "asOf": "2026-11-16T17:37:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6669,
-   "change": 0.04,
-   "asOf": "2026-11-16T17:28:14.000Z",
+   "value": 6666,
+   "change": 0,
+   "asOf": "2026-11-16T17:37:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3872,
-   "change": -0.38,
-   "asOf": "2026-11-16T17:28:14.000Z",
+   "value": 3870,
+   "change": -0.42,
+   "asOf": "2026-11-16T17:37:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,34 +66,34 @@
    "unit": "$",
    "value": 1.101,
    "change": -0.36,
-   "asOf": "2026-11-16T17:37:47.000Z",
+   "asOf": "2026-11-16T17:47:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.24,
-   "change": -2.71,
-   "asOf": "2026-11-16T17:27:46.000Z",
+   "value": 93.09,
+   "change": -2.87,
+   "asOf": "2026-11-16T17:36:57.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7450,
-   "change": -1.48,
-   "asOf": "2026-11-16T17:38:20.000Z",
+   "value": 7451,
+   "change": -1.47,
+   "asOf": "2026-11-16T17:47:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64856,
+   "value": 64853,
    "change": -0.69,
-   "asOf": "2026-11-16T17:38:13.000Z",
+   "asOf": "2026-11-16T17:47:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,32 +140,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نيجيريا تعزز حضورها في سوق الوقود العالمي مع ارتفاع صادراتها إلى بريطانيا",
-     "url": "https://www.elbalad.news/7183254",
+     "title": "روسيا تطالب بانسحاب القوات الإسرائيلية فورا من جنوب سوريا واحترام سيادتها",
+     "url": "https://www.elbalad.news/7183275",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:32:54.000Z",
-     "seen": "2026-11-16T17:37:17.463Z"
+     "time": "2026-11-16T17:45:44.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
     },
     {
-     "title": "الأمن يداهم مصنعا لإنتاج المعسل المغشوش في الجيزة",
-     "url": "https://www.elbalad.news/7183248",
-     "source": "صدى البلد",
-     "time": "2026-11-16T17:30:55.000Z",
-     "seen": "2026-11-16T17:37:17.463Z"
-    },
-    {
-     "title": "خالد الجندي يوضح كيف تعامل النبي مع خلاف ابنته فاطمة وزوجها علي",
-     "url": "https://www.elbalad.news/7183252",
-     "source": "صدى البلد",
-     "time": "2026-11-16T17:30:47.000Z",
-     "seen": "2026-11-16T17:37:17.463Z"
-    },
-    {
-     "title": "أمين لجنة المبيدات: تطوير التدريب والإرشاد الزراعي لتعزيز الاستخدام الآمن",
-     "url": "https://www.youm7.com/story/2026/11/16/أمين-لجنة-المبيدات-تطوير-التدريب-والإرشاد-الزراعي-لتعزيز-الاستخدام-الآمن/7621277",
+     "title": "رئيس جامعة قناة السويس يستقبل رئيس جامعة السويس ونائبه",
+     "url": "https://www.youm7.com/story/2026/11/16/رئيس-جامعة-قناة-السويس-يستقبل-رئيس-جامعة-السويس-ونائبه/7621288",
      "source": "اليوم السابع",
-     "time": "2026-11-16T17:29:00.000Z",
-     "seen": "2026-11-16T17:37:17.463Z"
+     "time": "2026-11-16T17:45:00.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
+     "title": "مفتى الجمهورية: التجديد فى الشريعة الإسلامية فريضه شرعية تحفظ للأمة حيويتها",
+     "url": "https://www.youm7.com/story/2026/11/16/مفتى-الجمهورية-التجديد-فى-الشريعة-الإسلامية-فريضه-شرعية-تحفظ-للأمة/7621294",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T17:45:00.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
+     "title": "خبراء يحذرون من خفض مستهدفات السيارات الكهربائية في بريطانيا",
+     "url": "https://www.elbalad.news/7183268",
+     "source": "صدى البلد",
+     "time": "2026-11-16T17:44:03.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
+     "title": "ممداني يفي بوعده.. إلغاء شرطة مكافحة الشغب ومنع استخدام الغاز المسيل للدموع ورذاذ الفلفل",
+     "url": "https://www.elbalad.news/7183256",
+     "source": "صدى البلد",
+     "time": "2026-11-16T17:42:46.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
+     "title": "مدبولي: الذكاء الاصطناعي يفتح آفاقا واسعة أمام الإبداع.. لكنه يثير تساؤلات تتعلق بمصادر المعلومات",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwNmJTVU1hVXJfQXptd1plQnpfU0U3eTNsbGxwYTh1ZU1iSVlNb3pRVU4ydFVhSTRxS2haRjh1aEV4TnlGQU1ZdFcteE9ZR2paeFZEV05EbTBEem9xRXBR?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-16T17:42:00.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
+     "title": "لجنة المبيدات: تأهيل 32 ألف مطبق للمبيدات.. وخطة للوصول إلى 500 ألف لتغطية المساحات الزراعية",
+     "url": "https://www.youm7.com/story/2026/11/16/لجنة-المبيدات-تأهيل-32-ألف-مطبق-للمبيدات-وخطة-للوصول-إلى/7621266",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T17:41:00.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
+     "title": "مدبولي: أطلقنا الاستراتيجية الوطنية للملكية الفكرية لتحقيق 4 أهداف مترابطة",
+     "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxOZDdBOFRGTS1lT1F0ZW9sZWV6YU9GZVo5X2Y0ejBNcEpEOGxLcXdPWEI2TWhTT182clE0SWNPVVU3SVdCNUxrYjNGdEF3ZWkwUmkxeHRNb3BETTN0c3lKTEFNTWdQLXlpdDZJVGFqN0NqR090WXJXYUhHNUlTcDBHRXgtbnduNmNWUDBXRlR1TTd1UWxEUTN1NS1wRXdwOHREeEJRTXpSYk1kSldneHVUMERqSEJSS3Mxa0FvaDRnanBTVEZDNmpfOTR4RjVsOTlUMWNzYl91b0hrNVZvdmwwNV9QS0pBaEZIU1h5YlVtQ2Q3QkJkSXhqNmZaSkEtSTFSdWpYa244SE5MTlFpbjFzczljVGlNT1A0T2RUdTFZRTItNWNla0lqdW9aN19NVFpnYU5SdHVfN2RGSEI1d2lwd2NBai1jQ2prY0FlY29GNUp5c2xLTDkzand2X3ZjNWt5S2JqVW5TYVJyVWk5Ri1QT0lGQ2NmeFdhWnh1M0RlZlZCeEhtTTlWUkhtb21qaEw0SW5LRk9SRXhxU01aT1Rxa19SNEIxcktBRHBjclN2ZGRaT1B3amtTWnhWV0k3UWVYTURjMElLdlpRVzlxVTFBU3VFc0hVMjVuVUo5eUR5OXQyUUQwUTBNOTVDSlVpYUpEeGd6VFlBczVxNXBoQ1dzZXNVdDl0by1DNFdFdTB0blBWVlp2VU92SGN1WWFrN3htcXU3YTJqVkxGNV9sNC13LTd6RlRsX21DcUtEVnZIUWkwZVhjMU9YM2pIcXdITlhiRWRZdUZza1pBZF9NMU5jVVZBdkhOTkZqSThPWEhMNWtsTWhFT2pqMmVVQdIBgAVBVV95cUxNWGhndXl1dW9vNEhZSnF5Tk80TF8yLTlNbllsUnUweE40Uy1Gc043SEpMSmJfUy04U0FuRndrbk1xbmpEaTJiRXpoNkRLRWFJdkZuU19VamxkNzhKdzhGRzJDcE82MTRXMVFWSi1EMWZfWWx2RjJ5b2tnbUUzZHJad2wwNTBNRTdVclhxVEw3bWFGNlkyVjNhZ050TDJKcEJZSThGQzVEdU5NMlpTVlBFY1hfQS00NndxSjktZWwxcTFDQzZPRk5uV2ctWndvajV1eV82b3dXdEFlOVlBS01CcnNKVmtPUmRuUGVacWF5RGE2Yk9nVllkMmJXV2ctZzhCSDJ5UHhqUjlZbDlGWjl5Z1Bic1IxaXRIZmpXcTAtMEFxSGJaU1YyM0RLS1pucV9rQThFRXkxcDhjZUZQYk9YYzcxa09iSVI0SHo4Y290S0RLeW91LXM5Sm5JRlpDREQ2cm5LdEYydTBhYW9MM3JoOEY1QlpiYWZrU3BiLXVUR0tqbTFEMEY1Zk1QT2JyYXQ4VUM3QXh2SzVRalVncXBCTUx1eERKeHZRSXFKMkpKVWJsWG5wS3BuOFNWekZHc0FLaVppMlBaQ21rWDhORnJFZ2pyNjNrZHdROE96bkpmd2d4NjZiWXEtUDBUY0V3VnJBSF8tc0YyTjJzY0V5a01zMjgxeUxPSVJGWHpSLWozeVA5TXB1TE9ibEcxeEhFV3RKQ080MXdCUUs2NC1ldmd6NE9DTjhueWdzalBwdUZTSmZBd21EQXEzQW04MFJXblNLYjV3VGRxb3I2Uy1xY1FiaWkzZzl3VkFjT05TaVdtdUtIaHlBOHhLMDhJV1lPbThl?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-16T17:31:00.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
     },
     {
      "title": "\"مدبولي\": تحديث الإطار التشريعي للملكية الفكرية بما يواكب التطورات التكنولوجية",
@@ -180,27 +208,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T17:28:00.000Z",
      "seen": "2026-11-16T17:37:17.463Z"
-    },
-    {
-     "title": "مصطفى مدبولى: نؤكد التزامنا بمواصلة تطوير منظومة الملكية الفكرية",
-     "url": "https://www.youm7.com/story/2026/11/16/مصطفى-مدبولى-نؤكد-التزامنا-بمواصلة-تطوير-منظومة-الملكية-الفكرية/7621274",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T17:22:00.000Z",
-     "seen": "2026-11-16T17:27:17.911Z"
-    },
-    {
-     "title": "مسئول تركي: يجمعنا مع مصر تاريخ مشترك وإرث ثقافي يمتد لقرون",
-     "url": "https://www.youm7.com/story/2026/11/16/مسئول-تركي-يجمعنا-مع-مصر-تاريخ-مشترك-وإرث-ثقافي-يمتد/7621275",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T17:22:00.000Z",
-     "seen": "2026-11-16T17:27:17.911Z"
-    },
-    {
-     "title": "مدبولي: الذكاء الاصطناعي يفتح آفاقًا واسعة أمام الإبداع.. لكنه يثير أسئلة قانونية واقتصادية وأخلاقية",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW9Ea3ZJLVNxbUxmbFdSS3lTR1dIWWw5cFRERDlDNjRwR3pCSEV4OUNaZWN6TlJfTlVhMGxNOGJRaWpRVnFvNEVCTWpIMFBYZW5FM1VKR0pFZ240MEFid0hPQmNnUmJEbjFMTWVDS0dQbGluSllLWWMyZXltUkJIcEk1cGpFY3RZYWpMaDY5UU43S0JlZmlNSXVKUEpoTkVSeHNmU2Mzdw?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-16T17:19:16.000Z",
-     "seen": "2026-11-16T17:27:17.911Z"
     },
     {
      "title": "مدير المنظمة العالمية للملكية الفكرية: مصر مهد الحضارات ونموذج متقدم في دعم منظومة الملكية الفكرية",
@@ -229,13 +236,6 @@
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-16T16:27:00.000Z",
      "seen": "2026-11-16T17:27:17.911Z"
-    },
-    {
-     "title": "مباشر.رئيس الوزراء يشهد افتتاح المؤتمر الدولي للمنظمة العالمية للملكية الفكرية",
-     "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxPenhTUFptbGJIN0VfNHc2TjM5UXU1NWhaVW02bnVOV3dMS0JSVzQ0anUzcy1uZnFwb3RraXN5clRkQW9Dc2JjLXJpM0d0UFBRdlRiMnBNUTVfZF8wajFhQklvSWJjTlhFUGVsRDFFRlBhN21jZU0zdGN4aF9wS0hwT0VOUnBndlR1YkNyLVRSV29pZ212c3YyUXNHVnlaUUZGc1BSTGJWS1owc3k1ajY3X185ZldNdHg4V3BrSWFqM1ZjSHFmZi11TkJNMkp3a0F0amtKS3pXUDFlc1B2cklrYzlUM2Zhenh3U2lBMktjV19rYTlWSndGT0xvd29QRFphb1JfMFV6S21YdGhMcEhlOUNCV2kxQWtNbFhFMG5FeVhOTkxBX3NDblMxald6dVpwM09NS0NoQjlWSHI0WTNaaktpU2VFOFdDQmNkZ1NxNU1LNWRPZjdoWmxDRFR1Zjd6LVVJcHVxZjJCbDJyZE9tWmRKS0lzaWE2SjFFRmVOYkgydldUME9sUkhId1lQMzdRbEJqaTVneDQxOTBjWG1WX0hWWVZ4dDVHT016UWZxbTM5c1haSUh0Q3lKLTd5N1o2UEEydHlMTjQ4UjFkdFFwbVJvYnRCbDAtblJZd1pFelRpbXRxZDlfTzNQbFZNLVBGbWRUTzljbW00cTJjZWtNVkk5NTRYZ1NDNE5FM1RYZGYtOU9vdkM1RTB6ZUh3N2lTdmJKYkgyUW84NlNpX21GQnBXOGN3YVhUOU8tb0VqeWRCd2FVcXZ0NGp3b3VPc1FmWml1cFZialZoSzJ5VlQ2eVpVOVppX3JTWjU4Wm9DYjM4ejhueG5UMWRFUVYwWUJ5WFQtU3hrYXJpQQ?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-16T16:27:00.000Z",
-     "seen": "2026-11-16T16:37:17.910Z"
     }
    ]
   },
@@ -401,6 +401,13 @@
      "seen": "2026-11-16T15:57:17.360Z"
     },
     {
+     "title": "قوة مسلحة تغلق مطار الزنتان.. وتعرقل جلسة البرلمان الليبي",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPUnRYRDJTRWdVeFVmcmVXdHBra3EtbzFSXy1ZNk1yWUpaVW9KLWdibnFrVkhVamsyR2xvUFppU2hhb0R5alpoeWhLQmR3QTNibTFZMnpaYXZnenVZQW9BVUY4NWNzU0ZzN05HZG9ZbVpOUUx0VHIzb0pibkVXckwweXZoS3RzQ3JPaFNtdXY4c0ZmYldBT0FUaURLNHZMZEFmNTdGRXdPUWxodGUwVHU1TllxRHRuVXBqaTdESjNDWjFIM3I3YzFGTENoRkFBZW4yU2pzcC1OOWhDRk53TjluZnNtalJRcFFoUW5ETHdELTU1UTFHWnpzM1BtZmpaSUQ4N1JQdWlyakR4ZVZKWlE5ME1wc0dOak1NdTBRbXMyTHZ3ZnRxVU44QXFEbDdxNm5GbDZrVUhvSjN4ZnVobFo3bXZCYjhucHRaUWRoRjFuWFJkejZ1NVFkTTdJRnkxdFJpNnFJbkFsY1h4cVkxUDhrWUhfQjdiS183M2JwZlEwalpENGhIb20tRHBBQnJQNERQNkdNVXJmSGZRWjFfUjhXYlZCbUlfM2ZRa0xuYjVQQUdTa2pKMWpKNjR1dDFNTU1HZ1EtS3gwU3JHLXFPSkN1WjVXYjZBS1dwLUdMWVV5bFoxUdIB5wNBVV95cUxOYVJaNkx1T2QzamlYQ2wtV0xVVGVqdGQtMkFObUdMQ01wM1lobzdRZWcwQzlDUnd0LVBVZmhNWF9EUHl3NVlrT2lJYkswajNKbVN2Z1llQ2J3bXd2dmsyUThNUzVqdWl3MUpvUlhWTlFHaGZuYWJaZ0xRN1VqSjk3YVU0Rk9Dd1dkUU0xLU5IQnY3ZHk2al9ubFpUU2xnT2pmekdaN1RBRUJlQm1na2VwcTFCTDdnTDA2c2JuQzUyYmVQQU14VFpLOVJ4MHF4TG1PSTZiR1VBbHpLeWhpTHNUS04ydk56TUhQbkUwM3gyaERKNWNvUk5iV1U3a3JHbVpMazN1Wkh5cVdZdlc2bi11czVoYzlHS282aDR2Q1czM1c1czM5ZHI5Q2dNY3dXSmVCMEotZ1FoclhKN0VfcU5KUUwtcHVoYld3dXJZU1BFQV9jYWYxNl9QVGFYS3Z4UHY1dHMzX0ZiQlVmY084dzJYSXFLR3pfb2xGN041SHhDTi1sdWxYc3BiVGVmTktEdk9CQXJvNzNwa055d3gzVUlvNmJTcVotTmdOaXJNRUVxVmJna2hETUdsTWpFZTctZVZ0NnBheTgzWUxhRTN5XzhwOF9ObmpnQ21sUjRNWnZNVHRlNExTNHI0?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T15:48:13.000Z",
+     "seen": "2026-11-16T17:47:17.822Z"
+    },
+    {
      "title": "اتهامات بالتخريب وإغلاق للحدود.. تصعيد جديد بين إستونيا وروسيا",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D9%8A%D8%A8-%D9%88%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D9%8A%D9%86-%D8%A5%D8%B3%D8%AA%D9%88%D9%86%D9%8A%D8%A7-%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
      "source": "فرانس 24",
@@ -441,13 +448,6 @@
      "source": "العربية",
      "time": "2026-11-16T14:51:40.000Z",
      "seen": "2026-11-16T14:57:17.830Z"
-    },
-    {
-     "title": "\"أنا هنا لأعيش لحظة خاصة\": عودة رونالدينيو إلى الملاعب بعد أكثر من عقد على الاعتزال",
-     "url": "https://www.bbc.com/arabic/articles/cw808v7nrmrxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T14:18:14.000Z",
-     "seen": "2026-11-16T14:26:22.411Z"
     }
    ]
   },
@@ -468,6 +468,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T14:30:27.000Z",
      "seen": "2026-11-16T17:07:18.050Z"
+    },
+    {
+     "title": "\"أنا هنا لأعيش لحظة خاصة\": عودة رونالدينيو إلى الملاعب بعد أكثر من عقد على الاعتزال",
+     "url": "https://www.bbc.com/arabic/articles/cw808v7nrmrxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T14:18:14.000Z",
+     "seen": "2026-11-16T14:26:22.411Z"
     },
     {
      "title": "ملايين الصور لفلسطينيين.. هل استخدمت إسرائيل أمازون لرصدهم؟",
@@ -514,14 +521,6 @@
      "seen": "2026-11-16T11:26:22.176Z"
     },
     {
-     "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ\"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
-     "url": "https://www.bbc.com/arabic/articles/cm62p3x05xgwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T10:41:39.000Z",
-     "seen": "2026-11-16T10:46:22.180Z",
-     "impact": "يهتم به الأفراد والتجار الصغار الذين يعتمدون على تطبيق تلغرام في التواصل الاجتماعي أو تقديم الخدمات والأنشطة التجارية."
-    },
-    {
      "title": "بعد 22 ساعة في الفضاء.. \"سبيس إكس\" تلتقط مركبة ستارشيب في إنجاز تاريخي",
      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNYmMzdlhMNG4xRnJIR0RoZFFJMDg3VEk3YTQyRy1vT3hOd0hXTVZFNGZuRHh5bzByNXE2VU1EYlBGNjE1QzJqV0U4elJSUjVHZHYwOHRvS3RXSTZ1WGlFSHpsU2NwNVd3VlRseGczS3R4Sk0xdFlOWFFOblN0SjAtR1FCMUs3dkFXczhWX2xhOXhmTWp5UG5uamt0ODJzdFRYQW5FQ0tnaVVSMTVfUUhETm1jbHlkU01wcXlka0RwTVllcTluSmZlVjBySzNqTDd4Nlh0MjhGbFFZZlI5VHYwQVhGdVR6Uk5LbFlmeEpSYW1Ic0VMLUdCUUUzUFZGdl93Z1BOT2xtY0R5OEEwN1d6S2NuWjd4Q2F1eTNMcWZZU2pMcy1pZ0ZLRU5iT1htN29yRXNWRXdSV1RmUEJFRWRkSk13dWZUWl9qbEhSd3hjWi1UZzNiLTE4N1lZLVYyYklnUXpWV09zYXpiRnJNSWlDc0tINjJrdUJ1b21BR3BBVHBFaXMtZlo1emVNSGVRdjI0VVFWNFJXQThZN0xZbXUxdEROcUlQcjhqc0FxeExYVzhVaU5BY25OeWVmd3JCei12THBlQlN0XzdvS1VWWlBKQWtpMUI0VWw3S3c4Qnk5eGk1cm1JOTUybzRWNjZPWk9ZcXdCcy1VMlg0SkJJbHo5ajdIQmt1LWZwV1pQLXA3R0RGMEh3dTBkYkc4QWI4Sk940gGmBEFVX3lxTE9NLUwzSVdZdENJbHk3NmVEOEFZM0o4NzVhLUlYdTBUbkhLMFVucTE4dWNtUGkxT1JyN3o5VnNlVUI3aVplSTZtU1dBbFlyMkxFX0FyOTdXTlZqYnVvLU5VYmlDMnkxYTNRM2lqemNqNm1XU0tSdnF5M2Q5MnN4WlhiWU5JbWltcHVCWUs4U0RNRzB1VWNXTWE3RzE0a2NtOS1MSWJIcDlMNUxRZUIyaVhIdVBDWWFuS3hRUktMMC1xOG15b3o3MmVCYmxtcjVXQi1VVTEzMnVKLWdFRU5lcFdoSWtyVG41ZE4xT25fOTV6WkRiTnk0ZGlUZ3AwSU00bXBCXy0ySEJzcG9DYnpDSTVBVFA0bDZyNFFjdk9IZjJuRXJCdlZUd0dRNUlvekJmVDRaQnpoUmpzclJQQnQxSjVFaVRWQ3Z3N19KbzRDMmg3RkFTcmJvWUM3QXRTekdQUHFha0d0UTdYei1uWm45NEk4UjdVS2lDRkc3MUdSYUZpRWltZWlCQXhldWlqOTF3Y2pYUHJkZ1BYaW1fN2lTU3hic0lpenQ5ZDItbkRLRGlLRFhPcy14YkRkTjJPV3RhZldrY2xNSmRId3BnazVfdVFkYmpqVzNES29jUzl0NjEtVG42d3V5c2ZCaXlvdGxXaTZ3cjdZMXRzbjNuWGJOREg2SW9RMXMySVdnSFh1bGRZbldXV1ZybWFUV3Atak5odXh6RXZBemc?oc=5",
      "source": "العربية",
@@ -562,11 +561,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
