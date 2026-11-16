@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:38:20.271Z",
+ "updated": "2026-11-16T20:48:20.010Z",
  "minute": [
   "تناولت الأخبار تراجع سعر الدولار مقابل الجنيه المصري في ختام التعاملات ومتابعة أسعاره بالبنك المركزي.",
   "بحث سفير العراق مع وزير النقل المصري تعزيز التعاون المشترك، مع استعراض توافر الملح المصري من بحيرة البردويل للأسواق المحلية والعالمية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T20:38:20.271Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T20:48:20.010Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.63,
    "change": 0.42,
-   "asOf": "2026-11-16T20:12:57.000Z",
+   "asOf": "2026-11-16T20:43:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5825,
-   "change": -0.23,
-   "asOf": "2026-11-16T20:28:20.000Z",
+   "value": 5817,
+   "change": -0.37,
+   "asOf": "2026-11-16T20:38:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6651,
-   "change": -0.23,
-   "asOf": "2026-11-16T20:28:20.000Z",
+   "value": 6642,
+   "change": -0.37,
+   "asOf": "2026-11-16T20:38:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3861,
-   "change": -0.65,
-   "asOf": "2026-11-16T20:28:20.000Z",
+   "value": 3856,
+   "change": -0.78,
+   "asOf": "2026-11-16T20:38:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,27 +64,27 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1002,
-   "change": -0.44,
-   "asOf": "2026-11-16T20:37:46.000Z",
+   "value": 1.1001,
+   "change": -0.45,
+   "asOf": "2026-11-16T20:47:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.43,
-   "change": -3.56,
-   "asOf": "2026-11-16T20:28:22.000Z",
+   "value": 92.35,
+   "change": -3.64,
+   "asOf": "2026-11-16T20:36:08.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7403,
-   "change": -2.09,
-   "asOf": "2026-11-16T20:38:23.000Z",
+   "value": 7406,
+   "change": -2.06,
+   "asOf": "2026-11-16T20:48:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -93,7 +93,7 @@
    "unit": "$",
    "value": 64870,
    "change": -0.67,
-   "asOf": "2026-11-16T20:38:20.000Z",
+   "asOf": "2026-11-16T20:48:22.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عمرو أديب: أخيرا أمريكا وأوروبا بيقولوا زي ما مصر قالت إن جماعة الإخوان إرهابية تخريبية",
-     "url": "https://www.elbalad.news/7183507",
+     "title": "تحذير أمريكي من هجمات إرهابية محتملة خلال احتفالات رأس السنة في أوروبا.. وبلغاريا تدعو رعايا واشنطن للحذر",
+     "url": "https://www.elbalad.news/7183527",
      "source": "صدى البلد",
-     "time": "2026-11-16T20:37:49.000Z",
-     "seen": "2026-11-16T20:38:20.271Z"
+     "time": "2026-11-16T20:47:20.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
     },
     {
-     "title": "الاتحاد الأوروبي يخصص 15 مليون يورو إضافية لدعم جهود إزالة الألغام في أوكرانيا",
-     "url": "https://www.elbalad.news/7183450",
+     "title": "زيلينسكي: كوريا الشمالية تزود روسيا بعشرات الصواريخ الباليستية «شهريا»",
+     "url": "https://www.elbalad.news/7183420",
      "source": "صدى البلد",
-     "time": "2026-11-16T20:36:32.000Z",
-     "seen": "2026-11-16T20:38:20.271Z"
+     "time": "2026-11-16T20:46:31.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
     },
     {
-     "title": "مصدر استخباراتي إسرائيلي يفجر مفاجآت بشأن قضية نشطاء «رعام» وعلاقته بنتنياهو",
-     "url": "https://www.elbalad.news/7183517",
+     "title": "أم فارس تنهار بالبكاء: خال المتهم كشف تفاصيل صادمة عن مقتل ابني",
+     "url": "https://www.elbalad.news/7183531",
      "source": "صدى البلد",
-     "time": "2026-11-16T20:36:30.000Z",
-     "seen": "2026-11-16T20:38:20.271Z"
+     "time": "2026-11-16T20:45:28.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
     },
     {
      "title": "«الخدمات البيطرية» تخصص الخط الساخن 16561 لتلقي بلاغات عن كلاب الشوارع",
@@ -244,12 +244,54 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "ارتفاع سعر الدينار الكويتي مقابل الجنيه في بنك مصر",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01Y2dWUU9sdk8wWjZSSEQ4ZF9KLUlYcFhZbFNTaENfeXlxam5ITUFONDdkdzFRQU5zN2Yyek11eHdRdWhWajhF?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-16T20:38:00.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
+    },
+    {
+     "title": "استقرار سعر الريال القطري أمام الجنيه في البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rdTc3dElZUTktcVZxclEtYzlTYkRRWjhvMUFsZVJRU0lSVXZhZHFiNDlsWUlkX016dEFTNk95aGk1NDdHc3Fz?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-16T20:38:00.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
+    },
+    {
+     "title": "الحكومة تستهدف 78 مليار دولار صافي تدفقات تراكمية للاستثمار الأجنبي بحلول 2029-2030",
+     "url": "https://alborsaanews.com/2026/11/16/2006954",
+     "source": "البورصة",
+     "time": "2026-11-16T20:36:00.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
+    },
+    {
+     "title": "تراجع سعر الدينار البحريني مقابل الجنيه في البنك المركزي مساء اليوم",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56VTZqdzJfOVVrV2s5M1JUNGNrTlZlTG9UbUhja0tXOVZEbG13UVVNdm1mSGpxMTd2SjdzSGZ2TF9rZHdidjlN?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-16T20:33:00.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
+    },
+    {
+     "title": "«اقتصادية قناة السويس» السابعة عالميًا والأولى أفريقيًا بتصنيف أفضل المناطق الحرة 2026",
+     "url": "https://alborsaanews.com/2026/11/16/2006944",
+     "source": "البورصة",
+     "time": "2026-11-16T20:20:53.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
+    },
+    {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOU09ZdUNLWjN5ekltNWM0a2ZNRE9hM28tLWdSU3ZzY2pISkVJTVgtNENOMnJGeDBmRW9wUnB0ZzRHc1ZNNV9EV3I0U0VpS212eHdUVEIwcUZXNU9tc1NqaTBvclFMRHdRV0xmQTdfOUhTeG1wRWpXSVNoREhuSkg5NEt2WmV2ellsQnJ1ejVoVHJMdEdpZ2JNMmV5NXBkSk5UckVMdTA5RlQ2UHBjRUZjVm5hWk5IWmphNG9xRkFLY2NHOHJ6cmdtbDQ3SFQyYjlkLXlnWmlrc2lwZ0FPeFJCSnd2d2JMZllkcmVVWGotUFhYaWM2TUc2VW9tdENNdW5QUHpnWXhldENRaVNHal9ReHA0TmMxb3VsNEJ1RzdicHBlVE83NDYwbmxmWmdKM2JGa21IZGF2amJEcWlyOGl2dHYzQWN0bVlPSUl1S1lLT3BqMGdyLURDajlQSkd3WXVtTU1zZ1NKU0NIclRJS0JqSU5obTJfTk44ZDNXbXh5a3kwSnFKcFJQQmFsZ2VnMGhPNnR0SEFCYmM4RjV6MXdZbE5zUWM4dEpuT3VaUHk1NHFYeVJKTmx3NTRicEdUOGx5MldBcExEYmNUX0lCQ0NpTjNvaHUtSy1MamN0TXl4eVM5WXRXSFlJ0gHiA0FVX3lxTE85cU1LMFg3WEpMVzRSdkh5TlBOdjJnMmRxeE9kUG8tdm80NFFnTnhkLUgxUHVaaGdmLWpBRE1Iemc0Zm9JR0ZGMG41YWFDV2d5VGRaMU5sTENUOUdOUk5JRkF6eWU5RUkwZ1Qwa2F3NWRiWFpCT3Vndm1YaHA2RnVOR3V5aERLRWpXTkFTa0dqV0V0SGFOeTY1WGp5VXg5T3Q5VXpnSnpsWExDd3d2YVh1WndKX0pkYjQ5Sk90UXdoMWlTSTIydlV0cGt6dlhmZlFlOW9ucnktdWl3N005V0JsbTRZUDlGT3FFOWZiMlJ4THRvQjJxSjg0T0FYWTNVRnc4VktfakJ5WURFMW1TQjBOTzVYSThlN3FMbWQzVmJGb08tSm9YTU9vN3RCVzJzSmZLOWpmbml3MDI3bnB3WE9rVC1rbW5vVTNMMy04cXR0a0hPVndEaVhialV6dEdNdjlPM2xwWmt1WS14YWNGT294TlVQU2k2MTZ5MHdTYkdaTEhzaXRNVmpEZW1iWUdPOG5nV1BqZGlaeF9rX2tPdExRVVJYalJSaXBNMExhOGZpS3laWWxUcUdpbkF5LW1VQ2pWRHhfU24zY3F6aS1DSjFWVWx0b1JLZkZXRWJ2a1ZvV053?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T20:00:00.000Z",
      "seen": "2026-11-16T20:07:17.458Z",
      "impact": "متابعة سعر الدولار في البنك المركزي المصري تفيد الأفراد والمستثمرين في التخطيط المالي وتكلفة استيراد البضائع."
+    },
+    {
+     "title": "«اتصالات بيزنس» تتعاون مع «M Empire» و«ستارت أب إيجيبت» لدعم الذكاء الاصطناعي",
+     "url": "https://alborsaanews.com/2026/11/16/2006949",
+     "source": "البورصة",
+     "time": "2026-11-16T19:54:51.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
     },
     {
      "title": "سعر الدولار اليوم الاثنين في مصر",
@@ -267,40 +309,12 @@
      "impact": "يؤثر حجب تطبيق تلغرام في الأردن على الأفراد وأصحاب الأعمال الذين يعتمدون عليه في الاتصالات أو الخدمات التسويقية الإقليمية."
     },
     {
-     "title": "«الحكومة» تراجع تقييم «مصر لتأمينات الحياة» تمهيدًا لطرح حصة منها بالبورصة",
-     "url": "https://alborsaanews.com/2026/11/16/2006939",
-     "source": "البورصة",
-     "time": "2026-11-16T19:27:21.000Z",
-     "seen": "2026-11-16T20:08:19.793Z"
-    },
-    {
      "title": "سعر الدولار اليوم في مصر الاثنين 16 نوفمبر 2026.. تراجع جديد بختام التعاملات",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4xd0M3YWNZRUg2M0g5angwUWxwYWxneFA0cXRQU3lrOTd4d3l3N25ROGhGQmZwa2dPTllsODlDdHpJLUJF?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-16T19:24:41.000Z",
      "seen": "2026-11-16T19:37:18.041Z",
      "impact": "انخفاض سعر الدولار بختام التعاملات يساعد الأفراد والمستثمرين في مصر على تقييم القوة الشرائية وتكلفة السلع."
-    },
-    {
-     "title": "سعر الليرة مقابل الدولار في مصرف سورية المركزي مساء اليوم",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41d0hHcGc5UzlUVHZSTGpmcTAteFlJWk56ZU5nVU5aT1NvT2RkUUhTdTItTUQwSnBVX1E5QzRNbmljRDdpRnd3?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-16T19:22:00.000Z",
-     "seen": "2026-11-16T19:27:17.705Z"
-    },
-    {
-     "title": "بارمي أولسون يكتب: هل تتحول صرامة رئيس “أنثروبيك” إلى عبء بعد الطرح العام؟",
-     "url": "https://alborsaanews.com/2026/11/16/2006891",
-     "source": "البورصة",
-     "time": "2026-11-16T19:19:39.000Z",
-     "seen": "2026-11-16T20:08:19.793Z"
-    },
-    {
-     "title": "خلافات بين الدول تعرقل اتفاقاً لزيادة استخدام الكهرباء في قمة “كوب 31”",
-     "url": "https://alborsaanews.com/2026/11/16/2006889",
-     "source": "البورصة",
-     "time": "2026-11-16T18:51:38.000Z",
-     "seen": "2026-11-16T20:08:19.793Z"
     },
     {
      "title": "أحكام بالمؤبد والسجن 15 عاماً في أكبر محاكمة لرجال دين شيعة في البحرين",
@@ -310,19 +324,18 @@
      "seen": "2026-11-16T18:17:17.431Z"
     },
     {
-     "title": "تراجع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9td2hxMHZpeGxIWlp2QWlSTzE4UFp3QktBRXE0VmtXRjc1ejJfY3FIWkU1d1B2NDZQREFnZXBlUXByMHZ2YVNv?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-16T18:06:00.000Z",
-     "seen": "2026-11-16T18:17:17.431Z",
-     "impact": "ينعكس تراجع سعر صرف الدولار بالبنوك على تكلفة واردات السلع والقوة الشرائية للمستهلكين."
-    },
-    {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين",
      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOMVdXRWRnamppcy1SMFVYTHhuQndqQ2VaN1RrTkRGRzdNT3dGQm5hUXlWOFB4NHE4T0NxWk9QY1RjSGdWWWxESk53cGtraWRRcG5QT1J5M3BQTVRBZ3ZwMTJ2OWxVYldqVGloenQxZEh3NVI5cDZIR0VqWGV6NTBBN1JSMmZWVm1qT0hDY2JPY3RmTWZxNVgzSWZ6Vl9NT1hVNldCLXpGc2JWbHdpNXNFSEVKcVZ3VTdleEFuTzJaN3lHalV3R3Q1NFJ3a00tazRiUGxYYzl2YTZGNzM2WWZ5bUNabU4xVmVxNXRPTjNETmlyRGwxaW1yTkZ1c2xpcUc5SG1ad2pJcUlWeXlfYWlyRTFaYU94X2F3U2xmOExaQk5NQkltYW1yNDJYOWFxdVNTNmV4aGFXNDVkR1c1MWVwaU1HV1gxdGE3VUt6YXQ4X1lyNzY2Nkp0NHB0a0cxN1hiRHozNTU2VEtfeWNnUjJFMHlDa01IUi1INHhiV1hDZG0tTWFmN2d0YlpxLXNraUEzZExONGlhU2V5aVpSSXVYSm1VSWVmN0hPZmxkVWlSbkNoTlV6QkRMMUN3UWt0RmRXVWpkRlliWEZMdUF3UFYxOHpLd05tZklnTzkxVXJGU0VXUdIB4gNBVV95cUxOMVdXRWRnamppcy1SMFVYTHhuQndqQ2VaN1RrTkRGRzdNT3dGQm5hUXlWOFB4NHE4T0NxWk9QY1RjSGdWWWxESk53cGtraWRRcG5QT1J5M3BQTVRBZ3ZwMTJ2OWxVYldqVGloenQxZEh3NVI5cDZIR0VqWGV6NTBBN1JSMmZWVm1qT0hDY2JPY3RmTWZxNVgzSWZ6Vl9NT1hVNldCLXpGc2JWbHdpNXNFSEVKcVZ3VTdleEFuTzJaN3lHalV3R3Q1NFJ3a00tazRiUGxYYzl2YTZGNzM2WWZ5bUNabU4xVmVxNXRPTjNETmlyRGwxaW1yTkZ1c2xpcUc5SG1ad2pJcUlWeXlfYWlyRTFaYU94X2F3U2xmOExaQk5NQkltYW1yNDJYOWFxdVNTNmV4aGFXNDVkR1c1MWVwaU1HV1gxdGE3VUt6YXQ4X1lyNzY2Nkp0NHB0a0cxN1hiRHozNTU2VEtfeWNnUjJFMHlDa01IUi1INHhiV1hDZG0tTWFmN2d0YlpxLXNraUEzZExONGlhU2V5aVpSSXVYSm1VSWVmN0hPZmxkVWlSbkNoTlV6QkRMMUN3UWt0RmRXVWpkRlliWEZMdUF3UFYxOHpLd05tZklnTzkxVXJGU0VXUQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T18:01:41.000Z",
      "seen": "2026-11-16T19:37:18.041Z"
+    },
+    {
+     "title": "سعر الذهب اليوم الاثنين 16 نوفمبر 2026.. عيار 21 بدون مصنعية بـ5910 جنيهات",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQOFpVSXFKX19sNzFlbVZDVUlmTUczVUJNSmllWW9VOTAwNUYzNF9lc1lXZU96eXlEaW93N1dfdG5ZV2U0d2NDZl9ncmYyWW05Y3NUaUV1THRRNXAwdU1Jc1RGTmZRM24wLTc4VTJQSl9Fc2lEcGxnY1VJSnNfY0IxVC1nSVE3NE9FNGF6bFVTVUpuZkRaUjJoQ0FjT08tZXhHM0szX3diNm8yVTg3OWNiYkpHR2Uzb0tJb2phU1pXcWQweDZ0V1FNOTc2TnJJZGtzd0Y5OUYtY2JfRFo0YUVsX0FOU3RRSWhTbUdIaU9hd1g5Ym56RmdDNF9CNjVrZnpVX1RvSlRWM1BsbDh6UnNFb0NmaG9Id0RvLTZIQm9ySFkyRUJDN2Q0ZHNwVDczSzlTVnhEVE8yVkRRSnlfR21SaUNCYm14ejV3ZWpfYmVENU5zTzZTTkRtV1R4Qm0zX2dvR0ladndvdkRIRE5oMEUwTFhjMVY0WlRuamNkTC1lYndFUdIB_AJBVV95cUxQSFVUWldobzliMDBycVRmQW9GRk90OGZCbm9xVkZZcG00MDVUOFVkeWJRSVBwMm5uZVFibXVDakVhYWpwYno2RURsMlhoUnJCVUpjUm03eVVvS2pacngzbFdHcVNYbnM4RWl2dHZRRmc2TWJIQjJWVThFQkx0bWpEY3pzOFg0LVJPMkRFMTNYTnN6WkN1VnlxcUh3dlFYa3c0Uk5US1ZzeXl5ZkdLVldmQ1RJYi1QMGdvNVd3MlVockFSdUNTaC1ZWHd4SWZkM2lHbjZrT1R2VU9IMXdrU0VJRHcxTDBkQzdWT0hOcnA1OXQ4ZGs3YWh4Uk9JOFVxQ0hrS1F6OEdYUDJkR0FiZnUyNEJweHNRTGRTZXNleUNJVzdZOTVoQldaeU5wV3J5YUpsMTFZd01iRk81TjZEWG5hcWJHdmhXTnNUdEpDVmhHT3BQTFlLTnZUZkw0QjF5bk8tUWJ4cUthRWVZNTY1dkttREtUaDU2eVVtcTZCNg?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T18:00:00.000Z",
+     "seen": "2026-11-16T20:48:20.010Z"
     },
     {
      "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
@@ -331,21 +344,6 @@
      "time": "2026-11-16T17:55:09.000Z",
      "seen": "2026-11-16T08:34:45.880Z",
      "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
-    },
-    {
-     "title": "ماذا يحدث في البنوك الآن؟| تراجع أسعار الدولار واليورو مقابل الجنيه.. شوف وصل كام",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41WEZrdFl5QmtJWUJwN203Q05NMHB6WkVaVzF5OGgwMU1vMERsdi1BNi1nbXZnNUNCWkRLdVZxMU1XT2JwRjJz?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-16T17:48:00.000Z",
-     "seen": "2026-11-16T17:57:17.931Z",
-     "impact": "يفيد تراجع أسعار الدولار واليورو المسافرين والمستوردين في خفض تكاليف تدبير العملات الأجنبية."
-    },
-    {
-     "title": "الحكومة المصرية تراجع القيمة العادلة لسهم «مصر لتأمينات الحياة» تمهيدًا لطرحها بالبورصة",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wc3RmS0VRU245ejlOWHI2bTY3cUJaeHBlejM5NG1IS2lDNjdMMWc3OTNqQWRWV085TjJxd25jX3E3S0VY?oc=5",
-     "source": "بوابة التكنولوجيا المالية",
-     "time": "2026-11-16T17:40:51.000Z",
-     "seen": "2026-11-16T18:07:17.891Z"
     }
    ]
   },
@@ -561,11 +559,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
