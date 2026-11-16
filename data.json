@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-16T18:27:17.571Z",
+ "updated": "2026-11-16T18:37:18.312Z",
  "minute": [
-  "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
-  "أعلنت وزارة التربية والتعليم إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية، وسعيها لإنهاء الفترة المسائية بالمرحلة الابتدائية بحلول 2027/2028.",
-  "تراجع سعر الدولار مقابل الجنيه المصري في ختام تعاملات اليوم في البنوك وسط أنباء عن استقراره.",
-  "تراجع الحكومة دراسة القيمة العادلة لأسهم شركة مصر لتأمينات الحياة لاستكمال طرح حصة منها بالبورصة."
+  "شهدت البنوك المصرية تراجعاً في أسعار صرف الدولار واليورو مقابل الجنيه المصري.",
+  "أعلن وزير الزراعة المصري وصول الصادرات الزراعية إلى 11.5 مليار دولار عبر 160 سوقاً عالمياً.",
+  "تم الإعلان عن قرار برفع الحد الأدنى لأجور العاملين في القطاع الخاص بمصر وتوضيح آليات تطبيقه.",
+  "تستمر التطورات السياسية والأمنية والتكنولوجية على الساحتين الإقليمية والدولية."
  ],
  "ai": {
-  "at": "2026-11-16T16:57:17.975Z",
+  "at": "2026-11-16T18:37:18.312Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T18:27:17.571Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -28,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5804,
-   "change": -0.59,
-   "asOf": "2026-11-16T18:17:20.000Z",
+   "value": 5813,
+   "change": -0.44,
+   "asOf": "2026-11-16T18:28:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6627,
-   "change": -0.59,
-   "asOf": "2026-11-16T18:17:20.000Z",
+   "value": 6637,
+   "change": -0.44,
+   "asOf": "2026-11-16T18:28:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3847,
-   "change": -1.01,
-   "asOf": "2026-11-16T18:17:20.000Z",
+   "value": 3853,
+   "change": -0.85,
+   "asOf": "2026-11-16T18:28:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +62,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0997,
-   "change": -0.48,
-   "asOf": "2026-11-16T18:26:43.000Z",
+   "value": 1.0995,
+   "change": -0.5,
+   "asOf": "2026-11-16T18:37:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.88,
-   "change": -3.09,
-   "asOf": "2026-11-16T18:17:15.000Z",
+   "value": 92.78,
+   "change": -3.19,
+   "asOf": "2026-11-16T18:27:59.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7430,
-   "change": -1.74,
-   "asOf": "2026-11-16T18:27:19.000Z",
+   "value": 7414,
+   "change": -1.96,
+   "asOf": "2026-11-16T18:38:10.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64750,
-   "change": -0.85,
-   "asOf": "2026-11-16T18:27:17.000Z",
+   "value": 64735,
+   "change": -0.87,
+   "asOf": "2026-11-16T18:38:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +138,56 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ننشر صورة طفلي مذيع الطالبية بعد اتهام والدهما بإنهاء حياتهما",
-     "url": "https://www.elbalad.news/7183293",
+     "title": "يعالج الانتفاخ ويزيد الكولاجين.. معلومات أول مرة تعرفها عن البقدونس",
+     "url": "https://www.elbalad.news/7183231",
      "source": "صدى البلد",
-     "time": "2026-11-16T18:26:53.000Z",
-     "seen": "2026-11-16T18:27:17.571Z"
+     "time": "2026-11-16T18:36:00.000Z",
+     "seen": "2026-11-16T18:37:18.312Z"
     },
     {
-     "title": "محافظ أسوان يلتقى وفد شركتى \" إستادات \" و \" سيتى كلوب \" لبحث آفاق التعاون والإستثمار فى المجال الرياضى",
-     "url": "https://www.elbalad.news/7183243",
+     "title": "محافظ أسوان يتفقد السوق السياحي القديم وميدان المحطة.. والأفواج السياحية تشيد بمقومات زهرة الجنوب",
+     "url": "https://www.elbalad.news/7183258",
      "source": "صدى البلد",
-     "time": "2026-11-16T18:25:38.000Z",
-     "seen": "2026-11-16T18:27:17.571Z"
+     "time": "2026-11-16T18:33:35.000Z",
+     "seen": "2026-11-16T18:37:18.312Z",
+     "impact": "يعزز الاهتمام بالأسواق والمقومات السياحية في أسوان الأنشطة التجارية والخدمية للمواطنين والعاملين بالقطاع."
     },
     {
-     "title": "قبل لقاء مالاوي.. علي ماهر يواصل تجهيز لاعبي منتخب مصر ويضع اللمسات الأخيرة",
-     "url": "https://www.elbalad.news/7183291",
+     "title": "أحمد موسى يكشف اتهامات خطيرة للإخوان: جمعوا التبرعات باسم فلسطين والفقراء وأنفقوها على السيارات والفسح",
+     "url": "https://www.elbalad.news/7183332",
      "source": "صدى البلد",
-     "time": "2026-11-16T18:25:33.000Z",
-     "seen": "2026-11-16T18:27:17.571Z"
+     "time": "2026-11-16T18:33:22.000Z",
+     "seen": "2026-11-16T18:37:18.312Z"
+    },
+    {
+     "title": "وزير الزراعة أمام البرلمان: 11.5 مليار دولار صادرات زراعية و160 سوقاً عالمياً",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-الزراعة-أمام-البرلمان-11-5-مليار-دولار-صادرات-زراعية/7621340",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T18:33:00.000Z",
+     "seen": "2026-11-16T18:37:18.312Z",
+     "impact": "يعكس نمو الصادرات الزراعية فرصاً استثمارية للمتعاملين في قطاع الزراعة والتصدير في مصر."
+    },
+    {
+     "title": "رئيس الوزراء يلتقى المدير العام للمنظمة العالمية للملكية الفكرية",
+     "url": "https://www.youm7.com/story/2026/11/16/رئيس-الوزراء-يلتقى-المدير-العام-للمنظمة-العالمية-للملكية-الفكرية/7621359",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T18:30:00.000Z",
+     "seen": "2026-11-16T18:37:18.312Z",
+     "impact": "يسهم اللقاء مع المنظمة العالمية للملكية الفكرية في بيئة حماية الابتكار وحقوق الشركات والمستثمرين."
+    },
+    {
+     "title": "مدبولي: الدولة تعمل على تعظيم العائد الاقتصادي للأصول الفكرية بقطاعات الثقافة والصناعات الإبداعية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3N3VzcnJ0UFFJZndyNjVNTThwM2JHOEdCVi1idVE2dXBlN005VnNER3VGNjRabVQ0UVlaRVJYTmd2cHZZ?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-16T18:17:08.000Z",
+     "seen": "2026-11-16T18:37:18.312Z"
+    },
+    {
+     "title": "مدبولي: مصر ملتزمة بتطوير منظومة الملكية الفكرية وتحديث التشريعات لمواكبة الذكاء الاصطناعي",
+     "url": "https://news.google.com/rss/articles/CBMi9AVBVV95cUxQQm1MaFBlbEQ3RUMzelFvaG9kaE43ZUNCc2NQZ1FvVWJ3WjU2bnNCb2toMUN5Q0lZazE1U1Q2a19sUEl4a2Q1UzVGX2VIRXQ5MnQxRFFXUUNHWGFkbGo2SnY2TGc3N2ktU1Q5VVd0UE5JNTNRc0MwUGNZcjNNMFpPem9aR2FKOFlOVy1jbzBMUmMtLVJHdHJHcGUxQTFMQl9FaGhGSXRzWF93OXFvOEx6Szd6T0JPTDVnaHZPVVA4TlV6eGs0QURWdXVfeGVHbk5VcVFlNjRfVmhNTnE5cDVwRFAxejZLbEh5MWJYN3lyb2o4TjdURkFFSnBrUHR0cGdRVlFkNm9FMHhyMXhHcFVmUW95SG5Tb0NmX1N3RFlKcDJsd1daWjlBQnEtYkp4WjBZR2pZeFZvbWw0RmlfQV9YY3lpYjFxY2dvUUVXVXlzOWRTSEh4MXlGUy16RHdZRmJLNkhZbDBaNmdsYlRCVnN4YmtzNVhvNnYzQ3dwMml2cUdTZ2haLWdKbUx6ZGxOdEREVERPSlFwLU9ibDBoYVZyY2tQbHdFejczdVZPcW83akRRdzBkMnBnTGNlbEZBN0tkdU5aMEtVYnNaUEdvUWwyNW5POFJ6WkhHbVp6X0FnQzFHMGMzbDFWeDFJLW91b0ZUSVZtMEhRZGtpbFRoeEVFcTNMR3hRNVhzdkdzSWJLX0YzMk9ZTFFVUW15MzJUZzUxMWk2bWNXdE1PVzljVW54M1B0Yk9MRE9jSVBlcmdhRWgyS01UTWdtcUQ2OUQ1eGVRa3BhTnJfQzZmSXh4aWYyY0x1MWxnZWhJZjJTQ1RwMk1LMnVOM1hrcXRYb2l5aHBmMjBMd1R5MGFiTkZTczJhYVdnalJXc0tjODc0dXRNNzFubVluOUdyaTRXRmtUWE9QTTI3SDJ1TUtFRjBjaU9EVjdKRVhabnVPYzVrbzY5WFhBeGZLSWpjb2xsQ3NfSDlWRHVxUUViSkY1Q2VwbUxGazhHa1bSAfoFQVVfeXFMTjFqc09udlI3NVE2dHlNcE9ISE1rR1Qwckd5MVhkc1dSaDJIZGhWTXpXeVpkNkREbUpWVWpXRG5yZDlQN2M4OFRFZEJTWk1iNms2UzFROVBLLUs3YmZSOHY5dVNHZV90ZUw5TWVERnZLdTZJUzBHc2NTSWtrSHhSSnlFeVYyNzVzLVNKblhjN3FNVkx3XzZpdUtJYlNNMHZhZU5xUVFlX21nLTllSFBlcVR6T1lXeDVWS29melBTVDRBcy12TW0tTmRrUUNhSklXRzIxaUE0bjJaaHdXZmxUenRrYkdDZ0xDYjVQaGNBd0ZmZWtNclQyaC1GalpRUDAzY2tHY1VHQ3dGdlJsNXJhX2llNVgyUzgtZGNNdlB4eEVxeUVJUjJYdWJFWXFUYjUzc2hPMXBMZE9fckJUYmU1dHlkZ0ZSWThPWWZIdy1JQ2FQV055Und5N0ZwSlNHaVZ1OVpiM1F1blZyNTk1ZXdUX2hEdGVUNE56aFJZSU1iNElQVkFfa2NTRkYzSG5fSVE5aDZHcndXQl8yenNiT0VWQllUak9xQmV2YmtGWUFqTHUyeE9BZFhYRmh3Q2RmS0dMaDRmbDZEZTUxTmQ4UldoRzJwcXpPVm9ncXEzcTJYVGoyT2dlYWtWRmxhTDhGdWNRRFh0eS1SNTZuUHBVVlktaXR5Uy1ZeFg4RkViUFBUcV9XbW9jdkNTdHlQZ3RTckdpcWxMdGxrRzZ5b2JQZWdRYXl6Y1JjaVhlRUpmM2ZpdExmQTFwSWNOTGFWWTM4Qy1Hc01mOVRhUjFkYTBlM2IzZGlpYlBEemcyekExd2hKTXNJVTVrNVNYQzhCUDZxNlJwS0FwOGhtZ0o2N0RyMTFWMVhzLS1LX18zd0ZoNEwxc1FPSlhoN3Uwc3Via0FlVUJra0UzclROTXA5andyVVVjMk5BVlVKS3RLWm10eXJLaW5OV3A5RTZKZHRSM2dSTnpUay0xTWRIdUhDamZ1aFhPNzdhNGcyOEl0RXVn?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-16T18:14:00.000Z",
+     "seen": "2026-11-16T18:37:18.312Z"
     },
     {
      "title": "رئيس الوزراء: الدولة المصرية ملتزمة بمواصلة تطوير منظومتها الوطنية للملكية الفكرية",
@@ -180,20 +209,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T17:55:00.000Z",
      "seen": "2026-11-16T17:57:17.931Z"
-    },
-    {
-     "title": "رئيس جامعة قناة السويس يستقبل رئيس جامعة السويس ونائبه",
-     "url": "https://www.youm7.com/story/2026/11/16/رئيس-جامعة-قناة-السويس-يستقبل-رئيس-جامعة-السويس-ونائبه/7621288",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T17:45:00.000Z",
-     "seen": "2026-11-16T17:47:17.822Z"
-    },
-    {
-     "title": "مفتى الجمهورية: التجديد فى الشريعة الإسلامية فريضه شرعية تحفظ للأمة حيويتها",
-     "url": "https://www.youm7.com/story/2026/11/16/مفتى-الجمهورية-التجديد-فى-الشريعة-الإسلامية-فريضه-شرعية-تحفظ-للأمة/7621294",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T17:45:00.000Z",
-     "seen": "2026-11-16T17:47:17.822Z"
     },
     {
      "title": "مدبولي: الذكاء الاصطناعي يفتح آفاقا واسعة أمام الإبداع.. لكنه يثير تساؤلات تتعلق بمصادر المعلومات",
@@ -222,20 +237,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T17:28:00.000Z",
      "seen": "2026-11-16T17:37:17.463Z"
-    },
-    {
-     "title": "مدير المنظمة العالمية للملكية الفكرية: مصر مهد الحضارات ونموذج متقدم في دعم منظومة الملكية الفكرية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ybVppbEZrMnhScHNZNW96cnc4d0hsLU9JZ0NBZlJ2VkwxVzZGWUhLWjJGWk5Ibjk2QmFaUWd1a1pZSHJI?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-16T17:03:36.000Z",
-     "seen": "2026-11-16T17:07:18.050Z"
-    },
-    {
-     "title": "مدبولي: مصر أطلقت استراتيجية وطنية للملكية الفكرية وتحرص علي تطويرها",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQdElkT3lFaXB3M041cGVjS3B0M20wUERJX28tVmtYZVFrZC1WRXdoV001OWVDQkdRaEJhOHpfY2k5cmMxcExDUUJ5cG42ZlZJN2tYOU5LOTIxNi1nQS1JRnZ0TzRzcGZ6R1d3b2paZFF2RHFqN2N6ZS04N3IwU1E1MHAtd25BTGRDYXVTa2tTaC02SG5wOURGZUlRUjY1M0lWUG44bElGSlhDVnhSYnVhVmZTMDZ0Nktqd0Rwd2w0allrUnNwSXFiTEtjS0FIazV0eW5RbTZBUm90V2pCaXBsSXptUHRxdnExb042THFiZHI0TUw5OGFvUFNMckNwT3hENGEyVDRkTmt5djlUQUxjX3Voc0ZmNnRFdmZhSXVKek9DdzNYM3lLSlhick5jRHBoWWplZTRFaE9pa2NwMGpqZ3daeHhoSXN2VUlxaHdldEpjYXJUQWRPZ2hIeURWa092dlVBV0hlaUVnZi1JVVNzbkhTZHF6SGRuNllxeTUwbVhYZm9aRFBMa1lGTjB2R1hRblNZUjczSjVadmktUWJfOXp3b2JjZ3BYbmFVdlI0dkNOUWNnWFJSV1pnOXJ4dHYycmJJMDlMQzYxTUNUQnMyRHpiS0xHS25POElsQ0UzMDR4YzhydHVieXFELWhwdXdDN0Iycy1tQTllUFp6bklldGNxWGtObEFqZl9kakVYaW5ZSDg0S3ZVRHg5MmE0OTRYODRXdzlXV2pIZS1QcHRHOC1JSFlzeG5h?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-16T16:58:00.000Z",
-     "seen": "2026-11-16T17:07:18.050Z"
     }
    ]
   },
@@ -255,14 +256,16 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9td2hxMHZpeGxIWlp2QWlSTzE4UFp3QktBRXE0VmtXRjc1ejJfY3FIWkU1d1B2NDZQREFnZXBlUXByMHZ2YVNv?oc=5",
      "source": "فيتو",
      "time": "2026-11-16T18:06:00.000Z",
-     "seen": "2026-11-16T18:17:17.431Z"
+     "seen": "2026-11-16T18:17:17.431Z",
+     "impact": "ينعكس تراجع سعر صرف الدولار بالبنوك على تكلفة واردات السلع والقوة الشرائية للمستهلكين."
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين",
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOb0p5QUl1VDFaSlBEMHlZdzFmU1dOc0ZzYzRkMGttQ29BeHBIX1QyTnBvenplS2tWN3E5aUpPdmt6WGZfMm1keXEwRVl4a3cwbklFcXFvZ3FEY3RZR2xUSTJsWEdKZE4xTjVyWTlSNDNHdEFQR3JqeG9hN2lJOXBrRkVjRkFjZ1NzcUV6Q0l0b3Aza0M1ZlZrWnlYbnNxd0VrMnI0YUNnLUgybmI3LTRGQlEwYnc0TTBkYWNIcTBPeC1LTHpzMVJpM290cWxZdmcxNnpUb0h6SFFCY2xja1BCUmJ0VVBCeHV1UlJrUzdUUFZGcEVvQWVJWUM2aFJfSGdZVEQ1THBKNFBOczFGNVlDLWFaUGpOYjk3VHRuRHI4YzdFUkVjczM5dGVJdUNvNERld1E4T3hhY1R2MC12Rm1jYXNFb2o3RFhIelAwZmZXenhhSTJ6MVJQbnRaZFdGX3JmemlQekthRkRVNjZNcWNHdllFV0JPVVBmclptc0YyLWVZdXhad3RoTGZhUWptMElQeWRTLWdnVXB4MVc5Ym1raE5BalRWNDAyU3kzU1g2RUFnU3NxUEhoV0tzUDhqTHJ2Z2RPOUVjQlo5T3dsSkZSWThiXzBuWVNJWTBMSV9zMTdqUDFDamtV0gHiA0FVX3lxTE4xV1dFZGdqamlzLVIwVVhMeG5Cd2pDZVo3VGtOREZHN01Pd0ZCbmFReVY4UHg0cThPQ3FaT1BjVGNIZ1ZZbERKTndwa2tpZFFwblBPUnkzcFBNVEFndnAxMnY5bFViV2pUaWh6dDFkSHc1UjlwNkhHRWpYZXo1MEE3UlIyZlZWbWpPSENjYk9jdGZNZnE1WDNJZnpWX01PWFU2V0ItekZzYlZsd2k1c0VIRUpxVndVN2V4QW5PMlo3eUdqVXdHdDU0UndrTS1rNGJQbFhjOXZhNkY3MzZZZnltQ1ptTjFWZXE1dE9OM0ROaXJEbDFpbXJORnVzbGlxRzlIbVp3aklxSVZ5eV9haXJFMVphT3hfYXdTbGY4TFpCTk1CSW1hbXI0Mlg5YXF1U1M2ZXhoYVc0NWRHVzUxZXBpTUdXWDF0YTdVS3phdDhfWXI3NjY2SnQ0cHRrRzE3WGJEejM1NTZUS195Y2dSMkUweUNrTUhSLUg0eGJXWENkbS1NYWY3Z3RiWnEtc2tpQTNkTE40aWFTZXlpWlJJdVhKbVVJZWY3SE9mbGRVaVJuQ2hOVXpCREwxQ3dRa3RGZFdVamRGWWJYRkx1QXdQVjE4ekt3Tm1mSWdPOTFVckZTRVdR?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T18:00:00.000Z",
-     "seen": "2026-11-16T18:07:17.891Z"
+     "seen": "2026-11-16T18:07:17.891Z",
+     "impact": "تساعد معرفة سعر صرف الدولار اليومي الأفراد والمستثمرين في التخطيط المالي والتعاملات التجارية."
     },
     {
      "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
@@ -277,7 +280,8 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41WEZrdFl5QmtJWUJwN203Q05NMHB6WkVaVzF5OGgwMU1vMERsdi1BNi1nbXZnNUNCWkRLdVZxMU1XT2JwRjJz?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-16T17:48:00.000Z",
-     "seen": "2026-11-16T17:57:17.931Z"
+     "seen": "2026-11-16T17:57:17.931Z",
+     "impact": "يفيد تراجع أسعار الدولار واليورو المسافرين والمستوردين في خفض تكاليف تدبير العملات الأجنبية."
     },
     {
      "title": "الحكومة المصرية تراجع القيمة العادلة لسهم «مصر لتأمينات الحياة» تمهيدًا لطرحها بالبورصة",
@@ -351,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "دول أوروبية تختار رواندا كمركز للترحيل مع احتمالية التوسع إلى أوغندا وأوزبكستان",
+     "url": "https://www.dw.com/ar/دول-أوروبية-تختار-رواندا-كمركز-للترحيل-مع-احتمالية-التوسع-إلى-أوغندا-وأوزبكستان/a-79962888?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-16T18:30:00.000Z",
+     "seen": "2026-11-16T18:37:18.312Z"
+    },
+    {
      "title": "على ماذا يؤشّر التصعيد بين حكومة الزيدي وكتائب حزب الله في العراق؟",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%B9%D9%84%D9%89-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%A4%D8%B4%D9%91%D8%B1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A8%D9%8A%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
      "source": "فرانس 24",
@@ -376,7 +387,8 @@
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/egypt-raises-the-minimum-wage-for-the-private-sector",
      "source": "CNN بالعربية",
      "time": "2026-11-16T17:43:49.000Z",
-     "seen": "2026-11-16T17:57:17.931Z"
+     "seen": "2026-11-16T17:57:17.931Z",
+     "impact": "يزيد رفع الحد الأدنى لأجور القطاع الخاص من دخل العاملين ويؤثر على الميزانيات التشغيلية للشركات."
     },
     {
      "title": "خمس دول أوروبية تكشف عن مشروع لإنشاء \"مراكز عودة\" في رواندا لترحيل المهاجرين غير النظاميين",
@@ -440,13 +452,6 @@
      "source": "BBC عربي",
      "time": "2026-11-16T15:15:08.000Z",
      "seen": "2026-11-16T15:17:17.681Z"
-    },
-    {
-     "title": "أكوام النفايات تحاصر خيام النازحين بغزة وتهدد صحتهم",
-     "url": "https://www.aljazeera.net/video/2026/11/16/%d8%a3%d9%83%d9%88%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d9%81%d8%a7%d9%8a%d8%a7%d8%aa-%d8%aa%d8%ad%d8%a7%d8%b5%d8%b1-%d8%ae%d9%8a%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-16T15:08:39.000Z",
-     "seen": "2026-11-16T18:17:17.431Z"
     }
    ]
   },
@@ -480,7 +485,8 @@
      "url": "https://www.bbc.com/arabic/watch/cw20xn11z2plo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-16T13:03:34.000Z",
-     "seen": "2026-11-16T13:06:23.166Z"
+     "seen": "2026-11-16T13:06:23.166Z",
+     "impact": "قد يفتح استخدام الذكاء الاصطناعي في تصميم المواد آفاقاً جديدة لرواد الأعمال والمستثمرين في قطاع التكنولوجيا."
     },
     {
      "title": "ملايين الصور لفلسطينيين.. هل استخدمت إسرائيل أمازون لرصدهم؟",
@@ -560,6 +566,16 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "tech",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
