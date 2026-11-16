@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:14:29.793Z",
+ "updated": "2026-11-16T02:24:29.590Z",
  "minute": [
   "شهدت أسواق الصرف ثباتاً في سعر الدولار مقابل الجنيه المصري بالبنوك مع ترقب حسم مصير أسعار الفائدة في الاجتماع الأخير للبنك المركزي.",
   "خفضت خفضت مجموعة غولدمان ساكس توقعاتها لأسعار الذهب لعام 2027، بينما دعت عدة دول لإدخال المساعدات فورا إلى غزة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-16T02:04:29.881Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T02:24:29.590Z"
  },
  "markets": [
   {
@@ -19,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.75,
    "change": 0.64,
-   "asOf": "2026-11-16T00:38:30.000Z",
+   "asOf": "2026-11-16T02:18:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5866,
-   "change": 0.46,
-   "asOf": "2026-11-16T02:04:28.000Z",
+   "value": 5881,
+   "change": 0.72,
+   "asOf": "2026-11-16T02:14:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6697,
-   "change": 0.46,
-   "asOf": "2026-11-16T02:04:28.000Z",
+   "value": 6715,
+   "change": 0.72,
+   "asOf": "2026-11-16T02:14:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3879,
-   "change": -0.18,
-   "asOf": "2026-11-16T02:04:28.000Z",
+   "value": 3889,
+   "change": 0.08,
+   "asOf": "2026-11-16T02:14:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1027,
-   "change": -0.21,
-   "asOf": "2026-11-16T02:13:48.000Z",
+   "value": 1.1023,
+   "change": -0.25,
+   "asOf": "2026-11-16T02:23:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.16,
-   "change": -0.71,
-   "asOf": "2026-11-16T02:04:26.000Z",
+   "value": 95.1,
+   "change": -0.77,
+   "asOf": "2026-11-16T02:12:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64945,
-   "change": 1.27,
-   "asOf": "2026-11-16T02:14:28.000Z",
+   "value": 65105,
+   "change": 1.52,
+   "asOf": "2026-11-16T02:24:30.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -361,10 +363,10 @@
    "items": [
     {
      "title": "آيزنكوت بعد كشف حيلة نتنياهو: لا يمكن أن يبقى دقيقة في الحكم",
-     "url": "https://www.skynewsarabia.com/middle-east/1904940-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%83%D8%B4%D9%81-%D8%AD%D9%8A%D9%84%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%85%D9%83%D9%86-%D9%8A%D8%A8%D9%82%D9%89-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%85",
+     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZkNmalp6N0lpQk45SG1zZE1kUjRoUDBiZXJyY1FQMU1PTnp1M2c4bER5TWJqU0theXJOcXVhN0IwcVBWMGxDYWlwcmF1Ul93OFV3NnQ4bkNfRkF5d3YtOXBLQURpTWMtaWlDTUgtYkZQSXpUZkZocXV3elVldm5hY0VnZWtrVmg4Vy1vbjFfaGhZckp2YzI4cG5lSksxb3dmcGlNZ1BzeFlwYzRiNUxGbThYdTB0NjY4X3hWNUgxMWpSdm9DYjJvZjc5Qnl6OExub25yYm9KNVZZb3R2X2kzckd1VG9LR0RRSnlpRGdsUEZ5NmlZamlIMnNVY29BUlB0U255YndqUjU1dTdXbGJ6SzJqdjFwVzl6cUxTTkJXbUNCSTR1VDd4ZndhelFLYVdlWEtqTmprY3BmVEtCMEctMFpDMWR5NXdpUnVpaC05T3E1ZUtTQ3lTRWo5bXlHSVR0LUt1ZEg3azktbDBNQ0oxcnRubTJHeVZFeXRZdm5jaXAyTWxSeWs0LVZ5VFY5enVRZTh0SzhFaTN4QkVUZ1FfVdIBpgNBVV95cUxNNlF1cXNCSjlkYUVjcjJObjhJOFZWOF9zOG0wZDRJcURrdlBfZnVFUkk2U2RjZHRQM2h3eUpyNXRmdTRTTklLdTRSMDhNanRWVDk5RnhuWmlsSkt5VXNNc3VzMG84TWRVMy1FNVE3cE0taFFVZDc3aEN1OVlEQ25GdW51dlQtOVJUb2F2ZF9vRmhOYmtzVDlKMzBWMkJwMl9WUkI5Sm81WDdyanJJT2ZNSXlhbTN0SFRGcjZKOHU5SDlzWEZrMXdzU0ZGSFNhNG51Z05mRVRRV3kzV1lGWkg3cThVYmd6d3Nuc0NVZ2h1dkJNZmloY2ItTTBQS0x6c0F5djRna1h1LXhwd09URUY3Mm8tY0ItclFUOGVxRWpjeU5jZ3pSQ2xTVHU0NkZQV2xoN0lnQzZReno3aElCV0FNbUVSU1dOZ0dpOS1sNGZNTUx0R1hYbzRjM183bUZxWGd3eWNwY2NYNktObnhPcjFGNW1xanhtRnlKSU11enN0LWp4d0YtOXVuNlhYTEd5d1YyU21vOWcyemE1WkpaMFBOdWRZbkZkQQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T01:11:50.000Z",
-     "seen": "2026-11-16T01:24:29.843Z"
+     "time": "2026-11-16T01:13:01.000Z",
+     "seen": "2026-11-16T02:24:29.590Z"
     },
     {
      "title": "المكسيك: وفاة ميغيل أنخيل فيليكس غاياردو أحد مؤسسي كارتل غوادالاخارا",
@@ -446,7 +448,7 @@
      "seen": "2026-11-16T00:44:30.009Z"
     },
     {
-     "title": "ومضة الولي الغامض.. السودان يطوي زمن \"أبو هاشم\"",
+     "title": "بعد طي زمن \" أبو هاشم\".. هكذا رسم الولي الغامض ملامح السودان لمدة قرنين",
      "url": "https://www.aljazeera.net/opinions/2026/11/16/%d8%b1%d8%ad%d9%84-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85-%d9%84%d9%86-%d9%8a%d9%87%d8%aa%d9%81-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%88%d9%86?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-15T21:03:17.000Z",
