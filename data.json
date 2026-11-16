@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-16T03:14:29.635Z",
+ "updated": "2026-11-16T03:24:30.154Z",
  "minute": [
-  "شهدت أسواق الصرف ثباتاً في سعر الدولار مقابل الجنيه المصري بالبنوك مع ترقب حسم مصير أسعار الفائدة في الاجتماع الأخير للبنك المركزي.",
-  "خفضت خفضت مجموعة غولدمان ساكس توقعاتها لأسعار الذهب لعام 2027، بينما دعت عدة دول لإدخال المساعدات فورا إلى غزة.",
-  "أعلنت وزارة الأوقاف تنظيم ندوات لتعزيز التعايش السلمي، إلى جانب انتظام متابعة مواعيد القطارات بين القاهرة والإسكندرية.",
-  "فقدت شركة أمازون 40 قمراً اصطناعياً دفعة واحدة، وسط تصاعد التوترات والأحداث الأمنية والسياسية على المستوى الدولي."
+  "تتابع التطورات الاقتصادية في مصر استقرار سعر صرف الدولار وتراجع أسعار الدواجن وجهود جهاز حماية المستهلك لمواجهة الإعلانات المضللة.",
+  "شهدت الأسواق العالمية خفض غولدمان ساكس توقعاته لسعر الذهب لعام 2027 وخسارة شركة أمازون 40 قمراً اصطناعياً.",
+  "تتسارع التطورات التكنولوجية والأمنية مع تزايد المخاطر المرتبطة بالذكاء الاصطناعي وتأثيراته المتنوعة.",
+  "تستمر الأحداث السياسية والإقليمية مع تصاعد هجمات المسيرات والتطورات القضائية في عدد من الدول."
  ],
  "ai": {
-  "at": "2026-11-16T02:04:29.881Z",
+  "at": "2026-11-16T03:24:30.154Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T03:14:29.635Z"
+  "key": 1,
+  "impacts": 10
  },
  "markets": [
   {
@@ -28,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5860,
-   "change": 0.37,
-   "asOf": "2026-11-16T03:04:30.000Z",
+   "value": 5857,
+   "change": 0.32,
+   "asOf": "2026-11-16T03:14:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6691,
-   "change": 0.37,
-   "asOf": "2026-11-16T03:04:30.000Z",
+   "value": 6687,
+   "change": 0.32,
+   "asOf": "2026-11-16T03:14:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3876,
-   "change": -0.27,
-   "asOf": "2026-11-16T03:04:30.000Z",
+   "value": 3874,
+   "change": -0.33,
+   "asOf": "2026-11-16T03:14:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +64,16 @@
    "unit": "$",
    "value": 1.102,
    "change": -0.27,
-   "asOf": "2026-11-16T03:13:44.000Z",
+   "asOf": "2026-11-16T03:24:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 94.49,
-   "change": -1.41,
-   "asOf": "2026-11-16T03:04:29.000Z",
+   "value": 94.74,
+   "change": -1.15,
+   "asOf": "2026-11-16T03:11:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65107,
-   "change": 1.53,
-   "asOf": "2026-11-16T03:14:29.000Z",
+   "value": 65152,
+   "change": 1.6,
+   "asOf": "2026-11-16T03:24:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -144,14 +142,16 @@
      "url": "https://www.youm7.com/story/2026/11/16/«حماية-المستهلك»-يكشف-لليوم-السابع-التعديلات-المقترحة-لمواجهة-الإعلانات-المضللة/7618898",
      "source": "اليوم السابع",
      "time": "2026-11-16T03:00:00.000Z",
-     "seen": "2026-11-16T03:04:30.108Z"
+     "seen": "2026-11-16T03:04:30.108Z",
+     "impact": "يساعد المستهلك والمستثمر في مصر على التعرّف على التعديلات التشريعية المرتقبة لحمايتهم من التضليل الإعلاني."
     },
     {
      "title": "طرق التواصل مع جهاز حماية المستهلك لتقديم الشكاوى.. تفاصيل",
      "url": "https://www.youm7.com/story/2026/11/16/طرق-التواصل-مع-جهاز-حماية-المستهلك-لتقديم-الشكاوى-تفاصيل/7618955",
      "source": "اليوم السابع",
      "time": "2026-11-16T03:00:00.000Z",
-     "seen": "2026-11-16T03:04:30.108Z"
+     "seen": "2026-11-16T03:04:30.108Z",
+     "impact": "يساعد الأفراد في مصر على معرفة القنوات الرسمية لتقديم الشكاوى واسترداد حقوقهم في المعاملات التجارية."
     },
     {
      "title": "من عزت حنفي إلى الرجل الفار.. أسرار أخطر المجرمين وجرائم هزت مصر",
@@ -172,7 +172,8 @@
      "url": "https://www.elbalad.news/7182208",
      "source": "صدى البلد",
      "time": "2026-11-16T03:00:00.000Z",
-     "seen": "2026-11-16T03:04:30.108Z"
+     "seen": "2026-11-16T03:04:30.108Z",
+     "impact": "يهم الأسر والمستهلكين في مصر لمتابعة تكلفة السلع الغذائية الأساسية وتحديد ميزانية الإنفاق بعد انخفاض الأسعار."
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الإثنين 16/ 11/ 2026",
@@ -251,21 +252,23 @@
      "source": "جريدة الدستور",
      "time": "2026-11-16T02:25:41.000Z",
      "seen": "2026-11-16T01:04:29.668Z",
-     "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة استقرار أسعار الصرف وتحديد تكاليف السلع والمعاملات."
+     "impact": "يفيد المستثمرين والأفراد في مصر لمتابعة استقرار أسعار الصرف وتخطيط معاملاتهم المالية."
     },
     {
      "title": "سعر الدولار على مدار الساعة.. 53.74 جنيه شراء الأخضر فى البنك الأهلى",
      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPc3J4ZDVkV0JxWW1hWGtRbkRJNFFMM2daNjItalZ0S0ZaODVfR25LN29JVnVCWGl6ejFuTUpCNDJqN1otQ3FPeGRkblpyOEN5S2gzMUhMYWlJRUhjbWg3c003T1hrVml5QjJTVW9HV2xzNnFPdDRMdmVCQUEzWjJyN1N4VzgtQ0xOQW03TEdVSFBGSXE1LU9XVm02TnI2TFZoYkpNSXRyN1gzUXlPTHk5TlJwSkxYcU1Tb0c4QlhaLTZTZjdpZGc1RWxUbWNiY0tLMWpwZ0EzdXFZbTlXRnpBdUdaOGNsLU9RTmx2V1pIb1JWNFlmWklwT0lLUFpVV2RPSmlReUpXZ3dtOU9mTTFLQWVaaFBTVlZrM014SzFaUlBuSHhVVmJ2UG90ZTEzcmpLSllEdFpZY1FDSjdlRlBVZ0hyZ3h5cXhvMEEwRXV3RER3U1dxYlFtdjNBaW5mTld5NnktakRmTUpmV2tqMXB2Ulc1NXZxWWdPSE9tQVp4dTJLc25GVm0teVpVZFNtbHPSAY8DQVVfeXFMT3NyeGQ1ZFdCcVltYVhrUW5ESTRRTDNnWjYyLWpWdEtGWjg1X0duSzdvSVZ1Qlhpenoxbk1KQjQyajdaLUNxT3hkZG5acjhDeUtoMzFITGFpSUVIY21oN3NNN09Ya1ZpeUIyU1VvR1dsczZxT3Q0THZlQkFBM1oycjdTeFc4LUNMTkFtN0xHVUhQRklxNS1PV1ZtNk5yNkxWaGJKTUl0cjdYM1F5T0x5OU5ScEpMWHFNU29HOEJYWi02U2Y3aWRnNUVsVG1jYmNLSzFqcGdBM3VxWW05V0Z6QXVHWjhjbC1PUU5sdldaSG9SVjRZZlpJcE9JS1BaVVdkT0ppUXlKV2d3bTlPZk0xS0FlWmhQU1ZWazNNeEsxWlJQbkh4VVZidlBvdGUxM3JqS0pZRHRaWWNRQ0o3ZUZQVWdIcmd4eXF4bzBBMEV1d0REd1NXcWJRbXYzQWluZk5XeTZ5LWpEZk1KZldrajFwdlJXNTV2cVlnT0hPbUFaeHUyS3NuRlZtLXlaVWRTbWxz?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T02:01:26.000Z",
-     "seen": "2026-11-16T02:54:30.770Z"
+     "seen": "2026-11-16T02:54:30.770Z",
+     "impact": "يمنح المتعاملين والمستثمرين في مصر تحديثاً دقيقاً لسعر شراء الدولار بالجنيه في البنك الأهلي."
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين",
      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOM2wwcXQ5QXRjRDM4TUdhZ3ZQa3I5MnVQZ1BjZThSa0JuN0dMbEMxaTl2bng4ZUpTUW5CTWI2dVVpT1dTalJfWFZidklBOFNGVTg2dTdGWUhGRU9EMkM5ZVNBR3lMcGpzbEhxeTJQRlZKczd1b2ZfM05XcnRHWTZuNWJFbXZlS0M4TVFCbENoMlVzeEJXYWRtSUh3X05RSDV5amZWaERyQTV5bUZGUGdPVDdtWnlzOE9KZE1xRVpZWDk5SkZuQ19YbW1UTllnT3NhMml6ZDg5TkZPWkkwRGRnWUpvaTJUdmZLOHB5ZkpFMnFtWGt1VWF4WXN1S1JSU2FWd29kdnNJUERlY0lCTnVYa2gzYWVzaG9LSmtxTHBjTGdvT1RyZ0ZDb2xBTFgyYkRKUklMWVEwQTNTejdXUVpvc2NieklhdmpONU9NcVZsQzY2dHlZRHhSMmxlTjVBOHhWRHZ1RGlwbFpNRWRsYVF6SlByUlJKZ0xMeXZfN0Z3dXQ2S2pPSW1NZlZLVXkwbnN2SWhybjRQY2RoN1JmcDZra2dSX3BiaU54UU93anA0WnNkdHFtX3I0NkdKajQ2REdBaXdDN2lRQUV0YmJGZ0ZYTGRoWkktc0ZrYjlLOEM0ai1Fd9IB4gNBVV95cUxOM2wwcXQ5QXRjRDM4TUdhZ3ZQa3I5MnVQZ1BjZThSa0JuN0dMbEMxaTl2bng4ZUpTUW5CTWI2dVVpT1dTalJfWFZidklBOFNGVTg2dTdGWUhGRU9EMkM5ZVNBR3lMcGpzbEhxeTJQRlZKczd1b2ZfM05XcnRHWTZuNWJFbXZlS0M4TVFCbENoMlVzeEJXYWRtSUh3X05RSDV5amZWaERyQTV5bUZGUGdPVDdtWnlzOE9KZE1xRVpZWDk5SkZuQ19YbW1UTllnT3NhMml6ZDg5TkZPWkkwRGRnWUpvaTJUdmZLOHB5ZkpFMnFtWGt1VWF4WXN1S1JSU2FWd29kdnNJUERlY0lCTnVYa2gzYWVzaG9LSmtxTHBjTGdvT1RyZ0ZDb2xBTFgyYkRKUklMWVEwQTNTejdXUVpvc2NieklhdmpONU9NcVZsQzY2dHlZRHhSMmxlTjVBOHhWRHZ1RGlwbFpNRWRsYVF6SlByUlJKZ0xMeXZfN0Z3dXQ2S2pPSW1NZlZLVXkwbnN2SWhybjRQY2RoN1JmcDZra2dSX3BiaU54UU93anA0WnNkdHFtX3I0NkdKajQ2REdBaXdDN2lRQUV0YmJGZ0ZYTGRoWkktc0ZrYjlLOEM0ai1Fdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T00:00:29.000Z",
-     "seen": "2026-11-16T01:34:29.592Z"
+     "seen": "2026-11-16T01:34:29.592Z",
+     "impact": "يتيح للمستوردين والمتعاملين بالعملة الصعبة في مصر الاطلاع على أسعار الدولار بين مختلف البنوك."
     },
     {
      "title": "انتكاسة لـ\"أمازون\".. فقدت 40 قمرا اصطناعيا دفعة واحدة",
@@ -273,7 +276,7 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T23:53:44.000Z",
      "seen": "2026-11-16T00:34:30.215Z",
-     "impact": "يهتم به المستثمرون والمتداولون في قطاع التكنولوجيا لمتابعة المخاطر التشغيلية للشركات العالمية."
+     "impact": "يهم المستثمرين المهتمين بالأسواق المالية العالمية والتكنولوجيا لمعرفة الانتكاسات التشغيلية لشركة أمازون."
     },
     {
      "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
@@ -281,7 +284,7 @@
      "source": "Investing.com",
      "time": "2026-11-15T23:26:55.000Z",
      "seen": "2026-11-16T01:34:29.592Z",
-     "impact": "يهتم به المدخرون والمستثمرون في الذهب لمراجعة توقعات الأسعار العالمية وتأثيرها على استثماراتهم."
+     "impact": "يفيد الادخار والمستثمرين في الذهب بمصر لمعرفة التوقعات المستقبلية لحركة أسعار المعدن النفيس."
     },
     {
      "title": "موعد الاجتماع الأخير لـ«المركزي» في 2026.. متى يحسم مصير أسعار الفائدة؟",
@@ -306,6 +309,13 @@
      "time": "2026-11-15T22:19:41.000Z",
      "seen": "2026-11-15T22:34:30.139Z",
      "impact": "يفتح نمو صناديق الاستثمار والمنتجات القطاعية آفاقاً جديدة للمستثمرين لتنويع أدواتهم المالية."
+    },
+    {
+     "title": "رسميًا.. سعر أنبوبة البوتاجاز للمنازل اليوم الإثنين بعد قرار لجنة التسعير",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13OG02LU0wNHVkWUZzT29OazZiU2F1aFhEcEM2U1FlQ3Q3R3JJWGxabU4xdjQ1U0FHR3ZHMEJFdUlweVk5RDVGbTVTbXJBQzg5dG51LWo1YlhNUnlRS1Fr?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-15T22:18:00.000Z",
+     "seen": "2026-11-16T03:24:30.154Z"
     },
     {
      "title": "مسئولان بالسفارة الألمانية: برلين تدعم تحول القاهرة إلى مركز إقليمى للإنتاج والتصدير",
@@ -345,14 +355,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-15T20:16:40.000Z",
      "seen": "2026-11-15T21:53:43.139Z"
-    },
-    {
-     "title": "سعر الدولار اليوم مقابل الجنيه المصري 2026.. تحديثات أسعار الشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aVDFxUHlaLWJMZ09VUEIwc0RjNWNOQ09kM29tSGk5Mk5uVnFmTVdHLWJZQVdSbDllQXRSMVMzMThpbC13?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-15T20:16:23.000Z",
-     "seen": "2026-11-15T20:23:42.280Z",
-     "impact": "يتيح للمتعاملين في السوق المصري متابعة تحديثات أسعار شراء وبيع الجنيه مقابل الدولار للتخطيط المالي."
     }
    ]
   },
@@ -361,11 +363,32 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إيلون ماسك وشخصيات بارزة في سيليكون فالي يطالبون بعودة جنسن هوانغ إلى رئاسة إنفيديا",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261116-%D8%A5%D9%8A%D9%84%D9%88%D9%86-%D9%85%D8%A7%D8%B3%D9%83-%D8%B3%D9%8A%D9%84%D9%8A%D9%83%D9%88%D9%86-%D9%81%D8%A7%D9%84%D9%8A-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-16T03:19:38.000Z",
+     "seen": "2026-11-16T03:24:30.154Z"
+    },
+    {
+     "title": "القضاء العراقي يصدر مذكرات توقيف لمتهمين في قضية جرف الصخر",
+     "url": "https://www.skynewsarabia.com/middle-east/1904947-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%82%D8%B6%D9%8A%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T03:18:52.000Z",
+     "seen": "2026-11-16T03:24:30.154Z"
+    },
+    {
      "title": "آيزنكوت بعد كشف حيلة نتنياهو: لا يمكن أن يبقى دقيقة في الحكم",
      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZkNmalp6N0lpQk45SG1zZE1kUjRoUDBiZXJyY1FQMU1PTnp1M2c4bER5TWJqU0theXJOcXVhN0IwcVBWMGxDYWlwcmF1Ul93OFV3NnQ4bkNfRkF5d3YtOXBLQURpTWMtaWlDTUgtYkZQSXpUZkZocXV3elVldm5hY0VnZWtrVmg4Vy1vbjFfaGhZckp2YzI4cG5lSksxb3dmcGlNZ1BzeFlwYzRiNUxGbThYdTB0NjY4X3hWNUgxMWpSdm9DYjJvZjc5Qnl6OExub25yYm9KNVZZb3R2X2kzckd1VG9LR0RRSnlpRGdsUEZ5NmlZamlIMnNVY29BUlB0U255YndqUjU1dTdXbGJ6SzJqdjFwVzl6cUxTTkJXbUNCSTR1VDd4ZndhelFLYVdlWEtqTmprY3BmVEtCMEctMFpDMWR5NXdpUnVpaC05T3E1ZUtTQ3lTRWo5bXlHSVR0LUt1ZEg3azktbDBNQ0oxcnRubTJHeVZFeXRZdm5jaXAyTWxSeWs0LVZ5VFY5enVRZTh0SzhFaTN4QkVUZ1FfVdIBpgNBVV95cUxNNlF1cXNCSjlkYUVjcjJObjhJOFZWOF9zOG0wZDRJcURrdlBfZnVFUkk2U2RjZHRQM2h3eUpyNXRmdTRTTklLdTRSMDhNanRWVDk5RnhuWmlsSkt5VXNNc3VzMG84TWRVMy1FNVE3cE0taFFVZDc3aEN1OVlEQ25GdW51dlQtOVJUb2F2ZF9vRmhOYmtzVDlKMzBWMkJwMl9WUkI5Sm81WDdyanJJT2ZNSXlhbTN0SFRGcjZKOHU5SDlzWEZrMXdzU0ZGSFNhNG51Z05mRVRRV3kzV1lGWkg3cThVYmd6d3Nuc0NVZ2h1dkJNZmloY2ItTTBQS0x6c0F5djRna1h1LXhwd09URUY3Mm8tY0ItclFUOGVxRWpjeU5jZ3pSQ2xTVHU0NkZQV2xoN0lnQzZReno3aElCV0FNbUVSU1dOZ0dpOS1sNGZNTUx0R1hYbzRjM183bUZxWGd3eWNwY2NYNktObnhPcjFGNW1xanhtRnlKSU11enN0LWp4d0YtOXVuNlhYTEd5d1YyU21vOWcyemE1WkpaMFBOdWRZbkZkQQ?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T01:13:01.000Z",
      "seen": "2026-11-16T02:24:29.590Z"
+    },
+    {
+     "title": "المسيّرات الأوكرانية تغزو أجواء موسكو واجتماع وشيك لحلفاء كييف",
+     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b3%d9%82%d8%b7-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d9%87%d8%a9-%d9%86%d8%ad%d9%88?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-16T00:08:06.000Z",
+     "seen": "2026-11-16T03:24:30.154Z"
     },
     {
      "title": "المكسيك: وفاة ميغيل أنخيل فيليكس غاياردو أحد مؤسسي كارتل غوادالاخارا",
@@ -389,13 +412,6 @@
      "seen": "2026-11-16T02:54:30.770Z"
     },
     {
-     "title": "الحوثيون يتقدمون نحو عدن والبحرين تعلن اعتراض هجمات جوية إيرانية",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%AA%D9%82%D8%AF%D9%85-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D9%86-%D9%84%D8%AD%D8%AC-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-     "source": "فرانس 24",
-     "time": "2026-11-15T23:19:50.000Z",
-     "seen": "2026-11-15T23:24:30.211Z"
-    },
-    {
      "title": "أمريكا تدعو مواطنيها في البحرين إلى توخي الحذر وسط هجمات محتملة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/the-us-embassy-in-bahrain-on-sunday-urged-americans-to-exercise-heightened",
      "source": "CNN بالعربية",
@@ -409,13 +425,6 @@
      "time": "2026-11-15T22:51:54.000Z",
      "seen": "2026-11-15T22:54:29.968Z",
      "impact": "تؤثر التوترات العسكرية وحركة القطع البحرية في الشرق الأوسط على مناخ الاستقرار الاقتصادي بالمنطقة."
-    },
-    {
-     "title": "الحوثيون يقتربون من عدن",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ09OTkZjcFRkcnNHT3RhWWtIbFh6eER1UEpzY1hMX3FCc3RRYUM5MGdwWFlsc2J6Ymt2M1BxRkFaaHd1czdzaUpsbllqVXhXaUw0VVZKQWFYWUFsaTFLZGhqVEtmalNZQ19qSV9fVkVUcENqTkFNSWU1SlJzVFo4cm1xd3phdU9SWi05XzVjWk1rSXRnN0tCQ2VxTi1ITDBacWdHZXdMUGV4UFZtOXBIeU5IbGNSNkdjVnhjdTR1NE5sWmxlVnBwUnRSYkl5RExFWUprek5NNkJoNVlTMm1aQXZNMUdlVnNtUHVVV2FWX2Y5UdIB9wFBVV95cUxPSndEYVR3aWFCVFBRdTFsMUdLOHNFUXo2dkpNallsRk5yRGNZcU1keHRHMDRDWFVRQ21ja1VNS2Zzc0stZnNrbEU4WGxPbTRTN2J3WXF3U19sNWU3OFgtQWZZUnBIZWctekhDa1dmakdiUi1wYnZYYVFydHppWWNldDR4MS1aQm5GYWZyNVA3VTNnaHFNRW9OeklTRGFHcERGVHNjR1QyS0x3c3pwazBWMWpOOTBEVFBzMXJTQ1plazJneS1zLTg5djJiaXVuNFZpMk92ajM4Z2JGdHpCWHY4X3J0TDJ1TlZRWnVadHlDdnQ4QTVyNGlR?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T22:49:39.000Z",
-     "seen": "2026-11-16T00:14:30.084Z"
     },
     {
      "title": "الحرس الثوري يدعو الإيرانيين للخروج إلى الشوارع والهتاف بـ\"الله أكبر\"",
@@ -447,13 +456,6 @@
      "impact": "تؤثر التوترات واستهداف خطوط النفط في المنطقة على أسعار الطاقة العالمية والمحلية وتكاليف الشحن."
     },
     {
-     "title": "الإستراتيجية القانونية غير الجنونية لتحرير مادورو",
-     "url": "https://www.aljazeera.net/politics/2026/11/16/%d8%a8%d9%88%d9%84%d9%8a%d8%aa%d9%8a%d9%83%d9%88-%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-%d8%ba%d9%8a%d8%b1?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T21:21:32.000Z",
-     "seen": "2026-11-16T00:44:30.009Z"
-    },
-    {
      "title": "ذئب في ثياب حمل\".. ولاية ألمانية توقف حملة ضد \"التغلغل الإسلاموي\"",
      "url": "https://www.dw.com/ar/ذئب-في-ثياب-حمل-ولاية-ألمانية-توقف-حملة-ضد-التغلغل-الإسلاموي/a-79953481?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -471,7 +473,8 @@
      "url": "https://aitnews.com/2026/11/16/ai-generated-child-abuse-material-reports-childlight-2026/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-16T02:05:34.000Z",
-     "seen": "2026-11-16T02:14:29.793Z"
+     "seen": "2026-11-16T02:14:29.793Z",
+     "impact": "ينبه مستخدمي التكنولوجيا والمستثمرين في القطاع الرقمي إلى المخاطر الأمنية والتنظيمية للذكاء الاصطناعي."
     },
     {
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
@@ -500,7 +503,7 @@
      "source": "BBC عربي",
      "time": "2026-11-15T19:48:16.000Z",
      "seen": "2026-11-15T16:12:09.618Z",
-     "impact": "يهُم المستثمرين لمتابعة أمن الطاقة الإقليمي وتأثير استهداف خطوط النفط على الأسعار العالمية والمحلية."
+     "impact": "يهم المستثمرين والمتابعين للشأن الاقتصادي لمعرفة تأثير التوترات الإقليمية على إمدادات الطاقة وأسعار النفط."
     },
     {
      "title": "ميغا سبييد: المشتبه بها بالتجسس للصين والتي ارتبط اسمها بالرئيس السابق لإنفيديا غادرت منصبها في 2025",
