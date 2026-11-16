@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-16T00:44:30.009Z",
+ "updated": "2026-11-16T00:54:29.585Z",
  "minute": [
-  "تترقب الأسواق موعد الاجتماع الأخير للبنك المركزي لحسم أسعار الفائدة، بالتزامن مع متابعة توقعات أسعار الذهب وطفرة صناديق الاستثمار القطاعية.",
-  "أعلنت الهيئة العامة للسكة الحديد مواعيد القطارات ورحلات تالجو، بينما كشفت شعبة المحمول عن زيادات جديدة مرتقبة في أسعار بعض الهواتف.",
-  "تتواصل التطورات الإقليمية والدولية مع إعلان البحرين اعتراض هجمات وتصاعد الأوضاع قرب عدن ووصول حاملة طائرات أمريكية ثالثة للشرق الأوسط."
+  "تتناول الأخبار المحلية في مصر أسعار صرف الدولار ومواعيد حسم الفائدة بالبنك المركزي بالإضافة إلى مواعيد القطارات.",
+  "وعلى الصعيد الإقليمي والدولي، تتواصل التطورات الأمنية والتحركات العسكرية مع صدور تحذيرات للمواطنين.",
+  "كما تضمنت الأحداث الاقتصادية والتكنولوجية طفرات في صناديق الاستثمار وتطوير تقنيات الذكاء الاصطناعي."
  ],
  "ai": {
-  "at": "2026-11-16T00:14:30.084Z",
+  "at": "2026-11-16T00:54:29.585Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T00:44:30.009Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -27,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5884,
-   "change": 0.77,
-   "asOf": "2026-11-16T00:34:29.000Z",
+   "value": 5878,
+   "change": 0.67,
+   "asOf": "2026-11-16T00:44:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6717,
-   "change": 0.77,
-   "asOf": "2026-11-16T00:34:29.000Z",
+   "value": 6711,
+   "change": 0.67,
+   "asOf": "2026-11-16T00:44:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3891,
-   "change": 0.12,
-   "asOf": "2026-11-16T00:34:29.000Z",
+   "value": 3887,
+   "change": 0.03,
+   "asOf": "2026-11-16T00:44:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1024,
-   "change": -0.24,
-   "asOf": "2026-11-16T00:43:46.000Z",
+   "value": 1.1025,
+   "change": -0.23,
+   "asOf": "2026-11-16T00:53:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.49,
-   "change": -0.37,
-   "asOf": "2026-11-16T00:34:06.000Z",
+   "value": 95.41,
+   "change": -0.45,
+   "asOf": "2026-11-16T00:42:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64702,
-   "change": 0.89,
-   "asOf": "2026-11-16T00:44:31.000Z",
+   "value": 64995,
+   "change": 1.35,
+   "asOf": "2026-11-16T00:54:38.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -165,7 +163,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T00:00:00.000Z",
      "seen": "2026-11-16T00:04:29.420Z",
-     "impact": "ساعد المسافرين والمواطنين في مصر على تنظيم أوقات تنقلاتهم على خط قطارات أسوان والقاهرة."
+     "impact": "تساعد معرفة مواعيد قطارات خط أسوان القاهرة المواطنين في مصر على تخطيط رحلاتهم وتنقلاتهم بانتظام."
     },
     {
      "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
@@ -173,7 +171,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T00:00:00.000Z",
      "seen": "2026-11-16T00:04:29.420Z",
-     "impact": "يتيح لركاب السكة الحديد في مصر معرفة مواعيد رحلات قطار تالجو لتسهيل وتخطيط السفر."
+     "impact": "تتيح متابعة مواعيد رحلات قطار تالجو للمسافرين خيارات تنقل مريحة ومحددة عبر خطوط السكة الحديد."
     },
     {
      "title": "الحسابات الفلكية تكشف موعد غرة شهر رجب وأول أيامه لعام 1448 هجرياً",
@@ -250,7 +248,8 @@
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNWMzNWYtWUFDMFFtbnJXY1A0SzVnZExHVnFXS2NkQzJiVEtjSmNaeEZ1bVBOd09rZFVjRGdmS3lxUVJOb2p2dk9XRWpaTWFPZm5hLVpvRE5SaHNjZVNFZ3pvNWNRNzFZMmpmZ1RDSjVxSTdubDlGdEx2QUxxMV91dXRCeDVWYWZWZl9jUHNmMmVDbE5ndklPd0ItbHBYbzJxb2FwM0loMGI4eEljVGt3ZnhkNVc4WEtwdjJrLVh0cmpaaWxabHdqN3pYekZ6anI5Qlh3VjFhUWRBRjA3dDZEd1NNTnYta2NBdkdyLWU4RlB2TlNYLWVjU3RWNlJfaUtTa1RyU2VQSDJRanlWbHhyVy1KZXRzbmczRDU5UGFWS0F6Q1FRWldWOEQxR3lJU2EyQXZMLS1TNERRUWtRSHpTYWxZVzJ5VzlSTXUwNllpVkFYTlNLUHRZM08xbnFDVHJZMXFaQ2Z4SVVzeGpybDA3RzNuT1ZvZEkxYzdMMk5aWEotakJXQTFPX2tXc3lvbktEX2IwOEJlODdmY1BOZnRtT2NxanFSMmlZQjRpZ1ZxZmItYzljb2Vqd1VvQ1ptM0xEbHlGYmRJXzZiMmdwbTVqZkdLZE1LU1RCQ2dQNXV4dWgwVzdwel9B0gHiA0FVX3lxTE4zbDBxdDlBdGNEMzhNR2FndlBrcjkydVBnUGNlOFJrQm43R0xsQzFpOXZueDhlSlNRbkJNYjZ1VWlPV1NqUl9YVmJ2SUE4U0ZVODZ1N0ZZSEZFT0QyQzllU0FHeUxwanNsSHF5MlBGVkpzN3VvZl8zTldydEdZNm41YkVtdmVLQzhNUUJsQ2gyVXN4QldhZG1JSHdfTlFINXlqZlZoRHJBNXltRkZQZ09UN21aeXM4T0pkTXFFWllYOTlKRm5DX1htbVROWWdPc2EyaXpkODlORk9aSTBEZGdZSm9pMlR2Zks4cHlmSkUycW1Ya3VVYXhZc3VLUlJTYVZ3b2R2c0lQRGVjSUJOdVhraDNhZXNob0tKa3FMcGNMZ29PVHJnRkNvbEFMWDJiREpSSUxZUTBBM1N6N1dRWm9zY2J6SWF2ak41T01xVmxDNjZ0eVlEeFIybGVONUE4eFZEdnVEaXBsWk1FZGxhUXpKUHJSUkpnTEx5dl83Rnd1dDZLak9JbU1mVktVeTBuc3ZJaHJuNFBjZGg3UmZwNmtrZ1JfcGJpTnhRT3dqcDRac2R0cW1fcjQ2R0pqNDZER0Fpd0M3aVFBRXRiYkZnRlhMZGhaSS1zRmtiOUs4QzRqLUV3?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T00:00:00.000Z",
-     "seen": "2026-11-16T00:24:29.740Z"
+     "seen": "2026-11-16T00:24:29.740Z",
+     "impact": "يهتم الأفراد والمستثمرون بمتابعة سعر الدولار أمام الجنيه لتأثيره المباشر على تكاليف السلع والخدمات في البنوك."
     },
     {
      "title": "موعد الاجتماع الأخير لـ«المركزي» في 2026.. متى يحسم مصير أسعار الفائدة؟",
@@ -258,7 +257,7 @@
      "source": "الوطن",
      "time": "2026-11-15T22:31:49.000Z",
      "seen": "2026-11-15T22:54:29.968Z",
-     "impact": "ساعد الأفراد والمستثمرين في مصر على التخطيط لقراراتهم المالية والادخارية قبل الإعلان عن أسعار الفائدة الجديدة."
+     "impact": "تفيد معرفة موعد اجتماع البنك المركزي المستثمرين والمودعين لتوقع قرارات الفائدة وتأثيرها على الادخار والاستثمار."
     },
     {
      "title": "التنين الصينى عالق بين ازدهار الصناعة وركود العقارات",
@@ -266,7 +265,7 @@
      "source": "البورصة",
      "time": "2026-11-15T22:25:59.000Z",
      "seen": "2026-11-15T22:34:30.139Z",
-     "impact": "تنعكس حالة الاقتصاد الصيني وتوازن الصناعة والعقارات على أسعار واعتماء السلع المستوردة والتجارة في مصر."
+     "impact": "تنعكس حالة الاقتصاد الصيني بين التوسع الصناعي وركود العقارات على حركة التجارة وسلاسل التوريد العالمية."
     },
     {
      "title": "طفرة صناديق الاستثمار تفتح الباب أمام منتجات قطاعية جديدة",
@@ -274,7 +273,7 @@
      "source": "البورصة",
      "time": "2026-11-15T22:19:41.000Z",
      "seen": "2026-11-15T22:34:30.139Z",
-     "impact": "يفتح مجالات وفرصاً جديدة أمام المستثمرين في مصر لتنويع أدواتهم المالية عبر صناديق استثمار قطاعية."
+     "impact": "يفتح نمو صناديق الاستثمار والمنتجات القطاعية آفاقاً جديدة للمستثمرين لتنويع أدواتهم المالية."
     },
     {
      "title": "مسئولان بالسفارة الألمانية: برلين تدعم تحول القاهرة إلى مركز إقليمى للإنتاج والتصدير",
@@ -282,7 +281,7 @@
      "source": "البورصة",
      "time": "2026-11-15T22:17:21.000Z",
      "seen": "2026-11-15T22:34:30.139Z",
-     "impact": "يدعم بيئة الأعمال والشركات في مصر ويعزز الفرص التصديرية والصناعية بدعم من الجانب الألماني."
+     "impact": "يدعم التوجه الألماني لتحويل القاهرة لمركز تصديري إقليمي فرص الاستثمار الصناعي والتجاري في مصر."
     },
     {
      "title": "سعر الذهب عيار 14 اليوم الاثنين 16 نوفمبر يصل إلى 3983 جنيهًا",
@@ -299,6 +298,14 @@
      "time": "2026-11-15T22:00:00.000Z",
      "seen": "2026-11-15T22:14:29.375Z",
      "impact": "يسهم ثبات سعر الدولار مقابل الجنيه في استقرار التكاليف التشغيلية للشركات وتوضيح الرؤية الشرائية للمستهلكين."
+    },
+    {
+     "title": "شعبة المحمول: زيادات جديدة في أسعار هواتف أوبو وهونر رغم انخفاض الدولار",
+     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOR3huVVRKcFozY3dZT1VvR1pZOFBqLXdvRmwzOEpMdEU2bnJiLUp1ZFhLSjlaZml5UjNGRl93dXk3U0R6ZTJNRG9yd1g5ckg3bjhidXpjSXU2OVFtbmlZNDBXeVp3TnpLdDczQ1puVF9YeXA1c19pbzFQbDl0cDV6M2daNVk1V1A0amk5Ty1WdFlldDhUZV9Fd0lzT25HTjdzMHQxSTNmc241NFl1Z3NlRG1sTlhndVNLcTVGVE83eW9qZ01PaFlIM2syTGwyVUhnM2w5MmJZUkM0M1M4Ty1GT3JJbGdKbWVFVG53dVBBc3labXZZdGFZSzZ2NTFsc0hqMnM3eGtkbUo5UjJMZ0dXRmpPMXlKQVZJLVBGYmQ0ZjZwTkozbDE1eTBTLTRIZVV2Zk1xUTJvSXRnVHY3M004U1BHUC1MWFBxd3MtVW5tOFRzNEpDaFEzOFlFRUhhcnJGMVJVRHNBaHV5SG5wSjduYTBhTDVTOG1qaHc5d2NMczhudVVIcUtqS2dPMGVrVldvdG5sZVBYeDMyNkVfLVhFa3pRSGI0WFNsNC0zbzJQRkpQa3VEamdkenZ4SWllMzN2Z0FQUklPVTZVNEwyOUNDSnZZQ3BRZDdyaXZoYTQ3WVR1Sjg3c19YN0tLQm5hNV9lWl9VYnBNUzJaWnhrdEI4UzNWa2VBSUQySXVoY2RfSmNud0NCY2F0U1hpbi1YblpweGE0OFRkZ3E4RnhWTlhqSHQ4TEZxSFh2NVZ3QmtQY0RpUk54ekNramJ3aktOZ1ZyaWhqdWJLWVFIc0N3Yllj0gHkBEFVX3lxTFB6LVM2bnlVb3U5MVdHM3lBZkVQdTFaMGxackRtU0ZqY3Z1cTRKNkZqVFpuUUl2dUViTTdWWklCaE1QWEZCeG5JTFM3UVBxamloT19DaXIyRngyTXU3UW1kSmhuU3BtT1FlSjV4S0dTT2hUR05TT2VEaUJFUWpmWG1qWTN2UTBOcl9veHppWl9oYjdITUxSaWJ6Tk1CMHF4VHNUNDFscXhGalR5SGMxSkg0OEpMZnJPYk5KeUR4NVJwV1NsbFVJdzI5aUk2Zmk4MHNYWkUtV3lsZ2U2d2lJeEhpZFV3ZDMtbTkwV1VaQzJscGZTdEg3NnFmbVFmT3daVzd3cjVrSThCQ2ZWMTRGMW9wTmpDMk5CT2t2ekV4OTF0djFndmxZNWdQUEpac21yOGJoRWlzWnktOUtPai1lSWxiM2NnODlXTFZaVFhNSnAyTUNPR2kzRjdiMVZyQ2JOdWRtR3BlbXdoTTNlN3UyS1RmTnRZVEVDOUxqLWN6d0gyZDE4eHE3ZnNPRWNSeGZfaTA1b2ZFR1gzbFdpUEYwQ2JzdjBGVjZlUTNzTWpBMVJDSzlxOHE4WVcyTmNjRGktUmZMOGNadG1pZ2dQZkxRS0themFJbXFKXzMzZ2xNR2tvZUdpS1RIelBGWDJwelNaQkVwWUhsODJxdjlRMWxmbXFIMWlfckw5aDRNM21JN21wZHh2SXVrdTJZX1RYMjFYVWxZOVgyc25ibW1UNlRheUxKeUZnNk45Z2E1aEp5a3h4OHd2dzE4MTVTSFJDdlFsdlhmZ2I4WXROeDZkLUlxengtcHloRg?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T21:16:23.000Z",
+     "seen": "2026-11-15T22:04:30.021Z",
+     "impact": "ينبه المستهلكين والمقبلين على الشراء في مصر إلى تكلفة الارتفاع المرتقب في أسعار هواتف أوبو وهونر."
     },
     {
      "title": "قفزة جديدة في سعر الدولار بالبنوك.. وصل كام انهاردة؟",
@@ -344,13 +351,6 @@
      "source": "العربية",
      "time": "2026-11-15T19:38:00.000Z",
      "seen": "2026-11-15T22:24:29.761Z"
-    },
-    {
-     "title": "ارتفاع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84RFBlQ1hlUklyOWt6MDV5TXBxVkRtc1RwNURVMnE0NTF4ckdab2I5eE9xdHk1M1VBallkN0IzR3VFZjIzVE9Z?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-15T19:08:00.000Z",
-     "seen": "2026-11-16T00:24:29.740Z"
     }
    ]
   },
@@ -391,7 +391,8 @@
      "url": "https://www.skynewsarabia.com/middle-east/1904934-%D8%AD%D8%A7%D9%85%D9%84%D8%A9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T22:51:54.000Z",
-     "seen": "2026-11-15T22:54:29.968Z"
+     "seen": "2026-11-15T22:54:29.968Z",
+     "impact": "تؤثر التوترات العسكرية وحركة القطع البحرية في الشرق الأوسط على مناخ الاستقرار الاقتصادي بالمنطقة."
     },
     {
      "title": "الحوثيون يقتربون من عدن",
@@ -478,14 +479,6 @@
      "seen": "2026-11-16T00:04:29.420Z"
     },
     {
-     "title": "شعبة المحمول: زيادات جديدة في أسعار هواتف أوبو وهونر رغم انخفاض الدولار",
-     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOR3huVVRKcFozY3dZT1VvR1pZOFBqLXdvRmwzOEpMdEU2bnJiLUp1ZFhLSjlaZml5UjNGRl93dXk3U0R6ZTJNRG9yd1g5ckg3bjhidXpjSXU2OVFtbmlZNDBXeVp3TnpLdDczQ1puVF9YeXA1c19pbzFQbDl0cDV6M2daNVk1V1A0amk5Ty1WdFlldDhUZV9Fd0lzT25HTjdzMHQxSTNmc241NFl1Z3NlRG1sTlhndVNLcTVGVE83eW9qZ01PaFlIM2syTGwyVUhnM2w5MmJZUkM0M1M4Ty1GT3JJbGdKbWVFVG53dVBBc3labXZZdGFZSzZ2NTFsc0hqMnM3eGtkbUo5UjJMZ0dXRmpPMXlKQVZJLVBGYmQ0ZjZwTkozbDE1eTBTLTRIZVV2Zk1xUTJvSXRnVHY3M004U1BHUC1MWFBxd3MtVW5tOFRzNEpDaFEzOFlFRUhhcnJGMVJVRHNBaHV5SG5wSjduYTBhTDVTOG1qaHc5d2NMczhudVVIcUtqS2dPMGVrVldvdG5sZVBYeDMyNkVfLVhFa3pRSGI0WFNsNC0zbzJQRkpQa3VEamdkenZ4SWllMzN2Z0FQUklPVTZVNEwyOUNDSnZZQ3BRZDdyaXZoYTQ3WVR1Sjg3c19YN0tLQm5hNV9lWl9VYnBNUzJaWnhrdEI4UzNWa2VBSUQySXVoY2RfSmNud0NCY2F0U1hpbi1YblpweGE0OFRkZ3E4RnhWTlhqSHQ4TEZxSFh2NVZ3QmtQY0RpUk54ekNramJ3aktOZ1ZyaWhqdWJLWVFIc0N3Yllj0gHkBEFVX3lxTFB6LVM2bnlVb3U5MVdHM3lBZkVQdTFaMGxackRtU0ZqY3Z1cTRKNkZqVFpuUUl2dUViTTdWWklCaE1QWEZCeG5JTFM3UVBxamloT19DaXIyRngyTXU3UW1kSmhuU3BtT1FlSjV4S0dTT2hUR05TT2VEaUJFUWpmWG1qWTN2UTBOcl9veHppWl9oYjdITUxSaWJ6Tk1CMHF4VHNUNDFscXhGalR5SGMxSkg0OEpMZnJPYk5KeUR4NVJwV1NsbFVJdzI5aUk2Zmk4MHNYWkUtV3lsZ2U2d2lJeEhpZFV3ZDMtbTkwV1VaQzJscGZTdEg3NnFmbVFmT3daVzd3cjVrSThCQ2ZWMTRGMW9wTmpDMk5CT2t2ekV4OTF0djFndmxZNWdQUEpac21yOGJoRWlzWnktOUtPai1lSWxiM2NnODlXTFZaVFhNSnAyTUNPR2kzRjdiMVZyQ2JOdWRtR3BlbXdoTTNlN3UyS1RmTnRZVEVDOUxqLWN6d0gyZDE4eHE3ZnNPRWNSeGZfaTA1b2ZFR1gzbFdpUEYwQ2JzdjBGVjZlUTNzTWpBMVJDSzlxOHE4WVcyTmNjRGktUmZMOGNadG1pZ2dQZkxRS0themFJbXFKXzMzZ2xNR2tvZUdpS1RIelBGWDJwelNaQkVwWUhsODJxdjlRMWxmbXFIMWlfckw5aDRNM21JN21wZHh2SXVrdTJZX1RYMjFYVWxZOVgyc25ibW1UNlRheUxKeUZnNk45Z2E1aEp5a3h4OHd2dzE4MTVTSFJDdlFsdlhmZ2I4WXROeDZkLUlxengtcHloRg?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-15T21:16:23.000Z",
-     "seen": "2026-11-15T22:04:30.021Z",
-     "impact": "ينبه المستهلكين والمقبلين على الشراء في مصر إلى تكلفة الارتفاع المرتقب في أسعار هواتف أوبو وهونر."
-    },
-    {
      "title": "وزير الأمن الأميركي: ترامب وعائلته \"الهدف الأول لإيران\"",
      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQRElsc2tPTjg3cldHLVdJZDA0Tm1zQW91LXd2ckFtcDZRdDV2bWxGdnpJZk9SZ1MzWHZkQkhDN3dROHh0aWFPQjhPYkNnVU9oZmFJblJDZnhCZDdZakhuUWVvYkVUZUJob200WXk0NHB1aUl5V19vYXk2aU1RNEVtb2NjV09SZndVN3V2MWNRNDRUN0VpUzNNY0Rtc0J3bDhSQ2tKdFFuelV3UEo2c2lfOXVwdDFRcU1aXzBfbjRSYnV3SmR5Y08zRTl3TFdnV0tHanZUYjVkMFhPNkV6RkdmOF91cWF5R1ItNXhfdnF6Tm90YVdCNENKMmV2SnVfV1A1Mm5ULVVZSmZpLUN5aXkwUFNhTEUyQklDLVBQS0picm1ZaGVKcndLS0xOd3NtMWZqbkFaWjAxTUNDbWJ6emM2dHVfYXlwSnh3MEo0YjE0MUtCRzFVaWVOZGdFYVhoa2dsaVRuSklaaXIzLXM4ay05MndhXzcwRWQyTXhPX2dXbl9lOGVvWmxZc0FDTFJqYlMwdzZlNk9BT0JrTC1xLUw5ZXkzeGI5TE5kS1AzNnZua9IBzgNBVV95cUxPb3hHWm53NUhqT3M0SjRDVlp6dm40emxJZkpWQ2t0eUV4a2NJTHEtNVR3Xy1aajNjRGRUblc1bmxPVFg0b2ZxR1oyWUI5cEVmenA3aENtZWQ5OElqWkVHcjR2SHJaRjNBdnNIbGdWanBhUjBDSy01czg2bkRCYm5RNHhjWHpwT2hPSHc5dEFPal91MVBHNGZvclhaVllYMDdZQ3FNcDh3ZHcxMm4tV1JtT2FWV0RoTXgzQ3d1Njl4THR0R3p5WWdsQXpYRUgxQXRidWVFa0x4bm9vZzY1NVNQVkxocmJ5SGc3M1lJUENfQkMzcS12Q0ZEWS1iRFlZWEJyLWlCdWpnSmVCdWpudWFvd185SFAxaTRmS2VDTEQ4N1RRNDlpQVhueV9iZTRRTmVWd19rUlZ4RDl3blZDR0oxXzRrTUFub3d1dEpIek1yVk5GYTRoLTl6dFRVRmt2eGdnbnFpcXhqVmVyTXIxTkMzR3ZEUnVlV1Q1dmtpOHVHeEN4dXNUMUpyb0tGalJWVHU1Z1FNT1RacTUzMWpsSTI1bjNOWDQyZlNhSzlOaXZPZkgtc0dGcWJLeFVsbGdXSWp5aEtwT0otRmhfUEQ5bHc?oc=5",
      "source": "سكاي نيوز عربية",
@@ -565,6 +558,13 @@
      "time": "2026-11-15T13:22:00.000Z",
      "seen": "2026-11-15T16:22:09.353Z",
      "impact": "التحديات المتعلقة بالغش عبر الذكاء الاصطناعي تنبه المؤسسات إلى ضرورة تحديث معايير الأمان والنزاهة في الاختبارات."
+    },
+    {
+     "title": "دون عجلة قيادة أو دواسات.. تسلا تفتح باب حجز «سايبر كاب» بشروط غير متوقعة",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNam1ZT3p2N1pyVHdEZEJlN3o3T3Bmd3pJTGRoWWxpdzJLUUJRa29qLXRJNkY3Z2FFRzNPMXFURTd0VF9iamR6ODdxWFVoT3FpbUJ0cHhaeDJ1TERNeTZJTDFuQzMwTFdNUDJKcGdBNllPa3hjOHdCb1pDZkxSWWVtUTNOTlN2R0hIWTRSX2hUYlZRMzQwdDN1QldYcjR6MEZBRHppYnN2d3BTVXFpaE10STlRNmZQcnhxeU5VMXhRUGQyWUp2b1lXXzNPSzBOSXEzVzRfNVp2NHpTY05maWlBQWpiZEhCRVlOaFBkUGpEa2VpTUlYb0NEcjc3UzZSZ01Jc0ZjM1ZYaDhEMkRPdWtQd1ZvT01abG8wYlh2dGU4ZVhGQmZnNUF5OWxEQjZac2ZiUkpQT1JMUXdNUWlhY3M0VzFfZDBXLUl1VjE4Z0ZBVlJ0czFuRUtlMFFHaW5abm5vLUVNVUxoYVpGcmxyZEtTRm1PWXY2dVZVRUd5NXNhdG8xbGNiX2ZLN1JoVUhRVTVodFZLVEJPNWFVQzE3OV9hZk9JdjJFeWvSAaIDQVVfeXFMUG9wNHJ1R0ZjUldraG5NRG5Ba1d1bEdWbUNxUlJWMmVFWEdYdWhpck9TQ0FiWlVnVC1UT0ZFajhyNURBalJKRDktYUdEekRCa3hYaUlnMmppdUlkLVAyR1F0SDRtLTJJOG1TUE9YVkV2QmQ0OHVodEVnbml3UVY1Mm9GM1RycEpwYjRiVktjWkFwUnpaOXFteTUtRHdvQmRwSkZOVU9aRGN6Qm5Ld05QWnlBVlJZZTczbEdBX2hVSGhsWHEwYzM4eTd3VUs0NUFGbkYxNmlWX3gtcElCMXp4R1BLNFpGMC1OSXludi1hQlk5NF9LNVBtY1lJbVFQdVFNaDRob0dkbE9Jb0RFYmVacXlMQjYtanF4Qm0yU3lmTjA5eGlhWFRmMjh5X2QwbXZvY05EeEthMzJkS0Nra1dzOU1wYjNvNlY3OWZraS05b1BvY0xYU2lQTlkzREpvcmF5M204cE9pS3M4TEhxSTlQY2lRc3ZiV2JIcTJBdmZqdVVsN2x6XzNHb2tOTHBpS3h5MXlQc283YVJLNnRLdkVBbmlfZw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T13:00:00.000Z",
+     "seen": "2026-11-16T00:54:29.585Z"
     }
    ]
   }
