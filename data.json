@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:47:17.338Z",
+ "updated": "2026-11-16T14:57:17.830Z",
  "minute": [
   "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
   "شهدت القطاعات المصرفية في مصر متابعة لتطورات أسعار صرف العملات الأجنبية والدولار واليورو أمام الجنيه المصري.",
@@ -9,7 +9,9 @@
   "at": "2026-11-16T14:36:22.497Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 5
+  "impacts": 5,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T14:57:17.830Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5864,
-   "change": 0.43,
-   "asOf": "2026-11-16T14:37:20.000Z",
+   "value": 5871,
+   "change": 0.56,
+   "asOf": "2026-11-16T14:48:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6695,
-   "change": 0.43,
-   "asOf": "2026-11-16T14:37:20.000Z",
+   "value": 6704,
+   "change": 0.56,
+   "asOf": "2026-11-16T14:48:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3887,
-   "change": 0.01,
-   "asOf": "2026-11-16T14:37:20.000Z",
+   "value": 3892,
+   "change": 0.14,
+   "asOf": "2026-11-16T14:48:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1014,
-   "change": -0.33,
-   "asOf": "2026-11-16T14:46:43.000Z",
+   "value": 1.1007,
+   "change": -0.39,
+   "asOf": "2026-11-16T14:58:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.68,
-   "change": -2.25,
-   "asOf": "2026-11-16T14:37:12.000Z",
+   "value": 93.57,
+   "change": -2.37,
+   "asOf": "2026-11-16T14:48:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7503,
-   "change": -0.77,
-   "asOf": "2026-11-16T14:47:20.000Z",
+   "value": 7490,
+   "change": -0.95,
+   "asOf": "2026-11-16T14:58:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65011,
-   "change": -0.45,
-   "asOf": "2026-11-16T14:47:19.000Z",
+   "value": 65260,
+   "change": -0.07,
+   "asOf": "2026-11-16T14:58:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ارتفاع مؤشر البورصة السعودية الرئيسي في ختام التعاملات",
-     "url": "https://www.elbalad.news/7182994",
+     "title": "موجة بيع أسهم الذكاء الاصطناعي تدفع المستثمرين لإعادة تقييم حجم المخاطر",
+     "url": "https://www.elbalad.news/7183006",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:46:43.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
+     "time": "2026-11-16T14:56:27.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
     },
     {
-     "title": "توريد وزراعة النخيل والأشجار بمسار العائلة المقدسة بكفر الشيخ",
-     "url": "https://www.elbalad.news/7182946",
+     "title": "تطوير الإرشاد الزراعي وزيادة الصادرات.. تفاصيل خطة وزارة الزراعة",
+     "url": "https://www.elbalad.news/7183002",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:45:59.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
+     "time": "2026-11-16T14:55:32.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
     },
     {
-     "title": "المفوضة الأوروبية لشؤون التوسع تبدي تفاؤلها بفتح ملفات التفاوض المتبقية لانضمام أوكرانيا",
-     "url": "https://www.elbalad.news/7182974",
+     "title": "الاتحاد التونسي يشكو طاقم تحكيم مباراة ليبيا للكاف",
+     "url": "https://www.elbalad.news/7183008",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:45:06.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
+     "time": "2026-11-16T14:55:08.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
+     "title": "ترامب: قد ألتقى برئيس كوريا الشمالية خلال زيارتي للصين",
+     "url": "https://www.youm7.com/story/2026/11/16/ترامب-قد-ألتقى-برئيس-كوريا-الشمالية-خلال-زيارتي-للصين/7621035",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T14:53:00.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
+     "title": "ترامب: قرار مصر بتصنيف أذرع الإخوان تنظيمات إرهابية أمر رائع",
+     "url": "https://www.youm7.com/story/2026/11/16/ترامب-قرار-مصر-بتصنيف-أذرع-الإخوان-تنظيمات-إرهابية-أمر-رائع/7621041",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T14:50:00.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
     },
     {
      "title": "«في المطار» يرصد خدمات مبنى الركاب 2 .. تأشيرة إلكترونية وإبداعات فنية وإشادات عربية",
@@ -165,26 +181,12 @@
      "seen": "2026-11-16T14:47:17.338Z"
     },
     {
-     "title": "الإخوان في أوروبا تحت مجهر التمويل.. بروكسل تتحرك لمراجعة المنح وكشف مصادر الأموال",
-     "url": "https://www.youm7.com/story/2026/11/16/الإخوان-في-أوروبا-تحت-مجهر-التمويل-بروكسل-تتحرك-لمراجعة-المنح/7621008",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T14:24:00.000Z",
-     "seen": "2026-11-16T14:36:22.497Z"
-    },
-    {
      "title": "«مدبولي» يلتقي وزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ydDFYUV96TzZ4M2ZpVEF2TmhhcFQ1T3FSUDdacmEwek1HcTFYVnQ1cS14cXlOMF9KZXYxUWY0ZUhWZTBBMXdyUXpQX1VaYzAyT3d6R2xKS3VkTkRwUzBj?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-16T14:14:00.000Z",
      "seen": "2026-11-16T14:26:22.411Z",
      "impact": "يهم المستثمرين في مصر لمتابعة فرص التبادل التجاري والشراكات الاستثمارية الجديدة مع السوق الهندي."
-    },
-    {
-     "title": "رئيس الوزراء يلتقى وزير التجارة الهندى لبحث سبل تعزيز العلاقات بين البلدين",
-     "url": "https://www.youm7.com/story/2026/11/16/رئيس-الوزراء-يلتقى-وزير-التجارة-الهندى-لبحث-سبل-تعزيز-العلاقات/7620988",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T14:10:00.000Z",
-     "seen": "2026-11-16T14:36:22.497Z"
     },
     {
      "title": "المتحدث باسم مجلس الوزراء المصري لـ CNBC عربية: رفع الحد الأدنى للأجور يشمل جميع منشآت القطاع الخاص.. نستهدف رفع أجور القطاع الحكومي إلى 15 ألف جنيه خلال 3 سنوات",
@@ -197,7 +199,7 @@
      "title": "الميرغني: شيخ الطريقة الذي اعتلى منبر السياسة ونادى بـ\"وحدة السودان أرضاً وشعباً\"",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTbFZreWFZV05YODFBWmVXYjRaaS1uQU1nY3VtbmVyOG1OUlctY1BLMHplMzR3VngxQTJwSHdRb3N4OHRFeFp6VGJmbHF1VVJpSTR2c3BWT005S2ZUTkHSAWNBVV95cUxONHh1UHBLZ2QtR1RZWmQ0TXk2WGdORlZvNjRfRGVnbmZaY2RRM2xMWW9BTndRWDQ4MDJhVnJlMGx1ZGlxSk4ybmFNV3F2bndiclI1LWtXQWFRckwzUkhZenpYbFU?oc=5",
      "source": "BBC",
-     "time": "2026-11-16T11:37:30.000Z",
+     "time": "2026-11-16T11:44:11.000Z",
      "seen": "2026-11-16T11:56:22.213Z"
     },
     {
@@ -241,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "البنك المركزي يبيع أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2ZrRDdTbGdMaFRqdGtDMzNlTWhhNFJOMTVuNUoxRFJMbzdDQV9PdGJPZDlKTHpOb09jcVFZRm12ek11bFNHbWpKbDd5Wk95UHpPN1JfNXU2X3dmWkM5Nk9nSHJMSmF5OGNZbDR4cTY4ay1raThtUVNsM0pGVml6a0pWOU0zZUc1VjRsXzF4Vnk1UGtyLXlsaGxlNG9oaFRNVGNoc1JKdw?oc=5",
+     "source": "بوابة الشروق",
+     "time": "2026-11-16T14:45:51.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
     {
      "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
      "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
@@ -339,13 +348,6 @@
      "time": "2026-11-16T12:04:50.000Z",
      "seen": "2026-11-16T12:06:21.750Z",
      "impact": "يهم المتعاملين والموردين في مصر لمتابعة مستويات أسعار الصرف في نهاية التعاملات اليومية."
-    },
-    {
-     "title": "هل تسقط \"إنفيديا\" برحيل رجل واحد؟ - مقال في واشنطن بوست",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RVFdpVGdMSHVEUEl1S0wyNmdMaktkOHRFZlFYRWFweVIzci1KSWRnSUg1TmgtRmJwNTRvWWJPV2hzaXFSei0xNHVESkVuUkJzRmQzQTdWRVJVUERyX1HSAWNBVV95cUxOalhaRDIwR0EzclhXZXFiNHFpYllqVk8xRXZfS3I5MlU5NjFzM3ZqVWhNaEM1TUgwS1ZiUmJiaXhDYXJrRDVoREtuQkNqWjBrS3RJbUNHbkcyUnozZXpIaFpCM1E?oc=5",
-     "source": "BBC",
-     "time": "2026-11-16T11:39:07.000Z",
-     "seen": "2026-11-16T14:16:23.237Z"
     }
    ]
   },
@@ -354,18 +356,39 @@
    "title": "العالم",
    "items": [
     {
-     "title": "الزيدي يأمر القوات المسلحة بدخول معقل كتائب حزب الله في جرف الصخر عقب اتهامها بتهريب النفط العراقي",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261116-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A3%D9%85%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D8%B9%D9%82%D9%84-%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
+     "title": "خلافات تؤجل انتخاب أمين عام جديد لمنظمة الفرانكوفونية: المنظمة أمام تحديات موازين القوى الدولية",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261116-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%AA%D8%A4%D8%AC%D9%84-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%A3%D9%85%D9%8A%D9%86-%D8%B9%D8%A7%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%88%D9%81%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
      "source": "فرانس 24",
-     "time": "2026-11-16T14:37:07.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
+     "time": "2026-11-16T14:55:31.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
     },
     {
-     "title": "غارة إسرائيلية على منطقة جبلية في قضاء بعلبك عند الحدود اللبنانية السورية",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AC%D8%A8%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%B6%D8%A7%D8%A1-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+     "title": "ترامب وشي وبوتين على طاولة واحدة في أول قمة ثلاثية بالصين",
+     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQbzh1YXpoS2doZXVUUUhiN2ZWUzBBZVZBeDRialBoTzFEQTFDd255MDRvcThyYmNWOGdLMklNc3VzbmpTdnFRU2l4YWRuQlBnZDIwTTZNQUZIWkZuOWtJUGZaRmd0QndNSXBCX0Vpb3ZVaE44VTdlVnFURmFNeVFHaklwUGpIYzFlWTRWWnZWX0xkVHljWHl5R1hFWVNoajU2UUtabkhmcTJ4UHg4akFNMV9oYmRQeWd2TTdtekFmcDVBQVZkZk00MWozQnFoQzhmaWg4b3o3NnNNS3NSb2d6QkFIeV9ZTUtIdnJ1bThmN01HblNKMDlKQ3dhNzJsczRheWpSdnNZd3p6LWlmRHNadHlSc3FYc1Fxa1VXUTg0THFSWTc0UWRYUEdBbVNnODZlNjVUbG9FNWtzT0JzLTk3bzBnVk5ySmZMeGFfMmNZTmt0NGNycXVRYVhGLVhkOGtuT1RtLW1fVjFQODIzbng1VWpOckpmOURwZzE0R2YyVjlPSnBrNS1XOTFycUx3NkhDWG5HWlFaSExXQkZOVVdnOS1WZW1Vcl9WNzBUM29wamlqZWtyc3ZjZFFCbW9ZRGtZWkVMcEVGUHRDTEFLTDFJMHNWMEE2X0hyM2JmRFRLSkM0QUpYSjBr?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T14:51:50.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
+     "title": "\"مكيدة نتنياهو\" في الانتخابات.. اعتقالات وتنصت وشبهات تلفيق",
+     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNaEhFVmEwRGlzSms4R2UzcENZUDVDOS1BbjlHSmhva0NhTlQ5VmZ2dWhfakU2YjRFRnFGWGxlUzVEUHRhTktXUTRUNDJROW5LdFNVSkN5NW5NOW1NdkJSaGZDcW0xTDhqTE1KeDJqR0FVcWtLQXluaFFoR0NTWmFyeG9fR1FuNVNZaGhxLU1pTno2MVItQ2ViZ1lad24zc0E1dm5EZHNzMGpBbm4zS1RIYVlJcVJDdVJjYXZ3NC1jQlRGYnRwYkFJVlFROWhLemR5U2lqZDd6UEtwYkFzM1hkMVBmODlBUm5ZeExPRHVtb3hIdExSc3BOQ2lybmlQeWRqTTBFVlJrTzVDSjdxcDByRzZWd2lpQTIxVjMydjhseUVFNkx6d0xaZmdXem9aNTVNbUpwa1pvLXBEbUFYNzl0WXA0cVctM2x2ZjhOVE1pNFdlU3o3UnJvSFlZb1ZHQnNieXg2dVNQOU0yTjlwT2Q0THVqd1BCSXF0ajVMZ05NZ2pvNHZPaTl1ZmtPcFNfd082aWNSSzlrU25BdFF0Ullha1RDMXdxQS1DdkZxejF1bUNuVXhKUVFJYWZLUlBMMVBpcV9sNW5Yc2o3R1RHRzNIblN1TjhsNXdYaUFCMnpTNkFfempCYm5XYVFYQdIB8ANBVV95cUxPaFRxN0RfcWhRcnBXckMtYXhfNmZQVDRaQlJ5NnBlR3hHS21rR2drRXlrbnZJOW9oRzBidVZLUlpDSmpqd19yeUlzd2RpVHZlMUtkdnZCTUNieHdpd2w0TVg3R3o5VEl3VFpYMzYwV1FuVGN0NUNtdHpLZlhHY3AxT09VZDhWZGNISk5qeGJrMXRLUEs3aDh1ZHBYS0dHYUxTZGZzck5DVWtJUXBzc1hVWUszdXBPQXlMUENCUDAwXzVWZ0hFWElzZWdiOEZFQTVnX2syeEN5TXlncGhvVnFscW9nek93SmZ5N0lnNnowZE5LY1NseUx2Y2FrVVVBbDdRdlkxblZobWlLMkJucU54MWpRWERlV0VMczRKOG5VZUhndFdHZC1qYnJ5UTlMcXBmOUYwb3k0TFM5LVk5WmEtRHM2T2xJWVBFeV83d05aWkxjbDRIVFZxLXB1SXlmOUtlNVJGbjBkelhlbV9ZWkt3QmJIYXp4c0hhRFpwemFQSFlDbHdWa0EzcllfWTh1NzE5UUdNSEZEby1NdUxDWkJuUVJOQjFrNDROb3RTX2ZleHo5TEtNZi1KMC1DemVHSF9PWlRHTWdicUhGVDBDOGEyQUpzQ1pEcTNRZXNud3NMZFNieEFWSm9BeXFTT3pXUTF4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T14:51:40.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
+     "title": "الإعاقة غير المرئية.. كيف تؤثر على الحياة المهنية؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9/20261116-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%A6%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%A4%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9",
      "source": "فرانس 24",
-     "time": "2026-11-16T14:34:51.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
+     "time": "2026-11-16T14:48:46.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
+     "title": "العراق: اتهامات بتهريب النفط تشعل مواجهة جديدة بين حكومة الزيدي وكتائب حزب الله",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%B4%D8%B9%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
+     "source": "فرانس 24",
+     "time": "2026-11-16T14:40:13.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
     },
     {
      "title": "بغداد تأمر قواتها بدخول معقل كتائب حزب الله في وسط العراق",
@@ -389,32 +412,11 @@
      "seen": "2026-11-16T14:36:22.497Z"
     },
     {
-     "title": "عراقجي: التزمنا بالتفاوض لكن أميركا اتخذت مساراً آخر",
-     "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxONXU2VEhhRUJveVJDaWQzMTJUcFB2MTdvTTJnSVlGa00xX0ZsVEtwZVVvdlhtREFWUXpUTlkwMDJJWnpSM2lwVWd3R19Fdmc3TDJOa2lJM1ppOU5kamNTLTZBbkxvUVQ5Um52TDR1bEtjcTBLMjB3X0h4dGw2aXdDV0VpSkNNWGtyeFpGal8ybExzYzJtY0xaal9VSTNrOHhGYjlEaFRrdktGN1A0WjNqR2ZnNFJrZ0dUMDFvUXpCQUc4STRlb3doLUp5d0FrZVlFSlkwYmcyZi1EU3lvcVAtWjRzM2NVS3Q1bWVROHlaMTZadWRYcVE1bEU1SXF5Z0RHcVl1VDdjTjNwZG9XSi01dlFKNHNSbFJKd25nMGtwUDR3dUNfTV9JblVsRG96dnN1bHhNOGtEeEcwWDhNdnBFdVhfMFoxX1FYWldBUU9OQVVTaWRXZGNNY2hMYlEwU2N1ZVI5YWlOMXBVY19VVk40YkkxR1pMUU5UWWFtOXJpaWFGWm1DYTYzMEZSOHBBT0tVdkN1ZU9JM3RhTGY0bk5lNDBFZG15S1BzUmpsTVJ6Wk52OVZqblHSAbsDQVVfeXFMTkU0V3d3TkQ5dW5XbkZEc24wTXZ5b2Y1TEhzV1lxSVMzbEIwM2lhRmdqTHpOM3pCRUF5djNWZy04UUxRanRxY2VqRk5GV0RabE5KVW1IdVFka3hwUDBfR3lRbEsyeVBzTEV4dWdCWmYxMDFWWVRfWV9lTThSRE1WTXhqRlNiT1NyNDJJM2tVUmRwOVppVlpZZU5yMXk3VjJXWWRwUGxmd3RieVZLTDZoMlA5Q2I2QjlVbDZvTGtmWmc5eHVpYklvT3ZBaUhfM2tvcWozLVpFRGVlRVp3QkVSbGRxTmxMdTAyRjBobTVwNGM3QjI4b0tISktPU3dVb0dpQlJrUFhOYU0zM0k0MUxjdTA1VHZvSzkxbHF2WkY4RXlsTFV6dWU1Vmozd2JEWHYwNmJ6NEZwal9JYzhLTmZWSnl2UDBVRDl0OXlkdE83eEhyclk4MTgxWmsyWTIzdkVFS0lyWHNkVHJ6cVdGcldING15MklucGhlU2hhSzF5Yks1TFVOdzJJQ0RZZXZ1bVdsb2czenA5UTJfZUtvUmR3RGNsdHJULTN4WEg4MWZxMVZZR21PMFlXQ0ZPaEk?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T13:49:25.000Z",
-     "seen": "2026-11-16T14:16:23.237Z"
-    },
-    {
-     "title": "الأردن يحجب تلغرام.. لمواجهة التطرف والجرائم الإلكترونية",
-     "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNWFJacG0yaXlzUzQ5WTJXVTFiV3loVW9zREJ3eHcwdXpjUU14Z0hsM3BsYnJNMkY2cXRNM0hUdnhDMWhjQWRzYVlWY1BpNmx3U3lMOE9BSDFGVnUzM2JrQ0ZsRkNickVvQXFzY0JiSUVqdTJHdk9xeVlmaWw1VlduTm10UXNFZkVvRTFQUjhhSlBKYmhmdUphT0JOMmtfemE1NFQ4aEVnLUZXRDB4X2hiMk1hZGNnR05pTzgyUEU4dEFERmUzM1p1cEpwSE1sU1BqMkxtT09sMnBrZ3oxaXNqa3A0YWIxVkVtNTZnQWhjVklzRFlsLVdBbUNTQzhVbjNtbzcwcWMzRGhpdEdqVXpOMmhscHlBNFFhTklzU1pRZEdLVDMxOWd4cjJQQ1ExbW9LQ1JYeWJWNUJKX2lwdklodkJ2eUdNMklQNEhZSzJJNlZUZV8xRU1BRGtSRGFfOWV1V2FfNmZqa3BYOTlJQW4wVEtwRXU2MDBsUy1KYnJ4V05pWkxEaWpIbFpBdF9tUWVZa2IzODc0djBpZm44TW1BbzdlNkdXejF6RXJJZHZncWRydlFwMDBSMWZsU1lUMFlfd0xkSzN2LWNfTTBuVFVxbDUyeFJVT3N3R255ZkhNVkhUUVpTQUYwR25kT3B3VHNub1RZ0gH4A0FVX3lxTE9iMkJoX1NmZU5QdDJRVFkzVlNWQVdidnVDMGpwZTVraFNNNkdlVHZjeWdZWk5HVEpFbGgtSExMTmNGU3p5YkxMSUJxb0wwb0VKUUN3QWFUMTVjeVEyNDFsR2xUa0pkVHBOcTNlYmxyZUkxcmRtSFdjLVJFOE13b1VhSkRMRzNXdXJxdDV3VWhCX2hHU21xUDQ3WUYwZHJ0bWRhY05RQ2RXREluNzEwUWNSZUdfS0JwZ1c5OEg3bThya1hiWTJqQ2cxQVY0ZmQ5LTAxM09zS25RbG5tZ1l5aWgtY0ZEWElBM1lESmJUeGRRa01ianZHUFFMUUY4UlVTSUxSMVU1R0lHZzZEYjJOMEpCU1NWRWMwYVMtZ0dqVXVwT2tWT0hmb1BrS2w0VHpRVXJldWlKV0lnNVBaMnJveFJUQU15UlR4a3VFWnNwckpfTWJTZElOQWZXdGQ4Slcwc2tPUWFJT29uNUpjcGF6bkNTQklfT3VWUXU2c2E2T2ZkdU8yU0NTTkNKYjM0SWtyZEY4VnhVc2x2cWJ2R05wbDdMRlQ3YmpYMTkwc0VldzhaZ0RHUk9TT3E1UmdELXE3TXo5OWRPblRzRWljWDdBamVGOTVjV2Q5SFE4cDZ6NVJPRjJTSl9nRmpfR1V3aTB1STh4N0Z3dy1VZQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T13:49:25.000Z",
-     "seen": "2026-11-16T14:36:22.497Z"
-    },
-    {
      "title": "السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/saudi-arabia-royal-decree-appoints-a-new-commander-for-the-joint-forces",
      "source": "CNN بالعربية",
      "time": "2026-11-16T13:43:25.000Z",
      "seen": "2026-11-16T13:46:23.345Z"
-    },
-    {
-     "title": "اختراق «مناطق الموت»..كيف دفع نجاح مُسيّرة «ستارغيت» كييف لتأسيس وحدة إخلاء جوي؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AA%D9%83%D9%86%D9%88/20261116-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%83%D9%8A%D9%81-%D8%AF%D9%81%D8%B9-%D9%86%D8%AC%D8%A7%D8%AD-%D9%85%D9%8F%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%B3%D8%AA%D8%A7%D8%B1%D8%BA%D9%8A%D8%AA-%D9%83%D9%8A%D9%8A%D9%81-%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D8%AC%D9%88%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-16T13:42:20.000Z",
-     "seen": "2026-11-16T13:56:22.907Z"
     },
     {
      "title": "آيزنكوت: نتانياهو لا يمكن أن يبقى «دقيقة إضافية واحدة» في الحكم",
@@ -517,6 +519,13 @@
      "impact": "يتطلب توجه الشركات لاستخدام الذكاء الاصطناعي إعادة تقييم التكاليف التشغيلية واستراتيجيات التوظيف في قطاعات الأعمال."
     },
     {
+     "title": "\"مدينة المعجزات\" الصينية.. لم يزرها أي رئيس أميركي قبل ترامب",
+     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQQmVwb0k1SU1VOTByZ1YtRENIbjVwalhlMnBHRWVsdEVrV3ZDSXVTNDhsb2EtU0xwakZyTnFULWJrUTVIYk5kSThMUUlfUGQ0c21MeVhwZjJsOEZYdmstajA0aTQ5Mm1hUEZPUkp4R3Jyb25TX2RZenRzUEpSQ0h2a3ZEalJzeldRUkdNZHdiTjQ5Z3RRbVFGejd1dU1qRjMyRHVLLXl2anRqS1YtMGtsNDVpUi1PMTc2UTdobmtNd0Z0OWpKNDE1TFQ2VUx4NEFkcTlKekZ0X3JWdWRfN09CdXNRWWwteEVrV08wemJBWl9VU1psbnVYbGtIRDZDOTZLbGRTQ3Axel9OM0E3MS1YbUp6VzdLcmdOaGJud3BHSldfVTl3UGlHTVhSUGppdTdvSDJJbnNlcUY4VlZRSDFPQ3RsZmhRZllrQjVRUTF5cDlxVHp5M3JpTDFYcGdYLWFJaDZDcm40Ny1JZWExeWdVUW5VbFcwYmhCR0x6ZHNoYTBIanF6cHlYaEpRWllNY3c4Sl9HOFR0cXRLSzYyWUM3UDh6M2dtZFAxajJCMUJUZVN5UGh3Q0x2YlFPRmtJWUZfQkp3QjNHVDQ3SnptRXltNnVZaUswUk9BOVpvOC02LURwVXY5cHN3Q2wzRFh5VHPSAfQDQVVfeXFMTzQ3OS1xWWk2VEUtZGk0Rlp0NDhONnJ4bjJ4cDlNN0UwZVg5VHBtbFg2cnNKZm9NUkNRRUhuNGNma21McTZaTEpISHZ3U1M4NkhFLXhWNTFaMFAzRUpFMk9OekhuZ1NjVUpnUVdmb0VvVnZycmpfWF9zSlFHUjdaUE1TNC1fOEZWZEFfVTRaeXpIRWpJVGJUMGpjazhmSU9zeDN3Vk5ZR0JWZEdMclFhMG4zS1M1MFBuQ2tEdHFrUUV6ZnZNNm52OFhta3lfdWZtTTVEelVremsydXJtLXVzSVphYlR4SjZBaWNHNWZvZ05SeGduejlaZ0N5R3JEcmxON0hpd3QtQWVHSjU1N3VEYk90SmJyZDFxcDhDMk9CTnhsR3B4bXZOeFJYdG5NOGJ0N0ticjVkQVlnUjhRY1NweWpMejRsb3hVYVpXNVZaeHBQaWdOSzJPZk5oemtGeE83WmFGOHdHRnR6WGMzTjVTTmZZcm1fOTQtclFNS05HY2ZlbURIWkxhdEZJVF9yMXJWSHlDQ29MaFV6RGh3QXNJTTBmNnh1X2pISUJtUVFpZFY0bWVmMi1oVWFhcEk5SE1Ecm1naGduLVZYcmRfS1g1czI0YXEwY1JvU29zMVdFMDZCTTdOQ0t0WmZfY3VRS0ZBSlJ6N3I?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T09:58:00.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
      "title": "\"كل ما درسته كان بلا جدوى\" : كيف يغير الذكاء الاصطناعي مساراتنا المهنية؟",
      "url": "https://www.bbc.com/arabic/articles/c61k93dk3ky8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -553,19 +562,16 @@
      "time": "2026-11-16T07:39:24.000Z",
      "seen": "2026-11-16T07:44:46.076Z",
      "impact": "يفيد قطاع التكنولوجيا والمطورين في مصر بالاطلاع على أدوات جديدة للذكاء الاصطناعي بقدرات متقدمة."
-    },
-    {
-     "title": "بوني إيه آي وتويوتا تطلقان سيارات أجرة bZ4X بلا سائق في الصين",
-     "url": "https://aitnews.com/2026/11/16/pony-ai-toyota-bz4x-driverless-taxi-china/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-16T07:37:38.000Z",
-     "seen": "2026-11-16T07:44:46.076Z",
-     "impact": "يهتم به المستثمرون والمهتمون بقطاع السيارات والتكنولوجيا لمتابعة اتجاهات التوسع في النقل الذاتي."
     }
    ]
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
