@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:14:46.361Z",
+ "updated": "2026-11-16T07:24:45.652Z",
  "minute": [
   "شهدت الأخبار تحديثات حول أسعار الدولار والعملات العربية مقابل الجنيه المصري في البنوك.",
   "تطرقت العناوين إلى تطورات إقليمية ودولية منها حادثة مضيق هرمز ودراسة الأونروا تقليص عملياتها.",
@@ -9,43 +9,45 @@
   "at": "2026-11-16T07:04:45.714Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T07:24:45.652Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.75,
-   "change": 0.64,
-   "asOf": "2026-11-16T06:57:14.000Z",
+   "value": 53.74,
+   "change": 0.63,
+   "asOf": "2026-11-16T07:24:29.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5828,
-   "change": -0.19,
-   "asOf": "2026-11-16T07:04:46.000Z",
+   "value": 5832,
+   "change": -0.12,
+   "asOf": "2026-11-16T07:14:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6654,
-   "change": -0.19,
-   "asOf": "2026-11-16T07:04:46.000Z",
+   "value": 6658,
+   "change": -0.12,
+   "asOf": "2026-11-16T07:14:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3854,
-   "change": -0.83,
-   "asOf": "2026-11-16T07:04:46.000Z",
+   "value": 3857,
+   "change": -0.74,
+   "asOf": "2026-11-16T07:14:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,16 +65,16 @@
    "unit": "$",
    "value": 1.102,
    "change": -0.27,
-   "asOf": "2026-11-16T07:14:44.000Z",
+   "asOf": "2026-11-16T07:24:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 96.36,
-   "change": 0.54,
-   "asOf": "2026-11-16T07:03:47.000Z",
+   "value": 96.32,
+   "change": 0.5,
+   "asOf": "2026-11-16T07:11:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64428,
-   "change": -1.34,
-   "asOf": "2026-11-16T07:14:47.000Z",
+   "value": 64537,
+   "change": -1.18,
+   "asOf": "2026-11-16T07:24:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,48 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "طلب إحاطة بسبب اعتذارات وزير التعليم المتكررة عن حضور اجتماعات لجنة التعليم بالبرلمان",
-     "url": "https://www.elbalad.news/7182365",
-     "source": "صدى البلد",
-     "time": "2026-11-16T07:06:03.000Z",
-     "seen": "2026-11-16T07:14:46.361Z"
-    },
-    {
-     "title": "قصف مدفعي إسرائيلي يستهدف عدة مناطق في مدينة غزة وشمالي القطاع",
-     "url": "https://www.elbalad.news/7182364",
-     "source": "صدى البلد",
-     "time": "2026-11-16T07:05:30.000Z",
-     "seen": "2026-11-16T07:14:46.361Z"
-    },
-    {
-     "title": "شهيد برصاص قوات الاحتلال قرب الخط الأصفر في جباليا شمالي قطاع غزة",
-     "url": "https://www.elbalad.news/7182362",
-     "source": "صدى البلد",
-     "time": "2026-11-16T07:00:48.000Z",
-     "seen": "2026-11-16T07:04:45.714Z"
-    },
-    {
-     "title": "الإفتاء توضح الضوابط الشرعية للإنجاب.. القدرة على رعاية الأبناء أساس القرار",
-     "url": "https://www.youm7.com/story/2026/11/16/الإفتاء-توضح-الضوابط-الشرعية-للإنجاب-القدرة-على-رعاية-الأبناء-أساس/7608950",
+     "title": "منال عوض: 76 موافقة بيئية وتحركات عاجلة لمواجهة التلوث",
+     "url": "https://www.youm7.com/story/2026/11/16/منال-عوض-76-موافقة-بيئية-وتحركات-عاجلة-لمواجهة-التلوث/7619974",
      "source": "اليوم السابع",
-     "time": "2026-11-16T07:00:00.000Z",
-     "seen": "2026-11-16T07:04:45.714Z",
-     "impact": "تساعد هذه الضوابط الأسر في مصر على فهم الرأي الشرعي بشأن الإنجاب واشتراط القدرة على الرعاية."
+     "time": "2026-11-16T07:24:00.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
     },
     {
-     "title": "الكلاب ليست المصدر الوحيد للسعار.. «الخدمات البيطرية» تحذر من هذه الحيوانات",
-     "url": "https://www.youm7.com/story/2026/11/16/الكلاب-ليست-المصدر-الوحيد-للسعار-«الخدمات-البيطرية»-تحذر-من-هذه/7617634",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T07:00:00.000Z",
-     "seen": "2026-11-16T07:04:45.714Z",
-     "impact": "تزيد من وعي الأفراد في مصر بالمخاطر الصحية لتجنب انتقال عدوى السعار من حيوانات أخرى غير الكلاب."
+     "title": "فى ذكراه.. قصة مأساة استيفان روستي فى أيامه الأخيرة",
+     "url": "https://www.elbalad.news/7182375",
+     "source": "صدى البلد",
+     "time": "2026-11-16T07:23:42.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
     },
     {
-     "title": "غلق الطريق الإقليمى بالمنوفية بسبب الشبورة المائية",
-     "url": "https://www.youm7.com/story/2026/11/16/غلق-الطريق-الإقليمى-بالمنوفية-بسبب-الشبورة-المائية/7619930",
+     "title": "\"أبيك\" يشدد على الاستخدام الآمن والموثوق للذكاء الاصطناعي لدعم النمو الشامل",
+     "url": "https://www.elbalad.news/7182383",
+     "source": "صدى البلد",
+     "time": "2026-11-16T07:22:09.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
+    },
+    {
+     "title": "وزارة التضامن تنفذ 778 جلسة توعوية عن مفاهيم التربية الإيجابية فى 449 مدرسة",
+     "url": "https://www.youm7.com/story/2026/11/16/وزارة-التضامن-تنفذ-778-جلسة-توعوية-عن-مفاهيم-التربية-الإيجابية/7619971",
      "source": "اليوم السابع",
-     "time": "2026-11-16T06:28:00.000Z",
-     "seen": "2026-11-16T06:34:46.321Z"
+     "time": "2026-11-16T07:22:00.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
+    },
+    {
+     "title": "قمة نارية بين ألمانيا وهولندا.. مواعيد مباريات اليوم في دوري الأمم الأوروبية والقنوات الناقلة",
+     "url": "https://www.elbalad.news/7182368",
+     "source": "صدى البلد",
+     "time": "2026-11-16T07:20:22.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
+    },
+    {
+     "title": "الداخلية تأذن لـ84 مصريًا بالتجنس بجنسيات أجنبية ورد الجنسية لـ21 آخرين",
+     "url": "https://www.youm7.com/story/2026/11/16/الداخلية-تأذن-لـ84-مصريًا-بالتجنس-بجنسيات-أجنبية-ورد-الجنسية-لـ21/7619957",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T07:16:00.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
     },
     {
      "title": "منح مالية ورواتب بالدولار.. 6 دول تفتح أبوابها للمصريين للهجرة والإقامة رسميًا",
@@ -352,6 +352,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "العفو الدولية تعتبر أن العمال المهاجرين لدى \"أمازون\" في السعودية يتعرضون للاستغلال",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/20261116-%D8%A7%D9%84%D8%B9%D9%81%D9%88%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%88%D9%86-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84",
+     "source": "فرانس 24",
+     "time": "2026-11-16T07:16:42.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
+    },
+    {
      "title": "عبارة \"لن يتكرر أبدً\" ما حدث في العهد النازي أصبحت مجرد تعبير أجوف",
      "url": "https://www.dw.com/ar/عبارة-لن-يتكرر-أبدً-ما-حدث-في-العهد-النازي-أصبحت-مجرد-تعبير-أجوف/a-79932938?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -431,13 +438,6 @@
      "seen": "2026-11-16T04:14:45.910Z"
     },
     {
-     "title": "مظاهرات حاشدة في التشيك احتجاجا على إصلاح نظام تمويل وسائل الإعلام العامة",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261116-%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%B6%D8%AF-%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-     "source": "فرانس 24",
-     "time": "2026-11-16T04:08:24.000Z",
-     "seen": "2026-11-16T04:14:45.910Z"
-    },
-    {
      "title": "سفير أمريكي سابق: فضيحة باراغواي لم تصنع الفساد بل كشفت نظامه",
      "url": "https://www.aljazeera.net/politics/2026/11/16/%d9%86%d9%8a%d9%88%d8%b2%d9%88%d9%8a%d9%83-%d8%a7%d9%84%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a3%d8%b7%d8%a7%d8%ad-%d8%a8%d8%b1%d8%a6%d9%8a%d8%b3-%d9%88%d9%83%d8%b4%d9%81-%d8%b9%d9%86?traffic_source=rss",
      "source": "الجزيرة",
@@ -457,6 +457,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "ديلويت تطلق BusinessNext لإدارة العمليات المالية للشركات الصغيرة والمتوسطة",
+     "url": "https://aitnews.com/2026/11/16/%d8%af%d9%8a%d9%84%d9%88%d9%8a%d8%aa-%d8%aa%d8%b7%d9%84%d9%82-businessnext-%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-16T07:20:26.000Z",
+     "seen": "2026-11-16T07:24:45.652Z"
+    },
     {
      "title": "شاهد.. الصين تنجز أول رحلة تجارية مأهولة لطائرة كهربائية",
      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTHdGVlNqS25UeTNmSGd6WlVnZzFPX2FUY0N2QkR4S29qZFlTQkt5em9hUV9fR0RfRzRTbEZkTVphY2pHcUF1Tm1RN005czBUdmdXY25fczRPRHFXZjNuT3VGRDd3dzM2X2U2eDIyWFZuZmtfTmdqUE1waE9rb08yMmxJbjlNRmU4X0ZWV3NnYXJWaEJ0ZEZFeUpKM1JCYTZzQnp2ay1oelloSFZYLXFxNEgtVFpDcVg3YlNXYXpfd0dLQWhiVmJ2dXc3QUs4WWVEX3VFNjJBeEJ0U3hMQlZqLTktR2xGaUdkbHF5RURHdUpmNE1QT0dFWE1jSmpQazQ0V1hsVmRaX0FNYmJKY29wZXBuc1JSdllzekxpamJIRFJCRTJhSjN4NThBLUs4R0lXTUhZSmpnNU9zQnFYS0FIVWtmeElYQ284d1N5XzF5c3BYTkhVWmZpdmtrcEhLSEZpb1JhcUJjb2l6YUpxVERzV3hHTDQ0SDFVVzlWZUtBbWl4UEF5ZXI0TFdzb1BGeVZkWFJEYmt2bVlrS2lSWnFoUUNjWlBYaW1ESXBFbDdvOHBSekdLU1d6bFRqbF9FVlnSAcQDQVVfeXFMTWt0OG4tME9SZlU1RmdaZDJWTzFrRjVwVkwyaVdLcXhiYjdxa3pEcGNpU080MDJkUFpBdmlYVE9VOEZYZ2NtTGtBWGhkMDJlUVFINEU5Q25CU0x5aGdaX214bnZsamphbDJwODhaS1lVbTlhZUNDaEFyZ0JBUHpKUGNqWTFncjdXa2d3VTJFVE1lb2I2NXQ0Um11enFiSlpjVG1kejY5NHFDcU1UZWdMd0xVQnZpWWpxMkdad1pWMnd5VTA5Y2l5M1IxNXhncVBwWGJFdUJNMVF6WnJxQmMwVmdRWGFidkswVWlJdUtRZDh1aGlaaTlmZWo1VVl3NkR4Y2drSXJBbTM0N0NMTU4zdXFfeEZ3RHBvMmd3a0YzNE1NMkJISURWRU5QWXFicWV6WFZEelVFQ0YxeDQ5RFEydFVFUlc3YlFVZUg0akg0bFRDMVYzcmdzOGZNSHJ4cDJubjd3a0VSblMyd3lOWWNQUHNZQlhEXzdJOFRVWnBfaEt6aHg5ZU9UdHYyajllQ2xtUjhJQURCUGo0S0VaXzJiNktTNGt6SkFNWGo2T2VxdDZ3T3Flbl9RMEdUWm93YTVjTXBIeVY?oc=5",
@@ -554,13 +561,6 @@
      "time": "2026-11-15T16:15:22.000Z",
      "seen": "2026-11-15T21:23:42.798Z",
      "impact": "تهم رواد الأعمال ومستخدمي التقنية في مصر للتعرف على أدوات وتطبيقات جديدة لتحويل حركة الشفاه إلى نصوص."
-    },
-    {
-     "title": "هونر Magic 10 Pro Max وUltra سيحصلان على شاشة مزدوجة الطبقة الجديدة",
-     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOSm5KZkV5WTBLMEctN2s0OE9GQVE1ZFhmMWZCM0FrZVhFNmZCU3E2c1RqSzkzbGIwWndWcl9lQ1dVemtHZV9LUVR1UnlzQXBYMjIyUTZ0RUNvdjJkaWUxZWVIVWo5QXpsUGhoWG44SU1KOThFSkhFRHJnUUhJS2Q1V0k3OTFzSHNYYXVPRk9QUlkxaGxoMWtzbG1XOXE1bmxFb3ZUSzY0cldLalhPcGlSa3czZmc4N1B4SjR2RUttalhzUk54d3Mxd05LRjFyMTdJcG5KMEFuYXdsckIzOFFqVlp4QkxzY2NiR3RMTzNwbmY4RTc0a09LVEFPUFozMXBuNUs4UlhIdGtzdGVKZks3eTlKYTlpUjdmLTVYemVNeXBsU3BLczNwOGx5Q3JDdnNuZDFveVR0Qk9VTnZKWjFsUUlXSnJXLW5tRjdudUFOOEtvejYtSEE?oc=5",
-     "source": "عالم التقنية",
-     "time": "2026-11-15T16:08:18.000Z",
-     "seen": "2026-11-16T04:04:46.139Z"
     }
    ]
   }
