@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-16T16:47:17.716Z",
+ "updated": "2026-11-16T16:57:17.975Z",
  "minute": [
-  "باع البنك المركزي المصري أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%.",
-  "تبحث وزارة الإسكان المصرية مع شركة أكوا باور السعودية التوسع في مشروعات تحلية مياه البحر، وتستهدف الإسكندرية للحاويات تحديث معداتها.",
-  "أكد رئيس لجنة القوى العاملة بالنواب أنه لا يجوز حرمان العاملين من العلاج بسبب مديونيات شركاتهم، وأعلنت التضامن وجود 36 ألف جمعية أهلية.",
-  "وتستعد الصين لقمة مرتقبة تضم ترامب وبوتين وشي، بينما تناولت تقارير استخدام تقنيات أمازون للتعرف على الوجوه."
+  "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
+  "أعلنت وزارة التربية والتعليم إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية، وسعيها لإنهاء الفترة المسائية بالمرحلة الابتدائية بحلول 2027/2028.",
+  "تراجع سعر الدولار مقابل الجنيه المصري في ختام تعاملات اليوم في البنوك وسط أنباء عن استقراره.",
+  "تراجع الحكومة دراسة القيمة العادلة لأسهم شركة مصر لتأمينات الحياة لاستكمال طرح حصة منها بالبورصة."
  ],
  "ai": {
-  "at": "2026-11-16T15:07:17.983Z",
+  "at": "2026-11-16T16:57:17.975Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T16:47:17.716Z"
+  "key": 2,
+  "impacts": 6
  },
  "markets": [
   {
@@ -28,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5824,
-   "change": -0.25,
-   "asOf": "2026-11-16T16:38:19.000Z",
+   "value": 5827,
+   "change": -0.21,
+   "asOf": "2026-11-16T16:48:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6649,
-   "change": -0.25,
-   "asOf": "2026-11-16T16:38:19.000Z",
+   "value": 6653,
+   "change": -0.21,
+   "asOf": "2026-11-16T16:48:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3860,
-   "change": -0.67,
-   "asOf": "2026-11-16T16:38:19.000Z",
+   "value": 3862,
+   "change": -0.62,
+   "asOf": "2026-11-16T16:48:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +62,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1012,
-   "change": -0.35,
-   "asOf": "2026-11-16T16:47:46.000Z",
+   "value": 1.1008,
+   "change": -0.38,
+   "asOf": "2026-11-16T16:57:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.44,
-   "change": -2.5,
-   "asOf": "2026-11-16T16:38:06.000Z",
+   "value": 93.67,
+   "change": -2.26,
+   "asOf": "2026-11-16T16:47:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7473,
-   "change": -1.17,
-   "asOf": "2026-11-16T16:48:21.000Z",
+   "value": 7476,
+   "change": -1.14,
+   "asOf": "2026-11-16T16:58:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64641,
-   "change": -1.02,
-   "asOf": "2026-11-16T16:48:19.000Z",
+   "value": 64821,
+   "change": -0.74,
+   "asOf": "2026-11-16T16:58:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,45 +138,49 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أوهموا المواطنين بالثراء السريع.. سقوط عصابة الأثار المزيفة",
-     "url": "https://www.elbalad.news/7183193",
-     "source": "صدى البلد",
-     "time": "2026-11-16T16:46:39.000Z",
-     "seen": "2026-11-16T16:47:17.716Z"
+     "title": "التعليم: إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية عبر قناة مدرستنا 2",
+     "url": "https://www.youm7.com/story/2026/11/16/التعليم-إتاحة-نماذج-استرشادية-لامتحانات-الشهادة-الإعدادية-عبر-قناة-مدرستنا/7621227",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T16:55:00.000Z",
+     "seen": "2026-11-16T16:57:17.975Z",
+     "impact": "يهِم الطلاب وأولياء الأمور في مصر لمتابعة النماذج الاسترشادية الرسمية والتحضير لامتحانات الشهادة الإعدادية."
     },
     {
-     "title": "داليا مصطفى تنفي في أول تعليق لها تحرير محضر ضد طليقها شريف سلامة| خاص",
-     "url": "https://www.elbalad.news/7183189",
+     "title": "الأمن يداهم مصنع لإنتاج وتعبئة طفايات الحريق المغشوشة بالجيزة",
+     "url": "https://www.elbalad.news/7183208",
      "source": "صدى البلد",
-     "time": "2026-11-16T16:46:37.000Z",
-     "seen": "2026-11-16T16:47:17.716Z"
+     "time": "2026-11-16T16:54:02.000Z",
+     "seen": "2026-11-16T16:57:17.975Z",
+     "impact": "يهِم المواطنين وأصحاب المنشآت في مصر للتأكد من جودة أدوات السلامة وتجنب المنتجات المغشوشة."
     },
     {
-     "title": "انتبه.. محمد صبحي يوجه رسالة للجمهور عن 3 أشياء لاتعود بعد ضياعها",
-     "url": "https://www.elbalad.news/7183188",
+     "title": "ضبط 22 مخالفة خلال حملة لمياه البحيرة بقرى أبيس 3 بكفر الدوار",
+     "url": "https://www.elbalad.news/7183210",
      "source": "صدى البلد",
-     "time": "2026-11-16T16:46:19.000Z",
-     "seen": "2026-11-16T16:47:17.716Z"
+     "time": "2026-11-16T16:53:40.000Z",
+     "seen": "2026-11-16T16:57:17.975Z"
+    },
+    {
+     "title": "رئيس الوزراء يلتقي وزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية",
+     "url": "https://www.elbalad.news/7183147",
+     "source": "صدى البلد",
+     "time": "2026-11-16T16:53:25.000Z",
+     "seen": "2026-11-16T16:57:17.975Z",
+     "impact": "يهِم المستثمرين في مصر لمتابعة مستجدات الفرص الاستثمارية والشراكات الاقتصادية بين مصر والهند."
+    },
+    {
+     "title": "التعليم: نستهدف إنهاء الفترة المسائية بالمرحلة الابتدائية خلال 2027 / 2028",
+     "url": "https://www.youm7.com/story/2026/11/16/التعليم-نستهدف-إنهاء-الفترة-المسائية-بالمرحلة-الابتدائية-خلال-2027-2028/7621223",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T16:53:00.000Z",
+     "seen": "2026-11-16T16:57:17.975Z",
+     "impact": "يهِم أولياء الأمور في مصر لمعرفة التوجهات المستقبلية لتنظيم المواعيد الدراسية في المرحلة الابتدائية."
     },
     {
      "title": "هيئة الدواء تبحث مع «سلامة الغذاء» الإجراءات الرقابية وضمان سلامة المنتجات",
      "url": "https://www.youm7.com/story/2026/11/16/هيئة-الدواء-تبحث-مع-«سلامة-الغذاء»-الإجراءات-الرقابية-وضمان-سلامة/7621204",
      "source": "اليوم السابع",
      "time": "2026-11-16T16:34:00.000Z",
-     "seen": "2026-11-16T16:37:17.910Z"
-    },
-    {
-     "title": "مراجعة دراسة القيمة العادلة لأسهم شركة مصر لتأمينات الحياة قبل طرحها بالبورصة",
-     "url": "https://www.youm7.com/story/2026/11/16/مراجعة-دراسة-القيمة-العادلة-لأسهم-شركة-مصر-لتأمينات-الحياة-قبل/7621196",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T16:31:00.000Z",
-     "seen": "2026-11-16T16:37:17.910Z"
-    },
-    {
-     "title": "وزير الاستثمار: نستهدف تدفقات تراكمية للاستثمار الأجنبي 78 مليار دولار",
-     "url": "https://www.youm7.com/story/2026/11/16/وزير-الاستثمار-نستهدف-تدفقات-تراكمية-للاستثمار-الأجنبي-78-مليار-دولار/7621194",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T16:28:00.000Z",
      "seen": "2026-11-16T16:37:17.910Z"
     },
     {
@@ -245,18 +247,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "جهاز ذكي لتخفيف التوتر والقلق.. كيف يعيد \"لايونز هارت\" تهدئة الجهاز العصبي؟",
+     "url": "https://www.bbc.com/arabic/watch/cqy4j70pl998o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T16:55:33.000Z",
+     "seen": "2026-11-16T16:57:17.975Z"
+    },
+    {
      "title": "الحكومة تراجع دراسة القيمة العادلة لأسهم «مصر لتأمينات الحياة» لاستكمال طرح حصة بالبورصة",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UTd1ZTJqSTFwcHRzUE1wME95SkVEbmoxRjlFUDFZNG92OFZpcTRkWjBnYkFTYTZXTjNzc0p1dm9PZk5jeVl2RGIwUjJCS2pZSXB1TUY0V29jd3JKMU4w?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-16T16:38:00.000Z",
-     "seen": "2026-11-16T16:47:17.716Z"
+     "seen": "2026-11-16T16:47:17.716Z",
+     "impact": "يهِم المستثمرين والمتعاملين في البورصة المصرية لمتابعة تسعير الخطوات القادمة في الطروحات الحكومية."
     },
     {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الاثنين 16 نوفمبر 2026 ختام التعاملات.. تراجع في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdmp5MDJ0Z2F6aUJ2U0xBU0lpSEVSS0w5MTNxVXFTN1ZfU2xrdEJxNGJzbjE3aTlnd1lEMGl6d2RoVWdsZUxKNEZEU1VTTHlYSDhBeWZmWDRBS1M5UnY0?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-16T16:30:00.000Z",
-     "seen": "2026-11-16T16:37:17.910Z"
+     "seen": "2026-11-16T16:37:17.910Z",
+     "impact": "يهِم الأفراد والمستثمرين في مصر للتعرف على أسعار صرف الدولار وأثرها على تعاملاتهم المالية اليومية."
     },
     {
      "title": "استقرار سعر الدولار الأمريكي أمام الجنيه في ختام تعاملات اليوم 16 نوفمبر",
@@ -309,13 +320,6 @@
      "seen": "2026-11-16T16:07:17.512Z"
     },
     {
-     "title": "الذهب و\"الدهابة\" والعرجاني: كيف تسعى مصر لتنظيم التنقيب الأهلي عن الذهب؟",
-     "url": "https://www.bbc.com/arabic/articles/cmx2r6qzrxx6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T15:15:08.000Z",
-     "seen": "2026-11-16T15:17:17.681Z"
-    },
-    {
      "title": "البنك المركزي يبيع أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2ZrRDdTbGdMaFRqdGtDMzNlTWhhNFJOMTVuNUoxRFJMbzdDQV9PdGJPZDlKTHpOb09jcVFZRm12ek11bFNHbWpKbDd5Wk95UHpPN1JfNXU2X3dmWkM5Nk9nSHJMSmF5OGNZbDR4cTY4ay1raThtUVNsM0pGVml6a0pWOU0zZUc1VjRsXzF4Vnk1UGtyLXlsaGxlNG9oaFRNVGNoc1JKdw?oc=5",
      "source": "بوابة الشروق",
@@ -354,6 +358,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "السعودية تغير قيادة التحالف والحوثيون يزحفون نحو عدن.. سيناريوهات المرحلة المقبلة؟",
+     "url": "https://www.dw.com/ar/السعودية-تغير-قيادة-التحالف-والحوثيون-يزحفون-نحو-عدن-سيناريوهات-المرحلة-المقبلة؟/a-79962040?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-16T16:53:00.000Z",
+     "seen": "2026-11-16T16:57:17.975Z"
+    },
+    {
      "title": "جيرار دوبارديو يسحب استئنافه في قضية اعتداءات جنسية ويقدم \"اعتذاره\"",
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261116-%D8%AC%D9%8A%D8%B1%D8%A7%D8%B1-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%D9%88-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B3%D8%AD%D8%A8-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D9%82%D8%B6%D9%8A%D8%A9-%D9%82%D8%B6%D8%A7%D8%A1-%D8%B9%D9%86%D9%81-%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%AC%D9%86%D8%B3%D9%8A-%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1",
      "source": "فرانس 24",
@@ -380,6 +391,13 @@
      "source": "فرانس 24",
      "time": "2026-11-16T15:23:09.000Z",
      "seen": "2026-11-16T15:57:17.360Z"
+    },
+    {
+     "title": "الذهب و\"الدهابة\" والعرجاني: كيف تسعى مصر لتنظيم التنقيب الأهلي عن الذهب؟",
+     "url": "https://www.bbc.com/arabic/articles/cmx2r6qzrxx6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T15:15:08.000Z",
+     "seen": "2026-11-16T15:17:17.681Z"
     },
     {
      "title": "ترامب وشي وبوتين على طاولة واحدة في أول قمة ثلاثية بالصين",
@@ -436,20 +454,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-16T13:43:25.000Z",
      "seen": "2026-11-16T13:46:23.345Z"
-    },
-    {
-     "title": "آيزنكوت: نتانياهو لا يمكن أن يبقى «دقيقة إضافية واحدة» في الحكم",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOWXJJRFM1NHFtcjNSWEtkUDRQeE1nTmx4ZGFsWm5FR1ZhVktJR0hXMDdzOGNyLVNySnlSVGhDX19OcGg4MU40MFFHQTAyUnRHSVpLckJPZGMwcFlmbklLeHUyOHNGSFlMa2lKV3Rjdm9uSURJcXBjTnlwZjZWeGRseWxjVWVrRVVNQV8ydHpTZi10ajdZb0h6UnB0MGRlQmxRUjZsZHF0Z0R1MlllNlhCaWlYd2s2ZFpzS1ExYnFTY01HUGt1Q2dCbWlhOU5XZEhXVmlNRjVxXy14UXlNRlNNZmlXUy1GWUU2cWNFZ1B3N0cxbGpyNlcwbjd2Zjd4WXFITlcxckg4Z3pvcUZZNzh4bXpfQVdZYUw2V3BxN2hYZWxsamlmSjRNczVVX05FQXFPM1AxSEl3ajJyRW9YOXNCOHcwUEZBUDFhVVFZa2RRQmZEOE5xeWJiOFVuNDF4ZW5FNW9EWHdzNklQUjZ4OTAtN2pzaWd6TG1MZjFzMnEzWnNGYjJWUWZCRGt4U2djbDhPVTNaSFR6V1RLaEI4eUphTEFiTzJYTDdpbXBvMlgxb0JvOUoxNURQVlBIazVqV19OX2JLQ0w2a050cWZXZVNhejgtN3NKcUNjdU51ZV9RMmVudHQxbnNmaW9WeEdzRnNiUkVUZTFlcnFBQTdYZUlEMUJaRUluV01wTk1rQjNUc0E4amd1VE5PYzhmTVBEQzJxcXcwamRLVFE2SDFQRW1aWThzaFdqU1Y2?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-16T13:39:30.000Z",
-     "seen": "2026-11-16T14:16:23.237Z"
-    },
-    {
-     "title": "الرئاسة اليمنية: إعادة تموضع القوات في باب المندب «خطوة عسكرية مدروسة»",
-     "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNdWM5Mnl6WGE5aU9idUpDcDFBVGJabHNadjdxMDJ2VmQ3Tnl2Mk9abzU3MjVvMXZXME9WUnBHTG1kc19PcVhjeU5nQnpsOGpxeXN2dW15Qk13bVhWdnZvRHVySmtZRzFqdkk2bHRyNmRHMHRRMWdkcW9ySzZDcW1BTkVLakQ5ZVg2M2JweU1nanF6M1JIX2kwVUtzMzV4Q3ZUWTFLRkpKNDhCbFVkSmUtQW9sWkZ3RDdLYlFZV1Uzd211dm02YjZ4bUlfTDFUSUFIWGUxODhYRUllTXJKZlhkazE4M2ZmenJvbHJkY1kzSXQ5bW9SRGZTeGxxeUJTcGw1SXdxWkFndWRBQTZJRU1ncC1yVzNhMTczUUlGekdxdDVxcDVQQ29KWlBMQ0w4TTRmb05LaDFlQ3UtSjV0eHBmMzhvdGhITFJURmtTMV9sTjhOU2ZSR3hLNHFVSGFQVTMyRzNUZmw1bjcyWGxtTm5yaTFuaDZjYWJBNzZkWmtBMllHVVFqa3dyWko4cmdoS1BKazF6dUxoaDlIZHgwc3VPVm00dGctRjJ1REFuQk5HRU9ZMm5HYm1JT3ZfaDkwUXYxeF9XeTRIRTFORVFubEFWblJpN3hNZk8xLXp2Yml6dW5VdzhoSnhzN3JKejBkZ19RUEVhRTU5RzlzT0xfMWNsOWJ4UjEzQXkyNUFLLTUwUnlPSnM2aVQ5azNsNm5RaHl1Mk02bW9vLWRhR2dYczRIOXdvTks3cUpMQUNLMHdNX3ZMOVVJS1Fib3BUTDBmak5zQnc4MjdqeVNqdzdHRVJ3SXR3NzBGRkNNWnNxRVg5YklmNWR0MER5NA?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-16T13:37:24.000Z",
-     "seen": "2026-11-16T16:37:17.910Z"
     }
    ]
   },
