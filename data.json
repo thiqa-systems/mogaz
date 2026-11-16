@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:04:45.881Z",
+ "updated": "2026-11-16T05:14:46.105Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T05:04:45.881Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T05:14:46.105Z"
  },
  "markets": [
   {
@@ -21,7 +21,7 @@
    "unit": "ج.م",
    "value": 53.74,
    "change": 0.63,
-   "asOf": "2026-11-16T04:51:10.000Z",
+   "asOf": "2026-11-16T05:06:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -29,8 +29,8 @@
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 5851,
-   "change": 0.23,
-   "asOf": "2026-11-16T04:55:47.000Z",
+   "change": 0.21,
+   "asOf": "2026-11-16T05:05:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,8 +38,8 @@
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 6680,
-   "change": 0.23,
-   "asOf": "2026-11-16T04:55:47.000Z",
+   "change": 0.21,
+   "asOf": "2026-11-16T05:05:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,8 +47,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3870,
-   "change": -0.39,
-   "asOf": "2026-11-16T04:55:47.000Z",
+   "change": -0.41,
+   "asOf": "2026-11-16T05:05:02.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1023,
-   "change": -0.25,
-   "asOf": "2026-11-16T05:05:46.000Z",
+   "value": 1.1024,
+   "change": -0.24,
+   "asOf": "2026-11-16T05:14:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.27,
-   "change": -0.57,
-   "asOf": "2026-11-16T04:40:07.000Z",
+   "value": 95.31,
+   "change": -0.55,
+   "asOf": "2026-11-16T05:04:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64637,
-   "change": 0.79,
-   "asOf": "2026-11-16T05:05:45.000Z",
+   "value": 64576,
+   "change": 0.7,
+   "asOf": "2026-11-16T05:15:01.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "عقوبات الغياب في رمضان .. تحذير عاجل لطلاب المدارس",
+     "url": "https://www.elbalad.news/7182321",
+     "source": "صدى البلد",
+     "time": "2026-11-16T05:10:45.000Z",
+     "seen": "2026-11-16T05:14:46.105Z"
+    },
+    {
      "title": "هيئة بريطانية: 4 مسلحين يهددون ناقلة نفط قبالة سواحل اليمن",
      "url": "https://www.elbalad.news/7182320",
      "source": "صدى البلد",
@@ -163,13 +170,6 @@
     {
      "title": "رسالة مهمة من عموتة للاعبي الأهلي قبل مواجهة بيراميدز",
      "url": "https://www.elbalad.news/7182305",
-     "source": "صدى البلد",
-     "time": "2026-11-16T05:00:00.000Z",
-     "seen": "2026-11-16T05:04:45.881Z"
-    },
-    {
-     "title": "دبلوماسي سابق: مصر الضمان الرئيسي للحفاظ على القضية الفلسطينية.. والشعب الفلسطيني لن يترك أرضه",
-     "url": "https://www.elbalad.news/7182182",
      "source": "صدى البلد",
      "time": "2026-11-16T05:00:00.000Z",
      "seen": "2026-11-16T05:04:45.881Z"
@@ -516,6 +516,13 @@
      "seen": "2026-11-15T20:13:42.426Z"
     },
     {
+     "title": "بيتكوين تتعافى لتقترب من 65 ألف دولار وسط نزوح مليارات الدولارات من صناديقها",
+     "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNm10WEczZkt2LU4wdGZHZThpOFNhZVV4d2FEQnUtZWY2SEVSQmhJS3k5dXdVcTRmeGdvNzJvYWNtSGhyak1Dd3RKSXljVDdIX1E4a0x0WmdNTzZNUWZpUmNyVXNvREtNSDVHLTJwbXpBQlhEeE00RTIwT1otbW1CRGg5VDJPNExzYThOZFRYLVRpR252b09qWlhzOUFSY1U4YWl3VS1oalpLakpxUXNwSlBvUVM2dE9WRjNxUW5rN0FRb1BQRlVxa056OEFrY0p5T0lSOVdWekpnNXFjQk1QR1pNTV9mSGQydnF2OWllaGd4eUJDNHJ3LXlDa2YzT3V6czJyR0NLRkY0Yk1kTEhHLVZYNktacEpzekdReWxNNWVPdkF5d0VMV0ZJNGh0R2JFYnZ1NmlQdUtNeDgzaktMZG5XTkhJemh6Z2lQWlR3?oc=5",
+     "source": "الجزيرة نت",
+     "time": "2026-11-15T20:22:58.000Z",
+     "seen": "2026-11-16T05:14:46.105Z"
+    },
+    {
      "title": "ميغا سبييد: المشتبه بها بالتجسس للصين والتي ارتبط اسمها بالرئيس السابق لإنفيديا غادرت منصبها في 2025",
      "url": "https://www.bbc.com/arabic/articles/ck5y1xwvq2jeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -558,13 +565,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T15:58:00.000Z",
      "seen": "2026-11-15T17:33:42.307Z"
-    },
-    {
-     "title": "ميتا تتيح لمساعدها Muse إجراء مكالمات هاتفية نيابة عن المستخدمين",
-     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNQUpidlNlMHFyUms2TzAyVU5mRXdTZDlvSTE3STZ5emNSVTdGOXlmN3Q4eUI0cEpjUjNaX2NJcDRNMmlUTFliLWxKeFRWTUN2SV9oY1p1dVlnVHpZWUJXUWg3ZmJ5Y0ZwQmR6S2lFTlF5WXBtWm4xZEwwaGJKRlY2WDE1UWhGS0xHRlBWRmlxaGRheThXTEhDSE1UM3UtR1g2bWVyeTRaZjFhU0RYTS1DRUM3V2E1SDZUUDZSWEFXOWNwdjhMVU1vWEl3dGYzd0ltamdSbGdDNHdYdDFycFpoeGxncDh6UDhINHZxeUd5ZGt4RnhMbTl2R1dCeTB3bFNmVGdQalNqdjI4VFFlWHJhNnE1T0VfV3h2ZEMtQmVRczlhakZobE5DeFdpaW1FR081bkI2MUJER1pQX1N1SlotWWRKOTlsZjdSN3JBRW9GOFIxeG51RzdqYTNiVUJLNFNIY1BKd2FxM1dUbEdQaUx0SGlVZW43VThTUUd4eXZBNUNpYlpiWXNrejZKZkFKVlRtZ0dCVVdPTlVhQU5vR1J3N2Fza2pRTTZCYnFlNzB4T2tDc1o3d3RzSU1TLXB3MjM3dUdMRG5KRnFEM2tTRHJjMVFZT1J2R1RjTS1TdWMxbw?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-15T15:47:55.000Z",
-     "seen": "2026-11-16T03:54:46.032Z"
     }
    ]
   }
