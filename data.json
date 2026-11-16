@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:06:21.750Z",
+ "updated": "2026-11-16T12:16:22.375Z",
  "minute": [
   "تدرس وزارة الصناعة المصرية خطط التوسع مع شركات هندية بالتوازي مع متابعة مؤشرات تدفق الأموال ومستقبل سعر صرف الجنيه.",
   "تتجه القطاعات التعليمية في مصر لإعلان مقترح لزيادة دخل أعضاء هيئة التدريس وتقديم برامج دراسات عليا للمعلمين برسوم مخفضة.",
@@ -9,70 +9,72 @@
   "at": "2026-11-16T11:56:22.213Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T12:16:22.375Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.61,
-   "change": 0.38,
-   "asOf": "2026-11-16T12:05:23.000Z",
+   "value": 53.64,
+   "change": 0.44,
+   "asOf": "2026-11-16T12:16:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5850,
-   "change": 0.19,
-   "asOf": "2026-11-16T11:56:18.000Z",
+   "value": 5845,
+   "change": 0.11,
+   "asOf": "2026-11-16T12:07:48.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6679,
-   "change": 0.19,
-   "asOf": "2026-11-16T11:56:18.000Z",
+   "value": 6673,
+   "change": 0.11,
+   "asOf": "2026-11-16T12:07:48.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3879,
-   "change": -0.19,
-   "asOf": "2026-11-16T11:56:18.000Z",
+   "value": 3873,
+   "change": -0.33,
+   "asOf": "2026-11-16T12:07:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51919,
-   "change": -0.51,
-   "asOf": "2026-11-16T11:51:22.000Z",
+   "value": 51972,
+   "change": -0.41,
+   "asOf": "2026-11-16T12:02:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1012,
-   "change": -0.35,
-   "asOf": "2026-11-16T12:05:45.000Z",
+   "value": 1.1016,
+   "change": -0.31,
+   "asOf": "2026-11-16T12:17:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 94.83,
-   "change": -1.05,
-   "asOf": "2026-11-16T11:56:20.000Z",
+   "value": 95.06,
+   "change": -0.81,
+   "asOf": "2026-11-16T12:07:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64212,
-   "change": -1.67,
-   "asOf": "2026-11-16T12:06:22.000Z",
+   "value": 63941,
+   "change": -2.09,
+   "asOf": "2026-11-16T12:17:44.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استدرجاه بحجة توصيلهما فأنهيا حياته.. القصة الكاملة لمقتل سائق تاكسي ببورسعيد وإلقاء جثـ ـمانه في ترعة بالدقهلية",
-     "url": "https://www.elbalad.news/7182729",
+     "title": "حبس مذيع بقناة فضائية 4 إيام في اتهامه بإنهاء حياة طفليه بالطالبية",
+     "url": "https://www.elbalad.news/7182746",
      "source": "صدى البلد",
-     "time": "2026-11-16T12:04:21.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "time": "2026-11-16T12:12:41.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
-     "title": "فحص 6.6 مليون طالب.. وزيرا الصحة والتعليم يعلنان نتائج مبادرة «عيون أطفالنا مستقبلنا»",
-     "url": "https://www.elbalad.news/7182733",
+     "title": "شوبير يكشف حقيقة مفاوضات الأهلي مع طارق علاء وموقف محمد هاني",
+     "url": "https://www.elbalad.news/7182741",
      "source": "صدى البلد",
-     "time": "2026-11-16T12:03:00.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "time": "2026-11-16T12:11:42.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
-     "title": "مستشفيات جامعة المنوفية تقدم خدمات علاجية متكاملة لطلاب جامعة مدينة السادات الأهلية",
-     "url": "https://www.elbalad.news/7182711",
+     "title": "وزير التعليم: 2.5 مليون طالب يعانون من مشكلات في الإبصار",
+     "url": "https://www.elbalad.news/7182738",
      "source": "صدى البلد",
-     "time": "2026-11-16T12:01:27.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "time": "2026-11-16T12:11:32.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
-     "title": "حماية المستهلك: غرامات تصل لـ500 ألف جنيه لمواجهة مخالفات عدم الإعلان عن الأسعار",
-     "url": "https://www.youm7.com/story/2026/11/16/حماية-المستهلك-غرامات-تصل-لـ500-ألف-جنيه-لمواجهة-مخالفات-عدم/7620726",
+     "title": "وزير التعليم العالى: تطوير 8 جامعات حكومية بتكلفة 80 مليار جنيها",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-التعليم-العالى-تطوير-8-جامعات-حكومية-بتكلفة-80-مليار/7620672",
      "source": "اليوم السابع",
-     "time": "2026-11-16T11:59:00.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "time": "2026-11-16T12:11:00.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
-     "title": "التأمين الصحي الشامل يعلن 7 تيسيرات جديدة بجنوب سيناء.. تسجيل حديثي الولادة",
-     "url": "https://www.youm7.com/story/2026/11/16/التأمين-الصحي-الشامل-يعلن-7-تيسيرات-جديدة-بجنوب-سيناء-تسجيل/7620650",
+     "title": "المالية: مخصصات تنفيذ زيادة دخل أعضاء هيئة التدريس موجودة ولجنة تتابع التنفيذ",
+     "url": "https://www.youm7.com/story/2026/11/16/المالية-مخصصات-تنفيذ-زيادة-دخل-أعضاء-هيئة-التدريس-موجودة-ولجنة/7620670",
      "source": "اليوم السابع",
-     "time": "2026-11-16T11:59:00.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "time": "2026-11-16T12:09:00.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
-     "title": "ستوديو تجميل البنتاجون يكشف نفوذ زوجة هيجسيث في الدفاع الأمريكية.. تفاصيل",
-     "url": "https://www.youm7.com/story/2026/11/16/ستوديو-تجميل-البنتاجون-يكشف-نفوذ-زوجة-هيجسيث-في-الدفاع-الأمريكية/7620645",
+     "title": "وزير المالية: زيادة دخول أعضاء هيئة التدريس بنسب بين 55% و65% خلال 18 شهرا",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-المالية-زيادة-دخول-أعضاء-هيئة-التدريس-بنسب-بين-55/7620671",
      "source": "اليوم السابع",
-     "time": "2026-11-16T11:58:00.000Z",
-     "seen": "2026-11-16T12:06:21.750Z"
+     "time": "2026-11-16T12:07:00.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
      "title": "الميرغني: شيخ الطريقة الذي اعتلى منبر السياسة ونادى بـ\"وحدة السودان أرضاً وشعباً\"",
@@ -193,7 +195,7 @@
      "seen": "2026-11-16T11:26:22.176Z"
     },
     {
-     "title": "«كنت بأدب أولادي».. مدرب كمال أجسام ينهي حياة نجليه بـ«علقة موت» (تفاصيل كاملة)",
+     "title": "«كنت بأدبهم».. مذيع ينهي حياة نجليه بـ«علقة موت» (تفاصيل كاملة)",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oLUV1dXB3emRJaTFXa1RxQjBJaTZKbDRlWkpsQ1QwVm5ick5nUlNPSEVHM1h0Q0c1a1dJdDhmd1lzbVg3bjVOMEN4cHlNY1pPc3hnaWZKUzJMbVpBWDlv?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-16T11:02:00.000Z",
@@ -244,7 +246,7 @@
      "title": "سعر الصرف بالبنوك نهاية تعاملات اليوم الاثنين 16 نوفمبر",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52R1hWdU05WENqQkNrd1FQQk5GUW96RkkxOGR0bW1iRjhKbFFtc3dsV2NPSXY0eGxXSFZJYnlSMXdCbHU0SnY2cTRoMlIyMTZVUlBmTQ?oc=5",
      "source": "الأهرام اوتو",
-     "time": "2026-11-16T11:58:07.000Z",
+     "time": "2026-11-16T12:00:00.000Z",
      "seen": "2026-11-16T12:06:21.750Z"
     },
     {
@@ -253,6 +255,27 @@
      "source": "BBC عربي",
      "time": "2026-11-16T11:32:23.000Z",
      "seen": "2026-11-16T11:36:22.120Z"
+    },
+    {
+     "title": "“كيما” تستخدم 2.59 مليار جنيه من متحصلات زيادة رأس المال",
+     "url": "https://alborsaanews.com/2026/11/16/2006691",
+     "source": "البورصة",
+     "time": "2026-11-16T11:29:07.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
+    },
+    {
+     "title": "عوائد السندات البريطانية لأجل عامين تتجاوز 5%",
+     "url": "https://alborsaanews.com/2026/11/16/2006703",
+     "source": "البورصة",
+     "time": "2026-11-16T11:04:21.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
+    },
+    {
+     "title": "«الإسكان» تستهدف ترفيق 33 ألف قطعة أرض في العبور الجديدة بنهاية 2027",
+     "url": "https://alborsaanews.com/2026/11/16/2006701",
+     "source": "البورصة",
+     "time": "2026-11-16T10:56:42.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
     },
     {
      "title": "بعد تدفق 615 مليون دولار في يوم واحد.. هل تقع مصر في فخ الأموال الساخنة؟",
@@ -270,34 +293,12 @@
      "seen": "2026-11-16T10:46:22.180Z"
     },
     {
-     "title": "“الصناعة” تبحث مع شركات هندية خطط توسعها في مصر",
-     "url": "https://alborsaanews.com/2026/11/16/2006685",
-     "source": "البورصة",
-     "time": "2026-11-16T10:24:47.000Z",
-     "seen": "2026-11-16T11:06:21.962Z",
-     "impact": "يهم المستثمرين في مصر لأنه يعكس اتجاهات الشراكة الاستثمارية والصناعية المرتقبة مع الشركات الهندية."
-    },
-    {
      "title": "بين 48 و60 للدولار... صراع الشرق الأوسط يرسم مستقبل الجنيه المصري",
      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNR1lxdXFrbDRKVzUyQzAyVU5XczlTT0RHX0VVY1Bhek1ZWGtZaEc0aTNJdXpkcE1lRjk3RV9waDFDa3k3NUdWNXM0bHNxMHUtbGJuX3JuaTlkMl9EVGJNN2ZHakpjQkJEeUJwT3JmN1haejAxYWJTajBZdFZUc0FKV1ZMQU04NVJOR3VoLU5aWW12aURxbVdOZDViSDNmTTZrMHA3VEdjY0F1MzdNZnZTVGo1amZvVU9LZkdNUTBKcTc2OEUzT3RsbGh3bjhDMWo0VTdlRlR4N2xydy1UbFFKMGxnTy10OHoxNWVHV0xremprSThCYl8xMFJlY283a1VzOXpwQnVJR0JTTWl3MzdCZlB5c1NkZXpKREV5OHlVOWFXZ19EN29FTmxCMlFDcTR6Nl96eWtKaGlKSzF1RkRMbkU1UjliMWlBSkh6dFV1eTY1OVotd1RtZ0tBYnFSNnFMM2dLdC00dDBZWExjRGI5UHZyT2lsTXdlUUdfVkg5c1lmaVphNEZWa1J6UGFKSjNrRk1NT1pXYnBOeURyanh5bDFCNng0bkx5dmN3SzA2ZkwtbFhPY0ZBd1RWTHF0bkRTYTNleUFQV2Q2bS1ZbjUwS2VfeXhIaFFqazhQaloza2FtanRTemFJV0t5NGpPamxQR0xBSHJpdEZBckFOS19Eb2YzbDhUaEUzZldzQ0dEYmQ1aEhPeTlGRTB1VFNnT1N5THVYakc4bXJKR2ZsZ3duZmZoZlZkNHQ2T01wS2dWdEFjN1A2S1JTTUMwLXV6RUdKOHd6ZGNESnVHNzF0Zy1tY0l2ZklIWk54UXpYMktVdnpGSnJhRFdJMmhHMi0zUDJ2SHpHMUFEaHU2TGpBdlNfeg?oc=5",
      "source": "اندبندنت عربية",
      "time": "2026-11-16T10:23:40.000Z",
      "seen": "2026-11-16T10:36:21.726Z",
      "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة توقعات حركة سعر الجنيه مقابل الدولار في ظل التوترات الإقليمية."
-    },
-    {
-     "title": "تراجع المؤشرات الصينية وسط ضغوط من أسهم التكنولوجيا",
-     "url": "https://alborsaanews.com/2026/11/16/2006678",
-     "source": "البورصة",
-     "time": "2026-11-16T10:22:56.000Z",
-     "seen": "2026-11-16T11:06:21.962Z"
-    },
-    {
-     "title": "أرباح “ام ام جروب” تتجاوز مليار جنيه خلال 9 أشهر",
-     "url": "https://alborsaanews.com/2026/11/16/2006683",
-     "source": "البورصة",
-     "time": "2026-11-16T10:16:58.000Z",
-     "seen": "2026-11-16T11:06:21.962Z"
     },
     {
      "title": "تراجع سعر الدولار مقابل الجنيه خلال منتصف تعاملات اليوم الإثنين",
@@ -352,6 +353,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بعد الأردن.. العراق يحجب تطبيق تلغرام",
+     "url": "https://www.skynewsarabia.com/middle-east/1905093-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AD%D8%AC%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%85",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T12:10:02.000Z",
+     "seen": "2026-11-16T12:16:22.375Z"
+    },
     {
      "title": "أمير قطر يستقبل طحنون بن زايد.. وتركي آل الشيخ يعلّق",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/emir-of-qatar-receives-tahnoun-bin-zayed-turki-al-sheikh-comments",
@@ -443,13 +451,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T09:30:08.000Z",
      "seen": "2026-11-16T09:46:21.497Z"
-    },
-    {
-     "title": "وردة الجزائرية بدلًا من أذان الفجر.. «الإذاعة الأردنية» تكشف واقعة بث أغاني في المساجد",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xb3VWY1NkUmxYaTJTUmpPMnNlVTFIRkY1TkRuT0IwSzVfVllnU2NnQ3RKb0lUcjdyN3daQVFjN2NFWVBvRFFUUEt3THhmc01sOG9ublk1ajNVZndOLWFN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-16T09:29:00.000Z",
-     "seen": "2026-11-16T11:06:21.962Z"
     }
    ]
   },
