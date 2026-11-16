@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:44:45.486Z",
+ "updated": "2026-11-16T04:54:46.236Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T04:44:45.486Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T04:54:46.236Z"
  },
  "markets": [
   {
@@ -21,7 +21,7 @@
    "unit": "ج.م",
    "value": 53.74,
    "change": 0.63,
-   "asOf": "2026-11-16T04:21:50.000Z",
+   "asOf": "2026-11-16T04:51:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -30,7 +30,7 @@
    "unit": "ج.م/جرام",
    "value": 5860,
    "change": 0.37,
-   "asOf": "2026-11-16T04:34:52.000Z",
+   "asOf": "2026-11-16T04:44:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -39,7 +39,7 @@
    "unit": "ج.م/جرام",
    "value": 6691,
    "change": 0.37,
-   "asOf": "2026-11-16T04:34:52.000Z",
+   "asOf": "2026-11-16T04:44:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,8 +47,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3876,
-   "change": -0.25,
-   "asOf": "2026-11-16T04:34:52.000Z",
+   "change": -0.26,
+   "asOf": "2026-11-16T04:44:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.1019,
    "change": -0.28,
-   "asOf": "2026-11-16T04:44:46.000Z",
+   "asOf": "2026-11-16T04:54:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.29,
-   "change": -0.57,
-   "asOf": "2026-11-16T04:28:49.000Z",
+   "value": 95.27,
+   "change": -0.59,
+   "asOf": "2026-11-16T04:40:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64830,
-   "change": 1.09,
-   "asOf": "2026-11-16T04:44:52.000Z",
+   "value": 64793,
+   "change": 1.04,
+   "asOf": "2026-11-16T04:54:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -359,6 +359,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إسرائيل: آيزنكوت يعتبر أن نتانياهو لا يمكنه البقاء \"دقيقة إضافية\" على رأس الحكومة",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261116-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-16T04:43:26.000Z",
+     "seen": "2026-11-16T04:54:46.236Z"
+    },
+    {
+     "title": "إيران تعلن اشتعال ناقلة نفط بلغم بحري شرق مضيق هرمز.. ماذا حدث؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/iran-oil-tanker-struck-by-naval-mine-east-strait-of-hormuz",
+     "source": "CNN بالعربية",
+     "time": "2026-11-16T04:42:33.000Z",
+     "seen": "2026-11-16T04:54:46.236Z"
+    },
+    {
      "title": "تظاهرات حاشدة في التشيك احتجاجا على إصلاح نظام تمويل وسائل الإعلام العامة",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261116-%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%B6%D8%AF-%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
      "source": "فرانس 24",
@@ -417,13 +431,6 @@
      "impact": "يؤثر على المستثمرين من خلال متابعة التوترات الجيوسياسية وانعكاساتها المحتملة على استقرار سلاسل الإمداد وأسواق الطاقة."
     },
     {
-     "title": "المكسيك: وفاة ميغيل أنخيل فيليكس غاياردو أحد مؤسسي كارتل غوادالاخارا",
-     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261116-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%8A%D8%BA%D9%8A%D9%84-%D8%A3%D9%86%D8%AE%D9%8A%D9%84-%D9%81%D9%8A%D9%84%D9%8A%D9%83%D8%B3-%D8%BA%D8%A7%D9%8A%D8%A7%D8%B1%D8%AF%D9%88-%D9%83%D8%A7%D8%B1%D8%AA%D9%84-%D8%BA%D9%88%D8%A7%D8%AF%D8%A7%D9%84%D8%A7%D8%AE%D8%A7%D8%B1%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-16T00:01:27.000Z",
-     "seen": "2026-11-16T00:34:30.215Z"
-    },
-    {
      "title": "أمريكا تدعو مواطنيها في البحرين إلى توخي الحذر وسط هجمات محتملة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/the-us-embassy-in-bahrain-on-sunday-urged-americans-to-exercise-heightened",
      "source": "CNN بالعربية",
@@ -451,14 +458,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-15T22:02:22.000Z",
      "seen": "2026-11-15T22:24:29.761Z"
-    },
-    {
-     "title": "جماعة أنصار الله تستهدف محطتي ضخ في خط شرق-غرب للنفط في الرياض، واعتراض مسيرات فوق مكة والمدينة",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTT3lxbWlVdTJfU3lZU3F0M1JPQjNCeDI1WmVhVndvTU40S3VGZmdHa0xFQlgycjk5QWtEZzNISnYxbGFxcE9WRzhnM1I5Q3FLclI4XzJ4dU5rVVpxY3fSAWNBVV95cUxQNTNnbnV5aWVnbEZLU0tzNUNqSHVpcTI3UG53Y0RNOEtZVE1mQ0gxUXlvZHVpUk1MczdmVjJ4V25UWks0TVRBVi1rQ2JKNTVsTlJJenRlQmJEMDVkSUdZa1ZfdHM?oc=5",
-     "source": "BBC",
-     "time": "2026-11-15T21:50:01.000Z",
-     "seen": "2026-11-15T17:23:42.843Z",
-     "impact": "تؤثر التوترات واستهداف خطوط النفط في المنطقة على أسعار الطاقة العالمية والمحلية وتكاليف الشحن."
     }
    ]
   },
