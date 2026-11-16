@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:17:17.681Z",
+ "updated": "2026-11-16T15:27:17.571Z",
  "minute": [
   "باع البنك المركزي المصري أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%.",
   "تبحث وزارة الإسكان المصرية مع شركة أكوا باور السعودية التوسع في مشروعات تحلية مياه البحر، وتستهدف الإسكندرية للحاويات تحديث معداتها.",
@@ -10,7 +10,9 @@
   "at": "2026-11-16T15:07:17.983Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T15:27:17.571Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5858,
-   "change": 0.32,
-   "asOf": "2026-11-16T15:07:18.000Z",
+   "value": 5849,
+   "change": 0.18,
+   "asOf": "2026-11-16T15:19:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6688,
-   "change": 0.32,
-   "asOf": "2026-11-16T15:07:18.000Z",
+   "value": 6678,
+   "change": 0.18,
+   "asOf": "2026-11-16T15:19:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3883,
-   "change": -0.1,
-   "asOf": "2026-11-16T15:07:18.000Z",
+   "value": 3877,
+   "change": -0.24,
+   "asOf": "2026-11-16T15:19:19.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1018,
-   "change": -0.29,
-   "asOf": "2026-11-16T15:16:44.000Z",
+   "value": 1.1011,
+   "change": -0.35,
+   "asOf": "2026-11-16T15:28:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.31,
-   "change": -2.64,
-   "asOf": "2026-11-16T15:07:18.000Z",
+   "value": 93.16,
+   "change": -2.8,
+   "asOf": "2026-11-16T15:19:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7465,
-   "change": -1.28,
-   "asOf": "2026-11-16T15:17:19.000Z",
+   "value": 7460,
+   "change": -1.35,
+   "asOf": "2026-11-16T15:29:24.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64172,
-   "change": -1.74,
-   "asOf": "2026-11-16T15:17:16.000Z",
+   "value": 64225,
+   "change": -1.65,
+   "asOf": "2026-11-16T15:29:19.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,47 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سعر سجائر دافيدوف يقفز 7 جنيهات دفعة واحدة.. اعرف وصلت لكام بعد الزيادة",
-     "url": "https://www.elbalad.news/7183047",
+     "title": "لدواعٍٍ أمنية.. الأردن والعراق يحجبان «تيليجرام» وسط مخاوف من التطرف ونشاط الميليشيات",
+     "url": "https://www.elbalad.news/7183063",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:16:12.000Z",
-     "seen": "2026-11-16T15:17:17.681Z"
+     "time": "2026-11-16T15:26:45.000Z",
+     "seen": "2026-11-16T15:27:17.571Z"
     },
     {
-     "title": "ميام الدمياطي تحصد ثلاث ميداليات لجامعة الإسماعيلية الأهلية في التجديف",
-     "url": "https://www.elbalad.news/7183045",
+     "title": "لإطلالة شتوية كاجوال.. رامي صبري يخطف الأنظار من أمام برج ايفل في باريس",
+     "url": "https://www.elbalad.news/7183055",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:15:41.000Z",
-     "seen": "2026-11-16T15:17:17.681Z"
+     "time": "2026-11-16T15:26:15.000Z",
+     "seen": "2026-11-16T15:27:17.571Z"
     },
     {
-     "title": "إصدار قرارات غلق لـ3 منشآت وإنذار 11 أخرى في حملة للعلاج الحر بالإسماعيلية",
-     "url": "https://www.elbalad.news/7183040",
+     "title": "وزارة النقل تنفي شائعات أوزان العربات الروسية الجديدة.. وتؤكد: آمنة تمامًا",
+     "url": "https://www.youm7.com/story/2026/11/16/وزارة-النقل-تنفي-شائعات-أوزان-العربات-الروسية-الجديدة-وتؤكد-آمنة/7621093",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T15:26:00.000Z",
+     "seen": "2026-11-16T15:27:17.571Z"
+    },
+    {
+     "title": "منتخب السنغال يفوز على السودان برباعية مثيرة في تصفيات أمم أفريقيا",
+     "url": "https://www.elbalad.news/7183054",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:14:01.000Z",
-     "seen": "2026-11-16T15:17:17.681Z"
+     "time": "2026-11-16T15:25:14.000Z",
+     "seen": "2026-11-16T15:27:17.571Z"
     },
     {
-     "title": "سفارة العراق في القاهرة تحتفي بيوم بغداد وتستحضر تاريخها وإرثها الحضاري",
-     "url": "https://www.youm7.com/story/2026/11/16/سفارة-العراق-في-القاهرة-تحتفي-بيوم-بغداد-وتستحضر-تاريخها-وإرثها/7621083",
+     "title": "وزير التعليم يبحث مع «يونيسف» ووفد من وزارة التعليم الصينية تعزيز التعاون",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-التعليم-يبحث-مع-«يونيسف»-ووفد-من-وزارة-التعليم-الصينية/7621084",
      "source": "اليوم السابع",
-     "time": "2026-11-16T15:01:00.000Z",
-     "seen": "2026-11-16T15:07:17.983Z"
+     "time": "2026-11-16T15:23:00.000Z",
+     "seen": "2026-11-16T15:27:17.571Z"
     },
     {
-     "title": "وزارة التضامن: لدينا 36 ألف جمعية أهلية لدعم ومساندة المجتمعات المحلية",
-     "url": "https://www.youm7.com/story/2026/11/16/وزارة-التضامن-لدينا-36-ألف-جمعية-أهلية-لدعم-ومساندة-المجتمعات/7621053",
+     "title": "ترامب: ندرس تصنيف الإخوان و\"كير\" تنظيمين إرهابيين",
+     "url": "https://www.youm7.com/story/2026/11/16/ترامب-ندرس-تصنيف-الإخوان-و-كير-تنظيمين-إرهابيين/7621064",
      "source": "اليوم السابع",
-     "time": "2026-11-16T15:01:00.000Z",
-     "seen": "2026-11-16T15:07:17.983Z",
-     "impact": "يهِمّ المهتمين بالعمل الأهلي لمتابعة انتشار الجمعيات الأهلية ودورها في دعم المجتمعات المحلية."
-    },
-    {
-     "title": "شبورة كثيفة تصل للضباب وانخفاض الرؤية الأفقية والصغري بالقاهرة 16درجة غدًا",
-     "url": "https://www.youm7.com/story/2026/11/16/شبورة-كثيفة-تصل-للضباب-وانخفاض-الرؤية-الأفقية-والصغري-بالقاهرة-16درجة/7620841",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T15:00:00.000Z",
-     "seen": "2026-11-16T15:07:17.983Z"
+     "time": "2026-11-16T15:17:00.000Z",
+     "seen": "2026-11-16T15:27:17.571Z"
     },
     {
      "title": "«مدبولي» يلتقي وزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين",
@@ -401,7 +402,7 @@
      "seen": "2026-11-16T14:36:22.497Z"
     },
     {
-     "title": "الحوثيون يسيطرون على منطقة رئيسية على ساحل البحر الأحمر بعد انسحاب القوات اليمنية",
+     "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QWkRRNzlxZ1hkbWU5akdvSU51NWpReEduWXNPVnlKZ2dkYWlDZ1k1NEFvdnJRakRMdGF3bEtBTzVCblhLTnJBcWNfQ19uMklHejJ5UDIxbjdSZEk1SVHSAWNBVV95cUxPWEhTbXg3VmhmanJVdTFSWWE1SnJCRFhsSFQ5UkJ6ZUpVM1BpcU1DTTJHcC10X19qam1aTjd5Q0FSSFVETjYzcGRVdTRzbEIwYTFNVHNIVHpEYjdaNXNFc3FicHc?oc=5",
      "source": "BBC",
      "time": "2026-11-16T14:24:11.000Z",
@@ -462,6 +463,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "\"مدينة المعجزات\" الصينية.. لم يزرها أي رئيس أميركي قبل ترامب",
+     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQQmVwb0k1SU1VOTByZ1YtRENIbjVwalhlMnBHRWVsdEVrV3ZDSXVTNDhsb2EtU0xwakZyTnFULWJrUTVIYk5kSThMUUlfUGQ0c21MeVhwZjJsOEZYdmstajA0aTQ5Mm1hUEZPUkp4R3Jyb25TX2RZenRzUEpSQ0h2a3ZEalJzeldRUkdNZHdiTjQ5Z3RRbVFGejd1dU1qRjMyRHVLLXl2anRqS1YtMGtsNDVpUi1PMTc2UTdobmtNd0Z0OWpKNDE1TFQ2VUx4NEFkcTlKekZ0X3JWdWRfN09CdXNRWWwteEVrV08wemJBWl9VU1psbnVYbGtIRDZDOTZLbGRTQ3Axel9OM0E3MS1YbUp6VzdLcmdOaGJud3BHSldfVTl3UGlHTVhSUGppdTdvSDJJbnNlcUY4VlZRSDFPQ3RsZmhRZllrQjVRUTF5cDlxVHp5M3JpTDFYcGdYLWFJaDZDcm40Ny1JZWExeWdVUW5VbFcwYmhCR0x6ZHNoYTBIanF6cHlYaEpRWllNY3c4Sl9HOFR0cXRLSzYyWUM3UDh6M2dtZFAxajJCMUJUZVN5UGh3Q0x2YlFPRmtJWUZfQkp3QjNHVDQ3SnptRXltNnVZaUswUk9BOVpvOC02LURwVXY5cHN3Q2wzRFh5VHPSAfQDQVVfeXFMTzQ3OS1xWWk2VEUtZGk0Rlp0NDhONnJ4bjJ4cDlNN0UwZVg5VHBtbFg2cnNKZm9NUkNRRUhuNGNma21McTZaTEpISHZ3U1M4NkhFLXhWNTFaMFAzRUpFMk9OekhuZ1NjVUpnUVdmb0VvVnZycmpfWF9zSlFHUjdaUE1TNC1fOEZWZEFfVTRaeXpIRWpJVGJUMGpjazhmSU9zeDN3Vk5ZR0JWZEdMclFhMG4zS1M1MFBuQ2tEdHFrUUV6ZnZNNm52OFhta3lfdWZtTTVEelVremsydXJtLXVzSVphYlR4SjZBaWNHNWZvZ05SeGduejlaZ0N5R3JEcmxON0hpd3QtQWVHSjU1N3VEYk90SmJyZDFxcDhDMk9CTnhsR3B4bXZOeFJYdG5NOGJ0N0ticjVkQVlnUjhRY1NweWpMejRsb3hVYVpXNVZaeHBQaWdOSzJPZk5oemtGeE83WmFGOHdHRnR6WGMzTjVTTmZZcm1fOTQtclFNS05HY2ZlbURIWkxhdEZJVF9yMXJWSHlDQ29MaFV6RGh3QXNJTTBmNnh1X2pISUJtUVFpZFY0bWVmMi1oVWFhcEk5SE1Ecm1naGduLVZYcmRfS1g1czI0YXEwY1JvU29zMVdFMDZCTTdOQ0t0WmZfY3VRS0ZBSlJ6N3I?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T14:51:39.000Z",
+     "seen": "2026-11-16T14:57:17.830Z"
+    },
     {
      "title": "ملايين الصور لفلسطينيين.. هل استخدمت إسرائيل أمازون لرصدهم؟",
      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPanByUTZuWm1TaWpZb1Bxay1uOTNVbHh6RDRrYkVRLXAtcXVac195dTV1S2ZCdE9abEt1V09qa25LcXBXOXQ3M3p3TUM1MlRQdlBZWERCLU9NWlF1YVNGa2RYblJkX2JHY1BGYTY0RHZEWXdzRHUwbUIyQWpwUnRWT0RrREdtdUxINUdiVzRQRGtVMWFWcU5vVWFhM01TWVFvWnhseE4yMnZkbVF0ZHhxcjZxM19yMTN5WmZPcEU1QlI0X0VwelFYS3hWQ0xITV9GT2F0a2RHaVlVMjV0WFNCWmhMVFZaUWhkdGM2cFV4Qk40M0hDUF9MaUE0ZmtDbmVrZVBXZi1uTXVsMEE5Xzc1SjRVMmhaeXhMbGVkdzliTFBVMEJEekVINDZFN3pVMkYtYkRZUXdWQmJtWkV6aG0yX0l4MDhWZzNPWFFnOWppS3VxdE9OcHNGWGZpT3JQY2w1VTZLTzM5WW9GQUNTOVJiQzVhUjMtbUtHR0s1WTBfYXExVzZTYUppSWlLbzUxX2tHZHVFa1owQ2lqTVQya3Z3bnE1V2twajktb0NVRjktX0RBU1plRE5NYjM4cTFnd0Q2U2d5bmlDMGVKNUFNcFRDTVFoWW5XWFhhN051UEFDY9IB5ANBVV95cUxQQVZLOXp0MENkZFRORHZkbE5KdVlRZVVVNjhrZEpkb2JFRm1aZEc4TXZHbkRlbmdHcHV6aFowaTE2ZklCWXl3UFNZUmk3MWdHeVdQZzhCSTRlNkFxSVJWbHhWaHRULVl3QlRFUTV0NTROSWU2LTdrNUdCclhSR1NMOTUtOGJGR2xzZkpxZF9LaXg0LTBmTGpfUkx3eXRXandlSXAwN3JFMklIZ0RGdVItLUFyX3Q3ZVhrQm44M3hkZXg4d2ptbm1fcHVLQ3dTdWVSNEZnUmtJLWRRNnhYT3lhWnBITy1aT05WbkNwRnNRNG0zSXRGa0g3V1RrdzF2R1EyMEdtMkhxRzFFMDA2OVdqeENGRkQxUTFLMzNUR3FOeUdwSUc4T2wxQ0VNaFd3SnJFS0ZKeGxsRjhRa0JHdk9sNzgxdUpiWFpRZHlRT0x0YzdBNFV3dlZSUElDZjFERDJ3djBKcFY3R3RkOFRzdkxVTGY3ejdkS0NUMHlFMmMtc1F3bXhYN1ZoVTF0TjRsZDgwWWlNR2N3WmtvR2I5TUQzcGY5SjhkZVZwY2w1RDZPS2VHQlBWVmU2TVVvSVVLUmhVeEpsT2JtTjBRX3N6dkhZdUxFOUl2NlpNa1Z6M0hFSjVQcUFn?oc=5",
@@ -530,13 +538,6 @@
      "impact": "يتطلب توجه الشركات لاستخدام الذكاء الاصطناعي إعادة تقييم التكاليف التشغيلية واستراتيجيات التوظيف في قطاعات الأعمال."
     },
     {
-     "title": "\"مدينة المعجزات\" الصينية.. لم يزرها أي رئيس أميركي قبل ترامب",
-     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQQmVwb0k1SU1VOTByZ1YtRENIbjVwalhlMnBHRWVsdEVrV3ZDSXVTNDhsb2EtU0xwakZyTnFULWJrUTVIYk5kSThMUUlfUGQ0c21MeVhwZjJsOEZYdmstajA0aTQ5Mm1hUEZPUkp4R3Jyb25TX2RZenRzUEpSQ0h2a3ZEalJzeldRUkdNZHdiTjQ5Z3RRbVFGejd1dU1qRjMyRHVLLXl2anRqS1YtMGtsNDVpUi1PMTc2UTdobmtNd0Z0OWpKNDE1TFQ2VUx4NEFkcTlKekZ0X3JWdWRfN09CdXNRWWwteEVrV08wemJBWl9VU1psbnVYbGtIRDZDOTZLbGRTQ3Axel9OM0E3MS1YbUp6VzdLcmdOaGJud3BHSldfVTl3UGlHTVhSUGppdTdvSDJJbnNlcUY4VlZRSDFPQ3RsZmhRZllrQjVRUTF5cDlxVHp5M3JpTDFYcGdYLWFJaDZDcm40Ny1JZWExeWdVUW5VbFcwYmhCR0x6ZHNoYTBIanF6cHlYaEpRWllNY3c4Sl9HOFR0cXRLSzYyWUM3UDh6M2dtZFAxajJCMUJUZVN5UGh3Q0x2YlFPRmtJWUZfQkp3QjNHVDQ3SnptRXltNnVZaUswUk9BOVpvOC02LURwVXY5cHN3Q2wzRFh5VHPSAfQDQVVfeXFMTzQ3OS1xWWk2VEUtZGk0Rlp0NDhONnJ4bjJ4cDlNN0UwZVg5VHBtbFg2cnNKZm9NUkNRRUhuNGNma21McTZaTEpISHZ3U1M4NkhFLXhWNTFaMFAzRUpFMk9OekhuZ1NjVUpnUVdmb0VvVnZycmpfWF9zSlFHUjdaUE1TNC1fOEZWZEFfVTRaeXpIRWpJVGJUMGpjazhmSU9zeDN3Vk5ZR0JWZEdMclFhMG4zS1M1MFBuQ2tEdHFrUUV6ZnZNNm52OFhta3lfdWZtTTVEelVremsydXJtLXVzSVphYlR4SjZBaWNHNWZvZ05SeGduejlaZ0N5R3JEcmxON0hpd3QtQWVHSjU1N3VEYk90SmJyZDFxcDhDMk9CTnhsR3B4bXZOeFJYdG5NOGJ0N0ticjVkQVlnUjhRY1NweWpMejRsb3hVYVpXNVZaeHBQaWdOSzJPZk5oemtGeE83WmFGOHdHRnR6WGMzTjVTTmZZcm1fOTQtclFNS05HY2ZlbURIWkxhdEZJVF9yMXJWSHlDQ29MaFV6RGh3QXNJTTBmNnh1X2pISUJtUVFpZFY0bWVmMi1oVWFhcEk5SE1Ecm1naGduLVZYcmRfS1g1czI0YXEwY1JvU29zMVdFMDZCTTdOQ0t0WmZfY3VRS0ZBSlJ6N3I?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T09:58:00.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
-    },
-    {
      "title": "فرنسا تؤكد حيازتها أدلة على هجمات إيران.. وبقائي ينفي",
      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNQ3RWOE9LM2ljTUlQYlZYdDhPT0ZjTm1taHp1RGZiTllqclVaTXl0UXVlcTNZUjRjWnA4R1BHUWM3VDFYRkRRUjZUMm43NHdrblA2WmJIdFcyOTY5ZDNmcC03S2RiMWVObUNRN0hlQ3FUMWp6U1J2TVRZOEt2VS1vMzZuRGRDb2xvc3MycmF0SmRMcnl0STlNMXh4YzlNdDdUYmNFQmo3T081MU1sT2pEYzRWdXpQMld3VlZIclE0M2lmZU1qaVJHeXRaWUp0VlJaV25tSmxiOHZld2dSVUNlSXF6dDZfZFZMVlZrV3Zzc0ZQSjZnLWVvdkthN09GTUZqREV5dURjN1lMTnJ0UjA5a2dEaVA2YWZPTnlScXpOcDVjVm1nT3B0TWcyNGtVLTFkeHpXQzY0Q240REtJdWhQZmlkVkNfckdOUHpFM21XRzFXdkY2b1FQcnZuTEx0cy1ld3pXS2FuOWtIaFlNenBPcGZWT19kdnExQ2dLb0xkcGlSbjNrNUFzR2JlUWowRUNuUW9LSGxHMFJvc0VjUU1SbWRLdzhZZmxpRW9SQk80NXBNRENtRS1OTGZIZ0JFWDY2QUdVLXluSmxuN2ZOU0J5eDliNUNpV3ZBU3lZN1VsMU9GeGFtSUd2bnlMazZvblk0bVhtalJmQmRJVVdiZGpZdmFLNXFiSzMxbDd5ZzNfcjg2SkVBT3fSAZsEQVVfeXFMTW00YUtlR19TWE0xQkhNMHpGVE9melpUU2ExM3g3TWRJVGlyc2pqRU9SX2FsdnFRU3FTMDh4a1hFckZtbmlteVNQX3Rrd2w0d3A3cmUtcUtRTl9Hcy11aEZ6YVp4czd0UXFqb29hWTM0alB2TmhnbWlvRm9ReWFGeFlOYURiMEVkZHZ3aWNIOEN2OUhwTGotb0FKWWJLc3ZFQ2lJM2VUTnhKSHVrcVFTRUx0WlNJc3V6TGRXRU9pNHBlZFVHYlhyUFdVR1NJS21MbWMtYWFDQVkxdTJFR0tmV3FwcXZQc2hLSjhtVW5iS3hTQ2l2SWk4TzlZWFhpdEtxcXdDc2l5OVlJZW0wRFlVVzJmYjY0M0xPdklhTjZhVi1JOUgyaF9Gd2JkaUZlNHFNaTROMWgxcW5fM1JlcXZYTThEQk5OMzUzY0g4QmY0Wmhya2ZIVF9WSVVyNU9kbERXQkVxOTBmQWRZQ3AwYnpORzBQSDIyUWhPbl9QcDFXMVFxcF81ZDJzZjBXd0JQZFRlWjl0UHZaQnlKNEVoQ081N0dfaXdyQUdxWENCS0VoS3BkMWZweGtxTmpaYmVwOHlxWHM0VFlXeElXeGJtMm5qcFJWbnYzQWg1Y001SVZFWGpTYzk1RTg3dk9VSEdZOUM1d2ZNczdHOEhlM0puZ0lmQ196M05NYzg0bkpYWTA0djBheG51Z1h0bDhCMm8?oc=5",
      "source": "العربية",
@@ -570,6 +571,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
