@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:34:45.687Z",
+ "updated": "2026-11-16T04:44:45.486Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T04:34:45.687Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T04:44:45.486Z"
  },
  "markets": [
   {
@@ -28,18 +28,18 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5859,
-   "change": 0.35,
-   "asOf": "2026-11-16T04:24:43.000Z",
+   "value": 5860,
+   "change": 0.37,
+   "asOf": "2026-11-16T04:34:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6689,
-   "change": 0.35,
-   "asOf": "2026-11-16T04:24:43.000Z",
+   "value": 6691,
+   "change": 0.37,
+   "asOf": "2026-11-16T04:34:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,8 +47,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3876,
-   "change": -0.28,
-   "asOf": "2026-11-16T04:24:43.000Z",
+   "change": -0.25,
+   "asOf": "2026-11-16T04:34:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.1019,
    "change": -0.28,
-   "asOf": "2026-11-16T04:34:46.000Z",
+   "asOf": "2026-11-16T04:44:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.39,
-   "change": -0.47,
-   "asOf": "2026-11-16T04:16:22.000Z",
+   "value": 95.29,
+   "change": -0.57,
+   "asOf": "2026-11-16T04:28:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64874,
-   "change": 1.16,
-   "asOf": "2026-11-16T04:34:45.000Z",
+   "value": 64830,
+   "change": 1.09,
+   "asOf": "2026-11-16T04:44:52.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "وفاة مؤذن مسجد عقب انتهائه من ترديد الشهادتين أثناء أذان صلاة العصر",
+     "url": "https://www.elbalad.news/7182317",
+     "source": "صدى البلد",
+     "time": "2026-11-16T04:35:01.000Z",
+     "seen": "2026-11-16T04:44:45.486Z"
+    },
+    {
+     "title": "84% من القراء يؤيدون ضبط تجار العملة عبر مواقع التواصل لحماية الاقتصاد الوطنى",
+     "url": "https://www.youm7.com/story/2026/11/16/84-من-القراء-يؤيدون-ضبط-تجار-العملة-عبر-مواقع-التواصل/7619923",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T04:34:00.000Z",
+     "seen": "2026-11-16T04:44:45.486Z"
+    },
+    {
      "title": "عروس على كرسي متحرك تخطف القلوب بنظراتها لعريسها.. ومواقع التواصل تتفاعل مع قصة حبهما",
      "url": "https://www.elbalad.news/7182315",
      "source": "صدى البلد",
@@ -151,13 +165,6 @@
      "url": "https://www.elbalad.news/7182316",
      "source": "صدى البلد",
      "time": "2026-11-16T04:32:45.000Z",
-     "seen": "2026-11-16T04:34:45.687Z"
-    },
-    {
-     "title": "مفاجأة بشأن إمام عاشور قبل مواجهة الأهلي وبيراميدز",
-     "url": "https://www.elbalad.news/7182303",
-     "source": "صدى البلد",
-     "time": "2026-11-16T04:30:00.000Z",
      "seen": "2026-11-16T04:34:45.687Z"
     },
     {
@@ -175,11 +182,11 @@
      "seen": "2026-11-16T04:04:46.139Z"
     },
     {
-     "title": "مرصد الأزهر يطلق النسخة الخامسة من منتدى «اسمع وتكلم» اليوم",
-     "url": "https://www.youm7.com/story/2026/11/16/مرصد-الأزهر-يطلق-النسخة-الخامسة-من-منتدى-«اسمع-وتكلم»-اليوم/7619326",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T04:00:00.000Z",
-     "seen": "2026-11-16T04:04:46.139Z"
+     "title": "منح مالية ورواتب بالدولار.. 6 دول تفتح أبوابها للمصريين للهجرة والإقامة رسميًا",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HcVE4SEp2NEhmVExUTGEzU0pzZDRHTDhtVk45RExVeGZQRkNkZGFkcEZnTjVjMWlHck1Hb3RMYnBwWG9GT0d2emJudWhmYlZJN0p0Zm9jTmdjVHFrSDN3?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-16T03:00:00.000Z",
+     "seen": "2026-11-16T04:44:45.486Z"
     },
     {
      "title": "أهمها زيادة المرتبات.. 4 قرارات عاجلة من الحكومة تهم ملايين المواطنين",
@@ -216,13 +223,6 @@
      "time": "2026-11-15T19:10:00.000Z",
      "seen": "2026-11-15T19:23:42.982Z",
      "impact": "يرتبط تطور الحد الأدنى للأجور بالقطاع الخاص بزيادة دخل العاملين وتغير التكاليف التشغيلية لأصحاب الشركات في مصر."
-    },
-    {
-     "title": "الحكومة: 26.5 مليون عامل بالقطاع الخاص يستفيدون من قرار رفع الحد الأدنى للأجور إلى 8500 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJYUs2bVRwLUhBc2R6Wnhid0dqS3E1NlBwSHVUQWNtaVltUTdxMkNsUmF3N1B2eDJiek9NWlNrekdyQjNTMDJWSDhOQW9SOWt5UWlsZHVGT2llbndUNVNB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-15T19:04:00.000Z",
-     "seen": "2026-11-15T19:13:42.475Z"
     },
     {
      "title": "\"القومي للأجور\" يكشف لمصراوي صافي مرتبات القطاع الخاص بعد الزيادة الجديدة",
@@ -384,15 +384,29 @@
      "title": "آيزنكوت بعد كشف حيلة نتنياهو: لا يمكن أن يبقى دقيقة في الحكم",
      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZkNmalp6N0lpQk45SG1zZE1kUjRoUDBiZXJyY1FQMU1PTnp1M2c4bER5TWJqU0theXJOcXVhN0IwcVBWMGxDYWlwcmF1Ul93OFV3NnQ4bkNfRkF5d3YtOXBLQURpTWMtaWlDTUgtYkZQSXpUZkZocXV3elVldm5hY0VnZWtrVmg4Vy1vbjFfaGhZckp2YzI4cG5lSksxb3dmcGlNZ1BzeFlwYzRiNUxGbThYdTB0NjY4X3hWNUgxMWpSdm9DYjJvZjc5Qnl6OExub25yYm9KNVZZb3R2X2kzckd1VG9LR0RRSnlpRGdsUEZ5NmlZamlIMnNVY29BUlB0U255YndqUjU1dTdXbGJ6SzJqdjFwVzl6cUxTTkJXbUNCSTR1VDd4ZndhelFLYVdlWEtqTmprY3BmVEtCMEctMFpDMWR5NXdpUnVpaC05T3E1ZUtTQ3lTRWo5bXlHSVR0LUt1ZEg3azktbDBNQ0oxcnRubTJHeVZFeXRZdm5jaXAyTWxSeWs0LVZ5VFY5enVRZTh0SzhFaTN4QkVUZ1FfVdIBpgNBVV95cUxNNlF1cXNCSjlkYUVjcjJObjhJOFZWOF9zOG0wZDRJcURrdlBfZnVFUkk2U2RjZHRQM2h3eUpyNXRmdTRTTklLdTRSMDhNanRWVDk5RnhuWmlsSkt5VXNNc3VzMG84TWRVMy1FNVE3cE0taFFVZDc3aEN1OVlEQ25GdW51dlQtOVJUb2F2ZF9vRmhOYmtzVDlKMzBWMkJwMl9WUkI5Sm81WDdyanJJT2ZNSXlhbTN0SFRGcjZKOHU5SDlzWEZrMXdzU0ZGSFNhNG51Z05mRVRRV3kzV1lGWkg3cThVYmd6d3Nuc0NVZ2h1dkJNZmloY2ItTTBQS0x6c0F5djRna1h1LXhwd09URUY3Mm8tY0ItclFUOGVxRWpjeU5jZ3pSQ2xTVHU0NkZQV2xoN0lnQzZReno3aElCV0FNbUVSU1dOZ0dpOS1sNGZNTUx0R1hYbzRjM183bUZxWGd3eWNwY2NYNktObnhPcjFGNW1xanhtRnlKSU11enN0LWp4d0YtOXVuNlhYTEd5d1YyU21vOWcyemE1WkpaMFBOdWRZbkZkQQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T01:13:01.000Z",
+     "time": "2026-11-16T01:39:16.000Z",
      "seen": "2026-11-16T02:24:29.590Z"
     },
     {
-     "title": "قمة ثلاثية بين شي وترمب وبوتين.. موعد مؤكد دون اتفاق على جدول الأعمال",
+     "title": "عاجل| غوتيريش: العالم بحاجة إلى السلام في غزة واليمن والسودان والشرق الأوسط وأوكرانيا",
+     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%b9%d8%a7%d8%ac%d9%84-%d8%ba%d9%88%d8%aa%d9%8a%d8%b1%d9%8a%d8%b4-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d8%ad%d8%a7%d8%ac%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-16T01:23:02.000Z",
+     "seen": "2026-11-16T04:44:45.486Z"
+    },
+    {
+     "title": "قمة شي وترمب وبوتين.. موعد مؤكد دون اتفاق على جدول الأعمال",
      "url": "https://www.aljazeera.net/news/2026/11/16/%d8%a8%d9%83%d9%8a%d9%86-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%86%d8%b9%d9%82%d8%a7%d8%af-%d8%a7%d9%84%d9%82%d9%85%d8%a9-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-%d8%a8%d9%8a%d9%86-%d8%b4%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-16T01:05:13.000Z",
      "seen": "2026-11-16T04:14:45.910Z"
+    },
+    {
+     "title": "تقرير: إسرائيل اختطفت جنرالين إيرانيين لكشف مصير طيار مفقود منذ 40 عاماً",
+     "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPdHBlRFJMUDJiRUFfQUQ4a29Jdk9vOERSZEIxVW0tTjYzZ3dTdDJ4dkc2cDFBRVZXWGM3RkFDeW9nY1FPRHExMUtla0ZjYmJVMFlYZFZuNWQ4N0xwVE1oZ2h4TWdtbC02UTNQd2MyR0dWQ2ZtQldfbjM2TGdZUlBvVEJkQjYxejZuYi1UaklKZEFCUGl2b19WR2JEOFg3M1RtaWFFU2RybWZvWk40ZFRNNUdxczJUYnc5RmdWWUhaQzRQRXdQUG5HdjhwTWx3MnEwMnU2TGttaFVJVFJmc21TdDVTVWt1bHBFbzR5NVplMllKeGFyNzZ3MmN3RlFjX0gxMkdqbkJTVWQtd3AyVkxhWmZOTUtDQ3lpR1UwMWxVRUllb1dsUUNkX2VTMTBzS1NsVmx5R3ZUNnB0WTJLUWRHbmVCbDBFb3RiWDE1a2k2Q2hhWm5HTDc4XzljMUJ3U1ZEQnNoZHl0eXQweDdYWHRmYnRlMERQSFhaU0M0bVJVeDZvUE81eTAxYmdGb2NUVy1ub1Q5cDduY0VlcG5FM2YxUWt5V1JiUnJxekRCMUE2N3JERzkydHJQMXNKYVhRSGNpN0lDYVNBTjVGc1l4VHU5TXJUODBfc0VhOVZvMUM2akZwN05GZGpSd01lUnhUcnVaZV85bkl3UEs0OVE1R1d1YlJuSlozak80ZnJNQVNTbjc0TzF6Tms1bFdUT0dmcHhBLUY4TG1IM1pKT29rZTVyRk0tZlJZbGZPTkRnb1dmWlVNNTRHQllaZXEzYU8tMWE5TnhFY2phaDBOMmwzZGJDZk96NVZmMHBiRnJGbHlXYXBmdGdKa3BXajRvZDg?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-16T00:40:51.000Z",
+     "seen": "2026-11-16T04:44:45.486Z"
     },
     {
      "title": "المسيّرات الأوكرانية تغزو أجواء موسكو واجتماع وشيك لحلفاء كييف",
@@ -408,13 +422,6 @@
      "source": "فرانس 24",
      "time": "2026-11-16T00:01:27.000Z",
      "seen": "2026-11-16T00:34:30.215Z"
-    },
-    {
-     "title": "حكم تاريخي مرتقب بشأن الروهينغا قد يرسم حدود المساءلة عن جرائم الإبادة",
-     "url": "https://www.aljazeera.net/politics/2026/11/16/%d8%a7%d9%84%d8%b1%d9%88%d9%87%d9%8a%d9%86%d8%ba%d8%a7-%d9%88%d8%ba%d8%b2%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T23:22:05.000Z",
-     "seen": "2026-11-16T02:54:30.770Z"
     },
     {
      "title": "أمريكا تدعو مواطنيها في البحرين إلى توخي الحذر وسط هجمات محتملة",
@@ -452,13 +459,6 @@
      "time": "2026-11-15T21:50:01.000Z",
      "seen": "2026-11-15T17:23:42.843Z",
      "impact": "تؤثر التوترات واستهداف خطوط النفط في المنطقة على أسعار الطاقة العالمية والمحلية وتكاليف الشحن."
-    },
-    {
-     "title": "ذئب في ثياب حمل\".. ولاية ألمانية توقف حملة ضد \"التغلغل الإسلاموي\"",
-     "url": "https://www.dw.com/ar/ذئب-في-ثياب-حمل-ولاية-ألمانية-توقف-حملة-ضد-التغلغل-الإسلاموي/a-79953481?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-15T20:59:00.000Z",
-     "seen": "2026-11-15T21:03:42.547Z"
     }
    ]
   },
