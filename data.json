@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:14:46.105Z",
+ "updated": "2026-11-16T05:24:45.514Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T05:14:46.105Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T05:24:45.514Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5851,
-   "change": 0.21,
-   "asOf": "2026-11-16T05:05:02.000Z",
+   "value": 5853,
+   "change": 0.24,
+   "asOf": "2026-11-16T05:14:47.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6680,
-   "change": 0.21,
-   "asOf": "2026-11-16T05:05:02.000Z",
+   "value": 6682,
+   "change": 0.24,
+   "asOf": "2026-11-16T05:14:47.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3870,
-   "change": -0.41,
-   "asOf": "2026-11-16T05:05:02.000Z",
+   "value": 3871,
+   "change": -0.39,
+   "asOf": "2026-11-16T05:14:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1024,
-   "change": -0.24,
-   "asOf": "2026-11-16T05:14:46.000Z",
+   "value": 1.1025,
+   "change": -0.23,
+   "asOf": "2026-11-16T05:24:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.31,
-   "change": -0.55,
-   "asOf": "2026-11-16T05:04:11.000Z",
+   "value": 95.36,
+   "change": -0.5,
+   "asOf": "2026-11-16T05:14:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64576,
-   "change": 0.7,
-   "asOf": "2026-11-16T05:15:01.000Z",
+   "value": 64816,
+   "change": 1.07,
+   "asOf": "2026-11-16T05:24:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -401,6 +401,13 @@
      "seen": "2026-11-16T03:24:30.154Z"
     },
     {
+     "title": "كيف رد أهالي ضحايا هجوم الكرك على الحكم بإعدام المنفذين؟",
+     "url": "https://www.aljazeera.net/politics/2026/11/16/%d9%83%d9%8a%d9%81-%d8%b1%d8%af-%d8%a3%d9%87%d8%a7%d9%84%d9%8a-%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7-%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d9%83%d8%b1%d9%83-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%83%d9%85?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-16T01:56:44.000Z",
+     "seen": "2026-11-16T05:24:45.514Z"
+    },
+    {
      "title": "آيزنكوت بعد كشف حيلة نتنياهو: لا يمكن أن يبقى دقيقة في الحكم",
      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZkNmalp6N0lpQk45SG1zZE1kUjRoUDBiZXJyY1FQMU1PTnp1M2c4bER5TWJqU0theXJOcXVhN0IwcVBWMGxDYWlwcmF1Ul93OFV3NnQ4bkNfRkF5d3YtOXBLQURpTWMtaWlDTUgtYkZQSXpUZkZocXV3elVldm5hY0VnZWtrVmg4Vy1vbjFfaGhZckp2YzI4cG5lSksxb3dmcGlNZ1BzeFlwYzRiNUxGbThYdTB0NjY4X3hWNUgxMWpSdm9DYjJvZjc5Qnl6OExub25yYm9KNVZZb3R2X2kzckd1VG9LR0RRSnlpRGdsUEZ5NmlZamlIMnNVY29BUlB0U255YndqUjU1dTdXbGJ6SzJqdjFwVzl6cUxTTkJXbUNCSTR1VDd4ZndhelFLYVdlWEtqTmprY3BmVEtCMEctMFpDMWR5NXdpUnVpaC05T3E1ZUtTQ3lTRWo5bXlHSVR0LUt1ZEg3azktbDBNQ0oxcnRubTJHeVZFeXRZdm5jaXAyTWxSeWs0LVZ5VFY5enVRZTh0SzhFaTN4QkVUZ1FfVdIBpgNBVV95cUxNNlF1cXNCSjlkYUVjcjJObjhJOFZWOF9zOG0wZDRJcURrdlBfZnVFUkk2U2RjZHRQM2h3eUpyNXRmdTRTTklLdTRSMDhNanRWVDk5RnhuWmlsSkt5VXNNc3VzMG84TWRVMy1FNVE3cE0taFFVZDc3aEN1OVlEQ25GdW51dlQtOVJUb2F2ZF9vRmhOYmtzVDlKMzBWMkJwMl9WUkI5Sm81WDdyanJJT2ZNSXlhbTN0SFRGcjZKOHU5SDlzWEZrMXdzU0ZGSFNhNG51Z05mRVRRV3kzV1lGWkg3cThVYmd6d3Nuc0NVZ2h1dkJNZmloY2ItTTBQS0x6c0F5djRna1h1LXhwd09URUY3Mm8tY0ItclFUOGVxRWpjeU5jZ3pSQ2xTVHU0NkZQV2xoN0lnQzZReno3aElCV0FNbUVSU1dOZ0dpOS1sNGZNTUx0R1hYbzRjM183bUZxWGd3eWNwY2NYNktObnhPcjFGNW1xanhtRnlKSU11enN0LWp4d0YtOXVuNlhYTEd5d1YyU21vOWcyemE1WkpaMFBOdWRZbkZkQQ?oc=5",
      "source": "سكاي نيوز عربية",
@@ -427,14 +434,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T00:40:51.000Z",
      "seen": "2026-11-16T04:44:45.486Z"
-    },
-    {
-     "title": "المسيّرات الأوكرانية تغزو أجواء موسكو واجتماع وشيك لحلفاء كييف",
-     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b3%d9%82%d8%b7-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d9%87%d8%a9-%d9%86%d8%ad%d9%88?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-16T00:08:06.000Z",
-     "seen": "2026-11-16T03:24:30.154Z",
-     "impact": "يؤثر على المستثمرين من خلال متابعة التوترات الجيوسياسية وانعكاساتها المحتملة على استقرار سلاسل الإمداد وأسواق الطاقة."
     },
     {
      "title": "أمريكا تدعو مواطنيها في البحرين إلى توخي الحذر وسط هجمات محتملة",
