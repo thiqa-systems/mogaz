@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:47:18.250Z",
+ "updated": "2026-11-16T19:57:17.760Z",
  "minute": [
   "شهدت البنوك المصرية تراجعاً في أسعار صرف الدولار واليورو مقابل الجنيه المصري.",
   "أعلن وزير الزراعة المصري وصول الصادرات الزراعية إلى 11.5 مليار دولار عبر 160 سوقاً عالمياً.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T19:47:18.250Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T19:57:17.760Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5835,
-   "change": -0.06,
-   "asOf": "2026-11-16T19:37:14.000Z",
+   "value": 5830,
+   "change": -0.14,
+   "asOf": "2026-11-16T19:47:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6662,
-   "change": -0.06,
-   "asOf": "2026-11-16T19:37:14.000Z",
+   "value": 6657,
+   "change": -0.14,
+   "asOf": "2026-11-16T19:47:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3868,
-   "change": -0.46,
-   "asOf": "2026-11-16T19:37:14.000Z",
+   "value": 3865,
+   "change": -0.54,
+   "asOf": "2026-11-16T19:47:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.101,
-   "change": -0.36,
-   "asOf": "2026-11-16T19:46:45.000Z",
+   "value": 1.1008,
+   "change": -0.38,
+   "asOf": "2026-11-16T19:56:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.41,
-   "change": -3.58,
-   "asOf": "2026-11-16T19:36:59.000Z",
+   "value": 92.35,
+   "change": -3.64,
+   "asOf": "2026-11-16T19:47:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7401,
-   "change": -2.13,
-   "asOf": "2026-11-16T19:47:21.000Z",
+   "value": 7425,
+   "change": -1.81,
+   "asOf": "2026-11-16T19:57:22.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64707,
-   "change": -0.92,
-   "asOf": "2026-11-16T19:47:21.000Z",
+   "value": 64971,
+   "change": -0.51,
+   "asOf": "2026-11-16T19:57:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,31 +140,31 @@
    "title": "مصر",
    "items": [
     {
+     "title": "بعد غياب طويل.. ظهور شيرين عبد الوهاب في عزاء والدة المايسترو أمير عبد المجيد",
+     "url": "https://www.elbalad.news/7183465",
+     "source": "صدى البلد",
+     "time": "2026-11-16T19:56:42.000Z",
+     "seen": "2026-11-16T19:57:17.760Z"
+    },
+    {
+     "title": "أحمد موسى يتهم الإخوان باستغلال تبرعات فلسطين والفقراء في تمويل أنشطة ومصالح خاصة",
+     "url": "https://www.elbalad.news/7183468",
+     "source": "صدى البلد",
+     "time": "2026-11-16T19:55:22.000Z",
+     "seen": "2026-11-16T19:57:17.760Z"
+    },
+    {
+     "title": "قيادات بحزب المؤتمر تطالب بإجراء انتخابات جديدة لرئاسة الحزب",
+     "url": "https://www.elbalad.news/7183467",
+     "source": "صدى البلد",
+     "time": "2026-11-16T19:54:52.000Z",
+     "seen": "2026-11-16T19:57:17.760Z"
+    },
+    {
      "title": "سفير العراق في القاهرة يبحث مع وزير النقل تعزيز التعاون المشترك",
      "url": "https://www.youm7.com/story/2026/11/16/سفير-العراق-في-القاهرة-يبحث-مع-وزير-النقل-تعزيز-التعاون/7621431",
      "source": "اليوم السابع",
      "time": "2026-11-16T19:45:00.000Z",
-     "seen": "2026-11-16T19:47:18.250Z"
-    },
-    {
-     "title": "رئيس المجلس الأوروبي: مستقبل أوكرانيا ومولدوفا ودول غرب البلقان داخل الاتحاد الأوروبي",
-     "url": "https://www.elbalad.news/7183425",
-     "source": "صدى البلد",
-     "time": "2026-11-16T19:43:21.000Z",
-     "seen": "2026-11-16T19:47:18.250Z"
-    },
-    {
-     "title": "مطالبات بفتح تحقيق جنائي مع نتنياهو ومسؤولين أمنيين بتهمة عرقلة العملية الانتخابية",
-     "url": "https://www.elbalad.news/7183442",
-     "source": "صدى البلد",
-     "time": "2026-11-16T19:42:02.000Z",
-     "seen": "2026-11-16T19:47:18.250Z"
-    },
-    {
-     "title": "هل يجوز مطالبة المدين المماطل بتعويض إذا كان مقتدرا؟.. أمين الإفتاء يوضح",
-     "url": "https://www.elbalad.news/7183441",
-     "source": "صدى البلد",
-     "time": "2026-11-16T19:40:09.000Z",
      "seen": "2026-11-16T19:47:18.250Z"
     },
     {
@@ -513,6 +513,13 @@
      "impact": "يهِمّ الأفراد المهتمين بالتطبيقات التكنولوجية للتعرف على ابتكارات الذكاء الاصطناعي القائمة على الليزر."
     },
     {
+     "title": "وزير الاتصالات يشهد إطلاق خدمات الحوسبة بالمعالجات الرسومية في مصر لدعم تطبيقات الذكاء الاصطناعي",
+     "url": "https://www.cairo24.com/2530549",
+     "source": "القاهرة 24",
+     "time": "2026-11-16T11:21:00.000Z",
+     "seen": "2026-11-16T19:57:17.760Z"
+    },
+    {
      "title": "الحكومة تدرس مكافأة المواطنين على ترشيد الكهرباء.. نقاط وخصومات على الفواتير",
      "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOT3lObmtsSk82eks4cVE1X1BTMnYzREJTRWFOcTNtcUM2VnZ1YmVUcGtZcXpETjZ0c1RIRWN3TzhmaDAtWndnXzdaX2k0ZVA2VmJRakNncHpWcUlOVlIyS0xfclFsOFkzamRCLUZldndZVG5GVEQwLU1pWHlZV0VTVVJHdlU5YmxzRmZ0QnpxOEFNdHlTbGRUT3d0dENfOExHSTRNZEZNS0VmNVEtd1dzY0trR1VTSFFNbGRWRVBibU5DNlBGV2JqN3pLTFY5bnhib213VVFHN0NRUmx4eHFMOUprVkZDSW5uek9scGJGWG9ZaVhMUnpCU0x1b055bTRHQlQ3S0J3VEJ2VmUyVV9mY0FlVGh3MmhYYm1yTG9pamxUZjNJRlFvOV9jbE1aZUVVYVFkMzgzQ3R1OXlsamZMWFl0djRoUWJqX2ZjbE8zN3BINjNFd3g0dHFqVmR1SjRCakF3MUNRcENzTlQ0bDZzMlJOcElQUGc5Q1MwYWNNbHpUTDBZVFpEeFltS2xoWDI4Qm9mQlZ0YWstakYtTnpyMzd6NnRqWmIyck5wNjhzbV9PMl9PT3QzTTVLWFNRdmJiVmx1OUdLY2Z0dTZtc1lVeG44WkZCLUU5Vm12UUJDYVFMNlgwc1ZJbXg3SDJKUGdhOWRXOHpINlpoX0M5dDBXaFV1Z2VnMHdRQ2NNZHJoWTlXU0R6YnV2RTRHbmdXTDRpOTFmaVd4bkVPSS1oc1o2eVNvNjk1cm9LUlp6ZWJrV2xjblQ0Q1pYa1R1VnpLaUlvSnJ4dlJsUXF5RjJfaTFiWTFzcldidTdQZWg0Y3ZaM2dfaDZSLXRPUTdCb3FDRm1xYXZn0gGIBUFVX3lxTE14bVU4NXprNExoelJQWUtzNmstMjJud1dtcUZ1bGMzd2tRZzdxLS1Tb1BUX3lZNFdINjUtUE1GanRxRngxdDdqLTB6eHgteGpLd3JaTUhLbU9Yd19YMzdHazNaYmdTT0RBV2NLZGVkS2E4dHh3RDExMWpOUGZsT05rcThFem5nQ2JwN1FEZ3NuckFtVVlxb0xEUXhsaXRLcU04RE5ITDJlSW5kNTVGVzZMSWZPbFg0TEFBeWFkLTBiM24tTlNUR0gyTnJFcWpUQkRmay0yRnZnaUtUX1ZpUmlFVnl4eGRYOFRJOTZVdDNPYkJHb3l4WTJiV2h6UU8teTJVcjFCem1GSXRoQTRfcE9jWWZTdWlQcVJ3V2dKMDVna1AwTzN6T1RlVGQ1S3ZWMEFUQ2Q0QmpNOWZpT1BLVmQ4V1RWejk1cHUtY2xwTi1naHh6NG9BNmROOUxBcmZVTGlMSVlxY0JwNmdHSEN5UFhaRElLcVZ4ejNmMWZNa01xOHVVOTNzNUxLVDh5X3AxSHZEWUZ0MmRQVHJ2eEZVbzVPeXJUMXpZelQwanRDLVFiODZCbzhvcVlmek5vSFVCak5qQmM1V202OVVRY0dTM3o5LUdkek9ZMkZicHdOLWNsS0QySnhzTktNZE5PMHNFSmR1TS0xUHpyT0lDRXRSYy1SY0FvX3R4ZUV5TXBIN2ZTNTg5aExPVWtnYk5ITEd2WDFRRWI4WWFtNkFKU3JVWFRsN1FLSzZnaDFkZExzemt5RWVDZ2R3em1zOTVVeGJ6S2pzbzgxbU9DenY3Uk55ZmN2d2xKRU1IVmIwYWNPYTdIcjM0elJ6VWUzNVdmZV9waHdVQk9qSmM2cg?oc=5",
      "source": "Masrawy",
@@ -547,18 +554,16 @@
      "source": "Masrawy",
      "time": "2026-11-16T09:44:00.000Z",
      "seen": "2026-11-16T19:27:17.705Z"
-    },
-    {
-     "title": "فرنسا تؤكد حيازتها أدلة على هجمات إيران.. وبقائي ينفي",
-     "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNQ3RWOE9LM2ljTUlQYlZYdDhPT0ZjTm1taHp1RGZiTllqclVaTXl0UXVlcTNZUjRjWnA4R1BHUWM3VDFYRkRRUjZUMm43NHdrblA2WmJIdFcyOTY5ZDNmcC03S2RiMWVObUNRN0hlQ3FUMWp6U1J2TVRZOEt2VS1vMzZuRGRDb2xvc3MycmF0SmRMcnl0STlNMXh4YzlNdDdUYmNFQmo3T081MU1sT2pEYzRWdXpQMld3VlZIclE0M2lmZU1qaVJHeXRaWUp0VlJaV25tSmxiOHZld2dSVUNlSXF6dDZfZFZMVlZrV3Zzc0ZQSjZnLWVvdkthN09GTUZqREV5dURjN1lMTnJ0UjA5a2dEaVA2YWZPTnlScXpOcDVjVm1nT3B0TWcyNGtVLTFkeHpXQzY0Q240REtJdWhQZmlkVkNfckdOUHpFM21XRzFXdkY2b1FQcnZuTEx0cy1ld3pXS2FuOWtIaFlNenBPcGZWT19kdnExQ2dLb0xkcGlSbjNrNUFzR2JlUWowRUNuUW9LSGxHMFJvc0VjUU1SbWRLdzhZZmxpRW9SQk80NXBNRENtRS1OTGZIZ0JFWDY2QUdVLXluSmxuN2ZOU0J5eDliNUNpV3ZBU3lZN1VsMU9GeGFtSUd2bnlMazZvblk0bVhtalJmQmRJVVdiZGpZdmFLNXFiSzMxbDd5ZzNfcjg2SkVBT3c?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T09:28:00.000Z",
-     "seen": "2026-11-16T19:07:17.714Z"
     }
    ]
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
