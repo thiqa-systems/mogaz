@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:17:17.975Z",
+ "updated": "2026-11-16T17:27:17.911Z",
  "minute": [
   "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
   "أعلنت وزارة التربية والتعليم إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية، وسعيها لإنهاء الفترة المسائية بالمرحلة الابتدائية بحلول 2027/2028.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T17:17:17.975Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T17:27:17.911Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5839,
-   "change": 0,
-   "asOf": "2026-11-16T17:08:03.000Z",
+   "value": 5841,
+   "change": 0.04,
+   "asOf": "2026-11-16T17:18:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6666,
-   "change": 0,
-   "asOf": "2026-11-16T17:08:03.000Z",
+   "value": 6669,
+   "change": 0.04,
+   "asOf": "2026-11-16T17:18:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3870,
-   "change": -0.42,
-   "asOf": "2026-11-16T17:08:03.000Z",
+   "value": 3872,
+   "change": -0.38,
+   "asOf": "2026-11-16T17:18:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1014,
-   "change": -0.33,
-   "asOf": "2026-11-16T17:17:47.000Z",
+   "value": 1.1013,
+   "change": -0.34,
+   "asOf": "2026-11-16T17:27:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.34,
-   "change": -2.61,
-   "asOf": "2026-11-16T17:07:21.000Z",
+   "value": 93.3,
+   "change": -2.65,
+   "asOf": "2026-11-16T17:17:30.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7463,
-   "change": -1.31,
-   "asOf": "2026-11-16T17:18:04.000Z",
+   "value": 7455,
+   "change": -1.41,
+   "asOf": "2026-11-16T17:28:22.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65052,
-   "change": -0.39,
-   "asOf": "2026-11-16T17:18:00.000Z",
+   "value": 64975,
+   "change": -0.5,
+   "asOf": "2026-11-16T17:28:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "شكاوى من انتشار حشرة البق بمدرسة بالتجمع ..والأهالي: أولادنا وبيوتنا في خطر",
-     "url": "https://www.elbalad.news/7183235",
+     "title": "قرار من المحكمة بشأن متهم بالتسول في التجمع",
+     "url": "https://www.elbalad.news/7183245",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:15:44.000Z",
-     "seen": "2026-11-16T17:17:17.975Z"
+     "time": "2026-11-16T17:26:22.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
     },
     {
-     "title": "أبطال «المراعي الصيفية» يحتفلون بفيلمهم في مهرجان القاهرة السينمائي",
-     "url": "https://www.elbalad.news/7183233",
+     "title": "هنا الزاهد تخطف الأنظار في أحدث إطلالاتها.. شاهد",
+     "url": "https://www.elbalad.news/7183244",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:13:24.000Z",
-     "seen": "2026-11-16T17:17:17.975Z"
+     "time": "2026-11-16T17:25:13.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
     },
     {
-     "title": "رئيس الوزراء يشهد افتتاح المؤتمر الدولي للمنظمة العالمية للملكية الفكرية",
-     "url": "https://www.elbalad.news/7183232",
+     "title": "خسارة كبيرة بالآلاف .. الجنيه الذهب نزل من 51 ألف جنيه إلى 47 ألف جنيه في أيام",
+     "url": "https://www.elbalad.news/7183241",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:12:32.000Z",
-     "seen": "2026-11-16T17:17:17.975Z"
+     "time": "2026-11-16T17:22:30.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
+    },
+    {
+     "title": "مصطفى مدبولى: نؤكد التزامنا بمواصلة تطوير منظومة الملكية الفكرية",
+     "url": "https://www.youm7.com/story/2026/11/16/مصطفى-مدبولى-نؤكد-التزامنا-بمواصلة-تطوير-منظومة-الملكية-الفكرية/7621274",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T17:22:00.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
+    },
+    {
+     "title": "مسئول تركي: يجمعنا مع مصر تاريخ مشترك وإرث ثقافي يمتد لقرون",
+     "url": "https://www.youm7.com/story/2026/11/16/مسئول-تركي-يجمعنا-مع-مصر-تاريخ-مشترك-وإرث-ثقافي-يمتد/7621275",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T17:22:00.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
+    },
+    {
+     "title": "مدبولي: الذكاء الاصطناعي يفتح آفاقًا واسعة أمام الإبداع.. لكنه يثير أسئلة قانونية واقتصادية وأخلاقية",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW9Ea3ZJLVNxbUxmbFdSS3lTR1dIWWw5cFRERDlDNjRwR3pCSEV4OUNaZWN6TlJfTlVhMGxNOGJRaWpRVnFvNEVCTWpIMFBYZW5FM1VKR0pFZ240MEFid0hPQmNnUmJEbjFMTWVDS0dQbGluSllLWWMyZXltUkJIcEk1cGpFY3RZYWpMaDY5UU43S0JlZmlNSXVKUEpoTkVSeHNmU2Mzdw?oc=5",
+     "source": "بوابة الشروق",
+     "time": "2026-11-16T17:19:16.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
     },
     {
      "title": "نقيب التمريض تنفي تمييز أخصائي التمريض المكثف في التكليف",
@@ -182,13 +203,6 @@
      "seen": "2026-11-16T17:07:18.050Z"
     },
     {
-     "title": "أحمد نبوي يشارك في تنصيب رئيس العلماء والمفتي العام للبوسنة والهرسك",
-     "url": "https://www.youm7.com/story/2026/11/16/أحمد-نبوي-يشارك-في-تنصيب-رئيس-العلماء-والمفتي-العام-للبوسنة/7621098",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T17:00:00.000Z",
-     "seen": "2026-11-16T17:07:18.050Z"
-    },
-    {
      "title": "مدبولي: مصر أطلقت استراتيجية وطنية للملكية الفكرية وتحرص علي تطويرها",
      "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQdElkT3lFaXB3M041cGVjS3B0M20wUERJX28tVmtYZVFrZC1WRXdoV001OWVDQkdRaEJhOHpfY2k5cmMxcExDUUJ5cG42ZlZJN2tYOU5LOTIxNi1nQS1JRnZ0TzRzcGZ6R1d3b2paZFF2RHFqN2N6ZS04N3IwU1E1MHAtd25BTGRDYXVTa2tTaC02SG5wOURGZUlRUjY1M0lWUG44bElGSlhDVnhSYnVhVmZTMDZ0Nktqd0Rwd2w0allrUnNwSXFiTEtjS0FIazV0eW5RbTZBUm90V2pCaXBsSXptUHRxdnExb042THFiZHI0TUw5OGFvUFNMckNwT3hENGEyVDRkTmt5djlUQUxjX3Voc0ZmNnRFdmZhSXVKek9DdzNYM3lLSlhick5jRHBoWWplZTRFaE9pa2NwMGpqZ3daeHhoSXN2VUlxaHdldEpjYXJUQWRPZ2hIeURWa092dlVBV0hlaUVnZi1JVVNzbkhTZHF6SGRuNllxeTUwbVhYZm9aRFBMa1lGTjB2R1hRblNZUjczSjVadmktUWJfOXp3b2JjZ3BYbmFVdlI0dkNOUWNnWFJSV1pnOXJ4dHYycmJJMDlMQzYxTUNUQnMyRHpiS0xHS25POElsQ0UzMDR4YzhydHVieXFELWhwdXdDN0Iycy1tQTllUFp6bklldGNxWGtObEFqZl9kakVYaW5ZSDg0S3ZVRHg5MmE0OTRYODRXdzlXV2pIZS1QcHRHOC1JSFlzeG5h?oc=5",
      "source": "الهيئة الوطنية للإعلام",
@@ -203,12 +217,11 @@
      "seen": "2026-11-16T17:07:18.050Z"
     },
     {
-     "title": "التعليم: إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية عبر قناة مدرستنا 2",
-     "url": "https://www.youm7.com/story/2026/11/16/التعليم-إتاحة-نماذج-استرشادية-لامتحانات-الشهادة-الإعدادية-عبر-قناة-مدرستنا/7621227",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T16:55:00.000Z",
-     "seen": "2026-11-16T16:57:17.975Z",
-     "impact": "يهِم الطلاب وأولياء الأمور في مصر لمتابعة النماذج الاسترشادية الرسمية والتحضير لامتحانات الشهادة الإعدادية."
+     "title": "رئيس الوزراء يشهد افتتاح المؤتمر الدولي للمنظمة العالمية للملكية الفكرية",
+     "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxNUGM5Mm5KY01HdFdMNy12ZUtjUFUteS1peXBLLVhBdHRnUFRBOEtJVFZ4WUtNaVdDdUFUUmNpSWpISHUtYW51M1AtNlVjRXdmaFJEM3JnUTMySURBTU43S2RVZ1VmSk1VaWFEQnBXZldxLWItbVV5QlBOTFpPMi1IbDFPbF9QMGFORzA2YkNPbkF0bWhObmhKanJOTU9ScW5UdVRHaE1TNDZjbXAwbTQ3MGxQYlVSc2R6UVFNSjF4SUdZSU1jVWJQbEUxV0VPazFHYk9oSmdhbXlPQnUtNGhFcElSWU1xNmpOTDBIWmM4SlZWMlBpM2FTdUhZbjdRM1lYb2VLYWdsMGFwOGk5bDhPTndNZzN2TkhYTnNiQnZMcjIxM0VEdEYyMzZqNEp3dnBaZGd2UFFpa2dMSWlrTUpxcW9icUtMVnkyb190cUR1S0M2Z0lvOG41azVHZHVBMDBobEUyQUFuUmNyR2lDeUpSbFYyZU00a2dtWktuVkhGaktrVjViSmdzdk1FM19IbzdVU2ZtV2lyUFlnY3d5dHhtLXNkcTdLYzljOWZoMDBmTlhyTnFYMlFOLVFUaEI2OU4wdHVqNEdOcHhzMkVWUEt1Wm42UEFvSVRnai15N1d4YXJNTWZuRjhWWkY5ZzV1TnNPd1lycjhSOHp2TjZzaUt2LWJHOEtubWZVTW5ad1lsUnkyM3VkU0R3MFdha3ZqbldWZm1UeVVBRXVXY3RRSHNyY2p2YkJBeVRmVllaSW56YWZ0NmdWNVVTSWdqYXJVdnZlNjlYdUtxRV9fQW9BUE1MeA?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-16T16:27:00.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
     },
     {
      "title": "مباشر.رئيس الوزراء يشهد افتتاح المؤتمر الدولي للمنظمة العالمية للملكية الفكرية",
@@ -222,20 +235,6 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zay1NYlpuWTZlZWtET2ZxY3JqSlVCamtpY2dndkl3dE5Xb2FFV29fQjFBOWlmd0hKNTAxSHhhSzFER25YSjlj?oc=5",
      "source": "فيتو",
      "time": "2026-11-16T16:17:00.000Z",
-     "seen": "2026-11-16T16:27:18.026Z"
-    },
-    {
-     "title": "78 مليار دولار حتى 2030، الحكومة تستهدف تدفقات استثمارية أجنبية، ومدبولي يوجه بمتابعة التنفيذ كل 3 أشهر",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNTTJOalR3WkhrQ1g5eHExY2VmZFBqOGkxbFljODN4a0FXMVoySDJYYUlFM2JIRkNGaWFleUdteTBlcTQ4ZDBj?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-16T16:07:00.000Z",
-     "seen": "2026-11-16T16:17:17.824Z"
-    },
-    {
-     "title": "الحكومة تستهدف جذب 78 مليار دولار استثمارات أجنبية.. ومدبولي يحدد مهلة تنفيذية حتى 2030",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBENTdmdlBOOF9GekJNOHhKSEswc1lrcEtyYnJpT0VoUkpaaTNKdXhJdTRENnJ5NUJDZlZYSmxaOEJObzVldlhkcGhEVzFLWHJfNlNjcGFNQ0k5eV9K?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-16T16:04:00.000Z",
      "seen": "2026-11-16T16:27:18.026Z"
     }
    ]
@@ -353,6 +352,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "خمس دول أوروبية تكشف عن مشروع لإنشاء \"مراكز عودة\" في رواندا لترحيل المهاجرين غير النظاميين",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261116-%D8%AE%D9%85%D8%B3-%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%B9%D9%88%D8%AF%D8%A9-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D8%BA%D9%8A%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D8%B1%D9%88%D8%A7%D9%86%D8%AF%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-16T17:25:51.000Z",
+     "seen": "2026-11-16T17:27:17.911Z"
+    },
+    {
      "title": "قاليباف: لن يعود الهدوء إلى المنطقة دون إنهاء الحرب في لبنان",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/iran-is-giving-attention-to-the-lebanon-file-in-negotiations-to-end-the-war",
      "source": "CNN بالعربية",
@@ -393,13 +399,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-16T15:27:22.000Z",
      "seen": "2026-11-16T15:37:17.805Z"
-    },
-    {
-     "title": "الزيدي يأمر القوات المسلحة العراقية بدخول معقل كتائب حزب الله في جرف الصخر",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A3%D9%85%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D8%B9%D9%82%D9%84-%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
-     "source": "فرانس 24",
-     "time": "2026-11-16T15:23:09.000Z",
-     "seen": "2026-11-16T15:57:17.360Z"
     },
     {
      "title": "الذهب و\"الدهابة\" والعرجاني: كيف تسعى مصر لتنظيم التنقيب الأهلي عن الذهب؟",
@@ -533,7 +532,7 @@
      "title": "رقم قياسي.. روسيا تدمر أكبر عدد من المسيرات الأوكرانية بيوم",
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOcWhLeU1iWWd6LU1VSkI3SS1kUE8teHp0UmFaNnJnUTZNcXRIMDI2OEczUjdIdHc4d1pTY3A5RGZZS1RyUWk4aUlCT1VLZmlFbHpIOGpIc1FyMG1CaHc0VVZZTjl3X2laWjVzbmt1YW9INWw0Y21oX1VLV1BoS0RyeDFubndkNWI0Q0VER2ltNmk5dWZZdmt5dmg2aE9VQm13U3kwOGJ1bnVMZzNuMjZheUJVX3BzbHpBdlRna1pCTXNQcUZWNmdQQy11TUc4OF9ORHoyRG9rbjhBR3ZNT1Jick5leExhRTBIN0ZSbnZ6YXAtTV9LZUJwZGJhUjAxSjBlSy0xVUdsLU4tYklzajFGZUpHVl9DZVBYRF9EV2Q2TmhtTWdpUi1xQ3JwcFFzZDd6ak1tSUJyZjB6WU1ZLW5MckNPTUlwTGZDSUN3T1RhZGdTR2pROTdyeExsdGg5T0t6ekFHYjRlVGRhVmlzSnoxY3RDSFozZ1NjVVB6WXNNT0NCM3NhTmw1TEEwYmZQbkxyUUY1UFVId2cwSWM2M0I1U3R2OGcxYk9HS1BxSFJzZFJrQmROeFA4eXJJMlRZTUpwWTRNVFVoaFRfa3pLVWo2Q2930gHXA0FVX3lxTE9SUEZqYnIxbjdLVGIwNlB1RW1USmVFekJYb284TW1hM1N0MGxUTVU4dDFCMW9kVzVib3Rsd2owNWY1ZGhsN3c2SzhYcW1IbWNuV1BXUFlCZVNEUmpQdXgwTGFKeU9RdXNidDZ0VjBzaktpS211TUlEQlZhUmVaVEVrUWdxelpjUGtiVXh2TWRzdWNNSVhGR00wc3gxT2hhUXZWRXpaaW5hc2pqWTVBb3RHamJGRHdGSjNUNlVuOUgzWTViN2F0VWdNN2paWWFQc0lOVW1KWEFtNTZ4Wkd2aVcxODRJMURIdS03TFdhTmhMREtFQk9sSmVyeUtURFJmYWlIdGdwM2t5TkxYcmxvLURBTWJ5blJWN3c0ZFJDYy0xWmc1eW5rbEJhejA5d0RzU29VTjlwRVQ1RGtpb3JsMXNRa3p5Rl9GMkVYNVFmNmljbHZsMFBTOEVDZzdDczQzNTZwQkUxR2EtNjZxNGxpR1hRdjVyY1ppMHJobkpGYXMwYnJmYU9qWWN2aHVKTGVRMlZqY3llZDlqVDNUazY4MUVQdWRtWnRLTWNDODh5SmVEa1dMOV9wVEd6VF9GSGpkcmhJak1YVU81V1R3MkRnaG93cnE5bzhTUQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T10:14:13.000Z",
+     "time": "2026-11-16T10:16:57.000Z",
      "seen": "2026-11-16T12:06:21.750Z"
     },
     {
