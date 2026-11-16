@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:36:21.726Z",
+ "updated": "2026-11-16T10:46:22.180Z",
  "minute": [
   "شهدت البنوك المصرية تراجعاً في سعر صرف الدولار مقابل الجنيه المصري خلال تعاملات اليوم الإثنين.",
   "على الصعيد التكنولوجي، تواصل الشركات العالمية إطلاق حلول الذكاء الاصطناعي والسيارات ذاتية القيادة وأدوات إدارة الأعمال.",
@@ -9,70 +9,72 @@
   "at": "2026-11-16T10:26:22.088Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T10:46:22.180Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.64,
-   "change": 0.44,
-   "asOf": "2026-11-16T10:35:33.000Z",
+   "value": 53.63,
+   "change": 0.42,
+   "asOf": "2026-11-16T10:49:02.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5834,
-   "change": -0.08,
-   "asOf": "2026-11-16T10:26:21.000Z",
+   "value": 5837,
+   "change": -0.03,
+   "asOf": "2026-11-16T10:39:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6661,
-   "change": -0.08,
-   "asOf": "2026-11-16T10:26:21.000Z",
+   "value": 6664,
+   "change": -0.03,
+   "asOf": "2026-11-16T10:39:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3866,
-   "change": -0.52,
-   "asOf": "2026-11-16T10:26:21.000Z",
+   "value": 3869,
+   "change": -0.45,
+   "asOf": "2026-11-16T10:39:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 52224,
-   "change": 0.07,
-   "asOf": "2026-11-16T10:21:20.000Z",
+   "value": 52284,
+   "change": 0.19,
+   "asOf": "2026-11-16T10:34:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1016,
-   "change": -0.31,
-   "asOf": "2026-11-16T10:35:43.000Z",
+   "value": 1.1011,
+   "change": -0.35,
+   "asOf": "2026-11-16T10:48:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.94,
-   "change": -3.03,
-   "asOf": "2026-11-16T10:23:50.000Z",
+   "value": 95.48,
+   "change": -0.38,
+   "asOf": "2026-11-16T10:38:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64463,
-   "change": -1.29,
-   "asOf": "2026-11-16T10:36:19.000Z",
+   "value": 64466,
+   "change": -1.28,
+   "asOf": "2026-11-16T10:48:57.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "قناة السويس تبحث مع شركة بلجيكية توطين صناعة المحركات في مصر",
-     "url": "https://www.elbalad.news/7182586",
+     "title": "كلوب في اختبار ناري أمام تشافي.. ألمانيا تقاتل للبقاء وهولندا تترقب حسم الصدارة بقمة برلين",
+     "url": "https://www.elbalad.news/7182625",
      "source": "صدى البلد",
-     "time": "2026-11-16T10:35:15.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
+     "time": "2026-11-16T10:45:41.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
-     "title": "بسنت شوقي توجه رسالة مؤثرة لمحمد فراج في عيد ميلاده: «حبيبي وروحي وجزء من هويتي»",
-     "url": "https://www.elbalad.news/7182592",
+     "title": "لـ 19 ديسمير.. تأجيل محاكمة المهندس المتهم بارتكاب جريمة 15 مايو",
+     "url": "https://www.elbalad.news/7182624",
      "source": "صدى البلد",
-     "time": "2026-11-16T10:34:42.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
+     "time": "2026-11-16T10:45:21.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
-     "title": "يورونيوز: 5 دول بالاتحاد الأوروبي ستفتتح في رواندا أول مركز للمهاجرين المبعدين من أوروبا",
-     "url": "https://www.elbalad.news/7182609",
+     "title": "خصم أم جزاء؟.. قانون العمل يضع ضوابط معاقبة العاملين بالقطاع الخاص",
+     "url": "https://www.elbalad.news/7182627",
      "source": "صدى البلد",
-     "time": "2026-11-16T10:33:50.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
+     "time": "2026-11-16T10:45:11.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
-     "title": "وزير الأوقاف يشارك فى منتدى «خطة مسقط العالمى» لتعزيز السلام",
-     "url": "https://www.youm7.com/story/2026/11/16/وزير-الأوقاف-يشارك-فى-منتدى-«خطة-مسقط-العالمى»-لتعزيز-السلام/7620544",
+     "title": "رئيس الإدارة المركزية للتعليم الفني يتفقد مدارس التكنولوجيا التطبيقية ببورسعيد",
+     "url": "https://www.youm7.com/story/2026/11/16/رئيس-الإدارة-المركزية-للتعليم-الفني-يتفقد-مدارس-التكنولوجيا-التطبيقية-ببورسعيد/7620579",
      "source": "اليوم السابع",
-     "time": "2026-11-16T10:30:00.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
+     "time": "2026-11-16T10:45:00.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
-     "title": "وكيل الأزهر: معركتنا الحقيقية معركة وعى.. والشباب شركاء فى صناعتها",
-     "url": "https://www.youm7.com/story/2026/11/16/وكيل-الأزهر-معركتنا-الحقيقية-معركة-وعى-والشباب-شركاء-فى-صناعتها/7620400",
+     "title": "وزير الخارجية يستقبل المدير العام للمنظمة العالمية للملكية الفكرية",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-الخارجية-يستقبل-المدير-العام-للمنظمة-العالمية-للملكية-الفكرية/7620567",
      "source": "اليوم السابع",
-     "time": "2026-11-16T10:28:00.000Z",
-     "seen": "2026-11-16T10:36:21.726Z"
+     "time": "2026-11-16T10:44:00.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
-     "title": "رئيس جامعة الأزهر: لا تصادروا حق الشباب في السؤال.. الحوار أساس بناء الوعي",
-     "url": "https://www.youm7.com/story/2026/11/16/رئيس-جامعة-الأزهر-لا-تصادروا-حق-الشباب-في-السؤال-الحوار/7620391",
+     "title": "وزير الأوقاف من سلطنة عمان: تعارف الحضارات بديل لصدام الثقافات",
+     "url": "https://www.youm7.com/story/2026/11/16/وزير-الأوقاف-من-سلطنة-عمان-تعارف-الحضارات-بديل-لصدام-الثقافات/7620568",
      "source": "اليوم السابع",
-     "time": "2026-11-16T10:23:00.000Z",
-     "seen": "2026-11-16T10:26:22.088Z"
+     "time": "2026-11-16T10:43:00.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
+    },
+    {
+     "title": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر",
+     "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxObjFma1NPOFZMYlFTdnlFX0l1NkFOYUlwa0VKQnNQcEJqUjVlMXVRNzkyN01HbFcxU1F0VFY0N2VBQWtfb2kyU1dzN29paG4tZDk3Z1d1WXdiV3MweHhJN1IwdFlkZUtQWnA4bVNrdFZ6ZktCV3lRUzRrN0k2b2EzaVo2dkJ0dndlUXhzWGJ0Vmk3ZTJHTkNSeDdkWVplbGZhX0ltWlRTTEhpRmMxTV93LTU3cnFvdG9yTzc3NERXaXF6QkRnaDliU2tVZmFsY1kwQkxiOENzR1pCenhEVXNfMEhfVWVScUtqOXhaTHZ1VmxXeTJmMFo0RGFUSlNXdzZabTJwYzJ2LV9wYk5BdXpkdnp6VkdkT2ptVWFhNU1LaFRib2tldzgwVGlxUWQ4Nl81cXREbWNVX08tYzVwbDk2N1JIUUF6eVNMZnZjRU5pN1ZZSlpOTWZSQldsbGhvWC14VGc5UVlIQjJ5VkdLQ1h5bjFwaWRWYzlpampBLUJ5aGo0Zm50R2tGd21RLTlQWVBiX0x6cjdGLWtvLWtiUHY0N0dDUUdUQWdteVNtMFRQMzQzN203SUJGaDdxVmlIbEpoY0dvSzJuUkF0TFlsc0pVRU5tR1FFUkNGbzFRejZqR0dOZ1ZFU0E0SEE5dUdseVpUeXBVbGt5czFqNUdrOC1MV2J3?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-16T10:33:34.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
      "title": "«بقبض 3500 جنيه والحد الأدنى للأجور فين؟».. موظفو القطاع الخاص يشكون عدم التزام الشركات بقرارات الحكومة",
@@ -226,13 +235,6 @@
      "source": "BBC",
      "time": "2026-11-15T20:41:02.000Z",
      "seen": "2026-11-15T20:53:42.257Z"
-    },
-    {
-     "title": "الحكومة تكشف سر حضور مدبولي اجتماع زيادة الحد الأدنى للأجور بالقطاع الخاص",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE13Rmd4WG85aUl2cy1SR0VTc2ozV1pqRHB1cDN1bkdKRDUwQ2hsN3FnaXJFWEVwOVdYWkpoLTc5UHhDSEpv?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-15T19:49:40.000Z",
-     "seen": "2026-11-15T20:03:42.950Z"
     }
    ]
   },
@@ -240,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ \"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
+     "url": "https://www.bbc.com/arabic/articles/cm62p3x05xgwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T10:41:39.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
+    },
     {
      "title": "بين 48 و60 للدولار... صراع الشرق الأوسط يرسم مستقبل الجنيه المصري",
      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNR1lxdXFrbDRKVzUyQzAyVU5XczlTT0RHX0VVY1Bhek1ZWGtZaEc0aTNJdXpkcE1lRjk3RV9waDFDa3k3NUdWNXM0bHNxMHUtbGJuX3JuaTlkMl9EVGJNN2ZHakpjQkJEeUJwT3JmN1haejAxYWJTajBZdFZUc0FKV1ZMQU04NVJOR3VoLU5aWW12aURxbVdOZDViSDNmTTZrMHA3VEdjY0F1MzdNZnZTVGo1amZvVU9LZkdNUTBKcTc2OEUzT3RsbGh3bjhDMWo0VTdlRlR4N2xydy1UbFFKMGxnTy10OHoxNWVHV0xremprSThCYl8xMFJlY283a1VzOXpwQnVJR0JTTWl3MzdCZlB5c1NkZXpKREV5OHlVOWFXZ19EN29FTmxCMlFDcTR6Nl96eWtKaGlKSzF1RkRMbkU1UjliMWlBSkh6dFV1eTY1OVotd1RtZ0tBYnFSNnFMM2dLdC00dDBZWExjRGI5UHZyT2lsTXdlUUdfVkg5c1lmaVphNEZWa1J6UGFKSjNrRk1NT1pXYnBOeURyanh5bDFCNng0bkx5dmN3SzA2ZkwtbFhPY0ZBd1RWTHF0bkRTYTNleUFQV2Q2bS1ZbjUwS2VfeXhIaFFqazhQaloza2FtanRTemFJV0t5NGpPamxQR0xBSHJpdEZBckFOS19Eb2YzbDhUaEUzZldzQ0dEYmQ1aEhPeTlGRTB1VFNnT1N5THVYakc4bXJKR2ZsZ3duZmZoZlZkNHQ2T01wS2dWdEFjN1A2S1JTTUMwLXV6RUdKOHd6ZGNESnVHNzF0Zy1tY0l2ZklIWk54UXpYMktVdnpGSnJhRFdJMmhHMi0zUDJ2SHpHMUFEaHU2TGpBdlNfeg?oc=5",
@@ -338,13 +347,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-16T09:10:04.000Z",
      "seen": "2026-11-16T09:16:22.269Z"
-    },
-    {
-     "title": "أين ذهبت أموال اكتتاب \"كيما\"؟.. إنفاق 2.6 مليار جنيه على الغاز والديون وتبقي 1.4مليار",
-     "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNYnRQM1dXTzFUTTRiZnB2M040UzBnZ2MzLWlEa3hKemI2UGQxbVFGYnpHZ2FtbWVBZG1ZMEhQSDE1SmxvbFRfak4tVXFoWFVLaWV1ek5wa1JLSGJmV21XMkZBd2VrZG5KSGg3SFZJUmNZZFlBMjBiLVA4cXJoT0JPczdVVzB1YzR3R2o0aUFhNTJKX0xpS1ptc01jTkRkRUhIRDkxNG9ISjg5TmFuR1Z0M0I5MldrYnBwZVh1VHlGUy1nWE5samJxMGZjcmdqVTZtd1NEdU9sb1ZtUE10ZURxQTB6a3I5c0xoT2M1RUY1dHN5dVBrOVJCSFR6d2ZPbkVqNDlTMjRnUVRUNlpHLUR5NVJhMGlUaXNabFlKNGtNMExzRWh0N2xGV0tITFpCcXBFRldBeGVkUVpOUkp3M2xQbmVndXJfeTVOYkotZHFWYjBzODNHZ2lIc0xfWEQ3WlR2Vl9nVFdobl94RVRhY28xcG1xbTFDbV9tWk5QT3JiWkx5VmdzejA3alBn0gGEA0FVX3lxTE1HZ1Ntd2NLSTJyeGJYaFdvODk1dkwxZUZHa0tUOGwzYnAxYjRJV2FQM3FYSml3dk4wbVViZm5BSEdXZXZmbUlLSVJ0UW9uZGdUaHJnenh2ZExDWkJlYmZ1X1RhX1NUcTdFNU1TVjdmOU9iS2F6T2VFS0FhSnJpT0d5QTRQVDZlNGdaR1VLakZRT1pCOHFlTlpNUGVDeXRBNURNeHp3UGxuVTctZEktM3Zsc3hLY21oMFhnbnR1TjVJcUR5MU5NY3JSMkxGam1mQmd1a09BbW1TNGlFUWhrdHpwRFU5bVRTMm04OS1PQ002NTZwZ0hZTGFYQjJ5S0h3ODFvZFBBWDRHa3lDYVhwSHpHb0dIYUh3LVpJaTlyR0VLZjJqWnFXV0h2cjlWNk4xLTRUMy01eVBWOGU4V09scjJtdkxDT2NIcVJXd3M2SHRJRWNjeWhrQ2hIeFR3bENidGl3dm40azR2SkFzV0h1MTVqS2MxNVE2UFFuMVJESlE3czIzNXQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T09:10:00.000Z",
-     "seen": "2026-11-16T09:16:22.269Z"
     }
    ]
   },
@@ -372,6 +374,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-16T10:04:32.000Z",
      "seen": "2026-11-16T10:06:21.684Z"
+    },
+    {
+     "title": "انسحاب القوات اليمنية من منطقة باب المندب، وأنباء عن تقدم الحوثيين باتجاه عدن",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTT3lxbWlVdTJfU3lZU3F0M1JPQjNCeDI1WmVhVndvTU40S3VGZmdHa0xFQlgycjk5QWtEZzNISnYxbGFxcE9WRzhnM1I5Q3FLclI4XzJ4dU5rVVpxY3fSAWNBVV95cUxQNTNnbnV5aWVnbEZLU0tzNUNqSHVpcTI3UG53Y0RNOEtZVE1mQ0gxUXlvZHVpUk1MczdmVjJ4V25UWks0TVRBVi1rQ2JKNTVsTlJJenRlQmJEMDVkSUdZa1ZfdHM?oc=5",
+     "source": "BBC",
+     "time": "2026-11-16T10:04:11.000Z",
+     "seen": "2026-11-16T10:46:22.180Z"
     },
     {
      "title": "من سواحل غرب إفريقيا إلى جزر الكناري الإسبانية.. قوارب الهجرة تتدفق بأعداد غير مسبوقة",
@@ -442,13 +451,6 @@
      "source": "BBC",
      "time": "2026-11-16T08:38:24.000Z",
      "seen": "2026-11-16T10:36:21.726Z"
-    },
-    {
-     "title": "الحرب تعيد\"بابور الكاز\" إلى غزة",
-     "url": "https://www.skynewsarabia.com/middle-east/1904980-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A8%D9%88%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D8%A7%D8%B2-%D9%85%D8%B7%D8%A7%D8%A8%D8%AE-%D8%BA%D8%B2%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T08:22:43.000Z",
-     "seen": "2026-11-16T08:34:45.880Z"
     }
    ]
   },
