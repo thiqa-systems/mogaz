@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-16T14:57:17.830Z",
+ "updated": "2026-11-16T15:07:17.983Z",
  "minute": [
-  "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
-  "شهدت القطاعات المصرفية في مصر متابعة لتطورات أسعار صرف العملات الأجنبية والدولار واليورو أمام الجنيه المصري.",
-  "تابعت المصادر الإقليمية والدولية مجموعة من التحركات السياسية والأمنية والتطورات التكنولوجية المختلفة."
+  "باع البنك المركزي المصري أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%.",
+  "تبحث وزارة الإسكان المصرية مع شركة أكوا باور السعودية التوسع في مشروعات تحلية مياه البحر، وتستهدف الإسكندرية للحاويات تحديث معداتها.",
+  "أكد رئيس لجنة القوى العاملة بالنواب أنه لا يجوز حرمان العاملين من العلاج بسبب مديونيات شركاتهم، وأعلنت التضامن وجود 36 ألف جمعية أهلية.",
+  "وتستعد الصين لقمة مرتقبة تضم ترامب وبوتين وشي، بينما تناولت تقارير استخدام تقنيات أمازون للتعرف على الوجوه."
  ],
  "ai": {
-  "at": "2026-11-16T14:36:22.497Z",
+  "at": "2026-11-16T15:07:17.983Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 5,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T14:57:17.830Z"
+  "key": 1,
+  "impacts": 9
  },
  "markets": [
   {
@@ -27,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5871,
-   "change": 0.56,
-   "asOf": "2026-11-16T14:48:52.000Z",
+   "value": 5862,
+   "change": 0.39,
+   "asOf": "2026-11-16T14:58:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6704,
-   "change": 0.56,
-   "asOf": "2026-11-16T14:48:52.000Z",
+   "value": 6692,
+   "change": 0.39,
+   "asOf": "2026-11-16T14:58:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3892,
-   "change": 0.14,
-   "asOf": "2026-11-16T14:48:52.000Z",
+   "value": 3885,
+   "change": -0.03,
+   "asOf": "2026-11-16T14:58:02.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +62,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1007,
-   "change": -0.39,
-   "asOf": "2026-11-16T14:58:43.000Z",
+   "value": 1.1013,
+   "change": -0.34,
+   "asOf": "2026-11-16T15:07:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.57,
-   "change": -2.37,
-   "asOf": "2026-11-16T14:48:38.000Z",
+   "value": 93.69,
+   "change": -2.24,
+   "asOf": "2026-11-16T14:58:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7490,
-   "change": -0.95,
-   "asOf": "2026-11-16T14:58:52.000Z",
+   "value": 7471,
+   "change": -1.2,
+   "asOf": "2026-11-16T15:08:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65260,
-   "change": -0.07,
-   "asOf": "2026-11-16T14:58:32.000Z",
+   "value": 64646,
+   "change": -1.01,
+   "asOf": "2026-11-16T15:08:04.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,50 @@
    "title": "مصر",
    "items": [
     {
-     "title": "موجة بيع أسهم الذكاء الاصطناعي تدفع المستثمرين لإعادة تقييم حجم المخاطر",
-     "url": "https://www.elbalad.news/7183006",
+     "title": "رئيس قوى عاملة النواب: لا يجوز حرمان العاملين من العلاج بسبب مديونيات شركاتهم",
+     "url": "https://www.elbalad.news/7183031",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:56:27.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "time": "2026-11-16T15:06:33.000Z",
+     "seen": "2026-11-16T15:07:17.983Z",
+     "impact": "يهِمّ العاملين بشركات في مصر لمعرفة حماية حقوقهم في العلاج رغم أي مديونيات على شركاتهم."
     },
     {
-     "title": "تطوير الإرشاد الزراعي وزيادة الصادرات.. تفاصيل خطة وزارة الزراعة",
-     "url": "https://www.elbalad.news/7183002",
+     "title": "وزير السياحة والآثار يزور متحف هاينان ويبحث تعزيز التعاون في مجالات العمل الأثري والمتحفي",
+     "url": "https://www.elbalad.news/7183030",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:55:32.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "time": "2026-11-16T15:06:17.000Z",
+     "seen": "2026-11-16T15:07:17.983Z",
+     "impact": "يهِمّ العاملين والمتخصصين بقطاع السياحة والآثار لمتابعة فرص تعزيز التعاون الأثري والمتحفي."
     },
     {
-     "title": "الاتحاد التونسي يشكو طاقم تحكيم مباراة ليبيا للكاف",
-     "url": "https://www.elbalad.news/7183008",
+     "title": "الإسماعيلية.. انتظام العمل بالمركز التكنولوجي وتحسين مستوى الخدمات للمواطنين",
+     "url": "https://www.elbalad.news/7183029",
      "source": "صدى البلد",
-     "time": "2026-11-16T14:55:08.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "time": "2026-11-16T15:06:14.000Z",
+     "seen": "2026-11-16T15:07:17.983Z",
+     "impact": "يهِمّ المواطنين في الإسماعيلية للاستفادة من انتظام الخدمة وتحسين المعاملات بالمركز التكنولوجي."
     },
     {
-     "title": "ترامب: قد ألتقى برئيس كوريا الشمالية خلال زيارتي للصين",
-     "url": "https://www.youm7.com/story/2026/11/16/ترامب-قد-ألتقى-برئيس-كوريا-الشمالية-خلال-زيارتي-للصين/7621035",
+     "title": "سفارة العراق في القاهرة تحتفي بيوم بغداد وتستحضر تاريخها وإرثها الحضاري",
+     "url": "https://www.youm7.com/story/2026/11/16/سفارة-العراق-في-القاهرة-تحتفي-بيوم-بغداد-وتستحضر-تاريخها-وإرثها/7621083",
      "source": "اليوم السابع",
-     "time": "2026-11-16T14:53:00.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "time": "2026-11-16T15:01:00.000Z",
+     "seen": "2026-11-16T15:07:17.983Z"
     },
     {
-     "title": "ترامب: قرار مصر بتصنيف أذرع الإخوان تنظيمات إرهابية أمر رائع",
-     "url": "https://www.youm7.com/story/2026/11/16/ترامب-قرار-مصر-بتصنيف-أذرع-الإخوان-تنظيمات-إرهابية-أمر-رائع/7621041",
+     "title": "وزارة التضامن: لدينا 36 ألف جمعية أهلية لدعم ومساندة المجتمعات المحلية",
+     "url": "https://www.youm7.com/story/2026/11/16/وزارة-التضامن-لدينا-36-ألف-جمعية-أهلية-لدعم-ومساندة-المجتمعات/7621053",
      "source": "اليوم السابع",
-     "time": "2026-11-16T14:50:00.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "time": "2026-11-16T15:01:00.000Z",
+     "seen": "2026-11-16T15:07:17.983Z",
+     "impact": "يهِمّ المهتمين بالعمل الأهلي لمتابعة انتشار الجمعيات الأهلية ودورها في دعم المجتمعات المحلية."
     },
     {
-     "title": "«في المطار» يرصد خدمات مبنى الركاب 2 .. تأشيرة إلكترونية وإبداعات فنية وإشادات عربية",
-     "url": "https://www.youm7.com/story/2026/11/16/«في-المطار»-يرصد-خدمات-مبنى-الركاب-2-تأشيرة-إلكترونية-وإبداعات/7621023",
+     "title": "شبورة كثيفة تصل للضباب وانخفاض الرؤية الأفقية والصغري بالقاهرة 16درجة غدًا",
+     "url": "https://www.youm7.com/story/2026/11/16/شبورة-كثيفة-تصل-للضباب-وانخفاض-الرؤية-الأفقية-والصغري-بالقاهرة-16درجة/7620841",
      "source": "اليوم السابع",
-     "time": "2026-11-16T14:38:00.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
+     "time": "2026-11-16T15:00:00.000Z",
+     "seen": "2026-11-16T15:07:17.983Z"
     },
     {
      "title": "«مدبولي» يلتقي وزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين",
@@ -248,7 +251,8 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2ZrRDdTbGdMaFRqdGtDMzNlTWhhNFJOMTVuNUoxRFJMbzdDQV9PdGJPZDlKTHpOb09jcVFZRm12ek11bFNHbWpKbDd5Wk95UHpPN1JfNXU2X3dmWkM5Nk9nSHJMSmF5OGNZbDR4cTY4ay1raThtUVNsM0pGVml6a0pWOU0zZUc1VjRsXzF4Vnk1UGtyLXlsaGxlNG9oaFRNVGNoc1JKdw?oc=5",
      "source": "بوابة الشروق",
      "time": "2026-11-16T14:45:51.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "seen": "2026-11-16T14:57:17.830Z",
+     "impact": "يهِمّ المستثمرين في الأدوات المالية للتعرف على عوائد وحجم أذون الخزانة الدولارية المطروحة."
     },
     {
      "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
@@ -259,11 +263,34 @@
      "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
     },
     {
+     "title": "“الإسكان” تبحث مع “أكوا باور” السعودية التوسع في مشروعات تحلية مياه البحر",
+     "url": "https://alborsaanews.com/2026/11/16/2006864",
+     "source": "البورصة",
+     "time": "2026-11-16T14:29:48.000Z",
+     "seen": "2026-11-16T15:07:17.983Z",
+     "impact": "يهِمّ المستثمرين في قطاع المياه والبنية التحتية لمتابعة خطط التوسع في مشروعات تحلية مياه البحر."
+    },
+    {
      "title": "\"أنا هنا لأعيش لحظة خاصة\": عودة رونالدينيو إلى الملاعب بعد أكثر من عقد على الاعتزال",
      "url": "https://www.bbc.com/arabic/articles/cw808v7nrmrxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-16T14:18:14.000Z",
      "seen": "2026-11-16T14:26:22.411Z"
+    },
+    {
+     "title": "“الإسكندرية للحاويات” تستهدف تحديث أوناش ومعدات بمحطتي الإسكندرية والدخيلة",
+     "url": "https://alborsaanews.com/2026/11/16/2006841",
+     "source": "البورصة",
+     "time": "2026-11-16T14:17:27.000Z",
+     "seen": "2026-11-16T15:07:17.983Z",
+     "impact": "يهِمّ المستثمرين والمتعاملين في قطاع النقل البحري والبورصة لمتابعة خطة تحديث أوناش ومعدات الإسكندرية للحاويات."
+    },
+    {
+     "title": "«بنك قناة السويس» يطلق منتجاً لتمويل سلاسل الإمداد مطلع 2027",
+     "url": "https://alborsaanews.com/2026/11/16/2006856",
+     "source": "البورصة",
+     "time": "2026-11-16T14:12:12.000Z",
+     "seen": "2026-11-16T15:07:17.983Z"
     },
     {
      "title": "سعر صرف اليورو اليوم الاثنين 16 نوفمبر 2026 في البنوك المصرية.. أسعار الشراء والبيع",
@@ -296,27 +323,6 @@
      "time": "2026-11-16T13:39:00.000Z",
      "seen": "2026-11-16T13:56:22.907Z",
      "impact": "يهم المغتربين والمحولين للأموال بين مصر والبحرين لمعرفة التأثير المالي لارتفاع الدينار مقابل الجنيه."
-    },
-    {
-     "title": "«تصديرى الصناعات الهندسية» يدرس تنظيم بعثة تجارية للبرازيل والأرجنتين خلال 2027",
-     "url": "https://alborsaanews.com/2026/11/16/2006818",
-     "source": "البورصة",
-     "time": "2026-11-16T13:29:28.000Z",
-     "seen": "2026-11-16T14:16:23.237Z"
-    },
-    {
-     "title": "الحكومة تبحث تخفيف أعباء الشركات استعدادًا لزيادة الأجور",
-     "url": "https://alborsaanews.com/2026/11/16/2006814",
-     "source": "البورصة",
-     "time": "2026-11-16T13:27:07.000Z",
-     "seen": "2026-11-16T14:16:23.237Z"
-    },
-    {
-     "title": "شركات هندية تدرس استثمار ملياري دولار في الصناعة المصرية خلال 2027",
-     "url": "https://alborsaanews.com/2026/11/16/2006797",
-     "source": "البورصة",
-     "time": "2026-11-16T13:25:47.000Z",
-     "seen": "2026-11-16T14:16:23.237Z"
     },
     {
      "title": "مواد جديدة يصممها الذكاء الاصطناعي قد تغير مستقبل التكنولوجيا",
@@ -356,11 +362,25 @@
    "title": "العالم",
    "items": [
     {
-     "title": "خلافات تؤجل انتخاب أمين عام جديد لمنظمة الفرانكوفونية: المنظمة أمام تحديات موازين القوى الدولية",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261116-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%AA%D8%A4%D8%AC%D9%84-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%A3%D9%85%D9%8A%D9%86-%D8%B9%D8%A7%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%88%D9%81%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+     "title": "مصر.. ثورة جنسية صامتة تكسر تابوهات المجتمع عبر مواقع التواصل",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261116-%D9%85%D8%B5%D8%B1-%D8%AB%D9%88%D8%B1%D8%A9-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%B5%D8%A7%D9%85%D8%AA%D8%A9-%D8%AA%D9%83%D8%B3%D8%B1-%D8%AA%D8%A7%D8%A8%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84",
      "source": "فرانس 24",
-     "time": "2026-11-16T14:55:31.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
+     "time": "2026-11-16T15:05:51.000Z",
+     "seen": "2026-11-16T15:07:17.983Z"
+    },
+    {
+     "title": "بمشاركة ترامب وبوتين وشي.. قمة مرتقبة تبحث الحد من الانتشار النووي وأزمات العالم",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%B4%D9%8A-%D9%82%D9%85%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%AD%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%88%D8%A3%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+     "source": "فرانس 24",
+     "time": "2026-11-16T15:05:28.000Z",
+     "seen": "2026-11-16T15:07:17.983Z"
+    },
+    {
+     "title": "لوكاكو الهداف التاريخي لـ\"الشياطين الحمر\" يعلن اعتزاله اللعب دوليا",
+     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261116-%D9%84%D9%88%D9%83%D8%A7%D9%83%D9%88-%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%B4%D9%8A%D8%A7%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%85%D8%B1-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%84-%D8%A7%D9%84%D9%84%D8%B9%D8%A8-%D8%AF%D9%88%D9%84%D9%8A%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-16T15:05:17.000Z",
+     "seen": "2026-11-16T15:07:17.983Z"
     },
     {
      "title": "ترامب وشي وبوتين على طاولة واحدة في أول قمة ثلاثية بالصين",
@@ -374,20 +394,6 @@
      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNaEhFVmEwRGlzSms4R2UzcENZUDVDOS1BbjlHSmhva0NhTlQ5VmZ2dWhfakU2YjRFRnFGWGxlUzVEUHRhTktXUTRUNDJROW5LdFNVSkN5NW5NOW1NdkJSaGZDcW0xTDhqTE1KeDJqR0FVcWtLQXluaFFoR0NTWmFyeG9fR1FuNVNZaGhxLU1pTno2MVItQ2ViZ1lad24zc0E1dm5EZHNzMGpBbm4zS1RIYVlJcVJDdVJjYXZ3NC1jQlRGYnRwYkFJVlFROWhLemR5U2lqZDd6UEtwYkFzM1hkMVBmODlBUm5ZeExPRHVtb3hIdExSc3BOQ2lybmlQeWRqTTBFVlJrTzVDSjdxcDByRzZWd2lpQTIxVjMydjhseUVFNkx6d0xaZmdXem9aNTVNbUpwa1pvLXBEbUFYNzl0WXA0cVctM2x2ZjhOVE1pNFdlU3o3UnJvSFlZb1ZHQnNieXg2dVNQOU0yTjlwT2Q0THVqd1BCSXF0ajVMZ05NZ2pvNHZPaTl1ZmtPcFNfd082aWNSSzlrU25BdFF0Ullha1RDMXdxQS1DdkZxejF1bUNuVXhKUVFJYWZLUlBMMVBpcV9sNW5Yc2o3R1RHRzNIblN1TjhsNXdYaUFCMnpTNkFfempCYm5XYVFYQdIB8ANBVV95cUxPaFRxN0RfcWhRcnBXckMtYXhfNmZQVDRaQlJ5NnBlR3hHS21rR2drRXlrbnZJOW9oRzBidVZLUlpDSmpqd19yeUlzd2RpVHZlMUtkdnZCTUNieHdpd2w0TVg3R3o5VEl3VFpYMzYwV1FuVGN0NUNtdHpLZlhHY3AxT09VZDhWZGNISk5qeGJrMXRLUEs3aDh1ZHBYS0dHYUxTZGZzck5DVWtJUXBzc1hVWUszdXBPQXlMUENCUDAwXzVWZ0hFWElzZWdiOEZFQTVnX2syeEN5TXlncGhvVnFscW9nek93SmZ5N0lnNnowZE5LY1NseUx2Y2FrVVVBbDdRdlkxblZobWlLMkJucU54MWpRWERlV0VMczRKOG5VZUhndFdHZC1qYnJ5UTlMcXBmOUYwb3k0TFM5LVk5WmEtRHM2T2xJWVBFeV83d05aWkxjbDRIVFZxLXB1SXlmOUtlNVJGbjBkelhlbV9ZWkt3QmJIYXp4c0hhRFpwemFQSFlDbHdWa0EzcllfWTh1NzE5UUdNSEZEby1NdUxDWkJuUVJOQjFrNDROb3RTX2ZleHo5TEtNZi1KMC1DemVHSF9PWlRHTWdicUhGVDBDOGEyQUpzQ1pEcTNRZXNud3NMZFNieEFWSm9BeXFTT3pXUTF4?oc=5",
      "source": "العربية",
      "time": "2026-11-16T14:51:40.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
-    },
-    {
-     "title": "الإعاقة غير المرئية.. كيف تؤثر على الحياة المهنية؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9/20261116-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%A6%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%A4%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-16T14:48:46.000Z",
-     "seen": "2026-11-16T14:57:17.830Z"
-    },
-    {
-     "title": "العراق: اتهامات بتهريب النفط تشعل مواجهة جديدة بين حكومة الزيدي وكتائب حزب الله",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261116-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%B4%D8%B9%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
-     "source": "فرانس 24",
-     "time": "2026-11-16T14:40:13.000Z",
      "seen": "2026-11-16T14:57:17.830Z"
     },
     {
@@ -478,7 +484,8 @@
      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOc3NsZTFJUVBZWllSRnplVFJPLU45U280Vk8xUm1DYWR0R2I2OUdQNTZmQkwxbGxpd2U5d0I5b3djTEk0Uzl4ZXN2LWh2ZVBURVQzaWZPUzQ1MmlGYnZSd1RES19FLWNaV2t1c255dGhEdFRuajZQaVRyU2pMejRoMHVqTU5ZSU40VUJrWnhTTXh1aFpQVXhhMHdjQWJVUUQxbFdkSkRqY2tYVTI3WXdoT1BIM2pKbGR6VU5NMXcyZEl4SWRFRVFGenhpTUxkUmkzcUt0OVF3ZHFxNVJ5cjF3RmFrZ09mRWtxakRYaS1qcmxhZXNQOF8yckFnY01LaDEwVWJtMEJKa0EwZDFPYmh4eGtqRUgyd1R5QUlraHo5NHhWekNINWQtTWhQV0pZeVJsNl9IM3otTWRsc1hWQlpiR0swMFNOc0o3T1pWWnpqN2IyQnBudXNwcEVOR041eWpvTWF5MzJkOHZwYzJTdnNkR0YtcjdhRk9xOGVOY1ZPOUwyck0yR3BwcUV3dUhDMzFtWFRwMmd5eFBlRTdCOXd1SmFpMDhmeWl0SnpBcTB3Yk9qNDBvZWtzZE5JalJVbmhpeU9CN0YzcUxpa1RldThLS2pXUWhUOGJUejJqcV9adGNLYVQ0N20ta1l3cENFTXkyaENicEdfUHI3OW5BMmQ4SFQ4aHZNaFV3SFR6c2s4ZzA3cGptd251Y0VGY2ViT0pxcUhjMnhrWVM4a2VlU3h0R2N3OTZnZUhQcXg1bHJUT2dlaUtpRVRoVzV4Y3BuUHPSAcoEQVVfeXFMTkR1X2l4N2hKSWtxYWRKWXNqcEdhYjF5TUhVMks2Q1MtZVBIR2hvQTd2Y01Tc1hjbTVaTFd5ZnJES29fdUxGazBUcGs3cWtaQVVUaG9GOTItVGNaWC1vVFdTM2oyMU5wcEtXREt6V1NXZjRRcEN1VTRCZ085Z3NyRjZwUjdTZUR1Q1F6SUNHMzRUeENmYTUtLUQwSzBEMUx3SDFNQU9KbDBKU0loOVFiRTdTVkYzYWlNc21TaWp3S2FYanFYRFptVlhGZEpIZTZKYlBLTzNUdmdEMG9jSlhVQWhRYi1QcThBZ3A3TDdhbTlGb2RFTVBWRHlzUk1mZ3VWMG00OGdGV3drc1VWbGxqODRGU2hDcS15N0NEdmNac19mS2twb3VDVVMwQ0JTWjBubWE3ck93b3dIX1R4Rk51YTM4ZUhYdk1yZlRNUHdubEd5M0xHczZ2d3dESExfb1BwWVR2NDlBZ0VjT1JJdGZKdXB6UVJGV1FpVmlPR2RocklFQjY3VS1UNUhUd3pHaFhvX3plTW5GVTctUHZXeVViSHdfVVg3eFYyVE1EVlhWUlJ3cWt4NUdVT2o4MW1WVkEyT0lhblNiNktRSE5qUGREZFIxcEd5Z0hvWHRxVE5JRHNxTVNILWEtRDJaYm1scU1DMjAzaFMtdE9vTFRkMG9ZakpMV2tWU3BMOEY5SEM2Z2UxUGt3WGhfekl1NkJaYVdXVlVJdFRWTDE0dlhScVh5My1FU1VRSmMxblAwNGpmYlJPMF9menNvaXgzdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-16T12:30:00.000Z",
-     "seen": "2026-11-16T13:36:22.911Z"
+     "seen": "2026-11-16T13:36:22.911Z",
+     "impact": "يهِمّ الأفراد المهتمين بالتطبيقات التكنولوجية للتعرف على ابتكارات الذكاء الاصطناعي القائمة على الليزر."
     },
     {
      "title": "هل تسقط \"إنفيديا\" برحيل رجل واحد؟ - مقال في واشنطن بوست",
@@ -486,7 +493,7 @@
      "source": "BBC عربي",
      "time": "2026-11-16T11:32:23.000Z",
      "seen": "2026-11-16T11:36:22.120Z",
-     "impact": "يهم المتابعين والمستثمرين في قطاع التكنولوجيا لمعرفة عوامل المخاطر المؤثرة على الشركات العالمية الكبرى."
+     "impact": "يهِمّ المستثمرين والمهتمين بالقطاع التكنولوجي لمتابعة الرؤى التحليلية حول استقرار شركة إنفيديا."
     },
     {
      "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ\"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
@@ -568,7 +575,7 @@
  ],
  "failed": [
   {
-   "section": "egypt",
+   "section": "economy",
    "feed": "www.bing.com",
    "error": "no items"
   },
