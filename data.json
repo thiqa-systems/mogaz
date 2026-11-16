@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:04:45.942Z",
+ "updated": "2026-11-16T06:14:45.630Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T06:04:45.942Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T06:14:45.630Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.74,
    "change": 0.63,
-   "asOf": "2026-11-16T05:47:40.000Z",
+   "asOf": "2026-11-16T06:11:22.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5806,
-   "change": -0.55,
-   "asOf": "2026-11-16T05:54:47.000Z",
+   "value": 5824,
+   "change": -0.25,
+   "asOf": "2026-11-16T06:04:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6629,
-   "change": -0.55,
-   "asOf": "2026-11-16T05:54:47.000Z",
+   "value": 6650,
+   "change": -0.25,
+   "asOf": "2026-11-16T06:04:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3841,
-   "change": -1.17,
-   "asOf": "2026-11-16T05:54:47.000Z",
+   "value": 3853,
+   "change": -0.87,
+   "asOf": "2026-11-16T06:04:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.1024,
    "change": -0.24,
-   "asOf": "2026-11-16T06:04:48.000Z",
+   "asOf": "2026-11-16T06:13:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.68,
-   "change": -0.17,
-   "asOf": "2026-11-16T05:54:17.000Z",
+   "value": 95.78,
+   "change": -0.06,
+   "asOf": "2026-11-16T06:03:27.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64519,
-   "change": 0.61,
-   "asOf": "2026-11-16T06:04:45.000Z",
+   "value": 64254,
+   "change": 0.2,
+   "asOf": "2026-11-16T06:14:57.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "جراديشار عن غرفة ملابس الأهلي: التعامل مع كل هؤلاء النجوم صعب",
+     "url": "https://www.elbalad.news/7182330",
+     "source": "صدى البلد",
+     "time": "2026-11-16T06:09:01.000Z",
+     "seen": "2026-11-16T06:14:45.630Z"
+    },
+    {
+     "title": "«أستوريا جراند» ترسو بالغردقة.. 800 سائح روسي على متن السفينة السياحية",
+     "url": "https://www.elbalad.news/7182324",
+     "source": "صدى البلد",
+     "time": "2026-11-16T06:05:45.000Z",
+     "seen": "2026-11-16T06:14:45.630Z"
+    },
+    {
      "title": "مؤتمر صحفى لوزيرى التعليم العالى والمالية لإعلان زيادات دخول أعضاء التدريس",
      "url": "https://www.youm7.com/story/2026/11/16/مؤتمر-صحفى-لوزيرى-التعليم-العالى-والمالية-لإعلان-زيادات-دخول-أعضاء/7619924",
      "source": "اليوم السابع",
@@ -163,20 +177,6 @@
     {
      "title": "موعد مباراة منتخب مصر للشباب وتنزانيا الودية اليوم.. والقناة الناقلة",
      "url": "https://www.elbalad.news/7182299",
-     "source": "صدى البلد",
-     "time": "2026-11-16T06:00:00.000Z",
-     "seen": "2026-11-16T06:04:45.942Z"
-    },
-    {
-     "title": "موعد صلاة المغرب.. مواقيت الصلاة اليوم 16 نوفمبر بالمحافظات",
-     "url": "https://www.elbalad.news/7182277",
-     "source": "صدى البلد",
-     "time": "2026-11-16T06:00:00.000Z",
-     "seen": "2026-11-16T06:04:45.942Z"
-    },
-    {
-     "title": "أخبار السيارات| 5 سيارات SUV زيرو في مصر بأحدث الأسعار.. كل ما تريد معرفته عن GMC هامر الكهربائية",
-     "url": "https://www.elbalad.news/7182266",
      "source": "صدى البلد",
      "time": "2026-11-16T06:00:00.000Z",
      "seen": "2026-11-16T06:04:45.942Z"
@@ -296,6 +296,14 @@
      "seen": "2026-11-16T05:04:45.881Z"
     },
     {
+     "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN3g2NGUybC12a0JvQU9vanJWV2toQ0JkT2VZRnk3Ql9OZnQySVZ6Ry10RlpYUGVYRzdQUXdYU0Nac1RCZ2hJdGYtY2o4S19DcTVmVnBRVV9JMzhfVzR0Q1ZudFBtcHpzdXVmRWM1UQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-16T02:27:34.000Z",
+     "seen": "2026-11-16T01:34:29.592Z",
+     "impact": "يساعد المهتمين بالاستثمار والادخار في مصر على متابعة التقديرات العالمية لمستقبل أسعار الذهب كأصل استثماري."
+    },
+    {
      "title": "سعر الدولار على مدار الساعة.. 53.74 جنيه شراء الأخضر فى البنك الأهلى",
      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPc3J4ZDVkV0JxWW1hWGtRbkRJNFFMM2daNjItalZ0S0ZaODVfR25LN29JVnVCWGl6ejFuTUpCNDJqN1otQ3FPeGRkblpyOEN5S2gzMUhMYWlJRUhjbWg3c003T1hrVml5QjJTVW9HV2xzNnFPdDRMdmVCQUEzWjJyN1N4VzgtQ0xOQW03TEdVSFBGSXE1LU9XVm02TnI2TFZoYkpNSXRyN1gzUXlPTHk5TlJwSkxYcU1Tb0c4QlhaLTZTZjdpZGc1RWxUbWNiY0tLMWpwZ0EzdXFZbTlXRnpBdUdaOGNsLU9RTmx2V1pIb1JWNFlmWklwT0lLUFpVV2RPSmlReUpXZ3dtOU9mTTFLQWVaaFBTVlZrM014SzFaUlBuSHhVVmJ2UG90ZTEzcmpLSllEdFpZY1FDSjdlRlBVZ0hyZ3h5cXhvMEEwRXV3RER3U1dxYlFtdjNBaW5mTld5NnktakRmTUpmV2tqMXB2Ulc1NXZxWWdPSE9tQVp4dTJLc25GVm0teVpVZFNtbHPSAY8DQVVfeXFMT3NyeGQ1ZFdCcVltYVhrUW5ESTRRTDNnWjYyLWpWdEtGWjg1X0duSzdvSVZ1Qlhpenoxbk1KQjQyajdaLUNxT3hkZG5acjhDeUtoMzFITGFpSUVIY21oN3NNN09Ya1ZpeUIyU1VvR1dsczZxT3Q0THZlQkFBM1oycjdTeFc4LUNMTkFtN0xHVUhQRklxNS1PV1ZtNk5yNkxWaGJKTUl0cjdYM1F5T0x5OU5ScEpMWHFNU29HOEJYWi02U2Y3aWRnNUVsVG1jYmNLSzFqcGdBM3VxWW05V0Z6QXVHWjhjbC1PUU5sdldaSG9SVjRZZlpJcE9JS1BaVVdkT0ppUXlKV2d3bTlPZk0xS0FlWmhQU1ZWazNNeEsxWlJQbkh4VVZidlBvdGUxM3JqS0pZRHRaWWNRQ0o3ZUZQVWdIcmd4eXF4bzBBMEV1d0REd1NXcWJRbXYzQWluZk5XeTZ5LWpEZk1KZldrajFwdlJXNTV2cVlnT0hPbUFaeHUyS3NuRlZtLXlaVWRTbWxz?oc=5",
      "source": "اليوم السابع",
@@ -326,14 +334,6 @@
      "time": "2026-11-15T22:31:49.000Z",
      "seen": "2026-11-15T22:54:29.968Z",
      "impact": "يؤثر الترقب على قرارات المستثمرين والمدخرين بشأن عائدات الودائع البنكية وتكلفة التمويل والإقراض."
-    },
-    {
-     "title": "مجموعة غولدمان ساكس إنك تخفض توقعاتها لسعر الذهب في 2027",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN3g2NGUybC12a0JvQU9vanJWV2toQ0JkT2VZRnk3Ql9OZnQySVZ6Ry10RlpYUGVYRzdQUXdYU0Nac1RCZ2hJdGYtY2o4S19DcTVmVnBRVV9JMzhfVzR0Q1ZudFBtcHpzdXVmRWM1UQ?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-15T22:27:34.000Z",
-     "seen": "2026-11-16T01:34:29.592Z",
-     "impact": "يساعد المهتمين بالاستثمار والادخار في مصر على متابعة التقديرات العالمية لمستقبل أسعار الذهب كأصل استثماري."
     },
     {
      "title": "التنين الصينى عالق بين ازدهار الصناعة وركود العقارات",
@@ -407,6 +407,13 @@
      "seen": "2026-11-16T04:14:45.910Z"
     },
     {
+     "title": "شاهد.. الصين تنجز أول رحلة تجارية مأهولة لطائرة كهربائية",
+     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTHdGVlNqS25UeTNmSGd6WlVnZzFPX2FUY0N2QkR4S29qZFlTQkt5em9hUV9fR0RfRzRTbEZkTVphY2pHcUF1Tm1RN005czBUdmdXY25fczRPRHFXZjNuT3VGRDd3dzM2X2U2eDIyWFZuZmtfTmdqUE1waE9rb08yMmxJbjlNRmU4X0ZWV3NnYXJWaEJ0ZEZFeUpKM1JCYTZzQnp2ay1oelloSFZYLXFxNEgtVFpDcVg3YlNXYXpfd0dLQWhiVmJ2dXc3QUs4WWVEX3VFNjJBeEJ0U3hMQlZqLTktR2xGaUdkbHF5RURHdUpmNE1QT0dFWE1jSmpQazQ0V1hsVmRaX0FNYmJKY29wZXBuc1JSdllzekxpamJIRFJCRTJhSjN4NThBLUs4R0lXTUhZSmpnNU9zQnFYS0FIVWtmeElYQ284d1N5XzF5c3BYTkhVWmZpdmtrcEhLSEZpb1JhcUJjb2l6YUpxVERzV3hHTDQ0SDFVVzlWZUtBbWl4UEF5ZXI0TFdzb1BGeVZkWFJEYmt2bVlrS2lSWnFoUUNjWlBYaW1ESXBFbDdvOHBSekdLU1d6bFRqbF9FVlnSAcQDQVVfeXFMTWt0OG4tME9SZlU1RmdaZDJWTzFrRjVwVkwyaVdLcXhiYjdxa3pEcGNpU080MDJkUFpBdmlYVE9VOEZYZ2NtTGtBWGhkMDJlUVFINEU5Q25CU0x5aGdaX214bnZsamphbDJwODhaS1lVbTlhZUNDaEFyZ0JBUHpKUGNqWTFncjdXa2d3VTJFVE1lb2I2NXQ0Um11enFiSlpjVG1kejY5NHFDcU1UZWdMd0xVQnZpWWpxMkdad1pWMnd5VTA5Y2l5M1IxNXhncVBwWGJFdUJNMVF6WnJxQmMwVmdRWGFidkswVWlJdUtRZDh1aGlaaTlmZWo1VVl3NkR4Y2drSXJBbTM0N0NMTU4zdXFfeEZ3RHBvMmd3a0YzNE1NMkJISURWRU5QWXFicWV6WFZEelVFQ0YxeDQ5RFEydFVFUlc3YlFVZUg0akg0bFRDMVYzcmdzOGZNSHJ4cDJubjd3a0VSblMyd3lOWWNQUHNZQlhEXzdJOFRVWnBfaEt6aHg5ZU9UdHYyajllQ2xtUjhJQURCUGo0S0VaXzJiNktTNGt6SkFNWGo2T2VxdDZ3T3Flbl9RMEdUWm93YTVjTXBIeVY?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T03:51:07.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
      "title": "القضاء العراقي يصدر مذكرات توقيف لمتهمين في قضية جرف الصخر",
      "url": "https://www.skynewsarabia.com/middle-east/1904947-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B5%D8%AF%D8%B1-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%82%D8%B6%D9%8A%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
      "source": "سكاي نيوز عربية",
@@ -435,13 +442,6 @@
      "seen": "2026-11-16T05:44:45.655Z"
     },
     {
-     "title": "آيزنكوت بعد كشف حيلة نتنياهو: لا يمكن أن يبقى دقيقة في الحكم",
-     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZkNmalp6N0lpQk45SG1zZE1kUjRoUDBiZXJyY1FQMU1PTnp1M2c4bER5TWJqU0theXJOcXVhN0IwcVBWMGxDYWlwcmF1Ul93OFV3NnQ4bkNfRkF5d3YtOXBLQURpTWMtaWlDTUgtYkZQSXpUZkZocXV3elVldm5hY0VnZWtrVmg4Vy1vbjFfaGhZckp2YzI4cG5lSksxb3dmcGlNZ1BzeFlwYzRiNUxGbThYdTB0NjY4X3hWNUgxMWpSdm9DYjJvZjc5Qnl6OExub25yYm9KNVZZb3R2X2kzckd1VG9LR0RRSnlpRGdsUEZ5NmlZamlIMnNVY29BUlB0U255YndqUjU1dTdXbGJ6SzJqdjFwVzl6cUxTTkJXbUNCSTR1VDd4ZndhelFLYVdlWEtqTmprY3BmVEtCMEctMFpDMWR5NXdpUnVpaC05T3E1ZUtTQ3lTRWo5bXlHSVR0LUt1ZEg3azktbDBNQ0oxcnRubTJHeVZFeXRZdm5jaXAyTWxSeWs0LVZ5VFY5enVRZTh0SzhFaTN4QkVUZ1FfVdIBpgNBVV95cUxNNlF1cXNCSjlkYUVjcjJObjhJOFZWOF9zOG0wZDRJcURrdlBfZnVFUkk2U2RjZHRQM2h3eUpyNXRmdTRTTklLdTRSMDhNanRWVDk5RnhuWmlsSkt5VXNNc3VzMG84TWRVMy1FNVE3cE0taFFVZDc3aEN1OVlEQ25GdW51dlQtOVJUb2F2ZF9vRmhOYmtzVDlKMzBWMkJwMl9WUkI5Sm81WDdyanJJT2ZNSXlhbTN0SFRGcjZKOHU5SDlzWEZrMXdzU0ZGSFNhNG51Z05mRVRRV3kzV1lGWkg3cThVYmd6d3Nuc0NVZ2h1dkJNZmloY2ItTTBQS0x6c0F5djRna1h1LXhwd09URUY3Mm8tY0ItclFUOGVxRWpjeU5jZ3pSQ2xTVHU0NkZQV2xoN0lnQzZReno3aElCV0FNbUVSU1dOZ0dpOS1sNGZNTUx0R1hYbzRjM183bUZxWGd3eWNwY2NYNktObnhPcjFGNW1xanhtRnlKSU11enN0LWp4d0YtOXVuNlhYTEd5d1YyU21vOWcyemE1WkpaMFBOdWRZbkZkQQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T01:39:16.000Z",
-     "seen": "2026-11-16T02:24:29.590Z"
-    },
-    {
      "title": "تقرير: إسرائيل اختطفت جنرالين إيرانيين لكشف مصير طيار مفقود منذ 40 عاماً",
      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPdHBlRFJMUDJiRUFfQUQ4a29Jdk9vOERSZEIxVW0tTjYzZ3dTdDJ4dkc2cDFBRVZXWGM3RkFDeW9nY1FPRHExMUtla0ZjYmJVMFlYZFZuNWQ4N0xwVE1oZ2h4TWdtbC02UTNQd2MyR0dWQ2ZtQldfbjM2TGdZUlBvVEJkQjYxejZuYi1UaklKZEFCUGl2b19WR2JEOFg3M1RtaWFFU2RybWZvWk40ZFRNNUdxczJUYnc5RmdWWUhaQzRQRXdQUG5HdjhwTWx3MnEwMnU2TGttaFVJVFJmc21TdDVTVWt1bHBFbzR5NVplMllKeGFyNzZ3MmN3RlFjX0gxMkdqbkJTVWQtd3AyVkxhWmZOTUtDQ3lpR1UwMWxVRUllb1dsUUNkX2VTMTBzS1NsVmx5R3ZUNnB0WTJLUWRHbmVCbDBFb3RiWDE1a2k2Q2hhWm5HTDc4XzljMUJ3U1ZEQnNoZHl0eXQweDdYWHRmYnRlMERQSFhaU0M0bVJVeDZvUE81eTAxYmdGb2NUVy1ub1Q5cDduY0VlcG5FM2YxUWt5V1JiUnJxekRCMUE2N3JERzkydHJQMXNKYVhRSGNpN0lDYVNBTjVGc1l4VHU5TXJUODBfc0VhOVZvMUM2akZwN05GZGpSd01lUnhUcnVaZV85bkl3UEs0OVE1R1d1YlJuSlozak80ZnJNQVNTbjc0TzF6Tms1bFdUT0dmcHhBLUY4TG1IM1pKT29rZTVyRk0tZlJZbGZPTkRnb1dmWlVNNTRHQllaZXEzYU8tMWE5TnhFY2phaDBOMmwzZGJDZk96NVZmMHBiRnJGbHlXYXBmdGdKa3BXajRvZDg?oc=5",
      "source": "الشرق الأوسط",
@@ -461,13 +461,6 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
-    {
-     "title": "شاهد.. الصين تنجز أول رحلة تجارية مأهولة لطائرة كهربائية",
-     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTHdGVlNqS25UeTNmSGd6WlVnZzFPX2FUY0N2QkR4S29qZFlTQkt5em9hUV9fR0RfRzRTbEZkTVphY2pHcUF1Tm1RN005czBUdmdXY25fczRPRHFXZjNuT3VGRDd3dzM2X2U2eDIyWFZuZmtfTmdqUE1waE9rb08yMmxJbjlNRmU4X0ZWV3NnYXJWaEJ0ZEZFeUpKM1JCYTZzQnp2ay1oelloSFZYLXFxNEgtVFpDcVg3YlNXYXpfd0dLQWhiVmJ2dXc3QUs4WWVEX3VFNjJBeEJ0U3hMQlZqLTktR2xGaUdkbHF5RURHdUpmNE1QT0dFWE1jSmpQazQ0V1hsVmRaX0FNYmJKY29wZXBuc1JSdllzekxpamJIRFJCRTJhSjN4NThBLUs4R0lXTUhZSmpnNU9zQnFYS0FIVWtmeElYQ284d1N5XzF5c3BYTkhVWmZpdmtrcEhLSEZpb1JhcUJjb2l6YUpxVERzV3hHTDQ0SDFVVzlWZUtBbWl4UEF5ZXI0TFdzb1BGeVZkWFJEYmt2bVlrS2lSWnFoUUNjWlBYaW1ESXBFbDdvOHBSekdLU1d6bFRqbF9FVlnSAcQDQVVfeXFMTWt0OG4tME9SZlU1RmdaZDJWTzFrRjVwVkwyaVdLcXhiYjdxa3pEcGNpU080MDJkUFpBdmlYVE9VOEZYZ2NtTGtBWGhkMDJlUVFINEU5Q25CU0x5aGdaX214bnZsamphbDJwODhaS1lVbTlhZUNDaEFyZ0JBUHpKUGNqWTFncjdXa2d3VTJFVE1lb2I2NXQ0Um11enFiSlpjVG1kejY5NHFDcU1UZWdMd0xVQnZpWWpxMkdad1pWMnd5VTA5Y2l5M1IxNXhncVBwWGJFdUJNMVF6WnJxQmMwVmdRWGFidkswVWlJdUtRZDh1aGlaaTlmZWo1VVl3NkR4Y2drSXJBbTM0N0NMTU4zdXFfeEZ3RHBvMmd3a0YzNE1NMkJISURWRU5QWXFicWV6WFZEelVFQ0YxeDQ5RFEydFVFUlc3YlFVZUg0akg0bFRDMVYzcmdzOGZNSHJ4cDJubjd3a0VSblMyd3lOWWNQUHNZQlhEXzdJOFRVWnBfaEt6aHg5ZU9UdHYyajllQ2xtUjhJQURCUGo0S0VaXzJiNktTNGt6SkFNWGo2T2VxdDZ3T3Flbl9RMEdUWm93YTVjTXBIeVY?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T03:51:07.000Z",
-     "seen": "2026-11-16T05:04:45.881Z"
-    },
     {
      "title": "دراسة: ارتفاع بلاغات مواد استغلال الأطفال المولّدة بالذكاء الاصطناعي بأكثر من 8400%",
      "url": "https://aitnews.com/2026/11/16/ai-generated-child-abuse-material-reports-childlight-2026/",
@@ -562,6 +555,13 @@
      "source": "عالم التقنية",
      "time": "2026-11-15T16:08:18.000Z",
      "seen": "2026-11-16T04:04:46.139Z"
+    },
+    {
+     "title": "التحالف يعلن اعتراض وتدمير طائرة مسيرة بمنطقة المدينة المنورة",
+     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOS1dHTlhHdXVwSVRRVWhCa1cxWHo3cWNqcWNtNzRITkdfV3UyN2I1d2YzT3hPdlQxZ3VlaFlVVVNyZ3BUSmFLaFBWOE5pamIwclh1YTJDc1JFaUlXRkJtQkM5Q2ZsbS1NeThQWnpLU05XaDE0MlVXQzN3dEtua01SZlBIODQ3Z2sxTzBTY2k2NWF5NWF4ZTNWRlpaejBBcUgtZThEZlRjOHF0RHdhODhXQU9JNkRHUUJrUk1ZSDJONnhZaWpOZjRPWEVKQ3lpSTAxZTV6VUc1QlljMzRPRHB3ZWpUcVBQU25Rb1dfY09LX3dudUI5NGNFVDFScjNnbDV6aHpQU0hRVkE5WlVaZVV4WVQ4YkhPaTliUDFFX0E1bFkyei1BMEtoZmwxYjZfOUpxaEc4WXI3c1JwbU9SN0JrOVhnNVdLX3F2V0taOVJhb0F2ZHJaZzNYaGpqdHRNblItNW5haUl0ZVp0eENRVGZLTFdZUXN1R2ZZS0Y4LUZVTUdvYTNZcnNCSmhJendRNWNjRS05clR6cVBRbl94ZkdTNHdGMDhrWXRDUVNWZE5yTWNBem05SVFwUExFcUNWd0Q3RW8zUnJydFZvbE44MmZpNkRsZEhyVGVpVktscXh0UHlTTlFxWjJhalpxWndHRG1uaG1qQ2pDOTRmTDhDM2JEV0Z6YmR1S2ZOSkh0RXNB0gGIBEFVX3lxTE9aZ29DUjhCVldtTWZHZGFqMXFhVDBNckIzcVFSOEdtYnRaSnVMY0loQ1kxUVI1dG1zeFpDb2NJeXVvNmNNNUIxZE9QZ3NkaDhuTUt3YnM5VmpYeS03YV9mM2ljOHhPWGdyQWZxcGRReldfNXdZSDJyWE9yY3pYWUloMy0zOFF1LXFGX1VTQzhETmZWLXFZcTN4OXJkcUc1N0FDaFg4dzlwbmFSUjM1dnpBSUZqMUVJTDlFbGZZU19salY0VGpIYU9VUzFtYmVuVEs5d0FZTHZqdGJhYmlzWXdEeXgzNGRuYUwtUElqc2QzZzNDWVhJS19xLVZHc1BpSkh1Z1ZMTm83TFlhbEMxeTg3aFU5T2pGZFRDdXA4QXI2enIxYjc5eHlIYnFOcFlWbzdzc2pMTHByNGx0M1QzZWhaLWV1VEQxb1FxSzlpa21nWjNhck1wVkxTNldLcDVUMDU1a3lma3F4c1VIMllvRTJUaU13dGRRaFBtemxEVTJoclNUMy1BOXplZ0NEYU9nY0k3LWd6THZ2c3ZGdWhaZFZJM2Rwd1diQ3ptYlNKU2piN1U2dW1WZ2Vrd1JrWUlYUjA4Z3BhRVhEZGZFNmxMZFFaOFNvTmJ2dlhXRC1teG84TjBmbHVZTTZMTmFrZFNic3VNamtvX0R1ZDZrU3c3ZHZVWHZoQktaWHY?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-15T15:58:00.000Z",
+     "seen": "2026-11-16T06:14:45.630Z"
     }
    ]
   }
