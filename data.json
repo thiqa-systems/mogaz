@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:07:18.050Z",
+ "updated": "2026-11-16T17:17:17.975Z",
  "minute": [
   "التقى رئيس الوزراء المصري بوزير التجارة الهندي لبحث سبل تعزيز العلاقات الاقتصادية والاستثمارية بين البلدين.",
   "أعلنت وزارة التربية والتعليم إتاحة نماذج استرشادية لامتحانات الشهادة الإعدادية، وسعيها لإنهاء الفترة المسائية بالمرحلة الابتدائية بحلول 2027/2028.",
@@ -10,7 +10,9 @@
   "at": "2026-11-16T16:57:17.975Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-16T17:17:17.975Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5832,
-   "change": -0.12,
-   "asOf": "2026-11-16T16:57:14.000Z",
+   "value": 5839,
+   "change": 0,
+   "asOf": "2026-11-16T17:08:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6658,
-   "change": -0.12,
-   "asOf": "2026-11-16T16:57:14.000Z",
+   "value": 6666,
+   "change": 0,
+   "asOf": "2026-11-16T17:08:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3865,
-   "change": -0.54,
-   "asOf": "2026-11-16T16:57:14.000Z",
+   "value": 3870,
+   "change": -0.42,
+   "asOf": "2026-11-16T17:08:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1007,
-   "change": -0.39,
-   "asOf": "2026-11-16T17:06:46.000Z",
+   "value": 1.1014,
+   "change": -0.33,
+   "asOf": "2026-11-16T17:17:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.38,
-   "change": -2.57,
-   "asOf": "2026-11-16T16:57:12.000Z",
+   "value": 93.34,
+   "change": -2.61,
+   "asOf": "2026-11-16T17:07:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7467,
-   "change": -1.26,
-   "asOf": "2026-11-16T17:07:20.000Z",
+   "value": 7463,
+   "change": -1.31,
+   "asOf": "2026-11-16T17:18:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64836,
-   "change": -0.72,
-   "asOf": "2026-11-16T17:07:18.000Z",
+   "value": 65052,
+   "change": -0.39,
+   "asOf": "2026-11-16T17:18:00.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأهلي يستقر على ملعب تدريباته الجديد بقطاع الناشئين في مدينة نصر",
-     "url": "https://www.elbalad.news/7183225",
+     "title": "شكاوى من انتشار حشرة البق بمدرسة بالتجمع ..والأهالي: أولادنا وبيوتنا في خطر",
+     "url": "https://www.elbalad.news/7183235",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:06:49.000Z",
-     "seen": "2026-11-16T17:07:18.050Z"
+     "time": "2026-11-16T17:15:44.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
-     "title": "مدبولي: الذكاء الاصطناعي يفرض مرحلة جديدة لحماية حقوق المؤلفين",
-     "url": "https://www.elbalad.news/7183226",
+     "title": "أبطال «المراعي الصيفية» يحتفلون بفيلمهم في مهرجان القاهرة السينمائي",
+     "url": "https://www.elbalad.news/7183233",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:06:04.000Z",
-     "seen": "2026-11-16T17:07:18.050Z"
+     "time": "2026-11-16T17:13:24.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
-     "title": "ضبط 2 طن و740 كيلو لانشون وجبن ومخللات مجهولة المصدر بطوخ",
-     "url": "https://www.elbalad.news/7183005",
+     "title": "رئيس الوزراء يشهد افتتاح المؤتمر الدولي للمنظمة العالمية للملكية الفكرية",
+     "url": "https://www.elbalad.news/7183232",
      "source": "صدى البلد",
-     "time": "2026-11-16T17:05:23.000Z",
-     "seen": "2026-11-16T17:07:18.050Z"
+     "time": "2026-11-16T17:12:32.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
+    },
+    {
+     "title": "نقيب التمريض تنفي تمييز أخصائي التمريض المكثف في التكليف",
+     "url": "https://www.youm7.com/story/2026/11/16/نقيب-التمريض-تنفي-تمييز-أخصائي-التمريض-المكثف-في-التكليف/7621242",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T17:09:00.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
      "title": "مدبولي: إنشاء الجهاز المصري للملكية الفكرية خطوة مؤسسية مهمة لتوحيد الجهود الوطنية",
@@ -200,14 +209,6 @@
      "time": "2026-11-16T16:55:00.000Z",
      "seen": "2026-11-16T16:57:17.975Z",
      "impact": "يهِم الطلاب وأولياء الأمور في مصر لمتابعة النماذج الاسترشادية الرسمية والتحضير لامتحانات الشهادة الإعدادية."
-    },
-    {
-     "title": "التعليم: نستهدف إنهاء الفترة المسائية بالمرحلة الابتدائية خلال 2027 / 2028",
-     "url": "https://www.youm7.com/story/2026/11/16/التعليم-نستهدف-إنهاء-الفترة-المسائية-بالمرحلة-الابتدائية-خلال-2027-2028/7621223",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T16:53:00.000Z",
-     "seen": "2026-11-16T16:57:17.975Z",
-     "impact": "يهِم أولياء الأمور في مصر لمعرفة التوجهات المستقبلية لتنظيم المواعيد الدراسية في المرحلة الابتدائية."
     },
     {
      "title": "مباشر.رئيس الوزراء يشهد افتتاح المؤتمر الدولي للمنظمة العالمية للملكية الفكرية",
@@ -273,6 +274,13 @@
      "impact": "يهِم المستثمرين والمتعاملين في البورصة المصرية لمتابعة تسعير الخطوات القادمة في الطروحات الحكومية."
     },
     {
+     "title": "أوروبا تسابق الشتاء لتأمين مخزونات الغاز الطبيعي المسال",
+     "url": "https://alborsaanews.com/2026/11/16/2006893",
+     "source": "البورصة",
+     "time": "2026-11-16T16:32:52.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
+    },
+    {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الاثنين 16 نوفمبر 2026 ختام التعاملات.. تراجع في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdmp5MDJ0Z2F6aUJ2U0xBU0lpSEVSS0w5MTNxVXFTN1ZfU2xrdEJxNGJzbjE3aTlnd1lEMGl6d2RoVWdsZUxKNEZEU1VTTHlYSDhBeWZmWDRBS1M5UnY0?oc=5",
      "source": "المصري اليوم",
@@ -304,31 +312,31 @@
     },
     {
      "title": "53.63 جنيه سعر الدولار فى بنك مصر اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTlhJLXlwYmJxMUdiVlNMZm50aFdIWlJuWWZQd2VNYmtCNUE0OTNhaFYtUXgwakc0RE5LNWpOakotV1hxNVJyTGVuRkNMX25GRDlCOTh4VFpLRTdndHg1QmxVUk4wNW9rQUhOUHFtM29ublA4MjBOT2YyUU12bURFRDdqWmVHVUxyNk4yZ3l1Qk91eEd2TmdzcUVCTmJHTWFPMGJ4LVNxZVpleGdKWlVlODhBVWxiWldlRzNJemY1T1BZR1Fydnd4TzhPRWppMllfSXRsQXUzcWR1LTkzMWtrNkxIVDdSWGRFaHR3bFhxUzAwaFRURmpPZmNkOGZGS2xNQjVpQ0Z2ZmxjeEZWRG1ZYnVfU0wwcXRxeGtQYmJhbHJlZFpRY3gzNjRIakcwY3lOS2xlUlJ1a0F0d1BlNW9WamRRaTZsbTR3SXVBRWxwQ0ZhdnpuQ0t0NEZwQ2t6UEdyNkxxODZMY3Rpd2RuVlluZndrNDVjUnhZZm4zatIB9wJBVV95cUxNQlFoLVV5VmRqbmdiaVRicUktU3ViLTZjQy0zYWJfOFZveGkxYzJIR2g4c0xCb18zSFV4VnQ3aXRQRnU2UzRSdDlCVm9YWUc4ajVHYW96UmNWQTE4ZERIbUV6aDhUZmRCMVVoOF9GTHVmSUFzRVJGWWpxM0xNaFQ3bmdERzFVNjZxVUVRUzU5TUZSWkVueWQ3aEl4WXc1ZmJlNEFwZ3gzdV9POFI3RVpzWXh6NDM4Wko3RkxzOThEY0dUNl9td0VGOHFnUlI2OXM0SGNjdVpKM2M1VHd3N0xVSjJiN25nSWFuNXEzZnQ3bjZkLUc0Yy0tVC03T3NBQ2JMRmlQeFg0LWVJci1FR2s1SUloQXZsNXozV2FDWmpVelluTHVpTXpTb3V4VWxIXzVOU083MWVCVmwtVDFJcExTaTdYcHRTV3BJUXpRV3hESW9qc2FrckE0dkpmd2dqUHQwLThKQmlrcG9FQWpOSE44dGstdGUwTHc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQlFoLVV5VmRqbmdiaVRicUktU3ViLTZjQy0zYWJfOFZveGkxYzJIR2g4c0xCb18zSFV4VnQ3aXRQRnU2UzRSdDlCVm9YWUc4ajVHYW96UmNWQTE4ZERIbUV6aDhUZmRCMVVoOF9GTHVmSUFzRVJGWWpxM0xNaFQ3bmdERzFVNjZxVUVRUzU5TUZSWkVueWQ3aEl4WXc1ZmJlNEFwZ3gzdV9POFI3RVpzWXh6NDM4Wko3RkxzOThEY0dUNl9td0VGOHFnUlI2OXM0SGNjdVpKM2M1VHd3N0xVSjJiN25nSWFuNXEzZnQ3bjZkLUc0Yy0tVC03T3NBQ2JMRmlQeFg0LWVJci1FR2s1SUloQXZsNXozV2FDWmpVelluTHVpTXpTb3V4VWxIXzVOU083MWVCVmwtVDFJcExTaTdYcHRTV3BJUXpRV3hESW9qc2FrckE0dkpmd2dqUHQwLThKQmlrcG9FQWpOSE44dGstdGUwTHfSAfcCQVVfeXFMTUJRaC1VeVZkam5nYmlUYnFJLVN1Yi02Y0MtM2FiXzhWb3hpMWMySEdoOHNMQm9fM0hVeFZ0N2l0UEZ1NlM0UnQ5QlZvWFlHOGo1R2FvelJjVkExOGRESG1Femg4VGZkQjFVaDhfRkx1ZklBc0VSRllqcTNMTWhUN25nREcxVTY2cVVFUVM1OU1GUlpFbnlkN2hJeFl3NWZiZTRBcGd4M3VfTzhSN0Vac1l4ejQzOFpKN0ZMczk4RGNHVDZfbXdFRjhxZ1JSNjlzNEhjY3VaSjNjNVR3dzdMVUoyYjduZ0lhbjVxM2Z0N242ZC1HNGMtLVQtN09zQUNiTEZpUHhYNC1lSXItRUdrNUlJaEF2bDV6M1dhQ1pqVXpZbkx1aU16U291eFVsSF81TlNPNzFlQlZsLVQxSXBMU2k3WHB0U1dwSVF6UVd4RElvanNha3JBNHZKZndnalB0MC04SkJpa3BvRUFqTkhOOHRrLXRlMEx3?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-16T16:00:00.000Z",
-     "seen": "2026-11-16T16:07:17.512Z"
+     "time": "2026-11-16T16:02:48.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
-     "title": "«ميرسك» و«هاباج لويد» تعيدان 3 خدمات شحن إلى قناة السويس",
-     "url": "https://alborsaanews.com/2026/11/16/2006903",
+     "title": "“هيئة الدواء” تبحث التعاون مع «روش مصر» في التحول الرقمي وتوطين التكنولوجيا",
+     "url": "https://alborsaanews.com/2026/11/16/2006926",
      "source": "البورصة",
-     "time": "2026-11-16T15:24:20.000Z",
-     "seen": "2026-11-16T16:07:17.512Z"
+     "time": "2026-11-16T15:47:34.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
-     "title": "“النقل” تبحث مع شركات هندية إنشاء ترسانة لبناء السفن التجارية",
-     "url": "https://alborsaanews.com/2026/11/16/2006895",
+     "title": "«الإسكان» تناقش تعديلات قانون التصالح في مخالفات البناء مع «المهندسين»",
+     "url": "https://alborsaanews.com/2026/11/16/2006923",
      "source": "البورصة",
-     "time": "2026-11-16T15:20:53.000Z",
-     "seen": "2026-11-16T16:07:17.512Z"
+     "time": "2026-11-16T15:44:58.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
-     "title": "هل يواصل «EGX70» الهبوط بعد خسارة 3.76%؟",
-     "url": "https://alborsaanews.com/2026/11/16/2006899",
-     "source": "البورصة",
-     "time": "2026-11-16T15:20:04.000Z",
-     "seen": "2026-11-16T16:07:17.512Z"
+     "title": "ترامب يكشف موقفه من عودة هوانغ إلى قيادة إنفيديا",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPaXptYnA5cmNCSUFZZHRxb3VmRnRMcFc5V3lIalNUWklQU2plRGFjTzFYczBSYzRURWk0cjExVm50ak5XNGFET3RKVDNVeGdsQ255SkJLVkxIYnNTUXpfRGlPNHRRN0ltQUs1elRXUzYxcGd3STh6bUdkbmlQVGJlREt6cy0yTkRnMUJWTFFVMjBUTGV1eUhGY19uSDlvVUJPME9Yd2RuN2xxSnBLTVp2WFRuZzk4TTZHZ1A5ZW5fQ2swSEwyMjA3SjdKN19zdFlmbzRaNlR6dTEwTlJrMUJVRWhYWVM3LWRCWWVQR1NpQ0FYWFlLNkdwSmlRdW1Fb0RYS3lUYkpEZkFoelBEUHowampwVG90T1dQVmxEbVZUZ3QzR0hZS0k3bjV2MXJKR3RQVUVqLW95d0k2c3hDakFlUEswNkdpZUJyNTktQ2ZHNF9xRDE1MVg0OUpxYWR1YkxuSmE5aERtTDZjakN5dVhvQ0VZVkVaLU3SAfwCQVVfeXFMTTNodF9vRDNEVkh5RWxuWnA5SkhCN05QLXVpUWxFenFmcDVvN3B0ZGN6RHg5OVdtaFNzRzBFcDE1S2FnOFhXUDY2ZThkcF9udXdEY0ZBelhOVE8zaUJUTnZ3U3EwY2ZhUkI0OGloczdjU1dqTzlKZjE5RkoxbmlIVnFRTlVURHlLRTR4TTdfWDN6QnFHeDF4d0cxRHhZNy03MlJUYThEdTFWQUlWcXZsSGJxaEVXeE93V2JPUTNYX1FzcHBYN3pwWWNjeTBSMzktQ2tNVUloVlgxOGZxYWp5eVU3QUtvUWNpSWJmU1NhM1FfUVg0RW1hTWgtaVQxeEExUExva1I2a3FTZmFmS3A5dzR5UmpJMF9FOFpVQkIwTTJpZkVHZHNScjc5ZDVMdk1iTzRHZTJCSkp2dmVQRDFWMTVidWNrOTB0WlRtTlhMcmhteU4wX0prWWFBMG9zSUlhOTNZRjhwenp4dWl3blJaNU5DMjhSVU5VS0hsTm8?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T14:54:25.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
     },
     {
      "title": "البنك المركزي يبيع أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%",
@@ -337,14 +345,6 @@
      "time": "2026-11-16T14:45:51.000Z",
      "seen": "2026-11-16T14:57:17.830Z",
      "impact": "يهِمّ المستثمرين في الأدوات المالية للتعرف على عوائد وحجم أذون الخزانة الدولارية المطروحة."
-    },
-    {
-     "title": "سعر صرف اليورو اليوم الاثنين 16 نوفمبر 2026 في البنوك المصرية.. أسعار الشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VSk1MaEc4a0FNQm01NzlYbF9mdzZnNkgzLU5zY1ZvdkhwZHFmX1hwOU9uUFpCbmlqbEk1WXdkSm9uX0Rf?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-16T14:07:23.000Z",
-     "seen": "2026-11-16T14:16:23.237Z",
-     "impact": "يفيد الأفراد والمستوردين في تقييم تكاليف السفر والمعاملات التجارية المباشرة باليورو."
     }
    ]
   },
@@ -352,6 +352,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "قاليباف: لن يعود الهدوء إلى المنطقة دون إنهاء الحرب في لبنان",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/iran-is-giving-attention-to-the-lebanon-file-in-negotiations-to-end-the-war",
+     "source": "CNN بالعربية",
+     "time": "2026-11-16T17:08:10.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
+    },
     {
      "title": "بعد 35 عاما.. \"المينورسو\" تبدأ الانسحاب من الصحراء المغربية",
      "url": "https://www.skynewsarabia.com/middle-east/1905134-35-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%8A%D9%86%D9%88%D8%B1%D8%B3%D9%88-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
@@ -402,6 +409,13 @@
      "seen": "2026-11-16T15:17:17.681Z"
     },
     {
+     "title": "آيزنكوت: نتانياهو لا يمكن أن يبقى «دقيقة إضافية واحدة» في الحكم",
+     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOWXJJRFM1NHFtcjNSWEtkUDRQeE1nTmx4ZGFsWm5FR1ZhVktJR0hXMDdzOGNyLVNySnlSVGhDX19OcGg4MU40MFFHQTAyUnRHSVpLckJPZGMwcFlmbklLeHUyOHNGSFlMa2lKV3Rjdm9uSURJcXBjTnlwZjZWeGRseWxjVWVrRVVNQV8ydHpTZi10ajdZb0h6UnB0MGRlQmxRUjZsZHF0Z0R1MlllNlhCaWlYd2s2ZFpzS1ExYnFTY01HUGt1Q2dCbWlhOU5XZEhXVmlNRjVxXy14UXlNRlNNZmlXUy1GWUU2cWNFZ1B3N0cxbGpyNlcwbjd2Zjd4WXFITlcxckg4Z3pvcUZZNzh4bXpfQVdZYUw2V3BxN2hYZWxsamlmSjRNczVVX05FQXFPM1AxSEl3ajJyRW9YOXNCOHcwUEZBUDFhVVFZa2RRQmZEOE5xeWJiOFVuNDF4ZW5FNW9EWHdzNklQUjZ4OTAtN2pzaWd6TG1MZjFzMnEzWnNGYjJWUWZCRGt4U2djbDhPVTNaSFR6V1RLaEI4eUphTEFiTzJYTDdpbXBvMlgxb0JvOUoxNURQVlBIazVqV19OX2JLQ0w2a050cWZXZVNhejgtN3NKcUNjdU51ZV9RMmVudHQxbnNmaW9WeEdzRnNiUkVUZTFlcnFBQTdYZUlEMUJaRUluV01wTk1rQjNUc0E4amd1VE5PYzhmTVBEQzJxcXcwamRLVFE2SDFQRW1aWThzaFdqU1Y2?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-16T15:04:30.000Z",
+     "seen": "2026-11-16T17:17:17.975Z"
+    },
+    {
      "title": "ترامب وشي وبوتين على طاولة واحدة في أول قمة ثلاثية بالصين",
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQbzh1YXpoS2doZXVUUUhiN2ZWUzBBZVZBeDRialBoTzFEQTFDd255MDRvcThyYmNWOGdLMklNc3VzbmpTdnFRU2l4YWRuQlBnZDIwTTZNQUZIWkZuOWtJUGZaRmd0QndNSXBCX0Vpb3ZVaE44VTdlVnFURmFNeVFHaklwUGpIYzFlWTRWWnZWX0xkVHljWHl5R1hFWVNoajU2UUtabkhmcTJ4UHg4akFNMV9oYmRQeWd2TTdtekFmcDVBQVZkZk00MWozQnFoQzhmaWg4b3o3NnNNS3NSb2d6QkFIeV9ZTUtIdnJ1bThmN01HblNKMDlKQ3dhNzJsczRheWpSdnNZd3p6LWlmRHNadHlSc3FYc1Fxa1VXUTg0THFSWTc0UWRYUEdBbVNnODZlNjVUbG9FNWtzT0JzLTk3bzBnVk5ySmZMeGFfMmNZTmt0NGNycXVRYVhGLVhkOGtuT1RtLW1fVjFQODIzbng1VWpOckpmOURwZzE0R2YyVjlPSnBrNS1XOTFycUx3NkhDWG5HWlFaSExXQkZOVVdnOS1WZW1Vcl9WNzBUM29wamlqZWtyc3ZjZFFCbW9ZRGtZWkVMcEVGUHRDTEFLTDFJMHNWMEE2X0hyM2JmRFRLSkM0QUpYSjBr0gHsA0FVX3lxTFA1WVNxVElsSW9zdU1SenRpZnlieWtkSDZmQUJlSm9QU0g2U2k4b2V6WXlmdEtCVkl2YnZyRVVBazVVYjJzSGRGZU13UzJVdmdwUjdCUFZ5UW1EWUVscF9SVGdXeW0ybUVBWE5nTENMX2VmVzExNHFtemJabERfR3QxbHpPZ2QwYkJGR2Q0czUxSTA5bDlRV29hUHcyWnJuaV92SEhFSjE0YkVTTjRTS1RpWmt2aE8ySWtfX0JCd2hodS15M0V5NnA0NWpUMmwxU0RNY2pRa2hZTnNVbE5BRUxtUnk2NWJkOTFYc2p5X01yUUFvOTMzZXpleTNDR1pWSkc5YnZLNUhrYVNGdFdBU1o3NUxMSXdfcXNTTDVVMFpSakJDbGRqb2JqZTA0STliRHYxRmtvUEFTQ1RMUkc1bmxNbGdGSFdzY3A2RzZmNXRXcmtmUnVjVTN2RTBmX0xYd0JsSmlHNW8zRTdoREJOcW1LNnpfX3gtTGtiQl9ZYzZNUGpZWFdUUjMxdU4zNXVlckNsZ21vR1duRUtUNy1paFRIT0c5Z3EzTE1fN291Z1RybGJndmg0Y0g5NEtmRXdvcG5GaG9kWnMtdFFHQTNYUVhqcmRpV2VfeW9JOFI0YzRLbDVQdmxSUzh2UTNvcg?oc=5",
      "source": "العربية",
@@ -435,20 +449,6 @@
      "source": "BBC عربي",
      "time": "2026-11-16T14:18:14.000Z",
      "seen": "2026-11-16T14:26:22.411Z"
-    },
-    {
-     "title": "حميدتي في غبيش.. والجيش السوداني يواصل التقدم غرب كردفان",
-     "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQYmd2Uk1qOEpxY3hSbkpkYmktSXJUcHVWbGlPTUo0Smplc0QybjRyWWtZc2RYZzlKcEY1RERNamZHT09xX3JESUFOWEc0c0FuV29lRGY3X0pPSTRFc3M2Z3gyUk9sNGNfTUMzUldJS2lwOHhZeGRWclUtalZoSG9vY0dJV3VBUXBiNmhCNVh1QTloVng0c3dTdk9MQ29wUnJRMklJWTgxWm5LaWIzdmlIMGxVWGNxV0tiNmgtMkJrYmdWT2xKME1sNGVZLWpKWkVfT0R4Xy1iM1p3N1Y5WjFUSGRkS1BZWGY4UVViQi0yZjJrb2RxY0V4M2kyVnpOMlgtdGVzN0o1MTNkdDgwOE14WWlmX0Y0Y1VTTnhaUld0LTctNVdlb281VWVrdEZlWVloRjBJaE1PREJfZHlCZ2dZeXczY3Y4MC1XYmhKZi1iYk1WRDRuOXNrUF9TVDJMUGd5Q084QlY3ZVQ3cndzUHR5S1ZoNG0xRzJyRDhpYVdyRi1XSDNsbVJsMHpPTERVYjRfLVNkTkR6QlhzTjZobENOUk82R2Zjb3dhLVV1TldQVjJta1F1LXU3azNTQkNnMXEzUEdlTDFYZk94cFN6OHNTcTU2aXMxOXFnT1VhUWxiM3VYdVNX0gHqA0FVX3lxTE1zWTNJQ2xiVC1xLVAxaGtTSHFKeWMxZmlKSEYyUVJSYzFNRjlzVGh4N1A2WHhXRFNYcUhzN3c5eEwtdjk3SlN1VHlFRzJDS3YyeEw5d0lfSmNzSERpWDhtUDVfczAzWE1TWFJ0R0ZWT2lkY194WklfYWlnMFVpZ2dpZVMyYnVMTVRXWjRBRWVYaFpIeU1ManFkZDk4TXFQa2hNdTVNRnNnS1lvT1EzaDdpWW9wUHZOVWc0ZVllcTk1bkhIR1ZwVHdjaXVVYWUtYlhoaFJ2emhMa0E0X3NQSWlDUFMxN1FwODA2S1NjODIzT1l5YTZQWmRNVXhlREdic3lXNXZaUXR4YUlIYXhOQk9PcUhUMlRlYzJweVh0VWdLelpFUzZ5d3JaTHVpeVVHendYZ2dJejFIQUg2SnpabzN5d3lDOEdSZXRzOWtnUGE4Tmpjc0JqZkFlSkxZWHY1MHMzUFdHSGVBVHB6S3ZDdGtSNU9JYkJvNzhPSXl4aUdwcFdoZXZxcG5YeDBXNGxoSy1NeXo2bmRaMUhKTXBnVUhkTDRPcElKYmtOODdFNGpnZjRnSUNpamhSZlRWTDNVbnhGWEQ1YVFiR3VzRXB5WV9aWTlJemFxYUdtOTk5SVVweWxRUTVJbkM5cnc?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T13:49:26.000Z",
-     "seen": "2026-11-16T14:36:22.497Z"
-    },
-    {
-     "title": "السعودية.. أمر ملكي بتعيين قائدٍ جديدٍ للقوات المشتركة ومستشارٍ لوزير الدفاع للشؤون العسكرية",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/saudi-arabia-royal-decree-appoints-a-new-commander-for-the-joint-forces",
-     "source": "CNN بالعربية",
-     "time": "2026-11-16T13:43:25.000Z",
-     "seen": "2026-11-16T13:46:23.345Z"
     }
    ]
   },
