@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:54:29.923Z",
+ "updated": "2026-11-16T00:04:29.420Z",
  "minute": [
   "تترقب الأسواق المصرية اجتماعات البنك المركزي لحسم أسعار الفائدة وسط تغيرات في أسعار الذهب وبعض الهواتف المحمولة.",
   "أكد مسئولان بالسفارة الألمانية دعم برلين لتحول القاهرة إلى مركز إقليمي للإنتاج والتصدير مع نمو صناديق الاستثمار.",
@@ -10,7 +10,9 @@
   "at": "2026-11-15T23:44:29.827Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T00:04:29.420Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5885,
-   "change": 0.79,
-   "asOf": "2026-11-15T23:44:29.000Z",
+   "value": 5902,
+   "change": 1.09,
+   "asOf": "2026-11-15T23:54:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6719,
-   "change": 0.79,
-   "asOf": "2026-11-15T23:44:29.000Z",
+   "value": 6739,
+   "change": 1.09,
+   "asOf": "2026-11-15T23:54:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3892,
-   "change": 0.14,
-   "asOf": "2026-11-15T23:44:29.000Z",
+   "value": 3904,
+   "change": 0.44,
+   "asOf": "2026-11-15T23:54:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,16 +66,16 @@
    "unit": "$",
    "value": 1.1028,
    "change": -0.2,
-   "asOf": "2026-11-15T23:53:45.000Z",
+   "asOf": "2026-11-16T00:03:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.49,
-   "change": -0.37,
-   "asOf": "2026-11-15T23:43:08.000Z",
+   "value": 95.5,
+   "change": -0.35,
+   "asOf": "2026-11-15T23:54:27.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65166,
-   "change": 1.62,
-   "asOf": "2026-11-15T23:54:28.000Z",
+   "value": 65327,
+   "change": 1.87,
+   "asOf": "2026-11-16T00:04:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "1450 عبوة مبيدات مغشوشة.. كيف تواجه منظومة التفتيش السموم لعدم وصولها للمحاصيل والأسواق؟",
-     "url": "https://www.elbalad.news/7182272",
+     "title": "مناقشة الشهود في محاكمة 92 متهما بخلية النزهة الإرهابية.. اليوم",
+     "url": "https://www.elbalad.news/7181993",
      "source": "صدى البلد",
-     "time": "2026-11-15T23:51:22.000Z",
-     "seen": "2026-11-15T23:54:29.923Z"
+     "time": "2026-11-16T00:02:00.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
     },
     {
-     "title": "جي دي فانس يقترب من سباق البيت الأبيض 2028.. موعد حسم ترشحه للانتخابات الرئاسية",
-     "url": "https://www.elbalad.news/7182273",
+     "title": "محافظ الغربية: افتتاح 3 محطات معالجة يسهم في تحسين مستوى الخدمات للمواطنين",
+     "url": "https://www.elbalad.news/7182262",
      "source": "صدى البلد",
-     "time": "2026-11-15T23:49:16.000Z",
-     "seen": "2026-11-15T23:54:29.923Z"
+     "time": "2026-11-16T00:01:32.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
     },
     {
-     "title": "يسرا اللوزي: بحب الأكل السوري والمصري ولازم يكون معمول بمزاج.. خاص فيديو",
-     "url": "https://www.elbalad.news/7182270",
+     "title": "مواعيد القطارات على خط أسوان القاهرة والعكس.. اليوم الإثنين 16/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/16/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الإثنين-16/7619196",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T00:00:00.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
+    },
+    {
+     "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
+     "url": "https://www.youm7.com/story/2026/11/16/قطار-تالجو-مواعيد-الرحلات-على-خطوط-السكة-الحديد/7619190",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T00:00:00.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
+    },
+    {
+     "title": "ما حكم السجود مع وجود حائل بين جبهة المصلي كالعمامة؟.. الإفتاء تجيب",
+     "url": "https://www.elbalad.news/7182247",
      "source": "صدى البلد",
-     "time": "2026-11-15T23:43:37.000Z",
-     "seen": "2026-11-15T23:44:29.827Z"
+     "time": "2026-11-16T00:00:00.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
     },
     {
      "title": "الحسابات الفلكية تكشف موعد غرة شهر رجب وأول أيامه لعام 1448 هجرياً",
@@ -164,21 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-15T23:00:00.000Z",
      "seen": "2026-11-15T23:04:29.792Z"
-    },
-    {
-     "title": "دار الإفتاء: الهدية بين أفراد الأسرة وسيلة لتهدئة الخلافات وتعزيز المودة",
-     "url": "https://www.youm7.com/story/2026/11/16/دار-الإفتاء-الهدية-بين-أفراد-الأسرة-وسيلة-لتهدئة-الخلافات-وتعزيز/7619318",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T23:00:00.000Z",
-     "seen": "2026-11-15T23:04:29.792Z"
-    },
-    {
-     "title": "أخبار 24 ساعة.. شروط الحصول على زيادة الحد الأدنى للأجور 8500 جنيه بالقطاع الخاص",
-     "url": "https://www.youm7.com/story/2026/11/16/أخبار-24-ساعة-شروط-الحصول-على-زيادة-الحد-الأدنى-للأجور/7619848",
-     "source": "اليوم السابع",
-     "time": "2026-11-15T22:00:00.000Z",
-     "seen": "2026-11-15T22:03:42.923Z",
-     "impact": "يهتم العاملون بالقطاع الخاص في مصر بزيادة الحد الأدنى للأجور للتعرف على مدى استحقاقهم وفق الشروط المحددة."
     },
     {
      "title": "ماذا طلب خال اللاعب محمد صلاح من وزيرة الإسكان في نجريج؟.. اعرف التفاصيل",
@@ -193,13 +194,6 @@
      "source": "BBC",
      "time": "2026-11-15T20:41:02.000Z",
      "seen": "2026-11-15T20:53:42.257Z"
-    },
-    {
-     "title": "الداخلية المصرية تصدر بيانًا بشأن انتحار \"طبيب المنيا\" وتكشف آخر رسائل هاتفية تلقاها",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkM3d0ZFM1dEb1J5eGYxRXU2U1ZaZnJMR3FHcjV4aURXUk5YR3lvNklHdWpOM3FxZ0tRMGwzek95NnhocWhwa0pkUnBINlBZN3RfZFBVQTk2NU1kQlVMSmRWamt2eng4OGZmNnhtWU1LQkJ3YzFXUTFrLTB1RllQVTlsemFzY250bm5jZ09JeGZwNEI5cWVCbDZBbzFQRHFiZG1MQmFnVzctLWZ2Zmx6MGFUU0FMOC1NYWx1YUtQUzZsdG42ZFBKQllvZWw?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-15T20:10:59.000Z",
-     "seen": "2026-11-15T22:14:29.375Z"
     },
     {
      "title": "الحكومة تكشف سر حضور مدبولي اجتماع زيادة الحد الأدنى للأجور بالقطاع الخاص",
@@ -236,6 +230,13 @@
      "source": "Masrawy",
      "time": "2026-11-15T18:06:10.000Z",
      "seen": "2026-11-15T20:43:42.301Z"
+    },
+    {
+     "title": "موعد تطبيق زيادة الحد الأدنى للأجور بالقطاع الخاص",
+     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPQlo5R1dNU2dxMG1MQ2lXVFVROW1CS3Fud0g3OTdxZm1vSzNhTXhlQ2lPWXZJRDd6SjdpVlFPVXNrWnB4Z2J2YWg3MXRPbTFkU21wbW1jQ0RULWxiMkRDMjVyX3duTXBDNDdtNnBDczh2aWMzX0lCbFktZWtKRFBwcUZGNmRxSE9oU0l1cDNvT29raXhoRTc5RlpOejVfUHZ2SXFpZVhfQlFySE14bE5LemxUOFlHR0Nwc2F6bERmbG5lY0hsWW1XQzc0c2lzbXRocEdDdnNtckwzdWlEajlxUE00akR2cHBEUFluYy0zTlNIbXVRUmFlMFpnWTNVb3Ftc243SGMtalVld0JqbW1OekpoMm40dmpXakdGc0RJZXJqMTgyYU5kUklXWHdwU1o4dG9zcnUweTlvaW96ZERBWWN6OGJxTVZxMW9oYnF0cVhqWXVrbm9FN295X1BfcUxlQThzM1VBczg5UTh4WU96UkJuVDFQZTVlakNfbDhKSXdfVjhsLXJtcV80b0RhQWxvR0MzcUpFb3h3d0paY0xUZE9MYkprb2pyLUNnZjZweFdSdEpwcGY2YWdPaklmMVdlZ1JBNTltV2RoQlRUWjlB0gHUA0FVX3lxTFBzODYzVmc5aEFyaGo5cjdTR3FyTU12YVhyQk9ocXh0N0YxRGI3NWVVMFFEYWpXUHVqRWpPeGI3V3Z5Rlc3QjRva014T3lna0lUUkRQU3F3b3FxU2p2MndjOVBtOFBxd0pMaXZnUG0xVUpwZER1RW9QbXJmS2FJR2Nsam9kU1Jrai1zbXROa2xfVjBZU01ra3FsMUxibVh3N1hPQl9tUjI3SGhCT2llV0Q5aWZnOHhTZTZUT2tvNUVIdlhoaE1WVy1nQkpGUmttZDhIMXd2elhBQlZOUVdXVENrQndTTllWRUtSb1pCTndMWDF3WlZrVldadlo4OWlPNGlGTFhGLUZWckRvbnlnMm55Yi1jNFJteWFuMEZuNVFjS0VjMHJoNjF0WmJPS3Z4cF9hbHRzWEJfb2lRSFJSc0ljbVlrcURlQ3hFaG9pWU1yZzNMZHBmUXA3bU1OZER3RnhkZHByOWZ5Q0RUSXMxQ2RaTGtmS0dQd1ZTM0VhZC1kcjBnY2ExOEp4SHdaS2Rpb2Z3RDNpYXpRdUlYSmJqckxEV2VhTGpUdXdsTVIxZ19KcHQ0bmpsOWIwUTNKc1VRVVFWSHFzenY0TnhGa2RDaEotZ2pTcQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T17:24:39.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
     }
    ]
   },
@@ -243,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "توقعات الذهب بعد أسوأ أسبوع منذ 4 شهور!",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IeHJEMVllUUlBdl93cjZrd0h2eGlwaDdYTUNIaTZoS0ZZaWFGZFNGOUw3N1FDTG50anZabEtwYkNSbU9rTzlXYnZpVmFsMHpwd2J2NUZFdzlZNTdsWmZzeTU0eGl1NzdBWDNiNldkQQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-15T23:43:22.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
+    },
     {
      "title": "موعد الاجتماع الأخير لـ«المركزي» في 2026.. متى يحسم مصير أسعار الفائدة؟",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LazRaWU5wUFFkTy1Ka2hQUFZCQW1lTDFPcXFNLV9Od2tCb2lTUkRoY0xTN29HVEdLVzJCZWEyX2RaWnFmcXEzR0tmN2hieEprMzRnWnlzWUFJSW1T?oc=5",
@@ -343,14 +351,6 @@
      "source": "العربية",
      "time": "2026-11-15T19:38:00.000Z",
      "seen": "2026-11-15T22:24:29.761Z"
-    },
-    {
-     "title": "ارتفاع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84RFBlQ1hlUklyOWt6MDV5TXBxVkRtc1RwNURVMnE0NTF4ckdab2I5eE9xdHk1M1VBallkN0IzR3VFZjIzVE9Z?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-15T19:08:00.000Z",
-     "seen": "2026-11-15T19:13:42.475Z",
-     "impact": "ارتفاع سعر الدولار في البنوك يهم المتعاملين بالعملة الأجنبية والمستوردين والمستثمرين لتحديد تكاليف أعمالهم وإدارة المخاطر."
     }
    ]
   },
@@ -464,6 +464,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
+     "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-15T21:55:06.000Z",
+     "seen": "2026-11-16T00:04:29.420Z"
+    },
+    {
      "title": "شعبة المحمول: زيادات جديدة في أسعار هواتف أوبو وهونر رغم انخفاض الدولار",
      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOR3huVVRKcFozY3dZT1VvR1pZOFBqLXdvRmwzOEpMdEU2bnJiLUp1ZFhLSjlaZml5UjNGRl93dXk3U0R6ZTJNRG9yd1g5ckg3bjhidXpjSXU2OVFtbmlZNDBXeVp3TnpLdDczQ1puVF9YeXA1c19pbzFQbDl0cDV6M2daNVk1V1A0amk5Ty1WdFlldDhUZV9Fd0lzT25HTjdzMHQxSTNmc241NFl1Z3NlRG1sTlhndVNLcTVGVE83eW9qZ01PaFlIM2syTGwyVUhnM2w5MmJZUkM0M1M4Ty1GT3JJbGdKbWVFVG53dVBBc3labXZZdGFZSzZ2NTFsc0hqMnM3eGtkbUo5UjJMZ0dXRmpPMXlKQVZJLVBGYmQ0ZjZwTkozbDE1eTBTLTRIZVV2Zk1xUTJvSXRnVHY3M004U1BHUC1MWFBxd3MtVW5tOFRzNEpDaFEzOFlFRUhhcnJGMVJVRHNBaHV5SG5wSjduYTBhTDVTOG1qaHc5d2NMczhudVVIcUtqS2dPMGVrVldvdG5sZVBYeDMyNkVfLVhFa3pRSGI0WFNsNC0zbzJQRkpQa3VEamdkenZ4SWllMzN2Z0FQUklPVTZVNEwyOUNDSnZZQ3BRZDdyaXZoYTQ3WVR1Sjg3c19YN0tLQm5hNV9lWl9VYnBNUzJaWnhrdEI4UzNWa2VBSUQySXVoY2RfSmNud0NCY2F0U1hpbi1YblpweGE0OFRkZ3E4RnhWTlhqSHQ4TEZxSFh2NVZ3QmtQY0RpUk54ekNramJ3aktOZ1ZyaWhqdWJLWVFIc0N3Yllj0gHkBEFVX3lxTFB6LVM2bnlVb3U5MVdHM3lBZkVQdTFaMGxackRtU0ZqY3Z1cTRKNkZqVFpuUUl2dUViTTdWWklCaE1QWEZCeG5JTFM3UVBxamloT19DaXIyRngyTXU3UW1kSmhuU3BtT1FlSjV4S0dTT2hUR05TT2VEaUJFUWpmWG1qWTN2UTBOcl9veHppWl9oYjdITUxSaWJ6Tk1CMHF4VHNUNDFscXhGalR5SGMxSkg0OEpMZnJPYk5KeUR4NVJwV1NsbFVJdzI5aUk2Zmk4MHNYWkUtV3lsZ2U2d2lJeEhpZFV3ZDMtbTkwV1VaQzJscGZTdEg3NnFmbVFmT3daVzd3cjVrSThCQ2ZWMTRGMW9wTmpDMk5CT2t2ekV4OTF0djFndmxZNWdQUEpac21yOGJoRWlzWnktOUtPai1lSWxiM2NnODlXTFZaVFhNSnAyTUNPR2kzRjdiMVZyQ2JOdWRtR3BlbXdoTTNlN3UyS1RmTnRZVEVDOUxqLWN6d0gyZDE4eHE3ZnNPRWNSeGZfaTA1b2ZFR1gzbFdpUEYwQ2JzdjBGVjZlUTNzTWpBMVJDSzlxOHE4WVcyTmNjRGktUmZMOGNadG1pZ2dQZkxRS0themFJbXFKXzMzZ2xNR2tvZUdpS1RIelBGWDJwelNaQkVwWUhsODJxdjlRMWxmbXFIMWlfckw5aDRNM21JN21wZHh2SXVrdTJZX1RYMjFYVWxZOVgyc25ibW1UNlRheUxKeUZnNk45Z2E1aEp5a3h4OHd2dzE4MTVTSFJDdlFsdlhmZ2I4WXROeDZkLUlxengtcHloRg?oc=5",
      "source": "Masrawy",
@@ -558,13 +565,6 @@
      "time": "2026-11-15T13:22:00.000Z",
      "seen": "2026-11-15T16:22:09.353Z",
      "impact": "التحديات المتعلقة بالغش عبر الذكاء الاصطناعي تنبه المؤسسات إلى ضرورة تحديث معايير الأمان والنزاهة في الاختبارات."
-    },
-    {
-     "title": "الذكاء الاصطناعي قد يجعل ريادة الأعمال وظيفة المستقبل اليومية",
-     "url": "https://www.msn.com/ar-sa/money/news/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%82%D8%AF-%D9%8A%D8%AC%D8%B9%D9%84-%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%88%D8%B8%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9/ar-AA2hvhQ2",
-     "source": "CNBC عربية",
-     "time": "2026-11-15T13:21:40.000Z",
-     "seen": "2026-11-15T23:34:30.138Z"
     }
    ]
   }
