@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:08:19.974Z",
+ "updated": "2026-11-16T21:18:20.372Z",
  "minute": [
   "تناولت الأخبار تراجع سعر الدولار مقابل الجنيه المصري في ختام التعاملات ومتابعة أسعاره بالبنك المركزي.",
   "بحث سفير العراق مع وزير النقل المصري تعزيز التعاون المشترك، مع استعراض توافر الملح المصري من بحيرة البردويل للأسواق المحلية والعالمية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-16T21:08:19.974Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T21:18:20.372Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5816,
-   "change": -0.39,
-   "asOf": "2026-11-16T20:59:52.000Z",
+   "value": 5812,
+   "change": -0.46,
+   "asOf": "2026-11-16T21:08:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6640,
-   "change": -0.39,
-   "asOf": "2026-11-16T20:59:52.000Z",
+   "value": 6635,
+   "change": -0.46,
+   "asOf": "2026-11-16T21:08:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3855,
-   "change": -0.81,
-   "asOf": "2026-11-16T20:59:52.000Z",
+   "value": 3852,
+   "change": -0.88,
+   "asOf": "2026-11-16T21:08:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0999,
    "change": -0.46,
-   "asOf": "2026-11-16T21:09:46.000Z",
+   "asOf": "2026-11-16T21:17:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.33,
-   "change": -3.66,
-   "asOf": "2026-11-16T20:59:38.000Z",
+   "value": 92.19,
+   "change": -3.81,
+   "asOf": "2026-11-16T21:08:05.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -84,16 +84,16 @@
    "unit": "نقطة",
    "value": 7417,
    "change": -1.92,
-   "asOf": "2026-11-16T21:09:53.000Z",
+   "asOf": "2026-11-16T21:18:23.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64951,
-   "change": -0.54,
-   "asOf": "2026-11-16T21:09:51.000Z",
+   "value": 64916,
+   "change": -0.6,
+   "asOf": "2026-11-16T21:17:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,31 +140,38 @@
    "title": "مصر",
    "items": [
     {
+     "title": "إصابة 10 أشخاص في انقلاب ميكروباص على الطريق الصحراوي في البحيرة",
+     "url": "https://www.elbalad.news/7183558",
+     "source": "صدى البلد",
+     "time": "2026-11-16T21:18:07.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
+     "title": "دول أوروبية تتفق مع رواندا على استقبال اللاجئين لمواجهة أزمة الهجرة غير الشرعية",
+     "url": "https://www.elbalad.news/7183559",
+     "source": "صدى البلد",
+     "time": "2026-11-16T21:17:02.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
+     "title": "«من فينا يقدر ينسى لن أعيش في جلباب أبي؟».. عمرو الليثي يستضيف ابنة الموسيقار حسن أبو السعود في «واحد من الناس»",
+     "url": "https://www.elbalad.news/7183557",
+     "source": "صدى البلد",
+     "time": "2026-11-16T21:16:17.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
+     "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcldLalhxOGM5SzVQZXZZNUxyWFAycndiUEdwV0pmc0FXUnFRd0Fad09HTmlXRGhCdzNFVHNJYWljWVlEYUNiMHZQSzNUYnRFYjlLOExidkN6S2YyQkliRXYtT1VIcC0yRjZlZkFsaEJEUFEwd1o2Vkt1b0Y?oc=5",
+     "source": "جـريـدة الوطن",
+     "time": "2026-11-16T21:07:00.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
      "title": "الأرصاد تحذر من شبورة مائية كثيفة على الطرق خلال الساعات المقبلة",
      "url": "https://www.youm7.com/story/2026/11/16/الأرصاد-تحذر-من-شبورة-مائية-كثيفة-على-الطرق-خلال-الساعات/7621484",
      "source": "اليوم السابع",
      "time": "2026-11-16T21:06:00.000Z",
-     "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "اختفاء النقائل السرطانية بعد لقاح روسي جديد.. تفاصيل أول تجربة علاجية وموعد تعميمه",
-     "url": "https://www.elbalad.news/7183543",
-     "source": "صدى البلد",
-     "time": "2026-11-16T21:04:53.000Z",
-     "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "سيرجي شويجو: التعاون بين الإمارات وروسيا في مجال الدفاع الجوي يواصل تطوره",
-     "url": "https://www.elbalad.news/7183544",
-     "source": "صدى البلد",
-     "time": "2026-11-16T21:03:53.000Z",
-     "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "احتفال خاص لمحمد صلاح في معسكر منتخب مصر قبل مواجهة مالاوي",
-     "url": "https://www.elbalad.news/7183549",
-     "source": "صدى البلد",
-     "time": "2026-11-16T21:03:53.000Z",
      "seen": "2026-11-16T21:08:19.974Z"
     },
     {
@@ -187,13 +194,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T18:56:00.000Z",
      "seen": "2026-11-16T19:07:17.714Z"
-    },
-    {
-     "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي وتعزيز حقوق المبدعين",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hLUJtaVU0RkREaHl0dkk4SjRPRW5WcTFBbzhFbFJudjdBQWZSMTVLTWloWkh0amFPcjM5bHlRM1pOLVlVYzd1ejZXQlBzOS1qekktOVFIN3UxQmtZVWtz?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-16T18:55:00.000Z",
-     "seen": "2026-11-16T18:57:18.046Z"
     },
     {
      "title": "مدبولي:الدولة المصرية ملتزمة بمواصلة تطوير منظومتها الوطنية للملكية الفكرية",
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "آخر تطورات سعر اليوان الصيني أمام الجنيه في البنوك المصرية مساء اليوم الإثنين",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUalJUVHdib2ZDMmpjdkNHNUtfdDFsUlZWQjRXRXVNbHIxdVFmWEdUb2VLVl9RWlJsR256ald5OHV3SG02YmZ3?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-16T21:11:00.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
      "title": "ارتفاع سعر الـ 100 ين الياباني مقابل الجنيه في البنك المركزي",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tXy1nWHY5UWE0aFAtR3ZiTXo1d3UzdFVrVmNTUGYyVnZNOFVpcWRtNTFWM1hfQW9RV0ZkRWt3WV9tYzFEbDJj?oc=5",
      "source": "فيتو",
@@ -251,18 +258,11 @@
      "seen": "2026-11-16T21:08:19.974Z"
     },
     {
-     "title": "ارتفاع سعر الدينار الكويتي مقابل الجنيه في بنك مصر",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01Y2dWUU9sdk8wWjZSSEQ4ZF9KLUlYcFhZbFNTaENfeXlxam5ITUFONDdkdzFRQU5zN2Yyek11eHdRdWhWajhF?oc=5",
+     "title": "تراجع سعر الدينار الأردني مقابل الجنيه في البنك المركزي اليوم الإثنين (أخر تحديث)",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93VEgtMEp3RE1tYi1iQ0tDYld4ZlppMzVadUhmUHV0TmxONHVRaURtT2Z4TlRDcGNmU0VqSF9idXV6N3lJTDNF?oc=5",
      "source": "فيتو",
-     "time": "2026-11-16T20:38:00.000Z",
-     "seen": "2026-11-16T20:48:20.010Z"
-    },
-    {
-     "title": "استقرار سعر الريال القطري أمام الجنيه في البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rdTc3dElZUTktcVZxclEtYzlTYkRRWjhvMUFsZVJRU0lSVXZhZHFiNDlsWUlkX016dEFTNk95aGk1NDdHc3Fz?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-16T20:38:00.000Z",
-     "seen": "2026-11-16T20:48:20.010Z"
+     "time": "2026-11-16T20:39:00.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
     },
     {
      "title": "الحكومة تستهدف 78 مليار دولار صافي تدفقات تراكمية للاستثمار الأجنبي بحلول 2029-2030",
@@ -280,11 +280,10 @@
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOU09ZdUNLWjN5ekltNWM0a2ZNRE9hM28tLWdSU3ZzY2pISkVJTVgtNENOMnJGeDBmRW9wUnB0ZzRHc1ZNNV9EV3I0U0VpS212eHdUVEIwcUZXNU9tc1NqaTBvclFMRHdRV0xmQTdfOUhTeG1wRWpXSVNoREhuSkg5NEt2WmV2ellsQnJ1ejVoVHJMdEdpZ2JNMmV5NXBkSk5UckVMdTA5RlQ2UHBjRUZjVm5hWk5IWmphNG9xRkFLY2NHOHJ6cmdtbDQ3SFQyYjlkLXlnWmlrc2lwZ0FPeFJCSnd2d2JMZllkcmVVWGotUFhYaWM2TUc2VW9tdENNdW5QUHpnWXhldENRaVNHal9ReHA0TmMxb3VsNEJ1RzdicHBlVE83NDYwbmxmWmdKM2JGa21IZGF2amJEcWlyOGl2dHYzQWN0bVlPSUl1S1lLT3BqMGdyLURDajlQSkd3WXVtTU1zZ1NKU0NIclRJS0JqSU5obTJfTk44ZDNXbXh5a3kwSnFKcFJQQmFsZ2VnMGhPNnR0SEFCYmM4RjV6MXdZbE5zUWM4dEpuT3VaUHk1NHFYeVJKTmx3NTRicEdUOGx5MldBcExEYmNUX0lCQ0NpTjNvaHUtSy1MamN0TXl4eVM5WXRXSFlJ0gHiA0FVX3lxTE85cU1LMFg3WEpMVzRSdkh5TlBOdjJnMmRxeE9kUG8tdm80NFFnTnhkLUgxUHVaaGdmLWpBRE1Iemc0Zm9JR0ZGMG41YWFDV2d5VGRaMU5sTENUOUdOUk5JRkF6eWU5RUkwZ1Qwa2F3NWRiWFpCT3Vndm1YaHA2RnVOR3V5aERLRWpXTkFTa0dqV0V0SGFOeTY1WGp5VXg5T3Q5VXpnSnpsWExDd3d2YVh1WndKX0pkYjQ5Sk90UXdoMWlTSTIydlV0cGt6dlhmZlFlOW9ucnktdWl3N005V0JsbTRZUDlGT3FFOWZiMlJ4THRvQjJxSjg0T0FYWTNVRnc4VktfakJ5WURFMW1TQjBOTzVYSThlN3FMbWQzVmJGb08tSm9YTU9vN3RCVzJzSmZLOWpmbml3MDI3bnB3WE9rVC1rbW5vVTNMMy04cXR0a0hPVndEaVhialV6dEdNdjlPM2xwWmt1WS14YWNGT294TlVQU2k2MTZ5MHdTYkdaTEhzaXRNVmpEZW1iWUdPOG5nV1BqZGlaeF9rX2tPdExRVVJYalJSaXBNMExhOGZpS3laWWxUcUdpbkF5LW1VQ2pWRHhfU24zY3F6aS1DSjFWVWx0b1JLZkZXRWJ2a1ZvV053?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPOXFNSzBYN1hKTFc0UnZIeU5QTnYyZzJkcXhPZFBvLXZvNDRRZ054ZC1IMVB1WmhnZi1qQURNSHpnNGZvSUdGRjBuNWFhQ1dneVRkWjFObExDVDlHTlJOSUZBenllOUVJMGdUMGthdzVkYlhaQk91Z3ZtWGhwNkZ1Tkd1eWhES0VqV05BU2tHaldFdEhhTnk2NVhqeVV4OU90OVV6Z0p6bFhMQ3d3dmFYdVp3Sl9KZGI0OUpPdFF3aDFpU0kyMnZVdHBrenZYZmZRZTlvbnJ5LXVpdzdNOVdCbG00WVA5Rk9xRTlmYjJSeEx0b0IycUo4NE9BWFkzVUZ3OFZLX2pCeVlERTFtU0IwTk81WEk4ZTdxTG1kM1ZiRm9PLUpvWE1Pbzd0Qlcyc0pmSzlqZm5pdzAyN25wd1hPa1Qta21ub1UzTDMtOHF0dGtIT1Z3RGlYYmpVenRHTXY5TzNscFprdVkteGFjRk9veE5VUFNpNjE2eTB3U2JHWkxIc2l0TVZqRGVtYllHTzhuZ1dQamRpWnhfa19rT3RMUVVSWGpSUmlwTTBMYThmaUt5WllsVHFHaW5BeS1tVUNqVkR4X1NuM2NxemktQ0oxVlVsdG9SS2ZGV0VidmtWb1dOd9IB4gNBVV95cUxPOXFNSzBYN1hKTFc0UnZIeU5QTnYyZzJkcXhPZFBvLXZvNDRRZ054ZC1IMVB1WmhnZi1qQURNSHpnNGZvSUdGRjBuNWFhQ1dneVRkWjFObExDVDlHTlJOSUZBenllOUVJMGdUMGthdzVkYlhaQk91Z3ZtWGhwNkZ1Tkd1eWhES0VqV05BU2tHaldFdEhhTnk2NVhqeVV4OU90OVV6Z0p6bFhMQ3d3dmFYdVp3Sl9KZGI0OUpPdFF3aDFpU0kyMnZVdHBrenZYZmZRZTlvbnJ5LXVpdzdNOVdCbG00WVA5Rk9xRTlmYjJSeEx0b0IycUo4NE9BWFkzVUZ3OFZLX2pCeVlERTFtU0IwTk81WEk4ZTdxTG1kM1ZiRm9PLUpvWE1Pbzd0Qlcyc0pmSzlqZm5pdzAyN25wd1hPa1Qta21ub1UzTDMtOHF0dGtIT1Z3RGlYYmpVenRHTXY5TzNscFprdVkteGFjRk9veE5VUFNpNjE2eTB3U2JHWkxIc2l0TVZqRGVtYllHTzhuZ1dQamRpWnhfa19rT3RMUVVSWGpSUmlwTTBMYThmaUt5WllsVHFHaW5BeS1tVUNqVkR4X1NuM2NxemktQ0oxVlVsdG9SS2ZGV0VidmtWb1dOdw?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-16T20:00:00.000Z",
-     "seen": "2026-11-16T20:07:17.458Z",
-     "impact": "متابعة سعر الدولار في البنك المركزي المصري تفيد الأفراد والمستثمرين في التخطيط المالي وتكلفة استيراد البضائع."
+     "time": "2026-11-16T20:04:43.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
     },
     {
      "title": "«اتصالات بيزنس» تتعاون مع «M Empire» و«ستارت أب إيجيبت» لدعم الذكاء الاصطناعي",
@@ -292,6 +291,13 @@
      "source": "البورصة",
      "time": "2026-11-16T19:54:51.000Z",
      "seen": "2026-11-16T20:48:20.010Z"
+    },
+    {
+     "title": "سعر الدولار اليوم الاثنين 16 نوفمبر 2026.. أعلى وأقل سعر للبيع والشراء في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HanBuTEVBRm5od1VLTERNOXdWclNkNmd5TGlVZ1NZeXpYRWFTSkFKTW1qanhxUkszaE1VWHVoaUZ4XzE1?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-16T19:43:50.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
     },
     {
      "title": "سعر الدولار اليوم الاثنين في مصر",
@@ -336,14 +342,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T18:00:00.000Z",
      "seen": "2026-11-16T20:48:20.010Z"
-    },
-    {
-     "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
-     "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T17:55:09.000Z",
-     "seen": "2026-11-16T08:34:45.880Z",
-     "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
     }
    ]
   },
@@ -351,6 +349,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "فانس يعلن توقعه بشأن موعد \"انتهاء\" حرب إيران: ترامب \"لن يسمح بأن تكون أبدية\"",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/vance-suggests-iran-war-will-be-over-within-two-years",
+     "source": "CNN بالعربية",
+     "time": "2026-11-16T21:14:35.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
+     "title": "بغداد تمهل كتائب حزب الله للانسحاب قبل دخول قواتها معقلها في وسط العراق",
+     "url": "https://www.dw.com/ar/بغداد-تمهل-كتائب-حزب-الله-للانسحاب-قبل-دخول-قواتها-معقلها-في-وسط-العراق/a-79963732?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-16T21:05:00.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
     {
      "title": "جندي أمريكي يتهم \"البنتاغون\" بـ\"تجاهل تحذيرات\" بشأن هجوم إيراني أسفر عن مقتل 6 عسكريين",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/army-soldier-files-complaint-against-the-pentagon-over-iranian-strik",
@@ -415,6 +427,13 @@
      "seen": "2026-11-16T19:07:17.714Z"
     },
     {
+     "title": "باكستان: ننتظر رد واشنطن على المقترح الإيراني الأخير",
+     "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNLVVEV19QMTFLQnYzWmVKVER2M1hocmhsVnlFd1lGSDBvb2kwem5VOTRRbWVRRmc0aUZ4bXhrN29EODhfbHBjS3h5VVptX3A1MXBpNXJGZ1dyVXRZUy1BdjhGWGl6UDU2aTkwWXlLMjQxb213bS1Ecl9ueDhEMU5RODlSMjR4d25Bd3h4cW5lQ2VnYkVNbEhMUThpZTBYY2lFMGwxZWtKTWlrYzBiTURhM2FFQjZ4S085MmVxaTQyVTE3anM0bTZBc0dHaEdDM1kxZTIzS0RpQkc1amRQMGxUcXVYN19sY3NZa0tyMUFBaGNPMzJobmlUOVBGQ1p3b2huOEhfbDdKZ29zM3doM2tKNnNtcjBEY242M2xzZ1hGYmYzd09OV0hvOXFXakRpLU9ZbFpHMHJXZ1gzb2NxUnNGMGJvNnF0ZFZXZTU4eVdVbUk2ZGtRWnkwa0w1MzdaM0hzRXMtZlUwenlVemVqcWhOeXJIcmwxQ2xiSHFfNTFfOGluUTgwV09taGQ3ZEpyRV9HczMwWVhBTEpLZ1hlU3ZuOWpyWUMyaWZaZmVFRGFiaktlcWpMcktLWFhR0gG_A0FVX3lxTE1ZOUhwRGk0Y0dtTFk5VzBxWHV2UnZYVTh3T21GLWRWYVNNZVlpYS1CNnZEd3hGcjg3TzltcjAtRm5IOGlJWnRPdmVJVzREek9hT0tYUW14Vk9tT0xoZkZCc0hfTUJsSE1mVU5CanY0TThBTms4TUFlSGpQXzFhb1g4Vy16bFZyM1dzS2lDTllSV2pnWTdYUHJUb3NtbWhWWEZzSDdIM2ZZSXU2VnNWVjJreFJ3djJHRWp5bXFTX0hXeUVLUENXX2RYbWdwRGZxTWcxUXVlQWxEcC1tRzdVVTFpMk50cDB5SzZMZHB3R01DaS1Zdk9uLTVpOEhPOXpHSHlIYnJBUk00R214YWg0OThaT2IwU2c1c1QwRndXY0pWUWNaY3hrcVMyWThBQTh1OE5ranJ6RDh2QkYtckJEQ1RUSmVaWl9HZ2xLanJ2N1dkV3F5Q3d5dlM3dVQ3WVBQb003UTk5Y3BFTXY2dUVoelNEN3p5bm1SQnRFMzcwX2hFamwzYUhwUy0tTnRBRE85VzJpVzBsQlA3SXEwSF9PVzVZdzhNcV9NZ2RXdzE3VHZQazlYNTdudnRaTUVUbkFIOA?oc=5",
+     "source": "العربية",
+     "time": "2026-11-16T18:55:00.000Z",
+     "seen": "2026-11-16T21:18:20.372Z"
+    },
+    {
      "title": "الحرب تكشف السر وراء شبكة السدود الإيرانية التي حيرت المراقبين",
      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOdUxoNHVzdFFFZEYwVzhLWkVjSFBkNXN4cHJsU2tmSUZabHlyVUJuLVd1N2JHazJITnB6eVlkZ3daTUxrWmJwU1p6NVYzb0VvR0t6RXg0V2c1bmhHRDhrWmVjbkxTcEZNNkcySVVxUnRCYUxaTnVHR3BuMFJTRU5UQWFLNmpnRzAzWVZadG9uY0E4TDRqTEFFWjFCQjItOWlabWRmNkNFNnlLWVpNeTU1dkZmTzRLWVBEWjh2dzl6VU5Pd041dVFkdDdkUDZ5VkFoZmNoTklURHROZjVBV1V3cjRqZWZEZlR0UXpOTXJQcDNBUEZIRnQ3VFpDemV5blowSHVraHhZMDZjb05sR3JVcjBiQ0xyWTJXNWdLdTZ5T2YtRWVNVGJsXzNIQ3Z2TEpjbGh1UDlodVlwNkprVlVnRTZMdDVNY01QNDNmdTgwOEtWT3FBYzU3MlhUYWdvd2kzMUR2OGV0V2o0R2h6NWdkTjdFWDFUR0MydEhkeUN2UmJKWUFLRWJ3RVZiYVZPQkxTeVVNM2c4c3I4UFZYR1QtckRmY0t0MjdaaEFlX2JJSGs0Uy1DZzRsQ1JZSWhaaEhyVnNwNUNtS3VDVHFsck13bmVaTzR5YW5XMzctYmNIRF9KbDVZUlQydFl2bWNOMmV5OV9HQ1N5VjU0UzBsSnZUdmlGT0FHYXZEQXfSAY8EQVVfeXFMTVhuRkRscTRfYzFQNG1peTJkMWFJN1kyaUZERGcwWDEzd05LMzlycGFHVVhUNkYyNEJGWHRGM0REY3pHZGQ2dncyUHJQczlWajYxZnFsYm1iOG5KMFhEQWVZSDMzSFhGUXZhOVA4WmswY2NzOWwyVkF2WTlWS2hDUUV2YzBSb1lKMlJBWmh5RS1uSkNMbW0xZmptUnpGZDI5T3FZOHl1UzFKS0tBWUZHOERTdzRiTnIxVnFBUjQ3ZXdIbVIwSmpmMGN6R2kwUTFMRFNKUUxkVDlxZ2FUX2Nlb2p6MXI3RWNJVkZISndodjVobHM1WEFOM0pIeTB4MGJIQ19Va1ZsckNLTG5tcnVoYmdpTEJoeURwb2pZZ0NIX2RsQTFsX2xRbkRJRXM2MmZVSDk0d3d2M2tHOEJ4TlliTDEtZkNhZlQzUWYtTVhPOURpUWQxaFNKZjlSQi1zQW03YUpzZUdIUHRmb2ZQckQ2QTRBekJnOWdxUzl6aUxGNHpnVExzSkRHbk9MQkZLeXFaalExYnpyY0tBNEpLS2tvNk9JSkdKM2hhWjE4LWgwMm85QVRnSFdDalZrRnNMSjkxdkpDbmRJeUEzUDROX1ZlVzRwNlFtRkhSOVVfTnE5Z1BTeWxfZFdIRWJlVFFla3FaMmp3ZXhVZFNyZUVtcWZ2QVdJbkFDeF9oVzc5UlEydm8?oc=5",
      "source": "العربية",
@@ -422,32 +441,11 @@
      "seen": "2026-11-16T19:27:17.705Z"
     },
     {
-     "title": "إعلام إيراني: تفعيل الدفاعات الجوية في محافظة أصفهان وسط البلاد",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/air-defenses-activated-in-central-irans-isfahan-province",
-     "source": "CNN بالعربية",
-     "time": "2026-11-16T18:52:04.000Z",
-     "seen": "2026-11-16T19:07:17.714Z"
-    },
-    {
      "title": "آيزنكوت: نتانياهو لا يمكن أن يبقى «دقيقة إضافية واحدة» في الحكم",
      "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOWXJJRFM1NHFtcjNSWEtkUDRQeE1nTmx4ZGFsWm5FR1ZhVktJR0hXMDdzOGNyLVNySnlSVGhDX19OcGg4MU40MFFHQTAyUnRHSVpLckJPZGMwcFlmbklLeHUyOHNGSFlMa2lKV3Rjdm9uSURJcXBjTnlwZjZWeGRseWxjVWVrRVVNQV8ydHpTZi10ajdZb0h6UnB0MGRlQmxRUjZsZHF0Z0R1MlllNlhCaWlYd2s2ZFpzS1ExYnFTY01HUGt1Q2dCbWlhOU5XZEhXVmlNRjVxXy14UXlNRlNNZmlXUy1GWUU2cWNFZ1B3N0cxbGpyNlcwbjd2Zjd4WXFITlcxckg4Z3pvcUZZNzh4bXpfQVdZYUw2V3BxN2hYZWxsamlmSjRNczVVX05FQXFPM1AxSEl3ajJyRW9YOXNCOHcwUEZBUDFhVVFZa2RRQmZEOE5xeWJiOFVuNDF4ZW5FNW9EWHdzNklQUjZ4OTAtN2pzaWd6TG1MZjFzMnEzWnNGYjJWUWZCRGt4U2djbDhPVTNaSFR6V1RLaEI4eUphTEFiTzJYTDdpbXBvMlgxb0JvOUoxNURQVlBIazVqV19OX2JLQ0w2a050cWZXZVNhejgtN3NKcUNjdU51ZV9RMmVudHQxbnNmaW9WeEdzRnNiUkVUZTFlcnFBQTdYZUlEMUJaRUluV01wTk1rQjNUc0E4amd1VE5PYzhmTVBEQzJxcXcwamRLVFE2SDFQRW1aWThzaFdqU1Y2?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-16T18:46:54.000Z",
      "seen": "2026-11-16T20:07:17.458Z"
-    },
-    {
-     "title": "سياسيان إسرائيليان معارضان يتهمان نتنياهو بـ\"محاولة انقلاب\" والشرطة تحقق",
-     "url": "https://www.dw.com/ar/سياسيان-إسرائيليان-معارضان-يتهمان-نتنياهو-بـ-محاولة-انقلاب-والشرطة-تحقق/live-79926107?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-16T18:45:00.000Z",
-     "seen": "2026-11-16T18:57:18.046Z"
-    },
-    {
-     "title": "دول أوروبية تختار رواندا كمركز للترحيل مع احتمالية التوسع إلى أوغندا وأوزبكستان",
-     "url": "https://www.dw.com/ar/دول-أوروبية-تختار-رواندا-كمركز-للترحيل-مع-احتمالية-التوسع-إلى-أوغندا-وأوزبكستان/a-79962888?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-16T18:30:00.000Z",
-     "seen": "2026-11-16T18:37:18.312Z"
     }
    ]
   },
@@ -461,6 +459,14 @@
      "source": "Masrawy",
      "time": "2026-11-16T19:51:25.000Z",
      "seen": "2026-11-16T21:08:19.974Z"
+    },
+    {
+     "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
+     "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T17:55:09.000Z",
+     "seen": "2026-11-16T08:34:45.880Z",
+     "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
     },
     {
      "title": "إعادة محاكمة ليندسي كلانسي في قضية قتل أطفالها الثلاثة العام المقبل",
@@ -490,13 +496,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T16:39:00.000Z",
      "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "تعيين تسعة نواب مؤقتين لرئيس الكنيست الإسرائيلي من بينهم أحمد الطيبي ووليد طه",
-     "url": "https://www.bbc.com/arabic/articles/crz6ql3p5405o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T16:11:12.000Z",
-     "seen": "2026-11-16T16:17:17.824Z"
     },
     {
      "title": "كتاب مهم عن الذكاء الاصطناعى واستدامة الاستثمار",
@@ -559,11 +558,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
