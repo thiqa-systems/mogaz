@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-16T00:04:29.420Z",
+ "updated": "2026-11-16T00:14:30.084Z",
  "minute": [
-  "تترقب الأسواق المصرية اجتماعات البنك المركزي لحسم أسعار الفائدة وسط تغيرات في أسعار الذهب وبعض الهواتف المحمولة.",
-  "أكد مسئولان بالسفارة الألمانية دعم برلين لتحول القاهرة إلى مركز إقليمي للإنتاج والتصدير مع نمو صناديق الاستثمار.",
-  "تشهد المنطقة تصاعداً في التوترات الجيوسياسية والعسكرية مع وصول حاملة طائرات أمريكية ثالثة وإشعار تحذيرات أمنية.",
-  "شهدت السماء اقتران المشتري والمريخ فجراً بالتزامن مع تحديد الحسابات الفلكية لموعد غرة شهر رجب لعام 1448 هجرياً."
+  "تترقب الأسواق موعد الاجتماع الأخير للبنك المركزي لحسم أسعار الفائدة، بالتزامن مع متابعة توقعات أسعار الذهب وطفرة صناديق الاستثمار القطاعية.",
+  "أعلنت الهيئة العامة للسكة الحديد مواعيد القطارات ورحلات تالجو، بينما كشفت شعبة المحمول عن زيادات جديدة مرتقبة في أسعار بعض الهواتف.",
+  "تتواصل التطورات الإقليمية والدولية مع إعلان البحرين اعتراض هجمات وتصاعد الأوضاع قرب عدن ووصول حاملة طائرات أمريكية ثالثة للشرق الأوسط."
  ],
  "ai": {
-  "at": "2026-11-15T23:44:29.827Z",
+  "at": "2026-11-16T00:14:30.084Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T00:04:29.420Z"
+  "impacts": 9
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5902,
-   "change": 1.09,
-   "asOf": "2026-11-15T23:54:16.000Z",
+   "value": 5898,
+   "change": 1.01,
+   "asOf": "2026-11-16T00:04:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6739,
-   "change": 1.09,
-   "asOf": "2026-11-15T23:54:16.000Z",
+   "value": 6734,
+   "change": 1.01,
+   "asOf": "2026-11-16T00:04:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3904,
-   "change": 0.44,
-   "asOf": "2026-11-15T23:54:16.000Z",
+   "value": 3901,
+   "change": 0.37,
+   "asOf": "2026-11-16T00:04:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +61,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1028,
-   "change": -0.2,
-   "asOf": "2026-11-16T00:03:45.000Z",
+   "value": 1.1029,
+   "change": -0.19,
+   "asOf": "2026-11-16T00:13:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -75,7 +72,7 @@
    "unit": "$/برميل",
    "value": 95.5,
    "change": -0.35,
-   "asOf": "2026-11-15T23:54:27.000Z",
+   "asOf": "2026-11-16T00:01:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65327,
-   "change": 1.87,
-   "asOf": "2026-11-16T00:04:29.000Z",
+   "value": 65059,
+   "change": 1.45,
+   "asOf": "2026-11-16T00:14:41.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +137,22 @@
    "title": "مصر",
    "items": [
     {
+     "title": "نائب رئيس الزمالك: لا يوجد عروض رسمية لشركة الكرة وجميعها شفوية",
+     "url": "https://www.elbalad.news/7182265",
+     "source": "صدى البلد",
+     "time": "2026-11-16T00:08:46.000Z",
+     "seen": "2026-11-16T00:14:30.084Z",
+     "impact": "يوضح للمستثمرين والمهتمين بالاستثمار الرياضي في مصر أن عروض شركة الكرة بنادي الزمالك لا تزال شفوية فقط."
+    },
+    {
+     "title": "هشام نصر: القانون لا يمنعني من الاستثمار في شركة الكرة بالزمالك",
+     "url": "https://www.elbalad.news/7182274",
+     "source": "صدى البلد",
+     "time": "2026-11-16T00:07:37.000Z",
+     "seen": "2026-11-16T00:14:30.084Z",
+     "impact": "يبين للمستثمرين في مصر عدم وجود مانع قانوني يستبعد مسؤولي النادي من الاستثمار في شركة الكرة."
+    },
+    {
      "title": "مناقشة الشهود في محاكمة 92 متهما بخلية النزهة الإرهابية.. اليوم",
      "url": "https://www.elbalad.news/7181993",
      "source": "صدى البلد",
@@ -147,32 +160,20 @@
      "seen": "2026-11-16T00:04:29.420Z"
     },
     {
-     "title": "محافظ الغربية: افتتاح 3 محطات معالجة يسهم في تحسين مستوى الخدمات للمواطنين",
-     "url": "https://www.elbalad.news/7182262",
-     "source": "صدى البلد",
-     "time": "2026-11-16T00:01:32.000Z",
-     "seen": "2026-11-16T00:04:29.420Z"
-    },
-    {
      "title": "مواعيد القطارات على خط أسوان القاهرة والعكس.. اليوم الإثنين 16/ 11/ 2026",
      "url": "https://www.youm7.com/story/2026/11/16/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الإثنين-16/7619196",
      "source": "اليوم السابع",
      "time": "2026-11-16T00:00:00.000Z",
-     "seen": "2026-11-16T00:04:29.420Z"
+     "seen": "2026-11-16T00:04:29.420Z",
+     "impact": "ساعد المسافرين والمواطنين في مصر على تنظيم أوقات تنقلاتهم على خط قطارات أسوان والقاهرة."
     },
     {
      "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
      "url": "https://www.youm7.com/story/2026/11/16/قطار-تالجو-مواعيد-الرحلات-على-خطوط-السكة-الحديد/7619190",
      "source": "اليوم السابع",
      "time": "2026-11-16T00:00:00.000Z",
-     "seen": "2026-11-16T00:04:29.420Z"
-    },
-    {
-     "title": "ما حكم السجود مع وجود حائل بين جبهة المصلي كالعمامة؟.. الإفتاء تجيب",
-     "url": "https://www.elbalad.news/7182247",
-     "source": "صدى البلد",
-     "time": "2026-11-16T00:00:00.000Z",
-     "seen": "2026-11-16T00:04:29.420Z"
+     "seen": "2026-11-16T00:04:29.420Z",
+     "impact": "يتيح لركاب السكة الحديد في مصر معرفة مواعيد رحلات قطار تالجو لتسهيل وتخطيط السفر."
     },
     {
      "title": "الحسابات الفلكية تكشف موعد غرة شهر رجب وأول أيامه لعام 1448 هجرياً",
@@ -249,7 +250,8 @@
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IeHJEMVllUUlBdl93cjZrd0h2eGlwaDdYTUNIaTZoS0ZZaWFGZFNGOUw3N1FDTG50anZabEtwYkNSbU9rTzlXYnZpVmFsMHpwd2J2NUZFdzlZNTdsWmZzeTU0eGl1NzdBWDNiNldkQQ?oc=5",
      "source": "Investing.com",
      "time": "2026-11-15T23:43:22.000Z",
-     "seen": "2026-11-16T00:04:29.420Z"
+     "seen": "2026-11-16T00:04:29.420Z",
+     "impact": "يهم المدخرين والمستثمرين في مصر لمتابعة اتجاهات أسعار الذهب وقرارات الشراء أو الاحتفاظ."
     },
     {
      "title": "موعد الاجتماع الأخير لـ«المركزي» في 2026.. متى يحسم مصير أسعار الفائدة؟",
@@ -257,7 +259,7 @@
      "source": "الوطن",
      "time": "2026-11-15T22:31:49.000Z",
      "seen": "2026-11-15T22:54:29.968Z",
-     "impact": "يساعد معرفة موعد اجتماع البنك المركزي المستثمرين والأفراد في مصر على التخطيط لقرارات الادخار والتمويل بناءً على اتجاه الفائدة."
+     "impact": "ساعد الأفراد والمستثمرين في مصر على التخطيط لقراراتهم المالية والادخارية قبل الإعلان عن أسعار الفائدة الجديدة."
     },
     {
      "title": "التنين الصينى عالق بين ازدهار الصناعة وركود العقارات",
@@ -273,7 +275,7 @@
      "source": "البورصة",
      "time": "2026-11-15T22:19:41.000Z",
      "seen": "2026-11-15T22:34:30.139Z",
-     "impact": "تتيح طفرة صناديق الاستثمار والمنتجات القطاعية الجديدة أدوات استثمارية متنوعة للمستثمرين لتوزيع المخاطر."
+     "impact": "يفتح مجالات وفرصاً جديدة أمام المستثمرين في مصر لتنويع أدواتهم المالية عبر صناديق استثمار قطاعية."
     },
     {
      "title": "مسئولان بالسفارة الألمانية: برلين تدعم تحول القاهرة إلى مركز إقليمى للإنتاج والتصدير",
@@ -281,7 +283,7 @@
      "source": "البورصة",
      "time": "2026-11-15T22:17:21.000Z",
      "seen": "2026-11-15T22:34:30.139Z",
-     "impact": "يعزز الدعم الألماني لتصنيع وتصدير المنتجات من القاهرة فرص التوسع الصناعي والتعاون الاقتصادي في مصر."
+     "impact": "يدعم بيئة الأعمال والشركات في مصر ويعزز الفرص التصديرية والصناعية بدعم من الجانب الألماني."
     },
     {
      "title": "سعر الذهب عيار 14 اليوم الاثنين 16 نوفمبر يصل إلى 3983 جنيهًا",
@@ -395,10 +397,17 @@
     },
     {
      "title": "الحوثيون يقتربون من عدن",
-     "url": "https://www.skynewsarabia.com/middle-east/1904932-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8%D9%88%D9%86-%D8%B9%D8%AF%D9%86",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ09OTkZjcFRkcnNHT3RhWWtIbFh6eER1UEpzY1hMX3FCc3RRYUM5MGdwWFlsc2J6Ymt2M1BxRkFaaHd1czdzaUpsbllqVXhXaUw0VVZKQWFYWUFsaTFLZGhqVEtmalNZQ19qSV9fVkVUcENqTkFNSWU1SlJzVFo4cm1xd3phdU9SWi05XzVjWk1rSXRnN0tCQ2VxTi1ITDBacWdHZXdMUGV4UFZtOXBIeU5IbGNSNkdjVnhjdTR1NE5sWmxlVnBwUnRSYkl5RExFWUprek5NNkJoNVlTMm1aQXZNMUdlVnNtUHVVV2FWX2Y5UdIB9wFBVV95cUxPSndEYVR3aWFCVFBRdTFsMUdLOHNFUXo2dkpNallsRk5yRGNZcU1keHRHMDRDWFVRQ21ja1VNS2Zzc0stZnNrbEU4WGxPbTRTN2J3WXF3U19sNWU3OFgtQWZZUnBIZWctekhDa1dmakdiUi1wYnZYYVFydHppWWNldDR4MS1aQm5GYWZyNVA3VTNnaHFNRW9OeklTRGFHcERGVHNjR1QyS0x3c3pwazBWMWpOOTBEVFBzMXJTQ1plazJneS1zLTg5djJiaXVuNFZpMk92ajM4Z2JGdHpCWHY4X3J0TDJ1TlZRWnVadHlDdnQ4QTVyNGlR?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T22:22:11.000Z",
-     "seen": "2026-11-15T22:34:30.139Z"
+     "time": "2026-11-15T22:23:12.000Z",
+     "seen": "2026-11-16T00:14:30.084Z"
+    },
+    {
+     "title": "الحرس الثوري يدعو الإيرانيين للخروج إلى الشوارع والهتاف بـ\"الله أكبر\"",
+     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQUzdUOFlreUM0S3ZkdWxKbVRLVHl4ZEpXRWJXTnVVOUlaaW9iNVpWSHY1YUItaVI0b2pIOEdQNjRHSVJ1QzhLR3NBLWVCdFpjQTRhWlViMldwWnBsWHRFVjlVT0lOdzNVdEgzMjdaMlRLb3A0eGk3YTZwandRUU96NVFoSEdlNXpmVU5WNlZMald6Z2Nnb0JybjV4U1BMNmpyQnNac2dqMHcwMllDRlF1dlRKcExieTFYN0lGSHlINEMtMUNNeUEtS0lFZWRtZXZpanRvRjRNVXJNS1pPcU1CVy01M0ZaVkZzbzgwTVEtWmtfWDg3OEhiRzVCWk9xMzNRMnlOZF81YkxHZUMxUW15RllMRjEzQlNDdU5nM0VhdmVtemt2MW9seDFnVlJWUXRtRWhEN3N4WXZaS1pxZEw2ZVBBc2x6dkdSSVhDaGhtUlNPYzM3and6dVNYUkNYTGl6RnBlV3lzazVaeEZKYzM3VF9VaTRQUWdOWFNaUEtpQUxWMVcxV0l6UlNHZ0tJRVNGSUI4XzNEOHhYU0pPWnhtb3Z3R0ZkU2VrNUFqSTJsbXZVQi04cDBXM1NRb3VDU0t5MXdfdWJFZWttNDBJZk1NVW5aRjhER3ZQQXdCeTVPc19TNnp6T3ZsYi1uTXJHODJsTGNoaFVIZzRhMmY4cVpHS3Z4QVVEVE5ERjUxTU82OEFobUszQ01OQXdsb3FBeUJKSXJ0elg3dXAyNHJpaUdvWTFhV2V0MjNsaWFGQjhMQ2swZmd4aC0wY19Qb3pOb0M3dk5sSVd4WHZiT2JzbWU00gHkBEFVX3lxTFB1enJFODBJXzNoeGJfbjBpOFVnLWFjekJUZExxeVFrQkxHRlNGOUMxNXlLVnZIejYtNWhheEUwQi1ka2xCLW4yQmxGWllSX3d5OXcyQlFBQzJtRU54WkJzdHhSMV9lOGxVUVV0MGg0Z2JJQlR1RTYwb0NLUV9FLUZjVDRKbDdoZlYxTnZjQklmOHdDODBCVlM4N01zaFdrZkNTXzFISVZ4dWlOYWtDQlBuaWZiS0NsWlNYRE4xM0lYZUR4d2JMUUVVS21VSldQZU42YVJFTzVRazFfVUtId2ZwNlc3YVBPRS1xNk1fczBselpVZFJaTlBaV1VXenZoeXpuMEdRWjJxMmlmWlNPOVk2eTdIODNMcXZBeFlTdndQa3RhdmJzcTdEcThJQVh1RVZDWFMyUHhrRkJMQmNoU3d1MUpFNVBzOEhRY0dMRHNkT3RQTXQ5UE9pRmpidkV1cFRxa3JUbW9pMlE2MDV3NE5VVWtCNFpXV3dHTHRnM29tT3I3R0lDaWxpTC1qV0NaZ1NjLXBDOHB0Y2RNSVBpanpXUXNBbTBNQzY1VnZtY2N6cC1wMHFEdktYLVlyVmdNdXhkRHVGRnZKMU5wSy1MRFdLVDhBNENnWXpUdjJhWHlQVTJSS25YZnVuNG1pa2lzeGxLaFA0MzNCRmljRjdMQXNrT2JfRkRrWHNSSW8xN3dlV1l5MlFsWVctQVpJOVdQcm05UTE4S0FaTWxGQklyemVDaEk3X1liS2UzeXhyOWNuMWd5MWZnaTFFUkd6LURwUmFXMTI4djJDaHBXVW9xbFh6bjhFag?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-15T22:03:00.000Z",
+     "seen": "2026-11-16T00:14:30.084Z"
     },
     {
      "title": "بيان رباعي يدعو إسرائيل إلى السماح بوصول المساعدات إلى غزة فورًا",
@@ -423,6 +432,13 @@
      "seen": "2026-11-15T22:54:29.968Z"
     },
     {
+     "title": "رحل السودان القديم.. لن يهتف السودانيون بعد اليوم عاش أبو هاشم",
+     "url": "https://www.aljazeera.net/opinions/2026/11/16/%d8%b1%d8%ad%d9%84-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85-%d9%84%d9%86-%d9%8a%d9%87%d8%aa%d9%81-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%88%d9%86?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-15T21:03:17.000Z",
+     "seen": "2026-11-16T00:14:30.084Z"
+    },
+    {
      "title": "ذئب في ثياب حمل\".. ولاية ألمانية توقف حملة ضد \"التغلغل الإسلاموي\"",
      "url": "https://www.dw.com/ar/ذئب-في-ثياب-حمل-ولاية-ألمانية-توقف-حملة-ضد-التغلغل-الإسلاموي/a-79953481?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -430,32 +446,18 @@
      "seen": "2026-11-15T21:03:42.547Z"
     },
     {
-     "title": "مشاهير يروّجون لشرب زيت الزيتون يومياً... ماذا يقول الخبراء؟",
-     "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeEl6UFhaVDlrSlI1eTZWN1ZJdDVNNmpyVzJndnhrUERJVnBLWHFHZzJUNEFuM1puT1QwWHMydzR6dEp1dFFHZlFjYlhpSkFKbm1UVnRJRk51UzVlUzNPMThZUmk5RHR1dEwwTmRSWFhtMFFqVGZLYVVIS01MWF9XZnpWcF9mTXdENm9mQkNVdGhVZndNbDVOM1hSbVRoS0lybFNfaVlzNWFJNnQ5MzNwdllJTHB0dU9xN29xd3pvTmc3OHNtMkVmSTVIVDllblZqVXlMdnRhcHlMcy1tVWxCVVJPbG5Ecm5sSFRMWTEyMjQwOEo4QkFKSE1NZjdfZk45aXVoYXQ0MkVLVVhlZ0JBOW40U3JnRTJhRHlMUlpPa1RKY3Jqb05jVXZ5X1dFSGExUVdsYzRTVTlON3JWaUV0QUZrS25zYS1RY2hFUjhDbjdqNk5FM0JXSWRsR096aUdwREpiSEROV3lvTUl0R2laS0tWNi1tNXp3bDFwdU9ETEZ1SHRmVTYzUmVBdDY3dzJDenNwQ2ZaV3pWNHBBVVN2QUJLME5PNFpZdkU2Y2dGb21sbUhIckdneC1ET09vNjZ2UkRIdndoVmU0bmVIQXRzVkFsWUVfOFpfazBEV1JKVEU4d0pMSFNRRlVNNmtGQ0Y2NXRHQQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-15T20:23:27.000Z",
-     "seen": "2026-11-15T22:34:30.139Z"
+     "title": "سقوط صاروخ يحمل 40 قمرا اصطناعيا لأمازون في فلوريدا",
+     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%b3%d9%82%d9%88%d8%b7-%d8%b5%d8%a7%d8%b1%d9%88%d8%ae-%d9%81%d9%8a-%d9%81%d9%84%d9%88%d8%b1%d9%8a%d8%af%d8%a7-%d9%8a%d8%ad%d9%85%d9%84-40-%d9%82%d9%85%d8%b1%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-15T20:41:18.000Z",
+     "seen": "2026-11-16T00:14:30.084Z"
     },
     {
-     "title": "150 ألف خيمة عالقة على الحدود.. نداء غربي عاجل لإنقاذ نازحي غزة",
-     "url": "https://www.aljazeera.net/news/2026/11/16/150-%d8%a3%d9%84%d9%81-%d8%ae%d9%8a%d9%85%d8%a9-%d8%b9%d8%a7%d9%84%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d9%86%d8%af%d8%a7%d8%a1-%d8%ba%d8%b1%d8%a8%d9%8a?traffic_source=rss",
+     "title": "فايننشال تايمز: العالم برؤية بكين.. نفوذ بلا مسؤولية وهيمنة بملامح صينية",
+     "url": "https://www.aljazeera.net/politics/2026/11/16/%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%88%d9%81%d9%82-%d8%b1%d8%a4%d9%8a%d8%a9-%d8%a8%d9%83%d9%8a%d9%86-%d9%86%d9%81%d9%88%d8%b0-%d8%a8%d9%84%d8%a7-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d8%a9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-15T20:18:49.000Z",
-     "seen": "2026-11-15T23:44:29.827Z"
-    },
-    {
-     "title": "لاجئات من دارفور يتحدين العمر ويبدأن رحلتهن مع التعليم تحت شمس تشاد",
-     "url": "https://www.aljazeera.net/lifestyle/2026/11/16/%d9%84%d8%a7%d8%ac%d8%a6%d8%a7%d8%aa-%d9%85%d9%86-%d8%af%d8%a7%d8%b1%d9%81%d9%88%d8%b1-%d9%8a%d8%aa%d8%ad%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d9%85%d8%b1-%d9%88%d9%8a%d8%a8%d8%af%d8%a3%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T19:53:51.000Z",
-     "seen": "2026-11-15T23:14:30.146Z"
-    },
-    {
-     "title": "أزواد.. العرب والطوارق وسؤال الاستقلال المعلق منذ عقود في مالي",
-     "url": "https://www.aljazeera.net/politics/2026/11/16/%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%82-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a8%d8%a7%d9%84%d8%b1%d9%81%d8%b6?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T19:46:52.000Z",
-     "seen": "2026-11-15T23:14:30.146Z"
+     "time": "2026-11-15T20:41:15.000Z",
+     "seen": "2026-11-16T00:14:30.084Z"
     }
    ]
   },
@@ -476,7 +478,7 @@
      "source": "Masrawy",
      "time": "2026-11-15T21:16:23.000Z",
      "seen": "2026-11-15T22:04:30.021Z",
-     "impact": "تؤثر زيادة أسعار هواتف أوبو وهونر بشكل مباشر على القوة الشرائية وميزانيات المستهلكين المخصصة للأجهزة الإلكترونية."
+     "impact": "ينبه المستهلكين والمقبلين على الشراء في مصر إلى تكلفة الارتفاع المرتقب في أسعار هواتف أوبو وهونر."
     },
     {
      "title": "وزير الأمن الأميركي: ترامب وعائلته \"الهدف الأول لإيران\"",
