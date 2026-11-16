@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:04:29.668Z",
+ "updated": "2026-11-16T01:14:30.231Z",
  "minute": [
   "تتناول الأخبار المحلية في مصر أسعار صرف الدولار ومواعيد حسم الفائدة بالبنك المركزي بالإضافة إلى مواعيد القطارات.",
   "وعلى الصعيد الإقليمي والدولي، تتواصل التطورات الأمنية والتحركات العسكرية مع صدور تحذيرات للمواطنين.",
@@ -9,7 +9,9 @@
   "at": "2026-11-16T00:54:29.585Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T01:14:30.231Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5894,
-   "change": 0.94,
-   "asOf": "2026-11-16T00:54:28.000Z",
+   "value": 5850,
+   "change": 0.18,
+   "asOf": "2026-11-16T01:05:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6729,
-   "change": 0.94,
-   "asOf": "2026-11-16T00:54:28.000Z",
+   "value": 6678,
+   "change": 0.18,
+   "asOf": "2026-11-16T01:05:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3898,
-   "change": 0.29,
-   "asOf": "2026-11-16T00:54:28.000Z",
+   "value": 3869,
+   "change": -0.46,
+   "asOf": "2026-11-16T01:05:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1025,
-   "change": -0.23,
-   "asOf": "2026-11-16T01:03:46.000Z",
+   "value": 1.1024,
+   "change": -0.24,
+   "asOf": "2026-11-16T01:14:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.25,
-   "change": -0.62,
-   "asOf": "2026-11-16T00:52:54.000Z",
+   "value": 95.31,
+   "change": -0.55,
+   "asOf": "2026-11-16T01:04:31.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64755,
-   "change": 0.98,
-   "asOf": "2026-11-16T01:04:30.000Z",
+   "value": 64851,
+   "change": 1.13,
+   "asOf": "2026-11-16T01:15:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "عموتة يفرض السرية على تدريبات الأهلي قبل مواجهة بيراميدز",
+     "url": "https://www.elbalad.news/7182281",
+     "source": "صدى البلد",
+     "time": "2026-11-16T01:04:52.000Z",
+     "seen": "2026-11-16T01:14:30.231Z"
+    },
+    {
+     "title": "سيف زاهر: لا يوجد تحركات رسمية من الأهلي لضم أي لاعب من زد",
+     "url": "https://www.elbalad.news/7182290",
+     "source": "صدى البلد",
+     "time": "2026-11-16T01:04:15.000Z",
+     "seen": "2026-11-16T01:14:30.231Z"
+    },
+    {
      "title": "مرصد الأزهر يحذر من التطرف الرقمي: الذكاء الاصطناعي بوابة لاستقطاب النشء",
      "url": "https://www.youm7.com/story/2026/11/16/مرصد-الأزهر-يحذر-من-التطرف-الرقمي-الذكاء-الاصطناعي-بوابة-لاستقطاب/7619085",
      "source": "اليوم السابع",
@@ -153,20 +169,6 @@
     {
      "title": "الإسكان: الدولة نفذت 2 مليون وحدة سكنية منذ 2014 والطلب لا يزال متزايدا",
      "url": "https://www.elbalad.news/7182267",
-     "source": "صدى البلد",
-     "time": "2026-11-16T01:00:00.000Z",
-     "seen": "2026-11-16T01:04:29.668Z"
-    },
-    {
-     "title": "شبانة: معسكر مارس الاختبار الحقيقي لـ علي ماهر مع منتخب مصر",
-     "url": "https://www.elbalad.news/7182263",
-     "source": "صدى البلد",
-     "time": "2026-11-16T01:00:00.000Z",
-     "seen": "2026-11-16T01:04:29.668Z"
-    },
-    {
-     "title": "حكم صلاة التسابيح في أوقات الكراهة.. الرأي الشرعي",
-     "url": "https://www.elbalad.news/7182251",
      "source": "صدى البلد",
      "time": "2026-11-16T01:00:00.000Z",
      "seen": "2026-11-16T01:04:29.668Z"
@@ -415,6 +417,13 @@
      "seen": "2026-11-15T22:24:29.761Z"
     },
     {
+     "title": "وفاة \"عرّاب\" عصابات المخدرات المكسيكية الحديثة",
+     "url": "https://www.aljazeera.net/news/2026/11/16/%d9%88%d9%81%d8%a7%d8%a9-%d8%b9%d8%b1%d8%a7%d8%a8-%d8%b9%d8%b5%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%83%d8%b3%d9%8a%d9%83%d9%8a%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-15T21:52:55.000Z",
+     "seen": "2026-11-16T01:14:30.231Z"
+    },
+    {
      "title": "جماعة أنصار الله تستهدف محطتي ضخ في خط شرق-غرب للنفط في الرياض، واعتراض مسيرات فوق مكة والمدينة",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTT3lxbWlVdTJfU3lZU3F0M1JPQjNCeDI1WmVhVndvTU40S3VGZmdHa0xFQlgycjk5QWtEZzNISnYxbGFxcE9WRzhnM1I5Q3FLclI4XzJ4dU5rVVpxY3fSAWNBVV95cUxQNTNnbnV5aWVnbEZLU0tzNUNqSHVpcTI3UG53Y0RNOEtZVE1mQ0gxUXlvZHVpUk1MczdmVjJ4V25UWks0TVRBVi1rQ2JKNTVsTlJJenRlQmJEMDVkSUdZa1ZfdHM?oc=5",
      "source": "BBC",
@@ -449,13 +458,6 @@
      "source": "DW عربية",
      "time": "2026-11-15T20:59:00.000Z",
      "seen": "2026-11-15T21:03:42.547Z"
-    },
-    {
-     "title": "سقوط صاروخ يحمل 40 قمرا اصطناعيا لأمازون في فلوريدا",
-     "url": "https://www.aljazeera.net/news/2026/11/16/%d8%b3%d9%82%d9%88%d8%b7-%d8%b5%d8%a7%d8%b1%d9%88%d8%ae-%d9%81%d9%8a-%d9%81%d9%84%d9%88%d8%b1%d9%8a%d8%af%d8%a7-%d9%8a%d8%ad%d9%85%d9%84-40-%d9%82%d9%85%d8%b1%d8%a7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-15T20:41:18.000Z",
-     "seen": "2026-11-16T00:14:30.084Z"
     }
    ]
   },
