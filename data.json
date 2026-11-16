@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:27:17.571Z",
+ "updated": "2026-11-16T15:37:17.805Z",
  "minute": [
   "باع البنك المركزي المصري أذون خزانة دولارية بقيمة 1.52 مليار دولار بعائد يصل إلى 4.5%.",
   "تبحث وزارة الإسكان المصرية مع شركة أكوا باور السعودية التوسع في مشروعات تحلية مياه البحر، وتستهدف الإسكندرية للحاويات تحديث معداتها.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T15:27:17.571Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T15:37:17.805Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5849,
-   "change": 0.18,
-   "asOf": "2026-11-16T15:19:19.000Z",
+   "value": 5835,
+   "change": -0.07,
+   "asOf": "2026-11-16T15:28:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6678,
-   "change": 0.18,
-   "asOf": "2026-11-16T15:19:19.000Z",
+   "value": 6662,
+   "change": -0.07,
+   "asOf": "2026-11-16T15:28:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3877,
-   "change": -0.24,
-   "asOf": "2026-11-16T15:19:19.000Z",
+   "value": 3867,
+   "change": -0.49,
+   "asOf": "2026-11-16T15:28:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1011,
-   "change": -0.35,
-   "asOf": "2026-11-16T15:28:44.000Z",
+   "value": 1.1008,
+   "change": -0.38,
+   "asOf": "2026-11-16T15:37:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.16,
-   "change": -2.8,
-   "asOf": "2026-11-16T15:19:13.000Z",
+   "value": 92.98,
+   "change": -2.98,
+   "asOf": "2026-11-16T15:28:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7460,
-   "change": -1.35,
-   "asOf": "2026-11-16T15:29:24.000Z",
+   "value": 7464,
+   "change": -1.29,
+   "asOf": "2026-11-16T15:38:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64225,
-   "change": -1.65,
-   "asOf": "2026-11-16T15:29:19.000Z",
+   "value": 64094,
+   "change": -1.85,
+   "asOf": "2026-11-16T15:38:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,18 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لدواعٍٍ أمنية.. الأردن والعراق يحجبان «تيليجرام» وسط مخاوف من التطرف ونشاط الميليشيات",
-     "url": "https://www.elbalad.news/7183063",
+     "title": "رئيس جامعة قنا يناقش حوكمة الأصول وتعظيم الاستثمار في الخدمات",
+     "url": "https://www.elbalad.news/7182952",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:26:45.000Z",
-     "seen": "2026-11-16T15:27:17.571Z"
+     "time": "2026-11-16T15:36:57.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
     },
     {
-     "title": "لإطلالة شتوية كاجوال.. رامي صبري يخطف الأنظار من أمام برج ايفل في باريس",
-     "url": "https://www.elbalad.news/7183055",
+     "title": "المنيا.. حصر الأراضي غير المستغلة لإقامة معارض بأسعار مخفضة بمغاغة وبني مزار وأبوقرقاص",
+     "url": "https://www.elbalad.news/7182926",
      "source": "صدى البلد",
-     "time": "2026-11-16T15:26:15.000Z",
-     "seen": "2026-11-16T15:27:17.571Z"
+     "time": "2026-11-16T15:36:19.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
+    },
+    {
+     "title": "3.5 مليون صورة لفلسطينيين.. تحقيق يكشف استخدام إسرائيل ذكاء أمازون الاصطناعي لمراقبة غزة",
+     "url": "https://www.elbalad.news/7183081",
+     "source": "صدى البلد",
+     "time": "2026-11-16T15:35:57.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
+    },
+    {
+     "title": "أساتذة الجامعات بعد إقرار زيادة الدخل.. شكراً فخامة الرئيس",
+     "url": "https://www.youm7.com/story/2026/11/16/أساتذة-الجامعات-بعد-إقرار-زيادة-الدخل-شكراً-فخامة-الرئيس/7621094",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T15:30:00.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
     },
     {
      "title": "وزارة النقل تنفي شائعات أوزان العربات الروسية الجديدة.. وتؤكد: آمنة تمامًا",
@@ -161,24 +175,10 @@
      "seen": "2026-11-16T15:27:17.571Z"
     },
     {
-     "title": "منتخب السنغال يفوز على السودان برباعية مثيرة في تصفيات أمم أفريقيا",
-     "url": "https://www.elbalad.news/7183054",
-     "source": "صدى البلد",
-     "time": "2026-11-16T15:25:14.000Z",
-     "seen": "2026-11-16T15:27:17.571Z"
-    },
-    {
      "title": "وزير التعليم يبحث مع «يونيسف» ووفد من وزارة التعليم الصينية تعزيز التعاون",
      "url": "https://www.youm7.com/story/2026/11/16/وزير-التعليم-يبحث-مع-«يونيسف»-ووفد-من-وزارة-التعليم-الصينية/7621084",
      "source": "اليوم السابع",
      "time": "2026-11-16T15:23:00.000Z",
-     "seen": "2026-11-16T15:27:17.571Z"
-    },
-    {
-     "title": "ترامب: ندرس تصنيف الإخوان و\"كير\" تنظيمين إرهابيين",
-     "url": "https://www.youm7.com/story/2026/11/16/ترامب-ندرس-تصنيف-الإخوان-و-كير-تنظيمين-إرهابيين/7621064",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T15:17:00.000Z",
      "seen": "2026-11-16T15:27:17.571Z"
     },
     {
@@ -195,6 +195,13 @@
      "source": "CNBC عربية",
      "time": "2026-11-16T12:42:52.000Z",
      "seen": "2026-11-16T13:06:23.166Z"
+    },
+    {
+     "title": "هل تبيع مصر برجها الأيقوني؟.. وزيرة الإسكان تكشف التفاصيل وترد على لميس الحديدي",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vUjk3N3FLUGlRd2lIbDh1UGFUdDIyZDBNZDVlSWU1YTBTSWprXzNuazFjblBMa0IzdnZhSXBVdm9CeDQ1ajhySGF1NFl4YkdXZmRJZUx4dzJsYUxXSE5F?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-16T12:31:00.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
     },
     {
      "title": "الميرغني: شيخ الطريقة الذي اعتلى منبر السياسة ونادى بـ\"وحدة السودان أرضاً وشعباً\"",
@@ -230,13 +237,6 @@
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-16T10:57:00.000Z",
      "seen": "2026-11-16T11:06:21.962Z"
-    },
-    {
-     "title": "الحكومة تدرس مبادرات لـ«منظومة حوافز لترشيد استهلاك الكهرباء» (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hdHV5ZHRVd1cwN1p0M1NWb1RxRElQN2JDaFR1dkRTY3VCRWxkRmtBcmc3WGRhSUhfRlI4QVNnWUdBTmdGNjFWVEtmcExyU0lqMnhzYWlOOXZ2aFc3UzE4?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-16T10:49:00.000Z",
-     "seen": "2026-11-16T10:56:22.152Z"
     }
    ]
   },
@@ -360,6 +360,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "والتز من بيروت: على حزب الله أن ينزع سلاحه طوعا",
+     "url": "https://www.skynewsarabia.com/middle-east/1905109-%D9%88%D8%A7%D9%84%D8%AA%D8%B2-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%8A%D9%86%D8%B2%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD%D9%87-%D8%B7%D9%88%D8%B9%D8%A7",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T15:27:22.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
+    },
+    {
      "title": "مصر.. ثورة جنسية صامتة تكسر تابوهات المجتمع عبر مواقع التواصل",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261116-%D9%85%D8%B5%D8%B1-%D8%AB%D9%88%D8%B1%D8%A9-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%B5%D8%A7%D9%85%D8%AA%D8%A9-%D8%AA%D9%83%D8%B3%D8%B1-%D8%AA%D8%A7%D8%A8%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84",
      "source": "فرانس 24",
@@ -449,13 +456,6 @@
      "source": "DW عربية",
      "time": "2026-11-16T13:23:00.000Z",
      "seen": "2026-11-16T13:26:23.158Z"
-    },
-    {
-     "title": "إيرادات قياسية وفرص عمل أقل..أزمة صامتة تضرب الصناعة الألمانية",
-     "url": "https://www.dw.com/ar/إيرادات-قياسية-وفرص-عمل-أقل-أزمة-صامتة-تضرب-الصناعة-الألمانية/a-79958353?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-16T13:19:00.000Z",
-     "seen": "2026-11-16T13:26:23.158Z"
     }
    ]
   },
@@ -469,6 +469,13 @@
      "source": "العربية",
      "time": "2026-11-16T14:51:39.000Z",
      "seen": "2026-11-16T14:57:17.830Z"
+    },
+    {
+     "title": "تحذير من سيناريو كارثي يهدد محطات أوكرانيا النووية",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQeVJpRjE2em50T3BMY3c2NmV2NEZzNkJ0ZTRiSzFTbUo4Mnp5bXJzY3JSZmlSZFdWeXFIV0p6dGlXa3M1UzVkNjhONUg1S3hQS0hKY0JxTzJVNzVRYm81VnpsUDluM0paUkhQUzhfaUR3Sk9YRWxpbDE0bXJBMjVjbkg2V2xuanJzcDZXOFcwTE5HS2NadnNNSnJpa2RkSzlwT0lxNjlhandNOEduZEI2MG9PTXptYlcwYkdnRC1oVjV2WThyTUxia2VrLTd3MzZ4SHVoSS1nQmF6N0dwU0g4b08yQS0wbGNscjZ1ZGVVYWFuT3E1MlRydmgyUGZzajE4TDk2NmJteFVDWUY3TmtxenREaW45YmdXZWg2clowdGxha3Jmdk5wMGdfdmdPbk5NYTlBbE1aMXNxcERQN0hQOGtwdGZ3RWJPNFZvNkI2dmtqWmY2SjBnOHpfWkpfeXhMTTNCTWljWGN0cGJiYUJ2NHZyTW1BMkdLVGVHVkpRUlV1YWVOTFJxMDRRU282em5TZHJVbUNCSW1hTDZqUGxCQ1hJajNDQVnSAawDQVVfeXFMUDdHaVVzejR3ZlNOX0xFb3NDSFpCei02RVNtcGJZa3MzNVdYYnIyWklXNmRfOVVnakRsRFlJY09FZWtMYnhoRTdkdndZVTBnbnFBRllxSnBWeFNmbUdub1p3bkpBYjNwb0puQnhUTnRnSkRlb3gwSzNSMW9DMkRTNUEzZ29CUGlEeFEzekpfQU5UNHFvRlRkOFktajlIVmtSUDFnVmxab3FiMVdKR1RIbXlPMFFsajVSYXgwTXdlWjdzQmpSWUN1TWJfSGRka0ozYlhxd1VuX0luTk1wVWNjUnNwYnpJSTZNSkc1ZVk2OXNCejJwa1M2Y1RUSC0xOUpuM2YzY1RNV2h0OEtJNGZEUzNJTjYtcE5lWmRGX0t2TzgyLU5wcElOdTJLLXBIdTJMMXJqMzN2NE5haG5CUWlSaFlzSFdCME9McVF5OFJHMmV1akVlQV9BcGpNZ1lfemRUZHlUaXhvV0M3dXBjajdmcE1WNlRkTlhwRTdBWTVSRW9hRU5XN3p4OXJTeG8zVkFjTVQ1OXhncWdLQUFSOWRqS0xmVjBMOU9NVUxROFQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T14:30:27.000Z",
+     "seen": "2026-11-16T15:37:17.805Z"
     },
     {
      "title": "ملايين الصور لفلسطينيين.. هل استخدمت إسرائيل أمازون لرصدهم؟",
@@ -545,13 +552,6 @@
      "seen": "2026-11-16T13:56:22.907Z"
     },
     {
-     "title": "الأردن يعلن حجب تطبيق\"تلغرام\"",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSDl3c2R1RTdFWDRwcDlNNGx1NXludkpiUEx3ZUttUWE5bmpGaTJEdFpZekxsVjFWVlY2d0xkck5QTjJfcHpIQUtmRHpvcDU3T3NKOXJNLWZEQ2JmeXpia2RJcjMzZjhteXNfSWdpVUN5Sm5EcGNLWGw5TFhLVXp4bGtiUUhxdllDMXpNTVZpZ2JuM0RKZVdJblJsYmtoSV8wdmxVdXAybmpyVnhtWWtxNUJFdHdxTU1pb21DR2JVM182bXlPbUdRZmdWZVVSOXJvSHhFend2Tmliam5kem5DdTRNZ3ctVnVodjlqcGlTVjJRU1h5TnBIeFNrR2RlZ1l3b2I5RHE5ZHlXSmRNUUU0dG14RjZuQlB4WGNsTl95QU4yVm5n0gGqAkFVX3lxTE92amFMRC14V1RaQTEyNTVIcTFTRDVGNjIzN2hwcVZTQXQ5OXNzWnFycUtmSV9xQVhNeUdJUTY2R21kc0FvbTl2SDI2Q1V2WjFWcVdqNkRwTVVLQkIzbXpYQ0tWX2ZYQWZfOGZLOFkwT3hRb1lxaXJwSmpuU0NwSE12M1lxS0YxM1pSUFdBMjZpcFA1M0JTVlRKYzgxMHk0cE5LdURMc0hvRmY5RkxIS3hUckJPYXpJNlhjbVNUbFdHcnVuWEt2Y0hONWlUaUN1bjdQRDNvQTVMVkZaNk1ITzZVTU0weXZuOFFWQnFMV0xGRUxHeEE1SDduZ09ablNHaHZxSzJxRHZmeDZMa1QtNVpmeWoyN2RGUk85NWJQRzdJRjF4Zm1jRWVmZ2c?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T09:08:14.000Z",
-     "seen": "2026-11-16T14:47:17.338Z"
-    },
-    {
      "title": "74 % من البشر أونلاين.. 6.15 مليار مستخدم للإنترنت و5.81 مليار حساب سوشيال",
      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNcTdNRmNENEtzem1YY0xtT1NQdlN2VUI2cndkYnU2Ykc5M0RnNGx4MnFZdHRQQXhCX1lrRWZVZFpyOFNLWFJmR3FCYXRVbEdkVk1KQmpFNEhRZHhDamZjQ24zZkg1R2k1QlMtTkhBSl91MlpLUl9TYU5ZMmFjY3RQQVNMSXhfV3ZaeUlxZ3pTcGVEbGlPMC13eUdwdGJpZlZ3d3RLakNOQVpvTzFaSzdUOVluSUFfUGhFUU05dHdiekdkN0dvQU9SUGFhSk80b0JPSmdqM0psS2wtbWhIS2l0aFROTHdtQU96THFDMks2aFpNWmp1Ukx4RVctRmRXUk1YWTJrcXI2b09jbnlFNnJMaVFvTjlOQVBtODFvcDgyN0tINGN6LVpsOUE3NWhiZE9uVlFxa2JhSFY5bVdZSVBBZndqWTJYMHlJekowQW8zR2dENVVhWm9UQXVRenVrLUVPazdCSXh6dEhKVFQ2OU95MlVHUjVnLVY5Q2huS29tb9IB-gJBVV95cUxPemR5dTlVaDgzQXFzRkpfWlJoSWFoVTNCaXA0Y1BZWmU1ek55QkZ4X1dfZFM2eHd3cXNjRFY2bFRERF9NcE4xZ2tVMkEyRWd2d3YwMElnV3FILWpxRVJwNmkxb1loUnU2bzJCY0ZVSDdQSXI3SlpuOVJwT01LTXBjMER0YkZrZlZGcFJCcWpKLXlYa0Q4WjBFQ1AtTUF6WUpWWS1oUTZENy0yYktNYklBMkxBUmxRQWJzbWt2c3lFTEU2RjRiOHRHbkdaOFA2VEZGdFNKd3VJeG9oc00xMEFYY2lJdmN4enNpWWd5MGR3bkFuWWdoQzJRb18ya1lnMDQxaEM1Q2s3RmZzOUVFZGFfTDNSTDdiOExuUzVQaGxLTndpWG5rMDBheXVqQ2JKY2JTX1U4UzJrcExidHl6OWd1aE1RekhEeUQxUVRwRUgwdG13c1FiQUtGaVJubUI3dUVEdElxLWtpbTdkeTJQc3RtaDZNNHRPVnZvaUE?oc=5",
      "source": "اليوم السابع",
@@ -571,11 +571,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
