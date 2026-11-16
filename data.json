@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T03:54:46.032Z",
+ "updated": "2026-11-16T04:04:46.139Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -10,7 +10,9 @@
   "at": "2026-11-16T03:44:45.545Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T04:04:46.139Z"
  },
  "markets": [
   {
@@ -28,7 +30,7 @@
    "unit": "ج.م/جرام",
    "value": 5859,
    "change": 0.34,
-   "asOf": "2026-11-16T03:44:47.000Z",
+   "asOf": "2026-11-16T03:54:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -37,7 +39,7 @@
    "unit": "ج.م/جرام",
    "value": 6689,
    "change": 0.34,
-   "asOf": "2026-11-16T03:44:47.000Z",
+   "asOf": "2026-11-16T03:54:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,7 +48,7 @@
    "unit": "$/أونصة",
    "value": 3875,
    "change": -0.3,
-   "asOf": "2026-11-16T03:44:47.000Z",
+   "asOf": "2026-11-16T03:54:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,7 +66,7 @@
    "unit": "$",
    "value": 1.1019,
    "change": -0.28,
-   "asOf": "2026-11-16T03:54:45.000Z",
+   "asOf": "2026-11-16T04:04:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64952,
-   "change": 1.29,
-   "asOf": "2026-11-16T03:54:45.000Z",
+   "value": 64947,
+   "change": 1.28,
+   "asOf": "2026-11-16T04:04:46.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,50 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "فايننشال تايمز: لا لقاء بين ترامب وزعيم كوريا الشمالية خلال زيارته للصين والفلبين",
-     "url": "https://www.elbalad.news/7182312",
-     "source": "صدى البلد",
-     "time": "2026-11-16T03:46:45.000Z",
-     "seen": "2026-11-16T03:54:46.032Z"
-    },
-    {
-     "title": "فقد السيطرة على غرفة الملابس.. جراديشار يكشف أزمة توروب في الأهلي",
-     "url": "https://www.elbalad.news/7182300",
-     "source": "صدى البلد",
-     "time": "2026-11-16T03:30:00.000Z",
-     "seen": "2026-11-16T03:34:30.226Z"
-    },
-    {
-     "title": "أسهل طريقة لاستخراج قيد عائلي مميكن",
-     "url": "https://www.elbalad.news/7182288",
-     "source": "صدى البلد",
-     "time": "2026-11-16T03:30:00.000Z",
-     "seen": "2026-11-16T03:34:30.226Z",
-     "impact": "يفيد الأفراد في مصر في معرفة الإجراءات الميسرة لإنهاء أوراقهم ومستنداتهم الثبوتية الرسمية."
-    },
-    {
-     "title": "«حماية المستهلك» يكشف لليوم السابع التعديلات المقترحة لمواجهة الإعلانات المضللة",
-     "url": "https://www.youm7.com/story/2026/11/16/«حماية-المستهلك»-يكشف-لليوم-السابع-التعديلات-المقترحة-لمواجهة-الإعلانات-المضللة/7618898",
+     "title": "راقبوا السماء قبل الفجر.. المشترى والمريخ فى اقتران بديع اليوم يشاهد بسهولة",
+     "url": "https://www.youm7.com/story/2026/11/16/راقبوا-السماء-قبل-الفجر-المشترى-والمريخ-فى-اقتران-بديع-اليوم/7618858",
      "source": "اليوم السابع",
-     "time": "2026-11-16T03:00:00.000Z",
-     "seen": "2026-11-16T03:04:30.108Z",
-     "impact": "يعزز حماية حقوق المستهلكين ويوضح للشركات والمستثمرين في مصر الضوابط المقترحة لتسويق المنتجات والخدمات."
+     "time": "2026-11-16T04:00:00.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
     },
     {
-     "title": "طرق التواصل مع جهاز حماية المستهلك لتقديم الشكاوى.. تفاصيل",
-     "url": "https://www.youm7.com/story/2026/11/16/طرق-التواصل-مع-جهاز-حماية-المستهلك-لتقديم-الشكاوى-تفاصيل/7618955",
+     "title": "صرف معاشات ديسمبر 2026.. اعرف الموعد ومنافذ الصرف",
+     "url": "https://www.youm7.com/story/2026/11/16/صرف-معاشات-ديسمبر-2026-اعرف-الموعد-ومنافذ-الصرف/7617869",
      "source": "اليوم السابع",
-     "time": "2026-11-16T03:00:00.000Z",
-     "seen": "2026-11-16T03:04:30.108Z",
-     "impact": "يمنح الأفراد في مصر دليلاً عملياً وسريعاً لحل النزاعات الاستهلاكية وتقديم البلاغات الرسمية."
+     "time": "2026-11-16T04:00:00.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
     },
     {
-     "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الإثنين 16/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/16/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الإثنين-16-11-2026/7619184",
+     "title": "مرصد الأزهر يطلق النسخة الخامسة من منتدى «اسمع وتكلم» اليوم",
+     "url": "https://www.youm7.com/story/2026/11/16/مرصد-الأزهر-يطلق-النسخة-الخامسة-من-منتدى-«اسمع-وتكلم»-اليوم/7619326",
      "source": "اليوم السابع",
-     "time": "2026-11-16T02:00:00.000Z",
-     "seen": "2026-11-16T02:04:29.881Z",
-     "impact": "تفيد المسافرين يومياً بين القاهرة والإسكندرية في تنظيم مواعيد تنقلاتهم ورحلاتهم بدقة."
+     "time": "2026-11-16T04:00:00.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
+    },
+    {
+     "title": "مواعيد مباريات اليوم الإثنين 16-11-2026 والقنوات الناقلة",
+     "url": "https://www.elbalad.news/7182296",
+     "source": "صدى البلد",
+     "time": "2026-11-16T04:00:00.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
+    },
+    {
+     "title": "الزواج العرفي حلال أم حرام؟.. الإفتاء تحسم الجدل وتوضح مدى صحة عقد الزواج شرعًا",
+     "url": "https://www.elbalad.news/7182228",
+     "source": "صدى البلد",
+     "time": "2026-11-16T04:00:00.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
+    },
+    {
+     "title": "السفير محمد بدر الدين: يجب منع إقامة سدود إثيوبية جديدة.. ومصر تدعم التنمية بشرط احترام حقوقها المائية",
+     "url": "https://www.elbalad.news/7182178",
+     "source": "صدى البلد",
+     "time": "2026-11-16T04:00:00.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
     },
     {
      "title": "أهمها زيادة المرتبات.. 4 قرارات عاجلة من الحكومة تهم ملايين المواطنين",
@@ -250,7 +248,7 @@
      "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 16 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aalRVZklzZllwXzM1N01zdExkVGYteW56V0trM1ZEaHB2VnRucThPY0F1TWFrb01sWUhyUm5xTkFpbnRz?oc=5",
      "source": "جريدة الدستور",
-     "time": "2026-11-16T02:25:41.000Z",
+     "time": "2026-11-16T03:55:41.000Z",
      "seen": "2026-11-16T01:04:29.668Z",
      "impact": "يفيد المستثمرين والأفراد في مصر لمتابعة استقرار أسعار الصرف وتخطيط معاملاتهم المالية."
     },
@@ -538,6 +536,13 @@
      "impact": "تهم رواد الأعمال ومستخدمي التقنية في مصر للتعرف على أدوات وتطبيقات جديدة لتحويل حركة الشفاه إلى نصوص."
     },
     {
+     "title": "هونر Magic 10 Pro Max وUltra سيحصلان على شاشة مزدوجة الطبقة الجديدة",
+     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOSm5KZkV5WTBLMEctN2s0OE9GQVE1ZFhmMWZCM0FrZVhFNmZCU3E2c1RqSzkzbGIwWndWcl9lQ1dVemtHZV9LUVR1UnlzQXBYMjIyUTZ0RUNvdjJkaWUxZWVIVWo5QXpsUGhoWG44SU1KOThFSkhFRHJnUUhJS2Q1V0k3OTFzSHNYYXVPRk9QUlkxaGxoMWtzbG1XOXE1bmxFb3ZUSzY0cldLalhPcGlSa3czZmc4N1B4SjR2RUttalhzUk54d3Mxd05LRjFyMTdJcG5KMEFuYXdsckIzOFFqVlp4QkxzY2NiR3RMTzNwbmY4RTc0a09LVEFPUFozMXBuNUs4UlhIdGtzdGVKZks3eTlKYTlpUjdmLTVYemVNeXBsU3BLczNwOGx5Q3JDdnNuZDFveVR0Qk9VTnZKWjFsUUlXSnJXLW5tRjdudUFOOEtvejYtSEE?oc=5",
+     "source": "عالم التقنية",
+     "time": "2026-11-15T16:08:18.000Z",
+     "seen": "2026-11-16T04:04:46.139Z"
+    },
+    {
      "title": "التحالف يعلن اعتراض وتدمير طائرة مسيرة بمنطقة المدينة المنورة",
      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOS1dHTlhHdXVwSVRRVWhCa1cxWHo3cWNqcWNtNzRITkdfV3UyN2I1d2YzT3hPdlQxZ3VlaFlVVVNyZ3BUSmFLaFBWOE5pamIwclh1YTJDc1JFaUlXRkJtQkM5Q2ZsbS1NeThQWnpLU05XaDE0MlVXQzN3dEtua01SZlBIODQ3Z2sxTzBTY2k2NWF5NWF4ZTNWRlpaejBBcUgtZThEZlRjOHF0RHdhODhXQU9JNkRHUUJrUk1ZSDJONnhZaWpOZjRPWEVKQ3lpSTAxZTV6VUc1QlljMzRPRHB3ZWpUcVBQU25Rb1dfY09LX3dudUI5NGNFVDFScjNnbDV6aHpQU0hRVkE5WlVaZVV4WVQ4YkhPaTliUDFFX0E1bFkyei1BMEtoZmwxYjZfOUpxaEc4WXI3c1JwbU9SN0JrOVhnNVdLX3F2V0taOVJhb0F2ZHJaZzNYaGpqdHRNblItNW5haUl0ZVp0eENRVGZLTFdZUXN1R2ZZS0Y4LUZVTUdvYTNZcnNCSmhJendRNWNjRS05clR6cVBRbl94ZkdTNHdGMDhrWXRDUVNWZE5yTWNBem05SVFwUExFcUNWd0Q3RW8zUnJydFZvbE44MmZpNkRsZEhyVGVpVktscXh0UHlTTlFxWjJhalpxWndHRG1uaG1qQ2pDOTRmTDhDM2JEV0Z6YmR1S2ZOSkh0RXNB0gGIBEFVX3lxTE9aZ29DUjhCVldtTWZHZGFqMXFhVDBNckIzcVFSOEdtYnRaSnVMY0loQ1kxUVI1dG1zeFpDb2NJeXVvNmNNNUIxZE9QZ3NkaDhuTUt3YnM5VmpYeS03YV9mM2ljOHhPWGdyQWZxcGRReldfNXdZSDJyWE9yY3pYWUloMy0zOFF1LXFGX1VTQzhETmZWLXFZcTN4OXJkcUc1N0FDaFg4dzlwbmFSUjM1dnpBSUZqMUVJTDlFbGZZU19salY0VGpIYU9VUzFtYmVuVEs5d0FZTHZqdGJhYmlzWXdEeXgzNGRuYUwtUElqc2QzZzNDWVhJS19xLVZHc1BpSkh1Z1ZMTm83TFlhbEMxeTg3aFU5T2pGZFRDdXA4QXI2enIxYjc5eHlIYnFOcFlWbzdzc2pMTHByNGx0M1QzZWhaLWV1VEQxb1FxSzlpa21nWjNhck1wVkxTNldLcDVUMDU1a3lma3F4c1VIMllvRTJUaU13dGRRaFBtemxEVTJoclNUMy1BOXplZ0NEYU9nY0k3LWd6THZ2c3ZGdWhaZFZJM2Rwd1diQ3ptYlNKU2piN1U2dW1WZ2Vrd1JrWUlYUjA4Z3BhRVhEZGZFNmxMZFFaOFNvTmJ2dlhXRC1teG84TjBmbHVZTTZMTmFrZFNic3VNamtvX0R1ZDZrU3c3ZHZVWHZoQktaWHY?oc=5",
      "source": "اليوم السابع",
@@ -564,13 +569,6 @@
      "source": "العربية",
      "time": "2026-11-15T14:18:00.000Z",
      "seen": "2026-11-16T01:34:29.592Z"
-    },
-    {
-     "title": "مشاركون في “كوب 31” يحذرون من مخاطر الذكاء الاصطناعي على ‏الطاقة والنقل",
-     "url": "https://sana.sy/international/2636222/",
-     "source": "الوكالة العربية السورية للأنباء",
-     "time": "2026-11-15T14:01:00.000Z",
-     "seen": "2026-11-15T21:23:42.798Z"
     }
    ]
   }
