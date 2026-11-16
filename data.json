@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:54:46.236Z",
+ "updated": "2026-11-16T05:04:45.881Z",
  "minute": [
   "شهدت مصر مناقشة كواليس رفع الحد الأدنى لأجور القطاع الخاص إلى 8500 جنيه وسط استقرار لسعر صرف الدولار في البنوك.",
   "كشف جهاز حماية المستهلك في مصر عن تعديلات مقترحة لمواجهة الإعلانات المضللة وطرق تقديم الشكاوى.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-16T04:54:46.236Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T05:04:45.881Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5860,
-   "change": 0.37,
-   "asOf": "2026-11-16T04:44:42.000Z",
+   "value": 5851,
+   "change": 0.23,
+   "asOf": "2026-11-16T04:55:47.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6691,
-   "change": 0.37,
-   "asOf": "2026-11-16T04:44:42.000Z",
+   "value": 6680,
+   "change": 0.23,
+   "asOf": "2026-11-16T04:55:47.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3876,
-   "change": -0.26,
-   "asOf": "2026-11-16T04:44:42.000Z",
+   "value": 3870,
+   "change": -0.39,
+   "asOf": "2026-11-16T04:55:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1019,
-   "change": -0.28,
-   "asOf": "2026-11-16T04:54:46.000Z",
+   "value": 1.1023,
+   "change": -0.25,
+   "asOf": "2026-11-16T05:05:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -74,7 +74,7 @@
    "name": "خام برنت",
    "unit": "$/برميل",
    "value": 95.27,
-   "change": -0.59,
+   "change": -0.57,
    "asOf": "2026-11-16T04:40:07.000Z",
    "source": "Yahoo Finance"
   },
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64793,
-   "change": 1.04,
-   "asOf": "2026-11-16T04:54:43.000Z",
+   "value": 64637,
+   "change": 0.79,
+   "asOf": "2026-11-16T05:05:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,11 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وفاة مؤذن مسجد عقب انتهائه من ترديد الشهادتين أثناء أذان صلاة العصر",
-     "url": "https://www.elbalad.news/7182317",
+     "title": "هيئة بريطانية: 4 مسلحين يهددون ناقلة نفط قبالة سواحل اليمن",
+     "url": "https://www.elbalad.news/7182320",
      "source": "صدى البلد",
-     "time": "2026-11-16T04:35:01.000Z",
-     "seen": "2026-11-16T04:44:45.486Z"
+     "time": "2026-11-16T05:03:18.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
+     "title": "متى لا يجوز لطالب البكالوريا اختيار اللغة الثانية.. وحالة واحدة تمنعه من تغييرها",
+     "url": "https://www.youm7.com/story/2026/11/16/متى-لا-يجوز-لطالب-البكالوريا-اختيار-اللغة-الثانية-وحالة-واحدة/7615927",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T05:00:00.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
+     "title": "«الزراعة» تشدد الرقابة على سوق المبيدات وتحاصر المنتجات مجهولة المصدر",
+     "url": "https://www.youm7.com/story/2026/11/16/«الزراعة»-تشدد-الرقابة-على-سوق-المبيدات-وتحاصر-المنتجات-مجهولة-المصدر/7618760",
+     "source": "اليوم السابع",
+     "time": "2026-11-16T05:00:00.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
+     "title": "رسالة مهمة من عموتة للاعبي الأهلي قبل مواجهة بيراميدز",
+     "url": "https://www.elbalad.news/7182305",
+     "source": "صدى البلد",
+     "time": "2026-11-16T05:00:00.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
+     "title": "دبلوماسي سابق: مصر الضمان الرئيسي للحفاظ على القضية الفلسطينية.. والشعب الفلسطيني لن يترك أرضه",
+     "url": "https://www.elbalad.news/7182182",
+     "source": "صدى البلد",
+     "time": "2026-11-16T05:00:00.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
     },
     {
      "title": "84% من القراء يؤيدون ضبط تجار العملة عبر مواقع التواصل لحماية الاقتصاد الوطنى",
@@ -152,34 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-16T04:34:00.000Z",
      "seen": "2026-11-16T04:44:45.486Z"
-    },
-    {
-     "title": "عروس على كرسي متحرك تخطف القلوب بنظراتها لعريسها.. ومواقع التواصل تتفاعل مع قصة حبهما",
-     "url": "https://www.elbalad.news/7182315",
-     "source": "صدى البلد",
-     "time": "2026-11-16T04:33:49.000Z",
-     "seen": "2026-11-16T04:34:45.687Z"
-    },
-    {
-     "title": "العالم بحاجة إلى السلام.. جوتيريش يدعو لإنهاء الحروب في غزة واليمن والسودان وأوكرانيا",
-     "url": "https://www.elbalad.news/7182316",
-     "source": "صدى البلد",
-     "time": "2026-11-16T04:32:45.000Z",
-     "seen": "2026-11-16T04:34:45.687Z"
-    },
-    {
-     "title": "راقبوا السماء قبل الفجر.. المشترى والمريخ فى اقتران بديع اليوم يشاهد بسهولة",
-     "url": "https://www.youm7.com/story/2026/11/16/راقبوا-السماء-قبل-الفجر-المشترى-والمريخ-فى-اقتران-بديع-اليوم/7618858",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T04:00:00.000Z",
-     "seen": "2026-11-16T04:04:46.139Z"
-    },
-    {
-     "title": "صرف معاشات ديسمبر 2026.. اعرف الموعد ومنافذ الصرف",
-     "url": "https://www.youm7.com/story/2026/11/16/صرف-معاشات-ديسمبر-2026-اعرف-الموعد-ومنافذ-الصرف/7617869",
-     "source": "اليوم السابع",
-     "time": "2026-11-16T04:00:00.000Z",
-     "seen": "2026-11-16T04:04:46.139Z"
     },
     {
      "title": "منح مالية ورواتب بالدولار.. 6 دول تفتح أبوابها للمصريين للهجرة والإقامة رسميًا",
@@ -245,6 +245,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار في مصر اليوم الإثنين.. آخر تحديث",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Wa2o0RXNyRlRBZWdpZW0xZTFWcXJxUm05YmVmNTMtTWxjM1k5My11SUlzY0w4dHFCNzdNOFFrOG5jenQ2SU93?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-16T05:00:00.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
+     "title": "الحاصل على أعلى الدرجات بامتحان المحاسبة الضريبية في كوريا الجنوبية يعترف بالغش، فما القصة؟",
+     "url": "https://www.bbc.com/arabic/articles/cqze737ng165o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T04:56:23.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
+    {
      "title": "الحرس الثوري الإيراني يعلن استهداف قاعدة عسكرية بالبحرين، واعتراض صواريخ باليستية في الرياض",
      "url": "https://www.bbc.com/arabic/articles/c5evr91z1ek4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -260,18 +274,11 @@
      "impact": "يهم المستثمرين والمتابعين للشأن الاقتصادي لمعرفة تأثير التوترات الإقليمية على إمدادات الطاقة وأسعار النفط."
     },
     {
-     "title": "هل محمد صلاح الهداف التاريخي لمنتخب مصر؟ جدل عبر مواقع التواصل الاجتماعي",
-     "url": "https://www.bbc.com/arabic/articles/c6pw4rgkqrylo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T04:12:45.000Z",
-     "seen": "2026-11-16T04:14:45.910Z"
-    },
-    {
      "title": "استقرار سعر الدولار تحت سقف الـ54 جنيهاً فى البنوك اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOYThiSDNQbDRpcFJ3eWROMEI2Q2w4UFlEeVJHYW1oZmpIOEkzTjFSdWlCRzc5WUF4MDZhOVE5MmM4UXBELWZtX3dOVnE5U2ttZ3FYbzd6VmQwM3BScWdaTlRfbzFMOTFHMmp4WGhSNE1SMzZxN2xNUUxPRVk2cTRmTzE5bkpEa21DRnVrTlBDdFVMTWJGMTl3RS1wcUxCSW94dDJfY3hPLVc5SzFPNW15QkxseW1MWktBSmMtM1E5TWtyQ0VhY3MyWDczWFdab0Y5TF9jd0tDdVJtT0t1Q05PeUF4QzZSMEtYOGJDTl9PR214ODgtZGkwT2NCSzAwWnpoX0pzQ0FRSVpDdXBNX1F1c1NxMVgwQWVWZUROdTcyMWRsdmUwODg4bDZuLXNLZUNJZEpzU2NsaXpxRVNOUk5EdzhCamJpXzVFeW40cW14YVRRUHVSXzFVOFktamQ2dVpsQTZneWgwa1ptLUJaSWFDeHFqT3ZoOWNiaDF1azRPa1BTRTlfNVdhbXpDZWpkY0VVY3ZqRzRmbkZrR0dHU01WV0pHVS00akdnMWtQMmY0M2I5Z2Z2XzVvdUcxSU11TXlSY2NPS3oyLVpmaVFyd2lUNEFR0gHMA0FVX3lxTE1rNTBUSS00eS1YUDlJVkdfeURVZGc4eEVmTnU2Q2RZZ2VMVGlDTDQycFNmV0ZiM01VS0hwRmh4ckhCRXV0cThKVU5TOTItM1JydzZJLW9pOVVYc0szZndMWlBJMnVyX1UzcU5XV2kxYVFMaE9pRnpjU0FFZDAzdVlZdld0cmt4QnBRRWdndTZnNnVGVnB6amZIRXlnd09hWC1FMUxjMUctUS1xVmZEM0d3OHhsR1ZwQ3FScEJ0Y2ZiNGR3TFc2RHkwYW9zNGhBMm9Venp2T3ZKbGczS1pTcms3dDIyTC1YU1NQRk5VX2hfaXltMEJMbmV4aThkekZTZ0g3UjJBN2xGNWRTVDRKOWlYblJSS2hteUVsV2ZkdHA2eVgycDhzekhXQWNLT2dGRnZFamowbXRnYmNxZmE0cXQ2X0Y5dGxITkZFODJQQUNFWGxMUnY0UW5iSlQ3N1d1SjZlT2tSTEdBbHdqaDZRemNiLXZ4aFdONDNtdXZuY19yT1VkeUNnNHVneWJNazVjc3JRdmg3amtmQW9BOHgxeDkybUNORTZ2LWJpY3Q3LUpMcEY5ZG05MGxneGh1QzZaaWktTXI3djZEOEFieDM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNazUwVEktNHktWFA5SVZHX3lEVWRnOHhFZk51NkNkWWdlTFRpQ0w0MnBTZldGYjNNVUtIcEZoeHJIQkV1dHE4SlVOUzkyLTNScnc2SS1vaTlVWHNLM2Z3TFpQSTJ1cl9VM3FOV1dpMWFRTGhPaUZ6Y1NBRWQwM3VZWXZXdHJreEJwUUVnZ3U2ZzZ1RlZwempmSEV5Z3dPYVgtRTFMYzFHLVEtcVZmRDNHdzh4bEdWcENxUnBCdGNmYjRkd0xXNkR5MGFvczRoQTJvVXp6dk92SmxnM0taU3JrN3QyMkwtWFNTUEZOVV9oX2l5bTBCTG5leGk4ZHpGU2dIN1IyQTdsRjVkU1Q0SjlpWG5SUktobXlFbFdmZHRwNnlYMnA4c3pIV0FjS09nRkZ2RWpqMG10Z2JjcWZhNHF0Nl9GOXRsSE5GRTgyUEFDRVhsTFJ2NFFuYkpUNzdXdUo2ZU9rUkxHQWx3amg2UXpjYi12eGhXTjQzbXV2bmNfck9VZHlDZzR1Z3liTWs1Y3NyUXZoN2prZkFvQTh4MXg5Mm1DTkU2di1iaWN0Ny1KTHBGOWRtOTBsZ3hodUM2WmlpLU1yN3Y2RDhBYngz0gHMA0FVX3lxTE1rNTBUSS00eS1YUDlJVkdfeURVZGc4eEVmTnU2Q2RZZ2VMVGlDTDQycFNmV0ZiM01VS0hwRmh4ckhCRXV0cThKVU5TOTItM1JydzZJLW9pOVVYc0szZndMWlBJMnVyX1UzcU5XV2kxYVFMaE9pRnpjU0FFZDAzdVlZdld0cmt4QnBRRWdndTZnNnVGVnB6amZIRXlnd09hWC1FMUxjMUctUS1xVmZEM0d3OHhsR1ZwQ3FScEJ0Y2ZiNGR3TFc2RHkwYW9zNGhBMm9Venp2T3ZKbGczS1pTcms3dDIyTC1YU1NQRk5VX2hfaXltMEJMbmV4aThkekZTZ0g3UjJBN2xGNWRTVDRKOWlYblJSS2hteUVsV2ZkdHA2eVgycDhzekhXQWNLT2dGRnZFamowbXRnYmNxZmE0cXQ2X0Y5dGxITkZFODJQQUNFWGxMUnY0UW5iSlQ3N1d1SjZlT2tSTEdBbHdqaDZRemNiLXZ4aFdONDNtdXZuY19yT1VkeUNnNHVneWJNazVjc3JRdmg3amtmQW9BOHgxeDkybUNORTZ2LWJpY3Q3LUpMcEY5ZG05MGxneGh1QzZaaWktTXI3djZEOEFieDM?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-16T04:00:00.000Z",
-     "seen": "2026-11-16T04:34:45.687Z"
+     "time": "2026-11-16T04:02:19.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
     },
     {
      "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 16 نوفمبر 2026",
@@ -343,14 +350,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-15T22:18:00.000Z",
      "seen": "2026-11-16T03:24:30.154Z"
-    },
-    {
-     "title": "مسئولان بالسفارة الألمانية: برلين تدعم تحول القاهرة إلى مركز إقليمى للإنتاج والتصدير",
-     "url": "https://alborsaanews.com/2026/11/16/2006505",
-     "source": "البورصة",
-     "time": "2026-11-15T22:17:21.000Z",
-     "seen": "2026-11-15T22:34:30.139Z",
-     "impact": "يدعم التوجه الألماني لتحويل القاهرة لمركز تصديري إقليمي فرص الاستثمار الصناعي والتجاري في مصر."
     }
    ]
   },
@@ -371,6 +370,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-16T04:42:33.000Z",
      "seen": "2026-11-16T04:54:46.236Z"
+    },
+    {
+     "title": "هل محمد صلاح الهداف التاريخي لمنتخب مصر؟ جدل عبر مواقع التواصل الاجتماعي",
+     "url": "https://www.bbc.com/arabic/articles/c6pw4rgkqrylo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T04:12:45.000Z",
+     "seen": "2026-11-16T04:14:45.910Z"
     },
     {
      "title": "تظاهرات حاشدة في التشيك احتجاجا على إصلاح نظام تمويل وسائل الإعلام العامة",
@@ -451,13 +457,6 @@
      "source": "Masrawy",
      "time": "2026-11-15T22:03:00.000Z",
      "seen": "2026-11-16T00:14:30.084Z"
-    },
-    {
-     "title": "بيان رباعي يدعو إسرائيل إلى السماح بوصول المساعدات إلى غزة فورًا",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/16/quartet-statement-calls-on-israel-to-allow-immediate-access-for-aid-to-gaza",
-     "source": "CNN بالعربية",
-     "time": "2026-11-15T22:02:22.000Z",
-     "seen": "2026-11-15T22:24:29.761Z"
     }
    ]
   },
@@ -465,6 +464,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "شاهد.. الصين تنجز أول رحلة تجارية مأهولة لطائرة كهربائية",
+     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTHdGVlNqS25UeTNmSGd6WlVnZzFPX2FUY0N2QkR4S29qZFlTQkt5em9hUV9fR0RfRzRTbEZkTVphY2pHcUF1Tm1RN005czBUdmdXY25fczRPRHFXZjNuT3VGRDd3dzM2X2U2eDIyWFZuZmtfTmdqUE1waE9rb08yMmxJbjlNRmU4X0ZWV3NnYXJWaEJ0ZEZFeUpKM1JCYTZzQnp2ay1oelloSFZYLXFxNEgtVFpDcVg3YlNXYXpfd0dLQWhiVmJ2dXc3QUs4WWVEX3VFNjJBeEJ0U3hMQlZqLTktR2xGaUdkbHF5RURHdUpmNE1QT0dFWE1jSmpQazQ0V1hsVmRaX0FNYmJKY29wZXBuc1JSdllzekxpamJIRFJCRTJhSjN4NThBLUs4R0lXTUhZSmpnNU9zQnFYS0FIVWtmeElYQ284d1N5XzF5c3BYTkhVWmZpdmtrcEhLSEZpb1JhcUJjb2l6YUpxVERzV3hHTDQ0SDFVVzlWZUtBbWl4UEF5ZXI0TFdzb1BGeVZkWFJEYmt2bVlrS2lSWnFoUUNjWlBYaW1ESXBFbDdvOHBSekdLU1d6bFRqbF9FVlnSAcQDQVVfeXFMTWt0OG4tME9SZlU1RmdaZDJWTzFrRjVwVkwyaVdLcXhiYjdxa3pEcGNpU080MDJkUFpBdmlYVE9VOEZYZ2NtTGtBWGhkMDJlUVFINEU5Q25CU0x5aGdaX214bnZsamphbDJwODhaS1lVbTlhZUNDaEFyZ0JBUHpKUGNqWTFncjdXa2d3VTJFVE1lb2I2NXQ0Um11enFiSlpjVG1kejY5NHFDcU1UZWdMd0xVQnZpWWpxMkdad1pWMnd5VTA5Y2l5M1IxNXhncVBwWGJFdUJNMVF6WnJxQmMwVmdRWGFidkswVWlJdUtRZDh1aGlaaTlmZWo1VVl3NkR4Y2drSXJBbTM0N0NMTU4zdXFfeEZ3RHBvMmd3a0YzNE1NMkJISURWRU5QWXFicWV6WFZEelVFQ0YxeDQ5RFEydFVFUlc3YlFVZUg0akg0bFRDMVYzcmdzOGZNSHJ4cDJubjd3a0VSblMyd3lOWWNQUHNZQlhEXzdJOFRVWnBfaEt6aHg5ZU9UdHYyajllQ2xtUjhJQURCUGo0S0VaXzJiNktTNGt6SkFNWGo2T2VxdDZ3T3Flbl9RMEdUWm93YTVjTXBIeVY?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-16T03:51:07.000Z",
+     "seen": "2026-11-16T05:04:45.881Z"
+    },
     {
      "title": "دراسة: ارتفاع بلاغات مواد استغلال الأطفال المولّدة بالذكاء الاصطناعي بأكثر من 8400%",
      "url": "https://aitnews.com/2026/11/16/ai-generated-child-abuse-material-reports-childlight-2026/",
@@ -559,13 +565,6 @@
      "source": "الشرق للأخبار",
      "time": "2026-11-15T15:47:55.000Z",
      "seen": "2026-11-16T03:54:46.032Z"
-    },
-    {
-     "title": "أدباء: الحكاية باقية رغم تحديات الذكاء الاصطناعي",
-     "url": "https://www.alwatan.com.sa/article/1189337",
-     "source": "جريدة الوطن السعودية",
-     "time": "2026-11-15T14:20:00.000Z",
-     "seen": "2026-11-15T23:34:30.138Z"
     }
    ]
   }
