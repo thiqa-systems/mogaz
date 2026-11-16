@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:24:29.740Z",
+ "updated": "2026-11-16T00:34:30.215Z",
  "minute": [
   "تترقب الأسواق موعد الاجتماع الأخير للبنك المركزي لحسم أسعار الفائدة، بالتزامن مع متابعة توقعات أسعار الذهب وطفرة صناديق الاستثمار القطاعية.",
   "أعلنت الهيئة العامة للسكة الحديد مواعيد القطارات ورحلات تالجو، بينما كشفت شعبة المحمول عن زيادات جديدة مرتقبة في أسعار بعض الهواتف.",
@@ -9,7 +9,9 @@
   "at": "2026-11-16T00:14:30.084Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-16T00:34:30.215Z"
  },
  "markets": [
   {
@@ -18,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.75,
    "change": 0.64,
-   "asOf": "2026-11-15T23:50:34.000Z",
+   "asOf": "2026-11-16T00:24:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5889,
-   "change": 0.86,
-   "asOf": "2026-11-16T00:14:28.000Z",
+   "value": 5887,
+   "change": 0.82,
+   "asOf": "2026-11-16T00:24:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6724,
-   "change": 0.86,
-   "asOf": "2026-11-16T00:14:28.000Z",
+   "value": 6721,
+   "change": 0.82,
+   "asOf": "2026-11-16T00:24:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3895,
-   "change": 0.22,
-   "asOf": "2026-11-16T00:14:28.000Z",
+   "value": 3893,
+   "change": 0.17,
+   "asOf": "2026-11-16T00:24:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1027,
-   "change": -0.21,
-   "asOf": "2026-11-16T00:23:45.000Z",
+   "value": 1.1024,
+   "change": -0.24,
+   "asOf": "2026-11-16T00:33:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 95.68,
-   "change": -0.17,
-   "asOf": "2026-11-16T00:14:16.000Z",
+   "value": 95.71,
+   "change": -0.14,
+   "asOf": "2026-11-16T00:15:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64972,
-   "change": 1.32,
-   "asOf": "2026-11-16T00:24:17.000Z",
+   "value": 65016,
+   "change": 1.38,
+   "asOf": "2026-11-16T00:34:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,27 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أزمة مالية جديدة تضرب الزمالك.. النادي مطالب بسداد 3 ملايين جنيه| تفاصيل",
-     "url": "https://www.elbalad.news/7182276",
+     "title": "الأموال قادمة.. رسالة محمد صلاح للاعبي منتخب الناشئين قبل كأس العالم",
+     "url": "https://www.elbalad.news/7182279",
      "source": "صدى البلد",
-     "time": "2026-11-16T00:17:10.000Z",
-     "seen": "2026-11-16T00:24:29.740Z"
+     "time": "2026-11-16T00:33:46.000Z",
+     "seen": "2026-11-16T00:34:30.215Z"
     },
     {
-     "title": "نائب رئيس الزمالك: لا يوجد عروض رسمية لشركة الكرة وجميعها شفوية",
-     "url": "https://www.elbalad.news/7182265",
+     "title": "أمريكا تحذر مواطنيها في البحرين من هجمات محتملة.. والسفارة تدعو إلى أقصى درجات الحذر",
+     "url": "https://www.elbalad.news/7182280",
      "source": "صدى البلد",
-     "time": "2026-11-16T00:08:46.000Z",
-     "seen": "2026-11-16T00:14:30.084Z",
-     "impact": "يوضح للمستثمرين والمهتمين بالاستثمار الرياضي في مصر أن عروض شركة الكرة بنادي الزمالك لا تزال شفوية فقط."
+     "time": "2026-11-16T00:31:20.000Z",
+     "seen": "2026-11-16T00:34:30.215Z"
     },
     {
-     "title": "هشام نصر: القانون لا يمنعني من الاستثمار في شركة الكرة بالزمالك",
-     "url": "https://www.elbalad.news/7182274",
+     "title": "عمدة موسكو: تدمير 32 طائرة مسيرة كانت متجهة نحو العاصمة الروسية",
+     "url": "https://www.elbalad.news/7182278",
      "source": "صدى البلد",
-     "time": "2026-11-16T00:07:37.000Z",
-     "seen": "2026-11-16T00:14:30.084Z",
-     "impact": "يبين للمستثمرين في مصر عدم وجود مانع قانوني يستبعد مسؤولي النادي من الاستثمار في شركة الكرة."
+     "time": "2026-11-16T00:30:46.000Z",
+     "seen": "2026-11-16T00:34:30.215Z"
     },
     {
      "title": "مواعيد القطارات على خط أسوان القاهرة والعكس.. اليوم الإثنين 16/ 11/ 2026",
@@ -359,24 +359,24 @@
    "title": "العالم",
    "items": [
     {
+     "title": "المكسيك: وفاة ميغيل أنخيل فيليكس غاياردو أحد مؤسسي كارتل غوادالاخارا",
+     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261116-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%8A%D8%BA%D9%8A%D9%84-%D8%A3%D9%86%D8%AE%D9%8A%D9%84-%D9%81%D9%8A%D9%84%D9%8A%D9%83%D8%B3-%D8%BA%D8%A7%D9%8A%D8%A7%D8%B1%D8%AF%D9%88-%D9%83%D8%A7%D8%B1%D8%AA%D9%84-%D8%BA%D9%88%D8%A7%D8%AF%D8%A7%D9%84%D8%A7%D8%AE%D8%A7%D8%B1%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-16T00:01:27.000Z",
+     "seen": "2026-11-16T00:34:30.215Z"
+    },
+    {
+     "title": "دوري الأمم الأوروبية: فرنسا وبلجيكا إلى ربع النهائي وإنكلترا تنهي سلسلة إسبانيا",
+     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261115-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A5%D9%82%D8%B5%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%81%D9%88%D8%B2-%D8%A5%D9%86%D9%83%D9%84%D8%AA%D8%B1%D8%A7-%D8%B9%D9%84%D9%89-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-15T23:36:30.000Z",
+     "seen": "2026-11-16T00:34:30.215Z"
+    },
+    {
      "title": "الحوثيون يتقدمون نحو عدن والبحرين تعلن اعتراض هجمات جوية إيرانية",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261115-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%AA%D9%82%D8%AF%D9%85-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D9%86-%D9%84%D8%AD%D8%AC-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
      "source": "فرانس 24",
      "time": "2026-11-15T23:19:50.000Z",
-     "seen": "2026-11-15T23:24:30.211Z"
-    },
-    {
-     "title": "تقرير تلفزيوني يتهم مكتب نتانياهو بتدبير اعتقال ثلاثة ناشطين عرب يوم الانتخابات",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261115-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%D9%8A-%D9%8A%D8%AA%D9%87%D9%85-%D9%85%D9%83%D8%AA%D8%A8-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A8%D8%AA%D8%AF%D8%A8%D9%8A%D8%B1-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%86%D8%A7%D8%B4%D8%B7%D9%8A%D9%86-%D8%B9%D8%B1%D8%A8-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
-     "source": "فرانس 24",
-     "time": "2026-11-15T23:03:03.000Z",
-     "seen": "2026-11-15T23:24:30.211Z"
-    },
-    {
-     "title": "الحوثيون يعلنون أنهم باتوا على بعد كيلومترات من عدن جنوب اليمن",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261115-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D8%A3%D9%86%D9%87%D9%85-%D8%A8%D8%A7%D8%AA%D9%88%D8%A7-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D9%83%D9%8A%D9%84%D9%88%D9%85%D8%AA%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%B9%D8%AF%D9%86-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
-     "source": "فرانس 24",
-     "time": "2026-11-15T22:59:27.000Z",
      "seen": "2026-11-15T23:24:30.211Z"
     },
     {
@@ -464,6 +464,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "انتكاسة لـ\"أمازون\".. فقدت 40 قمرا اصطناعيا دفعة واحدة",
+     "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNVlNsekZBX1l5bHpfNm9GX0xnSy1CT3paRURSSzctbVYxM2tjRkh6MjlkeUZ0N1AzUUJ6ZHJMT0VyMXJybUZjdGhnc3l2VkVKeVVRXzhPVmJrN2JOWVhMYjNKd09TczN3eGEzVXgySjY2VnlfZ1NybzVxYmQ3Zk5icWlQTmc2Rm8xY0gtdkhBanlfRXF5SE5fbXJXN1UtTXpUZ0o4VFF0X1ZmWElkQWJMRExoTFNwZzVRQ3JicFNJV3NxWjAyV3NyczVQTWYzZC11ZGNMZXJnZU4zQVZYWHNRMDMwVzdPTTJiRkNTRndNLWFqTi1ucEFNV2R5UFdURU5jcDdrZFY2aW9OQk0xR0NNSW1aa1dJajUwSWJaUWJYWjVvTEFMWXRHd3ZlVXlhYXN6blRoSkxfV0Z3RDd4U3R6MEptendmM0Y2NTJqdDhjdzRMU09JUHMzRjctQm5ES1MtWW5XLXNFQzZvZGZhS1d1SDdHd3YtcnB1RVVCWU5kZ2dhN0JJNTUyQWJOY3k4OC1VZlJpUVVnaFlPaVFDNmtZMFZTZ9IBqANBVV95cUxQN1lWVUw1d3RJbHFSdGMxVDE2eGRfOHFucEdTSjFQSGRNUWNwN0lpMjNPUWRvcjZ6dzRoS01NT29VMDFYVE4yNURTMGFnRjJEYXNNNnhuMkliQUFfa1dlUURsd3lXUHNMREphc05MVEN0TzJmSDBoM3l2enhSUC1PWnNJVDA4VFVxbVh5TnN6QmpyVFpIbXgySTBLUVAtSlc4TUNabHdNV0VCWlJ5aW5Rc0VTcjBhTW1YbFE2c1VaOGJXM3pqTjVFMXYwa2RDUVF3YW9xYzB6QXN4UXQ2dkFVejMxLTlIclJudFFHOUNpS1NUc3FSY0lZSjd1Ym9YTzRoWUhSOUJRZDg4d20zOG1pZG5oeHVuV3BJSkJVak5adHpnXzNYcjlKRmFfendudjlybDZueG0tZ2IweWpHbEx5eVd1VmNGNWh4Rm9Cd2JOYk1NclJkeWpkRG5HX2ROS0NmUmM0SXJTeVZ2Z1JlMlBTaS1ydFlPc0pBWEVhRVZUR2tJLXRHVFY0c0I0S2dyREhRTVgxQ2hMMGRQZmpXNFROSzBqMF9IODFz?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-15T23:52:25.000Z",
+     "seen": "2026-11-16T00:34:30.215Z"
+    },
+    {
      "title": "هل يطوي الذكاء الاصطناعي الخبرة البشرية في عالم العطور؟",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQSjNPWDQ1a21TekpweVpLbW4yTVg0VTBhT2ROV1pqbGk0RkNjdmJLSzJodXAzNW11X3hodUFwLXlwWWFYeTB1X09MaDk1NkFYRlBQUVpOSHZzMmZFbkI4NHE0RW5aNV9MVl9Za0RIUGhFbFNlaFpqVzh5cVN6Q1Z4Vjd0aEhEUjkyM3d2Rlp1Qnd3TTNCUkUtZjdvZHJCSGwxOHVfcUxicEdKSS04eUMteWtYUlZRTWpvdWJ3Yi04cVBWZGI5STM1THBTalVLV0lNQjlkdXdVaXNXR3A2S1h0ZmN0MmlPTlp5YlJqWGdfUVFNR214THZxT3ZhQjE3QTJsc2NCVVFKakZJUmFzYll3NjRBSGg2dmdibXEyaHhlZGlVZzlDSmFYZzY0YkdyYk5UcWVEM1kwRmpKWmFBVGRPc3h5R2FOTjhwMjZyMUx2aERGaHFFeFZUbTZ1NVhQRkJLcUVkQTRXVU1sN1VYYmJMUjlVMDFHRlZLdUp1OFAyT1lrMms5LU9DZWxhZ3BQVjZ6RDRwZks4WVNZR0gybFZRc2t2QzRDSGo1N1FPSldEd0ZXN05jU0M4eXVFdmVtdGdRNk9faDNUdnJZTHhpRklWMkkxX0tkQTNGWVFiMFFNVHctR0NWQTdYNnZpSFpPTjM2M0pXd285SWQ4bnpic0MzejU4OHpkSm1xWExsYWdXUUllb0FtR2NwQlF2OU56QQ?oc=5",
      "source": "الشرق الأوسط",
@@ -491,13 +498,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-15T20:45:14.000Z",
      "seen": "2026-11-15T20:13:42.426Z"
-    },
-    {
-     "title": "وزير الأمن الداخلي الأميركي: المسيّرات أكبر مخاوفي",
-     "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQRElsc2tPTjg3cldHLVdJZDA0Tm1zQW91LXd2ckFtcDZRdDV2bWxGdnpJZk9SZ1MzWHZkQkhDN3dROHh0aWFPQjhPYkNnVU9oZmFJblJDZnhCZDdZakhuUWVvYkVUZUJob200WXk0NHB1aUl5V19vYXk2aU1RNEVtb2NjV09SZndVN3V2MWNRNDRUN0VpUzNNY0Rtc0J3bDhSQ2tKdFFuelV3UEo2c2lfOXVwdDFRcU1aXzBfbjRSYnV3SmR5Y08zRTl3TFdnV0tHanZUYjVkMFhPNkV6RkdmOF91cWF5R1ItNXhfdnF6Tm90YVdCNENKMmV2SnVfV1A1Mm5ULVVZSmZpLUN5aXkwUFNhTEUyQklDLVBQS0picm1ZaGVKcndLS0xOd3NtMWZqbkFaWjAxTUNDbWJ6emM2dHVfYXlwSnh3MEo0YjE0MUtCRzFVaWVOZGdFYVhoa2dsaVRuSklaaXIzLXM4ay05MndhXzcwRWQyTXhPX2dXbl9lOGVvWmxZc0FDTFJqYlMwdzZlNk9BT0JrTC1xLUw5ZXkzeGI5TE5kS1AzNnZuaw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-15T19:22:28.000Z",
-     "seen": "2026-11-15T19:53:42.447Z"
     },
     {
      "title": "ميغا سبييد: المشتبه بها بالتجسس للصين والتي ارتبط اسمها بالرئيس السابق لإنفيديا غادرت منصبها في 2025",
