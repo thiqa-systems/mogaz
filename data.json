@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-17T12:50:47.508Z",
+ "updated": "2026-11-17T13:00:47.834Z",
  "minute": [
-  "ضبطت مديرية التموين في القاهرة مخالفات شملت مخابز ودقيقاً مدعماً ولحوماً فاسدة، بينما أطلقت وزارة الزراعة مبادرة لدعم مزارعي الطماطم في تسع محافظات.",
-  "أعلنت هيئة الأرصاد عن استقرار الطقس وخرائط الأمطار، بالتزامن مع تأكيد محافظة الدقهلية جاهزية معداتها للتعامل مع الطوارئ.",
-  "سجل مؤشر الدولار ارتفاعاً إلى أعلى مستوى في 19 شهراً، مع استمرار متابعة أسعاره في البنوك المصرية.",
-  "أعلنت البحرين التصدي لهجمات جوية بمسيّرات، وتتواصل الهجمات المتبادلة والجهود الدولية لوقف الحرب بين روسيا وأوكرانيا."
+  "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
+  "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
+  "تابع العالم تطورات أمنية وسياسية مختلفة في المنطقة، بالتزامن مع تراجع في أسهم قطاع التكنولوجيا عالمياً."
  ],
  "ai": {
-  "at": "2026-11-17T09:58:53.509Z",
-  "model": "gemini-3.8-flash",
+  "at": "2026-11-17T13:00:47.834Z",
+  "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T12:50:47.508Z"
+  "impacts": 6
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5837,
-   "change": 0.7,
-   "asOf": "2026-11-17T12:40:49.000Z",
+   "value": 5838,
+   "change": 0.73,
+   "asOf": "2026-11-17T12:53:39.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6664,
-   "change": 0.7,
-   "asOf": "2026-11-17T12:40:49.000Z",
+   "value": 6666,
+   "change": 0.73,
+   "asOf": "2026-11-17T12:53:39.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3860,
-   "change": 0.18,
-   "asOf": "2026-11-17T12:40:49.000Z",
+   "value": 3861,
+   "change": 0.21,
+   "asOf": "2026-11-17T12:53:39.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": -0.27,
-   "asOf": "2026-11-17T12:50:46.000Z",
+   "value": 1.0996,
+   "change": -0.26,
+   "asOf": "2026-11-17T13:02:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.03,
-   "change": 0.64,
-   "asOf": "2026-11-17T12:40:18.000Z",
+   "value": 92.97,
+   "change": 0.57,
+   "asOf": "2026-11-17T12:53:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64908,
-   "change": 0.08,
-   "asOf": "2026-11-17T12:50:47.000Z",
+   "value": 65000,
+   "change": 0.22,
+   "asOf": "2026-11-17T13:03:40.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,46 +137,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نظافة القاهرة: 20 مليون جنيه لدعم التشجير وإتاحة الزراعة أمام المنازل مجانا",
-     "url": "https://www.youm7.com/story/2026/11/17/نظافة-القاهرة-20-مليون-جنيه-لدعم-التشجير-وإتاحة-الزراعة-أمام/7622305",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T12:50:00.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
+     "title": "تكريم طلاب المنوفية الأهلية الفائزين بدوري جامعة المنوفية الرياضي",
+     "url": "https://www.elbalad.news/7184122",
+     "source": "صدى البلد",
+     "time": "2026-11-17T13:00:08.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
     },
     {
-     "title": "فخامة الرئيس السيسى يهنئ المملكة المتحدة بمناسبة الاحتفال بذكرى العيد القومى",
-     "url": "https://www.youm7.com/story/2026/11/17/فخامة-الرئيس-السيسى-يهنئ-المملكة-المتحدة-بمناسبة-الاحتفال-بذكرى-العيد/7622308",
+     "title": "البابا تواضروس يستقبل وفد مكتبة «أمبروزيانا» الإيطالية بالمقر البابوى",
+     "url": "https://www.youm7.com/story/2026/11/17/البابا-تواضروس-يستقبل-وفد-مكتبة-«أمبروزيانا»-الإيطالية-بالمقر-البابوى/7622064",
      "source": "اليوم السابع",
+     "time": "2026-11-17T13:00:00.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
+     "title": "بسبب ماس كهربائي.. حريق يلتهم محلًا تجاريًا بالإسكندرية",
+     "url": "https://www.elbalad.news/7184137",
+     "source": "صدى البلد",
+     "time": "2026-11-17T12:59:01.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
+     "title": "وزارة الداخلية تحتفل بتخريج الدفعة العاشرة لمعاونى الأمن.. فيديو",
+     "url": "https://www.youm7.com/story/2026/11/17/وزارة-الداخلية-تحتفل-بتخريج-الدفعة-العاشرة-لمعاونى-الأمن-فيديو/7622335",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T12:59:00.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
+     "title": "رئيس صرف الإسكندرية في جولة موسعة لمتابعة مواقع العمل ومنظومة التشغيل",
+     "url": "https://www.elbalad.news/7184136",
+     "source": "صدى البلد",
+     "time": "2026-11-17T12:57:40.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
+     "title": "المطران سامى فوزى يستقبل وفدا من الكنيسة الأنجليكانية الأمريكية بالزمالك",
+     "url": "https://www.youm7.com/story/2026/11/17/المطران-سامى-فوزى-يستقبل-وفدا-من-الكنيسة-الأنجليكانية-الأمريكية-بالزمالك/7622310",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T12:57:00.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
+     "title": "«مدبولي» يلتقي الرئيس التنفيذي لشركة (SandboxAQ) المتخصصة في تقنيات الذكاء الاصطناعي",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZTBoOEl3QnBiakxtWS0xczZLcnlWa3BlQ3E4UVNKRE1WZ0E5UTdPRGo1SF9uaVpTd0RlWHNGejVBRkJIN3B3WERwa2NOU1RTaEkzekxwVWRSODcyRG5N?oc=5",
+     "source": "المصري اليوم",
      "time": "2026-11-17T12:49:00.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
+     "seen": "2026-11-17T13:00:47.834Z"
     },
     {
-     "title": "محافظ الغربية يهنئ عاطف جندي نجيب لفوزه بمبادرة الأب القدوة لعام 2026",
-     "url": "https://www.elbalad.news/7184114",
-     "source": "صدى البلد",
-     "time": "2026-11-17T12:48:34.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
-    },
-    {
-     "title": "وزيرة التضامن: الهلال الأحمر يدعم مجالات الإغاثة والاستجابة للكوارث والرعاية الصحية",
-     "url": "https://www.youm7.com/story/2026/11/17/وزيرة-التضامن-الهلال-الأحمر-يدعم-مجالات-الإغاثة-والاستجابة-للكوارث-والرعاية/7622293",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T12:48:00.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
-    },
-    {
-     "title": "استاذ اقتصاد: الوصول إلى 100 مليار صادرات ممكن بشرط حل تحديات الصناعة",
-     "url": "https://www.elbalad.news/7184107",
-     "source": "صدى البلد",
-     "time": "2026-11-17T12:47:09.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
-    },
-    {
-     "title": "الرئيس السيسي يفتح أبواب الاقتصاد المصري أمام المستثمرين.. الصناعة والطاقة والتكنولوجيا في الصدارة",
-     "url": "https://www.elbalad.news/7184117",
-     "source": "صدى البلد",
-     "time": "2026-11-17T12:45:30.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
+     "title": "رئيس الوزراء يلتقي الرئيس التنفيذي لشركة SandboxAQ المتخصصة في تقنيات الذكاء الاصطناعي",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qRzR4dHh5Mnh1TG9kem9fNnFyWDN4UlhoSTdjZkFxZ2RpaGVZUXpiNnJFazJZRlJXZFBzeDhud1dCQlBxNy11U01EdmFPcWtCMFFvQ0hXVU84RjZw?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-17T12:41:01.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
     },
     {
      "title": "بداية من يناير.. حظر البوتاجازات العادية ورفع الأسعار 1700 جنيه لتطبيق نظام «السيفتي»",
@@ -222,20 +233,6 @@
      "source": "Masrawy",
      "time": "2026-11-17T07:00:00.000Z",
      "seen": "2026-11-17T08:38:53.420Z"
-    },
-    {
-     "title": "الكونغرس يكرم السادات بعد 45 عاما على اغتياله",
-     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaUh4M1hUVFRDcHFVdlpYbTRRWWhvSE4ydnZsOUxkZXVENE5JaHBOZGZoM2ZKb3duaHFxR3NxSmdnd2VNNmhqZEdQU1RBMkJTYXdIaTZHRVZLT09HS3I1a085Q2FNLUZRNmxfeFh0VjA4dnNWVjhWQlhDdm45dURFT1ZnUGNGNGpYOHRkdjRKdDc3Tk5Fc3dYOHpiYVNnLTNKODNZRkFyakFXZlpZaFFteDROc05OUF9SSVdyYkFVTFpKUU0wMGJDamhuMU1iSVlsM0YwZ19yYWdZUURPSUw3TXUxb2lFbHNxSVNwX09LRTNSV19BNHlZZ0NNMnROcEFKYUtFdmJOemFya09KRVA3R3lZU2pEc3lxUDFUV3Q3WWZzU29vRWQwUDlHUnNLdjNxODJtRzA1RW9BeVloLVZUNWdCeUhTRDlpNWg5Ym9iemxoZzBhY0HSAdsCQVVfeXFMTVg1eHkxM0tDNmhHWUNqVnpHLTVoNlFkVUlkanJNNXlnTjk1RXU3WXRWMDFDYnI5a1NkY01EN3dmNm9lR3B0MmFRcE9QUW5SZjNUOG44Z1NmWFZhTlVub1ZDeVFkdFk1OVB6VHdHOGduRVVXdTFCZUFpbUw5eUZFN0JBSVl1SkVheUZHRlBQUGlzRWlrZ1NLVWlUcGVUdGVKdjlkbVdHc2RtOHBVNVF6V1BrRTdxZU1yeEE1TUJOUEIySEVTckoyWHRNb09qTFVvUnJWUzRkS3N0ZXFKVmhGMjBlcERnMTh1MDZZY2c4N1ROX1haZWRPVUw1NXNGQU9DaWMtQVNSRkF0UUlaSHk0cG80bFk2enZ1dko5QnNpTUhXaUlJOVBIU21iOUNMcF9kLVZWZ1VtM2Uxby1xS0xFa1BpTUJsYTBzcjE3eTl5end4SkJjYnFWbFpTQ00?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T06:32:50.000Z",
-     "seen": "2026-11-17T07:38:53.980Z"
-    },
-    {
-     "title": "«بعد إحالة أوراقهما للمفتي للمرة الثانية».. القصة الكاملة لعاطل قتل زوجة شقيقه للاستيلاء أمواله وسبائكه الذهبية في السلام",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcTVtd1VxUXMzZE1MYmhJMnFfY2M4clZ0QjdhYWZfcUhTdlFkMEtBWDR6Rml2SEhtMExZQ0pEMHpzSlZsc1FRWUl1MUd4UW5lN3BaNG9Nc3ZRb1p4Zmdv?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-17T04:52:00.000Z",
-     "seen": "2026-11-17T09:18:53.724Z"
     }
    ]
   },
@@ -248,28 +245,40 @@
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aejFUT1B0OFFkRVRBVzZIRWlYLXdGZGIyRXN0WUoxMXVzbXhVelRwclJrQWhCYy1IUU9DSEpZUlZqZ1NQN0VVUHQxVkYyUGVBTlpWeE1B?oc=5",
      "source": "جريدة البورصة",
      "time": "2026-11-17T12:46:22.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
+     "seen": "2026-11-17T12:50:47.508Z",
+     "impact": "يعزز الحفاظ على تصنيف الأسواق الناشئة ثقة المستثمرين الأجانب والمحليين في سوق المال المصري."
+    },
+    {
+     "title": "رئيس «البورصة المصرية»: 80.3 مليار دولار رأس المال السوقي في أكتوبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAyUElRekppTkNzdlFoS3JLRHhhYmg5RWNhMHZlb3hEQ18xWk11aDZPUmR6NlE0d1ZBSGlUSU85LXZVYlFV?oc=5",
+     "source": "بوابة التكنولوجيا المالية",
+     "time": "2026-11-17T12:44:30.000Z",
+     "seen": "2026-11-17T13:00:47.834Z",
+     "impact": "يعطي المستثمرين رؤية حول النمو المستهدف في القيمة السوقية للشركات المقيدة بالبورصة المصرية."
     },
     {
      "title": "ارتفاع سعر الدولار مقابل الجنيه فى البنوك اليوم الثلاثاء",
      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNbmVRT2FXRUl6Ny0yblRoZkZURXpUdlNYcFkwd3hVX2ZITFRaNTN3QkpfaDRCdlRGR2RoMUdRNUhvNkVlOHVuTFREaml0R1k4aGdPc1NNLVEta3dhcHU4RWcwRHp0emdLNGMyUW1mSDlUSzZxU0dHMUJudTg3NFJIaTE4MTIyVm5FNURhQkNSUjJRWlZ3ajZoN2YtY3Z0cmhKODdTVXdtOEhzWklybDJMM0R5anhmTVVXeHlCWWwzeUxzcFVNRjNna0lNV3RVWWJQX0RvUzhRbTJiWnpwY1cwbndFQXNGOW55VVlNazRnQTk0aUdDSkJOTTc3QlRDQWxPNkhJTUJaek1HdEwyZ25kZzVyZlphTUJlalNXN0xNbFNvVjB1b1dXbFlmRktOZC1xOGVybFpjYVpCRjZuN2dLN0JLLVIwbTFlQU44eEpzYlNNa0RqV2d5X2sxZTU3RlFZblhMM2plREU5SjUzek1mM3d2WDdvdDB2Zm1rb21OUFZHaW5vdDA3dnNBZ2pfTlpmcmJ3c0djVGVpMDRmdlhTQ2lSSmpWNF9YOC1Ga1FlNDlxVVBNNFhiV2VadjAzb0Z2QTBGNnJIRHNmQ2s0eU94dzV0c3hyX3JDaUZxVHZrTktzNDdhVEHSAeADQVVfeXFMTlpiYkVuTnZjNktPLWNldFo0aS1zd1pzSjRaY3JtZzJJMlotMWFSVlRJSTdWeS1jZWdVdjJnYzNMeWo1UHh3eFVpLWV4eV9FVVk5b1VsR2RlNjgzZDYtREV3S01Nd2Y1Zm9uOGl2NDJtVFJJQzA0ZEVnWXBBcUJJWkd2dTZSVFlhcFhhdUkxd3hGTlNrVkVESlFoVFFlR1VkRjFJcUtZdU9KT0p6RkxrN0xIdjN1YW93dDZscUVFM2tWeU9NaGxTLWdfVGZHZ21ZUnVaZmlUeDAtX2Q5V1ptRkN3MWY2U1JkTGpLXzNTOHZidVBLVUhUM01BQXZUQmxZSnFJQnVZTlVlM2FTVHhtdVZGb2pwdUdpeWdic2E1UG1CaXJyWUVKVG5HU0hFaDJOWUVyR1ktcHBqVDhhVnpmYURTNE9sMVhLZEFWNlFDNGJYdFVZMmlmXzIxM3MyVXhQZU1icDFGNVoyakljUTN2RlpJWFRzSjJCQjQ3Y2lPVVRubXZzT1hYY2xqZS1LU0NkaldfTnFNWGgyQmJDNk44cmtwd00tMVJ2d0oyckxiSlRfajlaTHNLN2FEcUdSWlJVNHI0Vlpva3Mtd0FRdkhjVVBycTAzWGdaZHFSM3plX2NC?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T12:20:00.000Z",
-     "seen": "2026-11-17T12:28:53.311Z"
+     "seen": "2026-11-17T12:28:53.311Z",
+     "impact": "يؤثر تحرك سعر الدولار على تكلفة الواردات والأسعار النهائية للسلع بالنسبة للأفراد والمستثمرين في مصر."
     },
     {
      "title": "ارتفاع سعر الدولار أمام الجنيه في البنوك اليوم الثلاثاء (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YM1NsWG9KZDViY3RHQWtSa093d3ZmVUtnRjY5eFp4bjVsSEc2WEZ0NURVYTNoTXRESWlBcUtfZEJzYnpLZkp3?oc=5",
      "source": "فيتو",
      "time": "2026-11-17T12:20:00.000Z",
-     "seen": "2026-11-17T12:28:53.311Z"
+     "seen": "2026-11-17T12:28:53.311Z",
+     "impact": "يساعد المتابعة الدورية لسعر الصرف الأفراد والمستثمرين على إدارة التزاماتهم المالية اليومية."
     },
     {
      "title": "​55 مليار دولار استثمارات أجنبية ونصف مليون مستثمر جديد.. أرقام قياسية للبورصة في 2026",
      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOYWNBcW9UNEN2amZOTnhtRVQxQVJONDhIejNtclRfb1RSZGdMcGJFVjdJUlFhVzhaN1BtLXA0WV80dUUtMTBsRlFabk9wbWRndDU5eGFfR1NLanZGZFNSX0NwWnNtTHA1cjF3NWRzSUZGcWVuOEFLOUcxaG1KZkk1Z1FQMXlHNFJ6eHU5NFNPR1F2SGVpX1RiYllpcmhrUXFZUzZzWEpPa2JTNHpWbGJGczFPSUNYRGUzVUVBV0tLLXRqcV9jNnlSQ2VSS1NLeDh4eUg3SDFwZUFXWEpxTnFHUzY2QVFoaDFHelFDdmFiRl9TYkVhOW12LXoxd2s4UjAzUzVJYy12VU95Sm9jYWpSZzdvcXd4bW4yeXppWGZtV2JtcFRLZnlIVzFKZ0d1ZTZ5M2d6aHZLTWxWRS13Rl9GUGt3R3FyZWVIanJsNGxNWEhTcUJ1aldFNWlLZ1FyOXFtM1E2WTltZnEyd1NycnNTRzMzMGktMlUtQlcwS0VFXzBYa3pvVlFfUV8tZlRiYUFNOGhBRmxscUlDQW5MSDVxRUxwTUNSaWFOX3NPaGc4Wi1BRzh0VXkzSnFjbVhSckdfOWh3eDlJcmRFTmc0aGVtcXl1YnBLSUU2MzVoYXNPUFR3dzNneEZTcU5rZHBVeDZVUElQcEVPc2pfakt1WlHSAfgDQVVfeXFMT2FweVl2TUhONms3aVVxTHZDZFNzWDhSN1UyM0Vyd2pSNnZ3amk1X3FGemZLLVZ3djNRWjMxUTExY3VZNWxqYk1UUUkzVmNFZUFmbzhxTnRlemJwcUUzeHJiUG1vemgtcmk5bmJNaFVvQjhnYlkwSjFsRWxyVlFsWE54ejFfakE4YmZQbDlEVnM3VzItMzJ0YmREdkJ2bi1yVEtxZk5LdEhVZEZCRjMyN2Y3MDZhcXRpbldhWEVQY2dzQ0h2WkpOVVpiRklPdGZ6Zmk0YTRXZ2tMUVBuOXpWR2FDWWQ0VWdxUThPbWJ2VlhkMlJoV2N3LU9oeGcwWmZIQWVtbEROUER3UHpqZWgyZ0Rtc2tGTHZ5emN0dURoXzg2SkRabFlQMzQyeUVJWGlFVEJEaUJvUXItWENLRU0zMGEyUGs2eWtCNnI2SFBDcTZlcE1hRHB0emt2RnpQdUVFUU1NWHgyUmo5T1lMeFRUM1FQMEdhUWE3R1lrczgyQVpfcUZqTGtFNVVWYXNCeElYdk9GdDF2MTVkcnRBOUlDV0hCN3BzTG5yR05DUC1lYjQtNzlrRmo0Rkc5WXF3Rk5yM3VMRTlFX1N6dUFfY2dSN3NrcUdDSnZJX2J1cXBCd0VFX3IzYzlwZFZwa1NTZHBpM0duLVo0TTl3?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T12:08:00.000Z",
-     "seen": "2026-11-17T12:18:53.529Z"
+     "seen": "2026-11-17T12:18:53.529Z",
+     "impact": "يعكس نمو الاستثمارات الأجنبية وزيادة المستثمرين الجدد مدى جاذبية البورصة المصرية للتداول."
     },
     {
      "title": "عمر رضوان: مرونة الاقتصاد المصري أمام الصدمات الخارجية ركيزة أساسية لطمأنة المستثمرين العالميين",
@@ -333,14 +342,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T11:09:41.000Z",
      "seen": "2026-11-17T11:18:53.742Z"
-    },
-    {
-     "title": "البحرين تعلن التصدي لهجمات بمسيّرات إيرانية",
-     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T10:54:19.000Z",
-     "seen": "2026-11-17T08:48:53.465Z",
-     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
     }
    ]
   },
@@ -457,7 +458,23 @@
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPN0lDcWZFbHFqVVhoWlVpZ1JXNUhWRUFoS3RxR1JxQkYyQ1hhUUtSVlpySU0zWHFkeHFJNnpFSl9nU1lUdFpCSmpQaXBGRGt3Q1RjTXJUQVRDZzFSSWFIdUZzbFF1dkFhX1ozbk9fek9YWEUwUk9kUnVJdEQ3MkVxMm9Bc01STU1qWkF2X1FYY3RaRm1YTksxaFV2Z2ZjRUlLOWdCVFNZX2lGNlctQ2tGVkJMdlBiX1lHY003S01PODgzUW9NR3A4S3pTVlRSbFZzNE5mZjE3RU11YXpFemFEVkdkUDlrcHNpc0RqSkM5OUladF80OWhIN2lVMlN6VDJVVDRMTHhDSGtPQ0NpcW5fOWNSRzA4dWFmLUV1eVBPM0ZfSUhjV0FqY3Z3?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-17T11:42:04.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
+     "seen": "2026-11-17T10:28:53.827Z",
+     "impact": "تؤثر التراجعات في أسهم التكنولوجيا العالمية على حركة الأسواق وحجم محفظة المستثمرين المهتمين بالأسهم الدولية."
+    },
+    {
+     "title": "البحرين تعلن التصدي لهجمات بمسيّرات إيرانية",
+     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T10:54:19.000Z",
+     "seen": "2026-11-17T08:48:53.465Z",
+     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
+    },
+    {
+     "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
+     "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-17T10:07:41.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
     },
     {
      "title": "جنسن هوانج يفقد العلامة الزرقاء على X وماسك يعرض توثيق حسابه مجانًا",
@@ -479,13 +496,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T08:39:56.000Z",
      "seen": "2026-11-17T08:48:53.465Z"
-    },
-    {
-     "title": "درنة المُعاد بناؤها بعد فيضانات مدمرة تصبح واجهة لحكم خليفة حفتر",
-     "url": "https://www.bbc.com/arabic/articles/c6zxvde57ygxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T07:44:06.000Z",
-     "seen": "2026-11-17T07:48:54.209Z"
     },
     {
      "title": "أميركا توسع قيود تصدير رقائق الذكاء الاصطناعي",
@@ -544,13 +554,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T23:31:00.000Z",
      "seen": "2026-11-17T07:58:53.423Z"
-    },
-    {
-     "title": "سام ألتمان: قطاع الذكاء الاصطناعي سيكون بخير بعد تنحي هوانج",
-     "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOaXQxcDdINDkzYkNqYVFHZTdjcS1pWWtSVGlqN09JeDRBa3hjRmRNY2Y2MjUxQW9lT3hNTEhFUklBV2FKQzVpaU1fNjdXbGRURUR0dzZVTlExc3JqNUlOUzZqbzNOT1dSVjV6emd2QlU2dFRVMFF2S0daWm51OS01Q3lJeEZ6YXBpUENpRko4REhCVkdsSXBZZ0lPdDJ0cl9sd1htUC1OMk1FV0hCYUlWSTdlYTBOYWN6ajI1ZXRVR1lYQWJ3VkZIZEpOOFNUX1Rqb2hmZDV1RGFZUmdOQXlSUmQ2YjlkckdDUzJHVldEck54TGk4dFBFb055NUhBZTNZTEhpdEsyS0YyVVV4cnpTYllDRnEzbmQ2dW5IY2NPRnpzREtxdjBLc1ZzSHhvc3BYemhOX2hDcXhiVURnU3BmS2FWeG1hbDVRUFZ1QnFXajFIQmd1eDhsamFpMHNqdlRMZ3NLQXlrcDZFTEc5c2p1UkotQ3hjZ043LXYxYjdnWWJTVXg2VTlpZVBuNWxUTk1ITi00ZUZ4MTlwZ29WblR0Y0RwbHQ2bUdubTBsdjVJZWhLeVFpUDMzLWVvUVZHbjloNmFrRlZTSGpwQlZOMXc1QlEtcHpHVlhWakdac1BvRzBWVVk?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-16T23:06:10.000Z",
-     "seen": "2026-11-17T08:18:53.483Z"
     }
    ]
   }
