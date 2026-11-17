@@ -1,44 +1,42 @@
 {
- "updated": "2026-11-17T05:48:39.063Z",
+ "updated": "2026-11-17T05:58:38.322Z",
  "minute": [
-  "تتابعت المستجدات الاقتصادية في مصر مع استقرار سعر صرف الدولار تحت سقف 54 جنيهاً وتحذيرات تقارير اقتصادية من عودة الأموال الساخنة وتأثيرها على التضخم، بالتوازي مع تأكيد وزير الكهرباء عدم العودة لتخفيف الأحمال.",
-  "وعلى الصعيد الخدمي والمحلي، أُعلنت مواعيد رحلات قطار تالجو وخطوات استخراج رخص تعديل الوحدات السكنية، إلى جانب توضيحات شعبة المحمول حول أسعار الهواتف.",
-  "ودولياً وتكنولوجياً، شهدت الساحة أحداثاً ميدانية وعطل تقني واسع أربك حسابات بنوك كبرى في الولايات المتحدة."
+  "تتناول الأخبار المصرية تحديد مواعيد امتحانات الفصل الدراسي الأول وإجازة نصف العام، وتوضيح خطوات التصالح في مخالفات البناء.",
+  "وعلى الصعيد الاقتصادي في مصر، رُصدت أسعار صرف الدولار بالبنوك مع صدور تحذيرات من تأثير الأموال الساخنة على التضخم، وتوضيحات حول أسعار الهواتف.",
+  "عالمياً وتقنياً، شهدت الولايات المتحدة عودة تدريجية لحركة الطيران، إلى جانب استمرار التطورات العسكرية والسياسية في عدة مناطق."
  ],
  "ai": {
-  "at": "2026-11-17T04:28:38.283Z",
+  "at": "2026-11-17T05:58:38.322Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T05:48:39.063Z"
+  "key": 2,
+  "impacts": 7
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.6,
-   "change": 0.24,
-   "asOf": "2026-11-17T04:13:02.000Z",
+   "value": 53.63,
+   "change": 0.29,
+   "asOf": "2026-11-17T05:52:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5859,
-   "change": 1.08,
-   "asOf": "2026-11-17T05:38:41.000Z",
+   "value": 5862,
+   "change": 1.13,
+   "asOf": "2026-11-17T05:49:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6689,
-   "change": 1.08,
-   "asOf": "2026-11-17T05:38:41.000Z",
+   "value": 6692,
+   "change": 1.13,
+   "asOf": "2026-11-17T05:49:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +44,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3885,
-   "change": 0.84,
-   "asOf": "2026-11-17T05:38:41.000Z",
+   "change": 0.83,
+   "asOf": "2026-11-17T05:49:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1016,
-   "change": -0.08,
-   "asOf": "2026-11-17T05:47:47.000Z",
+   "value": 1.1014,
+   "change": -0.1,
+   "asOf": "2026-11-17T05:59:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.75,
-   "change": -0.75,
-   "asOf": "2026-11-17T05:37:37.000Z",
+   "value": 91.7,
+   "change": -0.8,
+   "asOf": "2026-11-17T05:49:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64871,
-   "change": -0.67,
-   "asOf": "2026-11-17T05:48:39.000Z",
+   "value": 64762,
+   "change": -0.83,
+   "asOf": "2026-11-17T05:59:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -150,7 +148,8 @@
      "url": "https://www.elbalad.news/7183689",
      "source": "صدى البلد",
      "time": "2026-11-17T05:30:00.000Z",
-     "seen": "2026-11-17T05:38:39.205Z"
+     "seen": "2026-11-17T05:38:39.205Z",
+     "impact": "تُهم متابعة تصدر المنتخب المصري لمجموعته مشجعي كرة القدم والمتابعين للشأن الرياضي في مصر."
     },
     {
      "title": "منصة Xbox Project Helix القادمة.. تفاصيل رسمية تكشف تشغيل ألعاب الكمبيوتر وأربعة أجيال",
@@ -164,14 +163,16 @@
      "url": "https://www.youm7.com/story/2026/11/17/موعد-امتحانات-الفصل-الدراسي-الأول-لصفوف-النقل-وإجازة-نصف-العام/7620904",
      "source": "اليوم السابع",
      "time": "2026-11-17T05:00:00.000Z",
-     "seen": "2026-11-17T05:08:38.436Z"
+     "seen": "2026-11-17T05:08:38.436Z",
+     "impact": "تُساعد معرفة مواعيد الامتحانات والإجازة الأسر في مصر على تنظيم الجداول الدراسية والتخطيط للأنشطة."
     },
     {
      "title": "عايز تتصالح على مخالفة بناء؟ اعرف خطوات تقديم الطلب والأوراق المطلوبة",
      "url": "https://www.youm7.com/story/2026/11/17/عايز-تتصالح-على-مخالفة-بناء-اعرف-خطوات-تقديم-الطلب-والأوراق/7620359",
      "source": "اليوم السابع",
      "time": "2026-11-17T05:00:00.000Z",
-     "seen": "2026-11-17T05:08:38.436Z"
+     "seen": "2026-11-17T05:08:38.436Z",
+     "impact": "تُمكّن معرفة خطوات والأوراق المطلوبة للتصالح في مخالفات البناء المواطنين في مصر من تقنين أوضاع عقاراتهم."
     },
     {
      "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
@@ -244,18 +245,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "لماذا تتزايد الشراكات الأمنية في منطقة الشرق الأوسط وشمال أفريقيا؟",
+     "url": "https://www.bbc.com/arabic/articles/cvglr9ed7w86o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T05:46:36.000Z",
+     "seen": "2026-11-17T05:58:38.322Z"
+    },
+    {
      "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lcllfdGtRTk1EQ2tnTklQaHk5RWZRUkFCSzdWb0hiaENfMExydU1BbXVRYmdKSUItaERlWkc2MGNPV3lfOE1LbzZ0QUtqUklEdWRZM2hfRlFScnZGQVh3?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-17T05:21:00.000Z",
-     "seen": "2026-11-17T05:28:38.502Z"
+     "seen": "2026-11-17T05:28:38.502Z",
+     "impact": "يُساعد تتبع سعر صرف الدولار اليومي الأفراد والمستثمرين في مصر على تقييم التكاليف والمعاملات المالية."
     },
     {
      "title": "53.59 جنيه أقل سعر للدولار فى بنك كريدى اجريكول اليوم الثلاثاء",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOWjRFU3dIcGxJZWpORHliWEV0b3lpNFdYQXUyUGY2ZEtFMWFjcnZpTmtoMmxUYVZJN1NoVTFwcVlrRkRfMmhiaDE5S044N0FTaGhMeV8xMEJqNmJyakNIbENKQ0R1cTdjMHlQMmwxemwteWVubmZQYnFHRWtraHRnTzJDejdqRjhMdVdMejJhaEhzR0xReFI0UWVjMXFzVWtfYUhrVGt3UUo0TGN3UDNMREI5QzYyQ0JwRDI3RTFMR1pjSDZGSnVsNEQxN2dVQTdya0s2YnM4em12dEpEQXlNMUlYQUJWcG5kYUd6dGpid0UtX2Z5ZEs0ZG5TZTAwQW9Ra1NELTdkemVDdHgxRWFqVEVYOXJYY1Jpb253cnN4QV94bHZwWkw4WFVFOWpnRkh0RktOaHF4SWhuUndYMTU1TmFZODlyTmdNNlJ2cFU4LWFjT0JwS1hJSWM0a0RtczdYUktDcFRZOUdGM055Sk15TmdJYnNWQnPSAfcCQVVfeXFMTlo0RVN3SHBsSWVqTkR5YlhFdG95aTRXWEF1MlBmNmRLRTFhY3J2aU5raDJsVGFWSTdTaFUxcHFZa0ZEXzJoYmgxOUtOODdBU2hoTHlfMTBCajZicmpDSGxDSkNEdXE3YzB5UDJsMXpsLXllbm5mUGJxR0Vra2h0Z08yQ3o3akY4THVXTHoyYWhIc0dMUXhSNFFlYzFxc1VrX2FIa1Rrd1FKNExjd1AzTERCOUM2MkNCcEQyN0UxTEdaY0g2Rkp1bDREMTdnVUE3cmtLNmJzOHptdnRKREF5TTFJWEFCVnBuZGFHenRqYndFLV9meWRLNGRuU2UwMEFvUWtTRC03ZHplQ3R4MUVhalRFWDlyWGNSaW9ud3JzeEFfeGx2cFpMOFhVRTlqZ0ZIdEZLTmhxeEloblJ3WDE1NU5hWTg5ck5nTTZSdnBVOC1hY09CcEtYSUljNGtEbXM3WFJLQ3BUWTlHRjNOeUpNeU5nSWJzVkJz?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T04:06:01.000Z",
-     "seen": "2026-11-17T05:28:38.502Z"
+     "seen": "2026-11-17T05:28:38.502Z",
+     "impact": "تُتيح معرفة تسعير الدولار في بنك كريدي أجريكول للمتعاملين مقارنة الأسعار المتاحة بين البنوك المختلفة."
     },
     {
      "title": "خمس دول في الاتحاد الأوروبي تعلن عن إنشاء مركز لترحيل المهاجرين في رواندا",
@@ -270,7 +280,7 @@
      "source": "المصري اليوم",
      "time": "2026-11-17T02:46:00.000Z",
      "seen": "2026-11-17T02:58:38.990Z",
-     "impact": "ينبه المستثمرين والأفراد في مصر إلى المخاطر المحتملة لتدفقات الأموال الساخنة على مستويات التضخم وسعر الصرف."
+     "impact": "يُنبه التقرير حول الأموال الساخنة المستثمرين في مصر إلى الاحتمالات المؤثرة على أسعار الصرف ومعدلات التضخم."
     },
     {
      "title": "سعر الدولار تحت سقف الـ54 جنيها فى البنوك اليوم الثلاثاء",
@@ -316,13 +326,6 @@
      "source": "الشرق للأخبار",
      "time": "2026-11-16T23:06:10.000Z",
      "seen": "2026-11-17T05:08:38.436Z"
-    },
-    {
-     "title": "وفاة أكبر تجار المخدرات في المكسيك ميغيل أنخيل فيليكس غاياردو عن عمر 80 عاماً",
-     "url": "https://www.bbc.com/arabic/articles/cw8r7j0rr0p8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T22:45:07.000Z",
-     "seen": "2026-11-16T22:48:19.766Z"
     },
     {
      "title": "«أفيروس فينتشرز» تستهدف ضخ 25 مليون دولار في الصناعة والزراعة والطاقة",
@@ -483,7 +486,14 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T22:55:00.000Z",
      "seen": "2026-11-17T00:58:20.218Z",
-     "impact": "يهتم به المستهلكون والمستثمرون في قطاع الإلكترونيات لمتابعة اتجاهات أسعار الهواتف الذكية في السوق المحلي."
+     "impact": "تُفيد تصريحات شعبة المحمول المستهلكين والمستثمرين في مصر عند التخطيط لشراء الهواتف أو الاستثمار في القطاع."
+    },
+    {
+     "title": "وفاة أكبر تجار المخدرات في المكسيك ميغيل أنخيل فيليكس غاياردو عن عمر 80 عاماً",
+     "url": "https://www.bbc.com/arabic/articles/cw8r7j0rr0p8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-16T22:45:07.000Z",
+     "seen": "2026-11-16T22:48:19.766Z"
     },
     {
      "title": "إسعاد يونس في صدمة بعد اكتشاف أن ضيوفها ذكاء اصطناعي: «كنت قاعدة مع هوا!»",
@@ -531,14 +541,6 @@
      "seen": "2026-11-16T18:17:17.431Z"
     },
     {
-     "title": "العاهل السعودي يعفي قائد التحالف العسكري الداعم للحكومة اليمنية من منصبه، بعد الانسحاب من باب المندب",
-     "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-16T17:55:09.000Z",
-     "seen": "2026-11-16T08:34:45.880Z",
-     "impact": "يهم التجار والمستثمرين لمتابعة أمن حركة الملاحة والتجارة عبر البحر الأحمر وباب المندب."
-    },
-    {
      "title": "رئيس الفيدرالي يحذر من خطر \"شديد الإرباك\": هل يقودنا الذكاء الاصطناعي للبطالة؟",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zd1p1LXl6bWdLRzUzc1ZLU0xjbk51dktTRm04NnVvSGc4eF96M3hfd0tZZnNfN1ZaWjdNRVB0a29DY2ZPZGQ3SnktNUMtSXo3WlNmNHNFVTJpNW52aFZ4U08zczRSaGthZ01wOVZiQnE2cG8?oc=5",
      "source": "Investing.com",
@@ -564,6 +566,26 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "world",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
+  {
+   "section": "tech",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
