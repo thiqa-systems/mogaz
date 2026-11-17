@@ -1,79 +1,78 @@
 {
- "updated": "2026-11-17T08:18:53.483Z",
+ "updated": "2026-11-17T08:28:53.303Z",
  "minute": [
-  "سجلت أسعار العملات في البنوك المصرية استقراراً للدولار والريال السعودي مقابل تراجع لسعر اليورو.",
-  "شهدت الساحة المحلية نقاشات تهم المواطنين حول مصير الإيجار القديم ومنظومة أمان القطارات ومتابعة الشكاوى الخدمية.",
-  "استمرت التوترات العسكرية في الأراضي الفلسطينية مع تلويح إيراني باستهداف منشآت أمريكية وإسرائيلية.",
-  "طالت الأعطال التقنية والحوادث السيبرانية قطاعات حيوية شملت الطيران ومتاجر التجزئة عالمياً."
+  "شهدت الأسواق المصرية استقراراً في سعر صرف الدولار وتراجعاً لسعر اليورو أمام الجنيه، إلى جانب تحرير محاضر ضد مخابز متلاعبة في الغربية.",
+  "أعاد حادث قطار العياط تسليط الضوء على معايير الأمان في السكك الحديدية، فيما ناقشت الجهات الرسمية قضايا التضامن والملكية الفكرية.",
+  "إقليمياً ودولياً، تواصلت التوترات والعمليات العسكرية في غزة واليمن مع تلويح إيراني باستهداف منشآت أمريكية وإسرائيلية."
  ],
  "ai": {
-  "at": "2026-11-17T08:08:53.531Z",
+  "at": "2026-11-17T08:28:53.303Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 7
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.63,
-   "change": 0.29,
-   "asOf": "2026-11-17T08:18:43.000Z",
+   "value": 53.61,
+   "change": 0.26,
+   "asOf": "2026-11-17T08:28:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5838,
-   "change": 0.73,
-   "asOf": "2026-11-17T08:08:52.000Z",
+   "value": 5833,
+   "change": 0.64,
+   "asOf": "2026-11-17T08:19:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6665,
-   "change": 0.73,
-   "asOf": "2026-11-17T08:08:52.000Z",
+   "value": 6660,
+   "change": 0.64,
+   "asOf": "2026-11-17T08:19:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3870,
-   "change": 0.43,
-   "asOf": "2026-11-17T08:08:52.000Z",
+   "value": 3868,
+   "change": 0.38,
+   "asOf": "2026-11-17T08:19:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51952,
-   "change": -0.48,
-   "asOf": "2026-11-17T08:03:54.000Z",
+   "value": 52109,
+   "change": -0.17,
+   "asOf": "2026-11-17T08:14:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1004,
-   "change": -0.19,
-   "asOf": "2026-11-17T08:18:45.000Z",
+   "value": 1.1005,
+   "change": -0.18,
+   "asOf": "2026-11-17T08:28:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.83,
-   "change": -0.66,
-   "asOf": "2026-11-17T08:08:51.000Z",
+   "value": 92.16,
+   "change": -0.3,
+   "asOf": "2026-11-17T08:18:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -82,16 +81,16 @@
    "unit": "نقطة",
    "value": 7417,
    "change": -1.92,
-   "asOf": "2026-11-16T21:00:00.000Z",
+   "asOf": "2026-11-16T22:22:10.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64503,
-   "change": -0.54,
-   "asOf": "2026-11-17T08:18:53.000Z",
+   "value": 64450,
+   "change": -0.63,
+   "asOf": "2026-11-17T08:29:09.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,45 +137,48 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سحر نصر تدعو لضمان تدفق التمويل المناخي العادل إلى الدول النامية",
-     "url": "https://www.elbalad.news/7183791",
+     "title": "هل تجوز قراءة حزب البحر يوميًا للتحصين وقضاء الحوائج؟ الإفتاء توضح",
+     "url": "https://www.elbalad.news/7183805",
      "source": "صدى البلد",
-     "time": "2026-11-17T08:18:22.000Z",
-     "seen": "2026-11-17T08:18:53.483Z"
+     "time": "2026-11-17T08:27:17.000Z",
+     "seen": "2026-11-17T08:28:53.303Z"
     },
     {
-     "title": "اجتماع لوزيري خارجية عُمان وإيران لبحث منع التصعيد وحماية الممرات البحرية",
-     "url": "https://www.elbalad.news/7183784",
+     "title": "تحرير 18 محضر مخالفات ضد أصحاب مخابز بلدية وسياحية لتلاعبهم بأرغفة الخبز بالغربية",
+     "url": "https://www.elbalad.news/7183799",
      "source": "صدى البلد",
-     "time": "2026-11-17T08:18:01.000Z",
-     "seen": "2026-11-17T08:18:53.483Z"
+     "time": "2026-11-17T08:25:32.000Z",
+     "seen": "2026-11-17T08:28:53.303Z",
+     "impact": "يهم المواطن لمتابعة تشديد الرقابة التموينية على أوزان ومواصفات الخبز البلدي والسياحي في الأسواق."
     },
     {
-     "title": "سجل إلكتروني وإنذار قبل التحصيل.. مقترحات عاجلة لإنهاء أزمة ارتفاع فواتير الكهرباء",
-     "url": "https://www.elbalad.news/7183792",
+     "title": "أسعار الدولار والعملات الأجنبية مقابل الجنيه اليوم الثلاثاء",
+     "url": "https://www.elbalad.news/7183801",
      "source": "صدى البلد",
-     "time": "2026-11-17T08:16:27.000Z",
-     "seen": "2026-11-17T08:18:53.483Z"
+     "time": "2026-11-17T08:24:17.000Z",
+     "seen": "2026-11-17T08:28:53.303Z"
+    },
+    {
+     "title": "قنصوة يبحث مع مدير عام «الويبو» تعزيز منظومة الابتكار وحماية حقوق المبدعين",
+     "url": "https://www.youm7.com/story/2026/11/17/قنصوة-يبحث-مع-مدير-عام-«الويبو»-تعزيز-منظومة-الابتكار-وحماية/7621694",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T08:24:00.000Z",
+     "seen": "2026-11-17T08:28:53.303Z",
+     "impact": "يفيد أصحاب الأعمال والمبتكرين في التعرف على مسار حماية حقوق الملكية الفكرية وتطوير منظومة الابتكار في مصر."
+    },
+    {
+     "title": "تذليل العقبات للمواطنين.. تفاصيل لقاء وزيرة التضامن مع نواب البرلمان",
+     "url": "https://www.youm7.com/story/2026/11/17/تذليل-العقبات-للمواطنين-تفاصيل-لقاء-وزيرة-التضامن-مع-نواب-البرلمان/7621688",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T08:23:00.000Z",
+     "seen": "2026-11-17T08:28:53.303Z",
+     "impact": "يمس الأفراد المهتمين بمتابعة الخدمات الاجتماعية وتسهيل الإجراءات الحكومية عبر التنسيق بين التضامن والبرلمان."
     },
     {
      "title": "السفيرة المصرية فى تايلاند تترأس وفد مصر فى المؤتمر الوزارى للفرانكوفونية",
      "url": "https://www.youm7.com/story/2026/11/17/السفيرة-المصرية-فى-تايلاند-تترأس-وفد-مصر-فى-المؤتمر-الوزارى/7621680",
      "source": "اليوم السابع",
      "time": "2026-11-17T08:15:00.000Z",
-     "seen": "2026-11-17T08:18:53.483Z"
-    },
-    {
-     "title": "نبيل الكاتب الخيرية عضو التحالف الوطني توزع 8 آلاف وجبة ساخنة على 2000 مستفيد بالبحيرة ضمن «إيد واحدة»",
-     "url": "https://www.youm7.com/story/2026/11/17/نبيل-الكاتب-الخيرية-عضو-التحالف-الوطني-توزع-8-آلاف-وجبة/7621681",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T08:11:00.000Z",
-     "seen": "2026-11-17T08:18:53.483Z"
-    },
-    {
-     "title": "النيابة الإدارية تكشف عن مستحقات للدولة بـ800 مليون جنيه مقابل تحسين بأبو رواش",
-     "url": "https://www.youm7.com/story/2026/11/17/النيابة-الإدارية-تكشف-عن-مستحقات-للدولة-بـ800-مليون-جنيه-مقابل/7621679",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T08:09:00.000Z",
      "seen": "2026-11-17T08:18:53.483Z"
     },
     {
@@ -245,9 +247,9 @@
      "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 في البنوك المصرية.. الأخضر يستقر عند 53.69 جنيه",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzU2VSS2VjQ3VVNEhVVU9MY0JDRVJJTUNvbzlSV2lPQjhLTHZpcVVCY0F5WEtndHcxVmxpMWZOVlVUM3RZeFE?oc=5",
      "source": "القاهرة 24",
-     "time": "2026-11-17T08:03:45.000Z",
+     "time": "2026-11-17T08:04:49.000Z",
      "seen": "2026-11-17T08:08:53.531Z",
-     "impact": "يوفر للمستوردين والمواطنين في مصر وضوحاً بشأن تكلفة العملة الصعبة وتأثيرها على أسعار السلع المحلية."
+     "impact": "يؤثر استقرار سعر الدولار عند 53.69 جنيه على حسابات المستوردين والمستثمرين وتحديد تكلفة المنتجات والخدمات."
     },
     {
      "title": "سعر الدولار فى البنوك صباح اليوم الثلاثاء 17 نوفمبر 2026",
@@ -262,7 +264,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T07:48:00.000Z",
      "seen": "2026-11-17T07:58:53.423Z",
-     "impact": "يؤثر على تكلفة استيراد المنتجات والخدمات القادمة من أوروبا إلى السوق المصري ومصروفات السفر."
+     "impact": "يهم المستوردين والأفراد المتعاملين باليورو لحساب تكلفة الواردات والتحويلات بعد انخفاض سعره أمام الجنيه."
     },
     {
      "title": "استقرار سعر الدولار مقابل الجنيه فى بداية تعاملات اليوم الثلاثاء",
@@ -356,7 +358,14 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T08:07:33.000Z",
      "seen": "2026-11-17T08:08:53.531Z",
-     "impact": "يمس مباشرة أمن وسلامة تنقل المواطنين اليومي عبر شبكة السكك الحديدية المصرية."
+     "impact": "يعني المواطنين المستخدمين لمرفق السكك الحديدية لتقييم مستويات السلامة والأمان خلال تنقلاتهم اليومية."
+    },
+    {
+     "title": "فجر اليمن\".. مواقع وتحصينات ومخازن الحوثي تحت نيران القوات الحكومية",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOWGdjQU1rcUtTVF8tNDk4eklyNDBxdk9zdGVxMXVFWFBaSkhiRDdwbFZJNzA5a2lJbnBFdEtRX3RNTmNVVE4tcVZGeW5DbF9LbmJBV2JNX3Znbml4bDROTUV1aWVTYTRDN1BQYnFwSUxqRmhhdEgxX3hmRWhnaXk4d3pMSEIxQTE3aWJUb0ZRQ2YtRkl6aWpKS2pwbkpfcFFDNU5EOXRrS0F2V290QzNTVm9FM1BTLXF0aVlHOEFaMnpMbDRGUjFBYk5ad3lSU29LU0RPMmxBd2FpbV9IZ2xkVmlNVnRLdUZmMWtKaUhJNkN1dTh5VVVnV2o0V0xVdmhFTkJzVm5CajZUM1VoWVZ2czJXRHlEV1RBeEdDV0ZVaGI2bXJpYlFNR1NqSXZZR3I4bTRUMjZZM2JTSmtqRGFSejFESkNzZkgxWE0zZmdOenRUU3o5MGdLaDdPSWVtSW1oTTZWQVFYQlROcHY1T2d6cUpMRkw5dlRsaVVDTEU2TGRIZ1VyYTFHcVNYenZtcUJaeDRscmstbGxhQnV6czAyaEliYmh1bTIyNlJ4eVh4eGlsZnBoZ2l6R2dxdFVYVHJVRmR6cTlaMHR0djZVMXNaS2ZJVGw?oc=5",
+     "source": "العربية",
+     "time": "2026-11-17T08:07:00.000Z",
+     "seen": "2026-11-17T08:28:53.303Z"
     },
     {
      "title": "غارات إسرائيلية وعمليات في غزة ومقتل سيدة في الضفة",
@@ -379,6 +388,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-17T07:05:40.000Z",
      "seen": "2026-11-17T07:08:39.168Z"
+    },
+    {
+     "title": "ضباط إسرائيليون يحذرون من «الاحتلال السخيف الجديد» للأراضي السورية",
+     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxObjdOMmdneGxPd2FPTDJfcE8zSDNxZWtlcHYxaXRVa3laeGdzUy11SWJpN3RSdF9wUUlBSGRvZ2NGLWJnaVdyMFRTaGlGZjZvMDV6eS1aQlpweGZIc3VfVlVZaGFUUjMzaWFQTkx1ek9HdElJYjFkUkpCZ1ZrN1prNmJ4M29VcEpZMUw5d2pWRVE4STl0V3RjcVBNUkxiTndwc0lPSjRNNElxVGo3UEtFcWhvdVBqbkRyWl9ZMW8wZjExRVp1aTB2QnZ3SFp0aGlmaFdiWHRGLXpkOGFLbng0a3VaelRrOTZNYWRzUFNIMG9aZjJSdFluNURVSktXLW80OE85Q3JvamtNUW4wUGt1WTh3M0FreS1Zc2R5NHl2SlR6ZlAzUDRMX3VoOVlqWEdBQVdBMnQ1QXZwQ3lOYkRpS043T0JrVEdCYUVJbGhJQzY5X1BCcXRIRVBrNTVIWGRiQ0lCUWtjMDlyaU9vOXlWMVBuVnBobTlYMUdyN0pLVmVtLUR3cFhoZUxYTmNJSzR5eE13cklPRTBuRkltd1RBNVNIWkpQQjMtVVpWMVpjdFpLdkJxdGNhM1UxcG5xVmE5bUtUcDdZZVBaQjZpTl9ydW5SSm5HRzBXQk5DVzNra3daVzZLM2YxLUR1ZlE0MF9rbjFRemdCUTVIZVV0ZDI4b0NBMzROb2ZMQXVOaGVYVF9rZjBuY00xeXpQNDVDVnU1U0pCNnZ0bE91VUktLWJXZE8xX3Y4TlJhSWJ3UEdWS3pOMEN4SGpTa3dCWF9OTmo0aHp5R1BieFkyMVV2azYteGdHZmtPdw?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-17T06:47:59.000Z",
+     "seen": "2026-11-17T08:28:53.303Z"
     },
     {
      "title": "\"قنبلة قذرة\" وأهداف محددة.. ماذا تكشف المعلومات الاستخباراتية عن خطط إيران المحتملة في واشنطن؟",
@@ -423,32 +439,18 @@
      "seen": "2026-11-17T06:28:38.668Z"
     },
     {
-     "title": "علماء يكشفون: عادة يومية بسيطة ترتبط بالتغلب على الألم والاكتئاب",
-     "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxQT0h1cXZXVDdpNVk2SE1SMjFWMFVjZjlJOGZHM3RwZ0QtYnZPeFppZ1Bxa2IwbnFKSlhlaTkzenlMZWh1RDBBOWFnWmg4T2FZOHprRkx1M3FFMFFqZ2xlVEpBLUNTR25vRGU1MF9GLUlHZ2d3ZlgxY0tDMWxiTTUzOEZDRzB4MjRibGd0bzV2TVpkS1FXTE1NYTh6RmozZDF3SHRRekFTYzBJTWV6Vmd1VmVzemlJc1FxYXRobnBoc21faWtDS0NzTXp6SzZuWERWZTIwMm1KOURldVFJRUlXQ0w3aG1tUENvWWdsV0JIbkpUcG1RXzBnelY3c3JXbUtoMzhHdmE1WVBLNmZtTXN1a0hFMmJ1aGNBX1ZyNDhkdXhsZ1Y1Sk1SRkQ1UTUxX3ZHa3BvVXVjaTRrMnRxTHcyeHJvRGYzZXM4dTM3UmNuMFhWbmFab2tWM0haTzhuQ1plN2VlUDBHRmFva0hReTExbHJnUE44V0VIcnF6SUhtRTBRYmlxT0ViYWFRaDJqNUZiZjE5bmF4elRWbWJsdGtCbU1VdGNmaTNZajhZM3dzZkhKSWE5QTlqby1ZOHIwUGZ6Q0JhTDJES2NyTU1RSXpiclJETXg0U3J3eUhvVHdYd2pwVXZWYWNUQWlaY2I0Qlo0M28yeVk4VHFCR1JQV05GU2pmSHNrNHFjS1ZROENQanltMWZF0gGaBEFVX3lxTE41MTVoUEZheVlaTVJxb2dEU1pmSGttTlNvODBOTVE2WlJSZmU1ZmJrX3I0X0l5MnFHenl6ZFNQTlRta25vRGloVFFfU1NSbGN3cDBoWXdwRV9zZVd3YWdqLTlpYzZ5TlV1a0pNaW1hN1FBMkRpVTRrbElvTFdUSnRiWFNRZFVNRzNteUp4cWhXVVp6dEFkNDBJTDlQNTlrOE42ekNkTmlfQ0h6QkRJLWJpUmlETWc5Z2xUVEpfeTRGR2w4SGJ4cjVUOVFiYlJkb21nTXdsUk8wNU8wOGdIM1NKWHBLSlhSOUg1RHp4bTFicW55aGk5UU1KWWVWRm43eVNQVnZfQjN0ZG4zSk9TNUdPY19ZY1BQdkR4MWFNWVRsbHIxTlppbDZEeDQ1Z1RqR3ppX2tiMTk5ZVZjdFd5X2h2MVJUdDRDQm1ZcTI5eUcteHhENVdGdkZQX1c4dUFwYlNOUWRIVXZJUU12eF9IN3ctLXlEOVhGaGVwRkFmQXJvcVFRdVpHZTN5SmhOV0dvMklFc0dIWVRiMGJnSy1qRTVNUnp4S2d3bTBHR2dVMUdjdU50NWxvS2pPUVE4T1FLNk1ncHFPbUFoaWN0M0lPa3RJMGhHQWJEWWw0SWhUYWdPTFdwRU5LQlFRNFB4R3pyaGVILVAtQmNYU2tid1FscExRR043Z0h6MTNXUkRJSWN0Tk5jbTlBRnA5VFE?oc=5",
-     "source": "العربية",
-     "time": "2026-11-17T05:03:00.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
-    },
-    {
-     "title": "اليابان تتهم روسيا بخرق مجالها الجوي وكوريا الجنوبية تنشر مقاتلاتها \"استعدادا لأي طارئ\"",
-     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261117-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-17T05:02:37.000Z",
-     "seen": "2026-11-17T05:08:38.436Z"
-    },
-    {
-     "title": "ميتا تمنح الذكاء الاصطناعي صوتا يتحدث نيابة عن المستخدمين",
-     "url": "https://www.aljazeera.net/tech/2026/11/17/%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-%d9%85%d8%b9?traffic_source=rss",
+     "title": "فقد سمعه رضيعا ورفض زراعة القوقعة من أجل كرة القدم.. حكاية البلغاري جورجي لازاروف",
+     "url": "https://www.aljazeera.net/sport/2026/11/17/%d9%81%d9%82%d8%af-%d8%b3%d9%85%d8%b9%d9%87-%d8%b1%d8%b6%d9%8a%d8%b9%d8%a7-%d9%88%d8%b1%d9%81%d8%b6-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d9%82%d9%88%d9%82%d8%b9%d8%a9-%d9%85%d9%86?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-17T05:02:11.000Z",
-     "seen": "2026-11-17T08:08:53.531Z"
+     "time": "2026-11-17T05:14:31.000Z",
+     "seen": "2026-11-17T08:28:53.303Z"
     },
     {
-     "title": "الذهب يحوم حول أدنى مستوى في أكثر من عام",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/17/%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d8%ad%d9%88%d9%85-%d8%ad%d9%88%d9%84-%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%81%d9%8a-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-%d8%b9%d8%a7%d9%85?traffic_source=rss",
+     "title": "عاجل | مراسل الجزيرة: جرافات الاحتلال تشرع بهدم منزل فلسطيني في منطقة الديرات جنوب الخليل في الضفة الغربية",
+     "url": "https://www.aljazeera.net/news/2026/11/17/%d8%b9%d8%a7%d8%ac%d9%84-%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%ac%d8%b1%d8%a7%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-2?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-17T04:52:34.000Z",
-     "seen": "2026-11-17T08:08:53.531Z"
+     "time": "2026-11-17T05:13:17.000Z",
+     "seen": "2026-11-17T08:28:53.303Z"
     }
    ]
   },
@@ -469,7 +471,7 @@
      "source": "المصري اليوم",
      "time": "2026-11-17T03:30:00.000Z",
      "seen": "2026-11-17T04:38:39.173Z",
-     "impact": "ينبه المسافرين في مصر لمتابعة جداول رحلاتهم الدولية تحسباً لأي ارتباك في حركة الطيران المرتبطة بالشركة."
+     "impact": "قد يؤثر على خطط المسافرين وحجوزات رحلات الطيران المرتبطة بالشركة وتداعيات الأعطال على حركة السفر."
     },
     {
      "title": "اكتشاف جديد يشكك في دقة أعمار الهياكل العظمية",
@@ -562,6 +564,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
