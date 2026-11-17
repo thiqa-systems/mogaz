@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:20:48.201Z",
+ "updated": "2026-11-17T17:30:48.184Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-17T17:20:48.201Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T17:30:48.184Z"
  },
  "markets": [
   {
@@ -27,9 +27,9 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5848,
+   "value": 5849,
    "change": 0.9,
-   "asOf": "2026-11-17T17:11:09.000Z",
+   "asOf": "2026-11-17T17:21:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,16 +38,16 @@
    "unit": "ج.م/جرام",
    "value": 6677,
    "change": 0.9,
-   "asOf": "2026-11-17T17:11:09.000Z",
+   "asOf": "2026-11-17T17:21:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3873,
+   "value": 3874,
    "change": 0.53,
-   "asOf": "2026-11-17T17:11:09.000Z",
+   "asOf": "2026-11-17T17:21:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.102,
    "change": -0.04,
-   "asOf": "2026-11-17T17:20:47.000Z",
+   "asOf": "2026-11-17T17:31:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.12,
-   "change": 0.74,
-   "asOf": "2026-11-17T17:11:09.000Z",
+   "value": 93.29,
+   "change": 0.92,
+   "asOf": "2026-11-17T17:21:33.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7361,
-   "change": -0.75,
-   "asOf": "2026-11-17T17:21:15.000Z",
+   "value": 7349,
+   "change": -0.92,
+   "asOf": "2026-11-17T17:31:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63983,
-   "change": -1.35,
-   "asOf": "2026-11-17T17:21:11.000Z",
+   "value": 63674,
+   "change": -1.82,
+   "asOf": "2026-11-17T17:31:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأهلي يرفع درجة الاستعداد لموقعة بيراميدز.. 3 قرارات من عموتة ومعسكر مبكر يلوح في الأفق",
-     "url": "https://www.elbalad.news/7184505",
+     "title": "البيت الأبيض: لا دليل على تعرض شبكة اتصالات وكالة الأمن القومي لهجوم سيبراني",
+     "url": "https://www.elbalad.news/7184518",
      "source": "صدى البلد",
-     "time": "2026-11-17T17:20:30.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
+     "time": "2026-11-17T17:30:01.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
     },
     {
-     "title": "رئيس هيئة الدواء يفتتح اجتماع مبادرة مواءمة الهيئات التنظيمية للأدوية بشمال أفريقيا",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-هيئة-الدواء-يفتتح-اجتماع-مبادرة-مواءمة-الهيئات-التنظيمية-للأدوية/7622722",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T17:16:00.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
-    },
-    {
-     "title": "رئيس رياضة البرلمان: المناصب تزول ويبقى الإنجاز ولا نجامل أحدا على مصلحة البلد",
-     "url": "https://www.elbalad.news/7184506",
+     "title": "هل الشاي يؤثر على خصوبة المرأة",
+     "url": "https://www.elbalad.news/7184362",
      "source": "صدى البلد",
-     "time": "2026-11-17T17:15:38.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
+     "time": "2026-11-17T17:30:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
     },
     {
-     "title": "70 تسديدة في 4 مباريات.. أرقام هجوم منتخب مصر بتصفيات أمم إفريقيا",
-     "url": "https://www.elbalad.news/7184502",
+     "title": "حافز الجدارات.. تفاصيل وشروط هدية الحكومة للمعلمين بالتربية والتعليم والأزهر الشريف",
+     "url": "https://www.elbalad.news/7184309",
      "source": "صدى البلد",
-     "time": "2026-11-17T17:15:05.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
+     "time": "2026-11-17T17:30:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
     },
     {
-     "title": "رئيس الوزراء: مصر أصبحت تشهد توطين العديد من السلع وتصدرها للخارج",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-مصر-أصبحت-تشهد-توطين-العديد-من-السلع-وتصدرها/7622714",
+     "title": "تفاصيل بيان وزارة الصحة حول أزمة \"البق\" فى المدارس",
+     "url": "https://www.youm7.com/story/2026/11/17/تفاصيل-بيان-وزارة-الصحة-حول-أزمة-البق-فى-المدارس/7622706",
      "source": "اليوم السابع",
-     "time": "2026-11-17T17:12:00.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
+     "time": "2026-11-17T17:27:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
     },
     {
-     "title": "رئيس الوزراء: أصبحنا نشهد توطين العديد من السلع ونصدرها للخارج",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-أصبحنا-نشهد-توطين-العديد-من-السلع-ونصدرها-للخارج/7622710",
+     "title": "الجيزة تحاصر النباشين.. حملة مكبرة تصادر معدات الفرز العشوائى فى الأحياء",
+     "url": "https://www.youm7.com/story/2026/11/17/الجيزة-تحاصر-النباشين-حملة-مكبرة-تصادر-معدات-الفرز-العشوائى-فى/7622727",
      "source": "اليوم السابع",
-     "time": "2026-11-17T17:07:00.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
+     "time": "2026-11-17T17:26:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
+    },
+    {
+     "title": "رئيس الوزراء يشهد فعاليات افتتاح المرحلة الثانية من مجمع هاير مصر الصناعي الصديق للبيئة بمدينة العاشر من رمضان.. مدبولي: افتتاح فخامة الرئيس السيسي للمرحلة الأولى يؤكد حرص الدولة على دعم المستثمرين الجادين",
+     "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPU3BrZ0FFYmxvRjR2bFNUTnREbVFCXzdMcEhTN0N6ZzMzM1dhcmdtcVItSDBMZjdEeWgta0RGb3AzXzN3eG9sSlBUYzVOUFd3S1RVbWNQbl9lM2dHbFZtUFR6LWFodGxnQmE4X1BNSWc4amdKNjNQbkxvNDZNZHhpVzhEcVdFMU80NDB6ajdRYmpZRHBUdmRJNkhzdmx5MHJjN2NHZHZqX0hCTFlzMHVWTU04STVCM3BNUmNtc2dNNV80RkVNMGxCMFpGc0o3d0NSay02ajZZci0ySVhtaEFDZldrMVAyUUNJbnFzeXdhRE9sc3Z2andXSjdDRmdEa2lMSV94bzBfMnZCLXc2QnU3dS1SN0owU3lJbDhpS1B6bTU0c2poQkZqVjBPX1VmeVpXcEppR1hHWUQ0SG9KQUI2LU9YZjVjb2loVzRZWlNQRDBjZGpxSFZGUGNCUUlyR05HWndmTjRrVTAxM1hvXzJqMDluaHpGd2hKUHhWVHc4WVFFbmlQSUMzLWZMLXlfdUhTUE02ZzRpZmswS2ExajlHTi1LYjFKa2Y5TkdlSHUyTTRTaDRnbXRMQ0JSV3Z6dWZvLWdRaG5zRXByazk4VFJqTVZrUHpjWjU4eXYxMUNVbmpLODhNMUhrcHJ6WHdidEQ5Y3VMQllhTjZXWTcxYkIxcUcydTQxaDDSAYIEQVVfeXFMTUp1QWl2MjM4N2t3dVRiLVBocXlubVFCeUF5VzNZRUEzMmdQckhsX1ZTOTVTV3ZCN2Y4b2MxdTAzUUJzaUlMS0h3Y25uMHcxMlF2cnJ1VkRvRDhPaXc1ZEd0bDduMXdVeGhjZWhVWG5sVHFSRWZTRm9FNjFIUFV2VWZDQ25QSEVjdlF6SGZLSmgyUzVFbVFWOUdRNDMxdVRwWkdLMVVKR05hSURQOC1CX3B4SE1ycmVuSHVpZ2RDT0JTNFA0Z3I2bF9tMDRNUVl5SzlKTmVqSlJoRk1SM0tXdkNKaDM4RjBvLUFWV2pDYTNKY2QyUFhpUUpFMWMwWVNWVmJWSFU4X3FyOTNrSWpRelFWWlRUcU1wT09xVWtndFVhZTFqZ1EyTWc1LU1ZTG5sOVhzX2wyVGhXNEVpV3RQeG1Wamc3MkZCNFZuVWpmRVYxMloxOFpTQkZ2eF9yZ2RyOEdmYVpBUnpuUE1zSnFZTGZEU3pwVjdRZ1ZaRjlRcGpqUXp3VnZrUGNValljYm4ySEgwa0V3d0Nfdjd2N0tsMHdJLUw2Unl4OG56U2UzSUVIY29OMHk1QUJuZW8zaGEyTU9XcGo4ZlF1Y3Zoc0RPcUlGUGR2SlBTakpIMFZVcG54bWNrSzFudmtNbWZ4cGlWZ0ZmWFNhcnh5S2Ewdy1vOEtZUQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T17:26:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
+    },
+    {
+     "title": "بث مباشر| مدبولي يفتتح المرحلة الثانية من مجمع \"هاير\" الصناعي بالعاشر من رمضان",
+     "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOZVVJWWZUSWcxVzdvcGt6VVFnU0tGRnNUUENOQlVTVW93M2JRbzlRYkxaNl9rMFM4Ni1xbFcxVWVTcDZ2YjB1U3NpcVAxUzdMcV9SdDhFQWU3VjdaNWEwSlVEOTRFMGRUVElXME4zcThZdzNsdmpzbXVXeEFDeE92QW04cjBKOFhYU3FrcmF2Sm5GWms3OVFWMlktZE14ZXZSY19NbnYxN1haUEpOUmZsTXdLQkhJRlc4X1hyZVJYc2hGZ1ZqbTk2WnBhWDVXbkoxb0hEemxIbkZiREt0X3lwWEhQcmE1VzVmc1IxYWRzOWFsYVBldjMyLTBDRmNMRWNXamRWZmdJaDh6cm1sMm1GUkhaQVJpRTVRU1FVYTAwbmpjZUpzTW9IcGNyc18tSGRSYzRjeTBtVXBEMEhUSTVSSFRGbzF4bHJHMklWbGlwNVV3UE1Zc2JyV2M2ZnJTM2lEUjRRcU1vOGtnMUNlQUQwVktMM21HWFlHaVNxd3NOQkUwVjdsQ1gwd0lJalZRRGtHbjFLWm80YXU2N1Y0bHN5NDFVOW1FRnhkSVE4d3JLd3puQkNwYnVxeG42Y1h0SVI5SkhkcWg1ckpaVUlHcXRjTlhLcXRqc2pPN3h0WEFpbFVIbU9ieEROenJzM1NsOGd5QXRpRFdpY18xM3QzV3pOSUh3XzV4ZkpZTENYMW9TZ2NjQ3JxTnc2WXp2cWFxNHhCOHJMM3VheW5HWGFIZ05sWlMtOVhpNlNfQjljU2VmdFp3MmR6VGRBdjBEbkNOTW1HWHplalhPRDVrbGp4aTg3SUFBTWRpcFlsblpNaHFtZmFhdlR2ZUdGMEctVm1jd9IBgwVBVV95cUxPWEoyV3dxa1FSTVBfNlpwMU9xU2lyeVM2ZHBrYzV4bjFxR0pnaG41MHNSRUJBZjMtRTBONktjOFd5T0YzNEJBQjdTUWxkWnRQQ3JCZ0lUeVVCbTFyQ1lPZTJaZmxWXzJIQ3hFU0FTdXdfTl95MnJidE9Cdk5pMEhPOWxYdk1LWUh3dzhXeFc4dVQxQlR4SHlGZXRmbnNBNGxUWWRlVDlKbzl1Y01oMmdjVWtRMHZGdXZNNWNnazh0My1VRGZCOFpFbnV3VDhzdkw1a3hzSzhVRUc5ZHZ5NndlZE1CTWx6RFNzMlU2cDlYM3AzQktiSVY2dVI3ZFVad0hrTVFsaWRKYnFYUHV4MzBOTmNuR0NvazdNaWF5NUJzYVpXT3FlZ1B6dW9xcGk1VmlQMEhteFBuZGxOTjFEV1VfVHpiTzlqQ2NUMmVOaEVDS0tOdHBYNUZMek0wS2VLMjJLVng3NHNVOGxpVE9RLVFaaXUtNk5ldVpzMkEzUGVlR2Q4WG1VRDhwN3BJb2s4MzRMUTRJb2RCMGU3VDVNbTZvakQ5c1ZueWktbkptZnptTmxlZXhkc1pCaTdBVjljb3VLWEJQVncyYWFrZ0N5T0RlOGt2dlpqNTU0YXByV2tiMmlkUzFNNTM4RmgtNXlyVTBjUHZnRlY5dlphQkZtUDMtdXpuaHhSQ0ljRXE2VnRMYllCV1JOWkg3RlBBT0VqQXRBenhTSXpMSkNWam9Fc2FPbXdLSHVkR0V1N2Zha0k3OFl2SUV1MVQwWmNjZ2hDS0JrTGcyZHZaYzZMWW5qX0Z0Z2t6aFE2ZGFxMDUwTzF2WEpINHpoZVZRUjFTSVJPR3NwSFhN?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-17T17:16:11.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
     },
     {
      "title": "مدبولي: مجمع «هاير» الصناعي في مصر يوفر نحو 3 آلاف فرصة عمل ويسهم في خفض فاتورة الاستيراد",
@@ -223,18 +230,11 @@
      "seen": "2026-11-17T13:40:47.428Z"
     },
     {
-     "title": "سيدة مصرية تاهت في طفولتها وعادت إلى أحضان أسرتها بعد 55 عاماً من الفراق",
-     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQcFpJbHFIQm1YdkxHUm83a3Q3NFp1Y3hiNnhUM25FXzZzRDVXRXlnZHFYa25SSzRxREtwR3NqZmZGZTIzalBQSlpvQmNvekVfUkZISmRhQ1JwSnBIdzMzQlI4cGdwcE9rQVBBZTZZSVRfYzFRNGZYT1lmX1RPaDdoZlZ2Qld6Z0dIVGRXQnB6VFlGaDNmaUd2eUF0UERMV1RsLUFsOWQzN3JSVGJoSFFxLURtNndHU1BZX1hxUDZEakN0Rno5SUN2LWFyanpSVmNXR3JjMTc2b0F2YmpzWmQ5ZFB5LUxCanZIbDhlTEs5SmdHWUxzQWtWZzFQTWl5RjFxRGI4NlczMEZ1OGt5eWFaWkVER2Rhazc5TzdkNndhcnNxakJONkptQ1JMVlQ3bVlKeThHNkpRa2lXLU5sRTdtQVZ3UVBBWEQyRDlTY243V1hxd19fVURWelBaWDNoZDdZM0RDMHFLZkZwNnZUVnJyVGZCb044SV9pYUNlY0dXV2U2YlpYY0hWU3JqSjVFVzN0TW1ySFFmUldLUU4xWEV1clVrcWhRcHozZmF0VFAyZGZiNkN3VUFDaEFlWllEd3QwbGx1UnZCcE12WE93NmZRWlBSQWhfYUwzbnlxb2JwYkVDaWdDZXBjSm5WWnBoTDdmRlJTVjJ1eUFuOVd3RnFlNzJMamRiRkFmY2otcm1DMUxLLXZ2X3FsVGg1RHg2eFlFd0NEUUtwaVd3UDJqVVJaQWY1OXVoRHlWMlFPU1ZR0gHDBEFVX3lxTE9SazBZSTNrbDl3RXlpTXlyRVBwMl9ha0R6MUhVM01UT1ZQSFFEV0FqTVlXT21Uc2htTDNZdFRUc1k1U3JjRVVVNnYydkdEelB5aTZtQUNDZE5kUktoa3hpUXZpamU0am4wQmpId1pvZUhPbjVNZGRIMDZWVS1qSVl6OFBwRDlxX1g2Nm95eTBWcjk2VnpraTUtZG5KSEdKMDZOQXB4ckJVZkpaR003dVg1MkVUVDYtWlQ3NzZIZ2liSFNQM2ZkMU84QjdJZDdPa3E4YXQtcGZIYlVjTk42OFRNOHFlSTJDcGxtcXZONzlXZ3lvbHpsbnNmbmVWZ2FubDRvUk1VMDNGRHpPV2tvRzBhYmtwbUpkMTU0U29CYS1tWEUtdkxoSWwwQ0xmcUVhbTlCRlJwa192ZzdmcUpLWXZIRDBkbVhIMzRxODgxSmpZYWNqRnFPM0FmUE45OHdHcXVFczZ5cnpiNWNhN2dsN2NBczVCbHBuRmFGWENmeFM4Q1VLZDNJNklUWWVDUVhzZTkwMkVieE1CWFRUNXZkSGp4SXp5bTZNZkw4R0xQaHZhck00VUV6WDlxMUZEUlVMR2NKS0pCYk1yVEViTDlGN1o2YkdsUk1pbzRUQXo4ZDhTUWxHdDllRm5yLUR3MmJsRkh3Q2ZZVTB4S2tVb1B6cF9pZG1wSkt5N0lKdk96RjltWGl6VG54YmhwVGlTemR3dmdMcG1KcjlYZGZaUTJGeEVDZEZadTRIVlFpYU9ldy0xN3lkdw?oc=5",
-     "source": "العربية",
-     "time": "2026-11-17T14:05:27.000Z",
-     "seen": "2026-11-17T15:20:47.639Z"
-    },
-    {
-     "title": "\"مدبولي\" يبحث مع الرئيس التنفيذي لـ\"SandboxAQ\" فرص الاستثمار في مصر",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMzlhbHhpb0JxV2MtRDVHYTFWSGFuQnpiVEhPX0pYRXlqQTFGUFlMeXZ0T1VGTW0wdE1DV3BsdFd0RGRVanl5SHc1NGk2V242dE5td2pn?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-17T13:52:30.000Z",
-     "seen": "2026-11-17T14:00:47.319Z"
+     "title": "«انطلقت من الإسكندرية إلى رومانيا».. غرق ناقلة نفط ثانية خلال يومين في البحر الأسود وعمليات البحث جارية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQm1sQkFabzhVYWFfLU9iMEF0b1NVN2Q1RFUwN2xXWkJuR1dhTHlRdDlDMHNGM2plaXcxbEp5QjlnNUk1Y2ljazRpUGlEdlozcVZraWstTTlRWUp6b0JV?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-17T14:34:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
     }
    ]
   },
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "هل تضع أموالك في البورصة أم البنوك؟ خبير مصرفي يوضح أفضل توزيع للاستثمارات",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZVd3TzNUcTBULV9DNFJ5SG9KNXJkVjc1Ykxvd1lseUp2MDgtSFpXLVpRWkJCZDhOMWx6dGRGVVVTRXdFbk1wV1hiSlJqZzdIVmYxY2RaTGI3Ql9CM0VB?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-17T17:18:00.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
+    },
     {
      "title": "ترامب يحذر إيران من استهداف واشنطن، وطهران تنفي التخطيط لهجوم بـ \"قنبلة قذرة\"",
      "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
@@ -333,13 +340,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T14:03:14.000Z",
      "seen": "2026-11-17T15:20:47.639Z"
-    },
-    {
-     "title": "الدولار بكام؟ تعرف على سعر الدولار أمام الجنيه في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13UVREQVQwTXdiYlYzWkVQcVRLaTd5N1ByVWJYTV9mSE9EajJ6NUNJaTZyVHQ4SkRCaTh3MUltS3NlQUo5dElv?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-17T13:47:00.000Z",
-     "seen": "2026-11-17T13:50:47.979Z"
     }
    ]
   },
@@ -452,6 +452,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "عاجل .. تعطل شبكة الاتصالات السرية لوكالة الأمن القومي الأمريكية",
+     "url": "https://aitnews.com/2026/11/17/nsa-net-classified-network-outage/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-17T17:20:59.000Z",
+     "seen": "2026-11-17T17:30:48.184Z"
+    },
+    {
      "title": "جولة تمويلية بقيمة 500 مليون دولار لتطوير الروبوت الفرنسي المتعدد الأغراض «إينو»",
      "url": "https://aitnews.com/2026/11/17/%d8%ac%d9%88%d9%84%d8%a9-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d9%8a%d8%a9-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-500-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%aa%d8%b7%d9%88%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -542,13 +549,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T09:34:00.000Z",
      "seen": "2026-11-17T10:28:53.827Z"
-    },
-    {
-     "title": "بريطانيا وحلفاؤها يدعون إسرائيل إلى السماح بوصول المساعدات الإنسانية سريعاً إلى غزة",
-     "url": "https://www.bbc.com/arabic/articles/cmwy0dr10nlzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T09:28:28.000Z",
-     "seen": "2026-11-17T09:38:53.655Z"
     }
    ]
   }
