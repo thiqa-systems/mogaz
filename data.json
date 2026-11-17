@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:51:04.443Z",
+ "updated": "2026-11-17T22:01:05.488Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T21:51:04.443Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T22:01:05.488Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5818,
-   "change": 0.37,
-   "asOf": "2026-11-17T21:41:02.000Z",
+   "value": 5817,
+   "change": 0.35,
+   "asOf": "2026-11-17T21:51:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6642,
-   "change": 0.37,
-   "asOf": "2026-11-17T21:41:02.000Z",
+   "value": 6641,
+   "change": 0.35,
+   "asOf": "2026-11-17T21:51:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3853,
-   "change": 0.01,
-   "asOf": "2026-11-17T21:41:02.000Z",
+   "value": 3852,
+   "change": -0.02,
+   "asOf": "2026-11-17T21:51:20.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.1004,
    "change": -0.19,
-   "asOf": "2026-11-17T21:50:43.000Z",
+   "asOf": "2026-11-17T22:00:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.01,
-   "change": 0.62,
-   "asOf": "2026-11-17T21:41:01.000Z",
+   "value": 93.13,
+   "change": 0.75,
+   "asOf": "2026-11-17T21:51:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64247,
-   "change": -0.94,
-   "asOf": "2026-11-17T21:51:06.000Z",
+   "value": 64232,
+   "change": -0.96,
+   "asOf": "2026-11-17T22:01:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خالد الغندور يكشف تفاصيل جديدة عن لائحة مكافآت منتخب مصر وعدم تعديلها",
-     "url": "https://www.elbalad.news/7184857",
-     "source": "صدى البلد",
-     "time": "2026-11-17T21:50:40.000Z",
-     "seen": "2026-11-17T21:51:04.443Z"
-    },
-    {
-     "title": "ماذا يحدث عند حليب الأبقار بحليب الشوفان؟.. أضرار على العظام والأسنان والوزن",
-     "url": "https://www.elbalad.news/7184852",
-     "source": "صدى البلد",
-     "time": "2026-11-17T21:44:22.000Z",
-     "seen": "2026-11-17T21:51:04.443Z"
-    },
-    {
-     "title": "زياد بهاء الدين: مصر تستطيع مواصلة مسارها الاقتصادي دون صندوق النقد",
-     "url": "https://www.elbalad.news/7184847",
-     "source": "صدى البلد",
-     "time": "2026-11-17T21:43:34.000Z",
-     "seen": "2026-11-17T21:51:04.443Z"
-    },
-    {
-     "title": "النقل تدين سرقة مسامير القضبان بمحطة السنبلاوين وتحذر من تهديد أرواح المواطنين",
-     "url": "https://www.youm7.com/story/2026/11/17/النقل-تدين-سرقة-مسامير-القضبان-بمحطة-السنبلاوين-وتحذر-من-تهديد/7622923",
+     "title": "أخبار × 24 ساعة.. الصحة: لا توصيات بغلق المدارس أو رش مبيدات بصورة عامة",
+     "url": "https://www.youm7.com/story/2026/11/18/أخبار-×-24-ساعة-الصحة-لا-توصيات-بغلق-المدارس-أو/7622854",
      "source": "اليوم السابع",
-     "time": "2026-11-17T21:40:00.000Z",
-     "seen": "2026-11-17T21:41:04.587Z"
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
     },
     {
-     "title": "انتخاب مرشح حزب يشار متان كاهانا رئيسًا للكنيست الإسرائيلي",
-     "url": "https://www.youm7.com/story/2026/11/17/انتخاب-مرشح-حزب-يشار-متان-كاهانا-رئيسًا-للكنيست-الإسرائيلي/7622918",
+     "title": "حالة الطقس اليوم الأربعاء 18 نوفمبر 2026.. شبورة كثيفة وأمطار بهذه المناطق",
+     "url": "https://www.youm7.com/story/2026/11/18/حالة-الطقس-اليوم-الأربعاء-18-نوفمبر-2026-شبورة-كثيفة-وأمطار/7622036",
      "source": "اليوم السابع",
-     "time": "2026-11-17T21:29:00.000Z",
-     "seen": "2026-11-17T21:51:04.443Z"
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
     },
     {
-     "title": "انتخاب مرشح حزب يسار ماتان كاهانا رئيسًا للكنيست الإسرائيلي",
-     "url": "https://www.youm7.com/story/2026/11/17/انتخاب-مرشح-حزب-يسار-ماتان-كاهانا-رئيسًا-للكنيست-الإسرائيلي/7622918",
+     "title": "مواقيت الصلاة اليوم الأربعاء 18 نوفمبر 2026 بمحافظات الجمهورية",
+     "url": "https://www.youm7.com/story/2026/11/18/مواقيت-الصلاة-اليوم-الأربعاء-18-نوفمبر-2026-بمحافظات-الجمهورية/7622802",
      "source": "اليوم السابع",
-     "time": "2026-11-17T21:29:00.000Z",
-     "seen": "2026-11-17T21:31:04.744Z"
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
+    },
+    {
+     "title": "الرئيس السيسي: قيمة الاستثمار الأجنبي المباشر في مصر بلغت 18 مليار دولار.. أحمد موسى: حملات التضليل تستهدف الاقتصاد والشركات العالمية ترد على المشككين | أخبار التوك شو",
+     "url": "https://www.elbalad.news/7184785",
+     "source": "صدى البلد",
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
+    },
+    {
+     "title": "طريقة عمل مربى التين في المنزل .. 6 أسرار لنجاحها",
+     "url": "https://www.elbalad.news/7184615",
+     "source": "صدى البلد",
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
+    },
+    {
+     "title": "سباق الذكاء الاصطناعي يضع إنفيديا وأبل في مأزق بين واشنطن وبكين",
+     "url": "https://www.elbalad.news/7184561",
+     "source": "صدى البلد",
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
     },
     {
      "title": "مدبولي يشهد افتتاح المرحلة الثانية من مجمع «هاير مصر» ويؤكد: حريصون على دعم المستثمرين الجادين",
@@ -272,6 +272,13 @@
      "seen": "2026-11-17T21:11:04.438Z"
     },
     {
+     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الثلاثاء",
+     "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPdU9ERHV5UExGajM2RjkxT1BCTXlnU3BfLS05M0tOeGZkYmhyWkdnQlQtUmxuT1FZMWozemtDcjNiMWExcmdOclJBRmFTVUZQV0l4RUFvTkdBeHgtMUhEREtvTEVSbVRXbjJuVXFTb0ptTjgzQlcza3hld0JaUDF2Mm9FT0pNWHd4WlZETkFqLVBJbGJpNmJCQWkyT0lEcUFjNFhBUTJsbGY4a0N0cHZ6TE54b01HRUd3a3ctNnVDQVZzNWZKMWRzaTRfQktmVGN4eHM5M3gyaS1oS2pULUo5X3psV0hVYXBPRkRpdmNuNmpnZmpnSHB6YWtIeFNuLVlDeGhpVzZXbWlvbEpwR0NiNlpURG14d1RSRjhjS1BQRUZKWnBBOVhVbTZkYUFDRU1NRDdEZ2dSbWlYQXJjOEc3RFRtQjBNS1l5UV85TW9TQ2NYN19jUTd4OVFjVEY5SDJicWdXMkx1Qm94cnZra2pCVmcwS0tXSUwtWGxsc0NqTFlSQnJvTkd6dlhma3UyN1ozTTc3SkpfNUl1aXozbk9FUjNNOEgzWUw1XzNsZXRCMUdYVUlia1FDaGR2REtqLTJKVkp3SXNwQzZXSElWVnpyTVFxaDFIZHRrRVdXREREd2dfdXBocjlHay1R0gHqA0FVX3lxTE91T0REdXlQTEZqMzZGOTFPUEJNeWdTcF8tLTkzS054ZmRiaHJaR2dCVC1SbG5PUVkxajN6a0NyM2IxYTFyZ05yUkFGYVNVRlBXSXhFQW9OR0F4eC0xSERES29MRVJtVFduMm5VcVNvSm1OODNCVzNreGV3QlpQMXYyb0VPSk1Yd3haVkROQWotUElsYmk2YkJBaTJPSURxQWM0WEFRMmxsZjhrQ3RwdnpMTnhvTUdFR3drdy02dUNBVnM1ZkoxZHNpNF9CS2ZUY3h4czkzeDJpLWhLalQtSjlfemxXSFVhcE9GRGl2Y242amdmamdIcHpha0h4U24tWUN4aGlXNldtaW9sSnBHQ2I2WlREbXh3VFJGOGNLUFBFRkpacEE5WFVtNmRhQUNFTU1EN0RnZ1JtaVhBcmM4RzdEVG1CME1LWXlRXzlNb1NDY1g3X2NRN3g5UWNURjlIMmJxZ1cyTHVCb3hydmtrakJWZzBLS1dJTC1YbGxzQ2pMWVJCcm9OR3p2WGZrdTI3WjNNNzdKSl81SXVpejNuT0VSM004SDNZTDVfM2xldEIxR1hVSWJrUUNoZHZES2otMkpWSndJc3BDNldISVZWenJNUXFoMUhkdGtFV1dERER3Z191cGhyOUdrLVE?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T20:05:45.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
+    },
+    {
      "title": "مبيعات المؤسسات تضغط على البورصة.. و”EGX30″ يقترب من اختبار 51.4 ألف نقطة",
      "url": "https://alborsaanews.com/2026/11/17/2007209",
      "source": "البورصة",
@@ -328,13 +335,6 @@
      "seen": "2026-11-17T17:30:48.184Z"
     },
     {
-     "title": "سعر الذهب فى مصر.. تحديث فوري من الصاغة",
-     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMGY1SkdqNnIwekdaSFVHdnFpQlNaRWNOdEJfeG5UbUVGQzFubVlCZE9lQXdBeW9ORVE5Y1lHZVYzMnV3MlloZmdUWTVFZWVXbEFQMGJkZG5TSHltTUo5MmpYMldMdlhoQkFpeHhNSzQzSXF1R04yeDlSa1JjWFQ5cWZHQTIydnhtaTBabUx0N25ROFNrcGxQUzlST1VVc0pqV3cxZU1Oak5oYlBvcy1PbEhiNmZiZHJUeFB6LUhETUpVcVZyVWd6eW9oS01WaUszb0hPY2xPY2FkTGZnWG5Fa3VBNkVydmtwNURoMmVxUXdSRmhBU0FSajRTRlFpUmJQVU9yRi0wb24tcHFTUF9xS2FoY3h6S0I1YVZ6MUlvMWdlS0ozUkJOQlMxbUVoM1NrSFBjZjhqRk9yN3V5OGhUX05lWFVwMTlRdHU4LUc3QXFuN2FK0gHPAkFVX3lxTE9WVEdqWnlCcmd6ZDk2Q3ZGRk9BVjlUdl92Yi1BQWNWWkV6bC00RWhpejIwV1dmczlHZHJQbXlTNDRoUDlQc0dKcHhDdlJWVWFRSFR1MExvX000N292OTh3SzNONTJzMkxKYjd3dlNSQ09kbHI1OWtWeWRGYURyX1p5VWotb0hBeC1fZk9qeEc1R25PNUNtUnB2QWhxci1iMG4xdXRwOEF4eHRBT19IMkhiZlVhMTlTN0R1QjJXLVpqb0V3Y21IQ1FMdXV2SWo1RHY3Qkx6UThUblJ0UlhfbHRMZ05pMzV4NHduSFhRb2lwUDdEaHFqaHpVTkkzY3E0OC02aXpnTFMtakxpZ3BNS25yMFFPSU9FdktpLXZ5VXpibVFRZFFnZ01XY2t3UXZsZnJSQjFMZGlQUkVMSzNYdmdFVGNDZmdnd0dORkhrRk4w?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T17:00:00.000Z",
-     "seen": "2026-11-17T20:21:05.062Z"
-    },
-    {
      "title": "«الأكثر انتشارًا في الصعيد والوجه البحري».. تفاصيل اختفاء البوتاجازات العادية من الأسواق",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1WGtDVVUtVWVCX2tLeHdYV2phZDV5RlNka2RiRDBadV9hZnZDcDlid3poY0Y3SDFjWEw2d2huU1I0V1dySk5fdGZHX0tIYmF4dHA3Q1RKb2pVMmVGWFNZ?oc=5",
      "source": "المصري اليوم",
@@ -355,11 +355,25 @@
      "seen": "2026-11-17T21:51:04.443Z"
     },
     {
+     "title": "برلين.. حظر ومداهمة مقار جمعية \"الإرشاد\" ومنظمات أخرى بتهمة دعم حزب الله",
+     "url": "https://www.dw.com/ar/برلين-حظر-ومداهمة-مقار-جمعية-الإرشاد-ومنظمات-أخرى-بتهمة-دعم-حزب-الله/a-79975480?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-17T21:44:00.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
+    },
+    {
      "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/us-carries-out-self-defense-strikes-on-iranian-missile-launch-site",
      "source": "CNN بالعربية",
      "time": "2026-11-17T21:43:48.000Z",
      "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
+     "title": "ترامب يحذر إيران من استهداف واشنطن، وطهران تنفي التخطيط لهجوم بـ \"قنبلة قذرة\"",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FcnJTdnBiLUM5NDc3dzdxT1lWaDdQWDdHMFljajJTWk9XV2pPRkszT0ZlaWVZTEJOVFpZRlRWSk5SaXRaV09zbVVZelA2QXZIMy1KbXF5VUl4WEVJVVHSAWNBVV95cUxOenY5OVVqMWhBcTY0TUItQmlMcktwUjU0ZXRqMHVZczBPYU5LN2FNVzh5RFJaS25lejZReGltRkpxYUVONFZGRS1sUHlvc0t4RmE0X2Y2MzhEZ041aktMSmFyYkk?oc=5",
+     "source": "BBC",
+     "time": "2026-11-17T21:20:51.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
     },
     {
      "title": "السلطات التركية تستهدف مجددا الإعلام المؤيد للمعارضة عبر مداهمة قناة سوزجو",
@@ -388,6 +402,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T19:00:30.000Z",
      "seen": "2026-11-17T19:11:04.877Z"
+    },
+    {
+     "title": "انقطاعات غامضة تهز أميركا.. وهولي يطالب \"الشيوخ\" بإحاطة عاجلة",
+     "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOOGNrOG52Y0dpQzBZNGhNYTlkSm81WUVaMjhzX1JWWkM4M0JpOXcwZWRENk1PYlVETUNtSkdiTUctaF95NWFXMV8tdDZQN21aaXlNTS1OM2tCVXdYRU14U2NEaEUxS29UMFhaalc3b2FyVE5HYXJnYVRxLTlmUzV1ZE1XQWROc01tWjRlb05qajRMcTVkT3NXbTVWNndKX1VUMm5VU0JiT2lUOHNuM05kVzBoUGNKNHg5eVA4QjQtLTRQcVhkcThMbzdpLTB3SW1jSnZOVGNSbEFPa1RhTm80Z1oxc0RXaGpoMENXRlU1cDJxUG1mYzRwRURmYmNiaUpablpNYVVDRmhTZk9xSUtjX0JvTzNBVGVfQnp2R1Z3em02YXBWZTVOR2dETURNcHAzTGtsaVBkSjJoOVRUVk43aEYxd19UMWUxaGlzMVFROThnRWJxQmNjeHhHNlJSejBqRnZraEVlNXBrc1R1RkJqMVJxQTNyenVfWmsxbkZQSVVtUnpMZm1VQmZPT3paZUxZSm5XNk9KLW5kMTZ4VHdiZVI3VkZFd2wyaE8xZzRzWlJvMnFOdDA5SHh0UTRNcWhNN3IwbUhHaTR5blZVbWd6STVqUWZGeTJScW95TXVTd29OZzREZWxiM3pMdW9pZVdCaVFpaGNZaXc5S3JQVVNZZDM3eDY5WmFyUjY4bG1oRHMwak1S0gGaBEFVX3lxTFBabUVpbmRnR09iSFRfdHFVR2hXUkNZNm1Od0hkNEtaRU9YRFBzcGpSNWw0ZlhKZTVEQ0ZKeGZ6dzdXRG9PSW9OQmdUalJKY3ZvQVJYTzhTS1dTbHlPX0RVaWFEWkhBMGZRRTNfZ1REdWFNdE03VXl6Z0RqTEVXVHU4TnFuTS1KbThGX25SR19BNWwxRDhIelNYNlFRQW9nUmpTdTZBUW9mSGhZS0xaOExLMFhMNG42QTNpczlLVU5MQTUzXzE0alFta0VrVkJESnZMZFp5d0JHN1BjLXlsdE1KOTRLWTlFc1VYdUZyeEpCaFpUTEhPSXdXVmdCaE9veldwWkJKRWdKMWFSR0dSYS10M3lYNGo0cU10ZGtTQW8zOHVTbU1yTS1xYXlDTUNLNURRbDFQVXh1M2NiMW1oc1V4ejh1cjE1cVJCN3NTU0FqaXZjVVdVbnFybnYzdDdXY01nUnl6bERRMW00S2JESHAzWEM3LUlwQzY4c2xxWkNjRnI5UXVKdmR6S0I2aXZuWVhtZm5WT2MtY2ZySEFOYW85TjRzZVhXaThxXzdmdjlWT1g4TUZBUmRtNXNzQm5vMXNYT0ozc2pzeXZUc284c2l2Z2JhSHppRWtrSW5iajBxWnZOUWQzeHFYWlNjSjZsaFJFN0F6M1A4N3F6SUNja2YtX2Jld3EzX3dWMHhBQ21udmd3cXdTYUFNMVE?oc=5",
+     "source": "العربية",
+     "time": "2026-11-17T18:33:00.000Z",
+     "seen": "2026-11-17T21:31:04.744Z"
     },
     {
      "title": "قشم ومعادلة هرمز.. صراع أمريكي إيراني على التحكم بالملاحة",
@@ -423,27 +444,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T18:19:24.000Z",
      "seen": "2026-11-17T18:31:04.596Z"
-    },
-    {
-     "title": "صحتك بالدنيا.. حيلة بعد الأكل تضبط السكر ومشروب شائع يخلصك من الدهون",
-     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQNkV6MkVLR3J3bThVVTl0RnBKRjJxTGF6cmhqZUFiVGhhRGxMbXk4ejNfSy13LVB0S00tSk42S3paTzU3VV9Eak9TQ1cyaWdBazJ4MHA1Nk51VEZndllfU3ByZE50ZFBTYXJMOEdaY3lwcXRrLUlvWVEtdXdCN3JHLTd1XzJWYkRDTkplVUFGRHBlVzFJWDBQMzhGUm1Xb0hhNUlFSElXWExvc0xCTHJUOXJMY2RpYVg2TmQ3MWRicVJVeGtXWFJhREs4ZnhWVUhHUEV2SkVUYzljb21Xb1hDam5jYWRYb3hRX2l5SENTUzljWnZBUExXM0NhMWF6VUZJaVo0d242bG1aME5LSWpRQml6S2RmbUJBUEdNQXBKTHpjUHhKS29GYnBTcl9Vb2JHRmd4SlJ3bm9mdF9BU2stdkJsdDhpN0ExSm82c29mejU3RFVTZlhwZnZPYktrLVc1QzlSMkJncDEzNS1uazZIQXVCLTNnX2Y2MHJQMlU5Z2VCOGpzMjQ4WkYwdnRUMmw4X1hIcFNPRnNPTUpEbi1ibEllb0lZQURsdTFTUUUybGFYVmtLZElkLVJIMzlab1hwUzdxTnU5c3F2d3JKUURzWHpabjdTdW5EdExOdDBHMNIB2gNBVV95cUxNOUc1VmQzb2pfWG1EaEZJSU02eHhFOUJYMEQ2UzRxQm0zQVd0MXZrT1B1bTY1bU1BTTNTU2JVS2tsaWZxYzQ3cVlsaTZrOGlVMTZVaDZwaVd4QmQwX0c0aTYtSHFyTEZDdVdkZ3JHdG5SLXNJQjVXQlZFOXhnbXBXX2tfQ3ExcmZudzRiV0U1ZmV4MktjRWRLZHktNGxoUy0tekdSM3ZMVG1CSmxMWld5UkhkNHRhTHNkVHN2aS1YbDZXQkZqelhUcTUwUzh0bHp3T01mdmtUeDN2V1RNM3FIUVh6U0M4ZS1HVU9BaUxGcW51X3ZWdG9nSVA1S1BtN0xMSXVtMXpLa1d6MjBDWC1OQklYbmIwQk01VUNwVi1nQy1WbTJsX29VWlJXNzRjOV9KN1ZIQ1NrOVZqb3lfZURJN0xQTFR6MXc1T1RjQ19oVVlSRlkwckd5aWJGSzhodWItaFZaNmllT2t2T29kUEYxdHFCZWNQTUZOQ3hMczJmOWZrcl9Xd1M0eTU5QWtudWF4SlcyYXVOMHllSEVWMjUwUHZRdUg0dFVvOE01RF8xVksyZmVyMHRjZ3kwR25QblJwZWt3MWdwd04zYmdPUC1pOTlKM05xWjN5YXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T18:00:00.000Z",
-     "seen": "2026-11-17T21:01:04.521Z"
-    },
-    {
-     "title": "مصر تضع حداً لإخفاء الأسعار.. نصف مليون جنيه عقوبة للمخالفين",
-     "url": "https://www.dw.com/ar/مصر-تضع-حداً-لإخفاء-الأسعار-نصف-مليون-جنيه-عقوبة-للمخالفين/a-79967241?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-17T17:40:00.000Z",
-     "seen": "2026-11-17T17:50:47.456Z"
-    },
-    {
-     "title": "جيمس بوند: ماذا نعرف حتى الآن عن فيلم العميل 007 المقبل؟",
-     "url": "https://www.bbc.com/arabic/articles/c6pw42gl8njwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T17:33:07.000Z",
-     "seen": "2026-11-17T17:40:47.380Z"
     }
    ]
   },
@@ -459,13 +459,6 @@
      "seen": "2026-11-17T21:11:04.438Z"
     },
     {
-     "title": "انقطاعات غامضة تهز أميركا.. وهولي يطالب \"الشيوخ\" بإحاطة عاجلة",
-     "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOOGNrOG52Y0dpQzBZNGhNYTlkSm81WUVaMjhzX1JWWkM4M0JpOXcwZWRENk1PYlVETUNtSkdiTUctaF95NWFXMV8tdDZQN21aaXlNTS1OM2tCVXdYRU14U2NEaEUxS29UMFhaalc3b2FyVE5HYXJnYVRxLTlmUzV1ZE1XQWROc01tWjRlb05qajRMcTVkT3NXbTVWNndKX1VUMm5VU0JiT2lUOHNuM05kVzBoUGNKNHg5eVA4QjQtLTRQcVhkcThMbzdpLTB3SW1jSnZOVGNSbEFPa1RhTm80Z1oxc0RXaGpoMENXRlU1cDJxUG1mYzRwRURmYmNiaUpablpNYVVDRmhTZk9xSUtjX0JvTzNBVGVfQnp2R1Z3em02YXBWZTVOR2dETURNcHAzTGtsaVBkSjJoOVRUVk43aEYxd19UMWUxaGlzMVFROThnRWJxQmNjeHhHNlJSejBqRnZraEVlNXBrc1R1RkJqMVJxQTNyenVfWmsxbkZQSVVtUnpMZm1VQmZPT3paZUxZSm5XNk9KLW5kMTZ4VHdiZVI3VkZFd2wyaE8xZzRzWlJvMnFOdDA5SHh0UTRNcWhNN3IwbUhHaTR5blZVbWd6STVqUWZGeTJScW95TXVTd29OZzREZWxiM3pMdW9pZVdCaVFpaGNZaXc5S3JQVVNZZDM3eDY5WmFyUjY4bG1oRHMwak1S0gGaBEFVX3lxTFBabUVpbmRnR09iSFRfdHFVR2hXUkNZNm1Od0hkNEtaRU9YRFBzcGpSNWw0ZlhKZTVEQ0ZKeGZ6dzdXRG9PSW9OQmdUalJKY3ZvQVJYTzhTS1dTbHlPX0RVaWFEWkhBMGZRRTNfZ1REdWFNdE03VXl6Z0RqTEVXVHU4TnFuTS1KbThGX25SR19BNWwxRDhIelNYNlFRQW9nUmpTdTZBUW9mSGhZS0xaOExLMFhMNG42QTNpczlLVU5MQTUzXzE0alFta0VrVkJESnZMZFp5d0JHN1BjLXlsdE1KOTRLWTlFc1VYdUZyeEpCaFpUTEhPSXdXVmdCaE9veldwWkJKRWdKMWFSR0dSYS10M3lYNGo0cU10ZGtTQW8zOHVTbU1yTS1xYXlDTUNLNURRbDFQVXh1M2NiMW1oc1V4ejh1cjE1cVJCN3NTU0FqaXZjVVdVbnFybnYzdDdXY01nUnl6bERRMW00S2JESHAzWEM3LUlwQzY4c2xxWkNjRnI5UXVKdmR6S0I2aXZuWVhtZm5WT2MtY2ZySEFOYW85TjRzZVhXaThxXzdmdjlWT1g4TUZBUmRtNXNzQm5vMXNYT0ozc2pzeXZUc284c2l2Z2JhSHppRWtrSW5iajBxWnZOUWQzeHFYWlNjSjZsaFJFN0F6M1A4N3F6SUNja2YtX2Jld3EzX3dWMHhBQ21udmd3cXdTYUFNMVE?oc=5",
-     "source": "العربية",
-     "time": "2026-11-17T18:33:00.000Z",
-     "seen": "2026-11-17T21:31:04.744Z"
-    },
-    {
      "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
      "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
      "source": "الشرق الأوسط",
@@ -478,6 +471,13 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-17T18:04:02.000Z",
      "seen": "2026-11-17T19:01:04.644Z"
+    },
+    {
+     "title": "جيمس بوند: ماذا نعرف حتى الآن عن فيلم العميل 007 المقبل؟",
+     "url": "https://www.bbc.com/arabic/articles/c6pw42gl8njwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T17:33:07.000Z",
+     "seen": "2026-11-17T17:40:47.380Z"
     },
     {
      "title": "تعطل شبكة الاتصالات السرية لوكالة الأمن القومي الأمريكية",
@@ -522,18 +522,18 @@
      "seen": "2026-11-17T15:50:47.988Z"
     },
     {
+     "title": "الأمم المتحدة ترصد اتساع هجمات المسيرات بالسودان",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNRGFsNUx1d3dLeXNUS2xXc2w5ZFpDY0NPTDhIaE1ZZkU5OUZMc1dndEFxdXFabVpTM05Xazl0bElKZUZaelZKZkJQazNOYnZ1RGlLSFBybi1PSmdqYzY4UzZFWGNmaXRJaUo1TmZ0VnBTd0VaZktVcUVWZ3JORXJWNXdKNVFUaFA4dnpCTzJxNzB1dnRGM0JUamxSYVdMY1BVZnpCVDZuTFk3WUZDc05rOVNUMk54bHk1Z1VLNDJ3dWRVZHlsanR1NHNWOU9MYUlSNUo1YklvS09nMWl1Zl91eWVLVzc1a0M4b2RXeU1yTVltblJJX2JZR0pucWFzWnlIeFNCbGNmdEdsV05yNGx0TmJlZTlmZFU0MXBVcW5HRlZSb3djVmNxQlY0ZjdxcWFGd1RVOXpOOG5Qd0g2ZElqV1RaYlRhbUx3ZXg5SkYtLVhFWlhKRzF6cmc2bi1odnNXNHBEYnY0UDNuWGxrVnowVWVMck1GSUtpSXU5bDJmMnZNbjFjUjBFTUpmTG5aMFFnSWpjZmtIZnNCa2tRSDNzRHV2ODB6UWVkTEpXMDRHc1g0allMdk040gG8A0FVX3lxTE81LWVVWnlNMWtzVnNCeEoySEVtR1dIaEYzXzhjcnFVS3M3RFlJSklIR1NwMTVvZkYwNmU3OGN3VHdaYzNPUnpNQ0RIOTVMQks5emVrVE5iZE1ISmdNbllBRFVUbkt5N0VpVGppYzQwVG1nd0FydkZYSm9XSmJoQktSemZNTkE5UUpmSXZfZjFDUUVHUWVqT2lnbGRfN3pEU3NaMHRaUndEZVVMZ0hzWjFfNGJnOFNvanBQZ3o1V0hwN1pIdF9UN1VVZEFHZHc1U2c5N0FYLXVfZDlWaDhwd2xkSlh5OGFoWGpuYmdxSFRCZ3l2c3RpaWIzNE1kdzZja0JmYnNoV3ZYXzhDOWNKUUN0U3lkNDZHSE1DeUktYTQ0WVU2a1ZEWmJBSGdLVHAzcGJFWGpXcHp5Q3hNaWVNYnI1TEpGWVpNdWpkQndFRjJUVmpya1g2ckVpSWFSODhWSHBjNVd6OVBTbGRaUzdULU1LWTliQlJPMG14d3RxcFoyNDVmRWh4MklDM2hVVllNejFoMXBaZ2QyM2NyUnIwc0xVdEd6TVhTd2VpemFwdllOSGJpeDVnNU1nRm9Xbw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T15:38:06.000Z",
+     "seen": "2026-11-17T22:01:05.488Z"
+    },
+    {
      "title": "جرف الصخر أم جرف النصر؟ الحكومة العراقية تعلن نتائج التحقيق في اتهامات تهريب النفط من المنطقة",
      "url": "https://www.bbc.com/arabic/articles/c9m2j8pry2ndo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-17T15:13:19.000Z",
      "seen": "2026-11-17T15:20:47.639Z"
-    },
-    {
-     "title": "في اليوم العالمي للطفل: من يحمي أطفالنا من العنف؟",
-     "url": "https://www.bbc.com/arabic/articles/c9rkg0g7gyppo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T14:31:46.000Z",
-     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
      "title": "قائمة هواتف \"سامسونغ\" المؤهلة لتحديث One UI 9.5",
@@ -553,11 +553,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "world",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
