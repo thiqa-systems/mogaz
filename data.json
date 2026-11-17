@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:00:47.952Z",
+ "updated": "2026-11-17T18:10:47.522Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T18:00:47.952Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T18:10:47.522Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5840,
-   "change": 0.76,
-   "asOf": "2026-11-17T17:51:21.000Z",
+   "value": 5837,
+   "change": 0.71,
+   "asOf": "2026-11-17T18:00:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6668,
-   "change": 0.76,
-   "asOf": "2026-11-17T17:51:21.000Z",
+   "value": 6665,
+   "change": 0.71,
+   "asOf": "2026-11-17T18:00:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3868,
-   "change": 0.39,
-   "asOf": "2026-11-17T17:51:21.000Z",
+   "value": 3866,
+   "change": 0.35,
+   "asOf": "2026-11-17T18:00:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1023,
-   "change": -0.02,
-   "asOf": "2026-11-17T18:00:43.000Z",
+   "value": 1.1024,
+   "change": -0.01,
+   "asOf": "2026-11-17T18:10:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.17,
-   "change": 0.79,
-   "asOf": "2026-11-17T17:51:17.000Z",
+   "value": 93.23,
+   "change": 0.85,
+   "asOf": "2026-11-17T18:00:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7329,
-   "change": -1.18,
-   "asOf": "2026-11-17T18:01:23.000Z",
+   "value": 7335,
+   "change": -1.09,
+   "asOf": "2026-11-17T18:10:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63716,
-   "change": -1.76,
-   "asOf": "2026-11-17T18:01:18.000Z",
+   "value": 63681,
+   "change": -1.81,
+   "asOf": "2026-11-17T18:10:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,38 +139,45 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بعد ساعات من طرحها للحجز.. نظارات سامسونج الذكية تتفوق وتستنفد 16 طرازاً بالكامل",
-     "url": "https://www.elbalad.news/7184527",
+     "title": "رئيس الوزراء يفتتح خط إنتاج التكييف المركزي (VRF) الجديد بالمجمع",
+     "url": "https://www.elbalad.news/7184556",
      "source": "صدى البلد",
-     "time": "2026-11-17T18:00:00.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
+     "time": "2026-11-17T18:09:52.000Z",
+     "seen": "2026-11-17T18:10:47.522Z"
     },
     {
-     "title": "موعد شهر رمضان2027.. متى إجازة عيد الفطر؟",
-     "url": "https://www.elbalad.news/7184370",
+     "title": "بنك الاستثمار الأوروبي يخصص 445 مليون يورو لتطوير الطاقة النووية والنقل العام في رومانيا",
+     "url": "https://www.elbalad.news/7184564",
      "source": "صدى البلد",
-     "time": "2026-11-17T18:00:00.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
+     "time": "2026-11-17T18:09:23.000Z",
+     "seen": "2026-11-17T18:10:47.522Z"
     },
     {
-     "title": "رئيس الوزراء: مصر أصبحت مركزًا إقليميًا وعالميًا لتصدير العديد من المنتجات تحت شعار «صنع في مصر»",
-     "url": "https://www.elbalad.news/7184543",
+     "title": "وزارة التعليم تعلن مواعيد عقد امتحانات الطلبة المصريين فى الخارج 2027",
+     "url": "https://www.youm7.com/story/2026/11/17/وزارة-التعليم-تعلن-مواعيد-عقد-امتحانات-الطلبة-المصريين-فى-الخارج/7622770",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T18:09:00.000Z",
+     "seen": "2026-11-17T18:10:47.522Z"
+    },
+    {
+     "title": "وزير الخارجية يتوجه إلى واشنطن للمشاركة في احتفالية الكونجرس لتكريم الرئيس الراحل أنور السادات",
+     "url": "https://www.elbalad.news/7184565",
      "source": "صدى البلد",
-     "time": "2026-11-17T17:59:36.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
+     "time": "2026-11-17T18:08:44.000Z",
+     "seen": "2026-11-17T18:10:47.522Z"
+    },
+    {
+     "title": "الإخوان في البلديات الفرنسية.. كيف انتقل القلق من التنظيم إلى النفوذ داخل المدن؟",
+     "url": "https://www.youm7.com/story/2026/11/17/الإخوان-في-البلديات-الفرنسية-كيف-انتقل-القلق-من-التنظيم-إلى/7622763",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T18:04:00.000Z",
+     "seen": "2026-11-17T18:10:47.522Z"
     },
     {
      "title": "الإخوان في مدارس فرنسا.. كيف تحولت الفصول الدراسية إلى ملف أمني؟",
      "url": "https://www.youm7.com/story/2026/11/17/الإخوان-في-مدارس-فرنسا-كيف-تحولت-الفصول-الدراسية-إلى-ملف/7622768",
      "source": "اليوم السابع",
      "time": "2026-11-17T17:59:00.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
-    },
-    {
-     "title": "رئيس الوزراء يفتتح خط إنتاج التكييف المركزى (VRF) الجديد بمجمع هاير مصر",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-يفتتح-خط-إنتاج-التكييف-المركزى-VRF-الجديد-بمجمع/7622761",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T17:58:00.000Z",
      "seen": "2026-11-17T18:00:47.952Z"
     },
     {
@@ -192,13 +199,6 @@
      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNSGhuZTNTa29UNklsaHZ4WnlpQkMyVGpJa0ozUG9fYVlkaHcxQ2toamRrN2w2Y1ZWTEtyVnZhSHZaLWZfNUFFVEMxQ0dldlIwREpuWFVOMmwweVQwV2M3MTVPMjZBM3RkbnQ2dENjMlloR01Ia3BOSmxQUUtkZG9BZHZLX19pdDhUTVZKMzk5UndaTy1CbE9MM2JkNUFXZU5rOUhQcnk4SkgwTDRxdUFMN040RHVrcnNmY2RDc3JlekZEU3JSY29uTnNWYmt5U19EcGkxalNhWlYtN25VYy1sTUpGY1lqLVBCREJ5TzBKYkJPTG5xRk5WbjlKZ2hRVzVEei1UcGNuOGVBZ0RJUWR5SUZyRmZ2Tmk5ZGlFN1pEeGJWMWp3Y1paQWZkSGd6dlh6SlB1d0NGUzFNWktLb1dWWnMtMTZWd20tdGlMcThtQ1RHUmxQVUlZZ1R2M3QzXy1aRkliX2pjcnBUMXdUQ0xTaUlsVnF5ak1pQWV1SUlB?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-17T17:54:46.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
-    },
-    {
-     "title": "متحدث الخارجية: تكريم الكونجرس للسادات اعتراف بدور مصر التاريخى فى إرساء السلام",
-     "url": "https://www.youm7.com/story/2026/11/17/متحدث-الخارجية-تكريم-الكونجرس-للسادات-اعتراف-بدور-مصر-التاريخى-فى/7622755",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T17:52:00.000Z",
      "seen": "2026-11-17T18:00:47.952Z"
     },
     {
@@ -432,18 +432,18 @@
      "seen": "2026-11-17T15:20:47.639Z"
     },
     {
+     "title": "مباشر مباراة المغرب ضد النيجر في تصفيات كأس أمم أفريقيا 2027.. لحظة بلحظة",
+     "url": "https://www.aljazeera.net/sport/liveblog/2026/11/17/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b6%d8%af-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-17T15:04:34.000Z",
+     "seen": "2026-11-17T18:10:47.522Z"
+    },
+    {
      "title": "المقاصة وتصاريح العمل..ماذا أبلغ نواب عرب السلطة الفلسطينية؟",
      "url": "https://www.skynewsarabia.com/middle-east/1905370-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B5%D8%A9-%D9%88%D8%AA%D8%B5%D8%A7%D8%B1%D9%8A%D8%AD-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%A8%D9%84%D8%BA-%D9%86%D9%88%D8%A7%D8%A8-%D8%B9%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T15:01:53.000Z",
      "seen": "2026-11-17T15:10:47.924Z"
-    },
-    {
-     "title": "صناع \"نازا\": القتل مستمر ونسعى لعرض الفيلم أمام سياسيين حول العالم",
-     "url": "https://www.aljazeera.net/arts/2026/11/17/%d8%b5%d9%86%d8%a7%d8%b9-%d9%86%d8%a7%d8%b2%d8%a7-%d8%a7%d9%84%d9%82%d8%aa%d9%84-%d9%85%d8%b3%d8%aa%d9%85%d8%b1-%d9%88%d9%86%d8%b3%d8%b9%d9%89-%d9%84%d8%b9%d8%b1%d8%b6?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T14:49:43.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
     }
    ]
   },
@@ -556,13 +556,13 @@
  "failed": [
   {
    "section": "tech",
-   "feed": "عالم التقنية",
+   "feed": "البوابة العربية للأخبار التقنية",
    "error": "HTTP 403"
   },
   {
    "section": "tech",
-   "feed": "البوابة العربية للأخبار التقنية",
-   "error": "The operation was aborted due to timeout"
+   "feed": "عالم التقنية",
+   "error": "HTTP 403"
   }
  ],
  "marketErrors": []
