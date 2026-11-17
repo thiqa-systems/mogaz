@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:41:05.170Z",
+ "updated": "2026-11-17T23:42:31.282Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T23:41:05.170Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T23:42:31.282Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5823,
-   "change": 0.47,
-   "asOf": "2026-11-17T23:32:05.000Z",
+   "value": 5820,
+   "change": 0.41,
+   "asOf": "2026-11-17T23:32:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6649,
-   "change": 0.47,
-   "asOf": "2026-11-17T23:32:05.000Z",
+   "value": 6645,
+   "change": 0.41,
+   "asOf": "2026-11-17T23:32:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3857,
-   "change": 0.1,
-   "asOf": "2026-11-17T23:32:05.000Z",
+   "value": 3855,
+   "change": 0.05,
+   "asOf": "2026-11-17T23:32:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0996,
-   "change": -0.26,
-   "asOf": "2026-11-17T23:41:45.000Z",
+   "value": 1.0997,
+   "change": -0.25,
+   "asOf": "2026-11-17T23:42:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64973,
-   "change": 0.18,
-   "asOf": "2026-11-17T23:42:03.000Z",
+   "value": 64924,
+   "change": 0.11,
+   "asOf": "2026-11-17T23:42:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -432,18 +432,18 @@
      "seen": "2026-11-17T23:21:04.652Z"
     },
     {
-     "title": "لا ناجين.. تحطم طائرة عسكرية روسية ومقتل 19",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaEk1WXJTSTFhdmNOT1Y4d2dHWFF0WmlURVppakYtWWh0Y19LbHpRWTZESjRNV0FlcU1tX29GQ01lendXRDFHZE9OclFqNS1vYl80YVNPNHBod21KTDRzVG45aC1CbklvMXFUVmdtNm9OeXBBQlJLbUt0bkxQcDVxMFJyRl90bXQtMG9Ub0RydXVtWnljN2x4WDlCczEtcHBzVVFoaTl0YTd5MUR4MTZydnBucXA4SUo2SkRZeTItVWNYWS1IQ3B6ZWc1NV9aUV95a0RBcGtkZVdYcVdfd0MtTEJSa2xpNnJmVDA5OFlxcDBNRG55MW5BeTgwUmVpVjQ1RVYzWVBBcHRSVk53SS1lc0xlODBkNzZMR1ZaXzRJYlFWbEFlNS12Rmp0ak96RDJOTkcwMWI5MmtUUXZHMEFWRldsY0YtUmpldGxuWnlGd1JHUdIB1wJBVV95cUxQTzI0QTJxUmsyU1hJR3J1UWs3RVVvRXpNY1AyWlh1NE5lNW5YdjBIU2dUY2ZnMi0tSjNPcVRNdkR2Mk5vSlBkdHF6ak5iMkdRVjc4SVVVNFJtUTNrU2NGc3NoLW9abC1GcW4yQXZJLTdPaTlJb05uTXlpMTBaUUUzcFdGUk9wRXdiSzNPbW9QMldCU3E5UElXT29DNkVhdFQzN3QyNGV0T0ZkZTJ6T2Q0Mnk3Nlo1YVBvSlpaU0h2cUJzZHliMThvNU1FdVlsZXBrbXNpRktVZTkyYkkwZVNzVkZEemlQMHpDSXBHd0ZMenZLU01QdXlhbUFEVERDWnhrSFBTb08taDR3TXVCNTBMeWFqVDd1VGo3WjV6S25VRmFxSEJya01GRG9SMVNsdUJhaVRBZ1o3OEdCLVhSQ3Z1WmxsamJfTlJmOUhfSlJlTFFrdjVheDQw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T19:49:51.000Z",
-     "seen": "2026-11-17T22:41:05.003Z"
-    },
-    {
      "title": "نظارة آبل المرتقبة ونقطة تفردها التي لا يملكها المنافسون",
      "url": "https://www.aljazeera.net/tech/2026/11/18/%d9%86%d8%b8%d8%a7%d8%b1%d8%a9-%d8%a2%d8%a8%d9%84-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%82%d8%a8%d8%a9-%d9%88%d9%86%d9%82%d8%b7%d8%a9-%d8%aa%d9%81%d8%b1%d8%af%d9%87%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-17T19:49:44.000Z",
      "seen": "2026-11-17T23:21:04.652Z"
+    },
+    {
+     "title": "لا ناجين.. تحطم طائرة عسكرية روسية ومقتل 19",
+     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaEk1WXJTSTFhdmNOT1Y4d2dHWFF0WmlURVppakYtWWh0Y19LbHpRWTZESjRNV0FlcU1tX29GQ01lendXRDFHZE9OclFqNS1vYl80YVNPNHBod21KTDRzVG45aC1CbklvMXFUVmdtNm9OeXBBQlJLbUt0bkxQcDVxMFJyRl90bXQtMG9Ub0RydXVtWnljN2x4WDlCczEtcHBzVVFoaTl0YTd5MUR4MTZydnBucXA4SUo2SkRZeTItVWNYWS1IQ3B6ZWc1NV9aUV95a0RBcGtkZVdYcVdfd0MtTEJSa2xpNnJmVDA5OFlxcDBNRG55MW5BeTgwUmVpVjQ1RVYzWVBBcHRSVk53SS1lc0xlODBkNzZMR1ZaXzRJYlFWbEFlNS12Rmp0ak96RDJOTkcwMWI5MmtUUXZHMEFWRldsY0YtUmpldGxuWnlGd1JHUdIB1wJBVV95cUxQTzI0QTJxUmsyU1hJR3J1UWs3RVVvRXpNY1AyWlh1NE5lNW5YdjBIU2dUY2ZnMi0tSjNPcVRNdkR2Mk5vSlBkdHF6ak5iMkdRVjc4SVVVNFJtUTNrU2NGc3NoLW9abC1GcW4yQXZJLTdPaTlJb05uTXlpMTBaUUUzcFdGUk9wRXdiSzNPbW9QMldCU3E5UElXT29DNkVhdFQzN3QyNGV0T0ZkZTJ6T2Q0Mnk3Nlo1YVBvSlpaU0h2cUJzZHliMThvNU1FdVlsZXBrbXNpRktVZTkyYkkwZVNzVkZEemlQMHpDSXBHd0ZMenZLU01QdXlhbUFEVERDWnhrSFBTb08taDR3TXVCNTBMeWFqVDd1VGo3WjV6S25VRmFxSEJya01GRG9SMVNsdUJhaVRBZ1o3OEdCLVhSQ3Z1WmxsamJfTlJmOUhfSlJlTFFrdjVheDQw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T19:40:33.000Z",
+     "seen": "2026-11-17T22:41:05.003Z"
     }
    ]
   },
@@ -557,6 +557,11 @@
    "section": "tech",
    "feed": "عالم التقنية",
    "error": "HTTP 403"
+  },
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "no items"
   }
  ],
  "marketErrors": []
