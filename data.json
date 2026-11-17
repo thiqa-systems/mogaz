@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:08:39.209Z",
+ "updated": "2026-11-17T06:18:38.559Z",
  "minute": [
   "تتناول الأخبار المصرية تحديد مواعيد امتحانات الفصل الدراسي الأول وإجازة نصف العام، وتوضيح خطوات التصالح في مخالفات البناء.",
   "وعلى الصعيد الاقتصادي في مصر، رُصدت أسعار صرف الدولار بالبنوك مع صدور تحذيرات من تأثير الأموال الساخنة على التضخم، وتوضيحات حول أسعار الهواتف.",
@@ -9,43 +9,45 @@
   "at": "2026-11-17T05:58:38.322Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T06:18:38.559Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.6,
-   "change": 0.24,
-   "asOf": "2026-11-17T06:01:48.000Z",
+   "value": 53.63,
+   "change": 0.29,
+   "asOf": "2026-11-17T06:12:26.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5855,
-   "change": 1.02,
-   "asOf": "2026-11-17T05:58:28.000Z",
+   "value": 5850,
+   "change": 0.93,
+   "asOf": "2026-11-17T06:08:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6685,
-   "change": 1.02,
-   "asOf": "2026-11-17T05:58:28.000Z",
+   "value": 6679,
+   "change": 0.93,
+   "asOf": "2026-11-17T06:08:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3883,
-   "change": 0.78,
-   "asOf": "2026-11-17T05:58:28.000Z",
+   "value": 3878,
+   "change": 0.64,
+   "asOf": "2026-11-17T06:08:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1012,
-   "change": -0.12,
-   "asOf": "2026-11-17T06:07:47.000Z",
+   "value": 1.1011,
+   "change": -0.13,
+   "asOf": "2026-11-17T06:17:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -72,7 +74,7 @@
    "unit": "$/برميل",
    "value": 91.78,
    "change": -0.71,
-   "asOf": "2026-11-17T05:57:29.000Z",
+   "asOf": "2026-11-17T06:07:35.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64701,
-   "change": -0.92,
-   "asOf": "2026-11-17T06:08:36.000Z",
+   "value": 64624,
+   "change": -1.04,
+   "asOf": "2026-11-17T06:18:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "قاليباف يتوعد: استهداف البنية التحتية المدنية الأمريكية والإسرائيلية",
+     "url": "https://www.elbalad.news/7183707",
+     "source": "صدى البلد",
+     "time": "2026-11-17T06:16:58.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
+    },
+    {
+     "title": "هقطع إيدي وأبروزها.. إعلامي من مالاوي يقبّل يده من شدة الفرحة بعد مصافحة صلاح",
+     "url": "https://www.elbalad.news/7183697",
+     "source": "صدى البلد",
+     "time": "2026-11-17T06:15:00.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
+    },
+    {
      "title": "فحص المقبلين على الزواج.. التحاليل المطلوبة والأوراق وخطوات استخراج الشهادة الصحية",
      "url": "https://www.elbalad.news/7183705",
      "source": "صدى البلد",
@@ -154,20 +170,6 @@
      "title": "عضة كلب من أسبوع؟.. الخدمات البيطرية: لا تسقط فرصة تلقي لقاح السعار",
      "url": "https://www.youm7.com/story/2026/11/17/عضة-كلب-من-أسبوع-الخدمات-البيطرية-لا-تسقط-فرصة-تلقي/7615402",
      "source": "اليوم السابع",
-     "time": "2026-11-17T06:00:00.000Z",
-     "seen": "2026-11-17T06:08:39.209Z"
-    },
-    {
-     "title": "موعد مباراة مصر ومالاوي في تصفيات كأس أمم إفريقيا 2027 والقنوات الناقلة",
-     "url": "https://www.elbalad.news/7183686",
-     "source": "صدى البلد",
-     "time": "2026-11-17T06:00:00.000Z",
-     "seen": "2026-11-17T06:08:39.209Z"
-    },
-    {
-     "title": "أخبار السيارات| أرخص 5 موديلات أوتوماتيك تحمل العلامة اليابانية في مصر.. 5 خطوات لحماية بطارية السيارة في الشتاء",
-     "url": "https://www.elbalad.news/7183638",
-     "source": "صدى البلد",
      "time": "2026-11-17T06:00:00.000Z",
      "seen": "2026-11-17T06:08:39.209Z"
     },
@@ -257,6 +259,13 @@
      "impact": "يُساعد تتبع سعر صرف الدولار اليومي الأفراد والمستثمرين في مصر على تقييم التكاليف والمعاملات المالية."
     },
     {
+     "title": "سعر الذهب عيار 24 في مصر الثلاثاء 17 نوفمبر.. استقرار الجرام عند 6754 جنيها",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNbk0zOHVLc3VMTDdTTzg0R2JzRXh3XzVZVFR1LWw1Q3hkN3EyY1hQODR4enNjbUs2bFRCUnNIQTQyRk5LLWIxQUNQeVoxNkpGTUI0dmZGb3BibmpIeEMzUTBpTEl6aTR4QjRMSG5GUTZYdDh4NzJCaEVLM2s2QWFuOEozaWxaN0owRXhDOWlPMVVFXzJ5RzJfbGFGYnllMVRMRldack51YkZRR2tya0pIS1gzX0JtLVF3NXRzdFI0T0lrZERjQW5zQnc3b2QtTjlzcmxrcFB1S001QkFrWTlad3BhdURoc20wbkp1TFFWajZ5bXQtamk2Y2pRZ0swVXU0ZWt2OFUzUXpZMHFJVTJhZFI2U00tY05aQ1kxSkFUWWZQVTZCeTlBclZaM19Na1RXZW5GMnVqWGNHRnhwWXY0LWVIZWhwR2xMT2xaTkhoal8tNnptaW9PRVZiRGZZaXA4STkxOU5valUtUFV2M1RURkJMeXpJN1I2bmRpOGlqLXJpUDZYT3hDTTRiZWdVZHp0Y2h0VmF1MnFyalla0gGXA0FVX3lxTE8zT19yZG9ZeTRRQVZSdTdBZDRIRkZ2ZkxTajI4aE5NcGpTRldaV3dWQTl4UlVPSTc2U0paYmQwQkIxQUVyNk12Unhic3N4ci1wS1F1RVNrcDNLTUVyMkVJdlIta2VocHVYQVQ1alB4bHZ6ekxCbDhNX01BWTlmeEZ0WHFNU3l0QnV1MXRPb2s1MkRoOGQwWDRPU0xkWktCV19PQWVZNVkwdDNHckVQODBCdWltenVnM05LdGZoVTJCT0k5NC1kTzk0RzBrSlBqNUMtOFI4X0FwQ3FubEZ4WjdicGNCYWdweUpZcVFYRENaZndpQUpBc2hKYW9SbnEtSUh4a1BfQmY5QkZKVjFwQVVnSDNpRzF2b2ZIWVVGdnRPUl9iOE5YV01iQzFEWWRQeXlHbDBFQUlfeWZ2cUJ1Zm10WkctRE85bXJIYVZXd1g3b0FvWDh2SFpySG5ROTh0dDU4YmJrcnNhRGZlbHRHRC1DUFlBakFYQm9vRjljZ0VlMXdRempHb09jTWw0RHBLM2Zfd1JxVERr?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T05:00:00.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
+    },
+    {
      "title": "53.59 جنيه أقل سعر للدولار فى بنك كريدى اجريكول اليوم الثلاثاء",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOWjRFU3dIcGxJZWpORHliWEV0b3lpNFdYQXUyUGY2ZEtFMWFjcnZpTmtoMmxUYVZJN1NoVTFwcVlrRkRfMmhiaDE5S044N0FTaGhMeV8xMEJqNmJyakNIbENKQ0R1cTdjMHlQMmwxemwteWVubmZQYnFHRWtraHRnTzJDejdqRjhMdVdMejJhaEhzR0xReFI0UWVjMXFzVWtfYUhrVGt3UUo0TGN3UDNMREI5QzYyQ0JwRDI3RTFMR1pjSDZGSnVsNEQxN2dVQTdya0s2YnM4em12dEpEQXlNMUlYQUJWcG5kYUd6dGpid0UtX2Z5ZEs0ZG5TZTAwQW9Ra1NELTdkemVDdHgxRWFqVEVYOXJYY1Jpb253cnN4QV94bHZwWkw4WFVFOWpnRkh0RktOaHF4SWhuUndYMTU1TmFZODlyTmdNNlJ2cFU4LWFjT0JwS1hJSWM0a0RtczdYUktDcFRZOUdGM055Sk15TmdJYnNWQnPSAfcCQVVfeXFMTlo0RVN3SHBsSWVqTkR5YlhFdG95aTRXWEF1MlBmNmRLRTFhY3J2aU5raDJsVGFWSTdTaFUxcHFZa0ZEXzJoYmgxOUtOODdBU2hoTHlfMTBCajZicmpDSGxDSkNEdXE3YzB5UDJsMXpsLXllbm5mUGJxR0Vra2h0Z08yQ3o3akY4THVXTHoyYWhIc0dMUXhSNFFlYzFxc1VrX2FIa1Rrd1FKNExjd1AzTERCOUM2MkNCcEQyN0UxTEdaY0g2Rkp1bDREMTdnVUE3cmtLNmJzOHptdnRKREF5TTFJWEFCVnBuZGFHenRqYndFLV9meWRLNGRuU2UwMEFvUWtTRC03ZHplQ3R4MUVhalRFWDlyWGNSaW9ud3JzeEFfeGx2cFpMOFhVRTlqZ0ZIdEZLTmhxeEloblJ3WDE1NU5hWTg5ck5nTTZSdnBVOC1hY09CcEtYSUljNGtEbXM3WFJLQ3BUWTlHRjNOeUpNeU5nSWJzVkJz?oc=5",
      "source": "اليوم السابع",
@@ -293,14 +302,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T01:24:26.000Z",
      "seen": "2026-11-17T01:28:20.142Z"
-    },
-    {
-     "title": "سعر الدولار لحظة بلحظة.. 53.63 جنيه شراء الأخضر فى البنك الأهلى المصرى",
-     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNby1zS1VMOUJyaVZmVk9PQlU4NnZudkg4ZHd3STVGc2t6eEJsS19uclV3N1Jid3pWMnowdW9VeGdxc3hQQ0YtdmNXd3V4YWh5WnlEcmU1ZXpnUlIwX2dIM0VjNnpKWlNvaXFwUkwxQ1hRazdRUGJnUURiYTFmWW9GSXJwQ0FUbThHcnBESTlLRFZqTVFvZGNDZXJKREJ2bEZUaG45ZTVQaW5vdnIyNVZMbG5mZzlJVWhXM3hDWFJiRFRjU21CVUViNDJvYU5vU2IzQzFUNndoQ3k4U1BONk5teDdPdlBvTzh4aVE4dEZpZERSWWRPME5vMjdHQUM1d01ndmh3aENLSnd2MWZOc1ZPdlp4VVc2ZVNaYV9SQmc4SkNNb3ZzV0NKSHNvdnJtOEVFWmxINHRvWnNnZ29VU3ZCNFpUZXRmX2ZFdWgtWW0zUFpJaHdsOVB3SU5CdHhGV1lSSndrNU5yR3ZPUzd3YW8yYXJ1anNaSUdKdEpIR1RGNNIB_wJBVV95cUxNby1zS1VMOUJyaVZmVk9PQlU4NnZudkg4ZHd3STVGc2t6eEJsS19uclV3N1Jid3pWMnowdW9VeGdxc3hQQ0YtdmNXd3V4YWh5WnlEcmU1ZXpnUlIwX2dIM0VjNnpKWlNvaXFwUkwxQ1hRazdRUGJnUURiYTFmWW9GSXJwQ0FUbThHcnBESTlLRFZqTVFvZGNDZXJKREJ2bEZUaG45ZTVQaW5vdnIyNVZMbG5mZzlJVWhXM3hDWFJiRFRjU21CVUViNDJvYU5vU2IzQzFUNndoQ3k4U1BONk5teDdPdlBvTzh4aVE4dEZpZERSWWRPME5vMjdHQUM1d01ndmh3aENLSnd2MWZOc1ZPdlp4VVc2ZVNaYV9SQmc4SkNNb3ZzV0NKSHNvdnJtOEVFWmxINHRvWnNnZ29VU3ZCNFpUZXRmX2ZFdWgtWW0zUFpJaHdsOVB3SU5CdHhGV1lSSndrNU5yR3ZPUzd3YW8yYXJ1anNaSUdKdEpIR1RGNA?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T00:02:54.000Z",
-     "seen": "2026-11-17T01:28:20.142Z",
-     "impact": "معرفة سعر صرف الدولار الفعلي في البنك الأهلي تتيح للأفراد والمستوردين متابعة أسعار التعاملات الرسمية بدقة."
     },
     {
      "title": "«الحكومة» تطلق استراتيجية جديدة للترويج للاستثمار الأجنبي المباشر خلال أيام",
@@ -353,6 +354,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مجزرة أبو قلب.. مسيرات الجيش السوداني تحصد أرواح الأطفال",
+     "url": "https://www.skynewsarabia.com/middle-east/1905263-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A3%D8%A8%D9%88-%D9%82%D9%84%D8%A8-%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%AA%D8%AD%D8%B5%D8%AF-%D8%A3%D8%B1%D9%88%D8%A7%D8%AD-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T06:15:52.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
+    },
+    {
+     "title": "ما مستقبل السكك الحديدية الإقليمية في دول الخليج؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/mme-gcc-railway-etihad-rail",
+     "source": "CNN بالعربية",
+     "time": "2026-11-17T06:12:38.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
+    },
+    {
      "title": "وزير خارجية عُمان يكشف ما بحثه مع نظيره الإيراني في مسقط",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/oman-fm-reveals-discussions-iranian-counterpart",
      "source": "CNN بالعربية",
@@ -381,11 +396,18 @@
      "seen": "2026-11-17T03:58:39.025Z"
     },
     {
+     "title": "خمس دول في الاتحاد الأوروبي تعلن عن إنشاء مركز لترحيل المهاجرين في رواندا",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OWnY1RE9hT3p2RXNwVnJJVjNXemVVcmhkdU8wdWY2WXc0d3NtM3UtVlo0d0hEWUNJMmJJRnRITjNwalI5SzNQSUtkUGItWDlmVjB4QV9lY21yRzNJdnfSAWNBVV95cUxOTmhXaWNrd0RnaHM3SlNXV25Udnl4NDhFbVNJWWZrWW1ZbGxhOFhrSXVhWHdSd01qVGF0WFhRa1k5OWZPcUJsOEFUQllTaHZLcXdMU1lCTm1IWEFHbl96cGg3ejA?oc=5",
+     "source": "BBC",
+     "time": "2026-11-17T03:55:38.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
+    },
+    {
      "title": "تحقيق إسرائيلي بعد \"لعبة نتنياهو واتهامات آيزنكوت\"",
-     "url": "https://www.skynewsarabia.com/middle-east/1905145-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA",
+     "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNSmVTRlhkQl96ekFqczMzd1NoWFhmc2xlb3dNc3lPYmFKalBsUzhKY2FvZTdvSVp4NWJuaWp1Mm84WmI1ajREN1dsQnJrNm5YcFE4ZUxTLUhpaG9IUTFBZkFBUXBQOW9Rc281bUdvM28zLWhZQ0tuanZOMGhOV3lYc0ZhcmxaOFpoRDM5S3Rfcm93OVREWndRNWFqejdyV2JZZkczVEVvYWlrVVVzYmVyNU9PS1I4dm9xeWJTZnB3czdxVkptMWJES1ducFF3U1lmMld4QjZhaTZBcmhXanVFbjJmYUNrbVJCZk9vblVYbmlUQ2l1NzhYT2RWVGE4NjY2ZTFHQ0FFNl90NEhJSlpzN1I2RGJVTFVMT2tIRmtjTlRicmlxa3preERRYVBiejlwV0dqQWdacjkwSzROeFJXZWtCaFBFYk5qeWZ2ckM5QkRka3dDZk5TajMzejNYUXNwOVpKMUp0dUpqRGdTdkR5eXRKQVFiaGtYWlVRQm45Q3gyR2pUOTBZaFlQRjc0ZmpiNVRIMTVn0gGbA0FVX3lxTFBOZ08wbl8yYUdEa1hwS1NqQlpkX0ZtbHlkMkoyUEhNd0JHZVVNNVZJZEtFYjlnd3NleHVwaW00aGlPQzJPazlOZmJMMW8yaDcwNENDY0pFVGhUbWVVMVcxaThEeHN6dzNENmt6SkJjUU1WMmE3VkdUNUtYVlNlR2dXTFJhMUxRbEhuQVo3enpfSFU1RVo1N01TUmMtVjNsWURWMUxkMHBlQVBfay1MM1BkcmtlWE5lU3E5cTlZMUdndW5WdkJNdkxBR05HSk9YaUt4WS1LUlFKdTF4dllfVFFFVU8wS0UtdHc5WWRkbzBkWVRocHdEYUhvdW1OeFlPMzcyWGMzdkdxUW16Z1lQXzVwODZMZTVSYjRDVHVkelYxQS0ydnQ2WlUyeGp2MU9PN00xZUJJY1dsd3hPTkt4MWJ6WHM2eDNhWWc2N0JwdW1nN0dQbk1oUmx6UnBFRVRJd2hfTXNaVEFSTUI5VlpHZ3pxSExTQTVVaGNWYkY3Sl9GbEdBNHBPakp5WlRkWmZVeDFWTWhhQ3Q4N3Roaw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T02:36:15.000Z",
-     "seen": "2026-11-17T02:48:39.129Z"
+     "time": "2026-11-17T02:38:02.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
     },
     {
      "title": "عاجل | وزير الخارجية العماني: أكدت مع وزير الخارجية الإيراني أهمية الحوار والتشاور لخفض التصعيد والتوصل لحلول سلمية",
@@ -428,27 +450,6 @@
      "source": "Masrawy",
      "time": "2026-11-17T01:19:28.000Z",
      "seen": "2026-11-17T04:28:38.283Z"
-    },
-    {
-     "title": "فانس: الصراع مع إيران لن يتحول إلى حرب أبدية",
-     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQM21HdXIwU01EUm85RDhORlptX0o5SV9tNWVIR0NZTjFuVG43V2toaWRPRWZZRXdiWTd2UVF5VFVsdDR2WFBobWJaOVlxYU5OWVp2X1dIbmxFcVlCbzBBT0tRb3ktWi1RZ2hBQ3pPTGVMNHowSDJWeHIyUDU4bGt4OHh5TExuQ3pKN292Tk92WXIyX3FEMjB0TEJma2w3aFNkeXZNeVZybXVSZWtIWFpYdk1CRGo2a1QtRVhUOEpvTGVHbnpISFJZUmYwdjN3aERKVWV4bS1OLXBGSWJKbTVxQ1ZfSFVjcGlIa1l4NXpaejI4R0VjaUo3alpZX24zYnRfTVdaUVZna05VaWU5TXU0RXBUcXc3VVdoUGdYZnItaVFXdkVnT0RwRW9KWE5Ld3o0c2pKRFRyZkN2a0VGSXYxMXFsUGIwUdIBywJBVV95cUxOeFNOcVFYUnctRjdlN21Wc0YxMUZ5RzNZYjk3Q2JPdFhxaTNmdFNLWW9vZk90SmVHdjMtRjZPblpZckRyWF93QS1hWGFTdkJQLWEzZTY4cmg0NnlROWJTNFg3U1VzamFOVklFaWFUcllrTVcybEcwSWhaNE1yUTdiaUdNSFhGZWd5c3E4RW1DaHBCY00ybTN5UEU3dF9QRElOc0JWV2pmWjA4UVlROXRtMGJPTkowUVFfaVk4bmpZWXQ0czVfUjJPWWpQUXlEaXFHbUItNk96ZlkwX1puTkhMVi1aQkZrbWlkQnZvV2NEdkJYZUotazF2UUVHR2h6eDlsVTY4WWZUQ3dwZ05ydU5hNHhPWE9IRlNBMzc5T1Rzazk5N0dHbjlRcU5vbWtUWHFlbVExNTJJWGItdDRnOTVzWm1DMnpzc0hhUWow?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T01:11:48.000Z",
-     "seen": "2026-11-17T04:28:38.283Z"
-    },
-    {
-     "title": "عسكري أمريكي يتهم \"البنتاغون\" بـ\"تجاهل تحذيرات\" بشأن هجوم إيراني أسفر عن مقتل 6 عسكريين",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFduOFh1aWwtY05UNm5HUTJOSU5nTElBdktUdXd1SW1XbU41RnNSMEhqVmxhWjlRVGxyNXd6RFhPZGhiOTJZekx4Z0F6WG05VHZ3aWJJN0pzdUd0SE1RMUdZSUh2aVZ2aXNjbGJYeUUtakp3UlB2bEtQV1ZxeUkwbWJqWmdSTlZHVHlqb1p6RkpnQTNpMk5idURUTUFfTldRTC1wVE9QTEJ6Vzd1V2ZEeEZOcGFUZ052MWhnMm4yUQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-17T00:53:27.000Z",
-     "seen": "2026-11-17T05:38:39.205Z"
-    },
-    {
-     "title": "جدعون ليفي: لو كان مستشفى ناصر إسرائيليا فهل كان قصفه سيمر بصمت؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/17/%d9%84%d9%8a%d9%81%d9%8a-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d9%82%d8%b5%d9%81%d8%aa-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a2%d8%ae%d8%b1-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T00:48:56.000Z",
-     "seen": "2026-11-17T04:18:38.365Z"
     }
    ]
   },
@@ -469,6 +470,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T02:37:17.000Z",
      "seen": "2026-11-17T05:28:38.502Z"
+    },
+    {
+     "title": "حادث سيبرانى يضرب سلسلة متاجر Coles الأسترالية وتحقيقات لكشف الملابسات",
+     "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNVE5fR0xaVnhlVnRDWmlPdm9nR3JnT0xkLWdWZ1V6TUlWZmo3eHBmNXU2WVQxeTYxVTd6M1c3QkkzNkVtd3J4ZUs4enZUR3VQWDFFaWNZM0M1VVRuRUVSUWNPMmo3VTJhSWEzYUV5OWNncTZXaklSTHZjcWIxQVRnOVJlMjdFR1JYVzRhNlJXS3VvbktTX2E1RlhuODJVNGVueXRaRFdqZnVjVnVlLTR2cEM0UW40R201RmdYakRiSmxXOGozaDkxTDVxNVFhbVozLWdwMDhWeTF6TnI0S2xfUmF3ZnlqOE5zSFdjLWFkTnpMUVBUbmRDUFZRZ3oyX19LZF9vY044RWQyMnAzR2QyTG4tUVBGMUg3MVNncHVxaG44LU9QcTduVzV6RnBma2lRYUFzcFNSbXJmcUdEZ3A0OVZ3Y3I3Y3lQajRUakRwWmtaRTU4NzlqSGFPcEpJSmpYRGVkOGxCWGpvTGhDblJoWm9jQnVMcHZoYl9MVnBFLVZJTE1DelY5ek9pOGxZVXdnaVVwNVBTSElBYlZJTEdWYVlzdzg2bGNRazQxRVdSYVdrUE5XcFZXWS1BeDFPMmdLUnE0c1RLZEtIU1otN043SmZxZFcyRzNKanRMTUZlazY2MWREd2ZlbC04UHRPTlJ4R2xiWkgwOW1aUFpCazBMaU1jRVg1N1BFQnQtZDhuN1pYYW5qNlBsX2ZzajJWT2ctci00VUk4SlFHYWcwZ2fSAagEQVVfeXFMTUgyRGU3RTJiX3BXM2xGaEFiWnhqeWVhT0ZnUFNCaTVtVjZleGJpU0QtM2p0RzBEaWRYZ01CcXk2UW9weHJHVWl5T3FvcTh6SW9iRE5uZXdBWFRnTmNpaG5DV05nblZIQ2hOXzVmSUFoZ2VTR2taQlg2UmJZdXdHTC1uQS1fb2JGUnNjQjZxQlBxZENjbHdaS25CUXRScUZ4M1BNYmt4ZW5WTTZkb2ZuenQzdU5YaUpyUkQzVTc2dTl5SFhaVGZQeGVNY3l6SE9lV0NvY0J5WXp5eWxIeU5WajZRcm1TNEJtaGJ6dnF4RUczZ0dmbDkwUlNTUENab3UwTktXZVVfWEpqMnB1ZnVFdElsOHRVZE01OXRzTkpSZW5uVS1JUGZ2UjZDTEFjZ0g3WmdNa0JOdHZLY2x5SWI1eEZXWE5GQ0MwckdNR0ZaQzRjWkhNV3NhTnJxVDR4THBoR0ZYanZRQ0JFaFR3aENwcVhmRHRHYWtRMXloTzlOTmhHblhFam5KbGFvZkw4R0dnbm9ocDZYcWcyZ1VqdjVrbzNJLVR4c2RiMnUxUHcxUzRpV3pVNFpTa0JnWllLWFVpM0lhMHNlSTRLODg3LVpRZi1IWFYybVpQMl9RLXhMYkl1QklPNm13cXJNV2NteUhKT1JkOFdoTlF1dmFKa2gydy1xTnJPeDQxR0pVZlhVMHVwRFJQZ3Z2aXc5UXRGakx4eW1EbmFSWHYz?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T01:00:00.000Z",
+     "seen": "2026-11-17T06:18:38.559Z"
     },
     {
      "title": "الحرس الثوري الإيراني يعلن السيطرة على تاسع طائرة مُسيرة أمريكية وإنزالها على الأرض: «أي عمل عدائي سيواجه برد قوي",
@@ -551,32 +559,15 @@
      "source": "جريدة الدستور",
      "time": "2026-11-16T16:22:00.000Z",
      "seen": "2026-11-17T05:28:38.502Z"
-    },
-    {
-     "title": "هل يقرأ شخص رسائلك على واتساب من هاتف آخر؟ افحص هذه الإعدادات",
-     "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxQUlFnZ1d1YXF1Ymg3ejBRSWl0UHFsbF9HLV9IdTdzX2RsMTVSTjZYd2hzR2dGT1RqelUyTGl5ZDV1STZjbHNjNllTRVh3ZnJnMFVmX0FDZjRiQ1NGYXFvLUxzM20wLWZKcWpuNEl1X0xYOXZWSDc0bmlfU1hFbHQ0T3ZUMjhGWkU1Qnc1clh0b3hXbHg5elRwdDRDZ1ZXVUd5bUt2dlJJalVxU0JLd1JrSVcxM1pNU1VlU3BIQzhDUVNEbUYtSlN3UGlnbU5ELXhjT2tiSkN4X3ZSQXpNOXBCQkZEYUxHelZrVHRDX3lGSUh5Ti1WUGFTWlA0bEJiZVhiT2NhMmFGY0Y0QllBckxVS2FhdWdBbXJMNGRZaEFVS3pQdW1nSDdQV1N3VTJFSjAzUERoektRTFU0REk0Wi0tODE5S0RRbmx2UU04LWV2b2lzX3VqRS11dnprUF9qeUFxa2xPM01NU3YyeldBN3FUZkRIamdQNzNXbDBRNi1WQjk1NTR2Tm9PblpPUWVsbjdLbEhRa1ZsZkpuNEIxWHZwWkVtd2hLOWlaM1JkNHkyUWkwcldjanVrQ1VaOVM0RDdTQ2p6eHpDTmc0UFlDV24zSWtSeElhaXZsS3U5U2U3b3lNR0p4Y1RBc2tEQXVrNEpEYWs5a2g0N185eDZldDR0eTZ6QTDSAYoEQVVfeXFMTjhoSzNfYVFwcGdCRTVTQXhIUC1hd0h5Q3JJWHJqTU9TdXZ6MFU0cHZ1azBfQWpvN3ZfYk03bEZpcTVEZFZMcEVHdzhTejZIUWQ5LUVIZXhxd3Y1WHVyRU13eEdqZnlnUWpvOG1mZ19Cakg5Z2VJTTM4VnJydDhWYnFCQVFhc29pNGNoYjdManByX1RvQWVtYTJCenRHdWMza1lBTkVqUnVuZHNtRklrTTc2VGYzMzBGYzhycjE4S3V0Vm5Pa2xPQmRpSzQ2UlQ1cU00UUI4U1F2X1l1VUtNaXhSdFJqbHB5Q1Ryc0FMbTdhRWQ0WjhCUDVFVFhrRW9sMDBGWUJYSk9XVzZiNVdYUEFueDVKYzlnaVVLaUxPUjBieXdySlNKc0xpQTA4UW1SV3JPUnZFSktiSjZoWE9PWDAyV3I0LWIyMEJMeFM1QnV4bmlaX1FJYmp5VnNGbnZ4X1RNcUVTYlBCTU90aEYzTWVPMHNHa2oxWGtwNnAyRHZrUXprTEdCek1ZbHdpRnlkel9wenUxMllxczRFQ2R3S05yQ3NWbkZiUWk0b3lBOG5rUzBuNUdvSVU2UE02NmRVLWJxMW9fbnFiRnUxMFpiaWlTd2xVTnl0Q0hiMUE5UklPNm5ISjJpak15OVhaM3BKSG9VYTR2UndzSGl5Rk5SVy1xcDJaME02b1F3?oc=5",
-     "source": "العربية",
-     "time": "2026-11-16T15:55:00.000Z",
-     "seen": "2026-11-16T23:38:19.896Z"
     }
    ]
   }
  ],
  "failed": [
   {
-   "section": "world",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
-  {
    "section": "tech",
    "feed": "عالم التقنية",
    "error": "HTTP 403"
-  },
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
   }
  ],
  "marketErrors": []
