@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:50:47.979Z",
+ "updated": "2026-11-17T14:00:47.319Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T13:50:47.979Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T14:00:47.319Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.75,
    "change": 0.52,
-   "asOf": "2026-11-17T13:47:58.000Z",
+   "asOf": "2026-11-17T13:57:06.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5813,
-   "change": 0.3,
-   "asOf": "2026-11-17T13:41:48.000Z",
+   "value": 5821,
+   "change": 0.43,
+   "asOf": "2026-11-17T13:50:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6637,
-   "change": 0.3,
-   "asOf": "2026-11-17T13:41:48.000Z",
+   "value": 6646,
+   "change": 0.43,
+   "asOf": "2026-11-17T13:50:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3844,
-   "change": -0.23,
-   "asOf": "2026-11-17T13:41:48.000Z",
+   "value": 3850,
+   "change": -0.09,
+   "asOf": "2026-11-17T13:50:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0983,
-   "change": -0.38,
-   "asOf": "2026-11-17T13:51:47.000Z",
+   "value": 1.0984,
+   "change": -0.37,
+   "asOf": "2026-11-17T14:00:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.61,
-   "change": 1.27,
-   "asOf": "2026-11-17T13:41:36.000Z",
+   "value": 93.73,
+   "change": 1.4,
+   "asOf": "2026-11-17T13:50:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64897,
-   "change": 0.06,
-   "asOf": "2026-11-17T13:51:48.000Z",
+   "value": 65013,
+   "change": 0.24,
+   "asOf": "2026-11-17T14:00:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عبدالناصر زيدان: محترفوا الزمالك حصلوا مستحقاتهم في المواعيد المحددة",
-     "url": "https://www.elbalad.news/7184186",
+     "title": "تفاصيل أول ديو غنائي.. شيرين عبد الوهاب تكشف مفاجأة",
+     "url": "https://www.elbalad.news/7184219",
      "source": "صدى البلد",
-     "time": "2026-11-17T13:50:31.000Z",
-     "seen": "2026-11-17T13:50:47.979Z"
+     "time": "2026-11-17T14:00:16.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
     },
     {
-     "title": "عبير البلتاجي بطور سيناء تحوّل محنة زوجها إلى حكاية كفاح وتصنع الأمل من خبز الرقاق",
-     "url": "https://www.elbalad.news/7184164",
+     "title": "علي جمعة: قم الليل فإن الله ينور به القلوب ويغفر به الذنوب ويفتح به باب الطمأنينة",
+     "url": "https://www.elbalad.news/7184193",
      "source": "صدى البلد",
-     "time": "2026-11-17T13:50:14.000Z",
-     "seen": "2026-11-17T13:50:47.979Z"
+     "time": "2026-11-17T14:00:00.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
     },
     {
-     "title": "سماع دوي انفجار في جزيرة قشم الإيرانية",
-     "url": "https://www.elbalad.news/7184202",
+     "title": "انهيار الذهب …عيار 21 يسجّل مفاجأة",
+     "url": "https://www.elbalad.news/7184185",
      "source": "صدى البلد",
-     "time": "2026-11-17T13:48:34.000Z",
-     "seen": "2026-11-17T13:50:47.979Z"
+     "time": "2026-11-17T14:00:00.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
     },
     {
-     "title": "محافظة القاهرة: تخصيص أراضٍ لمشروعات النفع العام والخدمات التعليمية والصحية",
-     "url": "https://www.youm7.com/story/2026/11/17/محافظة-القاهرة-تخصيص-أراضٍ-لمشروعات-النفع-العام-والخدمات-التعليمية-والصحية/7622430",
+     "title": "نائب رئيس الوزراء: الإصلاح الإدارى فى مقدمة أولويات أجندة عمل الحكومة",
+     "url": "https://www.youm7.com/story/2026/11/17/نائب-رئيس-الوزراء-الإصلاح-الإدارى-فى-مقدمة-أولويات-أجندة-عمل/7622443",
      "source": "اليوم السابع",
-     "time": "2026-11-17T13:47:00.000Z",
-     "seen": "2026-11-17T13:50:47.979Z"
+     "time": "2026-11-17T13:59:00.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
     },
     {
-     "title": "رئيس المركزى للمحاسبات يفتتح أعمال الاجتماع الثمانين للمجلس التنفيذى للإنتوساى",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-المركزى-للمحاسبات-يفتتح-أعمال-الاجتماع-الثمانين-للمجلس-التنفيذى-للإنتوساى/7622416",
+     "title": "رئيس الوزراء يلتقى الرئيس التنفيذى لمجموعة \"يو بي إل - UPL\" المحدودة",
+     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-يلتقى-الرئيس-التنفيذى-لمجموعة-يو-بي-إل-UPL/7622445",
      "source": "اليوم السابع",
-     "time": "2026-11-17T13:39:00.000Z",
-     "seen": "2026-11-17T13:40:47.428Z"
+     "time": "2026-11-17T13:58:00.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
     },
     {
-     "title": "محافظ القاهرة: جار اختيار أماكن جديدة لإنشاء مراكز إيواء الكلاب الضالة",
-     "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-جار-اختيار-أماكن-جديدة-لإنشاء-مراكز-إيواء-الكلاب/7622360",
+     "title": "\"مدبولي\" يبحث مع الرئيس التنفيذي لـ\"SandboxAQ\" فرص الاستثمار في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMzlhbHhpb0JxV2MtRDVHYTFWSGFuQnpiVEhPX0pYRXlqQTFGUFlMeXZ0T1VGTW0wdE1DV3BsdFd0RGRVanl5SHc1NGk2V242dE5td2pn?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-17T13:52:30.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
+    },
+    {
+     "title": "موعد وقيمة الزيادات الجديدة فى مرتبات أعضاء هيئة التدريس بالجامعات",
+     "url": "https://www.youm7.com/story/2026/11/17/موعد-وقيمة-الزيادات-الجديدة-فى-مرتبات-أعضاء-هيئة-التدريس-بالجامعات/7620972",
      "source": "اليوم السابع",
-     "time": "2026-11-17T13:36:00.000Z",
-     "seen": "2026-11-17T13:40:47.428Z"
+     "time": "2026-11-17T13:52:00.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
     },
     {
      "title": "على هامش الاجتماع الاستراتيجي القُطري للمنتدى الاقتصادي العالمي.. «مدبولي» يلتقي رئيس «أكوا باور» السعودية",
@@ -228,13 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-17T10:22:02.000Z",
      "seen": "2026-11-17T12:28:53.311Z"
-    },
-    {
-     "title": "طريقة حساب استهلاك الكهرباء بالعدادات الكودية بعد سريان التخفيض",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPM0dZYndUN1JQU1l5bkE2RmF4Zks0WUJwc2o4M0VDTnc0d3ZxQ2gtNzZaMVVxRndzb3hIbjhkZ3ROMGtGS190Q2ZKLUhHMEVqRmthTzBBMDdjT1l3aWJNU29qQ2hoMDBrZzhSM3FNck5WUk9UNkdBUVU0YlVlZ0JPUU5Zc2RTZ01Fa2tFak51eXBIbDYyd3ZXNjdFdG1PcDBRS1R5amhRbHpCNkl6WWNMVjNmRTdJMjVmTlI0VGJiMThyWnotSFZKdlphZGVaeEs0VFMzRHYtUGJQdXRTUHdYcTFyZXktYWxac0ltLVBCRHoxX2pXcDhUQ29Yenp2Vi1feGVqVkFzcnY4M1pFTlZ0ZVlmNG9mUTMwMnBMOWkyVE5OaFpQNzJGUDVSejhER0h4bE1ESzJ1ODN2a2VRZEpXbV9iSUdHYzJ0S1NaWlBDY1JHY2dnbmk3SE9uaUlKRmFmeDJpZDJSQzVrc0pGSjlzSW1rM0NyamNyOHprRzNJQXJZdjA3aXBNVTQ1S0E2S3gwX194VWlOQjJQdlNMWDBOdFBfWERxelY2RjFtYW9uVjdCMVozbGxHTEg2MG40enZ4QUNoYkFjbGNhZTVqZWxlZ2Zyazd0NTAwNmswWTJFN25VdjM2VEZTclFzeFBnb0x2OEFpOFNmNGw3SGU1cW54VVFWejN4QWZ2akZ6b0luNzJOTlVDTUUwTGZJaHRHN1cyeVNpSlRDS2NDSnZlb3hHcEl3X0FYSlhJ0gG-BEFVX3lxTE03WDI5cTl5Zm4wLXFtR3FxR2hFdnV1Z3Ztd0RCUjdpMVRVaUFrZUUzcDcyNnpJSEtqcGMyQW13SDJwYkxLZk5jc1hnTDRKR2ZHdWJObGVHczdRQmhkVG05QWMyZ3E1Zm50S0pYVE5BOHlzdEFTamlqSlFzQ0U4d2pkYTJuLWxMZklXZUt4d19XV1BUZ1NUVVhZN2pEOGV3THFOV05TanNac0Zlb19UZ2VjeG9BREd3Ym56VmItMFlwLWNKdDhuenQxaE5zN1MzNV9uZS1NSEVwVkpiMFVnNEpwakVsaXM0Q3djUzZmY1JGQzVkcG1mbUhNUHdlQ2VZZXp2RnNXT0QwY1J5alI3SnFrdFVubUdaTGVxejk3c3ZTMjdFN1diTXNhSTdIT1dzcUlZSU9tMXdtb0swR1NJVkJqclZ2ZXdsUlFndVN3V1lMdGFxUXoyYkpYV3ZyR3owTk5RZHo0X2ZXV1RsRDBkcm16RENGempHSGpaUFpjZ09iUHQzQlY3MzhkeWdSam5wUEtnM3Ezak9jSXdXSno0djhIVGtkcE85UzY5akZyMjNkVkVqSDFOb09RSktoM1ZMbXJORkMtZVFFMENsZ3M5VEdka2xRblJKTmwxMEFmOE5MRVRyazBmaXRnek1zU3J4SVJSWnJiTVJsM2xzR2l2TEgtWUNHTGg3LURPMUFETXF5SXNOSHNHWmtRNjBhN21RN3BFRHlrOWpFcF9rSWpSeC04Wm5iclBTMWh3dHdySEE?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-17T09:46:29.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
     }
    ]
   },
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "خطف وزواج أطفال وفقر: لماذا يُحرم ملايين الأطفال في نيجيريا من التعليم؟",
+     "url": "https://www.bbc.com/arabic/articles/ckreg7r489zqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T13:55:03.000Z",
+     "seen": "2026-11-17T14:00:47.319Z"
+    },
     {
      "title": "البحرين تعلن التصدي لهجمات بمسيّرات إيرانية",
      "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
@@ -337,13 +344,6 @@
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10R2Y1TkVaTlFDR21lMGpqaXdnMkJBbWplVVhGUjZqZmxXSE5sQ0dIS1FiejNGOHptUGhxWEFQWGhaTlc3SXVyXzJnNUE1ejd1ZFdHMw?oc=5",
      "source": "الأهرام اوتو",
      "time": "2026-11-17T11:52:31.000Z",
-     "seen": "2026-11-17T11:58:53.985Z"
-    },
-    {
-     "title": "الوكالة بلا دور منذ 3 سنوات.. انتقادات برلمانية لتعديلات قانون «ضمان الصادرات»",
-     "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQZ0dvWlBBbW8zT0c1UlF5cEF0Rm5fcDl0S1pnbnR4QjBYSThOODQzamQxNWNTOGd6SmFIQ2VJYkY3RldUa1FidHlqWlhuUUYxenhaRFpwX2NpcDFxdmtwMUZwMkxzeVJxdnRvVFI0OG9uQkpjUHE3NEowbm9KOXJlQWNfazd4bjhDY0x3VXFxUlZkOUk3dGlmU1VWX1VRMzV0LV9KdEpaU0FnUWNYSkRUM3VWUHdNbF9FVzRrdHBMRFBTeHAzQUI1Z3VnWmtmdzlqSlUwZy1lTlNhdWxMZHlSbkxrZldkaDBxWThZdG5WY2txZ1A2aDV6MGROX3FPb0VMcHFESHU2LWt1TzlveFVaVlc4UTdaVGRLRE5WcUF4NDJhdGVfeVdSMFdEUjNuT2wxTTM2YmtPYlBXMWM0blhiMEdoWHJHMW1vaTlCNU40SW1ZUEdST0NQMDB0dkYwVTdPSTYxU18tdlJJbmdxSlNwcFBLQVZmTHB6eC1HVFpUWWtCLWg0OXptbEEzVkVudW5pWXJnZWoxeGl6aFdlR184WGhCREtmNEJDQ2FaN1l4aXV0dVdweFFPTDNSbW9JRTF4UjdoVFQ1Qk9VYmtGMUN5OW51aFJSZklGdldZOFRaNFA1SWl2b0FVQWRoYW5SN09DbHlwSENJQmLSAfMDQVVfeXFMT2QyNFkxcjJuNkhYYi0zeXdEZGFOU20xVXNYaEFWRkVHdlZiZTBnQk5Xbk5PZ2plYUdpVklXaFk5ZjVsaEFkQUJxMDRIWnlvV3BqWlMyNXVib290YzhQb0hpZTdiQ0pEdlVZTmRzbDJodVFCYXZlRUZYQW5wQ0Fwb0IweVd6aWJERUh5dHZDLTVvMnFGdXEzS0xzVldhV1BNcFNFUFBnUjl3Uk5NLTV3STFqcU52OFVtelh2ZWtuMEdFSU14N3dMMGdsZ2JhQk1reDdsUzAyWDRFbzJ1Nm56MFU5V01wTDFjZ2ZiVktVZXBpTlpXaGhqRno0TUhJTE9lLTdTLUZpZ1FQdFlMNkVjdnhpRXhvSUJxdHFGUXpFb3JtZEZNdjdmYXlqVjl4WGs4b1RRZ2tnMFFnYV9Jd0JGVzZ6S3ZmcEQ2MXFoMXdZYlVVLUppU1dBUXRQYVJuQjJfMjM3dWVmYjRWYnVwX0RRWGt3aXFEZDhUQ29fM3BHMl9GRHVLQ016b1A2NExvUTF3SElKa1NCUm9sSEpObXRnanJEMmJGOUJ4SU9OUllQWmFPV0dhSGFIam1lbDZEeWgzbmRFa2g3NVFTTmd2NkFteVQwYXlQNGljVEJpR00xNXQ2LU5MR3RLbnRQVHYtVGlXeFJ3MA?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T11:45:00.000Z",
      "seen": "2026-11-17T11:58:53.985Z"
     }
    ]
@@ -457,6 +457,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
+     "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-17T13:10:35.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
      "title": "الأسهم تتراجع مع استمرار موجة بيع التكنولوجيا قبل نتائج \"إنفيديا\"",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPN0lDcWZFbHFqVVhoWlVpZ1JXNUhWRUFoS3RxR1JxQkYyQ1hhUUtSVlpySU0zWHFkeHFJNnpFSl9nU1lUdFpCSmpQaXBGRGt3Q1RjTXJUQVRDZzFSSWFIdUZzbFF1dkFhX1ozbk9fek9YWEUwUk9kUnVJdEQ3MkVxMm9Bc01STU1qWkF2X1FYY3RaRm1YTksxaFV2Z2ZjRUlLOWdCVFNZX2lGNlctQ2tGVkJMdlBiX1lHY003S01PODgzUW9NR3A4S3pTVlRSbFZzNE5mZjE3RU11YXpFemFEVkdkUDlrcHNpc0RqSkM5OUladF80OWhIN2lVMlN6VDJVVDRMTHhDSGtPQ0NpcW5fOWNSRzA4dWFmLUV1eVBPM0ZfSUhjV0FqY3Z3?oc=5",
      "source": "الشرق بلومبرغ",
@@ -470,13 +477,6 @@
      "source": "Investing.com",
      "time": "2026-11-17T11:14:00.000Z",
      "seen": "2026-11-17T13:10:47.481Z"
-    },
-    {
-     "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
-     "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-17T10:07:41.000Z",
-     "seen": "2026-11-17T13:00:47.834Z"
     },
     {
      "title": "جنسن هوانج يفقد العلامة الزرقاء على X وماسك يعرض توثيق حسابه مجانًا",
@@ -561,11 +561,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
