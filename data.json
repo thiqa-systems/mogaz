@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:41:04.587Z",
+ "updated": "2026-11-17T21:51:04.443Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -11,7 +11,7 @@
   "key": 1,
   "impacts": 6,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T21:41:04.587Z"
+  "errorAt": "2026-11-17T21:51:04.443Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5823,
-   "change": 0.47,
-   "asOf": "2026-11-17T21:31:09.000Z",
+   "value": 5818,
+   "change": 0.37,
+   "asOf": "2026-11-17T21:41:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6648,
-   "change": 0.47,
-   "asOf": "2026-11-17T21:31:09.000Z",
+   "value": 6642,
+   "change": 0.37,
+   "asOf": "2026-11-17T21:41:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3857,
-   "change": 0.1,
-   "asOf": "2026-11-17T21:31:09.000Z",
+   "value": 3853,
+   "change": 0.01,
+   "asOf": "2026-11-17T21:41:02.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.1004,
    "change": -0.19,
-   "asOf": "2026-11-17T21:40:48.000Z",
+   "asOf": "2026-11-17T21:50:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.87,
-   "change": 0.47,
-   "asOf": "2026-11-17T21:31:05.000Z",
+   "value": 93.01,
+   "change": 0.62,
+   "asOf": "2026-11-17T21:41:01.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -83,16 +83,16 @@
    "unit": "نقطة",
    "value": 7341,
    "change": -1.03,
-   "asOf": "2026-11-17T21:20:01.000Z",
+   "asOf": "2026-11-17T21:42:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64386,
-   "change": -0.72,
-   "asOf": "2026-11-17T21:41:04.000Z",
+   "value": 64247,
+   "change": -0.94,
+   "asOf": "2026-11-17T21:51:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "خالد الغندور يكشف تفاصيل جديدة عن لائحة مكافآت منتخب مصر وعدم تعديلها",
+     "url": "https://www.elbalad.news/7184857",
+     "source": "صدى البلد",
+     "time": "2026-11-17T21:50:40.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
+     "title": "ماذا يحدث عند حليب الأبقار بحليب الشوفان؟.. أضرار على العظام والأسنان والوزن",
+     "url": "https://www.elbalad.news/7184852",
+     "source": "صدى البلد",
+     "time": "2026-11-17T21:44:22.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
+     "title": "زياد بهاء الدين: مصر تستطيع مواصلة مسارها الاقتصادي دون صندوق النقد",
+     "url": "https://www.elbalad.news/7184847",
+     "source": "صدى البلد",
+     "time": "2026-11-17T21:43:34.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
      "title": "النقل تدين سرقة مسامير القضبان بمحطة السنبلاوين وتحذر من تهديد أرواح المواطنين",
      "url": "https://www.youm7.com/story/2026/11/17/النقل-تدين-سرقة-مسامير-القضبان-بمحطة-السنبلاوين-وتحذر-من-تهديد/7622923",
      "source": "اليوم السابع",
@@ -146,25 +167,11 @@
      "seen": "2026-11-17T21:41:04.587Z"
     },
     {
-     "title": "جمال شعبان يشيد بمجدي يعقوب: حدوتة مصرية أنقذت آلاف القلوب حول العالم",
-     "url": "https://www.elbalad.news/7184846",
-     "source": "صدى البلد",
-     "time": "2026-11-17T21:36:35.000Z",
-     "seen": "2026-11-17T21:41:04.587Z"
-    },
-    {
-     "title": "تصريحات محافظ أسوان أمام لجنة السياحة والطيران المدني بمجلس النواب",
-     "url": "https://www.elbalad.news/7184842",
-     "source": "صدى البلد",
-     "time": "2026-11-17T21:36:14.000Z",
-     "seen": "2026-11-17T21:41:04.587Z"
-    },
-    {
-     "title": "بضربة ميدانية حاسمة.. لمياء الجيار تتابع حملة لإزالة التعديات لشواطئ غرب بورسعيد",
-     "url": "https://www.elbalad.news/7184844",
-     "source": "صدى البلد",
-     "time": "2026-11-17T21:34:55.000Z",
-     "seen": "2026-11-17T21:41:04.587Z"
+     "title": "انتخاب مرشح حزب يشار متان كاهانا رئيسًا للكنيست الإسرائيلي",
+     "url": "https://www.youm7.com/story/2026/11/17/انتخاب-مرشح-حزب-يشار-متان-كاهانا-رئيسًا-للكنيست-الإسرائيلي/7622918",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T21:29:00.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
     },
     {
      "title": "انتخاب مرشح حزب يسار ماتان كاهانا رئيسًا للكنيست الإسرائيلي",
@@ -172,13 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T21:29:00.000Z",
      "seen": "2026-11-17T21:31:04.744Z"
-    },
-    {
-     "title": "شكل ومواصفة أسئلة امتحان العلوم للمرحلة الإعدادية للفصل الدراسى الأول",
-     "url": "https://www.youm7.com/story/2026/11/17/شكل-ومواصفة-أسئلة-امتحان-العلوم-للمرحلة-الإعدادية-للفصل-الدراسى-الأول/7621999",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T21:00:00.000Z",
-     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
      "title": "مدبولي يشهد افتتاح المرحلة الثانية من مجمع «هاير مصر» ويؤكد: حريصون على دعم المستثمرين الجادين",
@@ -193,6 +193,20 @@
      "source": "جريدة الدستور",
      "time": "2026-11-17T18:44:01.000Z",
      "seen": "2026-11-17T18:51:04.509Z"
+    },
+    {
+     "title": "6 معلومات عن مديرة المكتب الفني بمديرية الإسكان بالقاهرة المحكوم عليها بالسجن 15 سنة في قضية رشوة",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11bnZDSW1rZXVGMWFpRGxXMnhudGFGWkNDcUc0MnlJLTF3c2ZlT3JFNENyYURPbDlBTUIweWhLSzJsc3IxaklnTmlQRzNlZV9SUEstTjJHYWVhdTZweExr?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-17T18:42:00.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
+     "title": "ما قصة الأب المتهم بقتل طفليه في مصر؟ ومن يحمي الأطفال من عنف الآباء؟",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPY3JQUW5PUGF6ZGZ3WFJ6WXR1WnlTaXNuV05Uc092aVp3dGdTUVRFQnRSVlRDcTF0cDl5S0NnRHVudHRtakZYTTRRS0FLVjFpak9Cd0tkeHpPcHRsV3fSAWNBVV95cUxOS3c4OFFtNXRGMENJdzhNTkRDa2plcU83T04xR1J4YkZGWW52V3ExbnZwXzVrRlNSbXA3QjltMm50bzZzeWY5dl9qekM5X2tDV014QUxKOW55Ykp3c0VMeVJodUE?oc=5",
+     "source": "BBC",
+     "time": "2026-11-17T18:35:41.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
     },
     {
      "title": "مدبولي يفتتح خط إنتاج التكييف المركزي VRF بمجمع «هاير مصر»",
@@ -221,20 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-17T18:19:48.000Z",
      "seen": "2026-11-17T18:41:04.914Z"
-    },
-    {
-     "title": "مدبولي: «هاير مصر» نموذج ناجح للتوسع الصناعي في مصر",
-     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQZkpLS01oQWVtdGgzczNxXzQtMi1sSFd1cW5qNkVtdk91SGNzWmpuakpQTmt5WG9yUS1uNEdsTGFUanp2LWxSN3NIekNGV19feUNYX19rd1hudWZrQVJlTmxsT21FWW1jdGIwTUhNTmx3M1ZhemlDYllWVngwSF8yWHZMcGM4VmlfMWpHU29LbTY0MnNkWHBqYXE3RFJBcEVvVk5MRzJKTmtkellsQlcwQ2dxWXIwOUw5WFRwYkIxdDJjWlBxNEVhMlhOR21VNG1idXBzSmZvOE5aTFM2aVNwWktEZDJXX2tiQl9YRGRlaTdMOWlHdXFjUjNtVndyQ2VyY1dWOXlXX2IzZS1TRUx4UFB4NHNsTVFCNlBUOVRkSVZtN1JMVFZib1c4ZTdOS1BnYzNOQVgyT284ZkN0aHFibzNhSHRXa2lvY3BmdGxrUHpNZTlzcVBnbVUtMTRKZzZlLWRIcTdIUjZpaUxYZnI4TQ?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-17T17:54:46.000Z",
-     "seen": "2026-11-17T18:00:47.952Z"
-    },
-    {
-     "title": "مدبولي: توطين صناعة الأجهزة الكهربائية يعزز مكانة مصر مركزًا إقليميًا للتصدير",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNSGhuZTNTa29UNklsaHZ4WnlpQkMyVGpJa0ozUG9fYVlkaHcxQ2toamRrN2w2Y1ZWTEtyVnZhSHZaLWZfNUFFVEMxQ0dldlIwREpuWFVOMmwweVQwV2M3MTVPMjZBM3RkbnQ2dENjMlloR01Ia3BOSmxQUUtkZG9BZHZLX19pdDhUTVZKMzk5UndaTy1CbE9MM2JkNUFXZU5rOUhQcnk4SkgwTDRxdUFMN040RHVrcnNmY2RDc3JlekZEU3JSY29uTnNWYmt5U19EcGkxalNhWlYtN25VYy1sTUpGY1lqLVBCREJ5TzBKYkJPTG5xRk5WbjlKZ2hRVzVEei1UcGNuOGVBZ0RJUWR5SUZyRmZ2Tmk5ZGlFN1pEeGJWMWp3Y1paQWZkSGd6dlh6SlB1d0NGUzFNWktLb1dWWnMtMTZWd20tdGlMcThtQ1RHUmxQVUlZZ1R2M3QzXy1aRkliX2pjcnBUMXdUQ0xTaUlsVnF5ak1pQWV1SUlB?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-17T17:54:46.000Z",
-     "seen": "2026-11-17T20:51:04.684Z"
     }
    ]
   },
@@ -348,6 +348,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "🔴 انتخاب متان كاهانا حليف آيزنكوت رئيسا للكنيست الإسرائيلي",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261117-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%83%D8%A7%D9%87%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%A3%D8%AC%D9%86%D8%AF%D8%A9-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+     "source": "فرانس 24",
+     "time": "2026-11-17T21:44:59.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
+     "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/us-carries-out-self-defense-strikes-on-iranian-missile-launch-site",
+     "source": "CNN بالعربية",
+     "time": "2026-11-17T21:43:48.000Z",
+     "seen": "2026-11-17T21:51:04.443Z"
+    },
+    {
      "title": "السلطات التركية تستهدف مجددا الإعلام المؤيد للمعارضة عبر مداهمة قناة سوزجو",
      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261117-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D9%88%D8%B2%D8%AC%D9%88",
      "source": "فرانس 24",
@@ -360,13 +374,6 @@
      "source": "فرانس 24",
      "time": "2026-11-17T20:28:24.000Z",
      "seen": "2026-11-17T20:31:04.390Z"
-    },
-    {
-     "title": "رواندا: بوابة لترحيل المهاجرين من أوروبا؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261117-%D8%B1%D9%88%D8%A7%D9%86%D8%AF%D8%A7-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%84%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D9%85%D9%86-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-17T19:40:46.000Z",
-     "seen": "2026-11-17T19:51:05.331Z"
     },
     {
      "title": "خيوط جديدة تظهر في فضيحة رئيس الاستخبارات الخارجية الألمانية الأسبق",
@@ -437,13 +444,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T17:33:07.000Z",
      "seen": "2026-11-17T17:40:47.380Z"
-    },
-    {
-     "title": "فيديو مزعوم لـ\"ضربات سعودية على قوات الحكومة اليمنية مؤخراً\".. ما حقيقته؟",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/alleged-video-of-recent-saudi-strikes-on-yemeni-government-forces",
-     "source": "CNN بالعربية",
-     "time": "2026-11-17T17:03:55.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
     }
    ]
   },
@@ -554,9 +554,9 @@
  ],
  "failed": [
   {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "fetch failed"
+   "section": "world",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
   },
   {
    "section": "tech",
