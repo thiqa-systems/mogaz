@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:30:48.017Z",
+ "updated": "2026-11-17T13:40:47.428Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T13:30:48.017Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T13:40:47.428Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.67,
-   "change": 0.37,
-   "asOf": "2026-11-17T13:29:18.000Z",
+   "value": 53.75,
+   "change": 0.52,
+   "asOf": "2026-11-17T13:41:25.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5825,
-   "change": 0.5,
-   "asOf": "2026-11-17T13:21:48.000Z",
+   "value": 5833,
+   "change": 0.63,
+   "asOf": "2026-11-17T13:31:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6650,
-   "change": 0.5,
-   "asOf": "2026-11-17T13:21:48.000Z",
+   "value": 6659,
+   "change": 0.63,
+   "asOf": "2026-11-17T13:31:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3858,
-   "change": 0.13,
-   "asOf": "2026-11-17T13:21:48.000Z",
+   "value": 3857,
+   "change": 0.11,
+   "asOf": "2026-11-17T13:31:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0984,
-   "change": -0.37,
-   "asOf": "2026-11-17T13:31:47.000Z",
+   "value": 1.0981,
+   "change": -0.4,
+   "asOf": "2026-11-17T13:41:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.49,
-   "change": 1.14,
-   "asOf": "2026-11-17T13:21:49.000Z",
+   "value": 93.7,
+   "change": 1.36,
+   "asOf": "2026-11-17T13:31:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64879,
-   "change": 0.04,
-   "asOf": "2026-11-17T13:31:49.000Z",
+   "value": 64833,
+   "change": -0.04,
+   "asOf": "2026-11-17T13:41:46.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ابنة فيفي عبده تخطف الأنظار بإطلالة أنيقة.. تفاصيل ظهورها",
-     "url": "https://www.elbalad.news/7183957",
+     "title": "رئيس المركزى للمحاسبات يفتتح أعمال الاجتماع الثمانين للمجلس التنفيذى للإنتوساى",
+     "url": "https://www.youm7.com/story/2026/11/17/رئيس-المركزى-للمحاسبات-يفتتح-أعمال-الاجتماع-الثمانين-للمجلس-التنفيذى-للإنتوساى/7622416",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T13:39:00.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
+     "title": "علي جمعة: الصدق والقصد أخوان.. كن صادقًا في قولك وعملك ونيتك ومصدِّقًا لله فيما أخبر ووعد",
+     "url": "https://www.elbalad.news/7184187",
      "source": "صدى البلد",
+     "time": "2026-11-17T13:36:54.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
+     "title": "مصرع شاب في تصادم سيارتين على طريق مطروح – السلوم",
+     "url": "https://www.elbalad.news/7184173",
+     "source": "صدى البلد",
+     "time": "2026-11-17T13:36:33.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
+     "title": "عقب حلف اليمين |ديانا حمزة أبو سحلي: أسير على خطى والدتي ووالدي.. وخدمة أهلي ودائرتي مسئولية وشرف",
+     "url": "https://www.elbalad.news/7184188",
+     "source": "صدى البلد",
+     "time": "2026-11-17T13:36:07.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
+     "title": "محافظ القاهرة: جار اختيار أماكن جديدة لإنشاء مراكز إيواء الكلاب الضالة",
+     "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-جار-اختيار-أماكن-جديدة-لإنشاء-مراكز-إيواء-الكلاب/7622360",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T13:36:00.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
+     "title": "محافظ القاهرة: انضمام أكثر من 461 كشكًا لمنظومة الأكشاك الموحدة",
+     "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-انضمام-أكثر-من-461-كشكًا-لمنظومة-الأكشاك-الموحدة/7622410",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T13:35:00.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
+     "title": "على هامش الاجتماع الاستراتيجي القُطري للمنتدى الاقتصادي العالمي.. «مدبولي» يلتقي رئيس «أكوا باور» السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XVThkclhHa3cwUHVfaGJGUTNuYjl0Ym5kaXFvTjc4Y3RfRzlYWWNUV0MwWkR1bnVRUDZFbXBZeTVqcDRjUjJQSEZkQXJkVUpYMk5HX3BZQTNVTUdzT3k0?oc=5",
+     "source": "المصري اليوم",
      "time": "2026-11-17T13:30:00.000Z",
-     "seen": "2026-11-17T13:30:48.017Z"
-    },
-    {
-     "title": "محافظ القاهرة: نستهدف استعادة المكانة التاريخية والحضارية للعاصمة",
-     "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-نستهدف-استعادة-المكانة-التاريخية-والحضارية-للعاصمة/7622359",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T13:29:00.000Z",
-     "seen": "2026-11-17T13:30:48.017Z"
-    },
-    {
-     "title": "محافظ القاهرة: تطوير كيلومتر مربع بمشروع سور مجرى العيون والقاهرة الخديوية",
-     "url": "https://www.elbalad.news/7184160",
-     "source": "صدى البلد",
-     "time": "2026-11-17T13:28:49.000Z",
-     "seen": "2026-11-17T13:30:48.017Z"
-    },
-    {
-     "title": "القبض على شخص يدير صفحة لبيع أدوات تستخدم في الأعمال المنافية للآداب بالقاهرة",
-     "url": "https://www.elbalad.news/7184175",
-     "source": "صدى البلد",
-     "time": "2026-11-17T13:28:35.000Z",
-     "seen": "2026-11-17T13:30:48.017Z"
-    },
-    {
-     "title": "رئيس الوزراء يلتقى مؤسس ورئيس مجلس إدارة شركة \"أكوا باور\" السعودية",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-يلتقى-مؤسس-ورئيس-مجلس-إدارة-شركة-أكوا-باور/7622398",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T13:22:00.000Z",
-     "seen": "2026-11-17T13:30:48.017Z"
-    },
-    {
-     "title": "رئيس الخدمات البيطرية يتابع أعمال حملة تحصين الكلاب بالسويس",
-     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الخدمات-البيطرية-يتابع-أعمال-حملة-تحصين-الكلاب-بالسويس/7622351",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T13:21:00.000Z",
-     "seen": "2026-11-17T13:30:48.017Z"
+     "seen": "2026-11-17T13:40:47.428Z"
     },
     {
      "title": "من الكهرباء إلى تحلية مياه البحر.. مدبولي يبحث توسيع الشراكة مع «أكوا باور» السعودية",
@@ -202,6 +209,13 @@
      "seen": "2026-11-17T13:00:47.834Z"
     },
     {
+     "title": "بعد 45 عاماً على اغتياله.. الكونغرس الأميركي يمنح أنور السادات أرفع وسام مدني",
+     "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxNNkZGYUlDVlR3OG1wdDhkdVoyX0xUb2JqYkRzdXNVdDlCRDA3V1JIa21GRExtdUh1RGJzVXdoRVIzYUhLTk8xVmloWjdNR1VxVzFGcW1sTW5YRlA0NmkySnlvVVMxWWQxUm1PaEJDODRlWktLc1lGVENtZHljNjE0NG9kZ1phLUFJR28xTktoMEM5NmtCREE4NzZybWlDYXRQMlB2NjdXNmZ5Um5icWE2UmNMeElOMzZkaFY4c3lkX1R2Q0JlM2tabFI0U3l5MmFzbGtFSUlYc3V3ZWVZelhZUnN1SjdsTTRRWnhPb0xhSkNQVFRmTlJ3SWliUDN4cVhtcTdjWDVnZ0tNaTFsOWlfZjA0Nm10eWZOWWpvOTd5dXRuSFRBN3l1eDB6aV9yRTBlQ3BRdm04Qll5bkRRS2ZFbnlRenk3SmZVLWdabDNnN1ljamxyQlV2T200ZkxDSnViXzVEV2NfLTV2dU5YOW1Id1FlVEpSM0NnY3pPRHhJX0xnQzRTQm5HOWh3YjgyQWppMllqN0hhYkxvckVZMWZ1Ujd3WHoyYmp0NTNsTElHbEZycVk3cDdBZHg0RlEtdFpQbWVfVm9XWC1nUzJQeDNuSjh4TGt6Vzd2cXFiNmg4Q044bjN2UzNYYmtMbW9wek5TNHk0SUotNUhBWlZUVjRKQnJzNG9FVGZLSEdMbTlOcjFjck5EdUl6Q2lWbVBHblI1cURtbGlnMjBxQ1pYektoMS1NS20zTFQ3enpJNzlWMGhtbHdRTFZoWlY1TUd4dEhnNEJBWmdQa1NIUUxYTHfSAeMEQVVfeXFMTVR4bXR2T1dROGRWUHJ6SHA3Q3hlSTNkV211UlZhY0daR04xc2YwTFE4bDZ2OGRKZDJCdE42OUlERjJUc2N5TDNMQzBVTlZIbGtkb3M2MWRiR1UyaW9GelFIa18taXd6eFJHUWc4SkVFbnlubDlrRVFxVzNlY2NYMkVmaGxYYWxLQW1CNFQzY3RXYlpTdEZFTnU3b3ZzeE04MTF2LUV6eGM2RWpKVy05dGh3WGFaVnA2emJRVy1YN3RNaGp2dWZsbUc3OVZvWmpBdXlYR1dmaDVmbHd6SU5YNmY1b25kOWxWZ05oY3ltVnpwT0pob0gxTVNYakloYzRCOTIyZmNiWGVpNGk4aHZhNGVuWkRwZHBqTlZjT1ZGT2hLdjhPSDlPOE5Cd2I5VEhrOEtWdUIzT1JtLVFoR3BNYUo2dWdnQzVBTkJCei1KX0lXemUzRDBWaUU3elVVNTBTMmFnVk5EeWxwTmF2dkh2S2libkJVdG12aFRCVTNtV1hKa29pVlk2LWtWQmQybXVMSUZ0ajg1MmNNTXRCLW80NzUwbUJIT2NyMGVubEZYZk1SOXAxLVZiM05ibElKdGloMGlqeXhtZ1NURXh1VnFvVENma3NYYzlIMGpHdzZlOGRXelRBNkVwNUdQdHRmZ0RzVC1ZWWNCS2hsdTJDQlBFeTJBREc5VkFLTWZFeE1KTEFtaGhaTTVZN3BaN0dFR25zNU93SFZhSkRiaHJLWnNCOWwwcnoxZzl2Ri1ScHkxTDBnVGZxMnNfSFM2TmFkbENuUUh5R0tMQ1NGRW5SZEx3QzFRSVU?oc=5",
+     "source": "العربية",
+     "time": "2026-11-17T10:40:00.000Z",
+     "seen": "2026-11-17T13:40:47.428Z"
+    },
+    {
      "title": "بداية من يناير.. حظر البوتاجازات العادية ورفع الأسعار 1700 جنيه لتطبيق نظام «السيفتي»",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZnNZS29BcUp4eWZJa3FjRnIzRlNKM05MLTAxRXlhLVRQQjZEUUlRazM4WFpCbGpvbGxSS1dvNEx3QzFtb1U0SFdCd3pWTWZ3UnlVelRneU1SeGFxXzZr?oc=5",
      "source": "المصري اليوم",
@@ -221,20 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-17T09:46:29.000Z",
      "seen": "2026-11-17T13:10:47.481Z"
-    },
-    {
-     "title": "وزير الداخلية الأسبق يكشف: الإخوان خططوا لاغتيال السيسي بنصف طن متفجرات",
-     "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQRGMzM2U5eDNwVnBtaEZQRWI4VGI2bThpM241SDNwRmRxU3NDVmZqeHZYZHQxYVB2dWlKNkt4aV9TZHpScklhS01IelJPRnhlS0xjaWpfRjBrRWd0TVY2U2doNlUycVhDNzlMaGQzVDN0bXdkSFdlSkFUV3gxR3RQZGoyaTlVWW9IMTNWNTI1cm95NmJHUHMybTFEc3BRMVFJRUd3T0hJbWVDMTZTZUVYZEZIejRzdnpQOWd0M3RZNndrT2duNGFwd1dUYUVBMTU0UWoweWZIdXFyNWVLMktXYUNHVDQ4THFDRnFLbE1HR0o1N0NBdlcxUWdIWXZ3TENZZVRhTlltbFZoMWhkTTA4WkgwaHc2LW96eEdhNzkzZThhc3I0QnI5Yjl1OGk2M3RBRkJpT0FuSFRHVG5aMGQ4NVc5cy1uUGZ6T1hlc1JZc0N1NGVrTkkxMXFwNHBGTGNDN1FBMUlfMHdnZFYwOEU0V3RhYnZVYUh5ZlZ1UVdmWTRMM1I4bndjVl9ZaFZiclFETmpNaTB4T0dZQVRQZUVSV1dUSEF3U1R1cGJhNEVfV2Z0a3NxU2JlTDFHSkdYVUFwSkVWWnBnQ1dma1ZKWE5sakNxaV9mZlZnU2pOdUtERnMwT0tsanZzUGRLdTRTZDBUa0hxUE9BZEdQVHl3YXNLd3I5QUNBNHh6cnFtQms5U1ZQVTlBLVHSAZsEQVVfeXFMTkJ1dDFtZEh3elJ6RlZLNllsc2N1R2k4ZXZxMUZwdlhuMm5YTzF3bkRwUVhEUzdtMWVJRlZqNm9FOW9tZE9pTWFqOUVYVVNTOGJLS1VtNUIxeEFXS2J6Q0EtaUFBUjN4UndXWWhsUGRibzJtX1NvWkg2S05vZG01dUdaV29QajFRR0daQVVsLUQyU3hxcmg5NVRGbm5iVHVTLVVwWmp5SUcyTDVWaVRKYUZrYjVRbmdqbWx6VWtDa1lDV3NaVkwwWmlFUkJHNVgyNFY4SUZMYUhoa25FTF95OXRTa0xKUFlualpuWFhDSHJhR0tvQm9iaGFDS24zdWFpQTFDN3h4WFJXaXhuM1dqSkVRV05MWkNYdm1iR0xhQVVDRWU1UkZHLUFMRkpoWFhhSjloeGxPR3JBVUhtXzNiUHhnTWNYLTJlaTk4T1RaZGI5X1ljc0R2MHZneUIyVFdSNFN3ZlZ1RWdQb29DRGZZRkhDS2dWVFBheFZ6Zk53ekRxSWROemwzbkdabXZpZERtT1JlUmdyNkxPUGw1MVFXb2VmVWl2NXExWFNVYUhONVpKcDROWjdIMWJ3OVUtM0pCSWFYRzFpaXR2UjQzTXd4VGR4ejQxaUE0QXVBd2VRcWg5V2hoUC1VTy1PbFNCY25SV0UtZUdQMFZMLVIyOHFrWVlfcnJQMDRBbmNQdkdLbnMtOWh4RGZOdlVERjA?oc=5",
-     "source": "العربية",
-     "time": "2026-11-17T08:34:00.000Z",
-     "seen": "2026-11-17T11:48:54.141Z"
-    },
-    {
-     "title": "جريمة مروعة في مصر.. مذيع يقتل طفليه",
-     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQWDRkMFNaNEZKOW03S1dVSWNrZk5Dc2cxY2hIY1ZDMllyaVNDYWRSRHBPR0E3cjBkbU1mYTQxVGEyM1B0S1lVMko3YnZCSWNueThhVUNyNi1uV2liRVZBT2N3eUp1MVg2ZnVzSzBzNmZEVmVfdEJ1WE5VbVJ1UFJmZmpOa21od19YOFMzdnBMb3BzMGdBLW5wSzkxQjBybWZrdWlfYWRmQTVUN05HaTBjX2hQV2kxYnFkeHN3X043OXpRNVFrWlQtZjRXMm1NOHhqU0pfMldGU3ZRei1GWGVQeWNTUEppdUg0OUhLUEtDQ1hnWkEyUXhHbmhRY1p6a0pwV1NwRDVfY3ZhUV8xbzZpNWZxMW9nd1hKU2R5eGFDS21oanVqejVKOU8zNW1HdXJQb005ZWJR0gG7AkFVX3lxTFBRYzFING5CTEE1U3VOSGx0UjhDa3psVTg5NWUzaGRJOW9oRzZndVpoMzJhRGpKVmJ3LThwM1R2Ul9QYklvQ1Z2a1F3cGpvNjd4bHFjQ1hzdFFrYk5DdWdiamJoRXllUTNzNEViNVdycHlHNWhtRXBpSDJMQUlFMUxCam5qVEVnMWUyN05fOHUzZVkyRVdUUDhiUi1BRHpNcEdmbEt1Y2ZlTXNOQ1RmM1p3Q19iX0ZQWHFYdFVLOHlReFlkTXY4d1BEZFBjZVVSN2xtbDZHMHdCWVI0SHZFVjVBWm8zSUNNVG92aHI4LTNpUmNkY1NqZUZpbmxPS2o3Y0lzQWU0UmxYdllianZoTHV2bGNKWXBPbXpsUjFUSlROcEVLNGY2ZWdQREtybTNoYUg2NHpKcjhWZklDdw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T08:13:03.000Z",
-     "seen": "2026-11-17T09:18:53.724Z"
     }
    ]
   },
@@ -563,6 +563,16 @@
  "failed": [
   {
    "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
    "feed": "www.bing.com",
    "error": "no items"
   },
