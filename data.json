@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:10:47.484Z",
+ "updated": "2026-11-17T16:20:47.868Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T16:10:47.484Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T16:20:47.868Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5853,
-   "change": 0.98,
-   "asOf": "2026-11-17T16:00:49.000Z",
+   "value": 5848,
+   "change": 0.89,
+   "asOf": "2026-11-17T16:12:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6683,
-   "change": 0.98,
-   "asOf": "2026-11-17T16:00:49.000Z",
+   "value": 6677,
+   "change": 0.89,
+   "asOf": "2026-11-17T16:12:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3877,
-   "change": 0.61,
-   "asOf": "2026-11-17T16:00:49.000Z",
+   "value": 3873,
+   "change": 0.52,
+   "asOf": "2026-11-17T16:12:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1013,
-   "change": -0.11,
-   "asOf": "2026-11-17T16:10:46.000Z",
+   "value": 1.1014,
+   "change": -0.1,
+   "asOf": "2026-11-17T16:22:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.25,
-   "change": 0.88,
-   "asOf": "2026-11-17T16:00:45.000Z",
+   "value": 93.58,
+   "change": 1.23,
+   "asOf": "2026-11-17T16:12:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7342,
-   "change": -1.01,
-   "asOf": "2026-11-17T16:10:49.000Z",
+   "value": 7332,
+   "change": -1.14,
+   "asOf": "2026-11-17T16:22:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64192,
-   "change": -1.02,
-   "asOf": "2026-11-17T16:10:40.000Z",
+   "value": 64031,
+   "change": -1.27,
+   "asOf": "2026-11-17T16:22:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "رسمياً.. السنغال أول المتأهلين إلى كأس أمم إفريقيا 2027 بعد الدول المنظمة",
-     "url": "https://www.elbalad.news/7184413",
+     "title": "الرئيس السيسي: المستثمر الأجنبي أصبح قادرا على تحويل أرباحه للخارج.. وإجراءات لـ \"حلحلة\" أزمة العملة الأجنبية",
+     "url": "https://www.elbalad.news/7184426",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:07:55.000Z",
-     "seen": "2026-11-17T16:10:47.484Z"
+     "time": "2026-11-17T16:20:19.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
     },
     {
-     "title": "حمداني يستقر على تشكيل منتخب الجزائر أمام توجو.. وتعديلات اضطرارية لتعويض الغيابات",
-     "url": "https://www.elbalad.news/7184407",
+     "title": "الرئيس السيسي: نستهدف تحويل مصر إلى قاعدة إنتاجية صناعية وتصديرية عبر تشجيع توطين الصناعات",
+     "url": "https://www.elbalad.news/7184415",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:07:14.000Z",
-     "seen": "2026-11-17T16:10:47.484Z"
+     "time": "2026-11-17T16:18:42.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
     },
     {
-     "title": "للارتقاء بالمنظومة البيئية.. محافظ الدقهلية يتابع تنفيذ مشروعات تحسين نوعية مياه مصرف كيتشنر",
-     "url": "https://www.elbalad.news/7184409",
+     "title": "وزيرة التضامن: افتتاح مركز بيانات النيابة العامة رحلة مؤسساتية تدرس",
+     "url": "https://www.youm7.com/story/2026/11/17/وزيرة-التضامن-افتتاح-مركز-بيانات-النيابة-العامة-رحلة-مؤسساتية-تدرس/7622623",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T16:18:00.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
+    },
+    {
+     "title": "الكويت والصليب الأحمر يوقعان اتفاقية إطارية للتعاون في إنشاء مركز خبرات إقليمية للبحث عن المفقودين",
+     "url": "https://www.elbalad.news/7184428",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:06:22.000Z",
-     "seen": "2026-11-17T16:10:47.484Z"
+     "time": "2026-11-17T16:17:45.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
     },
     {
-     "title": "محافظة القاهرة ترفع درجة الاستعداد لمواجهة أمطار الشتاء",
-     "url": "https://www.youm7.com/story/2026/11/17/محافظة-القاهرة-ترفع-درجة-الاستعداد-لمواجهة-أمطار-الشتاء/7622596",
+     "title": "رئيس الوزراء يرأس اجتماع الحكومة الأسبوعى غدا",
+     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-يرأس-اجتماع-الحكومة-الأسبوعى-غدا/7622640",
      "source": "اليوم السابع",
-     "time": "2026-11-17T15:41:00.000Z",
-     "seen": "2026-11-17T15:50:47.988Z"
+     "time": "2026-11-17T16:16:00.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
     },
     {
-     "title": "محافظ القاهرة: شلتر التبين مرحلة أولى للتعامل العلمي والإنساني مع الكلاب الضالة",
-     "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-شلتر-التبين-مرحلة-أولى-للتعامل-العلمي-والإنساني-مع/7622594",
+     "title": "منظمة الصحة و21 دولة تطلق تحركا عالميا لخفض معدلات السمنة بحلول 2030",
+     "url": "https://www.youm7.com/story/2026/11/17/منظمة-الصحة-و21-دولة-تطلق-تحركا-عالميا-لخفض-معدلات-السمنة/7622636",
      "source": "اليوم السابع",
-     "time": "2026-11-17T15:39:00.000Z",
-     "seen": "2026-11-17T15:40:48.249Z"
+     "time": "2026-11-17T16:15:00.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
     },
     {
-     "title": "الأعلى للإعلام: تفعيل منع ظهور رضا عبد العال 4 أشهر ووقف محمد فاروق شهرا",
-     "url": "https://www.youm7.com/story/2026/11/17/الأعلى-للإعلام-تفعيل-منع-ظهور-رضا-عبد-العال-4-أشهر/7622582",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T15:30:00.000Z",
-     "seen": "2026-11-17T15:40:48.249Z"
+     "title": "مناورات إسرائيلية على حدود مصر.. والقاهرة تعتمد إجراءات صارمة لتأمين الحدود الشرقية",
+     "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPRWZza2ZwNXRJd29vU1NDUXpLdm9uVFR6MkZqX1BkeXVsbllsSVB5NWRhWWNCWGVsT2lkLUdSaWNWYV9nR0QwNmttQnlWTVI4clVuVEFEeGZqa0ZFSnlxbWxDMGl3RG5IQW1VaGYtMGI0Ym1VSTBsR05KdlFpTlZBRk9lTkgtZlk1dk5aTTZ0MkdsSzV3WTlQSm9jOGx4eTVjMkhKTk9zNVNLVE8tVjcyQ3dnQnhmZmVESTBxZ1Vvck5GWXhfRzR5ZmRVZUNiZFlONkdjdkV1dnFnUjYzZS1HbFg0SWMzQTV4R2M3bG9NTkxISUExY3ZIMlNZMmZSd1N0YlFjRG42ek96cXpBZUlvRGFBSlU3ZVhUUklvODdiNXVlUFNpY3p5elJDQ2RzWXgxRFhRdWxBM2g0Z2hQbmZ2RVFoUTk4V0VsdmwxYlJYejhMWVZCbzlZRkl5Sk9RS2R2aWdXdkY0MXpoc0NsVjFXMTV6NnBwLTl0MjhoR0R5SWhkSDZMUG1BSTZGMWZQVy1odFJtdmcwQ3hla2xMdEE3UVZ3Y19CMlVqYTBzYzVYUkp5Q1M0UEprMkJpWUwwTERycUY0Yzl6QkNTRHlGRnhfWnpKZFVqcmVwZUZ1bW12MVNQbHFoaS04d2g2OGZhRHQ1SG95MTFLdTFmT3dLNXVKV3d6ZFg0eUMyQVE1cjNRZVpGa1lQdk9vSk5VMzRJMUU4c3lYNHQxYzFjTDI3cHRLQWpR0gG3BEFVX3lxTE9CNU9MdV9OZzlaM0xnUVhneVhmak93M1kzQkpTUzRLSHF3eUFrQ051R1ZPYnRxOVlfeXRPMGt2eTU2bE5XdmF3NHJYM1Z4dm5XSmgwOG9vMGtuU01zR0FwbDdqSDVLcUFMTmF2dkxxejREVGN6UnpvZGhHN282NzV1RXp3bi1kQnY4QUtORGV4YS1GNEItRUt0V2lKUXJoa0VKY2x4MWdDekhLUmhUZ1ZabzYwOUktczhMRU42OFo5V0VpOU5iRTJKZnRQeGg2NF9DajEwRF9UYTNXT0FoOTM4aU9LM2dVV1NSWUE3Rm9aa0NKenNkS1Q2clBHa1A0ZlpBR2lneEJFbjZVaU9WcWg0cXpyeHpSNUxtR3k1NWFPVVAwYnN1b0VKdFdjYlBDSTFtN3BoaWUtOHdGT3IzbE1HTU1HanF6Y19qRktBVGxDaXI4UFdYaWRZdDhOcThveVlJWGJMQTNoRFp5MGppWS1Sa29Xai0ydXhpek5wTUVaVnY3eWw0NFdoSmoyTGlsb0FlT0c2dC15bG5WZnJKZDBlUDVoZjZ1UlFkYXlUUkxndVIzZkV4RHdGd1E5SjVuSDdtZUJNOV80SjRnTE5BUzdRZFBMQi1UcjNMbGJtVnFGSHJteXB5a0JyV2VzamRncTdQdDZ2UEltSXpLeWxuNzhfTG5FQ0FsMjhxMlBqLXB4VmZ1T1FMdjA4WEIxSUFYckZaekFMa0VZNWttR1dzM0tVVnNtcUtXOA?oc=5",
+     "source": "العربية",
+     "time": "2026-11-17T15:31:53.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
     },
     {
      "title": "رئيس الوزراء يتابع مخططات تنفيذ مليون وحدة سكنية حتى عام 2030",
@@ -228,13 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-17T13:18:00.000Z",
      "seen": "2026-11-17T14:30:47.654Z"
-    },
-    {
-     "title": "«مدبولي» يلتقي الرئيس التنفيذي لشركة (SandboxAQ) المتخصصة في تقنيات الذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZTBoOEl3QnBiakxtWS0xczZLcnlWa3BlQ3E4UVNKRE1WZ0E5UTdPRGo1SF9uaVpTd0RlWHNGejVBRkJIN3B3WERwa2NOU1RTaEkzekxwVWRSODcyRG5N?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-17T12:49:00.000Z",
-     "seen": "2026-11-17T13:00:47.834Z"
     }
    ]
   },
@@ -271,6 +271,13 @@
      "seen": "2026-11-17T15:20:47.639Z"
     },
     {
+     "title": "وزير الصحة يبحث مع «حكمة مصر» التوسع فى تكنولوجيا توطين الصناعات الدوائية",
+     "url": "https://alborsaanews.com/2026/11/17/2007213",
+     "source": "البورصة",
+     "time": "2026-11-17T15:09:44.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
+    },
+    {
      "title": "سعر الدولار في مصر اليوم الثلاثاء 17/11/2026.. عودة الارتفاع",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NeC1tQkF1Nk5GNjVoRTB4NGFlNTl3WWJ0Mld0REczMkpNeWpUcjFBNk9WZ0Q3MkZ4aUN4c2xTbFFoVDB0cVhFOFRjZ19iWmNFcVhVNGFB?oc=5",
      "source": "جريدة البورصة",
@@ -278,17 +285,17 @@
      "seen": "2026-11-17T14:50:48.045Z"
     },
     {
+     "title": "«USSEC»: واردات مصر من فول الصويا الأمريكى تسجل 5 ملايين طن",
+     "url": "https://alborsaanews.com/2026/11/17/2007195",
+     "source": "البورصة",
+     "time": "2026-11-17T14:52:55.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
+    },
+    {
      "title": "«الجمارك» تستهدف تعزيز الربط الإلكتروني مع الصين لتسريع الإفراج عن الشحنات",
      "url": "https://alborsaanews.com/2026/11/17/2007199",
      "source": "البورصة",
      "time": "2026-11-17T14:50:20.000Z",
-     "seen": "2026-11-17T15:50:47.988Z"
-    },
-    {
-     "title": "وزير الكهرباء يبحث مع مجموعة شركات “CIP” العالمية سبل التعاون",
-     "url": "https://alborsaanews.com/2026/11/17/2007188",
-     "source": "البورصة",
-     "time": "2026-11-17T14:34:27.000Z",
      "seen": "2026-11-17T15:50:47.988Z"
     },
     {
@@ -311,13 +318,6 @@
      "source": "جريدة المال",
      "time": "2026-11-17T14:17:04.000Z",
      "seen": "2026-11-17T14:20:47.632Z"
-    },
-    {
-     "title": "رئيس الوزراء: الحكومة تتبنى أجندة إصلاح اقتصادى ترتكز على تعزيز دور القطاع الخاص",
-     "url": "https://alborsaanews.com/2026/11/17/2007167",
-     "source": "البورصة",
-     "time": "2026-11-17T14:14:08.000Z",
-     "seen": "2026-11-17T15:50:47.988Z"
     },
     {
      "title": "ارتفاع سعر الدولار اليوم الثلاثاء في البنوك المصرية.. بـ 53.88 جنيه للبيع",
@@ -403,18 +403,18 @@
      "seen": "2026-11-17T15:00:47.342Z"
     },
     {
+     "title": "انفجارات تهز جزيرة قشم الإيرانية ودخان في سمائها",
+     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOOXdRYkh0TVBsUDV3Mm1fcVppV2VqVXc4cHVyZ09hbHJPMlA2eGk4eVZTOXVBaDJFT1BpUWoxRDRDQmpLOGxac2tKS2lTUFlDdkZkQ1ZYMjI4Ti1KakxwUndpS2t6alRpQjZTRks1eEFYMEREWWhCOE1pMWVVNDU2ZXdheTBXRG1MbGhlTkhSRzVJeVNYdjl1N2pqNVd0UWhIUHpGWVI0NU9TVnItT2V5SkVva25HcGw0MkJ0NW5aMmJMZ0hiVzU4WGtyRXQ2eWphZDU3dEQtc0FKbTFaTGJZc1loQjBrR2hEc2NwNUhJVUlRY0RxN0l1WEZyRUxQSnFfZFMxN1drM042UHNzLW5YUGkzY2htc2h0VzRYVk5DbVNjb3NYYjVEYWJHYmczY3ljT2JRQXNSQzgyVjB4bFNFX3JZYW0xam5BOHA5T0NxZjJGenFRVnF2M1I4c1g4d1BNc0NxNC01M1BIelZPY2V3N3lMMGhMVGQtbmJpUm5hQ3hTejN1Tlg2YWJwb0NpcTFHcHg1ZVFhWdIBnANBVV95cUxPR2szM0RiZWEtRFdkbm9qVTI5LVl1b3B6bmFfbWMwN01kRVAwS3hMM3MtNmdsMGNUV2pZaGNvMVJkRzBOcVFObk9YRWNPaEhObVJzR01XZnhRUEZjeElBeGpBVXlPM1llbVdQN3N6SkFnS3NBXzZUVnh0NWVVRnZBQ3g0T1hJdDlDemxQQXlKOUwxUWxwOHd5LU5jU0xSRkhtWmJ3R0RpcmwxWnAwY0VSNVM1b2RLMFB6S2JiLUlmQlJRT09qa2kySUJpQzg2QWs2dEtPQTBsRnFuTk5SNXhiWEZVNHA2cWtScUxoZ1pFaF9SaF8wVjdFMlBtRzBhc3pQeTRCZTFfZzltdzdSX1NPQ3A1blZaOTdpcnBLM19xQXBSN0dFWmlYb2xyVWw4aTJoUmo5WWhETEEyNjY1UURUcUdvb2o0YlZWcmQweElOMnlnb3A5aVFUaTJlbjQzcmRiRW5TZlFsUEgxdUZFbENfcTFxNFZUMDV1ZDV1QnVYRHMwN1hXTXdyYTZHQUVmOXM5dFdKcEwzaWJKcXhj?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T14:39:23.000Z",
+     "seen": "2026-11-17T16:20:47.868Z"
+    },
+    {
      "title": "سنتكوم ترد على مزاعم إيران بشأن استهداف موقع رادار أمريكي في البحرين",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/centcom-denies-irans-claim-that-it-struck-us-radar-site-in-bahrain",
      "source": "CNN بالعربية",
      "time": "2026-11-17T14:30:25.000Z",
      "seen": "2026-11-17T14:40:48.186Z"
-    },
-    {
-     "title": "الرباط وواشنطن تؤكدان التوافق بشأن حل قضية الصحراء المغربية",
-     "url": "https://www.skynewsarabia.com/middle-east/1905365-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AD%D9%84-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T14:18:49.000Z",
-     "seen": "2026-11-17T14:20:47.632Z"
     },
     {
      "title": "خطف وزواج أطفال وفقر: لماذا يُحرم ملايين الأطفال في نيجيريا من التعليم؟",
@@ -554,11 +554,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
