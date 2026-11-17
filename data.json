@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-17T07:58:53.423Z",
+ "updated": "2026-11-17T08:08:53.531Z",
  "minute": [
-  "تتناول الأخبار المصرية تحديد مواعيد امتحانات الفصل الدراسي الأول وإجازة نصف العام، وتوضيح خطوات التصالح في مخالفات البناء.",
-  "وعلى الصعيد الاقتصادي في مصر، رُصدت أسعار صرف الدولار بالبنوك مع صدور تحذيرات من تأثير الأموال الساخنة على التضخم، وتوضيحات حول أسعار الهواتف.",
-  "عالمياً وتقنياً، شهدت الولايات المتحدة عودة تدريجية لحركة الطيران، إلى جانب استمرار التطورات العسكرية والسياسية في عدة مناطق."
+  "سجلت أسعار العملات في البنوك المصرية استقراراً للدولار والريال السعودي مقابل تراجع لسعر اليورو.",
+  "شهدت الساحة المحلية نقاشات تهم المواطنين حول مصير الإيجار القديم ومنظومة أمان القطارات ومتابعة الشكاوى الخدمية.",
+  "استمرت التوترات العسكرية في الأراضي الفلسطينية مع تلويح إيراني باستهداف منشآت أمريكية وإسرائيلية.",
+  "طالت الأعطال التقنية والحوادث السيبرانية قطاعات حيوية شملت الطيران ومتاجر التجزئة عالمياً."
  ],
  "ai": {
-  "at": "2026-11-17T05:58:38.322Z",
-  "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T07:58:53.423Z"
+  "at": "2026-11-17T08:08:53.531Z",
+  "model": "gemini-3.8-flash",
+  "key": 1,
+  "impacts": 9
  },
  "markets": [
   {
@@ -20,34 +19,34 @@
    "unit": "ج.م",
    "value": 53.63,
    "change": 0.29,
-   "asOf": "2026-11-17T07:58:54.000Z",
+   "asOf": "2026-11-17T08:09:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5846,
-   "change": 0.85,
-   "asOf": "2026-11-17T07:48:54.000Z",
+   "value": 5844,
+   "change": 0.83,
+   "asOf": "2026-11-17T07:59:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6674,
-   "change": 0.85,
-   "asOf": "2026-11-17T07:48:54.000Z",
+   "value": 6673,
+   "change": 0.83,
+   "asOf": "2026-11-17T07:59:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3875,
-   "change": 0.56,
-   "asOf": "2026-11-17T07:48:54.000Z",
+   "value": 3874,
+   "change": 0.54,
+   "asOf": "2026-11-17T07:59:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +64,16 @@
    "unit": "$",
    "value": 1.0999,
    "change": -0.23,
-   "asOf": "2026-11-17T07:58:44.000Z",
+   "asOf": "2026-11-17T08:08:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.93,
-   "change": -0.55,
-   "asOf": "2026-11-17T07:48:10.000Z",
+   "value": 91.74,
+   "change": -0.76,
+   "asOf": "2026-11-17T07:59:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64650,
-   "change": -0.32,
-   "asOf": "2026-11-17T07:58:51.000Z",
+   "value": 64636,
+   "change": -0.34,
+   "asOf": "2026-11-17T08:09:12.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,48 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محمد عبدالجليل: إمام عاشور يحتاج الإلتزام بنظام غذائي.. وأتوقع تعادل منتخب مصر مع مالاوي",
-     "url": "https://www.elbalad.news/7183775",
+     "title": "وكيل اقتصادية الشيوخ تدعو البرلمانيين لتكثيف جهودهم لضمان تدفق التمويل المناخي العادل للدول النامية",
+     "url": "https://www.elbalad.news/7183783",
      "source": "صدى البلد",
-     "time": "2026-11-17T07:57:35.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "time": "2026-11-17T08:08:09.000Z",
+     "seen": "2026-11-17T08:08:53.531Z",
+     "impact": "يهم المستثمرين في مصر لمتابعة فرص تدفق التمويل الدولي المخصص لمشروعات التنمية والمناخ."
     },
     {
-     "title": "وكيل تعليم أسيوط يتفقد مدرسة أجرو المصرية الإيطالية لتكنولوجيا المياه",
-     "url": "https://www.elbalad.news/7183773",
+     "title": "محافظ قنا يبحث279طلبًا وشكوى بمختلف القطاعات الخدمية",
+     "url": "https://www.elbalad.news/7183780",
      "source": "صدى البلد",
-     "time": "2026-11-17T07:57:28.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "time": "2026-11-17T08:05:09.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
     },
     {
-     "title": "فخامة الرئيس السيسى وزوينجي يؤكدان أهمية تعزيز التعاون بمجالات الذكاء الاصطناعى",
-     "url": "https://www.youm7.com/story/2026/11/17/فخامة-الرئيس-السيسى-وزوينجي-يؤكدان-أهمية-تعزيز-التعاون-بمجالات-الذكاء/7621656",
+     "title": "مركز العلاج الاجتماعى بجامعة العاصمة ينظم دورة تدريبية حول الثقة بالنفس وبناء الشخصية",
+     "url": "https://www.youm7.com/story/2026/11/17/مركز-العلاج-الاجتماعى-بجامعة-العاصمة-ينظم-دورة-تدريبية-حول-الثقة/7621669",
      "source": "اليوم السابع",
-     "time": "2026-11-17T07:56:00.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "time": "2026-11-17T08:05:00.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
     },
     {
-     "title": "الصحة العالمية: العدوى الشائعة أصبحت أكثر صعوبة فى العلاج بسبب مقاومة الميكروبات",
-     "url": "https://www.youm7.com/story/2026/11/17/الصحة-العالمية-العدوى-الشائعة-أصبحت-أكثر-صعوبة-فى-العلاج-بسبب/7621636",
+     "title": "مصادر تكشف حقيقة ادعاءات عدم حضور وزير التعليم جلسات النواب",
+     "url": "https://www.youm7.com/story/2026/11/17/مصادر-تكشف-حقيقة-ادعاءات-عدم-حضور-وزير-التعليم-جلسات-النواب/7621665",
      "source": "اليوم السابع",
-     "time": "2026-11-17T07:55:00.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "time": "2026-11-17T08:04:00.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
     },
     {
-     "title": "الرئيس التنفيذى للمنتدى الاقتصادى العالمى: مصر تمتلك المقومات لتحقيق المزيد من النمو",
-     "url": "https://www.youm7.com/story/2026/11/17/الرئيس-التنفيذى-للمنتدى-الاقتصادى-العالمى-مصر-تمتلك-المقومات-لتحقيق-المزيد/7621652",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T07:54:00.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
-    },
-    {
-     "title": "فرنسا تستعد لإضراب جديد في القطاع العام بسبب ضعف الأجور",
-     "url": "https://www.elbalad.news/7183774",
+     "title": "ماذا يحدث لشقتك بعد 7 سنوات؟ 5 أسئلة تحسم مصير مستأجري الإيجار القديم",
+     "url": "https://www.elbalad.news/7183768",
      "source": "صدى البلد",
-     "time": "2026-11-17T07:53:27.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "time": "2026-11-17T08:03:08.000Z",
+     "seen": "2026-11-17T08:08:53.531Z",
+     "impact": "يساعد الأفراد من المستأجرين والملاك في مصر على فهم التغيرات القانونية المرتقبة والتخطيط لمستقبل عقاراتهم."
+    },
+    {
+     "title": "مدارس تكنولوجيا تطبيقية زراعية.. خطة حكومية لتأهيل كوادر فنية متخصصة",
+     "url": "https://www.youm7.com/story/2026/11/17/مدارس-تكنولوجيا-تطبيقية-زراعية-خطة-حكومية-لتأهيل-كوادر-فنية-متخصصة/7621659",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T08:02:00.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
     },
     {
      "title": "الكونغرس يكرم السادات بعد 45 عاما على اغتياله",
@@ -243,11 +244,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 في البنوك المصرية.. الأخضر يستقر عند 53.69 جنيه",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzU2VSS2VjQ3VVNEhVVU9MY0JDRVJJTUNvbzlSV2lPQjhLTHZpcVVCY0F5WEtndHcxVmxpMWZOVlVUM3RZeFE?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-17T08:03:45.000Z",
+     "seen": "2026-11-17T08:08:53.531Z",
+     "impact": "يوفر للمستوردين والمواطنين في مصر وضوحاً بشأن تكلفة العملة الصعبة وتأثيرها على أسعار السلع المحلية."
+    },
+    {
+     "title": "سعر الدولار فى البنوك صباح اليوم الثلاثاء 17 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1c0w3Yy1IdTdyQV9oakQ0NUYwNlJUOFppUTVBOFA5aGt1UGlLV2lwd0xtdFhDUHJaTEx3UzR2TXVKazVNTnJF?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-17T08:00:30.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
+    },
+    {
      "title": "تراجع سعر اليورو اليوم الثلاثاء 17 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNTjM0UThwMTY0Mnh4a28td1U5eG5UYWFKbjNSVmMxQVNRcDNVWjVrcnBxTTdHbXdMdW9EbmpGZkxKZERZYU41VjhyZ3V1MVFjbkFwVVI5XzQxajRISm5vNDBURzlKYWFlSVNsRlI1X0pZY2tUb3RuWDg1ZU5Ja2hwZl9IZkJCR3lKT2VjRjJWMnVjT3Fod3Z4MzN3elJFUmRyN1VnVFE1OHVMYmdTMkQ1Q2ZFcVlRaVU2cFhUQWVKc0ctX2RBOXZ2R2dJNFlUaTloZEMtTmFJOXdoZWp2cGZJbTRGXzQxbXdJdlh3YlZSM01HNHVnc1doZFJsdzliQm9STGJ6YXBwRGdVT0wwZDk4a3ZyclVJUm9oMlBMbE1xUGM1a2ZIcXZ2ZFN3NTI5dzR0U1NpWFppQzJqVVRBdjYyOGVYeUlsZGx4eU5xcnNxb3RpUVZwTkxyNmd3T2JrdlE3d3JhalEtT0hYTGFqVjIzTmtzTW9sZTY4Y1RiWlhlc2REMFROcW1MX1dkVXJPU0xvVTJZVGpkSmt0d0FfZzFDUVlRSUtLTFp4THc5amk5ckhzSmUzZWRvWFBxV1hXZkJ6TDFVblctWdIBwgNBVV95cUxNVUxrWFdXd1NHME1sT2QwQVdUNVh5ckV2ZWZBWkR1Y1BkUWFOTWdMbElScjlmdHZ5UEY4QlVoZlZ2S3VsMzJPUWNiUzNZaXZ2T1IzYjdncFZvdWk2M01jcHRqY2Y1YUNjb0FCTGpxeThjRG4yUWtEMXFXN1hZdUM4a00yWDlCNTdtaS1rUTdoT191NWRQS2xYOU5hekFMRFByUzNNOFo4Z3VsTnlvZzlGTllIOEJkRGdkZHh6LUhrVFRHMzhNR1M4UzVnUm1vNW5ON2lXU0FnaDlMb05aU1lzOHBDeGdJaUVMdGFZSnhwclpmOGx4VzRGdWhUSXh6b1JxSTZ3WWNRa1dnUUJjU1gxeGZNTmJzMTEzQXhTVG4wNTY2d1RyeEFTYjJGZGVtVDVxbnVLdlRFUTY4eGxNU3V5MlFzLTNTdVNZMVlGQy1YckZ1eEFVUERVX3kxNE9oYlE1SFpJOGtYZVZaMWNxbHBWbWJYdkxTSFN3S21OdWxSTTRQQzZpWFk2NElQcUhLZXBMRUU5OGRyb3M5ZU1xTmw4LUMyTktiaThLTVNsNWZZUElGMXowWEJrTkdMQXRmdVJfeWc?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T07:48:00.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "seen": "2026-11-17T07:58:53.423Z",
+     "impact": "يؤثر على تكلفة استيراد المنتجات والخدمات القادمة من أوروبا إلى السوق المصري ومصروفات السفر."
     },
     {
      "title": "درنة المُعاد بناؤها بعد فيضانات مدمرة تصبح واجهة لحكم خليفة حفتر",
@@ -255,6 +272,14 @@
      "source": "BBC عربي",
      "time": "2026-11-17T07:44:06.000Z",
      "seen": "2026-11-17T07:48:54.209Z"
+    },
+    {
+     "title": "سعر الريال السعودي مقابل الجنيه المصري اليوم الثلاثاء 17-11-2026",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wbEJCcDdqaWl6c0hPSEx0Ujk0a0tnVGtIRGhrUjkxZXN1UllwdW9tYnVJREVjVmRfNXdoTUFraTVtZjZTUWVSMkxkM0xxcDBtN3lxcjgwbEVKX25y?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-17T07:41:21.000Z",
+     "seen": "2026-11-17T08:08:53.531Z",
+     "impact": "يهم المسافرين والراغبين في أداء مناسك الحج والعمرة وأصحاب التحويلات الخارجية في حساب التكاليف المالية."
     },
     {
      "title": "سعر الدولار اليوم الثلاثاء 17-11-2026 في البنوك",
@@ -269,13 +294,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T07:22:37.000Z",
      "seen": "2026-11-16T18:17:17.431Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 في البنوك.. بـ 53.63 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNaTk5UEZkNElvUVhnY1JxaXdJYXpYTy1TS2c4ZC03MjcwOGRhZmFvWGpQX0JVRTMtUjQ2RnNTb29GUF9UUUhZM3JLX1FOZTgyQzVyTDJoVzhmeTFMMllDdC11VG9JbEl6SGtZYXhtOHQza0xkUk10UGZNVVNFWWtJUko3YVRGNTVCM0gxLTVMRE5aNzljLW5lUHVuOXJ2LWFkTVV0WkNXYkk1WkpBMjdiNTVuakRlVWdJY1FMVUlkdG1jWXVnMUhUbjJlRVRNeHk2VHIyOTF0LWRLeU5XQjFZOHlmOU92emxZOFVhRGRRY0dZS2J4R3NnMG9ZMGVoX0pOT2dMTnFXdzg5dndTbXRmYmJWdjhUbGVLMFlfbmppUmQ4a2c5Zi13eUlKN245dmM5Y1ZRTFdPMHdhbTk1R2ZaLS1EVQ?oc=5",
-     "source": "قناة صدى البلد",
-     "time": "2026-11-17T07:20:40.000Z",
-     "seen": "2026-11-17T07:28:54.076Z"
     },
     {
      "title": "«حجازي وشركاه» يدير صفقات تمويلية بـ 300 مليون يورو العام الحالي",
@@ -327,20 +345,6 @@
      "time": "2026-11-16T23:23:39.000Z",
      "seen": "2026-11-16T23:48:20.202Z",
      "impact": "يهم المستثمرين ورجال الأعمال لمعرفة التسهيلات والفرص الجديدة المرتقبة لجذب الاستثمار الأجنبي المباشر."
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه المصري اليوم.. آخر تحديث للبيع والشراء",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMWpaQURRZzVQejg4YUtlOWJVVWo2OUkzLWxyNkhqUzJ6bGVOX19FNlJjQmt0aElGMC1ISzNVOWtSdS1EN3hJOWtnSGYxTTlHREZscUVnc3pCVWQz?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-16T23:09:57.000Z",
-     "seen": "2026-11-17T00:38:19.978Z"
-    },
-    {
-     "title": "سام ألتمان: قطاع الذكاء الاصطناعي سيكون بخير بعد تنحي هوانج",
-     "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOaXQxcDdINDkzYkNqYVFHZTdjcS1pWWtSVGlqN09JeDRBa3hjRmRNY2Y2MjUxQW9lT3hNTEhFUklBV2FKQzVpaU1fNjdXbGRURUR0dzZVTlExc3JqNUlOUzZqbzNOT1dSVjV6emd2QlU2dFRVMFF2S0daWm51OS01Q3lJeEZ6YXBpUENpRko4REhCVkdsSXBZZ0lPdDJ0cl9sd1htUC1OMk1FV0hCYUlWSTdlYTBOYWN6ajI1ZXRVR1lYQWJ3VkZIZEpOOFNUX1Rqb2hmZDV1RGFZUmdOQXlSUmQ2YjlkckdDUzJHVldEck54TGk4dFBFb055NUhBZTNZTEhpdEsyS0YyVVV4cnpTYllDRnEzbmQ2dW5IY2NPRnpzREtxdjBLc1ZzSHhvc3BYemhOX2hDcXhiVURnU3BmS2FWeG1hbDVRUFZ1QnFXajFIQmd1eDhsamFpMHNqdlRMZ3NLQXlrcDZFTEc5c2p1UkotQ3hjZ043LXYxYjdnWWJTVXg2VTlpZVBuNWxUTk1ITi00ZUZ4MTlwZ29WblR0Y0RwbHQ2bUdubTBsdjVJZWhLeVFpUDMzLWVvUVZHbjloNmFrRlZTSGpwQlZOMXc1QlEtcHpHVlhWakdac1BvRzBWVVk?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-16T23:06:10.000Z",
-     "seen": "2026-11-17T05:08:38.436Z"
     }
    ]
   },
@@ -349,11 +353,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "حادث العياط يكشف ثغرات منظومة أمان قطارات مصر",
+     "url": "https://www.skynewsarabia.com/middle-east/1905247-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D8%B7-%D9%8A%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%86-%D9%82%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T08:07:33.000Z",
+     "seen": "2026-11-17T08:08:53.531Z",
+     "impact": "يمس مباشرة أمن وسلامة تنقل المواطنين اليومي عبر شبكة السكك الحديدية المصرية."
+    },
+    {
      "title": "غارات إسرائيلية وعمليات في غزة ومقتل سيدة في الضفة",
      "url": "https://www.skynewsarabia.com/middle-east/1905288-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%BA%D8%B2%D8%A9-%D9%88%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B6%D9%81%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T07:53:25.000Z",
-     "seen": "2026-11-17T07:58:53.423Z"
+     "seen": "2026-11-17T07:58:53.423Z",
+     "impact": "يلفت نظر المستثمرين إلى استمرار المخاطر الجيوسياسية في المنطقة وتداعياتها المحتملة على الاستقرار الإقليمي."
     },
     {
      "title": "جريمة مروعة في مصر.. مذيع يقتل طفليه",
@@ -361,13 +374,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T07:48:29.000Z",
      "seen": "2026-11-17T07:58:53.423Z"
-    },
-    {
-     "title": "مصدر عراقي: القوات في جرف الصخر أحرقت وفجرت مواقع",
-     "url": "https://www.skynewsarabia.com/middle-east/1905285-%D9%85%D8%B5%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A3%D8%AD%D8%B1%D9%82%D8%AA-%D9%88%D9%81%D8%AC%D8%B1%D8%AA-%D9%85%D9%88%D8%A7%D9%82%D8%B9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T07:32:00.000Z",
-     "seen": "2026-11-17T07:38:53.980Z"
     },
     {
      "title": "قاليباف يلوّح باستهداف منشآت أمريكية وإسرائيلية بمنطق \"الاستخدام المزدوج\"",
@@ -426,25 +432,25 @@
      "seen": "2026-11-17T07:58:53.423Z"
     },
     {
-     "title": "اليابان تتهم طائرتين يُشتبه بأنهما روسيتان بانتهاك مجالها الجوي",
+     "title": "اليابان تتهم روسيا بخرق مجالها الجوي وكوريا الجنوبية تنشر مقاتلاتها \"استعدادا لأي طارئ\"",
      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261117-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-17T05:02:37.000Z",
      "seen": "2026-11-17T05:08:38.436Z"
     },
     {
-     "title": "تحركات عسكرية روسية تستنفر اليابان وكوريا الجنوبية وتايوان",
-     "url": "https://www.aljazeera.net/news/2026/11/17/%d8%aa%d8%ad%d8%b1%d9%83%d8%a7%d8%aa-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d9%86%d9%81%d8%b1-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86?traffic_source=rss",
+     "title": "ميتا تمنح الذكاء الاصطناعي صوتا يتحدث نيابة عن المستخدمين",
+     "url": "https://www.aljazeera.net/tech/2026/11/17/%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-%d9%85%d8%b9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-17T04:44:16.000Z",
-     "seen": "2026-11-17T07:48:54.209Z"
+     "time": "2026-11-17T05:02:11.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
     },
     {
-     "title": "عودة تدريجية لحركة الطيران في الولايات المتحدة بعد ثلاثة أيام من الاضطرابات",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261117-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA",
-     "source": "فرانس 24",
-     "time": "2026-11-17T04:34:39.000Z",
-     "seen": "2026-11-17T04:38:39.173Z"
+     "title": "الذهب يحوم حول أدنى مستوى في أكثر من عام",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/17/%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d8%ad%d9%88%d9%85-%d8%ad%d9%88%d9%84-%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%81%d9%8a-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-%d8%b9%d8%a7%d9%85?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-17T04:52:34.000Z",
+     "seen": "2026-11-17T08:08:53.531Z"
     }
    ]
   },
@@ -464,7 +470,8 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOckF4MDluelNON3JERE1fTWQ3M3UxNVpIZG5yYnZpRTZRZjlTTTNqUkJaWG1Rdm5SbldxRldQb0tEamJuVTFoNVpDdmxWVm53YS1QenNzdEtJdGhSVmg0?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-17T03:30:00.000Z",
-     "seen": "2026-11-17T04:38:39.173Z"
+     "seen": "2026-11-17T04:38:39.173Z",
+     "impact": "ينبه المسافرين في مصر لمتابعة جداول رحلاتهم الدولية تحسباً لأي ارتباك في حركة الطيران المرتبطة بالشركة."
     },
     {
      "title": "اكتشاف جديد يشكك في دقة أعمار الهياكل العظمية",
@@ -485,7 +492,8 @@
      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNVE5fR0xaVnhlVnRDWmlPdm9nR3JnT0xkLWdWZ1V6TUlWZmo3eHBmNXU2WVQxeTYxVTd6M1c3QkkzNkVtd3J4ZUs4enZUR3VQWDFFaWNZM0M1VVRuRUVSUWNPMmo3VTJhSWEzYUV5OWNncTZXaklSTHZjcWIxQVRnOVJlMjdFR1JYVzRhNlJXS3VvbktTX2E1RlhuODJVNGVueXRaRFdqZnVjVnVlLTR2cEM0UW40R201RmdYakRiSmxXOGozaDkxTDVxNVFhbVozLWdwMDhWeTF6TnI0S2xfUmF3ZnlqOE5zSFdjLWFkTnpMUVBUbmRDUFZRZ3oyX19LZF9vY044RWQyMnAzR2QyTG4tUVBGMUg3MVNncHVxaG44LU9QcTduVzV6RnBma2lRYUFzcFNSbXJmcUdEZ3A0OVZ3Y3I3Y3lQajRUakRwWmtaRTU4NzlqSGFPcEpJSmpYRGVkOGxCWGpvTGhDblJoWm9jQnVMcHZoYl9MVnBFLVZJTE1DelY5ek9pOGxZVXdnaVVwNVBTSElBYlZJTEdWYVlzdzg2bGNRazQxRVdSYVdrUE5XcFZXWS1BeDFPMmdLUnE0c1RLZEtIU1otN043SmZxZFcyRzNKanRMTUZlazY2MWREd2ZlbC04UHRPTlJ4R2xiWkgwOW1aUFpCazBMaU1jRVg1N1BFQnQtZDhuN1pYYW5qNlBsX2ZzajJWT2ctci00VUk4SlFHYWcwZ2fSAagEQVVfeXFMTUgyRGU3RTJiX3BXM2xGaEFiWnhqeWVhT0ZnUFNCaTVtVjZleGJpU0QtM2p0RzBEaWRYZ01CcXk2UW9weHJHVWl5T3FvcTh6SW9iRE5uZXdBWFRnTmNpaG5DV05nblZIQ2hOXzVmSUFoZ2VTR2taQlg2UmJZdXdHTC1uQS1fb2JGUnNjQjZxQlBxZENjbHdaS25CUXRScUZ4M1BNYmt4ZW5WTTZkb2ZuenQzdU5YaUpyUkQzVTc2dTl5SFhaVGZQeGVNY3l6SE9lV0NvY0J5WXp5eWxIeU5WajZRcm1TNEJtaGJ6dnF4RUczZ0dmbDkwUlNTUENab3UwTktXZVVfWEpqMnB1ZnVFdElsOHRVZE01OXRzTkpSZW5uVS1JUGZ2UjZDTEFjZ0g3WmdNa0JOdHZLY2x5SWI1eEZXWE5GQ0MwckdNR0ZaQzRjWkhNV3NhTnJxVDR4THBoR0ZYanZRQ0JFaFR3aENwcVhmRHRHYWtRMXloTzlOTmhHblhFam5KbGFvZkw4R0dnbm9ocDZYcWcyZ1VqdjVrbzNJLVR4c2RiMnUxUHcxUzRpV3pVNFpTa0JnWllLWFVpM0lhMHNlSTRLODg3LVpRZi1IWFYybVpQMl9RLXhMYkl1QklPNm13cXJNV2NteUhKT1JkOFdoTlF1dmFKa2gydy1xTnJPeDQxR0pVZlhVMHVwRFJQZ3Z2aXc5UXRGakx4eW1EbmFSWHYz?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T01:00:00.000Z",
-     "seen": "2026-11-17T06:18:38.559Z"
+     "seen": "2026-11-17T06:18:38.559Z",
+     "impact": "يعزز وعي الشركات والمتاجر في مصر بأهمية رفع جاهزية الأمن السيبراني لحماية التعاملات وبيانات العملاء."
     },
     {
      "title": "الذكاء الاصطناعي.. الدفع مقابل المحتوى!",
@@ -566,6 +574,11 @@
    "section": "tech",
    "feed": "عالم التقنية",
    "error": "HTTP 403"
+  },
+  {
+   "section": "tech",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
   }
  ],
  "marketErrors": []
