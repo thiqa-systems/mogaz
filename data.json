@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:40:47.497Z",
+ "updated": "2026-11-17T16:50:47.728Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T16:40:47.497Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T16:50:47.728Z"
  },
  "markets": [
   {
@@ -27,9 +27,9 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5845,
-   "change": 0.85,
-   "asOf": "2026-11-17T16:30:48.000Z",
+   "value": 5846,
+   "change": 0.86,
+   "asOf": "2026-11-17T16:40:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -37,17 +37,17 @@
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 6674,
-   "change": 0.85,
-   "asOf": "2026-11-17T16:30:48.000Z",
+   "change": 0.86,
+   "asOf": "2026-11-17T16:40:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3871,
-   "change": 0.48,
-   "asOf": "2026-11-17T16:30:48.000Z",
+   "value": 3872,
+   "change": 0.49,
+   "asOf": "2026-11-17T16:40:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1016,
-   "change": -0.08,
-   "asOf": "2026-11-17T16:40:46.000Z",
+   "value": 1.1018,
+   "change": -0.06,
+   "asOf": "2026-11-17T16:50:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.21,
-   "change": 0.83,
-   "asOf": "2026-11-17T16:30:43.000Z",
+   "value": 93.12,
+   "change": 0.74,
+   "asOf": "2026-11-17T16:40:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7321,
-   "change": -1.29,
-   "asOf": "2026-11-17T16:40:49.000Z",
+   "value": 7307,
+   "change": -1.47,
+   "asOf": "2026-11-17T16:50:59.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63703,
-   "change": -1.78,
-   "asOf": "2026-11-17T16:40:37.000Z",
+   "value": 63697,
+   "change": -1.79,
+   "asOf": "2026-11-17T16:50:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بعد قليل.. رئيس الوزراء يفتتح المرحلة الثانية من مجمع مصانع هاير بالعاشر من رمضان",
-     "url": "https://www.youm7.com/story/2026/11/17/بعد-قليل-رئيس-الوزراء-يفتتح-المرحلة-الثانية-من-مجمع-مصانع/7622663",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T16:39:00.000Z",
-     "seen": "2026-11-17T16:40:47.497Z"
-    },
-    {
-     "title": "السعر على الخاص تكلفك نصف مليون جنيه.. حماية المستهلك يحذر من إخفاء الأسعار",
-     "url": "https://www.youm7.com/story/2026/11/17/السعر-على-الخاص-تكلفك-نصف-مليون-جنيه-حماية-المستهلك-يحذر/7622674",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T16:39:00.000Z",
-     "seen": "2026-11-17T16:40:47.497Z"
-    },
-    {
-     "title": "تحرك برلماني عاجل بسبب انتشار الحشرات داخل المدارس ومخاوف على صحة الطلاب",
-     "url": "https://www.elbalad.news/7184451",
+     "title": "ذهب وأموال وأجهزة منزلية.. تفاصيل جديدة في واقعة اتهام شخص وزوجته بالنصب في العمرانية",
+     "url": "https://www.elbalad.news/7184455",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:38:14.000Z",
-     "seen": "2026-11-17T16:40:47.497Z"
+     "time": "2026-11-17T16:49:30.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
     },
     {
-     "title": "تايلاند تتجه لإلغاء الرسوم الجمركية على الواردات الأمريكية ضمن اتفاق تجاري مرتقب",
-     "url": "https://www.elbalad.news/7184442",
+     "title": "هل يجوز للأب الذي يتصدق ببعض السلع شهريا أن يُلزم ابنه بالتصدق من ماله؟.. الإفتاء توضح",
+     "url": "https://www.elbalad.news/7184474",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:38:08.000Z",
-     "seen": "2026-11-17T16:40:47.497Z"
+     "time": "2026-11-17T16:48:58.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
     },
     {
-     "title": "الزمالك يتحرك لتأمين موقف المحترفين الأجانب.. ودفعة مالية جديدة للاعبين خلال أيام",
-     "url": "https://www.elbalad.news/7184446",
-     "source": "صدى البلد",
-     "time": "2026-11-17T16:37:47.000Z",
-     "seen": "2026-11-17T16:40:47.497Z"
-    },
-    {
-     "title": "وزير الصحة يتابع تنفيذ مشروعات السياحة الصحية.. تسجيل 986 مقدم خدمة على Tour 4 Cure",
-     "url": "https://www.youm7.com/story/2026/11/17/وزير-الصحة-يتابع-تنفيذ-مشروعات-السياحة-الصحية-تسجيل-986-مقدم/7622673",
+     "title": "وكالة الفضاء المصرية ترصد تطور مدينة المنصورة الجديدة خلال 9 سنوات.. صور",
+     "url": "https://www.youm7.com/story/2026/11/17/وكالة-الفضاء-المصرية-ترصد-تطور-مدينة-المنصورة-الجديدة-خلال-9/7622665",
      "source": "اليوم السابع",
-     "time": "2026-11-17T16:36:00.000Z",
-     "seen": "2026-11-17T16:40:47.497Z"
+     "time": "2026-11-17T16:48:00.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
+    },
+    {
+     "title": "رئيس البرلمان الإيراني ينفي اتهامات التخطيط لاستهداف مسؤولين أمريكيين",
+     "url": "https://www.elbalad.news/7184460",
+     "source": "صدى البلد",
+     "time": "2026-11-17T16:46:34.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقي رؤساء الشركات المشاركين في اجتماع المنتدى الاقتصادي العالمي",
+     "url": "https://www.youm7.com/story/2026/11/17/وزير-الخارجية-يلتقي-رؤساء-الشركات-المشاركين-في-اجتماع-المنتدى-الاقتصادي/7622664",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T16:42:00.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
+    },
+    {
+     "title": "محافظ القاهرة يوجه رؤساء الأحياء بسرعة الانتهاء من مشروعات الخطة الاستثمارية 2025 / 2026",
+     "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-يوجه-رؤساء-الأحياء-بسرعة-الانتهاء-من-مشروعات-الخطة/7622671",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T16:41:00.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
     },
     {
      "title": "رئيس الوزراء يتفق مع رئيس SandboxAQ المتخصصة في تقنيات الذكاء الاصطناعي على التعاون",
@@ -243,6 +243,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "ترامب يحذر إيران من استهداف واشنطن، وطهران تنفي التخطيط لهجوم بـ \"قنبلة قذرة\"",
+     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T16:43:40.000Z",
+     "seen": "2026-11-17T08:48:53.465Z",
+     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
+    },
+    {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPaFdWMUZzczBYSUtYcTVoTzhYS1k4TEZKU0VDQnROZWI1dlktWldaSHVBUEMzWFVLQ0ZqUnBMNndHYzU3a2g2ajROODJXcnFSWlhFQVFIaHpxRWtPMnhjd0QycU9seE1KcUxfV09VZFpGYXIzdzFVY1FtdHV5b2lzS3AyS0lnTUpiYUtkM0gwZk1GQTN6VEExbFFwZy1oc043endFV2JXSTJuSXItYjVFUDI3ZXlzT2I3clE2YkxGSG5fR01FdHplNVRBTVBQdE9BMGR1RlBIcTR4bzFNZXJwOElOMDZ0UWlFTThtSEg2SjJyNmZqZWxhRDYxN3NkWUYzOHlXT2t2OEItWjEtQnRFSXh2VFZhdHNYeGhnSzE1ZHhZUzRaQWZNQXc1SjJqUC1NRFQzaGEyTTlkOGdrczUtVF9ESXJzUm1QUDZrNDNMUEJYeEIxSS0wZ1Y1aGNTRGhwdkwxWkExTVlLRm9lVVN0MVZ6aHpwUHJhNVAyQmxSUk1DRWVaYVlWWlp3NUV6dGM3ZDhkQjVnUkVINTJDMUl3UnZmNG1XTlZQQkxuXzJnSTFjUUwyalpMN2lqTE5ad0dHVmNPTXRXVGJPaEs1djBQZHNHb0lQVWFNU3dVdTQ5ZldjTWZHckxr0gHiA0FVX3lxTFBjUTJPOEp1b1AwTWFoak54V0d2MVJQZVhPcm05clVyZDRuQ2JLZTBaYWZ4NnRsb053ZGRSUHZTZ2tNNWh1bTVoNEtJN0Y5R1lJYUVXSmdibm5hRjhadzFmMGJmTzJHNnQ0WGJib0RiT2xhZ1BGWlVZUm9wbzdWakpWSmpqYkVFRnAtcjZPRkczZGp2bUNJaUsyZzF6eXFwWmZ3SmtPV3pGR0xKdkR2R2xYS25xVkxsQVJmUlo2Y3RmRHFmNzBlM0pVaDJiU0phbGlsU2ZIUG8wQVlyaDJSMUdkTzljQjN5eDRGeExhaGd5ZkpwNnRROVNNNlI3czJEVEVFbjByVjlrak9ZSDdWTkh3SkhaazdlQ20wdlBsa3F3bm44Vl9TU1RYUE1JQkZQRVJlb0l5Y29STGNQUnNZenZaeHZtLURTdVkwTTJPcThaMWpkNll3anlvb3FFLXFkdkFGa2pZTG12Q0tBZnhTVjlPczdFa3l1eUZzZEFwTXBoemVfMTBMVWJZLU5taEM5Nk8xTkZyNzhPaHhSUDQ1T2Jubkl6XzY5U2N1OGFKc3h4MWF4d1dIVXd6N3NHZHpLZUVmSGhGNENoWG1hVlVORXR0YXpjdjZnRWNiVm9xN3NqZE1R?oc=5",
      "source": "اليوم السابع",
@@ -297,13 +305,6 @@
      "source": "البورصة",
      "time": "2026-11-17T14:50:20.000Z",
      "seen": "2026-11-17T15:50:47.988Z"
-    },
-    {
-     "title": "في اليوم العالمي للطفل: من يحمي أطفالنا من العنف؟",
-     "url": "https://www.bbc.com/arabic/articles/c9rkg0g7gyppo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T14:31:46.000Z",
-     "seen": "2026-11-17T14:40:48.186Z"
     },
     {
      "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 بعد ختام التعاملات.. آخر تحديث في البنوك المصرية",
@@ -417,6 +418,13 @@
      "seen": "2026-11-17T16:20:47.868Z"
     },
     {
+     "title": "في اليوم العالمي للطفل: من يحمي أطفالنا من العنف؟",
+     "url": "https://www.bbc.com/arabic/articles/c9rkg0g7gyppo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T14:31:46.000Z",
+     "seen": "2026-11-17T14:40:48.186Z"
+    },
+    {
      "title": "سنتكوم ترد على مزاعم إيران بشأن استهداف موقع رادار أمريكي في البحرين",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/centcom-denies-irans-claim-that-it-struck-us-radar-site-in-bahrain",
      "source": "CNN بالعربية",
@@ -436,14 +444,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T13:55:03.000Z",
      "seen": "2026-11-17T14:00:47.319Z"
-    },
-    {
-     "title": "البحرين تعلن التصدي لهجمات بمسيّرات إيرانية",
-     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T13:48:35.000Z",
-     "seen": "2026-11-17T08:48:53.465Z",
-     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
     }
    ]
   },
@@ -451,6 +451,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "جولة تمويلية بقيمة 500 مليون دولار لتطوير الروبوت الفرنسي المتعدد الأغراض «إينو»",
+     "url": "https://aitnews.com/2026/11/17/%d8%ac%d9%88%d9%84%d8%a9-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d9%8a%d8%a9-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-500-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%aa%d8%b7%d9%88%d9%8a/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-17T16:47:42.000Z",
+     "seen": "2026-11-17T16:50:47.728Z"
+    },
     {
      "title": "كاسبرسكي تكشف حملة تجسس تستهدف مؤسسات حكومية في آسيا وإفريقيا",
      "url": "https://aitnews.com/2026/11/17/kaspersky-shadowcloud-government-networks-asia-africa/",
@@ -542,13 +549,6 @@
      "source": "BBC عربي",
      "time": "2026-11-17T08:39:56.000Z",
      "seen": "2026-11-17T08:48:53.465Z"
-    },
-    {
-     "title": "الصين تستضيف قادة العالم في عالمها المذهل للذكاء الاصطناعي. إليكم ما لن يروه",
-     "url": "https://www.bbc.com/arabic/articles/c6grewvjxnnvo",
-     "source": "BBC",
-     "time": "2026-11-17T07:38:00.000Z",
-     "seen": "2026-11-17T16:00:47.731Z"
     }
    ]
   }
