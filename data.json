@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:01:05.488Z",
+ "updated": "2026-11-17T22:11:04.589Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T22:01:05.488Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T22:11:04.589Z"
  },
  "markets": [
   {
@@ -27,18 +27,18 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5817,
-   "change": 0.35,
-   "asOf": "2026-11-17T21:51:20.000Z",
+   "value": 5816,
+   "change": 0.34,
+   "asOf": "2026-11-17T21:59:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6641,
-   "change": 0.35,
-   "asOf": "2026-11-17T21:51:20.000Z",
+   "value": 6640,
+   "change": 0.34,
+   "asOf": "2026-11-17T21:59:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +46,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3852,
-   "change": -0.02,
-   "asOf": "2026-11-17T21:51:20.000Z",
+   "change": -0.03,
+   "asOf": "2026-11-17T21:59:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.1004,
    "change": -0.19,
-   "asOf": "2026-11-17T22:00:43.000Z",
+   "asOf": "2026-11-17T22:11:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.13,
-   "change": 0.75,
-   "asOf": "2026-11-17T21:51:30.000Z",
+   "value": 93.07,
+   "change": 0.68,
+   "asOf": "2026-11-17T21:59:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64232,
-   "change": -0.96,
-   "asOf": "2026-11-17T22:01:28.000Z",
+   "value": 64430,
+   "change": -0.66,
+   "asOf": "2026-11-17T22:12:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "خالد الغندور يكشف موقف ثنائي الزمالك من المشاركة في التدريبات الجماعية",
+     "url": "https://www.elbalad.news/7184880",
+     "source": "صدى البلد",
+     "time": "2026-11-17T22:08:04.000Z",
+     "seen": "2026-11-17T22:11:04.589Z"
+    },
+    {
+     "title": "البرتغال تقلب تأخرها أمام «ويلز» إلى انتصار ثمين وتحسم بطاقة التأهل",
+     "url": "https://www.elbalad.news/7184869",
+     "source": "صدى البلد",
+     "time": "2026-11-17T22:07:22.000Z",
+     "seen": "2026-11-17T22:11:04.589Z"
+    },
+    {
+     "title": "الجيش الكويتي: دفاعاتنا الجوية تتصدى حاليا لهجمات بمسيرات معادية",
+     "url": "https://www.youm7.com/story/2026/11/18/الجيش-الكويتي-دفاعاتنا-الجوية-تتصدى-حاليا-لهجمات-بمسيرات-معادية/7622938",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T22:06:00.000Z",
+     "seen": "2026-11-17T22:11:04.589Z"
+    },
+    {
+     "title": "حمادة صدقي: تجربة اليابان الودية مفيدة للمنتخب الأولمبي.. والمعسكر الحالي مجرد تعارف",
+     "url": "https://www.elbalad.news/7184874",
+     "source": "صدى البلد",
+     "time": "2026-11-17T22:05:19.000Z",
+     "seen": "2026-11-17T22:11:04.589Z"
+    },
+    {
      "title": "أخبار × 24 ساعة.. الصحة: لا توصيات بغلق المدارس أو رش مبيدات بصورة عامة",
      "url": "https://www.youm7.com/story/2026/11/18/أخبار-×-24-ساعة-الصحة-لا-توصيات-بغلق-المدارس-أو/7622854",
      "source": "اليوم السابع",
@@ -149,34 +177,6 @@
      "title": "حالة الطقس اليوم الأربعاء 18 نوفمبر 2026.. شبورة كثيفة وأمطار بهذه المناطق",
      "url": "https://www.youm7.com/story/2026/11/18/حالة-الطقس-اليوم-الأربعاء-18-نوفمبر-2026-شبورة-كثيفة-وأمطار/7622036",
      "source": "اليوم السابع",
-     "time": "2026-11-17T22:00:00.000Z",
-     "seen": "2026-11-17T22:01:05.488Z"
-    },
-    {
-     "title": "مواقيت الصلاة اليوم الأربعاء 18 نوفمبر 2026 بمحافظات الجمهورية",
-     "url": "https://www.youm7.com/story/2026/11/18/مواقيت-الصلاة-اليوم-الأربعاء-18-نوفمبر-2026-بمحافظات-الجمهورية/7622802",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T22:00:00.000Z",
-     "seen": "2026-11-17T22:01:05.488Z"
-    },
-    {
-     "title": "الرئيس السيسي: قيمة الاستثمار الأجنبي المباشر في مصر بلغت 18 مليار دولار.. أحمد موسى: حملات التضليل تستهدف الاقتصاد والشركات العالمية ترد على المشككين | أخبار التوك شو",
-     "url": "https://www.elbalad.news/7184785",
-     "source": "صدى البلد",
-     "time": "2026-11-17T22:00:00.000Z",
-     "seen": "2026-11-17T22:01:05.488Z"
-    },
-    {
-     "title": "طريقة عمل مربى التين في المنزل .. 6 أسرار لنجاحها",
-     "url": "https://www.elbalad.news/7184615",
-     "source": "صدى البلد",
-     "time": "2026-11-17T22:00:00.000Z",
-     "seen": "2026-11-17T22:01:05.488Z"
-    },
-    {
-     "title": "سباق الذكاء الاصطناعي يضع إنفيديا وأبل في مأزق بين واشنطن وبكين",
-     "url": "https://www.elbalad.news/7184561",
-     "source": "صدى البلد",
      "time": "2026-11-17T22:00:00.000Z",
      "seen": "2026-11-17T22:01:05.488Z"
     },
@@ -242,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الذهب اليوم الأربعاء 18 نوفمبر 2026.. بكام عيار 21؟",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOblZHVl9rNTJ0a2s4aktaUWlPZGZEb3pnUjctTTFsWHJaNkJXSlFtZEJOaVN0cm1qOHFNTmd0bmxRTzlGdEVkVDNINzNmQi1vb29HdExfMFZicncxUUNWb2JUYWYwdW1hN3J3dTJnbkxuRFlSLS1rZnJWODBVZnZDbWFGOTFhWmFKM0JNbWczRGVEOU5fbEdBV1dpUkRqS0tVRE5HY2NvTlg1QnBhU3BFQXdpNEJLY3lSQVVETUU4YVVrTWVEZDBVRnVLYlRrc19QRnUyckg3cGRLSS1NTXdBX0dnZXRzTENjdlhqU0tuUU10alVwWjhrVXpyM2I4TlZTMjZQS1otelBVV1UyUXFvc0YtYzdXMnJLSkwtN3lkcEo2a3UyWjFVWHExRzl1d0RjMkFOYXh3?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-17T22:01:33.000Z",
+     "seen": "2026-11-17T22:11:04.589Z"
+    },
+    {
+     "title": "ثبات سعر الدولار مقابل الجنيه فى البنوك اليوم الأربعاء 18 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOdzNUOTVJbFZwZDdnVDFmaDRBRWhIVlpVY3RjX01STkxCaERFclNmclVFVFdTT1FnUC1XNUdQNzBFM20zNWVqb05OWmVMQklwX0gwbzR4VVZlWlZuMWpteThzY1lpQjVmLVJmWkdPOE5ZVTFKUEJYSEtieVQ4SFZHeVBEdG9ZWEI2VkxWc3pEbzhQWHNJZ2pZc25Qek0yNEtydy1vd1FlQWNMVzUzV1l4M0h1NlpENTY2c3VWLWx6dWNOXzM4UUg5NjlqS3otd1BPMVhSM0VyQ1pienF5OXoyT1kwMGZpR0MzanMzbkZXdGxYUjYxMVc1SXNzUjNNQ19ld1M0Ym1HeS1nZ2Q3QjJWZ3pEVC1fSjV3ZDczMWJEMHR4NG02UlE5NUJVTkp4WG9fTldCVFE4TzVtNXlscTBpOTE2THVUU2dPX1JQZHZrNWpnanJ0a090SVg3Y0JDZm83TGxRRFkzLWpzZk94NkFiekNLbkhOLTV6eUQ1RWwwS0kySE5ULUdaand5VThGend5Vm0tb0FxbDV0RUpaRFV1TFhBWXlxWFJqSUp2XzBrNDBXM2xuM3dTOUF2ZEJUUGZTXzFzM0V0TjBJeDB5d1g3MEt2TVJCV1dMTmfSAdQDQVVfeXFMTnczTl9EZnVaSWpUUTFkUi0xcHBrZERfOUs0THVUTUh5X3Q3YWJrd2pxa25OVnZ3Z1Z5dnM2NkNmbUVxSm5VNGZUcWdDS2szanIzM3pITzZlTlA0OUFEd0NLblplWHVxX2dQQWRtWlZCVmx6VTBqc2RKWVE4dWk3Sm1oVU1VRnAzT0d4UlpHd1Z5VzltYjBfVHg5VHktaDlZZjUwNjJUSC1NM2l6YmZPZ3JNSlp1T1VUbm5JMFBYYm1wdjZEbkhLOU1HRTJTaU9UVmtaTmNUVTM0UU5fTEFPdVBqQ2xSUE9rbTRHVTd2TEUwMTg5UWNKWjNzM3dTVTB1cHF3TGp5bkFiTEduMVFnd0dkR040Y3lQcXRsYURhQm9NMmVmcG5fRm9RV3FrQV8weGY0RkpOS3l0QnZNRExmN21wQkw1Sm5NWEVIWnlFcW1vRTYwVkU1UDN6T09pT2lQYmZRaDkxam9HNWZFcmhVaTkyWkdMZHczeGdCYXdTT2RVS2pFY0ZuU0xRUnJ2OTNReElnMnhreGh4V3gzaTRONlVJNTJrVS00LVRFWWdrdHFkLTl2SVRqUXJqUkx6U0kxX1psTEp5MTdxTkhkal84b0REM19l?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T22:00:00.000Z",
+     "seen": "2026-11-17T22:11:04.589Z"
+    },
     {
      "title": "سعر صرف الدولار في البنك المركزي المصري (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TcEZmSHdOVGtTMi04SlZYbEZzNmNnbXNkUVp0cEVLa3FJbG1xZjBQN0NkUXJkMWNaZzJRbEJ5NDlGUm13U1Zn?oc=5",
@@ -314,13 +328,6 @@
      "seen": "2026-11-17T18:31:04.596Z"
     },
     {
-     "title": "53.67 جنيه سعر الدولار فى البنك التجارى الدولى اليوم الثلاثاء",
-     "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPdHhIT2JmajBUaFFJc0N0MkkyeXNwb1hBZW9RLVRieVY2TmZ3dmdqMExhdUpRVjVtcWozQ3l2MjZXTlJHVkhCU1ZjQzFPSXZxNVN0dzhlVjlvdGJVUkJQeFhPbjdlYzR5bFhpSEhRdzZsSWxEZHlWd1FaenJHZWNLNFBIU2gtT3BvTkFnaTB6U1N2TXA4SWR4eC04RDAyQlJsWjBNSWkxRWlxdkg5WXpTaW5SRlV4cUx0SHVOMEZuVEVaOTZrTUViTXhJa2ZyS3ltUG1sa0pJbG5nR2VJMXc5dEJyVXk1aE9rM3NoSjVuUVZuWTdMb1JjcW5RNk81a3pGM0Z5V1BsdFBUYW5vREdlNTZMNzI1dzZlcDc1VXlFdzJfR3k4cnp0dThaVTVmb3JYX25GTUxxM0Y0LTIxbWQ4aXdHYkVmZ25QMUhaRGtIWVRQMUU1QjJhQVNMQ0JMeFNMaWZwcFBtVGd1LUU0aW93bGpfRFQ3Q1MtNUF2bWhZTmc0bVZKNGdMcnFiWjMySHRjT3N0UjUyNWlmVG5vV25N0gGfA0FVX3lxTE90eEhPYmZqMFRoUUlzQ3QySTJ5c3BvWEFlb1EtVGJ5VjZOZnd2Z2owTGF1SlFWNW1xajNDeXYyNldOUkdWSEJTVmNDMU9JdnE1U3R3OGVWOW90YlVSQlB4WE9uN2VjNHlsWGlISFF3NmxJbERkeVZ3UVp6ckdlY0s0UEhTaC1PcG9OQWdpMHpTU3ZNcDhJZHh4LThEMDJCUmxaME1JaTFFaXF2SDlZelNpblJGVXhxTHRIdU4wRm5URVo5NmtNRWJNeElrZnJLeW1QbWxrSklsbmdHZUkxdzl0QnJVeTVoT2szc2hKNW5RVm5ZN0xvUmNxblE2TzVrekYzRnlXUGx0UFRhbm9ER2U1Nkw3MjV3NmVwNzVVeUV3Ml9HeThyenR1OFpVNWZvclhfbkZNTHEzRjQtMjFtZDhpd0diRWZnblAxSFpEa0hZVFAxRTVCMmFBU0xDQkx4U0xpZnBwUG1UZ3UtRTRpb3dsal9EVDdDUy01QXZtaFlOZzRtVko0Z0xycWJaMzJIdGNPc3RSNTI1aWZUbm9Xbk0?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T18:05:16.000Z",
-     "seen": "2026-11-17T19:01:04.644Z"
-    },
-    {
      "title": "هوانغ يكسر صمته بعد كشف \"خيانته\" واستقالته من \"إنفيديا\"",
      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOV8xd0dTVktNc2tsSGlJNE8tRjJXdmx6bTJnSXZsUEIySFNMcXVqQU9xMVg5enR0ZXkxbThvOUVWd1pJcThldGZmYkEtbHEyVDZTSDQzMkU2c1g0VTlCYXM3ejJkdVhHQnUxN1R5XzZMVmNseEN6OFNpUmpuS2g2TjEyZlRqVEVDNENOU3RPX3VEWnRSQ1JlaWtvZFdPVlRQMU5qVEVIMmk2Z3MzUEhZWUZtWmNHME5EeW03NDhlTWZsSEZEVlExcF8yQl9FcE83UTVUMnhndzh6SGtTbDBiNlJ2SENSRnozZHA2RHJXV25fRFdCOGktd0VNMkpza21OV0VDM2wtZ2t6Y0lzbGRzdmZQRDJOdnBxLV9wM2xySkRzY3Yzc0NxYXliV1JfRlFrbGc1Tnp5ZXBrZDRKeGdZelQ2Y1MyY3JPdl9Ua3VsejBSLUVGaUVWSFA3c0tBS21RMW5iUXRWdnhTRkNSQVVPRExNMDZiQ3d1dmE2RU9UbHc0ejUwV0FsTlE0blJGcGhMY3JndtIBmgNBVV95cUxPN1ZCZHdKQU54WVZrYTV4UEhJekczalVQVEVfWG1aZlhuLTViNURvQTdyNHRENTRtVG5tRWJvYWNlVHJuWGVTT2ktTlpjbGdfTk95TGowMF83bW9Xb3NLQlVIc05xUUlvamV0dlJpbDNmeUFHM3FyaEtKUUt2bC1vOGVrb3BoazZmSnpYMC1FS0dkOGtYTHN0ZjYtakdrWThoOGVZSjZvRVVEejNGNzFIdDJuRlR6YnBTNnVlTGR3MF9CZmM4RFRuc1AyMlRDQzRiS3puX05VUUlxOWR0U0prMHVnTkVwcHA3aEJPT1VTRkJIRVdaMDBPVG9qWTBUb092LUplQXBtMDZhVFBjTVRXODZQMGZKR1BCRjFQS2VQZnIzdmdpSlk2c2w4VnNfd3JaRlVZZzJGUGJnR2V5cGwwTHE3Mnp1THFfY2w1RldmdjZNd0I2S1N3TkxJZXE2SWxxeVVrWlZ3ajBUZ3NRQUE5Q0lBeUl3eE1ja3RodmZDM0hwOU1OakxmUlJlVnlwR2UzaXNPVnZXYXk5UQ?oc=5",
      "source": "سكاي نيوز عربية",
@@ -333,13 +340,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-17T17:18:00.000Z",
      "seen": "2026-11-17T17:30:48.184Z"
-    },
-    {
-     "title": "«الأكثر انتشارًا في الصعيد والوجه البحري».. تفاصيل اختفاء البوتاجازات العادية من الأسواق",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1WGtDVVUtVWVCX2tLeHdYV2phZDV5RlNka2RiRDBadV9hZnZDcDlid3poY0Y3SDFjWEw2d2huU1I0V1dySk5fdGZHX0tIYmF4dHA3Q1RKb2pVMmVGWFNZ?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-17T16:15:00.000Z",
-     "seen": "2026-11-17T21:41:04.587Z"
     }
    ]
   },
@@ -369,7 +369,7 @@
      "seen": "2026-11-17T21:51:04.443Z"
     },
     {
-     "title": "ترامب يحذر إيران من استهداف واشنطن، وطهران تنفي التخطيط لهجوم بـ \"قنبلة قذرة\"",
+     "title": "واشنطن تستهدف موقع إطلاق صواريخ في جزيرة قشم الإيرانية، وترامب يحذر إيران من أي تهديد محتمل للولايات المتحدة",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FcnJTdnBiLUM5NDc3dzdxT1lWaDdQWDdHMFljajJTWk9XV2pPRkszT0ZlaWVZTEJOVFpZRlRWSk5SaXRaV09zbVVZelA2QXZIMy1KbXF5VUl4WEVJVVHSAWNBVV95cUxOenY5OVVqMWhBcTY0TUItQmlMcktwUjU0ZXRqMHVZczBPYU5LN2FNVzh5RFJaS25lejZReGltRkpxYUVONFZGRS1sUHlvc0t4RmE0X2Y2MzhEZ041aktMSmFyYkk?oc=5",
      "source": "BBC",
      "time": "2026-11-17T21:20:51.000Z",
