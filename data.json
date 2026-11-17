@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:10:47.738Z",
+ "updated": "2026-11-17T17:20:48.201Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T17:10:47.738Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-17T17:20:48.201Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5840,
-   "change": 0.76,
-   "asOf": "2026-11-17T17:00:50.000Z",
+   "value": 5848,
+   "change": 0.9,
+   "asOf": "2026-11-17T17:11:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6668,
-   "change": 0.76,
-   "asOf": "2026-11-17T17:00:50.000Z",
+   "value": 6677,
+   "change": 0.9,
+   "asOf": "2026-11-17T17:11:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3868,
-   "change": 0.39,
-   "asOf": "2026-11-17T17:00:50.000Z",
+   "value": 3873,
+   "change": 0.53,
+   "asOf": "2026-11-17T17:11:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1017,
-   "change": -0.07,
-   "asOf": "2026-11-17T17:10:47.000Z",
+   "value": 1.102,
+   "change": -0.04,
+   "asOf": "2026-11-17T17:20:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.22,
-   "change": 0.84,
-   "asOf": "2026-11-17T17:00:41.000Z",
+   "value": 93.12,
+   "change": 0.74,
+   "asOf": "2026-11-17T17:11:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7338,
-   "change": -1.05,
-   "asOf": "2026-11-17T17:10:51.000Z",
+   "value": 7361,
+   "change": -0.75,
+   "asOf": "2026-11-17T17:21:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63839,
-   "change": -1.57,
-   "asOf": "2026-11-17T17:10:49.000Z",
+   "value": 63983,
+   "change": -1.35,
+   "asOf": "2026-11-17T17:21:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,45 +139,45 @@
    "title": "مصر",
    "items": [
     {
-     "title": "العراق يضع خطة شاملة لمكافحة تهريب النفط.. تحركات أمنية تستهدف شبكات التهريب ومحاسبة المتورطين",
-     "url": "https://www.elbalad.news/7184201",
+     "title": "الأهلي يرفع درجة الاستعداد لموقعة بيراميدز.. 3 قرارات من عموتة ومعسكر مبكر يلوح في الأفق",
+     "url": "https://www.elbalad.news/7184505",
      "source": "صدى البلد",
-     "time": "2026-11-17T17:08:45.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
+     "time": "2026-11-17T17:20:30.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
+    },
+    {
+     "title": "رئيس هيئة الدواء يفتتح اجتماع مبادرة مواءمة الهيئات التنظيمية للأدوية بشمال أفريقيا",
+     "url": "https://www.youm7.com/story/2026/11/17/رئيس-هيئة-الدواء-يفتتح-اجتماع-مبادرة-مواءمة-الهيئات-التنظيمية-للأدوية/7622722",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T17:16:00.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
+    },
+    {
+     "title": "رئيس رياضة البرلمان: المناصب تزول ويبقى الإنجاز ولا نجامل أحدا على مصلحة البلد",
+     "url": "https://www.elbalad.news/7184506",
+     "source": "صدى البلد",
+     "time": "2026-11-17T17:15:38.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
+    },
+    {
+     "title": "70 تسديدة في 4 مباريات.. أرقام هجوم منتخب مصر بتصفيات أمم إفريقيا",
+     "url": "https://www.elbalad.news/7184502",
+     "source": "صدى البلد",
+     "time": "2026-11-17T17:15:05.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
+    },
+    {
+     "title": "رئيس الوزراء: مصر أصبحت تشهد توطين العديد من السلع وتصدرها للخارج",
+     "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-مصر-أصبحت-تشهد-توطين-العديد-من-السلع-وتصدرها/7622714",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T17:12:00.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
     },
     {
      "title": "رئيس الوزراء: أصبحنا نشهد توطين العديد من السلع ونصدرها للخارج",
      "url": "https://www.youm7.com/story/2026/11/17/رئيس-الوزراء-أصبحنا-نشهد-توطين-العديد-من-السلع-ونصدرها-للخارج/7622710",
      "source": "اليوم السابع",
      "time": "2026-11-17T17:07:00.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
-    },
-    {
-     "title": "نجاح الفريق الطبي بمستشفى دكرنس بالدقهلية في إصلاح ضيق خلقي بحوض الكلى لطفل",
-     "url": "https://www.elbalad.news/7184479",
-     "source": "صدى البلد",
-     "time": "2026-11-17T17:05:14.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
-    },
-    {
-     "title": "إبراهيم سعيد يفتح النار على نجوم منتخب مصر: محمد صلاح ليس فوق التقييم",
-     "url": "https://www.elbalad.news/7184488",
-     "source": "صدى البلد",
-     "time": "2026-11-17T17:04:36.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
-    },
-    {
-     "title": "بدر عبد العاطى لإكسترا نيوز: تحركات لفتح أسواق أفريقية جديدة أمام الشركات المصرية",
-     "url": "https://www.youm7.com/story/2026/11/17/بدر-عبد-العاطى-لإكسترا-نيوز-تحركات-لفتح-أسواق-أفريقية-جديدة/7622700",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T17:00:00.000Z",
-     "seen": "2026-11-17T17:10:47.738Z"
-    },
-    {
-     "title": "مصر تجني ثمار الاستقرار.. فخامة الرئيس السيسي يعلن برنامج التحول الوطني لرفع إنتاجية الاقتصاد.. أبرز عناوين اليوم السابع غدا",
-     "url": "https://www.youm7.com/story/2026/11/17/مصر-تجني-ثمار-الاستقرار-فخامة-الرئيس-السيسي-يعلن-برنامج-التحول/7622647",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T17:00:00.000Z",
      "seen": "2026-11-17T17:10:47.738Z"
     },
     {
@@ -466,11 +466,25 @@
      "seen": "2026-11-17T16:30:47.327Z"
     },
     {
+     "title": "تعطل شبكة شديدة السرية داخل وكالة الأمن القومي الأميركية",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNm5fV0FZbF9yX3NJODBJc3p2eUUtUUprZVJ2TEVVa3ROSS10MkdWc1NVRnFMbEMya3kzRmFUM3Q5aGU0U2xOWG1xY3AzQ000MXI3Vk1TcEhGVW16cktLUW95QlFnV2lrck1zZ0U4VVpWcmt0TjlJWkN3RE1LLWpUcGhwdnRJMUwyRHhJM1c5OUprbnNNX2k0Qlg2TDBaaEJmWndiRC1xMDA1RmtUdWNQbk04NWNQV0tyVk45TzNlczNrejNTeWRFeVRHTU5VUlU2dlp4dHNtVjdUQmdFVU5adkhwemhYbS1Ub1FaUkl4eHRHeTBZZGp3U0V5Q1NlamRJUFprb1hLUEppWnR0eUhOVzNEem9wcDV3TmUta0pUcUFYNkY2MmFmLXd2bi1BZzUxeTdKSGVOQll1SEdaT3FCUVhqQnVZOUVLM0xhcGRCM1E4a25ZQndONDAwcDRlMEw5VkZYWVBDZkxKSDdvZUFJV3laU0VTRi1jeENhM2h1cVVNVm95eUlDVW5WN3o0VUVSOEhUd0xDR0drRTVWUjJVeGlPQkJoZEJCaFJfQUNwUEFaMEF0c2Vidkdta3YtVlZTQTE2UDJ0MVZJYVRFRmJQbkFQT2UtSmpyeE5Tck0wMXhjUdIB5wNBVV95cUxObUhjT3ZfUGhKMXFrUGxVVGVCN2Q5SFE4VzlMX2Qwc1lieEJ0QmwwOHFqblZDWnhEMGNESDYxRjBZcUtMSWRxRk5NY3dmZGxfb0ExcDRwLVg0TkxjdVhyLXN0SUtNQ29ERFFlYXJXajZLSnhoV0pPcjVCdzFNYXhLb0dlQjJXVUZ1NWJqSjJBM0xSam5Ma1pzTGZKV2hwU0NzM0hsLUVhUENVdnlQS0FnZGFRN2RoRVI1TC10WF85Zk1raXBkcnJPcUhzNzR5aG8zWGlrT09sdXBCLU1xWF9aUFdtS3djUFAyQi1FalI5cDlfWk5UcUdOQlhYRHYwZ1A3aHotVkZlbWVGT2d4dG5PQmFtRW02SFRDa2pXbHNSaGVLUmFCSVNvUXpfNVhKZXpNcjVYRGw5d3pUa3VudVdoZWc0c2JHb0JtYU04WnFhOUo2dFVvVjFZblJNWHFYS25aX1RFeEpsdVpLbnJRTnNvQTlSSGNHcXQtdS1SQ3k3N1VDd3hjZmV0X01SSm4xVExvb0RpUVJkVklwUkk5b0h3YzNaLWl4cUwxSldpRU9DWWVLRENYRjRRNVRIMWZ5dXRJM0NLaERRblp1aFRGcVU1TGRZaGV5eVhDVERPZmQ4eks3N19JUkE0?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T16:13:12.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
+    },
+    {
      "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
      "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-17T15:58:31.000Z",
      "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
+     "title": "الصين تستضيف قادة العالم في عالم الذكاء الاصطناعي المذهل في شنتشن. إليكم ما لن يروه",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04LS1LSXc4cXdaOVp4dkJ5c1hJYXc0RlQ5dFpYQU1DYVdCcWZOMDVFN3ZxdzI0dHhzSDVtYjBNekx6ZnNHY3F3YmVLYnpHTUs1Z0g4c09XcGIxa2EwRnfSAWNBVV95cUxNSEVzalljVjZvMnd6YWRtMHlHSVYwQ0MtLWhKeG96eHZCX0hoeVJQZnpKcFg4NVZoRlQzcnJESWtYeGRXeGRjNUItQ0tMVVVCeElsZ19WZmR6RGdjSDc1UEw5Zm8?oc=5",
+     "source": "BBC",
+     "time": "2026-11-17T15:45:37.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
     },
     {
      "title": "خطف وزواج أطفال وفقر: لماذا يُحرم ملايين الأطفال في نيجيريا من التعليم؟",
@@ -535,30 +549,11 @@
      "source": "BBC عربي",
      "time": "2026-11-17T09:28:28.000Z",
      "seen": "2026-11-17T09:38:53.655Z"
-    },
-    {
-     "title": "الزرع لم شمل الأسرة.. \"سماح\" تبدأ من بلكونة بيتها مشروع يجمعها بابنها",
-     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPVXgzcHh3TWMzR2Y2NlZGQUVza2VoNWQzVGtyWndCem9nVkhSbmIydk1LZnluTHh3dWVJUHI0S2IxbWtwalkxT2ttTTB3enhlZ1IyVTVld2w4bnY1NmswWjh0bHNDRXVZRG5Bd0ZUVXQxUTc3NjJ3T2RpN2R5LTNDV2xwcEY4XzNJREtJYzBSZEZMV3ZGXzR4RFk2OFlaNHh1VzVJUl9MZ1FNdTZ2T2x4NE5KSW9Sei1ER1JLbFlXWHY3akNteHlvWEZGN19TYXJJMFZpMFJKWnEyaVVPTFdVNXlkRElBZDJlNUE3aFdlZUJEUUhEVjFzT2YwZ2hxaUMzbVlGUkNCTHhNSE8yWUl5a1YyRnpyZl95ekdCMVpHRkFiOEhVZk1HMGFFSGVVRXVtMjcyZF9TVUtoSTlaREluaFJjZVp6bWV3VkFpQU12MTV5MjdCbnJpMlktbGdpcy1mNWRtYUpmeWZPMjhjQ211OGh2emplSVJTTUczOVZUY2NGZU5LbTNCODFlbDVDSVgzTGNXZHZnWWxZMkVNYkhudGhZUU4zUF9Lb0lvb096bFJuX21aMFdn0gGyA0FVX3lxTE1aaFR4Z0Y0bm9rU25pbVVmbElDb2pGZmRxSVRzQkdEQWVMemNKQU1FWjZMTXFRSFgyeGRubDRZTlI3eVFDN2JjVkpZUlhBckNiUnFRNnl2YzJUd0ZsTkQtNHNNNVc2SndJZzNIeWMzVHNNMGpoanFSUVZseEFjVDAwcmIwZEFjclB3UUdmQlBudXlaZU92eTBzZ0EwUWRVNkZMWVZkem1BU1RKRXQ1UXZUR2dKdHh3ZS05aEZMSklNZ0pvM0gteGM5ZVBzT2pmbURLbGV3allvM2xvOGhIVnBYM0xLc09KZG11bVBQS0NRWDRiVHJCQ05qaDNoOGdPNWZSTVpKOXBKRzBZc2hTeUtiQTBvOFdXbVFEQmxYRXNWMEZ3eWo1bXdRM1pVekhaOWZUcXh5S2t4ZTY0NGRfLXN2QUhQNUJldnJwR05teTlZdzdLUTQ0VnAxNGcySUptdVd4Z3kxcGlyVW96cnhZSEhaUHhvYkFTNmp0b09xMFZBdVBLYk5OclRGaXR1d1NiWi04eWxzQ3FMUVRuN3BETEVoY1FnUHZqanVxM0twdFN1R2dR?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T09:00:00.000Z",
-     "seen": "2026-11-17T14:30:47.654Z"
-    },
-    {
-     "title": "نمو غير مسبوق منذ أكثر من عقد.. سر الإقبال على تأسيس الشركات في ألمانيا",
-     "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNdTU2el81Ym5CMUNYNEh3R1M4M3dKWmJYRVA4TzNfUjhCS1YzT0NHZlh5Rmc3eFgwejdUUndyZFFGNGs1djhTZ2t6Rk91ZW83OXRNVW9leHZqdjE0NGN6TkVtZzhuVTdmUVhIRmFxTGcweXo4Z0FQbVBQSEtRQTFFd0lyTmZhNlB0Y2Y4clZCWkdNZU5FUEl4d1NBNWF3cWtyODRaZDB1dzBxTjNXQWdCVkJOM1hCdG9HbWF4cDFFVHNGaFVzMEszOV9uZ2FNcVJ6MVlPZ0VVTzhxemRBbEV6eXJ3VW1uWFR4M1ViZXFuZC1odjczcXpvOF9IeEFGZnh6QnF6dER1eUU0TjF5ejB5MF9lQzNvV2Z0clo1UWFpbnlORTVoNk5EeU1weEIyTmo4WnljYy1Zb210eUQ4VDk1NC1QQVViZlBQaU5jOG5EWmpZMkUyeW5NWlotM1RQM0x5bzJLR0hzN2FZX2h4ZDd1UG91Qm5hWHBCcFlycFlDdjVwY2F6NXNRdG42ZThKTE9LMDRvUlpkMUttZXRNblNQamFXU0w0c2wtNlhPcUIxLTBVVFJ3TGhwN1RHM1FnTjFLd0l0NEEzR1lpNDg4ZDZVNkVvcThfM0JsRjNLc3FoaVd3ZXZDNnBXMTY1dWV0NGpqTHdrZnFjZWNBQS0yQ3RPVXN0eXplc3BQc2xhTWVfVnlLUk9vNm9zU2x30gGaBEFVX3lxTE1FOE1VX3hGS0JIZkJtaUpEY3NxLTJrODJWZDdvMzhlV0pqa3hndGszVTV2OWNkcl9STzJkdGUzWFg5dzQ5aERfV1VTVmNZa2FFaEJ4XzFjRXZ1amdMY0xiOWdBeHExQ19ka1VtSkRlbmVRbU92LUM4UlZhdG1zc19aQVd4X3Q4RlZxZWRFOVRhUS01UUNmbFYzTk14al9fUklFRTZLYUdMeVZ5U2NRbHFWVGdnTHpBd01Ld0o0OEVETWozNUZNRC1ZSkhkdUZINHNzZlhKRmhUcmZsNGhZR2lob0tzYXcwUlBCNkhzVkRlcmczQmdwNWswT2xVUmFBX1N2cTZxRkhvTXF2NF9RaDlrTXk5Q0p1Sng5eWVISzFlQVFVOGVGTkU1cUYxNEU5djB2TmhnVUtlcHFHaTNOVjNxNVhUV1MyUTl3TnJPN0FhamxfX1pfVjZhZjRHLUZOR2JFSWoyYVU1TzRfeWRmNmxFTC1iRDZuenRYbXltLUdyYXpGWGx3VHZYTzlzX2xmeG9vUlg4V3ktYzU0a0FyQ3VVYzJGWXZGaUhkbjlRRW94QS1CVjR1RnFmVk54U0VESkhKbm4xUU03bEtoRTg3eDJfTWllUldaa0l5MEhKTGFBMWhVMmpCeHpudENsaWpLX1Jnd2ZVVEZFTXczSm51VGlUWHpoNVE2SFcwUUtHNjNYVFFxRHM5N1pWbGc?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-17T08:54:46.000Z",
-     "seen": "2026-11-17T15:40:48.249Z"
     }
    ]
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
