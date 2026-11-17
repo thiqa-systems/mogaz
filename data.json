@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:10:47.481Z",
+ "updated": "2026-11-17T13:20:47.315Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -9,7 +9,9 @@
   "at": "2026-11-17T13:00:47.834Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-17T13:20:47.315Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5843,
-   "change": 0.81,
-   "asOf": "2026-11-17T13:00:45.000Z",
+   "value": 5837,
+   "change": 0.71,
+   "asOf": "2026-11-17T13:11:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6671,
-   "change": 0.81,
-   "asOf": "2026-11-17T13:00:45.000Z",
+   "value": 6664,
+   "change": 0.71,
+   "asOf": "2026-11-17T13:11:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3864,
-   "change": 0.29,
-   "asOf": "2026-11-17T13:00:45.000Z",
+   "value": 3860,
+   "change": 0.19,
+   "asOf": "2026-11-17T13:11:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0993,
-   "change": -0.29,
-   "asOf": "2026-11-17T13:10:46.000Z",
+   "value": 1.0988,
+   "change": -0.33,
+   "asOf": "2026-11-17T13:21:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.15,
-   "change": 0.77,
-   "asOf": "2026-11-17T13:00:43.000Z",
+   "value": 93.14,
+   "change": 0.76,
+   "asOf": "2026-11-17T13:11:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65021,
-   "change": 0.25,
-   "asOf": "2026-11-17T13:10:46.000Z",
+   "value": 64910,
+   "change": 0.08,
+   "asOf": "2026-11-17T13:21:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عمر هشام: انطلاق \"مينا تور\" من مصر يعكس قدراتنا على استضافة البطولات الدولية",
-     "url": "https://www.elbalad.news/7184148",
+     "title": "مدبولي يلتقي الرئيس التنفيذي لـ SandboxAQ المتخصصة في تقنيات الذكاء الاصطناعي",
+     "url": "https://www.elbalad.news/7184144",
      "source": "صدى البلد",
-     "time": "2026-11-17T13:09:56.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
+     "time": "2026-11-17T13:18:26.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
     },
     {
-     "title": "رئيس صرف الإسكندرية يتفقد 3 مواقع ومحطات لمتابعة كفاءة التشغيل وأعمال الصيانة",
-     "url": "https://www.elbalad.news/7184149",
+     "title": "محافظة القاهرة: إنجاز 72 ألف طلب تصالح فى مخالفات البناء بنسبة 82.45%",
+     "url": "https://www.youm7.com/story/2026/11/17/محافظة-القاهرة-إنجاز-72-ألف-طلب-تصالح-فى-مخالفات-البناء/7622352",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T13:18:00.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
+    },
+    {
+     "title": "الرئيس السيسي: الدولة تصرف حوالي تريليون جنيه سنويا على البنية التحتية",
+     "url": "https://www.elbalad.news/7184154",
      "source": "صدى البلد",
-     "time": "2026-11-17T13:09:53.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
+     "time": "2026-11-17T13:17:29.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
     },
     {
-     "title": "محافظ القاهرة: المناطق العشوائية كانت تمثل 60% من مساحة العاصمة",
-     "url": "https://www.elbalad.news/7184151",
+     "title": "\"الأعلى للإعلام\" يقرر إيقاف بث قناة \"الحدث اليوم\" حتى نهاية الشهر الجارى",
+     "url": "https://www.youm7.com/story/2026/11/17/الأعلى-للإعلام-يقرر-إيقاف-بث-قناة-الحدث-اليوم-حتى-نهاية/7622391",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T13:16:00.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
+    },
+    {
+     "title": "تنفيذ 40% من مشروع مركز متكامل لتجارة الجملة وتصنيع التمور والمنتجات الزراعية بقرية فارس بأسوان",
+     "url": "https://www.elbalad.news/7184140",
      "source": "صدى البلد",
-     "time": "2026-11-17T13:09:49.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
+     "time": "2026-11-17T13:15:25.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
     },
     {
-     "title": "التأمين الصحي يمد صلاحية تذاكر علاج الأمراض المزمنة لـ 15 يوما",
-     "url": "https://www.youm7.com/story/2026/11/17/التأمين-الصحي-يمد-صلاحية-تذاكر-علاج-الأمراض-المزمنة-لـ-15/7622314",
+     "title": "محافظة القاهرة: تلقينا 957 طلبا لتقنين الأراضى.. و310 منتظرة مراجعة طالب",
+     "url": "https://www.youm7.com/story/2026/11/17/محافظة-القاهرة-تلقينا-957-طلبا-لتقنين-الأراضى-و310-منتظرة-مراجعة/7622361",
      "source": "اليوم السابع",
-     "time": "2026-11-17T13:06:00.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
-    },
-    {
-     "title": "وزيرة البيئة تبحث تعزيز الدبلوماسية المائية وحماية الأراضي الرطبة.. تفاصيل",
-     "url": "https://www.youm7.com/story/2026/11/17/وزيرة-البيئة-تبحث-تعزيز-الدبلوماسية-المائية-وحماية-الأراضي-الرطبة-تفاصيل/7622338",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T13:04:00.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
-    },
-    {
-     "title": "البابا تواضروس يستقبل وفد مكتبة «أمبروزيانا» الإيطالية بالمقر البابوى",
-     "url": "https://www.youm7.com/story/2026/11/17/البابا-تواضروس-يستقبل-وفد-مكتبة-«أمبروزيانا»-الإيطالية-بالمقر-البابوى/7622064",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T13:00:00.000Z",
-     "seen": "2026-11-17T13:00:47.834Z"
+     "time": "2026-11-17T13:15:00.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
     },
     {
      "title": "«مدبولي» يلتقي الرئيس التنفيذي لشركة (SandboxAQ) المتخصصة في تقنيات الذكاء الاصطناعي",
@@ -258,7 +260,7 @@
      "title": "البورصة المصرية تستعرض تجربتها في الحفاظ على تصنيف الأسواق الناشئة",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aejFUT1B0OFFkRVRBVzZIRWlYLXdGZGIyRXN0WUoxMXVzbXhVelRwclJrQWhCYy1IUU9DSEpZUlZqZ1NQN0VVUHQxVkYyUGVBTlpWeE1B?oc=5",
      "source": "جريدة البورصة",
-     "time": "2026-11-17T12:46:22.000Z",
+     "time": "2026-11-17T12:55:49.000Z",
      "seen": "2026-11-17T12:50:47.508Z",
      "impact": "يعزز الحفاظ على تصنيف الأسواق الناشئة ثقة المستثمرين الأجانب والمحليين في سوق المال المصري."
     },
@@ -350,6 +352,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "فاتورة باهظة.. تحليل يرصد حجم الدمار المناخي في ألمانيا",
+     "url": "https://www.dw.com/ar/فاتورة-باهظة-تحليل-يرصد-حجم-الدمار-المناخي-في-ألمانيا/a-79970650?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-17T13:14:00.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
+    },
+    {
+     "title": "الشرطة الإسبانية تعتقل 14 شخصا ينتمون لمجموعة نازية بتهمة هجمات عنصرية",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261117-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-14-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%8A%D9%86%D8%AA%D9%85%D9%88%D9%86-%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%86%D8%A7%D8%B2%D9%8A%D8%A9-%D8%AA%D9%87%D9%85%D8%A9-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B9%D9%86%D8%B5%D8%B1%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-17T13:05:56.000Z",
+     "seen": "2026-11-17T13:20:47.315Z"
+    },
+    {
      "title": "غلاء المعيشة في المغرب.. أسعار ترتفع وقدرة شرائية تتراجع ومعاناة الأسر تتواصل",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20261117-%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D9%88%D9%82%D8%AF%D8%B1%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%88%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1-%D8%AA%D8%AA%D9%88%D8%A7%D8%B5%D9%84",
      "source": "فرانس 24",
@@ -362,13 +378,6 @@
      "source": "فرانس 24",
      "time": "2026-11-17T12:54:23.000Z",
      "seen": "2026-11-17T13:10:47.481Z"
-    },
-    {
-     "title": "تعاظم التحالف الروسي الكوري الشمالي.. دعم عسكري يثير قلق الغرب وكييف",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261117-%D8%AA%D8%B9%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%AF%D8%B9%D9%85-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D9%88%D9%83%D9%8A%D9%8A%D9%81",
-     "source": "فرانس 24",
-     "time": "2026-11-17T12:40:38.000Z",
-     "seen": "2026-11-17T12:50:47.508Z"
     },
     {
      "title": "واشنطن تنفي إصابة رادار أميركي بمسيرات إيرانية في البحرين",
@@ -439,13 +448,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-17T11:07:44.000Z",
      "seen": "2026-11-17T11:08:53.542Z"
-    },
-    {
-     "title": "قائد «نمور كردفان» يعلن انشقاقه عن الدعم السريع والانضمام للوطن",
-     "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNU2I3YlpBUXNnX1dSTVVjQ3Z0RklRbTMwSmZpYmM1VjI5WGg2MGJ3dEUxY2NGM3lyblRrR1IwLVFVVl9KalFfc0hWZFl4cC1EQU0xQ1ZiQmdpYmwzMEhfejBiWTFLbXJpUFdINExzV2F3TW9TTS1wRXltX2lmVEE4RnR0OXVvNmRvYkhmYWlwRE44dXU5bUdLbHVhdFQtOWM2NUVJem1wNUU4NkRJUXg0X0lfQU1RUjFBR1BEYlU1X0NwOXJKNTlUdXRhdFRhc2RLNDJnQktzeXdwcnRWVzdyTl9fWm5OT3gxVWlFeG8zSjR2NUkteWZHaEliUDFGdVN5SXlCbDVOMzRyT1h5RFlDV09XNTZaS0NySVV2QU9XT3k3WXdwaHN5dE43NlhBeGw4VEh3Z1VLWGUyUlZobjZZZGxCZ3BtOFdXM2pzY3gydGtBLWFacElKUUZHcTFVYnBQandpanAwNVFHYTQwaldZUlVqSXFRcTM3aGl0cXN0SGRJdkpZN2VfQ3lNWTVaNm9tbHR0M0NUaTVaUmVEaGo5QVVpZzNNQXBSd3lndng2YklvS2F5NDhtSE5ISUozUTZtcDNJdk94WURteGNTZ2FEM2pFS01TelJvZmprVDlEaTZuUEdXMVhuQXpGR21ESkdLc1oyVTg2RTh4dktuelhod3VwbGNnWE5rV19pWklWMW4zRUNYSGI00gGSBEFVX3lxTE5yUnU0Mkk0OTFzemZRSHVxOUh3OE5fTHk2eW5QMlBRYzlRdF9GWjMyME5JUmV5SUdzSGNRTlc2UlVWMWZzTVJldUpmMVNiOE5LNkpEeDl5aFJjS2hwRnFyZ0x5Yjg4Qy1UQjA3X3BpYWRJdk9hd1JLVUJQTzNfWVZoU0Rwc3hJWmJhaXhCdGtCWkFBdHBMQzVUbW1xU1J1aGt2QmFCTW1GbmJwUVF4VW1UWUtTaDRiR0NCV1lXcmRuODJSbFRabklvcVBLZGt5dlJFTmVqc2t0TjZCSGZ4QjlZbVhlZmlFRUE0X2hxQUliNVRBbGtSX3QtMC0wSk5oV0x6R2xvNDR6MC1lWTBidEVleHJtSXpXS1lwLXZlc0g2d1JfZ1Y1cnRRR1N3bDdyT2ZzNnBtbnlWaml6NllmNjJuc0c1aXB2cllxeU12bzZPQkE3VlU0WGtMQ0p3dnhBS081d2cwNVNpbURuX3o4bXNPbnpkZDdURVFHZVp2RWlvREx3VzJOT3hFVUZTT2pwTzZoc201OHBRN2JlYnM1enNKNTM0ZElXUUFKYnFMeVluamxVOVpLaFJPZjdRUnk2OTJrSTV4QlVHWVdUMU1Xd0dpa3R0SHdSMWFhelhJeFFNWHdfTlJRZ2hhUlE0anBWVzdISVlHRldCbUp0Y0RVMHByM3hXc0kyeUVDTWkwaHIycTB3?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T10:59:00.000Z",
-     "seen": "2026-11-17T12:28:53.311Z"
     }
    ]
   },
