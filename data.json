@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:48:19.432Z",
+ "updated": "2026-11-17T00:58:20.218Z",
  "minute": [
   "شهدت مصر تطورات بارزة شملت تدفق 546.7 مليون دولار من الأموال الساخنة على الدين المصري وتوقيع بروتوكول لإنشاء غرف لزرع النخاع بمستشفى مبرة مصر القديمة.",
   "أعلنت شركات استثمارية عن خطط لجذب استثمارات بمليارات الدولارات وتجهيز صناديق استثمارية جديدة، مع متابعة المرور للشبورة المتوقعة على الطرق السريعة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T00:48:19.432Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-17T00:58:20.218Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.63,
    "change": 0.29,
-   "asOf": "2026-11-17T00:41:17.000Z",
+   "asOf": "2026-11-17T00:50:41.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5825,
-   "change": -0.35,
-   "asOf": "2026-11-17T00:38:23.000Z",
+   "value": 5828,
+   "change": -0.31,
+   "asOf": "2026-11-17T00:48:48.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6651,
-   "change": -0.35,
-   "asOf": "2026-11-17T00:38:23.000Z",
+   "value": 6654,
+   "change": -0.31,
+   "asOf": "2026-11-17T00:48:48.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3861,
-   "change": -0.65,
-   "asOf": "2026-11-17T00:38:23.000Z",
+   "value": 3863,
+   "change": -0.6,
+   "asOf": "2026-11-17T00:48:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0999,
+   "value": 1.1,
    "change": -0.23,
-   "asOf": "2026-11-17T00:47:45.000Z",
+   "asOf": "2026-11-17T00:58:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.12,
-   "change": -3.88,
-   "asOf": "2026-11-17T00:37:33.000Z",
+   "value": 92.06,
+   "change": -3.94,
+   "asOf": "2026-11-17T00:48:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64601,
-   "change": -1.08,
-   "asOf": "2026-11-17T00:48:34.000Z",
+   "value": 64586,
+   "change": -1.1,
+   "asOf": "2026-11-17T00:58:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "في وضح النهار.. شخص يحاول سرقة أجزاء من قضبان السكة الحديد بالدقهلية",
+     "url": "https://www.elbalad.news/7183677",
+     "source": "صدى البلد",
+     "time": "2026-11-17T00:49:03.000Z",
+     "seen": "2026-11-17T00:58:20.218Z"
+    },
+    {
      "title": "الهند ومصر تبحثان اتفاقية تجارة حرة.. مفاوضات مرتقبة خلال 90 يوما",
      "url": "https://www.elbalad.news/7183676",
      "source": "صدى البلد",
@@ -153,22 +160,15 @@
      "seen": "2026-11-17T00:48:19.432Z"
     },
     {
-     "title": "الكوارث تلاحق واشنطن بعد توقف رحلات الطيران .. شلل يضرب أكبر البنوك الأمريكية وتعطل الخدمات نهائيا",
-     "url": "https://www.elbalad.news/7183672",
-     "source": "صدى البلد",
-     "time": "2026-11-17T00:40:06.000Z",
-     "seen": "2026-11-17T00:48:19.432Z"
-    },
-    {
-     "title": "الأوقاف تطلق 10 قوافل للرحمة والمواساة بالمستشفيات ودور الأيتام خلال نوفمبر",
-     "url": "https://www.youm7.com/story/2026/11/17/الأوقاف-تطلق-10-قوافل-للرحمة-والمواساة-بالمستشفيات-ودور-الأيتام-خلال/7620049",
+     "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الثلاثاء 17 / 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/17/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الثلاثاء-17-11-2026/7620746",
      "source": "اليوم السابع",
      "time": "2026-11-17T00:00:00.000Z",
      "seen": "2026-11-17T00:08:19.669Z"
     },
     {
-     "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الثلاثاء 17 / 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/17/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الثلاثاء-17-11-2026/7620746",
+     "title": "الأوقاف تطلق 10 قوافل للرحمة والمواساة بالمستشفيات ودور الأيتام خلال نوفمبر",
+     "url": "https://www.youm7.com/story/2026/11/17/الأوقاف-تطلق-10-قوافل-للرحمة-والمواساة-بالمستشفيات-ودور-الأيتام-خلال/7620049",
      "source": "اليوم السابع",
      "time": "2026-11-17T00:00:00.000Z",
      "seen": "2026-11-17T00:08:19.669Z"
@@ -181,11 +181,11 @@
      "seen": "2026-11-16T23:08:19.486Z"
     },
     {
-     "title": "من مصر إلى العالم.. كيف عزز البابا تواضروس حضور الكنيسة القبطية في المهجر؟",
-     "url": "https://www.youm7.com/story/2026/11/17/من-مصر-إلى-العالم-كيف-عزز-البابا-تواضروس-حضور-الكنيسة/7620390",
+     "title": "فجر الأربعاء.. زخة شهب الأسديات تمطر سماء مصر والوطن العربى بـ15 شهابا في الساعة",
+     "url": "https://www.youm7.com/story/2026/11/17/فجر-الأربعاء-زخة-شهب-الأسديات-تمطر-سماء-مصر-والوطن-العربى/7620103",
      "source": "اليوم السابع",
      "time": "2026-11-16T23:00:00.000Z",
-     "seen": "2026-11-17T00:38:19.978Z"
+     "seen": "2026-11-17T00:58:20.218Z"
     },
     {
      "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي",
@@ -398,10 +398,10 @@
     },
     {
      "title": "فانس يعلن توقعه بشأن موعد \"انتهاء\" حرب إيران: ترامب \"لن يسمح بأن تكون أبدية\"",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/vance-suggests-iran-war-will-be-over-within-two-years",
-     "source": "CNN بالعربية",
-     "time": "2026-11-16T21:14:35.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDd3RXJWbmdNbV95eGN6MUQ4czdxTktwYVhiUlhicktjU1FiUUtHU0lWS3VrRkFUOFdXWDJLNlhrYXQwUE5Xcy1aYy1yOUdRWXM3ZnEyU0FFX0xoMnNWOGRCMXY5ZDB6Z1RWN3NveHdfbEhRMThwNjdJTmFCekNaVmNoRVoxXzBCdjFpbWJpSS02d0podVlfZTZHSXpZbXRDNk1tSl9CSzhyVWM?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-16T21:20:15.000Z",
+     "seen": "2026-11-17T00:58:20.218Z"
     },
     {
      "title": "ستنتهي حرب السودان.. فهل يكون ذلك بعد فوات الأوان؟",
@@ -451,6 +451,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "متى تتراجع أسعار الهواتف في مصر؟.. شعبة المحمول بالغرفة التجارية تجيب",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYWI3eTdHZUQ1QWY2QXlaU19BWER2X05Bd1dLOFA2cFZBdldIQTRtZTZINjh2LVNWRDJIYUVxd090VzRtem9zUjJXOHFCcWhrYU5sdmNaZ203clI1czRF?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-16T22:55:00.000Z",
+     "seen": "2026-11-17T00:58:20.218Z"
+    },
     {
      "title": "إسعاد يونس في صدمة بعد اكتشاف أن ضيوفها ذكاء اصطناعي: «كنت قاعدة مع هوا!»",
      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQckN6eEpIbk1rNmV2S1dxOWYyUC1JRjVUZVJLV003d20wWF9CaFJ5dGdQazNkMTVGRXBYVmhSQzFtMlM1bjNoTzJiRFFjOEs1alBTWTR0YkZsTW01SEQxX0lJZUxZMHVsSFJuY01vMmpRVE9EbjMtQjdIR3dnZTJiNXdYUUx1U3VfbUpRSWpUcDdQS2lCUHRmaVVpZ2pqRWxhdVU4b2NacUEzdlFFX0I1T2hzTy1mOFZuYUhFMTZabWVneG1ERkxienh5Vm9BQnVWNEtweVJXS2Naa0JWRzdrMERMUXpZc2tUZnRVWDBtOUk2b1RtQmJfLXJ5dFhvTHY5Ti1oZGg3R281dUxrZldLSmp1clFWUXRMS01HTUdoWEhrZmpyVW80N3doOWp1bkxWN1NwallPaGV3Z3dJMEtINjVIRi1NZl9zak9DMHlkNUVhTGhoaWFXM0Z6X2x6b2JkTWpMSi1CaHdwM2tFMWlONEw0azJLcE1YN1ltVEJYQ1ZHZ3VQNzJZeVBUSzVfZXprS1dicGsxOXRvSDBBM3YzOEEtSXB5R1RtTnljdGx2Y2tLcVBaZEJxb3lfdWrSAboDQVVfeXFMTjlyM2xSMEJMcHNSVXRWSHhlN0Vja0pTWDlEVHVhQWZNUUs3WXQ3QVItY2piUkRZeUxaTC1HczZ2bzllQWh0ZjQxTTNoeXdtMlY1Q1RnSGRkQ0RjSjhBSG55T0lFVzdJazJRc3NWVWlQUjhXd0N2LXJPT3J4VFF3cWNYRVVPWnhsZ3VjR05xcDVVanJDOTNGcndUTUxUTGV3d0pEVUNSRGpJaC12RXBpR3VxaHlXdTY1T0FvckpMOGhmamhYUEpKSTFyeGhnMUFrSENmV2N6RTlta3lVSnZSUUdQc2lNejQxV1dWWWxEQkpwelc0WXoxMkI5TllLemV3VTNJNTNHdlNHNEVBdko2SEhqd1ZrTmJiOGpuOE5OZFVsZXdHeEk4REJMZ2txWGV3aHpTaDc3RWZDOG05SmZhWFMxVnE4NENUa0xPcEVzVXJaU0l1cjRzYXluMU5jMEdCS0ZLem53VFE1c0p6MDIzVGw1a2NMTWk1N25BTk1vaGN3X0Qwa0I1RFhqTlRrS1BOVG1FNWJYOVBuVEpsS3ZaUHY2aEQ0VDhTTndGU1F0ZGtoS2pEdHM2anhEZw?oc=5",
@@ -545,32 +552,20 @@
      "source": "الوطن",
      "time": "2026-11-16T13:52:00.000Z",
      "seen": "2026-11-16T22:28:19.794Z"
-    },
-    {
-     "title": "ملايين الصور لفلسطينيين.. هل استخدمت إسرائيل أمازون لرصدهم؟",
-     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPanByUTZuWm1TaWpZb1Bxay1uOTNVbHh6RDRrYkVRLXAtcXVac195dTV1S2ZCdE9abEt1V09qa25LcXBXOXQ3M3p3TUM1MlRQdlBZWERCLU9NWlF1YVNGa2RYblJkX2JHY1BGYTY0RHZEWXdzRHUwbUIyQWpwUnRWT0RrREdtdUxINUdiVzRQRGtVMWFWcU5vVWFhM01TWVFvWnhseE4yMnZkbVF0ZHhxcjZxM19yMTN5WmZPcEU1QlI0X0VwelFYS3hWQ0xITV9GT2F0a2RHaVlVMjV0WFNCWmhMVFZaUWhkdGM2cFV4Qk40M0hDUF9MaUE0ZmtDbmVrZVBXZi1uTXVsMEE5Xzc1SjRVMmhaeXhMbGVkdzliTFBVMEJEekVINDZFN3pVMkYtYkRZUXdWQmJtWkV6aG0yX0l4MDhWZzNPWFFnOWppS3VxdE9OcHNGWGZpT3JQY2w1VTZLTzM5WW9GQUNTOVJiQzVhUjMtbUtHR0s1WTBfYXExVzZTYUppSWlLbzUxX2tHZHVFa1owQ2lqTVQya3Z3bnE1V2twajktb0NVRjktX0RBU1plRE5NYjM4cTFnd0Q2U2d5bmlDMGVKNUFNcFRDTVFoWW5XWFhhN051UEFDY9IB5ANBVV95cUxQQVZLOXp0MENkZFRORHZkbE5KdVlRZVVVNjhrZEpkb2JFRm1aZEc4TXZHbkRlbmdHcHV6aFowaTE2ZklCWXl3UFNZUmk3MWdHeVdQZzhCSTRlNkFxSVJWbHhWaHRULVl3QlRFUTV0NTROSWU2LTdrNUdCclhSR1NMOTUtOGJGR2xzZkpxZF9LaXg0LTBmTGpfUkx3eXRXandlSXAwN3JFMklIZ0RGdVItLUFyX3Q3ZVhrQm44M3hkZXg4d2ptbm1fcHVLQ3dTdWVSNEZnUmtJLWRRNnhYT3lhWnBITy1aT05WbkNwRnNRNG0zSXRGa0g3V1RrdzF2R1EyMEdtMkhxRzFFMDA2OVdqeENGRkQxUTFLMzNUR3FOeUdwSUc4T2wxQ0VNaFd3SnJFS0ZKeGxsRjhRa0JHdk9sNzgxdUpiWFpRZHlRT0x0YzdBNFV3dlZSUElDZjFERDJ3djBKcFY3R3RkOFRzdkxVTGY3ejdkS0NUMHlFMmMtc1F3bXhYN1ZoVTF0TjRsZDgwWWlNR2N3WmtvR2I5TUQzcGY5SjhkZVZwY2w1RDZPS2VHQlBWVmU2TVVvSVVLUmhVeEpsT2JtTjBRX3N6dkhZdUxFOUl2NlpNa1Z6M0hFSjVQcUFn?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T13:07:55.000Z",
-     "seen": "2026-11-16T23:48:20.202Z"
     }
    ]
   }
  ],
  "failed": [
   {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
   },
   {
    "section": "tech",
    "feed": "عالم التقنية",
    "error": "HTTP 403"
-  },
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
   }
  ],
  "marketErrors": []
