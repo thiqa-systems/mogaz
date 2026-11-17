@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:51:04.684Z",
+ "updated": "2026-11-17T21:01:04.521Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T20:51:04.684Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T21:01:04.521Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5818,
-   "change": 0.37,
-   "asOf": "2026-11-17T20:41:06.000Z",
+   "value": 5811,
+   "change": 0.26,
+   "asOf": "2026-11-17T20:51:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6642,
-   "change": 0.37,
-   "asOf": "2026-11-17T20:41:06.000Z",
+   "value": 6634,
+   "change": 0.26,
+   "asOf": "2026-11-17T20:51:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3853,
-   "change": 0,
-   "asOf": "2026-11-17T20:41:06.000Z",
+   "value": 3849,
+   "change": -0.11,
+   "asOf": "2026-11-17T20:51:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1011,
+   "value": 1.101,
    "change": -0.13,
-   "asOf": "2026-11-17T20:50:47.000Z",
+   "asOf": "2026-11-17T21:00:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.84,
-   "change": 0.43,
-   "asOf": "2026-11-17T20:40:12.000Z",
+   "value": 92.83,
+   "change": 0.42,
+   "asOf": "2026-11-17T20:46:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7315,
-   "change": -1.37,
-   "asOf": "2026-11-17T20:51:06.000Z",
+   "value": 7341,
+   "change": -1.02,
+   "asOf": "2026-11-17T21:01:08.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63859,
-   "change": -1.54,
-   "asOf": "2026-11-17T20:51:03.000Z",
+   "value": 63963,
+   "change": -1.38,
+   "asOf": "2026-11-17T21:01:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خلاف على ملكية قطعة أرض.. الداخلية تكشف حقيقة التحرش بسيدة بكفر الشيخ",
-     "url": "https://www.elbalad.news/7184782",
+     "title": "شحاته السيد يكتب: امتلاك مفاتيح العالم لا يعني القدرة على حمايته",
+     "url": "https://www.elbalad.news/7184775",
      "source": "صدى البلد",
-     "time": "2026-11-17T20:50:21.000Z",
-     "seen": "2026-11-17T20:51:04.684Z"
+     "time": "2026-11-17T21:01:02.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
-     "title": "وزير شئون المجالس النيابية: تشكيل جمعية وكالة ضمان الصادرات بقرار من رئيس الوزراء لا يمس استقلال البنك المركزي",
-     "url": "https://www.elbalad.news/7184773",
+     "title": "يسرا تنعى شقيقة نجلاء فتحي بكلمات مؤثرة بعد رحيلها.. «ربنا يصبر قلبك»",
+     "url": "https://www.elbalad.news/7184799",
      "source": "صدى البلد",
-     "time": "2026-11-17T20:49:08.000Z",
-     "seen": "2026-11-17T20:51:04.684Z"
+     "time": "2026-11-17T21:00:17.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
-     "title": "2.3 مليون طالب بالجامعات الحكومية والأزهر.. و655.8 ألفًا بالخاصة والأهلية",
-     "url": "https://www.elbalad.news/7184771",
+     "title": "شكل ومواصفة أسئلة امتحان العلوم للمرحلة الإعدادية للفصل الدراسى الأول",
+     "url": "https://www.youm7.com/story/2026/11/17/شكل-ومواصفة-أسئلة-امتحان-العلوم-للمرحلة-الإعدادية-للفصل-الدراسى-الأول/7621999",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T21:00:00.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
+    },
+    {
+     "title": "هل تتأثر إنتاجية العسل بالتغيرات المناخية؟.. ارتفاع الحرارة يفرض تحديات على النحالين",
+     "url": "https://www.youm7.com/story/2026/11/17/هل-تتأثر-إنتاجية-العسل-بالتغيرات-المناخية-ارتفاع-الحرارة-يفرض-تحديات/7621802",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T21:00:00.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
+    },
+    {
+     "title": "هل يجوز شراء سلعة بالتقسيط ثم بيعها للحصول على سيولة مالية؟.. أمين الإفتاء يوضح",
+     "url": "https://www.elbalad.news/7184769",
      "source": "صدى البلد",
-     "time": "2026-11-17T20:48:10.000Z",
-     "seen": "2026-11-17T20:51:04.684Z"
+     "time": "2026-11-17T21:00:00.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
-     "title": "وفاة المهندس حسام عبد الرازق نجل رئيس مجلس الشيوخ السابق",
-     "url": "https://www.youm7.com/story/2026/11/17/وفاة-المهندس-حسام-عبد-الرازق-نجل-رئيس-مجلس-الشيوخ-السابق/7622883",
+     "title": "بعد عطل عالمي.. آبل تعلن عودة معظم خدماتها للعمل وتكشف تحديث داخلى سبب الأزمة",
+     "url": "https://www.youm7.com/story/2026/11/17/بعد-عطل-عالمي-آبل-تعلن-عودة-معظم-خدماتها-للعمل-وتكشف/7622898",
      "source": "اليوم السابع",
-     "time": "2026-11-17T20:41:00.000Z",
-     "seen": "2026-11-17T20:51:04.684Z"
-    },
-    {
-     "title": "خالد المغربي: تقنين أوضاع العاملين في التعدين يفتح الباب لزيادة إنتاج الذهب بمصر.. فيديو",
-     "url": "https://www.youm7.com/story/2026/11/17/خالد-المغربي-تقنين-أوضاع-العاملين-في-التعدين-يفتح-الباب-لزيادة/7622878",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T20:40:00.000Z",
-     "seen": "2026-11-17T20:41:05.180Z"
-    },
-    {
-     "title": "مصر تدين استمرار التوغلات الإسرائيلية في الأراضي السورية",
-     "url": "https://www.youm7.com/story/2026/11/17/مصر-تدين-استمرار-التوغلات-الإسرائيلية-في-الأراضي-السورية/7622869",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T20:19:00.000Z",
-     "seen": "2026-11-17T20:21:05.062Z"
+     "time": "2026-11-17T20:57:00.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
      "title": "مدبولي يشهد افتتاح المرحلة الثانية من مجمع «هاير مصر» ويؤكد: حريصون على دعم المستثمرين الجادين",
@@ -243,6 +243,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "واشنطن تستهدف موقعاً في جزيرة قشم الإيرانية، وترامب يحذر إيران من أي تهديد محتمل للولايات المتحدة",
+     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T20:57:14.000Z",
+     "seen": "2026-11-17T08:48:53.465Z",
+     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
+    },
+    {
      "title": "مبيعات المؤسسات تضغط على البورصة.. و”EGX30″ يقترب من اختبار 51.4 ألف نقطة",
      "url": "https://alborsaanews.com/2026/11/17/2007209",
      "source": "البورصة",
@@ -297,13 +305,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T17:45:16.000Z",
      "seen": "2026-11-17T20:51:04.684Z"
-    },
-    {
-     "title": "جيمس بوند: ماذا نعرف حتى الآن عن فيلم العميل 007 المقبل؟",
-     "url": "https://www.bbc.com/arabic/articles/c6pw42gl8njwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T17:33:07.000Z",
-     "seen": "2026-11-17T17:40:47.380Z"
     },
     {
      "title": "هل تضع أموالك في البورصة أم البنوك؟ خبير مصرفي يوضح أفضل توزيع للاستثمارات",
@@ -396,11 +397,25 @@
      "seen": "2026-11-17T18:31:04.596Z"
     },
     {
+     "title": "صحتك بالدنيا.. حيلة بعد الأكل تضبط السكر ومشروب شائع يخلصك من الدهون",
+     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQNkV6MkVLR3J3bThVVTl0RnBKRjJxTGF6cmhqZUFiVGhhRGxMbXk4ejNfSy13LVB0S00tSk42S3paTzU3VV9Eak9TQ1cyaWdBazJ4MHA1Nk51VEZndllfU3ByZE50ZFBTYXJMOEdaY3lwcXRrLUlvWVEtdXdCN3JHLTd1XzJWYkRDTkplVUFGRHBlVzFJWDBQMzhGUm1Xb0hhNUlFSElXWExvc0xCTHJUOXJMY2RpYVg2TmQ3MWRicVJVeGtXWFJhREs4ZnhWVUhHUEV2SkVUYzljb21Xb1hDam5jYWRYb3hRX2l5SENTUzljWnZBUExXM0NhMWF6VUZJaVo0d242bG1aME5LSWpRQml6S2RmbUJBUEdNQXBKTHpjUHhKS29GYnBTcl9Vb2JHRmd4SlJ3bm9mdF9BU2stdkJsdDhpN0ExSm82c29mejU3RFVTZlhwZnZPYktrLVc1QzlSMkJncDEzNS1uazZIQXVCLTNnX2Y2MHJQMlU5Z2VCOGpzMjQ4WkYwdnRUMmw4X1hIcFNPRnNPTUpEbi1ibEllb0lZQURsdTFTUUUybGFYVmtLZElkLVJIMzlab1hwUzdxTnU5c3F2d3JKUURzWHpabjdTdW5EdExOdDBHMNIB2gNBVV95cUxNOUc1VmQzb2pfWG1EaEZJSU02eHhFOUJYMEQ2UzRxQm0zQVd0MXZrT1B1bTY1bU1BTTNTU2JVS2tsaWZxYzQ3cVlsaTZrOGlVMTZVaDZwaVd4QmQwX0c0aTYtSHFyTEZDdVdkZ3JHdG5SLXNJQjVXQlZFOXhnbXBXX2tfQ3ExcmZudzRiV0U1ZmV4MktjRWRLZHktNGxoUy0tekdSM3ZMVG1CSmxMWld5UkhkNHRhTHNkVHN2aS1YbDZXQkZqelhUcTUwUzh0bHp3T01mdmtUeDN2V1RNM3FIUVh6U0M4ZS1HVU9BaUxGcW51X3ZWdG9nSVA1S1BtN0xMSXVtMXpLa1d6MjBDWC1OQklYbmIwQk01VUNwVi1nQy1WbTJsX29VWlJXNzRjOV9KN1ZIQ1NrOVZqb3lfZURJN0xQTFR6MXc1T1RjQ19oVVlSRlkwckd5aWJGSzhodWItaFZaNmllT2t2T29kUEYxdHFCZWNQTUZOQ3hMczJmOWZrcl9Xd1M0eTU5QWtudWF4SlcyYXVOMHllSEVWMjUwUHZRdUg0dFVvOE01RF8xVksyZmVyMHRjZ3kwR25QblJwZWt3MWdwd04zYmdPUC1pOTlKM05xWjN5YXc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T18:00:00.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
+    },
+    {
      "title": "مصر تضع حداً لإخفاء الأسعار.. نصف مليون جنيه عقوبة للمخالفين",
      "url": "https://www.dw.com/ar/مصر-تضع-حداً-لإخفاء-الأسعار-نصف-مليون-جنيه-عقوبة-للمخالفين/a-79967241?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-17T17:40:00.000Z",
      "seen": "2026-11-17T17:50:47.456Z"
+    },
+    {
+     "title": "جيمس بوند: ماذا نعرف حتى الآن عن فيلم العميل 007 المقبل؟",
+     "url": "https://www.bbc.com/arabic/articles/c6pw42gl8njwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T17:33:07.000Z",
+     "seen": "2026-11-17T17:40:47.380Z"
     },
     {
      "title": "تحديات الحرب والنزوح تواجه التعليم الجامعي في مأرب اليمنية",
@@ -429,20 +444,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-17T17:03:55.000Z",
      "seen": "2026-11-17T17:10:47.738Z"
-    },
-    {
-     "title": "البحرين تعلن التصدي لهجمات بمسيّرات إيرانية",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FcnJTdnBiLUM5NDc3dzdxT1lWaDdQWDdHMFljajJTWk9XV2pPRkszT0ZlaWVZTEJOVFpZRlRWSk5SaXRaV09zbVVZelA2QXZIMy1KbXF5VUl4WEVJVVHSAWNBVV95cUxOenY5OVVqMWhBcTY0TUItQmlMcktwUjU0ZXRqMHVZczBPYU5LN2FNVzh5RFJaS25lejZReGltRkpxYUVONFZGRS1sUHlvc0t4RmE0X2Y2MzhEZ041aktMSmFyYkk?oc=5",
-     "source": "BBC",
-     "time": "2026-11-17T17:00:45.000Z",
-     "seen": "2026-11-17T18:21:04.819Z"
-    },
-    {
-     "title": "لأول مرة.. المملكة المتحدة تفرض عقوبات ضد شركات إنشاءات إسرائيلية تعمل في بناء المستوطنات",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/17/uk-sanctions-israeli-settlement-construction-firms-for-first-time",
-     "source": "CNN بالعربية",
-     "time": "2026-11-17T16:59:22.000Z",
-     "seen": "2026-11-17T17:00:47.921Z"
     }
    ]
   },
@@ -486,14 +487,6 @@
      "seen": "2026-11-17T16:50:47.728Z"
     },
     {
-     "title": "ترامب يحذر إيران من استهداف واشنطن، وطهران تنفي التخطيط لهجوم بـ \"قنبلة قذرة\"",
-     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T16:43:40.000Z",
-     "seen": "2026-11-17T08:48:53.465Z",
-     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
-    },
-    {
      "title": "قراصنة يخترقون مواقع شهيرة لسرقة العملات المشفرة واستهداف مستخدمي آيفون",
      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOS2cxVUtFMi1DdUhCYVpDWGVvN29NOWlQR1N4ZmxuNUFRRnBXcVBBQ2prOHpHQUhFN0pFam9GdFNGdzJNZ2N5aS04WE9rRkIwbjZKT0piUndEWG84T2JuTjlKWXlEZFY0U2lWNG5CYU9ROWhaU2lQTm5TYUVmRjFKcHVMSU9ja1hlRTZyTGJhbGtScl9WMEEwR0g3Q18zaHhKbnRJZ0VaaEpVYUV4ODF4dHRmR0RxZFZpYkpQd2JtY1VtMGJBRFZfMGlEZUhkSVhkSGpSQ3BsQVUtb0xHWmxJTTB5Slc4eHJxd21DTmVlamlINzhkMW5tcW40bjdYbEtQekNNNS1ybTktTGlLRDhvQlU1ZTMtYS1DSkFZV3ktam5OaTNWa1dtNkdYNVlJTDF3TlJGb2l1QXJFRVFjdFJLTXF0MGowZ1JjOHJJMlh0anZleG1fV05sblhOdTR1dEhjcllVd0RmT0VvSHppLVozWWt0cEtXbXZfZWcxbXFoLXZRckRXQ2gweFhsLXE3MFR6NXI4WFA3dlJ5NHVrT2lZTmQ4VENiNnFZd0c4NHV3YnFQaU01Vzh4SHRXd084b0I3VzM0bVNmeXF2QVRTOVhoRk9UWmt4V0VRNkR5cW9CUnJfcm1sU2R2cV91alpteTNRNHFrcDA5UmlEWWZPa3Y5NXhTYlVtTkhQUUplQWVLeHFIamljZW55S2hzdDViMWlPWDFEZXdidjBGaXBqT3JZZmhSVFh1WWFpczhxUGUzU05RWEhDaVNYamZpOC1IS2lwNnZOVFoyQdIB0gRBVV95cUxNWHhoelRfTkM3Ty1OVV9BMHBSTFdwTmswY3BKMllzZEtrU1k4LXRCOWw0RXBhekdTZHVNd0ZGLWdwSnVOcEJDQjhfRkg3djBkMzR5eWtldTV0R0drTjZoRGh2bm5YczJQLU8yYjg4dkZ4TTFkSHFzamxEVFBhQzlVeC00cGpscjJLNDRGUDQtS2otQk95NXFLcGEwbUZFVHJZekk5Wml3QkVEa0NpOU04cjQ3MWp3Tkp3NzJXVkFhQVZrVXp6MFFKY2xjZ0lNLTViRkcxcEV5eFBhZjlSVlM3U1NZWTdpUUo5Y1ROTHZweDBSTXZrblJydDZFWjdrX3o4SjhfTS1aaFlYQTZ5N3RzR2JBWk5PX3JKUnpRN2YyM3BMTWNLQVJtOXoxRVl4NkJuYmk4QXBKYnZZZ0pNYXlBYTdIMXN3SXJ2VG5HbWo5LVdKa0tRaUpFck5jYnNkQ0hkSTk5QkFYanNXWC0wZlExVlBLLXlNUmFCVFJWNzItUmlDU1JtSzBUMTl4T1k1anhFV09ybHBmS2RHUUdFbkd6S3hEWW9UZ1k2cnhsRkljQkpnTXB5SDF5anFKS2RxcW5KUk9BbkhKc3pXY05XMHJLMkxwOUhKVUVlNXZnOGxqd1JYVUFST21XZ3hoeWtaVk1IS2JaYWpXX1Fhei1YeWg4M09TWUE4MVpXWnlza29FODh0aDJtMkZxZk01em5xOGJpWTBRVlUtQm53eTFERVRyTzdURjNydzdjVlJ6SmllcnlYTk95cEI3bkJUTG5NSlBRb2c?oc=5",
      "source": "اليوم السابع",
@@ -520,6 +513,13 @@
      "source": "BBC عربي",
      "time": "2026-11-17T15:13:19.000Z",
      "seen": "2026-11-17T15:20:47.639Z"
+    },
+    {
+     "title": "في اليوم العالمي للطفل: من يحمي أطفالنا من العنف؟",
+     "url": "https://www.bbc.com/arabic/articles/c9rkg0g7gyppo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T14:31:46.000Z",
+     "seen": "2026-11-17T21:01:04.521Z"
     },
     {
      "title": "قائمة هواتف \"سامسونغ\" المؤهلة لتحديث One UI 9.5",
@@ -553,6 +553,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
