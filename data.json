@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:38:39.205Z",
+ "updated": "2026-11-17T05:48:39.063Z",
  "minute": [
   "تتابعت المستجدات الاقتصادية في مصر مع استقرار سعر صرف الدولار تحت سقف 54 جنيهاً وتحذيرات تقارير اقتصادية من عودة الأموال الساخنة وتأثيرها على التضخم، بالتوازي مع تأكيد وزير الكهرباء عدم العودة لتخفيف الأحمال.",
   "وعلى الصعيد الخدمي والمحلي، أُعلنت مواعيد رحلات قطار تالجو وخطوات استخراج رخص تعديل الوحدات السكنية، إلى جانب توضيحات شعبة المحمول حول أسعار الهواتف.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T05:38:39.205Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T05:48:39.063Z"
  },
  "markets": [
   {
@@ -28,26 +28,26 @@
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 5859,
-   "change": 1.09,
-   "asOf": "2026-11-17T05:29:40.000Z",
+   "change": 1.08,
+   "asOf": "2026-11-17T05:38:41.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6690,
-   "change": 1.09,
-   "asOf": "2026-11-17T05:29:40.000Z",
+   "value": 6689,
+   "change": 1.08,
+   "asOf": "2026-11-17T05:38:41.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3886,
-   "change": 0.85,
-   "asOf": "2026-11-17T05:29:40.000Z",
+   "value": 3885,
+   "change": 0.84,
+   "asOf": "2026-11-17T05:38:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1012,
-   "change": -0.12,
-   "asOf": "2026-11-17T05:38:46.000Z",
+   "value": 1.1016,
+   "change": -0.08,
+   "asOf": "2026-11-17T05:47:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.58,
-   "change": -0.93,
-   "asOf": "2026-11-17T05:29:39.000Z",
+   "value": 91.75,
+   "change": -0.75,
+   "asOf": "2026-11-17T05:37:37.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64898,
-   "change": -0.62,
-   "asOf": "2026-11-17T05:39:38.000Z",
+   "value": 64871,
+   "change": -0.67,
+   "asOf": "2026-11-17T05:48:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -318,7 +318,7 @@
      "seen": "2026-11-17T05:08:38.436Z"
     },
     {
-     "title": "وفاة قطب تجارة المخدرات المكسيكي ميغيل أنخيل فيليكس غاياردو عن عمر 80 عاماً",
+     "title": "وفاة أكبر تجار المخدرات في المكسيك ميغيل أنخيل فيليكس غاياردو عن عمر 80 عاماً",
      "url": "https://www.bbc.com/arabic/articles/cw8r7j0rr0p8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-16T22:45:07.000Z",
@@ -512,7 +512,7 @@
      "title": "أعطال تقنية تضرب خدمات 4 بنوك كبرى في أميركا والسبب مجهول",
      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNN25oX2RJaUJDcnpNUDE4SUowdzRBdWQ4UmJGOEljREVMaG1fQVRfeWVlMHFuWGtUMXZ2TUhhTzlTc2hnNVZMdkt6bjlEV3k0UGFsU1lSeUx0ckhGVmRSWURKclR5VkZ0SjYxWjNLNFE0S0J5SUNhRDdlc1hZRnR2dVloWS1WWElIWXN3azFfNXJESWNsQjdvVVplZ2Q4ck03dmhtY0JLNTVGV25YeFNqdG4yWFFwaVdSWEFvWlJkVEdoRDlHUGVCSXFUQnczZFJfRU9JbTVWVWdSYjBGY1BFZHpWdzlZLU5kNFRsVERqN2t6OGpHVmNaZm0ydWlqM0lLOHU3UklTRVhfRDNyTGhlNHlqTEo1Uk9XTHZQSmVqR0Nrck91LWFJcDdnWEZweUdKcUloRE5ERmMycmVXV0Zfd2QxVXA1S1hLWnhoNU1NbEMweUpzZVdHMlV5R3c5emY5ZWswbjlwVFdMQnFhNkIwZnVMZW5yOHR6QnRvUzZCYWJDNkpsdHUzY3BFOGFObU5VbFV1MS15blNFU0VxV0J3X1VDbG9IN2NSM1E0X2ZDcGEtSlVkNXAybTV0WEpKVnJfQkIyZU50TmVqaWPSAdADQVVfeXFMTk12cVFzcjlXNkdsQXZsOFFFNFZkQWJ4YVRNZXVYTEVBMVF4ekViSnhzaXRoVGNGQkRtai1sQnU3ZzhHTnhYRkhTRndFeHZjUGswdm80RXZvX0ZfYm53aE5pRnY5ZzVuQ1d6RWpmWDA1ZE9ubzVfa3Z5bGpuRFJMZmJnQVBQbmV6Q0NfWGVTRG9YQWJHX3VXSTRqeGx1ZXhtYUNMTlh1dlY0V3MwbklEeTJFaFIyTUl0bl9fLVlYV2MtUjRObnFidEk1OUY2bnd1YTVyYkFRR01xSHAyS1AzRHhRQkh6dkNhUUF6YUh1ejhVejhza045dFJvMHhFOC1oeXZSQ1Z4RTRCSmhNeElpbzdxTlhobktfaWpwdGplZ0FsbGE2OXgxX3l6QkxFMXVvblFyU0pPSURqSlFFQzB6bzFSckV2dXRlby1WX0RJMi0tdUVpQm9kR2hScy04QXBkeHBScGtBSjhFUjU3c244Yks4d1hfTlV3NFpTWU8takY1YzlITjg4NXQyUk1YUmRyc09LRGlrRXFvWDd5Wmk0TUw2ZFhaZk4xRDFjN0d0NU90eFRSQWExMnhJV0s3NHNNeWFqN2F0UVUzMVhoZy1FcTc?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T19:37:06.000Z",
+     "time": "2026-11-16T19:38:50.000Z",
      "seen": "2026-11-17T02:48:39.129Z"
     },
     {
