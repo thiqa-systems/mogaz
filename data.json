@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-17T02:08:38.526Z",
+ "updated": "2026-11-17T02:18:38.853Z",
  "minute": [
-  "شهدت مصر تطورات بارزة شملت تدفق 546.7 مليون دولار من الأموال الساخنة على الدين المصري وتوقيع بروتوكول لإنشاء غرف لزرع النخاع بمستشفى مبرة مصر القديمة.",
-  "أعلنت شركات استثمارية عن خطط لجذب استثمارات بمليارات الدولارات وتجهيز صناديق استثمارية جديدة، مع متابعة المرور للشبورة المتوقعة على الطرق السريعة.",
-  "على المستوى الدولي، تواصلت الجهود الدبلوماسية الصينية لتهدئة التوترات بالشرق الأوسط، إلى جانب تحذيرات من رئيس الفيدرالي حول تأثير الذكاء الاصطناعي على سوق العمل."
+  "تعتزم الحكومة المصرية إطلاق استراتيجية جديدة للترويج للاستثمار الأجنبي المباشر خلال أيام، بالتزامن مع استقرار أسعار صرف الدولار مقابل الجنيه في البنوك.",
+  "أكد وزير الكهرباء عدم العودة لسياسة تخفيف الأحمال وجودة الاستعداد بسيناريوهات لمواجهة أي أزمات.",
+  "تطرقت شعبة المحمول بالغرفة التجارية لتوقعات تراجع أسعار الهواتف في مصر.",
+  "عالمياً وتكنولوجياً، شهدت بنوك كبرى في الولايات المتحدة عطلاً تقنياً واسعاً أربك حسابات العملاء."
  ],
  "ai": {
-  "at": "2026-11-16T21:48:19.588Z",
+  "at": "2026-11-17T02:18:38.853Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-17T02:08:38.526Z"
+  "key": 2,
+  "impacts": 8
  },
  "markets": [
   {
@@ -20,25 +19,25 @@
    "unit": "ج.م",
    "value": 53.63,
    "change": 0.29,
-   "asOf": "2026-11-17T01:46:55.000Z",
+   "asOf": "2026-11-17T02:14:41.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5836,
+   "value": 5835,
    "change": 0.68,
-   "asOf": "2026-11-17T01:59:04.000Z",
+   "asOf": "2026-11-17T02:08:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6663,
+   "value": 6662,
    "change": 0.68,
-   "asOf": "2026-11-17T01:59:04.000Z",
+   "asOf": "2026-11-17T02:08:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +45,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3868,
-   "change": 0.39,
-   "asOf": "2026-11-17T01:59:04.000Z",
+   "change": 0.38,
+   "asOf": "2026-11-17T02:08:26.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": -0.27,
-   "asOf": "2026-11-17T02:08:47.000Z",
+   "value": 1.1001,
+   "change": -0.22,
+   "asOf": "2026-11-17T02:18:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.76,
-   "change": -4.26,
-   "asOf": "2026-11-17T01:59:03.000Z",
+   "value": 91.71,
+   "change": -4.31,
+   "asOf": "2026-11-17T02:08:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64777,
-   "change": -0.81,
-   "asOf": "2026-11-17T02:09:00.000Z",
+   "value": 64646,
+   "change": -1.01,
+   "asOf": "2026-11-17T02:18:52.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -157,14 +156,16 @@
      "url": "https://www.youm7.com/story/2026/11/17/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الثلاثاء-17/7620754",
      "source": "اليوم السابع",
      "time": "2026-11-17T02:00:00.000Z",
-     "seen": "2026-11-17T02:08:38.526Z"
+     "seen": "2026-11-17T02:08:38.526Z",
+     "impact": "يساعد المسافرين في مصر على التخطيط لرحلاتهم وتحديد مواعيد التنقل بين أسوان والقاهرة."
     },
     {
      "title": "أرقام شكاوى النظافة بمحافظة الجيزة وطرق الإبلاغ عن المخلفات",
      "url": "https://www.youm7.com/story/2026/11/17/أرقام-شكاوى-النظافة-بمحافظة-الجيزة-وطرق-الإبلاغ-عن-المخلفات/7620370",
      "source": "اليوم السابع",
      "time": "2026-11-17T02:00:00.000Z",
-     "seen": "2026-11-17T02:08:38.526Z"
+     "seen": "2026-11-17T02:08:38.526Z",
+     "impact": "يتيح لسكان محافظة الجيزة الإبلاغ عن تجمعات القمامة والمخلفات لتحسين الخدمات والبيئة المحيطة بهم."
     },
     {
      "title": "نظر محاكمة المتهم بإنهاء حياة الفنان سعيد مختار للمرافعة",
@@ -247,7 +248,8 @@
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NdGNRbEYwNjlGTHF4LVJ5VlJIM3lkZlh5bXRoNzJZTGxBOVZjazd4QXdpT3NsclFRTFBLUVlVdDBYY1pI?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-17T02:02:32.000Z",
-     "seen": "2026-11-16T23:08:19.486Z"
+     "seen": "2026-11-16T23:08:19.486Z",
+     "impact": "يهم المستوردين والمستثمرين لمتابعة استقرار أسعار الصرف وتحديد تكاليف السلع والخدمات."
     },
     {
      "title": "بيرنهام: بريطانيا خسرت أكثر مما ربحت من بريكست",
@@ -257,25 +259,27 @@
      "seen": "2026-11-17T01:28:20.142Z"
     },
     {
-     "title": "سعر الدولار مقابل الجنيه المصري اليوم.. آخر تحديث للبيع والشراء",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMWpaQURRZzVQejg4YUtlOWJVVWo2OUkzLWxyNkhqUzJ6bGVOX19FNlJjQmt0aElGMC1ISzNVOWtSdS1EN3hJOWtnSGYxTTlHREZscUVnc3pCVWQz?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-17T00:34:45.000Z",
-     "seen": "2026-11-17T00:38:19.978Z"
-    },
-    {
      "title": "سعر الدولار لحظة بلحظة.. 53.63 جنيه شراء الأخضر فى البنك الأهلى المصرى",
      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNby1zS1VMOUJyaVZmVk9PQlU4NnZudkg4ZHd3STVGc2t6eEJsS19uclV3N1Jid3pWMnowdW9VeGdxc3hQQ0YtdmNXd3V4YWh5WnlEcmU1ZXpnUlIwX2dIM0VjNnpKWlNvaXFwUkwxQ1hRazdRUGJnUURiYTFmWW9GSXJwQ0FUbThHcnBESTlLRFZqTVFvZGNDZXJKREJ2bEZUaG45ZTVQaW5vdnIyNVZMbG5mZzlJVWhXM3hDWFJiRFRjU21CVUViNDJvYU5vU2IzQzFUNndoQ3k4U1BONk5teDdPdlBvTzh4aVE4dEZpZERSWWRPME5vMjdHQUM1d01ndmh3aENLSnd2MWZOc1ZPdlp4VVc2ZVNaYV9SQmc4SkNNb3ZzV0NKSHNvdnJtOEVFWmxINHRvWnNnZ29VU3ZCNFpUZXRmX2ZFdWgtWW0zUFpJaHdsOVB3SU5CdHhGV1lSSndrNU5yR3ZPUzd3YW8yYXJ1anNaSUdKdEpIR1RGNNIB_wJBVV95cUxNby1zS1VMOUJyaVZmVk9PQlU4NnZudkg4ZHd3STVGc2t6eEJsS19uclV3N1Jid3pWMnowdW9VeGdxc3hQQ0YtdmNXd3V4YWh5WnlEcmU1ZXpnUlIwX2dIM0VjNnpKWlNvaXFwUkwxQ1hRazdRUGJnUURiYTFmWW9GSXJwQ0FUbThHcnBESTlLRFZqTVFvZGNDZXJKREJ2bEZUaG45ZTVQaW5vdnIyNVZMbG5mZzlJVWhXM3hDWFJiRFRjU21CVUViNDJvYU5vU2IzQzFUNndoQ3k4U1BONk5teDdPdlBvTzh4aVE4dEZpZERSWWRPME5vMjdHQUM1d01ndmh3aENLSnd2MWZOc1ZPdlp4VVc2ZVNaYV9SQmc4SkNNb3ZzV0NKSHNvdnJtOEVFWmxINHRvWnNnZ29VU3ZCNFpUZXRmX2ZFdWgtWW0zUFpJaHdsOVB3SU5CdHhGV1lSSndrNU5yR3ZPUzd3YW8yYXJ1anNaSUdKdEpIR1RGNA?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T00:02:54.000Z",
-     "seen": "2026-11-17T01:28:20.142Z"
+     "seen": "2026-11-17T01:28:20.142Z",
+     "impact": "يوفر للمواطنين والمستثمرين معرفة سعر شراء الدولار المباشر في البنك الأهلي المصري لمتابعة قيم أدخاراتهم أو تعاملاتهم."
     },
     {
      "title": "«الحكومة» تطلق استراتيجية جديدة للترويج للاستثمار الأجنبي المباشر خلال أيام",
      "url": "https://alborsaanews.com/2026/11/17/2006959",
      "source": "البورصة",
      "time": "2026-11-16T23:23:39.000Z",
-     "seen": "2026-11-16T23:48:20.202Z"
+     "seen": "2026-11-16T23:48:20.202Z",
+     "impact": "يزود المستثمرين بالمعلومات حول توجهات الدولة الجديدة لفتح فرص استثمارية وتسهيلات مرتقبة في مصر."
+    },
+    {
+     "title": "سعر الدولار مقابل الجنيه المصري اليوم.. آخر تحديث للبيع والشراء",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMWpaQURRZzVQejg4YUtlOWJVVWo2OUkzLWxyNkhqUzJ6bGVOX19FNlJjQmt0aElGMC1ISzNVOWtSdS1EN3hJOWtnSGYxTTlHREZscUVnc3pCVWQz?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-16T23:09:57.000Z",
+     "seen": "2026-11-17T00:38:19.978Z"
     },
     {
      "title": "وفاة قطب تجارة المخدرات المكسيكي ميغيل أنخيل فيليكس غاياردو عن عمر 80 عاماً",
@@ -456,7 +460,8 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYWI3eTdHZUQ1QWY2QXlaU19BWER2X05Bd1dLOFA2cFZBdldIQTRtZTZINjh2LVNWRDJIYUVxd090VzRtem9zUjJXOHFCcWhrYU5sdmNaZ203clI1czRF?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-16T22:55:00.000Z",
-     "seen": "2026-11-17T00:58:20.218Z"
+     "seen": "2026-11-17T00:58:20.218Z",
+     "impact": "يفيد المستهلكين والمقبلين على الشراء في مصر لمعرفة توقيتات التراجع المحتملة في أسعار الأجهزة الذكية."
     },
     {
      "title": "إسعاد يونس في صدمة بعد اكتشاف أن ضيوفها ذكاء اصطناعي: «كنت قاعدة مع هوا!»",
@@ -470,7 +475,8 @@
      "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVU1oeHk3N2FiMVJvY2xYeXhzeExCeFVBM2RsWTJwSU5mZHYwOVFkY1RvT1lmUGhDSWlKTmhwa3hXaEoteEwwc3dtQVREZGdjYkZHUlVxU0RmZl91c3JKbFNCa2ZmOWNiYUFSVDVRVkV2TjI0dTBLZjk3VEFpNUNyLWVIYXZsMW52TnNIdjlYREYtT0VnTGNhSEpMZTA5SzhDWmxyZk5nSnJLalI0WlNBcF9TQ3N5VTRKZnFteEU5U1JzTFlTbWhUcEEzcDV4aUlBRDRmZTJ4N3lwTXFrRFB1VjlsX0tHcDZ5QmZjUXgxaDBENWVaNTNtVFpYRWE4N0RRU0R3VGVsZVdvMWNKaWxhQ1F4UHlCZHFfM2RSXzU0cTNPbERoUVY5RlhzVkN6WDlUNlhPanV0OFcwWmxtajlIQVFLRlhrQ2ppZ0QzVlc5MGN2RzJIcFZTTGU4VXROcTBZNnZyVVczaU1SRDRqRlYwaXhfdm54TDV2dzVyM2c3SWJHZ1Y2SGRJa3JYeVNTWTJGRWw4U1d6YnNsbHJ4LVBfR0FuSnBKcEF3VllrdzBaS2k0X1pvbUpZLXM2aUwzTERxLUxObFRSYWE1aFJyTXZGUFowVVp2YTBGMjlTdmpqX25hNF9sT1pjdm96RlQxdGtIWUhVTXdlM19zaDlreUZFbThpVGtsSGZ6OFVGbHdtZUltUDJxaER2OG5jQkE0WENfazhvVXBueEJRWVNzUXFnSlBaWHV0bWJLaHh2V1dkU3JfRjlHM2RHM3haQldpMVg2RF9lTloweWQydUdwNEJTaEdGdGMyQ09VRXfSAe8EQVVfeXFMTkhWSkRuX291ZGxvUDAxZGxTamRQaFJ4TGFkNFNwWElFRDZHdV9ZaWFMQXBzSEZIeWtJWG1pT09CRGt3RVpQa0RlbUh5NTFlM3pYaVpvMjF3bWpHZXdCNFhPT1lUSndPa2NrUV81Rmt3b1FtX1ZWVlFjUnp5Wmg4YTc0Q0l5Uy10ZG1HZkJrbzFoeG5UNzNWb2xHZEgtOFVGOHRLX2JNdUt3OHNmejZMR1JvM2c2UWwyUV9xRWRCeUpuM0p5REZvZWdEaDNZUlV3SnZOd2dsWG05ejRKVFVNb01pUmY0UlZlc0tNZndEVG5PWkZfeDBLWjJlV2NzOEhmcldBNURxVkZweEtrSktSMDdrUE5DdVRVbk9YTnRTUEUzclMzdXp6eDR0REhPSnA0cUVFSkF5YU1sZDlpYkdBWm1SV0FucjlrRzNCbWk0czJwalFJaU9pZVRKa2ZmVDBGel8zRk5HaXpYMnVpVFdfQXFPNGhXbnFyY2Y1cExEaTN5a25GZjNMUW5HYXBoNzEzZ1BwMHdVY2dmQ3NQNUUxTWEtM0RJb3RQZEcyMlY4SlVKMlVHaUFaS3VCMGVjdEhaZFFsVWdZODVBYzBLUkgwV040T0R5QXhIaG9saG5vSlMyTmtyYTdlNHRjQ2lpNlQxckRLOTVRd1JqZWRvcWpIYy1zVThjenNfb0R0WUY5aVFKeUZ1UEZRMXRUSmllMDZCd2VNTEFtUkZ5dDVMdTNoeEE3Zml2YmFQSWdydzhjOUMteVY4WUVxa09IWWlyNUlSTGtFcmpOeGJmTkRwQzZ1M01sc0pod3paZzk5NGFtVTQ?oc=5",
      "source": "Masrawy",
      "time": "2026-11-16T20:26:43.000Z",
-     "seen": "2026-11-16T22:08:19.426Z"
+     "seen": "2026-11-16T22:08:19.426Z",
+     "impact": "يطمئن المواطنين وأصحاب الأعمال والأنشطة الاقتصادية في مصر بشأن استقرار التغذية الكهربائية وعدم انقطاع التيار."
     },
     {
      "title": "عطل تقني \"واسع\" يضرب بنوكًا كبرى في أمريكا ويُربك حسابات آلاف العملاء",
@@ -478,7 +484,7 @@
      "source": "Masrawy",
      "time": "2026-11-16T19:51:25.000Z",
      "seen": "2026-11-16T21:08:19.974Z",
-     "impact": "يهتم المتعاملون مع المعاملات المالية الدولية لمتابعة أثر الأعطال التقنية في البنوك الكبرى على الحسابات والخدمات المصرفية."
+     "impact": "يهم المتعاملين في مصر مع المؤسسات المالية أو البنوك الأمريكية لمتابعة سلامة ومعاملات حساباتهم المالية."
     },
     {
      "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ\"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
@@ -561,6 +567,11 @@
    "section": "tech",
    "feed": "عالم التقنية",
    "error": "HTTP 403"
+  },
+  {
+   "section": "tech",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
   }
  ],
  "marketErrors": []
