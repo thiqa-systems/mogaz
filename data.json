@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:38:53.638Z",
+ "updated": "2026-11-17T12:40:47.765Z",
  "minute": [
   "ضبطت مديرية التموين في القاهرة مخالفات شملت مخابز ودقيقاً مدعماً ولحوماً فاسدة، بينما أطلقت وزارة الزراعة مبادرة لدعم مزارعي الطماطم في تسع محافظات.",
   "أعلنت هيئة الأرصاد عن استقرار الطقس وخرائط الأمطار، بالتزامن مع تأكيد محافظة الدقهلية جاهزية معداتها للتعامل مع الطوارئ.",
@@ -11,44 +11,44 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-17T12:38:53.638Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T12:40:47.765Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.7,
-   "change": 0.42,
-   "asOf": "2026-11-17T12:38:11.000Z",
+   "value": 53.65,
+   "change": 0.33,
+   "asOf": "2026-11-17T12:41:28.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5832,
-   "change": 0.61,
-   "asOf": "2026-11-17T12:30:35.000Z",
+   "value": 5824,
+   "change": 0.49,
+   "asOf": "2026-11-17T12:32:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6658,
-   "change": 0.61,
-   "asOf": "2026-11-17T12:30:35.000Z",
+   "value": 6650,
+   "change": 0.49,
+   "asOf": "2026-11-17T12:32:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3860,
-   "change": 0.19,
-   "asOf": "2026-11-17T12:30:35.000Z",
+   "value": 3859,
+   "change": 0.16,
+   "asOf": "2026-11-17T12:32:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0991,
-   "change": -0.31,
-   "asOf": "2026-11-17T12:39:46.000Z",
+   "value": 1.0995,
+   "change": -0.27,
+   "asOf": "2026-11-17T12:42:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.93,
-   "change": 0.53,
-   "asOf": "2026-11-17T12:30:22.000Z",
+   "value": 93.06,
+   "change": 0.67,
+   "asOf": "2026-11-17T12:32:36.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64888,
-   "change": 0.05,
-   "asOf": "2026-11-17T12:40:30.000Z",
+   "value": 64982,
+   "change": 0.19,
+   "asOf": "2026-11-17T12:42:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,31 +140,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الرقابة المالية تطلع وفدًا سودانيًا على تجربة التمويل غير المصرفي للمشروعات المتوسطة",
-     "url": "https://www.elbalad.news/7184093",
+     "title": "بعد الموافقة على قانون ضمان الصادرات.. مجلس النواب يرفع الجلسات إلى 30 نوفمبر",
+     "url": "https://www.elbalad.news/7184119",
      "source": "صدى البلد",
-     "time": "2026-11-17T12:38:35.000Z",
-     "seen": "2026-11-17T12:38:53.638Z"
+     "time": "2026-11-17T12:39:55.000Z",
+     "seen": "2026-11-17T12:40:47.765Z"
+    },
+    {
+     "title": "قرارات جديدة تحسم خلال ساعات .. كيف يجهز عموتة الأهلي لمباراة بيراميدز فى صراع صدارة الدوري ؟",
+     "url": "https://www.elbalad.news/7184105",
+     "source": "صدى البلد",
+     "time": "2026-11-17T12:39:08.000Z",
+     "seen": "2026-11-17T12:40:47.765Z"
+    },
+    {
+     "title": "القومي للمرأة ينظم اللقاء السنوي التاسع لوحدات مناهضة العنف ضد المرأة بالجامعات المصرية",
+     "url": "https://www.elbalad.news/7184099",
+     "source": "صدى البلد",
+     "time": "2026-11-17T12:38:50.000Z",
+     "seen": "2026-11-17T12:40:47.765Z"
     },
     {
      "title": "محافظ القاهرة يشدد على تسهيل إجراءات التصالح وتقنين أوضاع أهالي عزبة خير الله",
      "url": "https://www.youm7.com/story/2026/11/17/محافظ-القاهرة-يشدد-على-تسهيل-إجراءات-التصالح-وتقنين-أوضاع-أهالي/7622281",
      "source": "اليوم السابع",
      "time": "2026-11-17T12:38:00.000Z",
-     "seen": "2026-11-17T12:38:53.638Z"
-    },
-    {
-     "title": "رئيس مركز بلاط بالوادي الجديد يُسلّم موقع «المسجد البيئي» للهيئة الهندسية للقوات المسلحة",
-     "url": "https://www.elbalad.news/7184101",
-     "source": "صدى البلد",
-     "time": "2026-11-17T12:37:23.000Z",
-     "seen": "2026-11-17T12:38:53.638Z"
-    },
-    {
-     "title": "غرق ناقلة غاز مسال قبالة سواحل بلغاريا على البحر الأسود",
-     "url": "https://www.elbalad.news/7184115",
-     "source": "صدى البلد",
-     "time": "2026-11-17T12:37:19.000Z",
      "seen": "2026-11-17T12:38:53.638Z"
     },
     {
@@ -210,6 +210,13 @@
      "seen": "2026-11-17T09:18:53.724Z"
     },
     {
+     "title": "حادث العياط يكشف ثغرات منظومة أمان قطارات مصر",
+     "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQbG95aU9qcHdjVmtLU0psUDJKaVRzUUtmM3Jud01mYlhjY3dSVjlFcXNUZDJqLWFJR3JuSmtqQVpoSDd1VFRURWFULWpleUtTbXhRZUNXQzlhelpFeVNKYWh5ekhXRXdGQ2lnVTN5WEJxOTFyWXZMWEZQcEdQUDM5LUVIVmhZamR4QmNlUmRNYTd4VjJZS3p3VEJjWVBXbWxkYTA4MVRNc3JjOVhvMWp0SVFhZ2lzRHppZDFIVTY3T1Ftc0RyRGJrWTdVaXB3NU5rZnVVb1RfYW14ZU5YcWJCWEFCUWhfRThMbFdFNVkzWDNKN0pqYUtHWVhDUGNINldoUnNwR3VmN1o3OWFTR21WY1JhRE8zUjlYd0ZpTDAwQmVYZE1JdlZHVG8wblZBOThrX0Y0azdqMndaV2htNDNBVlZPd3g4VEZ0N3Z5UDFKenQ5TzdBUlZkVkd6bmFvejQ4eWJjQVJKcTBOOHBUNUkzUUhzMWZUT3dxR2lOQV9hM3luY0owelctWHJLTUpfXzRmeHNhMmxCV2fSAZ4DQVVfeXFMTTRqN2k0dS1zTU1zalppOVh2UzJRR2IzZHZiYmNmWWJBZmxGdlNsMDd0NW5XNzRIVWk1YmYxbUFyTVMxQWlzVG0yR0I4M0JRcUJ1TV8za05EWVFNekUyb2NvRVJHeFFOcktrVG0tNWRJWm1vS0padFJ0UU9oYWhmdExwZ055aGQ4U2VPS240MThDTEVGSmJZUkdxSHdvNFJfUDJvbDd6d0F3VnBFQ3F1eUNIRVpsZWxKU1Z0eVpPaE9YaERBYm1sX3B1elUtbDBhXzRHamdrUnZ1c0hyUENEUGNqcDRGaDhYZWpleDhiZjVtMXhCRW1HM1RrV2xpS0Z1X24xQm1ZNFIwU2dsTFhvcWN2YmxsUWFlVDlUVTdfcy1aOHZiVHpnZmtycGNOdDZYVTZFbmlyWkpFX1had3I4NE5RdGl3dFV3SXM2ZS1hN3FlQzEyaVJLZkxYMktyZGRQcTV0Tkd5VG9HdERhSld2QWR2dHY0VEo2OG1vRDR1NTVodUNlMklSUW9MY3hfbVpkdzRVZ3p3X29uY3JuemJR?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T07:52:27.000Z",
+     "seen": "2026-11-17T12:40:47.765Z"
+    },
+    {
      "title": "مارسا الرذيلة أمام جثته.. خيانة زوجية تحولت إلى جريمة قتل بشعة في المنيا",
      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxOUi1PWkxaYWpGOUVBVW1SemtFbkVDVWpKRndBeUZ0MnVUZm1hcHlKdFlFME5Yc3p0emgxWlJ3b1Z5aGdfNU91Vm1EeHJpYjlDQ2x4NGlrd0NQWEJBMEVLeFdYM3BOMzhjS0ZOOW15ZERzTlBBbklqRHI5dWRXTkF5VWVxMXFxSzMwSHJqVndJc0dnOVYtUi1XanR5MDl0UFJKejljWERsQjFzbXVycm1fMUdhaXR1bkhMWkRRckNQOUVSLTdqLWlKdmxSSTNNa2Q1ZVBYZE1WTVJQWmRheTVKbHpRM19VZXphbEZXa0ROdjRaMEJmck1xVm8yNlRJcUhhUWJuVnQwNUNpZkhtRV9FUnAtbTBoQ3NYTXd0RGNCbDVDaHlVZ1ExZUN2azNRM0lqaVZjTl9WZmpucENjcE1rYlZyc0JITkxNOVNkeDA4OWY0Znd0YlFLR1lOSVk1TmlGSmZWaTA1NDF1RmFxN2dWTVYtVW9KUHg5cHJSdmhMTzYyZzFIZHMyRHVHd2VHTVZ2ZnczMVYtNXNiTWd0djhxV3lGTHY5UzI2RVkzVm5TalJuNFFvRVBQRVdwaEdsbWpKaVgxTWwtdEdJdGktZzVqZWt3LWR2M2VBM09mZlFkekx0cktoWlZSQWdmbG05TlpZcFZJVWR2QjR1SUxYNnlzei1DbVhYREpoY1BMcHpJT2FwNmxidl9NblR4c2F1NG9jbHRtWWVybVgwcEswY1hwZHFpTUtEYklVNUpvWFFkTTdmYVNKMjhNNXA4U0t1OUFWend6cVNB0gHbBEFVX3lxTE9ScXJfaGdJNWVuUW5wVXJiUkh6LWtERW9rUGdyelJBSHZaX3pMNFdQRGZ5aHBSRThDaXBJTEJMb29SdHA1LUxyV2d1anBlQURjUWVpRWliRWVYTXZnM083SjdSN09zaHNMRzZrWFZ4NWlMcDZ1QUdSdXFpeFhpczZyRGdUZkRJNDU5UlRaNk1JQXJ1Y1lRSDVpR2ZoZ0NKNjRuNjZWazZmZWVyVElheW1fbE1Kd0YxU0Jicjd2QUw0LVJSXzlXaXlObWRnZEcxcWpLaTBmVmZYdHVDX0RpVnhJS01oaFlJTFVjU3VCNlhpbnBLZVlhTEs1a2NOenhRc0RwUFByRDFGdG9TU29vb1V3bmdPdkhJcGczR3RELVVBSEVtQTNEbVZENXFjNjhPSGxyTEh6RmdfUnJOVmdHTHJQdzVkbjZqeGNFcEF3WXBOZmt2LUk0cFNTejFuOWhNX2FzZFFvWGZwMXVuc3JtQzlheHhleXFXYjdnNGJHOWlyeTIweG5yRUxEQW0yMUZGYmY5Ulh5b2syaXczZ0xWTmxQNVYwb0hUNXVoTF9MbkxERzlCOXBaVmhuWkdnenI1M19aR3JlYVZSQzB2blpGQ3pNT1ZKOG5WOU5adXNLcWE2bUcyTGxxTl9kVFRBVEp0LUs3dFJpRmZDNnBTY2ZkSXBIWmlvSFFmMzdSbWR5cE5odGJLa0MtajhGN0ZFSTg3VzVPR2ZtVktDbTdudy1aYmFuU3dVbGRPQlZpMmZKeG0wRVBfREdDOFIwZW9rM1pYZzgzZVNnQXBDRHZ1NA?oc=5",
      "source": "Masrawy",
@@ -229,13 +236,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-17T04:52:00.000Z",
      "seen": "2026-11-17T09:18:53.724Z"
-    },
-    {
-     "title": "«يجب وضع خطة لإعادة تشغيل المصانع المعطلة».. «التجمع» يرفض مشروع قانون الوكالة المصرية لضمان ...",
-     "url": "https://www.almasryalyoum.com/news/details/4412752",
-     "source": "المصري اليوم",
-     "time": "2026-11-17T04:33:00.000Z",
-     "seen": "2026-11-17T12:38:53.638Z"
     }
    ]
   },
@@ -440,11 +440,11 @@
      "seen": "2026-11-17T12:28:53.311Z"
     },
     {
-     "title": "فجر اليمن\".. مواقع وتحصينات ومخازن الحوثي تحت نيران القوات الحكومية",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOWGdjQU1rcUtTVF8tNDk4eklyNDBxdk9zdGVxMXVFWFBaSkhiRDdwbFZJNzA5a2lJbnBFdEtRX3RNTmNVVE4tcVZGeW5DbF9LbmJBV2JNX3Znbml4bDROTUV1aWVTYTRDN1BQYnFwSUxqRmhhdEgxX3hmRWhnaXk4d3pMSEIxQTE3aWJUb0ZRQ2YtRkl6aWpKS2pwbkpfcFFDNU5EOXRrS0F2V290QzNTVm9FM1BTLXF0aVlHOEFaMnpMbDRGUjFBYk5ad3lSU29LU0RPMmxBd2FpbV9IZ2xkVmlNVnRLdUZmMWtKaUhJNkN1dTh5VVVnV2o0V0xVdmhFTkJzVm5CajZUM1VoWVZ2czJXRHlEV1RBeEdDV0ZVaGI2bXJpYlFNR1NqSXZZR3I4bTRUMjZZM2JTSmtqRGFSejFESkNzZkgxWE0zZmdOenRUU3o5MGdLaDdPSWVtSW1oTTZWQVFYQlROcHY1T2d6cUpMRkw5dlRsaVVDTEU2TGRIZ1VyYTFHcVNYenZtcUJaeDRscmstbGxhQnV6czAyaEliYmh1bTIyNlJ4eVh4eGlsZnBoZ2l6R2dxdFVYVHJVRmR6cTlaMHR0djZVMXNaS2ZJVGw?oc=5",
+     "title": "رئيس منغوليا يعلن التنحي.. \"تعرضت للتشهير زوراً\"",
+     "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOeFRscGtFYWxpYjM5VkhGTk5qWWdfVERrM0ppM1hOWlRjQjBvZk5Oc2lVYkNCc3hkWGZGd0FKbmJEYlhSYWhJOEFFN0hCd1dDdkxURWh0WkpjaDFUbkItbDMyRVBGMU5HX25jajdxcDhPdGFVSXR0dERrdGdFQk82Ul8wQWlsaFpXLVg0dXRjaDJTWVVzOFZaTnNWM1ZlRVFaUHpTNkpYOERFTVlyUF9WcjFiNGJIekE3eWQtTUpNRk9GM3lSaC1DbUFoQVJTcDF5ZW1hMWdvUlVmOXFBd2lzVmFqeVdWZjhJaHRwUXVCTzN2V1Fpd3FiRkd4cnhxU2V0SUlVZ25vRWVtWWFJMGVFR005ZTJ5MmRtQlVxWXJOTGZTWlBWQlVYQk5QTG9ZSkpoRlpLdjNxWExZRWpMdnpGZ2ljeDVxUmhnN25TM1lvdVFsQmxYMlVhak5IZ2tWX0RFSDNfRWltMkwzQk0xQkMyRks4RlBKVjNQbkt4OEVaTWFQYk5DalNmZGVNOU5RVU5YOFY40gGYA0FVX3lxTFBuem0yVlI1WDJ6RExlTUlReFZ1ZGZkUVhIaTZIbmZjTzR6MXFFLXI1U3NORG5TVnJBalFCaW9jMlR1VjJvVlpXMW1xblc1bWt4TThBOUlkei1Bb2tQOVlmMFp2Qmc1a3UtdTlFYjJyLTlOX1l4bVBJZ05Rb0poZ2ZNQ2tud3FhdURRcHFINXJlb2xkckRQNVBXeUEybkV5TVJHM29GUTZNc0U4MkV1UGREQUlJUUN2NGU3Y0NfTk42eGhoYl9wTkpfZloza1Q2dElmZnJuaUVtLWNsN3c0cTMtN1Y0R3YwaWJ0aUlLUFBBS3BFUGZlZy1VbjNudjc5c3VLblRjTnozOEtiSTdWaWpJZzBMMnY2ellwcExYY21TTVBRZHdmWmJHN1dxYW5aVzJoVTJCRnRIWkgtRUw4RHdNektzZVJpMGJqUkMxLWN6bEVER0FKSGdjSGZycHE3U1N6WWt3ZHlfZVpUX1hCeUZmOTE5NGdIWFFFeXNwQ1kwUXUtd2swNHVwZDdpMl95R1hIUm8xZEgxRQ?oc=5",
      "source": "العربية",
-     "time": "2026-11-17T10:56:00.000Z",
-     "seen": "2026-11-17T11:18:53.742Z"
+     "time": "2026-11-17T10:27:25.000Z",
+     "seen": "2026-11-17T12:40:47.765Z"
     }
    ]
   },
@@ -556,6 +556,16 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "economy",
    "feed": "www.bing.com",
