@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T03:48:38.783Z",
+ "updated": "2026-11-17T03:58:39.025Z",
  "minute": [
   "تشهد الأسواق المالية في مصر استقراراً في سعر صرف الدولار تحت مستوى 54 جنيهاً، بالتوازي مع توقعات إيجابية للبورصة وتحذيرات من مخاطر الأموال الساخنة على التضخم.",
   "أكد وزير الكهرباء عدم العودة لنظام تخفيف الأحمال وجود سيناريوهات للأزمات، فيما بينت شعبة المحمول التوقعات الخاصة بتراجع أسعار الهواتف.",
@@ -9,7 +9,9 @@
   "at": "2026-11-17T03:38:38.251Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T03:58:39.025Z"
  },
  "markets": [
   {
@@ -26,26 +28,26 @@
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 5847,
-   "change": 0.87,
-   "asOf": "2026-11-17T03:38:38.000Z",
+   "change": 0.88,
+   "asOf": "2026-11-17T03:48:25.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6675,
-   "change": 0.87,
-   "asOf": "2026-11-17T03:38:38.000Z",
+   "value": 6676,
+   "change": 0.88,
+   "asOf": "2026-11-17T03:48:25.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3875,
+   "value": 3876,
    "change": 0.58,
-   "asOf": "2026-11-17T03:38:38.000Z",
+   "asOf": "2026-11-17T03:48:25.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1008,
-   "change": -0.15,
-   "asOf": "2026-11-17T03:47:44.000Z",
+   "value": 1.101,
+   "change": -0.13,
+   "asOf": "2026-11-17T03:57:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.71,
-   "change": -0.79,
-   "asOf": "2026-11-17T03:37:55.000Z",
+   "value": 91.58,
+   "change": -0.93,
+   "asOf": "2026-11-17T03:48:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64955,
-   "change": -0.54,
-   "asOf": "2026-11-17T03:48:41.000Z",
+   "value": 64990,
+   "change": -0.48,
+   "asOf": "2026-11-17T03:58:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -242,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "خمس دول في الاتحاد الأوروبي تعلن عن إنشاء مركز لترحيل المهاجرين في رواندا",
+     "url": "https://www.bbc.com/arabic/articles/cw8dvqevm8n6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T03:50:39.000Z",
+     "seen": "2026-11-17T03:58:39.025Z"
+    },
+    {
      "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية أمام الجنيه",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NdGNRbEYwNjlGTHF4LVJ5VlJIM3lkZlh5bXRoNzJZTGxBOVZjazd4QXdpT3NsclFRTFBLUVlVdDBYY1pI?oc=5",
      "source": "جريدة الدستور",
@@ -337,13 +346,6 @@
      "source": "فيتو",
      "time": "2026-11-16T20:56:00.000Z",
      "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "تراجع سعر الدينار الأردني مقابل الجنيه في البنك المركزي اليوم الإثنين (أخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93VEgtMEp3RE1tYi1iQ0tDYld4ZlppMzVadUhmUHV0TmxONHVRaURtT2Z4TlRDcGNmU0VqSF9idXV6N3lJTDNF?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-16T20:39:00.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
     }
    ]
   },
@@ -351,6 +353,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "ضربات روسية تستهدف جسرين في كييف وهجوم أوكراني جديد على جسر القرم",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261117-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%83%D9%8A%D9%8A%D9%81-%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D9%85",
+     "source": "فرانس 24",
+     "time": "2026-11-17T03:56:24.000Z",
+     "seen": "2026-11-17T03:58:39.025Z"
+    },
     {
      "title": "السعودية تعفي قائد التحالف العسكري الداعم للحكومة اليمنية مع تقدم الحوثيين نحو عدن",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261117-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D8%B9%D9%81%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D9%86-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%87%D8%B1%D9%85%D8%B2",
@@ -394,6 +403,13 @@
      "seen": "2026-11-17T01:18:19.533Z"
     },
     {
+     "title": "عسكري أمريكي يتهم \"البنتاغون\" بـ\"تجاهل تحذيرات\" بشأن هجوم إيراني أسفر عن مقتل 6 عسكريين",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFduOFh1aWwtY05UNm5HUTJOSU5nTElBdktUdXd1SW1XbU41RnNSMEhqVmxhWjlRVGxyNXd6RFhPZGhiOTJZekx4Z0F6WG05VHZ3aWJJN0pzdUd0SE1RMUdZSUh2aVZ2aXNjbGJYeUUtakp3UlB2bEtQV1ZxeUkwbWJqWmdSTlZHVHlqb1p6RkpnQTNpMk5idURUTUFfTldRTC1wVE9QTEJ6Vzd1V2ZEeEZOcGFUZ052MWhnMm4yUQ?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-17T00:53:27.000Z",
+     "seen": "2026-11-17T03:58:39.025Z"
+    },
+    {
      "title": "ذكريات جونسون بموسكو.. بوتين رفض استقباله ولافروف أجبره على شرب الفودكا",
      "url": "https://www.aljazeera.net/politics/2026/11/17/%d8%a3%d8%ac%d8%a8%d8%b1%d9%86%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%b1%d8%a8-%d8%ac%d9%88%d9%86%d8%b3%d9%88%d9%86-%d9%8a%d8%aa%d8%ad%d8%af%d8%ab-%d8%b9%d9%86?traffic_source=rss",
      "source": "الجزيرة",
@@ -406,13 +422,6 @@
      "source": "فرانس 24",
      "time": "2026-11-16T23:26:22.000Z",
      "seen": "2026-11-16T23:38:19.896Z"
-    },
-    {
-     "title": "بكين: شي وترامب وبوتين سيبحثون \"السلام العالمي\" في قمتهم الخميس",
-     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261116-%D8%A8%D9%83%D9%8A%D9%86-%D8%B4%D9%8A-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%B3%D9%8A%D8%A8%D8%AD%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%81%D9%8A-%D9%82%D9%85%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
-     "source": "فرانس 24",
-     "time": "2026-11-16T23:05:15.000Z",
-     "seen": "2026-11-17T03:38:38.251Z"
     },
     {
      "title": "وفاة قطب تجارة المخدرات المكسيكي ميغيل أنخيل فيليكس غاياردو عن عمر 80 عاماً",
@@ -441,13 +450,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-16T21:06:10.000Z",
      "seen": "2026-11-17T00:38:19.978Z"
-    },
-    {
-     "title": "بغداد تمهل كتائب حزب الله للانسحاب قبل دخول قواتها معقلها في وسط العراق",
-     "url": "https://www.dw.com/ar/بغداد-تمهل-كتائب-حزب-الله-للانسحاب-قبل-دخول-قواتها-معقلها-في-وسط-العراق/a-79963732?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-16T21:05:00.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
     }
    ]
   },
@@ -563,21 +565,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
