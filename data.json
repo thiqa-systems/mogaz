@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:08:20.034Z",
+ "updated": "2026-11-17T01:18:19.533Z",
  "minute": [
   "شهدت مصر تطورات بارزة شملت تدفق 546.7 مليون دولار من الأموال الساخنة على الدين المصري وتوقيع بروتوكول لإنشاء غرف لزرع النخاع بمستشفى مبرة مصر القديمة.",
   "أعلنت شركات استثمارية عن خطط لجذب استثمارات بمليارات الدولارات وتجهيز صناديق استثمارية جديدة، مع متابعة المرور للشبورة المتوقعة على الطرق السريعة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-17T01:08:20.034Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T01:18:19.533Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5818,
-   "change": 0.38,
-   "asOf": "2026-11-17T00:58:20.000Z",
+   "value": 5816,
+   "change": 0.34,
+   "asOf": "2026-11-17T01:08:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6642,
-   "change": 0.38,
-   "asOf": "2026-11-17T00:58:20.000Z",
+   "value": 6640,
+   "change": 0.34,
+   "asOf": "2026-11-17T01:08:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3856,
-   "change": 0.08,
-   "asOf": "2026-11-17T00:58:20.000Z",
+   "value": 3855,
+   "change": 0.05,
+   "asOf": "2026-11-17T01:08:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": -0.27,
-   "asOf": "2026-11-17T01:08:46.000Z",
+   "value": 1.099,
+   "change": -0.32,
+   "asOf": "2026-11-17T01:17:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.92,
-   "change": -4.09,
-   "asOf": "2026-11-17T00:58:43.000Z",
+   "value": 92.2,
+   "change": -3.8,
+   "asOf": "2026-11-17T01:08:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64626,
-   "change": -1.04,
-   "asOf": "2026-11-17T01:08:42.000Z",
+   "value": 64633,
+   "change": -1.03,
+   "asOf": "2026-11-17T01:18:19.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "11 منتخبا على أبواب أمم أفريقيا 2027.. مصر تقود سباق التأهل المبكر ومواجهات نارية تحسم المتأهلين",
+     "url": "https://www.elbalad.news/7183674",
+     "source": "صدى البلد",
+     "time": "2026-11-17T01:16:23.000Z",
+     "seen": "2026-11-17T01:18:19.533Z"
+    },
+    {
+     "title": "نتنياهو يهاجم قادة أوروبا: هناك زعماء ضعفاء يديرون ظهورهم لإسرائيل",
+     "url": "https://www.elbalad.news/7183680",
+     "source": "صدى البلد",
+     "time": "2026-11-17T01:15:21.000Z",
+     "seen": "2026-11-17T01:18:19.533Z"
+    },
+    {
+     "title": "آخر 3 قرارات حكومية تهم ملايين المواطنين.. تفاصيل جديدة بشأن أجور العاملين والعدادات الكودية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83MHlvY1RMdGYwR1BFSkZ4NkxjcGtVWnJPRWZxaGJCcXFNVnUtRlBWaUh0UnROYThmMDhmaDFITkVnZnNLa3lrSjY2NFhsZm4zbndhQWNvT1dXNGI0NnY0?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-17T01:13:00.000Z",
+     "seen": "2026-11-17T01:18:19.533Z"
+    },
+    {
+     "title": "CNN: أمريكا تكشف مخططا إيرانيا لاستهداف مسئولين في واشنطن بقنبلة قذرة",
+     "url": "https://www.elbalad.news/7183679",
+     "source": "صدى البلد",
+     "time": "2026-11-17T01:12:34.000Z",
+     "seen": "2026-11-17T01:18:19.533Z"
+    },
+    {
      "title": "34 يوما على الشتاء.. يبدأ رسميا الإثنين 21 ديسمبر ويستمر 88 يوما و23 ساعة",
      "url": "https://www.youm7.com/story/2026/11/17/34-يوما-على-الشتاء-يبدأ-رسميا-الإثنين-21-ديسمبر-ويستمر/7620896",
      "source": "اليوم السابع",
@@ -151,27 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T01:00:00.000Z",
      "seen": "2026-11-17T01:08:20.034Z"
-    },
-    {
-     "title": "في وضح النهار.. شخص يحاول سرقة أجزاء من قضبان السكة الحديد بالدقهلية",
-     "url": "https://www.elbalad.news/7183677",
-     "source": "صدى البلد",
-     "time": "2026-11-17T00:49:03.000Z",
-     "seen": "2026-11-17T00:58:20.218Z"
-    },
-    {
-     "title": "الهند ومصر تبحثان اتفاقية تجارة حرة.. مفاوضات مرتقبة خلال 90 يوما",
-     "url": "https://www.elbalad.news/7183676",
-     "source": "صدى البلد",
-     "time": "2026-11-17T00:45:58.000Z",
-     "seen": "2026-11-17T00:48:19.432Z"
-    },
-    {
-     "title": "محمد ثروت يهنئ مجدي يعقوب بعيد ميلاده: فخر لينا ولكل مصري وعربي",
-     "url": "https://www.elbalad.news/7183670",
-     "source": "صدى البلد",
-     "time": "2026-11-17T00:40:59.000Z",
-     "seen": "2026-11-17T00:48:19.432Z"
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الثلاثاء 17 / 11/ 2026",
@@ -228,13 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-16T18:56:00.000Z",
      "seen": "2026-11-16T19:07:17.714Z"
-    },
-    {
-     "title": "مدبولي:الدولة المصرية ملتزمة بمواصلة تطوير منظومتها الوطنية للملكية الفكرية",
-     "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPRExYcUs4VUtPdVFjcDRTZXN5Wk9zQmVFZmR3ekNWQjhFYzZ0TDhMNGVsSmxFSlY0aWdBZzNfZ2xlM0dqYXJoZUZHWG9TampHenpjN0xDX2VTa0o3SDQ2VnoxUmtOek5tUzE2MmJySk45RksxM3VZWDItRmJ4bFBEMnJHZklYUGFaTGppYS1DbEdKZGEwdUFsSGNZYk9PS0dPenV2b0RkdVJlbF9US0ZRTXU0TjFZQ3FlMGJ3T2tqZkszQ1BWRHhNZGF2czZhdEZyRDN5SGsxellBZEx3MGJoMFlhSjJoRkt2bDQ5VjFOejFaNHdkRDdpVFZvZkgyUWxsMTRMZ3ZMN09GTHFaRWdkbFRNUWQ0VnBKaDJsZjM0VzNkcW15V2FyZXhYaTZkLUtFOVJ3ZWF2T1gxOG9SWGFzX1NBUUVMWTJhSmk3SWhuVkpETGVCbjYtUXRBX1ZCY3NHWGxJT2FDOVBNbWF6SFJWYXBhMklvTjBwYXhPTEVzdDkyZ0tIZzl5TFh5VnNmbzlmVXd2Nm5XTUVlZ3lQdDZybmZ0VlFFVWhTcS1aNG9WeXlwR2UwR2h5WmZuUVlkLW1hWVFLVlhYUWFiZnc4M2JjYzUzeHNfczFZSldRa2F0ZFJocEdINVJLUGd4TnJyaTkxWFg1b2QzUkZBclB6YzNVTzZ0N0pJcXpOWVRiVGdYQ21tRFNjYl9mR3hCRVlnR0JSWDFlRDZqY2hvdmR4cDEyaWlBdFJWV0o0ZWVmMVBPenAzSnVkcExPcWhYdXRCUzRKa2NtTl9tN2kxLWJZclBXSW0wYmZnLTUzVENmZ0RFTW5fOXRKbUdv?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-16T18:39:00.000Z",
-     "seen": "2026-11-16T18:47:17.856Z"
     }
    ]
   },
@@ -348,6 +348,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "فانس: الصراع مع إيران لن يتحول إلى حرب أبدية",
+     "url": "https://www.skynewsarabia.com/middle-east/1905208-%D9%81%D8%A7%D9%86%D8%B3-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%AD%D8%B1%D8%A8-%D8%A3%D8%A8%D8%AF%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T01:09:17.000Z",
+     "seen": "2026-11-17T01:18:19.533Z"
+    },
+    {
      "title": "الولايات المتحدة: قاض يبطل قواعد تقليص مدة إقامة الطلاب والصحافيين الأجانب",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261116-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%82%D8%A7%D8%B6-%D9%81%D8%AF%D8%B1%D8%A7%D9%84%D9%8A-%D9%8A%D8%A8%D8%B7%D9%84-%D9%82%D9%8A%D9%88%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8",
      "source": "فرانس 24",
@@ -383,11 +390,11 @@
      "seen": "2026-11-16T23:38:19.896Z"
     },
     {
-     "title": "إسرائيل تدرس استئناف حرب إيران.. وحديث عن \"تحرك منفرد\"",
-     "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOakNuc0U0aWxHYlRIcFYxN2Uwck56alphLThoTktUQzU4aDc3RXROYXJpMTBMVHpKNTRaUDVLY3QxN01YSnZGYVZOOXRqUExaMVFQWnNuX0dpZ0hBQVNsMDZGcXBqYjhxa1lFSGJta3RlbXU3RWpaTEZxNW12OWZSQzNEYlpHLXMzUk4zZk55RVVIUmNXUW54Mnc2S3BaaXhXeTlNTVZyQUdVZ2ZJT2FLY1dENjgtYVpkcXhHMmNnMUg4V3NubndSSm1fTDJHdDVSRVhZZEJIV1dDVzQ1NE11dDYzckhGamdRY3Q1OUxtU3BaVFB0RXJ3TTlvSC0ydlhsckpjTnNGVC05Z29ya2V3LTV2R3dVbnVOeHNsb1Uyb2ozbUVQNEQ0eDBXN09PVzVtTVZvWnd4dkZYT01ISHFnZE1XOGwySzNNX0tRMXQ1T1hIM0M4QjIzazRqS2hhQVJkV2F1V3E2dFo2blp4OXU4Y0IwUXdLUDF0VWhIVWpxQkxPQXNwMjdUN0d5NnpjY0p4R0VLbjBZb2ZBdTU4OEdLT0hodklIVWtE0gGuA0FVX3lxTE96dW9xRUdBRXBoUGk3SExRUWlUTmxDRWplSnNFazZGVlRvT2Exb2Y1cXh3N0NCN0p4VkRIOENlUGFkbW5pRk9iWWFfTFk0d1R3eUFSU1VobmlldVF0M0l4UGNHTV9RNmV3bFk2UHdMZG9sb3dVMHRSeUxFTnJiZjk1OEd0ZXdZM1NlSWRNSGsxRUlySVZDOUlBc0owQU9BOHNwQjd4elE2QzFpMkUwZ3I5X0p1MlIzU3RzWGFtZHJMRnZXbG0xVFlsNjduNGRnSU1VUlBoZ084dzcxM3FsMDdwa1pEOTQxSmx6U0Q1S1F6THFlVmJ5ajFIUDdkcnpobDFPLXBSQkxTbnF1eUlIR0FucS1PT0lackR6MzBrYV8xaE5vdzJZZGNRRExqWm8tWTA2RTRkdks0UzFlTUNJX1BfTlVGMlJqeHZfQ0JNRkV5ejNuTTl6ZkFvUC1NQ3ppTngyREZVZl9yZGl1MmxRUmkwZFVkOXhrcHprU2VnS2JCdU10b1dqOUZsUUZFeUE1eHdVelB2ZXRTdEdFanh0MU1uYmtsSFlmSkZjaWQ4enc?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-16T21:59:17.000Z",
-     "seen": "2026-11-16T23:48:20.202Z"
+     "title": "واشنطن تصر على سيادة الجيش بلبنان وإسرائيل ترفض نسخة ثانية من اليونيفيل",
+     "url": "https://www.aljazeera.net/news/2026/11/17/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%b5%d8%b1-%d8%b9%d9%84%d9%89-%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d9%8a%d8%a4%d9%85%d9%86%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-16T21:56:03.000Z",
+     "seen": "2026-11-17T01:18:19.533Z"
     },
     {
      "title": "ترمب و\"ملك الرقائق\".. مصالح مشتركة وفضيحة تتجاوز إنفيديا",
@@ -430,13 +437,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-16T20:56:20.000Z",
      "seen": "2026-11-16T21:08:19.974Z"
-    },
-    {
-     "title": "كوشنر يكشف تقدما في محادثات أوكرانيا وزيلينسكي يطلب صواريخ بعيدة المدى",
-     "url": "https://www.aljazeera.net/news/2026/11/17/%d8%ad%d8%b1%d8%a8-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d9%83%d9%88%d8%b4%d9%86%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%aa%d9%82%d8%af%d9%85-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-16T20:16:47.000Z",
-     "seen": "2026-11-16T23:48:20.202Z"
     },
     {
      "title": "إسرائيل.. معارضو نتنياهو يطالبون بالتحقيق معه بتهمة التأثير على الانتخابات",
@@ -557,16 +557,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
-  {
-   "section": "egypt",
-   "feed": "صدى البلد",
-   "error": "The operation was aborted due to timeout"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
