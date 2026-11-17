@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:11:04.765Z",
+ "updated": "2026-11-17T23:21:04.652Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T23:11:04.765Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T23:21:04.652Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.67,
    "change": 0.37,
-   "asOf": "2026-11-17T20:39:12.000Z",
+   "asOf": "2026-11-17T23:22:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5823,
-   "change": 0.46,
-   "asOf": "2026-11-17T23:01:01.000Z",
+   "value": 5819,
+   "change": 0.4,
+   "asOf": "2026-11-17T23:12:05.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6648,
-   "change": 0.46,
-   "asOf": "2026-11-17T23:01:01.000Z",
+   "value": 6644,
+   "change": 0.4,
+   "asOf": "2026-11-17T23:12:05.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3857,
-   "change": 0.09,
-   "asOf": "2026-11-17T23:01:01.000Z",
+   "value": 3854,
+   "change": 0.03,
+   "asOf": "2026-11-17T23:12:05.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0997,
    "change": -0.25,
-   "asOf": "2026-11-17T23:10:44.000Z",
+   "asOf": "2026-11-17T23:21:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.39,
-   "change": 1.03,
-   "asOf": "2026-11-17T23:00:50.000Z",
+   "value": 93.31,
+   "change": 0.94,
+   "asOf": "2026-11-17T23:10:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 65047,
-   "change": 0.29,
-   "asOf": "2026-11-17T23:11:01.000Z",
+   "value": 64885,
+   "change": 0.05,
+   "asOf": "2026-11-17T23:22:04.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "نهاية حقبة استمرت قرناً .. تركيا تلغي الدعارة رسميًا",
+     "url": "https://www.elbalad.news/7184936",
+     "source": "صدى البلد",
+     "time": "2026-11-17T23:18:08.000Z",
+     "seen": "2026-11-17T23:21:04.652Z"
+    },
+    {
      "title": "مخرج موريتاني يُفاجئ جمهور مهرجان القاهرة السينمائي: أحلم بتصوير فيلم ساعتين عن عيني «يسرا»",
      "url": "https://www.elbalad.news/7184863",
      "source": "صدى البلد",
@@ -172,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T23:00:00.000Z",
      "seen": "2026-11-17T23:01:04.412Z"
-    },
-    {
-     "title": "الإحصاء يكشف خريطة التعليم الفني في مصر.. مليونا طالب و70.5 ألف خريج",
-     "url": "https://www.elbalad.news/7184901",
-     "source": "صدى البلد",
-     "time": "2026-11-17T23:00:00.000Z",
-     "seen": "2026-11-17T23:01:04.412Z"
-    },
-    {
-     "title": "مدبولي: «هاير مصر» نموذج ناجح للتوسع الصناعي في مصر",
-     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQZkpLS01oQWVtdGgzczNxXzQtMi1sSFd1cW5qNkVtdk91SGNzWmpuakpQTmt5WG9yUS1uNEdsTGFUanp2LWxSN3NIekNGV19feUNYX19rd1hudWZrQVJlTmxsT21FWW1jdGIwTUhNTmx3M1ZhemlDYllWVngwSF8yWHZMcGM4VmlfMWpHU29LbTY0MnNkWHBqYXE3RFJBcEVvVk5MRzJKTmtkellsQlcwQ2dxWXIwOUw5WFRwYkIxdDJjWlBxNEVhMlhOR21VNG1idXBzSmZvOE5aTFM2aVNwWktEZDJXX2tiQl9YRGRlaTdMOWlHdXFjUjNtVndyQ2VyY1dWOXlXX2IzZS1TRUx4UFB4NHNsTVFCNlBUOVRkSVZtN1JMVFZib1c4ZTdOS1BnYzNOQVgyT284ZkN0aHFibzNhSHRXa2lvY3BmdGxrUHpNZTlzcVBnbVUtMTRKZzZlLWRIcTdIUjZpaUxYZnI4TQ?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-17T21:41:36.000Z",
-     "seen": "2026-11-17T23:11:04.765Z"
     },
     {
      "title": "مدبولي يشهد افتتاح المرحلة الثانية من مجمع «هاير مصر» ويؤكد: حريصون على دعم المستثمرين الجادين",
@@ -235,6 +228,13 @@
      "source": "Masrawy",
      "time": "2026-11-17T18:19:48.000Z",
      "seen": "2026-11-17T19:41:04.667Z"
+    },
+    {
+     "title": "مدبولي: «هاير مصر» نموذج ناجح للتوسع الصناعي في مصر",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQZkpLS01oQWVtdGgzczNxXzQtMi1sSFd1cW5qNkVtdk91SGNzWmpuakpQTmt5WG9yUS1uNEdsTGFUanp2LWxSN3NIekNGV19feUNYX19rd1hudWZrQVJlTmxsT21FWW1jdGIwTUhNTmx3M1ZhemlDYllWVngwSF8yWHZMcGM4VmlfMWpHU29LbTY0MnNkWHBqYXE3RFJBcEVvVk5MRzJKTmtkellsQlcwQ2dxWXIwOUw5WFRwYkIxdDJjWlBxNEVhMlhOR21VNG1idXBzSmZvOE5aTFM2aVNwWktEZDJXX2tiQl9YRGRlaTdMOWlHdXFjUjNtVndyQ2VyY1dWOXlXX2IzZS1TRUx4UFB4NHNsTVFCNlBUOVRkSVZtN1JMVFZib1c4ZTdOS1BnYzNOQVgyT284ZkN0aHFibzNhSHRXa2lvY3BmdGxrUHpNZTlzcVBnbVUtMTRKZzZlLWRIcTdIUjZpaUxYZnI4TQ?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-17T17:54:46.000Z",
+     "seen": "2026-11-17T23:11:04.765Z"
     }
    ]
   },
@@ -411,6 +411,20 @@
      "seen": "2026-11-17T20:31:04.390Z"
     },
     {
+     "title": "عاجل | مصدر أمني سوري للجزيرة: مقتل عنصر أمن وإصابة 4 آخرين جراء إطلاق نار على دورية أمنية على طريق حمص طرطوس",
+     "url": "https://www.aljazeera.net/news/2026/11/18/%d8%b9%d8%a7%d8%ac%d9%84-%d9%85%d8%b5%d8%af%d8%b1-%d8%a3%d9%85%d9%86%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a-%d9%84%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%85%d9%82%d8%aa%d9%84-%d8%b9%d9%86%d8%b5%d8%b1-2?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-17T20:01:23.000Z",
+     "seen": "2026-11-17T23:21:04.652Z"
+    },
+    {
+     "title": "لم يطّلع عليها أحد.. وثيقة لدي تكشف ما دار في عقل صدام قبل الحرب",
+     "url": "https://www.aljazeera.net/opinions/2026/11/18/%d9%84%d9%85-%d9%8a%d8%b7%d9%84%d8%b9-%d8%b9%d9%84%d9%8a%d9%87%d8%a7-%d8%a3%d8%ad%d8%af-%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%84%d8%af%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-17T19:53:19.000Z",
+     "seen": "2026-11-17T23:21:04.652Z"
+    },
+    {
      "title": "لا ناجين.. تحطم طائرة عسكرية روسية ومقتل 19",
      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaEk1WXJTSTFhdmNOT1Y4d2dHWFF0WmlURVppakYtWWh0Y19LbHpRWTZESjRNV0FlcU1tX29GQ01lendXRDFHZE9OclFqNS1vYl80YVNPNHBod21KTDRzVG45aC1CbklvMXFUVmdtNm9OeXBBQlJLbUt0bkxQcDVxMFJyRl90bXQtMG9Ub0RydXVtWnljN2x4WDlCczEtcHBzVVFoaTl0YTd5MUR4MTZydnBucXA4SUo2SkRZeTItVWNYWS1IQ3B6ZWc1NV9aUV95a0RBcGtkZVdYcVdfd0MtTEJSa2xpNnJmVDA5OFlxcDBNRG55MW5BeTgwUmVpVjQ1RVYzWVBBcHRSVk53SS1lc0xlODBkNzZMR1ZaXzRJYlFWbEFlNS12Rmp0ak96RDJOTkcwMWI5MmtUUXZHMEFWRldsY0YtUmpldGxuWnlGd1JHUdIB1wJBVV95cUxQTzI0QTJxUmsyU1hJR3J1UWs3RVVvRXpNY1AyWlh1NE5lNW5YdjBIU2dUY2ZnMi0tSjNPcVRNdkR2Mk5vSlBkdHF6ak5iMkdRVjc4SVVVNFJtUTNrU2NGc3NoLW9abC1GcW4yQXZJLTdPaTlJb05uTXlpMTBaUUUzcFdGUk9wRXdiSzNPbW9QMldCU3E5UElXT29DNkVhdFQzN3QyNGV0T0ZkZTJ6T2Q0Mnk3Nlo1YVBvSlpaU0h2cUJzZHliMThvNU1FdVlsZXBrbXNpRktVZTkyYkkwZVNzVkZEemlQMHpDSXBHd0ZMenZLU01QdXlhbUFEVERDWnhrSFBTb08taDR3TXVCNTBMeWFqVDd1VGo3WjV6S25VRmFxSEJya01GRG9SMVNsdUJhaVRBZ1o3OEdCLVhSQ3Z1WmxsamJfTlJmOUhfSlJlTFFrdjVheDQw?oc=5",
      "source": "سكاي نيوز عربية",
@@ -418,25 +432,11 @@
      "seen": "2026-11-17T22:41:05.003Z"
     },
     {
-     "title": "من لاغوس إلى طرابلس وباماكو وتونس.. ما أهداف التحركات العسكرية الأمريكية المكثفة في أفريقيا؟",
-     "url": "https://www.aljazeera.net/video/2026/11/18/%d9%85%d9%86-%d9%84%d8%a7%d8%ba%d9%88%d8%b3-%d8%a5%d9%84%d9%89-%d8%b7%d8%b1%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d8%a8%d8%a7%d9%85%d8%a7%d9%83%d9%88-%d9%88%d8%aa%d9%88%d9%86%d8%b3-%d9%85%d8%a7?traffic_source=rss",
+     "title": "نظارة آبل المرتقبة ونقطة تفردها التي لا يملكها المنافسون",
+     "url": "https://www.aljazeera.net/tech/2026/11/18/%d9%86%d8%b8%d8%a7%d8%b1%d8%a9-%d8%a2%d8%a8%d9%84-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%82%d8%a8%d8%a9-%d9%88%d9%86%d9%82%d8%b7%d8%a9-%d8%aa%d9%81%d8%b1%d8%af%d9%87%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-17T19:37:15.000Z",
-     "seen": "2026-11-17T22:51:04.714Z"
-    },
-    {
-     "title": "شاهد.. انتصار البرتغال والبوسنة وتألق لافت للسويد والنمسا في دوري الأمم الأوروبية",
-     "url": "https://www.aljazeera.net/sport/2026/11/18/%d8%b4%d8%a7%d9%87%d8%af-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84-%d9%88%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d9%86%d8%a9-%d9%88%d8%aa%d8%a3%d9%84%d9%82?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T19:36:55.000Z",
-     "seen": "2026-11-17T22:51:04.714Z"
-    },
-    {
-     "title": "تصفيات أمم أفريقيا 2027.. المغرب يتأهل والجزائر تسقط ومصر وتونس تتعثران",
-     "url": "https://www.aljazeera.net/sport/2026/11/18/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%85%d8%b5%d8%b1-%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T19:30:46.000Z",
-     "seen": "2026-11-17T22:51:04.714Z"
+     "time": "2026-11-17T19:49:44.000Z",
+     "seen": "2026-11-17T23:21:04.652Z"
     },
     {
      "title": "خيوط جديدة تظهر في فضيحة رئيس الاستخبارات الخارجية الألمانية الأسبق",
