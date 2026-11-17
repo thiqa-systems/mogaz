@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:28:53.827Z",
+ "updated": "2026-11-17T10:38:53.560Z",
  "minute": [
   "ضبطت مديرية التموين في القاهرة مخالفات شملت مخابز ودقيقاً مدعماً ولحوماً فاسدة، بينما أطلقت وزارة الزراعة مبادرة لدعم مزارعي الطماطم في تسع محافظات.",
   "أعلنت هيئة الأرصاد عن استقرار الطقس وخرائط الأمطار، بالتزامن مع تأكيد محافظة الدقهلية جاهزية معداتها للتعامل مع الطوارئ.",
@@ -11,44 +11,44 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T10:28:53.827Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T10:38:53.560Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.7,
-   "change": 0.42,
-   "asOf": "2026-11-17T10:29:53.000Z",
+   "value": 53.72,
+   "change": 0.46,
+   "asOf": "2026-11-17T10:38:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5830,
-   "change": 0.58,
-   "asOf": "2026-11-17T10:20:22.000Z",
+   "value": 5834,
+   "change": 0.65,
+   "asOf": "2026-11-17T10:29:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6656,
-   "change": 0.58,
-   "asOf": "2026-11-17T10:20:22.000Z",
+   "value": 6661,
+   "change": 0.65,
+   "asOf": "2026-11-17T10:29:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3859,
-   "change": 0.16,
-   "asOf": "2026-11-17T10:20:22.000Z",
+   "value": 3860,
+   "change": 0.19,
+   "asOf": "2026-11-17T10:29:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -57,25 +57,25 @@
    "unit": "نقطة",
    "value": 51612,
    "change": -1.13,
-   "asOf": "2026-11-17T10:15:20.000Z",
+   "asOf": "2026-11-17T10:24:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0999,
-   "change": -0.23,
-   "asOf": "2026-11-17T10:29:48.000Z",
+   "value": 1.0996,
+   "change": -0.26,
+   "asOf": "2026-11-17T10:39:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.47,
-   "change": 0.03,
-   "asOf": "2026-11-17T10:20:22.000Z",
+   "value": 92.27,
+   "change": -0.18,
+   "asOf": "2026-11-17T10:29:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64187,
-   "change": -1.03,
-   "asOf": "2026-11-17T10:30:22.000Z",
+   "value": 64203,
+   "change": -1.01,
+   "asOf": "2026-11-17T10:39:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,46 +140,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مي حلمي تخطف الأنظار بإطلالة صيفية أنيقة في أحدث ظهور لها",
-     "url": "https://www.elbalad.news/7183929",
-     "source": "صدى البلد",
-     "time": "2026-11-17T10:28:41.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
-    },
-    {
-     "title": "تقرير طبي يكشف سر غياب الجفالي عن المشاركة المنتظمة مع الزمالك",
-     "url": "https://www.elbalad.news/7183941",
-     "source": "صدى البلد",
-     "time": "2026-11-17T10:28:31.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
-    },
-    {
-     "title": "بستخبى وأجري.. أحمد الفيشاوي يكشف سبب إخفاء التاتو أثناء العمرة",
-     "url": "https://www.elbalad.news/7183939",
-     "source": "صدى البلد",
-     "time": "2026-11-17T10:28:13.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
-    },
-    {
-     "title": "التعليم العالى: معهد بحوث الإلكترونيات يشارك فى إطلاق معمل «Lightship»",
-     "url": "https://www.youm7.com/story/2026/11/17/التعليم-العالى-معهد-بحوث-الإلكترونيات-يشارك-فى-إطلاق-معمل-«Lightship»/7621969",
+     "title": "وزارة الصحة توجه رسالة عاجلة للأمهات بشأن الوجبة المدرسية",
+     "url": "https://www.youm7.com/story/2026/11/17/وزارة-الصحة-توجه-رسالة-عاجلة-للأمهات-بشأن-الوجبة-المدرسية/7621990",
      "source": "اليوم السابع",
-     "time": "2026-11-17T10:27:00.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
+     "time": "2026-11-17T10:38:00.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
     },
     {
-     "title": "إطلاق قافلة جديدة محملة بسلال غذائية ودقيق وملابس شتوية إلى غزة",
-     "url": "https://www.youm7.com/story/2026/11/17/إطلاق-قافلة-جديدة-محملة-بسلال-غذائية-ودقيق-وملابس-شتوية-إلى/7621957",
+     "title": "وزارة الصحة: لا وجود لمرض الجدرى فى مصر.. والمتداول هو الجديرى المائى",
+     "url": "https://www.youm7.com/story/2026/11/17/وزارة-الصحة-لا-وجود-لمرض-الجدرى-فى-مصر-والمتداول-هو/7621988",
      "source": "اليوم السابع",
-     "time": "2026-11-17T10:24:00.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
+     "time": "2026-11-17T10:36:00.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
     },
     {
-     "title": "الأوقاف: الاستخدام الرشيد للمضادات الحيوية والوقاية من الأمراض واجب شرعى ووطنى",
-     "url": "https://www.youm7.com/story/2026/11/17/الأوقاف-الاستخدام-الرشيد-للمضادات-الحيوية-والوقاية-من-الأمراض-واجب-شرعى/7621959",
+     "title": "الشويخ: نحتاج رؤية حقيقية للوصول إلى 100 مليار دولار صادرات",
+     "url": "https://www.elbalad.news/7183948",
+     "source": "صدى البلد",
+     "time": "2026-11-17T10:35:55.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
+    },
+    {
+     "title": "700 ألف جنيه تشعل الأزمة بين الزمالك وحسام عبد المجيد.. واللائحة المالية كلمة السر",
+     "url": "https://www.elbalad.news/7183940",
+     "source": "صدى البلد",
+     "time": "2026-11-17T10:35:36.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
+    },
+    {
+     "title": "ألفارو بينيتو يدافع عن بيدري: لاعب لا يتكرر ولا يوجد له بديل في العالم",
+     "url": "https://www.elbalad.news/7183917",
+     "source": "صدى البلد",
+     "time": "2026-11-17T10:35:28.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
+    },
+    {
+     "title": "مجلس الوزراء: قطاع السياحة.. إنجازات متلاحقة ومستهدفات طموحة",
+     "url": "https://www.youm7.com/story/2026/11/17/مجلس-الوزراء-قطاع-السياحة-إنجازات-متلاحقة-ومستهدفات-طموحة/7621948",
      "source": "اليوم السابع",
-     "time": "2026-11-17T10:23:00.000Z",
-     "seen": "2026-11-17T10:28:53.827Z"
+     "time": "2026-11-17T10:35:00.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
+    },
+    {
+     "title": "وزير الداخلية الأسبق يكشف: الإخوان خططوا لاغتيال السيسي بنصف طن متفجرات",
+     "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQRGMzM2U5eDNwVnBtaEZQRWI4VGI2bThpM241SDNwRmRxU3NDVmZqeHZYZHQxYVB2dWlKNkt4aV9TZHpScklhS01IelJPRnhlS0xjaWpfRjBrRWd0TVY2U2doNlUycVhDNzlMaGQzVDN0bXdkSFdlSkFUV3gxR3RQZGoyaTlVWW9IMTNWNTI1cm95NmJHUHMybTFEc3BRMVFJRUd3T0hJbWVDMTZTZUVYZEZIejRzdnpQOWd0M3RZNndrT2duNGFwd1dUYUVBMTU0UWoweWZIdXFyNWVLMktXYUNHVDQ4THFDRnFLbE1HR0o1N0NBdlcxUWdIWXZ3TENZZVRhTlltbFZoMWhkTTA4WkgwaHc2LW96eEdhNzkzZThhc3I0QnI5Yjl1OGk2M3RBRkJpT0FuSFRHVG5aMGQ4NVc5cy1uUGZ6T1hlc1JZc0N1NGVrTkkxMXFwNHBGTGNDN1FBMUlfMHdnZFYwOEU0V3RhYnZVYUh5ZlZ1UVdmWTRMM1I4bndjVl9ZaFZiclFETmpNaTB4T0dZQVRQZUVSV1dUSEF3U1R1cGJhNEVfV2Z0a3NxU2JlTDFHSkdYVUFwSkVWWnBnQ1dma1ZKWE5sakNxaV9mZlZnU2pOdUtERnMwT0tsanZzUGRLdTRTZDBUa0hxUE9BZEdQVHl3YXNLd3I5QUNBNHh6cnFtQms5U1ZQVTlBLVE?oc=5",
+     "source": "العربية",
+     "time": "2026-11-17T08:34:00.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
     },
     {
      "title": "جريمة مروعة في مصر.. مذيع يقتل طفليه",
@@ -229,13 +236,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-16T23:00:58.000Z",
      "seen": "2026-11-16T23:08:19.486Z"
-    },
-    {
-     "title": "مدبولي: تحديث تشريعات الملكية الفكرية لمواكبة الذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcldLalhxOGM5SzVQZXZZNUxyWFAycndiUEdwV0pmc0FXUnFRd0Fad09HTmlXRGhCdzNFVHNJYWljWVlEYUNiMHZQSzNUYnRFYjlLOExidkN6S2YyQkliRXYtT1VIcC0yRjZlZkFsaEJEUFEwd1o2Vkt1b0Y?oc=5",
-     "source": "جـريـدة الوطن",
-     "time": "2026-11-16T21:07:00.000Z",
-     "seen": "2026-11-16T21:18:20.372Z"
     }
    ]
   },
@@ -243,6 +243,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "هل استقرت أسعار العملات في البنك المركزي اليوم الثلاثاء 17-11-2026؟",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQT3pvSnVneXZXcjVHbkY2YVBzbEVDZTM0M2lzbUNpNFp0NUlBYmxBbUpwNFRPX2FQSkdMVXdkVjBibVpBMGFuTVJISnIzWDJfU3FMX09NUENROEg5R0NZU1NUYWUzdHczSWxOcG1kN0FWdkN1ZEFid1dTU0JIRFFmeF9tWWt5MEE3VTVBbks5dXZkVGd5eTlaSmZfOGkzaEd0X0RsMHFUaFcyTjVXeFRULVBXcVZiRi04aUItdVRtOHlXMWVad011a285MjR6YTYwWjZaNWQ3V3Frd3BEODR1anpjc3Nzclg3YzBreFhmZWFfYjB1VHNZQkJOWG5OaWlwUUY1OG94RnNNbWhVVEZYNjY5RFJkd29oclBEQXpWTnNWTk54ek5WdFF0ZVdWczQzelpXVTJwbUJaRTZ3ODA0eWZ3QXZ4a1pPVjZQNjdQN29KLWR2VHduZzNfNjlRUQ?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-17T10:30:33.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
+    },
+    {
+     "title": "الاقتصاد المصري يواجه 5 تحديات.. هل تنجح الحكومة فى تحقيق الاستقرار والنمو؟",
+     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQdnI2eHpZZGtGNDVCTW5yZ1dPWld0SlRiNHhpWEJ5TWF6YTVxaFpuUmJWQkpRTmwyNTVRdkZ0RXZ2bjhfNGx0UUNmNEFLSjdWZk92eGU3SUdCZmdoc21aZDdKM3Q4emM3dlZxSDF6US1aQXhwb0x3Snc0NW9SdWt2QzE3c1ozNDZjeERrLVJscThlMnpGTDBLZHU4NnAyZnJIVU9HMDloSV9XVE1IZUpxSEh2eHNKSEFwdm9NTlNZak4tVG1jcVBoTnBnUWxKWVZOQVJockNZRTl3UEIxcG1PTHNpOFlaQnBKc3F2WVNyTW5WOWkxM3diN09kV2syVXhETHczTnRKRjBsaURwdXZ5SnB1Wi1VWm11ZmYwXzlhZ2xhSlg1cklQNHJNVGpFMUx3ajR2TG5GZm5KRUVZUmF3Yk82X1JlWTVxR1RndGc4SE5pdG5aNkkyNkEwM2NadXZhdDNmYXZ3Z3dvQzZHZG4wTk5feUgxUDNaS0NhWlp2MmpnRkRLbWJjSTFvXzdQMXRzVzRwajZUaFJoNWxTeGVTVUxkYmVRN1BnaFRka1Q0dlhXeDNpMVRvOXY4bUVKa0xLYWFmQzduNWFqNDVnUzVqRdIBywNBVV95cUxOWkJCQmJIV1dqcUxzNGFBclN5Mkg4V1JlMnJQZmRaMDJCNlRZaVo2YmhuLWJpY2lIbXVVbVJnNUtvanBzVFZLYlVzV1BEX2xpOWxEY1hGZm9Bb3plMnBRY0ZrbDYwYWZsOWt4R0t2YXo2MnF1WVBQVHhCS1c0a3hVR2lJY29PMGF5MkpUWUF0UHYwTFFaakh6eWpKekc4bFlZV190d0xjQlJ4REtySmF3SzFMSGFnVGl2UUhHTDNNSXpKVmZmLVBXeV96Y3lENml3YjVhWW9BUjAyUHg1NWw5b05CRXVoLTF5S2NoNGVjQW9oVk5wMkszRE1tQzdhT1hKZ1lLYW85WkZYYmwtaEthUkxiSmlNakdvamZqSUg0OU44OGhpLUNCOU90RHZ3czJ5SThWTmRWMGZScFRzdmNVaWJmdFR3VHVMRE5VSUJkazBueEVvNHdBVzZCVWxVR2tMd3VCUlF4U01fZXd2bXVjdS1jZ1JrZDRQaDlwY3hCVWpUYlhXMTFCSWhyYjV0Qkd6cEVuT3E0NnBoSWdQR1d6OUVQcTFPeVJ5VXQwamJKSGRvZEtLZFB6QmJ6bG5CRDAxWFZsVXRQSFo2Vjg?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T10:26:00.000Z",
+     "seen": "2026-11-17T10:38:53.560Z"
+    },
     {
      "title": "100 مليار دولار صادرات سنويًا.. تحرك برلماني لتطوير منظومة ضمان الصادرات",
      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPYjRaQXdPVjJOUmRhalZNQU8wdHVmeHBBZ1YtanRfa3lpTnM5MzJUWkRFcTdxQmJJLUlwU2YwZUtILVQzM1c1eWEtLS1WVW15ZDlJUmZOdTBLZ0lEVlk3QXdhRXhhWGJaVWtmNWs5dDZEVVNHX3pBUXNIUnRVODU2cExHNGtnUm9Ub3p6aEhNV3ZMQjFrUmJHWUoxcEJUNFhiUmFmMnE4RDdyMWMzV2YwN1dYTmlwbzBHZ1BnV3NwSTBsVEc4MnZaWnVtTW93QmF4YThvOWxwZ3JBOWpnQ0Y1YWxLRHJwZ0l3RDhOWlMwTjA1VEgwX1l2UG93STc5aktFLVhYUFI4YjlVX0hxekM3ZEs4MzFQd1ZpODEzQ2VyMHdBYm0zbFEtdHF0MGd4b0g2SDkzWTNoc25ONXd5MDdYaUJmNU5SdGdtVk5ZYUtwNndvMUJBYmFuY3FYRFRNRm1ZWFBN?oc=5",
@@ -331,21 +345,6 @@
      "source": "البورصة",
      "time": "2026-11-17T08:30:35.000Z",
      "seen": "2026-11-17T09:38:53.655Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الثلاثاء 17 نوفمبر 2026 في البنوك المصرية.. الأخضر يستقر عند 53.69 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzU2VSS2VjQ3VVNEhVVU9MY0JDRVJJTUNvbzlSV2lPQjhLTHZpcVVCY0F5WEtndHcxVmxpMWZOVlVUM3RZeFE?oc=5",
-     "source": "القاهرة 24",
-     "time": "2026-11-17T08:04:49.000Z",
-     "seen": "2026-11-17T08:08:53.531Z",
-     "impact": "يؤثر استقرار سعر الدولار المذكور عند 53.69 جنيهاً على قرارات التسعير وحساب تكاليف الاستيراد للمستثمرين والأفراد."
-    },
-    {
-     "title": "سعر الدولار فى البنوك صباح اليوم الثلاثاء 17 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1c0w3Yy1IdTdyQV9oakQ0NUYwNlJUOFppUTVBOFA5aGt1UGlLV2lwd0xtdFhDUHJaTEx3UzR2TXVKazVNTnJF?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-17T08:00:30.000Z",
-     "seen": "2026-11-17T08:08:53.531Z"
     }
    ]
   },
@@ -565,21 +564,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
