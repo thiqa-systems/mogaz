@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:00:47.731Z",
+ "updated": "2026-11-17T16:10:47.484Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T16:00:47.731Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T16:10:47.484Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5857,
-   "change": 1.05,
-   "asOf": "2026-11-17T15:51:55.000Z",
+   "value": 5853,
+   "change": 0.98,
+   "asOf": "2026-11-17T16:00:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6687,
-   "change": 1.05,
-   "asOf": "2026-11-17T15:51:55.000Z",
+   "value": 6683,
+   "change": 0.98,
+   "asOf": "2026-11-17T16:00:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3879,
-   "change": 0.68,
-   "asOf": "2026-11-17T15:51:55.000Z",
+   "value": 3877,
+   "change": 0.61,
+   "asOf": "2026-11-17T16:00:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1008,
-   "change": -0.15,
-   "asOf": "2026-11-17T16:01:45.000Z",
+   "value": 1.1013,
+   "change": -0.11,
+   "asOf": "2026-11-17T16:10:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.13,
-   "change": 0.75,
-   "asOf": "2026-11-17T15:51:46.000Z",
+   "value": 93.25,
+   "change": 0.88,
+   "asOf": "2026-11-17T16:00:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7339,
-   "change": -1.04,
-   "asOf": "2026-11-17T16:01:58.000Z",
+   "value": 7342,
+   "change": -1.01,
+   "asOf": "2026-11-17T16:10:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64166,
-   "change": -1.06,
-   "asOf": "2026-11-17T16:01:53.000Z",
+   "value": 64192,
+   "change": -1.02,
+   "asOf": "2026-11-17T16:10:40.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لمخالفة الاشتراطات الصحية.. «العلاج الحر» يشمع وحدات بمراكز عيون خاصة في البحيرة",
-     "url": "https://www.elbalad.news/7184406",
+     "title": "رسمياً.. السنغال أول المتأهلين إلى كأس أمم إفريقيا 2027 بعد الدول المنظمة",
+     "url": "https://www.elbalad.news/7184413",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:00:10.000Z",
-     "seen": "2026-11-17T16:00:47.731Z"
+     "time": "2026-11-17T16:07:55.000Z",
+     "seen": "2026-11-17T16:10:47.484Z"
     },
     {
-     "title": "ماذا يحدث لجسمك عند تناول فاكهة الكاكا؟.. تحذير من الإفراط في تناولها",
-     "url": "https://www.elbalad.news/7184378",
+     "title": "حمداني يستقر على تشكيل منتخب الجزائر أمام توجو.. وتعديلات اضطرارية لتعويض الغيابات",
+     "url": "https://www.elbalad.news/7184407",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:00:00.000Z",
-     "seen": "2026-11-17T16:00:47.731Z"
+     "time": "2026-11-17T16:07:14.000Z",
+     "seen": "2026-11-17T16:10:47.484Z"
     },
     {
-     "title": "13500 جنيه إضافي.. جدول زيادات أعضاء هيئة تدريس الجامعات ومعاونيهم",
-     "url": "https://www.elbalad.news/7184294",
+     "title": "للارتقاء بالمنظومة البيئية.. محافظ الدقهلية يتابع تنفيذ مشروعات تحسين نوعية مياه مصرف كيتشنر",
+     "url": "https://www.elbalad.news/7184409",
      "source": "صدى البلد",
-     "time": "2026-11-17T16:00:00.000Z",
-     "seen": "2026-11-17T16:00:47.731Z"
+     "time": "2026-11-17T16:06:22.000Z",
+     "seen": "2026-11-17T16:10:47.484Z"
     },
     {
      "title": "محافظة القاهرة ترفع درجة الاستعداد لمواجهة أمطار الشتاء",
@@ -243,6 +243,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
+     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPaFdWMUZzczBYSUtYcTVoTzhYS1k4TEZKU0VDQnROZWI1dlktWldaSHVBUEMzWFVLQ0ZqUnBMNndHYzU3a2g2ajROODJXcnFSWlhFQVFIaHpxRWtPMnhjd0QycU9seE1KcUxfV09VZFpGYXIzdzFVY1FtdHV5b2lzS3AyS0lnTUpiYUtkM0gwZk1GQTN6VEExbFFwZy1oc043endFV2JXSTJuSXItYjVFUDI3ZXlzT2I3clE2YkxGSG5fR01FdHplNVRBTVBQdE9BMGR1RlBIcTR4bzFNZXJwOElOMDZ0UWlFTThtSEg2SjJyNmZqZWxhRDYxN3NkWUYzOHlXT2t2OEItWjEtQnRFSXh2VFZhdHNYeGhnSzE1ZHhZUzRaQWZNQXc1SjJqUC1NRFQzaGEyTTlkOGdrczUtVF9ESXJzUm1QUDZrNDNMUEJYeEIxSS0wZ1Y1aGNTRGhwdkwxWkExTVlLRm9lVVN0MVZ6aHpwUHJhNVAyQmxSUk1DRWVaYVlWWlp3NUV6dGM3ZDhkQjVnUkVINTJDMUl3UnZmNG1XTlZQQkxuXzJnSTFjUUwyalpMN2lqTE5ad0dHVmNPTXRXVGJPaEs1djBQZHNHb0lQVWFNU3dVdTQ5ZldjTWZHckxr0gHiA0FVX3lxTFBjUTJPOEp1b1AwTWFoak54V0d2MVJQZVhPcm05clVyZDRuQ2JLZTBaYWZ4NnRsb053ZGRSUHZTZ2tNNWh1bTVoNEtJN0Y5R1lJYUVXSmdibm5hRjhadzFmMGJmTzJHNnQ0WGJib0RiT2xhZ1BGWlVZUm9wbzdWakpWSmpqYkVFRnAtcjZPRkczZGp2bUNJaUsyZzF6eXFwWmZ3SmtPV3pGR0xKdkR2R2xYS25xVkxsQVJmUlo2Y3RmRHFmNzBlM0pVaDJiU0phbGlsU2ZIUG8wQVlyaDJSMUdkTzljQjN5eDRGeExhaGd5ZkpwNnRROVNNNlI3czJEVEVFbjByVjlrak9ZSDdWTkh3SkhaazdlQ20wdlBsa3F3bm44Vl9TU1RYUE1JQkZQRVJlb0l5Y29STGNQUnNZenZaeHZtLURTdVkwTTJPcThaMWpkNll3anlvb3FFLXFkdkFGa2pZTG12Q0tBZnhTVjlPczdFa3l1eUZzZEFwTXBoemVfMTBMVWJZLU5taEM5Nk8xTkZyNzhPaHhSUDQ1T2Jubkl6XzY5U2N1OGFKc3h4MWF4d1dIVXd6N3NHZHpLZUVmSGhGNENoWG1hVlVORXR0YXpjdjZnRWNiVm9xN3NqZE1R?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T16:00:00.000Z",
+     "seen": "2026-11-17T16:10:47.484Z"
+    },
+    {
+     "title": "547 مليون دولار صافي شراء في سوق الدين المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QQkRNU0V2TnJyWjd3TmJuQnJYc0QxQ25wcFllV0UxWnVDbld2NE5fX0RxWUdTcXc3M0djVWdZMUgwamkwdlBaRGkwT0hBRHl3Qkd0b0kzLW5Vd21tazg3OA?oc=5",
+     "source": "صناع المال",
+     "time": "2026-11-17T15:43:17.000Z",
+     "seen": "2026-11-17T16:10:47.484Z"
+    },
+    {
      "title": "الصين تستضيف قادة العالم في عالمها المذهل للذكاء الاصطناعي. إليكم ما لن يروه",
      "url": "https://www.bbc.com/arabic/articles/c6grewvjxnnvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -325,21 +339,6 @@
      "source": "فيتو",
      "time": "2026-11-17T13:47:00.000Z",
      "seen": "2026-11-17T13:50:47.979Z"
-    },
-    {
-     "title": "البورصة تستعرض تجربتها في الحفاظ على تصنيف الأسواق الناشئة بمؤتمر الهند",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zZUxXbXNRWmN4ck9jOUlMcGFzNVM4M0ZBQ255SGpsYW9JdktpN2JnNjZiNVgyYmMtX1dOV3EyQ2pva2ZhYTl3?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-17T13:05:00.000Z",
-     "seen": "2026-11-17T13:10:47.481Z"
-    },
-    {
-     "title": "البورصة المصرية تستعرض تجربتها في الحفاظ على تصنيف الأسواق الناشئة",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aejFUT1B0OFFkRVRBVzZIRWlYLXdGZGIyRXN0WUoxMXVzbXhVelRwclJrQWhCYy1IUU9DSEpZUlZqZ1NQN0VVUHQxVkYyUGVBTlpWeE1B?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-17T12:46:22.000Z",
-     "seen": "2026-11-17T12:50:47.508Z",
-     "impact": "يعزز الحفاظ على تصنيف الأسواق الناشئة ثقة المستثمرين الأجانب والمحليين في سوق المال المصري."
     }
    ]
   },
@@ -453,18 +452,18 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
+     "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-17T15:58:31.000Z",
+     "seen": "2026-11-17T13:00:47.834Z"
+    },
+    {
      "title": "«شال الولد لفه في مفرش».. كاميرات المراقبة وجيران الطالبية يكشفون جريمة المذيع",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CY3lqY1NIU1AwdTRkZHFzd0VDU1lrYmRlNkRuU0NjMEx3R0FmY0t2emxrZ1ZSTmRFMDNETnFZTGY4ZEpraDUybmNMbXR2SlpnN3E5ekZYbFRrajFyOFhJ?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-17T13:18:00.000Z",
      "seen": "2026-11-17T14:30:47.654Z"
-    },
-    {
-     "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
-     "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-17T13:10:35.000Z",
-     "seen": "2026-11-17T13:00:47.834Z"
     },
     {
      "title": "إسرائيل استخدمت أداة التعرف على الوجوه التابعة لأمازون لتتبع الفلسطينيين - تقرير في الغارديان",
@@ -524,18 +523,18 @@
      "seen": "2026-11-17T14:30:47.654Z"
     },
     {
-     "title": "نمو غير مسبوق منذ أكثر من عقد.. سر الإقبال على تأسيس الشركات في ألمانيا",
-     "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNdTU2el81Ym5CMUNYNEh3R1M4M3dKWmJYRVA4TzNfUjhCS1YzT0NHZlh5Rmc3eFgwejdUUndyZFFGNGs1djhTZ2t6Rk91ZW83OXRNVW9leHZqdjE0NGN6TkVtZzhuVTdmUVhIRmFxTGcweXo4Z0FQbVBQSEtRQTFFd0lyTmZhNlB0Y2Y4clZCWkdNZU5FUEl4d1NBNWF3cWtyODRaZDB1dzBxTjNXQWdCVkJOM1hCdG9HbWF4cDFFVHNGaFVzMEszOV9uZ2FNcVJ6MVlPZ0VVTzhxemRBbEV6eXJ3VW1uWFR4M1ViZXFuZC1odjczcXpvOF9IeEFGZnh6QnF6dER1eUU0TjF5ejB5MF9lQzNvV2Z0clo1UWFpbnlORTVoNk5EeU1weEIyTmo4WnljYy1Zb210eUQ4VDk1NC1QQVViZlBQaU5jOG5EWmpZMkUyeW5NWlotM1RQM0x5bzJLR0hzN2FZX2h4ZDd1UG91Qm5hWHBCcFlycFlDdjVwY2F6NXNRdG42ZThKTE9LMDRvUlpkMUttZXRNblNQamFXU0w0c2wtNlhPcUIxLTBVVFJ3TGhwN1RHM1FnTjFLd0l0NEEzR1lpNDg4ZDZVNkVvcThfM0JsRjNLc3FoaVd3ZXZDNnBXMTY1dWV0NGpqTHdrZnFjZWNBQS0yQ3RPVXN0eXplc3BQc2xhTWVfVnlLUk9vNm9zU2x30gGaBEFVX3lxTE1FOE1VX3hGS0JIZkJtaUpEY3NxLTJrODJWZDdvMzhlV0pqa3hndGszVTV2OWNkcl9STzJkdGUzWFg5dzQ5aERfV1VTVmNZa2FFaEJ4XzFjRXZ1amdMY0xiOWdBeHExQ19ka1VtSkRlbmVRbU92LUM4UlZhdG1zc19aQVd4X3Q4RlZxZWRFOVRhUS01UUNmbFYzTk14al9fUklFRTZLYUdMeVZ5U2NRbHFWVGdnTHpBd01Ld0o0OEVETWozNUZNRC1ZSkhkdUZINHNzZlhKRmhUcmZsNGhZR2lob0tzYXcwUlBCNkhzVkRlcmczQmdwNWswT2xVUmFBX1N2cTZxRkhvTXF2NF9RaDlrTXk5Q0p1Sng5eWVISzFlQVFVOGVGTkU1cUYxNEU5djB2TmhnVUtlcHFHaTNOVjNxNVhUV1MyUTl3TnJPN0FhamxfX1pfVjZhZjRHLUZOR2JFSWoyYVU1TzRfeWRmNmxFTC1iRDZuenRYbXltLUdyYXpGWGx3VHZYTzlzX2xmeG9vUlg4V3ktYzU0a0FyQ3VVYzJGWXZGaUhkbjlRRW94QS1CVjR1RnFmVk54U0VESkhKbm4xUU03bEtoRTg3eDJfTWllUldaa0l5MEhKTGFBMWhVMmpCeHpudENsaWpLX1Jnd2ZVVEZFTXczSm51VGlUWHpoNVE2SFcwUUtHNjNYVFFxRHM5N1pWbGc?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-17T08:54:46.000Z",
-     "seen": "2026-11-17T15:40:48.249Z"
-    },
-    {
      "title": "مقتل سيدة فلسطينية برصاص مستوطنين في أريحا وإصابة آخرين",
      "url": "https://www.bbc.com/arabic/articles/cr1ewl1lepejo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-17T08:39:56.000Z",
      "seen": "2026-11-17T08:48:53.465Z"
+    },
+    {
+     "title": "نمو غير مسبوق منذ أكثر من عقد.. سر الإقبال على تأسيس الشركات في ألمانيا",
+     "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNdTU2el81Ym5CMUNYNEh3R1M4M3dKWmJYRVA4TzNfUjhCS1YzT0NHZlh5Rmc3eFgwejdUUndyZFFGNGs1djhTZ2t6Rk91ZW83OXRNVW9leHZqdjE0NGN6TkVtZzhuVTdmUVhIRmFxTGcweXo4Z0FQbVBQSEtRQTFFd0lyTmZhNlB0Y2Y4clZCWkdNZU5FUEl4d1NBNWF3cWtyODRaZDB1dzBxTjNXQWdCVkJOM1hCdG9HbWF4cDFFVHNGaFVzMEszOV9uZ2FNcVJ6MVlPZ0VVTzhxemRBbEV6eXJ3VW1uWFR4M1ViZXFuZC1odjczcXpvOF9IeEFGZnh6QnF6dER1eUU0TjF5ejB5MF9lQzNvV2Z0clo1UWFpbnlORTVoNk5EeU1weEIyTmo4WnljYy1Zb210eUQ4VDk1NC1QQVViZlBQaU5jOG5EWmpZMkUyeW5NWlotM1RQM0x5bzJLR0hzN2FZX2h4ZDd1UG91Qm5hWHBCcFlycFlDdjVwY2F6NXNRdG42ZThKTE9LMDRvUlpkMUttZXRNblNQamFXU0w0c2wtNlhPcUIxLTBVVFJ3TGhwN1RHM1FnTjFLd0l0NEEzR1lpNDg4ZDZVNkVvcThfM0JsRjNLc3FoaVd3ZXZDNnBXMTY1dWV0NGpqTHdrZnFjZWNBQS0yQ3RPVXN0eXplc3BQc2xhTWVfVnlLUk9vNm9zU2x30gGaBEFVX3lxTE1FOE1VX3hGS0JIZkJtaUpEY3NxLTJrODJWZDdvMzhlV0pqa3hndGszVTV2OWNkcl9STzJkdGUzWFg5dzQ5aERfV1VTVmNZa2FFaEJ4XzFjRXZ1amdMY0xiOWdBeHExQ19ka1VtSkRlbmVRbU92LUM4UlZhdG1zc19aQVd4X3Q4RlZxZWRFOVRhUS01UUNmbFYzTk14al9fUklFRTZLYUdMeVZ5U2NRbHFWVGdnTHpBd01Ld0o0OEVETWozNUZNRC1ZSkhkdUZINHNzZlhKRmhUcmZsNGhZR2lob0tzYXcwUlBCNkhzVkRlcmczQmdwNWswT2xVUmFBX1N2cTZxRkhvTXF2NF9RaDlrTXk5Q0p1Sng5eWVISzFlQVFVOGVGTkU1cUYxNEU5djB2TmhnVUtlcHFHaTNOVjNxNVhUV1MyUTl3TnJPN0FhamxfX1pfVjZhZjRHLUZOR2JFSWoyYVU1TzRfeWRmNmxFTC1iRDZuenRYbXltLUdyYXpGWGx3VHZYTzlzX2xmeG9vUlg4V3ktYzU0a0FyQ3VVYzJGWXZGaUhkbjlRRW94QS1CVjR1RnFmVk54U0VESkhKbm4xUU03bEtoRTg3eDJfTWllUldaa0l5MEhKTGFBMWhVMmpCeHpudENsaWpLX1Jnd2ZVVEZFTXczSm51VGlUWHpoNVE2SFcwUUtHNjNYVFFxRHM5N1pWbGc?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-17T08:05:23.000Z",
+     "seen": "2026-11-17T15:40:48.249Z"
     },
     {
      "title": "الصين تستضيف قادة العالم في عالمها المذهل للذكاء الاصطناعي. إليكم ما لن يروه",
@@ -555,6 +554,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
