@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:20:47.639Z",
+ "updated": "2026-11-17T15:30:47.392Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,35 +10,35 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-17T15:20:47.639Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-17T15:30:47.392Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.64,
-   "change": 0.31,
-   "asOf": "2026-11-17T14:37:27.000Z",
+   "value": 53.67,
+   "change": 0.37,
+   "asOf": "2026-11-17T15:29:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5825,
-   "change": 0.49,
-   "asOf": "2026-11-17T15:10:56.000Z",
+   "value": 5828,
+   "change": 0.55,
+   "asOf": "2026-11-17T15:20:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6650,
-   "change": 0.49,
-   "asOf": "2026-11-17T15:10:56.000Z",
+   "value": 6654,
+   "change": 0.55,
+   "asOf": "2026-11-17T15:20:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,7 +47,7 @@
    "unit": "$/أونصة",
    "value": 3860,
    "change": 0.18,
-   "asOf": "2026-11-17T15:10:56.000Z",
+   "asOf": "2026-11-17T15:20:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0996,
-   "change": -0.26,
-   "asOf": "2026-11-17T15:20:44.000Z",
+   "value": 1.0999,
+   "change": -0.23,
+   "asOf": "2026-11-17T15:30:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.62,
-   "change": 1.28,
-   "asOf": "2026-11-17T15:10:45.000Z",
+   "value": 93.43,
+   "change": 1.07,
+   "asOf": "2026-11-17T15:20:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7383,
-   "change": -0.45,
-   "asOf": "2026-11-17T15:20:55.000Z",
+   "value": 7381,
+   "change": -0.48,
+   "asOf": "2026-11-17T15:30:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64733,
-   "change": -0.19,
-   "asOf": "2026-11-17T15:20:51.000Z",
+   "value": 64909,
+   "change": 0.08,
+   "asOf": "2026-11-17T15:30:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إصابات على متن طائرة أمريكية بسبب مطبات هوائية عنيفة.. والسلطات تكشف التفاصيل",
-     "url": "https://www.elbalad.news/7184356",
+     "title": "تعليم بورسعيد تبحث سبل دعم الطلاب الأكثر احتياجا",
+     "url": "https://www.elbalad.news/7184369",
      "source": "صدى البلد",
-     "time": "2026-11-17T15:19:54.000Z",
-     "seen": "2026-11-17T15:20:47.639Z"
+     "time": "2026-11-17T15:30:03.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
     },
     {
-     "title": "الأردن والكويت والإمارات والسعودية يدينون تكرار الاعتداءات الإيرانية على البحرين",
-     "url": "https://www.elbalad.news/7184352",
+     "title": "بعد منعه في بريطانيا.. هل البيض المتهم الوحيد للسامونيلا؟",
+     "url": "https://www.elbalad.news/7184344",
      "source": "صدى البلد",
-     "time": "2026-11-17T15:19:36.000Z",
-     "seen": "2026-11-17T15:20:47.639Z"
+     "time": "2026-11-17T15:30:00.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
     },
     {
-     "title": "وزير الخارجية: مصر ركيزة الأمن والاستقرار ونعمل على خفض التصعيد في المنطقة",
-     "url": "https://www.elbalad.news/7184354",
+     "title": "هل توجد زيادة جديدة في معاش تكافل وكرامة؟.. رابط الاستعلام",
+     "url": "https://www.elbalad.news/7184319",
      "source": "صدى البلد",
-     "time": "2026-11-17T15:19:08.000Z",
-     "seen": "2026-11-17T15:20:47.639Z"
+     "time": "2026-11-17T15:30:00.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
+    },
+    {
+     "title": "وزير العمل خلال حفل تخرج متدربي قطاع الضيافة: التدريب الجيد بوابة الشباب إلى فرص العمل",
+     "url": "https://www.youm7.com/story/2026/11/17/وزير-العمل-خلال-حفل-تخرج-متدربي-قطاع-الضيافة-التدريب-الجيد/7622575",
+     "source": "اليوم السابع",
+     "time": "2026-11-17T15:23:00.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
     },
     {
      "title": "الطقس غدا.. شبورة كثيفة وسحب منخفضة والصغرى بالقاهرة 16 درجة",
@@ -171,13 +178,6 @@
      "url": "https://www.youm7.com/story/2026/11/17/دير-«المحرق»-بأسيوط-يحتفل-بعيد-تكريس-كنيسة-السيدة-العذراء-الأثرية/7622098",
      "source": "اليوم السابع",
      "time": "2026-11-17T15:00:00.000Z",
-     "seen": "2026-11-17T15:10:47.924Z"
-    },
-    {
-     "title": "نقابة العلاج الطبيعي تطالب بإعادة النظر فى رسوم الاشتراك بصندوق المخاطر الطبية",
-     "url": "https://www.youm7.com/story/2026/11/17/نقابة-العلاج-الطبيعي-تطالب-بإعادة-النظر-فى-رسوم-الاشتراك-بصندوق/7622521",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T14:52:00.000Z",
      "seen": "2026-11-17T15:10:47.924Z"
     },
     {
@@ -355,7 +355,7 @@
      "seen": "2026-11-17T15:10:47.924Z"
     },
     {
-     "title": "بلال حمداد..الفنان الذي أدخل حي باربيس إلى المتاحف العالمية",
+     "title": "بلال حمداد.. الفنان الذي أدخل حي باربيس إلى المتاحف العالمية",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AB%D9%82%D8%A7%D9%81%D8%A9/20261117-%D8%A8%D9%84%D8%A7%D9%84-%D8%AD%D9%85%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A3%D8%AF%D8%AE%D9%84-%D8%AD%D9%8A-%D8%A8%D8%A7%D8%B1%D8%A8%D9%8A%D8%B3-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-17T14:58:43.000Z",
@@ -405,6 +405,20 @@
      "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
     },
     {
+     "title": "فانس يعلن توقعه بشأن موعد \"انتهاء\" حرب إيران: ترامب \"لن يسمح بأن تكون أبدية\"",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDd3RXJWbmdNbV95eGN6MUQ4czdxTktwYVhiUlhicktjU1FiUUtHU0lWS3VrRkFUOFdXWDJLNlhrYXQwUE5Xcy1aYy1yOUdRWXM3ZnEyU0FFX0xoMnNWOGRCMXY5ZDB6Z1RWN3NveHdfbEhRMThwNjdJTmFCekNaVmNoRVoxXzBCdjFpbWJpSS02d0podVlfZTZHSXpZbXRDNk1tSl9CSzhyVWM?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-17T13:18:58.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
+    },
+    {
+     "title": "أوروبا تعاقب أغنى امرأة في روسيا.. من هي تاتيانا كيم؟",
+     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQSDB4ZWpJMllkay1xV2w0d1NiWGV3cy04M3VFdHJFNlFKR0tUeGdmaU9nZjlJN0lPaGR3Vk5XUGhjUS15cG5RZFUzX1VWQS13bWRuRU52ZUxsRVltQ3p1ZkRjdV9Qdll4U0ZGZHJ1Y0RzdUdiM2Z4Z2FoOGVoZUlvZTMyS0tDWEo2eGxNVGtyXzdUVEJlUXRhZk5XVXRxTUFkQ3MzSFhsSV9SS1VvOWVDeDVUcnkyOGs4ZEpoQ3J4Q0RSTnozR1BVZFVkSDFYdlA4WGplZlNyMzRWcU1DbjV6VEFvU3NvanpxTnlMZDJieE84S0hmOFBNMTJQQ0FQMWVPOGR3SXR3eDFmTndMZlRIMWFHOWIzdF82MGpFcnpiVDVEX0F5V0x6ZGRMa01wSDNqRkFjZ1ZtYVVNMlFITlAwZFlOLVZvbDhSSVNTZXNEQmRFZlRYTVBVYWE1d1ZWS1hBTVgxYTlwMElXY1AtUmtKNzRRYko3MnlaRmRZSWRiZ0otWlhTTDBNctIBjgNBVV95cUxOcWh3cHZpaDRPUVpWdHdLSnNoams1Q1ZrN0xxNjBRX3B0bTlFRlcyNEhLclVpT2FmSnRWcjZxREVjMkhwMW1zdUtqUWJMbm1YYUJfZ1BBb1hIRkxIVWRLVkV4RllNWUpDXzZHNnAyQTdQMUdMZUtlcmhNTEd1bzg4Mk5OUjY4SDBhSU5xOWhQZ29nczNWRXZJSWVhdGNMdDlmcVNuT09KbzZvYTU4dVZfS204YVh2TGpvTnVvc24yNWZiUUo3OHA4S2RKcy04SXNfUVNRam4zekpLU1FJS1FiS3Z4ZktCc29vbjRRN1ZWZndjbEMydkR2UzdJTHZGbXd6TG9sNV9rX0ctUUZHU05TY1RlcDFJTEJ3VFNsMzBuMDVuclJJVHllUHhUdkNRa1dFSTkzUzR0UW5aamN5eE11VGZ5cXpEMjFOX2Mzb2t6MGxNc1F0cTBpR3NVRXZtc08wXzZBbDZMZHpFeG1JLUxWeExmYTJJNmYzenVaNk56OW9uNjZYeVhVVmhQU1FGdw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T13:17:17.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
+    },
+    {
      "title": "فاتورة باهظة.. تحليل يرصد حجم الدمار المناخي في ألمانيا",
      "url": "https://www.dw.com/ar/فاتورة-باهظة-تحليل-يرصد-حجم-الدمار-المناخي-في-ألمانيا/a-79970650?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -419,11 +433,11 @@
      "seen": "2026-11-17T13:10:47.481Z"
     },
     {
-     "title": "واشنطن تنفي إصابة رادار أميركي بمسيرات إيرانية في البحرين",
-     "url": "https://www.skynewsarabia.com/middle-east/1905351-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T12:34:50.000Z",
-     "seen": "2026-11-17T12:38:53.638Z"
+     "title": "مباشر مباراة ليبيا ضد تونس في تصفيات كأس أمم أفريقيا 2027.. لحظة بلحظة",
+     "url": "https://www.aljazeera.net/sport/liveblog/2026/11/17/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%aa%d9%88%d9%86%d8%b3-%d8%b6%d8%af-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-17T12:01:55.000Z",
+     "seen": "2026-11-17T15:30:47.392Z"
     },
     {
      "title": "إيران تعاود إطلاق التهديدات.. وقاليباف يحدد السدود والموانئ",
@@ -431,20 +445,6 @@
      "source": "العربية",
      "time": "2026-11-17T12:00:52.000Z",
      "seen": "2026-11-17T12:38:53.638Z"
-    },
-    {
-     "title": "أرمينيا بين واشنطن وموسكو وطهران.. هل تهتز سلطة باشينيان؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/17/%d8%a3%d8%b1%d9%85%d9%8a%d9%86%d9%8a%d8%a7-%d8%a8%d9%8a%d9%86-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%88%d9%85%d9%88%d8%b3%d9%83%d9%88-%d9%88%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d9%87%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T11:44:02.000Z",
-     "seen": "2026-11-17T15:00:47.342Z"
-    },
-    {
-     "title": "مباشر مباراة العراق ضد إيران في بطولة البصرة الدولية 2026.. لحظة بلحظة",
-     "url": "https://www.aljazeera.net/sport/liveblog/2026/11/17/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%b6%d8%af-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T11:41:04.000Z",
-     "seen": "2026-11-17T15:20:47.639Z"
     }
    ]
   },
@@ -555,11 +555,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
