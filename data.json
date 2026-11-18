@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:42:31.575Z",
+ "updated": "2026-11-18T03:52:31.595Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T03:42:31.575Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T03:52:31.595Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5725,
-   "change": -1.84,
-   "asOf": "2026-11-18T03:32:32.000Z",
+   "value": 5732,
+   "change": -1.73,
+   "asOf": "2026-11-18T03:43:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6537,
-   "change": -1.84,
-   "asOf": "2026-11-18T03:32:32.000Z",
+   "value": 6544,
+   "change": -1.73,
+   "asOf": "2026-11-18T03:43:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3792,
-   "change": -1.87,
-   "asOf": "2026-11-18T03:32:32.000Z",
+   "value": 3796,
+   "change": -1.76,
+   "asOf": "2026-11-18T03:43:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": -0.03,
-   "asOf": "2026-11-18T03:41:45.000Z",
+   "value": 1.0994,
+   "change": -0.04,
+   "asOf": "2026-11-18T03:53:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.74,
-   "change": -0.43,
-   "asOf": "2026-11-18T03:31:28.000Z",
+   "value": 92.63,
+   "change": -0.55,
+   "asOf": "2026-11-18T03:42:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64445,
-   "change": -0.63,
-   "asOf": "2026-11-18T03:42:29.000Z",
+   "value": 64478,
+   "change": -0.58,
+   "asOf": "2026-11-18T03:53:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -243,6 +243,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "انتخاب متان كهانا من حزب يقوده آيزنكوت رئيساً للكنيست الإسرائيلي",
+     "url": "https://www.bbc.com/arabic/articles/cm792d8pqy1ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T03:46:15.000Z",
+     "seen": "2026-11-18T03:52:31.595Z"
+    },
+    {
      "title": "سعر الدولار اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWQmNydkNEZllhVDZCNFdIa3VFRURpQ2FSUThvZ0JnM2x0S2ZKaklXdDVXTGdqZzRZTV9LX05rVUhEUUpE?oc=5",
      "source": "جريدة الدستور",
@@ -331,13 +338,6 @@
      "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
     },
     {
-     "title": "الحوثيون يعلنون مقتل 14 على الأقل في غارات سعودية على الحديدة، والتحالف يعلن إسقاط مسيرة في منطقة الرياض",
-     "url": "https://www.bbc.com/arabic/articles/cmde1k1z4dd6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T18:39:43.000Z",
-     "seen": "2026-11-17T17:50:47.456Z"
-    },
-    {
      "title": "انقطاعات غامضة تهز أميركا.. وهولي يطالب \"الشيوخ\" بإحاطة عاجلة",
      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOOGNrOG52Y0dpQzBZNGhNYTlkSm81WUVaMjhzX1JWWkM4M0JpOXcwZWRENk1PYlVETUNtSkdiTUctaF95NWFXMV8tdDZQN21aaXlNTS1OM2tCVXdYRU14U2NEaEUxS29UMFhaalc3b2FyVE5HYXJnYVRxLTlmUzV1ZE1XQWROc01tWjRlb05qajRMcTVkT3NXbTVWNndKX1VUMm5VU0JiT2lUOHNuM05kVzBoUGNKNHg5eVA4QjQtLTRQcVhkcThMbzdpLTB3SW1jSnZOVGNSbEFPa1RhTm80Z1oxc0RXaGpoMENXRlU1cDJxUG1mYzRwRURmYmNiaUpablpNYVVDRmhTZk9xSUtjX0JvTzNBVGVfQnp2R1Z3em02YXBWZTVOR2dETURNcHAzTGtsaVBkSjJoOVRUVk43aEYxd19UMWUxaGlzMVFROThnRWJxQmNjeHhHNlJSejBqRnZraEVlNXBrc1R1RkJqMVJxQTNyenVfWmsxbkZQSVVtUnpMZm1VQmZPT3paZUxZSm5XNk9KLW5kMTZ4VHdiZVI3VkZFd2wyaE8xZzRzWlJvMnFOdDA5SHh0UTRNcWhNN3IwbUhHaTR5blZVbWd6STVqUWZGeTJScW95TXVTd29OZzREZWxiM3pMdW9pZVdCaVFpaGNZaXc5S3JQVVNZZDM3eDY5WmFyUjY4bG1oRHMwak1S0gGaBEFVX3lxTFBabUVpbmRnR09iSFRfdHFVR2hXUkNZNm1Od0hkNEtaRU9YRFBzcGpSNWw0ZlhKZTVEQ0ZKeGZ6dzdXRG9PSW9OQmdUalJKY3ZvQVJYTzhTS1dTbHlPX0RVaWFEWkhBMGZRRTNfZ1REdWFNdE03VXl6Z0RqTEVXVHU4TnFuTS1KbThGX25SR19BNWwxRDhIelNYNlFRQW9nUmpTdTZBUW9mSGhZS0xaOExLMFhMNG42QTNpczlLVU5MQTUzXzE0alFta0VrVkJESnZMZFp5d0JHN1BjLXlsdE1KOTRLWTlFc1VYdUZyeEpCaFpUTEhPSXdXVmdCaE9veldwWkJKRWdKMWFSR0dSYS10M3lYNGo0cU10ZGtTQW8zOHVTbU1yTS1xYXlDTUNLNURRbDFQVXh1M2NiMW1oc1V4ejh1cjE1cVJCN3NTU0FqaXZjVVdVbnFybnYzdDdXY01nUnl6bERRMW00S2JESHAzWEM3LUlwQzY4c2xxWkNjRnI5UXVKdmR6S0I2aXZuWVhtZm5WT2MtY2ZySEFOYW85TjRzZVhXaThxXzdmdjlWT1g4TUZBUmRtNXNzQm5vMXNYT0ozc2pzeXZUc284c2l2Z2JhSHppRWtrSW5iajBxWnZOUWQzeHFYWlNjSjZsaFJFN0F6M1A4N3F6SUNja2YtX2Jld3EzX3dWMHhBQ21udmd3cXdTYUFNMVE?oc=5",
      "source": "العربية",
@@ -350,6 +350,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "القضاء الأمريكي يحكم بالسجن لأكثر من 27 عاما على باكستاني أدين بالتخطيط لاغتيال ترامب",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%84%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+     "source": "فرانس 24",
+     "time": "2026-11-18T03:41:42.000Z",
+     "seen": "2026-11-18T03:52:31.595Z"
+    },
     {
      "title": "السعودية تعلن تنفيذ \"عملية عسكرية نوعية\" في 4 محافظات يمنية",
      "url": "https://www.skynewsarabia.com/middle-east/1905408-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%8A%D9%85%D9%86%D9%8A%D8%A9",
@@ -378,6 +385,13 @@
      "time": "2026-11-18T01:59:43.000Z",
      "seen": "2026-11-18T02:12:32.012Z",
      "impact": "يمس المزارعين والمستثمرين الزراعيين في مصر لضمان توافر مستلزمات الإنتاج والتخطيط للمحاصيل."
+    },
+    {
+     "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkVfQVdFdzRsdTMxSmFmdGV3Z1A4V0Z5aU9Sdzg5T3ZXQVF5V1lLWm90dnRzUUhRVnU1R3ZFMzJOcmZXSld1N2Mwa0hJQmt6Wlkzbk9kTG5TaTczV2RFSG9VS0lxMVNyV3Nrdk5OeVFTVk9XVlg3NTRQVlBKMG16ZThuNmxVaEVNczFuRzR3VmRWSXhlQXJ6cWx2WkltZWFZeFNyck5UYVJQYjJTUUV1S29uSWdydEpPdjVHVQ?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-18T01:46:18.000Z",
+     "seen": "2026-11-18T03:52:31.595Z"
     },
     {
      "title": "عطل يطال شبكة تبادل المعلومات السرية داخل وكالة الأمن القومي الأمريكية",
@@ -422,13 +436,6 @@
      "seen": "2026-11-18T03:22:31.433Z"
     },
     {
-     "title": "مجلس إدارة إنفيديا يستبعد عودة جنسن هوانغ إلى منصبه وإيرادات الشركة تتجاوز التوقعات",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261117-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA",
-     "source": "فرانس 24",
-     "time": "2026-11-17T23:41:47.000Z",
-     "seen": "2026-11-18T00:12:32.036Z"
-    },
-    {
      "title": "السجن 27 عاما لباكستاني بتهمة التآمر لاغتيال ترمب",
      "url": "https://www.aljazeera.net/news/2026/11/18/%d8%a7%d9%84%d8%b3%d8%ac%d9%86-27-%d8%b9%d8%a7%d9%85%d8%a7-%d9%84%d8%a8%d8%a7%d9%83%d8%b3%d8%aa%d8%a7%d9%86%d9%8a-%d8%a8%d8%aa%d9%87%d9%85%d8%a9-%d8%a7%d9%84%d8%aa%d8%a2%d9%85%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
@@ -441,13 +448,6 @@
      "source": "DW عربية",
      "time": "2026-11-17T22:48:00.000Z",
      "seen": "2026-11-17T22:51:04.714Z"
-    },
-    {
-     "title": "الجيش الكويتي: دفاعاتنا الجوية تتصدى حاليا لهجمات بمسيرات معادية",
-     "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQc3FtRDJDV3lnZi1iXzJlMEk1bkhFc2FfMG85RGVIdGNVbmgwcHFWbXBta3U2Um9ER1FQX2FDSEpValJzVmZqWEJFNElKdmhNMExHVXp4TFJFeHN3bjEzZU90dlBYUVZYNFhhV0Q4TjhZWE5GR3dwQW80U21Ncm8wY3ZLemR0dHlaOGNjNk9ZaDYwVVJJZHdRVGR5UWdLT0VLb1NETTFURFZURTJGekQ5WEk1VDhKYnB4bFJ2SnRVdFlOd1NIdFpkWmlHZ1FHY0VBNi0temlHLVFoQlRYQURmWXE5V3YwRTVzMXZDME5YOVg3MUtWYkZnem1ZNk0xaVhtc0FyY21HUXUwVTFaT29aTG9ELVNGSFh0cGc3M2w5WUlsdnE2LVJEWFdZMDFuS0l1VkQyRnE5SXFYUDRGeW5fWXpCUkQzYkZmNDBFTktCVk9wY29INWp0cEZ4blpMNVQ5ZkRLV1dWVVRTckR0alZVRVNXdldsMXVRT1JVOUxpOHlSV05HZFQ5NG9JMjNYOS1WQ0Y0MzNYamtyanQ0Vjdmckp3UWtmZ2xJTzF5NVl3TGx5dUZoVEtBQ2dSUjZUT2NzSmJDVGU0djNhanJzckpnNzl4Y2poT0wtZFRSUjVpT3VuZDZ0V3NfUGZ2cTZ5SnJ1TUpIbzJ6SUt4LW5obm14VTlub1BSb2FLcTNqY1JUMEN2N0RFb0V3SWFWNG15Z9IBmARBVV95cUxPRTlteFRUSW9RcE5pOGdZeVB1a1k1QzEzZ3NmNG43bG9nSERxbGtWdGk1NE4zd0ZPNi0zRjBTSVVjc3RIcmlIcGtoVUkwZmRVZ2lTcVQ5bldocm9QeDB0SFJJWFZBX2ExeU5LbUhNRTdSVmtmX3BBWW13bW9BWEFlNVdSQmZuSFJobnc0VUtVRDg1Q1FabHRUMzFRUmRHQ2RnTDNSblZmR2EwdlZwd2Nab0JBSGZNMHZxRGg2RXBVZ0JUUHE1N21mRGRWMHdyRnlnaDRScnNiSnhqbmJRZHUwRnhTcFdPX3p5S3hGa01CaHFaMmFxSnkwLV9LbjdKTjI4d1NBUVVuRmhGLThFMktMTk1BQ0xHbF9GZzFrcHZBRXJOTFFQYnFqMVBvWlRKMThGenZnc3d1R01ISE8zNUtuNkVOVlFlRDE4bk9KNmlySk1iOHlBYjA0Z3VvdXhRdkZZRzZXNzZpaUhlT3NINHJsN3R4WlJvNUFrMG9yVjNGLXJrZE92ZnFDNS1DZVJ3SjZNWG01U0dReTBZR2xoWi04OGM5OXY1NkgyWnlDMzM1NXhJOF9EWkE3anI2Q2QtVEdyR2pzb2Jobzd5X0tUdF9GXzg0X1E5RUM4a0JTRFhIVVpZQlF5NzRGVG9EVUIwWFFUOGxOalhwYTZnTDBpbEtfN2V1RFZKZk5veG5CWnhhcndtZThjbDNJSA?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T22:06:00.000Z",
-     "seen": "2026-11-18T00:42:31.766Z"
     }
    ]
   },
@@ -501,6 +501,13 @@
      "impact": "يؤثر على مستخدمي أجهزة آبل في مصر بسبب توقف خدمات الدفع الإلكتروني والسحابة وإنجاز المعاملات."
     },
     {
+     "title": "الحوثيون يعلنون مقتل 14 على الأقل في غارات سعودية على الحديدة، والتحالف يعلن إسقاط مسيرة في منطقة الرياض",
+     "url": "https://www.bbc.com/arabic/articles/cmde1k1z4dd6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T18:39:43.000Z",
+     "seen": "2026-11-17T17:50:47.456Z"
+    },
+    {
      "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
      "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxQYjRyVjZVWEpxWjBTLU9SYWhDTzM1dHY3SXZHMDFLRm9EVHVpMkdHWnhzWmhrdS1VWERlQ1FRYlR4TE1XNjBURzBjcE82d0tIejRPNUJYSF9WbElXeXk5WmFjb1hab1h2dG56cFdUSFh4V0xTQlQ1UU03amowZ1FzaGxoSjJJdnRpS2g5WENENGNlclZGb3o5YUNHMTVPTjlFbUZodmE1emV5OVk4VGNZQVpXRk5mRXVmTUYwY050c2RJMUdYMTdXc1pGbk9YWkN5VTYzekZiaXhVUUtYemFZY0g4SmFTeUFHYThCTjFkY0dxcFpWcS1hWGp1ZUFRY2VFWHFYU0l0REhuZGlzZ0JLNmZnMUo0RXA5MEFaU1lZbHR5QzlxSGRmSF96NV9qd0pHR21Lbm5oRUNuWjRMTXNUN205aGZXQzhKM1U0cU9VN3k3V2RrdFE5RWE0ZHRUT0E1cThWUEFZYkRDRG1mNGlaVlJvUGhnOVBBRDlHREdFNmVjbGczTjRsMHN2YUF6SHhIWTF1Tkh1ZFkyX3ZlSzB3dFBRbFlvUkJfTlZ0WWxGZHZUWlFhXzFPZXdpbHRKY19UX19pZ1NIUzZIUFMxdE5vdXhfUmNQQ0JUWW5kLThYQktJdy1zSlg3WmhSeUhBTmpMd3JsdGdoTEhNTllnVVdlcmpOd2hCSDQxa1dSVW8xa09uVmVaeDNxaVJJdHJTQ3lrVWZ4WmY4WXQ0Zl9jQXdmYUpOWVJJQkJIeE9FZEFLTzJ2YjJPZnpEMXlCUmx3QWhzeUtKdi02V2FUNGdNTkVBdmNCclVPSFd6UUk4SDY4ZHVnVGFYVFFEaE1rVjBrMmRudVJZcE5n?oc=5",
      "source": "الشرق الأوسط",
@@ -548,13 +555,6 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-17T16:47:42.000Z",
      "seen": "2026-11-17T16:50:47.728Z"
-    },
-    {
-     "title": "قراصنة يخترقون مواقع شهيرة لسرقة العملات المشفرة واستهداف مستخدمي آيفون",
-     "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOS2cxVUtFMi1DdUhCYVpDWGVvN29NOWlQR1N4ZmxuNUFRRnBXcVBBQ2prOHpHQUhFN0pFam9GdFNGdzJNZ2N5aS04WE9rRkIwbjZKT0piUndEWG84T2JuTjlKWXlEZFY0U2lWNG5CYU9ROWhaU2lQTm5TYUVmRjFKcHVMSU9ja1hlRTZyTGJhbGtScl9WMEEwR0g3Q18zaHhKbnRJZ0VaaEpVYUV4ODF4dHRmR0RxZFZpYkpQd2JtY1VtMGJBRFZfMGlEZUhkSVhkSGpSQ3BsQVUtb0xHWmxJTTB5Slc4eHJxd21DTmVlamlINzhkMW5tcW40bjdYbEtQekNNNS1ybTktTGlLRDhvQlU1ZTMtYS1DSkFZV3ktam5OaTNWa1dtNkdYNVlJTDF3TlJGb2l1QXJFRVFjdFJLTXF0MGowZ1JjOHJJMlh0anZleG1fV05sblhOdTR1dEhjcllVd0RmT0VvSHppLVozWWt0cEtXbXZfZWcxbXFoLXZRckRXQ2gweFhsLXE3MFR6NXI4WFA3dlJ5NHVrT2lZTmQ4VENiNnFZd0c4NHV3YnFQaU01Vzh4SHRXd084b0I3VzM0bVNmeXF2QVRTOVhoRk9UWmt4V0VRNkR5cW9CUnJfcm1sU2R2cV91alpteTNRNHFrcDA5UmlEWWZPa3Y5NXhTYlVtTkhQUUplQWVLeHFIamljZW55S2hzdDViMWlPWDFEZXdidjBGaXBqT3JZZmhSVFh1WWFpczhxUGUzU05RWEhDaVNYamZpOC1IS2lwNnZOVFoyQdIB0gRBVV95cUxNWHhoelRfTkM3Ty1OVV9BMHBSTFdwTmswY3BKMllzZEtrU1k4LXRCOWw0RXBhekdTZHVNd0ZGLWdwSnVOcEJDQjhfRkg3djBkMzR5eWtldTV0R0drTjZoRGh2bm5YczJQLU8yYjg4dkZ4TTFkSHFzamxEVFBhQzlVeC00cGpscjJLNDRGUDQtS2otQk95NXFLcGEwbUZFVHJZekk5Wml3QkVEa0NpOU04cjQ3MWp3Tkp3NzJXVkFhQVZrVXp6MFFKY2xjZ0lNLTViRkcxcEV5eFBhZjlSVlM3U1NZWTdpUUo5Y1ROTHZweDBSTXZrblJydDZFWjdrX3o4SjhfTS1aaFlYQTZ5N3RzR2JBWk5PX3JKUnpRN2YyM3BMTWNLQVJtOXoxRVl4NkJuYmk4QXBKYnZZZ0pNYXlBYTdIMXN3SXJ2VG5HbWo5LVdKa0tRaUpFck5jYnNkQ0hkSTk5QkFYanNXWC0wZlExVlBLLXlNUmFCVFJWNzItUmlDU1JtSzBUMTl4T1k1anhFV09ybHBmS2RHUUdFbkd6S3hEWW9UZ1k2cnhsRkljQkpnTXB5SDF5anFKS2RxcW5KUk9BbkhKc3pXY05XMHJLMkxwOUhKVUVlNXZnOGxqd1JYVUFST21XZ3hoeWtaVk1IS2JaYWpXX1Fhei1YeWg4M09TWUE4MVpXWnlza29FODh0aDJtMkZxZk01em5xOGJpWTBRVlUtQm53eTFERVRyTzdURjNydzdjVlJ6SmllcnlYTk95cEI3bkJUTG5NSlBRb2c?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T16:18:00.000Z",
-     "seen": "2026-11-17T18:31:04.596Z"
     }
    ]
   }
