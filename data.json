@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:35:20.154Z",
+ "updated": "2026-11-18T22:45:19.833Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -10,7 +10,9 @@
   "at": "2026-11-18T22:25:20.000Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T22:45:19.833Z"
  },
  "markets": [
   {
@@ -62,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": -0.18,
-   "asOf": "2026-11-18T22:34:44.000Z",
+   "value": 1.0977,
+   "change": -0.19,
+   "asOf": "2026-11-18T22:44:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62500,
-   "change": -3.69,
-   "asOf": "2026-11-18T22:35:19.000Z",
+   "value": 62424,
+   "change": -3.81,
+   "asOf": "2026-11-18T22:45:20.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مختلفون لكننا واحد.. احتفال مسلم ومسيحي وهندوسي لثلاثة لاعبين فى منتخب إندونسيا تحت 17 عاما",
-     "url": "https://www.elbalad.news/7186163",
+     "title": "غارات جوية تستهدف تجمعات الفصائل المسلحة في مدينة المخا اليمنية",
+     "url": "https://www.elbalad.news/7186169",
      "source": "صدى البلد",
-     "time": "2026-11-18T22:33:33.000Z",
-     "seen": "2026-11-18T22:35:20.154Z"
+     "time": "2026-11-18T22:44:47.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
     },
     {
-     "title": "«سقوط سقف أنهى حياتهما».. مصرع شقيقين من قرية المقاتلة بالفيوم أثناء عملهما بالتجمع الخامس",
-     "url": "https://www.elbalad.news/7186143",
+     "title": "رئيس غزل المحلة يكشف سبب إيقاف القيد وموقف موري توريه",
+     "url": "https://www.elbalad.news/7186160",
      "source": "صدى البلد",
-     "time": "2026-11-18T22:33:22.000Z",
-     "seen": "2026-11-18T22:35:20.154Z"
+     "time": "2026-11-18T22:43:30.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
     },
     {
-     "title": "إيران تعلن استهداف منظومات باتريوت ومنصات صواريخ ومسيرات أمريكية في الكويت",
-     "url": "https://www.elbalad.news/7186159",
+     "title": "التحالف: اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه المنطقة الجنوبية",
+     "url": "https://www.youm7.com/story/2026/11/19/التحالف-اعتراض-صاروخ-باليستي-أطلقه-الحوثيون-باتجاه-المنطقة-الجنوبية/7624182",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T22:41:00.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
+     "title": "بوبو يكشف كواليس توقيعه للأهلي وفشل الصفقة بسبب قرار فيوتشر",
+     "url": "https://www.elbalad.news/7186165",
      "source": "صدى البلد",
-     "time": "2026-11-18T22:32:19.000Z",
-     "seen": "2026-11-18T22:35:20.154Z"
+     "time": "2026-11-18T22:39:03.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
     },
     {
      "title": "وزير الطيران يبحث مع رئيس الهيئة العامة للطيران القطري تطوير التعاون في مجال النقل الجوي",
@@ -173,13 +182,6 @@
      "time": "2026-11-18T22:00:00.000Z",
      "seen": "2026-11-18T22:05:20.151Z",
      "impact": "يعزز نمو الناتج المحلي متجاوزاً التوقعات ثقة المستثمرين في تعافي واستقرار الاقتصاد المصري."
-    },
-    {
-     "title": "شبورة كثيفة وسحب ونشاط الرياح.. تفاصيل طقس اليوم الخميس 19 نوفمبر 2026",
-     "url": "https://www.youm7.com/story/2026/11/19/شبورة-كثيفة-وسحب-ونشاط-الرياح-تفاصيل-طقس-اليوم-الخميس-19/7623531",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T22:00:00.000Z",
-     "seen": "2026-11-18T22:05:20.151Z"
     },
     {
      "title": "مدبولي يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة",
@@ -251,6 +253,27 @@
      "seen": "2026-11-18T22:35:20.154Z"
     },
     {
+     "title": "«سياك» تستهدف 20 مليار جنيه عقود مقاولات العام المقبل",
+     "url": "https://alborsaanews.com/2026/11/19/2007468",
+     "source": "البورصة",
+     "time": "2026-11-18T22:01:36.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
+     "title": "«الجارحى للصلب» تستثمر 25 مليون دولار فى مصنع للبيليت بالسويس",
+     "url": "https://alborsaanews.com/2026/11/19/2007453",
+     "source": "البورصة",
+     "time": "2026-11-18T22:00:52.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
+     "title": "«بى ـ ڤيتا» للتكنولوجيا الحيوية تستهدف جمع مليون دولار فى جولة تمويلية جديدة",
+     "url": "https://alborsaanews.com/2026/11/19/2007435",
+     "source": "البورصة",
+     "time": "2026-11-18T22:00:01.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
      "title": "سعر الدولار في مصر الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2RjZjMDVGekFjMlF3ZFFrSElmV0NjSC1vSkZxZGhLU0J2bTN2RGNybjEyOVU0WE5LWXZfQ1lwWTl4ODdPSHVr?oc=5",
      "source": "صدى البلد",
@@ -267,27 +290,11 @@
      "impact": "يسهم استقرار سعر الدرهم الإماراتي في وضوح تكاليف المعاملات والتجارات للعمالة المصرية والمستوردين من الإمارات."
     },
     {
-     "title": "«دوَّر للحلول الدائرية» تتفاوض مع بنكين للحصول تمويلات بقيمة 400 مليون جنيه",
-     "url": "https://alborsaanews.com/2026/11/18/2007402",
-     "source": "البورصة",
-     "time": "2026-11-18T21:20:59.000Z",
-     "seen": "2026-11-18T21:45:20.337Z",
-     "impact": "يعكس تفاوض شركة دائرية لجمع 400 مليون جنيه نمو فرص التمويل البنكي للشركات العاملة في قطاع الاستدامة بمصر."
-    },
-    {
      "title": "ثلاثة قتلى إثر غارات إسرائيلية في قطاع غزة مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
      "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-18T21:18:52.000Z",
      "seen": "2026-11-18T21:24:52.854Z"
-    },
-    {
-     "title": "«تنمية المشروعات» يفاضل بين 10 شركات لتأهيل أولها للقيد بالبورصة فى 2027",
-     "url": "https://alborsaanews.com/2026/11/18/2007417",
-     "source": "البورصة",
-     "time": "2026-11-18T20:54:50.000Z",
-     "seen": "2026-11-18T21:45:20.337Z",
-     "impact": "يوفر تأهيل شركات جديدة للقيد في البورصة خيارات فرك وتنويع استثماري جديدة للمستثمرين في السوق المالي بحلول 2027."
     },
     {
      "title": "أخبار الاقتصاد اليوم: تراجع النفط والذهب والفضة خلال تعاملات اليوم، ارتفاع سعر الدولار بالبنوك المصرية، والبورصة تتلون بالأحمر وتخسر 15 مليار جنيه خلال جلسة الأربعاء",
@@ -304,14 +311,6 @@
      "time": "2026-11-18T20:30:00.000Z",
      "seen": "2026-11-18T20:34:52.514Z",
      "impact": "يزيد من قيمة التحويلات المالئية للمصريين العاملين في الكويت ويرفع تكلفة الصرف للمسافرين إليها."
-    },
-    {
-     "title": "«البترول» تتعاون مع «يونايتد إنرجي» للتوسع في مشروعات الطاقة المتجددة",
-     "url": "https://alborsaanews.com/2026/11/18/2007584",
-     "source": "البورصة",
-     "time": "2026-11-18T20:08:07.000Z",
-     "seen": "2026-11-18T20:54:53.098Z",
-     "impact": "يقدم فرصاً استثمارية وعملية جديدة للشركات والمتخصصين في قطاع الطاقة المتجددة بمصر."
     },
     {
      "title": "استقرار سعر الدولار تحت سقف الـ54 جنيها فى البنوك اليوم الأربعاء",
@@ -404,6 +403,27 @@
      "seen": "2026-11-18T19:44:52.573Z"
     },
     {
+     "title": "\"أمسكت بيده وقالتها علنا\".. والدة ميسي تختار خليفة نجلها في منتخب الأرجنتين",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a3%d9%85%d8%b3%d9%83%d8%aa-%d8%a8%d9%8a%d8%af%d9%87-%d9%88%d9%82%d8%a7%d9%84%d8%aa%d9%87%d8%a7-%d8%b9%d9%84%d9%86%d8%a7-%d9%88%d8%a7%d9%84%d8%af%d8%a9-%d9%85%d9%8a%d8%b3%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T19:30:00.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
+     "title": "حين استعصت الديار على الغزاة.. 10 أندية أوروبية جعلت من ملاعبها حصونا لا تُقهر لسنوات",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d9%85%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d8%b7%d9%88%d9%84-%d8%b3%d9%84%d8%a7%d8%b3%d9%84-%d8%af%d9%88%d9%86-%d9%87%d8%b2%d9%8a%d9%85%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T19:29:24.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
+     "title": "بعد هزيمة توغو المدوية.. اجتماع مرتقب يحدد مصير حمداني مع الجزائر",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a8%d8%b9%d8%af-%d9%87%d8%b2%d9%8a%d9%85%d8%a9-%d8%aa%d9%88%d8%ba%d9%88-%d8%a7%d9%84%d9%85%d8%af%d9%88%d9%8a%d8%a9-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%85%d8%b1%d8%aa%d9%82%d8%a8?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T19:18:18.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
+    },
+    {
      "title": "فرنسا: هل يمكن تخفيض سن التقاعد؟",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B4/20261118-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D8%AA%D8%AE%D9%81%D9%8A%D8%B6-%D8%B3%D9%86-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF",
      "source": "فرانس 24",
@@ -423,27 +443,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T19:04:08.000Z",
      "seen": "2026-11-18T19:14:52.585Z"
-    },
-    {
-     "title": "شاهد.. أشرف حكيمي يفاجئ تاجرا في سوق شعبية بالمغرب",
-     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%b4%d8%a7%d9%87%d8%af-%d8%a3%d8%b4%d8%b1%d9%81-%d8%ad%d9%83%d9%8a%d9%85%d9%8a-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d8%aa%d8%a7%d8%ac%d8%b1%d8%a7-%d9%81%d9%8a-%d8%b3%d9%88%d9%82?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T19:00:00.000Z",
-     "seen": "2026-11-18T22:15:19.578Z"
-    },
-    {
-     "title": "البحر يبتلع شواطئ الإسكندرية.. هل تنقذها الرمال من التآكل والغرق؟",
-     "url": "https://www.aljazeera.net/science/2026/11/19/%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d9%8a%d8%a8%d8%aa%d9%84%d8%b9-%d8%b4%d9%88%d8%a7%d8%b7%d8%a6-%d8%a7%d9%84%d8%a5%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a%d8%a9-%d9%87%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T18:58:33.000Z",
-     "seen": "2026-11-18T22:15:19.578Z"
-    },
-    {
-     "title": "تباين الأسهم الأمريكية عند الإغلاق بعد محضر الفدرالي ونتائج إنفيديا",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d8%aa%d8%a8%d8%a7%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d8%b3%d9%87%d9%85-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%b9%d9%86%d8%af-%d8%a7%d9%84%d8%a5%d8%ba%d9%84%d8%a7%d9%82?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T18:37:59.000Z",
-     "seen": "2026-11-18T22:15:19.578Z"
     },
     {
      "title": "الوكالة الدولية للطاقة الذرية ترحب بالاتفاق النووي بين السعودية والولايات المتحدة وتعتبره \"مرضيا\"",
@@ -492,8 +491,15 @@
      "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
      "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQZ2Rxay0wM29YcGxaMEh3NjdYQnNMRXY1bUxfUUdvS2FoWk1vbElPSUhRNklxZEpJZWdOemREMmZ3dTVncEg3X2ZfbE5aRklnR042TlhpOURLWENjWFRMNXR6alpvTGxaVWFMNTFoaHN3bXJKc1hTenlzTDdadjJSSjRRY245WkhVeUJwQXJYYkFKMFZmS0dZQlpNUGFsVHE4djdrbm5tUWdmT2I0SzNMZFFKeE9hV184cjc0NEFmbWNmMmZzVFVxNG1Od1ZMOF92cE1Bc1dYcGItcHlZVnVtY2lqUHJONUZvLU5wbDJ2dmdobmdBMDd6UDRVRGFNa1pTTElEWGJqRDI5bVpzdEg3ZWxuOTNtbzF6V2NqSDhWRW1sTFVEZjRDb0RtUUZZd21hNTdyNzk2R3ZhQ3F2RU1mZWZBM1QtTWR1TFk2VUd3TEw5THRsQlV4Z0FlVW5TNGNPM1BCU2NBTlhkcU5WMmt5eFBFeXR6Q2J1NVVfMF81ZlRKSmlGbGdwM0xoOW5FMDdEa0FfMjVRb24xaGhUcndLY2kzNDBMOEo1RXlhWVNES1hqRjlKMXNtZXpGMWdwZmRMcEVjUmdMalV4dHU5Mm9OQUZnNV9vNVZ4bDZYZWNIYnFJcGl0aXNpY0dhaDZiQWNtUXhUTEFfVVRjVjA0eng4MktCdTllWjRLRjVSRVcyUlRuMFZuYWhEWVNKMzdVMmRLQml0cHVsTFN1T2JRaERtOHE0RU1vZlZBNTJBLWdwWlg3SW9yNkhpUjZVSzBHY3pZQ3VqeDJGTWM0TTkzaktZQ3h6dFhRWVZnN2h5S3dkVlZQV09Hbmw0N1B5Vkp2bm1kWkh4N04tbzgyRzFCUEE?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-18T19:33:35.000Z",
+     "time": "2026-11-18T19:31:54.000Z",
      "seen": "2026-11-18T19:24:52.350Z"
+    },
+    {
+     "title": "حريق في مقر وكالة الاستخبارات المركزية الأميركية بولاية فرجينيا",
+     "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOd0h4ZHE4RWVHTzdQSXJ3T1pBT3VmamZUYkxQT0JEVHNHVVV0MUx1bW5TSlFQWDVZTlYwTFJDbFBJRTJ4MkhOMjZQV0JXTU5UTmY2RVZxeklDQUJwVlpFRGxLQVhoNURwNXk3ek9UR0JSNmJidmhKQXkzc182S0Y1OFg3TkxRSTdMcl9QTk5YTzNRVTNvRE9iQjlwTFl2NDNKeVlQc29PdzZRQ3lHRXdOTk5xUnJ4VlBsQmxORVhfaFVQN1ZyaTBuOGZvaGUyeTU0WEhya21pbExNTDZKWS1jWXhSSW9CSnpqdEw3UTRFQ1dKZldJWnBQOWpMemdIazN4VklteGN3S1BtdkstWHRCUWEwMHZESWVBcG5tUzNiWEV0RWx4UXFwRlg3S1d0dDVGSVJTVFQyempsSk1Wa3ZQSUU2aFpxU1hMSnM0WWJ3SkZGZnFTbEllWWk4dzEzZnJOSS0xTFJZdnd2UUpORWRFUnctTDRBclozWlhoQnhXRlVoTjlJeEppWXVuTlE0YVRlSk42c2h4U0VWcHhlTEY2ajJhRVhUekx6N2JEMWFieklYLXI0MndiYU1VVkljUnFqM2c1MkdFVUxtMmRQRVlmQVZ5SDdvT2dfd1MyWWNvRVlwR2ZxTW1jMkMwMXNkZjgwdWszcTl1LWV4MVBrOUJfODU3bDdKVmQwQjQwR2Y4RVpRVWxITG9GejBSU0VBWk54YzlMMDVzY0hydU1uU0ZiWUhhaFZrNmF6YkJteVBNVHNZUVBhaGRPbEJBaDMyS0VPZk5qUmpfMkY5N0xnQmR1UkZpMEtydDQ4Tl9UMk5DQkhIckk4OGszNC1LSHYwUnVybm9wNGhVTFowWFdpRGFQb3dkbnJMOV85MUpJMmhMVlFYUGtmSWhydlJOSlozNzRIeVNKdVNybHk4Z0U?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-18T19:07:30.000Z",
+     "seen": "2026-11-18T22:45:19.833Z"
     },
     {
      "title": "بعد خسارة الليكود رئاسة الكنيست: ما تأثير دعم الأحزاب العربية على مسار تشكيل الحكومة؟",
@@ -551,20 +557,13 @@
      "source": "BBC عربي",
      "time": "2026-11-18T15:29:08.000Z",
      "seen": "2026-11-18T08:33:19.472Z"
-    },
-    {
-     "title": "اختراع صيني يحدث ثورة في علاج الصلع",
-     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPa3BOR252NXRtUVctaG5sNTBkaWhIdW9EVVEzbGxiR002NkthczZQemFub2lYNlZQVER6TEppQ3BjYmpBR0pSeER2LTRUOHNGUVdPMEhYdmFzaTkxYndMd2ViOXlaWVpUczBmMG1aQm56MFI2V3NjNWQyVWdKWHZReGJLWHcyYm94ZGRXQk5HM0Z2bEpXWEhSbVJHdVZaNkRUazlXM1ZxTjB1a0pNb3FhQVNNUFZ2Xy1nU3lUN1dLWHluSGlnRVVZRE1IVmFFbWpQcEtwX3Bncm9mYmlkazlfQ0Y3OWlkZjdyRGdGd3Q4RGVWX3FlbGhwWm5wT0NhNmJxTmFXWmxUN2pfWFV1S1I0Tmg2MGxPdm90V1FFWkJ4OXlsTjF5N1BUcHhTRGRjc2tmd0Q3MjFyS25OQjEx0gHCAkFVX3lxTE5IMUhmUnlXeGEyRS1naFR6WFpqWUNvQXd3NGJKVFJTYTg0cndwTDc3c0xvTzJ3V3N4Zy1meXMwdTJrTTBhaTZaRl93c2s0R2RobkhVcVNJX3VxdXBqZDZEVGFGZkhfeTdEYzg3WXVoeTdObGM4M2lPanRlY1NTMFVGMUE0cWJ3Z3Z5aWk1UzU4d3A0Z09sUlFiMEl5dGNzc09MQjRjMUcwY1pDZ09jR0VVN25JaUxFNnlnU0lCdG9fY0pYYXpVSHdCckNzUFhJd0pGVmRqSDRCZG9STHpSSnU1N3lSYmdISmMzblM2d2VmVFpJZEdSYzd1S2JfMWJpbGlKWW1MeU92QVBscUFSVTlGZnJnaHBDVjA1WmJJMG9BS2UtcHdDRXRHeHNEdEtGTV9UZ0lCRnFYVElKSUExYjQ3d3c?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T15:21:29.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
     }
    ]
   }
  ],
  "failed": [
   {
-   "section": "tech",
+   "section": "economy",
    "feed": "www.bing.com",
    "error": "no items"
   }
