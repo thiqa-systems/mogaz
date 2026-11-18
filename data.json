@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:45:20.337Z",
+ "updated": "2026-11-18T21:55:19.371Z",
  "minute": [
   "تراجعت مؤشرات البورصة المصرية وأسعار النفط والذهب والفضة، مقابل ارتفاع سعر الدولار والدينار الكويتي واستقرار الدرهم الإماراتي.",
   "أعلنت وزارة البترول التعاون مع شركة يونايتد إنرجي للتوسع في مشروعات الطاقة المتجددة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-18T21:34:52.811Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T21:55:19.371Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5634,
-   "change": -3.4,
-   "asOf": "2026-11-18T21:35:17.000Z",
+   "value": 5629,
+   "change": -3.49,
+   "asOf": "2026-11-18T21:46:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6432,
-   "change": -3.4,
-   "asOf": "2026-11-18T21:35:17.000Z",
+   "value": 6427,
+   "change": -3.49,
+   "asOf": "2026-11-18T21:46:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3729,
-   "change": -3.49,
-   "asOf": "2026-11-18T21:35:17.000Z",
+   "value": 3726,
+   "change": -3.57,
+   "asOf": "2026-11-18T21:46:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,16 +65,16 @@
    "unit": "$",
    "value": 1.0977,
    "change": -0.19,
-   "asOf": "2026-11-18T21:44:43.000Z",
+   "asOf": "2026-11-18T21:55:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.9,
-   "change": -4.55,
-   "asOf": "2026-11-18T21:34:21.000Z",
+   "value": 88.85,
+   "change": -4.61,
+   "asOf": "2026-11-18T21:45:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62253,
-   "change": -4.07,
-   "asOf": "2026-11-18T21:45:13.000Z",
+   "value": 62235,
+   "change": -4.1,
+   "asOf": "2026-11-18T21:56:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سعر الدولار في مصر الآن",
-     "url": "https://www.elbalad.news/7186017",
+     "title": "ضبط 800 كيلو لبن غير صالح للاستهلاك الآدمي خلال حملة رقابية بالمنيا",
+     "url": "https://www.elbalad.news/7186129",
      "source": "صدى البلد",
-     "time": "2026-11-18T21:45:00.000Z",
-     "seen": "2026-11-18T21:45:20.337Z"
+     "time": "2026-11-18T21:54:28.000Z",
+     "seen": "2026-11-18T21:55:19.371Z"
     },
     {
-     "title": "ابنة فاروق فلوكس: فخورة بمشوار والدي الفني وإنه قدر يصمد أمام صعاب كبيرة",
-     "url": "https://www.elbalad.news/7186115",
+     "title": "برلماني: تكريم السادات انتصار لفلسفة السلام العادل.. ورسالة أمل في زمن الاضطرابات",
+     "url": "https://www.elbalad.news/7186110",
      "source": "صدى البلد",
-     "time": "2026-11-18T21:44:30.000Z",
-     "seen": "2026-11-18T21:45:20.337Z"
+     "time": "2026-11-18T21:53:17.000Z",
+     "seen": "2026-11-18T21:55:19.371Z"
     },
     {
-     "title": "من ملاعب مونديال 90 إلى متاجر لندن.. حكاية قميص هشام يكن التاريخي",
-     "url": "https://www.elbalad.news/7186119",
+     "title": "«متحدث الخارجية»: تكريم السادات يُذكّر العالم بأهمية السلام واحتياجنا إليه اليوم | فيديو",
+     "url": "https://www.elbalad.news/7186126",
      "source": "صدى البلد",
-     "time": "2026-11-18T21:43:52.000Z",
-     "seen": "2026-11-18T21:44:52.305Z"
+     "time": "2026-11-18T21:52:46.000Z",
+     "seen": "2026-11-18T21:55:19.371Z"
+    },
+    {
+     "title": "جمال السادات: تكريم والدى بالميدالية الذهبية للكونجرس الأمريكى مصدر فخر",
+     "url": "https://www.youm7.com/story/2026/11/18/جمال-السادات-تكريم-والدى-بالميدالية-الذهبية-للكونجرس-الأمريكى-مصدر-فخر/7624164",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T21:41:00.000Z",
+     "seen": "2026-11-18T21:55:19.371Z"
     },
     {
      "title": "مدبولي يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة",
@@ -179,11 +188,11 @@
      "seen": "2026-11-18T21:14:52.289Z"
     },
     {
-     "title": "رئيس الوزراء يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة",
-     "url": "https://www.youm7.com/story/2026/11/18/رئيس-الوزراء-يستقبل-رئيس-حكومة-الوحدة-الوطنية-الليبية-بمطار-القاهرة/7624135",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T21:05:00.000Z",
-     "seen": "2026-11-18T21:14:52.289Z"
+     "title": "رئيس الوزراء يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة الدولي",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXV2J1a0RRd2VoRHY2LU9DMUJlUXdjTzF2ZmZUQnRmOHNfR0RnRzZpTl9MTXdIU0IwcHdrOXBsSzNaNnRkRkljV29ycFhqMTN0UjhyMjZrNHFjNTdiRmc4?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-18T20:41:00.000Z",
+     "seen": "2026-11-18T21:55:19.371Z"
     },
     {
      "title": "مدبولي: مشروع \"نيفيرا مصر\" نموذج للتكامل بين التخطيط الاستراتيجي والاس | مصراوي",
@@ -226,13 +235,6 @@
      "source": "جريدة المال",
      "time": "2026-11-18T19:33:31.000Z",
      "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
-     "title": "مدبولي: اهتمام مبكر من الشركات والمبتكرين بالمختبر التنظيمي لتكنولوجيا التجارة",
-     "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQT1JLZlJKWGIzMmFhRnVwbDJVMDJVaEQyYkE1cUJtMjNNemY2N29hX3VtRE5GRXRac2sxdXkxLXc5d3lyc3EyRHI3S0FudUZ3TUdWTXNLNWNaSmlDYXJ0TXF3WFBlOWs2SDA4TDZUcWFMQTdTdUp6S2RjMGk5MWFUNERhR3JDUTBSUWN1bDFEcVNzVTJkZzY5bEVCdVo0eEE2WVpGaDlQWndTMjRJeFV6R2prRVJSUGU5YzhuVnZFdXY3Tnh3TklWNUJ2d0luUEFTZWdnTVBFRVpUdVFKbWtBOEJfUGRqM1BGcHdjVk8zaXkzT0ROM1E1U3FBWVoxaHpZUU4yS3c2cmJ0eGdkVzJ4dDRPMjkybmdPU3dqbWp4UzNzR2ZiNHZwbFVPVU5Hb01yQ0dLeG5FTXBPcGJnWmJQV1JDc2FuY3hmLV9keXM2WWpKZHplNXJSZ3dHazQxc2dYM0tEUjRhcEswSWhLTFc3TTlrQm9DQmNFWXZXVlk2Ty1WOHZtZWRkeExTeUxPRzJMWVdMc0JDdFhhMW9Fd1Uyc1hhVElwdw?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-18T19:19:41.000Z",
-     "seen": "2026-11-18T19:24:52.350Z"
     }
    ]
   },
@@ -240,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار في مصر الآن",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2RjZjMDVGekFjMlF3ZFFrSElmV0NjSC1vSkZxZGhLU0J2bTN2RGNybjEyOVU0WE5LWXZfQ1lwWTl4ODdPSHVr?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-18T21:45:00.000Z",
+     "seen": "2026-11-18T21:55:19.371Z"
+    },
     {
      "title": "استقرار سعر الدرهم الإماراتي أمام الجنيه في البنك المركزي اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tWGtqU3Rub0Q1RnowRTI0S0lzaHVMeWQzWDdXbmQ2NDE3WDhicjYyUmFIZlh3QW9NS21wUWx4STJ3UDBKNzZj?oc=5",
@@ -329,18 +338,11 @@
      "seen": "2026-11-18T19:14:52.585Z"
     },
     {
-     "title": "صندوق النقد يتيح لمصر 2.3 مليار دولار بعد الاتفاق على المراجعتين الثامنة والأخيرة",
+     "title": "صندوق النقد الدولي يتيح لمصر تمويلات بقيمة 2.3 مليار دولار",
      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNVUJhQ2lZcmFfc0ZUUGpDSWZwSHZSalprU0NTOUxHeTlmQ2lxMTJRM3VyQXJKWks4SzBveHAzMGxxc0VNaEo3NkJ0UVRVZ3I2UUstQ3ZOcFN3am13aHRBaUQxcmMtYVhLWWNmQkdOQU1qWjdMek9XbWhDakVJTnRKNV9EazAzRHJ1Mkd6d2x2NnJnUDM1ZG5ib0Z0dTg1ZkhkMU55X1NpLXVYZm0zTDNxdU82d2FvNHdCX3B5eW9xUFZKQzEwaUtpaElVMUFpZ3o5WTdyU0Z1Qzk1RUREQzVraVRtLWJlVmx3TDg5ZXhISGRRZEpZSnlfLTBPV3o0cUhWaDlGVm9TSjhPYTZzOHAtcXZicmV0S0NhTFRyM2J3OUJmYUtzcEVDRTJVZEF5amxYd2lSQTNoNXpYSEpadFBSMU42SnBhZWpLWVBzbGpNcEpINElrQjBLSDNGSHVPTFpOWkxzOHRfN3ZUX3NHaXZNUzl2SW1LdFdZcnJSVXRsZHR3QlZwa3JvRlJ2RzAyVzdfVnU1bWpXX2NZZF9vQkxENGdmRHFWRUxmQWdKMDYtY0psV0pXWHo3aTNPbWxoTk8xWXl1eHdKVE1oN3ZKRU9RWmplcS1LUGVQ?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-18T18:07:24.000Z",
      "seen": "2026-11-18T17:44:52.901Z"
-    },
-    {
-     "title": "اتفاق بين مصر وصندوق النقد يمهد لصرف 2.3 مليار دولار",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPWU9BajlidGNET1lZcHlJT2ZRbVlUNkQyMkFpeTJjM3VaSEoxUzdCOV9VbERwT2FhMUFMbnR6cXBlc1pNeTlZZjZtNEJDWVppY200U2NXeWI4QzZLbTdEeENQR3lzRVBSNGQtTmRPUDByY2ZjOXRsOThRUkNFaDhrNVRzLWNxZG1ac0dnQi1WV09QUTNZeml4TExNNjAxWUxmemtjczVZVmVvZDE3RFRWdnd0QlczSDg2X1pJYzZXQXdFNEhtbDZoUXhseFJTRVFDdDZsTFJHbE9hUm9TYkxiMDFFVGdiRUlfZm5nTEpyTHN5Y0Qxc19GYVQ4LUdmOHcyVHVRdkd5cGxZQWx5WlZiWXU4aEg3MEQ4SWlOUl8yZlB6NHp6MDdxelR0WDNoMUxnTFF5VkxjcUdmeWNwa2ZFdm9HVUh4V29Uekw4SDVCNDZFb3RIYTJaVQ?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-18T18:06:01.000Z",
-     "seen": "2026-11-18T18:24:52.820Z"
     }
    ]
   },
