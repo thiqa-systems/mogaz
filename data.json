@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:24:52.506Z",
+ "updated": "2026-11-18T16:34:52.605Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T16:24:52.506Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T16:34:52.605Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5663,
-   "change": -2.9,
-   "asOf": "2026-11-18T16:14:56.000Z",
+   "value": 5658,
+   "change": -2.99,
+   "asOf": "2026-11-18T16:26:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6466,
-   "change": -2.9,
-   "asOf": "2026-11-18T16:14:56.000Z",
+   "value": 6460,
+   "change": -2.99,
+   "asOf": "2026-11-18T16:26:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3749,
-   "change": -2.99,
-   "asOf": "2026-11-18T16:14:56.000Z",
+   "value": 3745,
+   "change": -3.08,
+   "asOf": "2026-11-18T16:26:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0967,
    "change": -0.28,
-   "asOf": "2026-11-18T16:24:47.000Z",
+   "asOf": "2026-11-18T16:35:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.09,
-   "change": -4.35,
-   "asOf": "2026-11-18T16:11:14.000Z",
+   "value": 89.03,
+   "change": -4.41,
+   "asOf": "2026-11-18T16:26:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7315,
-   "change": -0.35,
-   "asOf": "2026-11-18T16:24:57.000Z",
+   "value": 7310,
+   "change": -0.41,
+   "asOf": "2026-11-18T16:36:22.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62609,
-   "change": -3.52,
-   "asOf": "2026-11-18T16:24:56.000Z",
+   "value": 62454,
+   "change": -3.76,
+   "asOf": "2026-11-18T16:36:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "توقيع بروتوكول تعاون بدمياط مع الإسكان والمجتمعات العمرانية لمعالجة المخلفات البلدية الصلبة",
-     "url": "https://www.elbalad.news/7185768",
+     "title": "ضبط المتهم باحتجاز زوجته داخل شقة بمدينة بدر لإجبارها على الطلاق والتنازل عن حقوقها",
+     "url": "https://www.elbalad.news/7185786",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:24:17.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
+     "time": "2026-11-18T16:33:57.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
     },
     {
-     "title": "قطع مياه الشرب 6 ساعات عن باقور وتوابعها بأسيوط فجر الخميس",
-     "url": "https://www.elbalad.news/7185755",
+     "title": "قرار عاجل في محاكمة 36 متهما بالانضمام لجماعة إرهابية في مصر الجديدة",
+     "url": "https://www.elbalad.news/7185784",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:24:17.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
+     "time": "2026-11-18T16:33:16.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
     },
     {
-     "title": "استمرار مبادرة وعيك السكاني يهمنا بدمياط",
-     "url": "https://www.elbalad.news/7185748",
+     "title": "تكريم السادات في الكونجرس.. عفت السادات: تقديرا لدوره التاريخي |خاص",
+     "url": "https://www.elbalad.news/7185782",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:23:47.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
+     "time": "2026-11-18T16:32:13.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
+    },
+    {
+     "title": "غلق كلي لكوبري قصر النيل في اتجاه التحرير لمدة 15 ساعة الجمعة",
+     "url": "https://www.youm7.com/story/2026/11/18/غلق-كلي-لكوبري-قصر-النيل-في-اتجاه-التحرير-لمدة-15/7623901",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T16:25:00.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
     },
     {
      "title": "مسئول أفريقى: فخامة الرئيس السيسى رائد ملف إعادة الإعمار والتنمية فى أفريقيا",
@@ -174,11 +181,18 @@
      "seen": "2026-11-18T16:24:52.506Z"
     },
     {
-     "title": "بأغلبية ساحقة.. ترشيح الديمقراطى حكيم جيفريز لرئاسة مجلس النواب الأمريكى",
-     "url": "https://www.youm7.com/story/2026/11/18/بأغلبية-ساحقة-ترشيح-الديمقراطى-حكيم-جيفريز-لرئاسة-مجلس-النواب-الأمريكى/7623885",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:16:00.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
+     "title": "مجلس الوزراء يوافق على إنشاء المنظومة الوطنية الشاملة للبيانات",
+     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNaW00ZWlOSmhuRVpQWHdfQlNTV2M2SGVBa1FPOXRpM2owejZsVnJ2MXNSOEtCSTlBcXdIdHlhTEpJZk5MQnBXTmw5NWRqaUhLZkVOa3NTYVlYbWNiUG5YMlpGdmhmbUZrejhLWGRfaGhGaDVMUVBrT0VPeElTZEhfZ20zWG9CT3lLQzdWeGpQcXI4VGwzaXRwSVYzTDNsZEdmSUgxa0oyeHl6QXMtdkxkWHZCdktUZ2lfWm44Nnc5TEJRRUJhSXFjNEtPOE11eGZRa3EzbENUM2F1UnJXejhkQWlmeDd0SDlmZ3RSUkhPQURFYTNXYmM4S0RNd0ZLcEZ3ejNOU1VXdndiUGtQc09vMjhiRVRwczVMd3NBU0FpM2J3Zld5d1RuUE1ZWFloeFh3SGRqTE5NT2wwUWs2a09yVDlVWDB1OWphakxXaFRWRFg2VHF0SkQxQ2VGTWFVM2oxM1I2WUxPWDRHWFkwaTRqaGYtNWh6SVRTRnFmbmg0SDdUcHFJZGc?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-18T16:16:12.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
+    },
+    {
+     "title": "مجلس الوزراء يعيد تشكيل اللجنة العليا لمكافحة التبغ برئاسة وزير الصحة",
+     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQWjdvc2tQOEFVSzUzb3RaYVBMMkw4QTRiUFJ1VkVLMFJQU21BQ3dkeGFLWE9yM2lsNVRhUjRkNG13Rm5DaTVTN0xFSmdkWmxabG1jZEZrVU1BTUtSMkZBNTVkNWZEMWZHVkc3Qi1vM2VMaFhSOEREQ3R3bGExcFpPZ2k5MGFwanY3TkR4UE93dERlQmxCX2lza1lYc3VwcnVCYzl0MThuNlR2bmJhbldDcnNkbmxzQWRDbE5MaEJkZktsTGJBZkgyNkREVlFZc0JJdUJ5OUFvQTlfR1ZWSm1xS04yTUxjcGNHaDlRODFZRnpPdW4tTFd4UXR5WWx5dVhFNFc2NVk2WlBaNWJYeW02WTROdHFsRVhuWnhPRFJBYjRlS2dSZUprVFlvWnU0U3pDY0t2VUNyS1VoZnhydF9xMGxEcTJ2NkpLV0NLampYc3d5OWc5YXRocG9wZ2hxVmlZQ0dTdm9GdFdPVFRkanVTLXNCUXpaUUhUYTRZZU5RZFFoRGZWanc?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-18T16:11:36.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
     },
     {
      "title": "مدبولي: «نيفيرا مصر» مشروع استراتيجي لتنمية غرب القاهرة وتعزيز مكانتها السياحية والاستثمارية",
@@ -221,20 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-18T13:37:00.000Z",
      "seen": "2026-11-18T13:43:33.443Z"
-    },
-    {
-     "title": "مكالمة هاتفية تكشف كيف تخلص أب من ابنته فريدة في المنوفية: \"أنا رميتها في المية\"",
-     "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPaS11M2xUQk9TS3Y4TGZZZXEyZHZMVlFEMHFJRDdsMmdXMlRzcGM0Um5USDZFWm5wWE5xa0hBLVM2YXRNOG5yWVdrZkotZDhMUnMycWVtekp3eUM3YnNkd0lPdmo4YnhUSGJiU09hVmNhR1RIZ1liOXZCcnJmeTB4YjF0bmNCZENrR2hNYkdLMVc4QXUtTUZwMVd5QVNSLTdLQkZjZ1BLM2g2U3h0S0FCcHFKc3hSYXpTUlBXRjA1NVFaMHllT09mOHVUZUZ5a2xWVTdYVVVMelRNNnFBU3NrM09lcXJuTjRKV1oyR0hOV2N3cjI0dW9sS0FBTFB1UXF5MExuUjBDTVA5VElsa09KUXJNRGVxWkxkSUJVaW9aQmM4T2k4XzFjazJ1X1NSaXhVUW5SbUFsQUtpMGtGVC1IcDdTSE96R0dwTGFvZGhRRGNlTV9yUXh2QmI4TGZXanZOUkROOXd0RVh4RHIwbG9IOEdHbGQxOXlSRjl2U2dNcWhtcjEzQ3ZobG9CYjROSXlILTBrSmJhWkM3alVOa0xuTTluaUxwRjN3d05WTHdOc0NRY1dqS2ZzNnZ2T0dkMWFubzRXaVhxM0xaNF91LUw4YUlkWERWLV9OTVRrSzgxRGhvWWI2VmJ3Yl9rblBJWmVyZzN5eXFfWXZUTlpKN092QWdfMlJCeFdRUFVpVFoyeXhLc092ME1mN09IYkpIQWRadTIybDNRWC02UDlWQzV1NWd6eGdQM29DbG5UQllJNjR5WXBLR200SXFrSkNqc2R3eHJBcmk5Z2VIUzB5bFFkZW5lRmplZTA2eEphTm5fLTN1QWlTVHBDNmw4QlJIdDAxYUVxVdIBigVBVV95cUxORHpINlZlbTFqYlpyWmdYb2F5SE4wRHNnQWFVVHhGODNjX05MLTFlUk1rSU9vYlo2WFdVSFlaS1hwWWhQQ2VNdGE3YXo4TElNU0pwbnM4V2UxVFg5eU14cGh3WHFQYWJNZGFpUzZqd2dmV0VCSndRUmlSdkNjLW9sRUo4Y0lreVZxM0ZKZkVXanlfbFBZdmI2QWYzSU4xU3g4akJ1NlotLWloVTliUnc0QTd2WUVIRk9jcGx2endxWDlfeWw3QUZ6R2hqaGFsLU9QR3g3Vko2NjdBUXZkbkhlSnlzZ1J3b3hIdG5tdDU5eEJhbkYxaWE0ZTUwOEZGWlRzU1dtbUFRRnN5X24xSzRMb0dnTU5RRURFOGdXdDFCMDdmLXdQZUxvLXE5VkpmSFE3dno4MUF2WEZIZGdCX1V2N3B1bXVGWU9pUTBEaWZHSTZWV29RSmRLRW5fOFhXM2g2RzZNLTVrSnRmdGNiME1oMVJpWUpBSV9vVVVhZVMxUGY2VmFUZEVEbXdkTVhJYy1ENkUta0steFM0OHQ0WVhfM0dvSTNORnRuZGZRMkJ2Y2F3ZzVqcl8xeUhLYV9WZVBDTm1zRk44VGhHNUx1WEY1bXRxdkwwdTFLdUtaa3RlS2piNWdPZ1YzS1pQazBrYzV6UGhJVG9QNVVLSEhCbmZvdjFTNERta0VZWkNBcmJnSzlxYVNCSG1sN3llSmZJb1d2d25tdkJmQWpiY29mY0s4am5oR2hMaFpwanh6SW1icDN1YktvVHYzV29wa1NWR0JyTl83OWsyaWFBbDkwUGJKT3dqN2lqeDdNbTBTamhXZVptUEVWVUd4VnBwODBUTXBkQU0yYnRfaUcxUQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T13:21:09.000Z",
-     "seen": "2026-11-18T15:23:34.039Z"
-    },
-    {
-     "title": "فيديو متداول لـ\"إعلان البنتاغون وجود كائنات فضائية بين البشر\".. هذه حقيقته",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjlkZVBZalV4cG83bmlZQ05HUFNGV0o2YVF5bVdMZExaN0lUd29taHNBUEtSdjkwT09uUWw1b2I5NHQ5eW5sbi1FQWc2RGE5cjNNZ2FDMnAtR0hVWlpXY0lyb3lpVXctVC1fS3JocDB4MlpaZnpiRXF4SzFuSk9FN2p5bTE5NmFoOENKc0FnRmkxZw?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-18T12:59:38.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
     }
    ]
   },
@@ -424,6 +424,13 @@
      "seen": "2026-11-18T15:43:33.814Z"
     },
     {
+     "title": "هكذا كشف صعود العرب في انتخابات إسرائيل عنصرية الإعلام والسياسة",
+     "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%83%d9%8a%d9%81-%d9%83%d8%b4%d9%81-%d8%b5%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a8%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T13:31:24.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
+    },
+    {
      "title": "اليمن: تصنيف الحوثي \"منظمة إرهابية\" بقانون من 55 مادة وعقوبات تصل إلى الإعدام",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/yemen-designation-of-the-houthis-as-a-terrorist-organization",
      "source": "CNN بالعربية",
@@ -431,18 +438,11 @@
      "seen": "2026-11-18T13:33:33.942Z"
     },
     {
-     "title": "\"مشتاق لأولادي\".. صرخة أردني عالق بغزة",
-     "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%85%d8%b4%d8%aa%d8%a7%d9%82-%d8%a3%d8%b1%d8%af%d9%86%d9%8a-%d8%b9%d8%a7%d9%84%d9%82-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9?traffic_source=rss",
+     "title": "ارتفاع النفط والحوافز يرفعان مبيعات السيارات الكهربائية في أوروبا بأكثر من 60%",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/18/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%88%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%81%d8%b2-%d9%8a%d8%b1%d9%81%d8%b9%d8%a7%d9%86-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-18T13:00:00.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
-    },
-    {
-     "title": "عطل مايكروسوفت.. من يدفع 7 مليارات دولار خسائر؟",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/18/%d8%b9%d8%b7%d9%84-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d9%85%d9%86-%d9%8a%d8%af%d9%81%d8%b9-7-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T12:58:28.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
+     "time": "2026-11-18T13:26:51.000Z",
+     "seen": "2026-11-18T16:34:52.605Z"
     }
    ]
   },
