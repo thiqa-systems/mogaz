@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:32:31.867Z",
+ "updated": "2026-11-18T04:42:31.562Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T04:32:31.867Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T04:42:31.562Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5723,
-   "change": -1.88,
-   "asOf": "2026-11-18T04:22:43.000Z",
+   "value": 5720,
+   "change": -1.92,
+   "asOf": "2026-11-18T04:32:31.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6534,
-   "change": -1.88,
-   "asOf": "2026-11-18T04:22:43.000Z",
+   "value": 6531,
+   "change": -1.92,
+   "asOf": "2026-11-18T04:32:31.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3791,
-   "change": -1.89,
-   "asOf": "2026-11-18T04:22:43.000Z",
+   "value": 3789,
+   "change": -1.94,
+   "asOf": "2026-11-18T04:32:31.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0989,
-   "change": -0.08,
-   "asOf": "2026-11-18T04:32:46.000Z",
+   "value": 1.0991,
+   "change": -0.07,
+   "asOf": "2026-11-18T04:41:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.67,
-   "change": -0.5,
-   "asOf": "2026-11-18T04:21:36.000Z",
+   "value": 92.7,
+   "change": -0.47,
+   "asOf": "2026-11-18T04:32:31.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64483,
-   "change": -0.58,
-   "asOf": "2026-11-18T04:32:55.000Z",
+   "value": 64392,
+   "change": -0.72,
+   "asOf": "2026-11-18T04:42:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -243,6 +243,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "كيف وقع الهجوم على جسر القرم الذي يحظى بأهمية كبيرة لدى بوتين؟",
+     "url": "https://www.bbc.com/arabic/articles/c60ev4wxz2r0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T04:31:28.000Z",
+     "seen": "2026-11-18T04:42:31.562Z"
+    },
+    {
      "title": "انتخاب متان كهانا من حزب يقوده آيزنكوت رئيساً للكنيست الإسرائيلي",
      "url": "https://www.bbc.com/arabic/articles/cm792d8pqy1ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -335,13 +342,6 @@
      "source": "عالم المال",
      "time": "2026-11-17T22:01:33.000Z",
      "seen": "2026-11-17T22:11:04.589Z"
-    },
-    {
-     "title": "سعر صرف الدولار في البنك المركزي المصري (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TcEZmSHdOVGtTMi04SlZYbEZzNmNnbXNkUVp0cEVLa3FJbG1xZjBQN0NkUXJkMWNaZzJRbEJ5NDlGUm13U1Zn?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-17T21:10:00.000Z",
-     "seen": "2026-11-17T21:21:05.243Z"
     }
    ]
   },
