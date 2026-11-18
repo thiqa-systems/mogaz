@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:52:31.363Z",
+ "updated": "2026-11-18T02:02:31.826Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T01:52:31.363Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T02:02:31.826Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5758,
-   "change": -0.98,
-   "asOf": "2026-11-18T01:43:03.000Z",
+   "value": 5752,
+   "change": -1.38,
+   "asOf": "2026-11-18T01:53:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6574,
-   "change": -0.98,
-   "asOf": "2026-11-18T01:43:03.000Z",
+   "value": 6567,
+   "change": -1.38,
+   "asOf": "2026-11-18T01:53:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3814,
-   "change": -1.01,
-   "asOf": "2026-11-18T01:43:03.000Z",
+   "value": 3810,
+   "change": -1.41,
+   "asOf": "2026-11-18T01:53:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": -0.03,
-   "asOf": "2026-11-18T01:52:48.000Z",
+   "value": 1.0997,
+   "change": -0.01,
+   "asOf": "2026-11-18T02:02:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -73,7 +73,7 @@
    "name": "خام برنت",
    "unit": "$/برميل",
    "value": 92.85,
-   "change": 0.44,
+   "change": -0.31,
    "asOf": "2026-11-18T01:42:54.000Z",
    "source": "Yahoo Finance"
   },
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64376,
-   "change": -0.74,
-   "asOf": "2026-11-18T01:52:58.000Z",
+   "value": 64130,
+   "change": -1.12,
+   "asOf": "2026-11-18T02:03:31.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نورهان حشاد تكتب: بصمة لا تتكرّر ... حكاية اختلاف أرادها الله",
-     "url": "https://www.elbalad.news/7184979",
-     "source": "صدى البلد",
-     "time": "2026-11-18T01:40:40.000Z",
-     "seen": "2026-11-18T01:42:31.721Z"
+     "title": "مواعيد القطارات على خط «أسوان - القاهرة» والعكس اليوم الأربعاء 18/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/18/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-الأربعاء-18/7621964",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T02:00:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
     },
     {
-     "title": "إبراهيم سعيد يُقارن بين الجيل الذهبي والمنتخب الحالي: البطولات تُصنع بالروح وليس بالأسماء",
-     "url": "https://www.elbalad.news/7184986",
-     "source": "صدى البلد",
-     "time": "2026-11-18T01:38:51.000Z",
-     "seen": "2026-11-18T01:42:31.721Z"
+     "title": "مرصد الأزهر يحذر من التطرف الرقمي: الخوارزميات بوابة لاستقطاب النشء",
+     "url": "https://www.youm7.com/story/2026/11/18/مرصد-الأزهر-يحذر-من-التطرف-الرقمي-الخوارزميات-بوابة-لاستقطاب-النشء/7621922",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T02:00:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
     },
     {
-     "title": "ترتيب مجموعة المغرب في تصفيات كأس أمم إفريقيا 2027 بعد الفوز على النيجر",
-     "url": "https://www.elbalad.news/7184983",
+     "title": "قبل الشتاء .. 4 خطوات لغسل البطاطين يدويًا والتخلّص من رائحة «الكمكمة» دون إتلافها",
+     "url": "https://www.elbalad.news/7184975",
      "source": "صدى البلد",
-     "time": "2026-11-18T01:31:25.000Z",
-     "seen": "2026-11-18T01:32:31.505Z"
+     "time": "2026-11-18T02:00:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
+    },
+    {
+     "title": "«فاتورتك هتقل النص»| الكهرباء تُفاجئ أصحاب العدادات الكودية بتخفيض سعر الكيلووات",
+     "url": "https://www.elbalad.news/7184948",
+     "source": "صدى البلد",
+     "time": "2026-11-18T02:00:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
+    },
+    {
+     "title": "«شبانة» عن عقد علي محمود: أحيّي الأهلي وإنبي على البنود",
+     "url": "https://www.elbalad.news/7184931",
+     "source": "صدى البلد",
+     "time": "2026-11-18T02:00:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
     },
     {
      "title": "غرامة تصل لـ500 ألف جنيه.. قانون حيازة الحيوانات يلزم أصحابها بـ4 ضوابط للرعاية",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T01:30:00.000Z",
      "seen": "2026-11-18T01:32:31.505Z"
-    },
-    {
-     "title": "الكنيسة تحتفل اليوم بذكرى تجليس البابا تواضروس الثانى",
-     "url": "https://www.youm7.com/story/2026/11/18/الكنيسة-تحتفل-اليوم-بذكرى-تجليس-البابا-تواضروس-الثانى/7622205",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T01:00:00.000Z",
-     "seen": "2026-11-18T01:02:31.730Z"
-    },
-    {
-     "title": "قبل فوات الأوان.. مركز المناخ يكشف 5 أخطاء تهدد محصول القمح من بداية الزراعة",
-     "url": "https://www.youm7.com/story/2026/11/18/قبل-فوات-الأوان-مركز-المناخ-يكشف-5-أخطاء-تهدد-محصول/7620355",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T01:00:00.000Z",
-     "seen": "2026-11-18T01:02:31.730Z"
     },
     {
      "title": "\"الإعلاميين\" تقرر منع لقاء سويدان من الظهور وإحالتها للتحقيق",
@@ -243,18 +243,18 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWQmNydkNEZllhVDZCNFdIa3VFRURpQ2FSUThvZ0JnM2x0S2ZKaklXdDVXTGdqZzRZTV9LX05rVUhEUUpE?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-18T01:53:25.000Z",
+     "seen": "2026-11-17T23:01:04.412Z"
+    },
+    {
      "title": "لو معاك 100 ألف جنيه.. اعرف أرباحك الشهرية من شهادات البنك الأهلي وبنك مصر",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aM09GOG1vQjAxNTV2OEZUalZ0N18wbXJtMy15R09GQ1hkT1pCSUlrN1FzcmdmR1FnOG44OVdTZ09UeDFDRjQ1dlNFSFl0dHlaR2lvOFFvN1Q5eGZnZmJn?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-18T01:23:00.000Z",
      "seen": "2026-11-18T01:32:31.505Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWQmNydkNEZllhVDZCNFdIa3VFRURpQ2FSUThvZ0JnM2x0S2ZKaklXdDVXTGdqZzRZTV9LX05rVUhEUUpE?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-18T00:23:25.000Z",
-     "seen": "2026-11-17T23:01:04.412Z"
     },
     {
      "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية المحتلة",
@@ -348,6 +348,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "عطل يطال شبكة تبادل المعلومات السرية داخل وكالة الأمن القومي الأمريكية",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%B9%D8%B7%D9%84-%D8%AA%D9%82%D9%86%D9%8A-%D9%8A%D8%B5%D9%8A%D8%A8-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-18T01:43:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
+    },
+    {
      "title": "لماذا ستضعف قبضة نتنياهو على السلطة بعد انتخاب رئيس جديد للكنيست؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/israels-parliament-elects-new-knesset-speaker-weakening-netanyahus-grip-on-power",
      "source": "CNN بالعربية",
@@ -383,7 +390,7 @@
      "seen": "2026-11-18T00:12:32.036Z"
     },
     {
-     "title": "إيرادات إنفيديا تتجاوز التوقعات في أول إعلان للنتائج بعد استقالة جنسن هوانغ",
+     "title": "مجلس إدارة إنفيديا يستبعد عودة جنسن هوانغ إلى منصبه.. وإيرادات الشركة تتجاوز التوقعات",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261117-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA",
      "source": "فرانس 24",
      "time": "2026-11-17T23:41:47.000Z",
@@ -404,11 +411,11 @@
      "seen": "2026-11-17T22:51:04.714Z"
     },
     {
-     "title": "المغرب والسنغال يتأهلان إلى كأس أمم أفريقيا 2027 والجزائر تخسر بثلاثية أمام توغو",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261117-%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2027-%D8%AA%D8%A3%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D9%88%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%B5%D8%B1-%D9%88%D8%AA%D9%88%D9%86%D8%B3",
-     "source": "فرانس 24",
-     "time": "2026-11-17T22:42:41.000Z",
-     "seen": "2026-11-18T00:12:32.036Z"
+     "title": "من أثينا إلى واترلو.. لماذا تندلع الحروب وكيف يسقط الأباطرة؟",
+     "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%85%d9%86-%d8%a3%d8%ab%d9%8a%d9%86%d8%a7-%d8%a5%d9%84%d9%89-%d9%88%d8%a7%d8%aa%d8%b1%d9%84%d9%88-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d9%86%d8%af%d9%84%d8%b9-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-17T22:37:00.000Z",
+     "seen": "2026-11-18T02:02:31.826Z"
     },
     {
      "title": "الجيش الكويتي: دفاعاتنا الجوية تتصدى حاليا لهجمات بمسيرات معادية",
@@ -421,7 +428,7 @@
      "title": "في ضربة مبكرة لمعسكر نتنياهو.. كهانا يفوز برئاسة الكنيست",
      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNdDFvc1JKSUJMaXRkQzBKa1AyNDF0V21qODByX3I4dS1xN3Roc0kwQVJKMTFVUVE2ZHpycHlTNnRmdVliYVphVE5RVUZQNm80YVNFX3pIaG9fMW40V1pjMC1uR2habDlaYUpqMEJ4TUxnZXRPSVNQZUtJLTFsSWRCOGRZU1JRQ1hfbXozVS1hMVpQNW1RX1ZJMU9VNFdpN2JIVFNHYmhwUzFSY0taN0xIZXJSV3R6VzJpTHFLTEl0Z256Z2E0Xzc1LWNicW9KbFVyOGJud0p3Sm5rMGtRV0hqc2JVamVRa3MzOVFjekZ1SmJZdnR2ZE54allLSXE3VUt5d0RkN0VFOXRPZUtCajVIa29RTWZxNmNnSWpnS01xWG9wQ1I5U2tIeUF4TmpJZlJHNzRWUk9lRzZMelozTHJaZHdSV0E2UG9ZbEtydnpxVm1kSkgzUmFTTHNuMVRONlhSM0RnazRpeUZ6ZVlRR1YxdTdqSUswdXA4cDJlTWhZUzZJQ0R0a3l4b3pnc2cwOTRDUHpCSVduWW9mLXA5UkpYdG52cVk0cnU4eUdyUGp6QXhBeHNTcmNmMVFfUjE0VkRJ0gHGA0FVX3lxTE05V1Rac2xQMjlhekp6V0Q4RGpwdXhzTWloeHl6bzJqeTllUUN2d1JtZzczTmp0Q1VhMzZ5Z3VGc1doRFQyeTFZb1Fja1RyWEsyb05ldnVNdmpEdTdOTlFZNDVteFQyQi1kTWJzWXJXMGltTUpfYk9FMFdvV2c3dE54ZE55emk2WFg0MGYwelFEMDhtQUxGQl9idklZWmk1YUN5UXhYYnVRYnljbVBseV9iWG5yMGtvQVJSVWg3UE1mUFM3cmdRalNjU2wxblc5SFFXMVZoeEo4QnVPTEZ4c1U5R1oyX0hRNzdqNTBuRnFNUmtYb2ttVkRmamQ1YWsxdWRjaFpJR0dkQUp6SUhHdE5uc1ZJVnpHa3E1X3FuUjVaRlF6SXh2cnYwNl9YVGJqMmk4Mi12NW5zaGlVQUNScUZPd0pjcG95ZzU1Z3RoMkQyM01iNGp4eklwYm1LT3hFcFNLV3pQRjBPZnF0SXZXcUh3djd5TmxTc0pSeWtUVkNZSXhQNmRtZEdoNDRuY2lJbHBDcnpsbW1lb0pkWHFobXp5ZWhUZTUwcTlZaTgyY0lDQmR2c1FmUkpqMXdzR2c1RG9qRDU4QWc?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T21:59:46.000Z",
+     "time": "2026-11-17T21:58:27.000Z",
      "seen": "2026-11-18T00:02:32.067Z"
     },
     {
@@ -436,13 +443,6 @@
      "url": "https://www.dw.com/ar/برلين-حظر-ومداهمة-مقار-جمعية-الإرشاد-ومنظمات-أخرى-بتهمة-دعم-حزب-الله/a-79975480?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-17T21:44:00.000Z",
-     "seen": "2026-11-17T22:01:05.488Z"
-    },
-    {
-     "title": "واشنطن تستهدف موقع إطلاق صواريخ في جزيرة قشم الإيرانية، وترامب يحذر إيران من أي تهديد محتمل للولايات المتحدة",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FcnJTdnBiLUM5NDc3dzdxT1lWaDdQWDdHMFljajJTWk9XV2pPRkszT0ZlaWVZTEJOVFpZRlRWSk5SaXRaV09zbVVZelA2QXZIMy1KbXF5VUl4WEVJVVHSAWNBVV95cUxOenY5OVVqMWhBcTY0TUItQmlMcktwUjU0ZXRqMHVZczBPYU5LN2FNVzh5RFJaS25lejZReGltRkpxYUVONFZGRS1sUHlvc0t4RmE0X2Y2MzhEZ041aktMSmFyYkk?oc=5",
-     "source": "BBC",
-     "time": "2026-11-17T21:20:51.000Z",
      "seen": "2026-11-17T22:01:05.488Z"
     }
    ]
