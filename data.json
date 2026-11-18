@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:45:19.310Z",
+ "updated": "2026-11-18T23:55:19.416Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T23:45:19.310Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-18T23:55:19.416Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5654,
-   "change": -3.05,
-   "asOf": "2026-11-18T23:35:41.000Z",
+   "value": 5656,
+   "change": -3.03,
+   "asOf": "2026-11-18T23:45:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6456,
-   "change": -3.05,
-   "asOf": "2026-11-18T23:35:41.000Z",
+   "value": 6457,
+   "change": -3.03,
+   "asOf": "2026-11-18T23:45:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3743,
-   "change": -3.14,
-   "asOf": "2026-11-18T23:35:41.000Z",
+   "value": 3744,
+   "change": -3.12,
+   "asOf": "2026-11-18T23:45:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0977,
-   "change": -0.19,
-   "asOf": "2026-11-18T23:45:45.000Z",
+   "value": 1.0976,
+   "change": -0.2,
+   "asOf": "2026-11-18T23:54:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.84,
-   "change": -4.62,
-   "asOf": "2026-11-18T23:35:16.000Z",
+   "value": 88.78,
+   "change": -4.68,
+   "asOf": "2026-11-18T23:42:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62980,
-   "change": -2.95,
-   "asOf": "2026-11-18T23:45:45.000Z",
+   "value": 63136,
+   "change": -2.71,
+   "asOf": "2026-11-18T23:55:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "موهبة 2008 على الرادار و3 أسماء .. إعلامي يكشف خريطة مدافعي الأهلي",
+     "url": "https://www.elbalad.news/7186215",
+     "source": "صدى البلد",
+     "time": "2026-11-18T23:46:48.000Z",
+     "seen": "2026-11-18T23:55:19.416Z"
+    },
+    {
      "title": "سعد سمير: بوبو وقلاوة سيحصلان على فرصة مع علي ماهر.. وإمام عاشور مطالب بإثبات التزامه",
      "url": "https://www.elbalad.news/7186213",
      "source": "صدى البلد",
@@ -151,13 +158,6 @@
      "url": "https://www.elbalad.news/7186214",
      "source": "صدى البلد",
      "time": "2026-11-18T23:42:57.000Z",
-     "seen": "2026-11-18T23:45:19.310Z"
-    },
-    {
-     "title": "مغادرة حاملة الطائرات الأمريكية «جورج واشنطن» مياه الخليج.. بلومبرج تكشف وجهتها المحتملة",
-     "url": "https://www.elbalad.news/7186212",
-     "source": "صدى البلد",
-     "time": "2026-11-18T23:34:54.000Z",
      "seen": "2026-11-18T23:45:19.310Z"
     },
     {
@@ -352,6 +352,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "\"التحالف\" يعلن تفاصيل \"ضربة\" على الحوثيين في صعدة",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/saudi-coalition-spokesperson-houthi-missile-l-saada",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T23:47:02.000Z",
+     "seen": "2026-11-18T23:55:19.416Z"
+    },
+    {
      "title": "لقاء في الرياض يجمع خالد بن سلمان وقائد القيادة المركزية الأمريكية.. وهذا ما بحثاه",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/meeting-in-riyadh-brings-together-khalid-bin-salman-and-the-commander-of-the-us",
      "source": "CNN بالعربية",
@@ -437,17 +444,10 @@
     },
     {
      "title": "\"أحمد الطيبي يطرد بن غفير من الكنيست\".. ما قصة الفيديو المتداول؟",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/circulating-old-video-claim-ahmad-tibi-expels-ben-gvir-from-the-knesset",
-     "source": "CNN بالعربية",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFpRb3ZpTFFCZ1Z4Y1ZMUzNOMXF0OUZUNC1zVHY4NVl3RmQtMm5mT1FZem11QTRsOHVRNFNkYWZOajNPeGVyM0d1amJKWXBtNVRQZ29ucE91S3E4am1KWGgzaUFEYWpKT09nRG5sZy1kQzkxQkRQV3ZUbFhVdDAtREFRcE00OTZnS1l3RGpjOTRUT0lCazlBZVNYeDBXYUs3NkpTdk5GNlBuTXREaUdMRmtZMWZLNkRtMGZTYXBrNjZyUnM?oc=5",
+     "source": "CNN Arabic",
      "time": "2026-11-18T19:40:05.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
-     "title": "توتر بين ترامب وفانس بسبب حرب إيران.. وروبيو يبرز منافساً محتملاً على خلافته",
-     "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOUmw2MWRObFRQY05mVktMWktXMkE1elVtV2ZpeU9wdWZ5aDhGZTZOc0NoLVJfQzJBNV9td0xQSUpGN2M2QWhWRDQ1TjI2cm1JNFplbGIyZ3gxQTFQdmNyREtnbnhIckZwVlZ1TXpuOGZuLTc3Z0VnM29hRWhRc3ROeThIMHFnaEl2b0k3M3JzdFFMVW85QUVLQlhOUGI2R3ZOYW1MT0tJaHhBQW9xMGQwSDZYal90bThDNnlpYWh5VEtNZkh2VmxQankzbFRtQmdzcHFGOEpvWEwyZEEtM0xlUWsxaklLdDBvT094dkpLaEpqRkt0cUUwRFBPMUNRVXFGV0xLRVQ0TU1heGYtRVJOS0N1NktBeUdOS2x5eHd4d1ZfZ1dCcFY0REJGTk1VSWdlSHFZeFlvOThMMU95MGVUYWgtQUpYYjR1cVNrN0s5WG5yNlh1emhpTXFGd2pJb2puN3BGcUFTaURnX1d6WTV2c25HRUMtYzdYZ2hsaE1ESWpWUXZCYm01YXRkc0hkQTFLUy1obC1ybldwZE1aM01yemRVZ1I2alFod3hRVjctSDBSVTZNRXpacldqOEFuRk1NUUhrVHZmSnY2SkJYUVY1enF3TXp0YzhqeXdoZXo1YXhkS09RWi1ZSFhhUWhzT3pCZWEta1RhMTFWbmFqalJMZ085bTJ3RFFiR2ozdzd3eFRCa2Q2ZDJKcnhRTW94TzZxNHdrcEZxTlJ0a2k4cWFJTXpQalRrTi1hZFNmRzFXM2ZjTkREdWF3bV9nZGtEWVRJQTlGS0NwUjd1QVlFTGY4dnYzdm9sTlFCZF9rYXc0cS1CUdIB9wRBVV95cUxOZWlrY3N3VmJjemNaekZMcGVjSlkzWUdBdWZwc2k1UjhmcXZnNDR1alNnTjJJeUNxSlF0ZklzSFBOSDB0b0toS3JacjNNa253NVRzV1lpYUgtYnVTX0t6ODVhcTR6N2ZQTUNRODNZbnY3Tl84QlVoeDlXTkh2cmZIRFlIZjQ1Q1d3MTc1Q2U3REM4OVA4b0tJWmpVVGhXQTVRb1VjOFcwX052bkVPcEN6cFdqX2hfeE03bEpsVnNJT0NNOUE0dXA0RWpoWGhMd1JzTWd4RU1teTlfU1R2cTlZLWE2NzR2Rm02Y3VPU2tXNm1ZSG4xbVRZa3pTNXpVbEMxTERYWEpWSGhoNnVLeFNQOENKdEVzSWdSazRWMEVranFxaXhUNzNUaThFUHRXZEJ5VS1XZW1reEU2Y1kzanRUM0FFeHlZRVVrYXB1eUdNdVNBWjE0OGVqUkhzWWo1NDJFNmg3RFJCZ1JmandqMjZFN0FIY0Z5U19CV3hqbU0wb21PNXJmeHVOMFdZY1pua1F2T01FNzJGMVJ2ODdVLVpGbzVSMnlKSHBpN2RSNUkwN2llZkdWNnluSWlKWklUQ3FsOEZ6eFFGVnZMdFhZNDl5bjZMT1U4b3VyNC10b2UzaVhQVXl0LWtFTU1kOFhpVk4zUEFWam1vMERlWGd5VER2eDJMLUNoOHJZdEFlSlRacjBnZ1czaEpVc28tMWE4YzFPbnYyYTFNOTlVdENjZUgxdi01eFI1QU5BTDJibW5ERFZwVVN5NkVKUFRBeWxncFM3aE41a2FIaTRScFhmeGhGZ0lwS0NPd3lDZ3BYZFdEOTlkeDlFWE5j?oc=5",
-     "source": "العربية",
-     "time": "2026-11-18T19:38:00.000Z",
-     "seen": "2026-11-18T23:45:19.310Z"
+     "seen": "2026-11-18T23:55:19.416Z"
     }
    ]
   },
