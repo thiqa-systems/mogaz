@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:42:31.562Z",
+ "updated": "2026-11-18T04:52:31.324Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -11,7 +11,7 @@
   "key": 1,
   "impacts": 10,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T04:42:31.562Z"
+  "errorAt": "2026-11-18T04:52:31.324Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5720,
-   "change": -1.92,
-   "asOf": "2026-11-18T04:32:31.000Z",
+   "value": 5714,
+   "change": -2.03,
+   "asOf": "2026-11-18T04:42:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6531,
-   "change": -1.92,
-   "asOf": "2026-11-18T04:32:31.000Z",
+   "value": 6523,
+   "change": -2.03,
+   "asOf": "2026-11-18T04:42:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3789,
-   "change": -1.94,
-   "asOf": "2026-11-18T04:32:31.000Z",
+   "value": 3785,
+   "change": -2.05,
+   "asOf": "2026-11-18T04:42:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0991,
+   "value": 1.099,
    "change": -0.07,
-   "asOf": "2026-11-18T04:41:46.000Z",
+   "asOf": "2026-11-18T04:51:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -74,7 +74,7 @@
    "unit": "$/برميل",
    "value": 92.7,
    "change": -0.47,
-   "asOf": "2026-11-18T04:32:31.000Z",
+   "asOf": "2026-11-18T04:32:36.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -83,16 +83,16 @@
    "unit": "نقطة",
    "value": 7341,
    "change": -1.03,
-   "asOf": "2026-11-17T21:00:00.000Z",
+   "asOf": "2026-11-17T21:42:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64392,
-   "change": -0.72,
-   "asOf": "2026-11-18T04:42:32.000Z",
+   "value": 64369,
+   "change": -0.75,
+   "asOf": "2026-11-18T04:52:34.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -243,11 +243,26 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "واشنطن تستهدف موقعاً في جزيرة قشم، وهجمات إيرانية على الكويت والبحرين",
+     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T04:45:14.000Z",
+     "seen": "2026-11-17T08:48:53.465Z",
+     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
+    },
+    {
      "title": "كيف وقع الهجوم على جسر القرم الذي يحظى بأهمية كبيرة لدى بوتين؟",
      "url": "https://www.bbc.com/arabic/articles/c60ev4wxz2r0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-18T04:31:28.000Z",
      "seen": "2026-11-18T04:42:31.562Z"
+    },
+    {
+     "title": "سعر الدولار تحت سقف الـ54 جنيهاً فى البنوك اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNWUg3OTQ1S1RYdGh4Qi1vcWtTUDZYSnh3RU9sRWpsQVJPYTNidXNDUDZEMlR0MTZzSTdoNTF5LW45M3cwWHhCTGJYNWYwS3J3cWI1cGRxbUtXdnZDb0JjN09ZekNpUjNfYjNzT2xXaUs0czNDbTh1bmNKWTBwX1puYURKWEJYeXRNX3cxVG1VVGxJbEJHdFVPUDI5Vl93bEhTQmUzcW9ONDJuX2twWldVRlFkTWJVU2VvaklHMENuY3pQUkcwRDdudjFqMzFiWG1RTjdTa18wRzlGU2ZmOGhwa2tPb0pvUzlNOTRCQWttTGZGaVh2R3UxLXpadldUTUltZGpxc1JtbWFBczl5OVd4UjdYcUJrOFplNVZFVy1VRXNraUJZQWpYVG9lQWtaVWJyMGg5ZTRjbnM3VmNyUlhpWGx3anMyazBQdXZFWXdjVGZERGZwZlNCNjNjeEcwZG9SNmY3c1NKaC1HN0cxd2JwTDU4eGZJNEFUNHBibklxZm9adHlXMi1BaDB3QjBSN18zWDlMNFVEZ1I4RF9DTmlBOTlPblQ1WmdFU0ZYbXQxdlpNOC1YSzhpczBqblhFUG00Sk1HdEMyWVBnT25XZkpUbWI1U0jSAdQDQVVfeXFMTVlINzk0NUtUWHRoeEItb3FrU1A2WEp4d0VPbEVqbEFST2EzYnVzQ1A2RDJUdDE2c0k3aDUxeS1uOTN3MFh4QkxiWDVmMEtyd3FiNXBkcW1LV3Z2Q29CYzdPWXpDaVIzX2Izc09sV2lLNHMzQ204dW5jSlkwcF9abmFESlhCWHl0TV93MVRtVVRsSWxCR3RVT1AyOVZfd2xIU0JlM3FvTjQybl9rcFpXVUZRZE1iVVNlb2pJRzBDbmN6UFJHMEQ3bnYxajMxYlhtUU43U2tfMEc5RlNmZjhocGtrT29Kb1M5TTk0QkFrbUxmRmlYdkd1MS16WnZXVE1JbWRqcXNSbW1hQXM5eTlXeFI3WHFCazhaZTVWRVctVUVza2lCWUFqWFRvZUFrWlVicjBoOWU0Y25zN1ZjclJYaVhsd2pzMmswUHV2RVl3Y1RmRERmcGZTQjYzY3hHMGRvUjZmN3NTSmgtRzdHMXdicEw1OHhmSTRBVDRwYm5JcWZvWnR5VzItQWgwd0IwUjdfM1g5TDRVRGdSOERfQ05pQTk5T25UNVpnRVNGWG10MXZaTTgtWEs4aXMwam5YRVBtNEpNR3RDMllQZ09uV2ZKVG1iNVNI?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T04:02:57.000Z",
+     "seen": "2026-11-18T04:52:31.324Z"
     },
     {
      "title": "انتخاب متان كهانا من حزب يقوده آيزنكوت رئيساً للكنيست الإسرائيلي",
@@ -294,13 +309,6 @@
      "seen": "2026-11-18T02:32:32.256Z"
     },
     {
-     "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية المحتلة",
-     "url": "https://www.bbc.com/arabic/articles/c6jre84y25d4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T22:47:25.000Z",
-     "seen": "2026-11-17T22:51:04.714Z"
-    },
-    {
      "title": "رسميًا.. أسعار البنزين والسولار اليوم الأربعاء 18 نوفمبر 2026 بعد قرار لجنة التسعير",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCaHFPcGkzWDJjZVRxWjJiaG9xN0JNcHBRVTBpUmlVTzNiQ2x3ZnRGX0pjVkJvMF9MV0lyUXNncGZUaFh5Y0d2ZlIycDVVSGFyTWdCRHNpNDlDaDRPV1dZ?oc=5",
      "source": "المصري اليوم",
@@ -328,13 +336,6 @@
      "source": "البورصة",
      "time": "2026-11-17T22:04:20.000Z",
      "seen": "2026-11-17T23:41:05.170Z"
-    },
-    {
-     "title": "ثبات سعر الدولار مقابل الجنيه فى البنوك اليوم الأربعاء 18 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOdzNOX0RmdVpJalRRMWRSLTFwcGtkRF85SzRMdVRNSHlfdDdhYmt3anFrbk5WdndnVnl2czY2Q2ZtRXFKblU0ZlRxZ0NLazNqcjMzekhPNmVOUDQ5QUR3Q0tuWmVYdXFfZ1BBZG1aVkJWbHpVMGpzZEpZUTh1aTdKbWhVTVVGcDNPR3hSWkd3VnlXOW1iMF9UeDlUeS1oOVlmNTA2MlRILU0zaXpiZk9nck1KWnVPVVRubkkwUFhibXB2NkRuSEs5TUdFMlNpT1RWa1pOY1RVMzRRTl9MQU91UGpDbFJQT2ttNEdVN3ZMRTAxODlRY0paM3Mzd1NVMHVwcXdManluQWJMR24xUWd3R2RHTjRjeVBxdGxhRGFCb00yZWZwbl9Gb1FXcWtBXzB4ZjRGSk5LeXRCdk1ETGY3bXBCTDVKbk1YRUhaeUVxbW9FNjBWRTVQM3pPT2lPaVBiZlFoOTFqb0c1ZkVyaFVpOTJaR0xkdzN4Z0Jhd1NPZFVLakVjRm5TTFFScnY5M1F4SWcyeGt4aHhXeDNpNE42VUk1MmtVLTQtVEVZZ2t0cWQtOXZJVGpRcmpSTHpTSTFfWmxMSnkxN3FOSGRqXzhvREQzX2XSAdQDQVVfeXFMTnczTl9EZnVaSWpUUTFkUi0xcHBrZERfOUs0THVUTUh5X3Q3YWJrd2pxa25OVnZ3Z1Z5dnM2NkNmbUVxSm5VNGZUcWdDS2szanIzM3pITzZlTlA0OUFEd0NLblplWHVxX2dQQWRtWlZCVmx6VTBqc2RKWVE4dWk3Sm1oVU1VRnAzT0d4UlpHd1Z5VzltYjBfVHg5VHktaDlZZjUwNjJUSC1NM2l6YmZPZ3JNSlp1T1VUbm5JMFBYYm1wdjZEbkhLOU1HRTJTaU9UVmtaTmNUVTM0UU5fTEFPdVBqQ2xSUE9rbTRHVTd2TEUwMTg5UWNKWjNzM3dTVTB1cHF3TGp5bkFiTEduMVFnd0dkR040Y3lQcXRsYURhQm9NMmVmcG5fRm9RV3FrQV8weGY0RkpOS3l0QnZNRExmN21wQkw1Sm5NWEVIWnlFcW1vRTYwVkU1UDN6T09pT2lQYmZRaDkxam9HNWZFcmhVaTkyWkdMZHczeGdCYXdTT2RVS2pFY0ZuU0xRUnJ2OTNReElnMnhreGh4V3gzaTRONlVJNTJrVS00LVRFWWdrdHFkLTl2SVRqUXJqUkx6U0kxX1psTEp5MTdxTkhkal84b0REM19l?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T22:03:59.000Z",
-     "seen": "2026-11-17T23:31:05.177Z"
     },
     {
      "title": "سعر الذهب اليوم الأربعاء 18 نوفمبر 2026.. بكام عيار 21؟",
@@ -407,6 +408,13 @@
      "seen": "2026-11-18T02:02:31.826Z"
     },
     {
+     "title": "شبهات تجسس تلاحق تطبيق \"تيم هورتنز\" الكندي لصالح إسرائيل",
+     "url": "https://www.aljazeera.net/news/2026/11/18/%d8%b4%d8%a8%d9%87%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b3%d8%b3-%d8%aa%d9%84%d8%a7%d8%ad%d9%82-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%aa%d9%8a%d9%85-%d9%87%d9%88%d8%b1%d8%aa%d9%86%d8%b2?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T01:31:03.000Z",
+     "seen": "2026-11-18T04:52:31.324Z"
+    },
+    {
      "title": "من أزمة التجنيد إلى مفتاح الحكم.. لماذا يتسابق نتنياهو وآيزنكوت على الحريديم؟",
      "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%85%d9%86-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d9%86%d9%8a%d8%af-%d8%a5%d9%84%d9%89-%d9%85%d9%81%d8%aa%d8%a7%d8%ad-%d8%a7%d9%84%d8%ad%d9%83%d9%85-%d9%84%d9%85%d8%a7%d8%b0%d8%a7?traffic_source=rss",
      "source": "الجزيرة",
@@ -435,13 +443,6 @@
      "seen": "2026-11-18T04:02:31.970Z"
     },
     {
-     "title": "في فيلم\"أنيمالز\".. كذب السياسيون ولو صدقوا",
-     "url": "https://www.aljazeera.net/arts/2026/11/18/%d9%81%d9%8a-%d9%81%d9%8a%d9%84%d9%85%d8%a3%d9%86%d9%8a%d9%85%d8%a7%d9%84%d8%b2-%d9%83%d8%b0%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%88%d9%86-%d9%88%d9%84%d9%88?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T00:04:00.000Z",
-     "seen": "2026-11-18T03:22:31.433Z"
-    },
-    {
      "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oS1NOOEVBenlKbWZ2WGYzdDBYeTd3aXRhWUVnRWk5SXVad1B0aU1sNWRXcDltamxDV2JBV0IwX2JJSnozNFVWS3J4WjZLT1VNWWE5WWtoWnBBR0E5M2fSAWNBVV95cUxQN0YtNU1YcE9FWG9XakNuUjV0LUlic3ByOENqMGtrUDFNMVVhT09KVEJKLVBHemV0LVZKSVkxV042SWVmcERTdThmeXlzN19neDJCVC03Tm1xTkFuX2FqLU45Q2M?oc=5",
      "source": "BBC",
@@ -462,6 +463,13 @@
      "seen": "2026-11-18T03:22:31.433Z"
     },
     {
+     "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية المحتلة",
+     "url": "https://www.bbc.com/arabic/articles/c6jre84y25d4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-17T22:47:25.000Z",
+     "seen": "2026-11-17T22:51:04.714Z"
+    },
+    {
      "title": "بريطانيا تسلم واشنطن ضابطا يشتبه في تجسسه لصالح روسيا",
      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPTkw2azBLdWM0djdhU05Nbi1BUUZ5em1rUnl1UXJaSzlxcldZQkRnQ1FVS1R6eE1CMklsWWdjODdIYXo4WHRTZ0hEd1ZpSW9lR3BPVUFfY0ZCU05jVGhFM1pRMGM1ZEgzQmtzZF9aUTk0a1RpbWYzeFZZbVc4OGV5a0duYTloZENnTERhOWVNdkZJbWxDckE4NWdhdDYtd29KZUZ4cXl6ZGdNd0l4VGRtZFRacGFrSXIxZ2paamstdHNvbkMxN3p6M3RaTm9EeDFyMEJneTZCVVlyOGRtZjJRWUtyRUE4M0J1Zm9WTllKRlZfekpodWU4TEstLVhBQURpU09sLWJCNUM2NnB4Y2VDMmRLNk9VOEdtOUQwNjQ0X1FVbFFTUHc5aFRweGQ4QVdWZ19Vc1lNWGZkMVdYVUYxNndDYmE5UzZ0QnhwYkJhWTV4NGM3MkdoZWZVSG1HM19xcldpa0xnX2pyZTJGaGJ3SUFYLTNWeFQ1Q3FLb1NMRXAzQzFQd25KaUx4T05uajc1NDZSZ0tnNkZ1aE0wX2hPTVFQZHdySzUxTFhwczdqTUNmbTdmcDBhaNIBvgNBVV95cUxQTlFqUGFIbm5nYnVIY3dvb0pLZ0RkUHgzcFB0SzRfTnFZMDlHOS1mbkpPXzlwNTVLLW9rUHZSZlh4T1JxVVFJX1pNQlZTQzNVbUhCbkdFMVJUQkRkcGZ2dUVadDM2bEpsU1FfcUl1bFZDeTB3dEZxeVdhZnJqNU9hUjdFX0hTcWFYZEgtX2lOUWloS3QzMFNwVkw5UVNORFJWMU9nWkVCREs0SDV4NmdQMU9QWlg5ZERpZkxmeTh3MDkwb1BYYWM1TzhVa2hoV3NzUzNhZFVablctbHBBbFlBWFlpRzhhZFRoX1llSUpsSVI5eURVYjczNUlfUldrTkgzMnFSZU5kV1pCVjFSdDktRnQ0VHQycmcyXzZ3eDIzQ3gyd1U1YWQ5ZFp5TVVLSEJVTVQtdWVCN0dNU0NBNVVxMEtSZjJFRFV5cHdEZTF3dlZqem53Y19OUTBPQnBsb3E5ZXBmYkZNdWNOY213RE9OQnhSSXV3d3RnejJtWkd4VW14ZWhvVVQwT1Q1REVudHJLVGxURFFlSDRQbHJKSXpTOFRBamtBdXNkdmNKYmRzc1ZjMFR1WVRlWkxuMUpUQQ?oc=5",
      "source": "سكاي نيوز عربية",
@@ -475,14 +483,6 @@
      "time": "2026-11-17T21:07:50.000Z",
      "seen": "2026-11-17T21:11:04.438Z",
      "impact": "يهم المستثمرين المصريين المتعاملين بالأسهم لمراقبة توجهات قطاع التكنولوجيا وتأثيره على الأسواق المالية."
-    },
-    {
-     "title": "واشنطن تستهدف موقعاً في جزيرة قشم الإيرانية، وترامب يحذر إيران من أي تهديد محتمل للولايات المتحدة",
-     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-17T20:57:14.000Z",
-     "seen": "2026-11-17T08:48:53.465Z",
-     "impact": "يؤثر التوتر الأمني في الخليج على المستثمرين عبر احتمالات تقلب أسعار الطاقة وتكاليف الشحن بالمنطقة."
     },
     {
      "title": "بـ5 طائرات مسيرة.. الحوثيون يعلنون استهداف محطتي ضخ بخط أنابيب النفط في الرياض",
