@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:13:19.887Z",
+ "updated": "2026-11-18T08:23:19.296Z",
  "minute": [
   "سجلت أسعار الذهب تراجعاً في تعاملات اليوم مع هبوط الأونصة عالمياً إلى 3777 دولاراً.",
   "رصدت الأسواق تحركات طفيفة في أسعار صرف الدولار والعملات الأجنبية مقابل الجنيه المصري في البنوك.",
@@ -10,70 +10,72 @@
   "at": "2026-11-18T08:03:19.952Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T08:23:19.296Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.65,
-   "change": 0,
-   "asOf": "2026-11-18T08:13:14.000Z",
+   "value": 53.66,
+   "change": 0.02,
+   "asOf": "2026-11-18T08:26:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5694,
-   "change": -2.37,
-   "asOf": "2026-11-18T08:03:17.000Z",
+   "value": 5682,
+   "change": -2.58,
+   "asOf": "2026-11-18T08:16:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6501,
-   "change": -2.37,
-   "asOf": "2026-11-18T08:03:17.000Z",
+   "value": 6487,
+   "change": -2.58,
+   "asOf": "2026-11-18T08:16:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3773,
-   "change": -2.37,
-   "asOf": "2026-11-18T08:03:17.000Z",
+   "value": 3764,
+   "change": -2.6,
+   "asOf": "2026-11-18T08:16:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51682,
-   "change": -0.99,
-   "asOf": "2026-11-17T12:25:02.000Z",
+   "value": 51691,
+   "change": 0.02,
+   "asOf": "2026-11-18T08:11:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0975,
-   "change": -0.21,
-   "asOf": "2026-11-18T08:12:45.000Z",
+   "value": 1.0965,
+   "change": -0.3,
+   "asOf": "2026-11-18T08:25:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.57,
-   "change": -1.69,
-   "asOf": "2026-11-18T08:03:19.000Z",
+   "value": 91.89,
+   "change": -1.34,
+   "asOf": "2026-11-18T08:16:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64487,
-   "change": -0.63,
-   "asOf": "2026-11-18T08:13:17.000Z",
+   "value": 64669,
+   "change": -0.35,
+   "asOf": "2026-11-18T08:26:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,53 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "من المطار إلى قسم الشرطة.. ضبط سائق نقل ذكي متهم بسرقة حقيبة راكب أجنبي بالهرم",
-     "url": "https://www.elbalad.news/7185105",
+     "title": "أسعار الدولار والعملات الأجنبية مقابل الجنيه اليوم الأربعاء",
+     "url": "https://www.elbalad.news/7185116",
      "source": "صدى البلد",
-     "time": "2026-11-18T08:12:17.000Z",
-     "seen": "2026-11-18T08:13:19.887Z"
+     "time": "2026-11-18T08:22:31.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     },
     {
-     "title": "مكسبات الطعم والرائحة فى الأغذية.. هل تؤثر على صحة الأطفال؟",
-     "url": "https://www.youm7.com/story/2026/11/18/مكسبات-الطعم-والرائحة-فى-الأغذية-هل-تؤثر-على-صحة-الأطفال/7623015",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T08:12:00.000Z",
-     "seen": "2026-11-18T08:13:19.887Z"
-    },
-    {
-     "title": "الأمطار والثقة الزائدة وتغيير الجهاز الفني.. عوامل أثرت على منتخب مصر أمام مالاوي",
-     "url": "https://www.elbalad.news/7185104",
+     "title": "الإمام الأكبر: حرية الرأي مسؤولية أخلاقية وقانونية.. والإساءة للصحابة بهدف إثارة الجدل أمر هابط",
+     "url": "https://www.elbalad.news/7185119",
      "source": "صدى البلد",
-     "time": "2026-11-18T08:11:39.000Z",
-     "seen": "2026-11-18T08:13:19.887Z"
+     "time": "2026-11-18T08:22:02.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     },
     {
-     "title": "الجمعية المصرية للأورام: اكتشاف علاج السرطان ببكتيريا الضفدع الياباني لا يزال في مراحله الأولية",
-     "url": "https://www.elbalad.news/7185099",
+     "title": "القصة الكاملة.. زجاجة مياه غازية تنهي خلافات المصاهرة بإصابة شاب بكسر محتمل في الجمجمة بسوهاج",
+     "url": "https://www.elbalad.news/7185120",
      "source": "صدى البلد",
-     "time": "2026-11-18T08:11:20.000Z",
-     "seen": "2026-11-18T08:13:19.887Z"
+     "time": "2026-11-18T08:19:49.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     },
     {
-     "title": "هيئة الدواء تحذر من إعلان مضلل لمنتج تخسيس «Satt Shot» غير المسجل",
-     "url": "https://www.youm7.com/story/2026/11/18/هيئة-الدواء-تحذر-من-إعلان-مضلل-لمنتج-تخسيس-«Satt-Shot»/7622990",
+     "title": "مصر تستضيف النسخة الأولى من المنتدى الدولى للحماية الاجتماعية الإثنين",
+     "url": "https://www.youm7.com/story/2026/11/18/مصر-تستضيف-النسخة-الأولى-من-المنتدى-الدولى-للحماية-الاجتماعية-الإثنين/7623037",
      "source": "اليوم السابع",
-     "time": "2026-11-18T08:10:00.000Z",
-     "seen": "2026-11-18T08:13:19.887Z"
+     "time": "2026-11-18T08:17:00.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     },
     {
-     "title": "حالة الطقس.. الأرصاد تكشف أعلى وأقل درجات حرارة متوقعة على مدار اليوم",
-     "url": "https://www.youm7.com/story/2026/11/18/حالة-الطقس-الأرصاد-تكشف-أعلى-وأقل-درجات-حرارة-متوقعة-على/7623019",
+     "title": "التعليم تستعرض رؤيتها للتكامل الأفريقى فى التعليم الفنى بمنتدى سياسات المهارات",
+     "url": "https://www.youm7.com/story/2026/11/18/التعليم-تستعرض-رؤيتها-للتكامل-الأفريقى-فى-التعليم-الفنى-بمنتدى-سياسات/7623038",
      "source": "اليوم السابع",
-     "time": "2026-11-18T08:06:00.000Z",
-     "seen": "2026-11-18T08:13:19.887Z"
+     "time": "2026-11-18T08:16:00.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     },
     {
-     "title": "الميرغني... رجل سلام من طراز رفيع",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPbkJPQ0c1bGY1d1pmbGl6VnFrSDVLajNZLXhVZEdmdGJUb1RobWpYemhPUHFOTzhYWWFiQ25sYWVEVHItNVZmSUJIa0piNl9NSWF1VEMwOTJUZFlaZUF5OExHNTlURVFkZzRxYkpJenhqdkZ0cGlTOG10cEh3N0FieHZNVlczQlM3N0xWR3lJRFViYU4xRU1hT2lyOGw2SGh4RFQ1X2ppdzJ3NlVrR0MxN1ZPR2Q3dV9hNzJZX2ZfdVdBSGtTWDJveTlLRTVhT004WU85YjFYYThPMXhDbm1IblBYMFNRbS1vdzhXVjZIMmpCMHItQ21jQ0lPMTRlekxPaThNXzZWZGZTN29Bb3VNLUxMWGJUZWozR08xWFV2TDduRVplZFd6bVlaV1JZREpUOFUxWE9PVk1GbnRfZUxfMXNSYURHaHZ3VmZhZVprV01BalRRcDZaSzgtd3JVNUI4cjBubFlrVGNMdTU2UGxmTmhMd1JSTjlVQmVtSHp1SWhlbUU1WkkyYmFHejVzSzhFZW0zNWxNVWVVMUhKbS1zcFFueFp4bDlBNzhZU0djNmhxTm04czdCRk9JWmRBTGZuM1MxQjNBY0ZfaUcy?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-18T06:45:24.000Z",
-     "seen": "2026-11-18T07:03:19.167Z"
+     "title": "شيخ الأزهر: حرية التعبير لا تبرر الإساءة إلى الرموز الدينية",
+     "url": "https://www.youm7.com/story/2026/11/18/شيخ-الأزهر-حرية-التعبير-لا-تبرر-الإساءة-إلى-الرموز-الدينية/7623034",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T08:14:00.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     },
     {
      "title": "اليوم.. الاجتماع الأسبوعي لمجلس الوزراء برئاسة مدبولي",
@@ -234,6 +229,13 @@
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-17T21:41:36.000Z",
      "seen": "2026-11-17T23:11:04.765Z"
+    },
+    {
+     "title": "حملة «معًا من أجل أسوان» تطالب الدولة بإدارة ملف الدهابة بعيدًا عن القبلية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9id1VLNHA2SExsZ1BiazZpWENuSVFOb3RtNV9NZzFyTWdzdlJ0T3NyMThkcms3UjBodU9DNXNQLUR1Nnp6UEttLUlfVHlwUDNvSTJhSHd6Z2VNWFFmT1hZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-17T21:38:00.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     }
    ]
   },
@@ -351,6 +353,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "قرقاش يعلق بعد هجوم الرئيس الصومالي على الإمارات: يعكس تقلبات مواقفه",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/gargash-responds-somali-president-attack-uae",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T08:14:04.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
+    },
+    {
+     "title": "مهلة الجمعة تقترب.. هل تنجح بغداد في دخول جرف الصخر؟",
+     "url": "https://www.skynewsarabia.com/middle-east/1905454-%D9%85%D9%87%D9%84%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D8%AA%D9%86%D8%AC%D8%AD-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AF%D8%AE%D9%88%D9%84-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T08:13:14.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
+    },
+    {
      "title": "فيديو لقطة وقعت لحظة مد نتنياهو يده لمصافحة رئيس وزراء التشيك يلاقي رواجا.. ما حقيقة ما حصل؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/video-viral-babis-netanyahu-israel-hand-shake",
      "source": "CNN بالعربية",
@@ -373,26 +389,11 @@
      "impact": "يهم المستثمرين في قطاع التجارة وسلاسل الإمداد لمتابعة سلامة الملاحة عبر مضيق هرمز وتأثيراتها المحتملة على حركة الشحن."
     },
     {
-     "title": "كيف تعزز الطاقة المتجددة الاستدامة في الشرق الأوسط؟",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/18/v205431-energy-efficient-technologies-promote-sustainability-in-middle-east-adipec-2026",
-     "source": "CNN بالعربية",
-     "time": "2026-11-18T07:35:21.000Z",
-     "seen": "2026-11-18T07:43:19.529Z",
-     "impact": "يلفت انتباه شركات الطاقة والمستثمرين للفرص المتنامية بمجال الطاقة المتجددة في نطاق الشرق الأوسط."
-    },
-    {
      "title": "قوى سودانية تطالب بتسليم البشير وهارون إلى الجنائية الدولية",
      "url": "https://www.skynewsarabia.com/middle-east/1905446-%D9%82%D9%88%D9%89-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A8%D8%B4%D9%8A%D8%B1-%D9%88%D9%87%D8%A7%D8%B1%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T07:29:09.000Z",
      "seen": "2026-11-18T07:33:19.519Z"
-    },
-    {
-     "title": "بعد 35 عاما.. ماذا وراء مغادرة عناصر \"المينورسو\"؟",
-     "url": "https://www.skynewsarabia.com/middle-east/1905459-35-%D8%B9%D8%A7%D9%85%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D9%8A%D9%86%D9%88%D8%B1%D8%B3%D9%88",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T07:15:43.000Z",
-     "seen": "2026-11-18T07:23:19.186Z"
     },
     {
      "title": "خيوط ذهبية أم مخاطر خفية؟ ما لا تعرفه عن الزعفران",
@@ -425,13 +426,6 @@
      "seen": "2026-11-18T06:23:19.165Z"
     },
     {
-     "title": "تقرير: نتنياهو طلب عملية سرية داخل إيران دون علم الجيش",
-     "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNalRMNjJQWllOcTJaamw2VldfeE5QNEc1enpHeDg1eENCcmdlOUxHUmFUSFIyZkFmd3M5NDI3d3hhRkxYM3dSVER4Y1luLUR6bXljeldtdkRJSkZQRnR2V3JxWmIyR3A0NmYzMFF2UGdRVmR5UV9ZaUQzMlpEM18wQWlkZVlvLXItOXh5MmpkMG5KQm5weTVSOTFibzQ5aVRDUGhqa3NOQnV0YkUxcEVlSFN0eEVmN01qblRGWW9hbjVPWk1mZVBmdXF5ZW9aSVdLaTl0TTRXdnAyNDRQVWJmelhtN1FIZktOTDkza0dsOUZxRFMyaWVMTEpxdERWWUFnRnBGOGg5TGVfQlhIcVV0ckZkbEJrNDR2eWM3eEJ6YzFIUXdCSlVyMEZfdXJON052Z0twQzZHQ1owcVpnLU02bVNma09RRWc2SzB3SmIxT2hJRk5PM2ZpZ2JIaTZJcWtWQzY2QV84VEdJNUNlUi1kT0NfbXpDQlNSQkEyQ245RGhUV0RPWWJNM2FNN0dYNG5TOXJTY3hEejV5c0t4cXVvTl9TZHdXdFFfNGlYTDdCOUNoa2RWaUpwNjF0SVlwLWJ4cDRzUTNLYnFicDVUcXd1Zjg5MmF2cHdqdVdia0lwano4R3RQZUUxZndrTHdpb3FBaFVDc3FoR1kxR2JscXFpVnUwUkhuWXc?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-18T05:28:16.000Z",
-     "seen": "2026-11-18T05:12:31.895Z"
-    },
-    {
      "title": "مباشر: التحالف بقيادة السعودية يعلن اعتراض صاروخ كروز أطلقه الحوثيون باتجاه الرياض",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261118-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
      "source": "فرانس 24",
@@ -452,6 +446,13 @@
      "source": "BBC",
      "time": "2026-11-18T05:17:09.000Z",
      "seen": "2026-11-18T06:33:18.353Z"
+    },
+    {
+     "title": "عاجل| الجيش الأردني: تحطم طائرة هليكوبتر أثناء تنفيذ تمرين عسكري",
+     "url": "https://www.aljazeera.net/news/2026/11/18/%d8%b9%d8%a7%d8%ac%d9%84-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86%d9%8a-%d8%aa%d8%ad%d8%b7%d9%85-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T05:14:25.000Z",
+     "seen": "2026-11-18T08:23:19.296Z"
     }
    ]
   },
