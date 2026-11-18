@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:12:31.521Z",
+ "updated": "2026-11-18T03:22:31.433Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T03:12:31.521Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T03:22:31.433Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5740,
-   "change": -1.58,
-   "asOf": "2026-11-18T03:03:32.000Z",
+   "value": 5738,
+   "change": -1.62,
+   "asOf": "2026-11-18T03:13:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6553,
-   "change": -1.58,
-   "asOf": "2026-11-18T03:03:32.000Z",
+   "value": 6551,
+   "change": -1.62,
+   "asOf": "2026-11-18T03:13:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3802,
-   "change": -1.62,
-   "asOf": "2026-11-18T03:03:32.000Z",
+   "value": 3800,
+   "change": -1.65,
+   "asOf": "2026-11-18T03:13:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0991,
-   "change": -0.07,
-   "asOf": "2026-11-18T03:12:44.000Z",
+   "value": 1.0995,
+   "change": -0.03,
+   "asOf": "2026-11-18T03:23:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.77,
-   "change": -0.4,
-   "asOf": "2026-11-18T03:03:24.000Z",
+   "value": 92.9,
+   "change": -0.26,
+   "asOf": "2026-11-18T03:13:01.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64413,
-   "change": -0.68,
-   "asOf": "2026-11-18T03:13:22.000Z",
+   "value": 64298,
+   "change": -0.86,
+   "asOf": "2026-11-18T03:23:55.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "باسم مرسي: رحيل حسام حسن حسم مشاركة محمد صلاح في المعسكر",
+     "url": "https://www.elbalad.news/7184899",
+     "source": "صدى البلد",
+     "time": "2026-11-18T03:20:00.000Z",
+     "seen": "2026-11-18T03:22:31.433Z"
+    },
+    {
      "title": "موعد امتحانات شهر نوفمبر لطلاب صفوف النقل بالمدارس",
      "url": "https://www.youm7.com/story/2026/11/18/موعد-امتحانات-شهر-نوفمبر-لطلاب-صفوف-النقل-بالمدارس/7622100",
      "source": "اليوم السابع",
@@ -162,13 +169,6 @@
     {
      "title": "زياد بهاء الدين يحدد روشتة جذب الاستثمارات للصناعة والزراعة",
      "url": "https://www.elbalad.news/7184856",
-     "source": "صدى البلد",
-     "time": "2026-11-18T03:00:00.000Z",
-     "seen": "2026-11-18T03:02:31.391Z"
-    },
-    {
-     "title": "أخبار أسوان | حملات تموينية وأمنية.. وبرنامج لاكتشاف المواهب.. ومشروع لتصنيع التمور وآخر للياقة البدنية",
-     "url": "https://www.elbalad.news/7184825",
      "source": "صدى البلد",
      "time": "2026-11-18T03:00:00.000Z",
      "seen": "2026-11-18T03:02:31.391Z"
@@ -205,7 +205,7 @@
      "title": "مدبولي يشهد افتتاح المرحلة الثانية من مجمع «هاير مصر» ويؤكد: حريصون على دعم المستثمرين الجادين",
      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObHBrbWZvX1BkT1JyaXVoLUxUS0tKdkg1V1g5Y2hyREFtQkh6SGdmOXFjNndYQnpjNWtra2pHZGZkS0s4NDYzQkFsYUhOVm0yMjItUC1tcUVSQnU3blB1VE8xSFg0WGJHcEZ6NjNvX1d2enh0YnZCU1FCa3J0R2M3STZ0TDNiYi1zaXZsVlhtdmFyWnRjSHZFVEhDZlhsR29LaUJROUxFZTcxS3YzZC1IOWNPbW83eW9obWVaOVFZYkdKS1ljY2NaZm5EcVBYeklNX0ZuWjlJSWVacGc0SWNTaFA1OTVmclEwQ1IwMlVYeHJNcC1UdUR6VjdRcmlud1hJbUU5VEVHbDZjbzNVNXI4aUh2cXI3Y2p5VVRqSWxLekNWR3c3TEpnZVUzZ2xWbmJvcmlGU0c2STdOSFEtZ09NclBId2NIQ1huLXpuUGV0cmZDaWNkUVdLOVJVQkJXQWlYU19lbkp0MF90Ni02U2c?oc=5",
      "source": "جريدة المال",
-     "time": "2026-11-17T19:09:49.000Z",
+     "time": "2026-11-17T19:11:18.000Z",
      "seen": "2026-11-17T19:21:05.255Z"
     },
     {
@@ -401,6 +401,20 @@
      "seen": "2026-11-18T00:12:32.036Z"
     },
     {
+     "title": "في فيلم\"أنيمالز\".. كذب السياسيون ولو صدقوا",
+     "url": "https://www.aljazeera.net/arts/2026/11/18/%d9%81%d9%8a-%d9%81%d9%8a%d9%84%d9%85%d8%a3%d9%86%d9%8a%d9%85%d8%a7%d9%84%d8%b2-%d9%83%d8%b0%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%88%d9%86-%d9%88%d9%84%d9%88?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T00:04:00.000Z",
+     "seen": "2026-11-18T03:22:31.433Z"
+    },
+    {
+     "title": "أحدث ظهور لشيرين عبد الوهاب في عزاء يعيد الحديث عن حالتها الصحية",
+     "url": "https://www.aljazeera.net/arts/2026/11/18/%d8%a3%d8%ad%d8%af%d8%ab-%d8%b8%d9%87%d9%88%d8%b1-%d9%84%d8%b4%d9%8a%d8%b1%d9%8a%d9%86-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d9%81%d9%8a-%d8%b9%d8%b2%d8%a7%d8%a1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T00:01:07.000Z",
+     "seen": "2026-11-18T03:22:31.433Z"
+    },
+    {
      "title": "مجلس إدارة إنفيديا يستبعد عودة جنسن هوانغ إلى منصبه وإيرادات الشركة تتجاوز التوقعات",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261117-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA",
      "source": "فرانس 24",
@@ -422,13 +436,6 @@
      "seen": "2026-11-17T22:51:04.714Z"
     },
     {
-     "title": "من أثينا إلى واترلو.. لماذا تندلع الحروب وكيف يسقط الأباطرة؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%85%d9%86-%d8%a3%d8%ab%d9%8a%d9%86%d8%a7-%d8%a5%d9%84%d9%89-%d9%88%d8%a7%d8%aa%d8%b1%d9%84%d9%88-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d9%86%d8%af%d9%84%d8%b9-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T22:37:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z"
-    },
-    {
      "title": "الجيش الكويتي: دفاعاتنا الجوية تتصدى حاليا لهجمات بمسيرات معادية",
      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQc3FtRDJDV3lnZi1iXzJlMEk1bkhFc2FfMG85RGVIdGNVbmgwcHFWbXBta3U2Um9ER1FQX2FDSEpValJzVmZqWEJFNElKdmhNMExHVXp4TFJFeHN3bjEzZU90dlBYUVZYNFhhV0Q4TjhZWE5GR3dwQW80U21Ncm8wY3ZLemR0dHlaOGNjNk9ZaDYwVVJJZHdRVGR5UWdLT0VLb1NETTFURFZURTJGekQ5WEk1VDhKYnB4bFJ2SnRVdFlOd1NIdFpkWmlHZ1FHY0VBNi0temlHLVFoQlRYQURmWXE5V3YwRTVzMXZDME5YOVg3MUtWYkZnem1ZNk0xaVhtc0FyY21HUXUwVTFaT29aTG9ELVNGSFh0cGc3M2w5WUlsdnE2LVJEWFdZMDFuS0l1VkQyRnE5SXFYUDRGeW5fWXpCUkQzYkZmNDBFTktCVk9wY29INWp0cEZ4blpMNVQ5ZkRLV1dWVVRTckR0alZVRVNXdldsMXVRT1JVOUxpOHlSV05HZFQ5NG9JMjNYOS1WQ0Y0MzNYamtyanQ0Vjdmckp3UWtmZ2xJTzF5NVl3TGx5dUZoVEtBQ2dSUjZUT2NzSmJDVGU0djNhanJzckpnNzl4Y2poT0wtZFRSUjVpT3VuZDZ0V3NfUGZ2cTZ5SnJ1TUpIbzJ6SUt4LW5obm14VTlub1BSb2FLcTNqY1JUMEN2N0RFb0V3SWFWNG15Z9IBmARBVV95cUxPRTlteFRUSW9RcE5pOGdZeVB1a1k1QzEzZ3NmNG43bG9nSERxbGtWdGk1NE4zd0ZPNi0zRjBTSVVjc3RIcmlIcGtoVUkwZmRVZ2lTcVQ5bldocm9QeDB0SFJJWFZBX2ExeU5LbUhNRTdSVmtmX3BBWW13bW9BWEFlNVdSQmZuSFJobnc0VUtVRDg1Q1FabHRUMzFRUmRHQ2RnTDNSblZmR2EwdlZwd2Nab0JBSGZNMHZxRGg2RXBVZ0JUUHE1N21mRGRWMHdyRnlnaDRScnNiSnhqbmJRZHUwRnhTcFdPX3p5S3hGa01CaHFaMmFxSnkwLV9LbjdKTjI4d1NBUVVuRmhGLThFMktMTk1BQ0xHbF9GZzFrcHZBRXJOTFFQYnFqMVBvWlRKMThGenZnc3d1R01ISE8zNUtuNkVOVlFlRDE4bk9KNmlySk1iOHlBYjA0Z3VvdXhRdkZZRzZXNzZpaUhlT3NINHJsN3R4WlJvNUFrMG9yVjNGLXJrZE92ZnFDNS1DZVJ3SjZNWG01U0dReTBZR2xoWi04OGM5OXY1NkgyWnlDMzM1NXhJOF9EWkE3anI2Q2QtVEdyR2pzb2Jobzd5X0tUdF9GXzg0X1E5RUM4a0JTRFhIVVpZQlF5NzRGVG9EVUIwWFFUOGxOalhwYTZnTDBpbEtfN2V1RFZKZk5veG5CWnhhcndtZThjbDNJSA?oc=5",
      "source": "اليوم السابع",
@@ -441,13 +448,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-17T21:58:27.000Z",
      "seen": "2026-11-18T00:02:32.067Z"
-    },
-    {
-     "title": "مجلس السلام: الأوضاع الكارثية في غزة تهدد \"اتفاق وقف إطلاق النار\"",
-     "url": "https://www.aljazeera.net/news/2026/11/18/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b6%d8%a7%d8%b9-%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d8%ab%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-17T21:56:41.000Z",
-     "seen": "2026-11-18T01:32:31.505Z"
     }
    ]
   },
@@ -461,6 +461,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T00:58:40.000Z",
      "seen": "2026-11-18T02:52:31.356Z"
+    },
+    {
+     "title": "الصين.. شركات الذكاء الاصطناعي تكبح \"قدرات الاختراق\" في أحدث نماذجها",
+     "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPNTdiZ0k3MUs3RFhCbnhOaWFaV29ycVVPT0JLbHM3aW14eENfRHkwbVdWcVYzY2twcmlUVmFaYXFoOUQxZVR5MnoxWEgxU3Q0czJVUDQyVXB4XzRNYlRhVV9ZdnFXTHBpQ19tVDFYRTdNcVhtODJpYTdCa1ZZZ3dxNllLdWZjWXQtYlE0bTlBd3RsblhjdnBDTnl0Q3Q3MTlIMXIxb0lTVlktSHNTYXZDU2pEUk45aUlUUVBQNVNjRFh5QTJfX0l4TC1sU0FIU2QyckNGTmFBeU9HbkRrY1JScHg2SjJWYmtVbmpibVVFb1lNZVYtVEJyaXMycGNWeEwya0N1UW5oVXFqeEJ2cTRIdnBaSlh3bERwMkFxcDRObkczMWxRT2ZGNzAzTnk1VFk1X1VtdzNqVlpOU3FMaUlKTjdSMmlwUFVCdWJILWx0MzJROVlzcGpFdHMwZjVjelZYYkp1LTFBdEJDREQ4ZDNMcmNvc1FZOXMybE9tQThUdWdBcVVkTk5saGg2aUZCUHRETTg3R1ZhcndhRkxkQ05kV2RLR1Y3MTBmc0tMNGJOMDZBVFdhTmR6cWZXR0FOdmNzMkVuR1l3N1Z6MDhlc3l4SnhvdDk3Xy1IYWEzaDFjbnVNZUFCYm1uUm1WcUQ2MDNPaGc?oc=5",
+     "source": "الشرق للأخبار",
+     "time": "2026-11-17T22:48:41.000Z",
+     "seen": "2026-11-18T03:22:31.433Z"
     },
     {
      "title": "بريطانيا تسلم واشنطن ضابطا يشتبه في تجسسه لصالح روسيا",
@@ -548,13 +555,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-17T16:18:00.000Z",
      "seen": "2026-11-17T18:31:04.596Z"
-    },
-    {
-     "title": "الصين تستضيف قادة العالم في عالم الذكاء الاصطناعي المذهل في شنتشن. إليكم ما لن يروه",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04LS1LSXc4cXdaOVp4dkJ5c1hJYXc0RlQ5dFpYQU1DYVdCcWZOMDVFN3ZxdzI0dHhzSDVtYjBNekx6ZnNHY3F3YmVLYnpHTUs1Z0g4c09XcGIxa2EwRnfSAWNBVV95cUxNSEVzalljVjZvMnd6YWRtMHlHSVYwQ0MtLWhKeG96eHZCX0hoeVJQZnpKcFg4NVZoRlQzcnJESWtYeGRXeGRjNUItQ0tMVVVCeElsZ19WZmR6RGdjSDc1UEw5Zm8?oc=5",
-     "source": "BBC",
-     "time": "2026-11-17T15:45:37.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
     }
    ]
   }
