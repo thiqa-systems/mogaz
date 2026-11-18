@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:44:52.450Z",
+ "updated": "2026-11-18T16:54:52.554Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-18T16:44:52.450Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T16:54:52.554Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5651,
-   "change": -3.11,
-   "asOf": "2026-11-18T16:35:06.000Z",
+   "value": 5656,
+   "change": -3.03,
+   "asOf": "2026-11-18T16:44:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6451,
-   "change": -3.11,
-   "asOf": "2026-11-18T16:35:06.000Z",
+   "value": 6457,
+   "change": -3.03,
+   "asOf": "2026-11-18T16:44:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3741,
-   "change": -3.2,
-   "asOf": "2026-11-18T16:35:06.000Z",
+   "value": 3744,
+   "change": -3.12,
+   "asOf": "2026-11-18T16:44:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0965,
-   "change": -0.3,
-   "asOf": "2026-11-18T16:44:47.000Z",
+   "value": 1.0969,
+   "change": -0.27,
+   "asOf": "2026-11-18T16:54:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.63,
-   "change": -4.84,
-   "asOf": "2026-11-18T16:35:06.000Z",
+   "value": 88.74,
+   "change": -4.72,
+   "asOf": "2026-11-18T16:44:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7297,
-   "change": -0.6,
-   "asOf": "2026-11-18T16:45:10.000Z",
+   "value": 7291,
+   "change": -0.67,
+   "asOf": "2026-11-18T16:54:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62346,
-   "change": -3.93,
-   "asOf": "2026-11-18T16:45:05.000Z",
+   "value": 62378,
+   "change": -3.88,
+   "asOf": "2026-11-18T16:54:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "حزب الجبهة الوطنية ينعى نجل المستشار عبد الوهاب عبد الرازق",
-     "url": "https://www.elbalad.news/7185789",
+     "title": "ما حكم إعطاء الأخت المطلقة من الزكاة؟.. الإفتاء توضح",
+     "url": "https://www.elbalad.news/7185816",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:44:08.000Z",
-     "seen": "2026-11-18T16:44:52.450Z"
+     "time": "2026-11-18T16:54:47.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
     },
     {
-     "title": "محمد العدل يدافع عن علي ماهر بعد تعادل مصر ومالاوي",
-     "url": "https://www.elbalad.news/7185779",
+     "title": "محافظ الوادي الجديد تشهد توقيع بروتوكول تعاون ثلاثي لتنفيذ مبادرة «يسر» لدعم الطلاب من ذوي الهمم",
+     "url": "https://www.elbalad.news/7185809",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:43:48.000Z",
-     "seen": "2026-11-18T16:44:52.450Z"
+     "time": "2026-11-18T16:54:36.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
+    },
+    {
+     "title": "رئيس مياه الشرقية: فتح قنوات اتصال جديدة وتوحيد الجهود بما يسهم في دعم قضايا المياه",
+     "url": "https://www.elbalad.news/7185766",
+     "source": "صدى البلد",
+     "time": "2026-11-18T16:54:36.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
+    },
+    {
+     "title": "مدبولي: إقليم غرب القاهرة من الأقاليم الواعدة كبوابة للتنمية الاقتصادية",
+     "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPOFJmdFRxOHF5SldGZjZwTnZrNTNUdGpvVUp6NXh3bFQzb2ZFWlJiNWJWcHU5R1J5bVZfck53cU1iYXhEcHo5ZllDOXVmV2t6eUIzQnBGWDVMeS1SWkZjOERCQWJOS1ZESk1VWC1yRERzSG9sOHVUajdJOGpJVldIaktCMU85aGN4ODFMRThZMXNvSG92OENPb1pNaGxhd1l0WVRaZEJBUm9lamN0a05sT1JTSjFqOGphRkNINk9CeG1adXRsTVBvRDU4ZDFjQ1FzdGZ0bW9nX3R3Y1J6cHEzWnJTNjEzZ2QwdHotR045QU42LUJkYS1EVnZNd1UtUG9qRlYweUhGa2RnUmFiZ0oyem84bFk1V2hESzdrd1FHUmRhOW1URW83NlJsS0gtNWJSeTQ4UHBPRWN2UHlQWFRWZlVRaHlGNWVmUDNBbVBmUTFOd01VaTJiaGlKb196cU02cFVvSUpOMl8yc3daa09kNkM0QURKVnUtbXNHTVZZQmlNaEhES3FtWjZFNXJfZXNQWkJ3M1JGSU9OQzdHRzltX3NBRTVIMm95dDduSzlybzNjZTlyamtHcEt5WTdRZzdJV3lSV0ZneFBLbDNVem9JNThlUU1FdHNESVU5R1p4TU01X09mMVdiU3d6dmNjajZvazd3YVk0NjNSN2JpUm5ZVDVxcnhhUkh1UjJ1aGo4N1FqYUFMR2U2LVRsUTh1SzRuWWg3TWZoZUpKOS1JdmhZVmVoU0c4aXZXSVU1Nzk5T1FFMTJ1SFB1NTAzWThFS05q?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-18T16:51:00.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
+    },
+    {
+     "title": "الاعتماد والرقابة الصحية تتجاوز حاجز الألف منشأة معتمدة في جميع المحافظات",
+     "url": "https://www.youm7.com/story/2026/11/18/الاعتماد-والرقابة-الصحية-تتجاوز-حاجز-الألف-منشأة-معتمدة-في-جميع/7623926",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T16:50:00.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
     },
     {
      "title": "اليقظة تنقذ مرفق السكك الحديدية فى بنى سويف من كارثة محتملة.. صور",
@@ -160,11 +181,11 @@
      "seen": "2026-11-18T16:44:52.450Z"
     },
     {
-     "title": "روسيا: مصر أهم شركائنا في أفريقيا ونعوّل عليها لإنهاء الصراعات بالمنطقة",
-     "url": "https://www.elbalad.news/7185790",
-     "source": "صدى البلد",
-     "time": "2026-11-18T16:39:06.000Z",
-     "seen": "2026-11-18T16:44:52.450Z"
+     "title": "بث مباشر| مدبولي يشهد الإطلاق الرسمي لمشروع \"نيفيرا\" بالعاصمة الجديدة",
+     "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQSlkyVGhLZlRVX1BQZ2IxOERfVkhSellVOEgzcVpjNlhMMjJGMmJMNEkxRmNKQl9EV3JJM0hmSzVHTjVVal90RU1kOU1YWkdxcmNSUjZSUU9tYUpISFpDeTU3aU5ibjZXa295aVZmVVRudlZuMG4yUHIwZlVrQlZSbnQxaFV5MW1SN040UVJrMUNHVzlWNWFqd0RBRzkydWdpOFNXZGNDS2hJTHFVSjdlYXNOTGIzRzFhNDNIeDhqS2ZkQ2Y5Q0Q4T0pTTnAyRkFDZl9LOF94Nl9JNUY1ZndabzY5YjhuWWVRaTh5SjBDQVRWdnFJblFOcmtYOHhlZnZuYW9TYkhsZ2pkOUdTVUxpSlYtRjI0cHRhbHVzOHJPZkFsTDZjSGxta1ZSbjhGQUlIcTY2NFlGRVlZT1Ria1pwSUE1S1NkYnpPR0FwZFp0djVoRzNKZE5uNUVkVjFHYV9iTkx3S3RCODNhbkJDRGlYS0NLTjJrekRUQ2pNUFNvSDdPSmNndXlIc2JCZEVHMno2LVFvWHpQSTQ4Q3h1eGNCb1NhNVhVank1blJneGhwbWxERlZPdkVCLWpjclVaTENaVGxhaWphSjVRdkhUNzZSU3prbXdPYlk4dTZwZ0hUeHk0YXJsSnhLZVlCTFcxY3I3bmxRZWJTeWlmRE5udXBOak5yLVpNNzBNMW12dC1salhCYlRsT0w4OS1tOFFDOG1Rb3pKa3U3dlJRaU1vVzJuTERoWHpKRU9kdUVLWTJBZE5TZGU2c20zNkhR0gHPBEFVX3lxTE9fYTBwXzVreW5MS3FGbFVMNU1UMzc5XzdRSUt3clJNNFBmNnJBcEhTa1pDa0t4U0RRbUNxZmljdThHa3pvVTcyM01ieWxOUEdXUVQ5alFpclpYVDJ3dk5keEhZZ1F1U1AtWTZ2LXo0bTNRal9zUlNCZTJPTHhoaXpkeVk4X08tWHNpX21jdXFmSXl2SDFzVEU3TkJ5UkU0RV82ZjZrMjNvOXdrVE5JX2FoNEZER0JfNTN5eUdPV1lzT1dnWjJzTFZiWU9pZnBtb05aT1lPTFRZOGtSWS1mTlNJdkt0Y3hNeFJhVjdfSU5DYzZ3c19RYldYNGxMeXgwRDltOEg2Qjhac2VKQkRXYWFFRk15OWFHZmxiWExBaVhKU0JBMmR1OGlmaUFORmhZVkhzZW9VUkhELWtYc0xqamplMm5vNjNNLXhNUWp6R3RRcGdkb0loUnpXMlZENUFLcDVSaTl5NllwaGxnLTdUSGIyQkxjSGZiNG5MNk9GS2VCMUI2Wlo4WDJ3SmJ3S1VQT252V2FpdGpjc2lHdkJ6WDNOUUQ4SHpLTVRWLUJJSzVWSF93X2IzX0VWdmt6NDVoQVNNbUNXc182TWJXVmVleWU3UnAxZ1J5UWNMMW9OeHRUa2daLXFTOURhQjNTN2NtNkNwYWNXVGJHUENwdU94WWZaS09RdUNmSTZCVzNKZG5OcmU4bFB3bFBLOUJmaXZhMktaREEySDBsLUlqN05paldUblBIMnZYVk1QNFJPbTFwMmVoZmc5a1VUellFWVNSMA?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T16:36:51.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
     },
     {
      "title": "غلق كلي لكوبري قصر النيل في اتجاه التحرير لمدة 15 ساعة الجمعة",
@@ -172,13 +193,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T16:25:00.000Z",
      "seen": "2026-11-18T16:34:52.605Z"
-    },
-    {
-     "title": "مسئول أفريقى: فخامة الرئيس السيسى رائد ملف إعادة الإعمار والتنمية فى أفريقيا",
-     "url": "https://www.youm7.com/story/2026/11/18/مسئول-أفريقى-فخامة-الرئيس-السيسى-رائد-ملف-إعادة-الإعمار-والتنمية/7623888",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:21:00.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
     },
     {
      "title": "مجلس الوزراء يوافق على إنشاء المنظومة الوطنية الشاملة للبيانات",
@@ -221,20 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-18T14:17:45.000Z",
      "seen": "2026-11-18T15:53:33.693Z"
-    },
-    {
-     "title": "«لعبة وخروجة وسندوتش غالي».. تفاصيل جديدة في أقوال الأب المتهم بقتل ابنته فريدة بالمنوفية",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Idlh0bGU5RU8wcjYtcjBfX29VMEpJMi16LTF6bXBJOFltM3VlM1FQWmNBczlGZ2VwaUNzWmZHekd3RWtuczdWX05rcWpKRGpZM1hLM0pGWUF2b0hlcGFJ?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-18T14:00:00.000Z",
-     "seen": "2026-11-18T15:53:33.693Z"
-    },
-    {
-     "title": "رئيس الوزراء يشهد توقيع عقود مشروع «أمونت 2» لطاقة الرياح بقدرة 500 ميجاوات بالبحر الأحمر",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GQzdQLXdubGVNeU1abU1Gd213THhzUXJjT0p3N2RTV0xrbkx0QVhJWHRORGdxZHBDWndibGZqVnhwckd4TGw1Rk15NTFzcUw0Z2NlbGs5RkFzUXJndUYw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-18T13:37:00.000Z",
-     "seen": "2026-11-18T13:43:33.443Z"
     }
    ]
   },
@@ -347,11 +347,25 @@
    "title": "العالم",
    "items": [
     {
+     "title": "القضاء البحريني يحكم بالمؤبد على عشرات رجال الدين الشيعة.. رسائل سياسية لإيران؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261118-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D9%8A-%D9%8A%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D8%B9%D9%84%D9%89-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+     "source": "فرانس 24",
+     "time": "2026-11-18T16:49:43.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
+    },
+    {
      "title": "السعودية تستعد لحملة ضد الحوثيين قد تمتد ستة أشهر وتحقيق مكاسب على الأرض قبل بدء أي مفاوضات",
      "url": "https://www.dw.com/ar/السعودية-تستعد-لحملة-ضد-الحوثيين-قد-تمتد-ستة-أشهر-وتحقيق-مكاسب-على-الأرض-قبل-بدء-أي-مفاوضات/a-79983805?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-18T16:31:00.000Z",
      "seen": "2026-11-18T16:44:52.450Z"
+    },
+    {
+     "title": "الديمقراطيون يرشحون حكيم جيفريز لرئاسة مجلس النواب الأمريكي كأول شخص من أصول أفريقية",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B5%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D8%B2%D8%B2%D9%88%D9%86-%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A5%D9%84%D9%89-56-%D9%85%D9%82%D8%B9%D8%AF%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-18T16:18:20.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
     },
     {
      "title": "بـ4 مليارات درهم.. المغرب يطلق خطة لتطوير الصناعات الدفاعية",
@@ -361,25 +375,11 @@
      "seen": "2026-11-18T16:24:52.506Z"
     },
     {
-     "title": "بين الصراع والتعاون.. ماذا تنتظر القوى الكبرى من القمة الثلاثية في الصين؟",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D9%89-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86",
+     "title": "شنجن.. من قرية صيد إلى واجهة الصين التكنولوجية أمام قادة العالم",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%B4%D9%86%D8%AC%D9%86-%D9%85%D9%86-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D9%8A%D8%AF-%D8%A5%D9%84%D9%89-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
      "source": "فرانس 24",
-     "time": "2026-11-18T15:21:09.000Z",
-     "seen": "2026-11-18T15:23:34.039Z"
-    },
-    {
-     "title": "قمة مرتقبة بين ترامب وبوتين وشي.. النووي والذكاء الاصطناعي على رأس الأجندة",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D9%82%D9%85%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%B4%D9%8A-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AF%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T15:04:51.000Z",
-     "seen": "2026-11-18T15:13:33.858Z"
-    },
-    {
-     "title": "فيلم \"العربي\": رواية جزائرية تمنح \"العربي\" في رواية \"الغريب\" لكامو اسمًا وصوتًا",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AB%D9%82%D8%A7%D9%81%D8%A9/20261118-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%AA%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D8%A8-%D9%84%D9%83%D8%A7%D9%85%D9%88-%D8%A7%D8%B3%D9%85%D9%8B%D8%A7-%D9%88%D8%B5%D9%88%D8%AA%D9%8B%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-18T15:03:30.000Z",
-     "seen": "2026-11-18T15:13:33.858Z"
+     "time": "2026-11-18T16:12:38.000Z",
+     "seen": "2026-11-18T16:54:52.554Z"
     },
     {
      "title": "إسرائيل تعلن بدء عملية عسكرية وسط قطاع غزة.. وحماس تعلق",
@@ -451,6 +451,14 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
+     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-18T16:38:24.000Z",
+     "seen": "2026-11-18T10:43:20.154Z",
+     "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
+    },
+    {
      "title": "مزايا أمنية وصحية جديدة في تحديث One UI 9.5 لسلسلة Galaxy S26",
      "url": "https://www.tech-wd.com/wd/2026/11/18/%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%88%d8%b5%d8%ad%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%84%d8%b3%d9%84/",
      "source": "عالم التقنية",
@@ -477,14 +485,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T15:21:29.000Z",
      "seen": "2026-11-18T16:13:33.298Z"
-    },
-    {
-     "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
-     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-18T15:16:01.000Z",
-     "seen": "2026-11-18T10:43:20.154Z",
-     "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
     },
     {
      "title": "بدء إطلاق GTA VI من نيوزيلندا.. وإتاحتها في الإمارات والسعودية منتصف الليل",
