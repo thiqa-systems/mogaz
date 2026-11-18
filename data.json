@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:03:33.768Z",
+ "updated": "2026-11-18T15:13:33.858Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T15:03:33.768Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T15:13:33.858Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5694,
-   "change": -2.37,
-   "asOf": "2026-11-18T14:53:39.000Z",
+   "value": 5687,
+   "change": -2.49,
+   "asOf": "2026-11-18T15:04:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6501,
-   "change": -2.37,
-   "asOf": "2026-11-18T14:53:39.000Z",
+   "value": 6493,
+   "change": -2.49,
+   "asOf": "2026-11-18T15:04:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3769,
-   "change": -2.46,
-   "asOf": "2026-11-18T14:53:39.000Z",
+   "value": 3765,
+   "change": -2.58,
+   "asOf": "2026-11-18T15:04:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0979,
-   "change": -0.17,
-   "asOf": "2026-11-18T15:03:45.000Z",
+   "value": 1.0977,
+   "change": -0.19,
+   "asOf": "2026-11-18T15:13:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.24,
-   "change": -4.19,
-   "asOf": "2026-11-18T14:53:47.000Z",
+   "value": 89.25,
+   "change": -4.18,
+   "asOf": "2026-11-18T15:04:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7344,
-   "change": 0.04,
-   "asOf": "2026-11-18T15:03:47.000Z",
+   "value": 7340,
+   "change": 0,
+   "asOf": "2026-11-18T15:14:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63718,
-   "change": -1.81,
-   "asOf": "2026-11-18T15:03:42.000Z",
+   "value": 63555,
+   "change": -2.06,
+   "asOf": "2026-11-18T15:14:34.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أوكرانيا.. على ترامب وشي الضغط على بوتين لإنهاء الحرب وليس استرضائه",
-     "url": "https://www.elbalad.news/7185672",
+     "title": "استعدادات انطلاق النسخة السادسة من منتدى أسوان للسلام والتنمية المستدامين",
+     "url": "https://www.elbalad.news/7185637",
      "source": "صدى البلد",
-     "time": "2026-11-18T15:02:37.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
+     "time": "2026-11-18T15:12:54.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
     },
     {
-     "title": "الدقهلية.. سقـوط عنصر إجرامى بحوزته كمية من المخدرات",
-     "url": "https://www.elbalad.news/7185606",
+     "title": "أسوان.. التحفظ على 9.7 طن سولار و3 سيارات مخالفة",
+     "url": "https://www.elbalad.news/7185635",
      "source": "صدى البلد",
-     "time": "2026-11-18T15:02:15.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
+     "time": "2026-11-18T15:12:08.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "محافظ قنا يشدد على جدول زمنى محدد لإنهاء العمل بمستشفى دشنا المركزى",
+     "url": "https://www.elbalad.news/7185685",
+     "source": "صدى البلد",
+     "time": "2026-11-18T15:11:31.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "كيف تقدم شكوى لوزارة العمل إذا لم تطبق شركتك الحد الأدنى للأجور؟",
+     "url": "https://www.youm7.com/story/2026/11/18/كيف-تقدم-شكوى-لوزارة-العمل-إذا-لم-تطبق-شركتك-الحد/7621624",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T15:09:00.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "الإعلام الكنسى فى عهد البابا تواضروس الثانى.. قنوات رقمية ومشروعات لحفظ التراث القبطى",
+     "url": "https://www.youm7.com/story/2026/11/18/الإعلام-الكنسى-فى-عهد-البابا-تواضروس-الثانى-قنوات-رقمية-ومشروعات/7620394",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T15:06:00.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
     },
     {
      "title": "وزير التعليم يشهد مسرحية صخب الدهب ضمن فاعليات المهرجان القومى للمسرح المدرسى",
@@ -158,27 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T15:02:00.000Z",
      "seen": "2026-11-18T15:03:33.768Z"
-    },
-    {
-     "title": "بوتشيتينو يصل إلى مانشستر وسط أجواء محفوفة بخطر الهبوط",
-     "url": "https://www.elbalad.news/7185676",
-     "source": "صدى البلد",
-     "time": "2026-11-18T15:00:59.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
-    },
-    {
-     "title": "الطقس غدا.. شبورة كثيفة وسحب منخفضة ونشاط رياح والصغرى بالقاهرة 17 درجة",
-     "url": "https://www.youm7.com/story/2026/11/18/الطقس-غدا-شبورة-كثيفة-وسحب-منخفضة-ونشاط-رياح-والصغرى-بالقاهرة/7623523",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T15:00:00.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
-    },
-    {
-     "title": "بعد قليل.. رئيس الوزراء يشهد الإطلاق الرسمى لمشروع \"نيفيرا\"",
-     "url": "https://www.youm7.com/story/2026/11/18/بعد-قليل-رئيس-الوزراء-يشهد-الإطلاق-الرسمى-لمشروع-نيفيرا/7623745",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T14:35:00.000Z",
-     "seen": "2026-11-18T14:43:33.456Z"
     },
     {
      "title": "رئيس الوزراء يشهد توقيع عقود مشروع «أمونت 2» لطاقة الرياح بقدرة 500 ميجاوات بالبحر الأحمر",
@@ -244,6 +244,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "الدولار عند 150 \"ليرة جديدة\"، كيف ينعكس تراجع العملة السورية على الظروف المعيشية؟",
+     "url": "https://www.bbc.com/arabic/articles/c893rqg6g6qko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T15:08:36.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "الدولار يرتفع أمام الجنيه ويسجل 53.90 جنيه في أعلى مستوياته",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwY1kxaG5vckFtUS1zTF9UZFZkSE1oWi1nYzVJczBic09yV1hqaUJUaDNBSHRHRWo4WF9NX3gxbFU2OU05NF8w?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-18T15:00:00.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "ما سر انهيار المعدن النفيس عالميا؟.. الذهب يهبط لأدنى مستوى في 14 شهرا والأونصة تفقد 1.8% خلال جلسة واحدة.. وعيار 21 في مصر يتراجع لأدنى مستوى منذ 4 أشهر بخسائر تجاوزت 100 جنيه في الجرام",
+     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPbUxBdFhqT3ZGc3NJQ1lfa190T1ViZ0VqR0llTi0zOExSQmhjaG1URXRUZW9sS29pZ2VLdjc0Ny1DQ0F4Mlk5cjYyVko3VU8za3ZmZDA1S0FfVFZjTURId0tGV01MdDdSZTR6MGNodGxHYmU2XzE3WUdJODZWejNXcEIwdDRkalptTjRTUkpONVZjT3NIYkl3NGIzLVVDeGYxb25hR3JuZThmMkNOZDBUcFUxT1hUTFM0aHVhQlU3WHJhbWZaLWxRcVlfQ0FaZzdaMVN2V0JETnJWYnhKZ2JOejJfc0VjMjVhNlFlcEhwNDFPREFkVWRkUWRja2t6Mm5obFQ4WXRDbHNOZUxTS2NlT21YWnplYU94cERZOTJ5UklEekJqVzVQeFFraC04M1AzQjFJbGpzMm42eHNRbEhqUGJiM1NXbzNlbTRyWkhLNXdQeWd5V1FXZkt0WVJIMjZiRGNyb3UxOV9qX2FMR1R2aDdHdndKRWF4eUpYdHJSaDNJc3RnS1Y4VVVDc1phS3RoSk1lMDdlQU5EWlBnNWV4ekt1QXNsekwwZlNMMjFPWGttaWNscVhkQVZ6Y1FBU0Nja1RCaTNKQld5NHVGRUVXYzZSRHRuNUhNRE40am9GTdIB2gNBVV95cUxOTDMwZjNnRlMwSjV5SzBfWHpnZjRqSU1XcGhwc0QteGc2QUxvbGtDRlRJenRNemRHUWpjUkRYMGhyM0FrYWd2LVdVbTVhemE0UXF5RVpZQTQwWUhRbTlVUlNVM2VjNDZ5UXF1aEc0QktTMWZubnR0M0VUWTZ1MkNNQzN5UVFaaUttdDVlSk9UOEg3UFJ5LUZqbmJyUXF6OU03cU9OdEN1N0pZZ2o2TEtXSncwcHlSUE9aX0NmSTNHQlZydFhKdGo5QlN4aWd3TGdtNktmSlpfNXlxN1JDLXZLODJtMjBZS3NEVDg0bEltMTFoXzNpMXJ1eUluVmNXTGw1SUFXWFloRTlVNUdLRjBoWTMzYXFKUlNoNnJGRElaWm9zVFc4Zm93UEhVcU9DSTg3dzFQMVZVSGo4V3JYR0NRX0FFX09TSjRQekpGUEowQjFQNklkRmVtWVI2d1JTeWFYbXo0RktESXZtQnNKZS01ZFExX19LT0NBcDg1WnJIVHV1Y0FTOGNuSFR0c3JBSDM1TWw5c1U2aHJNclNreVVfYUY4akc2eDhoWHU4bUVBczRTT0ZpVXNBMnF6UllmTmtlUnViMHU2RHB6WGhNTk9keEdhNUJ3OEthcHc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T15:00:00.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
      "title": "كيف تحركت أسعار العملات اليوم الأربعاء 18 نوفمبر 2026؟",
      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQVVI5MjVYZXo2OVFQQ24xM3RQblVPcWcwNHkzMlR2MEdRQXZfd0Jka1VPeW90eURfNGdYZ2JKRzQwbU9Ibkk1NGFhTUY4Uk13WjllNGVwWm1HZlAtcXpYVUdSZnFlX0V3TUs1UWpFX1VkN2htUG5qRTktSlJjZmw4ZWZidnBBTU00Z29MdklOcDBQZGg4QXBGal9xYXZ0RjZQajB4SnpFZnAyVVVMYVBVYkFBRHF2TUVJbkZydlRacklMWUJMV0N2WmR4OG5KWkNEWVc3Z1NaWnpyZG5xeTl6TDM0LTFQYW9jZGJOQ3kzSU1PcTZMMFJwdU40NFQtVHg0VVVTV1Q1NjBNUmdqRVF1X0xJZm43aDktcDZidWlSNWg5NHJMNHlZNHliSkpuUDdzd2tQTEtUM3U0djd5M3BXSDc5aUN5ckk4V3g2ZWt4T0JFdHNEUUpkSw?oc=5",
      "source": "جريدة المال",
@@ -300,13 +321,6 @@
      "seen": "2026-11-18T13:53:34.131Z"
     },
     {
-     "title": "\"مصافحة تاريخية\" بين بوتين وترامب قبيل قمة ثلاثية تاريخية في الصين",
-     "url": "https://www.bbc.com/arabic/articles/c64gn38dpqnxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T13:06:57.000Z",
-     "seen": "2026-11-18T08:33:19.472Z"
-    },
-    {
      "title": "سعر الذهب يواصل الهبوط.. عيار 21 يفقد 20 جنيها إضافية والأونصة عند 3782 دولارا",
      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQWFppalN3NFYtc3ZscHdvMm02cGhmSTdEOTZHNHN2M1IwQWtzcnRGQVdVNFZnSmJuMFptVUVNZmt0UVlCRnVpajBCSFpKbWtLcFdmcjJ6MmEwaExzV3VUWktMTndieW5zVnFCamVZZ1Q5SVd5ZFp1V2p0Y0RrOXJIOGFFRHlWeEt4eGh4Q3ZUWnQ3QTdPd0p3STdlZE9nX01HbGxBNkZoWk5pT1NmTFRDRlB5XzJCOEhUT3VVS1RaOFpUY0dKSGdmTVgtRmNWRHViM2FnT1hUWFUzQmhDRFgtT1ppSFpRZ3BsbW5QeDBYamRyNVNDR0JxVFdVb0NySDd5dXVFQlhTUmhCMUVmUWI4OEZmTG1tazFyTnRkZWxucTE2TXJZb1huZm1pMjBTbFhqQkxIZHVrWmFjSklZY3I1Zjh5bXJzN3d6ZjN6VmJFNmQ0SmhIT0lSaFNRTFZxcWllaHRoelVVZ2FGbThzaTNZVU5LdG9Zb2xaNzRXUVNkM19yYnF1TWgyZVU0bHJKYTRCSU84b3plWW5IYmg00gGXA0FVX3lxTFB4TGNiczlnTHREanROdkM3cEl4bV9JRjVBdGhnR05HOVNGTjh0LWJOWXNKLUVFb2pnc2M3RW9YbUZ4ZHJrLWdNcUJfc3p5UTNKdkF0RkNxZm1VWloxOHpzTDlZTW55SFF1Q21WaEsxWUJmNmpjZE9vNkNKN25KNmF0bGFLajJ5QXBWSWtLRGhFaHZaSFFtWTNRUlNKRlhSVi1INVFkSHIyQ3hNTktUSUp0b3JoTF9hbjFmLWd5M3pLVWNHWEhSX1A5c2pvNzQ0ZWI0TGVWUml3UnliU3VuOHpPYnlCVU5SSVp0dFRpaGtkRGNzem83X1JfbnFzT3ZTbGQ4MS0zVFNBaU1rQ0hGUjJCN2lLMWY5d1U3YW02by03NkI5Y3c1UVZDNDlhNVJVWmFENEJER0t0UUxjVk96cG9Tdkd1blFEc1hFdHFfNDFZRlVWNF9iTHNxdHJaVlduZHhzUUZROUFfb0FXRkdGUDQ3OE93Sk1OeXhBT2gxVTdtNksyUzZPUnVxYVc4QktGVG5YMG9IelJr?oc=5",
      "source": "اليوم السابع",
@@ -321,25 +335,11 @@
      "seen": "2026-11-18T13:03:33.364Z"
     },
     {
-     "title": "سعر الدولار يواصل الارتفاع أمام الجنيه فى البنوك اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQNjFreXlGem5HNGVERGt2MjdxNVQ1a2VBTUpBaXE4WG55RWtFQWxhNGtsRG5LQjRPM3YzSnphMzNhZFNhNlpZQWdtYTVGR3YyUF9SS1NqNHpYVDJ1a0RnVnFBQVZGT2JTM0F4SHh1SXBURzkwUGE2WFlrT1NYU2NUOTlkcTE2NU50V1IwQ2Fsb09SVWlvWFNMTmJBY1hlTUxZVVdQemotbzFubndJWno0SHBUdXJObExLTXJ1cUJoNDUxcjdmLW1OOXFPNndERVV2YVl5Tk1ueUh2Nmd3U0tXeDlSSW16MF9ZQW4wS3JwazVjMG9YSE5CUEFIeXhWZXJ5QlM2aVhsbm5xRzhyOWdadi1nWFJGemNEd294VkYxakVKNXVuRkY0S2RVNVh5b0lkWklXSTY3RUFCbzhPRHRHNGJ0RWM5Z0M1dVpMTzRINmVpTnY1bjBrZW5IV1dtMXE5LUhndU1wZEpmR1ZSWDhwZkFNb1lydm93aVh4TUFXTVc3Y280d3ViZWpSYzFZY1VWWW94OEFGWmpGSGN1NVhiVDVrRWlzY3pEczZ4Y3Zxa2ZpY2hHRXpSYlhjNWROQnByZDNhdFV4b0FzMUdCX3dGM3NYQUk0X0FMTzFLQmV6OEVDYW91amd2MDZ4S0xSX2dsZHhkUzRiUFJRU0RWd3dHc0xZUm5maDA2ZXowT09HZ3NOQdIBkgRBVV95cUxQNjFreXlGem5HNGVERGt2MjdxNVQ1a2VBTUpBaXE4WG55RWtFQWxhNGtsRG5LQjRPM3YzSnphMzNhZFNhNlpZQWdtYTVGR3YyUF9SS1NqNHpYVDJ1a0RnVnFBQVZGT2JTM0F4SHh1SXBURzkwUGE2WFlrT1NYU2NUOTlkcTE2NU50V1IwQ2Fsb09SVWlvWFNMTmJBY1hlTUxZVVdQemotbzFubndJWno0SHBUdXJObExLTXJ1cUJoNDUxcjdmLW1OOXFPNndERVV2YVl5Tk1ueUh2Nmd3U0tXeDlSSW16MF9ZQW4wS3JwazVjMG9YSE5CUEFIeXhWZXJ5QlM2aVhsbm5xRzhyOWdadi1nWFJGemNEd294VkYxakVKNXVuRkY0S2RVNVh5b0lkWklXSTY3RUFCbzhPRHRHNGJ0RWM5Z0M1dVpMTzRINmVpTnY1bjBrZW5IV1dtMXE5LUhndU1wZEpmR1ZSWDhwZkFNb1lydm93aVh4TUFXTVc3Y280d3ViZWpSYzFZY1VWWW94OEFGWmpGSGN1NVhiVDVrRWlzY3pEczZ4Y3Zxa2ZpY2hHRXpSYlhjNWROQnByZDNhdFV4b0FzMUdCX3dGM3NYQUk0X0FMTzFLQmV6OEVDYW91amd2MDZ4S0xSX2dsZHhkUzRiUFJRU0RWd3dHc0xZUm5maDA2ZXowT09HZ3NOQQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T12:54:27.000Z",
-     "seen": "2026-11-18T14:53:33.513Z"
-    },
-    {
      "title": "سعر صرف العملات الأجنبية المعلنة من البنك المركزي المصري",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE02dTdWcjFxbHIwZXpCRFI5NUluV0RfMWV4S3J5TnJBY21VNlNLMWRpblJES2ttRG5VdGpkbHUyUWtmYzdh?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-18T12:44:10.000Z",
      "seen": "2026-11-18T14:23:33.473Z"
-    },
-    {
-     "title": "سعر الليرة السورية مقابل الدولار في مصرف دمشق اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrYkEzS3p5WGZCOXBFTHJWd0t0WlZQRlNRMjM1T2JFZnpVRDE0SHVnbTRrQXpUQVpBRjdVaFo5QThxUWt0T2Yw?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-18T12:40:00.000Z",
-     "seen": "2026-11-18T12:53:33.401Z"
     }
    ]
   },
@@ -348,25 +348,25 @@
    "title": "العالم",
    "items": [
     {
+     "title": "قمة مرتقبة بين ترامب وبوتين وشي.. النووي والذكاء الاصطناعي على رأس الأجندة",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D9%82%D9%85%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%B4%D9%8A-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AF%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-18T15:04:51.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "فيلم \"العربي\": رواية جزائرية تمنح \"العربي\" في رواية \"الغريب\" لكامو اسمًا وصوتًا",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AB%D9%82%D8%A7%D9%81%D8%A9/20261118-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%AA%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D8%A8-%D9%84%D9%83%D8%A7%D9%85%D9%88-%D8%A7%D8%B3%D9%85%D9%8B%D8%A7-%D9%88%D8%B5%D9%88%D8%AA%D9%8B%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-18T15:03:30.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
      "title": "أزمة المياه في جزيرة غوادلوب الفرنسية.. عطش في قلب الفردوس!",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261118-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%BA%D9%88%D8%A7%D8%AF%D9%84%D9%88%D8%A8-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B9%D8%B7%D8%B4-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%81%D8%B1%D8%AF%D9%88%D8%B3-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%85%D8%A7%D8%A1-%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87",
      "source": "فرانس 24",
      "time": "2026-11-18T15:00:53.000Z",
      "seen": "2026-11-18T15:03:33.768Z"
-    },
-    {
-     "title": "المضادات الحيوية.. هل نُحسن فعلا استعمالها؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9/20261118-%D8%A7%D9%84%D9%85%D8%B6%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A%D8%A9-%D9%87%D9%84-%D9%86%D9%8F%D8%AD%D8%B3%D9%86-%D9%81%D8%B9%D9%84%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84%D9%87%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-18T14:55:45.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
-    },
-    {
-     "title": "الجيش الإسرائيلي يعلن تنفيذ عملية عسكرية \"دقيقة\" غرب \"الخط الأصفر\" وسط قطاع غزة",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261118-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D8%AD%D9%85%D8%A7%D8%B3-%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D8%B2%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T14:51:01.000Z",
-     "seen": "2026-11-18T14:53:33.513Z"
     },
     {
      "title": "إسرائيل تعلن بدء عملية عسكرية وسط قطاع غزة.. وحماس تعلق",
@@ -390,6 +390,13 @@
      "seen": "2026-11-18T14:23:33.473Z"
     },
     {
+     "title": "قمة ترامب وبوتين وشي جين بينغ في الصين: ماذا تعني لأوكرانيا ولماذا تثير قلق أوروبا؟",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNnpjaDlJSlNHSXFuNmdxMHlBTV9meEptM1JYNDJSbnlDdUR3Q0JVWFR1UGRlYVZOMFpjMGg1WGlyZk84Y3V0YlJPY0xTSTdzc0ZVUVF2TUpzaHFjWXfSAWNBVV95cUxNaUIzcnZhak05aWU1Q2NpOWRyZ1pjaXlUN3RZNDhSU2RYQjdQbDJSZGdZWWtKalkxbkFDak93aXVBakR2OUwzYWdQQ2t3M3Uxb1NuRkw5enFuQUNUWkJmZ0NqbGM?oc=5",
+     "source": "BBC",
+     "time": "2026-11-18T14:11:35.000Z",
+     "seen": "2026-11-18T10:43:20.154Z"
+    },
+    {
      "title": "اليمن: تصنيف الحوثي \"منظمة إرهابية\" بقانون من 55 مادة وعقوبات تصل إلى الإعدام",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/yemen-designation-of-the-houthis-as-a-terrorist-organization",
      "source": "CNN بالعربية",
@@ -402,6 +409,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T13:10:53.000Z",
      "seen": "2026-11-18T13:23:33.815Z"
+    },
+    {
+     "title": "\"مصافحة تاريخية\" بين بوتين وترامب قبيل قمة ثلاثية تاريخية في الصين",
+     "url": "https://www.bbc.com/arabic/articles/c64gn38dpqnxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T13:06:57.000Z",
+     "seen": "2026-11-18T08:33:19.472Z"
     },
     {
      "title": "المحلل السياسي أندرو ميللر: إسرائيل ستخسر أمريكا إلى الأبد إلا إذا غيرت نهجها",
@@ -418,32 +432,18 @@
      "seen": "2026-11-18T12:33:33.705Z"
     },
     {
-     "title": "هل يتجدد القتال في الصحراء الغربية؟",
-     "url": "https://www.bbc.com/arabic/articles/c84gnpd10337o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T12:10:02.000Z",
-     "seen": "2026-11-18T12:13:33.237Z"
-    },
-    {
-     "title": "قمة ترامب وبوتين وشي جين بينغ في الصين: ماذا تعني لأوكرانيا ولماذا تثير قلق أوروبا؟",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNnpjaDlJSlNHSXFuNmdxMHlBTV9meEptM1JYNDJSbnlDdUR3Q0JVWFR1UGRlYVZOMFpjMGg1WGlyZk84Y3V0YlJPY0xTSTdzc0ZVUVF2TUpzaHFjWXfSAWNBVV95cUxNaUIzcnZhak05aWU1Q2NpOWRyZ1pjaXlUN3RZNDhSU2RYQjdQbDJSZGdZWWtKalkxbkFDak93aXVBakR2OUwzYWdQQ2t3M3Uxb1NuRkw5enFuQUNUWkJmZ0NqbGM?oc=5",
-     "source": "BBC",
-     "time": "2026-11-18T11:59:41.000Z",
-     "seen": "2026-11-18T10:43:20.154Z"
-    },
-    {
-     "title": "غارات أمريكية على جزيرة قشم والكويت والبحرين تعلنان التصدي لهجمات إيرانية",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FcnJTdnBiLUM5NDc3dzdxT1lWaDdQWDdHMFljajJTWk9XV2pPRkszT0ZlaWVZTEJOVFpZRlRWSk5SaXRaV09zbVVZelA2QXZIMy1KbXF5VUl4WEVJVVHSAWNBVV95cUxOenY5OVVqMWhBcTY0TUItQmlMcktwUjU0ZXRqMHVZczBPYU5LN2FNVzh5RFJaS25lejZReGltRkpxYUVONFZGRS1sUHlvc0t4RmE0X2Y2MzhEZ041aktMSmFyYkk?oc=5",
-     "source": "BBC",
-     "time": "2026-11-18T11:59:41.000Z",
-     "seen": "2026-11-18T12:53:33.401Z"
-    },
-    {
-     "title": "تراجع عالمي في نسب سعادة الأطفال.. وصفة تربوية لتعزيز الرضا والأمان النفسي",
-     "url": "https://www.aljazeera.net/family/2026/11/18/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d9%81%d9%8a-%d9%86%d8%b3%d8%a8-%d8%b3%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d9%88%d8%b5%d9%81%d8%a9?traffic_source=rss",
+     "title": "أمير قطر يصل إلى سويسرا في بداية جولة أوروبية",
+     "url": "https://www.aljazeera.net/news/2026/11/18/%d8%a3%d9%85%d9%8a%d8%b1-%d9%82%d8%b7%d8%b1-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d8%a7-%d9%81%d9%8a-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%ac%d9%88%d9%84%d8%a9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-18T11:48:07.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
+     "time": "2026-11-18T12:11:15.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
+     "title": "هيبة الدولة واختبار جرف الصخر.. هل ينجح العراق في اختباري السلاح والتهريب؟",
+     "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%87%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9-%d9%88%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d8%b5%d8%ae%d8%b1-%d9%87%d9%84-%d9%8a%d9%86%d8%ac%d8%ad?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T12:10:03.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
     }
    ]
   },
@@ -451,6 +451,14 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
+     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-18T15:04:23.000Z",
+     "seen": "2026-11-18T10:43:20.154Z",
+     "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
+    },
     {
      "title": "بدء إطلاق GTA VI من نيوزيلندا.. وإتاحتها في الإمارات والسعودية منتصف الليل",
      "url": "https://aitnews.com/2026/11/18/gta-vi-launch-new-zealand-uae-saudi-arabia/",
@@ -464,14 +472,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-18T14:26:58.000Z",
      "seen": "2026-11-18T14:53:33.513Z"
-    },
-    {
-     "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
-     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-18T14:24:01.000Z",
-     "seen": "2026-11-18T10:43:20.154Z",
-     "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
     },
     {
      "title": "سامسونج تطلق تحديث أمني ثاني لهواتف Galaxy Z Fold 8 وFlip 8 في نوفمبر",
@@ -493,6 +493,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T13:35:00.000Z",
      "seen": "2026-11-18T14:53:33.513Z"
+    },
+    {
+     "title": "هل يتجدد القتال في الصحراء الغربية؟",
+     "url": "https://www.bbc.com/arabic/articles/c84gnpd10337o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T12:10:02.000Z",
+     "seen": "2026-11-18T12:13:33.237Z"
     },
     {
      "title": "نيسان تطلق «تيكتون» الجديدة كلياً في الشرق الأوسط وتفتح باب الحجز",
@@ -547,14 +554,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T09:31:08.000Z",
      "seen": "2026-11-18T11:53:33.403Z"
-    },
-    {
-     "title": "جوجل تكشف عن هجوم إلكتروني بالذكاء الاصطناعي \"آلي بالكامل\"",
-     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPM0NDeGFsYWNqLWI0RXhoLXdhM3hNZmNkM1ZNY1Rxc0RINGhJVXJuRUt4Ung1TGdnWjZTQkRTUDA4T2FqNkxyZVJJNldIVUZTYzhfZl9ITkttU2gtcXpxWk1WaWktTzAxd3N4WlpVOWp1YlNzcWNuckJWbmtvRlNReV9xX0Z3N0NOOERHb2doeUM5UTJNN3pITUFpbWlvUDBVZWw2bEJ3eUcta0s5cDBRZ0JCeWYySXFKdjdKZ3lBbG8tUWVhdFJTbFN1aGE3VllDUFlOYVR2WHBWd1lwOE5lN05aUm1RbmpjQUYtRFQ3NVpZUWRHclptb05Ib0xNSk5wQXdSSFdKWHFvQ2R1SnFpN2ZWeWllcHVnSnRIWERUaHNoYlctZjBZaDZ6TGl2VEl3UXdXZVdkeFZLdWF4RGhCdDVKZTdQLVNEbUh1Sm9XUmhyWmQ5bF9oSVg1Q2ktTjRadlVURGdCblNyNmZMZUh3WElVcFM3V2dDOU03TUVHdDI3ZU5oMEtGbVgxQ01VVUZydmR0NUdTNk9JckNnNEt2Ql8tV0VoVldvX292ejcyQzNrVXdzMDA0WmF3cFdvVWZuR1I3aHZ5ZEFUWEFkYUpUNG9ObmFBZENmUmc?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-18T09:27:05.000Z",
-     "seen": "2026-11-18T11:53:33.403Z",
-     "impact": "الإعلان عن هجمات إلكترونية بالذكاء الاصطناعي يزيد من توعية الشركات والأفراد لأهمية رفع مستويات الأمان الرقمي."
     }
    ]
   }
