@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:05:20.097Z",
+ "updated": "2026-11-18T23:15:20.239Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T23:05:20.097Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T23:15:20.239Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5632,
-   "change": -3.44,
-   "asOf": "2026-11-18T21:59:59.000Z",
+   "value": 5639,
+   "change": -3.31,
+   "asOf": "2026-11-18T23:05:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6430,
-   "change": -3.44,
-   "asOf": "2026-11-18T21:59:59.000Z",
+   "value": 6438,
+   "change": -3.31,
+   "asOf": "2026-11-18T23:05:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3728,
-   "change": -3.53,
-   "asOf": "2026-11-18T21:59:59.000Z",
+   "value": 3733,
+   "change": -3.4,
+   "asOf": "2026-11-18T23:05:19.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0975,
-   "change": -0.21,
-   "asOf": "2026-11-18T23:05:45.000Z",
+   "value": 1.0977,
+   "change": -0.19,
+   "asOf": "2026-11-18T23:14:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62383,
-   "change": -3.87,
-   "asOf": "2026-11-18T23:06:18.000Z",
+   "value": 62539,
+   "change": -3.63,
+   "asOf": "2026-11-18T23:15:20.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "صراع الصدارة.. الأهلي يستأنف تدريباته اليوم بمدينة نصر استعدادا لمواجهة بيراميدز",
+     "url": "https://www.elbalad.news/7186199",
+     "source": "صدى البلد",
+     "time": "2026-11-18T23:14:29.000Z",
+     "seen": "2026-11-18T23:15:20.239Z"
+    },
+    {
+     "title": "أحفاد رموز الوفد يعودون إلى المشهد.. فتح لجنة الشباب أمام أبناء البيوت الوفدية",
+     "url": "https://www.elbalad.news/7186104",
+     "source": "صدى البلد",
+     "time": "2026-11-18T23:12:10.000Z",
+     "seen": "2026-11-18T23:15:20.239Z"
+    },
+    {
+     "title": "طريقة عمل صينية البطاطس بالفراخ في الفرن.. وجبة اقتصادية بطعم مميز",
+     "url": "https://www.elbalad.news/7186189",
+     "source": "صدى البلد",
+     "time": "2026-11-18T23:04:50.000Z",
+     "seen": "2026-11-18T23:15:20.239Z"
+    },
+    {
      "title": "وزارة العمل تعلن عن 925 فرصة عمل بالعين السخنة برواتب تصل لـ15 ألف جنيه",
      "url": "https://www.youm7.com/story/2026/11/19/وزارة-العمل-تعلن-عن-925-فرصة-عمل-بالعين-السخنة-برواتب/7623623",
      "source": "اليوم السابع",
@@ -150,27 +171,6 @@
      "title": "محافظة القاهرة تدرس تخصيص مواقع جديدة لإنشاء مآوٍ للكلاب بعد تجربة 15 مايو",
      "url": "https://www.youm7.com/story/2026/11/19/محافظة-القاهرة-تدرس-تخصيص-مواقع-جديدة-لإنشاء-مآوٍ-للكلاب-بعد/7623459",
      "source": "اليوم السابع",
-     "time": "2026-11-18T23:00:00.000Z",
-     "seen": "2026-11-18T23:05:20.097Z"
-    },
-    {
-     "title": "بطريرك الأقباط الكاثوليك يلتقي نبيلة مكرم لبحث تعزيز التعاون مع التحالف الوطني",
-     "url": "https://www.elbalad.news/7186034",
-     "source": "صدى البلد",
-     "time": "2026-11-18T23:00:00.000Z",
-     "seen": "2026-11-18T23:05:20.097Z"
-    },
-    {
-     "title": "مرافعة النيابة في محاكمة 25 متهما بـ«خلية الظاهر الإرهابية».. السبت",
-     "url": "https://www.elbalad.news/7185892",
-     "source": "صدى البلد",
-     "time": "2026-11-18T23:00:00.000Z",
-     "seen": "2026-11-18T23:05:20.097Z"
-    },
-    {
-     "title": "بعد قفزة الأسبوعين الماضيين.. حديد التسليح والأسمنت يتراجعان في السوق المصرية",
-     "url": "https://www.elbalad.news/7185864",
-     "source": "صدى البلد",
      "time": "2026-11-18T23:00:00.000Z",
      "seen": "2026-11-18T23:05:20.097Z"
     },
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار مقابل الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك.. استقرار العملة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQTJJWElEYklnaHhRWmF3LTZjZUVIZTBCVDJUdS0yV1htdm9GOHEzSGxhLTlQaWhncHFwTS1SOTV2VUhn?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-18T23:11:16.000Z",
+     "seen": "2026-11-18T23:15:20.239Z"
+    },
     {
      "title": "الدولار يستقر أمام الجنيه بالبنوك المصرية اليوم الخميس 19 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPM0tyNEJ3dXFURUJ0WmNQYmFRT1JUVGdKMnh5YUY2NHlFSzI2elc1M2VNbktJaW9rdDM5QjlxM3ptZzBhcWdWZFNMeEpxR1UyYVRiS1hCRFA1cnppYndWNFhOeUhYZ0Vfa0FUSkRDd3ZxNlNiSEpsOEVaRjNMbGNjWlhsX3V3NEYtX1dlS3RDcFRDR3ktMWtXSmZBb09ndXFxS1FIU3NVZHJvNVVpaExfVnBMa1J5bm1LcmJCcy1XbHZ5UjhFcnJLRUxfXzJXU2ppTkV2NDhsOTRTMldBY2ZVT3c1aXNDU1Y1RTBxM1I0V2VVUHJoTzRHRmNGVUF0c1JhXzQ3RS00eE41Q2N2ajFhNjhyU3VXaWtYX2dxNlNxVHNIODVWQXRSWDg0bVdoUTVDWTh2NkR0SElVSVNLNkR6cjhYcENWci1HaUREQnVPeGJiUQ?oc=5",
@@ -337,13 +344,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T20:02:48.000Z",
      "seen": "2026-11-18T21:45:20.337Z"
-    },
-    {
-     "title": "العراق يقر خطة لإعادة انتشار قواته في جرف النصر على خلفية تحقيقات في تهريب النفط",
-     "url": "https://www.bbc.com/arabic/articles/cw074kjxv2gdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T19:50:01.000Z",
-     "seen": "2026-11-18T19:54:53.144Z"
     }
    ]
   },
@@ -394,6 +394,27 @@
      "seen": "2026-11-18T21:04:52.843Z"
     },
     {
+     "title": "بيلينغهام يضع شرطين على طاولة ريال مدريد لتجديد عقده",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a8%d9%8a%d9%84%d9%8a%d9%86%d8%ba%d9%87%d8%a7%d9%85-%d9%8a%d8%b6%d8%b9-%d8%b4%d8%b1%d8%b7%d9%8a%d9%86-%d9%84%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d8%af%d9%87-%d9%85%d8%b9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T20:02:00.000Z",
+     "seen": "2026-11-18T23:15:20.239Z"
+    },
+    {
+     "title": "لنقل 30 مليار متر مكعب سنويا.. الجزائر ونيجيريا والنيجر تستأنف بناء \"أنبوب الغاز عبر الصحراء\"",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d9%84%d9%86%d9%82%d9%84-30-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d9%85%d8%aa%d8%b1-%d9%85%d9%83%d8%b9%d8%a8-%d8%b3%d9%86%d9%88%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T19:58:21.000Z",
+     "seen": "2026-11-18T23:15:20.239Z"
+    },
+    {
+     "title": "العراق يقر خطة لإعادة انتشار قواته في جرف النصر على خلفية تحقيقات في تهريب النفط",
+     "url": "https://www.bbc.com/arabic/articles/cw074kjxv2gdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T19:50:01.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
+    },
+    {
      "title": "\"أحمد الطيبي يطرد بن غفير من الكنيست\".. ما قصة الفيديو المتداول؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/circulating-old-video-claim-ahmad-tibi-expels-ben-gvir-from-the-knesset",
      "source": "CNN بالعربية",
@@ -415,20 +436,6 @@
      "seen": "2026-11-18T22:45:19.833Z"
     },
     {
-     "title": "حين استعصت الديار على الغزاة.. 10 أندية أوروبية جعلت من ملاعبها حصونا لا تُقهر لسنوات",
-     "url": "https://www.aljazeera.net/sport/2026/11/19/%d9%85%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d8%b7%d9%88%d9%84-%d8%b3%d9%84%d8%a7%d8%b3%d9%84-%d8%af%d9%88%d9%86-%d9%87%d8%b2%d9%8a%d9%85%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T19:29:24.000Z",
-     "seen": "2026-11-18T22:45:19.833Z"
-    },
-    {
-     "title": "بعد هزيمة توغو المدوية.. اجتماع مرتقب يحدد مصير حمداني مع الجزائر",
-     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a8%d8%b9%d8%af-%d9%87%d8%b2%d9%8a%d9%85%d8%a9-%d8%aa%d9%88%d8%ba%d9%88-%d8%a7%d9%84%d9%85%d8%af%d9%88%d9%8a%d8%a9-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%85%d8%b1%d8%aa%d9%82%d8%a8?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T19:18:18.000Z",
-     "seen": "2026-11-18T22:45:19.833Z"
-    },
-    {
      "title": "فرنسا: هل يمكن تخفيض سن التقاعد؟",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B4/20261118-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D8%AA%D8%AE%D9%81%D9%8A%D8%B6-%D8%B3%D9%86-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF",
      "source": "فرانس 24",
@@ -441,13 +448,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-18T19:14:52.000Z",
      "seen": "2026-11-18T19:24:52.350Z"
-    },
-    {
-     "title": "القناة 13: نتنياهو أكد أنه لا مفر من التحرك ضد إيران",
-     "url": "https://www.skynewsarabia.com/middle-east/1905653-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-13-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A3%D9%83%D8%AF-%D8%A3%D9%86%D9%87-%D9%85%D9%81%D8%B1-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T19:04:08.000Z",
-     "seen": "2026-11-18T19:14:52.585Z"
     }
    ]
   },
@@ -559,17 +559,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
