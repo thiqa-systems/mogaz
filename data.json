@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:54:52.554Z",
+ "updated": "2026-11-18T17:04:52.670Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T16:54:52.554Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T17:04:52.670Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5656,
-   "change": -3.03,
-   "asOf": "2026-11-18T16:44:53.000Z",
+   "value": 5652,
+   "change": -3.1,
+   "asOf": "2026-11-18T16:54:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6457,
-   "change": -3.03,
-   "asOf": "2026-11-18T16:44:53.000Z",
+   "value": 6453,
+   "change": -3.1,
+   "asOf": "2026-11-18T16:54:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3744,
-   "change": -3.12,
-   "asOf": "2026-11-18T16:44:53.000Z",
+   "value": 3741,
+   "change": -3.19,
+   "asOf": "2026-11-18T16:54:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.27,
-   "asOf": "2026-11-18T16:54:47.000Z",
+   "value": 1.0971,
+   "change": -0.25,
+   "asOf": "2026-11-18T17:04:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.74,
-   "change": -4.72,
-   "asOf": "2026-11-18T16:44:35.000Z",
+   "value": 88.37,
+   "change": -5.12,
+   "asOf": "2026-11-18T16:54:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7291,
-   "change": -0.67,
-   "asOf": "2026-11-18T16:54:44.000Z",
+   "value": 7321,
+   "change": -0.26,
+   "asOf": "2026-11-18T17:04:56.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62378,
-   "change": -3.88,
-   "asOf": "2026-11-18T16:54:51.000Z",
+   "value": 62803,
+   "change": -3.22,
+   "asOf": "2026-11-18T17:04:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ما حكم إعطاء الأخت المطلقة من الزكاة؟.. الإفتاء توضح",
-     "url": "https://www.elbalad.news/7185816",
-     "source": "صدى البلد",
-     "time": "2026-11-18T16:54:47.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
+     "title": "وزير التعليم يشاهد إبداع طلاب الجيزة فى عرض «صخب الذهب».. صور",
+     "url": "https://www.youm7.com/story/2026/11/18/وزير-التعليم-يشاهد-إبداع-طلاب-الجيزة-فى-عرض-«صخب-الذهب»/7623934",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T17:02:00.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
     },
     {
-     "title": "محافظ الوادي الجديد تشهد توقيع بروتوكول تعاون ثلاثي لتنفيذ مبادرة «يسر» لدعم الطلاب من ذوي الهمم",
-     "url": "https://www.elbalad.news/7185809",
+     "title": "حزب الله يدعو الإدارة الأمريكية لتحرك عاجل لوقف عدوان إسرائيل على غزة",
+     "url": "https://www.elbalad.news/7185822",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:54:36.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
+     "time": "2026-11-18T17:01:16.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
     },
     {
-     "title": "رئيس مياه الشرقية: فتح قنوات اتصال جديدة وتوحيد الجهود بما يسهم في دعم قضايا المياه",
-     "url": "https://www.elbalad.news/7185766",
+     "title": "رئيس هيئة الدواء يختتم اجتماعات الآلية التنظيمية لشمال أفريقيا بالقاهرة",
+     "url": "https://www.youm7.com/story/2026/11/18/رئيس-هيئة-الدواء-يختتم-اجتماعات-الآلية-التنظيمية-لشمال-أفريقيا-بالقاهرة/7623945",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T17:00:00.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "فرصة لتصحيح أوضاع العمالة المصرية فى لبنان.. وزارة العمل توضح",
+     "url": "https://www.youm7.com/story/2026/11/18/فرصة-لتصحيح-أوضاع-العمالة-المصرية-فى-لبنان-وزارة-العمل-توضح/7598375",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T17:00:00.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "فاكهة موجودة طول العام.. تعالج المعدة والضغط وتقوي العضلات والمناعة",
+     "url": "https://www.elbalad.news/7185656",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:54:36.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
+     "time": "2026-11-18T17:00:00.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "جاك ار اف 8 2027 تباع بهذه المواصفات",
+     "url": "https://www.elbalad.news/7185524",
+     "source": "صدى البلد",
+     "time": "2026-11-18T17:00:00.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
     },
     {
      "title": "مدبولي: إقليم غرب القاهرة من الأقاليم الواعدة كبوابة للتنمية الاقتصادية",
@@ -167,32 +188,11 @@
      "seen": "2026-11-18T16:54:52.554Z"
     },
     {
-     "title": "الاعتماد والرقابة الصحية تتجاوز حاجز الألف منشأة معتمدة في جميع المحافظات",
-     "url": "https://www.youm7.com/story/2026/11/18/الاعتماد-والرقابة-الصحية-تتجاوز-حاجز-الألف-منشأة-معتمدة-في-جميع/7623926",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:50:00.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
-    },
-    {
-     "title": "اليقظة تنقذ مرفق السكك الحديدية فى بنى سويف من كارثة محتملة.. صور",
-     "url": "https://www.youm7.com/story/2026/11/18/اليقظة-تنقذ-مرفق-السكك-الحديدية-فى-بنى-سويف-من-كارثة/7623914",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:41:00.000Z",
-     "seen": "2026-11-18T16:44:52.450Z"
-    },
-    {
      "title": "بث مباشر| مدبولي يشهد الإطلاق الرسمي لمشروع \"نيفيرا\" بالعاصمة الجديدة",
      "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQSlkyVGhLZlRVX1BQZ2IxOERfVkhSellVOEgzcVpjNlhMMjJGMmJMNEkxRmNKQl9EV3JJM0hmSzVHTjVVal90RU1kOU1YWkdxcmNSUjZSUU9tYUpISFpDeTU3aU5ibjZXa295aVZmVVRudlZuMG4yUHIwZlVrQlZSbnQxaFV5MW1SN040UVJrMUNHVzlWNWFqd0RBRzkydWdpOFNXZGNDS2hJTHFVSjdlYXNOTGIzRzFhNDNIeDhqS2ZkQ2Y5Q0Q4T0pTTnAyRkFDZl9LOF94Nl9JNUY1ZndabzY5YjhuWWVRaTh5SjBDQVRWdnFJblFOcmtYOHhlZnZuYW9TYkhsZ2pkOUdTVUxpSlYtRjI0cHRhbHVzOHJPZkFsTDZjSGxta1ZSbjhGQUlIcTY2NFlGRVlZT1Ria1pwSUE1S1NkYnpPR0FwZFp0djVoRzNKZE5uNUVkVjFHYV9iTkx3S3RCODNhbkJDRGlYS0NLTjJrekRUQ2pNUFNvSDdPSmNndXlIc2JCZEVHMno2LVFvWHpQSTQ4Q3h1eGNCb1NhNVhVank1blJneGhwbWxERlZPdkVCLWpjclVaTENaVGxhaWphSjVRdkhUNzZSU3prbXdPYlk4dTZwZ0hUeHk0YXJsSnhLZVlCTFcxY3I3bmxRZWJTeWlmRE5udXBOak5yLVpNNzBNMW12dC1salhCYlRsT0w4OS1tOFFDOG1Rb3pKa3U3dlJRaU1vVzJuTERoWHpKRU9kdUVLWTJBZE5TZGU2c20zNkhR0gHPBEFVX3lxTE9fYTBwXzVreW5MS3FGbFVMNU1UMzc5XzdRSUt3clJNNFBmNnJBcEhTa1pDa0t4U0RRbUNxZmljdThHa3pvVTcyM01ieWxOUEdXUVQ5alFpclpYVDJ3dk5keEhZZ1F1U1AtWTZ2LXo0bTNRal9zUlNCZTJPTHhoaXpkeVk4X08tWHNpX21jdXFmSXl2SDFzVEU3TkJ5UkU0RV82ZjZrMjNvOXdrVE5JX2FoNEZER0JfNTN5eUdPV1lzT1dnWjJzTFZiWU9pZnBtb05aT1lPTFRZOGtSWS1mTlNJdkt0Y3hNeFJhVjdfSU5DYzZ3c19RYldYNGxMeXgwRDltOEg2Qjhac2VKQkRXYWFFRk15OWFHZmxiWExBaVhKU0JBMmR1OGlmaUFORmhZVkhzZW9VUkhELWtYc0xqamplMm5vNjNNLXhNUWp6R3RRcGdkb0loUnpXMlZENUFLcDVSaTl5NllwaGxnLTdUSGIyQkxjSGZiNG5MNk9GS2VCMUI2Wlo4WDJ3SmJ3S1VQT252V2FpdGpjc2lHdkJ6WDNOUUQ4SHpLTVRWLUJJSzVWSF93X2IzX0VWdmt6NDVoQVNNbUNXc182TWJXVmVleWU3UnAxZ1J5UWNMMW9OeHRUa2daLXFTOURhQjNTN2NtNkNwYWNXVGJHUENwdU94WWZaS09RdUNmSTZCVzNKZG5OcmU4bFB3bFBLOUJmaXZhMktaREEySDBsLUlqN05paldUblBIMnZYVk1QNFJPbTFwMmVoZmc5a1VUellFWVNSMA?oc=5",
      "source": "Masrawy",
      "time": "2026-11-18T16:36:51.000Z",
      "seen": "2026-11-18T16:54:52.554Z"
-    },
-    {
-     "title": "غلق كلي لكوبري قصر النيل في اتجاه التحرير لمدة 15 ساعة الجمعة",
-     "url": "https://www.youm7.com/story/2026/11/18/غلق-كلي-لكوبري-قصر-النيل-في-اتجاه-التحرير-لمدة-15/7623901",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:25:00.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
     },
     {
      "title": "مجلس الوزراء يوافق على إنشاء المنظومة الوطنية الشاملة للبيانات",
@@ -230,11 +230,11 @@
      "seen": "2026-11-18T16:03:34.207Z"
     },
     {
-     "title": "كانت تنقل غازا من مصر إلى رومانيا.. بلغاريا تكشف تفاصيل استهداف سفينة في البحر الأسود",
-     "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOVUlnZmE1ZXQzZFVMV2kwdkNwMkxhNmlOLTFJUUpIaWdQVkcxbFg5R1hZMU9Cd1hvOGFhRWNOc2xYSmxLZ29GU0dlZFhoUmlUTHVtVmdlWXVlWlF0eWVvcVJ0Z25GWE96eWxIa3hlcTdBcVFxakM0YUdmdUg2S1BDd3lnNlQtY2pFOUtza2NtSDNfUEtSOEg0bzB4WG5aREZTZlg5UWI1eWZ5X0RIenBhX2FvazdtcmU1a1N1QXNJb1E4SmFGZ0I3MFkza3A2ZHIxVUJwT3FzV2Z2ZHM2RWNNNVY2Ymt6UW8wX00wTEtWRnp5X0pRTFRFU0pHdjAxcFhyUVFJeTN1YVA0NWNXa2llQWxpVERBLWN1aW1QZFJFTFRBR0M3ZlNZUEplOEppSHRIYlJfbVIxbThKR1BUN21zdlNiQlRlNDAtVF9sRDh6VXNuT2F6cG5XcmtXMm1NbVB6V3Y3VVBfdHRLcVFqNGlmZ1NDZldRdFJRY3d2d1k4VHNfNXRncl93SDZOYjVjc00tSi1ncmNEbDFvM2ZxVWFfWTBfa3ZwVmZhU1psdXhkYWJ3VWJqUjR3RTR6WHBiRklOSkVaZmctZFZ0MUEtZ1ZMR0VZdTVsdXFTX2Q2cEZyOEFrNlFfd2d0S2JpY01acnlSbm9DVXZDVkxaOHJuNVdER3NsMTFhR0luY0pYbU4zdURrcmZoRE5wRzBUUHo2cHk0ZVBOR0EyeUVLeGpjUkFVX3dZY0RtNWJaZ1hUTlo5akNqZ3V5UHhNM1U5aENOU0kxY0xnR1l1TndCcXdoTHl2eDNlRGNjZkE3b3YxdjYtWTA1U1pWWGM2Z1A5V29HLUdyTXJNejdzY1lUYWlzSG50RE00VHQtZVFVb1dJbEZQYjRFNnYzaTZ1UFlnYXY4RGl3VmtYeWZpS2hvTjDSAcAFQVVfeXFMTlhLUkt0Qk8wZXVRS282LTEwcjh4RlE4R0cxUzNza05NYnRoQ0RwWUlIR1VlbEI0Q2lCZk91bDdtM1Y0Ylk1QUFRQU5jemZxY0k0N3ozRkxzc3lzVTNUM2syLWl1c29vSzhHSV81VmxIN3VOek54MDRlVnFoMlBfdG9YSDVwQ01RSWtmaklSaUJnbTVMdWJpWkxDOEJQU2xCb1FDSFNGajdJQ2Q4UlEtRzFvWTJmMzEtWnVWenpYVHVjQXk0QUZnQXdERS0ybFpJbWpjOERGSkc3dG1PY21PT2ZvQ2tEcXNhMktPTE0zOEZOSVZNZ0hIeXFsSG1POW5fbktBZnFicFBBdC1TTmdwS0JHZ2owNGJOX0d5RGhJLTcyRlhKc0lkOU1hWTVIQk9nVndfOFpLR3RFUFZoNjUwTjM0ZUFOT014aTU5X19XTldyQlNLb3hkLWRDQl9wR2ZsTEpRZXdfd2k3ZXJqNUlZV1RUNThjYnVPTzItbDhhb19KMUlwME5QRkJUUHBIRXBiUG1FLU13WUNMN1RzV2IwVXY2WVQ5a24tYUIzM0RoVFJGd0FlV0NDWVhNXzR4MUxqVHduNHd1ZTFGTWFMLW9IcFlRZ0toRUFyb043T0RlSHFKcDVUeENDN2E4Ml9SdnJrX1VzLWVWRjdtRmVLbjVDMURiN3JGeXBLM256U0pHZk92Z3F3akNSTTR1alVqOVZTWjFOeUVwSWEyNVg0NXdyV3dhMEluNUV1MTBlWEtHbk0yRVJYTVBqUEM1UnNhc0steEpkODBKODlYNm9wMkxMTWs5MEVmSk1OTzl2NVQzQlVJSEExQUdzcVYxNHZkUzZlbzhIdTAwUHE4dHFPNUdabFlvaVdOSXVYdkJVNVl3VlJPLVFlQ1BkSjJaODZSV0IxNm1kd3E4a3cyUXBHS2pNMjM?oc=5",
+     "title": "المؤبد للمتهم بقتل الفنان سعيد مختار في مشاجرة بأكتوبر",
+     "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNVUpEYnFvU2VMQ3ltYVFFVkN2QTlvSjBmSE5SMUluc1RqZjY5cVNWdHhVbkhiemN4c0J5bW13OVk0VHIxRVhBSUpoZVk4bUh4N0ZadUt3OG1TR2k5VThoRkVVX3h3Y1F3UFc4Um9fajBhN0tlaURzaGxUQVZielhZMGs5bW1WQzU4am5LOFB3S2ttTF9PbS1rZ3dQcEhZLUw2bllmMjJzVXlvUXl2UVY5ZnJaZVdac3JOMVRHY3JUUG9iUVRMbWJwSnh2T0VxY2s5NWxyWmp3cnkzdlVQSjlHeUhDR1liWXRNY0p0SzVnemVmOHZXTXBZS1J0YVJGMWNIVjhWbzZxWkUzcFhzYzQ4bUZxblpEeTFTYldTaC0zMDVXQlJsdG0tSV9vY1N4UEoyNVVFcExFX2hBOWlSWmtfMzdiaTFkZWFvUGhuR19kcnZndkQ0VV9BTE8wSkRQRWlBUnY3NkdfQTRsbHpZRFJMX0pSRUwweWhkdFZDYzJ1X21SY2V3Uno1cFFKWGsxNUlidmhCV0dpVXJZbjhCeWxrSHlGa3AyMXFkdVFydllKVnFfS0MxR3BzM3NGSTJqX3lhMW5wUXY3TVdyNzFMSW1zdzZWY3QwbjhGMVIwQk5ITGtGcVY1YV9PQ3hpa3pueXBF0gH2A0FVX3lxTE9YcFdxSGt2dFhSQ2gxR2dhbFdYT3BKZkNMMzdjUWhyWkhIZ3VWelNhNk1sc0Q5NlplYjJmUXZwbE5xbktyYzVueTc2WDNwbFdzdzdKOWhjU3dqaVItaTk1OFVsV0E2RDBSR1RzSWhfdGlvVm4wUlhvaUIxQlZzaXFhSU5EZjdjMHJQeGRvMFVVOHQ1Y0dzS0ZuSnRYYnE4VFZKemhqbm5OY2pFZUN1SE13UXRSTEhQbkxsRzJhcWRVa0xKUy1yMG1oMUxKQnJJNzNtVFJhOG5fZmRSOVBKMnBRZDMxSDB6UGV2WXNiTG1XN2NFMjVzQUNOUUhRYlJVZDlPQTdTZ2M0b29RUkoteUdORkk0X2RncFB2RHk2c0N0NHFTemI3a20zeWo4bm9IMExEeFNjQ1VaelVzenR5RWx6eDJwWXcyWmt4TFhTSGZ0WjN5bUZBQzBnNjgtQzZUQ19PNmlrRlpKbEl0aFhnTXlJOHowMFpUU3E3ZzhvOXZzVFA5am1PTjVJeW5SYm16M3hvVUx0N09qY3FoMGV3aHJINEJUVlBUU0pia1NxUzBFMHhiSlIzQUVkU1NrQnkyN1hicDdkSUhZd2dkRFpHcmUtS1l0U3R1eHM4ZWhiTF9ZaFRmSGE4Z0g0MURxcFdmR0ZJSlBDbWc?oc=5",
      "source": "Masrawy",
-     "time": "2026-11-18T14:17:45.000Z",
-     "seen": "2026-11-18T15:53:33.693Z"
+     "time": "2026-11-18T14:57:48.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
     }
    ]
   },
@@ -347,6 +347,41 @@
    "title": "العالم",
    "items": [
     {
+     "title": "موسى الكوني: صراع السلطة والنفوذ يعرقل توحيد ليبيا",
+     "url": "https://www.skynewsarabia.com/middle-east/1905640-%D9%85%D9%88%D8%B3%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D9%8A%D8%B9%D8%B1%D9%82%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T17:01:48.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "فرنسا: تصاعد العنف ضد الصحافيين.. أزمة ثقة أم تهديد لحرية الإعلام؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9/20261118-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D9%8A%D9%8A%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D8%AB%D9%82%D8%A9-%D8%A3%D9%85-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%84%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D8%B1%D9%81-%D8%A7%D9%84%D9%8A%D8%B3%D8%A7%D8%B1",
+     "source": "فرانس 24",
+     "time": "2026-11-18T17:00:30.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "تفجير عنيف وروايات متباينة.. ماذا استهدفت إسرائيل بالعرقوب؟",
+     "url": "https://www.skynewsarabia.com/middle-east/1905639-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%B9%D9%86%D9%8A%D9%81-%D9%88%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%A8%D8%A7%D9%8A%D9%86%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D9%82%D9%88%D8%A8",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T17:00:22.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "شاهد.. النيران تلتهم ناقلة غاز بعد تعرضها لهجوم في مضيق هرمز",
+     "url": "https://arabic.cnn.com/middle-east/video/2026/11/18/v205539-flames-engulf-gas-tanker-after-attack",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T16:55:12.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
+     "title": "التصعيد الأمريكي الإيراني... حلقة مفرغة تدفع دول الخليج ثمنها",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%AD%D9%84%D9%82%D8%A9-%D9%85%D9%81%D8%B1%D8%BA%D8%A9-%D8%AA%D8%AF%D9%81%D8%B9-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AB%D9%85%D9%86%D9%87%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-18T16:54:13.000Z",
+     "seen": "2026-11-18T17:04:52.670Z"
+    },
+    {
      "title": "القضاء البحريني يحكم بالمؤبد على عشرات رجال الدين الشيعة.. رسائل سياسية لإيران؟",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261118-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D9%8A-%D9%8A%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D8%B9%D9%84%D9%89-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
      "source": "فرانس 24",
@@ -361,25 +396,11 @@
      "seen": "2026-11-18T16:44:52.450Z"
     },
     {
-     "title": "الديمقراطيون يرشحون حكيم جيفريز لرئاسة مجلس النواب الأمريكي كأول شخص من أصول أفريقية",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B5%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D8%B2%D8%B2%D9%88%D9%86-%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A5%D9%84%D9%89-56-%D9%85%D9%82%D8%B9%D8%AF%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-18T16:18:20.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
-    },
-    {
      "title": "بـ4 مليارات درهم.. المغرب يطلق خطة لتطوير الصناعات الدفاعية",
      "url": "https://www.skynewsarabia.com/middle-east/1905629-%D8%A84-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%B7%D9%84%D9%82-%D8%AE%D8%B7%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T16:15:48.000Z",
      "seen": "2026-11-18T16:24:52.506Z"
-    },
-    {
-     "title": "شنجن.. من قرية صيد إلى واجهة الصين التكنولوجية أمام قادة العالم",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%B4%D9%86%D8%AC%D9%86-%D9%85%D9%86-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D9%8A%D8%AF-%D8%A5%D9%84%D9%89-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-     "source": "فرانس 24",
-     "time": "2026-11-18T16:12:38.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
     },
     {
      "title": "إسرائيل تعلن بدء عملية عسكرية وسط قطاع غزة.. وحماس تعلق",
@@ -403,13 +424,6 @@
      "seen": "2026-11-18T14:33:33.786Z"
     },
     {
-     "title": "عملية إسرائيلية وسط غزة.. نزوح وإغلاق \"محور صلاح الدين\"",
-     "url": "https://www.skynewsarabia.com/middle-east/1905604-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9-%D9%86%D8%B2%D9%88%D8%AD-%D9%88%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%AD%D9%88%D8%B1-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T14:18:41.000Z",
-     "seen": "2026-11-18T14:23:33.473Z"
-    },
-    {
      "title": "قمة ترامب وبوتين وشي جين بينغ في الصين: ماذا تعني لأوكرانيا ولماذا تثير قلق أوروبا؟",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNnpjaDlJSlNHSXFuNmdxMHlBTV9meEptM1JYNDJSbnlDdUR3Q0JVWFR1UGRlYVZOMFpjMGg1WGlyZk84Y3V0YlJPY0xTSTdzc0ZVUVF2TUpzaHFjWXfSAWNBVV95cUxNaUIzcnZhak05aWU1Q2NpOWRyZ1pjaXlUN3RZNDhSU2RYQjdQbDJSZGdZWWtKalkxbkFDak93aXVBakR2OUwzYWdQQ2t3M3Uxb1NuRkw5enFuQUNUWkJmZ0NqbGM?oc=5",
      "source": "BBC",
@@ -429,20 +443,6 @@
      "source": "BBC",
      "time": "2026-11-18T13:56:54.000Z",
      "seen": "2026-11-18T16:44:52.450Z"
-    },
-    {
-     "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkVfQVdFdzRsdTMxSmFmdGV3Z1A4V0Z5aU9Sdzg5T3ZXQVF5V1lLWm90dnRzUUhRVnU1R3ZFMzJOcmZXSld1N2Mwa0hJQmt6Wlkzbk9kTG5TaTczV2RFSG9VS0lxMVNyV3Nrdk5OeVFTVk9XVlg3NTRQVlBKMG16ZThuNmxVaEVNczFuRzR3VmRWSXhlQXJ6cWx2WkltZWFZeFNyck5UYVJQYjJTUUV1S29uSWdydEpPdjVHVQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-18T13:46:19.000Z",
-     "seen": "2026-11-18T15:53:33.693Z"
-    },
-    {
-     "title": "قائد \"سنتكوم\" في إسرائيل.. وإيران تهدد برد يتجاوز الحدود",
-     "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbzQ3emdzSjA2U0hfOWhsVlVMWmF6NUF6SFIySUU3QUw2OFlXMGRqbkN4N3plSC0yemJJT09XdWdmY01LWEI2d2tIZURrcG4yV2RiM0tHR1FkLXB2OXk1ZXlDVkgwUzFNdDM4ZkV6c290WF9ydEFHcWRSbVdmQTBsZWRNdGtWRmRJb253c0RJcmVBbEVlOURZa3c1YkVORFg5UUNldnNxRFBxQzlpVGxtMlVfMHpNTEdFWV9wWnU2TTdCNTV1cHRwRXBzSGk1c05CNlFGRWhacU1Ba21iSHJyQ0NIME01QVR0enYtV2ZQbW52VzhnbXJwNDVFbVVWMDhWbUVMdTh6TkVCVWxLb1ktQ2g2bkU0c2JRVU1sYkIwR2ZjTmtwX29CQTl5MGxWcU5Nek1QbktaZktjY29zT0UwT0NULW54SmJzc2FjdW9YcGxsYzJ3ZG9uamRQOFA1bFdyRFRZQzZKUHZnZE1rbHpLbXBQcFRQcFVkSmJIbU9pTXJPSkY1eUkwX19Xb2tpdHRldGg0OFJEcWNRaXlHVE44UzZhSkpGVFBHNUJaMHRwRmTSAbYDQVVfeXFMUEtqTTQ4V19PdWFmcmhfZ3N2QjNOYV9YQi1HMExtUDdTaU80UHNfRGg1ZUVXVEJVVm01ejk5ek90eEJ1T1VkeVpMaGt6S250QkFkX1UwWk1OYVZhck5pYVBVTTRXZDFCdlNDTmk0RlNmdkVJeWdQTjc0S3NndnpIMFVxQWR0aHFtbEhyVm96QVd2OVY2SjFmSWVDRXJGcEdkUU9ueENqQWxtUUlSSVc1dzM3eW1KN0dKNHhoS0tKRjZUQ3lWVUhCRjhuMFdNMmNqTk9aYTJralpFclU0anBJTkcyTmJSZllYZ3hyRjFNd2RKb0xYSzVmSTRBRmFnbzJzNXR3dGZmVjdhc29QQ3BaakYyTm5tYlNkZDRGWE8yWnZRRG9KZnRoQVBnelhhNDRKN0J5OGJSazlKdVh4SUl1cGVkSndhVHF4ZHNyRUxMT3VWTE5Wdi1zM29MZU5nYUt4OGdmOEVOa3hNOHVQOTIwYjZrM0tWQlp1Mk1hRnlwaldhVGZRZWtMV284SUtac3hyeS1HMTQ3VDVVVGk2Wnh0MS15UEUydWVhVmdTX0FDTkxVbEdMYk1B?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T13:44:21.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
     }
    ]
   },
