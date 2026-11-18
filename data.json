@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:34:52.605Z",
+ "updated": "2026-11-18T16:44:52.450Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T16:34:52.605Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-18T16:44:52.450Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5658,
-   "change": -2.99,
-   "asOf": "2026-11-18T16:26:23.000Z",
+   "value": 5651,
+   "change": -3.11,
+   "asOf": "2026-11-18T16:35:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6460,
-   "change": -2.99,
-   "asOf": "2026-11-18T16:26:23.000Z",
+   "value": 6451,
+   "change": -3.11,
+   "asOf": "2026-11-18T16:35:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3745,
-   "change": -3.08,
-   "asOf": "2026-11-18T16:26:23.000Z",
+   "value": 3741,
+   "change": -3.2,
+   "asOf": "2026-11-18T16:35:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0967,
-   "change": -0.28,
-   "asOf": "2026-11-18T16:35:47.000Z",
+   "value": 1.0965,
+   "change": -0.3,
+   "asOf": "2026-11-18T16:44:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.03,
-   "change": -4.41,
-   "asOf": "2026-11-18T16:26:19.000Z",
+   "value": 88.63,
+   "change": -4.84,
+   "asOf": "2026-11-18T16:35:06.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7310,
-   "change": -0.41,
-   "asOf": "2026-11-18T16:36:22.000Z",
+   "value": 7297,
+   "change": -0.6,
+   "asOf": "2026-11-18T16:45:10.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62454,
-   "change": -3.76,
-   "asOf": "2026-11-18T16:36:18.000Z",
+   "value": 62346,
+   "change": -3.93,
+   "asOf": "2026-11-18T16:45:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ضبط المتهم باحتجاز زوجته داخل شقة بمدينة بدر لإجبارها على الطلاق والتنازل عن حقوقها",
-     "url": "https://www.elbalad.news/7185786",
+     "title": "حزب الجبهة الوطنية ينعى نجل المستشار عبد الوهاب عبد الرازق",
+     "url": "https://www.elbalad.news/7185789",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:33:57.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
+     "time": "2026-11-18T16:44:08.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
     },
     {
-     "title": "قرار عاجل في محاكمة 36 متهما بالانضمام لجماعة إرهابية في مصر الجديدة",
-     "url": "https://www.elbalad.news/7185784",
+     "title": "محمد العدل يدافع عن علي ماهر بعد تعادل مصر ومالاوي",
+     "url": "https://www.elbalad.news/7185779",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:33:16.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
+     "time": "2026-11-18T16:43:48.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
     },
     {
-     "title": "تكريم السادات في الكونجرس.. عفت السادات: تقديرا لدوره التاريخي |خاص",
-     "url": "https://www.elbalad.news/7185782",
+     "title": "اليقظة تنقذ مرفق السكك الحديدية فى بنى سويف من كارثة محتملة.. صور",
+     "url": "https://www.youm7.com/story/2026/11/18/اليقظة-تنقذ-مرفق-السكك-الحديدية-فى-بنى-سويف-من-كارثة/7623914",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T16:41:00.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
+    },
+    {
+     "title": "روسيا: مصر أهم شركائنا في أفريقيا ونعوّل عليها لإنهاء الصراعات بالمنطقة",
+     "url": "https://www.elbalad.news/7185790",
      "source": "صدى البلد",
-     "time": "2026-11-18T16:32:13.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
+     "time": "2026-11-18T16:39:06.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
     },
     {
      "title": "غلق كلي لكوبري قصر النيل في اتجاه التحرير لمدة 15 ساعة الجمعة",
@@ -169,13 +176,6 @@
     {
      "title": "مسئول أفريقى: فخامة الرئيس السيسى رائد ملف إعادة الإعمار والتنمية فى أفريقيا",
      "url": "https://www.youm7.com/story/2026/11/18/مسئول-أفريقى-فخامة-الرئيس-السيسى-رائد-ملف-إعادة-الإعمار-والتنمية/7623888",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:21:00.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
-    },
-    {
-     "title": "تحويلات مرورية 30 يوما بطريق نيو كايرو في هليوبوليس لتنفيذ أعمال ربط",
-     "url": "https://www.youm7.com/story/2026/11/18/تحويلات-مرورية-30-يوما-بطريق-نيو-كايرو-في-هليوبوليس-لتنفيذ/7623894",
      "source": "اليوم السابع",
      "time": "2026-11-18T16:21:00.000Z",
      "seen": "2026-11-18T16:24:52.506Z"
@@ -347,6 +347,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "السعودية تستعد لحملة ضد الحوثيين قد تمتد ستة أشهر وتحقيق مكاسب على الأرض قبل بدء أي مفاوضات",
+     "url": "https://www.dw.com/ar/السعودية-تستعد-لحملة-ضد-الحوثيين-قد-تمتد-ستة-أشهر-وتحقيق-مكاسب-على-الأرض-قبل-بدء-أي-مفاوضات/a-79983805?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T16:31:00.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
+    },
+    {
      "title": "بـ4 مليارات درهم.. المغرب يطلق خطة لتطوير الصناعات الدفاعية",
      "url": "https://www.skynewsarabia.com/middle-east/1905629-%D8%A84-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%B7%D9%84%D9%82-%D8%AE%D8%B7%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -382,6 +389,13 @@
      "seen": "2026-11-18T14:43:33.456Z"
     },
     {
+     "title": "اختراع علمي يقلب الموازين.. مشط كهربائي يسرّع نمو الشعر وقد يعيد الإنبات بنسبة 90%",
+     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxOaEpvbEk1YWE5NU5lSTVaeWJ6UUpJZHZyczZUXzg4UF9VbHFmckhYeWZQN0NVN0NWajVKUFh3aksyVTk3amxwMWlfWVJZbURwM1l5YlN4MFhhU3h2cnE2NmFQWGtMWUNHeXhJRldGdmJyWFhQbEMyajkxS05XODVJa3ZKdjFyNDNNWVFHV1NPbFpWMzNCLWJaNzh5QXkyeUZLekJHR0plWDdqYUg2aXdKUU5QcTBwWXFvUUwzVHF0UUpnN3ZER1NnVHh1ZE9XWTdTZmhzeHJqSkVkMlBULWFsdkY2X3hBN0Y3dndKSUJrYTFTbnJtcktPN1MyNDh4WTdTMC1zMlZFdllzRU9HY0FsOUFzMnJUM2NoUmdMUVNRaURQbjBhYjltZURSb0JVVmgxV1ZOZWJ3MHBEVXdRR1laSUFmd3BqNEVXOE9uNUtMWDdVckk2dndRRGpTTU5fVmN1dTRDVklKSnI5TVc1MDRkYklxal9uZjQ0bU9uM08wR200R1RnRlZTazRmSjU2cGZ1RUg1bWxaOTNVY1FWVnlOWGJDWS1vbDE3RzhuQ2RMNHV5T0FUdTFyOTI4ZTdjWlNuRnFZd0VHSnlyMVhoVUpJMC1qdU15UUFFcEtpZzVyVklSVmpVNHpQTFdZek5TTHNjc0tsZW1DSDI1MXJyZW5vNFhlM0FoRXZxT2FsbktxeWNxazk3SjF6M3N4MlhibElmVUtPQUYzYVZGaGhZSDUxZkpGZ2NNakM1QUhucnZPcTVFNE5Mc3VXb3BQV25qOFRzX0kwWkZBQktBNmF3ajFuWFIyZFoxQdIB6wRBVV95cUxNeUc1MmY2MnI5R2VyRUdTMm85NzdmSVViYmlma3RhOXJUUTZxWkVUNFE2YWtZa2ZBdWVoamRoSElHNjFOeU84UnI3aVBWLVFqVDQwSFFDdTkzS1hueS05eEp4Z0NTM1VyUlk4dFlnM3IxMlVTRm5OcEdDS2pnSVVrM0hSRUNqbUJrNlVjOUw2Rm1lWVJOV1d4c0kxRVprTXM1VU5wNmdRLVN6M2pQQTdQbFlyNFVSenRSc3FxdFU5UjlHZS1yY1pBa2g5b3ZNd2h3QUVEZEtnd2lFMmpTQzdzTzVuWmpjZTY0N3BIalZYczlPVHRlOVJLU3B5azA2eXhsem52eWVubl94NmYzWV9ReGFQZV9GQ1JxdFE4VWFHZDJDR2xjUUVwejM4UlFtbmRBdER6NmpEWkNZUVZ4VFh1SWtReWZ0UjdjWVBUWUFfdTVOYXBFNFRKaUNjUkwyNl9PdzlNYU5zNFNMOUM4cHBsQ3l5N0RQRnNxNm5kRFl4cHRJNmpfWTFUNHl2WjhXaWh3QS1VNmpiaVJyenZBNllRTVVPREYwempIeTVhd0hObElKQU1OVkw1NnZpOE5tdmVPYndKdUQ2R19faHpPaXg4aTJLRlRzYUNRN2FXcTYwcXV0d3M0UHNwYUg2bm55Mjl2MklnTFpRR1hpSmRxdFkxejc2MGJnTWJwbThVUDJJTm5xOENvZGdzQk11Q3R1RTlidGNuRjBPYjExQlQ3c29PM2tYcnVSWE42N2ZINEVQYzA3OWdTMXB6MklYeTBJckRtWHItRzZXM284a3hDNVNxajQzMVROb2l3d0RJ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T14:38:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
      "title": "دويتشه بنك في دائرة الشبهات بسبب أموال التقاعد وأوليغارشي روسي",
      "url": "https://www.dw.com/ar/دويتشه-بنك-في-دائرة-الشبهات-بسبب-أموال-التقاعد-وأوليغارشي-روسي/a-79982321?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -410,6 +424,13 @@
      "seen": "2026-11-18T14:13:33.931Z"
     },
     {
+     "title": "الجيش الإسرائيلي يبدأ عملية عسكرية شمال غربي مخيمي البريج والنصيرات وسط غزة",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zMklJQ1M1RXlPNDlid3J2b2VFZW9wT2U5eW1pZmwzRWpiemhudzdqV092eWczcGlvcWJ1YllmdjJ1TC1sRXNDSXFya1Y1MkJvd1I4SmdtNDdkQzVDUHfSAWNBVV95cUxQd1dUa3ltdXBoQTdrV1BDNGdRa1hOUjdrVlR6bTJITGFfanIyb3FsZnJYWnIxRGVJSFVCWTZ0SzFGYnU1NHZfcGNJeXYtM1BkX0ZLa2M4MFA2YkJhNjBpc3A5c3c?oc=5",
+     "source": "BBC",
+     "time": "2026-11-18T13:56:54.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
+    },
+    {
      "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkVfQVdFdzRsdTMxSmFmdGV3Z1A4V0Z5aU9Sdzg5T3ZXQVF5V1lLWm90dnRzUUhRVnU1R3ZFMzJOcmZXSld1N2Mwa0hJQmt6Wlkzbk9kTG5TaTczV2RFSG9VS0lxMVNyV3Nrdk5OeVFTVk9XVlg3NTRQVlBKMG16ZThuNmxVaEVNczFuRzR3VmRWSXhlQXJ6cWx2WkltZWFZeFNyck5UYVJQYjJTUUV1S29uSWdydEpPdjVHVQ?oc=5",
      "source": "CNN Arabic",
@@ -422,27 +443,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T13:44:21.000Z",
      "seen": "2026-11-18T15:43:33.814Z"
-    },
-    {
-     "title": "هكذا كشف صعود العرب في انتخابات إسرائيل عنصرية الإعلام والسياسة",
-     "url": "https://www.aljazeera.net/politics/2026/11/18/%d9%83%d9%8a%d9%81-%d9%83%d8%b4%d9%81-%d8%b5%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a8%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T13:31:24.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
-    },
-    {
-     "title": "اليمن: تصنيف الحوثي \"منظمة إرهابية\" بقانون من 55 مادة وعقوبات تصل إلى الإعدام",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/yemen-designation-of-the-houthis-as-a-terrorist-organization",
-     "source": "CNN بالعربية",
-     "time": "2026-11-18T13:30:05.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
-    },
-    {
-     "title": "ارتفاع النفط والحوافز يرفعان مبيعات السيارات الكهربائية في أوروبا بأكثر من 60%",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/18/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%88%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%81%d8%b2-%d9%8a%d8%b1%d9%81%d8%b9%d8%a7%d9%86-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T13:26:51.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
     }
    ]
   },
@@ -494,13 +494,6 @@
      "seen": "2026-11-18T15:03:33.768Z"
     },
     {
-     "title": "اختراع علمي يقلب الموازين.. مشط كهربائي يسرّع نمو الشعر وقد يعيد الإنبات بنسبة 90%",
-     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxOaEpvbEk1YWE5NU5lSTVaeWJ6UUpJZHZyczZUXzg4UF9VbHFmckhYeWZQN0NVN0NWajVKUFh3aksyVTk3amxwMWlfWVJZbURwM1l5YlN4MFhhU3h2cnE2NmFQWGtMWUNHeXhJRldGdmJyWFhQbEMyajkxS05XODVJa3ZKdjFyNDNNWVFHV1NPbFpWMzNCLWJaNzh5QXkyeUZLekJHR0plWDdqYUg2aXdKUU5QcTBwWXFvUUwzVHF0UUpnN3ZER1NnVHh1ZE9XWTdTZmhzeHJqSkVkMlBULWFsdkY2X3hBN0Y3dndKSUJrYTFTbnJtcktPN1MyNDh4WTdTMC1zMlZFdllzRU9HY0FsOUFzMnJUM2NoUmdMUVNRaURQbjBhYjltZURSb0JVVmgxV1ZOZWJ3MHBEVXdRR1laSUFmd3BqNEVXOE9uNUtMWDdVckk2dndRRGpTTU5fVmN1dTRDVklKSnI5TVc1MDRkYklxal9uZjQ0bU9uM08wR200R1RnRlZTazRmSjU2cGZ1RUg1bWxaOTNVY1FWVnlOWGJDWS1vbDE3RzhuQ2RMNHV5T0FUdTFyOTI4ZTdjWlNuRnFZd0VHSnlyMVhoVUpJMC1qdU15UUFFcEtpZzVyVklSVmpVNHpQTFdZek5TTHNjc0tsZW1DSDI1MXJyZW5vNFhlM0FoRXZxT2FsbktxeWNxazk3SjF6M3N4MlhibElmVUtPQUYzYVZGaGhZSDUxZkpGZ2NNakM1QUhucnZPcTVFNE5Mc3VXb3BQV25qOFRzX0kwWkZBQktBNmF3ajFuWFIyZFoxQdIB6wRBVV95cUxNeUc1MmY2MnI5R2VyRUdTMm85NzdmSVViYmlma3RhOXJUUTZxWkVUNFE2YWtZa2ZBdWVoamRoSElHNjFOeU84UnI3aVBWLVFqVDQwSFFDdTkzS1hueS05eEp4Z0NTM1VyUlk4dFlnM3IxMlVTRm5OcEdDS2pnSVVrM0hSRUNqbUJrNlVjOUw2Rm1lWVJOV1d4c0kxRVprTXM1VU5wNmdRLVN6M2pQQTdQbFlyNFVSenRSc3FxdFU5UjlHZS1yY1pBa2g5b3ZNd2h3QUVEZEtnd2lFMmpTQzdzTzVuWmpjZTY0N3BIalZYczlPVHRlOVJLU3B5azA2eXhsem52eWVubl94NmYzWV9ReGFQZV9GQ1JxdFE4VWFHZDJDR2xjUUVwejM4UlFtbmRBdER6NmpEWkNZUVZ4VFh1SWtReWZ0UjdjWVBUWUFfdTVOYXBFNFRKaUNjUkwyNl9PdzlNYU5zNFNMOUM4cHBsQ3l5N0RQRnNxNm5kRFl4cHRJNmpfWTFUNHl2WjhXaWh3QS1VNmpiaVJyenZBNllRTVVPREYwempIeTVhd0hObElKQU1OVkw1NnZpOE5tdmVPYndKdUQ2R19faHpPaXg4aTJLRlRzYUNRN2FXcTYwcXV0d3M0UHNwYUg2bm55Mjl2MklnTFpRR1hpSmRxdFkxejc2MGJnTWJwbThVUDJJTm5xOENvZGdzQk11Q3R1RTlidGNuRjBPYjExQlQ3c29PM2tYcnVSWE42N2ZINEVQYzA3OWdTMXB6MklYeTBJckRtWHItRzZXM284a3hDNVNxajQzMVROb2l3d0RJ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-18T14:38:00.000Z",
-     "seen": "2026-11-18T15:53:33.693Z"
-    },
-    {
      "title": "بعد استقالة وارتباك البورصات العالمية.. الكونجرس يتأهب لاستجواب جنسن هوانج",
      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOUWI0X2NIbmcyZmctOWxHV2psem51djRqcUJFNEtERldCdjdObTQxTVBvSzVNOXQzaTByRVV4a01CYWFJblFqYzg5QktZcFhGQjlHWUNGckJwb2Ruenh1QndYTnRqU05mNFo0LVFvcXhneWdXNTIzYzgxeTJmZ1l2RkNxcWFWQmtGT3A2aDBBa09SVTFiWUF6cVRjOGEwYkFsNVRDRlMyZFRLTVBLaW1ZaVB2UFJzdmxUZkh3R0t3b3E5V0hSRG9Ia1VaZjdoMFZzV0lfY2FvczJ3VWZzRnNIcHFQbV82clJuMDB4NDlCbnVvZnI2NDFwV2gwci1kMG1IdzgxYVc0cXRvRzhMYlRsNUxmdmRFX1FHNnROWlRpUTBYeElBVjNPQ0dlREtCdEw5VGhrbzlHR2RGcGlEd2JOV19OaEFJai1OZ1REdmhPaHQwblNhOC1RZGVuQTJCdks3LWZGR2wtaHhTdlp5WkhRNmJ6Q0gxSGstakdCWThyN0hvejhrWGZqbml2bHJrcFFVODh0X2oybEgxaERzcG9TVW1hV0dONHNmbFZCMHNGU1locVhzTEJqRHlvc1ctRE1VOXFmNUU3MHp4REFDcTd1NVpxTi14dzZydEE0YlAzdzFUTklfejRocVY3NmVYUUxBYTB3YWlPSzZIS1VRNEhKZVVNc284SDhQdHJ2YkUzVklnWVRHTTVFN01RYWt3QnZiSHRMOVJTaElIU1ZXOG1yRzdHdFhlM3hWbUpHekNFWmtVYy10c1RRRWMyNkdRSWd0WWFyNEFjMGFWN0RuVTJN0gHaBEFVX3lxTE1BNEJqZjdBcERMa3A1Wi13Q3JpMlB5bWxlRU1xQ2NVSXdsUEtWLWxaQlVjMmJzTEdBeW5UT1lWN3Bfekw1QUNHUURyQ0EzcFRDcVF4V0lValBKRm0ycDNwVUJURE5fczZtbDRjb3Nxdmc2Y0ZiSm8wUnFUYWZDZmRSY04yN01YRS13c0hNbGthVk1Sb0dObnluclpBT2FPZ0EwRHNzdGJFUHdKWTRjZWoyM0Y5Q2dERWZSa2ZQZlhxZkN0UzhJVHpEbFlVTVdXSGZYY1RZb2VEVFVBczExcmVxRmxsV0VIdFBWSV9NQ2hHMG9LamdSdVVtYWMwOUNMM3Q3alZYdHFwd0JlSjRod1dvU2dRUXhPMWtCY3VabFFrWlRFOERDdnExX1lFNlY3Qm5iZ3pRcHRlbmpObWlZR1VsYUE5eFVIdXBaaDdLeTNnMVN4TFAyZm91ZHdJaEIwYjl3NF83SWFYTjlETFhXQkhPOUFCSng5dkhUZ2x6b2lJOXI0bHZXMmktUDhaM2QtQ0QzNGlsd1dtY3lhS0JhYU14dE43bEVmZGV2cEJOUmJwSjluc3pYOENHeDF4MEdXcXFzUnp4dTdMQnAydHlBVGM1dzN4NlBwMTlGQldkU1hOc3Y0UEh3bVlkS2s5SU84UC1rQlpESmgxVWZYbVA1VUxsWVRoUm94VnU1TVJNU080aXI5SmRoQjRKOVdMWEM4bDJRMEtfSG5NaF8tWloxdXQwMHJRR2FUMnNhM1I1WlktZFlZanZNSngyOVdRUS12V2xjeHM3SDNucVNR?oc=5",
      "source": "اليوم السابع",
@@ -550,6 +543,13 @@
      "time": "2026-11-18T11:06:57.000Z",
      "seen": "2026-11-17T08:48:53.465Z",
      "impact": "يهم المستثمرين في مصر لمتابعة المخاطر الجيوسياسية الإقليمية وتأثيرها المحتمل على الأسواق."
+    },
+    {
+     "title": "\"مايكروسوفت\" تكشف عن نماذج ذكاء اصطناعي للبرمجة والأمن الإلكتروني",
+     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNREhsMUtYOWhOY01fZmg3NHRabjItWFU0aGF1Ti05LWpCdjFUS1c1WXZLcDlpeTY5eVpFZFFFMElLMXVsdVAtbDRNVktpQ0ZEWHUwbnE3SUxkaVpaVWxPdUppRUF3cnA3bzcyaW45YjE0X3RGWGYtTHFZWUJIcXJaT3BWWFpYYmdOOXlyaUtFWEVjS1k0Z0lUNEtlT0NYUURqX0ZZMEE4MGktUThwN3pQeF8zQ2dWX2t2ci1nRllGWWRlczh4SUZjdUFUV3NJWFh2c0gycTB6R1FWZEFzWW0yeVp0bGNLZjM0cUI3b0NKS0JLY3FYZ0R1ZWNVZUQxOFl3bkQ2ZkdIZkgtTlpLWjVJR1N4ZVBCN2JJNjhXTG1qZTJJTXQ3Z3dhWFBGblJSN18ycVpXQnhwUTBVU2VKaGJXWmtPZ1A4VjB2eWhhMmpOYzI1cUNoMHJOdnhuTnZtRHRIbWllS2RZSUVUaVFPa0J0VFRnU2FPX3NUMlBnaXlpUzBVUDk2eFNsRFFqWVlmamY5NE1LVk4zUGtmNUNUVjdpdE81S25TVDMtdVpxaUV5TlB2ekNwZW1QTF8wWkZ1RDRYWlZWby1JYXhkdE9DRExiSQ?oc=5",
+     "source": "الشرق للأخبار",
+     "time": "2026-11-18T10:50:33.000Z",
+     "seen": "2026-11-18T16:44:52.450Z"
     }
    ]
   }
