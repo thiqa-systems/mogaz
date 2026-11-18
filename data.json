@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-18T02:02:31.826Z",
+ "updated": "2026-11-18T02:12:32.012Z",
  "minute": [
-  "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
-  "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
-  "تابع العالم تطورات أمنية وسياسية مختلفة في المنطقة، بالتزامن مع تراجع في أسهم قطاع التكنولوجيا عالمياً."
+  "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
+  "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
+  "عالمياً، ضرب عطل مفاجئ خدمات شركة آبل وتراجعت أسهم التكنولوجيا، بينما أعلن الحوثيون استهداف محطتي ضخ بخط أنابيب النفط بالرياض."
  ],
  "ai": {
-  "at": "2026-11-17T13:00:47.834Z",
-  "model": "gemini-3.6-flash",
+  "at": "2026-11-18T02:12:32.012Z",
+  "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T02:02:31.826Z"
+  "impacts": 10
  },
  "markets": [
   {
@@ -27,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5752,
-   "change": -1.38,
-   "asOf": "2026-11-18T01:53:32.000Z",
+   "value": 5746,
+   "change": -1.48,
+   "asOf": "2026-11-18T02:03:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6567,
-   "change": -1.38,
-   "asOf": "2026-11-18T01:53:32.000Z",
+   "value": 6560,
+   "change": -1.48,
+   "asOf": "2026-11-18T02:03:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3810,
-   "change": -1.41,
-   "asOf": "2026-11-18T01:53:32.000Z",
+   "value": 3806,
+   "change": -1.51,
+   "asOf": "2026-11-18T02:03:20.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0997,
-   "change": -0.01,
-   "asOf": "2026-11-18T02:02:43.000Z",
+   "value": 1.0995,
+   "change": -0.03,
+   "asOf": "2026-11-18T02:12:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.85,
-   "change": -0.31,
-   "asOf": "2026-11-18T01:42:54.000Z",
+   "value": 92.72,
+   "change": -0.45,
+   "asOf": "2026-11-18T02:03:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64130,
-   "change": -1.12,
-   "asOf": "2026-11-18T02:03:31.000Z",
+   "value": 64400,
+   "change": -0.7,
+   "asOf": "2026-11-18T02:13:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -143,14 +141,16 @@
      "url": "https://www.youm7.com/story/2026/11/18/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-الأربعاء-18/7621964",
      "source": "اليوم السابع",
      "time": "2026-11-18T02:00:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z"
+     "seen": "2026-11-18T02:02:31.826Z",
+     "impact": "يفيد المسافرين داخل مصر لتنظيم مواعيد تنقلاتهم وحجوزاتهم على خط أسوان والقاهرة."
     },
     {
      "title": "مرصد الأزهر يحذر من التطرف الرقمي: الخوارزميات بوابة لاستقطاب النشء",
      "url": "https://www.youm7.com/story/2026/11/18/مرصد-الأزهر-يحذر-من-التطرف-الرقمي-الخوارزميات-بوابة-لاستقطاب-النشء/7621922",
      "source": "اليوم السابع",
      "time": "2026-11-18T02:00:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z"
+     "seen": "2026-11-18T02:02:31.826Z",
+     "impact": "يهم أولياء الأمور في مصر لزيادة الانتباه وتوعية أبنائهم بمخاطر الخوارزميات الإلكترونية."
     },
     {
      "title": "قبل الشتاء .. 4 خطوات لغسل البطاطين يدويًا والتخلّص من رائحة «الكمكمة» دون إتلافها",
@@ -164,7 +164,8 @@
      "url": "https://www.elbalad.news/7184948",
      "source": "صدى البلد",
      "time": "2026-11-18T02:00:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z"
+     "seen": "2026-11-18T02:02:31.826Z",
+     "impact": "يساعد الأفراد الحاملين للعدادات الكودية في مصر على تقليل تكاليف فاتورة الكهرباء الشهرية."
     },
     {
      "title": "«شبانة» عن عقد علي محمود: أحيّي الأهلي وإنبي على البنود",
@@ -247,14 +248,16 @@
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWQmNydkNEZllhVDZCNFdIa3VFRURpQ2FSUThvZ0JnM2x0S2ZKaklXdDVXTGdqZzRZTV9LX05rVUhEUUpE?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-18T01:53:25.000Z",
-     "seen": "2026-11-17T23:01:04.412Z"
+     "seen": "2026-11-17T23:01:04.412Z",
+     "impact": "يخدم الأفراد والمستثمرين في مصر بمتابعة استقرار تسعير المنتجات وحسابات المعاملات بالعملة الأمريكية."
     },
     {
      "title": "لو معاك 100 ألف جنيه.. اعرف أرباحك الشهرية من شهادات البنك الأهلي وبنك مصر",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aM09GOG1vQjAxNTV2OEZUalZ0N18wbXJtMy15R09GQ1hkT1pCSUlrN1FzcmdmR1FnOG44OVdTZ09UeDFDRjQ1dlNFSFl0dHlaR2lvOFFvN1Q5eGZnZmJn?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-18T01:23:00.000Z",
-     "seen": "2026-11-18T01:32:31.505Z"
+     "seen": "2026-11-18T01:32:31.505Z",
+     "impact": "يهتم به المدخرون في مصر لمعرفة وحساب العائد الشهري المتوقع على مدخراتهم في البنكين."
     },
     {
      "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية المحتلة",
@@ -268,7 +271,8 @@
      "url": "https://alborsaanews.com/2026/11/18/2007193",
      "source": "البورصة",
      "time": "2026-11-17T22:29:03.000Z",
-     "seen": "2026-11-17T23:41:05.170Z"
+     "seen": "2026-11-17T23:41:05.170Z",
+     "impact": "يهم المتعاملين في مصر لمتابعة مسار إمدادات الوقود الدولية وتأثيرها المحتمل على أسواق الطاقة."
     },
     {
      "title": "توماس بلاك يكتب: تفوق “سبيس إكس” يضع واشنطن أمام معضلة “ماسك”",
@@ -348,6 +352,14 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مصر تتحرك لتأمين احتياجات المزارعين من الأسمدة وسط ضغوط الغاز",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/egypt-moves-to-secure-fertilizer-supplies-for-farmers-amid-gas-related-pressures",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T01:59:43.000Z",
+     "seen": "2026-11-18T02:12:32.012Z",
+     "impact": "يمس المزارعين والمستثمرين الزراعيين في مصر لضمان توافر مستلزمات الإنتاج والتخطيط للمحاصيل."
+    },
+    {
      "title": "عطل يطال شبكة تبادل المعلومات السرية داخل وكالة الأمن القومي الأمريكية",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%B9%D8%B7%D9%84-%D8%AA%D9%82%D9%86%D9%8A-%D9%8A%D8%B5%D9%8A%D8%A8-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
      "source": "فرانس 24",
@@ -390,18 +402,11 @@
      "seen": "2026-11-18T00:12:32.036Z"
     },
     {
-     "title": "مجلس إدارة إنفيديا يستبعد عودة جنسن هوانغ إلى منصبه.. وإيرادات الشركة تتجاوز التوقعات",
+     "title": "مجلس إدارة إنفيديا يستبعد عودة جنسن هوانغ إلى منصبه وإيرادات الشركة تتجاوز التوقعات",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261117-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA",
      "source": "فرانس 24",
      "time": "2026-11-17T23:41:47.000Z",
      "seen": "2026-11-18T00:12:32.036Z"
-    },
-    {
-     "title": "إسرائيل.. تجميد خطة استيطانية واجهت إدانة دولية لـ\"حين تشكيل حكومة جديدة\"",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/israels-attorney-general-pauses-internationally-condemned-settlement-plan",
-     "source": "CNN بالعربية",
-     "time": "2026-11-17T22:54:06.000Z",
-     "seen": "2026-11-17T23:01:04.412Z"
     },
     {
      "title": "واشنطن استهدفت موقعا للحرس الثوري في جزيرة قشم الإيرانية",
@@ -463,21 +468,24 @@
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPN0lDcWZFbHFqVVhoWlVpZ1JXNUhWRUFoS3RxR1JxQkYyQ1hhUUtSVlpySU0zWHFkeHFJNnpFSl9nU1lUdFpCSmpQaXBGRGt3Q1RjTXJUQVRDZzFSSWFIdUZzbFF1dkFhX1ozbk9fek9YWEUwUk9kUnVJdEQ3MkVxMm9Bc01STU1qWkF2X1FYY3RaRm1YTksxaFV2Z2ZjRUlLOWdCVFNZX2lGNlctQ2tGVkJMdlBiX1lHY003S01PODgzUW9NR3A4S3pTVlRSbFZzNE5mZjE3RU11YXpFemFEVkdkUDlrcHNpc0RqSkM5OUladF80OWhIN2lVMlN6VDJVVDRMTHhDSGtPQ0NpcW5fOWNSRzA4dWFmLUV1eVBPM0ZfSUhjV0FqY3Z3?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-17T21:07:50.000Z",
-     "seen": "2026-11-17T21:11:04.438Z"
+     "seen": "2026-11-17T21:11:04.438Z",
+     "impact": "يهم المستثمرين المصريين المتعاملين بالأسهم لمراقبة توجهات قطاع التكنولوجيا وتأثيره على الأسواق المالية."
     },
     {
      "title": "بـ5 طائرات مسيرة.. الحوثيون يعلنون استهداف محطتي ضخ بخط أنابيب النفط في الرياض",
      "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQUUx2cHA3OGlfWHlicGtYVkhRTXI2bmJvLVdLU2ZmZ1ljZUxVREtTY3kxN0ppUHdZdVJRcmtXTF9FSFoya3dJMHZ5YmFQRmd0RWZCN1ZUZlhXb0RxVFFRNElMSGJxQ2wtMnZyQXBhZHVSZ1dHTk51Wm5nQURwbVRXRjY3dnBhQkNQTlBFMk96ZkpURkNMZURDajdTVUw2MzdVYmRuNGp0WUNiWjhUNW14dzFSakV1YWNoSHRfMlZWWGlKaTVWc0xMR091QU9CeDFWaG9Pb0xkalhIRnlxRTZzUDcwZjVwMjkzc0dYQzFFbmlrQ2w3QmVZNXh0Rk1OQmpqS0JzRmVfRllhbFJPRDVPdDJBVzl2b3BnUGQxejVqU21wS2F4ckVDZ0xpYU9MdGRtdkpMaVpOcThzSzRwaDVOLUkxOWNJVEhRRWVZRE9MOWZLcllrSlNKdlNRck9CWjcwQmExWHRIRUY4OGJ0T3lZamFSYldHMlZZWmp1YmFEQ2o5LVN3R2xmb0F4NVdjQUEzQktZWlh6dzgxM1gtdzBmQ2ZIdTRRXzUzRlJRRldkWmpjNHlBRHF5OUtvcm1nRGVWUVlRVDNYWGlTTmVwMmV5MHVwdUF5N18zWE4xNGg5aDJtcDI2WDlpWXVtWlRLSFNfOEdORTBwS28yaUlTNjZ1S3BpbVVhQ2FHNlpOR2p6d0dzZ0QySTJkWVZkWVZQaTJQalFXOGxWT3BBWVR6UXBoQm9lWGNEZTRxemotRXY0cnBCVm9vS2xKSTVuUVcyTDdRWm8zNkdkNEo1NVJCdFUzT2RBanZYb2JiQWtSTW41ZVlYSmJaOXU2emJlZ0kxdkN1SjJ5MUFCTFQ3OGfSAZAFQVVfeXFMTWlrcGQ2ZHJUb1l5MEx3UC1lZl9HLUtROVJnNkNBbG1ZRE5JQnpISGYweEpsSHVxcTRHWE9jVzR0UkhBMjQxT09BTHFGb0F0WDBCV3lBTDJaazE4cFRHemhCTGF5bzI3WEpBUllrVXZDU2I3OWl0M2JMZjVva21mY3BHUS15aE1rMkZicmQ4X3pYSFV1QnlxelBzMlJKRXc5R3lzNktHejk2MU1aX2J3anRKRFUzTk9iMVd6REcwc3didXJ1blhTSlVITlp2dGIzYjdYcG9LTnBTcTl1bGNTNVFzVV9ZMG44QU1IR2pxNzdPeFVzWEtmeW00YlhmT2M5bmQtbmJHZ0hHeUl5cHFPbzlNOEZYVVBBOC00LThCZTJnb0FNLUFyQXZRX1VQZkpTTGpiTnRpaU9IYk5mNlc3YVhSUzJXQ2VjZWNScTRTUjNoaVY0cHVSTjhJNF9FTEVScnpoVVRMSlNBejJkU3c3V0hqUExJZjRSU2VfRW1FT19naHY5dHAyX3BKOGl0Z201dnptdU9jaEVTY3htcmlNU2JLUm95TW5xZFlGM2hqOHJGM09hT2o1MEdyZG1zbWt2N2hfWS14VHphTHlJWlJMZ2JtN01qdFlPdkMtWVcxYXhWZzFFMXdNMHpSdXViQWxiYVc5ajlobHJuZ0twTnF2bnJFYjQ2ekhnMjhoVGJMODBzVWh0Q0lVZUk1dC0teF92UkVpQmtTYXBrd2RPSGFmQnZKSk5vZFcwekxrRC1FZHBLMmpfWHhHenZ6cWVra05GVW1ZVWU2dlZHNmJaR1lLSmRrbmFGSVhkRXQ5RVhBeFZyR09ET1pGaFgtQ3kwR2toNmUxT2dpMGk2NzVXcUZTQ3E?oc=5",
      "source": "Masrawy",
      "time": "2026-11-17T19:01:56.000Z",
-     "seen": "2026-11-17T23:41:05.170Z"
+     "seen": "2026-11-17T23:41:05.170Z",
+     "impact": "يهم المستثمر في مصر لمتابعة مستجدات أمن الطاقة بالمنطقة وما قد ينعكس منها على حركة أسعار النفط."
     },
     {
      "title": "عطل مفاجئ يضرب خدمات آبل عالميًا.. توقف iCloud ومتجر التطبيقات وApple Pay",
      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQUEwwSXhfd0ZObC02NV94dUxULWNzU2Fuc2I2UVJaNGJCZmpNT29YZl9DWHNRcUhuR091SnNuY2tablhjZ210RjR6MEVNSFp0OFprNEE3R3o2dy1TZ1hpSzJFSXdOTTA2cmo2eGRpSldsRkRvYzl4VXhfVURadFJJVE5nUFpHZnRGN2x3cUdMMGo3WHUzVGJjTkVfdW1ubVZOa3pDTjh6MElHUUp5RWplRzBnWWd0LW9yRkpRVVZOVkRsZFE4TGxGX3M4WHNSa3NkNjctZGFESzZCd25sMVlWdExDTFJfaHpnWS04OXRoMEd1LWZQdzdFZ09KWG9QWWd2dklOUi1Sc3RITDRPbVBjQ043SUF1TDMwSWZGNTJmLU1Oc3l5OVdEZzA0NjNYVW9ZWThPTGRwMHVVWml4TTZQTHNsektMQ3ltcUM3WHZ2OFRycHNPNkZINVJKZVZ2eHpEWmt2c1JXb2dybkdjSm1OVHhfc2M5bkRWVFN6VWxNdkpfYjJUd2VsN2FySEd6QnB6djlwQi14cjRCVnJtUEV2a2FzdkYyb2dfc3dEOVdjckJaWUFjZnI3cHVObERadGhaV0pQTkVkTXFPYWxzU2tGdnI0cFRWSlXSAdIDQVVfeXFMUFJrMWIwSmdvQ2tJRTZWdWZ3MTlKV2tGMnF3RFZXeVFJQ3FfTFhleTVMMHQ0VkJuMGZPRUgzbV9ZcWxLLVRhdE94R0tScXVlNmNsRlk1Snl3N1RVSklsZUtTYzEtUEF2cnlvMDJ5VzU3cU9TWXEzTXdNckFoZnBPVnRMbWFhaGVLZUdhTEFKamJtTFpiZ3Q3dkVfZlR0XzRBY3pPWUpTaEpPQi1BVkFBVDhYeUZBdU9RYW1XcTZIQ2x5QlBSTWVpUVpiUllabFpZUlg0R05TWkxBTkxlc0lPXzJFb19sUDIwVmVrWG54U2dwVl9hZHFmZ3lGRzR1ZjZnU2pDTjAxLVFROWFmWEE1TlhHRFdKREYwNUxneU0wNjZNcXBIWXlFZ0drNDMyNUZzOTVnak9taERvNjk0WkV3UXRraGh5dDlmLV82SHd5NEF2c3hRLV9pUVRCeGZUdmY1dHVQaFZJaWJtcHBoRlpqcF9ZMl9MZTBNbTRWenRNeGxpRDN6UUZkQWoxb211bE9abzNyQUxQMnVEUGlLT3RZRzZmeV9uZ29nUlBkRHh4cEtWUlEzWDRlcEtpQTVta2ZJaHJXZHlkTXZKUDdrWHNQQTc0QQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T18:45:00.000Z",
-     "seen": "2026-11-17T20:31:04.390Z"
+     "seen": "2026-11-17T20:31:04.390Z",
+     "impact": "يؤثر على مستخدمي أجهزة آبل في مصر بسبب توقف خدمات الدفع الإلكتروني والسحابة وإنجاز المعاملات."
     },
     {
      "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
@@ -529,18 +537,18 @@
      "seen": "2026-11-17T16:50:47.728Z"
     },
     {
-     "title": "تعطل شبكة شديدة السرية داخل وكالة الأمن القومي الأميركية",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNm5fV0FZbF9yX3NJODBJc3p2eUUtUUprZVJ2TEVVa3ROSS10MkdWc1NVRnFMbEMya3kzRmFUM3Q5aGU0U2xOWG1xY3AzQ000MXI3Vk1TcEhGVW16cktLUW95QlFnV2lrck1zZ0U4VVpWcmt0TjlJWkN3RE1LLWpUcGhwdnRJMUwyRHhJM1c5OUprbnNNX2k0Qlg2TDBaaEJmWndiRC1xMDA1RmtUdWNQbk04NWNQV0tyVk45TzNlczNrejNTeWRFeVRHTU5VUlU2dlp4dHNtVjdUQmdFVU5adkhwemhYbS1Ub1FaUkl4eHRHeTBZZGp3U0V5Q1NlamRJUFprb1hLUEppWnR0eUhOVzNEem9wcDV3TmUta0pUcUFYNkY2MmFmLXd2bi1BZzUxeTdKSGVOQll1SEdaT3FCUVhqQnVZOUVLM0xhcGRCM1E4a25ZQndONDAwcDRlMEw5VkZYWVBDZkxKSDdvZUFJV3laU0VTRi1jeENhM2h1cVVNVm95eUlDVW5WN3o0VUVSOEhUd0xDR0drRTVWUjJVeGlPQkJoZEJCaFJfQUNwUEFaMEF0c2Vidkdta3YtVlZTQTE2UDJ0MVZJYVRFRmJQbkFQT2UtSmpyeE5Tck0wMXhjUdIB5wNBVV95cUxObUhjT3ZfUGhKMXFrUGxVVGVCN2Q5SFE4VzlMX2Qwc1lieEJ0QmwwOHFqblZDWnhEMGNESDYxRjBZcUtMSWRxRk5NY3dmZGxfb0ExcDRwLVg0TkxjdVhyLXN0SUtNQ29ERFFlYXJXajZLSnhoV0pPcjVCdzFNYXhLb0dlQjJXVUZ1NWJqSjJBM0xSam5Ma1pzTGZKV2hwU0NzM0hsLUVhUENVdnlQS0FnZGFRN2RoRVI1TC10WF85Zk1raXBkcnJPcUhzNzR5aG8zWGlrT09sdXBCLU1xWF9aUFdtS3djUFAyQi1FalI5cDlfWk5UcUdOQlhYRHYwZ1A3aHotVkZlbWVGT2d4dG5PQmFtRW02SFRDa2pXbHNSaGVLUmFCSVNvUXpfNVhKZXpNcjVYRGw5d3pUa3VudVdoZWc0c2JHb0JtYU04WnFhOUo2dFVvVjFZblJNWHFYS25aX1RFeEpsdVpLbnJRTnNvQTlSSGNHcXQtdS1SQ3k3N1VDd3hjZmV0X01SSm4xVExvb0RpUVJkVklwUkk5b0h3YzNaLWl4cUwxSldpRU9DWWVLRENYRjRRNVRIMWZ5dXRJM0NLaERRblp1aFRGcVU1TGRZaGV5eVhDVERPZmQ4eks3N19JUkE0?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T16:22:26.000Z",
-     "seen": "2026-11-17T17:20:48.201Z"
-    },
-    {
      "title": "قراصنة يخترقون مواقع شهيرة لسرقة العملات المشفرة واستهداف مستخدمي آيفون",
      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOS2cxVUtFMi1DdUhCYVpDWGVvN29NOWlQR1N4ZmxuNUFRRnBXcVBBQ2prOHpHQUhFN0pFam9GdFNGdzJNZ2N5aS04WE9rRkIwbjZKT0piUndEWG84T2JuTjlKWXlEZFY0U2lWNG5CYU9ROWhaU2lQTm5TYUVmRjFKcHVMSU9ja1hlRTZyTGJhbGtScl9WMEEwR0g3Q18zaHhKbnRJZ0VaaEpVYUV4ODF4dHRmR0RxZFZpYkpQd2JtY1VtMGJBRFZfMGlEZUhkSVhkSGpSQ3BsQVUtb0xHWmxJTTB5Slc4eHJxd21DTmVlamlINzhkMW5tcW40bjdYbEtQekNNNS1ybTktTGlLRDhvQlU1ZTMtYS1DSkFZV3ktam5OaTNWa1dtNkdYNVlJTDF3TlJGb2l1QXJFRVFjdFJLTXF0MGowZ1JjOHJJMlh0anZleG1fV05sblhOdTR1dEhjcllVd0RmT0VvSHppLVozWWt0cEtXbXZfZWcxbXFoLXZRckRXQ2gweFhsLXE3MFR6NXI4WFA3dlJ5NHVrT2lZTmQ4VENiNnFZd0c4NHV3YnFQaU01Vzh4SHRXd084b0I3VzM0bVNmeXF2QVRTOVhoRk9UWmt4V0VRNkR5cW9CUnJfcm1sU2R2cV91alpteTNRNHFrcDA5UmlEWWZPa3Y5NXhTYlVtTkhQUUplQWVLeHFIamljZW55S2hzdDViMWlPWDFEZXdidjBGaXBqT3JZZmhSVFh1WWFpczhxUGUzU05RWEhDaVNYamZpOC1IS2lwNnZOVFoyQdIB0gRBVV95cUxNWHhoelRfTkM3Ty1OVV9BMHBSTFdwTmswY3BKMllzZEtrU1k4LXRCOWw0RXBhekdTZHVNd0ZGLWdwSnVOcEJDQjhfRkg3djBkMzR5eWtldTV0R0drTjZoRGh2bm5YczJQLU8yYjg4dkZ4TTFkSHFzamxEVFBhQzlVeC00cGpscjJLNDRGUDQtS2otQk95NXFLcGEwbUZFVHJZekk5Wml3QkVEa0NpOU04cjQ3MWp3Tkp3NzJXVkFhQVZrVXp6MFFKY2xjZ0lNLTViRkcxcEV5eFBhZjlSVlM3U1NZWTdpUUo5Y1ROTHZweDBSTXZrblJydDZFWjdrX3o4SjhfTS1aaFlYQTZ5N3RzR2JBWk5PX3JKUnpRN2YyM3BMTWNLQVJtOXoxRVl4NkJuYmk4QXBKYnZZZ0pNYXlBYTdIMXN3SXJ2VG5HbWo5LVdKa0tRaUpFck5jYnNkQ0hkSTk5QkFYanNXWC0wZlExVlBLLXlNUmFCVFJWNzItUmlDU1JtSzBUMTl4T1k1anhFV09ybHBmS2RHUUdFbkd6S3hEWW9UZ1k2cnhsRkljQkpnTXB5SDF5anFKS2RxcW5KUk9BbkhKc3pXY05XMHJLMkxwOUhKVUVlNXZnOGxqd1JYVUFST21XZ3hoeWtaVk1IS2JaYWpXX1Fhei1YeWg4M09TWUE4MVpXWnlza29FODh0aDJtMkZxZk01em5xOGJpWTBRVlUtQm53eTFERVRyTzdURjNydzdjVlJ6SmllcnlYTk95cEI3bkJUTG5NSlBRb2c?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-17T16:18:00.000Z",
      "seen": "2026-11-17T18:31:04.596Z"
+    },
+    {
+     "title": "تعطل شبكة شديدة السرية داخل وكالة الأمن القومي الأميركية",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNm5fV0FZbF9yX3NJODBJc3p2eUUtUUprZVJ2TEVVa3ROSS10MkdWc1NVRnFMbEMya3kzRmFUM3Q5aGU0U2xOWG1xY3AzQ000MXI3Vk1TcEhGVW16cktLUW95QlFnV2lrck1zZ0U4VVpWcmt0TjlJWkN3RE1LLWpUcGhwdnRJMUwyRHhJM1c5OUprbnNNX2k0Qlg2TDBaaEJmWndiRC1xMDA1RmtUdWNQbk04NWNQV0tyVk45TzNlczNrejNTeWRFeVRHTU5VUlU2dlp4dHNtVjdUQmdFVU5adkhwemhYbS1Ub1FaUkl4eHRHeTBZZGp3U0V5Q1NlamRJUFprb1hLUEppWnR0eUhOVzNEem9wcDV3TmUta0pUcUFYNkY2MmFmLXd2bi1BZzUxeTdKSGVOQll1SEdaT3FCUVhqQnVZOUVLM0xhcGRCM1E4a25ZQndONDAwcDRlMEw5VkZYWVBDZkxKSDdvZUFJV3laU0VTRi1jeENhM2h1cVVNVm95eUlDVW5WN3o0VUVSOEhUd0xDR0drRTVWUjJVeGlPQkJoZEJCaFJfQUNwUEFaMEF0c2Vidkdta3YtVlZTQTE2UDJ0MVZJYVRFRmJQbkFQT2UtSmpyeE5Tck0wMXhjUdIB5wNBVV95cUxObUhjT3ZfUGhKMXFrUGxVVGVCN2Q5SFE4VzlMX2Qwc1lieEJ0QmwwOHFqblZDWnhEMGNESDYxRjBZcUtMSWRxRk5NY3dmZGxfb0ExcDRwLVg0TkxjdVhyLXN0SUtNQ29ERFFlYXJXajZLSnhoV0pPcjVCdzFNYXhLb0dlQjJXVUZ1NWJqSjJBM0xSam5Ma1pzTGZKV2hwU0NzM0hsLUVhUENVdnlQS0FnZGFRN2RoRVI1TC10WF85Zk1raXBkcnJPcUhzNzR5aG8zWGlrT09sdXBCLU1xWF9aUFdtS3djUFAyQi1FalI5cDlfWk5UcUdOQlhYRHYwZ1A3aHotVkZlbWVGT2d4dG5PQmFtRW02SFRDa2pXbHNSaGVLUmFCSVNvUXpfNVhKZXpNcjVYRGw5d3pUa3VudVdoZWc0c2JHb0JtYU04WnFhOUo2dFVvVjFZblJNWHFYS25aX1RFeEpsdVpLbnJRTnNvQTlSSGNHcXQtdS1SQ3k3N1VDd3hjZmV0X01SSm4xVExvb0RpUVJkVklwUkk5b0h3YzNaLWl4cUwxSldpRU9DWWVLRENYRjRRNVRIMWZ5dXRJM0NLaERRblp1aFRGcVU1TGRZaGV5eVhDVERPZmQ4eks3N19JUkE0?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T16:08:24.000Z",
+     "seen": "2026-11-17T17:20:48.201Z"
     },
     {
      "title": "الصين تستضيف قادة العالم في عالم الذكاء الاصطناعي المذهل في شنتشن. إليكم ما لن يروه",
