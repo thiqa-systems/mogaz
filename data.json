@@ -1,52 +1,52 @@
 {
- "updated": "2026-11-18T07:13:18.698Z",
+ "updated": "2026-11-18T07:23:19.186Z",
  "minute": [
-  "تابعت الأخبار المحلية في مصر استقرار سعر الدولار مقابل الجنيه وإيضاحات التعليم بشأن امتحانات الطلبة في الخارج وحالة الطقس.",
-  "إقليمياً ودولياً، تناولت التقارير استهدافات متبادلة وتوترات عسكرية في المنطقة إلى جانب تطورات سياسية مرتبطة بإيران والقرم.",
-  "تقنياً، قامت شركة أوراكل بإصلاح ثغرة أمنية بينما استعادت آبل خدمات متجر التطبيقات وiCloud بعد انقطاع.",
-  "أشارت تقارير أخرى إلى دراسات عن استخدام الذكاء الاصطناعي والمسيّرات في العمليات العسكرية وقضايا الأمن السيبراني."
+  "تابعت الصحف المحلية أسعار تداول الدولار مقابل الجنيه واستقرارها في البنوك المصرية، إلى جانب شروط امتحانات المصريين بالخارج.",
+  "تصاعدت التوترات الإقليمية وسط تهديدات وضربات متبادلة، في حين تحدثت روسيا عن تشكيل نظام عالمي متعدد الأقطاب مع الصين.",
+  "أفادت تقارير بمواصلة تفاقم الوضع الإنساني في غزة واستمرار سقوط ضحايا جراء المسيّرات في السودان.",
+  "شهد قطاع التكنولوجيا استعادة خدمات رقمية بعد أعطال ومعالجة ثغرات برمجية أمنية، إلى جانب صدور دراسات حول الذكاء الاصطناعي."
  ],
  "ai": {
-  "at": "2026-11-18T07:03:19.167Z",
+  "at": "2026-11-18T07:23:19.186Z",
   "model": "gemini-3.8-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 9
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.65,
-   "change": 0,
-   "asOf": "2026-11-18T07:12:54.000Z",
+   "value": 53.7,
+   "change": 0.09,
+   "asOf": "2026-11-18T07:19:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5698,
-   "change": -2.3,
-   "asOf": "2026-11-18T07:03:14.000Z",
+   "value": 5704,
+   "change": -2.21,
+   "asOf": "2026-11-18T07:13:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6506,
-   "change": -2.3,
-   "asOf": "2026-11-18T07:03:14.000Z",
+   "value": 6512,
+   "change": -2.21,
+   "asOf": "2026-11-18T07:13:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3775,
+   "value": 3776,
    "change": -2.3,
-   "asOf": "2026-11-18T07:03:14.000Z",
+   "asOf": "2026-11-18T07:13:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0981,
-   "change": -0.16,
-   "asOf": "2026-11-18T07:12:44.000Z",
+   "value": 1.0984,
+   "change": -0.13,
+   "asOf": "2026-11-18T07:22:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.74,
-   "change": -1.5,
-   "asOf": "2026-11-18T07:03:19.000Z",
+   "value": 91.63,
+   "change": -1.62,
+   "asOf": "2026-11-18T07:13:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64703,
-   "change": -0.29,
-   "asOf": "2026-11-18T07:13:14.000Z",
+   "value": 64698,
+   "change": -0.3,
+   "asOf": "2026-11-18T07:23:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,32 +138,41 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني: تقنين التنقيب عن الذهب يحمي العاملين وأسرهم ويحافظ على الوطن",
-     "url": "https://www.elbalad.news/7185049",
+     "title": "الأنبا ميخائيل في ختام نهضة مارجرجس بالتبين: القداسة دعوة للجميع وليست للقديسين وحدهم",
+     "url": "https://www.elbalad.news/7185063",
      "source": "صدى البلد",
-     "time": "2026-11-18T07:11:22.000Z",
-     "seen": "2026-11-18T07:13:18.698Z"
+     "time": "2026-11-18T07:23:04.000Z",
+     "seen": "2026-11-18T07:23:19.186Z"
     },
     {
-     "title": "مصطفى بكري: مبادرة تقنين التنقيب عن الذهب تحقق التوازن بين حقوق الدولة والعاملين",
-     "url": "https://www.elbalad.news/7185045",
+     "title": "قائد الجيش الإيراني يهدد حلفاء أمريكا في المنطقة بالتدمير",
+     "url": "https://www.elbalad.news/7185061",
      "source": "صدى البلد",
-     "time": "2026-11-18T07:09:25.000Z",
-     "seen": "2026-11-18T07:13:18.698Z"
+     "time": "2026-11-18T07:22:39.000Z",
+     "seen": "2026-11-18T07:23:19.186Z",
+     "impact": "قد يؤثر تصاعد التهديدات العسكرية في المنطقة على أسعار الطاقة وتكاليف التجارة وسلاسل الإمداد التي تهم السوق المصري."
     },
     {
-     "title": "فايز أبو حرب: الدولة تتيح للعاملين تقنين أوضاعهم وبيع الذهب بالسعر العالمي",
-     "url": "https://www.elbalad.news/7185047",
+     "title": "بوتين: روسيا والصين تتبعان نهجا بناء لتشكيل نظام عالمي متعدد الأقطاب",
+     "url": "https://www.elbalad.news/7185059",
      "source": "صدى البلد",
-     "time": "2026-11-18T07:09:03.000Z",
-     "seen": "2026-11-18T07:13:18.698Z"
+     "time": "2026-11-18T07:18:48.000Z",
+     "seen": "2026-11-18T07:23:19.186Z"
     },
     {
      "title": "الأوراق المطلوبة لكل صف دراسى للتقدم لامتحان المصريين في الخارج 2027",
      "url": "https://www.youm7.com/story/2026/11/18/الأوراق-المطلوبة-لكل-صف-دراسى-للتقدم-لامتحان-المصريين-في-الخارج/7622972",
      "source": "اليوم السابع",
      "time": "2026-11-18T07:02:00.000Z",
-     "seen": "2026-11-18T07:13:18.698Z"
+     "seen": "2026-11-18T07:13:18.698Z",
+     "impact": "يهم أولياء الأمور والعائلات المصرية بالخارج لمعرفة الإجراءات اللازمة لضمان تقدم أبنائهم للامتحانات دون تأخير."
+    },
+    {
+     "title": "الميرغني... رجل سلام من طراز رفيع",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPbkJPQ0c1bGY1d1pmbGl6VnFrSDVLajNZLXhVZEdmdGJUb1RobWpYemhPUHFOTzhYWWFiQ25sYWVEVHItNVZmSUJIa0piNl9NSWF1VEMwOTJUZFlaZUF5OExHNTlURVFkZzRxYkpJenhqdkZ0cGlTOG10cEh3N0FieHZNVlczQlM3N0xWR3lJRFViYU4xRU1hT2lyOGw2SGh4RFQ1X2ppdzJ3NlVrR0MxN1ZPR2Q3dV9hNzJZX2ZfdVdBSGtTWDJveTlLRTVhT004WU85YjFYYThPMXhDbm1IblBYMFNRbS1vdzhXVjZIMmpCMHItQ21jQ0lPMTRlekxPaThNXzZWZGZTN29Bb3VNLUxMWGJUZWozR08xWFV2TDduRVplZFd6bVlaV1JZREpUOFUxWE9PVk1GbnRfZUxfMXNSYURHaHZ3VmZhZVprV01BalRRcDZaSzgtd3JVNUI4cjBubFlrVGNMdTU2UGxmTmhMd1JSTjlVQmVtSHp1SWhlbUU1WkkyYmFHejVzSzhFZW0zNWxNVWVVMUhKbS1zcFFueFp4bDlBNzhZU0djNmhxTm04czdCRk9JWmRBTGZuM1MxQjNBY0ZfaUcy?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-18T06:45:24.000Z",
+     "seen": "2026-11-18T07:03:19.167Z"
     },
     {
      "title": "التعليم توضح للطلبة المصريين فى الخارج نظام امتحان الثانوى العام والبكالوريا",
@@ -187,13 +196,6 @@
      "source": "Masrawy",
      "time": "2026-11-18T06:00:00.000Z",
      "seen": "2026-11-18T06:13:18.825Z"
-    },
-    {
-     "title": "الميرغني... رجل سلام من طراز رفيع",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPbkJPQ0c1bGY1d1pmbGl6VnFrSDVLajNZLXhVZEdmdGJUb1RobWpYemhPUHFOTzhYWWFiQ25sYWVEVHItNVZmSUJIa0piNl9NSWF1VEMwOTJUZFlaZUF5OExHNTlURVFkZzRxYkpJenhqdkZ0cGlTOG10cEh3N0FieHZNVlczQlM3N0xWR3lJRFViYU4xRU1hT2lyOGw2SGh4RFQ1X2ppdzJ3NlVrR0MxN1ZPR2Q3dV9hNzJZX2ZfdVdBSGtTWDJveTlLRTVhT004WU85YjFYYThPMXhDbm1IblBYMFNRbS1vdzhXVjZIMmpCMHItQ21jQ0lPMTRlekxPaThNXzZWZGZTN29Bb3VNLUxMWGJUZWozR08xWFV2TDduRVplZFd6bVlaV1JZREpUOFUxWE9PVk1GbnRfZUxfMXNSYURHaHZ3VmZhZVprV01BalRRcDZaSzgtd3JVNUI4cjBubFlrVGNMdTU2UGxmTmhMd1JSTjlVQmVtSHp1SWhlbUU1WkkyYmFHejVzSzhFZW0zNWxNVWVVMUhKbS1zcFFueFp4bDlBNzhZU0djNmhxTm04czdCRk9JWmRBTGZuM1MxQjNBY0ZfaUcy?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-18T05:37:30.000Z",
-     "seen": "2026-11-18T07:03:19.167Z"
     },
     {
      "title": "فيديو متداول لـ\"إعلان البنتاغون وجود كائنات فضائية بين البشر\".. هذه حقيقته",
@@ -256,7 +258,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T06:02:28.000Z",
      "seen": "2026-11-18T07:03:19.167Z",
-     "impact": "يمكّن الأفراد والمستثمرين في مصر من متابعة أسعار الصرف الرسمية قبل بدء التداولات اليومية."
+     "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة حركة الصرف وتقدير تكاليف الشراء والبيع والتحوط المالي اليومي."
     },
     {
      "title": "سعر الدولار اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
@@ -264,7 +266,7 @@
      "source": "جريدة الدستور",
      "time": "2026-11-18T05:40:00.000Z",
      "seen": "2026-11-18T06:33:18.353Z",
-     "impact": "يساعد استقرار سعر الدولار في البنوك المصرية المستثمرين والتجار على تقدير تكاليف المعاملات والسيولة بدقة."
+     "impact": "يمنح استقرار سعر صرف العملة الأجنبية وضوحاً لأصحاب الأعمال والمستهلكين عند وضع الميزانيات وتحديد أسعار السلع."
     },
     {
      "title": "الولايات المتحدة تستهدف موقعاً في جزيرة قشم، وهجمات إيرانية على الكويت والبحرين",
@@ -272,7 +274,7 @@
      "source": "BBC عربي",
      "time": "2026-11-18T04:45:14.000Z",
      "seen": "2026-11-17T08:48:53.465Z",
-     "impact": "تلقي التوترات العسكرية في المنطقة بظلالها على معنويات المستثمرين وحركة الأسواق وأسعار الطاقة التي تؤثر على مصر."
+     "impact": "يهتم المستثمر بمتابعة التوترات العسكرية في الخليج لتأثيرها المباشر على تكاليف الشحن البحري والتأمين والتجارة الإقليمية."
     },
     {
      "title": "كيف استهدف جسر القرم، وما سر أهميته بالنسبة إلى بوتين؟",
@@ -355,6 +357,35 @@
    "title": "العالم",
    "items": [
     {
+     "title": "بعد 35 عاما.. ماذا وراء مغادرة عناصر \"المينورسو\"؟",
+     "url": "https://www.skynewsarabia.com/middle-east/1905459-35-%D8%B9%D8%A7%D9%85%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D9%8A%D9%86%D9%88%D8%B1%D8%B3%D9%88",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T07:15:43.000Z",
+     "seen": "2026-11-18T07:23:19.186Z"
+    },
+    {
+     "title": "خيوط ذهبية أم مخاطر خفية؟ ما لا تعرفه عن الزعفران",
+     "url": "https://www.dw.com/ar/خيوط-ذهبية-أم-مخاطر-خفية؟-ما-لا-تعرفه-عن-الزعفران/a-79866948?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T07:12:00.000Z",
+     "seen": "2026-11-18T07:23:19.186Z"
+    },
+    {
+     "title": "كم من الوقت تبقى الفيروسات حية على الأسطح؟",
+     "url": "https://www.dw.com/ar/كم-من-الوقت-تبقى-الفيروسات-حية-على-الأسطح؟/a-79947877?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T07:10:00.000Z",
+     "seen": "2026-11-18T07:23:19.186Z"
+    },
+    {
+     "title": "غزة.. تفاقم الوضع الإنساني وغياب الحل السياسي",
+     "url": "https://www.dw.com/ar/غزة-تفاقم-الوضع-الإنساني-وغياب-الحل-السياسي/a-79965820?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T07:06:00.000Z",
+     "seen": "2026-11-18T07:23:19.186Z",
+     "impact": "يهتم الأفراد والمستثمرون بتطورات الأوضاع الإنسانية والسياسية في غزة لارتباطها الوثيق بالأمن الإقليمي وتوقعات الاستقرار العام."
+    },
+    {
      "title": "هل هناك تهديد إيراني وشيك على واشنطن؟ ماركو روبيو يجيب",
      "url": "https://arabic.cnn.com/middle-east/video/2026/11/18/v205506-marco-rubio-answers-on-an-imminent-iranian-threat-to-washington",
      "source": "CNN بالعربية",
@@ -362,7 +393,7 @@
      "seen": "2026-11-18T06:33:18.353Z"
     },
     {
-     "title": "بوتين يشيد بالشراكة مع بكين ويتوقّع قمة ثلاثية \"مفيدة\" مع ترامب وشي",
+     "title": "خلال لقاء نظيره الصيني... بوتين يشيد بالشراكة مع بكين ويتوقّع قمة ثلاثية \"مفيدة\" مع ترامب وشي",
      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261118-%D8%AE%D9%84%D8%A7%D9%84-%D9%84%D9%82%D8%A7%D8%A1-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%B5%D9%8A%D9%86%D9%8A-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%83%D9%8A%D9%86-%D9%88%D9%8A%D8%AA%D8%B1%D9%82%D8%A8-%D9%82%D9%85%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%85%D9%81%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B4%D9%8A",
      "source": "فرانس 24",
      "time": "2026-11-18T06:17:26.000Z",
@@ -419,39 +450,11 @@
      "seen": "2026-11-18T06:23:19.165Z"
     },
     {
-     "title": "نتائج رسمية: ديمقراطية تنتزع مقعد ألاسكا بمجلس الشيوخ",
-     "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNZWlvZjFiNy0zdWZZZkY3bUFDX3RtRHVFM0h5QnJkckoxNFh1bTRYNkdvSG1EM29zd2NQVFk4VW11RUdMNnVGNXBEVXota2JTNHE4LVZsMHBTeFg5R2sxcnlkT2FqSncxa2NzYUUtemVDeWhoOVZlNjJyQncwMjRIcS12UzhPRGxVMi03VV9SN1dQTVB1NXFPd3AtclRqZjZqMEVYVzdvQ090NWEyVnQyZWlObFd0UjhVclEyQVBORDBPeVZBeW9wdGtpM2hhZEgweU1nT0lvUDVfbnRCZUlyczRfcHcxWEY4ZkJFMnRZQ0lVSDF2T1p5V0I5UmFvZmJnZkJRRGdWck9kNVBEYW1MWHN3UjZIVlJMRVJwc05hWkFZOHhXRDU4Rlpfc1dmclBVbV9obXNEV2hLVkM4Ym5sRm5ST1NETWh2LWZ5V01hQmtVdHAtRUx6ZVBNRkVtbmJwM3VzZHhNN1NrdDViX1pXX2dvRlhFWHFuenNQcVNFbG11S0hBUEhQaW1xQURlN0s1bm5NM3pqREUyYk1kSmxRbjlxRi1OZEJTa0xhTEZXQzlrRDNmVVNfUHpaR3E2MjViUDlfVjJEOEllNjdpSHJ1U2VQT25LU01qWDV2ZkFPWExRNWFtNVp4WWlWUngyWXl5TnBN0gH4A0FVX3lxTE0xRGtBOTFzaWJQaFd1RjB0bXZFMzFrRWJPdVJaYXVGcy1VWnFVb0s3MUhlYW5MS01iMGdLTldvOHJ4QnZHVnJ3eXkzN2oxQkNWU1ZxZzlPNDZYZFRyT0FqQ2RwQnVSVTJhMFg3YS1UN2NjaFVUb0UwNFFuc0R1clJWV1JoOWhVbTdQdmozeklXWlVJMG84S1ZuQ3lIRkdWUGxEWUZhcmRCaGxKSUpfQTllMS01SFQwMmo1RUhjZGRUWFU0WTc3bXBpRDdfVWZweGNrT0hOLWdZZlRIbjNEck9aUVIzWkJ5ODBpYmRlNmw2SDlSN1NiaFgxUlEzaEI3d0ItVFRFWmthdHBxbmNwVWhOYm1JUEMxU0VlZEo5VmozZk5zS1FCTlRkZ0wyVHFzUGhCdlBIU2tfcGE1OFM4U29QckdPZ091ZzZnQ1ZiWkh2bk11Yk1DXzN1a29hY29WN3NVZ1NxZ0ZzTk5SUkFrMkJkdnBGS256SGFzUXRDaWFqcVlCRjc2S0NUNjlaN0h1YmNDWm5UczJEQXprSlBzSzFJdmVQTzIwQ25PZFR6cWhzREdsblRla3ZLOTh6YndPcHp0YUJncEEtNkkwZGtsR2d2VWRXVHljVmQ5akZTdkdWUXYtUzlmVG1STkFER096YlRHOG1BY2JUZQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-18T04:05:00.000Z",
-     "seen": "2026-11-18T06:43:18.838Z"
-    },
-    {
-     "title": "بعد فوزهم في ألاسكا... الديمقراطيون يرفعون عدد مقاعدهم في مجلس الشيوخ إلى 56 ويعززون أغلبيتهم",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B5%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D8%B2%D8%B2%D9%88%D9%86-%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A5%D9%84%D9%89-56-%D9%85%D9%82%D8%B9%D8%AF%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-18T03:53:57.000Z",
-     "seen": "2026-11-18T04:12:31.853Z"
-    },
-    {
-     "title": "انتخاب متان كهانا من حزب يقوده آيزنكوت رئيساً للكنيست الإسرائيلي",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4ZWtibFJLWDJWZ00zS3VzNzVtZ0F6cllFU3pyejJTMmJtc1E1MlNXU2pyYUJrX2d0Y2hCQUJFRkNNcVl1TWpNY1IzWk1NY2oyczRIak1YNmZ5QmZkQlE?oc=5",
-     "source": "BBC",
-     "time": "2026-11-18T03:51:49.000Z",
-     "seen": "2026-11-18T07:03:19.167Z"
-    },
-    {
-     "title": "انتخاب متان كهانا حليف آيزنكوت رئيساً للكنيست الإسرائيلي",
-     "url": "https://www.bbc.com/arabic/articles/cm792d8pqy1ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T03:46:15.000Z",
-     "seen": "2026-11-18T03:52:31.595Z"
-    },
-    {
-     "title": "عاجل| \"أدنوك\" الإماراتية: تعرض إحدى سفننا لهجوم بمضيق هرمز وإصابة 11 شخصا",
-     "url": "https://www.aljazeera.net/news/2026/11/18/%d8%b9%d8%a7%d8%ac%d9%84-%d8%a3%d8%af%d9%86%d9%88%d9%83-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a5%d8%ad%d8%af%d9%89?traffic_source=rss",
+     "title": "\"وان تو ثري\" من هتاف إلى صدمة.. ثلاثية توغو تعيد الجزائر إلى كابوس زيغينشور",
+     "url": "https://www.aljazeera.net/sport/2026/11/18/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-18T03:40:43.000Z",
-     "seen": "2026-11-18T06:53:18.882Z"
+     "time": "2026-11-18T04:06:32.000Z",
+     "seen": "2026-11-18T07:23:19.186Z"
     }
    ]
   },
@@ -465,7 +468,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-18T06:00:32.000Z",
      "seen": "2026-11-18T06:13:18.825Z",
-     "impact": "ينبه مسؤولي تكنولوجيا المعلومات والشركات في مصر لضرورة تحديث برمجياتهم لتفادي اختراق الأنظمة عبر الثغرة المذكورة."
+     "impact": "ينبه أقسام تكنولوجيا المعلومات والشركات المصرية لضرورة تحديث برمجياتهم لحماية بياناتهم وأنظمتهم الرقمية من الاختراق."
     },
     {
      "title": "دراسة: نماذج ذكاء اصطناعي تختار مدنيين أهدافًا في محاكاة عسكرية",
@@ -480,7 +483,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-18T04:53:45.000Z",
      "seen": "2026-11-18T05:13:19.014Z",
-     "impact": "يهم مستخدمي أجهزة آبل والمطورين في مصر للتأكد من عودة تشغيل خدمات التخزين السحابي ومتجر التطبيقات لمتابعة أعمالهم."
+     "impact": "يهم مستخدمي أجهزة آبل ورواد الأعمال المعتمدين على خدماتها السحابية في مصر لضمان استمرار أعمالهم وتعاملاتهم الرقمية."
     },
     {
      "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
@@ -488,7 +491,14 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-18T03:51:56.000Z",
      "seen": "2026-11-18T06:03:18.765Z",
-     "impact": "يهم المتابعين والجهات المعنية في مصر لرصد التطورات الأمنية والإنسانية في الجوار السوداني وتداعياتها المباشرة."
+     "impact": "يهم المتابع في مصر لمراقبة التطورات الأمنية والإنسانية في دولة جوار مباشرة وتداعياتها على الاستقرار الإقليمي."
+    },
+    {
+     "title": "انتخاب متان كهانا حليف آيزنكوت رئيساً للكنيست الإسرائيلي",
+     "url": "https://www.bbc.com/arabic/articles/cm792d8pqy1ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T03:46:15.000Z",
+     "seen": "2026-11-18T03:52:31.595Z"
     },
     {
      "title": "روبيو: حوادث الأمن السيبراني بأميركا غير مرتبطة ببعضها",
@@ -554,24 +564,11 @@
      "time": "2026-11-17T19:01:56.000Z",
      "seen": "2026-11-17T23:41:05.170Z",
      "impact": "يهم المستثمر في مصر لمتابعة مستجدات أمن الطاقة بالمنطقة وما قد ينعكس منها على حركة أسعار النفط."
-    },
-    {
-     "title": "عطل مفاجئ يضرب خدمات آبل عالميًا.. توقف iCloud ومتجر التطبيقات وApple Pay",
-     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQUEwwSXhfd0ZObC02NV94dUxULWNzU2Fuc2I2UVJaNGJCZmpNT29YZl9DWHNRcUhuR091SnNuY2tablhjZ210RjR6MEVNSFp0OFprNEE3R3o2dy1TZ1hpSzJFSXdOTTA2cmo2eGRpSldsRkRvYzl4VXhfVURadFJJVE5nUFpHZnRGN2x3cUdMMGo3WHUzVGJjTkVfdW1ubVZOa3pDTjh6MElHUUp5RWplRzBnWWd0LW9yRkpRVVZOVkRsZFE4TGxGX3M4WHNSa3NkNjctZGFESzZCd25sMVlWdExDTFJfaHpnWS04OXRoMEd1LWZQdzdFZ09KWG9QWWd2dklOUi1Sc3RITDRPbVBjQ043SUF1TDMwSWZGNTJmLU1Oc3l5OVdEZzA0NjNYVW9ZWThPTGRwMHVVWml4TTZQTHNsektMQ3ltcUM3WHZ2OFRycHNPNkZINVJKZVZ2eHpEWmt2c1JXb2dybkdjSm1OVHhfc2M5bkRWVFN6VWxNdkpfYjJUd2VsN2FySEd6QnB6djlwQi14cjRCVnJtUEV2a2FzdkYyb2dfc3dEOVdjckJaWUFjZnI3cHVObERadGhaV0pQTkVkTXFPYWxzU2tGdnI0cFRWSlXSAdIDQVVfeXFMUFJrMWIwSmdvQ2tJRTZWdWZ3MTlKV2tGMnF3RFZXeVFJQ3FfTFhleTVMMHQ0VkJuMGZPRUgzbV9ZcWxLLVRhdE94R0tScXVlNmNsRlk1Snl3N1RVSklsZUtTYzEtUEF2cnlvMDJ5VzU3cU9TWXEzTXdNckFoZnBPVnRMbWFhaGVLZUdhTEFKamJtTFpiZ3Q3dkVfZlR0XzRBY3pPWUpTaEpPQi1BVkFBVDhYeUZBdU9RYW1XcTZIQ2x5QlBSTWVpUVpiUllabFpZUlg0R05TWkxBTkxlc0lPXzJFb19sUDIwVmVrWG54U2dwVl9hZHFmZ3lGRzR1ZjZnU2pDTjAxLVFROWFmWEE1TlhHRFdKREYwNUxneU0wNjZNcXBIWXlFZ0drNDMyNUZzOTVnak9taERvNjk0WkV3UXRraGh5dDlmLV82SHd5NEF2c3hRLV9pUVRCeGZUdmY1dHVQaFZJaWJtcHBoRlpqcF9ZMl9MZTBNbTRWenRNeGxpRDN6UUZkQWoxb211bE9abzNyQUxQMnVEUGlLT3RZRzZmeV9uZ29nUlBkRHh4cEtWUlEzWDRlcEtpQTVta2ZJaHJXZHlkTXZKUDdrWHNQQTc0QQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T18:45:00.000Z",
-     "seen": "2026-11-17T20:31:04.390Z",
-     "impact": "يؤثر على مستخدمي أجهزة آبل في مصر بسبب توقف خدمات الدفع الإلكتروني والسحابة وإنجاز المعاملات."
     }
    ]
   }
  ],
  "failed": [
-  {
-   "section": "world",
-   "feed": "فرانس 24",
-   "error": "HTTP 403"
-  },
   {
    "section": "tech",
    "feed": "عالم التقنية",
