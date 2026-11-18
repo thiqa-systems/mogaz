@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:22:32.193Z",
+ "updated": "2026-11-18T02:32:32.256Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -9,7 +9,9 @@
   "at": "2026-11-18T02:12:32.012Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T02:32:32.256Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5746,
-   "change": -1.49,
-   "asOf": "2026-11-18T02:12:34.000Z",
+   "value": 5740,
+   "change": -1.58,
+   "asOf": "2026-11-18T02:23:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6560,
-   "change": -1.49,
-   "asOf": "2026-11-18T02:12:34.000Z",
+   "value": 6553,
+   "change": -1.58,
+   "asOf": "2026-11-18T02:23:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3806,
-   "change": -1.52,
-   "asOf": "2026-11-18T02:12:34.000Z",
+   "value": 3802,
+   "change": -1.62,
+   "asOf": "2026-11-18T02:23:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0997,
-   "change": -0.01,
-   "asOf": "2026-11-18T02:21:43.000Z",
+   "value": 1.0996,
+   "change": -0.02,
+   "asOf": "2026-11-18T02:32:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.77,
-   "change": -0.4,
-   "asOf": "2026-11-18T02:12:10.000Z",
+   "value": 92.61,
+   "change": -0.57,
+   "asOf": "2026-11-18T02:23:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64356,
-   "change": -0.77,
-   "asOf": "2026-11-18T02:22:30.000Z",
+   "value": 64417,
+   "change": -0.68,
+   "asOf": "2026-11-18T02:33:33.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "كيف يضمن قانون المسنين إقامة مجانية للحالات الأولى بالرعاية؟",
+     "url": "https://www.youm7.com/story/2026/11/18/كيف-يضمن-قانون-المسنين-إقامة-مجانية-للحالات-الأولى-بالرعاية/7620247",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T02:30:00.000Z",
+     "seen": "2026-11-18T02:32:32.256Z"
+    },
+    {
+     "title": "عمرو الحديدي: الكرات العرضية أصبحت كارثة على دفاع منتخب مصر ومشكلة تعاني منها أندية الدوري المصري",
+     "url": "https://www.elbalad.news/7184933",
+     "source": "صدى البلد",
+     "time": "2026-11-18T02:30:00.000Z",
+     "seen": "2026-11-18T02:32:32.256Z"
+    },
+    {
+     "title": "9 بوسترات فردية وبوستر رئيسي.. هكذا يقدم فيلم «كريبتو» شخصياته",
+     "url": "https://www.elbalad.news/7184987",
+     "source": "صدى البلد",
+     "time": "2026-11-18T02:22:52.000Z",
+     "seen": "2026-11-18T02:32:32.256Z"
+    },
+    {
+     "title": "باسم مرسي: تريزيجيه ومرموش عاوزين يجيبوا أجوال استعراضية بدلًا من اللعب ببساطة",
+     "url": "https://www.elbalad.news/7184897",
+     "source": "صدى البلد",
+     "time": "2026-11-18T02:15:00.000Z",
+     "seen": "2026-11-18T02:32:32.256Z"
+    },
+    {
      "title": "مواعيد القطارات على خط «أسوان - القاهرة» والعكس اليوم الأربعاء 18/ 11/ 2026",
      "url": "https://www.youm7.com/story/2026/11/18/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-الأربعاء-18/7621964",
      "source": "اليوم السابع",
@@ -151,35 +181,6 @@
      "time": "2026-11-18T02:00:00.000Z",
      "seen": "2026-11-18T02:02:31.826Z",
      "impact": "يهم أولياء الأمور في مصر لزيادة الانتباه وتوعية أبنائهم بمخاطر الخوارزميات الإلكترونية."
-    },
-    {
-     "title": "قبل الشتاء .. 4 خطوات لغسل البطاطين يدويًا والتخلّص من رائحة «الكمكمة» دون إتلافها",
-     "url": "https://www.elbalad.news/7184975",
-     "source": "صدى البلد",
-     "time": "2026-11-18T02:00:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z"
-    },
-    {
-     "title": "«فاتورتك هتقل النص»| الكهرباء تُفاجئ أصحاب العدادات الكودية بتخفيض سعر الكيلووات",
-     "url": "https://www.elbalad.news/7184948",
-     "source": "صدى البلد",
-     "time": "2026-11-18T02:00:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z",
-     "impact": "يساعد الأفراد الحاملين للعدادات الكودية في مصر على تقليل تكاليف فاتورة الكهرباء الشهرية."
-    },
-    {
-     "title": "«شبانة» عن عقد علي محمود: أحيّي الأهلي وإنبي على البنود",
-     "url": "https://www.elbalad.news/7184931",
-     "source": "صدى البلد",
-     "time": "2026-11-18T02:00:00.000Z",
-     "seen": "2026-11-18T02:02:31.826Z"
-    },
-    {
-     "title": "غرامة تصل لـ500 ألف جنيه.. قانون حيازة الحيوانات يلزم أصحابها بـ4 ضوابط للرعاية",
-     "url": "https://www.youm7.com/story/2026/11/18/غرامة-تصل-لـ500-ألف-جنيه-قانون-حيازة-الحيوانات-يلزم-أصحابها/7620992",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T01:30:00.000Z",
-     "seen": "2026-11-18T01:32:31.505Z"
     },
     {
      "title": "\"الإعلاميين\" تقرر منع لقاء سويدان من الظهور وإحالتها للتحقيق",
@@ -199,7 +200,7 @@
      "title": "مدبولي يشهد افتتاح المرحلة الثانية من مجمع «هاير مصر» ويؤكد: حريصون على دعم المستثمرين الجادين",
      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObHBrbWZvX1BkT1JyaXVoLUxUS0tKdkg1V1g5Y2hyREFtQkh6SGdmOXFjNndYQnpjNWtra2pHZGZkS0s4NDYzQkFsYUhOVm0yMjItUC1tcUVSQnU3blB1VE8xSFg0WGJHcEZ6NjNvX1d2enh0YnZCU1FCa3J0R2M3STZ0TDNiYi1zaXZsVlhtdmFyWnRjSHZFVEhDZlhsR29LaUJROUxFZTcxS3YzZC1IOWNPbW83eW9obWVaOVFZYkdKS1ljY2NaZm5EcVBYeklNX0ZuWjlJSWVacGc0SWNTaFA1OTVmclEwQ1IwMlVYeHJNcC1UdUR6VjdRcmlud1hJbUU5VEVHbDZjbzNVNXI4aUh2cXI3Y2p5VVRqSWxLekNWR3c3TEpnZVUzZ2xWbmJvcmlGU0c2STdOSFEtZ09NclBId2NIQ1huLXpuUGV0cmZDaWNkUVdLOVJVQkJXQWlYU19lbkp0MF90Ni02U2c?oc=5",
      "source": "جريدة المال",
-     "time": "2026-11-17T19:11:18.000Z",
+     "time": "2026-11-17T19:09:49.000Z",
      "seen": "2026-11-17T19:21:05.255Z"
     },
     {
@@ -267,6 +268,13 @@
      "impact": "يهتم به المدخرون في مصر لمعرفة وحساب العائد الشهري المتوقع على مدخراتهم في البنكين."
     },
     {
+     "title": "سعر الدولار على مدار الساعة.. 53.67 جنيه شراء الأخضر فى بنك مصر",
+     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNWkJ1R0xDQWE4Z3RCRFM5MkVxUUdfSmZ1UlpKbHdVVWxLQ3FFUkFWekJjOHp6blVDbHg2SXlhck50RWdxamhQa2Z1MnR1ODNORHYwbHZjM2hEUEJCRzhqQTVBTjhkbS1qNXlpN3ZPcTdxVjU2RUpqMk9zeEpTMnJZMmNqc2hYYjR5MEdobmRvZnZUMGpJZk5FZWtScWprOVpuN1luMkdDdHNwWWloeVhXelJMVS12SzlFNUdITFVuWVNYQW9JTHlPc0JtZGtwc3p6aWpTVWFtVTIwSG9kMHRwdHFsLVh6a3pwdk9MMWpUSndFZ0poUGVsYXc0UU9MbnNMWm83R0lGdFhvcVNtR29GS1QwM1IxLWRKWFc0QzJBNWQ2eVFVbVdpOU5Hci1ZUl9leEpHaFRSNkVMVlBLMTNQQVA4bXE3OUNvSGhxMWxTYnM3Z0hidGZ1Wi1hY21LU2FjX2RFR2F0YU54c1BGMkp0aXIxeFJDUGd3X1JNTlZNcjNrX3ZoYnpZd1U3VXZySW_SAY8DQVVfeXFMTVpCdUdMQ0FhOGd0QkRTOTJFcVFHX0pmdVJaSmx3VVVsS0NxRVJBVnpCYzh6em5VQ2x4Nkl5YXJOdEVncWpoUGtmdTJ0dTgzTkR2MGx2YzNoRFBCQkc4akE1QU44ZG0tajV5aTd2T3E3cVY1NkVKajJPc3hKUzJyWTJjanNoWGI0eTBHaG5kb2Z2VDBqSWZORWVrUnFqazlabjdZbjJHQ3RzcFlpaHlYV3pSTFUtdks5RTVHSExVbllTWEFvSUx5T3NCbWRrcHN6emlqU1VhbVUyMEhvZDB0cHRxbC1Yemt6cHZPTDFqVEp3RWdKaFBlbGF3NFFPTG5zTFpvN0dJRnRYb3FTbUdvRktUMDNSMS1kSlhXNEMyQTVkNnlRVW1XaTlOR3ItWVJfZXhKR2hUUjZFTFZQSzEzUEFQOG1xNzlDb0hocTFsU2JzN2dIYnRmdVotYWNtS1NhY19kRUdhdGFOeHNQRjJKdGlyMXhSQ1Bnd19STU5WTXIza192aGJ6WXdVN1V2cklv?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T00:07:17.000Z",
+     "seen": "2026-11-18T02:32:32.256Z"
+    },
+    {
      "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية المحتلة",
      "url": "https://www.bbc.com/arabic/articles/c6jre84y25d4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -310,13 +318,6 @@
      "seen": "2026-11-17T22:11:04.589Z"
     },
     {
-     "title": "هل يواصل الانخفاض؟.. آخر تطورات أسعار الذهب اليوم الأربعاء 18 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOS0RpY2taMzBJSW0xVGdxSkJ5dEJ5Wkpid3k2YW5lSVBhd0JVb0V1bXk2RkowVmhXSElqYTljU1hNVkY2c3paRnZrRHNBMkJKNTFHUW1IREFsNzhXc0MzaElqRjdTWTBIV3RueE55UXVGVHZzcUZjRGV0dF9mZXYyRzgxSzhPd3Z4TDdWdnRDeWdVVkkzTHNWQmRQSkhuMFc4akh4UmtnMmpCRmpoNDh0SUFBWkJhU1MwRnpJMXhSVjBrOUI5RUNLX0J1YWxLdUhDeEw0TVpBWWlQS3dGcEJwOWVHWmNhTnZYb3VybWN5SF9MTEZXdmlqb2pLdmJmaEpGWk1jVjJ5Yy1MRUE1QmQwOVhKZXZ1ZG9iU2hlNnlDMFJXcEUzV09DdVZ6MG5fRHQyUWJxeklaRUJ4Ykx1cWZQdndWbTR6V2FVSEhVRTZwaXc3UzY4dlcya0RmNF85bWxqbjB0WWVjOEs4enNBc2I1cGI5M1VjWjVURW9keDJwaFQ1Sk5lVkprQVZaY1pDVlRIQW95S1Nfb3VxQnlQM0tNRFE1Z2MwaFU0YnBSOVFXNFU5MkpUdzJ6aFRvWWFvb1FsSmVhMXZBV0xvR0Jqc21hcm5rNmxRX1oyaWZ0X1N0TFZNZ9IB3ANBVV95cUxNRXc0WTZEZEJIMGF2V1c3NlpWN2JPV3VZazB3Rl9FZ05NX3BZQUtmUm1Rd2Z6UXhOaXI0OGV4N1ZvZkJ1d3FfRVd1eWhGSGRRTktPUkRyazFUV0RQelV2X1MxdTJsaHREQ1JFYUtaS2RoOUl3RUJDSnlRUS13ZEx2cV9XelpPRTNLV2Y2RHFDTjhoSzgwUWdkMG50S0FCekVObmwxLXhjUjFEN3lpWkV1RWh4Tnozb1MzNDFwS3UzMGIxR1dPNGVHVHd1cjBxQTR3b2x3Nl9iNnRhRk85YjRxZXFiWnM5R3d4dGJhNGF6cDVXZlZXbFp2cEo2TEFkanRWZE5tdW5hbkwtQWRVdkRVRUpycUEyTk1FWDlzRUhiZ1JqY195SmFYUFJfSTJ0T1M3anNqRHVFX3FSWjg0T3VjbXNaVHBUTzV3cnFPalRMcTN3RE45RTg0NmNSWTVuM0lCR0xhZVRGNWx4VDNzQW8wVE1xLWg0RllaTDlfS3A5UW9NNGlvc2Yxd25ISEtqSnVnU09lQ042TWExd1doM1RXRDlIa3RfUFNiUGhIR2c2YzVVMXRfWEdPcDlRM1p0OHZSTWJYYm5BQnVwd3QwYTE2VW5FV2VDQ2ZBcUlCeA?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T22:00:00.000Z",
-     "seen": "2026-11-18T00:52:32.033Z"
-    },
-    {
      "title": "سعر صرف الدولار في البنك المركزي المصري (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TcEZmSHdOVGtTMi04SlZYbEZzNmNnbXNkUVp0cEVLa3FJbG1xZjBQN0NkUXJkMWNaZzJRbEJ5NDlGUm13U1Zn?oc=5",
      "source": "فيتو",
@@ -352,6 +353,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "5 ملايين دولار مقابل معلومات عن ليلى شويكاني.. ما عليك معرفته عن مكافأة تعرضها الخارجية الأمريكية",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/5-million-dollars-reward-layla-shweikani-syria-us-state-department",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T02:17:12.000Z",
+     "seen": "2026-11-18T02:32:32.256Z"
+    },
+    {
      "title": "مصر تتحرك لتأمين احتياجات المزارعين من الأسمدة وسط ضغوط الغاز",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/egypt-moves-to-secure-fertilizer-supplies-for-farmers-amid-gas-related-pressures",
      "source": "CNN بالعربية",
@@ -372,13 +380,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-18T01:40:01.000Z",
      "seen": "2026-11-18T01:52:31.363Z"
-    },
-    {
-     "title": "\"التحالف\" يعلن تنفيذ \"عملية نوعية\" ضد الحوثيين ويوضح ما استهدفه",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/saudi-coalition-destroyed-tunnels-storing-ballistic-missiles",
-     "source": "CNN بالعربية",
-     "time": "2026-11-18T01:15:11.000Z",
-     "seen": "2026-11-18T01:22:32.094Z"
     },
     {
      "title": "إغلاق للمنطقة الخضراء ببغداد.. واختبار منظومة أميركية بأربيل",
