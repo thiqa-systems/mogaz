@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:14:52.984Z",
+ "updated": "2026-11-18T17:24:53.159Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T17:14:52.984Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T17:24:53.159Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5662,
-   "change": -2.92,
-   "asOf": "2026-11-18T17:04:54.000Z",
+   "value": 5658,
+   "change": -3,
+   "asOf": "2026-11-18T17:14:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6465,
-   "change": -2.92,
-   "asOf": "2026-11-18T17:04:54.000Z",
+   "value": 6459,
+   "change": -3,
+   "asOf": "2026-11-18T17:14:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3748,
-   "change": -3,
-   "asOf": "2026-11-18T17:04:54.000Z",
+   "value": 3745,
+   "change": -3.08,
+   "asOf": "2026-11-18T17:14:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0976,
    "change": -0.2,
-   "asOf": "2026-11-18T17:14:48.000Z",
+   "asOf": "2026-11-18T17:24:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.73,
-   "change": -5.81,
-   "asOf": "2026-11-18T17:04:54.000Z",
+   "value": 87.98,
+   "change": -5.54,
+   "asOf": "2026-11-18T17:14:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7316,
-   "change": -0.33,
-   "asOf": "2026-11-18T17:14:55.000Z",
+   "value": 7342,
+   "change": 0.02,
+   "asOf": "2026-11-18T17:24:57.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62620,
-   "change": -3.5,
-   "asOf": "2026-11-18T17:14:50.000Z",
+   "value": 63132,
+   "change": -2.72,
+   "asOf": "2026-11-18T17:24:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,48 @@
    "title": "مصر",
    "items": [
     {
+     "title": "كأس مصر | الاتحاد السكندري والجونة يلجآن للوقت الإضافي بعد التعادل السلبي",
+     "url": "https://www.elbalad.news/7185840",
+     "source": "صدى البلد",
+     "time": "2026-11-18T17:23:18.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
+     "title": "قيادات حزب الجبهة الوطنية تنعى نجل عبد الوهاب عبد الرازق",
+     "url": "https://www.elbalad.news/7185844",
+     "source": "صدى البلد",
+     "time": "2026-11-18T17:22:44.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
+     "title": "خسر 1440 جنيها.. انخفاض سعر الجنيه الذهب اليوم",
+     "url": "https://www.elbalad.news/7185842",
+     "source": "صدى البلد",
+     "time": "2026-11-18T17:21:43.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
+     "title": "سيناتور ديمقراطية لوزير الخارجية: نقدر دور مصر فى دعم السلام بالشرق الأوسط",
+     "url": "https://www.youm7.com/story/2026/11/18/سيناتور-ديمقراطية-لوزير-الخارجية-نقدر-دور-مصر-فى-دعم-السلام/7623964",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T17:21:00.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
+     "title": "وزير الطيران المدني يلتقى وفد من الهند لبحث تطوير أطر التعاون",
+     "url": "https://www.youm7.com/story/2026/11/18/وزير-الطيران-المدني-يلتقى-وفد-من-الهند-لبحث-تطوير-أطر/7623947",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T17:20:00.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
+     "title": "«مدبولي»: مشروع «نيفيرا» يجعل غرب القاهرة البوابة الرئيسية للسياحة",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNNWxCUThpWThLYU5JanNOdG15aWJFM085V21GQkN2NlloZzlER2xjU1NkVmx1YV9EQ1A4RW1lRzFiVnJXSGMwYndiWlM4UDhTWWVNeS1UODBqMXRIclN4SjdoU0IyNUhUUTByYWZ6a0I4MzREOC1KeXA5bVdhYWxzZzYzV09uZ2tXWVBlaTlVaU91ZFZpTEk4OGV2YVIyOEx2UDJkeHJUUFA4ZHZub0NvaEVSbU51WnJMSmZFcmVBWXB5U2ctVmtwWWJPbEFQUXRuVVVvRnNsVHBrTDVSV05rTXB6LVNkRFRqb25NeVJaQy1tNGlkRER3T21HRlBMMTBGRWttOTVEUDE0czcyaXVsYVRLbDNZYjFlTk5zYldjOVJTWnNDM3lWNWd2eERvc25qSmV0REVveFN4MEhITzZfTEpjQ1lrTjNOTlFTS0pxZ051dUNxQUdUeVpmeVR0YnpsTmNHNXhiQlVZQQ?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-18T17:18:51.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
      "title": "الأوقاف فى اليوم العالمى لدورات المياه: الصرف الصحى حق إنسانى وضرورة لحماية الصحة",
      "url": "https://www.youm7.com/story/2026/11/18/الأوقاف-فى-اليوم-العالمى-لدورات-المياه-الصرف-الصحى-حق-إنسانى/7623233",
      "source": "اليوم السابع",
@@ -146,39 +188,25 @@
      "seen": "2026-11-18T17:14:52.984Z"
     },
     {
-     "title": "تركي آل الشيخ يحسم الجدل حول خلافه مع عمرو دياب",
-     "url": "https://www.elbalad.news/7185827",
-     "source": "صدى البلد",
-     "time": "2026-11-18T17:06:30.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
+     "title": "مصطفى مدبولي: زيادة الطاقة الفندقية على رأس أولويات تطوير المنطقة المحيطة بالأهرامات",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81R0I2bFlfV1BLQUd2SW11dXY1ZVVHMmRITl9aQlI3aHA3cmpGZC1pY0ZIWWk2ZDR1d1NlZ3FiSFVlNmwzTG81ZFpyTXpfbGk0SVl0Q1Q3VlE4ZDJx?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-18T17:04:06.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
     },
     {
-     "title": "مدبولي: الدولة المصرية تولي اهتماما لتعظيم الاستفادة من المقومات السياحية والاستثمارية",
-     "url": "https://www.elbalad.news/7185817",
-     "source": "صدى البلد",
-     "time": "2026-11-18T17:06:05.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
+     "title": "مدبولي: «نيفيرا مصر» أحد أهم المشروعات السياحية الواعدة لدعم التنمية بغرب القاهرة",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YNjVnTFRGcm9ySmdqQXpfWlREdEFibk5yU1BjX3hOYVJxTk1yUWYxWkVMSUR6b0UtMUxqV09VQkMtdEZCUE5LRWZ5ME5xbnhrN1JjVEoxZF9FX0lE?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-18T17:04:06.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
     },
     {
-     "title": "رئيس مياه الجيزة يتفقد محطتى صرف صحى أرض اللواء والكونيسة للوقوف على كفاءة التشغيل",
-     "url": "https://www.youm7.com/story/2026/11/18/رئيس-مياه-الجيزة-يتفقد-محطتى-صرف-صحى-أرض-اللواء-والكونيسة/7623949",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T17:05:00.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
-    },
-    {
-     "title": "وزير التعليم يشاهد إبداع طلاب الجيزة فى عرض «صخب الذهب».. صور",
-     "url": "https://www.youm7.com/story/2026/11/18/وزير-التعليم-يشاهد-إبداع-طلاب-الجيزة-فى-عرض-«صخب-الذهب»/7623934",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T17:02:00.000Z",
-     "seen": "2026-11-18T17:04:52.670Z"
-    },
-    {
-     "title": "حزب الله يدعو الإدارة الأمريكية لتحرك عاجل لوقف عدوان إسرائيل على غزة",
-     "url": "https://www.elbalad.news/7185822",
-     "source": "صدى البلد",
-     "time": "2026-11-18T17:01:16.000Z",
-     "seen": "2026-11-18T17:04:52.670Z"
+     "title": "مصطفى مدبولي: المشروعات القومية في غرب القاهرة هيأت الطريق لإطلاق مشروع «نيفيرا»",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuNTROdHIwWDBWdWdqRFpDV2d0d2o3MG5CTHBlN01NMUJMRUM5UFByWnZ2VGFXUThTUUx1RW4ydEl1OGp5a1dycVh4U0VLcGtXY2I1c0ZiUWRuTWNq?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-18T17:04:06.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
     },
     {
      "title": "مدبولي: إقليم غرب القاهرة من الأقاليم الواعدة كبوابة للتنمية الاقتصادية",
@@ -207,34 +235,6 @@
      "source": "جريدة المال",
      "time": "2026-11-18T16:11:36.000Z",
      "seen": "2026-11-18T16:34:52.605Z"
-    },
-    {
-     "title": "مدبولي: «نيفيرا مصر» مشروع استراتيجي لتنمية غرب القاهرة وتعزيز مكانتها السياحية والاستثمارية",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LM3V1UTFKNGwxcmNpTDctdEphVEpYUkZJOF9lcnpkZjBNeW8tb0JScWg0cTFKMjdiVW9BZEZhSFZLNDNjWXN3dzF5Vms5Z2YtZEdzeTFQeldrZG1qVkZz?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-18T16:10:00.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
-    },
-    {
-     "title": "مدبولي: «نيڤيرا» ثمرة مشروعات الدولة القومية في غرب القاهرة",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1Y0hfeFhSMDJDMFdPMlR5SWk5M1VtbjV1dHZtcVdLVDNMYlgzeTRkR2EzemtVRWo2QmFoUkh4Tm9URkZT?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-18T16:09:05.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
-    },
-    {
-     "title": "حدث في 8 ساعات|قرارات جديدة للحكومة وقطع المياه عن مناطق بالجيزة",
-     "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNNlA2ZmlJdTM4eENEMk0xRUhvczR6a3hrV0d3UVQ2c3hhb3dlcFBYNDZSek9zUndLUmRZMXBDZHZPbmhWUTdVMmVKcVJtT2VUNk5YVEtJdl9jLXgxZXdJbzdvWmN4Mk1icTRKLVBKdkNFN3d0Y3ZPVEt3dURrRDFVVmhwekhvNExZNGxSVzBDbzhYV0llTHY1VHZ6WEprNm1QWDJnM3lOWGZGaFpMZ2I4QXJJRG5qNlJuN2szV3RrOWZ3UFZ6TzlmdWFzZm9sN1ZxOXA5dXpGWUh6bWlLQkJEUFZiWG50N2ZaX2ZuM3JjbVVQcjZnYjJ4eGcyN0lKVExkWUJfcGl5ZzBSbFJaaVAxUkNyaGVHWl9HT19zdW9wYldmYm5IT1M5WDhiUkV6T2dpOXZ2NUtiVGp2UHdpR3h6bjlwamFqNWVVd2tZa2JkVmRsOFRpZ1hTVGU1Vl81SmRpcFJDT21MeDRGRGVDS2pRa2F6eW1MamtpOTU5SXk3WnROSlk3dmF5RlN2c0hpcFRwV2tLc2NZdG9YdHR5a1N5ek4yUFNhNVJsZWlyMjJRZTg3N1RibUl3eTJaSDNRYTVWUndBUUJHT3QzSGZtYWlVb28yUzN1Um5sVkVYQ2tYVkVkQVlBMGNCUmJ4bm5xcXFvaHFweTVtYmctWFJmT0J3ZHVtb3YtaDlfRk9TY0dRVEQwdTlydk5CY00tWFMtb2VrNzlaeXR30gGrBEFVX3lxTE9DaFVoSXk4UklQampLZVdNRkJYWXJtY1NZR0o1aTFPdzR0RXQxVTFScnBqaXBpc0taQVhzNktZNWZRUDRaYmFnRU1rOXQzQkhIbExaTVZTUWZxeS1SV1V6N3Q1RG5aOC1RaThIMWZPX1JNbXc5OHcxS2RDR3JMNTN6blNHTXNNWk9BRmZyejBWMThLU3kyMXF2TzU3alp2UG1CcUpqTUVMSDZidGZoLXVNUWpmOTR1ZU1qR19VTVpLczhUTWNjRmNFYTBUYkxUNkJDZjkxYWd0UGkxa3F3VDA3VEl4QVhUUmEyN09oSk4yUDhVYWNpSk81azBGZjFZbllrMVlIa1B2bFhaTHJJcWRUdFFRelVWNmRCTk91SUtpMks2S2VCbDh0WkZ0b19GRTZINUFrdkluT01qSDdoMmc2N0s5dlhKUlRSd3VBMks0T0hmanZOb011Wnp1NnF1ZF9hX3lyQk1yS3gyYlE0QWg0enJxeldoTEpJc0J4eGkwVXl0c0ZOVmJyQVBCYlQwS1R0WXFPcndoUjRTMC13VGJ5VWx1VS02bllwMUJrZWpaTFVoTXlyYm9aTV9iOHBtY3B2WTdxYnIzRnVjcmdURzUxbWp2YkxpNHp3SXY0YUl2SjROWTRrRERLQkFIZTdhOGxKeksyRjBZVG5URXdULVJVSlpZWE9NbjNFaUZPY2FRYmdsaWtjSk5yQ3JwbEJrZ1dTQ285TnJtZ0F0WQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T15:53:25.000Z",
-     "seen": "2026-11-18T16:03:34.207Z"
-    },
-    {
-     "title": "المؤبد للمتهم بقتل الفنان سعيد مختار في مشاجرة بأكتوبر",
-     "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNVUpEYnFvU2VMQ3ltYVFFVkN2QTlvSjBmSE5SMUluc1RqZjY5cVNWdHhVbkhiemN4c0J5bW13OVk0VHIxRVhBSUpoZVk4bUh4N0ZadUt3OG1TR2k5VThoRkVVX3h3Y1F3UFc4Um9fajBhN0tlaURzaGxUQVZielhZMGs5bW1WQzU4am5LOFB3S2ttTF9PbS1rZ3dQcEhZLUw2bllmMjJzVXlvUXl2UVY5ZnJaZVdac3JOMVRHY3JUUG9iUVRMbWJwSnh2T0VxY2s5NWxyWmp3cnkzdlVQSjlHeUhDR1liWXRNY0p0SzVnemVmOHZXTXBZS1J0YVJGMWNIVjhWbzZxWkUzcFhzYzQ4bUZxblpEeTFTYldTaC0zMDVXQlJsdG0tSV9vY1N4UEoyNVVFcExFX2hBOWlSWmtfMzdiaTFkZWFvUGhuR19kcnZndkQ0VV9BTE8wSkRQRWlBUnY3NkdfQTRsbHpZRFJMX0pSRUwweWhkdFZDYzJ1X21SY2V3Uno1cFFKWGsxNUlidmhCV0dpVXJZbjhCeWxrSHlGa3AyMXFkdVFydllKVnFfS0MxR3BzM3NGSTJqX3lhMW5wUXY3TVdyNzFMSW1zdzZWY3QwbjhGMVIwQk5ITGtGcVY1YV9PQ3hpa3pueXBF0gH2A0FVX3lxTE9YcFdxSGt2dFhSQ2gxR2dhbFdYT3BKZkNMMzdjUWhyWkhIZ3VWelNhNk1sc0Q5NlplYjJmUXZwbE5xbktyYzVueTc2WDNwbFdzdzdKOWhjU3dqaVItaTk1OFVsV0E2RDBSR1RzSWhfdGlvVm4wUlhvaUIxQlZzaXFhSU5EZjdjMHJQeGRvMFVVOHQ1Y0dzS0ZuSnRYYnE4VFZKemhqbm5OY2pFZUN1SE13UXRSTEhQbkxsRzJhcWRVa0xKUy1yMG1oMUxKQnJJNzNtVFJhOG5fZmRSOVBKMnBRZDMxSDB6UGV2WXNiTG1XN2NFMjVzQUNOUUhRYlJVZDlPQTdTZ2M0b29RUkoteUdORkk0X2RncFB2RHk2c0N0NHFTemI3a20zeWo4bm9IMExEeFNjQ1VaelVzenR5RWx6eDJwWXcyWmt4TFhTSGZ0WjN5bUZBQzBnNjgtQzZUQ19PNmlrRlpKbEl0aFhnTXlJOHowMFpUU3E3ZzhvOXZzVFA5am1PTjVJeW5SYm16M3hvVUx0N09qY3FoMGV3aHJINEJUVlBUU0pia1NxUzBFMHhiSlIzQUVkU1NrQnkyN1hicDdkSUhZd2dkRFpHcmUtS1l0U3R1eHM4ZWhiTF9ZaFRmSGE4Z0g0MURxcFdmR0ZJSlBDbWc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T14:57:48.000Z",
-     "seen": "2026-11-18T17:04:52.670Z"
     }
    ]
   },
@@ -389,6 +389,13 @@
      "seen": "2026-11-18T16:54:52.554Z"
     },
     {
+     "title": "الديمقراطيون ينتزعون مقعد ألاسكا في مجلس الشيوخ",
+     "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOa2N6MEhhdkJBeE5vTXJKWGZ2YWplaEpZRXFSSXk4X2c4YWxpQU5uYWZLTVg5V29FeXBqZDdLZzQ1RFJIVjJETnpJSTRja25MUllQLXU4azZYMDBnM3dNYW1heVBRVmV0NEpxc3BMYzlmbzVaY3dXcmtwcmtlRXo1dTF5dWszbmZBZGtnYVhBMGFGRUNxbW9Hc3NkdjhmclpNOTM1clAwaU9hYjdTcmNwcGFYVERLbHlQT1AzRlVtY2JkRUpvc1BsSUhlNjRycXFYbDVubmdxUzNmWXVQSkFfZHVUVUsxejVGT0pmd0F4ZVNKZGpwSWNlR1NrNXVJRjBWNVhlTFRidWZEUmh2eVR6eUFjTGN2RGMwd2F4ajFXRzBYQUVKVk9GanNVdTdCOE1DQ1dWMTJ0aVNiZEhTM2JuZ2ktUWRmTHRIX2xzU2dEdVFPajIxeTRsUVVpZ1ZhY2VQT2dmeU50OW9yTzFSM1liS0g5ZlhrWkp3R2h2dkw3ejltNVJYYWFIMm9mN3pxRTJBb1BBdzlmWW9VNTJXaHJhYVdaS3pPY1B0X3o2aE5qY1M1ZnhiLUV2VVptUDhpYkVvQ2NXaEQtUDZwSC1RdjB0MlhLbFc5ZmdNZS1USE5nRmJVQ1p4Q01yTVVWc0hkQk1MQUgzd01Zd0Z5emQ3NWdEQnh2Q3RfdlJaY1o1akpybWFVY0JWUHF3UElSblQwdEUtdnZGdVQ0MFh1WEFOU2JINXRhTkMtUkY3eHhJMlpJeUk3eEpYbWRuRg?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-18T16:39:05.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
+    {
      "title": "السعودية تستعد لحملة ضد الحوثيين قد تمتد ستة أشهر وتحقيق مكاسب على الأرض قبل بدء أي مفاوضات",
      "url": "https://www.dw.com/ar/السعودية-تستعد-لحملة-ضد-الحوثيين-قد-تمتد-ستة-أشهر-وتحقيق-مكاسب-على-الأرض-قبل-بدء-أي-مفاوضات/a-79983805?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -436,13 +443,6 @@
      "source": "BBC",
      "time": "2026-11-18T14:11:35.000Z",
      "seen": "2026-11-18T10:43:20.154Z"
-    },
-    {
-     "title": "ترامب يقود \"ائتلاف متعدد الأطراف لمواجهة بكين\"- مقال في الغارديان",
-     "url": "https://www.bbc.com/arabic/articles/c9ly456r7xd3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T14:06:28.000Z",
-     "seen": "2026-11-18T14:13:33.931Z"
     }
    ]
   },
@@ -450,6 +450,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "شاومي تجهز هواتف Xiaomi 18 وREDMI Note 18 وTurbo 6 للإطلاق مطلع 2027",
+     "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%ac%d9%87%d8%b2-%d9%87%d9%88%d8%a7%d8%aa%d9%81-xiaomi-18-%d9%88redmi-note-18-%d9%88turbo-6-%d9%84%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b7%d9%84%d8%b9-2/",
+     "source": "عالم التقنية",
+     "time": "2026-11-18T17:18:03.000Z",
+     "seen": "2026-11-18T17:24:53.159Z"
+    },
     {
      "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
@@ -480,13 +487,6 @@
      "seen": "2026-11-18T15:53:33.693Z"
     },
     {
-     "title": "سامسونج تطلق ميزة قفل التطبيقات رسميًا مع One UI 9.5",
-     "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d9%8a%d8%b2%d8%a9-%d9%82%d9%81%d9%84-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b/",
-     "source": "عالم التقنية",
-     "time": "2026-11-18T15:46:02.000Z",
-     "seen": "2026-11-18T15:53:33.693Z"
-    },
-    {
      "title": "اختراع صيني يحدث ثورة في علاج الصلع",
      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPa3BOR252NXRtUVctaG5sNTBkaWhIdW9EVVEzbGxiR002NkthczZQemFub2lYNlZQVER6TEppQ3BjYmpBR0pSeER2LTRUOHNGUVdPMEhYdmFzaTkxYndMd2ViOXlaWVpUczBmMG1aQm56MFI2V3NjNWQyVWdKWHZReGJLWHcyYm94ZGRXQk5HM0Z2bEpXWEhSbVJHdVZaNkRUazlXM1ZxTjB1a0pNb3FhQVNNUFZ2Xy1nU3lUN1dLWHluSGlnRVVZRE1IVmFFbWpQcEtwX3Bncm9mYmlkazlfQ0Y3OWlkZjdyRGdGd3Q4RGVWX3FlbGhwWm5wT0NhNmJxTmFXWmxUN2pfWFV1S1I0Tmg2MGxPdm90V1FFWkJ4OXlsTjF5N1BUcHhTRGRjc2tmd0Q3MjFyS25OQjEx0gHCAkFVX3lxTE5IMUhmUnlXeGEyRS1naFR6WFpqWUNvQXd3NGJKVFJTYTg0cndwTDc3c0xvTzJ3V3N4Zy1meXMwdTJrTTBhaTZaRl93c2s0R2RobkhVcVNJX3VxdXBqZDZEVGFGZkhfeTdEYzg3WXVoeTdObGM4M2lPanRlY1NTMFVGMUE0cWJ3Z3Z5aWk1UzU4d3A0Z09sUlFiMEl5dGNzc09MQjRjMUcwY1pDZ09jR0VVN25JaUxFNnlnU0lCdG9fY0pYYXpVSHdCckNzUFhJd0pGVmRqSDRCZG9STHpSSnU1N3lSYmdISmMzblM2d2VmVFpJZEdSYzd1S2JfMWJpbGlKWW1MeU92QVBscUFSVTlGZnJnaHBDVjA1WmJJMG9BS2UtcHdDRXRHeHNEdEtGTV9UZ0lCRnFYVElKSUExYjQ3d3c?oc=5",
      "source": "سكاي نيوز عربية",
@@ -506,6 +506,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T14:14:00.000Z",
      "seen": "2026-11-18T16:13:33.298Z"
+    },
+    {
+     "title": "ترامب يقود \"ائتلاف متعدد الأطراف لمواجهة بكين\"- مقال في الغارديان",
+     "url": "https://www.bbc.com/arabic/articles/c9ly456r7xd3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T14:06:28.000Z",
+     "seen": "2026-11-18T14:13:33.931Z"
     },
     {
      "title": "\"هواوي\" تكشف رسمياً عن تصميم هاتف Osta O1 Pro وألوانه قبل إطلاقه في 20 نوفمبر",
@@ -542,14 +549,6 @@
      "time": "2026-11-18T11:52:07.000Z",
      "seen": "2026-11-18T11:53:33.403Z",
      "impact": "يوفر للمستهلكين والمستثمرين في سوق السيارات بالمنطقة خياراً جديداً مع فتح حجز طراز نيسان الحديث."
-    },
-    {
-     "title": "الكويت والبحرين تعلنان التصدي لهجمات إيرانية جديدة",
-     "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T11:06:57.000Z",
-     "seen": "2026-11-17T08:48:53.465Z",
-     "impact": "يهم المستثمرين في مصر لمتابعة المخاطر الجيوسياسية الإقليمية وتأثيرها المحتمل على الأسواق."
     }
    ]
   }
