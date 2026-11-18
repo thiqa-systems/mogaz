@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:52:31.324Z",
+ "updated": "2026-11-18T05:02:31.809Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T04:52:31.324Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-18T05:02:31.809Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.66,
-   "change": 0.02,
-   "asOf": "2026-11-18T04:27:16.000Z",
+   "value": 53.67,
+   "change": 0.03,
+   "asOf": "2026-11-18T04:55:03.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5714,
-   "change": -2.03,
-   "asOf": "2026-11-18T04:42:24.000Z",
+   "value": 5718,
+   "change": -1.67,
+   "asOf": "2026-11-18T04:54:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6523,
-   "change": -2.03,
-   "asOf": "2026-11-18T04:42:24.000Z",
+   "value": 6529,
+   "change": -1.67,
+   "asOf": "2026-11-18T04:54:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3785,
-   "change": -2.05,
-   "asOf": "2026-11-18T04:42:24.000Z",
+   "value": 3787,
+   "change": -1.7,
+   "asOf": "2026-11-18T04:54:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.099,
-   "change": -0.07,
-   "asOf": "2026-11-18T04:51:46.000Z",
+   "value": 1.0993,
+   "change": -0.05,
+   "asOf": "2026-11-18T05:03:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.7,
-   "change": -0.47,
-   "asOf": "2026-11-18T04:32:36.000Z",
+   "value": 92.49,
+   "change": 0.05,
+   "asOf": "2026-11-18T04:53:37.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64369,
-   "change": -0.75,
-   "asOf": "2026-11-18T04:52:34.000Z",
+   "value": 64332,
+   "change": -0.81,
+   "asOf": "2026-11-18T05:04:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نادر العشري: محمد صلاح في حتة تانية .. وأتمنى عودة مصطفى محمد لمنتخب مصر",
-     "url": "https://www.elbalad.news/7184940",
+     "title": "ياسر ريان: التعادل أمام مالاوي نتيجة غير متوقعة.. وأرضية الملعب السبب",
+     "url": "https://www.elbalad.news/7184941",
      "source": "صدى البلد",
-     "time": "2026-11-18T04:30:00.000Z",
-     "seen": "2026-11-18T04:32:31.867Z"
+     "time": "2026-11-18T05:02:03.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
     },
     {
-     "title": "الديمقراطية ماري بيلتولا تحسم سباق ألاسكا وتؤمن أغلبية 56-44 للديمقراطيين في مجلس الشيوخ",
-     "url": "https://www.elbalad.news/7184993",
+     "title": "الجرام يسجل 5053 جنيهًا للشراء .. هبوط قوي في أسعار الذهب الآن",
+     "url": "https://www.elbalad.news/7184930",
      "source": "صدى البلد",
-     "time": "2026-11-18T04:25:43.000Z",
-     "seen": "2026-11-18T04:32:31.867Z"
+     "time": "2026-11-18T05:00:51.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
     },
     {
-     "title": "روبيو يهاجم CNN: \"كاذبون ومجرمون\".. ولا تهديد إيراني وشيك على واشنطن",
-     "url": "https://www.elbalad.news/7184992",
+     "title": "5 آليات لوزارة العمل لضمان صرف الـ8500 جنيه بالقطاع الخاص.. تفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/18/5-آليات-لوزارة-العمل-لضمان-صرف-الـ8500-جنيه-بالقطاع-الخاص/7621649",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T05:00:00.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
+    },
+    {
+     "title": "المرشحون لرئاسة جامعة المنيا يسلمون اليوم أوراق التقدم للأعلى للجامعات",
+     "url": "https://www.youm7.com/story/2026/11/18/المرشحون-لرئاسة-جامعة-المنيا-يسلمون-اليوم-أوراق-التقدم-للأعلى-للجامعات/7621943",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T05:00:00.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
+    },
+    {
+     "title": "طريقة عمل أصابع جلاش بالجبنة والزيتون في الفرن .. وصفة سهلة ومقرمشة",
+     "url": "https://www.elbalad.news/7184967",
      "source": "صدى البلد",
-     "time": "2026-11-18T04:21:48.000Z",
-     "seen": "2026-11-18T04:22:32.061Z"
+     "time": "2026-11-18T05:00:00.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
     },
     {
      "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T04:00:00.000Z",
      "seen": "2026-11-18T04:02:31.970Z"
-    },
-    {
-     "title": "تربية النحل.. مشروع زراعى يفتح أبواب الاستثمار أمام الشباب",
-     "url": "https://www.youm7.com/story/2026/11/18/تربية-النحل-مشروع-زراعى-يفتح-أبواب-الاستثمار-أمام-الشباب/7621844",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T04:00:00.000Z",
-     "seen": "2026-11-18T04:02:31.970Z"
-    },
-    {
-     "title": "15 % زيادة سنوية.. احسب إيجار شقتك ومحلك بعد تطبيق قانون الإيجار القديم",
-     "url": "https://www.youm7.com/story/2026/11/18/15-زيادة-سنوية-احسب-إيجار-شقتك-ومحلك-بعد-تطبيق-قانون/7620361",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T03:30:00.000Z",
-     "seen": "2026-11-18T03:32:32.215Z"
     },
     {
      "title": "فيديو متداول لـ\"إعلان البنتاغون وجود كائنات فضائية بين البشر\".. هذه حقيقته",
@@ -243,7 +243,15 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "واشنطن تستهدف موقعاً في جزيرة قشم، وهجمات إيرانية على الكويت والبحرين",
+     "title": "سعر الدولار اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWQmNydkNEZllhVDZCNFdIa3VFRURpQ2FSUThvZ0JnM2x0S2ZKaklXdDVXTGdqZzRZTV9LX05rVUhEUUpE?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-18T04:53:25.000Z",
+     "seen": "2026-11-17T23:01:04.412Z",
+     "impact": "يخدم الأفراد والمستثمرين في مصر بمتابعة استقرار تسعير المنتجات وحسابات المعاملات بالعملة الأمريكية."
+    },
+    {
+     "title": "الولايات المتحدة تستهدف موقعاً في جزيرة قشم، وهجمات إيرانية على الكويت والبحرين",
      "url": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-18T04:45:14.000Z",
@@ -270,14 +278,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T03:46:15.000Z",
      "seen": "2026-11-18T03:52:31.595Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWQmNydkNEZllhVDZCNFdIa3VFRURpQ2FSUThvZ0JnM2x0S2ZKaklXdDVXTGdqZzRZTV9LX05rVUhEUUpE?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-18T03:23:25.000Z",
-     "seen": "2026-11-17T23:01:04.412Z",
-     "impact": "يخدم الأفراد والمستثمرين في مصر بمتابعة استقرار تسعير المنتجات وحسابات المعاملات بالعملة الأمريكية."
     },
     {
      "title": "أعرف سعر الدولار مقابل الجنيه بكام اليوم الأربعاء فى البنوك",
@@ -394,13 +394,6 @@
      "impact": "يمس المزارعين والمستثمرين الزراعيين في مصر لضمان توافر مستلزمات الإنتاج والتخطيط للمحاصيل."
     },
     {
-     "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkVfQVdFdzRsdTMxSmFmdGV3Z1A4V0Z5aU9Sdzg5T3ZXQVF5V1lLWm90dnRzUUhRVnU1R3ZFMzJOcmZXSld1N2Mwa0hJQmt6Wlkzbk9kTG5TaTczV2RFSG9VS0lxMVNyV3Nrdk5OeVFTVk9XVlg3NTRQVlBKMG16ZThuNmxVaEVNczFuRzR3VmRWSXhlQXJ6cWx2WkltZWFZeFNyck5UYVJQYjJTUUV1S29uSWdydEpPdjVHVQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-18T01:46:18.000Z",
-     "seen": "2026-11-18T03:52:31.595Z"
-    },
-    {
      "title": "عطل يطال شبكة تبادل المعلومات السرية داخل وكالة الأمن القومي الأمريكية",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%B9%D8%B7%D9%84-%D8%AA%D9%82%D9%86%D9%8A-%D9%8A%D8%B5%D9%8A%D8%A8-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
      "source": "فرانس 24",
@@ -448,6 +441,13 @@
      "source": "BBC",
      "time": "2026-11-17T22:54:35.000Z",
      "seen": "2026-11-18T04:22:32.061Z"
+    },
+    {
+     "title": "واشنطن استهدفت موقعا للحرس الثوري في جزيرة قشم الإيرانية",
+     "url": "https://www.dw.com/ar/واشنطن-استهدفت-موقعا-للحرس-الثوري-في-جزيرة-قشم-الإيرانية/live-79926107?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-17T22:48:00.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
     }
    ]
   },
@@ -455,6 +455,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "روبيو: حوادث الأمن السيبراني بأميركا غير مرتبطة ببعضها",
+     "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNSlNTNC1JdW1hdTVTVTJDREhseUoyb0VCR003dk5JdkxRc0Z1UlFFMGo4RVY0dWJNRkNMX1hxNXYzTHNyQU5uYi11a1g1NF9XNjJDQUpHakFYNWstTVVMZTViSHhsMVZPQ3FzYVFzZ1d1cDZ0NjJQeGF5SU9BMUZXNm5IUG9sdXFKT3FZWXNURmdzVU5HYlRZWWpHclRxREZYXzlrbkxJbWFCRTBRRk8zSnhHM2RybFdMZldWOGNPbWFYTjZhTVpXS3JpT1JwYkZTNHhPc0NWZzlwOVktMmtxdnNIN1BOMzNqX1RpSEJIUWxHUE1UUkRyX2NaREtPNFJhQnNYMnRRTWJhWGxYSS1DS1BMZVZrMGVVNVdLQmpQRjQ4SGtOQWdjTHREanRaTlliZHdyMkJtZEpsdENpbFNWVGlCMXZqbWFLNUFBdXUyNkExdndhYmdFYk5wZzNsalRWMXkwVl9LMk9lVGVGWmk2VnhVNklQcVNacDktY3R4N0w1OVpUUnpCS2hPamxOZ0R4NDdxYUpna0pKeHktMUM2TnNrX1gzUnVPVm1OQ2EyRFRrVUZ1QW56Z1ZvWXRWZ3ljTnRoRDRUalhLOWJoMzZZRHlkc3VlVzZKVFhaSm9mdE5iYXhTSVllQzFDZ093YzdfcHp3Q0xGLUVNR3o30gGCBEFVX3lxTE1ZU1NwRmZScEpBclZsRkJCMER4eU9KSGhDVGxpbC1kNTJGNl9rS25hSVIxeFQ2X25VLWZoSUxUcTZpRy1nNXB4dy0zak0tODM4Y1dBYXBKUHhNSmVsWXBheXB0d3Y4RVJCVVh2YTF4NkZ4bTdOa3dMMWFUNzBXdTdPbnNNeHZqaHR1N0ZsV2dKMlRIcnNEZXhHWHl0UU9FYlZkX1FCM0I2aFRjdUs5alRxU0cwSWgtU0k2TkQ4WnJBUF9DVkxRVVljUUlZSjJ3OHVWV0k2bXZaVk5hRjhaYW5yZF9FYU56MjVnT2RsdEltakdtZS1ORDU3LW5rV2pURGVUd0NId3JPM3RkTUJ4UVdTcWRnSzRLcDFpeVFwMGQ4YlJteHFtSFRvOTZ2ejZGSjZfb3VhUzBRUHdpd0F4MWp6RHF4RUdVUWYzUks0MGV3cFU0OEs5ZGpnYzJNT1p3cWdaZUxLZ0ozdHhTb2tseXNEdHhZYzBfeUM0MEIxSEhKU0J5cEc3cDM3c3FPdUlaZmNkU1g1VHVYMlYxbkpLb0ZXVlNfSkM2VU9WWHZaT1gtRkYzeE92eWJIRVlldlMydngzVDBCdTJQMmZvcG1MZ3ZKTG8xTGJEbE5LOFFZYnUtS3ZYQ2tIN0JNUlA4MFR1R1JqaHNkTXVzQmY3TndqVHpyQVE?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T02:20:00.000Z",
+     "seen": "2026-11-18T05:02:31.809Z"
+    },
     {
      "title": "الصين.. شركات الذكاء الاصطناعي تكبح \"قدرات الاختراق\" في أحدث نماذجها",
      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPNTdiZ0k3MUs3RFhCbnhOaWFaV29ycVVPT0JLbHM3aW14eENfRHkwbVdWcVYzY2twcmlUVmFaYXFoOUQxZVR5MnoxWEgxU3Q0czJVUDQyVXB4XzRNYlRhVV9ZdnFXTHBpQ19tVDFYRTdNcVhtODJpYTdCa1ZZZ3dxNllLdWZjWXQtYlE0bTlBd3RsblhjdnBDTnl0Q3Q3MTlIMXIxb0lTVlktSHNTYXZDU2pEUk45aUlUUVBQNVNjRFh5QTJfX0l4TC1sU0FIU2QyckNGTmFBeU9HbkRrY1JScHg2SjJWYmtVbmpibVVFb1lNZVYtVEJyaXMycGNWeEwya0N1UW5oVXFqeEJ2cTRIdnBaSlh3bERwMkFxcDRObkczMWxRT2ZGNzAzTnk1VFk1X1VtdzNqVlpOU3FMaUlKTjdSMmlwUFVCdWJILWx0MzJROVlzcGpFdHMwZjVjelZYYkp1LTFBdEJDREQ4ZDNMcmNvc1FZOXMybE9tQThUdWdBcVVkTk5saGg2aUZCUHRETTg3R1ZhcndhRkxkQ05kV2RLR1Y3MTBmc0tMNGJOMDZBVFdhTmR6cWZXR0FOdmNzMkVuR1l3N1Z6MDhlc3l4SnhvdDk3Xy1IYWEzaDFjbnVNZUFCYm1uUm1WcUQ2MDNPaGc?oc=5",
@@ -548,13 +555,6 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-17T16:47:42.000Z",
      "seen": "2026-11-17T16:50:47.728Z"
-    },
-    {
-     "title": "قراصنة يخترقون مواقع شهيرة لسرقة العملات المشفرة واستهداف مستخدمي آيفون",
-     "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOS2cxVUtFMi1DdUhCYVpDWGVvN29NOWlQR1N4ZmxuNUFRRnBXcVBBQ2prOHpHQUhFN0pFam9GdFNGdzJNZ2N5aS04WE9rRkIwbjZKT0piUndEWG84T2JuTjlKWXlEZFY0U2lWNG5CYU9ROWhaU2lQTm5TYUVmRjFKcHVMSU9ja1hlRTZyTGJhbGtScl9WMEEwR0g3Q18zaHhKbnRJZ0VaaEpVYUV4ODF4dHRmR0RxZFZpYkpQd2JtY1VtMGJBRFZfMGlEZUhkSVhkSGpSQ3BsQVUtb0xHWmxJTTB5Slc4eHJxd21DTmVlamlINzhkMW5tcW40bjdYbEtQekNNNS1ybTktTGlLRDhvQlU1ZTMtYS1DSkFZV3ktam5OaTNWa1dtNkdYNVlJTDF3TlJGb2l1QXJFRVFjdFJLTXF0MGowZ1JjOHJJMlh0anZleG1fV05sblhOdTR1dEhjcllVd0RmT0VvSHppLVozWWt0cEtXbXZfZWcxbXFoLXZRckRXQ2gweFhsLXE3MFR6NXI4WFA3dlJ5NHVrT2lZTmQ4VENiNnFZd0c4NHV3YnFQaU01Vzh4SHRXd084b0I3VzM0bVNmeXF2QVRTOVhoRk9UWmt4V0VRNkR5cW9CUnJfcm1sU2R2cV91alpteTNRNHFrcDA5UmlEWWZPa3Y5NXhTYlVtTkhQUUplQWVLeHFIamljZW55S2hzdDViMWlPWDFEZXdidjBGaXBqT3JZZmhSVFh1WWFpczhxUGUzU05RWEhDaVNYamZpOC1IS2lwNnZOVFoyQdIB0gRBVV95cUxNWHhoelRfTkM3Ty1OVV9BMHBSTFdwTmswY3BKMllzZEtrU1k4LXRCOWw0RXBhekdTZHVNd0ZGLWdwSnVOcEJDQjhfRkg3djBkMzR5eWtldTV0R0drTjZoRGh2bm5YczJQLU8yYjg4dkZ4TTFkSHFzamxEVFBhQzlVeC00cGpscjJLNDRGUDQtS2otQk95NXFLcGEwbUZFVHJZekk5Wml3QkVEa0NpOU04cjQ3MWp3Tkp3NzJXVkFhQVZrVXp6MFFKY2xjZ0lNLTViRkcxcEV5eFBhZjlSVlM3U1NZWTdpUUo5Y1ROTHZweDBSTXZrblJydDZFWjdrX3o4SjhfTS1aaFlYQTZ5N3RzR2JBWk5PX3JKUnpRN2YyM3BMTWNLQVJtOXoxRVl4NkJuYmk4QXBKYnZZZ0pNYXlBYTdIMXN3SXJ2VG5HbWo5LVdKa0tRaUpFck5jYnNkQ0hkSTk5QkFYanNXWC0wZlExVlBLLXlNUmFCVFJWNzItUmlDU1JtSzBUMTl4T1k1anhFV09ybHBmS2RHUUdFbkd6S3hEWW9UZ1k2cnhsRkljQkpnTXB5SDF5anFKS2RxcW5KUk9BbkhKc3pXY05XMHJLMkxwOUhKVUVlNXZnOGxqd1JYVUFST21XZ3hoeWtaVk1IS2JaYWpXX1Fhei1YeWg4M09TWUE4MVpXWnlza29FODh0aDJtMkZxZk01em5xOGJpWTBRVlUtQm53eTFERVRyTzdURjNydzdjVlJ6SmllcnlYTk95cEI3bkJUTG5NSlBRb2c?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-17T16:18:00.000Z",
-     "seen": "2026-11-18T04:02:31.970Z"
     }
    ]
   }
