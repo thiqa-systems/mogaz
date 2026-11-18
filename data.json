@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:04:52.415Z",
+ "updated": "2026-11-18T18:14:52.678Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T18:04:52.415Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T18:14:52.678Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5644,
-   "change": -3.23,
-   "asOf": "2026-11-18T17:54:55.000Z",
+   "value": 5655,
+   "change": -3.04,
+   "asOf": "2026-11-18T18:05:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6444,
-   "change": -3.23,
-   "asOf": "2026-11-18T17:54:55.000Z",
+   "value": 6456,
+   "change": -3.04,
+   "asOf": "2026-11-18T18:05:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3736,
-   "change": -3.31,
-   "asOf": "2026-11-18T17:54:55.000Z",
+   "value": 3743,
+   "change": -3.13,
+   "asOf": "2026-11-18T18:05:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0981,
    "change": -0.16,
-   "asOf": "2026-11-18T18:04:44.000Z",
+   "asOf": "2026-11-18T18:15:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.02,
-   "change": -5.5,
-   "asOf": "2026-11-18T17:54:50.000Z",
+   "value": 88.33,
+   "change": -5.16,
+   "asOf": "2026-11-18T18:05:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7329,
-   "change": -0.16,
-   "asOf": "2026-11-18T18:04:55.000Z",
+   "value": 7327,
+   "change": -0.19,
+   "asOf": "2026-11-18T18:15:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63042,
-   "change": -2.85,
-   "asOf": "2026-11-18T18:04:54.000Z",
+   "value": 63161,
+   "change": -2.67,
+   "asOf": "2026-11-18T18:15:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تكريم الكونجرس للسادات.. نواب: تقدير دولي لتاريخ مصر ودورها في صناعة السلام والاستقرار",
-     "url": "https://www.elbalad.news/7185880",
+     "title": "الحكومة: الاقتصاد المصري حقق نسبة نمو تقدر بـ 4.9% خلال الربع الأول من العام المالي الحالي",
+     "url": "https://www.elbalad.news/7185905",
      "source": "صدى البلد",
-     "time": "2026-11-18T18:02:09.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
+     "time": "2026-11-18T18:13:40.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
     },
     {
-     "title": "عميد طب الزقازيق يفتتح اليوم العلمي لقسم جراحة العظام لتعزيز تبادل الخبرات والارتقاء بالخدمات الطبية .. صور",
-     "url": "https://www.elbalad.news/7185879",
+     "title": "إلهام شاهين: هاخد حقي من مرتضى منصور بالقانون وواثقة في حكم القضاء |خاص",
+     "url": "https://www.elbalad.news/7185899",
      "source": "صدى البلد",
-     "time": "2026-11-18T18:01:03.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
+     "time": "2026-11-18T18:13:14.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
     },
     {
-     "title": "وزير الاستثمار: المختبر التنظيمي سيكون جامعا للبيانات",
-     "url": "https://www.elbalad.news/7185885",
+     "title": "قيادي في فتح: مصر تواصل دعم صمود الفلسطينيين في غزة بإدخال قوافل المساعدات",
+     "url": "https://www.elbalad.news/7185904",
      "source": "صدى البلد",
-     "time": "2026-11-18T18:00:48.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
+     "time": "2026-11-18T18:13:08.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
+    },
+    {
+     "title": "رئيس الوزراء يشهد تدشين المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxORWpUQXl1RUg5VWtzY2ZRQXdRV1RhZ0tSLTNfZWxTWUZOVWM5WDdwamtIVkZkWXN1TTV2MHBfdXZ5WDF0cWVfRVF2eXVNRFpwaERMcDQ0VzkxTmF4Rk5JOGh1SFY1NTZDTDZNRnZ6bzBreVB3UUNKcVkwVmdEek5JN00weWxTVGpDaTAtRzBsQ0xiZzh2b0MwSGN5QXVvMUZwUTMwblpJemZBN2xCUlZIZGdUblRJeVdoMy01ZnlleUJuSXVUSkhCZnN6X3pfLVBWUmpRenBEVGQzX00tUFJ5eVNjYl94SHlHVUFfWnJhcS0zVjgxNU15OWZNdmh0TWhhQXlVMjlHZWpWYjdfVjRpazhyWm5kWndNT0tFRWViRG8zdnl1cWlacmNMbjR4bHhkSzJXUDdIN2g1c1pFclBVM2FXMWdtQWUxZ2ladXF1a2l2THRtZU9wa1BFaEJkVTQ3RnNOVGt2Ull6akFGZWxZTXpDakxzZkdSVzA5SnpR?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-18T18:13:03.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
+    },
+    {
+     "title": "موعد أول إجازة رسمية مرتقبة للعاملين بالدولة",
+     "url": "https://www.youm7.com/story/2026/11/18/موعد-أول-إجازة-رسمية-مرتقبة-للعاملين-بالدولة/7620130",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T18:10:00.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
+    },
+    {
+     "title": "المصرية للاتصالات تتولى البنية الرقمية لمشروع نيفيرا وتربطه بأوروبا وأمريكا",
+     "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxNYXE4YmFPckx4TS1UTVBJOEVGSTBMU1lkemVUYjAzVkpPN3daTVhDZFBVQzBwcXZvOEotNTVQcTN2eHcwQ21ZZ3BZWHZQZTJlSV93VVl1Tm4ybGJCek9KY2RlVm9fcDNrRUYtODJ0bGdtVjFtT01tMUxfTTBWNVlmdHRERkh2TGlqR2drSDRhV29RNDY5YjZVSENvZUVWNUx2dkV0VlJGMkxMNEFEcjVKdVpiSjlXZkk3RUtxWllqRHU2cmdtTGxCbHdTNUVfczdSalVXRFJyM1lSdFBfTU85bzV0WFFoNW1QNWpldnJ4RmtMdjREWHRjUzlZWUZNVHZSVl9XdXJXaXB2SWF5THAzM19EbC1ENnlQeUE4Wk8zSmV2b2ZXb2t6bUFYTXJiMzFsYTMxNS1qOXh2cE9PZ2NYaU5DN3lyeDIyd1h2X2ZqYmlmc2E1VkVESlB6cE03OWw5bHo2UXZ5Wm9FaUV2UVE5MnhUOHBtdDlLZ3dFVWxWU3NQcllxZ3p6TTE1dk5NZjJHRUp2cVUtb1ZjZ29UNFA4OVdESGdKN1hhYjR4VVppcktoeTlBN212Z2RLTEZzdUFyYjZuUDhTdXdYVW42REp2a0pab2tKb0JSMDRwS3FnU0VqY2IxUnRWLVk3Q3dpMFoyb3dfcEI0ZmFzYXkzSmlzbFBCSDN0MEVnQUM1TTdfWjRCNFVVaGh0aTJTTVA3aDJET1ktV1ktSjdnTG1CTTB0b3JicHRRckxXYzM0Ym1RaTN2cFFDSkRQMmRDMXI0QlhoeFByQllVb0ZFdWxwcjhGR2hfU2lncWFYMVlMTFhmLUk4MzI0Ylc5WEszblVBSFZxT2NLYnNGSDhOWkFUY0I3V0Z30gGXBUFVX3lxTE9JNjlaM2JoeHp4Zm41eTA5NFNFc3RaZlJGcUFia1Q0WFI4UW9zOW1jX3dZWUp1alE3Rkw4QVhfYXlGN01PbzA5d2NZbDVJb0VneDhDcFRMdEZ6aUZoNHhjYkFDSWRmTEh2TFBnRi1PanhMaWMtbWstRHlnU2VXWG94a2dEYVBoWFhZd1RGVHhLajlGeE1uNXpoa05zeGJDRUttc2tpTGQzUnhCNFZsZ3M1M3F6WXRjZHBBMGlWWlBNam1TaXF0OGxyU0xoTExXVmpiYUNPTG50eThIRm5ET3l1dVI3dy1Zdi1mNTEzVUNNN3RQMjdRV0NEOURXRGhScm1ad05yQnVtRW11V3JrZUF4cXhGVm80MHFoemhWZGdZX29hTFlZNjRyekg0Mmd1ZmhIVGxLWjZRbE11QWhnaTdaeTdSZGt6Z21MUldCMWNsNzNyR0xaclFLZDJELXNmUmlscHJZUlZzdHlQeDhRRVh2QVhHczJndVhwUXB0RmJldmlpS3d3WmVnRVZKUUx0UkI5b1B3RjNyMWpjdk8wS2x0eFp6dk5tM1FBdG1vZ0pIMTlXQWJEMldDTlVnVjJHLWlZMW9SeEpGQ3FPYlFtQ09vekNPYmhleWIyUmJ2MXlqSk1saGRuWk5rZ2FHZ2FuS2hyWmNBVGJNQjNqS0kybThqaUhKQmxJTHgtSFdsTTVVbENydno4YUR2cmZETXFnV01sNGE0RXRTcXpXNGUzMzNoUF9pSTNtX05fc3RiUTl4eEZILUVEVUFFUUp6YWNmZzd6Q0ZZS05LaGwyZjB5bW5xU0h5NEctTEhnWGk0ajZXLW9Ob3h6Vi1BZ3VKdzI0Y1hCcVlMUG5lNUlYNUg2eXBrdkx0SG5Ubw?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T18:06:39.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
     },
     {
      "title": "المانجو والموز فى مقدمة المحاصيل الحساسة لانخفاض درجات الحرارة",
@@ -195,20 +216,6 @@
      "seen": "2026-11-18T18:04:52.415Z"
     },
     {
-     "title": "قبل طرحها بالأسواق.. ضبط أطنان من الأغذية مجهولة المصدر داخل مخازن بكرداسة",
-     "url": "https://www.youm7.com/story/2026/11/18/قبل-طرحها-بالأسواق-ضبط-أطنان-من-الأغذية-مجهولة-المصدر-داخل/7623990",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T17:54:00.000Z",
-     "seen": "2026-11-18T17:54:52.306Z"
-    },
-    {
-     "title": "مشروع نيفيرا.. مدبولي يكشف خطة تطوير المنطقة من الأهرامات إلى مطار سفنكس",
-     "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxOdmwyVU5KekJHRWwzU3RrUy0xdkduWHRXQ3p1Nmp3YmdxVGpQcXA1aG4wRE52Nzl3OUV1MGZWelI3SWhJcU1LMlMwcU9DU0wzdnR3NmpweU9ueFhsQTRVUjc4dUc5MXdLV0NDZ3VqNFJnOXB2alpaOGJIcVNVQnpUVnRsaDNfSFYzYmhoZnZoV3A3UWYwbnEwWDg2aXF0VUNIZk4wNHVJeWdHRDB3cHQ1bTQwMkNJUnJBYUwybFl0SU5wa2V3eEM4WDhIcDVJRVl4X1hoTDlJMUhpeW5tLWFpNWtBUjZQWjNxc0NiT3ltUW1LXy1JQ2E0RUhxSEtqUHY1Qmx0TXpEc1FXNkMzdlZjQXhXdUZkWlJ2ZlV4NlFwNTNLYTF3aDZXc3JDWl93bUt6OFktS3ZSNHRRUEMxOGo3MnphblJqc01IcUpuUFVRQ0lqOWFjY2M0OFFRUUNxeVlnS0M4cjdVLTRfRDRiZHhqNmRSYTdLODVVRVZLUGxrc0FuSDdGTU01dGlJM2RhdHdQSjRQZ1lfSWJibG55MEdJMzBqVzFub0JUaG1UMVBVOEVvRlc1TFFtQU00VWJ0MDBacnlnbU9aMTJ6OGE5YkdKV1BCQWg0QTFsbHpndjVmd1MyX3QyeE41RHFWYm02RHl1U3ZDS3pxU1JwamloaGpPVVFuRmxTaFpZRGYtVElIMkNqajl6UDNKYzl5eU4tWDdfUm5KVzJ6TGNPY2tRa1BGU2g2cXpVZ3FWX3VHakFzTVhDeE9ET0ttSUl0OUc4X2Y2TXNhS3Z5NWZhU3NO0gHiBEFVX3lxTE9PdDlJNEc3eWRlZHRrWnUyQm1Wei0tOHhOd3BENU9MWHZTR0dyOWg1MkpGNnk5dHVTNGxISXI2eS04N3RNYlNwU3FIbzJRMlh3UnJHVFRKUGlfZHNJeDM0aHhVZWVES0QwMVozXzBSQThJbHBiWm93MnZKUFA0anpnamFhbGJ5N3pRdHY3dEszcFJ0V2N4a3pVeGllVzBJODFVU0FOR3d4Z3FHRzNZbXpFU0ZnWm1tM0FoU2RXUUFyekxCOWxyUXlqbXF4NkptVlp4bDBkME5vZE9heVZmQjlVUnRYSEhZbVEtbWpHbXRUVE1YeG1jWnQtdWN3aUZEU1gzeXpmZFF4T0tjb0hsM1Y4NWRXNjJVRDNRU1pnTkVqcTlYckx3dS1pQlVTOTN0YWRLdklLZGJEZnVheHVsajRNQzlTNWlldDh3Z3ExeDZfUk9UNi1ybklvWUstRWRYS19WLXhHWmxFeDFKaWxkZWxMaVZuZENXSEpQMXlMdmhFdTE3WVhQS0xxMzc4aG5sQmJ6ckVacXd2NGZhRHJfOXd3TWdrcDVVOU93LWpWTDZHTEFseWNyMWQwbFFuRW13d0psWFVrdWNfODc5U3J1VkNMNURGU1BYTksydnBFWTZTZUc3ck1lN3V5YU5wdTBRbTVJUTRUSUJfa3gwb0I5WlJ0V29nRlowMEYyQUdmOUc5SGpkZi1IczRkRWduanRLZ3NnS1NFNnRZOTdwTlhIeTRyY2hKS01IWGtyNUZqUlI3ODItYkkzVnVoWnRnVnN0U3EtOFBPOXppRzZydHFYcmE4Nnc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T17:51:00.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
-    },
-    {
      "title": "«نيفيرا مصر».. مدبولي يكشف خطة تحويل غرب القاهرة إلى مركز سياحي وترفيهي متكامل",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01WEh6bldiM3hJc3Y0ejcxb0ktbDFHbDdpZVZfenZvZUZIQ182Y3h4dkU1cHJBSEVkWjRQc0REQTdyNFZBR0lOU3hNM0F0V2Y0UjA2c2ZqSUpLbGdxOC1v?oc=5",
      "source": "المصري اليوم",
@@ -228,13 +235,6 @@
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-18T17:18:51.000Z",
      "seen": "2026-11-18T17:24:53.159Z"
-    },
-    {
-     "title": "مدبولي: «نيفيرا مصر» أحد أهم المشروعات السياحية الواعدة لدعم التنمية بغرب القاهرة",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YNjVnTFRGcm9ySmdqQXpfWlREdEFibk5yU1BjX3hOYVJxTk1yUWYxWkVMSUR6b0UtMUxqV09VQkMtdEZCUE5LRWZ5ME5xbnhrN1JjVEoxZF9FX0lE?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-18T17:04:06.000Z",
-     "seen": "2026-11-18T17:24:53.159Z"
     }
    ]
   },
@@ -253,7 +253,7 @@
      "title": "صندوق النقد يتوصل لاتفاق على مستوى الخبراء مع مصر للمراجعة الثامنة والأخيرة للبرنامج",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QT3ZxaS1NSjdrZ29WZUlVYThMREI3Y0pwallxX2gxNng2OVp2cTNjY0hzdUgxaXdNcDFTaTZSV296MmxPTXVBZjdIYTJsMmxNakhiZWlR?oc=5",
      "source": "جريدة البورصة",
-     "time": "2026-11-18T17:42:31.000Z",
+     "time": "2026-11-18T18:00:00.000Z",
      "seen": "2026-11-18T17:44:52.901Z"
     },
     {
@@ -347,6 +347,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "بيان من الجيش الأمريكي بشأن ضحايا ضربات إيران هذا الأسبوع",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/no-us-personnel-have-been-injured-in-any-attempted-iranian-attacks-this-week",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T18:08:45.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
+    },
+    {
+     "title": "حربا إيران وأوكرانيا - هل تكون قمة بوتين وشي وترامب \"يالطا جديدة\"؟",
+     "url": "https://www.dw.com/ar/حربا-إيران-وأوكرانيا-هل-تكون-قمة-بوتين-وشي-وترامب-يالطا-جديدة-؟/a-79984867?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T18:02:00.000Z",
+     "seen": "2026-11-18T18:14:52.678Z"
+    },
+    {
      "title": "إسبانيا: فتح تحقيق بحق المغني خوليو إغليسياس على خلفية اتهامات بالاعتداء الجنسي",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261118-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%81%D8%AA%D8%AD-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A8%D8%AD%D9%82-%D8%A7%D9%84%D9%85%D8%BA%D9%86%D9%8A-%D8%AE%D9%88%D9%84%D9%8A%D9%88-%D8%A5%D8%BA%D9%84%D9%8A%D8%B3%D9%8A%D8%A7%D8%B3-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A",
      "source": "فرانس 24",
@@ -429,20 +443,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T16:16:00.000Z",
      "seen": "2026-11-18T17:34:52.585Z"
-    },
-    {
-     "title": "بـ4 مليارات درهم.. المغرب يطلق خطة لتطوير الصناعات الدفاعية",
-     "url": "https://www.skynewsarabia.com/middle-east/1905629-%D8%A84-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%B7%D9%84%D9%82-%D8%AE%D8%B7%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T16:15:48.000Z",
-     "seen": "2026-11-18T16:24:52.506Z"
-    },
-    {
-     "title": "الدولار عند 150 \"ليرة جديدة\"، كيف ينعكس تراجع العملة السورية على الظروف المعيشية؟",
-     "url": "https://www.bbc.com/arabic/articles/c893rqg6g6qko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T15:08:36.000Z",
-     "seen": "2026-11-18T15:13:33.858Z"
     }
    ]
   },
@@ -501,6 +501,13 @@
      "seen": "2026-11-18T13:53:34.131Z"
     },
     {
+     "title": "الدولار عند 150 \"ليرة جديدة\"، كيف ينعكس تراجع العملة السورية على الظروف المعيشية؟",
+     "url": "https://www.bbc.com/arabic/articles/c893rqg6g6qko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T15:08:36.000Z",
+     "seen": "2026-11-18T15:13:33.858Z"
+    },
+    {
      "title": "بدء إطلاق GTA VI من نيوزيلندا.. وإتاحتها في الإمارات والسعودية منتصف الليل",
      "url": "https://aitnews.com/2026/11/18/gta-vi-launch-new-zealand-uae-saudi-arabia/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -541,13 +548,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T14:06:28.000Z",
      "seen": "2026-11-18T14:13:33.931Z"
-    },
-    {
-     "title": "رئيس الوزراء يشهد توقيع عقود مشروع أمونت 2 لطاقة الرياح بقدرة 500 ميجاوات بالبحر الأحمر",
-     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQQVNDZTlja2JqTjVwQ2drSGkyYjdHbDFzeUZQUXB2TTdpU0FSdXdsajExeFFIYTdFTE8xd0dVNmZMSjV0UVhmenBONEI1ZmRHLUc5aEl6bWo2V2VSbFRDVVB6R01ZZnRPRGU2N2ZwTFR3NEpVZmRxTEpuMi1DTlU1ZVdJZURhVUY0dy05VFl6V0dYU2FaTTZyVG5FajBjakRuc0x5S3pXN3BvSWdfODdmemlHbUx2elNpOWx1OTA0eGZuWlBhTC05TXlkaWE1OFJITGJqMFJzU2hnTmJQWTRzaGM4aE1WNXNMZjRyS0M2OGp0UGtCOVFWZzF0c3RCak0tLVZzdEQ4Z21GempfaDQ0c3BMTTlqTE9PWl81TUQtYV9ibS1fTDRJMG5UVC1LWW8xNVFFSEFfN0dlYm5hYkF0endMMjVLaExMSGd1OG5faUh6ZTVSUEljS1JzcFRobDdjVkVoRWx1VVJHMGlFemdnUVlWRFZhbndmZXN0b0tBM2h4QUFVLTJGX3pPVkF4N2RsMUpJM3BQa1RvMDBaTjB0UVVmbHRCaWQ4ck9Yc0QzMUkxU0k2VnlHaWRoUk50S2tyOUtFOEdPVjRoODJBWW8zStIBywNBVV95cUxOZTdzZlNvem82SllZR2tYRGhIMEgzTUdscnRFZUZyNV9ZaHI1R1pEalE5OWZYOWJCVlRzU2pmQ0JBVWduVXVpcXhIN1NYWVUzbm4wNUZZUzA0clNwRUNETDZMTFFCNmVzODVUcFQ5N1pjX29ZT2hSelJxQl94M2RLclhwQ0ZFaHpLb3E2SmVocUJxaWdaTGFDZVN3VG52R2h1WFdzMXJIdFVITzAwY0tMMWlqVVl1YTd1bW00SUpQM3p0Y19GTXk0N0RlcG54X1RsS1ltaFYzNVVRbGMtczNOUEQ1c3o0UVJzTkQ4eVVqZFdjZkE5YUZlaDBMMkY0ZTBNaktlWkdHMHoyczJxN050eWUwOTNDY2FnaG9ReVJYQjMyS0lGM01jM1FFcl82WXdwYjlUMzVLa2JoU1p2TWNub3M5Nkt6SDRZNE9YZXczZ2NRNUJBZ1JheVNzblNkN1lrRVdfT21HOEZJUllQQ1d1VHVxbE1fRG12Q2pCNVlIYUVCXzdVR3d4NXVoNTVYYTFwYTNVc3NuaHF1YzdUZEJIMzZVQTJ4eENGSmtiQ0ZpaXpzblJJSWp0QXpFRFlBQll0Z2tCTnFrWTJ2VzA?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T13:35:00.000Z",
-     "seen": "2026-11-18T14:53:33.513Z"
     }
    ]
   }
