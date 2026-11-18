@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:23:33.815Z",
+ "updated": "2026-11-18T13:33:33.942Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T13:23:33.815Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T13:33:33.942Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.71,
-   "change": 0.11,
-   "asOf": "2026-11-18T13:08:01.000Z",
+   "value": 53.78,
+   "change": 0.25,
+   "asOf": "2026-11-18T13:27:54.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5701,
-   "change": -2.25,
-   "asOf": "2026-11-18T13:14:34.000Z",
+   "value": 5706,
+   "change": -2.16,
+   "asOf": "2026-11-18T13:23:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6509,
-   "change": -2.25,
-   "asOf": "2026-11-18T13:14:34.000Z",
+   "value": 6515,
+   "change": -2.16,
+   "asOf": "2026-11-18T13:23:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3773,
-   "change": -2.36,
-   "asOf": "2026-11-18T13:14:34.000Z",
+   "value": 3771,
+   "change": -2.4,
+   "asOf": "2026-11-18T13:23:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0975,
    "change": -0.21,
-   "asOf": "2026-11-18T13:23:47.000Z",
+   "asOf": "2026-11-18T13:33:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.06,
-   "change": -3.31,
-   "asOf": "2026-11-18T13:14:34.000Z",
+   "value": 89.93,
+   "change": -3.45,
+   "asOf": "2026-11-18T13:23:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63939,
-   "change": -1.47,
-   "asOf": "2026-11-18T13:24:36.000Z",
+   "value": 64073,
+   "change": -1.27,
+   "asOf": "2026-11-18T13:33:47.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مش متجوز لكن مصاحب.. أبرز تصريحات أحمد الفيشاوي مع معتز الدمرداش",
-     "url": "https://www.elbalad.news/7185564",
+     "title": "أخبار خدمية| أسعار الذهب والدولار وحالة الطقس اليوم الأربعاء",
+     "url": "https://www.elbalad.news/7185323",
      "source": "صدى البلد",
-     "time": "2026-11-18T13:22:33.000Z",
-     "seen": "2026-11-18T13:23:33.815Z"
+     "time": "2026-11-18T13:32:59.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
-     "title": "مركز سلام: الاعتداءات الاستيطانية في أريحا تكشف خطورة التطرف الديني وتوظيف النصوص المقدسة لشرعنة العنف",
-     "url": "https://www.elbalad.news/7185563",
+     "title": "مدبولي يشهد توقيع عقود مشروع \"أمونت 2\" لطاقة الرياح بقدرة 500 ميجاوات بالبحر الأحمر",
+     "url": "https://www.elbalad.news/7185574",
      "source": "صدى البلد",
-     "time": "2026-11-18T13:21:37.000Z",
-     "seen": "2026-11-18T13:23:33.815Z"
+     "time": "2026-11-18T13:32:46.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
+     "title": "وكيلة الصحة بالغربية تعقد اجتماعًا موسعًا مع مديري المستشفيات لمتابعة الجاهزية ورفع كفاءة الأداء",
+     "url": "https://www.elbalad.news/7185550",
+     "source": "صدى البلد",
+     "time": "2026-11-18T13:32:45.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
+     "title": "مواجهة نفوذ الإخوان في أوروبا.. برلمان فرنسا يناقش بعد قليل استراتيجية جديدة",
+     "url": "https://www.youm7.com/story/2026/11/18/مواجهة-نفوذ-الإخوان-في-أوروبا-برلمان-فرنسا-يناقش-بعد-قليل/7623609",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T13:26:00.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
+     "title": "300 شخصية دولية فى المنتدى الدولى للحماية الاجتماعية بمصر.. التفاصيل الكاملة",
+     "url": "https://www.youm7.com/story/2026/11/18/300-شخصية-دولية-فى-المنتدى-الدولى-للحماية-الاجتماعية-بمصر-التفاصيل/7623099",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T13:25:00.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
      "title": "القائم بأعمال السفارة الأمريكية يكرم ذكرى الرئيس الراحل أنور السادات",
@@ -160,28 +181,7 @@
      "seen": "2026-11-18T13:23:33.815Z"
     },
     {
-     "title": "ريال مدريد يمدّد عقد نجمه التركي | تفاصيل",
-     "url": "https://www.elbalad.news/7185556",
-     "source": "صدى البلد",
-     "time": "2026-11-18T13:18:06.000Z",
-     "seen": "2026-11-18T13:23:33.815Z"
-    },
-    {
-     "title": "مركز سلام بدار الإفتاء يدين اعتداءات المستوطنين في أريحا ويحذر من التطرف",
-     "url": "https://www.youm7.com/story/2026/11/18/مركز-سلام-بدار-الإفتاء-يدين-اعتداءات-المستوطنين-في-أريحا-ويحذر/7623663",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T13:15:00.000Z",
-     "seen": "2026-11-18T13:23:33.815Z"
-    },
-    {
-     "title": "عفت السادات: تكريم الكونجرس للرئيس الراحل السادات يمثل تقديرا دوليا لمكانته",
-     "url": "https://www.youm7.com/story/2026/11/18/عفت-السادات-تكريم-الكونجرس-للرئيس-الراحل-السادات-يمثل-تقديرا-دوليا/7623624",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T13:09:00.000Z",
-     "seen": "2026-11-18T13:13:33.295Z"
-    },
-    {
-     "title": "الحكومة تتحرك لخفض استهلاك المياه.. تكليفات جديدة للوزارات والمحافظات (تفاصيل)",
+     "title": "الحكومة تتحرك لخفض استهلاك المياه.. تكليفات جديدة للوزارات والمحافظات",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RWDhXQUN0MFBlZGRjU2dUaDJDc2FSOVdwMHVoSlc3M0ZrRmQ4VEFST0ZaYTBYdFBQUTc1ZWI1V0JzWTY2aHF1aGV5aXdlbkZVTDdCSm5SX2VVYUQ3MDVZ?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-18T12:39:00.000Z",
@@ -245,11 +245,32 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "58.22 مليون يورو تمويل لتنفيذ مشروع لإدارة المياه في وادي النيل",
+     "url": "https://alborsaanews.com/2026/11/18/2007431",
+     "source": "البورصة",
+     "time": "2026-11-18T13:09:49.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
      "title": "\"مصافحة تاريخية\" بين بوتين وترامب قبيل قمة ثلاثية تاريخية في الصين",
      "url": "https://www.bbc.com/arabic/articles/c64gn38dpqnxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-18T13:06:57.000Z",
      "seen": "2026-11-18T08:33:19.472Z"
+    },
+    {
+     "title": "مصر تعيد تشكيل اللجنة العليا لمكافحة التبغ والتدخين",
+     "url": "https://alborsaanews.com/2026/11/18/2007429",
+     "source": "البورصة",
+     "time": "2026-11-18T13:03:59.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
+     "title": "الحكومة توافق على إنشاء المنظومة الوطنية الشاملة للبيانات",
+     "url": "https://alborsaanews.com/2026/11/18/2007426",
+     "source": "البورصة",
+     "time": "2026-11-18T12:59:41.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
      "title": "بنك الإمارات دبي الوطني: تماسك الاحتياطيات الأجنبية لمصر رغم تراجع الجنيه",
@@ -285,29 +306,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T12:10:02.000Z",
      "seen": "2026-11-18T12:13:33.237Z"
-    },
-    {
-     "title": "“طاقة النواب” توافق على قرض أوروبي ومنحتين بـ 700 مليون يورو",
-     "url": "https://alborsaanews.com/2026/11/18/2007401",
-     "source": "البورصة",
-     "time": "2026-11-18T12:07:50.000Z",
-     "seen": "2026-11-18T12:33:33.705Z",
-     "impact": "يوضح موافقة برلمانية على تدفقات تمويلية أوروبية بقيمة 700 مليون يورو لتعزيز قطاع الطاقة."
-    },
-    {
-     "title": "سامسونج: طفرة الذكاء الاصطناعي تستند إلى طلب فعلي وليست فقاعة",
-     "url": "https://alborsaanews.com/2026/11/18/2007397",
-     "source": "البورصة",
-     "time": "2026-11-18T12:06:53.000Z",
-     "seen": "2026-11-18T12:33:33.705Z"
-    },
-    {
-     "title": "“الصناعة” تبحث الخطط التوسعية لـ”كرافت هاينز” في مصر",
-     "url": "https://alborsaanews.com/2026/11/18/2007398",
-     "source": "البورصة",
-     "time": "2026-11-18T11:56:57.000Z",
-     "seen": "2026-11-18T12:33:33.705Z",
-     "impact": "يشير إلى احتمالية توسع الاستثمارات الخارجية وزيادة النشاط في قطاع الصناعات الغذائية في مصر."
     },
     {
      "title": "أسعار العملات الأجنبية بمنتصف التعاملات اليوم الأربعاء 18 نوفمبر 2026",
@@ -356,11 +354,39 @@
    "title": "العالم",
    "items": [
     {
+     "title": "اليمن: تصنيف الحوثي \"منظمة إرهابية\" بقانون من 55 مادة وعقوبات تصل إلى الإعدام",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/18/yemen-designation-of-the-houthis-as-a-terrorist-organization",
+     "source": "CNN بالعربية",
+     "time": "2026-11-18T13:30:05.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
+     "title": "السلطات التركية تداهم قناة \"سوزجو تي في\" والمعارضة تتهم أردوغان بإسكات الأصوات الناقدة",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D9%88%D8%B2%D8%AC%D9%88-%D8%AA%D9%8A-%D9%81%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%AA%D8%AA%D9%87%D9%85-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A8%D8%A5%D8%B3%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D8%AF%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-18T13:27:34.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
+     "title": "بعد انتظار 13 عاما..إطلاق لعبة GTA 6 وسط مخاوف من انهيار الإنترنت وهجمات الهاكرز",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AA%D9%83%D9%86%D9%88/20261118-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-13-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%84%D8%B9%D8%A8%D8%A9-gta-6-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%85%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%88%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%A7%D9%83%D8%B1%D8%B2",
+     "source": "فرانس 24",
+     "time": "2026-11-18T13:10:56.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
+    },
+    {
      "title": "دبابات إسرائيلية تتوغل وسط غزة.. والجيش يعلن عملية عسكرية",
      "url": "https://www.skynewsarabia.com/middle-east/1905593-%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T13:10:53.000Z",
      "seen": "2026-11-18T13:23:33.815Z"
+    },
+    {
+     "title": "حكاية زجاجة نبيذ نادرة.. عائلة فرنسية تسعى لإنتاج نبيذ يعود إلى عام 1750",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20261118-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9-%D9%86%D8%A8%D9%8A%D8%B0-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B9%D9%89-%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%86%D8%A8%D9%8A%D8%B0-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%B9%D8%A7%D9%85-1750",
+     "source": "فرانس 24",
+     "time": "2026-11-18T13:00:55.000Z",
+     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
      "title": "المحلل السياسي أندرو ميللر: إسرائيل ستخسر أمريكا إلى الأبد إلا إذا غيرت نهجها",
@@ -377,13 +403,6 @@
      "seen": "2026-11-18T12:33:33.705Z"
     },
     {
-     "title": "قمة ثلاثية مرتقبة.. بوتين وترامب وشي على طاولة حوار واحدة",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D9%82%D9%85%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%B4%D9%8A-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T12:22:39.000Z",
-     "seen": "2026-11-18T12:53:33.401Z"
-    },
-    {
      "title": "قمة ترامب وبوتين وشي جين بينغ في الصين: ماذا تعني لأوكرانيا ولماذا تثير قلق أوروبا؟",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNnpjaDlJSlNHSXFuNmdxMHlBTV9meEptM1JYNDJSbnlDdUR3Q0JVWFR1UGRlYVZOMFpjMGg1WGlyZk84Y3V0YlJPY0xTSTdzc0ZVUVF2TUpzaHFjWXfSAWNBVV95cUxNaUIzcnZhak05aWU1Q2NpOWRyZ1pjaXlUN3RZNDhSU2RYQjdQbDJSZGdZWWtKalkxbkFDak93aXVBakR2OUwzYWdQQ2t3M3Uxb1NuRkw5enFuQUNUWkJmZ0NqbGM?oc=5",
      "source": "BBC",
@@ -396,21 +415,6 @@
      "source": "BBC",
      "time": "2026-11-18T11:59:41.000Z",
      "seen": "2026-11-18T12:53:33.401Z"
-    },
-    {
-     "title": "كمال الأجسام.. تونسيات يتحدين الصورة النمطية ويكسرن احتكار الرجال للرياضة",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20261118-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A7%D8%AA-%D9%8A%D8%AA%D8%AD%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%85%D8%B7%D9%8A%D8%A9-%D9%88%D9%8A%D9%83%D8%B3%D8%B1%D9%86-%D8%A7%D8%AD%D8%AA%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84-%D9%84%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T11:55:43.000Z",
-     "seen": "2026-11-18T12:03:33.892Z"
-    },
-    {
-     "title": "تسريبات ملايين الوثائق.. \"دويتشه بنك\" أكبر المصارف الألمانية يواجه ضغوطا متزايدة",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%AF%D9%88%D9%8A%D8%AA%D8%B4%D9%87-%D8%A8%D9%86%D9%83-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%B6%D8%BA%D9%88%D8%B7%D8%A7-%D9%85%D8%AA%D8%B2%D8%A7%D9%8A%D8%AF%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T11:53:40.000Z",
-     "seen": "2026-11-18T12:03:33.892Z",
-     "impact": "تعرض أكبر المصارف الألمانية لضغوط قد يثير اهتمام المستثمرين المتابعين لحركة القطاع المصرفي والأسواق المالية العالمية."
     },
     {
      "title": "\"المكالمة الأخيرة\" تكشف وجها آخر لعلاقة بايدن ونتنياهو",
@@ -446,13 +450,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-18T10:54:23.000Z",
      "seen": "2026-11-18T11:03:33.746Z"
-    },
-    {
-     "title": "رغد صدام حسين تنشر أجزاء من مذكرات والدها.. ماذا قال عن مصر وإيران والسعودية؟",
-     "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQZTM4b3FaekgyRVN1T1dDVnljUFRudm1xVmdxR24xMDFncVJGSjlySUxXdmR5RXRlcEx3M2NLWEU2dUFzcjBEa1RRcFA1b2stbEFhZjNKT0dtOUQtV0Y1ODlfMk5oSFJqcmxuUE42N1NrVThrUVNNTDVwdWFGNzg4ZWFNU2xidGFDcTRjYzk0Z3RhbWJtLXpVOUxOeGd0UnlEUXZpQjhCd2dYdEhlaGpUT29sblkxRTZrQ09DTTBMakdTSWJZbGQ5UFBfRXUxZG5ydUtJaTdTVTZhY0FvQlYzcExCQXVvRUQ0Tjd2UHB5eVFkTXVjRWZhS0lkcEgxSkhSbTBzYm1rM0pXdXVmTlpHSjV3cEpjTFloYi1IcnhkTTlGVVdFT0JoZ1p2cFdVZ25qX1ItZnNOZjFIYW9aRE5xNTVDWlFlSm1Ld3cyMXZNTDBIaHpON041Y1htaU03enJZYWhpR0tvTjRRNWJEZkhUQ1Jpamc0MzJlT2V1NVZmUElGZ0lkQ2g0blcwY1gyb2xyeFNSYmZfcTdOS2lvV2JyXzMzM3lqVTUwS3h0UFUyd9IBqgNBVV95cUxNNzY5eFFXVjdYV2hzbi1tQV9vRjJQZVE0ZFBGV2FiWjFmRThHRTYzdHp0THlRTWJxNWhlS3hfV0hkcGdISTJ3X2owamdzQkNydWEtZjNWZm92aEc0UEdaMG1uREFCYlFjX0E3cVU1NDFZUEUxRkw5Q2JPYndkRTl4aVFBMGJhQW1CQVM3Nk1RR21tQU85Uk1YZUlDM25VMGJ2SkxNMk9rVHJUWDJPcE1ha0I4dTNIWVFGZjBjV3NNM09sZjFGd2VvQ3VmOEdqN3JzblROcEdnbjN6RlN2TFI5eEpQMDEyUVkyMkRpQWtrTkJESGdYMDNqS0p1S2QzY1liTC1QZjlPOXE5eGY2V0c2MFkyU2ozdVZGazlNa3ZDU3B1XzlVcmsybnozZmpyLWhSb19fRVNsODFXTGRjWFVYSjBmWVV1UWtRbngyd1NOa0Q3U1NWNVRZd1ExTHk2QW9meEZqOVROQ0lzOUZZaGtaSzBJcjEzTzFxZ2x2U3NwSDV0NnVFMnB1Wml6VE9lV2V6UEpIOXFmdlBScnBIeTlEMWtEMURSbUY3cVE?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T10:48:00.000Z",
-     "seen": "2026-11-18T11:53:33.403Z"
     }
    ]
   },
@@ -500,6 +497,13 @@
      "impact": "طرح التحديثات البرمجية الجديدة لهواتف سامسونج يهم المستخدمين المهتمين بالحصول على أحدث الميزات والأمان التقني."
     },
     {
+     "title": "في عصر الذكاء الاصطناعي.. \"إنسان\" كلمة العام 2026",
+     "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQbzVkRTdhUGl4U2JlYVh1eDRkODdjLWUtdXlseGxxZDkxQWdKRWxJel80Z1N6dEgtVHFIalVqVHlsTkY0d1JNcHBIaFZhMmYzQ2pwOUo0TmlUZVRmdExkYUR4akJibDdBVWU3VjBwVl9hRV83d2xfVjBEaGR4YzVtdkdDcUk4Y1MxUUdEVjhjV29VdXN1cHZzNnAwdzRwZWZDRk1qbHQ1eVQxMFlET3ZrZzEtQTB3WFNGT05VemtVRUppSUs4ZUEzb2ZfTFNZN3J4dmNnVk9FT3M3WXlpaDNYS29Bc0R5VUdWdWJ0cDRCdXBrWG5ORl9XMmkxQXhieDZtNnduVWctV0VqLTNrbjBhVzl2dXVZS0tGaFNreTF4eWFtM255dDdlZE1jbjM0d3h0MlYwak5yTk9RRGFCY3hWR25BY01JTV9BbmRlZGhTN1JSSDVmYk9zSFp3MnBLMlJOQmFJUGp6dm1XaXPSAfACQVVfeXFMUDdFMjNfVTFPOHpVaWY2eVkxcm44NWdLNTd6X0V3NHdCU2JLSzZyX2loUXlubC1TVDlaazhrbFJ6X0gwdmQxMUQwdS0tSERkNk1WNW1uQmxLNjJycGN0V205cmEtalg5WVRtYl9rbjdJampLWkxxMUUxaW9fQ0NkOHhQVll2Q3pqZk1RT3RUbkNJcC1uRDhqZGNUdlYxZ1VJdU5KU0txSklDZXpOdTZ2MUhEekZ1OUJhR3V4WnVLWHNsRTBuYjhvMVotREhobTFKTlppX213eE5BNi1fWUZNLUJvV3ppeXVCTXpDMWxCU3pKOV9aVmRxZDcyV3k4UHJiOWNMSnRPNkZxS2EycTZOdTZOaTVCVUFJeE5vYmd6U0haRk9wX3dLUzRwODl1SWttcXV5NXhNZW9EVlJjS2ZHRGVPOUJQR3FpUmRXV0ZEQUhERm5SQ0Q3Wnl0dTRxZ2FYX0k1OHdoTmhKdEk0bEp4ZEI?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T09:31:08.000Z",
+     "seen": "2026-11-18T11:53:33.403Z"
+    },
+    {
      "title": "جوجل تكشف عن هجوم إلكتروني بالذكاء الاصطناعي \"آلي بالكامل\"",
      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPM0NDeGFsYWNqLWI0RXhoLXdhM3hNZmNkM1ZNY1Rxc0RINGhJVXJuRUt4Ung1TGdnWjZTQkRTUDA4T2FqNkxyZVJJNldIVUZTYzhfZl9ITkttU2gtcXpxWk1WaWktTzAxd3N4WlpVOWp1YlNzcWNuckJWbmtvRlNReV9xX0Z3N0NOOERHb2doeUM5UTJNN3pITUFpbWlvUDBVZWw2bEJ3eUcta0s5cDBRZ0JCeWYySXFKdjdKZ3lBbG8tUWVhdFJTbFN1aGE3VllDUFlOYVR2WHBWd1lwOE5lN05aUm1RbmpjQUYtRFQ3NVpZUWRHclptb05Ib0xNSk5wQXdSSFdKWHFvQ2R1SnFpN2ZWeWllcHVnSnRIWERUaHNoYlctZjBZaDZ6TGl2VEl3UXdXZVdkeFZLdWF4RGhCdDVKZTdQLVNEbUh1Sm9XUmhyWmQ5bF9oSVg1Q2ktTjRadlVURGdCblNyNmZMZUh3WElVcFM3V2dDOU03TUVHdDI3ZU5oMEtGbVgxQ01VVUZydmR0NUdTNk9JckNnNEt2Ql8tV0VoVldvX292ejcyQzNrVXdzMDA0WmF3cFdvVWZuR1I3aHZ5ZEFUWEFkYUpUNG9ObmFBZENmUmc?oc=5",
      "source": "الشرق للأخبار",
@@ -514,13 +518,6 @@
      "time": "2026-11-18T09:27:00.000Z",
      "seen": "2026-11-18T10:53:34.137Z",
      "impact": "يهم المتابعين والمستثمرين في مصر لمعرفة الموقف الرسمي تجاه أمن واستقرار دول المنطقة."
-    },
-    {
-     "title": "في عصر الذكاء الاصطناعي.. \"إنسان\" كلمة العام 2026",
-     "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQbzVkRTdhUGl4U2JlYVh1eDRkODdjLWUtdXlseGxxZDkxQWdKRWxJel80Z1N6dEgtVHFIalVqVHlsTkY0d1JNcHBIaFZhMmYzQ2pwOUo0TmlUZVRmdExkYUR4akJibDdBVWU3VjBwVl9hRV83d2xfVjBEaGR4YzVtdkdDcUk4Y1MxUUdEVjhjV29VdXN1cHZzNnAwdzRwZWZDRk1qbHQ1eVQxMFlET3ZrZzEtQTB3WFNGT05VemtVRUppSUs4ZUEzb2ZfTFNZN3J4dmNnVk9FT3M3WXlpaDNYS29Bc0R5VUdWdWJ0cDRCdXBrWG5ORl9XMmkxQXhieDZtNnduVWctV0VqLTNrbjBhVzl2dXVZS0tGaFNreTF4eWFtM255dDdlZE1jbjM0d3h0MlYwak5yTk9RRGFCY3hWR25BY01JTV9BbmRlZGhTN1JSSDVmYk9zSFp3MnBLMlJOQmFJUGp6dm1XaXPSAfACQVVfeXFMUDdFMjNfVTFPOHpVaWY2eVkxcm44NWdLNTd6X0V3NHdCU2JLSzZyX2loUXlubC1TVDlaazhrbFJ6X0gwdmQxMUQwdS0tSERkNk1WNW1uQmxLNjJycGN0V205cmEtalg5WVRtYl9rbjdJampLWkxxMUUxaW9fQ0NkOHhQVll2Q3pqZk1RT3RUbkNJcC1uRDhqZGNUdlYxZ1VJdU5KU0txSklDZXpOdTZ2MUhEekZ1OUJhR3V4WnVLWHNsRTBuYjhvMVotREhobTFKTlppX213eE5BNi1fWUZNLUJvV3ppeXVCTXpDMWxCU3pKOV9aVmRxZDcyV3k4UHJiOWNMSnRPNkZxS2EycTZOdTZOaTVCVUFJeE5vYmd6U0haRk9wX3dLUzRwODl1SWttcXV5NXhNZW9EVlJjS2ZHRGVPOUJQR3FpUmRXV0ZEQUhERm5SQ0Q3Wnl0dTRxZ2FYX0k1OHdoTmhKdEk0bEp4ZEI?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T09:15:28.000Z",
-     "seen": "2026-11-18T11:53:33.403Z"
     },
     {
      "title": "الحوثيون: كيف تحولت حركة صعدة المغمورة إلى صداع إقليمي ودولي؟",
