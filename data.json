@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:02:31.391Z",
+ "updated": "2026-11-18T03:12:31.521Z",
  "minute": [
   "أعلنت وزارة الكهرباء في مصر عن تخفيض سعر الكيلووات لأصحاب العدادات الكودية، بالتزامن مع استقرار سعر صرف الدولار بالبنوك المصرية.",
   "تتحرك مصر لتأمين احتياجات المزارعين من الأسمدة في ظل ضغوط إمدادات الغاز.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T03:02:31.391Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T03:12:31.521Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5737,
-   "change": -1.63,
-   "asOf": "2026-11-18T02:52:31.000Z",
+   "value": 5740,
+   "change": -1.58,
+   "asOf": "2026-11-18T03:03:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6550,
-   "change": -1.63,
-   "asOf": "2026-11-18T02:52:31.000Z",
+   "value": 6553,
+   "change": -1.58,
+   "asOf": "2026-11-18T03:03:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3800,
-   "change": -1.66,
-   "asOf": "2026-11-18T02:52:31.000Z",
+   "value": 3802,
+   "change": -1.62,
+   "asOf": "2026-11-18T03:03:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0991,
    "change": -0.07,
-   "asOf": "2026-11-18T03:01:44.000Z",
+   "asOf": "2026-11-18T03:12:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.63,
-   "change": -0.55,
-   "asOf": "2026-11-18T02:50:26.000Z",
+   "value": 92.77,
+   "change": -0.4,
+   "asOf": "2026-11-18T03:03:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64344,
-   "change": -0.79,
-   "asOf": "2026-11-18T03:02:30.000Z",
+   "value": 64413,
+   "change": -0.68,
+   "asOf": "2026-11-18T03:13:22.000Z",
    "source": "Yahoo Finance"
   }
  ],
