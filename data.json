@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:44:52.573Z",
+ "updated": "2026-11-18T19:54:53.144Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,35 +10,35 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T19:44:52.573Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T19:54:53.144Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.76,
-   "change": 0.2,
-   "asOf": "2026-11-18T18:23:44.000Z",
+   "value": 53.7,
+   "change": 0.09,
+   "asOf": "2026-11-18T19:53:06.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5632,
-   "change": -3.43,
-   "asOf": "2026-11-18T19:34:49.000Z",
+   "value": 5626,
+   "change": -3.54,
+   "asOf": "2026-11-18T19:44:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6430,
-   "change": -3.43,
-   "asOf": "2026-11-18T19:34:49.000Z",
+   "value": 6423,
+   "change": -3.54,
+   "asOf": "2026-11-18T19:44:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +46,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3724,
-   "change": -3.63,
-   "asOf": "2026-11-18T19:34:49.000Z",
+   "change": -3.62,
+   "asOf": "2026-11-18T19:44:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0966,
    "change": -0.29,
-   "asOf": "2026-11-18T19:44:46.000Z",
+   "asOf": "2026-11-18T19:54:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.05,
-   "change": -4.39,
-   "asOf": "2026-11-18T19:34:51.000Z",
+   "value": 89.17,
+   "change": -4.26,
+   "asOf": "2026-11-18T19:44:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7322,
-   "change": -0.25,
-   "asOf": "2026-11-18T19:44:55.000Z",
+   "value": 7321,
+   "change": -0.26,
+   "asOf": "2026-11-18T19:54:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62636,
-   "change": -3.48,
-   "asOf": "2026-11-18T19:44:53.000Z",
+   "value": 62680,
+   "change": -3.41,
+   "asOf": "2026-11-18T19:54:44.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزير الخارجية يبحث مع رئيس لجنة الاعتمادات بمجلس النواب الأمريكي تعزيز الشراكة الإستراتيجية",
-     "url": "https://www.elbalad.news/7186007",
+     "title": "نجم برشلونة يحسم مستقبله مع البلوجرانا خلال الأيام المقبلة",
+     "url": "https://www.elbalad.news/7186021",
      "source": "صدى البلد",
-     "time": "2026-11-18T19:44:31.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
+     "time": "2026-11-18T19:54:45.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
     },
     {
-     "title": "سقوط سباك من الطابق الرابع أثناء عمله في بورسعيد",
-     "url": "https://www.elbalad.news/7185996",
+     "title": "عناصر من الشرطة يتجمعون قرب قصر الإليزيه للمطالبة بزيادة رواتبهم",
+     "url": "https://www.elbalad.news/7186019",
      "source": "صدى البلد",
-     "time": "2026-11-18T19:43:59.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
+     "time": "2026-11-18T19:54:41.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
     },
     {
-     "title": "الاتحاد الألماني يعلن دعمه لديالو أمام إنفانتينو في رئاسة الفيفا",
-     "url": "https://www.elbalad.news/7186012",
+     "title": "محافظ بورسعيد يتفقد تركيب 100 كشاف جديد بشارعي نهضة مصر وعادل الشربيني",
+     "url": "https://www.elbalad.news/7186016",
      "source": "صدى البلد",
-     "time": "2026-11-18T19:43:50.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
+     "time": "2026-11-18T19:53:03.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
+    },
+    {
+     "title": "​السكة الحديد تحذر: حرق المخلفات بجوار القضبان يهدد سلامة الركاب وحركة القطارات",
+     "url": "https://www.youm7.com/story/2026/11/18/​السكة-الحديد-تحذر-حرق-المخلفات-بجوار-القضبان-يهدد-سلامة-الركاب/7624083",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T19:50:00.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
+    },
+    {
+     "title": "رئيس الوزراء يحدد معيار نجاح المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة",
+     "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOUlhqckNIMFkwRWh3dE1SSHlHQllWaDFUcWdJWXBIbzJJVGFiVnhJalNHWFVqeWJoamdYaXZ0Zmp3RUJIRU0yd1VJOXF4RWNQeFpUWnRfc1RxS1EyU3lIRTl0ZWNyRlpnS0MyQnNnQTBYMHh1MHh3ZkR3MWVsYThRdW1qSWszX2NjMFZkUF9lODJ4bTRrLWpQTUstUHE2UHZEY3NzemdvMDluMzFuLUhUWDVKak1laEN1cWhEUzlQZFZrWjZyNjViLXZ1QjJmSnd4OWEwWjJBSEF1ckR2b0ZFN3ZDbVYzZlF6eFRBUlREdGlraUt1OUhkSUdDeGwwelJpYWUybGExd293THFhanVrSWc5NlZVMHNid3VvT1haOGhXbVZrZ2k0NWZCLTVndWRNTnFpbFpFa2daNXhJNlZsVElYZ2YxTmVIOEJpam1FS1NPVUc3Wk5DZ1RVdk1pTTNiNUdWU2lPdi1KMnBtcnliTnV1WGVWV3NwM21kWUhSeWZUMTVZN05hMUFxUHgycTF0UzNHLUthc3JudjJJTzhReVp3SFJRdzdmUGxsX1NsOUE3NWhodXJvQjBBNUozMVl4SmFRblNGS3ZCU0lncFpTVTFVRHhBV0xSQW9LVzVhNDNRMFJWazVNZFJFUTJneURxaVRKTGVaYW1OeFdIWXF6NFY5ZzBSaHZMWW01cDY1THIyUWN5WTZxS3dLcnNBYlkwM0RkakUzbWlxYVJObnB0LXRLTEJ0OVV2Q0RXc05QVFIzY1pVeUkwWklWaHFoa1RWZjRDSFppd1JQNDA2ai0wZGJKWGJFRlNEUU16bklIYzd6WE1hLTA2TFRodjR4dDhiS3VZdGF1OFN4alZPcVp3RzFBZVdrSWFrOXpaeHBwSTNWZUNQeGZJU3pmQdIBsAVBVV95cUxOVGpiVXV1U2pIU1ZyOGNIUUNHc2I0UzRmbERxbG5TZWxWMU9xYU8wX1VoejlyWW81WlhTZ1NMS0hxS2dWVHgxbG5xVVRoOUNnZ0k5QWxZWFNwWGNQc3pLSlFYcFZtWGd2WXFWbFFzTUFSUXVQQ25LS3lQYUxyZ0lxa1dxcU5yOHhGUWhFZWVGNUlxWmtMbmdSd1VVMGZwYS1qY3FPY3NxU09Rak4wNTh2RnRqaUh3aG5YYVVMWHAxbHJsejVDeGt0RS1uSmdLT1ZQMDJoeElWY3p1LThzZm1FRWh4cVBiX2J6M0FvQ1BZVkhRSS1WVE5CblNhbTB5TzdqS0dLY0pJeGhpZm1jc0FLVzlxMWZkWEcyQjhaOEQ2S21KdTF0R3d0V3ZENmkwaGRWeW1OdmdFQmpvTG5hY2lCZ2dsUnRKQmpLVnptdDliamMzN0duUTROczhuTncyUGVKXzk4S19QOURYR0RFNzU3MTUxZ25SbE1zQlMtS3BqRl81Q3FiZEw1djR3SlB6RE9uRFNnZmdSMjUxT3JaNzRHTlVqN0d6enFBbU9jZUkxR1VOSnlXWmJHenpHZ1l2VnJ5YlRKZEYwdzlta21saTFfS2o0QkI5NXN4dlhqLTVIQXYyZGc5TzRkUzlvTGl0UUJEX0RpWTcxQ1JOS1ptX1YzZ25zZWFQRTdfd01XN015VWRDRm9fcWJfaHNjZllQS2pnYS0zc25fcFNqZGo4aWRyMjRtRXNVYzhjVFFQSFE0Yko0cWxxNjkzMXJ3Z1NjNE1MemNpeHU1YmJHZ29DVEN5MENqX2tfemlNTFVGVnQ1MFdVajVNbFZPcGd5VFFtMmFvYjNZT1RzUVZ5YnRIMHU0MHJoTGVtb0MwQ2FMSVF1azA2Q2EtQVAtYXRjckRaN1Rp?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T19:42:49.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
     },
     {
      "title": "وزير الخارجية يلتقى رئيس لجنة اعتمادات الأمن القومى بمجلس النواب الأمريكى",
@@ -202,20 +216,6 @@
      "seen": "2026-11-18T19:24:52.350Z"
     },
     {
-     "title": "وزير الطيران المدني يلتقي وزير النقل الكندي لبحث تعزيز التعاون بين الجانبين",
-     "url": "https://www.youm7.com/story/2026/11/18/وزير-الطيران-المدني-يلتقي-وزير-النقل-الكندي-لبحث-تعزيز-التعاون/7624019",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T19:15:00.000Z",
-     "seen": "2026-11-18T19:24:52.350Z"
-    },
-    {
-     "title": "مدبولي يشهد فعاليات إطلاق المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة - صور",
-     "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxQT19kT1ZieU8xQzJmYUhTbTFRQThmLVBaTEFKT3RqNFIwUURMc0ZKcXllbUFNUk04RVVFemdVZjRwaEVubVNkUUM2NmhXQnE2R01MdzdFeV8xSUVIWjJHTHlYMmJ4cFdGenZvOHp3YXlFVElNX3FXajE3ajl3SWlwRVlnV1JEQXZoa3dtbXBRYVNHd3hQcjR4NFprT240WGJHc1k0SG5fcEc0N0ZJY2pHTlY2MHk2VUc1TVJIYmpxU0tDN1R4YnhYT3ZvVVdFSmh5RnZvNnZYRlVpaUdXVFBMckpHMVd6WVhxZlQ4RFJMZHd1Q0tKdGRBMjBnZUdzQlZDNlNyT1lnRjFjTlZPNzNVRGtvS19sdjVvbG9JR1JBSWp3eklMcmF4WVBUNHhlcVM1eGVmWkRTQ2taQWNFVUZWMnlNWm5wOXNqT215TDdrcFo1b2F4aURxLWZva2pmM1NCd2UyUVdFbTZmZk10TUlPM0VKYWpYdzRjaWpXWTlkVEtHRXQ0QVh6NlE3cVM2SVU4UWVVNkVLNTlxUUx4YVotaEZZLU1kaUdZM096bG5KR0dfWmd6TXU5N2hFTl9BbHJRZlhsNzUwUkVSa1RIQUdwMUNXclRuQXAxZ1hlUXZNbDB6M3FUdVVmdTlkd1ZmdElNa2l4TUwydTZCWlVzTjZybXViNk5HWURJdDdzejRWbUg1dWhtTzFmb3E1OGNJQUlrcHRyaHByRHowUVNRM2tobng4ZVY2TlZNeS1SOVdTenJOVVVOQ3poQXFBYTVhUk85SDZtMkpKMndnSm8ycklGYWtqOUoxZ01IVTRnOVk4MnN5TkN2OFE4cVZEUXR5QVVYOXp6Tl8wSkpKUUhHWTM4NXJraWpyaDNTc1HSAbgFQVVfeXFMT1dHVHVjUTlfSjdvYnAtM1pPQ1hmakFmSTlCb3ZtWFpqNjI1Z2VzdnUtZmFQR29kZ25zc0liQ1AwYWlBQXQ3dnBObC1DX0hYa1FvdW9tWWZ1a1czQmE2YjJ2TktJaWt4N3YybGZKbGE0R3gwazVRcWJLS0ZBSDFZLThRSmVhblEyb2o4aERBSDA0V0RsQktIRWJyc0d1ZnF0YkY3YVdmd2xTTHRZazF3elpOZ2RKNGxDVkhKbEptRlBESFduVUtkUWwxdkFIcE1mMkc5SEtwbEx6dGl5WVQtekFqd2w3YkZ0MnlDMWo0b0ZkQzliLVhHNTZiNW1pbk1CMDJuX2FyRmduMWlRTWs2dlhVQVpMMTgwa2pxanh6cjVydEFuNnprdjRqSFlwZ3ZwRjNieGhiWjJzTVpsZHphS0F3YjgtWjdxMWR6ZWtCeUlRVG94eVhNbWdtUHlZN05oUXZJeTkybUw4cDVmdzVVbEl5eko4eTByQl9rWE9oR1BjUnZrYmR1cVd4bzU0a3pBenI0MFI4WHllaTNwcm5yVkw0ZEdpRGxBLVZiWWhXQTU4VVBuWDRZbnhscEpVek9veUU2WHh4MlUxWWZHNnVjM2YxQkJRX3ZEZy0wY0UwMzdDd1ZPN0EyT1BaWExIVEhfeDNrTmRaa200WWxwVVVyMHhNS1hsa252N3VsQnk0c1VMSF9aNUhURXdPN1dXcjZVOFJXRTFFTEV1Z1NHd2hsb0tvSFRFd0ZzNHdMNE9RcGlpb3REQV9XQmd4bGg4LWtmd0xrbjhtckMtal9nX2RMQ3BvSENNZERHYjVXdkRWUDU4YlN6LXZfS0ZlVkMxYlRuanhEUkFPRHU1dmNsZWNxc0VaZWphbDJqazZ2TVpOR2ExcnY3cXd2ZUpMcG8wRFpXbm9rTzBUcnU5?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T19:11:29.000Z",
-     "seen": "2026-11-18T19:34:52.646Z"
-    },
-    {
      "title": "رئيس الوزراء: المختبر التنظيمي تلقى 15 فكرة مبتكرة قبل انطلاقه الرسمي",
      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTjZsOWFHZXUydTc5Z2h5RnVtdEZtMXNFNnF0UEFkYjNMMXdtMWV6RFFsQlVfYlhMSW42aHFmaVNQazFCa3UwcnUyZy1BVEZ6eWpjVmRxbjc2bzFaWFZHV1RsTmhlOE1ZMEhfUGo3djlQNkljUXUwU0tOS2ZSRHZqZFBGb2pkV0czMzBOTFNKeFNJVEVvb2UxX3J3bFg2UTZYTjhBNnE1SzZwdk1nZlUxWExVX0R6T0hMQUtuak4wMnIyYVFzWllzV09nSWRuTi1PM2s5LWZsemd4elc0el82SlNPUVMxWHNuaFlzemotNmJ2NmFySTVGUVlNUUlxUWE5T21ldmg0V2dzS2VuanVlTER3VDl6NHExQ3ZEX1RqeUR3ZGdVWXBVRnhMZzNLWF9Wb2RobkhnYmtBYzdZWWo0emtVNWdVMy1LYmd6X3k3Q1BPM2EySzN1cUp4MFpUOTlYbllrZGVTWDYwZw?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
@@ -242,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "العراق يقر خطة لإعادة انتشار قواته في جرف النصر على خلفية تحقيقات في تهريب النفط",
+     "url": "https://www.bbc.com/arabic/articles/cw074kjxv2gdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T19:50:01.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
+    },
+    {
+     "title": "ارتفاع سعر الدينار الأردني مقابل الجنيه في البنوك المصرية مساء اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZSWNOUVF5bkR2eThZVGpzRnBreS1NdXY5WTZld3BrMVctd2lNQXpTX3Z6LVFmN2Q2UWJUSDdCN3FBSDF2eXI0?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-18T19:43:00.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
+    },
     {
      "title": "التحالف يُعلن اعتراض مسيرتين أطلقتا باتجاه السعودية، والحوثيون يقولون إن الطيران السعودي شن 87 غارة على اليمن خلال 24 ساعة",
      "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
@@ -306,18 +320,18 @@
      "seen": "2026-11-18T17:54:52.306Z"
     },
     {
-     "title": "الإمارات والصومال: ما وراء الخلاف؟",
-     "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T17:09:59.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
-    },
-    {
      "title": "تدفقات محدودة للأموال الساخنة في مصر والدولار يرتفع",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPOURFV1ZjeWtTT1ktUVM1ZE5vR3hrTll0NVNwWTZRNEl0RmxPLTlCTnJMM2M1cmNPQ0lJcFh3M3JzOWVITEZqYS1DeVIydVN6RVlPa3hieHF6QVhVQ0ZDcGNCbFBOSXk2bGFET19WeDU5c3hpR3RBckl5RllTSy1heExhZlBVVUNwTmx6M21ZaVhRSkdHSklLTXdEd2RhZmpyTHp6aEtvTzRQTXoyVkUyRW9FbEFsb2FHbXUyWFdMWkpiZkRTeXA3UVk3RmFDTFlib2pOZkZGQ0IxYkRHdWdxS0dyVHZnV09SNWtMSWNKWWl2ZTEtY3lnZ2VzSzlBaHZRTV9JdzJYSm9tOF9aMVFZcHR4VDJzdVVUWVE5ZDdjX2FDdUpYeXZKUG5sOHNuclROZDRvZ2NIN2htcmt2YXNqVFdnT3B1SFpFbnMtcE5pUjRqTGdySmFYLVBjRWhmNDUwMTFVT3FCcEp2V2RjVU9UVFlSUmMwWTV1NFhCaWRLSmFiZWFHXy10bllVVEFhZGFZMmVuNVgyZHktejBsRXVOWnYyZnFvVHUtN0IyeXIyUkNBRmNvTmg2RWM5Z1hXZVlzWlFWX3kzSDR1THFyQ25aczJR0gHXA0FVX3lxTE5YMHBwazhvTzcxVWxxUjZqR2NrRVJ1QjVVYUdrZUhMQTkwc2s0dG1CSWVsZUNnTDhFVE84VHRKNk9PcHV2UFg0ZjZSbk5IWVJ5QUw2UEVieTZvQnNoWE1Tbml2NlM4enZQUlRXaW03QjRDZDhzM3JOUHR0ZXIzOFhIaHNha0tsMEJ3aHZxbS03Nkg0Q0hOM05RNTNrZHRSX0h6eVg1aUR3Z1VxZG4zY2RlbFcwNGtPNzJOVzFkUmVJY0VzNzhTUlpSMkJ0LXotZEVFMi1SbmhIRU9SYnp1LVFpZ2hRX0VJZGRMSTFDeW00ZndqdDBjMldNUGM4WU5ycG5vV01FdU9kLWRxREpMaS1BYl9IS0lXQkI1RDlWazljZGJLMU1FbEtqZUN1dVk0cVlSS0RfV01oVDlGUk55bVVrUHdadlhRc2d3Zmo3cXlHZVpvYm8zeXFXQ2Z4cUNlbHRISTgyNVpMRWVBdi00dnRlekQzTV9LZWxnY01ndG1VVUVNSTVsY0xOaGMwdWdYdWg3aUprVVNoVWtxVXl4bWhnbmw0dXRUYnpaVXlBaUhfTmZZLW5TRFkzZDc3MFg2S3I3U1M5VTMxLWIwWm5sVlhNd0VxVXlKcw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOWDBwcGs4b083MVVscVI2akdja0VSdUI1VWFHa2VITEE5MHNrNHRtQkllbGVDZ0w4RVRPOFR0SjZPT3B1dlBYNGY2Um5OSFlSeUFMNlBFYnk2b0JzaFhNU25pdjZTOHp2UFJUV2ltN0I0Q2Q4czNyTlB0dGVyMzhYSGhzYWtLbDBCd2h2cW0tNzZINENITjNOUTUza2R0Ul9IenlYNWlEd2dVcWRuM2NkZWxXMDRrTzcyTlcxZFJlSWNFczc4U1JaUjJCdC16LWRFRTItUm5oSEVPUmJ6dS1RaWdoUV9FSWRkTEkxQ3ltNGZ3anQwYzJXTVBjOFlOcnBub1dNRXVPZC1kcURKTGktQWJfSEtJV0JCNUQ5Vms5Y2RiSzFNRWxLamVDdXVZNHFZUktEX1dNaFQ5RlJOeW1Va1B3WnZYUXNnd2ZqN3F5R2Vab2JvM3lxV0NmeHFDZWx0SEk4MjVaTEVlQXYtNHZ0ZXpEM01fS2VsZ2NNZ3RtVVVFTUk1bGNMTmhjMHVnWHVoN2lKa1VTaFVrcVV5eG1oZ25sNHV0VGJ6WlV5QWlIX05mWS1uU0RZM2Q3NzBYNktyN1NTOVUzMS1iMFpubFZYTXdFcVV5SnPSAdcDQVVfeXFMTlgwcHBrOG9PNzFVbHFSNmpHY2tFUnVCNVVhR2tlSExBOTBzazR0bUJJZWxlQ2dMOEVUTzhUdEo2T09wdXZQWDRmNlJuTkhZUnlBTDZQRWJ5Nm9Cc2hYTVNuaXY2Uzh6dlBSVFdpbTdCNENkOHMzck5QdHRlcjM4WEhoc2FrS2wwQndodnFtLTc2SDRDSE4zTlE1M2tkdFJfSHp5WDVpRHdnVXFkbjNjZGVsVzA0a083Mk5XMWRSZUljRXM3OFNSWlIyQnQtei1kRUUyLVJuaEhFT1JienUtUWlnaFFfRUlkZExJMUN5bTRmd2p0MGMyV01QYzhZTnJwbm9XTUV1T2QtZHFESkxpLUFiX0hLSVdCQjVEOVZrOWNkYksxTUVsS2plQ3V1WTRxWVJLRF9XTWhUOUZSTnltVWtQd1p2WFFzZ3dmajdxeUdlWm9ibzN5cVdDZnhxQ2VsdEhJODI1WkxFZUF2LTR2dGV6RDNNX0tlbGdjTWd0bVVVRU1JNWxjTE5oYzB1Z1h1aDdpSmtVU2hVa3FVeXhtaGdubDR1dFRielpVeUFpSF9OZlktblNEWTNkNzcwWDZLcjdTUzlVMzEtYjBabmxWWE13RXFVeUpz?oc=5",
      "source": "العربية",
      "time": "2026-11-18T16:55:00.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
+     "seen": "2026-11-18T19:54:53.144Z"
+    },
+    {
+     "title": "أعطال غامضة تضرب أميركا.. والاستخبارات تكشف الأسباب",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNUHFiODFGM3pMY1U5OGxRcGhmZ0l3bG5UR1B0d25lTEJxa1pUdkl0WGl0N2pHZmVGTHZhVVYwMFNGc1g1VHVZUnBoTWU2eVdyMVdYTkxoek9VV0RnNXlieGVrOVV2Tk9ZTFFuV2VXS3M0NHE1T3dqTUlKVHhjZjZ4bldhc1EzaEFGYWJfdTV4NEdScGZZekJuSnRJaWZGcWZ3bzVNSWZ3X01zRm05QWhQel9zZnNrMjFLZjNRaFBZeU9uOV9QU004UEtfZHpDaVhoMkdfUFVhTUFCUGNVUGJyYy12TWRqbW84cHRDRGxGTGMxR3U5WGxQYnhHcy14dTQ4WG1sMWZoblR3NktuWVJWZWZ2Q05qN0J2Nk5EQm54NUlEdm5BWWpVeUhlQmJsTkd0Zl8xWDdfaUpWdTAtaHlreFRETV9ZenJiSU43M2tKREpQUzJaa3JJajlfcU8xcHFMYklONDBsaHBtSzM4T0o5MlZUWHA1T2ZfbHVibW9yQ0NlNTY2MURNTHYtN01TTC13RFBCZjhNVHkyMlBvOHU4NnZGRHlnaUd6X2hWbTFCSlZpdk1qSFNV0gG8A0FVX3lxTE45RDRqV0gtWE0zMENsQ2gzWVJuUDh6VjhNUzRyRF81MEdWcVdOME0xNEhxN0g5RXFtOFlFTmc3Z29GZ3lLRjB5QUx4QmRxRFlpSUVrYU50M1FUWmE1M0tuclI4S3o1LWlBRXNsUFBnb3FnSUhFZUVNeWNPOHk0NnBERksxUktLZGdVYUZQNmNUaGFvdDFFOV9WcGFqbDlhaGxhaFpsVlpZUVB1eUJTNWotYjhWNjhyRW85amI1R2xsYmpIY2owSXdoMU1IYUtkRGMxVG5KYV9MRmJVNDlndjNfWFIxUWtFSHNObGRTcUFqMXc2YWdsMlFCbC1aOVBVMGhReU9IbTZVcFBuZGhhMGZIc1ZqNFNFaVFWR3F1ci1xa2pZeGJUUmNNaGZ2SU15UkE4NG1jYmJsTjBUX1g2YUlBSTQzMzlfREt6Vkw4LV9XRFZveHhFaEhUVEJoOWRDQXUxYTlzamliN21MbXc2Z2ZlcGNZSm5yS2JzWUFlblR0TG0tckxsWVZ3VDVKaGtWcGVBVUhGbmJsa2FydDM3OWhlUnBBcFZqa0liWHluNEd5R0xBT3dLMzEwYmlxeg?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T16:53:50.000Z",
+     "seen": "2026-11-18T17:14:52.984Z"
     },
     {
      "title": "«حسن علام القابضة» تطور مشروع «نيفيرا» غرب القاهرة على مساحة 36 مليون متر مربع",
@@ -325,20 +339,6 @@
      "source": "البورصة",
      "time": "2026-11-18T16:46:15.000Z",
      "seen": "2026-11-18T17:54:52.306Z"
-    },
-    {
-     "title": "«البترول» توقع اتفاقيتين لتنفيذ التكسير الهيدروليكي في 30 بئراً بالصحراء الغربية",
-     "url": "https://alborsaanews.com/2026/11/18/2007543",
-     "source": "البورصة",
-     "time": "2026-11-18T16:41:29.000Z",
-     "seen": "2026-11-18T17:54:52.306Z"
-    },
-    {
-     "title": "أعطال غامضة تضرب أميركا.. والاستخبارات تكشف الأسباب",
-     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNUHFiODFGM3pMY1U5OGxRcGhmZ0l3bG5UR1B0d25lTEJxa1pUdkl0WGl0N2pHZmVGTHZhVVYwMFNGc1g1VHVZUnBoTWU2eVdyMVdYTkxoek9VV0RnNXlieGVrOVV2Tk9ZTFFuV2VXS3M0NHE1T3dqTUlKVHhjZjZ4bldhc1EzaEFGYWJfdTV4NEdScGZZekJuSnRJaWZGcWZ3bzVNSWZ3X01zRm05QWhQel9zZnNrMjFLZjNRaFBZeU9uOV9QU004UEtfZHpDaVhoMkdfUFVhTUFCUGNVUGJyYy12TWRqbW84cHRDRGxGTGMxR3U5WGxQYnhHcy14dTQ4WG1sMWZoblR3NktuWVJWZWZ2Q05qN0J2Nk5EQm54NUlEdm5BWWpVeUhlQmJsTkd0Zl8xWDdfaUpWdTAtaHlreFRETV9ZenJiSU43M2tKREpQUzJaa3JJajlfcU8xcHFMYklONDBsaHBtSzM4T0o5MlZUWHA1T2ZfbHVibW9yQ0NlNTY2MURNTHYtN01TTC13RFBCZjhNVHkyMlBvOHU4NnZGRHlnaUd6X2hWbTFCSlZpdk1qSFNV0gG8A0FVX3lxTE45RDRqV0gtWE0zMENsQ2gzWVJuUDh6VjhNUzRyRF81MEdWcVdOME0xNEhxN0g5RXFtOFlFTmc3Z29GZ3lLRjB5QUx4QmRxRFlpSUVrYU50M1FUWmE1M0tuclI4S3o1LWlBRXNsUFBnb3FnSUhFZUVNeWNPOHk0NnBERksxUktLZGdVYUZQNmNUaGFvdDFFOV9WcGFqbDlhaGxhaFpsVlpZUVB1eUJTNWotYjhWNjhyRW85amI1R2xsYmpIY2owSXdoMU1IYUtkRGMxVG5KYV9MRmJVNDlndjNfWFIxUWtFSHNObGRTcUFqMXc2YWdsMlFCbC1aOVBVMGhReU9IbTZVcFBuZGhhMGZIc1ZqNFNFaVFWR3F1ci1xa2pZeGJUUmNNaGZ2SU15UkE4NG1jYmJsTjBUX1g2YUlBSTQzMzlfREt6Vkw4LV9XRFZveHhFaEhUVEJoOWRDQXUxYTlzamliN21MbXc2Z2ZlcGNZSm5yS2JzWUFlblR0TG0tckxsWVZ3VDVKaGtWcGVBVUhGbmJsa2FydDM3OWhlUnBBcFZqa0liWHluNEd5R0xBT3dLMzEwYmlxeg?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T16:29:22.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
     }
    ]
   },
@@ -479,6 +479,13 @@
      "seen": "2026-11-18T17:24:53.159Z"
     },
     {
+     "title": "الإمارات والصومال: ما وراء الخلاف؟",
+     "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T17:09:59.000Z",
+     "seen": "2026-11-18T17:14:52.984Z"
+    },
+    {
      "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
      "source": "الشرق الأوسط",
@@ -520,13 +527,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T15:21:03.000Z",
      "seen": "2026-11-18T13:53:34.131Z"
-    },
-    {
-     "title": "الدولار عند 150 \"ليرة جديدة\"، كيف ينعكس تراجع العملة السورية على الظروف المعيشية؟",
-     "url": "https://www.bbc.com/arabic/articles/c893rqg6g6qko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T15:08:36.000Z",
-     "seen": "2026-11-18T15:13:33.858Z"
     },
     {
      "title": "بدء إطلاق GTA VI من نيوزيلندا.. وإتاحتها في الإمارات والسعودية منتصف الليل",
