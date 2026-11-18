@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:43:33.528Z",
+ "updated": "2026-11-18T12:53:33.401Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -9,43 +9,45 @@
   "at": "2026-11-18T12:33:33.705Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T12:53:33.401Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.78,
-   "change": 0.24,
-   "asOf": "2026-11-18T12:39:13.000Z",
+   "value": 53.77,
+   "change": 0.22,
+   "asOf": "2026-11-18T12:52:30.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5698,
-   "change": -2.3,
-   "asOf": "2026-11-18T12:33:22.000Z",
+   "value": 5681,
+   "change": -2.59,
+   "asOf": "2026-11-18T12:43:47.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6506,
-   "change": -2.3,
-   "asOf": "2026-11-18T12:33:22.000Z",
+   "value": 6486,
+   "change": -2.59,
+   "asOf": "2026-11-18T12:43:47.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3766,
-   "change": -2.53,
-   "asOf": "2026-11-18T12:33:22.000Z",
+   "value": 3756,
+   "change": -2.81,
+   "asOf": "2026-11-18T12:43:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,16 +65,16 @@
    "unit": "$",
    "value": 1.0963,
    "change": -0.32,
-   "asOf": "2026-11-18T12:42:46.000Z",
+   "asOf": "2026-11-18T12:53:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.22,
-   "change": -3.14,
-   "asOf": "2026-11-18T12:32:09.000Z",
+   "value": 90.25,
+   "change": -3.1,
+   "asOf": "2026-11-18T12:42:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63914,
-   "change": -1.51,
-   "asOf": "2026-11-18T12:43:28.000Z",
+   "value": 64080,
+   "change": -1.25,
+   "asOf": "2026-11-18T12:53:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,31 +139,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إحالة أوراق أب متهم بالتعدي على نجلته وإنجاب طفل منها سفاحا إلى المفتي بالشرقية",
-     "url": "https://www.elbalad.news/7185506",
+     "title": "لتيسير حركة المواطنين ومنع التكدسات.. تفاصيل تطوير مزلقاني لعبة وبرطس وازدواج محور العربي بأوسيم",
+     "url": "https://www.elbalad.news/7185535",
      "source": "صدى البلد",
-     "time": "2026-11-18T12:42:36.000Z",
-     "seen": "2026-11-18T12:43:33.528Z"
+     "time": "2026-11-18T12:52:56.000Z",
+     "seen": "2026-11-18T12:53:33.401Z"
+    },
+    {
+     "title": "ناسا: «فوياجر 1» تجتاز عتبة تاريخية وتبتعد عن الأرض لمسافة تستغرق الإشارة منها 24 ساعة",
+     "url": "https://www.elbalad.news/7185536",
+     "source": "صدى البلد",
+     "time": "2026-11-18T12:52:30.000Z",
+     "seen": "2026-11-18T12:53:33.401Z"
+    },
+    {
+     "title": "الزمالك يواجه سيتي كلوب الشروق في دور الـ 32 بكأس مصر لكرة اليد",
+     "url": "https://www.elbalad.news/7185526",
+     "source": "صدى البلد",
+     "time": "2026-11-18T12:51:06.000Z",
+     "seen": "2026-11-18T12:53:33.401Z"
     },
     {
      "title": "مجلس الوزراء يوافق على 5 قرارات خلال الاجتماع الأسبوعي.. تعرف عليها",
      "url": "https://www.youm7.com/story/2026/11/18/مجلس-الوزراء-يوافق-على-5-قرارات-خلال-الاجتماع-الأسبوعي-تعرف/7623593",
      "source": "اليوم السابع",
      "time": "2026-11-18T12:42:00.000Z",
-     "seen": "2026-11-18T12:43:33.528Z"
-    },
-    {
-     "title": "الحكومة توافق على 5 قرارات جديدة اليوم.. إليك التفاصيل",
-     "url": "https://www.elbalad.news/7185515",
-     "source": "صدى البلد",
-     "time": "2026-11-18T12:41:37.000Z",
-     "seen": "2026-11-18T12:43:33.528Z"
-    },
-    {
-     "title": "عطلوا حركة المرور.. القبض على 8 قائدى دراجات نارية بالشرقية",
-     "url": "https://www.elbalad.news/7185511",
-     "source": "صدى البلد",
-     "time": "2026-11-18T12:41:22.000Z",
      "seen": "2026-11-18T12:43:33.528Z"
     },
     {
@@ -243,6 +245,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الليرة السورية مقابل الدولار في مصرف دمشق اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrYkEzS3p5WGZCOXBFTHJWd0t0WlZQRlNRMjM1T2JFZnpVRDE0SHVnbTRrQXpUQVpBRjdVaFo5QThxUWt0T2Yw?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-18T12:40:00.000Z",
+     "seen": "2026-11-18T12:53:33.401Z"
+    },
     {
      "title": "سعر العملات الأجنبية اليوم الأربعاء 18 نوفمبر 2026 في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE52c3hpQ29CR0phYU9LRmx4TnR5cEZOS0RRTUhObmZ5ZHBuM2JKeG9SdkZ4VF9ZejB2anhXbkMyb3VRZlYz?oc=5",
@@ -342,13 +351,6 @@
      "time": "2026-11-18T10:24:11.000Z",
      "seen": "2026-11-18T10:33:19.307Z",
      "impact": "يهتم به قطاع الأعمال والمستثمرون في مصر لمتابعة التحديثات الرسمية للبنك المركزي وتأثيرها على التعاملات المالية."
-    },
-    {
-     "title": "سعر الذهب المحلي يعوض جزءا من خسائره الصباحية.. وعيار 21 بـ5840 جنيها",
-     "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNbS1hMjBMS1ZZTzdZTlZ0SVhnUFkta1VLcVBkYTFrT2h1X3pUTDBiN1FlX1RVS0RFcy1EU2lVWUM1TThJdnFSX0NCVGtfVnRhS0d4Zl9rRGlyV1VXRlNUSFdFTHV2a0JmR1h5RmV0Zi0zUzB6U1hkNWg1aWNzeUtXSGlpSzJYbjZQQ3AxZThOS0g2WXRxMEFaQUZMcWVKQkx4MnFnRlZqelFzVG5jbzNGTFVadUR3Q3BPcFJPd2k0VG4zMERsR1hkcDI1dGZ4eVZRY1lvU3lUc0g2OHJIXzU2QnFqTjJpSU56SVV5cTBoTzRmUE9ORHB3UzFNUU5XcTlObDExMXZGTFhuUkRVZ2lIWlp0dU9GZmVvOXk2YjdocDNWTGs2dXRHWXhPcTZfY2JqbzVhMW04MlE4Wkdfa29yUEdXcTZCUVBYaXlBRGJPQnJqLWI3VElLX2FnS2VKdWhxdnJ4Yk9LQTNKdk1DaGRxMm51RGdsM1VNVWthdFBBVlhKamF0bS1XVG5WOFF3RzJDMGlQbm5kUXdoeDRpWExDRGs1NzF1Q2dCc20xZVgtZzVMVnpnczRaLUVnRUhQMlFtd1HSAbwDQVVfeXFMTkhVbXJ0N2o4S2xrdVhoempzZW1DRzM5QU1pVFlCbFNpWUd3ZHlIRnVSU1Bxc3BhZzZCcWVTNHF4ejBsM0M5VWVBZGVTVlJNaHpaWXhsSWJKX1hCQXhVWERlcTB0SWktUjN4Q2pOcmFFb1JYa2d4T2xmdU1waVE1NXJyekZwbks5TGtUOGVjNHhwUVp2RkRjbGk0a1hMOXB0UkhYSWhyZEpYSy1GejB1T1lTb2RJTjlSMkYyNGpDT2tRS1VYbllWZllIWHNCSGpQM0wydk84MkFWN1g5UFp2c1Z4WDJBSUVzbWNQUzM1M2FlMnNmLWNKZjFxX0dxZjF6Ulptem94a2oxR0ViNl9rUTQxOUozZ2VrMGJxYks2X0dURWpCSGJBcng5eWtOeHZpVlp0eGFxQW5ZYk1yT3FhSzNIUDhweHJZSHFhbXJobUNySWtBcVBmNTh6SER1RnFUN2pDMzdJWm1CNm9ZVTEteGw3bjJidkRjRTVUWVd1RmlfUk5PeG5GTjhULWZ5N2JWT3ZhUERlSG1GMll0MTRMRldUUXZvalVMbkhfRS14ZDdpaF9qdlJtNjZHNVZy?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T10:14:00.000Z",
-     "seen": "2026-11-18T11:23:33.769Z"
     }
    ]
   },
@@ -364,11 +366,25 @@
      "seen": "2026-11-18T12:33:33.705Z"
     },
     {
+     "title": "قمة ثلاثية مرتقبة.. بوتين وترامب وشي على طاولة حوار واحدة",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D9%82%D9%85%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%B4%D9%8A-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-18T12:22:39.000Z",
+     "seen": "2026-11-18T12:53:33.401Z"
+    },
+    {
      "title": "قمة ترامب وبوتين وشي جين بينغ في الصين: ماذا تعني لأوكرانيا ولماذا تثير قلق أوروبا؟",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HNnpjaDlJSlNHSXFuNmdxMHlBTV9meEptM1JYNDJSbnlDdUR3Q0JVWFR1UGRlYVZOMFpjMGg1WGlyZk84Y3V0YlJPY0xTSTdzc0ZVUVF2TUpzaHFjWXfSAWNBVV95cUxNaUIzcnZhak05aWU1Q2NpOWRyZ1pjaXlUN3RZNDhSU2RYQjdQbDJSZGdZWWtKalkxbkFDak93aXVBakR2OUwzYWdQQ2t3M3Uxb1NuRkw5enFuQUNUWkJmZ0NqbGM?oc=5",
      "source": "BBC",
      "time": "2026-11-18T11:59:41.000Z",
      "seen": "2026-11-18T10:43:20.154Z"
+    },
+    {
+     "title": "الولايات المتحدة تستهدف موقعاً في جزيرة قشم، وهجمات إيرانية على الكويت والبحرين",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FcnJTdnBiLUM5NDc3dzdxT1lWaDdQWDdHMFljajJTWk9XV2pPRkszT0ZlaWVZTEJOVFpZRlRWSk5SaXRaV09zbVVZelA2QXZIMy1KbXF5VUl4WEVJVVHSAWNBVV95cUxOenY5OVVqMWhBcTY0TUItQmlMcktwUjU0ZXRqMHVZczBPYU5LN2FNVzh5RFJaS25lejZReGltRkpxYUVONFZGRS1sUHlvc0t4RmE0X2Y2MzhEZ041aktMSmFyYkk?oc=5",
+     "source": "BBC",
+     "time": "2026-11-18T11:59:41.000Z",
+     "seen": "2026-11-18T12:53:33.401Z"
     },
     {
      "title": "كمال الأجسام.. تونسيات يتحدين الصورة النمطية ويكسرن احتكار الرجال للرياضة",
@@ -384,13 +400,6 @@
      "time": "2026-11-18T11:53:40.000Z",
      "seen": "2026-11-18T12:03:33.892Z",
      "impact": "تعرض أكبر المصارف الألمانية لضغوط قد يثير اهتمام المستثمرين المتابعين لحركة القطاع المصرفي والأسواق المالية العالمية."
-    },
-    {
-     "title": "ما هي المنتخبات المتأهلة لنهائيات كأس الأمم الأفريقية 2027 حتى الآن؟",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261118-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D9%87%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-2027",
-     "source": "فرانس 24",
-     "time": "2026-11-18T11:45:38.000Z",
-     "seen": "2026-11-18T11:53:33.403Z"
     },
     {
      "title": "\"المكالمة الأخيرة\" تكشف وجها آخر لعلاقة بايدن ونتنياهو",
@@ -447,13 +456,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-18T10:23:39.000Z",
      "seen": "2026-11-18T10:53:34.137Z"
-    },
-    {
-     "title": "حاملة الطائرات ثيودور روزفلت في الشرق الأوسط، فماذا نعرف عنها؟",
-     "url": "https://www.bbc.com/arabic/watch/cm0rkq7p1zd7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T10:10:27.000Z",
-     "seen": "2026-11-18T10:13:19.245Z"
     }
    ]
   },
@@ -476,6 +478,13 @@
      "time": "2026-11-18T11:52:07.000Z",
      "seen": "2026-11-18T11:53:33.403Z",
      "impact": "يوفر للمستهلكين والمستثمرين في سوق السيارات بالمنطقة خياراً جديداً مع فتح حجز طراز نيسان الحديث."
+    },
+    {
+     "title": "حاملة الطائرات ثيودور روزفلت في الشرق الأوسط، فماذا نعرف عنها؟",
+     "url": "https://www.bbc.com/arabic/watch/cm0rkq7p1zd7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T10:10:27.000Z",
+     "seen": "2026-11-18T10:13:19.245Z"
     },
     {
      "title": "تستخدمها البنوك والمؤسسات الحكومية حول العالم.. اكتشاف ثغرة في لغة جافا",
@@ -552,14 +561,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T06:31:58.000Z",
      "seen": "2026-11-18T06:33:18.353Z"
-    },
-    {
-     "title": "كيف استهدف جسر القرم، وما سر أهميته بالنسبة إلى بوتين؟",
-     "url": "https://www.bbc.com/arabic/articles/c60ev4wxz2r0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T04:31:28.000Z",
-     "seen": "2026-11-18T04:42:31.562Z",
-     "impact": "قد تؤثر التطورات العسكرية حول جسر القرم على استقرار أسواق السلع العالمية وسلاسل الإمداد التي تعتمد عليها مصر."
     },
     {
      "title": "تقرير أممي: المسيّرات مسؤولة عن نحو 75 % من القتلى المدنيين في السودان هذا العام",
