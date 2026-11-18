@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:05:20.151Z",
+ "updated": "2026-11-18T22:15:19.578Z",
  "minute": [
   "تراجعت مؤشرات البورصة المصرية وأسعار النفط والذهب والفضة، مقابل ارتفاع سعر الدولار والدينار الكويتي واستقرار الدرهم الإماراتي.",
   "أعلنت وزارة البترول التعاون مع شركة يونايتد إنرجي للتوسع في مشروعات الطاقة المتجددة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T22:05:20.151Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T22:15:19.578Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5629,
-   "change": -3.48,
-   "asOf": "2026-11-18T21:57:05.000Z",
+   "value": 5632,
+   "change": -3.44,
+   "asOf": "2026-11-18T21:59:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6427,
-   "change": -3.48,
-   "asOf": "2026-11-18T21:57:05.000Z",
+   "value": 6430,
+   "change": -3.44,
+   "asOf": "2026-11-18T21:59:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3726,
-   "change": -3.57,
-   "asOf": "2026-11-18T21:57:05.000Z",
+   "value": 3728,
+   "change": -3.53,
+   "asOf": "2026-11-18T21:59:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0977,
-   "change": -0.19,
-   "asOf": "2026-11-18T22:06:44.000Z",
+   "value": 1.0978,
+   "change": -0.18,
+   "asOf": "2026-11-18T22:15:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -74,7 +74,7 @@
    "unit": "$/برميل",
    "value": 88.68,
    "change": -4.79,
-   "asOf": "2026-11-18T21:55:36.000Z",
+   "asOf": "2026-11-18T21:59:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62321,
-   "change": -3.97,
-   "asOf": "2026-11-18T22:07:10.000Z",
+   "value": 62331,
+   "change": -3.95,
+   "asOf": "2026-11-18T22:16:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بعد منع ظهورها الإعلامي.. لقاء سويدان تسدّد الاشتراك النقابي وتؤكد: زوال السبب يقتضي زوال ما ترتب عليه من آثار",
-     "url": "https://www.elbalad.news/7186135",
+     "title": "3 ركلات جزاء أثارت الجدل.. كواليس إنسحاب الجزائر من مباراة إسبانيا في مونديال مبتوري الساق",
+     "url": "https://www.elbalad.news/7186149",
      "source": "صدى البلد",
-     "time": "2026-11-18T22:00:37.000Z",
-     "seen": "2026-11-18T22:05:20.151Z"
+     "time": "2026-11-18T22:14:47.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
+     "title": "برلمانية: تعديلات مقترحة لتغليظ عقوبات الاغتصاب وهتك العرض",
+     "url": "https://www.elbalad.news/7186127",
+     "source": "صدى البلد",
+     "time": "2026-11-18T22:13:43.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
+     "title": "رئيس شعبة المحمول: إيقاف 50 ألف هاتف منذ بداية عام 2026",
+     "url": "https://www.elbalad.news/7186113",
+     "source": "صدى البلد",
+     "time": "2026-11-18T22:12:00.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
     },
     {
      "title": "أخبار × 24 ساعة.. نمو الناتج المحلى بنسبة 4.9% متجاوزًا توقعات المؤسسات الدولية",
@@ -163,20 +177,6 @@
      "title": "وزير الطيران يبحث مع مسؤولي الاتحاد الأوروبي تعزيز التعاون المشترك في السلامة والاستدامة",
      "url": "https://www.youm7.com/story/2026/11/19/وزير-الطيران-يبحث-مع-مسؤولي-الاتحاد-الأوروبي-تعزيز-التعاون-المشترك/7624167",
      "source": "اليوم السابع",
-     "time": "2026-11-18T22:00:00.000Z",
-     "seen": "2026-11-18T22:05:20.151Z"
-    },
-    {
-     "title": "الجمعة البيضاء تقترب.. 5 نصائح للتسوق أونلاين وتجنب العروض الوهمية",
-     "url": "https://www.elbalad.news/7186101",
-     "source": "صدى البلد",
-     "time": "2026-11-18T22:00:00.000Z",
-     "seen": "2026-11-18T22:05:20.151Z"
-    },
-    {
-     "title": "3 أيام قريباً.. موعد الإجازة الرسمية المقبلة في مصر",
-     "url": "https://www.elbalad.news/7186094",
-     "source": "صدى البلد",
      "time": "2026-11-18T22:00:00.000Z",
      "seen": "2026-11-18T22:05:20.151Z"
     },
@@ -351,6 +351,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الجيش العراقي ينتظر \"ساعة الصفر\" لدخول جرف الصخر",
+     "url": "https://www.skynewsarabia.com/middle-east/1905663-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T22:07:17.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
+     "title": "بعد خطف واعتداء على مطران.. بطاركة يطالبون بحماية المسيحيين في سوريا",
+     "url": "https://www.dw.com/ar/بعد-خطف-واعتداء-على-مطران-بطاركة-يطالبون-بحماية-المسيحيين-في-سوريا/a-79986214?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T21:57:00.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
      "title": "\"تقديراً لإرثه التاريخي\".. السيسي يعلّق على تكريم الكونغرس للسادات",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/sisi-comments-on-congress-honoring-sadat",
      "source": "CNN بالعربية",
@@ -400,6 +414,27 @@
      "seen": "2026-11-18T19:14:52.585Z"
     },
     {
+     "title": "شاهد.. أشرف حكيمي يفاجئ تاجرا في سوق شعبية بالمغرب",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%b4%d8%a7%d9%87%d8%af-%d8%a3%d8%b4%d8%b1%d9%81-%d8%ad%d9%83%d9%8a%d9%85%d9%8a-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d8%aa%d8%a7%d8%ac%d8%b1%d8%a7-%d9%81%d9%8a-%d8%b3%d9%88%d9%82?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T19:00:00.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
+     "title": "البحر يبتلع شواطئ الإسكندرية.. هل تنقذها الرمال من التآكل والغرق؟",
+     "url": "https://www.aljazeera.net/science/2026/11/19/%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d9%8a%d8%a8%d8%aa%d9%84%d8%b9-%d8%b4%d9%88%d8%a7%d8%b7%d8%a6-%d8%a7%d9%84%d8%a5%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a%d8%a9-%d9%87%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T18:58:33.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
+     "title": "تباين الأسهم الأمريكية عند الإغلاق بعد محضر الفدرالي ونتائج إنفيديا",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d8%aa%d8%a8%d8%a7%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d8%b3%d9%87%d9%85-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%b9%d9%86%d8%af-%d8%a7%d9%84%d8%a5%d8%ba%d9%84%d8%a7%d9%82?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T18:37:59.000Z",
+     "seen": "2026-11-18T22:15:19.578Z"
+    },
+    {
      "title": "الوكالة الدولية للطاقة الذرية ترحب بالاتفاق النووي بين السعودية والولايات المتحدة وتعتبره \"مرضيا\"",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261118-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
      "source": "فرانس 24",
@@ -412,41 +447,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T18:34:13.000Z",
      "seen": "2026-11-18T18:44:53.124Z"
-    },
-    {
-     "title": "ولاية كاليفورنيا تقاضي أوبن إيه آي.. والسبب خروج وكلائها عن السيطرة",
-     "url": "https://www.aljazeera.net/tech/2026/11/19/%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d9%83%d8%a7%d9%84%d9%8a%d9%81%d9%88%d8%b1%d9%86%d9%8a%d8%a7-%d8%aa%d9%82%d8%a7%d8%b6%d9%8a-%d8%a3%d9%88%d8%a8%d9%86-%d8%a5%d9%8a%d9%87-%d8%a2%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T18:26:16.000Z",
-     "seen": "2026-11-18T21:45:20.337Z"
-    },
-    {
-     "title": "رئيس اللجنة الشعبية في كفر قاسم: دهس النساء \"عمل إرهابي\"",
-     "url": "https://www.aljazeera.net/news/2026/11/19/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d9%83%d9%81%d8%b1-%d9%82%d8%a7%d8%b3%d9%85-%d8%af%d9%87%d8%b3?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T18:13:36.000Z",
-     "seen": "2026-11-18T21:34:52.811Z"
-    },
-    {
-     "title": "بيان من الجيش الأمريكي بشأن ضحايا ضربات إيران هذا الأسبوع",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXM0ZmZQandSdm5UTkdSM1ZjY2M1c1FZWGw2YzIyeS1ZbF81VWRjdXBNdVByNnBtOHhlZURYald4Mmh3ZUZDTDdLNFh0ZDZZUGJKLUZYNmx4M1duR3VucHZiQTVVUlp1OFZtUnhjbkI4Q0NPSHQ2V0R3S1plS29SX2kzU2dDQl94S3JVWUpfZE9KMTcyalZFOFZWZUQyODlESGZGSFdJV1dDOWpqdlBoaWt6NWkwekh4Rk1LdmRtWXEzbjFvUEtHNTd3?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-18T18:08:45.000Z",
-     "seen": "2026-11-18T21:14:52.289Z"
-    },
-    {
-     "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkVfQVdFdzRsdTMxSmFmdGV3Z1A4V0Z5aU9Sdzg5T3ZXQVF5V1lLWm90dnRzUUhRVnU1R3ZFMzJOcmZXSld1N2Mwa0hJQmt6Wlkzbk9kTG5TaTczV2RFSG9VS0lxMVNyV3Nrdk5OeVFTVk9XVlg3NTRQVlBKMG16ZThuNmxVaEVNczFuRzR3VmRWSXhlQXJ6cWx2WkltZWFZeFNyck5UYVJQYjJTUUV1S29uSWdydEpPdjVHVQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-18T18:06:24.000Z",
-     "seen": "2026-11-18T20:34:52.514Z"
-    },
-    {
-     "title": "إيران مباشر.. حرائق بـ3 ناقلات نفط شرقي هرمز وإسرائيل تحث واشنطن على هجوم مشترك",
-     "url": "https://www.aljazeera.net/news/liveblog/2026/11/19/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%ad%d8%b1%d8%a7%d8%a6%d9%82-%d8%a8%d9%803-%d9%86%d8%a7%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d9%81%d8%b7-%d8%b4%d8%b1%d9%82%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T18:05:08.000Z",
-     "seen": "2026-11-18T21:24:52.854Z"
     }
    ]
   },
@@ -559,6 +559,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
   {
    "section": "tech",
    "feed": "www.bing.com",
