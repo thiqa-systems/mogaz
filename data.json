@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:23:33.473Z",
+ "updated": "2026-11-18T14:33:33.786Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T14:23:33.473Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T14:33:33.786Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.67,
-   "change": 0.03,
-   "asOf": "2026-11-18T14:23:02.000Z",
+   "value": 53.77,
+   "change": 0.22,
+   "asOf": "2026-11-18T14:33:33.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5710,
-   "change": -2.1,
-   "asOf": "2026-11-18T14:13:29.000Z",
+   "value": 5714,
+   "change": -2.02,
+   "asOf": "2026-11-18T14:23:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6519,
-   "change": -2.1,
-   "asOf": "2026-11-18T14:13:29.000Z",
+   "value": 6524,
+   "change": -2.02,
+   "asOf": "2026-11-18T14:23:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3782,
-   "change": -2.13,
-   "asOf": "2026-11-18T14:13:29.000Z",
+   "value": 3778,
+   "change": -2.24,
+   "asOf": "2026-11-18T14:23:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0972,
    "change": -0.24,
-   "asOf": "2026-11-18T14:22:44.000Z",
+   "asOf": "2026-11-18T14:32:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.1,
-   "change": -3.26,
-   "asOf": "2026-11-18T14:13:24.000Z",
+   "value": 89.84,
+   "change": -3.54,
+   "asOf": "2026-11-18T14:22:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7341,
-   "change": -1.03,
-   "asOf": "2026-11-17T21:42:12.000Z",
+   "value": 7361,
+   "change": 0.28,
+   "asOf": "2026-11-18T14:33:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63906,
-   "change": -1.52,
-   "asOf": "2026-11-18T14:23:13.000Z",
+   "value": 63788,
+   "change": -1.7,
+   "asOf": "2026-11-18T14:33:40.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بعد تداول أنباء عن إزالتها.. محافظة القاهرة تكشف حقيقة هدم مقبرة الفنان أحمد مظهر",
-     "url": "https://www.elbalad.news/7185636",
+     "title": "تحرك برلماني لإنقاذ مرضى ضمور العضلات والأورام",
+     "url": "https://www.elbalad.news/7185560",
      "source": "صدى البلد",
-     "time": "2026-11-18T14:22:12.000Z",
-     "seen": "2026-11-18T14:23:33.473Z"
+     "time": "2026-11-18T14:32:25.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
+     "title": "وزارة التنمية المحلية والبيئة تنظم ورشة عمل لاستكشاف فرص وآليات تطبيق التأمين على الموارد الطبيعية والتنوع البيولوجي في مصر",
+     "url": "https://www.elbalad.news/7185643",
+     "source": "صدى البلد",
+     "time": "2026-11-18T14:30:56.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
+     "title": "أذكار المساء كاملة مكتوبة.. حصن المسلم اليومي ووقتها الصحيح وأعظم فضائلها",
+     "url": "https://www.elbalad.news/7185646",
+     "source": "صدى البلد",
+     "time": "2026-11-18T14:30:17.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
+     "title": "مصر للطيران توقع اتفاقية تعاون مع Avis Egypt لتقديم خدمات ليموزين مجانية لعملاء درجة رجال الأعمال",
+     "url": "https://www.youm7.com/story/2026/11/18/مصر-للطيران-توقع-اتفاقية-تعاون-مع-Avis-Egypt-لتقديم-خدمات/7623711",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T14:28:00.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
+     "title": "سفير مصر بهولندا: الزراعة والأمن الغذائى على رأس أولويات الحكومة المصرية",
+     "url": "https://www.youm7.com/story/2026/11/18/سفير-مصر-بهولندا-الزراعة-والأمن-الغذائى-على-رأس-أولويات-الحكومة/7623704",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T14:23:00.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
     },
     {
      "title": "14 عاما على تجليس البابا تواضروس.. محطات من القرعة الهيكلية لكرسى مارمرقس",
@@ -151,34 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T14:22:00.000Z",
      "seen": "2026-11-18T14:23:33.473Z"
-    },
-    {
-     "title": "وزير الصناعة يبحث مع نائب رئيس شركة كرافت هاينز العالمية موقف استثمارات الشركة في مصر",
-     "url": "https://www.elbalad.news/7185614",
-     "source": "صدى البلد",
-     "time": "2026-11-18T14:21:57.000Z",
-     "seen": "2026-11-18T14:23:33.473Z"
-    },
-    {
-     "title": "قائد القيادة المركزية الأمريكية يصل إسرائيل للقاء كبار قادة الجيش",
-     "url": "https://www.elbalad.news/7185612",
-     "source": "صدى البلد",
-     "time": "2026-11-18T14:21:54.000Z",
-     "seen": "2026-11-18T14:23:33.473Z"
-    },
-    {
-     "title": "الطفل أولا.. ندوة بدار الكتب تناقش بناء وعى الأطفال وتنمية مواهبهم وحماية حقوقهم",
-     "url": "https://www.youm7.com/story/2026/11/18/الطفل-أولا-ندوة-بدار-الكتب-تناقش-بناء-وعى-الأطفال-وتنمية/7623724",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T14:13:00.000Z",
-     "seen": "2026-11-18T14:23:33.473Z"
-    },
-    {
-     "title": "محافظة القاهرة تنفي إزالة مقبرة الفنان الراحل أحمد مظهر",
-     "url": "https://www.youm7.com/story/2026/11/18/محافظة-القاهرة-تنفي-إزالة-مقبرة-الفنان-الراحل-أحمد-مظهر/7623728",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T14:11:00.000Z",
-     "seen": "2026-11-18T14:13:33.931Z"
     },
     {
      "title": "رئيس الوزراء يشهد توقيع عقود مشروع «أمونت 2» لطاقة الرياح بقدرة 500 ميجاوات بالبحر الأحمر",
@@ -211,10 +211,10 @@
     },
     {
      "title": "توجيهات مهمة من رئيس الوزراء لتوفير استهلاك المياه بالمنشآت الحكومية",
-     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQdHIwZmpzZ01GNWR2Ym5LNzY3Nnh5bEw0WDI5Q0J3UGZYby0xY3drNHBud05qdjc1UDA3NThmR0N0QlpUQm1pRE1kWlRvNjh3NlBzSlNGRkZWUVQ0UjhpUllQSk96NmNsZzJhZXJxOHRRb05uNURXQWNpZTVrZTFfcV83aFl5bWJSNEhleW9TZDFkY2NWZElyal9LdTJvbWowX0JKMFZRcHdkelBZOV9MbndFMEQzYURvS1MyUnd6akYtcDVlVnBBUnQ2WXUxRXd1dmdZOXFOVHNqeVZBRVh4YmRta1NFbEdsb3lsTmxGM1lQQnhIdDJyNWlqOEJ6Smw3MWk4QV9qWTNPUFFidHRndzhtWVU4Y1hGZTV2czdudkF4ZUt1STdSeWhxMmstSERMckhSckRYMEVxNUg4RDl3VzhCNnYzQlBkNWlFVXRFa1UtaGpZR3hoLVZHMXdIcjlGZTUxeG93blBmY002MUFRNllkaGFTZGt0dFBLdjlLbjA0WV9Od2U3THpQcEVZWFlMNkloWEQyY1VWZExRTEJ1c0JNbUdvMG9SNGVDcG9NVEFUYW5Ma01lTVMwV1p2NlZuSTBoWm1oODRQakRuOEV3MFBTb2k0N2lvSnBIWm43RTItNl9WMXE3bktIbktYRWV3QnFwalVzNHZnQ0xETGgzTFdGQlV6eDVyWEZuVnVmblRlVGctYU95ZFpEdkJzb05rMVhJRkJOeUJ3YXJfMkFETDNpZ2c1b2tFZGwzRUhHdVlHNWNDNlNhVEZfd3Y0Y2pIUWZPUlJGX3c0bWJRQjVJ0gHfBEFVX3lxTFB0cjBmanNnTUY1ZHZibks3Njc2eHlsTDRYMjlDQndQZlhvLTFjd2s0cG53Tmp2NzVQMDc1OGZHQ3RCWlRCbWlETWRaVG82OHc2UHNKU0ZGRlZRVDRSOGlSWVBKT3o2Y2xnMmFlcnE4dFFvTm41RFdBY2llNWtlMV9xXzdoWXltYlI0SGV5b1NkMWRjY1ZkSXJqX0t1Mm9tajBfQkowVlFwd2R6UFk5X0xud0UwRDNhRG9LUzJSd3pqRi1wNWVWcEFSdDZZdTFFd3V2Z1k5cU5Uc2p5VkFFWHhiZG1rU0VsR2xveWxObEYzWVBCeEh0MnI1aWo4QnpKbDcxaThBX2pZM09QUWJ0dGd3OG1ZVThjWEZlNXZzN252QXhlS3VJN1J5aHEyay1IRExySFJyRFgwRXE1SDhEOXdXOEI2djNCUGQ1aUVVdEVrVS1oallHeGgtVkcxd0hyOUZlNTF4b3duUGZjTTYxQVE2WWRoYVNka3R0UEt2OUtuMDRZX053ZTdMelBwRVlYWUw2SWhYRDJjVVZkTFFMQnVzQk1tR28wb1I0ZUNwb01UQVRhbkxrTWVNUzBXWnY2Vm5JMGhabWg4NFBqRG44RXcwUFNvaTQ3aW9KcEhabjdFMi02X1YxcTduS0huS1hFZXdCcXBqVXM0dmdDTERMaDNMV0ZCVXp4NXJYRm5WdWZuVGVUZy1hT3lkWkR2QnNvTmsxWElGQk55Qndhcl8yQURMM2lnZzVva0VkbDNFSEd1WUc1Y0M2U2FURl93djRjakhRZk9SUkZfdzRtYlFCNUk?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQaFdfZk9BSzc2M0pYZ2d1QlI5aDRJN1JnODJwbHhkZzN1QS1tWlRoRUtESlZ1Nm1SNHAta0NJNTBTdVJPakFjLUlTTXBOQmN5SERKQ0UzUU1RQVE4WU9JWFdfRVViS09pVjEwSV9LM0JBQXJMRVg0aUJNNWZkeERucHBHM1owX3oxTXduRWFDS2MzdUhGMm43UHBESkdvcDFjM0RBMmNNS20wdWFYWTEzVFV6eTlmcVktX0hfSUcwM2ZPdjlzTEFwNm1ESVlpbGxiSUoyN1lLam1yZ0laMDA0a1ZqNG9RTGNRcGNCQ29lVWpqMXRGeUZ2Nk1Yam5JWEdNM3JsalBzSFp1amgtb1dkMnEzZkR6TVEzRXdSRVFaR1REaG51N2JPb09PYjI2dUlYRU83N3dGSkVwN1Azb3F0dThIejhhYTlMVzJPOXlzVlVPNlVOU1FTMFdTR2g5V2dUaE1LRXdTdEo4NFRFRVVFR0tMV3E2cGUzN0hNNlphX0dmYXpNX2hNRndFak5NV2prSy1GcG9ucGFrTTMxUEY5OFplWTlNV1dLYkpPUGdyUDU2d1hKRFNvTWc3Y1Z0alRkTTB6VEVaY2txZjZsWlRHa0F1cFNoZFRSXzNWT3VYNmNMNDRqUVYyVThXS2dGXzZ3RWo2ckxBa2pQYzlOXzRCVDFLWEljWWQ4Rl85YTNhZEN6aDAwbi11Ukg4UGlWcy1EYmVTa2QzUndselVmWE16UmtDbFo5aGVRQ1lVOHpIeXZtRTNvOUJhZ2hUdGlWSWxvWEdVZTUzdFJaQdIB3wRBVV95cUxQdHIwZmpzZ01GNWR2Ym5LNzY3Nnh5bEw0WDI5Q0J3UGZYby0xY3drNHBud05qdjc1UDA3NThmR0N0QlpUQm1pRE1kWlRvNjh3NlBzSlNGRkZWUVQ0UjhpUllQSk96NmNsZzJhZXJxOHRRb05uNURXQWNpZTVrZTFfcV83aFl5bWJSNEhleW9TZDFkY2NWZElyal9LdTJvbWowX0JKMFZRcHdkelBZOV9MbndFMEQzYURvS1MyUnd6akYtcDVlVnBBUnQ2WXUxRXd1dmdZOXFOVHNqeVZBRVh4YmRta1NFbEdsb3lsTmxGM1lQQnhIdDJyNWlqOEJ6Smw3MWk4QV9qWTNPUFFidHRndzhtWVU4Y1hGZTV2czdudkF4ZUt1STdSeWhxMmstSERMckhSckRYMEVxNUg4RDl3VzhCNnYzQlBkNWlFVXRFa1UtaGpZR3hoLVZHMXdIcjlGZTUxeG93blBmY002MUFRNllkaGFTZGt0dFBLdjlLbjA0WV9Od2U3THpQcEVZWFlMNkloWEQyY1VWZExRTEJ1c0JNbUdvMG9SNGVDcG9NVEFUYW5Ma01lTVMwV1p2NlZuSTBoWm1oODRQakRuOEV3MFBTb2k0N2lvSnBIWm43RTItNl9WMXE3bktIbktYRWV3QnFwalVzNHZnQ0xETGgzTFdGQlV6eDVyWEZuVnVmblRlVGctYU95ZFpEdkJzb05rMVhJRkJOeUJ3YXJfMkFETDNpZ2c1b2tFZGwzRUhHdVlHNWNDNlNhVEZfd3Y0Y2pIUWZPUlJGX3c0bWJRQjVJ?oc=5",
      "source": "Masrawy",
      "time": "2026-11-18T12:13:29.000Z",
-     "seen": "2026-11-18T14:03:33.551Z"
+     "seen": "2026-11-18T14:33:33.786Z"
     },
     {
      "title": "مدبولي يوجّه بالتوسع في تركيب قطع المياه المُوفِّرة في المنشآت الحكومية",
@@ -244,11 +244,25 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "“كونكت موني” تجمع 3.5 مليون دولار للتوسع في السعودية والمغرب",
+     "url": "https://alborsaanews.com/2026/11/18/2007486",
+     "source": "البورصة",
+     "time": "2026-11-18T14:14:37.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
      "title": "سعر الدولار ينهى تعاملات اليوم الأربعاء على ارتفاع طفيف أمام الجنيه",
      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNa3BIMUtkbjhEcGpIdHI1TGwxWUVkc1NHeTl6V0Z6V0RhYkF3WXVZX1kyZm80YVNybUJKckg2RUlpRU1GSlUxSW4tckQ5V3ZBdXoycFNJaDktMU85bU5HU0hxZ3dyVTJOdjNLbzlWZ0tEdDJlMU94aV9nZGU0eFFUdXZVMk5hU1hPZ3lTNDBPZnJSWXl3bmhlUDczRVZzbmRROW9NMTU4TUNEYk0yUXlua0cwMkp6YVVUTjJLNVpSV1F3MUZSRXd1VGdENjdjaXFEUl9oWTRseGtwMDV2aURzSHVTYlR1SGduOHFWcGV5VnhZVkFwVHRGc2NMMTRRb3lKMjVwMHJIeGNEaGhxVUJYX3M0Q1Y2MDZydk52N2RVTkNvUmJNZFVCaklxVmFuaHFybTM0cXQ5VUVBbUJvemw5ejZIdk82ZERuOF9QbHFNakdyLTlIM0EyOFJ5Q2dRVE1vN3BrQlljYXdkMGNnV3dyY1dsdUoyckduM0V5Z0dldE9yV1lQOTIzdVpLc1I1bE9rOW1OdHVJMjlMQk5ScVBLSk9UckdabjJFUDhtSU54djh5SU5yazRhZkpBU2hTUzk4a0pHTU9TS0xSS0NDTVdBVm55UkUxanJMTHVNQTN4RWRXT1J4Ykt1clFxV2h1ME9rZHB1NDBTN1NfWE8yUWow0gH6A0FVX3lxTE9HTDFmWThEWUdmQWpEMW5sc0tVdXoyX25xRmJDTDNTZTVZZXdXU0doLUJMb3FRT3FOMlVTVDd2WlA5NVQxeHhSX29XT3g4WDVZbDBBb2xKMjVUcUhHQWx6ak1NaU9qakJBRDJsZ1dGSk9PS0VJOFNNYVRDdG5ERHpjZVRmLVRRR2hlYjFpcXhHOXgxam9xWlFJam5fbHZRQkZxRmdlc3R6OWtQUGhXeHcxVUZsMFlrYVZ6NU4xOWdzTzlNLWVxS0M5bVQwNE5MV19aeGRJakhDa01mM2YyODNFNzQyaVFyb1NKcC1scGUtNFI3SGlldzdVbTRPb2Nic19XbjlJWGN4VW8tSy1GXy1YMUdsOVBnNld4ckZPSFBfaUo1X01DUzY2TGNRNy1KTnl3R2NmMGZROGN0N1Q4NFRncXFLOW1SWkFxMVQtczlXYXZmVkItcUlXWXoyLUZ0X1FLbHJlc0JmSE5GOS01NmNOMFlPemh0VXY4VUF4LWNPdl9XZmRaTVZ0YlZYN0VYOUdQa0E5STNIX1JsODlHTzBIX3BLdjdoZmptODc1M28wZ2JaRDM4RUFrTDY4MTBRUjdoR3J0djBud3BnTldFQVVGeHpHVjJQemRKS2I4dUV4NWxPN0J6Yl9TdXo4dWQyeGNYUW1LYk9rMWNB?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-18T14:11:00.000Z",
      "seen": "2026-11-18T14:23:33.473Z"
+    },
+    {
+     "title": "“أمان” تستهدف تنفيذ 3 عمليات توريق بـ3 مليارات جنيه قبل نهاية العام",
+     "url": "https://alborsaanews.com/2026/11/18/2007482",
+     "source": "البورصة",
+     "time": "2026-11-18T14:07:52.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
     },
     {
      "title": "ترامب يقود \"ائتلاف متعدد الأطراف لمواجهة بكين\"- مقال في الغارديان",
@@ -258,18 +272,18 @@
      "seen": "2026-11-18T14:13:33.931Z"
     },
     {
+     "title": "مساهم يتخارج من “كريستمارك” بقيمة 183.8 مليون جنيه",
+     "url": "https://alborsaanews.com/2026/11/18/2007473",
+     "source": "البورصة",
+     "time": "2026-11-18T14:01:56.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
      "title": "الجيش الإسرائيلي يبدأ عملية عسكرية شمال غربي مخيمي البريج والنصيرات وسط غزة",
      "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-18T13:47:54.000Z",
      "seen": "2026-11-18T13:53:34.131Z"
-    },
-    {
-     "title": "58.22 مليون يورو تمويل لتنفيذ مشروع لإدارة المياه في وادي النيل",
-     "url": "https://alborsaanews.com/2026/11/18/2007431",
-     "source": "البورصة",
-     "time": "2026-11-18T13:09:49.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
      "title": "\"مصافحة تاريخية\" بين بوتين وترامب قبيل قمة ثلاثية تاريخية في الصين",
@@ -279,25 +293,11 @@
      "seen": "2026-11-18T08:33:19.472Z"
     },
     {
-     "title": "مصر تعيد تشكيل اللجنة العليا لمكافحة التبغ والتدخين",
-     "url": "https://alborsaanews.com/2026/11/18/2007429",
-     "source": "البورصة",
-     "time": "2026-11-18T13:03:59.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
-    },
-    {
      "title": "سعر الذهب يواصل الهبوط.. عيار 21 يفقد 20 جنيها إضافية والأونصة عند 3782 دولارا",
      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQWFppalN3NFYtc3ZscHdvMm02cGhmSTdEOTZHNHN2M1IwQWtzcnRGQVdVNFZnSmJuMFptVUVNZmt0UVlCRnVpajBCSFpKbWtLcFdmcjJ6MmEwaExzV3VUWktMTndieW5zVnFCamVZZ1Q5SVd5ZFp1V2p0Y0RrOXJIOGFFRHlWeEt4eGh4Q3ZUWnQ3QTdPd0p3STdlZE9nX01HbGxBNkZoWk5pT1NmTFRDRlB5XzJCOEhUT3VVS1RaOFpUY0dKSGdmTVgtRmNWRHViM2FnT1hUWFUzQmhDRFgtT1ppSFpRZ3BsbW5QeDBYamRyNVNDR0JxVFdVb0NySDd5dXVFQlhTUmhCMUVmUWI4OEZmTG1tazFyTnRkZWxucTE2TXJZb1huZm1pMjBTbFhqQkxIZHVrWmFjSklZY3I1Zjh5bXJzN3d6ZjN6VmJFNmQ0SmhIT0lSaFNRTFZxcWllaHRoelVVZ2FGbThzaTNZVU5LdG9Zb2xaNzRXUVNkM19yYnF1TWgyZVU0bHJKYTRCSU84b3plWW5IYmg00gGXA0FVX3lxTFB4TGNiczlnTHREanROdkM3cEl4bV9JRjVBdGhnR05HOVNGTjh0LWJOWXNKLUVFb2pnc2M3RW9YbUZ4ZHJrLWdNcUJfc3p5UTNKdkF0RkNxZm1VWloxOHpzTDlZTW55SFF1Q21WaEsxWUJmNmpjZE9vNkNKN25KNmF0bGFLajJ5QXBWSWtLRGhFaHZaSFFtWTNRUlNKRlhSVi1INVFkSHIyQ3hNTktUSUp0b3JoTF9hbjFmLWd5M3pLVWNHWEhSX1A5c2pvNzQ0ZWI0TGVWUml3UnliU3VuOHpPYnlCVU5SSVp0dFRpaGtkRGNzem83X1JfbnFzT3ZTbGQ4MS0zVFNBaU1rQ0hGUjJCN2lLMWY5d1U3YW02by03NkI5Y3c1UVZDNDlhNVJVWmFENEJER0t0UUxjVk96cG9Tdkd1blFEc1hFdHFfNDFZRlVWNF9iTHNxdHJaVlduZHhzUUZROUFfb0FXRkdGUDQ3OE93Sk1OeXhBT2gxVTdtNksyUzZPUnVxYVc4QktGVG5YMG9IelJr?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-18T13:00:00.000Z",
      "seen": "2026-11-18T13:53:34.131Z"
-    },
-    {
-     "title": "الحكومة توافق على إنشاء المنظومة الوطنية الشاملة للبيانات",
-     "url": "https://alborsaanews.com/2026/11/18/2007426",
-     "source": "البورصة",
-     "time": "2026-11-18T12:59:41.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
      "title": "بنك الإمارات دبي الوطني: تماسك الاحتياطيات الأجنبية لمصر رغم تراجع الجنيه",
@@ -349,11 +349,39 @@
    "title": "العالم",
    "items": [
     {
+     "title": "دويتشه بنك في دائرة الشبهات بسبب أموال التقاعد وأوليغارشي روسي",
+     "url": "https://www.dw.com/ar/دويتشه-بنك-في-دائرة-الشبهات-بسبب-أموال-التقاعد-وأوليغارشي-روسي/a-79982321?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-18T14:19:00.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
+     "title": "القضاء البحريني يحكم بالمؤبد على عشرات رجال الدين الشيعة.. رسائل سياسية لإيران؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D9%8A-%D9%8A%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D8%B9%D9%84%D9%89-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+     "source": "فرانس 24",
+     "time": "2026-11-18T14:18:52.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
      "title": "عملية إسرائيلية وسط غزة.. نزوح وإغلاق \"محور صلاح الدين\"",
      "url": "https://www.skynewsarabia.com/middle-east/1905604-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9-%D9%86%D8%B2%D9%88%D8%AD-%D9%88%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%AD%D9%88%D8%B1-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T14:18:41.000Z",
      "seen": "2026-11-18T14:23:33.473Z"
+    },
+    {
+     "title": "الجيش الإسرائيلي يعلن شن عملية عسكرية برية في وسط قطاع غزة",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B4%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%88%D8%B3%D8%B7-%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D8%B2%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-18T14:08:32.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
+    },
+    {
+     "title": "في بادية تدمر السورية.. استخراج الملح وسط ظروف عمل صحراوية قاسية وصعبة",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20261118-%D9%81%D9%8A-%D8%A8%D8%A7%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AF%D9%85%D8%B1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D9%84%D8%AD-%D9%88%D8%B3%D8%B7-%D8%B8%D8%B1%D9%88%D9%81-%D8%B9%D9%85%D9%84-%D8%B5%D8%AD%D8%B1%D8%A7%D9%88%D9%8A%D8%A9-%D9%82%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D8%B5%D8%B9%D8%A8%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-18T14:00:54.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
     },
     {
      "title": "اليمن: تصنيف الحوثي \"منظمة إرهابية\" بقانون من 55 مادة وعقوبات تصل إلى الإعدام",
@@ -363,32 +391,11 @@
      "seen": "2026-11-18T13:33:33.942Z"
     },
     {
-     "title": "السلطات التركية تداهم قناة \"سوزجو تي في\" والمعارضة تتهم أردوغان بإسكات الأصوات الناقدة",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261118-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D9%88%D8%B2%D8%AC%D9%88-%D8%AA%D9%8A-%D9%81%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%AA%D8%AA%D9%87%D9%85-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A8%D8%A5%D8%B3%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D8%AF%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T13:27:34.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
-    },
-    {
-     "title": "بعد انتظار 13 عاما..إطلاق لعبة GTA 6 وسط مخاوف من انهيار الإنترنت وهجمات الهاكرز",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AA%D9%83%D9%86%D9%88/20261118-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-13-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%84%D8%B9%D8%A8%D8%A9-gta-6-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%85%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%88%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%A7%D9%83%D8%B1%D8%B2",
-     "source": "فرانس 24",
-     "time": "2026-11-18T13:10:56.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
-    },
-    {
      "title": "دبابات إسرائيلية تتوغل وسط غزة.. والجيش يعلن عملية عسكرية",
      "url": "https://www.skynewsarabia.com/middle-east/1905593-%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T13:10:53.000Z",
      "seen": "2026-11-18T13:23:33.815Z"
-    },
-    {
-     "title": "حكاية زجاجة نبيذ نادرة.. عائلة فرنسية تسعى لإنتاج نبيذ يعود إلى عام 1750",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20261118-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9-%D9%86%D8%A8%D9%8A%D8%B0-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B9%D9%89-%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%86%D8%A8%D9%8A%D8%B0-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%B9%D8%A7%D9%85-1750",
-     "source": "فرانس 24",
-     "time": "2026-11-18T13:00:55.000Z",
-     "seen": "2026-11-18T13:33:33.942Z"
     },
     {
      "title": "المحلل السياسي أندرو ميللر: إسرائيل ستخسر أمريكا إلى الأبد إلا إذا غيرت نهجها",
@@ -433,18 +440,11 @@
      "seen": "2026-11-18T11:33:33.623Z"
     },
     {
-     "title": "برلين ترفض ضغوط واشنطن بشأن الهجمات الأوكرانية داخل روسيا",
-     "url": "https://www.dw.com/ar/برلين-ترفض-ضغوط-واشنطن-بشأن-الهجمات-الأوكرانية-داخل-روسيا/a-79977100?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-18T11:18:00.000Z",
-     "seen": "2026-11-18T11:33:33.623Z"
-    },
-    {
-     "title": "محكمة سودانية تقضى بإعدام حميدتى وشقيقيه و11 آخرين غيابيا",
-     "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPYVM3MDAxYTdYbnMwNnlNX1BXV3JUMDNjSks2bVFQUU1WaVdvcGlyaGxfa1pld3VzT21yTmstWWNzallidE5VdFNuRHdNRVZUU0JscXdsVGRRb2wwRXdQMmk4RGVJRG9nRVd1a3djVWRKcUQydDV1eGMzN0Zqc0dyTWVfQTVMY2dNZzc5dnRacEZfMkJya09fWGVLYUFaTVF6dUc3dC0xN29KU2JRSWp5OTlwT2dlTnYwUmpwVWRZTUJEN3pSbW9wSUFCX0Y0bFczWExqSGxJQ0U5c2VhbzBvR25JUkdPTEhWUVlwd2UwaEdIM3p3V1pCMWxFZEhxUE53ZVVQN0Y2VUlzQlJfY25uOHhIdnYtS2tWcVlKT1RudVZZUk5zSTQxamJYM295UTNfb3ZQRDQzQmtFODRBUFN1T2hQcmppUFRpVmk3VExvT19EcTYyQnNxTUlYcmx3WHUyTFJUc1l1aUlaN1U5bFFsQVBDVVRTakNCaFNlWEFPOWlGbExGaXllUkJUMVlvd011czZTbDRNNDJFTW91empuQzdXZGg0LVotTlk3THM2MXgxOG5KaG9VMHk0Rk83dzJtbExReXdva1NlNUlGcmllSWs4bmk5eElSel9pYmUyRzE?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T11:13:00.000Z",
-     "seen": "2026-11-18T14:13:33.931Z"
+     "title": "من الألماس إلى التجارة.. ماذا تريد بتسوانا من شراكتها مع كوت ديفوار؟",
+     "url": "https://www.aljazeera.net/news/2026/11/18/%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d8%b3-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%b1%d9%8a%d8%af?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T11:22:31.000Z",
+     "seen": "2026-11-18T14:33:33.786Z"
     }
    ]
   },
