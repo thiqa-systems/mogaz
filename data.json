@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:32:31.505Z",
+ "updated": "2026-11-18T01:42:31.721Z",
  "minute": [
   "شهدت البورصة المصرية استعراضاً لمؤشرات نموها وتجربتها في الحفاظ على تصنيف الأسواق الناشئة وجذب استثمارات أجنبية.",
   "سجلت البنوك المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه خلال تعاملات اليوم الثلاثاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T01:32:31.505Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T01:42:31.721Z"
  },
  "markets": [
   {
@@ -28,17 +28,17 @@
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 5769,
-   "change": -0.8,
-   "asOf": "2026-11-18T01:22:32.000Z",
+   "change": -0.79,
+   "asOf": "2026-11-18T01:33:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6586,
-   "change": -0.8,
-   "asOf": "2026-11-18T01:22:32.000Z",
+   "value": 6587,
+   "change": -0.79,
+   "asOf": "2026-11-18T01:33:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +46,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3821,
-   "change": -0.84,
-   "asOf": "2026-11-18T01:22:32.000Z",
+   "change": -0.83,
+   "asOf": "2026-11-18T01:33:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0993,
-   "change": -0.05,
-   "asOf": "2026-11-18T01:31:47.000Z",
+   "value": 1.0996,
+   "change": -0.02,
+   "asOf": "2026-11-18T01:42:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 93.16,
-   "change": 0.78,
-   "asOf": "2026-11-18T01:21:31.000Z",
+   "value": 93.04,
+   "change": 0.65,
+   "asOf": "2026-11-18T01:33:20.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 64514,
-   "change": -0.53,
-   "asOf": "2026-11-18T01:32:29.000Z",
+   "value": 64363,
+   "change": -0.76,
+   "asOf": "2026-11-18T01:43:31.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "نورهان حشاد تكتب: بصمة لا تتكرّر ... حكاية اختلاف أرادها الله",
+     "url": "https://www.elbalad.news/7184979",
+     "source": "صدى البلد",
+     "time": "2026-11-18T01:40:40.000Z",
+     "seen": "2026-11-18T01:42:31.721Z"
+    },
+    {
+     "title": "إبراهيم سعيد يُقارن بين الجيل الذهبي والمنتخب الحالي: البطولات تُصنع بالروح وليس بالأسماء",
+     "url": "https://www.elbalad.news/7184986",
+     "source": "صدى البلد",
+     "time": "2026-11-18T01:38:51.000Z",
+     "seen": "2026-11-18T01:42:31.721Z"
+    },
+    {
      "title": "ترتيب مجموعة المغرب في تصفيات كأس أمم إفريقيا 2027 بعد الفوز على النيجر",
      "url": "https://www.elbalad.news/7184983",
      "source": "صدى البلد",
@@ -150,20 +164,6 @@
      "url": "https://www.youm7.com/story/2026/11/18/غرامة-تصل-لـ500-ألف-جنيه-قانون-حيازة-الحيوانات-يلزم-أصحابها/7620992",
      "source": "اليوم السابع",
      "time": "2026-11-18T01:30:00.000Z",
-     "seen": "2026-11-18T01:32:31.505Z"
-    },
-    {
-     "title": "خالد جاد الله ينتقد أداء منتخب مصر أمام مالاوي: اللاعب المصري لا يمتلك ثبات المستوى والمدرب غلب عليه الحذر",
-     "url": "https://www.elbalad.news/7184927",
-     "source": "صدى البلد",
-     "time": "2026-11-18T01:30:00.000Z",
-     "seen": "2026-11-18T01:32:31.505Z"
-    },
-    {
-     "title": "البحرين: الدفاعات الجوية اعترضت عددًا من الهجمات الإيرانية اليوم الأربعاء",
-     "url": "https://www.elbalad.news/7184985",
-     "source": "صدى البلد",
-     "time": "2026-11-18T01:26:31.000Z",
      "seen": "2026-11-18T01:32:31.505Z"
     },
     {
@@ -487,13 +487,6 @@
      "seen": "2026-11-17T13:00:47.834Z"
     },
     {
-     "title": "هوانغ يكسر صمته بعد كشف \"خيانته\" واستقالته من \"إنفيديا\"",
-     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOV8xd0dTVktNc2tsSGlJNE8tRjJXdmx6bTJnSXZsUEIySFNMcXVqQU9xMVg5enR0ZXkxbThvOUVWd1pJcThldGZmYkEtbHEyVDZTSDQzMkU2c1g0VTlCYXM3ejJkdVhHQnUxN1R5XzZMVmNseEN6OFNpUmpuS2g2TjEyZlRqVEVDNENOU3RPX3VEWnRSQ1JlaWtvZFdPVlRQMU5qVEVIMmk2Z3MzUEhZWUZtWmNHME5EeW03NDhlTWZsSEZEVlExcF8yQl9FcE83UTVUMnhndzh6SGtTbDBiNlJ2SENSRnozZHA2RHJXV25fRFdCOGktd0VNMkpza21OV0VDM2wtZ2t6Y0lzbGRzdmZQRDJOdnBxLV9wM2xySkRzY3Yzc0NxYXliV1JfRlFrbGc1Tnp5ZXBrZDRKeGdZelQ2Y1MyY3JPdl9Ua3VsejBSLUVGaUVWSFA3c0tBS21RMW5iUXRWdnhTRkNSQVVPRExNMDZiQ3d1dmE2RU9UbHc0ejUwV0FsTlE0blJGcGhMY3JndtIBmgNBVV95cUxPN1ZCZHdKQU54WVZrYTV4UEhJekczalVQVEVfWG1aZlhuLTViNURvQTdyNHRENTRtVG5tRWJvYWNlVHJuWGVTT2ktTlpjbGdfTk95TGowMF83bW9Xb3NLQlVIc05xUUlvamV0dlJpbDNmeUFHM3FyaEtKUUt2bC1vOGVrb3BoazZmSnpYMC1FS0dkOGtYTHN0ZjYtakdrWThoOGVZSjZvRVVEejNGNzFIdDJuRlR6YnBTNnVlTGR3MF9CZmM4RFRuc1AyMlRDQzRiS3puX05VUUlxOWR0U0prMHVnTkVwcHA3aEJPT1VTRkJIRVdaMDBPVG9qWTBUb092LUplQXBtMDZhVFBjTVRXODZQMGZKR1BCRjFQS2VQZnIzdmdpSlk2c2w4VnNfd3JaRlVZZzJGUGJnR2V5cGwwTHE3Mnp1THFfY2w1RldmdjZNd0I2S1N3TkxJZXE2SWxxeVVrWlZ3ajBUZ3NRQUE5Q0lBeUl3eE1ja3RodmZDM0hwOU1OakxmUlJlVnlwR2UzaXNPVnZXYXk5UQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-17T18:28:42.000Z",
-     "seen": "2026-11-17T20:51:04.684Z"
-    },
-    {
      "title": "ما قصة الأب المتهم بقتل طفليه في مصر؟ ومن يحمي الأطفال من عنف الآباء؟",
      "url": "https://www.bbc.com/arabic/articles/cqe85y0m7r61o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -513,6 +506,13 @@
      "source": "BBC عربي",
      "time": "2026-11-17T17:33:07.000Z",
      "seen": "2026-11-17T17:40:47.380Z"
+    },
+    {
+     "title": "هوانغ يكسر صمته بعد كشف \"خيانته\" واستقالته من \"إنفيديا\"",
+     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOV8xd0dTVktNc2tsSGlJNE8tRjJXdmx6bTJnSXZsUEIySFNMcXVqQU9xMVg5enR0ZXkxbThvOUVWd1pJcThldGZmYkEtbHEyVDZTSDQzMkU2c1g0VTlCYXM3ejJkdVhHQnUxN1R5XzZMVmNseEN6OFNpUmpuS2g2TjEyZlRqVEVDNENOU3RPX3VEWnRSQ1JlaWtvZFdPVlRQMU5qVEVIMmk2Z3MzUEhZWUZtWmNHME5EeW03NDhlTWZsSEZEVlExcF8yQl9FcE83UTVUMnhndzh6SGtTbDBiNlJ2SENSRnozZHA2RHJXV25fRFdCOGktd0VNMkpza21OV0VDM2wtZ2t6Y0lzbGRzdmZQRDJOdnBxLV9wM2xySkRzY3Yzc0NxYXliV1JfRlFrbGc1Tnp5ZXBrZDRKeGdZelQ2Y1MyY3JPdl9Ua3VsejBSLUVGaUVWSFA3c0tBS21RMW5iUXRWdnhTRkNSQVVPRExNMDZiQ3d1dmE2RU9UbHc0ejUwV0FsTlE0blJGcGhMY3JndtIBmgNBVV95cUxPN1ZCZHdKQU54WVZrYTV4UEhJekczalVQVEVfWG1aZlhuLTViNURvQTdyNHRENTRtVG5tRWJvYWNlVHJuWGVTT2ktTlpjbGdfTk95TGowMF83bW9Xb3NLQlVIc05xUUlvamV0dlJpbDNmeUFHM3FyaEtKUUt2bC1vOGVrb3BoazZmSnpYMC1FS0dkOGtYTHN0ZjYtakdrWThoOGVZSjZvRVVEejNGNzFIdDJuRlR6YnBTNnVlTGR3MF9CZmM4RFRuc1AyMlRDQzRiS3puX05VUUlxOWR0U0prMHVnTkVwcHA3aEJPT1VTRkJIRVdaMDBPVG9qWTBUb092LUplQXBtMDZhVFBjTVRXODZQMGZKR1BCRjFQS2VQZnIzdmdpSlk2c2w4VnNfd3JaRlVZZzJGUGJnR2V5cGwwTHE3Mnp1THFfY2w1RldmdjZNd0I2S1N3TkxJZXE2SWxxeVVrWlZ3ajBUZ3NRQUE5Q0lBeUl3eE1ja3RodmZDM0hwOU1OakxmUlJlVnlwR2UzaXNPVnZXYXk5UQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-17T17:32:02.000Z",
+     "seen": "2026-11-17T20:51:04.684Z"
     },
     {
      "title": "تعطل شبكة الاتصالات السرية لوكالة الأمن القومي الأمريكية",
