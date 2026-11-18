@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:44:53.124Z",
+ "updated": "2026-11-18T18:54:52.438Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T18:44:53.124Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T18:54:52.438Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5662,
-   "change": -2.92,
-   "asOf": "2026-11-18T18:34:58.000Z",
+   "value": 5659,
+   "change": -2.97,
+   "asOf": "2026-11-18T18:45:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6464,
-   "change": -2.92,
-   "asOf": "2026-11-18T18:34:58.000Z",
+   "value": 6461,
+   "change": -2.97,
+   "asOf": "2026-11-18T18:45:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3744,
-   "change": -3.12,
-   "asOf": "2026-11-18T18:34:58.000Z",
+   "value": 3742,
+   "change": -3.16,
+   "asOf": "2026-11-18T18:45:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0982,
-   "change": -0.15,
-   "asOf": "2026-11-18T18:44:45.000Z",
+   "value": 1.0979,
+   "change": -0.17,
+   "asOf": "2026-11-18T18:55:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.44,
-   "change": -5.05,
-   "asOf": "2026-11-18T18:32:46.000Z",
+   "value": 88.5,
+   "change": -4.98,
+   "asOf": "2026-11-18T18:45:53.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7355,
-   "change": 0.2,
-   "asOf": "2026-11-18T18:45:05.000Z",
+   "value": 7348,
+   "change": 0.1,
+   "asOf": "2026-11-18T18:55:53.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63189,
-   "change": -2.63,
-   "asOf": "2026-11-18T18:45:04.000Z",
+   "value": 63104,
+   "change": -2.76,
+   "asOf": "2026-11-18T18:55:55.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +139,52 @@
    "title": "مصر",
    "items": [
     {
-     "title": "السعودية تدين مواصلة الاحتلال انتهاكاته السافرة في المنطقة",
-     "url": "https://www.elbalad.news/7185933",
+     "title": "مدرب جينك السابق يفتح النار على إدارة النادي بعد إقالة توروب",
+     "url": "https://www.elbalad.news/7185937",
      "source": "صدى البلد",
-     "time": "2026-11-18T18:40:55.000Z",
-     "seen": "2026-11-18T18:44:53.124Z"
+     "time": "2026-11-18T18:53:52.000Z",
+     "seen": "2026-11-18T18:54:52.438Z"
     },
     {
-     "title": "أحمد موسى: السادات سابق عصره بسنوات ضوئية والآخرون ينظرون تحت أقدامهم",
-     "url": "https://www.elbalad.news/7185932",
+     "title": "الخزانة الأمريكية تفرض عقوبات جديدة مرتبطة بحزب الله.. وتستهدف شبكات التمويل والدعم",
+     "url": "https://www.elbalad.news/7185936",
      "source": "صدى البلد",
-     "time": "2026-11-18T18:38:49.000Z",
-     "seen": "2026-11-18T18:44:53.124Z"
+     "time": "2026-11-18T18:52:10.000Z",
+     "seen": "2026-11-18T18:54:52.438Z"
+    },
+    {
+     "title": "عائلة السادات تتسلم الميدالية الذهبية من الكونجرس.. تعرف على مصيرها",
+     "url": "https://www.youm7.com/story/2026/11/18/عائلة-السادات-تتسلم-الميدالية-الذهبية-من-الكونجرس-تعرف-على-مصيرها/7624021",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T18:52:00.000Z",
+     "seen": "2026-11-18T18:54:52.438Z"
+    },
+    {
+     "title": "رئيس الوزراء: قدرة الاقتصادات على المنافسة أصبحت ترتبط بمدى توظيف التكنولوجيا وتطوير منظومات التجارة",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vVmZSRlFUTDRYMjJ3alUzRnpNSjhRWTdOajJ3VjlFLTdBMGpuNU9rM0pFZW9vVXpuZlkwb3c0MF90WjNCUEpWNVNycUZtbXpQYWNmTFFGcDg3ME5LYVZv?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-18T18:51:00.000Z",
+     "seen": "2026-11-18T18:54:52.438Z"
+    },
+    {
+     "title": "ليس مجرد تسهيل للصرف.. كيف يعزز توصيل المعاشات كرامة كبار السن واستقلالهم؟",
+     "url": "https://www.elbalad.news/7185934",
+     "source": "صدى البلد",
+     "time": "2026-11-18T18:49:44.000Z",
+     "seen": "2026-11-18T18:54:52.438Z"
+    },
+    {
+     "title": "مدبولي: المختبر التنظيمي هدفه تطوير منظومة التجارة الإلكترونية في مصر",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQMllKMVJITWNwRVk0em9JUnVMYVBkR0dZX3BqRGtNRFNzSEZBZTBzUzZtbjIzOWltUElEN250NjMtd2l0Ny1iajJLM1FsbFE4NThyRlZSZEFCUzJtbDliUFNOeUMta0VvdzJ5QU5NMFhTTXlQVHBBckEyay1LUklPS29WWXFKZWt0Y2lWcl9PZ2J3MUc1WnhUdWFtb0w1UkU1bWZ2VFlqblJGYjZ4OU9xUC04NU8xSi1XZzRJYy1ld29jQ0NxNWJmUndJT3BVTGZERm11eWdXN2NuN0t5dXExdmNqSnl0aVpsYUJGX1FRZ1VSaUFOWU5YbTJTR0lZb3pEZnp1MkNNa3A2RjhoOEtYQVVUUkNqbTcwOWl2QXlLeVBxRVRvSW9QZ3ViQ05yb2dkZkx4ZFNoTzlVMWhDTnJrclNNaF9wTGQ0cEw1cmVfcGZKb0V2dlRBSzEwcjZhLTJ5UC12U0tLSWlDLVJUbVlOSU5MUW5Udk1zU01Zdmd3?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-18T18:49:11.000Z",
+     "seen": "2026-11-18T18:54:52.438Z"
     },
     {
      "title": "مدبولي: إطلاق المختبر التنظيمي ومركز الابتكار خطوة لتطوير منظومة التجارة وتعزيز تنافسيتها",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYbXUwOW1PTTRtVFlwamVfaWNEbjZXdDMyRThycHJua1RLSWxvRW1CR1Y4NnlwMnEyb2NDekVTMkJSRktYUUE?oc=5",
      "source": "القاهرة 24",
      "time": "2026-11-18T18:36:09.000Z",
-     "seen": "2026-11-18T18:44:53.124Z"
-    },
-    {
-     "title": "سنتكوم تنفي ادعاءات إيرانية بإصابة عسكريين أمريكيين في هجمات على قواعد بالمنطقة",
-     "url": "https://www.elbalad.news/7185931",
-     "source": "صدى البلد",
-     "time": "2026-11-18T18:36:07.000Z",
      "seen": "2026-11-18T18:44:53.124Z"
     },
     {
@@ -202,13 +223,6 @@
      "seen": "2026-11-18T18:14:52.678Z"
     },
     {
-     "title": "مدبولي عن مشروع «نيفيرا»: نموذج للتكامل بين التخطيط الاستراتيجي والاستثمار في المقومات السياحية",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVXhlWmp6SnJ4VmJnUFo1MVRjcEd3Ty03VUNoOUZxaXF6VmdKMVRBaE4xN1d6emdKT3hITTByNU1YZnNZbEdUaEd2eDdjUUtZS1ZZMUxXbXRYY0Vlbzdz?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-18T18:07:00.000Z",
-     "seen": "2026-11-18T18:34:53.007Z"
-    },
-    {
      "title": "المصرية للاتصالات تتولى البنية الرقمية لمشروع نيفيرا وتربطه بأوروبا وأمريكا",
      "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxNYXE4YmFPckx4TS1UTVBJOEVGSTBMU1lkemVUYjAzVkpPN3daTVhDZFBVQzBwcXZvOEotNTVQcTN2eHcwQ21ZZ3BZWHZQZTJlSV93VVl1Tm4ybGJCek9KY2RlVm9fcDNrRUYtODJ0bGdtVjFtT01tMUxfTTBWNVlmdHRERkh2TGlqR2drSDRhV29RNDY5YjZVSENvZUVWNUx2dkV0VlJGMkxMNEFEcjVKdVpiSjlXZkk3RUtxWllqRHU2cmdtTGxCbHdTNUVfczdSalVXRFJyM1lSdFBfTU85bzV0WFFoNW1QNWpldnJ4RmtMdjREWHRjUzlZWUZNVHZSVl9XdXJXaXB2SWF5THAzM19EbC1ENnlQeUE4Wk8zSmV2b2ZXb2t6bUFYTXJiMzFsYTMxNS1qOXh2cE9PZ2NYaU5DN3lyeDIyd1h2X2ZqYmlmc2E1VkVESlB6cE03OWw5bHo2UXZ5Wm9FaUV2UVE5MnhUOHBtdDlLZ3dFVWxWU3NQcllxZ3p6TTE1dk5NZjJHRUp2cVUtb1ZjZ29UNFA4OVdESGdKN1hhYjR4VVppcktoeTlBN212Z2RLTEZzdUFyYjZuUDhTdXdYVW42REp2a0pab2tKb0JSMDRwS3FnU0VqY2IxUnRWLVk3Q3dpMFoyb3dfcEI0ZmFzYXkzSmlzbFBCSDN0MEVnQUM1TTdfWjRCNFVVaGh0aTJTTVA3aDJET1ktV1ktSjdnTG1CTTB0b3JicHRRckxXYzM0Ym1RaTN2cFFDSkRQMmRDMXI0QlhoeFByQllVb0ZFdWxwcjhGR2hfU2lncWFYMVlMTFhmLUk4MzI0Ylc5WEszblVBSFZxT2NLYnNGSDhOWkFUY0I3V0Z30gGXBUFVX3lxTE9JNjlaM2JoeHp4Zm41eTA5NFNFc3RaZlJGcUFia1Q0WFI4UW9zOW1jX3dZWUp1alE3Rkw4QVhfYXlGN01PbzA5d2NZbDVJb0VneDhDcFRMdEZ6aUZoNHhjYkFDSWRmTEh2TFBnRi1PanhMaWMtbWstRHlnU2VXWG94a2dEYVBoWFhZd1RGVHhLajlGeE1uNXpoa05zeGJDRUttc2tpTGQzUnhCNFZsZ3M1M3F6WXRjZHBBMGlWWlBNam1TaXF0OGxyU0xoTExXVmpiYUNPTG50eThIRm5ET3l1dVI3dy1Zdi1mNTEzVUNNN3RQMjdRV0NEOURXRGhScm1ad05yQnVtRW11V3JrZUF4cXhGVm80MHFoemhWZGdZX29hTFlZNjRyekg0Mmd1ZmhIVGxLWjZRbE11QWhnaTdaeTdSZGt6Z21MUldCMWNsNzNyR0xaclFLZDJELXNmUmlscHJZUlZzdHlQeDhRRVh2QVhHczJndVhwUXB0RmJldmlpS3d3WmVnRVZKUUx0UkI5b1B3RjNyMWpjdk8wS2x0eFp6dk5tM1FBdG1vZ0pIMTlXQWJEMldDTlVnVjJHLWlZMW9SeEpGQ3FPYlFtQ09vekNPYmhleWIyUmJ2MXlqSk1saGRuWk5rZ2FHZ2FuS2hyWmNBVGJNQjNqS0kybThqaUhKQmxJTHgtSFdsTTVVbENydno4YUR2cmZETXFnV01sNGE0RXRTcXpXNGUzMzNoUF9pSTNtX05fc3RiUTl4eEZILUVEVUFFUUp6YWNmZzd6Q0ZZS05LaGwyZjB5bW5xU0h5NEctTEhnWGk0ajZXLW9Ob3h6Vi1BZ3VKdzI0Y1hCcVlMUG5lNUlYNUg2eXBrdkx0SG5Ubw?oc=5",
      "source": "Masrawy",
@@ -216,24 +230,10 @@
      "seen": "2026-11-18T18:14:52.678Z"
     },
     {
-     "title": "المانجو والموز فى مقدمة المحاصيل الحساسة لانخفاض درجات الحرارة",
-     "url": "https://www.youm7.com/story/2026/11/18/المانجو-والموز-فى-مقدمة-المحاصيل-الحساسة-لانخفاض-درجات-الحرارة/7605426",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T18:00:00.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
-    },
-    {
      "title": "مسؤول بـ\"نيفيرا\": نستهدف دعم السياحة المصرية وجذب استثمارات جديدة لغرب القاهرة",
      "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxNdjBIZlZJdW8wcW9rVXNTR2RJZTNIaEprSDJMZ2NIYlFWX0pfXzhRTVVOZnphNEpUSGY5NG9xV2JHc3pLQVpobldPM3JaT3Y2RUVsZFMxbGlyR2lRMUlqdUh6bDNWaEE5bWdhR09PQUp2ZC1wTEpCSUJVb2ZBVjNYamVjdzhVdExiY1Y3YXAwMVdiQUZjOUR5b3NmSTdPSkRYTkJ0YjJtRXN5YnBXVGJqcFFqMDQ1ejlRQmxnaWNfbVRBclozT0U4Q0gwWmJ6UjBJSWpMSEZLZWtMLVRpX2NzbWZoVE1wMXdoa2puVEUxdUdRWnlMU0drNWZEdDVpV2NPaldqUkotN0U5RE85ZGFJcy1La3dDRWFQb1NtTUxDTGlPQzBCQm95RjRqMHdPZTBJZlBCV2VVVFRxY19idDA4R1FNak5WUmhOZDVVcE9qNVk4bTZEc1NJLTZTclFnM2VYcHNfQ3pVWk9BaUdyTVZBVkx5Ulk3dXl6Yko1WTBia1dLRmxXdzJxWV9ocW9HODVvU21zelBFa2kwMkY0QlRlbjNyX2ktanFTem01LVdLV0V6YmpiSHFCQzNjcTRQWjFINS03VlJZREFLZ3dlZXQwQkJXU2VhcG8zVWdBVHY4eW5TTVRvSks0ckRJSl9RbDQ5UlFmZU1sWHBUel9Wczd3MG5JeGM4cjJSOEFPN1dVc0JUQk9DR0hoM1FxTkFZR1BHbFkxcHRtOXBnUlJSN1Q4VFZLVURwOGlSaDdPUDhoVlZDekxpVlZ6U0ZRY0RvUnVJR0F0c3dPNjJZWTFlRElGYVNkVklyOVdZc3ZWa09hb2Q0MG55aWdlbVRtalQ0LS1LX0lzMGlCTkhLeW9u0gGSBUFVX3lxTE04MDA2dlRJbFBWS2tqVmxXdV8zd0RiYXhwYjFUNTI0UnJxbWQwRXd6NGFfRzJmc2ZPaHVJQnlISTFCbnFpM0QwaXNTRU9VV1Ftd1hydE0xT2ExekdPdTg0cDBWb0VQdkxfZ05lZ2xWd1k5LWlmNzFjbG90cnFSZE9udkYyMEkyTjhrOVF6ekcwRjlwSklyeHBqNWE2OFhzaENLNkhjb1Jwb3NBT1NwSVdiN09jODlaWjFhd1k0Qk5IV2lUUDhPVUVvRzlLLXdnQlZJclpqZWJVVmNKWTNsSVFUcjFyUmhpa3BTTWx3VkpLTlV5NGdlR004TTlpRG5FdjFPbVNIWE9ZLVhCa3ZCYlpaTnBPSHpGWDQtN0NRTGJoX05KN1RmOEx3WGUydzVVNWN6aWduYTBMWjJ0aHpXcFB6azRTOUJ6d2dneEoxWUtSX3BUUGdhUVFfUmY5Q2ktSXhKOUZKY1FKRERoRWtkUXFHSkhBOFBmOGFOZEJuOW1hOWxPdzJlb3FWY0c5aGZqU2hqWUZIV3h3bFBLUndKcFVMUHBsU3BPZFVBN2I5ZUlWaFIzVE0xaUppM1luQ2xBdEQ1Rmo2OXhLSHRrUU1MZDgzbVhubEt6Mk9UQ2ZidVh0ak51UlF3M3B6RzYweXVmMXBmanRfdExzSHhjRGhVTGlTaDBEM0R4QVdnQTdZMnphc0Y0dUNTZkZQb1pyTnFvbkZ4bnJLQ2JVS1pWRUYweEZtWVY0ZjlWUTliUVZmTTJjUF84SXViZUpCcTBPX3FkeENKVnpGLVk2LUY0U1BhVHpnSkVHaGRUQ1JiVzVRZjUzd2pBQUlYU0RfTUFhbmc2cUVuU2VHNVRTMkQwTG5iNDYxcFE?oc=5",
      "source": "Masrawy",
      "time": "2026-11-18T17:57:35.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
-    },
-    {
-     "title": "كيف تستهدف الحكومة تحويل غرب القاهرة إلى مركز اقتصادي وسياحي واعد؟ مدبولي يجيب",
-     "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxPUzYxYzVRa29jLUZnMlBaa3Iya1NUdW1JVUVzTzFBLTZxNWR1Wjg1aFpldzQ3c0xEWVdoVWNRUHZkWXY0WVdVX19zZHhfR2hyTGxBUHFZTXhEWVplNW1HOE4wRnpjREFkMktDaVVvdWMtcFZsaHcxVVdtVlRUbjN4QVp5ZmU5TklyRFUyUV8wemx0M0ZqOFNySGd4R0k5ZjcybktnM3NJODhfeDBtdElNN1h5S0M3TzRWUHNIeXFFOXZiTVk2bnBNQUdmTlR0Umhtc2wta3k0eXpieTdRblpXR1RmRkRBbzBwaENUeF9vdGFrSjNzZTBxdTA3N2xRNGxYOGlHX1dtVHJ3OW9uVWdhNkRYRUFaNUtkYTN2RDNDLUt3czV3TE1faXRONGk1MEZvTkNzM1R2amJ4YUNNRi0wUFVSZThpcjltcHAyMFBhUFhRYVhEU3g0NXh4dUxBNy1heGNvOWtnNHVra2kxWFg3Z2toaWYycUJFemhGVkNsMTVna2JnYzFpVE8xeGh4bC1sS1pOSzI4RllrYXVFczFtUVZmRGMzWk1uN2E4VlgtdWY1MndUUkY3eU5FTDZycE5mZlFObjBYMmdkaGNpVVRST1hnQ09RcTE5LWJaRFVZdzlaM0dJekp1WGxsVzNQTUsyX011cTE5WkkyVTkxRTdBUmNqSE96TU5VVGZ5VkE0MmM1eEdWWElseFlJX2FEUk8zMGpJYzVPVkdGNWR0WENnM2s1ZTFTUWh2SDVEU21jbGFXUWF5bUhkRWtmeGxDbVpsNWV3ZmpjUzFKZ191b28xeWNRdEJhZFJyY29TT1ZOYlVzMWY0c1VZX2xZejRuSS1pSlAzbDBEZEpqVGIzR2fSAZMFQVVfeXFMUGFfRDlfVlo0V2NVb0VhVHVTSDA1NjFSS2tqUFBES2tsYnB3YmMzS0RXdEZqTzNtX1Jnc0lSWHo3Nk8yUk1WWVd4M2IwaGVjRmVZbGVGTE8tR0R1aFhmNzMzTy1IaVhSNkVHVjRlQ1l0NFVoQmphWC1FYzIxWDJUcEkzUzBpTjdMbENmZzdVQlRYUmxQbGhUMHRjcFBVVW1BeFBXSVZveUxOOVZjZ1dHXzFCVUtDSmM4d1dGckFaZjkteTFmZk1Ec1dGRGYxX2FQUWJpQmVxSlZKMFphUVBNYlBhWExrRENkNUFfMmdocXlNZE03Wng0TlRTTy1pMXNHQlo0Z3dhcGt1Q0g5cjE5THduYVhTNFBJZG5zYk9ENHNWNTJlb011bjJDQnVxYlZyY0hhY0tpdWlwVUhETzVJSnNJLXpVa0V1bzFPUXpJTll5QldNVl9hOTJfeEYybW9fTU5iQ29wakxXYi1xZEZNbmdxMjczRWNrWFVHWHc3YzhVc0pFR2NtWEc2eHNmMENpN2lPaDRGWHBqbndEd2QtTGhMZmlxdlNLZUZ0d2VJbDZob0N6UGdPcEFZREhwR28tZEZYbkZoVDRMdzFDSjJWbW1XajJCWHlINFU1MWozaUdPdUxlZGtzUGxjMk01OGxjRy1YWm1xcS0zalRaM3ljdmFuRFpPYzFTRU4wVzRRZWVhbGRkbVdlamxlMHFXQ1N3d05qSmJnVHBHMnVpSUxZOV9XaldqbFB2NnZNTUxNcVZPeUFiMU9qZjVRUkJGYlB0M0ZHY19MZHB4T001Zno1N0ZkMnh5UXgyTWw3ejFVUG84cGJyTk5qbFZfTWQ4M3JjX1VaV0lhdUtpd0NZRkM1MnE4UmM?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T17:56:08.000Z",
      "seen": "2026-11-18T18:04:52.415Z"
     }
    ]
@@ -293,10 +293,10 @@
     },
     {
      "title": "تدفقات محدودة للأموال الساخنة في مصر والدولار يرتفع",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPOURFV1ZjeWtTT1ktUVM1ZE5vR3hrTll0NVNwWTZRNEl0RmxPLTlCTnJMM2M1cmNPQ0lJcFh3M3JzOWVITEZqYS1DeVIydVN6RVlPa3hieHF6QVhVQ0ZDcGNCbFBOSXk2bGFET19WeDU5c3hpR3RBckl5RllTSy1heExhZlBVVUNwTmx6M21ZaVhRSkdHSklLTXdEd2RhZmpyTHp6aEtvTzRQTXoyVkUyRW9FbEFsb2FHbXUyWFdMWkpiZkRTeXA3UVk3RmFDTFlib2pOZkZGQ0IxYkRHdWdxS0dyVHZnV09SNWtMSWNKWWl2ZTEtY3lnZ2VzSzlBaHZRTV9JdzJYSm9tOF9aMVFZcHR4VDJzdVVUWVE5ZDdjX2FDdUpYeXZKUG5sOHNuclROZDRvZ2NIN2htcmt2YXNqVFdnT3B1SFpFbnMtcE5pUjRqTGdySmFYLVBjRWhmNDUwMTFVT3FCcEp2V2RjVU9UVFlSUmMwWTV1NFhCaWRLSmFiZWFHXy10bllVVEFhZGFZMmVuNVgyZHktejBsRXVOWnYyZnFvVHUtN0IyeXIyUkNBRmNvTmg2RWM5Z1hXZVlzWlFWX3kzSDR1THFyQ25aczJR0gHXA0FVX3lxTE5YMHBwazhvTzcxVWxxUjZqR2NrRVJ1QjVVYUdrZUhMQTkwc2s0dG1CSWVsZUNnTDhFVE84VHRKNk9PcHV2UFg0ZjZSbk5IWVJ5QUw2UEVieTZvQnNoWE1Tbml2NlM4enZQUlRXaW03QjRDZDhzM3JOUHR0ZXIzOFhIaHNha0tsMEJ3aHZxbS03Nkg0Q0hOM05RNTNrZHRSX0h6eVg1aUR3Z1VxZG4zY2RlbFcwNGtPNzJOVzFkUmVJY0VzNzhTUlpSMkJ0LXotZEVFMi1SbmhIRU9SYnp1LVFpZ2hRX0VJZGRMSTFDeW00ZndqdDBjMldNUGM4WU5ycG5vV01FdU9kLWRxREpMaS1BYl9IS0lXQkI1RDlWazljZGJLMU1FbEtqZUN1dVk0cVlSS0RfV01oVDlGUk55bVVrUHdadlhRc2d3Zmo3cXlHZVpvYm8zeXFXQ2Z4cUNlbHRISTgyNVpMRWVBdi00dnRlekQzTV9LZWxnY01ndG1VVUVNSTVsY0xOaGMwdWdYdWg3aUprVVNoVWtxVXl4bWhnbmw0dXRUYnpaVXlBaUhfTmZZLW5TRFkzZDc3MFg2S3I3U1M5VTMxLWIwWm5sVlhNd0VxVXlKcw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOWDBwcGs4b083MVVscVI2akdja0VSdUI1VWFHa2VITEE5MHNrNHRtQkllbGVDZ0w4RVRPOFR0SjZPT3B1dlBYNGY2Um5OSFlSeUFMNlBFYnk2b0JzaFhNU25pdjZTOHp2UFJUV2ltN0I0Q2Q4czNyTlB0dGVyMzhYSGhzYWtLbDBCd2h2cW0tNzZINENITjNOUTUza2R0Ul9IenlYNWlEd2dVcWRuM2NkZWxXMDRrTzcyTlcxZFJlSWNFczc4U1JaUjJCdC16LWRFRTItUm5oSEVPUmJ6dS1RaWdoUV9FSWRkTEkxQ3ltNGZ3anQwYzJXTVBjOFlOcnBub1dNRXVPZC1kcURKTGktQWJfSEtJV0JCNUQ5Vms5Y2RiSzFNRWxLamVDdXVZNHFZUktEX1dNaFQ5RlJOeW1Va1B3WnZYUXNnd2ZqN3F5R2Vab2JvM3lxV0NmeHFDZWx0SEk4MjVaTEVlQXYtNHZ0ZXpEM01fS2VsZ2NNZ3RtVVVFTUk1bGNMTmhjMHVnWHVoN2lKa1VTaFVrcVV5eG1oZ25sNHV0VGJ6WlV5QWlIX05mWS1uU0RZM2Q3NzBYNktyN1NTOVUzMS1iMFpubFZYTXdFcVV5SnPSAdcDQVVfeXFMTlgwcHBrOG9PNzFVbHFSNmpHY2tFUnVCNVVhR2tlSExBOTBzazR0bUJJZWxlQ2dMOEVUTzhUdEo2T09wdXZQWDRmNlJuTkhZUnlBTDZQRWJ5Nm9Cc2hYTVNuaXY2Uzh6dlBSVFdpbTdCNENkOHMzck5QdHRlcjM4WEhoc2FrS2wwQndodnFtLTc2SDRDSE4zTlE1M2tkdFJfSHp5WDVpRHdnVXFkbjNjZGVsVzA0a083Mk5XMWRSZUljRXM3OFNSWlIyQnQtei1kRUUyLVJuaEhFT1JienUtUWlnaFFfRUlkZExJMUN5bTRmd2p0MGMyV01QYzhZTnJwbm9XTUV1T2QtZHFESkxpLUFiX0hLSVdCQjVEOVZrOWNkYksxTUVsS2plQ3V1WTRxWVJLRF9XTWhUOUZSTnltVWtQd1p2WFFzZ3dmajdxeUdlWm9ibzN5cVdDZnhxQ2VsdEhJODI1WkxFZUF2LTR2dGV6RDNNX0tlbGdjTWd0bVVVRU1JNWxjTE5oYzB1Z1h1aDdpSmtVU2hVa3FVeXhtaGdubDR1dFRielpVeUFpSF9OZlktblNEWTNkNzcwWDZLcjdTUzlVMzEtYjBabmxWWE13RXFVeUpz?oc=5",
      "source": "العربية",
      "time": "2026-11-18T16:55:00.000Z",
-     "seen": "2026-11-18T17:54:52.306Z"
+     "seen": "2026-11-18T18:54:52.438Z"
     },
     {
      "title": "«حسن علام القابضة» تطور مشروع «نيفيرا» غرب القاهرة على مساحة 36 مليون متر مربع",
