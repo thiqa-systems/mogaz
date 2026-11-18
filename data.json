@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:35:19.678Z",
+ "updated": "2026-11-18T23:45:19.310Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T23:35:19.678Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T23:45:19.310Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5656,
-   "change": -3.02,
-   "asOf": "2026-11-18T23:25:19.000Z",
+   "value": 5654,
+   "change": -3.05,
+   "asOf": "2026-11-18T23:35:41.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6458,
-   "change": -3.02,
-   "asOf": "2026-11-18T23:25:19.000Z",
+   "value": 6456,
+   "change": -3.05,
+   "asOf": "2026-11-18T23:35:41.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3744,
-   "change": -3.11,
-   "asOf": "2026-11-18T23:25:19.000Z",
+   "value": 3743,
+   "change": -3.14,
+   "asOf": "2026-11-18T23:35:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0977,
    "change": -0.19,
-   "asOf": "2026-11-18T23:34:45.000Z",
+   "asOf": "2026-11-18T23:45:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.85,
-   "change": -4.61,
-   "asOf": "2026-11-18T23:25:00.000Z",
+   "value": 88.84,
+   "change": -4.62,
+   "asOf": "2026-11-18T23:35:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62861,
-   "change": -3.13,
-   "asOf": "2026-11-18T23:35:18.000Z",
+   "value": 62980,
+   "change": -2.95,
+   "asOf": "2026-11-18T23:45:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "شريف عبد الفضيل: مصطفى محمد قد يعود للمنتخب.. وموكوينا وجد نفسه في بيراميدز",
-     "url": "https://www.elbalad.news/7186210",
+     "title": "سعد سمير: بوبو وقلاوة سيحصلان على فرصة مع علي ماهر.. وإمام عاشور مطالب بإثبات التزامه",
+     "url": "https://www.elbalad.news/7186213",
      "source": "صدى البلد",
-     "time": "2026-11-18T23:30:59.000Z",
-     "seen": "2026-11-18T23:35:19.678Z"
+     "time": "2026-11-18T23:44:37.000Z",
+     "seen": "2026-11-18T23:45:19.310Z"
     },
     {
-     "title": "التردد متاح.. موعد مباراة مصر واليونان في مونديال الناشئين والقنوات الناقلة",
-     "url": "https://www.elbalad.news/7186211",
+     "title": "مدحت عبد الهادي: محمود صابر يشبه عبد الله السعيد.. وإمام عاشور وحده يملك حل أزمته",
+     "url": "https://www.elbalad.news/7186214",
      "source": "صدى البلد",
-     "time": "2026-11-18T23:30:30.000Z",
-     "seen": "2026-11-18T23:35:19.678Z"
+     "time": "2026-11-18T23:42:57.000Z",
+     "seen": "2026-11-18T23:45:19.310Z"
     },
     {
-     "title": "أذكار النوم مكتوبة كاملة.. ردد كلمات النبي قبل النوم واغتنم ثوابها",
-     "url": "https://www.elbalad.news/7186207",
+     "title": "مغادرة حاملة الطائرات الأمريكية «جورج واشنطن» مياه الخليج.. بلومبرج تكشف وجهتها المحتملة",
+     "url": "https://www.elbalad.news/7186212",
      "source": "صدى البلد",
-     "time": "2026-11-18T23:30:00.000Z",
-     "seen": "2026-11-18T23:35:19.678Z"
+     "time": "2026-11-18T23:34:54.000Z",
+     "seen": "2026-11-18T23:45:19.310Z"
     },
     {
      "title": "وزارة العمل تعلن عن 925 فرصة عمل بالعين السخنة برواتب تصل لـ15 ألف جنيه",
@@ -408,17 +408,24 @@
      "seen": "2026-11-18T21:04:52.843Z"
     },
     {
+     "title": "المسلمون يتجهون لصدارة العالم ديموغرافياً والمسيحية تتراجع بأمريكا وأوروبا",
+     "url": "https://www.aljazeera.net/politics/2026/11/19/%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%88%d9%86-%d9%8a%d8%aa%d8%ac%d9%87%d9%88%d9%86-%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T20:17:43.000Z",
+     "seen": "2026-11-18T23:45:19.310Z"
+    },
+    {
+     "title": "أنباء عن حشود عسكرية متبادلة على الحدود الإثيوبية الإريترية وقصف متقطع",
+     "url": "https://www.aljazeera.net/news/2026/11/19/%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%b9%d9%84%d9%89-%d8%ad%d8%b4%d9%88%d8%af-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9-%d9%85%d8%aa%d8%a8%d8%a7%d8%af%d9%84%d8%a9-%d8%b9%d9%84%d9%89?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T20:17:40.000Z",
+     "seen": "2026-11-18T23:45:19.310Z"
+    },
+    {
      "title": "بيلينغهام يضع شرطين على طاولة ريال مدريد لتجديد عقده",
      "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a8%d9%8a%d9%84%d9%8a%d9%86%d8%ba%d9%87%d8%a7%d9%85-%d9%8a%d8%b6%d8%b9-%d8%b4%d8%b1%d8%b7%d9%8a%d9%86-%d9%84%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d8%af%d9%87-%d9%85%d8%b9?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-18T20:02:00.000Z",
-     "seen": "2026-11-18T23:15:20.239Z"
-    },
-    {
-     "title": "لنقل 30 مليار متر مكعب سنويا.. الجزائر ونيجيريا والنيجر تستأنف بناء \"أنبوب الغاز عبر الصحراء\"",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d9%84%d9%86%d9%82%d9%84-30-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d9%85%d8%aa%d8%b1-%d9%85%d9%83%d8%b9%d8%a8-%d8%b3%d9%86%d9%88%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T19:58:21.000Z",
      "seen": "2026-11-18T23:15:20.239Z"
     },
     {
@@ -436,18 +443,11 @@
      "seen": "2026-11-18T19:44:52.573Z"
     },
     {
-     "title": "التحالف يُعلن اعتراض مسيرتين أطلقتا باتجاه السعودية، والحوثيون يقولون إن الطيران السعودي شن 87 غارة على اليمن خلال 24 ساعة",
-     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T19:34:21.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
-     "title": "\"أمسكت بيده وقالتها علنا\".. والدة ميسي تختار خليفة نجلها في منتخب الأرجنتين",
-     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a3%d9%85%d8%b3%d9%83%d8%aa-%d8%a8%d9%8a%d8%af%d9%87-%d9%88%d9%82%d8%a7%d9%84%d8%aa%d9%87%d8%a7-%d8%b9%d9%84%d9%86%d8%a7-%d9%88%d8%a7%d9%84%d8%af%d8%a9-%d9%85%d9%8a%d8%b3%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T19:30:00.000Z",
-     "seen": "2026-11-18T22:45:19.833Z"
+     "title": "توتر بين ترامب وفانس بسبب حرب إيران.. وروبيو يبرز منافساً محتملاً على خلافته",
+     "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOUmw2MWRObFRQY05mVktMWktXMkE1elVtV2ZpeU9wdWZ5aDhGZTZOc0NoLVJfQzJBNV9td0xQSUpGN2M2QWhWRDQ1TjI2cm1JNFplbGIyZ3gxQTFQdmNyREtnbnhIckZwVlZ1TXpuOGZuLTc3Z0VnM29hRWhRc3ROeThIMHFnaEl2b0k3M3JzdFFMVW85QUVLQlhOUGI2R3ZOYW1MT0tJaHhBQW9xMGQwSDZYal90bThDNnlpYWh5VEtNZkh2VmxQankzbFRtQmdzcHFGOEpvWEwyZEEtM0xlUWsxaklLdDBvT094dkpLaEpqRkt0cUUwRFBPMUNRVXFGV0xLRVQ0TU1heGYtRVJOS0N1NktBeUdOS2x5eHd4d1ZfZ1dCcFY0REJGTk1VSWdlSHFZeFlvOThMMU95MGVUYWgtQUpYYjR1cVNrN0s5WG5yNlh1emhpTXFGd2pJb2puN3BGcUFTaURnX1d6WTV2c25HRUMtYzdYZ2hsaE1ESWpWUXZCYm01YXRkc0hkQTFLUy1obC1ybldwZE1aM01yemRVZ1I2alFod3hRVjctSDBSVTZNRXpacldqOEFuRk1NUUhrVHZmSnY2SkJYUVY1enF3TXp0YzhqeXdoZXo1YXhkS09RWi1ZSFhhUWhzT3pCZWEta1RhMTFWbmFqalJMZ085bTJ3RFFiR2ozdzd3eFRCa2Q2ZDJKcnhRTW94TzZxNHdrcEZxTlJ0a2k4cWFJTXpQalRrTi1hZFNmRzFXM2ZjTkREdWF3bV9nZGtEWVRJQTlGS0NwUjd1QVlFTGY4dnYzdm9sTlFCZF9rYXc0cS1CUdIB9wRBVV95cUxOZWlrY3N3VmJjemNaekZMcGVjSlkzWUdBdWZwc2k1UjhmcXZnNDR1alNnTjJJeUNxSlF0ZklzSFBOSDB0b0toS3JacjNNa253NVRzV1lpYUgtYnVTX0t6ODVhcTR6N2ZQTUNRODNZbnY3Tl84QlVoeDlXTkh2cmZIRFlIZjQ1Q1d3MTc1Q2U3REM4OVA4b0tJWmpVVGhXQTVRb1VjOFcwX052bkVPcEN6cFdqX2hfeE03bEpsVnNJT0NNOUE0dXA0RWpoWGhMd1JzTWd4RU1teTlfU1R2cTlZLWE2NzR2Rm02Y3VPU2tXNm1ZSG4xbVRZa3pTNXpVbEMxTERYWEpWSGhoNnVLeFNQOENKdEVzSWdSazRWMEVranFxaXhUNzNUaThFUHRXZEJ5VS1XZW1reEU2Y1kzanRUM0FFeHlZRVVrYXB1eUdNdVNBWjE0OGVqUkhzWWo1NDJFNmg3RFJCZ1JmandqMjZFN0FIY0Z5U19CV3hqbU0wb21PNXJmeHVOMFdZY1pua1F2T01FNzJGMVJ2ODdVLVpGbzVSMnlKSHBpN2RSNUkwN2llZkdWNnluSWlKWklUQ3FsOEZ6eFFGVnZMdFhZNDl5bjZMT1U4b3VyNC10b2UzaVhQVXl0LWtFTU1kOFhpVk4zUEFWam1vMERlWGd5VER2eDJMLUNoOHJZdEFlSlRacjBnZ1czaEpVc28tMWE4YzFPbnYyYTFNOTlVdENjZUgxdi01eFI1QU5BTDJibW5ERFZwVVN5NkVKUFRBeWxncFM3aE41a2FIaTRScFhmeGhGZ0lwS0NPd3lDZ3BYZFdEOTlkeDlFWE5j?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T19:38:00.000Z",
+     "seen": "2026-11-18T23:45:19.310Z"
     }
    ]
   },
@@ -484,6 +484,13 @@
      "time": "2026-11-18T19:40:13.000Z",
      "seen": "2026-11-18T19:44:52.573Z",
      "impact": "يؤثر على قطاع السياحة والسفر والمواطنين في مصر من حيث طريقة التعامل مع منصات الحجز الإلكتروني."
+    },
+    {
+     "title": "التحالف يُعلن اعتراض مسيرتين أطلقتا باتجاه السعودية، والحوثيون يقولون إن الطيران السعودي شن 87 غارة على اليمن خلال 24 ساعة",
+     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T19:34:21.000Z",
+     "seen": "2026-11-18T19:44:52.573Z"
     },
     {
      "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
@@ -548,33 +555,10 @@
      "source": "العربية",
      "time": "2026-11-18T16:03:00.000Z",
      "seen": "2026-11-18T17:44:52.901Z"
-    },
-    {
-     "title": "\"مصافحة تاريخية\" بين بوتين وترامب قبيل قمة ثلاثية تاريخية في الصين",
-     "url": "https://www.bbc.com/arabic/articles/c64gn38dpqnxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T15:29:08.000Z",
-     "seen": "2026-11-18T08:33:19.472Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
