@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:34:52.514Z",
+ "updated": "2026-11-18T20:44:53.175Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T20:34:52.514Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T20:44:53.175Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5630,
-   "change": -3.46,
-   "asOf": "2026-11-18T20:24:51.000Z",
+   "value": 5635,
+   "change": -3.38,
+   "asOf": "2026-11-18T20:36:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6428,
-   "change": -3.46,
-   "asOf": "2026-11-18T20:24:51.000Z",
+   "value": 6434,
+   "change": -3.38,
+   "asOf": "2026-11-18T20:36:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3727,
-   "change": -3.55,
-   "asOf": "2026-11-18T20:24:51.000Z",
+   "value": 3730,
+   "change": -3.47,
+   "asOf": "2026-11-18T20:36:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0979,
-   "change": -0.17,
-   "asOf": "2026-11-18T20:34:47.000Z",
+   "value": 1.0977,
+   "change": -0.19,
+   "asOf": "2026-11-18T20:46:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.84,
-   "change": -4.62,
-   "asOf": "2026-11-18T20:24:37.000Z",
+   "value": 88.91,
+   "change": -4.54,
+   "asOf": "2026-11-18T20:36:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7318,
-   "change": -0.31,
-   "asOf": "2026-11-18T20:34:54.000Z",
+   "value": 7328,
+   "change": -0.18,
+   "asOf": "2026-11-18T20:46:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62507,
-   "change": -3.68,
-   "asOf": "2026-11-18T20:34:54.000Z",
+   "value": 62426,
+   "change": -3.8,
+   "asOf": "2026-11-18T20:46:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,45 +139,59 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني: نمو الاقتصاد 4.9% مؤشر إيجابي.. والتحدي تحويل معدلات النمو إلى تحسن ملموس|خاص",
-     "url": "https://www.elbalad.news/7186053",
-     "source": "صدى البلد",
-     "time": "2026-11-18T20:32:32.000Z",
-     "seen": "2026-11-18T20:34:52.514Z"
+     "title": "رسميًا.. جمال السادات يتسلم ميدالية الكونجرس المهداه لاسم الزعيم الراحل أنور السادات",
+     "url": "https://www.youm7.com/story/2026/11/18/رسميًا-جمال-السادات-يتسلم-ميدالية-الكونجرس-المهداه-لاسم-الزعيم-الراحل/7624125",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T20:42:00.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
     },
     {
-     "title": "المغرب يخطف الأضواء في النسخة الجديدة من التصنيف العالمي للفيفا",
-     "url": "https://www.elbalad.news/7186054",
+     "title": "عمر كمال عن موقف في حفل زفاف: «لما ربنا كرمك ووصلت تضايق من الناس؟.. ده أنت من الغلبان ده وهو اللي عملك»",
+     "url": "https://www.elbalad.news/7186051",
      "source": "صدى البلد",
-     "time": "2026-11-18T20:32:12.000Z",
-     "seen": "2026-11-18T20:34:52.514Z"
+     "time": "2026-11-18T20:41:28.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
     },
     {
-     "title": "الجيش الإسرائيلي: سنواصل استهداف أي تهديد فوري من حماس في قطاع غزة",
-     "url": "https://www.elbalad.news/7186050",
+     "title": "رئيس الوزراء يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة الدولي",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXV2J1a0RRd2VoRHY2LU9DMUJlUXdjTzF2ZmZUQnRmOHNfR0RnRzZpTl9MTXdIU0IwcHdrOXBsSzNaNnRkRkljV29ycFhqMTN0UjhyMjZrNHFjNTdiRmc4?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-18T20:41:00.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقى عضو لجنة الشئون الخارجية بمجلس النواب الأمريكى",
+     "url": "https://www.youm7.com/story/2026/11/18/وزير-الخارجية-يلتقى-عضو-لجنة-الشئون-الخارجية-بمجلس-النواب-الأمريكى/7624122",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T20:39:00.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
+    },
+    {
+     "title": "وكيل صحة بني سويف يتابع أعمال الإنشاءات والتطوير بمستشفى سمسطا المركزي",
+     "url": "https://www.elbalad.news/7186014",
      "source": "صدى البلد",
-     "time": "2026-11-18T20:30:37.000Z",
-     "seen": "2026-11-18T20:34:52.514Z"
+     "time": "2026-11-18T20:38:27.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
+    },
+    {
+     "title": "فتاوى تشغل الأذهان| حكم اصطحاب الأطفال إلى صلاة الجمعة.. ماذا يفعل المصلي إذا أقيمت الفريضة أثناء أدائه صلاة النافلة؟.. وحكم إعطاء الأخت المطلَّقة من الزكاة",
+     "url": "https://www.elbalad.news/7186057",
+     "source": "صدى البلد",
+     "time": "2026-11-18T20:38:02.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
+    },
+    {
+     "title": "مدبولي يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة الدولي - تفاصيل",
+     "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQT2o5WlVUbGhFUTJOc3ZIM0FoT1dyOUZlZ0pFbnRZLWw5VXpfMGVtMTc2bEJRQWYtVDdzSUJQS1QwaDZjRlhRdkM0cy1wUlpPTXlwVVVlNS1xRmdQNlZFaUpjT3IzS2phbkJSSFFsV3kwVmZNY0lMbHViQWZ6UG9aUnNjR3FxdXZ4WnpTWFAxWGRMWnRmUTN3V0Y0aFUtRTNjZ3hlWUZGOFRMTHotZGlRNE9KWDJ1UVdSM2ZPaHpyanJWZXZkUWd0aUI0d3g3a2pRaVhXNUhWV3Q3WkluZC1ra1Rja3hmS3UtMWtUWWlIYVk1SElQSDFBbHZGQXlPUm4tZlBiNkwtNWlzODdxRTc2SDB0WXdyUEhLbkNvQzNWUGcwNzVKVkRLUEJCQk41Y2RzZDFqdk1DT2MwRG9QSlhFNmRjcXBCNHpaQkdZMlZjU1RqN2xtX240OFZXakVrbmxlWGhZQ3RxalNOQjA2V1cyOENIUTBCVVdyOU9SazVWblc0NkxEVzZ6cW9SdndPNGFJNTByOUpXeXk4ZEE2R1ZlclFrcFE2Zm9hZW5KenhyWmF6TWs4NVB4bHJSRHQya0ZrNjh5YlI5WmJUMG9zcVBIMmRZUXY5SWZVZzJPRWZ0VFZ0UTZMWlJsNUJIcTVtbnUtdHp3T0ozYVVyT19NOEpiUHdlZFdnT2JHQ3FaeF82QVl1c2VlVmtYMnRnUGZobGtLUnhZc2w1bDJSSktYMlVkTy01UGlFSkRNZzNuV1lGYmVHd2JoLWRpTUcxUHJwMk0ydldHdS04blJobjlyOElJa3BienAzQmZKU2FPWFl0XzhHZF8ySk1ZOUdhY2NONTdPUFhrYlU5RXczTnfSAZAFQVVfeXFMTXJBUWQxM3JDYlZJcUF6T2tpVndGMTBOR2ZQWWNscHlTbHNKbXNONElLaUVqSEV2d2hRNXpuMzFvbnUxQmdwRGxOdHF6bWtTYWthOTEwOFVpdjRSTktxLUdOSHZRXzNORmZyY3BnMmZ3amlMdW5QSjdzRnZQQXRqdkNfRlNNN0Etd1BKeGJ6a0t4X2pWU0l6OE11Zks5M2t0TVIzOWNfYWltb2dDRDlDWFJiWC1tT3FuNldlXzhRWDFRMkFiaTBqUzc0eTA3QnU4MXZIbmk0R0Z6MEFRcG5VaXM3dkowV21qYXBqYkl0STRwYndzNElXQkZZU01tS2p1VFB2YnF2b3U4QUdvZlR4bURPZ0FuQzFmOTdpWXNRZmxyOUVBdUhvTjVQaG9XMVdHRkRIR3dYVngwNEp4bTBwQm9Ddkt0YjVSX08xYlIzd0NZdThKNXNMNGk0VExJLVNXcE5OZFlCcHhMVmk4X2U2eWFZRG1RWXJFVDhxX296cDBaMG1IeHROcC1BZWRXTC1WM29VRFdjWExwMmExTHNkdVYzZHU4Y2pfQzNveGp6THRON3Q4Y0taZEVjR2xKaDh0akduN3lrbG5EMnZQR0tUZmx0N1hLNjJHV3dVVmJOM0lQbWdlTUpPeHpoZlo5Tkl4cnZwMlFVekhjOXVPQjZrcFlmNnBhZVI5WXI3bTlfbG50Vzl5aXg0Q0h4X3FES3RndkdyZExWdmVyaDQ0UUZsZGIxQ1IySjBJczhGOU93RkNsSV9iODJPSXJYVk5FNXpJQ2hhaE5PQm9hMDQ0VXptZEJfRTdwUDR5SFJydlhndUtYZVU5d0dLLVVnQ1FrdHFwVUE3U25BaXo5MER1eTE4bFI?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T20:36:46.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
     },
     {
      "title": "فخامة الرئيس السيسى تزامنا مع تكريم الكونجرس للسادات: علينا استحضار روح السلام وأثره في منع الصراعات",
      "url": "https://www.youm7.com/story/2026/11/18/فخامة-الرئيس-السيسى-تزامنا-مع-تكريم-الكونجرس-للسادات-علينا-استحضار/7624106",
      "source": "اليوم السابع",
      "time": "2026-11-18T20:21:00.000Z",
-     "seen": "2026-11-18T20:24:52.568Z"
-    },
-    {
-     "title": "من التلاعب بالتخصيص لاسترداد الأراضى.. كيف تستعيد الدولة حقوقها فى أملاكها؟",
-     "url": "https://www.youm7.com/story/2026/11/18/من-التلاعب-بالتخصيص-لاسترداد-الأراضى-كيف-تستعيد-الدولة-حقوقها-فى/7624098",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T20:20:00.000Z",
-     "seen": "2026-11-18T20:24:52.568Z"
-    },
-    {
-     "title": "التحكيم الدولى.. معارك قانونية لحماية اقتصاد مصر من مطالبات المستثمرين",
-     "url": "https://www.youm7.com/story/2026/11/18/التحكيم-الدولى-معارك-قانونية-لحماية-اقتصاد-مصر-من-مطالبات-المستثمرين/7624101",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T20:19:00.000Z",
      "seen": "2026-11-18T20:24:52.568Z"
     },
     {
@@ -216,25 +230,11 @@
      "seen": "2026-11-18T19:44:52.573Z"
     },
     {
-     "title": "مدبولي: المختبر التنظيمي منصة وطنية تجمع الجهات الحكومية والقطاع الخاص والجامعات",
-     "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPRmhDd1lDNzlIOXdmYXFsa3ZTZUhRNHpYTmV0U1JLQkU1amFKdXVuYktBSUhUNno3TFNvakdsVmdmZWtKVExDcUxnczUxT3hkUGV6TTQxOEp0V21wYlFxNDBxYmFZbWxZVll6LTY3WmNCSW41VlN1N2VzUGFZTkdhbk9PaXp4RDlIN3drV25Cdy0wY2Z3cElQN1JMM2dGNXZQVDRJNFIteF9FSEVXZURTNHpwcUNvbDFaazlpdnpyOWllZUpZbXlac1JiaGRlYVdhSnlIUEp1RkVLT2pSOVU5VmtCcGswNHJkMzZORl9RWWlIbXdPY0g1ZzRuNkVVVzBZTFhpVlJ0MXg1dnFmZnF6RkxQQmNSM0MyVlhFbDFZTU9XRTA3dFo4Ty1SX3E2YXg0d1FWby11QzdRQUd6b0lTblhGaFFMLXF6Uk1JcE5YckRFQnpkeGdZYjJOV1hyRmFhcVY2YXZPd1ZFc2RBUTRhOXRvVUszQTlhb2h5RnlUVk9LVG42Y29rR04yYThZRGcxM0NfOTNWNWNqV1NqMWFKeGpEb1RpQ2pSZXJuSlpQbjdtSEhHeFNuelNfelBqdjh5cTZzUjNXVEhFSk5hY3M3WlAwdlh2M3F4cEM1bnJVdHRzWjJNcEd6UlhPVXFaamNuU0tRdzdhTUk4eGZPc1lVV3NBR0Vkc05nNW1xYURZWjlwYjl5VFYzWENUMk4wR1N6NDhUaS1LWGpLME13NWtrR1dBX1hXb2ZWaVJCODdadG5mUVBtdmJvV3NZaU5oT0tCT1k2X3NwR1BUY2IwU0ZraG5WZDNPOFpFb2JGOFNEeWtGbzhVVlNZclUydDFqQ0RJdU1lakJIYVZldHc4d1JzMmQya3dKWVQ1YjNhSXhmVG0wVE53cDJqbnE1RdIBsAVBVV95cUxOQ0t5bEI4c0VCeFFrdk9rRkpCQTc4Wm11aWJQajRyQ1JUQzJSWmxJTEF3MVphOTluY3ExUFJDMXdVTC16Rnl5U1ZRWFA4VXJRMzE0MVg0NGxhZ2xIcnNHOUM4ZEFpV2dxTDh3X2NVbDY0OHY2QVlqUGdIc2o0RkdmMmRTVzQ1Y0daX0pna0hXNnJHVUxZYlpUaE5wSHZJWmdFeGRqYXd2S0VLNm40ZnZpYjNHS3RGeTFQRzNqdUZEa2I4NXBHRkE2dVNEdVFYQWxGZmtnSVlZQm5Vcmh6VW1EV2VmcUkwYWdJQnV3M1lselkwYXpmd2xpSENwcWdNWHVGN1MzOWRLaTFoZVh4TnlxRmZZX3I1anNJNzZvMUVsMUtHOFVJTTZzMGR1VDBzbGp3aU40VUdfb0lwaG5KTmc5bjU4cEFtdmsxRTlqVTNFRG9NOXp5NTRqZzA0NE5NWVAwV1hjQ0dJZzEwVlNaTWk1bkZTMF85NzNqRXl4a2hPYWtMQVQ5blVCeXI4RGZUZnE0aXR6TC1JbzJNQWlXNWlSSklTTHZGNmZZSFVDYkU1VWpHcVN2dkJlcXBic2VvblhScl9FQ2FEVDZGV3NRWXZJX3VaWjRvbWtQVm1VQ1hzTTZNa19WYW1ZRkFOTHd0clg2Yy1yNTRTdUhzb3NQX21tUTM4LXRfT1hJNGhaSlR2bWxULW11WTF6c25PTlI4dFRBTXk5TE1SWDBGNVZPTmdPZTV3VDJlOEVoUGlFa3V1UUVSal9aQmo3MGNJUURFRTVLOXRlUEdFV2I3Z0g0S3pQM0ppajMybG8zVXJfNGt5U21kemJLNTljanZzWTc5RThOa0xub3JpdmlBZ3V0NmVoX2x4WnhBdjUtQ1dXcjlzdTZnU3p2Mi00dVk2ZlhjN0hY?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T19:30:47.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
      "title": "مدبولي: اهتمام مبكر من الشركات والمبتكرين بالمختبر التنظيمي لتكنولوجيا التجارة",
      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQT1JLZlJKWGIzMmFhRnVwbDJVMDJVaEQyYkE1cUJtMjNNemY2N29hX3VtRE5GRXRac2sxdXkxLXc5d3lyc3EyRHI3S0FudUZ3TUdWTXNLNWNaSmlDYXJ0TXF3WFBlOWs2SDA4TDZUcWFMQTdTdUp6S2RjMGk5MWFUNERhR3JDUTBSUWN1bDFEcVNzVTJkZzY5bEVCdVo0eEE2WVpGaDlQWndTMjRJeFV6R2prRVJSUGU5YzhuVnZFdXY3Tnh3TklWNUJ2d0luUEFTZWdnTVBFRVpUdVFKbWtBOEJfUGRqM1BGcHdjVk8zaXkzT0ROM1E1U3FBWVoxaHpZUU4yS3c2cmJ0eGdkVzJ4dDRPMjkybmdPU3dqbWp4UzNzR2ZiNHZwbFVPVU5Hb01yQ0dLeG5FTXBPcGJnWmJQV1JDc2FuY3hmLV9keXM2WWpKZHplNXJSZ3dHazQxc2dYM0tEUjRhcEswSWhLTFc3TTlrQm9DQmNFWXZXVlk2Ty1WOHZtZWRkeExTeUxPRzJMWVdMc0JDdFhhMW9Fd1Uyc1hhVElwdw?oc=5",
      "source": "جريدة المال",
      "time": "2026-11-18T19:19:41.000Z",
      "seen": "2026-11-18T19:24:52.350Z"
-    },
-    {
-     "title": "رئيس الوزراء: المختبر التنظيمي تلقى 15 فكرة مبتكرة قبل انطلاقه الرسمي",
-     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTjZsOWFHZXUydTc5Z2h5RnVtdEZtMXNFNnF0UEFkYjNMMXdtMWV6RFFsQlVfYlhMSW42aHFmaVNQazFCa3UwcnUyZy1BVEZ6eWpjVmRxbjc2bzFaWFZHV1RsTmhlOE1ZMEhfUGo3djlQNkljUXUwU0tOS2ZSRHZqZFBGb2pkV0czMzBOTFNKeFNJVEVvb2UxX3J3bFg2UTZYTjhBNnE1SzZwdk1nZlUxWExVX0R6T0hMQUtuak4wMnIyYVFzWllzV09nSWRuTi1PM2s5LWZsemd4elc0el82SlNPUVMxWHNuaFlzemotNmJ2NmFySTVGUVlNUUlxUWE5T21ldmg0V2dzS2VuanVlTER3VDl6NHExQ3ZEX1RqeUR3ZGdVWXBVRnhMZzNLWF9Wb2RobkhnYmtBYzdZWWo0emtVNWdVMy1LYmd6X3k3Q1BPM2EySzN1cUp4MFpUOTlYbllrZGVTWDYwZw?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-18T19:11:16.000Z",
-     "seen": "2026-11-18T19:14:52.585Z"
     }
    ]
   },
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "أخبار الاقتصاد اليوم: تراجع النفط والذهب والفضة خلال تعاملات اليوم، ارتفاع سعر الدولار بالبنوك المصرية، والبورصة تتلون بالأحمر وتخسر 15 مليار جنيه خلال جلسة الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45MmJ4bmt5TE9fRXAtSG02bUkxVkVUOEVrVFA2TVpHSWk1b1ZTajZEUVU2dTN3ZlFxM3ZiMDN5MUgzSkxRUzJR?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-18T20:34:00.000Z",
+     "seen": "2026-11-18T20:44:53.175Z"
+    },
     {
      "title": "ارتفاع سعر الدينار الكويتي مقابل الجنيه في البنك الأهلي مساء اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wZGROMGxiWnFseXZ3UUxJMXJxNUtqaXVlaFFGTWNocUtSMHg4YVNaX2dUdTc1TW1obEw5VWVUQ2o4VG5MYkZZ?oc=5",
@@ -262,13 +269,6 @@
      "source": "فيتو",
      "time": "2026-11-18T19:48:00.000Z",
      "seen": "2026-11-18T20:14:52.322Z"
-    },
-    {
-     "title": "ارتفاع سعر الدينار الأردني مقابل الجنيه في البنوك المصرية مساء اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZSWNOUVF5bkR2eThZVGpzRnBreS1NdXY5WTZld3BrMVctd2lNQXpTX3Z6LVFmN2Q2UWJUSDdCN3FBSDF2eXI0?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-18T19:43:00.000Z",
-     "seen": "2026-11-18T19:54:53.144Z"
     },
     {
      "title": "التحالف يُعلن اعتراض مسيرتين أطلقتا باتجاه السعودية، والحوثيون يقولون إن الطيران السعودي شن 87 غارة على اليمن خلال 24 ساعة",
