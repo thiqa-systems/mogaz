@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:34:52.585Z",
+ "updated": "2026-11-18T17:44:52.901Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T17:34:52.585Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T17:44:52.901Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5667,
-   "change": -2.83,
-   "asOf": "2026-11-18T17:24:55.000Z",
+   "value": 5663,
+   "change": -2.91,
+   "asOf": "2026-11-18T17:35:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6470,
-   "change": -2.83,
-   "asOf": "2026-11-18T17:24:55.000Z",
+   "value": 6465,
+   "change": -2.91,
+   "asOf": "2026-11-18T17:35:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3751,
-   "change": -2.92,
-   "asOf": "2026-11-18T17:24:55.000Z",
+   "value": 3748,
+   "change": -3,
+   "asOf": "2026-11-18T17:35:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": -0.2,
-   "asOf": "2026-11-18T17:34:43.000Z",
+   "value": 1.0977,
+   "change": -0.19,
+   "asOf": "2026-11-18T17:44:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.19,
-   "change": -5.31,
-   "asOf": "2026-11-18T17:24:47.000Z",
+   "value": 88.41,
+   "change": -5.08,
+   "asOf": "2026-11-18T17:35:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7353,
-   "change": 0.17,
-   "asOf": "2026-11-18T17:34:56.000Z",
+   "value": 7335,
+   "change": -0.08,
+   "asOf": "2026-11-18T17:45:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63440,
-   "change": -2.24,
-   "asOf": "2026-11-18T17:34:55.000Z",
+   "value": 63132,
+   "change": -2.72,
+   "asOf": "2026-11-18T17:45:01.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,39 +139,67 @@
    "title": "مصر",
    "items": [
     {
-     "title": "رئيس الوزراء يشهد إطلاق المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة",
-     "url": "https://www.elbalad.news/7185854",
+     "title": "النائب سعيد جمال: تكريم السادات شهادة متجددة بأن رؤية السلام الاستباقية تفوق كل رهانات الصراع",
+     "url": "https://www.elbalad.news/7185868",
      "source": "صدى البلد",
-     "time": "2026-11-18T17:33:34.000Z",
-     "seen": "2026-11-18T17:34:52.585Z"
+     "time": "2026-11-18T17:44:29.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
     },
     {
-     "title": "انخفاض أسعار النفط والخام الأمريكى يهبط لأدنى مستوى",
-     "url": "https://www.youm7.com/story/2026/11/18/انخفاض-أسعار-النفط-والخام-الأمريكى-يهبط-لأدنى-مستوى/7623953",
+     "title": "مدبولي يشاهد فيلما تسجيليا عن المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة فى مصر",
+     "url": "https://www.elbalad.news/7185865",
+     "source": "صدى البلد",
+     "time": "2026-11-18T17:44:08.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "نيوكاسل يونايتد يخطط للتعاقد مع مهاجم أهلي جدة",
+     "url": "https://www.elbalad.news/7185867",
+     "source": "صدى البلد",
+     "time": "2026-11-18T17:43:55.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "أمين عام مشارك بكنائس الشرق الأوسط: الكنيسة فى عهد البابا تواضروس منارة للمحبة والسلام",
+     "url": "https://www.youm7.com/story/2026/11/18/أمين-عام-مشارك-بكنائس-الشرق-الأوسط-الكنيسة-فى-عهد-البابا/7623987",
      "source": "اليوم السابع",
-     "time": "2026-11-18T17:32:00.000Z",
-     "seen": "2026-11-18T17:34:52.585Z"
+     "time": "2026-11-18T17:43:00.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
     },
     {
-     "title": "وزير الخارجية يبحث مع زعيمة الأقلية بلجنة اعتمادات مجلس النواب الأمريكي تطورات الأوضاع الإقليمية",
-     "url": "https://www.elbalad.news/7185833",
-     "source": "صدى البلد",
-     "time": "2026-11-18T17:31:29.000Z",
-     "seen": "2026-11-18T17:34:52.585Z"
+     "title": "«نيفيرا مصر».. مدبولي يكشف خطة تحويل غرب القاهرة إلى مركز سياحي وترفيهي متكامل",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01WEh6bldiM3hJc3Y0ejcxb0ktbDFHbDdpZVZfenZvZUZIQ182Y3h4dkU1cHJBSEVkWjRQc0REQTdyNFZBR0lOU3hNM0F0V2Y0UjA2c2ZqSUpLbGdxOC1v?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-18T17:42:00.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
     },
     {
-     "title": "القبض على طرفي مشاجرة بالبحيرة",
-     "url": "https://www.elbalad.news/7185851",
-     "source": "صدى البلد",
-     "time": "2026-11-18T17:31:20.000Z",
-     "seen": "2026-11-18T17:34:52.585Z"
-    },
-    {
-     "title": "على رأسهم وزير الداخلية.. قيادات أمنية وشخصيات عامة فى عزاء اللواء فؤاد علام",
-     "url": "https://www.youm7.com/story/2026/11/18/على-رأسهم-وزير-الداخلية-قيادات-أمنية-وشخصيات-عامة-فى-عزاء/7623824",
+     "title": "تعليم الجيزة تراجع الموقف القانونى والفنى للمدارس",
+     "url": "https://www.youm7.com/story/2026/11/18/تعليم-الجيزة-تراجع-الموقف-القانونى-والفنى-للمدارس/7623980",
      "source": "اليوم السابع",
-     "time": "2026-11-18T17:29:00.000Z",
-     "seen": "2026-11-18T17:34:52.585Z"
+     "time": "2026-11-18T17:41:00.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "مدبولي: غرب القاهرة يمتلك مقومات تؤهله ليصبح مركزًا متكاملًا للسياحة والترفيه",
+     "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNMlFSQ0VSZzRVMkFjWHhnOWd4OEFKTndhOXBmcGlvY2h2eXdObjNxV3VuZG9zNkZVQ28tY2hfWXBmVGJmUEFmM1pORUttVklRcDBGZGVZRFlZelIzR2p2X294cUNpWl82SmF2bUhzeDI2eUd3SmdxTFV3WWN1ZXkxVjdSWmFiSHFUNVVsZ2tyUVpmUGN0YkVBMmUwaEFJZmV1WTZqRTVCbDI2c1FxWTdBQU45NUt3amllNktRLW1oN0trZnRkSnlFZFBBMURlT2F6Nks5YkF6ck9Ob2JyaFMyM0NYSUx1TVVuXzk2Vk9xSlpVMGFwSzREY2hRaV9Vc3lhRVlhSnA1bTctcTRZRmwxd2ttWFptTy1BRUNKSUkzS3dmWkhYMjVLaDN6NVVJdmUxZ0pWWmJfanQ4a3VNQjB1bzBtY1ZjanBGQkY4blJwUkhMVFdLbzlmVmpfR0xjRDNVRERZd2xCQUtkSnlXdFg0VTZ3THRqSU5pVHh1WnEtTW1WOGoydUNUM1M3bnl5M0xuLVpneW5BWGpGeC0wN2ROUVA1eUNyNGl0dHdLYmYtWV9YU0I5bkxMODRDX1BncFZRTkJvZWo3ZnhyUmRjcFpZZEY4Vy1uSnJtTXdacVlpenc2M0NTeFd0aExNS19wYTdGNkFTMmQxd254NjBMTjI1UTJ3UWtvVk9GT0ZoWUJLMzVEcHlGQi0zei1GbHhyT3E3TjRSS0NXZU5oRHpjeGpXeXBKdGROOWF3R1dzamJxYngwcHA1c1VoR0gzMEU3TUZwU0tINEpNMzFERU9Nb1RCZFJmY3h0UkxiUHFiZms4NTY5RTkyVTBEMWhoM0tBY0RjNHNyUDB30gGLBUFVX3lxTE93SnVtbVg5T1plaGpUekFkR09xUGJpVVNRLUhVNzllaS0tSVI5REJtTEpFNHIzd3dlQndSZUktRWY5Qy02Ykc3c3I4QnRybFNZVEV0S3ZGY3pCZHVDNU42QWFkVDZRSV9NWnlLQ1lfaTZjMldkS1pla3BpdmhPUEFyb0pnYTd4dmdYOU9YSnZUWWY0MzVzRDViOGNhalcxZjA2WGVBb3JsbzNZUzZHTml4RTdQT1lLUk4yem1yUnhMU0YyZnVQTVEzUUxkS2VvcGFNZ1NVSEp6QWlYTXV0ZmR4TG50U0FzYVRBaHFSQ1FST3ZQc2FMNlVKV0lnVURrNzl0V19JMmppdGdneVo4ZUdtMlk2OUpLQmwyYVJucXpTOGJibTRaTDMydVE4UXI4a3pZSF9rQUFCbnNVd3pGdUVzcW4yTEtKalcySDEyc25SQ2VXMlZDU2NJeGdMWGNWNm1tcDBudFdka2NwTVBuUlpXQklCWG5vYVk1VTM2WnR0c0VCbjZZelM3U1pSWFVVU0ptbi15OVpyTVY3WW13SmJ1dDBfeXdYVkVLcGRyUkVnMG9JZnl0N1FnTkVMNDAxNXBmUXhJMjRwa05LZmJnbjBPSlcxdWh4SWUtb2RwblVHNVE2UnJoblFqSzNabUx0TjFzSzlwVkU1ZDBKR19SUzZ0Q0FWdU5GakNzQ2pXSEMzZkc3ZTU4ckhGdUdHbG53NFo0OXZxcF8yZVZESWh5QktkdE1McjF2dGp1YnUwTHo5dU1ja3Q5X2ptODVuTTRsaWY0YVRSXzhEcWcwMnBLaXZ6QkVENVVpVlNWLVF4X3dDc3FrUDRJLUFkbmtwcXZTbUJER3lQZjJtUV9GUQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T17:39:07.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "مدبولي يشهد توقيع شراكة استراتيجية لتطوير مشروع \"نيفيرا\" بالجيزة - صور",
+     "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQWkJKSVFRSEtXUFBlZm4yRFh3RkpzT2R4Wk1kdnZaVEM5LWlUdnMtYVNwbTNXU0VRWThEeTdaTGJzQ1dQNFM0dFNGWTB4NDctUkZDQzlsT2VyZzdYTFFhelhTWFJNM1p0UVVUMm9qV0kzdGhEQ25qUkNnY21GTW01VmtOcVA1cVgxb0lBaGpJX0tXNjZGVllLSERJNE5UVTJBWUNHVzYwX3YyWmN4MkhZenFmTVl5VGMyUERjcEVCUTktTVcxZHVWZ1BhOGJLR3Q3a2JUQ3lybGkwaVNOYXIwODQwa3prYmhtSU1FMnZUSUpHd0tsRGZzN3prN3p5RGFfMVJfaHJrbVNCY0t5TzVHV1RKZnc4U1BuQnZWaXZYejlNSG8tcDhrSElFREd0SzlLamVkeXFxem9vRXpLNTZMZURNVFdYYkFmdE9FLXFvcHJfaEhTUWRrc3VVSno5Vk5ud083RHpIUzdfSUsxNWhJaFlhTENzUE4xNGU3c0ttdjJPekk1eTRoNFhFM0tmMEhuTUZ1cTJpSDlSYTRvOTc0WjFFYkkwdjdDWC04UV9acmFYaGRNSzVtMVAwVWRWU3g4Sll4MlNHR3BRX1FkN0tOWE9zNXF0V2FuaVhIOGdSZGc2MXBrYkZnMHRCdHhZbUlFaGdIdVN0TFBJZVNCSkJiaEl5b2VvVlY3UG9KdzFXRE1QU1ZGQnZxSlZSVUlkdDRSdmJISF9KaFMyZGNTYXQxaFF6MEZzS09RbHdMNTEybDdhemRjZXBvbWl30gHPBEFVX3lxTE54VzJjQ0ZBTzVQbzB0enNTQnJTSVBhRmtRLXpWRS13dXd1MkV5SDJ0NWxOTTVlWjBlVUZESGNfSmNLNkxKb2dHb2dBU3JVOVN0Q3pwTE5TWUI4Q0NwenZzQTVCRVRIYjZyRTVULTB6SXVqVzI3WFZPVV9lVmtZYjl4ZW5SOGVTU0RUR2tyMzlVaVlxZnNqdnZncTJQb0N3YzNaVkNEamo3VWhfN0c3SWw2SEZrTEdfUGYwSjktaERyM2JCcnVibXFxTThiQUdFLWx3SzVfeTZwdEFoUmtqRDBmdTZwTjh4Vm5IMmJqWklGS2wxQlRkb1hxUWpKY1V4T1lKbWJvY24tVzZlWDhHbWpYNC1QamxsWE9HOElIcmZlOTJMdXM5Rl9JdkNrYVBwcXBERDFDMThFTjRsSzZCRWJYOGZ0Mm4xUGQxOWtVeUwxZ3FQcnh0TDNiZkZXYlliLU81OVlEVFplSmZQRjJORHdKNUZDNV9BQ2pkNTYzX2FyT3VfNm15MDZmeURsTG9HcWgtQU82d2JtM3c5RHNoN254SFlIWXlIX3o2cGxNVnpnWlg0QWV4Sy1jUVFSUEYwbGxoNVQxT0VXZVpsNmNLWVRWbkVKSC04blp4ZWR1azBCU3NqSTJsRGVFcEwyQk5oV2dFenNMTmt3Z29HVEhXc1pxVFVLbTNVdmFUMlFNYUx2aVBzaTBBb0p2NC1UbVRObmdOc1ZpekNWR244U2FKZ3BfektMbXJGVUZsNnRFbHNJZXRNVGZhM0h1Y3BjRDRKWQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T17:36:48.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "وزير الخارجية يؤكد ضرورة ضمان حرية الملاحة البحرية في البحر الأحمر وباب المندب",
+     "url": "https://www.youm7.com/story/2026/11/18/وزير-الخارجية-يؤكد-ضرورة-ضمان-حرية-الملاحة-البحرية-في-البحر/7623975",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T17:35:00.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
     },
     {
      "title": "مدبولي بحفل إطلاق «نيفيرا»: يمثل خطوة مهمة نحو ترسيخ مكانة غرب القاهرة كمركز تنموي واقتصادي وسياحي واعد",
@@ -179,13 +207,6 @@
      "source": "جريدة المال",
      "time": "2026-11-18T17:22:37.000Z",
      "seen": "2026-11-18T17:34:52.585Z"
-    },
-    {
-     "title": "سيناتور ديمقراطية لوزير الخارجية: نقدر دور مصر فى دعم السلام بالشرق الأوسط",
-     "url": "https://www.youm7.com/story/2026/11/18/سيناتور-ديمقراطية-لوزير-الخارجية-نقدر-دور-مصر-فى-دعم-السلام/7623964",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T17:21:00.000Z",
-     "seen": "2026-11-18T17:24:53.159Z"
     },
     {
      "title": "«مدبولي»: مشروع «نيفيرا» يجعل غرب القاهرة البوابة الرئيسية للسياحة",
@@ -214,27 +235,6 @@
      "source": "الوطن",
      "time": "2026-11-18T17:04:06.000Z",
      "seen": "2026-11-18T17:24:53.159Z"
-    },
-    {
-     "title": "مدبولي: إقليم غرب القاهرة من الأقاليم الواعدة كبوابة للتنمية الاقتصادية",
-     "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPOFJmdFRxOHF5SldGZjZwTnZrNTNUdGpvVUp6NXh3bFQzb2ZFWlJiNWJWcHU5R1J5bVZfck53cU1iYXhEcHo5ZllDOXVmV2t6eUIzQnBGWDVMeS1SWkZjOERCQWJOS1ZESk1VWC1yRERzSG9sOHVUajdJOGpJVldIaktCMU85aGN4ODFMRThZMXNvSG92OENPb1pNaGxhd1l0WVRaZEJBUm9lamN0a05sT1JTSjFqOGphRkNINk9CeG1adXRsTVBvRDU4ZDFjQ1FzdGZ0bW9nX3R3Y1J6cHEzWnJTNjEzZ2QwdHotR045QU42LUJkYS1EVnZNd1UtUG9qRlYweUhGa2RnUmFiZ0oyem84bFk1V2hESzdrd1FHUmRhOW1URW83NlJsS0gtNWJSeTQ4UHBPRWN2UHlQWFRWZlVRaHlGNWVmUDNBbVBmUTFOd01VaTJiaGlKb196cU02cFVvSUpOMl8yc3daa09kNkM0QURKVnUtbXNHTVZZQmlNaEhES3FtWjZFNXJfZXNQWkJ3M1JGSU9OQzdHRzltX3NBRTVIMm95dDduSzlybzNjZTlyamtHcEt5WTdRZzdJV3lSV0ZneFBLbDNVem9JNThlUU1FdHNESVU5R1p4TU01X09mMVdiU3d6dmNjajZvazd3YVk0NjNSN2JpUm5ZVDVxcnhhUkh1UjJ1aGo4N1FqYUFMR2U2LVRsUTh1SzRuWWg3TWZoZUpKOS1JdmhZVmVoU0c4aXZXSVU1Nzk5T1FFMTJ1SFB1NTAzWThFS05q?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-18T16:51:00.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
-    },
-    {
-     "title": "بث مباشر| مدبولي يشهد الإطلاق الرسمي لمشروع \"نيفيرا\" بالعاصمة الجديدة",
-     "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQSlkyVGhLZlRVX1BQZ2IxOERfVkhSellVOEgzcVpjNlhMMjJGMmJMNEkxRmNKQl9EV3JJM0hmSzVHTjVVal90RU1kOU1YWkdxcmNSUjZSUU9tYUpISFpDeTU3aU5ibjZXa295aVZmVVRudlZuMG4yUHIwZlVrQlZSbnQxaFV5MW1SN040UVJrMUNHVzlWNWFqd0RBRzkydWdpOFNXZGNDS2hJTHFVSjdlYXNOTGIzRzFhNDNIeDhqS2ZkQ2Y5Q0Q4T0pTTnAyRkFDZl9LOF94Nl9JNUY1ZndabzY5YjhuWWVRaTh5SjBDQVRWdnFJblFOcmtYOHhlZnZuYW9TYkhsZ2pkOUdTVUxpSlYtRjI0cHRhbHVzOHJPZkFsTDZjSGxta1ZSbjhGQUlIcTY2NFlGRVlZT1Ria1pwSUE1S1NkYnpPR0FwZFp0djVoRzNKZE5uNUVkVjFHYV9iTkx3S3RCODNhbkJDRGlYS0NLTjJrekRUQ2pNUFNvSDdPSmNndXlIc2JCZEVHMno2LVFvWHpQSTQ4Q3h1eGNCb1NhNVhVank1blJneGhwbWxERlZPdkVCLWpjclVaTENaVGxhaWphSjVRdkhUNzZSU3prbXdPYlk4dTZwZ0hUeHk0YXJsSnhLZVlCTFcxY3I3bmxRZWJTeWlmRE5udXBOak5yLVpNNzBNMW12dC1salhCYlRsT0w4OS1tOFFDOG1Rb3pKa3U3dlJRaU1vVzJuTERoWHpKRU9kdUVLWTJBZE5TZGU2c20zNkhR0gHPBEFVX3lxTE9fYTBwXzVreW5MS3FGbFVMNU1UMzc5XzdRSUt3clJNNFBmNnJBcEhTa1pDa0t4U0RRbUNxZmljdThHa3pvVTcyM01ieWxOUEdXUVQ5alFpclpYVDJ3dk5keEhZZ1F1U1AtWTZ2LXo0bTNRal9zUlNCZTJPTHhoaXpkeVk4X08tWHNpX21jdXFmSXl2SDFzVEU3TkJ5UkU0RV82ZjZrMjNvOXdrVE5JX2FoNEZER0JfNTN5eUdPV1lzT1dnWjJzTFZiWU9pZnBtb05aT1lPTFRZOGtSWS1mTlNJdkt0Y3hNeFJhVjdfSU5DYzZ3c19RYldYNGxMeXgwRDltOEg2Qjhac2VKQkRXYWFFRk15OWFHZmxiWExBaVhKU0JBMmR1OGlmaUFORmhZVkhzZW9VUkhELWtYc0xqamplMm5vNjNNLXhNUWp6R3RRcGdkb0loUnpXMlZENUFLcDVSaTl5NllwaGxnLTdUSGIyQkxjSGZiNG5MNk9GS2VCMUI2Wlo4WDJ3SmJ3S1VQT252V2FpdGpjc2lHdkJ6WDNOUUQ4SHpLTVRWLUJJSzVWSF93X2IzX0VWdmt6NDVoQVNNbUNXc182TWJXVmVleWU3UnAxZ1J5UWNMMW9OeHRUa2daLXFTOURhQjNTN2NtNkNwYWNXVGJHUENwdU94WWZaS09RdUNmSTZCVzNKZG5OcmU4bFB3bFBLOUJmaXZhMktaREEySDBsLUlqN05paldUblBIMnZYVk1QNFJPbTFwMmVoZmc5a1VUellFWVNSMA?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T16:36:51.000Z",
-     "seen": "2026-11-18T16:54:52.554Z"
-    },
-    {
-     "title": "مجلس الوزراء يوافق على إنشاء المنظومة الوطنية الشاملة للبيانات",
-     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNaW00ZWlOSmhuRVpQWHdfQlNTV2M2SGVBa1FPOXRpM2owejZsVnJ2MXNSOEtCSTlBcXdIdHlhTEpJZk5MQnBXTmw5NWRqaUhLZkVOa3NTYVlYbWNiUG5YMlpGdmhmbUZrejhLWGRfaGhGaDVMUVBrT0VPeElTZEhfZ20zWG9CT3lLQzdWeGpQcXI4VGwzaXRwSVYzTDNsZEdmSUgxa0oyeHl6QXMtdkxkWHZCdktUZ2lfWm44Nnc5TEJRRUJhSXFjNEtPOE11eGZRa3EzbENUM2F1UnJXejhkQWlmeDd0SDlmZ3RSUkhPQURFYTNXYmM4S0RNd0ZLcEZ3ejNOU1VXdndiUGtQc09vMjhiRVRwczVMd3NBU0FpM2J3Zld5d1RuUE1ZWFloeFh3SGRqTE5NT2wwUWs2a09yVDlVWDB1OWphakxXaFRWRFg2VHF0SkQxQ2VGTWFVM2oxM1I2WUxPWDRHWFkwaTRqaGYtNWh6SVRTRnFmbmg0SDdUcHFJZGc?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-18T16:16:12.000Z",
-     "seen": "2026-11-18T16:34:52.605Z"
     }
    ]
   },
@@ -242,6 +242,27 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "صندوق النقد يتوصل لاتفاق على مستوى الخبراء مع مصر للمراجعة الثامنة والأخيرة للبرنامج",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QT3ZxaS1NSjdrZ29WZUlVYThMREI3Y0pwallxX2gxNng2OVp2cTNjY0hzdUgxaXdNcDFTaTZSV296MmxPTXVBZjdIYTJsMmxNakhiZWlR?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-18T17:42:31.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "صندوق النقد الدولي يتيح لمصر تمويلات بقيمة 2.3 مليار دولار",
+     "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNVUJhQ2lZcmFfc0ZUUGpDSWZwSHZSalprU0NTOUxHeTlmQ2lxMTJRM3VyQXJKWks4SzBveHAzMGxxc0VNaEo3NkJ0UVRVZ3I2UUstQ3ZOcFN3am13aHRBaUQxcmMtYVhLWWNmQkdOQU1qWjdMek9XbWhDakVJTnRKNV9EazAzRHJ1Mkd6d2x2NnJnUDM1ZG5ib0Z0dTg1ZkhkMU55X1NpLXVYZm0zTDNxdU82d2FvNHdCX3B5eW9xUFZKQzEwaUtpaElVMUFpZ3o5WTdyU0Z1Qzk1RUREQzVraVRtLWJlVmx3TDg5ZXhISGRRZEpZSnlfLTBPV3o0cUhWaDlGVm9TSjhPYTZzOHAtcXZicmV0S0NhTFRyM2J3OUJmYUtzcEVDRTJVZEF5amxYd2lSQTNoNXpYSEpadFBSMU42SnBhZWpLWVBzbGpNcEpINElrQjBLSDNGSHVPTFpOWkxzOHRfN3ZUX3NHaXZNUzl2SW1LdFdZcnJSVXRsZHR3QlZwa3JvRlJ2RzAyVzdfVnU1bWpXX2NZZF9vQkxENGdmRHFWRUxmQWdKMDYtY0psV0pXWHo3aTNPbWxoTk8xWXl1eHdKVE1oN3ZKRU9RWmplcS1LUGVQ?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-18T17:41:34.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
+     "title": "بعد خسارة الليكود رئاسة الكنيست: ما تأثير دعم الأحزاب العربية على مسار تشكيل الحكومة؟",
+     "url": "https://www.bbc.com/arabic/articles/cm702k90nw9yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T17:35:44.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
     {
      "title": "الإمارات والصومال: ما وراء الخلاف؟",
      "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
@@ -299,13 +320,6 @@
      "seen": "2026-11-18T16:24:52.506Z"
     },
     {
-     "title": "ثلاثة قتلى وجرحى إثر غارات إسرائيلية في غزة مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
-     "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T15:21:03.000Z",
-     "seen": "2026-11-18T13:53:34.131Z"
-    },
-    {
      "title": "سعر الدولار اليوم في مصر الأربعاء 18 نوفمبر 2026 بالبنوك",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OQWJMYzdVYmVmanhBRHNqYnVQbFpoYUxtVU92RW1GOG54RW9iRThWbXAwYzBFMmgxRTh4eW5XM3ZVcGlDSk1z?oc=5",
      "source": "صدى البلد",
@@ -325,20 +339,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T15:00:00.000Z",
      "seen": "2026-11-18T15:13:33.858Z"
-    },
-    {
-     "title": "كيف تحركت أسعار العملات اليوم الأربعاء 18 نوفمبر 2026؟",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQVVI5MjVYZXo2OVFQQ24xM3RQblVPcWcwNHkzMlR2MEdRQXZfd0Jka1VPeW90eURfNGdYZ2JKRzQwbU9Ibkk1NGFhTUY4Uk13WjllNGVwWm1HZlAtcXpYVUdSZnFlX0V3TUs1UWpFX1VkN2htUG5qRTktSlJjZmw4ZWZidnBBTU00Z29MdklOcDBQZGg4QXBGal9xYXZ0RjZQajB4SnpFZnAyVVVMYVBVYkFBRHF2TUVJbkZydlRacklMWUJMV0N2WmR4OG5KWkNEWVc3Z1NaWnpyZG5xeTl6TDM0LTFQYW9jZGJOQ3kzSU1PcTZMMFJwdU40NFQtVHg0VVVTV1Q1NjBNUmdqRVF1X0xJZm43aDktcDZidWlSNWg5NHJMNHlZNHliSkpuUDdzd2tQTEtUM3U0djd5M3BXSDc5aUN5ckk4V3g2ZWt4T0JFdHNEUUpkSw?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-18T14:35:15.000Z",
-     "seen": "2026-11-18T14:43:33.456Z"
-    },
-    {
-     "title": "سعر الدولار ينهى تعاملات اليوم الأربعاء على ارتفاع طفيف أمام الجنيه",
-     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPR0wxZlk4RFlHZkFqRDFubHNLVXV6Ml9ucUZiQ0wzU2U1WWV3V1NHaC1CTG9xUU9xTjJVU1Q3dlpQOTVUMXh4Ul9vV094OFg1WWwwQW9sSjI1VHFIR0FsempNTWlPampCQUQybGdXRkpPT0tFSThTTWFUQ3RuRER6Y2VUZi1UUUdoZWIxaXF4Rzl4MWpvcVpRSWpuX2x2UUJGcUZnZXN0ejlrUFBoV3h3MVVGbDBZa2FWejVOMTlnc085TS1lcUtDOW1UMDROTFdfWnhkSWpIQ2tNZjNmMjgzRTc0MmlRcm9TSnAtbHBlLTRSN0hpZXc3VW00T29jYnNfV245SVhjeFVvLUstRl8tWDFHbDlQZzZXeHJGT0hQX2lKNV9NQ1M2NkxjUTctSk55d0djZjBmUThjdDdUODRUZ3FxSzltUlpBcTFULXM5V2F2ZlZCLXFJV1l6Mi1GdF9RS2xyZXNCZkhORjktNTZjTjBZT3podFV2OFVBeC1jT3ZfV2ZkWk1WdGJWWDdFWDlHUGtBOUkzSF9SbDg5R08wSF9wS3Y3aGZqbTg3NTNvMGdiWkQzOEVBa0w2ODEwUVI3aEdydHYwbndwZ05XRUFVRnh6R1YyUHpkSktiOHVFeDVsTzdCemJfU3V6OHVkMnhjWFFtS2JPazFjQdIB-gNBVV95cUxPR0wxZlk4RFlHZkFqRDFubHNLVXV6Ml9ucUZiQ0wzU2U1WWV3V1NHaC1CTG9xUU9xTjJVU1Q3dlpQOTVUMXh4Ul9vV094OFg1WWwwQW9sSjI1VHFIR0FsempNTWlPampCQUQybGdXRkpPT0tFSThTTWFUQ3RuRER6Y2VUZi1UUUdoZWIxaXF4Rzl4MWpvcVpRSWpuX2x2UUJGcUZnZXN0ejlrUFBoV3h3MVVGbDBZa2FWejVOMTlnc085TS1lcUtDOW1UMDROTFdfWnhkSWpIQ2tNZjNmMjgzRTc0MmlRcm9TSnAtbHBlLTRSN0hpZXc3VW00T29jYnNfV245SVhjeFVvLUstRl8tWDFHbDlQZzZXeHJGT0hQX2lKNV9NQ1M2NkxjUTctSk55d0djZjBmUThjdDdUODRUZ3FxSzltUlpBcTFULXM5V2F2ZlZCLXFJV1l6Mi1GdF9RS2xyZXNCZkhORjktNTZjTjBZT3podFV2OFVBeC1jT3ZfV2ZkWk1WdGJWWDdFWDlHUGtBOUkzSF9SbDg5R08wSF9wS3Y3aGZqbTg3NTNvMGdiWkQzOEVBa0w2ODEwUVI3aEdydHYwbndwZ05XRUFVRnh6R1YyUHpkSktiOHVFeDVsTzdCemJfU3V6OHVkMnhjWFFtS2JPazFjQQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T14:14:12.000Z",
-     "seen": "2026-11-18T15:03:33.768Z"
     }
    ]
   },
@@ -458,6 +458,13 @@
      "seen": "2026-11-18T17:24:53.159Z"
     },
     {
+     "title": "وزير الأمن القومي الأميركي: جهات سيبرانية إيرانية استهدفت بنيتنا التحتية",
+     "url": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxOS1VVM2tWbFJSTDlqZHAtREI5VHFpd0RjMGQ3Tm1IbERPdG9EMlhyN1ZySzdjLWhkMVN1YjJXelNOaUNES29hZXJDZWViemZtN2xSdjkzUTlUWFpSOVZhNFQteW9OVG9RN21OYUd4NUp0N29FRVdmTVJ5MFNVbVZhdFhnazJWT29hQzdrRTN3MjQ4MS1LWjV1YWtvWjVqSHBmdkQ0R1RhbXVwM3N0Nm9qVkxkNlp4VUpGbE1QeTRMeDJJZ3JtSFJzR1dVb2FIcFFnbVJtakJLZnZlYkotTnc2Tmx0WnlOUEJxZ0tDc2p2U1dLcnZUWU1JaTl1d0YtYndJQ0k1TW5qYkF6UTVJRm42UE41dHIwbkdWTUd5MmJLREdNWXZQakJBV1RuMVBFN0FyVU9mUG5PZU5ISzNIT3F5cGswZmRIUTJ6NHc2Z21LOF9jM0w1Tm45aW1ONmFFYjJqbC1USVRPUmJ2WFNYVVVWY2ZzN1dEX0gxTGN6X2R6NXlOY19VTWNMUUJ6OTRoNU0taEJNcFRzYWFIbHR3cWNDcU4yVGJBMlYyeGhSZ2t2UkZuVlo0SDFyQ0xvdGliWGwxSVZfTWRMeEQ4ZXd2ODRnbE1KSVFRYkcwS3RjbG5DUVpfc3d4U0tXWExlYTFLLVowZDZ1N1J1UlBQaWoxcmkwbG4wMUNyY0VTNzZqZE44Y0w1T2tGTndYQTFqdU5XVmRldnRhcVZOeENhRVJkalBDZjFXaHNVeGZrZERLUHZGcG5QNnk1b2VWUnhFVW03WWZ6N2EyQTJ5bW9sT3lOUW02VHdCTEF4QkVYUTh3SWtmZWJiZ0pIZ0ViNUtZQ3VEVjdOR25iRHJIcjJhdGVHRjlNQnBoQWxOVVVxMlNyZXExdGQ4Q1F6ZWF0Z242b1k3X3ctcXhsRVlGVmrSAb4FQVVfeXFMUFJCcmtvX1Z4S1g5cTVYcXBYd2d5LWVycmVDaFcyMTNSd2hTMWRGOEUtOU45NGxoVFo1M1VqQ09maTJWMkNjTlZVdDRWMWVuRXNscm9WZFd6ZnFCOTdvaXlXVFVhUzhyeDNoRHdTMFNzOUNEdUNhNExxSVZOc2wwczI3R19rcGQwUzBxR2tIc2g4Y1hXaXcxRlNUR1NLWWd5eXJTNzA4NEN2MWhiN1ZxdEhtR3dYTzNXMDhwdFd4N21JdWsxYnBScmNfTnBqVjVtcGpZNzRQWkpXR2NOWnJZMDBlNHdXX0JlZzhVeWp4Vk5PdVlPVFRWQTVxM0tyU21qR0Q3OXBKLUJ3ZFliTF9UNWFuQVVmcTRRZkVNX0JwWmdZMGg5Zm9odmxickRyV0VMZzFubm90RFhVN2ZQQ3BVdklJU0lFX2d6eVlCeW9HWDhxNE9lV0ttSmlEU0dGdFNzdjBGY0FycExBRnEzXzhraXhCZFB5ejhkOGRoMnFpYXdiZ1RieEZXWk4yZllpdVd1dUhXX2hDZmR1X1JNT1dyTFJ0SnJaWmYtSTlYcVd6aGo5X3BZRWJvbjVjbHRKWGs3QTJSaW9qY1l5bkttSTdYT2ZhaFVZRG52ZGpHSGRxQ3lRV0tNeEdGa3RwZmd6RDQ1VXpsWW02dURtN3dKV0ozMXNuOXA2M0lIWlNNR0JGUXZVV3phWFlzZEFwSVZpNEhPTC1EUHZRbGU0TkNBc1VFS0JTTXhaQmp1bjBrY3d0SzczSzFJUm5qN2g0dlZHbFlPbHVtRU5aZXlGQWNYUWQ3dEhneVEwa1hzRHZCYlp3VVVqSnZEdm8zUTJHWTBWZGw4MEFiblFLaW9LdzZKamhMUENBSVBLOWoyVkVOSzNVcXFrdEIycFJLZHhwbDdFQUNvMUN6ZjBweWpKbGFacEFn?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T17:13:38.000Z",
+     "seen": "2026-11-18T17:44:52.901Z"
+    },
+    {
      "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
      "source": "الشرق الأوسط",
@@ -492,6 +499,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T15:21:29.000Z",
      "seen": "2026-11-18T16:13:33.298Z"
+    },
+    {
+     "title": "ثلاثة قتلى وجرحى إثر غارات إسرائيلية في غزة مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
+     "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T15:21:03.000Z",
+     "seen": "2026-11-18T13:53:34.131Z"
     },
     {
      "title": "بدء إطلاق GTA VI من نيوزيلندا.. وإتاحتها في الإمارات والسعودية منتصف الليل",
@@ -534,20 +548,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T13:35:00.000Z",
      "seen": "2026-11-18T14:53:33.513Z"
-    },
-    {
-     "title": "لماذا يُطلب من المسافرين تفعيل وضع الطيران على هواتفهم أثناء الرحلات الجوية؟",
-     "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxOTWtpZ0Z4eXJ4YjJ1VFhBSU9PbU1CQWwtZ0hyQVFadXp1SnVWQzJOeWVHb0ZXSVhLQmNrTGVMcTNfSG1TZzJ5b3Qxc3dFcnV0akE1VWRVbk5Mamc2cFplQ053TUhqc01vV0dDQlI0S1k0R3VOaF9NcnJmYzRBc3NnSmtUYWpOa3BKQ29HWEE5Qkd1RFBDcWdWbjF4Q3FIUTRpcTJOZjVaUUx6R21fd2lxamFYZ3AzcHZYbHdISVBhdmlnY2tqRDd5QzhEa0x4OGNnWG5zZEQzalI2MmRCWlNMUVdvcGtOa1djd2dBanpFUnVmbEgySlJtZEJsaUNwTkZ0cDdMbl91N3oyZkktZmt1WHhxYVhNR0NnSklub1p2WjFvWGFadVFndkxlYkM1aFhnNHR1bnEwd25PUUZxblRNSDJwUnRNeFdoX3dFSGsydGhMN0J2UGt0cm85M3gzUGlJNlAtVUVFRVQ2elh6UzRmUXNkWEhOeHNWMkN1S0JGQlRlQkZFTHJESlVLazFrdUhqb0c1YU9aVDB0SGV4NlBUTFpWUVhpaWR6eHRhVTBzbG5sdjdxbVdvVGNtVkRReEwzLXRsZXF5UmVLMGNmWDJxQ0Eta1dVV09EalJNWDdqNnVyczI5c1hjMkZoeVAtY3BfLTNuWFMybHJ3MERScURyUWZsSkpyV1AzSUwyWHh3REl2eFhXZlZGSko0cVQyZDN5RkdtaU5vZlhMTXE0NzNmaFRhVTEyRFVPRlVGbGlXcDZCNURUU3BfaDlzMC1hWGFNc0RfVnRqQzA5VTBHNFJxOHl6bEs0enVBczRfaEJXX1oyRzNDUEVFTEc4dS14bm80ZzBmOFJlM3J1Z9IBjwVBVV95cUxNOTNVRDFDUF9pNVF0YWNaaWpTRVNMYzVCeXBrRk1RVU0tNElnMEdadXpEMDdnYm41clZKNHZ6NzhQSjN6SUFCNnEtLWxudHlxM2V1V0tXNnM0bXVabVViSjdxYjVaMDV5R0o3Rk5KMnNDN09DdXVKUVY3TlB0aFVlN1dSSmhEX3BiTzZPaEdXeHFUREk3UVpHSTNKUEJpT1JEOS1RejBIRFRDNlVkbWtIUHd3aGszLXRVOTh5aXlYTnphN1MtN3JiQmNYSmlWTnE2dmczQWRhQmRoOXNadFhzcWNPc3VXZENRLUdTUjk4Q1daZDNKWlE4ekViUXhhX2w5amtJS1RuNDhVc3psZnFzbGhMaWlJRk5pWUlPTU45T095dGhsOEFzYTR4VGtYUzRMNXhJRmh6R0R1RktGRTJfSE5kZUViR0JDaXZCc1VybzVNUkxiYnhGN0RFeDJTaS1GMGZRYTE3Mm1fSUlxN3JKaXoyY0JZTExZTHZGaXRPdUZ3MlJ2NTNrN2lWeW9oaVFrZkI2aEl1VGJnYUpSWjZHMFJpZFVnRGlHeU91d3Y2S1JvSGRIMzI2WW5nVWZhdkZ5aERkVTJtN29Na0hEZG5WdEozUTZmUzVycjRZb2tla1RycS1MVlFOd184Ym4zQVhUWXE0aWhpcHFOcHBPdUswLV9QQ25YZmdycmVKVEVmQ3hNdUlsNF9palRDQ1pucDNSYnhpOFF0ekxYM1FTUnVWak5oNGpWbUJIeHVBa2RPM0VKbUVHUVp1Y3hUWEFobW0yRzJ4ZGZMYmtZTm9MZ2xveV96ZGJ2d0hOT3hPQ3M2RG1Yb0NEOEFURDlhZFp1RUZNSm9ZcEM2ZlZMcEF2WFQw?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T12:45:00.000Z",
-     "seen": "2026-11-18T15:53:33.693Z"
-    },
-    {
-     "title": "هل يتجدد القتال في الصحراء الغربية؟",
-     "url": "https://www.bbc.com/arabic/articles/c84gnpd10337o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T12:10:02.000Z",
-     "seen": "2026-11-18T12:13:33.237Z"
     }
    ]
   }
