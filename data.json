@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:43:33.814Z",
+ "updated": "2026-11-18T15:53:33.693Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T15:43:33.814Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T15:53:33.693Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5685,
-   "change": -2.52,
-   "asOf": "2026-11-18T15:33:27.000Z",
+   "value": 5677,
+   "change": -2.67,
+   "asOf": "2026-11-18T15:43:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6491,
-   "change": -2.52,
-   "asOf": "2026-11-18T15:33:27.000Z",
+   "value": 6481,
+   "change": -2.67,
+   "asOf": "2026-11-18T15:43:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3763,
-   "change": -2.61,
-   "asOf": "2026-11-18T15:33:27.000Z",
+   "value": 3758,
+   "change": -2.76,
+   "asOf": "2026-11-18T15:43:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.27,
-   "asOf": "2026-11-18T15:42:46.000Z",
+   "value": 1.0972,
+   "change": -0.24,
+   "asOf": "2026-11-18T15:52:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.25,
-   "change": -4.18,
-   "asOf": "2026-11-18T15:33:25.000Z",
+   "value": 89.2,
+   "change": -4.23,
+   "asOf": "2026-11-18T15:43:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7311,
-   "change": -0.41,
-   "asOf": "2026-11-18T15:43:36.000Z",
+   "value": 7307,
+   "change": -0.46,
+   "asOf": "2026-11-18T15:53:39.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63126,
-   "change": -2.72,
-   "asOf": "2026-11-18T15:43:34.000Z",
+   "value": 63059,
+   "change": -2.83,
+   "asOf": "2026-11-18T15:53:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلمانية: تكريم الكونجرس الأمريكي للرئيس الراحل أنور السادات تقدير دولي لتاريخ مصر",
-     "url": "https://www.elbalad.news/7185714",
+     "title": "​كيف يؤثر الإكثار من السكر على صحتك",
+     "url": "https://www.elbalad.news/7185731",
      "source": "صدى البلد",
-     "time": "2026-11-18T15:41:23.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
+     "time": "2026-11-18T15:52:55.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
-     "title": "الاستعلام عن مخالفات المرور 2026 والتصالح والتظلم إلكترونيًا",
-     "url": "https://www.elbalad.news/7185723",
+     "title": "بالتزامن مع عيد ميلادهما.. أحمد حلمي يعود للسينما ومنى زكي تتألق في «طالع نازل»",
+     "url": "https://www.elbalad.news/7185737",
      "source": "صدى البلد",
-     "time": "2026-11-18T15:37:51.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
+     "time": "2026-11-18T15:52:37.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
-     "title": "سامح الحفنى يلتقى رئيس سلطة الطيران المدنى الفرنسى لبحث تطوير التعاون",
-     "url": "https://www.youm7.com/story/2026/11/18/سامح-الحفنى-يلتقى-رئيس-سلطة-الطيران-المدنى-الفرنسى-لبحث-تطوير/7623765",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T15:37:00.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
-    },
-    {
-     "title": "ابتة صدام حسين تنشر صفحات من مذكراته.. فماذا قال عن مصر والسعودية؟",
-     "url": "https://www.elbalad.news/7185722",
+     "title": "بلومبرج: تركيا تفرض حظرا سياسيا على عمدة إسطنبول المنافس الرئيسي لأردوغان",
+     "url": "https://www.elbalad.news/7185730",
      "source": "صدى البلد",
-     "time": "2026-11-18T15:35:08.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
+     "time": "2026-11-18T15:51:37.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
-     "title": "البنك الأوروبى: مصر تتصدر مؤشر التكامل الاقتصادى بجنوب وشرق المتوسط وأفريقيا",
-     "url": "https://www.youm7.com/story/2026/11/18/البنك-الأوروبى-مصر-تتصدر-مؤشر-التكامل-الاقتصادى-بجنوب-وشرق-المتوسط/7623801",
+     "title": "رئيس الوزراء: مشروع نيفيرا بوابة رئيسية للتنمية الاقتصادية غرب الجمهورية",
+     "url": "https://www.youm7.com/story/2026/11/18/رئيس-الوزراء-مشروع-نيفيرا-بوابة-رئيسية-للتنمية-الاقتصادية-غرب-الجمهورية/7623825",
      "source": "اليوم السابع",
-     "time": "2026-11-18T15:35:00.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
+     "time": "2026-11-18T15:51:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
-     "title": "محافظ الجيزة: رصف طريق المريوطية الغربى فى اتجاه قرية نكلا لتسهيل حركة السير",
-     "url": "https://www.youm7.com/story/2026/11/18/محافظ-الجيزة-رصف-طريق-المريوطية-الغربى-فى-اتجاه-قرية-نكلا/7623800",
+     "title": "نائب وزير الصحة يبحث رقمنة خدمات التأمين الصحى وتوظيف الذكاء الاصطناعى",
+     "url": "https://www.youm7.com/story/2026/11/18/نائب-وزير-الصحة-يبحث-رقمنة-خدمات-التأمين-الصحى-وتوظيف-الذكاء/7623828",
      "source": "اليوم السابع",
-     "time": "2026-11-18T15:31:00.000Z",
-     "seen": "2026-11-18T15:33:34.019Z"
+     "time": "2026-11-18T15:51:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
+     "title": "بدء مراسم عزاء اللواء فؤاد علام بمسجد المشير طنطاوى بالقاهرة الجديدة",
+     "url": "https://www.youm7.com/story/2026/11/18/بدء-مراسم-عزاء-اللواء-فؤاد-علام-بمسجد-المشير-طنطاوى-بالقاهرة/7623820",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T15:48:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
+     "title": "كانت تنقل غازا من مصر إلى رومانيا.. بلغاريا تكشف تفاصيل استهداف سفينة في البحر الأسود",
+     "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOVUlnZmE1ZXQzZFVMV2kwdkNwMkxhNmlOLTFJUUpIaWdQVkcxbFg5R1hZMU9Cd1hvOGFhRWNOc2xYSmxLZ29GU0dlZFhoUmlUTHVtVmdlWXVlWlF0eWVvcVJ0Z25GWE96eWxIa3hlcTdBcVFxakM0YUdmdUg2S1BDd3lnNlQtY2pFOUtza2NtSDNfUEtSOEg0bzB4WG5aREZTZlg5UWI1eWZ5X0RIenBhX2FvazdtcmU1a1N1QXNJb1E4SmFGZ0I3MFkza3A2ZHIxVUJwT3FzV2Z2ZHM2RWNNNVY2Ymt6UW8wX00wTEtWRnp5X0pRTFRFU0pHdjAxcFhyUVFJeTN1YVA0NWNXa2llQWxpVERBLWN1aW1QZFJFTFRBR0M3ZlNZUEplOEppSHRIYlJfbVIxbThKR1BUN21zdlNiQlRlNDAtVF9sRDh6VXNuT2F6cG5XcmtXMm1NbVB6V3Y3VVBfdHRLcVFqNGlmZ1NDZldRdFJRY3d2d1k4VHNfNXRncl93SDZOYjVjc00tSi1ncmNEbDFvM2ZxVWFfWTBfa3ZwVmZhU1psdXhkYWJ3VWJqUjR3RTR6WHBiRklOSkVaZmctZFZ0MUEtZ1ZMR0VZdTVsdXFTX2Q2cEZyOEFrNlFfd2d0S2JpY01acnlSbm9DVXZDVkxaOHJuNVdER3NsMTFhR0luY0pYbU4zdURrcmZoRE5wRzBUUHo2cHk0ZVBOR0EyeUVLeGpjUkFVX3dZY0RtNWJaZ1hUTlo5akNqZ3V5UHhNM1U5aENOU0kxY0xnR1l1TndCcXdoTHl2eDNlRGNjZkE3b3YxdjYtWTA1U1pWWGM2Z1A5V29HLUdyTXJNejdzY1lUYWlzSG50RE00VHQtZVFVb1dJbEZQYjRFNnYzaTZ1UFlnYXY4RGl3VmtYeWZpS2hvTjDSAcAFQVVfeXFMTlhLUkt0Qk8wZXVRS282LTEwcjh4RlE4R0cxUzNza05NYnRoQ0RwWUlIR1VlbEI0Q2lCZk91bDdtM1Y0Ylk1QUFRQU5jemZxY0k0N3ozRkxzc3lzVTNUM2syLWl1c29vSzhHSV81VmxIN3VOek54MDRlVnFoMlBfdG9YSDVwQ01RSWtmaklSaUJnbTVMdWJpWkxDOEJQU2xCb1FDSFNGajdJQ2Q4UlEtRzFvWTJmMzEtWnVWenpYVHVjQXk0QUZnQXdERS0ybFpJbWpjOERGSkc3dG1PY21PT2ZvQ2tEcXNhMktPTE0zOEZOSVZNZ0hIeXFsSG1POW5fbktBZnFicFBBdC1TTmdwS0JHZ2owNGJOX0d5RGhJLTcyRlhKc0lkOU1hWTVIQk9nVndfOFpLR3RFUFZoNjUwTjM0ZUFOT014aTU5X19XTldyQlNLb3hkLWRDQl9wR2ZsTEpRZXdfd2k3ZXJqNUlZV1RUNThjYnVPTzItbDhhb19KMUlwME5QRkJUUHBIRXBiUG1FLU13WUNMN1RzV2IwVXY2WVQ5a24tYUIzM0RoVFJGd0FlV0NDWVhNXzR4MUxqVHduNHd1ZTFGTWFMLW9IcFlRZ0toRUFyb043T0RlSHFKcDVUeENDN2E4Ml9SdnJrX1VzLWVWRjdtRmVLbjVDMURiN3JGeXBLM256U0pHZk92Z3F3akNSTTR1alVqOVZTWjFOeUVwSWEyNVg0NXdyV3dhMEluNUV1MTBlWEtHbk0yRVJYTVBqUEM1UnNhc0steEpkODBKODlYNm9wMkxMTWs5MEVmSk1OTzl2NVQzQlVJSEExQUdzcVYxNHZkUzZlbzhIdTAwUHE4dHFPNUdabFlvaVdOSXVYdkJVNVl3VlJPLVFlQ1BkSjJaODZSV0IxNm1kd3E4a3cyUXBHS2pNMjM?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T14:17:45.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
+     "title": "«لعبة وخروجة وسندوتش غالي».. تفاصيل جديدة في أقوال الأب المتهم بقتل ابنته فريدة بالمنوفية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Idlh0bGU5RU8wcjYtcjBfX29VMEpJMi16LTF6bXBJOFltM3VlM1FQWmNBczlGZ2VwaUNzWmZHekd3RWtuczdWX05rcWpKRGpZM1hLM0pGWUF2b0hlcGFJ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-18T14:00:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
      "title": "رئيس الوزراء يشهد توقيع عقود مشروع «أمونت 2» لطاقة الرياح بقدرة 500 ميجاوات بالبحر الأحمر",
@@ -193,6 +207,13 @@
      "source": "Masrawy",
      "time": "2026-11-18T13:21:09.000Z",
      "seen": "2026-11-18T15:23:34.039Z"
+    },
+    {
+     "title": "فيديو متداول لـ\"إعلان البنتاغون وجود كائنات فضائية بين البشر\".. هذه حقيقته",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjlkZVBZalV4cG83bmlZQ05HUFNGV0o2YVF5bVdMZExaN0lUd29taHNBUEtSdjkwT09uUWw1b2I5NHQ5eW5sbi1FQWc2RGE5cjNNZ2FDMnAtR0hVWlpXY0lyb3lpVXctVC1fS3JocDB4MlpaZnpiRXF4SzFuSk9FN2p5bTE5NmFoOENKc0FnRmkxZw?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-18T12:41:03.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
      "title": "الحكومة تتحرك لخفض استهلاك المياه.. تكليفات جديدة للوزارات والمحافظات",
@@ -210,32 +231,11 @@
      "impact": "يعكس وجود دعم حكومي للمستثمرين وتوجهاً لترشيد استهلاك المياه في المباني الرسمية بمصر."
     },
     {
-     "title": "اعتبارًا من غد الخميس.. قرار جديد من مجلس الوزراء يدخل حيز التنفيذ",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fM1dEWTFVQ2lNcVU2UWNYQmZwQXpEMXRZdkVhei1udmNINVVMTDlLeFRxVHRRTDJKeUNLOFRxVlBVZmV4N0ktNEhORTA4Zzc1dngtWFdYaXlNc3BJNXgw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-18T12:22:00.000Z",
-     "seen": "2026-11-18T12:33:33.705Z"
-    },
-    {
      "title": "توجيهات مهمة من رئيس الوزراء لتوفير استهلاك المياه بالمنشآت الحكومية",
      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQdHIwZmpzZ01GNWR2Ym5LNzY3Nnh5bEw0WDI5Q0J3UGZYby0xY3drNHBud05qdjc1UDA3NThmR0N0QlpUQm1pRE1kWlRvNjh3NlBzSlNGRkZWUVQ0UjhpUllQSk96NmNsZzJhZXJxOHRRb05uNURXQWNpZTVrZTFfcV83aFl5bWJSNEhleW9TZDFkY2NWZElyal9LdTJvbWowX0JKMFZRcHdkelBZOV9MbndFMEQzYURvS1MyUnd6akYtcDVlVnBBUnQ2WXUxRXd1dmdZOXFOVHNqeVZBRVh4YmRta1NFbEdsb3lsTmxGM1lQQnhIdDJyNWlqOEJ6Smw3MWk4QV9qWTNPUFFidHRndzhtWVU4Y1hGZTV2czdudkF4ZUt1STdSeWhxMmstSERMckhSckRYMEVxNUg4RDl3VzhCNnYzQlBkNWlFVXRFa1UtaGpZR3hoLVZHMXdIcjlGZTUxeG93blBmY002MUFRNllkaGFTZGt0dFBLdjlLbjA0WV9Od2U3THpQcEVZWFlMNkloWEQyY1VWZExRTEJ1c0JNbUdvMG9SNGVDcG9NVEFUYW5Ma01lTVMwV1p2NlZuSTBoWm1oODRQakRuOEV3MFBTb2k0N2lvSnBIWm43RTItNl9WMXE3bktIbktYRWV3QnFwalVzNHZnQ0xETGgzTFdGQlV6eDVyWEZuVnVmblRlVGctYU95ZFpEdkJzb05rMVhJRkJOeUJ3YXJfMkFETDNpZ2c1b2tFZGwzRUhHdVlHNWNDNlNhVEZfd3Y0Y2pIUWZPUlJGX3c0bWJRQjVJ0gHfBEFVX3lxTFB0cjBmanNnTUY1ZHZibks3Njc2eHlsTDRYMjlDQndQZlhvLTFjd2s0cG53Tmp2NzVQMDc1OGZHQ3RCWlRCbWlETWRaVG82OHc2UHNKU0ZGRlZRVDRSOGlSWVBKT3o2Y2xnMmFlcnE4dFFvTm41RFdBY2llNWtlMV9xXzdoWXltYlI0SGV5b1NkMWRjY1ZkSXJqX0t1Mm9tajBfQkowVlFwd2R6UFk5X0xud0UwRDNhRG9LUzJSd3pqRi1wNWVWcEFSdDZZdTFFd3V2Z1k5cU5Uc2p5VkFFWHhiZG1rU0VsR2xveWxObEYzWVBCeEh0MnI1aWo4QnpKbDcxaThBX2pZM09QUWJ0dGd3OG1ZVThjWEZlNXZzN252QXhlS3VJN1J5aHEyay1IRExySFJyRFgwRXE1SDhEOXdXOEI2djNCUGQ1aUVVdEVrVS1oallHeGgtVkcxd0hyOUZlNTF4b3duUGZjTTYxQVE2WWRoYVNka3R0UEt2OUtuMDRZX053ZTdMelBwRVlYWUw2SWhYRDJjVVZkTFFMQnVzQk1tR28wb1I0ZUNwb01UQVRhbkxrTWVNUzBXWnY2Vm5JMGhabWg4NFBqRG44RXcwUFNvaTQ3aW9KcEhabjdFMi02X1YxcTduS0huS1hFZXdCcXBqVXM0dmdDTERMaDNMV0ZCVXp4NXJYRm5WdWZuVGVUZy1hT3lkWkR2QnNvTmsxWElGQk55Qndhcl8yQURMM2lnZzVva0VkbDNFSEd1WUc1Y0M2U2FURl93djRjakhRZk9SUkZfdzRtYlFCNUk?oc=5",
      "source": "Masrawy",
      "time": "2026-11-18T12:13:29.000Z",
      "seen": "2026-11-18T14:43:33.456Z"
-    },
-    {
-     "title": "مدبولي يوجّه بالتوسع في تركيب قطع المياه المُوفِّرة في المنشآت الحكومية",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FUm90NW55d2psZE44WmdCNjlOYnRQNGJ5b0oxSTFKOHZPeW1wTjVhZkt2ZVRabXBqN0pqalJWUFplY1hKXzVZWjJrdmxldkJleHFoZjdsV2k0dTJR?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-18T12:00:21.000Z",
-     "seen": "2026-11-18T12:13:33.237Z"
-    },
-    {
-     "title": "مدبولي: برنامج الإصلاح الاقتصادي أسهم في تحسين المؤشرات وتعزيز مناخ الاستثمار",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOSmFtQmZhQVcxdFNsUVFuUFJYMTFzdDhxMDI2UjRiX1g5eWV3Tk82RXlfNHpERHQ4OThZLUpIYldaSFRJQ2FPVHNHNEVCaDQ3SkhZck5LaUNjZ3VLY2tRTzVGcUJSRjM4aXZDQm15V0wyNXdhVXItMGtXMG9pMnFfb2JjODN5QWV2dkIxMTdWbVdlclJOaElONEhnVWFER1NrREE1b1FPUm5hWXpfZGVGaFFFbGxzU1lMWGgtaUt3Y21zam52NjJCZjd0b280ckdvWk9mTFBkVHpKMVlzLW5vUXppbWQxLVJ0Z054TTBoZDBad2U3VTBWekZrMlBJenhxZ2Z3NDRzMEJSZERkWlNrQS1FT0xZaGhUdnVDaGNaQ1ZsREo3aTdTQTRUdVUycWR1N2ktWlVfLUhXeHhQTzhIc2NQTzl0dGlpRlpVVFViRW5qeEJ2ZE9zRnhmYWQxYVg4MlZsbFJCR2RNSFpJMWhoNFVVUEEwMTg?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-18T11:25:29.000Z",
-     "seen": "2026-11-18T11:33:33.623Z"
     }
    ]
   },
@@ -404,6 +404,13 @@
      "seen": "2026-11-18T14:13:33.931Z"
     },
     {
+     "title": "أمريكا تشن ضربات جديدة على إيران.. ومصدر يوضح السبب",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkVfQVdFdzRsdTMxSmFmdGV3Z1A4V0Z5aU9Sdzg5T3ZXQVF5V1lLWm90dnRzUUhRVnU1R3ZFMzJOcmZXSld1N2Mwa0hJQmt6Wlkzbk9kTG5TaTczV2RFSG9VS0lxMVNyV3Nrdk5OeVFTVk9XVlg3NTRQVlBKMG16ZThuNmxVaEVNczFuRzR3VmRWSXhlQXJ6cWx2WkltZWFZeFNyck5UYVJQYjJTUUV1S29uSWdydEpPdjVHVQ?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-18T13:46:19.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
      "title": "قائد \"سنتكوم\" في إسرائيل.. وإيران تهدد برد يتجاوز الحدود",
      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbzQ3emdzSjA2U0hfOWhsVlVMWmF6NUF6SFIySUU3QUw2OFlXMGRqbkN4N3plSC0yemJJT09XdWdmY01LWEI2d2tIZURrcG4yV2RiM0tHR1FkLXB2OXk1ZXlDVkgwUzFNdDM4ZkV6c290WF9ydEFHcWRSbVdmQTBsZWRNdGtWRmRJb253c0RJcmVBbEVlOURZa3c1YkVORFg5UUNldnNxRFBxQzlpVGxtMlVfMHpNTEdFWV9wWnU2TTdCNTV1cHRwRXBzSGk1c05CNlFGRWhacU1Ba21iSHJyQ0NIME01QVR0enYtV2ZQbW52VzhnbXJwNDVFbVVWMDhWbUVMdTh6TkVCVWxLb1ktQ2g2bkU0c2JRVU1sYkIwR2ZjTmtwX29CQTl5MGxWcU5Nek1QbktaZktjY29zT0UwT0NULW54SmJzc2FjdW9YcGxsYzJ3ZG9uamRQOFA1bFdyRFRZQzZKUHZnZE1rbHpLbXBQcFRQcFVkSmJIbU9pTXJPSkY1eUkwX19Xb2tpdHRldGg0OFJEcWNRaXlHVE44UzZhSkpGVFBHNUJaMHRwRmTSAbYDQVVfeXFMUEtqTTQ4V19PdWFmcmhfZ3N2QjNOYV9YQi1HMExtUDdTaU80UHNfRGg1ZUVXVEJVVm01ejk5ek90eEJ1T1VkeVpMaGt6S250QkFkX1UwWk1OYVZhck5pYVBVTTRXZDFCdlNDTmk0RlNmdkVJeWdQTjc0S3NndnpIMFVxQWR0aHFtbEhyVm96QVd2OVY2SjFmSWVDRXJGcEdkUU9ueENqQWxtUUlSSVc1dzM3eW1KN0dKNHhoS0tKRjZUQ3lWVUhCRjhuMFdNMmNqTk9aYTJralpFclU0anBJTkcyTmJSZllYZ3hyRjFNd2RKb0xYSzVmSTRBRmFnbzJzNXR3dGZmVjdhc29QQ3BaakYyTm5tYlNkZDRGWE8yWnZRRG9KZnRoQVBnelhhNDRKN0J5OGJSazlKdVh4SUl1cGVkSndhVHF4ZHNyRUxMT3VWTE5Wdi1zM29MZU5nYUt4OGdmOEVOa3hNOHVQOTIwYjZrM0tWQlp1Mk1hRnlwaldhVGZRZWtMV284SUtac3hyeS1HMTQ3VDVVVGk2Wnh0MS15UEUydWVhVmdTX0FDTkxVbEdMYk1B?oc=5",
      "source": "سكاي نيوز عربية",
@@ -432,18 +439,11 @@
      "seen": "2026-11-18T13:03:33.364Z"
     },
     {
-     "title": "باستوني أم شلوتربيك؟ تباين الرؤى بين ديكو وفليك بشأن مستقبل دفاع برشلونة",
-     "url": "https://www.aljazeera.net/sport/2026/11/18/%d8%af%d9%8a%d9%83%d9%88-%d9%81%d9%84%d9%8a%d9%83-%d8%af%d9%81%d8%a7%d8%b9-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%b5%d9%81%d9%82%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T12:32:18.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
-    },
-    {
-     "title": "رغوة سامة وطقوس دينية.. مشاهد صادمة من نهر يامونا الهندي تثير الجدل",
-     "url": "https://www.aljazeera.net/climate/2026/11/18/%d8%b1%d8%ba%d9%88%d8%a9-%d8%b3%d8%a7%d9%85%d8%a9-%d9%88%d8%b7%d9%82%d9%88%d8%b3-%d8%af%d9%8a%d9%86%d9%8a%d8%a9-%d9%85%d8%b4%d8%a7%d9%87%d8%af-%d8%b5%d8%a7%d8%af%d9%85%d8%a9-%d9%85%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T12:32:11.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
+     "title": "شبح الحرب يعود إلى القرن الأفريقي.. إثيوبيا وإريتريا تحشدان قواتهما على الحدود",
+     "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQLTVhTG5yRVFTVnJLTWs4cmlMRUxpTUVxTHRxRGlTY19VQXRhelRzUGNoUFBXdjBza1FjSUlJNEtFTTBuRVFQcThCN21ySUpYWW5icm1haVhoTGZYYmIxaXhJaTVhYUhxSlQ0V0thN0t5ZGttRmNrUUFJS0J2cGdYZElYRW10ekFscWFEdHlBdTFIUXYyajNSSFZCWFZ6SVJobnk1aGh4VEVuOFFZaHc0R0pUUGFKWmgwbXZFRWQ2cm82ZFVacGl3Q015bXV2QTJOOFIxZEI3RjFQUm1GdnlyNTF4dEttaTFGRDB6S1ZVZW1zaDhqMXA5dUs5cWxEdUlpUEEwaTFjVGotd2ZQdnRXSnpia2NBOHk4eEZnNlJ5M1JadkVnSkk4blNIREpiSVNGcThpYzIydXVaM3F5dks4MWdJYVk2OUEtVTctZEY1VWxPZGFoTnUzMjQxdmFJcy1SR3RIekdvV2NEbXBDTGJfdkxNNXlmdnItSlg3SGNOMGVNcF9pTzNXZFFvMEpjbGJCamQ1bWsxcHVZb0lxU1ZMaFp0UjQtMXhxc0VBUm9VcXV3Rk4wS0dGNDFWSmlWa1llcHI5LXl1YjlGelVzYXpiOXBKX1BoTU9aYXJfQVB6VHVaemt0ZTQwcWlQWHU1TVFlMUFJV2g0V01kRkVEWTBhelJrcVM4bXNjalF4dXpJTkwtQTRySDJ3VmZKSXVUeGREeDgzU1VUTTJrVkpOT1NZVFUyQmtXY2xidmhuTUFDNnI2UGFvWF9DUTF0Zmx0UGlvV0ZIQ0U0RjcybTlLMnBaWXcxd1hRaVdMR3BVWVQzckVFVVl5a29NSdIB_gRBVV95cUxQN25jSy1lS1V0ZVp0YkZEcFQwb3FHTmNaaWhZSVptUXJtQXRXeUo4WGxmelZkYW5DeDJRSVhGbkw3LWZSNGtzRXdwOGNseVVXRno4NTZId055X0RObzVYVWxIaVlMLUhENTNrWHNDYm5UOG5KX29QYlkxQWo2UkcxQ3YwNVJKN1ZjLXN5d2R6QndJUTd6WnZESHN6ZE1kX21DcWNpNDYwZFZzVG5TTVAzSmp4aEhZN3RfMVo5Y21zLW5SY05YRl8zS3dFalJaU05mR1Jtclk4Z1hFVk5EOGYwSGpqM3VqOUFDbUNidURQZXdlZ3lyQjlIeGpDV0M5VmNUZ0I0U1lKaGp3YWZhTHV4d2ZtWTU4RXZHX1BXTTlaWkpWdURLTlcyUHBselVtY29kM0hXSkxnaE5FNXJfY0NWelhSUXFrbWlpMm1ya1U0QzRlTnRmVGY3TTJTNFREQmZ4aW50VTk4eEx0bW5nRzBLOW9IVHM4T1FETkd1a09SamNwcU9JZGQ5dDVkaTZ4WWNNY1lRNHk2MzBFbHZZOEN6RG1RWDN0MVVZZlRYWmhpdDlJYjhjWk50amYyYnc0ZG83ZmJKS1FGSlRuUWM2SXpyTGJUVlI5M2RocjZXTzFjanV0aHZFR1hXOElvYThRX2dFVGJpTFRPY3FvUGlSSC1qb2E3LVAzX3JQbk84THRjM2FhYThQTHdOVy16RW41SzhWOWVkaERkenRFUTNfSklpTnc1aFJXMV9ONUpBMVFDZ25WekNfOU5EYm5fa1IwbW1oMXRfZFZPaGtyVW03VVFvd0hpZTBnaXhrVzJRdmtPdy12QkVKSDMzNURVelA0dw?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T12:34:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     }
    ]
   },
@@ -452,6 +452,20 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "سامسونج تعزز ميزة Now Brief ببطاقات التذكير الذكية في تحديث One UI 9.5",
+     "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b9%d8%b2%d8%b2-%d9%85%d9%8a%d8%b2%d8%a9-now-brief-%d8%a8%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b0%d9%83%d9%8a%d8%b1-%d8%a7/",
+     "source": "عالم التقنية",
+     "time": "2026-11-18T15:53:04.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
+     "title": "سامسونج تطلق ميزة قفل التطبيقات رسميًا مع One UI 9.5",
+     "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d9%8a%d8%b2%d8%a9-%d9%82%d9%81%d9%84-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b/",
+     "source": "عالم التقنية",
+     "time": "2026-11-18T15:46:02.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
+    },
+    {
      "title": "تحديث One UI 9.5 يمكّن المستخدمين من تحميل نغمات Galaxy الكلاسيكية بضغطة واحدة",
      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%8a%d9%85%d9%83%d9%91%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d9%85%d9%86-%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%86%d8%ba%d9%85/",
      "source": "عالم التقنية",
@@ -459,24 +473,10 @@
      "seen": "2026-11-18T15:43:33.814Z"
     },
     {
-     "title": "نقل الملفات باللمس: تحديث One UI 9.5 يسهل المشاركة بين هواتف Galaxy",
-     "url": "https://www.tech-wd.com/wd/2026/11/18/%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d9%84%d9%85%d8%b3-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%8a%d8%b3%d9%87%d9%84-%d8%a7%d9%84%d9%85%d8%b4%d8%a7/",
-     "source": "عالم التقنية",
-     "time": "2026-11-18T15:37:04.000Z",
-     "seen": "2026-11-18T15:43:33.814Z"
-    },
-    {
-     "title": "تحديث One UI 9.5 يبسط المصادقة البيومترية بين بصمة الإصبع والوجه",
-     "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%8a%d8%a8%d8%b3%d8%b7-%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%af%d9%82%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d9%88%d9%85%d8%aa%d8%b1%d9%8a%d8%a9-%d8%a8%d9%8a%d9%86/",
-     "source": "عالم التقنية",
-     "time": "2026-11-18T15:32:28.000Z",
-     "seen": "2026-11-18T15:33:34.019Z"
-    },
-    {
      "title": "شاشات سوداء وأنظمة معطلة... ما الذي يحدث للبنية الرقمية الأميركية؟",
      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNdkt6dDJ6aGhSMlBWaE9kYlVFdWdHaE9WWWMxTGgzZXdqWkFIU2ZoSVFLbWx1ZzVUcjA5ZzMyMy1La240U2N6VkZuSVdsS3otcHNfZl9yaHhOVGxNQXRiVmdObHVKeVlXZXZxR3pmVU1Eb2s5YTVjZjhjdHlHSURiOERsRXpzcVc4MGJocHNVSERxS0QxeFhQdUptT01NUFBTU0FrQXlmR1N4N1VmTENvaXNhY3IzVTlCLTFmSU9uMml3MmpOc1pkLWVpRmlhaElQUDFoVUNfOUhHdmVPUHR3b0M5Y2RNeUZZMjVydHlZWnBvdkVKaHc2LWhDUGpmUnZldjJ5aGJ4cVhsNW9aelZadVdrR1NNUjdFQzZ1OE9PR3BWekVSTUU1OFpLV1d5Q1hvcXEwcFZIVkdaUDNkM3RNMnlUNXRxVUp3TXktOFdOaFJUMjVuNEhOYy1ENFM2VnpmUWxpRTMyV012czg1WGcxUVJvMjUyYUxjSHRmZ0ozUEFjMVI2ejktMlFuamdSSzZfazhtSWFkTWxPZURVbFlNdHFLZV8xbWVsR2VRQzlwU1JSb1M2WUhyeU9aallXdGZjRjBDeWMzMGpMMk9OeF93VFNxTU9YdVJRUEdTRW8xcEhrd0Y5X2JwcnluNWZtRmpEZWtsUFlHZ0xlMU5oYUJrUG5vSktPbVJvdzF2ei1rVF9MSDFFdWg2MlFlell1Z255b3pDWXZzLUJPQmcxVHdiUTFmRWYtSGxDanRCWU9B?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-18T15:04:23.000Z",
+     "time": "2026-11-18T15:16:01.000Z",
      "seen": "2026-11-18T10:43:20.154Z",
      "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
     },
@@ -486,6 +486,13 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-18T14:57:32.000Z",
      "seen": "2026-11-18T15:03:33.768Z"
+    },
+    {
+     "title": "اختراع علمي يقلب الموازين.. مشط كهربائي يسرّع نمو الشعر وقد يعيد الإنبات بنسبة 90%",
+     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxOaEpvbEk1YWE5NU5lSTVaeWJ6UUpJZHZyczZUXzg4UF9VbHFmckhYeWZQN0NVN0NWajVKUFh3aksyVTk3amxwMWlfWVJZbURwM1l5YlN4MFhhU3h2cnE2NmFQWGtMWUNHeXhJRldGdmJyWFhQbEMyajkxS05XODVJa3ZKdjFyNDNNWVFHV1NPbFpWMzNCLWJaNzh5QXkyeUZLekJHR0plWDdqYUg2aXdKUU5QcTBwWXFvUUwzVHF0UUpnN3ZER1NnVHh1ZE9XWTdTZmhzeHJqSkVkMlBULWFsdkY2X3hBN0Y3dndKSUJrYTFTbnJtcktPN1MyNDh4WTdTMC1zMlZFdllzRU9HY0FsOUFzMnJUM2NoUmdMUVNRaURQbjBhYjltZURSb0JVVmgxV1ZOZWJ3MHBEVXdRR1laSUFmd3BqNEVXOE9uNUtMWDdVckk2dndRRGpTTU5fVmN1dTRDVklKSnI5TVc1MDRkYklxal9uZjQ0bU9uM08wR200R1RnRlZTazRmSjU2cGZ1RUg1bWxaOTNVY1FWVnlOWGJDWS1vbDE3RzhuQ2RMNHV5T0FUdTFyOTI4ZTdjWlNuRnFZd0VHSnlyMVhoVUpJMC1qdU15UUFFcEtpZzVyVklSVmpVNHpQTFdZek5TTHNjc0tsZW1DSDI1MXJyZW5vNFhlM0FoRXZxT2FsbktxeWNxazk3SjF6M3N4MlhibElmVUtPQUYzYVZGaGhZSDUxZkpGZ2NNakM1QUhucnZPcTVFNE5Mc3VXb3BQV25qOFRzX0kwWkZBQktBNmF3ajFuWFIyZFoxQdIB6wRBVV95cUxNeUc1MmY2MnI5R2VyRUdTMm85NzdmSVViYmlma3RhOXJUUTZxWkVUNFE2YWtZa2ZBdWVoamRoSElHNjFOeU84UnI3aVBWLVFqVDQwSFFDdTkzS1hueS05eEp4Z0NTM1VyUlk4dFlnM3IxMlVTRm5OcEdDS2pnSVVrM0hSRUNqbUJrNlVjOUw2Rm1lWVJOV1d4c0kxRVprTXM1VU5wNmdRLVN6M2pQQTdQbFlyNFVSenRSc3FxdFU5UjlHZS1yY1pBa2g5b3ZNd2h3QUVEZEtnd2lFMmpTQzdzTzVuWmpjZTY0N3BIalZYczlPVHRlOVJLU3B5azA2eXhsem52eWVubl94NmYzWV9ReGFQZV9GQ1JxdFE4VWFHZDJDR2xjUUVwejM4UlFtbmRBdER6NmpEWkNZUVZ4VFh1SWtReWZ0UjdjWVBUWUFfdTVOYXBFNFRKaUNjUkwyNl9PdzlNYU5zNFNMOUM4cHBsQ3l5N0RQRnNxNm5kRFl4cHRJNmpfWTFUNHl2WjhXaWh3QS1VNmpiaVJyenZBNllRTVVPREYwempIeTVhd0hObElKQU1OVkw1NnZpOE5tdmVPYndKdUQ2R19faHpPaXg4aTJLRlRzYUNRN2FXcTYwcXV0d3M0UHNwYUg2bm55Mjl2MklnTFpRR1hpSmRxdFkxejc2MGJnTWJwbThVUDJJTm5xOENvZGdzQk11Q3R1RTlidGNuRjBPYjExQlQ3c29PM2tYcnVSWE42N2ZINEVQYzA3OWdTMXB6MklYeTBJckRtWHItRzZXM284a3hDNVNxajQzMVROb2l3d0RJ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T14:38:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
      "title": "\"هواوي\" تكشف رسمياً عن تصميم هاتف Osta O1 Pro وألوانه قبل إطلاقه في 20 نوفمبر",
@@ -500,6 +507,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-18T13:35:00.000Z",
      "seen": "2026-11-18T14:53:33.513Z"
+    },
+    {
+     "title": "لماذا يُطلب من المسافرين تفعيل وضع الطيران على هواتفهم أثناء الرحلات الجوية؟",
+     "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxOTWtpZ0Z4eXJ4YjJ1VFhBSU9PbU1CQWwtZ0hyQVFadXp1SnVWQzJOeWVHb0ZXSVhLQmNrTGVMcTNfSG1TZzJ5b3Qxc3dFcnV0akE1VWRVbk5Mamc2cFplQ053TUhqc01vV0dDQlI0S1k0R3VOaF9NcnJmYzRBc3NnSmtUYWpOa3BKQ29HWEE5Qkd1RFBDcWdWbjF4Q3FIUTRpcTJOZjVaUUx6R21fd2lxamFYZ3AzcHZYbHdISVBhdmlnY2tqRDd5QzhEa0x4OGNnWG5zZEQzalI2MmRCWlNMUVdvcGtOa1djd2dBanpFUnVmbEgySlJtZEJsaUNwTkZ0cDdMbl91N3oyZkktZmt1WHhxYVhNR0NnSklub1p2WjFvWGFadVFndkxlYkM1aFhnNHR1bnEwd25PUUZxblRNSDJwUnRNeFdoX3dFSGsydGhMN0J2UGt0cm85M3gzUGlJNlAtVUVFRVQ2elh6UzRmUXNkWEhOeHNWMkN1S0JGQlRlQkZFTHJESlVLazFrdUhqb0c1YU9aVDB0SGV4NlBUTFpWUVhpaWR6eHRhVTBzbG5sdjdxbVdvVGNtVkRReEwzLXRsZXF5UmVLMGNmWDJxQ0Eta1dVV09EalJNWDdqNnVyczI5c1hjMkZoeVAtY3BfLTNuWFMybHJ3MERScURyUWZsSkpyV1AzSUwyWHh3REl2eFhXZlZGSko0cVQyZDN5RkdtaU5vZlhMTXE0NzNmaFRhVTEyRFVPRlVGbGlXcDZCNURUU3BfaDlzMC1hWGFNc0RfVnRqQzA5VTBHNFJxOHl6bEs0enVBczRfaEJXX1oyRzNDUEVFTEc4dS14bm80ZzBmOFJlM3J1Z9IBjwVBVV95cUxNOTNVRDFDUF9pNVF0YWNaaWpTRVNMYzVCeXBrRk1RVU0tNElnMEdadXpEMDdnYm41clZKNHZ6NzhQSjN6SUFCNnEtLWxudHlxM2V1V0tXNnM0bXVabVViSjdxYjVaMDV5R0o3Rk5KMnNDN09DdXVKUVY3TlB0aFVlN1dSSmhEX3BiTzZPaEdXeHFUREk3UVpHSTNKUEJpT1JEOS1RejBIRFRDNlVkbWtIUHd3aGszLXRVOTh5aXlYTnphN1MtN3JiQmNYSmlWTnE2dmczQWRhQmRoOXNadFhzcWNPc3VXZENRLUdTUjk4Q1daZDNKWlE4ekViUXhhX2w5amtJS1RuNDhVc3psZnFzbGhMaWlJRk5pWUlPTU45T095dGhsOEFzYTR4VGtYUzRMNXhJRmh6R0R1RktGRTJfSE5kZUViR0JDaXZCc1VybzVNUkxiYnhGN0RFeDJTaS1GMGZRYTE3Mm1fSUlxN3JKaXoyY0JZTExZTHZGaXRPdUZ3MlJ2NTNrN2lWeW9oaVFrZkI2aEl1VGJnYUpSWjZHMFJpZFVnRGlHeU91d3Y2S1JvSGRIMzI2WW5nVWZhdkZ5aERkVTJtN29Na0hEZG5WdEozUTZmUzVycjRZb2tla1RycS1MVlFOd184Ym4zQVhUWXE0aWhpcHFOcHBPdUswLV9QQ25YZmdycmVKVEVmQ3hNdUlsNF9palRDQ1pucDNSYnhpOFF0ekxYM1FTUnVWak5oNGpWbUJIeHVBa2RPM0VKbUVHUVp1Y3hUWEFobW0yRzJ4ZGZMYmtZTm9MZ2xveV96ZGJ2d0hOT3hPQ3M2RG1Yb0NEOEFURDlhZFp1RUZNSm9ZcEM2ZlZMcEF2WFQw?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T12:45:00.000Z",
+     "seen": "2026-11-18T15:53:33.693Z"
     },
     {
      "title": "هل يتجدد القتال في الصحراء الغربية؟",
@@ -538,22 +552,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T10:10:27.000Z",
      "seen": "2026-11-18T10:13:19.245Z"
-    },
-    {
-     "title": "تستخدمها البنوك والمؤسسات الحكومية حول العالم.. اكتشاف ثغرة في لغة جافا",
-     "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNVlXeXNLMDRLbGdsZlRLUnVxcTV1SUJrUjd4bmNXbVByNkVMaTJpMThPeG52VW1NMGt6T0x1MHRxc0psYXdONXJfbnRWMk44QW5SNlR1Tk5kN1gyeURGTkNQdWRmaDFmdzd6b25zZlF4dVBqb2FkR2FWU1RpMXdrWW5lZVFWYTVBZllUb0RHN0J4bG1PcHVESFJmdzQxQ0pYb2FsUDZjazcyU3hUWlUxZVNMY0pveFI1V3NnYzdiUVlQVG9pYXBJdWNzbms0ZVJ5TmM5Y3dtZzNuY0J2cl94WlNrcnlzb1JQeFpEWEdYdXBCMDVVbzhiYlQ0TTlXUDVCb2YyZWNmSkN5QkdLVHlHSWw5OTFIdGZrLUpaSnhZZkJDYjE1WDB5NzFvX0VMWHB5VEZ0STY0MlpmTU5KQXJjbFFZakh5SHl2eWdCbml3aG4?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-18T10:07:48.000Z",
-     "seen": "2026-11-18T11:53:33.403Z",
-     "impact": "ينبه المتعاملين مع المؤسسات البنكية والحكومية إلى أهمية المتابعة الحذرة للأنظمة الأمنية بعد اكتشاف ثغرة جافا."
-    },
-    {
-     "title": "سامسونج تبدأ طرح One UI 9.5 التجريبية لهواتف Galaxy S26 في ست دول",
-     "url": "https://aitnews.com/2026/11/18/samsung-one-ui-9-5-beta-galaxy-s26-six-countries/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-18T09:37:20.000Z",
-     "seen": "2026-11-18T09:43:19.765Z",
-     "impact": "طرح التحديثات البرمجية الجديدة لهواتف سامسونج يهم المستخدمين المهتمين بالحصول على أحدث الميزات والأمان التقني."
     }
    ]
   }
