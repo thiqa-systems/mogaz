@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:04:52.245Z",
+ "updated": "2026-11-18T19:14:52.585Z",
  "minute": [
   "تناولت الأخبار جهوداً حكومية في مصر لدعم المستثمرين وتطوير البنية التحتية، إلى جانب موافقة برلمانية على تمويلات أوروبية لقطاع الطاقة.",
   "وعلى الصعيد الدولي، تترقب الأسواق قمة مرتقبة تجمع قادة الولايات المتحدة وروسيا والصين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-18T19:04:52.245Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-18T19:14:52.585Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5657,
-   "change": -3,
-   "asOf": "2026-11-18T18:55:52.000Z",
+   "value": 5654,
+   "change": -3.07,
+   "asOf": "2026-11-18T19:03:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6459,
-   "change": -3,
-   "asOf": "2026-11-18T18:55:52.000Z",
+   "value": 6455,
+   "change": -3.07,
+   "asOf": "2026-11-18T19:03:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3741,
-   "change": -3.19,
-   "asOf": "2026-11-18T18:55:52.000Z",
+   "value": 3738,
+   "change": -3.26,
+   "asOf": "2026-11-18T19:03:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0973,
-   "change": -0.23,
-   "asOf": "2026-11-18T19:05:45.000Z",
+   "value": 1.0972,
+   "change": -0.24,
+   "asOf": "2026-11-18T19:12:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.67,
-   "change": -4.8,
-   "asOf": "2026-11-18T18:55:40.000Z",
+   "value": 88.75,
+   "change": -4.71,
+   "asOf": "2026-11-18T19:03:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7328,
-   "change": -0.17,
-   "asOf": "2026-11-18T19:05:55.000Z",
+   "value": 7332,
+   "change": -0.12,
+   "asOf": "2026-11-18T19:13:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62738,
-   "change": -3.32,
-   "asOf": "2026-11-18T19:05:52.000Z",
+   "value": 62785,
+   "change": -3.25,
+   "asOf": "2026-11-18T19:15:08.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,45 +139,66 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محافظ الدقهلية يتابع تنفيذ قرار إزالة تعديات على أرض زراعية بالطريق الدولي",
-     "url": "https://www.elbalad.news/7185935",
+     "title": "خبير نووي: الصين سترفض أي قيود على ترسانتها النووية ولن تقبل أن تكون الثالثة",
+     "url": "https://www.elbalad.news/7185967",
      "source": "صدى البلد",
-     "time": "2026-11-18T19:03:41.000Z",
-     "seen": "2026-11-18T19:04:52.245Z"
+     "time": "2026-11-18T19:13:48.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
     },
     {
-     "title": "أحمد موسى: الإخوان ملهمش أمان.. السادات أخرجهم من السجون وفي النهاية اغتالوه",
-     "url": "https://www.elbalad.news/7185948",
+     "title": "اشترى عربية لنقل الموتى.. حقيقة ادعاءات شخص باستيلاء موظف بالأوقاف على التبرعات",
+     "url": "https://www.elbalad.news/7185962",
      "source": "صدى البلد",
-     "time": "2026-11-18T19:03:28.000Z",
-     "seen": "2026-11-18T19:04:52.245Z"
+     "time": "2026-11-18T19:13:46.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "رسميا بـ 53.89 جنيه.. سعر الدولار اليوم في مصر",
+     "url": "https://www.elbalad.news/7185956",
+     "source": "صدى البلد",
+     "time": "2026-11-18T19:12:05.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "رئيس الوزراء: المختبر التنظيمي تلقى 15 فكرة مبتكرة قبل انطلاقه الرسمي",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTjZsOWFHZXUydTc5Z2h5RnVtdEZtMXNFNnF0UEFkYjNMMXdtMWV6RFFsQlVfYlhMSW42aHFmaVNQazFCa3UwcnUyZy1BVEZ6eWpjVmRxbjc2bzFaWFZHV1RsTmhlOE1ZMEhfUGo3djlQNkljUXUwU0tOS2ZSRHZqZFBGb2pkV0czMzBOTFNKeFNJVEVvb2UxX3J3bFg2UTZYTjhBNnE1SzZwdk1nZlUxWExVX0R6T0hMQUtuak4wMnIyYVFzWllzV09nSWRuTi1PM2s5LWZsemd4elc0el82SlNPUVMxWHNuaFlzemotNmJ2NmFySTVGUVlNUUlxUWE5T21ldmg0V2dzS2VuanVlTER3VDl6NHExQ3ZEX1RqeUR3ZGdVWXBVRnhMZzNLWF9Wb2RobkhnYmtBYzdZWWo0emtVNWdVMy1LYmd6X3k3Q1BPM2EySzN1cUp4MFpUOTlYbllrZGVTWDYwZw?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-18T19:11:16.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "عاش من أجل السلام.. شاهد ميدالية الكونجرس لتكريم الراحل أنور السادات",
+     "url": "https://www.youm7.com/story/2026/11/18/عاش-من-أجل-السلام-شاهد-ميدالية-الكونجرس-لتكريم-الراحل-أنور/7624053",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T19:07:00.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "عائلة السادات تصل مقر الكونجرس الأمريكي استعدادا لاحتفالية تكريم الزعيم الراحل",
+     "url": "https://www.youm7.com/story/2026/11/18/عائلة-السادات-تصل-مقر-الكونجرس-الأمريكي-استعدادا-لاحتفالية-تكريم-الزعيم/7624052",
+     "source": "اليوم السابع",
+     "time": "2026-11-18T19:06:00.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "مدبولي: توظيف التكنولوجيا لم يعد خيارًا.. ونسعى لتطوير منظومة التجارة",
+     "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxQWjk5bVRjQU1rREgyZGJBLXJtcGVoZGpzLW1OUG9pd1FvVFBxYlk3SWFTWDlwWFpnLVMwMUc2TU9pSHhDamxrMFRkM0UtU3lUUXhsNXZWWXlzZjhXaXlKZWVPQ2FCU1lWTWRVcmF5MUgtcklheEJTdnZITzk0MXlpc3V0aEFzaHZIQi1TS1cyN0UxM1FBbVg5dGJ1dEg2eVJuT2t1N2RSWVV4NEp6TFZuVDhpRlo3cmxqaVlEdHktUHItUVp2S2dMblZyZDN3N2NaREloLWtnb1VDRFRMd1g4QklFaW9qN0NSRDBpdW85czk0aGJoRXV6TzRPN0pVZ3ljY2xxVmc0ZjV6ODBvdm90X0ZCQkJFc2t0a2czeU0zVkVKcTE5eWZOTG93WER4dHFXcU0xeW51NmhoOFdaTk5wUW81LS1NalR2NmJGRXVBM1NrYlNlc1kxRzFldlRMMGtlOUQ0T05RNDgtQmxQaXVfSVdSUi1BUHhwSE44S3pOTUc1SFpLcFVQb19ZRHZUYmNLaXJoMDYtSXVGTUpwUjlSTGdsNkRKcUt2VEZOM09EZmdsaWtORV8yTFdYcy1GQ2pvd0lGb2Z6ajQ2SzdOaExHSXBHeV8zOXh4elhzY1A5Zzk0ZVJmbTc1dF9FQzVyMkpQZ01JUDJ1WnM0c0kxaklKc1laZXotcXE1ZE01QlJzTHNkWk1Ua2lGY295RzZiaFlxRTQ0YzRBTzdSLTRycGpTWkd3V3dTaXR4OFZUSjkxUHluVjDSAcgEQVVfeXFMTjV1WkdVajQ1UU5ucEZQbGZhWXA0Z0pIRExLaVJRNkhvZmVXZWI2Nm5manpSb1lpQW0yU1hlaDhlVmxXWjRhZ2RkaEw3TXAyUHIyVDdnd29rbnlYRkVja05RSzI0Vm9tTEZNTWNWRG52clE4R2lwWVdBalhrZ2J5QzNYS0lJLWgzRHRJSHYtRXZwSnk3ZE1wYlh2MjVrUVVjYUVSVGFzLXFkM0o1WFB0bWk5bGQzSzNqdXUyUkNGUUtfNnd1UmdFeXRhdTBQRnhLY2ZqaElsWmxkWnVGejBVY2VXV19jYzBrR3NKQlhleG5WYmRDc3JjenZkWmQzRVpMLWJ5NUlnOE1wamQ0b1BGbUlfeW1fd25qZWoyS0ZFc2cxbnJJYkgxUWZvRXFkTzZVYUltcWlpODVySEhBZ216aTFYcVVCNzcyTmRhUHF0YzdyZFUxLWZPMXVEQWJkZThCanVFdkNOc0dqTVFVYmFncjh1S0dhdjRZcGw3RmRET2R3NkM3RUdnb29pZ25yLW5GQ2h4YURYQm1vRVhkOEdBbmtjMXlTbGs5SzdxcFMyZVZfWjBCLV9Tc242V0kzUkJCNFNGWkViVmtOeGN6SHV4T2RDMFh1cTdKRXNfOGxiUjVKdGNzVjVGcmhVLWFHT1ZkU2o4V2puMXRXV2RRUmVRaXcza3VfR0xfVFVOYzdDN0tGNGdmdVZ2ZjJYMVZzb3FuM2pRODFod3BST3VmNWF3c2FyRkRpNm9jcFdaZGZadnZLNW0wYzA4Y0o?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T19:04:33.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "مدبولي: \"المختبر التنظيمي ومركز الابتكار\" نقلة نوعية في تطوير منظومة التجارة الخارجية",
+     "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxNUmIxaUpCM1N3U0hXX2hlZDRSS3BmUS1kZXdPclNuY29CWDB2LTZhQV9MUWNoQi1pNFZxeF9KVFZBbExMWV84QXRDWFVuOWhhejBhZktwSkVHdHRwbzRTa0RRNUVERVI2STJFSC0xYmpseXNQWUp6M013QWJrNjJxRDZjTEpQTHF4dno5VDN0S0ZmbG43YjdIVU9lYlJsT29vMmQ2c3hjNnAxNkNDNkh6NGlRNmtFZUx5WE1haTVaYnZic29VNWoycGE4d3BZUDVoVE9Xb3lDODBxQUZ5NlFQWEtIY2ZjRVlCdVJMR3hwNlpVYzJzNzc0aERNNDZQNG5TNTZxeXY3T1dYTDZ0Y1hLZEc3NW1BX2dKUXV3SVBMS3BxZk9CbndCZk1JYV9ub1E2bk9pYzQ1QUNjRVdiOG44YmdYdTlfMGRlS3Naa3o0YUhWSlBVYTZOVjFlX0VvY3BJODFQTVJVNVhnNk5fb1hMVmlFZ0o3aEkwLWI5b3pGT3NlVlFKZ3p4a0dXc3hqcDlheDFNTXp5WjRRTXZiQ2pZS2lyTWlGamYzZ05ybUE2RmZWblBDdVM3M1VxbDZ6dmZnWlJiNmlRVDZoRnFDX25UMGhzZnRNRDFLTE1oT203WFJmWm81ZURoT2JDaGJiRmhlcWVDZHFLcVkzRWZvYUNLUUFaYS12Tm9hQ0U1M0pyYjhiYzNQTWJsR1RScDRCdmdLSW1WYzFKY2MzRUFBaVV4UlA5MWlVN1l5cVg5OTE3SmkySWpZb0ZKUjI4b2w4YU56MnhCUUpRRklmUE4tRDBnS0U1N3ZsYUthZEFheFg3R2ZYeWZQTlNCQU1RSdIBwgVBVV95cUxOZV90NzVwb0c4LUpvRnM5YTdEaE1MenN0elVoTTVDZkZKLVNzMnNPWk1jZjVTT3pseDZmWlozWlR3cTVNLXNPOHhuT3NaaFZnZVM5dlN5MGNDZzNodHM2RFZheERVeXVybXBjNXRJbG1CRVVBa3ZlRUlIeERXeHBrVkQ3TFYyOGdMcUNYM2JGdFZMTHdzWlZ4VjBqcDVFbmxKQW54ckVJd0poTjIzVDVEaHdnQ1lOaWdtaVo5ZUFocVFzU0lkTy00VGlQdGRJUTJfSTV1cEhRa01NaUoyb3NHQWs5SW1udDdib25yNmVQSE5jR0FjcDd4MFFSVmRheWI3VUZldzZLM0x6MHJlNndicWVfVkFlVmxpY3RuSzk0N0psT1czMmJBZjJpb21rNDlXRjBHc3c5Si1hZU4xZVJxX0s0eF9pMDJ0V3k2YS1LMDMwQjRlckRrRWNWWldnaWdoVkIweUtNZVR6TTBuWU90emVUQXozQnI2Z0lTQkQ4OXpDQmctb2o4b1BmMzFmWDFOUEpnellOb3FsekktQUhHbUJsRWF0eHN5RGtSRllNWm9OcDF4WlJXYndDWU10bUhWcHF6eDIwMXlIZDlOcUNkNlNxNlQ5VFh5WFQ2emZ0ZWdnaWV1Zlh4SmdNUmNlOWV3dWFfNHJtRTlWRzRxcVZVUV9sVVY5OC1EMzU1NXBqM3B4OVpEeHh0RV9OcE1aVTdjdzdCcGI4T2g0QTNHSEhqdlJ0b1YzQmhkbUZjMXM2RXg2T05sOTJNTF84ekw4RHJnWXdHbVowb1lyUE52ZXNqODM0akljcWFzc2JMcUd3ZUZJYkFka2RVcUs1TjNJbnVoaWJ4UDFxejBlMEhYdlE0ZTBoaWhmUm5HWmw3V2Z0ZGwwVWx4OFo0R1VEcDZHZ3pSUHpMV1NVbGlickFPcTV5UTB3?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T19:03:21.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
     },
     {
      "title": "60 أسقفا ونحو 400 كاهن.. كيف توسعت القيادات الكنسية فى عهد البابا تواضروس؟",
      "url": "https://www.youm7.com/story/2026/11/18/60-أسقفا-ونحو-400-كاهن-كيف-توسعت-القيادات-الكنسية-فى/7622130",
      "source": "اليوم السابع",
      "time": "2026-11-18T19:00:00.000Z",
-     "seen": "2026-11-18T19:04:52.245Z"
-    },
-    {
-     "title": "مواصفات لينك كو 08 2027 الجديدة",
-     "url": "https://www.elbalad.news/7185638",
-     "source": "صدى البلد",
-     "time": "2026-11-18T19:00:00.000Z",
-     "seen": "2026-11-18T19:04:52.245Z"
-    },
-    {
-     "title": "وزير البترول:نستهدف تعظيم الاستفادة من حلول الطاقة المتجددة لخفض استهلاك الوقود",
-     "url": "https://www.youm7.com/story/2026/11/18/وزير-البترول-نستهدف-تعظيم-الاستفادة-من-حلول-الطاقة-المتجددة-لخفض/7624042",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T18:59:00.000Z",
-     "seen": "2026-11-18T19:04:52.245Z"
-    },
-    {
-     "title": "إعلام عبرى: تنسيق إسرائيلى أمريكى لشن عمل عسكرى محتمل ضد إيران",
-     "url": "https://www.youm7.com/story/2026/11/18/إعلام-عبرى-تنسيق-إسرائيلى-أمريكى-لشن-عمل-عسكرى-محتمل-ضد/7624041",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T18:59:00.000Z",
      "seen": "2026-11-18T19:04:52.245Z"
     },
     {
@@ -214,27 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-18T18:27:00.000Z",
      "seen": "2026-11-18T18:34:53.007Z"
-    },
-    {
-     "title": "رئيس الوزراء يشهد تدشين المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxORWpUQXl1RUg5VWtzY2ZRQXdRV1RhZ0tSLTNfZWxTWUZOVWM5WDdwamtIVkZkWXN1TTV2MHBfdXZ5WDF0cWVfRVF2eXVNRFpwaERMcDQ0VzkxTmF4Rk5JOGh1SFY1NTZDTDZNRnZ6bzBreVB3UUNKcVkwVmdEek5JN00weWxTVGpDaTAtRzBsQ0xiZzh2b0MwSGN5QXVvMUZwUTMwblpJemZBN2xCUlZIZGdUblRJeVdoMy01ZnlleUJuSXVUSkhCZnN6X3pfLVBWUmpRenBEVGQzX00tUFJ5eVNjYl94SHlHVUFfWnJhcS0zVjgxNU15OWZNdmh0TWhhQXlVMjlHZWpWYjdfVjRpazhyWm5kWndNT0tFRWViRG8zdnl1cWlacmNMbjR4bHhkSzJXUDdIN2g1c1pFclBVM2FXMWdtQWUxZ2ladXF1a2l2THRtZU9wa1BFaEJkVTQ3RnNOVGt2Ull6akFGZWxZTXpDakxzZkdSVzA5SnpR?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-18T18:13:03.000Z",
-     "seen": "2026-11-18T18:14:52.678Z"
-    },
-    {
-     "title": "المصرية للاتصالات تتولى البنية الرقمية لمشروع نيفيرا وتربطه بأوروبا وأمريكا",
-     "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxNYXE4YmFPckx4TS1UTVBJOEVGSTBMU1lkemVUYjAzVkpPN3daTVhDZFBVQzBwcXZvOEotNTVQcTN2eHcwQ21ZZ3BZWHZQZTJlSV93VVl1Tm4ybGJCek9KY2RlVm9fcDNrRUYtODJ0bGdtVjFtT01tMUxfTTBWNVlmdHRERkh2TGlqR2drSDRhV29RNDY5YjZVSENvZUVWNUx2dkV0VlJGMkxMNEFEcjVKdVpiSjlXZkk3RUtxWllqRHU2cmdtTGxCbHdTNUVfczdSalVXRFJyM1lSdFBfTU85bzV0WFFoNW1QNWpldnJ4RmtMdjREWHRjUzlZWUZNVHZSVl9XdXJXaXB2SWF5THAzM19EbC1ENnlQeUE4Wk8zSmV2b2ZXb2t6bUFYTXJiMzFsYTMxNS1qOXh2cE9PZ2NYaU5DN3lyeDIyd1h2X2ZqYmlmc2E1VkVESlB6cE03OWw5bHo2UXZ5Wm9FaUV2UVE5MnhUOHBtdDlLZ3dFVWxWU3NQcllxZ3p6TTE1dk5NZjJHRUp2cVUtb1ZjZ29UNFA4OVdESGdKN1hhYjR4VVppcktoeTlBN212Z2RLTEZzdUFyYjZuUDhTdXdYVW42REp2a0pab2tKb0JSMDRwS3FnU0VqY2IxUnRWLVk3Q3dpMFoyb3dfcEI0ZmFzYXkzSmlzbFBCSDN0MEVnQUM1TTdfWjRCNFVVaGh0aTJTTVA3aDJET1ktV1ktSjdnTG1CTTB0b3JicHRRckxXYzM0Ym1RaTN2cFFDSkRQMmRDMXI0QlhoeFByQllVb0ZFdWxwcjhGR2hfU2lncWFYMVlMTFhmLUk4MzI0Ylc5WEszblVBSFZxT2NLYnNGSDhOWkFUY0I3V0Z30gGXBUFVX3lxTE9JNjlaM2JoeHp4Zm41eTA5NFNFc3RaZlJGcUFia1Q0WFI4UW9zOW1jX3dZWUp1alE3Rkw4QVhfYXlGN01PbzA5d2NZbDVJb0VneDhDcFRMdEZ6aUZoNHhjYkFDSWRmTEh2TFBnRi1PanhMaWMtbWstRHlnU2VXWG94a2dEYVBoWFhZd1RGVHhLajlGeE1uNXpoa05zeGJDRUttc2tpTGQzUnhCNFZsZ3M1M3F6WXRjZHBBMGlWWlBNam1TaXF0OGxyU0xoTExXVmpiYUNPTG50eThIRm5ET3l1dVI3dy1Zdi1mNTEzVUNNN3RQMjdRV0NEOURXRGhScm1ad05yQnVtRW11V3JrZUF4cXhGVm80MHFoemhWZGdZX29hTFlZNjRyekg0Mmd1ZmhIVGxLWjZRbE11QWhnaTdaeTdSZGt6Z21MUldCMWNsNzNyR0xaclFLZDJELXNmUmlscHJZUlZzdHlQeDhRRVh2QVhHczJndVhwUXB0RmJldmlpS3d3WmVnRVZKUUx0UkI5b1B3RjNyMWpjdk8wS2x0eFp6dk5tM1FBdG1vZ0pIMTlXQWJEMldDTlVnVjJHLWlZMW9SeEpGQ3FPYlFtQ09vekNPYmhleWIyUmJ2MXlqSk1saGRuWk5rZ2FHZ2FuS2hyWmNBVGJNQjNqS0kybThqaUhKQmxJTHgtSFdsTTVVbENydno4YUR2cmZETXFnV01sNGE0RXRTcXpXNGUzMzNoUF9pSTNtX05fc3RiUTl4eEZILUVEVUFFUUp6YWNmZzd6Q0ZZS05LaGwyZjB5bW5xU0h5NEctTEhnWGk0ajZXLW9Ob3h6Vi1BZ3VKdzI0Y1hCcVlMUG5lNUlYNUg2eXBrdkx0SG5Ubw?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T18:06:39.000Z",
-     "seen": "2026-11-18T18:14:52.678Z"
-    },
-    {
-     "title": "مسؤول بـ\"نيفيرا\": نستهدف دعم السياحة المصرية وجذب استثمارات جديدة لغرب القاهرة",
-     "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxNdjBIZlZJdW8wcW9rVXNTR2RJZTNIaEprSDJMZ2NIYlFWX0pfXzhRTVVOZnphNEpUSGY5NG9xV2JHc3pLQVpobldPM3JaT3Y2RUVsZFMxbGlyR2lRMUlqdUh6bDNWaEE5bWdhR09PQUp2ZC1wTEpCSUJVb2ZBVjNYamVjdzhVdExiY1Y3YXAwMVdiQUZjOUR5b3NmSTdPSkRYTkJ0YjJtRXN5YnBXVGJqcFFqMDQ1ejlRQmxnaWNfbVRBclozT0U4Q0gwWmJ6UjBJSWpMSEZLZWtMLVRpX2NzbWZoVE1wMXdoa2puVEUxdUdRWnlMU0drNWZEdDVpV2NPaldqUkotN0U5RE85ZGFJcy1La3dDRWFQb1NtTUxDTGlPQzBCQm95RjRqMHdPZTBJZlBCV2VVVFRxY19idDA4R1FNak5WUmhOZDVVcE9qNVk4bTZEc1NJLTZTclFnM2VYcHNfQ3pVWk9BaUdyTVZBVkx5Ulk3dXl6Yko1WTBia1dLRmxXdzJxWV9ocW9HODVvU21zelBFa2kwMkY0QlRlbjNyX2ktanFTem01LVdLV0V6YmpiSHFCQzNjcTRQWjFINS03VlJZREFLZ3dlZXQwQkJXU2VhcG8zVWdBVHY4eW5TTVRvSks0ckRJSl9RbDQ5UlFmZU1sWHBUel9Wczd3MG5JeGM4cjJSOEFPN1dVc0JUQk9DR0hoM1FxTkFZR1BHbFkxcHRtOXBnUlJSN1Q4VFZLVURwOGlSaDdPUDhoVlZDekxpVlZ6U0ZRY0RvUnVJR0F0c3dPNjJZWTFlRElGYVNkVklyOVdZc3ZWa09hb2Q0MG55aWdlbVRtalQ0LS1LX0lzMGlCTkhLeW9u0gGSBUFVX3lxTE04MDA2dlRJbFBWS2tqVmxXdV8zd0RiYXhwYjFUNTI0UnJxbWQwRXd6NGFfRzJmc2ZPaHVJQnlISTFCbnFpM0QwaXNTRU9VV1Ftd1hydE0xT2ExekdPdTg0cDBWb0VQdkxfZ05lZ2xWd1k5LWlmNzFjbG90cnFSZE9udkYyMEkyTjhrOVF6ekcwRjlwSklyeHBqNWE2OFhzaENLNkhjb1Jwb3NBT1NwSVdiN09jODlaWjFhd1k0Qk5IV2lUUDhPVUVvRzlLLXdnQlZJclpqZWJVVmNKWTNsSVFUcjFyUmhpa3BTTWx3VkpLTlV5NGdlR004TTlpRG5FdjFPbVNIWE9ZLVhCa3ZCYlpaTnBPSHpGWDQtN0NRTGJoX05KN1RmOEx3WGUydzVVNWN6aWduYTBMWjJ0aHpXcFB6azRTOUJ6d2dneEoxWUtSX3BUUGdhUVFfUmY5Q2ktSXhKOUZKY1FKRERoRWtkUXFHSkhBOFBmOGFOZEJuOW1hOWxPdzJlb3FWY0c5aGZqU2hqWUZIV3h3bFBLUndKcFVMUHBsU3BPZFVBN2I5ZUlWaFIzVE0xaUppM1luQ2xBdEQ1Rmo2OXhLSHRrUU1MZDgzbVhubEt6Mk9UQ2ZidVh0ak51UlF3M3B6RzYweXVmMXBmanRfdExzSHhjRGhVTGlTaDBEM0R4QVdnQTdZMnphc0Y0dUNTZkZQb1pyTnFvbkZ4bnJLQ2JVS1pWRUYweEZtWVY0ZjlWUTliUVZmTTJjUF84SXViZUpCcTBPX3FkeENKVnpGLVk2LUY0U1BhVHpnSkVHaGRUQ1JiVzVRZjUzd2pBQUlYU0RfTUFhbmc2cUVuU2VHNVRTMkQwTG5iNDYxcFE?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T17:57:35.000Z",
-     "seen": "2026-11-18T18:04:52.415Z"
     }
    ]
   },
@@ -242,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "رسميا بـ 53.89 جنيه.. سعر الدولار اليوم في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16ZlR0LWl5aFlIUHZCVlVWd04wd2NsVkhLa1k5ZVBxUkx2UFp3SHFDZFhjcHRkNGxEbG5fYmdYdkdveXlLRGlB?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-18T19:12:00.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
+    {
+     "title": "صندوق النقد: القطاع المصرفي المصري قوي رغم ارتفاع انكشافه على الدين السيادي",
+     "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOU3dwWmtySnNmNjdsZDZ5QmZhUURaY0tUTEV4b2lkM19TeFNtemUwbnhHc1pGajRyVFFXV2lNdkllOHkyX0h5dlhuanBwMFZLbGZ5c3NOQ2NpWnVxSkdhbHIyQTZLUVR1d01qZUJVemNEclV0bnB2WlBGTlJKblJQYVh0TDlFNjBtSWI1Nk4tNzI0aVlGRTFGTnNfOVJSazRwVzV3OS1ubTNpOHJDcWZqNGR0OVNDcUYtMThyWVlWemZDNHUxU1hmNFJDZmtuMFVoaURHOFM4NGxmY3ZFVl9yWmx2dTJYd3ZaZG5DWmpkUjhxOE1VcGhPWUVraUJKdG9IckpqZVVIR2tnMjRnRlI2RS1obHpKaUR0Ujl3b1lfU3FIb29PZF9FRlBDNW03NFU1YVZQWlNrcGFBQ2lPRUs0MG4tdHVWaTVXejdJdXlpYW9sZlo1NjhCNFhCV2dKZlFJd1NfdHNZRFdybjctT2ROaFVYZG9Gd1YxbWdKWEJoNE50S21aNEFVcDREY1pVaTJHdHJhVFdndU1uVmRGQ1BoUVFfc1E0ZmtQOUFPSkdValBVWmMyTkF0eUlXam1PRTlVSENfSTRKQjJRY2p5d3JINE05Y3RfektDeXNGRWRUdmRIMHV0Qko5LWFPZzZrazdGS3FiQW1ocGdUZnBKUm9mUlVJaUxOalJKQVJCMGVldDZsWFpHVWZsSVhNY3JNTXhrM0drTGZ2amNlbWVOUWpKcnBmUmFmRFRTaTNJaEEyXzE5NnhYOVhlVDk5UXNraXdpdmNjQ2Zmai00YnJZXzN6dUNHdHVCZkFRSDdvVmxvY1hxQXAwZmpDaTl5WmZzaFHSAYQFQVVfeXFMT2JOdDFoeEkyTGNLS0RBeFdTQktEeUF2aGNaMXZlekx3elFPSEF6WTlKazlEbFVCT2Zmb2dJXy1Fb2dkWV83dmppdEU2OFkwN0tlWXFYMWpING1lYVM5dU1jWVltTjVfWV9BOVdSTnFnZUZESzFiR19qcFdUMVV2TVFseGlRTWU0NlJXaUNmbmpIalJxc0Q0NGMtM1U0dE1SU0hNVHdvckFibFF6cDFOWnBHaDlYNUI3RnRrcHdqTzc3RW5xVkZDYXJDRmM0d2ZTWFRRVU9VdFJHVDR2eTlhbnNibFRCdGE2bndCbDB1NnhOWGxoUkxISnlURVVKblh1cmJHNy1YUGNuYVFQTHBzNHdvMFBQT2FnN2xGeGRLdzJjc1hLd1NFZUxDQU82V0JEdzB1eVEwYTNKaUE5LVFBVV9EbmhsN1pxTGFqY1k1NnMwTHNnMGFQMEoyb0dsbnBXZGRZZXRRVnNGeW5HTTVjMExqcGxvU2k3czREVngxQXBoM1A1QkdUWjhfeEpKRFF5QzhjMDhOOTZDMjA5LTJ5eXhmdEtjM1pyWEtNWVhyN3QtdkMwdUtlMVIzVW5JeE5HRmkwRGw0Y2htYVA2a2ZHYnpLbVRQZ0Jpa2RCa21reGJzQ25nRE1BZjBoX25KemVaRS1XWmk0RHpCRW9hVXFUVHp6d1Vtc2dBV3BJODdsdmxIS3cydmp6ZEZzcmtJWGg1dDhST284czY0M0lNVWhJS2ZqSUU5RHhpb0s4Skg2eEJWWEoxeGp2MTJGRjhReDVZbEU4NFd1aXJkVEJTYmRjcUZORFJHU296NWl4aElyUnI4OGdOcVhFSjRVZWE2RlgxM2g1VUc?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T18:26:54.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
     {
      "title": "صندوق النقد يتيح لمصر 2.3 مليار دولار بعد الاتفاق على المراجعتين الثامنة والأخيرة",
      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNVUJhQ2lZcmFfc0ZUUGpDSWZwSHZSalprU0NTOUxHeTlmQ2lxMTJRM3VyQXJKWks4SzBveHAzMGxxc0VNaEo3NkJ0UVRVZ3I2UUstQ3ZOcFN3am13aHRBaUQxcmMtYVhLWWNmQkdOQU1qWjdMek9XbWhDakVJTnRKNV9EazAzRHJ1Mkd6d2x2NnJnUDM1ZG5ib0Z0dTg1ZkhkMU55X1NpLXVYZm0zTDNxdU82d2FvNHdCX3B5eW9xUFZKQzEwaUtpaElVMUFpZ3o5WTdyU0Z1Qzk1RUREQzVraVRtLWJlVmx3TDg5ZXhISGRRZEpZSnlfLTBPV3o0cUhWaDlGVm9TSjhPYTZzOHAtcXZicmV0S0NhTFRyM2J3OUJmYUtzcEVDRTJVZEF5amxYd2lSQTNoNXpYSEpadFBSMU42SnBhZWpLWVBzbGpNcEpINElrQjBLSDNGSHVPTFpOWkxzOHRfN3ZUX3NHaXZNUzl2SW1LdFdZcnJSVXRsZHR3QlZwa3JvRlJ2RzAyVzdfVnU1bWpXX2NZZF9vQkxENGdmRHFWRUxmQWdKMDYtY0psV0pXWHo3aTNPbWxoTk8xWXl1eHdKVE1oN3ZKRU9RWmplcS1LUGVQ?oc=5",
@@ -325,20 +339,6 @@
      "source": "صدى البلد",
      "time": "2026-11-18T16:21:00.000Z",
      "seen": "2026-11-18T16:24:52.506Z"
-    },
-    {
-     "title": "53.77 جنيه سعر الدولار فى بنك مصر اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPalBkZy1tZENIR1Vid3Z6NzhkMUstT1Y2Z0ZOT1NsQXZNLTl5bllIN082TXF4bFVLXzhZeC1RQks3M0xrY0ZvaTNvZGpOd3FEdlF0RjlHREVzRWhNM01KYmc1VDYtRGJsNlQwcmZ4TGljUE5leDZhNE56Sjd0eW9oOTBqLURxVlR6ZHdIZWxCdThGOGJHMEJIeFVMbXJZaGI4Zm5ZSTdnNGM2aE4yODluY3NtNVhyZEh1SDFGRHJfUW9ZaDQ1UlV1cTgzZFotSHYwTWRvLUh5d1RUTzhJdmxzSjVwYUREcndCc0ZGVkVYLWw1SkJrS0VmNnY4d3h5QjhsTVoydWJHeU9MNWY3MkQ0dVhzREN5bUp6SUtCcEtnU1RGNmZRTmZkNXc1YzdoblJtSHFwUkhlcEthSy1EWFRWcnlXSVpwMFNKVGZzZ2VmS2ZQUEdpdzVwYnNqTWVKNENHZ3J4SExHbmxBV192NGxHV0RKLWpYcDh4TGEzVVhFWdIB_wJBVV95cUxPalBkZy1tZENIR1Vid3Z6NzhkMUstT1Y2Z0ZOT1NsQXZNLTl5bllIN082TXF4bFVLXzhZeC1RQks3M0xrY0ZvaTNvZGpOd3FEdlF0RjlHREVzRWhNM01KYmc1VDYtRGJsNlQwcmZ4TGljUE5leDZhNE56Sjd0eW9oOTBqLURxVlR6ZHdIZWxCdThGOGJHMEJIeFVMbXJZaGI4Zm5ZSTdnNGM2aE4yODluY3NtNVhyZEh1SDFGRHJfUW9ZaDQ1UlV1cTgzZFotSHYwTWRvLUh5d1RUTzhJdmxzSjVwYUREcndCc0ZGVkVYLWw1SkJrS0VmNnY4d3h5QjhsTVoydWJHeU9MNWY3MkQ0dVhzREN5bUp6SUtCcEtnU1RGNmZRTmZkNXc1YzdoblJtSHFwUkhlcEthSy1EWFRWcnlXSVpwMFNKVGZzZ2VmS2ZQUEdpdzVwYnNqTWVKNENHZ3J4SExHbmxBV192NGxHV0RKLWpYcDh4TGEzVVhFWQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T16:14:42.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
-    },
-    {
-     "title": "ارتفاع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSSWFCQ0dUVGxXeHRkcVVGR0MxYnljeEZVZDQ4VVZxN1ptdVFoSEdRbzNtUkU1QWlSQUprVDJiRkFoc3Zid0dB?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-18T16:11:00.000Z",
-     "seen": "2026-11-18T16:14:53.181Z"
     }
    ]
   },
@@ -346,6 +346,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "القناة 13: نتنياهو أكد أنه لا مفر من التحرك ضد إيران",
+     "url": "https://www.skynewsarabia.com/middle-east/1905653-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-13-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A3%D9%83%D8%AF-%D8%A3%D9%86%D9%87-%D9%85%D9%81%D8%B1-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-18T19:04:08.000Z",
+     "seen": "2026-11-18T19:14:52.585Z"
+    },
     {
      "title": "الوكالة الدولية للطاقة الذرية ترحب بالاتفاق النووي بين السعودية والولايات المتحدة وتعتبره \"مرضيا\"",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261118-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
@@ -428,13 +435,6 @@
      "url": "https://www.skynewsarabia.com/middle-east/1905640-%D9%85%D9%88%D8%B3%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D9%8A%D8%B9%D8%B1%D9%82%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T17:01:48.000Z",
-     "seen": "2026-11-18T17:04:52.670Z"
-    },
-    {
-     "title": "تفجير عنيف وروايات متباينة.. ماذا استهدفت إسرائيل بالعرقوب؟",
-     "url": "https://www.skynewsarabia.com/middle-east/1905639-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%B9%D9%86%D9%8A%D9%81-%D9%88%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%A8%D8%A7%D9%8A%D9%86%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D9%82%D9%88%D8%A8",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-18T17:00:22.000Z",
      "seen": "2026-11-18T17:04:52.670Z"
     },
     {
