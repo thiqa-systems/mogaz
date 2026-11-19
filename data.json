@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:48:22.603Z",
+ "updated": "2026-11-19T12:58:22.544Z",
  "minute": [
   "ارتفع سعر الدولار واليورو في البنوك المصرية، بالتزامن مع صدور 11 توصية من صندوق النقد الدولي لمصر بعد الاتفاق على آخر مراجعتين.",
   "افتُتح مقر التشغيل التجريبي لخدمات التأمين الصحي الشامل بمناخ بورسعيد، بينما تدشن الكشك الذكي بمحكمة القاهرة الاقتصادية.",
@@ -11,44 +11,44 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T12:48:22.603Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T12:58:22.544Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.79,
-   "change": 0.19,
-   "asOf": "2026-11-19T12:38:02.000Z",
+   "value": 53.8,
+   "change": 0.21,
+   "asOf": "2026-11-19T12:59:28.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5623,
-   "change": -0.5,
-   "asOf": "2026-11-19T12:38:17.000Z",
+   "value": 5627,
+   "change": -0.43,
+   "asOf": "2026-11-19T12:50:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6420,
-   "change": -0.5,
-   "asOf": "2026-11-19T12:38:17.000Z",
+   "value": 6425,
+   "change": -0.43,
+   "asOf": "2026-11-19T12:50:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3716,
-   "change": -0.69,
-   "asOf": "2026-11-19T12:38:17.000Z",
+   "value": 3718,
+   "change": -0.64,
+   "asOf": "2026-11-19T12:50:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": 0.02,
-   "asOf": "2026-11-19T12:47:47.000Z",
+   "value": 1.1,
+   "change": 0.06,
+   "asOf": "2026-11-19T12:59:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.07,
-   "change": -2.04,
-   "asOf": "2026-11-19T12:38:27.000Z",
+   "value": 90.22,
+   "change": -1.88,
+   "asOf": "2026-11-19T12:50:27.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63877,
-   "change": 1.41,
-   "asOf": "2026-11-19T12:48:25.000Z",
+   "value": 63838,
+   "change": 1.35,
+   "asOf": "2026-11-19T13:00:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استثمارات 200 مليون دولار.. ماذا تعرف عن أول مصنع لتوربينات الرياح في مصر؟",
-     "url": "https://www.elbalad.news/7186748",
+     "title": "مفتي الجمهورية يختتم المنتدى الإفتائي الافتراضي الأول للإفتاء.. ويُعلن 11 توصية لتطوير المؤسسات الإفتائية وتعزيز التعاون الدولي .. صور",
+     "url": "https://www.elbalad.news/7186749",
      "source": "صدى البلد",
-     "time": "2026-11-19T12:47:51.000Z",
-     "seen": "2026-11-19T12:48:22.603Z"
+     "time": "2026-11-19T12:57:08.000Z",
+     "seen": "2026-11-19T12:58:22.544Z"
     },
     {
-     "title": "أحمد راشدي: والدي استشهد في ثورة التحرير الجزائرية.. والكاميرا كانت صلتي بالثورة",
-     "url": "https://www.elbalad.news/7186745",
+     "title": "مستشفى جامعة بورسعيد ينضم لمنظومة التأمين الصحي الشامل.. تفاصيل بروتوكول التعاون",
+     "url": "https://www.elbalad.news/7186752",
      "source": "صدى البلد",
-     "time": "2026-11-19T12:46:09.000Z",
-     "seen": "2026-11-19T12:48:22.603Z"
+     "time": "2026-11-19T12:56:03.000Z",
+     "seen": "2026-11-19T12:58:22.544Z"
     },
     {
-     "title": "خالد الغندور: صرف مستحقات لاعبي الزمالك قبل رحلة الجزائر",
-     "url": "https://www.elbalad.news/7186746",
+     "title": "صُنع في مـصر.. كيف يقلل الإنتاج المحلي للأجهزة المنزلية فاتورة الاستيراد؟",
+     "url": "https://www.elbalad.news/7186753",
      "source": "صدى البلد",
-     "time": "2026-11-19T12:45:25.000Z",
-     "seen": "2026-11-19T12:48:22.603Z"
+     "time": "2026-11-19T12:52:24.000Z",
+     "seen": "2026-11-19T12:58:22.544Z"
     },
     {
      "title": "وزارة العمل تعلن عن فرص عمل برواتب تصل لـ30 ألف جنيه.. تعرف على الشروط",
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "الحكومة الصومالية تعلن طرد السفير الإماراتي، فماذا وراء الخلاف؟",
+     "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T12:57:06.000Z",
+     "seen": "2026-11-19T12:58:22.544Z"
+    },
+    {
      "title": "محكمة العدل الدولية تدين ميانمار بارتكاب إبادة جماعية بحق الروهينغا وتأمرها بدفع تعويضات",
      "url": "https://www.bbc.com/arabic/articles/c67423jk2lj4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -297,14 +304,6 @@
      "impact": "يهم الأفراد والمستوردين الذين يتعاملون بالعملة الأوروبية في البنوك المصرية لمتابعة تغيرات سعر الصرف."
     },
     {
-     "title": "\"أنثروبيك\" تجمع 81 مليار دولار في طرح قياسي لأسهمها بالبورصة",
-     "url": "https://www.bbc.com/arabic/articles/c3pw4d87grlzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T11:19:32.000Z",
-     "seen": "2026-11-19T11:18:22.280Z",
-     "impact": "يعكس الطرح القياسي حجم تدفق رؤوس الأموال العالمية نحو تقنيات الذكاء الاصطناعي مما يسترعي اهتمام المستثمرين."
-    },
-    {
      "title": "مصر وليبيا توقعان اتفاقيات لتعزيز التعاون في المجالات الاقتصادية والتنموية",
      "url": "https://alborsaanews.com/2026/11/19/2007686",
      "source": "البورصة",
@@ -355,6 +354,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "خريطة أديان جديدة تتشكل.. الإسلام في طريقه ليصبح الديانة الأكثر انتشاراً في العالم",
+     "url": "https://www.dw.com/ar/خريطة-أديان-جديدة-تتشكل-الإسلام-في-طريقه-ليصبح-الديانة-الأكثر-انتشاراً-في-العالم/a-79990496?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-19T12:50:00.000Z",
+     "seen": "2026-11-19T12:58:22.544Z"
+    },
+    {
      "title": "إنفانتينو وديالو وتاشيما يقدمون رسميا طلبات ترشحهم لانتخابات رئاسة الفيفا",
      "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261119-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D8%AF%D9%8A%D8%A7%D9%84%D9%88-%D8%AA%D8%A7%D8%B4%D9%8A%D9%85%D8%A7-%D9%8A%D8%AA%D8%B1%D8%B4%D8%AD%D9%88%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%85%D8%A7%D8%B1%D8%B3-2027",
      "source": "فرانس 24",
@@ -398,6 +404,14 @@
      "seen": "2026-11-19T11:48:22.930Z"
     },
     {
+     "title": "\"أنثروبيك\" تجمع 81 مليار دولار في طرح قياسي لأسهمها بالبورصة",
+     "url": "https://www.bbc.com/arabic/articles/c3pw4d87grlzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T11:19:32.000Z",
+     "seen": "2026-11-19T11:18:22.280Z",
+     "impact": "يعكس الطرح القياسي حجم تدفق رؤوس الأموال العالمية نحو تقنيات الذكاء الاصطناعي مما يسترعي اهتمام المستثمرين."
+    },
+    {
      "title": "خارج \"الخط الأصفر\".. إسرائيل تنهي عملية برية وسط غزة",
      "url": "https://www.skynewsarabia.com/middle-east/1905812-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%86%D9%87%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -438,20 +452,6 @@
      "source": "BBC",
      "time": "2026-11-19T09:52:35.000Z",
      "seen": "2026-11-19T11:08:22.904Z"
-    },
-    {
-     "title": "كتائب حزب الله تقر بتدخل قاآني في أزمة جرف الصخر",
-     "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxObmNjVDBLSVU5YnFJNGlRREVaeTM2Q2pOSG9XWGtkQUU1TFNVeGk2dTZsczQyaTRaR0d5bWJobG55dXNNWDJaU0RvOWtrV3Q5UHpfV1ZGckJzV0wxM1hLUjZGM1hSbzZKcXotZnI5RExZNkVpaUE4Wk5YWjFzWEllS3BUb0ltaEc3SWhpNm9iS2g1LW5DOERuRFdIdUdlQ1IyTWpGVFJXekwzNkloZFZCRFlrWlRWYktNVFFLRWJVbndzU2VVSUxQV1BjMVFDQ2x3RjdKTjlLcHNJWEJXTVVLUDBDekFtTXhSQlAzZ3VSUzFrZXRya09BOTRjZ0RjOWtoa0piLXpFYk9SMGlqRDVGVmozMWdvbEZZSDZHY3lOa3BnZFBXYXJNUENMZVQ4VVZ3UHZIZ214Z0FiOHJVRG5VLU1GYjF1WWhfbDVSTkc2aVYwWjBqZkVMUjNkeWo3WEp5UWY1cUhMRFFNRHJTZmRZT0o5bFpQWUp0RUZMcVZFaGduTXk2ZDNyWUI5MmFFNDdkQVNzdjBqNmpEd0Q1QnlPXzg2TjBzRkR3QkRpdNIBsgNBVV95cUxPZTBjbTNjcExsUlYyQTJ3NkluMWJYRVJpWHlMdVVGTllzbmVyemcwaVl3SlQ2Q3V2ekY2NWdoOXllY0pIOGZSTVZZM2hoeE1RM0tLcTl4NEtzM21UQ0M1cHl3d2R5Wm9qS2ZUMm5BTzMxLTZXTXp1a1ZxeUxiakNfalZlaklwMnhiQ0djM29ndi11UlNkdGVRbzJrVWZFcnhfZ2VNcWNXV205dUpyMVZfcXNSVUxBUUp6bml3Vjg4OXpjazVtZ194cVlyVUd0LTVYcGpMa051NGJQbVE5cTNCem8yWldYSjNON1ZBTmhWSE9YcTN2eGl3d0RIX2FTUVhWUDYwM2s1eUsxdTh4NU4yYWFsTmxmbU40SURuVlJGdEx4OTJvVEhYRjRTVXZjd1ZQOF9mZkdOZ1FBNVVaeGFHMUxDeHZTY25hc28yd1pZTjdVdGZiY0pvUTMtUTBNbDdMdlVFQ0QtT0RyaW42Z3JVcXo4cS1YY3VLcnZkazFIbDNYenE3SnMxNTliMmFEMFp0eEhycm9mbk5pR2VFeW9raGg3cWhjVkE2bFBRN1lOR2tEQQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T09:36:00.000Z",
-     "seen": "2026-11-19T11:58:22.362Z"
-    },
-    {
-     "title": "مباشر.. مباراة السعودية ضد أوروغواي في كأس العالم تحت 17 سنة",
-     "url": "https://www.aljazeera.net/sport/liveblog/2026/11/19/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b6%d8%af-%d8%a3%d9%88%d8%b1%d9%88%d8%ba%d9%88%d8%a7%d9%8a-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-19T09:34:42.000Z",
-     "seen": "2026-11-19T12:48:22.603Z"
     }
    ]
   },
