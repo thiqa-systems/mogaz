@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:06:49.871Z",
+ "updated": "2026-11-19T05:16:49.667Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T05:06:49.871Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T05:16:49.667Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5626,
-   "change": -3.6,
-   "asOf": "2026-11-19T04:58:44.000Z",
+   "value": 5641,
+   "change": -0.19,
+   "asOf": "2026-11-19T05:07:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6423,
-   "change": -3.6,
-   "asOf": "2026-11-19T04:58:44.000Z",
+   "value": 6440,
+   "change": -0.19,
+   "asOf": "2026-11-19T05:07:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3724,
-   "change": -3.62,
-   "asOf": "2026-11-19T04:58:44.000Z",
+   "value": 3734,
+   "change": -0.21,
+   "asOf": "2026-11-19T05:07:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0967,
    "change": -0.24,
-   "asOf": "2026-11-19T05:08:47.000Z",
+   "asOf": "2026-11-19T05:17:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.32,
-   "change": -4.1,
-   "asOf": "2026-11-19T04:57:24.000Z",
+   "value": 89.38,
+   "change": -2.79,
+   "asOf": "2026-11-19T05:05:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63491,
-   "change": -2.16,
-   "asOf": "2026-11-19T05:08:46.000Z",
+   "value": 63359,
+   "change": -2.36,
+   "asOf": "2026-11-19T05:17:03.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -244,6 +244,21 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار مقابل الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك.. استقرار العملة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQTJJWElEYklnaHhRWmF3LTZjZUVIZTBCVDJUdS0yV1htdm9GOHEzSGxhLTlQaWhncHFwTS1SOTV2VUhn?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-19T05:11:16.000Z",
+     "seen": "2026-11-18T23:15:20.239Z",
+     "impact": "تساعد المستثمرين والأفراد على التخطيط المالي وتحديد تكاليف الواردات بناءً على استقرار الدولار."
+    },
+    {
+     "title": "التحالف بقيادة السعودية يتحدث عن أضرار \"مادية\" بعد هجوم صاروخي لـ\"أنصار الله\" اليمنية على الرياض",
+     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T05:06:40.000Z",
+     "seen": "2026-11-18T19:44:52.573Z"
+    },
+    {
      "title": "سعر الدولار اليوم الخميس 19-11-2026 في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yNER1Qi1uR1BrYnctYzloM0FqZmRMSGtTUkg0VkR2OVhNVzliOHVwOXc4WFdsLWJreUR0SWR3ZHNYNFpiYS1j?oc=5",
      "source": "صدى البلد",
@@ -263,14 +278,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T04:02:53.000Z",
      "seen": "2026-11-19T04:36:49.869Z"
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك.. استقرار العملة الأمريكية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQTJJWElEYklnaHhRWmF3LTZjZUVIZTBCVDJUdS0yV1htdm9GOHEzSGxhLTlQaWhncHFwTS1SOTV2VUhn?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-19T03:41:16.000Z",
-     "seen": "2026-11-18T23:15:20.239Z",
-     "impact": "تساعد المستثمرين والأفراد على التخطيط المالي وتحديد تكاليف الواردات بناءً على استقرار الدولار."
     },
     {
      "title": "انهيار الذهب: هل يمهد السقوط الدراماتيكي لانطلاقة جديدة نحو 6,000 دولار؟",
@@ -323,13 +330,6 @@
      "seen": "2026-11-18T22:55:20.109Z"
     },
     {
-     "title": "الديمقراطيون يرشحون حكيم جيفريز رسمياً لرئاسة مجلس النواب الأمريكي",
-     "url": "https://www.bbc.com/arabic/articles/c52e8gvv7we8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T22:33:12.000Z",
-     "seen": "2026-11-18T22:35:20.154Z"
-    },
-    {
      "title": "«سياك» تستهدف 20 مليار جنيه عقود مقاولات العام المقبل",
      "url": "https://alborsaanews.com/2026/11/19/2007468",
      "source": "البورصة",
@@ -355,6 +355,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T04:55:31.000Z",
      "seen": "2026-11-19T05:06:49.871Z"
+    },
+    {
+     "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
+     "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQZ2Rxay0wM29YcGxaMEh3NjdYQnNMRXY1bUxfUUdvS2FoWk1vbElPSUhRNklxZEpJZWdOemREMmZ3dTVncEg3X2ZfbE5aRklnR042TlhpOURLWENjWFRMNXR6alpvTGxaVWFMNTFoaHN3bXJKc1hTenlzTDdadjJSSjRRY245WkhVeUJwQXJYYkFKMFZmS0dZQlpNUGFsVHE4djdrbm5tUWdmT2I0SzNMZFFKeE9hV184cjc0NEFmbWNmMmZzVFVxNG1Od1ZMOF92cE1Bc1dYcGItcHlZVnVtY2lqUHJONUZvLU5wbDJ2dmdobmdBMDd6UDRVRGFNa1pTTElEWGJqRDI5bVpzdEg3ZWxuOTNtbzF6V2NqSDhWRW1sTFVEZjRDb0RtUUZZd21hNTdyNzk2R3ZhQ3F2RU1mZWZBM1QtTWR1TFk2VUd3TEw5THRsQlV4Z0FlVW5TNGNPM1BCU2NBTlhkcU5WMmt5eFBFeXR6Q2J1NVVfMF81ZlRKSmlGbGdwM0xoOW5FMDdEa0FfMjVRb24xaGhUcndLY2kzNDBMOEo1RXlhWVNES1hqRjlKMXNtZXpGMWdwZmRMcEVjUmdMalV4dHU5Mm9OQUZnNV9vNVZ4bDZYZWNIYnFJcGl0aXNpY0dhaDZiQWNtUXhUTEFfVVRjVjA0eng4MktCdTllWjRLRjVSRVcyUlRuMFZuYWhEWVNKMzdVMmRLQml0cHVsTFN1T2JRaERtOHE0RU1vZlZBNTJBLWdwWlg3SW9yNkhpUjZVSzBHY3pZQ3VqeDJGTWM0TTkzaktZQ3h6dFhRWVZnN2h5S3dkVlZQV09Hbmw0N1B5Vkp2bm1kWkh4N04tbzgyRzFCUEE?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-19T04:52:30.000Z",
+     "seen": "2026-11-18T19:24:52.350Z"
     },
     {
      "title": "اجتماع في برلين لحلفاء أوكرانيا وسط ترقب لنتائج قمة ترامب وبوتين وشي في الصين",
@@ -439,13 +446,6 @@
      "source": "الجزيرة",
      "time": "2026-11-19T01:01:43.000Z",
      "seen": "2026-11-19T04:26:49.495Z"
-    },
-    {
-     "title": "دراسة: المسلمون سيتجاوزون المسيحيين عدداً على مستوى العالم بحلول عام 2035",
-     "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPWE1ScHFOOVNjc0dkM2J5ZW5xc050Mmp5aGFMeThrVjZaS2xvRVVtV2J3SUZfbmhUUDJudlBoNk9fd2txMDU3SDV2ajdxNTBRMzBubE4ySmJQNVV4a3poZVZLZWVBN3I2TlhWbUllcUFvdTdjOXFRcXNGbTAxeDhQY042WW1zakYtWGpwNHZobk9fZmpmVWtXOFZ6V1U1a2hEdV9vS0Vublh5NWI3UHZkanFtR1cxVzNJMEtYd2hfaEpqTVBIaUdmeHZvMVpWZm1uNVJBcmhTa3lTRGkyQi1vSDliQUNVUVRZdFVta29KRlhhSlgxTjQ5VU1PWjFWcUVSZUVVeGQ2Z05zT3AzUHZaTF9aRnpubTJxT2M0c0x3ZE9pUkZSWXBkTzFFZmdNczdxRHBWY3JyUmZfZHkyVUM4OElra1JDc1dqSFJxMW5QWXdjYzVtSl9YcnJtVFkwT3p2RFhET2VZTnhoaVV2NUhhblUxX25La0RnT2xFUTJJbU0yYnQwRDY3SDI0eURydm9yekpCakpob3VTdmtEdXY1UVhUYWlaVmduZVExT2J2WGVnamtETzljcWdpbTY1NXJ4TWI0emhHTmpLYzZWQmJHM1pQa1JrT1ZwRU1wT2c2QUpPVkU3d0hzaGdjUF9lTzNVUVlfSUo2OG8tZmF1XzltTEY1bW9nUFQtT0ZrbXMxb1BCNmlCQXJuMmstb0ZWTVVDdkRnS0MyWnlIVlV0UW8tVVdBQdIBuARBVV95cUxNSlA3UmNqYXZWTFZLUFA0S2VQMUQ3TlFpbnZqVGxJVFVWUE94cFE1SFpsclFOQkxSTVhnYWNvbzljTVZsNXpjZWljc3Y1V1dTYnhOaXNESkc4ZG9sQTY1eEhhS0tVZDVYRW9mY2FvQm1Ia0xfY2RiWDQ4ZC1faGxZdGlIR0d5c0VjZlV3b2xDZ0FWaE5LRWhLZkhWY0wwQzdoMEs0Wk9sbmY4dVNET3VHRnhnaGU1Ujh5bVlZUXBfZHVWVXdHN1pGU05iWWVCN1U1WXhzLVVERVBJZXlPNS1yc3RvZkdsRmV2b045YUl1cDl1NWZySFg3SVJ4WVQzS3hydXJIV0t0VEZsaU1RYmwyRVpiamI4MkNEZkc5YmkzTHAwcnhHQVpjLTB1M2F0U0lDWkdjb2E0MVU4V0lxZ2tRZEk4aWhTMzhkYmJqaHU5dXpsWVU0WWNXdlRUQzdGQjlqMzQtWnFsNTM1T0dremtsMWFsVHpWR190UjJoV1VtVFI0SVdVQ0pBRS1HVUZEYTVYMlVnQzJnU3N0TVVqMFQzTXAxMFNNdTFiMlNyU0EtZ2R2cFFMSmdxX1pMOXlkZ1JvVzZPbUFtR0hZNHlWak1lbnRPNnVZbmtuVnhHRXN2cklmVnVCaDlHYXpuUktlcUZwRXRuVDNMRzhZanNtUzRNUGVZWWZuUkRFUjVGVFNFNnBtUHBkeXhrdmdTZDhsZzB4NDJiRm1UWmhReE11ckoxWUpOakM1bHpE?oc=5",
-     "source": "العربية",
-     "time": "2026-11-18T23:23:00.000Z",
-     "seen": "2026-11-19T01:55:19.415Z"
     }
    ]
   },
@@ -453,6 +453,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "الديمقراطيون يرشحون حكيم جيفريز رسمياً لرئاسة مجلس النواب الأمريكي",
+     "url": "https://www.bbc.com/arabic/articles/c52e8gvv7we8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T22:33:12.000Z",
+     "seen": "2026-11-18T22:35:20.154Z"
+    },
     {
      "title": "«الناس ماسكة في بعض».. شعبة المحمول تطالب بتدخل عاجل لإنهاء أزمة الهواتف الموقوفة",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzNlQ3dzBvbGhtUnJmV0xLYXRWYTNmd3RCLUxUb1g4THpSNGVoMDlIZnljRjN1TU5VVllqSWUzcE9FblI2MWw4OUxjdmpzcXhOejExOUNMVmU5bXIwZGRF?oc=5",
@@ -513,20 +520,6 @@
      "impact": "يؤثر على قطاع السياحة والسفر والمواطنين في مصر من حيث طريقة التعامل مع منصات الحجز الإلكتروني."
     },
     {
-     "title": "حركة \"أنصار الله\" تتبنى استهداف الرياض بعد إعلان التحالف اعتراض صاروخ ومسيّرة",
-     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T19:34:21.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
-     "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
-     "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQZ2Rxay0wM29YcGxaMEh3NjdYQnNMRXY1bUxfUUdvS2FoWk1vbElPSUhRNklxZEpJZWdOemREMmZ3dTVncEg3X2ZfbE5aRklnR042TlhpOURLWENjWFRMNXR6alpvTGxaVWFMNTFoaHN3bXJKc1hTenlzTDdadjJSSjRRY245WkhVeUJwQXJYYkFKMFZmS0dZQlpNUGFsVHE4djdrbm5tUWdmT2I0SzNMZFFKeE9hV184cjc0NEFmbWNmMmZzVFVxNG1Od1ZMOF92cE1Bc1dYcGItcHlZVnVtY2lqUHJONUZvLU5wbDJ2dmdobmdBMDd6UDRVRGFNa1pTTElEWGJqRDI5bVpzdEg3ZWxuOTNtbzF6V2NqSDhWRW1sTFVEZjRDb0RtUUZZd21hNTdyNzk2R3ZhQ3F2RU1mZWZBM1QtTWR1TFk2VUd3TEw5THRsQlV4Z0FlVW5TNGNPM1BCU2NBTlhkcU5WMmt5eFBFeXR6Q2J1NVVfMF81ZlRKSmlGbGdwM0xoOW5FMDdEa0FfMjVRb24xaGhUcndLY2kzNDBMOEo1RXlhWVNES1hqRjlKMXNtZXpGMWdwZmRMcEVjUmdMalV4dHU5Mm9OQUZnNV9vNVZ4bDZYZWNIYnFJcGl0aXNpY0dhaDZiQWNtUXhUTEFfVVRjVjA0eng4MktCdTllWjRLRjVSRVcyUlRuMFZuYWhEWVNKMzdVMmRLQml0cHVsTFN1T2JRaERtOHE0RU1vZlZBNTJBLWdwWlg3SW9yNkhpUjZVSzBHY3pZQ3VqeDJGTWM0TTkzaktZQ3h6dFhRWVZnN2h5S3dkVlZQV09Hbmw0N1B5Vkp2bm1kWkh4N04tbzgyRzFCUEE?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-18T19:31:54.000Z",
-     "seen": "2026-11-18T19:24:52.350Z"
-    },
-    {
      "title": "حريق في مقر وكالة الاستخبارات المركزية الأميركية بولاية فرجينيا",
      "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOd0h4ZHE4RWVHTzdQSXJ3T1pBT3VmamZUYkxQT0JEVHNHVVV0MUx1bW5TSlFQWDVZTlYwTFJDbFBJRTJ4MkhOMjZQV0JXTU5UTmY2RVZxeklDQUJwVlpFRGxLQVhoNURwNXk3ek9UR0JSNmJidmhKQXkzc182S0Y1OFg3TkxRSTdMcl9QTk5YTzNRVTNvRE9iQjlwTFl2NDNKeVlQc29PdzZRQ3lHRXdOTk5xUnJ4VlBsQmxORVhfaFVQN1ZyaTBuOGZvaGUyeTU0WEhya21pbExNTDZKWS1jWXhSSW9CSnpqdEw3UTRFQ1dKZldJWnBQOWpMemdIazN4VklteGN3S1BtdkstWHRCUWEwMHZESWVBcG5tUzNiWEV0RWx4UXFwRlg3S1d0dDVGSVJTVFQyempsSk1Wa3ZQSUU2aFpxU1hMSnM0WWJ3SkZGZnFTbEllWWk4dzEzZnJOSS0xTFJZdnd2UUpORWRFUnctTDRBclozWlhoQnhXRlVoTjlJeEppWXVuTlE0YVRlSk42c2h4U0VWcHhlTEY2ajJhRVhUekx6N2JEMWFieklYLXI0MndiYU1VVkljUnFqM2c1MkdFVUxtMmRQRVlmQVZ5SDdvT2dfd1MyWWNvRVlwR2ZxTW1jMkMwMXNkZjgwdWszcTl1LWV4MVBrOUJfODU3bDdKVmQwQjQwR2Y4RVpRVWxITG9GejBSU0VBWk54YzlMMDVzY0hydU1uU0ZiWUhhaFZrNmF6YkJteVBNVHNZUVBhaGRPbEJBaDMyS0VPZk5qUmpfMkY5N0xnQmR1UkZpMEtydDQ4Tl9UMk5DQkhIckk4OGszNC1LSHYwUnVybm9wNGhVTFowWFdpRGFQb3dkbnJMOV85MUpJMmhMVlFYUGtmSWhydlJOSlozNzRIeVNKdVNybHk4Z0U?oc=5",
      "source": "الشرق الأوسط",
@@ -554,6 +547,13 @@
      "time": "2026-11-18T16:38:24.000Z",
      "seen": "2026-11-18T10:43:20.154Z",
      "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
+    },
+    {
+     "title": "مزايا أمنية وصحية جديدة في تحديث One UI 9.5 لسلسلة Galaxy S26",
+     "url": "https://www.tech-wd.com/wd/2026/11/18/%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%88%d8%b5%d8%ad%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%84%d8%b3%d9%84/",
+     "source": "عالم التقنية",
+     "time": "2026-11-18T16:08:40.000Z",
+     "seen": "2026-11-19T05:16:49.667Z"
     }
    ]
   }
