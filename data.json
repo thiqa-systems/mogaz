@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:49:49.791Z",
+ "updated": "2026-11-19T19:50:06.327Z",
  "minute": [
   "شهدت التطورات الاقتصادية تحركات جديدة في سعر صرف الدولار بالبنوك وتراجع حركة ناقلات الغاز المسال عبر مضيق هرمز.",
   "على الصعيد السياسي والدولي، بحث الرئيس السيسي التعاون وتوقيع اتفاقات مع الدبيبة، وصدر إعلان سلام في قمة جمعت ترامب وبوتين وشي.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T19:49:49.791Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-19T19:50:06.327Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5560,
-   "change": -1.62,
-   "asOf": "2026-11-19T19:39:49.000Z",
+   "value": 5564,
+   "change": -1.56,
+   "asOf": "2026-11-19T19:40:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6348,
-   "change": -1.62,
-   "asOf": "2026-11-19T19:39:49.000Z",
+   "value": 6352,
+   "change": -1.56,
+   "asOf": "2026-11-19T19:40:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3676,
-   "change": -1.76,
-   "asOf": "2026-11-19T19:39:49.000Z",
+   "value": 3678,
+   "change": -1.71,
+   "asOf": "2026-11-19T19:40:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0977,
-   "change": -0.14,
-   "asOf": "2026-11-19T19:49:47.000Z",
+   "value": 1.0973,
+   "change": -0.18,
+   "asOf": "2026-11-19T19:50:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -75,25 +75,25 @@
    "unit": "$/برميل",
    "value": 89.61,
    "change": -2.54,
-   "asOf": "2026-11-19T19:39:30.000Z",
+   "asOf": "2026-11-19T19:40:57.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7214,
-   "change": -1.5,
-   "asOf": "2026-11-19T19:49:51.000Z",
+   "value": 7207,
+   "change": -1.6,
+   "asOf": "2026-11-19T19:51:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62481,
-   "change": -0.8,
-   "asOf": "2026-11-19T19:49:46.000Z",
+   "value": 62420,
+   "change": -0.9,
+   "asOf": "2026-11-19T19:51:03.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -147,6 +147,13 @@
      "seen": "2026-11-19T19:49:49.791Z"
     },
     {
+     "title": "شيخ الأزهر: الخط العربي جزء أصيل من الهوية الإسلامية.. ومعهد جديد لرعاية المبدعين",
+     "url": "https://www.youm7.com/story/2026/11/19/شيخ-الأزهر-الخط-العربي-جزء-أصيل-من-الهوية-الإسلامية-ومعهد/7625346",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T19:49:00.000Z",
+     "seen": "2026-11-19T19:50:06.327Z"
+    },
+    {
      "title": "محافظ القاهرة وسفير أيرلندا يحتفلان بمرور 100 عام على نوبل جورج برنارد شو",
      "url": "https://www.elbalad.news/7187258",
      "source": "صدى البلد",
@@ -175,13 +182,6 @@
      "seen": "2026-11-19T19:49:49.791Z"
     },
     {
-     "title": "إجراء أمنى استثنائى على متن طائرة ترامب عقب مغادرته الصين.. اعرف القصة",
-     "url": "https://www.youm7.com/story/2026/11/19/إجراء-أمنى-استثنائى-على-متن-طائرة-ترامب-عقب-مغادرته-الصين/7625255",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T19:25:00.000Z",
-     "seen": "2026-11-19T19:29:50.328Z"
-    },
-    {
      "title": "مصر تفاوض ألمانيا على شريحة جديدة من برنامج مبادلة الديون",
      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNa25meVJDcl9idVZYcmtPSXhNc0VSQjNSRzJZb1E4ajRjUXVQaUUyZ3k5YThRNVV3WkhVZklzOHRRd0FLWXltU0N0cDUwSjdPZmFQVTdycTliZWhRbExYVWtyVVBmNW5QQ0Rsc2pFTmhrdFRzXy1IOFR1eUVLWTdMRFh1eGVmZTgyZUNsUzUyNlVlbU5hd1ZvOWlzOXpGSVUtTDFIcUNPdVdFOWxDNHNDU2U2ZUVJT3hHcXFyQU9paGlaOXk5YnBjRUVGbk1Lb1RyRENpR1JpMTdMeFE0ODdUcGhGX3I4ZXlGLUVDcmNhYks5UjNzckJNMlZoQWNxbGQxdmJCbnBQY2JDOEI2SnNsSVRVcjZMWmdHLTdQcThRZ2RZVy1HZEF2WU5sTWgtb3BhZm5QQjFCanBGV0p2ZGNrR3p3enNsdkJYa3hNU0M4UnNuVk5JNldTQ0V3cGJWdF96MC1vaWc3YlZyMXk1eEwwYThFdzF3UkVSbm5Kb09ic29xcXhOeUthNWhOSV9qaDEwWEptdW9VUFdpLS00RzZJVkU1UUNhSllETlNaNnR3NFpHSDhxSHpaNktublMxejNfZ29xc3haYTdqOTBUbVhDNjZFQmpaR1hQNVBZX2tqRkVNSGktb1ctQTAzOWJKbnpV0gH2A0FVX3lxTE5zMWVoTXdNTnkwcFY0dlFHVVVMZlBjYkk1R1QzM015cVBZRWF3dUd2UndCMWYxLURmbmdYek1DcVdCeFRWSm1VdGM1c0JhbTVuNFpSOThneWkxaUdLN1lTYVZGa1JXYldQTUpOV0Q1Q0pQX0hEOHhFcnhsZTRDX0QzYVJrSU9kYkRPOVh5U1pYMTM5SXZ4U2d5Nk9RMGNYZWVhSlF4T25zZTNRM0hCWl9xZTZjWndxNVBiamxoN05MOThFa21OX2RkWTlGanVCaXd6Ump2cmVMbmZNLVRaLW1STUFaS1lOanpmeGhwRG8wVHAtRHNCQkdXM1Y3Q05uWm5XN21qNFMyVENxWVJPMklaTVFuSTR3Yk1fTjdFenRVajQwX3pwTDBqMWExcnpmYUZhcFFqNTNmdzQyY1Nxc2Njbm80TGZtUE1GU3IwMDYxbWlxWE81VHY5Z2IyV3B2MnJCV0tPem5hRVFoaTI3aFZ3cHBmajc5THVWdmRGcy1ndHJKUWRuRDlYM2lVTjQtcjkyZ3FFWFhweEh3a1pUOFR4cWFqdHQxRkNzQ202d1VzRWc2YnZtVkZLWjUyRnJmT21GV2RMUVFyT1NkZ1V0QVV0YXlUbGFjbFNidjcwZ2xselJhNnF6bmtmc1E1TWc0R3IzWFhlVlE?oc=5",
      "source": "العربية",
@@ -189,18 +189,18 @@
      "seen": "2026-11-19T17:49:49.529Z"
     },
     {
-     "title": "مدبولي يتابع خطط زيادة إنتاج البترول والغاز.. ومفاجأة بشأن إنتاج حقل غرب مينا",
-     "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxNRXFyaWhrMHBCSVluX0tOdjVPQklpVW5QTVk0MmxFY3JaTzE5elB5M0RGOF9XaUVNUU5aM09jV280OVo5T2RTMGlzLW5jZW9jSW1vaXpRbGI4YmNSWkRPZFFUNnhVQzRvemhyTzk2Wld3ZkxZbURRUTZBRVljenZ4SDZweUdiaEtMd1BIVjV6LTFtbkpnTS0xZ0RWcGdaSHdpZ1otV1hoQWdIQ1ZveDNEX0VBWkdycXVnX3g0a1pNV1VGVk5XbTZ4LW8zV1doYVNxZVM5MlNzV09YZEF0S1FiNzlnVmdQVThtRE8tNndSQkN4dGVyR0pBYW1ZellScHFYM2QzMmN5RjdIb2lOdzN5LWNFZFNzRVJtU0VNWXRlaFFKOWRzczBVbS01c0FpWkJkRDJJQ3djUXB6X0ZnRGdIWTRCbU82MzRyenRhWlp4WmRoV3piUXlEMEVmSTFZb29RNndIWFY2NVlxazhQNzlkYmo1ZkUyTVdQQjJ4NHp2RU5SVXEwTEdjWi03b0pyNk1haGJsUVVYc1hjTFFXOEdqOWg3ZlVmVmtEZzRsaEd2eG9WamZXaHhuWVU1TFlMdDEwZHptNDJLemVZUWxfZjh5QldfSHNsYzEwdlBuVEZxUTJZSUdVaHNvbFpvTEVISnk1dlRlNUlHemp5WXZZWmdLWUQyX2JBRmtVTzlldnZKVlJrRUpoakJwaE0ybVJXR0dhZUVVQkRna09BbzN2WjM1eXFRYTZNWUltdC1NcWxNdnpYWE5Sa0luZjNKUFJNby1NWk95eThRMnlrTXphZnBLbVEtUWZZZ1VLdF9DejJCbFdHT2NVN2xCaVdwOHhDZ9IBgwVBVV95cUxOTWdTeHdFaUNpZW9LR2xIV3ZNT1pjbUZqVFgtSkVVUHlkVUs5b2xpNkZ4OG9oU0RVdGRHaEY4VjJya2lEZFF5TURiT05MN3pQNFd1S3lPVlBsV2pkN1lyRVBVSGJsOEs1UktZR3JvTFlFN3Rwd2ZDQThET2hVTTNKai13NmthWHhvVkxFRzRLM2IyZS1iVEdGYXQ2MEt0MWhibXd6QkMyQlJudXoxSE05UjJLVFdFbEU5cDloMUVrMmJWdWJqWlQ4UktuWVNQVDJvTm9HQ2NBNDVBZDF0MWxhS2trVWRLYVdYaG1ReWExbnJKamw4a0toa1JvQ3VRX2NXemc4TEpJby1tSTNhUndJdjl1R2tYVGN5a1F1ZDYtSU1qQ1h6TDhVXzZhbklTWXZ0WkVqSFpDRWhJQmhCeGJQSEFTTGU3N0xkSVhaeFJGbl9UcDZtU1JJc3lZd2lJVkJxTmN0MWpzOEJ6WURFVEdOLVNqNmFLd3pSVzNxeVZBM05BRDVFV2tMR0ltX1czWEJ2MlMwWWlfYmtWeHVSaHQ1R1EtNGhwYV94Y19ocUtEeDdhc1poTlJxbVFURWNkdW1kdDRzbDE3cjB4SzJJXzRhUnd1NGdBTmlORFRXUVh1Mnh4M09xYmJLTVk0d1lzNmRORGV4MlAwTzFjbkF1cWhFdmMtU3MtY252SWtGdGZGR3JBY2w3TEVDa3ZXX0hHdEtZcTFSelJuSlJxaEFPampQbUF0ZkhScTJlLTVuUEJZODE5TkoxcDh5MkNEenRoWjBBdG9LWGVjZkVHeV9YSmNKSnJWcjFIMFVxNC1raTJVM3E4SE5OVThsSnlkOWlkVW83WDdB?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-19T15:52:25.000Z",
-     "seen": "2026-11-19T16:09:49.591Z"
-    },
-    {
      "title": "مدبولي يوجه بتكثيف البحث لزيادة إنتاج البترول والغاز | مصراوي",
      "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxPTzZLcFNzWGpmQlFSS1M0YWFBd1lBZ21yQzY3V2ozSjRwVHZnd3dMTWdYNmtVdnQxejY5YVVqSEUtLWVLd3NVTEpxaW0xVEFJaC1UVEEtNFJQWU5aYkEyRmQ1dkhqRWFQYzdkeENQT1gyTi1HaUVWS1Y0aUhFX0g2MUtiSmw1MWtzOTJ0UnBSa3NPYWYxa1E5eEJhWGZ0Y3JhNVNCQnRvTmNXX1JTelFxSjJKbUwzUGdyM1RqVUhtMHBzVllHZGN5Y011OXp6SXdTS09mM2s2cGVlTTl4bExVUGl1NU9NS3lmNjhnNjlJR3VTcjNzaUxwOVAzVzJUX3dNb01KN0Q0XzhvdkNUOFpCcjRtd0tjRWI4NEtBMngyZE1pYnloN25kYXliLTZDYUtheFg3eVlYSVpNM3NvdTQ3QWVLZ3NLcUlIeUM4NlA2b2FRMFUwT3hKT1ZlenVMUVFjZDVRM1hESFVab3AwMld0WG9JUFZ3SEFQX2gybXdtRVJZVVBHYkR0RUNyU21TQmxlVXhkRFVzYVVEZlVkX1hzUzQ5OUtaQS01QTRCeDNWckN6cjI3WXdOck9OdXA3TzItcE1BMUdic1NGdDhfcjB4bnFnYmM1akd3QndwaDNVcVdYMzc5eHhscFY4Mm5qMlhwZHJJRDlFbzRIdVg3VHpRajNnaFprU2x2QW5pU3pRYjNEYUxJaTFybzZlNlBrMUVSZklVcDBJVndmWlRuOXFMYXpucXUwUWxJRE9vWE9zRm9rM28xUGdycy14VnN0bEZyaWNJYWtoWndNOHQ4?oc=5",
      "source": "Masrawy",
      "time": "2026-11-19T15:52:25.000Z",
      "seen": "2026-11-19T17:59:49.634Z"
+    },
+    {
+     "title": "مدبولي يتابع خطط زيادة إنتاج البترول والغاز.. ومفاجأة بشأن إنتاج حقل غرب مينا",
+     "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxNRXFyaWhrMHBCSVluX0tOdjVPQklpVW5QTVk0MmxFY3JaTzE5elB5M0RGOF9XaUVNUU5aM09jV280OVo5T2RTMGlzLW5jZW9jSW1vaXpRbGI4YmNSWkRPZFFUNnhVQzRvemhyTzk2Wld3ZkxZbURRUTZBRVljenZ4SDZweUdiaEtMd1BIVjV6LTFtbkpnTS0xZ0RWcGdaSHdpZ1otV1hoQWdIQ1ZveDNEX0VBWkdycXVnX3g0a1pNV1VGVk5XbTZ4LW8zV1doYVNxZVM5MlNzV09YZEF0S1FiNzlnVmdQVThtRE8tNndSQkN4dGVyR0pBYW1ZellScHFYM2QzMmN5RjdIb2lOdzN5LWNFZFNzRVJtU0VNWXRlaFFKOWRzczBVbS01c0FpWkJkRDJJQ3djUXB6X0ZnRGdIWTRCbU82MzRyenRhWlp4WmRoV3piUXlEMEVmSTFZb29RNndIWFY2NVlxazhQNzlkYmo1ZkUyTVdQQjJ4NHp2RU5SVXEwTEdjWi03b0pyNk1haGJsUVVYc1hjTFFXOEdqOWg3ZlVmVmtEZzRsaEd2eG9WamZXaHhuWVU1TFlMdDEwZHptNDJLemVZUWxfZjh5QldfSHNsYzEwdlBuVEZxUTJZSUdVaHNvbFpvTEVISnk1dlRlNUlHemp5WXZZWmdLWUQyX2JBRmtVTzlldnZKVlJrRUpoakJwaE0ybVJXR0dhZUVVQkRna09BbzN2WjM1eXFRYTZNWUltdC1NcWxNdnpYWE5Sa0luZjNKUFJNby1NWk95eThRMnlrTXphZnBLbVEtUWZZZ1VLdF9DejJCbFdHT2NVN2xCaVdwOHhDZ9IBgwVBVV95cUxOTWdTeHdFaUNpZW9LR2xIV3ZNT1pjbUZqVFgtSkVVUHlkVUs5b2xpNkZ4OG9oU0RVdGRHaEY4VjJya2lEZFF5TURiT05MN3pQNFd1S3lPVlBsV2pkN1lyRVBVSGJsOEs1UktZR3JvTFlFN3Rwd2ZDQThET2hVTTNKai13NmthWHhvVkxFRzRLM2IyZS1iVEdGYXQ2MEt0MWhibXd6QkMyQlJudXoxSE05UjJLVFdFbEU5cDloMUVrMmJWdWJqWlQ4UktuWVNQVDJvTm9HQ2NBNDVBZDF0MWxhS2trVWRLYVdYaG1ReWExbnJKamw4a0toa1JvQ3VRX2NXemc4TEpJby1tSTNhUndJdjl1R2tYVGN5a1F1ZDYtSU1qQ1h6TDhVXzZhbklTWXZ0WkVqSFpDRWhJQmhCeGJQSEFTTGU3N0xkSVhaeFJGbl9UcDZtU1JJc3lZd2lJVkJxTmN0MWpzOEJ6WURFVEdOLVNqNmFLd3pSVzNxeVZBM05BRDVFV2tMR0ltX1czWEJ2MlMwWWlfYmtWeHVSaHQ1R1EtNGhwYV94Y19ocUtEeDdhc1poTlJxbVFURWNkdW1kdDRzbDE3cjB4SzJJXzRhUnd1NGdBTmlORFRXUVh1Mnh4M09xYmJLTVk0d1lzNmRORGV4MlAwTzFjbkF1cWhFdmMtU3MtY252SWtGdGZGR3JBY2w3TEVDa3ZXX0hHdEtZcTFSelJuSlJxaEFPampQbUF0ZkhScTJlLTVuUEJZODE5TkoxcDh5MkNEenRoWjBBdG9LWGVjZkVHeV9YSmNKSnJWcjFIMFVxNC1raTJVM3E4SE5OVThsSnlkOWlkVW83WDdB?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-19T15:52:25.000Z",
+     "seen": "2026-11-19T16:09:49.591Z"
     },
     {
      "title": "رسوم جديدة رغم الإعفاءات.. أزمة توقف الهواتف تتسع في مصر",
@@ -439,11 +439,11 @@
      "seen": "2026-11-19T16:49:49.319Z"
     },
     {
-     "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ENllncEVRcE16cVpYbVdRVGREMHJCMXBkN2g3Rzh5UkxqRm1aQ3NRVFR6eml6VmRweXViTzR5QVB0cHJzNTNyVEtQeDM1UjNoNi1wc3VxMVUxbmdBbXfSAWNBVV95cUxQUzlmRy1Yb3IyLXR0ajFiSkw1Y3dLeUhEd3h2S3NfOG5aVHRnZEk1VlBwZXJ2M2I1dVRaNDBNSHhiSV92ZWdrREtveHVsLTBUV3VmRWZHS1YzUXhtaWhCREhlVmc?oc=5",
-     "source": "BBC",
-     "time": "2026-11-19T16:27:19.000Z",
-     "seen": "2026-11-19T17:59:49.634Z"
+     "title": "عاصفة الانتقادات تهدد حمداني في الجزائر.. هل اقتربت الإقالة ومن يخلفه؟",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d9%87%d8%af%d8%af-%d8%ad%d9%85%d8%af%d8%a7%d9%86%d9%8a-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-19T16:30:00.000Z",
+     "seen": "2026-11-19T19:50:06.327Z"
     }
    ]
   },
@@ -508,6 +508,13 @@
      "seen": "2026-11-19T19:19:50.248Z"
     },
     {
+     "title": "علي بابا: إيرادات السحابة والحوسبة للذكاء الاصطناعي تنمو 53 في المئة",
+     "url": "https://aitnews.com/2026/11/19/alibaba-ai-cloud-revenue-september-2026/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-19T14:54:33.000Z",
+     "seen": "2026-11-19T19:50:06.327Z"
+    },
+    {
      "title": "كيف تقضي إيرانيات أحكامهن تحت المراقبة الإلكترونية؟",
      "url": "https://www.bbc.com/arabic/articles/cw1mdn02x8nvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -541,23 +548,10 @@
      "source": "Masrawy",
      "time": "2026-11-19T12:34:13.000Z",
      "seen": "2026-11-19T13:58:22.924Z"
-    },
-    {
-     "title": "الفطيم تطلق هوندا بايلوت تريل سبورت في الإمارات",
-     "url": "https://aitnews.com/2026/11/19/%d8%a7%d9%84%d9%81%d8%b7%d9%8a%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%87%d9%88%d9%86%d8%af%d8%a7-%d8%a8%d8%a7%d9%8a%d9%84%d9%88%d8%aa-%d8%aa%d8%b1%d9%8a%d9%84-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa-%d9%81%d9%8a/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-19T12:23:13.000Z",
-     "seen": "2026-11-19T12:28:22.777Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "البوابة العربية للأخبار التقنية",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
