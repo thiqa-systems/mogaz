@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:15:20.232Z",
+ "updated": "2026-11-19T00:25:19.660Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T00:15:20.232Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T00:25:19.660Z"
  },
  "markets": [
   {
@@ -29,17 +29,17 @@
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 5649,
-   "change": -3.14,
-   "asOf": "2026-11-19T00:06:16.000Z",
+   "change": -3.15,
+   "asOf": "2026-11-19T00:15:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6450,
-   "change": -3.14,
-   "asOf": "2026-11-19T00:06:16.000Z",
+   "value": 6449,
+   "change": -3.15,
+   "asOf": "2026-11-19T00:15:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -48,7 +48,7 @@
    "unit": "$/أونصة",
    "value": 3739,
    "change": -3.23,
-   "asOf": "2026-11-19T00:06:16.000Z",
+   "asOf": "2026-11-19T00:15:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0973,
-   "change": -0.18,
-   "asOf": "2026-11-19T00:15:46.000Z",
+   "value": 1.0975,
+   "change": -0.16,
+   "asOf": "2026-11-19T00:24:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.73,
-   "change": -4.73,
-   "asOf": "2026-11-19T00:05:53.000Z",
+   "value": 88.63,
+   "change": -4.84,
+   "asOf": "2026-11-19T00:14:12.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62747,
-   "change": -3.31,
-   "asOf": "2026-11-19T00:16:20.000Z",
+   "value": 62646,
+   "change": -3.46,
+   "asOf": "2026-11-19T00:25:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "وزير الخارجية يشارك في احتفالية منح الميدالية الذهبية للكونجرس إلى اسم الرئيس الراحل أنور السادات",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-يشارك-في-احتفالية-منح-الميدالية-الذهبية-للكونجرس-إلى/7624190",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T00:23:00.000Z",
+     "seen": "2026-11-19T00:25:19.660Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقي رئيس مجلس النواب الأمريكي",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-يلتقي-رئيس-مجلس-النواب-الأمريكي/7624189",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T00:20:00.000Z",
+     "seen": "2026-11-19T00:25:19.660Z"
+    },
+    {
      "title": "مقذوف مجهول يصيب غرفة محركات ناقلة أثناء مغادرتها مضيق هرمز",
      "url": "https://www.elbalad.news/7186171",
      "source": "صدى البلد",
@@ -166,20 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T00:00:00.000Z",
      "seen": "2026-11-19T00:05:19.510Z"
-    },
-    {
-     "title": "وزارة الأوقاف تعقد اليوم 3394 مجلسا لقراءة البردة الشريفة للإمام البوصيرى",
-     "url": "https://www.youm7.com/story/2026/11/19/وزارة-الأوقاف-تعقد-اليوم-3394-مجلسا-لقراءة-البردة-الشريفة-للإمام/7623308",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T00:00:00.000Z",
-     "seen": "2026-11-19T00:05:19.510Z"
-    },
-    {
-     "title": "وزارة العمل تعلن عن 925 فرصة عمل بالعين السخنة برواتب تصل لـ15 ألف جنيه",
-     "url": "https://www.youm7.com/story/2026/11/19/وزارة-العمل-تعلن-عن-925-فرصة-عمل-بالعين-السخنة-برواتب/7623623",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T23:00:00.000Z",
-     "seen": "2026-11-18T23:05:20.097Z"
     },
     {
      "title": "مدبولي يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة",
@@ -352,11 +352,32 @@
    "title": "العالم",
    "items": [
     {
+     "title": "أكثر من 3.9 ملايين طلب براءة اختراع في 2025 والصين تتصدر الترتيب العالمي",
+     "url": "https://www.france24.com/ar/sciences/20261119-%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A8%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9-%D8%AA%D8%B3%D8%AC%D9%84-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%81%D9%8A-2025-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B3%D9%87%D9%85-%D8%A8%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-19T00:24:01.000Z",
+     "seen": "2026-11-19T00:25:19.660Z"
+    },
+    {
+     "title": "واشنطن وكراكاس تتفقان على التعاون العسكري بعد أقل من عام على إطاحة مادورو",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%88%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%A3%D9%86%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D9%85%D8%A7%D8%AF%D9%88%D8%B1%D9%88",
+     "source": "فرانس 24",
+     "time": "2026-11-18T23:53:11.000Z",
+     "seen": "2026-11-19T00:25:19.660Z"
+    },
+    {
      "title": "\"التحالف\" يعلن تفاصيل \"ضربة\" على الحوثيين في صعدة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/saudi-coalition-spokesperson-houthi-missile-l-saada",
      "source": "CNN بالعربية",
      "time": "2026-11-18T23:47:02.000Z",
      "seen": "2026-11-18T23:55:19.416Z"
+    },
+    {
+     "title": "أنثروبيك مطورة \"كلود\" تستعد لدخول البورصة في طرح يُقدّر بـ68.5 مليار دولار",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261118-%D8%A3%D9%86%D8%AB%D8%B1%D9%88%D8%A8%D9%8A%D9%83-%D9%85%D8%B7%D9%88%D8%B1%D8%A9-%D9%83%D9%84%D9%88%D8%AF-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%81%D9%8A-%D8%B7%D8%B1%D8%AD-%D9%8A%D9%82%D8%AF%D8%B1-%D8%A8%D9%86%D8%AD%D9%88-68-5-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+     "source": "فرانس 24",
+     "time": "2026-11-18T23:28:15.000Z",
+     "seen": "2026-11-19T00:25:19.660Z"
     },
     {
      "title": "لقاء في الرياض يجمع خالد بن سلمان وقائد القيادة المركزية الأمريكية.. وهذا ما بحثاه",
@@ -371,6 +392,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-18T22:49:12.000Z",
      "seen": "2026-11-18T22:55:20.109Z"
+    },
+    {
+     "title": "الديمقراطيون يرشحون حكيم جيفريز رسمياً لرئاسة مجلس النواب الأمريكي",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeUlkYmVmLWVOMWFHRFhqdGhlLVBYX3RDWFNrUzJPb3ZNQ3p4SWw1al8tbjhlVjBPNWswVWQ5Q0NKUTkwMmZ1OXdHUWpha0JSRFA5SVhJUmo5MFJ1R1HSAWNBVV95cUxQWDJNTXUyQzB0TVRUM2t1UE9waUgySVpXaV8yM3c0SGM1SDZlM0RjX180bFpaLWFueGp3dFJSS1h1T25tVTBJZVh2bV9pVUV1M2NuU3dGUU1CeHpab1pUYVlaNDQ?oc=5",
+     "source": "BBC",
+     "time": "2026-11-18T22:40:45.000Z",
+     "seen": "2026-11-19T00:25:19.660Z"
     },
     {
      "title": "قطاع غزة: ثلاثة قتلى إثر غارات إسرائيلية مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
@@ -401,13 +429,6 @@
      "seen": "2026-11-18T21:04:52.843Z"
     },
     {
-     "title": "مصر: محكمة توقف النظر في قضية الصحافية لينا عطالله حتى البت في طلب رد المحكمة",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261118-%D9%85%D8%B5%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%B1-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D9%8A%D8%A9-%D9%84%D9%8A%D9%86%D8%A7-%D8%B9%D8%B7%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%A8%D8%AA-%D8%B7%D9%84%D8%A8-%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-18T20:56:37.000Z",
-     "seen": "2026-11-18T21:04:52.843Z"
-    },
-    {
      "title": "من كنيسة حوّلها داعش إلى سجن.. دعوة لفتح قنصلية ألمانية في الموصل",
      "url": "https://www.dw.com/ar/من-كنيسة-حوّلها-داعش-إلى-سجن-دعوة-لفتح-قنصلية-ألمانية-في-الموصل/a-79986135?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -427,27 +448,6 @@
      "source": "الجزيرة",
      "time": "2026-11-18T20:17:40.000Z",
      "seen": "2026-11-18T23:45:19.310Z"
-    },
-    {
-     "title": "بيلينغهام يضع شرطين على طاولة ريال مدريد لتجديد عقده",
-     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%a8%d9%8a%d9%84%d9%8a%d9%86%d8%ba%d9%87%d8%a7%d9%85-%d9%8a%d8%b6%d8%b9-%d8%b4%d8%b1%d8%b7%d9%8a%d9%86-%d9%84%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d8%af%d9%87-%d9%85%d8%b9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-18T20:02:00.000Z",
-     "seen": "2026-11-18T23:15:20.239Z"
-    },
-    {
-     "title": "العراق يقر خطة لإعادة انتشار قواته في جرف النصر على خلفية تحقيقات في تهريب النفط",
-     "url": "https://www.bbc.com/arabic/articles/cw074kjxv2gdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T19:50:01.000Z",
-     "seen": "2026-11-18T19:54:53.144Z"
-    },
-    {
-     "title": "\"أحمد الطيبي يطرد بن غفير من الكنيست\".. ما قصة الفيديو المتداول؟",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFpRb3ZpTFFCZ1Z4Y1ZMUzNOMXF0OUZUNC1zVHY4NVl3RmQtMm5mT1FZem11QTRsOHVRNFNkYWZOajNPeGVyM0d1amJKWXBtNVRQZ29ucE91S3E4am1KWGgzaUFEYWpKT09nRG5sZy1kQzkxQkRQV3ZUbFhVdDAtREFRcE00OTZnS1l3RGpjOTRUT0lCazlBZVNYeDBXYUs3NkpTdk5GNlBuTXREaUdMRmtZMWZLNkRtMGZTYXBrNjZyUnM?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-18T19:40:05.000Z",
-     "seen": "2026-11-18T23:55:19.416Z"
     }
    ]
   },
@@ -476,6 +476,13 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-18T20:02:12.000Z",
      "seen": "2026-11-18T20:04:52.379Z"
+    },
+    {
+     "title": "العراق يقر خطة لإعادة انتشار قواته في جرف النصر على خلفية تحقيقات في تهريب النفط",
+     "url": "https://www.bbc.com/arabic/articles/cw074kjxv2gdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T19:50:01.000Z",
+     "seen": "2026-11-18T19:54:53.144Z"
     },
     {
      "title": "Booking Holdings تنشئ وحدة شراكات جديدة مع تصاعد تأثير الذكاء الاصطناعي في قطاع السفر",
@@ -521,13 +528,6 @@
      "seen": "2026-11-18T17:24:53.159Z"
     },
     {
-     "title": "الإمارات والصومال: ما وراء الخلاف؟",
-     "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T17:09:59.000Z",
-     "seen": "2026-11-18T17:14:52.984Z"
-    },
-    {
      "title": "أعطال غامضة تضرب أميركا.. والاستخبارات تكشف الأسباب",
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNUHFiODFGM3pMY1U5OGxRcGhmZ0l3bG5UR1B0d25lTEJxa1pUdkl0WGl0N2pHZmVGTHZhVVYwMFNGc1g1VHVZUnBoTWU2eVdyMVdYTkxoek9VV0RnNXlieGVrOVV2Tk9ZTFFuV2VXS3M0NHE1T3dqTUlKVHhjZjZ4bldhc1EzaEFGYWJfdTV4NEdScGZZekJuSnRJaWZGcWZ3bzVNSWZ3X01zRm05QWhQel9zZnNrMjFLZjNRaFBZeU9uOV9QU004UEtfZHpDaVhoMkdfUFVhTUFCUGNVUGJyYy12TWRqbW84cHRDRGxGTGMxR3U5WGxQYnhHcy14dTQ4WG1sMWZoblR3NktuWVJWZWZ2Q05qN0J2Nk5EQm54NUlEdm5BWWpVeUhlQmJsTkd0Zl8xWDdfaUpWdTAtaHlreFRETV9ZenJiSU43M2tKREpQUzJaa3JJajlfcU8xcHFMYklONDBsaHBtSzM4T0o5MlZUWHA1T2ZfbHVibW9yQ0NlNTY2MURNTHYtN01TTC13RFBCZjhNVHkyMlBvOHU4NnZGRHlnaUd6X2hWbTFCSlZpdk1qSFNV0gG8A0FVX3lxTE45RDRqV0gtWE0zMENsQ2gzWVJuUDh6VjhNUzRyRF81MEdWcVdOME0xNEhxN0g5RXFtOFlFTmc3Z29GZ3lLRjB5QUx4QmRxRFlpSUVrYU50M1FUWmE1M0tuclI4S3o1LWlBRXNsUFBnb3FnSUhFZUVNeWNPOHk0NnBERksxUktLZGdVYUZQNmNUaGFvdDFFOV9WcGFqbDlhaGxhaFpsVlpZUVB1eUJTNWotYjhWNjhyRW85amI1R2xsYmpIY2owSXdoMU1IYUtkRGMxVG5KYV9MRmJVNDlndjNfWFIxUWtFSHNObGRTcUFqMXc2YWdsMlFCbC1aOVBVMGhReU9IbTZVcFBuZGhhMGZIc1ZqNFNFaVFWR3F1ci1xa2pZeGJUUmNNaGZ2SU15UkE4NG1jYmJsTjBUX1g2YUlBSTQzMzlfREt6Vkw4LV9XRFZveHhFaEhUVEJoOWRDQXUxYTlzamliN21MbXc2Z2ZlcGNZSm5yS2JzWUFlblR0TG0tckxsWVZ3VDVKaGtWcGVBVUhGbmJsa2FydDM3OWhlUnBBcFZqa0liWHluNEd5R0xBT3dLMzEwYmlxeg?oc=5",
      "source": "سكاي نيوز عربية",
@@ -559,6 +559,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
