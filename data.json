@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:25:19.660Z",
+ "updated": "2026-11-19T00:35:19.437Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T00:25:19.660Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T00:35:19.437Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5649,
-   "change": -3.15,
-   "asOf": "2026-11-19T00:15:22.000Z",
+   "value": 5656,
+   "change": -3.02,
+   "asOf": "2026-11-19T00:25:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6449,
-   "change": -3.15,
-   "asOf": "2026-11-19T00:15:22.000Z",
+   "value": 6458,
+   "change": -3.02,
+   "asOf": "2026-11-19T00:25:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3739,
-   "change": -3.23,
-   "asOf": "2026-11-19T00:15:22.000Z",
+   "value": 3744,
+   "change": -3.11,
+   "asOf": "2026-11-19T00:25:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,7 +66,7 @@
    "unit": "$",
    "value": 1.0975,
    "change": -0.16,
-   "asOf": "2026-11-19T00:24:46.000Z",
+   "asOf": "2026-11-19T00:34:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62646,
-   "change": -3.46,
-   "asOf": "2026-11-19T00:25:16.000Z",
+   "value": 62945,
+   "change": -3,
+   "asOf": "2026-11-19T00:35:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -559,12 +559,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
