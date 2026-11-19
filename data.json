@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:26:50.170Z",
+ "updated": "2026-11-19T07:36:49.513Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T07:26:50.170Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T07:36:49.513Z"
  },
  "markets": [
   {
@@ -20,7 +20,7 @@
    "unit": "ج.م",
    "value": 53.77,
    "change": 0.15,
-   "asOf": "2026-11-19T07:26:13.000Z",
+   "asOf": "2026-11-19T07:33:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -29,7 +29,7 @@
    "unit": "ج.م/جرام",
    "value": 5655,
    "change": 0.05,
-   "asOf": "2026-11-19T07:16:52.000Z",
+   "asOf": "2026-11-19T07:27:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,7 +38,7 @@
    "unit": "ج.م/جرام",
    "value": 6456,
    "change": 0.05,
-   "asOf": "2026-11-19T07:16:52.000Z",
+   "asOf": "2026-11-19T07:27:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,7 +47,7 @@
    "unit": "$/أونصة",
    "value": 3738,
    "change": -0.1,
-   "asOf": "2026-11-19T07:16:52.000Z",
+   "asOf": "2026-11-19T07:27:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0978,
    "change": -0.14,
-   "asOf": "2026-11-19T07:26:45.000Z",
+   "asOf": "2026-11-19T07:37:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.65,
-   "change": -2.5,
-   "asOf": "2026-11-19T07:16:16.000Z",
+   "value": 89.53,
+   "change": -2.63,
+   "asOf": "2026-11-19T07:27:39.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63519,
-   "change": 0.84,
-   "asOf": "2026-11-19T07:26:48.000Z",
+   "value": 63558,
+   "change": 0.91,
+   "asOf": "2026-11-19T07:37:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "\"أنثروبيك\" تجمع 81.3 مليار دولار في أكبر طرح عام أولي في التاريخ بقيمة 1.5 تريليون دولار",
-     "url": "https://www.elbalad.news/7186360",
+     "title": "استقرار أسعار النفط مع تصاعد توقعات فائض المعروض وارتفاع الفائدة الأمريكية",
+     "url": "https://www.elbalad.news/7186373",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:26:20.000Z",
-     "seen": "2026-11-19T07:26:50.170Z"
+     "time": "2026-11-19T07:36:34.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
     },
     {
-     "title": "قائد الجيش اللبناني: ملتزمون بإنجاح قرارات السلطة السياسية واستكمال الانتشار في الجنوب",
-     "url": "https://www.elbalad.news/7186354",
+     "title": "وكالة الطاقة الدولية: صراع الشرق الأوسط تسبب في أكبر اضطراب في تجارة النفط والغاز عالميا",
+     "url": "https://www.elbalad.news/7186368",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:22:21.000Z",
-     "seen": "2026-11-19T07:26:50.170Z"
+     "time": "2026-11-19T07:34:31.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
+    },
+    {
+     "title": "موعد مباراة مصر واليونان في كأس العالم للناشئين تحت 17 سنة",
+     "url": "https://www.elbalad.news/7186359",
+     "source": "صدى البلد",
+     "time": "2026-11-19T07:33:57.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
+    },
+    {
+     "title": "جامعة العاصمة تنظم الملتقى العلمى الأول للتوكاتسو لنشر ثقافة التعليم اليابانى",
+     "url": "https://www.youm7.com/story/2026/11/19/جامعة-العاصمة-تنظم-الملتقى-العلمى-الأول-للتوكاتسو-لنشر-ثقافة-التعليم/7624223",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T07:28:00.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
     },
     {
      "title": "جامعة القاهرة تتقدم 17 مركزا فى تصنيف التايمز للعلوم متعددة التخصصات لعام 2027",
@@ -160,25 +174,11 @@
      "seen": "2026-11-19T07:26:50.170Z"
     },
     {
-     "title": "كرم كردي: محمد صلاح أهم عنصر في المنتخب.. ولو كنت مكان أبو ريدة لسافرت له تركيا",
-     "url": "https://www.elbalad.news/7186350",
-     "source": "صدى البلد",
-     "time": "2026-11-19T07:21:52.000Z",
-     "seen": "2026-11-19T07:26:50.170Z"
-    },
-    {
      "title": "وزير الخارجية لرئيس النواب الأمريكى: الشراكة المصرية الأمريكية ركيزة لدعم الاستقرار",
      "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-لرئيس-النواب-الأمريكى-الشراكة-المصرية-الأمريكية-ركيزة-لدعم/7624221",
      "source": "اليوم السابع",
      "time": "2026-11-19T07:06:00.000Z",
      "seen": "2026-11-19T07:16:49.652Z"
-    },
-    {
-     "title": "جامعة العاصمة تختتم اليوم مؤتمرا حول أدب الأطفال فى الحفاظ على الهوية العربية",
-     "url": "https://www.youm7.com/story/2026/11/19/جامعة-العاصمة-تختتم-اليوم-مؤتمرا-حول-أدب-الأطفال-فى-الحفاظ/7623040",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T07:00:00.000Z",
-     "seen": "2026-11-19T07:06:49.775Z"
     },
     {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
@@ -210,6 +210,13 @@
      "seen": "2026-11-18T21:44:52.305Z"
     },
     {
+     "title": "مثمنا تكريم الكونغرس للسادات .. السيسي يدعو لاستحضار روح السلام في ظل أزمات المنطقة",
+     "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQY2FoRFB3ZDVlYU1KczBHTU1ycHpjNld1V3pUNHdDd2JRQ09uWElrMWpFVDhHVGhXNHZFUGR0Mlc4eVhtYTIyWTRkb0U4dVJJb0cwSmMwaEl5bXhoR2ZOc0dWSWhKRXlydGRuLVlfWk14T2VnSEptbXRMeF9HNHdGZ1JVM0ZvQ3VScnF0bEFvREhVLVZ0WVo5X1RkejdtUDI1WVlZUmVsUkFmSzBRSUhQQkpka2dNSmxZdFdncVJfSGozWEFhMWhES3VsQXBJOTNuLV9CNWV5TWtYOEdoQjJLNlNaaFZPMkFRTmpuS3B6U0N5NlB0VVgyRHVCYUhRNUhrQUZzcEdwNTdCc0d2aG52UE5nd21DNmNVZFQ2ZGZPd2owbHhHRTBybFRPbFdNMEFOX2hyaWxQQ2pjNG1wMTVwem85VlRVR1dGd01FbkRXWWtBNEwycjB3cjVjX0JDRUJmcXlVbmZLNHJ0TjN6ZUZGVGxxdHVGZ0lKdDNPRVNfaFc0NVhuM2tzZnRYRU1jOFFzcmF0S1lOQ0VMbHhYOU9JQVZ1Qjd5ejRub2tjYkZKZnhhWmZ6MHN3VjdFbzJEYzU0U24yV2o2U2ZmZnZabXRqNmNUVnAzb3BFSXUwQ0V4andLSjZxVDZ0ekRfT3BqUXluNW1PVWpia3FSSXFuc0YtZ3U0YlNlWm9DVW5vbDQ5NVJUcExsc0hyVG9lR3QySms3UWF3OVh5SWdraU1JdEtrWW16bEhzU3NrdkNsX01acUljUG5kanc2ZjFEaklKMDFxMlpnN1lMM1V4Mlg4cTNMZXpiNnZJNURRMm5zZGJJYlN3M1MyUzVkc1Z2X3pBSWZ1NmtNa25TSE0wZVhPTjBRUXRBM0VLNVFORW1z0gGgBUFVX3lxTE9Pek5PRDhNWTZvT0F4Nm1vd0xiQWVaWkdoTHA1WmVnczlzTkFicHVJQlBzckd6WTBUeWhRRFVZc21VNHpXenJQNDFMcG5zamJ3UTFxekE5MTF5dWFvOVg2QTF0UEU0bHNmMW1HdFVMaWtkQ3FvM3ZkdGEzU0FzUzhfV2FTQkVmTndUaHhfU3ljUmlkMXJEYVRYYWkxQzBjNnBzWG5DTFFxb3dFd0hXd1pGQk8wbTlSV2FNOHVURGNualBxOHJOSnFqVnEycWxGbER4Q2Q3WkFMZzRVdjRUN1BIdk9TcDREYjBKQjNkY1d4YkpIdmd6N3BGYUE5N214ZFBsZENXQzlueXlyLUhpU0VpblpIZFhoTTVxUHNCVGJlMDJCay1Mcm5aUDBBS2wzbUFvdlVteWdYTWZIT2N0T050TTVMYnJSVFdZYkM0b29pNG8teVdEeGR2bUowbXFTdGRiVWNnbTFTZmMwV2VGZjhMdG9hMThNc000MWFOTTJXSHA0Tk1iT2REQzJwMjgxVTB5T0VWemRxclZoQ01iWnFGY1BYWXNrZG9qTjY2akl3eGRPZ04zS3pDSldoQ3NHMUtOTkhJVjFJa0U2YkVSc1pyNEtZVkVYSXV5MUF2RWl2X1Ytb1hDOXBaOHdYRmk5cHFsdFhGUnZ3ZmFwUURBWFp0LUMtZEVYNjVZdFdmRGFJZHAweUhablFCSUJCMDZ6ZmdlcjdsR3pkWU5VeVlJWUZhUkxNUTVqYlVPYVN6aUtobWhCcmFJRXZSYTRLdnFYdVl5Nmx6R0lSUkFseVJMUTVrOHFtY3lUajZmM0dERkZHZ2p2US01enVPQnBUWE10d08xbV9WZWZHSTdvU1p2WTM5ZjdCTlQ5MmxiYVp2UXB3LQ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-18T21:14:00.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
+    },
+    {
      "title": "رئيس الوزراء يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة الدولي",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXV2J1a0RRd2VoRHY2LU9DMUJlUXdjTzF2ZmZUQnRmOHNfR0RnRzZpTl9MTXdIU0IwcHdrOXBsSzNaNnRkRkljV29ycFhqMTN0UjhyMjZrNHFjNTdiRmc4?oc=5",
      "source": "المصري اليوم",
@@ -229,13 +236,6 @@
      "source": "Masrawy",
      "time": "2026-11-18T20:04:00.000Z",
      "seen": "2026-11-18T20:34:52.514Z"
-    },
-    {
-     "title": "مدبولي: إطلاق المختبر التنظيمي ومركز الابتكار لتكنولوجيا التجارة نقلة نوعية في نهج الدولة",
-     "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOcW9TRUtxUmhGMDZiN2dJY0JZbkJsZXQ0UV90Y0FKN3M1M3I1SjRpMGU0ZThmMjU4NHJaNjlZekpSemFhenMzVTVlNTBrc3B3RnhDckNrR1Y5ZDNvRlh0QU9LQnRYcm5kMVNjMDJyOEVsaDlHamRMNFVyZldWLUdkdFZuclhwQlB4OXRxUFVBa1drWHo2WkRtZjFRMlhVVF9ncE41RUwyX2VvczlkMHo4dzRJZTNiRnZtRGF1WnZVdUtadmVkV1l0NGdvSW0tbGJJZGNaQjh2cGNkeDVLbFVKVUlvaWk3U09adzVPdDU0OEtIdGN3TS14N1NDdElMQ2VFY0RvcGsyQkNRY2thQWZuRG5tNGdub0FiMHpsLWtIUUg0SlFpbjM2alBaNk1TaGlSX2gzblZvT1Rrb1NoempOWThsU0NidGE3YTJLMm1FSXlEVkZyZkFkeDJ5Qk1kTmxQbzFBUjhObWNoOFdfU29oMUxSWGF5bE5pZ1VBNlpwaXBVRFllb1NhWW8zU1VFMW1YWGlja1FTR1BsOXdPMEdBa0h0QWl5UlZGRTN0RkkyYVNVNWxoYlg1OUY1MWk5WmlyeGFsMlRjXzZob2dmbUJEbXhudHFIWkJuVXpLSVB3?oc=5",
-     "source": "عالم المال",
-     "time": "2026-11-18T20:03:27.000Z",
-     "seen": "2026-11-18T20:04:52.379Z"
     }
    ]
   },
@@ -293,18 +293,18 @@
      "seen": "2026-11-19T06:36:49.993Z"
     },
     {
+     "title": "تعرف على سعر الدولار مقابل الجنيه قبل بدء التداول عليه",
+     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQalZGUHBLVzIzdjVXZS1ISGl2NkZFb1RKOFN4RnpjT084dER5c1NqM1prdm0ycDZiNy0tcFFVUXdmM2xTS3pEaXViZVNUQXVpU0VtUWR2eVh5MzZvS1NjenBhS3FwaFpYSVZ2T09xaFFsb3ZuQUFDQ0lBU0NVVnhWQlo2QnZ3cFI0ZWtBTGdsQjkwZFF4Q0ZpT0x5SFBNM2lrazFobnFTUE9FNmR1cVFDeDRzWUVkY3BnV3NVU21CVDcwaTltOEVyQzRiQmMwelZGZzQ1QjUtY0ZMUklIazQ1TEdBZ2FrWUJvdlJHaHRUT2NFY0FRbHdUV0dhdWdwbE5McTZEaUE5TjBROHlQQjBUQlNUNE0zY3YwS29lODFtUEFNZWxCam43Z1VVN3FCSlNEX1E4REstSlViOVVDRWxWUGFTSkE5NzFXemwwekEteENGNVNMQ2VHTENUXzJ4U1VlX1lpb25CUzgzeEFHRVlqNHpBYUFKeEYwcVV5dGpGc3pXQXZQQ2lKeDRZTkI1R1pBN2xuSG1yUk9DbTNLOS1wVkliU2k3WTB0MnRiN28wQUZmVXp1UU1RQmg3cW9oZ1pfNldzcmpWRXhhd9IBygNBVV95cUxQalZGUHBLVzIzdjVXZS1ISGl2NkZFb1RKOFN4RnpjT084dER5c1NqM1prdm0ycDZiNy0tcFFVUXdmM2xTS3pEaXViZVNUQXVpU0VtUWR2eVh5MzZvS1NjenBhS3FwaFpYSVZ2T09xaFFsb3ZuQUFDQ0lBU0NVVnhWQlo2QnZ3cFI0ZWtBTGdsQjkwZFF4Q0ZpT0x5SFBNM2lrazFobnFTUE9FNmR1cVFDeDRzWUVkY3BnV3NVU21CVDcwaTltOEVyQzRiQmMwelZGZzQ1QjUtY0ZMUklIazQ1TEdBZ2FrWUJvdlJHaHRUT2NFY0FRbHdUV0dhdWdwbE5McTZEaUE5TjBROHlQQjBUQlNUNE0zY3YwS29lODFtUEFNZWxCam43Z1VVN3FCSlNEX1E4REstSlViOVVDRWxWUGFTSkE5NzFXemwwekEteENGNVNMQ2VHTENUXzJ4U1VlX1lpb25CUzgzeEFHRVlqNHpBYUFKeEYwcVV5dGpGc3pXQXZQQ2lKeDRZTkI1R1pBN2xuSG1yUk9DbTNLOS1wVkliU2k3WTB0MnRiN28wQUZmVXp1UU1RQmg3cW9oZ1pfNldzcmpWRXhhdw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T06:05:36.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
+    },
+    {
      "title": "صنّاع فيلم \"نازا\": كيف أقنعوا جنوداً إسرائيليين بالحديث عن قصف غزة؟",
      "url": "https://www.bbc.com/arabic/articles/cmn0dyg19w00o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-19T06:01:03.000Z",
      "seen": "2026-11-19T06:16:49.768Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه قبل بدء التداول عليه",
-     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPalBtMF90QWlOMjhYQ2VrU2pYcnRQbVR5aFk5WkxDOHYtSUI1UVozakxHMkRnTHoyc3JsLXgwalk2MWh0MmE3cm5FOENWQUhpZzBFRFgwQWdQeW9hV2Iyc3JwWUx6dm9HS3J1RHdBZlVwejF3Wm9yLVVfTFNiR1ZGYkpfSTJsbFV4M1VjaU5ESXJMc3pNVWkxSldvQUdoUEJkMDRZTGFEeFk1NW1jcnJhOWdTbU1Hb3VRSnVVTWRrOEdHd1I0Y2l4QUZVT1ZfeU9NRjljb0hHVG1CWW9KVmZDTkFYN09zUVZZaFRqbDVsVjBqczRVWnF1TTBrNzVxUFdDbHo4RWFldkNTRXQxa3E3ajktekVwVC12M3JZdUVBZW5lS1FIRWl6dlV5cS1TQTFISUx2OE9lVGFUaGVkVy16VWVGaW5mMXNUWWlYb3pMTTdmUGxMaGU2Z0pKdkZraUMteTNVU1RwU1lVRGFUX2J4SGJTbVJhMGJ2d2kwb0RFMWJQQTFicUVwYVVZUmhpVU1laFZNLW9oUGJ3NEZEUnR4QWVMRkhranVha19JbVZhaS1Lenp0bXExUWljdDVXRGFQRk9GcmNoMWxoSVBMMEtN0gHKA0FVX3lxTFBqVkZQcEtXMjN2NVdlLUhIaXY2RkVvVEo4U3hGemNPTzh0RHlzU2ozWmt2bTJwNmI3LS1wUVVRd2YzbFNLekRpdWJlU1RBdWlTRW1RZHZ5WHkzNm9LU2N6cGFLcXBoWlhJVnZPT3FoUWxvdm5BQUNDSUFTQ1VWeFZCWjZCdndwUjRla0FMZ2xCOTBkUXhDRmlPTHlIUE0zaWtrMWhucVNQT0U2ZHVxUUN4NHNZRWRjcGdXc1VTbUJUNzBpOW04RXJDNGJCYzB6VkZnNDVCNS1jRkxSSUhrNDVMR0FnYWtZQm92UkdodFRPY0VjQVFsd1RXR2F1Z3BsTkxxNkRpQTlOMFE4eVBCMFRCU1Q0TTNjdjBLb2U4MW1QQU1lbEJqbjdnVVU3cUJKU0RfUThESy1KVWI5VUNFbFZQYVNKQTk3MVd6bDB6QS14Q0Y1U0xDZUdMQ1RfMnhTVWVfWWlvbkJTODN4QUdFWWo0ekFhQUp4RjBxVXl0akZzeldBdlBDaUp4NFlOQjVHWkE3bG5IbXJST0NtM0s5LXBWSWJTaTdZMHQydGI3bzBBRmZVenVRTVFCaDdxb2hnWl82V3NyalZFeGF3?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T06:00:00.000Z",
-     "seen": "2026-11-19T06:36:49.993Z"
     },
     {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك.. استقرار العملة الأمريكية",
@@ -350,6 +350,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "وكالة الطاقة الدولية تعتبر أزمة الشرق الأوسط أكبر تهديد لأمن الطاقة في التاريخ",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261119-%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%86%D9%81%D8%B7-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+     "source": "فرانس 24",
+     "time": "2026-11-19T07:26:36.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
+    },
+    {
      "title": "إيران توسع نطاق هجماتها في الخليج.. ما الرسالة وراء ذلك؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/iran-widens-gulf-attacks-after-us-strikes-missile-launch-site",
      "source": "CNN بالعربية",
@@ -383,6 +390,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T06:50:17.000Z",
      "seen": "2026-11-19T06:56:49.897Z"
+    },
+    {
+     "title": "شاهد ترامب يمازح بوتين.. \"من هذا؟!\"",
+     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQS0xwNE5sbG9lbUlCREF1eEpTVk1Xc0k3aGVQXzM2NldERzl3UTlCLWFNZjBsd1ltdl8zcWxHdTFZeThCV2tUYlpic1ZfOTBtTDJWRmMybkRKbkhhYzcyUy05bVNJRHNPMHB0aDJjT19PYi1odk9NR291TnhQU19UR3VPMThSU3A0d1d6aU9kQzlxdVh4UkVWbmF1ZTBDYnNacU9FYWVKb0pyRFpQeklJeXNCMXRwZmMzeWxIZGFwWVd2ZVdOTlBrclI0dndzYXM1Nl9zR2wxRkRsZXJnMGdNeWtEQ0hhTmxub1BzTFVDQnk2ZTFDaVNnVXdPcHJqb1JrR1pyR3czYnJsMXBwdUQ2NlNtWmp6bFp5YnRfejhQY3d3M0E3Y0Zia2JZZDN6cERxZnF5Q29UaXg0T3I0TmNpUjl3d0NDMlFQcEHSAc8CQVVfeXFMT0hJY3p3Q2E3ZlB2U2JvdmZDMXkzbkR5VGtzTjU4U2s0NjdnckxNcF9EbzlCVW9ONFlGVlAtOFFnQmQ1aXh3OWFrY3pWdWZTTnpaZmpNeVNfTWhTV19tdlI3cFNXNFhfYjduR1JvcDRRNGhEVFFmNVFPOU1faU5BMHkxVTFORFhlTHdOY3BJeC1sbmozTUhiZ281R1JTSXk4Y2JzM3Qzd1dJZTcya3d0Ynh0cHpITF9YX04yc0hvb0pSb00wTDZHVzFFVVBzZ05jUnEyRFRQUEdqMk13QnFEVUpxOEwxZDk0ck5rZXhxdE5UYzFnckdXMTM2MWZhMzNRRWdpSUttNlp4ZmNHNlAxWHpvb0VrRS1kU2pfdktIUDd0M01xVTc5S29uY0cybzUxLTNSMTlhdF9LSHh4bnBVdmJNWEdFSEJkYm1xNm52M0E?oc=5",
+     "source": "العربية",
+     "time": "2026-11-19T06:23:00.000Z",
+     "seen": "2026-11-19T07:36:49.513Z"
     },
     {
      "title": "بعد ضربات أمريكية داخل إيران.. طهران توسع نطاق هجماتها في الخليج",
@@ -432,20 +446,6 @@
      "source": "العربية",
      "time": "2026-11-19T04:44:00.000Z",
      "seen": "2026-11-19T07:06:49.775Z"
-    },
-    {
-     "title": "مدينة تركية قديمة تحت الأرض تكشف أسرار الاحتماء من الحر والبرد",
-     "url": "https://www.bbc.com/arabic/articles/cr4gnw3q7zq3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T04:33:40.000Z",
-     "seen": "2026-11-19T04:46:49.769Z"
-    },
-    {
-     "title": "اجتماع في برلين لحلفاء أوكرانيا وسط ترقب لنتائج قمة ترامب وبوتين وشي في الصين",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261119-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D8%AF%D8%B9%D9%85-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%82%D9%85%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%B4%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-19T04:22:19.000Z",
-     "seen": "2026-11-19T04:26:49.495Z"
     }
    ]
   },
@@ -482,6 +482,13 @@
      "seen": "2026-11-19T06:46:49.602Z"
     },
     {
+     "title": "مدينة تركية قديمة تحت الأرض تكشف أسرار الاحتماء من الحر والبرد",
+     "url": "https://www.bbc.com/arabic/articles/cr4gnw3q7zq3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T04:33:40.000Z",
+     "seen": "2026-11-19T04:46:49.769Z"
+    },
+    {
      "title": "ترامب لقادة أبيك: نعارض فرض قيود صارمة على الـ AI",
      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPbk5xWXRuSGxZZHd6bFpURXlFYjRHSkpmM3dhR0dQQ1ZPUnBpb1I2dWJfYnhObE01SzRLdndpUUJPczI3dDdmN1NYZmNQLXRiaFBIbzh0OWxCcDIzbDc5bzRIRXhPTmN4cFFUZm5JT0xUM1J4eHFKcl80djFBejA0dmxMMm1ZNG0xTkozTThhVWtvdm5hSTJPMWQzWTVHeFYySDVCamFYX1ZrR3l0LThmN0lhZ0hOM25JV3cxWjJZTGUzZ3YxWTRpVlVmWXROZTV5a2M1Y3hfWWhKZ0tzcFJ0M0V1eDcxRUs5Tm1qUzI3a3hIOEEybWg4dVNaT0tQVkJ1QThWYU9JQ3NWRnZJZzdWa1NQdjdzbVA5VkwyUGZUc2RpQXFaeFpWOE9QMWpoN2F3LVRlbHdfam1CUTlfU3NKQ0tsaHJGSHExWUpKU0RLaEt6VFVPaUhvenlwdGNoQkV6dTIwd1AycU5Pd1Y3TFdwTXVZX3NXZHFXU29wYUd6V2d2R1hZLTEtRlNMRUNOVVJINzk3X2lKSmZ6N0xxRjlEQlBZWlBHZlYwUUdqVHRLODlsdmRvcENscdIBvgNBVV95cUxQMGNRMkVZZW5EX3o5d1R6aFYycmhfaTJ1ZGZfZUVURzRRMktOYVRHNDBCclNpUTQzMGozZWhaTzVOa0dJTWpFeDhrSTQxMmhSTnFheHlSOHlNbU1hNGNYZk44MlVNMFpmTm01MHlmejAzT2EzMC1EYzl5cV9pZ1g5Z3F2aXJjNzlpRjVMenZ2aXlUcktteVRwZGhYYTRQN2gzNFZQOGJuNWN0MTdoa0pSckszNG10Y3A5WDB1QkNOczZNSjFvQldnUEpiVnhyQW9OZXhodzRydUJIMTBDUHJKU0pSMWVOdHFNQVlISEVkcGx3Yk1WaWt1TGFySUtaMDRwQjNIemMwc0U3WnU0dWRZWVY1OVg5STZUYkF5RWhqdUlfbEJTM1gxSFNzUF9nUFNIOE85eTBsYkZDVER0NzFrLUNxS3gwaTZXdm9IS1hrbDlTZnpPQkxLUzJEczBiTkdoQXFIa0lsbGNMUEhxejdqVTcwV2dNZWlhMWZXcUtzVEpObklrekdvM0l6S2xKeWdSdTFYbkt6cTNSNE1WdHpzdUpxSEFETDN1Y0lnSEE4U09WUlZQak9IS1hadkcxdw?oc=5",
      "source": "العربية",
@@ -516,13 +523,6 @@
      "source": "BBC عربي",
      "time": "2026-11-18T21:18:52.000Z",
      "seen": "2026-11-18T21:24:52.854Z"
-    },
-    {
-     "title": "العراق يقر خطة لإعادة انتشار قواته في جرف النصر على خلفية تحقيقات في تهريب النفط",
-     "url": "https://www.bbc.com/arabic/articles/cw074kjxv2gdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T19:50:01.000Z",
-     "seen": "2026-11-18T19:54:53.144Z"
     },
     {
      "title": "Booking Holdings تنشئ وحدة شراكات جديدة مع تصاعد تأثير الذكاء الاصطناعي في قطاع السفر",
