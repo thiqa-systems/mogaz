@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:50:06.474Z",
+ "updated": "2026-11-19T21:00:06.741Z",
  "minute": [
   "استقر سعر الدولار في البنوك المصرية، بالتوازي مع تسجيل تراجع جديد في أسعار الذهب بالصاغة.",
   "تم تحديد محطة سيدي جابر كنقطة ربط تبادلي بين مترو الإسكندرية وترام الرمل لتسهيل حركة التنقل.",
@@ -10,7 +10,9 @@
   "at": "2026-11-19T20:40:06.462Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-19T21:00:06.741Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5548,
-   "change": -1.84,
-   "asOf": "2026-11-19T20:40:08.000Z",
+   "value": 5545,
+   "change": -1.9,
+   "asOf": "2026-11-19T20:49:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6334,
-   "change": -1.84,
-   "asOf": "2026-11-19T20:40:08.000Z",
+   "value": 6330,
+   "change": -1.9,
+   "asOf": "2026-11-19T20:49:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3669,
-   "change": -1.95,
-   "asOf": "2026-11-19T20:40:08.000Z",
+   "value": 3667,
+   "change": -2.01,
+   "asOf": "2026-11-19T20:49:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": -0.14,
-   "asOf": "2026-11-19T20:49:43.000Z",
+   "value": 1.0979,
+   "change": -0.13,
+   "asOf": "2026-11-19T20:59:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.97,
-   "change": -2.15,
-   "asOf": "2026-11-19T20:40:05.000Z",
+   "value": 90.05,
+   "change": -2.07,
+   "asOf": "2026-11-19T20:50:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7193,
-   "change": -1.78,
-   "asOf": "2026-11-19T20:50:07.000Z",
+   "value": 7176,
+   "change": -2.02,
+   "asOf": "2026-11-19T21:00:03.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62159,
-   "change": -1.31,
-   "asOf": "2026-11-19T20:50:07.000Z",
+   "value": 62035,
+   "change": -1.51,
+   "asOf": "2026-11-19T21:00:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,31 +140,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "المياه في مواعيدها.. كيف تحدد «الري» أولويات تطوير الترع؟",
-     "url": "https://www.elbalad.news/7187339",
+     "title": "عندي استعداد أعتزل حالا.. محمد فؤاد يكشف سبب ابتعاده عن الساحة الفنية| فيديو",
+     "url": "https://www.elbalad.news/7187292",
      "source": "صدى البلد",
-     "time": "2026-11-19T20:48:08.000Z",
-     "seen": "2026-11-19T20:50:06.474Z"
+     "time": "2026-11-19T20:57:16.000Z",
+     "seen": "2026-11-19T21:00:06.741Z"
+    },
+    {
+     "title": "\"الخارجية\" الفلسطينية ترحب باعتماد الأمم المتحدة مشروع قرار يؤكد حق الشعب الفلسطيني في تقرير المصير",
+     "url": "https://www.elbalad.news/7187346",
+     "source": "صدى البلد",
+     "time": "2026-11-19T20:54:07.000Z",
+     "seen": "2026-11-19T21:00:06.741Z"
+    },
+    {
+     "title": "هيجسيث ورئيس الإكوادور يبحثان تعزيز أمن الحدود ومكافحة شبكات تهريب المخدرات",
+     "url": "https://www.elbalad.news/7187340",
+     "source": "صدى البلد",
+     "time": "2026-11-19T20:53:41.000Z",
+     "seen": "2026-11-19T21:00:06.741Z"
     },
     {
      "title": "اصطدام سفينة ركاب تنزانية عملاقة بصخرة بسمارك الشهيرة فى بحيرة فيكتوريا.. فيديو",
      "url": "https://www.youm7.com/story/2026/11/19/اصطدام-سفينة-ركاب-تنزانية-عملاقة-بصخرة-بسمارك-الشهيرة-فى-بحيرة/7625382",
      "source": "اليوم السابع",
      "time": "2026-11-19T20:48:00.000Z",
-     "seen": "2026-11-19T20:50:06.474Z"
-    },
-    {
-     "title": "قطر تصعق بنما بثنائية قاتلة في الدقائق الأخيرة بافتتاح مشوارها بمونديال الناشئين",
-     "url": "https://www.elbalad.news/7187333",
-     "source": "صدى البلد",
-     "time": "2026-11-19T20:47:52.000Z",
-     "seen": "2026-11-19T20:50:06.474Z"
-    },
-    {
-     "title": "مجلس الشيوخ يرفض تأييد مشروع قانون يُلزم ترامب بإنهاء الحرب مع إيران",
-     "url": "https://www.elbalad.news/7187334",
-     "source": "صدى البلد",
-     "time": "2026-11-19T20:46:46.000Z",
      "seen": "2026-11-19T20:50:06.474Z"
     },
     {
@@ -242,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "هاني جنينة: استقرار السياسة الاقتصادية ومرونة سعر الصرف أهم لجذب المستثمرين من تدفقات صندوق النقد",
+     "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOeW1sRnZIWXdfZFNJREZRc3ZVd1JYbzdpOFoxTkp2VEo2S1NnU1RORS1hYkhTTEQ3MXotQVZMZ1B5VTU0OXhSX2p5b0JTUUlCaWRUTFRwZDNiSlBoX29aa3NGMzJoc1ZGaDlhaW9xaWItcC1rb0R2dG5qTEhGLWswZUNHdFI3R3djS0RLQk1teTdHZkI0aWNxTHV4YWd6Wkl1SU1LX2VfUkVLNEhPNkJES3owMTY2TjQzd3BCVlpfOXlvMEExY01tSzg5TGhBVDFrRGY3WEZQZTBaM1hQb3JsMlVncGdIbi1Sam4wTXdoR1lBaWk0U3VLR05ZSmszU2pITzRNX2FqSVdsbnpDajJqcXVOMXloS0tNUHlZNkZYXy10dzdYbmFjeVBnQkNjUGFLalF6NldNV2pJeWNhcjR0dE11VURScDhxZjRQQlNaMjhvT1FJbG9nbjV4Z1JNQmJGQXJEVjJwQnNBbDNYQ1hwaXB2ZDVoYU5MSlRyM0oyRjk5Q09kbkszbHZ1cEZhYmNmOG51S2xBYW8zeWw4aUE?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-19T20:57:19.000Z",
+     "seen": "2026-11-19T21:00:06.741Z"
+    },
     {
      "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
      "url": "https://www.bbc.com/arabic/articles/cjy5xn34lp3qo?at_medium=RSS&at_campaign=rss",
@@ -335,13 +344,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-19T17:51:23.000Z",
      "seen": "2026-11-19T18:49:49.927Z"
-    },
-    {
-     "title": "ارتفاع سعر صرف الدولار في البنك المركزي المصري والبنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0wTlEzQ0FQVkJxbHl0V3VGR3I3QUZKd0VNcXpmUXctdi04VzdJbG8zQlZsdG5HM0JDU1owSWhZMVRSX1dOVG5Z?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-19T17:51:00.000Z",
-     "seen": "2026-11-19T17:59:49.634Z"
     }
    ]
   },
@@ -350,19 +352,18 @@
    "title": "العالم",
    "items": [
     {
+     "title": "ولي العهد الأردني لـCNN: اقتصادنا يسير في الاتجاه الصحيح رغم كل التحديات الصعبة",
+     "url": "https://arabic.cnn.com/middle-east/video/2026/11/20/v205606-jordan-crown-prince-intv",
+     "source": "CNN بالعربية",
+     "time": "2026-11-19T20:57:29.000Z",
+     "seen": "2026-11-19T21:00:06.741Z"
+    },
+    {
      "title": "قمة شنجن الثلاثية: بوتين يعود إلى واجهة المشهد الدولي إلى جانب ترامب وشي رغم العقوبات الغربية",
      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261119-%D9%82%D9%85%D8%A9-%D8%B4%D9%86%D8%AC%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%B9%D8%B2%D9%84%D8%A9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B4%D9%8A-%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-19T20:28:47.000Z",
      "seen": "2026-11-19T20:50:06.474Z"
-    },
-    {
-     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
-     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-19T20:23:31.000Z",
-     "seen": "2026-11-19T18:39:49.803Z",
-     "impact": "تُهم الأفراد الراغبين في تحسين النمط الغذائي للوقاية من أمراض الضغط والقلب والكلى."
     },
     {
      "title": "الأردن يعزز شراكته مع أوروبا.. استثمارات بـ15 مليار دولار وربط رقمي عبر \"ميدوسا\"",
@@ -407,6 +408,14 @@
      "seen": "2026-11-19T20:50:06.474Z"
     },
     {
+     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-19T19:24:09.000Z",
+     "seen": "2026-11-19T18:39:49.803Z",
+     "impact": "تُهم الأفراد الراغبين في تحسين النمط الغذائي للوقاية من أمراض الضغط والقلب والكلى."
+    },
+    {
      "title": "الإمارات تستنكر النهج العدائي للحكومة الصومالية",
      "url": "https://www.skynewsarabia.com/middle-east/1905901-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%86%D9%83%D8%B1-%D8%A7%D9%84%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D8%A6%D9%8A-%D9%84%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -440,13 +449,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T18:01:00.000Z",
      "seen": "2026-11-19T20:00:07.176Z"
-    },
-    {
-     "title": "في صراعها مع الحوثيين.. الحكومة اليمنية أمام تحد الحفاظ على شرعيتها",
-     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPNUxScHJEa19DM0Jnc0tzd2hVakFhMHgydldaVUt5TWFOMXk3TVhUWjNLcThTQm1JS2JOQVJLY2ZMWW94ajRTTVczc0pBemtVYWFsRVhUaWRGTE02VUZtYnN5bDd4VjNaN19vbjRtT0Z1ZEF6QnF4QWdyelRRaEV4bTgxR1lVWmtxOXRPTGZ6dnZqdnJnOUVrbEVQOE0zcFNzYW5uS3RXOUp0VC1mSHE2bWtHazR3VmtJbjVfd3JHQU1QeWpYVl9GeXFjTkJEeFRISWFqSnVZMWc1ODE4cnFIeHd5ZzgyeE5COGJUbzhfMHExelo3VHJybGlsSTR0cTNmVWQ3SW12c25IRXpYQlFFaUFPck9yUHNXTEsya1FaSzJjMnJjT25rUkZIX1p2NUV1VHJkcW9oeTJraWVaeV9ydkxjaTNBc2NBb1c0amRFZkowNkMzakJkcFRJR2Fxc2VDaHZRQ2JyUnh2WXRseHp1RHlvVVgyUm9Vc05vWWwtNzJFQVJZeHZHTjZKUnR2enhtV3VWN29CMUNKY3ZZa2JIYUFLREZjcXM3SGJ6RHVoek9wSm03WVBYQVh4Wnk2YVdaaHJZbG9uWmRuLUFhVlFTTXFlMGZqXzMwVXNvRjRQXzhOT295eEN4eHowOWVJa1E1Z0pYSlhDOVRVdmJIYU9vZnpPSEpEaHdLM1ZsNEJ30gGOBEFVX3lxTE9wbk1JSld1dW0tcnhzSTZtVHNoa3J6UmtSbzN2azNHeWtMbldvTUp4ZVFkSkdmbzkwTG91MmVreU1CNHBrcDdjYzI0ME1mRVFDUUwtRVBHaGpmSFU2d2dYZm1GTHNJZVpiZ0ZDVVJxUmN3ZndXYmgtbnBHbm84SnFwa2xhSjhkU19FcE5xb3A2RDNPTzcxT214NXc4ZE03X3dHRXlESDQ1c2FLNmdsWndXTU5CZXNhWllDb1ZkSUtDaW9ZNVp4VEdHWlZ3amlwV0xiZDRSN2JIalhxNkR0UG1RbDR0LXlLX05Qb0ZFZkpsYlVBU3kyNi1ZUW5hSFNld1dSZkRKMnNDR0EyMFBhRWx6MElCbzIybmdwYUQzZllvTWlWMzQ5MkxPUEtLeC1LdFQ5SlFDWmVnYjMzUjJtMzh1V2YyTkstTUlSV1Q4eGpKTng1eDQ4MDRzNG5rdTBCRHJLQUswWktKX0pyajBXQnNpTWdBZmRRejJSa2RpcTJjY0tlQjhRQ0V5ZlJBeGpGWUN3ZnBMZDRKS0ZQYjlpcGs4SjN3bFdQNEY0ZkVFVTBPS0lkWXhhOE9LTlMtRXJMalprLXdBMFZKX0tfRkdCVFhuaFNXUjNTOHNTMHo4UjFMMFQtQmFPeWk2WU9ySnJYel9MR2ZGLUw4bjJEUFFoWklBYzRlZjRPZFZEczd1V2c?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-19T17:56:13.000Z",
-     "seen": "2026-11-19T20:30:06.564Z"
     }
    ]
   },
