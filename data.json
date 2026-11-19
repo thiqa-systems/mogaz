@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-19T13:08:22.975Z",
+ "updated": "2026-11-19T13:18:22.794Z",
  "minute": [
-  "ارتفع سعر الدولار واليورو في البنوك المصرية، بالتزامن مع صدور 11 توصية من صندوق النقد الدولي لمصر بعد الاتفاق على آخر مراجعتين.",
-  "افتُتح مقر التشغيل التجريبي لخدمات التأمين الصحي الشامل بمناخ بورسعيد، بينما تدشن الكشك الذكي بمحكمة القاهرة الاقتصادية.",
-  "حققت جامعة الأزهر المركز الثاني محلياً والمرتبة 114 عالمياً في تصنيف التايمز، وحصد سيد يوسف فضية بطولة العالم للبارا-تنس الطاولة.",
-  "شهدت الساحة الدولية مباحثات بين السيسي والدبيبة لتوقيع اتفاقات، في حين تعرضت المفوضية الأوروبية للهجوم الإلكتروني وتزايدت تهديدات Java4Shell."
+  "شهدت التطورات الاقتصادية تحركات جديدة في سعر صرف الدولار بالبنوك وتراجع حركة ناقلات الغاز المسال عبر مضيق هرمز.",
+  "على الصعيد السياسي والدولي، بحث الرئيس السيسي التعاون وتوقيع اتفاقات مع الدبيبة، وصدر إعلان سلام في قمة جمعت ترامب وبوتين وشي.",
+  "تابع القطاع التكنولوجي عالمياً تزايد الهجمات الإلكترونية ومحاولات استغلال الثغرات البرمجية التي استهدفت عدة جهات.",
+  "شهدت مصر تدشين عمل الكشك الذكي بمحكمة القاهرة الاقتصادية ومبادرة لتشجير المحاور المحيطة بالقاهرة."
  ],
  "ai": {
-  "at": "2026-11-19T12:28:22.777Z",
+  "at": "2026-11-19T13:18:22.794Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T13:08:22.975Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -21,34 +19,34 @@
    "unit": "ج.م",
    "value": 53.77,
    "change": 0.15,
-   "asOf": "2026-11-19T13:01:56.000Z",
+   "asOf": "2026-11-19T13:13:41.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5630,
-   "change": -0.39,
-   "asOf": "2026-11-19T12:59:25.000Z",
+   "value": 5629,
+   "change": -0.4,
+   "asOf": "2026-11-19T13:09:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6428,
-   "change": -0.39,
-   "asOf": "2026-11-19T12:59:25.000Z",
+   "value": 6427,
+   "change": -0.4,
+   "asOf": "2026-11-19T13:09:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3722,
-   "change": -0.53,
-   "asOf": "2026-11-19T12:59:25.000Z",
+   "value": 3721,
+   "change": -0.55,
+   "asOf": "2026-11-19T13:09:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +64,16 @@
    "unit": "$",
    "value": 1.0996,
    "change": 0.03,
-   "asOf": "2026-11-19T13:08:47.000Z",
+   "asOf": "2026-11-19T13:18:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.22,
-   "change": -1.88,
-   "asOf": "2026-11-19T12:59:00.000Z",
+   "value": 90.01,
+   "change": -2.11,
+   "asOf": "2026-11-19T13:08:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63850,
-   "change": 1.37,
-   "asOf": "2026-11-19T13:09:23.000Z",
+   "value": 63698,
+   "change": 1.13,
+   "asOf": "2026-11-19T13:19:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,46 +138,48 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الحرس الثورى الإيرانى: لن يتم إعادة فتح مضيق هرمز ما لم تتحقق شروطنا",
+     "url": "https://www.youm7.com/story/2026/11/19/الحرس-الثورى-الإيرانى-لن-يتم-إعادة-فتح-مضيق-هرمز-ما/7624869",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T13:18:00.000Z",
+     "seen": "2026-11-19T13:18:22.794Z",
+     "impact": "تؤثر تطورات حركة الملاحة واشتراطات إعادة فتح مضيق هرمز على أسعار الطاقة وشحن البضائع عالمياً ومحلياً."
+    },
+    {
+     "title": "وكيل حقوق الإنسان بالشيوخ عن تكريم السادات: التاريخ ينصف صناع السلام",
+     "url": "https://www.elbalad.news/7186774",
+     "source": "صدى البلد",
+     "time": "2026-11-19T13:17:22.000Z",
+     "seen": "2026-11-19T13:18:22.794Z"
+    },
+    {
+     "title": "وزير العدل يزور محكمة القاهرة الاقتصادية ويدشن عمل «الكشك الذكي»",
+     "url": "https://www.elbalad.news/7186772",
+     "source": "صدى البلد",
+     "time": "2026-11-19T13:16:42.000Z",
+     "seen": "2026-11-19T13:18:22.794Z",
+     "impact": "يسهم إطلاق خدمات الكشك الذكي بمحكمة القاهرة الاقتصادية في تسهيل وتسريع الإجراءات والمعاملات القضائية للمستثمرين والمتعاملين."
+    },
+    {
+     "title": "أحمد راشدي يشيد بالمواهب الشابة في مصر: تمتلك قدرات فنية تبشر بمستقبل أفضل",
+     "url": "https://www.elbalad.news/7186771",
+     "source": "صدى البلد",
+     "time": "2026-11-19T13:14:37.000Z",
+     "seen": "2026-11-19T13:18:22.794Z"
+    },
+    {
+     "title": "محافظ القاهرة ورئيس نادي الشمس يدشنان مبادرة تشجير المحاور المحيطة",
+     "url": "https://www.youm7.com/story/2026/11/19/محافظ-القاهرة-ورئيس-نادي-الشمس-يدشنان-مبادرة-تشجير-المحاور-المحيطة/7624835",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T13:11:00.000Z",
+     "seen": "2026-11-19T13:18:22.794Z"
+    },
+    {
      "title": "مفتى الجمهورية يعلن 11 توصية لتطوير المؤسسات الإفتائية وتعزيز التعاون الدولى",
      "url": "https://www.youm7.com/story/2026/11/19/مفتى-الجمهورية-يعلن-11-توصية-لتطوير-المؤسسات-الإفتائية-وتعزيز-التعاون/7624852",
      "source": "اليوم السابع",
      "time": "2026-11-19T13:08:00.000Z",
      "seen": "2026-11-19T13:08:22.975Z"
-    },
-    {
-     "title": "زاد العزة لا تتوقف.. القافلة الـ 316 تحمل دفء الشتاء إلى غزة",
-     "url": "https://www.elbalad.news/7186763",
-     "source": "صدى البلد",
-     "time": "2026-11-19T13:05:15.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
-    },
-    {
-     "title": "شيخ الدهابة النوبيين: مبادرة تقنين التنقيب عن الذهب تعزز الأمان والاستقرار وتنظم عمل الدهابة رسميا",
-     "url": "https://www.elbalad.news/7186761",
-     "source": "صدى البلد",
-     "time": "2026-11-19T13:04:39.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
-    },
-    {
-     "title": "اختفت وأبوها كان بيدور عليها مع الجيران.. تفاصيل جديدة في جريمة إنهاء مقـ.تل طـ ـفلة على يد والدها بالمنوفية",
-     "url": "https://www.elbalad.news/7186759",
-     "source": "صدى البلد",
-     "time": "2026-11-19T13:04:15.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
-    },
-    {
-     "title": "أسرة الكاتبة الصحفية علا الشافعى تتلقى اليوم عزاء والدتها بمسجد عمر مكرم",
-     "url": "https://www.youm7.com/story/2026/11/19/أسرة-الكاتبة-الصحفية-علا-الشافعى-تتلقى-اليوم-عزاء-والدتها-بمسجد/7624833",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T12:58:00.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
-    },
-    {
-     "title": "وزارة العمل تعلن عن فرص عمل برواتب تصل لـ30 ألف جنيه.. تعرف على الشروط",
-     "url": "https://www.youm7.com/story/2026/11/19/وزارة-العمل-تعلن-عن-فرص-عمل-برواتب-تصل-لـ30-ألف/7624728",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T12:39:00.000Z",
-     "seen": "2026-11-19T12:48:22.603Z"
     },
     {
      "title": "الدبيبة في القاهرة.. تقارب جديد يعيد رسم العلاقات المصرية الليبية",
@@ -248,7 +248,8 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51YW1Gd3BlZ09QRWhFMm94Mk5hRDkwcE1VLTJoOFZzQTlVcjYyYXNqYVo0cVlMcjgzeXc2VjVSRFJSTHh2My1N?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-19T13:01:00.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
+     "seen": "2026-11-19T13:08:22.975Z",
+     "impact": "تؤثر تحركات سعر الدولار في البنوك المصرية بشكل مباشر على تكلفة الواردات وأسعار المعيشة وتخطيط المستثمرين."
     },
     {
      "title": "الحكومة الصومالية تعلن طرد السفير الإماراتي، فماذا وراء الخلاف؟",
@@ -269,14 +270,16 @@
      "url": "https://alborsaanews.com/2026/11/19/2007694",
      "source": "البورصة",
      "time": "2026-11-19T12:30:19.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
+     "seen": "2026-11-19T13:08:22.975Z",
+     "impact": "يؤثر التراجع الحاد في حركة ناقلات الغاز المسال عبر مضيق هرمز على أسواق الطاقة العالمية وإمداداتها."
     },
     {
      "title": "ترامب وبوتين وشي يصدرون \"إعلان سلام\" في ختام قمة تاريخية",
      "url": "https://www.bbc.com/arabic/articles/ckq6egn696yro?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-19T12:26:57.000Z",
-     "seen": "2026-11-19T12:38:22.752Z"
+     "seen": "2026-11-19T12:38:22.752Z",
+     "impact": "يسهم صدور إعلان السلام بين الدول الكبرى في دعم استقرار الأسواق المالية العالمية وتحسين مناخ الاستثمار."
     },
     {
      "title": "ارتفاع جديد لسعر الدولار في مصر",
@@ -386,7 +389,7 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T12:20:28.000Z",
      "seen": "2026-11-19T12:28:22.777Z",
-     "impact": "يهم الشركات والمستثمرين في مصر لمتابعة فرص الشراكة والتعاون الاقتصادي الناتجة عن الاتفاقات الموقعّة مع ليبيا."
+     "impact": "تفتح مباحثات التعاون وتوقيع الاتفاقات بين مصر وليبيا آفاقاً لتعزيز التبادل الاقتصادي وفرص العمل والشركات المصرية."
     },
     {
      "title": "تركيا.. مئات الطيور ترسم لوحة فوق الجامع الجديد في إسطنبول",
@@ -471,14 +474,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T12:16:19.000Z",
      "seen": "2026-11-19T12:18:22.688Z",
-     "impact": "ينبه الشركات ومستخدمي التكنولوجيا في مصر بضرورة إجابة التحديثات الأمنية لحماية بياناتهم وتطبيقاتهم من اختراقات Java4Shell."
-    },
-    {
-     "title": "هجوم إلكتروني يربك المفوضية الأوروبية.. ويخترق بيانات الموظفين",
-     "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxOMXlmOFFIS2ZvWmFWR0lmenZXN1VURUxsb1ZWdTZTdVZfakRiRFBvVmt3a1VxMjRVaVZUOWpfLTEydjVZcTEwTVlpQkR1aHBvSUttMTk1VVVIb2psSE1mMlljMFVQQU8zR01JLVFpMnNWVmNVR2wyOW1KUndmMWtMMEFxemZaTTNQNFZKX0hSTTEyOUFkMEljUDl5bWEtd19RRi1XeTFZTkhzNTZyazNjd3JXOHZNa29jcHo0czBkZ0lMWXV1ampmX0VaR2cwZFlyZGY0Uk1Yc0prT0Y3dkRpcFRrSjVleHVCeWtrNWdDZ0wxRlJ4emJJWGdDcUxycHRXanYzWGIyWS1vTXZNbm53LW5VRFV0S2lLS2FxM0JENzhBRGNyQmVfYUxmS2FndzZ4amdaRFZZTmtLQWlEM016VldCS296eWRnbUVYWTBpTDBpU0cwWEtwNGdOZ0VFNVh6ZGFyQVZXZHI2Vm5VbmJoRGlNVGJfcl8yWHQzSU8tcFZFanNHWHI2cV91RFk3MHN2Z3NuTmlGSV81RFFWUDlKbEhGelJpLVpoRjR5T3VVRVd1UlRtY1hZcjAydGZFcjRvc0pKdExGOE5BZUdaZklwb0lyR2J6ZldOUGtyaFR0cnpTTGFnLXhpc0JzaWsxaWNBSmhWOGFNS1YtRlAySnB1b1hYdFVYUmlWSlJXQWo5MmdKT2vSAZgEQVVfeXFMTnlzQmFtRmV4YlltUDQxemxFXzYxTndJbkJ3ZGlGd1dMWk0yTzZSaDFjOUc0YnFkdEFWbmE1LU5DRWhQRXFoQ01lQVU0ZUF1N2lhTVJpcUJjMEQ1MDJuc1B2bTQxTFVMVHhlVnFjbWxLMXg2Q3BUQkpyaG91NGNyOUNleVpWM3Z1T0FOUWZocXhqQnU3VVE0aGRNNFFKeWJEN0tLQU5fRlRwa3JZaXFuOU9iczdZNmJqdTlnMXBLeXNLRTRqVkNvWDBMUE9uWUpZdU0xT0M3dWR3cHVUSWctTWtaU0hNanYtdTVLSllwb1FrX3phWW9WdGRyUVFuMjRKTjFveUxUUE5PcDhmZV9UaUNJY2FfMXp5YUtEd3J3OTRidVNGOVpxN2NjbDBKWW5rZmpmbUVyNG1ad2NFZmJ0aGRJNUFWMmdkV2E3YTBPZmRMX0I2V0NxT1BYMXo3SWp3WXBLa2trSDRRaTVvcjRHcUxUTXdjTUE2X0ZILVlmWUxyZ0paand2Q2dSN1c5QVJhTjY5QkNkNktSOWRjSjF6cGREWGt1Wmw0TDdIZW1YYmhiNk9NSWNZcnptenpfWURKY3F3amE1TWpVUUpiOThhbURSS1BiX1pQNzRBbUxMRnZ0VG1MT0dJeVBiYl90VXNNb1VDVHdzLUUtYnFDY3hQaW5hUVhEYlU3c2FTNXo4TzB6S2lyejVZcW4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T11:50:24.000Z",
-     "seen": "2026-11-19T12:08:22.545Z"
+     "impact": "تستدعي تزايد استغلال ثغرة Java4Shell اتخاذ إجراءات وتحديثات أمنية لحماية النظم المعلوماتية للشركات والأفراد."
     },
     {
      "title": "هنري يكشف سر عبقرية محرز.. موهبة تعجز التكنولوجيا عن تفسيرها",
@@ -486,6 +482,14 @@
      "source": "الجزيرة نت",
      "time": "2026-11-19T10:54:06.000Z",
      "seen": "2026-11-19T12:08:22.545Z"
+    },
+    {
+     "title": "هجوم إلكتروني يربك المفوضية الأوروبية.. ويخترق بيانات الموظفين",
+     "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxOMXlmOFFIS2ZvWmFWR0lmenZXN1VURUxsb1ZWdTZTdVZfakRiRFBvVmt3a1VxMjRVaVZUOWpfLTEydjVZcTEwTVlpQkR1aHBvSUttMTk1VVVIb2psSE1mMlljMFVQQU8zR01JLVFpMnNWVmNVR2wyOW1KUndmMWtMMEFxemZaTTNQNFZKX0hSTTEyOUFkMEljUDl5bWEtd19RRi1XeTFZTkhzNTZyazNjd3JXOHZNa29jcHo0czBkZ0lMWXV1ampmX0VaR2cwZFlyZGY0Uk1Yc0prT0Y3dkRpcFRrSjVleHVCeWtrNWdDZ0wxRlJ4emJJWGdDcUxycHRXanYzWGIyWS1vTXZNbm53LW5VRFV0S2lLS2FxM0JENzhBRGNyQmVfYUxmS2FndzZ4amdaRFZZTmtLQWlEM016VldCS296eWRnbUVYWTBpTDBpU0cwWEtwNGdOZ0VFNVh6ZGFyQVZXZHI2Vm5VbmJoRGlNVGJfcl8yWHQzSU8tcFZFanNHWHI2cV91RFk3MHN2Z3NuTmlGSV81RFFWUDlKbEhGelJpLVpoRjR5T3VVRVd1UlRtY1hZcjAydGZFcjRvc0pKdExGOE5BZUdaZklwb0lyR2J6ZldOUGtyaFR0cnpTTGFnLXhpc0JzaWsxaWNBSmhWOGFNS1YtRlAySnB1b1hYdFVYUmlWSlJXQWo5MmdKT2vSAZgEQVVfeXFMTnlzQmFtRmV4YlltUDQxemxFXzYxTndJbkJ3ZGlGd1dMWk0yTzZSaDFjOUc0YnFkdEFWbmE1LU5DRWhQRXFoQ01lQVU0ZUF1N2lhTVJpcUJjMEQ1MDJuc1B2bTQxTFVMVHhlVnFjbWxLMXg2Q3BUQkpyaG91NGNyOUNleVpWM3Z1T0FOUWZocXhqQnU3VVE0aGRNNFFKeWJEN0tLQU5fRlRwa3JZaXFuOU9iczdZNmJqdTlnMXBLeXNLRTRqVkNvWDBMUE9uWUpZdU0xT0M3dWR3cHVUSWctTWtaU0hNanYtdTVLSllwb1FrX3phWW9WdGRyUVFuMjRKTjFveUxUUE5PcDhmZV9UaUNJY2FfMXp5YUtEd3J3OTRidVNGOVpxN2NjbDBKWW5rZmpmbUVyNG1ad2NFZmJ0aGRJNUFWMmdkV2E3YTBPZmRMX0I2V0NxT1BYMXo3SWp3WXBLa2trSDRRaTVvcjRHcUxUTXdjTUE2X0ZILVlmWUxyZ0paand2Q2dSN1c5QVJhTjY5QkNkNktSOWRjSjF6cGREWGt1Wmw0TDdIZW1YYmhiNk9NSWNZcnptenpfWURKY3F3amE1TWpVUUpiOThhbURSS1BiX1pQNzRBbUxMRnZ0VG1MT0dJeVBiYl90VXNNb1VDVHdzLUUtYnFDY3hQaW5hUVhEYlU3c2FTNXo4TzB6S2lyejVZcW4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-19T10:26:00.000Z",
+     "seen": "2026-11-19T12:08:22.545Z",
+     "impact": "تُبرز الهجمات الإلكترونية المتزايدة ضرورة تعزيز الأمن السيبراني لحماية البيانات والأعمال في مختلف القطاعات."
     },
     {
      "title": "لحظات مرعبة أمام الكاميرا.. سقوط فتاة من الطابق الثالث داخل جيم بإندونيسيا",
@@ -506,7 +510,7 @@
      "title": "بأرقام قياسية عالمية.. \"GTA 6\" تشعل الإنترنت",
      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQTHhoWUpmMGMxMGFKRzltdmRNWjdVMTJTRnVoaS1ocWIxRFU2Qm1XSFZ1TExTTzNXcklFNTBfRjdfQzc2am5LR2tWWXFyUUlKVHZ5b1AwZWJkMmdzbFZhaEIya0lVWXNtbTNxSGZYWGx1S2FyelZVR0xITHh2MW00czFFUjBQQl9idFVmanpSUE0zWDRfMlFPTG0yaEQ4aEVIWGQzeFpoVEpRb0I1SHpYa0NLYm5tem14V2tLS09UY2dPVk1pbFhIWXhzSlZDeE5mZnRwZVp6VGloNm9IY0JjUlNSZkp1QVFuYnluUWxTWVVpLVEzUmxHc3N4RUVKbHk2eFpFd2JmWGxNVFRDN21ISzhORmVFUlpQWEJCa014Q3hmdk12RVdHOUUxemtPblk2X2ZJZW1KU0FTdkRvWWVQcU5tM0hmSzNvc3lmdzk0bk1IWVlBRXZpNlNR0gHfAkFVX3lxTFBVYzVoeTREM2U3MHU0dHNUdlRnSXhuakRnYVctWkNyMFpfcXFhM1JrWTIwOXFIVFFGTFlGbUZSQkdrVldqVXVLalQ5LXhWUVVUQVpkdVR3VW1YNF9MZnFaVDAwUGFzZVRHRzBMSXY5b0JLMDRFVFd4QXl1ZnBXOFdOM3A0OXBkMktfODRWMnhyR2hZWW9LV2I5aV9jUmFEd1FHSDFtNGNiM0ZHX1hlZzB5SGl1amhCTnRFMlBjY1oweGdsa2ZiY2dYRmFoWTBkUXlwVlJlTDJaeklyMTVGUzlWVTJkS0V6eWxNdjZvQ1IxYy1IRHk2U1AxUkJ4a0VNV1QyenkzemJOaC1QaXpJUDRBdXEtNVdoQmtQd1JLTDdqb1U3QzlwNUEwSnV0NTBYaVk4Q0FyOGctQWpzOGpZT0loVkRhd1JDV1B1VnFQZG1jVFdYeGlCZmExdUFyU2tjUQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T09:30:57.000Z",
+     "time": "2026-11-19T09:08:52.000Z",
      "seen": "2026-11-19T11:18:22.280Z"
     },
     {
