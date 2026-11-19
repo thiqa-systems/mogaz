@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:18:22.500Z",
+ "updated": "2026-11-19T14:19:50.185Z",
  "minute": [
   "شهدت التطورات الاقتصادية تحركات جديدة في سعر صرف الدولار بالبنوك وتراجع حركة ناقلات الغاز المسال عبر مضيق هرمز.",
   "على الصعيد السياسي والدولي، بحث الرئيس السيسي التعاون وتوقيع اتفاقات مع الدبيبة، وصدر إعلان سلام في قمة جمعت ترامب وبوتين وشي.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-19T14:18:22.500Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T14:19:50.185Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5618,
-   "change": -0.59,
-   "asOf": "2026-11-19T14:09:21.000Z",
+   "value": 5616,
+   "change": -0.63,
+   "asOf": "2026-11-19T14:10:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6414,
-   "change": -0.59,
-   "asOf": "2026-11-19T14:09:21.000Z",
+   "value": 6412,
+   "change": -0.63,
+   "asOf": "2026-11-19T14:10:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3714,
-   "change": -0.74,
-   "asOf": "2026-11-19T14:09:21.000Z",
+   "value": 3713,
+   "change": -0.78,
+   "asOf": "2026-11-19T14:10:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1008,
-   "change": 0.14,
-   "asOf": "2026-11-19T14:18:44.000Z",
+   "value": 1.1007,
+   "change": 0.13,
+   "asOf": "2026-11-19T14:20:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.27,
-   "change": -1.83,
-   "asOf": "2026-11-19T14:08:59.000Z",
+   "value": 90.32,
+   "change": -1.77,
+   "asOf": "2026-11-19T14:10:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63852,
+   "value": 63851,
    "change": 1.37,
-   "asOf": "2026-11-19T14:19:19.000Z",
+   "asOf": "2026-11-19T14:20:57.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "رئيس قطاع المعاهد يبحث مع وفد الأعلى للأئمة بكوت ديفوار سبل تعزيز التعاون العلمي والدعوي",
+     "url": "https://www.elbalad.news/7186831",
+     "source": "صدى البلد",
+     "time": "2026-11-19T14:19:29.000Z",
+     "seen": "2026-11-19T14:19:50.185Z"
+    },
+    {
+     "title": "رئيس الوزراء يعقد اجتماعا لبحث فرص تعظيم الاستفادة من قضبان التسليح المركب فى تنفيذ المشروعات التنموية والعمرانية",
+     "url": "https://www.youm7.com/story/2026/11/19/رئيس-الوزراء-يعقد-اجتماعا-لبحث-فرص-تعظيم-الاستفادة-من-قضبان/7624949",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T14:19:00.000Z",
+     "seen": "2026-11-19T14:19:50.185Z"
+    },
+    {
      "title": "مصر للطيران توقع عقدا مع شركة سعودية لتقديم خدمات المناولة الأرضية بمطارات المملكة",
      "url": "https://www.elbalad.news/7186828",
      "source": "صدى البلد",
@@ -151,13 +165,6 @@
      "url": "https://www.elbalad.news/7186830",
      "source": "صدى البلد",
      "time": "2026-11-19T14:15:03.000Z",
-     "seen": "2026-11-19T14:18:22.500Z"
-    },
-    {
-     "title": "رئيس نادي المقاولون العرب: لدينا قطاع ناشئين مميز ومحمد عبدالناصر لاعب الأهلي الجديد خير مثال",
-     "url": "https://www.elbalad.news/7186827",
-     "source": "صدى البلد",
-     "time": "2026-11-19T14:13:30.000Z",
      "seen": "2026-11-19T14:18:22.500Z"
     },
     {
@@ -186,13 +193,6 @@
      "url": "https://www.youm7.com/story/2026/11/19/غرينبيس-توربين-رياح-رمزى-فى-كوب-31-يسلط-الضوء-على/7624864",
      "source": "اليوم السابع",
      "time": "2026-11-19T13:57:00.000Z",
-     "seen": "2026-11-19T13:58:22.924Z"
-    },
-    {
-     "title": "رئيس هيئة الإسعاف يتفقد فرع السويس لمتابعة كفاءة الاستجابة للبلاغات",
-     "url": "https://www.youm7.com/story/2026/11/19/رئيس-هيئة-الإسعاف-يتفقد-فرع-السويس-لمتابعة-كفاءة-الاستجابة-للبلاغات/7624926",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T13:54:00.000Z",
      "seen": "2026-11-19T13:58:22.924Z"
     },
     {
@@ -439,19 +439,18 @@
      "impact": "تفتح مباحثات التعاون وتوقيع الاتفاقات بين مصر وليبيا آفاقاً لتعزيز التبادل الاقتصادي وفرص العمل والشركات المصرية."
     },
     {
+     "title": "عاجل: محكمة العدل الدولية تقضي بأن ميانمار ارتكبت إبادة جماعية بحق أقلية الروهينغامحكمة العدل الدولية تقضي بأن ميانمار ارتكبت إبادة جماعية بحق أقلية الروهينغا",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VeDBzVG9yeHhXWTJmalNYWk55elZBT3BnblZWS3VCSnozSjQ3eTdGVXJ2VXByd3dCdXVlQ3lkT0hwWTlpMjlyTmlLakFFS0xvRkxOYkVXcTN3ZVF6eWfSAWNBVV95cUxQUjlQeDA3dmhGeGlaZEtZMXNiel8tekFMVldQVkZWMjdpNVEwR1pTdGFabUUyM1hsTW91a3JpaWdOa1E2WHBZMzVhblBfOWVNVmQzakhEMXF3TUR0SDV2WjI4d2M?oc=5",
+     "source": "BBC",
+     "time": "2026-11-19T11:57:12.000Z",
+     "seen": "2026-11-19T14:19:50.185Z"
+    },
+    {
      "title": "كيف ستتغير أعداد السكان في الدول العربية بحلول عام 2050؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/arab-population-growth-rate-2050",
      "source": "CNN بالعربية",
      "time": "2026-11-19T11:45:49.000Z",
      "seen": "2026-11-19T11:48:22.930Z"
-    },
-    {
-     "title": "\"أنثروبيك\" تجمع 81 مليار دولار في طرح قياسي لأسهمها بالبورصة",
-     "url": "https://www.bbc.com/arabic/articles/c3pw4d87grlzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T11:19:32.000Z",
-     "seen": "2026-11-19T11:18:22.280Z",
-     "impact": "يعكس الطرح القياسي حجم تدفق رؤوس الأموال العالمية نحو تقنيات الذكاء الاصطناعي مما يسترعي اهتمام المستثمرين."
     }
    ]
   },
@@ -510,6 +509,14 @@
      "impact": "تستدعي تزايد استغلال ثغرة Java4Shell اتخاذ إجراءات وتحديثات أمنية لحماية النظم المعلوماتية للشركات والأفراد."
     },
     {
+     "title": "\"أنثروبيك\" تجمع 81 مليار دولار في طرح قياسي لأسهمها بالبورصة",
+     "url": "https://www.bbc.com/arabic/articles/c3pw4d87grlzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T11:19:32.000Z",
+     "seen": "2026-11-19T11:18:22.280Z",
+     "impact": "يعكس الطرح القياسي حجم تدفق رؤوس الأموال العالمية نحو تقنيات الذكاء الاصطناعي مما يسترعي اهتمام المستثمرين."
+    },
+    {
      "title": "هل تغيّرت نظرة الشباب إلى التملّك؟",
      "url": "https://www.bbc.com/arabic/watch/c6x280exy7vno?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -540,10 +547,10 @@
     },
     {
      "title": "لحظات مرعبة أمام الكاميرا.. سقوط فتاة من الطابق الثالث داخل جيم بإندونيسيا",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbkFqZ01JbDRreW1vc3lBLWZhLUFOdUYzLUJKdm4td2FmOF9IMzZtWE9lbFByZnp3UUh1RkNBdG1oMEpMVWVwWWZKNVpoVlZGQXBURU8wTzVvNDQxUmJQckVHM0RNdzEwNkcwelE3SVc1T0pQWXVXSWdUb2ZtVXFQTi0taEFrbzFjNWUzX2V0SkxSYzk1NjVLOGctWnZQNWZIYjllLVJubVU4QVBtRlVxb09DZnNXX3ZXZERVOTVHRFA1clRFTG1abnV6Z3VqRmktOG9hc0NTd2JnMzVsd24xbUpYaUFVN0xOUVdYSk40WDhYWHViZXdOTl9NbzhWRk1sWFNheGxRY25VTmc3a0pJNjgzMUxlSFp0M3pmRzZvS0kySF9fT093RzZQYWFNU1llZ3FaV3BRdlJVV1Q2YlBxNklYbmRkbkFwd1JFaVNjSTVOVUlLMzBQR2pyVzNoQldnVEd3MkxTcWRsZXB6M2NCRTdBLU9jZFl2YXNyQ1lqcXFSbUJWdTRQaTBTR1Q2QmstbXNNZDhUOVFlN3N6bXRqTWR1NW9EWUdHZG5idzZLSEVnTXYwYTg3c1M1dXVuc19IcHFkR0tsM0Nld0tDWWExZTNtVHFvOHZLN0xZN2VINEtDdEJmMzVn0gHiA0FVX3lxTE5pc29jVURRYVNXRkhJZ1Z0Q3dFaW9LcVJtemRaNVJyRTg0Q19SWHFBOFRNWjFpWnFIekJWcG9abnhDczdldU9fVF9fcl9CMmFSYUo1ZXFsdF9FZngwRkFpUFFXTHpkSDV0LUtyNmItd0ZseUNaajNLSDRvV1pwNF9WbVBaam5GamNYRlA4cWlUTnZQRVphTVNpcWpoSlBZcURzaXo3Z0ZlLTZkUndfMF9pWlRENmdKN3pucEVQcjl1Q21vSDBWMlVYYmFDZGRuQzRsaDY0aXlnWS14djlrZHZxaGFNYXM4SXlORkxLN2d4M3ZpZ2FUTVg4dEtSN2pMUEhDUVRmUlh5OTlkbngzNnE4MllBc1Y4UjRKZUhRbjJNeDcxVGFpOGpvbFV4S1pkNkl5b0hDNUJPVC1Sek9qc2w1RmJoUlJ5TmR0LUdCVklLWUlYLTdTZ1BvemVCV2Z1Nk1CblZHMEkxRFZ6T0JnVE02Wk5nNDZaY2FoaXJFQ0ZGR1F4QkN5TXdFSU9QeklTMXZWU2trbnM4MDFwZUE0M0I2WlN3UVhHQ2hNbk56V18yVnR3X3hOSmI1bjJ0V0tjdk5WWG5lT0xya0pkc2Z5dERGNVQ3S0Z0bUNjVmxPcUtWYUtR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbkFqZ01JbDRreW1vc3lBLWZhLUFOdUYzLUJKdm4td2FmOF9IMzZtWE9lbFByZnp3UUh1RkNBdG1oMEpMVWVwWWZKNVpoVlZGQXBURU8wTzVvNDQxUmJQckVHM0RNdzEwNkcwelE3SVc1T0pQWXVXSWdUb2ZtVXFQTi0taEFrbzFjNWUzX2V0SkxSYzk1NjVLOGctWnZQNWZIYjllLVJubVU4QVBtRlVxb09DZnNXX3ZXZERVOTVHRFA1clRFTG1abnV6Z3VqRmktOG9hc0NTd2JnMzVsd24xbUpYaUFVN0xOUVdYSk40WDhYWHViZXdOTl9NbzhWRk1sWFNheGxRY25VTmc3a0pJNjgzMUxlSFp0M3pmRzZvS0kySF9fT093RzZQYWFNU1llZ3FaV3BRdlJVV1Q2YlBxNklYbmRkbkFwd1JFaVNjSTVOVUlLMzBQR2pyVzNoQldnVEd3MkxTcWRsZXB6M2NCRTdBLU9jZFl2YXNyQ1lqcXFSbUJWdTRQaTBTR1Q2QmstbXNNZDhUOVFlN3N6bXRqTWR1NW9EWUdHZG5idzZLSEVnTXYwYTg3c1M1dXVuc19IcHFkR0tsM0Nld0tDWWExZTNtVHFvOHZLN0xZN2VINEtDdEJmMzVn?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T09:56:00.000Z",
-     "seen": "2026-11-19T14:18:22.500Z"
+     "seen": "2026-11-19T14:19:50.185Z"
     },
     {
      "title": "طفرة الذكاء الاصطناعي تدفع صادرات كوريا الجنوبية لتجاوز تريليون دولار",
@@ -552,17 +559,16 @@
      "time": "2026-11-19T09:34:44.000Z",
      "seen": "2026-11-19T09:38:22.561Z",
      "impact": "يبرز الخبر الأثر الاقتصادي الكبير لطفرة الذكاء الاصطناعي على الصادرات والتجارة الدولية للمهتمين بالاستثمار التقني."
-    },
-    {
-     "title": "بأرقام قياسية عالمية.. \"GTA 6\" تشعل الإنترنت",
-     "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQTHhoWUpmMGMxMGFKRzltdmRNWjdVMTJTRnVoaS1ocWIxRFU2Qm1XSFZ1TExTTzNXcklFNTBfRjdfQzc2am5LR2tWWXFyUUlKVHZ5b1AwZWJkMmdzbFZhaEIya0lVWXNtbTNxSGZYWGx1S2FyelZVR0xITHh2MW00czFFUjBQQl9idFVmanpSUE0zWDRfMlFPTG0yaEQ4aEVIWGQzeFpoVEpRb0I1SHpYa0NLYm5tem14V2tLS09UY2dPVk1pbFhIWXhzSlZDeE5mZnRwZVp6VGloNm9IY0JjUlNSZkp1QVFuYnluUWxTWVVpLVEzUmxHc3N4RUVKbHk2eFpFd2JmWGxNVFRDN21ISzhORmVFUlpQWEJCa014Q3hmdk12RVdHOUUxemtPblk2X2ZJZW1KU0FTdkRvWWVQcU5tM0hmSzNvc3lmdzk0bk1IWVlBRXZpNlNR0gHfAkFVX3lxTFBVYzVoeTREM2U3MHU0dHNUdlRnSXhuakRnYVctWkNyMFpfcXFhM1JrWTIwOXFIVFFGTFlGbUZSQkdrVldqVXVLalQ5LXhWUVVUQVpkdVR3VW1YNF9MZnFaVDAwUGFzZVRHRzBMSXY5b0JLMDRFVFd4QXl1ZnBXOFdOM3A0OXBkMktfODRWMnhyR2hZWW9LV2I5aV9jUmFEd1FHSDFtNGNiM0ZHX1hlZzB5SGl1amhCTnRFMlBjY1oweGdsa2ZiY2dYRmFoWTBkUXlwVlJlTDJaeklyMTVGUzlWVTJkS0V6eWxNdjZvQ1IxYy1IRHk2U1AxUkJ4a0VNV1QyenkzemJOaC1QaXpJUDRBdXEtNVdoQmtQd1JLTDdqb1U3QzlwNUEwSnV0NTBYaVk4Q0FyOGctQWpzOGpZT0loVkRhd1JDV1B1VnFQZG1jVFdYeGlCZmExdUFyU2tjUQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T09:08:52.000Z",
-     "seen": "2026-11-19T11:18:22.280Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
