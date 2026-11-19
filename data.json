@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:55:19.760Z",
+ "updated": "2026-11-19T03:05:20.263Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T02:55:19.760Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T03:05:20.263Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5641,
-   "change": -0.12,
-   "asOf": "2026-11-19T02:45:19.000Z",
+   "value": 5623,
+   "change": -0.43,
+   "asOf": "2026-11-19T02:55:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6441,
-   "change": -0.12,
-   "asOf": "2026-11-19T02:45:19.000Z",
+   "value": 6420,
+   "change": -0.43,
+   "asOf": "2026-11-19T02:55:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3734,
-   "change": -0.21,
-   "asOf": "2026-11-19T02:45:19.000Z",
+   "value": 3722,
+   "change": -0.52,
+   "asOf": "2026-11-19T02:55:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0967,
-   "change": -0.24,
-   "asOf": "2026-11-19T02:54:44.000Z",
+   "value": 1.0964,
+   "change": -0.26,
+   "asOf": "2026-11-19T03:05:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.24,
-   "change": -2.95,
-   "asOf": "2026-11-19T02:45:12.000Z",
+   "value": 89.25,
+   "change": -2.94,
+   "asOf": "2026-11-19T02:55:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62621,
-   "change": -3.5,
-   "asOf": "2026-11-19T02:55:19.000Z",
+   "value": 62505,
+   "change": -3.68,
+   "asOf": "2026-11-19T03:05:41.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "من قمة «أبيك».. ترامب: أتطلع إلى الاجتماع مع الرئيسين الصيني والروسي",
-     "url": "https://www.elbalad.news/7186277",
+     "title": "بوتين: روسيا تسهم في دعم أمن الطاقة ويمكن للشركاء الوثوق بنا",
+     "url": "https://www.elbalad.news/7186279",
      "source": "صدى البلد",
-     "time": "2026-11-19T02:50:31.000Z",
-     "seen": "2026-11-19T02:55:19.760Z"
+     "time": "2026-11-19T03:02:18.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
     },
     {
-     "title": "إصابات وغموض موقف.. الغيابات تضرب صفوف الأهلي وبيراميدز قبل قمة الدوري",
-     "url": "https://www.elbalad.news/7186276",
+     "title": "تراجع جديد يضرب سوق الدواجن والبانيه اليوم الخميس.. وهذا سعر الكيلو",
+     "url": "https://www.elbalad.news/7186161",
      "source": "صدى البلد",
-     "time": "2026-11-19T02:42:07.000Z",
-     "seen": "2026-11-19T02:45:20.130Z"
+     "time": "2026-11-19T03:02:00.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
     },
     {
-     "title": "التحالف يتعامل مع تهديد صاروخي استهدف الرياض.. وشظايا تتسبب في أضرار مادية",
-     "url": "https://www.elbalad.news/7186275",
+     "title": "ترامب: الولايات المتحدة تزدهر بشكل غير مسبوق.. ونؤكد قوة الاقتصاد الأمريكي",
+     "url": "https://www.elbalad.news/7186278",
      "source": "صدى البلد",
-     "time": "2026-11-19T02:36:40.000Z",
-     "seen": "2026-11-19T02:45:20.130Z"
+     "time": "2026-11-19T03:01:27.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
+    },
+    {
+     "title": "اليوم آخر موعد لتلقى طلبات التقديم للإشراف على حج الجمعيات الأهلية 2027",
+     "url": "https://www.youm7.com/story/2026/11/19/اليوم-آخر-موعد-لتلقى-طلبات-التقديم-للإشراف-على-حج-الجمعيات/7623122",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T03:00:00.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
+    },
+    {
+     "title": "كيف تستخرج رخصة لتركيب أسانسير؟ الشروط والمستندات المطلوبة",
+     "url": "https://www.youm7.com/story/2026/11/19/كيف-تستخرج-رخصة-لتركيب-أسانسير-الشروط-والمستندات-المطلوبة/7621949",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T03:00:00.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
     },
     {
      "title": "كنا فين وبقينا فين.. كوبرى روميل بمطروح من ممر للسيارات إلى وجهة سياحية متكاملة",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T02:30:00.000Z",
      "seen": "2026-11-19T02:35:20.080Z"
-    },
-    {
-     "title": "مواعيد القطارات على خط «أسوان - القاهرة» والعكس اليوم الخميس 19/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/19/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-الخميس-19/7623473",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T02:00:00.000Z",
-     "seen": "2026-11-19T02:05:19.569Z"
-    },
-    {
-     "title": "من قناة كوجى إلى COC.. كيف تطورت أدوات الإعلام والتعليم فى الكنيسة القبطية؟",
-     "url": "https://www.youm7.com/story/2026/11/19/من-قناة-كوجى-إلى-COC-كيف-تطورت-أدوات-الإعلام-والتعليم/7622146",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T02:00:00.000Z",
-     "seen": "2026-11-19T02:05:19.569Z"
     },
     {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
@@ -324,6 +324,13 @@
      "seen": "2026-11-18T23:05:20.097Z"
     },
     {
+     "title": "انهيار الذهب: هل يمهد السقوط الدراماتيكي لانطلاقة جديدة نحو 6,000 دولار؟",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTk5WUzkyRG5tVE84b1VfRXo3MFg3VnBOYk42NXdHcHRjM1FOQUxYVzRLbURjNkREUWZXNmhoZGZxY29nNFFNdVFGaThmMHNZVjN0RDhnbFdzcWhhejhNYw?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-18T21:47:35.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
+    },
+    {
      "title": "سعر الدولار في مصر الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2RjZjMDVGekFjMlF3ZFFrSElmV0NjSC1vSkZxZGhLU0J2bTN2RGNybjEyOVU0WE5LWXZfQ1lwWTl4ODdPSHVr?oc=5",
      "source": "صدى البلد",
@@ -338,13 +345,6 @@
      "time": "2026-11-18T21:25:00.000Z",
      "seen": "2026-11-18T21:34:52.811Z",
      "impact": "يسهم استقرار سعر الدرهم الإماراتي في وضوح تكاليف المعاملات والتجارات للعمالة المصرية والمستوردين من الإمارات."
-    },
-    {
-     "title": "ثلاثة قتلى إثر غارات إسرائيلية في قطاع غزة مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
-     "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T21:18:52.000Z",
-     "seen": "2026-11-18T21:24:52.854Z"
     }
    ]
   },
@@ -352,6 +352,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "مصر.. صهر ترامب يعلق على منح أنور السادات ميدالية الكونغرس الذهبية",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/egypt-anwar-sadat-massad-boulos-trump-reactions-award",
+     "source": "CNN بالعربية",
+     "time": "2026-11-19T03:01:46.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
+    },
+    {
+     "title": "قائد \"القيادة الوسطى\" يلتقي ولي العهد السعودي ووزير الدفاع",
+     "url": "https://www.skynewsarabia.com/middle-east/1905669-%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T02:54:08.000Z",
+     "seen": "2026-11-19T03:05:20.263Z"
+    },
     {
      "title": "رواج مذكرات صدام حسين وما قاله عن إيران والسعودية العام 2006 مقارنة بما يحدث اليوم",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/saddam-hussiean-memoir-iran-saudi-viral-comparison-today-events",
@@ -395,13 +409,6 @@
      "seen": "2026-11-19T00:25:19.660Z"
     },
     {
-     "title": "\"التحالف\" يعلن تفاصيل \"ضربة\" على الحوثيين في صعدة",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/saudi-coalition-spokesperson-houthi-missile-l-saada",
-     "source": "CNN بالعربية",
-     "time": "2026-11-18T23:47:02.000Z",
-     "seen": "2026-11-18T23:55:19.416Z"
-    },
-    {
      "title": "تقرير للكونغرس: الجيش الصيني يطارد رقائق إنفيديا من أجل \"الحرب الذكية\"",
      "url": "https://www.aljazeera.net/news/2026/11/19/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a-%d9%8a%d8%b7%d8%a7%d8%b1%d8%af-%d8%b1%d9%82%d8%a7%d8%a6%d9%82?traffic_source=rss",
      "source": "الجزيرة",
@@ -442,13 +449,6 @@
      "source": "BBC",
      "time": "2026-11-18T22:40:45.000Z",
      "seen": "2026-11-19T00:25:19.660Z"
-    },
-    {
-     "title": "قطاع غزة: ثلاثة قتلى إثر غارات إسرائيلية مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zMklJQ1M1RXlPNDlid3J2b2VFZW9wT2U5eW1pZmwzRWpiemhudzdqV092eWczcGlvcWJ1YllmdjJ1TC1sRXNDSXFya1Y1MkJvd1I4SmdtNDdkQzVDUHfSAWNBVV95cUxQd1dUa3ltdXBoQTdrV1BDNGdRa1hOUjdrVlR6bTJITGFfanIyb3FsZnJYWnIxRGVJSFVCWTZ0SzFGYnU1NHZfcGNJeXYtM1BkX0ZLa2M4MFA2YkJhNjBpc3A5c3c?oc=5",
-     "source": "BBC",
-     "time": "2026-11-18T22:15:30.000Z",
-     "seen": "2026-11-18T23:35:19.678Z"
     }
    ]
   },
@@ -470,6 +470,13 @@
      "source": "الشرق للأخبار",
      "time": "2026-11-18T21:57:26.000Z",
      "seen": "2026-11-19T02:55:19.760Z"
+    },
+    {
+     "title": "ثلاثة قتلى إثر غارات إسرائيلية في قطاع غزة مع تقدم دبابات وإخلاء مناطق قرب النصيرات",
+     "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-18T21:18:52.000Z",
+     "seen": "2026-11-18T21:24:52.854Z"
     },
     {
      "title": "جوجل تكشف Stitch Loop لتحسين التطبيقات بعد إطلاقها",
@@ -537,13 +544,6 @@
      "seen": "2026-11-19T01:05:20.129Z"
     },
     {
-     "title": "بعد خسارة الليكود رئاسة الكنيست: ما تأثير دعم الأحزاب العربية على مسار تشكيل الحكومة؟",
-     "url": "https://www.bbc.com/arabic/articles/cm702k90nw9yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T17:35:44.000Z",
-     "seen": "2026-11-18T17:44:52.901Z"
-    },
-    {
      "title": "شاومي تجهز هواتف Xiaomi 18 وREDMI Note 18 وTurbo 6 للإطلاق مطلع 2027",
      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%ac%d9%87%d8%b2-%d9%87%d9%88%d8%a7%d8%aa%d9%81-xiaomi-18-%d9%88redmi-note-18-%d9%88turbo-6-%d9%84%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b7%d9%84%d8%b9-2/",
      "source": "عالم التقنية",
@@ -561,6 +561,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
