@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:36:49.360Z",
+ "updated": "2026-11-19T08:46:49.733Z",
  "minute": [
   "ارتفع عجز الميزان التجاري لمصر خلال سبتمبر إلى 5.3 مليار دولار، بالتوازي مع ضخ شركة إم إيه إف جى 20 مليون دولار في مصنع للأجبان واستعدادات لبدء موسم تصدير الموالح.",
   "أُعلن عن الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية، إلى جانب توجيهات حصر الترع الأكثر احتياجاً للتطوير خلال أسبوعين.",
@@ -10,34 +10,36 @@
   "at": "2026-11-19T08:26:49.747Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T08:46:49.733Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.67,
-   "change": -0.04,
-   "asOf": "2026-11-19T08:36:47.000Z",
+   "value": 53.66,
+   "change": -0.06,
+   "asOf": "2026-11-19T08:47:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5641,
-   "change": -0.19,
-   "asOf": "2026-11-19T08:26:45.000Z",
+   "value": 5640,
+   "change": -0.21,
+   "asOf": "2026-11-19T08:37:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6440,
-   "change": -0.19,
-   "asOf": "2026-11-19T08:26:45.000Z",
+   "value": 6439,
+   "change": -0.21,
+   "asOf": "2026-11-19T08:37:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -45,35 +47,35 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3736,
-   "change": -0.16,
-   "asOf": "2026-11-19T08:26:45.000Z",
+   "change": -0.15,
+   "asOf": "2026-11-19T08:37:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51747,
-   "change": 0.39,
-   "asOf": "2026-11-19T08:21:47.000Z",
+   "value": 51659,
+   "change": 0.22,
+   "asOf": "2026-11-19T08:33:02.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0989,
+   "value": 1.0988,
    "change": -0.04,
-   "asOf": "2026-11-19T08:36:46.000Z",
+   "asOf": "2026-11-19T08:47:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.53,
-   "change": -2.63,
-   "asOf": "2026-11-19T08:26:20.000Z",
+   "value": 89.61,
+   "change": -2.54,
+   "asOf": "2026-11-19T08:37:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63651,
-   "change": 1.05,
-   "asOf": "2026-11-19T08:36:47.000Z",
+   "value": 63512,
+   "change": 0.83,
+   "asOf": "2026-11-19T08:48:04.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,47 +140,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "كرم كردي: بيراميدز سيفوز على الأهلي وأداء الأحمر غير مقنع هذا الموسم",
-     "url": "https://www.elbalad.news/7186445",
+     "title": "التضامن تحظى بتكريم دولي عن تجربة «تكافل وكرامة» في الحد من الفقر",
+     "url": "https://www.elbalad.news/7186459",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:35:32.000Z",
-     "seen": "2026-11-19T08:36:49.360Z"
+     "time": "2026-11-19T08:45:49.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
-     "title": "تجربة أكاديمية دولية.. ترشيح طلاب بجامعة قنا للسفر إلى بولندا",
-     "url": "https://www.elbalad.news/7186441",
+     "title": "جلسة مع علي ماهر في اتحاد الكرة لتوقيع عقود تدريب منتخب مصر",
+     "url": "https://www.elbalad.news/7186457",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:35:22.000Z",
-     "seen": "2026-11-19T08:36:49.360Z"
+     "time": "2026-11-19T08:44:41.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
-     "title": "الرعب يسيطر على 2800 طالب بالغردقة.. ثعابين داخل مدرسة الأحياء تثير قلق الأهالي: نطالب بحملة موسعة لتأمين أرواح التلاميذ وإزالة مخلفات البناء",
-     "url": "https://www.elbalad.news/7186440",
+     "title": "من قصة الحب إلى رحلة المرض والوداع.. زوجة عبد الله محمود تكشف أسرارًا عن حياتهما",
+     "url": "https://www.elbalad.news/7186456",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:33:27.000Z",
-     "seen": "2026-11-19T08:36:49.360Z"
+     "time": "2026-11-19T08:43:16.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
-     "title": "وزارة الصحة تتيح دليلين إرشاديين لتعزيز الاستخدام الآمن للمضادات الحيوية",
-     "url": "https://www.youm7.com/story/2026/11/19/وزارة-الصحة-تتيح-دليلين-إرشاديين-لتعزيز-الاستخدام-الآمن-للمضادات-الحيوية/7624294",
+     "title": "معلومات الوزراء: الإنتاج الصناعى العالمى يسجل أحد أقوى معدلات نموه خلال السنوات الخمس الماضية",
+     "url": "https://www.youm7.com/story/2026/11/19/معلومات-الوزراء-الإنتاج-الصناعى-العالمى-يسجل-أحد-أقوى-معدلات-نموه/7624331",
      "source": "اليوم السابع",
-     "time": "2026-11-19T08:30:00.000Z",
-     "seen": "2026-11-19T08:36:49.360Z"
+     "time": "2026-11-19T08:42:00.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
-     "title": "إدراج 31 جامعة مصرية فى نسخة تصنيف QS العالمى للاستدامة لعام 2027",
-     "url": "https://www.youm7.com/story/2026/11/19/إدراج-31-جامعة-مصرية-فى-نسخة-تصنيف-QS-العالمى-للاستدامة/7624300",
+     "title": "هيئة الدواء ترصد إعلانين غير مرخصين لأجهزة قياس السكر بصيدليات «سيف» و«أسامة الطيبي»",
+     "url": "https://www.youm7.com/story/2026/11/19/هيئة-الدواء-ترصد-إعلانين-غير-مرخصين-لأجهزة-قياس-السكر-بصيدليات/7624324",
      "source": "اليوم السابع",
-     "time": "2026-11-19T08:28:00.000Z",
-     "seen": "2026-11-19T08:36:49.360Z"
+     "time": "2026-11-19T08:37:00.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
-     "title": "الأرصاد: أجواء مائلة للحرارة نهارا على أغلب الأنحاء والعظمى بالقاهرة 26 درجة",
-     "url": "https://www.youm7.com/story/2026/11/19/الأرصاد-أجواء-مائلة-للحرارة-نهارا-على-أغلب-الأنحاء-والعظمى-بالقاهرة/7624227",
+     "title": "إسقاط الجنسية المصرية عن شخص لالتحاقه بالخدمة العسكرية بدولة أجنبية",
+     "url": "https://www.youm7.com/story/2026/11/19/إسقاط-الجنسية-المصرية-عن-شخص-لالتحاقه-بالخدمة-العسكرية-بدولة-أجنبية/7624292",
      "source": "اليوم السابع",
-     "time": "2026-11-19T08:25:00.000Z",
-     "seen": "2026-11-19T08:26:49.747Z",
-     "impact": "تساعد النشرة الجوية الأفراد في مصر على التخطيط اليومي للأنشطة والارتداء المناسب للطقس المائل للحرارة."
+     "time": "2026-11-19T08:37:00.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
+    },
+    {
+     "title": "رحيل فيلسوف مباحث أمن الدولة",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6MWk3dlZuTVlPck1LYkdzSHMzSkdKV3dUb00zZE1rSG50ak5jWnNuYWVtbG5ucUdXVHRqN05yYU1mRHpVNjU1dUVBcTd4ZVZFTFZ2MGxCeVZ6UWVwVmlF?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-19T03:08:00.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
+    },
+    {
+     "title": "مصر.. صهر ترامب يعلق على منح أنور السادات ميدالية الكونغرس الذهبية",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnBCaG5FVlBBcmdpZkpHM0cyQjNIOXdnTGozVkZJNHNKTExtNDlxbVZhQmItOUk0TllkaDVUWG1ZN2RBT3Rkcm9ZWHlka0ZsSHF5THVLX29aaG81NjAzMFZHYnoxMkRuTGJsMXFRUDBxVG1rblZ0bFdncmI0clZOdlQ1Z0dpM25YSDZyX0VUalVsc2lEMnFjbkhMR2FyM2xuQk5CUnlHWWRoa2c?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-19T03:01:46.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
@@ -194,13 +209,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-19T00:19:00.000Z",
      "seen": "2026-11-19T08:36:49.360Z"
-    },
-    {
-     "title": "«مدبولى»: التوسع فى تركيب «قطع مياه مُوفِّرة» بالمنشآت الحكومية",
-     "url": "https://www.almasryalyoum.com/news/details/4414451",
-     "source": "المصري اليوم",
-     "time": "2026-11-19T00:15:00.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
     },
     {
      "title": "الكونغرس الأميركي يحتفي بالسادات.. والسيسي يشيد بالخطوة",
@@ -229,13 +237,6 @@
      "source": "العربية",
      "time": "2026-11-18T21:14:00.000Z",
      "seen": "2026-11-19T07:36:49.513Z"
-    },
-    {
-     "title": "أسرار عالم المخدرات في مصر| د. نبيل عبدالمقصود يكشف حكايات صادمة لأول مرة – فيديو",
-     "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOUkN0cGQ3RzFKSE5DTFZQOXg1MWVIN3owMjJqTXZOVUYxMXpqWEhGTEFKTlpOSk90SEFra1RXcGtDbFhvU0t4T0ZWVXJ1N0RwZDNOd1Nqb2U0QnRTdmZxQlFaYUlkbGl3a3oyMnJVR0Ywc1ZHblVUMUZIcjgwRVY0a3JwSlh4VUgtVFh3Z0d3NjFlYzF0akJWdW5YR3drQWJSX3luVlZkMEpPdzJtQnlDTWhkR3pTSks0eHE3aUJOVlRrWjFmTUpYdGhPdkVubVhVU1JhUFZ2SXdrUzREX1hyaEY1VXZmemtWamNWaExYSHBscElGbFVhSk5ncGt2QUdPYjZDRVNvT2s3TVlETGNFQS1lWW52Z2ozNUx5N0NKZFVYMUljLS00dnJ0YnZsM1hpOHU2ZkJibC1UeXZER0lDU2llOUdGSXlGQlNZemFXX0lqdmZPYUJEelV4WVBuRFAzMHNzXzJsVk1EZ3loMjhDaVJWTDJ5ZjM1Mk5SRE5DSmdzSFNlMWg1VG9seTN6VkNKdUJ4c3ZkaGQzT0M5T2VtWlRuTXdmZmNjc25BZ202S3g5Wko5OVlPTllwOTljVGJHTDZ6cC1fRFc0bWM2NnRIV1ZiVHlsUDY1RUc2aUYyNFUzcFdDZm9hbC1VQ1VWalE1U3ViOGtDeVQzZWo0N3dVRnJUeEYxd3FVTkU4MFl2UnpVa2VQc25HS0xIRXc4bnNXcGRrRlpYclBTYmo3aDNPV1JVbGRZOG1tZmFmTmZWZzR6Mmc0c0cwMzB6dnI1Y1F3emtWY2t2Q2VFd1A2TTMxdF9QRVVGR3NlRGN2RHc5ajdlZTFZNTJZWTRGQ2haRDBrNEpkaHVKTdIBjAVBVV95cUxQNVJhbzFqLUNHMzdLMUNpckp0cXY0M1IzQWFHb21VQUl2X0hYQ0l3QlhUMmViOFpoRDNwNExfRUQtak1kSUtJUWVQMTI1S0RySzVqSTAtTHBFX3IwdWFpNndJOGUwdFlHRlNldURtbkp3eE03WW80bm9sa3d4Qnp0Y3hzUzZJWkEzT1NHODBKa05YNlQxbktsaVBZRFl1TC1fV2FFSWw5MWQyaFJJRlNjenhoemtiYnVCblJpX3BZLTZmeHhOeU5lTTNKQVBiQXBuUEM3Zm44RV8yU3Q2Wi1Kb3pRWWtTVlRqQ0JOM0ZrbzdyQ09rM1FZbFhNd1pNSi1GeEdvMGI1bUJ2ZldnbHpkeVVOUEkzbGFhcjh6WjZmSDJHYjdYZlZhNmhiUFhaUWtIMHQwRFhXN0ZwaXM0TzZ0TEFYS2dnS3J3WnRFN0dmY1JGbU5QeXhSaU5QSW11Ul92cncwWGNuVV9XdW1BQXAzZGRzVGQwS0R6elNoRmV5TzFWSVVoYmg4R3lEdU8yOG8xVGdmQ2lzeUoybnZRZ2pMV0RXY2dTV0RrQTlqLURFeElMR1YxM0ZfTFY3cVFnWEc1Z2FJVXV5NC02VEdSN1hzMVB1YXREU3pBWjNyRlN4NVVqaExLUGpJUVVNVUtsQnV0dXlseGJyUVRlclZTb1VSa1N6WThNeTd0SjBEdzdfS2xlaXNzVFh0UFlIUHFwVUIxWjlGSG1HY2RjVVhzeEZmaFAxR3pMX29FdW95a21CSFktblBrT2sxVlFiQVZNQzFsRzFFV2xOV193ZkxaMEZBZFA3cGU1YWdva1dkOTV5aW5MN0lpLVVkanluWDY0ZnJDS3ZRSFRIUkpZNE0z?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T20:57:50.000Z",
-     "seen": "2026-11-19T07:56:49.670Z"
     }
    ]
   },
@@ -244,11 +245,18 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "ترامب وشي يبحثان التعاون بشأن إيران قبيل قمة ثلاثية مع بوتين",
+     "title": "انطلاق القمة الثلاثية بين شي وترامب وبوتين في الصين",
      "url": "https://www.bbc.com/arabic/articles/ckq6egn696yro?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
-     "time": "2026-11-19T08:09:29.000Z",
+     "time": "2026-11-19T08:45:13.000Z",
      "seen": "2026-11-19T06:56:49.897Z"
+    },
+    {
+     "title": "سعر الريال السعودي اليوم الخميس 19 نوفمبر 2026 في البنوك.. آخر تحديث",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RTVJGRnN6Ujc0WDNPSFo3aXN6YWdYYWJvNGFOSW90WUNpUHh1MTN5R29JNTBlZlc1Sml6WlZhOWNURkNHNXNya0NZR1NVNjlvZkpXbXUzQzNUSlFp?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-19T08:18:41.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
      "title": "سعر الدولار اليوم الخميس 19/11/2026 أمام الجنيه المصرى فى بداية التعاملات",
@@ -265,6 +273,13 @@
      "time": "2026-11-19T07:59:09.000Z",
      "seen": "2026-11-19T08:06:49.394Z",
      "impact": "يوضح ارتفاع عجز الميزان التجاري للمستثمرين في مصر الاتجاهات الاقتصادية العامة وضغوط التدفقات النقدية."
+    },
+    {
+     "title": "سعر الدولار مقابل الجنيه الخميس 19 نوفمبر 2026 داخل البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOMTJITjVQYzNnMThDTTNpb3U3bWhMVFVMWHU5MDdxbGdmc3pWSE1Ga1lCVXgxMm9YMm5xUmlnU1VNNVlNZlQ5SXM2d01HcTI4UUJjbHoxWWtRTXhsbmJwbnIwZjd0OE5DT2hYT3V6OFp2aW53NGZFQ3l2S1l1Vl9DUUFaQlJSVHFxUGYzR0NsblZ5S0NaNTZuLUh6VkJBdW5seTQtMTc2TzZYUUVpWmpzZFhMVzNrM0pKNEc3bi04MW9LU2R2QzgzUl9mN2pULUJFdDNuV0NwbW1SNGQwQjU4SThHQlVaVjZaZnNwaTEzUEI4OHNHWjJuS3VGblRwVE00X0lBS2J0T0hPMW1aUUQzN2tMeFBEQS1scW9LUTctWVItaXlrRjhOQmNZYng5VlVrZzloUFdFbHlfdTlscldTTk8tc2ZVNU12Tm1XdHI2WFYwTGpYbDVMM19kblZWNkRGUHlPcE14RHBGcW0xMjZwNWg1clU5XzdMUWZCY1pqMHQwa3R2amxEU0VWaVQ1SGt2cGRXSThqM3BGUkhpbnJVNzJweUZucUtwRkhBQWhvdHNZc3YtNE8zalN5c3BmZzZaRUJ2Tmc0a3Q5TlBGMnM2MVQ2bGx3d0VVa1BuWlhYTW9UZUFmaks2THJleUtCRDhRcWZLbnVoQTdjZUVXQjVlREdGbk1UaHRWNUE?oc=5",
+     "source": "CNN الاقتصادية",
+     "time": "2026-11-19T07:45:35.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
     },
     {
      "title": "«إم إيه إف جى» للصناعات الغذائية تضخ 20 مليون دولار فى مصنع أجبان معبأة",
@@ -311,13 +326,6 @@
      "seen": "2026-11-19T07:06:49.775Z"
     },
     {
-     "title": "سعر الدولار مقابل الجنيه الخميس 19 نوفمبر 2026 داخل البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOMTJITjVQYzNnMThDTTNpb3U3bWhMVFVMWHU5MDdxbGdmc3pWSE1Ga1lCVXgxMm9YMm5xUmlnU1VNNVlNZlQ5SXM2d01HcTI4UUJjbHoxWWtRTXhsbmJwbnIwZjd0OE5DT2hYT3V6OFp2aW53NGZFQ3l2S1l1Vl9DUUFaQlJSVHFxUGYzR0NsblZ5S0NaNTZuLUh6VkJBdW5seTQtMTc2TzZYUUVpWmpzZFhMVzNrM0pKNEc3bi04MW9LU2R2QzgzUl9mN2pULUJFdDNuV0NwbW1SNGQwQjU4SThHQlVaVjZaZnNwaTEzUEI4OHNHWjJuS3VGblRwVE00X0lBS2J0T0hPMW1aUUQzN2tMeFBEQS1scW9LUTctWVItaXlrRjhOQmNZYng5VlVrZzloUFdFbHlfdTlscldTTk8tc2ZVNU12Tm1XdHI2WFYwTGpYbDVMM19kblZWNkRGUHlPcE14RHBGcW0xMjZwNWg1clU5XzdMUWZCY1pqMHQwa3R2amxEU0VWaVQ1SGt2cGRXSThqM3BGUkhpbnJVNzJweUZucUtwRkhBQWhvdHNZc3YtNE8zalN5c3BmZzZaRUJ2Tmc0a3Q5TlBGMnM2MVQ2bGx3d0VVa1BuWlhYTW9UZUFmaks2THJleUtCRDhRcWZLbnVoQTdjZUVXQjVlREdGbk1UaHRWNUE?oc=5",
-     "source": "CNN الاقتصادية",
-     "time": "2026-11-19T06:57:21.000Z",
-     "seen": "2026-11-19T07:26:50.170Z"
-    },
-    {
      "title": "سعر الدولار اليوم الخميس 19 نوفمبر 2026 في البنوك المصرية.. تحديث الشراء والبيع",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKTVlhRFBQUEhSdVpiWDhfTDJKYXVNSGczODI3ZFZuRTdySVg1THZ0OWJxS0dmbkdJTjdxc2J0RFh0TEhNZ19tT29LeTM3TTBHVkJJdk5vT1owWlRpMjV3?oc=5",
      "source": "المصري اليوم",
@@ -337,13 +345,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-19T06:29:50.000Z",
      "seen": "2026-11-19T06:36:49.993Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه قبل بدء التداول عليه",
-     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQalZGUHBLVzIzdjVXZS1ISGl2NkZFb1RKOFN4RnpjT084dER5c1NqM1prdm0ycDZiNy0tcFFVUXdmM2xTS3pEaXViZVNUQXVpU0VtUWR2eVh5MzZvS1NjenBhS3FwaFpYSVZ2T09xaFFsb3ZuQUFDQ0lBU0NVVnhWQlo2QnZ3cFI0ZWtBTGdsQjkwZFF4Q0ZpT0x5SFBNM2lrazFobnFTUE9FNmR1cVFDeDRzWUVkY3BnV3NVU21CVDcwaTltOEVyQzRiQmMwelZGZzQ1QjUtY0ZMUklIazQ1TEdBZ2FrWUJvdlJHaHRUT2NFY0FRbHdUV0dhdWdwbE5McTZEaUE5TjBROHlQQjBUQlNUNE0zY3YwS29lODFtUEFNZWxCam43Z1VVN3FCSlNEX1E4REstSlViOVVDRWxWUGFTSkE5NzFXemwwekEteENGNVNMQ2VHTENUXzJ4U1VlX1lpb25CUzgzeEFHRVlqNHpBYUFKeEYwcVV5dGpGc3pXQXZQQ2lKeDRZTkI1R1pBN2xuSG1yUk9DbTNLOS1wVkliU2k3WTB0MnRiN28wQUZmVXp1UU1RQmg3cW9oZ1pfNldzcmpWRXhhd9IBygNBVV95cUxQalZGUHBLVzIzdjVXZS1ISGl2NkZFb1RKOFN4RnpjT084dER5c1NqM1prdm0ycDZiNy0tcFFVUXdmM2xTS3pEaXViZVNUQXVpU0VtUWR2eVh5MzZvS1NjenBhS3FwaFpYSVZ2T09xaFFsb3ZuQUFDQ0lBU0NVVnhWQlo2QnZ3cFI0ZWtBTGdsQjkwZFF4Q0ZpT0x5SFBNM2lrazFobnFTUE9FNmR1cVFDeDRzWUVkY3BnV3NVU21CVDcwaTltOEVyQzRiQmMwelZGZzQ1QjUtY0ZMUklIazQ1TEdBZ2FrWUJvdlJHaHRUT2NFY0FRbHdUV0dhdWdwbE5McTZEaUE5TjBROHlQQjBUQlNUNE0zY3YwS29lODFtUEFNZWxCam43Z1VVN3FCSlNEX1E4REstSlViOVVDRWxWUGFTSkE5NzFXemwwekEteENGNVNMQ2VHTENUXzJ4U1VlX1lpb25CUzgzeEFHRVlqNHpBYUFKeEYwcVV5dGpGc3pXQXZQQ2lKeDRZTkI1R1pBN2xuSG1yUk9DbTNLOS1wVkliU2k3WTB0MnRiN28wQUZmVXp1UU1RQmg3cW9oZ1pfNldzcmpWRXhhdw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T06:05:36.000Z",
-     "seen": "2026-11-19T07:36:49.513Z"
     }
    ]
   },
@@ -351,6 +352,27 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "شي جينبينغ: نحن في قارب واحد وعليـنا توحيد الجهود لمواجهة الأزمات",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%B4%D9%8A-%D8%AC%D9%8A%D9%86%D8%A8%D9%8A%D9%86%D8%BA-%D9%86%D8%AD%D9%86-%D9%81%D9%8A-%D9%82%D8%A7%D8%B1%D8%A8-%D9%88%D8%A7%D8%AD%D8%AF-%D9%88%D8%B9%D9%84%D9%8A%D9%80%D9%86%D8%A7-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA",
+     "source": "فرانس 24",
+     "time": "2026-11-19T08:37:36.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
+    },
+    {
+     "title": "انطلاق القمة الثلاثية غير المسبوقة بين شي وترامب وبوتين في مدينة شنجن الصينية",
+     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261119-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B4%D9%8A-%D8%AC%D9%8A%D9%86-%D8%A8%D9%8A%D9%86%D8%BA-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%AC%D8%AA%D9%85%D8%B9%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A8%D8%B4%D9%86%D8%AC%D9%86",
+     "source": "فرانس 24",
+     "time": "2026-11-19T08:36:04.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
+    },
+    {
+     "title": "التحالف بقيادة السعودية يتحدث عن أضرار \"مادية\" بعد هجوم صاروخي لـ\"أنصار الله\" اليمنية على الرياض",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNnhoZ2lKSk11OVNPSXZKcXRUVWFmTjQxOTZTVm9zN05tWjdORlJLZHhQc0ljUzV2Yzl1TDZkQ0dRanNCMU9GNkNKS3oydWlvSF9kc2VoSzlFQlZKckHSAWNBVV95cUxNb3JtTXRNSWZIRllxREVQY050ZGRYQTlVR211ZGR4NG9MMDhnbEFST0VXX1VlWkdrcXY0X25pdEpETG1WVGIxNTRWaGRHUXpwRVdSWkNydVljR093RTFPUTdUUW8?oc=5",
+     "source": "BBC",
+     "time": "2026-11-19T08:31:36.000Z",
+     "seen": "2026-11-19T08:46:49.733Z"
+    },
     {
      "title": "عشاق ألعاب الفيديو يحتفلون.. \"جي تي اي 6\" تبدأ رحلتها نحو أرقام قياسية جديدة",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%B9%D8%B4%D8%A7%D9%82-%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%8A%D8%AD%D8%AA%D9%81%D9%84%D9%88%D9%86-%D8%AC%D9%8A-%D8%AA%D9%8A-%D8%A7%D9%8A-6-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%B1%D8%AD%D9%84%D8%AA%D9%87%D8%A7-%D9%86%D8%AD%D9%88-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
@@ -364,20 +386,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T08:21:47.000Z",
      "seen": "2026-11-19T08:26:49.747Z"
-    },
-    {
-     "title": "قمة القادة الثلاثة.. رمزية تاريخية أكثر من كونها إعادة رسم للنظام العالمي؟",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B1%D9%85%D8%B2%D9%8A%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%83%D9%88%D9%86%D9%87%D8%A7-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B1%D8%B3%D9%85-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-19T08:19:58.000Z",
-     "seen": "2026-11-19T08:26:49.747Z"
-    },
-    {
-     "title": "المنتخب المغربي يرتقي إلى المركز الخامس عالميا ويحقق أفضل ترتيب في تاريخه",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261119-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%8A%D8%B1%D8%AA%D9%82%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%8A%D8%AD%D9%82%D9%82-%D8%A3%D9%81%D8%B6%D9%84-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D9%8A%D9%81%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-19T08:11:25.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
     },
     {
      "title": "وكالة الطاقة الدولية: الحرب مع إيران ستترك آثارا دائمة على أسواق الطاقة العالمية.",
@@ -441,13 +449,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T06:41:12.000Z",
      "seen": "2026-11-19T08:26:49.747Z"
-    },
-    {
-     "title": "شاهد ترامب يمازح بوتين.. \"من هذا؟!\"",
-     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQS0xwNE5sbG9lbUlCREF1eEpTVk1Xc0k3aGVQXzM2NldERzl3UTlCLWFNZjBsd1ltdl8zcWxHdTFZeThCV2tUYlpic1ZfOTBtTDJWRmMybkRKbkhhYzcyUy05bVNJRHNPMHB0aDJjT19PYi1odk9NR291TnhQU19UR3VPMThSU3A0d1d6aU9kQzlxdVh4UkVWbmF1ZTBDYnNacU9FYWVKb0pyRFpQeklJeXNCMXRwZmMzeWxIZGFwWVd2ZVdOTlBrclI0dndzYXM1Nl9zR2wxRkRsZXJnMGdNeWtEQ0hhTmxub1BzTFVDQnk2ZTFDaVNnVXdPcHJqb1JrR1pyR3czYnJsMXBwdUQ2NlNtWmp6bFp5YnRfejhQY3d3M0E3Y0Zia2JZZDN6cERxZnF5Q29UaXg0T3I0TmNpUjl3d0NDMlFQcEHSAc8CQVVfeXFMT0hJY3p3Q2E3ZlB2U2JvdmZDMXkzbkR5VGtzTjU4U2s0NjdnckxNcF9EbzlCVW9ONFlGVlAtOFFnQmQ1aXh3OWFrY3pWdWZTTnpaZmpNeVNfTWhTV19tdlI3cFNXNFhfYjduR1JvcDRRNGhEVFFmNVFPOU1faU5BMHkxVTFORFhlTHdOY3BJeC1sbmozTUhiZ281R1JTSXk4Y2JzM3Qzd1dJZTcya3d0Ynh0cHpITF9YX04yc0hvb0pSb00wTDZHVzFFVVBzZ05jUnEyRFRQUEdqMk13QnFEVUpxOEwxZDk0ck5rZXhxdE5UYzFnckdXMTM2MWZhMzNRRWdpSUttNlp4ZmNHNlAxWHpvb0VrRS1kU2pfdktIUDd0M01xVTc5S29uY0cybzUxLTNSMTlhdF9LSHh4bnBVdmJNWEdFSEJkYm1xNm52M0E?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T06:23:00.000Z",
-     "seen": "2026-11-19T07:36:49.513Z"
     }
    ]
   },
