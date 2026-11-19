@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:18:23.088Z",
+ "updated": "2026-11-19T09:28:23.002Z",
  "minute": [
   "متابعة مستمرة لأسعار العملات الأجنبية والعربية في البنوك المصرية مع تراجع سعر الدولار وتخليه عن مكاسبه.",
   "تحديد طرق بديلة للمواطنين والسائقين عقب الإغلاق الكلي لكوبري قصر النيل بالقاهرة.",
@@ -10,70 +10,72 @@
   "at": "2026-11-19T09:08:22.482Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T09:28:23.002Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.76,
-   "change": 0.13,
-   "asOf": "2026-11-19T09:18:19.000Z",
+   "value": 53.84,
+   "change": 0.28,
+   "asOf": "2026-11-19T09:29:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5656,
-   "change": 0.07,
-   "asOf": "2026-11-19T09:08:15.000Z",
+   "value": 5660,
+   "change": 0.14,
+   "asOf": "2026-11-19T09:19:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6457,
-   "change": 0.07,
-   "asOf": "2026-11-19T09:08:15.000Z",
+   "value": 6462,
+   "change": 0.14,
+   "asOf": "2026-11-19T09:19:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3740,
-   "change": -0.06,
-   "asOf": "2026-11-19T09:08:15.000Z",
+   "value": 3737,
+   "change": -0.14,
+   "asOf": "2026-11-19T09:19:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51467,
-   "change": -0.15,
-   "asOf": "2026-11-19T09:03:24.000Z",
+   "value": 51444,
+   "change": -0.2,
+   "asOf": "2026-11-19T09:14:51.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0997,
-   "change": 0.04,
-   "asOf": "2026-11-19T09:17:47.000Z",
+   "value": 1.1,
+   "change": 0.06,
+   "asOf": "2026-11-19T09:29:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.62,
-   "change": -2.53,
-   "asOf": "2026-11-19T09:07:17.000Z",
+   "value": 89.82,
+   "change": -2.32,
+   "asOf": "2026-11-19T09:19:35.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63756,
-   "change": 1.22,
-   "asOf": "2026-11-19T09:18:13.000Z",
+   "value": 63624,
+   "change": 1.01,
+   "asOf": "2026-11-19T09:29:49.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,40 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بوتين: اهتمام كبير بالصراع في أوكرانيا خلال قمة \"أبيك\"",
-     "url": "https://www.elbalad.news/7186504",
+     "title": "طلب إحاطة بشأن مشكلات هيئة قصور الثقافة وسبل تطوير أدائها",
+     "url": "https://www.elbalad.news/7186518",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:16:03.000Z",
-     "seen": "2026-11-19T09:18:23.088Z"
+     "time": "2026-11-19T09:27:30.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
     },
     {
-     "title": "مستجدات تشخيص انضغاط الأعصاب.. ورشة عمل بالجراحات الميكروسكوبية بجامعة أسيوط",
-     "url": "https://www.elbalad.news/7186493",
+     "title": "اتحاد الطائرة يؤكد حق الأندية في الاحتجاج على القرارات التحكيمية وفقًا للوائح",
+     "url": "https://www.elbalad.news/7186517",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:13:47.000Z",
-     "seen": "2026-11-19T09:18:23.088Z"
+     "time": "2026-11-19T09:27:04.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
     },
     {
-     "title": "البنك المركزي يخطط لبيع أذون خزانة بـ 4.6 مليار دولار.. اليوم",
-     "url": "https://www.elbalad.news/7186503",
+     "title": "أحدث البروتوكولات العالمية لتشخيص وعلاج أمراض الدم الحميدة",
+     "url": "https://www.elbalad.news/7186511",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:12:34.000Z",
-     "seen": "2026-11-19T09:18:23.088Z"
+     "time": "2026-11-19T09:26:44.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
     },
     {
-     "title": "إزالة فورية لبناء مخالف بشارع النيل الأبيض فى العجوزة.. صور",
-     "url": "https://www.youm7.com/story/2026/11/19/إزالة-فورية-لبناء-مخالف-بشارع-النيل-الأبيض-فى-العجوزة-صور/7624391",
+     "title": "المديريات توجه بمراجعة درجات التقييمات ومدى توافقها مع مستوى الطلاب",
+     "url": "https://www.youm7.com/story/2026/11/19/المديريات-توجه-بمراجعة-درجات-التقييمات-ومدى-توافقها-مع-مستوى-الطلاب/7624401",
      "source": "اليوم السابع",
-     "time": "2026-11-19T09:09:00.000Z",
-     "seen": "2026-11-19T09:18:23.088Z"
+     "time": "2026-11-19T09:19:00.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
     },
     {
-     "title": "خريطة الطرق البديلة بعد غلق كلى لكوبرى قصر النيل فى اتجاه ميدان التحرير",
-     "url": "https://www.youm7.com/story/2026/11/19/خريطة-الطرق-البديلة-بعد-غلق-كلى-لكوبرى-قصر-النيل-فى/7624384",
+     "title": "وكيل صحة الجيزة يفاجئ مستشفى 6 أكتوبر المركزي بزيارة عقب صلاة الفجر",
+     "url": "https://www.youm7.com/story/2026/11/19/وكيل-صحة-الجيزة-يفاجئ-مستشفى-6-أكتوبر-المركزي-بزيارة-عقب/7624366",
      "source": "اليوم السابع",
-     "time": "2026-11-19T09:05:00.000Z",
-     "seen": "2026-11-19T09:08:22.482Z",
-     "impact": "تساعد الخريطة البديلة السائقين والمواطنين في القاهرة على تنظيم تحركاتهم اليومية وتفادي الاختناقات المرورية."
+     "time": "2026-11-19T09:19:00.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
+    },
+    {
+     "title": "وزارة التضامن: إدراج تجربة تكافل وكرامة فى قاعدة المعرفة العالمية للحد من الفقر",
+     "url": "https://www.youm7.com/story/2026/11/19/وزارة-التضامن-إدراج-تجربة-تكافل-وكرامة-فى-قاعدة-المعرفة-العالمية/7624353",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T09:18:00.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
     },
     {
      "title": "قرار من مجلس الوزراء بإسقاط الجنسية عن «علي ميلاد» لالتحاقه بالخدمة العسكرية في دولة أجنبية",
@@ -179,13 +187,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-19T08:54:00.000Z",
      "seen": "2026-11-19T08:58:22.443Z"
-    },
-    {
-     "title": "مفتي الجمهورية يدعو لمشروع دولى لتأهيل القيادات الإفتائية وإطلاق منصة معرفية عالمية",
-     "url": "https://www.youm7.com/story/2026/11/19/مفتي-الجمهورية-يدعو-لمشروع-دولى-لتأهيل-القيادات-الإفتائية-وإطلاق-منصة/7624337",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T08:49:00.000Z",
-     "seen": "2026-11-19T09:08:22.482Z"
     },
     {
      "title": "رحيل فيلسوف مباحث أمن الدولة",
@@ -243,6 +244,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "تراجع سعر اليورو اليوم الخميس 19 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQcUtMYmlWWGlJUmEySzR2ZjVJMjVEQXNzRXRZb0ZlT2FUdThBRERwRmVTblh0SDBONFB1N1ZxN21fZkJtdzdSTDNnMTV3YWxNWk1tcjVIMUVCQ1d0NldQZ3kwLUdZcGxVb2J0U2VxdERrODJpdFZTS2VlUWM1U2NuVWtQTXJNQlppWnhmRDByYUlsQXd0OVgxWXB5YWtXTlNrMHVQSVFQQ2lVSlozTnN1X2h6Zjd0UFEyaEpScnNUUzdvYVFIaE1OMHdTbUI0Sm5CZUlVREdOZHlFMGcwUHp1ck1rZEJ3dTctZWR3UU5iSFJfaS1CZjY5VnhfcWN6R01UUlAwUG03TGFCNUpOTHg3Wk1ZTGVmVXdPS1Q4UTdIOW9FSkhxX1pEWEpjdi1UQ19Iczc4NF9GN3RVNS1KWHlQaW13TXcwUnhHQm5ncnJ4cXNuNzZRX3B0TFhQQ2pSRTVnaGtvNVV5LWNiMF91Z2ROemJwR0F4VnFNMGxCTjdqaWdzTVh1Nnluc2I1eTBiX29nRHlZcjJtTkpBY2JCZnhJWnJXUTdBMmZpY01TWHZYTDkyOUZocEow0gGyA0FVX3lxTE84UlBfREZ4R18yNkNtems0MWRxZm41XzJ4T25GM1lpblJRdk1oR3pNYTQ5RDVVc3c2OXpMQlRzOU03TVJvd056RWlhQUpDV05hZldMVFlqREtKNnQyVFBJc3llZ1I0MmNkWlRMRk5sRjZNNlFEZWhNeHFqcTV3d3BCNjNLRHJ5b1RnSXRDQnJ2WWlLZ0NPUmh1ZmNDRVVmZlpSanhjdk5MSjFVaVVKellvY1JMQXB2Z0tpNWdlQXM5N25ndkJRa01JbWpuWDdKc25tenRUVXRSelNLN2ZJc2tYcnY4QVdraWFNMVBiXy1Yd1NzTDNERUdPaFBkMzBpSHF0TFoyNWFDYlI2bHRQekZHNlpKNkhoVG9ZN3d4S2pJOEhTZ2NpeEpMQlFYYWZFU2Q3Z2hsUFVaQV9lRi1RUllrMmoxOExwZl9rOHlDRVkzSmdmT0lXWVJRRHlFUGFGaVJsVlVKajN4TER0NE9vZ0hzbVBkNEpOS2dQalFlS1dqeG1WRzh2UE5zRmRPZGVfak4tbHhSY0RBczRwUkdUTk81VEdWcV9UeGNmS2JGX2hkYmRB?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T09:16:00.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
+    },
+    {
+     "title": "البورصة تربح 11.5 مليار جنيه في مستهل تعاملات جلسة الخميس",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNR2RZYmhCZXFtRGUyU251eXIzZWFmWTVhVDR0UUlFMGRlUnZqSTJOT25MYkxUMGhtM01kcFFLTXBZa1hhS3ZocDZHb1RNQlJSeU9KN1E0Yk5taGVkZ0VoRjVseEhqRmJvZkc1NkpiWlBvQWpDNDhyUmliYTFxVG9TcXladWxnVUpUQklCTm1ZUnM3MXdlM3ViRnpRTnBheFc2UnVRc0ozYVdYRTZiX044aWtEMVlvRjYwM0pSWmYxcmpGSjJKaUZTQkVEbnlOc2JXYUdCcnhUR0VDeVM5a3JQdGZ0dk5FYWJEMlotUzV0a3hBZDVFM1NRcFk3cWMxMkl3NFR5Yi1xMnVuUQ?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-19T09:14:22.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
+    },
     {
      "title": "تعرف على سعر الدينار الكويتي في البنك المركزي اليوم الخميس",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xUWc4RUJjanB1V0djcU1Zd0lpMFJjSnpqOTVjeEt6WW01X0hLaDZUalJOb1dtQ0wtb2ptWWJZUVNkbjhYN0dV?oc=5",
@@ -315,7 +330,7 @@
      "title": "سعر الدولار مقابل الجنيه الخميس 19 نوفمبر 2026 داخل البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOMTJITjVQYzNnMThDTTNpb3U3bWhMVFVMWHU5MDdxbGdmc3pWSE1Ga1lCVXgxMm9YMm5xUmlnU1VNNVlNZlQ5SXM2d01HcTI4UUJjbHoxWWtRTXhsbmJwbnIwZjd0OE5DT2hYT3V6OFp2aW53NGZFQ3l2S1l1Vl9DUUFaQlJSVHFxUGYzR0NsblZ5S0NaNTZuLUh6VkJBdW5seTQtMTc2TzZYUUVpWmpzZFhMVzNrM0pKNEc3bi04MW9LU2R2QzgzUl9mN2pULUJFdDNuV0NwbW1SNGQwQjU4SThHQlVaVjZaZnNwaTEzUEI4OHNHWjJuS3VGblRwVE00X0lBS2J0T0hPMW1aUUQzN2tMeFBEQS1scW9LUTctWVItaXlrRjhOQmNZYng5VlVrZzloUFdFbHlfdTlscldTTk8tc2ZVNU12Tm1XdHI2WFYwTGpYbDVMM19kblZWNkRGUHlPcE14RHBGcW0xMjZwNWg1clU5XzdMUWZCY1pqMHQwa3R2amxEU0VWaVQ1SGt2cGRXSThqM3BGUkhpbnJVNzJweUZucUtwRkhBQWhvdHNZc3YtNE8zalN5c3BmZzZaRUJ2Tmc0a3Q5TlBGMnM2MVQ2bGx3d0VVa1BuWlhYTW9UZUFmaks2THJleUtCRDhRcWZLbnVoQTdjZUVXQjVlREdGbk1UaHRWNUE?oc=5",
      "source": "CNN الاقتصادية",
-     "time": "2026-11-19T07:45:35.000Z",
+     "time": "2026-11-19T07:47:26.000Z",
      "seen": "2026-11-19T07:26:50.170Z"
     },
     {
@@ -331,20 +346,6 @@
      "source": "BBC عربي",
      "time": "2026-11-19T07:18:03.000Z",
      "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
-     "title": "سعر الدولار في مصر اليوم الخميس 19/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1aWJWbXZhN01peVFrT2cxY3JvMlpsQl8ydjc3R0t6NXY4M1p5emVRVkZWbHltT1A1cFhxRWlYN1lic0E1MFB6UDh2bXVGR2dEeXIyenNn?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-19T07:05:00.000Z",
-     "seen": "2026-11-19T07:06:49.775Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الخميس 19 نوفمبر 2026 في البنوك المصرية.. تحديث الشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKTVlhRFBQUEhSdVpiWDhfTDJKYXVNSGczODI3ZFZuRTdySVg1THZ0OWJxS0dmbkdJTjdxc2J0RFh0TEhNZ19tT29LeTM3TTBHVkJJdk5vT1owWlRpMjV3?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-19T06:55:00.000Z",
-     "seen": "2026-11-19T07:06:49.775Z"
     }
    ]
   },
@@ -458,6 +459,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "كاسبرسكي تحذّر من ملفات مزيفة وعمليات احتيال تستغل ترقّب GTA VI",
+     "url": "https://aitnews.com/2026/11/19/%d9%83%d8%a7%d8%b3%d8%a8%d8%b1%d8%b3%d9%83%d9%8a-%d8%aa%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d9%85%d8%b2%d9%8a%d9%81%d8%a9-%d9%88%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-19T09:19:19.000Z",
+     "seen": "2026-11-19T09:28:23.002Z"
+    },
+    {
      "title": "خوادم الذكاء الاصطناعي تدفع لينوفو إلى إيرادات قياسية",
      "url": "https://aitnews.com/2026/11/19/%d9%84%d9%8a%d9%86%d9%88%d9%81%d9%88-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d8%a8%d9%84%d8%ba-30-2-%d9%85%d9%84%d9%8a%d8%a7/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -478,14 +486,6 @@
      "time": "2026-11-19T06:40:26.000Z",
      "seen": "2026-11-19T06:46:49.602Z",
      "impact": "يعكس الطرح الضخم لشركة أنثروبيك توجهات الاستثمار العالمي وفرص النمو في قطاع الذكاء الاصطناعي."
-    },
-    {
-     "title": "جوجل تطلق نموذج الذكاء الاصطناعي Gemini 4 Neon للبرمجة والتحليل والمهام المعقدة",
-     "url": "https://aitnews.com/2026/11/19/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%b7%d9%84%d9%82-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-gemini-4-neon-%d9%84%d9%84/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-19T06:32:28.000Z",
-     "seen": "2026-11-19T06:36:49.993Z",
-     "impact": "تتيح أدوات جوجل الجديدة للبرمجة فرصة للمطورين والشركات في مصر لتحسين كفاءة الخدمات الرقمية."
     },
     {
      "title": "صنّاع فيلم \"نازا\": كيف أقنعوا جنوداً إسرائيليين بالحديث عن قصف غزة؟",
