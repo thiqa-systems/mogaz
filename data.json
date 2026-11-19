@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-19T01:35:19.800Z",
+ "updated": "2026-11-19T01:45:19.846Z",
  "minute": [
-  "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
-  "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
-  "بحث وزير الطيران المصري تطوير التعاون في النقل الجوي مع رئيس الهيئة العامة للطيران القطري.",
-  "يفاضل جهاز تنمية المشروعات بين 10 شركات لتأهيل أولها للقيد بالبورصة المصرية بحلول عام 2027."
+  "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
+  "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
+  "طالبت شعبة المحمول بتدخل عاجل لإنهاء أزمة الهواتف الموقوفة في مصر، بينما شهدت التكنولوجيا إعلانات تقنية جديدة تشمل الذكاء الاصطناعي وتطوير التطبيقات."
  ],
  "ai": {
-  "at": "2026-11-18T22:25:20.000Z",
+  "at": "2026-11-19T01:45:19.846Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T01:35:19.800Z"
+  "key": 1,
+  "impacts": 6
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5664,
-   "change": -2.89,
-   "asOf": "2026-11-19T01:26:18.000Z",
+   "value": 5648,
+   "change": -3.15,
+   "asOf": "2026-11-19T01:35:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6466,
-   "change": -2.89,
-   "asOf": "2026-11-19T01:26:18.000Z",
+   "value": 6449,
+   "change": -3.15,
+   "asOf": "2026-11-19T01:35:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3749,
-   "change": -2.98,
-   "asOf": "2026-11-19T01:26:18.000Z",
+   "value": 3739,
+   "change": -3.24,
+   "asOf": "2026-11-19T01:35:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": -0.15,
-   "asOf": "2026-11-19T01:35:48.000Z",
+   "value": 1.0978,
+   "change": -0.14,
+   "asOf": "2026-11-19T01:45:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.36,
-   "change": -4.06,
-   "asOf": "2026-11-19T01:25:23.000Z",
+   "value": 89.43,
+   "change": -3.98,
+   "asOf": "2026-11-19T01:35:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62387,
-   "change": -3.86,
-   "asOf": "2026-11-19T01:36:17.000Z",
+   "value": 62686,
+   "change": -3.4,
+   "asOf": "2026-11-19T01:45:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +137,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الحكام والقنوات.. 7 معلومات بارزة عن مباراة مصر واليونان بمونديال الناشئين",
+     "url": "https://www.elbalad.news/7186255",
+     "source": "صدى البلد",
+     "time": "2026-11-19T01:35:54.000Z",
+     "seen": "2026-11-19T01:45:19.846Z"
+    },
+    {
      "title": "دعاء الرزق بعد صلاة الفجر.. كلمات رددها بعد الأذان لتفتح لك الأبواب المغلقة",
      "url": "https://www.elbalad.news/7186253",
      "source": "صدى البلد",
@@ -151,7 +155,8 @@
      "url": "https://www.youm7.com/story/2026/11/19/جامعة-القاهرة-تستلم-290-فدانا-بأكتوبر-الجديدة-لإنشاء-قصر-العينى/7621622",
      "source": "اليوم السابع",
      "time": "2026-11-19T01:30:00.000Z",
-     "seen": "2026-11-19T01:35:19.800Z"
+     "seen": "2026-11-19T01:35:19.800Z",
+     "impact": "تفید الطلاب والمواطنين بتوفير منشآت طبية وتعليمية جديدة في مدينة أكتوبر الجديدة."
     },
     {
      "title": "محمد مراد: فترة حسام حسن هي الأنجح.. وبيئة العمل داخل المنتخب لم تكن مناسبة",
@@ -161,18 +166,12 @@
      "seen": "2026-11-19T01:35:19.800Z"
     },
     {
-     "title": "منتخب غينيا يواجه شبح الإقصاء من كأس أمم إفريقيا| تفاصيل صادمة",
-     "url": "https://www.elbalad.news/7186251",
-     "source": "صدى البلد",
-     "time": "2026-11-19T01:23:20.000Z",
-     "seen": "2026-11-19T01:25:19.701Z"
-    },
-    {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YTGNpUWdfQlViaXN2RG85bHV1UExNc1ZMZ005eW9taHdiWDFGQnp1WkY0YUFUZ0J1WGFWWWE2TnJLc2JHNUhRaWZWYnZUeERtWWdma1U4Nk9JejNPSG00?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-19T01:20:00.000Z",
-     "seen": "2026-11-19T01:25:19.701Z"
+     "seen": "2026-11-19T01:25:19.701Z",
+     "impact": "تمس الموظفين والعاملين في مصر بشكل مباشر لتطبيقاتها الجديدة على تنظيم سوق العمل."
     },
     {
      "title": "فاكسيرا تعلن توافر تطعيم الإنفلونزا الموسمية بمراكزها وتكشف طرق السداد",
@@ -248,7 +247,8 @@
      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNVUJhQ2lZcmFfc0ZUUGpDSWZwSHZSalprU0NTOUxHeTlmQ2lxMTJRM3VyQXJKWks4SzBveHAzMGxxc0VNaEo3NkJ0UVRVZ3I2UUstQ3ZOcFN3am13aHRBaUQxcmMtYVhLWWNmQkdOQU1qWjdMek9XbWhDakVJTnRKNV9EazAzRHJ1Mkd6d2x2NnJnUDM1ZG5ib0Z0dTg1ZkhkMU55X1NpLXVYZm0zTDNxdU82d2FvNHdCX3B5eW9xUFZKQzEwaUtpaElVMUFpZ3o5WTdyU0Z1Qzk1RUREQzVraVRtLWJlVmx3TDg5ZXhISGRRZEpZSnlfLTBPV3o0cUhWaDlGVm9TSjhPYTZzOHAtcXZicmV0S0NhTFRyM2J3OUJmYUtzcEVDRTJVZEF5amxYd2lSQTNoNXpYSEpadFBSMU42SnBhZWpLWVBzbGpNcEpINElrQjBLSDNGSHVPTFpOWkxzOHRfN3ZUX3NHaXZNUzl2SW1LdFdZcnJSVXRsZHR3QlZwa3JvRlJ2RzAyVzdfVnU1bWpXX2NZZF9vQkxENGdmRHFWRUxmQWdKMDYtY0psV0pXWHo3aTNPbWxoTk8xWXl1eHdKVE1oN3ZKRU9RWmplcS1LUGVQ?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-19T00:50:27.000Z",
-     "seen": "2026-11-19T01:05:20.129Z"
+     "seen": "2026-11-19T01:05:20.129Z",
+     "impact": "تفيد المستثمرين والأفراد في مصر بمتابعة حجم السيولة الأجنبية والتمويلات المدعمة للاقتصاد."
     },
     {
      "title": "فرس النهر \"فيونا\" تخضع للرعاية الطبية بعد ابتلاعها قبعة في حديقة حيوان سينسيناتي",
@@ -262,14 +262,16 @@
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQTJJWElEYklnaHhRWmF3LTZjZUVIZTBCVDJUdS0yV1htdm9GOHEzSGxhLTlQaWhncHFwTS1SOTV2VUhn?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-19T00:41:16.000Z",
-     "seen": "2026-11-18T23:15:20.239Z"
+     "seen": "2026-11-18T23:15:20.239Z",
+     "impact": "تساعد المستثمرين والأفراد على التخطيط المالي وتحديد تكاليف الواردات بناءً على استقرار الدولار."
     },
     {
      "title": "سعر الدولار على مدار الساعة.. 53.77 جنيه شراء الأخضر فى بنك البركة",
      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcnRPS3dIUmtuMm1ZUzk1X0N1a3FMZ2lBR3JoaFU2RzhJRG1uaU5aTWRxekFoRXNwLTJfZFk1LWJPRldPLTBoVmFOM21Fa0kzTUdfOHVRUkV4WExVaV81QTdRRHN1X2NTblNsRnlTYk9wNE9FV2lvRXBpeENhOExNb2ZMYWhzNHVUTnR6Q29XSXRIajRIbXp0eWRrb0JodlFpd0RnTkNDaVNvSHJTeEwtZ3d5a3dIaUFNS3pLeG5pLWt2U0Y0RlJzTG45M0d2RG9vN1hBX2RrenhwalEzMDVtakw1MUFmTmhyenduMXBjbEtlUUhQbi1GOUx0Q3ZEU00yUk9WTF9lM1JPM253Skh0X2VMNi04b3JOMjkxM1lYU2tyeW5PVWpIMDI3amE0a0RmVWJjSDIxS3FvSEp0NTJRUzRKNTFCdVFEZXZWSDlDUDVDRUpoejVrVFJweHc0dzRCQk1aa3Mwa09CQTBEcGUtWFBEQnh5clFTWm9XdGRYWjhHbnE3dVhtRWR6Qk9pR0XSAY8DQVVfeXFMUHJ0T0t3SFJrbjJtWVM5NV9DdWtxTGdpQUdyaGhVNkc4SURtbmlOWk1kcXpBaEVzcC0yX2RZNS1iT0ZXTy0waFZhTjNtRWtJM01HXzh1UVJFeFhMVWlfNUE3UURzdV9jU25TbEZ5U2JPcDRPRVdpb0VwaXhDYThMTW9mTGFoczR1VE50ekNvV0l0SGo0SG16dHlka29CaHZRaXdEZ05DQ2lTb0hyU3hMLWd3eWt3SGlBTUt6S3huaS1rdlNGNEZSc0xuOTNHdkRvbzdYQV9ka3p4cGpRMzA1bWpMNTFBZk5ocnp3bjFwY2xLZVFIUG4tRjlMdEN2RFNNMlJPVkxfZTNSTzNud0pIdF9lTDYtOG9yTjI5MTNZWFNrcnluT1VqSDAyN2phNGtEZlViY0gyMUtxb0hKdDUyUVM0SjUxQnVRRGV2Vkg5Q1A1Q0VKaHo1a1RScHh3NHc0QkJNWmtzMGtPQkEwRHBlLVhQREJ4eXJRU1pvV3RkWFo4R25xN3VYbUVkekJPaUdF?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T00:03:12.000Z",
-     "seen": "2026-11-19T00:55:19.823Z"
+     "seen": "2026-11-19T00:55:19.823Z",
+     "impact": "توفر للمتعاملين بالعملة في مصر السعر المحدد لشراء الدولار في بنك البركة."
     },
     {
      "title": "الدولار يستقر أمام الجنيه بالبنوك المصرية اليوم الخميس 19 نوفمبر 2026",
@@ -454,6 +456,14 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "«الناس ماسكة في بعض».. شعبة المحمول تطالب بتدخل عاجل لإنهاء أزمة الهواتف الموقوفة",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzNlQ3dzBvbGhtUnJmV0xLYXRWYTNmd3RCLUxUb1g4THpSNGVoMDlIZnljRjN1TU5VVllqSWUzcE9FblI2MWw4OUxjdmpzcXhOejExOUNMVmU5bXIwZGRF?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-18T22:17:00.000Z",
+     "seen": "2026-11-19T01:45:19.846Z",
+     "impact": "تؤثر على تجار ومشتري الهواتف الذكية في مصر للوقوف على التطورات الخاصة بالأجهزة الموقوفة."
+    },
+    {
      "title": "جوجل تكشف Stitch Loop لتحسين التطبيقات بعد إطلاقها",
      "url": "https://aitnews.com/2026/11/19/google-stitch-loop/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -546,13 +556,6 @@
      "time": "2026-11-18T16:38:24.000Z",
      "seen": "2026-11-18T10:43:20.154Z",
      "impact": "أعطال البنية الرقمية العالمية قد تؤثر على الشركات والأفراد الذين يعتمدون على الخدمات والأنظمة السحابية والتقنية الدولية."
-    },
-    {
-     "title": "مزايا أمنية وصحية جديدة في تحديث One UI 9.5 لسلسلة Galaxy S26",
-     "url": "https://www.tech-wd.com/wd/2026/11/18/%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%88%d8%b5%d8%ad%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%84%d8%b3%d9%84/",
-     "source": "عالم التقنية",
-     "time": "2026-11-18T16:08:40.000Z",
-     "seen": "2026-11-18T16:13:33.298Z"
     }
    ]
   }
