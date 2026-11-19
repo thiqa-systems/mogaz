@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:16:49.652Z",
+ "updated": "2026-11-19T07:26:50.170Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-19T07:16:49.652Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T07:26:50.170Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.71,
-   "change": 0.04,
-   "asOf": "2026-11-19T07:16:16.000Z",
+   "value": 53.77,
+   "change": 0.15,
+   "asOf": "2026-11-19T07:26:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5649,
-   "change": -0.05,
-   "asOf": "2026-11-19T07:06:52.000Z",
+   "value": 5655,
+   "change": 0.05,
+   "asOf": "2026-11-19T07:16:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6449,
-   "change": -0.05,
-   "asOf": "2026-11-19T07:06:52.000Z",
+   "value": 6456,
+   "change": 0.05,
+   "asOf": "2026-11-19T07:16:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3739,
-   "change": -0.09,
-   "asOf": "2026-11-19T07:06:52.000Z",
+   "value": 3738,
+   "change": -0.1,
+   "asOf": "2026-11-19T07:16:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0979,
-   "change": -0.13,
-   "asOf": "2026-11-19T07:16:45.000Z",
+   "value": 1.0978,
+   "change": -0.14,
+   "asOf": "2026-11-19T07:26:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.64,
-   "change": -2.51,
-   "asOf": "2026-11-19T07:06:37.000Z",
+   "value": 89.65,
+   "change": -2.5,
+   "asOf": "2026-11-19T07:16:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63578,
-   "change": 0.94,
-   "asOf": "2026-11-19T07:17:03.000Z",
+   "value": 63519,
+   "change": 0.84,
+   "asOf": "2026-11-19T07:26:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بفارق 240 قرشا.. سعر صرف الدولار مقابل الجنيه اليوم الخميس بمستهل التعاملات",
-     "url": "https://www.elbalad.news/7186345",
+     "title": "\"أنثروبيك\" تجمع 81.3 مليار دولار في أكبر طرح عام أولي في التاريخ بقيمة 1.5 تريليون دولار",
+     "url": "https://www.elbalad.news/7186360",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:14:53.000Z",
-     "seen": "2026-11-19T07:16:49.652Z"
+     "time": "2026-11-19T07:26:20.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
     },
     {
-     "title": "الأوقاف: اليوم العالمي للفلسفة يعزز التفكير النقدي ويدعم ثقافة الحوار والتسامح",
-     "url": "https://www.elbalad.news/7186346",
+     "title": "قائد الجيش اللبناني: ملتزمون بإنجاح قرارات السلطة السياسية واستكمال الانتشار في الجنوب",
+     "url": "https://www.elbalad.news/7186354",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:13:23.000Z",
-     "seen": "2026-11-19T07:16:49.652Z"
+     "time": "2026-11-19T07:22:21.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
     },
     {
-     "title": "لمدة 15 ساعة| غلق كلي لكوبري قصر النيل.. المواعيد والطرق البديلة",
-     "url": "https://www.elbalad.news/7186342",
+     "title": "جامعة القاهرة تتقدم 17 مركزا فى تصنيف التايمز للعلوم متعددة التخصصات لعام 2027",
+     "url": "https://www.youm7.com/story/2026/11/19/جامعة-القاهرة-تتقدم-17-مركزا-فى-تصنيف-التايمز-للعلوم-متعددة/7624224",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T07:22:00.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
+    },
+    {
+     "title": "كرم كردي: محمد صلاح أهم عنصر في المنتخب.. ولو كنت مكان أبو ريدة لسافرت له تركيا",
+     "url": "https://www.elbalad.news/7186350",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:12:34.000Z",
-     "seen": "2026-11-19T07:16:49.652Z"
+     "time": "2026-11-19T07:21:52.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
     },
     {
      "title": "وزير الخارجية لرئيس النواب الأمريكى: الشراكة المصرية الأمريكية ركيزة لدعم الاستقرار",
@@ -172,13 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T07:00:00.000Z",
      "seen": "2026-11-19T07:06:49.775Z"
-    },
-    {
-     "title": "وزير الخارجية: مصر بقيادة فخامة الرئيس تعمل باستمرار على خفض التصعيد بالمنطقة",
-     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-مصر-بقيادة-فخامة-الرئيس-تعمل-باستمرار-على-خفض/7624218",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T06:53:00.000Z",
-     "seen": "2026-11-19T06:56:49.897Z"
     },
     {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
@@ -244,11 +244,25 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "التحالف يعلن عن أضرار مادية إثر هجوم صاروخي للحوثيين على الرياض",
+     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T07:18:03.000Z",
+     "seen": "2026-11-18T19:44:52.573Z"
+    },
+    {
      "title": "سعر الدولار في مصر اليوم الخميس 19/11/2026",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1aWJWbXZhN01peVFrT2cxY3JvMlpsQl8ydjc3R0t6NXY4M1p5emVRVkZWbHltT1A1cFhxRWlYN1lic0E1MFB6UDh2bXVGR2dEeXIyenNn?oc=5",
      "source": "جريدة البورصة",
      "time": "2026-11-19T07:05:00.000Z",
      "seen": "2026-11-19T07:06:49.775Z"
+    },
+    {
+     "title": "سعر الدولار مقابل الجنيه الخميس 19 نوفمبر 2026 داخل البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOMTJITjVQYzNnMThDTTNpb3U3bWhMVFVMWHU5MDdxbGdmc3pWSE1Ga1lCVXgxMm9YMm5xUmlnU1VNNVlNZlQ5SXM2d01HcTI4UUJjbHoxWWtRTXhsbmJwbnIwZjd0OE5DT2hYT3V6OFp2aW53NGZFQ3l2S1l1Vl9DUUFaQlJSVHFxUGYzR0NsblZ5S0NaNTZuLUh6VkJBdW5seTQtMTc2TzZYUUVpWmpzZFhMVzNrM0pKNEc3bi04MW9LU2R2QzgzUl9mN2pULUJFdDNuV0NwbW1SNGQwQjU4SThHQlVaVjZaZnNwaTEzUEI4OHNHWjJuS3VGblRwVE00X0lBS2J0T0hPMW1aUUQzN2tMeFBEQS1scW9LUTctWVItaXlrRjhOQmNZYng5VlVrZzloUFdFbHlfdTlscldTTk8tc2ZVNU12Tm1XdHI2WFYwTGpYbDVMM19kblZWNkRGUHlPcE14RHBGcW0xMjZwNWg1clU5XzdMUWZCY1pqMHQwa3R2amxEU0VWaVQ1SGt2cGRXSThqM3BGUkhpbnJVNzJweUZucUtwRkhBQWhvdHNZc3YtNE8zalN5c3BmZzZaRUJ2Tmc0a3Q5TlBGMnM2MVQ2bGx3d0VVa1BuWlhYTW9UZUFmaks2THJleUtCRDhRcWZLbnVoQTdjZUVXQjVlREdGbk1UaHRWNUE?oc=5",
+     "source": "CNN الاقتصادية",
+     "time": "2026-11-19T06:57:21.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
     },
     {
      "title": "سعر الدولار اليوم الخميس 19 نوفمبر 2026 في البنوك المصرية.. تحديث الشراء والبيع",
@@ -301,13 +315,6 @@
      "impact": "تساعد المستثمرين والأفراد على التخطيط المالي وتحديد تكاليف الواردات بناءً على استقرار الدولار."
     },
     {
-     "title": "التحالف يعلن عن أضرار مادية إثر هجوم صاروخي للحوثيين على الرياض",
-     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T05:06:40.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
-    },
-    {
      "title": "سعر الدولار اليوم الخميس 19-11-2026 في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yNER1Qi1uR1BrYnctYzloM0FqZmRMSGtTUkg0VkR2OVhNVzliOHVwOXc4WFdsLWJreUR0SWR3ZHNYNFpiYS1j?oc=5",
      "source": "صدى البلد",
@@ -320,13 +327,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T04:02:53.000Z",
      "seen": "2026-11-19T04:36:49.869Z"
-    },
-    {
-     "title": "انهيار الذهب: هل يمهد السقوط الدراماتيكي لانطلاقة جديدة نحو 6,000 دولار؟",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTk5WUzkyRG5tVE84b1VfRXo3MFg3VnBOYk42NXdHcHRjM1FOQUxYVzRLbURjNkREUWZXNmhoZGZxY29nNFFNdVFGaThmMHNZVjN0RDhnbFdzcWhhejhNYw?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-19T03:49:01.000Z",
-     "seen": "2026-11-19T03:05:20.263Z"
     },
     {
      "title": "أسعار الذهب اليوم الخميس 19 نوفمبر 2026 في مصر.. تحديث فوري",
@@ -349,6 +349,27 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "إيران توسع نطاق هجماتها في الخليج.. ما الرسالة وراء ذلك؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/iran-widens-gulf-attacks-after-us-strikes-missile-launch-site",
+     "source": "CNN بالعربية",
+     "time": "2026-11-19T07:19:41.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
+    },
+    {
+     "title": "ألمانيا.. لماذا تتصدر قائمة الوجهات المفضلة للطلاب الدوليين؟",
+     "url": "https://www.dw.com/ar/ألمانيا-لماذا-تتصدر-قائمة-الوجهات-المفضلة-للطلاب-الدوليين؟/a-79979696?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-19T07:18:00.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
+    },
+    {
+     "title": "الشراكة السورية-الأوروبية .. تاريخ من المد والجزر على وقع المصالح وحقوق الإنسان",
+     "url": "https://www.dw.com/ar/الشراكة-السورية-الأوروبية-تاريخ-من-المد-والجزر-على-وقع-المصالح-وحقوق-الإنسان/a-79980696?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-19T07:16:00.000Z",
+     "seen": "2026-11-19T07:26:50.170Z"
+    },
     {
      "title": "\"ما حد عرف قيمته إلا دلوقتي\".. علاء مبارك ينشر كلمات والده عن السادات",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/alaa-mubarak-publishes-father-words-elsadat",
@@ -399,13 +420,6 @@
      "seen": "2026-11-19T02:45:20.130Z"
     },
     {
-     "title": "ترامب يصر على أن مذكرة التفاهم الفاشلة مع إيران \"لم تكن خطأً\" ويوضح لماذا",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/trump-says-failed-memorandum-of-understanding-with-iran-was-not-a-mistake",
-     "source": "CNN بالعربية",
-     "time": "2026-11-19T05:23:01.000Z",
-     "seen": "2026-11-19T05:26:49.862Z"
-    },
-    {
      "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
      "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQZ2Rxay0wM29YcGxaMEh3NjdYQnNMRXY1bUxfUUdvS2FoWk1vbElPSUhRNklxZEpJZWdOemREMmZ3dTVncEg3X2ZfbE5aRklnR042TlhpOURLWENjWFRMNXR6alpvTGxaVWFMNTFoaHN3bXJKc1hTenlzTDdadjJSSjRRY245WkhVeUJwQXJYYkFKMFZmS0dZQlpNUGFsVHE4djdrbm5tUWdmT2I0SzNMZFFKeE9hV184cjc0NEFmbWNmMmZzVFVxNG1Od1ZMOF92cE1Bc1dYcGItcHlZVnVtY2lqUHJONUZvLU5wbDJ2dmdobmdBMDd6UDRVRGFNa1pTTElEWGJqRDI5bVpzdEg3ZWxuOTNtbzF6V2NqSDhWRW1sTFVEZjRDb0RtUUZZd21hNTdyNzk2R3ZhQ3F2RU1mZWZBM1QtTWR1TFk2VUd3TEw5THRsQlV4Z0FlVW5TNGNPM1BCU2NBTlhkcU5WMmt5eFBFeXR6Q2J1NVVfMF81ZlRKSmlGbGdwM0xoOW5FMDdEa0FfMjVRb24xaGhUcndLY2kzNDBMOEo1RXlhWVNES1hqRjlKMXNtZXpGMWdwZmRMcEVjUmdMalV4dHU5Mm9OQUZnNV9vNVZ4bDZYZWNIYnFJcGl0aXNpY0dhaDZiQWNtUXhUTEFfVVRjVjA0eng4MktCdTllWjRLRjVSRVcyUlRuMFZuYWhEWVNKMzdVMmRLQml0cHVsTFN1T2JRaERtOHE0RU1vZlZBNTJBLWdwWlg3SW9yNkhpUjZVSzBHY3pZQ3VqeDJGTWM0TTkzaktZQ3h6dFhRWVZnN2h5S3dkVlZQV09Hbmw0N1B5Vkp2bm1kWkh4N04tbzgyRzFCUEE?oc=5",
      "source": "الشرق الأوسط",
@@ -432,20 +446,6 @@
      "source": "فرانس 24",
      "time": "2026-11-19T04:22:19.000Z",
      "seen": "2026-11-19T04:26:49.495Z"
-    },
-    {
-     "title": "وكالة الطاقة: أزمة مضيق هرمز أكبر تهديد لأمن الطاقة في التاريخ",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a3%d8%b2%d9%85%d8%a9-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2-%d8%a3%d9%83%d8%a8%d8%b1-%d8%aa%d9%87%d8%af%d9%8a%d8%af?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-19T03:54:34.000Z",
-     "seen": "2026-11-19T07:06:49.775Z"
-    },
-    {
-     "title": "عملية \"فجر اليمن\" تتواصل.. وخسائر جديدة في صفوف الحوثيين",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPbzh6QUt6VmdEcTZCUTRJZEdEVGwxX2xxc0tCeV95X3JQeVNxZllwamhYbmtwQmJSV2I4UGN1WVI1SW1uemlwM2NMLW9oUmdsSWpmczhvTV9pUkhmbWxJbzhSSHZLUTlBQzl3RzhmcENMbTdUTFNIOXVyX2ctV1NJTWJpeFlXUmsycnU4N3JZZmpHMlJyVm1UTzFHRjkwaXo2bWlDdEQ1cG1rMWVPTXdZRjEtV2ZOQTc3bTlZckRaNVFyQkM1MnRQRHZwMDVjRU83TzROVzgtM2tSVGo2N284Q0VNZzFVS2JkYWFMYTJCQmxhZzRoR1E5SUlqRmtlSldJWURXMXVxazJJOWJyUl9OMHlkd0VqY0hfMjVvMzRpVHFaajF0aTZEZE5jYWk5a1N0RmpoM3VwUnFPMDJOTml3c1d5d1NycUgweTAtTVNJR21TSGtQTE9HMlBHZktZSlVCN3Vld01xUTh3VEVjcHEwSTV0OHFFUFA1dHNQZTZ2bzVRMlk5MlFJUEFTbU9TQnMyY3dIN1dxUVREUVkzVWR3a1ZfMGR3RTY4ejJ3ampOM2FQLXNUWEkwQ1JUOG9TVmFZcHdxUWJTTUdicHFrZmdBTUpJd00?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T03:49:00.000Z",
-     "seen": "2026-11-19T07:06:49.775Z"
     }
    ]
   },
