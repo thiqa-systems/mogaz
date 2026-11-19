@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:15:19.733Z",
+ "updated": "2026-11-19T01:25:19.701Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T01:15:19.733Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T01:25:19.701Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5667,
-   "change": -2.84,
-   "asOf": "2026-11-19T01:06:23.000Z",
+   "value": 5670,
+   "change": -2.79,
+   "asOf": "2026-11-19T01:16:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6470,
-   "change": -2.84,
-   "asOf": "2026-11-19T01:06:23.000Z",
+   "value": 6473,
+   "change": -2.79,
+   "asOf": "2026-11-19T01:16:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3751,
-   "change": -2.93,
-   "asOf": "2026-11-19T01:06:23.000Z",
+   "value": 3753,
+   "change": -2.88,
+   "asOf": "2026-11-19T01:16:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0977,
    "change": -0.14,
-   "asOf": "2026-11-19T01:15:47.000Z",
+   "asOf": "2026-11-19T01:25:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.05,
-   "change": -4.39,
-   "asOf": "2026-11-19T01:06:22.000Z",
+   "value": 89.35,
+   "change": -4.07,
+   "asOf": "2026-11-19T01:16:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62903,
-   "change": -3.07,
-   "asOf": "2026-11-19T01:16:19.000Z",
+   "value": 62733,
+   "change": -3.33,
+   "asOf": "2026-11-19T01:26:20.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "منتخب غينيا يواجه شبح الإقصاء من كأس أمم إفريقيا| تفاصيل صادمة",
+     "url": "https://www.elbalad.news/7186251",
+     "source": "صدى البلد",
+     "time": "2026-11-19T01:23:20.000Z",
+     "seen": "2026-11-19T01:25:19.701Z"
+    },
+    {
+     "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YTGNpUWdfQlViaXN2RG85bHV1UExNc1ZMZ005eW9taHdiWDFGQnp1WkY0YUFUZ0J1WGFWWWE2TnJLc2JHNUhRaWZWYnZUeERtWWdma1U4Nk9JejNPSG00?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-19T01:20:00.000Z",
+     "seen": "2026-11-19T01:25:19.701Z"
+    },
+    {
      "title": "مصر واليونان بمونديال الناشئين.. مباريات اليوم الخميس 19-11-2026 والقنوات الناقلة",
      "url": "https://www.elbalad.news/7186247",
      "source": "صدى البلد",
@@ -164,13 +178,6 @@
      "title": "جامعة القاهرة تنظم اليوم مائدة مستديرة بعنوان \"كلية الإعلام: رؤى مستقبلية\"",
      "url": "https://www.youm7.com/story/2026/11/19/جامعة-القاهرة-تنظم-اليوم-مائدة-مستديرة-بعنوان-كلية-الإعلام-رؤى/7623175",
      "source": "اليوم السابع",
-     "time": "2026-11-19T01:00:00.000Z",
-     "seen": "2026-11-19T01:05:20.129Z"
-    },
-    {
-     "title": "أحمد عبدالحليم: شركة الكرة خطوة مهمة لدعم الزمالك.. ومواجهة الجونة ستكون قوية",
-     "url": "https://www.elbalad.news/7186194",
-     "source": "صدى البلد",
      "time": "2026-11-19T01:00:00.000Z",
      "seen": "2026-11-19T01:05:20.129Z"
     },
@@ -229,13 +236,6 @@
      "source": "Masrawy",
      "time": "2026-11-18T19:42:49.000Z",
      "seen": "2026-11-18T21:44:52.305Z"
-    },
-    {
-     "title": "مدبولي: الذكاء الاصطناعي والمدفوعات الرقمية وتمويل التجارة محاور لتطوير منظومة التجارة الخارجية",
-     "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQVi1fZzNNNTBMeFRnT052aVVUbENIeGNuVFF0SzdDaldSaFVqNk00Rm5telNyUlFtU25ZcnhSSFRjSWtWTkNfZ1oyWjV5OHAtME9hWjA3UzBXSnByR0ZiUTE0MGtSVVZGeFZlNlhGWTVPNFVZQ2FkV1dZWVpBSEFCUVVYa1d3d2JiMnhhUDVXeFZhekNqVkdHMUNzYkIybjNCVVZNSWZITFY2YnhFcm9MVlFtSjVzN2NTSGlzcXh4SWh4QXRiaEpzdWFHZjk4Q184bTRKeHJYaktaZ21tS1dNaVFqMGdIWkFKQnA3dWVHaUlWTXZmSlBsYmx1a2MzV3R1MmhwV0t3Y3pTdk43MTA2NXZ0Zm9teF84UmdkOHg0N3E0MzhEM2tQNl9aM2I0NGVjSER4QkhHbGh2MHVZbFl6VzVlbVhoUU10Wmp5cnpGNzNOTW5aWGJWaGV3UzVTZHJpTURqVGstQmVDYjNKWnFvU1R0cFJ3OU5Rek85M09SNmc1NHVtT3JlVVdNVWlUeU5sQUx6a0VlZWtNOTQ0Q2QtWHg3MUtrZURxaXpIaHZieEk4ckpRcUc2MGQ3T1EyVlJjWU16ak45c2ZyLWZjaVpSNzFJN0huVFNCdW45UzNUdVRvaUpUa3c?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-18T19:33:31.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
     }
    ]
   },
@@ -413,6 +413,13 @@
      "seen": "2026-11-18T22:15:19.578Z"
     },
     {
+     "title": "أجانب في وطنهم.. مسلمو إسبانيا قبل الانتخابات",
+     "url": "https://www.aljazeera.net/opinions/2026/11/19/%d8%a3%d8%ac%d8%a7%d9%86%d8%a8-%d9%81%d9%8a-%d9%88%d8%b7%d9%86%d9%87%d9%85-%d9%85%d8%b3%d9%84%d9%85%d9%88-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%82%d8%a8%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-18T22:02:25.000Z",
+     "seen": "2026-11-19T01:25:19.701Z"
+    },
+    {
      "title": "بعد خطف واعتداء على مطران.. بطاركة يطالبون بحماية المسيحيين في سوريا",
      "url": "https://www.dw.com/ar/بعد-خطف-واعتداء-على-مطران-بطاركة-يطالبون-بحماية-المسيحيين-في-سوريا/a-79986214?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -438,13 +445,6 @@
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/sisi-comments-on-congress-honoring-sadat",
      "source": "CNN بالعربية",
      "time": "2026-11-18T21:02:13.000Z",
-     "seen": "2026-11-18T21:04:52.843Z"
-    },
-    {
-     "title": "من كنيسة حوّلها داعش إلى سجن.. دعوة لفتح قنصلية ألمانية في الموصل",
-     "url": "https://www.dw.com/ar/من-كنيسة-حوّلها-داعش-إلى-سجن-دعوة-لفتح-قنصلية-ألمانية-في-الموصل/a-79986135?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-18T20:47:00.000Z",
      "seen": "2026-11-18T21:04:52.843Z"
     }
    ]
@@ -557,12 +557,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
