@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:48:22.697Z",
+ "updated": "2026-11-19T09:58:23.192Z",
  "minute": [
   "متابعة مستمرة لأسعار العملات الأجنبية والعربية في البنوك المصرية مع تراجع سعر الدولار وتخليه عن مكاسبه.",
   "تحديد طرق بديلة للمواطنين والسائقين عقب الإغلاق الكلي لكوبري قصر النيل بالقاهرة.",
@@ -11,71 +11,71 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T09:48:22.697Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-19T09:58:23.192Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.81,
-   "change": 0.22,
-   "asOf": "2026-11-19T09:46:45.000Z",
+   "value": 53.84,
+   "change": 0.28,
+   "asOf": "2026-11-19T09:59:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5656,
-   "change": 0.08,
-   "asOf": "2026-11-19T09:39:25.000Z",
+   "value": 5650,
+   "change": -0.04,
+   "asOf": "2026-11-19T09:50:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6458,
-   "change": 0.08,
-   "asOf": "2026-11-19T09:39:25.000Z",
+   "value": 6450,
+   "change": -0.04,
+   "asOf": "2026-11-19T09:50:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3736,
-   "change": -0.15,
-   "asOf": "2026-11-19T09:39:25.000Z",
+   "value": 3730,
+   "change": -0.32,
+   "asOf": "2026-11-19T09:50:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51425,
-   "change": -0.23,
-   "asOf": "2026-11-19T09:34:26.000Z",
+   "value": 51439,
+   "change": -0.21,
+   "asOf": "2026-11-19T09:44:59.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1,
-   "change": 0.06,
-   "asOf": "2026-11-19T09:48:43.000Z",
+   "value": 1.0995,
+   "change": 0.02,
+   "asOf": "2026-11-19T09:59:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.17,
-   "change": -3.02,
-   "asOf": "2026-11-19T09:39:22.000Z",
+   "value": 89.26,
+   "change": -2.93,
+   "asOf": "2026-11-19T09:48:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63752,
-   "change": 1.21,
-   "asOf": "2026-11-19T09:49:21.000Z",
+   "value": 63785,
+   "change": 1.27,
+   "asOf": "2026-11-19T09:59:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "طلبات تعيين بالوساطة.. القصة الكاملة لرسائل واتساب كامل الوزير أمام النيابة",
-     "url": "https://www.elbalad.news/7186543",
+     "title": "28 طالبة في المستشفى.. الأمن يكشف تفاصيل واقعة بخاخ مدرسة عين شمس",
+     "url": "https://www.elbalad.news/7186554",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:47:38.000Z",
-     "seen": "2026-11-19T09:48:22.697Z"
+     "time": "2026-11-19T09:57:32.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
     },
     {
-     "title": "رئيسة بيرو تزور اليابان في مسعى للحصول على دعم لمواجهة أضرار ظاهرة \"إل نينيو\"",
-     "url": "https://www.elbalad.news/7186545",
+     "title": "تحالف دعم الشرعية: اعتراض و تدمير 4 صواريخ باليستية باتجاه المنطقة الجنوبية",
+     "url": "https://www.elbalad.news/7186551",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:47:37.000Z",
-     "seen": "2026-11-19T09:48:22.697Z"
+     "time": "2026-11-19T09:54:47.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
     },
     {
-     "title": "بدون معارضة .. البرلمان الدنماركي يقر اتفاقية الأمن بشأن جرينلاند",
-     "url": "https://www.elbalad.news/7186541",
+     "title": "الخطر قادم.. السعودية تطلق إنذار مبكر في نجران",
+     "url": "https://www.elbalad.news/7186549",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:46:20.000Z",
-     "seen": "2026-11-19T09:48:22.697Z"
+     "time": "2026-11-19T09:54:05.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
     },
     {
      "title": "مصطفى بكرى: مواطنون مستعدون لتقديم 100 كيلو ذهب وسيتم صرف مقابل قيمتها فورا بشهادة تثبت مصدر الأموال",
@@ -354,11 +354,25 @@
    "title": "العالم",
    "items": [
     {
-     "title": "منتخب المغرب يحقق أفضل ترتيب في تاريخه بارتقائه للمركز الخامس عالميا في تصنيف الفيفا",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%AD%D9%82%D9%82-%D8%A3%D9%81%D8%B6%D9%84-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87-%D8%A8%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A6%D9%87-%D9%84%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7",
+     "title": "انطلاق أعمال القمة الثلاثية بين شي وترامب وبوتين في مدينة شنجن الصينية",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B4%D9%8A-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B4%D9%86%D8%AC%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9",
      "source": "فرانس 24",
-     "time": "2026-11-19T09:17:30.000Z",
-     "seen": "2026-11-19T09:18:23.088Z"
+     "time": "2026-11-19T09:56:12.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
+    },
+    {
+     "title": "بعد 13 عاما من الانتظار... صدور لعبة \"جي تي إيه 6\" وسط توقعات بتحقيق إيرادات تاريخية",
+     "url": "https://www.france24.com/ar/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/20261119-%D8%A8%D8%B9%D8%AF-13-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B5%D8%AF%D9%88%D8%B1-%D9%84%D8%B9%D8%A8%D8%A9-%D8%AC%D9%8A-%D8%AA%D9%8A-%D8%A5%D9%8A%D9%87-6-%D9%88%D8%B3%D8%B7-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-19T09:55:39.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
+    },
+    {
+     "title": "الصحراء الغربية: هل تملأ واشنطن الفراغ الأممي؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%88%D8%AC%D9%87%D8%A7-%D9%84%D9%88%D8%AC%D9%87/20261119-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%87%D9%84-%D8%AA%D9%85%D9%84%D8%A3-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%BA-%D8%A7%D9%84%D8%A3%D9%85%D9%85%D9%8A-%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%8A%D9%86%D9%88%D8%B1%D8%B3%D9%88-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%BA%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+     "source": "فرانس 24",
+     "time": "2026-11-19T09:45:48.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
     },
     {
      "title": "حلفاء أوكرانيا يجتمعون في برلين وعيونهم على قمة ترامب وبوتين وشي",
@@ -366,21 +380,6 @@
      "source": "DW عربية",
      "time": "2026-11-19T09:00:00.000Z",
      "seen": "2026-11-19T09:08:22.482Z"
-    },
-    {
-     "title": "القمة الثلاثية في شنجن الصينية.. تقاطع مصالح كبرى بلا اختراقات متوقعة؟",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%86%D8%AC%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%83%D8%A8%D8%B1%D9%89-%D8%A8%D9%84%D8%A7-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-19T08:55:06.000Z",
-     "seen": "2026-11-19T08:58:22.443Z"
-    },
-    {
-     "title": "ترامب: لن نسمح بخنق الذكاء الاصطناعي عبر التنظيم العالمي",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D9%86-%D9%86%D8%B3%D9%85%D8%AD-%D8%A8%D8%AE%D9%86%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-19T08:48:43.000Z",
-     "seen": "2026-11-19T08:58:22.443Z",
-     "impact": "تلقي تصريحات الذكاء الاصطناعي الضوء للمستثمرين وشركات البرمجة على اتجاه القواعد التنظيمية للتقنية عالمياً."
     },
     {
      "title": "التحالف بقيادة السعودية يتحدث عن أضرار \"مادية\" بعد هجوم صاروخي لـ\"أنصار الله\" اليمنية على الرياض",
@@ -395,6 +394,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T08:21:47.000Z",
      "seen": "2026-11-19T08:26:49.747Z"
+    },
+    {
+     "title": "ترامب وبوتين ارتديا الأحمر وشى اختار الأزرق.. سر الأوشحة فى صورة قادة إيبك",
+     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOU0pFQ0tya0h5UWpDcDh4WlZMNlpaT0RYWDZSU1hYNS0xbG1OeWphWXVXbzhld3BMSVN5bU5rV2MxenhVcmJNLXMxdmMwQ3dIVG9xdkdnME04akVIdHFsS0RMUEVwaVRzUy05V25iRUQzRVFWVHhfSnZrLUwxdEV1RjFNSzlKQjNYSDBvb2p3NWV4S3NSVTNqTHY3UXAzZ2J4cTk1VEZtNDNUdlVHSWVUNTNodGtfX2k3T2xhanllLTBYRUY0WjVSRFRIaDUzaWN1VVc1V0tmeXlGS1BqWFNSRzJEQnZseGdmdVgxME1MRFdBMk90TG1LeUh6dWFWbWIwcWpMV0c2aTZySkhQeUxBRVdpemt1MWtxQjlfWVQ1U3VqX1dCT1JkWEpLZk5TbWxXU1lweXpsT1NoOUN6ZFdvZUlHaW80T1Vob0RuUUdmaUJhV25hdmdQZlluUEhObVV0U1ZrdGFTM1lmeFB6azY2VnBwWDdVRW5iX0NpM010Umg5TkVhOGxPMzFNOEhKV0U3TUZnTUlFTXNqODY4ZG42czlVWXJkZmFSMThiSEdXcVVMeGRya2doa3BYaVdOOUJQa0dUcFpkOEhzLXlSd2FOcFNDeW1WSEE5WGMyeTZaSDUwSkVpNFk40gHiA0FVX3lxTE5JUFgxRENhbFdoMk1DQ05zLUpnWlhEekw0S1Nab2tZbGNRcXVnbUlMcUFqbm1jeVEtRkROWXdpdXBSOEM2N0V5MnBEaFdhMy1fWG9lcFllRVJIOW8wR1R2NDlOZkVKZnREd0dEYU1relBNcFAtanBXZFFDZVc0cGxUMzJvMEFaMy1sZDJodUNLdFlBMnZObFl2emoyZHVWbksxZ0xROUhwRzZNdXhvaGltdE1LUTYyUjhvcWVEUzVzemt2NGVQTk11QXVITTdaa1llMkpnazByTktUbGF4Zk5RRC0tVVA0XzJuVzVRYzVodUFMN2xLMGlOZnI0d2FiVGEtd3lZeEhlMEc4S1hMTzR0eGdJd0tqWmZNT2QyYU9qblRNcVUtZkV5cTkyM1ZiM0g4MnE2dlJ2WHZMNEJKTmlGdzZJc2V2cFh1dGRWZkdYNFJqMnZZU25PWDRwVm04eFE5Z0VnelRnZWdIZXRyVHdTeldGVXhTcEc5dzdsaV85TEJDZDZuemhwNzc3T20xMjZuUGVzcDBiRWt2QXN4SWd3Z3p0X1B4SWVtZWY0cVF5RVJvS1U0UWFSWjdQQmpqZnlfSzd4MzFVRHQ0YUZuR3hya1JTcjZKNTdUWjE2RnJUVm9B?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T08:17:00.000Z",
+     "seen": "2026-11-19T09:58:23.192Z"
     },
     {
      "title": "وكالة الطاقة الدولية: الحرب مع إيران ستترك آثارا دائمة على أسواق الطاقة العالمية.",
@@ -443,13 +449,6 @@
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/alaa-mubarak-publishes-father-words-elsadat",
      "source": "CNN بالعربية",
      "time": "2026-11-19T06:51:22.000Z",
-     "seen": "2026-11-19T06:56:49.897Z"
-    },
-    {
-     "title": "خطة جديدة لجرف الصخر.. هل تتراجع سيطرة كتائب حزب الله؟",
-     "url": "https://www.skynewsarabia.com/middle-east/1905724-%D8%AE%D8%B7%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T06:50:17.000Z",
      "seen": "2026-11-19T06:56:49.897Z"
     }
    ]
@@ -562,6 +561,17 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "The operation was aborted due to timeout"
+  },
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "The operation was aborted due to timeout"
+  }
+ ],
  "marketErrors": []
 }
