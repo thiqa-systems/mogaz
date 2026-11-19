@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:08:22.552Z",
+ "updated": "2026-11-19T14:18:22.500Z",
  "minute": [
   "شهدت التطورات الاقتصادية تحركات جديدة في سعر صرف الدولار بالبنوك وتراجع حركة ناقلات الغاز المسال عبر مضيق هرمز.",
   "على الصعيد السياسي والدولي، بحث الرئيس السيسي التعاون وتوقيع اتفاقات مع الدبيبة، وصدر إعلان سلام في قمة جمعت ترامب وبوتين وشي.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T14:08:22.552Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-19T14:18:22.500Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.77,
    "change": 0.15,
-   "asOf": "2026-11-19T14:00:06.000Z",
+   "asOf": "2026-11-19T14:16:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5621,
-   "change": -0.55,
-   "asOf": "2026-11-19T13:58:25.000Z",
+   "value": 5618,
+   "change": -0.59,
+   "asOf": "2026-11-19T14:09:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6417,
-   "change": -0.55,
-   "asOf": "2026-11-19T13:58:25.000Z",
+   "value": 6414,
+   "change": -0.59,
+   "asOf": "2026-11-19T14:09:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3716,
-   "change": -0.7,
-   "asOf": "2026-11-19T13:58:25.000Z",
+   "value": 3714,
+   "change": -0.74,
+   "asOf": "2026-11-19T14:09:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1004,
-   "change": 0.1,
-   "asOf": "2026-11-19T14:07:43.000Z",
+   "value": 1.1008,
+   "change": 0.14,
+   "asOf": "2026-11-19T14:18:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.92,
-   "change": -2.21,
-   "asOf": "2026-11-19T13:57:53.000Z",
+   "value": 90.27,
+   "change": -1.83,
+   "asOf": "2026-11-19T14:08:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63870,
-   "change": 1.4,
-   "asOf": "2026-11-19T14:08:22.000Z",
+   "value": 63852,
+   "change": 1.37,
+   "asOf": "2026-11-19T14:19:19.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الزمالك يوقع عقود فرع النادي الجديد في حدائق أكتوبر",
-     "url": "https://www.elbalad.news/7186824",
+     "title": "مصر للطيران توقع عقدا مع شركة سعودية لتقديم خدمات المناولة الأرضية بمطارات المملكة",
+     "url": "https://www.elbalad.news/7186828",
      "source": "صدى البلد",
-     "time": "2026-11-19T14:07:17.000Z",
-     "seen": "2026-11-19T14:08:22.552Z"
+     "time": "2026-11-19T14:15:07.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
     },
     {
-     "title": "مدكور: التوسع في العيادات وزيادة ساعات العمل لمواجهة الزحام.. والتعاقد مع أكثر من 1000 منشأة طبية",
-     "url": "https://www.elbalad.news/7186825",
+     "title": "عيار 21 ينـ زف.. 215 جنيها فقدها في الصاغة الآن",
+     "url": "https://www.elbalad.news/7186830",
      "source": "صدى البلد",
-     "time": "2026-11-19T14:06:11.000Z",
-     "seen": "2026-11-19T14:08:22.552Z"
+     "time": "2026-11-19T14:15:03.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
     },
     {
-     "title": "خالد الغندور: مصطفى الزناري خارج مباراتي الجونة والأفريقي التونسي",
-     "url": "https://www.elbalad.news/7186823",
+     "title": "رئيس نادي المقاولون العرب: لدينا قطاع ناشئين مميز ومحمد عبدالناصر لاعب الأهلي الجديد خير مثال",
+     "url": "https://www.elbalad.news/7186827",
      "source": "صدى البلد",
-     "time": "2026-11-19T14:05:19.000Z",
-     "seen": "2026-11-19T14:08:22.552Z"
+     "time": "2026-11-19T14:13:30.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
+    },
+    {
+     "title": "مدبولي يعقد اجتماعا لبحث فرص تعظيم الاستفادة من قضبان التسليح المركب فى تنفيذ المشروعات التنموية والعمرانية",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRGpZbmZMVWk0a2dTQ0I3QW9MZnRlQm1YQVhMdVRvX1JvTU1mLVhIV010TzVHTlRxVGdKbTVMd0EyaHVCRHBNR09jSHUwbndDYXRxcFVyRC1zYWp1M1FFNWJxYTNEeHNLU2dscXk4dkNnOW42YTFfTUFxSElVOEhoXy1pN0RBREZDVmJ6MXhoOHBQbExmWWhsRU96eEloR2xXSFRqTTRiaE5SbUlBNjNIc2FpWUxIMGZRbEc0N2FCTmw5QlgzV1dRbTRIcnFMQ3Q4N1ZVdExMeWl2NkUyNnliRy1ZNnlUQzRJQ2JVcjFaNjRlUFVKMzdoV28ydmJ3QWQ1MFlfeUdGbVowS0Y5d1BqbmdOaTlsVzFJOW96R092WGp2S0VPTFc5WmIzbWRvdkhZYXI5NWlDTzh6NVFxVnRJaUxR?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-19T14:12:00.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
+    },
+    {
+     "title": "بديل الحديد التقليدي على طاولة الحكومة، مدبولي يبحث تعميم قضبان التسليح المركب في المشروعات العمرانية",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxYmpXbXZZUTREWDRnb3lUTXNQbFZoaXFYNHYtTDFtNUI5R29EQklFM0hidTJwT2lROUdfOVhYVEJubUV2MEVZ?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-19T14:08:00.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
     },
     {
      "title": "سفير مصر بالهند يلتقى طلاب الجالية المصرية: متابعة أوضاع المصريين أولوية",
@@ -222,20 +236,6 @@
      "source": "Masrawy",
      "time": "2026-11-19T07:56:07.000Z",
      "seen": "2026-11-19T11:08:22.904Z"
-    },
-    {
-     "title": "متحدث الحكومة: 6 منصات رقمية ضمن المنظومة الوطنية الشاملة للبيانات",
-     "url": "https://www.cairo24.com/2532069",
-     "source": "القاهرة 24",
-     "time": "2026-11-19T03:16:00.000Z",
-     "seen": "2026-11-19T11:28:22.514Z"
-    },
-    {
-     "title": "رحيل فيلسوف مباحث أمن الدولة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6MWk3dlZuTVlPck1LYkdzSHMzSkdKV3dUb00zZE1rSG50ak5jWnNuYWVtbG5ucUdXVHRqN05yYU1mRHpVNjU1dUVBcTd4ZVZFTFZ2MGxCeVZ6UWVwVmlF?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-19T03:08:00.000Z",
-     "seen": "2026-11-19T08:46:49.733Z"
     }
    ]
   },
@@ -251,11 +251,25 @@
      "seen": "2026-11-19T14:08:22.552Z"
     },
     {
+     "title": "أكبر طرح عام أولي في التاريخ",
+     "url": "https://alborsaanews.com/2026/11/19/2007703",
+     "source": "البورصة",
+     "time": "2026-11-19T13:44:21.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
+    },
+    {
      "title": "تصاعد المخاوف بين عرب إسرائيل بعد إحراق مسجد وحادثة دهس",
      "url": "https://www.bbc.com/arabic/articles/cw808yr52zzeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-19T13:38:52.000Z",
      "seen": "2026-11-19T13:48:23.000Z"
+    },
+    {
+     "title": "ارتفاع أسعار النفط 1% مع استمرار استهداف السفن في هرمز",
+     "url": "https://alborsaanews.com/2026/11/19/2007700",
+     "source": "البورصة",
+     "time": "2026-11-19T13:24:14.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
     },
     {
      "title": "الدولار يواصل التحرك في البنوك بمنتصف تعاملات اليوم .. وصل لكام؟",
@@ -264,6 +278,13 @@
      "time": "2026-11-19T13:01:00.000Z",
      "seen": "2026-11-19T13:08:22.975Z",
      "impact": "تؤثر تحركات سعر الدولار في البنوك المصرية بشكل مباشر على تكلفة الواردات وأسعار المعيشة وتخطيط المستثمرين."
+    },
+    {
+     "title": "مؤشر بورصة قطر يغلق منخفضا 15.27 نقطة",
+     "url": "https://alborsaanews.com/2026/11/19/2007698",
+     "source": "البورصة",
+     "time": "2026-11-19T12:57:45.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
     },
     {
      "title": "الحكومة الصومالية تعلن طرد السفير الإماراتي، فماذا وراء الخلاف؟",
@@ -278,14 +299,6 @@
      "source": "BBC عربي",
      "time": "2026-11-19T12:45:33.000Z",
      "seen": "2026-11-19T12:48:22.603Z"
-    },
-    {
-     "title": "تراجع حاد في حركة ناقلات الغاز المسال عبر مضيق هرمز",
-     "url": "https://alborsaanews.com/2026/11/19/2007694",
-     "source": "البورصة",
-     "time": "2026-11-19T12:30:19.000Z",
-     "seen": "2026-11-19T13:08:22.975Z",
-     "impact": "يؤثر التراجع الحاد في حركة ناقلات الغاز المسال عبر مضيق هرمز على أسواق الطاقة العالمية وإمداداتها."
     },
     {
      "title": "ارتفاع جديد لسعر الدولار في مصر",
@@ -309,20 +322,6 @@
      "time": "2026-11-19T11:51:00.000Z",
      "seen": "2026-11-19T11:58:22.362Z",
      "impact": "يهم المستوردين والمستهلكين في مصر لمعرفة التغيرات المباشرة في سعر صرف الدولار وتأثيره على تكلفة السلع."
-    },
-    {
-     "title": "أحمد صبحي يكتب: خلف الأبواب المغلقة",
-     "url": "https://alborsaanews.com/2026/11/19/2007691",
-     "source": "البورصة",
-     "time": "2026-11-19T11:50:22.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
-    },
-    {
-     "title": "جورجيفا تتوقع مزيدًا من التصحيح في الأسواق المرتبطة بالذكاء الاصطناعي",
-     "url": "https://alborsaanews.com/2026/11/19/2007690",
-     "source": "البورصة",
-     "time": "2026-11-19T11:49:09.000Z",
-     "seen": "2026-11-19T13:08:22.975Z"
     },
     {
      "title": "11 توصية من صندوق النقد لمصر بعد الاتفاق على آخر مراجعتين",
@@ -354,6 +353,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "أوكرانيا على طاولة الكبار.. هل يرسم ترامب وشي وبوتين مسار التسوية؟",
+     "url": "https://www.dw.com/ar/أوكرانيا-على-طاولة-الكبار-هل-يرسم-ترامب-وشي-وبوتين-مسار-التسوية؟/a-79992427?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-19T14:08:00.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
+    },
+    {
+     "title": "حسن منيمنة: قمة شي وترامب وبوتين \"صورة جميلة للتاريخ.. لكن دون إنجازات\"",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261119-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A",
+     "source": "فرانس 24",
+     "time": "2026-11-19T14:05:19.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
+    },
+    {
      "title": "ما وراء \"الصورة التاريخية\".. ماذا أنتجت قمة ترامب-شي-بوتين؟",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D9%85%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D9%86%D8%AA%D8%AC%D8%AA-%D9%82%D9%85%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B4%D9%8A-%D8%A8%D9%88%D8%AA%D9%8A%D9%86",
      "source": "فرانس 24",
@@ -375,6 +388,13 @@
      "seen": "2026-11-19T13:38:22.660Z"
     },
     {
+     "title": "بوتين: لا مفاوضات مع أوكرانيا بعد هجمات جسر القرم",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPUTBhTHJYU1NZMGZDYURzR0tITy1ocGJGV3U1X08xY0p2Zl9ld250NVBHNVIzaTlGT0RTLU9aN0ZPNk91UURIRFo3ZEVMa3lneG5jZ2dxQUJoZ2lMOGxvWXZpRDlFMUFUTG02ZFVpbW1BT296bTJuS1JuVTQxNzB5VEJxeTAtT2k5dkZhZGNJUUZwV0s4eFpOa0p1Y0g0Z19oZEhsOVl6WTBQUTRZMDA4YzFqVHJ2NXVvYTJlYWpzb0hjbDcxVE5HSHY2M2dsejhxVk14b2xMUlhXMXFWMDFIQ0dkZVZobXRUQWQtMUd6M29ETnZDMGw1ajliR2R3cmtHTk16dEU2UWdOdGd3Y0lsbV9vN2RZUWljZm9yTHJxVEh6TlJSUEdxY3o2d2xBUGcxcUxXRDlRYm1YSThmQUE4VUpzcDBNazY4M1llTTdUTnBxWmN1S0llSDJ1SnRlS0RGOHZpaHZ3?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T13:04:51.000Z",
+     "seen": "2026-11-19T14:18:22.500Z"
+    },
+    {
      "title": "ألمانيا في مرمى هجمات سيبرانية متصاعدة.. والذكاء الاصطناعي يزيد الخطر",
      "url": "https://www.dw.com/ar/ألمانيا-في-مرمى-هجمات-سيبرانية-متصاعدة-والذكاء-الاصطناعي-يزيد-الخطر/a-79991243?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -387,13 +407,6 @@
      "source": "DW عربية",
      "time": "2026-11-19T12:50:00.000Z",
      "seen": "2026-11-19T12:58:22.544Z"
-    },
-    {
-     "title": "إنفانتينو وديالو وتاشيما يقدمون رسميا طلبات ترشحهم لانتخابات رئاسة الفيفا",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261119-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D8%AF%D9%8A%D8%A7%D9%84%D9%88-%D8%AA%D8%A7%D8%B4%D9%8A%D9%85%D8%A7-%D9%8A%D8%AA%D8%B1%D8%B4%D8%AD%D9%88%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%85%D8%A7%D8%B1%D8%B3-2027",
-     "source": "فرانس 24",
-     "time": "2026-11-19T12:40:25.000Z",
-     "seen": "2026-11-19T12:48:22.603Z"
     },
     {
      "title": "ترامب وبوتين وشي يصدرون \"إعلان سلام\" في ختام قمة تاريخية",
@@ -439,20 +452,6 @@
      "time": "2026-11-19T11:19:32.000Z",
      "seen": "2026-11-19T11:18:22.280Z",
      "impact": "يعكس الطرح القياسي حجم تدفق رؤوس الأموال العالمية نحو تقنيات الذكاء الاصطناعي مما يسترعي اهتمام المستثمرين."
-    },
-    {
-     "title": "خارج \"الخط الأصفر\".. إسرائيل تنهي عملية برية وسط غزة",
-     "url": "https://www.skynewsarabia.com/middle-east/1905812-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%86%D9%87%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%BA%D8%B2%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T11:11:38.000Z",
-     "seen": "2026-11-19T11:18:22.280Z"
-    },
-    {
-     "title": "هل تغيّرت نظرة الشباب إلى التملّك؟",
-     "url": "https://www.bbc.com/arabic/watch/c6x280exy7vno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T11:02:12.000Z",
-     "seen": "2026-11-19T11:08:22.904Z"
     }
    ]
   },
@@ -511,6 +510,13 @@
      "impact": "تستدعي تزايد استغلال ثغرة Java4Shell اتخاذ إجراءات وتحديثات أمنية لحماية النظم المعلوماتية للشركات والأفراد."
     },
     {
+     "title": "هل تغيّرت نظرة الشباب إلى التملّك؟",
+     "url": "https://www.bbc.com/arabic/watch/c6x280exy7vno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T11:02:12.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
+    },
+    {
      "title": "هنري يكشف سر عبقرية محرز.. موهبة تعجز التكنولوجيا عن تفسيرها",
      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPYWYyNTZSX3lQcFFzMUJoVDFjdnZBLTVGeFFCUmtIX05LSzhoUG5IejYxZWRESGlTOVk2N0RPNlVvcmpTems5OFRYc3J3T216cUJTMGVjZ3BYNnRRenF1bjJSdmZEeXVsNnZWMUI1WTJscVhlZnRJOXZ4c20xdnYxdG9GNHZHQk9mX0YxLUh2Y0U0TmxzcGVkNVRRbHRreW9qd09FMEN6T3V0dVhYVVhrU0ltTlRrWTdtWmZ6bWQtVFpOcFJnam9uRlluZnFLX3o4ai1yODhhdy1RTUR5cHo4dFA1Z250bTVUeVZOUXVkaVJqQ3dCQVhuVzVsNFdCeXJNZWxnMFJNaWFpSzRVTWpTUVpKdWVVRG1aNW9IcmkwYWxVU0l2R0EyZEFtbHZRaGJwekdfMQ?oc=5",
      "source": "الجزيرة نت",
@@ -534,10 +540,10 @@
     },
     {
      "title": "لحظات مرعبة أمام الكاميرا.. سقوط فتاة من الطابق الثالث داخل جيم بإندونيسيا",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbkFqZ01JbDRreW1vc3lBLWZhLUFOdUYzLUJKdm4td2FmOF9IMzZtWE9lbFByZnp3UUh1RkNBdG1oMEpMVWVwWWZKNVpoVlZGQXBURU8wTzVvNDQxUmJQckVHM0RNdzEwNkcwelE3SVc1T0pQWXVXSWdUb2ZtVXFQTi0taEFrbzFjNWUzX2V0SkxSYzk1NjVLOGctWnZQNWZIYjllLVJubVU4QVBtRlVxb09DZnNXX3ZXZERVOTVHRFA1clRFTG1abnV6Z3VqRmktOG9hc0NTd2JnMzVsd24xbUpYaUFVN0xOUVdYSk40WDhYWHViZXdOTl9NbzhWRk1sWFNheGxRY25VTmc3a0pJNjgzMUxlSFp0M3pmRzZvS0kySF9fT093RzZQYWFNU1llZ3FaV3BRdlJVV1Q2YlBxNklYbmRkbkFwd1JFaVNjSTVOVUlLMzBQR2pyVzNoQldnVEd3MkxTcWRsZXB6M2NCRTdBLU9jZFl2YXNyQ1lqcXFSbUJWdTRQaTBTR1Q2QmstbXNNZDhUOVFlN3N6bXRqTWR1NW9EWUdHZG5idzZLSEVnTXYwYTg3c1M1dXVuc19IcHFkR0tsM0Nld0tDWWExZTNtVHFvOHZLN0xZN2VINEtDdEJmMzVn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPbkFqZ01JbDRreW1vc3lBLWZhLUFOdUYzLUJKdm4td2FmOF9IMzZtWE9lbFByZnp3UUh1RkNBdG1oMEpMVWVwWWZKNVpoVlZGQXBURU8wTzVvNDQxUmJQckVHM0RNdzEwNkcwelE3SVc1T0pQWXVXSWdUb2ZtVXFQTi0taEFrbzFjNWUzX2V0SkxSYzk1NjVLOGctWnZQNWZIYjllLVJubVU4QVBtRlVxb09DZnNXX3ZXZERVOTVHRFA1clRFTG1abnV6Z3VqRmktOG9hc0NTd2JnMzVsd24xbUpYaUFVN0xOUVdYSk40WDhYWHViZXdOTl9NbzhWRk1sWFNheGxRY25VTmc3a0pJNjgzMUxlSFp0M3pmRzZvS0kySF9fT093RzZQYWFNU1llZ3FaV3BRdlJVV1Q2YlBxNklYbmRkbkFwd1JFaVNjSTVOVUlLMzBQR2pyVzNoQldnVEd3MkxTcWRsZXB6M2NCRTdBLU9jZFl2YXNyQ1lqcXFSbUJWdTRQaTBTR1Q2QmstbXNNZDhUOVFlN3N6bXRqTWR1NW9EWUdHZG5idzZLSEVnTXYwYTg3c1M1dXVuc19IcHFkR0tsM0Nld0tDWWExZTNtVHFvOHZLN0xZN2VINEtDdEJmMzVn0gHiA0FVX3lxTE5pc29jVURRYVNXRkhJZ1Z0Q3dFaW9LcVJtemRaNVJyRTg0Q19SWHFBOFRNWjFpWnFIekJWcG9abnhDczdldU9fVF9fcl9CMmFSYUo1ZXFsdF9FZngwRkFpUFFXTHpkSDV0LUtyNmItd0ZseUNaajNLSDRvV1pwNF9WbVBaam5GamNYRlA4cWlUTnZQRVphTVNpcWpoSlBZcURzaXo3Z0ZlLTZkUndfMF9pWlRENmdKN3pucEVQcjl1Q21vSDBWMlVYYmFDZGRuQzRsaDY0aXlnWS14djlrZHZxaGFNYXM4SXlORkxLN2d4M3ZpZ2FUTVg4dEtSN2pMUEhDUVRmUlh5OTlkbngzNnE4MllBc1Y4UjRKZUhRbjJNeDcxVGFpOGpvbFV4S1pkNkl5b0hDNUJPVC1Sek9qc2w1RmJoUlJ5TmR0LUdCVklLWUlYLTdTZ1BvemVCV2Z1Nk1CblZHMEkxRFZ6T0JnVE02Wk5nNDZaY2FoaXJFQ0ZGR1F4QkN5TXdFSU9QeklTMXZWU2trbnM4MDFwZUE0M0I2WlN3UVhHQ2hNbk56V18yVnR3X3hOSmI1bjJ0V0tjdk5WWG5lT0xya0pkc2Z5dERGNVQ3S0Z0bUNjVmxPcUtWYUtR?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T09:56:00.000Z",
-     "seen": "2026-11-19T14:08:22.552Z"
+     "seen": "2026-11-19T14:18:22.500Z"
     },
     {
      "title": "طفرة الذكاء الاصطناعي تدفع صادرات كوريا الجنوبية لتجاوز تريليون دولار",
@@ -553,13 +559,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T09:08:52.000Z",
      "seen": "2026-11-19T11:18:22.280Z"
-    },
-    {
-     "title": "محامي زوجة مذيع الطالبية المتهم بقتل طفليه: الأمن عثر على قطعة قماش قد تعود للابن المدفون بالواحات",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGd3VEhsVVBLZ29BTWh2V2hzamdjVHdwa2VkYWdNdUxUMmhVZ29XYjJ0c2w2Q18xN3E5T0NNZ0tyMDlWUG1STHhsLXVvNTd5eWRQYWFncXRxZnI3STVWUFoyTFFwZVd4STRDOUVJNjZhX2tqQl9VLTQxLXIxbjJubkZTc0d0dmlMUFV0eEJ6VklNNlEtUXdjd1RJSzFSbGtIaUdMd2ZlMA?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-19T08:54:20.000Z",
-     "seen": "2026-11-19T10:38:22.820Z"
     }
    ]
   }
