@@ -1,81 +1,79 @@
 {
- "updated": "2026-11-19T08:58:22.443Z",
+ "updated": "2026-11-19T09:08:22.482Z",
  "minute": [
-  "ارتفع عجز الميزان التجاري لمصر خلال سبتمبر إلى 5.3 مليار دولار، بالتوازي مع ضخ شركة إم إيه إف جى 20 مليون دولار في مصنع للأجبان واستعدادات لبدء موسم تصدير الموالح.",
-  "أُعلن عن الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية، إلى جانب توجيهات حصر الترع الأكثر احتياجاً للتطوير خلال أسبوعين.",
-  "شهد قطاع التكنولوجيا إطلاق جوجل لنموذج Gemini 4 Neon والتسعير المرتقب لطرح أنثروبيك بقيمة 81.3 مليار دولار، مع إيرادات قياسية لشركة لينوفو.",
-  "تشهد الأجواء في مصر طقساً مائلاً للحرارة نهاراً مع درجة حرارة عظمى تبلغ 26 بالقاهرة، بالتزامن مع توثيق إدراج 31 جامعة مصرية في تصنيف QS للاستدامة 2027."
+  "متابعة مستمرة لأسعار العملات الأجنبية والعربية في البنوك المصرية مع تراجع سعر الدولار وتخليه عن مكاسبه.",
+  "تحديد طرق بديلة للمواطنين والسائقين عقب الإغلاق الكلي لكوبري قصر النيل بالقاهرة.",
+  "عقد قمة ثلاثية تجمع قادة الصين والولايات المتحدة وروسيا وسط اهتمام دولي بتطورات الذكاء الاصطناعي والأزمات العالمية.",
+  "الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية في مصر."
  ],
  "ai": {
-  "at": "2026-11-19T08:26:49.747Z",
+  "at": "2026-11-19T09:08:22.482Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T08:58:22.443Z"
+  "impacts": 9
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.67,
-   "change": -0.04,
-   "asOf": "2026-11-19T08:58:37.000Z",
+   "value": 53.71,
+   "change": 0.04,
+   "asOf": "2026-11-19T09:09:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5637,
-   "change": -0.27,
-   "asOf": "2026-11-19T08:50:20.000Z",
+   "value": 5647,
+   "change": -0.08,
+   "asOf": "2026-11-19T08:59:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6435,
-   "change": -0.27,
-   "asOf": "2026-11-19T08:50:20.000Z",
+   "value": 6448,
+   "change": -0.08,
+   "asOf": "2026-11-19T08:59:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3733,
-   "change": -0.23,
-   "asOf": "2026-11-19T08:50:20.000Z",
+   "value": 3738,
+   "change": -0.12,
+   "asOf": "2026-11-19T08:59:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51679,
-   "change": 0.26,
-   "asOf": "2026-11-19T08:45:24.000Z",
+   "value": 51613,
+   "change": 0.13,
+   "asOf": "2026-11-19T08:54:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0991,
-   "change": -0.02,
-   "asOf": "2026-11-19T08:59:47.000Z",
+   "value": 1.0997,
+   "change": 0.04,
+   "asOf": "2026-11-19T09:09:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.72,
-   "change": -2.43,
-   "asOf": "2026-11-19T08:48:50.000Z",
+   "value": 89.6,
+   "change": -2.56,
+   "asOf": "2026-11-19T08:59:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63614,
-   "change": 0.99,
-   "asOf": "2026-11-19T09:00:25.000Z",
+   "value": 63836,
+   "change": 1.35,
+   "asOf": "2026-11-19T09:09:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +138,33 @@
    "title": "مصر",
    "items": [
     {
-     "title": "«تشكيل الهجرة غير الشرعية».. السجن المشدد 10 سنوات لـ8 متهمين وغرامة 5 ملايين جنيه",
-     "url": "https://www.elbalad.news/7186480",
+     "title": "كلية الآداب جامعة الوادي الجديد تختار عمل مسرحي جديد للمواهب الطلابية",
+     "url": "https://www.elbalad.news/7186485",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:57:39.000Z",
-     "seen": "2026-11-19T08:58:22.443Z"
+     "time": "2026-11-19T09:07:29.000Z",
+     "seen": "2026-11-19T09:08:22.482Z"
     },
     {
-     "title": "عاجل .. انطلاق القمة الثلاثية الصينية الروسية الأمريكية في «شنجن» بمشاركة ترامب وبوتين وشي جين بينج",
-     "url": "https://www.elbalad.news/7186477",
+     "title": "موقف الشريعة الإسلامية من إثبات الزوج جريمة الزنا.. تفاصيل",
+     "url": "https://www.elbalad.news/7186497",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:57:06.000Z",
-     "seen": "2026-11-19T08:58:22.443Z"
+     "time": "2026-11-19T09:06:44.000Z",
+     "seen": "2026-11-19T09:08:22.482Z"
     },
     {
-     "title": "وزير الخارجية: مصر تتمسك بخطة ترامب باعتبارها المسار الرئيسي لتحقيق الاستقرار في غزة",
-     "url": "https://www.elbalad.news/7186478",
+     "title": "البرلمان العربي: استمرار الاحتلال في التصعيد بغزة استخفاف بالمجتمع الدولي",
+     "url": "https://www.elbalad.news/7186495",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:56:40.000Z",
-     "seen": "2026-11-19T08:58:22.443Z"
+     "time": "2026-11-19T09:05:18.000Z",
+     "seen": "2026-11-19T09:08:22.482Z"
+    },
+    {
+     "title": "خريطة الطرق البديلة بعد غلق كلى لكوبرى قصر النيل فى اتجاه ميدان التحرير",
+     "url": "https://www.youm7.com/story/2026/11/19/خريطة-الطرق-البديلة-بعد-غلق-كلى-لكوبرى-قصر-النيل-فى/7624384",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T09:05:00.000Z",
+     "seen": "2026-11-19T09:08:22.482Z",
+     "impact": "تساعد الخريطة البديلة السائقين والمواطنين في القاهرة على تنظيم تحركاتهم اليومية وتفادي الاختناقات المرورية."
     },
     {
      "title": "قرار من مجلس الوزراء بإسقاط الجنسية عن «علي ميلاد» لالتحاقه بالخدمة العسكرية في دولة أجنبية",
@@ -168,25 +174,18 @@
      "seen": "2026-11-19T08:58:22.443Z"
     },
     {
+     "title": "مفتي الجمهورية يدعو لمشروع دولى لتأهيل القيادات الإفتائية وإطلاق منصة معرفية عالمية",
+     "url": "https://www.youm7.com/story/2026/11/19/مفتي-الجمهورية-يدعو-لمشروع-دولى-لتأهيل-القيادات-الإفتائية-وإطلاق-منصة/7624337",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T08:49:00.000Z",
+     "seen": "2026-11-19T09:08:22.482Z"
+    },
+    {
      "title": "مايا مرسى عن منح السادات \"ذهبية الكونجرس\": 45 عامًا على رهان السلام الذي ربح",
      "url": "https://www.youm7.com/story/2026/11/19/مايا-مرسى-عن-منح-السادات-ذهبية-الكونجرس-45-عامًا-على/7624328",
      "source": "اليوم السابع",
      "time": "2026-11-19T08:47:00.000Z",
      "seen": "2026-11-19T08:48:22.624Z"
-    },
-    {
-     "title": "الجوافة مش بس لمواجهة البرد.. عميد معهد القلب الأسبق يكشف فوائدها لصحة القلب",
-     "url": "https://www.youm7.com/story/2026/11/19/الجوافة-مش-بس-لمواجهة-البرد-عميد-معهد-القلب-الأسبق-يكشف/7624298",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T08:46:00.000Z",
-     "seen": "2026-11-19T08:48:22.624Z"
-    },
-    {
-     "title": "معلومات الوزراء: الإنتاج الصناعى العالمى يسجل أحد أقوى معدلات نموه خلال السنوات الخمس الماضية",
-     "url": "https://www.youm7.com/story/2026/11/19/معلومات-الوزراء-الإنتاج-الصناعى-العالمى-يسجل-أحد-أقوى-معدلات-نموه/7624331",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T08:42:00.000Z",
-     "seen": "2026-11-19T08:46:49.733Z"
     },
     {
      "title": "رحيل فيلسوف مباحث أمن الدولة",
@@ -245,6 +244,22 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تعرف على سعر الدينار الكويتي في البنك المركزي اليوم الخميس",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xUWc4RUJjanB1V0djcU1Zd0lpMFJjSnpqOTVjeEt6WW01X0hLaDZUalJOb1dtQ0wtb2ptWWJZUVNkbjhYN0dV?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-19T08:57:00.000Z",
+     "seen": "2026-11-19T09:08:22.482Z",
+     "impact": "تفيد أسعار الدينار الكويتي العاملين بالخارج وأسرهم في تقييم التحويلات المالية والتدفقات النقدية."
+    },
+    {
+     "title": "سعر الدولار في مصر يتخلى عن مكاسبه",
+     "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNd2ZaN3hURTVpNGltb05jamlfMEUtZndNNl9oMmNheVppaW9PdDMtanhaT1NfaGpsaG5zb2dVQTN0ZUMtZ2x6Tkd2ZnYtM1RiVUhieDdjd3NQT1pxWFhVZ1MwbkU3T1dOQ21fbU1yQWt2bUhvZUZTUGpueTJXbFJXdmVFdjlxM0NKcmlJOHRDLUh3TkhsTWtyRjM1RXFXMEZJbWliNXQ1TERQTzFHc1dSRENxYTI5TjdrVzlzU0xQdXhiNWd0SDc5TlFxT1hSTDlBSGswZUlYUEJPM3AzNlN6X1VYcGpndWpJNXRCM252b2t2aGxJTUxVVks5b2U3X0p6SFZVWTNSRjc3blkwUFhYdmJTemxGNDFQTTN4eGVMQnE2ZEs1SktIYlY2YjBxeXFyemZNS010T2RLdDR6cGMtN0xhdEtvZTFXZ1hCQWl3SWPSAdYCQVVfeXFMUFdKeVhEZHpzNkg0SVlRNjRRMExRNUg3bFhMRWNZNVM1SnBCUEw3eTJPZ2JzcUc0ckd5cW5JM05peVlGdDVXaDVmVFhSVlQ4cHdTa0dPWE8zWWN5Yk5WcjdfWnJlNTFja1BPWVB3MDl4aVZWSUVCdEhVQnA5aWEwVUlkclZ6TVpndmJJY1oyYy02dXJiV2NvQWIxMkRNVDZjQTlmRC1teWlBNXBSTjlKVnk3bVhLRFkxLUliZnpBMHI0U2VrUjdSOU9pcVZQUlp1WGo1NGlIVE8zNHNWTTRsTVZRd0Y1Smw2MThtN3cybFA0bW5mM25OSUlHNC1wb1lzYWdUeUQ1Mjdra2lOU1ppRWVFc0hfU211X2NUbzVNa1FFVEhfbnBuQ2NPaTBlaGpSTjRfdGhxRV9NUVZaNGpVQ2ZWMkZtdmNlaWlybjNJT0lFQ25hY3Rn?oc=5",
+     "source": "العربية",
+     "time": "2026-11-19T08:50:00.000Z",
+     "seen": "2026-11-19T09:08:22.482Z",
+     "impact": "تراجع سعر الدولار يؤثر على حركة أسعار السلع المستوردة وتكاليف الإنتاج للمستثمرين في السوق المصري."
+    },
+    {
      "title": "انطلاق القمة الثلاثية بين شي وترامب وبوتين في الصين",
      "url": "https://www.bbc.com/arabic/articles/ckq6egn696yro?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -256,7 +271,8 @@
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RTVJGRnN6Ujc0WDNPSFo3aXN6YWdYYWJvNGFOSW90WUNpUHh1MTN5R29JNTBlZlc1Sml6WlZhOWNURkNHNXNya0NZR1NVNjlvZkpXbXUzQzNUSlFp?oc=5",
      "source": "الوطن",
      "time": "2026-11-19T08:18:41.000Z",
-     "seen": "2026-11-19T08:46:49.733Z"
+     "seen": "2026-11-19T08:46:49.733Z",
+     "impact": "يهتم الراغبون في السفر وتجار الخدمات بأسعار الريال السعودي لتحديد تكلفة التعاملات والرحلات."
     },
     {
      "title": "سعر الدولار اليوم الخميس 19/11/2026 أمام الجنيه المصرى فى بداية التعاملات",
@@ -264,7 +280,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T08:00:00.000Z",
      "seen": "2026-11-19T08:16:50.089Z",
-     "impact": "تساعد متابعة أسعار أسعار صرف الدولار أمام الجنيه الأفراد والمستثمرين في تقييم تكاليف المعاملات والتخطيط المالي."
+     "impact": "تساعد تحديثات سعر الدولار بداية التعاملات الأفراد والمستوردين على تخطيط تعاملاتهم المالية اليومية."
     },
     {
      "title": "عجز الميزان التجاري لمصر يرتفع 60.6% خلال سبتمبر إلى 5.3 مليار دولار",
@@ -331,20 +347,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-19T06:55:00.000Z",
      "seen": "2026-11-19T07:06:49.775Z"
-    },
-    {
-     "title": "أسعار العملات اليوم الخميس 19-11-2026 أمام الجنيه المصري",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBUVEtvbmxxSWNWMjBWMDBtUUpaWjlNYXhyeUotdHN1QmNoMWZ6UTFoLU9WUXFrNHlPWE05ZTdwWnhiMmNX?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-19T06:36:57.000Z",
-     "seen": "2026-11-19T06:46:49.602Z"
-    },
-    {
-     "title": "أسعار العملات الأجنبية اليوم الخميس 19 نوفمبر 2026 في البنك المركزي المصري",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0UkZXVGNmTGg4SmVXRlB0R2liWGxEZml1R0VSb3BVX1ZiOGliaFo4NmJxRlk4bklMSDJaN1BrREltbmQz?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-19T06:29:50.000Z",
-     "seen": "2026-11-19T06:36:49.993Z"
     }
    ]
   },
@@ -352,6 +354,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "حلفاء أوكرانيا يجتمعون في برلين وعيونهم على قمة ترامب وبوتين وشي",
+     "url": "https://www.dw.com/ar/حلفاء-أوكرانيا-يجتمعون-في-برلين-وعيونهم-على-قمة-ترامب-وبوتين-وشي/a-79987891?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-19T09:00:00.000Z",
+     "seen": "2026-11-19T09:08:22.482Z"
+    },
     {
      "title": "القمة الثلاثية في شنجن الصينية.. تقاطع مصالح كبرى بلا اختراقات متوقعة؟",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%86%D8%AC%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%83%D8%A8%D8%B1%D9%89-%D8%A8%D9%84%D8%A7-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9",
@@ -364,7 +373,8 @@
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D9%86-%D9%86%D8%B3%D9%85%D8%AD-%D8%A8%D8%AE%D9%86%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
      "source": "فرانس 24",
      "time": "2026-11-19T08:48:43.000Z",
-     "seen": "2026-11-19T08:58:22.443Z"
+     "seen": "2026-11-19T08:58:22.443Z",
+     "impact": "تلقي تصريحات الذكاء الاصطناعي الضوء للمستثمرين وشركات البرمجة على اتجاه القواعد التنظيمية للتقنية عالمياً."
     },
     {
      "title": "شي جينبينغ: نحن في قارب واحد وعليـنا توحيد الجهود لمواجهة الأزمات",
@@ -416,18 +426,18 @@
      "seen": "2026-11-19T07:26:50.170Z"
     },
     {
-     "title": "الشراكة السورية-الأوروبية .. تاريخ من المد والجزر على وقع المصالح وحقوق الإنسان",
-     "url": "https://www.dw.com/ar/الشراكة-السورية-الأوروبية-تاريخ-من-المد-والجزر-على-وقع-المصالح-وحقوق-الإنسان/a-79980696?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-19T07:16:00.000Z",
-     "seen": "2026-11-19T07:26:50.170Z"
-    },
-    {
      "title": "\"هى بعينها\".. الحقيبة النووية الروسية تخطف الأنظار بقمة أبيك فى ظهور نادر",
      "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNVzE3RUVCUnF4VllKYW43Z0hCX1RObEN0QUF6c1F0Sk1XLWxiLVBIZ3l2emZRMXk0dGJ2aVBOSi1aZzhjcTVRU1FDYXJFUEFwZEk0Q3VDam5qaTBjSVBKNWZ4WFNtZ2xSQVhoZExveEtGZkJtVFpKN1RFTlJwcGkwMDJzQ2ZiZDhvMl92eHhKUkFVc1VMdEV5TlZfN0hLdnViRk81NWpSWDJOVExIdnZmdGRseDh1ZXo5ZEtyVUVtejNUb3Rka2ZXSGtrRlBrNF9vMUNhSG1wRHRkOHR0WDBDZG02UzVndlBtRUhYc1NwMWdzSnNBS2lGNXViTkdZRW5KNl9Hb3V4WHNZSGo2Rmw2TVRaSEdWaGxBLW1BcXpnbWhneE5WREY4aTM0a1MxQjh5YkljVmlYWE1lb3F6bzFZTGkxWnNSc095aUFBMTllLXlRTTRYZHpJYmJGd3NiUnRsYlhZa3BCYXNvbzhwZENSaGpZYXNuOU9hdlFUdE5ZZDVfQjNQMzB6RGh1UWkwd0Y1cVEtTkxIb0FQWC1JR3lDMUxvc0ZHUEVpOTFlNXdDemVuYW1LYTJQVV9CTFlWcjRpdHFob2lZdGlJNnlIZmUtVkNUclJkWUF6RVBwLVFrbFM5emxOdnQyb3ozZUhzWlRCcXlBeGxaZ9IB8gNBVV95cUxNVnZNRVVhRFhZVlhvaDNsOW1BbGlCaEM0TlRNd1g0eldPbHRCeFlZTnJBbUdGaDJSWTBPdFJzMXRDT0V6cFR5NnlBM0tGYm1OSTVWN2FBa1B3Q3p4TUZPQVV3eEdBMFY2RnRvVEcyOWx3Y2l1REc5Q1FZQmpuelYwSDdTT2xaa2lTYjZJdVlDSnVFaUJCOW1uYnJxWGhaOVo2cU9felZFNUdtTFVXY094TUhvejNZem1kNEU2czNHelJkN1ZWU2JFNmlBQnc2eG5BMG5ZZkhFeDdfRDFRRjAtMTNMeUMwODZLTHVoSWVvVlg4UldCVmNJbmFDWkJoQ3BYT2gwd0o1VkFZQ2s4d21Ka1VBc0xIVHF6Q3M3WEhRbHl0cld2cXAxU202WmVibmJod2RjYktfNnNLVEtEb1diSUtwZmlKb0RmMmtsZW9HTDZlWFFkZld2ZjU4dVRxOXJBMy12MU5NYzB3YnlRT0ltZVBJMVZ1azFiM3ZPdUMtdGE5bElVT29ZNkZkdjRHc09PMDBoNEU3ZFdlaVlvSEpzUGZ3N3NxbjhxU0k3UUdVWUJ6cVR1bHdBME1JZHpwU1p5RjV6SkhhVEFKbDlqMXh0TGV2OVpsZldUR1NrRkhoZW5qT0hPVkFUbjBYbDREeTkxNHc?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T07:05:00.000Z",
      "seen": "2026-11-19T07:46:49.964Z"
+    },
+    {
+     "title": "ترامب وشي يبحثان التعاون بشأن مضيق هرمز وإيران قبيل قمة ثلاثية مرتقبة مع بوتين",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yOE5XOGZvSlpKNGM2d2JWLUZaOXpWZXZvS0Z0QTRqcXVQMXpNbGtKTnVXdWZiR2JBZS1hc3hZUjBob0hOTkhQSHdiMGYySXYyWXpxWFdHZ3ltWFFPTWfSAWNBVV95cUxPSDRPdXBSaG0tWmJ2QVhnNEYzUFl1SUZaWmdjZDh3aWdVY0tHMS1zRXE0WnBIMHgtZDNiY2VqZXJNZ1lOVUtjX0JLWUhQb19vTVNjbm9TT1MyVHk1TjBGMWRYUlE?oc=5",
+     "source": "BBC",
+     "time": "2026-11-19T06:56:52.000Z",
+     "seen": "2026-11-19T09:08:22.482Z"
     },
     {
      "title": "\"ما حد عرف قيمته إلا دلوقتي\".. علاء مبارك ينشر كلمات والده عن السادات",
@@ -442,13 +452,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T06:50:17.000Z",
      "seen": "2026-11-19T06:56:49.897Z"
-    },
-    {
-     "title": "مصادر: برج صندوق الاستثمارات العامة بالرياض تعرض لأضرار جراء ضربة",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSG5Bd3RkM3Faby16a0w2OENvcTlUUTNQM1VuVERjTFFsbnV6QzZla1hjdXVyNU1zMU5kck5uSy1KRGU5WXZiRzNPamUxU1BpNG5XaEhvQjZPV0Z1LXJ6UlEySFlqZWxZTHM0SjhhMXhMM1NnUFp0NkFNbw?oc=5",
-     "source": "Reuters",
-     "time": "2026-11-19T06:49:00.000Z",
-     "seen": "2026-11-19T08:58:22.443Z"
     }
    ]
   },
@@ -468,7 +471,8 @@
      "url": "https://aitnews.com/2026/11/19/anthropic-record-ipo-81-billion/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T06:40:26.000Z",
-     "seen": "2026-11-19T06:46:49.602Z"
+     "seen": "2026-11-19T06:46:49.602Z",
+     "impact": "يعكس الطرح الضخم لشركة أنثروبيك توجهات الاستثمار العالمي وفرص النمو في قطاع الذكاء الاصطناعي."
     },
     {
      "title": "جوجل تطلق نموذج الذكاء الاصطناعي Gemini 4 Neon للبرمجة والتحليل والمهام المعقدة",
@@ -476,7 +480,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T06:32:28.000Z",
      "seen": "2026-11-19T06:36:49.993Z",
-     "impact": "يفيد إطلاق النموذج الجديد المبرمجين وشركات التكنولوجيا في مصر لتطوير أدوات تحليل وحلول برمجة أكثر كفاءة."
+     "impact": "تتيح أدوات جوجل الجديدة للبرمجة فرصة للمطورين والشركات في مصر لتحسين كفاءة الخدمات الرقمية."
     },
     {
      "title": "صنّاع فيلم \"نازا\": كيف أقنعوا جنوداً إسرائيليين بالحديث عن قصف غزة؟",
@@ -491,7 +495,7 @@
      "source": "Masrawy",
      "time": "2026-11-19T05:30:00.000Z",
      "seen": "2026-11-19T06:46:49.602Z",
-     "impact": "يعكس التقدم في تصنيع مكونات مفاعل الضبعة خطوات ملموسة نحو تعزيز البنية التحتية للطاقة المستدامة في مصر."
+     "impact": "يعزز التقدم في مشروع الضبعة النووي رؤية المستثمرين بشأن استقرار إمدادات الطاقة الكهربائية في مصر مستقبلاً."
     },
     {
      "title": "\"أنثروبيك\" تجمع 107 مليارات دولار في أكبر طرح عام أولي بالتاريخ",
