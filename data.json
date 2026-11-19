@@ -1,80 +1,79 @@
 {
- "updated": "2026-11-19T12:18:22.688Z",
+ "updated": "2026-11-19T12:28:22.777Z",
  "minute": [
-  "تشهد الساحة المصرية متابعة رسمية لملفات التموين وتطورات أوضاع التنقيب والالتزام الضريبي.",
-  "عالمياً، سجل مؤشر الدولار تراجعاً طفيفاً بالتزامن مع تحقيق قطاع الذكاء الاصطناعي تمويلات وصادرات قياسية.",
-  "وعلى الصعيد الرقمي، تتصاعد التحذيرات الأمنية والقرارات التنظيمية المرتبطة بمنصات التواصل والألعاب الإلكترونية."
+  "ارتفع سعر الدولار واليورو في البنوك المصرية، بالتزامن مع صدور 11 توصية من صندوق النقد الدولي لمصر بعد الاتفاق على آخر مراجعتين.",
+  "افتُتح مقر التشغيل التجريبي لخدمات التأمين الصحي الشامل بمناخ بورسعيد، بينما تدشن الكشك الذكي بمحكمة القاهرة الاقتصادية.",
+  "حققت جامعة الأزهر المركز الثاني محلياً والمرتبة 114 عالمياً في تصنيف التايمز، وحصد سيد يوسف فضية بطولة العالم للبارا-تنس الطاولة.",
+  "شهدت الساحة الدولية مباحثات بين السيسي والدبيبة لتوقيع اتفاقات، في حين تعرضت المفوضية الأوروبية للهجوم الإلكتروني وتزايدت تهديدات Java4Shell."
  ],
  "ai": {
-  "at": "2026-11-19T11:28:22.514Z",
-  "model": "gemini-3.8-flash",
+  "at": "2026-11-19T12:28:22.777Z",
+  "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T12:18:22.688Z"
+  "impacts": 9
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.77,
-   "change": 0.15,
-   "asOf": "2026-11-19T12:16:13.000Z",
+   "value": 53.78,
+   "change": 0.17,
+   "asOf": "2026-11-19T12:29:51.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5629,
-   "change": -0.41,
-   "asOf": "2026-11-19T12:10:26.000Z",
+   "value": 5624,
+   "change": -0.49,
+   "asOf": "2026-11-19T12:20:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6426,
-   "change": -0.41,
-   "asOf": "2026-11-19T12:10:26.000Z",
+   "value": 6421,
+   "change": -0.49,
+   "asOf": "2026-11-19T12:20:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3721,
-   "change": -0.56,
-   "asOf": "2026-11-19T12:10:26.000Z",
+   "value": 3717,
+   "change": -0.66,
+   "asOf": "2026-11-19T12:20:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51426,
-   "change": -0.23,
-   "asOf": "2026-11-19T12:05:23.000Z",
+   "value": 51468,
+   "change": -0.15,
+   "asOf": "2026-11-19T12:15:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0991,
-   "change": -0.02,
-   "asOf": "2026-11-19T12:19:46.000Z",
+   "value": 1.0989,
+   "change": -0.04,
+   "asOf": "2026-11-19T12:29:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.62,
-   "change": -2.53,
-   "asOf": "2026-11-19T12:10:03.000Z",
+   "value": 89.86,
+   "change": -2.27,
+   "asOf": "2026-11-19T12:20:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63697,
-   "change": 1.13,
-   "asOf": "2026-11-19T12:20:25.000Z",
+   "value": 63645,
+   "change": 1.04,
+   "asOf": "2026-11-19T12:30:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +138,42 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مقترح برلماني حول إعادة معاش الأب للأبنة المتزوجة.. هل نرى تعديل تشريعي منتظر؟",
-     "url": "https://www.elbalad.news/7186561",
+     "title": "وزير الرياضة يُهنئ سيد يوسف «سيكا» بحصد فضية بطولة العالم للبارا-تنس الطاولة بتايلاند 2026",
+     "url": "https://www.elbalad.news/7186720",
      "source": "صدى البلد",
-     "time": "2026-11-19T12:15:00.000Z",
-     "seen": "2026-11-19T12:18:22.688Z"
+     "time": "2026-11-19T12:28:16.000Z",
+     "seen": "2026-11-19T12:28:22.777Z"
     },
     {
-     "title": "بوتين: أجواء القمة كانت إيجابية وأتمنى مواصلة الاجتماعات الثلاثية",
-     "url": "https://www.elbalad.news/7186712",
+     "title": "افتتاح مقر التشغيل التجريبي للمقر المؤقت لخدمات التأمين الصحي الشامل بمناخ بورسعيد",
+     "url": "https://www.elbalad.news/7186718",
      "source": "صدى البلد",
-     "time": "2026-11-19T12:12:31.000Z",
-     "seen": "2026-11-19T12:18:22.688Z"
+     "time": "2026-11-19T12:27:49.000Z",
+     "seen": "2026-11-19T12:28:22.777Z",
+     "impact": "يهم المواطنين في بورسعيد لمتابعة بدء التشغيل التجريبي ومنافذ تقديم خدمات التأمين الصحي الشامل."
     },
     {
-     "title": "في رابع جلسات مؤتمر \"أدب الطفل والأزمات\" بدار الكتب: باحثون يناقشون آليات معالجة الصراعات المسلحة والاجتماعية وأزمة الذكاء الاصطناعي",
-     "url": "https://www.elbalad.news/7186709",
+     "title": "الأمن يعيد طفلين يتسولان لأهلهما في أسيوط والجيزة",
+     "url": "https://www.elbalad.news/7186731",
      "source": "صدى البلد",
-     "time": "2026-11-19T12:11:04.000Z",
-     "seen": "2026-11-19T12:18:22.688Z"
+     "time": "2026-11-19T12:27:18.000Z",
+     "seen": "2026-11-19T12:28:22.777Z"
+    },
+    {
+     "title": "وزير العدل يتفقد محكمة القاهرة الاقتصادية ويدشن تشغيل الكشك الذكى.. صور",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-العدل-يتفقد-محكمة-القاهرة-الاقتصادية-ويدشن-تشغيل-الكشك-الذكى/7624767",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T12:21:00.000Z",
+     "seen": "2026-11-19T12:28:22.777Z",
+     "impact": "يفيد المستثمرين والمتعاملين مع المحكمة الاقتصادية في تسريع وتسهيل الإجراءات عبر الخدمات الذكية."
+    },
+    {
+     "title": "جامعة الأزهر تحصد المركز الثاني محليا والمرتبة 114 عالميا في تصنيف التايمز",
+     "url": "https://www.youm7.com/story/2026/11/19/جامعة-الأزهر-تحصد-المركز-الثاني-محليا-والمرتبة-114-عالميا-في/7624774",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T12:18:00.000Z",
+     "seen": "2026-11-19T12:28:22.777Z",
+     "impact": "يهم الطلاب وأولياء الأمور في مصر لمتابعة المستوى الأكاديمي والتصنيف العالمي لجامعة الأزهر."
     },
     {
      "title": "الجريدة الرسمية تنشر قرار وزير التعليم بنزع ملكية عقار تشغله مدرسة الكنيسة الابتدائية",
@@ -165,20 +181,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T11:58:00.000Z",
      "seen": "2026-11-19T12:08:22.545Z"
-    },
-    {
-     "title": "نقابة أطباء الأسنان تبدأ الأحد المقبل تسجيل قيد خريجي دفعة 2025 إلكترونيا",
-     "url": "https://www.youm7.com/story/2026/11/19/نقابة-أطباء-الأسنان-تبدأ-الأحد-المقبل-تسجيل-قيد-خريجي-دفعة/7624716",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T11:46:00.000Z",
-     "seen": "2026-11-19T11:48:22.930Z"
-    },
-    {
-     "title": "انطلاق دوري الجامعات في نسخته 54 بمسمى أولمبياد الجامعات والمعاهد المصرية",
-     "url": "https://www.youm7.com/story/2026/11/19/انطلاق-دوري-الجامعات-في-نسخته-54-بمسمى-أولمبياد-الجامعات-والمعاهد/7624720",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T11:45:00.000Z",
-     "seen": "2026-11-19T11:48:22.930Z"
     },
     {
      "title": "الدبيبة في القاهرة.. تقارب جديد يعيد رسم العلاقات المصرية الليبية",
@@ -247,14 +249,16 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53dTV2X2JQeHNfWktkdF9XLWViU1QtLTBaNXctNVFzc2xHQndCeUh0dVRKTTIzV2VjUXpYTFI5QkVLcVhwV3dQYWEyWmJPekN4ZDBLRHUtWFQ5X3A3WUMw?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-19T11:58:00.000Z",
-     "seen": "2026-11-19T12:08:22.545Z"
+     "seen": "2026-11-19T12:08:22.545Z",
+     "impact": "يساعد المستثمرين والمتعاملين بالنقد الأجنبي على متابعة تحركات الدولار عالمياً ومستوياته قياساً بالأشهر الماضية."
     },
     {
      "title": "سعر الدولار في مصر يرتفع اليوم لأعلى مستوى في أكثر من أسبوع",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eW81UzVTZjB1dW9CUVp4SW84NFVxSlc0dFh1Wi1BSGVsWUhsd1lhNDg3b2NfLWw0Y3RZMTRvdkRpMjJKM05VVk10QW5feFM2RWR3V1NkT0dKV29GOU9OVHB5aGxWWnc?oc=5",
      "source": "Investing.com",
      "time": "2026-11-19T11:51:00.000Z",
-     "seen": "2026-11-19T11:58:22.362Z"
+     "seen": "2026-11-19T11:58:22.362Z",
+     "impact": "يهم المستوردين والمستهلكين في مصر لمعرفة التغيرات المباشرة في سعر صرف الدولار وتأثيره على تكلفة السلع."
     },
     {
      "title": "تراجع الأسهم في الصين وهونج كونج بقيادة شركات تصميم الرقائق",
@@ -268,14 +272,16 @@
      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNQTVsS3ktTVB4U21IejR1cGpWclkxU0JtcDVYZWU1V3hvTlRVWUxxR1drb3Rwa3R6dk5zZFVlaW5fUzN0UU53YzF6UUlETTQxVmxRYkhMcUI5YXA5ekNrMzl4cHZub2dOOVUzSV91Q0Zna2FjSzY2SWh1QllKbGNRcmNjMVcyV0tXVVhBaUlFel9wY1BOc1hZTE9ray1felF5Qzd5ZUM5eFRmQndUUG9wV1dyR3dJeDI3QkZZdDRablp2bkNtNGhPb1hFblJmbkVPYTMyT29KVVJaQVJJTjY1aEotVkIyazJubVlVQ0oxNm9MMVdUWFEydkw0MTZMQ2VuLUFtc091MXRnYl9PZTlWMGZpN1R3cUlGQkMzM3hRcEFyRUprN0pFTGQ0NzN5czlFLUQ3YXpwVHUzYy1KaDhZRlBUWTc3RmJ6UmdHMktveXVjOUo0TlRKUURhdy1MYWxRUkgwT0R1UFBhWldTYndCSUVZOU9ZN19lVDhfcXdlM3JVMVRvT2hoTHF6ZTFENDBxWk16TlJGVENNdGF0V01xRzEyeUt5UlhNcDhrOHk2UTNPWHhlRk9DNnItYjUwSW9ER3E2NENUQmR6eUZkY1BnTnhKQVp1eS1RemwwWVp3VkU5SktScFluRm1tbEhkY0E30gH2A0FVX3lxTE5CVWtsX0NSR25rQVpUWUxWM2F1QXNPZ2dZX2xzX21zVF8tdFNCTTdOaWtNajhDd1JlNVI1TXFOb0dqaDdsOEpKaTRjcHRMc3NZYlEya0RtdmNVVHo1cVZrVTc1cGp0RGV6OWNKWXlQTEphS3RNbmVLSzFEN1JqSENKVEtFNm9UUS1LMFRaaTU2QjhpMmR2SUhWd0tJWGMwX2lHN2F0Xy1tYzJ3WFF3aFd4aDJUSXhFeFJBWWZHc3NpRFlaQk8xWl9kbi1POXhzYWpPZS1HZnBOXzFtNms4ZXVNZklSdnZNVjJDRmU5VWw1SjNCN0t5b3FnLXhlWTFXdWVNdi14ZmxJTURxSkh3S3VVY1lPbFkwQXJUeHViMzRzRUVGQ0s4TXVpMkRkeU5wMmRFVVVFZVowRkREM0lDWHJqdTBSdzVScTU3bkZlZW4ydjE5aU1vRVhIeVpYQ1o2SEF4TUxIeG9OMXpXdWd5aVJHWk5HOU1wMU0yZmZTeXh4cXVmOGdZUTFIMC1kSmFHMXRfX2JaSEw5ZkNhOVJvTUxpY0JLRGdheWdyRkNuVDV2cUtwMExPVnMtMHNrcVByZXZJNnR0emJWWUlfQzJBV3VYSTdYMTFEMVQtaFh1V19KbFhBV0FuU1hMMkktOVlFbWNteWx1cnc?oc=5",
      "source": "Masrawy",
      "time": "2026-11-19T11:24:55.000Z",
-     "seen": "2026-11-19T11:38:22.242Z"
+     "seen": "2026-11-19T11:38:22.242Z",
+     "impact": "يمثل مؤشراً مهماً للمستثمرين في مصر لمتابعة السياسات الاقتصادية والاشتراطات التنموية المرتبطة بصندوق النقد."
     },
     {
      "title": "اليورو يرتفع بمنتصف تعاملات اليوم الخميس 19 نوفمبر 2026 بالبنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOUXR4UTZaU2tJOE5UaS0zdlFYRHZTWXFYZFhaY0lwRHk4MjFxNGRsd2xBOFJMSWhHbDlTMmJNNGxjaVhEN2R4U3hza21XSTYtQWxFWmtTLXBFc1RTclNWby1MSG9PbnVnNy1CSXNZZnEyTlRDQnA4WWg4bGtzQjFTdDhseVNpd0dTQ21LMTFQU05nNDVmakEyaGFKWVVMMHdZQ0dSUHZleElmczBqTmJ6eWhHc3c5RUthWGlHdEZ0YmZWbHJXdXoyOGJoVzAzQVJUS2tEQW9nQ1JTRUVwRUNXRnpkQjE5OEsxVWoybjVleTBQVlpCMTM0RDJGOTN4U09VZ21rd2RTV0JBOHp4Z0R1M3JIZlVKd3BWZDBYUGFEMmpnMkg4aTZmc0NsVDl2NEpOelVNN0hFdnE1TDFqcmVRSF9wNEprUlM5OGRldktSdHRTbmFfWTlwUkllUGp1eDcyeU5OYXBTMFVvMlpscGh0ek5pTmV2c0M2X2VHNmtla3YwcTdUY0k1QVBTMEI5OHNrbXRIV0VrWHUtVFZtaE1yNXNMUmtIVXZOb29waXU5N2lUWkc2ajZtMm5HZnk1MVpHbDU4cmpTSEJkYUoydnR5ajdUWWJvN3BqaTRienFsUGpKVWxEYkFSM1lpQ1B3czDSAeoDQVVfeXFMTl9mNXZjby0zVWU0TTNhSW55dFZKRkNGS2RCd0FuUHZrSkRHcTJzdTBIOGFuX3l2NnVjbGZIX2dZdVJvQnRyc2t0RkUxcGlCeEZOVFJZSXBuNjNKWHRTb1N2U1M3Q3BHMkotY0Etbnh6cF92Wmg2MUFWWnVOVV9wU3JrM1ZWWFVwc3hpMF9wV2N6akUwcVpQQi0zSTBkcTdYTVFmWnVURmN3el9zTVhFTW9UTnRkSTctczJtN0FLakNDQVlNZHRDZzh3blZuM0VNcl91cllkeXN1S1RCT3B0dVIxOFNaTWNQZWd3OWNPXzJCcmk1bVhQbl83RVpTM2FqQ21fWjdLMzgwak9lMHUyNi1OUUNncHFVV1RSN2lDMEE0NGdacmpxWkUyN1RrS3NCck5WUThQWVowOVZpdVYwNU5PUlBmTkR1NXhOOEFBWVBGS0xPNm9ZLTUxVlMwSkhkMnVPUzF0UkVjOTBVWTRPeHh1Sk1CRzMwWmVMYzlEeThSUVRXc3RNUUNsbXN5aDVZTGQzaDBKSEtPZlViTTMyT2RKS1ZQNWdRc0RoQU9yd0dDbS00Zm16ZGpzVC14TGpleEc1cU42V0xXaHBEUnFnaTQ4TEc5Z3dQOXJHZ2lHSFkzcFRPS1FDLWVIdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T11:20:00.000Z",
-     "seen": "2026-11-19T12:18:22.688Z"
+     "seen": "2026-11-19T12:18:22.688Z",
+     "impact": "يهم الأفراد والمستوردين الذين يتعاملون بالعملة الأوروبية في البنوك المصرية لمتابعة تغيرات سعر الصرف."
     },
     {
      "title": "\"أنثروبيك\" تجمع 81 مليار دولار في طرح قياسي لأسهمها بالبورصة",
@@ -350,6 +356,21 @@
    "title": "العالم",
    "items": [
     {
+     "title": "العراق يشكل قيادة أمنية مشتركة في جرف النصر",
+     "url": "https://www.skynewsarabia.com/middle-east/1905839-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B4%D9%83%D9%84-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T12:23:04.000Z",
+     "seen": "2026-11-19T12:28:22.777Z"
+    },
+    {
+     "title": "السيسي والدبيبة يبحثان التعاون ويشهدان توقيع اتفاقات",
+     "url": "https://www.skynewsarabia.com/middle-east/1905827-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%AF%D8%A8%D9%8A%D8%A8%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D9%8A%D8%B4%D9%87%D8%AF%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T12:20:28.000Z",
+     "seen": "2026-11-19T12:28:22.777Z",
+     "impact": "يهم الشركات والمستثمرين في مصر لمتابعة فرص الشراكة والتعاون الاقتصادي الناتجة عن الاتفاقات الموقعّة مع ليبيا."
+    },
+    {
      "title": "كيف ستتغير أعداد السكان في الدول العربية بحلول عام 2050؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/arab-population-growth-rate-2050",
      "source": "CNN بالعربية",
@@ -392,13 +413,6 @@
      "seen": "2026-11-19T11:28:22.514Z"
     },
     {
-     "title": "الجيش اللبناني: انتهاكات إسرائيل تعرقل جهودنا وتهدد الأمن",
-     "url": "https://www.skynewsarabia.com/middle-east/1905795-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B9%D8%B1%D9%82%D9%84-%D8%AC%D9%87%D9%88%D8%AF%D9%86%D8%A7-%D9%88%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T10:33:42.000Z",
-     "seen": "2026-11-19T10:38:22.820Z"
-    },
-    {
      "title": "البيان الختامي لقمة ترامب وشي وبوتين: اتفاق على زيادة إمدادات النفط وتأكيد ضرورة تجنب الحرب النووية",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yY0xqMEE1eEc3b2l0ZkZwSV9KX0NEbDRhdk9KQzBPalA5OGoxUjM3V3ROTHFLRlZuMENnOFFUZHhTUFV1aDBNb29LRC1LQTBmQ2p6Z1I3czg?oc=5",
      "source": "BBC",
@@ -411,13 +425,6 @@
      "source": "العربية",
      "time": "2026-11-19T09:36:00.000Z",
      "seen": "2026-11-19T11:58:22.362Z"
-    },
-    {
-     "title": "بالفيديو.. \"غفوة ترامب\" خلال خطاب الرئيس الصيني",
-     "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQR1pGa1BrLVNaUXUwQ1ktYjdib3g0dHlfdktkM0M5eUFJMzE3VFJlY2FNT2JKLTBvaVBiWUl5em96dmY0UXlOalZld2ZwVUM0Y1R4ME92d2YyVUVPTnNvTUphNXNUakFzTllTcjFPYnU4N2NtVjNyekxJdnNmLWY2QWNhMDczS2VuSVBfU0JJX3Zja1dCZ0NtaTZsQWhtWktFbEQwS0cxb01KWVZVWWM1NEQtVDVrTUxaZzNQTTY5d3lMeFlOQ1hqZ0pPSlp1UDZSMkJNbmVGTUVWNHRJUzVfdGdodmRadHRMVDFTMXh3TkR3eWNGR1ZvRWF4bkZkMExUUEpleHhZdEVxcWprM0VDQ2YyWF9WT1FJNS1mTUdEY1ZWekVrcnlXeTBMVUFwN1FkV2MwVU5sWW1qODdndmRXcll4Z0JfTXBScEV6MUlVblFhZ1VmRmtwZ3NrYjlid09lMC1POEpPanBvLVHSAfACQVVfeXFMUE5EZk5JVWtxbjVPMENRUWMwbUo4UElnYXFzV1ZRUXVESFJOS3FyTllKeTdFNFV5Wmt3dF9EdUxLVmJmMWx4V3U1UTV6X2ZfSjFJbU5IMzc2YXhKRVNfNWdhZ0MwQ19Bc1RzODNtMlBSU1l3QXpYbEUyZ1lPZFVXOWZBSl9VUVlEUGFFLWJSMnNyOTFvRnlpY01kOVdoazF4VXZiWDVSbmZsLXBkd2t3dUg3ZksxdDk3cE94YldVeHNWdGx5YXBuRlhfeG9hMUQzZlJOclZOQlBlYkgwVHF0UGJsQlNlRk1VM3AzVk9Obmd1RmFSSnNqZ0NnM280cU4tWllGMFUxb0hRb2Jta3dJeXAwYThvNDZpTkNMLXVoRUNXa3dVUU9ERFhNYlUxMWxhZndEMVhrUlV0c2ViT3pCaXNZTlRpNnJHY3YyX0c5dVNDLUxwSDZvY0tDZVFvNHhLS1hSd0xjTFgxSkQ3Z2l4cTY?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T09:26:34.000Z",
-     "seen": "2026-11-19T12:18:22.688Z"
     },
     {
      "title": "ترمب يكشف عن صفقات بـ17 مليار دولار لشركات أمريكية في جنوب شرق آسيا",
@@ -454,11 +461,19 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "الفطيم تطلق هوندا بايلوت تريل سبورت في الإمارات",
+     "url": "https://aitnews.com/2026/11/19/%d8%a7%d9%84%d9%81%d8%b7%d9%8a%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%87%d9%88%d9%86%d8%af%d8%a7-%d8%a8%d8%a7%d9%8a%d9%84%d9%88%d8%aa-%d8%aa%d8%b1%d9%8a%d9%84-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa-%d9%81%d9%8a/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-19T12:23:13.000Z",
+     "seen": "2026-11-19T12:28:22.777Z"
+    },
+    {
      "title": "محاولات استغلال Java4Shell تتزايد وتحديثات أمنية للتطبيقات المتأثرة",
      "url": "https://aitnews.com/2026/11/19/java4shell-exploitation-attempts-security-updates/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T12:16:19.000Z",
-     "seen": "2026-11-19T12:18:22.688Z"
+     "seen": "2026-11-19T12:18:22.688Z",
+     "impact": "ينبه الشركات ومستخدمي التكنولوجيا في مصر بضرورة إجابة التحديثات الأمنية لحماية بياناتهم وتطبيقاتهم من اختراقات Java4Shell."
     },
     {
      "title": "هجوم إلكتروني يربك المفوضية الأوروبية.. ويخترق بيانات الموظفين",
@@ -488,14 +503,6 @@
      "time": "2026-11-19T09:34:44.000Z",
      "seen": "2026-11-19T09:38:22.561Z",
      "impact": "يبرز الخبر الأثر الاقتصادي الكبير لطفرة الذكاء الاصطناعي على الصادرات والتجارة الدولية للمهتمين بالاستثمار التقني."
-    },
-    {
-     "title": "CNTXT AI تعتزم استثمار 183 مليون درهم لتطوير الروبوتات وتدريبها",
-     "url": "https://aitnews.com/2026/11/19/cntxt-ai-robotics-investment/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-19T09:32:41.000Z",
-     "seen": "2026-11-19T09:38:22.561Z",
-     "impact": "يعكس هذا الاستثمار توسع مشاريع الروبوتات إقليمياً، مما يثير اهتمام المهتمين بقطاع التكنولوجيا والابتكار."
     },
     {
      "title": "بأرقام قياسية عالمية.. \"GTA 6\" تشعل الإنترنت",
