@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:45:19.501Z",
+ "updated": "2026-11-19T00:55:19.823Z",
  "minute": [
   "تجاوز نمو الناتج المحلي الإجمالي في مصر توقعات المؤسسات الدولية ليسجل نسبة 4.9%.",
   "تتابع الأسواق استقرار سعر الدرهم الإماراتي وتطورات سعر الدولار مقابل الجنيه المصري.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-19T00:45:19.501Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T00:55:19.823Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5661,
-   "change": -2.94,
-   "asOf": "2026-11-19T00:35:37.000Z",
+   "value": 5672,
+   "change": -2.76,
+   "asOf": "2026-11-19T00:45:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6463,
-   "change": -2.94,
-   "asOf": "2026-11-19T00:35:37.000Z",
+   "value": 6475,
+   "change": -2.76,
+   "asOf": "2026-11-19T00:45:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3747,
-   "change": -3.03,
-   "asOf": "2026-11-19T00:35:37.000Z",
+   "value": 3754,
+   "change": -2.84,
+   "asOf": "2026-11-19T00:45:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": -0.14,
-   "asOf": "2026-11-19T00:44:47.000Z",
+   "value": 1.0982,
+   "change": -0.1,
+   "asOf": "2026-11-19T00:54:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.62,
-   "change": -4.85,
-   "asOf": "2026-11-19T00:34:30.000Z",
+   "value": 88.61,
+   "change": -4.86,
+   "asOf": "2026-11-19T00:45:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63164,
+   "value": 63160,
    "change": -2.67,
-   "asOf": "2026-11-19T00:45:35.000Z",
+   "asOf": "2026-11-19T00:55:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -244,11 +244,25 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "فرس النهر \"فيونا\" تخضع للرعاية الطبية بعد ابتلاعها قبعة في حديقة حيوان سينسيناتي",
+     "url": "https://www.bbc.com/arabic/articles/c6y4jm9ldr0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T00:49:53.000Z",
+     "seen": "2026-11-19T00:55:19.823Z"
+    },
+    {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك.. استقرار العملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQTJJWElEYklnaHhRWmF3LTZjZUVIZTBCVDJUdS0yV1htdm9GOHEzSGxhLTlQaWhncHFwTS1SOTV2VUhn?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-19T00:41:16.000Z",
      "seen": "2026-11-18T23:15:20.239Z"
+    },
+    {
+     "title": "سعر الدولار على مدار الساعة.. 53.77 جنيه شراء الأخضر فى بنك البركة",
+     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcnRPS3dIUmtuMm1ZUzk1X0N1a3FMZ2lBR3JoaFU2RzhJRG1uaU5aTWRxekFoRXNwLTJfZFk1LWJPRldPLTBoVmFOM21Fa0kzTUdfOHVRUkV4WExVaV81QTdRRHN1X2NTblNsRnlTYk9wNE9FV2lvRXBpeENhOExNb2ZMYWhzNHVUTnR6Q29XSXRIajRIbXp0eWRrb0JodlFpd0RnTkNDaVNvSHJTeEwtZ3d5a3dIaUFNS3pLeG5pLWt2U0Y0RlJzTG45M0d2RG9vN1hBX2RrenhwalEzMDVtakw1MUFmTmhyenduMXBjbEtlUUhQbi1GOUx0Q3ZEU00yUk9WTF9lM1JPM253Skh0X2VMNi04b3JOMjkxM1lYU2tyeW5PVWpIMDI3amE0a0RmVWJjSDIxS3FvSEp0NTJRUzRKNTFCdVFEZXZWSDlDUDVDRUpoejVrVFJweHc0dzRCQk1aa3Mwa09CQTBEcGUtWFBEQnh5clFTWm9XdGRYWjhHbnE3dVhtRWR6Qk9pR0XSAY8DQVVfeXFMUHJ0T0t3SFJrbjJtWVM5NV9DdWtxTGdpQUdyaGhVNkc4SURtbmlOWk1kcXpBaEVzcC0yX2RZNS1iT0ZXTy0waFZhTjNtRWtJM01HXzh1UVJFeFhMVWlfNUE3UURzdV9jU25TbEZ5U2JPcDRPRVdpb0VwaXhDYThMTW9mTGFoczR1VE50ekNvV0l0SGo0SG16dHlka29CaHZRaXdEZ05DQ2lTb0hyU3hMLWd3eWt3SGlBTUt6S3huaS1rdlNGNEZSc0xuOTNHdkRvbzdYQV9ka3p4cGpRMzA1bWpMNTFBZk5ocnp3bjFwY2xLZVFIUG4tRjlMdEN2RFNNMlJPVkxfZTNSTzNud0pIdF9lTDYtOG9yTjI5MTNZWFNrcnluT1VqSDAyN2phNGtEZlViY0gyMUtxb0hKdDUyUVM0SjUxQnVRRGV2Vkg5Q1A1Q0VKaHo1a1RScHh3NHc0QkJNWmtzMGtPQkEwRHBlLVhQREJ4eXJRU1pvV3RkWFo4R25xN3VYbUVkekJPaUdF?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T00:03:12.000Z",
+     "seen": "2026-11-19T00:55:19.823Z"
     },
     {
      "title": "الدولار يستقر أمام الجنيه بالبنوك المصرية اليوم الخميس 19 نوفمبر 2026",
@@ -329,21 +343,6 @@
      "time": "2026-11-18T20:34:00.000Z",
      "seen": "2026-11-18T20:44:53.175Z",
      "impact": "يؤثر انخفاض البورصة والمعادن وارتفاع الدولار بشكل مباشر على قرارات المستثمرين والمدخرين في مصر."
-    },
-    {
-     "title": "ارتفاع سعر الدينار الكويتي مقابل الجنيه في البنك الأهلي مساء اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wZGROMGxiWnFseXZ3UUxJMXJxNUtqaXVlaFFGTWNocUtSMHg4YVNaX2dUdTc1TW1obEw5VWVUQ2o4VG5MYkZZ?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-18T20:30:00.000Z",
-     "seen": "2026-11-18T20:34:52.514Z",
-     "impact": "يزيد من قيمة التحويلات المالئية للمصريين العاملين في الكويت ويرفع تكلفة الصرف للمسافرين إليها."
-    },
-    {
-     "title": "استقرار سعر الدولار تحت سقف الـ54 جنيها فى البنوك اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPU0dBNUM1dnVGei1sTWd4bjB2WGFCYnNIeGxEN1BmVHd4V2dVenZlWjRTNjdob0ZDN2I1UC1ON1NrNFZiWVhBNUZmNFdDbFF0VDlZeUg2VDZKRFdFMVlxdG9YTnMxcUdlZUx3TzRSbWdPaDJYZ21NYWkyMTlHNlhTQmJsSzYwZ3loQzZtOF9UaTlmNEU4YlVnX2l4QlZLcGN0WDlVM2I0Zy13U3I4SUdwelBMN3ZxRm12QWJYbG5ucmRqdXJXNEljSEhENmJ3Unk5ekwzekxQbjBPSUhoVkNzVlFJS25wTVl1UV8tWlhwdnZxYkI4dHVlRnhMcFgyUWJGYVBQd3JUQTFucWpqeGM1LUpYMFNuR05KQXZ0NjFiRGhaQ095aUZTMDl3Tm5pQXlwcExWbHZiZHdUeUFyYXJEVGE2MUs0LThsN2JpaGkxN3llWmZEUlNOT3V5MXZqejJ1TVp5dFd1bGNnTXZPWkNmS3UzclZ6VEhVZGU3U2dKWTR2cXlqYUtfRm41WlNMNWdKNnVOTG1pV0cyUDFJU0ZVOExJR0xnZFNKWW1lWm1uVkE0TFdoaVdQQTVPSWZFd1c2bUZWStIBxANBVV95cUxPU0dBNUM1dnVGei1sTWd4bjB2WGFCYnNIeGxEN1BmVHd4V2dVenZlWjRTNjdob0ZDN2I1UC1ON1NrNFZiWVhBNUZmNFdDbFF0VDlZeUg2VDZKRFdFMVlxdG9YTnMxcUdlZUx3TzRSbWdPaDJYZ21NYWkyMTlHNlhTQmJsSzYwZ3loQzZtOF9UaTlmNEU4YlVnX2l4QlZLcGN0WDlVM2I0Zy13U3I4SUdwelBMN3ZxRm12QWJYbG5ucmRqdXJXNEljSEhENmJ3Unk5ekwzekxQbjBPSUhoVkNzVlFJS25wTVl1UV8tWlhwdnZxYkI4dHVlRnhMcFgyUWJGYVBQd3JUQTFucWpqeGM1LUpYMFNuR05KQXZ0NjFiRGhaQ095aUZTMDl3Tm5pQXlwcExWbHZiZHdUeUFyYXJEVGE2MUs0LThsN2JpaGkxN3llWmZEUlNOT3V5MXZqejJ1TVp5dFd1bGNnTXZPWkNmS3UzclZ6VEhVZGU3U2dKWTR2cXlqYUtfRm41WlNMNWdKNnVOTG1pV0cyUDFJU0ZVOExJR0xnZFNKWW1lWm1uVkE0TFdoaVdQQTVPSWZFd1c2bUZWSg?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-18T20:02:48.000Z",
-     "seen": "2026-11-18T21:45:20.337Z"
     }
    ]
   },
@@ -559,6 +558,17 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
