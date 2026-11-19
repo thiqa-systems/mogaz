@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:18:22.708Z",
+ "updated": "2026-11-19T10:28:22.332Z",
  "minute": [
   "شهدت الأسواق المصرية تراجعاً في أسعار الدولار واليورو والذهب بالتزامن مع تحقيق البورصة مكاسب في مستهل التعاملات.",
   "اعتمد وزير الزراعة تمويلات جديدة تخطت 301 مليون جنيه لدعم المشروع القومي للبتلو.",
@@ -10,7 +10,9 @@
   "at": "2026-11-19T10:08:22.281Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T10:28:22.332Z"
  },
  "markets": [
   {
@@ -19,25 +21,25 @@
    "unit": "ج.م",
    "value": 53.84,
    "change": 0.28,
-   "asOf": "2026-11-19T10:17:02.000Z",
+   "asOf": "2026-11-19T10:30:29.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5653,
-   "change": 0.02,
-   "asOf": "2026-11-19T10:08:16.000Z",
+   "value": 5652,
+   "change": 0.01,
+   "asOf": "2026-11-19T10:21:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6454,
-   "change": 0.02,
-   "asOf": "2026-11-19T10:08:16.000Z",
+   "value": 6453,
+   "change": 0.01,
+   "asOf": "2026-11-19T10:21:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -45,17 +47,17 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3732,
-   "change": -0.26,
-   "asOf": "2026-11-19T10:08:16.000Z",
+   "change": -0.27,
+   "asOf": "2026-11-19T10:21:22.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51508,
-   "change": -0.07,
-   "asOf": "2026-11-19T10:03:21.000Z",
+   "value": 51506,
+   "change": -0.08,
+   "asOf": "2026-11-19T10:16:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,16 +66,16 @@
    "unit": "$",
    "value": 1.1002,
    "change": 0.08,
-   "asOf": "2026-11-19T10:17:43.000Z",
+   "asOf": "2026-11-19T10:30:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.86,
-   "change": -2.27,
-   "asOf": "2026-11-19T10:08:03.000Z",
+   "value": 89.65,
+   "change": -2.5,
+   "asOf": "2026-11-19T10:20:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63810,
-   "change": 1.31,
-   "asOf": "2026-11-19T10:18:20.000Z",
+   "value": 63755,
+   "change": 1.22,
+   "asOf": "2026-11-19T10:31:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الوزراء: حياة كريمة نقلة نوعية في تطوير الريف والارتقاء بجودة حياة 18 مليون مواطن",
-     "url": "https://www.elbalad.news/7186581",
+     "title": "وفد خارجية النواب يبحث مع برلمانيين بريطانيين تطورات الشرق الأوسط والأمن المائي",
+     "url": "https://www.elbalad.news/7186587",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:17:52.000Z",
-     "seen": "2026-11-19T10:18:22.708Z"
+     "time": "2026-11-19T10:27:17.000Z",
+     "seen": "2026-11-19T10:28:22.332Z"
     },
     {
-     "title": "مصر تتقدم نحو مستقبل الطاقة المستدامة.. شحن المكونات الرئيسية لمفاعل الضبعة الأول من روسيا",
-     "url": "https://www.elbalad.news/7186580",
+     "title": "أسيوط: تحرير 30 محضرًا تموينيًا بالمخابز والأسواق ومستودعات البوتاجاز بصدفا",
+     "url": "https://www.elbalad.news/7186589",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:17:25.000Z",
-     "seen": "2026-11-19T10:18:22.708Z"
+     "time": "2026-11-19T10:25:40.000Z",
+     "seen": "2026-11-19T10:28:22.332Z"
     },
     {
-     "title": "قبل بيعها بالسوق السوداء.. القبض على شخص بحوزته 440 لتر سولار بالجيزة",
-     "url": "https://www.elbalad.news/7186579",
+     "title": "محافظ الفيوم يستبعد رئيس محلية هوارة المقطع ويوقفه 3 أشهر بعد إزالة منزل حاصل على نموذج تصالح",
+     "url": "https://www.elbalad.news/7186590",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:16:18.000Z",
-     "seen": "2026-11-19T10:18:22.708Z"
+     "time": "2026-11-19T10:24:48.000Z",
+     "seen": "2026-11-19T10:28:22.332Z"
+    },
+    {
+     "title": "علماء ومفتون من 7 دول يشيدون بدليل إنشاء المؤسسات الإفتائية من دار الإفتاء",
+     "url": "https://www.youm7.com/story/2026/11/19/علماء-ومفتون-من-7-دول-يشيدون-بدليل-إنشاء-المؤسسات-الإفتائية/7624507",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T10:19:00.000Z",
+     "seen": "2026-11-19T10:28:22.332Z"
     },
     {
      "title": "مجلس الوزراء: \"حياة كريمة\" نقلة نوعية فى تطوير الريف والارتقاء بجودة حياة",
@@ -170,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/19/ضبط-سلع-مجهولة-المصدر-وإعدام-أغذية-منتهية-الصلاحية-فى-حملة/7624511",
      "source": "اليوم السابع",
      "time": "2026-11-19T10:12:00.000Z",
-     "seen": "2026-11-19T10:18:22.708Z"
-    },
-    {
-     "title": "وزير التموين: تنظيم المعارض المتخصصة يدعم الصناعة الوطنية وينشط التجارة",
-     "url": "https://www.youm7.com/story/2026/11/19/وزير-التموين-تنظيم-المعارض-المتخصصة-يدعم-الصناعة-الوطنية-وينشط-التجارة/7624517",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T10:11:00.000Z",
      "seen": "2026-11-19T10:18:22.708Z"
     },
     {
@@ -242,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم الخميس 19/11/2026 أمام الجنيه المصرى فى منتصف التعاملات",
+     "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPRVhib2Vsc0czZVVpdmZKUGVhX1gtdF8zZkN3dEs4Z1JyQmZlLXo1Wlhra3VjcUUyX2NWS2x6MTAtZXh4YVVrdnR6SFloWVU0M0hOYmw2QzhkZE5KdU84ZVlyWnFwSEtySVhWNnNGRWZtMF8zZGpyMURyTEh3V1FPRDBHRmd4b0VNal83QTFaSkg4MFU2elp4WWVIRHFNc2dvM2RsR0VSMTNnUUQ3cVh3Z0ROREZnSmFJRk9paWpNS2pGMWdOcTl2Zldxcmd3VFNUUHZRckQyOUxFaTg0a2JSTTJ5a01FV0FxZVdlZzlYb1ExdkJBRk5Gd1FKdk16SjI3LXRpVmVaSWg1SGM5dmFieGpnSUxZR3QzX1kxYjc3dEwwcXEyUFJFTnJJVXVHSDFPMDg1SVpHRGxURmpyY0tsVmFvSFRlUkdJdW1relZMSGxrWUhEcV84NnBJdmk0eFo4TC12RmxFd0lFalg1cW9HZEtmN2hXWk8ybERsUTBlRTAxSUpkRnlBZVdPbWhNV0htbFNyNVpWLVlwQdIBlANBVV95cUxOUW5VamlMb0RsbU1ackhGWDVQSGRObTZuMGRZOURhczFOV1RkRS1TWlBMaklySlNvM3BZaTFTcnZqRmtDY1kxN0Y1WE8xUEJtSk5WUzlBZGZKNGEwXzJJN05nbTZBaEhUQmRSUnVlRkZTdHdJZUFPY1F4UGdsNFhTODRjeFNqcjNYczhmQWlwYmZkZkxRbkJGTGJTTUMxcV9pazlDT3A1NlBkMVo1Ym1Ob1V0b3F6b0FuV1hhMG00Uy1yQmx4cHZWVU1yXy05ZFJnU2RTd043N19tMVJqT1J3Tno3VnYyUWp1LXpaQ3MtYWpWUDVZWjF5a19YbGV3TXl4d1ZQY3puVmV3QmNlUnJ6aUc5SEZVV0ZaeUxXQnlya2xHOVJOSzNlR1ZiTmRhU0k2aXR0YmJQLVM4ZGJnZVo5Z3EwRVBHeW1LTmxEVzZTN2hsb1BsMk5mMm5OeU5feGRRcGFmNlRyblFNaE4ybTFzX3Axc1dxUWhlOFRrXzlMakRRMzBuV2RRWXFuVGZIS202dkpwdA?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T10:23:00.000Z",
+     "seen": "2026-11-19T10:28:22.332Z"
+    },
     {
      "title": "تراجع سعر الدولار أمام الجنيه اليوم الخميس 19-11-2026 في منتصف التعاملات",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLUWM2ZnZlZzltZ3p4cU5aVzBOTFptUW9wWGRYU1pIMVFScXVOcFVHS1ZPUFF0Mmx2NjBfSlpubk5fQ0VFRERr?oc=5",
@@ -334,14 +343,6 @@
      "impact": "يهتم الراغبون في السفر وتجار الخدمات بأسعار الريال السعودي لتحديد تكلفة التعاملات والرحلات."
     },
     {
-     "title": "سعر الدولار اليوم الخميس 19/11/2026 أمام الجنيه المصرى فى بداية التعاملات",
-     "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQNUYzbS02b2tRQzluM0VROVdOcHV3VHZ6Tl96dlZYYVE0UENqX3hkSWI2RXdnd2RZVExlRFBmYThoNk1uU2V0UzJpaHZqN0V1X1hnY2hrUW9Ud2F5MXhwVTV0NlQ4VHhWWVJTcTZFdVhveFRBYVhMOWRSRlZsYlgwTURJN0JocmEyMk04dkdMem15UjFJSFRiWkFIckl5YTJxRk5pbW1fdkxSMnc4MUgzTHQxbnh1OW5XczlzN0VaWklPc29OM0o0alU3Z0NvTDVKemdFRFdiZDQybmFwV0UxcmIydXhXM0wxYVZ6TzlKYUd4ZklCMGlnWTVobWxhU2lkSDl1ZzBUWG8yZnREYmFOZ2dxNUhPSk12MFdndktiOGVSUld3VWVHcm4zRjF2SUttVzdNNFBQaDNEeE5IeC1yRi02NEVFN1pnNk5IOVh6QUVHR2loNXZOa1F6dVhkQ2JaLUFJSHhZbWpyWUxFekZ6bUN5cmViODJzNWFpaUZuOWFwOVJEcFRMN3hNLU1jdko5WmdLcTlITWo3d9IBlANBVV95cUxOaFlkQnVtME1PSDZMSmhzRENxQVZfVnRDVm9wWWJiSHd0dUVpeGZTRWxZdzluYXBHZ0luOHdWaXc5bmVrVTJZUkJ0clVUamtwNjRiYjdXbDNUV0lRX1ZpUDgtZE9aVHQ1TmhRbEZRdmFKdHdpZ2xraFBLZzdZUHktNmJWZ01aYnZWOU9oUWdnRFNxdHpsVUJLcHR2WExtZDhYUGJSU1hadUVNbXpSX1JqTzZZQzNBT1daRVFRQnhhWHJveXF0dWQ3cklEZjFxRHlrT2swbE9pcUNKZVB2eFZzVXJrVFNNTWxIR2ptT2NoN25JdFZDeG1yRGxRSnFJMEFBRzNSZkttVVVtei1odTFBSk5FXzlYa3RMMkxrQk16X2NlRkJsd2pCMnM1MG5BMWZnSENRNXphU2dEUzhsWjNMRUdlYk51SXI3Uk8yNUNPV1E0bTlpVnhSTi1fS2RPSEUtQ1ZlNzU4UXNCUmNvR1h0NDdpMmtOa1BOSGgxdU85UXpZQUVJSWxDYW1qTDBETVZZRi1WbQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T08:00:00.000Z",
-     "seen": "2026-11-19T08:16:50.089Z",
-     "impact": "تساعد تحديثات سعر الدولار بداية التعاملات الأفراد والمستوردين على تخطيط تعاملاتهم المالية اليومية."
-    },
-    {
      "title": "عجز الميزان التجاري لمصر يرتفع 60.6% خلال سبتمبر إلى 5.3 مليار دولار",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNalFLbEFCMDlpRk9ta2N0V2kxN2gxaUk5dnlndDJHVjN0Z29IQkd4VkRKMk1vMUozbm5oSWpZTzNjZmJMMkpSMzRjV2ZiUl8wSlJaR2hPVi1pRzZpQWNRNDk4REF5UjVSbzZsS0lfLXRRWFVzbVVHQzJWZU54aDlFRk5VUnppSmdfT0ZYeU9WZTNCUzFkaW0xbFN0cFk4LXRuTjVscHB4WlpVeUZuUjFXZjA2djNhQmY5MmV4S3NwTGFnTmU0MlQ4by0zRnNnSHNJQTdEU2dESnROVlBhUFdUNE8yQU8wZ2tSSEZaMW5JWmJacVhSSXJ6VHlGSGg2Q01hUTUxUWVtWW1KMml0TEdiNU1kQmFIbnNGQVI1ckptd2NBN3pvb0V6MDlR?oc=5",
      "source": "عالم المال",
@@ -383,6 +384,13 @@
      "source": "DW عربية",
      "time": "2026-11-19T09:00:00.000Z",
      "seen": "2026-11-19T09:08:22.482Z"
+    },
+    {
+     "title": "40 دقيقة بين ترامب وبوتين.. كشف أبرز ما دار في اللقاء",
+     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPdXg2NFhlZWRoLWt4RVBoMmJ6R0g0Q1RhYUpxd1dhS1pSVFlDWXY4anNGMlY5aUc1NzFsZDlCQmFfOTlSaUFvRThjU080SUQ2d1NyY3RyUVJmWllwQjFlVVpwOW1ydmdWb2lXWUQ4RHdDbjk5Zy13VGJmQ09OSUlCZVViN2lSWDZabXlDMGQ4dF9GYjdjYklnOUZkVjByMzE1b29qYnJFN2dqVnJxdG40TFp1U25OSnlhay14QXZRQ3FQWHN5dTNjSjJsWS1qZC1hLVlFS1NTMDRMRm51Tlh5VUVqNmNuN05sbFNyWWtrQUZZZlZDU2JiZ014elRUY0RDOC1IZG9VdlVkR0RRVlpuMU5mR1MxSElBbkQ5VVNUXzNQVmhZQ044Rm1POFN3VXJVd3Z1WUpTUXJaOEZjOVB0M1QxdndtaW16MmZSYjM4MzZPc0liYmk4RXFtRTVHSDZheG5B0gHoAkFVX3lxTE9weENMWHhsOVlVRnJHM3VrNVEtOHY5RjN5X3F6MGhCa3ZOYVN6ajljVTcxMzc4WU9YMVctbElNc2p3QklGNEFjeWVuMkVDeUt3RklzNWNQOE5mZUpNNGxkM29wRGpuMEZfZkZqT2VVOFk1ZnRFS1MwQ1NYTXI1WDhNb0RMWkdWQTlsS2dsVlNuemladnk3a0Y2VDlkWVBBa1ZDMFl4dTlVTUNBNjJkWHQ3RUx5Y3NlZ1NxNF80d2ZhenpoV0ZtNkdOUnpYQnhJSnJyT1R0dGhWdUFoeTVSNjJVUDZEcmMwRmUyRXl1cVk4UEVBd2JSRGdFVC1aaDlFUjFKNnlOTGIwd0FKNmxaWEYwN3JtZmFLN0lxN3phMjRtT3FXc2kybVF1aWdVbkhET0xkUkg5U3NkRTJCdk5VVzliYUpCT3czdkd6bHVrYnFvczhYLUU2NGJFU2tpT29BbjcyVWhrV241aQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T08:45:33.000Z",
+     "seen": "2026-11-19T10:28:22.332Z"
     },
     {
      "title": "التحالف بقيادة السعودية يتحدث عن أضرار \"مادية\" بعد هجوم صاروخي لـ\"أنصار الله\" اليمنية على الرياض",
@@ -447,13 +455,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T07:05:00.000Z",
      "seen": "2026-11-19T07:46:49.964Z"
-    },
-    {
-     "title": "\"خزان خفي\" في أعماق الأرض.. اكتشاف يقلب المفاهيم حول الأكسجين الذي نتنفسه",
-     "url": "https://www.aljazeera.net/science/2026/11/19/%d8%ae%d8%b2%d8%a7%d9%86-%d8%ae%d9%81%d9%8a-%d9%81%d9%8a-%d8%a3%d8%b9%d9%85%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%8a%d9%82%d9%84%d8%a8?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-19T06:58:37.000Z",
-     "seen": "2026-11-19T10:08:22.281Z"
     }
    ]
   },
