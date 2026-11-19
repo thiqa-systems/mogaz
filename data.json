@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:58:23.175Z",
+ "updated": "2026-11-19T11:08:22.904Z",
  "minute": [
   "شهدت الأسواق المصرية تراجعاً في أسعار الدولار واليورو والذهب بالتزامن مع تحقيق البورصة مكاسب في مستهل التعاملات.",
   "اعتمد وزير الزراعة تمويلات جديدة تخطت 301 مليون جنيه لدعم المشروع القومي للبتلو.",
@@ -11,53 +11,53 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-19T10:58:23.175Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T11:08:22.904Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.85,
-   "change": 0.3,
-   "asOf": "2026-11-19T10:59:59.000Z",
+   "value": 53.84,
+   "change": 0.28,
+   "asOf": "2026-11-19T11:09:51.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5658,
-   "change": 0.11,
-   "asOf": "2026-11-19T10:51:20.000Z",
+   "value": 5661,
+   "change": 0.16,
+   "asOf": "2026-11-19T11:00:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6459,
-   "change": 0.11,
-   "asOf": "2026-11-19T10:51:20.000Z",
+   "value": 6463,
+   "change": 0.16,
+   "asOf": "2026-11-19T11:00:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3735,
-   "change": -0.19,
-   "asOf": "2026-11-19T10:51:20.000Z",
+   "value": 3737,
+   "change": -0.12,
+   "asOf": "2026-11-19T11:00:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51593,
-   "change": 0.09,
-   "asOf": "2026-11-19T10:46:17.000Z",
+   "value": 51541,
+   "change": -0.01,
+   "asOf": "2026-11-19T10:55:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.101,
    "change": 0.16,
-   "asOf": "2026-11-19T11:00:44.000Z",
+   "asOf": "2026-11-19T11:09:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.33,
-   "change": -2.85,
-   "asOf": "2026-11-19T10:51:18.000Z",
+   "value": 89.3,
+   "change": -2.88,
+   "asOf": "2026-11-19T11:00:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63711,
-   "change": 1.15,
-   "asOf": "2026-11-19T11:01:15.000Z",
+   "value": 63638,
+   "change": 1.03,
+   "asOf": "2026-11-19T11:10:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,39 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خالد بيبو يكشف حقيقة طلب الأهلي ضم ثنائي زد",
-     "url": "https://www.elbalad.news/7186614",
+     "title": "«حدوتة» يكتسح شباك التذاكر بـ7.6 مليون جنيه في يوم واحد",
+     "url": "https://www.elbalad.news/7186635",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:57:54.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
+     "time": "2026-11-19T11:07:34.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
     },
     {
-     "title": "«متجر دولاب» للتكافل الطلابي وشهادات مهنية مصغرة.. قرارات جديدة بجامعة الإسكندرية",
-     "url": "https://www.elbalad.news/7186623",
-     "source": "صدى البلد",
-     "time": "2026-11-19T10:57:04.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
-    },
-    {
-     "title": "إبراهيم نجم: الأمانة العامة لا تستهدف توحيد الفتاوى.. وإنما بناء شبكة للتنسيق المؤسسي والتكامل بين دور الإفتاء في العالم",
-     "url": "https://www.elbalad.news/7186618",
-     "source": "صدى البلد",
-     "time": "2026-11-19T10:56:58.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
-    },
-    {
-     "title": "فخامة الرئيس وعبد الحميد الدبيبة يشهدان التوقيع على 9 اتفاقيات ومذكرات تفاهم",
-     "url": "https://www.youm7.com/story/2026/11/19/فخامة-الرئيس-وعبد-الحميد-الدبيبة-يشهدان-التوقيع-على-9-اتفاقيات/7624622",
+     "title": "وزير التموين: استمرار سوق اليوم الواحد ببدر حتى غدا الجمعة لخدمة المواطنين",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-التموين-استمرار-سوق-اليوم-الواحد-ببدر-حتى-غدا-الجمعة/7624635",
      "source": "اليوم السابع",
-     "time": "2026-11-19T10:55:00.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
+     "time": "2026-11-19T11:07:00.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
     },
     {
-     "title": "نائب وزير خارجية روسيا: موسكو تقدر جهود الرئيس السيسى لحل نزاعات الشرق الأوسط",
-     "url": "https://www.youm7.com/story/2026/11/19/نائب-وزير-خارجية-روسيا-موسكو-تقدر-جهود-الرئيس-السيسى-لحل/7624554",
+     "title": "مصرع شخص وإصابة آخر في تصادم سيارة وموتوسيكل بالطريق الدائري بالفيوم",
+     "url": "https://www.elbalad.news/7186634",
+     "source": "صدى البلد",
+     "time": "2026-11-19T11:05:15.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
+    },
+    {
+     "title": "محافظ الجيزة يعلن تفعيل خدمة فوري بلس لسداد مستحقات تقنين أراضى أملاك الدولة",
+     "url": "https://www.youm7.com/story/2026/11/19/محافظ-الجيزة-يعلن-تفعيل-خدمة-فوري-بلس-لسداد-مستحقات-تقنين/7624644",
      "source": "اليوم السابع",
-     "time": "2026-11-19T10:53:00.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
+     "time": "2026-11-19T11:05:00.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
+    },
+    {
+     "title": "وزير التموين يفتتح سوق «اليوم الواحد» بمدينة بدر لتوفير السلع للمواطنين",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-التموين-يفتتح-سوق-«اليوم-الواحد»-بمدينة-بدر-لتوفير-السلع/7624629",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T11:04:00.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
+    },
+    {
+     "title": "فورد تكشف عن سيارات لم يرها الجمهور| صور",
+     "url": "https://www.elbalad.news/7186631",
+     "source": "صدى البلد",
+     "time": "2026-11-19T11:03:32.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
     },
     {
      "title": "الرئيس السيسي يستقبل رئيس الحكومة الليبية بحضور مدبولي ورئيس المخابرات العامة",
@@ -182,18 +189,18 @@
      "seen": "2026-11-19T10:58:23.175Z"
     },
     {
-     "title": "تقديرًا لزيارة الدبيبة.. توجيه رئاسى بشأن تأشيرات دخول المواطنين الليبيين إلى مصر وإقامتهم",
-     "url": "https://www.youm7.com/story/2026/11/19/تقديرًا-لزيارة-الدبيبة-توجيه-رئاسى-بشأن-تأشيرات-دخول-المواطنين-الليبيين/7624601",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T10:43:00.000Z",
-     "seen": "2026-11-19T10:48:22.843Z"
-    },
-    {
      "title": "قرار من مجلس الوزراء بإسقاط الجنسية عن «علي ميلاد» لالتحاقه بالخدمة العسكرية في دولة أجنبية",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5WU1SZmNmRnVQZXoxX2JGek1VV3JVUG9mUFhGYUYwQlZBSDJadVlDZFpob0VvaGo1TDhDZEdhckY5VVJPZXNfVHBBSy0zbWdJcThIY054b3VCQVV6MktV?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-19T08:54:00.000Z",
      "seen": "2026-11-19T08:58:22.443Z"
+    },
+    {
+     "title": "\"جمعت بين زوجها وشقيقه في الحرام\".. خيانة تنتهي بمقتل عامل ووالدته في سوهاج",
+     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQRk1CZm9oa1RDTkpmTzZVdE02WTVPb3lfXzFEUEc3TUVxWUJtODhOM0JYclJxUm1sMmdfME0xTFlDc3g1ZkxHS3lfZWJsTmxlWkU2dHNySlJ1bEJVemM4LXh0MHYwNmh6cmNkOUdQdmhYT3ZBM0NKMUVWYjgzREpwWTdLbmZHb3pCSU5oYjRGY2VXQzdzOGU2b1UwRWJXOEl4WTM1V2pMbnFyM2VPejRPRWZ2TzgtREpOdzhFMXFTeGd4YkEyQTJkVUhoUjdkMklDZTNraTFOcEtmLS14enY0MTFwNnNIUng5akdpU3MtVjBuXzl5TmJqQnpnWVFiSEMya0U0WEZkSzVSaThsb00wMWNnQ2JYbXNMN3pNZEZadHVxaEpWM0NQTnl3eDQ4UGl5d1ZuOGljSTk1dGphRjdSWDF6MFRVTnNITVkyQW5peEl1X2dYMmdtaHpQTXFOS2xQM05IOXBXdnRlNjdDR0V1US1mQnFWbWlRODFSTzFXekNpWVEzM1pwdWNUMUtHR204aEtfYWlvMmQwSVFDbmNla2VTdVEtRkFaVHI2OVFHX2tXTEIzSGI2bUI4azk5V1dqellkRnZZWUYwTU0xbURUZVdfcnRIbUlTMm41Z3U5UE1TLVY2ams3VHVHRWxwQjZDalhpQ3BXZWpqb3hhRk9PVEtaYzZ0eDVpUXBiRWhHWk51dWF1QlJLWXZuSDJ4YmRBdURneTZxdjJCektfM3dNbUxXNHQ4eWJnelZoNG1rVHN5Z0VBSnI3V3lXbE8zb2pkbmo2XzhWSFhNbDgyLWQ40gHkBEFVX3lxTE9wdnZyZ0hpMjZlWXY2MS1fNWhncVdyTV9aTWYwSnZwWHlGMk9Bam1PamM0TEZHTW04ZC14VXZHV3pxbzVQWUxsUDRhUjhNRmEwVFJtTzJRZmZBdlZ5QWFxR3NHd0k0dlU0aWdOc1lseGUtNjhtdWJjMy1QZlp1RlZKdENxT1doRVBycGpfZG1XakNzak4tRHV3VDNoWE50Y3YxNmJjZ3lmN19MYy13dnI3WGR6azllVlpDSklESjl6cklVOUlSU3BnMk9ZWmJwVGh2d19oQkgwdmZycjRoalpreERpWVEzVk8zbXhLYXUtTXdra0VLVmRGeXJVZXY0MmpraGs3aHdCN3dFYUs4d2ZFWkNSME5aMFo5ZWVfcHZmanJhRDNJZ0hRYXlTMmVJLUQ4OHU1bldkWHlFUnVzSDdEaGhFSmJZc01XNHY5cUZCZXlpaU5nT1Zkcll0WDA3dnlISktndFpiNHJlTUd5RkhTbW9jc0xmbUxNZGdHVXd2ampzZFN3WkEwb09DSFJOV1lweHgyZk14SWlfQjhPNHhrdnVxZTV3VFh5Q01iU3NXU3U5a0lkRFhDSTdCUWY4OEc0cHZseEJnWXVLNllxUXh0R2U5VHlISGFjaVU4RFp6NDBBUDJiakxTd2I2QjAwWlNzRTBGVzBqdEQ1S09DRzZtMXRpdmNhVjdudmNGMzQ4YTRpelpnd1pabGFmV09pNzdhTGVZcGdTYld3RkpGMXRfbXBGdlF0ZHVHMDdUZkY2OEFIUmhxbnAzek00QXBFeHY1S2ZjcU81LWR1M2s4WmV5QlpHMQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-19T07:56:07.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
     },
     {
      "title": "رحيل فيلسوف مباحث أمن الدولة",
@@ -230,13 +237,6 @@
      "source": "بوابة الشروق",
      "time": "2026-11-18T22:51:36.000Z",
      "seen": "2026-11-19T08:48:22.624Z"
-    },
-    {
-     "title": "تفاصيل اتهام مرتضى منصور بسب وقذف 6 شخصيات عامة.. إلهام شاهين ودان على رأسهم",
-     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNTm9FNm4zSElvMXlGdG1ZejJySHN1Z3puNUxlb09Jd0p3OEdqTkluYzdpZ0pfa3ZNQ2xHR1lBelhYRktPWlRmQTBnenFZMEl0a19kM3J6cUUwMnJvNWtrd243Tkhld1RIWkxZQnNHZHBMTVQzRmxKT0xXTU9wMnZYRmM1WFVVSXNsU1ZwNHRBbDRWTGZtdmkxU2R3a0ttTWprSVMzalh5M01lamttZXNUMnBGai1SUjNSMk81VE92eWNTaVNPQTJ2WGRhNktoZE0xd0JtU1hvZ3loNEhLaVI0RFdLM2RZbTVIRTliUE96dTdWQ25tTmJtSHVxSlZEdUliMHVtYlBHZW1RUmNIMlZMUFZtWVRocWhRcGRsNFNhVl9Va2E5emFjNDVOclByaElLOW42Q3ZmVWhpU0xzY1F4VTVYV1NBYzFPWHR1MXpUSnZ5WDd3Z1pOTTJNMzhvcXdfSmdGZmE1TnFac1U3NFJEaFkwdzBGUjV6ck9IWlNDVFRKWmM0a3BUWXkyLXdGNVdWRmhwdWVwS1dhNXpjVm82bzE3blU1MzN2VjJRZkhIQXpJbnlmQ3p1al9uZDJwQmtNbTU3eEZKdXRwYzUxNnljUTRKalhHbXlSdUhWdGtkVS1VemNLcjBfOVV3UEVBX0otR2lmZVdad1lVOGxDbXJEVFRxVXBBdXYzdXZrRnktU3UzWEFmRzNMYTROYml3UGhORF94Z0ZlSVEyLXR0YTR2aUg4UW1IQzBzeXh3anR3Zk1aNEw3TlJjV0FjZEpxVVB1MGV6Nll0bUdYYkZQMl9yUHh1Q2RTSHpvNnfSAe8EQVVfeXFMT09pWFo0c1RhOUlmdC1NNE9UbHozWXF4cjVvOWJwcjN5TEhoa3lIdjhOeEZmcEFIejBXZGI1NVFuVUc0SnFCejhsbFZnMjBtQVZXcFlxYkNST1lwSWYweEpjQlRlLXUzZFBtRXV2VHRSQ2wwcnRHdzdGb1F5QUZBM1N1YlJWWm1weVBQRnBJMHpoQVN1dDVlUHlQV1prbnVfUHV6NU5qTUlQSzZxbHVwd0tIUWk0WTlnempQUk1nMFh1TnNoY3ZUM0FpRXpvUFNZalJVWTJwZkZ3STd0aURSZTBvaEIySVc1dlVCdWM1US1fSW1oSGpSY0t3WXQ4RGFYYWJieDRfWm1xUGdtc3JYbkVpTmNqdnNSX0JXQ2o2VUVhLUlzSm9WMFVDM0dyZ3lmc2haNGpha29YcjRMc0NaZ3oxOGdxbm1MOFI0U3lELU03VnpielV6S0tiX2RuWVNIWU5ZejF3QlV2TGhWbGxBd2lFdEpUazlHYk9uUi1XZkpYa2JxYk5JS0JwbVJ6YjQxQzdETTc0NFFxcl9MMFJsbEdxZ3FmcG00Y09GY3JrRHRJdDRIREw2Xzd1bVktMi1TRnhzTGkzZ0czU1F3LXZyZUVVd1ZQaENHT0JzTjZXLWswY2ZxMGNCcExOZ1oyNDNwaHl5OWhuQUxtR3pwX1RWbFQ4bzh0dER3RXFRenJmVUpvdDVpd0VFby1kNXJKVnNIb0FGYTNxX3FaRWc2QXFzSGtmMndTMFNsUTFRYmp2b05ZVDdRNkVQcERQSkFDczN2a1VtTGloS2JyOWpLSW5hcWJ4MXRNUjRRV3BoeHh1YTA?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T21:41:22.000Z",
-     "seen": "2026-11-19T04:16:49.333Z"
     }
    ]
   },
@@ -244,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "هل تغيّرت نظرة الشباب إلى التملّك؟",
+     "url": "https://www.bbc.com/arabic/watch/c6x280exy7vno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T11:02:12.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
+    },
     {
      "title": "\"واشنطن تطلب التحقيق في دراسة بارزة استبعدت تسرب كورونا من مختبر\" - التلغراف",
      "url": "https://www.bbc.com/arabic/articles/ck7v2dvm6190o?at_medium=RSS&at_campaign=rss",
@@ -339,14 +346,6 @@
      "source": "BBC عربي",
      "time": "2026-11-19T08:45:13.000Z",
      "seen": "2026-11-19T06:56:49.897Z"
-    },
-    {
-     "title": "سعر الريال السعودي اليوم الخميس 19 نوفمبر 2026 في البنوك.. آخر تحديث",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RTVJGRnN6Ujc0WDNPSFo3aXN6YWdYYWJvNGFOSW90WUNpUHh1MTN5R29JNTBlZlc1Sml6WlZhOWNURkNHNXNya0NZR1NVNjlvZkpXbXUzQzNUSlFp?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-19T08:18:41.000Z",
-     "seen": "2026-11-19T08:46:49.733Z",
-     "impact": "يهتم الراغبون في السفر وتجار الخدمات بأسعار الريال السعودي لتحديد تكلفة التعاملات والرحلات."
     }
    ]
   },
@@ -381,6 +380,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T10:33:42.000Z",
      "seen": "2026-11-19T10:38:22.820Z"
+    },
+    {
+     "title": "ترامب خلال القمة الثلاثية مع شي وبوتين: نحن نصنع التاريخ",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yY0xqMEE1eEc3b2l0ZkZwSV9KX0NEbDRhdk9KQzBPalA5OGoxUjM3V3ROTHFLRlZuMENnOFFUZHhTUFV1aDBNb29LRC1LQTBmQ2p6Z1I3czg?oc=5",
+     "source": "BBC",
+     "time": "2026-11-19T09:52:35.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
     },
     {
      "title": "فيديو.. الحقيبة النووية الروسية تظهر برفقة وفد بوتين بالصين",
@@ -426,6 +432,13 @@
      "seen": "2026-11-19T08:36:49.360Z"
     },
     {
+     "title": "نيويورك تايمز: نتنياهو يدفع ترمب لشن هجمات على إيران لا تتجاوز أسبوعا",
+     "url": "https://www.aljazeera.net/news/2026/11/19/%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d8%aa%d8%a7%d9%8a%d9%85%d8%b2-%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%8a%d8%af%d9%81%d8%b9-%d8%aa%d8%b1%d9%85%d8%a8-%d9%84%d8%b4%d9%86?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-19T07:56:55.000Z",
+     "seen": "2026-11-19T11:08:22.904Z"
+    },
+    {
      "title": "\"مسلحو كتائب حزب الله يرفعون السلاح في وجه محافظ بابل بالعراق\".. ما قصة الفيديو؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/circulating-video-kataib-hezbollah-brandishing-weapons-governor-babil-iraq",
      "source": "CNN بالعربية",
@@ -437,20 +450,6 @@
      "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%aa%d9%8a%d8%b1%d9%8a-%d9%87%d9%86%d8%b1%d9%8a-%d9%85%d8%ad%d8%b1%d8%b2-%d9%84%d9%85%d8%b3%d8%a9-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-19T07:54:06.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
-    },
-    {
-     "title": "دراسة \"مرعبة\".. نماذج الذكاء الاصطناعي تستهدف المدنيين في الحروب",
-     "url": "https://www.aljazeera.net/tech/2026/11/19/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-19T07:47:15.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
-    },
-    {
-     "title": "مباشر حفل جوائز الاتحاد الآسيوي لكرة القدم 2026.. لحظة بلحظة",
-     "url": "https://www.aljazeera.net/sport/liveblog/2026/11/19/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%ad%d9%81%d9%84-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a2%d8%b3%d9%8a%d9%88%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-19T07:44:23.000Z",
      "seen": "2026-11-19T10:58:23.175Z"
     }
    ]
