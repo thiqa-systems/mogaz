@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:36:49.993Z",
+ "updated": "2026-11-19T06:46:49.602Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T06:36:49.993Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T06:46:49.602Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.77,
    "change": 0.15,
-   "asOf": "2026-11-19T06:36:21.000Z",
+   "asOf": "2026-11-19T06:39:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5653,
-   "change": 0.02,
-   "asOf": "2026-11-19T06:26:55.000Z",
+   "value": 5650,
+   "change": -0.04,
+   "asOf": "2026-11-19T06:36:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6454,
-   "change": 0.02,
-   "asOf": "2026-11-19T06:26:55.000Z",
+   "value": 6450,
+   "change": -0.04,
+   "asOf": "2026-11-19T06:36:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3737,
-   "change": -0.13,
-   "asOf": "2026-11-19T06:26:55.000Z",
+   "value": 3735,
+   "change": -0.19,
+   "asOf": "2026-11-19T06:36:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0971,
    "change": -0.2,
-   "asOf": "2026-11-19T06:36:44.000Z",
+   "asOf": "2026-11-19T06:46:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.38,
-   "change": -2.79,
-   "asOf": "2026-11-19T06:25:23.000Z",
+   "value": 89.5,
+   "change": -2.66,
+   "asOf": "2026-11-19T06:36:28.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63523,
-   "change": -2.11,
-   "asOf": "2026-11-19T06:36:52.000Z",
+   "value": 63474,
+   "change": -2.19,
+   "asOf": "2026-11-19T06:46:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الأوقاف تنظم 3394 مجلسًا لقراءة البردة الشريفة بالمساجد الكبرى اليوم",
+     "url": "https://www.elbalad.news/7186315",
+     "source": "صدى البلد",
+     "time": "2026-11-19T06:40:12.000Z",
+     "seen": "2026-11-19T06:46:49.602Z"
+    },
+    {
      "title": "حبس المتهم بإطلاق أعيرة نارية في المراغة بسوهاج",
      "url": "https://www.elbalad.news/7186309",
      "source": "صدى البلد",
@@ -150,13 +157,6 @@
      "url": "https://www.elbalad.news/7185877",
      "source": "صدى البلد",
      "time": "2026-11-19T06:30:00.000Z",
-     "seen": "2026-11-19T06:36:49.993Z"
-    },
-    {
-     "title": "ثعابين مدرسة الأحياء بالغردقة تثير القلق.. مطالب بحملة موسعة لتأمين 2800 طالب وإزالة مخلفات البناء",
-     "url": "https://www.elbalad.news/7186304",
-     "source": "صدى البلد",
-     "time": "2026-11-19T06:29:36.000Z",
      "seen": "2026-11-19T06:36:49.993Z"
     },
     {
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "أسعار العملات اليوم الخميس 19-11-2026 أمام الجنيه المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBUVEtvbmxxSWNWMjBWMDBtUUpaWjlNYXhyeUotdHN1QmNoMWZ6UTFoLU9WUXFrNHlPWE05ZTdwWnhiMmNX?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-19T06:36:57.000Z",
+     "seen": "2026-11-19T06:46:49.602Z"
+    },
+    {
      "title": "أسعار العملات الأجنبية اليوم الخميس 19 نوفمبر 2026 في البنك المركزي المصري",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0UkZXVGNmTGg4SmVXRlB0R2liWGxEZml1R0VSb3BVX1ZiOGliaFo4NmJxRlk4bklMSDJaN1BrREltbmQz?oc=5",
      "source": "جريدة الدستور",
@@ -275,7 +282,7 @@
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك.. استقرار العملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQTJJWElEYklnaHhRWmF3LTZjZUVIZTBCVDJUdS0yV1htdm9GOHEzSGxhLTlQaWhncHFwTS1SOTV2VUhn?oc=5",
      "source": "جريدة الدستور",
-     "time": "2026-11-19T05:11:16.000Z",
+     "time": "2026-11-19T05:40:00.000Z",
      "seen": "2026-11-18T23:15:20.239Z",
      "impact": "تساعد المستثمرين والأفراد على التخطيط المالي وتحديد تكاليف الواردات بناءً على استقرار الدولار."
     },
@@ -335,13 +342,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-18T23:09:00.000Z",
      "seen": "2026-11-19T03:46:49.689Z"
-    },
-    {
-     "title": "الدولار يستقر أمام الجنيه بالبنوك المصرية اليوم الخميس 19 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPM0tyNEJ3dXFURUJ0WmNQYmFRT1JUVGdKMnh5YUY2NHlFSzI2elc1M2VNbktJaW9rdDM5QjlxM3ptZzBhcWdWZFNMeEpxR1UyYVRiS1hCRFA1cnppYndWNFhOeUhYZ0Vfa0FUSkRDd3ZxNlNiSEpsOEVaRjNMbGNjWlhsX3V3NEYtX1dlS3RDcFRDR3ktMWtXSmZBb09ndXFxS1FIU3NVZHJvNVVpaExfVnBMa1J5bm1LcmJCcy1XbHZ5UjhFcnJLRUxfXzJXU2ppTkV2NDhsOTRTMldBY2ZVT3c1aXNDU1Y1RTBxM1I0V2VVUHJoTzRHRmNGVUF0c1JhXzQ3RS00eE41Q2N2ajFhNjhyU3VXaWtYX2dxNlNxVHNIODVWQXRSWDg0bVdoUTVDWTh2NkR0SElVSVNLNkR6cjhYcENWci1HaUREQnVPeGJiUQ?oc=5",
-     "source": "الوطن اليوم",
-     "time": "2026-11-18T22:45:09.000Z",
-     "seen": "2026-11-18T22:55:20.109Z"
     }
    ]
   },
@@ -392,11 +392,11 @@
      "seen": "2026-11-19T05:26:49.862Z"
     },
     {
-     "title": "تحت غطاء العمل الخيري.. واشنطن تكشف شبكة لدعم حزب الله",
-     "url": "https://www.skynewsarabia.com/middle-east/1905692-%D8%BA%D8%B7%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
+     "title": "لقاء ترامب وبوتين.. العقوبات على روسيا تتصدر التوقعات",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNSzhtZUd5bjNEakJmeTl3RlRLc2xfajRpdU8tNXpaeVI2V3VkWV9XUXRkWWpDQmJ4ZjFSQVBNWDFuMVU5bEtwV28xcDZwb1NPajVrVjRKZS1LamkyeXJWU2xWYzlEYWxPdGtZbnY0N3hOQlN6bW1PVWR1YkRSTWZCOTM4MHJHbFlHMFA5Rm9SNFo4NWJyMjF5Qnh3dlVHajk2UHJuOFhOMncwZHJoTGs0d0J1M1ROWlBIamFGenNGTlhkNWloSnI3WG9TZ0R2RWpScnVpazFUN1NjYV9TS3k1cG9FR21UcjBxRi13cXJLMGtJMmNWNWc1MXp5UHZXbWtPN3FhbEU4UWl3RkctR1U0dVRoa1ZGbTZDMUhmdGlMQVh6QTJSTENGc1hHRS1qVE5kaFVfSXBHWmh4aXFHelUwdVZZeGdVNDVnaUs5R3pZZ3lTS2FncGdfMGk1MGdQWHpxa0VINk5tT0FRdUlaZ1F6TWFVZTFPU0oxUjlROWV1aXhLYlM0WkdKR2xfZFR3WHY3TXpMbHNxOTluT1BxZjhHTllWdHMweFXSAawDQVVfeXFMTmVhS3NHZXZYT3NOTUZ4eUhpcGozLWxBZEt0MmhvY2NZYTlqT244TldveXBpb3cxTmhKTnQ5QmhZLUdjek9EbGNvOEtlajh6T0ZKSkc4dzZFWTRCSFBHNFpQaThBMDVHRXoxY0hTSWJMV2RmZFlYLVdaSDRUQmtLam1kVjlicVVjeko2N0tZdkp3SGd0Y2dXX25za0J0Y1BmZVM2cE9HMmVKOWNPdzNfNFF1alRIWGo5NXdaOHlRcnlUV0NIcUdVZ3lCTV9NUURuaDlNVDd4NHFzUDZDU1J1OUZld2U1VHFzSjNRTy1GckZvVG12QzJ2MVhMcTY4ODFva09tWmJWQmlHeWZ1amRWb2xCc0dtd1RHSVNEcGtHby1QR0thWjl5eldvVkpDMXdpNDBzSzZFd3FCY3h1OVZOaVZQU0ZKSURsN2xIaXRaeTJuRE1xcHQ3UzdUMGdVOEtKQWlrOUh1VkZub29tOW5IUHhyY21zU2lmc0R1T2dpRlFFS1lWSXpOb3llRk5hZzd2LTdNeFlocWc3RVl0NXJFWktfTFk0YlB4YlVRTG4?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T04:55:31.000Z",
-     "seen": "2026-11-19T05:06:49.871Z"
+     "time": "2026-11-19T05:12:08.000Z",
+     "seen": "2026-11-19T06:46:49.602Z"
     },
     {
      "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
@@ -454,6 +454,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "أنثروبيك تسعّر أكبر طرح عام في التاريخ بقيمة 81.3 مليار دولار",
+     "url": "https://aitnews.com/2026/11/19/anthropic-record-ipo-81-billion/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-19T06:40:26.000Z",
+     "seen": "2026-11-19T06:46:49.602Z"
+    },
+    {
      "title": "جوجل تطلق نموذج الذكاء الاصطناعي Gemini 4 Neon للبرمجة والتحليل والمهام المعقدة",
      "url": "https://aitnews.com/2026/11/19/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%b7%d9%84%d9%82-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-gemini-4-neon-%d9%84%d9%84/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -468,11 +475,11 @@
      "seen": "2026-11-19T06:36:49.993Z"
     },
     {
-     "title": "أريزونا تفتح تحقيقًا جنائيًا يشمل OpenAI بشأن وكلاء ذكاء اصطناعي في المصارف",
-     "url": "https://aitnews.com/2026/11/19/%d8%a3%d8%b1%d9%8a%d8%b2%d9%88%d9%86%d8%a7-%d8%aa%d9%81%d8%aa%d8%ad-%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d9%8b%d8%a7-%d8%ac%d9%86%d8%a7%d8%a6%d9%8a%d9%8b%d8%a7-%d9%8a%d8%b4%d9%85%d9%84-openai-%d8%a8%d8%b4/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-19T06:29:05.000Z",
-     "seen": "2026-11-19T06:36:49.993Z"
+     "title": "الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية",
+     "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNY2V4X2I0TlpRTlpHSmhhM0tWdzIteVRDbFdISlU3aWFBZDF1YmVZc0F5WWNFWDU5eEFFdVFaN0h2LVhiaTdHMnMxb181OFdkNlFuaS1ESWF6WV9wNnMxRU1TSUluaHVHdlFuLW9vLVNEWkZqMnROUF81NTBKcF9zdHhQTFJ4MXRkUEp6eDJneHpDQ1p2bmxFbXpaNy1jQm1hb2VnX216YTY3d1l6REVXeDMtWU52c2xhaGJhT0VublV1TzI5Y3ZpU1FrTVIyRGQ4aDRMd1Q1UXVaUjdZM21qNTAyTnhYelB1ODB4aWxGaTlfTHZmamF0T3AtSmtDeVlYWmZEd1pjckNfZHdsaFBCcG5FZjNyRFZJMHp6UXpEZzlYOVM3dDZWME95MnVSc0pfMnRoak45VFBrcE9jUE5KejhYZHhjMjltZFZsaFFCbzQ5OVNLRlk1RVdheVpINkVrT3Vhc083QWtVNmx5ZktxMm1oYnhvRmtwbUdoZWNjNHJVZFFfUlI2cEQtdVlzV1hhLTJZanR4T3NzOUw2VFQ2dEp1OVF5NEhMSU5OSmdtWFRMZG5BbWpia21WOXdMZ1ZLY2RYWEZmcWdkNkRWOGxGNWR6ZXUzMDFqc0NjOEVibTBZY0trWmd1LURuNi05NjRNTlBzTTFlTlBUSTZyeU1pSHQ3VzBxNWJmYUJwdG5JTndCM2FDVTRxc0NLUFRsT1pSMlpSbkFPbFc5TDMyaWxzNldYNkdEWFFUbU1qNWpZUzViYUFVQUM3aHBHd3NFM2syaWFOLXNwOG43dVlBdFNuUWlFLTFETG5hUWc40gHwBEFVX3lxTE1lRVhpU2ZkZ09McTZTY3NMVXJEWGZpeVVMZUgyWFdxcm1OZzVqMC1aLVFza1BxREs5NHNxb3lhMmJrckFpZXhNUEtyUUhiTE1FWG85bmRVWEI4OUZOSGxTS2k4ZWFRN0tUQVdteTF6dUVBLUZRanBKRVdLb3Rka0YzRV8xdWJRbWdxcmRNUXNOYzV4cWZIeDN3c2ZKcEVWX2ZpWHZ4NEZRLU1WaEpaS2tqVjdxaF9rWjJ1bUljVnVYNVlHS2lyMmFrNHZ2d2t5MXVfS3RrWXNpc1VMZ1lGOGNDZ3dRWWNqbmg0OTFzUGdGMFkxQnRmZmUxSWlnS0RpQWhQNVNSTTJHM1hDR2pEcHFMNFJEeUh0STM2dnZFU2FMQWp5cjB6Z3psa2FONk5fTWhDSU94SVloSncwYXRGVlBFMnNyY0hXdkxHUFotMlViam55d0VtSnVIT190aUFSNXQtcHdSczM1RlM0bVZIVFQ1U0NULW5RRjA4VUZjUlFtZmVHLVF0ZGVfaTBmUGg2YjBSdlBYRE1MYll3a2xrMzJTZ01hbHpUdUlNV01aZGZoSmJzY2Z2M09mcEpydlRMX2E5dVVMT3Q1eGpHdE1uT0dYZUlZRWM5SXBXNmVDUTVVTlFma3I1VzJUQ0E1dExXRVdBN29PVUsyYmEzZTNEMGRlZVc0T3VSZXJyNVVIbTNTb3hxaWpBS3V2VmxvQlBZSGkxUE5PVWZjVHVsZmtOSTdua0RabGtoeG9qcnBhTUJhX25NMmR5MTFOVWl1aTdjVjc5dmF1aTBmRjRjNUdXbWhLTElXbWhsRnVYRVdvdTlwVA?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-19T05:30:00.000Z",
+     "seen": "2026-11-19T06:46:49.602Z"
     },
     {
      "title": "ترامب لقادة أبيك: نعارض فرض قيود صارمة على الـ AI",
@@ -545,13 +552,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-18T18:05:00.000Z",
      "seen": "2026-11-19T01:05:20.129Z"
-    },
-    {
-     "title": "شاومي تجهز هواتف Xiaomi 18 وREDMI Note 18 وTurbo 6 للإطلاق مطلع 2027",
-     "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%ac%d9%87%d8%b2-%d9%87%d9%88%d8%a7%d8%aa%d9%81-xiaomi-18-%d9%88redmi-note-18-%d9%88turbo-6-%d9%84%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b7%d9%84%d8%b9-2/",
-     "source": "عالم التقنية",
-     "time": "2026-11-18T17:18:03.000Z",
-     "seen": "2026-11-18T17:24:53.159Z"
     }
    ]
   }
