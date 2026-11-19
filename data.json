@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:38:22.242Z",
+ "updated": "2026-11-19T11:48:22.930Z",
  "minute": [
   "تشهد الساحة المصرية متابعة رسمية لملفات التموين وتطورات أوضاع التنقيب والالتزام الضريبي.",
   "عالمياً، سجل مؤشر الدولار تراجعاً طفيفاً بالتزامن مع تحقيق قطاع الذكاء الاصطناعي تمويلات وصادرات قياسية.",
@@ -9,70 +9,72 @@
   "at": "2026-11-19T11:28:22.514Z",
   "model": "gemini-3.8-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-19T11:48:22.930Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.82,
-   "change": 0.24,
-   "asOf": "2026-11-19T11:38:19.000Z",
+   "value": 53.77,
+   "change": 0.15,
+   "asOf": "2026-11-19T11:50:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5647,
-   "change": -0.08,
-   "asOf": "2026-11-19T11:28:12.000Z",
+   "value": 5641,
+   "change": -0.2,
+   "asOf": "2026-11-19T11:40:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6448,
-   "change": -0.08,
-   "asOf": "2026-11-19T11:28:12.000Z",
+   "value": 6440,
+   "change": -0.2,
+   "asOf": "2026-11-19T11:40:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3730,
-   "change": -0.32,
-   "asOf": "2026-11-19T11:28:12.000Z",
+   "value": 3729,
+   "change": -0.34,
+   "asOf": "2026-11-19T11:40:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51563,
-   "change": 0.03,
-   "asOf": "2026-11-19T11:23:20.000Z",
+   "value": 51522,
+   "change": -0.04,
+   "asOf": "2026-11-19T11:35:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1002,
-   "change": 0.08,
-   "asOf": "2026-11-19T11:37:45.000Z",
+   "value": 1.1,
+   "change": 0.06,
+   "asOf": "2026-11-19T11:49:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.93,
-   "change": -3.28,
-   "asOf": "2026-11-19T11:28:23.000Z",
+   "value": 88.81,
+   "change": -3.41,
+   "asOf": "2026-11-19T11:39:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63908,
-   "change": 1.46,
-   "asOf": "2026-11-19T11:38:19.000Z",
+   "value": 63993,
+   "change": 1.6,
+   "asOf": "2026-11-19T11:50:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,47 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الهلال الأحمر يمد أهالي غزة بمساعدات جديدة",
-     "url": "https://www.elbalad.news/7186672",
+     "title": "اللواء أحمد صقر: تنظيم نشاط التنقيب عن الذهب يحمي من النزاعات",
+     "url": "https://www.elbalad.news/7186677",
      "source": "صدى البلد",
-     "time": "2026-11-19T11:35:43.000Z",
-     "seen": "2026-11-19T11:38:22.242Z"
+     "time": "2026-11-19T11:47:54.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
     },
     {
-     "title": "قبل قمة بيراميدز.. إمام عاشور يستهدف مصالحة الأهلي وفتح صفحة جديدة",
-     "url": "https://www.elbalad.news/7186596",
+     "title": "روسيا والصين وأمريكا يؤكدون الالتزام بالحفاظ على الاستقرار والأمن الدولي",
+     "url": "https://www.elbalad.news/7186674",
      "source": "صدى البلد",
-     "time": "2026-11-19T11:35:00.000Z",
-     "seen": "2026-11-19T11:38:22.242Z"
+     "time": "2026-11-19T11:46:06.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
     },
     {
-     "title": "بعد قرار الرئيس السيسي بتعيينه عضوًا بهيئة كبار العلماء.. د. محمد الحفناوي يشكر الرئيس السيسي وشيخ الأزهر",
-     "url": "https://www.elbalad.news/7186665",
+     "title": "نقابة أطباء الأسنان تبدأ الأحد المقبل تسجيل قيد خريجي دفعة 2025 إلكترونيا",
+     "url": "https://www.youm7.com/story/2026/11/19/نقابة-أطباء-الأسنان-تبدأ-الأحد-المقبل-تسجيل-قيد-خريجي-دفعة/7624716",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T11:46:00.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
+    },
+    {
+     "title": "انطلاق دوري الجامعات في نسخته 54 بمسمى أولمبياد الجامعات والمعاهد المصرية",
+     "url": "https://www.youm7.com/story/2026/11/19/انطلاق-دوري-الجامعات-في-نسخته-54-بمسمى-أولمبياد-الجامعات-والمعاهد/7624720",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T11:45:00.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
+    },
+    {
+     "title": "شرم الشيخ.. تحركات لتحويل القزق البحري إلى مركز لإصلاح السفن وصناعة اليخوت",
+     "url": "https://www.elbalad.news/7186670",
      "source": "صدى البلد",
-     "time": "2026-11-19T11:34:35.000Z",
-     "seen": "2026-11-19T11:38:22.242Z"
+     "time": "2026-11-19T11:44:06.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
     },
     {
-     "title": "محافظ القاهرة ووزير التموين يتفقدان سوق اليوم الواحد فى بدر بمشاركة 50 عارضًا",
-     "url": "https://www.youm7.com/story/2026/11/19/محافظ-القاهرة-ووزير-التموين-يتفقدان-سوق-اليوم-الواحد-فى-بدر/7624691",
+     "title": "الصحة تعتمد 21 مستشفى تابعًا لقطاع الطب العلاجي وفق معايير «GAHAR».. تفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/19/الصحة-تعتمد-21-مستشفى-تابعًا-لقطاع-الطب-العلاجي-وفق-معايير/7624684",
      "source": "اليوم السابع",
-     "time": "2026-11-19T11:25:00.000Z",
-     "seen": "2026-11-19T11:28:22.514Z",
-     "impact": "يوفر انتشار سوق اليوم الواحد خيارات تسوق للمستهلكين ومنافذ إضافية لتصريف المنتجات بمشاركة عارضين محليين."
-    },
-    {
-     "title": "وزير الخارجية يستعرض فى لقاء مع الإعلام الأمريكى أبعاد العلاقات الثنائية وموقف مصر ازاء مستجدات الأوضاع الإقليمية",
-     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-يستعرض-فى-لقاء-مع-الإعلام-الأمريكى-أبعاد-العلاقات/7624676",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T11:17:00.000Z",
-     "seen": "2026-11-19T11:18:22.280Z"
-    },
-    {
-     "title": "وزير الخارجية يبحث مع زعيم الأقلية بخارجية النواب الأمريكى العلاقات الاستراتيجية",
-     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-يبحث-مع-زعيم-الأقلية-بخارجية-النواب-الأمريكى-العلاقات/7624666",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T11:17:00.000Z",
-     "seen": "2026-11-19T11:18:22.280Z"
+     "time": "2026-11-19T11:33:00.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
     },
     {
      "title": "الدبيبة في القاهرة.. تقارب جديد يعيد رسم العلاقات المصرية الليبية",
@@ -354,6 +355,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "كيف ستتغير أعداد السكان في الدول العربية بحلول عام 2050؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/arab-population-growth-rate-2050",
+     "source": "CNN بالعربية",
+     "time": "2026-11-19T11:45:49.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
+    },
+    {
+     "title": "الروهينغا أمام حكم تاريخي.. هل تثبت محكمة العدل الدولية جريمة الإبادة الجماعية؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%84%D8%B1%D9%88%D9%87%D9%8A%D9%86%D8%BA%D8%A7-%D8%A3%D9%85%D8%A7%D9%85-%D8%AD%D9%83%D9%85-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%87%D9%84-%D8%AA%D8%AB%D8%A8%D8%AA-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-19T11:42:59.000Z",
+     "seen": "2026-11-19T11:48:22.930Z"
+    },
+    {
      "title": "واشنطن وتل أبيب تبحثان خيارات جديدة ضد إيران",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%AA%D9%84-%D8%A3%D8%A8%D9%8A%D8%A8-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
      "source": "فرانس 24",
@@ -373,13 +388,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T11:11:38.000Z",
      "seen": "2026-11-19T11:18:22.280Z"
-    },
-    {
-     "title": "🔴 العدل الدولية: بورما قتلت \"آلاف المدنيين\" بنية القضاء على جزء كبير من سكان أقلية الروهينغا",
-     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261119-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D9%88%D8%B1%D9%85%D8%A7-%D9%82%D8%AA%D9%84%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B2%D8%A1-%D9%83%D8%A8%D9%8A%D8%B1-%D9%85%D9%86-%D8%B3%D9%83%D8%A7%D9%86-%D8%A3%D9%82%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%87%D9%8A%D9%86%D8%BA%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-19T10:54:52.000Z",
-     "seen": "2026-11-19T10:58:23.175Z"
     },
     {
      "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
@@ -444,13 +452,6 @@
      "source": "الجزيرة",
      "time": "2026-11-19T08:26:36.000Z",
      "seen": "2026-11-19T11:38:22.242Z"
-    },
-    {
-     "title": "ترامب وبوتين ارتديا الأحمر وشى اختار الأزرق.. سر الأوشحة فى صورة قادة إيبك",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOU0pFQ0tya0h5UWpDcDh4WlZMNlpaT0RYWDZSU1hYNS0xbG1OeWphWXVXbzhld3BMSVN5bU5rV2MxenhVcmJNLXMxdmMwQ3dIVG9xdkdnME04akVIdHFsS0RMUEVwaVRzUy05V25iRUQzRVFWVHhfSnZrLUwxdEV1RjFNSzlKQjNYSDBvb2p3NWV4S3NSVTNqTHY3UXAzZ2J4cTk1VEZtNDNUdlVHSWVUNTNodGtfX2k3T2xhanllLTBYRUY0WjVSRFRIaDUzaWN1VVc1V0tmeXlGS1BqWFNSRzJEQnZseGdmdVgxME1MRFdBMk90TG1LeUh6dWFWbWIwcWpMV0c2aTZySkhQeUxBRVdpemt1MWtxQjlfWVQ1U3VqX1dCT1JkWEpLZk5TbWxXU1lweXpsT1NoOUN6ZFdvZUlHaW80T1Vob0RuUUdmaUJhV25hdmdQZlluUEhObVV0U1ZrdGFTM1lmeFB6azY2VnBwWDdVRW5iX0NpM010Umg5TkVhOGxPMzFNOEhKV0U3TUZnTUlFTXNqODY4ZG42czlVWXJkZmFSMThiSEdXcVVMeGRya2doa3BYaVdOOUJQa0dUcFpkOEhzLXlSd2FOcFNDeW1WSEE5WGMyeTZaSDUwSkVpNFk40gHiA0FVX3lxTE5JUFgxRENhbFdoMk1DQ05zLUpnWlhEekw0S1Nab2tZbGNRcXVnbUlMcUFqbm1jeVEtRkROWXdpdXBSOEM2N0V5MnBEaFdhMy1fWG9lcFllRVJIOW8wR1R2NDlOZkVKZnREd0dEYU1relBNcFAtanBXZFFDZVc0cGxUMzJvMEFaMy1sZDJodUNLdFlBMnZObFl2emoyZHVWbksxZ0xROUhwRzZNdXhvaGltdE1LUTYyUjhvcWVEUzVzemt2NGVQTk11QXVITTdaa1llMkpnazByTktUbGF4Zk5RRC0tVVA0XzJuVzVRYzVodUFMN2xLMGlOZnI0d2FiVGEtd3lZeEhlMEc4S1hMTzR0eGdJd0tqWmZNT2QyYU9qblRNcVUtZkV5cTkyM1ZiM0g4MnE2dlJ2WHZMNEJKTmlGdzZJc2V2cFh1dGRWZkdYNFJqMnZZU25PWDRwVm04eFE5Z0VnelRnZWdIZXRyVHdTeldGVXhTcEc5dzdsaV85TEJDZDZuemhwNzc3T20xMjZuUGVzcDBiRWt2QXN4SWd3Z3p0X1B4SWVtZWY0cVF5RVJvS1U0UWFSWjdQQmpqZnlfSzd4MzFVRHQ0YUZuR3hya1JTcjZKNTdUWjE2RnJUVm9B?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T08:17:00.000Z",
-     "seen": "2026-11-19T09:58:23.192Z"
     }
    ]
   },
