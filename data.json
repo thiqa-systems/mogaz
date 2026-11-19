@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:09:49.474Z",
+ "updated": "2026-11-19T19:19:50.248Z",
  "minute": [
   "شهدت التطورات الاقتصادية تحركات جديدة في سعر صرف الدولار بالبنوك وتراجع حركة ناقلات الغاز المسال عبر مضيق هرمز.",
   "على الصعيد السياسي والدولي، بحث الرئيس السيسي التعاون وتوقيع اتفاقات مع الدبيبة، وصدر إعلان سلام في قمة جمعت ترامب وبوتين وشي.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T19:09:49.474Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T19:19:50.248Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5569,
-   "change": -1.46,
-   "asOf": "2026-11-19T18:59:52.000Z",
+   "value": 5560,
+   "change": -1.62,
+   "asOf": "2026-11-19T19:10:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6359,
-   "change": -1.46,
-   "asOf": "2026-11-19T18:59:52.000Z",
+   "value": 6348,
+   "change": -1.62,
+   "asOf": "2026-11-19T19:10:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3682,
-   "change": -1.61,
-   "asOf": "2026-11-19T18:59:52.000Z",
+   "value": 3676,
+   "change": -1.77,
+   "asOf": "2026-11-19T19:10:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0979,
-   "change": -0.13,
-   "asOf": "2026-11-19T19:09:46.000Z",
+   "value": 1.0977,
+   "change": -0.14,
+   "asOf": "2026-11-19T19:20:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.76,
-   "change": -2.38,
-   "asOf": "2026-11-19T18:59:30.000Z",
+   "value": 89.92,
+   "change": -2.21,
+   "asOf": "2026-11-19T19:10:37.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7206,
-   "change": -1.6,
-   "asOf": "2026-11-19T19:09:52.000Z",
+   "value": 7211,
+   "change": -1.54,
+   "asOf": "2026-11-19T19:20:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62685,
-   "change": -0.48,
-   "asOf": "2026-11-19T19:09:46.000Z",
+   "value": 62679,
+   "change": -0.49,
+   "asOf": "2026-11-19T19:20:47.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خبير إستراتيجي: التوجيه الرئاسي يمنح القبائل والعاملين في التنقيب الأهلي عن الذهب الثقة في إمكانية تنفيذ المبادرة",
-     "url": "https://www.elbalad.news/7187205",
+     "title": "أنثروبيك تتجاوز قيمتها تريليوني دولار في أول ظهور ببورصة ناسداك متفوقة على سبيس إكس",
+     "url": "https://www.elbalad.news/7187216",
      "source": "صدى البلد",
-     "time": "2026-11-19T19:09:24.000Z",
-     "seen": "2026-11-19T19:09:49.474Z"
+     "time": "2026-11-19T19:17:09.000Z",
+     "seen": "2026-11-19T19:19:50.248Z"
     },
     {
-     "title": "فاتن عبد المعبود: اتفاقيات السيسي والدبيبة تفتح آفاقًا جديدة للتعاون وإعمار ليبيا",
-     "url": "https://www.elbalad.news/7187203",
+     "title": "بوتين: نشر قوات أجنبية على أراضي أوكرانيا أمر مرفوض بالنسبة لموسكو",
+     "url": "https://www.elbalad.news/7187221",
      "source": "صدى البلد",
-     "time": "2026-11-19T19:08:50.000Z",
-     "seen": "2026-11-19T19:09:49.474Z"
+     "time": "2026-11-19T19:16:26.000Z",
+     "seen": "2026-11-19T19:19:50.248Z"
     },
     {
-     "title": "لانا نسيبة.. من مقعد الدبلوماسية في مجلس الأمن إلى سباق قيادة الأمم المتحدة.. وأول سيدة عربية تترشح لمنصب الأمين العام",
-     "url": "https://www.elbalad.news/7187207",
+     "title": "أحد أبرز القيادات الأمنية في مواجهة الإرهاب.. مصطفى بكري ناعيا اللواء فؤاد علام",
+     "url": "https://www.elbalad.news/7187214",
      "source": "صدى البلد",
-     "time": "2026-11-19T19:08:23.000Z",
-     "seen": "2026-11-19T19:09:49.474Z"
+     "time": "2026-11-19T19:12:14.000Z",
+     "seen": "2026-11-19T19:19:50.248Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقي عضو اللجنة الفرعية لشئون الشرق الأوسط بمجلس النواب الأمريكى",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-يلتقي-عضو-اللجنة-الفرعية-لشئون-الشرق-الأوسط-بمجلس/7625322",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T19:11:00.000Z",
+     "seen": "2026-11-19T19:19:50.248Z"
     },
     {
      "title": "مواعيد وأسعار تذاكر أتوبيسات «سوبر جيت» من القاهرة لبورسعيد والعكس",
@@ -172,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/19/مفتي-الجمهورية-يبحث-مع-عضو-المجلس-الأعلى-للمسلمين-بألمانيا-تعزيز/7625308",
      "source": "اليوم السابع",
      "time": "2026-11-19T18:58:00.000Z",
-     "seen": "2026-11-19T18:59:49.436Z"
-    },
-    {
-     "title": "وزراء ليبيون يكشفون تفاصيل انفراجة التأشيرات والإقامات في مصر",
-     "url": "https://www.youm7.com/story/2026/11/19/وزراء-ليبيون-يكشفون-تفاصيل-انفراجة-التأشيرات-والإقامات-في-مصر/7625311",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T18:57:00.000Z",
      "seen": "2026-11-19T18:59:49.436Z"
     },
     {
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "طفلك يكذب عليك؟ ربّما ليس في ذلك ما يدعو للقلق!",
+     "url": "https://www.bbc.com/arabic/articles/cw7728rvx6p2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T19:15:27.000Z",
+     "seen": "2026-11-19T19:19:50.248Z"
+    },
     {
      "title": "أسهم \"أنثروبيك\" تتراجع بعد ارتفاعها في أول تداول وسط تقييم سوقي بلغ تريليوني دولار",
      "url": "https://www.bbc.com/arabic/articles/c3pw4d87grlzo?at_medium=RSS&at_campaign=rss",
@@ -333,13 +340,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-19T17:34:59.000Z",
      "seen": "2026-11-19T17:39:49.386Z"
-    },
-    {
-     "title": "تقرير: الصين تؤخر دخول واردات فول الصويا في ظل وفرة المعروض",
-     "url": "https://alborsaanews.com/2026/11/19/2007730",
-     "source": "البورصة",
-     "time": "2026-11-19T17:06:57.000Z",
-     "seen": "2026-11-19T18:29:49.413Z"
     }
    ]
   },
@@ -501,6 +501,13 @@
      "seen": "2026-11-19T15:59:49.541Z"
     },
     {
+     "title": "عطل بوكالة الأمن القومي الأميركية يربك اتصالات الشرق الأوسط",
+     "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQM3VEU183WlZzT0VscERpc2JBaXZtam90TEM4d1ctbVVKNXlaQjZ5Q3lrQnhfTjBQZFNOX2dEcTRWS3gzdUkwMTBXUGVYLUg5R3lwQkdRR3JqU3htUjlsbXV5VHZsQ2FWQTdSSGpfOW5DcEpjTHluUUhmM01vbzk1RGNfbzZhUkxTNk44aFo2bjcxbW02ZWpRMmxFdTBibFExS0ZPTGw2UmdEMEV6WHNIRzdSQlN1QUYxaGhHd3pNdTRsR2drT1I5LTN1eGJ4OThvdWYxMlh2WmN1TmxRZUEycGtCT0V4RXg0c1dzS2lOZ3l1TUFoVE5tRVBOd2F5c0d3WGpza3I5S0VUR2JPY09QcWxNeTJmelVRc0xoOFhPZlJKd0FfMkFlQ1d5NDRIam9TZl94RkZIZjBZMnVnd3JqQkktbHdXc3FGVnkwaVRSbU1LLUxvRDc2QnFZY05xU25DQkdiQU1pMW5jeXd1eENGd0l6cDQxTjdIUjd2cFAxVEkyYWhfWXI1VWNTYlA2MjkydEFoaWJhUnQ4WWxBVUt2RkJiOEwzdDVKejNxVzUwUUh6WDVzVHlObVVkLVd6bjlKNEUzQUtFZktyTGVVU2tkSEY5dmhtMHhZd2xYRHVXZk81djdxa09aY0U0ZU9YRmhYNUFVT0k0X0lHenFV0gGCBEFVX3lxTE1lQlJGNzBtcVVob2FKaWlBUkZoVmFsZnlkR1dnWWEzT1hZclkwQ0NsRVN0WXZYZVhKYmd6QWxXb0FaUTM5R2J2V0ZPMjR4M3FUckhlZ3ZIZE5xMUtDZEFkV2JQc1VTUkRrVTFtbld2elpITnFXdV82NUh4aHhGcUF2RGNidGUxdkRheUw1Ym1RVGYzYzhHc2xKb2ZlcGZ3TU53QVNrTlA3SkFHR0g5eDVvQXkyZTFYMlhPbFFNdThmenI1anZUTGNtd19UaU9tM2xOREh5TnF5ZUh4aHNoUVg1MmpSN3Q4MlI5Mkd2SldtQktLMzhfVUJMMnhzUC1PcWFFRmhyTm81OUhHSFZaY3ZGd0hCYzNQcWItVkFHRXMzMkt1Y1ltVGlsb3E2akdDNlU5eU8zRU1zNkVqNjA5ZERrRE9XWTZWRVU1czhiMG5oMmI5OElhVEk5bmV1cEE0eE93cTg0RU1jbTFQYUJQSGVCSlo2SHRrUXNLeHNRblp6YnpZSTFvSFNzZWRWMUROZDJRNk9adUVpdmtueTdZSnFWLWRtcWoyZDAyNVlrVEpLdGdqVEw4dkJ0SHYwWGliTUQ4WTNBVk5DYVRKbnBnaV9ZalpfMlVITmlPcGNKWWtKeHczUXZhUWlYMUVCRHBaYnZsc0Y4VlJ2UzJ3Y19fWWl5RXc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-19T15:09:00.000Z",
+     "seen": "2026-11-19T19:19:50.248Z"
+    },
+    {
      "title": "كيف تقضي إيرانيات أحكامهن تحت المراقبة الإلكترونية؟",
      "url": "https://www.bbc.com/arabic/articles/cw1mdn02x8nvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -541,13 +548,6 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T12:23:13.000Z",
      "seen": "2026-11-19T12:28:22.777Z"
-    },
-    {
-     "title": "آيفون 20 برو يعيد \"أبل\" إلى استخدام التيتانيوم",
-     "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOSDI0Nm9DcUk2bXV4N19CUGNTUE5lcERjaUZRYi1TdWxVQmJXSElTcWNNU2JkcEU0ZmNNclBXQmM4aTN5M2MxT0ZoSHBScTZERnZITlpHQnNER2tVX0k4Uk84RzNZYnhfUU16RGU2ZzVFY2JmZnA0T09rU09ZUUdCNGJHbUUtZlAyOFpNZG13ZUpsZE5GUDRZN0V1cXphNWt6cTkwYTlxRVVKb2NPVFhjVml1aXhuTUZIN1hBd3V5eUhSQjlpTnZSWmpoUzg1YUhHTThUWXdad0FGclR2UENyM3YxenNXN0tVTVZqV3V0NnBlWk1tOUJsY21SQTlnVFhtZUh6UEZBeHAzNVFhdHRYS2FqT3lmTUNBQ08yWlRGUThNUzNzUHJzOEMteDRPWldDMklndlRGTWRlUDZVZFI2XzdMRXBTbEJQcWU1QUJPU1FKUGpLMzZEVGRFbllfR3VVZW5jZVA5bHpfWmpNeUdoTXl2OTRLVjJiN3o3RkFqSlFNS2Q4QjN2dG43NHNJNXBlR0NF0gGYA0FVX3lxTE9HWEFZazZSb0FsRnluZzNBVDhFTXJ5ZS00MWp0VWJoOUlkeGRYLUN3aGZWRWJtM0hkZ3JGZDVJN0doZ2I0bDBSS1FaVGRDMmpqcjFBRWE1cW5SVko3YU5nTEtwdWEwYzRlcHFHejl3M3ZKcXMxSnYxOXdlRi1MdC1LOXNraUk1SThQdmFJVl80ZzhYRHI3ZTM5LVV6LTRTN3pVSFNqcVNPc0xkMklPTkY2ekNldHhveVMwZVRTY3gzdFNoU29PaERxNDhIdlM3TklFTVNXbmE5cGNsblBsWWpsOFM0UGd2QU1jaG44Rnlnc08tVzlJTzBST1NaRERuZUpyNkQ1UFA4Z1hBVFc2TDJtQTVNelJXdVhjNUlXVmVycGZrSEFOcU9TOXh0ZWxRUHBhUVRsUFR4Z19lZEFWNllQUE5ZYXB1UVo1RzVDY2dFSHplZzlkek9kX2doeEN1SEVTS0llR3J6Qkhld3NOVjFXYTlhUkljb3dLT2lQNFdRM0pLLWtlS3lFTDZVb3l2Zl83aU54Qk9GNA?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T10:35:00.000Z",
-     "seen": "2026-11-19T18:49:49.927Z"
     }
    ]
   }
