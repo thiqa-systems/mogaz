@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:46:49.964Z",
+ "updated": "2026-11-19T07:56:49.670Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T07:46:49.964Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T07:56:49.670Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.77,
    "change": 0.15,
-   "asOf": "2026-11-19T07:46:07.000Z",
+   "asOf": "2026-11-19T07:56:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5649,
-   "change": -0.05,
-   "asOf": "2026-11-19T07:37:50.000Z",
+   "value": 5647,
+   "change": -0.08,
+   "asOf": "2026-11-19T07:46:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6450,
-   "change": -0.05,
-   "asOf": "2026-11-19T07:37:50.000Z",
+   "value": 6448,
+   "change": -0.08,
+   "asOf": "2026-11-19T07:46:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3735,
-   "change": -0.2,
-   "asOf": "2026-11-19T07:37:50.000Z",
+   "value": 3733,
+   "change": -0.23,
+   "asOf": "2026-11-19T07:46:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0977,
-   "change": -0.14,
-   "asOf": "2026-11-19T07:47:45.000Z",
+   "value": 1.0985,
+   "change": -0.07,
+   "asOf": "2026-11-19T07:56:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.48,
-   "change": -2.69,
-   "asOf": "2026-11-19T07:37:30.000Z",
+   "value": 89.53,
+   "change": -2.63,
+   "asOf": "2026-11-19T07:46:28.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63583,
-   "change": 0.95,
-   "asOf": "2026-11-19T07:47:47.000Z",
+   "value": 63673,
+   "change": 1.09,
+   "asOf": "2026-11-19T07:56:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "«الهوية في عالم مُتغير» .. لقاء توعوي بـ «الطارف» بثقافة الأقصر",
-     "url": "https://www.elbalad.news/7186307",
+     "title": "الهيئة البريطانية للرقابة المالية تسجل ثاني أعلى عدد من الهجمات السيبرانية خلال 5 سنوات",
+     "url": "https://www.elbalad.news/7186394",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:45:29.000Z",
-     "seen": "2026-11-19T07:46:49.964Z"
+     "time": "2026-11-19T07:52:11.000Z",
+     "seen": "2026-11-19T07:56:49.670Z"
     },
     {
-     "title": "روشتة عاجلة من الزراعة للمزارعين لمواجهة تقلبات الطقس",
-     "url": "https://www.elbalad.news/7186153",
+     "title": "بعد تألقه.. مفاجأة بشأن مفاوضات الأهلي مع وكيل شلاطة",
+     "url": "https://www.elbalad.news/7186391",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:45:00.000Z",
-     "seen": "2026-11-19T07:46:49.964Z"
+     "time": "2026-11-19T07:50:09.000Z",
+     "seen": "2026-11-19T07:56:49.670Z"
     },
     {
-     "title": "مهلة أسبوعين لتحديد الأولويات.. سويلم يوجه بتطهير الترع الأكثر احتياجا لضمان عدالة توزيع المياه",
-     "url": "https://www.elbalad.news/7186385",
+     "title": "طبيب نفسي يكشف تأثير «الرجولة التقليدية» على صحة الرجل واستقرار الأسرة | فيديو",
+     "url": "https://www.elbalad.news/7186389",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:44:37.000Z",
-     "seen": "2026-11-19T07:46:49.964Z"
+     "time": "2026-11-19T07:50:03.000Z",
+     "seen": "2026-11-19T07:56:49.670Z"
     },
     {
      "title": "النشرة المرورية.. كثافات متوسطة للسيارات على محاور القاهرة والجيزة",
@@ -217,6 +217,13 @@
      "seen": "2026-11-19T07:36:49.513Z"
     },
     {
+     "title": "أسرار عالم المخدرات في مصر| د. نبيل عبدالمقصود يكشف حكايات صادمة لأول مرة – فيديو",
+     "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOUkN0cGQ3RzFKSE5DTFZQOXg1MWVIN3owMjJqTXZOVUYxMXpqWEhGTEFKTlpOSk90SEFra1RXcGtDbFhvU0t4T0ZWVXJ1N0RwZDNOd1Nqb2U0QnRTdmZxQlFaYUlkbGl3a3oyMnJVR0Ywc1ZHblVUMUZIcjgwRVY0a3JwSlh4VUgtVFh3Z0d3NjFlYzF0akJWdW5YR3drQWJSX3luVlZkMEpPdzJtQnlDTWhkR3pTSks0eHE3aUJOVlRrWjFmTUpYdGhPdkVubVhVU1JhUFZ2SXdrUzREX1hyaEY1VXZmemtWamNWaExYSHBscElGbFVhSk5ncGt2QUdPYjZDRVNvT2s3TVlETGNFQS1lWW52Z2ozNUx5N0NKZFVYMUljLS00dnJ0YnZsM1hpOHU2ZkJibC1UeXZER0lDU2llOUdGSXlGQlNZemFXX0lqdmZPYUJEelV4WVBuRFAzMHNzXzJsVk1EZ3loMjhDaVJWTDJ5ZjM1Mk5SRE5DSmdzSFNlMWg1VG9seTN6VkNKdUJ4c3ZkaGQzT0M5T2VtWlRuTXdmZmNjc25BZ202S3g5Wko5OVlPTllwOTljVGJHTDZ6cC1fRFc0bWM2NnRIV1ZiVHlsUDY1RUc2aUYyNFUzcFdDZm9hbC1VQ1VWalE1U3ViOGtDeVQzZWo0N3dVRnJUeEYxd3FVTkU4MFl2UnpVa2VQc25HS0xIRXc4bnNXcGRrRlpYclBTYmo3aDNPV1JVbGRZOG1tZmFmTmZWZzR6Mmc0c0cwMzB6dnI1Y1F3emtWY2t2Q2VFd1A2TTMxdF9QRVVGR3NlRGN2RHc5ajdlZTFZNTJZWTRGQ2haRDBrNEpkaHVKTdIBjAVBVV95cUxQNVJhbzFqLUNHMzdLMUNpckp0cXY0M1IzQWFHb21VQUl2X0hYQ0l3QlhUMmViOFpoRDNwNExfRUQtak1kSUtJUWVQMTI1S0RySzVqSTAtTHBFX3IwdWFpNndJOGUwdFlHRlNldURtbkp3eE03WW80bm9sa3d4Qnp0Y3hzUzZJWkEzT1NHODBKa05YNlQxbktsaVBZRFl1TC1fV2FFSWw5MWQyaFJJRlNjenhoemtiYnVCblJpX3BZLTZmeHhOeU5lTTNKQVBiQXBuUEM3Zm44RV8yU3Q2Wi1Kb3pRWWtTVlRqQ0JOM0ZrbzdyQ09rM1FZbFhNd1pNSi1GeEdvMGI1bUJ2ZldnbHpkeVVOUEkzbGFhcjh6WjZmSDJHYjdYZlZhNmhiUFhaUWtIMHQwRFhXN0ZwaXM0TzZ0TEFYS2dnS3J3WnRFN0dmY1JGbU5QeXhSaU5QSW11Ul92cncwWGNuVV9XdW1BQXAzZGRzVGQwS0R6elNoRmV5TzFWSVVoYmg4R3lEdU8yOG8xVGdmQ2lzeUoybnZRZ2pMV0RXY2dTV0RrQTlqLURFeElMR1YxM0ZfTFY3cVFnWEc1Z2FJVXV5NC02VEdSN1hzMVB1YXREU3pBWjNyRlN4NVVqaExLUGpJUVVNVUtsQnV0dXlseGJyUVRlclZTb1VSa1N6WThNeTd0SjBEdzdfS2xlaXNzVFh0UFlIUHFwVUIxWjlGSG1HY2RjVVhzeEZmaFAxR3pMX29FdW95a21CSFktblBrT2sxVlFiQVZNQzFsRzFFV2xOV193ZkxaMEZBZFA3cGU1YWdva1dkOTV5aW5MN0lpLVVkanluWDY0ZnJDS3ZRSFRIUkpZNE0z?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-18T20:57:50.000Z",
+     "seen": "2026-11-19T07:56:49.670Z"
+    },
+    {
      "title": "رئيس الوزراء يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة الدولي",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXV2J1a0RRd2VoRHY2LU9DMUJlUXdjTzF2ZmZUQnRmOHNfR0RnRzZpTl9MTXdIU0IwcHdrOXBsSzNaNnRkRkljV29ycFhqMTN0UjhyMjZrNHFjNTdiRmc4?oc=5",
      "source": "المصري اليوم",
@@ -229,13 +236,6 @@
      "source": "Masrawy",
      "time": "2026-11-18T20:39:36.000Z",
      "seen": "2026-11-18T20:54:53.098Z"
-    },
-    {
-     "title": "11 معلومة عن مشروع \"نيفيرا\" بغرب القاهرة - يضم مدينة ترفيهية كبرى",
-     "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNOGppeDNvRmZ5WjN1NlFNNm42OUtyLVFyZC1ldlNGVTNncDRlRHZVWjJ5QWlGc2pwaGwwYW5pRVdvdDc2c3B1M29VVDZKODBxcXhRMDloNU9SeUJwTVNOTERUUFltR1BwdFhrdHo3Sldyek9fNFV4S1ZiaVRwWlNZVUY1U1c4cWR0WXRLVk9HT2V0d1M1SFdJRDNLSzN3ekhrX0FGb1hTZmJTd0hyWUxLWXIta3VWbGNqS0VOSldQS2lXem5YRGF6dW5Ob0ZMckcwcFJhRjlIdEhHbGw1eXA5c21tWHZBMTBLS053TGo4NENLY21DNE9vTjNLQkdieGJnbk9zc3BsaDZhVFREbjJTRjUyNVU0SjVxNHByMjMySVBLTVlMNEUyT3JNRXpxczNiV21YWlllbDRDclJmSTdBLUY3UFk0eVl0UkdMd3RXc0RLTURzcTdvbjRORzdQaU9HSEtXY2dRby1GYXpWX3FHUTlUcGpJbERYNWxnY0d3Sm5CTWhwTVJQU3cxc3I2U0RObFlCY2gtRVBoZUlualBHbERNQ3RNQ1hWOFlsZTlxZjViTHIzcExrZFZPZjdmRTl2UUJTZjdxTThrblBfaS1OSkJiUnAwU3N6YnV1V09MaUd1cEJNTjN1NnJrbE5fVFB3RG00a0tWOWkyaGpqR2JUZl9ITmRYbEtxX0RIWFN30gGTBEFVX3lxTE8zS3JtUklTY2VNREJ4VjFIaUs3TGJacFl6VFNJMEJxa3lVSUNKemZNS0pQSXZWLWM0eEhlNWJ0NWZFb0R5QzI4RWctcTVQYVhkWk1rQy1RNVI5cWtmTFY2SjRST3lGaGo5a2RZR2N5RF9sTjlKVWZaWkFqNTljWlJRXzd1UlRzbHBmNVdhSG8zQm9zYXhxTk9OR3JsMzhfYjJiMHRYbXZnSWFYV0pZc2pCTGRva3V4Wk92ZVlCZ253OTc3WG03UnFCVTMwOE5acXpubUpjME5QRGw1bl9CQmdvNzN0ei1oNElFejVQLUxyVUM0aFlUT2JCRy1sT2dGVlhPeC1rOEQ1Tm5iT1RqQXRkc1c5a1NPSEV2YUotUm56dVlhNmwwVTFSMkNvbkN5Y3NQLTdOUm5DR25zUkV1dGhEeWg3eTJWN1dzOGdha2pxd1drUlRmaEtPRWpwLUowLTFRNk90S2N5enFlNUNzbWNTcnV4Vk5SOFZteDg2eXNKaHBxWHBWWXhTZDlOcVQzd2ZjdXZRb0dtYUlQTV8yX1ZOODFnaXo0VFhtZWQ4WXpRTkdaSXVmZHAtak5KY01LQnRyLVFDMmFoTGdYNmRLeDZMaGZIMGhuV3FNVXNZY3NqQnBvRGxfWFpqSWF6T2hCSDg5RFJpaFNuRjgzeklnSGFGOVhhQmxlU0lsZkMxcFRaMnd1UQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-18T20:04:00.000Z",
-     "seen": "2026-11-18T20:34:52.514Z"
     }
    ]
   },
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار أمام الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zaXVQMUtEd2VCVEJZNjF5TFpYUUE5UUlRN1R2c2tBRk9feXF2X3hHTFlyUldUUTJtTXhtNFF1RUozRWdnVG1RSFBlQXJYT083THNUNjZWc2xvR2RO?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-19T07:19:44.000Z",
+     "seen": "2026-11-19T07:56:49.670Z"
+    },
     {
      "title": "التحالف يعلن عن أضرار مادية إثر هجوم صاروخي للحوثيين على الرياض",
      "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
@@ -334,14 +341,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T03:00:00.000Z",
      "seen": "2026-11-19T04:56:49.822Z"
-    },
-    {
-     "title": "صندوق النقد الدولي يتيح لمصر تمويلات بقيمة 2.3 مليار دولار",
-     "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNVUJhQ2lZcmFfc0ZUUGpDSWZwSHZSalprU0NTOUxHeTlmQ2lxMTJRM3VyQXJKWks4SzBveHAzMGxxc0VNaEo3NkJ0UVRVZ3I2UUstQ3ZOcFN3am13aHRBaUQxcmMtYVhLWWNmQkdOQU1qWjdMek9XbWhDakVJTnRKNV9EazAzRHJ1Mkd6d2x2NnJnUDM1ZG5ib0Z0dTg1ZkhkMU55X1NpLXVYZm0zTDNxdU82d2FvNHdCX3B5eW9xUFZKQzEwaUtpaElVMUFpZ3o5WTdyU0Z1Qzk1RUREQzVraVRtLWJlVmx3TDg5ZXhISGRRZEpZSnlfLTBPV3o0cUhWaDlGVm9TSjhPYTZzOHAtcXZicmV0S0NhTFRyM2J3OUJmYUtzcEVDRTJVZEF5amxYd2lSQTNoNXpYSEpadFBSMU42SnBhZWpLWVBzbGpNcEpINElrQjBLSDNGSHVPTFpOWkxzOHRfN3ZUX3NHaXZNUzl2SW1LdFdZcnJSVXRsZHR3QlZwa3JvRlJ2RzAyVzdfVnU1bWpXX2NZZF9vQkxENGdmRHFWRUxmQWdKMDYtY0psV0pXWHo3aTNPbWxoTk8xWXl1eHdKVE1oN3ZKRU9RWmplcS1LUGVQ?oc=5",
-     "source": "الشرق بلومبرغ",
-     "time": "2026-11-19T00:50:27.000Z",
-     "seen": "2026-11-19T01:05:20.129Z",
-     "impact": "تفيد المستثمرين والأفراد في مصر بمتابعة حجم السيولة الأجنبية والتمويلات المدعمة للاقتصاد."
     }
    ]
   },
@@ -349,6 +348,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "\"مسلحو كتائب حزب الله يرفعون السلاح في وجه محافظ بابل بالعراق\".. ما قصة الفيديو؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/circulating-video-kataib-hezbollah-brandishing-weapons-governor-babil-iraq",
+     "source": "CNN بالعربية",
+     "time": "2026-11-19T07:55:39.000Z",
+     "seen": "2026-11-19T07:56:49.670Z"
+    },
     {
      "title": "بعد خسارة الجمهوريين ... إيلون ماسك يشعر بـ\"الحماقة الشديدة\" حيال إنفاقه الانتخابي",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261119-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%85%D8%A7%D8%B3%D9%83-%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
@@ -411,13 +417,6 @@
      "source": "العربية",
      "time": "2026-11-19T06:23:00.000Z",
      "seen": "2026-11-19T07:36:49.513Z"
-    },
-    {
-     "title": "بعد ضربات أمريكية داخل إيران.. طهران توسع نطاق هجماتها في الخليج",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/19/v205573-iran-widens-gulf-attacks-after-us-strikes-missile-launch-site",
-     "source": "CNN بالعربية",
-     "time": "2026-11-19T06:05:05.000Z",
-     "seen": "2026-11-19T06:06:49.482Z"
     },
     {
      "title": "فرنسا: إدوار فيليب \"الوسطي\" الذي يريد هزيمة لوبان وميلنشون",
@@ -556,6 +555,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "HTTP 521"
+  }
+ ],
  "marketErrors": []
 }
