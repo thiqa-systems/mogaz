@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:48:22.843Z",
+ "updated": "2026-11-19T10:58:23.175Z",
  "minute": [
   "شهدت الأسواق المصرية تراجعاً في أسعار الدولار واليورو والذهب بالتزامن مع تحقيق البورصة مكاسب في مستهل التعاملات.",
   "اعتمد وزير الزراعة تمويلات جديدة تخطت 301 مليون جنيه لدعم المشروع القومي للبتلو.",
@@ -11,26 +11,26 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T10:48:22.843Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-19T10:58:23.175Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.84,
-   "change": 0.28,
-   "asOf": "2026-11-19T10:49:06.000Z",
+   "value": 53.85,
+   "change": 0.3,
+   "asOf": "2026-11-19T10:59:59.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5657,
-   "change": 0.1,
-   "asOf": "2026-11-19T10:40:09.000Z",
+   "value": 5658,
+   "change": 0.11,
+   "asOf": "2026-11-19T10:51:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,8 +38,8 @@
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 6459,
-   "change": 0.1,
-   "asOf": "2026-11-19T10:40:09.000Z",
+   "change": 0.11,
+   "asOf": "2026-11-19T10:51:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,35 +47,35 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3735,
-   "change": -0.18,
-   "asOf": "2026-11-19T10:40:09.000Z",
+   "change": -0.19,
+   "asOf": "2026-11-19T10:51:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51610,
-   "change": 0.13,
-   "asOf": "2026-11-19T10:35:24.000Z",
+   "value": 51593,
+   "change": 0.09,
+   "asOf": "2026-11-19T10:46:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1013,
-   "change": 0.18,
-   "asOf": "2026-11-19T10:49:44.000Z",
+   "value": 1.101,
+   "change": 0.16,
+   "asOf": "2026-11-19T11:00:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.8,
-   "change": -2.34,
-   "asOf": "2026-11-19T10:39:57.000Z",
+   "value": 89.33,
+   "change": -2.85,
+   "asOf": "2026-11-19T10:51:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63822,
-   "change": 1.33,
-   "asOf": "2026-11-19T10:50:19.000Z",
+   "value": 63711,
+   "change": 1.15,
+   "asOf": "2026-11-19T11:01:15.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,45 +140,52 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الرئيس السيسي يوجه بتيسير دخول الليبيين إلى مصر وحل أزمة التأشيرات والإقامات",
-     "url": "https://www.elbalad.news/7186612",
+     "title": "خالد بيبو يكشف حقيقة طلب الأهلي ضم ثنائي زد",
+     "url": "https://www.elbalad.news/7186614",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:47:34.000Z",
-     "seen": "2026-11-19T10:48:22.843Z"
+     "time": "2026-11-19T10:57:54.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     },
     {
-     "title": "جامعة الإسكندرية تحتفظ بشهادة الأيزو للجودة للعام الـ12 على التوالي",
-     "url": "https://www.elbalad.news/7186611",
+     "title": "«متجر دولاب» للتكافل الطلابي وشهادات مهنية مصغرة.. قرارات جديدة بجامعة الإسكندرية",
+     "url": "https://www.elbalad.news/7186623",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:46:58.000Z",
-     "seen": "2026-11-19T10:48:22.843Z"
+     "time": "2026-11-19T10:57:04.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     },
     {
-     "title": "ارتفاع في بنوك وتراجع في أخرى .. سعر الريال السعودي اليوم 19نوفمبر",
-     "url": "https://www.elbalad.news/7186588",
+     "title": "إبراهيم نجم: الأمانة العامة لا تستهدف توحيد الفتاوى.. وإنما بناء شبكة للتنسيق المؤسسي والتكامل بين دور الإفتاء في العالم",
+     "url": "https://www.elbalad.news/7186618",
      "source": "صدى البلد",
-     "time": "2026-11-19T10:45:00.000Z",
-     "seen": "2026-11-19T10:48:22.843Z"
+     "time": "2026-11-19T10:56:58.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
+    },
+    {
+     "title": "فخامة الرئيس وعبد الحميد الدبيبة يشهدان التوقيع على 9 اتفاقيات ومذكرات تفاهم",
+     "url": "https://www.youm7.com/story/2026/11/19/فخامة-الرئيس-وعبد-الحميد-الدبيبة-يشهدان-التوقيع-على-9-اتفاقيات/7624622",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T10:55:00.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
+    },
+    {
+     "title": "نائب وزير خارجية روسيا: موسكو تقدر جهود الرئيس السيسى لحل نزاعات الشرق الأوسط",
+     "url": "https://www.youm7.com/story/2026/11/19/نائب-وزير-خارجية-روسيا-موسكو-تقدر-جهود-الرئيس-السيسى-لحل/7624554",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T10:53:00.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
+    },
+    {
+     "title": "الرئيس السيسي يستقبل رئيس الحكومة الليبية بحضور مدبولي ورئيس المخابرات العامة",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZURYbjNCQWVfN1ZIcUwyNW9JbE1QTTNkVFhKWjRIV08tNW0xSVV3T3VLRFl2ZWNBQkxadFBSeVhJUmxkcTBZeUtyemlLWFFVbGVpb3FoTjhscHZMQmJGNC1OUC1iWWhwNUV0ZnByQ2xvVDdzOUx0bnV0YUFlcmJfMHdQQTdUa1c1YWx1aThsdk9zRzltcUZBRHo5S1BRT2JvRWtEbGtKem5lYUFnNk1GbGotQWUtalBIWkZnTmlQSkFiQXd0ZHBIaHlicXZvSWpfZ3hTSW5jZUFuX3J0U1ZwMFZVUm1zUWZtQkNyTzR6Wk1MbUZGc09aZ3pOMGR2bk8xaWMtSWRPMTNYTTJUNWJhOFREOXFEZnZMRVlORXZqdkFzVnpYNHZaTHFpRXZWLURCdVM1LWxyX0ZKS2JnV3lkczZRYTFkU0RiUC00WVdKYTNJV3hRbUNJZzlxQ2JiQTVIbzM4Vm5jcFdkSldOWFVBU3NmMUxsTnBLUGVKeXNR?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-19T10:52:32.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     },
     {
      "title": "تقديرًا لزيارة الدبيبة.. توجيه رئاسى بشأن تأشيرات دخول المواطنين الليبيين إلى مصر وإقامتهم",
      "url": "https://www.youm7.com/story/2026/11/19/تقديرًا-لزيارة-الدبيبة-توجيه-رئاسى-بشأن-تأشيرات-دخول-المواطنين-الليبيين/7624601",
      "source": "اليوم السابع",
      "time": "2026-11-19T10:43:00.000Z",
-     "seen": "2026-11-19T10:48:22.843Z"
-    },
-    {
-     "title": "الدبيبة يعرب عن تقديره البالغ لجهود مصر الراسخة والرامية للحفاظ على الاستقرار في ليبيا",
-     "url": "https://www.youm7.com/story/2026/11/19/الدبيبة-يعرب-عن-تقديره-البالغ-لجهود-مصر-الراسخة-والرامية-للحفاظ/7624596",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T10:42:00.000Z",
-     "seen": "2026-11-19T10:48:22.843Z"
-    },
-    {
-     "title": "عبد الحميد الدبيبة يؤكد اعتزازه بزيارة مصر ولقاء فخامة الرئيس السيسى",
-     "url": "https://www.youm7.com/story/2026/11/19/عبد-الحميد-الدبيبة-يؤكد-اعتزازه-بزيارة-مصر-ولقاء-فخامة-الرئيس/7624593",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T10:41:00.000Z",
      "seen": "2026-11-19T10:48:22.843Z"
     },
     {
@@ -230,13 +237,6 @@
      "source": "Masrawy",
      "time": "2026-11-18T21:41:22.000Z",
      "seen": "2026-11-19T04:16:49.333Z"
-    },
-    {
-     "title": "مدبولي يستقبل رئيس حكومة الوحدة الوطنية الليبية بمطار القاهرة",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2Y0SzNmSVA5RVVXOGo0MG1WVW5UVkRhdmJZN1AzaTVleGVfZFRabURyQmQwd0xlc3d4V3VoUnF1OUM0aGE4enJYZ3F6WUlCSVh6R2MyaTduQ1FYSjRPcWNDRmFpa0MwdXAxQkFKNmFSMXpTc3lLUzJfeFlWc0NPSUYzamZSeks5SGFQWTdDMkNjWUtsNlozSlR1OHRSSTE1TWJUUzVhdw?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-18T21:37:07.000Z",
-     "seen": "2026-11-18T21:44:52.305Z"
     }
    ]
   },
@@ -355,6 +355,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "🔴 العدل الدولية: بورما قتلت \"آلاف المدنيين\" بنية القضاء على جزء كبير من سكان أقلية الروهينغا",
+     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261119-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D9%88%D8%B1%D9%85%D8%A7-%D9%82%D8%AA%D9%84%D8%AA-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B2%D8%A1-%D9%83%D8%A8%D9%8A%D8%B1-%D9%85%D9%86-%D8%B3%D9%83%D8%A7%D9%86-%D8%A3%D9%82%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%87%D9%8A%D9%86%D8%BA%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-19T10:54:52.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
+    },
+    {
+     "title": "إيطاليا تفرض غرامة قياسية على ميتا بسبب صور المستخدمين على فيسبوك",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261119-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%8A%D8%AA%D8%A7-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83",
+     "source": "فرانس 24",
+     "time": "2026-11-19T10:47:56.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
+    },
+    {
      "title": "ترامب يقول لنظيريه الصيني والروسي إن القادة الثلاثة \"يدخلون التاريخ\" بعقد هذه القمة",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%82%D9%88%D9%84-%D9%84%D9%86%D8%B8%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%A5%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%8A%D8%AF%D8%AE%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A8%D8%B9%D9%82%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%82%D9%85%D8%A9",
      "source": "فرانس 24",
@@ -367,21 +381,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-19T10:33:42.000Z",
      "seen": "2026-11-19T10:38:22.820Z"
-    },
-    {
-     "title": "قمة الصين الثلاثية: عناق لدونالد ترامب... لكن هل كان الحلقة الأضعف؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/20261119-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%B9%D9%86%D8%A7%D9%82-%D9%84%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D9%83%D9%86-%D9%87%D9%84-%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D8%B6%D8%B9%D9%81",
-     "source": "فرانس 24",
-     "time": "2026-11-19T10:33:23.000Z",
-     "seen": "2026-11-19T10:38:22.820Z"
-    },
-    {
-     "title": "انطلاق أعمال القمة الثلاثية بين شي وترامب وبوتين في مدينة شنجن الصينية",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B4%D9%8A-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B4%D9%86%D8%AC%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-19T09:56:12.000Z",
-     "seen": "2026-11-19T09:58:23.192Z",
-     "impact": "تؤثر مخرجات القمة بين القوى الكبرى على استقرار الاقتصاد العالمي وسلاسل الإمداد التي تمس السوق المصري."
     },
     {
      "title": "فيديو.. الحقيبة النووية الروسية تظهر برفقة وفد بوتين بالصين",
@@ -434,25 +433,25 @@
      "seen": "2026-11-19T07:56:49.670Z"
     },
     {
-     "title": "ارتفاع كبير للاستثمارات التركية المباشرة في مصر",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d9%83%d8%a8%d9%8a%d8%b1-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d8%a9?traffic_source=rss",
+     "title": "هنري يكشف سر عبقرية محرز.. موهبة تعجز التكنولوجيا عن تفسيرها",
+     "url": "https://www.aljazeera.net/sport/2026/11/19/%d8%aa%d9%8a%d8%b1%d9%8a-%d9%87%d9%86%d8%b1%d9%8a-%d9%85%d8%ad%d8%b1%d8%b2-%d9%84%d9%85%d8%b3%d8%a9-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-19T07:35:55.000Z",
-     "seen": "2026-11-19T10:38:22.820Z"
+     "time": "2026-11-19T07:54:06.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     },
     {
-     "title": "نجت من التهريب.. إطلاق 9 صقور في سوريا لاستئناف هجرتها",
-     "url": "https://www.aljazeera.net/news/2026/11/19/%d9%86%d8%ac%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-9-%d8%b5%d9%82%d9%88%d8%b1-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?traffic_source=rss",
+     "title": "دراسة \"مرعبة\".. نماذج الذكاء الاصطناعي تستهدف المدنيين في الحروب",
+     "url": "https://www.aljazeera.net/tech/2026/11/19/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-19T07:34:23.000Z",
-     "seen": "2026-11-19T10:38:22.820Z"
+     "time": "2026-11-19T07:47:15.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     },
     {
-     "title": "بيرول: عالم الطاقة لن يعود كما كان قبل حرب إيران",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/19/%d8%a8%d9%8a%d8%b1%d9%88%d9%84-%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d9%86-%d9%8a%d8%b9%d9%88%d8%af-%d9%83%d9%85%d8%a7-%d9%83%d8%a7%d9%86-%d9%82%d8%a8%d9%84?traffic_source=rss",
+     "title": "مباشر حفل جوائز الاتحاد الآسيوي لكرة القدم 2026.. لحظة بلحظة",
+     "url": "https://www.aljazeera.net/sport/liveblog/2026/11/19/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%ad%d9%81%d9%84-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a2%d8%b3%d9%8a%d9%88%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-19T07:30:36.000Z",
-     "seen": "2026-11-19T10:38:22.820Z"
+     "time": "2026-11-19T07:44:23.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     }
    ]
   },
@@ -507,7 +506,7 @@
      "title": "ترامب يعلن موقفا حاسما بشأن تنظيم الذكاء الاصطناعي",
      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQbndKYWxUOEk3Y2l2YnJtN3BtVGI3OVJIc0Z0ZV9qX0xVdms0NDdHT2tIcHhFVEd3RU95RkVPb3FoV3I0bWVvWi1GV2xRQnRwM1VaS0MwS3VJdlVMdGR5WmwzTnVURXUyck43NkgyaXpHeFIzN3dERVFXNXhtbHJzS0E1VFBWUjFCQzBHVjFlU3ZLUEZrOEl3dEt2R1hJU0ZuM1lZV1ZOVGpiZklWSXh4cmx2a21vZVpSbEFERE1uZ0x4azRVc0QzVE5aRnI0a1FieW4wNU5icW1pNUJZMzFiSU1ZZ1ZjcWpKdmsxOVZUbG5FRW1jTG1FdFF1NzJrcGFxTE1ESUUzRExKRlBTMlY5WC1Qa2NTSjREZ01JbVlRWEZ5ZTh2djJpRnltT1BXc2gyd3JXcEpsa1J5ZWdrQWo2YmZkaFFkbEI0aXp4NTRGNE1FYUl0a0ttVF9yRFVCaEFhdHl1dzhnSW45THVqM0dqdGRnSFQwaHVPcTZ6ZnExWEZRRzlzMVY1aVpFeU5lWUtZdU8wSjR5ZGVQMnpicnY3UFAtMldDdlE2VzVJNlNmcHRrUVhaZDFaLTdkMWZWZ2_SAcQDQVVfeXFMUEJsWm50S0V4b05FZTBPTFBjTHBua29QSzVxN2VzT0sxUVFxRlgxV1ZZbTEyOGhYNTNZLVEyV3BHYXVfZkx2bmRlUGU2c1Q5UDU5NDVpdmFsd05NQVVVRTRYWjNaelREXzNZWXpRNHZxdzJLOVpRTktxeXZNS2l4Y1dMODZFTjNhMElkWms2WnloYUFBWUQ5N3VvWkJ2QmxBUUZ5aWlWMDJHaEVNYkFoYlpoR1FQbGxrZ2FaTkcxNm9VdnRBMzlXNmJEWVRzVW9XRThfQmNsMVRwMmNHdTctZWNCVFpUN0xPVzQxeUJwRVQ0NE9YZkQxYkxHOFpUQXNGMlNZaWMyMlVVTkpMT0dZZGFNS2NsRUc4WEZDR1BGOV9zY0o0RzlzNVoxZGczWVlqNjROcGNwdnpzaGdISFNOQzBPZi1tdDlVMVJ6RkJqaFdmNHpIdVJURkFGTVJZZTdDVmg1c1JGdE1oUGVhVS1qem00V3RLNkFmTzhBX0VlY1dyMnZVd0d0NkxTM1lfY3FtN0F4aENCYmt0OTlYMkp2X2VlUlJBVFNPTEkteEMtQktIWlRvdEFKSjdGNEVodVdnME1RZUg?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T07:03:11.000Z",
+     "time": "2026-11-19T06:52:12.000Z",
      "seen": "2026-11-19T09:18:23.088Z"
     },
     {
@@ -554,12 +553,11 @@
      "seen": "2026-11-19T06:16:49.768Z"
     },
     {
-     "title": "«الناس ماسكة في بعض».. شعبة المحمول تطالب بتدخل عاجل لإنهاء أزمة الهواتف الموقوفة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzNlQ3dzBvbGhtUnJmV0xLYXRWYTNmd3RCLUxUb1g4THpSNGVoMDlIZnljRjN1TU5VVllqSWUzcE9FblI2MWw4OUxjdmpzcXhOejExOUNMVmU5bXIwZGRF?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-18T22:17:00.000Z",
-     "seen": "2026-11-19T01:45:19.846Z",
-     "impact": "تؤثر على تجار ومشتري الهواتف الذكية في مصر للوقوف على التطورات الخاصة بالأجهزة الموقوفة."
+     "title": "دراسة \"مرعبة\".. نماذج الذكاء الاصطناعي تستهدف المدنيين في الحروب",
+     "url": "https://www.aljazeera.net/tech/2026/11/19/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a",
+     "source": "الجزيرة نت",
+     "time": "2026-11-19T02:48:00.000Z",
+     "seen": "2026-11-19T10:58:23.175Z"
     }
    ]
   }
