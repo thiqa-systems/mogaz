@@ -1,26 +1,25 @@
 {
- "updated": "2026-11-19T08:16:50.089Z",
+ "updated": "2026-11-19T08:26:49.747Z",
  "minute": [
-  "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
-  "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
-  "طالبت شعبة المحمول بتدخل عاجل لإنهاء أزمة الهواتف الموقوفة في مصر، بينما شهدت التكنولوجيا إعلانات تقنية جديدة تشمل الذكاء الاصطناعي وتطوير التطبيقات."
+  "ارتفع عجز الميزان التجاري لمصر خلال سبتمبر إلى 5.3 مليار دولار، بالتوازي مع ضخ شركة إم إيه إف جى 20 مليون دولار في مصنع للأجبان واستعدادات لبدء موسم تصدير الموالح.",
+  "أُعلن عن الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية، إلى جانب توجيهات حصر الترع الأكثر احتياجاً للتطوير خلال أسبوعين.",
+  "شهد قطاع التكنولوجيا إطلاق جوجل لنموذج Gemini 4 Neon والتسعير المرتقب لطرح أنثروبيك بقيمة 81.3 مليار دولار، مع إيرادات قياسية لشركة لينوفو.",
+  "تشهد الأجواء في مصر طقساً مائلاً للحرارة نهاراً مع درجة حرارة عظمى تبلغ 26 بالقاهرة، بالتزامن مع توثيق إدراج 31 جامعة مصرية في تصنيف QS للاستدامة 2027."
  ],
  "ai": {
-  "at": "2026-11-19T01:45:19.846Z",
+  "at": "2026-11-19T08:26:49.747Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T08:16:50.089Z"
+  "impacts": 10
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.7,
-   "change": 0.02,
-   "asOf": "2026-11-19T08:17:58.000Z",
+   "value": 53.67,
+   "change": -0.04,
+   "asOf": "2026-11-19T08:27:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -29,7 +28,7 @@
    "unit": "ج.م/جرام",
    "value": 5645,
    "change": -0.12,
-   "asOf": "2026-11-19T08:08:17.000Z",
+   "asOf": "2026-11-19T08:18:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,43 +37,43 @@
    "unit": "ج.م/جرام",
    "value": 6445,
    "change": -0.12,
-   "asOf": "2026-11-19T08:08:17.000Z",
+   "asOf": "2026-11-19T08:18:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3737,
-   "change": -0.14,
-   "asOf": "2026-11-19T08:08:17.000Z",
+   "value": 3739,
+   "change": -0.09,
+   "asOf": "2026-11-19T08:18:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51598,
-   "change": 0.1,
-   "asOf": "2026-11-19T08:03:12.000Z",
+   "value": 51614,
+   "change": 0.13,
+   "asOf": "2026-11-19T08:13:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0988,
+   "value": 1.0989,
    "change": -0.04,
-   "asOf": "2026-11-19T08:17:46.000Z",
+   "asOf": "2026-11-19T08:27:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.35,
-   "change": -2.83,
-   "asOf": "2026-11-19T08:08:15.000Z",
+   "value": 89.44,
+   "change": -2.73,
+   "asOf": "2026-11-19T08:18:05.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63752,
-   "change": 1.21,
-   "asOf": "2026-11-19T08:18:10.000Z",
+   "value": 63625,
+   "change": 1.01,
+   "asOf": "2026-11-19T08:28:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,50 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني يكشف ملابسات واقعة مدرسة النعام التجارية بعين شمس.. ويطمئن أولياء الأمور",
-     "url": "https://www.elbalad.news/7186424",
+     "title": "أعطال جيميل وأبل تتكرر.. 7 خطوات ذهبية لحماية بياناتك الآن",
+     "url": "https://www.elbalad.news/7186417",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:16:15.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "time": "2026-11-19T08:25:07.000Z",
+     "seen": "2026-11-19T08:26:49.747Z",
+     "impact": "تتيح الإرشادات للمستخدمين في مصر طرقاً عملية لحماية بياناتهم الحساسة في ظل تكرار الأعطال التقنية العالمية."
     },
     {
-     "title": "احرص على تناولها.. أطعمة غنية بالألياف الغذائية",
-     "url": "https://www.elbalad.news/7186420",
+     "title": "الأرصاد: أجواء مائلة للحرارة نهارا على أغلب الأنحاء والعظمى بالقاهرة 26 درجة",
+     "url": "https://www.youm7.com/story/2026/11/19/الأرصاد-أجواء-مائلة-للحرارة-نهارا-على-أغلب-الأنحاء-والعظمى-بالقاهرة/7624227",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T08:25:00.000Z",
+     "seen": "2026-11-19T08:26:49.747Z",
+     "impact": "تساعد النشرة الجوية الأفراد في مصر على التخطيط اليومي للأنشطة والارتداء المناسب للطقس المائل للحرارة."
+    },
+    {
+     "title": "أسوان: إزالة حالة تعدى على أملاك الدولة بحى الصداقة الجديدة",
+     "url": "https://www.elbalad.news/7186407",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:14:15.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "time": "2026-11-19T08:24:46.000Z",
+     "seen": "2026-11-19T08:26:49.747Z"
     },
     {
-     "title": "ذكرى رحيل فايق عزب مسيره ابداعية تنوعت بين المسرح والسينما والتليفزيون",
-     "url": "https://www.elbalad.news/7186422",
+     "title": "إدراج 31 جامعة مصرية في نسخة تصنيف QS العالمي للاستدامة لعام 2027",
+     "url": "https://www.elbalad.news/7186435",
      "source": "صدى البلد",
-     "time": "2026-11-19T08:14:02.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "time": "2026-11-19T08:24:25.000Z",
+     "seen": "2026-11-19T08:26:49.747Z",
+     "impact": "يعزز دخول 31 جامعة تصنيف الاستدامة من جاذبية قطاع التعليم العالي في مصر للطلاب والمستثمرين على حد سواء."
     },
     {
-     "title": "منال عوض بـ COP31: تنفيذ التعهدات وتوفير التمويل المناخى الميسر للدول النامية",
-     "url": "https://www.youm7.com/story/2026/11/19/منال-عوض-بـ-COP31-تنفيذ-التعهدات-وتوفير-التمويل-المناخى-الميسر/7624270",
+     "title": "وزير الرى يوجه بحصر الترع الأكثر احتياجا للتطوير خلال أسبوعين",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-الرى-يوجه-بحصر-الترع-الأكثر-احتياجا-للتطوير-خلال-أسبوعين/7624283",
      "source": "اليوم السابع",
-     "time": "2026-11-19T08:10:00.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "time": "2026-11-19T08:21:00.000Z",
+     "seen": "2026-11-19T08:26:49.747Z",
+     "impact": "يهتم المزارعون والمستثمرون في القطاع الزراعي بمصر بمتابعة خطط تطوير الترع لتحسين كفاءة وتوفر مياه الري."
     },
     {
-     "title": "وزير التموين يفتتح سوق اليوم الواحد بمدينة بدر",
-     "url": "https://www.youm7.com/story/2026/11/19/وزير-التموين-يفتتح-سوق-اليوم-الواحد-بمدينة-بدر/7624262",
+     "title": "وزارة الصحة تختتم أول دورة لتأهيل 30 كادرا على تسويق الخدمات الطبية",
+     "url": "https://www.youm7.com/story/2026/11/19/وزارة-الصحة-تختتم-أول-دورة-لتأهيل-30-كادرا-على-تسويق/7624274",
      "source": "اليوم السابع",
-     "time": "2026-11-19T08:09:00.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
-    },
-    {
-     "title": "القوات المسلحة بالتعاون مع \"التعليم\" ينظمان احتفالية لتكريم الطلبة المتميزين",
-     "url": "https://www.youm7.com/story/2026/11/19/القوات-المسلحة-بالتعاون-مع-التعليم-ينظمان-احتفالية-لتكريم-الطلبة-المتميزين/7624253",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T08:07:00.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "time": "2026-11-19T08:17:00.000Z",
+     "seen": "2026-11-19T08:26:49.747Z"
     },
     {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
@@ -255,28 +258,32 @@
      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQNUYzbS02b2tRQzluM0VROVdOcHV3VHZ6Tl96dlZYYVE0UENqX3hkSWI2RXdnd2RZVExlRFBmYThoNk1uU2V0UzJpaHZqN0V1X1hnY2hrUW9Ud2F5MXhwVTV0NlQ4VHhWWVJTcTZFdVhveFRBYVhMOWRSRlZsYlgwTURJN0JocmEyMk04dkdMem15UjFJSFRiWkFIckl5YTJxRk5pbW1fdkxSMnc4MUgzTHQxbnh1OW5XczlzN0VaWklPc29OM0o0alU3Z0NvTDVKemdFRFdiZDQybmFwV0UxcmIydXhXM0wxYVZ6TzlKYUd4ZklCMGlnWTVobWxhU2lkSDl1ZzBUWG8yZnREYmFOZ2dxNUhPSk12MFdndktiOGVSUld3VWVHcm4zRjF2SUttVzdNNFBQaDNEeE5IeC1yRi02NEVFN1pnNk5IOVh6QUVHR2loNXZOa1F6dVhkQ2JaLUFJSHhZbWpyWUxFekZ6bUN5cmViODJzNWFpaUZuOWFwOVJEcFRMN3hNLU1jdko5WmdLcTlITWo3d9IBlANBVV95cUxOaFlkQnVtME1PSDZMSmhzRENxQVZfVnRDVm9wWWJiSHd0dUVpeGZTRWxZdzluYXBHZ0luOHdWaXc5bmVrVTJZUkJ0clVUamtwNjRiYjdXbDNUV0lRX1ZpUDgtZE9aVHQ1TmhRbEZRdmFKdHdpZ2xraFBLZzdZUHktNmJWZ01aYnZWOU9oUWdnRFNxdHpsVUJLcHR2WExtZDhYUGJSU1hadUVNbXpSX1JqTzZZQzNBT1daRVFRQnhhWHJveXF0dWQ3cklEZjFxRHlrT2swbE9pcUNKZVB2eFZzVXJrVFNNTWxIR2ptT2NoN25JdFZDeG1yRGxRSnFJMEFBRzNSZkttVVVtei1odTFBSk5FXzlYa3RMMkxrQk16X2NlRkJsd2pCMnM1MG5BMWZnSENRNXphU2dEUzhsWjNMRUdlYk51SXI3Uk8yNUNPV1E0bTlpVnhSTi1fS2RPSEUtQ1ZlNzU4UXNCUmNvR1h0NDdpMmtOa1BOSGgxdU85UXpZQUVJSWxDYW1qTDBETVZZRi1WbQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T08:00:00.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "seen": "2026-11-19T08:16:50.089Z",
+     "impact": "تساعد متابعة أسعار أسعار صرف الدولار أمام الجنيه الأفراد والمستثمرين في تقييم تكاليف المعاملات والتخطيط المالي."
     },
     {
      "title": "عجز الميزان التجاري لمصر يرتفع 60.6% خلال سبتمبر إلى 5.3 مليار دولار",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNalFLbEFCMDlpRk9ta2N0V2kxN2gxaUk5dnlndDJHVjN0Z29IQkd4VkRKMk1vMUozbm5oSWpZTzNjZmJMMkpSMzRjV2ZiUl8wSlJaR2hPVi1pRzZpQWNRNDk4REF5UjVSbzZsS0lfLXRRWFVzbVVHQzJWZU54aDlFRk5VUnppSmdfT0ZYeU9WZTNCUzFkaW0xbFN0cFk4LXRuTjVscHB4WlpVeUZuUjFXZjA2djNhQmY5MmV4S3NwTGFnTmU0MlQ4by0zRnNnSHNJQTdEU2dESnROVlBhUFdUNE8yQU8wZ2tSSEZaMW5JWmJacVhSSXJ6VHlGSGg2Q01hUTUxUWVtWW1KMml0TEdiNU1kQmFIbnNGQVI1ckptd2NBN3pvb0V6MDlR?oc=5",
      "source": "عالم المال",
      "time": "2026-11-19T07:59:09.000Z",
-     "seen": "2026-11-19T08:06:49.394Z"
+     "seen": "2026-11-19T08:06:49.394Z",
+     "impact": "يوضح ارتفاع عجز الميزان التجاري للمستثمرين في مصر الاتجاهات الاقتصادية العامة وضغوط التدفقات النقدية."
     },
     {
      "title": "«إم إيه إف جى» للصناعات الغذائية تضخ 20 مليون دولار فى مصنع أجبان معبأة",
      "url": "https://alborsaanews.com/2026/11/19/2005604",
      "source": "البورصة",
      "time": "2026-11-19T07:28:58.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "seen": "2026-11-19T08:16:50.089Z",
+     "impact": "يعكس ضخ استثمار بقيمة 20 مليون دولار نمو فرص الاستثمار المباشر والتوسع في قطاع الصناعات الغذائية بمصر."
     },
     {
      "title": "الأربعاء المقبل.. انطلاق موسم تصدير الموالح بنمو مستهدف 10%",
      "url": "https://alborsaanews.com/2026/11/19/2007366",
      "source": "البورصة",
      "time": "2026-11-19T07:25:05.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
+     "seen": "2026-11-19T08:16:50.089Z",
+     "impact": "يمثل بدء موسم تصدير الموالح بنمو مستهدف 10% فرصة للمزارعين والمصدرين المصريين لزيادة عوائدهم."
     },
     {
      "title": "«ريماس لاند» تجهز مصنعاً لأجبان الشيدر والفلامنك بالصالحية",
@@ -348,6 +355,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "السعودية تعلن تدمير 4 صواريخ باليستية أطلقها الحوثيون",
+     "url": "https://www.skynewsarabia.com/middle-east/1905760-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-4-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A%D8%A9-%D8%A3%D8%B7%D9%84%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T08:21:47.000Z",
+     "seen": "2026-11-19T08:26:49.747Z"
+    },
+    {
+     "title": "قمة القادة الثلاثة.. رمزية تاريخية أكثر من كونها إعادة رسم للنظام العالمي؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B1%D9%85%D8%B2%D9%8A%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%83%D9%88%D9%86%D9%87%D8%A7-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B1%D8%B3%D9%85-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
+     "source": "فرانس 24",
+     "time": "2026-11-19T08:19:58.000Z",
+     "seen": "2026-11-19T08:26:49.747Z"
+    },
+    {
      "title": "المنتخب المغربي يرتقي إلى المركز الخامس عالميا ويحقق أفضل ترتيب في تاريخه",
      "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261119-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%8A%D8%B1%D8%AA%D9%82%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%8A%D8%AD%D9%82%D9%82-%D8%A3%D9%81%D8%B6%D9%84-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%81%D9%8A%D9%81%D8%A7",
      "source": "فرانس 24",
@@ -359,13 +380,6 @@
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%BA%D8%B2%D8%A9-%D8%AA%D9%86%D8%B2%D8%AD-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B4%D8%A8%D8%AD-%D8%A7%D9%84%D8%AA%D9%87%D8%AC%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-19T08:07:59.000Z",
-     "seen": "2026-11-19T08:16:50.089Z"
-    },
-    {
-     "title": "الاتحاد الأوروبي يسعى لسد فجوة تمويل الحرب في أوكرانيا بقرض جديد",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D8%B3%D8%B9%D9%89-%D9%84%D8%B3%D8%AF-%D9%81%D8%AC%D9%88%D8%A9-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D9%82%D8%B1%D8%B6-%D8%AC%D8%AF%D9%8A%D8%AF",
-     "source": "فرانس 24",
-     "time": "2026-11-19T07:58:47.000Z",
      "seen": "2026-11-19T08:16:50.089Z"
     },
     {
@@ -418,6 +432,13 @@
      "seen": "2026-11-19T06:56:49.897Z"
     },
     {
+     "title": "\"طلب\" من ترامب للصين.. وشي يدعو لاستقرار العلاقات",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPdmhIY0tSeTg5dnJnejdIa2p3aE9HQWJkMjB1VXNXMmtuNjBfZjFDR0VjRFY0NnhQNGdnMEtscmJadWF5VmVJMmM3NE9na3VReUNCQWtwTWNsQmJOcm93QTRoaHBNaFVXSXZfMC1xM3UwRmFiT09HOHNSTHVhaFVyNGhIdmJDbkRScTVjMlpzMnpPeGs1bUpxb3lPOXk1WTlDaHlxSnJZdVJPN196eFdxbDdoamE0dGd4c0tKeDAzTVdKejlkclJheHdCZGJvVTUyc1J5eHBqQllReThVaDc3WjhhM0M1OFVGU1FHN1UtOFU5SS1TMFdLWW9UZDl2MDNlWURSQUVxakxXSmI5bFlrVm44bHZyWEx0RldVb1VFQnQ2QnROR1FGQWZJeXphSzR4Y2V0WE8wM2w4RTdMTWxpVWVMcy10VDJJZDJ4bXFRbDJ1NF9ybV9qdkZJTzNhRzIyRURGLTVSNzRfZ0VTRjBncHYya04zRkRzVmN5MFlGd9IBhANBVV95cUxPanBWZ2Jjd0Rjc0RSTGtWUWQzX0F6aTgtZmFnWGhPYVFEOTd2M3pfM01LVnlKTllfQlZzcmNPZWI4TkRtWkVObXBURmc2TTVWbThxampuYVNVeC1sd0R4aF9La3BIbFhFbGI5b0QxdW5Kb25nWEVRaklWWmpHMS1GZ2k2bjc4X3pCdDZzR2J3VmxEZ1BsZm9oeXVJOE5KbXVGTEh3cllybWlseGphUEQ2RDFic1Byd19LSEV6X3VGX3JWMVhrQWs2QkFCaXlOdGdxQk8tU0FmOUxUbDNBUy1xUkptZ0JEM1ozMm1icEgtVmlDQkJEVGRpekVKX3Bwem1fRVRxWElqZjhQbmJPakVNbUVpeFU0VFo5Z01iZXYwdE1lZ0pyZ3hDOVRWM3VmeTRJbkdQTkhOQm16RTN6eEdoM2gwaTNnemtJU1Q5Q3huNXNmV21PZjFZWC1RSXJkVUZzYURBWkJvRVpvaXdMSlV3V1gxOEotaC1JQlU2ME9CUVNqbUdk?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-19T06:41:12.000Z",
+     "seen": "2026-11-19T08:26:49.747Z"
+    },
+    {
      "title": "شاهد ترامب يمازح بوتين.. \"من هذا؟!\"",
      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQS0xwNE5sbG9lbUlCREF1eEpTVk1Xc0k3aGVQXzM2NldERzl3UTlCLWFNZjBsd1ltdl8zcWxHdTFZeThCV2tUYlpic1ZfOTBtTDJWRmMybkRKbkhhYzcyUy05bVNJRHNPMHB0aDJjT19PYi1odk9NR291TnhQU19UR3VPMThSU3A0d1d6aU9kQzlxdVh4UkVWbmF1ZTBDYnNacU9FYWVKb0pyRFpQeklJeXNCMXRwZmMzeWxIZGFwWVd2ZVdOTlBrclI0dndzYXM1Nl9zR2wxRkRsZXJnMGdNeWtEQ0hhTmxub1BzTFVDQnk2ZTFDaVNnVXdPcHJqb1JrR1pyR3czYnJsMXBwdUQ2NlNtWmp6bFp5YnRfejhQY3d3M0E3Y0Zia2JZZDN6cERxZnF5Q29UaXg0T3I0TmNpUjl3d0NDMlFQcEHSAc8CQVVfeXFMT0hJY3p3Q2E3ZlB2U2JvdmZDMXkzbkR5VGtzTjU4U2s0NjdnckxNcF9EbzlCVW9ONFlGVlAtOFFnQmQ1aXh3OWFrY3pWdWZTTnpaZmpNeVNfTWhTV19tdlI3cFNXNFhfYjduR1JvcDRRNGhEVFFmNVFPOU1faU5BMHkxVTFORFhlTHdOY3BJeC1sbmozTUhiZ281R1JTSXk4Y2JzM3Qzd1dJZTcya3d0Ynh0cHpITF9YX04yc0hvb0pSb00wTDZHVzFFVVBzZ05jUnEyRFRQUEdqMk13QnFEVUpxOEwxZDk0ck5rZXhxdE5UYzFnckdXMTM2MWZhMzNRRWdpSUttNlp4ZmNHNlAxWHpvb0VrRS1kU2pfdktIUDd0M01xVTc5S29uY0cybzUxLTNSMTlhdF9LSHh4bnBVdmJNWEdFSEJkYm1xNm52M0E?oc=5",
      "source": "العربية",
@@ -425,25 +446,11 @@
      "seen": "2026-11-19T07:36:49.513Z"
     },
     {
-     "title": "صنّاع فيلم \"نازا\": كيف أقنعوا جنوداً إسرائيليين بالحديث عن قصف غزة؟",
-     "url": "https://www.bbc.com/arabic/articles/cmn0dyg19w00o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T06:01:03.000Z",
-     "seen": "2026-11-19T06:16:49.768Z"
-    },
-    {
-     "title": "تحليل دولي: الجيش السوداني نفذ 63 بالمئة من هجمات المسيرات",
-     "url": "https://www.skynewsarabia.com/middle-east/1905720-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%86%D9%81%D8%B0-63-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T05:50:26.000Z",
-     "seen": "2026-11-19T05:56:49.531Z"
-    },
-    {
-     "title": "ماسك يتهم زيلينسكي بالكذب.. ويكشف سبب تقييد \"ستارلينك\"",
-     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNM29lMmJkdEtEYmxIcXZfS1lKdWsyS3FTVXRqU2hfVXVtWnBkcXp1WHJRREFIQU8tbVRObm81MWYzMkttZTJicUQzeHpmdnZvNnM5dF9DTGF4b2dDVkdVN0c0aGFYcGlkZ0N5UU85SDc3REtrWklmaThWWEZmSUY2NXc2RTUyb3p2MGJfX2IxeEFYeXFPNUdjX0cyOUlvWkpta0tGZ0MxSjZEOUUwcnk5b3gtT1hrRG55bnlTRGlRcXRYU1JGOUF0TGszUk1sMmdkaTR6eFR0aVE1V3NYclBQdVN1R2x4aFJNODN2UXN1TmtsYUlPUm5WZEdWb2kzeDFhUHA2M2NWX3REN1Y1Z3ZGRERJTzE5VjNHVE5ya25weWFwU2pFakZOZno4NjVmNmpJM0VHSTJGVUZtMnFnNnhrVDUxNV92RHZJVFphWnNLVUhrVzFidkdicTVxekJNTFRtakpUNXZlMHhyOGRxRmFWdTdhbGdHVVJNUXVjOHItbHNibXpUaDFORlVULXlaV3E1T1dCaElpWTVCbHNpOWtiN29zTDdENEhwR3NfZk0xSVVndmdfLWZqdNIBvgNBVV95cUxNSHNjbTVfS1oyWXh1OWRMUDZYZVUtUFVuMkNHZzJvdUdhVlREMzB1SFB2OHRtU3FuckF1X1JMRm9hc202bFlhTUFNa1l4a3BzNFN2RHFVTG9wSWpWdFBXeDlwMTZlLVlQT0M5NkZqNUY1eUhEUW5OTDhHV3FwT3ZYTDZyZllydGV5VFdJLTBlaGxXMnNuaS02eXRaYzVwbnJybm1VcXg1Zy1YamJMMzlLUExTSElwaDNlTWxoYzVJcEJLYlFWTWJYai03dEJOMVN2MThHNG5MMkpfb3h0ZFY2UWNvUDkyTVF4N215aFlfdE1ONDJEYkowMlRtTVpWOVFONXJHYTlaalc5ZUlMVS1RWFcyX05KbmRwcHItVHlrLV9iejhwUUEwWFAyRUtkNFI1eG14SlFNVEFlblJQcHVVZXI5dW56bS1sUmV0UzVFOEpySFFQVUluYXpST19hUGpCWjBZaDBLY1VpSGE2Qkk1Sk80dXRFM256OUJYU3lXOVotdXRoeW9IZVdHSUoxeE14T2NlWjFrUDYzLW5raDZYSUNhcmE3RTJhN0hPazVoYkdxTXJRUEp5SEtBal83UQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T05:29:13.000Z",
-     "seen": "2026-11-19T06:36:49.993Z"
+     "title": "عملية \"فجر اليمن\" تتواصل.. وخسائر جديدة في صفوف الحوثيين",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPbzh6QUt6VmdEcTZCUTRJZEdEVGwxX2xxc0tCeV95X3JQeVNxZllwamhYbmtwQmJSV2I4UGN1WVI1SW1uemlwM2NMLW9oUmdsSWpmczhvTV9pUkhmbWxJbzhSSHZLUTlBQzl3RzhmcENMbTdUTFNIOXVyX2ctV1NJTWJpeFlXUmsycnU4N3JZZmpHMlJyVm1UTzFHRjkwaXo2bWlDdEQ1cG1rMWVPTXdZRjEtV2ZOQTc3bTlZckRaNVFyQkM1MnRQRHZwMDVjRU83TzROVzgtM2tSVGo2N284Q0VNZzFVS2JkYWFMYTJCQmxhZzRoR1E5SUlqRmtlSldJWURXMXVxazJJOWJyUl9OMHlkd0VqY0hfMjVvMzRpVHFaajF0aTZEZE5jYWk5a1N0RmpoM3VwUnFPMDJOTml3c1d5d1NycUgweTAtTVNJR21TSGtQTE9HMlBHZktZSlVCN3Vld01xUTh3VEVjcHEwSTV0OHFFUFA1dHNQZTZ2bzVRMlk5MlFJUEFTbU9TQnMyY3dIN1dxUVREUVkzVWR3a1ZfMGR3RTY4ejJ3ampOM2FQLXNUWEkwQ1JUOG9TVmFZcHdxUWJTTUdicHFrZmdBTUpJd00?oc=5",
+     "source": "العربية",
+     "time": "2026-11-19T06:09:00.000Z",
+     "seen": "2026-11-19T08:26:49.747Z"
     }
    ]
   },
@@ -470,14 +477,23 @@
      "url": "https://aitnews.com/2026/11/19/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%b7%d9%84%d9%82-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-gemini-4-neon-%d9%84%d9%84/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T06:32:28.000Z",
-     "seen": "2026-11-19T06:36:49.993Z"
+     "seen": "2026-11-19T06:36:49.993Z",
+     "impact": "يفيد إطلاق النموذج الجديد المبرمجين وشركات التكنولوجيا في مصر لتطوير أدوات تحليل وحلول برمجة أكثر كفاءة."
+    },
+    {
+     "title": "صنّاع فيلم \"نازا\": كيف أقنعوا جنوداً إسرائيليين بالحديث عن قصف غزة؟",
+     "url": "https://www.bbc.com/arabic/articles/cmn0dyg19w00o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T06:01:03.000Z",
+     "seen": "2026-11-19T06:16:49.768Z"
     },
     {
      "title": "الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية",
      "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNY2V4X2I0TlpRTlpHSmhhM0tWdzIteVRDbFdISlU3aWFBZDF1YmVZc0F5WWNFWDU5eEFFdVFaN0h2LVhiaTdHMnMxb181OFdkNlFuaS1ESWF6WV9wNnMxRU1TSUluaHVHdlFuLW9vLVNEWkZqMnROUF81NTBKcF9zdHhQTFJ4MXRkUEp6eDJneHpDQ1p2bmxFbXpaNy1jQm1hb2VnX216YTY3d1l6REVXeDMtWU52c2xhaGJhT0VublV1TzI5Y3ZpU1FrTVIyRGQ4aDRMd1Q1UXVaUjdZM21qNTAyTnhYelB1ODB4aWxGaTlfTHZmamF0T3AtSmtDeVlYWmZEd1pjckNfZHdsaFBCcG5FZjNyRFZJMHp6UXpEZzlYOVM3dDZWME95MnVSc0pfMnRoak45VFBrcE9jUE5KejhYZHhjMjltZFZsaFFCbzQ5OVNLRlk1RVdheVpINkVrT3Vhc083QWtVNmx5ZktxMm1oYnhvRmtwbUdoZWNjNHJVZFFfUlI2cEQtdVlzV1hhLTJZanR4T3NzOUw2VFQ2dEp1OVF5NEhMSU5OSmdtWFRMZG5BbWpia21WOXdMZ1ZLY2RYWEZmcWdkNkRWOGxGNWR6ZXUzMDFqc0NjOEVibTBZY0trWmd1LURuNi05NjRNTlBzTTFlTlBUSTZyeU1pSHQ3VzBxNWJmYUJwdG5JTndCM2FDVTRxc0NLUFRsT1pSMlpSbkFPbFc5TDMyaWxzNldYNkdEWFFUbU1qNWpZUzViYUFVQUM3aHBHd3NFM2syaWFOLXNwOG43dVlBdFNuUWlFLTFETG5hUWc40gHwBEFVX3lxTE1lRVhpU2ZkZ09McTZTY3NMVXJEWGZpeVVMZUgyWFdxcm1OZzVqMC1aLVFza1BxREs5NHNxb3lhMmJrckFpZXhNUEtyUUhiTE1FWG85bmRVWEI4OUZOSGxTS2k4ZWFRN0tUQVdteTF6dUVBLUZRanBKRVdLb3Rka0YzRV8xdWJRbWdxcmRNUXNOYzV4cWZIeDN3c2ZKcEVWX2ZpWHZ4NEZRLU1WaEpaS2tqVjdxaF9rWjJ1bUljVnVYNVlHS2lyMmFrNHZ2d2t5MXVfS3RrWXNpc1VMZ1lGOGNDZ3dRWWNqbmg0OTFzUGdGMFkxQnRmZmUxSWlnS0RpQWhQNVNSTTJHM1hDR2pEcHFMNFJEeUh0STM2dnZFU2FMQWp5cjB6Z3psa2FONk5fTWhDSU94SVloSncwYXRGVlBFMnNyY0hXdkxHUFotMlViam55d0VtSnVIT190aUFSNXQtcHdSczM1RlM0bVZIVFQ1U0NULW5RRjA4VUZjUlFtZmVHLVF0ZGVfaTBmUGg2YjBSdlBYRE1MYll3a2xrMzJTZ01hbHpUdUlNV01aZGZoSmJzY2Z2M09mcEpydlRMX2E5dVVMT3Q1eGpHdE1uT0dYZUlZRWM5SXBXNmVDUTVVTlFma3I1VzJUQ0E1dExXRVdBN29PVUsyYmEzZTNEMGRlZVc0T3VSZXJyNVVIbTNTb3hxaWpBS3V2VmxvQlBZSGkxUE5PVWZjVHVsZmtOSTdua0RabGtoeG9qcnBhTUJhX25NMmR5MTFOVWl1aTdjVjc5dmF1aTBmRjRjNUdXbWhLTElXbWhsRnVYRVdvdTlwVA?oc=5",
      "source": "Masrawy",
      "time": "2026-11-19T05:30:00.000Z",
-     "seen": "2026-11-19T06:46:49.602Z"
+     "seen": "2026-11-19T06:46:49.602Z",
+     "impact": "يعكس التقدم في تصنيع مكونات مفاعل الضبعة خطوات ملموسة نحو تعزيز البنية التحتية للطاقة المستدامة في مصر."
     },
     {
      "title": "مدينة تركية قديمة تحت الأرض تكشف أسرار الاحتماء من الحر والبرد",
@@ -516,13 +532,6 @@
      "seen": "2026-11-19T02:55:19.760Z"
     },
     {
-     "title": "الجيش الإسرائيلي ينفذ أول عملية برية خارج \"الخط الأصفر\" منذ وقف إطلاق النار",
-     "url": "https://www.bbc.com/arabic/articles/cmq5vg0473xlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-18T21:18:52.000Z",
-     "seen": "2026-11-18T21:24:52.854Z"
-    },
-    {
      "title": "Booking Holdings تنشئ وحدة شراكات جديدة مع تصاعد تأثير الذكاء الاصطناعي في قطاع السفر",
      "url": "https://www.tech-wd.com/wd/2026/11/18/booking-holdings-%d8%aa%d9%86%d8%b4%d8%a6-%d9%88%d8%ad%d8%af%d8%a9-%d8%b4%d8%b1%d8%a7%d9%83%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d8%b9-%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d8%aa%d8%a3%d8%ab/",
      "source": "عالم التقنية",
@@ -554,12 +563,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "world",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
