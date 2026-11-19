@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:36:49.513Z",
+ "updated": "2026-11-19T07:46:49.964Z",
  "minute": [
   "أتيحت لمصر تمويلات بقيمة 2.3 مليار دولار من صندوق النقد الدولي، بالتزامن مع استقرار سعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "استلمت جامعة القاهرة 290 فداناً بمدينة أكتوبر الجديدة لإنشاء قصر العيني والجامعة الأهلية، مع بدء تطبيق قرار حكومي جديد يخص سوق العمل والموظفين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-19T07:36:49.513Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-19T07:46:49.964Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.77,
    "change": 0.15,
-   "asOf": "2026-11-19T07:33:38.000Z",
+   "asOf": "2026-11-19T07:46:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5655,
-   "change": 0.05,
-   "asOf": "2026-11-19T07:27:52.000Z",
+   "value": 5649,
+   "change": -0.05,
+   "asOf": "2026-11-19T07:37:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6456,
-   "change": 0.05,
-   "asOf": "2026-11-19T07:27:52.000Z",
+   "value": 6450,
+   "change": -0.05,
+   "asOf": "2026-11-19T07:37:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3738,
-   "change": -0.1,
-   "asOf": "2026-11-19T07:27:52.000Z",
+   "value": 3735,
+   "change": -0.2,
+   "asOf": "2026-11-19T07:37:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
+   "value": 1.0977,
    "change": -0.14,
-   "asOf": "2026-11-19T07:37:45.000Z",
+   "asOf": "2026-11-19T07:47:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.53,
-   "change": -2.63,
-   "asOf": "2026-11-19T07:27:39.000Z",
+   "value": 89.48,
+   "change": -2.69,
+   "asOf": "2026-11-19T07:37:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63558,
-   "change": 0.91,
-   "asOf": "2026-11-19T07:37:50.000Z",
+   "value": 63583,
+   "change": 0.95,
+   "asOf": "2026-11-19T07:47:47.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استقرار أسعار النفط مع تصاعد توقعات فائض المعروض وارتفاع الفائدة الأمريكية",
-     "url": "https://www.elbalad.news/7186373",
+     "title": "«الهوية في عالم مُتغير» .. لقاء توعوي بـ «الطارف» بثقافة الأقصر",
+     "url": "https://www.elbalad.news/7186307",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:36:34.000Z",
-     "seen": "2026-11-19T07:36:49.513Z"
+     "time": "2026-11-19T07:45:29.000Z",
+     "seen": "2026-11-19T07:46:49.964Z"
     },
     {
-     "title": "وكالة الطاقة الدولية: صراع الشرق الأوسط تسبب في أكبر اضطراب في تجارة النفط والغاز عالميا",
-     "url": "https://www.elbalad.news/7186368",
+     "title": "روشتة عاجلة من الزراعة للمزارعين لمواجهة تقلبات الطقس",
+     "url": "https://www.elbalad.news/7186153",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:34:31.000Z",
-     "seen": "2026-11-19T07:36:49.513Z"
+     "time": "2026-11-19T07:45:00.000Z",
+     "seen": "2026-11-19T07:46:49.964Z"
     },
     {
-     "title": "موعد مباراة مصر واليونان في كأس العالم للناشئين تحت 17 سنة",
-     "url": "https://www.elbalad.news/7186359",
+     "title": "مهلة أسبوعين لتحديد الأولويات.. سويلم يوجه بتطهير الترع الأكثر احتياجا لضمان عدالة توزيع المياه",
+     "url": "https://www.elbalad.news/7186385",
      "source": "صدى البلد",
-     "time": "2026-11-19T07:33:57.000Z",
-     "seen": "2026-11-19T07:36:49.513Z"
+     "time": "2026-11-19T07:44:37.000Z",
+     "seen": "2026-11-19T07:46:49.964Z"
+    },
+    {
+     "title": "النشرة المرورية.. كثافات متوسطة للسيارات على محاور القاهرة والجيزة",
+     "url": "https://www.youm7.com/story/2026/11/19/النشرة-المرورية-كثافات-متوسطة-للسيارات-على-محاور-القاهرة-والجيزة/7624241",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T07:37:00.000Z",
+     "seen": "2026-11-19T07:46:49.964Z"
     },
     {
      "title": "جامعة العاصمة تنظم الملتقى العلمى الأول للتوكاتسو لنشر ثقافة التعليم اليابانى",
@@ -172,13 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T07:22:00.000Z",
      "seen": "2026-11-19T07:26:50.170Z"
-    },
-    {
-     "title": "وزير الخارجية لرئيس النواب الأمريكى: الشراكة المصرية الأمريكية ركيزة لدعم الاستقرار",
-     "url": "https://www.youm7.com/story/2026/11/19/وزير-الخارجية-لرئيس-النواب-الأمريكى-الشراكة-المصرية-الأمريكية-ركيزة-لدعم/7624221",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T07:06:00.000Z",
-     "seen": "2026-11-19T07:16:49.652Z"
     },
     {
      "title": "يُطبق اليوم.. قرار حكومي جديد يمس سوق العمل والموظفين «تفاصيل»",
@@ -350,6 +350,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "بعد خسارة الجمهوريين ... إيلون ماسك يشعر بـ\"الحماقة الشديدة\" حيال إنفاقه الانتخابي",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261119-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%85%D8%A7%D8%B3%D9%83-%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-19T07:44:14.000Z",
+     "seen": "2026-11-19T07:46:49.964Z"
+    },
+    {
      "title": "وكالة الطاقة الدولية تعتبر أزمة الشرق الأوسط أكبر تهديد لأمن الطاقة في التاريخ",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261119-%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%86%D9%81%D8%B7-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
      "source": "فرانس 24",
@@ -376,6 +383,13 @@
      "source": "DW عربية",
      "time": "2026-11-19T07:16:00.000Z",
      "seen": "2026-11-19T07:26:50.170Z"
+    },
+    {
+     "title": "\"هى بعينها\".. الحقيبة النووية الروسية تخطف الأنظار بقمة أبيك فى ظهور نادر",
+     "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNVzE3RUVCUnF4VllKYW43Z0hCX1RObEN0QUF6c1F0Sk1XLWxiLVBIZ3l2emZRMXk0dGJ2aVBOSi1aZzhjcTVRU1FDYXJFUEFwZEk0Q3VDam5qaTBjSVBKNWZ4WFNtZ2xSQVhoZExveEtGZkJtVFpKN1RFTlJwcGkwMDJzQ2ZiZDhvMl92eHhKUkFVc1VMdEV5TlZfN0hLdnViRk81NWpSWDJOVExIdnZmdGRseDh1ZXo5ZEtyVUVtejNUb3Rka2ZXSGtrRlBrNF9vMUNhSG1wRHRkOHR0WDBDZG02UzVndlBtRUhYc1NwMWdzSnNBS2lGNXViTkdZRW5KNl9Hb3V4WHNZSGo2Rmw2TVRaSEdWaGxBLW1BcXpnbWhneE5WREY4aTM0a1MxQjh5YkljVmlYWE1lb3F6bzFZTGkxWnNSc095aUFBMTllLXlRTTRYZHpJYmJGd3NiUnRsYlhZa3BCYXNvbzhwZENSaGpZYXNuOU9hdlFUdE5ZZDVfQjNQMzB6RGh1UWkwd0Y1cVEtTkxIb0FQWC1JR3lDMUxvc0ZHUEVpOTFlNXdDemVuYW1LYTJQVV9CTFlWcjRpdHFob2lZdGlJNnlIZmUtVkNUclJkWUF6RVBwLVFrbFM5emxOdnQyb3ozZUhzWlRCcXlBeGxaZ9IB8gNBVV95cUxNVnZNRVVhRFhZVlhvaDNsOW1BbGlCaEM0TlRNd1g0eldPbHRCeFlZTnJBbUdGaDJSWTBPdFJzMXRDT0V6cFR5NnlBM0tGYm1OSTVWN2FBa1B3Q3p4TUZPQVV3eEdBMFY2RnRvVEcyOWx3Y2l1REc5Q1FZQmpuelYwSDdTT2xaa2lTYjZJdVlDSnVFaUJCOW1uYnJxWGhaOVo2cU9felZFNUdtTFVXY094TUhvejNZem1kNEU2czNHelJkN1ZWU2JFNmlBQnc2eG5BMG5ZZkhFeDdfRDFRRjAtMTNMeUMwODZLTHVoSWVvVlg4UldCVmNJbmFDWkJoQ3BYT2gwd0o1VkFZQ2s4d21Ka1VBc0xIVHF6Q3M3WEhRbHl0cld2cXAxU202WmVibmJod2RjYktfNnNLVEtEb1diSUtwZmlKb0RmMmtsZW9HTDZlWFFkZld2ZjU4dVRxOXJBMy12MU5NYzB3YnlRT0ltZVBJMVZ1azFiM3ZPdUMtdGE5bElVT29ZNkZkdjRHc09PMDBoNEU3ZFdlaVlvSEpzUGZ3N3NxbjhxU0k3UUdVWUJ6cVR1bHdBME1JZHpwU1p5RjV6SkhhVEFKbDlqMXh0TGV2OVpsZldUR1NrRkhoZW5qT0hPVkFUbjBYbDREeTkxNHc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T07:05:00.000Z",
+     "seen": "2026-11-19T07:46:49.964Z"
     },
     {
      "title": "\"ما حد عرف قيمته إلا دلوقتي\".. علاء مبارك ينشر كلمات والده عن السادات",
@@ -432,20 +446,6 @@
      "source": "BBC",
      "time": "2026-11-19T05:27:09.000Z",
      "seen": "2026-11-19T02:45:20.130Z"
-    },
-    {
-     "title": "تقرير: أميركا تعاني من نقص مادة مهمة في تصنيع صواريخ «باتريوت»",
-     "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQZ2Rxay0wM29YcGxaMEh3NjdYQnNMRXY1bUxfUUdvS2FoWk1vbElPSUhRNklxZEpJZWdOemREMmZ3dTVncEg3X2ZfbE5aRklnR042TlhpOURLWENjWFRMNXR6alpvTGxaVWFMNTFoaHN3bXJKc1hTenlzTDdadjJSSjRRY245WkhVeUJwQXJYYkFKMFZmS0dZQlpNUGFsVHE4djdrbm5tUWdmT2I0SzNMZFFKeE9hV184cjc0NEFmbWNmMmZzVFVxNG1Od1ZMOF92cE1Bc1dYcGItcHlZVnVtY2lqUHJONUZvLU5wbDJ2dmdobmdBMDd6UDRVRGFNa1pTTElEWGJqRDI5bVpzdEg3ZWxuOTNtbzF6V2NqSDhWRW1sTFVEZjRDb0RtUUZZd21hNTdyNzk2R3ZhQ3F2RU1mZWZBM1QtTWR1TFk2VUd3TEw5THRsQlV4Z0FlVW5TNGNPM1BCU2NBTlhkcU5WMmt5eFBFeXR6Q2J1NVVfMF81ZlRKSmlGbGdwM0xoOW5FMDdEa0FfMjVRb24xaGhUcndLY2kzNDBMOEo1RXlhWVNES1hqRjlKMXNtZXpGMWdwZmRMcEVjUmdMalV4dHU5Mm9OQUZnNV9vNVZ4bDZYZWNIYnFJcGl0aXNpY0dhaDZiQWNtUXhUTEFfVVRjVjA0eng4MktCdTllWjRLRjVSRVcyUlRuMFZuYWhEWVNKMzdVMmRLQml0cHVsTFN1T2JRaERtOHE0RU1vZlZBNTJBLWdwWlg3SW9yNkhpUjZVSzBHY3pZQ3VqeDJGTWM0TTkzaktZQ3h6dFhRWVZnN2h5S3dkVlZQV09Hbmw0N1B5Vkp2bm1kWkh4N04tbzgyRzFCUEE?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-19T04:52:30.000Z",
-     "seen": "2026-11-18T19:24:52.350Z"
-    },
-    {
-     "title": "ترامب لبوتين: علاقات رائعة تجمعنا منذ سنوات",
-     "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQaDZ1ZnlhbWRMMEVGNDdsazZweDNZaUpfZEVfRGNvVzdZc0ZfWWZXa2hVVVJwamstZ1pmQ3JQaTZ6QTc2bGY2ZUhHUGN2TENOel9ackNpX1AzTVVCYVlNVDQtc3k0b1otbUdlejZBN2xCRDFqZDQxNWwzMkFzU1VtSy1OSEhWT1hjeU5JaFIySmJWS09BakFMWGdvZzJXM0VEVmFtbTVHSFlaTkZ6NC1fUWk3VVpUWFRrMFlLVW5WdGNsaDVvMVB5Z3QwRFg5a0Z6cWZiZ0lqVDdIYk9MaC1NNEo2VTJVV0J6Nlg5NnVfOE9hakYwUlBvV1JPVDNZZ3pDTGtJSVB2NV8taF80Vl84T1RQTW1QRTRaTXVGVDFrOHJQcU03TTQyc1c4dERyNEVBNWZROWd1YVZlelRmWG83T0J4Z1J2SVotT2tyWGlHdjViaDlGVjBhMGYySVZyVUdyNFViLXFLWVp1b0pQRGNn0gH0AkFVX3lxTE80akpvTEQyN0dHLXBOZ3U5NjF3bWxOOWEyeS1EcGhNbGVxYnJKdE5NdDlIekppRkJmZEppblJTa0p0OTI1RWYwck43LWV1TVV3RE5YaEpaMGRUYzZzN2x3YVQzckdQdEQ4WWFucFIyRTBDRExTMnU4M3JQN21PZW1icDY4VHJZVG5hRElTS0ZJSW9EcFQ2ZUtqMnZOeWl6QzN2VlE2SzI2d2lEekdYTjQyeVM0N1JINFFiOHY4UVZDaHdPak1LZkY5WU10Ymo4RUhTSFBVUVNNaDlQYTdidXN2MEd0ZFUwbXpSS09iMGZ6bzkxZ1JtQWhvaXZPSUY2Vmt4YUUwblNRS0VrM09DcEV4eWpvdVVaV1hQV3RJeXR0OGVmZkZPSW1XVDIyamR1TEV6VDRUMzFxWEljdTIwbEo5Zm1ZQlBVbEExRVJaeFpIdXU3VHZXVUFwSDU2WTM0R2pnN2ZmUVlBOWdzb19JUFNHbEFWdA?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T04:44:00.000Z",
-     "seen": "2026-11-19T07:06:49.775Z"
     }
    ]
   },
