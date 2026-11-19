@@ -1,81 +1,79 @@
 {
- "updated": "2026-11-19T09:58:23.192Z",
+ "updated": "2026-11-19T10:08:22.281Z",
  "minute": [
-  "متابعة مستمرة لأسعار العملات الأجنبية والعربية في البنوك المصرية مع تراجع سعر الدولار وتخليه عن مكاسبه.",
-  "تحديد طرق بديلة للمواطنين والسائقين عقب الإغلاق الكلي لكوبري قصر النيل بالقاهرة.",
-  "عقد قمة ثلاثية تجمع قادة الصين والولايات المتحدة وروسيا وسط اهتمام دولي بتطورات الذكاء الاصطناعي والأزمات العالمية.",
-  "الانتهاء من تصنيع المكونات الرئيسية للمفاعل الأول بمحطة الضبعة النووية في مصر."
+  "شهدت الأسواق المصرية تراجعاً في أسعار الدولار واليورو والذهب بالتزامن مع تحقيق البورصة مكاسب في مستهل التعاملات.",
+  "اعتمد وزير الزراعة تمويلات جديدة تخطت 301 مليون جنيه لدعم المشروع القومي للبتلو.",
+  "انطلقت في مدينة شنجن الصينية قمة ثلاثية تجمع زعماء الصين والولايات المتحدة وروسيا بالتزامن مع اجتماعات لحلفاء أوكرانيا في برلين.",
+  "صدرت رسمياً لعبة \"جي تي إيه 6\" وسط توقعات بإيرادات ضخمة وتحذيرات أمنية من برمجيات احتيالية مرافقة للحدث."
  ],
  "ai": {
-  "at": "2026-11-19T09:08:22.482Z",
-  "model": "gemini-3.6-flash",
+  "at": "2026-11-19T10:08:22.281Z",
+  "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-19T09:58:23.192Z"
+  "impacts": 10
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.84,
-   "change": 0.28,
-   "asOf": "2026-11-19T09:59:58.000Z",
+   "value": 53.87,
+   "change": 0.34,
+   "asOf": "2026-11-19T10:08:24.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5650,
-   "change": -0.04,
-   "asOf": "2026-11-19T09:50:00.000Z",
+   "value": 5651,
+   "change": -0.01,
+   "asOf": "2026-11-19T09:58:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6450,
-   "change": -0.04,
-   "asOf": "2026-11-19T09:50:00.000Z",
+   "value": 6452,
+   "change": -0.01,
+   "asOf": "2026-11-19T09:58:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3730,
-   "change": -0.32,
-   "asOf": "2026-11-19T09:50:00.000Z",
+   "value": 3729,
+   "change": -0.34,
+   "asOf": "2026-11-19T09:58:58.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51439,
-   "change": -0.21,
-   "asOf": "2026-11-19T09:44:59.000Z",
+   "value": 51411,
+   "change": -0.26,
+   "asOf": "2026-11-19T09:53:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": 0.02,
-   "asOf": "2026-11-19T09:59:43.000Z",
+   "value": 1.1,
+   "change": 0.06,
+   "asOf": "2026-11-19T10:08:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.26,
-   "change": -2.93,
-   "asOf": "2026-11-19T09:48:58.000Z",
+   "value": 89.69,
+   "change": -2.46,
+   "asOf": "2026-11-19T09:58:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63785,
+   "value": 63790,
    "change": 1.27,
-   "asOf": "2026-11-19T09:59:58.000Z",
+   "asOf": "2026-11-19T10:08:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,32 +138,41 @@
    "title": "مصر",
    "items": [
     {
-     "title": "28 طالبة في المستشفى.. الأمن يكشف تفاصيل واقعة بخاخ مدرسة عين شمس",
-     "url": "https://www.elbalad.news/7186554",
+     "title": "اليوم.. منتخب مصر تحت 17 عاما يستهل مشواره في كأس العالم أمام اليونان",
+     "url": "https://www.elbalad.news/7186564",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:57:32.000Z",
-     "seen": "2026-11-19T09:58:23.192Z"
+     "time": "2026-11-19T10:06:47.000Z",
+     "seen": "2026-11-19T10:08:22.281Z"
     },
     {
-     "title": "تحالف دعم الشرعية: اعتراض و تدمير 4 صواريخ باليستية باتجاه المنطقة الجنوبية",
-     "url": "https://www.elbalad.news/7186551",
+     "title": "اليوم.. مهرجان القاهرة السينمائي يكرّم المخرج الجزائري أحمد راشدي",
+     "url": "https://www.elbalad.news/7186563",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:54:47.000Z",
-     "seen": "2026-11-19T09:58:23.192Z"
+     "time": "2026-11-19T10:02:43.000Z",
+     "seen": "2026-11-19T10:08:22.281Z"
     },
     {
-     "title": "الخطر قادم.. السعودية تطلق إنذار مبكر في نجران",
-     "url": "https://www.elbalad.news/7186549",
+     "title": "تعاون بين محافظة الغربية والأزهر.. نشر الوعي وترسيخ القيم وبناء الإنسان.. ودعم جهود مبادرة بوعينا بنطور بلدنا",
+     "url": "https://www.elbalad.news/7186544",
      "source": "صدى البلد",
-     "time": "2026-11-19T09:54:05.000Z",
-     "seen": "2026-11-19T09:58:23.192Z"
+     "time": "2026-11-19T10:02:06.000Z",
+     "seen": "2026-11-19T10:08:22.281Z"
+    },
+    {
+     "title": "وزير الزراعة يعتمد تمويلات جديدة تجاوزت 301 مليون جنيه للمشروع القومى للبتلو",
+     "url": "https://www.youm7.com/story/2026/11/19/وزير-الزراعة-يعتمد-تمويلات-جديدة-تجاوزت-301-مليون-جنيه-للمشروع/7624478",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T09:54:00.000Z",
+     "seen": "2026-11-19T10:08:22.281Z",
+     "impact": "يفيد مربي الماشية والمستثمرين في قطاع الإنتاج الحيواني في مصر بالحصول على تمويلات جديدة للتوسع في النشاط."
     },
     {
      "title": "مصطفى بكرى: مواطنون مستعدون لتقديم 100 كيلو ذهب وسيتم صرف مقابل قيمتها فورا بشهادة تثبت مصدر الأموال",
      "url": "https://www.youm7.com/story/2026/11/19/مصطفى-بكرى-مواطنون-مستعدون-لتقديم-100-كيلو-ذهب-وسيتم-صرف/7624402",
      "source": "اليوم السابع",
      "time": "2026-11-19T09:46:00.000Z",
-     "seen": "2026-11-19T09:48:22.697Z"
+     "seen": "2026-11-19T09:48:22.697Z",
+     "impact": "يوضح للمواطنين المتعاملين في الذهب بمصر إمكانية تحويل الحيازات إلى سيولة نقدية عبر شهادات رسمية لإثبات مصدر الأموال."
     },
     {
      "title": "التنمية المحلية: غلق وتشميع 198 محل مخالف وتقديم 122 طلب ترخيص",
@@ -173,13 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-19T09:46:00.000Z",
      "seen": "2026-11-19T09:48:22.697Z"
-    },
-    {
-     "title": "الصحة تحذر من مخاطر المبيدات والمعطرات الكيميائية المنزلية على صحة الأطفال",
-     "url": "https://www.youm7.com/story/2026/11/19/الصحة-تحذر-من-مخاطر-المبيدات-والمعطرات-الكيميائية-المنزلية-على-صحة/7624381",
-     "source": "اليوم السابع",
-     "time": "2026-11-19T09:37:00.000Z",
-     "seen": "2026-11-19T09:38:22.561Z"
     },
     {
      "title": "قرار من مجلس الوزراء بإسقاط الجنسية عن «علي ميلاد» لالتحاقه بالخدمة العسكرية في دولة أجنبية",
@@ -245,18 +245,36 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تراجع سعر الدولار أمام الجنيه اليوم الخميس 19-11-2026 في منتصف التعاملات",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLUWM2ZnZlZzltZ3p4cU5aVzBOTFptUW9wWGRYU1pIMVFScXVOcFVHS1ZPUFF0Mmx2NjBfSlpubk5fQ0VFRERr?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-19T09:57:00.000Z",
+     "seen": "2026-11-19T10:08:22.281Z",
+     "impact": "يساعد المستوردين والأفراد في مصر على تقدير تكاليف شراء السلع ومتابعة القوة الشرائية للجنيه أمام العملة الأمريكية."
+    },
+    {
      "title": "تراجع سعر اليورو اليوم الخميس 19 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQcUtMYmlWWGlJUmEySzR2ZjVJMjVEQXNzRXRZb0ZlT2FUdThBRERwRmVTblh0SDBONFB1N1ZxN21fZkJtdzdSTDNnMTV3YWxNWk1tcjVIMUVCQ1d0NldQZ3kwLUdZcGxVb2J0U2VxdERrODJpdFZTS2VlUWM1U2NuVWtQTXJNQlppWnhmRDByYUlsQXd0OVgxWXB5YWtXTlNrMHVQSVFQQ2lVSlozTnN1X2h6Zjd0UFEyaEpScnNUUzdvYVFIaE1OMHdTbUI0Sm5CZUlVREdOZHlFMGcwUHp1ck1rZEJ3dTctZWR3UU5iSFJfaS1CZjY5VnhfcWN6R01UUlAwUG03TGFCNUpOTHg3Wk1ZTGVmVXdPS1Q4UTdIOW9FSkhxX1pEWEpjdi1UQ19Iczc4NF9GN3RVNS1KWHlQaW13TXcwUnhHQm5ncnJ4cXNuNzZRX3B0TFhQQ2pSRTVnaGtvNVV5LWNiMF91Z2ROemJwR0F4VnFNMGxCTjdqaWdzTVh1Nnluc2I1eTBiX29nRHlZcjJtTkpBY2JCZnhJWnJXUTdBMmZpY01TWHZYTDkyOUZocEow0gGyA0FVX3lxTE84UlBfREZ4R18yNkNtems0MWRxZm41XzJ4T25GM1lpblJRdk1oR3pNYTQ5RDVVc3c2OXpMQlRzOU03TVJvd056RWlhQUpDV05hZldMVFlqREtKNnQyVFBJc3llZ1I0MmNkWlRMRk5sRjZNNlFEZWhNeHFqcTV3d3BCNjNLRHJ5b1RnSXRDQnJ2WWlLZ0NPUmh1ZmNDRVVmZlpSanhjdk5MSjFVaVVKellvY1JMQXB2Z0tpNWdlQXM5N25ndkJRa01JbWpuWDdKc25tenRUVXRSelNLN2ZJc2tYcnY4QVdraWFNMVBiXy1Yd1NzTDNERUdPaFBkMzBpSHF0TFoyNWFDYlI2bHRQekZHNlpKNkhoVG9ZN3d4S2pJOEhTZ2NpeEpMQlFYYWZFU2Q3Z2hsUFVaQV9lRi1RUllrMmoxOExwZl9rOHlDRVkzSmdmT0lXWVJRRHlFUGFGaVJsVlVKajN4TER0NE9vZ0hzbVBkNEpOS2dQalFlS1dqeG1WRzh2UE5zRmRPZGVfak4tbHhSY0RBczRwUkdUTk81VEdWcV9UeGNmS2JGX2hkYmRB?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-19T09:16:00.000Z",
-     "seen": "2026-11-19T09:28:23.002Z"
+     "seen": "2026-11-19T09:28:23.002Z",
+     "impact": "يهم المستوردين والمقبلين على السفر أو التعليم في أوروبا بمتابعة تكلفة تدبير العملة الأوروبية من البنوك المصرية."
     },
     {
      "title": "البورصة تربح 11.5 مليار جنيه في مستهل تعاملات جلسة الخميس",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNR2RZYmhCZXFtRGUyU251eXIzZWFmWTVhVDR0UUlFMGRlUnZqSTJOT25MYkxUMGhtM01kcFFLTXBZa1hhS3ZocDZHb1RNQlJSeU9KN1E0Yk5taGVkZ0VoRjVseEhqRmJvZkc1NkpiWlBvQWpDNDhyUmliYTFxVG9TcXladWxnVUpUQklCTm1ZUnM3MXdlM3ViRnpRTnBheFc2UnVRc0ozYVdYRTZiX044aWtEMVlvRjYwM0pSWmYxcmpGSjJKaUZTQkVEbnlOc2JXYUdCcnhUR0VDeVM5a3JQdGZ0dk5FYWJEMlotUzV0a3hBZDVFM1NRcFk3cWMxMkl3NFR5Yi1xMnVuUQ?oc=5",
      "source": "عالم المال",
      "time": "2026-11-19T09:14:22.000Z",
-     "seen": "2026-11-19T09:28:23.002Z"
+     "seen": "2026-11-19T09:28:23.002Z",
+     "impact": "يعكس تحسن السيولة وارتفاع تقييمات الشركات المدرجة في سوق المال المصري للمستثمرين في الأسهم."
+    },
+    {
+     "title": "سعر الذهب يتراجع 5 جنيهات اليوم الخميس 19 نوفمبر.. وعيار 21 يسجل 5760 جنيها",
+     "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQeE16RFZ4YWJFTi1UTWdRcmVoX1FNQjQtMkJGU0lmWU5XTWtRb0VkcWM2QWZlb2FnX2VlU0JRVVFNTk1STWktdWl6Qlg2Tmc3bVBjQnh0S2l1UmhkX1M3S3JjNXhEbTgtSTRlNWVwWWFscnZHR0lhZGRvV2RvRThFdk9RcmtSNGYxeGxGRTVoQVloRGRkdmxtY0pGRlAteXRzYXhUMXVhNTBaMmFPM3hoZXZpRkc2M01Nb09YRXo4ekoyRUk2NXN2UDRXcTNMLVlRRVh0QVRTNndwQzB5cnpBQU93MzduVV92OEcyZ042NldnZUVaeWphbi1jdE05NjJxb0JlREpkOGIySmtmOEJ1NTdfU1FIRFJlcXVSOFRzOEY2R1Y5WWpQT09QbEVQT1FTdUptZXFzcW13UmFQV21wdG90UEpQdWVkRGZmZ2ctcnF0QVJuMEZTeThwSWxIb2FzTzVYQW9mT1FoVUZhUDJEQ0llMmU3VFl0U3gtc1NlQlU3LXhWczIwNnF4MWwxVUpoRnlyVTlfQTRhNkN5OGs0UnUtcWM1cEhPMDBLaVNqQUhNcGlGQ2ltejcyY9IBtgNBVV95cUxOa1BfVl92Si1BejA3Y0I0SU14QmdheEFjVEVtWjJnbThXMHUtbUJ1Q2E2QXZPdHJqNUxfZzc0SWZwXzNzYTdUQy0xWUpGMUJXZTBzbjc2ZU5ZdDUzUThfclluYkdYX2NQUVBvUmg5MG0zUkM0TVZrWmRZVnh3NXNLQzJUYlp2ejVRU1FVYmRSSzF0NDNWZXZ5RUlXbDFULTMxUW1EUTg5bm5qUkNFVXNJVUVzVXZCQ21ZbzNVeUV3SGFmSlg1WWZZQV92WE5ranZqOHd2U3pqZExmS3ljdTRqRkp6bWtfSE9ScV8ta3hVMTJmN0ZYZEpFdEg5WnRJUFF3NlY4NXhhNTUzT0l3azJ1UmNHQXpCTnAwZ0tQSms1TEJXOEtkbGxhREFSYkZ3S1FURGUzMzZrVndBY1RFOG5Rci1PZFlXSVplRXhZYVFCS1lwbjN2NWhpQ3YtSmZxY3NWS0s4N2pYQk5MUWVnNV9Pc0JFSi1FcExlVXBJeEIxUVhmMHpBSkFiRGt6YUVoamRySEVTLUdQdW10amFCZ2JwenJuN0duYTVfUFo2RmlydWN4MDFYdGc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-19T09:10:00.000Z",
+     "seen": "2026-11-19T10:08:22.281Z",
+     "impact": "يحدد تكلفة الشراء للأفراد الراغبين في الادخار بالذهب وتجار الصاغة في السوق المصري بعد تراجع عيار 21."
     },
     {
      "title": "تعرف على سعر الدينار الكويتي في البنك المركزي اليوم الخميس",
@@ -264,7 +282,7 @@
      "source": "فيتو",
      "time": "2026-11-19T08:57:00.000Z",
      "seen": "2026-11-19T09:08:22.482Z",
-     "impact": "تفيد أسعار الدينار الكويتي العاملين بالخارج وأسرهم في تقييم التحويلات المالية والتدفقات النقدية."
+     "impact": "يهم شريحة العاملين في الخارج وعائلاتهم بمصر لمتابعة القيمة النقدية للتحويلات الواردة بالدينار الكويتي."
     },
     {
      "title": "سعر الدولار في مصر يتخلى عن مكاسبه",
@@ -332,20 +350,6 @@
      "source": "CNN الاقتصادية",
      "time": "2026-11-19T07:47:26.000Z",
      "seen": "2026-11-19T07:26:50.170Z"
-    },
-    {
-     "title": "سعر الدولار أمام الجنيه المصري اليوم الخميس 19 نوفمبر 2026 في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zaXVQMUtEd2VCVEJZNjF5TFpYUUE5UUlRN1R2c2tBRk9feXF2X3hHTFlyUldUUTJtTXhtNFF1RUozRWdnVG1RSFBlQXJYT083THNUNjZWc2xvR2RO?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-19T07:19:44.000Z",
-     "seen": "2026-11-19T07:56:49.670Z"
-    },
-    {
-     "title": "التحالف يعلن عن أضرار مادية إثر هجوم صاروخي للحوثيين على الرياض",
-     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T07:18:03.000Z",
-     "seen": "2026-11-18T19:44:52.573Z"
     }
    ]
   },
@@ -358,7 +362,8 @@
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261119-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B4%D9%8A-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B4%D9%86%D8%AC%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-19T09:56:12.000Z",
-     "seen": "2026-11-19T09:58:23.192Z"
+     "seen": "2026-11-19T09:58:23.192Z",
+     "impact": "تؤثر مخرجات القمة بين القوى الكبرى على استقرار الاقتصاد العالمي وسلاسل الإمداد التي تمس السوق المصري."
     },
     {
      "title": "بعد 13 عاما من الانتظار... صدور لعبة \"جي تي إيه 6\" وسط توقعات بتحقيق إيرادات تاريخية",
@@ -386,7 +391,8 @@
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNnhoZ2lKSk11OVNPSXZKcXRUVWFmTjQxOTZTVm9zN05tWjdORlJLZHhQc0ljUzV2Yzl1TDZkQ0dRanNCMU9GNkNKS3oydWlvSF9kc2VoSzlFQlZKckHSAWNBVV95cUxNb3JtTXRNSWZIRllxREVQY050ZGRYQTlVR211ZGR4NG9MMDhnbEFST0VXX1VlWkdrcXY0X25pdEpETG1WVGIxNTRWaGRHUXpwRVdSWkNydVljR093RTFPUTdUUW8?oc=5",
      "source": "BBC",
      "time": "2026-11-19T08:31:36.000Z",
-     "seen": "2026-11-19T08:46:49.733Z"
+     "seen": "2026-11-19T08:46:49.733Z",
+     "impact": "يعكس المخاطر والتوترات الإقليمية التي قد تنعكس على أسواق الطاقة وحركة الشحن في المنطقة."
     },
     {
      "title": "السعودية تعلن تدمير 4 صواريخ باليستية أطلقها الحوثيون",
@@ -424,6 +430,13 @@
      "seen": "2026-11-19T07:26:50.170Z"
     },
     {
+     "title": "التحالف يعلن عن أضرار مادية إثر هجوم صاروخي للحوثيين على الرياض",
+     "url": "https://www.bbc.com/arabic/articles/cq98x3geznjzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T07:18:03.000Z",
+     "seen": "2026-11-18T19:44:52.573Z"
+    },
+    {
      "title": "ألمانيا.. لماذا تتصدر قائمة الوجهات المفضلة للطلاب الدوليين؟",
      "url": "https://www.dw.com/ar/ألمانيا-لماذا-تتصدر-قائمة-الوجهات-المفضلة-للطلاب-الدوليين؟/a-79979696?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -438,18 +451,11 @@
      "seen": "2026-11-19T07:46:49.964Z"
     },
     {
-     "title": "ترامب وشي يبحثان التعاون بشأن مضيق هرمز وإيران قبيل قمة ثلاثية مرتقبة مع بوتين",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yOE5XOGZvSlpKNGM2d2JWLUZaOXpWZXZvS0Z0QTRqcXVQMXpNbGtKTnVXdWZiR2JBZS1hc3hZUjBob0hOTkhQSHdiMGYySXYyWXpxWFdHZ3ltWFFPTWfSAWNBVV95cUxPSDRPdXBSaG0tWmJ2QVhnNEYzUFl1SUZaWmdjZDh3aWdVY0tHMS1zRXE0WnBIMHgtZDNiY2VqZXJNZ1lOVUtjX0JLWUhQb19vTVNjbm9TT1MyVHk1TjBGMWRYUlE?oc=5",
-     "source": "BBC",
-     "time": "2026-11-19T06:56:52.000Z",
-     "seen": "2026-11-19T09:08:22.482Z"
-    },
-    {
-     "title": "\"ما حد عرف قيمته إلا دلوقتي\".. علاء مبارك ينشر كلمات والده عن السادات",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/19/alaa-mubarak-publishes-father-words-elsadat",
-     "source": "CNN بالعربية",
-     "time": "2026-11-19T06:51:22.000Z",
-     "seen": "2026-11-19T06:56:49.897Z"
+     "title": "\"خزان خفي\" في أعماق الأرض.. اكتشاف يقلب المفاهيم حول الأكسجين الذي نتنفسه",
+     "url": "https://www.aljazeera.net/science/2026/11/19/%d8%ae%d8%b2%d8%a7%d9%86-%d8%ae%d9%81%d9%8a-%d9%81%d9%8a-%d8%a3%d8%b9%d9%85%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%8a%d9%82%d9%84%d8%a8?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-19T06:58:37.000Z",
+     "seen": "2026-11-19T10:08:22.281Z"
     }
    ]
   },
@@ -476,7 +482,8 @@
      "url": "https://aitnews.com/2026/11/19/%d9%83%d8%a7%d8%b3%d8%a8%d8%b1%d8%b3%d9%83%d9%8a-%d8%aa%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d9%85%d8%b2%d9%8a%d9%81%d8%a9-%d9%88%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-19T09:19:19.000Z",
-     "seen": "2026-11-19T09:28:23.002Z"
+     "seen": "2026-11-19T09:28:23.002Z",
+     "impact": "يحذر الأفراد ومستخدمي الألعاب الإلكترونية في مصر من التعرض للاحتيال أو اختراق أجهزتهم عبر تحميل ملفات مزيفة."
     },
     {
      "title": "ترامب يعلن موقفا حاسما بشأن تنظيم الذكاء الاصطناعي",
@@ -561,17 +568,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  },
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
