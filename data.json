@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-20T09:23:09.928Z",
+ "updated": "2026-11-20T09:33:10.168Z",
  "minute": [
-  "أعلنت محافظة الجيزة إقامة سوق اليوم الواحد بحدائق الأهرام لتوفير السلع بأسعار مخفضة، بينما تنفذ وزارة التضامن أنشطة توعوية في المدارس حول التربية الإيجابية.",
-  "شهدت الأسواق الاقتصادية ارتفاعاً في أسعار النفط ومتابعة لأسعار الدولار والعملات الأجنبية بالبنوك، إلى جانب تراجع أسهم الرقائق الإلكترونية في آسيا.",
-  "تضمنت الأحداث الدولية والتكنولوجية هجوماً على كييف، وانطلاق فعاليات أسبوع دبي للمستقبل، وتحديثات جديدة لميزات الذكاء الاصطناعي الطبي."
+  "شهدت الأسواق العالمية موجة تراجعات حادة في أسهم التكنولوجيا والرقائق، بالتوازي مع ارتفاع أسعار النفط على خلفية التوترات في الشرق الأوسط.",
+  "وتصدرت متابعة أسعار الدولار والعملات الأجنبية مقابل الجنيه المصري الاهتمام الاقتصادي المحلي.",
+  "وعلى الصعيد الصحي والتكنولوجي، أُعلنت تحديثات جديدة لتطبيقات الذكاء الاصطناعي الطبي ودراسات صحية تتعلق بالتغذية والوقاية من الأمراض."
  ],
  "ai": {
-  "at": "2026-11-20T09:03:10.157Z",
+  "at": "2026-11-20T09:33:10.168Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T09:23:09.928Z"
+  "key": 2,
+  "impacts": 9
  },
  "markets": [
   {
@@ -27,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5417,
-   "change": -2.74,
-   "asOf": "2026-11-20T09:15:07.000Z",
+   "value": 5410,
+   "change": -2.87,
+   "asOf": "2026-11-20T09:25:35.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6185,
-   "change": -2.74,
-   "asOf": "2026-11-20T09:15:07.000Z",
+   "value": 6176,
+   "change": -2.87,
+   "asOf": "2026-11-20T09:25:35.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3582,
-   "change": -2.82,
-   "asOf": "2026-11-20T09:15:07.000Z",
+   "value": 3577,
+   "change": -2.94,
+   "asOf": "2026-11-20T09:25:35.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.097,
-   "change": -0.02,
-   "asOf": "2026-11-20T09:24:44.000Z",
+   "value": 1.0976,
+   "change": 0.04,
+   "asOf": "2026-11-20T09:34:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.6,
-   "change": -3.67,
-   "asOf": "2026-11-20T09:14:25.000Z",
+   "value": 88.57,
+   "change": -3.71,
+   "asOf": "2026-11-20T09:23:39.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61704,
-   "change": -0.32,
-   "asOf": "2026-11-20T09:25:14.000Z",
+   "value": 61577,
+   "change": -0.52,
+   "asOf": "2026-11-20T09:35:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +137,26 @@
    "title": "مصر",
    "items": [
     {
-     "title": "متفجرات بمحطة قطار إدنبرة ويفرلي بأسكتلندا",
-     "url": "https://www.elbalad.news/7187621",
+     "title": "هبوط اضطراري لطائرة أمريكية بعد اشتعال النيران في محركها عقب الإقلاع",
+     "url": "https://www.elbalad.news/7187629",
      "source": "صدى البلد",
-     "time": "2026-11-20T09:22:10.000Z",
-     "seen": "2026-11-20T09:23:09.928Z"
+     "time": "2026-11-20T09:32:02.000Z",
+     "seen": "2026-11-20T09:33:10.168Z"
     },
     {
-     "title": "بث مباشر.. شعائر صلاة الجمعة من الحرمين الشريفين",
-     "url": "https://www.elbalad.news/7187620",
+     "title": "دراسة حديثة تزف بشرى سارة لعشاق البيض.. لا تزيد عن هذا العدد كل أسبوع",
+     "url": "https://www.elbalad.news/7187587",
      "source": "صدى البلد",
-     "time": "2026-11-20T09:19:47.000Z",
-     "seen": "2026-11-20T09:23:09.928Z"
+     "time": "2026-11-20T09:30:00.000Z",
+     "seen": "2026-11-20T09:33:10.168Z",
+     "impact": "تفيد النصائح التغذوية الأفراد في تنظيم وجباتهم اليومية وتحسين صحتهم وفق التوصيات الحديثة."
     },
     {
-     "title": "كاتب يحذر من مخاطر الذكاء الاصطناعي: هل يتحول إلى سلاح خارج السيطرة؟",
-     "url": "https://www.elbalad.news/7187617",
+     "title": "قبل عرضه في الدوحة السينمائي.. كل ما تريد معرفته عن فيلم حوار مع البحر",
+     "url": "https://www.elbalad.news/7187628",
      "source": "صدى البلد",
-     "time": "2026-11-20T09:19:38.000Z",
-     "seen": "2026-11-20T09:23:09.928Z"
+     "time": "2026-11-20T09:28:35.000Z",
+     "seen": "2026-11-20T09:33:10.168Z"
     },
     {
      "title": "مفتي الجمهورية يعزي علا الشافعي رئيس مجلس إدارة «اليوم السابع» في وفاة والدتها",
@@ -189,7 +188,7 @@
      "seen": "2026-11-20T03:01:44.478Z"
     },
     {
-     "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
+     "title": "تكريم السادات.. سفارة إسرائيل بمصر تعيد نشر مشهد \"حبس الأنفاس\" | CNN Arabic | CNN",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
      "source": "CNN Arabic",
      "time": "2026-11-20T02:18:22.000Z",
@@ -248,7 +247,8 @@
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSzVseGVLdkVRSHRzVkhiM1d5a3ZjdGMtVTlxQ05heEcwVkNxTTFZeE1zU2lVNzVveUVNb0cyQnZ2YWRXaHc3cm9qUWtJejljc19KUzJ0TmZ0bjRaYUp3WjVOMVQ2bXBFZnNGM3dNUUt0ZHp5UXA2S3FKXy1PQ3NGTFBLUEswZGlJTlJEcUdIQ0RrbUlYeXZyQzlsbHhrTEpZYk5WMmVsZFVVWl80MWdZQkJpdnh3dVB3WEJqSmVMS29kaE9aQm5yOFJMM0kxSmZfZXBKdWI2NlpXVkIzcXdjbDN5MFZHSlNZZWhQTTE2OGpMemhDUGVfb281c0Y1UzZWQTRNdWVlQlF3SXVqUzdlRS1FcVZOS05KV1FXYlNTeEF2anIzRlV1RzNRM1pDZGdCeUluMlhxOUUwclBTc2hoOTBPOWtFZGNmZGlrcEhLZ0FLazJBaTJlXzhzQ0Y1UzQ1XzhOZFZsMmpqN1RvWUxEbXdNY0ZfWjg?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-20T09:06:19.000Z",
-     "seen": "2026-11-20T09:13:09.549Z"
+     "seen": "2026-11-20T09:13:09.549Z",
+     "impact": "تساعد متابعة سعر صرف الدولار المستثمرين والمواطنين على تحديد تكلفة الواردات وتقييم القوة الشرائية."
     },
     {
      "title": "قمة المملكة المتحدة والاتحاد الأوروبي: مساعي لإعادة بناء العلاقات بعد بريكست",
@@ -263,7 +263,7 @@
      "source": "البورصة",
      "time": "2026-11-20T08:50:31.000Z",
      "seen": "2026-11-20T09:03:10.157Z",
-     "impact": "ينعكس ارتفاع أسعار النفط على تكاليف الطاقة ومعدلات التضخم التي تؤثر على المستثمرين والأفراد في مصر."
+     "impact": "ينعكس ارتفاع أسعار النفط عالمياً على أسعار الوقود وتكاليف شحن السلع للمستهلك والمستثمر في مصر."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 20-11-2026 في البنوك.. أعلى سعر بهذا البنك",
@@ -271,7 +271,7 @@
      "source": "صدى البلد",
      "time": "2026-11-20T08:48:00.000Z",
      "seen": "2026-11-20T08:53:09.876Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة حركة أسعار الدولار وتأثيرها على القوة الشرائية والتكلفة."
+     "impact": "يتيح التعرّف على أحدث أسعار العملات في البنوك للمواطنين مقارنة الخيارات المتاحة للصرف والتطبيقات المالية."
     },
     {
      "title": "سعر العملات الأجنبية اليوم الجمعة 20 نوفمبر 2026 في البنوك مقابل الجنيه",
@@ -279,7 +279,7 @@
      "source": "جريدة الدستور",
      "time": "2026-11-20T08:35:22.000Z",
      "seen": "2026-11-20T08:43:10.016Z",
-     "impact": "ساعد المتعاملين في الأسواق والمستوردين في مصر على معرفة أسعار صرف العملات الأجنبية مقابل الجنيه."
+     "impact": "تفيد أسعار العملات الأجنبية الأفراد الراغبين في السفر أو التجارة في تقدير التكاليف المالية بدقة."
     },
     {
      "title": "\"أخبروني أن طفلي مات وبعد 42 عاماً وصلتني منه رسالة\"",
@@ -355,18 +355,33 @@
    "title": "العالم",
    "items": [
     {
-     "title": "القضاء الأمريكي: والد ميغان ماركل مؤهل ذهنيا لمواجهة تهمة حيازة صور اعتداء جنسي على أطفال",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261120-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D9%88%D9%85%D8%A7%D8%B3-%D9%85%D8%A7%D8%B1%D9%83%D9%84-%D8%AA%D9%87%D9%85%D8%A9-%D8%B5%D9%88%D8%B1-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%AC%D9%86%D8%B3-%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+     "title": "خارج حدود المجموعة الشمسية.. المسبار فواياجر1 يواصل رحلته في الفضاء السحيق",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261120-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D8%A7%D8%B1-%D9%81%D9%88%D8%A7%D9%8A%D8%A7%D8%AC%D8%B11-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B1%D8%AD%D9%84%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%AD%D9%8A%D9%82",
      "source": "فرانس 24",
-     "time": "2026-11-20T08:54:28.000Z",
-     "seen": "2026-11-20T09:03:10.157Z"
+     "time": "2026-11-20T09:27:23.000Z",
+     "seen": "2026-11-20T09:33:10.168Z"
+    },
+    {
+     "title": "قمة المناخ-كوب 31.. مسودة ختامية تسقط الوقود الأحفوري من النص وتبقيه في الواقع",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261120-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%83%D9%88%D8%A8-31-%D9%85%D8%B3%D9%88%D8%AF%D8%A9-%D8%AE%D8%AA%D8%A7%D9%85%D9%8A%D8%A9-%D8%AA%D8%B3%D9%82%D8%B7-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D9%81%D9%88%D8%B1%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D9%88%D8%AA%D8%A8%D9%82%D9%8A%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9",
+     "source": "فرانس 24",
+     "time": "2026-11-20T09:09:17.000Z",
+     "seen": "2026-11-20T09:33:10.168Z"
     },
     {
      "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-20T08:54:05.000Z",
-     "seen": "2026-11-20T09:23:09.928Z"
+     "time": "2026-11-20T08:54:31.000Z",
+     "seen": "2026-11-20T09:23:09.928Z",
+     "impact": "تساعد معرفة البدائل الصحية لملح الطعام الأفراد على حماية أنفسهم من مشاكل ضغط الدم وأمراض القلب."
+    },
+    {
+     "title": "القضاء الأمريكي: والد ميغان ماركل مؤهل ذهنيا لمواجهة تهمة حيازة صور اعتداء جنسي على أطفال",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261120-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D9%88%D9%85%D8%A7%D8%B3-%D9%85%D8%A7%D8%B1%D9%83%D9%84-%D8%AA%D9%87%D9%85%D8%A9-%D8%B5%D9%88%D8%B1-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%AC%D9%86%D8%B3-%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+     "source": "فرانس 24",
+     "time": "2026-11-20T08:54:28.000Z",
+     "seen": "2026-11-20T09:03:10.157Z"
     },
     {
      "title": "أمين عام مجلس التعاون الخليجي يدين \"التصريحات غير المسؤولة\" ضد الإمارات من حكومة الصومال",
@@ -381,20 +396,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T08:35:29.000Z",
      "seen": "2026-11-20T08:43:10.016Z"
-    },
-    {
-     "title": "هجوم روسي يسفر عن مقتل ثلاثة أشخاص على الأقل وتضرر جسور وسط العاصمة كييف",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261120-%D9%87%D8%AC%D9%88%D9%85-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%AA%D8%B6%D8%B1%D8%B1-%D8%AC%D8%B3%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%83%D9%8A%D9%8A%D9%81-%D8%AD%D8%B1%D8%A8",
-     "source": "فرانس 24",
-     "time": "2026-11-20T07:57:44.000Z",
-     "seen": "2026-11-20T08:03:09.941Z"
-    },
-    {
-     "title": "تايوان تطلع \"ميتا\" على رصد شبكة رقمية يشتبه في ارتباطها بحملة تأثير صينية تستهدف الانتخابات",
-     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261120-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D9%85%D9%8A%D8%AA%D8%A7-%D8%B4%D8%A8%D9%83%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AB%D8%B1%D9%8A%D8%AF%D8%B2",
-     "source": "فرانس 24",
-     "time": "2026-11-20T07:38:18.000Z",
-     "seen": "2026-11-20T07:43:09.441Z"
     },
     {
      "title": "السودان.. عودة الكتائب الجهادية تحت عباءة الجيش",
@@ -446,11 +447,11 @@
      "seen": "2026-11-20T07:33:10.032Z"
     },
     {
-     "title": "فوضى في محاكمة الساعدي بنيويورك.. المتهم العراقي خرج غاضبا",
-     "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNSnFVaUM0QmtiZTNmYm9ldGFfcktwS0JaZUdNcGVObDZEN0YzTXkxMmxtWjlqelZ3MjNBUG45Sk1ZWjgwY1Q0aDhPdHVpOWRYMHNlcnIwMlltajFZWDBJaEpVdmxscjlQS2RXR0Q0LUtQMDRoYkdZT2p2TGNkZ3hJOWNiZEM1emd5cXFDZk4xUTlRLVZwcnBSZnJzRDkxR01TWDNYeTlxc1pJTmpVRi02bGNwdDI1ZHVScmdCQ0RjVnNKTjh0c2l2WmRQM21GTHFneFpWM2s1V1R3U3gxR0h0UUM5VGJzbldqRzQ2ZjhRYVdzdXNBejhmNFRzNmJxeDc2Q2pBYUZNdkItSXg1NHZpQXV2TnB4aU9xMkI0cXVhM0RxaFd6U1J6RFdzYXdhRGJScllLaThMckRHcHNLQVFpUWlzTHY0amxwUEJWbUt4UEdmc0FDY3c2QkJMdE9KVFpBRG92NzVBdmk1LTkwTmdQQXRlOU5vakNEQ2lwRnNaQ2NRdHNVYXc5RzRuVk9NSVJUdVNISzRPcjRVc2VtZjVFQ2FyMDNyelVtdTVDN0oySHRqek1WQlV3WThJRXhXcVFXNEc2U251djFvNWRpaWl0bldDZkNjS2xiUFA2eFVVVkpHQVFTWGN4NHNKTlpSUHBlX2VGOXowaVVnOXY0enZIQ1NnbGh6LUpvLUM1bNIBkgRBVV95cUxPM1NSSk9MbWRHTE5EZDNCcnVXZ3BVSkM4c25oNjZJd0w4dWpkNGtRYkM1TWdWUEhYX2NlYmJ4dlRuTnNCWXdpU3hLSm1Ga1hwMWRaNWVjUGM1QUI2VHd1Vkp0QWZib1pOTFZXVHk5M003X2IzanFOLWpmVVlwSWpkQ3dEeHBBUlJZaTlxQUE3UWNGdmJQeGhYUXZnekx2YWJsTVJSb0ZLVkRhRzZnanVsUk5jTW5kemltU2xiLWF1YWJWSkVoYWNEVndsOE5MeVd5d0tSQ2dXaEVOY0QzYXl4dFY1TTNMOXFlTG5pRHM0TFFIVTBzbjFZalhic3FMRWUzbU13eTNzWWZ5ZXdYMV9JbmVWdzlZbk5uLTJlVmVDSUNHQU5MZjBEZUQwbS1LaEdzNGhmdmVwSzdjQXp0XzhSWWpyYkFsOExtcWZ4WTh1QTV0Y0ZxT2ZSQkJnbHpNT2lIbk5US0RXUmQ0ZFNxaGRRYVJ0YVZfNVcxaVNjRlV0OXo1RE9HVWNtcmdtVko4NHQ4b1NWNVNKLWlpY0otV01BWXU1NzlLQjR2NFozTjRPNU92RENKVENIN05WblpYVTFCT1pGclNQdTZHbDBVMm95ZlNZOF9xTjFfMV83TzVRMnBvbUZFRlEyeUZ2Z1hYcm45UWRMNmdGMGpFT3pFMkpKLTNLVGVZY1kxN2JBbWc0SjIyQQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-20T05:56:00.000Z",
-     "seen": "2026-11-20T07:33:10.032Z"
+     "title": "تاشيما مرشح رئاسة \"فيفا\" يكشف الواقعة التي دفعته لمنافسة إنفانتينو",
+     "url": "https://www.aljazeera.net/sport/2026/11/20/%d8%aa%d8%a7%d8%b4%d9%8a%d9%85%d8%a7-%d9%85%d8%b1%d8%b4%d8%ad-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d9%81%d9%8a%d9%81%d8%a7-%d9%8a%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T05:59:04.000Z",
+     "seen": "2026-11-20T09:33:10.168Z"
     }
    ]
   },
@@ -463,7 +464,8 @@
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS3VrMl9Oak1KU0I0MXNGaGhVWkZSZURUekVhbmRqTWZLWkkxVGhOU21ydGpRWS1IbDQtY2pNakhsTUk5RzNiMFFXdmpkYk1peEVRY1pZaC00aURYZ1Z5azgzNW41QVhOZGVabk1NOVVUS2dvTVVNSkI4TDVlUXZxSGJBUEZ1VnlpSWcwdE1SUVptaDB0YjY5cjRkNm00UWdRSml5X0c0MTBpV3ZxdHQyUW5EQlBhNXlfbkpCM2ttTUw2cHBLNXFXZE9SZ3cxSm9BU2RBZ04yal9BODloR3NWT0Q4NG1Od1VQU2phZE9kdmVfTXcxZ2dIbnNOeTRpeHBuUVE5M3RsWm05VXlzNGg0RVBhZlZ5TFVQTmpaN0xGb1VKUjZMYjRkdmdR?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-20T09:00:00.000Z",
-     "seen": "2026-11-20T09:23:09.928Z"
+     "seen": "2026-11-20T09:23:09.928Z",
+     "impact": "تؤثر تقلبات وتراجعات أسهم الذكاء الاصطناعي العالمية على أداء المحافظ الاستثمارية والصناديق العابرة للحدود."
     },
     {
      "title": "ترامب يقيل مدير الأمن السيبراني ويعين مسئولة دفاعية.. من هي؟",
@@ -478,7 +480,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T06:42:51.000Z",
      "seen": "2026-11-20T06:51:45.291Z",
-     "impact": "يهتم به المستثمرون في قطاع التكنولوجيا والأسواق المالية لمتابعة أداء أسهم الرقائق العالمية."
+     "impact": "قد تنعكس خسائر قطاع الرقائق الإلكترونية على أسعار وتوافر الأجهزة الذكية والتكنولوجية للمستهلكين."
     },
     {
      "title": "أسبوع دبي للمستقبل.. روبوتات التوصيل وشراكات الذكاء الاصطناعي تتصدر اليوم الثاني",
@@ -493,7 +495,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T06:29:57.000Z",
      "seen": "2026-11-20T06:31:44.930Z",
-     "impact": "يفيد المستخدمين المهتمين بالتكنولوجيا في مصر بمتابعة كيفية ربط تطبيقات الصحة بالذكاء الاصطناعي."
+     "impact": "تسهل التحديثات الجديدة في تطبيقات الصحة الذكية على الأفراد متابعة بياناتهم الصحية عبر الهواتف وأجهزة الحاسوب."
     },
     {
      "title": "رونالدو، مارادونا، باجيو.. ماذا حدث لفرق نجوم العالم؟",
