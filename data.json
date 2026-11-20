@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:55:11.039Z",
+ "updated": "2026-11-20T16:05:10.586Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T15:55:11.039Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T16:05:10.586Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 53.76,
    "change": 0.08,
-   "asOf": "2026-11-20T14:17:27.000Z",
+   "asOf": "2026-11-20T16:02:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5371,
-   "change": -3.57,
-   "asOf": "2026-11-20T15:48:11.000Z",
+   "value": 5368,
+   "change": -3.63,
+   "asOf": "2026-11-20T15:57:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6132,
-   "change": -3.57,
-   "asOf": "2026-11-20T15:48:11.000Z",
+   "value": 6128,
+   "change": -3.63,
+   "asOf": "2026-11-20T15:57:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3551,
-   "change": -3.64,
-   "asOf": "2026-11-20T15:48:11.000Z",
+   "value": 3549,
+   "change": -3.7,
+   "asOf": "2026-11-20T15:57:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0987,
    "change": 0.14,
-   "asOf": "2026-11-20T15:57:43.000Z",
+   "asOf": "2026-11-20T16:06:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.49,
-   "change": -3.79,
-   "asOf": "2026-11-20T15:48:12.000Z",
+   "value": 88.62,
+   "change": -3.65,
+   "asOf": "2026-11-20T15:57:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7084,
-   "change": -1.28,
-   "asOf": "2026-11-20T15:58:11.000Z",
+   "value": 7076,
+   "change": -1.39,
+   "asOf": "2026-11-20T16:07:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59353,
+   "value": 59351,
    "change": -4.12,
-   "asOf": "2026-11-20T15:58:07.000Z",
+   "asOf": "2026-11-20T16:07:09.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "حملات بيطرية مكثفة بالوادي الجديد لحماية الثروة الحيوانية ومراقبة الأسواق",
-     "url": "https://www.elbalad.news/7187949",
+     "title": "كشف حقيقة احتجاز زوج سيدة داخل دار رعاية نفسية في القاهرة",
+     "url": "https://www.elbalad.news/7187940",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:53:42.000Z",
-     "seen": "2026-11-20T15:55:11.039Z"
+     "time": "2026-11-20T16:01:52.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
     },
     {
-     "title": "إلى أين تتجه المواجهة مع الحوثيين ؟.. وزير يمني سابق يوضح",
-     "url": "https://www.elbalad.news/7187951",
+     "title": "الشباب والرياضة بالوادي الجديد تواصل تنفيذ البرامج التدريبية بمركز الإعاقات الذهنية لدعم ذوي الهمم",
+     "url": "https://www.elbalad.news/7187927",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:53:17.000Z",
-     "seen": "2026-11-20T15:55:11.039Z"
+     "time": "2026-11-20T16:01:12.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
     },
     {
-     "title": "درة في «اعتراف» أمام كريم فهمي.. ثنائية جديدة في دراما رمضان 2027",
-     "url": "https://www.elbalad.news/7187950",
+     "title": "وزير المالية يبحث الشراكة مع بنك التنمية اليوناني لتمكين المشروعات الصغيرة وريادة الأعمال",
+     "url": "https://www.elbalad.news/7187977",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:53:15.000Z",
-     "seen": "2026-11-20T15:55:11.039Z"
+     "time": "2026-11-20T16:00:07.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
+    },
+    {
+     "title": "من 2400 إلى 8500 جنيه.. رحلة تطور الحد الأدنى لأجور القطاع الخاص خلال 5 سنوات",
+     "url": "https://www.youm7.com/story/2026/11/20/من-2400-إلى-8500-جنيه-رحلة-تطور-الحد-الأدنى-لأجور/7625680",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T16:00:00.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
+    },
+    {
+     "title": "برواتب 21 ألف جنيه.. العمل تعلن فرص عمل جديدة فى منشآت سياحية وفندقية",
+     "url": "https://www.youm7.com/story/2026/11/20/برواتب-21-ألف-جنيه-العمل-تعلن-فرص-عمل-جديدة-فى/7620013",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T16:00:00.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
     },
     {
      "title": "إيران.. سماع دوى انفجار فى سماء جزيرة قشم وسط ترجيحات بإسقاط مسيّرة معادية",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T15:46:00.000Z",
      "seen": "2026-11-20T15:55:11.039Z"
-    },
-    {
-     "title": "التحالف: سقوط شظايا بمنطقة جازان جراء اعتراض صاروخين حوثيين",
-     "url": "https://www.youm7.com/story/2026/11/20/التحالف-سقوط-شظايا-بمنطقة-جازان-جراء-اعتراض-صاروخين-حوثيين/7626183",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T15:43:00.000Z",
-     "seen": "2026-11-20T15:45:10.255Z"
-    },
-    {
-     "title": "وزير الطيران يلتقى مسؤولى المنظمات الدولية «إياتا» و«يوروكنترول» لبحث التعاون",
-     "url": "https://www.youm7.com/story/2026/11/20/وزير-الطيران-يلتقى-مسؤولى-المنظمات-الدولية-«إياتا»-و«يوروكنترول»-لبحث-التعاون/7626181",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T15:39:00.000Z",
-     "seen": "2026-11-20T15:45:10.255Z"
     },
     {
      "title": "فاتورة الديون تُثقل حسابات الحكومة المصرية بعد برنامج \"صندوق النقد\"",
@@ -242,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "جرف النصر: قوات الأمن العراقية تنتشر في معقل \"كتائب حزب الله\"، والزيدي يؤكد أنّ \"لا سلاح خارج سلطة الدولة\"",
+     "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T15:55:08.000Z",
+     "seen": "2026-11-20T12:03:09.523Z"
+    },
+    {
+     "title": "سعر اليورو مقابل الجنيه اليوم الجمعة.. أعلى أسعار الشراء والبيع في 15 بنكًا",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1QM3RiOGhtYXpvYmlieC00cVVQeHBUNWk5UWxMOEttc2NVeV8xWVN4RHZEWnVxanJaUWxaTWx5NktfT0pK?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-20T15:55:06.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
+    },
     {
      "title": "سعر الدولار أمام الجنيه المصري في ختام تعاملات اليوم 20 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNZFBoc0x0ckNFT3VrZzVfTVpsYW5OMEVZLXFPZEdPN19sRTVZa2hQSkFSZUI2YWpPSHRRZktLSGFOQ3hMZktNVVdnOXJXSlhwWHJEdlJ2WTljNFVaaFlJWTN6MThoS2xaem9tM3lJTzlGZ1U2Rl9mTzdpdWJVRmNFUmFrNzB0Y2ZEbW92TjNHLWVQTGZSaEpFWlFURnR5TjRLaHNhb0ZaU2lxSXBVWlJXMUItM3BfZGdIeTEyUHozMFNFRXJaMUp5X1htbXExVFNFSDJVRmk2azIzOWFTWDYtQjFmX0pYdkZfMGZWTkxOeXVUOVVXcXF5c1ZiWFB3aXVwZEE4LU5jVjk5LVhMWmxZb0QyWmVXaVBjZE5EUWZBVk9iMWlIa0xyc3ZwY3ZNOTBKU3hlSG82T29kZTNORGIxQXA3RWpGelFjOGRUUEtQZjVPeHAteDI2NDVSbGptVjRhYTBvbEhwdDJpQndod1lORw?oc=5",
@@ -323,27 +337,12 @@
      "seen": "2026-11-20T15:45:10.255Z"
     },
     {
-     "title": "جرف النصر: قوات الأمن العراقية تنتشر في معقل \"كتائب حزب الله\"، والزيدي يؤكد أنّ \"لا سلاح خارج سلطة الدولة\"",
-     "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T13:47:25.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
-    },
-    {
      "title": "“طيران لوفتهانزا” تلغي 1000 وظيفة في شركتها الرئيسية لخفض التكاليف",
      "url": "https://alborsaanews.com/2026/11/20/2007773",
      "source": "البورصة",
      "time": "2026-11-20T12:45:40.000Z",
      "seen": "2026-11-20T13:05:10.432Z",
      "impact": "يهم العاملين في قطاع الطيران والمتابعين لحركة النقل الجوي الدولي وتكاليف التشغيل."
-    },
-    {
-     "title": "أيلون ماسك يلجأ إلى تمويل بقيمة 40 مليار دولار لشراء رقائق الذكاء الاصطناعي",
-     "url": "https://alborsaanews.com/2026/11/20/2007768",
-     "source": "البورصة",
-     "time": "2026-11-20T12:14:40.000Z",
-     "seen": "2026-11-20T13:05:10.432Z",
-     "impact": "يهم المستثمرين المهتمين بقطاع التكنولوجيا لمتابعة حجم التمويلات الضخمة في رقائق الذكاء الاصطناعي."
     }
    ]
   },
@@ -444,11 +443,11 @@
      "seen": "2026-11-20T13:45:10.414Z"
     },
     {
-     "title": "اعتقال ضابط سوري سابق متهم بالتخطيط لمجزرة ولصوص يوثقون جرائمهم",
-     "url": "https://www.aljazeera.net/video/networks/2026/11/20/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d8%b6%d8%a7%d8%a8%d8%b7-%d8%b3%d9%88%d8%b1%d9%8a-%d8%b3%d8%a7%d8%a8%d9%82-%d9%85%d8%aa%d9%87%d9%85-%d8%a8%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T12:44:44.000Z",
-     "seen": "2026-11-20T15:55:11.039Z"
+     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T13:01:03.000Z",
+     "seen": "2026-11-20T16:05:10.586Z"
     }
    ]
   },
