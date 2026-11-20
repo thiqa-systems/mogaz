@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-20T11:03:09.648Z",
+ "updated": "2026-11-20T11:13:10.150Z",
  "minute": [
-  "تناولت الأخبار تحديد موعد تطبيق الحد الأدنى للأجور وتطورات أسعار العملات والذهب والنفط.",
-  "تشهد الأيام القادمة طقساً خريفياً وانخفاضاً في درجات الحرارة في مصر مع ضبط مخالفات بيئية بمزارع سمكية.",
-  "تتراجع أسهم التكنولوجيا والرقائق عالمياً مع موجة بيع تضرب الأسهم بالتزامن مع تداولات الذكاء الاصطناعي.",
-  "تتواصل التطورات المناخية والدولية إلى جانب التحديثات في التقنيات والتطبيقات الرقمية."
+  "تتناول الأخبار التطورات الإقليمية ومطالبات التحالف بإخلاء ميناء الحديدة، مع تحذير مصر من تداعيات الاعتداءات على السعودية.",
+  "وتتابع المستجدات الاقتصادية في مصر تحديثات سعر صرف الدولار بالبنك المركزي، وتحديد الحد الأدنى للأجور بالقطاع الخاص لعام 2027، وارتفاع نصيب الفرد من الدين الخارجي.",
+  "وعلى الصعيد العالمي والتكنولوجي، شهدت الأسواق موجة بيع وتراجعاً كبيراً في أسهم الرقائق العالمية مع انخفاض تداولات الذكاء الاصطناعي.",
+  "محلياً، تواصلت الأنشطة التنموية بزيادة فروع المكتبات العامة والتأكد من جاهزية مخرات السيول بأسيوط واستجابة القبائل لمبادرة تنظيم تنقيب الذهب."
  ],
  "ai": {
-  "at": "2026-11-20T10:13:09.544Z",
+  "at": "2026-11-20T11:13:10.150Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T11:03:09.648Z"
+  "key": 1,
+  "impacts": 10
  },
  "markets": [
   {
@@ -28,18 +26,18 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5429,
-   "change": -2.52,
-   "asOf": "2026-11-20T10:53:40.000Z",
+   "value": 5430,
+   "change": -2.51,
+   "asOf": "2026-11-20T11:05:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6199,
-   "change": -2.52,
-   "asOf": "2026-11-20T10:53:40.000Z",
+   "value": 6200,
+   "change": -2.51,
+   "asOf": "2026-11-20T11:05:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,8 +45,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3590,
-   "change": -2.59,
-   "asOf": "2026-11-20T10:53:40.000Z",
+   "change": -2.58,
+   "asOf": "2026-11-20T11:05:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0964,
-   "change": -0.07,
-   "asOf": "2026-11-20T11:02:46.000Z",
+   "value": 1.0965,
+   "change": -0.06,
+   "asOf": "2026-11-20T11:15:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.21,
-   "change": -4.1,
-   "asOf": "2026-11-20T10:53:40.000Z",
+   "value": 88.46,
+   "change": -3.83,
+   "asOf": "2026-11-20T11:05:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61939,
-   "change": 0.06,
-   "asOf": "2026-11-20T11:03:32.000Z",
+   "value": 61779,
+   "change": -0.2,
+   "asOf": "2026-11-20T11:15:15.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,18 +138,43 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بعد الأعطال الإلكترونية في أمريكا.. تحذير من انهيار وشيك لشبكة الكهرباء المتهالكة في نيويورك",
-     "url": "https://www.elbalad.news/7187682",
+     "title": "مدير مكتبات مصر العامة: افتتاح مكتبة شرم الشيخ يرفع عدد الفروع إلى 37 مكتبة",
+     "url": "https://www.elbalad.news/7187691",
      "source": "صدى البلد",
-     "time": "2026-11-20T11:01:55.000Z",
-     "seen": "2026-11-20T11:03:09.648Z"
+     "time": "2026-11-20T11:12:52.000Z",
+     "seen": "2026-11-20T11:13:10.150Z",
+     "impact": "يزيد من الفرص الثقافية والمعرفية المتاحة للأفراد والمجتمع المحلي في مصر."
     },
     {
-     "title": "اختفت 17 دقيقة من تسجيل الكاميرا.. صانعة محتوى تكشف سرا غريبا داخل منزلها",
-     "url": "https://www.elbalad.news/7187639",
+     "title": "أسيوط: التأكد من جاهزية مخرات السيول وسدود الوادي الأسيوطي بساحل سليم",
+     "url": "https://www.elbalad.news/7187688",
      "source": "صدى البلد",
-     "time": "2026-11-20T11:01:29.000Z",
-     "seen": "2026-11-20T11:03:09.648Z"
+     "time": "2026-11-20T11:12:44.000Z",
+     "seen": "2026-11-20T11:13:10.150Z",
+     "impact": "يهم المواطنين في أسيوط للطمأنة على إجراءات الحماية والسلامة من أخطار السيول."
+    },
+    {
+     "title": "قوات التحالف تطالب من المدنيين إخلاء ميناء الحديدة",
+     "url": "https://www.elbalad.news/7187689",
+     "source": "صدى البلد",
+     "time": "2026-11-20T11:12:17.000Z",
+     "seen": "2026-11-20T11:13:10.150Z"
+    },
+    {
+     "title": "قيمة الحد الأدنى للأجور الجديد بالقطاع الخاص وكيفية حسابه لعام 2027",
+     "url": "https://www.youm7.com/story/2026/11/20/قيمة-الحد-الأدنى-للأجور-الجديد-بالقطاع-الخاص-وكيفية-حسابه-لعام/7625676",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T11:07:00.000Z",
+     "seen": "2026-11-20T11:13:10.150Z",
+     "impact": "يمس دخل العاملين بالقطاع الخاص والتكاليف التشغيلية لأصحاب الأعمال والمستثمرين في مصر لعام 2027."
+    },
+    {
+     "title": "قبائل الجنوب تسلم 33 آلى و2 جرينوف استجابة لمبادرة فخامة الرئيس بشأن تنقيب الذهب",
+     "url": "https://www.youm7.com/story/2026/11/20/قبائل-الجنوب-تسلم-33-آلى-و2-جرينوف-استجابة-لمبادرة-فخامة/7625797",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T11:00:00.000Z",
+     "seen": "2026-11-20T11:13:10.150Z",
+     "impact": "يهتم به المستثمرون والمواطنون المتابعون لتنظيم نشاط تنقيب الذهب وتعزيز الأمن في مناطق الجنوب."
     },
     {
      "title": "قبائل الجنوب تسلم 33 بندقية آلية و2 جرينوف استجابة لمبادرة فخامة الرئيس بشأن منقبي الذهب",
@@ -159,27 +182,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T11:00:00.000Z",
      "seen": "2026-11-20T11:03:09.648Z"
-    },
-    {
-     "title": "برلماني: الترويج للاستثمار الأجنبي يعزز تنافسية الاقتصاد المصري",
-     "url": "https://www.elbalad.news/7187670",
-     "source": "صدى البلد",
-     "time": "2026-11-20T11:00:00.000Z",
-     "seen": "2026-11-20T11:03:09.648Z"
-    },
-    {
-     "title": "الصحة تبحث التعاون مع معامل ولاية تكساس الأمريكية لتطوير المنظومة المعملية",
-     "url": "https://www.youm7.com/story/2026/11/20/الصحة-تبحث-التعاون-مع-معامل-ولاية-تكساس-الأمريكية-لتطوير-المنظومة/7625777",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T10:57:00.000Z",
-     "seen": "2026-11-20T11:03:09.648Z"
-    },
-    {
-     "title": "مصر تستعرض تجربتها في حماية 40 مليون طفل من العنف بمؤتمر وزاري عالمي بالفلبين",
-     "url": "https://www.youm7.com/story/2026/11/20/مصر-تستعرض-تجربتها-في-حماية-40-مليون-طفل-من-العنف/7625763",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T10:52:00.000Z",
-     "seen": "2026-11-20T10:53:09.682Z"
     },
     {
      "title": "يدخل حيز التنفيذ اليوم.. قرار جديد من رئيس مجلس الوزراء",
@@ -244,18 +246,28 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "التحالف السعودي يدعو لإخلاء ميناء الحديدة، واتهامات حوثية بمقتل 19 مدنياً في قصف لقارب",
+     "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T11:05:30.000Z",
+     "seen": "2026-11-20T06:53:10.145Z",
+     "impact": "تؤثر الاضطرابات في حركة الملاحة والتجارة بميناء الحديدة على استقرار بيئة الاستثمار وسلاسل الإمداد بالمنطقة."
+    },
+    {
      "title": "نصيب الفرد من الدين الخارجي لمصر يرتفع إلى 1.53 ألف دولار بنهاية يونيو 2026",
      "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOb1d1X0dJLWQ3aGg2bVVpVUNGRE05OGZlcFVpNnJDdnNEVFE0N1hkMEtURnFUZzZ1aTRhSnJ4V3hGQ0tfTHVUblR2Z09ySHdRSzVVSWNISUQxSG4yUktTLWpyM2hxN2toeUxwVnNhRi1UTmhvU2FqaTJ1RVhVclpCQ0VRVGFwdWtaYnFhWU1iNGhUS0xTMHNFR2EtbW5TMkVsYndhbkEzSEVybUV5dFNVNG5mX2w5dlE2c09GOHg5YUVGcXl6X2tkd2hmbmhGYkVmM0U5elMzSU41dmVCQm5JNkFxUy1uODhYZUJaNHdIYXNLWUVraWJfZWs4dVpndjljdHFGdVU1QWpJOExBV0FUd1YwdVJzVmRSRkphYUl0U1gyN3BGSGFuY05Ha2h2MmhYaFRxMExXcW1KNDRUd2kwSjl5bTJEQ1VCY25jN3RDdGVOZ0NkRGRTQ29SMl8xenlma1JPZjVKQ2h5OGVWMHd1RnZMQXhOSDdNdkdqM0tleHFxS1JDUjd3TnBaRkJHVmV6eHNOYWZPdmRwdHJlMk5lc2tLa0tpQ1hkLTA2djNhczMxbllaNF9hZkFRUktsZWVHc1NWeFFQRy1SSHp2UU1WampiUjdEUDkxTkZ2ZHZPMEUwTGotWDBZX2R0dmpkQjVBU0hhX2o3cGZxLUNXMHlxWVozOF9yajBPdjNBZUVUbEFITG9iRngzdzJRQ2puX1MtNEl4eXFNTUNpU01YUmh5MDdnMjNCZEZtNUZiVGo1LVJrTnY40gHKBEFVX3lxTE90ZUJlaXdiZWRneFREd05OeUdGRXdfMElsNVd2bkNwXzBGNTUwMkVXR1A1WTNGNi12TXc4X1lzUXNaYVJkRnZPZk9Lc2RtMHhlOFRsSjBfb1dqc0p0MnMyYVpndnlWTi1SNjQ0WjFQdU1NT2ZkR2ExV0c4djF1UGk4OFNOYUdNZTI5dGNnbVZVdEdYMHNyaWxHdjZlTUU3NWNiXzRJVHZxQW94SEpYUVRvMmFoeDFBRnZyVURUa1dldkRtalNpWXplcjczQm1zc3VTX2NoZlFtVXhlb2FqUXFTLVdNXzJCaWFHQXoyS3U1ZC1keF83TmdpM1N6eXZOQlVvQ0pEYzA0WU0zZ1AzMEFNcUgwR2lja1o5dkZFT0RTZVRUeWx4LWxFbnllNzRab05mYzdhc0U3RmF1Y2NlMWVHb0dwZmI2VmRnbngzWGsySDFYRlJ3bWlEWHVOSjNMblJfYTdKUUZBT0oyY3RZY3BGcENfSUx3OTBmV3F5a1A5Tm5qMk96SHM1NXBhSmNWUWdndkM5Y2tYX1ZKUWlSd1VpbThYc1FpUlRVaFlYQUZNXzVVTWtWVlVBRV9uWXhZcnY3WUNvQVFVYVJWemwwOUs2bFRkaXBld2lUWTE5VGg4NF9zYW5aYW82UEs5WUdJekY5RE9DWUp2VFYtRTd6emxYWV92OHNScjZTSmZndmFualh4SlYyTC15YkM1c0RlWWtRTTdyeWNrYmtiOTBJM1Q4N2RLMVVfQzhCcFhRMmV1UjhGLWVGZmVqMWc?oc=5",
      "source": "Masrawy",
      "time": "2026-11-20T10:52:33.000Z",
-     "seen": "2026-11-20T11:03:09.648Z"
+     "seen": "2026-11-20T11:03:09.648Z",
+     "impact": "يوفر للمستثمر والفرد في مصر مؤشراً حول حجم الالتزامات المالية الخارجية واستقرار الاقتصاد الكلي."
     },
     {
      "title": "سعر صرف الدولار في البنك المركزي المصري (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIXzdXekh6a3MwRDhXNTBFSEdfLVlzV3VvOExTWUFScWM2LVFWRzhRVjI3UF9ydHdEOWVYWFc4N2NfSXFmM2lJ?oc=5",
      "source": "فيتو",
      "time": "2026-11-20T10:48:00.000Z",
-     "seen": "2026-11-20T10:53:09.682Z"
+     "seen": "2026-11-20T10:53:09.682Z",
+     "impact": "يؤثر تغيير سعر صرف الدولار مباشرة على أسعار السلع وتكاليف الاستيراد والمعاملات المالية في مصر."
     },
     {
      "title": "قمة المملكة المتحدة والاتحاد الأوروبي: مساعٍ لإعادة بناء العلاقات بعد بريكست",
@@ -320,13 +332,6 @@
      "impact": "تفيد أسعار العملات الأجنبية الأفراد الراغبين في السفر أو التجارة في تقدير التكاليف المالية بدقة."
     },
     {
-     "title": "\"أخبروني أن طفلي مات وبعد 42 عاماً وصلتني منه رسالة\"",
-     "url": "https://www.bbc.com/arabic/articles/c64gnzgp81w3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T08:21:58.000Z",
-     "seen": "2026-11-20T08:23:09.516Z"
-    },
-    {
      "title": "كم سعر الدولار الأمريكى مقابل الجنيه المصرى اليوم الجمعة 20 نوفمبر 2026؟",
      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOa3VfckVXQ2FucWJWXzlmYXJkcDZ2VE1Cd0oyazRNWWV0cGdFOEhRaERrbTFiMl92VjR1QUZmbGlTZ21nUVQ5emNGVVlVaFR2d0ppcnJ6dWl4T19oRkJabVBMNzlONzZuSXZaaVlDd0Y2aDJ3dEFQUTNtZkp3c2pTTzlURld3VmVQWEw1M2Y5U1lHeHZJVjFQS0puRXp2XzBCWnY3cmdPOTFCSTdhcE1DT0E1MjMyRTFLcGtPTWQxeDRpTXNTaF84MHJ4SlhmVkNlOGRKSTFXNWVMWUFfZnNTOGpqZFpraEpaLXVrQk9KWExnQk5EOXFDQ0o1c0Q2TDY0eDdSWEtqdG5zR3I1SEdmdU1KQzgxZkxZQWFaa3hIWVN5WUlOZFRKclZUX3UtcmZBRXZWS0xUZERKMmFfdTg3X3RFa0VkdE9TWk80OUstbE4xZHBXZEpIT25Ga2l0SjN6aXNxRnZaa0tfQlRkMm0wZGVhMk0wMnN3WnViWGtMOGRCNDEzcUdMaGNNaEhCS1E2RTB2WGlobEJvZFo5VlhEeGlxTnB5QTQ5NEVRVThzd2c0WXVHQjNERXI3TUhISE4zM29ZbkVEMnBjWVBESG1JRzJldjYzc3ZITEZjT0VVazJoS2Fs0gHkA0FVX3lxTE5rdV9yRVdDYW5xYlZfOWZhcmRwNnZUTUJ3SjJrNE1ZZXRwZ0U4SFFoRGttMWIyX3ZWNHVBRmZsaVNnbWdRVDl6Y0ZVWVVoVHZ3Smlycnp1aXhPX2hGQlptUEw3OU43Nm5JdlppWUN3RjZoMnd0QVBRM21mSndzalNPOVRGV3dWZVBYTDUzZjlTWUd4dklWMVBLSm5FenZfMEJadjdyZ085MUJJN2FwTUNPQTUyMzJFMUtwa09NZDF4NGlNc1NoXzgwcnhKWGZWQ2U4ZEpJMVc1ZUxZQV9mc1M4ampkWmtoSlotdWtCT0pYTGdCTkQ5cUNDSjVzRDZMNjR4N1JYS2p0bnNHcjVIR2Z1TUpDODFmTFlBYVpreEhZU3lZSU5kVEpyVlRfdS1yZkFFdlZLTFRkREoyYV91ODdfdEVrRWR0T1NaTzQ5Sy1sTjFkcFdkSkhPbkZraXRKM3ppc3FGdlprS19CVGQybTBkZWEyTTAyc3dadWJYa0w4ZEI0MTNxR0xoY01oSEJLUTZFMHZYaWhsQm9kWjlWWER4aXFOcHlBNDk0RVFVOHN3ZzRZdUdCM0RFcjdNSEhITjMzb1luRUQycGNZUERIbUlHMmV2NjNzdkhMRmNPRVVrMmhLYWw?oc=5",
      "source": "اليوم السابع",
@@ -360,6 +365,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-20T11:01:25.000Z",
      "seen": "2026-11-20T11:03:09.648Z"
+    },
+    {
+     "title": "السعودية تدعو المدنيين إلى إخلاء ميناء الحديدة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906045-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T11:00:11.000Z",
+     "seen": "2026-11-20T11:13:10.150Z"
     },
     {
      "title": "تونس: إلى أي مدى يستطيع \"الإطار التنسيقي\" تعبئة الشارع؟",
@@ -433,25 +445,18 @@
      "seen": "2026-11-20T10:13:09.544Z"
     },
     {
-     "title": "اتهام السعودية باستهداف قارب مدني في اليمن ما أسفر عن مقتل 19 شخصاً، واعتراض صاروخ ومسيّرات أُطلقت باتجاه المملكة",
-     "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T08:05:19.000Z",
-     "seen": "2026-11-20T06:53:10.145Z"
+     "title": "\"السورية للبترول\" و\"شيفرون\".. مباحثات حول اتفاق تنفيذي لبدء الاستكشاف البحري",
+     "url": "https://www.aljazeera.net/news/2026/11/20/%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d9%88%d8%b4%d9%8a%d9%81%d8%b1%d9%88%d9%86-%d9%85%d8%a8%d8%a7%d8%ad%d8%ab%d8%a7%d8%aa-%d8%ad%d9%88%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T07:58:17.000Z",
+     "seen": "2026-11-20T11:13:10.150Z"
     },
     {
-     "title": "رحلة ترامب للصين تدخل التاريخ.. 15 ساعة دون توقف",
-     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPOEtteDEyY0Vja1IxSWRFejRZeVVIbTFyNlNuMEZrS29RZjZzcTEwdXdUMUl3d1ZDNnBreHJNMUEyNXVHYXVtOUZpaGJDRlZaNWhFVEhWbG8wUWJIZkNGN0MyeHdjOWcxZTJLdHFXZHFGVWJ4d3FYcVVtS3B3VHY1SzNMODE0azk0aldzaGFhRUJhMUlIMTVueDl3TVoyUkI3N1AtS0JZaFRMSzlic1ExLURmNDY4em1abDE1eE9WMk5JYmNDRDUxUGZuVDRjS3JDckljR3RIU1psdFEzazRhbWRIR01tekpERWRrUkxxOXprUXFPaUxGd1BsMTMzakxjeXg0cC04YlNMUjlmcTE0Nk4yNWJGR0xRbUNTamM4akV3YUc1V202U0FnWmFQaE1uSl9XMUVzR0ZLa1lPVHVKMlNIRFJXcnNpUHdPQkk3QTQ3SG9zMndwbjNQRC1pUnQ4NG5Nc3gwbHFwWF9qVVZNb9IB9gJBVV95cUxNRzlieHhPc3hiX0Z3NVJTcm5YVlV2RmotX3Ffbi1xMGVZVGg3R2toYW9jSmdVWEdZZGt1SW1DbFVOSnkyLTJmR2lvZEx6UXBVUmRFSGE0UzJOVkpVbUJnUmU0Y0d5THc5ZDdPNkxDQ2t3SnJfUVQyQ2hoVWxrcUpoMjNHeGhkTFp0T1oxUjVxOW1WNndCaldsNTl4Nzd6RjhGUU5YcEozd3RFVjRXN25OcHJFSkVkWDdfMkxXUEVlM3hzVy02TzNlbF9XWUl4WjdhSk9jOWZlSmRROG1ic24yTEJuOElpZXRmNDhTQ21vbG5jb3RVUFc2RVVMNU5vYjBva2ZlUXFnODJ6NmtJZHNhb3ZURnk1b0xULXdtRFRwOG5wU3JIT21nUk50NklTclhPUUZ0N3RQR0ZqLTF2UGphbDBqX2FoYndWd1ItYlY1REJ6eU02ZVpzQV9DZGVmZ3pqdDB6alhqa3pVci1CRkVwTmtucHM4Zw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T07:48:19.000Z",
-     "seen": "2026-11-20T10:33:10.164Z"
-    },
-    {
-     "title": "عدد المسلمين سيتجاوز المسيحيين بعد أقل من 10 سنوات.. ليفيت تعلق | CNN Arabic | CNN",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb00yWUdaUEhYNzR3cThKUk9yNlp4UXdHZzgycEJQZktZdXBKZ2hCa1ktZ2NaTDNBTjFyU3VPc2dZSHAxN3kzb25FdlA1dFprdDRWejA5RTdoZFFUbGU0elZwRFBFRkUyYkRzRjJQX0NuNkZ6VE5LRkQ2VjNDbXZnWU10M2VnanhkRld6SEVRc3FDdDFxbWUyWndEUGRQYW85NEVUZ2ZtamZQdw?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-20T07:38:23.000Z",
-     "seen": "2026-11-20T10:13:09.544Z"
+     "title": "قيادة القوات المشتركة للتحالف: على المدنيين إخلاء ميناء الحديدة للحفاظ على سلامتهم",
+     "url": "https://www.aljazeera.net/news/2026/11/20/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d8%a9-%d9%84%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%b9%d9%84%d9%89-2?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T07:50:17.000Z",
+     "seen": "2026-11-20T11:13:10.150Z"
     }
    ]
   },
@@ -460,12 +465,27 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "مصر تحذّر من تداعيات الاعتداءات على السعودية وتُطالب بـ\"وقفها فورًا\"",
+     "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxQWXluX1RPanNmcURHTE15SnVDX3FrUEU4SDRjNWJjd0ppMC1tVGNJaUFHazBRS0lUVnpqSnNvaFZ3MlktcW1mdzMwV2hsWXJwMExMSktRVkxTU0Z6bGZ5RXpjUXZnTkpwVDg1SEZJc05BcmNpV19ONHNZWURFSkZyVXpGa1JFLVlHVVR3blQwYXpBTjRfLTFyZ1Y0VkduZnYwNF9OWW16NnpKYWUydVFNZzNJWEt2VEswTEp2dWFCdjA3dWczMG5DbUMtdmpVUjlXd3p3R2EwdDJ2OW5qZWdlZ18xT0RLY0JtZlo3ck05cTdkQWFrVko4eHA1RzVwQkNJSEZBUjRKTzJJc0s3dVJqb1kwaC1KOHUyczNpQ1c1N3JMSW9uM21HU3V0SVV2eXg5d2JTWUE4b3ktMzAxZnBwSkxOcW1CaHZ2TFpobTZwc0lCZG1FYzJQMTJkVlpiRGQzaGJzSzZacC0xV1hHMHlQaWs5dHhrS3h4YjU3REhZY0Q0N1dOOUd5eVBzaHVVVzJDSjl2cjhkSVYyLVlLUGVJSGlpRk93cVRGNzZ2YjByeFc3d0plNEI1UEM1STlKUWtET3l2UFlQeFJVS3ZkRlNjT3JLWTV6X19SRHN1a29lUGdUTV9HUHRIVnBwN0lta1Fka3pHQ2hoTXI5b19Ca0NpTlBtVThvM2NZUHd6dlVaVjZ4SU9rU0Z6ZVJvSkFvMEt3NUlUTGtURTNVamhDT0h5bTFTbmJLYTNNYXJuNzJqREQ3T3PSAcgEQVVfeXFMUGdTcHYwcXU4eFhsc2Jad0pFRzJnd1MxcG1TcDBuaWpKbTdmeHBac1VMWVhPYTdtWlljWWVzNnNTQ2t1WUN3YmNWN0NoYlQwNVlueDhoN19uXzlIcnVCSmhpZDRCbURrcUhRYlJ2RVp4LXAxNjRJWFdlaW1mMzNRaXdGbTYtNk15YkN3Rm9sQU1tcUlrdjRucTJsb1V1bnBaeE9EZUhrMHc2djZiZV9fdUw2RV9sVlNJUkFZdHpSbEl3dGlHVTNRQ0M0RXZJZUktOU4xRXo1UDMzVWttUThYei1JcktPcEk3OXlJOERwUGZhOHRrdXp3R2N5eERiaEc1b3dnbldQWjVtOFBTeU8zalNyWXItMmhHR0hTNTl1ekdaSEVVeFAzNXR2N3gzdEVsSWlvV08zbFl1SjlmZElqa1NFUDRjZUJOWDNEdVl4NFFZZzhickNuOThuYk5lbm9RYm42T2ozYTA5cHhiSGR5S01ZbDQzWG5zTV9YMnNldDRUYzI0ZndqenFTMlZBTC1PTnd4ZENvbmVtR3pDdGVFcXlhQnozZmNTWW0tUThCeF9jcmZrbHIxM3ZwOVRsOGFwWXQ1RmFXaTFzQnNsaTU0Z1FCazhqazdseEdZeUxLbkF6aFQxTzBCZHVZNXlwMDJWMVNRV1NVMXhOXzk2Zy0yMERxdzR1VVRhUExjTFRaQVZndkQtRVBZcFpoNG13Tl94YlUwcXR0XzdRWEwyTm5WUW1vTnVaT210R2J2RFJmXzg1UmxyQWV6UEo?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-20T09:44:08.000Z",
+     "seen": "2026-11-20T11:13:10.150Z",
+     "impact": "يهتم به المستثمرون لمتابعة مستويات الاستقرار السياسي والأمني وتأثيراتها المحتملة على أسواق المنطقة."
+    },
+    {
      "title": "موجة بيع تضرب الأسهم العالمية مع انهيار تداولات الذكاء الاصطناعي",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS3VrMl9Oak1KU0I0MXNGaGhVWkZSZURUekVhbmRqTWZLWkkxVGhOU21ydGpRWS1IbDQtY2pNakhsTUk5RzNiMFFXdmpkYk1peEVRY1pZaC00aURYZ1Z5azgzNW41QVhOZGVabk1NOVVUS2dvTVVNSkI4TDVlUXZxSGJBUEZ1VnlpSWcwdE1SUVptaDB0YjY5cjRkNm00UWdRSml5X0c0MTBpV3ZxdHQyUW5EQlBhNXlfbkpCM2ttTUw2cHBLNXFXZE9SZ3cxSm9BU2RBZ04yal9BODloR3NWT0Q4NG1Od1VQU2phZE9kdmVfTXcxZ2dIbnNOeTRpeHBuUVE5M3RsWm05VXlzNGg0RVBhZlZ5TFVQTmpaN0xGb1VKUjZMYjRkdmdR?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-20T09:00:00.000Z",
      "seen": "2026-11-20T09:23:09.928Z",
-     "impact": "ينبه المستثمرين في مصر إلى تقلبات أسواق الأسهم العالمية وتراجع قطاع الذكاء الاصطناعي."
+     "impact": "تنعكس حركة بيع الأسهم العالمية على أداء التداولات ومحافظ المستثمرين في الأسواق المالية."
+    },
+    {
+     "title": "\"أخبروني أن طفلي مات وبعد 42 عاماً وصلتني منه رسالة\"",
+     "url": "https://www.bbc.com/arabic/articles/c64gnzgp81w3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T08:21:58.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
     },
     {
      "title": "ترامب يقيل مدير الأمن السيبراني ويعين مسئولة دفاعية.. من هي؟",
@@ -480,7 +500,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T06:42:51.000Z",
      "seen": "2026-11-20T06:51:45.291Z",
-     "impact": "يعكس تراجع قطاع الرقائق والتكنولوجيا في الأسواق العالمية مما يهم متابعي المحافظ المالية."
+     "impact": "يهتم به المستثمرون في قطاع التكنولوجيا لمتابعة أداء أسهم شركات الرقائق وحجم التأثر في الأسواق الآسيوية والعالمية."
     },
     {
      "title": "أسبوع دبي للمستقبل.. روبوتات التوصيل وشراكات الذكاء الاصطناعي تتصدر اليوم الثاني",
@@ -545,20 +565,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-19T22:15:00.000Z",
      "seen": "2026-11-20T06:41:45.088Z"
-    },
-    {
-     "title": "كيف يساهم الذكاء الاصطناعي في تعزيز استدامة قطاع الطاقة؟",
-     "url": "https://www.msn.com/ar-sa/money/general/%D9%83%D9%8A%D9%81-%D9%8A%D8%B3%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9/vi-AA2hPhLw",
-     "source": "CNN بالعربية",
-     "time": "2026-11-19T21:25:39.000Z",
-     "seen": "2026-11-20T07:53:09.435Z"
-    },
-    {
-     "title": "جرف النصر أزمة كادت تضع العراق على حافة المواجهة",
-     "url": "https://www.bbc.com/arabic/articles/cjn502xwx3ldo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T21:23:37.000Z",
-     "seen": "2026-11-19T21:30:06.432Z"
     }
    ]
   }
