@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:23:09.563Z",
+ "updated": "2026-11-20T10:33:10.164Z",
  "minute": [
   "تناولت الأخبار تحديد موعد تطبيق الحد الأدنى للأجور وتطورات أسعار العملات والذهب والنفط.",
   "تشهد الأيام القادمة طقساً خريفياً وانخفاضاً في درجات الحرارة في مصر مع ضبط مخالفات بيئية بمزارع سمكية.",
@@ -10,44 +10,46 @@
   "at": "2026-11-20T10:13:09.544Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T10:33:10.164Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.76,
-   "change": 0.08,
-   "asOf": "2026-11-20T07:44:02.000Z",
-   "source": "Yahoo Finance"
+   "value": 53.81,
+   "change": null,
+   "asOf": "2026-11-20T00:02:32.000Z",
+   "source": "ExchangeRate-API"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5410,
-   "change": -2.87,
-   "asOf": "2026-11-20T10:13:10.000Z",
+   "value": 5423,
+   "change": null,
+   "asOf": "2026-11-20T10:35:05Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6177,
-   "change": -2.87,
-   "asOf": "2026-11-20T10:13:10.000Z",
+   "value": 6191,
+   "change": null,
+   "asOf": "2026-11-20T10:35:05Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3577,
-   "change": -2.94,
-   "asOf": "2026-11-20T10:13:10.000Z",
-   "source": "Yahoo Finance"
+   "value": 3582,
+   "change": null,
+   "asOf": "2026-11-20T10:35:05Z",
+   "source": "gold-api.com"
   },
   {
    "id": "egx30",
@@ -56,7 +58,8 @@
    "value": 51458,
    "change": -0.17,
    "asOf": "2026-11-19T12:25:12.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "eurusd",
@@ -65,7 +68,8 @@
    "value": 1.0965,
    "change": -0.06,
    "asOf": "2026-11-20T10:22:45.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "brent",
@@ -74,7 +78,8 @@
    "value": 87.92,
    "change": -4.41,
    "asOf": "2026-11-20T10:12:56.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "sp500",
@@ -83,16 +88,17 @@
    "value": 7176,
    "change": -2.02,
    "asOf": "2026-11-19T21:59:18.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61666,
-   "change": -0.38,
-   "asOf": "2026-11-20T10:23:08.000Z",
-   "source": "Yahoo Finance"
+   "value": 62025,
+   "change": -2.72,
+   "asOf": "2026-11-20T10:35:05.940Z",
+   "source": "CoinGecko"
   }
  ],
  "indicators": [
@@ -138,25 +144,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نجاح جراحة دقيقة لاستئصال ورم خلقي نادر للغاية لطفل يبلغ من العمر 10 أشهر بمستشفي طنطا العام",
-     "url": "https://www.elbalad.news/7187646",
+     "title": "طريقة ربط الهاتف بشاشة التلفزيون خطوة بخطوة | 3 أساليب ناحجة",
+     "url": "https://www.elbalad.news/7187625",
      "source": "صدى البلد",
-     "time": "2026-11-20T10:22:34.000Z",
-     "seen": "2026-11-20T10:23:09.563Z"
+     "time": "2026-11-20T10:30:00.000Z",
+     "seen": "2026-11-20T10:33:10.164Z"
     },
     {
-     "title": "أسامة رؤوف: المونودراما فن مسرحي يكشف القضايا النفسية والداخلية للإنسان",
-     "url": "https://www.elbalad.news/7187658",
+     "title": "قبل سنوات من ظهور الأعراض.. علماء يحددون إشارات خفية تتنبأ بـ الزهايمر",
+     "url": "https://www.elbalad.news/7187600",
      "source": "صدى البلد",
-     "time": "2026-11-20T10:20:00.000Z",
-     "seen": "2026-11-20T10:23:09.563Z"
+     "time": "2026-11-20T10:30:00.000Z",
+     "seen": "2026-11-20T10:33:10.164Z"
     },
     {
-     "title": "بشرى لجماهير الأهلي قبل مواجهة بيراميدز.. إمام عاشور يقترب من التشكيل الأساسي",
-     "url": "https://www.elbalad.news/7187619",
+     "title": "محافظ أسوان يتابع إستكمال التجهيزات بمستشفى نصر النوبة المركزى",
+     "url": "https://www.elbalad.news/7187641",
      "source": "صدى البلد",
-     "time": "2026-11-20T10:20:00.000Z",
-     "seen": "2026-11-20T10:23:09.563Z"
+     "time": "2026-11-20T10:24:41.000Z",
+     "seen": "2026-11-20T10:33:10.164Z"
     },
     {
      "title": "موعد تطبيق الحد الأدنى للأجور للعاملين بالقطاع الخاص وقيمة العلاوة السنوية",
@@ -420,18 +426,18 @@
      "seen": "2026-11-20T10:13:09.544Z"
     },
     {
+     "title": "رحلة ترامب للصين تدخل التاريخ.. 15 ساعة دون توقف",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPOEtteDEyY0Vja1IxSWRFejRZeVVIbTFyNlNuMEZrS29RZjZzcTEwdXdUMUl3d1ZDNnBreHJNMUEyNXVHYXVtOUZpaGJDRlZaNWhFVEhWbG8wUWJIZkNGN0MyeHdjOWcxZTJLdHFXZHFGVWJ4d3FYcVVtS3B3VHY1SzNMODE0azk0aldzaGFhRUJhMUlIMTVueDl3TVoyUkI3N1AtS0JZaFRMSzlic1ExLURmNDY4em1abDE1eE9WMk5JYmNDRDUxUGZuVDRjS3JDckljR3RIU1psdFEzazRhbWRIR01tekpERWRrUkxxOXprUXFPaUxGd1BsMTMzakxjeXg0cC04YlNMUjlmcTE0Nk4yNWJGR0xRbUNTamM4akV3YUc1V202U0FnWmFQaE1uSl9XMUVzR0ZLa1lPVHVKMlNIRFJXcnNpUHdPQkk3QTQ3SG9zMndwbjNQRC1pUnQ4NG5Nc3gwbHFwWF9qVVZNb9IB9gJBVV95cUxNRzlieHhPc3hiX0Z3NVJTcm5YVlV2RmotX3Ffbi1xMGVZVGg3R2toYW9jSmdVWEdZZGt1SW1DbFVOSnkyLTJmR2lvZEx6UXBVUmRFSGE0UzJOVkpVbUJnUmU0Y0d5THc5ZDdPNkxDQ2t3SnJfUVQyQ2hoVWxrcUpoMjNHeGhkTFp0T1oxUjVxOW1WNndCaldsNTl4Nzd6RjhGUU5YcEozd3RFVjRXN25OcHJFSkVkWDdfMkxXUEVlM3hzVy02TzNlbF9XWUl4WjdhSk9jOWZlSmRROG1ic24yTEJuOElpZXRmNDhTQ21vbG5jb3RVUFc2RVVMNU5vYjBva2ZlUXFnODJ6NmtJZHNhb3ZURnk1b0xULXdtRFRwOG5wU3JIT21nUk50NklTclhPUUZ0N3RQR0ZqLTF2UGphbDBqX2FoYndWd1ItYlY1REJ6eU02ZVpzQV9DZGVmZ3pqdDB6alhqa3pVci1CRkVwTmtucHM4Zw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T07:48:19.000Z",
+     "seen": "2026-11-20T10:33:10.164Z"
+    },
+    {
      "title": "عدد المسلمين سيتجاوز المسيحيين بعد أقل من 10 سنوات.. متحدثة البيت الأبيض السابقة تخاطب المسيحيين بتدوينة",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb00yWUdaUEhYNzR3cThKUk9yNlp4UXdHZzgycEJQZktZdXBKZ2hCa1ktZ2NaTDNBTjFyU3VPc2dZSHAxN3kzb25FdlA1dFprdDRWejA5RTdoZFFUbGU0elZwRFBFRkUyYkRzRjJQX0NuNkZ6VE5LRkQ2VjNDbXZnWU10M2VnanhkRld6SEVRc3FDdDFxbWUyWndEUGRQYW85NEVUZ2ZtamZQdw?oc=5",
      "source": "CNN Arabic",
      "time": "2026-11-20T07:38:23.000Z",
      "seen": "2026-11-20T10:13:09.544Z"
-    },
-    {
-     "title": "السودان.. عودة الكتائب الجهادية تحت عباءة الجيش",
-     "url": "https://www.skynewsarabia.com/middle-east/1905995-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T07:28:22.000Z",
-     "seen": "2026-11-20T07:33:10.032Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -566,5 +572,10 @@
   }
  ],
  "failed": [],
- "marketErrors": []
+ "marketErrors": [
+  "brent: HTTP 429",
+  "egx30: HTTP 429",
+  "sp500: HTTP 429",
+  "eurusd: HTTP 429"
+ ]
 }
