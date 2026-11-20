@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:25:26.113Z",
+ "updated": "2026-11-20T21:35:25.940Z",
  "minute": [
   "قدمت بنوك مصرية شهادات ادخار جديدة بعوائد تصل إلى 20.5%، بالتوازي مع استقرار أسعار الدولار والريال السعودي في البنوك.",
   "وعلى الصعيد الدولي، أعلن عن اتفاق بين أمريكا والصين بشأن تنظيم الذكاء الفائق، واستثمارات قطرية في ألمانيا، وتطورات ميدانية وسياسية في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T21:25:26.113Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T21:35:25.940Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5322,
-   "change": -4.45,
-   "asOf": "2026-11-20T21:15:39.000Z",
+   "value": 5327,
+   "change": -4.36,
+   "asOf": "2026-11-20T21:25:28.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6076,
-   "change": -4.45,
-   "asOf": "2026-11-20T21:15:39.000Z",
+   "value": 6081,
+   "change": -4.36,
+   "asOf": "2026-11-20T21:25:28.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3519,
-   "change": -4.52,
-   "asOf": "2026-11-20T21:15:39.000Z",
+   "value": 3522,
+   "change": -4.44,
+   "asOf": "2026-11-20T21:25:28.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0966,
-   "change": -0.05,
-   "asOf": "2026-11-20T21:24:45.000Z",
+   "value": 1.0964,
+   "change": -0.07,
+   "asOf": "2026-11-20T21:34:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.07,
-   "change": -2.08,
-   "asOf": "2026-11-20T21:15:03.000Z",
+   "value": 90.08,
+   "change": -2.07,
+   "asOf": "2026-11-20T21:25:14.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58567,
-   "change": -5.39,
-   "asOf": "2026-11-20T21:25:35.000Z",
+   "value": 58730,
+   "change": -5.12,
+   "asOf": "2026-11-20T21:35:27.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الصين وأستراليا تبحثان تعزيز الشراكة بينهما",
-     "url": "https://www.elbalad.news/7188335",
+     "title": "عادة يومية تهدد صحة رئتيك.. دخان البخور ليس آمنًا كما تعتقد",
+     "url": "https://www.elbalad.news/7188352",
      "source": "صدى البلد",
-     "time": "2026-11-20T21:23:15.000Z",
-     "seen": "2026-11-20T21:25:26.113Z"
+     "time": "2026-11-20T21:33:53.000Z",
+     "seen": "2026-11-20T21:35:25.940Z"
     },
     {
-     "title": "المفوضية الأوروبية: العلاقات بين بريطانيا والاتحاد الأوروبي تقف أمام نقطة تحول مفصلية",
-     "url": "https://www.elbalad.news/7188332",
+     "title": "إستونيا تقرر تعليق حركة العبور عبر حدودها مع روسيا لمدة 6 أشهر",
+     "url": "https://www.elbalad.news/7188346",
      "source": "صدى البلد",
-     "time": "2026-11-20T21:22:07.000Z",
-     "seen": "2026-11-20T21:25:26.113Z"
+     "time": "2026-11-20T21:33:26.000Z",
+     "seen": "2026-11-20T21:35:25.940Z"
     },
     {
-     "title": "عمرو أديب يفتح ملف «ظاهرة ما بعد الرحيل».. المصريون لا يعرفون قيمة رؤسائهم إلا بعد وفاتهم",
-     "url": "https://www.elbalad.news/7188331",
+     "title": "قطر تدعو لتحرك دولي لردع إسرائيل.. وتدين الاعتداءات الحوثية والهجمات الإيرانية على دول عربية",
+     "url": "https://www.elbalad.news/7188349",
      "source": "صدى البلد",
-     "time": "2026-11-20T21:20:00.000Z",
-     "seen": "2026-11-20T21:25:26.113Z"
+     "time": "2026-11-20T21:32:11.000Z",
+     "seen": "2026-11-20T21:35:25.940Z"
     },
     {
      "title": "لائحة المجمع المقدس 2026 تلزم الأساقفة بموافقة البابا قبل السفر للخارج",
@@ -370,7 +370,7 @@
      "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-20T19:46:16.000Z",
+     "time": "2026-11-20T20:28:31.000Z",
      "seen": "2026-11-20T17:55:10.249Z"
     },
     {
@@ -441,18 +441,18 @@
      "impact": "قد تؤثر التوترات الإقليمية في الخليج على أسعار الطاقة وشحن البضائع مما ينعكس على الأسواق المحلية."
     },
     {
+     "title": "ليلة ساخنة بالدوري الإندونيسي.. جماهير غاضبة تحرق الشباك وتحاصر الفريق الضيف (فيديو)",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%a3%d8%b1%d9%8a%d9%85%d8%a7-%d8%b4%d8%ba%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T18:24:22.000Z",
+     "seen": "2026-11-20T21:35:25.940Z"
+    },
+    {
      "title": "\"التصفح المتفائل\".. كيف هزمت الانتخابات كآبة الإنترنت؟",
      "url": "https://www.aljazeera.net/lifestyle/2026/11/21/%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d8%ad-%d8%a7%d9%84%d9%85%d8%aa%d9%81%d8%a7%d8%a6%d9%84-%d9%83%d9%8a%d9%81-%d9%87%d8%b2%d9%85%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-20T18:18:47.000Z",
      "seen": "2026-11-20T21:25:26.113Z"
-    },
-    {
-     "title": "ملاعب ألمانية تكافئ المشجعين على إغلاق هواتفهم ومتابعة المباراة",
-     "url": "https://www.dw.com/ar/ملاعب-ألمانية-تكافئ-المشجعين-على-إغلاق-هواتفهم-ومتابعة-المباراة/a-80006184?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-20T18:15:00.000Z",
-     "seen": "2026-11-20T18:35:25.750Z"
     }
    ]
   },
@@ -564,6 +564,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
