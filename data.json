@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:21:45.192Z",
+ "updated": "2026-11-20T06:31:44.930Z",
  "minute": [
   "شملت الأخبار المحلية متابعة لأسعار العملات وحركة الدولار في البنوك بالإضافة إلى إرشادات التطعيمات وحالة الطقس بمصر.",
   "تناولت التقارير الاقتصادية والمالية أسباب هبوط أسعار الذهب بالتزامن مع تراجع الأسهم وحركة السيولة في الأسواق.",
@@ -10,7 +10,9 @@
   "at": "2026-11-20T06:11:45.157Z",
   "model": "gemini-3.8-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T06:31:44.930Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5389,
-   "change": -3.24,
-   "asOf": "2026-11-20T06:11:46.000Z",
+   "value": 5379,
+   "change": -3.43,
+   "asOf": "2026-11-20T06:23:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6153,
-   "change": -3.24,
-   "asOf": "2026-11-20T06:11:46.000Z",
+   "value": 6141,
+   "change": -3.43,
+   "asOf": "2026-11-20T06:23:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3563,
-   "change": -3.33,
-   "asOf": "2026-11-20T06:11:46.000Z",
+   "value": 3556,
+   "change": -3.52,
+   "asOf": "2026-11-20T06:23:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0988,
+   "value": 1.0989,
    "change": 0.15,
-   "asOf": "2026-11-20T06:21:44.000Z",
+   "asOf": "2026-11-20T06:32:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.58,
-   "change": -2.61,
-   "asOf": "2026-11-20T06:11:38.000Z",
+   "value": 90.1,
+   "change": -2.04,
+   "asOf": "2026-11-20T06:22:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61829,
-   "change": -1.84,
-   "asOf": "2026-11-20T06:21:43.000Z",
+   "value": 61784,
+   "change": -1.91,
+   "asOf": "2026-11-20T06:33:25.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,24 +140,24 @@
    "title": "مصر",
    "items": [
     {
+     "title": "مهيب عبد الهادي: كفاية مكايدات.. منتخب مصر يحتاج تلاحم الأجيال",
+     "url": "https://www.elbalad.news/7187526",
+     "source": "صدى البلد",
+     "time": "2026-11-20T06:30:44.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
+    {
+     "title": "اقتصادية وبالمكرونة وحواوشي.. 3 وصفات مختلفة لتقديم السجق",
+     "url": "https://www.elbalad.news/7186512",
+     "source": "صدى البلد",
+     "time": "2026-11-20T06:30:00.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
+    {
      "title": "ناقد فني: القاهرة السينمائي عرض أفلامًا شاركت في أكبر المهرجانات العالمية",
      "url": "https://www.elbalad.news/7187525",
      "source": "صدى البلد",
      "time": "2026-11-20T06:19:51.000Z",
-     "seen": "2026-11-20T06:21:45.192Z"
-    },
-    {
-     "title": "الدفاع الروسية تعلن تدمير 310 مسيرات أوكرانية خلال الليل",
-     "url": "https://www.elbalad.news/7187524",
-     "source": "صدى البلد",
-     "time": "2026-11-20T06:18:47.000Z",
-     "seen": "2026-11-20T06:21:45.192Z"
-    },
-    {
-     "title": "لا تنخدعوا بحرارة النهار.. الأرصاد تنبه من فارق حراري يتجاوز 10 درجات وبرودة الأجواء ليلا",
-     "url": "https://www.elbalad.news/7187251",
-     "source": "صدى البلد",
-     "time": "2026-11-20T06:15:00.000Z",
      "seen": "2026-11-20T06:21:45.192Z"
     },
     {
@@ -267,12 +269,26 @@
      "seen": "2026-11-20T04:41:45.357Z"
     },
     {
+     "title": "شبح 2008 يعود: هل تنهار الأسواق مجدداً تحت وطأة الديون وأزمة السيولة؟",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1cFBIdG9JNGlqNmxBanh1cmpHb2ZfWktNTUkwLTNVdkRQQS1NZmJuNTFwNzd1NUtKYnhpcGdoVXNzOUFaY3hweF9ZWWRDQnVKNHZNVTVQSWJsbTNHV29CRQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-20T03:15:00.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
+    {
      "title": "ليلة سقوط الملاذ الآمن: لماذا تخلّى الذهب عن مستثمريه وسقط مع انهيار الأسهم؟",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tdnRTSU5CdE9kbDlBbEZtTmJBNXRFdUZVN2hXaWo5ejdHa2NKcEdzLTMxaEg3NXJYa21BLWZYQk9IUGNPYjBDYUVLYlBnNzNqUnhiX0d5MkNFWHFMd1daRg?oc=5",
      "source": "Investing.com",
      "time": "2026-11-20T03:01:00.000Z",
      "seen": "2026-11-20T05:41:44.563Z",
      "impact": "يهم حائزي ومستثمري الذهب في مصر لتتبع وتفسير أسباب هبوط أسعار المعدن النفيس بالتوازي مع الأسهم."
+    },
+    {
+     "title": "هدوء فى سوق الذهب المصرى بعد موجة خسائر حادة.. عيار 21 يستقر عند 5730 جنيهًا",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOM1dfeGdsZE9ualItWVVjZlBMdC12cUR5LXQ1UVRSSDdSb2RIVHN5cEJGR1NmWllHTGVIeEp6eDdGMDdnVUlha2R0M1JLS0g3ZFI5Zm5MSmtDbnE4eUJCZXBDUGQ0UkQtZ1BMcW5wOFF4T0s0a0E4RmVZT0hHTUJaQWZpZURHY2lVN29XOERwUk14MUN1MU1tb2h3RjJaMHdXNExaNkZHSDI0TVlDb0J1TU16ZWlvX0NyeUh1bEJXMURvSDhBV3RpMnhfYkJzWkppZFlSNUhuQVZCanptRkQ1bXV0Tm5udjVxR1N3ckdMaTVWaHJrZVhDREFJQlNkakNXWldLZGctTWN4aHNzV3dtNGhHR05Tc00tNEcxZUlVUlFDOEt1M191MFp6WHRxUWR5VDFmZTBsSXR2Mjctdm9zcmlQZlUxUGtuNFIyTVdpMTlwcUZBcE5zNGh5cF9GcW9UZndEamNpcE15RlRmNlc4RUlXa3ZEN3JIRnE3TU9qYTE0TkV6OXpsX1NkUkhVb2RNMHloRURrcUp4VEpUc1VSS2hwV0kxUm_SAaIDQVVfeXFMT3Fib3RZRVJkdlJjU1Z4NVRWOTZGdTJHSS1sRjBGTDVEOEJzX3RWV0NUS21TUlJTMkIxdHF3Tm10bTdQQjdYeWpFNVA5elV0aUI5eUMzblU5VGhucFk3dlllMjZST0Jya0VTb2Ywa1dJaXNXMmREZm0wbDVLX18wakZudEZWTmRocFhLTVlNWjA1T1d6RjlLM0pEQ0k4cmFrVnJqcnJQc01XV3lkUnZrbjVhaVRNSDlUUUNCbFVNX3ltTmJHU2U0elpOMlRkOWNYRFdrUkRpUlJCcEYzQkxnM0l3ZjB4QWI0T0VZdTgzdkJHdDVHYzl0WkZ4Yl82c1g4djR3VjI5bmFYaEdhNHJzU0dfR1pDSE9kOEM0YllmODdmeXJJRW96QzFSZDRWTGxlTTM1RTlFeGpHMGszRC1maERXRHF2d3luWmliSVdtUlZ3VF90b3diZVdoUGptckFEQ1lqNExKWTA2ZnVtY0NSTThDLTk3MEhGN0hOM19nLXhKOEI4dnAwUV96WGg2TmQtNS1HSGhVZVktUUo5VjJ4QnA1Zw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T03:00:00.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
     },
     {
      "title": "لغز انهيار الذهب رغم استقرار الدولار.. هل تسحب أنثروبيك سيولة الأسواق؟",
@@ -314,14 +330,6 @@
      "seen": "2026-11-20T00:30:07.879Z"
     },
     {
-     "title": "سعر الدولار اليوم الجمعة أمام الجنيه المصرى.. سجل 53.77 جنيه للشراء",
-     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPV21yb283YjBWTUxuY3dOT1ZSQ0ZJanRua1pydTBHazJLdDRlRXN5ejZKXzJ1bnhFSTJvOEtINlRwTjlGeXdfT1BMZDBFdHY4bUdHS0xycEN4dUNlVThMeUJMZ0kwVHhXNEE2dzlMc3hmMTZsbEhxRjc5WmQ3QTJaYkJBZklRVnl6NkpnSXpYWDVNSno3NDJTMGItaFpjWUJuSmNocGpfSldFNl92LUZNMW5uUEpzNDFnTWRQMjdmM3djSzNJamRwUVR0aHRab1g5bWlZOVlkN1dlUmVRWjEwRWw2eWdJTEIxVFM2VWVsaDkyWnZCd1UzVjZNT20tVFBocDhlOE5LSXhmSlBfNVlqTWE1SFdXRDNZNUtfNUtDUW01VXk4VXFjc2VjVzhRUjFtem1hRkJ3U1JOUENlZlUwUkRIVGhIbUhOMFVRLXdseEQydjRxdENZSmFQdzB6RDBta3JLNmhpeHFLUGhxUlB0Q0ExV2FqWGNPU1pRQ0g1YWQxc3hwWGZLVzlXQXBIZlY5dmZmSUE3NC1acXJWUTRRNWhEWjlOYVnSAacDQVVfeXFMT1dtcm9vN2IwVk1MbmN3Tk9WUkNGSWp0bmtacnUwR2syS3Q0ZUVzeXo2Sl8ydW54RUkybzhLSDZUcE45Rnl3X09QTGQwRXR2OG1HR0tMcnBDeHVDZVU4THlCTGdJMFR4VzRBNnc5THN4ZjE2bGxIcUY3OVpkN0EyWmJCQWZJUVZ5ejZKZ0l6WFg1TUp6NzQyUzBiLWhaY1lCbkpjaHBqX0pXRTZfdi1GTTFublBKczQxZ01kUDI3ZjN3Y0szSWpkcFFUdGh0Wm9YOW1pWTlZZDdXZVJlUVoxMEVsNnlnSUxCMVRTNlVlbGg5Mlp2QndVM1Y2TU9tLVRQaHA4ZThOS0l4ZkpQXzVZak1hNUhXV0QzWTVLXzVLQ1FtNVV5OFVxY3NlY1c4UVIxbXptYUZCd1NSTlBDZWZVMFJESFRoSG1ITjBVUS13bHhEMnY0cXRDWUphUHcwekQwbWtySzZoaXhxS1BocVJQdENBMVdhalhjT1NaUUNINWFkMXN4cFhmS1c5V0FwSGZWOXZmZklBNzQtWnFyVlE0UTVoRFo5TmFZ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T00:03:51.000Z",
-     "seen": "2026-11-20T02:01:45.073Z",
-     "impact": "يقدم سعراً محدداً لشراء الدولار في البنوك يعتمد عليه المستوردون والتجار في تسعير البضائع."
-    },
-    {
      "title": "رسميًا.. أسعار البنزين والسولار اليوم الجمعة 20 نوفمبر 2026 بعد قرار لجنة التسعير",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0SkhQcHlncU5qbS1lVWxrMDJXZWlUMEx6blZyUEZnNm9PaW1MaTlpMGN3OXNoYnBFQ19GUnhRblY3MHY5MU9Pb0lqWGxORHBPTV85V3loU05teE42U1kw?oc=5",
      "source": "المصري اليوم",
@@ -338,13 +346,6 @@
      "impact": "تتيح للمتعاملين مع البنوك في مصر التعرف على أقل سعر صرف متاح للدولار."
     },
     {
-     "title": "الذهب يفقد 3,700 دولار.. هل يستهدف 3,600 ثم 3,500 أم يقترب من ارتداد مفاجئ؟",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxbkdBUzlWejN1OEhDVU1xT2NpeFczWU80VGd0OGJ0S0dHV3ZGX3ZpNUZnQkdyLVdhQ3BYZ21ZSjlmRTZHWWVwdDBHZHNKaFYzOC13S2tBZ2VrenBVUXFZQg?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-19T22:49:05.000Z",
-     "seen": "2026-11-20T02:41:45.256Z"
-    },
-    {
      "title": "العملة الخضراء الآن.. سعر الدولار مقابل الجنيه المصري اليوم في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdDZ3MEk2VkZYRDZ0M1VldEhMQVVYem5LbWllbmYzVlV0UGhiNnNtUmlCaWRTLXVzcHFhYjludmRkanBlWFktTVZpLUpwamxfbFJaMmZFMEJIbzdkY0FR?oc=5",
      "source": "المصري اليوم",
@@ -357,6 +358,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "تقرير للحكومة الألمانية يكشف أن حرية الأديان تنهار عالميا... والاتهامات تطال بكين بوضوح!",
+     "url": "https://www.dw.com/ar/تقرير-للحكومة-الألمانية-يكشف-أن-حرية-الأديان-تنهار-عالميا-والاتهامات-تطال-بكين-بوضوح/a-79991710?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-20T06:15:00.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
     {
      "title": "DW تتحقق: كيف يمكنني التعرف على الصور المبتكرة بواسطة الذكاء الاصطناعي؟",
      "url": "https://www.dw.com/ar/dw-تتحقق-كيف-يمكنني-التعرف-على-الصور-المبتكرة-بواسطة-الذكاء-الاصطناعي؟/a-79959704?maca=ara-rss-ar-all-1125-rdf",
@@ -448,13 +456,6 @@
      "source": "الجزيرة",
      "time": "2026-11-20T01:26:24.000Z",
      "seen": "2026-11-20T05:11:44.813Z"
-    },
-    {
-     "title": "عملية \"فجر اليمن\" تتواصل.. وخسائر جديدة في صفوف الحوثيين",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPbzh6QUt6VmdEcTZCUTRJZEdEVGwxX2xxc0tCeV95X3JQeVNxZllwamhYbmtwQmJSV2I4UGN1WVI1SW1uemlwM2NMLW9oUmdsSWpmczhvTV9pUkhmbWxJbzhSSHZLUTlBQzl3RzhmcENMbTdUTFNIOXVyX2ctV1NJTWJpeFlXUmsycnU4N3JZZmpHMlJyVm1UTzFHRjkwaXo2bWlDdEQ1cG1rMWVPTXdZRjEtV2ZOQTc3bTlZckRaNVFyQkM1MnRQRHZwMDVjRU83TzROVzgtM2tSVGo2N284Q0VNZzFVS2JkYWFMYTJCQmxhZzRoR1E5SUlqRmtlSldJWURXMXVxazJJOWJyUl9OMHlkd0VqY0hfMjVvMzRpVHFaajF0aTZEZE5jYWk5a1N0RmpoM3VwUnFPMDJOTml3c1d5d1NycUgweTAtTVNJR21TSGtQTE9HMlBHZktZSlVCN3Vld01xUTh3VEVjcHEwSTV0OHFFUFA1dHNQZTZ2bzVRMlk5MlFJUEFTbU9TQnMyY3dIN1dxUVREUVkzVWR3a1ZfMGR3RTY4ejJ3ampOM2FQLXNUWEkwQ1JUOG9TVmFZcHdxUWJTTUdicHFrZmdBTUpJd00?oc=5",
-     "source": "العربية",
-     "time": "2026-11-20T01:21:00.000Z",
-     "seen": "2026-11-20T02:41:45.256Z"
     }
    ]
   },
@@ -462,6 +463,27 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "رسميًا: ChatGPT Health يدعم Health Connect ووكلاء Dots على أندرويد والحاسوب",
+     "url": "https://aitnews.com/2026/11/20/chatgpt-health-android-desktop-health-connect-dots/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T06:29:57.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
+    {
+     "title": "تطوير عدسات سناب شات عبر سطر الأوامر: مزايا Easy Lens CLI المجانية للمطورين",
+     "url": "https://aitnews.com/2026/11/20/snapchat-easy-lens-cli-claude-code-codex-cursor/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T06:29:00.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
+    {
+     "title": "الكونغرس يكشف تراخيص لتصدير أكثر من 879 ألف رقاقة ذكاء اصطناعي إلى الصين",
+     "url": "https://aitnews.com/2026/11/20/us-congress-879000-ai-chips-china-export-licenses/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T06:27:17.000Z",
+     "seen": "2026-11-20T06:31:44.930Z"
+    },
     {
      "title": "إقالة مسؤول أميركي بارز بعد موجة الأعطال الإلكترونية",
      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOVlpWYVl6cm55Q3picGNZMEs2SlExcExCMGJhb1ZLTFQ1Q1pyS1JjcnFvTXl5al94dmFHY0ZtRVF5MHhGN0lpRGQ2NXBSR095ZWNwMDhlWlJTNG93MVdycWpPbk50a2hCaVFDWGl2LTQ3N2ZxNmtZRU1ReXdDbTA3WDVNRnh2MUtxaElIRGVianZvdm5tLXJyVXRuNmg3SWthUHFhS1hNdFVPbzU4Rm1lSVJMc2tiSUR2cWdpMy1iQVV5Mk5leHB3M20xOGJkYkJ0YkszN1E5U2JqczRJQzEyNUdsRTRNOFMxREpmTkFZZDQtOFVUb1EtbVJsanlzSGdhbUVFcFo3QUVTRC1reGJLREdmRXFhWnM1SkVSODQtLWZQc1gzVFl3Qks4aTBVNnNuS2Z2RFBPTXFYdS1Tb3Y3elhPOGdtcnAwbWdieEdsUXlnQzdKal9KMTRDMHpFcmpGY3ZkeUxTeGxWTi1jOWNiUHZvMTA0THhqcjI4YzdhLVNCZ2JkTHRmdU9hYTJkdTFPZU40RXBoV3c0LW5tY3hqem5MRnNtOXlTMC04RlZQRdIBtANBVV95cUxNOWt0X3p2WkZVeUNlMGkxWHgyUmU1dzB0ZTNXbmE1aElwZGdIdkluVFN2ZWp2TC15RWZDSl8xblBYTmN1UndHNW5KSjlJSWlNUVpwNFNzOU1Pdi1jMWMzVDB5QllfSVVfbVY1OEYtSVBEbWJpNWpFMWlTUE9INGtvcTlpSnI3Si1pYm9RLTRzM096c0lrUjVHQl9IYnZWZ1o2Z01BTFY4ZkdSdm9tQy1wdzB0Qnp6WFNOdmd2RU05SWcxUXFTN0VRN21DSkpWM1BFVGlUa3E3cE43U2hnZVJrYzllLU51aUpmcml3Ukx1bHhxM2tOMTBXc1V0dXEyQTZRYTFMWk45ZVVKM1lVczNDYWlNSkhzR2hlUVgxMmxka2xxOFBnem9waFRLTzJacWdfRGhmWURndXI0c0Y4dDJRWTZ0dl9pRldWS3lqREpPY1FkNmk1MlY5NUU3d0tkOEtrM01sa0l4S28yb1RJQzVOR3lkOFJlbnFIV0I2M2RLdVo2Zzl5d3lITGIzUWYzd2FiSlR4dVNFb3ZJY2xSVzZmZUlaWTh6R0Z3WnFzVHV0TmxBYm4x?oc=5",
@@ -543,32 +565,16 @@
      "source": "العربية",
      "time": "2026-11-19T17:57:00.000Z",
      "seen": "2026-11-20T04:51:44.515Z"
-    },
-    {
-     "title": "من غزة إلى ميناب والصومال.. هل يضاعف الذكاء الاصطناعي ضحايا الحروب؟",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNOHYzM0ZlVld5eXFNVkszQzlPQnZEck5ZeFpSOXlydnZKbTIwakladzd6YnVnNkN6ZlRvd2xPR3FYSHpGRUV3T0ZSWV9yaDA1YTdvRWlJQ0QwWVh1WEF2a3Z2LThfMXFST0hqLW1pUVcyZ0NfdU5pTDVqR1RVb0VkUVI0b3pXcC14OU5qOTU4NnpMOXV3MVQtY2FzbFAtcWNfckdSMTNIYjlUTXBaOS1BV0F2Yy16cGVVaWktWjVZNlMtWDd4WXFsWEptYkg4ZVA1WWhfVFVSUzBNR29FVEI1WUVwNm9wdUx0M3VweENmdlN1ZGFiXy04dU5RWWVvLTdZXzNDNWJ3XzZacHZXakwxbVpabHdhQWVmanJzaTZrWnQ0OWdnZk9aUlA2YXlneEE1dXR6ZW5VdW5vNHh1OVpjUkJR?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-19T17:39:16.000Z",
-     "seen": "2026-11-19T20:40:06.462Z"
-    },
-    {
-     "title": "انهيار سوق المحمول في مصر والعالم.. تراجع الشحنات 20% عالميًا و26% محليًا",
-     "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOeXp5VUlkOTJ0M2JFMEYyN3dpZDVXVnF3cTdMbV9KeE5lUDY3LV9NWk0wdFFUbWM1czhEN0ZxZkJOZTlkS0hoNktta3pqcUFHRE1GWDg0Tmg0VG9Tb3lCMzJmbEQ2MmVyX2JrYlZWaDNvWTBxLVZRazcwQ0czQVN4YVZLcDU4UlFSUWluT1d2S2ZYc19GQ0hKZm5hYTd3ZGNEWlBqYTROV21oMTRQY2Q2TnQ1dHJfQkNZSFR6ZVRsTVk4bEdlQm4xZUJjdDBtdUYwZ3pSMUpGcEdoVVJ3NVQ2YVBxdG1hOUtmdklEQWd6cFJxS2RpNlptWVg2dG9xZ2NNaDdZclN0VHF6Q3ZmUnRjTG1oOHg4Nl9yT1ktQW1IZjhva05XQnBuSm82eFpCeDVWYnliaFlRN3k0ZXhuQ1lkMTMwQ1VGZnVqcXJqVDh4SGpKRjNVaVB1OXBRZXZSWmpmaTRyTnk1cERRX1FUYXMxRjJ2am9URVNVN09PdmNObDBtSERBTGg1U0o4bWpRS29RVHFXT0VpTGszeVV1YXlFREVITFYtOE9EMXFtRTd5SUZWQUdEZmJjV1NCTTBCSEtWb2E0MHhZeEwtR2ZsdUZVTkVUdWdyaHpYY0RzUkw1dTNycUdfU0JJZ0MxSmo4WVgtOXRDU3ZiMlo0ckNzbDQxUVJVTFRYYkVjVzYxeld0VnRmcFpzY253b2ExTktVV2pOeWtneVBhNG10UFpFMGhz0gG0BEFVX3lxTE8zZmFfQmwtbXkyRG9udUs4QXZ1UGdPckQtWkpad0NrY2EwbHhDaVNwLVVmV2EwMldtbVRsM2pSVWpvTjV2SHpiOXlEbm9UMHJoOEpwcUxRckJsb25tQ2ZDYkZBZm16aXJ4aVJBakJQRFJvY2MycEtxNGhfd3lZUGdXZ1FDNGQxSzhab1VkdW1VVEZxZmVSUEdxLVRST2dka1JLVmJJdUZYYldqY2wwSzd2c0J0MFpTTmxwUWxXSmhIeEw2QWtLbU1MUGJuQXBGaUlRNWF4THFIc2FqcGFNcDZ2dWlnWDc4cWkxUHJLNHJPTkx0THVGamhITEZWa0xHcUlURUlCXzh4Z2kyZ2dDY05kNmVFcEhNYjI2NWhsNGVoZk9wZ2s0dWcwMGpYVjBMVFYtRFBIQWMxYjBCZjJkTmFxZG1STXNEQmRKb2ZMM1ZMWk9XckIyb2FwbFBGUGJpVzJMWXdDU01xZENXaVo1S3ZPRnpqSDRJNk9YaWlOTTZPSGt5N09vdnVsdTZrZVlzRWVQRFhYeWkxU1NXN1VLZmFQQWNYZWJlVkJOYjlzaUVEeE5TSUdLel8yUFowVzI3TWNJODVqZ0w3RXVGcTQtWDFjeHdPd3BjT1h3NXhJTEF4d3I1YzVLU1hDa3EzV0ltRU10RjNBazJRRS1LUW56ejE2dGNBRXpqRlZNNTNET0x1MnhUQWx6bENwVFlmM2NZWG9aOFRLRUNFNDRicmQ5Nl94cksyaA?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-19T16:16:15.000Z",
-     "seen": "2026-11-19T18:09:50.259Z",
-     "impact": "تؤثر على المستهلكين والتجار في مصر لمعرفة اتجاهات المعروض والطلب في سوق الهواتف المحمولة."
-    },
-    {
-     "title": "نظام تشغيل هواوي HarmonyOS يتجاوز 100 مليون تثبيت",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOdWVpd0xMUXNXRWo1LUhGbVNTTjJXcnJsVmo5ekpHcHRGMkdDT0xseVBEcEtLRy1QQTJSa0w1WDE3eFh1T2ZGSlpoX0llYVZ2Y0NzZkhNc3U3eUk0N3FQbG9ib3pFRWlvbnY0Smxjb0pqZ0RpUkV0X1NjYzR0N043N3RuTURUTEMtc2NlN2lzRjhhVWlOdlZZekN1TUFxX2xndDBJd3g4WlJNbXJ0SzM0WlNOUnJhSlBMVThKZy1CTjlyTXNVaklPb3VCZWRhWEFhXzJVM3hBNk1ySUJrb2xDWHZlRFRQVGVBdzNWbFNBUE5qZVFfRDZKUTJXX1d1R0JLNFh6ODlDZVVaYjNGQzRpbTVrbmFwLVZyY2cxN0dfWTVDQ2I5c1FmdllTSnBXcVJQUHBQelpOVWt0TzRVYW8xUlFKeFE4VHZRN3hBQ2xSRDBaSW42Q0NDbw?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-19T16:00:44.000Z",
-     "seen": "2026-11-20T05:41:44.563Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  }
+ ],
  "marketErrors": []
 }
