@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:23:09.477Z",
+ "updated": "2026-11-20T11:33:09.509Z",
  "minute": [
   "تتناول الأخبار التطورات الإقليمية ومطالبات التحالف بإخلاء ميناء الحديدة، مع تحذير مصر من تداعيات الاعتداءات على السعودية.",
   "وتتابع المستجدات الاقتصادية في مصر تحديثات سعر صرف الدولار بالبنك المركزي، وتحديد الحد الأدنى للأجور بالقطاع الخاص لعام 2027، وارتفاع نصيب الفرد من الدين الخارجي.",
@@ -10,7 +10,9 @@
   "at": "2026-11-20T11:13:10.150Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T11:33:09.509Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5426,
-   "change": -2.58,
-   "asOf": "2026-11-20T11:12:58.000Z",
+   "value": 5430,
+   "change": -2.5,
+   "asOf": "2026-11-20T11:24:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6195,
-   "change": -2.58,
-   "asOf": "2026-11-20T11:12:58.000Z",
+   "value": 6200,
+   "change": -2.5,
+   "asOf": "2026-11-20T11:24:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3588,
-   "change": -2.65,
-   "asOf": "2026-11-20T11:12:58.000Z",
+   "value": 3591,
+   "change": -2.57,
+   "asOf": "2026-11-20T11:24:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,16 +66,16 @@
    "unit": "$",
    "value": 1.0967,
    "change": -0.05,
-   "asOf": "2026-11-20T11:22:46.000Z",
+   "asOf": "2026-11-20T11:33:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.72,
-   "change": -3.54,
-   "asOf": "2026-11-20T11:12:36.000Z",
+   "value": 89.11,
+   "change": -3.12,
+   "asOf": "2026-11-20T11:23:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61668,
-   "change": -0.38,
-   "asOf": "2026-11-20T11:23:07.000Z",
+   "value": 61683,
+   "change": -0.35,
+   "asOf": "2026-11-20T11:34:25.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,6 +140,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "محمد بركات قبل مواجهة بيراميدز: إمام عاشور طالما جاهز يلعب على أي حد",
+     "url": "https://www.elbalad.news/7187693",
+     "source": "صدى البلد",
+     "time": "2026-11-20T11:30:00.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
+    },
+    {
+     "title": "طريقة عمل سمك بوري بنكهات ومذاق مختلف بأسهل الخطوات | 3 وصفات",
+     "url": "https://www.elbalad.news/7187603",
+     "source": "صدى البلد",
+     "time": "2026-11-20T11:30:00.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
+    },
+    {
+     "title": "قبائل الجنوب تسلم 33 بندقية آلية وقطعتي جرينوف ضمن مبادرة تقنين أوضاع الدهابة",
+     "url": "https://www.elbalad.news/7187699",
+     "source": "صدى البلد",
+     "time": "2026-11-20T11:29:51.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
+    },
+    {
+     "title": "اليوم العالمي للطفل.. 8 محاور تكشف جهود القومى للطفولة والأمومة لحماية الأطفال",
+     "url": "https://www.youm7.com/story/2026/11/20/اليوم-العالمي-للطفل-8-محاور-تكشف-جهود-القومى-للطفولة-والأمومة/7625823",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T11:22:00.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
+    },
+    {
      "title": "جامعة القاهرة تنظم معرض «رؤى تشكيلية» لإبداعات أعضاء هيئة التدريس بقسم التربية الفنية بكلية التربية النوعية",
      "url": "https://www.youm7.com/story/2026/11/20/جامعة-القاهرة-تنظم-معرض-«رؤى-تشكيلية»-لإبداعات-أعضاء-هيئة-التدريس/7625832",
      "source": "اليوم السابع",
@@ -145,38 +175,10 @@
      "seen": "2026-11-20T11:23:09.477Z"
     },
     {
-     "title": "خطيب المسجد النبوي يكشف عن علامات التوفيق للمسلم.. تعرف عليها",
-     "url": "https://www.elbalad.news/7187697",
-     "source": "صدى البلد",
-     "time": "2026-11-20T11:18:16.000Z",
-     "seen": "2026-11-20T11:23:09.477Z"
-    },
-    {
-     "title": "إلهام شاهين وياسر جلال المكرمان المصريان بالدورة الأولي لمهرجان sitfy Greece",
-     "url": "https://www.elbalad.news/7187694",
-     "source": "صدى البلد",
-     "time": "2026-11-20T11:17:32.000Z",
-     "seen": "2026-11-20T11:23:09.477Z"
-    },
-    {
      "title": "التعليم العالي: نشر سلسلة فكّر قبل ما تصدق للتوعية بالفارق بين النصيحة والإعلان",
      "url": "https://www.youm7.com/story/2026/11/20/التعليم-العالي-نشر-سلسلة-فكّر-قبل-ما-تصدق-للتوعية-بالفارق/7625787",
      "source": "اليوم السابع",
      "time": "2026-11-20T11:15:00.000Z",
-     "seen": "2026-11-20T11:23:09.477Z"
-    },
-    {
-     "title": "وزير الخارجية يناقش مع كبير مستشاري ترامب سبل تعزيز الشراكة الاستراتيجية",
-     "url": "https://www.elbalad.news/7187692",
-     "source": "صدى البلد",
-     "time": "2026-11-20T11:14:02.000Z",
-     "seen": "2026-11-20T11:23:09.477Z"
-    },
-    {
-     "title": "«السكة الحديد» تواصل صيانة ورفع كفاءة قطارات الضواحي والفحص الشامل للشبكة",
-     "url": "https://www.youm7.com/story/2026/11/20/«السكة-الحديد»-تواصل-صيانة-ورفع-كفاءة-قطارات-الضواحي-والفحص-الشامل/7625818",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T11:14:00.000Z",
      "seen": "2026-11-20T11:23:09.477Z"
     },
     {
@@ -242,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تراجع جديد في سعر جرام الذهب اليوم الجمعة 20 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtTWkydk91ZGlyVWlaVE5FTEJnNi1DVXpHdThscG5PUExoOVFtVzdQYWl6ejI5cUItUlRRWjg4c2NBSWV4MnU0?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-20T11:27:00.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
+    },
+    {
      "title": "التحالف السعودي يدعو لإخلاء ميناء الحديدة، واتهامات حوثية بمقتل 19 مدنياً في قصف لقارب",
      "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -273,7 +282,7 @@
      "seen": "2026-11-20T09:03:10.157Z"
     },
     {
-     "title": "\"أخيراً، أصبح لترامب مقعد على طاولة الدكتاتوريين\" – مقال في الإندبندنت",
+     "title": "\"أخيراً، أصبح لترامب مقعد على طاولة الدكتاتوريين\" - مقال في الإندبندنت",
      "url": "https://www.bbc.com/arabic/articles/cmkgd1k8gywyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-20T10:39:01.000Z",
@@ -341,13 +350,6 @@
      "time": "2026-11-20T08:01:15.000Z",
      "seen": "2026-11-20T08:13:09.767Z",
      "impact": "تفيد المستوردين والمستثمرين المتعاملين بالعملة الأوروبية لمعرفة تكاليف الصرف وتسوية المعاملات التجاربة."
-    },
-    {
-     "title": "شبح 2008 يعود: هل تنهار الأسواق مجدداً تحت وطأة الديون وأزمة السيولة؟",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1cFBIdG9JNGlqNmxBanh1cmpHb2ZfWktNTUkwLTNVdkRQQS1NZmJuNTFwNzd1NUtKYnhpcGdoVXNzOUFaY3hweF9ZWWRDQnVKNHZNVTVQSWJsbTNHV29CRQ?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-20T07:46:35.000Z",
-     "seen": "2026-11-20T09:53:09.786Z"
     }
    ]
   },
@@ -389,6 +391,13 @@
      "source": "فرانس 24",
      "time": "2026-11-20T10:46:29.000Z",
      "seen": "2026-11-20T10:43:09.980Z"
+    },
+    {
+     "title": "عملية \"فجر اليمن\" .. ضرب مواقع وتحصينات الحوثي بعدة جبهات",
+     "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQN3ZWczJUSFlnckZsQlRCTlJPSE5Pc0J1SmZkWmM2VElRejE1a29PS1NJblpJT0ZSNE5zQ3RpeE5UWHNnTmJpa1JSUTh4ckQyRV93OGMxb19jWWFnbjNBdXA0N2pxT1BLQU5RZ3FzdTlzUnpqYmZad0NoeWozQ0VlX1diYXBjaUZqMkV5cDZmb0c4M256eWo2Vkc4RU94ZHlWcHBvMkI3UjNGSURyRjMxeDVZNmlUUUxQc19Oc3FDc1F2MngwM1VkUFZpTVZRTWdoenZ5dU1nbVNKc25NYjNCeWVZMmRadHFXdUZUV0U1bjVSR0F5OWp5ME9nOC1WMm9qbTYtTVU2UHkyY25aTThGeVIzVFFFNmg4cG00Z0JHc0QtcmhhRW13NHVaZ1JEQS1ITFRWeU85bThFeURJNE10RE4yMDFKYmNVd0lwYjFxNXZQbW51Y2szTThIY19Ib2tDSnpwN2FEbFl0SkM0Mk9zU0dWeFllYVJPeTlZQWRRd3NaM25VOGJHRDl4RFY5Q185VmZGQl80U1p6bFZBRGVLenRJMVpVbG82aTM4UmxOTHhianp2SWpJMzdnd0hmZHpDdU5pWlJDMmtqcVdadTJDblpaemJhdndzb2NhSg?oc=5",
+     "source": "العربية",
+     "time": "2026-11-20T10:44:00.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
     },
     {
      "title": "دويتشه بنك يلاحق \"متطرفين إسلامويين\" .. ويضع جمعيات بوذية ومصنعي دونر تحت المجهر",
@@ -441,18 +450,11 @@
      "seen": "2026-11-20T10:13:09.544Z"
     },
     {
-     "title": "\"السورية للبترول\" و\"شيفرون\".. مباحثات حول اتفاق تنفيذي لبدء الاستكشاف البحري",
-     "url": "https://www.aljazeera.net/news/2026/11/20/%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d9%88%d8%b4%d9%8a%d9%81%d8%b1%d9%88%d9%86-%d9%85%d8%a8%d8%a7%d8%ad%d8%ab%d8%a7%d8%aa-%d8%ad%d9%88%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T07:58:17.000Z",
-     "seen": "2026-11-20T11:13:10.150Z"
-    },
-    {
-     "title": "قيادة القوات المشتركة للتحالف: على المدنيين إخلاء ميناء الحديدة للحفاظ على سلامتهم",
-     "url": "https://www.aljazeera.net/news/2026/11/20/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d8%a9-%d9%84%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%b9%d9%84%d9%89-2?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T07:50:17.000Z",
-     "seen": "2026-11-20T11:13:10.150Z"
+     "title": "قبعة طفل تنهي حياة أشهر فرس نهر في العالم.. جديد \"فيونا\"",
+     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNUjY1MGdLMThGS1hONjJvTGxtSHZ1eVlWMmtDTG1xQlNzMWdwYXVGdkhqeEpEUEVTT2tSUlN4YjIxemJNcTR3YWUtcFZqb09sRFhhSWZnNHlxdFFXMUhIY3ZqZmh5MDNEYjBCUzQwS0FRT203N2c2WW5iUWhCVVJiV0dRNmUxaDNyY1RyemduMnlOS3lVU3EyenREUlZIc1E1T2ZOTGxaeEVpVV9CSkdtZ1AySXlSdGo0TE9lTGROMm9kb2w5cXJoQ0x3SWJaOTlPVjdCR0dudU1UdnY2T0swek9DWEtPNkUxYWVyVldRRW5zYUYtMG1PM2kyZVo1V3NuMXF0RmRQc2NXekJiNE5jdWJLMXh6Vlp3WkxONE1SRnpjS19hWms2NzZBT0pRa0ZtaC15RmV5NTJHVGNrMExVWjNKRTVqSU9QWTVzWFdWRDBEVkNVekJxaHo0TG5CRjBCanZTNXU4MjdJTE5QaHc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-20T08:18:00.000Z",
+     "seen": "2026-11-20T11:33:09.509Z"
     }
    ]
   },
