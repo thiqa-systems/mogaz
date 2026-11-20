@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:15:11.188Z",
+ "updated": "2026-11-20T14:25:10.412Z",
  "minute": [
   "تراجعت أسعار الذهب وسط متابعة لمستويات صرف الدولار في الأسواق.",
   "تصاعد التوتر الإقليمي مع إعلان التحالف عملية عسكرية في اليمن وتهديدات حوثية طالت أهدافاً في السعودية.",
@@ -10,7 +10,9 @@
   "at": "2026-11-20T14:05:11.016Z",
   "model": "gemini-3.8-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T14:25:10.412Z"
  },
  "markets": [
   {
@@ -19,34 +21,34 @@
    "unit": "ج.م",
    "value": 53.76,
    "change": 0.08,
-   "asOf": "2026-11-20T14:03:48.000Z",
+   "asOf": "2026-11-20T14:17:27.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5394,
-   "change": -3.16,
-   "asOf": "2026-11-20T14:05:07.000Z",
+   "value": 5410,
+   "change": -2.87,
+   "asOf": "2026-11-20T14:17:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6158,
-   "change": -3.16,
-   "asOf": "2026-11-20T14:05:07.000Z",
+   "value": 6177,
+   "change": -2.87,
+   "asOf": "2026-11-20T14:17:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3566,
-   "change": -3.23,
-   "asOf": "2026-11-20T14:05:07.000Z",
+   "value": 3577,
+   "change": -2.94,
+   "asOf": "2026-11-20T14:17:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0991,
-   "change": 0.17,
-   "asOf": "2026-11-20T14:14:45.000Z",
+   "value": 1.0988,
+   "change": 0.15,
+   "asOf": "2026-11-20T14:26:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.95,
-   "change": -3.29,
-   "asOf": "2026-11-20T14:04:40.000Z",
+   "value": 88.77,
+   "change": -3.49,
+   "asOf": "2026-11-20T14:17:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61866,
-   "change": -0.06,
-   "asOf": "2026-11-20T14:15:08.000Z",
+   "value": 62037,
+   "change": 0.22,
+   "asOf": "2026-11-20T14:27:10.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الذكاء الاصطناعي.. من ثورة تكنولوجية إلى سلاح يهدد مستقبل البشرية وخطر يصعب احتواؤه",
-     "url": "https://www.elbalad.news/7187842",
+     "title": "الخدمة عادت للقرى.. مياه كفر الشيخ: إصلاح كسر خط 14 بوصة في بيلا",
+     "url": "https://www.elbalad.news/7187868",
      "source": "صدى البلد",
-     "time": "2026-11-20T14:14:00.000Z",
-     "seen": "2026-11-20T14:15:11.188Z"
+     "time": "2026-11-20T14:23:32.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
     },
     {
-     "title": "الزمالك يواصل استعداداته لمواجهة الجونة في الدوري المصري",
-     "url": "https://www.elbalad.news/7187857",
+     "title": "بوتشيتينو يتعهد بتغيير الأوضاع في مانشستر يونايتد قبل مواجهة ليفربول",
+     "url": "https://www.elbalad.news/7187861",
      "source": "صدى البلد",
-     "time": "2026-11-20T14:13:22.000Z",
-     "seen": "2026-11-20T14:15:11.188Z"
+     "time": "2026-11-20T14:21:19.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
     },
     {
-     "title": "عدي الدباغ ينتظم في تدريبات الزمالك.. وشيكو بانزا يصل القاهرة الليلة",
-     "url": "https://www.elbalad.news/7187850",
+     "title": "موعد مباراة الأهلي وبيراميدز بالدوري والقنوات الناقلة",
+     "url": "https://www.elbalad.news/7187863",
      "source": "صدى البلد",
-     "time": "2026-11-20T14:13:07.000Z",
-     "seen": "2026-11-20T14:15:11.188Z"
+     "time": "2026-11-20T14:18:40.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
+    },
+    {
+     "title": "سجدة شكر بعد جائزة المليون ريال.. المصرى عبد الفتاح أبو زهرة يفوز بمسابقة القرآن",
+     "url": "https://www.youm7.com/story/2026/11/20/سجدة-شكر-بعد-جائزة-المليون-ريال-المصرى-عبد-الفتاح-أبو/7626124",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T14:18:00.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
     },
     {
      "title": "التحالف: نفذنا عملية فى صنعاء ودمرنا 7 أهداف عسكرية للحوثيين",
@@ -172,13 +181,6 @@
      "time": "2026-11-20T14:03:00.000Z",
      "seen": "2026-11-20T14:05:11.016Z",
      "impact": "يهم الأسر المستفيدة والشباب المقبلين على الزواج لمعرفة الدعم الاجتماعي والمساعدات التعليمية المتاحة."
-    },
-    {
-     "title": "تعرف على المتسابقين بالحلقة الثالثة من الموسم الثانى فى «دولة التلاوة».. الليلة",
-     "url": "https://www.youm7.com/story/2026/11/20/تعرف-على-المتسابقين-بالحلقة-الثالثة-من-الموسم-الثانى-فى-«دولة/7626117",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T14:01:00.000Z",
-     "seen": "2026-11-20T14:05:11.016Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -205,7 +207,7 @@
      "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-20T02:16:36.000Z",
+     "time": "2026-11-20T02:18:22.000Z",
      "seen": "2026-11-20T07:03:09.870Z"
     },
     {
@@ -242,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "بريطانيا والاتحاد الأوروبي يعلنان إنجاز اتفاقات جديدة تشمل التجارة وتنقل الشباب وخلاف بشأن الرسوم الجامعية",
+     "url": "https://www.bbc.com/arabic/articles/c52e8rpmz07wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T14:23:17.000Z",
+     "seen": "2026-11-20T09:03:10.157Z"
+    },
     {
      "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في مصر.. هدوء تام للعملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMmllUUlHa1M3YlVVcjVRaWFfT05LQW5yamM3cUl5TDFoVkkySFpuaS1xSFhEbi15Wi1mYVF1ZklMaWVPR2UzX2RJMkMwa1hjRVZSUUowTjJpSEtMbHZjRzFWMEVLbEwxdmFndlRSbGNuUWdXLWlJdXhpMWQxLTY4c3ZSaUdqOUg2ZE5wdTdvMngwOE40MW5FSUlaWV9yMW4tdkpoSTJlSDg3V2pMQTFXMmFwN013ZnVlcEpXYjE0SklUTVZRdm13b2lmR0c4cFpUaGhvdVFYOGJfb0pjOWVSNEN0d0ZmakozOWIwRWRSSmtKREtlZ3lXR2l5VFlKQUN0WG45UFRTOVFCVFFfTjlUcmJKMi1qdWE0Vk9vcXNhblNBWGYzUFgweXVzOW5NTFhyMllneGRrSkJPMnV4MVN3cUJxWVg3cmJ5WmoyTU9paGFMUE5CQkQ5RDB1d2w4a1lPcFJrQnptOF9sUXRrUmU5VzlEVU5pVUllMGs0b2lxX1hxN2NwM1JlOXpHdTc2M2PSAYoDQVVfeXFMTXowcUFFb3Q4WmJ6YVlTRGZqeFBYcmVvelN6Tlc1Tkl3U0VERUJiLWV0RVZxUFR0RU1YQ3YtWGw0SjMycDdLRFJ6MllDa0NqVmF0VHk5Rm91MVN6ZllnLXNVcFZkTUlscEpDNlZRblZveU5WaGt3eGRUVl91R29pMkdmZkZyRkhxTGRDLUUyOUNDaUdQRzlxYzBsYXk3VW1vbERRQTJNd2twX1QwU3hBb1V2Z0tpX1VhdFh2MmUteVhURGl0aENZMHh4NlN4ZS11ZEVLUXZFVU0yQXZIVEpFQzh5RUF4QzVyTE93TkduQ2xFTGhWZFk5c2VoYU54U2YzeUJJMmNtTElqQUpLenliSDBaQ3hMZ3hpT0R5Z0tOV003SGhEOXBWT2hmLVdCM09WVlIyTlRaeTdlVVhCVHNfdHFleU1Neml3OGpqdFpiTzlfUTNjLVZiZGQ2V1lfWnNyR0pvbTRqX2t4VWg5dHVqR3dMSllFSjlxamUwaTItS0tUYTIzbVhXdUNjQQ?oc=5",
@@ -294,13 +303,6 @@
      "source": "البورصة",
      "time": "2026-11-20T11:55:16.000Z",
      "seen": "2026-11-20T13:05:10.432Z"
-    },
-    {
-     "title": "المملكة المتحدة تعلن \"إنجاز الاتفاق\" مع الاتحاد الأوروبي، ومطالب أوروبية بخفض رسوم الدراسية",
-     "url": "https://www.bbc.com/arabic/articles/c52e8rpmz07wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T11:49:42.000Z",
-     "seen": "2026-11-20T09:03:10.157Z"
     },
     {
      "title": "سعر الدولار أمام الجنيه اليوم 20-11-2026.. أخر تحديث فى البنوك",
@@ -356,6 +358,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "السعودية تستهدف قدرات الحوثيين وتعلن استمرار العملية",
+     "url": "https://www.skynewsarabia.com/middle-east/1906082-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T14:14:26.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
+    },
+    {
+     "title": "اتفاق تاريخي بين بريطانيا والاتحاد الأوروبي يعيد رسم العلاقات بعد بريكست",
+     "url": "https://www.dw.com/ar/اتفاق-تاريخي-بين-بريطانيا-والاتحاد-الأوروبي-يعيد-رسم-العلاقات-بعد-بريكست/a-80004087?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-20T14:13:00.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
+    },
+    {
+     "title": "معاناة الروهينغيا: ماليزيا من ملاذ آمن إلى موجة من الكراهية والاضطهاد",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261120-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%87%D9%8A%D9%86%D8%BA%D9%8A%D8%A7-%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7-%D9%85%D9%86-%D9%85%D9%84%D8%A7%D8%B0-%D8%A2%D9%85%D9%86-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%AC%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%87%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D9%87%D8%A7%D8%AF",
+     "source": "فرانس 24",
+     "time": "2026-11-20T14:05:03.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
+    },
+    {
      "title": "\"التحالف\" يعلن بدء تنفيذ عملية عسكرية في اليمن.. ماذا استهدف في الحديدة وصنعاء وصعدة؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/coalition-military-operation-yemen-hodeidah-sanaa-saada",
      "source": "CNN بالعربية",
@@ -399,18 +422,18 @@
      "seen": "2026-11-20T13:15:11.023Z"
     },
     {
-     "title": "مباشر: مؤتمر صحفي لفون دير لاين وبورنم وكوستا لإعلان اتفاق \"تاريخي\" بين بريطانيا والاتحاد الأوروبي",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261120-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%B5%D8%AD%D9%81%D9%8A-%D9%84%D9%81%D9%88%D9%86-%D8%AF%D9%8A%D8%B1-%D9%84%D8%A7%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D9%86%D9%85-%D9%83%D9%88%D8%B3%D8%AA%D8%A7-%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-20T13:08:39.000Z",
-     "seen": "2026-11-20T13:15:11.023Z"
-    },
-    {
      "title": "الحوثيون يهددون موانئ السعودية والمركز المالي بالرياض رداً على تحذير التحالف بإخلاء ميناء الحديدة",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SV1pFSDRSYzFZS1UzbUpmUks1S24zT0tyZng2X3N4dkJFdFpQSVBDdjlpc3ZfRDNzMkIwOGgxUU9sVmszc3dIOEp6R1NQNEE5aDk5VHlNODJ6T0tGS0HSAWNBVV95cUxQRUU1bndoejVpY3ZJY3l5aHlJdEhFS05VbWJfR1hZNFI1NXU5R3VYUnRwcGFSMl9uaDhWZzN1bC1aZXNMaGtsdmpoUVhKbThIbFFIOGVxYllabkpnSzZaWU1EdUk?oc=5",
      "source": "BBC",
      "time": "2026-11-20T13:07:55.000Z",
      "seen": "2026-11-20T13:45:10.414Z"
+    },
+    {
+     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T12:48:43.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
     },
     {
      "title": "فوضى فى إسرائيل.. اشتباكات بين قوات الاحتلال والحريديم بسبب قاصر",
@@ -432,27 +455,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T12:14:49.000Z",
      "seen": "2026-11-20T12:23:09.663Z"
-    },
-    {
-     "title": "موسكو تدق ناقوس الخطر.. الناتو يستعد لصراع عسكري مع روسيا",
-     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQdHo0REJ1WWI1dnpfWW14R0NjV29MOHRIUzYxY1p4YnNTa1pycUp5Z0ttSkFFZUZaZmNfZ3l4S2NPbkFwajVMeGw4M3R5RWJPTDZXa2dlbmJ6cGJVNWNlX1p0UDhLTTlVQUJTaGFSVk9iYTE0b25yZmhGakVlMUVCZVVZb2wwdGlHcDV5WjQzMnM5UGVxdV9XR3JZVnV0LWczRU9Vd3A0NXFtNEtOWHdYM2RxVHJkem93UmVoMGZVZmRRVmZyeTl6aEJ4OFExcVQxTXlwQTJkUjlwSHotT1Y1cGMzTHVSWkUtNExwZXZaaWJEZkJqMlNuNHFtcGY2TTlXS3RsSUxjS1NEbU9TT2luT09wU0thUG03U0p6SzZBd3pPR3Y5QXlHWDFXWHFENGRLdEx2dVJOZnpCa2hwVmhnZ1BVcXFUbFVHdDVBeWg2QnVlVzFrSHFV?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T12:11:19.000Z",
-     "seen": "2026-11-20T13:55:10.969Z"
-    },
-    {
-     "title": "الزيدي: جرف الصخر بداية لفرض سلطة الدولة في العراق",
-     "url": "https://www.skynewsarabia.com/middle-east/1906058-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D9%81%D8%B1%D8%B6-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T11:54:08.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
-    },
-    {
-     "title": "عملية \"فجر اليمن\" مستمرة .. وإنذار بإخلاء ميناء الحديدة",
-     "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQN3ZWczJUSFlnckZsQlRCTlJPSE5Pc0J1SmZkWmM2VElRejE1a29PS1NJblpJT0ZSNE5zQ3RpeE5UWHNnTmJpa1JSUTh4ckQyRV93OGMxb19jWWFnbjNBdXA0N2pxT1BLQU5RZ3FzdTlzUnpqYmZad0NoeWozQ0VlX1diYXBjaUZqMkV5cDZmb0c4M256eWo2Vkc4RU94ZHlWcHBvMkI3UjNGSURyRjMxeDVZNmlUUUxQc19Oc3FDc1F2MngwM1VkUFZpTVZRTWdoenZ5dU1nbVNKc25NYjNCeWVZMmRadHFXdUZUV0U1bjVSR0F5OWp5ME9nOC1WMm9qbTYtTVU2UHkyY25aTThGeVIzVFFFNmg4cG00Z0JHc0QtcmhhRW13NHVaZ1JEQS1ITFRWeU85bThFeURJNE10RE4yMDFKYmNVd0lwYjFxNXZQbW51Y2szTThIY19Ib2tDSnpwN2FEbFl0SkM0Mk9zU0dWeFllYVJPeTlZQWRRd3NaM25VOGJHRDl4RFY5Q185VmZGQl80U1p6bFZBRGVLenRJMVpVbG82aTM4UmxOTHhianp2SWpJMzdnd0hmZHpDdU5pWlJDMmtqcVdadTJDblpaemJhdndzb2NhSg?oc=5",
-     "source": "العربية",
-     "time": "2026-11-20T11:25:00.000Z",
-     "seen": "2026-11-20T11:33:09.509Z"
     }
    ]
   },
