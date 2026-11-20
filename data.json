@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:45:10.255Z",
+ "updated": "2026-11-20T15:55:11.039Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T15:45:10.255Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T15:55:11.039Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5380,
-   "change": -3.4,
-   "asOf": "2026-11-20T15:38:21.000Z",
+   "value": 5371,
+   "change": -3.57,
+   "asOf": "2026-11-20T15:48:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6143,
-   "change": -3.4,
-   "asOf": "2026-11-20T15:38:21.000Z",
+   "value": 6132,
+   "change": -3.57,
+   "asOf": "2026-11-20T15:48:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3558,
-   "change": -3.47,
-   "asOf": "2026-11-20T15:38:21.000Z",
+   "value": 3551,
+   "change": -3.64,
+   "asOf": "2026-11-20T15:48:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0999,
-   "change": 0.25,
-   "asOf": "2026-11-20T15:47:48.000Z",
+   "value": 1.0987,
+   "change": 0.14,
+   "asOf": "2026-11-20T15:57:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.04,
-   "change": -4.28,
-   "asOf": "2026-11-20T15:38:11.000Z",
+   "value": 88.49,
+   "change": -3.79,
+   "asOf": "2026-11-20T15:48:12.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -83,16 +83,16 @@
    "unit": "نقطة",
    "value": 7084,
    "change": -1.28,
-   "asOf": "2026-11-20T15:48:16.000Z",
+   "asOf": "2026-11-20T15:58:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59538,
-   "change": -3.82,
-   "asOf": "2026-11-20T15:48:14.000Z",
+   "value": 59353,
+   "change": -4.12,
+   "asOf": "2026-11-20T15:58:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الداخلية تكشف حقيقة شكوى سيدة من إيداع زوجها بمصحة دون وجه حق",
-     "url": "https://www.elbalad.news/7187945",
+     "title": "حملات بيطرية مكثفة بالوادي الجديد لحماية الثروة الحيوانية ومراقبة الأسواق",
+     "url": "https://www.elbalad.news/7187949",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:45:01.000Z",
-     "seen": "2026-11-20T15:45:10.255Z"
+     "time": "2026-11-20T15:53:42.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
     },
     {
-     "title": "وزير التخطيط يبحث مع مجلس إدارة جمعية بورسعيد التاريخية تحويل المحافظة إلى مدينة مستدامة",
-     "url": "https://www.elbalad.news/7187961",
+     "title": "إلى أين تتجه المواجهة مع الحوثيين ؟.. وزير يمني سابق يوضح",
+     "url": "https://www.elbalad.news/7187951",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:44:17.000Z",
-     "seen": "2026-11-20T15:45:10.255Z"
+     "time": "2026-11-20T15:53:17.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
     },
     {
-     "title": "تدريبات بدنية قوية لخماسي حراس مرمى الزمالك استعدادا للجونة",
-     "url": "https://www.elbalad.news/7187965",
+     "title": "درة في «اعتراف» أمام كريم فهمي.. ثنائية جديدة في دراما رمضان 2027",
+     "url": "https://www.elbalad.news/7187950",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:43:28.000Z",
-     "seen": "2026-11-20T15:45:10.255Z"
+     "time": "2026-11-20T15:53:15.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
+    },
+    {
+     "title": "إيران.. سماع دوى انفجار فى سماء جزيرة قشم وسط ترجيحات بإسقاط مسيّرة معادية",
+     "url": "https://www.youm7.com/story/2026/11/20/إيران-سماع-دوى-انفجار-فى-سماء-جزيرة-قشم-وسط-ترجيحات/7626196",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T15:46:00.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
     },
     {
      "title": "التحالف: سقوط شظايا بمنطقة جازان جراء اعتراض صاروخين حوثيين",
@@ -174,11 +181,11 @@
      "seen": "2026-11-20T15:45:10.255Z"
     },
     {
-     "title": "8 متسابقين يتنافسون الليلة بالحلقة الثالثة من دولة التلاوة.. الأسماء وموعد العرض",
-     "url": "https://www.youm7.com/story/2026/11/20/8-متسابقين-يتنافسون-الليلة-بالحلقة-الثالثة-من-دولة-التلاوة-الأسماء/7626170",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T15:30:00.000Z",
-     "seen": "2026-11-20T15:35:10.815Z"
+     "title": "فاتورة الديون تُثقل حسابات الحكومة المصرية بعد برنامج \"صندوق النقد\"",
+     "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5343650-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D9%86-%D8%AA%D9%8F%D8%AB%D9%82%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B5%D9%86%D8%AF%D9%88%D9%82",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T07:24:00.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -228,13 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-20T01:09:00.000Z",
      "seen": "2026-11-20T03:31:45.110Z"
-    },
-    {
-     "title": "أول ظهور لـ مرتضى منصور بعد إحالته للمحاكمة في قضية إلهام شاهين",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScEx3Uk1FWldRMmlCbWNiT2FvMlVHdHdiVmxuQW4wX2I1Z3lEX1VlREVNRFY3R21GZEVLb3VMdnRkOVVMRkhfa1l1UEp0ZnJ5VGlwdHJ1RUdnSGMxeGkw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-19T23:58:00.000Z",
-     "seen": "2026-11-20T05:41:44.563Z"
     }
    ]
   },
@@ -295,6 +295,13 @@
      "impact": "يهتم به المستثمرون لمتابعة التغيرات في حركة التجارة بين بريطانيا وأوروبا وأثرها على الأسواق الدولية."
     },
     {
+     "title": "تحويلات المغتربين... ملاذ مصري في مواجهة الصدمات الخارجية",
+     "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPSEFwQlpxbnhoMXJENURZWDZLeVVjWjE3UEFzOWdudGQ3MXhBb05BcnNNTmUtamU4MHBVN2VmWjFWa2hBQk9kcFdQQzVEVmluOHFraDhLUGcybmlNTjQ0bUJNYjNodnhKUHBtMExNRUgyLXNYdHR1cmsxRjk0TTZ1M3Bpakg5bV9LSm90dnRDTnNyQ2oxX2pfbTJiQmt3Qmg4bGRZV2JfUERhdmZsaW5LVE5aOHVXMVk3NmZITEhZUXo5T3FqZ2N4bllpRnJaMU1KTndQM1F3ZlFnbGJZb0s0UEd4cnZGdXgyRndNRVV5a0pTX0lqMWlRT1B1MDYtblFZNDV6V1gxNmRlLVdIbjdBSTBJRzJKOGUwYV9tNHp1T2dxWjZxd180MlFmbWl1LVk3SVZaeFcxQ1FfVDI1LTFJVTVGdmxPYUEtX1RHTHNURkVWbXNwc3l1NkRZbzZDZTNSNTBfbG1mYk90NV9GalZMd3Y2VkJ2YnFHM2c2YnRuMTk3WTJNV1BySklOS0FwVmRjSUhFNERycEE2bkZCTUhkanhrTUI0R1hyVUZxNHFzQ1NEZ2pwY19udjk1c19WVTdfUzdra3FSSTVCVG1uUzFxQnhfeUhzT1pRaXYwT016NGZmd2JyMWN0S0o2Tlg1bEd6MGx3RW5ydFJpVEJxVWdnV05Vcw?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T14:21:14.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
+    },
+    {
      "title": "بعد آخر انخفاض.. سعر الدولار اليوم الجمعة 20 نوفمبر 2026 مقابل الجنيه المصري",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUZEpidU1GMS1mck9NdnhYZGk3LTZtWl9qY0JmYWl5TmhYdE54dkg1M25NSmNnS19nUWc1U255Ql9XYkh3QUZRWUo3SnhqN3AzcFJzM1dQSHJDbzl1dzJF?oc=5",
      "source": "المصري اليوم",
@@ -337,14 +344,6 @@
      "time": "2026-11-20T12:14:40.000Z",
      "seen": "2026-11-20T13:05:10.432Z",
      "impact": "يهم المستثمرين المهتمين بقطاع التكنولوجيا لمتابعة حجم التمويلات الضخمة في رقائق الذكاء الاصطناعي."
-    },
-    {
-     "title": "سعر الدولار اليوم الجمعة.. كم تبيع شركات الصرافة العملة الأمريكية؟",
-     "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxPTW5zaDJVSktsMFliU090OEEwZGxQdEZ4aEE0VUFZVEtJV0E3eXNWMjVWd18xekhBbnRPQV9Vd21rSXBqTjBicGMtMEYzTFppV0FxNVpkRGJwNVZCT1lMaFF2eE1IQVJNcWFickx1eGZPaHlyMGx4VmdPUk5iaGFMZzdGckdfX05oUV9pVnRjd1pwRzd1MU9mVlhaM1pQZGZ4elVfU3pJNERQUlZjeFAwdzRRdUV3cnNDQ0hrd0l1U2RoYlBiUUVqRG4zVzFqYjM4d2t0dlNWLVBRZUlMcmxqeGlOZUIyeWM3eGpHZjBXd3BtTlJUMExDZVpWX3JLc1FIWEh5NkRROGxibHZ2Tmp0Rnc1S2I0MDJzaC0zSS1XRjhIZXdQTlhHblV6Uzc0dnZCLU8xbjZ2R3ZvcGlwOHVlekxQNXpuM01ON0hJNkpNNFFiNmxnc21jeWVUdzJqR2FJSk43ZXZvWjk2cUlqaklIOEotNW53X1JMa0Fvc0k3VHd3Q2UzWVhra2tnSjBzeDgwU2puSzI5UE5BeWlINUh6bUMtRzlvN256aXoxNGttd3JESVhvNW9rVUVZc0hUNmtGQTUwTm41TU82QjI2TzJEeFh3dG1FbzNvdjZvejN1aXdQb3JXd3ZVTTlVWW1fTHRmTXc3aHd5dUNNQ3pRVE13bTM1RHJnWk56UzliVDNnUC1xQdIBkgRBVV95cUxPTW5zaDJVSktsMFliU090OEEwZGxQdEZ4aEE0VUFZVEtJV0E3eXNWMjVWd18xekhBbnRPQV9Vd21rSXBqTjBicGMtMEYzTFppV0FxNVpkRGJwNVZCT1lMaFF2eE1IQVJNcWFickx1eGZPaHlyMGx4VmdPUk5iaGFMZzdGckdfX05oUV9pVnRjd1pwRzd1MU9mVlhaM1pQZGZ4elVfU3pJNERQUlZjeFAwdzRRdUV3cnNDQ0hrd0l1U2RoYlBiUUVqRG4zVzFqYjM4d2t0dlNWLVBRZUlMcmxqeGlOZUIyeWM3eGpHZjBXd3BtTlJUMExDZVpWX3JLc1FIWEh5NkRROGxibHZ2Tmp0Rnc1S2I0MDJzaC0zSS1XRjhIZXdQTlhHblV6Uzc0dnZCLU8xbjZ2R3ZvcGlwOHVlekxQNXpuM01ON0hJNkpNNFFiNmxnc21jeWVUdzJqR2FJSk43ZXZvWjk2cUlqaklIOEotNW53X1JMa0Fvc0k3VHd3Q2UzWVhra2tnSjBzeDgwU2puSzI5UE5BeWlINUh6bUMtRzlvN256aXoxNGttd3JESVhvNW9rVUVZc0hUNmtGQTUwTm41TU82QjI2TzJEeFh3dG1FbzNvdjZvejN1aXdQb3JXd3ZVTTlVWW1fTHRmTXc3aHd5dUNNQ3pRVE13bTM1RHJnWk56UzliVDNnUC1xQQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T12:03:10.000Z",
-     "seen": "2026-11-20T13:05:10.432Z",
-     "impact": "يهم الأفراد والمستوردين لمعرفة أسعار صرف العملة الأمريكية وتكلفتها في شركات الصرافة."
     }
    ]
   },
@@ -352,6 +351,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بريطانيا والاتحاد الأوروبي يعلنان إنجاز اتفاقات جديدة تشمل التجارة وتنقل الشباب وخلاف بشأن الرسوم الجامعية",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSm9KUlFsQ3RBZ0JucU1SNy1rZEhxaGcyUEVIUWNJMmkzeTV5NGcyZUh4SV9JYlFWQ21adm9TUmNnblltckU4NTdxZXRXMTRrNHRBSnVMcDZfNXpRQUHSAWNBVV95cUxNOFZFNEg4Z0stU0NjTkFQQUIzcmh4SnJ5YnBKZG9aclRhUVNfWjBrZ1lfTngtX09kbmVFTHNZT212eWgwa1MtdWh3QTBQMGRraTdjS21Felc2TjJ3UWVnU01RLTg?oc=5",
+     "source": "BBC",
+     "time": "2026-11-20T15:45:00.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
+     "title": "البكتيريا المقاومة تنتشر.. هل بات العالم مهدداً بعصر ما بعد المضادات الحيوية؟",
+     "url": "https://www.dw.com/ar/البكتيريا-المقاومة-تنتشر-هل-بات-العالم-مهدداً-بعصر-ما-بعد-المضادات-الحيوية؟/a-80000083?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-20T15:39:00.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
+    },
     {
      "title": "إسرائيل تعلن مقتل 3 قياديين بحماس والجهاد في غزة",
      "url": "https://www.skynewsarabia.com/middle-east/1906071-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-3-%D9%82%D9%8A%D8%A7%D8%AF%D9%8A%D9%8A%D9%86-%D8%A8%D8%AD%D9%85%D8%A7%D8%B3-%D9%88%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF-%D8%BA%D8%B2%D8%A9",
@@ -431,25 +444,11 @@
      "seen": "2026-11-20T13:45:10.414Z"
     },
     {
-     "title": "فوضى فى إسرائيل.. اشتباكات بين قوات الاحتلال والحريديم بسبب قاصر",
-     "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOcW9HeUFUUWltWHQ1SlV5ZnA0Tk1ia1hqV2VHUVhnS21nZGt1Mm1kbzhROVBMdEVoSWNzVC1pOW1SZWNUYVdmaG1JTUpXanltMl9iU2hhQWRoNEdaSWNXOHM2Yk5IRTMwUjdJdXJVc2tRSjhkYkFEVmJkMmd3S0NSQVE3akNnT25YQUZ2eDZfSXUxOTNnVUhWV3Bma2hBZmhMNlU1SHlqODIzc1hiX2ozX29nYi1Lb1NodDUyU2RoYzRIUGFUa3lYS3MtV2FMNXRDdnRqQk9FZFVOUDlQSFEtdkpscHh1Z2p4Q0tIcVBGUGIwak5tNGUtYzFudUl3VFFUT3hkUXRiZGMxMWowb0JnXzZiNUtoQ1VMUGlZLVRIWlFBUlFma19RZmxoOTljVkdrUnJKQ2NDejVSUVoweV9OWXdQRFp6dU5kNXBsajlLSkMxTEJ1d09vMXZtN3JnTHZyY1c2aXZDbXRuZF9IVEVXRmJ2c2xxNnljNlRfdVF1OEhETUZ1Yi1HY0ZmNjRiZHlVczV6TGFoS3FJT25QV1MyVUtCdDBJcjU3cGdnUXJTeWJOUlNVYkNPNnJMQmdBODhJZ3FiU1dUVnFGS20ycmQ1Zk9Ja0VlbGFKNUVKNWppY0doZG1memllZFVPWG1PSTVaMzlwUW1FXzkzVlVKQVRjQVpHUWJQNWstdHhMVXpDNNIBigRBVV95cUxPSTdEdVdxeFBkTXFuNXRGNjZRaUxGOTktdlZsenB0ZFdOd1lLY0oxNGF4U1V2ZkpmZ0JRdEw1dmxNT3NpVlVCYU9ITzhDVkUyaTFpa1ZPUUY5cHc0c2tCQjZvYWlOcTRFTC1zSFpXTlRpb25sR1ZJVm5nTGU4VWVwWHhkb0JtWEVrcVlTUFdFZHltT2MxS3dBODNpbktqcXBNSEFKMm1xNHB0UDVvZHRYbWZoS3lkQ0JEdXpocVZHTXNNeXZRUDVmUHFocE5DTkJrWlZ2ZFFpMFVNVlZLd1NZTTR3NWl0TnBUN3Z2THZUU3dBTi1WNXF2X0JfeWFwSWs3MlFVQm9LLW1hdHNIZGJYMFdfRWJKTjYzYVE4TmQ1OHZLVUN2OWRWaUxJcjlDQ1hDSUx4WmowZXpycW5IZGtNTDlsaUtpUkRwLWdiLVo1bUlvblIxekVzV3NnLWdGUEhyZlFIWEFXaUpTUWJCY2ViTzlxRVFWampCdHR1VDRWa0w2cnF5d1dSRWZERjFLU29ya195TW9Mbkdra3JOSm1UWEFGSVh3Z0YwY0JYTkVNbTh3bWhNcUQ5RUtnRWJjalcxb2dfQW9xcDJjX3JYczNfNnFtUHNRYmZvMkkyZWdGR25JTklyMnlHenVhY0YwLWJSTVNBTkREOUlFXzh3cE9sbzYzc1FJcHZ1Wmc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T12:38:00.000Z",
-     "seen": "2026-11-20T14:15:11.188Z"
-    },
-    {
-     "title": "المملكة المتحدة تعلن \"إنجاز الاتفاق\" مع الاتحاد الأوروبي، ومطالب أوروبية بخفض رسوم الدراسية",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSm9KUlFsQ3RBZ0JucU1SNy1rZEhxaGcyUEVIUWNJMmkzeTV5NGcyZUh4SV9JYlFWQ21adm9TUmNnblltckU4NTdxZXRXMTRrNHRBSnVMcDZfNXpRQUHSAWNBVV95cUxNOFZFNEg4Z0stU0NjTkFQQUIzcmh4SnJ5YnBKZG9aclRhUVNfWjBrZ1lfTngtX09kbmVFTHNZT212eWgwa1MtdWh3QTBQMGRraTdjS21Felc2TjJ3UWVnU01RLTg?oc=5",
-     "source": "BBC",
-     "time": "2026-11-20T12:33:45.000Z",
-     "seen": "2026-11-20T12:45:10.566Z"
-    },
-    {
-     "title": "\"تحالف الراغبين\" يردّ من برلين على قمة شنجن",
-     "url": "https://www.aljazeera.net/politics/2026/11/20/%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d9%84%d9%82%d9%85%d8%a9-%d8%aa%d8%b1%d9%85%d8%a8-%d9%80-%d8%b4%d9%8a-%d9%80-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%84%d8%b3%d9%86%d8%a7?traffic_source=rss",
+     "title": "اعتقال ضابط سوري سابق متهم بالتخطيط لمجزرة ولصوص يوثقون جرائمهم",
+     "url": "https://www.aljazeera.net/video/networks/2026/11/20/%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d8%b6%d8%a7%d8%a8%d8%b7-%d8%b3%d9%88%d8%b1%d9%8a-%d8%b3%d8%a7%d8%a8%d9%82-%d9%85%d8%aa%d9%87%d9%85-%d8%a8%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-20T12:29:56.000Z",
-     "seen": "2026-11-20T15:45:10.255Z"
+     "time": "2026-11-20T12:44:44.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
     }
    ]
   },
@@ -457,6 +456,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "أنثروبيك تُتم اكتتابها وطرحًا خاصًا بقيمة إجمالية 119.5 مليار دولار",
+     "url": "https://aitnews.com/2026/11/20/%d8%a3%d9%86%d8%ab%d8%b1%d9%88%d8%a8%d9%8a%d9%83-%d8%aa%d9%8f%d8%aa%d9%85-%d8%a7%d9%83%d8%aa%d8%aa%d8%a7%d8%a8%d9%87%d8%a7-%d9%88%d8%b7%d8%b1%d8%ad%d9%8b%d8%a7-%d8%ae%d8%a7%d8%b5%d9%8b%d8%a7-%d8%a8/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T15:50:35.000Z",
+     "seen": "2026-11-20T15:55:11.039Z"
+    },
     {
      "title": "سامسونج تطرح أول تحديث لسلسلة Galaxy Tab S12 بحزمة أكتوبر الأمنية",
      "url": "https://www.tech-wd.com/wd/2026/11/20/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a3%d9%88%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-galaxy-tab-s12-%d8%a8%d8%ad%d8%b2%d9%85%d8%a9/",
@@ -553,13 +559,6 @@
      "time": "2026-11-20T06:42:51.000Z",
      "seen": "2026-11-20T06:51:45.291Z",
      "impact": "يهتم به المستثمرون في قطاع التكنولوجيا لمتابعة أداء أسهم شركات الرقائق وحجم التأثر في الأسواق الآسيوية والعالمية."
-    },
-    {
-     "title": "أسبوع دبي للمستقبل.. روبوتات التوصيل وشراكات الذكاء الاصطناعي تتصدر اليوم الثاني",
-     "url": "https://aitnews.com/2026/11/20/%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d8%af%d8%a8%d9%8a-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%b1%d9%88%d8%a8%d9%88%d8%aa%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%88%d8%b5%d9%8a%d9%84-%d9%88%d8%b4/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-20T06:41:21.000Z",
-     "seen": "2026-11-20T06:41:45.088Z"
     }
    ]
   }
