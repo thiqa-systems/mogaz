@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:35:10.791Z",
+ "updated": "2026-11-20T12:45:10.566Z",
  "minute": [
   "تواصل مصر تنفيذ خططها القومية لتطوير المنظومة الصحية وتنظيم ملفات الهجرة وحماية حقوق العمالة بالخارج.",
   "تشهد المنطقة تصاعداً في التوترات السياسية والأمنية مع تحذيرات متعلقة بالملاحة والموانئ في البحر الأحمر.",
@@ -10,7 +10,9 @@
   "at": "2026-11-20T12:25:10.628Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T12:45:10.566Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5414,
-   "change": -2.79,
-   "asOf": "2026-11-20T12:25:06.000Z",
+   "value": 5399,
+   "change": -3.06,
+   "asOf": "2026-11-20T12:39:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6182,
-   "change": -2.79,
-   "asOf": "2026-11-20T12:25:06.000Z",
+   "value": 6164,
+   "change": -3.06,
+   "asOf": "2026-11-20T12:39:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3580,
-   "change": -2.86,
-   "asOf": "2026-11-20T12:25:06.000Z",
+   "value": 3570,
+   "change": -3.13,
+   "asOf": "2026-11-20T12:39:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": 0.04,
-   "asOf": "2026-11-20T12:34:43.000Z",
+   "value": 1.0982,
+   "change": 0.09,
+   "asOf": "2026-11-20T12:48:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.21,
-   "change": -3.01,
-   "asOf": "2026-11-20T12:24:54.000Z",
+   "value": 89.33,
+   "change": -2.88,
+   "asOf": "2026-11-20T12:38:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61603,
-   "change": -0.48,
-   "asOf": "2026-11-20T12:35:09.000Z",
+   "value": 61544,
+   "change": -0.58,
+   "asOf": "2026-11-20T12:49:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خطيب الأزهر: الإسلام فتح أبواب الخير للجميع ولم يجعل المعروف قاصرا على الأغنياء",
-     "url": "https://www.elbalad.news/7187769",
+     "title": "سحب كل التشغيلات .. هيئة الدواء تتخذ إجراءت عاجلة ضد أشهر أدوية ارتجاع المريء",
+     "url": "https://www.elbalad.news/7187783",
      "source": "صدى البلد",
-     "time": "2026-11-20T12:34:55.000Z",
-     "seen": "2026-11-20T12:35:10.791Z"
+     "time": "2026-11-20T12:44:05.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
     },
     {
-     "title": "لزيادة المشاهدات.. ضبط 3 صانعات محتوى بالإسكندرية لنشر فيديوهات خادشة للحياء",
-     "url": "https://www.elbalad.news/7187767",
-     "source": "صدى البلد",
-     "time": "2026-11-20T12:32:48.000Z",
-     "seen": "2026-11-20T12:35:10.791Z"
+     "title": "تنفيذا لتوصيات منتدى مصر 2026.. دعم أسطول الإسعاف بـ1000 سيارة مجهزة",
+     "url": "https://www.youm7.com/story/2026/11/20/تنفيذا-لتوصيات-منتدى-مصر-2026-دعم-أسطول-الإسعاف-بـ1000-سيارة/7625960",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T12:44:00.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
     },
     {
-     "title": "ممنوع الإقتراب منها نهائياً .. سحب تشغيلة لأشهر مضاد حيوي في الصدليات",
-     "url": "https://www.elbalad.news/7187768",
+     "title": "إصابة 3 أشخاص من أسرة واحدة في تصادم توك توك وميكروباص بالدقهلية",
+     "url": "https://www.elbalad.news/7187776",
      "source": "صدى البلد",
-     "time": "2026-11-20T12:31:07.000Z",
-     "seen": "2026-11-20T12:35:10.791Z"
+     "time": "2026-11-20T12:43:28.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
+     "title": "الرئيس الصيني يعقد اجتماعا ثنائيا مع رئيس وزراء ماليزيا على هامش قمة \"أبيك\"",
+     "url": "https://www.elbalad.news/7187784",
+     "source": "صدى البلد",
+     "time": "2026-11-20T12:43:12.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
+     "title": "إجراء تعديلات على قانون البيئة وزراعة مليون شجرة بتكلفة 2 مليار جنيه بتوصيات منتدى مصر 2026",
+     "url": "https://www.youm7.com/story/2026/11/20/إجراء-تعديلات-على-قانون-البيئة-وزراعة-مليون-شجرة-بتكلفة-2/7625969",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T12:39:00.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
     },
     {
      "title": "خطة قومية لتأهيل 66 مستشفى و238 وحدة طب أسرة ضمن «حياة كريمة 2»",
@@ -165,21 +181,6 @@
      "time": "2026-11-20T12:22:00.000Z",
      "seen": "2026-11-20T12:23:09.663Z",
      "impact": "يعزز تأهيل المستشفيات ووحدات طب الأسرة مستوى جودة الخدمات الصحية المقدمة للمواطنين ضمن مبادرة حياة كريمة."
-    },
-    {
-     "title": "تنظيم الهجرة وحماية حقوق العمالة بالخارج.. حلول منتدى مصر 2026 ضمن التحول الاقتصادى",
-     "url": "https://www.youm7.com/story/2026/11/20/تنظيم-الهجرة-وحماية-حقوق-العمالة-بالخارج-حلول-منتدى-مصر-2026/7625938",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T12:20:00.000Z",
-     "seen": "2026-11-20T12:23:09.663Z",
-     "impact": "يساعد تنظيم ملف الهجرة وحماية حقوق العمالة بالخارج في تعزيز حماية المصريين العاملين بالخارج وتدفقات تحويلاتهم."
-    },
-    {
-     "title": "خطة منتدى مصر 2026.. 200 ألف فرصة عمل فى التعهيد والاتصالات بحلول 2030",
-     "url": "https://www.youm7.com/story/2026/11/20/خطة-منتدى-مصر-2026-200-ألف-فرصة-عمل-فى-التعهيد/7625932",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T12:19:00.000Z",
-     "seen": "2026-11-20T12:23:09.663Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -359,6 +360,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "\"شعارات جوفاء\".. علاء مبارك يعلّق على منتقدي أنور السادات بعد توقيع معاهدة السلام",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/alaa-mubarak-sadat-peace-treaty-sinai-israel",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T12:42:38.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
+     "title": "قمة المملكة المتحدة والاتحاد الأوروبي: مساعٍ لإعادة بناء العلاقات بعد بريكست",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSm9KUlFsQ3RBZ0JucU1SNy1rZEhxaGcyUEVIUWNJMmkzeTV5NGcyZUh4SV9JYlFWQ21adm9TUmNnblltckU4NTdxZXRXMTRrNHRBSnVMcDZfNXpRQUHSAWNBVV95cUxNOFZFNEg4Z0stU0NjTkFQQUIzcmh4SnJ5YnBKZG9aclRhUVNfWjBrZ1lfTngtX09kbmVFTHNZT212eWgwa1MtdWh3QTBQMGRraTdjS21Felc2TjJ3UWVnU01RLTg?oc=5",
+     "source": "BBC",
+     "time": "2026-11-20T12:33:45.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
+     "title": "الجزائر.. روبوت متطور لمكافحة الحرائق",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D9%8A%D8%A8/20261120-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B1%D9%88%D8%A8%D9%88%D8%AA-%D9%85%D8%AA%D8%B7%D9%88%D8%B1-%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%B9%D8%B1%D9%88%D8%B3-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B3%D8%B1%D9%82%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-20T12:29:49.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
      "title": "حرب السودان.. مصالح الإسلاميين تعرقل طريق السلام",
      "url": "https://www.skynewsarabia.com/middle-east/1906062-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D8%AA%D8%B9%D8%B1%D9%82%D9%84-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
      "source": "سكاي نيوز عربية",
@@ -402,26 +424,11 @@
      "seen": "2026-11-20T11:43:09.729Z"
     },
     {
-     "title": "\"أنثروبيك\" تقتحم وول ستريت.. قفزة قياسية ترفع قيمتها السوقية وتربك أسهم التكنولوجيا",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261120-%D8%A3%D9%86%D8%AB%D8%B1%D9%88%D8%A8%D9%8A%D9%83-%D8%AA%D9%82%D8%AA%D8%AD%D9%85-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D9%82%D9%81%D8%B2%D8%A9-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D9%82%D9%8A%D9%85%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%88%D9%82%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D8%A8%D9%83-%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-20T11:30:44.000Z",
-     "seen": "2026-11-20T11:43:09.729Z",
-     "impact": "يعكس للمستثمرين في الأسهم العالمية التغيرات في القيمة السوقية لشركات التكنولوجيا والذكاء الاصطناعي."
-    },
-    {
      "title": "عملية \"فجر اليمن\" مستمرة .. وإنذار بإخلاء ميناء الحديدة",
      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQN3ZWczJUSFlnckZsQlRCTlJPSE5Pc0J1SmZkWmM2VElRejE1a29PS1NJblpJT0ZSNE5zQ3RpeE5UWHNnTmJpa1JSUTh4ckQyRV93OGMxb19jWWFnbjNBdXA0N2pxT1BLQU5RZ3FzdTlzUnpqYmZad0NoeWozQ0VlX1diYXBjaUZqMkV5cDZmb0c4M256eWo2Vkc4RU94ZHlWcHBvMkI3UjNGSURyRjMxeDVZNmlUUUxQc19Oc3FDc1F2MngwM1VkUFZpTVZRTWdoenZ5dU1nbVNKc25NYjNCeWVZMmRadHFXdUZUV0U1bjVSR0F5OWp5ME9nOC1WMm9qbTYtTVU2UHkyY25aTThGeVIzVFFFNmg4cG00Z0JHc0QtcmhhRW13NHVaZ1JEQS1ITFRWeU85bThFeURJNE10RE4yMDFKYmNVd0lwYjFxNXZQbW51Y2szTThIY19Ib2tDSnpwN2FEbFl0SkM0Mk9zU0dWeFllYVJPeTlZQWRRd3NaM25VOGJHRDl4RFY5Q185VmZGQl80U1p6bFZBRGVLenRJMVpVbG82aTM4UmxOTHhianp2SWpJMzdnd0hmZHpDdU5pWlJDMmtqcVdadTJDblpaemJhdndzb2NhSg?oc=5",
      "source": "العربية",
      "time": "2026-11-20T11:25:00.000Z",
      "seen": "2026-11-20T11:33:09.509Z"
-    },
-    {
-     "title": "\"التحالف\" يصدر أمر إخلاء لميناء الحُديدة في اليمن وينشر خريطة",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/saudi-coalition-issues-evacuation-warning-to-civilians-in-port-of-al-hudaydah",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T11:01:25.000Z",
-     "seen": "2026-11-20T11:03:09.648Z"
     },
     {
      "title": "السعودية تدعو المدنيين إلى إخلاء ميناء الحديدة",
@@ -445,18 +452,11 @@
      "seen": "2026-11-20T10:03:09.260Z"
     },
     {
-     "title": "توغلات إسرائيلية في ريفي درعا والقنيطرة.. وتفجير ألغام قرب خط \"سوفا 53\"",
-     "url": "https://www.aljazeera.net/news/2026/11/20/%d8%aa%d9%88%d8%ba%d9%84%d8%a7%d8%aa-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d8%a9-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81%d9%8a-%d8%af%d8%b1%d8%b9%d8%a7?traffic_source=rss",
+     "title": "مستشفى أرسنال.. خبر جيد وآخر سيئ لجماهير \"الغانرز\"",
+     "url": "https://www.aljazeera.net/sport/2026/11/20/%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84-%d8%ae%d8%a8%d8%b1-%d8%ac%d9%8a%d8%af-%d9%88%d8%a2%d8%ae%d8%b1-%d8%b3%d9%8a%d8%a6-%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-20T09:22:11.000Z",
-     "seen": "2026-11-20T12:35:10.791Z"
-    },
-    {
-     "title": "النفط يتراجع رغم اضطرابات هرمز",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/20/%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%b1%d8%ba%d9%85-%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8%d8%a7%d8%aa-%d9%87%d8%b1%d9%85%d8%b2?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T09:08:01.000Z",
-     "seen": "2026-11-20T12:23:09.663Z"
+     "time": "2026-11-20T09:30:00.000Z",
+     "seen": "2026-11-20T12:45:10.566Z"
     }
    ]
   },
