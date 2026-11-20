@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:15:10.533Z",
+ "updated": "2026-11-20T15:25:10.724Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -9,7 +9,9 @@
   "at": "2026-11-20T15:05:10.637Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T15:25:10.724Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5400,
-   "change": -3.04,
-   "asOf": "2026-11-20T15:05:12.000Z",
+   "value": 5380,
+   "change": -3.41,
+   "asOf": "2026-11-20T15:15:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6166,
-   "change": -3.04,
-   "asOf": "2026-11-20T15:05:12.000Z",
+   "value": 6142,
+   "change": -3.41,
+   "asOf": "2026-11-20T15:15:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3571,
-   "change": -3.11,
-   "asOf": "2026-11-20T15:05:12.000Z",
+   "value": 3557,
+   "change": -3.48,
+   "asOf": "2026-11-20T15:15:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0989,
+   "value": 1.0988,
    "change": 0.15,
-   "asOf": "2026-11-20T15:14:47.000Z",
+   "asOf": "2026-11-20T15:25:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.66,
-   "change": -3.61,
-   "asOf": "2026-11-20T15:05:07.000Z",
+   "value": 88.28,
+   "change": -4.02,
+   "asOf": "2026-11-20T15:15:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7153,
-   "change": -0.32,
-   "asOf": "2026-11-20T15:15:11.000Z",
+   "value": 7110,
+   "change": -0.92,
+   "asOf": "2026-11-20T15:25:51.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60840,
-   "change": -1.72,
-   "asOf": "2026-11-20T15:15:07.000Z",
+   "value": 60080,
+   "change": -2.94,
+   "asOf": "2026-11-20T15:25:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,31 +139,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزير المالية: مصر تصدرت أفريقيا في جذب الاستثمار الأجنبي المباشر بنحو 18 مليار دولار العام الماضي",
-     "url": "https://www.elbalad.news/7187919",
+     "title": "مجموعه الأهلي ... إصابة نجم الرجاء المغربي",
+     "url": "https://www.elbalad.news/7187907",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:14:51.000Z",
-     "seen": "2026-11-20T15:15:10.533Z"
+     "time": "2026-11-20T15:23:29.000Z",
+     "seen": "2026-11-20T15:25:10.724Z"
     },
     {
-     "title": "كوستا: اتفاق إطاري يتيح مشاركة بريطانية أكثر انتظاما في البعثات المدنية للاتحاد الأوروبي",
-     "url": "https://www.elbalad.news/7187930",
+     "title": "دجل وشعوذة.. سقوط نصاب أوهم المواطنين بعلاجهم روحانيا بالإسكندرية",
+     "url": "https://www.elbalad.news/7187938",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:14:37.000Z",
-     "seen": "2026-11-20T15:15:10.533Z"
+     "time": "2026-11-20T15:22:32.000Z",
+     "seen": "2026-11-20T15:25:10.724Z"
+    },
+    {
+     "title": "تموين الإسماعيلية يواصل حملاته المكثفة على الأسواق والمخابز ويحرر 54 مخالفة متنوعة",
+     "url": "https://www.elbalad.news/7187872",
+     "source": "صدى البلد",
+     "time": "2026-11-20T15:22:01.000Z",
+     "seen": "2026-11-20T15:25:10.724Z"
     },
     {
      "title": "مبادرة الدهابة.. مصطفى بكرى: تسليم أسلحة متقدمة كانت فى الجبال",
      "url": "https://www.youm7.com/story/2026/11/20/مبادرة-الدهابة-مصطفى-بكرى-تسليم-أسلحة-متقدمة-كانت-فى-الجبال/7625944",
      "source": "اليوم السابع",
      "time": "2026-11-20T15:14:00.000Z",
-     "seen": "2026-11-20T15:15:10.533Z"
-    },
-    {
-     "title": "وفاة عامل نظافة أثناء تأدية عمله بمنطقة بحري في الإسكندرية",
-     "url": "https://www.elbalad.news/7187923",
-     "source": "صدى البلد",
-     "time": "2026-11-20T15:13:39.000Z",
      "seen": "2026-11-20T15:15:10.533Z"
     },
     {
@@ -240,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "تراجع سعر الجنيه الذهب بالصاغة اليوم الجمعة 20 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pNW1USWRoeTN5OWVQYm1ySUhvYUhFSGg4Qy1GQ2hmRWNqVEwzbF9JUXJYQk9JUUI2SHdnUVpqOHBZWFF1SDZz?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-20T15:19:00.000Z",
+     "seen": "2026-11-20T15:25:10.724Z"
+    },
+    {
+     "title": "سعر جرام الفضة في السوق المحلي اليوم الجمعة 20 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hMU40bzZYd1dzU053djlfTHdKQWYzdVN1Vjg4eS0tZHhEXzNSQlF0S2NIWW9sc0ZCZUNycjMwWkU5N3VWanJR?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-20T15:16:00.000Z",
+     "seen": "2026-11-20T15:25:10.724Z"
+    },
     {
      "title": "من هي كتائب حزب الله العراقية وما علاقتها بأزمة جرف الصخر؟",
      "url": "https://www.bbc.com/arabic/articles/c67829jkelx3o?at_medium=RSS&at_campaign=rss",
@@ -330,22 +346,6 @@
      "time": "2026-11-20T11:43:00.000Z",
      "seen": "2026-11-20T11:53:09.846Z",
      "impact": "يمس الحياة اليومية للمواطنين والمستثمرين في مصر لمتابعة أسعار السلع وحركة الصرف في البنوك."
-    },
-    {
-     "title": "تراجع جديد في سعر جرام الذهب اليوم الجمعة 20 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtTWkydk91ZGlyVWlaVE5FTEJnNi1DVXpHdThscG5PUExoOVFtVzdQYWl6ejI5cUItUlRRWjg4c2NBSWV4MnU0?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-20T11:27:00.000Z",
-     "seen": "2026-11-20T11:33:09.509Z",
-     "impact": "يهم الأفراد والمدخرين في مصر لمتابعة تحركات أسعار الذهب وتأثيرها على مدخراتهم."
-    },
-    {
-     "title": "نصيب الفرد من الدين الخارجي لمصر يرتفع إلى 1.53 ألف دولار بنهاية يونيو 2026",
-     "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOb1d1X0dJLWQ3aGg2bVVpVUNGRE05OGZlcFVpNnJDdnNEVFE0N1hkMEtURnFUZzZ1aTRhSnJ4V3hGQ0tfTHVUblR2Z09ySHdRSzVVSWNISUQxSG4yUktTLWpyM2hxN2toeUxwVnNhRi1UTmhvU2FqaTJ1RVhVclpCQ0VRVGFwdWtaYnFhWU1iNGhUS0xTMHNFR2EtbW5TMkVsYndhbkEzSEVybUV5dFNVNG5mX2w5dlE2c09GOHg5YUVGcXl6X2tkd2hmbmhGYkVmM0U5elMzSU41dmVCQm5JNkFxUy1uODhYZUJaNHdIYXNLWUVraWJfZWs4dVpndjljdHFGdVU1QWpJOExBV0FUd1YwdVJzVmRSRkphYUl0U1gyN3BGSGFuY05Ha2h2MmhYaFRxMExXcW1KNDRUd2kwSjl5bTJEQ1VCY25jN3RDdGVOZ0NkRGRTQ29SMl8xenlma1JPZjVKQ2h5OGVWMHd1RnZMQXhOSDdNdkdqM0tleHFxS1JDUjd3TnBaRkJHVmV6eHNOYWZPdmRwdHJlMk5lc2tLa0tpQ1hkLTA2djNhczMxbllaNF9hZkFRUktsZWVHc1NWeFFQRy1SSHp2UU1WampiUjdEUDkxTkZ2ZHZPMEUwTGotWDBZX2R0dmpkQjVBU0hhX2o3cGZxLUNXMHlxWVozOF9yajBPdjNBZUVUbEFITG9iRngzdzJRQ2puX1MtNEl4eXFNTUNpU01YUmh5MDdnMjNCZEZtNUZiVGo1LVJrTnY40gHKBEFVX3lxTE90ZUJlaXdiZWRneFREd05OeUdGRXdfMElsNVd2bkNwXzBGNTUwMkVXR1A1WTNGNi12TXc4X1lzUXNaYVJkRnZPZk9Lc2RtMHhlOFRsSjBfb1dqc0p0MnMyYVpndnlWTi1SNjQ0WjFQdU1NT2ZkR2ExV0c4djF1UGk4OFNOYUdNZTI5dGNnbVZVdEdYMHNyaWxHdjZlTUU3NWNiXzRJVHZxQW94SEpYUVRvMmFoeDFBRnZyVURUa1dldkRtalNpWXplcjczQm1zc3VTX2NoZlFtVXhlb2FqUXFTLVdNXzJCaWFHQXoyS3U1ZC1keF83TmdpM1N6eXZOQlVvQ0pEYzA0WU0zZ1AzMEFNcUgwR2lja1o5dkZFT0RTZVRUeWx4LWxFbnllNzRab05mYzdhc0U3RmF1Y2NlMWVHb0dwZmI2VmRnbngzWGsySDFYRlJ3bWlEWHVOSjNMblJfYTdKUUZBT0oyY3RZY3BGcENfSUx3OTBmV3F5a1A5Tm5qMk96SHM1NXBhSmNWUWdndkM5Y2tYX1ZKUWlSd1VpbThYc1FpUlRVaFlYQUZNXzVVTWtWVlVBRV9uWXhZcnY3WUNvQVFVYVJWemwwOUs2bFRkaXBld2lUWTE5VGg4NF9zYW5aYW82UEs5WUdJekY5RE9DWUp2VFYtRTd6emxYWV92OHNScjZTSmZndmFualh4SlYyTC15YkM1c0RlWWtRTTdyeWNrYmtiOTBJM1Q4N2RLMVVfQzhCcFhRMmV1UjhGLWVGZmVqMWc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-20T10:52:33.000Z",
-     "seen": "2026-11-20T11:03:09.648Z",
-     "impact": "يعطي المستثمرين والمواطنين في مصر صورة عن التطورات الاقتصادية ومستويات الدين الخارجي."
     }
    ]
   },
@@ -432,13 +432,6 @@
      "seen": "2026-11-20T13:45:10.414Z"
     },
     {
-     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
-     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T12:48:43.000Z",
-     "seen": "2026-11-20T14:25:10.412Z"
-    },
-    {
      "title": "فوضى فى إسرائيل.. اشتباكات بين قوات الاحتلال والحريديم بسبب قاصر",
      "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOcW9HeUFUUWltWHQ1SlV5ZnA0Tk1ia1hqV2VHUVhnS21nZGt1Mm1kbzhROVBMdEVoSWNzVC1pOW1SZWNUYVdmaG1JTUpXanltMl9iU2hhQWRoNEdaSWNXOHM2Yk5IRTMwUjdJdXJVc2tRSjhkYkFEVmJkMmd3S0NSQVE3akNnT25YQUZ2eDZfSXUxOTNnVUhWV3Bma2hBZmhMNlU1SHlqODIzc1hiX2ozX29nYi1Lb1NodDUyU2RoYzRIUGFUa3lYS3MtV2FMNXRDdnRqQk9FZFVOUDlQSFEtdkpscHh1Z2p4Q0tIcVBGUGIwak5tNGUtYzFudUl3VFFUT3hkUXRiZGMxMWowb0JnXzZiNUtoQ1VMUGlZLVRIWlFBUlFma19RZmxoOTljVkdrUnJKQ2NDejVSUVoweV9OWXdQRFp6dU5kNXBsajlLSkMxTEJ1d09vMXZtN3JnTHZyY1c2aXZDbXRuZF9IVEVXRmJ2c2xxNnljNlRfdVF1OEhETUZ1Yi1HY0ZmNjRiZHlVczV6TGFoS3FJT25QV1MyVUtCdDBJcjU3cGdnUXJTeWJOUlNVYkNPNnJMQmdBODhJZ3FiU1dUVnFGS20ycmQ1Zk9Ja0VlbGFKNUVKNWppY0doZG1memllZFVPWG1PSTVaMzlwUW1FXzkzVlVKQVRjQVpHUWJQNWstdHhMVXpDNNIBigRBVV95cUxPSTdEdVdxeFBkTXFuNXRGNjZRaUxGOTktdlZsenB0ZFdOd1lLY0oxNGF4U1V2ZkpmZ0JRdEw1dmxNT3NpVlVCYU9ITzhDVkUyaTFpa1ZPUUY5cHc0c2tCQjZvYWlOcTRFTC1zSFpXTlRpb25sR1ZJVm5nTGU4VWVwWHhkb0JtWEVrcVlTUFdFZHltT2MxS3dBODNpbktqcXBNSEFKMm1xNHB0UDVvZHRYbWZoS3lkQ0JEdXpocVZHTXNNeXZRUDVmUHFocE5DTkJrWlZ2ZFFpMFVNVlZLd1NZTTR3NWl0TnBUN3Z2THZUU3dBTi1WNXF2X0JfeWFwSWs3MlFVQm9LLW1hdHNIZGJYMFdfRWJKTjYzYVE4TmQ1OHZLVUN2OWRWaUxJcjlDQ1hDSUx4WmowZXpycW5IZGtNTDlsaUtpUkRwLWdiLVo1bUlvblIxekVzV3NnLWdGUEhyZlFIWEFXaUpTUWJCY2ViTzlxRVFWampCdHR1VDRWa0w2cnF5d1dSRWZERjFLU29ya195TW9Mbkdra3JOSm1UWEFGSVh3Z0YwY0JYTkVNbTh3bWhNcUQ5RUtnRWJjalcxb2dfQW9xcDJjX3JYczNfNnFtUHNRYmZvMkkyZWdGR25JTklyMnlHenVhY0YwLWJSTVNBTkREOUlFXzh3cE9sbzYzc1FJcHZ1Wmc?oc=5",
      "source": "اليوم السابع",
@@ -451,6 +444,13 @@
      "source": "BBC",
      "time": "2026-11-20T12:33:45.000Z",
      "seen": "2026-11-20T12:45:10.566Z"
+    },
+    {
+     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T12:19:39.000Z",
+     "seen": "2026-11-20T14:25:10.412Z"
     }
    ]
   },
