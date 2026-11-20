@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:55:26.170Z",
+ "updated": "2026-11-20T21:05:26.054Z",
  "minute": [
   "قدمت بنوك مصرية شهادات ادخار جديدة بعوائد تصل إلى 20.5%، بالتوازي مع استقرار أسعار الدولار والريال السعودي في البنوك.",
   "وعلى الصعيد الدولي، أعلن عن اتفاق بين أمريكا والصين بشأن تنظيم الذكاء الفائق، واستثمارات قطرية في ألمانيا، وتطورات ميدانية وسياسية في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T20:55:26.170Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T21:05:26.054Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5308,
-   "change": -4.69,
-   "asOf": "2026-11-20T20:45:23.000Z",
+   "value": 5321,
+   "change": -4.47,
+   "asOf": "2026-11-20T20:55:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6061,
-   "change": -4.69,
-   "asOf": "2026-11-20T20:45:23.000Z",
+   "value": 6075,
+   "change": -4.47,
+   "asOf": "2026-11-20T20:55:20.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3510,
-   "change": -4.76,
-   "asOf": "2026-11-20T20:45:23.000Z",
+   "value": 3518,
+   "change": -4.54,
+   "asOf": "2026-11-20T20:55:20.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0966,
    "change": -0.05,
-   "asOf": "2026-11-20T20:54:44.000Z",
+   "asOf": "2026-11-20T21:04:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.14,
-   "change": -2,
-   "asOf": "2026-11-20T20:45:15.000Z",
+   "value": 90.23,
+   "change": -1.9,
+   "asOf": "2026-11-20T20:55:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 6895,
-   "change": -3.91,
-   "asOf": "2026-11-20T20:55:21.000Z",
+   "value": 6910,
+   "change": -3.7,
+   "asOf": "2026-11-20T21:05:22.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58197,
-   "change": -5.98,
-   "asOf": "2026-11-20T20:55:13.000Z",
+   "value": 58238,
+   "change": -5.92,
+   "asOf": "2026-11-20T21:05:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مستريحة الأدوات المنزلية بأوسيم تعارض على أحكام قضائية في اتهامها بالنصب على المواطنين",
-     "url": "https://www.elbalad.news/7188290",
+     "title": "عمرو أديب: تطور العلاقات المصرية مع غرب ليبيا خطوة مهمة",
+     "url": "https://www.elbalad.news/7188305",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:54:27.000Z",
-     "seen": "2026-11-20T20:55:26.170Z"
+     "time": "2026-11-20T21:04:28.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
     },
     {
-     "title": "إصابة 8 أطفال في سقوط لعبة ملاهي بمركز شباب الشيخ زايد بالإسماعيلية",
-     "url": "https://www.elbalad.news/7188291",
+     "title": "برنامج الأغذية العالمي يحتاج لأكثر من 12 مليار دولار لتقديم مساعدات لـ91 مليون شخص",
+     "url": "https://www.elbalad.news/7188304",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:54:26.000Z",
-     "seen": "2026-11-20T20:55:26.170Z"
+     "time": "2026-11-20T21:03:16.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
     },
     {
-     "title": "تحسن أرقام العجز في بريطانيا بعد تراجع الاقتراض الحكومي دون التوقعات",
-     "url": "https://www.elbalad.news/7188288",
+     "title": "مدحت العدل يوضح حقيقة تصريحه عن المجتمع السلفي ويدافع عن حرية الفن والاختيار",
+     "url": "https://www.elbalad.news/7188302",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:53:22.000Z",
-     "seen": "2026-11-20T20:55:26.170Z"
+     "time": "2026-11-20T21:01:32.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
     },
     {
      "title": "عبد الفتاح عبد المنعم: مهرجان القاهرة السينمائى يعكس قوة مصر الناعمة.. صور وفيديو",
@@ -251,6 +251,20 @@
      "impact": "توفر شهادة بنك مصر للأفراد وعاءً ادخارياً يقدم عائداً يومياً يصل إلى 20% لتلبية احتياجات السيولة."
     },
     {
+     "title": "بيسنت يدعو الفيدرالي إلى عدم رفع الفائدة 50 نقطة",
+     "url": "https://alborsaanews.com/2026/11/20/2007806",
+     "source": "البورصة",
+     "time": "2026-11-20T20:30:00.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
+    },
+    {
+     "title": "سهم تسلا يتراجع 6% وسط موجة بيع التكنولوجيا",
+     "url": "https://alborsaanews.com/2026/11/20/2007804",
+     "source": "البورصة",
+     "time": "2026-11-20T20:06:14.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
+    },
+    {
      "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في مصر.. استقرار سعر الأخضر في البنوك",
      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOREV6STlnbFRpVmFULXBUNi1LVEFDaHloTzVUbGdrYVlLSEJMNVE3MGZmQmJBWkx5WE11N0llcTdHRk0wa1pMVkVQSVhaU3NWMXJGLVRWVXBoYUlYTW9zb0lEVFVQSEJVUy1DX3FOd1dCQ1RrbmQweHZTZ2tHYTZLUWFJdi1haFlqSTkzZHk2YW1SNjRKaFltc2tzYXFZT1pJUWs5QzFCUzRpTU1mcWlWVGhZeXBvWlNfdE00QnY5WUhqOVRWZXljQWNsNzQ5Z2JTamJ4NFhkS3JXNTlSRDZyY3VPeU0wbDhoY010XzNKTWM3ZEllNmpQM1gtcHZSMUhiTlVnOFFQUmZGNFh5MFUxNG1xeW94LTZFRkNSMFVuUEt1ZGc3c2NPckZCLU93WmFqU3VYeTJPWUFrWjFIRU5VWlpKM3V6eGZpY3RsRnZjUkhFdDJZckhEQ2VaVWNvbk9tVUJnQ1I3R0N3VXVLRFlScjd2OEtPaXFCV3NKZ3hBS2dmR3h2bDJyeGhMSkZmRmViWm5JYk5CVE9NZ1BlVGt1d0xpVW5WOU0?oc=5",
      "source": "اليوم السابع",
@@ -333,20 +347,6 @@
      "time": "2026-11-20T16:18:00.000Z",
      "seen": "2026-11-20T16:25:10.687Z",
      "impact": "تساعد متابعة مؤشر الدولار عالمياً المستثمرين في توقع اتجاهات أسعار الفائدة والأسواق المالية التأثيرية."
-    },
-    {
-     "title": "تراجع كبير في حركة مؤشر الذهب عالميا اليوم الجمعة والأونصة تسجل 3580 دولارا",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNekluZThqMlIwbjM0RVhOVno1Sl9keUdiLUkycXZ6SGxyZ2hUWm1wNVpwcHdheEFhVUM0RFBLMVE0dU1ZNC1J?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-20T16:09:00.000Z",
-     "seen": "2026-11-20T16:15:10.923Z"
-    },
-    {
-     "title": "مناطق روسية جديدة تفرض قيوداً على بيع الوقود",
-     "url": "https://alborsaanews.com/2026/11/20/2007802",
-     "source": "البورصة",
-     "time": "2026-11-20T16:08:07.000Z",
-     "seen": "2026-11-20T17:15:10.439Z"
     }
    ]
   },
@@ -354,6 +354,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "الشيخ عبد الله بن زايد وروبيو يبحثان التطورات الإقليمية",
+     "url": "https://www.skynewsarabia.com/middle-east/1906138-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T21:02:47.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
+    },
     {
      "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
@@ -414,13 +421,6 @@
      "seen": "2026-11-20T20:25:26.159Z"
     },
     {
-     "title": "العراق ينشئ 12 نقطة أمنية لحماية نفط جرف النصر",
-     "url": "https://www.skynewsarabia.com/middle-east/1906118-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D8%B4%D8%A6-12-%D9%86%D9%82%D8%B7%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%86%D9%81%D8%B7-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T18:42:54.000Z",
-     "seen": "2026-11-20T18:45:26.160Z"
-    },
-    {
      "title": "مؤشر \"ناسداك\" ينخفض بعد تراجع حاد لأسهم شركة الذكاء الاصطناعي \"أنثروبيك\"",
      "url": "https://www.france24.com/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/20261120-%D9%85%D8%A4%D8%B4%D8%B1-%D9%86%D8%A7%D8%B3%D8%AF%D8%A7%D9%83-%D9%8A%D9%86%D8%AE%D9%81%D8%B6-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AD%D8%A7%D8%AF-%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A3%D9%86%D8%AB%D8%B1%D9%88%D8%A8%D9%8A%D9%83",
      "source": "فرانس 24",
@@ -443,19 +443,18 @@
      "seen": "2026-11-20T18:35:25.750Z"
     },
     {
-     "title": "تونس: الحكم بسجن الناشطة الحقوقية البارزة سهام بن سدرين خمس سنوات",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261120-%D9%82%D8%B6%D8%A7%D8%A1-%D8%AA%D9%88%D9%86%D8%B3-%D8%AD%D9%83%D9%85-%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%B7%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D9%86-%D8%B3%D8%AF%D8%B1%D9%8A%D9%86-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-20T17:41:37.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
+     "title": "إيران مباشر.. ترمب يلوح بتكرار الضربة العسكرية والحرس الثوري يعلن انفجار ناقلة نفط في هرمز",
+     "url": "https://www.aljazeera.net/news/liveblog/2026/11/21/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%aa%d8%b1%d9%85%d8%a8-%d9%8a%d9%84%d9%88%d8%ad-%d8%a8%d8%aa%d9%83%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%b6%d8%b1%d8%a8%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T18:01:00.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
     },
     {
-     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
-     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T17:35:00.000Z",
-     "seen": "2026-11-20T17:55:10.249Z",
-     "impact": "يفيد الأفراد والمهتمين بالصحة العامة في مصر للتعرف على بدائل غذائية تقلل مخاطر ضغط الدم وأمراض القلب."
+     "title": "استشهاد فلسطيني برصاص حراس مستوطنة في الضفة",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a-%d8%a8%d8%b1%d8%b5%d8%a7%d8%b5-%d8%ad%d8%b1%d8%a7%d8%b3-%d9%85%d8%b3%d8%aa%d9%88%d8%b7%d9%86%d8%a9-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T18:00:05.000Z",
+     "seen": "2026-11-20T21:05:26.054Z"
     }
    ]
   },
