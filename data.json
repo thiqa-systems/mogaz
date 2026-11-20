@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:13:09.549Z",
+ "updated": "2026-11-20T09:23:09.928Z",
  "minute": [
   "أعلنت محافظة الجيزة إقامة سوق اليوم الواحد بحدائق الأهرام لتوفير السلع بأسعار مخفضة، بينما تنفذ وزارة التضامن أنشطة توعوية في المدارس حول التربية الإيجابية.",
   "شهدت الأسواق الاقتصادية ارتفاعاً في أسعار النفط ومتابعة لأسعار الدولار والعملات الأجنبية بالبنوك، إلى جانب تراجع أسهم الرقائق الإلكترونية في آسيا.",
@@ -9,7 +9,9 @@
   "at": "2026-11-20T09:03:10.157Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T09:23:09.928Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5413,
-   "change": -2.81,
-   "asOf": "2026-11-20T09:03:10.000Z",
+   "value": 5417,
+   "change": -2.74,
+   "asOf": "2026-11-20T09:15:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6180,
-   "change": -2.81,
-   "asOf": "2026-11-20T09:03:10.000Z",
+   "value": 6185,
+   "change": -2.74,
+   "asOf": "2026-11-20T09:15:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3579,
-   "change": -2.88,
-   "asOf": "2026-11-20T09:03:10.000Z",
+   "value": 3582,
+   "change": -2.82,
+   "asOf": "2026-11-20T09:15:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,16 +65,16 @@
    "unit": "$",
    "value": 1.097,
    "change": -0.02,
-   "asOf": "2026-11-20T09:12:43.000Z",
+   "asOf": "2026-11-20T09:24:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.45,
-   "change": -3.84,
-   "asOf": "2026-11-20T09:03:10.000Z",
+   "value": 88.6,
+   "change": -3.67,
+   "asOf": "2026-11-20T09:14:25.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61662,
-   "change": -0.39,
-   "asOf": "2026-11-20T09:13:07.000Z",
+   "value": 61704,
+   "change": -0.32,
+   "asOf": "2026-11-20T09:25:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تصعيد روسي واسع على أوكرانيا.. قتلى وتدمير جسور في كييف وتضرر مستشفى",
-     "url": "https://www.elbalad.news/7187610",
+     "title": "متفجرات بمحطة قطار إدنبرة ويفرلي بأسكتلندا",
+     "url": "https://www.elbalad.news/7187621",
      "source": "صدى البلد",
-     "time": "2026-11-20T09:11:27.000Z",
-     "seen": "2026-11-20T09:13:09.549Z"
+     "time": "2026-11-20T09:22:10.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
     },
     {
-     "title": "برلماني: توجيهات الرئيس السيسي بتطوير البيئة التشريعية والضريبية تعزز جاذبية مصر للاستثمارات العالمية",
-     "url": "https://www.elbalad.news/7187606",
+     "title": "بث مباشر.. شعائر صلاة الجمعة من الحرمين الشريفين",
+     "url": "https://www.elbalad.news/7187620",
      "source": "صدى البلد",
-     "time": "2026-11-20T09:09:38.000Z",
-     "seen": "2026-11-20T09:13:09.549Z"
+     "time": "2026-11-20T09:19:47.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
     },
     {
-     "title": "محمد عدوية: مش محتاج أشتري رقم واحد.. النجاح الحقيقي في أغنية تعيش",
-     "url": "https://www.elbalad.news/7187607",
+     "title": "كاتب يحذر من مخاطر الذكاء الاصطناعي: هل يتحول إلى سلاح خارج السيطرة؟",
+     "url": "https://www.elbalad.news/7187617",
      "source": "صدى البلد",
-     "time": "2026-11-20T09:07:38.000Z",
-     "seen": "2026-11-20T09:13:09.549Z"
+     "time": "2026-11-20T09:19:38.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
+    },
+    {
+     "title": "مفتي الجمهورية يعزي علا الشافعي رئيس مجلس إدارة «اليوم السابع» في وفاة والدتها",
+     "url": "https://www.youm7.com/story/2026/11/20/مفتي-الجمهورية-يعزي-علا-الشافعي-رئيس-مجلس-إدارة-«اليوم-السابع»/7625625",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T09:19:00.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
+    },
+    {
+     "title": "تعرف على اختيار الأساقفة فى لائحة المجمع المقدس الجديدة بالكنيسة",
+     "url": "https://www.youm7.com/story/2026/11/20/تعرف-على-اختيار-الأساقفة-فى-لائحة-المجمع-المقدس-الجديدة-بالكنيسة/7625627",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T09:18:00.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
     },
     {
      "title": "التضامن: تنفيذ أنشطة توعوية بمدارس 10 محافظات لنشر مفاهيم التربية الإيجابية",
@@ -164,21 +180,6 @@
      "time": "2026-11-20T09:02:00.000Z",
      "seen": "2026-11-20T09:03:10.157Z",
      "impact": "يهتم به أولياء الأمور في المحافظات المعنية لمتابعة الفعاليات التوعوية الموجهة لأبنائهم بالمدارس."
-    },
-    {
-     "title": "محافظ الجيزة يعلن إقامة سوق اليوم الواحد بحدائق الأهرام لتوفير السلع بسعر مخفض",
-     "url": "https://www.youm7.com/story/2026/11/20/محافظ-الجيزة-يعلن-إقامة-سوق-اليوم-الواحد-بحدائق-الأهرام-لتوفير/7625543",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T08:57:00.000Z",
-     "seen": "2026-11-20T09:03:10.157Z",
-     "impact": "يهم المستهلكين والسكان في منطقة حدائق الأهرام لشراء السلع الأساسية بأسعار مخفضة."
-    },
-    {
-     "title": "الفئات المستفيدة من زيادة الحد الأدنى للمعاشات فى يناير.. وهل تشمل الجميع؟",
-     "url": "https://www.youm7.com/story/2026/11/20/الفئات-المستفيدة-من-زيادة-الحد-الأدنى-للمعاشات-فى-يناير-وهل/7620158",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T08:50:00.000Z",
-     "seen": "2026-11-20T08:53:09.876Z"
     },
     {
      "title": "يدخل حيز التنفيذ اليوم.. قرار جديد من رئيس مجلس الوزراء",
@@ -361,6 +362,13 @@
      "seen": "2026-11-20T09:03:10.157Z"
     },
     {
+     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T08:54:05.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
+    },
+    {
      "title": "أمين عام مجلس التعاون الخليجي يدين \"التصريحات غير المسؤولة\" ضد الإمارات من حكومة الصومال",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/gcc-secretary-general-condemns-somali-governments-statement-against-uae",
      "source": "CNN بالعربية",
@@ -443,13 +451,6 @@
      "source": "العربية",
      "time": "2026-11-20T05:56:00.000Z",
      "seen": "2026-11-20T07:33:10.032Z"
-    },
-    {
-     "title": "الصومال تطرد السفير الإماراتي .. وأبوظبي تندد بالقرار وتصفه بـ\"غير المسؤول\"",
-     "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxOSEwxX2VycEluTzA5aDE1eXFwaHIwaHQ1NDZYeWJKRVctVWo1cmhQWDctUEVya3RrZjY5QlkxS1NGTWVvQ3kxWDQ4b1NJd1A5Y1E0eHMtd3Bvb0hhNGFLYUxraXZGZlMxNUYySFBBc2dlMk9PUDl2SURQeTBGVWFaWlljMVhfVVJMa1Jzc2ZXMkI4eFhxNEZfbkxSTGM1OFhobmQzRlZ5b25VNC1QcUh0MHpDdE1xRmFET1lFWmRVa0wzdno3ZGpLQVdUczVqazZzQldtNmx6cGNVeGlxSlZha2t1YmNhQjdHeTRZVVROTEY5di1qNHZJTmV6OXNJaFZJVWxWUUVQd0EtVGJpdmszSlJYV25QX21sVG1sZUZBUkt6UVQzeGZtM01xLVk1RE16eGhFUUlRSDMtMC1UU1lpYTRSUVFGNDdJZ2RJaFdkX0FZN1hQbFNvdVgxUC11cURYVWxoR1BTQnBlR1d2bmItblV1R05wUncxbnFMZk11ZE5DX1U2VDF1LVVFdUFCN0lrbEpPNVJabkNhQ2Y4MUcxSEcySDRYUF91OEd3OHgtMElFYzZCTktqMHFLLThraEZaRy05cnh0TmJwbnVDRkNCRUwzMlJZTUJhWmhjUUxXYkZBUnhwOG42NExwdTBJekhpQ0M2VFk1STRqSWF3VjAxbHZlYWVmVmktem9HeTgtVlhkWjJmTk14MTl2WExXdU1QWnYySFN3cHd2TnJWYlExdVZpSVVjUXJTZ18tVtIBvARBVV95cUxOalh6U0hvdi1rQ3JBZGZ3U0dTQkJXOTBLVnhReUh3QjQxQWFWQjRyNjM2aS0yOEM4RU5GdlpaYlZoQW5KUDRZeHpzal80c1hPcUFpLUJyZ1JQQjRSZTFIUFN3aU1tdklsQXpXcFRxaDFoSzhFM08tcTBzdGZaRUJ5c2luY016cGJnd2hDcXRmdGRZeHlnVGhBWXQ0Q3NnQ3lGOHExQ2ZhWWxtSFdqYno5MHlPS281Tm01WGw5SUw0V1R4eWtsZExUZzh2Q2NPeE0wbExXd0tWN0xCWk92MDdNRjUzeGRtLXZGNjdkam11VDI1cEVreDVzRldXQUVPeXFsNFpZNWJON2Jlb1RiN3lGVElnTWJRUkVmMTRsWDhXVnR5bEdnZ0N3c1Y5UG5PLVRVQzdoZVhLMTRFNGwtalB6YWUtSUEzbVpGMHlsdmNyOWtxM3hOejR2M2MzN0hRZXVtdkFkS2xZZTQzZ3dXOVc4QUU4WUItNGVrdTN6U3N2ZmIxa2hTQVhfZ3EtQXdXNVFMQjlLUkU4d3B1cU90Qlp0ZGtCQU82MHlueEg5b3RYQi16MG0wRHVkYUl2aUZiSlNYbnlyeS1YMFJsZ3IwN0tIY0hIYzh0UWdtNWRJRGMxUmVPbEV5MU95T0ZucHJuYTZhbWF6djdJRUdmQ1JtRy1OV0JqMTh5SDlWTHlmN3dDa0pBdmR2d1hxdzducFhQX3Zwczk2ZTM5aTlOanRZbEtMN1lXdXlfWmlmX3J1MQ?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-20T05:50:04.000Z",
-     "seen": "2026-11-20T09:03:10.157Z"
     }
    ]
   },
@@ -457,6 +458,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "موجة بيع تضرب الأسهم العالمية مع انهيار تداولات الذكاء الاصطناعي",
+     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS3VrMl9Oak1KU0I0MXNGaGhVWkZSZURUekVhbmRqTWZLWkkxVGhOU21ydGpRWS1IbDQtY2pNakhsTUk5RzNiMFFXdmpkYk1peEVRY1pZaC00aURYZ1Z5azgzNW41QVhOZGVabk1NOVVUS2dvTVVNSkI4TDVlUXZxSGJBUEZ1VnlpSWcwdE1SUVptaDB0YjY5cjRkNm00UWdRSml5X0c0MTBpV3ZxdHQyUW5EQlBhNXlfbkpCM2ttTUw2cHBLNXFXZE9SZ3cxSm9BU2RBZ04yal9BODloR3NWT0Q4NG1Od1VQU2phZE9kdmVfTXcxZ2dIbnNOeTRpeHBuUVE5M3RsWm05VXlzNGg0RVBhZlZ5TFVQTmpaN0xGb1VKUjZMYjRkdmdR?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-20T09:00:00.000Z",
+     "seen": "2026-11-20T09:23:09.928Z"
+    },
     {
      "title": "ترامب يقيل مدير الأمن السيبراني ويعين مسئولة دفاعية.. من هي؟",
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNaG9mRE0wMlJVZjBEbmpHUXdYaDgxRUVETkliNkF3VGRlbkppNTE1QWlwb05Qb3cxRmhsUno0QzUyREhEa3Y4SFJkb2RUdVFiX2VlME0yc0UxSnhGMXFObDZGeldod1lxZmswQ1dNa0l5ZlktSEkwdkR5TDU5c3lRcUJrOC02dnJYVjJMbDduREZEMFhoeF80VERkUVZsa2ZPLUJFZnVNR0M4N2NNNk9Ga3Z2RGk5bWpCaHo2eDJNdmZQMjhtQzdnRzZ1WUVVTURSVDJFU3JMTGg0cmlQVnRVRFJmWWt2Vi1Ubk96LUI4bXAyelI2dW44d25lQWxDOHpEdGlIWDJKSmZWN040UEY2dk9CMGY3RXBuMVRxNEFoM1dXakxRVExJNFFISHBSczZTc3pvckRhdE1JMHNWSG52N2lCdWVTTGxNVXB5eE9zb2JwcXRwX2tDV3JjWFE5RVhTWk9wSE0tLUZGUFpuV3ZwQklabDFzYjN2aHhTTG1Ud1VUNnBHaHFEOV9rVkstMTN2UXFjc0xqMFp5cVZaQzRVV0ZTMWprNGpCaFM1aGhpa2RzbjBLZGlwRkhKN0l4Tm8yRmsyRmNrVEt6a3A1MlAxd1liX3ZnU1E3THVrcXljWklFVGxKRjBv0gHiA0FVX3lxTFBoeWxZNmZYdEZrb3pWeFE3UHJXX0gyaldiOEZRX0cySThjOFVxWWdrbTRMWW82WnZiS1JJd09OUzJwSzJtTDFsRVR0N3IxQkF3R2JHZXFOUk1XT1BMOElsSjZBNTBKUlBhM0ZQa2FibmYyLVFiZ096VjBlcDNBYjFWMDBGXzJ6YlEybXV0alR6clBOY041VzIxeFVhdkh5UUJEUmRfV1ZOcUg2cTF6Zl94QmhlSWRHUVVka3lMRUFoUTgyTFUzU0N2SDhrMVJyaFhjYjJTVGx3YnJZYWFQU3gwM2V2eHB5SC1tREpjYkxTR0c2Y0JXdnVzRFZvSENJcVJpWjZSMzlhMnN1LWxCRU9lS0RhWnQySUFvWFowNGIzTk5yWW1SVlM3c01UdFpFUkF3Wlp4d0pTZmprLVR0czJzb29QREdVYVpSNVQ4LWg1ZEVSbXMtMnJfOEY3LS1NZmY0R2ZaZG4zeUh4OTdPMktkaWtYUmI1U3Fwd2RnTGI0QVdHeVRlcUlVSmZrTndWcGZCVnBGWlZLM25oQU4tOW52TktTTW9XRktwdk83MG9sdVJNTmpiMXVreUJoRDdNRzBRRUxNMm81R1lzTmJpM2xZMGxtd1lnc0dsZk5LdHlXQzFn?oc=5",
@@ -550,14 +558,6 @@
      "time": "2026-11-19T21:21:31.000Z",
      "seen": "2026-11-19T21:30:06.432Z",
      "impact": "يهم مستخدمي الحواسيب في مصر للتعرف على جاهزية أجهزتهم لاستقبال تثبيت التحديث الجديد لنظام ويندوز 11 تلقائياً."
-    },
-    {
-     "title": "ضعف الطلب على iPad Pro بشاشة OLED يهدد خطط iMac الجديد",
-     "url": "https://www.tech-wd.com/wd/2026/11/20/%d8%b6%d8%b9%d9%81-%d8%a7%d9%84%d8%b7%d9%84%d8%a8-%d8%b9%d9%84%d9%89-ipad-pro-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-oled-%d9%8a%d9%87%d8%af%d8%af-%d8%ae%d8%b7%d8%b7-imac-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af/",
-     "source": "عالم التقنية",
-     "time": "2026-11-19T21:16:45.000Z",
-     "seen": "2026-11-19T21:20:06.667Z",
-     "impact": "يفيد المستهلكين والمهتمين بالإلكترونيات بمتابعة تطورات سلاسل إنتاج وخطط أجهزة آبل في الأسواق."
     }
    ]
   }
