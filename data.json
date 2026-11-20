@@ -1,16 +1,15 @@
 {
- "updated": "2026-11-20T18:35:25.750Z",
+ "updated": "2026-11-20T18:45:26.160Z",
  "minute": [
-  "استقرت أسعار الدولار مقابل الجنيه المصري وأسعار الفضة في الصاغة خلال التعاملات.",
-  "تواصلت التطورات السياسية والإقليمية مع تصريحات أمريكية حول إيران وتوترات ميدانية في المنطقة.",
-  "أعلنت شركة أنثروبيك عن إتمام طرح واكتتاب ضخم، بينما كُشف عن بديل صحي للملح يقي من الأمراض.",
-  "شهدت الرياضة انطلاق منافسات كأس العالم للناشئين، إلى جانب استمرار الفعاليات المحلية والثقافية."
+  "تواصل وزارة النقل المصرية تنفيذ خطط تطوير وتحديث السكك الحديدية والمزلقانات لتعزيز الأمان، إلى جانب الإعلان عن عقد قمة عربية نرويجية للذكاء الاصطناعي في ديسمبر المقبل.",
+  "تشهد الأسواق استقراراً في سعر صرف الدولار مقابل الجنيه المصري وسط متابعة لمؤشرات العملة عالمياً وأسعار الفضة في الصاغة.",
+  "على الصعيد الإقليمي والدولي، تستمر التطورات الميدانية والسياسية في غزة واليمن والعراق، بالتزامن مع تصريحات روسية بشأن انضمام أوكرانيا للناتو ومفاوضات تجارية بين بريطانيا والاتحاد الأوروبي."
  ],
  "ai": {
-  "at": "2026-11-20T18:25:25.809Z",
+  "at": "2026-11-20T18:45:26.160Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 8
+  "key": 2,
+  "impacts": 9
  },
  "markets": [
   {
@@ -26,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5328,
-   "change": -4.34,
-   "asOf": "2026-11-20T18:25:25.000Z",
+   "value": 5326,
+   "change": -4.38,
+   "asOf": "2026-11-20T18:37:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6083,
-   "change": -4.34,
-   "asOf": "2026-11-20T18:25:25.000Z",
+   "value": 6081,
+   "change": -4.38,
+   "asOf": "2026-11-20T18:37:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3523,
-   "change": -4.41,
-   "asOf": "2026-11-20T18:25:25.000Z",
+   "value": 3522,
+   "change": -4.45,
+   "asOf": "2026-11-20T18:37:26.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0975,
-   "change": 0.03,
-   "asOf": "2026-11-20T18:34:46.000Z",
+   "value": 1.0967,
+   "change": -0.05,
+   "asOf": "2026-11-20T18:46:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.41,
-   "change": -2.79,
-   "asOf": "2026-11-20T18:25:25.000Z",
+   "value": 89.34,
+   "change": -2.87,
+   "asOf": "2026-11-20T18:37:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7034,
-   "change": -1.98,
-   "asOf": "2026-11-20T18:35:17.000Z",
+   "value": 7013,
+   "change": -2.28,
+   "asOf": "2026-11-20T18:47:30.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59048,
-   "change": -4.61,
-   "asOf": "2026-11-20T18:35:26.000Z",
+   "value": 58110,
+   "change": -6.13,
+   "asOf": "2026-11-20T18:47:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,31 +137,40 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الخارجية الروسية: انضمام أوكرانيا إلى الناتو أو حصولها على عضوية جزئية فيه \"غير مقبول\"",
+     "url": "https://www.elbalad.news/7188135",
+     "source": "صدى البلد",
+     "time": "2026-11-20T18:44:14.000Z",
+     "seen": "2026-11-20T18:45:26.160Z"
+    },
+    {
+     "title": "وداعا للنظم القديمة.. تشغيل برج إشارات بورسعيد وتحديث 82 مزلقانا و40 برجا ضمن خطة \"النقل\" لتعزيز الأمان بالسكة الحديد",
+     "url": "https://www.elbalad.news/7188136",
+     "source": "صدى البلد",
+     "time": "2026-11-20T18:44:06.000Z",
+     "seen": "2026-11-20T18:45:26.160Z",
+     "impact": "يسهم تحديث مزلقانات وأبراج إشارات السكك الحديدية في تعزيز مستويات الأمان وتسهيل نقل الأفراد والبضائع داخل مصر."
+    },
+    {
+     "title": "مصطفى بكري يحذر من مؤامرة لإثارة الفوضى في مصر قبل انتخابات 2030",
+     "url": "https://www.elbalad.news/7188129",
+     "source": "صدى البلد",
+     "time": "2026-11-20T18:42:48.000Z",
+     "seen": "2026-11-20T18:45:26.160Z"
+    },
+    {
+     "title": "اتحاد الكيانات المصرية: قمة عربية نرويجية للذكاء الاصطناعي 13 ديسمبر",
+     "url": "https://www.youm7.com/story/2026/11/20/اتحاد-الكيانات-المصرية-قمة-عربية-نرويجية-للذكاء-الاصطناعي-13-ديسمبر/7626387",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T18:39:00.000Z",
+     "seen": "2026-11-20T18:45:26.160Z",
+     "impact": "تتيح القمة الفرصة للمستثمرين والمهتمين بالتقنية في مصر للتعرف على التطورات وتعزيز الشراكات في مجال الذكاء الاصطناعي."
+    },
+    {
      "title": "ترامب يطالب بمنح رئيس إنفيديا السابق فرصة ثانية وعودته لمنصبه بعد الاعتذار",
      "url": "https://www.youm7.com/story/2026/11/20/ترامب-يطالب-بمنح-رئيس-إنفيديا-السابق-فرصة-ثانية-وعودته-لمنصبه/7626388",
      "source": "اليوم السابع",
      "time": "2026-11-20T18:33:00.000Z",
-     "seen": "2026-11-20T18:35:25.750Z"
-    },
-    {
-     "title": "نسرين طافش: مهرجان القاهرة السينمائي منصة للفن الحقيقي.. وأحرص على مشاهدة الأفلام",
-     "url": "https://www.elbalad.news/7188124",
-     "source": "صدى البلد",
-     "time": "2026-11-20T18:32:42.000Z",
-     "seen": "2026-11-20T18:35:25.750Z"
-    },
-    {
-     "title": "موجة بيع أسهم الذكاء الاصطناعي تهوي بالنحاس وتدفع المعادن الصناعية لأكبر خسائرها منذ سنوات",
-     "url": "https://www.elbalad.news/7188121",
-     "source": "صدى البلد",
-     "time": "2026-11-20T18:31:19.000Z",
-     "seen": "2026-11-20T18:35:25.750Z"
-    },
-    {
-     "title": "ترامب: إيران تريد اتفاقا لكن ليس بالشروط التي أقبلها.. ولن نسمح لها بامتلاك سلاح نووي أبدا",
-     "url": "https://www.elbalad.news/7188123",
-     "source": "صدى البلد",
-     "time": "2026-11-20T18:30:52.000Z",
      "seen": "2026-11-20T18:35:25.750Z"
     },
     {
@@ -171,14 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T18:25:00.000Z",
      "seen": "2026-11-20T18:25:25.809Z"
-    },
-    {
-     "title": "مسار كسوف القرن 2027.. الأقصر تسجل أطول مدة للظلام الكامل (فيديو)",
-     "url": "https://www.youm7.com/story/2026/11/20/مسار-كسوف-القرن-2027-الأقصر-تسجل-أطول-مدة-للظلام-الكامل/7626364",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T18:16:00.000Z",
-     "seen": "2026-11-20T18:25:25.809Z",
-     "impact": "يهتم به المواطنون والعاملون بقطاع السياحة في مصر لمتابعة الظاهرة الفلكية وتأثيرها المرتقب على الحركة السياحية بالأقصر."
     },
     {
      "title": "إنفوجراف.. أبرز أنشطة رئيس مجلس الوزراء هذا الأسبوع",
@@ -248,7 +248,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T18:00:00.000Z",
      "seen": "2026-11-20T18:05:25.566Z",
-     "impact": "يشير استقرار سعر الدولار إلى ثبات التكاليف للمستوردين والأفراد المصريين في التعاملات اليومية."
+     "impact": "يساعد استقرار سعر الدولار الأفراد والمستوردين في مصر على التخطيط المالي وتحديد تكاليف السلع بشكل أكثر دقة."
     },
     {
      "title": "مسيّرات إسرائيلية تلقي منشورات تدعو للتواصل مع ضباط أمن وأخرى تلقي عبوات متفجرة في غزة",
@@ -263,7 +263,7 @@
      "source": "صدى البلد",
      "time": "2026-11-20T17:45:00.000Z",
      "seen": "2026-11-20T17:55:10.249Z",
-     "impact": "يساعد المتعاملين والمستثمرين في مصر على معرفة الأسعار الرسمية للصرف وحساب تكاليف التحويلات والواردات."
+     "impact": "يوفر معرفة سعر الدولار الرسمي في البنوك شفافية للمتعاملين والمستثمرين لإجراء تعاملاتهم المالية بثبات."
     },
     {
      "title": "سعر الجنيه الفضة في الصاغة اليوم الجمعة 20 نوفمبر 2026",
@@ -271,7 +271,7 @@
      "source": "فيتو",
      "time": "2026-11-20T17:13:00.000Z",
      "seen": "2026-11-20T17:15:10.439Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر الراغبين في ادخار أو شراء الفضة كملاذ استثماري بديل."
+     "impact": "تفيد متابعة أسعار الجنيه الفضة الراغبين في ادخار أو استثمار أموالهم في المعادن النفيسة كبديل مالي."
     },
     {
      "title": "آخر تطورات حركة مؤشر الدولار بالتداولات العالميه اليوم الجمعة",
@@ -279,7 +279,7 @@
      "source": "فيتو",
      "time": "2026-11-20T16:18:00.000Z",
      "seen": "2026-11-20T16:25:10.687Z",
-     "impact": "تؤثر حركة مؤشر الدولار عالمياً على أسعار السلع وحجم التجارة الخارجية ومعدلات التضخم في مصر."
+     "impact": "تساعد متابعة مؤشر الدولار عالمياً المستثمرين في توقع اتجاهات أسعار الفائدة والأسواق المالية التأثيرية."
     },
     {
      "title": "تراجع كبير في حركة مؤشر الذهب عالميا اليوم الجمعة والأونصة تسجل 3580 دولارا",
@@ -351,6 +351,21 @@
    "title": "العالم",
    "items": [
     {
+     "title": "العراق ينشئ 12 نقطة أمنية لحماية نفط جرف النصر",
+     "url": "https://www.skynewsarabia.com/middle-east/1906118-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D8%B4%D8%A6-12-%D9%86%D9%82%D8%B7%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%86%D9%81%D8%B7-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T18:42:54.000Z",
+     "seen": "2026-11-20T18:45:26.160Z"
+    },
+    {
+     "title": "الحوثيون يعلنون استهداف ميناء جازان ومحطة الشقيق الكهربائية بالسعودية",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/houthis-claim-attacks-jazan-port-al-shuqaiq-power-plant-coalition",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T18:33:56.000Z",
+     "seen": "2026-11-20T18:25:25.809Z",
+     "impact": "قد تؤثر التوترات الإقليمية في الخليج على أسعار الطاقة وشحن البضائع مما ينعكس على الأسواق المحلية."
+    },
+    {
      "title": "مصادر لسكاي نيوز عربية: فالح الزيدي يزور جرف الصخر السبت",
      "url": "https://www.skynewsarabia.com/middle-east/1906120-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%84%D8%B3%D9%83%D8%A7%D9%8A-%D9%86%D9%8A%D9%88%D8%B2-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA",
      "source": "سكاي نيوز عربية",
@@ -370,14 +385,6 @@
      "source": "DW عربية",
      "time": "2026-11-20T18:15:00.000Z",
      "seen": "2026-11-20T18:35:25.750Z"
-    },
-    {
-     "title": "الحوثيون يعلنون استهداف ميناء جازان ومحطة الشقيق الكهربائية بالسعودية",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/houthis-claim-attacks-jazan-port-al-shuqaiq-power-plant-coalition",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T18:14:45.000Z",
-     "seen": "2026-11-20T18:25:25.809Z",
-     "impact": "قد تؤثر التوترات الإقليمية في الخليج على أسعار الطاقة وشحن البضائع مما ينعكس على الأسواق المحلية."
     },
     {
      "title": "تونس: الحكم بسجن الناشطة الحقوقية البارزة سهام بن سدرين خمس سنوات",
@@ -437,13 +444,6 @@
      "seen": "2026-11-20T16:55:10.657Z"
     },
     {
-     "title": "الجيش العراقي لسكاي نيوز عربية: دخول جرف الصخر قرار سيادي",
-     "url": "https://www.skynewsarabia.com/middle-east/1906103-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%84%D8%B3%D9%83%D8%A7%D9%8A-%D9%86%D9%8A%D9%88%D8%B2-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AF%D8%AE%D9%88%D9%84-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%8A%D8%A7%D8%AF%D9%8A",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T16:31:39.000Z",
-     "seen": "2026-11-20T16:45:11.131Z"
-    },
-    {
      "title": "بريطانيا والاتحاد الأوروبي يعلنان إنجاز اتفاقات جديدة تشمل التجارة وتنقل الشباب وخلاف بشأن الرسوم الجامعية",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSm9KUlFsQ3RBZ0JucU1SNy1rZEhxaGcyUEVIUWNJMmkzeTV5NGcyZUh4SV9JYlFWQ21adm9TUmNnblltckU4NTdxZXRXMTRrNHRBSnVMcDZfNXpRQUHSAWNBVV95cUxNOFZFNEg4Z0stU0NjTkFQQUIzcmh4SnJ5YnBKZG9aclRhUVNfWjBrZ1lfTngtX09kbmVFTHNZT212eWgwa1MtdWh3QTBQMGRraTdjS21Felc2TjJ3UWVnU01RLTg?oc=5",
      "source": "BBC",
@@ -462,14 +462,15 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T15:50:35.000Z",
      "seen": "2026-11-20T15:55:11.039Z",
-     "impact": "يهتم به المهتمون بقطاع التكنولوجيا والشركات الناشئة في مصر للتعرف على اتجاهات الاستثمار عالمياً."
+     "impact": "يعكس الطرح الضخم لشركة أنثروبيك فرص النمو في قطاع الذكاء الاصطناعي للمستثمرين المهتمين بالأسهم التكنولوجية."
     },
     {
      "title": "سامسونج تطرح أول تحديث لسلسلة Galaxy Tab S12 بحزمة أكتوبر الأمنية",
      "url": "https://www.tech-wd.com/wd/2026/11/20/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a3%d9%88%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-galaxy-tab-s12-%d8%a8%d8%ad%d8%b2%d9%85%d8%a9/",
      "source": "عالم التقنية",
      "time": "2026-11-20T15:34:33.000Z",
-     "seen": "2026-11-20T15:35:10.815Z"
+     "seen": "2026-11-20T15:35:10.815Z",
+     "impact": "يهم تحديث سامسونج الأمني مستخدمي أجهزة Galaxy Tab S12 في مصر لحماية بياناتهم الشخصية وأجهزتهم."
     },
     {
      "title": "من هي كتائب حزب الله العراقية وما علاقتها بأزمة جرف الصخر؟",
@@ -484,7 +485,7 @@
      "source": "BBC عربي",
      "time": "2026-11-20T14:23:17.000Z",
      "seen": "2026-11-20T09:03:10.157Z",
-     "impact": "يهتم به المستثمرون لمتابعة التغيرات في حركة التجارة بين بريطانيا وأوروبا وأثرها على الأسواق الدولية."
+     "impact": "قد تؤثر اتفاقات التجارة وتنقل الشباب بين بريطانيا والاتحاد الأوروبي على المصريين المهتمين بالسفر أو الدراسة أو العمل هناك."
     },
     {
      "title": "الحوثيون يهددون موانئ السعودية والمركز المالي بالرياض رداً على تحذير التحالف بإخلاء ميناء الحديدة",
@@ -533,6 +534,13 @@
      "impact": "تظهر الاختراقات السيبرانية للمؤسسات الحكومية أهمية زيادة استثمارات الشركات المصرية في مجال الأمن السيبراني."
     },
     {
+     "title": "النيابة تفحص مخدرات ضُبطت بحوزة زوجة إسلام كابونجا",
+     "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQcEpCTDdfVko2SzZKYndNb01CZFB2dl9VNloydmVkUDN0SWdWR2MtT0RhczNoYjdsSG1WYWNuUVdMcjRuZmtPMnMwdTJqZjQyVDNKUUJhbzNKWW5RM21QN3RKSGY2NEd4UU9lZ1gyeEk0Uzk1VGVBZzlNUzZvTVhTUklJSlVBTVJoREJHLTFIQWhhU0dhd2lCcHJrT0xPSmtLbC10ekIxa3F0dFpndVNNUnhhNXZnb0JlQjhEUFhIRFl2ZlFmN3ZXT2plTlB4dU1mSE1UNzhtT0J0WXdhSUl4OFRIb1lqMkZ5TGpMV1dGR28xWUpOa3lyRlR3cHRIcl9oV3ZKZkY2Umkya1dxcEZtVmY5OXJCYzgwV0hjMjJEd3hSSlpXQVhSb084R29OUWtfcUZvSm1GSjlnc2RueFB3TXpOLVNNaE5iSXBKeHBDNVhDRDJOcTZjZWxvTEsyaHFfd0xITF9Sa2tlX0IxNzZCcnBKeHFrQnlobUJQZElwR1RwclY4SkZDR0pXamhXbGFQVFhvQlRqR2dHcFF2Rlg3YUN0M0kwaVdlSFpMcVdsNVR3Szhzam1VYzQ5b07SAbcDQVVfeXFMT3FQU3RKNmJ6QkVIMVBxMm45NUFzTzhjTUlwS0lUVDhmUnVvYTBiNEVjRGJzSkpIZURZQXJIU2JaZUpYbHlSVjA1VEhpNnFWdUxnQmJNc21HMldGSVJ2Y1JPS1N2MEhGRnhSREFnMWk0OHk0WWRJRnZ6WGZuQ0hSUUU3Nkk2MDVQYUdUQ1BfUmpCanVVWEF6MUpNeDZYMmlTRGtuMmtqdm9jcng0X25UNlJVTWxqczA0ejJHcXFZTFhfckxnRWV5Tm5uMTNrQWFHZ2llUHpuSnNtX3FveDExNHBzVjVleDNCd1pDSkNCT19YdXh5X29kMThtUU9iT2xzTU83TVN0Yy1EUk5yVlRMcTFEemRjd1pydW83NFMxYUM3Yllnc3BEQ1E0dVdoSU16aW1xcERkQkNBOG1DLU9LaDhNdjhlUmJNaU1aM1RMX3E3ZTFtT04wUGhHZmVvWE81UmwwUG5RRHVTMWFHT1hPYldTbUdOU1dpbVA0VWc3bDlaWEdrd1B5S3lwSktwWjdlRG8xaEx3WmkxdXdxZGNyMkM0S1pFRVZqUkVrQmh3Nzd1VFVzclhnVQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T09:22:00.000Z",
+     "seen": "2026-11-20T18:45:26.160Z"
+    },
+    {
      "title": "استدعاء قضائى لـNvidia.. هل وصلت رقائقها السرية إلى الصين؟",
      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQcm9paWQ0VEQtUkVNa3NwUF9EQ3BlSWZweTdWeTVscWFoZ1NVb0FEQVJZc1phbzdrWWh3Zl83ZkM2T0REUUg4TjJUQmJBOFUyU3pjLUV2SDA2MnlWU0xOMFJsQTlmcDRvX0pxVDZHV3dacDB2R2xuSU5rQkhpck1fek1xZk5QU0M4SDhPLU5ySzA2Wngzcm41bXQtSEJpV1hON2FXRVlZWl9oal9YMlBCazhWQUdiZVFzcEE0S1lEYl83UFI0OWIwRUY3V0tmUXotQVV6bklMTG41QUF1NkNSNUd3Skp3MDdwYVA2OEtBQUxoLTI4ZmstbWU2TnpkaTFZd054V2ltTXh1NEFZLXQwSkd3MzEwZUxLdEJIX0o4Mjc3X1YzTm9jV1FiSGRjbEVRdW0yaDhON055ZzRWcmxTb3ZOY3RSZFhJUV94ek0zb25aS2tMbThkVHNQSzMzVzduX2hIRWt0aWFGNUktc3hvLVV5dTZTT2ZGTGFzeEVKZnBhemo4N1BMaE8ydlFyclBmeU53cnQxNWM5R2VQLWcwOVpVc01FcHVSczRrYThiWWhDOE9KNXfSAbADQVVfeXFMT19hTURmQ1lrUzI2WWJZVzUwN3YwOTdFZzZOaGZUUjBETGZhRTJLSzV0ZnVGRDVoQmpMUUlBOFVFcEhqT054OTZVX0RYMHhxMEh2MGR3ZXAxUTIyWjJDTFVEeG5ObUNodTlpVFFGWnNhbzFqVWhjTHhOUGhUZ3kwY2s2eVVkUzdUVlhsdGZyVnVXWmppWW5rLTQ4SFd6Ym5WUHc2bFJLUm5BNDVnQnl0ZnVYRUJESWFlQ0VCaHRnbmxLREh5ek5rZHNSRE1QSGhEUDdReWZmTG9UWXRIU3FKdkM4c0hyQWVmNGxxeTV3U0NBSVVVRXJJZDR6Z1IzMkxkSEs3bXFNaUNWTzh3ZmRVVU40S2lrS2c5aWQ1VkFoc09rWU1VUEFKbmItV2hFVTF6eFZ2eHFRWHE1QTI4cFZKRmRGQ1Nnb1dZdUFtV081b1hHRWNXMExkckNCSE1PX0Yxc1BwcXQ4NXdnanVwWFl4X2J6bm1EN212ajBfRk1RNTNuOEtrenBMdTZHYm45NWNBLWxJejR5ZGtRUUVwVlZOWFZYSHg2NzdFNDdURjlJUnRN?oc=5",
      "source": "اليوم السابع",
@@ -553,17 +561,21 @@
      "source": "العربية",
      "time": "2026-11-20T07:57:00.000Z",
      "seen": "2026-11-20T12:23:09.663Z"
-    },
-    {
-     "title": "«الفجر»... قصة الاستقلال اللبناني مقرونة بالذكاء الاصطناعي",
-     "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5343660-%D8%A7%D9%84%D9%81%D8%AC%D8%B1-%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%85%D9%82%D8%B1%D9%88%D9%86%D8%A9-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T07:49:00.000Z",
-     "seen": "2026-11-20T16:15:10.923Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "world",
+   "feed": "فرانس 24",
+   "error": "HTTP 403"
+  }
+ ],
  "marketErrors": []
 }
