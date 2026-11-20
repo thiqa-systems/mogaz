@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:45:11.068Z",
+ "updated": "2026-11-20T17:55:10.249Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T17:45:11.068Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T17:55:10.249Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5340,
-   "change": -4.12,
-   "asOf": "2026-11-20T17:31:51.000Z",
+   "value": 5334,
+   "change": -4.23,
+   "asOf": "2026-11-20T17:45:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6097,
-   "change": -4.12,
-   "asOf": "2026-11-20T17:31:51.000Z",
+   "value": 6090,
+   "change": -4.23,
+   "asOf": "2026-11-20T17:45:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3531,
-   "change": -4.19,
-   "asOf": "2026-11-20T17:31:51.000Z",
+   "value": 3527,
+   "change": -4.3,
+   "asOf": "2026-11-20T17:45:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0982,
-   "change": 0.09,
-   "asOf": "2026-11-20T17:41:45.000Z",
+   "value": 1.0976,
+   "change": 0.04,
+   "asOf": "2026-11-20T17:54:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.93,
-   "change": -3.32,
-   "asOf": "2026-11-20T17:31:33.000Z",
+   "value": 89.03,
+   "change": -3.21,
+   "asOf": "2026-11-20T17:45:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7021,
-   "change": -2.16,
-   "asOf": "2026-11-20T17:41:48.000Z",
+   "value": 7019,
+   "change": -2.19,
+   "asOf": "2026-11-20T17:55:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58979,
-   "change": -4.72,
-   "asOf": "2026-11-20T17:45:19.000Z",
+   "value": 58994,
+   "change": -4.7,
+   "asOf": "2026-11-20T17:55:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "هل يجوز الاعتماد على الذكاء الاصطناعي لتحديد وقت الصلاة؟.. الإفتاء تحذر",
-     "url": "https://www.elbalad.news/7188077",
+     "title": "الابتزاز الإلكتروني وسرقة الحسابات.. مباحث الإنترنت تكشف أكثر الجرائم انتشارًا",
+     "url": "https://www.elbalad.news/7188080",
      "source": "صدى البلد",
-     "time": "2026-11-20T17:44:33.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
+     "time": "2026-11-20T17:54:29.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
+    },
+    {
+     "title": "بريطانيا والاتحاد الأوروبي يتوصلان إلى اتفاقات بشأن التجارة والسفر",
+     "url": "https://www.elbalad.news/7188086",
+     "source": "صدى البلد",
+     "time": "2026-11-20T17:53:14.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
+    },
+    {
+     "title": "الخزانة الأمريكية: ترامب وشي يتفقان على إبقاء القرارات العسكرية الكبرى المرتبطة بالذكاء الاصطناعي تحت إشراف بشري",
+     "url": "https://www.elbalad.news/7188083",
+     "source": "صدى البلد",
+     "time": "2026-11-20T17:53:05.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
+    },
+    {
+     "title": "من اللجان إلى الممثل العام.. قيادى فلسطينى يوضح هيكل القيادة داخل سجون إسرائيل",
+     "url": "https://www.youm7.com/story/2026/11/20/من-اللجان-إلى-الممثل-العام-قيادى-فلسطينى-يوضح-هيكل-القيادة/7626353",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T17:53:00.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
     },
     {
      "title": "الأوقاف في اليوم العالمي للطفل: حمايته ورعايته أمانة شرعية ومسؤولية مجتمعية",
@@ -153,31 +174,10 @@
      "seen": "2026-11-20T17:45:11.068Z"
     },
     {
-     "title": "القوات الروسية تستهدف 12 سفينة محملة بأسلحة ومعدات تدعم الجيش الأوكراني خلال أسبوع",
-     "url": "https://www.elbalad.news/7188073",
-     "source": "صدى البلد",
-     "time": "2026-11-20T17:41:44.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
-    },
-    {
-     "title": "مليارا جنيه ومليون شجرة.. أبرز مستهدفات توصيات منتدى مصر 2026 لحماية البيئة",
-     "url": "https://www.elbalad.news/7188072",
-     "source": "صدى البلد",
-     "time": "2026-11-20T17:41:35.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
-    },
-    {
      "title": "ترامب: نريد اتفاقا حقيقيا مع إيران وليس زائفا.. وأسعار الوقود ستتراجع",
      "url": "https://www.youm7.com/story/2026/11/20/ترامب-نريد-اتفاقا-حقيقيا-مع-إيران-وليس-زائفا-وأسعار-الوقود/7626337",
      "source": "اليوم السابع",
      "time": "2026-11-20T17:40:00.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
-    },
-    {
-     "title": "النائب العام يؤدي واجب العزاء في وفاة نجل المستشار عبد الوهاب عبد الرازق",
-     "url": "https://www.youm7.com/story/2026/11/20/النائب-العام-يؤدي-واجب-العزاء-في-وفاة-نجل-المستشار-عبد/7626335",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T17:39:00.000Z",
      "seen": "2026-11-20T17:45:11.068Z"
     },
     {
@@ -242,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "مسيّرات إسرائيلية تلقي منشورات تدعو للتواصل مع ضباط أمن وأخرى تلقي عبوات متفجرة في غزة",
+     "url": "https://www.bbc.com/arabic/articles/cmn90vp0r411o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T17:51:19.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
+    },
+    {
+     "title": "رسميا.. سعر الدولار اليوم مقابل الجنيه في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoMVA4MW1OelZIbWtCUjNvWG53anozUmtHNnhYRm9YNnBJQUU1VnZZWFNoaXVLcnNRMlkySVFSMElOWloyMVJB?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-20T17:45:00.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
+    },
     {
      "title": "سعر الجنيه الفضة في الصاغة اليوم الجمعة 20 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTX0dOYlRiZE9pOW5qVlgyWXpHalBwN2VTZEdWNk04S1J4NjBOQzdnOW1ueEV6b3plSEdnY1hBZ3dab3JwempN?oc=5",
@@ -325,20 +339,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-20T15:18:00.000Z",
      "seen": "2026-11-20T16:55:10.657Z"
-    },
-    {
-     "title": "من هي كتائب حزب الله العراقية وما علاقتها بأزمة جرف الصخر؟",
-     "url": "https://www.bbc.com/arabic/articles/c67829jkelx3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T14:55:09.000Z",
-     "seen": "2026-11-20T15:05:10.637Z"
-    },
-    {
-     "title": "عاجل: مجلس الذهب العالمي يصدر تحذير مع تصاعد الضغوط على الذهب",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PYk5iYWZuUlE4MmNfVVBzX054VDNXanY2VGFURDRNenVEdjhId2ZjaDRCZjdQN29DTmxnVUZ3ZUZod3dVU1ZHS0lGSjZkSHVjZ2Y5Q0o2bGVmbFRTYjJEVVZoWl9rT3NReGhkRENfRQ?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-20T14:34:00.000Z",
-     "seen": "2026-11-20T17:25:10.574Z"
     }
    ]
   },
@@ -352,6 +352,13 @@
      "source": "فرانس 24",
      "time": "2026-11-20T17:41:37.000Z",
      "seen": "2026-11-20T17:45:11.068Z"
+    },
+    {
+     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T17:35:00.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
     },
     {
      "title": "مباشر: مؤتمر صحفي للرئيس الأمريكي دونالد ترامب غداة القمة الثلاثية مع شي وبوتين",
@@ -373,6 +380,13 @@
      "source": "DW عربية",
      "time": "2026-11-20T17:14:00.000Z",
      "seen": "2026-11-20T17:15:10.439Z"
+    },
+    {
+     "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
+     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T17:12:41.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
     },
     {
      "title": "ألمانيا ـ احباط مخطط مفترض لاستهداف مسجد بأسلحة مطبوعة ثلاثياً",
@@ -424,25 +438,11 @@
      "seen": "2026-11-20T17:15:10.439Z"
     },
     {
-     "title": "\"من رفوف المعرفة إلى منابر الإبداع\".. مشروع يحول الطلبة من قراء إلى صناع للأفكار",
-     "url": "https://www.aljazeera.net/culture/2026/11/20/%d9%85%d9%86-%d8%b1%d9%81%d9%88%d9%81-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d8%a9-%d8%a5%d9%84%d9%89-%d9%85%d9%86%d8%a7%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d8%a8%d8%af%d8%a7%d8%b9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T14:29:00.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
-    },
-    {
-     "title": "حين دمرت باريس النقابات.. لماذا تدفع شوارع فرنسا ثمن الفوضى؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/20/%d8%ad%d9%8a%d9%86-%d8%af%d9%85%d8%b1%d8%aa-%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%af%d9%81%d8%b9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T14:28:54.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
-    },
-    {
-     "title": "واشنطن تضيق على ترمب.. هل تصبح السياسة الخارجية ملاذه الأخير؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/20/%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%aa%d8%b6%d9%8a%d9%82-%d8%b9%d9%84%d9%89-%d8%aa%d8%b1%d9%85%d8%a8-%d9%87%d9%84-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T14:27:13.000Z",
-     "seen": "2026-11-20T17:45:11.068Z"
+     "title": "من هي كتائب حزب الله العراقية وما علاقتها بأزمة جرف الصخر؟",
+     "url": "https://www.bbc.com/arabic/articles/c67829jkelx3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T14:55:09.000Z",
+     "seen": "2026-11-20T15:05:10.637Z"
     }
    ]
   },
