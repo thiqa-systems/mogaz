@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:51:45.291Z",
+ "updated": "2026-11-20T06:53:10.145Z",
  "minute": [
   "شملت الأخبار المحلية متابعة لأسعار العملات وحركة الدولار في البنوك بالإضافة إلى إرشادات التطعيمات وحالة الطقس بمصر.",
   "تناولت التقارير الاقتصادية والمالية أسباب هبوط أسعار الذهب بالتزامن مع تراجع الأسهم وحركة السيولة في الأسواق.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 2,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T06:51:45.291Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T06:53:10.145Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5377,
-   "change": -3.46,
-   "asOf": "2026-11-20T06:42:48.000Z",
+   "value": 5379,
+   "change": -3.43,
+   "asOf": "2026-11-20T06:45:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6139,
-   "change": -3.46,
-   "asOf": "2026-11-20T06:42:48.000Z",
+   "value": 6141,
+   "change": -3.43,
+   "asOf": "2026-11-20T06:45:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3555,
-   "change": -3.55,
-   "asOf": "2026-11-20T06:42:48.000Z",
+   "value": 3556,
+   "change": -3.52,
+   "asOf": "2026-11-20T06:45:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.099,
    "change": 0.16,
-   "asOf": "2026-11-20T06:52:45.000Z",
+   "asOf": "2026-11-20T06:54:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.84,
-   "change": -2.33,
-   "asOf": "2026-11-20T06:41:57.000Z",
+   "value": 89.85,
+   "change": -2.32,
+   "asOf": "2026-11-20T06:45:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61939,
-   "change": -1.66,
-   "asOf": "2026-11-20T06:52:45.000Z",
+   "value": 62002,
+   "change": -1.56,
+   "asOf": "2026-11-20T06:55:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "طقس اليوم.. ارتفاع طفيف في درجات الحرارة وتحذير من الشبورة",
+     "url": "https://www.elbalad.news/7187534",
+     "source": "صدى البلد",
+     "time": "2026-11-20T06:52:06.000Z",
+     "seen": "2026-11-20T06:53:10.145Z"
+    },
+    {
      "title": "صباح الجمعة.. تعرف على الحالة المرورية بشوارع وميادين القاهرة والجيزة",
      "url": "https://www.elbalad.news/7187533",
      "source": "صدى البلد",
@@ -151,13 +158,6 @@
      "url": "https://www.elbalad.news/7187531",
      "source": "صدى البلد",
      "time": "2026-11-20T06:36:19.000Z",
-     "seen": "2026-11-20T06:41:45.088Z"
-    },
-    {
-     "title": "بولندا تغلق مطار جيشوف",
-     "url": "https://www.elbalad.news/7187530",
-     "source": "صدى البلد",
-     "time": "2026-11-20T06:35:13.000Z",
      "seen": "2026-11-20T06:41:45.088Z"
     },
     {
@@ -246,12 +246,26 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "اتهام السعودية باستهداف قارب مدني في اليمن ما أسفر عن مقتل 19 شخصاً، واعتراض صاروخ ومسيرات أُطلقت باتجاه المملكة",
+     "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T06:50:19.000Z",
+     "seen": "2026-11-20T06:53:10.145Z"
+    },
+    {
      "title": "أسعار العملات اليوم الجمعة 20 نوفمبر 2026 في البنك المركزي المصري",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wVHllSnRaOGN2eFdfLWlTdW05NGk4QjBEOEtDaXZ5NFFWQ3RDMzkwOHdxRkJYb1RXc1VPMmhaVTYwWmZ6dFE?oc=5",
      "source": "القاهرة 24",
      "time": "2026-11-20T05:33:23.000Z",
      "seen": "2026-11-20T05:41:44.563Z",
      "impact": "يساعد المستثمرين والأفراد في مصر على متابعة التحديثات الرسمية لأسعار سلة العملات لدى البنك المركزي المصري."
+    },
+    {
+     "title": "سعر الذهب الجمعة 20 نوفمبر 2026.. استقرار عيار 21 بعد خسائر 65 جنيهًا",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQRE1iMDVTckNqZVE5YjlMZmF4eHBiTUJTWENkZGQxSklfanp5UVUyMW9Ucmx3eHI1ZkhkNGVFQWlzSDhvTjlhSUIySnljSHRpSXNZQW5FQ3lEVXR2MUJtVWpWcGRURVA4SERQMUNQLXIxZm5JYUdQUHRzWXNocFFYSFJUeWpUWmxrTmoyTzNlZ0x2VDlkcHduT0g1WWhJWDVLdlZzeWIxaS1ieHdPX0htM3c3VFVYWlh6NHdSaU1oTkVxRlpsZzM1dVV4dlg2UjdTbHc3YlVqTHl3b2Ewa3Mzb0xVdmhPM0JOX0VUUnd4clAzUURBYjdaWUpuV25OdGlnLWh2YkhjRnlfVGFQWjlEdnJhbklvak1QblNBNV92NU1KaHhQalpDWUVnak12TC1SOEF5emV5R1FZdmNQdmxCT1g0NVZsRml3VjZrZ0w1S3VEc3VseFJEWEVUQnAwWnpNSC1jZGVjbm5BaHBHeXZSaDJzQUFWbi1JRHh0Z0FxYWVUUdIB_AJBVV95cUxPNVVVVkFTZ3JGQ2labjVUVThuaEZiQmFvVWFoMUJoMEFCM0FZbjBWd21QYVIycTN0SGZkcG1HY0JqR0otaGRBOTFYN1NhNlZnRWkzVXhCWkNrTkdtVk5EekNRWUJuMG5iVEdYcjRFM3JGdzJnNHIzWGNkeW9hZy1GRGhsb1dlU181dDhjTzJJU1UtcThlUGpRcng2dXkyYjVIdzNfODRrVV8weEJSa1NUZWdvYkJkWFY3VXVGT29GdGRRMmxNU0NpS3QzTlA2YVdtUHBFVHpGTC1vazVDclBiV0pjTVhNbnJkYjZJZXQ0TzhKTExVaHhWVDZ0QVNweVlYT3JPX2hhRXpSS0FhUmdYZW5mWEY5N2tPMWZTS090eTMtRUVCaEJJWTRqaTJfRllNTHB1ZVNGdjU5TnhEVlVlZnJXVGhVelZXNEJUcUJEZFdHQ2pyQk95OEY5Mmh1cjlMYXluRGdyU2dMRzhyakJuR1VNTVRkZ0wwNEctaQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T05:00:00.000Z",
+     "seen": "2026-11-20T06:53:10.145Z"
     },
     {
      "title": "سعر الدولار في البنوك الآن",
@@ -306,14 +320,6 @@
      "impact": "يفيد المهتمين بالأسواق المالية في فهم تقلبات أسعار الذهب وعلاقتها بحركة السيولة واستقرار الدولار."
     },
     {
-     "title": "سعر الدولار اليوم الجمعة 20/11/2026 أمام الجنيه.. بكم في البنك المركزي؟",
-     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNVDZHT2RGTnplazZydUZCU0g3LXdYb3IwUkUzRzNORTJqbTE3cnFPNkZ0b0xRLTRTYnNmeEoxUUsyZUdDMjFuemRPZUlSRnJNaWRSOE5RclhmUG1MLXF2aVFlQWdEV1hpV3lEdEVrVEt2VWpOMmI3alQtN0Q5UzZ1Z01HNDVEVnVpRnhQZVljWk9EN2NtOUU1c2JkTHExaUFsc1Nydm1QWEpiR0tiemJiMEtwVDNTM2cxQ1lRLXVpRDRkalBkRy1hY2lGNC1IV25SZmRWOFA1SVdLS2t4QUFkRmJ6NTJ1SURxR1BVVEoxRmVSSXg5b1NNTU83YXVWQVZxVTJ6dXBTaS1EaXRKeEJDR2xVLWlGLTJwTDVOR0NEc29QVjJDc3BlV3JFbElicmxORWNjU0ZScklLVG5FVERvLXNIZ2pfWi0zOFA5Tkh5WDY5UFB2Unl6d09Cd1ZWdkRqSzF3XzZCeWY1aGRUSEg0RkZfY3FJdGFoV19zcXdXaE5XZ9IB_AJBVV95cUxNM0ktdTdaMzZRNm9XMkRoYnlpMHpzdGI0Xy13alFlMTlMdnQ4X2RHNjZSaHJ4VGExMldCZHF3ckplay1YYXFDWUM4Tjg3aERLWDlUVW1ZeUNsN0NLUGd3TWY0S052VDUyeFd2SDBIMnBpZHpDbDg2Y2pWdVdrN0dQS2V3SmhzT29zU003QjluUl9oY3NVbXNMZ0ExeFNUeTZwYTJwSlVkUnFXM29GS2lrNVBOd29EVFpPc1NCck9MeUJKRVgwVDZienB6Wk1SM0QtUWR4cUo4UGs5R2R0eDYtZE5HYWRBSlVGekJiWmZZN2Nidl9qQnBpb09oVS0yQWJZU3dZaHdoNlRtdHBjczZIenIzMzUzaE44WnBYakhxVG1WUkdTNnJuWk5fTS1BV2daNWV4Y1F2dncxN1R0bE1XQnVFeXVid1JJWUdLV29ZYXNLQ04wN2Z2THNzWndzd3c4VEpHRFk1RE9hZ2hoRTNKX1JUWGJWTFhzSzZjdg?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T02:00:00.000Z",
-     "seen": "2026-11-20T02:11:44.566Z",
-     "impact": "يمكن المتعاملين في مصر من معرفة السعر الرسمي للعملة لدى البنك المركزي لتقييم الالتزامات والتعاملات المالية."
-    },
-    {
      "title": "تفاصيل أعلي سعر دولار في البنوك الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTNVBuWGJMVS1qYm5Zb0d3ZENhN2pGVm5rVnZQeE1QUlpxeW5wSFNDT3BkWUNMRldYdzVWYlRZTHliNWxvUEZn?oc=5",
      "source": "صدى البلد",
@@ -343,13 +349,6 @@
      "time": "2026-11-19T23:00:00.000Z",
      "seen": "2026-11-19T23:10:07.393Z",
      "impact": "تتيح للمتعاملين مع البنوك في مصر التعرف على أقل سعر صرف متاح للدولار."
-    },
-    {
-     "title": "العملة الخضراء الآن.. سعر الدولار مقابل الجنيه المصري اليوم في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdDZ3MEk2VkZYRDZ0M1VldEhMQVVYem5LbWllbmYzVlV0UGhiNnNtUmlCaWRTLXVzcHFhYjludmRkanBlWFktTVZpLUpwamxfbFJaMmZFMEJIbzdkY0FR?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-19T21:54:00.000Z",
-     "seen": "2026-11-19T22:00:07.103Z"
     }
    ]
   },
