@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:13:09.767Z",
+ "updated": "2026-11-20T08:23:09.516Z",
  "minute": [
   "شهدت الأسواق المصرية استقراراً في سعر الذهب لعيار 21 بعد خسائر سابقة، مع متابعة لتحديثات أسعار العملات والدولار قبل العطلة.",
   "أعلنت وزارة التربية والتعليم المصرية مواعيد امتحانات الطلاب المصريين في الخارج للعام الدراسي المقبل.",
@@ -11,45 +11,45 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T08:13:09.767Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T08:23:09.516Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.76,
-   "change": 0.08,
-   "asOf": "2026-11-20T07:44:02.000Z",
-   "source": "Yahoo Finance"
+   "value": 53.81,
+   "change": null,
+   "asOf": "2026-11-20T00:02:32.000Z",
+   "source": "ExchangeRate-API"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5411,
-   "change": -2.85,
-   "asOf": "2026-11-20T08:04:19.000Z",
+   "value": 5418,
+   "change": null,
+   "asOf": "2026-11-20T08:25:05Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6178,
-   "change": -2.85,
-   "asOf": "2026-11-20T08:04:19.000Z",
+   "value": 6186,
+   "change": null,
+   "asOf": "2026-11-20T08:25:05Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3578,
-   "change": -2.92,
-   "asOf": "2026-11-20T08:04:19.000Z",
-   "source": "Yahoo Finance"
+   "value": 3579,
+   "change": null,
+   "asOf": "2026-11-20T08:25:05Z",
+   "source": "gold-api.com"
   },
   {
    "id": "egx30",
@@ -58,7 +58,8 @@
    "value": 51458,
    "change": -0.17,
    "asOf": "2026-11-19T12:25:12.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "eurusd",
@@ -67,7 +68,8 @@
    "value": 1.0979,
    "change": 0.06,
    "asOf": "2026-11-20T08:13:47.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "brent",
@@ -76,7 +78,8 @@
    "value": 89.74,
    "change": -2.44,
    "asOf": "2026-11-20T08:04:08.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "sp500",
@@ -85,16 +88,17 @@
    "value": 7176,
    "change": -2.02,
    "asOf": "2026-11-19T21:00:00.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61820,
-   "change": -0.13,
-   "asOf": "2026-11-20T08:14:18.000Z",
-   "source": "Yahoo Finance"
+   "value": 61839,
+   "change": -2.92,
+   "asOf": "2026-11-20T08:25:34.134Z",
+   "source": "CoinGecko"
   }
  ],
  "indicators": [
@@ -140,25 +144,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الصحة تنظم ورشة عمل لتطوير متابعة وتقييم أداء المستشفيات",
-     "url": "https://www.elbalad.news/7187577",
+     "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في بنكي الأهلي ومصر",
+     "url": "https://www.elbalad.news/7187578",
      "source": "صدى البلد",
-     "time": "2026-11-20T08:12:45.000Z",
-     "seen": "2026-11-20T08:13:09.767Z"
+     "time": "2026-11-20T08:15:00.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
     },
     {
-     "title": "إقبال غير مسبوق على عروض مهرجان القاهرة السينمائي",
-     "url": "https://www.elbalad.news/7187579",
+     "title": "بعد الوقفات الاحتجاجية.. إعلامي يوجه رسالة لـ الزمالك بسبب الرواتب المتأخرة",
+     "url": "https://www.elbalad.news/7187567",
      "source": "صدى البلد",
-     "time": "2026-11-20T08:11:43.000Z",
-     "seen": "2026-11-20T08:13:09.767Z"
+     "time": "2026-11-20T08:15:00.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
     },
     {
-     "title": "وول ستريت: رئيس الموساد يضغط على واشنطن لاستئناف قصف إيران",
-     "url": "https://www.elbalad.news/7187580",
+     "title": "في ذكري ميلادها .. محطات فنية في حياة برلنتي عبد الحميد",
+     "url": "https://www.elbalad.news/7187584",
      "source": "صدى البلد",
-     "time": "2026-11-20T08:10:46.000Z",
-     "seen": "2026-11-20T08:13:09.767Z"
+     "time": "2026-11-20T08:14:53.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
     },
     {
      "title": "الحكومة: بلوغ أطوال كابلات الألياف الضوئية 1.5 مليون كيلومتر بحلول 2030",
@@ -192,7 +196,7 @@
      "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-20T02:18:22.000Z",
+     "time": "2026-11-20T02:16:36.000Z",
      "seen": "2026-11-20T07:03:09.870Z"
     },
     {
@@ -243,6 +247,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "\"أخبروني أن طفلي مات وبعد 42 عاماً وصلتني منه رسالة\"",
+     "url": "https://www.bbc.com/arabic/articles/c64gnzgp81w3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T08:21:58.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
+    },
+    {
+     "title": "كم سعر الدولار الأمريكى مقابل الجنيه المصرى اليوم الجمعة 20 نوفمبر 2026؟",
+     "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQUEdYeVA0T0lSVENiZ1BzRHlsblF2bGRBS0ZPNWpqbFJ6YWVOTUs1SU1tMjVsYkMyWXVGcGh6LTRrRGhDUTI4cmphOE9ZVjd2Z3RzZVdsODV5YTlZa3RnMDZhM1NWTTF2SFRGTzVIUVptUWtxOGdJVS1qYS1HOFJKNUQ1dWVCdk16Tno0RU5yUUJKbzl4bGppYmYycjgyU0hnOUFaWkEyRmJpenpSX0VRU0dJRHBreEJCU1d0cElyWDJPMjBQNmR6UTJmakRpN3VDbEc0R09rdGVtN1FQbDBvd285NG1hNmk3MVIwQUYtZ2p3aXlxam02VjNKUllrNVo4LXhjVFBZa1JQVWk1eEZINTFOLXZyeTZLdXFTMDZfckVNUjRSSFBSY05vWENINE5FcnZkQWZyemxMVzRWblBGTEpqbTB2b0ZCVjNUeldLcGR1ZXQ0OEE2R3VXSUVuWkJzZnpZWGhGc3pOMGZuWVhhVjRvdXYweEhGcVRFV0hYUjNqZnprcDlVRHJ6WTZLb080a1ZlTzFBMi1WeENpcnFKVUI5N3k2eXhLUW03VzI3Ul9TTmN6cWNQaW0tTVVSRWtBWmY2dF9XR2p5bTFVbFM4M3RKNHowbWNza1VxaTdjVXFvVXRJdWJNcFNB0gHkA0FVX3lxTE5rdV9yRVdDYW5xYlZfOWZhcmRwNnZUTUJ3SjJrNE1ZZXRwZ0U4SFFoRGttMWIyX3ZWNHVBRmZsaVNnbWdRVDl6Y0ZVWVVoVHZ3Smlycnp1aXhPX2hGQlptUEw3OU43Nm5JdlppWUN3RjZoMnd0QVBRM21mSndzalNPOVRGV3dWZVBYTDUzZjlTWUd4dklWMVBLSm5FenZfMEJadjdyZ085MUJJN2FwTUNPQTUyMzJFMUtwa09NZDF4NGlNc1NoXzgwcnhKWGZWQ2U4ZEpJMVc1ZUxZQV9mc1M4ampkWmtoSlotdWtCT0pYTGdCTkQ5cUNDSjVzRDZMNjR4N1JYS2p0bnNHcjVIR2Z1TUpDODFmTFlBYVpreEhZU3lZSU5kVEpyVlRfdS1yZkFFdlZLTFRkREoyYV91ODdfdEVrRWR0T1NaTzQ5Sy1sTjFkcFdkSkhPbkZraXRKM3ppc3FGdlprS19CVGQybTBkZWEyTTAyc3dadWJYa0w4ZEI0MTNxR0xoY01oSEJLUTZFMHZYaWhsQm9kWjlWWER4aXFOcHlBNDk0RVFVOHN3ZzRZdUdCM0RFcjdNSEhITjMzb1luRUQycGNZUERIbUlHMmV2NjNzdkhMRmNPRVVrMmhLYWw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T08:14:00.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
+    },
     {
      "title": "اتهام السعودية باستهداف قارب مدني في اليمن ما أسفر عن مقتل 19 شخصاً، واعتراض صاروخ ومسيّرات أُطلقت باتجاه المملكة",
      "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
@@ -304,13 +322,6 @@
      "impact": "يؤثر استقرار سعر الذهب بعد انخفاضه على قرارات الأفراد الراغبين في الشراء أو التحوط المالي."
     },
     {
-     "title": "سعر الذهب اليوم الجمعة 20 نوفمبر 2026.. استقرار عيار 21 بعد خسائر 65 جنيهًا",
-     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQdUJSNTNGbHdpY2tnQkhBTHR3QlAxZU1qdTd0NEUzeU1zWHNIM1FlTExwR2d2ZmtsbTZkZVEyc1oxSXVjNmlTNG1zQUhJNkJXeTVVRnZjX1FkcmhNNjRZMldjbzBJendvekMta1d2Uzg0VEdiUW5tSU85aXVyLVBsX1paelpxOG9YWkZkZjRaNHNzOXFjdF9pYmlOV2lUX1NpTkg0c0Z3dlhaQ3NkTGtPc3N3VHRUOFBzZTFWVU0xSWZZS3B3aFo5VldBNTZoQVlURHhUWUxZeVRQanM4R0VaaGxQajA0a3RucHN5bXRwVFhqS1RwRlVpbzNtTnJFOXBHS080OVhmS053TTVCb19oZ1BlQXVkdHQxUVVRLUljRk5Qckt6MmdheVN1a090WlYwb05ISGxlMXhGdVBIaFEtel9WQ2hnYVcybzZUSG1QbUlkS0dCS1BycjJfQXlBc0hrZ3c4NVNEcC1OZ0pPMzlmRUlmMFRkSG96eG40dWtmLW04S19yTkNtdEg4YnRiMndNUXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T05:00:00.000Z",
-     "seen": "2026-11-20T06:41:45.088Z"
-    },
-    {
      "title": "رونالدو، مارادونا، باجيو.. ماذا حدث لفرق نجوم العالم؟",
      "url": "https://www.bbc.com/arabic/articles/cq3dg8k99v57o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -339,14 +350,6 @@
      "time": "2026-11-20T02:35:00.000Z",
      "seen": "2026-11-20T04:41:45.357Z",
      "impact": "يفيد المهتمين بالأسواق المالية في فهم تقلبات أسعار الذهب وعلاقتها بحركة السيولة واستقرار الدولار."
-    },
-    {
-     "title": "تفاصيل أعلي سعر دولار في البنوك الآن",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTNVBuWGJMVS1qYm5Zb0d3ZENhN2pGVm5rVnZQeE1QUlpxeW5wSFNDT3BkWUNMRldYdzVWYlRZTHliNWxvUEZn?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-20T01:00:00.000Z",
-     "seen": "2026-11-20T01:10:07.901Z",
-     "impact": "يفيد المستوردين والأفراد الراغبين في صرف العملات بمعرفة أعلى عائد متاح للدولار في القطاع المصرفي."
     }
    ]
   },
@@ -496,6 +499,13 @@
      "seen": "2026-11-20T00:30:07.879Z"
     },
     {
+     "title": "الأسهم الآسيوية تتراجع بفعل مخاوف الذكاء الاصطناعي",
+     "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5343488-%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A8%D9%81%D8%B9%D9%84-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-19T23:44:00.000Z",
+     "seen": "2026-11-20T08:23:09.516Z"
+    },
+    {
      "title": "مدير الأمن السيبراني الوطني في إدارة ترامب يتنحى عن منصبه",
      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQd1N2V0NpbGs1eVI4czdvM09VOU9IUm5pN0hGVGJ0UnZ6X0ZDQU13RUNIQU5OODNJZ1FPTk5Tbm1Xc0tLWFB1TWcyTmlpQ0ZmU3J6b0k2QzB0NTUzY1J4dXhlcXJzOGM5VklxSnoyZEROcUt4WlV5LUU3cktoVkd2T1pyZFBuc1pHV2lsVEc1WWJTc0NCcE1UTVEtY2pKbnZ3ZV9YRUY3MkpqaXo5Z0ZjNFB5RThBM2hpM1ZQaWRDeXJSVGlYNkxFODFXdmFzNDBVYkdRY2JmZUYxSE1rUDdfTkUtTFVSM3hPQVFYRElkQkp1cW1FTjRNazdpLWxJeDZPZC1ZSFlfdjF2RExjb2hQbXliM2dxUkJTTmk2N1NEc2FKMjEtR3ZzZklMandzejBLMU9VZm1OWEFEV2hxZDh2S1dyZlU1VGN1NXcxWDUtWmZCX2twVnI3cVQtMi1Tb0JtbFZMeWpTWVhRdEg0R0V4NVFHcnNIOXd5UWh2ODh3YlZUZEZRbjE3ZGRjWlhmMDI5Zmd1M0NNY0d4ZkFXLWttbEo0YUhEOGZrSmZXRTk4Z21Kd1Z1dmNncnZ2dUR3UUFkZlVWR3BqNC13Z2k2WDA5TjE4dy05MnRDbUQ1R2xBbjlGYXhHZ091Z0d5Tm_SAfIDQVVfeXFMTmpWNU9aMnZjRXdfdWJMREpnZjNPN2lJa2lPZWVKVXhSR21lX05jRjZ0RmxSWTBJVWpXZHlwS09XeVBJS2xWUmp6WmM1TmZLb09yNzlKU2ZBZ3BLT284ZkFJMXF2Yk5oZ3FHbmdIbW9yLWhmWktFQ1djUUZOLS1oZjR4NVZiTmp1QnVNZF80eGZ3SEFkQS1yR2tmcnFOTXhmVXlvOXhha1doZ0hiVzFOcVZaMk96aXhnZ3RaZnllMkVKemVQM2NqU00xTHFneXk0N250eWk5N2VrbGR2SW4xc0xvc0o5cU52bE1nanJGLW85dG1wZlRCTmFNVWZUbnNzLXBybzRLZkpVRzJYVVgxRFBsQWVDeGtmWUJsWVRWMk5zSmVBUlFrR0JwVldpVENYMlhjcmFVQ00wM0ZnWFJBWlRXLTNWN0t1RFk5YlVrX0ZpRjNxcFFhVGY4M0NVRTI2bUJ6aHF4WTQzZ0hNeXNybGF6bTNNV2EwN20xOUlHX0dad3pOemc0MEhNVzN5RHhLZ3FzeEtlQno2YkZONmFaTDhCTzd2RVZQNkZwM2NiRVRCX254UjREejNlSE42bzYtQ2NNZjFmXzRjYXJwZDk3bUVCZXFidVJ2N1Y2c1lpVTlia05XMXZjN1VCVi1LdG55eDR3?oc=5",
      "source": "العربية",
@@ -554,17 +564,15 @@
      "time": "2026-11-19T19:48:57.000Z",
      "seen": "2026-11-19T16:29:49.941Z",
      "impact": "تؤثر الهجمات والتصعيد الإقليمي على تقييم المخاطر واستقرار الأسواق التي قد ينشط فيها المستثمرون."
-    },
-    {
-     "title": "الزيدي يشدد على الانضباط العسكري لتعزيز الأمن في جرف الصخر",
-     "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPeTJiaGFveXlfeFZaYkYwRWlsaUp4VE1RNFdZdGQyOWIzYWFELUtZTDdaYV9WQnhDSzF6RWtfbWxGRXBwdVJtU0VabFJpY3NoTUMzNFh0dGpVR0h2WU55MS1ZTWNQY2hmVS15VTQxNEdYX3U0YlUwUG5hY2NkUkgwUDQ2Q2ZhaEhWbEFKTVdkM1hBbDA2N1hrVUU0MC1sV1NEM1MtSTY3Q3Y3RFZaWlNHNU50NW1VWkVXbmZyd2Y1V05nWEZfeEh4cU1Ob19CWTFXOXJZc05wcF9PV0Rub1FuOTV2ejhvLU1LcmpleWN3TjlrRzI5OUM0ZEVxcmhYbkV3RjhwOXhLVG5zc1FZc3ExdjBsLVJiS3pRVFF6T19GUDRUbUpqN0FPY09RbFpab2tyRWxpRFhmbE5vS0J2SkRHcGloUER4N2Y2Mi1QT3hGT3hoWjFYZmp0STZET3RpT2hRRnFGQ2xvdk15X0poMU1jcFJtNFhxSEdKYUlxbWpoWGV1Qnk0WmE3bm9Jd0lMYk5HTVZoVkRjZVRSM0lpcWVlMG1zMlN4a2pWdExLcGU2R2pBWGhYNGdNc1ZQQktjaHhKdjg0TWt0WTRMSVFSU1FiSkVkTkU1Z0J2a1o3d0tCMlB4RkZvVjRONmdERG9xeXlNX1BtTEJVdEplUTNDTjdiWUppVDN4aWFkSVREMFp0SVlieV9DQW92dFBhY1ZlN092ZFl0VVBETWRrdlljYmlVdDNVUkxVamNWZllSbVNseFB6UVh5eTMybkNfdDZHTHBrajBnZk5B0gHbBEFVX3lxTE1CWnhmcGNtY0VhMERfZmVoYk9sUnZpbkQtV1lldjU1YVBCZjhTWWpGMzl0RGRjUkEyd2UyRGJ1TXVOLTdCdjQ5MUpMWjdoUUVNV1d5Rk00OHdJb2VWUGI5X1lsYWpFNGVmREFLZkFEVlJTRWxiNmZ4d0JSZnVDbHNiU1ZTeE5odW1rMUcyeVJWM0dZWU1xOW5uMUpIMHZfR1RNMkVjVWlXX3RmQlBDY01QWFB0Szd3THRKdlhfVEgzU3QwbW1lSUEzWW5OZWhYVXFEbk5NQll3UThPMnFEbWliamdSWFpZZTlpVDQzbU9VMXdzMG9BRUZQS2s3OGdPVGw3U3RJQ3hHS1FFR1JRUFNxaFpNTDBFM2ZXTFhDWkRlQ25Jcy1uaVRxdUItd1hwLWpwNi12R01xdzNGYmRWSXdyeXBleC1JeV9tY1ZzcFAzVjBJV2VNYlN6MG12X2x4R1BweVFVYWZmZHNONGlzSXJnc0lOX2g3SzBxeFlLcTNHUW1mOWROVzFXOXo0bEg3R3otWDZIQlpCOE1hX3dMbUs5N3ZhcmRJNVcwSUtZTDNwd0R2QlJXTUNfYXdZZFJZXzU1ZmNFLTIzcmw1T21WX0puREl6ZktrT29hWFltLW9hd3d0VmJsUy02VF9wdFpxVjd6dERtbk8tbGJ6NV9BWEVEQmhGOUxrRjJ3cG85XzVRNmVmcTJRRnVwcjJoenk1T0J6cEhfZEVoUGtsV2dwSm80QWVudzJvdkJpdDAwZ1FtYlZTNmg0djZRcW9PNlFwRWpSVWdRNWFfRTJBbw?oc=5",
-     "source": "العربية",
-     "time": "2026-11-19T19:34:00.000Z",
-     "seen": "2026-11-20T00:10:07.866Z"
     }
    ]
   }
  ],
  "failed": [],
- "marketErrors": []
+ "marketErrors": [
+  "brent: HTTP 429",
+  "egx30: HTTP 429",
+  "eurusd: HTTP 429",
+  "sp500: HTTP 429"
+ ]
 }
