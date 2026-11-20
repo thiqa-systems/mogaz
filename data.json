@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:35:10.815Z",
+ "updated": "2026-11-20T15:45:10.255Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T15:35:10.815Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T15:45:10.255Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5343,
-   "change": -4.08,
-   "asOf": "2026-11-20T15:25:36.000Z",
+   "value": 5380,
+   "change": -3.4,
+   "asOf": "2026-11-20T15:38:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6100,
-   "change": -4.08,
-   "asOf": "2026-11-20T15:25:36.000Z",
+   "value": 6143,
+   "change": -3.4,
+   "asOf": "2026-11-20T15:38:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3533,
-   "change": -4.15,
-   "asOf": "2026-11-20T15:25:36.000Z",
+   "value": 3558,
+   "change": -3.47,
+   "asOf": "2026-11-20T15:38:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0989,
-   "change": 0.15,
-   "asOf": "2026-11-20T15:34:47.000Z",
+   "value": 1.0999,
+   "change": 0.25,
+   "asOf": "2026-11-20T15:47:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88,
-   "change": -4.33,
-   "asOf": "2026-11-20T15:25:34.000Z",
+   "value": 88.04,
+   "change": -4.28,
+   "asOf": "2026-11-20T15:38:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7109,
-   "change": -0.93,
-   "asOf": "2026-11-20T15:35:38.000Z",
+   "value": 7084,
+   "change": -1.28,
+   "asOf": "2026-11-20T15:48:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60109,
-   "change": -2.9,
-   "asOf": "2026-11-20T15:35:36.000Z",
+   "value": 59538,
+   "change": -3.82,
+   "asOf": "2026-11-20T15:48:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "القبض على قائد دراجة نارية بالقاهرة ارتكب أفعالا خادشة للحياء",
-     "url": "https://www.elbalad.news/7187941",
+     "title": "الداخلية تكشف حقيقة شكوى سيدة من إيداع زوجها بمصحة دون وجه حق",
+     "url": "https://www.elbalad.news/7187945",
      "source": "صدى البلد",
-     "time": "2026-11-20T15:31:20.000Z",
-     "seen": "2026-11-20T15:35:10.815Z"
+     "time": "2026-11-20T15:45:01.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
+    },
+    {
+     "title": "وزير التخطيط يبحث مع مجلس إدارة جمعية بورسعيد التاريخية تحويل المحافظة إلى مدينة مستدامة",
+     "url": "https://www.elbalad.news/7187961",
+     "source": "صدى البلد",
+     "time": "2026-11-20T15:44:17.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
+    },
+    {
+     "title": "تدريبات بدنية قوية لخماسي حراس مرمى الزمالك استعدادا للجونة",
+     "url": "https://www.elbalad.news/7187965",
+     "source": "صدى البلد",
+     "time": "2026-11-20T15:43:28.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
+    },
+    {
+     "title": "التحالف: سقوط شظايا بمنطقة جازان جراء اعتراض صاروخين حوثيين",
+     "url": "https://www.youm7.com/story/2026/11/20/التحالف-سقوط-شظايا-بمنطقة-جازان-جراء-اعتراض-صاروخين-حوثيين/7626183",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T15:43:00.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
+    },
+    {
+     "title": "وزير الطيران يلتقى مسؤولى المنظمات الدولية «إياتا» و«يوروكنترول» لبحث التعاون",
+     "url": "https://www.youm7.com/story/2026/11/20/وزير-الطيران-يلتقى-مسؤولى-المنظمات-الدولية-«إياتا»-و«يوروكنترول»-لبحث-التعاون/7626181",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T15:39:00.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
     },
     {
      "title": "8 متسابقين يتنافسون الليلة بالحلقة الثالثة من دولة التلاوة.. الأسماء وموعد العرض",
@@ -151,34 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T15:30:00.000Z",
      "seen": "2026-11-20T15:35:10.815Z"
-    },
-    {
-     "title": "منتدى مصر 2026| من قاعات الحوار إلى جداول التنفيذ.. مصر تتحوّل بخطط تنفيذية موزونة بالأرقام والمواعيد",
-     "url": "https://www.elbalad.news/7187924",
-     "source": "صدى البلد",
-     "time": "2026-11-20T15:24:44.000Z",
-     "seen": "2026-11-20T15:35:10.815Z"
-    },
-    {
-     "title": "مجموعه الأهلي ... إصابة نجم الرجاء المغربي",
-     "url": "https://www.elbalad.news/7187907",
-     "source": "صدى البلد",
-     "time": "2026-11-20T15:23:29.000Z",
-     "seen": "2026-11-20T15:25:10.724Z"
-    },
-    {
-     "title": "مبادرة الدهابة.. مصطفى بكرى: تسليم أسلحة متقدمة كانت فى الجبال",
-     "url": "https://www.youm7.com/story/2026/11/20/مبادرة-الدهابة-مصطفى-بكرى-تسليم-أسلحة-متقدمة-كانت-فى-الجبال/7625944",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T15:14:00.000Z",
-     "seen": "2026-11-20T15:15:10.533Z"
-    },
-    {
-     "title": "إنشاء آلية استجابة سريعة لبلاغات كبار السن ضمن توصيات منتدى مصر",
-     "url": "https://www.youm7.com/story/2026/11/20/إنشاء-آلية-استجابة-سريعة-لبلاغات-كبار-السن-ضمن-توصيات-منتدى/7626151",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T15:07:00.000Z",
-     "seen": "2026-11-20T15:15:10.533Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -243,6 +243,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار أمام الجنيه المصري في ختام تعاملات اليوم 20 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNZFBoc0x0ckNFT3VrZzVfTVpsYW5OMEVZLXFPZEdPN19sRTVZa2hQSkFSZUI2YWpPSHRRZktLSGFOQ3hMZktNVVdnOXJXSlhwWHJEdlJ2WTljNFVaaFlJWTN6MThoS2xaem9tM3lJTzlGZ1U2Rl9mTzdpdWJVRmNFUmFrNzB0Y2ZEbW92TjNHLWVQTGZSaEpFWlFURnR5TjRLaHNhb0ZaU2lxSXBVWlJXMUItM3BfZGdIeTEyUHozMFNFRXJaMUp5X1htbXExVFNFSDJVRmk2azIzOWFTWDYtQjFmX0pYdkZfMGZWTkxOeXVUOVVXcXF5c1ZiWFB3aXVwZEE4LU5jVjk5LVhMWmxZb0QyWmVXaVBjZE5EUWZBVk9iMWlIa0xyc3ZwY3ZNOTBKU3hlSG82T29kZTNORGIxQXA3RWpGelFjOGRUUEtQZjVPeHAteDI2NDVSbGptVjRhYTBvbEhwdDJpQndod1lORw?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-20T15:42:31.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
+    },
+    {
      "title": "تراجع سعر الجنيه الذهب بالصاغة اليوم الجمعة 20 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pNW1USWRoeTN5OWVQYm1ySUhvYUhFSGg4Qy1GQ2hmRWNqVEwzbF9JUXJYQk9JUUI2SHdnUVpqOHBZWFF1SDZz?oc=5",
      "source": "فيتو",
@@ -302,6 +309,13 @@
      "seen": "2026-11-20T15:35:10.815Z"
     },
     {
+     "title": "سعر الريال السعودي خلال تعاملات اليوم 20 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNQXdJaW5SSWJqR0tSUnVhOFM1dHJpeFFGU3JRdTY3RS12clJMRzQxZi1oUFpVZHRoTzFjUWdPcndqbkdHcS1DVVM0WF9sa0Nvd0VfeVNDTjRfbm50ei1Ta3JONEgtOU9OcXN3N0N5RmlzM0ZKSEwwVnp6REpFLUJWY0V2elRRaGFfQUQ2aDhEMjdYVXEzVm1GX1E2bTcxaWdqZGZhWlUxN2wwWmR5MnBQbzRtSEhTVWE1REpFblFSWnJYd082cGtqell3QlpLVWdmbWpRVnlHLXlVNUd3U2xzLU5CV0hrMmZValJ4YWV5aDZUNGMyUk5GbDVZS3Y4UTNiNV9uZnQzeXhJaS05WklVXzgzZHZxX1QzUTJfMmh2TU1wclBBNnZYMnFvUWhmc0xQaU9hMk1JZmZRNEN6UEVIbThPSTl6TlB6WHhyYlowdnBoRHZDUHdTdnJYd3V0XzhvbkU0S29DZXg1dw?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-20T13:52:30.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
+    },
+    {
      "title": "جرف النصر: قوات الأمن العراقية تنتشر في معقل \"كتائب حزب الله\"، والزيدي يؤكد أنّ \"لا سلاح خارج سلطة الدولة\"",
      "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -331,21 +345,6 @@
      "time": "2026-11-20T12:03:10.000Z",
      "seen": "2026-11-20T13:05:10.432Z",
      "impact": "يهم الأفراد والمستوردين لمعرفة أسعار صرف العملة الأمريكية وتكلفتها في شركات الصرافة."
-    },
-    {
-     "title": "الراند الجنوب أفريقي يقترب من أدنى مستوياته في عام مع ضغط قوة الدولار",
-     "url": "https://alborsaanews.com/2026/11/20/2007767",
-     "source": "البورصة",
-     "time": "2026-11-20T11:55:16.000Z",
-     "seen": "2026-11-20T13:05:10.432Z"
-    },
-    {
-     "title": "سعر الدولار أمام الجنيه اليوم 20-11-2026.. أخر تحديث فى البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XdXBQdS1OVGgyMzlUQ0JxWjhEN3RDdjVyaEhfSUd4d0dGVUZxY0VlNWFORGJEMzlKeHpzQ0l6TjRrQTZfUWw4?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-20T11:43:00.000Z",
-     "seen": "2026-11-20T11:53:09.846Z",
-     "impact": "يمس الحياة اليومية للمواطنين والمستثمرين في مصر لمتابعة أسعار السلع وحركة الصرف في البنوك."
     }
    ]
   },
@@ -446,11 +445,11 @@
      "seen": "2026-11-20T12:45:10.566Z"
     },
     {
-     "title": "36 قطارا و22 مليون دولار.. تفاصيل عمليات سطو هزّت كاليفورنيا",
-     "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNTXkzRHpIeEU4eFBwMDlUaUpxMTR6ZFp6WWxSSWNvUUZyTzJESU5CaTA4QXJlUWhFVFZQZ2tRZTlpVGRTaXdXUHFIRkVKWjY0ek5KYzVaSVk5Y0ZPYXhzMHVVMC1EV1I0ejFHYVFBY2lHSTJHbDBrVXdUeGxXSVBURDlwZ0pKMWZjYVB6Vm5adHBySlVLNVIzZzBSRTM3X0JWV0xacWQxYmxjVFRZSVc5NmxKQTFKM1pnZ0FtMVB4Y0pDTTR6ZUxjRVgwbG44dTktanhDRWtIZVU5d3NjQmhZWVVsOF9YeGRxUnYwVEJGeXJadi01dnVIWHRnMlFUNlQ5Qnh1UGNqUTEwOUhPZ2dsTnR1cGd0ck1wV09xTk9zQVhycFpCYTRPU0ltOXB4QmVsLVFwb01fZlVJbkg1MG94QktaV1RjZDhEcWJKVEQyeXo1eG1Jc2FONl91U2NHR1VHYlczZDNDSFAxVnl1MHFHeGkzVmo3NnhaZVd0dmM2cVFTd0RZbFduS0xSOEN0dkI5UjhhRlo4eGxnQnBnUjFHaXVnTG5IRHhobGcyRkhDNGdHRjVIT2QyaWNzQ2g0X2Z0UmhueGFMOUZPNTk5d2fSAdMDQVVfeXFMUExGNUVaaW5QNTlvRUVkRVZvM3AxMmstcjJ2MTFzWFh6WTI3NlNIUTdKcm5PZzVSZ3k3MTctZGRSZnRTRWo0U3FDd1l5UEIwWkRaMzBYdnFDZWRPSDM5SXlSLXJoalUzejVaT09PQ1JoYVdUX25UU0ZFTTc2ZjQ3ZHBXbUlobWNqYWtqTU9rN09KdUxxZV9MWC00Y1ZLNVRUckJocjV6dy0yNk80VjRERTc2OWxkeVltR01tckRxYWFRbWUyOVRxNWRObEFlTUpkY1IzSUE3eWo2UGliU1JVZU5Pc2VzeVZER0hPR0dyYXY5WHNZTElBc1d2Z2wtT2o3SmJwUGlqOU0yNFhReEctR2JCREhpMnJQZ0V5RHdtZU51cF9LdnVfOEM2YzN3NjFIVVRJNUp2U3VXSERxenFVcHBva2psUFlBeUd6bTJHRVZERjBMb2ZHRWdkdEJrMVo5QS1TSmpzRXJpazN5U0tYQ1BJNk93VjJ6LUFhV25vdXY3OWVxQ3ZhN1RyVHJXTFRYVUJmcFFBZFQ1V2VLYkNLTC1BRWt5N0hHMTZuZkFsbHBYa0xvWXF3allNU0VXSEo2X0VKcjFZck1xY1hDZG9ZTmxIaWc?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T12:24:42.000Z",
-     "seen": "2026-11-20T15:35:10.815Z"
+     "title": "\"تحالف الراغبين\" يردّ من برلين على قمة شنجن",
+     "url": "https://www.aljazeera.net/politics/2026/11/20/%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d9%84%d9%82%d9%85%d8%a9-%d8%aa%d8%b1%d9%85%d8%a8-%d9%80-%d8%b4%d9%8a-%d9%80-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%84%d8%b3%d9%86%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T12:29:56.000Z",
+     "seen": "2026-11-20T15:45:10.255Z"
     }
    ]
   },
