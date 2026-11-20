@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:50:07.779Z",
+ "updated": "2026-11-20T00:00:08.048Z",
  "minute": [
   "أعلنت وزارة العمل في مصر عن مئات فرص العمل الجديدة ومتابعة تطبيق الحد الأدنى للأجور.",
   "تتابع الأسواق الاقتصادية التطورات في أسعار العملات والذهب، وتوقيع مذكرة تفاهم لتعزيز الرعاية الصحية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-19T23:40:07.358Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T00:00:08.048Z"
  },
  "markets": [
   {
@@ -17,7 +19,7 @@
    "name": "الدولار / جنيه",
    "unit": "ج.م",
    "value": 53.75,
-   "change": 0.11,
+   "change": 0.18,
    "asOf": "2026-11-19T20:43:57.000Z",
    "source": "Yahoo Finance"
   },
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5441,
-   "change": -3.73,
-   "asOf": "2026-11-19T23:40:09.000Z",
+   "value": 5448,
+   "change": -3.54,
+   "asOf": "2026-11-19T23:51:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6212,
-   "change": -3.73,
-   "asOf": "2026-11-19T23:40:09.000Z",
+   "value": 6220,
+   "change": -3.54,
+   "asOf": "2026-11-19T23:51:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3598,
-   "change": -3.84,
-   "asOf": "2026-11-19T23:40:09.000Z",
+   "value": 3603,
+   "change": -3.72,
+   "asOf": "2026-11-19T23:51:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,16 +65,16 @@
    "unit": "$",
    "value": 1.0972,
    "change": -0.19,
-   "asOf": "2026-11-19T23:49:46.000Z",
+   "asOf": "2026-11-20T00:00:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.83,
-   "change": -2.31,
-   "asOf": "2026-11-19T23:40:05.000Z",
+   "value": 89.85,
+   "change": -2.28,
+   "asOf": "2026-11-19T23:44:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61865,
-   "change": -1.78,
-   "asOf": "2026-11-19T23:49:58.000Z",
+   "value": 61954,
+   "change": -1.64,
+   "asOf": "2026-11-20T00:01:10.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -220,7 +222,7 @@
      "title": "زيارة الدبيبة إلى مصر.. هل تخفف من حدة أزمة ترسيم الحدود؟",
      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQUGFCd25hNFY3REdRc2xkVEU5eDRiY1JxR1ZLcHpkd2xPZFBrRnFCUWVXMl93TW1RVWZUc2lxYTNyVHhZUmFFTHRsakdWc0RUelp1Q2w5YU0tdjlqb1lKNVZVcFNFaE1RdFFUUmZfeGRlTmpheTBMZ0xaaFlSclRPSkVuaTRMcVRCWF91OFdVRl9XZlRaVzItVmIzd2Y1Szh5WjZsZmNhYzlIbFhaQ2MtNmE4TFM5YVBHZTJqUUhPUjdfZ1ZDOVlLM3M5b3l3MnE4elFubENqSC1Oc1hwQzQxWE9WV0hhSFQ5Yjh5ZWJFMUpyejU0bmVacnFReXlLOEhTOXh3RDNUNm5yREpOTDFiMWhyMmowYkVOa01uRVNWLWFSUHkxYXlZaWRJMTNDWjRXM1EtendzNjhJZnprTnRXVk1XcmNYcTJzbmhkRGlKb05LVEtzNU5JeVpHLUFRN0dqQzlqTlc1QlJyMzdQdnk1UUltaDJwVnlRMWVWdksteUpPRHhJVV81Y1UzMWNIVzg40gGWA0FVX3lxTFBPaHhOUkR4a3l6LXZGbXMycGNlaVM0bHNGQThTV29Ob19QbjFzc2dNZUZoclc1eEFWRnJNUUx5SXZPQ0JIRHVvbF9seGl3V2xxU3hmQUYzeHlVOEEwQkJBNU9pd0g3UUM1SE1vUTFibV82WTFDRFo0aVE5ZUE4cjhESlV4X3NUUlVLd2VqVmowVDkwX0ZHTm00ZDZQak8tdk5Oa1cxM1F6LXhKZFhjVEhYa3BGVU5IZ3JybDV3aXpmRVMyUG1nSFYyQkVWem1sY0R6elFsSkNYVEJlalhHUE1neWU0TW9rQTNWUnZJX2piZk04bEFHT2xEd3NyVlVrUW9tOXpsTGJPZ2lOa0JDY0FXQkM5NlNmcjREUVFtNmJMUG4zYi0xeG1zY2MxejliUlE3X2dhdmx3bVQ1Q0I5MlFVakV6WFBNdHRPNXd2Q003Yy1qUU5TQjJUaTdrTUh1U2xIbjZKNlNsdkkxdVhPVFFrRUFQQ3BYYzFDakpkVEhrcU5BUWIwTVFWRG1VWGF4Zmk2Q0lidWc?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T16:45:35.000Z",
+     "time": "2026-11-19T15:54:40.000Z",
      "seen": "2026-11-19T21:50:06.794Z"
     },
     {
