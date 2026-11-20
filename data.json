@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-20T13:55:10.969Z",
+ "updated": "2026-11-20T14:05:11.016Z",
  "minute": [
-  "شهدت مصر اتفاقاً لإعادة 100 بئر بترول متوقفة للإنتاج خلال 18 شهراً، وإعلان وزارة العمل عن تنظيم تشغيل العمالة في ليبيا عبر ربط إلكتروني.",
-  "تضمنت الأخبار المحلية انخفاض سعر الجنيه الذهب، ودعم أسطول الإسعاف بـ1000 سيارة مجهزة تنفيذاً لتوصيات منتدى مصر 2026.",
-  "عالمياً واقتصادياً، أغلقت الأسهم الآسيوية على انخفاض حاد، وأعلنت المملكة المتحدة إنجاز اتفاق مع الاتحاد الأوروبي."
+  "تراجعت أسعار الذهب وسط متابعة لمستويات صرف الدولار في الأسواق.",
+  "تصاعد التوتر الإقليمي مع إعلان التحالف عملية عسكرية في اليمن وتهديدات حوثية طالت أهدافاً في السعودية.",
+  "شهدت الأسهم العالمية موجة بيع واسعة تزامناً مع انهيار تداولات مرتبطة بقطاع الذكاء الاصطناعي.",
+  "تواصل مصر جهود الدعم الاجتماعي للشباب وسداد المصروفات لطلاب برنامج تكافل وكرامة."
  ],
  "ai": {
-  "at": "2026-11-20T12:55:10.418Z",
-  "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T13:55:10.969Z"
+  "at": "2026-11-20T14:05:11.016Z",
+  "model": "gemini-3.8-flash",
+  "key": 2,
+  "impacts": 9
  },
  "markets": [
   {
@@ -20,34 +19,34 @@
    "unit": "ج.م",
    "value": 53.76,
    "change": 0.08,
-   "asOf": "2026-11-20T07:44:02.000Z",
+   "asOf": "2026-11-20T14:03:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5386,
-   "change": -3.3,
-   "asOf": "2026-11-20T13:46:19.000Z",
+   "value": 5396,
+   "change": -3.12,
+   "asOf": "2026-11-20T13:56:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6149,
-   "change": -3.3,
-   "asOf": "2026-11-20T13:46:19.000Z",
+   "value": 6161,
+   "change": -3.12,
+   "asOf": "2026-11-20T13:56:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3561,
-   "change": -3.37,
-   "asOf": "2026-11-20T13:46:19.000Z",
+   "value": 3568,
+   "change": -3.19,
+   "asOf": "2026-11-20T13:56:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0994,
-   "change": 0.2,
-   "asOf": "2026-11-20T13:55:45.000Z",
+   "value": 1.099,
+   "change": 0.16,
+   "asOf": "2026-11-20T14:05:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.05,
-   "change": -3.19,
-   "asOf": "2026-11-20T13:46:08.000Z",
+   "value": 89.01,
+   "change": -3.23,
+   "asOf": "2026-11-20T13:56:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61802,
-   "change": -0.16,
-   "asOf": "2026-11-20T13:56:17.000Z",
+   "value": 61771,
+   "change": -0.21,
+   "asOf": "2026-11-20T14:06:15.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,48 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بدء عملية نوعية لتحييد مصادر التهديد الحوثية.. وطيران التحالف يقصف ميناء الحديدة",
-     "url": "https://www.elbalad.news/7187839",
+     "title": "خسائر حادة جديدة في الذهب الآن..اعرف الجرام وصل كام؟",
+     "url": "https://www.elbalad.news/7187843",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:52:19.000Z",
-     "seen": "2026-11-20T13:55:10.969Z"
+     "time": "2026-11-20T14:03:47.000Z",
+     "seen": "2026-11-20T14:05:11.016Z",
+     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة تحركات أسعار الذهب وتأثير تراجعه على قرارات الادخار."
     },
     {
-     "title": "فيلم حدوتة لـ أحمد حلمي يحقق 11.5 مليون جنيه إيرادات في شباك التذاكر أمس",
-     "url": "https://www.elbalad.news/7187827",
+     "title": "مبردات الزيت تضع شاحنات شيفروليه سيلفرادو وجي إم سي سييرا أمام دعوى قضائية",
+     "url": "https://www.elbalad.news/7187844",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:49:05.000Z",
-     "seen": "2026-11-20T13:55:10.969Z"
+     "time": "2026-11-20T14:03:29.000Z",
+     "seen": "2026-11-20T14:05:11.016Z"
     },
     {
-     "title": "مدرب نيس يتحدث عن غياب عبدالمنعم بمواجهة باريس سان جيرمان",
-     "url": "https://www.elbalad.news/7187838",
+     "title": "التوسع فى مبادرات دعم زواج الشباب وسداد المصروفات الدراسية لطلاب تكافل وكرامة",
+     "url": "https://www.youm7.com/story/2026/11/20/التوسع-فى-مبادرات-دعم-زواج-الشباب-وسداد-المصروفات-الدراسية-لطلاب/7626121",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T14:03:00.000Z",
+     "seen": "2026-11-20T14:05:11.016Z",
+     "impact": "يهم الأسر المستفيدة والشباب المقبلين على الزواج لمعرفة الدعم الاجتماعي والمساعدات التعليمية المتاحة."
+    },
+    {
+     "title": "موسكو تحذر من مواجهة عسكرية.. روسيا تتهم الناتو بالاستعداد لصراع محتمل",
+     "url": "https://www.elbalad.news/7187848",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:47:05.000Z",
-     "seen": "2026-11-20T13:55:10.969Z"
+     "time": "2026-11-20T14:01:45.000Z",
+     "seen": "2026-11-20T14:05:11.016Z"
     },
     {
-     "title": "وزير الأوقاف يهنئ الشيخ عبد الفتاح أبو زهرة بفوزه بلقب «أول الأوائل» بقطر",
-     "url": "https://www.youm7.com/story/2026/11/20/وزير-الأوقاف-يهنئ-الشيخ-عبد-الفتاح-أبو-زهرة-بفوزه-بلقب/7626101",
+     "title": "تعرف على المتسابقين بالحلقة الثالثة من الموسم الثانى فى «دولة التلاوة».. الليلة",
+     "url": "https://www.youm7.com/story/2026/11/20/تعرف-على-المتسابقين-بالحلقة-الثالثة-من-الموسم-الثانى-فى-«دولة/7626117",
      "source": "اليوم السابع",
-     "time": "2026-11-20T13:47:00.000Z",
-     "seen": "2026-11-20T13:55:10.969Z"
+     "time": "2026-11-20T14:01:00.000Z",
+     "seen": "2026-11-20T14:05:11.016Z"
     },
     {
-     "title": "عبد الفتاح أبو زهرة يتصدر الترند بعد فوزه بمسابقة أول الأوائل للقرآن الكريم بالدوحة",
-     "url": "https://www.youm7.com/story/2026/11/20/عبد-الفتاح-أبو-زهرة-يتصدر-الترند-بعد-فوزه-بمسابقة-أول/7626093",
+     "title": "منتدى مصر 2026.. من قاعات الحوار إلى جداول التنفيذ: مصر تتحوّل",
+     "url": "https://www.youm7.com/story/2026/11/20/منتدى-مصر-2026-من-قاعات-الحوار-إلى-جداول-التنفيذ-مصر/7626122",
      "source": "اليوم السابع",
-     "time": "2026-11-20T13:45:00.000Z",
-     "seen": "2026-11-20T13:55:10.969Z"
-    },
-    {
-     "title": "جهاز تنظيم إدارة المخلفات يشارك في منتدى CircuHUB’26 لتعزيز التحول نحو الاقتصاد الدائري",
-     "url": "https://www.youm7.com/story/2026/11/20/جهاز-تنظيم-إدارة-المخلفات-يشارك-في-منتدى-CircuHUB’26-لتعزيز-التحول/7626076",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T13:33:00.000Z",
-     "seen": "2026-11-20T13:35:10.404Z"
+     "time": "2026-11-20T14:00:00.000Z",
+     "seen": "2026-11-20T14:05:11.016Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -188,7 +189,7 @@
      "seen": "2026-11-20T12:13:09.207Z"
     },
     {
-     "title": "بعد إحالته للقضاء بسبب إلهام شاهين.. مرتضى منصور \"انتظرونا\"",
+     "title": "ردا على محاكمته بسبب إلهام شاهين.. مرتضى منصور \"انتظرونا\"",
      "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQUk42R0lITnlyRFdEa1dpbkNsWU1HbzVUc0cyZXZuZDdmeWZyOTdmLVpqV3VBV0o4ekRIMFEzVDFRLWtCWEpIMnBmUExybU1hc19lUG9pSU5HVVVYNzlmMW1aZ0lScXVYM2hWY0prSmxiSkplaXI5SHFXM1VMbGJUU2g3LTdWRUtVWjZSRTJ3R1c1WDdSdldsR2pyaEFQMllmVi1GTXFteV9GcTl5RERuWnVtaHJlZGJOQkxFWHpDQlpOOWhITnU1RGZMYXFGdTJDcnFpcm5na2ozbFh2aDlnVHRMVFhBdFYzNGFuYndsdkpOT2o3LXpmWWhvckVBblU0NEhlTEVjUUFNWldockR3SXFkMk14UGZ1b0I4QnV5TnVJeHpmTUlTOWgwVUQ3WGpHOHJuX2RGMUEwOUI4MU9RZGpReWxCVnc1NFRIdE5McEtkRklmT2dfdzRQSTFrbGl1Tk83bU93enh6ZDVsSHBhR0FuN1FkZVE5bWFzZzBDMGJYa1hlcEhlaXF0bVdraGl6enBnNHdlN1RNNzVESGY3bFpKYUkyRV9SVTlyaHY3UGxHNGhnU2ttV3hlUEs1cXdnUzN4dVJvZGlzZnNUYlVmWnF2OW1kMzk4WldMdHVGZFZrZHNGU05iMDBDTDNtMHJYU3lxYUxZMEhkbXllTmFqWE1sNXNqQUYzbHN5Y1NlVVZmMl9aS2tRYmUyQ2t2TTcxeU9zOURma0ktMmhCLXBBS0lYZlVfMmVsWVJFX191bE5MU2V6OU1aZU5jZ3l6aHRjWFFCRFZzOWRKZTNoNmtYaUF2RlFJSEF4ZmfSAe8EQVVfeXFMT2lGMFYyQ1Y1Mm9kWWFYOGM2UDR1cDlrdWVIZjdaVnRZVnpYRlI5dkxZNktOV2tBWERTQnFEMHNXZ1R4SVVqbUZZTE9aYmtlMjl4VjlQX1QwTXJQbzQ5SElGMDd6Snd0aXVwWmY4ZGtYeUZGZXMtcGVFRnJaaENqNTdIcjlGcTJELTJ6Qi1SVlhrNFF6cVZQelZWUWFvZnp4Y2c1Y3I3NlUxdGxsOVlQMGxITHVuaURENEJ5NDU4MGgtTlNaM2VzZkpZejVxdGVaeGVsWHVCR0pUZUpvMDV2bU13czRmWURyM1I0T25LdmV2MEZVQ3oyR25waUFBck1TLUZoS0VrdUNRdkEwV0JpSm5QR0hKTXR0TVcxVmEzcUtLNVN1bWN2bFVIcDJuNHZxVU9aS3VGRXNKUFF4UWhNZTQ5LXA4MEplbEpyT05KdGN0SkltaElhV2owQ25aZVBaMG1ZTHM4YlF4NTFnS01vTnc1VEhtYURQS1RRRy0ybkYtOFU4OEswOFdoblhWQXJTcmdkWHV0a3p2ZWFIdkpfWGMtUHpTb3luREIyaEhVd3FWQ1JyWm8xZjItbWZZLTc3Z2htMkZETWlQNkhyalJzSS1QbDdFY1BXcXZycjJUdWRRQU1YUnZ6V3p4WEhhMkVqSkZyNFhxcUF2RWpia0hXY2pnNHBrOUZBcWhEMUViQXNjWk1FekFmdy15dlBVcmpJUnJXMkpEczhCaEFnc2d1eTc1aWNDV1pSdUZRQVJTdWJhZEh1c3lDR1dmT0Z6MFZMY0dSOExBYl9lZmowX0U4eTREVTlYWnc0ellZLVNTTWM?oc=5",
      "source": "العربية",
      "time": "2026-11-20T07:02:00.000Z",
@@ -255,28 +256,31 @@
      "source": "BBC عربي",
      "time": "2026-11-20T13:00:13.000Z",
      "seen": "2026-11-20T06:53:10.145Z",
-     "impact": "يهم المستثمرين في المنطقة لمتابعة الاضطرابات الملاحية والجيوسياسية وأثرها على التكاليف وشحن البضائع."
+     "impact": "يهم المستثمرين في مصر لمتابعة التوترات الإقليمية لما لها من تأثير على التجارة وأسواق الطاقة."
     },
     {
      "title": "“طيران لوفتهانزا” تلغي 1000 وظيفة في شركتها الرئيسية لخفض التكاليف",
      "url": "https://alborsaanews.com/2026/11/20/2007773",
      "source": "البورصة",
      "time": "2026-11-20T12:45:40.000Z",
-     "seen": "2026-11-20T13:05:10.432Z"
+     "seen": "2026-11-20T13:05:10.432Z",
+     "impact": "يهم العاملين في قطاع الطيران والمتابعين لحركة النقل الجوي الدولي وتكاليف التشغيل."
     },
     {
      "title": "أيلون ماسك يلجأ إلى تمويل بقيمة 40 مليار دولار لشراء رقائق الذكاء الاصطناعي",
      "url": "https://alborsaanews.com/2026/11/20/2007768",
      "source": "البورصة",
      "time": "2026-11-20T12:14:40.000Z",
-     "seen": "2026-11-20T13:05:10.432Z"
+     "seen": "2026-11-20T13:05:10.432Z",
+     "impact": "يهم المستثمرين المهتمين بقطاع التكنولوجيا لمتابعة حجم التمويلات الضخمة في رقائق الذكاء الاصطناعي."
     },
     {
      "title": "سعر الدولار اليوم الجمعة.. كم تبيع شركات الصرافة العملة الأمريكية؟",
      "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxPTW5zaDJVSktsMFliU090OEEwZGxQdEZ4aEE0VUFZVEtJV0E3eXNWMjVWd18xekhBbnRPQV9Vd21rSXBqTjBicGMtMEYzTFppV0FxNVpkRGJwNVZCT1lMaFF2eE1IQVJNcWFickx1eGZPaHlyMGx4VmdPUk5iaGFMZzdGckdfX05oUV9pVnRjd1pwRzd1MU9mVlhaM1pQZGZ4elVfU3pJNERQUlZjeFAwdzRRdUV3cnNDQ0hrd0l1U2RoYlBiUUVqRG4zVzFqYjM4d2t0dlNWLVBRZUlMcmxqeGlOZUIyeWM3eGpHZjBXd3BtTlJUMExDZVpWX3JLc1FIWEh5NkRROGxibHZ2Tmp0Rnc1S2I0MDJzaC0zSS1XRjhIZXdQTlhHblV6Uzc0dnZCLU8xbjZ2R3ZvcGlwOHVlekxQNXpuM01ON0hJNkpNNFFiNmxnc21jeWVUdzJqR2FJSk43ZXZvWjk2cUlqaklIOEotNW53X1JMa0Fvc0k3VHd3Q2UzWVhra2tnSjBzeDgwU2puSzI5UE5BeWlINUh6bUMtRzlvN256aXoxNGttd3JESVhvNW9rVUVZc0hUNmtGQTUwTm41TU82QjI2TzJEeFh3dG1FbzNvdjZvejN1aXdQb3JXd3ZVTTlVWW1fTHRmTXc3aHd5dUNNQ3pRVE13bTM1RHJnWk56UzliVDNnUC1xQdIBkgRBVV95cUxPTW5zaDJVSktsMFliU090OEEwZGxQdEZ4aEE0VUFZVEtJV0E3eXNWMjVWd18xekhBbnRPQV9Vd21rSXBqTjBicGMtMEYzTFppV0FxNVpkRGJwNVZCT1lMaFF2eE1IQVJNcWFickx1eGZPaHlyMGx4VmdPUk5iaGFMZzdGckdfX05oUV9pVnRjd1pwRzd1MU9mVlhaM1pQZGZ4elVfU3pJNERQUlZjeFAwdzRRdUV3cnNDQ0hrd0l1U2RoYlBiUUVqRG4zVzFqYjM4d2t0dlNWLVBRZUlMcmxqeGlOZUIyeWM3eGpHZjBXd3BtTlJUMExDZVpWX3JLc1FIWEh5NkRROGxibHZ2Tmp0Rnc1S2I0MDJzaC0zSS1XRjhIZXdQTlhHblV6Uzc0dnZCLU8xbjZ2R3ZvcGlwOHVlekxQNXpuM01ON0hJNkpNNFFiNmxnc21jeWVUdzJqR2FJSk43ZXZvWjk2cUlqaklIOEotNW53X1JMa0Fvc0k3VHd3Q2UzWVhra2tnSjBzeDgwU2puSzI5UE5BeWlINUh6bUMtRzlvN256aXoxNGttd3JESVhvNW9rVUVZc0hUNmtGQTUwTm41TU82QjI2TzJEeFh3dG1FbzNvdjZvejN1aXdQb3JXd3ZVTTlVWW1fTHRmTXc3aHd5dUNNQ3pRVE13bTM1RHJnWk56UzliVDNnUC1xQQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-20T12:03:10.000Z",
-     "seen": "2026-11-20T13:05:10.432Z"
+     "seen": "2026-11-20T13:05:10.432Z",
+     "impact": "يهم الأفراد والمستوردين لمعرفة أسعار صرف العملة الأمريكية وتكلفتها في شركات الصرافة."
     },
     {
      "title": "الراند الجنوب أفريقي يقترب من أدنى مستوياته في عام مع ضغط قوة الدولار",
@@ -354,6 +358,14 @@
    "title": "العالم",
    "items": [
     {
+     "title": "\"التحالف\" يعلن بدء تنفيذ عملية عسكرية في اليمن.. ماذا استهدف في الحديدة وصنعاء وصعدة؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/coalition-military-operation-yemen-hodeidah-sanaa-saada",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T14:01:06.000Z",
+     "seen": "2026-11-20T14:05:11.016Z",
+     "impact": "يهم المتابعين والمستثمرين لتقييم المخاطر الجيوسياسية في المنطقة وانعكاسها على حركة الملاحة والتجارة."
+    },
+    {
      "title": "فيديو متداول لـ\"احتراق طائرة سعودية في مطار الرياض\".. هذه حقيقته",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/a-circulating-video-claims-a-saudi-plane-caught-fire-at-riyadh-airport",
      "source": "CNN بالعربية",
@@ -401,13 +413,6 @@
      "source": "BBC",
      "time": "2026-11-20T13:07:55.000Z",
      "seen": "2026-11-20T13:45:10.414Z"
-    },
-    {
-     "title": "فرنسا وألمانيا تعلقان على أوضاع الصحفيين في مصر.. ماذا قالتا عن \"متصدقش\" و\"مدى مصر\"؟",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/france-germany-journalists-egypt-matasadash-mada-masr",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T12:47:48.000Z",
-     "seen": "2026-11-20T12:55:10.418Z"
     },
     {
      "title": "المملكة المتحدة تعلن \"إنجاز الاتفاق\" مع الاتحاد الأوروبي، ومطالب أوروبية بخفض رسوم الدراسية",
@@ -463,7 +468,7 @@
      "source": "الشرق بلومبرغ",
      "time": "2026-11-20T12:01:01.000Z",
      "seen": "2026-11-20T09:23:09.928Z",
-     "impact": "يهم المستثمرين في بورصات الأسهم العالمية لمتابعة تقلبات سوق الذكاء الاصطناعي والمخاطر المالية المحتملة."
+     "impact": "يهم المستثمرين في مصر لمتابعة تقلبات البورصات العالمية وتأثير هبوط أسهم التكنولوجيا على المحافظ الاستثمارية."
     },
     {
      "title": "البنتاغون يفتح سباق الليزر.. 7 أنظمة لمواجهة المسيرات",
@@ -492,7 +497,7 @@
      "source": "Masrawy",
      "time": "2026-11-20T09:44:08.000Z",
      "seen": "2026-11-20T11:13:10.150Z",
-     "impact": "تؤكد تحذيرات مصر حرص الدولة على الاستقرار الإقليمي الذي ينعكس على بيئة الاستثمار والأمن في المنطقة."
+     "impact": "يهم الأفراد والمستثمرين لمتابعة الموقف الرسمي المصري حيال التطورات الأمنية في المنطقة."
     },
     {
      "title": "استنفار تقني في \"وزارة الزراعة الأمريكية\" بعد اختراق سيبراني| ماذا حدث؟",
