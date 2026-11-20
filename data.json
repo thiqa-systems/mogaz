@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:41:45.088Z",
+ "updated": "2026-11-20T06:51:45.291Z",
  "minute": [
   "شملت الأخبار المحلية متابعة لأسعار العملات وحركة الدولار في البنوك بالإضافة إلى إرشادات التطعيمات وحالة الطقس بمصر.",
   "تناولت التقارير الاقتصادية والمالية أسباب هبوط أسعار الذهب بالتزامن مع تراجع الأسهم وحركة السيولة في الأسواق.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 2,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T06:41:45.088Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T06:51:45.291Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5381,
-   "change": -3.38,
-   "asOf": "2026-11-20T06:32:48.000Z",
+   "value": 5377,
+   "change": -3.46,
+   "asOf": "2026-11-20T06:42:48.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6144,
-   "change": -3.38,
-   "asOf": "2026-11-20T06:32:48.000Z",
+   "value": 6139,
+   "change": -3.46,
+   "asOf": "2026-11-20T06:42:48.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3558,
-   "change": -3.47,
-   "asOf": "2026-11-20T06:32:48.000Z",
+   "value": 3555,
+   "change": -3.55,
+   "asOf": "2026-11-20T06:42:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.099,
    "change": 0.16,
-   "asOf": "2026-11-20T06:42:45.000Z",
+   "asOf": "2026-11-20T06:52:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.76,
-   "change": -2.41,
-   "asOf": "2026-11-20T06:32:18.000Z",
+   "value": 89.84,
+   "change": -2.33,
+   "asOf": "2026-11-20T06:41:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61688,
-   "change": -2.06,
-   "asOf": "2026-11-20T06:42:53.000Z",
+   "value": 61939,
+   "change": -1.66,
+   "asOf": "2026-11-20T06:52:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "صباح الجمعة.. تعرف على الحالة المرورية بشوارع وميادين القاهرة والجيزة",
+     "url": "https://www.elbalad.news/7187533",
+     "source": "صدى البلد",
+     "time": "2026-11-20T06:50:55.000Z",
+     "seen": "2026-11-20T06:51:45.291Z"
+    },
+    {
      "title": "أستاذ علم اجتماع: الاحتفال باليوم العالمي للطفولة احتفاء بمستقبل مصر",
      "url": "https://www.elbalad.news/7187531",
      "source": "صدى البلد",
@@ -152,13 +159,6 @@
      "source": "صدى البلد",
      "time": "2026-11-20T06:35:13.000Z",
      "seen": "2026-11-20T06:41:45.088Z"
-    },
-    {
-     "title": "مهيب عبد الهادي: كفاية مكايدات.. منتخب مصر يحتاج تلاحم الأجيال",
-     "url": "https://www.elbalad.news/7187526",
-     "source": "صدى البلد",
-     "time": "2026-11-20T06:30:44.000Z",
-     "seen": "2026-11-20T06:31:44.930Z"
     },
     {
      "title": "الطقس اليوم.. ارتفاع بالحرارة وشبورة صباحا والعظمى بالقاهرة 29 درجة",
@@ -254,19 +254,19 @@
      "impact": "يساعد المستثمرين والأفراد في مصر على متابعة التحديثات الرسمية لأسعار سلة العملات لدى البنك المركزي المصري."
     },
     {
-     "title": "سعر الذهب اليوم الجمعة 20 نوفمبر 2026.. استقرار عيار 21 بعد خسائر 65 جنيهًا",
-     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQdUJSNTNGbHdpY2tnQkhBTHR3QlAxZU1qdTd0NEUzeU1zWHNIM1FlTExwR2d2ZmtsbTZkZVEyc1oxSXVjNmlTNG1zQUhJNkJXeTVVRnZjX1FkcmhNNjRZMldjbzBJendvekMta1d2Uzg0VEdiUW5tSU85aXVyLVBsX1paelpxOG9YWkZkZjRaNHNzOXFjdF9pYmlOV2lUX1NpTkg0c0Z3dlhaQ3NkTGtPc3N3VHRUOFBzZTFWVU0xSWZZS3B3aFo5VldBNTZoQVlURHhUWUxZeVRQanM4R0VaaGxQajA0a3RucHN5bXRwVFhqS1RwRlVpbzNtTnJFOXBHS080OVhmS053TTVCb19oZ1BlQXVkdHQxUVVRLUljRk5Qckt6MmdheVN1a090WlYwb05ISGxlMXhGdVBIaFEtel9WQ2hnYVcybzZUSG1QbUlkS0dCS1BycjJfQXlBc0hrZ3c4NVNEcC1OZ0pPMzlmRUlmMFRkSG96eG40dWtmLW04S19yTkNtdEg4YnRiMndNUXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T05:00:00.000Z",
-     "seen": "2026-11-20T06:41:45.088Z"
-    },
-    {
      "title": "سعر الدولار في البنوك الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRSXc0MDVsZGJBT25GeE0yclFHMDdGUGdZTDduVllUU1pZaTBYVlE1ejFrRGRBR0dpUmkxTFIwUUFSUkJSR3Nz?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-20T05:00:00.000Z",
      "seen": "2026-11-20T05:01:44.509Z",
      "impact": "يهم المتعاملين والتجار لضبط معاملاتهم المالية وتكاليف الاستيراد وفق سعر الدولار اللحظي في البنوك."
+    },
+    {
+     "title": "سعر الذهب اليوم الجمعة 20 نوفمبر 2026.. استقرار عيار 21 بعد خسائر 65 جنيهًا",
+     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQdUJSNTNGbHdpY2tnQkhBTHR3QlAxZU1qdTd0NEUzeU1zWHNIM1FlTExwR2d2ZmtsbTZkZVEyc1oxSXVjNmlTNG1zQUhJNkJXeTVVRnZjX1FkcmhNNjRZMldjbzBJendvekMta1d2Uzg0VEdiUW5tSU85aXVyLVBsX1paelpxOG9YWkZkZjRaNHNzOXFjdF9pYmlOV2lUX1NpTkg0c0Z3dlhaQ3NkTGtPc3N3VHRUOFBzZTFWVU0xSWZZS3B3aFo5VldBNTZoQVlURHhUWUxZeVRQanM4R0VaaGxQajA0a3RucHN5bXRwVFhqS1RwRlVpbzNtTnJFOXBHS080OVhmS053TTVCb19oZ1BlQXVkdHQxUVVRLUljRk5Qckt6MmdheVN1a090WlYwb05ISGxlMXhGdVBIaFEtel9WQ2hnYVcybzZUSG1QbUlkS0dCS1BycjJfQXlBc0hrZ3c4NVNEcC1OZ0pPMzlmRUlmMFRkSG96eG40dWtmLW04S19yTkNtdEg4YnRiMndNUXc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T05:00:00.000Z",
+     "seen": "2026-11-20T06:41:45.088Z"
     },
     {
      "title": "رونالدو، مارادونا، باجيو.. ماذا حدث لفرق نجوم العالم؟",
@@ -463,6 +463,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "أسهم الرقائق تتراجع بقوة في آسيا ومؤشر إقليمي يتجه إلى أسوأ أسبوع منذ 2020",
+     "url": "https://aitnews.com/2026/11/20/asian-chip-stocks-ai-investment-selloff-november-2026/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T06:42:51.000Z",
+     "seen": "2026-11-20T06:51:45.291Z"
+    },
+    {
      "title": "أسبوع دبي للمستقبل.. روبوتات التوصيل وشراكات الذكاء الاصطناعي تتصدر اليوم الثاني",
      "url": "https://aitnews.com/2026/11/20/%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d8%af%d8%a8%d9%8a-%d9%84%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%b1%d9%88%d8%a8%d9%88%d8%aa%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%88%d8%b5%d9%8a%d9%84-%d9%88%d8%b4/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -474,13 +481,6 @@
      "url": "https://aitnews.com/2026/11/20/chatgpt-health-android-desktop-health-connect-dots/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T06:29:57.000Z",
-     "seen": "2026-11-20T06:31:44.930Z"
-    },
-    {
-     "title": "تطوير عدسات سناب شات عبر سطر الأوامر: مزايا Easy Lens CLI المجانية للمطورين",
-     "url": "https://aitnews.com/2026/11/20/snapchat-easy-lens-cli-claude-code-codex-cursor/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-20T06:29:00.000Z",
      "seen": "2026-11-20T06:31:44.930Z"
     },
     {
