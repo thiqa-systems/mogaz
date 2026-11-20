@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:23:09.516Z",
+ "updated": "2026-11-20T08:33:09.703Z",
  "minute": [
   "شهدت الأسواق المصرية استقراراً في سعر الذهب لعيار 21 بعد خسائر سابقة، مع متابعة لتحديثات أسعار العملات والدولار قبل العطلة.",
   "أعلنت وزارة التربية والتعليم المصرية مواعيد امتحانات الطلاب المصريين في الخارج للعام الدراسي المقبل.",
@@ -11,45 +11,45 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T08:23:09.516Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T08:33:09.703Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 53.81,
-   "change": null,
-   "asOf": "2026-11-20T00:02:32.000Z",
-   "source": "ExchangeRate-API"
+   "value": 53.76,
+   "change": 0.08,
+   "asOf": "2026-11-20T07:44:02.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5418,
-   "change": null,
-   "asOf": "2026-11-20T08:25:05Z",
+   "value": 5417,
+   "change": -2.74,
+   "asOf": "2026-11-20T08:25:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6186,
-   "change": null,
-   "asOf": "2026-11-20T08:25:05Z",
+   "value": 6185,
+   "change": -2.74,
+   "asOf": "2026-11-20T08:25:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3579,
-   "change": null,
-   "asOf": "2026-11-20T08:25:05Z",
-   "source": "gold-api.com"
+   "value": 3582,
+   "change": -2.82,
+   "asOf": "2026-11-20T08:25:53.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
@@ -58,28 +58,25 @@
    "value": 51458,
    "change": -0.17,
    "asOf": "2026-11-19T12:25:12.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0979,
-   "change": 0.06,
-   "asOf": "2026-11-20T08:13:47.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "value": 1.0978,
+   "change": 0.05,
+   "asOf": "2026-11-20T08:35:47.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.74,
-   "change": -2.44,
-   "asOf": "2026-11-20T08:04:08.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "value": 89.09,
+   "change": -3.14,
+   "asOf": "2026-11-20T08:25:52.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
@@ -87,18 +84,17 @@
    "unit": "نقطة",
    "value": 7176,
    "change": -2.02,
-   "asOf": "2026-11-19T21:00:00.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "asOf": "2026-11-19T21:59:18.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61839,
-   "change": -2.92,
-   "asOf": "2026-11-20T08:25:34.134Z",
-   "source": "CoinGecko"
+   "value": 61979,
+   "change": 0.13,
+   "asOf": "2026-11-20T08:35:53.000Z",
+   "source": "Yahoo Finance"
   }
  ],
  "indicators": [
@@ -144,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في بنكي الأهلي ومصر",
-     "url": "https://www.elbalad.news/7187578",
+     "title": "كيف تحمي طفلك من العنف النفسي؟..أستاذ علم اجتماع يحدد قواعد التربية السليمة",
+     "url": "https://www.elbalad.news/7187591",
      "source": "صدى البلد",
-     "time": "2026-11-20T08:15:00.000Z",
-     "seen": "2026-11-20T08:23:09.516Z"
+     "time": "2026-11-20T08:32:05.000Z",
+     "seen": "2026-11-20T08:33:09.703Z"
     },
     {
-     "title": "بعد الوقفات الاحتجاجية.. إعلامي يوجه رسالة لـ الزمالك بسبب الرواتب المتأخرة",
-     "url": "https://www.elbalad.news/7187567",
+     "title": "بديل صحي لـ الملح.. يقي من الضغط ويحفظ القلب والكلى",
+     "url": "https://www.elbalad.news/7187581",
      "source": "صدى البلد",
-     "time": "2026-11-20T08:15:00.000Z",
-     "seen": "2026-11-20T08:23:09.516Z"
+     "time": "2026-11-20T08:30:00.000Z",
+     "seen": "2026-11-20T08:33:09.703Z"
     },
     {
-     "title": "في ذكري ميلادها .. محطات فنية في حياة برلنتي عبد الحميد",
-     "url": "https://www.elbalad.news/7187584",
+     "title": "ChatGPT Health يصل إلى أندرويد والكمبيوتر.. إليك أبرز المزايا والقيود",
+     "url": "https://www.elbalad.news/7187571",
      "source": "صدى البلد",
-     "time": "2026-11-20T08:14:53.000Z",
-     "seen": "2026-11-20T08:23:09.516Z"
+     "time": "2026-11-20T08:30:00.000Z",
+     "seen": "2026-11-20T08:33:09.703Z"
+    },
+    {
+     "title": "النشرة المرورية.. سيولة بحركة السيارات بمحاور القاهرة والجيزة",
+     "url": "https://www.youm7.com/story/2026/11/20/النشرة-المرورية-سيولة-بحركة-السيارات-بمحاور-القاهرة-والجيزة/7625518",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T08:26:00.000Z",
+     "seen": "2026-11-20T08:33:09.703Z"
     },
     {
      "title": "الحكومة: بلوغ أطوال كابلات الألياف الضوئية 1.5 مليون كيلومتر بحلول 2030",
@@ -179,13 +182,6 @@
      "seen": "2026-11-20T07:43:09.441Z"
     },
     {
-     "title": "مايا مرسي تستقبل المدير الإقليمي لليونيسف لبحث دعم برامج حماية الطفل",
-     "url": "https://www.youm7.com/story/2026/11/20/مايا-مرسي-تستقبل-المدير-الإقليمي-لليونيسف-لبحث-دعم-برامج-حماية/7625465",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T07:13:00.000Z",
-     "seen": "2026-11-20T07:23:09.896Z"
-    },
-    {
      "title": "يدخل حيز التنفيذ اليوم.. قرار جديد من رئيس مجلس الوزراء",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YRXJ0b3VOT1hBOXpsSkFTZEpfZi1GZmZwT0ZYVS1CeTFyaGdTSEJTY28wZ3BabmxzX1hXdzdIRS1wcnJzNUp3U1BfRGJ2ZVpRNTJ3VlJHQ1cyU1cxa1BV?oc=5",
      "source": "المصري اليوم",
@@ -196,7 +192,7 @@
      "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-20T02:16:36.000Z",
+     "time": "2026-11-20T02:18:22.000Z",
      "seen": "2026-11-20T07:03:09.870Z"
     },
     {
@@ -569,10 +565,5 @@
   }
  ],
  "failed": [],
- "marketErrors": [
-  "brent: HTTP 429",
-  "egx30: HTTP 429",
-  "eurusd: HTTP 429",
-  "sp500: HTTP 429"
- ]
+ "marketErrors": []
 }
