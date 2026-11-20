@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-20T21:55:26.244Z",
+ "updated": "2026-11-20T22:05:26.003Z",
  "minute": [
-  "قدمت بنوك مصرية شهادات ادخار جديدة بعوائد تصل إلى 20.5%، بالتوازي مع استقرار أسعار الدولار والريال السعودي في البنوك.",
-  "وعلى الصعيد الدولي، أعلن عن اتفاق بين أمريكا والصين بشأن تنظيم الذكاء الفائق، واستثمارات قطرية في ألمانيا، وتطورات ميدانية وسياسية في المنطقة.",
-  "ومحلياً، شهدت محافظة قنا تنظيم قافلة طبية مجانية للمواطنين، إلى جانب متابعة عدة فعاليات رياضية وثقافية."
+  "تضمنت الأخبار المحلية إعلان خطة حكومية لإدخال ست محافظات جديدة للتأمين الصحي حتى عام 2030، مع استقرار سعر الدولار بالبنوك وتفاصيل شهادات ادخار بعوائد مرتفعة.",
+  "على المستوى العالمي والتكنولوجي، شهدت الأسواق تراجعاً لسهم تسلا ومؤشر ناسداك وسط موجة بيع في قطاع الذكاء الاصطناعي وتصريحات بشأن الفائدة الأمريكية.",
+  "كما تناولت الأخبار تطورات سياسية وإقليمية في المنطقة، إلى جانب أنباء وتحديثات عن تقنيات الذكاء الاصطناعي وأخبار الطقس."
  ],
  "ai": {
-  "at": "2026-11-20T20:35:25.475Z",
+  "at": "2026-11-20T22:05:26.003Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T21:55:26.244Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -27,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5332,
-   "change": -4.27,
-   "asOf": "2026-11-20T21:45:45.000Z",
+   "value": 5350,
+   "change": -3.95,
+   "asOf": "2026-11-20T21:55:39.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6088,
-   "change": -4.27,
-   "asOf": "2026-11-20T21:45:45.000Z",
+   "value": 6108,
+   "change": -3.95,
+   "asOf": "2026-11-20T21:55:39.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3526,
-   "change": -4.34,
-   "asOf": "2026-11-20T21:45:45.000Z",
+   "value": 3537,
+   "change": -4.02,
+   "asOf": "2026-11-20T21:55:39.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.03,
-   "asOf": "2026-11-20T21:54:46.000Z",
+   "value": 1.0975,
+   "change": 0.03,
+   "asOf": "2026-11-20T22:04:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.96,
-   "change": -2.2,
-   "asOf": "2026-11-20T21:45:03.000Z",
+   "value": 89.84,
+   "change": -2.33,
+   "asOf": "2026-11-20T21:55:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58867,
-   "change": -4.9,
-   "asOf": "2026-11-20T21:55:42.000Z",
+   "value": 58985,
+   "change": -4.71,
+   "asOf": "2026-11-20T22:05:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +137,45 @@
    "title": "مصر",
    "items": [
     {
+     "title": "أخبار × 24 ساعة.. خطة حكومية لإدخال 6 محافظات جديدة للتأمين الصحى حتى 2030",
+     "url": "https://www.youm7.com/story/2026/11/21/أخبار-×-24-ساعة-خطة-حكومية-لإدخال-6-محافظات-جديدة/7626391",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T22:00:00.000Z",
+     "seen": "2026-11-20T22:05:26.003Z",
+     "impact": "يزود المواطنين في مصر بمعلومات حول الخطة الزمنية للتوسع في خدمات التأمين الصحي الشامل بالمحافظات."
+    },
+    {
+     "title": "شبورة صباحية وفرص أمطار خفيفة.. تفاصيل طقس اليوم السبت 21 نوفمبر 2026",
+     "url": "https://www.youm7.com/story/2026/11/21/شبورة-صباحية-وفرص-أمطار-خفيفة-تفاصيل-طقس-اليوم-السبت-21/7626038",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T22:00:00.000Z",
+     "seen": "2026-11-20T22:05:26.003Z",
+     "impact": "ساعد الأفراد في اتخاذ الحيطة أثناء التنقل صباحاً بسب توقعات الشبورة وفرص الأمطار الخفيفة."
+    },
+    {
+     "title": "درجات الحرارة اليوم السبت 21 نوفمبر 2026.. العظمى بالقاهرة 28 درجة",
+     "url": "https://www.youm7.com/story/2026/11/21/درجات-الحرارة-اليوم-السبت-21-نوفمبر-2026-العظمى-بالقاهرة-28/7626036",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T22:00:00.000Z",
+     "seen": "2026-11-20T22:05:26.003Z"
+    },
+    {
+     "title": "مقارنة شاملة بين هاتفي OPPO Reno 17 Pro وReno 17.. الفروق والأسعار",
+     "url": "https://www.elbalad.news/7188277",
+     "source": "صدى البلد",
+     "time": "2026-11-20T22:00:00.000Z",
+     "seen": "2026-11-20T22:05:26.003Z",
+     "impact": "يفيد المستهلكين المهتمين بسوق الهواتف الذكية في التعرف على الفروق والأسعار قبل الشراء."
+    },
+    {
+     "title": "أعلى سعر ذهب في الصاغة الآن",
+     "url": "https://www.elbalad.news/7188137",
+     "source": "صدى البلد",
+     "time": "2026-11-20T22:00:00.000Z",
+     "seen": "2026-11-20T22:05:26.003Z",
+     "impact": "يهتم به الراغبون في شراء أو بيع الذهب بمصر لمتابعة أسعار السوق لحظة بلحظة."
+    },
+    {
      "title": "انفجار جزيرة قشم ناجم عن تفجير ذخائر غير منفجرة.. والحرس الثوري يعلن انفجار ناقلة نفط بلغم بحري قرب هرمز",
      "url": "https://www.elbalad.news/7188116",
      "source": "صدى البلد",
@@ -146,46 +183,11 @@
      "seen": "2026-11-20T21:55:26.244Z"
     },
     {
-     "title": "إعلامي: الزمالك سدد مستحقات اللاعبين الأجانب",
-     "url": "https://www.elbalad.news/7188361",
-     "source": "صدى البلد",
-     "time": "2026-11-20T21:50:51.000Z",
-     "seen": "2026-11-20T21:55:26.244Z"
-    },
-    {
-     "title": "مدير عام الأزهر للفتوى يلقي خطبة الجمعة من مركز ومؤسسة أمان بالعاصمة لندن",
-     "url": "https://www.elbalad.news/7188367",
-     "source": "صدى البلد",
-     "time": "2026-11-20T21:50:22.000Z",
-     "seen": "2026-11-20T21:55:26.244Z"
-    },
-    {
-     "title": "لائحة المجمع المقدس 2026 تلزم الأساقفة بموافقة البابا قبل السفر للخارج",
-     "url": "https://www.youm7.com/story/2026/11/20/لائحة-المجمع-المقدس-2026-تلزم-الأساقفة-بموافقة-البابا-قبل-السفر/7625809",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T21:11:00.000Z",
-     "seen": "2026-11-20T21:15:26.278Z"
-    },
-    {
-     "title": "عبد الفتاح عبد المنعم: مهرجان القاهرة السينمائى يعكس قوة مصر الناعمة.. صور وفيديو",
-     "url": "https://www.youm7.com/story/2026/11/20/عبد-الفتاح-عبد-المنعم-مهرجان-القاهرة-السينمائى-يعكس-قوة-مصر/7626472",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T20:33:00.000Z",
-     "seen": "2026-11-20T20:35:25.475Z"
-    },
-    {
      "title": "بحضور مدبولي وشيخ الأزهر ومحلب .. 25 صورة من عزاء نجل رئيس مجلس الشيوخ السابق",
      "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQVmd3T1h5TTlSVHRUSnU2bFhpcUtzUzNmVEJjT0hqX3ozTHE3UEJfa1N3ejFHbklKRFpPQi1PQldWTUpNZGJtSjk3WXB2cHBpS2N2Z2plVnRZTUhCeG85OW5XdzNXbGE1a1M4VjZSQkU1eXZ1Z3ZZWDNmY08zYnVMWF90eFBCdXRXczZfQ3RDOFVKc3ltWXBtT2hCRlp0eXJPVzBNNDFJWXV2TlM0aTBZR3JLZWhrWWVJVm0tWEhTNGt2RF9VZHZDaDRucE1Qc01XWlRUcWpXY0VoazdmQUhJUEM3QWp6YXNJU1Jla2hndXByRzlUOUJzN3BDdzMyU19hbko2anRGQmYzbXJHd0pwaXl4MHJKQ01STDU4ZF9TMHFFWFdRTERrVm5YZUJPeXpNSUNEVGVSYzR6TXZBZGtZZGxFdEhOb3JXbWp4Z2VPekk2WDg4eWV4YW5jbmdEdlRYUTJIcmREY2xwV2pXSFo1UnNjYjlqVW9wdTFtQW1kYm45cGczaTVsV0haQXpTLXAyTDE3R05qU283NVhOQXFyaFlFZUN2enZKYk9PT1BsX09zbkNzWUx3YXVGNUJmc0h0NFEzRS0tYjV2dGcwQV9IVlFhYXZfNTV0M1JUVGRpclVNM1p6cVMtUEpuQTVJZmRwQ0ExQldPYkRiQTJudW1zZmwxeVplcy1ObzBVRUg1VVdWOXZXYTQ1T2lfMFJvUEV3RjhpUjlwOElOTEt3WFdXWUtCc2NzS0pOMlVYX1NzZ0JhYVk5ZDZoUlVfcURxMmN3dFJzaGdXMGtEcDgtVW13a2dB0gHnBEFVX3lxTFBPSnpMdGJoYXI0N19sSzJfaGpWZFJEMmRWMkxkbkoyZndNOHJuc0NDb2VRdGx2OE5SYmhzUy02amlXazJtdlNFelJpWVM3eGRUR1VUMTJIMWd4TGxWVHpWYlQ3djZqdnR4RTR0Y2pBYVQ4YTNfaXlTS2h5SWJrNkROMjBLTjhzZmg1MEh0dUZ4OU1ZTnpnRjlKSmxpSDdIemh2RmowU19hX29XZEQ4QVU1MG9XMEtFeExmM0U0bzcyajdJS3hlWFAwQXNGQ2lxckNkMXBrQVQ0QVJoZDJfbkpCcUtsUWc4M0todExnR1l3S1hJdUJ4ZkhXT3p4dEQ3Zk1iVHd1QjZxczFNU3RSR0MwSWZxa09ldThGZzVORDUtTVNFVUEtRU1JSkZ2X19ud0piMllwN2xOcG9leTNIR0V1TVlkaHNpc1Zibl81TS1zTHpzamN5YUwxZm9pRXp1cWNsWWd6NldoUU4zZjYwelpJSnRCQlc2aWJoMlo3Y0ZXTFR3UlN2N3JtaWlHcmpDNWFRcXEtSjdtQkJybXFYS2IzQXRuTVdudWtXUVg4RUpxOWZ5Ry05UHZ1RWpvNW83VEpNSzZCbHk5TGl0dF8wU2JCRU1BbzZtbF9kOUphaW5UeW9DSU9takRGZ1NXZmJJVmhGbFp2eDdtQzFQQldUNTBYZ1kza0RoNWtYaHdJSFpydm5lRlZ4dl8xOHBVUHk2TVhxdmJhM3ppN3JJM0VXWHgwODNoQnNVTkJSNEJZeThKaWp5MjAteUlUZld5b0t6T1pGcFMxMFhCeHk4ODVyZ2tvNVhWN0JnWQ?oc=5",
      "source": "Masrawy",
      "time": "2026-11-20T20:14:00.000Z",
      "seen": "2026-11-20T20:35:25.475Z"
-    },
-    {
-     "title": "المدارس تحتفل بأعياد الطفولة.. عروض فنية ترسم البهجة على وجوه الطلاب.. صور",
-     "url": "https://www.youm7.com/story/2026/11/20/المدارس-تحتفل-بأعياد-الطفولة-عروض-فنية-ترسم-البهجة-على-وجوه/7626462",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T19:56:00.000Z",
-     "seen": "2026-11-20T20:05:25.592Z"
     },
     {
      "title": "رئيس الوزراء يقدم واجب العزاء في نجل المستشار عبدالوهاب عبدالرازق",
@@ -248,7 +250,7 @@
      "source": "عالم المال",
      "time": "2026-11-20T20:32:19.000Z",
      "seen": "2026-11-20T20:35:25.475Z",
-     "impact": "توفر شهادة بنك مصر للأفراد وعاءً ادخارياً يقدم عائداً يومياً يصل إلى 20% لتلبية احتياجات السيولة."
+     "impact": "يتيح للأفراد والمستثمرين التعرف على خيارات الادخار ذات العائد اليومي المتاح عبر بنك مصر."
     },
     {
      "title": "بيسنت يدعو الفيدرالي إلى عدم رفع الفائدة 50 نقطة",
@@ -269,7 +271,8 @@
      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOQzFrVXQ2UW1Kb1ppVjNtaGpLUUJGeWUzUk11OWVDUk1GbU8zQzZjZlJSX0M4aHlqTWlWUHBJQllIU3ozR2dfZmQxNXYwcjVvaFItS2c5YTgwMUpTQ0FzcEY3RGEyZzdlejNjTmtBNThrMV91cnQyU24ybXRYTi1ybmxuNGVZdVUwRzA2cmJUMVowMi1rSWFVNTNVVThBcGdZdE5OcnpYQ3Z3R1BXLUk5U1M0Qk94cVpxWnVIM3R5SWZ1M2RNNS1kRTNBT05Fbmd6ZUdWNFJmVXZWY2xFcl9KM1A5a2VvNUlES2VTa3p6OFUyVTNSU1dEOGRFYkVMWGhUMGtQQmNCV0lDSERxSzRxR1JCSjNCa28wWjdDS3hfUGY2TTVOVnJEa3VMRnJoUER3Y25DM1p4NnhLZUFhZEtVclVaUGVFZ3JMc0ZVcXNEVWZzRXdRbGVXal9LNElPZzhMcjhMOF9teTZnV0l1MmE0SGtDZFJubjJLRy1EYURYQVJoNVNkdDV2MzlpVmFVTzdiRGp1ZmFRVjFKRGx4THFmLURB0gGiA0FVX3lxTE5DMWtVdDZRbUpvWmlWM21oaktRQkZ5ZTNSTXU5ZUNSTUZtTzNDNmNmUlJfQzhoeWpNaVZQcElCWUhTejNHZ19mZDE1djByNW9oUi1LZzlhODAxSlNDQXNwRjdEYTJnN2V6M2NOa0E1OGsxX3VydDJTbjJtdFhOLXJubG40ZVl1VTBHMDZyYlQxWjAyLWtJYVU1M1VVOEFwZ1l0Tk5yelhDdndHUFctSTlTUzRCT3hxWnFadUgzdHlJZnUzZE01LWRFM0FPTkVuZ3plR1Y0UmZVdlZjbEVyX0ozUDlrZW81SURLZVNreno4VTJVM1JTV0Q4ZEViRUxYaFQwa1BCY0JXSUNIRHFLNHFHUkJKM0JrbzBaN0NLeF9QZjZNNU5WckRrdUxGcmhQRHdjbkMzWng2eEtlQWFkS1VyVVpQZUVnckxzRlVxc0RVZnNFd1FsZVdqX0s0SU9nOExyOEw4X215NmdXSXUyYTRIa0NkUm5uMktHLURhRFhBUmg1U2R0NXYzOWlWYVVPN2JEanVmYVFWMUpEbHhMcWYtREE?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-20T20:03:49.000Z",
-     "seen": "2026-11-20T21:25:26.113Z"
+     "seen": "2026-11-20T21:25:26.113Z",
+     "impact": "يهتم به المتعاملون والمستوردون للتحقق من استقرار تكلفة التمويل وسعر الصرف بالبنوك."
     },
     {
      "title": "أعلى شهادات الادخار في بنك القاهرة 2026.. عائد يصل إلى 20.5%",
@@ -277,7 +280,7 @@
      "source": "عالم المال",
      "time": "2026-11-20T19:31:06.000Z",
      "seen": "2026-11-20T19:35:26.092Z",
-     "impact": "تمنح شهادة بنك القاهرة المودعين فرصة للاستفادة من عائد سنوي يصل إلى 20.5% على أدوات الادخار."
+     "impact": "يساعد المدخرين في مصر على المقارنة بين عوائد شهادات الادخار المتاحة في بنك القاهرة."
     },
     {
      "title": "سعر الريال السعودي اليوم الجمعة 20 نوفمبر 2026 في البنوك",
@@ -353,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "عراقجي يحدد \"مطلب إيران الأول وخطوطها الحمراء\"",
+     "url": "https://www.skynewsarabia.com/middle-east/1906141-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%85%D8%B7%D9%84%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%88%D8%AE%D8%B7%D9%88%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T22:04:46.000Z",
+     "seen": "2026-11-20T22:05:26.003Z"
+    },
+    {
      "title": "ظريف يلمح لضرورة إبرام اتفاق مع أميركا ويحذر من \"نفاد الوقت\"",
      "url": "https://www.skynewsarabia.com/middle-east/1906139-%D8%B8%D8%B1%D9%8A%D9%81-%D9%8A%D9%84%D9%85%D8%AD-%D9%84%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%A5%D8%A8%D8%B1%D8%A7%D9%85-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D9%8A%D8%AD%D8%B0%D8%B1-%D9%86%D9%81%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D9%82%D8%AA",
      "source": "سكاي نيوز عربية",
@@ -411,19 +421,18 @@
      "seen": "2026-11-20T19:45:25.866Z"
     },
     {
-     "title": "عون: لبنان يواجه مرحلة دقيقة في ظل اعتداءات إسرائيل",
-     "url": "https://www.skynewsarabia.com/middle-east/1906104-%D8%B9%D9%88%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D8%B8%D9%84-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T19:15:23.000Z",
-     "seen": "2026-11-20T19:25:25.493Z",
-     "impact": "تؤثر التطورات الأمنية والإقليمية في لبنان على تقييم المخاطر وتوقعات الاستقرار في منطقة الشرق الأوسط."
-    },
-    {
      "title": "جريمة \"المنياوي\" تهز مصر .. كيف يمكن كشف العنف ضد الأطفال قبل فوات الأوان؟",
      "url": "https://www.dw.com/ar/جريمة-المنياوي-تهز-مصر-كيف-يمكن-كشف-العنف-ضد-الأطفال-قبل-فوات-الأوان؟/a-79997207?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-20T18:58:00.000Z",
      "seen": "2026-11-20T19:15:25.593Z"
+    },
+    {
+     "title": "كلاسيكو الدوري السعودي.. كيف قلبت ركلة جزاء رونالدو الضائعة موازين القمة؟ (فيديو)",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%b1%d9%83%d9%84%d8%a9-%d8%ac%d8%b2%d8%a7%d8%a1-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d8%a7%d9%84%d8%b6%d8%a7%d8%a6%d8%b9%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T18:56:07.000Z",
+     "seen": "2026-11-20T22:05:26.003Z"
     },
     {
      "title": "التحالف يشن هجوما في اليمن والحوثيون يردون بهجوم في السعودية",
@@ -445,14 +454,6 @@
      "source": "فرانس 24",
      "time": "2026-11-20T18:38:28.000Z",
      "seen": "2026-11-20T18:55:25.334Z"
-    },
-    {
-     "title": "الحوثيون يعلنون استهداف ميناء جازان ومحطة الشقيق الكهربائية بالسعودية",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/houthis-claim-attacks-jazan-port-al-shuqaiq-power-plant-coalition",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T18:33:56.000Z",
-     "seen": "2026-11-20T18:25:25.809Z",
-     "impact": "قد تؤثر التوترات الإقليمية في الخليج على أسعار الطاقة وشحن البضائع مما ينعكس على الأسواق المحلية."
     }
    ]
   },
@@ -465,7 +466,8 @@
      "url": "https://aitnews.com/2026/11/21/%d9%87%d8%a8%d9%88%d8%b7-%d9%86%d8%a7%d8%b3%d8%af%d8%a7%d9%83-%d8%a8%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-4-%d9%85%d8%b9-%d9%85%d9%88%d8%ac%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%ad%d8%a7%d8%af%d8%a9-%d9%81/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T20:54:32.000Z",
-     "seen": "2026-11-20T20:55:26.170Z"
+     "seen": "2026-11-20T20:55:26.170Z",
+     "impact": "يهم المستثمرين المهتمين بالأسواق المالية العالمية لمتابعة تراجعات قطاع التكنولوجيا والرقائق."
     },
     {
      "title": "ترامب يهدد بفرض ضرائب باهظة على شركات التكنولوجيا التي تبني مراكز بيانات خارج أمريكا",
