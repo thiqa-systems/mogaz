@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-20T03:31:45.110Z",
+ "updated": "2026-11-20T03:41:45.341Z",
  "minute": [
-  "تناولت الأخبار تحديثات أسعار البنزين والسولار وسعر صرف الدولار أمام الجنيه في البنوك المصرية.",
-  "على الصعيد الدولي، اختتمت قمة بين قادة الصين والولايات المتحدة وروسيا بإعلان سلام وتعهدات بشأن المخاطر النووية.",
-  "تكنولوجياً، بدأت شركة مايكروسوفت التثبيت التلقائي للتحديث الجديد لنظام ويندوز 11 على الأجهزة المؤهلة.",
-  "كما شملت الأخبار مواعيد رحلات قطارات تالجو وتفاصيل متعلقة بالسفينة المصرية وادي العرب وأحداث رياضية ومحلية."
+  "أعلنت وزارة العمل عن توفير 1323 فرصة عمل في القطاع الخاص برواتب تصل إلى 15 ألف جنيه، إلى جانب طرح حق استغلال ساحات الانتظار لمدة 10 سنوات.",
+  "سجلت الأسواق استقرار سعر الذهب عيار 21 عند 5730 جنيهاً مع تسجيل سعر الدولار للشراء 53.77 جنيه أمام الجنيه المصري.",
+  "تناولت الأخبار استهداف سفينة وادي العرب المصرية بثلاث مسيرات في البحر الأسود، بالتزامن مع مناقشة ملفات أمن الطاقة وأحدث التطورات التقنية والتحديثات لأنظمة التشغيل."
  ],
  "ai": {
-  "at": "2026-11-20T02:21:44.940Z",
-  "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T03:31:45.110Z"
+  "at": "2026-11-20T03:41:45.341Z",
+  "model": "gemini-3.8-flash",
+  "key": 2,
+  "impacts": 9
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5328,
-   "change": -4.33,
-   "asOf": "2026-11-20T03:22:19.000Z",
+   "value": 5346,
+   "change": -4.02,
+   "asOf": "2026-11-20T03:32:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6083,
-   "change": -4.33,
-   "asOf": "2026-11-20T03:22:19.000Z",
+   "value": 6103,
+   "change": -4.02,
+   "asOf": "2026-11-20T03:32:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3523,
-   "change": -4.42,
-   "asOf": "2026-11-20T03:22:19.000Z",
+   "value": 3534,
+   "change": -4.11,
+   "asOf": "2026-11-20T03:32:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": 0.04,
-   "asOf": "2026-11-20T03:31:46.000Z",
+   "value": 1.0977,
+   "change": 0.05,
+   "asOf": "2026-11-20T03:41:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.79,
-   "change": -2.38,
-   "asOf": "2026-11-20T03:21:49.000Z",
+   "value": 89.77,
+   "change": -2.4,
+   "asOf": "2026-11-20T03:32:05.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62077,
-   "change": -1.45,
-   "asOf": "2026-11-20T03:32:17.000Z",
+   "value": 61958,
+   "change": -1.63,
+   "asOf": "2026-11-20T03:42:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,39 +137,41 @@
    "title": "مصر",
    "items": [
     {
+     "title": "استجابة لـ صدى البلد.. رئيس حي القناطر يوجه برفع القمامة من شارع عبد السلام عارف",
+     "url": "https://www.elbalad.news/7187513",
+     "source": "صدى البلد",
+     "time": "2026-11-20T03:38:40.000Z",
+     "seen": "2026-11-20T03:41:45.341Z"
+    },
+    {
+     "title": "جمعية المهندسين تتحرك لإنقاذ مبانيها التراثية واستعادة دورها العلمي والاستشاري",
+     "url": "https://www.elbalad.news/7187514",
+     "source": "صدى البلد",
+     "time": "2026-11-20T03:37:49.000Z",
+     "seen": "2026-11-20T03:41:45.341Z"
+    },
+    {
+     "title": "زكي عبد الفتاح: مصطفى شوبير يستحق حراسة مرمى المنتخب.. وبيراميدز يتفوق نفسيا على الأهلي",
+     "url": "https://www.elbalad.news/7187486",
+     "source": "صدى البلد",
+     "time": "2026-11-20T03:36:47.000Z",
+     "seen": "2026-11-20T03:41:45.341Z"
+    },
+    {
      "title": "مشاركة القطاع الخاص.. طرح حق استغلال ساحات انتظار السيارات لمدة 10 سنوات",
      "url": "https://www.youm7.com/story/2026/11/20/مشاركة-القطاع-الخاص-طرح-حق-استغلال-ساحات-انتظار-السيارات-لمدة/7623656",
      "source": "اليوم السابع",
      "time": "2026-11-20T03:30:00.000Z",
-     "seen": "2026-11-20T03:31:45.110Z"
-    },
-    {
-     "title": "غير شاملة أضرار القواعد الأمريكية بالخليج.. البنتاجون تقدر تكلفة حرب إيران بـ48.3 مليار دولار",
-     "url": "https://www.elbalad.news/7187508",
-     "source": "صدى البلد",
-     "time": "2026-11-20T03:22:17.000Z",
-     "seen": "2026-11-20T03:31:45.110Z"
-    },
-    {
-     "title": "مصر تدين الاعتداءات على السعودية: أمن المملكة جزء لا يتجزأ من الأمن القومي المصري والعربي",
-     "url": "https://www.elbalad.news/7187507",
-     "source": "صدى البلد",
-     "time": "2026-11-20T03:16:13.000Z",
-     "seen": "2026-11-20T03:21:44.508Z"
-    },
-    {
-     "title": "الطاهر الباعور يبحث مع نبيل فهمي تعزيز التعاون بين ليبيا والجامعة العربية",
-     "url": "https://www.elbalad.news/7187506",
-     "source": "صدى البلد",
-     "time": "2026-11-20T03:08:50.000Z",
-     "seen": "2026-11-20T03:11:44.798Z"
+     "seen": "2026-11-20T03:31:45.110Z",
+     "impact": "يتيح للمستثمرين في مصر التعرف على الفرص الاستثمارية المطروحة للشراكة مع الدولة في إدارة ساحات انتظار السيارات بعقود طويلة الأجل."
     },
     {
      "title": "وزارة العمل تعلن عن 1323 فرصة عمل بالقطاع الخاص برواتب تصل لـ15 ألف جنيه",
      "url": "https://www.youm7.com/story/2026/11/20/وزارة-العمل-تعلن-عن-1323-فرصة-عمل-بالقطاع-الخاص-برواتب/7623619",
      "source": "اليوم السابع",
      "time": "2026-11-20T03:00:00.000Z",
-     "seen": "2026-11-20T03:01:44.478Z"
+     "seen": "2026-11-20T03:01:44.478Z",
+     "impact": "يهم الباحثين عن عمل والشباب في مصر للتقديم على الوظائف الجديدة والاطلاع على سقف الأجور المتاح في القطاع الخاص."
     },
     {
      "title": "كيف تستخرج رخصة بناء لعقار أرضى و4 أدوار من المركز التكنولوجى؟",
@@ -248,14 +247,16 @@
      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNVDZHT2RGTnplazZydUZCU0g3LXdYb3IwUkUzRzNORTJqbTE3cnFPNkZ0b0xRLTRTYnNmeEoxUUsyZUdDMjFuemRPZUlSRnJNaWRSOE5RclhmUG1MLXF2aVFlQWdEV1hpV3lEdEVrVEt2VWpOMmI3alQtN0Q5UzZ1Z01HNDVEVnVpRnhQZVljWk9EN2NtOUU1c2JkTHExaUFsc1Nydm1QWEpiR0tiemJiMEtwVDNTM2cxQ1lRLXVpRDRkalBkRy1hY2lGNC1IV25SZmRWOFA1SVdLS2t4QUFkRmJ6NTJ1SURxR1BVVEoxRmVSSXg5b1NNTU83YXVWQVZxVTJ6dXBTaS1EaXRKeEJDR2xVLWlGLTJwTDVOR0NEc29QVjJDc3BlV3JFbElicmxORWNjU0ZScklLVG5FVERvLXNIZ2pfWi0zOFA5Tkh5WDY5UFB2Unl6d09Cd1ZWdkRqSzF3XzZCeWY1aGRUSEg0RkZfY3FJdGFoV19zcXdXaE5XZ9IB_AJBVV95cUxNM0ktdTdaMzZRNm9XMkRoYnlpMHpzdGI0Xy13alFlMTlMdnQ4X2RHNjZSaHJ4VGExMldCZHF3ckplay1YYXFDWUM4Tjg3aERLWDlUVW1ZeUNsN0NLUGd3TWY0S052VDUyeFd2SDBIMnBpZHpDbDg2Y2pWdVdrN0dQS2V3SmhzT29zU003QjluUl9oY3NVbXNMZ0ExeFNUeTZwYTJwSlVkUnFXM29GS2lrNVBOd29EVFpPc1NCck9MeUJKRVgwVDZienB6Wk1SM0QtUWR4cUo4UGs5R2R0eDYtZE5HYWRBSlVGekJiWmZZN2Nidl9qQnBpb09oVS0yQWJZU3dZaHdoNlRtdHBjczZIenIzMzUzaE44WnBYakhxVG1WUkdTNnJuWk5fTS1BV2daNWV4Y1F2dncxN1R0bE1XQnVFeXVid1JJWUdLV29ZYXNLQ04wN2Z2THNzWndzd3c4VEpHRFk1RE9hZ2hoRTNKX1JUWGJWTFhzSzZjdg?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-20T02:00:00.000Z",
-     "seen": "2026-11-20T02:11:44.566Z"
+     "seen": "2026-11-20T02:11:44.566Z",
+     "impact": "يساعد الأفراد والمستثمرين على متابعة تقييم الجنيه أمام العملات الأجنبية لدى البنك المركزي لما له من أثر على تكاليف الأعمال والاستهلاك."
     },
     {
      "title": "سعر الذهب اليوم الجمعة 20 نوفمبر 2026.. عيار 21 يستقر عند 5730 جنيهًا",
      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPeUJhMHpVd1l3Q2g1N1lWMmhYMDNPeEtKTFk2Vmc2M25JUGdaaXBfTnBRYnlCN1FBeFhRNElOSzNBZlgxVHFMVi1wRkNkaUY3enJvRVRIb2UtdUtsSy1tNkJISFZxSDhULXIzUjZ3SnlBRXVEMEpXdHlJMHl0WEtqRXp0MElMVGZOa3lnYnI3VWszeUkzbXFERnVBaW5nM3k5UFN4QUczdE9tY09Va2lFNktzVmJlZkpBU0JxVlpHeTRLdUZKbHNvUDk5RWhrVnBnak11bXBnakZVYjdERzRMSGE2elFwcl8wWHZPbzB5RGZmNjNlQlNvYTZ2R0wxcTJCOHF3ZTdSUXVESVNVWjVFYlVpN2lWSlNVZjNxVXVmTFZ6MlBnVV9zYVpJT194WmNHSnhPN09ZQU1NMVUtbEFmbVJQdklEcXlSVlYxN2RkVklUajluY2dSOVJJc3RoeG5MS1kweXZWVTJEY19JX0piTF9uTkd3MzlRaHo4NGtXUm0tZ9IB_AJBVV95cUxOdUx1dGtJTVk4WFZjdU5TeGl4TERlLUpWbHZobGxxSi1RM080aUlIVm1jcl9pbEtlMDJrT0t4WTdLWkQ1LUtfbWJfem9iT0FTN3hzYmpvTy1aYURRWHhKLXZNVGFzQnpnWUdBWmlPNnNaYWxId0FQT3VGcDFZa2JtMW5kWWtCWDRCRDREMExRRlZZWUpNX2ZaSVZ6dmpLNTAzWlB4dmxZTjM0UUxjeHNpLThDQ0hwNlFEMTZJN0xHelFyNlRuSm5vTy1ZODdDVUdXSThQWWdZSDhFS1Zmem5ZWWVramNPSS1Udk1fUFE5QUtSRldzYnBIWjlvcUEwZjFkX1JBNlFjREJzalVqUnl5LVF3dDNta3BpYU1HdktiN0hWdXhqY2lXSkRPOV9hMFl2SExxajZfUXV4M3V6QnVtUXk5YWRhdXMzTEJOYm5XN2VXemo2OVZvWHI0RFU2S3hpRVVZUlZMV1J0WjYyTW45S2RPZzV2Y3pVYnNGVg?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-20T01:00:00.000Z",
-     "seen": "2026-11-20T03:11:44.798Z"
+     "seen": "2026-11-20T03:11:44.798Z",
+     "impact": "يفيد المدخرين والمستهلكين في مصر لمعرفة السعر الحالي لجرام الذهب عيار 21 لتحديد توقيت معاملاتهم في السوق."
     },
     {
      "title": "تفاصيل أعلي سعر دولار في البنوك الآن",
@@ -263,7 +264,7 @@
      "source": "صدى البلد",
      "time": "2026-11-20T01:00:00.000Z",
      "seen": "2026-11-20T01:10:07.901Z",
-     "impact": "تساعد المستثمرين والمتعاملين في القطاع المصرفي بمصر على متابعة أعلى أعلى سعر للدولار في البنوك."
+     "impact": "يهم المتعاملين بالنقد الأجنبي لاختيار البنوك التي تقدم أعلى عائد لبيع وشراء الدولار في مصر."
     },
     {
      "title": "ماذا تكشف دراسة جديدة عن تعداد الهندوس والمسلمين في الهند وحول العالم؟",
@@ -278,7 +279,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T00:03:51.000Z",
      "seen": "2026-11-20T02:01:45.073Z",
-     "impact": "يهتم به المستثمرون والأفراد في مصر لمتابعة مستويات سعر الدولار أمام الجنيه وتأثيرها على حركة الأسواق."
+     "impact": "يعطي المستثمرين والمستوردين تسعيراً محدداً لسعر صرف الدولار أمام الجنيه المعتمد في التعاملات المصرفية."
     },
     {
      "title": "رسميًا.. أسعار البنزين والسولار اليوم الجمعة 20 نوفمبر 2026 بعد قرار لجنة التسعير",
@@ -464,7 +465,7 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-20T00:28:03.000Z",
      "seen": "2026-11-20T00:20:07.323Z",
-     "impact": "يهتم به المتابعون والمستثمرون للوقوف على تطورات أمن الطاقة وتأثير الأزمات على الإمدادات."
+     "impact": "ينبه المستثمرين وأصحاب الأعمال إلى التحديات المحيطة بملف الطاقة العالمي وتأثيراتها المحتملة على سلاسل الإمداد وتكاليف الإنتاج."
     },
     {
      "title": "مدير الأمن السيبراني الوطني في إدارة ترامب يتنحى عن منصبه",
@@ -479,7 +480,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-19T21:21:31.000Z",
      "seen": "2026-11-19T21:30:06.432Z",
-     "impact": "يهم مستخدمي التكنولوجيا وأجهزة الكمبيوتر في مصر للتعرف على التحديثات التلقائية لنظام ويندوز 11."
+     "impact": "يهم مستخدمي الحواسيب الشخصية والشركات في مصر للاستعداد للترقية التلقائية لنظام التشغيل وضمان توافق البرمجيات."
     },
     {
      "title": "ضعف الطلب على iPad Pro بشاشة OLED يهدد خطط iMac الجديد",
@@ -495,7 +496,7 @@
      "source": "صدى البلد",
      "time": "2026-11-19T21:08:00.000Z",
      "seen": "2026-11-19T23:20:07.443Z",
-     "impact": "يهتم به المتابعون في مصر للاطمئنان على سلامة الطاقم المصري وتطورات الملاحة البحرية في البحر الأسود."
+     "impact": "يهم قطاع النقل البحري والتجارة والمواطنين لمتابعة أمن خطوط الملاحة وسلامة الأطقم والسفن المصرية في البحر الأسود."
     },
     {
      "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
@@ -567,12 +568,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "world",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
