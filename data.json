@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:45:11.131Z",
+ "updated": "2026-11-20T16:55:10.657Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T16:45:11.131Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T16:55:10.657Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5363,
-   "change": -3.7,
-   "asOf": "2026-11-20T16:36:06.000Z",
+   "value": 5360,
+   "change": -3.77,
+   "asOf": "2026-11-20T16:45:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6124,
-   "change": -3.7,
-   "asOf": "2026-11-20T16:36:06.000Z",
+   "value": 6119,
+   "change": -3.77,
+   "asOf": "2026-11-20T16:45:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3546,
-   "change": -3.77,
-   "asOf": "2026-11-20T16:36:06.000Z",
+   "value": 3544,
+   "change": -3.84,
+   "asOf": "2026-11-20T16:45:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0988,
-   "change": 0.15,
-   "asOf": "2026-11-20T16:45:44.000Z",
+   "value": 1.0984,
+   "change": 0.11,
+   "asOf": "2026-11-20T16:54:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.66,
-   "change": -3.61,
-   "asOf": "2026-11-20T16:35:59.000Z",
+   "value": 88.85,
+   "change": -3.4,
+   "asOf": "2026-11-20T16:45:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7041,
-   "change": -1.87,
-   "asOf": "2026-11-20T16:46:09.000Z",
+   "value": 7038,
+   "change": -1.92,
+   "asOf": "2026-11-20T16:55:25.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59429,
-   "change": -4,
-   "asOf": "2026-11-20T16:46:04.000Z",
+   "value": 59328,
+   "change": -4.16,
+   "asOf": "2026-11-20T16:55:22.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "كيف عالجت الشريعة الشك في الوضوء والصلاة؟.. شوقي علام يحذر",
+     "url": "https://www.elbalad.news/7188023",
+     "source": "صدى البلد",
+     "time": "2026-11-20T16:54:19.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
+     "title": "وزير الخزانة الأمريكي: أكبر كمية من النفط عبرت مضيق هرمز الليلة الماضية منذ اندلاع الحرب مع إيران",
+     "url": "https://www.elbalad.news/7188018",
+     "source": "صدى البلد",
+     "time": "2026-11-20T16:52:25.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
+     "title": "الشرطة الفرنسية تحبط محاولة لإحداث انفجار بمحطة وقود شمالي البلاد",
+     "url": "https://www.elbalad.news/7188021",
+     "source": "صدى البلد",
+     "time": "2026-11-20T16:50:51.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
+     "title": "المستشار عدلى منصور يؤدى واجب العزاء فى وفاة نجل رئيس حزب مستقبل وطن",
+     "url": "https://www.youm7.com/story/2026/11/20/المستشار-عدلى-منصور-يؤدى-واجب-العزاء-فى-وفاة-نجل-رئيس/7626282",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T16:50:00.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
      "title": "وزير الخزانة الأمريكى: ما زلت أقيم فى قاعدة عسكرية بسبب تهديدات إيران",
      "url": "https://www.youm7.com/story/2026/11/20/وزير-الخزانة-الأمريكى-ما-زلت-أقيم-فى-قاعدة-عسكرية-بسبب/7626280",
      "source": "اليوم السابع",
@@ -150,34 +178,6 @@
      "url": "https://www.youm7.com/story/2026/11/20/مجلس-الوزراء-يستعرض-أبرز-أنشطة-رئيس-مجلس-الوزراء-هذا-الأسبوع/7626279",
      "source": "اليوم السابع",
      "time": "2026-11-20T16:42:00.000Z",
-     "seen": "2026-11-20T16:45:11.131Z"
-    },
-    {
-     "title": "قافلة بيطرية علاجية لعلاج الخيول بدمياط",
-     "url": "https://www.elbalad.news/7188015",
-     "source": "صدى البلد",
-     "time": "2026-11-20T16:41:28.000Z",
-     "seen": "2026-11-20T16:45:11.131Z"
-    },
-    {
-     "title": "القبض على شخص إدعى تعدى خفير نظامى وفرد شرطة على ووالدة بالشرقية",
-     "url": "https://www.elbalad.news/7188012",
-     "source": "صدى البلد",
-     "time": "2026-11-20T16:40:00.000Z",
-     "seen": "2026-11-20T16:45:11.131Z"
-    },
-    {
-     "title": "وزير الأوقاف يعزي المستشار عبد الوهاب عبد الرازق في وفاة نجله",
-     "url": "https://www.elbalad.news/7188013",
-     "source": "صدى البلد",
-     "time": "2026-11-20T16:37:40.000Z",
-     "seen": "2026-11-20T16:45:11.131Z"
-    },
-    {
-     "title": "الرحمة مش ضعف بالتربية.. الأوقاف تطلق أول إنتاج بالذكاء الاصطناعى عن حقوق الطفل",
-     "url": "https://www.youm7.com/story/2026/11/20/الرحمة-مش-ضعف-بالتربية-الأوقاف-تطلق-أول-إنتاج-بالذكاء-الاصطناعى/7626275",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T16:35:00.000Z",
      "seen": "2026-11-20T16:45:11.131Z"
     },
     {
@@ -320,6 +320,13 @@
      "seen": "2026-11-20T15:25:10.724Z"
     },
     {
+     "title": "سعر صرف الدولار اليوم الجمعة 20 نوفمبر 2026 في البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5yNy1pT1JfNFFIeHY2eHFWem8tMDkySTVPcFA0Z3lRMW1WQ3dQM3Nxb0stbmd1OTlBdWtDLW13U1BlYnJh?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-20T15:18:00.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
      "title": "من هي كتائب حزب الله العراقية وما علاقتها بأزمة جرف الصخر؟",
      "url": "https://www.bbc.com/arabic/articles/c67829jkelx3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -333,13 +340,6 @@
      "time": "2026-11-20T14:31:00.000Z",
      "seen": "2026-11-20T14:35:10.687Z",
      "impact": "يهتم به المستثمرون والأفراد لمتابعة تكلفة الحصول على العملة الأجنبية وتقييم أسعار السلع."
-    },
-    {
-     "title": "تحويلات المغتربين... ملاذ مصري في مواجهة الصدمات الخارجية",
-     "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPSEFwQlpxbnhoMXJENURZWDZLeVVjWjE3UEFzOWdudGQ3MXhBb05BcnNNTmUtamU4MHBVN2VmWjFWa2hBQk9kcFdQQzVEVmluOHFraDhLUGcybmlNTjQ0bUJNYjNodnhKUHBtMExNRUgyLXNYdHR1cmsxRjk0TTZ1M3Bpakg5bV9LSm90dnRDTnNyQ2oxX2pfbTJiQmt3Qmg4bGRZV2JfUERhdmZsaW5LVE5aOHVXMVk3NmZITEhZUXo5T3FqZ2N4bllpRnJaMU1KTndQM1F3ZlFnbGJZb0s0UEd4cnZGdXgyRndNRVV5a0pTX0lqMWlRT1B1MDYtblFZNDV6V1gxNmRlLVdIbjdBSTBJRzJKOGUwYV9tNHp1T2dxWjZxd180MlFmbWl1LVk3SVZaeFcxQ1FfVDI1LTFJVTVGdmxPYUEtX1RHTHNURkVWbXNwc3l1NkRZbzZDZTNSNTBfbG1mYk90NV9GalZMd3Y2VkJ2YnFHM2c2YnRuMTk3WTJNV1BySklOS0FwVmRjSUhFNERycEE2bkZCTUhkanhrTUI0R1hyVUZxNHFzQ1NEZ2pwY19udjk1c19WVTdfUzdra3FSSTVCVG1uUzFxQnhfeUhzT1pRaXYwT016NGZmd2JyMWN0S0o2Tlg1bEd6MGx3RW5ydFJpVEJxVWdnV05Vcw?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T14:21:14.000Z",
-     "seen": "2026-11-20T15:55:11.039Z"
     }
    ]
   },
@@ -347,6 +347,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "رغم التهديدات.. بيسنت يتعهد بمواصلة الضغط على إيران",
+     "url": "https://www.skynewsarabia.com/middle-east/1906111-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A8%D9%8A%D8%B3%D9%86%D8%AA-%D9%8A%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T16:54:37.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
     {
      "title": "موجة مظاهرات تجتاح دولا أوروبية بدءا من الجمعة ضد \"عسكرة\" المجتمع وغلاء المعيشة",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261120-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%81%D9%82%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A8%D8%B7%D8%A7%D9%84%D8%A9-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3",
@@ -383,7 +390,7 @@
      "seen": "2026-11-20T16:15:10.923Z"
     },
     {
-     "title": "المملكة المتحدة تعلن \"إنجاز الاتفاق\" مع الاتحاد الأوروبي، ومطالب أوروبية بخفض رسوم الدراسية",
+     "title": "بريطانيا والاتحاد الأوروبي يعلنان إنجاز اتفاقات جديدة تشمل التجارة وتنقل الشباب وخلاف بشأن الرسوم الجامعية",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSm9KUlFsQ3RBZ0JucU1SNy1rZEhxaGcyUEVIUWNJMmkzeTV5NGcyZUh4SV9JYlFWQ21adm9TUmNnblltckU4NTdxZXRXMTRrNHRBSnVMcDZfNXpRQUHSAWNBVV95cUxNOFZFNEg4Z0stU0NjTkFQQUIzcmh4SnJ5YnBKZG9aclRhUVNfWjBrZ1lfTngtX09kbmVFTHNZT212eWgwa1MtdWh3QTBQMGRraTdjS21Felc2TjJ3UWVnU01RLTg?oc=5",
      "source": "BBC",
      "time": "2026-11-20T15:45:00.000Z",
@@ -395,21 +402,6 @@
      "source": "DW عربية",
      "time": "2026-11-20T15:39:00.000Z",
      "seen": "2026-11-20T15:55:11.039Z"
-    },
-    {
-     "title": "إسرائيل تعلن مقتل 3 قياديين بحماس والجهاد في غزة",
-     "url": "https://www.skynewsarabia.com/middle-east/1906071-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-3-%D9%82%D9%8A%D8%A7%D8%AF%D9%8A%D9%8A%D9%86-%D8%A8%D8%AD%D9%85%D8%A7%D8%B3-%D9%88%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF-%D8%BA%D8%B2%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T14:45:29.000Z",
-     "seen": "2026-11-20T14:55:10.451Z"
-    },
-    {
-     "title": "بريطانيا والاتحاد الأوروبي يعلنان إنجاز اتفاقات جديدة تشمل التجارة وتنقل الشباب وخلاف بشأن الرسوم الجامعية",
-     "url": "https://www.bbc.com/arabic/articles/c52e8rpmz07wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T14:23:17.000Z",
-     "seen": "2026-11-20T09:03:10.157Z",
-     "impact": "يهتم به المستثمرون لمتابعة التغيرات في حركة التجارة بين بريطانيا وأوروبا وأثرها على الأسواق الدولية."
     },
     {
      "title": "اتفاق تاريخي بين بريطانيا والاتحاد الأوروبي يعيد رسم العلاقات بعد بريكست",
@@ -427,6 +419,20 @@
      "impact": "يهم المتابعين والمستثمرين لتقييم المخاطر الجيوسياسية في المنطقة وانعكاسها على حركة الملاحة والتجارة."
     },
     {
+     "title": "صدمة في الكرة الجزائرية.. وفاة الحكم الدولي يوسف قاموح بعد معاناة مع المرض",
+     "url": "https://www.aljazeera.net/sport/2026/11/20/%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%85-%d9%8a%d9%88%d8%b3%d9%81-%d9%82%d8%a7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a%d9%81%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T13:49:47.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
+     "title": "3 سيناريوهات أمام آيزنكوت لتشكيل الحكومة.. هل يعود نتنياهو؟",
+     "url": "https://www.aljazeera.net/politics/2026/11/20/3-%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d8%a3%d9%85%d8%a7%d9%85-%d8%a2%d9%8a%d8%b2%d9%86%d9%83%d9%88%d8%aa-%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T13:46:30.000Z",
+     "seen": "2026-11-20T16:55:10.657Z"
+    },
+    {
      "title": "فيديو متداول لـ\"احتراق طائرة سعودية في مطار الرياض\".. هذه حقيقته",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/a-circulating-video-claims-a-saudi-plane-caught-fire-at-riyadh-airport",
      "source": "CNN بالعربية",
@@ -438,13 +444,6 @@
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/houthis-targets-in-saudi-arabia-threatened-to-attack",
      "source": "CNN بالعربية",
      "time": "2026-11-20T13:37:06.000Z",
-     "seen": "2026-11-20T13:45:10.414Z"
-    },
-    {
-     "title": "من المسؤول؟ منفذ هجوم برلين تقاضى إعانات حكومية رغم احتجازه في لبنان",
-     "url": "https://www.dw.com/ar/من-المسؤول؟-منفذ-هجوم-برلين-تقاضى-إعانات-حكومية-رغم-احتجازه-في-لبنان/a-80002857?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-20T13:28:00.000Z",
      "seen": "2026-11-20T13:45:10.414Z"
     }
    ]
@@ -466,6 +465,14 @@
      "source": "عالم التقنية",
      "time": "2026-11-20T15:34:33.000Z",
      "seen": "2026-11-20T15:35:10.815Z"
+    },
+    {
+     "title": "بريطانيا والاتحاد الأوروبي يعلنان إنجاز اتفاقات جديدة تشمل التجارة وتنقل الشباب وخلاف بشأن الرسوم الجامعية",
+     "url": "https://www.bbc.com/arabic/articles/c52e8rpmz07wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T14:23:17.000Z",
+     "seen": "2026-11-20T09:03:10.157Z",
+     "impact": "يهتم به المستثمرون لمتابعة التغيرات في حركة التجارة بين بريطانيا وأوروبا وأثرها على الأسواق الدولية."
     },
     {
      "title": "الحوثيون يهددون موانئ السعودية والمركز المالي بالرياض رداً على تحذير التحالف بإخلاء ميناء الحديدة",
@@ -527,13 +534,6 @@
      "time": "2026-11-20T09:00:00.000Z",
      "seen": "2026-11-20T11:43:09.729Z",
      "impact": "تؤثر التطورات القضائية حول شرائح إنفيديا على تقييمات أسهم شركات التكنولوجيا العالمية وحركتها في الأسواق."
-    },
-    {
-     "title": "\"أخبروني أن طفلي مات وبعد 42 عاماً وصلتني منه رسالة\"",
-     "url": "https://www.bbc.com/arabic/articles/c64gnzgp81w3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T08:21:58.000Z",
-     "seen": "2026-11-20T16:45:11.131Z"
     },
     {
      "title": "ترامب يقيل مدير الأمن السيبراني ويعين مسئولة دفاعية.. من هي؟",
