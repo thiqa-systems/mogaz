@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:05:26.054Z",
+ "updated": "2026-11-20T21:15:26.278Z",
  "minute": [
   "قدمت بنوك مصرية شهادات ادخار جديدة بعوائد تصل إلى 20.5%، بالتوازي مع استقرار أسعار الدولار والريال السعودي في البنوك.",
   "وعلى الصعيد الدولي، أعلن عن اتفاق بين أمريكا والصين بشأن تنظيم الذكاء الفائق، واستثمارات قطرية في ألمانيا، وتطورات ميدانية وسياسية في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T21:05:26.054Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T21:15:26.278Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5321,
-   "change": -4.47,
-   "asOf": "2026-11-20T20:55:20.000Z",
+   "value": 5331,
+   "change": -4.28,
+   "asOf": "2026-11-20T21:03:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6075,
-   "change": -4.47,
-   "asOf": "2026-11-20T20:55:20.000Z",
+   "value": 6087,
+   "change": -4.28,
+   "asOf": "2026-11-20T21:03:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3518,
-   "change": -4.54,
-   "asOf": "2026-11-20T20:55:20.000Z",
+   "value": 3525,
+   "change": -4.35,
+   "asOf": "2026-11-20T21:03:02.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0966,
    "change": -0.05,
-   "asOf": "2026-11-20T21:04:45.000Z",
+   "asOf": "2026-11-20T21:12:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.23,
-   "change": -1.9,
-   "asOf": "2026-11-20T20:55:14.000Z",
+   "value": 90.19,
+   "change": -1.95,
+   "asOf": "2026-11-20T21:02:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -83,16 +83,16 @@
    "unit": "نقطة",
    "value": 6910,
    "change": -3.7,
-   "asOf": "2026-11-20T21:05:22.000Z",
+   "asOf": "2026-11-20T21:14:37.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58238,
-   "change": -5.92,
-   "asOf": "2026-11-20T21:05:26.000Z",
+   "value": 58203,
+   "change": -5.97,
+   "asOf": "2026-11-20T21:15:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عمرو أديب: تطور العلاقات المصرية مع غرب ليبيا خطوة مهمة",
-     "url": "https://www.elbalad.news/7188305",
+     "title": "رئيس الغرفة الأمريكية بالقاهرة: تكريم السادات بالكونجرس اعتراف بدوره التاريخي",
+     "url": "https://www.elbalad.news/7188324",
      "source": "صدى البلد",
-     "time": "2026-11-20T21:04:28.000Z",
-     "seen": "2026-11-20T21:05:26.054Z"
+     "time": "2026-11-20T21:14:34.000Z",
+     "seen": "2026-11-20T21:15:26.278Z"
     },
     {
-     "title": "برنامج الأغذية العالمي يحتاج لأكثر من 12 مليار دولار لتقديم مساعدات لـ91 مليون شخص",
-     "url": "https://www.elbalad.news/7188304",
+     "title": "دراسة: ارتفاع أسعار الغاز يهدد بإضافة 16 مليار يورو لارتفاع تكاليف الكهرباء في ألمانيا",
+     "url": "https://www.elbalad.news/7188315",
      "source": "صدى البلد",
-     "time": "2026-11-20T21:03:16.000Z",
-     "seen": "2026-11-20T21:05:26.054Z"
+     "time": "2026-11-20T21:13:49.000Z",
+     "seen": "2026-11-20T21:15:26.278Z"
     },
     {
-     "title": "مدحت العدل يوضح حقيقة تصريحه عن المجتمع السلفي ويدافع عن حرية الفن والاختيار",
-     "url": "https://www.elbalad.news/7188302",
+     "title": "لائحة المجمع المقدس 2026 تلزم الأساقفة بموافقة البابا قبل السفر للخارج",
+     "url": "https://www.youm7.com/story/2026/11/20/لائحة-المجمع-المقدس-2026-تلزم-الأساقفة-بموافقة-البابا-قبل-السفر/7625809",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T21:11:00.000Z",
+     "seen": "2026-11-20T21:15:26.278Z"
+    },
+    {
+     "title": "عمرو أديب: لولا السادات لظلت قناة السويس بحيرة",
+     "url": "https://www.elbalad.news/7188316",
      "source": "صدى البلد",
-     "time": "2026-11-20T21:01:32.000Z",
-     "seen": "2026-11-20T21:05:26.054Z"
+     "time": "2026-11-20T21:10:50.000Z",
+     "seen": "2026-11-20T21:15:26.278Z"
     },
     {
      "title": "عبد الفتاح عبد المنعم: مهرجان القاهرة السينمائى يعكس قوة مصر الناعمة.. صور وفيديو",
@@ -178,13 +185,6 @@
      "url": "https://www.youm7.com/story/2026/11/20/المدارس-تحتفل-بأعياد-الطفولة-عروض-فنية-ترسم-البهجة-على-وجوه/7626462",
      "source": "اليوم السابع",
      "time": "2026-11-20T19:56:00.000Z",
-     "seen": "2026-11-20T20:05:25.592Z"
-    },
-    {
-     "title": "يقضى وقته فى قراءة القرآن.. كيف يعيش مادورو رئيس فنزويلا المخلوع فى السجن الأمريكي",
-     "url": "https://www.youm7.com/story/2026/11/20/يقضى-وقته-فى-قراءة-القرآن-كيف-يعيش-مادورو-رئيس-فنزويلا/7626457",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T19:43:00.000Z",
      "seen": "2026-11-20T20:05:25.592Z"
     },
     {
@@ -341,12 +341,11 @@
      "impact": "تفيد متابعة أسعار الجنيه الفضة الراغبين في ادخار أو استثمار أموالهم في المعادن النفيسة كبديل مالي."
     },
     {
-     "title": "آخر تطورات حركة مؤشر الدولار بالتداولات العالميه اليوم الجمعة",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnTEJ3bzUwbDZBeHJJZjRwd0dpMVhnemVPQ1FiZ2JScGw1ZHpHNkpPUi1kWFdaeng1MC0tZGhHM2FMZ0VJbWlN?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-20T16:18:00.000Z",
-     "seen": "2026-11-20T16:25:10.687Z",
-     "impact": "تساعد متابعة مؤشر الدولار عالمياً المستثمرين في توقع اتجاهات أسعار الفائدة والأسواق المالية التأثيرية."
+     "title": "تراجع مديونية مصر لدى «صندوق النقد» لا يحل أزمة القروض",
+     "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOMzJvVVpQX3dhYXNKTjQ5U1lLMnhENVlPMUN0VEIzMUZhOFN0anZiSHpPUHd3SWJYUHkzWlVYTFVMbXk0OUppbEJCdlQ1dWRRQ1c3MUI1LUtYQXFzalJkNE5IV01DSnJmMmU4b25memNVT3BFci1OMm5adkRleTFyWDNqQkNPN193clctcFdKdnpTbC0zQnAxZFNJZ0IxOHB5UmkxVTdFUC1ueHpybGY2NVlpWEtLYmg1ZHlYN2JHS0YyYXRRWVNHSXRmUGNYdXJhQ0t5S1h1aHdQOVo5d3VmWm8wencySXVvMnFfMkJuZnMtRjRxQmVFWlJ2aUtjVWgyVk83WVNRTEZWSmx0RU9yMVRpYnpZd3c5dVR5Y0hrQ19wWEJpS3VLWnFBLUdtcXVTLTRrcFNrYmVrMzBSNDBPUVVUanJieXR1bHdpNFNVWDdVSWY0eVUtc0t6eFRmNU50TFBXWDlKWWs4ZndSelVGTk9Ma3VmLTNUejdKOUsxb040bGZoNzJOSGM0VGZXSElDQjdDWDlIQm5XQ0dCZXRoempvSzBJZEdkdkJBTS1ZZ2pDelloVmZSMWNfOXp4Vm81MlhPMjdnMF9vcHJYSkJMZjlIandDcHpXdHdkbnpzQTVQeFhiOGRLZWJhV3JqdXEyTTRnYUM0eUZoUGs0RGlOTTFHdWlnbXJDTW9hbzZQRHlaTmd5LW82aDRTZklYdzY2Q2MzSG1PV0pnWFJiWDN5TWRoRWFIR3EyYnVwNnAyMnp5cDVVRE1GTFVkLVMzM3VnYWdCUHkzQ3AtelNGckJSanZn?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T16:20:56.000Z",
+     "seen": "2026-11-20T21:15:26.278Z"
     }
    ]
   },
@@ -484,6 +483,13 @@
      "seen": "2026-11-20T20:45:25.635Z"
     },
     {
+     "title": "بعد 160 عاما.. \"كلود\" يساعد في حل أحد أعقد ألغاز الرياضيات",
+     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNVk5xek5BNWhJamVNUkdhMmREWnhGMHJFelA3NmF3dnlEQkpQcXp5cFZBUURXcklnT1Y3LW5EclJ3S055VlV2Wm9QNi0yX1ljc2ZmaGJ3aG1sVlNDc0hPX2M1eEhVd1ZmeWV0Wk9EMTlmUk9MLUlVMThBZXlldHo0amJnOVd2SlNKUGdLUjBTV1ZRS0tIWWUycDZvaVhIamlwaWhWdVZCMXJoSG1URVJOelRaRC1nY192dlJ3NzI4TTlIS2FWWFI0ZXhuUlJjMDUxU3E1X0dhUnp2bXRkeWV5ek96bVhQZE16Y3hGSjNubXBTNC1SNG5hRVpWbFA1YzRuZEhmUDFILXl6OE9nWGNHSk1FWVlacU1UZ2tZZ3pKQUNkLWtTYzRubFhtVjE3T1IwZkF6eF90d25OcXpKX1hpVkZrTmdRWFRqSWRXRW9iVFRfaW5SQzk1NWFVdURuOWtteWUzQkc3cEY5MU15WDg2YXdZeHV1a3k3NV9PNG82bWVscUVzU2swelNUS1jSAZIDQVVfeXFMT1I4Q3BlZjVJLUZZRHZFaDJibmpZTHBGMFJJNjUyMjNabnlOT0dIMl9mLVVWS0VRbHd2YUdvOU5EMllfZmtDN012S1dQeUR0dzJqbUpmV1ozVGlVRlgxWWhZSEtZT2VVbkdlNHhyWlhXbG04Z0Q5Slk5dEdrU0F0ZlFSR1Bveng4aXRPd1k2NGVmcW5UUktady1LNFpBZktOajNwcU01dE1DYUZPRnhHNFBTTkY5cHg4b3BEaHlBclh0TEM3eV9EVy1yXzdTY1pTODBOSlFZZWlfUFZ4cGxrY190bkNEZFNtWGlSTG1QMzA4WEpvSS1GSmlidm9JUWhQb0FNcDQ4d0xzeUxKcG9vclc1Zm9SZVloamtZUlNDODI1dmYxUHRpd3ZGeUR1NTRlMUhXb1Fsc3BtSlFPc1BmR0YzRnVVRzlXWGs4WmdWSnEwYUpRQVJxWTVTVDE4TE5UV1ZCa3FxV1BHOE11dGttSkhqbWtNeEx6ZEstWWlfcElUY3NTYkN5SmV5SHBoSHQ2a0V3?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T19:31:45.000Z",
+     "seen": "2026-11-20T21:15:26.278Z"
+    },
+    {
      "title": "ترامب يكشف سبب إقالة مسؤول الأمن السيبراني بالبيت الأبيض",
      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPaGhTUEVMZ0Ztd3UxUUU1REdFRWJwOGpLYUxtdk0tTTYzN1FfeGw1Mm1OODY5MzRYYlAzOVk2Z3RLRFpjUW5Hc1FuRTJlZUhJSlBmN3BjakMxMmhWTzJIWFMtbWFkTl9YYVVsSTltNnJUSEFJNzVsLVFhM1lnT2lqS3NabUlIcmlBN2RoOHpkNzRHclYyLTdyeVBOQWJCLS15WWEzV1cwbnlmbExzQmtiMmhUOC1YZ2FBZzYtWWcyZWk1UzM1VUFzR1AzQjlzTnpuVHlkVkw1S0NuV1BzT0M4bVREZEgyS2swcXBLb05jaVdSdDN0M1I1TlBSbGVrVFBidHBoN0kxeFNuN01JTW9IaFV1SVFGZ0lGc3ItVnBiTkQ1WS0zekVyZHMzeF9mV3VKTldKX3pVdUV0emtnVWVERi1PTkpCMzdlNG9KM2JfSEtsbkFRdE5oX3hJNThOMEc2YmJNbGhSUElkeVpiWWdlMWd3TS05NXhEQWFuVTZDSnFROWR5b0w4M0NkV3lESjVrOW5feS1VdmlFMTZEX0R0NEtTOXVnVnVRclQ4WHVYWi1XeFNCZ2xWRmZEMnBhN2V1WGppX01xNWFweTZqU0U4ZjNuajFwUDVxbzd0ZEZFUUNRbjNHVVliaUJQZ1JhRkM2czBvUGVmVDByZXRnUlVKYmI1TVdKb0tDdzRn0gGQBEFVX3lxTE9sc3M5V3ZTUVdjUzZ0S1V1UzhHeE44VmlSQkpFRmJUWEU1cUNwNDJJSDZoM1JzdmRxODlpa2VQbW9wUnFmcE1yUVhRZTZ5aVY3MFBpX1hYNEkwQTNhQjJpMjd5S085dDFaZmlRdWVqb1lBSDVYY04tNGVkR3VBNkYzTmp1UlJYV3lGaGRkZmJtMFVQRWhTallCb2dYYjVjV3NIQ1l0SDBQOFpmREplNUZuM3RvSkNZSVVXSUF4aTJKZjFaNDVzZkFIWHBBUDRUUTFkQURlQ29WdW1wdGRxMUViSmpjdEtLX01qOE9yOGVDVzQ4OUExZFk4VnFwckxwS05XRHg2QU1XT2NobnE0ZDhwdk9ORVpFR0xTUHlVV1NjazVST00wNjdRbnFtWmEwUFNfUlU5Z0xGY3BEdE1QY2NWYmlVRkFTQkI2Y1VoMTNpYm0zZUJNTnhFQkM3Tzg4M2ctekVBbW1QMzFMZlE4QlBXTXRtdjFRNVktSl9FQ2NmaTlIS1NsdTlHYnFrN0VoT0pJZ01WQmdBSDcxYm9FbWFzR0dDeThLYy1IRmF6TllSZ0xZQ0dIblhjZUE2ckVET0NxZGhreG5RM2tqMGxZSUlTNnBLcmM4N3ZfWjNMU2dPck0wcWhvQWM1TzJ0cEFOZUdkQ0NvUGdLd3cxSzN0LVltWTJkXy14b05pSWNXbDBRTg?oc=5",
      "source": "Masrawy",
@@ -555,14 +561,6 @@
      "time": "2026-11-20T14:23:17.000Z",
      "seen": "2026-11-20T09:03:10.157Z",
      "impact": "قد تؤثر اتفاقات التجارة وتنقل الشباب بين بريطانيا والاتحاد الأوروبي على المصريين المهتمين بالسفر أو الدراسة أو العمل هناك."
-    },
-    {
-     "title": "موجة بيع تضرب الأسهم العالمية مع انهيار تداولات الذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS3VrMl9Oak1KU0I0MXNGaGhVWkZSZURUekVhbmRqTWZLWkkxVGhOU21ydGpRWS1IbDQtY2pNakhsTUk5RzNiMFFXdmpkYk1peEVRY1pZaC00aURYZ1Z5azgzNW41QVhOZGVabk1NOVVUS2dvTVVNSkI4TDVlUXZxSGJBUEZ1VnlpSWcwdE1SUVptaDB0YjY5cjRkNm00UWdRSml5X0c0MTBpV3ZxdHQyUW5EQlBhNXlfbkpCM2ttTUw2cHBLNXFXZE9SZ3cxSm9BU2RBZ04yal9BODloR3NWT0Q4NG1Od1VQU2phZE9kdmVfTXcxZ2dIbnNOeTRpeHBuUVE5M3RsWm05VXlzNGg0RVBhZlZ5TFVQTmpaN0xGb1VKUjZMYjRkdmdR?oc=5",
-     "source": "الشرق بلومبرغ",
-     "time": "2026-11-20T12:01:01.000Z",
-     "seen": "2026-11-20T09:23:09.928Z",
-     "impact": "ينبه المتعاملين في الأسواق المالية والبورصات إلى تراجعات الأسهم العالمية وتأثيرات الذكاء الاصطناعي على المحافظ الاستثمارية."
     }
    ]
   }
