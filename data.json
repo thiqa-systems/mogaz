@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:03:09.523Z",
+ "updated": "2026-11-20T12:13:09.207Z",
  "minute": [
   "تناولت الأخبار المحلية في مصر متابعة درجات الحرارة وأسعار الصرف والذهب، إلى جانب بيانات حماية السواحل وتطورات الدين الخارجي.",
   "وعلى الصعيد الإقليمي والدولي، برزت دعوات إخلاء ميناء الحديدة باليمن وتحذيرات مصر من تداعيات الاعتداءات في المنطقة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-20T11:53:09.846Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T12:13:09.207Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5419,
-   "change": -2.71,
-   "asOf": "2026-11-20T11:53:04.000Z",
+   "value": 5405,
+   "change": -2.96,
+   "asOf": "2026-11-20T12:05:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6187,
-   "change": -2.71,
-   "asOf": "2026-11-20T11:53:04.000Z",
+   "value": 6171,
+   "change": -2.96,
+   "asOf": "2026-11-20T12:05:22.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3583,
-   "change": -2.78,
-   "asOf": "2026-11-20T11:53:04.000Z",
+   "value": 3574,
+   "change": -3.03,
+   "asOf": "2026-11-20T12:05:22.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0963,
-   "change": -0.08,
-   "asOf": "2026-11-20T12:02:47.000Z",
+   "value": 1.0966,
+   "change": -0.05,
+   "asOf": "2026-11-20T12:14:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.25,
-   "change": -2.97,
-   "asOf": "2026-11-20T11:53:07.000Z",
+   "value": 89.49,
+   "change": -2.71,
+   "asOf": "2026-11-20T12:05:25.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61628,
-   "change": -0.44,
-   "asOf": "2026-11-20T12:03:06.000Z",
+   "value": 61312,
+   "change": -0.95,
+   "asOf": "2026-11-20T12:15:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,31 +139,38 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نشرة الحصاد الأسبوعي لرصد أنشطة التنمية المحلية والبيئة.. انفوجراف",
-     "url": "https://www.elbalad.news/7187744",
+     "title": "منتدى مصر 2026 يطلق مبادرة «دولة الابتكار» باستثمارات 2.18 مليار جنيه",
+     "url": "https://www.youm7.com/story/2026/11/20/منتدى-مصر-2026-يطلق-مبادرة-«دولة-الابتكار»-باستثمارات-2-18/7625921",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T12:12:00.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
+    {
+     "title": "أيلون ماسك يقترض 40 مليار دولار لشراء رقائق الذكاء الاصطناعي لـ سبيس إكس",
+     "url": "https://www.elbalad.news/7187747",
      "source": "صدى البلد",
-     "time": "2026-11-20T12:02:10.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
+     "time": "2026-11-20T12:09:53.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
+    {
+     "title": "بالإنفوجراف.. وزارة التنمية المحلية والبيئة تستعرض نشاطها خلال أسبوع",
+     "url": "https://www.elbalad.news/7187746",
+     "source": "صدى البلد",
+     "time": "2026-11-20T12:07:27.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
+    {
+     "title": "توجيه الشكر للرئيس السيسي والموافقة على مشروعي قانونين.. حصاد مجلس النواب خلال أسبوع",
+     "url": "https://www.elbalad.news/7187743",
+     "source": "صدى البلد",
+     "time": "2026-11-20T12:05:01.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
     },
     {
      "title": "الجامعة العربية ترحب بعقوبات بريطانيا وأستراليا ضد الأنشطة الاستيطانية الإسرائيلية",
      "url": "https://www.youm7.com/story/2026/11/20/الجامعة-العربية-ترحب-بعقوبات-بريطانيا-وأستراليا-ضد-الأنشطة-الاستيطانية-الإسرائيلية/7625900",
      "source": "اليوم السابع",
      "time": "2026-11-20T12:02:00.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
-    },
-    {
-     "title": "تفاصيل القبض على زوجة إسلام كابونجا.. حشيش وأقراص مخدرة و4 هواتف محمولة",
-     "url": "https://www.elbalad.news/7187742",
-     "source": "صدى البلد",
-     "time": "2026-11-20T12:01:49.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
-    },
-    {
-     "title": "الفصائل اليمنية تطالب العاملين والموظفين بمحطة الشقيق الكهربائية بالإخلاء الفوري",
-     "url": "https://www.elbalad.news/7187745",
-     "source": "صدى البلد",
-     "time": "2026-11-20T12:00:13.000Z",
      "seen": "2026-11-20T12:03:09.523Z"
     },
     {
@@ -172,11 +181,11 @@
      "seen": "2026-11-20T12:03:09.523Z"
     },
     {
-     "title": "مفتى الجمهورية: القرآن الكريم دستور متكامل لبناء الإنسان",
-     "url": "https://www.youm7.com/story/2026/11/20/مفتى-الجمهورية-القرآن-الكريم-دستور-متكامل-لبناء-الإنسان/7625883",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T11:55:00.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
+     "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
+     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPbmgyVnVKSFFNeXRvbWxNcVhELW5iajVkUUE3N1lETmFzQVBFWTdab3RrVGVvMUtXeVRweGZNei0tTVhwQVFWc0lvR2ZTVDJGU3BUVE10Vnc1eFR0VU5RTXF1cnA3ckN0VjdXc0RiZXo0QXNpYzl0d2Y4d1NIbHpGZGJHMXg5VzgtemFkajJaSFJ0MXNSbmQxS0N3dVF0c3dXNGU0TklmVXd1NjZSV1Z4TE1qdkk0OWV4Nmh6dG56bTI4NWJrcEtzdjBXVUNGLVR1c05JbjZIWEdLc1h2RDZpbjZzOWl0SWFTVzBsbUZra2s3Nk5lN0xKUklEN1J2Mm05bEx2LXlMeGNVTUptdVF2VnFIVFp1VmN4NUZYSEhzZGdYcV9yVVM4UXcyWkNzQ2Z0Uko4VVg3enZpX215djQxZ2JOV3ZHTnVkM0JlNksxQzNUQUhCb3VhQkhsSjhHT1BaWEhXUzJsZUprUGozUFJ2bGgzVDUtRzRSNDE4REV0Tjg2YXAwcm5YZ01mY1Fld1cxNnFTUVNKLXR5TlNHYTJtRzVqVXhITzNlZXpRVlBkWFM2Nlp3aEV3c19hM3paZ2xEdl9vdklMeEM5Z200NGpQdU1OeTRsUnpyOTRCNWtMNEZENGFrY1puUm1OcmdsaUNPdVRpZHhNMWlabHRQNHYwTjg2OFJ1R3F2dW9zZnA5WjFBXzhtYzc2d0hsSlpXVURmVU1DSjJ6V214WWcyVmV6LVRkaFljMnNXeW5SV1NxYXhJbnJ4aHdBd1otYUxnUG1HRVNwSTR0MUk0U3VEN0lXdkNOY0h3Z9IB6wRBVV95cUxNdVAzMVhGUXR4cTBWRFlJYU81dW1FdkFYbFBQdUN1eDRub1B4MFZUanVKRElqQU5tdGRrT2FFNloxX1cwVHZMUjlKM0lnWUwtZEJ6SUNJNTZhQm85VXphalNpeDBBc0daelhJb0p3SmdudDhXR0VCd0xQa0VKcUN3ZHFTLXVPdVVKXzlnQTE4NGNlTzB4NW1PVVlnNmxOM2tmX1RmVGhqMWoxcVg5aHpuaGV6TEhjV1Jac0dNU2Nid3VHdnZuQ2p0QjNTcDE4WGNoZzI1VEhSdGZFMGg5WEhyWXViYUl1R0x2MHhMM3JrYUlxUE9oOUozdi1pTlotSktYRGFDRG81cjVYb0QxY1kwdmpDN2ZNNjdYcm5ZRUNSSlU3QS13ak1STnljYXpEeXNCckkzRHpLNmNscnhoUnJhR3F1UnFSNFFhazRqbHh3N3J4NEY3TW02RVNKYkxKdk9sV2VKdTkwV0lZRTV3V3d3VjZuSFJjcUpxNW4tbkJOUFNXTXhINmVIeldtcE5KWkdHdDNwaDRrMHluQm1nOTB0cVJkNkR6RVZOVWNfZ0tKY2ZkY0lwdU10SnRsQXBKaTZoY3p0X2VtMkR6cE1hMVVwYzh0eDVqQkR2TWtYS0t5NEV4Q0kwWVFRRkcxUEVtc3NXa1BsTjVXMjhYQWRkZG9DYndjQno5UG5kcXZ2bmVzekwxcDlnQ1JhSGxSY1NtNWRyQjBzQXBTQkt0QURCZ1lHT29JUWw0el9FZTFhUDN3Y3c0UDNvVTFpeXVjMTZTYnpEa1BOQVJnbF9DeXhKckZGMmRkeUhmbUtjMDVJ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-20T07:20:00.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
     },
     {
      "title": "بعد إحالته للقضاء بسبب إلهام شاهين.. مرتضى منصور \"انتظرونا\"",
@@ -226,13 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-19T23:35:08.000Z",
      "seen": "2026-11-19T23:50:07.779Z"
-    },
-    {
-     "title": "قرار حكومي بنزع ملكية أراضٍ لإنشاء 4 كباري علوية وبوابتي رسوم",
-     "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOWUJCZDBOcl82UzFUNXdodzNpcWE0Rmd3S2xPYXB3enlBa1pKOU0wZnB1RXdDV1g5Mko4QkZvX0VCcjd2dnBoa1MzTDlSSWpqZGVaV0IzVUNnX3pQZUUzdkZHZjVpNFZLUUtlSEZ4MHR1c2IzR1JyUnE2WjkxaHhLR2tyYU9tM0c3MGtYc21jN0N3dkQzVHFSc050MWNVUmp0bWhzNlpVUzlEd2NOQXhsN1ppMHhYcm1XclpfU0szWm5UaTl4Ukx3WXdFNnhiUGlFeXdvRW50eGFtVEJ4ZnJReE13R1RwNEYweS1sX3FFQ1Z2aXZoaGxpMW1kaFQ1VngwdWlaOF9nZUczT1UzcHhhYmZybW15bEFhZnZuSFI0WjB1eGk4UjVFeTljTGg0SUM0MFZfSEEybFowZmpTdS03blpjczdXenRxX2o5UFVBZEJBRlFGSkQyMDJyczJuRWtUNC1LOGVRREFYajAwR3J5UHo0SFZvWUZ6Mks2S0l6dTZHajhZRzJGckRiWjVXRU92MjE4OVUwc09sWFpWT2J1VVlhcmdnMkdJRWdhNkg1MVRSTjRiTTRiWElFTjBCZlRVaGNrN1BtR0VVckdOeGV3TzNzcXd3WWk2T3RvN2xQMFNmZXM1d0xRS3NYSS1oNDkxV3JXNjIzNWxIOFEyWkViMHBPd2lUN3d2amozN9IBkgRBVV95cUxNWXk0eDFEYWNBaEc5NWIxekNvSEEwX05VUEd0N19wZUhaWlhqUDR3MXVzdXBjZ2JMME5qVnFmWGg4dTZQVWhSWXpkNlJPaEVvMV83TTJjajhIN0wybHZYTk00ZWl2NG9YZ2lUZzNxbk1aWlBCbW9MMmJhS0s5T3V0VGdWaG9FRDhkV1dzbzYxMXBpdWhwRnhKd3A3S3RUT3BSUjVQU1RZTThLaFl1cDNJR0x1VENuakhsNmprUGZmaXNEeU9pV2ZIUGxJZkFfemwtM190NjlPaDM3Z1UxdlRydUtLR1BmM3J3OWpaOGtORU5ublhhRGJ2R0ttUjlfSnk1YW5ZQWJISUlZMTlaWWRhOERNM0hncTBwOGhrYVpvM3NMUWJTLVVFbUN0M2RpaDRYRVdEV0c2Vm14MGRKRUItU1lJN3BxNWRxX2d6bkpyS2kyV1B3R1gzcUVucWNlQ2s5dEJ0azRSOUZkOXZ2U2FRVUxpRVdzVC16SlRYZTdocFZrYXRIblRTM2duYnVhZXl2M0NHOVlTdXl2aTM4Q2cwLUdCaDhzdEhHRzdjUGt4dV9iYkFzMTB4a29RejI5T3ZVcmJhY0xQeXdKQ21TekQxR1QwWkFCZG9CZVlUQWhMNE5TdzIxdldhQl92eEhJYXVEVHhsY1RBUDBnVlRQR2JPZzNETHZDenlveER2T1ZSc3k4UQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-19T19:49:46.000Z",
-     "seen": "2026-11-19T20:00:07.176Z"
     }
    ]
   },
@@ -261,6 +263,27 @@
      "source": "BBC عربي",
      "time": "2026-11-20T11:49:42.000Z",
      "seen": "2026-11-20T09:03:10.157Z"
+    },
+    {
+     "title": "قفزة غير متوقعة في مبيعات التجزئة البريطانية بعد توجيهات حكومية بالتخزين",
+     "url": "https://alborsaanews.com/2026/11/20/2007764",
+     "source": "البورصة",
+     "time": "2026-11-20T11:48:01.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
+    {
+     "title": "الأسهم الآسيوية تغلق على انخفاض حاد مع امتداد موجة بيع أسهم شركات التكنولوجيا",
+     "url": "https://alborsaanews.com/2026/11/20/2007760",
+     "source": "البورصة",
+     "time": "2026-11-20T11:46:20.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
+    {
+     "title": "مجلس الوزراء: الدولة نفذت مشروعات لحماية سواحلها بتكلفة 28 مليار جنيه",
+     "url": "https://alborsaanews.com/2026/11/20/2007762",
+     "source": "البورصة",
+     "time": "2026-11-20T11:45:09.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
     },
     {
      "title": "سعر الدولار أمام الجنيه اليوم 20-11-2026.. أخر تحديث فى البنوك",
@@ -303,28 +326,12 @@
      "impact": "يفيد الراغبين في السفر أو التحويلات المالية بمتابعة أسعار صرف الريال السعودي مقابل الجنيه."
     },
     {
-     "title": "سعر الذهب يتجه لتسجيل أسوأ أداء أسبوعى منذ 8 أشهر مع قوة الدولار",
-     "url": "https://alborsaanews.com/2026/11/20/2007754",
-     "source": "البورصة",
-     "time": "2026-11-20T09:09:27.000Z",
-     "seen": "2026-11-20T10:03:09.260Z",
-     "impact": "يساعد المستثمرين والمدخرين في مصر على متابعة حركة أسعار الذهب المحلية والتأثر بالدولار عالمياً."
-    },
-    {
      "title": "سعر الدولار أمام الجنيه المصري خلال تعاملات اليوم 20 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSzVseGVLdkVRSHRzVkhiM1d5a3ZjdGMtVTlxQ05heEcwVkNxTTFZeE1zU2lVNzVveUVNb0cyQnZ2YWRXaHc3cm9qUWtJejljc19KUzJ0TmZ0bjRaYUp3WjVOMVQ2bXBFZnNGM3dNUUt0ZHp5UXA2S3FKXy1PQ3NGTFBLUEswZGlJTlJEcUdIQ0RrbUlYeXZyQzlsbHhrTEpZYk5WMmVsZFVVWl80MWdZQkJpdnh3dVB3WEJqSmVMS29kaE9aQm5yOFJMM0kxSmZfZXBKdWI2NlpXVkIzcXdjbDN5MFZHSlNZZWhQTTE2OGpMemhDUGVfb281c0Y1UzZWQTRNdWVlQlF3SXVqUzdlRS1FcVZOS05KV1FXYlNTeEF2anIzRlV1RzNRM1pDZGdCeUluMlhxOUUwclBTc2hoOTBPOWtFZGNmZGlrcEhLZ0FLazJBaTJlXzhzQ0Y1UzQ1XzhOZFZsMmpqN1RvWUxEbXdNY0ZfWjg?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-20T09:06:19.000Z",
      "seen": "2026-11-20T09:13:09.549Z",
      "impact": "يؤثر على تكاليف الاستيراد وحسابات المستثمرين والقدرة الشرائية للمواطنين في مصر."
-    },
-    {
-     "title": "ارتفاع أسعار النفط وسط مخاوف بشأن الإمدادات عقب هجمات فى الشرق الأوسط",
-     "url": "https://alborsaanews.com/2026/11/20/2007752",
-     "source": "البورصة",
-     "time": "2026-11-20T08:50:31.000Z",
-     "seen": "2026-11-20T09:03:10.157Z",
-     "impact": "قد ينعكس الارتفاع في أسعار النفط عالمياً على تكاليف الطاقة والشحن للأسواق المحلية."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 20-11-2026 في البنوك.. أعلى سعر بهذا البنك",
@@ -341,13 +348,6 @@
      "time": "2026-11-20T08:35:22.000Z",
      "seen": "2026-11-20T08:43:10.016Z",
      "impact": "تفيد أسعار العملات الأجنبية الأفراد الراغبين في السفر أو التجارة في تقدير التكاليف المالية بدقة."
-    },
-    {
-     "title": "كم سعر الدولار الأمريكى مقابل الجنيه المصرى اليوم الجمعة 20 نوفمبر 2026؟",
-     "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOa3VfckVXQ2FucWJWXzlmYXJkcDZ2VE1Cd0oyazRNWWV0cGdFOEhRaERrbTFiMl92VjR1QUZmbGlTZ21nUVQ5emNGVVlVaFR2d0ppcnJ6dWl4T19oRkJabVBMNzlONzZuSXZaaVlDd0Y2aDJ3dEFQUTNtZkp3c2pTTzlURld3VmVQWEw1M2Y5U1lHeHZJVjFQS0puRXp2XzBCWnY3cmdPOTFCSTdhcE1DT0E1MjMyRTFLcGtPTWQxeDRpTXNTaF84MHJ4SlhmVkNlOGRKSTFXNWVMWUFfZnNTOGpqZFpraEpaLXVrQk9KWExnQk5EOXFDQ0o1c0Q2TDY0eDdSWEtqdG5zR3I1SEdmdU1KQzgxZkxZQWFaa3hIWVN5WUlOZFRKclZUX3UtcmZBRXZWS0xUZERKMmFfdTg3X3RFa0VkdE9TWk80OUstbE4xZHBXZEpIT25Ga2l0SjN6aXNxRnZaa0tfQlRkMm0wZGVhMk0wMnN3WnViWGtMOGRCNDEzcUdMaGNNaEhCS1E2RTB2WGlobEJvZFo5VlhEeGlxTnB5QTQ5NEVRVThzd2c0WXVHQjNERXI3TUhISE4zM29ZbkVEMnBjWVBESG1JRzJldjYzc3ZITEZjT0VVazJoS2Fs0gHkA0FVX3lxTE5rdV9yRVdDYW5xYlZfOWZhcmRwNnZUTUJ3SjJrNE1ZZXRwZ0U4SFFoRGttMWIyX3ZWNHVBRmZsaVNnbWdRVDl6Y0ZVWVVoVHZ3Smlycnp1aXhPX2hGQlptUEw3OU43Nm5JdlppWUN3RjZoMnd0QVBRM21mSndzalNPOVRGV3dWZVBYTDUzZjlTWUd4dklWMVBLSm5FenZfMEJadjdyZ085MUJJN2FwTUNPQTUyMzJFMUtwa09NZDF4NGlNc1NoXzgwcnhKWGZWQ2U4ZEpJMVc1ZUxZQV9mc1M4ampkWmtoSlotdWtCT0pYTGdCTkQ5cUNDSjVzRDZMNjR4N1JYS2p0bnNHcjVIR2Z1TUpDODFmTFlBYVpreEhZU3lZSU5kVEpyVlRfdS1yZkFFdlZLTFRkREoyYV91ODdfdEVrRWR0T1NaTzQ5Sy1sTjFkcFdkSkhPbkZraXRKM3ppc3FGdlprS19CVGQybTBkZWEyTTAyc3dadWJYa0w4ZEI0MTNxR0xoY01oSEJLUTZFMHZYaWhsQm9kWjlWWER4aXFOcHlBNDk0RVFVOHN3ZzRZdUdCM0RFcjdNSEhITjMzb1luRUQycGNZUERIbUlHMmV2NjNzdkhMRmNPRVVrMmhLYWw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T08:15:59.000Z",
-     "seen": "2026-11-20T09:43:09.596Z"
     }
    ]
   },
@@ -355,6 +355,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "\"مخبأة في طوب إسمنتي\".. السعودية: إحباط تهريب 2.3 مليون حبة كبتاغون عبر ميناء ضباء",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/ksa-attempt-thwarted-to-smuggle-captagon-pills",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T12:10:19.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
     {
      "title": "الزيدي: جرف الصخر بداية لفرض سلطة الدولة في العراق",
      "url": "https://www.skynewsarabia.com/middle-east/1906058-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D9%81%D8%B1%D8%B6-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
@@ -434,26 +441,18 @@
      "seen": "2026-11-20T10:03:09.260Z"
     },
     {
-     "title": "بديل صحي للملح: يقي من الضغط ويحفظ القلب والكلى",
-     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPdTNSald6U1AzZHg3b21oSkwzYjZFd3l1Vi1pVlplNXQxbzVHc1lKdUNJZkI4b1QyOEN3dm5hMUkzaU95cDBkbkFZSkNDWUlRTTA4UElVX1lnYU52MURfd3U0U2JMUzRRaDgtMTV6MkJ4MjctUHl3YVhCQ3FWSDVEUVNnUzRXbGVPQnFuRkF1b2tST1lVVVVWZUp1RHBBRk5pSDZRMXNDenBLa1RQRExSdnM4dlRwNFpGVERJSWE3ZGFDTm9HaE1pT0kwc0RXd0ZNRWt4WGdQVlFTMXF0Mm9ZRTZET1lWN2dYUEVISDQ2T0RPZ3BONktlWDY0WmpERDNpNXVQQ25OZ0VqTWNaYWM5VThpb2xmTGNva0lHWlNGVnFwR1JxSVByZFhtZ3dJMmp1SHgzdVFzR1FiWDRITjNSVTJfQjR4ZW0xd19Sc2N0VTlfN2czR0xDQmduNFg1UnY2TzRwdXo4dWM5eXJwd2tlN3FQYmdrU0JVRTliNEw4dnRiRUdRWS0zTE1ONjg4cVhsS1B6SGFLN3NSbWUz?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T08:54:40.000Z",
-     "seen": "2026-11-20T09:23:09.928Z",
-     "impact": "يوفر للأفراد بديلاً غذائياً يساعد على الوقاية من ارتفاع ضغط الدم والحفاظ على صحة القلب والكلى."
-    },
-    {
-     "title": "أمين عام مجلس التعاون الخليجي يدين \"التصريحات غير المسؤولة\" ضد الإمارات من حكومة الصومال",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/gcc-secretary-general-condemns-somali-governments-statement-against-uae",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T08:50:56.000Z",
-     "seen": "2026-11-20T08:53:09.876Z"
-    },
-    {
-     "title": "طلاب الصحافة يسدون فراغ الإعلام المحلي بأمريكا.. وأساتذتهم يدفعون ثمن الإرهاق",
-     "url": "https://www.aljazeera.net/media/2026/11/20/%d8%b7%d9%84%d8%a7%d8%a8-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%8a%d8%b3%d8%af%d9%88%d9%86-%d9%81%d8%b1%d8%a7%d8%ba-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85?traffic_source=rss",
+     "title": "صحة غزة: تمديد إسرائيل اعتقال الطبيب أبو صفية \"جريمة مركّبة\"",
+     "url": "https://www.aljazeera.net/news/2026/11/20/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a8?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-20T08:39:32.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
+     "time": "2026-11-20T09:03:17.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
+    },
+    {
+     "title": "إنفانتينو يجوب آسيا لحشد التأييد في قارة منافسه تاشيما",
+     "url": "https://www.aljazeera.net/sport/2026/11/20/%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d9%8a%d8%ac%d9%88%d8%a8-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d8%ad%d8%b4%d8%af-%d8%a7%d9%84%d8%aa%d8%a3%d9%8a%d9%8a%d8%af-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T09:00:00.000Z",
+     "seen": "2026-11-20T12:13:09.207Z"
     }
    ]
   },
