@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:55:10.249Z",
+ "updated": "2026-11-20T17:55:25.651Z",
  "minute": [
   "تواصلت التطورات العسكرية بالمنطقة مع إعلان التحالف بدء عملية باليمن وإعلان إسرائيل مقتل قياديين بغزة.",
   "وعالمياً توصلت بريطانيا والاتحاد الأوروبي لاتفاقات جديدة، بالتزامن مع تراجعات في الأسهم العالمية بمجال الذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T17:55:10.249Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T17:55:25.651Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5334,
-   "change": -4.23,
-   "asOf": "2026-11-20T17:45:11.000Z",
+   "value": 5330,
+   "change": -4.3,
+   "asOf": "2026-11-20T17:46:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6090,
-   "change": -4.23,
-   "asOf": "2026-11-20T17:45:11.000Z",
+   "value": 6086,
+   "change": -4.3,
+   "asOf": "2026-11-20T17:46:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3527,
-   "change": -4.3,
-   "asOf": "2026-11-20T17:45:11.000Z",
+   "value": 3525,
+   "change": -4.37,
+   "asOf": "2026-11-20T17:46:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0976,
    "change": 0.04,
-   "asOf": "2026-11-20T17:54:45.000Z",
+   "asOf": "2026-11-20T17:56:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.03,
-   "change": -3.21,
-   "asOf": "2026-11-20T17:45:04.000Z",
+   "value": 89.07,
+   "change": -3.16,
+   "asOf": "2026-11-20T17:46:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7019,
-   "change": -2.19,
-   "asOf": "2026-11-20T17:55:12.000Z",
+   "value": 7018,
+   "change": -2.2,
+   "asOf": "2026-11-20T17:56:56.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58994,
-   "change": -4.7,
-   "asOf": "2026-11-20T17:55:11.000Z",
+   "value": 58981,
+   "change": -4.72,
+   "asOf": "2026-11-20T17:56:52.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -181,6 +181,20 @@
      "seen": "2026-11-20T17:45:11.068Z"
     },
     {
+     "title": "إنفوجراف.. أبرز أنشطة رئيس مجلس الوزراء هذا الأسبوع",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOcGwyMk5LQ3lHOWw3UlpSU3BFWmowbnBoeFE0YkVIakpZN1dnYk15WDVtaGM3cnNPV0YwSjZpZFpWc2lDTmM1bXNGUDU1UkVMYjF1OGRVSkNmX2YyQnFQSlJoRDU4NnBVSjRKVlZ2cW81V3FZd3FrSHBLb2pLWjBHSkVIbnR3elBmTXhWSFZRV0JZNTBLWVdxZkRNWlZYX3lhVjNydzFGbUFhZjJNSzF3eEFEWGthSzhVOXBMSlBKNU1zV25jLWRaWUMwa29YWTlJWDl5WlVJUGhjUVVjTVppWUxzY2tpOFZYak13WVpVc0xHU0dCRjdhZ3lNYzd0TXNjM1JXVDNndVNqc0pFVkdUTDZaRmZjbmZ1SThESHlVTTB1ZFB1U0Q3RVJIeWQ5OV92WkRuSU52UjZxTTZXSWZCSkc2eFkteUhuZmF4S2F6QW90aVVsanlyZ09LWDVBaTBXM3NmaFg2bEFNVVNEUDltbjVXcGlMcUlzTkFqLUhYdWJfRnlremEwdWg4Z19HSWlRaEd3TE82NlNyYThYWU1IRzh0RWtpLVFGQXBEdGtxazFMb0RYVFF3?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-20T17:17:00.000Z",
+     "seen": "2026-11-20T17:55:25.651Z"
+    },
+    {
+     "title": "وداد عون لـ\"الدستور\": زيارة الدبيبة إلى مصر جاءت في ظل تحديات سياسية واقتصادية تمر بها ليبيا",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBzVFFYWEI1ZnhmZjZkeXdzXzU2VGl1ekhnVWVKeEJQVndFZTF4VzdodjdURW04R3BCUkwySDhDQmZlbEpJ?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-20T16:38:26.000Z",
+     "seen": "2026-11-20T17:55:25.651Z"
+    },
+    {
      "title": "مدبولي في تنزانيا لافتتاح سد شيّدته مصر وسط توترات «أمن المياه»",
      "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOSHpyYlltVElYa2pvR2RZY1ZvaHRiVkJKQ2wwVXJlcmFoOGxCRzdSVVJxWkNvNHF4d2d5Zjl6MkhxWDFFbF9FWEx3RkpfVFdsMnpfTjE1ZTcza3UxbEFHS0pWVE0yb0k3RENQR2RFOERxbWtrWmd4RUhkYTlVbktQYVVVaHh2TWRnVEhjaG01Q2pRSnh3M1c4VWMtV0VWdjJFdzlCcjB2SUYwYWFxbTNqS3hkN1VuVWxnaG4xM0k4aUdLaGZGWnpvTXR1RXlPR2ZYaVMzNFRUQ1pPYzA2WnVOa2xWUXRxVTE5bS1PUExYSWc4VENSVGFTek94SHQtUVdGY29vTVFUN3loU2E1M3NtTWgzdFF5MEYxOC1QdzNuOEFlSG5DR1R0MUJSSllJWUxHQUkzb2lVcEtycWxyamNLM2paQmVOdl9TTlI5dkRHaXFzRlNMZXhZd3BCNWVWOWxwLXpkM3NwcGNOZDVOc09GQWdrUzFpMGtlUTNZUF9VVmdIT052U3pTTFBHSlVtb1ktNmhGeWtzUVFQc1dNMk1rN2Y1a0QyWnRoc3BKeHRMdmtoT1FHaGZmMWdCY1JOM0lfYnRMT2xxOWVKanUzMUlqSm5PVXMtVURicmZseXBwY210V3h1SERfckZqT1c3eGFJQ1FTUkRWS1JpV0hCZ2M0NUZrZ0t3NTNQMlRlcFRfdUZYOUJtaXRUUTNNT0RSdDdHdHdFVEpXVXE2S21DakJTd2ZyeXdENDk3eUJCZVQtRjdVQ3pnbzZTTXltZERvdUZmRXVtd2ZwcU5jOE4wb0hfUXFNcS1pRzdRa2tQdDg2dENtZFpqX3YyR2JOMWlJYTM0Vzh0aW5PY2ZhcGpUVzdMZjVtMGxJMGozak9SQUR1cEVuYms?oc=5",
      "source": "الشرق الأوسط",
@@ -221,20 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-20T02:53:00.000Z",
      "seen": "2026-11-20T03:01:44.478Z"
-    },
-    {
-     "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-20T02:16:36.000Z",
-     "seen": "2026-11-20T07:03:09.870Z"
-    },
-    {
-     "title": "تبدأ يوم خميس.. إجازة رسمية 3 أيام للطلبة والموظفين بالقطاعين العام والخاص",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RME1fczFiUktFU3c5bF9POGY5UGUzNGJ3X1Y3cEFSaXY5SUh6R0s2Q2t5QkdUbmdXcnV6RTg5UzMxN2JmNFVEZXlmZDdFY3h6N2RzRFFHM0VRaTRtaGRV?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-20T01:44:00.000Z",
-     "seen": "2026-11-20T07:23:09.896Z"
     }
    ]
   },
