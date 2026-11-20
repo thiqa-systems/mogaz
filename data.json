@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-20T05:41:44.563Z",
+ "updated": "2026-11-20T05:51:45.223Z",
  "minute": [
-  "ركزت الأخبار الاقتصادية والمحلية على متابعة أسعار صرف الدولار في البنوك والبنك المركزي المصري وتطورات أسواق الذهب وحركة القطارات.",
-  "شهدت الساحة الدولية إعلان السعودية اعتراض صاروخ ومسيرتين، بالتزامن مع طرح واشنطن فكرة انضمام أوكرانيا لحلف الناتو وتطورات أمنية في هايتي والعراق.",
-  "تقنياً، بدأت مايكروسوفت تثبيت تحديث ويندوز الجديد تلقائياً، وسط تحركات في مناصب الأمن السيبراني بأميركا وتقارير عن ضعف الطلب على بعض أجهزة آيباد."
+  "تشهد الأسواق متابعة لأسعار العملات الأجنبية وسعر صرف الدولار في البنوك والبنك المركزي المصري.",
+  "سجلت الأسواق المالية هبوطاً في أسعار الذهب تزامناً مع انهيار الأسهم واستقرار الدولار.",
+  "تتواصل التطورات الإقليمية مع اعتراض السعودية لصاروخ ومسيرات وتبادل تصريحات سياسية بين مسؤولين دوليين.",
+  "شهد قطاع التكنولوجيا بدء مايكروسوفت التثبيت التلقائي لتحديث ويندوز الجديد وإقالة وتنحي مسؤولين في الأمن السيبراني الأمريكي."
  ],
  "ai": {
-  "at": "2026-11-20T05:11:44.813Z",
+  "at": "2026-11-20T05:51:45.223Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T05:41:44.563Z"
+  "impacts": 7
  },
  "markets": [
   {
@@ -27,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5325,
-   "change": -4.39,
-   "asOf": "2026-11-20T05:33:47.000Z",
+   "value": 5323,
+   "change": -4.43,
+   "asOf": "2026-11-20T05:42:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6080,
-   "change": -4.39,
-   "asOf": "2026-11-20T05:33:47.000Z",
+   "value": 6078,
+   "change": -4.43,
+   "asOf": "2026-11-20T05:42:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3520,
-   "change": -4.48,
-   "asOf": "2026-11-20T05:33:47.000Z",
+   "value": 3519,
+   "change": -4.51,
+   "asOf": "2026-11-20T05:42:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0979,
-   "change": 0.06,
-   "asOf": "2026-11-20T05:43:44.000Z",
+   "value": 1.0982,
+   "change": 0.09,
+   "asOf": "2026-11-20T05:51:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.94,
-   "change": -2.22,
-   "asOf": "2026-11-20T05:33:47.000Z",
+   "value": 89.93,
+   "change": -2.23,
+   "asOf": "2026-11-20T05:39:28.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61637,
-   "change": -2.14,
-   "asOf": "2026-11-20T05:43:44.000Z",
+   "value": 61876,
+   "change": -1.76,
+   "asOf": "2026-11-20T05:52:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -233,7 +232,7 @@
      "title": "زيارة الدبيبة إلى مصر.. هل تخفف من حدة أزمة ترسيم الحدود؟",
      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQUGFCd25hNFY3REdRc2xkVEU5eDRiY1JxR1ZLcHpkd2xPZFBrRnFCUWVXMl93TW1RVWZUc2lxYTNyVHhZUmFFTHRsakdWc0RUelp1Q2w5YU0tdjlqb1lKNVZVcFNFaE1RdFFUUmZfeGRlTmpheTBMZ0xaaFlSclRPSkVuaTRMcVRCWF91OFdVRl9XZlRaVzItVmIzd2Y1Szh5WjZsZmNhYzlIbFhaQ2MtNmE4TFM5YVBHZTJqUUhPUjdfZ1ZDOVlLM3M5b3l3MnE4elFubENqSC1Oc1hwQzQxWE9WV0hhSFQ5Yjh5ZWJFMUpyejU0bmVacnFReXlLOEhTOXh3RDNUNm5yREpOTDFiMWhyMmowYkVOa01uRVNWLWFSUHkxYXlZaWRJMTNDWjRXM1EtendzNjhJZnprTnRXVk1XcmNYcTJzbmhkRGlKb05LVEtzNU5JeVpHLUFRN0dqQzlqTlc1QlJyMzdQdnk1UUltaDJwVnlRMWVWdksteUpPRHhJVV81Y1UzMWNIVzg40gGWA0FVX3lxTFBPaHhOUkR4a3l6LXZGbXMycGNlaVM0bHNGQThTV29Ob19QbjFzc2dNZUZoclc1eEFWRnJNUUx5SXZPQ0JIRHVvbF9seGl3V2xxU3hmQUYzeHlVOEEwQkJBNU9pd0g3UUM1SE1vUTFibV82WTFDRFo0aVE5ZUE4cjhESlV4X3NUUlVLd2VqVmowVDkwX0ZHTm00ZDZQak8tdk5Oa1cxM1F6LXhKZFhjVEhYa3BGVU5IZ3JybDV3aXpmRVMyUG1nSFYyQkVWem1sY0R6elFsSkNYVEJlalhHUE1neWU0TW9rQTNWUnZJX2piZk04bEFHT2xEd3NyVlVrUW9tOXpsTGJPZ2lOa0JDY0FXQkM5NlNmcjREUVFtNmJMUG4zYi0xeG1zY2MxejliUlE3X2dhdmx3bVQ1Q0I5MlFVakV6WFBNdHRPNXd2Q003Yy1qUU5TQjJUaTdrTUh1U2xIbjZKNlNsdkkxdVhPVFFrRUFQQ3BYYzFDakpkVEhrcU5BUWIwTVFWRG1VWGF4Zmk2Q0lidWc?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T16:43:05.000Z",
+     "time": "2026-11-19T16:46:37.000Z",
      "seen": "2026-11-19T21:50:06.794Z"
     }
    ]
@@ -247,7 +246,8 @@
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wVHllSnRaOGN2eFdfLWlTdW05NGk4QjBEOEtDaXZ5NFFWQ3RDMzkwOHdxRkJYb1RXc1VPMmhaVTYwWmZ6dFE?oc=5",
      "source": "القاهرة 24",
      "time": "2026-11-20T05:31:44.000Z",
-     "seen": "2026-11-20T05:41:44.563Z"
+     "seen": "2026-11-20T05:41:44.563Z",
+     "impact": "يساعد التعرف على أسعار العملات في البنك المركزي المصري المستثمرين والأفراد في تحديد تكلفة المعاملات المالية وحساب التزاماتهم النقدية."
     },
     {
      "title": "سعر الدولار في البنوك الآن",
@@ -255,7 +255,7 @@
      "source": "صدى البلد",
      "time": "2026-11-20T05:00:00.000Z",
      "seen": "2026-11-20T05:01:44.509Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة تحركات سعر الصرف وتأثيرها على تكاليف المعاملات."
+     "impact": "يهم رصد سعر الدولار في البنوك المستوردين والمستهلكين في مصر لما له من ارتباط مباشر بتكلفة السلع وحركة الأسعار."
     },
     {
      "title": "رونالدو، مارادونا، باجيو.. ماذا حدث لفرق نجوم العالم؟",
@@ -269,7 +269,8 @@
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tdnRTSU5CdE9kbDlBbEZtTmJBNXRFdUZVN2hXaWo5ejdHa2NKcEdzLTMxaEg3NXJYa21BLWZYQk9IUGNPYjBDYUVLYlBnNzNqUnhiX0d5MkNFWHFMd1daRg?oc=5",
      "source": "Investing.com",
      "time": "2026-11-20T03:01:00.000Z",
-     "seen": "2026-11-20T05:41:44.563Z"
+     "seen": "2026-11-20T05:41:44.563Z",
+     "impact": "يهتم المدخر والمستثمر في مصر بمتابعة هبوط أسعار الذهب لتقييم أداء المعدن كأداة لحفظ القيمة وإدارة أصوله."
     },
     {
      "title": "لغز انهيار الذهب رغم استقرار الدولار.. هل تسحب أنثروبيك سيولة الأسواق؟",
@@ -277,7 +278,7 @@
      "source": "Investing.com",
      "time": "2026-11-20T02:35:00.000Z",
      "seen": "2026-11-20T04:41:45.357Z",
-     "impact": "يساعد المستثمرين في مصر على متابعة أسباب تقلبات أسعار الذهب العالمية وتأثير حركة السيولة على استثماراتهم."
+     "impact": "يفيد فهم تقلبات الذهب وسيولة الأسواق المستثمرين في مصر لتتبع العوامل المؤثرة في استثماراتهم بالمعادن والأسهم."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 20/11/2026 أمام الجنيه.. بكم في البنك المركزي؟",
@@ -355,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "سفير إسرائيل لدى واشنطن: يعود الجنود الأمريكيون بعد هزيمة إيران.. وعراقجي يرد: لم نكن نعلم أنه يقود الجيش",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/israeli-amb-us-soldiers-return-home-after-defeating-iran-aragchi-responds",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T05:37:33.000Z",
+     "seen": "2026-11-20T05:51:45.223Z"
+    },
+    {
      "title": "مسؤول أميركي يعلق على أزمة \"جرف الصخر\".. ويوجه رسالة للزيدي",
      "url": "https://www.skynewsarabia.com/middle-east/1905931-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%82-%D8%A3%D8%B2%D9%85%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%88%D9%8A%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%AF%D9%8A",
      "source": "سكاي نيوز عربية",
@@ -381,7 +389,7 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T04:47:32.000Z",
      "seen": "2026-11-20T04:51:44.515Z",
-     "impact": "يهم المستثمرين لمراقبة الاستقرار الإقليمي وانعكاساته المحتملة على حركة التجارة وسلاسل الإمداد في المنطقة."
+     "impact": "تهم الأوضاع الأمنية الإقليمية المستثمر في مصر لكونها تؤثر على حركة التجارة الإقليمية واستقرار أسواق الطاقة."
     },
     {
      "title": "شرطة هايتي تعلن مقتل 34 شخصا على الأقل في عملية ضد العصابات",
@@ -417,13 +425,6 @@
      "source": "فرانس 24",
      "time": "2026-11-20T02:10:41.000Z",
      "seen": "2026-11-20T02:11:44.566Z"
-    },
-    {
-     "title": "كيف تُشكّل إسرائيل معركة قيادة الديمقراطيين في مجلس الشيوخ الأمريكي؟",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/how-israel-is-defining-senate-leadership-battle-between-schumer-and-van-hollen",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T01:31:29.000Z",
-     "seen": "2026-11-20T01:41:44.990Z"
     },
     {
      "title": "300 محكوم.. هل تعيد أحكام هجوم الكرك الإعدام إلى الواجهة في الأردن؟",
@@ -463,7 +464,7 @@
      "title": "إقالة مسؤول أميركي بارز بعد موجة الأعطال الإلكترونية",
      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOVlpWYVl6cm55Q3picGNZMEs2SlExcExCMGJhb1ZLTFQ1Q1pyS1JjcnFvTXl5al94dmFHY0ZtRVF5MHhGN0lpRGQ2NXBSR095ZWNwMDhlWlJTNG93MVdycWpPbk50a2hCaVFDWGl2LTQ3N2ZxNmtZRU1ReXdDbTA3WDVNRnh2MUtxaElIRGVianZvdm5tLXJyVXRuNmg3SWthUHFhS1hNdFVPbzU4Rm1lSVJMc2tiSUR2cWdpMy1iQVV5Mk5leHB3M20xOGJkYkJ0YkszN1E5U2JqczRJQzEyNUdsRTRNOFMxREpmTkFZZDQtOFVUb1EtbVJsanlzSGdhbUVFcFo3QUVTRC1reGJLREdmRXFhWnM1SkVSODQtLWZQc1gzVFl3Qks4aTBVNnNuS2Z2RFBPTXFYdS1Tb3Y3elhPOGdtcnAwbWdieEdsUXlnQzdKal9KMTRDMHpFcmpGY3ZkeUxTeGxWTi1jOWNiUHZvMTA0THhqcjI4YzdhLVNCZ2JkTHRmdU9hYTJkdTFPZU40RXBoV3c0LW5tY3hqem5MRnNtOXlTMC04RlZQRdIBtANBVV95cUxNOWt0X3p2WkZVeUNlMGkxWHgyUmU1dzB0ZTNXbmE1aElwZGdIdkluVFN2ZWp2TC15RWZDSl8xblBYTmN1UndHNW5KSjlJSWlNUVpwNFNzOU1Pdi1jMWMzVDB5QllfSVVfbVY1OEYtSVBEbWJpNWpFMWlTUE9INGtvcTlpSnI3Si1pYm9RLTRzM096c0lrUjVHQl9IYnZWZ1o2Z01BTFY4ZkdSdm9tQy1wdzB0Qnp6WFNOdmd2RU05SWcxUXFTN0VRN21DSkpWM1BFVGlUa3E3cE43U2hnZVJrYzllLU51aUpmcml3Ukx1bHhxM2tOMTBXc1V0dXEyQTZRYTFMWk45ZVVKM1lVczNDYWlNSkhzR2hlUVgxMmxka2xxOFBnem9waFRLTzJacWdfRGhmWURndXI0c0Y4dDJRWTZ0dl9pRldWS3lqREpPY1FkNmk1MlY5NUU3d0tkOEtrM01sa0l4S28yb1RJQzVOR3lkOFJlbnFIV0I2M2RLdVo2Zzl5d3lITGIzUWYzd2FiSlR4dVNFb3ZJY2xSVzZmZUlaWTh6R0Z3WnFzVHV0TmxBYm4x?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T01:16:12.000Z",
+     "time": "2026-11-20T01:48:38.000Z",
      "seen": "2026-11-20T04:01:45.154Z"
     },
     {
@@ -486,7 +487,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-19T21:21:31.000Z",
      "seen": "2026-11-19T21:30:06.432Z",
-     "impact": "يهم مستخدمي الحواسيب والشركات في مصر للاستعداد للترقية التلقائية لنظام التشغيل وتفادي أي تعارض مع التطبيقات المستخدمة."
+     "impact": "يهم التثبيت التلقائي لتحديث نظام ويندوز مستخدمي الحواسيب وأصحاب الأعمال في مصر لضمان جاهزية واستقرار أجهزتهم."
     },
     {
      "title": "ضعف الطلب على iPad Pro بشاشة OLED يهدد خطط iMac الجديد",
@@ -494,7 +495,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-19T21:16:45.000Z",
      "seen": "2026-11-19T21:20:06.667Z",
-     "impact": "يفيد تجار ومستهلكي الإلكترونيات في مصر بمتابعة اتجاهات وفرة الأجهزة الحديثة ومستقبل خطوط إنتاجها."
+     "impact": "يهم مسار تصنيع وطلب أجهزة الحواسيب واللوحيات موزعي ومستهلكي الإلكترونيات في مصر لمتابعة توفر المنتجات في السوق."
     },
     {
      "title": "3 مسيرات في البحر الأسود.. كواليس مرعبة لاستهداف سفينة وادي العرب ولحظات أظهرت بسالة الطاقم المصري",
