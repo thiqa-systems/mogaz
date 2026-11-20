@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-20T19:45:25.866Z",
+ "updated": "2026-11-20T19:55:26.195Z",
  "minute": [
-  "تواصل وزارة النقل المصرية تنفيذ خطط تطوير وتحديث السكك الحديدية والمزلقانات لتعزيز الأمان، إلى جانب الإعلان عن عقد قمة عربية نرويجية للذكاء الاصطناعي في ديسمبر المقبل.",
-  "تشهد الأسواق استقراراً في سعر صرف الدولار مقابل الجنيه المصري وسط متابعة لمؤشرات العملة عالمياً وأسعار الفضة في الصاغة.",
-  "على الصعيد الإقليمي والدولي، تستمر التطورات الميدانية والسياسية في غزة واليمن والعراق، بالتزامن مع تصريحات روسية بشأن انضمام أوكرانيا للناتو ومفاوضات تجارية بين بريطانيا والاتحاد الأوروبي."
+  "تناولت الأخبار مستجدات الأوضاع الاقتصادية في مصر مع إعلان بنك القاهرة عن شهادات ادخار بعائد يصل إلى 20.5% واستقرار أسعار الدولار والريال السعودي.",
+  "كما أشار مصطفى بكري إلى أن إعادة إعمار ليبيا تفتح فرصاً اقتصادية أمام الشركات والعمالة المصرية.",
+  "وعلى الصعيد الدولي والإقليمي، استمرت التطورات السياسية حول مفاوضات إيران والتصريحات الأمريكية، إلى جانب الأوضاع الميدانية في غزة ولبنان والعراق."
  ],
  "ai": {
-  "at": "2026-11-20T18:45:26.160Z",
+  "at": "2026-11-20T19:55:26.195Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T19:45:25.866Z"
+  "impacts": 5
  },
  "markets": [
   {
@@ -27,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5322,
-   "change": -4.44,
-   "asOf": "2026-11-20T19:35:49.000Z",
+   "value": 5334,
+   "change": -4.24,
+   "asOf": "2026-11-20T19:47:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6077,
-   "change": -4.44,
-   "asOf": "2026-11-20T19:35:49.000Z",
+   "value": 6090,
+   "change": -4.24,
+   "asOf": "2026-11-20T19:47:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3519,
-   "change": -4.51,
-   "asOf": "2026-11-20T19:35:49.000Z",
+   "value": 3527,
+   "change": -4.31,
+   "asOf": "2026-11-20T19:47:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0975,
-   "change": 0.03,
-   "asOf": "2026-11-20T19:45:43.000Z",
+   "value": 1.0972,
+   "change": 0,
+   "asOf": "2026-11-20T19:56:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.51,
-   "change": -2.69,
-   "asOf": "2026-11-20T19:35:51.000Z",
+   "value": 89.56,
+   "change": -2.63,
+   "asOf": "2026-11-20T19:47:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 6975,
-   "change": -2.8,
-   "asOf": "2026-11-20T19:45:54.000Z",
+   "value": 6973,
+   "change": -2.83,
+   "asOf": "2026-11-20T19:57:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58671,
-   "change": -5.22,
-   "asOf": "2026-11-20T19:45:48.000Z",
+   "value": 58558,
+   "change": -5.4,
+   "asOf": "2026-11-20T19:57:35.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +137,33 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برشلونة يعلن غياب كريستنسن عن مباراة فياريال",
-     "url": "https://www.elbalad.news/7188203",
+     "title": "أبوس إيدك رجلي هتتكسر.. معلمة تعتدي على طالبة بالضرب وسط صرخاتها: والنبي يا أبلة مش قادرة",
+     "url": "https://www.elbalad.news/7188206",
      "source": "صدى البلد",
-     "time": "2026-11-20T19:44:36.000Z",
-     "seen": "2026-11-20T19:45:25.866Z"
+     "time": "2026-11-20T19:54:52.000Z",
+     "seen": "2026-11-20T19:55:26.195Z"
     },
     {
-     "title": "تشابي ألونسو يعلن غياب بيدرو ولاكروا وهاتو عن مباراة ليدز يونايتد",
-     "url": "https://www.elbalad.news/7188201",
+     "title": "أكسيوس: مبعوثا ترامب يلتقيان مسؤولين قطريين في برلين ضمن مفاوضات إيران",
+     "url": "https://www.elbalad.news/7188211",
      "source": "صدى البلد",
-     "time": "2026-11-20T19:43:36.000Z",
-     "seen": "2026-11-20T19:45:25.866Z"
+     "time": "2026-11-20T19:52:47.000Z",
+     "seen": "2026-11-20T19:55:26.195Z"
+    },
+    {
+     "title": "مصطفى بكري: إعادة إعمار ليبيا تفتح فرصًا اقتصادية كبيرة أمام الشركات والعمالة المصرية",
+     "url": "https://www.elbalad.news/7188205",
+     "source": "صدى البلد",
+     "time": "2026-11-20T19:52:15.000Z",
+     "seen": "2026-11-20T19:55:26.195Z",
+     "impact": "تفيد العمالة والشركات المصرية في معرفة فرص العمل والمشاريع المحتملة في إطار إعادة إعمار ليبيا."
+    },
+    {
+     "title": "يقضى وقته فى قراءة القرآن.. كيف يعيش مادورو الرئيس الفنزويلى السابق فى السجن الأمريكي",
+     "url": "https://www.youm7.com/story/2026/11/20/يقضى-وقته-فى-قراءة-القرآن-كيف-يعيش-مادورو-الرئيس-الفنزويلى/7626457",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T19:43:00.000Z",
+     "seen": "2026-11-20T19:55:26.195Z"
     },
     {
      "title": "يقضى وقته فى قراءة القرآن الكريم.. كيف يعيش مادورو فى سجن بروكلين بنيويورك",
@@ -160,25 +173,11 @@
      "seen": "2026-11-20T19:45:25.866Z"
     },
     {
-     "title": "افتتاح معرض المنتجات اليدوية والمشروعات الصغيرة للشباب بمركز ومدينة فايد",
-     "url": "https://www.elbalad.news/7188180",
-     "source": "صدى البلد",
-     "time": "2026-11-20T19:42:48.000Z",
-     "seen": "2026-11-20T19:45:25.866Z"
-    },
-    {
      "title": "الفريق كامل الوزير.. قيادة ميدانية وجهود لا تتوقف لتطوير السكة الحديد وحماية أرواح الركاب",
      "url": "https://www.youm7.com/story/2026/11/20/الفريق-كامل-الوزير-قيادة-ميدانية-وجهود-لا-تتوقف-لتطوير-السكة/7626445",
      "source": "اليوم السابع",
      "time": "2026-11-20T19:23:00.000Z",
      "seen": "2026-11-20T19:25:25.493Z"
-    },
-    {
-     "title": "الكنيسة المارونية في مصر تحتفل بيوم تطويب البطريرك إلياس الحويك",
-     "url": "https://www.youm7.com/story/2026/11/20/الكنيسة-المارونية-في-مصر-تحتفل-بيوم-تطويب-البطريرك-إلياس-الحويك/7626443",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T19:11:00.000Z",
-     "seen": "2026-11-20T19:15:25.593Z"
     },
     {
      "title": "رئيس الوزراء يقدم واجب العزاء في نجل المستشار عبدالوهاب عبدالرازق",
@@ -224,10 +223,10 @@
     },
     {
      "title": "ردا على محاكمته بسبب إلهام شاهين.. مرتضى منصور \"انتظرونا\"",
-     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQUk42R0lITnlyRFdEa1dpbkNsWU1HbzVUc0cyZXZuZDdmeWZyOTdmLVpqV3VBV0o4ekRIMFEzVDFRLWtCWEpIMnBmUExybU1hc19lUG9pSU5HVVVYNzlmMW1aZ0lScXVYM2hWY0prSmxiSkplaXI5SHFXM1VMbGJUU2g3LTdWRUtVWjZSRTJ3R1c1WDdSdldsR2pyaEFQMllmVi1GTXFteV9GcTl5RERuWnVtaHJlZGJOQkxFWHpDQlpOOWhITnU1RGZMYXFGdTJDcnFpcm5na2ozbFh2aDlnVHRMVFhBdFYzNGFuYndsdkpOT2o3LXpmWWhvckVBblU0NEhlTEVjUUFNWldockR3SXFkMk14UGZ1b0I4QnV5TnVJeHpmTUlTOWgwVUQ3WGpHOHJuX2RGMUEwOUI4MU9RZGpReWxCVnc1NFRIdE5McEtkRklmT2dfdzRQSTFrbGl1Tk83bU93enh6ZDVsSHBhR0FuN1FkZVE5bWFzZzBDMGJYa1hlcEhlaXF0bVdraGl6enBnNHdlN1RNNzVESGY3bFpKYUkyRV9SVTlyaHY3UGxHNGhnU2ttV3hlUEs1cXdnUzN4dVJvZGlzZnNUYlVmWnF2OW1kMzk4WldMdHVGZFZrZHNGU05iMDBDTDNtMHJYU3lxYUxZMEhkbXllTmFqWE1sNXNqQUYzbHN5Y1NlVVZmMl9aS2tRYmUyQ2t2TTcxeU9zOURma0ktMmhCLXBBS0lYZlVfMmVsWVJFX191bE5MU2V6OU1aZU5jZ3l6aHRjWFFCRFZzOWRKZTNoNmtYaUF2RlFJSEF4ZmfSAe8EQVVfeXFMT2lGMFYyQ1Y1Mm9kWWFYOGM2UDR1cDlrdWVIZjdaVnRZVnpYRlI5dkxZNktOV2tBWERTQnFEMHNXZ1R4SVVqbUZZTE9aYmtlMjl4VjlQX1QwTXJQbzQ5SElGMDd6Snd0aXVwWmY4ZGtYeUZGZXMtcGVFRnJaaENqNTdIcjlGcTJELTJ6Qi1SVlhrNFF6cVZQelZWUWFvZnp4Y2c1Y3I3NlUxdGxsOVlQMGxITHVuaURENEJ5NDU4MGgtTlNaM2VzZkpZejVxdGVaeGVsWHVCR0pUZUpvMDV2bU13czRmWURyM1I0T25LdmV2MEZVQ3oyR25waUFBck1TLUZoS0VrdUNRdkEwV0JpSm5QR0hKTXR0TVcxVmEzcUtLNVN1bWN2bFVIcDJuNHZxVU9aS3VGRXNKUFF4UWhNZTQ5LXA4MEplbEpyT05KdGN0SkltaElhV2owQ25aZVBaMG1ZTHM4YlF4NTFnS01vTnc1VEhtYURQS1RRRy0ybkYtOFU4OEswOFdoblhWQXJTcmdkWHV0a3p2ZWFIdkpfWGMtUHpTb3luREIyaEhVd3FWQ1JyWm8xZjItbWZZLTc3Z2htMkZETWlQNkhyalJzSS1QbDdFY1BXcXZycjJUdWRRQU1YUnZ6V3p4WEhhMkVqSkZyNFhxcUF2RWpia0hXY2pnNHBrOUZBcWhEMUViQXNjWk1FekFmdy15dlBVcmpJUnJXMkpEczhCaEFnc2d1eTc1aWNDV1pSdUZRQVJTdWJhZEh1c3lDR1dmT0Z6MFZMY0dSOExBYl9lZmowX0U4eTREVTlYWnc0ellZLVNTTWM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQUk42R0lITnlyRFdEa1dpbkNsWU1HbzVUc0cyZXZuZDdmeWZyOTdmLVpqV3VBV0o4ekRIMFEzVDFRLWtCWEpIMnBmUExybU1hc19lUG9pSU5HVVVYNzlmMW1aZ0lScXVYM2hWY0prSmxiSkplaXI5SHFXM1VMbGJUU2g3LTdWRUtVWjZSRTJ3R1c1WDdSdldsR2pyaEFQMllmVi1GTXFteV9GcTl5RERuWnVtaHJlZGJOQkxFWHpDQlpOOWhITnU1RGZMYXFGdTJDcnFpcm5na2ozbFh2aDlnVHRMVFhBdFYzNGFuYndsdkpOT2o3LXpmWWhvckVBblU0NEhlTEVjUUFNWldockR3SXFkMk14UGZ1b0I4QnV5TnVJeHpmTUlTOWgwVUQ3WGpHOHJuX2RGMUEwOUI4MU9RZGpReWxCVnc1NFRIdE5McEtkRklmT2dfdzRQSTFrbGl1Tk83bU93enh6ZDVsSHBhR0FuN1FkZVE5bWFzZzBDMGJYa1hlcEhlaXF0bVdraGl6enBnNHdlN1RNNzVESGY3bFpKYUkyRV9SVTlyaHY3UGxHNGhnU2ttV3hlUEs1cXdnUzN4dVJvZGlzZnNUYlVmWnF2OW1kMzk4WldMdHVGZFZrZHNGU05iMDBDTDNtMHJYU3lxYUxZMEhkbXllTmFqWE1sNXNqQUYzbHN5Y1NlVVZmMl9aS2tRYmUyQ2t2TTcxeU9zOURma0ktMmhCLXBBS0lYZlVfMmVsWVJFX191bE5MU2V6OU1aZU5jZ3l6aHRjWFFCRFZzOWRKZTNoNmtYaUF2RlFJSEF4Zmc?oc=5",
      "source": "العربية",
      "time": "2026-11-20T07:02:00.000Z",
-     "seen": "2026-11-20T11:23:09.477Z"
+     "seen": "2026-11-20T19:55:26.195Z"
     },
     {
      "title": "«المساحة» تعلن مواعيد الاطلاع على تعويضات نزع ملكية مدرسة صلاح الدين بميت غمر",
@@ -247,14 +246,16 @@
      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPMV9vR0VTUmRDUTliS21hXzJBMVpWUEpIblRGd00zeTEtalZBX282OE16OWRlQVo0S3hFWi1wSFRMU3EweU1ncF84b0hDSnhyZ0ZtaWxDbW92WFZ0UUJ0cUJKTkFfMUd0SlNpSmVsMnJuU2t2cXRsNWtuOU5MWjh6X0pYR2kwT2hfcEE3dXhzZVpHaHJDNVRhNmVhVHVNOVZJNkFtS2JOczJ4OTdQMFFWeDlnZy14RTJFbzEzRDhXSTE5S3dBRGFEQkM1bjVPOXBLWS0wdVZqT0sxQ3B2ekhBNjRiTjlHaTBndDY2VlYzaFQ4bE1ydVB0TlNIcGRUOE01Sms1VWM2LVVUTzVTckNiSXZLUEM3QXRVYmRNZUNrTWNST2o2T0xJTFBNOG8tVWJiMTg5VnRfcXBTXzB2Ni12c0RpQQ?oc=5",
      "source": "عالم المال",
      "time": "2026-11-20T19:31:06.000Z",
-     "seen": "2026-11-20T19:35:26.092Z"
+     "seen": "2026-11-20T19:35:26.092Z",
+     "impact": "تساعد المودعين والمستثمرين في مصر على تقييم العوائد المتاحة لشهادات الادخار في بنك القاهرة."
     },
     {
      "title": "سعر الريال السعودي اليوم الجمعة 20 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wRTVRLWc1NnB0YzJJUXF0aWdQTjJxSXljRE83WDZSS3U1dERaYjRqLWpPQUV5U05GeEdyX0ZvTHY1V2cz?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-20T19:31:05.000Z",
-     "seen": "2026-11-20T19:35:26.092Z"
+     "seen": "2026-11-20T19:35:26.092Z",
+     "impact": "تهم الأفراد والمستثمرين في مصر لمتابعة سعر صرف الريال السعودي وانعكاسه على المعاملات المالية والسفر."
     },
     {
      "title": "العراق ينهي حالة الإنذار القصوى وينشر قواته في جرف النصر، والزيدي يؤكد: \"لا سلاح خارج سلطة الدولة\"",
@@ -275,7 +276,8 @@
      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxQN1dGY3NIN0M2TmxmVFFyV3ktanlSV2dYMzR0a3lnSXB6ampxTGRlR0YwYThqcXozMXJVUHhKZzd4WWNNb1BLNGlPOU80RE9kWWVqZnluZll6S2tGdHhkcEhLajU4THptSDJXazJ0RVNaT3EzZVRzd3ZNdUN1VjBXYjhBbzFHa1V5TTRwMkF5ODNnNGxOQ3lTNVVnaVFhMDJpX3o3bUx1V21LdWRTN0hVRllxSzNqYkVXalJ0bHEwR0V0ZGx3MU9fak5TVEJMZjNRbkp5djV5cWdqUDIwOUxDVWhQWXhqeUJMZ21Yd282MktnYmJ3eTVrbXUtYnlNblM1MWVmNnN2UkYzcVZVV3dUT3g0aXI3dlJfRkZvMWV5d0tGLVByZWhyV1JzVDUzZ3VyQlFva0FGcDhlYWpZRjl3NURrZXpYVERua3VCLXZ6eWdZeTVieW1ZRzZ6Znh1UFZ5ckNTa0doNUNMLW9XYWNRRUJ0WmVVUm0zNGh0SU1qdEhUanlULUJucVR3eTRpVG9OczNpbG8tTXZWQVNUT1VsRkEyVlhCclNrc0dpV1RxSGhkQXFES2NBcklJVURlZFlOU3lYdzY0UGF6UVlSRFg0MTRZTmJ3a01EYVZJdWZvTEhwLS1EbWQ5amQwRHVLT05Ea3fSAfIDQVVfeXFMUDdXRmNzSDdDNk5sZlRRcld5LWp5UldnWDM0dGt5Z0lwempqcUxkZUdGMGE4anF6MzFyVVB4Smc3eFljTW9QSzRpTzlPNERPZFllamZ5bmZZektrRnR4ZHBIS2o1OEx6bUgyV2sydEVTWk9xM2VUc3d2TXVDdVYwV2I4QW8xR2tVeU00cDJBeTgzZzRsTkN5UzVVZ2lRYTAyaV96N21MdVdtS3VkUzdIVUZZcUszamJFV2pSdGxxMEdFdGRsdzFPX2pOU1RCTGYzUW5KeXY1eXFnalAyMDlMQ1VoUFl4anlCTGdtWHdvNjJLZ2Jid3k1a211LWJ5TW5TNTFlZjZzdlJGM3FWVVd3VE94NGlyN3ZSX0ZGbzFleXdLRi1QcmVocldSc1Q1M2d1ckJRb2tBRnA4ZWFqWUY5dzVEa2V6WFREbmt1Qi12enlnWXk1YnltWUc2emZ4dVBWeXJDU2tHaDVDTC1vV2FjUUVCdFplVVJtMzRodElNanRIVGp5VC1CbnFUd3k0aVRvTnMzaWxvLU12VkFTVE9VbEZBMlZYQnJTa3NHaVdUcUhoZEFxREtjQXJJSVVEZWRZTlN5WHc2NFBhelFZUkRYNDE0WU5id2tNRGFWSXVmb0xIcC0tRG1kOWpkMER1S09ORGt3?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-20T18:02:58.000Z",
-     "seen": "2026-11-20T19:45:25.866Z"
+     "seen": "2026-11-20T19:45:25.866Z",
+     "impact": "تفيد الأفراد والمستثمرين في مصر بمتابعة سعر صرف الدولار وتأثير استقراره على حركة الأسواق."
     },
     {
      "title": "مسيّرات إسرائيلية تلقي منشورات تدعو للتواصل مع ضباط أمن وأخرى تلقي عبوات متفجرة في غزة",
@@ -350,6 +352,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
+     "url": "https://www.dw.com/ar/استثمارات-قطرية-جديدة-في-ألمانيا-15-مليار-يورو-وتقارب-سياسي-متزايد/a-80006802?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-20T19:46:00.000Z",
+     "seen": "2026-11-20T19:55:26.195Z"
+    },
+    {
+     "title": "ترامب: نعرف الكثير عن قادة إيران وأين هم ولن نسمح لهم بتطوير سلاح نووي",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/watch-my-lips-trump-tells-americans-that-iran-wont-get-a-nuclear-weapon",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T19:44:49.000Z",
+     "seen": "2026-11-20T19:55:26.195Z"
+    },
+    {
      "title": "ترامب يتهم إيران \"بممارسة الهراء\" ورفض التفاوض لإنهاء الحرب",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/trump-iran-is-bullshitting-refuses-negotiate-end-war",
      "source": "CNN بالعربية",
@@ -400,13 +416,6 @@
      "impact": "قد تؤثر التوترات الإقليمية في الخليج على أسعار الطاقة وشحن البضائع مما ينعكس على الأسواق المحلية."
     },
     {
-     "title": "ولي العهد الأردني لـCNN: اقتصادنا يسير في الاتجاه الصحيح رغم كل التحديات الصعبة وما يهمني هو الاستماع إلى شبابنا",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/jordans-crown-prince-economy-is-in-right-direction-despite-challenges",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T18:24:58.000Z",
-     "seen": "2026-11-20T18:35:25.750Z"
-    },
-    {
      "title": "ملاعب ألمانية تكافئ المشجعين على إغلاق هواتفهم ومتابعة المباراة",
      "url": "https://www.dw.com/ar/ملاعب-ألمانية-تكافئ-المشجعين-على-إغلاق-هواتفهم-ومتابعة-المباراة/a-80006184?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -436,13 +445,6 @@
      "seen": "2026-11-20T17:45:11.068Z"
     },
     {
-     "title": "الحوثيون يعلنون استهداف ميناء ومحطة كهرباء بالسعودية رداً على ضربات في اليمن",
-     "url": "https://www.dw.com/ar/الحوثيون-يعلنون-استهداف-ميناء-ومحطة-كهرباء-بالسعودية-رداً-على-ضربات-في-اليمن/live-79987892?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-20T17:14:00.000Z",
-     "seen": "2026-11-20T18:55:25.334Z"
-    },
-    {
      "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
      "source": "الشرق الأوسط",
@@ -470,6 +472,13 @@
      "seen": "2026-11-20T19:05:26.198Z"
     },
     {
+     "title": "بلد الأمن والأمان.. عبد الحميد الدبيبة يتجول في شوارع القاهرة التاريخية",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sVTBQTllkSmkwMVNpUFZLemR3M1JKTVQyVlU0UUtKYXU4NW1GZFdySUZoSFBxRUJUQXczUEhyRTYwMjh2dnBR?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-20T16:30:00.000Z",
+     "seen": "2026-11-20T19:55:26.195Z"
+    },
+    {
      "title": "قطتك الأليفة تتحدث إليك، ومن الأفضل أن تصغي إليها",
      "url": "https://www.bbc.com/arabic/articles/cqlyjn00zdn0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -482,7 +491,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T15:50:35.000Z",
      "seen": "2026-11-20T15:55:11.039Z",
-     "impact": "يعكس الطرح الضخم لشركة أنثروبيك فرص النمو في قطاع الذكاء الاصطناعي للمستثمرين المهتمين بالأسهم التكنولوجية."
+     "impact": "تهم المهتمين بالقطاع التكنولوجي والاستثمار التقني لمتابعة حجم الاكتتابات والقيم السوقية لشركات الذكاء الاصطناعي."
     },
     {
      "title": "سامسونج تطرح أول تحديث لسلسلة Galaxy Tab S12 بحزمة أكتوبر الأمنية",
@@ -551,13 +560,6 @@
      "time": "2026-11-20T09:29:45.000Z",
      "seen": "2026-11-20T12:25:10.628Z",
      "impact": "تظهر الاختراقات السيبرانية للمؤسسات الحكومية أهمية زيادة استثمارات الشركات المصرية في مجال الأمن السيبراني."
-    },
-    {
-     "title": "النيابة تفحص مخدرات ضُبطت بحوزة زوجة إسلام كابونجا",
-     "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQcEpCTDdfVko2SzZKYndNb01CZFB2dl9VNloydmVkUDN0SWdWR2MtT0RhczNoYjdsSG1WYWNuUVdMcjRuZmtPMnMwdTJqZjQyVDNKUUJhbzNKWW5RM21QN3RKSGY2NEd4UU9lZ1gyeEk0Uzk1VGVBZzlNUzZvTVhTUklJSlVBTVJoREJHLTFIQWhhU0dhd2lCcHJrT0xPSmtLbC10ekIxa3F0dFpndVNNUnhhNXZnb0JlQjhEUFhIRFl2ZlFmN3ZXT2plTlB4dU1mSE1UNzhtT0J0WXdhSUl4OFRIb1lqMkZ5TGpMV1dGR28xWUpOa3lyRlR3cHRIcl9oV3ZKZkY2Umkya1dxcEZtVmY5OXJCYzgwV0hjMjJEd3hSSlpXQVhSb084R29OUWtfcUZvSm1GSjlnc2RueFB3TXpOLVNNaE5iSXBKeHBDNVhDRDJOcTZjZWxvTEsyaHFfd0xITF9Sa2tlX0IxNzZCcnBKeHFrQnlobUJQZElwR1RwclY4SkZDR0pXamhXbGFQVFhvQlRqR2dHcFF2Rlg3YUN0M0kwaVdlSFpMcVdsNVR3Szhzam1VYzQ5b07SAbcDQVVfeXFMT3FQU3RKNmJ6QkVIMVBxMm45NUFzTzhjTUlwS0lUVDhmUnVvYTBiNEVjRGJzSkpIZURZQXJIU2JaZUpYbHlSVjA1VEhpNnFWdUxnQmJNc21HMldGSVJ2Y1JPS1N2MEhGRnhSREFnMWk0OHk0WWRJRnZ6WGZuQ0hSUUU3Nkk2MDVQYUdUQ1BfUmpCanVVWEF6MUpNeDZYMmlTRGtuMmtqdm9jcng0X25UNlJVTWxqczA0ejJHcXFZTFhfckxnRWV5Tm5uMTNrQWFHZ2llUHpuSnNtX3FveDExNHBzVjVleDNCd1pDSkNCT19YdXh5X29kMThtUU9iT2xzTU83TVN0Yy1EUk5yVlRMcTFEemRjd1pydW83NFMxYUM3Yllnc3BEQ1E0dVdoSU16aW1xcERkQkNBOG1DLU9LaDhNdjhlUmJNaU1aM1RMX3E3ZTFtT04wUGhHZmVvWE81UmwwUG5RRHVTMWFHT1hPYldTbUdOU1dpbVA0VWc3bDlaWEdrd1B5S3lwSktwWjdlRG8xaEx3WmkxdXdxZGNyMkM0S1pFRVZqUkVrQmh3Nzd1VFVzclhnVQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T09:22:00.000Z",
-     "seen": "2026-11-20T18:45:26.160Z"
     }
    ]
   }
