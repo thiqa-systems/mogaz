@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:45:10.821Z",
+ "updated": "2026-11-20T14:55:10.451Z",
  "minute": [
   "تراجعت أسعار الذهب وسط متابعة لمستويات صرف الدولار في الأسواق.",
   "تصاعد التوتر الإقليمي مع إعلان التحالف عملية عسكرية في اليمن وتهديدات حوثية طالت أهدافاً في السعودية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 2,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-20T14:45:10.821Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T14:55:10.451Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5399,
-   "change": -3.06,
-   "asOf": "2026-11-20T14:37:09.000Z",
+   "value": 5401,
+   "change": -3.03,
+   "asOf": "2026-11-20T14:45:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6164,
-   "change": -3.06,
-   "asOf": "2026-11-20T14:37:09.000Z",
+   "value": 6166,
+   "change": -3.03,
+   "asOf": "2026-11-20T14:45:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3570,
-   "change": -3.14,
-   "asOf": "2026-11-20T14:37:09.000Z",
+   "value": 3571,
+   "change": -3.1,
+   "asOf": "2026-11-20T14:45:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0984,
-   "change": 0.11,
-   "asOf": "2026-11-20T14:46:46.000Z",
+   "value": 1.0987,
+   "change": 0.14,
+   "asOf": "2026-11-20T14:55:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.66,
-   "change": -3.61,
-   "asOf": "2026-11-20T14:36:59.000Z",
+   "value": 88.28,
+   "change": -4.02,
+   "asOf": "2026-11-20T14:45:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7157,
-   "change": -0.26,
-   "asOf": "2026-11-20T14:47:39.000Z",
+   "value": 7180,
+   "change": 0.06,
+   "asOf": "2026-11-20T14:56:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61471,
-   "change": -0.7,
-   "asOf": "2026-11-20T14:47:40.000Z",
+   "value": 61723,
+   "change": -0.29,
+   "asOf": "2026-11-20T14:56:12.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بيان أوروبي بريطاني يدين التصعيد الحوثي ويحذر إيران.. ومطالبات بوقف تهديد الملاحة",
-     "url": "https://www.elbalad.news/7187896",
+     "title": "ضمن توصيات منتدى مصر 2026.. رفع الحد الأدنى للأجور إلى 15 ألف جنيه وخفض مديونية الموازنة لـ69.5% بحلول 2030",
+     "url": "https://www.elbalad.news/7187909",
      "source": "صدى البلد",
-     "time": "2026-11-20T14:44:56.000Z",
-     "seen": "2026-11-20T14:45:10.821Z"
+     "time": "2026-11-20T14:54:21.000Z",
+     "seen": "2026-11-20T14:55:10.451Z"
     },
     {
-     "title": "عيار 21 يفقد 125 جنيهًا ..تفاصيل أسعار الذهب في الصاغة الآن",
-     "url": "https://www.elbalad.news/7187899",
+     "title": "ضبط 4 صانعات محتوى بالجيزة لنشر فيديوهات رقص خادشة للحياء",
+     "url": "https://www.elbalad.news/7187881",
      "source": "صدى البلد",
-     "time": "2026-11-20T14:44:24.000Z",
-     "seen": "2026-11-20T14:45:10.821Z"
+     "time": "2026-11-20T14:54:10.000Z",
+     "seen": "2026-11-20T14:55:10.451Z"
     },
     {
-     "title": "كوستا: نتطلع إلى نجاح أعمال القمة الثانية بين المملكة المتحدة والاتحاد الأوروبي",
-     "url": "https://www.elbalad.news/7187898",
+     "title": "بوتشيتينو: مانشستر يونايتد يحتاج إلى تغيير وضعه الحالي واستعادة مكانته",
+     "url": "https://www.elbalad.news/7187904",
      "source": "صدى البلد",
-     "time": "2026-11-20T14:43:28.000Z",
-     "seen": "2026-11-20T14:45:10.821Z"
+     "time": "2026-11-20T14:53:52.000Z",
+     "seen": "2026-11-20T14:55:10.451Z"
     },
     {
      "title": "مفتى الجمهورية يشارك فى حفل تكريم حفظة القرآن الكريم بأم الزين بالشرقية",
@@ -206,7 +206,7 @@
      "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-20T02:18:22.000Z",
+     "time": "2026-11-20T02:16:36.000Z",
      "seen": "2026-11-20T07:03:09.870Z"
     },
     {
@@ -356,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إسرائيل تعلن مقتل 3 قياديين بحماس والجهاد في غزة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906071-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-3-%D9%82%D9%8A%D8%A7%D8%AF%D9%8A%D9%8A%D9%86-%D8%A8%D8%AD%D9%85%D8%A7%D8%B3-%D9%88%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF-%D8%BA%D8%B2%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T14:45:29.000Z",
+     "seen": "2026-11-20T14:55:10.451Z"
+    },
+    {
      "title": "السعودية تستهدف قدرات الحوثيين وتعلن استمرار العملية",
      "url": "https://www.skynewsarabia.com/middle-east/1906082-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -446,13 +453,6 @@
      "source": "BBC",
      "time": "2026-11-20T12:33:45.000Z",
      "seen": "2026-11-20T12:45:10.566Z"
-    },
-    {
-     "title": "حرب السودان.. مصالح الإسلاميين تعرقل طريق السلام",
-     "url": "https://www.skynewsarabia.com/middle-east/1906062-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D8%AA%D8%B9%D8%B1%D9%82%D9%84-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T12:14:49.000Z",
-     "seen": "2026-11-20T12:23:09.663Z"
     }
    ]
   },
