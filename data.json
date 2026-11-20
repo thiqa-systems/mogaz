@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:35:10.404Z",
+ "updated": "2026-11-20T13:45:10.414Z",
  "minute": [
   "شهدت مصر اتفاقاً لإعادة 100 بئر بترول متوقفة للإنتاج خلال 18 شهراً، وإعلان وزارة العمل عن تنظيم تشغيل العمالة في ليبيا عبر ربط إلكتروني.",
   "تضمنت الأخبار المحلية انخفاض سعر الجنيه الذهب، ودعم أسطول الإسعاف بـ1000 سيارة مجهزة تنفيذاً لتوصيات منتدى مصر 2026.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T13:35:10.404Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T13:45:10.414Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5377,
-   "change": -3.45,
-   "asOf": "2026-11-20T13:27:25.000Z",
+   "value": 5383,
+   "change": -3.35,
+   "asOf": "2026-11-20T13:38:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6139,
-   "change": -3.45,
-   "asOf": "2026-11-20T13:27:25.000Z",
+   "value": 6146,
+   "change": -3.35,
+   "asOf": "2026-11-20T13:38:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3556,
-   "change": -3.52,
-   "asOf": "2026-11-20T13:27:25.000Z",
+   "value": 3559,
+   "change": -3.42,
+   "asOf": "2026-11-20T13:38:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0996,
-   "change": 0.22,
-   "asOf": "2026-11-20T13:36:44.000Z",
+   "value": 1.0994,
+   "change": 0.2,
+   "asOf": "2026-11-20T13:47:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.23,
-   "change": -2.99,
-   "asOf": "2026-11-20T13:26:42.000Z",
+   "value": 89.26,
+   "change": -2.96,
+   "asOf": "2026-11-20T13:38:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61315,
-   "change": -0.95,
-   "asOf": "2026-11-20T13:37:24.000Z",
+   "value": 61534,
+   "change": -0.59,
+   "asOf": "2026-11-20T13:48:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +139,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تعاون مشترك بين \"الغوص والإنقاذ\" و\"مستقبل وطن\" بورسعيد لنشر ثقافة الإنقاذ وتوعية الشباب",
-     "url": "https://www.elbalad.news/7187821",
+     "title": "الأزهر يرحب بإدانة ميانمار لارتكابها جريمة الإبادة الجماعية بحق مسلمي الروهينجا",
+     "url": "https://www.elbalad.news/7187831",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:34:47.000Z",
-     "seen": "2026-11-20T13:35:10.404Z"
+     "time": "2026-11-20T13:41:37.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
     },
     {
-     "title": "نجاح طبي لقسم العناية بمستشفى السلام ببورسعيد.. أنقذ حياة طفلة تعاني من صعوبة في التنفس",
-     "url": "https://www.elbalad.news/7187810",
+     "title": "المالية: مصر تتصدر أفريقيا في جذب الاستثمار الأجنبي المباشر بنحو 18 مليار دولار العام الماضى",
+     "url": "https://www.elbalad.news/7187829",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:33:31.000Z",
-     "seen": "2026-11-20T13:35:10.404Z"
+     "time": "2026-11-20T13:38:50.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
+    },
+    {
+     "title": "بيان أوروبي بريطاني: على الحوثيين وقف كل الأعمال العسكرية",
+     "url": "https://www.elbalad.news/7187830",
+     "source": "صدى البلد",
+     "time": "2026-11-20T13:38:42.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
     },
     {
      "title": "جهاز تنظيم إدارة المخلفات يشارك في منتدى CircuHUB’26 لتعزيز التحول نحو الاقتصاد الدائري",
      "url": "https://www.youm7.com/story/2026/11/20/جهاز-تنظيم-إدارة-المخلفات-يشارك-في-منتدى-CircuHUB’26-لتعزيز-التحول/7626076",
      "source": "اليوم السابع",
      "time": "2026-11-20T13:33:00.000Z",
-     "seen": "2026-11-20T13:35:10.404Z"
-    },
-    {
-     "title": "نبيل فهمي: إنهاء الاحتلال وإقامة الدولة الفلسطينية شرط تحقيق السلام",
-     "url": "https://www.elbalad.news/7187826",
-     "source": "صدى البلد",
-     "time": "2026-11-20T13:32:32.000Z",
      "seen": "2026-11-20T13:35:10.404Z"
     },
     {
@@ -325,6 +325,13 @@
      "impact": "يؤثر تغيير سعر صرف الدولار مباشرة على أسعار السلع وتكاليف الاستيراد والمعاملات المالية في مصر."
     },
     {
+     "title": "عاجل: سعر الذهب يهبط 96 دولاراً من قمة اليوم إلى أدنى مستوى منذ سبتمبر 2025",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YckNmNllOQWFNQ2MtNG1PSXk4OXdPZXBoWXRuRzdqLVNhVV9PSnZPX1laNWlVY1RyTlpnaDZlR3g1dWpSQlNETlhYRDJseWhLWi1XUFFtQ0RQY1JsOFNBOFVkUTNuQVEyZEFJNHhmYw?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-20T10:14:55.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
+    },
+    {
      "title": "سعر الريال السعودي مقابل الجنيه في البنوك اليوم الجمعة 20-11-2026",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12NTQwWEVBNHQxOXhKTld0VjZ6bGJSaEdPVHh0Q3VlZ3R4N2hSdVdsQlpoUUM0bmxXUW44bjRSWDlpamVCcGxqWVQ3aWp2WWdmMklxaVlLZ1hYX2x3?oc=5",
      "source": "الوطن",
@@ -339,14 +346,6 @@
      "time": "2026-11-20T09:06:19.000Z",
      "seen": "2026-11-20T09:13:09.549Z",
      "impact": "يؤثر على تكاليف الاستيراد وحسابات المستثمرين والقدرة الشرائية للمواطنين في مصر."
-    },
-    {
-     "title": "سعر الدولار اليوم الجمعة 20-11-2026 في البنوك.. أعلى سعر بهذا البنك",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vdHJtS09YS3NYNDN1X0lja0Y2ZDdDdGlDNjd0b1ZEUGdEMlJfcUd5SGdoTEZCcjVfSUVTNWRPa3cxMFk5Z0VF?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-20T08:48:00.000Z",
-     "seen": "2026-11-20T08:53:09.876Z",
-     "impact": "يتيح التعرّف على أحدث أسعار العملات في البنوك للمواطنين مقارنة الخيارات المتاحة للصرف والتطبيقات المالية."
     }
    ]
   },
@@ -355,11 +354,32 @@
    "title": "العالم",
    "items": [
     {
+     "title": "فيديو متداول لـ\"احتراق طائرة سعودية في مطار الرياض\".. هذه حقيقته",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/a-circulating-video-claims-a-saudi-plane-caught-fire-at-riyadh-airport",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T13:45:11.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
+    },
+    {
+     "title": "الحوثيون يوسعون قائمة أهداف هددوا بمهاجمتها في السعودية.. ما هي؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/houthis-targets-in-saudi-arabia-threatened-to-attack",
+     "source": "CNN بالعربية",
+     "time": "2026-11-20T13:37:06.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
+    },
+    {
      "title": "جامايكا: خصخصة الشواطئ",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%85%D8%B1%D8%A7%D8%B3%D9%84%D9%88%D9%86/20261120-%D8%AC%D8%A7%D9%85%D8%A7%D9%8A%D9%83%D8%A7-%D8%AE%D8%B5%D8%AE%D8%B5%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D8%A7%D8%B7%D8%A6-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D9%8A%D8%A8%D9%8A",
      "source": "فرانس 24",
      "time": "2026-11-20T13:28:01.000Z",
      "seen": "2026-11-20T13:35:10.404Z"
+    },
+    {
+     "title": "من المسؤول؟ منفذ هجوم برلين تقاضى إعانات حكومية رغم احتجازه في لبنان",
+     "url": "https://www.dw.com/ar/من-المسؤول؟-منفذ-هجوم-برلين-تقاضى-إعانات-حكومية-رغم-احتجازه-في-لبنان/a-80002857?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-20T13:28:00.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
     },
     {
      "title": "كم هو هزيل عالمنا.. مسبار فوياجر الفضائي يعود إلى الواجهة ليذكرنا بشساعة الكون",
@@ -376,18 +396,18 @@
      "seen": "2026-11-20T13:15:11.023Z"
     },
     {
+     "title": "الحوثيون يهددون موانئ السعودية والمركز المالي بالرياض رداً على تحذير التحالف بإخلاء ميناء الحديدة",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SV1pFSDRSYzFZS1UzbUpmUks1S24zT0tyZng2X3N4dkJFdFpQSVBDdjlpc3ZfRDNzMkIwOGgxUU9sVmszc3dIOEp6R1NQNEE5aDk5VHlNODJ6T0tGS0HSAWNBVV95cUxQRUU1bndoejVpY3ZJY3l5aHlJdEhFS05VbWJfR1hZNFI1NXU5R3VYUnRwcGFSMl9uaDhWZzN1bC1aZXNMaGtsdmpoUVhKbThIbFFIOGVxYllabkpnSzZaWU1EdUk?oc=5",
+     "source": "BBC",
+     "time": "2026-11-20T13:07:55.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
+    },
+    {
      "title": "فرنسا وألمانيا تعلقان على أوضاع الصحفيين في مصر.. ماذا قالتا عن \"متصدقش\" و\"مدى مصر\"؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/france-germany-journalists-egypt-matasadash-mada-masr",
      "source": "CNN بالعربية",
      "time": "2026-11-20T12:47:48.000Z",
      "seen": "2026-11-20T12:55:10.418Z"
-    },
-    {
-     "title": "\"شعارات جوفاء\".. علاء مبارك يعلّق على منتقدي أنور السادات بعد توقيع معاهدة السلام",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/alaa-mubarak-sadat-peace-treaty-sinai-israel",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T12:42:38.000Z",
-     "seen": "2026-11-20T12:45:10.566Z"
     },
     {
      "title": "المملكة المتحدة تعلن \"إنجاز الاتفاق\" مع الاتحاد الأوروبي، ومطالب أوروبية بخفض رسوم الدراسية",
@@ -404,18 +424,18 @@
      "seen": "2026-11-20T12:23:09.663Z"
     },
     {
-     "title": "\"مخبأة في طوب إسمنتي\".. السعودية: إحباط تهريب 2.3 مليون حبة كبتاغون عبر ميناء ضباء",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/ksa-attempt-thwarted-to-smuggle-captagon-pills",
-     "source": "CNN بالعربية",
-     "time": "2026-11-20T12:10:19.000Z",
-     "seen": "2026-11-20T12:13:09.207Z"
-    },
-    {
      "title": "الزيدي: جرف الصخر بداية لفرض سلطة الدولة في العراق",
      "url": "https://www.skynewsarabia.com/middle-east/1906058-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D9%81%D8%B1%D8%B6-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T11:54:08.000Z",
      "seen": "2026-11-20T12:03:09.523Z"
+    },
+    {
+     "title": "36 قطارا و22 مليون دولار.. تفاصيل عمليات سطو هزّت كاليفورنيا",
+     "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNTXkzRHpIeEU4eFBwMDlUaUpxMTR6ZFp6WWxSSWNvUUZyTzJESU5CaTA4QXJlUWhFVFZQZ2tRZTlpVGRTaXdXUHFIRkVKWjY0ek5KYzVaSVk5Y0ZPYXhzMHVVMC1EV1I0ejFHYVFBY2lHSTJHbDBrVXdUeGxXSVBURDlwZ0pKMWZjYVB6Vm5adHBySlVLNVIzZzBSRTM3X0JWV0xacWQxYmxjVFRZSVc5NmxKQTFKM1pnZ0FtMVB4Y0pDTTR6ZUxjRVgwbG44dTktanhDRWtIZVU5d3NjQmhZWVVsOF9YeGRxUnYwVEJGeXJadi01dnVIWHRnMlFUNlQ5Qnh1UGNqUTEwOUhPZ2dsTnR1cGd0ck1wV09xTk9zQVhycFpCYTRPU0ltOXB4QmVsLVFwb01fZlVJbkg1MG94QktaV1RjZDhEcWJKVEQyeXo1eG1Jc2FONl91U2NHR1VHYlczZDNDSFAxVnl1MHFHeGkzVmo3NnhaZVd0dmM2cVFTd0RZbFduS0xSOEN0dkI5UjhhRlo4eGxnQnBnUjFHaXVnTG5IRHhobGcyRkhDNGdHRjVIT2QyaWNzQ2g0X2Z0UmhueGFMOUZPNTk5d2fSAdMDQVVfeXFMUExGNUVaaW5QNTlvRUVkRVZvM3AxMmstcjJ2MTFzWFh6WTI3NlNIUTdKcm5PZzVSZ3k3MTctZGRSZnRTRWo0U3FDd1l5UEIwWkRaMzBYdnFDZWRPSDM5SXlSLXJoalUzejVaT09PQ1JoYVdUX25UU0ZFTTc2ZjQ3ZHBXbUlobWNqYWtqTU9rN09KdUxxZV9MWC00Y1ZLNVRUckJocjV6dy0yNk80VjRERTc2OWxkeVltR01tckRxYWFRbWUyOVRxNWRObEFlTUpkY1IzSUE3eWo2UGliU1JVZU5Pc2VzeVZER0hPR0dyYXY5WHNZTElBc1d2Z2wtT2o3SmJwUGlqOU0yNFhReEctR2JCREhpMnJQZ0V5RHdtZU51cF9LdnVfOEM2YzN3NjFIVVRJNUp2U3VXSERxenFVcHBva2psUFlBeUd6bTJHRVZERjBMb2ZHRWdkdEJrMVo5QS1TSmpzRXJpazN5U0tYQ1BJNk93VjJ6LUFhV25vdXY3OWVxQ3ZhN1RyVHJXTFRYVUJmcFFBZFQ1V2VLYkNLTC1BRWt5N0hHMTZuZkFsbHBYa0xvWXF3allNU0VXSEo2X0VKcjFZck1xY1hDZG9ZTmxIaWc?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T11:44:31.000Z",
+     "seen": "2026-11-20T13:45:10.414Z"
     },
     {
      "title": "عملية \"فجر اليمن\" مستمرة .. وإنذار بإخلاء ميناء الحديدة",
@@ -425,32 +445,11 @@
      "seen": "2026-11-20T11:33:09.509Z"
     },
     {
-     "title": "السعودية تدعو المدنيين إلى إخلاء ميناء الحديدة",
-     "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPQ3hHN3RReUFkVkE5M0M3ZjljMkctTjdodGlESERCZDJWRlFDZ0ZMeWRhdm94aDdjaXFMQ2wxZGtyRkRDSjNBODk1bzh2YWlieV84NmE3SnBsdFVqd2h1Z09Ka3hISnVXS2Z1NFNieE50SlpiX0pRMjdqQUVpOU9INjFBYUtwVy1RdFh5TEd5azRqbjU2YzFuc1pIeEFKYjBMaXdaeG1USk90NDE4MlhYa19aQmtWaFJVd1JUaDRfZXlXS1pKVEJYREtjYktzYllMT1VJTFBTa19JLWFFdnJYOFVqam8waXU2UnNiUFJla0hvWHdlM0dOMUprN3Y5MlAtcW5JZmxRaHhCYzVyaVdYZFNYNGNVdldsMjJ1SW9zejhpVUdIbmtIczQzeUxFWWZ4QzBvcDNaV1ZseEZGZGFWMzBNWlUtWW5WWjN3MnMzMGVzVjlBLU53TXlibTZtdW1kMXkyd1BLT2dzVThockZfMUVDTWowRnhOOHFDVEJsTmVPOEJLbUViUW5mTmNtd9IBkwNBVV95cUxQYVgwS1MwcEtZQjQ4Q1plcERaQnZqUVlKREp6SWFCYWVRYjNaNW5ldl8yS3B5Um5JUGFWOHpmQnlmSHF1TmFtOFU5M2VCMGhvZThldEpqaUg3dm96VmdtaUJpZ3JEOEFsd1pRSEc3aTNFR0hyVW5FenZQYUlsSmF3NE1DQ01jX1RON2FtVEt3VDlQU0lBTUw5RWtGdlRvbFBBSlhvczJsN2xVdkdZaVp2R0t4Y0J6cDRWZEZuZ3dqOGdmdE04ZnFYdElGd2pIdlBWQ3QzWjJLTUxpbnJ2RjJ4LUczbElaeTZEYzNsc3BxcFI3dGtfdklwVTlVZDRjOU5zYkJVdVA3dWtja1RqclVmNWxBVnVBZDJhQU50VVdPeEZPXzdTY0FLM2ZqcVJKYUs1Qm9RRzdkMHJYaTI5aTh6cGVyV1dSNGNuZnJDR1E5RUFXbzRLT1lUMHpOblVvb0I4UHVEbXU5alJHbTJSQ3E5M2JhYmRQMGgyUXk4aGIxSlJ0NkdsVHd3aWxkMy1TeEtKVHJR?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T11:02:28.000Z",
-     "seen": "2026-11-20T12:55:10.418Z"
-    },
-    {
      "title": "\"أخيراً، أصبح لترامب مقعد على طاولة الدكتاتوريين\" - مقال في الإندبندنت",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oV3FVX0hVbXFzSzU4LWFmR3JEeHZYQy1QcF9ZV0pEcVRrZ0ZqSl9zUzZVTEtkbmpkalRqMmJHSWdmeGxjcHAtWkVhUzhwV1EyVE91TGlfSVRIWGlua3fSAWNBVV95cUxNY3RaR3NhNGExYVROcG8ydEY5WFNrWUk3R2R0U0NpSTloQlR1ejRpWVBqQmhVODRHemxQSEhxYnl3SGdZZ2lfRnFTTVlQTl9YSm1RUklJdnBGMXZKcXhpbUpra0U?oc=5",
      "source": "BBC",
      "time": "2026-11-20T10:42:52.000Z",
      "seen": "2026-11-20T12:35:10.791Z"
-    },
-    {
-     "title": "الجيش الإسرائيلي يبلغ ملاك بنايتين غربي الخليل بقرار هدمهما",
-     "url": "https://www.aljazeera.net/video/2026/11/20/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%8a%d8%a8%d9%84%d8%ba-%d9%85%d9%84%d8%a7%d9%83-%d8%a8%d9%86%d8%a7%d9%8a%d8%aa%d9%8a%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T10:14:03.000Z",
-     "seen": "2026-11-20T13:25:10.614Z"
-    },
-    {
-     "title": "أوضاع إنسانية كارثية يواجهها نازحو مدينة تعز اليمنية",
-     "url": "https://www.aljazeera.net/video/2026/11/20/%d8%a3%d9%88%d8%b6%d8%a7%d8%b9-%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%83%d8%a7%d8%b1%d8%ab%d9%8a%d8%a9-%d9%8a%d9%88%d8%a7%d8%ac%d9%87%d9%87%d8%a7-%d9%86%d8%a7%d8%b2%d8%ad%d9%88?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T10:13:27.000Z",
-     "seen": "2026-11-20T13:25:10.614Z"
     }
    ]
   },
