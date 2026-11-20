@@ -1,15 +1,16 @@
 {
- "updated": "2026-11-20T01:51:44.836Z",
+ "updated": "2026-11-20T02:01:45.073Z",
  "minute": [
-  "تناولت الأخبار الاقتصادية المحلية تسجيل سعر الدولار أمام الجنيه المصري 53.77 جنيه للشراء ومتابعة أعلى وأقل الأسعار بالبنوك إلى جانب تطورات أسعار الذهب.",
-  "أُعلنت عقوبات تشمل الحبس وغرامة تصل إلى 500 ألف جنيه لمخالفي ضوابط الإعلان عن تقسيم الأراضي بمصر، فضلاً عن تقديم معلومات حول برنامج لدعم التعليم الفني والتكنولوجي.",
-  "دولياً، اختُتمت قمة ضمت قادة الصين والولايات المتحدة وروسيا بتعهدات للحد من المخاطر النووية، بالتوازي مع رصد توترات أمنية واستهداف سفينة وادي العرب في البحر الأسود بمسيرات."
+  "تضمنت الأخبار المحلية والإقتصادية الإعلان عن أسعار البنزين والسولار وتسجيل سعر شراء الدولار 53.77 جنيه مع استقرار أسعار الذهب في مصر.",
+  "قدمت وزارة الإسكان تيسيرات جديدة لعملاء بيت الوطن تشمل مهلة 6 أشهر مجاناً وزيادة مساحات البناء وفق شروط محددة.",
+  "على الصعيد الدولي، اختتمت قمة بين شي وترامب وبوتين بـإعلان سلام وتعهدات للحد من المخاطر النووية.",
+  "في قطاع التكنولوجيا، بدأت شركة مايكروسوفت تثبيت نظام Windows 11 26H2 تلقائياً على الأجهزة المؤهلة."
  ],
  "ai": {
-  "at": "2026-11-20T01:41:44.990Z",
-  "model": "gemini-3.8-flash",
+  "at": "2026-11-20T02:01:45.073Z",
+  "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 8
  },
  "markets": [
   {
@@ -25,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5407,
-   "change": -4.38,
-   "asOf": "2026-11-20T01:41:43.000Z",
+   "value": 5390,
+   "change": -3.22,
+   "asOf": "2026-11-20T01:52:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6174,
-   "change": -4.38,
-   "asOf": "2026-11-20T01:41:43.000Z",
+   "value": 6154,
+   "change": -3.22,
+   "asOf": "2026-11-20T01:52:59.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3575,
-   "change": -4.47,
-   "asOf": "2026-11-20T01:41:43.000Z",
+   "value": 3564,
+   "change": -3.31,
+   "asOf": "2026-11-20T01:52:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.03,
-   "asOf": "2026-11-20T01:51:44.000Z",
+   "value": 1.0967,
+   "change": -0.05,
+   "asOf": "2026-11-20T02:02:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.96,
-   "change": -2.16,
-   "asOf": "2026-11-20T01:41:37.000Z",
+   "value": 90.01,
+   "change": -2.14,
+   "asOf": "2026-11-20T01:52:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61773,
-   "change": -1.93,
-   "asOf": "2026-11-20T01:51:44.000Z",
+   "value": 61466,
+   "change": -2.42,
+   "asOf": "2026-11-20T02:02:56.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +138,42 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إنسان بمعنى الكلمة.. خالد الغندور يشيد بموقف سيد عبد الحفيظ مع أسرة محمد صبري",
-     "url": "https://www.elbalad.news/7187488",
-     "source": "صدى البلد",
-     "time": "2026-11-20T01:38:02.000Z",
-     "seen": "2026-11-20T01:41:44.990Z"
+     "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
+     "url": "https://www.youm7.com/story/2026/11/20/قطار-تالجو-مواعيد-الرحلات-على-خطوط-السكة-الحديد/7625097",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T02:00:00.000Z",
+     "seen": "2026-11-20T02:01:45.073Z",
+     "impact": "تساعد المسافرين ومستخدمي القطارات في مصر على تنظيم جدول رحلاتهم وفق مواعيد قطار تالجو."
     },
     {
-     "title": "زكي عبد الفتاح: لماذا لا يتولى سامي قمصان تدريب المنتخب الأوليمبي؟.. نحتاج إلى صناعة كوادر جديدة",
-     "url": "https://www.elbalad.news/7187473",
-     "source": "صدى البلد",
-     "time": "2026-11-20T01:37:11.000Z",
-     "seen": "2026-11-20T01:41:44.990Z"
+     "title": "6 مجالس إكليريكية بدلا من واحد.. كيف أعاد البابا تواضروس تنظيم ملف الأحوال الشخصية؟",
+     "url": "https://www.youm7.com/story/2026/11/20/6-مجالس-إكليريكية-بدلا-من-واحد-كيف-أعاد-البابا-تواضروس/7622135",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T02:00:00.000Z",
+     "seen": "2026-11-20T02:01:45.073Z"
     },
     {
-     "title": "اعتراض وتدمير مسيرة أطلقتها الحوثي باتجاه المنطقة الجنوبية بالسعودية",
-     "url": "https://www.elbalad.news/7187482",
+     "title": "مفاجأة من الإسكان لعملاء بيت الوطن.. مهلة 6 أشهر مجانا وزيادة مساحات البناء بشروط",
+     "url": "https://www.elbalad.news/7187453",
      "source": "صدى البلد",
-     "time": "2026-11-20T01:35:47.000Z",
-     "seen": "2026-11-20T01:41:44.990Z"
+     "time": "2026-11-20T02:00:00.000Z",
+     "seen": "2026-11-20T02:01:45.073Z",
+     "impact": "تمنح المستثمرين والمتعاملين في مشروع بيت الوطن مرونة زمنية وإمكانية للتوسع في البناء وفق الشروط المعلنة."
+    },
+    {
+     "title": "7 أشياء في منزلك تسبب انتشار الناموس.. أماكن تساعد على تكاثره",
+     "url": "https://www.elbalad.news/7187442",
+     "source": "صدى البلد",
+     "time": "2026-11-20T02:00:00.000Z",
+     "seen": "2026-11-20T02:01:45.073Z"
+    },
+    {
+     "title": "ما زادش.. سعر أكبر عيار ذهب في الصاغة الآن",
+     "url": "https://www.elbalad.news/7187247",
+     "source": "صدى البلد",
+     "time": "2026-11-20T02:00:00.000Z",
+     "seen": "2026-11-20T02:01:45.073Z",
+     "impact": "تفيد المتابعين لأسواق الذهب في مصر في معرفة اتجاهات الأسعار المحلية لأكبر عيار."
     },
     {
      "title": "الحبس وغرامة تصل لـ500 ألف جنيه لمخالفى ضوابط الإعلان عن تقسيم الأراضى",
@@ -164,21 +182,6 @@
      "time": "2026-11-20T01:30:00.000Z",
      "seen": "2026-11-20T01:31:44.457Z",
      "impact": "يفيد المتعاملين والشركات العقارية في مصر لتفادي التعرض للمساءلة القانونية والغرامات المالية عند الإعلان عن الأراضي."
-    },
-    {
-     "title": "10 معلومات عن برنامج «جسر» لتعزيز صورة التعليم الفنى والتكنولوجى",
-     "url": "https://www.youm7.com/story/2026/11/20/10-معلومات-عن-برنامج-«جسر»-لتعزيز-صورة-التعليم-الفنى-والتكنولوجى/7622134",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T01:00:00.000Z",
-     "seen": "2026-11-20T01:10:07.901Z",
-     "impact": "يهم الطلاب وأولياء الأمور الراغبين في الاطلاع على مسارات وبرامج التعليم الفني والتكنولوجي في مصر."
-    },
-    {
-     "title": "الأزهر والأوقاف يطلقان اليوم قافلتين دعويتين إلى الإسكندرية والمنيا",
-     "url": "https://www.youm7.com/story/2026/11/20/الأزهر-والأوقاف-يطلقان-اليوم-قافلتين-دعويتين-إلى-الإسكندرية-والمنيا/7624406",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T01:00:00.000Z",
-     "seen": "2026-11-20T01:10:07.901Z"
     },
     {
      "title": "رئيس الوزراء يخصص 12 ألف متر مربع بالمنوفية مجانًا.. ما السبب؟",
@@ -248,7 +251,7 @@
      "source": "صدى البلد",
      "time": "2026-11-20T01:00:00.000Z",
      "seen": "2026-11-20T01:10:07.901Z",
-     "impact": "يساعد المستثمرين وأصحاب الأعمال على رصد تكلفة تدبير العملة الأمريكية وفق أعلى سعر متداول في البنوك."
+     "impact": "تساعد المستثمرين والمتعاملين في القطاع المصرفي بمصر على متابعة أعلى أعلى سعر للدولار في البنوك."
     },
     {
      "title": "ماذا تكشف دراسة جديدة عن تعداد الهندوس والمسلمين في الهند وحول العالم؟",
@@ -259,11 +262,19 @@
     },
     {
      "title": "سعر الدولار اليوم الجمعة أمام الجنيه المصرى.. سجل 53.77 جنيه للشراء",
-     "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPRUlrQ3BfWjkxQ0lCRVIxSEpWaXliX0dqWTBGeGxoS25ETnZHMUxpd2Q1M1RJWWhLZVp3VVMwU0JkUnI4dHVROTFQb2NjS1VadzhjczZYVFhWODk1S3UzOHBmVnc5YmNQTkhFVU1KdC1jVm9HYWE5NjJJTFVQbTRfaUNzWXJ0aUdPRU1iYnBYYllxWUdTY00tV204YjkxMUpvRk5xQi1qM3I0WDJlenZoM0ZCMGRqbXIyeGZkY0szVFIxbmtVUkdjOFFRS3FmeTRvb3JQMloxRFg3cVdrdXpuRmdUQXFKZWdVc0oyNm9ycEZzUWlkUTJTSllBY2RwWVgzNlZxaU4xRV9QWWR0anBJRElhbFhCMnVKRVBQVTRweWJMVDVfODFLT2dnVXVmTm9iTXdaNjZJNDRuM2JEZUZ5d25EQkVkeTY1SUROX2ZnNXBacVJyTkxlUTdWdXptYXRRX3lwcm1OM3VXbVdzenlqVGQ1YlF1eHpwMnlSbEo3Z1czdDg4ZE9fcnZDZ1ZjVVZheU5RWHR0VUtxZmNUUjE5dTdxbXJYZmlKSHBnd9IBpwNBVV95cUxPV21yb283YjBWTUxuY3dOT1ZSQ0ZJanRua1pydTBHazJLdDRlRXN5ejZKXzJ1bnhFSTJvOEtINlRwTjlGeXdfT1BMZDBFdHY4bUdHS0xycEN4dUNlVThMeUJMZ0kwVHhXNEE2dzlMc3hmMTZsbEhxRjc5WmQ3QTJaYkJBZklRVnl6NkpnSXpYWDVNSno3NDJTMGItaFpjWUJuSmNocGpfSldFNl92LUZNMW5uUEpzNDFnTWRQMjdmM3djSzNJamRwUVR0aHRab1g5bWlZOVlkN1dlUmVRWjEwRWw2eWdJTEIxVFM2VWVsaDkyWnZCd1UzVjZNT20tVFBocDhlOE5LSXhmSlBfNVlqTWE1SFdXRDNZNUtfNUtDUW01VXk4VXFjc2VjVzhRUjFtem1hRkJ3U1JOUENlZlUwUkRIVGhIbUhOMFVRLXdseEQydjRxdENZSmFQdzB6RDBta3JLNmhpeHFLUGhxUlB0Q0ExV2FqWGNPU1pRQ0g1YWQxc3hwWGZLVzlXQXBIZlY5dmZmSUE3NC1acXJWUTRRNWhEWjlOYVk?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPV21yb283YjBWTUxuY3dOT1ZSQ0ZJanRua1pydTBHazJLdDRlRXN5ejZKXzJ1bnhFSTJvOEtINlRwTjlGeXdfT1BMZDBFdHY4bUdHS0xycEN4dUNlVThMeUJMZ0kwVHhXNEE2dzlMc3hmMTZsbEhxRjc5WmQ3QTJaYkJBZklRVnl6NkpnSXpYWDVNSno3NDJTMGItaFpjWUJuSmNocGpfSldFNl92LUZNMW5uUEpzNDFnTWRQMjdmM3djSzNJamRwUVR0aHRab1g5bWlZOVlkN1dlUmVRWjEwRWw2eWdJTEIxVFM2VWVsaDkyWnZCd1UzVjZNT20tVFBocDhlOE5LSXhmSlBfNVlqTWE1SFdXRDNZNUtfNUtDUW01VXk4VXFjc2VjVzhRUjFtem1hRkJ3U1JOUENlZlUwUkRIVGhIbUhOMFVRLXdseEQydjRxdENZSmFQdzB6RDBta3JLNmhpeHFLUGhxUlB0Q0ExV2FqWGNPU1pRQ0g1YWQxc3hwWGZLVzlXQXBIZlY5dmZmSUE3NC1acXJWUTRRNWhEWjlOYVnSAacDQVVfeXFMT1dtcm9vN2IwVk1MbmN3Tk9WUkNGSWp0bmtacnUwR2syS3Q0ZUVzeXo2Sl8ydW54RUkybzhLSDZUcE45Rnl3X09QTGQwRXR2OG1HR0tMcnBDeHVDZVU4THlCTGdJMFR4VzRBNnc5THN4ZjE2bGxIcUY3OVpkN0EyWmJCQWZJUVZ5ejZKZ0l6WFg1TUp6NzQyUzBiLWhaY1lCbkpjaHBqX0pXRTZfdi1GTTFublBKczQxZ01kUDI3ZjN3Y0szSWpkcFFUdGh0Wm9YOW1pWTlZZDdXZVJlUVoxMEVsNnlnSUxCMVRTNlVlbGg5Mlp2QndVM1Y2TU9tLVRQaHA4ZThOS0l4ZkpQXzVZak1hNUhXV0QzWTVLXzVLQ1FtNVV5OFVxY3NlY1c4UVIxbXptYUZCd1NSTlBDZWZVMFJESFRoSG1ITjBVUS13bHhEMnY0cXRDWUphUHcwekQwbWtySzZoaXhxS1BocVJQdENBMVdhalhjT1NaUUNINWFkMXN4cFhmS1c5V0FwSGZWOXZmZklBNzQtWnFyVlE0UTVoRFo5TmFZ?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-20T00:00:00.000Z",
-     "seen": "2026-11-20T00:10:07.866Z",
-     "impact": "يحدد للأفراد والمستثمرين في مصر سعر صرف الدولار الفعلي بالبنوك البالغ 53.77 جنيه لتسعير الصفقات والمشتريات."
+     "time": "2026-11-20T00:03:51.000Z",
+     "seen": "2026-11-20T02:01:45.073Z",
+     "impact": "تتيح للأفراد والمستثمرين في مصر معرفة سعر شراء الدولار المحدد بـ 53.77 جنيه للتقييم والتعامل المالي."
+    },
+    {
+     "title": "رسميًا.. أسعار البنزين والسولار اليوم الجمعة 20 نوفمبر 2026 بعد قرار لجنة التسعير",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0SkhQcHlncU5qbS1lVWxrMDJXZWlUMEx6blZyUEZnNm9PaW1MaTlpMGN3OXNoYnBFQ19GUnhRblY3MHY5MU9Pb0lqWGxORHBPTV85V3loU05teE42U1kw?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-19T23:19:00.000Z",
+     "seen": "2026-11-20T02:01:45.073Z",
+     "impact": "تؤثر تغييرات أسعار البنزين والسولار بشكل مباشر على تكاليف التنقل ونقل البضائع للأفراد والشركات في مصر."
     },
     {
      "title": "أقل سعر دولار في البنوك الآن",
@@ -271,7 +282,7 @@
      "source": "صدى البلد",
      "time": "2026-11-19T23:00:00.000Z",
      "seen": "2026-11-19T23:10:07.393Z",
-     "impact": "يمكّن الأفراد والشركات من المقارنة بين البنوك للوصول إلى أقل تكلفة ممكنة لشراء الدولار."
+     "impact": "تتيح للمتعاملين مع البنوك في مصر التعرف على أقل سعر صرف متاح للدولار."
     },
     {
      "title": "هل تواصل الانهيار؟.. آخر تطورات أسعار الذهب اليوم الجمعة 20 نوفمبر 2026",
@@ -340,14 +351,6 @@
      "time": "2026-11-19T19:48:57.000Z",
      "seen": "2026-11-19T16:29:49.941Z",
      "impact": "تؤثر الهجمات والتصعيد الإقليمي على تقييم المخاطر واستقرار الأسواق التي قد ينشط فيها المستثمرون."
-    },
-    {
-     "title": "ما اتحركش.. سعر الدولار في بنكي مصر والأهلي المصري الآن",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWQ0FhYjQ5WmRidFgwZ3VNTUpJRWdlZDNOYXFmNUdhSDJvTTAxR1k1RFhRM09qNEhlWlloMFlNcThyZWxJSWtr?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-19T19:21:00.000Z",
-     "seen": "2026-11-19T19:29:50.328Z",
-     "impact": "يساهم استقرار سعر الدولار في البنوك الحكومية المصرية في وضوح الرؤية المالية للأفراد والشركات فيما يتعلق بالتكاليف."
     }
    ]
   },
@@ -482,7 +485,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-19T21:21:31.000Z",
      "seen": "2026-11-19T21:30:06.432Z",
-     "impact": "يهم مستخدمي الحواسيب في مصر لتجهيز أجهزتهم ومتابعة التحديث التلقائي لنظام التشغيل مايكروسوفت."
+     "impact": "تتطلب من مستخدمي أجهزة الحواسيب المؤهلة في مصر الاستعداد لتحديث نظام التشغيل تلقائياً."
     },
     {
      "title": "ضعف الطلب على iPad Pro بشاشة OLED يهدد خطط iMac الجديد",
