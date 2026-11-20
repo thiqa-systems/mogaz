@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:45:25.635Z",
+ "updated": "2026-11-20T20:55:26.170Z",
  "minute": [
   "قدمت بنوك مصرية شهادات ادخار جديدة بعوائد تصل إلى 20.5%، بالتوازي مع استقرار أسعار الدولار والريال السعودي في البنوك.",
   "وعلى الصعيد الدولي، أعلن عن اتفاق بين أمريكا والصين بشأن تنظيم الذكاء الفائق، واستثمارات قطرية في ألمانيا، وتطورات ميدانية وسياسية في المنطقة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-20T20:35:25.475Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T20:55:26.170Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5304,
-   "change": -4.78,
-   "asOf": "2026-11-20T20:35:27.000Z",
+   "value": 5308,
+   "change": -4.69,
+   "asOf": "2026-11-20T20:45:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6055,
-   "change": -4.78,
-   "asOf": "2026-11-20T20:35:27.000Z",
+   "value": 6061,
+   "change": -4.69,
+   "asOf": "2026-11-20T20:45:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3507,
-   "change": -4.85,
-   "asOf": "2026-11-20T20:35:27.000Z",
+   "value": 3510,
+   "change": -4.76,
+   "asOf": "2026-11-20T20:45:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0967,
+   "value": 1.0966,
    "change": -0.05,
-   "asOf": "2026-11-20T20:44:44.000Z",
+   "asOf": "2026-11-20T20:54:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.11,
-   "change": -2.03,
-   "asOf": "2026-11-20T20:34:39.000Z",
+   "value": 90.14,
+   "change": -2,
+   "asOf": "2026-11-20T20:45:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 6925,
-   "change": -3.5,
-   "asOf": "2026-11-20T20:45:25.000Z",
+   "value": 6895,
+   "change": -3.91,
+   "asOf": "2026-11-20T20:55:21.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58452,
-   "change": -5.57,
-   "asOf": "2026-11-20T20:45:16.000Z",
+   "value": 58197,
+   "change": -5.98,
+   "asOf": "2026-11-20T20:55:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,28 +139,28 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أمير قطر والمستشار الألماني يبحثان تعزيز التعاون في مجالات الاقتصاد والاستثمار والطاقة ويشهدان توقيع اتفاقيات",
-     "url": "https://www.elbalad.news/7188266",
+     "title": "مستريحة الأدوات المنزلية بأوسيم تعارض على أحكام قضائية في اتهامها بالنصب على المواطنين",
+     "url": "https://www.elbalad.news/7188290",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:44:21.000Z",
-     "seen": "2026-11-20T20:45:25.635Z"
+     "time": "2026-11-20T20:54:27.000Z",
+     "seen": "2026-11-20T20:55:26.170Z"
     },
     {
-     "title": "إنفانتينو يتلقى دعمًا جديدًا في انتخابات رئاسة «فيفا».. اتحادات أمريكا الجنوبية تصطف خلفه",
-     "url": "https://www.elbalad.news/7188267",
+     "title": "إصابة 8 أطفال في سقوط لعبة ملاهي بمركز شباب الشيخ زايد بالإسماعيلية",
+     "url": "https://www.elbalad.news/7188291",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:42:07.000Z",
-     "seen": "2026-11-20T20:45:25.635Z"
+     "time": "2026-11-20T20:54:26.000Z",
+     "seen": "2026-11-20T20:55:26.170Z"
     },
     {
-     "title": "زيادة المعاشات 2027.. 2080 جنيهًا حد أدنى يبدأ يناير المقبل",
-     "url": "https://www.elbalad.news/7187990",
+     "title": "تحسن أرقام العجز في بريطانيا بعد تراجع الاقتراض الحكومي دون التوقعات",
+     "url": "https://www.elbalad.news/7188288",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:42:00.000Z",
-     "seen": "2026-11-20T20:45:25.635Z"
+     "time": "2026-11-20T20:53:22.000Z",
+     "seen": "2026-11-20T20:55:26.170Z"
     },
     {
-     "title": "عبد الفتاح عبد المنعم: مهرجان القاهرة السينمائى يعكس قوة مصر الناعمة.. صور",
+     "title": "عبد الفتاح عبد المنعم: مهرجان القاهرة السينمائى يعكس قوة مصر الناعمة.. صور وفيديو",
      "url": "https://www.youm7.com/story/2026/11/20/عبد-الفتاح-عبد-المنعم-مهرجان-القاهرة-السينمائى-يعكس-قوة-مصر/7626472",
      "source": "اليوم السابع",
      "time": "2026-11-20T20:33:00.000Z",
@@ -353,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
+     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T19:46:16.000Z",
+     "seen": "2026-11-20T17:55:10.249Z"
+    },
+    {
      "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
      "url": "https://www.dw.com/ar/استثمارات-قطرية-جديدة-في-ألمانيا-15-مليار-يورو-وتقارب-سياسي-متزايد/a-80006802?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -367,13 +376,6 @@
      "time": "2026-11-20T19:44:49.000Z",
      "seen": "2026-11-20T19:55:26.195Z",
      "impact": "تلقي التوترات الجيوسياسية بين واشنطن وطهران بظلالها على أسواق الطاقة والأسواق المالية العالمية."
-    },
-    {
-     "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
-     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T19:38:17.000Z",
-     "seen": "2026-11-20T17:55:10.249Z"
     },
     {
      "title": "ترامب يتهم إيران \"بممارسة الهراء\" ورفض التفاوض لإنهاء الحرب",
@@ -462,6 +464,20 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "هبوط ناسداك بأكثر من 4% مع موجة بيع حادة في أسهم الرقائق والذكاء الاصطناعي",
+     "url": "https://aitnews.com/2026/11/21/%d9%87%d8%a8%d9%88%d8%b7-%d9%86%d8%a7%d8%b3%d8%af%d8%a7%d9%83-%d8%a8%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-4-%d9%85%d8%b9-%d9%85%d9%88%d8%ac%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%ad%d8%a7%d8%af%d8%a9-%d9%81/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T20:54:32.000Z",
+     "seen": "2026-11-20T20:55:26.170Z"
+    },
+    {
+     "title": "ترامب يهدد بفرض ضرائب باهظة على شركات التكنولوجيا التي تبني مراكز بيانات خارج أمريكا",
+     "url": "https://aitnews.com/2026/11/21/trump-threatens-tax-us-tech-overseas-data-centers/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-20T20:53:53.000Z",
+     "seen": "2026-11-20T20:55:26.170Z"
+    },
+    {
      "title": "أمازون: وكلاء ذكاء اصطناعي اكتشفوا ثغرة Zero Day واخترقوا خادمًا جامعيًا",
      "url": "https://aitnews.com/2026/11/21/%d8%a3%d9%85%d8%a7%d8%b2%d9%88%d9%86-%d9%88%d9%83%d9%84%d8%a7%d8%a1-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%a7%d9%83%d8%aa%d8%b4%d9%81%d9%88%d8%a7-%d8%ab%d8%ba%d8%b1/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -512,14 +528,6 @@
      "seen": "2026-11-20T16:15:10.923Z"
     },
     {
-     "title": "أنثروبيك تُتم اكتتابها وطرحًا خاصًا بقيمة إجمالية 119.5 مليار دولار",
-     "url": "https://aitnews.com/2026/11/20/%d8%a3%d9%86%d8%ab%d8%b1%d9%88%d8%a8%d9%8a%d9%83-%d8%aa%d9%8f%d8%aa%d9%85-%d8%a7%d9%83%d8%aa%d8%aa%d8%a7%d8%a8%d9%87%d8%a7-%d9%88%d8%b7%d8%b1%d8%ad%d9%8b%d8%a7-%d8%ae%d8%a7%d8%b5%d9%8b%d8%a7-%d8%a8/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-20T15:50:35.000Z",
-     "seen": "2026-11-20T15:55:11.039Z",
-     "impact": "تهم المهتمين بالقطاع التكنولوجي والاستثمار التقني لمتابعة حجم الاكتتابات والقيم السوقية لشركات الذكاء الاصطناعي."
-    },
-    {
      "title": "سامسونج تطرح أول تحديث لسلسلة Galaxy Tab S12 بحزمة أكتوبر الأمنية",
      "url": "https://www.tech-wd.com/wd/2026/11/20/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a3%d9%88%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-galaxy-tab-s12-%d8%a8%d8%ad%d8%b2%d9%85%d8%a9/",
      "source": "عالم التقنية",
@@ -556,13 +564,6 @@
      "time": "2026-11-20T12:01:01.000Z",
      "seen": "2026-11-20T09:23:09.928Z",
      "impact": "ينبه المتعاملين في الأسواق المالية والبورصات إلى تراجعات الأسهم العالمية وتأثيرات الذكاء الاصطناعي على المحافظ الاستثمارية."
-    },
-    {
-     "title": "البنتاغون يفتح سباق الليزر.. 7 أنظمة لمواجهة المسيرات",
-     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQclU3eEVoR3Q2aVJpeEVFNEl5RWU4dk93UTNkZzUwY0F3am9MMHM5Z1lkZ0lDaFFEa19vNWxqZE9wSUdsdnNrVlowVFV1czkyR0FLQVl4TVA0cHE1cWNtbVJMbl9fWjJubU0xVzlxY1dWaFFaNUJ6NGt6b0VvaHlEa1RwcGc3dnZscEFsaFpFNlgwRGV5TmJJdTdVclRmcVNOcjlCbVIyY1RteTNEUTVyVWdpVi1qT0hLRVpKaC15V1c1YkhfZW9adllOZDVXaVVHUXlhODhzUkFYb0hfb2JuRE9mN3BsU1FuUG1ncXRQT3NFYmhjQWZXc3ZpeTRRQTFJdWpzSzk0M0RycklvZ0FfVVp4QUowMEROZFZzNXBGU2htaEkyV3hoU1BOd0xyR2prOEtyLW4zZ0xMaVlESGVENlpncWZMRUxVVkN6dTRzZk4zNHYydERrMmJXcVM3cG43bVI0VGc5SnF6YXJfVEt0bWxBdTczZF94WHJiOTVQMk1zNzhzNGhzWHplTXlyTE5Pb3JIZkJFSUgzSlJJY1M1MWRIWjR1bUZ1OXF3OVdmaXZYdzY0YWUtcnUwLVRnUU84WUZwZdIBygNBVV95cUxQYWY2MDRnOUhzTWxxbHVBWjJiWFZxWndUb2YzNDZTZUI4ODVQQzFvaXFoLTR1aFVHY2RIWDVYVTJGRi0xbFgxajhfc0l2QWM4OU00NndwMk1JSW9ESjYtYUZmUDFUeXNCSnM2X2tOekVaUW43ZDFOamxlUFdoVVplWXZtUFM0bmVLVDhEMS1Pa2Jha183a0lfM1AtQWlCcnpHNlhIOVg2ZW4xZnZaVVpwWkdveGlJTlJhMGdscVctWE1VUm1OWHNqV3hlNk5ud2lyeGE1SnZsblluUlBCYlpuaW9hMGJxVktEXzdvblRhRkt4RG14TmRraFJxR2ptYnN1TnRueW9YU2RvanBfYkoxZ252WmFkOERKVDFRQ2NXMEs3bm13R2VNYllKck5fSWlROVJkN0pyWWhheTA1czFKVDBvcWlfVGdFSE80V2xWc0poMmFBcGxpalNOQjdVeWR0NURYd2pXQ0pCZjJkQkNULWJzTUhFaGI2RUVJMHkxYlJPWS1ENEowbUZDSVNvMjdhenVQRlp3ZVBiNG93U21FTTJLVWJEb2d1WGFCakxGTHFpRlNOejh2SXljNXREZ1Q5dnRqcXlXWXYzQQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-20T11:14:00.000Z",
-     "seen": "2026-11-20T12:23:09.663Z"
     }
    ]
   }
