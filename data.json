@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-20T20:25:26.159Z",
+ "updated": "2026-11-20T20:35:25.475Z",
  "minute": [
-  "شهدت الأسواق المصرية استقراراً في أسعار الدولار والريال السعودي في البنوك، بالتزامن مع إعلان بنك القاهرة عن شهادات ادخار بعائد يصل إلى 20.5%.",
-  "وعلى الساحة الدولية، أعلن ترامب التوصل لاتفاف مع الصين حول تنظيم الذكاء الفائق، بينما تصاعدت التصريحات الأمريكية ضد إيران بشأن ملفها النووي.",
-  "وفي الشأن الإقليمي والدولي، أشار لبنان إلى مواجهته مرحلة دقيقة جراء الاعتداءات الإسرائيلية، في حين أعلنت قطر عن ضخ استثمارات جديدة في ألمانيا بقيمة 15 مليار يورو."
+  "قدمت بنوك مصرية شهادات ادخار جديدة بعوائد تصل إلى 20.5%، بالتوازي مع استقرار أسعار الدولار والريال السعودي في البنوك.",
+  "وعلى الصعيد الدولي، أعلن عن اتفاق بين أمريكا والصين بشأن تنظيم الذكاء الفائق، واستثمارات قطرية في ألمانيا، وتطورات ميدانية وسياسية في المنطقة.",
+  "ومحلياً، شهدت محافظة قنا تنظيم قافلة طبية مجانية للمواطنين، إلى جانب متابعة عدة فعاليات رياضية وثقافية."
  ],
  "ai": {
-  "at": "2026-11-20T20:15:26.041Z",
+  "at": "2026-11-20T20:35:25.475Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
+  "key": 2,
   "impacts": 7
  },
  "markets": [
@@ -25,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5316,
-   "change": -4.55,
-   "asOf": "2026-11-20T20:15:27.000Z",
+   "value": 5320,
+   "change": -4.48,
+   "asOf": "2026-11-20T20:25:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6070,
-   "change": -4.55,
-   "asOf": "2026-11-20T20:15:27.000Z",
+   "value": 6074,
+   "change": -4.48,
+   "asOf": "2026-11-20T20:25:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3515,
-   "change": -4.62,
-   "asOf": "2026-11-20T20:15:27.000Z",
+   "value": 3518,
+   "change": -4.55,
+   "asOf": "2026-11-20T20:25:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.097,
-   "change": -0.02,
-   "asOf": "2026-11-20T20:24:44.000Z",
+   "value": 1.0967,
+   "change": -0.05,
+   "asOf": "2026-11-20T20:34:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.68,
-   "change": -2.5,
-   "asOf": "2026-11-20T20:15:21.000Z",
+   "value": 90.01,
+   "change": -2.14,
+   "asOf": "2026-11-20T20:25:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 6950,
-   "change": -3.15,
-   "asOf": "2026-11-20T20:25:27.000Z",
+   "value": 6911,
+   "change": -3.69,
+   "asOf": "2026-11-20T20:35:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58559,
-   "change": -5.4,
-   "asOf": "2026-11-20T20:25:26.000Z",
+   "value": 58206,
+   "change": -5.97,
+   "asOf": "2026-11-20T20:35:44.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +137,40 @@
    "title": "مصر",
    "items": [
     {
-     "title": "«أسرارنا» يحصد جائزة يوسف شاهين لأفضل فيلم قصير في ختام مهرجان القاهرة السينمائي الدولي",
-     "url": "https://www.elbalad.news/7188245",
+     "title": "أهلي جدة يحقق فوزا ثمينا على النصر 3-1 في دوري روشن السعودي",
+     "url": "https://www.elbalad.news/7188258",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:24:24.000Z",
-     "seen": "2026-11-20T20:25:26.159Z"
+     "time": "2026-11-20T20:34:19.000Z",
+     "seen": "2026-11-20T20:35:25.475Z"
     },
     {
-     "title": "كيف وصلت 4 هواتف و52 قرص ترامادول إلى زيارة زوجة إسلام كابونجا؟",
-     "url": "https://www.elbalad.news/7188232",
+     "title": "صرف الأدوية مجانا.. صحة قنا تنظم قافلة طبية لفحص 468 مواطنا بأبوتشت",
+     "url": "https://www.elbalad.news/7188256",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:24:15.000Z",
-     "seen": "2026-11-20T20:25:26.159Z"
+     "time": "2026-11-20T20:34:11.000Z",
+     "seen": "2026-11-20T20:35:25.475Z",
+     "impact": "تتيح القافلة الطبية للمواطنين في مركز أبوتشت بقنا الحصول على الفحوصات والعلاج مجاناً."
     },
     {
-     "title": "مدحت العدل: المشير طنطاوي حافظ على وحدة مصر في لحظة تاريخية",
-     "url": "https://www.elbalad.news/7188246",
+     "title": "مدحت العدل: الفن مكون أساسي في الجينات المصرية.. ولا يجوز فرض الآراء",
+     "url": "https://www.elbalad.news/7188254",
      "source": "صدى البلد",
-     "time": "2026-11-20T20:23:13.000Z",
-     "seen": "2026-11-20T20:25:26.159Z"
+     "time": "2026-11-20T20:33:20.000Z",
+     "seen": "2026-11-20T20:35:25.475Z"
+    },
+    {
+     "title": "عبد الفتاح عبد المنعم: مهرجان القاهرة السينمائى يعكس قوة مصر الناعمة.. صور",
+     "url": "https://www.youm7.com/story/2026/11/20/عبد-الفتاح-عبد-المنعم-مهرجان-القاهرة-السينمائى-يعكس-قوة-مصر/7626472",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T20:33:00.000Z",
+     "seen": "2026-11-20T20:35:25.475Z"
+    },
+    {
+     "title": "بحضور مدبولي وشيخ الأزهر ومحلب .. 25 صورة من عزاء نجل رئيس مجلس الشيوخ السابق",
+     "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQVmd3T1h5TTlSVHRUSnU2bFhpcUtzUzNmVEJjT0hqX3ozTHE3UEJfa1N3ejFHbklKRFpPQi1PQldWTUpNZGJtSjk3WXB2cHBpS2N2Z2plVnRZTUhCeG85OW5XdzNXbGE1a1M4VjZSQkU1eXZ1Z3ZZWDNmY08zYnVMWF90eFBCdXRXczZfQ3RDOFVKc3ltWXBtT2hCRlp0eXJPVzBNNDFJWXV2TlM0aTBZR3JLZWhrWWVJVm0tWEhTNGt2RF9VZHZDaDRucE1Qc01XWlRUcWpXY0VoazdmQUhJUEM3QWp6YXNJU1Jla2hndXByRzlUOUJzN3BDdzMyU19hbko2anRGQmYzbXJHd0pwaXl4MHJKQ01STDU4ZF9TMHFFWFdRTERrVm5YZUJPeXpNSUNEVGVSYzR6TXZBZGtZZGxFdEhOb3JXbWp4Z2VPekk2WDg4eWV4YW5jbmdEdlRYUTJIcmREY2xwV2pXSFo1UnNjYjlqVW9wdTFtQW1kYm45cGczaTVsV0haQXpTLXAyTDE3R05qU283NVhOQXFyaFlFZUN2enZKYk9PT1BsX09zbkNzWUx3YXVGNUJmc0h0NFEzRS0tYjV2dGcwQV9IVlFhYXZfNTV0M1JUVGRpclVNM1p6cVMtUEpuQTVJZmRwQ0ExQldPYkRiQTJudW1zZmwxeVplcy1ObzBVRUg1VVdWOXZXYTQ1T2lfMFJvUEV3RjhpUjlwOElOTEt3WFdXWUtCc2NzS0pOMlVYX1NzZ0JhYVk5ZDZoUlVfcURxMmN3dFJzaGdXMGtEcDgtVW13a2dB0gHnBEFVX3lxTFBPSnpMdGJoYXI0N19sSzJfaGpWZFJEMmRWMkxkbkoyZndNOHJuc0NDb2VRdGx2OE5SYmhzUy02amlXazJtdlNFelJpWVM3eGRUR1VUMTJIMWd4TGxWVHpWYlQ3djZqdnR4RTR0Y2pBYVQ4YTNfaXlTS2h5SWJrNkROMjBLTjhzZmg1MEh0dUZ4OU1ZTnpnRjlKSmxpSDdIemh2RmowU19hX29XZEQ4QVU1MG9XMEtFeExmM0U0bzcyajdJS3hlWFAwQXNGQ2lxckNkMXBrQVQ0QVJoZDJfbkpCcUtsUWc4M0todExnR1l3S1hJdUJ4ZkhXT3p4dEQ3Zk1iVHd1QjZxczFNU3RSR0MwSWZxa09ldThGZzVORDUtTVNFVUEtRU1JSkZ2X19ud0piMllwN2xOcG9leTNIR0V1TVlkaHNpc1Zibl81TS1zTHpzamN5YUwxZm9pRXp1cWNsWWd6NldoUU4zZjYwelpJSnRCQlc2aWJoMlo3Y0ZXTFR3UlN2N3JtaWlHcmpDNWFRcXEtSjdtQkJybXFYS2IzQXRuTVdudWtXUVg4RUpxOWZ5Ry05UHZ1RWpvNW83VEpNSzZCbHk5TGl0dF8wU2JCRU1BbzZtbF9kOUphaW5UeW9DSU9takRGZ1NXZmJJVmhGbFp2eDdtQzFQQldUNTBYZ1kza0RoNWtYaHdJSFpydm5lRlZ4dl8xOHBVUHk2TVhxdmJhM3ppN3JJM0VXWHgwODNoQnNVTkJSNEJZeThKaWp5MjAteUlUZld5b0t6T1pGcFMxMFhCeHk4ODVyZ2tvNVhWN0JnWQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-20T20:14:00.000Z",
+     "seen": "2026-11-20T20:35:25.475Z"
     },
     {
      "title": "المدارس تحتفل بأعياد الطفولة.. عروض فنية ترسم البهجة على وجوه الطلاب.. صور",
@@ -170,13 +185,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T19:43:00.000Z",
      "seen": "2026-11-20T20:05:25.592Z"
-    },
-    {
-     "title": "يقضى وقته فى قراءة القرآن الكريم.. كيف يعيش مادورو فى سجن بروكلين بنيويورك",
-     "url": "https://www.youm7.com/story/2026/11/20/يقضى-وقته-فى-قراءة-القرآن-الكريم-كيف-يعيش-مادورو-فى/7626457",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T19:43:00.000Z",
-     "seen": "2026-11-20T19:45:25.866Z"
     },
     {
      "title": "رئيس الوزراء يقدم واجب العزاء في نجل المستشار عبدالوهاب عبدالرازق",
@@ -222,17 +230,10 @@
     },
     {
      "title": "ردا على محاكمته بسبب إلهام شاهين.. مرتضى منصور \"انتظرونا\"",
-     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQUk42R0lITnlyRFdEa1dpbkNsWU1HbzVUc0cyZXZuZDdmeWZyOTdmLVpqV3VBV0o4ekRIMFEzVDFRLWtCWEpIMnBmUExybU1hc19lUG9pSU5HVVVYNzlmMW1aZ0lScXVYM2hWY0prSmxiSkplaXI5SHFXM1VMbGJUU2g3LTdWRUtVWjZSRTJ3R1c1WDdSdldsR2pyaEFQMllmVi1GTXFteV9GcTl5RERuWnVtaHJlZGJOQkxFWHpDQlpOOWhITnU1RGZMYXFGdTJDcnFpcm5na2ozbFh2aDlnVHRMVFhBdFYzNGFuYndsdkpOT2o3LXpmWWhvckVBblU0NEhlTEVjUUFNWldockR3SXFkMk14UGZ1b0I4QnV5TnVJeHpmTUlTOWgwVUQ3WGpHOHJuX2RGMUEwOUI4MU9RZGpReWxCVnc1NFRIdE5McEtkRklmT2dfdzRQSTFrbGl1Tk83bU93enh6ZDVsSHBhR0FuN1FkZVE5bWFzZzBDMGJYa1hlcEhlaXF0bVdraGl6enBnNHdlN1RNNzVESGY3bFpKYUkyRV9SVTlyaHY3UGxHNGhnU2ttV3hlUEs1cXdnUzN4dVJvZGlzZnNUYlVmWnF2OW1kMzk4WldMdHVGZFZrZHNGU05iMDBDTDNtMHJYU3lxYUxZMEhkbXllTmFqWE1sNXNqQUYzbHN5Y1NlVVZmMl9aS2tRYmUyQ2t2TTcxeU9zOURma0ktMmhCLXBBS0lYZlVfMmVsWVJFX191bE5MU2V6OU1aZU5jZ3l6aHRjWFFCRFZzOWRKZTNoNmtYaUF2RlFJSEF4ZmfSAe8EQVVfeXFMT2lGMFYyQ1Y1Mm9kWWFYOGM2UDR1cDlrdWVIZjdaVnRZVnpYRlI5dkxZNktOV2tBWERTQnFEMHNXZ1R4SVVqbUZZTE9aYmtlMjl4VjlQX1QwTXJQbzQ5SElGMDd6Snd0aXVwWmY4ZGtYeUZGZXMtcGVFRnJaaENqNTdIcjlGcTJELTJ6Qi1SVlhrNFF6cVZQelZWUWFvZnp4Y2c1Y3I3NlUxdGxsOVlQMGxITHVuaURENEJ5NDU4MGgtTlNaM2VzZkpZejVxdGVaeGVsWHVCR0pUZUpvMDV2bU13czRmWURyM1I0T25LdmV2MEZVQ3oyR25waUFBck1TLUZoS0VrdUNRdkEwV0JpSm5QR0hKTXR0TVcxVmEzcUtLNVN1bWN2bFVIcDJuNHZxVU9aS3VGRXNKUFF4UWhNZTQ5LXA4MEplbEpyT05KdGN0SkltaElhV2owQ25aZVBaMG1ZTHM4YlF4NTFnS01vTnc1VEhtYURQS1RRRy0ybkYtOFU4OEswOFdoblhWQXJTcmdkWHV0a3p2ZWFIdkpfWGMtUHpTb3luREIyaEhVd3FWQ1JyWm8xZjItbWZZLTc3Z2htMkZETWlQNkhyalJzSS1QbDdFY1BXcXZycjJUdWRRQU1YUnZ6V3p4WEhhMkVqSkZyNFhxcUF2RWpia0hXY2pnNHBrOUZBcWhEMUViQXNjWk1FekFmdy15dlBVcmpJUnJXMkpEczhCaEFnc2d1eTc1aWNDV1pSdUZRQVJTdWJhZEh1c3lDR1dmT0Z6MFZMY0dSOExBYl9lZmowX0U4eTREVTlYWnc0ellZLVNTTWM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQUk42R0lITnlyRFdEa1dpbkNsWU1HbzVUc0cyZXZuZDdmeWZyOTdmLVpqV3VBV0o4ekRIMFEzVDFRLWtCWEpIMnBmUExybU1hc19lUG9pSU5HVVVYNzlmMW1aZ0lScXVYM2hWY0prSmxiSkplaXI5SHFXM1VMbGJUU2g3LTdWRUtVWjZSRTJ3R1c1WDdSdldsR2pyaEFQMllmVi1GTXFteV9GcTl5RERuWnVtaHJlZGJOQkxFWHpDQlpOOWhITnU1RGZMYXFGdTJDcnFpcm5na2ozbFh2aDlnVHRMVFhBdFYzNGFuYndsdkpOT2o3LXpmWWhvckVBblU0NEhlTEVjUUFNWldockR3SXFkMk14UGZ1b0I4QnV5TnVJeHpmTUlTOWgwVUQ3WGpHOHJuX2RGMUEwOUI4MU9RZGpReWxCVnc1NFRIdE5McEtkRklmT2dfdzRQSTFrbGl1Tk83bU93enh6ZDVsSHBhR0FuN1FkZVE5bWFzZzBDMGJYa1hlcEhlaXF0bVdraGl6enBnNHdlN1RNNzVESGY3bFpKYUkyRV9SVTlyaHY3UGxHNGhnU2ttV3hlUEs1cXdnUzN4dVJvZGlzZnNUYlVmWnF2OW1kMzk4WldMdHVGZFZrZHNGU05iMDBDTDNtMHJYU3lxYUxZMEhkbXllTmFqWE1sNXNqQUYzbHN5Y1NlVVZmMl9aS2tRYmUyQ2t2TTcxeU9zOURma0ktMmhCLXBBS0lYZlVfMmVsWVJFX191bE5MU2V6OU1aZU5jZ3l6aHRjWFFCRFZzOWRKZTNoNmtYaUF2RlFJSEF4Zmc?oc=5",
      "source": "العربية",
      "time": "2026-11-20T07:02:00.000Z",
-     "seen": "2026-11-20T20:25:26.159Z"
-    },
-    {
-     "title": "«المساحة» تعلن مواعيد الاطلاع على تعويضات نزع ملكية مدرسة صلاح الدين بميت غمر",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05TmlIOHRnSVNDRWpjQURJV2pJNmhNcEUzY2F1MFAzRmZjUnFkYmFoZUNia2lZcVNUMVNxU25hcjV2cmhJ?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-20T04:47:51.000Z",
-     "seen": "2026-11-20T15:15:10.533Z"
+     "seen": "2026-11-20T20:35:25.475Z"
     }
    ]
   },
@@ -241,12 +242,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "عائد يومي يصل إلى 20%.. تفاصيل شهادة يوماتي من بنك مصر",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPX1ZmZmpaZERPSWZtMThWNVhlZ20xYUQ4OW1SRlVJeEhlOFBvbVRpLW1VQ3N2dkhpQmNIU081Z2FCNzRvRmZmMWlEcWlEMlRRZkJnMk1mZ01SOVczbXVkUG42bHFIT0Z0cGdkeUtzcEk0S0wteUc3M055T3Jpd2V0QzRkYUI5blA2MENjeEk3d183Wi13VC1URXZjUDhBMUQzc1dyR0k1TkVwdjd3VXhLcF9HSWNvU3o4VUtSdlRVbDFnbHVmRFFBeXlBazFldjdvYl8taWlQODN5R19GV0lOVUtiNmhPOEtKUzdfU0JKVlpsaFY2M3M4NVFrdjY1S09qbTdBa3E0cnBmd3VSNlVRXzZjSGU1cGE5bzNVWkdBd0U?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-20T20:32:19.000Z",
+     "seen": "2026-11-20T20:35:25.475Z",
+     "impact": "توفر شهادة بنك مصر للأفراد وعاءً ادخارياً يقدم عائداً يومياً يصل إلى 20% لتلبية احتياجات السيولة."
+    },
+    {
      "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في مصر.. استقرار سعر الأخضر في البنوك",
      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOREV6STlnbFRpVmFULXBUNi1LVEFDaHloTzVUbGdrYVlLSEJMNVE3MGZmQmJBWkx5WE11N0llcTdHRk0wa1pMVkVQSVhaU3NWMXJGLVRWVXBoYUlYTW9zb0lEVFVQSEJVUy1DX3FOd1dCQ1RrbmQweHZTZ2tHYTZLUWFJdi1haFlqSTkzZHk2YW1SNjRKaFltc2tzYXFZT1pJUWs5QzFCUzRpTU1mcWlWVGhZeXBvWlNfdE00QnY5WUhqOVRWZXljQWNsNzQ5Z2JTamJ4NFhkS3JXNTlSRDZyY3VPeU0wbDhoY010XzNKTWM3ZEllNmpQM1gtcHZSMUhiTlVnOFFQUmZGNFh5MFUxNG1xeW94LTZFRkNSMFVuUEt1ZGc3c2NPckZCLU93WmFqU3VYeTJPWUFrWjFIRU5VWlpKM3V6eGZpY3RsRnZjUkhFdDJZckhEQ2VaVWNvbk9tVUJnQ1I3R0N3VXVLRFlScjd2OEtPaXFCV3NKZ3hBS2dmR3h2bDJyeGhMSkZmRmViWm5JYk5CVE9NZ1BlVGt1d0xpVW5WOU0?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-20T20:00:00.000Z",
      "seen": "2026-11-20T20:15:26.041Z",
-     "impact": "يساعد الأفراد والمستثمرين في مصر على التخطيط المالي وتحديد تكاليف الواردات في ظل استقرار سعر صرف العملة الأجنبية."
+     "impact": "يساعد استقرار سعر الدولار أمام الجنيه الأفراد والمستثمرين على التخطيط المالي وتحديد تكاليف المعاملات."
     },
     {
      "title": "أعلى شهادات الادخار في بنك القاهرة 2026.. عائد يصل إلى 20.5%",
@@ -254,7 +263,7 @@
      "source": "عالم المال",
      "time": "2026-11-20T19:31:06.000Z",
      "seen": "2026-11-20T19:35:26.092Z",
-     "impact": "يتيح فرصة استثمارية للأفراد في مصر لادخار أموالهم في شهادات بنكية بعائد يصل إلى 20.5%."
+     "impact": "تمنح شهادة بنك القاهرة المودعين فرصة للاستفادة من عائد سنوي يصل إلى 20.5% على أدوات الادخار."
     },
     {
      "title": "سعر الريال السعودي اليوم الجمعة 20 نوفمبر 2026 في البنوك",
@@ -262,7 +271,7 @@
      "source": "جريدة الدستور",
      "time": "2026-11-20T19:31:05.000Z",
      "seen": "2026-11-20T19:35:26.092Z",
-     "impact": "يهتم به المسافرون والمعتمرون والمستوردون في مصر لتحديد أسعار الصرف الخاصة بالريال السعودي."
+     "impact": "يهيئ معرفة سعر صرف الريال السعودي للمواطنين والراغبين في السفر تقدير التكاليف المالية المطلوبة."
     },
     {
      "title": "العراق ينهي حالة الإنذار القصوى وينشر قواته في جرف النصر، والزيدي يؤكد: \"لا سلاح خارج سلطة الدولة\"",
@@ -337,13 +346,6 @@
      "source": "البورصة",
      "time": "2026-11-20T16:08:07.000Z",
      "seen": "2026-11-20T17:15:10.439Z"
-    },
-    {
-     "title": "الكونجرس الأمريكي يمرر قانوناً لتسريع مشروعات الطاقة والبنية التحتية",
-     "url": "https://alborsaanews.com/2026/11/20/2007791",
-     "source": "البورصة",
-     "time": "2026-11-20T16:03:15.000Z",
-     "seen": "2026-11-20T17:15:10.439Z"
     }
    ]
   },
@@ -357,7 +359,7 @@
      "source": "DW عربية",
      "time": "2026-11-20T19:46:00.000Z",
      "seen": "2026-11-20T19:55:26.195Z",
-     "impact": "يعطي المستثمرين رؤية حول حركة تدفق رؤوس الأموال العربية نحو الأسواق الأوروبية."
+     "impact": "تفيد متابعة الاستثمارات القطرية في ألمانيا المهتمين بحركة رؤوس الأموال والاتجاهات الاقتصادية الدولية."
     },
     {
      "title": "ترامب: نعرف الكثير عن قادة إيران وأين هم ولن نسمح لهم بتطوير سلاح نووي",
@@ -466,7 +468,7 @@
      "source": "Masrawy",
      "time": "2026-11-20T18:09:51.000Z",
      "seen": "2026-11-20T20:05:25.592Z",
-     "impact": "تساعد القرارات المتعلقة بتنظيم الذكاء الفائق العاملين والمستثمرين في قطاع التكنولوجيا على فهم القواعد المستقبلية للقطاع."
+     "impact": "تهم متابعة التنظيم الدولي للذكاء الفائق العاملين والمهتمين بقطاع التكنولوجيا لمستقبل التطبيقات التقنية."
     },
     {
      "title": "«حقول القصب».. وزير الداخلية الأسبق يكشف أخطر بؤر تهديد الأجهزة الأمنية",
