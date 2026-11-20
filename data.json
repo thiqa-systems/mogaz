@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:45:10.414Z",
+ "updated": "2026-11-20T13:55:10.969Z",
  "minute": [
   "شهدت مصر اتفاقاً لإعادة 100 بئر بترول متوقفة للإنتاج خلال 18 شهراً، وإعلان وزارة العمل عن تنظيم تشغيل العمالة في ليبيا عبر ربط إلكتروني.",
   "تضمنت الأخبار المحلية انخفاض سعر الجنيه الذهب، ودعم أسطول الإسعاف بـ1000 سيارة مجهزة تنفيذاً لتوصيات منتدى مصر 2026.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T13:45:10.414Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T13:55:10.969Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5383,
-   "change": -3.35,
-   "asOf": "2026-11-20T13:38:21.000Z",
+   "value": 5386,
+   "change": -3.3,
+   "asOf": "2026-11-20T13:46:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6146,
-   "change": -3.35,
-   "asOf": "2026-11-20T13:38:21.000Z",
+   "value": 6149,
+   "change": -3.3,
+   "asOf": "2026-11-20T13:46:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3559,
-   "change": -3.42,
-   "asOf": "2026-11-20T13:38:21.000Z",
+   "value": 3561,
+   "change": -3.37,
+   "asOf": "2026-11-20T13:46:19.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0994,
    "change": 0.2,
-   "asOf": "2026-11-20T13:47:44.000Z",
+   "asOf": "2026-11-20T13:55:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.26,
-   "change": -2.96,
-   "asOf": "2026-11-20T13:38:03.000Z",
+   "value": 89.05,
+   "change": -3.19,
+   "asOf": "2026-11-20T13:46:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61534,
-   "change": -0.59,
-   "asOf": "2026-11-20T13:48:16.000Z",
+   "value": 61802,
+   "change": -0.16,
+   "asOf": "2026-11-20T13:56:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأزهر يرحب بإدانة ميانمار لارتكابها جريمة الإبادة الجماعية بحق مسلمي الروهينجا",
-     "url": "https://www.elbalad.news/7187831",
+     "title": "بدء عملية نوعية لتحييد مصادر التهديد الحوثية.. وطيران التحالف يقصف ميناء الحديدة",
+     "url": "https://www.elbalad.news/7187839",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:41:37.000Z",
-     "seen": "2026-11-20T13:45:10.414Z"
+     "time": "2026-11-20T13:52:19.000Z",
+     "seen": "2026-11-20T13:55:10.969Z"
     },
     {
-     "title": "المالية: مصر تتصدر أفريقيا في جذب الاستثمار الأجنبي المباشر بنحو 18 مليار دولار العام الماضى",
-     "url": "https://www.elbalad.news/7187829",
+     "title": "فيلم حدوتة لـ أحمد حلمي يحقق 11.5 مليون جنيه إيرادات في شباك التذاكر أمس",
+     "url": "https://www.elbalad.news/7187827",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:38:50.000Z",
-     "seen": "2026-11-20T13:45:10.414Z"
+     "time": "2026-11-20T13:49:05.000Z",
+     "seen": "2026-11-20T13:55:10.969Z"
     },
     {
-     "title": "بيان أوروبي بريطاني: على الحوثيين وقف كل الأعمال العسكرية",
-     "url": "https://www.elbalad.news/7187830",
+     "title": "مدرب نيس يتحدث عن غياب عبدالمنعم بمواجهة باريس سان جيرمان",
+     "url": "https://www.elbalad.news/7187838",
      "source": "صدى البلد",
-     "time": "2026-11-20T13:38:42.000Z",
-     "seen": "2026-11-20T13:45:10.414Z"
+     "time": "2026-11-20T13:47:05.000Z",
+     "seen": "2026-11-20T13:55:10.969Z"
+    },
+    {
+     "title": "وزير الأوقاف يهنئ الشيخ عبد الفتاح أبو زهرة بفوزه بلقب «أول الأوائل» بقطر",
+     "url": "https://www.youm7.com/story/2026/11/20/وزير-الأوقاف-يهنئ-الشيخ-عبد-الفتاح-أبو-زهرة-بفوزه-بلقب/7626101",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T13:47:00.000Z",
+     "seen": "2026-11-20T13:55:10.969Z"
+    },
+    {
+     "title": "عبد الفتاح أبو زهرة يتصدر الترند بعد فوزه بمسابقة أول الأوائل للقرآن الكريم بالدوحة",
+     "url": "https://www.youm7.com/story/2026/11/20/عبد-الفتاح-أبو-زهرة-يتصدر-الترند-بعد-فوزه-بمسابقة-أول/7626093",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T13:45:00.000Z",
+     "seen": "2026-11-20T13:55:10.969Z"
     },
     {
      "title": "جهاز تنظيم إدارة المخلفات يشارك في منتدى CircuHUB’26 لتعزيز التحول نحو الاقتصاد الدائري",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T13:33:00.000Z",
      "seen": "2026-11-20T13:35:10.404Z"
-    },
-    {
-     "title": "إجراء جراحة للشيخ سلطان القاسمى حاكم الشارقة",
-     "url": "https://www.youm7.com/story/2026/11/20/إجراء-جراحة-للشيخ-سلطان-القاسمى-حاكم-الشارقة/7626040",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T13:24:00.000Z",
-     "seen": "2026-11-20T13:25:10.614Z"
-    },
-    {
-     "title": "هندسة عين شمس تحصد مركزين فى مسابقة تطبيقات مشروع الابتكار",
-     "url": "https://www.youm7.com/story/2026/11/20/هندسة-عين-شمس-تحصد-مركزين-فى-مسابقة-تطبيقات-مشروع-الابتكار/7626023",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T13:11:00.000Z",
-     "seen": "2026-11-20T13:15:11.023Z"
     },
     {
      "title": "شتاء غير معتاد في مصر بسبب ظاهرة النينيو.. رئيس \"تغير المناخ\" يحذر المزارعين",
@@ -243,6 +243,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "جرف النصر: قوات الأمن العراقية تنتشر في معقل \"كتائب حزب الله\"، والزيدي يؤكد أنّ \"لا سلاح خارج سلطة الدولة\"",
+     "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-20T13:47:25.000Z",
+     "seen": "2026-11-20T12:03:09.523Z"
+    },
+    {
      "title": "الحوثيون يهددون موانئ السعودية والمركز المالي بالرياض رداً على تحذير التحالف بإخلاء ميناء الحديدة",
      "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -270,13 +277,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T12:03:10.000Z",
      "seen": "2026-11-20T13:05:10.432Z"
-    },
-    {
-     "title": "جرف النصر: قوات الأمن العراقية تنتشر في معقل \"كتائب حزب الله\"، والزيدي يؤكد أنّ \"لا سلاح خارج سلطة الدولة\"",
-     "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T11:56:24.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
     },
     {
      "title": "الراند الجنوب أفريقي يقترب من أدنى مستوياته في عام مع ضغط قوة الدولار",
@@ -424,18 +424,18 @@
      "seen": "2026-11-20T12:23:09.663Z"
     },
     {
+     "title": "موسكو تدق ناقوس الخطر.. الناتو يستعد لصراع عسكري مع روسيا",
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQdHo0REJ1WWI1dnpfWW14R0NjV29MOHRIUzYxY1p4YnNTa1pycUp5Z0ttSkFFZUZaZmNfZ3l4S2NPbkFwajVMeGw4M3R5RWJPTDZXa2dlbmJ6cGJVNWNlX1p0UDhLTTlVQUJTaGFSVk9iYTE0b25yZmhGakVlMUVCZVVZb2wwdGlHcDV5WjQzMnM5UGVxdV9XR3JZVnV0LWczRU9Vd3A0NXFtNEtOWHdYM2RxVHJkem93UmVoMGZVZmRRVmZyeTl6aEJ4OFExcVQxTXlwQTJkUjlwSHotT1Y1cGMzTHVSWkUtNExwZXZaaWJEZkJqMlNuNHFtcGY2TTlXS3RsSUxjS1NEbU9TT2luT09wU0thUG03U0p6SzZBd3pPR3Y5QXlHWDFXWHFENGRLdEx2dVJOZnpCa2hwVmhnZ1BVcXFUbFVHdDVBeWg2QnVlVzFrSHFV?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T12:11:19.000Z",
+     "seen": "2026-11-20T13:55:10.969Z"
+    },
+    {
      "title": "الزيدي: جرف الصخر بداية لفرض سلطة الدولة في العراق",
      "url": "https://www.skynewsarabia.com/middle-east/1906058-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D9%81%D8%B1%D8%B6-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T11:54:08.000Z",
      "seen": "2026-11-20T12:03:09.523Z"
-    },
-    {
-     "title": "36 قطارا و22 مليون دولار.. تفاصيل عمليات سطو هزّت كاليفورنيا",
-     "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNTXkzRHpIeEU4eFBwMDlUaUpxMTR6ZFp6WWxSSWNvUUZyTzJESU5CaTA4QXJlUWhFVFZQZ2tRZTlpVGRTaXdXUHFIRkVKWjY0ek5KYzVaSVk5Y0ZPYXhzMHVVMC1EV1I0ejFHYVFBY2lHSTJHbDBrVXdUeGxXSVBURDlwZ0pKMWZjYVB6Vm5adHBySlVLNVIzZzBSRTM3X0JWV0xacWQxYmxjVFRZSVc5NmxKQTFKM1pnZ0FtMVB4Y0pDTTR6ZUxjRVgwbG44dTktanhDRWtIZVU5d3NjQmhZWVVsOF9YeGRxUnYwVEJGeXJadi01dnVIWHRnMlFUNlQ5Qnh1UGNqUTEwOUhPZ2dsTnR1cGd0ck1wV09xTk9zQVhycFpCYTRPU0ltOXB4QmVsLVFwb01fZlVJbkg1MG94QktaV1RjZDhEcWJKVEQyeXo1eG1Jc2FONl91U2NHR1VHYlczZDNDSFAxVnl1MHFHeGkzVmo3NnhaZVd0dmM2cVFTd0RZbFduS0xSOEN0dkI5UjhhRlo4eGxnQnBnUjFHaXVnTG5IRHhobGcyRkhDNGdHRjVIT2QyaWNzQ2g0X2Z0UmhueGFMOUZPNTk5d2fSAdMDQVVfeXFMUExGNUVaaW5QNTlvRUVkRVZvM3AxMmstcjJ2MTFzWFh6WTI3NlNIUTdKcm5PZzVSZ3k3MTctZGRSZnRTRWo0U3FDd1l5UEIwWkRaMzBYdnFDZWRPSDM5SXlSLXJoalUzejVaT09PQ1JoYVdUX25UU0ZFTTc2ZjQ3ZHBXbUlobWNqYWtqTU9rN09KdUxxZV9MWC00Y1ZLNVRUckJocjV6dy0yNk80VjRERTc2OWxkeVltR01tckRxYWFRbWUyOVRxNWRObEFlTUpkY1IzSUE3eWo2UGliU1JVZU5Pc2VzeVZER0hPR0dyYXY5WHNZTElBc1d2Z2wtT2o3SmJwUGlqOU0yNFhReEctR2JCREhpMnJQZ0V5RHdtZU51cF9LdnVfOEM2YzN3NjFIVVRJNUp2U3VXSERxenFVcHBva2psUFlBeUd6bTJHRVZERjBMb2ZHRWdkdEJrMVo5QS1TSmpzRXJpazN5U0tYQ1BJNk93VjJ6LUFhV25vdXY3OWVxQ3ZhN1RyVHJXTFRYVUJmcFFBZFQ1V2VLYkNLTC1BRWt5N0hHMTZuZkFsbHBYa0xvWXF3allNU0VXSEo2X0VKcjFZck1xY1hDZG9ZTmxIaWc?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-20T11:44:31.000Z",
-     "seen": "2026-11-20T13:45:10.414Z"
     },
     {
      "title": "عملية \"فجر اليمن\" مستمرة .. وإنذار بإخلاء ميناء الحديدة",
