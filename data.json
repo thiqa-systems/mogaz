@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:43:09.441Z",
+ "updated": "2026-11-20T07:53:09.435Z",
  "minute": [
   "شهدت الأسواق المصرية استقراراً في سعر الذهب لعيار 21 بعد خسائر سابقة، مع متابعة لتحديثات أسعار العملات والدولار قبل العطلة.",
   "أعلنت وزارة التربية والتعليم المصرية مواعيد امتحانات الطلاب المصريين في الخارج للعام الدراسي المقبل.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-20T07:43:09.441Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T07:53:09.435Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5362,
-   "change": -3.73,
-   "asOf": "2026-11-20T07:35:12.000Z",
+   "value": 5376,
+   "change": -3.47,
+   "asOf": "2026-11-20T07:44:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6122,
-   "change": -3.73,
-   "asOf": "2026-11-20T07:35:12.000Z",
+   "value": 6138,
+   "change": -3.47,
+   "asOf": "2026-11-20T07:44:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3545,
-   "change": -3.8,
-   "asOf": "2026-11-20T07:35:12.000Z",
+   "value": 3555,
+   "change": -3.54,
+   "asOf": "2026-11-20T07:44:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.099,
    "change": 0.16,
-   "asOf": "2026-11-20T07:44:46.000Z",
+   "asOf": "2026-11-20T07:53:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.82,
-   "change": -2.35,
-   "asOf": "2026-11-20T07:34:44.000Z",
+   "value": 89.59,
+   "change": -2.6,
+   "asOf": "2026-11-20T07:44:19.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61692,
-   "change": -0.34,
-   "asOf": "2026-11-20T07:45:07.000Z",
+   "value": 61821,
+   "change": -0.13,
+   "asOf": "2026-11-20T07:54:44.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,31 +140,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محافظ أسيوط يشارك أبناء دور الأيتام احتفالات أعياد الطفولة",
-     "url": "https://www.elbalad.news/7187556",
+     "title": "واردات الصين من النفط الخام السعودي تقفز في أكتوبر إلى 3 أمثال مستواها",
+     "url": "https://www.elbalad.news/7187568",
      "source": "صدى البلد",
-     "time": "2026-11-20T07:41:25.000Z",
-     "seen": "2026-11-20T07:43:09.441Z"
+     "time": "2026-11-20T07:51:57.000Z",
+     "seen": "2026-11-20T07:53:09.435Z"
+    },
+    {
+     "title": "زيكو يشارك صورا من عطلته مع زوجته في أحدث ظهور",
+     "url": "https://www.elbalad.news/7187565",
+     "source": "صدى البلد",
+     "time": "2026-11-20T07:49:09.000Z",
+     "seen": "2026-11-20T07:53:09.435Z"
+    },
+    {
+     "title": "موعد مراسم قرعة الدور ربع النهائي لبطولة دوري الأمم الأوروبية",
+     "url": "https://www.elbalad.news/7187564",
+     "source": "صدى البلد",
+     "time": "2026-11-20T07:46:08.000Z",
+     "seen": "2026-11-20T07:53:09.435Z"
     },
     {
      "title": "الحكومة: بلوغ أطوال كابلات الألياف الضوئية 1.5 مليون كيلومتر بحلول 2030",
      "url": "https://www.youm7.com/story/2026/11/20/الحكومة-بلوغ-أطوال-كابلات-الألياف-الضوئية-1-5-مليون-كيلومتر/7624520",
      "source": "اليوم السابع",
      "time": "2026-11-20T07:41:00.000Z",
-     "seen": "2026-11-20T07:43:09.441Z"
-    },
-    {
-     "title": "زلزال بقوة 5.1 درجة بالقرب من سوليداد في كاليفورنيا",
-     "url": "https://www.elbalad.news/7187558",
-     "source": "صدى البلد",
-     "time": "2026-11-20T07:40:56.000Z",
-     "seen": "2026-11-20T07:43:09.441Z"
-    },
-    {
-     "title": "فاروق جعفر: خلافات في الزمالك بسبب شركة الكرة واستياء بين اللاعبين السابقين",
-     "url": "https://www.elbalad.news/7187532",
-     "source": "صدى البلد",
-     "time": "2026-11-20T07:40:00.000Z",
      "seen": "2026-11-20T07:43:09.441Z"
     },
     {
@@ -192,7 +192,7 @@
      "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlNJUWZEcnpTYXhxS2dfM21lTkhNVXgyeXlfX2pBOU4zQXY4WUFCbFlsSGt2TWhYZlFoZE8zZmRQTm9iRjc4NkZOYk05Q3laOHk4QU9PaVBHblE5TWdERnRHa3BENHJKeThKWnNNeW5PZE95em5hMnRaWjcxbEdGQzR6T19vMzF5dTFoNXFaWXRJc0x5ODF0YU9vYWtYTGlGSzVjSmxiVTZxNklRLTMyem1OcVg?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-20T02:16:36.000Z",
+     "time": "2026-11-20T02:18:22.000Z",
      "seen": "2026-11-20T07:03:09.870Z"
     },
     {
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار مقابل الجنيه المصري في البنوك اليوم الجمعة 20-11-2026",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZEFnZG00akNJVzBGdFJibVNTNUZSLURkZEJrU09xTExoSlFreTQyQlJIU3dvV3NubHhMWDRGSFRiS0xZM0ZOS1pCOHNqXzhSYUpfMUNaZGVCUWt5?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-20T07:27:12.000Z",
+     "seen": "2026-11-20T07:53:09.435Z"
+    },
     {
      "title": "سعر الدولار في مصر اليوم الجمعة 20 نوفمبر 2026.. آخر تحديث قبل العطلة",
      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOQnBna2ltc095Rll5SkFnV0lYRjlNYmk1ZHJIUkxhZGJPdUlWSlhHTl9NMWZFRWFPMHdTZnluZTJpcXR5cWd3MEdRd3dJM3hqd01weUhvaTYzSWhtdFY3TFdNTjl4UkZCYjBsekZaODNUM1oxY2FyWWI4QXVnMWllc3NhcnFhWkFieFFhTzdqOXdKZFI4RUJpQW5RV3Z5cUtJSmljZkNfYmFKRlBBTUZfb1Z0Vk5qdWNoTGhSU004a3RWQk1IajlyZF9wanlfY05paml4NjhlYkw3eHFUNzBlYms2M05tcXRUamg0ZjdHekVsRHQyZk1ncV9ueFRkbk1Yc0ZnWHdQQTJNaVYxMnZPNUdOaDA3QnYwbC1WdVJXYUpOUVo2QnVIRnBUVXJkOVF5RkJsaWVQeUwzT29RdGc?oc=5",
@@ -340,13 +347,6 @@
      "source": "BBC عربي",
      "time": "2026-11-20T00:17:53.000Z",
      "seen": "2026-11-20T00:30:07.879Z"
-    },
-    {
-     "title": "سعر الدولار اليوم 20 -11 - 2026 في البنوك المصرية مقابل الجنيه",
-     "url": "https://www.dostor.org/5784210",
-     "source": "جريدة الدستور",
-     "time": "2026-11-19T23:33:00.000Z",
-     "seen": "2026-11-20T07:43:09.441Z"
     }
    ]
   },
@@ -503,6 +503,13 @@
      "seen": "2026-11-20T06:41:45.088Z"
     },
     {
+     "title": "كيف يساهم الذكاء الاصطناعي في تعزيز استدامة قطاع الطاقة؟",
+     "url": "https://www.msn.com/ar-sa/money/general/%D9%83%D9%8A%D9%81-%D9%8A%D8%B3%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9/vi-AA2hPhLw",
+     "source": "CNN بالعربية",
+     "time": "2026-11-19T21:25:39.000Z",
+     "seen": "2026-11-20T07:53:09.435Z"
+    },
+    {
      "title": "جرف النصر أزمة كادت تضع العراق على حافة المواجهة",
      "url": "https://www.bbc.com/arabic/articles/cjn502xwx3ldo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -555,13 +562,6 @@
      "time": "2026-11-19T19:25:09.000Z",
      "seen": "2026-11-19T19:29:50.328Z",
      "impact": "تساعد المستهلكين في مصر على المقارنة بين الهواتف الذكية الجديدة من حيث المواصفات والسعر."
-    },
-    {
-     "title": "طفلك يكذب عليك؟ ربّما ليس في ذلك ما يدعو للقلق!",
-     "url": "https://www.bbc.com/arabic/articles/cw7728rvx6p2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T19:15:27.000Z",
-     "seen": "2026-11-19T19:19:50.248Z"
     }
    ]
   }
