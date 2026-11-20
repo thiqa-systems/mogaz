@@ -1,15 +1,16 @@
 {
- "updated": "2026-11-20T04:11:45.217Z",
+ "updated": "2026-11-20T04:21:44.973Z",
  "minute": [
-  "تضمنت الأخبار المحلية تحديثات لأسعار الذهب والدولار أمام الجنيه المصري ومواعيد حركة القطارات وإرشادات صحية.",
-  "عالمياً، برزت تطورات أمنية وسياسية في هايتي والعراق إضافة إلى تقديرات حول تكلفة حرب إيران وملف أمن الطاقة.",
-  "وتكنولوجياً، بدأت مايكروسوفت التثبيت التلقائي لتحديث نظام ويندوز الجديد، وسط أنباء عن تغييرات في إدارة الأمن السيبراني الأمريكي."
+  "استقر سعر الذهب عيار 21 في مصر عند مستوى 5730 جنيهاً، بينما سجل الدولار في البنوك 53.77 جنيهاً للشراء.",
+  "أصدرت هيئة الدواء المصرية إرشادات لعلاج الالتهاب الرئوي موضحة أن المضادات الحيوية لا تعالج الإصابات الفيروسية.",
+  "كشف البنتاغون عن أحدث تقديرات تكلفة حرب إيران وسط نقاشات دولية متصاعدة بشأن أمن الطاقة وتطورات الأزمة الأوكرانية.",
+  "بدأت شركة مايكروسوفت التثبيت التلقائي لتحديث نظام التشغيل الجديد، بالتزامن مع استقالات وإقالات في قطاع الأمن السيبراني الأمريكي."
  ],
  "ai": {
-  "at": "2026-11-20T04:01:45.154Z",
-  "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 7
+  "at": "2026-11-20T04:21:44.973Z",
+  "model": "gemini-3.8-flash",
+  "key": 1,
+  "impacts": 9
  },
  "markets": [
   {
@@ -25,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5368,
-   "change": -3.62,
-   "asOf": "2026-11-20T04:01:48.000Z",
+   "value": 5363,
+   "change": -3.71,
+   "asOf": "2026-11-20T04:12:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6129,
-   "change": -3.62,
-   "asOf": "2026-11-20T04:01:48.000Z",
+   "value": 6123,
+   "change": -3.71,
+   "asOf": "2026-11-20T04:12:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3549,
-   "change": -3.71,
-   "asOf": "2026-11-20T04:01:48.000Z",
+   "value": 3546,
+   "change": -3.8,
+   "asOf": "2026-11-20T04:12:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0981,
-   "change": 0.08,
-   "asOf": "2026-11-20T04:10:47.000Z",
+   "value": 1.0979,
+   "change": 0.06,
+   "asOf": "2026-11-20T04:21:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.23,
-   "change": -1.9,
-   "asOf": "2026-11-20T04:00:25.000Z",
+   "value": 90.04,
+   "change": -2.11,
+   "asOf": "2026-11-20T04:09:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61690,
-   "change": -2.06,
-   "asOf": "2026-11-20T04:11:42.000Z",
+   "value": 61653,
+   "change": -2.12,
+   "asOf": "2026-11-20T04:22:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -144,20 +145,12 @@
      "seen": "2026-11-20T04:11:45.217Z"
     },
     {
-     "title": "مواعيد القطارات على خط «أسوان - القاهرة» والعكس اليوم الجمعة 20/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/20/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-الجمعة-20/7625093",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T04:00:00.000Z",
-     "seen": "2026-11-20T04:01:45.154Z",
-     "impact": "يساعد المسافرين على تنظيم مواعيد تنقلاتهم اليومية بين أسوان والقاهرة."
-    },
-    {
      "title": "المضاد الحيوى لا يعالج العدوى الفيروسية.. هيئة الدواء تكشف طرق علاج الالتهاب الرئوى",
      "url": "https://www.youm7.com/story/2026/11/20/المضاد-الحيوى-لا-يعالج-العدوى-الفيروسية-هيئة-الدواء-تكشف-طرق/7623543",
      "source": "اليوم السابع",
      "time": "2026-11-20T04:00:00.000Z",
      "seen": "2026-11-20T04:01:45.154Z",
-     "impact": "يزيد الوعي الصحي لدى الأفراد بشأن طرق علاج الالتهاب الرئوي وتجنب الاستخدام الخاطئ للمضادات الحيوية."
+     "impact": "يوفر إرشادات صحية مباشرة للمواطنين لتجنب الاستخدام غير الفعال للمضادات الحيوية عند الإصابة بالعدوى الفيروسية."
     },
     {
      "title": "أخبار قنا| تفعيل منظومة المراقبة وخطط إخلاء المدارس.. استمرار أعمال البحث عن شاب أسفل بئر في نجع السويس بقفط",
@@ -172,6 +165,14 @@
      "source": "صدى البلد",
      "time": "2026-11-20T04:00:00.000Z",
      "seen": "2026-11-20T04:11:45.217Z"
+    },
+    {
+     "title": "مواعيد القطارات على خط «أسوان - القاهرة» والعكس اليوم الجمعة 20/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/20/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-الجمعة-20/7625093",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T04:00:00.000Z",
+     "seen": "2026-11-20T04:01:45.154Z",
+     "impact": "يساعد المسافرين بين القاهرة ومحافظات الصعيد في التخطيط لمواعيد تنقلاتهم وحجوزاتهم اليومية."
     },
     {
      "title": "مشاركة القطاع الخاص.. طرح حق استغلال ساحات انتظار السيارات لمدة 10 سنوات",
@@ -249,7 +250,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T02:00:00.000Z",
      "seen": "2026-11-20T02:11:44.566Z",
-     "impact": "يتيح للمواطنين والمستثمرين متابعة أسعار الصرف الرسمية للدولار في البنك المركزي لتحديد التكاليف المالية."
+     "impact": "يمكن المستثمرين والأفراد من متابعة أسعار الصرف الرسمية لتقييم التزاماتهم المالية وتكاليف الاستيراد."
     },
     {
      "title": "سعر الذهب اليوم الجمعة 20 نوفمبر 2026.. عيار 21 يستقر عند 5730 جنيهًا",
@@ -257,7 +258,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T01:00:00.000Z",
      "seen": "2026-11-20T03:11:44.798Z",
-     "impact": "يُمكن الراغبين في الشراء أو الاستثمار بمصر من معرفة سعر جرام الذهب عيار 21 البالغ 5730 جنيهاً."
+     "impact": "يهم الأفراد والمستثمرين في مصر الراغبين في تقييم مدخراتهم الذهبية ومعرفة القيمة السوقية الحالية لعيار 21."
     },
     {
      "title": "تفاصيل أعلي سعر دولار في البنوك الآن",
@@ -265,7 +266,7 @@
      "source": "صدى البلد",
      "time": "2026-11-20T01:00:00.000Z",
      "seen": "2026-11-20T01:10:07.901Z",
-     "impact": "يهم المتعاملين بالنقد الأجنبي لاختيار البنوك التي تقدم أعلى عائد لبيع وشراء الدولار في مصر."
+     "impact": "يتيح للمتعاملين والشركات اختيار أفضل البنوك لصرف وتداول العملة الصعبة وفق أعلى سعر متاح."
     },
     {
      "title": "ماذا تكشف دراسة جديدة عن تعداد الهندوس والمسلمين في الهند وحول العالم؟",
@@ -280,7 +281,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T00:03:51.000Z",
      "seen": "2026-11-20T02:01:45.073Z",
-     "impact": "يوضح للمتعاملين في السوق مستوى سعر شراء الدولار المعتمد بـ 53.77 جنيه للتعاملات المالية."
+     "impact": "يقدم سعراً محدداً لشراء الدولار في البنوك يعتمد عليه المستوردون والتجار في تسعير البضائع."
     },
     {
      "title": "رسميًا.. أسعار البنزين والسولار اليوم الجمعة 20 نوفمبر 2026 بعد قرار لجنة التسعير",
@@ -357,10 +358,17 @@
    "items": [
     {
      "title": "شرطة هايتي تعلن مقتل 34 شخصا على الأقل في عملية ضد العصابات",
-     "url": "https://www.france24.com/ar/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/20261120-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%87%D8%A7%D9%8A%D8%AA%D9%8A-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-34-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261120-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%87%D8%A7%D9%8A%D8%AA%D9%8A-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-34-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA",
      "source": "فرانس 24",
      "time": "2026-11-20T03:33:15.000Z",
-     "seen": "2026-11-20T03:51:45.274Z"
+     "seen": "2026-11-20T04:21:44.973Z"
+    },
+    {
+     "title": "ترامب يغير نهجه.. واشنطن تطرح فكرة انضمام أوكرانيا للناتو",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNQTY5bTl4ZlhxMVAxdnh1Z1hDeDBSOXE0aWI5Z09nWlNCeHhwdFNLdTAxOVQxUUNuVTUwaTI4Wl94OEZnYmd5aDR2RUZuQzV4VFVtZW4yV3JVV2VfZ2k5Ym4taERXRFVlZkdyM1U5NzFzSU1vd0Jvc0NzOUtUSW9xUW84Xy1heUtqbHBKZHc2S2lDMHRua3Ayc1FUQWpCSklvNldOYmhtU0tDMVZ2WjVLdE9VVFNaTGJRSEpuSUZVelJsWUpQZ04wcTFkelZGYW9heVFFWlJWcUtfNUhibDJ3TGxldktmZWxBcENGNjdqd3ZGbld4Y1ZURVRkdGw2aU94ZUVvMXA3RnAxM21UNXVHaU5vcUdoZkotSjFiZl8tN1dEYXg2d1lWazdkS2NJOTlSQXVjMkk2djRaSUJQVmQ3dVhIZG5fLTIzNTYxVjhkT2g5d2R1ZnhZWHNoVHV2c2tJMVRfaFRwMjlNSVhfMTFGVFk0ZmVoQ2Jfc0JMMTdkd3VHQUdJNmxXQWNwU01VWHhOTTlpRTVkcUVwZWRsV2FYbWZ5dzFjc09VakFkTnJnRFZUc1pUUkZlay1xUTlmc2dDRkpMcVJlb2MyWXNuU3ZqMmRMY3RreGQ3dEHSAd8DQVVfeXFMUFRSRURFWExXa0ZmOTVRVE9RQ01odmZQbExpV0pVRUZvX0pJU21zNmFZeXFTM2VFeDJZdkprdmFuQndpVElaRXloVUpIMUlpY01IR2ZTdE1YV0NaUEctZl9Ua25Ob1doQVl3ZXZhbUJfbndZREMtNXJjRnFBY2hMOVFBR3U4X3M2MUM2ZWl6T191bEdGaWp2SXFsVnhZbUkzR0xNOWh2X0xuVzBzZlpGeEE2alFEbW5OdTNJZjc4a1dkZ1ZjRTdfRTBPa1FyLTdNOEQxOVVXLXllZmdjLWdOcnVTcWxQcmp5aGRyeGYxczhzb2FTU2N1WHJHbWFtc29IS1pjbGtDN2ZxR1ludVhYV3ZZc0QtNFQ2NXExT29UanVYYmxrc21XOXY4VVY2Uk92NTFoMHRqWEQ1WjVFOW9FWHhGWHo0UjRIcWRwSXhXZkVqU0h2QXYzUWFKd1VDWEZYVVhwamZDU2FEMWVtUm5oTVJiUXdiYnVwU19sUlpETzhHc0FQMlQ3LXBrdXlIVEtKYWgtMXhMLXMxR2JtdHdfWlNUaGVLa3VJQnhfRHBGSUNVNEJtNko4WUhHWmhUdzlGei1NbnlTd2IxUlNpcU9vZ21DTzAyYXlvSUJrdmFfcVU?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-20T02:51:02.000Z",
+     "seen": "2026-11-20T04:21:44.973Z"
     },
     {
      "title": "العراق يحاكم 7 فرنسيين بتهمة الانتماء إلى تنظيم الدولة الإسلامية",
@@ -374,7 +382,8 @@
      "url": "https://www.skynewsarabia.com/middle-east/1905926-%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%AD%D8%AF%D8%AB-%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T02:21:23.000Z",
-     "seen": "2026-11-20T02:31:45.186Z"
+     "seen": "2026-11-20T02:31:45.186Z",
+     "impact": "يساعد المستثمرين في رصد تداعيات الإنفاق العسكري والتوترات الإقليمية على الاستقرار المالي وأسواق المنطقة."
     },
     {
      "title": "أنور السادات.. سفارة إسرائيل في مصر تعيد نشر مشهد \"حبس الأنفاس\" قبل 49 عاما وتعلق على تكريم الكونغرس",
@@ -433,13 +442,6 @@
      "seen": "2026-11-20T00:10:07.866Z"
     },
     {
-     "title": "\"قبعة طائشة\" تقتل أشهر فرس نهر في العالم",
-     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPNkZUdmhTSVNFQ3hZTHJxbktaeG9fNWFwWHdKaG84ZjNzWVc0WjNzaHZzYTBHREl0T2tmZzdiR25Mb05vMTJyTlpqbGRjcmMzOVFtakFoZXZ0REE4YmMzZUFkUnBFdTJhb2VRcDF1TXo1QVU3Z1M2MTNGNVdZN1dGbVBlOXFMSUFYNDZTODRvVjVNa1N5RHlPaURuOVhDb2NTU3l2VDltbkJKSXA0ZkoxcG1TMTB0elBLT0plbU82YnRwQnFEN2EyZzgyTVc2VDZJS0d2YmZ5dHZnUXRvTTVfcTduXzEtQnl3QmlEWlRXY3pLTEMxUUZxX2xNc0phWGluZXE0NmFXZ1BWYXZhX3hrS1VuQ3pvblY3QndCVkR2QmJIcXF0c3NCdGNLbENPZEpyZTVwRnp1cnV6SGV1UlUyRUVJcWk5a1BFM3UzetIB0gJBVV95cUxQUzYwUE45NlYtQ2cyeVdZSTlzbXlhaEh6X0dVY2hRNldnMGFITXB2MmQ2aU1qOG5yOXlhZzRHREtTYmpTczVJTXhjcm9XV1RhN3pnMl9kQ2tJT1VxcUxxTGpTdFN2ZU1CNVFhX1NxcXdMcDFheU5EWGlWVF9ndzBYNWluT1VzWFhjdVNhVnIzSkd2N2kyX3NoaDhDcERuNGlOXzBCLTFGTFNaSDU1X0oxQ3FVQTdfbElmLUJtb3lJNUtIVHFsVGhXdTRyaklrcWxqVXB4SFJSd2h6T0xXVFJZUlIzRU5GY01NdTVweUpXZTF5RnRzXzdvV2U5VTRxVm85a1RLSndiSjFDTFFHVkpLbm5nR2pjcGgxcF9leGFub0lqUXpoUWhIZHF1S3NQemEwNlptd1J3aTgtYVBQQUlVc0ZIRWJVcXlJcUFJSnlvX3huUQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-19T23:02:08.000Z",
-     "seen": "2026-11-20T02:21:44.940Z"
-    },
-    {
      "title": "ترامب عن إيران: سنرى ما سيحدث بعد بداية العام الجديد",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/20/trump-says-hes-not-rushing-any-iran-decision-eyes-the-new-year",
      "source": "CNN بالعربية",
@@ -472,7 +474,7 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-20T00:35:36.000Z",
      "seen": "2026-11-20T00:20:07.323Z",
-     "impact": "ينبه المستثمرين والمتابعين إلى تأثيرات أزمات أمن الطاقة وتداعياتها على الأسواق."
+     "impact": "يؤثر على خطط الأعمال والمصانع في مصر لمتابعة استقرار إمدادات الطاقة وأسعار الوقود عالمياً."
     },
     {
      "title": "مدير الأمن السيبراني الوطني في إدارة ترامب يتنحى عن منصبه",
@@ -487,7 +489,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-19T21:21:31.000Z",
      "seen": "2026-11-19T21:30:06.432Z",
-     "impact": "يهم مستخدمي أجهزة الكمبيوتر في مصر للتحضير للتحديث التلقائي لنظام التشغيل ويندوز."
+     "impact": "ينبه مستخدمي الحواسيب والشركات في مصر للاستعداد للتحديث التقني التلقائي لضمان استمرار عمل أجهزتهم بكفاءة."
     },
     {
      "title": "ضعف الطلب على iPad Pro بشاشة OLED يهدد خطط iMac الجديد",
@@ -568,6 +570,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
+  }
+ ],
  "marketErrors": []
 }
