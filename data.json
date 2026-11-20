@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:55:25.334Z",
+ "updated": "2026-11-20T19:05:26.198Z",
  "minute": [
   "تواصل وزارة النقل المصرية تنفيذ خطط تطوير وتحديث السكك الحديدية والمزلقانات لتعزيز الأمان، إلى جانب الإعلان عن عقد قمة عربية نرويجية للذكاء الاصطناعي في ديسمبر المقبل.",
   "تشهد الأسواق استقراراً في سعر صرف الدولار مقابل الجنيه المصري وسط متابعة لمؤشرات العملة عالمياً وأسعار الفضة في الصاغة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-20T18:45:26.160Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-20T19:05:26.198Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5301,
-   "change": -4.83,
-   "asOf": "2026-11-20T18:45:26.000Z",
+   "value": 5328,
+   "change": -4.34,
+   "asOf": "2026-11-20T18:55:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6052,
-   "change": -4.83,
-   "asOf": "2026-11-20T18:45:26.000Z",
+   "value": 6083,
+   "change": -4.34,
+   "asOf": "2026-11-20T18:55:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3505,
-   "change": -4.9,
-   "asOf": "2026-11-20T18:45:26.000Z",
+   "value": 3523,
+   "change": -4.41,
+   "asOf": "2026-11-20T18:55:26.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.03,
-   "asOf": "2026-11-20T18:54:47.000Z",
+   "value": 1.0971,
+   "change": -0.01,
+   "asOf": "2026-11-20T19:04:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.33,
-   "change": -2.88,
-   "asOf": "2026-11-20T18:45:22.000Z",
+   "value": 89.58,
+   "change": -2.61,
+   "asOf": "2026-11-20T18:55:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7043,
-   "change": -1.86,
-   "asOf": "2026-11-20T18:55:27.000Z",
+   "value": 7020,
+   "change": -2.17,
+   "asOf": "2026-11-20T19:05:29.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58497,
-   "change": -5.5,
-   "asOf": "2026-11-20T18:55:25.000Z",
+   "value": 58171,
+   "change": -6.03,
+   "asOf": "2026-11-20T19:05:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,47 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأهلي يهزم مركز شباب الزهور برباعية نظيفة في الدوري الممتاز لكرة القدم للسيدات",
-     "url": "https://www.elbalad.news/7188142",
+     "title": "مدير الإرشاد بالأوقاف: الإخوان يوظفون القرآن والسنة لتبرير العنف والجرائم",
+     "url": "https://www.elbalad.news/7188157",
      "source": "صدى البلد",
-     "time": "2026-11-20T18:54:39.000Z",
-     "seen": "2026-11-20T18:55:25.334Z"
+     "time": "2026-11-20T19:05:05.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
     },
     {
-     "title": "ترامب: نريد اتفاقًا حقيقيًا مع إيران.. وأسعار النفط تواصل الانخفاض والفائدة مرتفعة للغاية",
-     "url": "https://www.elbalad.news/7188140",
+     "title": "كدواني: افتتاح المسجد القديم ببني مزار.. ومسجد الأولياء بعاصمة المنيا",
+     "url": "https://www.elbalad.news/7188155",
      "source": "صدى البلد",
-     "time": "2026-11-20T18:53:42.000Z",
-     "seen": "2026-11-20T18:55:25.334Z"
+     "time": "2026-11-20T19:04:21.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
     },
     {
-     "title": "ترامب: إيران تثرثر منذ 51 عاما.. ونريد اتفاقا حقيقيا وليس مزيفا",
-     "url": "https://www.elbalad.news/7188141",
+     "title": "ترامب: سأستخدم الفيتو ضد الديمقراطيين بالكونجرس حال عدم موافقتهم على مطالبى",
+     "url": "https://www.youm7.com/story/2026/11/20/ترامب-سأستخدم-الفيتو-ضد-الديمقراطيين-بالكونجرس-حال-عدم-موافقتهم-على/7626418",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T19:04:00.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
+    },
+    {
+     "title": "السفير اللبنانى بالقاهرة: مصر وطنًا للبنانيين وتحتضن إبداعهم عبر التاريخ",
+     "url": "https://www.youm7.com/story/2026/11/20/السفير-اللبنانى-بالقاهرة-مصر-وطنًا-للبنانيين-وتحتضن-إبداعهم-عبر-التاريخ/7626410",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T19:03:00.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
+    },
+    {
+     "title": "استلمتها من حد تاني ومعرفش اللي جواها.. زوجة إسلام كابونجا تنفي صلتها بالمخدرات",
+     "url": "https://www.elbalad.news/7188153",
      "source": "صدى البلد",
-     "time": "2026-11-20T18:53:03.000Z",
-     "seen": "2026-11-20T18:55:25.334Z"
+     "time": "2026-11-20T19:02:46.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
     },
     {
-     "title": "اتحاد الكيانات المصرية: قمة عربية نرويجية للذكاء الاصطناعي 13 ديسمبر",
-     "url": "https://www.youm7.com/story/2026/11/20/اتحاد-الكيانات-المصرية-قمة-عربية-نرويجية-للذكاء-الاصطناعي-13-ديسمبر/7626387",
+     "title": "نائب الرئيس الأمريكى جيه دي فانس: ترامب صاحب قرار الحرب على إيران",
+     "url": "https://www.youm7.com/story/2026/11/20/نائب-الرئيس-الأمريكى-جيه-دي-فانس-ترامب-صاحب-قرار-الحرب/7626406",
      "source": "اليوم السابع",
-     "time": "2026-11-20T18:39:00.000Z",
-     "seen": "2026-11-20T18:45:26.160Z",
-     "impact": "تتيح القمة الفرصة للمستثمرين والمهتمين بالتقنية في مصر للتعرف على التطورات وتعزيز الشراكات في مجال الذكاء الاصطناعي."
-    },
-    {
-     "title": "ترامب يطالب بمنح رئيس إنفيديا السابق فرصة ثانية وعودته لمنصبه بعد الاعتذار",
-     "url": "https://www.youm7.com/story/2026/11/20/ترامب-يطالب-بمنح-رئيس-إنفيديا-السابق-فرصة-ثانية-وعودته-لمنصبه/7626388",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T18:33:00.000Z",
-     "seen": "2026-11-20T18:35:25.750Z"
-    },
-    {
-     "title": "ترامب: سأكرر العملية العسكرية ضد إيران فلا يمكن السماح لها بامتلاك سلاح نووى",
-     "url": "https://www.youm7.com/story/2026/11/20/ترامب-سأكرر-العملية-العسكرية-ضد-إيران-فلا-يمكن-السماح-لها/7626380",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T18:25:00.000Z",
-     "seen": "2026-11-20T18:25:25.809Z"
+     "time": "2026-11-20T19:01:00.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
     },
     {
      "title": "إنفوجراف.. أبرز أنشطة رئيس مجلس الوزراء هذا الأسبوع",
@@ -443,11 +444,11 @@
      "seen": "2026-11-20T16:55:10.657Z"
     },
     {
-     "title": "بروتين رخيص وصديق للقلب.. كيف تحصد فوائد البقوليات دون انتفاخ؟",
-     "url": "https://www.aljazeera.net/lifestyle/2026/11/20/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%b3%d8%aa%d8%ad%d9%82-%d8%a7%d9%84%d8%a8%d9%82%d9%88%d9%84%d9%8a%d8%a7%d8%aa-%d9%85%d9%83%d8%a7%d9%86%d8%a7-%d8%a3%d9%83%d8%a8%d8%b1-%d8%b9%d9%84%d9%89?traffic_source=rss",
+     "title": "من سهام بن سدرين إلى الوريمي.. هل توحد المحاكمات خصوم قيس سعيد؟",
+     "url": "https://www.aljazeera.net/video/behindthenews/2026/11/20/%d9%85%d9%86-%d8%b3%d9%87%d8%a7%d9%85-%d8%a8%d9%86-%d8%b3%d8%af%d8%b1%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%85%d9%8a-%d9%87%d9%84-%d8%aa%d9%88%d8%ad%d8%af?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-20T15:48:37.000Z",
-     "seen": "2026-11-20T18:55:25.334Z"
+     "time": "2026-11-20T15:55:28.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
     }
    ]
   },
@@ -455,6 +456,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "الأمن يفحص كاميرات المراقبة لكشف سرقة \"محفظة وهواتف\" نجل أبو زهرة بالقاهرة",
+     "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNTFFzSUxoSTVLeHRCa29XSHdGeXBKUzdjdmU1YU51SklxUEFfZ1JUd1BleThBUHV6QmNIdXBrOV9yc3lSR3FmaFBlSUp1NjZtOHN3RlYycVM1YXZJTGVaa2w5T0RtVHBneW4tX0JUcHhQQ1Z1YXZndzVBRldJMDF5Z1prbUJWM1o0VkF0NDVQNGNmTEo3azhpbDZTTW1mZG5nd3dMSGhGNlo0Sm42cll3dnRFZ2hNTFJSSDdUZzB3c1BSSDk2eWxybTVTX2o4aHUyMThEVHQxM2lZdzN3MlltVHhwXy1OVkEtWnd5RFRuUWdGQnR5ZUcxWFp6NGpWVlRJWU5KbVpHaTA2NF9BY09CLXRPZnpYQWN0Z2FKX0xncHBKTjNUVDF5dEQ4M2IxR3ZGa1k1cmozWDJmbnc4NzByeHdwWjVhdXJ1QldNVmFHV3pJUTZnRDEwWUxBS3I3ZlZ0OTEyYjZQMUs5ZmZZSEFyN01QRDFpWXpZNHY2WEJ0NnBlcE9Cd2s2TWw1LXplVUxQX08xaWFOajFhOFkyUUVqeWVpNElSRlNnMmZqN0dMbHdUM0VQd0FsbjRhMjFlY0RENU80Vk5GSWJKX3FwSFVRWEIwVkZmWThfMWRVU0Y3OW9razg4UE43MHA2bkdZNHBIOU12Z0REX1N6SUxOelBGOE9rR1hqUE5DaGgwd25xQkdBRUEtY2tjdUJzZHRDbGdka0pUUGd6SVN0T2otX1AxOEEzNk9DQjBJZEx4TTJCRVBnQXdaTlNMMW84V21zUjk1aFB2aXotQXVIbkt0aG01UnJlNUJ6NzBic3EwUtIB8gRBVV95cUxPY2RUSmt0VDBZbm5BWXR0dHh1aWdscGc5ek96QURGNWl0OGl1VEdQc3JzUldKVlljVlRZRE15MGM1eHRhVDNiaGhvd3F2eFdkTHZ3TUtKbER6U3lvWGZSVVcwRGV6YzBHVkVwU2U2clpRUkNTS3BoU1QwMDF6eUluYzc3NkVpWUw4QkVHdnM3eW9Qa0s4ZEFad3g2WndYVlB5cmlvWDNHNGxlOGVta1NrNnZ0LXU2VERjT3BtYXVtbXE5VVhySlNGdHcxX1IxekJuVWN2S2RrU1VFRms2dWZMQ2RqcU1kdjQ2djBYeGozV3JzUEI3V2lfMFhtNE9JbnFxVUR5V3VfNDhfOC1MYnN0aFh6MnVScENRam56ektiVloyb0NhMGVyYVRaWjVfV29YZHRxX3dYelBrb294ZnJkb0d3dzU5elh5OHVtR1VNMVlXbDFLTkpFQ21CMnh1NGw2ZzJJN3pNQm81ZmpZVTlxVUl5NnoydmFUdFlwQjZzUnNHRURVT2JpSTY5dXBkbXVnRVVlRnFsNGE0WmxWdDc2SEREWW9EUkhab0gzUTNpNWhabFpWZzNQMVF0NE9RaURPaWFBTVk4OUhTUmNRTFkzdDJzY1d6UElmM19QdXhLdGRabGJwcnhqQ0tGYm5FZTdWYUVyclNqQWsyZWYxN1FPQTg0YlJSbnlQVVV1TlEyQ2RvQWdDWlZHWlUwZWQ3NTJHdy1UYzNXWHBTejRzaHdlWlF2c2IyRGNSNkpKMUU4MERFQ3d1VFJCUnhiazBaMVlJYkx4Uk15ZFF5eTZ4MG9NOE91VmMtc1E1bUxIeDI5QThLQQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-20T17:22:18.000Z",
+     "seen": "2026-11-20T19:05:26.198Z"
+    },
     {
      "title": "أنثروبيك تُتم اكتتابها وطرحًا خاصًا بقيمة إجمالية 119.5 مليار دولار",
      "url": "https://aitnews.com/2026/11/20/%d8%a3%d9%86%d8%ab%d8%b1%d9%88%d8%a8%d9%8a%d9%83-%d8%aa%d9%8f%d8%aa%d9%85-%d8%a7%d9%83%d8%aa%d8%aa%d8%a7%d8%a8%d9%87%d8%a7-%d9%88%d8%b7%d8%b1%d8%ad%d9%8b%d8%a7-%d8%ae%d8%a7%d8%b5%d9%8b%d8%a7-%d8%a8/",
@@ -553,13 +561,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-20T08:20:00.000Z",
      "seen": "2026-11-20T09:13:09.549Z"
-    },
-    {
-     "title": "بعد سنوات من قيادة \"OpenAI\".. سام ألتمان يكشف: أنا نادم!",
-     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPemR2czlvR3dLQVZmbTloQnZGTkVRME1uTzlETXFpNlFoMEktYjZGUVUzVUgzbHg1SGNhS3lSMkxrNDZmNDlwaWdSZFE5RkpjWFhtZTZEY0xFRnhEai1sUmlWNGZrSU1Vcm1zeV83V1llS3BUaHRZN1FGd0NQZ0hEdmo0QVZIWGNtYjAxd0ZseEptZDh4eE1RM1BpblM1d1BWT1VzeEdtNUVFT0ZGOHcwNGF0OVdjRmVORDVoLVlYUzdGQVJMd1JrQWdobURFZkdQeDNFWXN5THRTVHJIeVZGZVRsa2VnbE5CUmdhbHc1S1dWWEQxN2tveWlCY19wanJEeHo3ZGNGcTZCblY0ZFhJSEtLV19sMDZqSFhKU0VURFYtZjFhbld1TnYtZmNNUk1GemJXRUVLV1ZiUjhCN085ZkppWGtyMVRnOVU4eUE5WlZaR09YRnZkR3EzdGhtSk9NdC1CYzJkSFZ0U0ZjYnlzanYxU2dBWDM0T216SEswMHVFWElad0pTZTFWSWNqNm5iX3pXTHphUdIBnANBVV95cUxPV1pQZXp6LWprMUFRa2VYTjZDWnpIbXp0RW1qRGRpcFgtTFE0Vlk4b3hvVGJSdW9kY21WQVRCMkYyQUJ3S2tMcnJ0QnF3bXVPUEF6WmVKX19ucm43ZVMxRHFMNHo3d1U0VldVbjBtTjc5NVBOTlR0QlAzSlRHcmxKanYtQ0RncEd3blMyRklMUHVWRHJnd1JmbzBFWHVWemRJeng0N0dhd1R0Wm9qbEhaX19hbXd1Q3ZvbzlIRkx1WEdRSUF0NFFfYWczVmFBdi1jUjgybEZGbTI5Wm5IaXlMdk9Ec1B6Q2RyT0U1dWppNVA0TWMxd2NtNlljcG9MU3Nnekt3YUstaXRyS2hDZURPbmg2TVRnampHV3ZKT3pPYWZFaFNTdXh6d2ZHWU1BNEZVM0tscmloa2hELTBrdG9GSE5KVGE3OEhCclM4emU3bWFJeFJXR01MYTlxdjF2V2J1RXFKWjNqMl9oUnRBbGNGYmxGM1J3WU9FUXhxemF3UnJkamp0bGlPRjN1QlFTVDhoeG1wbDZwVi1mdVIy?oc=5",
-     "source": "العربية",
-     "time": "2026-11-20T07:57:00.000Z",
-     "seen": "2026-11-20T12:23:09.663Z"
     }
    ]
   }
