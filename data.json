@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:31:45.186Z",
+ "updated": "2026-11-20T02:41:45.256Z",
  "minute": [
   "تناولت الأخبار تحديثات أسعار البنزين والسولار وسعر صرف الدولار أمام الجنيه في البنوك المصرية.",
   "على الصعيد الدولي، اختتمت قمة بين قادة الصين والولايات المتحدة وروسيا بإعلان سلام وتعهدات بشأن المخاطر النووية.",
@@ -10,7 +10,9 @@
   "at": "2026-11-20T02:21:44.940Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-20T02:41:45.256Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5353,
-   "change": -3.89,
-   "asOf": "2026-11-20T02:21:47.000Z",
+   "value": 5345,
+   "change": -4.04,
+   "asOf": "2026-11-20T02:34:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6112,
-   "change": -3.89,
-   "asOf": "2026-11-20T02:21:47.000Z",
+   "value": 6102,
+   "change": -4.04,
+   "asOf": "2026-11-20T02:34:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3539,
-   "change": -3.98,
-   "asOf": "2026-11-20T02:21:47.000Z",
+   "value": 3533,
+   "change": -4.13,
+   "asOf": "2026-11-20T02:34:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0971,
-   "change": -0.01,
-   "asOf": "2026-11-20T02:31:45.000Z",
+   "value": 1.0973,
+   "change": 0.01,
+   "asOf": "2026-11-20T02:43:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.82,
-   "change": -2.35,
-   "asOf": "2026-11-20T02:20:18.000Z",
+   "value": 89.89,
+   "change": -2.27,
+   "asOf": "2026-11-20T02:33:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61483,
-   "change": -2.39,
-   "asOf": "2026-11-20T02:31:43.000Z",
+   "value": 61607,
+   "change": -2.19,
+   "asOf": "2026-11-20T02:44:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "إيهاب الكومي: هزيمة منتخب الناشئين من اليونان لا تعكس الإمكانات الحقيقية للاعبين",
+     "url": "https://www.elbalad.news/7187503",
+     "source": "صدى البلد",
+     "time": "2026-11-20T02:31:53.000Z",
+     "seen": "2026-11-20T02:41:45.256Z"
+    },
+    {
      "title": "معتمد جمال يرفض إضافة عنصر جديد لجهاز الزمالك",
      "url": "https://www.elbalad.news/7187491",
      "source": "صدى البلد",
@@ -150,14 +159,6 @@
      "source": "صدى البلد",
      "time": "2026-11-20T02:29:37.000Z",
      "seen": "2026-11-20T02:31:45.186Z"
-    },
-    {
-     "title": "تفاصيل غضب لاعبي الزمالك بسبب مستحقات الأجانب",
-     "url": "https://www.elbalad.news/7187489",
-     "source": "صدى البلد",
-     "time": "2026-11-20T02:10:51.000Z",
-     "seen": "2026-11-20T02:11:44.566Z",
-     "impact": "يهتم به متابعو نادي الزمالك والأوساط الرياضية في مصر لمتابعة المستحقات المالية للاعبي الفريق."
     },
     {
      "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
@@ -292,6 +293,13 @@
      "impact": "تتيح للمتعاملين مع البنوك في مصر التعرف على أقل سعر صرف متاح للدولار."
     },
     {
+     "title": "الذهب يفقد 3,700 دولار.. هل يستهدف 3,600 ثم 3,500 أم يقترب من ارتداد مفاجئ؟",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxbkdBUzlWejN1OEhDVU1xT2NpeFczWU80VGd0OGJ0S0dHV3ZGX3ZpNUZnQkdyLVdhQ3BYZ21ZSjlmRTZHWWVwdDBHZHNKaFYzOC13S2tBZ2VrenBVUXFZQg?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-19T22:45:23.000Z",
+     "seen": "2026-11-20T02:41:45.256Z"
+    },
+    {
      "title": "هل تواصل الانهيار؟.. آخر تطورات أسعار الذهب اليوم الجمعة 20 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNTG9uRF9KOWFtU0p0T0VDX1puZVFsYUJudGp2SzhaTTZEZ3dMLWJWb0p5ekRTZVpXcmczUUQtZ0tmb0hoRl9uWWdDeDlTaXZBVkRxWU93WjNlT0RpYW14SVNtUExVTHY4SWhMeEVfTVB3X0VCWnRjY0NkaFlaeGxkS0hiUG9qaEpSclZLWTlxSWtKV0pwMjhoMFlENWFucWMwNXVZSXJyQ29EMnUxWDdXVXpIRlRuOVpISFZTc0pzeEc0RDFlVHJvSGJKS3RYOTBneUdJdDdjd2drOU5zRzhJRmFUc2Vqb2o3akRxNlBfZnNMeTBDT21BNDRMVWVzY3hXUmczdFZqRVN0cmM1QkpyOTgwdVFWbUFEUkxYd0NEYjVYdkQwaXZ3YWhFZ0p2MmwzLXo5WEs2T2pDWE41ZzZSN3F0YnRPUXgyLWZDTGF3R0RWTDFYV2ZPYWt4cG1hZ2J0WmhQaVlJcWxCUFlwRHp1MEJxWERWSHQyUUk1RDFlWEVWTzE4TmMtaFJfU2w3cHdJMUgyR2QtdnQ5MUMzbFBVNF95Y0trdGpYWjV0MkpESFU5YVpQTzRvUnFOWjJZT1FQVVhvOEdxalpzdTZMeS1IOG5n0gHMA0FVX3lxTFA3X2NrcTN0OXFnUi1wUERNd3R4N3ZQSHg0aUJKWlVjVVNaYVk4QVV5LWJMN1dmYzN0dVJJVndTaUd5ejF1MGgwRlNtS3hlc2dIdF85am9FSGpLbjFIdVFwY2JEcVFHMkFjYks0dzJteW5VdU9qTDNERkRPZ3k2a1IwOGJWTjFZZ0ZyZDBpWExWcmVRMmg0VmV4amVCS2hlbjJSR2dTMDZfdkNKLTZUUzk5bVBuanJoX1V2dFpXZFlPN0tqQTQ1ZzNuSVBEV21Rbnk5cW5SbE5XVGVoMFhNTHhEN0RiTU5Ib09OQ3pYQUZHZ0NtNHNmNlV6elRLdEMwZDVPRFoybGRvZWVYa1M3QjdXUEl1V09DRFFEb2ZWeUVCdUFGZ3EwS1k2d1hzb09FVGluaFdjUVlpV3FNLTc3UjU4MWxRTFB6RDVhYlBqNktJeFBBb2ZJR0R5ODIwM2Y1dXJDdG9ROVVnS0R6M3FoTlpPQktmMjV2a19rUncweEJGdzJOY2F6c2wwdkprNFVaWURNNF9UVXdhZ1ZFQl9CTFpwQnhINjhRamNwX1ZadXdfZktmSUplemJHTFNkRnNINmM1UzJuMWJaR0tVUlc?oc=5",
      "source": "اليوم السابع",
@@ -342,14 +350,6 @@
      "source": "البورصة",
      "time": "2026-11-19T20:46:51.000Z",
      "seen": "2026-11-19T21:50:06.794Z"
-    },
-    {
-     "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
-     "url": "https://www.bbc.com/arabic/articles/cjy5xn34lp3qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T19:48:57.000Z",
-     "seen": "2026-11-19T16:29:49.941Z",
-     "impact": "تؤثر الهجمات والتصعيد الإقليمي على تقييم المخاطر واستقرار الأسواق التي قد ينشط فيها المستثمرون."
     }
    ]
   },
@@ -384,6 +384,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-20T01:31:29.000Z",
      "seen": "2026-11-20T01:41:44.990Z"
+    },
+    {
+     "title": "عملية \"فجر اليمن\" تتواصل.. وخسائر جديدة في صفوف الحوثيين",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPbzh6QUt6VmdEcTZCUTRJZEdEVGwxX2xxc0tCeV95X3JQeVNxZllwamhYbmtwQmJSV2I4UGN1WVI1SW1uemlwM2NMLW9oUmdsSWpmczhvTV9pUkhmbWxJbzhSSHZLUTlBQzl3RzhmcENMbTdUTFNIOXVyX2ctV1NJTWJpeFlXUmsycnU4N3JZZmpHMlJyVm1UTzFHRjkwaXo2bWlDdEQ1cG1rMWVPTXdZRjEtV2ZOQTc3bTlZckRaNVFyQkM1MnRQRHZwMDVjRU83TzROVzgtM2tSVGo2N284Q0VNZzFVS2JkYWFMYTJCQmxhZzRoR1E5SUlqRmtlSldJWURXMXVxazJJOWJyUl9OMHlkd0VqY0hfMjVvMzRpVHFaajF0aTZEZE5jYWk5a1N0RmpoM3VwUnFPMDJOTml3c1d5d1NycUgweTAtTVNJR21TSGtQTE9HMlBHZktZSlVCN3Vld01xUTh3VEVjcHEwSTV0OHFFUFA1dHNQZTZ2bzVRMlk5MlFJUEFTbU9TQnMyY3dIN1dxUVREUVkzVWR3a1ZfMGR3RTY4ejJ3ampOM2FQLXNUWEkwQ1JUOG9TVmFZcHdxUWJTTUdicHFrZmdBTUpJd00?oc=5",
+     "source": "العربية",
+     "time": "2026-11-20T01:21:00.000Z",
+     "seen": "2026-11-20T02:41:45.256Z"
     },
     {
      "title": "قمة شي وترامب وبوتين تختتم بـ\"إعلان سلام\" وتعهدات للحد من المخاطر النووية",
@@ -448,13 +455,6 @@
      "source": "DW عربية",
      "time": "2026-11-19T22:10:00.000Z",
      "seen": "2026-11-19T22:20:07.230Z"
-    },
-    {
-     "title": "الصومال تطرد السفير الإماراتي .. وأبوظبي تندد بالقرار وتصفه بـ\"غير المسؤول\"",
-     "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxOSEwxX2VycEluTzA5aDE1eXFwaHIwaHQ1NDZYeWJKRVctVWo1cmhQWDctUEVya3RrZjY5QlkxS1NGTWVvQ3kxWDQ4b1NJd1A5Y1E0eHMtd3Bvb0hhNGFLYUxraXZGZlMxNUYySFBBc2dlMk9PUDl2SURQeTBGVWFaWlljMVhfVVJMa1Jzc2ZXMkI4eFhxNEZfbkxSTGM1OFhobmQzRlZ5b25VNC1QcUh0MHpDdE1xRmFET1lFWmRVa0wzdno3ZGpLQVdUczVqazZzQldtNmx6cGNVeGlxSlZha2t1YmNhQjdHeTRZVVROTEY5di1qNHZJTmV6OXNJaFZJVWxWUUVQd0EtVGJpdmszSlJYV25QX21sVG1sZUZBUkt6UVQzeGZtM01xLVk1RE16eGhFUUlRSDMtMC1UU1lpYTRSUVFGNDdJZ2RJaFdkX0FZN1hQbFNvdVgxUC11cURYVWxoR1BTQnBlR1d2bmItblV1R05wUncxbnFMZk11ZE5DX1U2VDF1LVVFdUFCN0lrbEpPNVJabkNhQ2Y4MUcxSEcySDRYUF91OEd3OHgtMElFYzZCTktqMHFLLThraEZaRy05cnh0TmJwbnVDRkNCRUwzMlJZTUJhWmhjUUxXYkZBUnhwOG42NExwdTBJekhpQ0M2VFk1STRqSWF3VjAxbHZlYWVmVmktem9HeTgtVlhkWjJmTk14MTl2WExXdU1QWnYySFN3cHd2TnJWYlExdVZpSVVjUXJTZ18tVtIBvARBVV95cUxOalh6U0hvdi1rQ3JBZGZ3U0dTQkJXOTBLVnhReUh3QjQxQWFWQjRyNjM2aS0yOEM4RU5GdlpaYlZoQW5KUDRZeHpzal80c1hPcUFpLUJyZ1JQQjRSZTFIUFN3aU1tdklsQXpXcFRxaDFoSzhFM08tcTBzdGZaRUJ5c2luY016cGJnd2hDcXRmdGRZeHlnVGhBWXQ0Q3NnQ3lGOHExQ2ZhWWxtSFdqYno5MHlPS281Tm01WGw5SUw0V1R4eWtsZExUZzh2Q2NPeE0wbExXd0tWN0xCWk92MDdNRjUzeGRtLXZGNjdkam11VDI1cEVreDVzRldXQUVPeXFsNFpZNWJON2Jlb1RiN3lGVElnTWJRUkVmMTRsWDhXVnR5bEdnZ0N3c1Y5UG5PLVRVQzdoZVhLMTRFNGwtalB6YWUtSUEzbVpGMHlsdmNyOWtxM3hOejR2M2MzN0hRZXVtdkFkS2xZZTQzZ3dXOVc4QUU4WUItNGVrdTN6U3N2ZmIxa2hTQVhfZ3EtQXdXNVFMQjlLUkU4d3B1cU90Qlp0ZGtCQU82MHlueEg5b3RYQi16MG0wRHVkYUl2aUZiSlNYbnlyeS1YMFJsZ3IwN0tIY0hIYzh0UWdtNWRJRGMxUmVPbEV5MU95T0ZucHJuYTZhbWF6djdJRUdmQ1JtRy1OV0JqMTh5SDlWTHlmN3dDa0pBdmR2d1hxdzducFhQX3Zwczk2ZTM5aTlOanRZbEtMN1lXdXlfWmlmX3J1MQ?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-19T22:09:35.000Z",
-     "seen": "2026-11-20T02:31:45.186Z"
     }
    ]
   },
@@ -466,7 +466,7 @@
      "title": "ملف أمن الطاقة... أزمة تتجاوز حدود الحرب الإيرانية",
      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOSHUxb3A3dXF4Zl9RMUZNNzNfckRWOGFtT3d3czJ5bVZPV3dWMktIUlF4MENKTm55enNMeEVNU01QMnZ6azROODJUeWo3NnJ3aEc3VFJUTW9CSzhvemNDMm5mYVdKOHhjT1B4LTIwYU1jZ01fVzUwY3ZDZllFY2kxQjR2SmVfWUVtc19wYXRVcG1wbG00YmsyanVXVzdLRzdsN0FhWGUzUlUtZXhyTW5HenFhV0V0NjY0VmdTd0JVV0c5dHV6TVRKeUFubmxsREhNTzE4UTMyUFFMUjVxUkN2QXRoeDdNbEI1M3lDNmNxZjltZGpvcXF6VzdGdHZLbkxicFd0REN0U1dldTNUR1A2OHdWUEZPUEt1NDlkQXRNU3gwTGV0OGEzUlpoOU5TU2pCWnIzc2dXb2hiZFAyUTVqeFhCbFVZTUlaVzc2UXg3QkZ2X3B4LUVYdWR5Zi1YbVIwX3RqMFRvRkJoQXlPNWlxc3VKMm5KQzdxVlFjQTJpWkZFNmlnMExBTVFPT0N1ODNLZnZtdWdZRnppM2RfQ2JlaVhvTHB6MlRnRzNNaEoyWk1ldkFTWmNyMTFmall0eC10eUxHTjFmYlVYeVVLOWdzOWloZHJEam9FWHEzMGFDSmptbjRT?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-19T23:56:44.000Z",
+     "time": "2026-11-20T00:28:03.000Z",
      "seen": "2026-11-20T00:20:07.323Z",
      "impact": "يهتم به المتابعون والمستثمرون للوقوف على تطورات أمن الطاقة وتأثير الأزمات على الإمدادات."
     },
@@ -502,6 +502,14 @@
      "impact": "يهتم به المتابعون في مصر للاطمئنان على سلامة الطاقم المصري وتطورات الملاحة البحرية في البحر الأسود."
     },
     {
+     "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
+     "url": "https://www.bbc.com/arabic/articles/cjy5xn34lp3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-19T19:48:57.000Z",
+     "seen": "2026-11-19T16:29:49.941Z",
+     "impact": "تؤثر الهجمات والتصعيد الإقليمي على تقييم المخاطر واستقرار الأسواق التي قد ينشط فيها المستثمرون."
+    },
+    {
      "title": "الزيدي يشدد على الانضباط العسكري لتعزيز الأمن في جرف الصخر",
      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPeTJiaGFveXlfeFZaYkYwRWlsaUp4VE1RNFdZdGQyOWIzYWFELUtZTDdaYV9WQnhDSzF6RWtfbWxGRXBwdVJtU0VabFJpY3NoTUMzNFh0dGpVR0h2WU55MS1ZTWNQY2hmVS15VTQxNEdYX3U0YlUwUG5hY2NkUkgwUDQ2Q2ZhaEhWbEFKTVdkM1hBbDA2N1hrVUU0MC1sV1NEM1MtSTY3Q3Y3RFZaWlNHNU50NW1VWkVXbmZyd2Y1V05nWEZfeEh4cU1Ob19CWTFXOXJZc05wcF9PV0Rub1FuOTV2ejhvLU1LcmpleWN3TjlrRzI5OUM0ZEVxcmhYbkV3RjhwOXhLVG5zc1FZc3ExdjBsLVJiS3pRVFF6T19GUDRUbUpqN0FPY09RbFpab2tyRWxpRFhmbE5vS0J2SkRHcGloUER4N2Y2Mi1QT3hGT3hoWjFYZmp0STZET3RpT2hRRnFGQ2xvdk15X0poMU1jcFJtNFhxSEdKYUlxbWpoWGV1Qnk0WmE3bm9Jd0lMYk5HTVZoVkRjZVRSM0lpcWVlMG1zMlN4a2pWdExLcGU2R2pBWGhYNGdNc1ZQQktjaHhKdjg0TWt0WTRMSVFSU1FiSkVkTkU1Z0J2a1o3d0tCMlB4RkZvVjRONmdERG9xeXlNX1BtTEJVdEplUTNDTjdiWUppVDN4aWFkSVREMFp0SVlieV9DQW92dFBhY1ZlN092ZFl0VVBETWRrdlljYmlVdDNVUkxVamNWZllSbVNseFB6UVh5eTMybkNfdDZHTHBrajBnZk5B0gHbBEFVX3lxTE1CWnhmcGNtY0VhMERfZmVoYk9sUnZpbkQtV1lldjU1YVBCZjhTWWpGMzl0RGRjUkEyd2UyRGJ1TXVOLTdCdjQ5MUpMWjdoUUVNV1d5Rk00OHdJb2VWUGI5X1lsYWpFNGVmREFLZkFEVlJTRWxiNmZ4d0JSZnVDbHNiU1ZTeE5odW1rMUcyeVJWM0dZWU1xOW5uMUpIMHZfR1RNMkVjVWlXX3RmQlBDY01QWFB0Szd3THRKdlhfVEgzU3QwbW1lSUEzWW5OZWhYVXFEbk5NQll3UThPMnFEbWliamdSWFpZZTlpVDQzbU9VMXdzMG9BRUZQS2s3OGdPVGw3U3RJQ3hHS1FFR1JRUFNxaFpNTDBFM2ZXTFhDWkRlQ25Jcy1uaVRxdUItd1hwLWpwNi12R01xdzNGYmRWSXdyeXBleC1JeV9tY1ZzcFAzVjBJV2VNYlN6MG12X2x4R1BweVFVYWZmZHNONGlzSXJnc0lOX2g3SzBxeFlLcTNHUW1mOWROVzFXOXo0bEg3R3otWDZIQlpCOE1hX3dMbUs5N3ZhcmRJNVcwSUtZTDNwd0R2QlJXTUNfYXdZZFJZXzU1ZmNFLTIzcmw1T21WX0puREl6ZktrT29hWFltLW9hd3d0VmJsUy02VF9wdFpxVjd6dERtbk8tbGJ6NV9BWEVEQmhGOUxrRjJ3cG85XzVRNmVmcTJRRnVwcjJoenk1T0J6cEhfZEVoUGtsV2dwSm80QWVudzJvdkJpdDAwZ1FtYlZTNmg0djZRcW9PNlFwRWpSVWdRNWFfRTJBbw?oc=5",
      "source": "العربية",
@@ -530,13 +538,6 @@
      "time": "2026-11-19T18:51:20.000Z",
      "seen": "2026-11-19T18:59:49.436Z",
      "impact": "تساعد متابعة تقييمات وأسهم شركات التكنولوجيا العالمية المهتمين بالاستثمار على فهم اتجاهات الأسواق المالية."
-    },
-    {
-     "title": "ترامب وبوتين وشي يصدرون \"إعلان سلام\" في ختام قمة تاريخية",
-     "url": "https://www.bbc.com/arabic/articles/ckq6egn696yro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-19T17:51:46.000Z",
-     "seen": "2026-11-19T17:59:49.634Z"
     },
     {
      "title": "من غزة إلى ميناب والصومال.. هل يضاعف الذكاء الاصطناعي ضحايا الحروب؟",
