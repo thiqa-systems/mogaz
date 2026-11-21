@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-21T08:16:02.362Z",
+ "updated": "2026-11-21T08:26:03.109Z",
  "minute": [
-  "شهدت الأسواق استقراراً في سعر الدولار بالبنوك المصرية مع تراجع أسعار الذهب وانخفاض أسبوعي لأسعار النفط.",
-  "أعلنت مصر عن مهلة جديدة لمدة 6 أشهر لتقنين أراضي الدولة والتصالح، وإطلاق معرض ديارنا للأثاث بالمنيا بتمويل ميسر.",
-  "وعلى الصعيد العالمي والتكنولوجي، استمرت التوترات العسكرية بالمنطقة إلى جانب تسجيل اختراق إلكتروني جديد لهيئة الـ إف بي آي."
+  "أكد الرئيس السيسي على دور إفريقيا في صياغة قواعد النظام الدولي ومواجهة الأزمات التي تهدد السلم والتنمية.",
+  "أعلنت شركة شلاتين في مصر عن طرح مزايدة للتعدين الأهلي عن الذهب تشمل 10 مناطق خلال ديسمبر.",
+  "ارتفع مؤشر الخوف في وول ستريت لملامسة أعلى مستوياته منذ اضطرابات الرسوم الجمركية، وسط متابعة لتحركات أسعار العملات في السوق المحلي.",
+  "شهدت الساحة الدولية توترات أمنية بهجمات صاروخية واستهداف ناقلة بحرية، بالتوازي مع نقاشات أممية لتقنين الروبوتات القاتلة."
  ],
  "ai": {
-  "at": "2026-11-21T07:36:02.741Z",
-  "model": "gemini-3.6-flash",
+  "at": "2026-11-21T08:26:03.109Z",
+  "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T08:16:02.362Z"
+  "impacts": 10
  },
  "markets": [
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57801,
-   "change": -1.7,
-   "asOf": "2026-11-21T08:18:10.000Z",
+   "value": 57560,
+   "change": -2.11,
+   "asOf": "2026-11-21T08:26:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,50 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سيدات «منشأة فاضل» بالعياط يجمعن 270 ألف جنيه خلال ساعتين لإنشاء مركز طبي خيري",
-     "url": "https://www.elbalad.news/7188543",
+     "title": "الرئيس السيسي: إفريقيا يجب أن تكون شريكا أصيلا بصياغة قواعد النظام الدولي",
+     "url": "https://www.elbalad.news/7188553",
      "source": "صدى البلد",
-     "time": "2026-11-21T08:14:03.000Z",
-     "seen": "2026-11-21T08:16:02.362Z"
+     "time": "2026-11-21T08:24:32.000Z",
+     "seen": "2026-11-21T08:26:03.109Z",
+     "impact": "يعكس تأكيد مصر على مكانة إفريقيا الدولية توجهات تعزز التعاون والتكامل الاقتصادي والتنموي في القارة."
     },
     {
-     "title": "لأول مرة.. بدء بث النماذج الاسترشادية لامتحانات الشهادة الإعدادية عبر قناة «مدرستنا2»",
-     "url": "https://www.elbalad.news/7188542",
+     "title": "الهيئة القومية للاستشعار من البعد تعلن فوز 5 مشروعات تكنولوجية.. تفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/21/الهيئة-القومية-للاستشعار-من-البعد-تعلن-فوز-5-مشروعات-تكنولوجية/7626644",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T08:24:00.000Z",
+     "seen": "2026-11-21T08:26:03.109Z",
+     "impact": "يوفر فوز المشروعات التكنولوجية فرصاً لدعم الابتكار والحلول الرقمية محلياً."
+    },
+    {
+     "title": "وفاة اللواء إدريس طرام أحد أبرز رموز مطروح.. أول ضابط شرطة من أبناء المحافظة",
+     "url": "https://www.elbalad.news/7188551",
      "source": "صدى البلد",
-     "time": "2026-11-21T08:13:09.000Z",
-     "seen": "2026-11-21T08:16:02.362Z"
+     "time": "2026-11-21T08:23:26.000Z",
+     "seen": "2026-11-21T08:26:03.109Z"
     },
     {
-     "title": "وزير التخطيط يصل محافظة السويس لتفقد عددا من مشروعات الخطة الاستثمارية",
-     "url": "https://www.youm7.com/story/2026/11/21/وزير-التخطيط-يصل-محافظة-السويس-لتفقد-عددا-من-مشروعات-الخطة/7626628",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T08:12:00.000Z",
-     "seen": "2026-11-21T08:16:02.362Z"
-    },
-    {
-     "title": "هيئة بحرية بريطانية: إصابة ناقلة بمقذوف مجهول قرب عمان",
-     "url": "https://www.elbalad.news/7188537",
+     "title": "الدولار بكام..أسعار العملات اليوم السبت في مصر",
+     "url": "https://www.elbalad.news/7188554",
      "source": "صدى البلد",
-     "time": "2026-11-21T08:10:10.000Z",
-     "seen": "2026-11-21T08:16:02.362Z"
+     "time": "2026-11-21T08:23:03.000Z",
+     "seen": "2026-11-21T08:26:03.109Z",
+     "impact": "تساعد متابعة أسعار الدولار والعملات اليومية الأفراد والمستثمرين في تحديد تكاليف الاستيراد وتسعير السلع في مصر."
     },
     {
-     "title": "النشرة المرورية.. سيولة بحركة السيارات بمحاور القاهرة والجيزة",
-     "url": "https://www.youm7.com/story/2026/11/21/النشرة-المرورية-سيولة-بحركة-السيارات-بمحاور-القاهرة-والجيزة/7626601",
+     "title": "فخامة الرئيس السيسى: أفريقيا تواجه أزمات ونزاعات تهدد السـلم والاستقرار وتقوض مسارات التنمية",
+     "url": "https://www.youm7.com/story/2026/11/21/فخامة-الرئيس-السيسى-أفريقيا-تواجه-أزمات-ونزاعات-تهدد-السـلم-والاستقرار/7626643",
      "source": "اليوم السابع",
-     "time": "2026-11-21T08:00:00.000Z",
-     "seen": "2026-11-21T08:06:02.605Z"
+     "time": "2026-11-21T08:21:00.000Z",
+     "seen": "2026-11-21T08:26:03.109Z",
+     "impact": "تسلط تصريحات الرئيس الضوء على التحديات التي قد تؤثر على استقرار بيئة الأعمال والتجارة في إفريقيا."
     },
     {
-     "title": "رئيس الطائفة الإنجيلية يشهد انطلاق ملتقى الفكر السنوى للهيئة القبطية الإنجيلية",
-     "url": "https://www.youm7.com/story/2026/11/21/رئيس-الطائفة-الإنجيلية-يشهد-انطلاق-ملتقى-الفكر-السنوى-للهيئة-القبطية/7626619",
+     "title": "شريف فاروق ينعي نجل مساعد وزير التموين",
+     "url": "https://www.youm7.com/story/2026/11/21/شريف-فاروق-ينعي-نجل-مساعد-وزير-التموين/7626633",
      "source": "اليوم السابع",
-     "time": "2026-11-21T07:52:00.000Z",
-     "seen": "2026-11-21T07:56:02.214Z"
+     "time": "2026-11-21T08:20:00.000Z",
+     "seen": "2026-11-21T08:26:03.109Z"
     },
     {
      "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
@@ -243,11 +246,28 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "مؤشر الخوف في وول ستريت يلامس أعلى مستوى منذ اضطرابات الرسوم الجمركية",
+     "url": "https://alborsaanews.com/2026/11/21/2007842",
+     "source": "البورصة",
+     "time": "2026-11-21T08:16:09.000Z",
+     "seen": "2026-11-21T08:26:03.109Z",
+     "impact": "يشير ارتفاع مؤشر الخوف العالمي إلى تقلبات محتملة قد تنعكس على أداء الأسواق المالية واستثمارات المحافظ."
+    },
+    {
+     "title": "الصناعات عالية التكنولوجيا في الصين تجذب 37.66 مليار دولار استثمارات أجنبية",
+     "url": "https://alborsaanews.com/2026/11/21/2007840",
+     "source": "البورصة",
+     "time": "2026-11-21T08:07:36.000Z",
+     "seen": "2026-11-21T08:26:03.109Z",
+     "impact": "يوضح التدفق الاستثماري في التكنولوجيا بالصين اتجاهات حركة رؤوس الأموال العالمية نحو القطاعات التقنية المتقدمة."
+    },
+    {
      "title": "\"شلاتين\" تطرح مزايدة للتعدين الأهلي عن الذهب تشمل 10 مناطق في ديسمبر",
      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOaGtzalNtbDlaNEJCRENFMVd0OGFlU3lVMDhoYVFSS3RZa25PQzB4Z2hFRXpPLXY4eWRlMFRNWGFuNDlqenBINnlxUnJuWU5NZUMxcjdEVFVVc1hGazVLUVlYcnYtbFlpc28xLUllbDY4WWFETkE4TWxyQi1sR24xMHRmTDVVMXRVaUliVWRaS1lPYmxhLXZsbUFhTUNpV3ctX2wtMVhSd2g3M3ItR3dkczJwMUZEbWl4NmtMOXhoYjZUR0RDWUswLWI0LWhfOEJyTTNnU1V3cTdrVWoyNWdMb2VEWS1QSFBwUGVISDZZeEJZRXFwV1laN09yWnN3SHloTHB2Z3dDQzktS1p0ck1FVXMzbC1LcEVQbEVqUFlsUlgxc0d5UElMcEt0bjJjblVNMlU0NU9MbFY5N29oQkgybGZQUUltMVBrT0JTOXRzUktKRVN2a2NZaG5ZajVfcXdGd0NJZjdQZF9OVEdLZTdYS0JfY0s5Ylg4eDFUdC1feEFHMXNzOXRKTktCR1puTzg1QW5xcVh1bFlSZlFJUTc4VUx4TlAtN08wRU8xa0F3bXAteE1mZjNiWFgzNXZsSVBScFcw?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-21T08:04:06.000Z",
-     "seen": "2026-11-21T08:06:02.605Z"
+     "seen": "2026-11-21T08:06:02.605Z",
+     "impact": "تفتح مزايدة التعدين في 10 مناطق فرصاً استثمارية جديدة للمشتغلين بقطاع الذهب والتعدين في السوق المصري."
     },
     {
      "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
@@ -261,7 +281,8 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jdXpUYW1lS09YYnVCY3hqWkxRZlFFMnV2NXBxMEZqMnZjdUZQVEZUTkV1dk4wMjFONzFyRVlXMWNBVWJuQzJv?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-21T08:00:00.000Z",
-     "seen": "2026-11-21T08:06:02.605Z"
+     "seen": "2026-11-21T08:06:02.605Z",
+     "impact": "تحدد أسعار العملات الأجنبية تكاليف المعاملات الدولية وتؤثر مباشرة على القدرة الشرائية وميزانيات الشركات في مصر."
     },
     {
      "title": "سعر الريال السعودى أمام الجنيه اليوم السبت 21 -11-2026 في البنوك المصرية",
@@ -283,6 +304,13 @@
      "source": "جريدة الدستور",
      "time": "2026-11-21T07:57:19.000Z",
      "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "سعر الريال السعودي في مصر اليوم السبت 21/11/2026",
+     "url": "https://alborsaanews.com/2026/11/21/2007836",
+     "source": "البورصة",
+     "time": "2026-11-21T07:56:20.000Z",
+     "seen": "2026-11-21T08:26:03.109Z"
     },
     {
      "title": "سعر الدولار في مصر اليوم السبت 21/11/2026",
@@ -313,35 +341,12 @@
      "seen": "2026-11-21T07:26:02.387Z"
     },
     {
-     "title": "أسعار النفط ترتفع بالختام.. لكنها تسجل خسارة للأسبوع الثالث",
-     "url": "https://alborsaanews.com/2026/11/21/2007826",
-     "source": "البورصة",
-     "time": "2026-11-21T07:17:02.000Z",
-     "seen": "2026-11-21T07:26:02.387Z",
-     "impact": "تؤثر التغيرات في أسعار النفط العالمية على تكاليف الطاقة وأسعار المنتجات للمستهلكين والمستثمرين."
-    },
-    {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026.. استقرار جديد بالبنوك",
      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPRjQ1WER0aHJZay15cURKbkhoZ0d3WW9IZFB2enpQUFpld1hUcUQ1MFJGT2FXRnM5S1JxenNaaS1MSW1jeFJfV2lOWHpVT214SEZKaXVVRkdVN0QzMmJWU2RWSk9qWjNxYXNoSGE5Zmp4VHdPc1ZwemNqNkFYdHYyc25SOV93dVhEWENxUFJCYmxaYnc4cEk2SEJWc0RydTdWNDBMb2RONnROU1MtaWFtZERIMGdMUVV4cWRESlpSbjV2T3p6SGVxVmhkYXhZZjRfTVQ2UHQzdFhPcHVxd0ozVFdtSnpXRUNRMGswQmJsZVlWWWt0ajVIc3lTRmtvWllKM0RkSzNmdkJDdU5UcHd4aGQzRHZTUzFDM2tnQ2NOMUF4LWVtMXBYTkRRclM0TVhSVDd4bGpqX29IaVk?oc=5",
      "source": "قناة صدى البلد",
      "time": "2026-11-21T07:15:11.000Z",
      "seen": "2026-11-21T07:36:02.741Z",
      "impact": "يساعد استقرار سعر الدولار بالبنوك على ثبات التكاليف المباشرة للمستوردين والتخطيط المالي للأفراد."
-    },
-    {
-     "title": "أسعار الذهب تتراجع 4.5%.. وتتكبد أعمق خسارة أسبوعية في 8 أشهر",
-     "url": "https://alborsaanews.com/2026/11/21/2007824",
-     "source": "البورصة",
-     "time": "2026-11-21T07:13:17.000Z",
-     "seen": "2026-11-21T07:26:02.387Z",
-     "impact": "يتيح تراجع أسعار الذهب فرصة للأفراد والمستثمرين الراغبين في الشراء بتكلفة أقل."
-    },
-    {
-     "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
-     "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T07:13:14.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
     }
    ]
   },
@@ -354,14 +359,23 @@
      "url": "https://www.skynewsarabia.com/middle-east/1906181-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%A8%D9%85%D9%82%D8%B0%D9%88%D9%81-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%82%D8%B1%D8%A8-%D8%AE%D8%B5%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T08:00:51.000Z",
-     "seen": "2026-11-21T08:06:02.605Z"
+     "seen": "2026-11-21T08:06:02.605Z",
+     "impact": "تثير الحوادث البحرية مخاوف بشأن أمن خطوط الملاحة وتأثيرها المحتمل على تكاليف الشحن البحري."
     },
     {
-     "title": "الأمم المتحدة: بعد محادثات شاقة...اتفاق حول فرض قواعد دولية بشأن \"الروبوتات القاتلة\"",
+     "title": "مؤتمر الأمم المتحدة في جنيف: اتفاق حول فرض قواعد دولية بشأن \"الروبوتات القاتلة\"",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261121-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B4%D8%A7%D9%82%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AD%D9%88%D9%84-%D9%81%D8%B1%D8%B6-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-21T07:42:44.000Z",
      "seen": "2026-11-21T07:46:02.958Z"
+    },
+    {
+     "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
+     "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T07:13:14.000Z",
+     "seen": "2026-11-21T07:06:02.962Z",
+     "impact": "تؤثر التوترات الأمنية الإقليمية على ثقة المستثمرين ومستويات استقرار سلاسل الإمداد في المنطقة."
     },
     {
      "title": "فرنسا: \"فصل سادس\" السبت لتعبئة من أجل الشباب واحتجاجا على غلاء المعيشة",
@@ -407,6 +421,13 @@
      "impact": "التوعية بمخاطر الإنفاق الزائد في موسم التخفيضات تساعد الأفراد في مصر على إدارة ميزانياتهم المالية بفاعلية."
     },
     {
+     "title": "البصرة.. انفجار بمحطة كهرباء الهارثة وأنباء عن أضرار وضحايا",
+     "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNYWxYQ0h2d0swZFRFUzRkWkY5ZzZzbVRxMWtaQTBGUGpJTFpUakZuX2FrdDFfd2JTSml5bHc5RXJHRGVpY3BfRkZ3aWF1NXlvS3BLdjQxcEdSSVA4ekE3Z0s4dUZOSFUzYjhQOThSb0MxYzQyN1VMZk1BWXNYLTRVU2U2QzRtc2NJbnpHRlh1OHJvV0NxN3lQR1FkT21iMVRhOXVIWW1LMmhVTW5mNUNBcm5fX0NrOU54QWo3TE4wUGFvdkJpOWNNZkFlelJkOGp4V0J0cVpVQVZLcHExVzJDQlpFZlpreEd6ZzRRZ1ZJLXN4cVJtcjlyMFlYVGtNaFRZRDBaZnh1OUZpR3R4aTg2aWVjTnZDQmJybkV0OGM1MmVRY0tvWFRHT0cxMjZzMEVVNzZQaUIxMnpWWUFVREVvalBZeXZFUDRkOVBxeHhKOFpieUhsZmRjb3lvWUNZeEMwUEdRdG1OVFlOQVpRQ2ZZX09mNjMzcE5qX2dvQXJ1U0dqa2xVaTZQWFUzTk9vUzdUdXY0XzE2SlRfVlJNQ3BEdzYyZ2JidmRXNFdGRk82Vjd6YUY0d3FsOGxGRmlfMWhkVFd4cEdOTWFSeWFQYnJFX1d0QlFuanl6YUtVT1BJdjnSAeYDQVVfeXFMUEZxWFhxRG1JRHU4ZnZoZk5wbkI5N1VkNmxVRHZ1cy04X3RsRVlkVWVoUWFZY0syUF91SGpzZHVuTm9kWEZpNXNkNlkzVVdMWnJiQVpsWHU3em8ybjRrTHg4b2xjaUVQRW1kMTU0cXhUU0luZHNFQUJwLTktY0ZvSWNRa1BOeWxYU1JVQkFGOHR5VGhSdmtEV29YOEFaa3JGOU4zbnlIRUdMN1JfcTR6TXZrQzl0RXpwME1HY1k4NF8wR3U0TEFxZnpfRXBncmZpeW5CdTF0ek9YOFVMVjdXR3RBSHNvUUJhZ3ozM2FFUDB2N2xrSUswbDhVaWpZckV2RF9jUG9mVXR6dFl2NUZ0MjFlM3pGZ1I2TTB1TGJhdXIxXzBDbHdZcXBYTWxnanExMHEzaGVPd3E3NkhZRmFQY203WDJkRkw1TTJCOXZ2WkhtcGc2d1ZVV2V5blo4bHlfSGZjVk9HY0VJSk42LUJDdHdmZklGdDcxYUstcGZ0RmRiTlFoNjNKeVowREVEQXZ4MUhWNDNoenNGV2ZFOWhROWprOEZyN1YzSkJ0eTQ3d3VGM29BZTlsVGh5R1dLMHJZVkhLdTUtejA0c3BvcW02RFZiQlk1U2ZRSWVia1V6VG9vTkFKNm13?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T05:47:38.000Z",
+     "seen": "2026-11-21T08:26:03.109Z"
+    },
+    {
      "title": "رقم صادم للأطفال في مناطق النزاعات .. والشرق الأوسط من أكثر المناطق تضرراً",
      "url": "https://www.dw.com/ar/رقم-صادم-للأطفال-في-مناطق-النزاعات-والشرق-الأوسط-من-أكثر-المناطق-تضرراً/a-79990792?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -421,13 +442,6 @@
      "seen": "2026-11-21T07:16:02.585Z"
     },
     {
-     "title": "البصرة.. انفجار بمحطة كهرباء الهارثة وأنباء عن أضرار وضحايا",
-     "url": "https://www.skynewsarabia.com/middle-east/1906175-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D9%85%D8%AD%D8%B7%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D8%A7%D8%B1%D8%AB%D8%A9-%D9%88%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1-%D9%88%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T05:46:16.000Z",
-     "seen": "2026-11-21T05:56:03.145Z"
-    },
-    {
      "title": "استهداف ميناء الحديدة في اليمن.. تقرير أممي ورد رسمي سبقه تحذير من التحالف بقيادة السعودية",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/saudi-attack-al-hudaydah-port-reactions-un-gov-coalition",
      "source": "CNN بالعربية",
@@ -440,13 +454,6 @@
      "source": "العربية",
      "time": "2026-11-21T05:06:00.000Z",
      "seen": "2026-11-21T07:36:02.741Z"
-    },
-    {
-     "title": "السودان.. موجة نزوح واسعة بالنيل الأزرق إثر هجمات للدعم السريع",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d9%85%d9%88%d8%ac%d8%a9-%d9%86%d8%b2%d9%88%d8%ad-%d9%88%d8%a7%d8%b3%d8%b9%d8%a9-%d8%a8%d8%a7%d9%84%d9%86%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d8%b1%d9%82-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T04:40:29.000Z",
-     "seen": "2026-11-21T07:56:02.214Z"
     }
    ]
   },
