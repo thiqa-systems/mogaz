@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:01:09.419Z",
+ "updated": "2026-11-21T19:11:09.542Z",
  "minute": [
   "تتناول الأخبار التطورات الاقتصادية المحلية في مصر من خلال متابعة أسعار الذهب وسعر صرف الدولار في البنوك.",
   "كما ترصد المستجدات التكنولوجية مثل إطلاق برامج للذكاء الاصطناعي وتحديثات الهواتف وتطبيق واتساب، إلى جانب نشرة حالة الطقس.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T19:01:09.419Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T19:11:09.542Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60004,
-   "change": 2.05,
-   "asOf": "2026-11-21T19:01:30.000Z",
+   "value": 60153,
+   "change": 2.3,
+   "asOf": "2026-11-21T19:11:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "هيونداي تكشف الستار عن إلنترا 2027 الجديدة كليا",
-     "url": "https://www.elbalad.news/7189212",
+     "title": "ألونسو بعد سقوط تشيلسي أمام ليدز: نمر بمرحلة صعبة وهشة",
+     "url": "https://www.elbalad.news/7189338",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:00:00.000Z",
-     "seen": "2026-11-21T19:01:09.419Z"
+     "time": "2026-11-21T19:10:54.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
     },
     {
-     "title": "أحمد موسى: الدبيبة دعا الرئيس السيسي لزيارة ليبيا 3 مرات.. والشعب الليبي يتطلع لاستقباله",
-     "url": "https://www.elbalad.news/7189331",
+     "title": "محافظ الغربية يتابع جهود رفع 790 طنًا من المخلفات والتراكمات بالمدن والأحياء| صور",
+     "url": "https://www.elbalad.news/7189316",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:58:48.000Z",
-     "seen": "2026-11-21T19:01:09.419Z"
+     "time": "2026-11-21T19:10:28.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
     },
     {
-     "title": "بعد 4 سنوات من النزاع.. براءة مريم مصطفى لاعبة الأهلي السابقة من تزوير التوقيع وإبطال عقد الـ3 ملايين جنيه",
-     "url": "https://www.elbalad.news/7189330",
+     "title": "حالة الطقس غدا الأحد 22 نوفمبر 2026.. الأرصاد تحذر من الشبورة المائية",
+     "url": "https://www.elbalad.news/7189348",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:55:31.000Z",
-     "seen": "2026-11-21T19:01:09.419Z"
+     "time": "2026-11-21T19:10:04.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
     },
     {
      "title": "المصرية لإدارة وتشغيل المترو والمونوريل تجدد شهادتي الجودة والسلامة للخط الأول",
@@ -181,6 +181,27 @@
      "seen": "2026-11-21T18:11:10.172Z"
     },
     {
+     "title": "أب وأم يتخلصان من طفلهما بالإسكندرية.. والمتهمان بالتحقيقات: «كنا بنأدبه»",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNM1RqeHRrQndIXzJ5dE1ucjYxUWwwT3dIbnFMN0hXNWt3SHphRUk5TmpVNnpDZ3JUTVQzcjA0M2RBakJUdUNqU25IR2o1NzFpZHVianRvYU5sdXNGRThF?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-21T16:12:00.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
+    },
+    {
+     "title": "من دمشق وحلب.. الخطوط السورية تعود إلى القاهرة",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPME0xOUs2WldFOVhNQXFMS2V4TkxLcVBDdGNBbVRlM2xTRVFxZXBTUERrbnVoZmlLSkdSSnBreEY4UVE3VHR0clZiWU81bzVzQ3NYeGVyY3dOZGJEbVZhcXB6OEhpaXRIcDBNZ19kRE9hcTJPQWZIVTlDaENHeUJzNE8yQm1SVEJ5STRDcTZpdG1RRmE2MTd1b25zVkpLOEt4Q1ZoeTd5cnZCaS16QWRFNWl6STNibkpsTkZjZU5fVElfRFBjOW1DUkdndmV6dTNiTFM3NkJhR1JuTS1uOHg2c2xiZWhsWUQwMlp3YXIwWS03NDlJbE9SN3h4WWVEMDBKV1NrMjdMRTdDa1VQSGhlWGlIMEdsLTNQZ2MxZ1NNRHNvNHZzdWdkRmVGNll4QlJDOTl0SjZLQ1ljNHdRRGNnemxTTmktMDlWbkJVRzh1ck5Hd01GN2tuOVlvSFdxUmVZMWFKTUlB0gHrAkFVX3lxTE1IamlrVnI1bGlXbVlna0cyWkpWa080V2YzTXN3ZEVLY1lEeGthUUFldV85MFN3VVRHTFBNWExxTFhXQTZZdWttZnBkVHpTRzFrN3JQYjhZbEtydzF1OE9wdXVkMFEybzNLVTNtVUlCcnpaUHBOQk5hUlRXVnloLTZMOUhXSWh0c19hWDlKM1JTeUlBN1UydFoxSDgxeHdkTldHakY4YXV3ZHFvejRkM24wV214ZXlleE91dGJjNmdtQkZFRGxKam5rdG1SWlh0ZmJvWTE5RkhhNDl4Tm9qNFlBc01hakttRldwbWhEem5iTUVTbFNlaTRhX3VqZEh1dUV1eXpZQXQ5S1ptNG85WVJVUkEwQ3h5b0tfZkk3TjRTd0dsOVdCSkxMMUMzUDYzUEs0ekEyWmh3dU5YRGd2djdaaTl1cFhmUnhJazRDV0Z6ZHh3N2RTUjhyUWRmWkJ4bkk3WmJpZE1IRF8tYw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T15:05:14.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
+    },
+    {
+     "title": "وزير العدل يقبّل رأس سيدة اشتكت له من خلاف مع جيرانها بسبب ركن سيارة",
+     "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxOUm1FY1hqYnBWSXQwSW9vSExaeHB5Zmt3RFpFVmhpeWdIVXdHcTBNbHFmVFExclBrV3VPR1BwT0JiZmRfdnFvTHUwdFFEbDd2RWFwSEI5dDQyaTBaVEIwRFRmM3g1T0RuMUtRd0d4X05DWnhiajJVNDZ2QWQxeUJDbjdCdzlBaGlUNDZrODdHT1BydWNCeXNaU3pKRlBJYXJoWXV0TV94NzM0bmE1dGlBVkF3N1hnM2xEbFc3WUxEZkUyLXYzQnVxTWJPYWJpTmFWc3FSLThFUzJYMDE4emlDNWU5NnBVSGVVaExYTEx4NDNPQUpnc1JqZXpMRTBwamMyc3ZqQktkV0piTmUzeDJUTy1rZGdQVWd6RTZNb3BpamhyRW0tcmJwOFFIN0sxalk2WXZzaGZNb1E1Z1BmYXZGNnJHRUlLVWMzVUdHVi0zTGdtS2gyWmRDeGUtSHdNVnJfOTdKc0pkMXZXVjV4MUFtVXdiekh5d1BnNGpNUHJsc2h3NmNtb0pzNXJMR3dMeUFZWE9zOE9aa1ExYnlHbWc4MVFwbVdYNVRqVmhhMDJyOXBsMGhpSkVod1VOQV9OcGtaTlNNSWtjZFQ2X2lFektsX2RmbFVLbG9RdHJpRWFMQmZveVlfb19lUFItXy1PSU4tUTc5R0hvODhHdjVCc005bHNQTTJ1QldlbDZRWkRVQjdEcjlvX2UtdkNKUThMNUhiMzlmdXp0RE94cXRPcDd3ZmNRRWxRM1Ntek9z0gHABEFVX3lxTE83SExxSEpNeVhqSk4zc2dwbG94ME5fRTlQTE9LRW54a1RJZHNEc3dGNTJTYlhQZFZSclpFZENfbVg0eWFkZy04RC1HVllCY1RlbEtFM2hScEJnY3FfZkZfb0hLQTN0SjBWVVltdFZZX2NoTFlXYzA1WUZFVGc0Z005alZULXJ1LUtjZ2FCTnN4azNWMnNHYVQ2c0p6SmU5UGpLQTN3UlZXQU9ydGhBVGFKU2JBNWR0ZVN2UlRSUDFYU3g4VjJwMnU4c3NNU1J6cGcteW1HSTROSENHRUpnZnVRNk04eHRuQjlsV0dDSXdCOEw2WmJwSi14bVQ2cGtZeXpGekxYOTdrYVlJaUx6OTAyUWRkOTJsTTVzS09XM19TanZJVmRsN0NYczQwZ0p6MHU5NnlkcjZVd0tNZkE1VFhWUlNBRGxkVmtBdEpxOHF1STkxQ3NXQUNjWWJUQjhseXI3dER6Z0JheWJVZDVmT2FBVnRabWNENFN6MkduQzV4dV90bldiOUFTeHlVMlN3MDZPYmY2NVVseE5xbW1kQ2ZlWW1WZjZPTWpvdWR2QUpEZTkyQ2p2MXBGa0sxY2pnSnQ2eDI2SUgxdS1vZmw3ZFJ3SktLWms2d3JNUmxEUTM4MEYybkhFU1d3QzJfeHgyaFNIUm9vWUtibEtKUW1wRVdXR3EzRDZfRHQ3Q1U1dFpzc3BUYU8zcXgwZHVicHFDWXFlVDZ4WThMNy1EbWtVVHdFQnU1RGtwbmtaRnJvcV83Mg?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-21T13:40:27.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
+    },
+    {
      "title": "صاحب إنقاذ عقار السنبلاوين المائل: \"فرق درجة عن برج بيزا وعدلناه بالمقطف والفأس\"",
      "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQMm5WWTZFVnFyaUxRdXdxS0ZKOVhBaVQtSXZ6clZNa3B2dF9TQVF3NDd5WVdZM0tBdWFsemRvUHFBRlowSEE4ejdrQWdTNjU0SDhZLUNvVnNlSDk0QjJRQ0M1NTNoUnNHT3NMcTdQZ1hhUnlYX3ZtTndvZ0kwV1c0NmtvaHI2MnIzdVctTkJqeUlGSjFMTmYtcmF3WTZ3SWFVSlMtVUFRdHZzSWJiS2R3WDBYV1R4VmNzZjYwY0R5anB3YW5KNFFTVzJEME44aXdneG1EWlMxYXBvYWdFcXR6b1NqNmRZcmRqR1Ytc3g5WXpDM3VRdVdvb2hiSzg1LVFMNFh2MXV0VlUwWnFkS2JhQjAweE9FdVBpRXRGbm5BOGdnVXktTHk4VzhqaXo0dldBaktGMU1sZFZHS0xMdjREcm9GU2lNWkdMeDFfNDZPUzhIWHUzRWJpbVR6WWI2b2Z5Zk5NUWZTamRKUlFNS2pQZ3A0bG9POVhnUEI1STk0ZmxuMElHd3htWlg2WXRCRU9ncXVnMWpYLUxBdmNyci1HVjF2UUVFM041Z09ya1lrbXpOVE9sVWRwU1NYYllJcXVpQnMzaUJfd1RQcEoxNzJSSVRUUE5wckhQbXNQVDdEQmg5NWczZlV5dGQ2Rlp2T2loaGtpalU3elVnX1poQlN4RnRTeUdLbXJUX3V2LUpILVRHRWZ2UTdEaHVfLTFGS0FtYkZNcUFlWjBvWU5Ud1JMVDFmc2ZQdW4xWVhXTHhKYzVzbzh4V2xpdThEenE5eG94OVMtdy1COC14RVhudFdlMk9QTHV0cXVtTldCdG5RU0p2RjlielBsZlJ0d1pwVElJV2t4eUZUMkQ3SUw0OFhNUnZ30gGXBUFVX3lxTFB5VjhvZGtzYUgtSl9Qc08zNEhzZExZZTJ3dEhCSC1Yb09VRVVTaGtabWV5d0Q1cTRMeW42b1dibjZpRndNb0tFaWI3X2x6VVFVVHgzY1k5eEVpOURudUNuMGJGMkxEaFpCNmJ4cEc2LUFBdFRjMHMwTF9JM29XaW04Mkl3cEU4aHRYMnJaa3pGTkprR0VzWnVYWjRnNndyWENZWFZ6TkkzSEZKZ1lZOW42R1FkN293TkJhbUJGTnJRUFVDUWlQTGZucWJ0SkpXeGpweTlEWV9tQm9FUDBlalV0eUI3SmpBMHFxZkNRNVRqRGF2UEpxNTJ3SkNMU1ZsSU12OUg5SkdWQVhFMHY1czNzSm9vYWZ5bDRGRVBLcm1LYzJRMkl1ZHM3eFRxcmZzLWZKOHRUdWs3YXJ6TmlILXJMcE9NMG5Hb1gxbzNlTGxsQUdCb2doblliMnVuUG1QbENET2hWeTNMcVVkZ0VITHZMd3E4bmw0NnJrNE92NDdxQ0lFS1lXTnRwRUJGXzZtOXhLenRhR1ZFQ1BjcnI3VzYxbWx6ODZPYkRzNXU4eFB4LUpUcW1yTU1VZXFTSEFyMGEzb1JhTVdNNThSN3otWUhJMlJpaXdyZ292V2FIb0l6NGI1SUE1Yk9MYjB4dTFRdjQyOF9zSF9XQUZPdnNXZFFPNmxhZEJncmZlZ1J1VWk2U3B6X1BVZmVoLVZJMm42ekxuSWdPb1E2NUU5eWRTNnRTSVVkY3Bnd2ZEVy1Ld0tJVzFMV29QSUtXOFMtSVdFT0llZjhjYktadGtnY3NONVJidF9ER1BSQ3E4VUtzOEpRMU1IdHhmUV9LX1MzMnJGSjRxYVVYSHloWFhoU0RUMTV5Q1ZDVURXTQ?oc=5",
      "source": "Masrawy",
@@ -193,13 +214,6 @@
      "source": "Masrawy",
      "time": "2026-11-21T12:55:52.000Z",
      "seen": "2026-11-21T13:49:44.947Z"
-    },
-    {
-     "title": "لماذا برأت جنايات الجيزة \"مسن مستشفى الهرم\" من اتهامه بهتك العرض؟ (الحيثيات)",
-     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNVzhKdld2Ujh1TG1KVWk1bk1zRDRuTkN1cURyZi13MjJRTzl5Z2t1bVNydDhZVTRWQklHY3hCSTZYT01qeGlsRWlZU0M0bS16YVR2eUVrVmY2T0N6QkV0YnYtZXdIeFdTMzhPSzZEU0RweTBFdlNNVDZ1WW1FekcxamhOLVdfOUdZWWI3U2xKdUpjNWM5dXJXOTZrY2ROZlpuMUlFS2hjOWhBalZiUzV0YzhIem8xaEFmcnU4Uk9qaXIxSjZsTVVWRXVBV2Roc015YlRHcnVDcE9PN0x6TTNRNERvSnhWWUtMRVh6aG9zX18zOFBWRDdKd2RDb3BOX1ZQTnMzRDZKRzdzZjFzd2VTa3Y3ZUpuOHB3MVZMYVNMOVJoQ19JVHF5M1Q3enFWcHgwaWRweVB0RUtWVUZ5d2ROMy16TnpGcFZMSkNFaVJfckxLSHN5dDFEMTF6ZUxiVklVRmdUWTdKakxQWVpPV1laek1zQTc3X1h6WHBtMUVuYlIxemFWUHNmTEJ5azZWUGh1Q2pWYVNGb1FoX2NyZ2pCN1FUTFllQmd6WExiUGo5TlJEeUkzWWhmVXh4eFYyczY2ZmxGMEJqcUw1VzFYb256ZFZrVFpHNHJEOF9BWlFGT2ZFWjBmcE5pYzUyeXViMVZqNGZBWFAtak1HXzVtNWdWNGdiLWwtMkI0RVZFR3lWOURyWlNzS09QYVNFalBsekNxUDNxdGlUUTVnSzQzbldjZVE1eVJfRXp3b0VaSTFlS3B5ckFrckFzN1FUa0xHRDNyWFU1b0RCRmZyTFNKaDg5TGJGRUE5UdIB6wRBVV95cUxOWXc5SWNjbUZ6R3RJTEZCcXN4aXVacFh1MVFmT3pJTUNrRFZfOVUyQUh2V2ZxRDhpZi1MRTVsWnBIR0hzVzZ3U0RuYjN2ZUtUWTZEOHZIYjlvVEFMT3lONXBEcVNERXlGYTl0SWg1XzFxN25uMS1MVlZkNEl0VXQ5NDJzTjFLczBHWldhcmZzWHNYSDg4Q3RuRElqRXItYjJDVHNkeWtBczZCOU40Z1FGd0xaXzBoRXk2cElidkFxUm5aZEtMVlRoT3p4ZTZxVkkxakFyMHhYWUllWHU0eGJ2QVlJNFduclh1c2h0a2g4ODlId0xSWmtjREhjU2JHdFdlelhIOTlOUGVGMWdHaUJGRVhlb0RPUHE5NWtPMlZQdXU2XzE2aGNYS0M2TGhvWDIzYXV2eVhzQUtuem9zOGpYT1phZ0tuX1p5Yzd3VnRBUm1JM09oU2l0Z1VsYnI4NTJ0ZS1Td1FiWmYzR0xQMTF1SEYzd0xrNnVvVXBKcHQ3UmZkcTFNNW14NVJFbHlPa2RKU1E1S3FhTkV1T3VHTlQwcUFvLTlkdjQ5dEtsd0pIX3dicW1vazlGVWUzb1lESlhlTnJNMmI5TUhpNk1QLV9RVmRONXJqUGQ4WnpBZlBwVllXSHBfYUlIdl9FSUdCUVhTZklneFpLLWVIVlJmZWpiNTAtbFhwWVQyQzBvLTdiSG9DdGNsVlpUQmlJejVIcExpMXJJN3dZa0FEYUd5RXpiVTJSMFBEelhGaWpkQS01cDZrUW94bWRmb0ZEb0t6R2psN2dkVVdVRmhSMTFoSzRHdEJ1QlpXX2VGeEpz?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-21T12:50:47.000Z",
-     "seen": "2026-11-21T16:51:09.801Z"
     },
     {
      "title": "أنقذ 5 أسر من التشرد دون مقابل.. مهندس مصري يكشف كواليس استعدال عقار الدقهلية المائل",
@@ -221,20 +235,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T11:52:05.000Z",
      "seen": "2026-11-21T12:49:44.721Z"
-    },
-    {
-     "title": "تفاصيل قرار مدبولي بتشكيل \"المجلس الأعلى لتنمية مهارات الموارد البشرية\"",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BbUFiVERHV1hXdzl5d3ZLVzFYWmU2VEo5V2NtNjk1Q3hkY214c0JOVFloUUpheE02bFF3ekFJM1M4SWU3?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-21T10:56:27.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
-    },
-    {
-     "title": "بعد نثر رماده في الشارع.. تفاصيل جديدة في واقعة قتل شاب وحرق جثته داخل فرن بلدي بقنا",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYY2ROcWI1RUZ6amppUGtKd2FoblZBSTBVXzY4cHlSSFJrNTJQV0w3cWZCMU50QjBrZ2t3T1FRVlJsUnEwY2VWeGxJQUF3RnRwSWM0NWdoZTlPSG5WQU5n?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-21T09:48:00.000Z",
-     "seen": "2026-11-21T12:29:45.064Z"
     }
    ]
   },
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "إيران تقول إنّ محادثات الوساطة مع قطر مستمرة، وإصابة ناقلات نفط في مضيق هرمز رغم الحراسة الأمريكية",
+     "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T19:04:30.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
+    },
     {
      "title": "الخلاف حول الوقود الأحفوري يُعرقل محادثات مؤتمر المناخ \"كوب 31\"",
      "url": "https://www.bbc.com/arabic/articles/cmewvgg8lv12o?at_medium=RSS&at_campaign=rss",
@@ -269,13 +276,6 @@
      "source": "البورصة",
      "time": "2026-11-21T17:41:53.000Z",
      "seen": "2026-11-21T18:41:09.330Z"
-    },
-    {
-     "title": "إيران تقول إنّ محادثات الوساطة مع قطر مستمرة، وإصابة ناقلات نفط في مضيق هرمز رغم الحراسة الأمريكية",
-     "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T17:37:33.000Z",
-     "seen": "2026-11-21T13:39:45.128Z"
     },
     {
      "title": "متى تنتهي رحلة هبوط أسعار الذهب في مصر؟",
@@ -385,6 +385,13 @@
      "seen": "2026-11-21T17:31:09.933Z"
     },
     {
+     "title": "النوم الطويل ليس دائماً علامة على الراحة... تحذير لمرضى القلب",
+     "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQbm85dEs4dEhLX1E1Q2VNYlMtUXVrUW1pSGVOLV9rTjNLNDdGT3lMTVZJa3BPS2dvZEdWS19BbFFycktYTmM0cGRvcmJoTVhUMFdBNk00U1lZSWNBVndhVW1SMUh2Yk9hWk1RQmZZRmtHbzdaWjVkdVkwVWI2M3NFOHVsOTFUSEZkZ01GMFpKUVVMVkJhYTZPc1EzYW1mX0o3Q1JzX25LOGtwVUE3LWpWYmwzRE1ZLTZxeUIxOWRuQlFCcFpoVFc1OTRmT0dFbTdzcUJkelV1V0d5SkxDc3dwNFplVGFYdDdtYjRVNHFYMW11VzY1VWd2bE1sNWgzVHE2VlJHUnVKZUdHN2phZ3Rfa1E5M251a3Bpa3pTc240Q3A2RmIzbTJvX2s2emM2OVNRSW9PeW9ibWhZSkYwZkFia1B2Q2taQXZsQlA5VENMZ2l6TjN2eEpsY01abWF2aXZSZHJGdmNoM2xJOUNMS1Q1aW1ieWhLTmJoTV9LMHVrYlo2cmh5NDVXZ3ZKNDBIVk1ScmlOVEN3SDAyY0NuNTRYTEp6WnF3UlF1TTg5RTRoYTJZdzZvWjcwVmF5NEVoSFVzcUxwYkpoSTgzbC12Ym1peWY0NDJJRGY4VEVXb1ROYjNPbmttZTRXbkNJZjlGVWROZ2xaMlV3?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-21T17:13:09.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
+    },
+    {
      "title": "موسكو تريد إعادة عقارب الساعة 29 عاماً إلى الوراء .. هل تتخلى أوروبا عن أمنها؟",
      "url": "https://www.dw.com/ar/موسكو-تريد-إعادة-عقارب-الساعة-29-عاماً-إلى-الوراء-هل-تتخلى-أوروبا-عن-أمنها؟/a-79987496?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -439,13 +446,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-21T15:50:39.000Z",
      "seen": "2026-11-21T15:59:44.409Z"
-    },
-    {
-     "title": "اعتداء عنصري ومحضر مزور.. تفاصيل الحكم \"التاريخي\" على 3 شرطيين فرنسيين في قضية زكلير",
-     "url": "https://www.aljazeera.net/politics/2026/11/21/%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1-%d8%b9%d9%86%d8%b5%d8%b1%d9%8a-%d9%88%d9%85%d8%ad%d8%b6%d8%b1-%d9%85%d8%b2%d9%88%d8%b1-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%85?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T15:40:29.000Z",
-     "seen": "2026-11-21T19:01:09.419Z"
     }
    ]
   },
@@ -468,6 +468,13 @@
      "seen": "2026-11-21T18:31:10.233Z"
     },
     {
+     "title": "الذكاء الاصطناعي يقترب من حل لغز رياضي حير العلماء منذ 167 عامًا",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWGVwQ1NvV3R4R0NSeFMzUTN4dlJ6eW1tVDVkMnR6c1N1b1BrUXItZ0NWVTF4R1F3V1BnWjNfdDhadl9XRnNSdGJvc0FISDhsenJfWXU0YVRBT3hOQ2g4?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-21T18:15:00.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
+    },
+    {
      "title": "لماذا تأخر One UI 9.0 على Galaxy S23 FE؟ ما نعرفه حتى الآن",
      "url": "https://www.tech-wd.com/wd/2026/11/21/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%a3%d8%ae%d8%b1-one-ui-9-0-%d8%b9%d9%84%d9%89-galaxy-s23-fe%d8%9f-%d9%85%d8%a7-%d9%86%d8%b9%d8%b1%d9%81%d9%87-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%a2%d9%86/",
      "source": "عالم التقنية",
@@ -485,7 +492,7 @@
      "title": "هل أصبح التنبوء بالموت المفاجىء ممكنا؟ دراسة حديثة تكشف",
      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQNEZUQ1ZfU2xSZnN6c2s0ZmRPZ29URm1SNjZub3NDN0lMOWloeVQwR2syRWxDQm8yQWRESXBBUlZ2ZlhfSnRhZUdjbTBWT1I5elNtSFFHMG1rdDNUenNSYVY4TTVsNFZkRERxSnZwcTkzM1FyZk9Rc1RSOUdiWUFiUW5RdnBsRUhVMFdFU28zdG55Q2tNZlRfWEFHU2c5bEhYRDFtRjJsT0hldjhudW1JQmFhTVlCMWF3S0hkaTdwN0FaQVh5cU0zRnlFNUY1UVdLUVdoVmxSM1BVMk9oajF5UE9PZnh3bW1oakp0eWJOSHExNDZMbG1HaFY1bGtRbmdjOHRNM2tlX2lteXl6SmdBXzdNMHRqV3FkSTJhLWg4NmV2QW1Ca2wxUU5DdVo4OUFOZldRenY3RkZMam5DU292cnlQb1hFZm9XYXZ1cDR2NXVnVmhXVS1UVWZsMllvNDhTS3o1V1h2cV9sZXllY0VxZ3FlZEx2TGpfUXcxQ1dQblM2ZW92MWctaGZXWlFtM3huTUZUTlFCcXRPeUNNMGxoTk53U21HZ9IBqwNBVV95cUxOc1M3TXJQMnRTYmNicWhfWFJFM3o2dEtXcllFUExCUGR0QWFBMzFvVW1LZlVIak9DeUVQZnhLbXY1c0l2VGJ1YnJQdHAwNFRUYUQtSVpwZ3phc2R3TjVFb0NFTkt3UDlWSndiMm9rcXJuU3RZV0VhRW5YUjlQV2tGU3YyeXJyS0FsLWdsdFNYcnRncmVQYXVhZWFFdzMybDczZWlCUUE0VUFfYndhN3ExUHpHV01MZkxsbHRkV1RWR1VZRS14cC0xemdBV3NXdHZxc19HeHVWcTZGc0ppM2JnN3hsSVk1cXV0aEhCX1VMY1BaYV9ya1dSZmwyLTc3VjRHcjZwaVpWUjBlQ1hDQ2ViRUMwMEN2bFM1anV2aFdJT1locGMxRVEwQWdHRjcybFZfaTN4dURWbHFVdXdWbHdNR0VkQS1yeXpaS0VtakNTd3hWMklaVF9ENzVZSk1OVmhMMmZ0QWZnenJmaG02UHVjQWotQVNJRkV3allPX2xKMGM3Sk1PMjVfSmd0WEpLT0VDUG9oSUpnMHBhU3JnbUhicE5tRDVfZl9JYVI4?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T11:59:04.000Z",
+     "time": "2026-11-21T12:01:10.000Z",
      "seen": "2026-11-21T16:01:09.314Z"
     },
     {
@@ -546,23 +553,10 @@
      "source": "DW.com",
      "time": "2026-11-21T09:10:03.000Z",
      "seen": "2026-11-21T11:59:44.245Z"
-    },
-    {
-     "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
-     "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOaU9aQnV2NEFmcWlKSWQ5eHJTcDdXc05CUUlpZ2lPOEZoUTBSYkNvNjM4WDRDcmo3bkoteEtIVUlvSmRLUFI4X2toanJjWDhyN1AzaHA5RzRYWnMyYnlDaGJaM0d4T1BoejItZUlKb2RLWVR5b1A0cE16cWZiZjEzZjBnQ3NzbW9fVEpHaHhmN3QySWU4cC1NdU8yZGxSNVFvQTdCd05fZU45ZzNZYUFVYUUxWXMydU1mV1ZwSFE3TzdRUVcxTnN3RWM5VGFTVHRrOEZoY0ZkYWFhLS1YcGtyTG13VlBuZy02MXI0Y1IxVGY1cURwOEJONzRhSFlDNC1GXzlqQllVVEFkNUl1M21mZFVkSS1NS2VIV2k1ZjhGMm5odF8xU0ctMHB6WWZGSEV2Z3RVaHFLRGp5T1RfRVdmY1R1cWhVd2ZXTWVLU050bkZDbXlkUmFsUDIzTjVtek9JaFFkYUlkanBqRElpTjZnVXZYN1UxMnA3eFl1WkZaS1dqR1MyTWdTalBkZVp6TF85OHBPRkh2bUdzeTllXzlMbVRHaWlnZEw1TkRPdGFzdmF2MVRmLUg0M21IUVUwek5wSDRZSWx3ZUNtRlRuRGk4ZW5jTFNGMXdiaU4xQnBnS2dUWmZwOFZnUDNETEwzNUJsTld0VlRHeUJHVHc1cjBMUkRzWkdUTy0x0gGIBEFVX3lxTE1oYmk5Ym9nOE1jLTFSVXhQQzMyd29jQWRtWmQ4U1lKVFVFQXVZNWs0bm15ZFptOU9mRy1mSDcwdnFXVHRJNGRkNWRWMUVvcDN4b08xUFpiQU9uYmF5bDNLNHlSbWJka2wwZjRYZ0RGT2p4ODlXMzRXam5YOUpsVXd1TjdRM2FkeURMLU1FTG9WbEtscDMyOTdXS21PUGNncUZ0TjFGS004Um9MQVJrOVk5YmpkMThob0ZVbjE3NTUzOF9MYXRPVXVVU21kU1Y1TjBHUGNraHpWVUtRY3UzQXBsNl9MU3otemhxVGJ2MzctN3Y2aldDcGRUZ25KSFY0YkRicXNBRVpuMTdhYmF6WE9VeWlpRGdTalppdGFCTWRUNzBacko5ZFpfVGhaTTVKOF83MVNiUnlQMThKY1RZRXVlTTdoLWU3bjBCOXB1Vl85bm9saVRSVHBlTFlNd3lMbTVZMk80VFAydkZCbFdMTm5iQ0dUbmJ0cjhOQjlpTzJOUjVSdGYzams0STlnQUVNNHZaVGo2YTRuR044bmdKM20wdi1LajlhMmw0Z3R6YkxxR1JVck11SlNSUjhIRFk5WHYxRjZJUm10VFR1b1p6c0lWTVA1MkJuY19jdEZ2a1lZM0ZDTnA5VkNtQ1RxRGhJWWZXcnB5UVRoVUNCWlFSTWdJNm1jYVlseG4?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-21T09:09:29.000Z",
-     "seen": "2026-11-21T16:01:09.314Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
