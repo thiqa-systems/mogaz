@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:51:09.678Z",
+ "updated": "2026-11-21T20:01:09.836Z",
  "minute": [
   "شهدت الأسواق المصرية متابعة لمستويات أسعار الدولار مقابل الجنيه وسعر الذهب لعيار 21، إلى جانب تجديد شهادتي الجودة والسلامة للخط الأول للمترو والمونوريل.",
   "إقليمياً ودولياً، استمرت محادثات الوساطة بين إيران وقطر مع رصد إصابة ناقلات نفط في مضيق هرمز، إضافة إلى وقوع انفجار بخط غاز في البصرة بالعراق.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T19:51:09.678Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T20:01:09.836Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60295,
-   "change": 2.54,
-   "asOf": "2026-11-21T19:52:09.000Z",
+   "value": 60233,
+   "change": 2.44,
+   "asOf": "2026-11-21T20:01:46.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني: تصدر مصر للاستثمارات الإفريقية شهادة ثقة دولية في متانة الاقتصاد",
-     "url": "https://www.elbalad.news/7189391",
+     "title": "ميزة Gemini للتحكم بالكمبيوتر تصل لأجهزة Mac.. تنفذ مهامك وتملأ النماذج تلقائيا",
+     "url": "https://www.elbalad.news/7189225",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:50:51.000Z",
-     "seen": "2026-11-21T19:51:09.678Z"
+     "time": "2026-11-21T20:00:00.000Z",
+     "seen": "2026-11-21T20:01:09.836Z"
     },
     {
-     "title": "مبعوثة الاتحاد الأوروبي: تصاعد الصراع في القرن الأفريقي يهدد استقرار البحر الأحمر",
-     "url": "https://www.elbalad.news/7189390",
+     "title": "رغم موجة الهبوط.. هاني ميلاد يحسم الجدل بشأن الاستثمار في الذهب: ما زال الملاذ الآمن",
+     "url": "https://www.elbalad.news/7189400",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:50:28.000Z",
-     "seen": "2026-11-21T19:51:09.678Z"
+     "time": "2026-11-21T19:59:32.000Z",
+     "seen": "2026-11-21T20:01:09.836Z"
     },
     {
-     "title": "قوات الاحتلال تشدد إجراءاتها العسكرية في محيط رام الله",
-     "url": "https://www.elbalad.news/7189385",
+     "title": "وفود منتدى أسوان للسلام تشيد بالمقومات الحضارية للمحافظة",
+     "url": "https://www.elbalad.news/7189397",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:47:32.000Z",
-     "seen": "2026-11-21T19:51:09.678Z"
+     "time": "2026-11-21T19:57:13.000Z",
+     "seen": "2026-11-21T20:01:09.836Z"
     },
     {
      "title": "مسعفان ينقذان حياة فتاة بعد سقوطها من الطابق الرابع بمدينة نصر",
@@ -355,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "البحرين تعلن تعرضها لهجوم إيراني وتكشف التفاصيل والأضرار",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/bahrain-announces-it-has-been-subjected-to-an-iranian-attack",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T19:47:38.000Z",
+     "seen": "2026-11-21T20:01:09.836Z"
+    },
+    {
      "title": "محمد بن زايد ووزير الأمن الداخلي الأميركي يبحثان التعاون",
      "url": "https://www.skynewsarabia.com/middle-east/1906256-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86",
      "source": "سكاي نيوز عربية",
@@ -433,25 +440,18 @@
      "seen": "2026-11-21T19:21:09.894Z"
     },
     {
+     "title": "تيم حسن يجسد \"قيصر\".. المصور الذي فضح التعذيب في سجون الأسد",
+     "url": "https://www.aljazeera.net/arts/2026/11/21/%d8%aa%d9%8a%d9%85-%d8%ad%d8%b3%d9%86-%d9%8a%d8%ac%d8%b3%d8%af-%d9%82%d9%8a%d8%b5%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d8%b0%d9%8a-%d9%81%d8%b6%d8%ad?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T16:46:53.000Z",
+     "seen": "2026-11-21T20:01:09.836Z"
+    },
+    {
      "title": "موسكو تريد إعادة عقارب الساعة 29 عاماً إلى الوراء .. هل تتخلى أوروبا عن أمنها؟",
      "url": "https://www.dw.com/ar/موسكو-تريد-إعادة-عقارب-الساعة-29-عاماً-إلى-الوراء-هل-تتخلى-أوروبا-عن-أمنها؟/a-79987496?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-21T16:41:00.000Z",
      "seen": "2026-11-21T16:51:09.801Z"
-    },
-    {
-     "title": "مسؤول إيراني يعلق على حديث ترامب عن \"القنبلة القذرة\" وتطورات المفاوضات",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/iranian-official-comments-on-trumps-remarks-regarding-a-dirty-bomb",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T16:36:29.000Z",
-     "seen": "2026-11-21T16:51:09.801Z"
-    },
-    {
-     "title": "ضربات \"فجر اليمن\" تتواصل.. استهداف مواقع وتحصينات الحوثي",
-     "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOZEZBQlAtc0k5S1JmTHdRQ2k0eGFEZ3VBZUV3VTRkV19zTERxajdzeVpzOEI2S09LVXNBM1JVSWZtRzJ2MWtseWNMclluV1d3b1JBSjJ5UG5zODdyQ1NfMFB0UlN6YXVGMXU5amU3TFFMNm15bXJjWlpvZWVyWnR3QTZtckRnNG5KaHRPamVOelo3Z2p5VlBDRFRrd05EM3VtdUJWUnBJZDNXMnFZdHRWa3VONVpYWks0aWQwN2V5Vk53U09MUWFNUC1nNFlHY0JQem9rbUZiNTFOdnQxUFZ4dGZIaVpBVVdOVW9kaWstRkh1bVg1LVRmZkw3N1NidnVHTkxFMFBQUDlJRWlXM0ttNUNhcTZXSnF6R1F0bzE5X29rWndRTld0RF9tUTlNRFhWQjdENWV6RFhmeWhEWVMtS0UtZk1YaGpXSWcwQmVULWNFeVNEWU9fM000UGJHWVlwZ05RdXg4Z2Y2ekxzQTVJZVEtMkRiSFBCb1hfSzdxQzhTeVFEV1d0Rno5OHpfN25YWTk2NUVCcHNWX0ptLWVLamkzMUkwVi1DUXNTUDkxeXRWYTNpbFN6YWxCSDhXbEpTNk9XOFZtR1NyWW5NQW8yQXVNOEpFX2o5VDdwejVpaDduRXM?oc=5",
-     "source": "العربية",
-     "time": "2026-11-21T16:27:00.000Z",
-     "seen": "2026-11-21T17:41:09.909Z"
     }
    ]
   },
@@ -465,6 +465,13 @@
      "source": "عالم التقنية",
      "time": "2026-11-21T19:50:40.000Z",
      "seen": "2026-11-21T19:51:09.678Z"
+    },
+    {
+     "title": "هل يفكر الذكاء الاصطناعي مثلنا؟ دراسة تكشف الاختلاف",
+     "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPWm52bHJ5RWlHNldsS3NraFNFSHdyTDhhUkJsemU3TnlYVENDNC1YOEFSaXRsMEJuMXF6YzZsWnRUQk0yZDNjb29ELTVlckNiUGlyaFQwbkdXaUpCV2ExZXJnRmhiYjljbDdmbEdhdlFMbktVaDRhY3RFM0pmNnh0ejFxS283b0tuM3Z4SFR0cjQyOUpxTUZsbW5YUE5hSFI0RmFpZk1SUzlMYmk5QkoySmRaUmR5SS0xVVJVM1l5Q1hUWXB4c3ZqWVVFNlZKLTl1TlhkalpwVWp5Zk9EM0RXekM0a2lpb0tuS0tRbGY0eGFuWjRqWXlFWk1aQ2Z4M1VkMmJOTUozNGJ3NU43UEJnb3h0MXVyZndUVEd1bk5QS3ZWVk1OR2ZfdmdfcUQzZnFLYUlHSGJOWElDRW51akxrRVBTUG83TWJVT0V2VUVaNkhxcmJsYlVrSVZuR3FuZ3dHTy15Rlk0WXFsc0NqXzVaRnZiTnJxbDR2blpySnNvT3ZMUGxSSHZpRXFKYmN5QWVjYkRldVc3RDQyeHZLQjFnU1d5NkZrWHdpbF9VTVlR0gGzA0FVX3lxTE9MZy1JYm9uQTRaVjl0XzFjdzZWeVZYeHhVay1WU1NScUQ3UWR1SFU1TzRHNjlBVlBDOHJ6Rzl5QU9PM0lscXYta2ZoUURDeGFZMkJveTJldFV1NURGS3Jqa2pnZFpaXy1hV2lWdVlhWDZCVmM3XzVMaEp0dV9nRTlZVEhiSk1FbkY5czItU0RNV3FLTkFLOGQ4MzVvOEIwalUtWEt3NmpVZVQxdDJHOV9pTm9oLVgtQmtVeE1nZ0ltWUdvMi1LbFFjdmpfV1RYUmpyeUVaQzJ1NG5zcXhERmRvZXJwLV9meWp5OHYxZHVsNk1TTGhvMmhDdHdVUE1rOTJKSjBjV0EyY1YwSkRPSk5CUktadnRFV3VGVGtNN2FWa0s3dDVzbkNkZXB1X3JubGVWay1LM3p3UWdLbjFvanRud2k2VFlhcWp0TmtFLVI0dGhoYzdLcFB6X0FXVVZ0bFRidDdUWE82SS1tY181TXFNV3FKU2xublFaTHp3UXVIZ2pCazg3WnFDY2d4dTBaU05mdng1WkFnWXVaMm50ZVhNMC1HZzR2blMtSXFvdFNwYmUtWQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T18:53:52.000Z",
+     "seen": "2026-11-21T20:01:09.836Z"
     },
     {
      "title": "موظفو Anthropic يبيعون أسهماً بأكثر من 25 مليار دولار في اليوم الأول",
@@ -554,17 +561,16 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T09:17:00.000Z",
      "seen": "2026-11-21T10:39:44.869Z"
-    },
-    {
-     "title": "منظمات حقوقية تنتقد تأجيل وضع قواعد لاستخدام \"الروبوتات القاتلة\" إلى ما بعد عامين",
-     "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxNX25KWTRNYzhzNU9BRTFYaWJ1c1R2Q2ZjdHh5LU0wU1pnRGtSZ0hoWkNORTNLSDBrWEtDalk3bUdJMVZqTXFiQkRGX2RSR3lDcHRGQWEwUjZoRG5sMmlKR3FzTWlFVTRVdjViT2VtLWRuS1Y4NjNUMzVhRVBXRTlzcEF2ZHhtMk9YQjRpVDMydGxaN1BMZGFKamZWbnp5dVRhVEp5QXptM1UtcFBLSWh2Ml9rMm4tUGZ3cTR3Q3ZVTEJDQjdlSWJ4YjE5SVZoVFY1VUhiUFZkb3dtei1OeFItbzRxUWd3YnJxcE11M0VNdjlmZDJiVld2NkItOVM1RGNRdUhkWlVxcG44NF9pMjhDNmxpQURyZ0k3NktLaFJFSFY3VExoSWxCYkw4WGUzX1hXcGdRWnIzR2hUbFZFQnZfSDFfWEtXZk9wRzN4NExjZVZIajVUamNrc09Ub3QtcnlBRFRSS25ud0JNNFRJTUNZN3VsS2dMejF2bGgxR1YzcnNoQzFjem02aXV3U0FHT1JQbVY5MDZ0R0pSd0RUR3o4QWxGcDVZZFE2LXp5d3p6UnBiRnRKZWpxVzVtZHllMldNcFJzZUotNE04N0xuZVBhQ19nR1NhY1JZU0pIYjNlU1FhekJpZjB4akZmY2N5WkVvbEt2d0J1aUlqaUdpQmtGUThQX3hpWXJuR3RuZXdpcHRILURTQV8wcTd3MTUyT0lGVnE4eHJ4Uk9kMzkwajdJT3J5YkF5d3RqS0s3U3FNa0lLMldhaDhvdUZSTnJKTGpPTFVEU25ZbWMyeXpSaUJybmRMdnRhYkVQU0FKX09kaktBcHIyRG9sZmdwNVdXMGtDNUlOZXJOQXRnWlZGN052SEhRaTFEQnJjaGt0QzZjNTVUeXMtbk9wQTFnU3pXalZzWkVOaktUTXJXTk5PR1hMZkF0RHg1bnAya3hNY3FfdXhELXhZXzA5c21sUlJYTDl6ZDJVOHg0YzJzQdIB6gVBVV95cUxNQXJlaVVSOHNSZUVNRFJheEdMM000d2FpLWdhdndWY1kxUDk5TjlpdUR2YlE4OGxzVzhfdXROdGNVUTJhMklEaXFkZDItUlVFT0JOT01TbzNaTEJka1RLZEI5TFVvUzg0dFhMcGRJWU1oTHMwY0ZHQThyUDZPTEg2SVpYc1kxa2ZfQXlKYmJzMlZfb3hrdGNyVTBtbnVyUGM3M0VPb1poZ1NXdkZsRksxaGxvb24zUjdJR1hsdktxNFY5dU9YalN0d1loSHFfbWFHZnNEWU5GR05BLVJMenF5WFFZX2JrZFRNbUJYcTJsU3JUbzI5VHJiUW5WQmgxcHg0QTdvbVBOVGJhNm8tdlNYU21xT1hyY2txUDA0eDlmMFBmbTdkdGhhMGN5SXZJNnh2THRLTHF4VEg0a0xaWVpQeDJOM1dycnlxeEJqdXJnSEY1bmVmS0tiWHhMRE8tRjhjRGRuSFAtblJwZGNwZ2FxOTR0Q2tSYl9VZ191WTBFN294NVFTbVBvSjJ0Nl8yRVFNT3VURnVzWlk0YkQwVUE5bFNwd0RzMnVwOF9Od19QRVB5Q1VUaHZjZ0o3cGY2cl9HLVl0WXZKRkFPdldkdzRTRDFJRE1ZUGM2T1h1amNfd3d0dVBRU3N0WFZRUGw2V0hWaUIzQnRBWDVpTk9FWGpWZ25FZm1qQUIyOFNhV3RNQlRRYjNZM3VjTWVuUmVVdDd1S1dhOWI4MWFKRG1hZ0VJNU5RLTlTLUJndjRoY1F4RFBXRmdVQWhfV2NseEtCVFgtVEJtRUlhSXlTY0F4N285akdMaWtCMlEtVFRKTVo5WUgwR3QxUlQzZ0xHamFIamh3RHhsZUoxQ3pJbTF3LXZYSW96ZktSZkprNEI5YUJSQlh5RjI4R0VHb2QzR2pJQVNVdjNDU0VKSU1QUTJ6OXg3aDJ2VndQR3RheVA5ZlFsbmN0VVVrMlZPYll3WUV0ZFFySFBJeFQwUzhzUQ?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-21T09:10:03.000Z",
-     "seen": "2026-11-21T12:09:45.026Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "world",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  }
+ ],
  "marketErrors": []
 }
