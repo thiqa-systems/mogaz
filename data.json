@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-21T13:39:45.128Z",
+ "updated": "2026-11-21T13:49:44.947Z",
  "minute": [
-  "سجل احتياطي النقد الأجنبي في مصر 57.5 مليار دولار بالتوازي مع متابعة حركة أسعار الدولار مقابل الجنيه.",
-  "شهد الشأن التنموي توقيع مذكرة تفاهم بين مصر والسودان في مجال التدريب، وإطلاق شراكة بين جنوب سيناء واتحاد التأمين لدعم التجمعات البدوية.",
-  "على الصعيد الاقتصادي والتكنولوجي، اقترح رئيس المجلس الأوروبي خفض ميزانية الاتحاد، وتراجعت البتكوين إلى أدنى مستوى لها في عامين."
+  "تراجع معدل التضخم في مصر إلى 12.7% مع استمرار حركة تداول البضائع بموانئ البحر الأحمر.",
+  "تتابع وزارة الإسكان مشروعات البنية التحتية بمنطقة بيت الوطن، بينما تستهدف وزارة الاستثمار توفير ماكينات إلكترونية لتيسير خدمات المستثمرين.",
+  "تم تعيين قيادات جديدة بشركتي شمال القاهرة ومصر الوسطى للكهرباء، وتراهن وزارة الصناعة على الكوادر المؤهلة للتصنيع الذكي.",
+  "حسمت دار الإفتاء الجدل حول جواز استخدام الذكاء الاصطناعي في تحديد القبلة ومواقيت الصلاة."
  ],
  "ai": {
-  "at": "2026-11-21T13:19:44.445Z",
+  "at": "2026-11-21T13:49:44.947Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T13:39:45.128Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60345,
-   "change": 2.63,
-   "asOf": "2026-11-21T13:40:44.000Z",
+   "value": 60604,
+   "change": 3.07,
+   "asOf": "2026-11-21T13:50:22.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +138,27 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الطيران المدني السوري: تسيير رحلات مباشرة بين دمشق والقاهرةمن 5 ديسمبر",
-     "url": "https://www.elbalad.news/7188957",
+     "title": "صور من تحت الأرض ترصد زيارة قائد الحرس الثوري لإحدى مدن الصواريخ| شاهد",
+     "url": "https://www.elbalad.news/7188971",
      "source": "صدى البلد",
-     "time": "2026-11-21T13:39:05.000Z",
-     "seen": "2026-11-21T13:39:45.128Z"
+     "time": "2026-11-21T13:47:32.000Z",
+     "seen": "2026-11-21T13:49:44.947Z"
     },
     {
-     "title": "الجبهة الوطنية: كلمة الرئيس السيسي في منتدى أسوان ترسم خارطة طريق لتعزيز دور أفريقيا في النظام الدولي",
-     "url": "https://www.elbalad.news/7188956",
+     "title": "تداول 15 ألف طن بضائع عامة ومتنوعة بموانئ البحر الأحمر",
+     "url": "https://www.elbalad.news/7188970",
      "source": "صدى البلد",
-     "time": "2026-11-21T13:37:09.000Z",
-     "seen": "2026-11-21T13:39:45.128Z"
+     "time": "2026-11-21T13:46:49.000Z",
+     "seen": "2026-11-21T13:49:44.947Z",
+     "impact": "يعكس حجم تداول البضائع بالموانئ مستوى حركة التجارة والاستيراد والتصدير للمستثمرين والتجار."
     },
     {
-     "title": "التعاون الخليجي: الاعتداءات الإسرائيلية على غزة إرهاب وانتهاك صارخ للقانون الدولي",
-     "url": "https://www.elbalad.news/7188955",
+     "title": "وزيرة الإسكان تتابع موقف مشروعات البنية التحتية بمنطقة \"بيت الوطن\" بالقاهرة الجديدة",
+     "url": "https://www.elbalad.news/7188965",
      "source": "صدى البلد",
-     "time": "2026-11-21T13:35:45.000Z",
-     "seen": "2026-11-21T13:39:45.128Z"
+     "time": "2026-11-21T13:46:03.000Z",
+     "seen": "2026-11-21T13:49:44.947Z",
+     "impact": "يهم متابعة مرافق بيت الوطن بالقاهرة الجديدة مالكي العقارات والمستثمرين العقاريين بالمنطقة."
     },
     {
      "title": "المتحف المصري بالتحرير ينظم برنامجا ثقافيا للأطفال تزامنا مع مرور 124 عاما على افتتاحه",
@@ -171,7 +172,8 @@
      "url": "https://www.youm7.com/story/2026/11/21/السيد-سليمان-رئيسا-لشمال-القاهرة-للكهرباء-ونجوى-محمود-لمصر-الوسطى/7627130",
      "source": "اليوم السابع",
      "time": "2026-11-21T13:29:00.000Z",
-     "seen": "2026-11-21T13:39:45.128Z"
+     "seen": "2026-11-21T13:39:45.128Z",
+     "impact": "تؤثر تعيينات قيادات شركات توزيع الكهرباء على جودة الخدمة والمتابعة للمواطنين في تلك المناطق."
     },
     {
      "title": "وزراء خارجية مصر والسودان وإريتريا يعقدون اجتماعاً ثلاثياً فى أسوان",
@@ -179,6 +181,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T13:28:00.000Z",
      "seen": "2026-11-21T13:29:44.566Z"
+    },
+    {
+     "title": "صاحب إنقاذ عقار السنبلاوين المائل يفجر مفاجأة: \"أنا مش مهندس ومعايا دبلوم صنايع\"",
+     "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPeVNRSDVsMVZKak5CZ2tiQUxVZVdOX0xhVHQ0MWxIUFdXR3d0bUxKOGtnZXo0ZDR5QkZhcnNkQnFraFVlRG1JRWh5c2Y5NF9DY00xRF8yTHV5dGh1aVRJbWo2VDYzU3Qtc0M0a1R5RkhZOEJCUWt0SFNEUHVhTEVRUTRMRFZ0RG04aXEwcnAtZUVDcF9ZekpWWVBjNXgyWE03YWRGMGhuOTI3ZVVvRXpmVm43djlxMmZHdjhTOElRRFdpN1hxUUNNam90Z3NRazZReHZoR2EyYWlXbHpUWDVkS3FIMzN3RW5RSzRtR1pTS09xOTVpVjlZWUVsSTE4UXNBTmRpcGVLbVU4Rnhjd1YyUzJ2a2dMWmZ0ZEI5S3dJN1dTZnRwNVVoYXpGTjljc1N1Rl9vZ2J2MkpieDAzbkdrYnNBSDIzVFVtVkRBRi13Uk5GVkpqMUhYbmdPR3hQOWk3aEpDemF3TDh6cU1wVURGWU5jcUFtblB3UU5taUNaR1NqRmEtNE93dFZOTmJydEtFQzhjTmpGNkxJb3IzclhsTmVFRjZJQ1VHX2w1a3pFQzY4ZGdmQ21nb1VCS0VsU1ZKcnFfekVTdGpacnhJeERFQmJ6SW5BZkEzNXJjSXFrOGpCODVBbUI4dVNPRmdYZGY2UW1TYTFtd2o0NU9peV9XREZ5Y1hkOUNaYWczMVVzUmNqQ0s3ZkJmbDVxTVk2MTdrU1cxX3JXRGR0TjhKaDlNTmJ2QjlqcmVUQWg1OVVDN1RvUlAzR0NadERZVS14M2dZd0Z5Zm55RFBYM2t0UzQzeVd0dEtOZUZXYmVyNm9xVVp3R0RXODMxc0VJQm5VaWRjeUItc0lQeFZmc1lnOXZabmJn0gGXBUFVX3lxTE94S040WUlpWnJGZmREdDdlLXVyOHF3UzhhdlRMc0VzeUtPeG40eXllUXZYWmt4N08yN0IybWdUZmdsVmppQ3JvYzFXUkR4V1E2Z0dkVWY4TGJrZWp0YVZHMWxpLTU0OVJLSlhOa0FuV2JnOVJYcFB5bDFRU21pa21pejlSRU0ta0NnbEw1QlNSREIyZ0VIRFY5WUdUaVlzY3h5c1ZDRXFWYUpZcGJXQ0VSR0xXQlVwLUxNTmN5eFlxX3E4OE9rWmxrNWlGdmM4YldPWkpYZVA5LTNEYjVUSTN0aHV6QVNJTXJncGFvSHhaOTY1and0bG5VS1hmRTVJUjl0Z2ZRemRlaGppWjFoUnBKSFc4eWd6NWNXNDNNYlpQU19fSDlkcXZncE5tcTdiWjBtbTdFcUpPeVBmLUt0N202cldhNnpLWDRSMVdRcmhSQ3FaWlVzOFJxaFpZU2R2SWNpZFM0Z1RucEd6eXFPbFYxeEk1cG1wcnVaUlB3V3UzVnpfVG5RYXMtQjVQcVE0SE5yeXFUSjhneWJLTm1EaUNyQzJXWDBnclFCT1Z6RS1Tdl9KWi16Y0VHNE1kTlpUWDJ2cFZKSFVRWW8xUGhHcjFsTHUyVXkyWmNrQ3NnMm1OUFpxdEFlZmxOc25vSnNOLWtBUFJZLVVmNEJUOV9sYVVvMHNHV3FJXzF6dnlEclV3NHB4dFU0Ql9wR2hfSk1WaWJYMXJyN195aHNLNGpXR2p0OGczUVJySWtkS0NhV2JEYnFyTkdhZnN2cVNNc18xVm9NTUctS0tQYm95UjhtQmhmOFg1c0lCMlZCWjdMQnZzeDIxckdzRlVMQWVHTUZGN0p3NENicXhXcWQ0Ymk2YkcxWFVaNWxmMA?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-21T12:55:52.000Z",
+     "seen": "2026-11-21T13:49:44.947Z"
     },
     {
      "title": "جريمة صادمة في مصر.. سيدة تحرق شابا وتنثر رماده بالشارع",
@@ -228,13 +237,6 @@
      "source": "القاهرة 24",
      "time": "2026-11-21T06:00:44.000Z",
      "seen": "2026-11-21T06:26:02.747Z"
-    },
-    {
-     "title": "13 ليلة تعذيب انتهت بقتل أب معاق أمام أطفاله.. حيثيات إعدام \"شياطين الطالبية\" بالجيزة (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxOTnBIY2RSb0ZUWjZyREYydS04MHpSMjkwNm9hdkg3aFg4WEk1NGdyMmt2T215b05OZHhQVWFsV2ZCWXRTOENRT3RnQ2xraUJSaTQ0dE9fenJmbFBnSXhTWDNpa0hQN1BfRGQ4bVNUbDVpaUwybWpMMkdHWFVoclVFTUY5aFBhV1JuVm9zTWljMk9vVENFclBoOW5PallReDlORndaQUxjalRPV083a2tpV0oyVE5qVTRRNWJaME1JbXVoejczTTlkSG5MRmo0RVNheDJleDNfU3hjck45TzhVeDhSM2hjdkJvLWdMVnpPSVhPRGVfU0J3OEd1M2FsT3NYSUdPUy03VWdUWEg0dHB2azNWaURtamNRdjVqdEFUNUgwOHRnMF9ZamZ1TUp6YVJWaFR0Ty11LWRORW1TWm1UV2RYWGRxTktMUjFSMjRSSnl2MFNWaXFtTEVndng5WklCUWRoYmhaTjVEU1pzb25qMEpnVUtrZFV1YmhhcVB2R0ZsRW1ON3lsbV91eTh4UHBFaW9VM21qMXBfNzhaMHBCQUJRVlQ4VjR5M1FpNFdrS295anJvQktNdlJ6blpVZzJIMm85R0tGYnpvZ0hNVU9JWXNNMWUtc2plQjNKOFR2RmdRZF9HNFg3Q2Jmdk9LWk1oSkptZW5BLWZwRDhUdV96NG9JZVNaRFFycU1WU2lhY1NtQm9tbkVZUDRLM2x0Umx1cnhHX25ZR0ZkU090QURHaUIwS1ljanZUYTVKMUVDbDUyZ2NyY2VxckVmRjFCZjYtNTI5Ym1OdVVGWlB6amRaTUNjU2xsREQtRVI5eFpwTFd2NjR1ajBqQ1ByQzdjdG5QdFAyYUVnZmYzem5WZ1FETHJ2X1RlSktqRlVzMWdKY2xFdWs3bVVoUVdBOFVObGxNTTNacVVsRU0wblNhd3hoTFhJdXBsMmV2U25xVtIB0gVBVV95cUxOdnZpTXdoXzVJVDRwakRPeGJyVGUyYjNWRmdXUlFkVVdYakI1MmE5T1dxeHNfWUp0SjktXzQ5NGpIOVNJSlktRExxdjk0VE1YVkhNb1prOFk0dE9ETVVQaXNqTjBqeVdhdExJcVJ3cDFsWDBoSFhFcFpWUTBmQ3E2YU9vem05ZHVsbVhJZ1R1Z3Jha3Y3a1VSd2U2VHQ1VkRSbThuRXVXeFRyY2JxZW9CdWZBQlZjNjB3ZHVpVktYVy12ZkpDZXJ4Y2FlNUN2QjgxdkR5TllUVkF1MTgwYnFYT09UTVA0S2ZVX0hJTHdvT2JmVDd4OEoxNXp1aXRiOXdHZEFyTHVaUVVIc3BDZ3VlWUFMZ09GaFYxV21nQ3pFU0NHN000Z3RnVEVpdlYwSVFRT0Z3UU1BQnVNZndwVVZQU0NMRjZhRGpHREtGUkxzY2NNOXZneTJIUmV6TUctc3RvNVNUNURkTkF1RVVGQ2RTS1NPTXVqUkJsOHFVOG9wU01sYTY4MmdEemozWGVfdWlVZXRfNi1oMUFSbXZudE84RjlBamtTSG1wT2Z0bGRNV3RYU3FndHpqT3JVRWJwOTQ3VklSYmtaZ2QyLS03VXJZeFVRbjNoQVhvMDhSMFdSUlBLUkdnUEFPQlN3VTV5TGdrRFVZdDY1eHZOc3Z3UTQ1Ym9jX0ljekhQRFdGdlUwOVZTR3RKOXd3YjNxdGhLNUd5WVZ1WWRwZGhoLTZidFNCSnE0Mnp0WG9halFOOVFac0xFNDB0QlBZN2dMS3FpWlJMYXRQazlTUHBRRUxNTGw5SUJFZHBDYjc0V3EwWW9ReERCcTFFUmVwczF6TWhNU0NBTXlOYWxyQkQxR3RLYVNLMWhyS3BDcjNiTWlyOVpjcDZFTE9PcUZ4Z3RqcXkySDJaZk4tV0VhUWlUQ3ZiUlc1N1ZYUmxFT1UtMTk5VnlZZGJkQQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-21T06:00:00.000Z",
-     "seen": "2026-11-21T10:16:03.159Z"
     }
    ]
   },
@@ -242,6 +244,14 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "التضخم يتراجع إلى 12.7%.. مؤشرات جديدة على تحسن استقرار الاقتصاد المصري",
+     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRndDREJGd2xwUWVUZDZqalRxS1h2WnBOT2cwM2JRc0h3OEVrUXpjdGEtM3hMTWIzUkZYak1DOFNnZTI4akNtMnFJOUFGNmZUZTFFMWtPSlZQWTFtR0xiNWVISU5QRm9qMTBFOGN3ak9lOEEwSEJ4YkUtM2hKX050UmVjZjVyUndSX18zcTNNQXpSZ2VoTmg2STVuTzE3ck9EUExscXhBRTJDNzVkSzM5SFhmOVg5aDRnUmlMbXhzbnlNNlRSS2ZsM0U0Qi04aDdiNGxlcjhvcWw3X0dKVUE5UjdsQjNYQWE5RTc5R0Nfa1I3TnZhX3ZZb1dZWkNJaVk2S2c0TnFTV0kwWVdMX2YxR09rYXBqRmlYTG1QMWtiVHIwTDRUMV9SaWZ3?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-21T13:44:22.000Z",
+     "seen": "2026-11-21T13:49:44.947Z",
+     "impact": "يشير تراجع التضخم إلى تباطؤ معدل ارتفاع الأسعار مما يؤثر على القدرة الشرائية للمستهلكين وقرارات المستثمرين."
+    },
     {
      "title": "إيران تحذر من \"تهريب النفط\" في الخليج، وتزايد استهداف الناقلات رغم الحراسة الأمريكية",
      "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
@@ -254,14 +264,16 @@
      "url": "https://alborsaanews.com/2026/11/21/2007900",
      "source": "البورصة",
      "time": "2026-11-21T13:12:01.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
+     "seen": "2026-11-21T13:29:44.566Z",
+     "impact": "يدعم التوجه نحو التصنيع الذكي فرص تأهيل العمالة ورفع كفاءة الإنتاج في المصانع."
     },
     {
      "title": "«الاستثمار» تستهدف توفير 10 ماكينات إلكترونية لتيسير خدمات المستثمرين",
      "url": "https://alborsaanews.com/2026/11/21/2007898",
      "source": "البورصة",
      "time": "2026-11-21T12:52:59.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
+     "seen": "2026-11-21T13:29:44.566Z",
+     "impact": "يساهم توفير الماكينات الإلكترونية في تقليل الإجراءات الروتينية وسرعة إنهاء معاملات المستثمرين."
     },
     {
      "title": "نورهان الشيخ تقترح إنشاء نظام مصري مستقل للمدفوعات الدولية يتيح التسوية المباشرة بالجنيه",
@@ -269,7 +281,7 @@
      "source": "جريدة المال",
      "time": "2026-11-21T12:51:39.000Z",
      "seen": "2026-11-21T12:59:44.739Z",
-     "impact": "قد يساعد مقترح التسوية المباشرة بالجنيه في تقليل الاعتماد على العملات الأجنبية وتيسير التجارة الخارجية."
+     "impact": "قد يساهم المقترح حال تطبيقه في تيسير المعاملات التجارية وتوفير بدائل لتسوية المدفوعات الدولية بالجنيه."
     },
     {
      "title": "كيف خدّر رجل زوجته وعرّضها للاغتصاب على أيدي غرباء على مدى 13 عاماً؟",
@@ -339,13 +351,6 @@
      "time": "2026-11-21T10:45:00.000Z",
      "seen": "2026-11-21T10:49:44.869Z",
      "impact": "استقرار سعر الدولار يساعد الأفراد والمستوردين في مصر على التخطيط المالي وتحديد أسعار السلع بوضوح."
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه السبت 21 نوفمبر 2026 داخل البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNc1FaZGdIN3VJOF9YTUxLcDlpUkhnaF9RWW1rX3dPZlE4bTlDdHIwQmZzMVlZZ3I4UVA2OFZ6TE50cE5waUdzd1FFUFB5U1FHWk9jamhRdjdJMGdxakhNR3dvQUpZbkQ4SEJhbnV5OVREMmt3Y3Faa1Y4bXpuMDJ2b3FGRnhzN1l4NG1SSlkweWM0aERiZzB3Z0tpUnAtamdvanpxbUdNQnhPZXgzdC1CRkY5eGtoMVdXbWhSMGtmaHFvU1JfZ0hGamxqaWVsN0hmNEpLWk1Lc2t6WWV4eVpGLXZEeHBBVmlfa1R0eVdyUTlWdTVibDlBMUFIOXIxcVJPNjdvYzN5eVhtWkNxVDcwUl9tci1WNU9Vcnd4NWIwNW5DVWt0MHUwRG1aamQ5UWtROC0xdnlQTzNyWFRhWW5PVjFOWVhrZW5pRkFTT2Q2U1dWZVk1WFluRnFmUTBuTkE5ZFhXcDY2X2pTVUtWSlZXYVRlcGdhR21oaVJSWU92azJuYm1GM0FEVmllbWNNWnVYQjdIODJWM3dKQlljb3JnTXJ0ejBPb2tLRlBsb2NTNHROX0FNSGdVNWR2SnMzU21vZUJhb1ZxU0RTZUZkVW5aNWJCWG5YMjU5V3F4ZkRHS1RNVjQ2N18wZVNXeHpPYTBzd2pyMlFzeHljYVpBQVFtSGpn?oc=5",
-     "source": "CNN الاقتصادية",
-     "time": "2026-11-21T10:40:38.000Z",
-     "seen": "2026-11-21T11:19:44.177Z"
     }
    ]
   },
@@ -353,6 +358,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "الدنمارك تقرر سحب مقاتلاتها المشاركة في التحالف الدولي ضد تنظيم \"الدولة الإسلامية\"",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261121-%D8%A7%D9%84%D8%AF%D9%86%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D9%82%D8%B1%D8%B1-%D8%B3%D8%AD%D8%A8-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%B6%D8%AF-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-21T13:44:45.000Z",
+     "seen": "2026-11-21T13:49:44.947Z"
+    },
+    {
+     "title": "كيف تعرّضت جوان يونغ للتخدير على يد زوجها والاغتصاب على أيدي غرباء على مدى 13 عاماً؟",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TeXpPOEQ1eDhkWW1fMF9NckFNbWtwanBXY2wwa1o0NkZUa0JwWU1jSFpLdVZzWjBRTThCbzVIQ3M2WXB3WmFTYTBDT2hQNVh2UkkwdFpOXzFUZ0tDVmfSAWNBVV95cUxNV251d3RFaWdsVll2SE8tamdMRThKRk9PX0NqeWRKdktwS3VQRjA0VWc1OExlSjI5XzdJbkpsYnR5OUp1ZXMyYTdPRGh6aTBXaDY2UUtTQkJsSmpnVFNYaGJadnc?oc=5",
+     "source": "BBC",
+     "time": "2026-11-21T12:55:13.000Z",
+     "seen": "2026-11-21T13:49:44.947Z"
+    },
     {
      "title": "انتخابات رئاسة الفيفا: الاتحاد الأفريقي لكرة القدم يعلن دعمه لجياني إنفانتينو",
      "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261121-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%AF%D8%B9%D9%85-%D8%AC%D9%8A%D8%A7%D9%86%D9%8A-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88",
@@ -410,13 +429,6 @@
      "seen": "2026-11-21T13:29:44.566Z"
     },
     {
-     "title": "كرة القدم: هاري كاين يخضع لعملية جراحية ناجحة ويغيب عن الملاعب لعدة أشهر",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261121-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%87%D8%A7%D8%B1%D9%8A-%D9%83%D8%A7%D9%8A%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D8%A8%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-2026-%D8%B3%D9%8A%D8%BA%D9%8A%D8%A8-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D9%84%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
-     "source": "فرانس 24",
-     "time": "2026-11-21T10:59:19.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
-    },
-    {
      "title": "فيديو منسوب لـ\"ضربات على مواقع حوثية في ميناء الحديدة\".. هذه حقيقته",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/old-video-purportedly-strikes-houthi-positions-port-of-hodeidah",
      "source": "CNN بالعربية",
@@ -443,13 +455,6 @@
      "source": "الجزيرة",
      "time": "2026-11-21T10:04:14.000Z",
      "seen": "2026-11-21T13:29:44.566Z"
-    },
-    {
-     "title": "الكاف يجدد الثقة في إنفانتينو.. والفيفا يرفع المنح إلى 25 مليون دولار",
-     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%a7%d9%84%d9%83%d8%a7%d9%81-%d9%8a%d8%ac%d8%af%d8%af-%d8%a7%d9%84%d8%ab%d9%82%d8%a9-%d9%81%d9%8a-%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d9%88%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T10:02:20.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
     }
    ]
   },
@@ -462,7 +467,8 @@
      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPZk5mSWt6NlhrMUQ3M1VTb1M2bFFJMmZNRDU3cnBkMlMtdHJDamp6dVE2cW9hVWF2aW9jMjgzOGhtX180Z3ZqbVNpdlRkVFhJNTRrV1pEQTB3T1c3cEhxOGExMFhQWHpSeFMtMGoySzZOMmZESWc0M2xHTmUwZ1ZoUTdUTFVmNUgyWTRWWFJoTXlHMENoc3cySllneHlYNWQ5OEo3aEF1NENQUDZWSmtNYW9yd0JyTW9OVm85Y1JWQ0xUdWQxYUE4RjBSTXRqRUR2dndKdEVxWE5ydEU4SVRpNml1amJiY0ZZQ3dtdlhWbW5Bc0p2MTJkMUFxN2NtYThFcHR2aVZfWDMwYWEwVmVnQ281UmQwaXp5bUJxT21FU0c2VDctUzBJdjNvdlhGcVFqOW5hQWx5ZGZTeWQzaHVkYnZrUkZnRzZmUDVscmptenNRMWZZTGpsdVhFQXZQQTYtY1VQRFlib0xCbVQyNjdqbExlV1RmYUpZMjgxdEpKVS0yZGdULXBYV2ZrNXFjU2VsdzBkTF93ZzJ6MjZ5TkJHYk5MZ3RaRnZCNURNMlhVOHhhREFGcDRfdHJaLU9icWE4WFVQd3hTMloyazRoSldYblk4MUZQcWZkVTBxdHctUlBUa2dNMHAwekVDS3ptWVpfMlExcmEyRU8yN3RuX3paSGppdmNvVHRSRGVVUUhxbVNfUXBDT25Z0gGSBEFVX3lxTE5PeTZZd3d3a2R3d0dJRktHaHIzNTRYdkhIR2hTcXpuWWEtU1UwTVRMOVc4UWQ0UFAwMk9KN0Rsc3Fpc3V1VlptTUppNmN3bkNlOURKWUVoTmV0LU4xM2hSdUNsVmdMZHE4MFVVblJZMldvRUxIU2dyTGU1TXJwUkVvT1VDMFI1N284RTRia2pBUFZuQzd0aGMtTlg0OUUyYlVDNzAwYm1feW5PeWl2OHUzUE8wYUx6TXNKdGFEcFA5WDhYVkN5dEpLZ3VFTVgxekdZeVRWcWo5THVpZlNIVEpvRmRTSndYZXZ5Q19wRGJkeElJUldwbXdRSlBMM0lQcVREbEg3ZUM3dC1ORmJ6VHk0aU1JOV9zbWpXQWlNTE5OMW94TmJoMkRqVG1XbDIzUThNTHVlbTJod3JTV1pEcHVlNXMza3NGc3h4X2RWckFLY3Q4dUVQTE1feUhreElrUEYtM2YzZ1o0bVpSdk5UVjFpYVRsTi1OU3gydmo3dnZWUTVoQnZLd2RyRjM1UDYyX0RZVUthUkowTDJiZ0hWdmUybjVsZnJYa1FldFlMSmVUTDdfZEdYTXUwZm01X2otY3VQWENtb3pSc2I5bDJvRnh6N0lGWTA2ZXhtN1dyelF1MzJGdXo4MWZmdnVZY2stOUtJZFd1NnlMNlR3UnVpQ2RhNGp4aXdKaXRzMk5oWFZOX1Nn?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-21T10:49:00.000Z",
-     "seen": "2026-11-21T13:39:45.128Z"
+     "seen": "2026-11-21T13:39:45.128Z",
+     "impact": "يوفر حكم الإفتاء وضوحاً شرعياً للمواطنين ومطوري تطبيقات الهواتف المهتمة بتحديد القبلة والمواقيت."
     },
     {
      "title": "\"اليمين المتطرف يهدد أوروبا، لكنه هشّ\" - مقال في الغارديان",
