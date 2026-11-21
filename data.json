@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:16:02.637Z",
+ "updated": "2026-11-21T09:26:02.403Z",
  "minute": [
   "استقر سعر الدولار في السوق المصرية دون مستوى 54 جنيهًا وسط هدوء في سوق الصرف.",
   "هبطت عملة بتكوين إلى أدنى مستوى لها في عامين بالتزامن مع ارتفاع مؤشر الخوف في وول ستريت.",
@@ -10,7 +10,9 @@
   "at": "2026-11-21T09:06:02.667Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T09:26:02.403Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57801,
-   "change": -1.7,
-   "asOf": "2026-11-21T09:16:03.000Z",
+   "value": 57885,
+   "change": -1.55,
+   "asOf": "2026-11-21T09:27:20.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,18 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لحظات مرعبة ..القصة الكاملة لسقوط لعبة في ملاهى مركز شباب الشيخ زايد بالاسماعيلية",
-     "url": "https://www.elbalad.news/7188625",
+     "title": "بعد واقعة حرق جثمان شاب داخل فرن.. تعرف على عقوبة دفن الجثث أو إخفائها دون علم القضاء",
+     "url": "https://www.elbalad.news/7188638",
      "source": "صدى البلد",
-     "time": "2026-11-21T09:15:09.000Z",
-     "seen": "2026-11-21T09:16:02.637Z"
+     "time": "2026-11-21T09:25:02.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
     },
     {
-     "title": "انتقاما من الأثرياء.. إدانة شخص بإشعال أكبر حريق في تاريخ لوس أنجلوس",
-     "url": "https://www.elbalad.news/7188557",
+     "title": "تحرير 48 مخالفة تموينية وضبط 478 بطاقة تموينية بحوزة صاحب مخبز بالعياط",
+     "url": "https://www.elbalad.news/7188637",
      "source": "صدى البلد",
-     "time": "2026-11-21T09:14:17.000Z",
-     "seen": "2026-11-21T09:16:02.637Z"
+     "time": "2026-11-21T09:24:23.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
+    },
+    {
+     "title": "محافظ أسيوط: تحصين 121 ألفًا و973 رأس ماشية خلال 4 أسابيع ضمن الحملة القومية لمكافحة الجلد العقدي",
+     "url": "https://www.elbalad.news/7188626",
+     "source": "صدى البلد",
+     "time": "2026-11-21T09:23:47.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
+    },
+    {
+     "title": "وزيرة التضامن تكشف لـ\"اليوم السابع\" آليات الوصول للأسر الأولى بالرعاية",
+     "url": "https://www.youm7.com/story/2026/11/21/وزيرة-التضامن-تكشف-لـ-اليوم-السابع-آليات-الوصول-للأسر-الأولى/7626742",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T09:18:00.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
+    },
+    {
+     "title": "رئيس الطائفة الإنجيلية يشهد رسامة شيوخ وشمامسة جدد بالكنيسة الإنجيلية بأول الهرم",
+     "url": "https://www.youm7.com/story/2026/11/21/رئيس-الطائفة-الإنجيلية-يشهد-رسامة-شيوخ-وشمامسة-جدد-بالكنيسة-الإنجيلية/7626737",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T09:17:00.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
     },
     {
      "title": "وزيرة التضامن لـ\"اليوم السابع\": برامج الحماية الاجتماعية أولوية رئاسية قصوى",
@@ -159,25 +182,11 @@
      "seen": "2026-11-21T09:16:02.637Z"
     },
     {
-     "title": "تعزيز دور إفريقيا.. 3 رسائل حاسمة من الرئيس السيسي في منتدى أسوان للسلام",
-     "url": "https://www.elbalad.news/7188601",
-     "source": "صدى البلد",
-     "time": "2026-11-21T09:13:35.000Z",
-     "seen": "2026-11-21T09:16:02.637Z"
-    },
-    {
-     "title": "عرض مسرحي لصندوق مكافحة الإدمان يجوب قرى حياة كريمة للوعي بمخاطر التدخين",
-     "url": "https://www.youm7.com/story/2026/11/21/عرض-مسرحي-لصندوق-مكافحة-الإدمان-يجوب-قرى-حياة-كريمة-للوعي/7626720",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T09:05:00.000Z",
-     "seen": "2026-11-21T09:06:02.667Z"
-    },
-    {
-     "title": "نقيب البيطريين يستقبل ممثلي الأطباء المتقدمين لمسابقة الاستعانة",
-     "url": "https://www.youm7.com/story/2026/11/21/نقيب-البيطريين-يستقبل-ممثلي-الأطباء-المتقدمين-لمسابقة-الاستعانة/7626723",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T09:03:00.000Z",
-     "seen": "2026-11-21T09:06:02.667Z"
+     "title": "الأرصاد تكشف موعد انخفاض درجات الحرارة وسقوط الأمطار",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85VUlrWjNNRlNkd0V5bnJ2cnlFcEpDVW1mSGU0Um1FRGlIb1ZKY05EX1llT3VtTG5XTlgyVUUweDAzNHl6QXZ5cVc5cEJlcjJGWUhqOWRWLVc2Z3RscmVr?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-21T07:51:00.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
     },
     {
      "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
@@ -215,13 +224,6 @@
      "seen": "2026-11-21T06:46:02.732Z"
     },
     {
-     "title": "«5 ساعات تحبس الأنفاس».. تحذير من حالة الطقس اليوم السبت",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkJDbERQbUVxMi1tb1R5cjk4dER6WXdERVZpNDlyWkhXVVM3N1FPZW9OM3J5RzFrZEJyUXdBeGplS1V0WFNJeHdiTV9Bb1dFRUpoYWM2aGFIRmhhNGE0?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-20T22:02:00.000Z",
-     "seen": "2026-11-21T01:15:39.200Z"
-    },
-    {
      "title": "مصادر لمصراوي: سها النقاش تتقدم باستقالتها من رئاسة قناة النيل الثقافية",
      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPSG1MYlNUWTcxenpHTE00ZExJX1ZqUUh6Vklhd1NhV2YwNkYzZ1pXNVhORzNPYklPa3BfSThXSGszb2tra0JQN1c3UFJTWEVwb1M4YTJSdmJpNHUtcjlOUVZwc1JJX3JxcWhsUURxdmZrNGQyeWtpTER0d0lQOFNGUTJ4QjUyYnAxUDhwM3J4OS1MM0JwUkVSNlo3T0NGaHZ1YTdZWGN1SXVFdUNsYjFzUzhYcjFCNEx3THYxNXRLUTRBYkNmWi0yODhFLThDUWlvcTBWbGhiSUZ5Q2dVNWotQU5pbWp6UmR4WlRQZkk0T29XcXI4QklFUTVBeV9wR2oxZHBGRzBrLXliMDRndE9URG9zaFhtSkZfVFR1MF80dloyRDJPRUpRWVpJU21BNGUyazFfazdSaTkwTGdDUEtqaDZRNWR0Y2FqRG8zUXY1RG8tc2ZpOE1nTGFmcEZEVC1Tb283bnloRjBYX0gzOEVoUlh0TWtmWXZRTXdXZ0FpVXBlT2ZPUy1LNmx1MjdPenlTY2lkN3ZuTkw3MFpWNU84TVM5N3U5bWJraDBRdmxQdWZtX1BRTWNKbXNWV01PTkItcTNRR3BTZnphTmxiUEZQSWVrcE9NUXZzNDdQcVpJVjNLbGVqaXRUcEltUVVINkhYemhLbmtpWFk0QUxDTEliV25GOTNjUWN5akpZRmc0WjVpbzFpRV9jTEJOLUp0dzh1VHZmb28zcE5NNGRJM3o3YVdhbW1nLVBCbnQxVkdaSU9YTmJDYVE1TFhRQmhWM0JTTk1uSE05SlMwdjRtQUU4SWJhZ9IB6ARBVV95cUxNVnFDUkZLa25pcVRsTmN4MGN2ZzBvWWktVnBxZG5NeUNZRzdIMURHMTFlV3JncVpTSjFYZzRLenFEanB3WEhoV1N3b3lTa0JqMTk3dl9Jc2NGUmRlRE5UVUZ0MEpKaHA3emhOYVprMU1NWnltaE1zd1ducGQ5QWdEYmIzMFg4WktvXzc2dGFwNGNlRGs3S0RtU1NZVVl4SFdwTl9IT1FMN3pGQU9Pakdwa0NfMW1jR2RLVTQ2ZWJJU3BHX3o1NnFTU1RqdVIwQWxZN042Y0IyNmprTDFtRjBON29SWVMzbTNUTVl2MTd4MUNlUUgta2xRc1ZQSGxGY3VOODlkTGlIVUhXNE1IZ0pMaHlLQ3ZWZFNiOUtZLXhzQy12YmRJLUUxTFhJdU1FME9fa3Q0dUJEeUI5Mk1yQzZjM2M1QjhSSVhjMDFwNHRISUs3OWczUlAyWk5oVE9aTVpGQUQwaU1OU0NzdjBNUWUxT2VYNjR3RDFFNlpFNEJOejEtc2pxN1JGRnREMmlrME5DZTdhbGJOb01UaFBSZXF5a0lyNmZRTFpNSHo0a3phLW5IMjNiSU9zR2VxOTZCNGd1WXdoM1k0VjkyZmZhUHozQk5ZR1UxdG80WkN0VFkyakRLXy1WNEhnSG1kcWh2eVF0T0NzOXpjWHFLeXlKTGFoMS1zWkQ2Y2I5NC1TT1pwTlZMa0ItLWpWSG1zZVB1djZxUzBvYnVnU0dCNmdCQjhVbmdDSmY2R3ZWVGI5d1A0UkoyUFZYdWY0RGMxRWw0elNfWFZQSDdoTnBTc3kzenVWUXpySlNWR0Uy?oc=5",
      "source": "Masrawy",
@@ -250,6 +252,27 @@
      "impact": "يساعد استقرار سعر الدولار دون 54 جنيهًا الأفراد والمستوردين في التخطيط المالي وتحديد تكاليف السلع."
     },
     {
+     "title": "“البترول” تبحث تعزيز التعاون مع “IRH” في توريد منتجات الطاقة لمصر",
+     "url": "https://alborsaanews.com/2026/11/21/2007853",
+     "source": "البورصة",
+     "time": "2026-11-21T08:55:55.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
+    },
+    {
+     "title": "“فورد” تعيد افتتاح مصنع أوكفيل في كندا رغم رسوم “ترامب” الجمركية",
+     "url": "https://alborsaanews.com/2026/11/21/2007851",
+     "source": "البورصة",
+     "time": "2026-11-21T08:44:53.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
+    },
+    {
+     "title": "سهم “إنفيديا” يهبط 14% ويسجل أطول سلسلة خسائر أسبوعية منذ 2008",
+     "url": "https://alborsaanews.com/2026/11/21/2007849",
+     "source": "البورصة",
+     "time": "2026-11-21T08:39:15.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
+    },
+    {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في مصر.. تحديث البنك المركزي",
      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNeFJRWGx6M2RWQ3dwQ01HMFJTSDYyMExoSkZVV2RHd212ZEZnMEFDVWNfTjRhSVlkYUw3TDUwU3NPdGJyaXBtVzJmQXE2M1BvdFdmQk9YWlFyaXlFMFQ0Ymw1RHVhYUZYSnlEem5xcmJEZ3ViTEhhQ0NxZnNrTWlnbExNa19wYTdKZm9QWXZNd1k3ZzNCWXV4Vy1oNXpVUW8tSGEyZS1pRVhVSEMtSGZrSkU5THBObW9LT29wNnYxenIwdm03MWozZk01TU9ibkNVYzVDTE5CMkIyTURBM3B0V09BYUFtbVFXNHozbUszbFBlVlBwRzNFY1pfSWZlMUlPc25kX1EzRGE0WU9XYWdncUdUSEdWMDNNZ2RJS2dtNGVmVmxnakhJZk56b3Nfa0lyTTlDMlhxNmY1OGxnQ0VhcUNGVk9YS3UwNDg3WUtqN2VPM3JqeUNaZUlzekJ2U1RRTTdibUpPNGxfY1dxMUpqUHA1WEIzcUR6c3A0YWtQNnVxRGF5RXhJWVhuNWpfc28?oc=5",
      "source": "اليوم السابع",
@@ -264,22 +287,6 @@
      "time": "2026-11-21T08:29:44.000Z",
      "seen": "2026-11-21T09:06:02.667Z",
      "impact": "يؤثر متابعة سعر الريال السعودي على حركة التحويلات المالية والتكاليف للمسافرين والمواطنين."
-    },
-    {
-     "title": "مؤشر الخوف في وول ستريت يلامس أعلى مستوى منذ اضطرابات الرسوم الجمركية",
-     "url": "https://alborsaanews.com/2026/11/21/2007842",
-     "source": "البورصة",
-     "time": "2026-11-21T08:16:09.000Z",
-     "seen": "2026-11-21T08:26:03.109Z",
-     "impact": "ارتفاع مؤشر الخوف العالمي يعطي إشارة للمستثمرين حول تقلبات الأسواق المالية وتأثيرها على الأسهم والأصول."
-    },
-    {
-     "title": "الصناعات عالية التكنولوجيا في الصين تجذب 37.66 مليار دولار استثمارات أجنبية",
-     "url": "https://alborsaanews.com/2026/11/21/2007840",
-     "source": "البورصة",
-     "time": "2026-11-21T08:07:36.000Z",
-     "seen": "2026-11-21T08:26:03.109Z",
-     "impact": "تدفق الاستثمارات للصناعات التكنولوجية في الصين يسلط الضوء على القطاعات الجاذبة لرؤوس الأموال عالميًا."
     },
     {
      "title": "\"شلاتين\" تطرح مزايدة للتعدين الأهلي عن الذهب تشمل 10 مناطق في ديسمبر",
@@ -338,13 +345,6 @@
      "source": "فيتو",
      "time": "2026-11-21T07:45:00.000Z",
      "seen": "2026-11-21T07:56:02.214Z"
-    },
-    {
-     "title": "التقى صدام حسين وصلى خلف نعيم قاسم: الملاكم محمد علي وسيطاً في ملفات خطف رهائن",
-     "url": "https://www.bbc.com/arabic/articles/cw782lvd7v84o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T07:24:00.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
     }
    ]
   },
@@ -403,6 +403,13 @@
      "seen": "2026-11-21T07:46:02.958Z"
     },
     {
+     "title": "التقى صدام حسين وصلى خلف نعيم قاسم: الملاكم محمد علي وسيطاً في ملفات خطف رهائن",
+     "url": "https://www.bbc.com/arabic/articles/cw782lvd7v84o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T07:24:00.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
      "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
      "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -416,6 +423,13 @@
      "source": "فرانس 24",
      "time": "2026-11-21T06:55:30.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
+    },
+    {
+     "title": "مليارات النفط الإيراني.. كيف تتسرب إلى جيوب الوسطاء؟",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdU5NTUFFNUdoS0s3amgwR3IteGZYUlV2ODc4bjFVZUxwb1FLdE0zVk04VjVyWXlwUHRybTg5ajVWYzZZekRKZF9MNXltdkFCUmZTVWplNlpZX3pqSlhCZkNHMkRBR0Z2ZHFqdmYzeUwzTEVZSE5NaENtSHQ0V25jS2FRZ2R1LWQtTzd6T2dSdXB6Uy1wei1xZWtpWEo0V2VvYV9VdDhIZmRwT1RtZVZEMHBzRlg4X3BpV0RzMWFzV1BreS1zc21BRGhzc2VGNTFVX3dxTHhUUHU3WEpXeDBKT1RLWVJjVDFRZFhjVlo4UDdQS1VKTGM1Rm1LSTZNOXBGX05VZW1MTjZlUl9GSVl1bTY2TjR3NVBWS1h2SkZZdjFqU1pBUkQ3bWQxeDJpWGQwZmQxSS1NSHpCMXJqUm1xUm5GMWFFUUdHdXU1aGJrQ3VadjhRdzlxOFkwOGVod1U0QzVHZFMzal8wV2VwTnpTb2ZNb2wtTmFDM2lxS0pB0gGDA0FVX3lxTFBxWmpuSzVTNmJodHJOYmRPRGRXVVJBeGJ0ZWhWMXdNY2VRQ0VqekxVUmZkZFBVRmxWSkNJVmdLS2g0ZUU3d0MyWTBmWUxzMnltZ20tRUJFMGVWeTBqTjExdnRsZWJmbjNQVDl0RGZsc0dpc1EzWnEydUlsNDlsY1M2N0tzYXdmekpXeVBPbjU2VGM5dHRpOHZObXM3RF90eUFPc2tmcVZmdGpyLW9jUVVsQl9PVGNLWkxQOWF5WUp3eXdSQTlUclM5OGJqNGp2Wi1PVXI5RXBCblJ5dzJmNDE1b3BQdjZTSnlJRWlRT1NMRWM4bDdMT05XYkpncWVGb2pmSE5CVmQtRWNnOU5zSm80VS1yMUU5cTNOWUVuQlA5S1NWWXVfTENCUDRkSjA3S0ZoOFlQd0p1UnZqaTd2SkpNeUpCSGVRdjZsZU15SjR1RjF1UUN1aW95Vl84NC1EREZCbXlVSDRYTkVGdHFpcHhTSFRpRmxsZkxkSlNFcHllNExmYw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T06:39:44.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
     },
     {
      "title": "الحوثيون يشنون ضربات على السعودية بعد إطلاق التحالف \"عملية نوعية\" ضدهم",
@@ -437,21 +451,6 @@
      "source": "فرانس 24",
      "time": "2026-11-21T06:19:45.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "في \"بلاك فرايداي\".. لا تدع حمى التخفيضات تحرق محفظتك",
-     "url": "https://www.dw.com/ar/في-بلاك-فرايداي-لا-تدع-حمى-التخفيضات-تحرق-محفظتك/a-80002466?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-21T05:50:00.000Z",
-     "seen": "2026-11-21T06:06:02.381Z",
-     "impact": "التوعية بمخاطر الإنفاق الزائد في موسم التخفيضات تساعد الأفراد في مصر على إدارة ميزانياتهم المالية بفاعلية."
-    },
-    {
-     "title": "البصرة.. انفجار بمحطة كهرباء الهارثة وأنباء عن أضرار وضحايا",
-     "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNYWxYQ0h2d0swZFRFUzRkWkY5ZzZzbVRxMWtaQTBGUGpJTFpUakZuX2FrdDFfd2JTSml5bHc5RXJHRGVpY3BfRkZ3aWF1NXlvS3BLdjQxcEdSSVA4ekE3Z0s4dUZOSFUzYjhQOThSb0MxYzQyN1VMZk1BWXNYLTRVU2U2QzRtc2NJbnpHRlh1OHJvV0NxN3lQR1FkT21iMVRhOXVIWW1LMmhVTW5mNUNBcm5fX0NrOU54QWo3TE4wUGFvdkJpOWNNZkFlelJkOGp4V0J0cVpVQVZLcHExVzJDQlpFZlpreEd6ZzRRZ1ZJLXN4cVJtcjlyMFlYVGtNaFRZRDBaZnh1OUZpR3R4aTg2aWVjTnZDQmJybkV0OGM1MmVRY0tvWFRHT0cxMjZzMEVVNzZQaUIxMnpWWUFVREVvalBZeXZFUDRkOVBxeHhKOFpieUhsZmRjb3lvWUNZeEMwUEdRdG1OVFlOQVpRQ2ZZX09mNjMzcE5qX2dvQXJ1U0dqa2xVaTZQWFUzTk9vUzdUdXY0XzE2SlRfVlJNQ3BEdzYyZ2JidmRXNFdGRk82Vjd6YUY0d3FsOGxGRmlfMWhkVFd4cEdOTWFSeWFQYnJFX1d0QlFuanl6YUtVT1BJdjnSAeYDQVVfeXFMUEZxWFhxRG1JRHU4ZnZoZk5wbkI5N1VkNmxVRHZ1cy04X3RsRVlkVWVoUWFZY0syUF91SGpzZHVuTm9kWEZpNXNkNlkzVVdMWnJiQVpsWHU3em8ybjRrTHg4b2xjaUVQRW1kMTU0cXhUU0luZHNFQUJwLTktY0ZvSWNRa1BOeWxYU1JVQkFGOHR5VGhSdmtEV29YOEFaa3JGOU4zbnlIRUdMN1JfcTR6TXZrQzl0RXpwME1HY1k4NF8wR3U0TEFxZnpfRXBncmZpeW5CdTF0ek9YOFVMVjdXR3RBSHNvUUJhZ3ozM2FFUDB2N2xrSUswbDhVaWpZckV2RF9jUG9mVXR6dFl2NUZ0MjFlM3pGZ1I2TTB1TGJhdXIxXzBDbHdZcXBYTWxnanExMHEzaGVPd3E3NkhZRmFQY203WDJkRkw1TTJCOXZ2WkhtcGc2d1ZVV2V5blo4bHlfSGZjVk9HY0VJSk42LUJDdHdmZklGdDcxYUstcGZ0RmRiTlFoNjNKeVowREVEQXZ4MUhWNDNoenNGV2ZFOWhROWprOEZyN1YzSkJ0eTQ3d3VGM29BZTlsVGh5R1dLMHJZVkhLdTUtejA0c3BvcW02RFZiQlk1U2ZRSWVia1V6VG9vTkFKNm13?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T05:47:38.000Z",
-     "seen": "2026-11-21T08:26:03.109Z"
     }
    ]
   },
