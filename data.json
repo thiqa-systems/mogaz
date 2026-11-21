@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-21T07:26:02.387Z",
+ "updated": "2026-11-21T07:36:02.741Z",
  "minute": [
-  "شهدت الأسواق المصرية استقراراً في سعر صرف الدولار بالبنوك بالتوازي مع ضغوط هبوطية على أسعار الذهب محلياً جراء تراجعات عالمية.",
-  "تستمر التطورات الميدانية والسياسية في المنطقة مع إعلان إيران عن استعدادها لمفاوضات بشأن مضيق هرمز وإعلان التحالف اعتراض صواريخ متجهة للرياض.",
-  "سجل قطاع التكنولوجيا والألعاب الإلكترونية مبيعات قياسية عالمية ومحادثات جديدة حول الاستحواذات والتفاهمات التقنية."
+  "شهدت الأسواق استقراراً في سعر الدولار بالبنوك المصرية مع تراجع أسعار الذهب وانخفاض أسبوعي لأسعار النفط.",
+  "أعلنت مصر عن مهلة جديدة لمدة 6 أشهر لتقنين أراضي الدولة والتصالح، وإطلاق معرض ديارنا للأثاث بالمنيا بتمويل ميسر.",
+  "وعلى الصعيد العالمي والتكنولوجي، استمرت التوترات العسكرية بالمنطقة إلى جانب تسجيل اختراق إلكتروني جديد لهيئة الـ إف بي آي."
  ],
  "ai": {
-  "at": "2026-11-21T06:56:02.484Z",
+  "at": "2026-11-21T07:36:02.741Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T07:26:02.387Z"
+  "key": 1,
+  "impacts": 8
  },
  "markets": [
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58124,
-   "change": -1.15,
-   "asOf": "2026-11-21T07:27:00.000Z",
+   "value": 58162,
+   "change": -1.08,
+   "asOf": "2026-11-21T07:36:22.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,32 +137,41 @@
    "title": "مصر",
    "items": [
     {
+     "title": "كفر صقر تواصل تطوير منظومة الإنارة العامة بطريق مصرف صان بالشرقية",
+     "url": "https://www.elbalad.news/7188501",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:34:49.000Z",
+     "seen": "2026-11-21T07:36:02.741Z"
+    },
+    {
+     "title": "يسرا تهنئ هند صبري بعيد ميلادها بهذه الكلمات",
+     "url": "https://www.elbalad.news/7188521",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:33:14.000Z",
+     "seen": "2026-11-21T07:36:02.741Z"
+    },
+    {
+     "title": "منافس الزمالك في دوري الأبطال على صفيح ساخن.. خالد بن يحيى يرحل عن مولودية الجزائر",
+     "url": "https://www.elbalad.news/7188523",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:32:55.000Z",
+     "seen": "2026-11-21T07:36:02.741Z"
+    },
+    {
+     "title": "6 أشهر جديدة لتقنين أراضى الدولة والتصالح.. فرصة لتوفيق الأوضاع",
+     "url": "https://www.youm7.com/story/2026/11/21/6-أشهر-جديدة-لتقنين-أراضى-الدولة-والتصالح-فرصة-لتوفيق-الأوضاع/7624721",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T07:32:00.000Z",
+     "seen": "2026-11-21T07:36:02.741Z",
+     "impact": "تمنح المهلة الإضافية المواطنين والمستثمرين في مصر فرصة لتوفيق الأوضاع القانونية لأراضيهم وتجنب العقوبات."
+    },
+    {
      "title": "وزارة التضامن تطلق معرض ديارنا للأثاث بالمنيا بتمويل ميسر حتى 7 سنوات",
      "url": "https://www.youm7.com/story/2026/11/21/وزارة-التضامن-تطلق-معرض-ديارنا-للأثاث-بالمنيا-بتمويل-ميسر-حتى/7626586",
      "source": "اليوم السابع",
      "time": "2026-11-21T07:22:00.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
-    },
-    {
-     "title": "باحث في العلاقات الدولية: إيران توازن بين الرد العسكري وتجنب مواجهة واسعة مع واشنطن",
-     "url": "https://www.elbalad.news/7188506",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:20:41.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
-    },
-    {
-     "title": "العراق: 4 وفيات و30 مصابا جراء حريق في محطة كهرباء بالبصرة",
-     "url": "https://www.elbalad.news/7188507",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:19:42.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
-    },
-    {
-     "title": "استهداف محطة\" كريفوي روج \" للطاقة في دنيبروبتروفسك..وتدمير 275 طائرة مسيرة أوكرانية",
-     "url": "https://www.elbalad.news/7188504",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:11:48.000Z",
-     "seen": "2026-11-21T07:16:02.585Z"
+     "seen": "2026-11-21T07:26:02.387Z",
+     "impact": "يوفر المعرض للمواطنين بالمنيا تمويلاً ميسراً يمتد حتى 7 سنوات لشراء الأثاث وتخفيف الأعباء المالية."
     },
     {
      "title": "جامعة القاهرة تصدر تقرير الاستدامة السنوى 2026.. يرصد جهود التحول الأخضر",
@@ -172,13 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T07:10:00.000Z",
      "seen": "2026-11-21T07:16:02.585Z"
-    },
-    {
-     "title": "قصر العيني يطلق المؤتمر الخامس ENDO CAIRO ويناقش أحدث تقنيات مناظير الجيوب الأنفية",
-     "url": "https://www.youm7.com/story/2026/11/21/قصر-العيني-يطلق-المؤتمر-الخامس-ENDO-CAIRO-ويناقش-أحدث-تقنيات/7626575",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T07:04:00.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
     },
     {
      "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
@@ -254,14 +254,24 @@
      "url": "https://alborsaanews.com/2026/11/21/2007826",
      "source": "البورصة",
      "time": "2026-11-21T07:17:02.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
+     "seen": "2026-11-21T07:26:02.387Z",
+     "impact": "تؤثر التغيرات في أسعار النفط العالمية على تكاليف الطاقة وأسعار المنتجات للمستهلكين والمستثمرين."
+    },
+    {
+     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026.. استقرار جديد بالبنوك",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPRjQ1WER0aHJZay15cURKbkhoZ0d3WW9IZFB2enpQUFpld1hUcUQ1MFJGT2FXRnM5S1JxenNaaS1MSW1jeFJfV2lOWHpVT214SEZKaXVVRkdVN0QzMmJWU2RWSk9qWjNxYXNoSGE5Zmp4VHdPc1ZwemNqNkFYdHYyc25SOV93dVhEWENxUFJCYmxaYnc4cEk2SEJWc0RydTdWNDBMb2RONnROU1MtaWFtZERIMGdMUVV4cWRESlpSbjV2T3p6SGVxVmhkYXhZZjRfTVQ2UHQzdFhPcHVxd0ozVFdtSnpXRUNRMGswQmJsZVlWWWt0ajVIc3lTRmtvWllKM0RkSzNmdkJDdU5UcHd4aGQzRHZTUzFDM2tnQ2NOMUF4LWVtMXBYTkRRclM0TVhSVDd4bGpqX29IaVk?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-21T07:15:11.000Z",
+     "seen": "2026-11-21T07:36:02.741Z",
+     "impact": "يساعد استقرار سعر الدولار بالبنوك على ثبات التكاليف المباشرة للمستوردين والتخطيط المالي للأفراد."
     },
     {
      "title": "أسعار الذهب تتراجع 4.5%.. وتتكبد أعمق خسارة أسبوعية في 8 أشهر",
      "url": "https://alborsaanews.com/2026/11/21/2007824",
      "source": "البورصة",
      "time": "2026-11-21T07:13:17.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
+     "seen": "2026-11-21T07:26:02.387Z",
+     "impact": "يتيح تراجع أسعار الذهب فرصة للأفراد والمستثمرين الراغبين في الشراء بتكلفة أقل."
     },
     {
      "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
@@ -283,14 +293,6 @@
      "source": "صدى البلد",
      "time": "2026-11-21T07:00:00.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026.. استقرار في البنوك المصرية عند 53.87 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DbUd2NWNOSHVZbHNwNzBxeVkxeDN5a01BZkI2SU5QeFBqbkJ2UEU5YWk4QWFwZkw1SVByVkZ4SExPTk5BbTJVX1dJZFlldDNSNGxoWUFKLW5rR1o4Y1dv?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-21T06:05:00.000Z",
-     "seen": "2026-11-21T06:16:02.229Z",
-     "impact": "استقرار سعر صرف الدولار يمنح المستوردين والشركات في مصر قدرة أكبر على التخطيط المالي وتحديد تكاليف المنتجات."
     },
     {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 .. تحديث جديد في سي اي بي",
@@ -423,6 +425,13 @@
      "seen": "2026-11-21T05:36:03.155Z"
     },
     {
+     "title": "ضغوط أميركية وإسرائيلية على ترامب لاستئناف حرب إيران",
+     "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQcks4aTZYS3dVS2VGZlJPU0ZqVnJ6bG82Q0ZJS0VmVkxNc2FWOUFGckFfM2h4VEw3ekw4RDNsdUxTVkJkcG1QRVdtVFljcHZRWHB6R0U5MDA0UG1RQXFkWHlEcUptRTJqY1Y0Nlp6T3FxemVoUzdDakJGeUw1N1RTQ3pkVVlPWVdabG1uazY3Yzg4TnZOSjhzT2NBdWlHNzVwQ1hUNDNjT05MMVFGUGlRc3Y4RWF4cDE4Q3F2azZQOWZKR2p3ZW9aaTJWckUtQkcySVdUVFBsUl9rQUZEQ0Q1OU12UGtFUzIwUFNURUZUN1gwVUFOb2R5UjhJNUFnQUpNQkRzQlFNVzV2YmV2VFJiR1laRTlpbmNCc1J3MzRDMjNQMktJX2wxZmFQOXVqbHFSMFJ0Nk5UdTN4dEhjZnR2RDVMLWNqUXRnVTZBZDl6bHRSV05KTlVWUXI2cHhFbFFjMVp3LUtmX1dveEl0OElCalFHQ0JWdnNXeHFMR0FFd2xXbVFMRk5KNTltLWtzMVRpeXNPRlpQNFk4OHpIUDFwMG1veXVEaHVtZWtGZnl1NFYzdEdtbnJibUJzRlAtbS1CcG42NS1UeDc1QTRvckwySEZWaXc3OU1TeU5VN3lxMVVYamdvUk9xTUpNTnVYcERCZkZB0gH4A0FVX3lxTFBPazQ5dGVYQ0U2SzVGV2hwQmRxSW1aeTlycHBBbV9rci15ZWRaY1NoYmVvbllmdnpzNGlmU2Y4cGp1bFpQd2YxMDZVaF9IcjdFMmVkaXYyS19SN1BydTdRbU56NDAtRTlXTldwb3RZenNKYlBVNDNmeFJDLWdYek9xZktTanF2Z0E1MTV5eHhDYVFfYjlzLUpCVWJFRWJLUUMxZGk3THlwaXdaVUN6ZnJBbUVyU1dlWGNwMS03djRTc05jWDZQQ1NrbTdydkNUSVhLaUV6aTlQU3c3dmNFXy1vX3JqWnFHcGs4ZXdtM3lZdEI2TXI4ZlpfdVk4QUttZkhlbEhGYlRjTmZvQm0tTGV5TzJVN0VPXzRibk82S0x3b0ZhTmwwcXFXOENfNTZqeEVZX0VMbVlDeHh4VzUtbGNFY3JPSlJKUi1UVGhqUkRsLUVfS0duNG8waUd5ZjVCaE5LazhaU0ZQSjF0UEFUVklra1lYVjZVUnFPbFE3S0JJSnh3TTgtS29RVlFIU0dXZHFHdVNOMVlHUlVMYkZtc3B3Wkg4aGFmN28weHpfbHB2Q3FOSFJBeXdHSGdlenNVRVJCNW5zMXotZzFlN01EZzFGdllubnJTcGlydkxfSUprYldGd0VQM0lvZjNIS28xNldGZ3BJOVVOUw?oc=5",
+     "source": "العربية",
+     "time": "2026-11-21T05:06:00.000Z",
+     "seen": "2026-11-21T07:36:02.741Z"
+    },
+    {
      "title": "الكبد الدهني.. علاجان جديدان يفتحان باب التعافي",
      "url": "https://www.aljazeera.net/health/2026/11/21/%d8%a7%d9%84%d9%83%d8%a8%d8%af-%d8%a7%d9%84%d8%af%d9%87%d9%86%d9%8a-%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d9%86-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d9%81%d8%aa%d8%ad%d8%a7%d9%86-%d8%a8%d8%a7%d8%a8?traffic_source=rss",
      "source": "الجزيرة",
@@ -442,13 +451,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T04:10:48.000Z",
      "seen": "2026-11-21T07:26:02.387Z"
-    },
-    {
-     "title": "لا أحد يوقفها.. الملاكمة الويلزية برايس تحصد جميع أحزمة وزن الوسط",
-     "url": "https://www.aljazeera.net/sport/2026/11/21/%d9%85%d9%84%d8%a7%d9%83%d9%85%d8%a9-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%b7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T04:00:51.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
     }
    ]
   },
@@ -461,7 +463,8 @@
      "url": "https://aitnews.com/2026/11/21/dubai-future-week-2026-day-three/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-21T07:20:14.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
+     "seen": "2026-11-21T07:26:02.387Z",
+     "impact": "تفيد متابعة تشريعات الذكاء الاصطناعي المستثمرين ورواد الأعمال في فهم المستجدات التنظيمية للتكنولوجيا."
     },
     {
      "title": "تقارير: CrowdStrike تجري محادثات للاستحواذ على Zscaler",
@@ -469,7 +472,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-21T06:45:08.000Z",
      "seen": "2026-11-21T06:46:02.732Z",
-     "impact": "الاندماجات بين شركات الأمن السيبراني العالمية قد تؤثر على تكاليف وحلول التأمين الرقمي للشركات العاملة في مصر."
+     "impact": "تعكس محادثات الاستحواذ بين شركات الأمن السيبراني فرص النمو والتطور في القطاع التقني للمستثمرين."
     },
     {
      "title": "تفاهم أميركي صيني.. هل يمنع الآلة من اتخاذ قرار القتل؟",
@@ -490,7 +493,8 @@
      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPLVNSV2xSdC1BMUR2ZFQ5MlplcTktLU1ObUxzOFlsRjctdEhyeW51RXZzNm5hUk1ILUlWdGt3OFQ4X1dVdGJENHVwWS1KTkJMTzV0MUtqOVpHMnluVUxtZ3Bza3ZZQVhzWGthZlQyX1BlUU5ycU1YTmcwRXpJeU9qNFM5X2ZHZmVFQmJwVzE3X0FwdFlRU0lYTFd0aTU4WlVWY1BIZmxjY0xmMHgxdUVmVTBFaWRNNjJ4YjlWX0NxSFNfVXRUdFh2OHdmSVFIYTdfd1VZVU5iT0syd21KbGlfUHc4TVJCWW5HX3JPUG45QlpxV2NMcWlJRHBLYjZpZFJyVWljdDc3TngzXzJTanMzSi1QdGpoTW0tc21DNDRGTm90bmZNRG16Rk1uSExQdDBzeDYyd3V5LUZVQm1GcTR4ZDA1b3o3ZFJ5cmxnelZWampMNjNvM0l0dzUwbnFMLTVpNktiV0FMUTAwNnluY1pYd1Z3NGwtRDlJ0gH-AkFVX3lxTFBXaHhpN013NFlRR0ZWSmFFa0VlMXRueFBlT3N1eGhqa3FKZ3hwYVllU01kUnpIa2FxUDViSnFzeVJjM3M1LUlQUXZPX0twTkhNUTBPY0t6NnM0UVVEVEQxamVseS1ob0JEMFpmNG40YWZzUGZCdEp1anNDd0RLMU0yTHRhdEthYTBfcWEwcm9kZjNPbXo0WmZLTGdRR1hvOTduTDlyQlU2MlNqdExHVTJIbnhqYXpud2NiVEVGdTVGeVFYUkdJOUlmOGptT0xHU2UtWTZXS2wwOHNMd1B6YkNfVUQzekctSzZKVVM2S0QzbHBvYVQtMk5pd0VNb1lXaTBON1VCS1dBWDVHVE1uX19EYl9vWHBFa3dvbUJ2THhwbHFIa1YycGFMNVhQT0lyTmh3Ym9ldlVmSHRobTZDdGZjdmxBTkJHTTBFazlSbGRwSmY5ZW96OEVZV2xQZ3B0UGJsRm5rQjlCb21QcFJSWTRDZVNKclZhTmd2ZFU2SGc?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T03:19:41.000Z",
-     "seen": "2026-11-21T03:55:38.857Z"
+     "seen": "2026-11-21T03:55:38.857Z",
+     "impact": "تؤكد الاختراقات الإلكترونية أهمية استثمار الشركات والأفراد في حماية بياناتهم وأنظمتهم الرقمية."
     },
     {
      "title": "مبيعات GTA 6 تبلغ 3.8 مليارات دولار في يوم واحد",
@@ -563,12 +567,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
