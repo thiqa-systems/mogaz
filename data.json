@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:29:44.706Z",
+ "updated": "2026-11-21T11:39:44.183Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه في البنوك المصرية، بينما أصدرت وزارة الزراعة مئات التراخيص الجديدة لمشروعات الثروة الحيوانية والدواجن.",
   "حذرت هيئة الأرصاد الجوية في مصر من ظاهرة تستمر حتى نهاية الأسبوع رغم الاستقرار العام للأحوال الجوية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T11:29:44.706Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T11:39:44.183Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57921,
-   "change": -1.49,
-   "asOf": "2026-11-21T11:31:36.000Z",
+   "value": 58117,
+   "change": -1.16,
+   "asOf": "2026-11-21T11:40:47.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزير الخارجية يلتقي نظيرته الكونجولية ويبحثان سبل تعزيز العلاقات الثنائية والتطورات الإقليمية",
-     "url": "https://www.elbalad.news/7188802",
+     "title": "برلماني: دبلوماسية الرئيس السيسي تفتح أبواب السلام.. والقاهرة تقود معركة إطفاء الأزمات الإقليمية",
+     "url": "https://www.elbalad.news/7188809",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:27:59.000Z",
-     "seen": "2026-11-21T11:29:44.706Z"
+     "time": "2026-11-21T11:38:57.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
-     "title": "الكاف يعتمد ترشيح مجاهد بعضويه لجنة المسابقات",
-     "url": "https://www.elbalad.news/7188799",
+     "title": "برلمانية: رسائل الرئيس السيسي من منتدى أسوان تعزز الدور الإفريقي في صياغة نظام دولي أكثر عدالة",
+     "url": "https://www.elbalad.news/7188813",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:27:52.000Z",
-     "seen": "2026-11-21T11:29:44.706Z"
+     "time": "2026-11-21T11:38:08.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
-     "title": "وزير الخارجية يفتتح جناح الوكالة المصرية للشراكة من أجل التنمية على هامش منتدى أسوان للسلام والتنمية المستدامين",
-     "url": "https://www.elbalad.news/7188800",
+     "title": "شبكة \"النهار\" تجدد عقد الإعلامية ريهام سعيد لمدة عامين",
+     "url": "https://www.elbalad.news/7188807",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:27:47.000Z",
-     "seen": "2026-11-21T11:29:44.706Z"
+     "time": "2026-11-21T11:37:42.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
+    },
+    {
+     "title": "وزير الخارجية يفتتح جناح الوكالة المصرية للشراكة من أجل التنمية على هامش منتدى أسوان للسلام",
+     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يفتتح-جناح-الوكالة-المصرية-للشراكة-من-أجل-التنمية/7626904",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:09:00.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقي نظيرته الكونجولية ويبحثان سبل تعزيز العلاقات الثنائية",
+     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يلتقي-نظيرته-الكونجولية-ويبحثان-سبل-تعزيز-العلاقات-الثنائية/7626912",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:07:00.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
      "title": "وزارة العمل تعلن عن فرص عمل بشركة روسية في البحيرة برواتب تصل لـ30 ألف جنيه",
@@ -172,20 +186,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-21T10:56:27.000Z",
      "seen": "2026-11-21T11:09:44.950Z"
-    },
-    {
-     "title": "رغم استقرار الأحوال الجوية.. الأرصاد تحذر من ظاهرة خطيرة تستمر لنهاية الأسبوع",
-     "url": "https://www.youm7.com/story/2026/11/21/رغم-استقرار-الأحوال-الجوية-الأرصاد-تحذر-من-ظاهرة-خطيرة-تستمر/7626900",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T10:55:00.000Z",
-     "seen": "2026-11-21T11:29:44.706Z"
-    },
-    {
-     "title": "مجلس الوزراء: قطاع الصحة.. من تحديات متراكمة لمبادرات ومشروعات للارتقاء بالخدمات",
-     "url": "https://www.youm7.com/story/2026/11/21/مجلس-الوزراء-قطاع-الصحة-من-تحديات-متراكمة-لمبادرات-ومشروعات-للارتقاء/7626893",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T10:54:00.000Z",
-     "seen": "2026-11-21T11:29:44.706Z"
     },
     {
      "title": "الأرصاد تكشف موعد انخفاض درجات الحرارة وسقوط الأمطار",
@@ -209,10 +209,10 @@
      "seen": "2026-11-21T10:16:03.159Z"
     },
     {
-     "title": "الوهابية في مصر.. ساويرس يعلق على فيديو توفيق عكاشة.. وهذا رأي ابن باز | CNN Arabic | CNN",
+     "title": "الوهابية في مصر.. ساويرس يعلق على فيديو سابق لتوفيق عكاشة.. وهذا رأي ابن باز بالحركة وفكرها",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3VPRTNoQk40aS14N18tSHlFY0FrOW1VbWtzbk5EZy1GWW9pVlk2VjNZdXpFRGg1emc0QzhtMU1faXhsSXgyU0pBaXduc19XcXRZMXdpQ0NGT2JNUi1UOGxjM3RuSThSTjhvTlVfZjU2T2dKbjFFVkwtdXJGX3E1T05CSjVRYlVDalBCbWgxRXhLMmFnaE03Q2lDa1lFZVRUenhTdlhrR2lvVU9ON0FVdXZrNV9haDdXN2RUSzBn?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-21T05:01:08.000Z",
+     "time": "2026-11-21T04:59:34.000Z",
      "seen": "2026-11-21T08:06:02.605Z"
     },
     {
@@ -353,11 +353,25 @@
    "title": "العالم",
    "items": [
     {
+     "title": "خيارات بجعبة إيران وسط تحذير من رد عكسي لطهران بسبب عاملين اثنين أضعفا مستوى تهديدها",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/irans-oil-leverage-is-weakening-that-could-push-it-toward-escalation",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T11:31:07.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
+    },
+    {
      "title": "\"أصعب من حرب الصواريخ\".. رئيس إيران يتحدث عن تأثير الحصار الأمريكي والعقوبات",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/irans-president-impact-of-the-us-blockade-sanctions",
      "source": "CNN بالعربية",
      "time": "2026-11-21T11:25:24.000Z",
      "seen": "2026-11-21T11:29:44.706Z"
+    },
+    {
+     "title": "4 قتلى و17 جريحا بقصف إسرائيلي واستهدافات في غزة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906206-4-%D9%82%D8%AA%D9%84%D9%89-%D9%8817-%D8%AC%D8%B1%D9%8A%D8%AD%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%D8%A7%D8%AA-%D8%BA%D8%B2%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T11:24:25.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
      "title": "3 قتلى بقصف إسرائيلي لمركبة في حي تل الهوى بمدينة غزة",
@@ -402,13 +416,6 @@
      "seen": "2026-11-21T10:16:03.159Z"
     },
     {
-     "title": "دراسة تكشف حيلة تخفض ارتفاع السكر بنسبة 40 بالمئة في دقيقة",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZklxWjdLa0M5NWpjcFF3X2thVjczOTFIRzdxRG0wdTY3Y1pGOUJrcGtrUzhCbHU5N2F0YzR3Z3NKWlRlTmEzQW4yX3FsYTlXTEFjLUpRdFJfWVhmOGs4czh6blhzS28tV255dzlGeXpvY29NZnl1RkFSSHZKZUFwOWFXLUNONEZ4ODhteEFRVkkzNXFsNHg0WDJTN1FBR0F2cDg5MjU1S3ptQUFCWFRBbDEzYmhPbzRTXzl5Z3VpM1F5Zzh1V2Zrc2laekhFVDRZMElpanJTZjRiNG1sUkQ0S3I2bmtEWllNcEFPWE1uSGlRRXluaC03cnNjcTMyd1JsTG94ZmdQMXVOVGd6dlFXM08tNUJVZ1BKeVB5b2RNb2tPOTJycWRPVFd5dTRwNm5vS1hySVZZV1pFLVZqdnRPWndHVGppQ3lsWi1SdDRLV0NrT05NTmowYVJGemJ3MEo2ZzNhVDZIdkFfN0hqZzQxZzIwM1pKem1INHZuQXNqVjV0aVdWY1pkTDBrSnRqUm5jRXZvMmRnVmVZZHl1SDRRVEhKVjBTaXc5andSNkdxdXZicXhaaktNSmg4QlIyVFlJbHBMbmpfYl9EcEhr0gHSA0FVX3lxTFAwX0VSclhxQ3hUYVUtRnVsOVg1NTlEOWdrUG1ILXpDNGg2aFNQNFRNMTV6VDVZZ1dZOFJNaDJoa2FYb045X2NNVGlPeWFuUG83T1pIRkxIY3hrRmsyeWVpdjNsazZWdUtaMWJQLWNERzdhLXlxd2w1azdiQXRWMFFYZnJhTnpoeFpTczEwakZucGFRdGR5MnQwcGxQZFpJZ0ZwRlhmYi12Y3paN0NCY253TXl6dXU2QmhYZGhIRmxUNmJteUhVQ01aVGljVE12NVpfQ2J2dl9qUXNNdXFZZ3gwOWlFOWVBUWNzYkVoX1dCTkdZLVBQVHA4Vl8yZHUzOWhsVU80ejVhd3Ruckx4Y2NYNkM2TDNPRnI5UkRFVkxscGF3dlFNNTVmdHU5T1BEWXhndFZGU3dFT1NRcEItM2Z0OWl6QnA4ZDdhcDU0TnBWb0VMdXNFOXBRWVNGN3FfSkE0ektJZHA1QVpvWVlkT21Ccno0OE1RT0tZNzFONVRPUFZRd3ptXzNIcjhnazA4Q0E0NnlyVkFicGd3SnVXZEVSQ2tDbUE5TFdZUTNSdnFTWEtWY0FMNjJ6TTItM1I4MmJJaEhvSFBzSHBrVjFpb1Fnbmc?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T09:45:12.000Z",
-     "seen": "2026-11-21T11:19:44.177Z"
-    },
-    {
      "title": "مؤتمر للأمم المتحدة حول أنظمة الأسلحة الذاتية التشغيل يؤجل وضع قواعد لاستخدام \"الروبوتات القاتلة\"",
      "url": "https://www.dw.com/ar/مؤتمر-للأمم-المتحدة-حول-أنظمة-الأسلحة-الذاتية-التشغيل-يؤجل-وضع-قواعد-لاستخدام-الروبوتات-القاتلة/a-80008438?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -416,25 +423,25 @@
      "seen": "2026-11-21T09:16:02.637Z"
     },
     {
-     "title": "في ذكرى استقلال لبنان.. سعد الحريري يؤكد ما يجب فعله لتحقيق السيادة",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/hariri-steps-necessary-to-achieve-lebanons-sovereignty-independence",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T08:40:51.000Z",
-     "seen": "2026-11-21T08:46:02.760Z"
+     "title": "كابوس الحرب.. مخاوف بريطانية من تداعيات قصف أمريكي جديد لإيران",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d9%85%d8%ae%d8%a7%d9%88%d9%81-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-%d9%83%d8%a7%d8%a8%d9%88%d8%b3-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T08:20:09.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
-     "title": "شاهد.. \"أسود الأطلس\" لمبتوري الأطراف على بُعد خطوة من أول لقب عالمي",
-     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%85%d8%a8%d8%aa%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%b7%d8%b1%d8%a7%d9%81-%d9%83%d8%b1%d8%a9-%d9%82%d8%af%d9%85?traffic_source=rss",
+     "title": "عالم فضاء يتراجع عن الزواج.. تفصيل في وظيفة العروس يقلب الموازين",
+     "url": "https://www.aljazeera.net/misc/2026/11/21/%d8%b9%d8%a7%d9%84%d9%85-%d9%81%d8%b6%d8%a7%d8%a1-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%b9%d9%86-%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%81%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T07:54:25.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
+     "time": "2026-11-21T08:09:50.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
-     "title": "إسرائيليون مرشحون لرئاسة إنفيديا.. هل تنتقل قوة الرقائق إلى تل أبيب؟",
-     "url": "https://www.aljazeera.net/tech/2026/11/21/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d9%88%d9%86-%d9%85%d8%b1%d8%b4%d8%ad%d9%88%d9%86-%d9%84%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d9%87%d9%84?traffic_source=rss",
+     "title": "\"هرم القاهرة الرابع\".. سلطان قتله صراع السلطة وخلّد مسجده اسمه",
+     "url": "https://www.aljazeera.net/video/aldahih/2026/11/21/%d9%87%d8%b1%d9%85-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d9%82%d8%aa%d9%84%d9%87-%d8%b5%d8%b1%d8%a7%d8%b9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T07:51:33.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
+     "time": "2026-11-21T08:05:06.000Z",
+     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
      "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
@@ -442,13 +449,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-21T07:49:40.000Z",
      "seen": "2026-11-21T08:56:03.047Z"
-    },
-    {
-     "title": "مؤتمر الأمم المتحدة في جنيف: اتفاق حول فرض قواعد دولية بشأن \"الروبوتات القاتلة\"",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261121-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B4%D8%A7%D9%82%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AD%D9%88%D9%84-%D9%81%D8%B1%D8%B6-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-21T07:42:44.000Z",
-     "seen": "2026-11-21T07:46:02.958Z"
     }
    ]
   },
@@ -506,7 +506,7 @@
      "title": "تفاهم أميركي صيني.. هل يمنع الآلة من اتخاذ قرار القتل؟",
      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPWEh3cGRSTFhJdWVseDl5cmVGbDlCb3FBaHUtUl9oNkgzQjVmWTB5TFVHcV9kZW9wN2ZFYTZ6ZU1EMDZIYXdzSUpTcnBCaU00Z3dCTHd1OVQ2Vk5qcFV3U214SjQ4aVpCYmUyRngyV2E0SFZUbGNsdzVGZDlCUW5ZTVQwT29RVTdvSzRiQ2ZPM3FCN01vdUNDdzA2dVJjeFdqVFh2akg5LW03cXMzcl9hUlBOQVFOWmV4SnVBUFYwa0c4SGpYd04xNUJVb1JBUXBHX19KejdyeVFqaGc0MW5uSW9yVTNkQ2tpdmF1eVdWWTFkby10dlB6VkotOUljS1lYbzF6TExnVDFRZUh2TG5BUmx2Z0dleWpldEx3Z1hCeGpLQW9QUmpSdjI0aVFDZHFXZkk2ODBCWVFyd1AtUnA4amJhTjRZRDh1YmlrdTlTemx1UHZabVBMdFktQmp4Q2ZoNEZ1WVd5UWFWdk4yQVpRNTl4ZkpoSmx3aXdyd1hDYThQWWF2N1JBRDVPV2o3MjNm0gGWA0FVX3lxTE9UV291MUNiREhJZ09sZmtEaEI5VERmakVzWWhBNkJYR01UYk1zRFdBbEZXc3RIeFJTcE5MMGQwYUl1WmQ3Y25PVjREdnlGelhoOEk2akVPVGwtSG05cnBQZVBuLTlaY24xUXUxaDVrRTFUWmxRTTUyaF84OVd2ODNrWTdPT3BpVjJqNUppQng4RFNMTlk1RmJudU1vNmFXRzVzZEhCQ1JxenpUQlJlOTRLdmdaRWcyM0RubVc5SExtYzVMMHYyOVFyNXBUSnJTZ1VJbmg2UmRrUlZoWlJrdkxLTzBuLWo4N1Ztc2FDS3BoalZKRXdxdERqUW9sdHBrSnluTGtEaTBlTlI5YU9FNDVFcF9ObFN4dlN5aTE3elpSYmtuS2l5X0FWWkNFczFvQktDcTRPTGg2OWZWcFYxbC1QSFJ5VHhOYlVzaHJYdnF0QU5ZdUcwLVA4WHdxbWxnV3hsNWtoWGZxSGpLX3JhaUctQnBiZGNVeXM2TTRScklUc0xLRFhKMnJocmo3RXpyRXdiNFE3Z1E?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T05:23:36.000Z",
+     "time": "2026-11-21T05:01:36.000Z",
      "seen": "2026-11-21T06:56:02.484Z"
     },
     {
