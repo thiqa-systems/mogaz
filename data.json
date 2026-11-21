@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:46:02.958Z",
+ "updated": "2026-11-21T07:56:02.214Z",
  "minute": [
   "شهدت الأسواق استقراراً في سعر الدولار بالبنوك المصرية مع تراجع أسعار الذهب وانخفاض أسبوعي لأسعار النفط.",
   "أعلنت مصر عن مهلة جديدة لمدة 6 أشهر لتقنين أراضي الدولة والتصالح، وإطلاق معرض ديارنا للأثاث بالمنيا بتمويل ميسر.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T07:36:02.741Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T07:56:02.214Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58030,
-   "change": -1.31,
-   "asOf": "2026-11-21T07:46:03.000Z",
+   "value": 57939,
+   "change": -1.46,
+   "asOf": "2026-11-21T07:56:01.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,11 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "انطلاق أعمال النسخة السادسة من منتدى أسوان للسلام والتنمية المستدامين",
-     "url": "https://www.youm7.com/story/2026/11/21/انطلاق-أعمال-النسخة-السادسة-من-منتدى-أسوان-للسلام-والتنمية-المستدامين/7626609",
+     "title": "رئيس الطائفة الإنجيلية يشهد انطلاق ملتقى الفكر السنوى للهيئة القبطية الإنجيلية",
+     "url": "https://www.youm7.com/story/2026/11/21/رئيس-الطائفة-الإنجيلية-يشهد-انطلاق-ملتقى-الفكر-السنوى-للهيئة-القبطية/7626619",
      "source": "اليوم السابع",
-     "time": "2026-11-21T07:41:00.000Z",
-     "seen": "2026-11-21T07:46:02.958Z"
+     "time": "2026-11-21T07:52:00.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
+    },
+    {
+     "title": "مفاجآت بدرجات الحرارة.. الأرصاد تكشف توقعات طقس اليوم وأعلى حرارة متوقعة",
+     "url": "https://www.youm7.com/story/2026/11/21/مفاجآت-بدرجات-الحرارة-الأرصاد-تكشف-توقعات-طقس-اليوم-وأعلى-حرارة/7626617",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T07:50:00.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
+    },
+    {
+     "title": "خبير: فشل الحسم العسكري أعاد واشنطن لأدوات الضغط والحصار الاقتصادي ضد إيران",
+     "url": "https://www.elbalad.news/7188493",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:47:30.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
+    },
+    {
+     "title": "خالد العوضي يكشف سر تفوق الأهلي في كرة اليد ودور التكنولوجيا الحديثة",
+     "url": "https://www.elbalad.news/7188531",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:47:26.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
+    },
+    {
+     "title": "الكنيسة الأسقفية تنظم بازارها السنوى بمناسبة عيد الميلاد بالزمالك.. صور",
+     "url": "https://www.youm7.com/story/2026/11/21/الكنيسة-الأسقفية-تنظم-بازارها-السنوى-بمناسبة-عيد-الميلاد-بالزمالك-صور/7626616",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T07:46:00.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
     },
     {
      "title": "إصابات في صفوف 7 فلسطينيين برصاص الاحتلال الإسرائيلي في غزة",
@@ -149,36 +179,6 @@
      "source": "صدى البلد",
      "time": "2026-11-21T07:37:37.000Z",
      "seen": "2026-11-21T07:46:02.958Z"
-    },
-    {
-     "title": "قطر أم السعودية؟.. مصطفى أبو زهرة يكشف موعد ومكان كأس السوبر المصري",
-     "url": "https://www.elbalad.news/7188492",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:36:18.000Z",
-     "seen": "2026-11-21T07:46:02.958Z"
-    },
-    {
-     "title": "من قاعات الدراسة إلى المعامل المرجعية.. «معهد بحوث الصحة الحيوانية» يستقبل 160 طالبًا",
-     "url": "https://www.elbalad.news/7188526",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:36:15.000Z",
-     "seen": "2026-11-21T07:46:02.958Z"
-    },
-    {
-     "title": "6 أشهر جديدة لتقنين أراضى الدولة والتصالح.. فرصة لتوفيق الأوضاع",
-     "url": "https://www.youm7.com/story/2026/11/21/6-أشهر-جديدة-لتقنين-أراضى-الدولة-والتصالح-فرصة-لتوفيق-الأوضاع/7624721",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T07:32:00.000Z",
-     "seen": "2026-11-21T07:36:02.741Z",
-     "impact": "تمنح المهلة الإضافية المواطنين والمستثمرين في مصر فرصة لتوفيق الأوضاع القانونية لأراضيهم وتجنب العقوبات."
-    },
-    {
-     "title": "وزارة التضامن تطلق معرض ديارنا للأثاث بالمنيا بتمويل ميسر حتى 7 سنوات",
-     "url": "https://www.youm7.com/story/2026/11/21/وزارة-التضامن-تطلق-معرض-ديارنا-للأثاث-بالمنيا-بتمويل-ميسر-حتى/7626586",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T07:22:00.000Z",
-     "seen": "2026-11-21T07:26:02.387Z",
-     "impact": "يوفر المعرض للمواطنين بالمنيا تمويلاً ميسراً يمتد حتى 7 سنوات لشراء الأثاث وتخفيف الأعباء المالية."
     },
     {
      "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر صرف الدولار مقابل الجنيه في البنوك المصرية (آخر تحديث)",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVMWxUaTBGVnNXZ3QxNnNSRzZJVWl5bGo0N2dRZk12am12Z3daZU9URzRqOF9Wck9DY0x0UGFIUzdRejE5blVn?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-21T07:45:00.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
+    },
     {
      "title": "التقى صدام حسين وصلى خلف نعيم قاسم: الملاكم محمد علي وسيطاً في ملفات خطف رهائن",
      "url": "https://www.bbc.com/arabic/articles/cw782lvd7v84o?at_medium=RSS&at_campaign=rss",
@@ -338,14 +345,6 @@
      "source": "BBC عربي",
      "time": "2026-11-21T02:56:32.000Z",
      "seen": "2026-11-21T03:05:38.527Z"
-    },
-    {
-     "title": "استقرار العملة الأمريكية خلال التعاملات الصباحية عند هذه المستويات",
-     "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPVUJMMUJtSE5hMFVvWG5hWmFaNkY3RER1Nm9YMUZMV0J6Q0VmamFDbFpucnhSRVpPYUpJRDJ5YXZqbTY4QXQ4cF94T01PRXhLbk42OUdmMjNPaEp4VkZiekxIM1JPTWNqMTgxSlRyVWtfSG52Z1lDZTB2TFJPQkNTX0ZFVFg1cVowcTJPU2NyQkl6OVpJZFN0cnluNFpTbW5leXBOcHlTdXExV0NlMy1rMmc0R0RhbmY4QjJ6LW1KQUhlYXRQX3M1NEJUcFUybU0yMm5BbXpzTUtHb091UVU4VHVEWU1FOGNwS2NKMWVsRXowV0RfMy1ra3BkUFVtZE5NS2R0eXJ2ZC1XZndtUzN4R0R3TUVmNWMyeEN2ZXAzTVBnWGVLa1dGeHp5RllFLUttSGNjN1RWQ0xna2dQS3hCenk0dzI4dWNLVTBqUWtlUm5TUlZtdFltcThPTlBlM0lZUEhaZG5GUXRxbC1Hc1VoUURHVmpUbGZuc01GZHZkYWIzVjFwVjZGMVd4eGxpNTlibHdBaEFNby1Lc2ZObTdIRzBxSjBUVmpsRE5IMEpyaWhUUUV6SmNXN1lhRWtGRmpkQXZrX1pPYWM2XzVGbWdnb1kzTmJia0treW9tcGxaYlpJbFpwZ1ZYVVBkQWo2WmJsUENjUXh3OG9CT1B5OVVHdWN0LTdnd0NrMEtPSEFpOU4wcjFzS01ZRjVOLXZVa0FkSjRmTVdCNVY4bURIWi1nStIBsARBVV95cUxPVUJMMUJtSE5hMFVvWG5hWmFaNkY3RER1Nm9YMUZMV0J6Q0VmamFDbFpucnhSRVpPYUpJRDJ5YXZqbTY4QXQ4cF94T01PRXhLbk42OUdmMjNPaEp4VkZiekxIM1JPTWNqMTgxSlRyVWtfSG52Z1lDZTB2TFJPQkNTX0ZFVFg1cVowcTJPU2NyQkl6OVpJZFN0cnluNFpTbW5leXBOcHlTdXExV0NlMy1rMmc0R0RhbmY4QjJ6LW1KQUhlYXRQX3M1NEJUcFUybU0yMm5BbXpzTUtHb091UVU4VHVEWU1FOGNwS2NKMWVsRXowV0RfMy1ra3BkUFVtZE5NS2R0eXJ2ZC1XZndtUzN4R0R3TUVmNWMyeEN2ZXAzTVBnWGVLa1dGeHp5RllFLUttSGNjN1RWQ0xna2dQS3hCenk0dzI4dWNLVTBqUWtlUm5TUlZtdFltcThPTlBlM0lZUEhaZG5GUXRxbC1Hc1VoUURHVmpUbGZuc01GZHZkYWIzVjFwVjZGMVd4eGxpNTlibHdBaEFNby1Lc2ZObTdIRzBxSjBUVmpsRE5IMEpyaWhUUUV6SmNXN1lhRWtGRmpkQXZrX1pPYWM2XzVGbWdnb1kzTmJia0treW9tcGxaYlpJbFpwZ1ZYVVBkQWo2WmJsUENjUXh3OG9CT1B5OVVHdWN0LTdnd0NrMEtPSEFpOU4wcjFzS01ZRjVOLXZVa0FkSjRmTVdCNVY4bURIWi1nSg?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T02:03:14.000Z",
-     "seen": "2026-11-21T03:25:38.570Z",
-     "impact": "يطمئن متعاملي السوق المصري بخصوص ثبات مستويات أسعار الدولار خلال التعاملات الصباحية."
     }
    ]
   },
@@ -446,11 +445,11 @@
      "seen": "2026-11-21T07:36:02.741Z"
     },
     {
-     "title": "الكبد الدهني.. علاجان جديدان يفتحان باب التعافي",
-     "url": "https://www.aljazeera.net/health/2026/11/21/%d8%a7%d9%84%d9%83%d8%a8%d8%af-%d8%a7%d9%84%d8%af%d9%87%d9%86%d9%8a-%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d9%86-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d9%81%d8%aa%d8%ad%d8%a7%d9%86-%d8%a8%d8%a7%d8%a8?traffic_source=rss",
+     "title": "السودان.. موجة نزوح واسعة بالنيل الأزرق إثر هجمات للدعم السريع",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d9%85%d9%88%d8%ac%d8%a9-%d9%86%d8%b2%d9%88%d8%ad-%d9%88%d8%a7%d8%b3%d8%b9%d8%a9-%d8%a8%d8%a7%d9%84%d9%86%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d8%b1%d9%82-%d9%81%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T04:22:00.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
+     "time": "2026-11-21T04:40:29.000Z",
+     "seen": "2026-11-21T07:56:02.214Z"
     }
    ]
   },
@@ -558,7 +557,7 @@
      "seen": "2026-11-20T21:15:26.278Z"
     },
     {
-     "title": "العراق ينهي حالة الإنذار القصوى وينشر قواته في جرف النصر، والزيدي يؤكد: \"لا سلاح خارج سلطة الدولة\"",
+     "title": "العراق ينهي حالة الإنذار القصوى وينشر قواته في جرف الصخر، والزيدي يؤكد: \"لا سلاح خارج سلطة الدولة\"",
      "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-20T19:23:32.000Z",
