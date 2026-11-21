@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:29:44.566Z",
+ "updated": "2026-11-21T13:39:45.128Z",
  "minute": [
   "سجل احتياطي النقد الأجنبي في مصر 57.5 مليار دولار بالتوازي مع متابعة حركة أسعار الدولار مقابل الجنيه.",
   "شهد الشأن التنموي توقيع مذكرة تفاهم بين مصر والسودان في مجال التدريب، وإطلاق شراكة بين جنوب سيناء واتحاد التأمين لدعم التجمعات البدوية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T13:19:44.445Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T13:39:45.128Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59499,
-   "change": 1.19,
-   "asOf": "2026-11-21T13:29:41.000Z",
+   "value": 60345,
+   "change": 2.63,
+   "asOf": "2026-11-21T13:40:44.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,45 +139,45 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إستونيا تؤكد ضرورة استثمار دول البلطيق 5% من ناتجها المحلي الإجمالي في مجال الدفاع",
-     "url": "https://www.elbalad.news/7188946",
+     "title": "الطيران المدني السوري: تسيير رحلات مباشرة بين دمشق والقاهرةمن 5 ديسمبر",
+     "url": "https://www.elbalad.news/7188957",
      "source": "صدى البلد",
-     "time": "2026-11-21T13:29:02.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
+     "time": "2026-11-21T13:39:05.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
     },
     {
-     "title": "الإفراج عن مستحقات لاعبي الأهلي وإلغاء العقوبات في هذه الحالة.. رسالة حاسمة من وائل جمعة",
-     "url": "https://www.elbalad.news/7188940",
+     "title": "الجبهة الوطنية: كلمة الرئيس السيسي في منتدى أسوان ترسم خارطة طريق لتعزيز دور أفريقيا في النظام الدولي",
+     "url": "https://www.elbalad.news/7188956",
      "source": "صدى البلد",
-     "time": "2026-11-21T13:28:32.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
+     "time": "2026-11-21T13:37:09.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
     },
     {
-     "title": "شباب زي الورد.. ​فرحة التخرج يكسوها الحداد.. «هندسة القاهرة» تنعى طالبين",
-     "url": "https://www.elbalad.news/7188939",
+     "title": "التعاون الخليجي: الاعتداءات الإسرائيلية على غزة إرهاب وانتهاك صارخ للقانون الدولي",
+     "url": "https://www.elbalad.news/7188955",
      "source": "صدى البلد",
-     "time": "2026-11-21T13:28:19.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
+     "time": "2026-11-21T13:35:45.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
+    },
+    {
+     "title": "المتحف المصري بالتحرير ينظم برنامجا ثقافيا للأطفال تزامنا مع مرور 124 عاما على افتتاحه",
+     "url": "https://www.youm7.com/story/2026/11/21/المتحف-المصري-بالتحرير-ينظم-برنامجا-ثقافيا-للأطفال-تزامنا-مع-مرور/7627137",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T13:31:00.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
+    },
+    {
+     "title": "السيد سليمان رئيسا لشمال القاهرة للكهرباء.. ونجوى محمود لمصر الوسطى",
+     "url": "https://www.youm7.com/story/2026/11/21/السيد-سليمان-رئيسا-لشمال-القاهرة-للكهرباء-ونجوى-محمود-لمصر-الوسطى/7627130",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T13:29:00.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
     },
     {
      "title": "وزراء خارجية مصر والسودان وإريتريا يعقدون اجتماعاً ثلاثياً فى أسوان",
      "url": "https://www.youm7.com/story/2026/11/21/وزراء-خارجية-مصر-والسودان-وإريتريا-يعقدون-اجتماعاً-ثلاثياً-فى-أسوان/7627139",
      "source": "اليوم السابع",
      "time": "2026-11-21T13:28:00.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
-    },
-    {
-     "title": "وزيرة الإسكان تتابع موقف مشروعات البنية التحتية ببيت الوطن فى القاهرة الجديدة",
-     "url": "https://www.youm7.com/story/2026/11/21/وزيرة-الإسكان-تتابع-موقف-مشروعات-البنية-التحتية-ببيت-الوطن-فى/7627128",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T13:27:00.000Z",
-     "seen": "2026-11-21T13:29:44.566Z"
-    },
-    {
-     "title": "«كن آمنًا ولا تكن مصدر خوف للآخرين».. الأوقاف تنظم 27 ندوة علمية",
-     "url": "https://www.youm7.com/story/2026/11/21/«كن-آمنًا-ولا-تكن-مصدر-خوف-للآخرين»-الأوقاف-تنظم-27/7626831",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T13:20:00.000Z",
      "seen": "2026-11-21T13:29:44.566Z"
     },
     {
@@ -240,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "إيران تحذر من \"تهريب النفط\" في الخليج، وتزايد استهداف الناقلات رغم الحراسة الأمريكية",
+     "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T13:27:41.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
+    },
     {
      "title": "«الصناعة» تراهن على الكوادر المؤهلة لدعم التحول نحو التصنيع الذكي",
      "url": "https://alborsaanews.com/2026/11/21/2007900",
@@ -337,13 +346,6 @@
      "source": "CNN الاقتصادية",
      "time": "2026-11-21T10:40:38.000Z",
      "seen": "2026-11-21T11:19:44.177Z"
-    },
-    {
-     "title": "\"اليمين المتطرف يهدد أوروبا، لكنه هشّ\" - مقال في الغارديان",
-     "url": "https://www.bbc.com/arabic/articles/cxyvdq3e32l7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T09:50:05.000Z",
-     "seen": "2026-11-21T09:56:02.429Z"
     }
    ]
   },
@@ -429,6 +431,13 @@
      "seen": "2026-11-21T10:59:44.187Z"
     },
     {
+     "title": "جماعات الاستيطان بالضفة.. كيف تتكامل أذرع العنف والتمويل والفتاوى؟",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%ac%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d8%b7%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d8%b6%d9%81%d8%a9-%d9%83%d9%8a%d9%81-%d8%aa%d8%aa%d9%83%d8%a7%d9%85%d9%84?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T10:34:00.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
+    },
+    {
      "title": "مظاهرات في إسبانيا بمشاركة عشرات آلاف المعلمين والطلاب",
      "url": "https://www.aljazeera.net/video/2026/11/21/%d9%85%d8%b8%d8%a7%d9%87%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%a8%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a2%d9%84%d8%a7%d9%81?traffic_source=rss",
      "source": "الجزيرة",
@@ -441,13 +450,6 @@
      "source": "الجزيرة",
      "time": "2026-11-21T10:02:20.000Z",
      "seen": "2026-11-21T13:29:44.566Z"
-    },
-    {
-     "title": "مونديال الناشئين.. مواجهة قطرية مصرية بدوافع متباينة",
-     "url": "https://www.aljazeera.net/sport/2026/11/21/%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d8%a7%d9%84%d9%86%d8%a7%d8%b4%d8%a6%d9%8a%d9%86-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%82%d8%b7%d8%b1%d9%8a%d8%a9-%d9%85%d8%b5%d8%b1%d9%8a%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T10:00:00.000Z",
-     "seen": "2026-11-21T13:09:44.341Z"
     }
    ]
   },
@@ -455,6 +457,20 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "الإفتاء تحسم الجدل حول استخدام الذكاء الاصطناعي في تحديد القبلة ومواقيت الصلاة",
+     "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPZk5mSWt6NlhrMUQ3M1VTb1M2bFFJMmZNRDU3cnBkMlMtdHJDamp6dVE2cW9hVWF2aW9jMjgzOGhtX180Z3ZqbVNpdlRkVFhJNTRrV1pEQTB3T1c3cEhxOGExMFhQWHpSeFMtMGoySzZOMmZESWc0M2xHTmUwZ1ZoUTdUTFVmNUgyWTRWWFJoTXlHMENoc3cySllneHlYNWQ5OEo3aEF1NENQUDZWSmtNYW9yd0JyTW9OVm85Y1JWQ0xUdWQxYUE4RjBSTXRqRUR2dndKdEVxWE5ydEU4SVRpNml1amJiY0ZZQ3dtdlhWbW5Bc0p2MTJkMUFxN2NtYThFcHR2aVZfWDMwYWEwVmVnQ281UmQwaXp5bUJxT21FU0c2VDctUzBJdjNvdlhGcVFqOW5hQWx5ZGZTeWQzaHVkYnZrUkZnRzZmUDVscmptenNRMWZZTGpsdVhFQXZQQTYtY1VQRFlib0xCbVQyNjdqbExlV1RmYUpZMjgxdEpKVS0yZGdULXBYV2ZrNXFjU2VsdzBkTF93ZzJ6MjZ5TkJHYk5MZ3RaRnZCNURNMlhVOHhhREFGcDRfdHJaLU9icWE4WFVQd3hTMloyazRoSldYblk4MUZQcWZkVTBxdHctUlBUa2dNMHAwekVDS3ptWVpfMlExcmEyRU8yN3RuX3paSGppdmNvVHRSRGVVUUhxbVNfUXBDT25Z0gGSBEFVX3lxTE5PeTZZd3d3a2R3d0dJRktHaHIzNTRYdkhIR2hTcXpuWWEtU1UwTVRMOVc4UWQ0UFAwMk9KN0Rsc3Fpc3V1VlptTUppNmN3bkNlOURKWUVoTmV0LU4xM2hSdUNsVmdMZHE4MFVVblJZMldvRUxIU2dyTGU1TXJwUkVvT1VDMFI1N284RTRia2pBUFZuQzd0aGMtTlg0OUUyYlVDNzAwYm1feW5PeWl2OHUzUE8wYUx6TXNKdGFEcFA5WDhYVkN5dEpLZ3VFTVgxekdZeVRWcWo5THVpZlNIVEpvRmRTSndYZXZ5Q19wRGJkeElJUldwbXdRSlBMM0lQcVREbEg3ZUM3dC1ORmJ6VHk0aU1JOV9zbWpXQWlNTE5OMW94TmJoMkRqVG1XbDIzUThNTHVlbTJod3JTV1pEcHVlNXMza3NGc3h4X2RWckFLY3Q4dUVQTE1feUhreElrUEYtM2YzZ1o0bVpSdk5UVjFpYVRsTi1OU3gydmo3dnZWUTVoQnZLd2RyRjM1UDYyX0RZVUthUkowTDJiZ0hWdmUybjVsZnJYa1FldFlMSmVUTDdfZEdYTXUwZm01X2otY3VQWENtb3pSc2I5bDJvRnh6N0lGWTA2ZXhtN1dyelF1MzJGdXo4MWZmdnVZY2stOUtJZFd1NnlMNlR3UnVpQ2RhNGp4aXdKaXRzMk5oWFZOX1Nn?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T10:49:00.000Z",
+     "seen": "2026-11-21T13:39:45.128Z"
+    },
+    {
+     "title": "\"اليمين المتطرف يهدد أوروبا، لكنه هشّ\" - مقال في الغارديان",
+     "url": "https://www.bbc.com/arabic/articles/cxyvdq3e32l7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T09:50:05.000Z",
+     "seen": "2026-11-21T09:56:02.429Z"
+    },
     {
      "title": "انتقادات لمؤثر صينى استخدم الذكاء الاصطناعى لإحياء جده المتوفى بصورة رقمية",
      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNVGpLc2JOU25NcFRROTBId0hXVnBRcjR5TWV3YUQ4YkNJUGV6dHZhSWNBXzZNXzU3RWpydXpObG44bWwyRlFxX09vNS04V3FvUkY4UXdzUF8xenZOUkNkTk9OUHNmSklzbDN5blBhNS1TNDRuWWNJak5SejV2eDg5dW5BMlJYSXVuZG1JNjN4MkVsdVVEdW10cEhwZTVRakdMVS1TS0tUbFRFaGFMYWZKc3l0eUozOWZqeDJwNXN3WlpianFEREFhWVNlM19oS2xwRllxQ0NFaG1HV3gwR0pNcFlTR3NGbzNZUjFlUGVTazBXVVlQU1kzM0JfT3piZkxEajJ3YTFaSjFaajBPR21LVVNLRnBudkQwZ3lJaHRrc0t6NWlSMGMxaXVsWnFWOUNyanNFYXh3SFFwWWFlXy1iT1F0STZJTmVsQ2ljR3dqVFkzX2UyV1E5UTdnWEFobjZVOHBqdGt4aDNxQl8yeGVueEtMd0Jqd3Bqdng5VlBzVmlEczJBdkVzYm05R2ROTzJDY0ZVQ0ZCa2FoRXJGSUpsUVR2Tjg0WGV3UTF2VFRJRDN1NzBNeGQ2ZzR6c3FCTFp6QmdZMnEtMHhUMGJ4Y1FMZkpfQzVYekc4eHN6MzU5X0JZODdHYXFETXV5NFYzOVZ6VF90dVdzTmNrS29WdEtzRllvVndpTUZDTkZBcEt6ZFVKRGdJYXdBU0JaRmdmdjY5aXRZVXVLQVlMeExFU1RzclpuaW0tR21Ed25qRlhySdIBugRBVV95cUxPLTVnbEl5NjRORlZSM1RtRUJKQ25SRmp6M0VkeUpFZXNNckJHd2ZOREplY1JYMDNGVEpLdDdCZXpBZTV2eHJiZnZKZWRvU3hmR2Q0RC1DRk9hWU5zRHZIY1h2Vlp4eUg0aEt3TVVIVmNDR2FwMGtSaG92RUZxQ1pkajFBZE1DNzU2RnVEWVNOUFJlR1Q4NlpSVEJVd0VTYkNjSkJjemh2UHozRWdydXBpYklScjN2aG1pQUdOYWJCMjhTc0tKRUppWEE0YzVBQk1pMGlwQXdrV010YklySVZxNkNESXRkU2duWU4wei05RmJ5M3ZMZVNrRTZRcVROcDlVUDJfMmgtcDl0dlQyUlRURWgzVzVfTFhDMmVGVXpzdFRITzNIaElaMlVhaXBoQ0dSdzVPd0F1RE5TT3dUUlNNdi1jNkpnemFSQXV2UlMtaFRocktvZFVPelNxb0JRXzc3MGN6X3ZSNngyWU9IdmdpeGNJOEVFT1FMWHppUHVGbVoxR1lmNnlBN1JzbWhvb1BsZDN5QV9DU1Qta2NYM3E4LUhyQVNUbV85Nm5TZmp3NUNiNGY5WWN2bEluS3VMUVZnQnpKSU9rUlNZLVJGSFFNRnpiY3Y1ZWlUQ2hkSDJENUNjSF9HN1hKOVhWWGR4WEk3S0tuekRjQUpFUHBvUEM0Z1RXNTNEc2p3bGhmRHlQdVZqYkx6UzlGdlNWRHFpdFJrTGNaSTVzNkF2VGlKRDM0VUl2RG9BSTFlSXc?oc=5",
@@ -507,14 +523,6 @@
      "impact": "متابعة تشريعات الذكاء الاصطناعي تهم رواد الأعمال والشركات التكنولوجية للتكيف مع المعايير الإقليمية الجديدة."
     },
     {
-     "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون باتجاه الرياض",
-     "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T07:13:14.000Z",
-     "seen": "2026-11-21T07:06:02.962Z",
-     "impact": "تؤثر التوترات الأمنية الإقليمية على ثقة المستثمرين ومستويات استقرار سلاسل الإمداد في المنطقة."
-    },
-    {
      "title": "تقارير: CrowdStrike تجري محادثات للاستحواذ على Zscaler",
      "url": "https://aitnews.com/2026/11/21/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-crowdstrike-%d8%aa%d8%ac%d8%b1%d9%8a-%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0-%d8%b9%d9%84%d9%89-zscaler/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -550,13 +558,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-20T23:53:00.000Z",
      "seen": "2026-11-21T09:36:02.887Z"
-    },
-    {
-     "title": "ترامب يهدد بحظر شركات أمريكية من بناء مراكز بيانات للذكاء الاصطناعي في الخارج",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5R1Q4TFl3Y3NZOEVkUXJsNHlWaG9IQ3ZMa3RRSlBlbEhhT0JkcElXbTZTeGx4VVFvOXA3V1Ixd3c2NmhodjUxaWZ6eFpMYkdxQnEzUk1zY3JhaFJsOWfSAWNBVV95cUxPOTd6RUpERkJrYmZESUdUa25HQ2c3SzJ6NFItTHY2aWVuM3AxbE5xNkIzbV9HbW5IMURveFZySDVRU3RWMThCQVlPVzNvbzVSVzlJUDNxZHI0QXp1b0V1SmJWNnc?oc=5",
-     "source": "BBC",
-     "time": "2026-11-20T23:17:51.000Z",
-     "seen": "2026-11-21T11:19:44.177Z"
     }
    ]
   }
