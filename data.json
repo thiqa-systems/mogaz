@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:39:44.183Z",
+ "updated": "2026-11-21T11:49:44.403Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه في البنوك المصرية، بينما أصدرت وزارة الزراعة مئات التراخيص الجديدة لمشروعات الثروة الحيوانية والدواجن.",
   "حذرت هيئة الأرصاد الجوية في مصر من ظاهرة تستمر حتى نهاية الأسبوع رغم الاستقرار العام للأحوال الجوية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T11:39:44.183Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T11:49:44.403Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58117,
-   "change": -1.16,
-   "asOf": "2026-11-21T11:40:47.000Z",
+   "value": 58054,
+   "change": -1.27,
+   "asOf": "2026-11-21T11:52:44.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني: دبلوماسية الرئيس السيسي تفتح أبواب السلام.. والقاهرة تقود معركة إطفاء الأزمات الإقليمية",
-     "url": "https://www.elbalad.news/7188809",
+     "title": "إصابة 4 أشخاص في تصادم ميكروباص بسيارة نقل بطريق بحيرة قارون بالفيوم",
+     "url": "https://www.elbalad.news/7188822",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:38:57.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
+     "time": "2026-11-21T11:47:13.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
     },
     {
-     "title": "برلمانية: رسائل الرئيس السيسي من منتدى أسوان تعزز الدور الإفريقي في صياغة نظام دولي أكثر عدالة",
-     "url": "https://www.elbalad.news/7188813",
+     "title": "منال عوض توجه بسرعة استكمال الأعمال وفقاً للتصميمات المعتمدة لمشروع تطوير الكوربة للافتتاح قبل احتفالات العام الجديد",
+     "url": "https://www.elbalad.news/7188818",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:38:08.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
+     "time": "2026-11-21T11:45:08.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
     },
     {
-     "title": "شبكة \"النهار\" تجدد عقد الإعلامية ريهام سعيد لمدة عامين",
-     "url": "https://www.elbalad.news/7188807",
+     "title": "عليه حكم مؤبد..مصرع عنصر إجرامي خلال حملة أمنية فى قرية السمطا بقنا",
+     "url": "https://www.elbalad.news/7188814",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:37:42.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
+     "time": "2026-11-21T11:45:01.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
+    },
+    {
+     "title": "وزير التخطيط ومحافظ السويس يتفقدان مشروعات تنموية وخدمية باستثمارات تتجاوز 5 مليارات جنيه",
+     "url": "https://www.youm7.com/story/2026/11/21/وزير-التخطيط-ومحافظ-السويس-يتفقدان-مشروعات-تنموية-وخدمية-باستثمارات-تتجاوز/7626998",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:45:00.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
     },
     {
      "title": "وزير الخارجية يفتتح جناح الوكالة المصرية للشراكة من أجل التنمية على هامش منتدى أسوان للسلام",
@@ -174,18 +181,18 @@
      "seen": "2026-11-21T11:39:44.183Z"
     },
     {
-     "title": "وزارة العمل تعلن عن فرص عمل بشركة روسية في البحيرة برواتب تصل لـ30 ألف جنيه",
-     "url": "https://www.youm7.com/story/2026/11/21/وزارة-العمل-تعلن-عن-فرص-عمل-بشركة-روسية-في-البحيرة/7626902",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T11:00:00.000Z",
-     "seen": "2026-11-21T11:19:44.177Z"
-    },
-    {
      "title": "تفاصيل قرار مدبولي بتشكيل «المجلس الأعلى لتنمية مهارات الموارد البشرية»",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BbUFiVERHV1hXdzl5d3ZLVzFYWmU2VEo5V2NtNjk1Q3hkY214c0JOVFloUUpheE02bFF3ekFJM1M4SWU3?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-21T10:56:27.000Z",
      "seen": "2026-11-21T11:09:44.950Z"
+    },
+    {
+     "title": "مبارك رفض إنشاء قاعدة أمريكية في رأس بناس.. كواليس يكشفها عدلي حسين",
+     "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNaTNmaW04V0pPMjA4TkYzbGljcHJaOHZLaWZmaDJNemRFZmRqZTZXYjdBa0daSXBnSkdEdDJUZkR0cTQtREg4bEdLMjF3WWNSQVZPRnZTZEZ6RVFQV1YtallOWG1YMzJ2bklUYndTM051MjM5dnpKSXhLYlNjQlplRDlqWEpFcndUWFZDOXZjc2N6eTRaQm1mZ0ZPRVk5TVNzaWdTM2k3WHZYTUYxZzZwU0JpQTQ2aWRubF8zbTk3RjBxbF9rVW9QQmxjR09qQ0hFUW5hcWNvZUExcE5wSzRkaDVTQ2RMTVJ6eXl6Rk5uLXRWOTkxZEVzamZ4Q3FqWnowaWxENnNDTmFyaExuZTdsb2pISTZZOXBNakFybmJoWTFFQVJrY1JrMzVycm1qWmU5ZnlmSGlNdWt3ZUFyV0djVzhKWFJwLWJxYk83R0pZWWhtY3pnaFRPQ20xWklkVVUtM3dLdE04SUpTU1JkY0lfWUI1Z3R6RHNQNUhqVlViTmdTQnM0b0pRQ1JndTdEY1ZMZHlWTGwxUTBUUGZ0Vkh2MkpxVC1rNk80T29wbjdta3p5TURJUUh5MlhXdV9VWlpDS3psc2RpeGFrZ01aVktQVlRvV0wzTTl3aWdlRjNEOVVnWjNzNTd6WE05TUJIcGdzbFp0TTU4QzBYRUJkYy05MDNqZkVBZ2liVktHSEw3a0pkemszTGExaWdlczlkaXBXRnpxamdReldtRUFzYm9XazZsU2XSAboEQVVfeXFMUHhDMDRUTEFjUVh5b0NwX3RnU3UydEVneEl3TWF1T1I3cVc1UTQtU2NUQVdzelowdTRQa18xWDJZRjNzUnoxRzZ5VTZfV0VuYUtuenlfVG5RTlJ1RzdUcmQxZGxDX3FzNnBIcndVdng1SUpPazJkRnR2Y3JDNWYwNG1EbHVBa1g4c2FoeG9OOFV0SDY4d1BjQlhtTmhFY25aMDR4bG8xY0NYb20zVmFYWEFyaDh0Z1NhbU0xVnR3cnJRNGN6RGkzX2JhY1BWdVZHdGFpQ3hWcHhYSHVqV1FCQ1I3NHV4VmlEM01LZDV0QjB2TTNPWHhoMzVoRzc3MUZJRkw5RGpXX0tkX3VERDFkZVlhSEx1M0JUYUNRWE55SG92Mll1SEdNT0dHUFREdlFYOXduamN1cGZWOWYxd1h4cFlieWNIQVlHd2xGaHBpdnB5NzV4OHNPdGhmaEpGRnV0OFJuNmRtQkpRQmZUd1dQSGZwWDNOZmVyYnE2Vk95QVBBdDEzTHphcTdya3JYY0RmbW1nN2c5NmxONm81Q2xTZ21IemNoaDhER3Z3em9hZWxiOGFWdGYteFlCMVJua1k4eUJvbmZDZkZpNWlrdDkwa2VjNUZDM2JrLUxMSnNPX19uTzhMdFR1Y3BFcDhrcHlJajRhZHJaNTBhZnB4MExQclhvR0drQTVrZk1ISlhPLTFhdEZCMFlPSkRGVk9rVW9kcmVpUGpaNy1YWTR0aVBWRUNIRkp5amxfNlBB?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-21T09:35:09.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
     },
     {
      "title": "الأرصاد تكشف موعد انخفاض درجات الحرارة وسقوط الأمطار",
@@ -223,18 +230,11 @@
      "seen": "2026-11-21T08:06:02.605Z"
     },
     {
-     "title": "نثرت رماده في شوارع القرية.. ضبط سيدة متهمة بقتل شاب وحرق جثمانه داخل فرن بلدي في قنا",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ZUI5RUV4TlBxV0U0MDVIb0dOY20tVTd6bUFmYVN4c1o3TEpaWTd5NTltM3M0a2pibjUwU1V4SjFIdGlQcGZ2Wk9sNzJnWlJIaWJmcTFrQ3NNeVFzUlE0?oc=5",
+     "title": "ظاهرة تحبس الأنفاس.. «كسوف القرن» يحول النهار إلى ليل في مصر بهذا الموعد",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUWtiOG1PODZqMXJBb2ExUXJWamRualFVRVlUa2k4aG1fbWtXOEt3OVlrazM5cFI1V2RmVk9nc2pWbVdyRXdIeGxvX05FSmwydmVUVDJMcEE4aU44ODBJ?oc=5",
      "source": "المصري اليوم",
-     "time": "2026-11-21T00:09:00.000Z",
-     "seen": "2026-11-21T10:06:02.359Z"
-    },
-    {
-     "title": "هل اختفى الشتاء هذا العام؟.. عمرو أديب يسأل والأرصاد ترد",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQU3NaQzZ4NVp1Xzcwc1RlclhtY0NKRTdoYUF1bFRUQlZzaEwyT3Fpa1JYeWJZOW5aX2RKYXUtOGF0THpBblZOSmt1ZjJfTERaSGN2Z1VRV3NnM2lMcTBqc3hSNU9yMUxhUU9rbGZBYVlUZWZlcm1YTy1XOHladWhha3E4NzcxTlBubDBId2l3QnA0UldMdllVcHlZRXg2d3NJai0tS0NtTHNOQ3g3UnJGN3V4aEszbC1kcGczZGJHbEVHMTRCTjJhU0VnaE5IcWV6VU8yX1Rpajd5MlptM21URW9MS2NtNXlZYVJGVFRaUkVWMklfZ1l6dlFNUDJBMDkwNzlSQUN3WEl2M2lTQ2QxMHJjR0w1M3psSXBfZzNNZDRrUmFfU2J2dUhYZ2Q2UkU2SlVaSUhVUXZONjBlOUtFa2ZaWURYcmZ2TTNCU2Mxcm9CbzQ3aFU0aExENWxzVWRZT1ZjMUtWLW9JZEpDR3lzWjJkbUdmbGYtZHZDNXFNeEJhOE9IQzNGVW50SWR0QndVZXpjQ3hZckRQOFpGN2NBLTl0SzQtdXlBYk1ub01paTJIWGFLYVFidFJhVFFsWUVJdUx3ZnRNOTZqS25GUTRYVzVIeHNaV3ZaSXROMnpjQWhZZ9IB5wNBVV95cUxOcS1nQVcxS08ySGxjc3hmOWUybDF5WVhPWFJGZWg4Ykl0VHlTRFFLM0FEam51cnFNVVBMdWFwZ3djd1ZNWTdVTTJxSk95djdTZmtWdHpRaW9uWThJa3Z3eGtVU1dWQWx5YjVSbVJyMnFyX2I5QkVqUjJOOGR2a01FVkhSRUVRSHBRQXJBallFSjlsODJFa0pVMG5nLUpRamkzNmxfRHFZSTlyQ2xzWEdRSFhEUzhzdlhpbHRya2FuNVJqOU1FSDRKamVNcHMzQ1YySVhaNS1SWVF5R2drbW5HaTJBcVU1eGNVb1ozSHNaRFZqZjlHVkdSWUdIc2tFMnMySk5wQm1SNkZXT0VsVFp2QndfaXZCLV8yT2R5NUFnZndJb2IyWk5BWEhQc0Q1VVhDNEZRY1RQUThFRDFQZWFrZml4WXR4M1JucG01eXhDODd3amkxNHAyV1l1X20ycnZKOVZYRUh4dlZ1Q3BnS1NvY3BMWnVmeXlLcko1aVdfck8xZDdXRUp6M0QxODByU1doT1NCWFZHRmxEcUtiSjZUVXdPMlZidGtmOUU5UWdScHlncEJxckJER1lXaUttUWpLTVZQaF9hN3NHQ0RxUndGV2V1Q1BNcVBaci00TXE2N2V1WE84TGMw?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-20T22:56:49.000Z",
-     "seen": "2026-11-21T06:46:02.732Z"
+     "time": "2026-11-21T00:40:00.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
     }
    ]
   },
@@ -242,6 +242,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "احتياطي النقد الأجنبي يسجل 57.5 مليار دولار.. كيف بنت مصر شبكة أمان للعملة الصعبة؟",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNYVd3eW5OeGFHTlVYUUhzUnAwQVJTU01YWkw4elJTa3NVbnh1SDR6eWdhcGZBejliX1J3ZjdSLWFoMzczY3h4M18tOXRkM2ZKYkcwT3hSLWVvRnAxUmFJQjFtT2hhOHZIREpvU0hRSzJZRjIzREVGNzhBMXh3SUtBcUVNamxDZi1YamJZYU5id0lUTHE3NlA3QkhnLTYycDhxVmdyOURiWFFfNDBXV2VXR1Q3T2tMdy1YQkxfLUtVTTBOd0JEYW5yWFV4LVNYSWQ5eFJZaEJpdWV5T0tRNnBEVnFMenRrZTdnU1dOWTVKbVdiTGtSdXZGTzcxWjZ0LVNrMUdDZ1lhUXk3VkcySmtqVks2SVJPT1pOUG82NGU0TnZvSUZ3V2RsbXVtSV9QQzMyVHVyTXo3MDhrZw?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-21T11:44:08.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
+    },
+    {
+     "title": "أقل من 54 جنيها .. سعر الدولار اليوم السبت 21 نوفمبر 2026 في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsZkV2SzUzMUhmR3F2OFVTOTgyY1h0T3MtVl8wVFV3dlJQQ1RDeGo4Mi1WZU53YW5hSmFVQVlGV2F6Rjk0YWVN?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-21T11:44:00.000Z",
+     "seen": "2026-11-21T11:49:44.403Z"
+    },
     {
      "title": "سوفت بنك تدرس استحواذ بقيمة تريليون دولار على إس كيه هاينكس",
      "url": "https://alborsaanews.com/2026/11/21/2007880",
@@ -330,21 +344,6 @@
      "time": "2026-11-21T08:29:44.000Z",
      "seen": "2026-11-21T09:06:02.667Z",
      "impact": "يؤثر متابعة سعر الريال السعودي على حركة التحويلات المالية والتكاليف للمسافرين والمواطنين."
-    },
-    {
-     "title": "\"شلاتين\" تطرح مزايدة للتعدين الأهلي عن الذهب تشمل 10 مناطق في ديسمبر",
-     "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOaGtzalNtbDlaNEJCRENFMVd0OGFlU3lVMDhoYVFSS3RZa25PQzB4Z2hFRXpPLXY4eWRlMFRNWGFuNDlqenBINnlxUnJuWU5NZUMxcjdEVFVVc1hGazVLUVlYcnYtbFlpc28xLUllbDY4WWFETkE4TWxyQi1sR24xMHRmTDVVMXRVaUliVWRaS1lPYmxhLXZsbUFhTUNpV3ctX2wtMVhSd2g3M3ItR3dkczJwMUZEbWl4NmtMOXhoYjZUR0RDWUswLWI0LWhfOEJyTTNnU1V3cTdrVWoyNWdMb2VEWS1QSFBwUGVISDZZeEJZRXFwV1laN09yWnN3SHloTHB2Z3dDQzktS1p0ck1FVXMzbC1LcEVQbEVqUFlsUlgxc0d5UElMcEt0bjJjblVNMlU0NU9MbFY5N29oQkgybGZQUUltMVBrT0JTOXRzUktKRVN2a2NZaG5ZajVfcXdGd0NJZjdQZF9OVEdLZTdYS0JfY0s5Ylg4eDFUdC1feEFHMXNzOXRKTktCR1puTzg1QW5xcVh1bFlSZlFJUTc4VUx4TlAtN08wRU8xa0F3bXAteE1mZjNiWFgzNXZsSVBScFcw?oc=5",
-     "source": "الشرق بلومبرغ",
-     "time": "2026-11-21T08:04:06.000Z",
-     "seen": "2026-11-21T08:06:02.605Z",
-     "impact": "تفتح مزايدة التعدين في 10 مناطق فرصاً استثمارية جديدة للمشتغلين بقطاع الذهب والتعدين في السوق المصري."
-    },
-    {
-     "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
-     "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T08:00:05.000Z",
-     "seen": "2026-11-21T08:06:02.605Z"
     }
    ]
   },
@@ -444,11 +443,11 @@
      "seen": "2026-11-21T11:39:44.183Z"
     },
     {
-     "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
-     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-21T07:49:40.000Z",
-     "seen": "2026-11-21T08:56:03.047Z"
+     "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
+     "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T08:00:05.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
     }
    ]
   },
