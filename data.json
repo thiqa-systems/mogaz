@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-21T12:39:44.338Z",
+ "updated": "2026-11-21T12:49:44.721Z",
  "minute": [
-  "تناولت الأخبار المحلية إطلاق خطوط حافلات جديدة لربط الغردقة بالصعيد والقاهرة، وتنظيم توزيع كروت تكافل وكرامة بالجيزة.",
-  "واقتصادياً، وصل احتياطي النقد الأجنبي لمصر إلى 57.5 مليار دولار، بينما سجلت أسعار الذهب والبتكوين تراجعات ملحوظة.",
-  "ودولياً وتكنولوجياً، استمرت الاستهدافات في قطاع غزة، وتزايد النقاش حول قواعد الذكاء الاصطناعي والروبوتات."
+  "تضمنت الأخبار المحلية في مصر إعلان تيسيرات جديدة لمشروع بيت الوطن وتحديد إجازة رسمية للموظفين والطلاب، إلى جانب مباحثات بين وزيري خارجية مصر والسودان وتوقعات حالة الطقس.",
+  "اقتصادياً، سجل احتياطي النقد الأجنبي 57.5 مليار دولار مع تداول سعر الدولار عند مستويات أقل من 54 جنيهاً، بينما تراجعت عملة البتكوين لأدنى مستوى لها في عامين مقترنة بتغييرات أسواق المال العالمية.",
+  "وعلى الصعيد الدولي والتكنولوجي، تواصلت النقاشات حول عقوبات إيران والتنافس الدولي، بالتوازي مع التوجه لوضع قواعد لاستخدام الروبوتات القاتلة خلال عامين."
  ],
  "ai": {
-  "at": "2026-11-21T12:19:44.717Z",
+  "at": "2026-11-21T12:49:44.721Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T12:39:44.338Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58695,
-   "change": -0.18,
-   "asOf": "2026-11-21T12:41:17.000Z",
+   "value": 58708,
+   "change": -0.15,
+   "asOf": "2026-11-21T12:50:34.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,32 +137,42 @@
    "title": "مصر",
    "items": [
     {
-     "title": "التدخين مضر بالصحة.. وزير العدل يداعب رئيس دائرة جنايات بنها خلال جولته بمحكمة شمال",
-     "url": "https://www.elbalad.news/7188863",
+     "title": "تيسيرات «بيت الوطن» الجديدة.. شروط مد مهلة البناء وإضافة دور سكني",
+     "url": "https://www.elbalad.news/7188892",
      "source": "صدى البلد",
-     "time": "2026-11-21T12:39:03.000Z",
-     "seen": "2026-11-21T12:39:44.338Z"
+     "time": "2026-11-21T12:48:52.000Z",
+     "seen": "2026-11-21T12:49:44.721Z",
+     "impact": "يهم الراغبين في التوسع العقاري أو البناء في مصر لمعرفة الشروط الجديدة لمد المهلة وإضافة دور سكني بمشروع بيت الوطن."
     },
     {
-     "title": "نقل جثمان طالب مقتول في قويسنا إلى المشرحة لعرضه على الطب الشرعي",
-     "url": "https://www.elbalad.news/7188860",
+     "title": "بيطري الغربية: تقديم الخدمات البيطرية لـ 1298 طائرا وماشية",
+     "url": "https://www.elbalad.news/7188880",
      "source": "صدى البلد",
-     "time": "2026-11-21T12:38:36.000Z",
-     "seen": "2026-11-21T12:39:44.338Z"
+     "time": "2026-11-21T12:47:48.000Z",
+     "seen": "2026-11-21T12:49:44.721Z"
     },
     {
-     "title": "القبض على 3 أشخاص يتسولون أعلى كوبرى الساحل بالقاهرة",
-     "url": "https://www.elbalad.news/7188873",
+     "title": "إجازة 3 أيام للموظفين والطلاب بأمر الحكومة.. موعد أول عطلة رسمية مقبلة",
+     "url": "https://www.elbalad.news/7188442",
      "source": "صدى البلد",
-     "time": "2026-11-21T12:38:04.000Z",
-     "seen": "2026-11-21T12:39:44.338Z"
+     "time": "2026-11-21T12:46:00.000Z",
+     "seen": "2026-11-21T12:49:44.721Z",
+     "impact": "يهم العاملين والطلاب لتنظيم جداولهم وتخطيط التزاماتهم بناءً على الإجازة الرسمية المعتمدة من الحكومة."
+    },
+    {
+     "title": "وزيرا خارجية مصر والسودان يبحثان تعزيز العلاقات الثنائية وتطورات الأوضاع بالسودان",
+     "url": "https://www.youm7.com/story/2026/11/21/وزيرا-خارجية-مصر-والسودان-يبحثان-تعزيز-العلاقات-الثنائية-وتطورات-الأوضاع/7627087",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T12:45:00.000Z",
+     "seen": "2026-11-21T12:49:44.721Z"
     },
     {
      "title": "الأرصاد تكشف لـ\"اليوم السابع\" توقعات الطقس ومفاجآت درجات الحرارة",
      "url": "https://www.youm7.com/story/2026/11/21/الأرصاد-تكشف-لـ-اليوم-السابع-توقعات-الطقس-ومفاجآت-درجات-الحرارة/7627027",
      "source": "اليوم السابع",
      "time": "2026-11-21T12:26:00.000Z",
-     "seen": "2026-11-21T12:29:45.064Z"
+     "seen": "2026-11-21T12:29:45.064Z",
+     "impact": "يهم المواطنين لاتخاذ التدابير اليومية المناسبة وتخطيط سفرياتهم وفقاً لتوقعات درجات الحرارة والطقس."
     },
     {
      "title": "«سوبر جيت» تشغل خطوطًا جديدة لربط الغردقة بمحافظات الصعيد وتدعم رحلات القاهرة",
@@ -175,11 +183,11 @@
      "impact": "يوفر للمواطنين والمسافرين خيارات انتقال جديدة بين الغردقة ومحافظات الصعيد والقاهرة."
     },
     {
-     "title": "عطارد يصل إلى استطالته العظمى الغربية وفرص لمشاهدته.. تفاصيل",
-     "url": "https://www.youm7.com/story/2026/11/21/عطارد-يصل-إلى-استطالته-العظمى-الغربية-وفرص-لمشاهدته-تفاصيل/7627039",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T12:10:00.000Z",
-     "seen": "2026-11-21T12:19:44.717Z"
+     "title": "جريمة صادمة في مصر.. سيدة تحرق شابا وتنثر رماده بالشارع",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPS185ZEhqcDR5dFFsamNEa3VTanhrdW45VUlCU3hGTkVWdUw5OExjQkxwaHpSWVRVQ2g1Q0I0VV83OVMtc0FYcnI0M2NXbTdaSjZOMWZFb2luWE1YR28yVEtKZ0hHTS16Zkc4cG5iVDAzLVNpXzlSdmZFY193TjhpS1R0X252WFBaRGZycHBzNkFmZFJGbGFJamJkZWEydGhzTTFCcThrZW5oUU1QWG94UjVCd0xBTnpHZ201Yy1idWpiZkN6VDUxNkIzcy1VTG9GVmhGamsxbzJsTmhDcmtyejhQb3BOVU5BMkxMQXdsRXo2bTBLS3h3bVVucVBzZ0s1RG5YUXF4SUtuRmdJbjc2ZFo3NnBkOGxsRVpGWkNETFhZVVVZRktKYXJqeGNRdHQ0eUhSTkxINWxVRGladGFGM0JsNV9Ja2Q0b1NlUlBpZ0h3d1F4czhVdTQyN2pCNWpIVnVFZUUzeTVXUXU0RDVFdWF0ejUyWXdMZnlhMTNWMktsYmRQLVMyU0NfYzZSazJvMFpJU2hDM2gzRjJMd1VkdUNGRGZXZHpIbDM2VXhBaFlVVk9aTW1Z0gG8A0FVX3lxTFBfVkJJYno2YTQ3V2YxdWk0dG5saXFua2xULWw5ZTNaYm94aldUaVNpX1JhS3JuaHFVT094Z1Jzc0lkekJvQTFXYXJMYzh6YXNPT1JZUmRiZ0s3U1pnSEhwWmlXVmtFS1l1WDNqOExCUkMycXBPZy1xS00yUGRKd2ZUWEpUNU45NXl0SnNyMmV2TmUyNmtFODBMcXJQTkVlYmpOeDFoemFFTUZueUVybjZYYW5Nd0Y1LTVWWVJKUVdmbVpoM0hfejNZMjNzZHJ1RWNpd2xxLUc4Qjl5UldnZ09zYmYtQU83ay0wdWk2SjFaU0E0MVNTWkVycXZFY2wtR1pkRWJHdkdSVjFMbmpKTHlDai1pZW5BaVZ5VDcwSFRsVzh1SDNSYzI4Y1dyR2MxS2p0cTlBa0c4NHk1QW5CQm03MXc4bVZwa3Z6SjM2Mk1JajRmamdleEVpVUJjaG5yYUo1ZDZEWmhzc2FZVUNvUFhaZUJTSlM2U0VtWldZZVV5S1hxQ05YODBSR3VTYUlJYms3UmtCUlZGUko4b1g4clZwQ0lfS2xHQ0Z5Q2FOVUFOYWpMU2xuYnc0dWFXUg?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T11:20:11.000Z",
+     "seen": "2026-11-21T12:49:44.721Z"
     },
     {
      "title": "تفاصيل قرار مدبولي بتشكيل \"المجلس الأعلى لتنمية مهارات الموارد البشرية\"",
@@ -229,13 +237,6 @@
      "source": "CNN Arabic",
      "time": "2026-11-21T04:59:34.000Z",
      "seen": "2026-11-21T08:06:02.605Z"
-    },
-    {
-     "title": "الرموز والدستور.. ورحيل «علام»",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3VVZublZORlZGVjR3WmlVTUotZ3hnUTlJTlRPVmhJYU8wZ2VfaVBnLUpWZV90b1NtSlVuWUxzVGV0ZnZqRmhuWlMtYVptcl85S0xQZ2tmWUR3di0yTFFv?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-21T02:28:00.000Z",
-     "seen": "2026-11-21T12:19:44.717Z"
     }
    ]
   },
@@ -248,7 +249,8 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCMUVMc2NYeDBabmQ0SVh1ZlJGSnJmbHV6VEltRlNrVlV5MkxYMHFseUlSWmlPX3Fqd2xGUlg1bTNpN1Z1TFJLM1ZYQzF5MnVCeXI0MVQtdVRYdnFDcHNJ?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-21T12:21:00.000Z",
-     "seen": "2026-11-21T12:29:45.064Z"
+     "seen": "2026-11-21T12:29:45.064Z",
+     "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة تحركات سعر الجنيه أمام الدولار بعد انخفاضه الأخيرة وتأثير ذلك على الأسعار."
     },
     {
      "title": "كوستا يقترح خفض ميزانية الاتحاد الأوروبي 10%",
@@ -263,7 +265,7 @@
      "source": "عالم المال",
      "time": "2026-11-21T11:44:08.000Z",
      "seen": "2026-11-21T11:49:44.403Z",
-     "impact": "يعزز من ثقة المستثمرين والمواطنين في كفاية احتياطي العملة الصعبة واستقرار الاقتصاد المصري."
+     "impact": "يعزز ثقة المستثمرين والمتعاملين في الاقتصاد المصري من خلال استقرار شبكة أمان العملة الصعبة والاحتياطي الأجنبي."
     },
     {
      "title": "أقل من 54 جنيها .. سعر الدولار اليوم السبت 21 نوفمبر 2026 في مصر",
@@ -271,14 +273,15 @@
      "source": "صدى البلد",
      "time": "2026-11-21T11:44:00.000Z",
      "seen": "2026-11-21T11:49:44.403Z",
-     "impact": "يهم المواطنين والمتعاملين في مصر لمعرفة التغيرات في أسعار صرف الدولار أمام الجنيه."
+     "impact": "يهم الأسواق والمستهلكين في مصر لمتابعة وصول سعر الدولار إلى مستويات أقل من 54 جنيهاً."
     },
     {
      "title": "تايوان توسع قيود البيع على المكشوف عقب هبوط الأسهم",
      "url": "https://alborsaanews.com/2026/11/21/2007882",
      "source": "البورصة",
      "time": "2026-11-21T11:43:47.000Z",
-     "seen": "2026-11-21T12:29:45.064Z"
+     "seen": "2026-11-21T12:29:45.064Z",
+     "impact": "يهم المستثمرين في الأسواق المالية لمتابعة قيود التداول والبيع على المكشوف وتجنب مخاطر هبوط الأسهم."
     },
     {
      "title": "سعر الذهب يخسر 8.9% عند أقل مستوى في 14 شهرا.. تحليل فني يكشف التفاصيل",
@@ -316,7 +319,7 @@
      "title": "سعر الدولار مقابل الجنيه السبت 21 نوفمبر 2026 داخل البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNc1FaZGdIN3VJOF9YTUxLcDlpUkhnaF9RWW1rX3dPZlE4bTlDdHIwQmZzMVlZZ3I4UVA2OFZ6TE50cE5waUdzd1FFUFB5U1FHWk9jamhRdjdJMGdxakhNR3dvQUpZbkQ4SEJhbnV5OVREMmt3Y3Faa1Y4bXpuMDJ2b3FGRnhzN1l4NG1SSlkweWM0aERiZzB3Z0tpUnAtamdvanpxbUdNQnhPZXgzdC1CRkY5eGtoMVdXbWhSMGtmaHFvU1JfZ0hGamxqaWVsN0hmNEpLWk1Lc2t6WWV4eVpGLXZEeHBBVmlfa1R0eVdyUTlWdTVibDlBMUFIOXIxcVJPNjdvYzN5eVhtWkNxVDcwUl9tci1WNU9Vcnd4NWIwNW5DVWt0MHUwRG1aamQ5UWtROC0xdnlQTzNyWFRhWW5PVjFOWVhrZW5pRkFTT2Q2U1dWZVk1WFluRnFmUTBuTkE5ZFhXcDY2X2pTVUtWSlZXYVRlcGdhR21oaVJSWU92azJuYm1GM0FEVmllbWNNWnVYQjdIODJWM3dKQlljb3JnTXJ0ejBPb2tLRlBsb2NTNHROX0FNSGdVNWR2SnMzU21vZUJhb1ZxU0RTZUZkVW5aNWJCWG5YMjU5V3F4ZkRHS1RNVjQ2N18wZVNXeHpPYTBzd2pyMlFzeHljYVpBQVFtSGpn?oc=5",
      "source": "CNN الاقتصادية",
-     "time": "2026-11-21T10:36:53.000Z",
+     "time": "2026-11-21T10:40:38.000Z",
      "seen": "2026-11-21T11:19:44.177Z"
     },
     {
@@ -493,7 +496,7 @@
      "source": "اقتصاد سكاي نيوز عربية",
      "time": "2026-11-21T07:31:30.000Z",
      "seen": "2026-11-21T10:59:44.187Z",
-     "impact": "يهم حائزي ومتداولي العملات الرقمية لمتابعة مخاطر وانخفاضات سوق البتكوين."
+     "impact": "يهم حائزي العملات المشفرة والمتعاملين في التكنولوجيا المالية لتقييم المخاطر بعد هبوط البتكوين لأدنى مستوى في عامين."
     },
     {
      "title": "التقى صدام حسين وصلى خلف نعيم قاسم: الملاكم محمد علي وسيطاً في ملفات خطف رهائن",
