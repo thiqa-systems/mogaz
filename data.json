@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:41:09.548Z",
+ "updated": "2026-11-21T19:51:09.678Z",
  "minute": [
   "شهدت الأسواق المصرية متابعة لمستويات أسعار الدولار مقابل الجنيه وسعر الذهب لعيار 21، إلى جانب تجديد شهادتي الجودة والسلامة للخط الأول للمترو والمونوريل.",
   "إقليمياً ودولياً، استمرت محادثات الوساطة بين إيران وقطر مع رصد إصابة ناقلات نفط في مضيق هرمز، إضافة إلى وقوع انفجار بخط غاز في البصرة بالعراق.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T19:31:10.030Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T19:51:09.678Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60247,
-   "change": 2.46,
-   "asOf": "2026-11-21T19:41:07.000Z",
+   "value": 60295,
+   "change": 2.54,
+   "asOf": "2026-11-21T19:52:09.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نائب رئيس البنك الأفريقي: مصر تمتلك مقومات تجعلها أهم منطقة لوجيستية في الشرق الأوسط",
-     "url": "https://www.elbalad.news/7189373",
+     "title": "برلماني: تصدر مصر للاستثمارات الإفريقية شهادة ثقة دولية في متانة الاقتصاد",
+     "url": "https://www.elbalad.news/7189391",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:38:44.000Z",
-     "seen": "2026-11-21T19:41:09.548Z"
+     "time": "2026-11-21T19:50:51.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
     },
     {
-     "title": "عموتة يعلن قائمة الأهلي لمواجهة بيراميدز",
-     "url": "https://www.elbalad.news/7189372",
+     "title": "مبعوثة الاتحاد الأوروبي: تصاعد الصراع في القرن الأفريقي يهدد استقرار البحر الأحمر",
+     "url": "https://www.elbalad.news/7189390",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:36:30.000Z",
-     "seen": "2026-11-21T19:41:09.548Z"
+     "time": "2026-11-21T19:50:28.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
     },
     {
-     "title": "اليونان وإسرائيل تبحثان إبرام صفقات أسلحة بـ1.1 مليار دولار",
-     "url": "https://www.elbalad.news/7189368",
+     "title": "قوات الاحتلال تشدد إجراءاتها العسكرية في محيط رام الله",
+     "url": "https://www.elbalad.news/7189385",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:34:05.000Z",
-     "seen": "2026-11-21T19:41:09.548Z"
+     "time": "2026-11-21T19:47:32.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
+    },
+    {
+     "title": "مسعفان ينقذان حياة فتاة بعد سقوطها من الطابق الرابع بمدينة نصر",
+     "url": "https://www.youm7.com/story/2026/11/21/مسعفان-ينقذان-حياة-فتاة-بعد-سقوطها-من-الطابق-الرابع-بمدينة/7627492",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T19:43:00.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
     },
     {
      "title": "دولة التلاوة.. التحكيم لمتسابق: متابعتك للنسخة الأولى من المسابقة أفادك كثيرا",
@@ -170,14 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T19:28:00.000Z",
      "seen": "2026-11-21T19:31:10.030Z"
-    },
-    {
-     "title": "المصرية لإدارة وتشغيل المترو والمونوريل تجدد شهادتي الجودة والسلامة للخط الأول",
-     "url": "https://www.youm7.com/story/2026/11/21/المصرية-لإدارة-وتشغيل-المترو-والمونوريل-تجدد-شهادتي-الجودة-والسلامة-للخط/7627455",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T18:47:00.000Z",
-     "seen": "2026-11-21T18:51:09.509Z",
-     "impact": "يهتم به الركاب والمستثمرون في مصر لضمان مستوى السلامة وجودة التشغيل في شبكة النقل العام."
     },
     {
      "title": "أب وأم يتخلصان من طفلهما بالإسكندرية.. والمتهمان بالتحقيقات: «كنا بنأدبه»",
@@ -242,12 +243,19 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "إيران تقول إنّ محادثات الوساطة مع قطر مستمرة، وإصابة ناقلات نفط في مضيق هرمز رغم الحراسة الأمريكية",
+     "title": "إيران تقول إنها هاجمت قاعدتين أمريكيتين بالبحرين، وإصابة ناقلات نفط بمضيق هرمز رغم الحراسة الأمريكية",
      "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
-     "time": "2026-11-21T19:04:30.000Z",
+     "time": "2026-11-21T19:48:35.000Z",
      "seen": "2026-11-21T13:39:45.128Z",
      "impact": "يهم المستثمرين لمتابعة مدى استقرار أسعار النفط وسلاسل الإمداد عالمياً وتأثيرها على الأسواق."
+    },
+    {
+     "title": "البترول تعيد إحياء الإنتاج بحقل البركة في أسوان",
+     "url": "https://alborsaanews.com/2026/11/21/2007984",
+     "source": "البورصة",
+     "time": "2026-11-21T18:43:30.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
     },
     {
      "title": "الخلاف حول الوقود الأحفوري يُعرقل محادثات مؤتمر المناخ \"كوب 31\"",
@@ -256,6 +264,13 @@
      "time": "2026-11-21T18:37:15.000Z",
      "seen": "2026-11-21T18:41:09.330Z",
      "impact": "يهتم به المستثمرون في قطاع الطاقة لتقييم السياسات الدولية المستقبلية بشأن الوقود الأحفوري."
+    },
+    {
+     "title": "«مدكور القابضة» تستهدف 35 مليار جنيه حجم أعمال محليًا العام المقبل",
+     "url": "https://alborsaanews.com/2026/11/21/2007982",
+     "source": "البورصة",
+     "time": "2026-11-21T18:22:15.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
     },
     {
      "title": "متوسط سعر الدولار في مصر اليوم السبت",
@@ -296,26 +311,12 @@
      "seen": "2026-11-21T18:11:10.172Z"
     },
     {
-     "title": "الجمارك تحذر من صفحات تروج للإفراج عن السيارات والبضائع المحتجزة مقابل مبالغ",
-     "url": "https://alborsaanews.com/2026/11/21/2007980",
-     "source": "البورصة",
-     "time": "2026-11-21T16:58:39.000Z",
-     "seen": "2026-11-21T17:41:09.909Z"
-    },
-    {
      "title": "سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MRE15SFhiNkJQb0NqaHhpUENoTnJZdDRaRUludlJ5UEl3TTVHbkpXaXJfYjcyaWZMczYtQmFIbE1zaHpaeDFV?oc=5",
      "source": "فيتو",
      "time": "2026-11-21T16:57:00.000Z",
      "seen": "2026-11-21T17:01:10.180Z",
      "impact": "تهم المستثمرين والمستهلكين لمتابعة أحدث أسعار صرف الدولار وتأثيرها على الأسواق المصرية."
-    },
-    {
-     "title": "ديفيد فلكينج يكتب: لماذا تتكبد شركات الفحم خسائر رغم صمود الطلب العالمي؟",
-     "url": "https://alborsaanews.com/2026/11/21/2007964",
-     "source": "البورصة",
-     "time": "2026-11-21T16:30:30.000Z",
-     "seen": "2026-11-21T17:41:09.909Z"
     },
     {
      "title": "ماذا يعني الحكم التاريخي بشأن الإبادة الجماعية في ميانمار للقضايا المماثلة في المستقبل؟",
@@ -353,6 +354,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "محمد بن زايد ووزير الأمن الداخلي الأميركي يبحثان التعاون",
+     "url": "https://www.skynewsarabia.com/middle-east/1906256-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T19:42:13.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
+    },
     {
      "title": "البحرين تعلن تضرر منشأة صناعية مدنية باستهداف إيراني",
      "url": "https://www.skynewsarabia.com/middle-east/1906258-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%85%D8%AD%D8%AA%D9%85%D9%84",
@@ -404,11 +412,11 @@
      "seen": "2026-11-21T18:31:10.233Z"
     },
     {
-     "title": "الرئيس اللبناني: لا سلاح إلا سلاح الدولة",
-     "url": "https://www.skynewsarabia.com/middle-east/1906243-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%B3%D9%84%D8%A7%D8%AD-%D8%A5%D9%84%D8%A7-%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T17:19:58.000Z",
-     "seen": "2026-11-21T17:31:09.933Z"
+     "title": "النوم الطويل ليس دائماً علامة على الراحة... تحذير لمرضى القلب",
+     "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQbm85dEs4dEhLX1E1Q2VNYlMtUXVrUW1pSGVOLV9rTjNLNDdGT3lMTVZJa3BPS2dvZEdWS19BbFFycktYTmM0cGRvcmJoTVhUMFdBNk00U1lZSWNBVndhVW1SMUh2Yk9hWk1RQmZZRmtHbzdaWjVkdVkwVWI2M3NFOHVsOTFUSEZkZ01GMFpKUVVMVkJhYTZPc1EzYW1mX0o3Q1JzX25LOGtwVUE3LWpWYmwzRE1ZLTZxeUIxOWRuQlFCcFpoVFc1OTRmT0dFbTdzcUJkelV1V0d5SkxDc3dwNFplVGFYdDdtYjRVNHFYMW11VzY1VWd2bE1sNWgzVHE2VlJHUnVKZUdHN2phZ3Rfa1E5M251a3Bpa3pTc240Q3A2RmIzbTJvX2s2emM2OVNRSW9PeW9ibWhZSkYwZkFia1B2Q2taQXZsQlA5VENMZ2l6TjN2eEpsY01abWF2aXZSZHJGdmNoM2xJOUNMS1Q1aW1ieWhLTmJoTV9LMHVrYlo2cmh5NDVXZ3ZKNDBIVk1ScmlOVEN3SDAyY0NuNTRYTEp6WnF3UlF1TTg5RTRoYTJZdzZvWjcwVmF5NEVoSFVzcUxwYkpoSTgzbC12Ym1peWY0NDJJRGY4VEVXb1ROYjNPbmttZTRXbkNJZjlGVWROZ2xaMlV3?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-21T17:33:15.000Z",
+     "seen": "2026-11-21T19:11:09.542Z"
     },
     {
      "title": "آيزنكوت ينوي طرح «حكومة أقلية» في غضون 10 أيام",
@@ -416,13 +424,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-21T17:16:00.000Z",
      "seen": "2026-11-21T19:21:09.894Z"
-    },
-    {
-     "title": "النوم الطويل ليس دائماً علامة على الراحة... تحذير لمرضى القلب",
-     "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQbm85dEs4dEhLX1E1Q2VNYlMtUXVrUW1pSGVOLV9rTjNLNDdGT3lMTVZJa3BPS2dvZEdWS19BbFFycktYTmM0cGRvcmJoTVhUMFdBNk00U1lZSWNBVndhVW1SMUh2Yk9hWk1RQmZZRmtHbzdaWjVkdVkwVWI2M3NFOHVsOTFUSEZkZ01GMFpKUVVMVkJhYTZPc1EzYW1mX0o3Q1JzX25LOGtwVUE3LWpWYmwzRE1ZLTZxeUIxOWRuQlFCcFpoVFc1OTRmT0dFbTdzcUJkelV1V0d5SkxDc3dwNFplVGFYdDdtYjRVNHFYMW11VzY1VWd2bE1sNWgzVHE2VlJHUnVKZUdHN2phZ3Rfa1E5M251a3Bpa3pTc240Q3A2RmIzbTJvX2s2emM2OVNRSW9PeW9ibWhZSkYwZkFia1B2Q2taQXZsQlA5VENMZ2l6TjN2eEpsY01abWF2aXZSZHJGdmNoM2xJOUNMS1Q1aW1ieWhLTmJoTV9LMHVrYlo2cmh5NDVXZ3ZKNDBIVk1ScmlOVEN3SDAyY0NuNTRYTEp6WnF3UlF1TTg5RTRoYTJZdzZvWjcwVmF5NEVoSFVzcUxwYkpoSTgzbC12Ym1peWY0NDJJRGY4VEVXb1ROYjNPbmttZTRXbkNJZjlGVWROZ2xaMlV3?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-21T17:13:09.000Z",
-     "seen": "2026-11-21T19:11:09.542Z"
     },
     {
      "title": "ترامب يعلق على اختراق قاعدة بيانات FBI: ربما نكشف أسرار عن روسيا",
@@ -459,6 +460,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "GTA 6 أكبر إطلاق ترفيهي في التاريخ بمبيعات 3.79 مليار دولار",
+     "url": "https://www.tech-wd.com/wd/2026/11/21/gta-6-%d8%a3%d9%83%d8%a8%d8%b1-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa%d8%b1%d9%81%d9%8a%d9%87%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a8%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-3/",
+     "source": "عالم التقنية",
+     "time": "2026-11-21T19:50:40.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
+    },
+    {
      "title": "موظفو Anthropic يبيعون أسهماً بأكثر من 25 مليار دولار في اليوم الأول",
      "url": "https://www.tech-wd.com/wd/2026/11/21/%d9%85%d9%88%d8%b8%d9%81%d9%88-anthropic-%d9%8a%d8%a8%d9%8a%d8%b9%d9%88%d9%86-%d8%a3%d8%b3%d9%87%d9%85%d8%a7%d9%8b-%d8%a8%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-25-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af/",
      "source": "عالم التقنية",
@@ -482,11 +490,11 @@
      "seen": "2026-11-21T19:11:09.542Z"
     },
     {
-     "title": "لماذا تأخر One UI 9.0 على Galaxy S23 FE؟ ما نعرفه حتى الآن",
-     "url": "https://www.tech-wd.com/wd/2026/11/21/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%a3%d8%ae%d8%b1-one-ui-9-0-%d8%b9%d9%84%d9%89-galaxy-s23-fe%d8%9f-%d9%85%d8%a7-%d9%86%d8%b9%d8%b1%d9%81%d9%87-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%a2%d9%86/",
-     "source": "عالم التقنية",
-     "time": "2026-11-21T18:14:26.000Z",
-     "seen": "2026-11-21T18:21:09.684Z"
+     "title": "«اجتماع ثلاثي» بأسوان يُجدد رفض الإجراءات الأحادية في قضايا الأمن المائي",
+     "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNTWgtYVBKaC10aUJuUFg2OVFZNmFEbXNPdjY3VTI5UzFmV2ZuRFhxWGNiOGEzWEw5Mm1hN0tjVDhENmxXbE9JOHc4eGhELUNrYWNCODdEbEhZNnpHaElsWUUzdC1uWkQzQmdCWlZmd1AxbldweUhuZFJPT0dSREVMNjdTRFFuR3MzMC1oQXVfdUtXeHVmWC1rek40VThLWjJ0bXJ0eHdLTjNDZTBnS2VpZ0dQbDZkbkI2RVVkQm1DdDRTTjhud2hKNHdCTk1jcWM5cDN3Uk5FTlRDMGF0aUJ5ZlphYnVtQW5uY1hyZ1RJRlpySjd3QnZJTXlqZkE4NFAxRk94aWxDUDFuR0RDS3NLM1M5VEtTdTBORFBTeGdDNlR5Zi1mbkRwT1JiSlV5dEFxbTNWTjkySzlscnJDT3ZqNFNZMWwxeDE0OXdCUHltaXNzVmNjU0kyQ3kzUllQTld3STBjSmY1dFJ6SlYxTWRYbkRILThRa1VkY3E4N2MyX0VnVjFBWVlVcGtBanZQT25aTnRuNjlhc2V6V1oxdW9YR3I5ZzdIQklYZ2lCSVpzeUNBZ3ltM24wZTd4TjVTQzg5NWJJMnhiWEEzcnlLaC04OThDRGhYSWN2SlRuWlQ3Q3pSYkhSVlZ4c0txRTd3Y2xjRWpENVY2ZDEwRnRiSGozdk9mT2w0ek9WTEtLQ1NISEF3eHFPVDJQN2MzVS04Y3BVTjh4TnVhNDZWNjdZTjcydEs0ZmptZF9BRjA3RjRvNGY2eE1CV1FZc1NIbWN0RkxqR2gtOTJMZnhDOS0xdjVmMkJlaVg3NEhuZGs4aHJvamttLVU0WFp4UmVkcHVWNl84T245Tl9kMVNvZDlDeDNZUEVzRmlPV1ZlbWFRVUI5ZFdwaGo2SVF0dUM3VTJHUlpscVdqVkFlZUZRQQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-21T17:33:14.000Z",
+     "seen": "2026-11-21T19:51:09.678Z"
     },
     {
      "title": "كيف خدّر رجل زوجته وعرّضها للاغتصاب على أيدي غرباء على مدى 13 عاماً؟",
@@ -553,13 +561,6 @@
      "source": "DW.com",
      "time": "2026-11-21T09:10:03.000Z",
      "seen": "2026-11-21T12:09:45.026Z"
-    },
-    {
-     "title": "الروبوتات القاتلة.. اتفاق على وضع قواعد استخدامها خلال عامين",
-     "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxNX25KWTRNYzhzNU9BRTFYaWJ1c1R2Q2ZjdHh5LU0wU1pnRGtSZ0hoWkNORTNLSDBrWEtDalk3bUdJMVZqTXFiQkRGX2RSR3lDcHRGQWEwUjZoRG5sMmlKR3FzTWlFVTRVdjViT2VtLWRuS1Y4NjNUMzVhRVBXRTlzcEF2ZHhtMk9YQjRpVDMydGxaN1BMZGFKamZWbnp5dVRhVEp5QXptM1UtcFBLSWh2Ml9rMm4tUGZ3cTR3Q3ZVTEJDQjdlSWJ4YjE5SVZoVFY1VUhiUFZkb3dtei1OeFItbzRxUWd3YnJxcE11M0VNdjlmZDJiVld2NkItOVM1RGNRdUhkWlVxcG44NF9pMjhDNmxpQURyZ0k3NktLaFJFSFY3VExoSWxCYkw4WGUzX1hXcGdRWnIzR2hUbFZFQnZfSDFfWEtXZk9wRzN4NExjZVZIajVUamNrc09Ub3QtcnlBRFRSS25ud0JNNFRJTUNZN3VsS2dMejF2bGgxR1YzcnNoQzFjem02aXV3U0FHT1JQbVY5MDZ0R0pSd0RUR3o4QWxGcDVZZFE2LXp5d3p6UnBiRnRKZWpxVzVtZHllMldNcFJzZUotNE04N0xuZVBhQ19nR1NhY1JZU0pIYjNlU1FhekJpZjB4akZmY2N5WkVvbEt2d0J1aUlqaUdpQmtGUThQX3hpWXJuR3RuZXdpcHRILURTQV8wcTd3MTUyT0lGVnE4eHJ4Uk9kMzkwajdJT3J5YkF5d3RqS0s3U3FNa0lLMldhaDhvdUZSTnJKTGpPTFVEU25ZbWMyeXpSaUJybmRMdnRhYkVQU0FKX09kaktBcHIyRG9sZmdwNVdXMGtDNUlOZXJOQXRnWlZGN052SEhRaTFEQnJjaGt0QzZjNTVUeXMtbk9wQTFnU3pXalZzWkVOaktUTXJXTk5PR1hMZkF0RHg1bnAya3hNY3FfdXhELXhZXzA5c21sUlJYTDl6ZDJVOHg0YzJzQQ?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-21T09:10:03.000Z",
-     "seen": "2026-11-21T11:59:44.245Z"
     }
    ]
   }
