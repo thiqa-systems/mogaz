@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:21:09.684Z",
+ "updated": "2026-11-21T18:31:10.233Z",
  "minute": [
   "تتناول الأخبار التطورات الاقتصادية المحلية في مصر من خلال متابعة أسعار الذهب وسعر صرف الدولار في البنوك.",
   "كما ترصد المستجدات التكنولوجية مثل إطلاق برامج للذكاء الاصطناعي وتحديثات الهواتف وتطبيق واتساب، إلى جانب نشرة حالة الطقس.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T18:21:09.684Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T18:31:10.233Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60024,
-   "change": 2.08,
-   "asOf": "2026-11-21T18:21:07.000Z",
+   "value": 60038,
+   "change": 2.11,
+   "asOf": "2026-11-21T18:32:09.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ياسين بونو: دوري روشن السعودي يشبه «الليجا».. والهلال شرف كبير في مسيرتي",
-     "url": "https://www.elbalad.news/7189289",
+     "title": "نظام Windows 11 يدعم تقنية RDMA عبر USB4 لتشغيل الذكاء الاصطناعي بسرعة",
+     "url": "https://www.elbalad.news/7189211",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:19:59.000Z",
-     "seen": "2026-11-21T18:21:09.684Z"
+     "time": "2026-11-21T18:30:00.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
     },
     {
-     "title": "مصر لن تسمح بالمساس بأرضها.. أحمد موسى: الأطماع في سيناء مستمرة منذ عهد عبد الناصر وحتى الرئيس السيسي",
-     "url": "https://www.elbalad.news/7189288",
+     "title": "أحمد موسى: 75% من مساعدات بأموال المصريين.. والقاهرة تواصل دعم الفلسطينيين",
+     "url": "https://www.elbalad.news/7189297",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:19:49.000Z",
-     "seen": "2026-11-21T18:21:09.684Z"
+     "time": "2026-11-21T18:28:18.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
     },
     {
-     "title": "أحمد موسى: بايدن استخدم الفيتو عشرات المرات لحماية إسرائيل.. وأمريكا وفرت الغطاء لاستمرار حرب غزة",
-     "url": "https://www.elbalad.news/7189281",
+     "title": "وزير التعليم الأسبق: الذكاء الاصطناعي أداة مساعدة جبارة في تحليل البيانات الضخمة",
+     "url": "https://www.elbalad.news/7189299",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:19:02.000Z",
-     "seen": "2026-11-21T18:21:09.684Z"
+     "time": "2026-11-21T18:26:48.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
     },
     {
      "title": "متحدث الخارجية: استقرار الدول المحيطة امتداد مباشر للأمن القومي المصري",
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "متوسط سعر الدولار في مصر اليوم السبت",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRYmkxR24zYWU4XzlIOWdQT3lXU3I3MFZsSFdrVndHbDU2aGRDRExvYzE4VGV3ZnoxMXlKQlFDMFRxU3BkUzZF?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-21T18:21:00.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
+    },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPY0x5UnB4WEFRdXFvbVJBRG90MzVJR0tKR1FOQVVnMC0ydERza2xhdXFQMmxaRkdhcDRTejVfMVd4SGgxMDA2QWM5dldxQnYzdUZIb2pTTFZqUjF6NnVVQVdtdy00RkxaQjR1ZmhDaWRCNl8tU003Ym9zVFRkblZYbDQtRXhBWnRNcDA0ZkYwYnBUOUhwekRuRXdra0kxdzlGaVVPZU9LTE9oMTMyX04xc0drTmowU0x3Ty01RkRuclQ2STJHcDlPU0E4b2N6RXNqOTR6czE0OEpPT1lqVWxsX01xd2FZZlFHeVlUNDc1MTdQbjFsdGZnbG5IQmtpSWRxWkRuZTJNRFloV1hFeWJXejVlQzBrNUw2dXV4T2xvXzFMV2tjaG1Ebmg1Y3V0RUtCSU5lTGpaSm5SdGR2VFdZUi1LRGdWeE1lOWVkZU4zdVJ2SjZFZXI4Q01PU1J2OTJwTTVyejZSRzV5dDIyYmN1Ui1zYlUtMm5OWklzNEh5R1hMQWQxdG9zb1pJWkNHaFFITzN0Y3JJa0tDNmNZak5ZY285cGNaVDJTQkVOclMxNG1tVkpZZVIzSE9rTzZwSjl4a2E0WlRScWgySml6a1c5TUg1VXZUbkY2T3hlTHoxelJOLThnZVZB0gHiA0FVX3lxTFBNSHhvb3RrbFJ2aDhtQlpSMlllMTZDSmFTMEh4NjlEMkJxWElhUHFZbWI0dmJ3TmpVQVBHWFRua3Q3Yk9UVXJ3djk3QVBXYnZMci1kb2ZjNzZWeHppRzJ6YkpSNjNGVkFOOTk5NUZpR2gxaDNwekRDTUFQSXFYYmplVkNoaUstSjFHTS03a0tHOHVya08tSEh2VDgzVDdKMkZnQ1JQMFlhZ2NJVnNOa2Z0cXhTaDJLZkR5SFNfTTVWd193elZ2MHk0dHd5UkdkNmhMeHpacUFabEJTTUw3eFl4Rl9XdDZhc2hPb0ZhQ3M2YU1KdG9aR0wzSmVFQk1SRkl2Y2hGWG5xQ09QQzVNb2U0VzMzRjFiQl9DRUpkeDlNaFVyV2FSVWZiTzZ1VEhNTHN2QVdLMlNpbmQ2Y01BWDFxYUJVejh6aU9mQkdHVDNubE5QZ1l6YmthaUdpUGdyR3dRWU1ESi1WY1lGZVZLRkd5eEpkN2hJTnB2UEV3TWNKaTdmNG5RMXp4bzJWNnA1SUlsV1k5RDcwYnNlNEQwb09iNzBoZXYweVQ1eVJEd1JfOVZWYndqQ09CVXZCWGRpX1QyeDB6M3NqY1dGcFpCem5sQk1ocDFobUJSQ3JJRkZMY2xn?oc=5",
@@ -337,14 +344,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-21T14:35:45.000Z",
      "seen": "2026-11-21T14:39:45.140Z"
-    },
-    {
-     "title": "التضخم يتراجع إلى 12.7%.. مؤشرات جديدة على تحسن استقرار الاقتصاد المصري",
-     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRndDREJGd2xwUWVUZDZqalRxS1h2WnBOT2cwM2JRc0h3OEVrUXpjdGEtM3hMTWIzUkZYak1DOFNnZTI4akNtMnFJOUFGNmZUZTFFMWtPSlZQWTFtR0xiNWVISU5QRm9qMTBFOGN3ak9lOEEwSEJ4YkUtM2hKX050UmVjZjVyUndSX18zcTNNQXpSZ2VoTmg2STVuTzE3ck9EUExscXhBRTJDNzVkSzM5SFhmOVg5aDRnUmlMbXhzbnlNNlRSS2ZsM0U0Qi04aDdiNGxlcjhvcWw3X0dKVUE5UjdsQjNYQWE5RTc5R0Nfa1I3TnZhX3ZZb1dZWkNJaVk2S2c0TnFTV0kwWVdMX2YxR09rYXBqRmlYTG1QMWtiVHIwTDRUMV9SaWZ3?oc=5",
-     "source": "عالم المال",
-     "time": "2026-11-21T13:44:22.000Z",
-     "seen": "2026-11-21T13:49:44.947Z",
-     "impact": "يشير تراجع التضخم إلى تباطؤ معدل ارتفاع الأسعار مما يؤثر على القدرة الشرائية للمستهلكين وقرارات المستثمرين."
     }
    ]
   },
@@ -353,25 +352,32 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الجيش الجزائري يعلن قتل مهربَي مخدرات \"من جنسية مغربية\"...ما التفاصيل؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261121-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%82%D8%AA%D9%84-%D9%85%D9%87%D8%B1%D8%A8%D9%8E%D9%8A-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+     "source": "فرانس 24",
+     "time": "2026-11-21T18:27:36.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
+    },
+    {
+     "title": "من يحدد شروط التسوية في أوكرانيا؟ ومن يدفع ثمنها؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261121-%D9%85%D9%86-%D9%8A%D8%AD%D8%AF%D8%AF-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%85%D9%86-%D9%8A%D8%AF%D9%81%D8%B9-%D8%AB%D9%85%D9%86%D9%87%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-21T18:27:09.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
+    },
+    {
+     "title": "بطولة فرنسا: لاعب سان جرمان ديزيريه دويه يتعرض لإصابة في الركبة ويغادر الملعب على نقالة",
+     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261121-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B3%D8%A7%D9%86-%D8%AC%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D9%8A%D8%B2%D9%8A%D8%B1%D9%8A%D9%87-%D8%AF%D9%88%D9%8A%D9%87-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%B9%D8%A8-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
+     "source": "فرانس 24",
+     "time": "2026-11-21T18:23:47.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
+    },
+    {
      "title": "الرئيس اللبناني: لا سلاح إلا سلاح الدولة",
      "url": "https://www.skynewsarabia.com/middle-east/1906243-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%B3%D9%84%D8%A7%D8%AD-%D8%A5%D9%84%D8%A7-%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T17:19:58.000Z",
      "seen": "2026-11-21T17:31:09.933Z"
-    },
-    {
-     "title": "مريم غانم: \"كنت أول عراقية ترنم في كاتدرائية نوتردام باللغة الكلدانية\"",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D9%88%D9%85%D8%B3%D9%8A%D8%B1%D8%A9/20261121-%D9%85%D8%B1%D9%8A%D9%85-%D8%BA%D8%A7%D9%86%D9%85-%D9%83%D9%86%D8%AA-%D8%A3%D9%88%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%B1%D9%86%D9%85-%D9%81%D9%8A-%D9%83%D8%A7%D8%AA%D8%AF%D8%B1%D8%A7%D8%A6%D9%8A%D8%A9-%D9%86%D9%88%D8%AA%D8%B1%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%83%D9%84%D8%AF%D8%A7%D9%86%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-21T17:15:23.000Z",
-     "seen": "2026-11-21T18:01:09.625Z"
-    },
-    {
-     "title": "قمة المناخ \"كوب31\": امتداد المحادثات لوقت إضافي طويل ولا بوادر للتوصل إلى اتفاق جديد",
-     "url": "https://www.france24.com/ar/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/20261121-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%83%D9%88%D8%A831-%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AC%D8%AF%D9%8A%D8%AF",
-     "source": "فرانس 24",
-     "time": "2026-11-21T16:59:53.000Z",
-     "seen": "2026-11-21T17:11:09.850Z"
     },
     {
      "title": "موسكو تريد إعادة عقارب الساعة 29 عاماً إلى الوراء .. هل تتخلى أوروبا عن أمنها؟",
@@ -430,14 +436,6 @@
      "seen": "2026-11-21T15:59:44.409Z"
     },
     {
-     "title": "فرنسا: \"فصل سادس\" من التعبئة للمطالبة بتحسين وضعية الشباب والاحتجاج على غلاء المعيشة",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261121-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%81%D8%B5%D9%84-%D8%B3%D8%A7%D8%AF%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D9%84%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D9%88%D8%B6%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC-%D8%B9%D9%84%D9%89-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-21T15:48:06.000Z",
-     "seen": "2026-11-21T15:49:44.740Z",
-     "impact": "يهم المتابعين للشأن الاقتصادي الدولي لمراقبة موجات التضخم وغلاء المعيشة وتأثيرها على الأسواق العالمية."
-    },
-    {
      "title": "آيزنكوت ينوي طرح «حكومة أقلية» في غضون 10 أيام",
      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPaHBpM21WUUJqcy0wbERBemNFdVdDei1tZFNmbVNEUmFvUjFkQXVabDJGc096TFZ5OGtva2FiRTVUcFlYendZOXprVjloc0IzU0RjV1NlWUpmWWY0OHFELUFULXFzQ21EQnVFWkVEQmRLejNqS2RIenpkcmRHSFhTN2RyUWdQSHFvc2NFd1JCUmo4UzRZS0lzT1lmZ1NzaXREM2l0N0JHYkVRdDd4LXdCQmhLZk5zVHlvakVKRE5zY2NXazZDOVFoUDlqNmtObmRLWWd5MUEyc3FPYVlwWWpTWmotV1RDOWJRUUlSQUNYNjlQQ0pMSGwxV0pGRHdqYnFaNmxIQmJSczRlOUJsYVkwczBObGtqREtBUkpVMGVBSm5KSG9HQ3p1bm55MTlPNk1hZmpPVlJvZlF6WDVHeVVrU2lKS1FUMlBOcHFOVjA4OFdMR3V2dXBhZlhIREszdU9NNjBDeURvMnloVzljWW50UEowSTlvb3NJSE9FeGN1M0Z6OTd2NFIyR2xfSlAtcndwRDBjTEQzcmNLNUF6TkY4MWVBaUpZMlU0RnBFNDJGSnh6cXpiRVY1cA?oc=5",
      "source": "الشرق الأوسط",
@@ -458,6 +456,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "رئيس مايكروسوفت: الذكاء الاصطناعي يكتشف الثغرات أسرع من إصلاحها وأعطال أكثر في الطريق",
+     "url": "https://www.tech-wd.com/wd/2026/11/21/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%8a%d9%83%d8%aa/",
+     "source": "عالم التقنية",
+     "time": "2026-11-21T18:23:41.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
+    },
+    {
      "title": "لماذا تأخر One UI 9.0 على Galaxy S23 FE؟ ما نعرفه حتى الآن",
      "url": "https://www.tech-wd.com/wd/2026/11/21/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%a3%d8%ae%d8%b1-one-ui-9-0-%d8%b9%d9%84%d9%89-galaxy-s23-fe%d8%9f-%d9%85%d8%a7-%d9%86%d8%b9%d8%b1%d9%81%d9%87-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%a2%d9%86/",
      "source": "عالم التقنية",
@@ -470,14 +475,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-21T16:14:27.000Z",
      "seen": "2026-11-21T16:21:09.925Z"
-    },
-    {
-     "title": "Honor تجهز هاتف من فئة X بشاشة 7 بوصات وبطارية 13500mAh",
-     "url": "https://www.tech-wd.com/wd/2026/11/21/honor-%d8%aa%d8%ac%d9%87%d8%b2-%d9%87%d8%a7%d8%aa%d9%81-%d9%85%d9%86-%d9%81%d8%a6%d8%a9-x-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-7-%d8%a8%d9%88%d8%b5%d8%a7%d8%aa-%d9%88%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-135/",
-     "source": "عالم التقنية",
-     "time": "2026-11-21T16:10:12.000Z",
-     "seen": "2026-11-21T16:11:09.566Z",
-     "impact": "تهم المستهلكين المهتمين بالتكنولوجيا بمصر لمعرفة مواصفات الهواتف الذكية المرتقبة ببطاريات قوية."
     },
     {
      "title": "كيف خدّر رجل زوجته وعرّضها للاغتصاب على أيدي غرباء على مدى 13 عاماً؟",
@@ -518,6 +515,13 @@
      "impact": "هم الأفراد الذين يستعينون بالتطبيقات الذكية للتأكد من الحكم الشرعي لاستخدامها في تحديد مواقيت الصلاة والقبلة."
     },
     {
+     "title": "كل ما تريد معرفته عن شركة Instinct للذكاء الاصطناعي.. كيف وصلت إلى تقييم 10 مليارات دولار؟",
+     "url": "https://almalnews.com/2148709/كل-ما-تريد-معرفته-عن-شركة-Instinct/",
+     "source": "جريدة المال",
+     "time": "2026-11-21T10:02:00.000Z",
+     "seen": "2026-11-21T18:31:10.233Z"
+    },
+    {
      "title": "\"اليمين المتطرف يهدد أوروبا، لكنه هشّ\" - مقال في الغارديان",
      "url": "https://www.bbc.com/arabic/articles/cxyvdq3e32l7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -551,23 +555,10 @@
      "source": "DW.com",
      "time": "2026-11-21T09:09:29.000Z",
      "seen": "2026-11-21T16:01:09.314Z"
-    },
-    {
-     "title": "الذكاء الاصطناعي يعيد تشكيل الحرب السيبرانية.. والتهديد أصبح واقعاً",
-     "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxOTm1jSjJwTGRkTW9xd25xUEp3SjRiWmdLMkZjM2Q5OERleENkM0VKRlhfN1dfak1hcW1rYlJMQXRaNUZIc252MDNfNHRyZVBnbGlXVnJtcTQxU3AxcjZnQnZKdFRNRFM3LWFCbGtVVk9iMUVPMUpyRk9kVTlxY3RGS3Q4RTNJVml6VmtPeVIyVFJjWTAza0lwNW9IZmFkTGtuTENpdzkwOHJLSXI3OGZtNUFoNGlXM2x5THRnRy1CN01wWkpKdnBzelNKTW9TZzNhUDVUVXo3TXpwUTNjWW8wVlVPU2EydVJ2SDdUdUF3RXo5SWgzbnhsZFo2V0c4bHEyRDgza1U5eWlQTkw1OGNySnp2RkxWMEpxc0xxZVgzb2loSEFrYlZJZVdDaDFXdXg2cWZHT2t4YVdqVlczZVBiaS05UUFXNGdqRjN0SkRtdW85aXctZ3pLMGttQkMybkR0ZnVxUXl2ZE1GekVzOWQ0QzJ2MlJCbXc2MFZzVG5hbFBVbmJmbUhrMUtBWEpwVWxkejk1c1lWN1h1S2JFeDhVNWtFcVgxM2x5RmJaR3JNUFhXY29oQkVVdXhmUy1ZQnlFSTk0Ymo4aktteURLcUtkMEpPQTlacWROU25nZmZSbWxIY0Y0Tl9yQ0dBQnlxVF95N3lQQ2Y1OHRicTZnUTV0ODJfTFdZRHFxdWNQR2tOeFA2RmNDZ1RHTG85Q3doakpjc2ZZT09uVzBEdGVCZWJIY9IBtgRBVV95cUxOb2JUT0YtXzl5SEZ0UkxLd3pxckMwRFV3TzVzMDVMWUtZMFBJMnpiODN0c0hReGlQRzBFU2xGZHU0SlQtU1VocXpEWXpIeUdpZWxsZXBsWjZFcGwwOGFXcE5vMkwwWDJDUnhlbERTS242MGVqYURlUnNGTnlhMmtJV2FSTjAtMm5fZWZETDJfZ0d0d2V4bTlpQmJJV0wwWmMwa05Nc2ZudXlNQlhMZllVWVQ5bXZDOXc1Y09BRHpkRnluczZVUGlUYmZ5NnlGQTlEblZXcUhGZWhiRkNIZlg0VG1aSnFGdDV5a1dCRm5qRVdBWGxNQXRRSXNpZWZndHVPVnYwbUtWVzVOZUN3X0UyYWtvR0N2VVYweF9ZbnEyemlzb2Q3Z0hWcnFfOUNSSERBLThfdURNbTl1SFFRRDBDcHVzYzJUNjhtTWpZdUhyOUs0YWpJUnEwc1N4OUhZRlBHa29SLVhZNFBVbTNRTGxGUUNxeDNMLXhicFFDdUJ3aTltVGIwZm0zSVhjWFdDdFNrZ0ZYblpzMkdnWF9BajJYN2pBcHNaUGxzaE1pRUltd0M0Q21zSHZhVHFlMG5lVHgwTVFfRzNwRXJtYk1yT0NwempXTXdQMUlHaExQUF9OUC12LW1rOG0wbEtKeXNiVUdHM2VfSGJGblVKck40dm92aG9Ka1BFem12NjNiWmdmUElzUktHcHlLZmROOUtsUW95cFMzeEROejUtZllZRUlLMHh1RWY5QQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-21T08:29:00.000Z",
-     "seen": "2026-11-21T15:49:44.740Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
