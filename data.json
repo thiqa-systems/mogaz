@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:41:09.330Z",
+ "updated": "2026-11-21T18:51:09.509Z",
  "minute": [
   "تتناول الأخبار التطورات الاقتصادية المحلية في مصر من خلال متابعة أسعار الذهب وسعر صرف الدولار في البنوك.",
   "كما ترصد المستجدات التكنولوجية مثل إطلاق برامج للذكاء الاصطناعي وتحديثات الهواتف وتطبيق واتساب، إلى جانب نشرة حالة الطقس.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T18:41:09.330Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T18:51:09.509Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60092,
-   "change": 2.2,
-   "asOf": "2026-11-21T18:41:06.000Z",
+   "value": 59997,
+   "change": 2.04,
+   "asOf": "2026-11-21T18:52:38.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أحمد موسى يكشف كواليس قمة رباعية أُلغيت بعد مجزرة مستشفى المعمداني",
-     "url": "https://www.elbalad.news/7189304",
+     "title": "الأردن يستعيد من الدنمارك قطعتين أثريتين تعودان إلى نحو 10 آلاف عام",
+     "url": "https://www.elbalad.news/7189327",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:38:19.000Z",
-     "seen": "2026-11-21T18:41:09.330Z"
+     "time": "2026-11-21T18:49:29.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
     },
     {
-     "title": "مستقبل وطن بالإسكندرية يهدي 20 عمرة مجانية لأهالي الأطفال ذوي الاعاقة",
-     "url": "https://www.elbalad.news/7189306",
+     "title": "حزب الشعب الجمهوري يستعد لإطلاق النسخة الثالثة من منتداه بمدينة شرم الشيخ",
+     "url": "https://www.elbalad.news/7189324",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:38:07.000Z",
-     "seen": "2026-11-21T18:41:09.330Z"
+     "time": "2026-11-21T18:49:28.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
     },
     {
-     "title": "«الأطماع في سيناء لم تتوقف».. أحمد موسى يشيد بموقف السيسي من مخطط التهجير",
-     "url": "https://www.elbalad.news/7189308",
+     "title": "المصرية لإدارة وتشغيل المترو والمونوريل تجدد شهادتي الجودة والسلامة للخط الأول",
+     "url": "https://www.youm7.com/story/2026/11/21/المصرية-لإدارة-وتشغيل-المترو-والمونوريل-تجدد-شهادتي-الجودة-والسلامة-للخط/7627455",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T18:47:00.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
+    },
+    {
+     "title": "باحثة علاقات دولية: انسحاب يونيفيل يفرض تحديات أمنية كبيرة على لبنان والجيش مطالب بالاستعداد",
+     "url": "https://www.elbalad.news/7189320",
      "source": "صدى البلد",
-     "time": "2026-11-21T18:36:10.000Z",
-     "seen": "2026-11-21T18:41:09.330Z"
+     "time": "2026-11-21T18:46:45.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
+    },
+    {
+     "title": "وزير الخارجية يوقع اتفاقية استضافة مقر للمركز الدولي لتطوير سياسات الهجرة",
+     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يوقع-اتفاقية-استضافة-مقر-للمركز-الدولي-لتطوير-سياسات/7627472",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T18:46:00.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
     },
     {
      "title": "متحدث الخارجية: استقرار الدول المحيطة امتداد مباشر للأمن القومي المصري",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T18:03:00.000Z",
      "seen": "2026-11-21T18:11:10.172Z"
-    },
-    {
-     "title": "وزير الخارجية: الدولة ملتزمة بحماية مصالحنا وعدم التهاون في حقوق مصر المائية",
-     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-الدولة-ملتزمة-بحماية-مصالحنا-وعدم-التهاون-في-حقوق/7627439",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T18:00:00.000Z",
-     "seen": "2026-11-21T18:01:09.625Z"
-    },
-    {
-     "title": "وزارة الصحة تحدد 7 فئات احتياجا للقاح الإنفلونزا",
-     "url": "https://www.youm7.com/story/2026/11/21/وزارة-الصحة-تحدد-7-فئات-احتياجا-للقاح-الإنفلونزا/7624409",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T17:54:00.000Z",
-     "seen": "2026-11-21T18:01:09.625Z"
     },
     {
      "title": "صاحب إنقاذ عقار السنبلاوين المائل: \"فرق درجة عن برج بيزا وعدلناه بالمقطف والفأس\"",
@@ -209,6 +209,13 @@
      "seen": "2026-11-21T17:21:10.141Z"
     },
     {
+     "title": "3 أيام داخل فرن.. جريمة قتل تهز قرية مصرية",
+     "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPcDNLR01lcTVCa3NmajYwdDV3TzJXZEk1eG8zR2NhZWRQZ0owbklncVFNRmZjanhNNEk5WU1RWUNlcHBCWEdxVmUxd1JqWVp1WGJTUkdKOXRyWVdDMWtiR3V5b2JjSkFDbVlsR0JVVHdmZzZKc1BsT2lfSlFkUkJNTUZ6SExlM0YyRkJMSXI5UWhuQmFKUFJWQmhOc3NuUlZxcm9IaldibU9UMTNZOUN0YUd0T2Jwa1lnOUJERWVBZWR6NWxPV1k5TTV1eTdZOUhfbFdxYzlocVBvcDhZV25UZ011WUNGWGduaXVmanhUQzFNRmRZV0xDaUc0UHI0TC10TzcyYmxqSE9nMlZlMzFJcjZLYUFzQmhaSWRxSXRpYTE1ampERy01YU9pS0J4cXVXUWV0cTZpSkhNMjlCV2JiZkhDQnM2RTFmek1fdjZ5RFdrSUdRQmd3NzltalZ5YVZ3SjhvZ3lvQ3FxMDFYLTNRYm1sdkg4RkNrT3dNZ0VhMENQSmlmUWU2RWYxVk81YXFK0gGWA0FVX3lxTFBrV1dCWVR4Vl9ocFNfb3ZtZGdSQVh5N2ZLZlUwRjhGekZWdkpSc3lCMGJ2c09JakFudERxelFXbThUQ01jR0hzRnJkQ3hZVVpZZlRtNDNZWmRULWRZOVFGdUxkcDlveEstV1kzRDU4WWFHa0l4UVRpVldPOWZRbkpEbDhGaklKbDZ4UTU1bElrTDlRbHJMSzh2azZybHg5WjhaNkdOM0JvRldRdlozVGNmb3BlNTFYbjhMb2lVWmlYV2l4bWYwdlZpbzZTdXZPa05xRnpZUmZsQ1FVN1RSZ0dTcHpOckNabGFvZG90VUlOb3dQaTE3bjFGUkNQZHR6X0xHYnRGdU1wNnZTR09CeG5JOWNXbGY4WnR5SGIzdjRiMHhYTVBxVFEtSFhpaW5FdGY0NGtwQU5zOVp4TTVuNFdNXzBuVXQ1dUd1eVowdWxNNXRfOWFsOF90bTZtLUFweG5feG5LblhwZFJEMVNOdjd4SDNoYUxqX3NOZ2J6RzBUNmxuMWRzTlRMSnZRQmtsRmcyYzE1Wnc?oc=5",
+     "source": "العربية",
+     "time": "2026-11-21T12:16:00.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
+    },
+    {
      "title": "جريمة صادمة في مصر.. سيدة تحرق شابا وتنثر رماده بالشارع",
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPS185ZEhqcDR5dFFsamNEa3VTanhrdW45VUlCU3hGTkVWdUw5OExjQkxwaHpSWVRVQ2g1Q0I0VV83OVMtc0FYcnI0M2NXbTdaSjZOMWZFb2luWE1YR28yVEtKZ0hHTS16Zkc4cG5iVDAzLVNpXzlSdmZFY193TjhpS1R0X252WFBaRGZycHBzNkFmZFJGbGFJamJkZWEydGhzTTFCcThrZW5oUU1QWG94UjVCd0xBTnpHZ201Yy1idWpiZkN6VDUxNkIzcy1VTG9GVmhGamsxbzJsTmhDcmtyejhQb3BOVU5BMkxMQXdsRXo2bTBLS3h3bVVucVBzZ0s1RG5YUXF4SUtuRmdJbjc2ZFo3NnBkOGxsRVpGWkNETFhZVVVZRktKYXJqeGNRdHQ0eUhSTkxINWxVRGladGFGM0JsNV9Ja2Q0b1NlUlBpZ0h3d1F4czhVdTQyN2pCNWpIVnVFZUUzeTVXUXU0RDVFdWF0ejUyWXdMZnlhMTNWMktsYmRQLVMyU0NfYzZSazJvMFpJU2hDM2gzRjJMd1VkdUNGRGZXZHpIbDM2VXhBaFlVVk9aTW1Z0gG8A0FVX3lxTFBfVkJJYno2YTQ3V2YxdWk0dG5saXFua2xULWw5ZTNaYm94aldUaVNpX1JhS3JuaHFVT094Z1Jzc0lkekJvQTFXYXJMYzh6YXNPT1JZUmRiZ0s3U1pnSEhwWmlXVmtFS1l1WDNqOExCUkMycXBPZy1xS00yUGRKd2ZUWEpUNU45NXl0SnNyMmV2TmUyNmtFODBMcXJQTkVlYmpOeDFoemFFTUZueUVybjZYYW5Nd0Y1LTVWWVJKUVdmbVpoM0hfejNZMjNzZHJ1RWNpd2xxLUc4Qjl5UldnZ09zYmYtQU83ay0wdWk2SjFaU0E0MVNTWkVycXZFY2wtR1pkRWJHdkdSVjFMbmpKTHlDai1pZW5BaVZ5VDcwSFRsVzh1SDNSYzI4Y1dyR2MxS2p0cTlBa0c4NHk1QW5CQm03MXc4bVZwa3Z6SjM2Mk1JajRmamdleEVpVUJjaG5yYUo1ZDZEWmhzc2FZVUNvUFhaZUJTSlM2U0VtWldZZVV5S1hxQ05YODBSR3VTYUlJYms3UmtCUlZGUko4b1g4clZwQ0lfS2xHQ0Z5Q2FOVUFOYWpMU2xuYnc0dWFXUg?oc=5",
      "source": "سكاي نيوز عربية",
@@ -228,13 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-21T09:48:00.000Z",
      "seen": "2026-11-21T12:29:45.064Z"
-    },
-    {
-     "title": "مكالمة تعيد قصة الجمل \"جميل\" للواجهة.. وتشغل المصريين",
-     "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxOVFJNdlNtekM2RkQ4QzREcWxQc1pkM3lTU09TaWVFZ3hSRUJha1M1SFFRY3lMN0RDdFpiWUFjOFZJSFNOXzNNQ1dlUkxmMHF6MzNIMldHVlgyR2s0azQtNmszOUl4ZnlpYkh4Qm1NTUFFSXJvcFJ3dEtZd0lfd1dDUzc5NXZUZmlfdkR3NklHRV8tTmNDWk43X3ZQZU9SZnB6TTJYLUxaOVcxZ25YUmhEZWc3SlhwbjZscXU5OVdwVkRXanBSWG5Rd2R1SkdOOGVlWGQ1cnpLLXBFSXBCMVNKTm96cGNEQ2RWMmQzSFgxRTBxTWJaRnFiTFFwVFhxV21FR2dMdXVVWkhHRnF0aWdZVUthcWxZS3dELVdMZWRUMVZVRHR1UUVGX1hRMk42NjJ2dGVjajItYzNkSDRnRERhN0dWcWxPVEFYbzNNMDZHb29wYVIxdjBYVGVBVGRBc21fNjgyU0dnc0xDTlVraHFnVk1WSERNSUo0Ni03QnRwMVJFNU0xa3RXXy1FalN4bmxPbmEzeEI3a3ZRRzBXaVQ0eTJVVHRpTE1fUDE2VlJrWXhxR1FNSFlhandDMHlQNS1pWTc0TkV5RXA5Q3lJN1BTUmFWLWxlSEliVXg0TS1haUdpRDJFcXNrWWQxaWJlUFVNLURtNlpvUWFhTWpkSFkxajVPS1J1VDdvYkpfWWwtMzN1eC1LdEd3ZzE5UnhTRHBBb2lYNE5UM0tTVWxQQmVON09zdDRLNDRBQl9pYzdFanl3eC1XNUs4aE1sdWZBN3pxb1RkbjM3NFNBZ0VhcWpKTTMyR2pRRmdfLUd3TGpTVG9xcmgt0gH6BEFVX3lxTE1BVE1EMFByeDY2aEhQT0pqbm1ZX0NBN3lqOHJ5UTFaRXJ5UWE0UEZPS1RSejBEZEp5SDkzRkxjY0ZuRXJqV1pRbkFmMlpHYUVJS2pMZURfOEdMVkY3UFVhVEtRdFFXR0t6NnZISlZpcWdkNkc4TnlaTFF1SEpPLWtMVFlCZGFGei1KNWhuaEhLclV2eVpQMTRwSmtPM0ozbGcwVC1zOWxUVlJ3d1RlUXVKS1kzcG1OalJGd0JBN2Z5V1RCMThERTY5RmxFQVo0ZTVZVkdORExLUWhVaEdpWUZZRG1FbEptSHFMemxleGZHT1J6RHk5ZExtazZqWGJVazd1bno4ZlVGNFI1QzB5Tkg0VHlnOHhYT0IyZkhvcW41WFpsRnduNkY3LXoyWnlFbkNfemxHUTlhenZQTnZEUV9UdUtwU1VUQndUc24ycEIxMWhiZ1lBeW9jZEs1akk1WUdGRU9EVXZad0Vnd1MxSldJY284bTJ4RjRUbm5pZUJTVUhhLUtrQkNsWlNGNkxLMEpqam9NV285aTdTbl9pRVBJNGZCN1NTajJjWVM1QXZhMFg1eVNGVHZWYVFQRDBybnFidVpwTlA2XzQ4WjYwZGxuNG1fSkNJRXlzcnRIbzNjVjNLc3NSdUVFeUM5WVFLY3hpd1poVVlmeXlnZ1U5SlRiUm9lWjNrbFA3Rkh0NHMzckhGcS1KSUk5Tk12aHJ5b1FBTDBYUE9PWnlJZlpPMHB0TnQ1RHlqRDMzMjhycUZrSW1xTU4yWVlQMjBHTEF1NS1mS1JKbkNFdUZHU3lieHl5dXBKQTZPUjNFUmpWU1VUUC15enpLSDJVY0E?oc=5",
-     "source": "العربية",
-     "time": "2026-11-21T08:41:00.000Z",
-     "seen": "2026-11-21T14:39:45.140Z"
     }
    ]
   },
@@ -351,6 +351,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "سباح بريطاني في هرمز.. رسالة بيئية قرب السفن المشتعلة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906251-%D8%B3%D8%A8%D8%A7%D8%AD-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T18:43:14.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
+    },
+    {
      "title": "الجيش الجزائري يعلن قتل مهربَي مخدرات \"من جنسية مغربية\"...ما التفاصيل؟",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261121-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%82%D8%AA%D9%84-%D9%85%D9%87%D8%B1%D8%A8%D9%8E%D9%8A-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
      "source": "فرانس 24",
@@ -407,11 +414,11 @@
      "seen": "2026-11-21T17:41:09.909Z"
     },
     {
-     "title": "ترامب: اتفاق دائم مع إيران دون سلاح نووي",
-     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNblI1Y3VLNWtVRU44MEJONTdXTWxYWnVoR3JnQzlUSkNTOFN2LWx5S01GTDVMSUpyTF9JbFRWS2l0ZnpCRnE1VFhlSXNZT09ISXN2TWFocG1vZnA4QVM3dHRzNVBnekFCVVlEUWZLQ2EzWEtEekVpTjRUajN3LVBwRVBUR3hzRW12X3dzdGhVcFdubGRLaThrSDVkQWdUcVpCdTlyTDRfeTQ0M051c1ozT1lxcTF5QnIyZjJHZnkzZmY2NGNCMGNqdTFjQi1iVzlmTVVIeHgzUWVNNHFnVEhIY1ZmaDEyLS1RU0tCX1NKRnctbC0wNWZLemZYXzFzWkdQT0tXYXhKWG5QbUlsdjdPQWs0OFZqN3h3TEF2anJEdTN6aWN5N1FPdjh3bTRMWVlFUDR3MGd30gG7AkFVX3lxTE9qN2phWFdRY0F3eEM3SmlqcWhkMEZpdUJ1dlZKNDNRSmRHUGd2MXppdlBuV0N2VlpIdHRCRjZUOFpsQ25KNGpScWhQOFo5QjNBRWlOOHZxZ1F2eFRnMzZUeV9nT1NxV2V5MjFUaFctVTdmUlRpRzlmMC0wOG5HN3dQbmotU1FCVFpWb21kTW9QdHJrSDJRSkcxS1c2Z1pCWERIdTljaVpEVkg3ZWtHSXpLWUJWQ1FmdmtWYXAzdDBnbUNQaEkwR2xlMDA4d1JXaVJYYmxuTE9WNHVRNnFHRU1GMEhwX19DMWpoY1E2cy1ZYmExakwyZjV4dVdtLUhPMk9wS0JjNmFYTEg5X1BCQXdtbFo3dDFoZW9kS2hWUll5aTJTaDdIX1h4MDhuYm9rOHhKYUV6eUN4UFlVOA?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T15:59:32.000Z",
-     "seen": "2026-11-21T17:21:10.141Z"
+     "title": "إيران تتحدث عن استهداف مقاتلة أمريكية .. وواشنطن تنفي \"بشكل قاطع\"",
+     "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxORk1najhKclh1N0pEYmNlT0dDLTQyb1NvemNsdVM5Z3JPTk5HWXhfYkhEbnNubG10OVVEd3ZTT0RVdHUyMWxTVm15Q0RGLTBzMEhmRi1yZUVoRDh4NDgzQk1OemRpRFluelRScnNzOXlQTll1Q1c3NlhITGFLeWNtVUNBREI5bS03WDJxcVJZaV9JSjk5Ymd0cEFack5XRERlbF9Bb1JxV3NRQ2o0Z28xeHhmbXRTcks0c0Z2R1pVdFVMUlAxeDZKd3EwR2lJZHZTVlY2TlBtRE51dThEVHpxTFM1ZkpMT0VBX3dlblJXOHoxdG1BZmpyeXpLRlRJNDIyOTN3N1dObzZfcFVsU3ZEWWF2WUtJQjdTenVPOUxVX3NLcHN2aDNUekh2eDhWRU9kZmFkajJOOGZkVzF5NVBJTWE0dW56ZGZ1dk1CeXpQRHVqVHdiaW5ScG83Mk1ad2VYMXkySGkySlhPQV9UekNHemdkTno0OTYzMkhDc0I3cTZlZkdzOHpPV1c4VUV0QzV3MWlXbHdyNTNUSlZfMERXbllTa3hFZ0N3YjYyOG1XUHV5NEkzVGFta1lTckk1djdDNzNxSWptSUdvWEk3c1ZDaFl2UVg4bFRmMGNmNlBWU0trS3cyYkhSRmMwWFp0eHlVUm9TZE5la1ZIVmp4TXBqZi04LWxaclBEa2tDNS1hdWJQSjRBUlZGWXRhMmFMdjQzdFpCLWgzZ2ZnMW9TM0VwR045QUw0dkdVRnBn?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-21T16:04:49.000Z",
+     "seen": "2026-11-21T18:51:09.509Z"
     },
     {
      "title": "معركة الأصوات والنفوذ.. من يظفر برئاسة الفيفا؟",
@@ -440,13 +447,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-21T15:26:04.000Z",
      "seen": "2026-11-21T16:21:09.925Z"
-    },
-    {
-     "title": "تراجع أسعار الذهب ينعش آمال المشترين في الأردن ويُبقي الأسواق في حالة ترقب",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/21/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d9%86%d8%b9%d8%b4-%d8%a2%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8a%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T15:19:36.000Z",
-     "seen": "2026-11-21T18:41:09.330Z"
     }
    ]
   },
