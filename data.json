@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:46:03.077Z",
+ "updated": "2026-11-21T05:56:03.145Z",
  "minute": [
   "تشهد البنوك المصرية استقراراً في سعر صرف الدولار الأمريكي خلال التعاملات.",
   "تراجع مؤشر ناسداك العالمي بأكثر من 4% في أسوأ أسبوع له منذ عام 2020 وسط مخاوف تتعلق بالذكاء الاصطناعي والرقائق.",
@@ -10,7 +10,9 @@
   "at": "2026-11-21T05:36:03.155Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T05:56:03.145Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 55743,
-   "change": -9.95,
-   "asOf": "2026-11-21T05:45:56.000Z",
+   "value": 55739,
+   "change": -9.96,
+   "asOf": "2026-11-21T05:57:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الدفاع الروسية تعلن تدمير 275 طائرة مسيرة أوكرانية خلال الليل",
+     "url": "https://www.elbalad.news/7188465",
+     "source": "صدى البلد",
+     "time": "2026-11-21T05:52:57.000Z",
+     "seen": "2026-11-21T05:56:03.145Z"
+    },
+    {
      "title": "إعادة تصميم هاتف iPhone 20 Pro بشاشة منحنية ونحافة فائقة",
      "url": "https://www.elbalad.news/7188348",
      "source": "صدى البلد",
@@ -150,13 +159,6 @@
      "source": "صدى البلد",
      "time": "2026-11-21T05:25:44.000Z",
      "seen": "2026-11-21T05:36:03.155Z"
-    },
-    {
-     "title": "اشتباكات عنيفة بين المواطنين وقوات الأمن في ولاية سينالوا المكسيكية",
-     "url": "https://www.elbalad.news/7188463",
-     "source": "صدى البلد",
-     "time": "2026-11-21T05:09:20.000Z",
-     "seen": "2026-11-21T05:16:02.337Z"
     },
     {
      "title": "موعد صرف معاش تكافل وكرامة لشهر ديسمبر 2026 وخطوات الاستعلام",
@@ -251,6 +253,13 @@
      "impact": "يسهم في مساعدة المستوردين والمستثمرين في مصر على متابعة استقرار أسعار صرف العملة الأمريكية في البنوك."
     },
     {
+     "title": "سعر الذهب اليوم السبت 21-11-2026.. موجة هبوط عالمية تضغط على السوق المصرى",
+     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxON1lIc2lpVDlTdkVBbk50cWhzeVBrdXlNaHo5Zm42cWl4bUlCU1ZVZFBjSWJKR3pTb0FZbHJlbWtpMmQ4bVdMcm1Tc0ZqX3M4V2hWcy12R3R5alRKUkFVc3EwWEJFRDNQb3BIbm11WjJlazZlVUVRVEdjNHR0SlZ6QkllcFRYZ3BhbEJkZWFlYTNJY05mWG9CUTkwZXF5X3RNVkRGcVNuaW5McEhuRmx0ZW84Zm5MRVB4VUpZYUpHMS1JREY5NWsyczlzLXBkNTNldU44MGZ2Z0Fua3dIMUtpRC1IdFpDTk9UdFpDcU90amsyUTZBai1ucjBvYlV5UE95S2Fvby1ibVBUUGtlUWxwck1xOUhKM0FXOE9VSjFwUGVwdGdwejBJSlQwUGRMTFdxbUc4N3JQZ2pMUWdKbW1vUGJqdDc2ZjliWWNCQl9UM0JoMFJ3MW9YZkZ3OFdBS1pybGdyNHQzcTdXb2pVRjVBTzJB0gHsAkFVX3lxTFBqa19HZDFWbXdxQ1ROYnhDTVBkaFFVOU5KLU5LekU4bURQMGFYVlgyNGQzb0pFSmw5NFdDWnV1WEM0MkgtWGkxVjZNa0pUZEt6LXVtSkdhZnhGaDEzNnduSDc5V2o2SXRKNmdFVmRWb0pCNm44NTFibGNpY3IxWGhHWmwxdnA3ekFBTTNLZmZmR1NnZFBUWGwtaXVWdThzdVRMNWs4Tjd3bEQwcEU4UzdGRDJwSVdZWWIwTHNDUksxYXY2aEhLS1BhTEEyYUFHU1p2WnRZbDdaYmRyLWNHVXJONm5fU1hYa1I3YkZSVV9UVHZ0UDduRHQtNnJWRGFwWVp3US1HT0NXcERRMnJQdnE0RThPTDFySW9oMnlLQlM2aHMzUWh1cFgwUEFVLWJtRDRycW55TXY3eFM1TWg1SjJYeVVtWTlONHJEMk4zRjg2SnlIRGtTYXNPLVdMckNmTEszeG55WWFXTkhmZkY?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T05:00:00.000Z",
+     "seen": "2026-11-21T05:56:03.145Z"
+    },
+    {
      "title": "سعر الدولار في مصر اليوم السبت .. آخر تحديث الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjdXl6T08wVWJvSHVQMzhIbnhUNUMtN1dib0dLM2JLZ3RWWElwMnFwRDI3R3NNejlpRlFsMjh5M0trUVI5c3o4?oc=5",
      "source": "صدى البلد",
@@ -342,13 +351,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-20T22:18:00.000Z",
      "seen": "2026-11-21T05:46:03.077Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026.. تحديث فوري",
-     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNLTR6dDVHc2FjZkxoemZneDd6a3BEYlg4cG1YWU5JQlZFZTQ5ZFJzczh0cC0zbERKZmpISktFOUMxWUR3Q1RKb2s5aTJLQlkyTUZRSGRVX0JORk1TeDBUOTM2allKMDhlaVFkNXlUWnFVNGxwTEx3c3FhZDctdUloYldXSUFjS3hVWXhKOUV4VTNITEVsOVZxWUp5RHBIYUxUWWdnNTFXemJMcnRYTWVRWEhxYVRfaWdCNUpkVjc0WXlVaFFwQ1ZfT0xERHlVQkZOQlV2SGFuYlN0REJacVlmZWNXRTFGa1U3czB2ZDNFN0RGcjN6TFJkTDc0bDVrbWloNGtTRlpzRVRNVERTeG5CNTZrcllLS1kzUUN3NHIzQlRyLVVmY2hWNmxvaXJTSnhnQVVOLXFrbkdLU1J4WmU1ai1KOHpraXVZOWJPNkI5amFLSFJpY2NVNXplZXJFTVgyTFI1a2QtMUNlckxwMU9aZGlPQ0p3VmVYTFpGeG5CdGvSAYADQVVfeXFMTS00enQ1R3NhY2ZMaHpmZ3g3emtwRGJYOHBtWFlOSUJWRWU0OWRSc3M4dHAtM2xESmZqSEpLRTlDMVlEd0NUSm9rOWkyS0JZMk1GUUhkVV9CTkZNU3gwVDkzNmpZSjA4ZWlRZDV5VFpxVTRscExMd3NxYWQ3LXVJaGJXV0lBY0t4VVl4SjlFeFUzSExFbDlWcVlKeURwSGFMVFlnZzUxV3piTHJ0WE1lUVhIcWFUX2lnQjVKZFY3NFl5VWhRcENWX09MRER5VUJGTkJVdkhhbmJTdERCWnFZZmVjV0UxRmtVN3MwdmQzRTdERnIzekxSZEw3NGw1a21paDRrU0Zac0VUTVREU3huQjU2a3JZS0tZM1FDdzRyM0JUci1VZmNoVjZsb2lyU0p4Z0FVTi1xa25HS1NSeFplNWotSjh6a2l1WTliTzZCOWphS0hSaWNjVTV6ZWVyRU1YMkxSNWtkLTFDZXJMcDFPWmRpT0NKd1ZlWExaRnhuQnRr?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T22:00:58.000Z",
-     "seen": "2026-11-21T05:16:02.337Z"
     }
    ]
   },
@@ -357,6 +359,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "البصرة.. انفجار بمحطة كهرباء الهارثة وأنباء عن أضرار وضحايا",
+     "url": "https://www.skynewsarabia.com/middle-east/1906175-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D9%85%D8%AD%D8%B7%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D8%A7%D8%B1%D8%AB%D8%A9-%D9%88%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1-%D9%88%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T05:46:16.000Z",
+     "seen": "2026-11-21T05:56:03.145Z"
+    },
+    {
      "title": "استهداف ميناء الحديدة في اليمن.. تقرير أممي ورد رسمي سبقه تحذير من التحالف بقيادة السعودية",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/saudi-attack-al-hudaydah-port-reactions-un-gov-coalition",
      "source": "CNN بالعربية",
@@ -364,7 +373,7 @@
      "seen": "2026-11-21T05:36:03.155Z"
     },
     {
-     "title": "الوهابية في مصر.. ساويرس يعلق على فيديو توفيق عكاشة.. وهذا رأي ابن باز بالحركة وفكرها",
+     "title": "الوهابية في مصر.. ساويرس يعلق على فيديو سابق لتوفيق عكاشة.. وهذا رأي ابن باز بالحركة وفكرها",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/wahhabism-in-egypt-viral-tawfik-okasha-naguib-sawiris-ibn-baz-saudi",
      "source": "CNN بالعربية",
      "time": "2026-11-21T04:59:34.000Z",
@@ -393,33 +402,25 @@
      "seen": "2026-11-21T03:55:38.857Z"
     },
     {
+     "title": "لم يأكل لحما منذ 1957 لسبب غريب.. قصة الرئيس كاوندا آخر عمالقة أفريقيا",
+     "url": "https://www.aljazeera.net/opinions/2026/11/21/%d9%84%d9%85-%d9%8a%d8%a3%d9%83%d9%84-%d9%84%d8%ad%d9%85%d8%a7-%d9%85%d9%86%d8%b0-1957-%d9%84%d8%b3%d8%a8%d8%a8-%d8%ba%d8%b1%d9%8a%d8%a8-%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T02:22:24.000Z",
+     "seen": "2026-11-21T05:56:03.145Z"
+    },
+    {
+     "title": "زيلينسكي يصف بوتين بالقاتل ردا على وصف ترمب له بالصديق",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%b2%d9%8a%d9%84%d9%8a%d9%86%d8%b3%d9%83%d9%8a-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%82%d8%a7%d8%aa%d9%84-%d8%a8%d8%a7%d9%84%d9%86%d8%b3%d8%a8%d8%a9-%d9%84%d9%86%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T02:19:14.000Z",
+     "seen": "2026-11-21T05:56:03.145Z"
+    },
+    {
      "title": "ماذا يعني قرار الإدراج النهائي للإخوان بقوائم الإرهاب في مصر؟",
      "url": "https://www.aljazeera.net/politics/2026/11/21/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-21T01:55:35.000Z",
      "seen": "2026-11-21T05:16:02.337Z"
-    },
-    {
-     "title": "بعد أكثر من عام على اختفائه.. معارض أوغندي يظهر فجأة أمام محكمة عسكرية",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%a8%d8%b9%d8%af-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-%d8%b9%d8%a7%d9%85-%d8%b9%d9%84%d9%89-%d8%a7%d8%ae%d8%aa%d9%81%d8%a7%d8%a6%d9%87-%d9%85%d8%b9%d8%a7%d8%b1%d8%b6?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T01:55:04.000Z",
-     "seen": "2026-11-21T05:16:02.337Z"
-    },
-    {
-     "title": "لقاء أميركي قطري في برلين لمناقشة إنهاء حرب إيران",
-     "url": "https://www.skynewsarabia.com/middle-east/1906155-%D9%84%D9%82%D8%A7%D8%A1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%82%D8%B7%D8%B1%D9%8A-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T00:33:44.000Z",
-     "seen": "2026-11-21T00:45:39.148Z",
-     "impact": "تهم المتابعين والمستثمرين لمتابعة المساعي الدبلوماسية وتأثيرها على الاستقرار الاقتصادي والإقليمي في المنطقة."
-    },
-    {
-     "title": "فانس ينأى بنفسه عن الحرب على إيران ويثير استياء ترمب",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d9%81%d8%a7%d9%86%d8%b3-%d8%aa%d8%b1%d9%85%d8%a8-%d8%b5%d8%a7%d8%ad%d8%a8-%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T00:19:38.000Z",
-     "seen": "2026-11-21T03:35:38.746Z"
     },
     {
      "title": "التحالف يشن غارات في اليمن والحوثيون يردون بهجوم في السعودية",
