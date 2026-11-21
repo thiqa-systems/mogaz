@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-21T22:01:37.599Z",
+ "updated": "2026-11-21T22:11:37.417Z",
  "minute": [
-  "شهدت المنطقة تصاعداً أمنياً عقب إعلان البحرين التعرض لهجمات وتضرر ناقلات نفط في مضيق هرمز.",
-  "اقتصادياً، شهدت الأسواق ارتفاعاً في أسعار الذهب واستقراراً لسعر صرف الدولار، وسط ترقب ترخيص مزايدات تعدين وإعادة تسعير الغاز للقطاعات الصناعية.",
-  "خدمياً وتكنولوجياً، طُرحت خدمات نيابية تعتمد على الذكاء الاصطناعي لتسهيل الإجراءات على المواطنين وذوي الإعاقة."
+  "شهدت الأسواق الاقتصادية ارتفاعاً في أسعار الذهب واستقراراً لسعر صرف الدولار بالبنوك، مع أنباء عن إعادة تسعير الغاز للقطاعات الصناعية وتزايد نسبة الملكية للحسابات المالية بمصر.",
+  "أعلنت وزارة الصحة المصرية الفئات الأكثر احتياجاً للقاح الإنفلونزا، بالتزامن مع توضيح قانون الأحوال المدنية لتبعات عدم تسجيل الميلاد أو الوفاة في موعدها.",
+  "تتابع المنطقة التطورات الإقليمية عقب إعلان البحرين عن أضرار في منشأة صناعية مدنية، إلى جانب تحذيرات إيرانية تتعلق بنقل النفط في الخليج.",
+  "شهد قطاع التكنولوجيا إطلاق كاميرا سينمائية جديدة من باناسونيك وتسريبات عن موعد طرح لعبة GTA 6 للحواسيب الشخصية وتطورات في أبحاث الذكاء الاصطناعي."
  ],
  "ai": {
-  "at": "2026-11-21T21:31:09.649Z",
+  "at": "2026-11-21T22:11:37.417Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T22:01:37.599Z"
+  "key": 2,
+  "impacts": 9
  },
  "markets": [
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60304,
-   "change": 2.56,
-   "asOf": "2026-11-21T22:01:49.000Z",
+   "value": 60140,
+   "change": 2.28,
+   "asOf": "2026-11-21T22:11:47.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,44 +138,47 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بنسبة إنجاز 96٪.. صحة الشرقية تعلن تطعيم 1.5 مليون طفل ضد الحصبة والحصبة الألمانية",
-     "url": "https://www.elbalad.news/7189441",
+     "title": "ريمونتادا .. ريال مدريد يفوز على «سيلتا فيجو» بثنائية بالدوري الإسباني",
+     "url": "https://www.elbalad.news/7189548",
      "source": "صدى البلد",
-     "time": "2026-11-21T22:00:57.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
+     "time": "2026-11-21T22:11:01.000Z",
+     "seen": "2026-11-21T22:11:37.417Z"
+    },
+    {
+     "title": "ماذا يحدث إذا لم تُسجّل واقعة الميلاد أو الوفاة في موعدها؟ .. قانون الأحوال المدنية يُجيب",
+     "url": "https://www.elbalad.news/7189546",
+     "source": "صدى البلد",
+     "time": "2026-11-21T22:10:28.000Z",
+     "seen": "2026-11-21T22:11:37.417Z",
+     "impact": "يمس الأفراد مباشرة لمعرفة التبعات والإجراءات القانونية عند التأخر في تسجيل واقعات الميلاد أو الوفاة."
+    },
+    {
+     "title": "مساعد وزير الخارجية الأسبق يكشف الخيار الأقل مُخاطرة أمام «ترامب» في مواجهة إيران",
+     "url": "https://www.elbalad.news/7189543",
+     "source": "صدى البلد",
+     "time": "2026-11-21T22:09:18.000Z",
+     "seen": "2026-11-21T22:11:37.417Z"
     },
     {
      "title": "أخبار × 24 ساعة.. وزارة الصحة تحدد أكثر 7 فئات احتياجا للقاح الإنفلونزا",
      "url": "https://www.youm7.com/story/2026/11/22/أخبار-×-24-ساعة-وزارة-الصحة-تحدد-أكثر-7-فئات/7627478",
      "source": "اليوم السابع",
      "time": "2026-11-21T22:00:00.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
+     "seen": "2026-11-21T22:01:37.599Z",
+     "impact": "يفيد الأفراد والحيويين صحياً في تحديد أولوياتهم للحصول على لقاح الإنفلونزا لحماية أنفسهم."
     },
     {
      "title": "درجات الحرارة اليوم الأحد 22 نوفمبر 2026.. الصغرى بالقاهرة 17 درجة",
      "url": "https://www.youm7.com/story/2026/11/22/درجات-الحرارة-اليوم-الأحد-22-نوفمبر-2026-الصغرى-بالقاهرة-17/7627063",
      "source": "اليوم السابع",
      "time": "2026-11-21T22:00:00.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
+     "seen": "2026-11-21T22:01:37.599Z",
+     "impact": "يساعد الأفراد في التخطيط اليومي واتخاذ الاحتياطات اللازمة وفقاً لدرجات الحرارة المعلنة."
     },
     {
      "title": "حالة الطقس اليوم الأحد 22 نوفمبر 2026.. شبورة وفرص أمطار ببعض المناطق",
      "url": "https://www.youm7.com/story/2026/11/22/حالة-الطقس-اليوم-الأحد-22-نوفمبر-2026-شبورة-وفرص-أمطار/7627057",
      "source": "اليوم السابع",
-     "time": "2026-11-21T22:00:00.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
-    },
-    {
-     "title": "وظائف مصر للطيران والكهرباء 2026.. قدم الان",
-     "url": "https://www.elbalad.news/7189485",
-     "source": "صدى البلد",
-     "time": "2026-11-21T22:00:00.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
-    },
-    {
-     "title": "أسعار الذهب في الكويت تستقر مع عطلة البورصة العالمية.. عيار 21 عند 30.9 دينار",
-     "url": "https://www.elbalad.news/7189074",
-     "source": "صدى البلد",
      "time": "2026-11-21T22:00:00.000Z",
      "seen": "2026-11-21T22:01:37.599Z"
     },
@@ -212,7 +214,7 @@
      "title": "من دمشق وحلب.. الخطوط السورية تعود إلى القاهرة",
      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPME0xOUs2WldFOVhNQXFMS2V4TkxLcVBDdGNBbVRlM2xTRVFxZXBTUERrbnVoZmlLSkdSSnBreEY4UVE3VHR0clZiWU81bzVzQ3NYeGVyY3dOZGJEbVZhcXB6OEhpaXRIcDBNZ19kRE9hcTJPQWZIVTlDaENHeUJzNE8yQm1SVEJ5STRDcTZpdG1RRmE2MTd1b25zVkpLOEt4Q1ZoeTd5cnZCaS16QWRFNWl6STNibkpsTkZjZU5fVElfRFBjOW1DUkdndmV6dTNiTFM3NkJhR1JuTS1uOHg2c2xiZWhsWUQwMlp3YXIwWS03NDlJbE9SN3h4WWVEMDBKV1NrMjdMRTdDa1VQSGhlWGlIMEdsLTNQZ2MxZ1NNRHNvNHZzdWdkRmVGNll4QlJDOTl0SjZLQ1ljNHdRRGNnemxTTmktMDlWbkJVRzh1ck5Hd01GN2tuOVlvSFdxUmVZMWFKTUlB0gHrAkFVX3lxTE1IamlrVnI1bGlXbVlna0cyWkpWa080V2YzTXN3ZEVLY1lEeGthUUFldV85MFN3VVRHTFBNWExxTFhXQTZZdWttZnBkVHpTRzFrN3JQYjhZbEtydzF1OE9wdXVkMFEybzNLVTNtVUlCcnpaUHBOQk5hUlRXVnloLTZMOUhXSWh0c19hWDlKM1JTeUlBN1UydFoxSDgxeHdkTldHakY4YXV3ZHFvejRkM24wV214ZXlleE91dGJjNmdtQkZFRGxKam5rdG1SWlh0ZmJvWTE5RkhhNDl4Tm9qNFlBc01hakttRldwbWhEem5iTUVTbFNlaTRhX3VqZEh1dUV1eXpZQXQ5S1ptNG85WVJVUkEwQ3h5b0tfZkk3TjRTd0dsOVdCSkxMMUMzUDYzUEs0ekEyWmh3dU5YRGd2djdaaTl1cFhmUnhJazRDV0Z6ZHh3N2RTUjhyUWRmWkJ4bkk3WmJpZE1IRF8tYw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T14:50:52.000Z",
+     "time": "2026-11-21T15:05:16.000Z",
      "seen": "2026-11-21T19:11:09.542Z"
     },
     {
@@ -243,6 +245,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "79 % من المصريين يمتلكون حسابات مالية.. هل غادر الاقتصاد غير الرسمي عزلته؟",
+     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNX2RWb2RjNS14WmRDc3pna1hNOFdxeG5yS00yTFQ3bXBURmdJRTd3VlBxNFNLYzBRQ3R2bEVUSzN4WlV4VXV4bjl2MC1DcExZZVpsRWhCem43Z0RUTDUxOEVUMG5TX2NGcUFDZlgydk95bWQxM0hWbzZSeFZ1YnFtRzVkeTNZYWIzZk5kd2hpelpjaE42Q2NiX1hQYXhlU3Y3S0M1Z3NwMlZzT3hEaUlVUnpzcmlXVEQ5QkhPeUpjVkl0S05LU3djRVVLNTlxbnVQdlFkbnJ3OE5DNXFrUEZURUJVUTFIMFNiXzVJcXdrc1VwUktHZFhzQnVnUmxZZGs4OTRUUkhmR1VraXh6WUJreUdOdWlNQWRIX2dlLVkwcFB2ZlM2ak94TFNJSVcwbjVQVlZoUWNfUHA0RUpUdHF0R3l6bmtDQXBQ?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-21T22:05:00.000Z",
+     "seen": "2026-11-21T22:11:37.417Z",
+     "impact": "يعكس للمستثمرين ومديري الأعمال زيادة مستويات الشمول المالي وتوسع قاعدة التعاملات المصرفية الرسمية في مصر."
+    },
+    {
      "title": "البحرين تعلن زوال \"حالة الخطر\" بعد هجمات إيرانية على أنظمة دفاع جوي أمريكية في البلاد",
      "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -256,7 +266,7 @@
      "source": "فيتو",
      "time": "2026-11-21T20:42:00.000Z",
      "seen": "2026-11-21T20:51:09.617Z",
-     "impact": "تساعد المتعاملين في السوق المصري على متابعة تحركات أسعار الذهب واستقرار أسعار الصرف."
+     "impact": "يهُم الأفراد والمستثمرين لمتابعة توجهات أسعار الذهب واستقرار الدولار واستكشاف فرص مشروعات البنية التحتية."
     },
     {
      "title": "عضو الجمعية المصرية للاقتصاد والتشريع: التشدد النقدي قد يضر الاستثمار والإنتاج لكن استقلال البنك المركزي أولوية",
@@ -264,7 +274,7 @@
      "source": "جريدة المال",
      "time": "2026-11-21T20:35:57.000Z",
      "seen": "2026-11-21T20:41:09.824Z",
-     "impact": "توضح للمستثمرين في مصر أثر القرارات والسياسات النقدية على بيئة الاستثمار وتكلفة الإنتاج."
+     "impact": "ينبه المستثمرين لأهمية متابعة قرارات البنك المركزي وتأثير سياسات التشدد النقدي على تكلفة الاستثمار والإنتاج."
     },
     {
      "title": "اختبار التكلفة.. عاصفة إعادة تسعير الغاز تقترب من القطاعات الصناعية",
@@ -272,7 +282,7 @@
      "source": "البورصة",
      "time": "2026-11-21T20:15:09.000Z",
      "seen": "2026-11-21T20:51:09.617Z",
-     "impact": "تهم أصحاب المصانع والمستثمرين في مصر لتوقع مدى تأثير تكاليف الغاز على أسعار المنتجات النهائية."
+     "impact": "يمس الصناعيين والمستثمرين بشكل مباشر للتحوط وتعديل خطط التشغيل تحسباً لتغير تكلفة الطاقة والغاز."
     },
     {
      "title": "\"شلاتين\" تطرح مزايدة للتعدين الأهلي عن الذهب تشمل 10 مناطق في ديسمبر",
@@ -343,13 +353,6 @@
      "time": "2026-11-21T16:57:00.000Z",
      "seen": "2026-11-21T17:01:10.180Z",
      "impact": "تهم المستثمرين والمستهلكين لمتابعة أحدث أسعار صرف الدولار وتأثيرها على الأسواق المصرية."
-    },
-    {
-     "title": "ماذا يعني الحكم التاريخي بشأن الإبادة الجماعية في ميانمار للقضايا المماثلة في المستقبل؟",
-     "url": "https://www.bbc.com/arabic/articles/ck24eqqvl8veo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T16:09:31.000Z",
-     "seen": "2026-11-21T16:11:09.566Z"
     }
    ]
   },
@@ -365,11 +368,12 @@
      "seen": "2026-11-21T21:31:09.649Z"
     },
     {
-     "title": "إيران تقول إنها هاجمت قاعدتين أمريكيتين بالبحرين، وإصابة ناقلات نفط بمضيق هرمز رغم الحراسة الأمريكية",
+     "title": "إيران تحذر من \"تهريب النفط\" في الخليج، وتزايد استهداف الناقلات رغم الحراسة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9malI3R3U3enJla0NkckNGdWNqMDBMSEpoZ1dwUWx3cDZjalV0Z0J2Q0VLcDR1eDJNbGNfVms4dndiaDVGSTdDV2I2YkJ0ajc4c21FS01QYmtMWHZub2fSAWNBVV95cUxQNXdrUzRuMUtRNGE1dHhOR1kxRmJ2YkxmTHd6M1hYN0xKazFlTFJwNktsSFhWMXppa1ZCODZkd2FnVE9TeGJXajhSS2JzVmE1YXpLOXRlQ1hLSVJMR1E4d1Zyc2s?oc=5",
      "source": "BBC",
      "time": "2026-11-21T20:03:43.000Z",
-     "seen": "2026-11-21T20:21:09.584Z"
+     "seen": "2026-11-21T20:21:09.584Z",
+     "impact": "يهُم المستثمرين والمستوردين لمتابعة تأثير اضطرابات شحن النفط بالخليج على الأسعار العالمية وسلاسل الإمداد."
     },
     {
      "title": "البحرين تعلن تعرضها لهجوم إيراني وتكشف التفاصيل والأضرار",
@@ -482,7 +486,8 @@
      "url": "https://www.tech-wd.com/wd/2026/11/21/%d9%84%d8%b9%d8%a8%d8%a9-gta-6-%d9%82%d8%af-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-pc-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d8%a8%d8%b9-%d8%a7%d9%84/",
      "source": "عالم التقنية",
      "time": "2026-11-21T20:17:05.000Z",
-     "seen": "2026-11-21T20:31:09.610Z"
+     "seen": "2026-11-21T20:31:09.610Z",
+     "impact": "يهُم مهتمي التكنولوجيا والألعاب الإلكترونية للتخطيط المالي وتحديث أجهزتهم الشخصية قبل الطرح المتوقع."
     },
     {
      "title": "هل يفكر الذكاء الاصطناعي مثلنا؟ دراسة تكشف الاختلاف",
@@ -506,6 +511,13 @@
      "seen": "2026-11-21T19:51:09.678Z"
     },
     {
+     "title": "ماذا يعني الحكم التاريخي بشأن الإبادة الجماعية في ميانمار للقضايا المماثلة في المستقبل؟",
+     "url": "https://www.bbc.com/arabic/articles/ck24eqqvl8veo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T16:09:31.000Z",
+     "seen": "2026-11-21T16:11:09.566Z"
+    },
+    {
      "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOaU9aQnV2NEFmcWlKSWQ5eHJTcDdXc05CUUlpZ2lPOEZoUTBSYkNvNjM4WDRDcmo3bkoteEtIVUlvSmRLUFI4X2toanJjWDhyN1AzaHA5RzRYWnMyYnlDaGJaM0d4T1BoejItZUlKb2RLWVR5b1A0cE16cWZiZjEzZjBnQ3NzbW9fVEpHaHhmN3QySWU4cC1NdU8yZGxSNVFvQTdCd05fZU45ZzNZYUFVYUUxWXMydU1mV1ZwSFE3TzdRUVcxTnN3RWM5VGFTVHRrOEZoY0ZkYWFhLS1YcGtyTG13VlBuZy02MXI0Y1IxVGY1cURwOEJONzRhSFlDNC1GXzlqQllVVEFkNUl1M21mZFVkSS1NS2VIV2k1ZjhGMm5odF8xU0ctMHB6WWZGSEV2Z3RVaHFLRGp5T1RfRVdmY1R1cWhVd2ZXTWVLU050bkZDbXlkUmFsUDIzTjVtek9JaFFkYUlkanBqRElpTjZnVXZYN1UxMnA3eFl1WkZaS1dqR1MyTWdTalBkZVp6TF85OHBPRkh2bUdzeTllXzlMbVRHaWlnZEw1TkRPdGFzdmF2MVRmLUg0M21IUVUwek5wSDRZSWx3ZUNtRlRuRGk4ZW5jTFNGMXdiaU4xQnBnS2dUWmZwOFZnUDNETEwzNUJsTld0VlRHeUJHVHc1cjBMUkRzWkdUTy0x0gGIBEFVX3lxTE1oYmk5Ym9nOE1jLTFSVXhQQzMyd29jQWRtWmQ4U1lKVFVFQXVZNWs0bm15ZFptOU9mRy1mSDcwdnFXVHRJNGRkNWRWMUVvcDN4b08xUFpiQU9uYmF5bDNLNHlSbWJka2wwZjRYZ0RGT2p4ODlXMzRXam5YOUpsVXd1TjdRM2FkeURMLU1FTG9WbEtscDMyOTdXS21PUGNncUZ0TjFGS004Um9MQVJrOVk5YmpkMThob0ZVbjE3NTUzOF9MYXRPVXVVU21kU1Y1TjBHUGNraHpWVUtRY3UzQXBsNl9MU3otemhxVGJ2MzctN3Y2aldDcGRUZ25KSFY0YkRicXNBRVpuMTdhYmF6WE9VeWlpRGdTalppdGFCTWRUNzBacko5ZFpfVGhaTTVKOF83MVNiUnlQMThKY1RZRXVlTTdoLWU3bjBCOXB1Vl85bm9saVRSVHBlTFlNd3lMbTVZMk80VFAydkZCbFdMTm5iQ0dUbmJ0cjhOQjlpTzJOUjVSdGYzams0STlnQUVNNHZaVGo2YTRuR044bmdKM20wdi1LajlhMmw0Z3R6YkxxR1JVck11SlNSUjhIRFk5WHYxRjZJUm10VFR1b1p6c0lWTVA1MkJuY19jdEZ2a1lZM0ZDTnA5VkNtQ1RxRGhJWWZXcnB5UVRoVUNCWlFSTWdJNm1jYVlseG4?oc=5",
      "source": "DW.com",
@@ -523,7 +535,7 @@
      "title": "هل أصبح التنبوء بالموت المفاجىء ممكنا؟ دراسة حديثة تكشف",
      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQNEZUQ1ZfU2xSZnN6c2s0ZmRPZ29URm1SNjZub3NDN0lMOWloeVQwR2syRWxDQm8yQWRESXBBUlZ2ZlhfSnRhZUdjbTBWT1I5elNtSFFHMG1rdDNUenNSYVY4TTVsNFZkRERxSnZwcTkzM1FyZk9Rc1RSOUdiWUFiUW5RdnBsRUhVMFdFU28zdG55Q2tNZlRfWEFHU2c5bEhYRDFtRjJsT0hldjhudW1JQmFhTVlCMWF3S0hkaTdwN0FaQVh5cU0zRnlFNUY1UVdLUVdoVmxSM1BVMk9oajF5UE9PZnh3bW1oakp0eWJOSHExNDZMbG1HaFY1bGtRbmdjOHRNM2tlX2lteXl6SmdBXzdNMHRqV3FkSTJhLWg4NmV2QW1Ca2wxUU5DdVo4OUFOZldRenY3RkZMam5DU292cnlQb1hFZm9XYXZ1cDR2NXVnVmhXVS1UVWZsMllvNDhTS3o1V1h2cV9sZXllY0VxZ3FlZEx2TGpfUXcxQ1dQblM2ZW92MWctaGZXWlFtM3huTUZUTlFCcXRPeUNNMGxoTk53U21HZ9IBqwNBVV95cUxOc1M3TXJQMnRTYmNicWhfWFJFM3o2dEtXcllFUExCUGR0QWFBMzFvVW1LZlVIak9DeUVQZnhLbXY1c0l2VGJ1YnJQdHAwNFRUYUQtSVpwZ3phc2R3TjVFb0NFTkt3UDlWSndiMm9rcXJuU3RZV0VhRW5YUjlQV2tGU3YyeXJyS0FsLWdsdFNYcnRncmVQYXVhZWFFdzMybDczZWlCUUE0VUFfYndhN3ExUHpHV01MZkxsbHRkV1RWR1VZRS14cC0xemdBV3NXdHZxc19HeHVWcTZGc0ppM2JnN3hsSVk1cXV0aEhCX1VMY1BaYV9ya1dSZmwyLTc3VjRHcjZwaVpWUjBlQ1hDQ2ViRUMwMEN2bFM1anV2aFdJT1locGMxRVEwQWdHRjcybFZfaTN4dURWbHFVdXdWbHdNR0VkQS1yeXpaS0VtakNTd3hWMklaVF9ENzVZSk1OVmhMMmZ0QWZnenJmaG02UHVjQWotQVNJRkV3allPX2xKMGM3Sk1PMjVfSmd0WEpLT0VDUG9oSUpnMHBhU3JnbUhicE5tRDVfZl9JYVI4?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T12:01:10.000Z",
+     "time": "2026-11-21T12:03:17.000Z",
      "seen": "2026-11-21T16:01:09.314Z"
     },
     {
@@ -556,28 +568,10 @@
      "source": "جريدة المال",
      "time": "2026-11-21T10:02:00.000Z",
      "seen": "2026-11-21T18:31:10.233Z"
-    },
-    {
-     "title": "\"اليمين المتطرف يهدد أوروبا، لكنه هشّ\" - مقال في الغارديان",
-     "url": "https://www.bbc.com/arabic/articles/cxyvdq3e32l7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T09:50:05.000Z",
-     "seen": "2026-11-21T09:56:02.429Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
