@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-21T01:45:38.304Z",
+ "updated": "2026-11-21T01:55:39.232Z",
  "minute": [
-  "تشهد البنوك المصرية متابعة لأسعار وتحديثات صرف الدولار الأمريكي والريال السعودي.",
-  "تتواصل التطورات الإقليمية مع مباحثات أمريكية قطرية بشأن حرب إيران واعتراض السعودية صواريخ حوثية.",
-  "سجلت الأسهم العالمية ومؤشر ناسداك هبوطاً حاداً وسط مخاوف متعلقة بأسهم الذكاء الاصطناعي والرقائق.",
-  "أعلنت مؤسسات محلية تفاصيل تتعلق باستمارة الثانوية العامة وقرعة وحدات سكنية لنقابة المهندسين."
+  "شهدت الأخبار الاقتصادية استقراراً في أسعار صرف الدولار والريال السعودي بالبنوك المصرية، إلى جانب استعراض خطوات التسجيل لامتحانات الثانوية العامة وتفاصيل قانون رعاية المسنين.",
+  "على المستوى الدولي، عُقدت لقاءات أمريكية قطرية في ألمانيا لبحث الأوضاع الإقليمية، فيما أعلنت السعودية اعتراض صواريخ، وتعرضت البرازيل والبيرو لعاصفة وزلزال.",
+  "وفيم يخص قطاع التكنولوجيا، تراجع مؤشر ناسداك وتأثرت أسهم الذكاء الاصطناعي بضغوط بيعية، بينما حققت لعبة GTA VI مبيعات قياسية في يومها الأول."
  ],
  "ai": {
-  "at": "2026-11-21T01:15:39.200Z",
-  "model": "gemini-3.8-flash",
+  "at": "2026-11-21T01:55:39.232Z",
+  "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T01:45:38.304Z"
+  "impacts": 9
  },
  "markets": [
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58856,
-   "change": -4.92,
-   "asOf": "2026-11-21T01:45:37.000Z",
+   "value": 58845,
+   "change": -4.94,
+   "asOf": "2026-11-21T01:55:49.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -144,7 +141,8 @@
      "url": "https://www.youm7.com/story/2026/11/21/من-هو-المسن-الأولى-بالرعاية-7-تعريفات-بقانون-رعاية-حقوق/7624549",
      "source": "اليوم السابع",
      "time": "2026-11-21T01:30:00.000Z",
-     "seen": "2026-11-21T01:35:38.728Z"
+     "seen": "2026-11-21T01:35:38.728Z",
+     "impact": "يهم كبار السن وعائلاتهم في مصر للتعرف على الفئات المستحقة للرعاية والدعم وفق القانون."
     },
     {
      "title": "دمرت 5 آلاف منزل.. عاصفة بسرعة 100 كيلو متر في الساعة تضرب البرازيل",
@@ -173,7 +171,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T01:00:00.000Z",
      "seen": "2026-11-21T01:05:38.630Z",
-     "impact": "يهم الأسر والطلاب في مصر للتعرف على الإجراءات الرسمية لتسجيل استمارة امتحانات الثانوية العامة."
+     "impact": "يهم الطلاب وأسرهم في مصر لاتخاذ الخطوات المطلوبة وتسجيل استمارة التقدم لامتحانات الثانوية العامة."
     },
     {
      "title": "نقابة المهندسين تجرى قرعة علنية على 139 وحدة سكنية السبت 5 ديسمبر.. تفاصيل",
@@ -250,7 +248,8 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1wN3J0UzJlT0FxQkNyYmRBYWJzdWczYndUal9acFAtYndfamVxcC1RVnF6ZTJqeWE1MjhJWW45Ti1yWmkxZlVV?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-21T01:00:00.000Z",
-     "seen": "2026-11-21T01:05:38.630Z"
+     "seen": "2026-11-21T01:05:38.630Z",
+     "impact": "يهم المتعاملين والمستوردين في مصر لمتابعة تحديثات سعر صرف الدولار وتأثيره على تكلفة السلع."
     },
     {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
@@ -258,7 +257,7 @@
      "source": "جريدة الدستور",
      "time": "2026-11-21T00:39:47.000Z",
      "seen": "2026-11-21T00:45:39.148Z",
-     "impact": "يساعد المستثمرين والأفراد في مصر على تخطيط التزاماتهم المالية وتكاليف الاستيراد وفق استقرار سعر الصرف بالبنوك."
+     "impact": "يشير إلى استقرار أسعار الصرف بالبنوك المصرية مما يساعد المستثمرين والمواطنين على تخطيط تعاملاتهم المالية."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في مصر خلال التعاملات المسائية",
@@ -274,7 +273,7 @@
      "source": "الوطن اليوم",
      "time": "2026-11-20T23:52:56.000Z",
      "seen": "2026-11-21T00:05:39.134Z",
-     "impact": "يهم المتعاملين في السوق المصري لمتابعة تحركات سعر الدولار وتأثيرها على تسعير السلع والخدمات."
+     "impact": "يهم المتابعين للشأن الاقتصادي في مصر للوقوف على أسعار الدولار في ختام التعاملات الأسبوعية."
     },
     {
      "title": "سعر الريال السعودي اليوم السبت 21 نوفمبر 2026 في البنوك المصرية",
@@ -282,7 +281,7 @@
      "source": "جريدة الدستور",
      "time": "2026-11-20T23:06:21.000Z",
      "seen": "2026-11-20T23:15:25.902Z",
-     "impact": "يمس الراغبين في السفر أو التحويلات المالية لمعرفة تكلفة تدبير الريال السعودي من البنوك المصرية."
+     "impact": "يهم المسافرين والمقبلين على العمرة والمواطنين المعتمدين على تحويلات السعودية متابعة سعر الريال بالبنوك."
     },
     {
      "title": "أسعار الذهب اليوم السبت 21 نوفمبر 2026 فى مصر",
@@ -383,6 +382,20 @@
      "seen": "2026-11-20T23:45:38.863Z"
     },
     {
+     "title": "بعد 40 يوما في غيبوبة.. زفياغينتسيف يعود بفيلم عن روسيا في زمن الحرب",
+     "url": "https://www.aljazeera.net/arts/2026/11/21/%d8%a8%d8%b9%d8%af-40-%d9%8a%d9%88%d9%85%d8%a7-%d9%81%d9%8a-%d8%ba%d9%8a%d8%a8%d9%88%d8%a8%d8%a9-%d8%b2%d9%81%d9%8a%d8%a7%d8%ba%d9%8a%d9%86%d8%aa%d8%b3%d9%8a%d9%81-%d9%8a%d8%b9%d9%88%d8%af?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T22:49:03.000Z",
+     "seen": "2026-11-21T01:55:39.232Z"
+    },
+    {
+     "title": "\"علاج نفسي على أصوله\".. ماذا يحدث حين يقرر الطبيب حل مشكلات مرضاه بنفسه؟",
+     "url": "https://www.aljazeera.net/arts/2026/11/21/%d8%b9%d9%84%d8%a7%d8%ac-%d9%86%d9%81%d8%b3%d9%8a-%d8%b9%d9%84%d9%89-%d8%a3%d8%b5%d9%88%d9%84%d9%87-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%ad%d8%af%d8%ab-%d8%ad%d9%8a%d9%86-%d9%8a%d9%82%d8%b1%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-20T22:46:01.000Z",
+     "seen": "2026-11-21T01:55:39.232Z"
+    },
+    {
      "title": "واشنطن بعد أحدث موجة عقوبات: النظام الإيراني سفينة تغرق",
      "url": "https://www.skynewsarabia.com/middle-east/1906143-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A3%D8%AD%D8%AF%D8%AB-%D9%85%D9%88%D8%AC%D8%A9-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%BA%D8%B1%D9%82",
      "source": "سكاي نيوز عربية",
@@ -434,18 +447,11 @@
      "impact": "يمنح هذا النبأ الأفراد في مصر معلومة صحية عامة عن بدائل الملح للمساعدة في تجنب مشكلات الضغط والقلب."
     },
     {
-     "title": "الأمن السوري يعتقل ضابطا آخر متورطا في مجزرة \"كمين العتيبة\"",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%8a%d8%b9%d8%aa%d9%82%d9%84-%d8%b6%d8%a7%d8%a8%d8%b7%d8%a7-%d8%a2%d8%ae%d8%b1-%d9%85%d8%aa%d9%88%d8%b1%d8%b7%d8%a7-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T21:05:44.000Z",
-     "seen": "2026-11-21T00:25:39.112Z"
-    },
-    {
-     "title": "\"أتفق مع الرئيس\".. عبدول السيد يمد يده لترمب بشأن مساعدات إسرائيل",
-     "url": "https://www.aljazeera.net/politics/2026/11/21/%d8%a3%d8%aa%d9%81%d9%82-%d9%85%d8%b9-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%b9%d8%a8%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b3%d9%8a%d8%af-%d9%8a%d9%85%d8%af-%d9%8a%d8%af%d9%87?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-20T20:42:10.000Z",
-     "seen": "2026-11-21T00:25:39.112Z"
+     "title": "التحالف يشن غارات في اليمن والحوثيون يردون بهجوم في السعودية",
+     "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQR3NxelNqX3hvQTlVWEszQVRaUHF6UzBDOElBMl9yNXZ6eVpPLXdkRWFGN3ZuLW1ramVOd0JCbGs5Vm51YlA3Yk42TnBGNC1pN1FiVENmM0xTMGFUekRvSm9zMm5scVl4NzdRLU5kRTBqTm9fOWtEWGQtRFZ4RkY3ZWdlOWpfRzU3VzY0YzBaUm5oZDB2Y2xEbC0xRWhQUnRtVEJfU3ljOXJOUlJOcGdZam5GT3FXeEVjbHJ3Wk5aekVBWk1yRTRzSTIzSGdRU1Y5ZTJ2eG00MFVZRnFxQVNBb3BrdTRvb05OZ2ZFU0gyOXNFQUIwRUhVbVZiSUFjSzZoeHppaGZsSjVYYkRWemNuMXBORkRQNklHOVphbzFhQkluanU2cWY0WEg3RFhKTWlkRFlyUTRGV1JyMjVDZGM5aHJvSG1LQW1ITWxZS25fUGdXUHBHS2VQZEpsMktITVAyZHgxNzFzelJhb21fWTdaS3hWWlItUkxwNExaWGxPVnkwa0RpMTYySFY5VXNGZ3VlZXQxSnh3SnBWaDRCQ0RJSk1XOGtiejVUNVU4aVBFVVI0djVrMTNZZURCNGpkUjJsbm1BWkl1QVZNNUwxZHR6VFBxYVhUNmZUQzduQzBVY2pqYmpNZ1hBaHVKb2s0T2s0Q3ZxTmlBRzVKeVgxcENPcnlOdkVkcXZrR3prSkpJUUJucklKaktmcVdtOFB2R29aTVp0MDZIMjh5NkNsX0NSVk9JNjJySmcwNzNKZkRKbm93Qkp6WlN6UDlhZ2pkTEh6OWVxVm82NnNjQ1VScGd5THk0NA?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-20T20:43:14.000Z",
+     "seen": "2026-11-21T01:55:39.232Z"
     },
     {
      "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
@@ -454,13 +460,6 @@
      "time": "2026-11-20T19:46:00.000Z",
      "seen": "2026-11-20T19:55:26.195Z",
      "impact": "تفيد متابعة الاستثمارات القطرية في ألمانيا المهتمين بحركة رؤوس الأموال والاتجاهات الاقتصادية الدولية."
-    },
-    {
-     "title": "«يا للهول... إنها طهران!»... طيارو «بي-2» يروون كواليس ضرب «فوردو»",
-     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPQ0syWVNQWEFxR3pfcjBZYnAtVU5fcmxKcFR0cXJMVFB6SHUyR1pRblFnZERxSVZTSm9FejJVU1cxekVoUUxkSHdjdVFjOG5FQmV0dmFrWEJzdHpsR2JPM3hfbURWVmttMHlBQ1ZvQjkzWDcwTjFOYnAwa1Qta3Rnb1ZJdWh2U3BjYjVySEttR1pCNjItXzkwZ21pVGpIMVBCb3Uza0VFRDZES2E5dW04cTZaOGNQMkpNanRlSnlha3FkVU9wV21kaW5OSi1BU21DSEMxQmVBS3lQTlVYMEJMVlZxbFJpYTVNYWF2UV85c0FzVjU5WEsyOHp6UVBhNlJzMkdpWVg0Zk4wZUFMaFNxWEJNQWtOamVpYnhRRXZwNTl6aGgxZ1JhekFiWnRlUGlpUmNUbTNtZUQySkJQZ2tYd3A0X2l2TWEwalNvLW9wLWtGbzlKekZoRktPempnT0UtblpYS2pBRWFadHBSV0FCZXRpc2h1YXlpZnR0RmlYU295bTJFUkd4T2hjUE1XQXJsZUlNSUl5bTF3VkFrc3RRb2Q2VGlIMmNselJLY3h2SkdBOFFwN1JfRHlabThYZGEyQzFKdWZpQnhXdlhKVjJCU3VMSXlkOHVqaVdHcmhGY1JINXVmOVFUcjhqbWJMZ2NwSm9DcDlmQVNUZw?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-20T19:45:54.000Z",
-     "seen": "2026-11-20T17:55:10.249Z"
     }
    ]
   },
@@ -474,7 +473,7 @@
      "source": "BBC",
      "time": "2026-11-20T23:17:51.000Z",
      "seen": "2026-11-21T00:35:38.750Z",
-     "impact": "يهم قطاع تكنولوجيا المعلومات في مصر لمعرفة حدود وتوجهات الشركات الأمريكية في بناء مراكز البيانات بالخارج."
+     "impact": "يهتم به المستثمرون والمتخصصون في التكنولوجيا لمتابعة القوانين والقيود الدولية على مراكز بيانات الذكاء الاصطناعي."
     },
     {
      "title": "روكستار: مبيعات GTA VI تبلغ 3.79 مليارات دولار في يومها الأول",
@@ -497,7 +496,7 @@
      "source": "الشرق بلومبرغ",
      "time": "2026-11-20T22:08:26.000Z",
      "seen": "2026-11-20T22:35:25.622Z",
-     "impact": "يفيد المستثمرين في مصر المتابعين للأسواق العالمية لمراقبة اتجاهات التراجع الحاد في قطاع التكنولوجيا."
+     "impact": "يهم الأفراد والمستثمرين المصريين المتابعين للأسواق العالمية لتقييم المخاطر في محافظ الأسهم التكنولوجية."
     },
     {
      "title": "هبوط ناسداك بأكثر من 4% مع موجة بيع حادة في أسهم الرقائق والذكاء الاصطناعي",
@@ -505,7 +504,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T20:54:32.000Z",
      "seen": "2026-11-20T20:55:26.170Z",
-     "impact": "يساعد مديري المحافظ والمتداولين في مصر على متابعة أثر هبوط أسهم الرقائق على معنويات الأسواق المالية."
+     "impact": "يهتم به المتداولون بالأسواق المالية الدولية لمعرفة أسباب تراجع قطاع الرقائق وتأثيره على حركة المؤشرات."
     },
     {
      "title": "ترامب يهدد بفرض ضرائب باهظة على شركات التكنولوجيا التي تبني مراكز بيانات خارج أمريكا",
