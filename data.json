@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:16:02.229Z",
+ "updated": "2026-11-21T06:26:02.747Z",
  "minute": [
   "تشهد البنوك المصرية استقراراً في سعر صرف الدولار الأمريكي خلال التعاملات.",
   "تراجع مؤشر ناسداك العالمي بأكثر من 4% في أسوأ أسبوع له منذ عام 2020 وسط مخاوف تتعلق بالذكاء الاصطناعي والرقائق.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T06:16:02.229Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T06:26:02.747Z"
  },
  "markets": [
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 55298,
-   "change": -10.67,
-   "asOf": "2026-11-21T06:16:58.000Z",
+   "value": 55933,
+   "change": -9.64,
+   "asOf": "2026-11-21T06:27:10.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "أحمد سليمان يفتح النار على مسؤول بالزمالك: نعيش أسوأ فترة في تاريخ الألعاب الجماعية",
+     "url": "https://www.elbalad.news/7188471",
+     "source": "صدى البلد",
+     "time": "2026-11-21T06:20:00.000Z",
+     "seen": "2026-11-21T06:26:02.747Z"
+    },
+    {
      "title": "مليونا بطاقة للمسنين وصندوق نفقات بـ5 آلاف جنيه شهريا.. ملامح خطة الحكومة لتطوير الحماية الاجتماعية حتى 2030",
      "url": "https://www.elbalad.news/7188365",
      "source": "صدى البلد",
@@ -161,11 +168,11 @@
      "seen": "2026-11-21T06:16:02.229Z"
     },
     {
-     "title": "إبراهيم سعيد يعلّق على تفوق صلاح على ميسي: «بطولاته صفر مع المنتخب»",
-     "url": "https://www.elbalad.news/7188469",
-     "source": "صدى البلد",
-     "time": "2026-11-21T06:05:07.000Z",
-     "seen": "2026-11-21T06:06:02.381Z"
+     "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3Q1E0d1pNZ1lEM1pwZkxjcXVMeldVX0x4V0xWQnZjT0N2cWhtd3RzOFhmNzNKV0RmWG90TEl2LXQ4YlFzeGc?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-21T06:00:44.000Z",
+     "seen": "2026-11-21T06:26:02.747Z"
     },
     {
      "title": "الطقس اليوم.. ارتفاع بالحرارة وشبورة صباحا والعظمى بالقاهرة 28 درجة",
@@ -229,13 +236,6 @@
      "source": "الجزيرة نت",
      "time": "2026-11-20T17:43:22.000Z",
      "seen": "2026-11-21T00:15:38.910Z"
-    },
-    {
-     "title": "إنفوجراف.. أبرز أنشطة رئيس مجلس الوزراء هذا الأسبوع",
-     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOcGwyMk5LQ3lHOWw3UlpSU3BFWmowbnBoeFE0YkVIakpZN1dnYk15WDVtaGM3cnNPV0YwSjZpZFpWc2lDTmM1bXNGUDU1UkVMYjF1OGRVSkNmX2YyQnFQSlJoRDU4NnBVSjRKVlZ2cW81V3FZd3FrSHBLb2pLWjBHSkVIbnR3elBmTXhWSFZRV0JZNTBLWVdxZkRNWlZYX3lhVjNydzFGbUFhZjJNSzF3eEFEWGthSzhVOXBMSlBKNU1zV25jLWRaWUMwa29YWTlJWDl5WlVJUGhjUVVjTVppWUxzY2tpOFZYak13WVpVc0xHU0dCRjdhZ3lNYzd0TXNjM1JXVDNndVNqc0pFVkdUTDZaRmZjbmZ1SThESHlVTTB1ZFB1U0Q3RVJIeWQ5OV92WkRuSU52UjZxTTZXSWZCSkc2eFkteUhuZmF4S2F6QW90aVVsanlyZ09LWDVBaTBXM3NmaFg2bEFNVVNEUDltbjVXcGlMcUlzTkFqLUhYdWJfRnlremEwdWg4Z19HSWlRaEd3TE82NlNyYThYWU1IRzh0RWtpLVFGQXBEdGtxazFMb0RYVFF3?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-20T17:17:00.000Z",
-     "seen": "2026-11-20T17:55:25.651Z"
     }
    ]
   },
@@ -358,6 +358,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "أهم درس لدول المنطقة.. وزير خارجية إيران يوضح نقطتين عن دول الجوار بالحرب الأمريكية على طهران",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/iran-abbas-araghchi-lessons-regional-countries-learned-war-us-tehran-viral",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T06:21:26.000Z",
+     "seen": "2026-11-21T06:26:02.747Z"
+    },
+    {
      "title": "سفير إسرائيل بواشنطن يرد على عراقجي بعد إثارة الأخير جدل \"من يقود الجيش الأمريكي؟\"",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/israel-ambassador-yechiel-leiter-response-iran-abbas-araghchi-us-army-leader",
      "source": "CNN بالعربية",
@@ -393,18 +400,18 @@
      "seen": "2026-11-21T05:36:03.155Z"
     },
     {
-     "title": "الوهابية في مصر.. ساويرس يعلق على فيديو سابق لتوفيق عكاشة.. وهذا رأي ابن باز بالحركة وفكرها",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/wahhabism-in-egypt-viral-tawfik-okasha-naguib-sawiris-ibn-baz-saudi",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T04:59:34.000Z",
-     "seen": "2026-11-21T05:06:03.052Z"
-    },
-    {
      "title": "بالتفصيل.. اختراق إلكتروني جديد يهز الـ\"إف بي آي\"",
      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPLVNSV2xSdC1BMUR2ZFQ5MlplcTktLU1ObUxzOFlsRjctdEhyeW51RXZzNm5hUk1ILUlWdGt3OFQ4X1dVdGJENHVwWS1KTkJMTzV0MUtqOVpHMnluVUxtZ3Bza3ZZQVhzWGthZlQyX1BlUU5ycU1YTmcwRXpJeU9qNFM5X2ZHZmVFQmJwVzE3X0FwdFlRU0lYTFd0aTU4WlVWY1BIZmxjY0xmMHgxdUVmVTBFaWRNNjJ4YjlWX0NxSFNfVXRUdFh2OHdmSVFIYTdfd1VZVU5iT0syd21KbGlfUHc4TVJCWW5HX3JPUG45QlpxV2NMcWlJRHBLYjZpZFJyVWljdDc3TngzXzJTanMzSi1QdGpoTW0tc21DNDRGTm90bmZNRG16Rk1uSExQdDBzeDYyd3V5LUZVQm1GcTR4ZDA1b3o3ZFJ5cmxnelZWampMNjNvM0l0dzUwbnFMLTVpNktiV0FMUTAwNnluY1pYd1Z3NGwtRDlJ0gH-AkFVX3lxTFBXaHhpN013NFlRR0ZWSmFFa0VlMXRueFBlT3N1eGhqa3FKZ3hwYVllU01kUnpIa2FxUDViSnFzeVJjM3M1LUlQUXZPX0twTkhNUTBPY0t6NnM0UVVEVEQxamVseS1ob0JEMFpmNG40YWZzUGZCdEp1anNDd0RLMU0yTHRhdEthYTBfcWEwcm9kZjNPbXo0WmZLTGdRR1hvOTduTDlyQlU2MlNqdExHVTJIbnhqYXpud2NiVEVGdTVGeVFYUkdJOUlmOGptT0xHU2UtWTZXS2wwOHNMd1B6YkNfVUQzekctSzZKVVM2S0QzbHBvYVQtMk5pd0VNb1lXaTBON1VCS1dBWDVHVE1uX19EYl9vWHBFa3dvbUJ2THhwbHFIa1YycGFMNVhQT0lyTmh3Ym9ldlVmSHRobTZDdGZjdmxBTkJHTTBFazlSbGRwSmY5ZW96OEVZV2xQZ3B0UGJsRm5rQjlCb21QcFJSWTRDZVNKclZhTmd2ZFU2SGc?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T02:50:12.000Z",
+     "time": "2026-11-21T03:19:41.000Z",
      "seen": "2026-11-21T03:55:38.857Z"
+    },
+    {
+     "title": "ترمب يحول مؤتمرا لتقييم جولته الآسيوية إلى \"تلفزيون واقع\" ويقترح ميلر للرئاسة",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%aa%d8%b1%d9%85%d8%a8-%d9%8a%d8%ad%d9%88%d9%84-%d9%85%d8%a4%d8%aa%d9%85%d8%b1%d8%a7-%d9%84%d8%aa%d9%82%d9%8a%d9%8a%d9%85-%d8%ac%d9%88%d9%84%d8%aa%d9%87?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T02:55:19.000Z",
+     "seen": "2026-11-21T06:26:02.747Z"
     },
     {
      "title": "لم يأكل لحما منذ 1957 لسبب غريب.. قصة الرئيس كاوندا آخر عمالقة أفريقيا",
@@ -419,13 +426,6 @@
      "source": "الجزيرة",
      "time": "2026-11-21T02:19:14.000Z",
      "seen": "2026-11-21T05:56:03.145Z"
-    },
-    {
-     "title": "ماذا يعني قرار الإدراج النهائي للإخوان بقوائم الإرهاب في مصر؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/21/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T01:55:35.000Z",
-     "seen": "2026-11-21T05:16:02.337Z"
     },
     {
      "title": "لقاء أميركي قطري في برلين لمناقشة إنهاء حرب إيران",
