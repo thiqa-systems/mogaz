@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:26:02.381Z",
+ "updated": "2026-11-21T10:29:44.738Z",
  "minute": [
   "شهدت مصر استقراراً في سوق الصرف وتوجهات لزيادة الحد الأدنى للأجور بالقطاع الخاص، إلى جانب إصدار تراخيص جديدة لمشروعات الثروة الحيوانية وبحث توريد منتجات الطاقة.",
   "على الصعيد الإقليمي والعالمي، أُصيبت ناقلتان بمقذوفات مجهولة قرب خصب العمانية، وتم تأجيل وضع قواعد حول استخدام الأسلحة الذاتية التشغيل.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T10:26:02.381Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T10:29:44.738Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58037,
-   "change": -1.3,
-   "asOf": "2026-11-21T10:29:17.000Z",
+   "value": 57976,
+   "change": -1.4,
+   "asOf": "2026-11-21T10:30:33.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,24 +139,31 @@
    "title": "مصر",
    "items": [
     {
+     "title": "حولوه لرماد .. القصة الكاملة لقتل شاب على يد شقيقتين بقنا وإلقائه في الفرن",
+     "url": "https://www.elbalad.news/7188651",
+     "source": "صدى البلد",
+     "time": "2026-11-21T10:26:47.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
+     "title": "الأوقاف تعقد 628 مجلس فقه بالمديريات الحدودية لمناقشة مخاطر المغالاة في المهور وتكاليف الزواج",
+     "url": "https://www.youm7.com/story/2026/11/21/الأوقاف-تعقد-628-مجلس-فقه-بالمديريات-الحدودية-لمناقشة-مخاطر-المغالاة/7626813",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T10:26:00.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
+     "title": "حقيقة رحيل ياسر إبراهيم عن الأهلي في يناير مقابل 800 ألف دولار",
+     "url": "https://www.elbalad.news/7188701",
+     "source": "صدى البلد",
+     "time": "2026-11-21T10:25:57.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
      "title": "شيخون: نعمل على تعميق التعاون مع الشركاء في مجتمع الأعمال اليوناني في القطاعات الصناعية والمواني",
      "url": "https://www.elbalad.news/7188672",
      "source": "صدى البلد",
      "time": "2026-11-21T10:24:40.000Z",
-     "seen": "2026-11-21T10:26:02.381Z"
-    },
-    {
-     "title": "مدير تعليم بني سويف يفاجئ مدرسة طوسون إسلام الابتدائية لمتابعة انتظام الدراسة",
-     "url": "https://www.elbalad.news/7188649",
-     "source": "صدى البلد",
-     "time": "2026-11-21T10:24:36.000Z",
-     "seen": "2026-11-21T10:26:02.381Z"
-    },
-    {
-     "title": "تمهيداً للافتتاح.. وزيرة التنمية المحلية تتابع التجهيزات النهائية للمرحلة الثانية من تطوير العتبة",
-     "url": "https://www.elbalad.news/7188694",
-     "source": "صدى البلد",
-     "time": "2026-11-21T10:22:38.000Z",
      "seen": "2026-11-21T10:26:02.381Z"
     },
     {
@@ -172,14 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T10:05:00.000Z",
      "seen": "2026-11-21T10:06:02.359Z"
-    },
-    {
-     "title": "وزارة العمل فى أسبوع.. زيادة الحد الأدنى للأجور بالقطاع الخاص لدعم العمالة",
-     "url": "https://www.youm7.com/story/2026/11/21/وزارة-العمل-فى-أسبوع-زيادة-الحد-الأدنى-للأجور-بالقطاع-الخاص/7626778",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T09:58:00.000Z",
-     "seen": "2026-11-21T10:06:02.359Z",
-     "impact": "تنعكس زيادة الحد الأدنى للأجور بالقطاع الخاص مباشرة على دخل الأفراد وتكاليف التشغيل لدى الشركات والأعمال."
     },
     {
      "title": "الأرصاد تكشف موعد انخفاض درجات الحرارة وسقوط الأمطار",
@@ -244,6 +243,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "وزير المالية: نتطلع لإقامة شراكات إنتاجية وصناعية بين مصر واليونان",
+     "url": "https://alborsaanews.com/2026/11/21/2007860",
+     "source": "البورصة",
+     "time": "2026-11-21T10:08:29.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
+     "title": "“الزراعة”: إصدار 580 ترخيصًا لمشروعات الثروة الحيوانية والدواجن خلال نوفمبر",
+     "url": "https://alborsaanews.com/2026/11/21/2007858",
+     "source": "البورصة",
+     "time": "2026-11-21T10:01:23.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
+     "title": "المفوضية الأوروبية تدعم تعافي اقتصاد البرتغال بـ4.7 مليار يورو",
+     "url": "https://alborsaanews.com/2026/11/21/2007856",
+     "source": "البورصة",
+     "time": "2026-11-21T09:53:32.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
      "title": "\"اليمين المتطرف يهدد أوروبا، لكنه هشّ\" - مقال في الغارديان",
      "url": "https://www.bbc.com/arabic/articles/cxyvdq3e32l7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -265,29 +285,6 @@
      "time": "2026-11-21T09:01:00.000Z",
      "seen": "2026-11-21T09:06:02.667Z",
      "impact": "يسهم استقرار سعر الدولار دون الـ54 جنيهاً في وضوح التكلفة الاستيرادية وحساب التدفقات المالية للشركات."
-    },
-    {
-     "title": "“البترول” تبحث تعزيز التعاون مع “IRH” في توريد منتجات الطاقة لمصر",
-     "url": "https://alborsaanews.com/2026/11/21/2007853",
-     "source": "البورصة",
-     "time": "2026-11-21T08:55:55.000Z",
-     "seen": "2026-11-21T09:26:02.403Z",
-     "impact": "يدعم تعزيز التعاون لتوريد منتجات الطاقة استقرار الإمدادات البترولية للسوق المحلي والقطاعات الصناعية."
-    },
-    {
-     "title": "“فورد” تعيد افتتاح مصنع أوكفيل في كندا رغم رسوم “ترامب” الجمركية",
-     "url": "https://alborsaanews.com/2026/11/21/2007851",
-     "source": "البورصة",
-     "time": "2026-11-21T08:44:53.000Z",
-     "seen": "2026-11-21T09:26:02.403Z"
-    },
-    {
-     "title": "سهم “إنفيديا” يهبط 14% ويسجل أطول سلسلة خسائر أسبوعية منذ 2008",
-     "url": "https://alborsaanews.com/2026/11/21/2007849",
-     "source": "البورصة",
-     "time": "2026-11-21T08:39:15.000Z",
-     "seen": "2026-11-21T09:26:02.403Z",
-     "impact": "يهم المستثمرين المصريين المتعاملين في الأسواق العالمية لمتابعة تحركات أسهم التكنولوجيا ومخاطرها."
     },
     {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في مصر.. تحديث البنك المركزي",
@@ -427,6 +424,13 @@
      "seen": "2026-11-21T07:26:02.387Z"
     },
     {
+     "title": "عاجل | وزارة الصحة في غزة: 9 شهداء و55 مصابا في القطاع خلال الساعات الـ48 الماضية",
+     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%b9%d8%a7%d8%ac%d9%84-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d9%81%d9%8a-%d8%ba%d8%b2%d8%a9-9-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%8855-%d9%85%d8%b5%d8%a7%d8%a8%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T07:17:08.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
+    },
+    {
      "title": "البصرة.. 4 قتلى و30 مصابا في حريق بمحطة كهرباء الهارثة",
      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQWm81cjktWC0zdFN5TEtiYlFjdDRMOHBvYUVlcTk0NXgyN3Npc0JsWU5zcDNyb3JPRjRwZnNaRFNkX1BWNXBJWUU0T0I1ajVQVkcwQk4xS1JRdXA1SVFvenlMd2lSbmJjaGFnT293eDF3WWR4aWRHeGExSkJRYTFuREgyNVlRN0FkcDAxOFNqTE9sSG5waHotZ0VtcVdZOVlISTZybEhHUmlPR2s4SzNKNnpuQ2t6VXlGOGxuQjVINTBEODZsZDZ3SjNSajFoRlhaWHJFbmdIQ091TTd6eUQzbmVVQlRHdS1hVUE4NWNzMjM1eDlESnpDT2tESWk3SFJfMngzNnN2eXdmY2tWeXBlTlJkZ05LOG1NRThTS21yVGFZQ3A3WlJfd2RHU2tua2xPTU9fNkZqbnJTa2NIMkF2OVg1Z0pMVGdabE1DY1d1QVN1TmNTbWJSdTNvc3VEd28yY0s0b2ZrLUdtYVozY0h6T2s0d245dUFfUHgzY1B3Y1dDZVNUaERNMTNSMVAwczkyTG5ub1R1YVl0aWJTOEHSAaMDQVVfeXFMTmhyd1h5ODFNMmttNURLQVZLaU0zSzE0V0Y2bEdaTVFKRGM2ZEJNeWdzaUNMeGxTTkc1R1BWMGViNGhHWll4ZXhNNkxSNHdFOUFZSUdVU0djT0phb01YRHBaR0podzU2SnhmVUl2bld2ZVk2X0dRU1VHVFJWWU5mTC1FLW8yZXBuVU1RQUNOWUFoYWFTNDV0YlI4RzVoazk5YlFfY0dRVjBIUmFrTFpDQWtmX0dQU1lyZDRmUzcwbjBpYlVPUDdIazdGazNQX294aTMzRWhwOUxaOVJBa0N1ZVlxVFE4ZnNGZFdCOUtIQjJ0RzMwS3dCMTRlcXZEc3d5cnI5VkpFM29wcUlFZDZwX2IzZ2tmQVBqMS1zcmN1SnJYN0xteU9YWXRKTTVLb2JBZHlJeWVxQklQdlI1Zm1ybDkwR2lfT2hHSnFKYjdvSjBZM2ZyMWNWX3hWQXlLaE5pdXZXT2gxVFJ6b0pmaGt5ZkJWRThIUDU0M1FicERxZFp5YnVrWUdPa1BOLTYtZ0RCSFRod2RWZDMzNnB5eUcyenBfZmM?oc=5",
      "source": "سكاي نيوز عربية",
@@ -442,18 +446,11 @@
      "impact": "تؤثر التوترات الأمنية الإقليمية على ثقة المستثمرين ومستويات استقرار سلاسل الإمداد في المنطقة."
     },
     {
-     "title": "حماس تحذر من مخطط استيطاني جديد والاعتداءات تتصاعد بالضفة",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%ad%d9%85%d8%a7%d8%b3-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d9%85%d8%ae%d8%b7%d8%b7-%d8%a7%d8%b3%d8%aa%d9%8a%d8%b7%d8%a7%d9%86%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d8%b3%d8%b7?traffic_source=rss",
+     "title": "في الـ35 من عمره.. عمدة نيويورك يتعرض لإصابة قاسية خلال مباراة كرة قدم",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/%d9%81%d9%8a-%d8%a7%d9%84%d9%8035-%d9%85%d9%86-%d8%b9%d9%85%d8%b1%d9%87-%d8%b9%d9%85%d8%af%d8%a9-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%8a%d8%aa%d8%b9%d8%b1%d8%b6?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T06:56:56.000Z",
-     "seen": "2026-11-21T10:06:02.359Z"
-    },
-    {
-     "title": "فرنسا: \"فصل سادس\" من التعبئة للمطالبة بتحسين وضعية الشباب والاحتجاج على غلاء المعيشة",
-     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261121-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%81%D8%B5%D9%84-%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-21T06:55:30.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
+     "time": "2026-11-21T07:10:00.000Z",
+     "seen": "2026-11-21T10:29:44.738Z"
     }
    ]
   },
@@ -489,7 +486,7 @@
      "title": "تفاهم أميركي صيني.. هل يمنع الآلة من اتخاذ قرار القتل؟",
      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPWEh3cGRSTFhJdWVseDl5cmVGbDlCb3FBaHUtUl9oNkgzQjVmWTB5TFVHcV9kZW9wN2ZFYTZ6ZU1EMDZIYXdzSUpTcnBCaU00Z3dCTHd1OVQ2Vk5qcFV3U214SjQ4aVpCYmUyRngyV2E0SFZUbGNsdzVGZDlCUW5ZTVQwT29RVTdvSzRiQ2ZPM3FCN01vdUNDdzA2dVJjeFdqVFh2akg5LW03cXMzcl9hUlBOQVFOWmV4SnVBUFYwa0c4SGpYd04xNUJVb1JBUXBHX19KejdyeVFqaGc0MW5uSW9yVTNkQ2tpdmF1eVdWWTFkby10dlB6VkotOUljS1lYbzF6TExnVDFRZUh2TG5BUmx2Z0dleWpldEx3Z1hCeGpLQW9QUmpSdjI0aVFDZHFXZkk2ODBCWVFyd1AtUnA4amJhTjRZRDh1YmlrdTlTemx1UHZabVBMdFktQmp4Q2ZoNEZ1WVd5UWFWdk4yQVpRNTl4ZkpoSmx3aXdyd1hDYThQWWF2N1JBRDVPV2o3MjNm0gGWA0FVX3lxTE9UV291MUNiREhJZ09sZmtEaEI5VERmakVzWWhBNkJYR01UYk1zRFdBbEZXc3RIeFJTcE5MMGQwYUl1WmQ3Y25PVjREdnlGelhoOEk2akVPVGwtSG05cnBQZVBuLTlaY24xUXUxaDVrRTFUWmxRTTUyaF84OVd2ODNrWTdPT3BpVjJqNUppQng4RFNMTlk1RmJudU1vNmFXRzVzZEhCQ1JxenpUQlJlOTRLdmdaRWcyM0RubVc5SExtYzVMMHYyOVFyNXBUSnJTZ1VJbmg2UmRrUlZoWlJrdkxLTzBuLWo4N1Ztc2FDS3BoalZKRXdxdERqUW9sdHBrSnluTGtEaTBlTlI5YU9FNDVFcF9ObFN4dlN5aTE3elpSYmtuS2l5X0FWWkNFczFvQktDcTRPTGg2OWZWcFYxbC1QSFJ5VHhOYlVzaHJYdnF0QU5ZdUcwLVA4WHdxbWxnV3hsNWtoWGZxSGpLX3JhaUctQnBiZGNVeXM2TTRScklUc0xLRFhKMnJocmo3RXpyRXdiNFE3Z1E?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T05:01:36.000Z",
+     "time": "2026-11-21T05:23:36.000Z",
      "seen": "2026-11-21T06:56:02.484Z"
     },
     {
