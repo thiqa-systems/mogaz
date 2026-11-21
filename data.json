@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:56:02.214Z",
+ "updated": "2026-11-21T08:06:02.605Z",
  "minute": [
   "شهدت الأسواق استقراراً في سعر الدولار بالبنوك المصرية مع تراجع أسعار الذهب وانخفاض أسبوعي لأسعار النفط.",
   "أعلنت مصر عن مهلة جديدة لمدة 6 أشهر لتقنين أراضي الدولة والتصالح، وإطلاق معرض ديارنا للأثاث بالمنيا بتمويل ميسر.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T07:56:02.214Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T08:06:02.605Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57939,
-   "change": -1.46,
-   "asOf": "2026-11-21T07:56:01.000Z",
+   "value": 57744,
+   "change": -1.79,
+   "asOf": "2026-11-21T08:08:03.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "رئيس جامعة بنها يتفقد أعمال إنشاء مبنى المدرجات والعيادات الخارجية ومجمع الورش التعليمية بكفر سعد",
+     "url": "https://www.elbalad.news/7188533",
+     "source": "صدى البلد",
+     "time": "2026-11-21T08:00:41.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "وزير التخطيط يصل السويس لتفقد عددٍ من مشروعات الخطة الاستثمارية",
+     "url": "https://www.elbalad.news/7188534",
+     "source": "صدى البلد",
+     "time": "2026-11-21T08:00:37.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "النشرة المرورية.. سيولة بحركة السيارات بمحاور القاهرة والجيزة",
+     "url": "https://www.youm7.com/story/2026/11/21/النشرة-المرورية-سيولة-بحركة-السيارات-بمحاور-القاهرة-والجيزة/7626601",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T08:00:00.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "بعد تصريحات الحكومة الأخيرة.. غرامة 10 آلاف جنيه لمن زور بطاقة المسنين",
+     "url": "https://www.elbalad.news/7188525",
+     "source": "صدى البلد",
+     "time": "2026-11-21T08:00:00.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
      "title": "رئيس الطائفة الإنجيلية يشهد انطلاق ملتقى الفكر السنوى للهيئة القبطية الإنجيلية",
      "url": "https://www.youm7.com/story/2026/11/21/رئيس-الطائفة-الإنجيلية-يشهد-انطلاق-ملتقى-الفكر-السنوى-للهيئة-القبطية/7626619",
      "source": "اليوم السابع",
@@ -153,39 +181,25 @@
      "seen": "2026-11-21T07:56:02.214Z"
     },
     {
-     "title": "خبير: فشل الحسم العسكري أعاد واشنطن لأدوات الضغط والحصار الاقتصادي ضد إيران",
-     "url": "https://www.elbalad.news/7188493",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:47:30.000Z",
-     "seen": "2026-11-21T07:56:02.214Z"
-    },
-    {
-     "title": "خالد العوضي يكشف سر تفوق الأهلي في كرة اليد ودور التكنولوجيا الحديثة",
-     "url": "https://www.elbalad.news/7188531",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:47:26.000Z",
-     "seen": "2026-11-21T07:56:02.214Z"
-    },
-    {
-     "title": "الكنيسة الأسقفية تنظم بازارها السنوى بمناسبة عيد الميلاد بالزمالك.. صور",
-     "url": "https://www.youm7.com/story/2026/11/21/الكنيسة-الأسقفية-تنظم-بازارها-السنوى-بمناسبة-عيد-الميلاد-بالزمالك-صور/7626616",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T07:46:00.000Z",
-     "seen": "2026-11-21T07:56:02.214Z"
-    },
-    {
-     "title": "إصابات في صفوف 7 فلسطينيين برصاص الاحتلال الإسرائيلي في غزة",
-     "url": "https://www.elbalad.news/7188527",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:37:37.000Z",
-     "seen": "2026-11-21T07:46:02.958Z"
-    },
-    {
      "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3Q1E0d1pNZ1lEM1pwZkxjcXVMeldVX0x4V0xWQnZjT0N2cWhtd3RzOFhmNzNKV0RmWG90TEl2LXQ4YlFzeGc?oc=5",
      "source": "القاهرة 24",
      "time": "2026-11-21T06:00:44.000Z",
      "seen": "2026-11-21T06:26:02.747Z"
+    },
+    {
+     "title": "الوهابية في مصر.. ساويرس يعلق على فيديو سابق لتوفيق عكاشة.. وهذا رأي ابن باز بالحركة وفكرها",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3VPRTNoQk40aS14N18tSHlFY0FrOW1VbWtzbk5EZy1GWW9pVlk2VjNZdXpFRGg1emc0QzhtMU1faXhsSXgyU0pBaXduc19XcXRZMXdpQ0NGT2JNUi1UOGxjM3RuSThSTjhvTlVfZjU2T2dKbjFFVkwtdXJGX3E1T05CSjVRYlVDalBCbWgxRXhLMmFnaE03Q2lDa1lFZVRUenhTdlhrR2lvVU9ON0FVdXZrNV9haDdXN2RUSzBn?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-21T04:59:34.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "تبدأ يوم خميس.. 3 أيام إجازة متتالية للموظفين والطلاب في هذا الموعد",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaGMtRzFPLTNQV052NThoaTd2T0xtWkNuRGh5eHA0bkdjT21yRnZ2dWc0Mm9JdHhhOFNMeHhuTzRQOTlSeXJXd2hyMTBjOU56SmxYcjY4WGRKZjdSTWxZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-21T00:59:00.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
     },
     {
      "title": "بعد الانخفاض الأخير.. سعر كيلو الفراخ البيضاء اليوم السبت 21-11-2026 بالأسواق وبورصة الدواجن الآن",
@@ -221,20 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-20T20:42:34.000Z",
      "seen": "2026-11-21T05:06:03.052Z"
-    },
-    {
-     "title": "بث مباشر.. الحلقة الثالثة من «دولة التلاوة» اليوم الجمعة وأسماء المتسابقين والقنوات الناقلة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SUkFxLXU4YWJyR2VVWDZFWjlYajdGMXd6NDBIS2F4VnlxWS1TemM2ZDBuR2NjSXNGVm5OSVhnOGJBNmI3QVB3OUkzM3E3UTJYTmVrcC1vTzhtREVWWlJR?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-20T18:54:00.000Z",
-     "seen": "2026-11-21T02:55:39.135Z"
-    },
-    {
-     "title": "مأساة مقتل الطفلة فريدة في مصر.. ماذا كشفت كاميرات المراقبة؟",
-     "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPOXFYWUZPVml6aTNKQUJyaXMteFd2TDBydDBFemJWTFZhaUotZ2Z0alRqOFpnTDZLTmpjaTIyVlVOc1pqWldiSWdLdUNJbVREcFZmTW9ORW93WHg5Mm9rYU1WYnpzQnROUWN4NU92ZHFXUXl6emFORDBnVEhEMThYZFVmTk93NE5sazlJY3dxcVdqRkZCSjU2RkZJZERrUHBSZWJHRTRlVkpUdUk5dnpNVUZnM2R3cWNRcEl6RFA4aEZhYmdFOV9ZV2pnTE5zMVJtZVc0LXJacWQtTnZSVVFiY2hzX2VmM1Q5WmJrWDFKcFk3dWVwQ3FLRkxKVHNMRkcyZGc3WmkzOHluNElFSjFsMThXbGR5Q0ZURkxqNW93RTl3T3liSlBHMTdvaXJMbXJJNU1tbU9LQ2lTTXRWeGhPRlJkSm9Kd0JYWVJKeDlVQzl3d2NFY0JXSVRMY08?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-20T17:43:22.000Z",
-     "seen": "2026-11-21T00:15:38.910Z"
     }
    ]
   },
@@ -242,6 +242,62 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "\"شلاتين\" تطرح مزايدة للتعدين الأهلي عن الذهب تشمل 10 مناطق في ديسمبر",
+     "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOaGtzalNtbDlaNEJCRENFMVd0OGFlU3lVMDhoYVFSS3RZa25PQzB4Z2hFRXpPLXY4eWRlMFRNWGFuNDlqenBINnlxUnJuWU5NZUMxcjdEVFVVc1hGazVLUVlYcnYtbFlpc28xLUllbDY4WWFETkE4TWxyQi1sR24xMHRmTDVVMXRVaUliVWRaS1lPYmxhLXZsbUFhTUNpV3ctX2wtMVhSd2g3M3ItR3dkczJwMUZEbWl4NmtMOXhoYjZUR0RDWUswLWI0LWhfOEJyTTNnU1V3cTdrVWoyNWdMb2VEWS1QSFBwUGVISDZZeEJZRXFwV1laN09yWnN3SHloTHB2Z3dDQzktS1p0ck1FVXMzbC1LcEVQbEVqUFlsUlgxc0d5UElMcEt0bjJjblVNMlU0NU9MbFY5N29oQkgybGZQUUltMVBrT0JTOXRzUktKRVN2a2NZaG5ZajVfcXdGd0NJZjdQZF9OVEdLZTdYS0JfY0s5Ylg4eDFUdC1feEFHMXNzOXRKTktCR1puTzg1QW5xcVh1bFlSZlFJUTc4VUx4TlAtN08wRU8xa0F3bXAteE1mZjNiWFgzNXZsSVBScFcw?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-21T08:04:06.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
+     "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T08:00:05.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "أسعار العملات الأجنبية اليوم السبت 21 نوفمبر 2026 في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jdXpUYW1lS09YYnVCY3hqWkxRZlFFMnV2NXBxMEZqMnZjdUZQVEZUTkV1dk4wMjFONzFyRVlXMWNBVWJuQzJv?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-21T08:00:00.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "سعر الريال السعودى أمام الجنيه اليوم السبت 21 -11-2026 في البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE93SjVCQXBQWGxoSzNnMjk3VV9ick9tMDRLSkhkWUNvR1dUbENONVRiXy1fMXNQQnJpX1FqRloyaXJJcXBx?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-21T07:57:37.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "سعر اليورو اليوم السبت 21 نوفمبر 2026 في البنوك مقابل الجنيه المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00MmJnemVqeXZtWXJ3cG5HUkMzd01Lb3pnLTJUeTNFT0ZOT0tSNXRURmFDWDBsNlM4cnd5U1JiVHlzX2hw?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-21T07:57:34.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في البنوك المصرية مقابل الجنيه",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE03elg3UFI0eUthQXB4YzQ1YWJvUS1DV0xOOVQxbHpnRUNpTUJPdUZhWHVoZGtCYnY1b0dldmdrYlFHcUk2?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-21T07:57:19.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "سعر الدولار في مصر اليوم السبت 21/11/2026",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FS0pYOVBRTkF5ZldhSVJsV3ZJWkNzcmpPTmVtdkJGM3g2RlVNSkRDQzFZVDd2R1lzbVVySmh1YXlFd2xNQk15WmxqbEJJbXpzNG5jaExn?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-21T07:56:09.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
+    {
+     "title": "سعر اليورو في مصر اليوم السبت 21/11/2026",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKMG45VzFZM1dkdlh0T3BvZ2NwMm9aenVKLWVaZFpWSDlrRnNYbUxkSzBDZFlNWFlPalpjY1gybXVLVlRyOWZWaGNodVBUZ091b2laMUVB?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-21T07:56:09.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
     {
      "title": "سعر صرف الدولار مقابل الجنيه في البنوك المصرية (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVMWxUaTBGVnNXZ3QxNnNSRzZJVWl5bGo0N2dRZk12am12Z3daZU9URzRqOF9Wck9DY0x0UGFIUzdRejE5blVn?oc=5",
@@ -286,65 +342,6 @@
      "source": "BBC عربي",
      "time": "2026-11-21T07:13:14.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "أسهم شركات الرقائق الأمريكية تتراجع بالختام.. وتخسر 17% في أسبوع",
-     "url": "https://alborsaanews.com/2026/11/21/2007821",
-     "source": "البورصة",
-     "time": "2026-11-21T07:10:22.000Z",
-     "seen": "2026-11-21T07:26:02.387Z"
-    },
-    {
-     "title": "سعر الدولار أمام الجنيه اليوم السبت21-11-2026.. آخر تحديث في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Oak5Kb1JNdEVBaExGbHZ4Zml0SWVaRGp2RVVGZE1hZ3RfSjZldTZtU0N4YjFtaE80cmhNYUlXMENyazA4aHMw?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:00:00.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 .. تحديث جديد في سي اي بي",
-     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPSVh5cjJsWTNtT1ZTcXBJSEd0Tko2NUo4dmRMZmJUdExBSGxlTnRFNjVMNUpfMmplLXRvN3VfVS01S0ZnZmxaM1NHRjNoY1owVlMtSjl0RnJzX2FTM0szQkhmMkJGOXBjQ19wdWVLc2FWOXhPRlN5ekFWMEtnZHBhZVJpV2JwY29wcFNtVkxGaFMwRV9CenR5TzF3OHMxYXNDS1lNVEl0M3IxbzBTZ1lwYldFYXgxM0YyT1pBRFlSNkxoZ3dHSUR6SXdGYjJMeVVjSnFyVGVYeXdPMU9QR1ZNYXdCT0tZS05HdzFpbnpXbWZlY3Nwb2Z6Uzk1X0dJUXFzemVOY1QzajBUMnpCZktKSW9SYmhSQXRpZTlETXhjd1lTMERDUTY0MTNFRW9WLUtPTWFpRjZDdWJOdUN5cHBsZGI2dWxFMHZQdngxenFINFFvc09Cd21DMlY4a0dtUU5JQXVrbGQyRWtqanVOSFJEVGVxS1lZWE03OG56czhrdWFxQWlPUEZGTUhVMDFnZzFiZTNxZ1liQdIBkgNBVV95cUxNcTZoZzJtQjVWenIwOGdYY1dBR1pYMW9wZUl6akdoNXlvVWloZGJmTy1LYlhEQlNLRVlJSnEydjVndlJPZlhKaGRndktUX2Z3V3FreG93WXJ5cW5kS0ZJZFBXbHZ6U0ZfMWEwc2pvN29VQlgyVTV6X1puTlRYLUplVnNMSGpqakxxN1o2cDlSTmZjWVZJVThseWdZd1U3dlhYZy1IczBzdU5oT0hTdlhVaVg2VWtPZUFaUk1LSzc0UkI4ejRzNkJiRjRPNFhWR1FHV1l0eW9Mekw0U0RTZ2lWbm1kTmtSaE1CVXlFSzBEN2xwODk3cFpmdUFYblZ0aUxnQmJkN0pGUFBraU1VT1l6dkxULXFsNEVmTE1ucnVvaTB6Znp3Uk96Q0tkaHZGNXZQTVFPdWtUVk14QU8xaFdVblBhZS1ILVJhZ0pkOWNieTVKY0NITVFFN3pzd0VKOWg1eU53WVhsLUdlQk9UVGVhTkswQlVwcXZjaDhpSkJYbnhaTHh3d082LUkwQ1FFV0FvSXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T06:00:00.000Z",
-     "seen": "2026-11-21T06:36:02.497Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Ka3p1Q1dzUDdXLVp4c0o3Rm83VEwxbk5tU0pmMGF0R0ZUMXZ3bGE3d011QmhwTThRRmo0QnJVZWRmM1Nm?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-21T05:40:00.000Z",
-     "seen": "2026-11-21T05:16:02.337Z",
-     "impact": "يسهم في مساعدة المستوردين والمستثمرين في مصر على متابعة استقرار أسعار صرف العملة الأمريكية في البنوك."
-    },
-    {
-     "title": "سعر الذهب اليوم السبت 21-11-2026.. موجة هبوط عالمية تضغط على السوق المصرى",
-     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxON1lIc2lpVDlTdkVBbk50cWhzeVBrdXlNaHo5Zm42cWl4bUlCU1ZVZFBjSWJKR3pTb0FZbHJlbWtpMmQ4bVdMcm1Tc0ZqX3M4V2hWcy12R3R5alRKUkFVc3EwWEJFRDNQb3BIbm11WjJlazZlVUVRVEdjNHR0SlZ6QkllcFRYZ3BhbEJkZWFlYTNJY05mWG9CUTkwZXF5X3RNVkRGcVNuaW5McEhuRmx0ZW84Zm5MRVB4VUpZYUpHMS1JREY5NWsyczlzLXBkNTNldU44MGZ2Z0Fua3dIMUtpRC1IdFpDTk9UdFpDcU90amsyUTZBai1ucjBvYlV5UE95S2Fvby1ibVBUUGtlUWxwck1xOUhKM0FXOE9VSjFwUGVwdGdwejBJSlQwUGRMTFdxbUc4N3JQZ2pMUWdKbW1vUGJqdDc2ZjliWWNCQl9UM0JoMFJ3MW9YZkZ3OFdBS1pybGdyNHQzcTdXb2pVRjVBTzJB0gHsAkFVX3lxTFBqa19HZDFWbXdxQ1ROYnhDTVBkaFFVOU5KLU5LekU4bURQMGFYVlgyNGQzb0pFSmw5NFdDWnV1WEM0MkgtWGkxVjZNa0pUZEt6LXVtSkdhZnhGaDEzNnduSDc5V2o2SXRKNmdFVmRWb0pCNm44NTFibGNpY3IxWGhHWmwxdnA3ekFBTTNLZmZmR1NnZFBUWGwtaXVWdThzdVRMNWs4Tjd3bEQwcEU4UzdGRDJwSVdZWWIwTHNDUksxYXY2aEhLS1BhTEEyYUFHU1p2WnRZbDdaYmRyLWNHVXJONm5fU1hYa1I3YkZSVV9UVHZ0UDduRHQtNnJWRGFwWVp3US1HT0NXcERRMnJQdnE0RThPTDFySW9oMnlLQlM2aHMzUWh1cFgwUEFVLWJtRDRycW55TXY3eFM1TWg1SjJYeVVtWTlONHJEMk4zRjg2SnlIRGtTYXNPLVdMckNmTEszeG55WWFXTkhmZkY?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T05:00:00.000Z",
-     "seen": "2026-11-21T05:56:03.145Z",
-     "impact": "موجة الهبوط العالمي لأسعار الذهب تؤثر مباشرة على قيمة المشغولات والسبائك للمدخرين والمستثمرين في السوق المصري."
-    },
-    {
-     "title": "سعر الدولار في مصر اليوم السبت .. آخر تحديث الآن",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjdXl6T08wVWJvSHVQMzhIbnhUNUMtN1dib0dLM2JLZ3RWWElwMnFwRDI3R3NNejlpRlFsMjh5M0trUVI5c3o4?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-21T04:00:00.000Z",
-     "seen": "2026-11-21T04:05:39.165Z",
-     "impact": "يوفر للمواطنين والمتعاملين تحديثات فورية لمعرفة سعر صرف الدولار في الأسواق المحلية."
-    },
-    {
-     "title": "شركة أصابت الآلاف بالسرطان.. كم ستدفع تعويضا لهم؟",
-     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPb05NdXRMcFVlN05KWmlxdW02WnhJVGd2YWEyWlh4ejIyai1UWkFzOTNBZVF3UkNoRG92dGNDSmpwZFdOa0htRVVkb054TFdqTUUxaFgyOUNvenNPemc3NmNTTkVETkVySURyZ0xhbE82WlZpT3c2ODBTQUFvWEl0QkxQUlptb0tHVGpSX0k2dGtLR282Qm9TcjRDbXcybEhlY1ZBbGt1QllRXzNwR25FVlJlUXVjVm5rS0wtUHUtcXZCc1pRX3ZVZWtKdDNEbS15eHp1RzM0SDZLTzRHRGpfY1BIQjlDRWZoTThpM0thMlNyLVlmSGdobWw0eGh0VGhxQWVpUzRhcWtBTnZwb2xDQ3k3eDBOdVNYSTVIdVRsT2dVMUx2UnJ4elFFUGVQa0swZDFhd1JXbU5CblZqSnNldUNrM1RpM1lycm0zeGZSVG5nVWI5RndlTHdQUkQ2Zk9TREVTMlZiRks4MEZvM0ZrQ0UwSGhXcUpNOWVDWFJLdlRpMlFrWkxzVXEwRDfSAZIDQVVfeXFMUDFwZXg3djRRNHY4ajdWSFlCVDE2d3NiRHh3V1BZWENQY3lEbzFDYk1MZnl2dk83d1BCVks1cUxucFBKZ3BGblltdk5URGJ2TjlKYjFPRXozUEFFY0dOeGN6cVgzY1lSTDd4NXZKNHNuRkZVdV92bjk3TFpVZGtrSzFBdjZRQ3A2SW1zeDlKbF9EVEZoUWU2aUtNSTZpV01OT1F2ZnpSWHBPb2dYMU9xN056T3ljRUxURUlmTXRfM0RBUzhaYWVHcGwxcWoxQ3hIdXJqZkRmZm1VdnFFUE84bHRibC0yREZwcFRhbkhQSGlJWW5Ma1Y1R0pXZF9MMi1vSGtSRjRsUWJ4c2tDLVduaFczTVNidmdoNkdZSlVLUU5KU3hJZUdDRUFIY0ZncUlMR080dy1wb1pnRjVXZ3pzRGp6VGFBRHp0TnU0NWRvdVlSLVFVWlhabDEwQV90QWFqc1VGckxvd1FtQlJCcGtMLWZ0WlhCZ3IzcnpWVFVVQ0NZZ2s3UDIxQ0VjRnNMSWY2cDR3?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T03:01:51.000Z",
-     "seen": "2026-11-21T05:06:03.052Z"
-    },
-    {
-     "title": "ما أسباب انزعاج البعض من تصفيق الركاب عند هبوط الطائرة؟",
-     "url": "https://www.bbc.com/arabic/articles/c9rkgnpy36xxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T02:56:32.000Z",
-     "seen": "2026-11-21T03:05:38.527Z"
     }
    ]
   },
@@ -352,6 +349,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "هيئة بحرية: إصابة ناقلة بمقذوف مجهول قرب خصب العمانية",
+     "url": "https://www.skynewsarabia.com/middle-east/1906181-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%A8%D9%85%D9%82%D8%B0%D9%88%D9%81-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%82%D8%B1%D8%A8-%D8%AE%D8%B5%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T08:00:51.000Z",
+     "seen": "2026-11-21T08:06:02.605Z"
+    },
     {
      "title": "الأمم المتحدة: بعد محادثات شاقة...اتفاق حول فرض قواعد دولية بشأن \"الروبوتات القاتلة\"",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261121-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B4%D8%A7%D9%82%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AD%D9%88%D9%84-%D9%81%D8%B1%D8%B6-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84%D8%A9",
@@ -431,13 +435,6 @@
      "seen": "2026-11-21T05:36:03.155Z"
     },
     {
-     "title": "\"الحقنة القاتلة\" تتسبب بآلام مبرحة لمدان أثناء عملية إعدامه",
-     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPcUc3cnNjT2d1YnN2QXhWN3R0LVo3WFpXbEpnU0cxYlI2MVNEX0ItM091VnRxc2NQbDFQbklUU0JhdFNxZlNlNm5BUkRURU80VjhtMlVkZEZaSlRVNmEzcU5hLUVIb3FBV1dqQTgxWVdFS0tYVDVvODNySEZPdGhKQi12Qlk1TXZFYzh2R3B4eTJkYTdPNEljNER0MlZmMDBZcUJ5bVVuXzZMTHJhaWpwNC13S0N5cDRQWVk5dE5LSnFEclRHM3ByeU1PMk9ScUQ1YWwtdk90WHZueUJvcUljYktvNVRkSTZya0JIa01qd01jalJmQWlBQVV5WHFjXzhDbGhGVS1fS0t5dFg2bm82My1wR3JSelFCUE5ITFlKTnN5ZHBpUElUTG5YTzJxbWQyeUw2UDVSSDlGRTlJNGI3Z1FCQnROSnhPb0VUQUFmRVhYRzU3d1VicHRxOWJVbWFjcDU2UGpoRWZQNXJiczdYNHJTWkNhUUw0MU9OQUNBTzM1dUhQbTJ6Smg3bmZocmtOclNfb3prYlZiN1BDeU9ZdzlxZ1daRE9FVjFYUnVhajVCdG9VR0hteUwyLUdLVjVlNkx0cWNsQzNGZGlKbzNuNEJmWmhVcWNMMlUxUmFHOS1NMlZJTXZiUGhKXzdzMHfSAfQDQVVfeXFMTktrOXNCTlJHbl9xQWVSWjBCaXBKNE9OQWxKLVJGQTg1eWc3NDBUX1BJMlJNU0M1WWwtSGp3RUhfdDNBLVI3SEZzcjViRS0xU2o0YlVIZ0ZkRmF5dmVxazJvSE55WFpCN1NCcE84Z1EwTkNockwtM3RvUVRCLWpsY2EtUG80UVYtUWV6dGNCQ1ZPU2tYcmtmcHRhQXJDT2VoQTMyblYxeVBIMXJOT1pOS3BmYkpHRU90RE0zYXRlZjRkVWhVLV9UM1lqX1ZUcEdnMnZJR0JnX05MUi1IWDc5T3VoNnVyN3RLelJoY2NsX3dYS0NBLVVNaUNNMHR1N2NreVhyWDNoR3g2OC1jcGtjbTYtZUdDRkNXUVF6MHNBLWFPZmhVbzh6amJQRkhHdm5Ua0VUcTlaRjRKSjg4Y3ZoR1ozR0ZiYW40Z2lFaHVVVDRSNHNyR2RrekFaQmo4TGswaHMyc2JjOWZ1cFFYY09aNUpjaUVJZUdKUHBHS056em9fMmhmUkFpZVcxb3UwOFpCa1BiaEQzYl8yRVZyVUtBNmExOTEwMVh4RzJFR0lGNXVuVG1pb09taC10cDd4NzNIWTZCS3QzVVVKeGRKel9zLXJrcklPTGFrLXJHSUNsN284d3I4aTBrOElnUmlkMS1iMGtiWlU?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T05:15:00.000Z",
-     "seen": "2026-11-21T07:46:02.958Z"
-    },
-    {
      "title": "ضغوط أميركية وإسرائيلية على ترامب لاستئناف حرب إيران",
      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQcks4aTZYS3dVS2VGZlJPU0ZqVnJ6bG82Q0ZJS0VmVkxNc2FWOUFGckFfM2h4VEw3ekw4RDNsdUxTVkJkcG1QRVdtVFljcHZRWHB6R0U5MDA0UG1RQXFkWHlEcUptRTJqY1Y0Nlp6T3FxemVoUzdDakJGeUw1N1RTQ3pkVVlPWVdabG1uazY3Yzg4TnZOSjhzT2NBdWlHNzVwQ1hUNDNjT05MMVFGUGlRc3Y4RWF4cDE4Q3F2azZQOWZKR2p3ZW9aaTJWckUtQkcySVdUVFBsUl9rQUZEQ0Q1OU12UGtFUzIwUFNURUZUN1gwVUFOb2R5UjhJNUFnQUpNQkRzQlFNVzV2YmV2VFJiR1laRTlpbmNCc1J3MzRDMjNQMktJX2wxZmFQOXVqbHFSMFJ0Nk5UdTN4dEhjZnR2RDVMLWNqUXRnVTZBZDl6bHRSV05KTlVWUXI2cHhFbFFjMVp3LUtmX1dveEl0OElCalFHQ0JWdnNXeHFMR0FFd2xXbVFMRk5KNTltLWtzMVRpeXNPRlpQNFk4OHpIUDFwMG1veXVEaHVtZWtGZnl1NFYzdEdtbnJibUJzRlAtbS1CcG42NS1UeDc1QTRvckwySEZWaXc3OU1TeU5VN3lxMVVYamdvUk9xTUpNTnVYcERCZkZB0gH4A0FVX3lxTFBPazQ5dGVYQ0U2SzVGV2hwQmRxSW1aeTlycHBBbV9rci15ZWRaY1NoYmVvbllmdnpzNGlmU2Y4cGp1bFpQd2YxMDZVaF9IcjdFMmVkaXYyS19SN1BydTdRbU56NDAtRTlXTldwb3RZenNKYlBVNDNmeFJDLWdYek9xZktTanF2Z0E1MTV5eHhDYVFfYjlzLUpCVWJFRWJLUUMxZGk3THlwaXdaVUN6ZnJBbUVyU1dlWGNwMS03djRTc05jWDZQQ1NrbTdydkNUSVhLaUV6aTlQU3c3dmNFXy1vX3JqWnFHcGs4ZXdtM3lZdEI2TXI4ZlpfdVk4QUttZkhlbEhGYlRjTmZvQm0tTGV5TzJVN0VPXzRibk82S0x3b0ZhTmwwcXFXOENfNTZqeEVZX0VMbVlDeHh4VzUtbGNFY3JPSlJKUi1UVGhqUkRsLUVfS0duNG8waUd5ZjVCaE5LazhaU0ZQSjF0UEFUVklra1lYVjZVUnFPbFE3S0JJSnh3TTgtS29RVlFIU0dXZHFHdVNOMVlHUlVMYkZtc3B3Wkg4aGFmN28weHpfbHB2Q3FOSFJBeXdHSGdlenNVRVJCNW5zMXotZzFlN01EZzFGdllubnJTcGlydkxfSUprYldGd0VQM0lvZjNIS28xNldGZ3BJOVVOUw?oc=5",
      "source": "العربية",
@@ -494,6 +491,13 @@
      "time": "2026-11-21T03:19:41.000Z",
      "seen": "2026-11-21T03:55:38.857Z",
      "impact": "تؤكد الاختراقات الإلكترونية أهمية استثمار الشركات والأفراد في حماية بياناتهم وأنظمتهم الرقمية."
+    },
+    {
+     "title": "ما أسباب انزعاج البعض من تصفيق الركاب عند هبوط الطائرة؟",
+     "url": "https://www.bbc.com/arabic/articles/c9rkgnpy36xxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T02:56:32.000Z",
+     "seen": "2026-11-21T03:05:38.527Z"
     },
     {
      "title": "مبيعات GTA 6 تبلغ 3.8 مليارات دولار في يوم واحد",
@@ -555,13 +559,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-20T19:29:35.000Z",
      "seen": "2026-11-20T21:15:26.278Z"
-    },
-    {
-     "title": "العراق ينهي حالة الإنذار القصوى وينشر قواته في جرف الصخر، والزيدي يؤكد: \"لا سلاح خارج سلطة الدولة\"",
-     "url": "https://www.bbc.com/arabic/articles/cwe9k84nz1geo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T19:23:32.000Z",
-     "seen": "2026-11-20T12:03:09.523Z"
     }
    ]
   }
