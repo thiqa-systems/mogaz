@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:06:02.381Z",
+ "updated": "2026-11-21T06:16:02.229Z",
  "minute": [
   "تشهد البنوك المصرية استقراراً في سعر صرف الدولار الأمريكي خلال التعاملات.",
   "تراجع مؤشر ناسداك العالمي بأكثر من 4% في أسوأ أسبوع له منذ عام 2020 وسط مخاوف تتعلق بالذكاء الاصطناعي والرقائق.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T06:06:02.381Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T06:16:02.229Z"
  },
  "markets": [
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 55700,
-   "change": -10.02,
-   "asOf": "2026-11-21T06:07:16.000Z",
+   "value": 55298,
+   "change": -10.67,
+   "asOf": "2026-11-21T06:16:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "مليونا بطاقة للمسنين وصندوق نفقات بـ5 آلاف جنيه شهريا.. ملامح خطة الحكومة لتطوير الحماية الاجتماعية حتى 2030",
+     "url": "https://www.elbalad.news/7188365",
+     "source": "صدى البلد",
+     "time": "2026-11-21T06:10:00.000Z",
+     "seen": "2026-11-21T06:16:02.229Z"
+    },
+    {
+     "title": "قوات التحالف: اعتراض وتدمير 3 صواريخ ومسيرة تجاه الرياض والمنطقة الجنوبية",
+     "url": "https://www.youm7.com/story/2026/11/21/قوات-التحالف-اعتراض-وتدمير-3-صواريخ-ومسيرة-تجاه-الرياض-والمنطقة/7626546",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T06:08:00.000Z",
+     "seen": "2026-11-21T06:16:02.229Z"
+    },
+    {
+     "title": "غادة عادل : بحب الجمهور السعودي ومسرحيات موسم الرياض",
+     "url": "https://www.elbalad.news/7188470",
+     "source": "صدى البلد",
+     "time": "2026-11-21T06:07:29.000Z",
+     "seen": "2026-11-21T06:16:02.229Z"
+    },
+    {
      "title": "إبراهيم سعيد يعلّق على تفوق صلاح على ميسي: «بطولاته صفر مع المنتخب»",
      "url": "https://www.elbalad.news/7188469",
      "source": "صدى البلد",
@@ -159,28 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T06:00:00.000Z",
      "seen": "2026-11-21T06:06:02.381Z"
-    },
-    {
-     "title": "سورة تصلح بين الزوجين.. أوصى النبي بقراءتها لمنع خراب البيوت",
-     "url": "https://www.elbalad.news/7188467",
-     "source": "صدى البلد",
-     "time": "2026-11-21T06:00:00.000Z",
-     "seen": "2026-11-21T06:06:02.381Z"
-    },
-    {
-     "title": "غادة عادل تكشف كواليس «عروس وعريسة» وتوجه رسالة للجمهور السعودي",
-     "url": "https://www.elbalad.news/7188466",
-     "source": "صدى البلد",
-     "time": "2026-11-21T06:00:00.000Z",
-     "seen": "2026-11-21T06:06:02.381Z"
-    },
-    {
-     "title": "موعد صرف معاش تكافل وكرامة لشهر ديسمبر 2026 وخطوات الاستعلام",
-     "url": "https://www.youm7.com/story/2026/11/21/موعد-صرف-معاش-تكافل-وكرامة-لشهر-ديسمبر-2026-وخطوات-الاستعلام/7624745",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T05:00:00.000Z",
-     "seen": "2026-11-21T05:06:03.052Z",
-     "impact": "يسهل على الفئات المستفيدة في مصر معرفة خطوات الاستعلام وموعد صرف الدعم النقدي الخاص بمعاش تكافل وكرامة."
     },
     {
      "title": "بعد الانخفاض الأخير.. سعر كيلو الفراخ البيضاء اليوم السبت 21-11-2026 بالأسواق وبورصة الدواجن الآن",
@@ -245,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026.. استقرار في البنوك المصرية عند 53.87 جنيه",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DbUd2NWNOSHVZbHNwNzBxeVkxeDN5a01BZkI2SU5QeFBqbkJ2UEU5YWk4QWFwZkw1SVByVkZ4SExPTk5BbTJVX1dJZFlldDNSNGxoWUFKLW5rR1o4Y1dv?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-21T06:05:00.000Z",
+     "seen": "2026-11-21T06:16:02.229Z"
+    },
+    {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Ka3p1Q1dzUDdXLVp4c0o3Rm83VEwxbk5tU0pmMGF0R0ZUMXZ3bGE3d011QmhwTThRRmo0QnJVZWRmM1Nm?oc=5",
      "source": "جريدة الدستور",
@@ -266,6 +272,13 @@
      "time": "2026-11-21T04:00:00.000Z",
      "seen": "2026-11-21T04:05:39.165Z",
      "impact": "يوفر للمواطنين والمتعاملين تحديثات فورية لمعرفة سعر صرف الدولار في الأسواق المحلية."
+    },
+    {
+     "title": "شركة أصابت الآلاف بالسرطان.. كم ستدفع تعويضا لهم؟",
+     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPb05NdXRMcFVlN05KWmlxdW02WnhJVGd2YWEyWlh4ejIyai1UWkFzOTNBZVF3UkNoRG92dGNDSmpwZFdOa0htRVVkb054TFdqTUUxaFgyOUNvenNPemc3NmNTTkVETkVySURyZ0xhbE82WlZpT3c2ODBTQUFvWEl0QkxQUlptb0tHVGpSX0k2dGtLR282Qm9TcjRDbXcybEhlY1ZBbGt1QllRXzNwR25FVlJlUXVjVm5rS0wtUHUtcXZCc1pRX3ZVZWtKdDNEbS15eHp1RzM0SDZLTzRHRGpfY1BIQjlDRWZoTThpM0thMlNyLVlmSGdobWw0eGh0VGhxQWVpUzRhcWtBTnZwb2xDQ3k3eDBOdVNYSTVIdVRsT2dVMUx2UnJ4elFFUGVQa0swZDFhd1JXbU5CblZqSnNldUNrM1RpM1lycm0zeGZSVG5nVWI5RndlTHdQUkQ2Zk9TREVTMlZiRks4MEZvM0ZrQ0UwSGhXcUpNOWVDWFJLdlRpMlFrWkxzVXEwRDfSAZIDQVVfeXFMUDFwZXg3djRRNHY4ajdWSFlCVDE2d3NiRHh3V1BZWENQY3lEbzFDYk1MZnl2dk83d1BCVks1cUxucFBKZ3BGblltdk5URGJ2TjlKYjFPRXozUEFFY0dOeGN6cVgzY1lSTDd4NXZKNHNuRkZVdV92bjk3TFpVZGtrSzFBdjZRQ3A2SW1zeDlKbF9EVEZoUWU2aUtNSTZpV01OT1F2ZnpSWHBPb2dYMU9xN056T3ljRUxURUlmTXRfM0RBUzhaYWVHcGwxcWoxQ3hIdXJqZkRmZm1VdnFFUE84bHRibC0yREZwcFRhbkhQSGlJWW5Ma1Y1R0pXZF9MMi1vSGtSRjRsUWJ4c2tDLVduaFczTVNidmdoNkdZSlVLUU5KU3hJZUdDRUFIY0ZncUlMR080dy1wb1pnRjVXZ3pzRGp6VGFBRHp0TnU0NWRvdVlSLVFVWlhabDEwQV90QWFqc1VGckxvd1FtQlJCcGtMLWZ0WlhCZ3IzcnpWVFVVQ0NZZ2s3UDIxQ0VjRnNMSWY2cDR3?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T03:31:12.000Z",
+     "seen": "2026-11-21T05:06:03.052Z"
     },
     {
      "title": "ما أسباب انزعاج البعض من تصفيق الركاب عند هبوط الطائرة؟",
@@ -337,20 +350,6 @@
      "time": "2026-11-20T22:59:04.000Z",
      "seen": "2026-11-20T23:15:25.902Z",
      "impact": "يهم المستثمرين في قطاع الاتصالات المصري لمتابعة احتمالات تأثير القرارات الأمريكية على جذب مراكز البيانات للمنطقة."
-    },
-    {
-     "title": "سعر الريال السعودي اليوم الجمعة 20 نوفمبر 2026 في البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00RC1TN3ZVcklqd3VacWZhcGxvOHdTNm1sMlJ6NnRtZ2ttX2V6S3ZsSjUyRDlhS3ZMTzZHejZxTHdNZmJO?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-20T22:30:45.000Z",
-     "seen": "2026-11-21T00:45:39.148Z"
-    },
-    {
-     "title": "«لو وصل 39 أو 40 هنزل اشتري».. عمرو أديب يكشف السعر الذي ينتظره في سوق الذهب",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JdFJuM3VFRkx4a2dkMXVSN05xQXB6VzhWdlF2VTBWUVY0Ym96OWN5UnZ2MTB2dnhEdEtDaEplZUMyeGdTN0J3bmgxQ0Zhb2dtdFdUanJpZ0U2azlhU0FN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-20T22:18:00.000Z",
-     "seen": "2026-11-21T05:46:03.077Z"
     }
    ]
   },
@@ -358,6 +357,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "سفير إسرائيل بواشنطن يرد على عراقجي بعد إثارة الأخير جدل \"من يقود الجيش الأمريكي؟\"",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/israel-ambassador-yechiel-leiter-response-iran-abbas-araghchi-us-army-leader",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T06:11:44.000Z",
+     "seen": "2026-11-21T06:16:02.229Z"
+    },
     {
      "title": "في \"بلاك فرايداي\".. لا تدع حمى التخفيضات تحرق محفظتك",
      "url": "https://www.dw.com/ar/في-بلاك-فرايداي-لا-تدع-حمى-التخفيضات-تحرق-محفظتك/a-80002466?maca=ara-rss-ar-all-1125-rdf",
@@ -394,21 +400,6 @@
      "seen": "2026-11-21T05:06:03.052Z"
     },
     {
-     "title": "ترامب يربط أسعار البنزين بالتوصل إلى تسوية مع إيران",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/21/v205689-trump-says-iran-is-bullshtting-on-effort-to-end-war",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T04:10:46.000Z",
-     "seen": "2026-11-21T04:25:38.354Z",
-     "impact": "يهم المتابعين لأسواق النفط والطاقة حيث تربط التصريحات بين أسعار البنزين والتسوية مع إيران."
-    },
-    {
-     "title": "شركة أصابت الآلاف بالسرطان.. كم ستدفع تعويضا لهم؟",
-     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPb05NdXRMcFVlN05KWmlxdW02WnhJVGd2YWEyWlh4ejIyai1UWkFzOTNBZVF3UkNoRG92dGNDSmpwZFdOa0htRVVkb054TFdqTUUxaFgyOUNvenNPemc3NmNTTkVETkVySURyZ0xhbE82WlZpT3c2ODBTQUFvWEl0QkxQUlptb0tHVGpSX0k2dGtLR282Qm9TcjRDbXcybEhlY1ZBbGt1QllRXzNwR25FVlJlUXVjVm5rS0wtUHUtcXZCc1pRX3ZVZWtKdDNEbS15eHp1RzM0SDZLTzRHRGpfY1BIQjlDRWZoTThpM0thMlNyLVlmSGdobWw0eGh0VGhxQWVpUzRhcWtBTnZwb2xDQ3k3eDBOdVNYSTVIdVRsT2dVMUx2UnJ4elFFUGVQa0swZDFhd1JXbU5CblZqSnNldUNrM1RpM1lycm0zeGZSVG5nVWI5RndlTHdQUkQ2Zk9TREVTMlZiRks4MEZvM0ZrQ0UwSGhXcUpNOWVDWFJLdlRpMlFrWkxzVXEwRDfSAZIDQVVfeXFMUDFwZXg3djRRNHY4ajdWSFlCVDE2d3NiRHh3V1BZWENQY3lEbzFDYk1MZnl2dk83d1BCVks1cUxucFBKZ3BGblltdk5URGJ2TjlKYjFPRXozUEFFY0dOeGN6cVgzY1lSTDd4NXZKNHNuRkZVdV92bjk3TFpVZGtrSzFBdjZRQ3A2SW1zeDlKbF9EVEZoUWU2aUtNSTZpV01OT1F2ZnpSWHBPb2dYMU9xN056T3ljRUxURUlmTXRfM0RBUzhaYWVHcGwxcWoxQ3hIdXJqZkRmZm1VdnFFUE84bHRibC0yREZwcFRhbkhQSGlJWW5Ma1Y1R0pXZF9MMi1vSGtSRjRsUWJ4c2tDLVduaFczTVNidmdoNkdZSlVLUU5KU3hJZUdDRUFIY0ZncUlMR080dy1wb1pnRjVXZ3pzRGp6VGFBRHp0TnU0NWRvdVlSLVFVWlhabDEwQV90QWFqc1VGckxvd1FtQlJCcGtMLWZ0WlhCZ3IzcnpWVFVVQ0NZZ2s3UDIxQ0VjRnNMSWY2cDR3?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T03:31:12.000Z",
-     "seen": "2026-11-21T05:06:03.052Z"
-    },
-    {
      "title": "بالتفصيل.. اختراق إلكتروني جديد يهز الـ\"إف بي آي\"",
      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPLVNSV2xSdC1BMUR2ZFQ5MlplcTktLU1ObUxzOFlsRjctdEhyeW51RXZzNm5hUk1ILUlWdGt3OFQ4X1dVdGJENHVwWS1KTkJMTzV0MUtqOVpHMnluVUxtZ3Bza3ZZQVhzWGthZlQyX1BlUU5ycU1YTmcwRXpJeU9qNFM5X2ZHZmVFQmJwVzE3X0FwdFlRU0lYTFd0aTU4WlVWY1BIZmxjY0xmMHgxdUVmVTBFaWRNNjJ4YjlWX0NxSFNfVXRUdFh2OHdmSVFIYTdfd1VZVU5iT0syd21KbGlfUHc4TVJCWW5HX3JPUG45QlpxV2NMcWlJRHBLYjZpZFJyVWljdDc3TngzXzJTanMzSi1QdGpoTW0tc21DNDRGTm90bmZNRG16Rk1uSExQdDBzeDYyd3V5LUZVQm1GcTR4ZDA1b3o3ZFJ5cmxnelZWampMNjNvM0l0dzUwbnFMLTVpNktiV0FMUTAwNnluY1pYd1Z3NGwtRDlJ0gH-AkFVX3lxTFBXaHhpN013NFlRR0ZWSmFFa0VlMXRueFBlT3N1eGhqa3FKZ3hwYVllU01kUnpIa2FxUDViSnFzeVJjM3M1LUlQUXZPX0twTkhNUTBPY0t6NnM0UVVEVEQxamVseS1ob0JEMFpmNG40YWZzUGZCdEp1anNDd0RLMU0yTHRhdEthYTBfcWEwcm9kZjNPbXo0WmZLTGdRR1hvOTduTDlyQlU2MlNqdExHVTJIbnhqYXpud2NiVEVGdTVGeVFYUkdJOUlmOGptT0xHU2UtWTZXS2wwOHNMd1B6YkNfVUQzekctSzZKVVM2S0QzbHBvYVQtMk5pd0VNb1lXaTBON1VCS1dBWDVHVE1uX19EYl9vWHBFa3dvbUJ2THhwbHFIa1YycGFMNVhQT0lyTmh3Ym9ldlVmSHRobTZDdGZjdmxBTkJHTTBFazlSbGRwSmY5ZW96OEVZV2xQZ3B0UGJsRm5rQjlCb21QcFJSWTRDZVNKclZhTmd2ZFU2SGc?oc=5",
      "source": "سكاي نيوز عربية",
@@ -435,6 +426,13 @@
      "source": "الجزيرة",
      "time": "2026-11-21T01:55:35.000Z",
      "seen": "2026-11-21T05:16:02.337Z"
+    },
+    {
+     "title": "لقاء أميركي قطري في برلين لمناقشة إنهاء حرب إيران",
+     "url": "https://www.skynewsarabia.com/middle-east/1906155-%D9%84%D9%82%D8%A7%D8%A1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%82%D8%B7%D8%B1%D9%8A-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T00:33:44.000Z",
+     "seen": "2026-11-21T06:16:02.229Z"
     },
     {
      "title": "التحالف يشن غارات في اليمن والحوثيون يردون بهجوم في السعودية",
