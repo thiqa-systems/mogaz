@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:01:38.132Z",
+ "updated": "2026-11-21T23:11:38.197Z",
  "minute": [
   "أشاد صندوق النقد الدولي بأداء السياسة النقدية وقوة القطاع المصرفي المصري، بالتزامن مع ثبات سعر صرف الدولار مقابل الجنيه.",
   "حددت وزارة الصحة في مصر الفئات الأكثر احتياجاً لقاح الإنفلونزا، مع تسجيل درجة حرارة صغرى بالقاهرة تبلغ 17 درجة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-21T22:51:37.552Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T23:11:38.197Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60009,
-   "change": 2.06,
-   "asOf": "2026-11-21T23:01:38.000Z",
+   "value": 60165,
+   "change": 2.32,
+   "asOf": "2026-11-21T23:11:35.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -181,6 +183,13 @@
      "impact": "يساعد تحديد الفئات الأكثر احتياجاً للقاح الإنفلونزا الأفراد في مصر على اتخاذ قرارات وقائية لحماية صحتهم."
     },
     {
+     "title": "باحث: اتساع نطاق انتشار «الإخوان» يفرض ضرورة فهم طبيعة الشبكات والروابط بين عناصرها",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIemVfVWh2MTZCY1pXY295X1RmS2owT1hGbHlINlAyWkxVRktKRlkySktfeFB2UGVpWWpCSkZFTUI0MFIw?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-21T21:20:01.000Z",
+     "seen": "2026-11-21T23:11:38.197Z"
+    },
+    {
      "title": "أزمة اللاعب محمد الشناوي تتجدد.. فتاة تكشف تفاصيل زواج عرفي",
      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNeThoODZBVVJLcndRUUtvNkhCQ0lzN1QyczItM2U0LUE1WndQbWozMk1SQWxKX3VNVGdDYVlDcnFPaTVCaVBmdWxPYWZDWnc2LThnTkZUTmpHeFo4V2k5RUVnRDd6bGdkSUViMU9CdjZGOUNoeGk1RWNnR2s0S1hBZXg0Q2theHNFQlJCSXJsSmJTMnBJdjBoWTBmRklEM0RDaE5ieTdUT1FIME9ZMnlRdndTSXBkUDd6N2JfdVpoZUxQOTlDSTZqZURJcjF5WkNJZHdhTVNBNW1BeldRbnl1SnlCZnVUaGRwT0pNblo5bjVZdms0SXgwTEFoaUhpQkRxanZvSkxGREwyQ3N4Z3Rqdm1ISXVjeEkwWVhDS3p5b2tkOG1kRms5U2lUb2k4eDJuWW9fTHk3ZDRxMl9xWHF6ZHpoSS00REdvcEs2ZzFpc2VLaXp4X1dSQWIxaW1rRzN2S3g5RUlVdjFSWS1BT2o5OWRXbHBBdUN5bVN6TXVfaEl5QXhNcTZONkU2WlVJQ0ZBX3ZYenh4R3ZTSXNlWXllZmtsOHVzTWZ3RkpYemxaYmhXWjlrSi1mZVVUNUxYTFRDRDhQa0FlN0FibU5wMEFIQUtYTEt5dU1zU2ExbHgtdVJubGJMVDNGelVyRTB4d2M5a1BBRFVCaW9rUXBzMVh1WTJTZjFJZ2hLWWdkVm5YNHJaSmRPQUpMcXdWZ0dHNFctM19oMGM3ZHJsNzZEY2V30gG0BEFVX3lxTE1PY1A5WTZWS0lZRmFVbXp5NXR3d2l5Z24zV2Q5LVZ3d0tiVW13dWh3THFIejBuT25UaGpmYXozYUtjc19OSnRvLTdJcHNiWjVqdnowUTZDcjM0Z3ZtSExpR09ieC02eUEtcXBINmY0WVFJMVQxdFpwRE1rU3NmMGs0eHFqMWJGUU1PeFVJdlpIS3Y1dEZrQW9peWV0SEl0a2JQNVJwZkxPQ1V2eWFSRWwtWHVzTkxrVW1WZERXNVlub1pyVFVXVThia3gxUkZiY01LT21JM0hpUkpBaEVlTVJEclhqYzhYTTFBMXRJLWNsWjFvOXpPcTY5VlZLb2dUTmZ3Q2ZwME93OHhhZTNVdElPMmtIUUJnYi0zMnBaWXdFaGgydnpFYllqek9fZFFXczFEY20yWThibmxuNTZ6d2I5Qk5vc3dMZ2JCZFFjekhLS3ZFZW9BMkZ4cmFIb1NGcXUwTVJmbFp6bnktclpERUZrVjE5YmFTWDZBekdYdmFwdy1PRlR5Y3VYTkw5SUtqYTRpQkJNMS1iTUNUYURvYkVxNWFpQWJ1VXBMbGRzeWVmRENXQ3dMczFyM01CZkY5QlZuUkZsYlhjZEVjWXNRWm11TjY0MFZjOEprWFpSTDB1YmhFMUNnRmZ1STh1R2NWdEVOREQxd3hHSHVyZVNEa0dSVUhiM3YyM3ZQeU8tajdZRUI0REttUlpCRmZYZmlJTG1fRDI3WGRGeERuSnNPbEZGcUtiOA?oc=5",
      "source": "العربية",
@@ -228,13 +237,6 @@
      "source": "Masrawy",
      "time": "2026-11-21T13:09:35.000Z",
      "seen": "2026-11-21T16:41:10.240Z"
-    },
-    {
-     "title": "أنقذ 5 أسر من التشرد دون مقابل.. مهندس مصري يكشف كواليس استعدال عقار الدقهلية المائل",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZR3V2cWRHTURFb3F2WmxJSFRBcFFsTXVMclo4dVRwa196cnQ0aXpUSFUwTUJRcmhfYzhaM2lYQnZGa2VDQ0ZiWkdhNWFFcXVpUXJJWklyazFNRE9kQ2U0?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-21T12:25:00.000Z",
-     "seen": "2026-11-21T17:21:10.141Z"
     }
    ]
   },
@@ -395,6 +397,13 @@
      "impact": "قد تؤثر اضطرابات حركة ناقلات النفط في مضيق هرمز على أسعار الطاقة وتكاليف الاستيراد والشحن بالنسبة للمستثمرين في مصر."
     },
     {
+     "title": "صوت غريب يسمعه سكان منطقة \"أبو دباب\" المصرية.. ما علاقته بإثيوبيا؟",
+     "url": "https://www.aljazeera.net/science/2026/11/22/%d8%b5%d9%88%d8%aa-%d8%ba%d8%b1%d9%8a%d8%a8-%d9%8a%d8%b3%d9%85%d8%b9%d9%87-%d8%b3%d9%83%d8%a7%d9%86-%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d8%a3%d8%a8%d9%88-%d8%af%d8%a8%d8%a7%d8%a8?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T19:52:59.000Z",
+     "seen": "2026-11-21T23:11:38.197Z"
+    },
+    {
      "title": "البحرين تعلن تعرضها لهجوم إيراني وتكشف التفاصيل والأضرار",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/bahrain-announces-it-has-been-subjected-to-an-iranian-attack",
      "source": "CNN بالعربية",
@@ -408,6 +417,20 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T19:42:13.000Z",
      "seen": "2026-11-21T19:51:09.678Z"
+    },
+    {
+     "title": "تغير المناخ يفرض تحديات كبيرة على قطاع الزراعة بالمغرب العربي",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/22/%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae-%d9%8a%d9%81%d8%b1%d8%b6-%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d9%83%d8%a8%d9%8a%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d9%82%d8%b7%d8%a7%d8%b9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T19:37:16.000Z",
+     "seen": "2026-11-21T23:11:38.197Z"
+    },
+    {
+     "title": "تغير مناخي وحرارة مفرطة.. صعوبات جمة تواجه قطاع الزراعة وتربية المواشي في تونس",
+     "url": "https://www.aljazeera.net/video/2026/11/22/%d8%aa%d8%ba%d9%8a%d8%b1-%d9%85%d9%86%d8%a7%d8%ae%d9%8a-%d9%88%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d9%85%d9%81%d8%b1%d8%b7%d8%a9-%d8%b5%d8%b9%d9%88%d8%a8%d8%a7%d8%aa-%d8%ac%d9%85%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T19:32:04.000Z",
+     "seen": "2026-11-21T23:11:38.197Z"
     },
     {
      "title": "البحرين تعلن تضرر منشأة صناعية مدنية باستهداف إيراني",
@@ -432,32 +455,11 @@
      "seen": "2026-11-21T19:21:09.894Z"
     },
     {
-     "title": "ملفات خفية تستهلك مساحة جهاز ماك.. خطوات يسيرة لاستعادتها",
-     "url": "https://www.aljazeera.net/tech/2026/11/22/%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%ae%d9%81%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d9%87%d9%84%d9%83-%d9%85%d8%b3%d8%a7%d8%ad%d8%a9-%d8%ac%d9%87%d8%a7%d8%b2-%d9%85%d8%a7%d9%83-%d8%ae%d8%b7%d9%88%d8%a7%d8%aa?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T19:00:00.000Z",
-     "seen": "2026-11-21T22:41:38.052Z"
-    },
-    {
      "title": "إسرائيل وسنتكوم تصادقان على خطط عسكرية لمواجهة إيران",
      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNNElJVkQyVUFVZDJhQUZiWHRfRmFDbFNyVDc5SGRhN0lNdVRRbDNZeWxnc25HNC1NRndHbTBhT3hQUnc1OWVXSFkzWGoxeVZYMmZ6RTFtVG1qNWk5ZlF4RExNZXlLNnVlaXd4WUI4SDFLUGNvTjRBdmtiWGpJX2hFZy11dXQ5X09vN2pVcm1LLTgwZkRsaEtyVEtSYWJXWUZua1J4cFEwMXlHMkJ2bi1USndJcGFyaEQ5bUxHVl9WRHQ2NUx3clltVEI2VEw0V0VYMl96cV9EaU9SeUQxVF96YU5kMEpFS3p1R0NIRHRHTGc5SVkxZXNpUDhJZ1dZWWhxVmJPV184OUZvWnUwMDNNb3RFTUN1MnEtMThadGVqS2VoRFhwNC1WN1hldVh6V1A3TWc3NmZhUGdWUWIzR1ZYdTVPMk8zN0pPbm1xdHJhaFppYThVYjlFcTczU2NIT3dmQUV0WUVwSnRyOEM2Mk5TMWdvTTVIYkNmRjFKaXZMVWQ4UWpZZE5icUxBSmluZ3M0V0p2RzNwd2JLM1J0UVk2Mkl2b0p1T2lnRDhnbm91NFh0ZlFZUjYyUTVJRGZ1WVBkbkUtQ0hsUjFQVFFTLXJqajJENNIB2ANBVV95cUxPVDhkWGdoNXFVZjRtZFVzb3hsTlBvbUdnZkI1bWVsamtMV0dWRXg0N3ZMcVA5a3dYN3pmdmVkaVljMDZvb2NTZEN3QWFlS3pEZF92ZlZaZFRLVkN0ZlI3V3lLSHVOdnVsajlIS2tGX0dQcXliZG9USEtCejhWMHdMVU5RcURkV2R3VjAwdGYtVFMySFM5SEkyTmpkaUZBY3hpQ2dfX0FPeVM4RS1wMWltX085Uy1XaG9RQTRHaHhIenpaYUY0YVdNZGRidnAxMkppVnFZendVLXBwSXl1dVVZdkp1MS1CTDYwbnYtZTNXX2xnZGo2Ukxiak5RTUhTZExfRzFZV0Fjb044QUIxblFqVHhJRlRQTEdjRHJwSWVYakJYMWJmNWpnalQxdmRwZmJCUng3SHhsYlREMFg2aFFyMVFyWFVmbzJnVnVhMUpVaVhNdngzU2M1clItQUhsSXlPZzdvanJ1ZXVtNnFDUTZHSVBrU1dwTU5iVEx3bmphY0Z0ekNyWFpwd0tCWWw3ZDJCbHQwaF9jRGt4MzNtVXpRR3REc19PdF9YM2xDbzVDcFZZanQ4QnRmVmZkbXpNeHB2SXdhSlNzSU94VGdycDdvR3E0YWJRWVAt?oc=5",
      "source": "العربية",
      "time": "2026-11-21T18:57:00.000Z",
      "seen": "2026-11-21T21:01:09.395Z"
-    },
-    {
-     "title": "من الطيران إلى الاستخبارات.. قصة الأعطال والاختراقات التي تهز أمريكا",
-     "url": "https://www.aljazeera.net/news/2026/11/22/%d9%85%d9%86-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa-%d9%82%d8%b5%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T18:54:46.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
-    },
-    {
-     "title": "من تتويج السعودية بالكأس إلى المربع الذهبي.. أبرز الإنجازات العربية في كأس العالم تحت 17 عاما",
-     "url": "https://www.aljazeera.net/sport/2026/11/22/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a5%d9%86%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-17?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T18:53:40.000Z",
-     "seen": "2026-11-21T22:01:37.599Z"
     }
    ]
   },
@@ -571,12 +573,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "world",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
