@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:35:38.728Z",
+ "updated": "2026-11-21T01:45:38.304Z",
  "minute": [
   "تشهد البنوك المصرية متابعة لأسعار وتحديثات صرف الدولار الأمريكي والريال السعودي.",
   "تتواصل التطورات الإقليمية مع مباحثات أمريكية قطرية بشأن حرب إيران واعتراض السعودية صواريخ حوثية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T01:35:38.728Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T01:45:38.304Z"
  },
  "markets": [
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58792,
-   "change": -5.02,
-   "asOf": "2026-11-21T01:36:01.000Z",
+   "value": 58856,
+   "change": -4.92,
+   "asOf": "2026-11-21T01:45:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -397,6 +397,13 @@
      "seen": "2026-11-21T01:25:39.084Z"
     },
     {
+     "title": "أميركا تعيد فتح مجالها الجوي... وتؤكد عدم التعرض لأي هجمات إلكترونية",
+     "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxOUEJjOGtpSDNid0xyU2ptQ0xHMGEybEtxTWtxZlVpYmR4eG5vUjJkaFR6dFdyMVAwYzNxeTFEX0x1QTEtVC1VaGtsOFVSaHFzbTdiVERRTl9Mb3FoNFBwV0tMRy12UGcyRE1Pck5fS21TODgtcUhTeWhYODZpRlNxLXBnbFl2Q1hIWTB1Tkpndl9pY3VGaEdCcDBKMWotRmNscXhMY3JrT1JfeEk1UWJzSHVVbUc3bDh2RU5XYWtmRi1USkVkUlRBTUd5ZTBJVlZTeVgyc0RPcVlYRERsbk1rZk96R0daSTBWSF93ZDZ6VWJrRjB6aVJnbnhJTkNuZ1B0bklEY21KaWM1Z0NLWmNfeTZGQU53bVc3NjBVQ2tmNzFfajFzZ3BwYkNUanFxdGcwQV9qWV9RTXFLa0pYc0FiWHJhVENSLXNVNkdEdUxWMlhpaWRjblVXaXRkc2pZeGFLbEsxa1VIRjVRY05scTRMdGF1QXd1aXpEMVNuNVQxbkp2SUJXN3ZkNEdwV28tMHBkbUxqVjhqc3A1TkVWRUZ0QjNiclk5MDB1M0NWbVJZdUhKQVU5ZjJqSkItbUtZSXdBSlJuQ1hQalIzYlk0eUxHOXF5cXRDN0NQNGlKOHE2VXR6b3o5RE5vckUxNEFUNGFWYVVJenFpWXNlWHJCZEh5cEYtWElTTWg5Mmd3b3FsYzc0R1k3YWVUR2Mwb3hPbnRjdTRWeUNvUGFBQ01jc3lZUVJrQ3Y2NmowWXVGY04zcy1fSXFwdzFMdG9zVEpvMWk5QWRQdjhfdUtvXzZsN2lFbGw5QjhQMzBDak52Z0hYZ1JNYmhrUHdwVEw3VWd0bGdqQnhDY1B0ZnVjd0hrX1UzcGVEekExOUJac05SSHpLdXh6QW9SSXBLN3E1eU9zcHZRUkt3blMyWWdETlB5NkE?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-20T22:22:14.000Z",
+     "seen": "2026-11-21T01:45:38.304Z"
+    },
+    {
      "title": "ترقب في المغرب لقانون أوروبي قد يؤثر على قطاع صناعة السيارات",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261120-%D8%AA%D8%B1%D9%82%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%82%D8%AF-%D9%8A%D8%A4%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%82%D8%B7%D8%A7%D8%B9-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
      "source": "فرانس 24",
@@ -439,13 +446,6 @@
      "source": "الجزيرة",
      "time": "2026-11-20T20:42:10.000Z",
      "seen": "2026-11-21T00:25:39.112Z"
-    },
-    {
-     "title": "التحالف يشن غارات في اليمن والحوثيون يردون بهجوم في السعودية",
-     "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQR3NxelNqX3hvQTlVWEszQVRaUHF6UzBDOElBMl9yNXZ6eVpPLXdkRWFGN3ZuLW1ramVOd0JCbGs5Vm51YlA3Yk42TnBGNC1pN1FiVENmM0xTMGFUekRvSm9zMm5scVl4NzdRLU5kRTBqTm9fOWtEWGQtRFZ4RkY3ZWdlOWpfRzU3VzY0YzBaUm5oZDB2Y2xEbC0xRWhQUnRtVEJfU3ljOXJOUlJOcGdZam5GT3FXeEVjbHJ3Wk5aekVBWk1yRTRzSTIzSGdRU1Y5ZTJ2eG00MFVZRnFxQVNBb3BrdTRvb05OZ2ZFU0gyOXNFQUIwRUhVbVZiSUFjSzZoeHppaGZsSjVYYkRWemNuMXBORkRQNklHOVphbzFhQkluanU2cWY0WEg3RFhKTWlkRFlyUTRGV1JyMjVDZGM5aHJvSG1LQW1ITWxZS25fUGdXUHBHS2VQZEpsMktITVAyZHgxNzFzelJhb21fWTdaS3hWWlItUkxwNExaWGxPVnkwa0RpMTYySFY5VXNGZ3VlZXQxSnh3SnBWaDRCQ0RJSk1XOGtiejVUNVU4aVBFVVI0djVrMTNZZURCNGpkUjJsbm1BWkl1QVZNNUwxZHR6VFBxYVhUNmZUQzduQzBVY2pqYmpNZ1hBaHVKb2s0T2s0Q3ZxTmlBRzVKeVgxcENPcnlOdkVkcXZrR3prSkpJUUJucklKaktmcVdtOFB2R29aTVp0MDZIMjh5NkNsX0NSVk9JNjJySmcwNzNKZkRKbm93Qkp6WlN6UDlhZ2pkTEh6OWVxVm82NnNjQ1VScGd5THk0NA?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-20T19:48:22.000Z",
-     "seen": "2026-11-21T00:55:38.749Z"
     },
     {
      "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
