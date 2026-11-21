@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:11:10.127Z",
+ "updated": "2026-11-21T20:21:09.584Z",
  "minute": [
   "شهدت الأسواق المصرية متابعة لمستويات أسعار الدولار مقابل الجنيه وسعر الذهب لعيار 21، إلى جانب تجديد شهادتي الجودة والسلامة للخط الأول للمترو والمونوريل.",
   "إقليمياً ودولياً، استمرت محادثات الوساطة بين إيران وقطر مع رصد إصابة ناقلات نفط في مضيق هرمز، إضافة إلى وقوع انفجار بخط غاز في البصرة بالعراق.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T20:11:10.127Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T20:21:09.584Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60248,
-   "change": 2.46,
-   "asOf": "2026-11-21T20:11:25.000Z",
+   "value": 60200,
+   "change": 2.38,
+   "asOf": "2026-11-21T20:21:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "البحرين: حريق بمنشأة صناعية وأضرار مادية جراء هجوم إيراني",
-     "url": "https://www.elbalad.news/7189417",
+     "title": "الدوري الإسباني| إشبيلية يحقق تعادلاً قاتلاً أمام ريال بيتيس",
+     "url": "https://www.elbalad.news/7189427",
      "source": "صدى البلد",
-     "time": "2026-11-21T20:09:01.000Z",
-     "seen": "2026-11-21T20:11:10.127Z"
+     "time": "2026-11-21T20:19:54.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
     },
     {
-     "title": "«القناة 13»: خطط عسكرية مشتركة بين الجيش الإسرائيلي و«سنتكوم» تحسبا لمواجهة إيران",
-     "url": "https://www.elbalad.news/7189403",
+     "title": "دولة التلاوة| طه عبد الوهاب لمتسابق: القرآن هو اللي بيقرأ.. ربنا بس شرفك واختارك ليستعمل صوتك",
+     "url": "https://www.elbalad.news/7189423",
      "source": "صدى البلد",
-     "time": "2026-11-21T20:07:59.000Z",
-     "seen": "2026-11-21T20:11:10.127Z"
+     "time": "2026-11-21T20:19:34.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
     },
     {
-     "title": "إيمان الحصري ترد بقوة على الشامتين في دعاء فاروق بعد خسارتها انتخابات لنادي الصيد",
-     "url": "https://www.elbalad.news/7189413",
+     "title": "مصطفى بدرة يوجه نصيحة لأصحاب السيولة ويحذر من تداعيات رفع الفائدة الأمريكية على مصر",
+     "url": "https://www.elbalad.news/7189424",
      "source": "صدى البلد",
-     "time": "2026-11-21T20:04:31.000Z",
-     "seen": "2026-11-21T20:11:10.127Z"
+     "time": "2026-11-21T20:18:48.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
     },
     {
      "title": "مسعفان ينقذان حياة فتاة بعد سقوطها من الطابق الرابع بمدينة نصر",
@@ -179,6 +179,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T19:28:00.000Z",
      "seen": "2026-11-21T19:31:10.030Z"
+    },
+    {
+     "title": "حكاية عارف| اتهمته مريضة بالتحرش في طابور مستشفى الهرم",
+     "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNYUJLMkcxci1SRUlBQ3k4cXlvd0ZYVFNIYmppZUtoV3hncE9MVFpzb0o3MExvWEtKODhoRnl6aFRNby04NGVjcTdqRmVRY0dZX1hRUXctTWhrXzBCUnllRTJfMzB0NUhOaWk2SkFwSnFJeUdSRTROQkRkTDdmcjV1d2pON29jRGhQczJwN083S2wxYTZOaUxBclpQZ254dklVTVZ5ZXMxaHUzWTdHU21Wdm5tWUQtaFpUem8zMjFNUk0zaUVKNHdqSUJKTlZoTU5hUmJISW12cmNVOHJoejJ4bUhRUzJaQmx2ajRPNTFMNFZmbTJCTmpTUGZpTC1RdzVTYUJSbkZPTUttU2dlekp5QnBEdDdsbTRPNnZpZ0NGeGRpYnE0Q3BiMG1uSlZPU2ZuRVBTWnJvTjFpdmlyYk9CbjVjNmtPWk1uYXYzcEdBLTdnWjdYR2ZQaV9taWtDUkZKd0I0ejQ3WmEtaGZpa2loZlFKTDRuRy05dEFyOE9DLWRyOEFXelVONzB5bjJjX2tXcEg0QVl3TGVuQzhISUZjVkFleHUtSXc0Tkk3aURzWGNyY2ZCQUUzcm5ya3lvcUFMbDB4YkxLS1NaYl9oTi10bWpCcDhXY2RPQzFKV2VGQjZhZ0hPNTVUZtIB7gNBVV95cUxOYXRmWGZUMlozamx1UkNxczllcHVGeEQyZTRFY3p1S3l5LXRTb3lCdzljY0JrX0tpY1lDaUtseVRQNjU3MExTYXVoYVpNdjhaQmZxQ2F0bG1YSUJjQ0NUclg1czduQTRHbmZkWDhZSXd5aGpHa0E1ZUFJTnNiS1ZkU1pTcV8zbXB0ai1TV3hPdWJLLTB0Z1JsM29XYmtBM0tEZXdRSEYzNE9NeEpYM2hpWlJ1ZHJnT1pMTFlycnBOaTlTTmhreUxQT0psaUd1QlMzZDZBcTR4b3Y2VDZkeGZCY0hQUmRhVVRkaXRsay1ENW55bV9Lb3Z4SVNIOVptREhDUHhRWmg0djc3ZmVPak9pOXM2dDZQVWZoQkQ5VlQ2R0h2V0ZseG1YaV95UFN5TC1BRWpYWHFMZGtkbWFiTFYtSVdjaEJZTEpFVkd1TUpnUV9OejBJeWROb01BV2ZhWFhIbTNyVFBRUEk4Q3hUR2tfd1VCVVNzRElIWEtIdDl6ZlF1Rk9ZVF9QeDdKRTJQWG5xTTV2UlRheFlLNzBkYzhUVDZmaElqREhLam0tQnkyVlJtdjNOQ3VPbkF4dU56RTk0LUNnNjMxMnhkdmtHQjl6Mk9jRzNiOTFQaG5ZZDcxcGtvY2NVUWtvS2U3SHFfUQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-21T17:04:00.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
     },
     {
      "title": "أب وأم يتخلصان من طفلهما بالإسكندرية.. والمتهمان بالتحقيقات: «كنا بنأدبه»",
@@ -207,13 +214,6 @@
      "source": "Masrawy",
      "time": "2026-11-21T13:09:35.000Z",
      "seen": "2026-11-21T16:41:10.240Z"
-    },
-    {
-     "title": "صاحب إنقاذ عقار السنبلاوين المائل يفجر مفاجأة: \"أنا مش مهندس ومعايا دبلوم صنايع\"",
-     "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPeVNRSDVsMVZKak5CZ2tiQUxVZVdOX0xhVHQ0MWxIUFdXR3d0bUxKOGtnZXo0ZDR5QkZhcnNkQnFraFVlRG1JRWh5c2Y5NF9DY00xRF8yTHV5dGh1aVRJbWo2VDYzU3Qtc0M0a1R5RkhZOEJCUWt0SFNEUHVhTEVRUTRMRFZ0RG04aXEwcnAtZUVDcF9ZekpWWVBjNXgyWE03YWRGMGhuOTI3ZVVvRXpmVm43djlxMmZHdjhTOElRRFdpN1hxUUNNam90Z3NRazZReHZoR2EyYWlXbHpUWDVkS3FIMzN3RW5RSzRtR1pTS09xOTVpVjlZWUVsSTE4UXNBTmRpcGVLbVU4Rnhjd1YyUzJ2a2dMWmZ0ZEI5S3dJN1dTZnRwNVVoYXpGTjljc1N1Rl9vZ2J2MkpieDAzbkdrYnNBSDIzVFVtVkRBRi13Uk5GVkpqMUhYbmdPR3hQOWk3aEpDemF3TDh6cU1wVURGWU5jcUFtblB3UU5taUNaR1NqRmEtNE93dFZOTmJydEtFQzhjTmpGNkxJb3IzclhsTmVFRjZJQ1VHX2w1a3pFQzY4ZGdmQ21nb1VCS0VsU1ZKcnFfekVTdGpacnhJeERFQmJ6SW5BZkEzNXJjSXFrOGpCODVBbUI4dVNPRmdYZGY2UW1TYTFtd2o0NU9peV9XREZ5Y1hkOUNaYWczMVVzUmNqQ0s3ZkJmbDVxTVk2MTdrU1cxX3JXRGR0TjhKaDlNTmJ2QjlqcmVUQWg1OVVDN1RvUlAzR0NadERZVS14M2dZd0Z5Zm55RFBYM2t0UzQzeVd0dEtOZUZXYmVyNm9xVVp3R0RXODMxc0VJQm5VaWRjeUItc0lQeFZmc1lnOXZabmJn0gGXBUFVX3lxTE94S040WUlpWnJGZmREdDdlLXVyOHF3UzhhdlRMc0VzeUtPeG40eXllUXZYWmt4N08yN0IybWdUZmdsVmppQ3JvYzFXUkR4V1E2Z0dkVWY4TGJrZWp0YVZHMWxpLTU0OVJLSlhOa0FuV2JnOVJYcFB5bDFRU21pa21pejlSRU0ta0NnbEw1QlNSREIyZ0VIRFY5WUdUaVlzY3h5c1ZDRXFWYUpZcGJXQ0VSR0xXQlVwLUxNTmN5eFlxX3E4OE9rWmxrNWlGdmM4YldPWkpYZVA5LTNEYjVUSTN0aHV6QVNJTXJncGFvSHhaOTY1and0bG5VS1hmRTVJUjl0Z2ZRemRlaGppWjFoUnBKSFc4eWd6NWNXNDNNYlpQU19fSDlkcXZncE5tcTdiWjBtbTdFcUpPeVBmLUt0N202cldhNnpLWDRSMVdRcmhSQ3FaWlVzOFJxaFpZU2R2SWNpZFM0Z1RucEd6eXFPbFYxeEk1cG1wcnVaUlB3V3UzVnpfVG5RYXMtQjVQcVE0SE5yeXFUSjhneWJLTm1EaUNyQzJXWDBnclFCT1Z6RS1Tdl9KWi16Y0VHNE1kTlpUWDJ2cFZKSFVRWW8xUGhHcjFsTHUyVXkyWmNrQ3NnMm1OUFpxdEFlZmxOc25vSnNOLWtBUFJZLVVmNEJUOV9sYVVvMHNHV3FJXzF6dnlEclV3NHB4dFU0Ql9wR2hfSk1WaWJYMXJyN195aHNLNGpXR2p0OGczUVJySWtkS0NhV2JEYnFyTkdhZnN2cVNNc18xVm9NTUctS0tQYm95UjhtQmhmOFg1c0lCMlZCWjdMQnZzeDIxckdzRlVMQWVHTUZGN0p3NENicXhXcWQ0Ymk2YkcxWFVaNWxmMA?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-21T12:55:52.000Z",
-     "seen": "2026-11-21T13:49:44.947Z"
     },
     {
      "title": "أنقذ 5 أسر من التشرد دون مقابل.. مهندس مصري يكشف كواليس استعدال عقار الدقهلية المائل",
@@ -355,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إيران تقول إنها هاجمت قاعدتين أمريكيتين بالبحرين، وإصابة ناقلات نفط بمضيق هرمز رغم الحراسة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9malI3R3U3enJla0NkckNGdWNqMDBMSEpoZ1dwUWx3cDZjalV0Z0J2Q0VLcDR1eDJNbGNfVms4dndiaDVGSTdDV2I2YkJ0ajc4c21FS01QYmtMWHZub2fSAWNBVV95cUxQNXdrUzRuMUtRNGE1dHhOR1kxRmJ2YkxmTHd6M1hYN0xKazFlTFJwNktsSFhWMXppa1ZCODZkd2FnVE9TeGJXajhSS2JzVmE1YXpLOXRlQ1hLSVJMR1E4d1Zyc2s?oc=5",
+     "source": "BBC",
+     "time": "2026-11-21T20:03:43.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
+    },
+    {
      "title": "البحرين تعلن تعرضها لهجوم إيراني وتكشف التفاصيل والأضرار",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/bahrain-announces-it-has-been-subjected-to-an-iranian-attack",
      "source": "CNN بالعربية",
@@ -426,6 +433,13 @@
      "seen": "2026-11-21T19:21:09.894Z"
     },
     {
+     "title": "بالفيديو.. هدف عكسي غريب يدخل مدافع بورتو في نوبة بكاء",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%a8%d9%83%d8%a7%d8%a1-%d9%85%d9%88%d8%b1%d8%a7-%d9%87%d8%af%d9%81-%d8%b9%d9%83%d8%b3%d9%8a-%d8%ba%d8%b1%d9%8a%d8%a8-%d8%a8%d9%88%d8%b1%d8%aa%d9%88?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T17:11:12.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
+    },
+    {
      "title": "ترامب يعلق على اختراق قاعدة بيانات FBI: ربما نكشف أسرار عن روسيا",
      "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxORzVsdTNBZXdLZnNTZXRzLVJndVp0S1o2elN3cjVkMnRIQVdNYm5fRkFzZ01mOEF4SGZZSnpWR1pWbDlzLUp1VlpVNV81eUZiaDBFZXR2aFZaQXI3TXEzdHN5bnBkaENpTV8wVV9udDFiUFhPcm9GZ1BXQXUxUHRIZWxCTktacE1pN0JYWlBCUE9IQUk4TEcxbm11cEhkVjZ4MzE4cV9HaXNCSW5MSEJxM3JuVkt2dWcyaEpDWkQ0TmE0QkMzTGlOVUxBcW5fMG9HZW9vY0NtUG9WaXg3alh2QW9BdWVKMXVWZjF1V0lNRFJFVmY5c20tbzJSZGx0YUpId2VPSmZ1emhLZzZpTC1ISU16blNSS18xSHg3NV9pbG5BRFhRZjYtbElXUVJDWWpBOUNPWEpBYWJPWXRCQWE2dlBLUk5Bd09neDd1WkxDaWNXWW1Bd2VIVmI5SHFKRWZjVnEtZlpyRGp6MEVzbElId21pa0JPa3h0MG1FcG40SUdFSDRLVldqRXQ4aFI0UHZEUS15SkZGNDNjUHRtenpwX3RDR09TZ0RfSTFXMFNiZXAxU0ZORXBXVHJZZWw2S19MNlVJbVhIdHRLcHVnZ0NSS0dDWHZvRDQ5NVNaSjlnSldpN0lGRkZ4QlAxcm5pckRmTjF2bmFvN3Jjd2lUVkc4RDNhcFp3SXpCUGF5Y09yZjF5cllsMl8tNkJJVdIBoARBVV95cUxOX2JteDRDcllKMm5MLUd5b3NTQzF1QUVUX0U5UTBUdy1WS2hoX3VQVUQzTlVUbEt5TGRXSi00MVFTZnVJc19tUW1qMFlXTEtqY2F0c3JZd1RBSmpsMlZzOVdKY2I2MUU1Zm5PUmhlNHVkTVZMOE81MzJ3NU56d2VYTTZqOTV3b2xLQjBzeW1YRVI5U1pVNVM5Tk50MlhvZThzblljbXFkeHRicDhLNVB3dWQ5LVhRZ3UyMlBER1o1ZFlLcVRpYUZzWnpfWXFsamZwdGJuWV9RSDRSRkhjOXRGZDJPZk11aGR6ODZiZzk4ZHQwVDVCZnZWOTk2T1ZPUEN3aXhRdmNOSmY3cUZOZXRpU2xOUWZyVmcwZ1BtaWg0dkdTQmNwWlppaTYzWEdWSXNZUldDcDVBTHBlSE9qZXhBMWx4Z0JLZWNUcEIzeE1EM3hMWU0zbzFVNGZCMXhnVnRUTTZrSERvc1hrV3FJdkNhQ2tRSkY0NXNfS01lMVZ4ZVlSM2l2ejJKWlFjYjVXd3hEd0Vwa1lPb1Awc3g2bkV3MmdUaTRsQ2xRNXdqNDMycHN2ZjhYb2xhZWw2a1ZyWHE5NWQ3b0p0ZXdwU3RBdU5WVVlZcEg5VUxCeFRtbFNjcEFIdlBWTkpZWDNWYlluOHg3QkZLSnM1aTFHOXNyakNzc3Zla2lhZnMyZTJOY0FFTmNabWlrNUtRZVh2cW5jR1VU?oc=5",
      "source": "Masrawy",
@@ -433,25 +447,11 @@
      "seen": "2026-11-21T19:21:09.894Z"
     },
     {
-     "title": "النوم الطويل ليس دائماً علامة على الراحة... تحذير لمرضى القلب",
-     "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQbm85dEs4dEhLX1E1Q2VNYlMtUXVrUW1pSGVOLV9rTjNLNDdGT3lMTVZJa3BPS2dvZEdWS19BbFFycktYTmM0cGRvcmJoTVhUMFdBNk00U1lZSWNBVndhVW1SMUh2Yk9hWk1RQmZZRmtHbzdaWjVkdVkwVWI2M3NFOHVsOTFUSEZkZ01GMFpKUVVMVkJhYTZPc1EzYW1mX0o3Q1JzX25LOGtwVUE3LWpWYmwzRE1ZLTZxeUIxOWRuQlFCcFpoVFc1OTRmT0dFbTdzcUJkelV1V0d5SkxDc3dwNFplVGFYdDdtYjRVNHFYMW11VzY1VWd2bE1sNWgzVHE2VlJHUnVKZUdHN2phZ3Rfa1E5M251a3Bpa3pTc240Q3A2RmIzbTJvX2s2emM2OVNRSW9PeW9ibWhZSkYwZkFia1B2Q2taQXZsQlA5VENMZ2l6TjN2eEpsY01abWF2aXZSZHJGdmNoM2xJOUNMS1Q1aW1ieWhLTmJoTV9LMHVrYlo2cmh5NDVXZ3ZKNDBIVk1ScmlOVEN3SDAyY0NuNTRYTEp6WnF3UlF1TTg5RTRoYTJZdzZvWjcwVmF5NEVoSFVzcUxwYkpoSTgzbC12Ym1peWY0NDJJRGY4VEVXb1ROYjNPbmttZTRXbkNJZjlGVWROZ2xaMlV3?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-21T17:02:18.000Z",
-     "seen": "2026-11-21T19:11:09.542Z"
-    },
-    {
-     "title": "تيم حسن يجسد \"قيصر\".. المصور الذي فضح التعذيب في سجون الأسد",
-     "url": "https://www.aljazeera.net/arts/2026/11/21/%d8%aa%d9%8a%d9%85-%d8%ad%d8%b3%d9%86-%d9%8a%d8%ac%d8%b3%d8%af-%d9%82%d9%8a%d8%b5%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d8%b0%d9%8a-%d9%81%d8%b6%d8%ad?traffic_source=rss",
+     "title": "عامل هندي أراد لقاء ميسي في مونديال قطر.. كيف تحوّلت قصته إلى فيلم عالمي؟",
+     "url": "https://www.aljazeera.net/arts/2026/11/21/%d8%b9%d8%a7%d9%85%d9%84-%d9%87%d9%86%d8%af%d9%8a-%d8%a3%d8%b1%d8%a7%d8%af-%d9%84%d9%82%d8%a7%d8%a1-%d9%85%d9%8a%d8%b3%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84-%d9%82%d8%b7%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T16:46:53.000Z",
-     "seen": "2026-11-21T20:01:09.836Z"
-    },
-    {
-     "title": "موسكو تريد إعادة عقارب الساعة 29 عاماً إلى الوراء .. هل تتخلى أوروبا عن أمنها؟",
-     "url": "https://www.dw.com/ar/موسكو-تريد-إعادة-عقارب-الساعة-29-عاماً-إلى-الوراء-هل-تتخلى-أوروبا-عن-أمنها؟/a-79987496?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-21T16:41:00.000Z",
-     "seen": "2026-11-21T16:51:09.801Z"
+     "time": "2026-11-21T17:06:14.000Z",
+     "seen": "2026-11-21T20:21:09.584Z"
     }
    ]
   },
@@ -565,12 +565,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
