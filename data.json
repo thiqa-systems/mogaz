@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-21T09:36:02.887Z",
+ "updated": "2026-11-21T09:46:02.955Z",
  "minute": [
-  "استقر سعر الدولار في السوق المصرية دون مستوى 54 جنيهًا وسط هدوء في سوق الصرف.",
-  "هبطت عملة بتكوين إلى أدنى مستوى لها في عامين بالتزامن مع ارتفاع مؤشر الخوف في وول ستريت.",
-  "أكدت وزارة الري المصرية أن معالجة وإعادة استخدام المياه تعد محاور أساسية لمنظومة المياه الجديدة.",
-  "شهدت الساحة الدولية والإقليمية توترات بحرية وتفاهمات بين واشنطن وبكين حول استخدامات التكنولوجيا."
+  "استقر سعر الدولار أمام الجنيه المصري في البنوك وتجري وزارة البترول مباحثات لتعزيز توريد منتجات الطاقة.",
+  "شهدت الأسواق العالمية تراجعاً لسهم إنفيديا وانخفاضاً لعملة بتكوين إلى أدنى مستوى في عامين.",
+  "أُفردت تقارير عن استهداف وإصابة ناقلات بضائع قرب منطقة مضيق هرمز.",
+  "استمرت الجهود المحلية في مصر في مجال الرقابة التموينية والتدريب على مواجهة الجرائم الإلكترونية."
  ],
  "ai": {
-  "at": "2026-11-21T09:06:02.667Z",
+  "at": "2026-11-21T09:46:02.955Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-21T09:36:02.887Z"
+  "impacts": 7
  },
  "markets": [
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57824,
-   "change": -1.66,
-   "asOf": "2026-11-21T09:38:57.000Z",
+   "value": 57915,
+   "change": -1.5,
+   "asOf": "2026-11-21T09:48:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,32 +138,42 @@
    "title": "مصر",
    "items": [
     {
-     "title": "موعد مباراة مانشستر سيتي وفولهام في الدوري الإنجليزي والقنوات الناقلة",
-     "url": "https://www.elbalad.news/7188644",
+     "title": "بحضور وزيري البيئة والمالية.. القومي لعلوم البحار يستعرض مساهماته بجناح المحيط بـCOP31",
+     "url": "https://www.elbalad.news/7188650",
      "source": "صدى البلد",
-     "time": "2026-11-21T09:35:58.000Z",
-     "seen": "2026-11-21T09:36:02.887Z"
+     "time": "2026-11-21T09:44:17.000Z",
+     "seen": "2026-11-21T09:46:02.955Z"
     },
     {
-     "title": "برعاية شيخ الأزهر.. انطلاق البرنامج التثقيفي لمعلمي العلوم الشرعية بالتعاون بين مركز الإمام الأشعري وقطاع المعاهد",
-     "url": "https://www.elbalad.news/7188640",
+     "title": "الغربية: ضبط منشأة غير مرخصة لتصنيع المقرمشات ومصادرة 20 ألف كيس",
+     "url": "https://www.elbalad.news/7188636",
      "source": "صدى البلد",
-     "time": "2026-11-21T09:34:12.000Z",
-     "seen": "2026-11-21T09:36:02.887Z"
+     "time": "2026-11-21T09:43:50.000Z",
+     "seen": "2026-11-21T09:46:02.955Z",
+     "impact": "يهم المواطنين والمستهلكين في مصر لمتابعة جهود الرقابة التموينية والسلامة الغذائية."
+    },
+    {
+     "title": "مطران الكنيسة الأسقفية يشارك فى احتفالية تكريم الطوباوى البطريرك إلياس الحويك",
+     "url": "https://www.youm7.com/story/2026/11/21/مطران-الكنيسة-الأسقفية-يشارك-فى-احتفالية-تكريم-الطوباوى-البطريرك-إلياس/7626774",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T09:41:00.000Z",
+     "seen": "2026-11-21T09:46:02.955Z"
+    },
+    {
+     "title": "البحرية البريطانية: هجوم على ناقلتي بضائع بـ هرمز",
+     "url": "https://www.elbalad.news/7188648",
+     "source": "صدى البلد",
+     "time": "2026-11-21T09:40:33.000Z",
+     "seen": "2026-11-21T09:46:02.955Z",
+     "impact": "يهم المستوردين والمستثمرين لمتابعة التأثيرات المحتملة على حركة الشحن البحري وسلاسل الإمداد."
     },
     {
      "title": "النيابة العامة تنظم برنامجًا تدريبيًا متخصصًا في الجرائم الإلكترونية",
      "url": "https://www.youm7.com/story/2026/11/21/النيابة-العامة-تنظم-برنامجًا-تدريبيًا-متخصصًا-في-الجرائم-الإلكترونية/7626743",
      "source": "اليوم السابع",
      "time": "2026-11-21T09:30:00.000Z",
-     "seen": "2026-11-21T09:36:02.887Z"
-    },
-    {
-     "title": "الاتحاد الأوروبى يوافق على دواء يساعد على إطالة عمر مرضى السرطان",
-     "url": "https://www.elbalad.news/7188539",
-     "source": "صدى البلد",
-     "time": "2026-11-21T09:30:00.000Z",
-     "seen": "2026-11-21T09:36:02.887Z"
+     "seen": "2026-11-21T09:36:02.887Z",
+     "impact": "يهم الأفراد وأصحاب الأعمال لتعزيز مستوى الأمان الرقمي والحماية من الجرائم الإلكترونية."
     },
     {
      "title": "بطريرك الأقباط الكاثوليك يهنئ الكنيسة المارونية بتطويب البطريرك إلياس الحويك",
@@ -173,13 +181,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T09:26:00.000Z",
      "seen": "2026-11-21T09:36:02.887Z"
-    },
-    {
-     "title": "وزيرة التضامن تكشف لـ\"اليوم السابع\" آليات الوصول للأسر الأولى بالرعاية",
-     "url": "https://www.youm7.com/story/2026/11/21/وزيرة-التضامن-تكشف-لـ-اليوم-السابع-آليات-الوصول-للأسر-الأولى/7626742",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T09:18:00.000Z",
-     "seen": "2026-11-21T09:26:02.403Z"
     },
     {
      "title": "الأرصاد تكشف موعد انخفاض درجات الحرارة وسقوط الأمطار",
@@ -244,19 +245,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم السبت 21-11-2026 أمام الجنيه المصري في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVdjk5YUt1aWNGa1BvUDNKRllQTHdPaXh5enp3MmVNNU1aNzE1TXNiM0NaS2w1TmgzcGF1TmY0Zk9XNHZ4eE9QeS1LRktNZjM2Q0VSeTNWRDRYUy1nX0pn?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-21T09:38:00.000Z",
+     "seen": "2026-11-21T09:46:02.955Z"
+    },
+    {
      "title": "هدوء في سوق الصرف.. سعر الدولار اليوم يستقر دون الـ54 جنيها",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9scFRoVThIWXc5OXJQNjBzZWYwbjdMLWpjVV9NS0VWWmZlOU1NcTJEbzhlUXlfZmQ2WFFEYW80clhTaHFmdlpB?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-21T09:01:00.000Z",
      "seen": "2026-11-21T09:06:02.667Z",
-     "impact": "يساعد استقرار سعر الدولار دون 54 جنيهًا الأفراد والمستوردين في التخطيط المالي وتحديد تكاليف السلع."
+     "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة استقرار سوق الصرف وتأثيره على تكلفة السلع."
     },
     {
      "title": "“البترول” تبحث تعزيز التعاون مع “IRH” في توريد منتجات الطاقة لمصر",
      "url": "https://alborsaanews.com/2026/11/21/2007853",
      "source": "البورصة",
      "time": "2026-11-21T08:55:55.000Z",
-     "seen": "2026-11-21T09:26:02.403Z"
+     "seen": "2026-11-21T09:26:02.403Z",
+     "impact": "يهم المستثمرين في قطاع الطاقة لضمان توافر المنتجات البترولية للأنشطة الاقتصادية في السوق المحلي."
     },
     {
      "title": "“فورد” تعيد افتتاح مصنع أوكفيل في كندا رغم رسوم “ترامب” الجمركية",
@@ -270,7 +279,8 @@
      "url": "https://alborsaanews.com/2026/11/21/2007849",
      "source": "البورصة",
      "time": "2026-11-21T08:39:15.000Z",
-     "seen": "2026-11-21T09:26:02.403Z"
+     "seen": "2026-11-21T09:26:02.403Z",
+     "impact": "يهم المستثمرين المصريين المتعاملين في الأسواق العالمية لمتابعة تحركات أسهم التكنولوجيا ومخاطرها."
     },
     {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في مصر.. تحديث البنك المركزي",
@@ -338,13 +348,6 @@
      "source": "جريدة البورصة",
      "time": "2026-11-21T07:56:09.000Z",
      "seen": "2026-11-21T08:06:02.605Z"
-    },
-    {
-     "title": "سعر صرف الدولار مقابل الجنيه في البنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVMWxUaTBGVnNXZ3QxNnNSRzZJVWl5bGo0N2dRZk12am12Z3daZU9URzRqOF9Wck9DY0x0UGFIUzdRejE5blVn?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-21T07:45:00.000Z",
-     "seen": "2026-11-21T07:56:02.214Z"
     }
    ]
   },
@@ -425,18 +428,18 @@
      "seen": "2026-11-21T07:06:02.962Z"
     },
     {
-     "title": "مليارات النفط الإيراني.. كيف تتسرب إلى جيوب الوسطاء؟",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdU5NTUFFNUdoS0s3amgwR3IteGZYUlV2ODc4bjFVZUxwb1FLdE0zVk04VjVyWXlwUHRybTg5ajVWYzZZekRKZF9MNXltdkFCUmZTVWplNlpZX3pqSlhCZkNHMkRBR0Z2ZHFqdmYzeUwzTEVZSE5NaENtSHQ0V25jS2FRZ2R1LWQtTzd6T2dSdXB6Uy1wei1xZWtpWEo0V2VvYV9VdDhIZmRwT1RtZVZEMHBzRlg4X3BpV0RzMWFzV1BreS1zc21BRGhzc2VGNTFVX3dxTHhUUHU3WEpXeDBKT1RLWVJjVDFRZFhjVlo4UDdQS1VKTGM1Rm1LSTZNOXBGX05VZW1MTjZlUl9GSVl1bTY2TjR3NVBWS1h2SkZZdjFqU1pBUkQ3bWQxeDJpWGQwZmQxSS1NSHpCMXJqUm1xUm5GMWFFUUdHdXU1aGJrQ3VadjhRdzlxOFkwOGVod1U0QzVHZFMzal8wV2VwTnpTb2ZNb2wtTmFDM2lxS0pB0gGDA0FVX3lxTFBxWmpuSzVTNmJodHJOYmRPRGRXVVJBeGJ0ZWhWMXdNY2VRQ0VqekxVUmZkZFBVRmxWSkNJVmdLS2g0ZUU3d0MyWTBmWUxzMnltZ20tRUJFMGVWeTBqTjExdnRsZWJmbjNQVDl0RGZsc0dpc1EzWnEydUlsNDlsY1M2N0tzYXdmekpXeVBPbjU2VGM5dHRpOHZObXM3RF90eUFPc2tmcVZmdGpyLW9jUVVsQl9PVGNLWkxQOWF5WUp3eXdSQTlUclM5OGJqNGp2Wi1PVXI5RXBCblJ5dzJmNDE1b3BQdjZTSnlJRWlRT1NMRWM4bDdMT05XYkpncWVGb2pmSE5CVmQtRWNnOU5zSm80VS1yMUU5cTNOWUVuQlA5S1NWWXVfTENCUDRkSjA3S0ZoOFlQd0p1UnZqaTd2SkpNeUpCSGVRdjZsZU15SjR1RjF1UUN1aW95Vl84NC1EREZCbXlVSDRYTkVGdHFpcHhTSFRpRmxsZkxkSlNFcHllNExmYw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T06:39:44.000Z",
-     "seen": "2026-11-21T09:26:02.403Z"
-    },
-    {
      "title": "الحوثيون يشنون ضربات على السعودية بعد إطلاق التحالف \"عملية نوعية\" ضدهم",
      "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNWHduemdIWGtMd0Q0S2l6WjJjLWJUVFBIc3ZGRDdRNElkaWRXVWMwZ3U0aE4zV0owNTlHWFpndnlOQWZXVF9HV2Q2VUtvWHUtOVgwWnBjcjRIUnBkSHJqQkRWYXhGQlY4NHJGSk9qTERxSmFuS0NXbDlDSndpaDZ5cWVOQWl0V2xqUEx3MHBnUjlnNUZkWmhtZGRieUp3ZTJyYk54d053SUN0QjdlUlozbGlKTUFkZGxBQjJfNUlnVHhEMThFNUtKUHItQXRkMVVncnM3a2ZsTWtBN1p4VEItdDdxSF9KR2ZYUjJ1T21abjFGYXFQa19kUi1UT3BQc0xnOTJBVUZzbkRNSXV1VUpUR0FJb1VtQVVNRTNhbEVsMFU5dzJfbmRsVHU5S09iNnhwSG9GTkttVmRqc3BjSldXQmhpSGE0R3JPeEdPSld0TzQtLTEtTGtTQmQzR0d1N2RQVlZmaS04R0NBSzE4MjN5amZqU0k3eU9vMnlzSDRsdFZ2SGlZTGtSY2g4VTZOakxyWnM2bnBJR3I3VlBGYWJ4STZBUkd6Qk0xdnBZWDRvZVVMRmd1U2paNUFtTWNYYjdPLS1KTktCZDNFRDFjZ0F1XzJUNVNSYXBtQW1uSEV4ZVVlSkNzUUk1QXlqYlQ3Y3FGV2tCLUpXa2hTek1TNUNCdlNHUUVDR3c3d1NfeW0ybkJHMzVPM1NJdW92eXpfV3RodzNHeUc2MURMZw?oc=5",
      "source": "DW.com",
      "time": "2026-11-21T06:29:28.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
+    },
+    {
+     "title": "مليارات النفط الإيراني.. كيف تتسرب إلى جيوب الوسطاء؟",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQdU5NTUFFNUdoS0s3amgwR3IteGZYUlV2ODc4bjFVZUxwb1FLdE0zVk04VjVyWXlwUHRybTg5ajVWYzZZekRKZF9MNXltdkFCUmZTVWplNlpZX3pqSlhCZkNHMkRBR0Z2ZHFqdmYzeUwzTEVZSE5NaENtSHQ0V25jS2FRZ2R1LWQtTzd6T2dSdXB6Uy1wei1xZWtpWEo0V2VvYV9VdDhIZmRwT1RtZVZEMHBzRlg4X3BpV0RzMWFzV1BreS1zc21BRGhzc2VGNTFVX3dxTHhUUHU3WEpXeDBKT1RLWVJjVDFRZFhjVlo4UDdQS1VKTGM1Rm1LSTZNOXBGX05VZW1MTjZlUl9GSVl1bTY2TjR3NVBWS1h2SkZZdjFqU1pBUkQ3bWQxeDJpWGQwZmQxSS1NSHpCMXJqUm1xUm5GMWFFUUdHdXU1aGJrQ3VadjhRdzlxOFkwOGVod1U0QzVHZFMzal8wV2VwTnpTb2ZNb2wtTmFDM2lxS0pB0gGDA0FVX3lxTFBxWmpuSzVTNmJodHJOYmRPRGRXVVJBeGJ0ZWhWMXdNY2VRQ0VqekxVUmZkZFBVRmxWSkNJVmdLS2g0ZUU3d0MyWTBmWUxzMnltZ20tRUJFMGVWeTBqTjExdnRsZWJmbjNQVDl0RGZsc0dpc1EzWnEydUlsNDlsY1M2N0tzYXdmekpXeVBPbjU2VGM5dHRpOHZObXM3RF90eUFPc2tmcVZmdGpyLW9jUVVsQl9PVGNLWkxQOWF5WUp3eXdSQTlUclM5OGJqNGp2Wi1PVXI5RXBCblJ5dzJmNDE1b3BQdjZTSnlJRWlRT1NMRWM4bDdMT05XYkpncWVGb2pmSE5CVmQtRWNnOU5zSm80VS1yMUU5cTNOWUVuQlA5S1NWWXVfTENCUDRkSjA3S0ZoOFlQd0p1UnZqaTd2SkpNeUpCSGVRdjZsZU15SjR1RjF1UUN1aW95Vl84NC1EREZCbXlVSDRYTkVGdHFpcHhTSFRpRmxsZkxkSlNFcHllNExmYw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T06:26:21.000Z",
+     "seen": "2026-11-21T09:26:02.403Z"
     },
     {
      "title": "المخاطر السيبرانية على الخدمات المصرفية.. أبعاد جديدة للاحتيال الرقمي المنظم",
@@ -464,7 +467,7 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T07:24:23.000Z",
      "seen": "2026-11-21T08:36:02.884Z",
-     "impact": "انخفاض بتكوين لأدنى مستوى في عامين يهم المهتمين بالأصول الرقمية لتقييم المخاطر وتغيير مستويات السيولة."
+     "impact": "يهم المتعاملين والمستثمرين في العملات المشفرة لتقييم المخاطر في ظل هبوط بتكوين."
     },
     {
      "title": "أسبوع دبي للمستقبل.. الذكاء الاصطناعي في التشريعات وتجارب الأجهزة الذكية تتصدر اليوم الثالث",
