@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:05:39.208Z",
+ "updated": "2026-11-21T02:15:38.575Z",
  "minute": [
   "شهدت الأخبار الاقتصادية استقراراً في أسعار صرف الدولار والريال السعودي بالبنوك المصرية، إلى جانب استعراض خطوات التسجيل لامتحانات الثانوية العامة وتفاصيل قانون رعاية المسنين.",
   "على المستوى الدولي، عُقدت لقاءات أمريكية قطرية في ألمانيا لبحث الأوضاع الإقليمية، فيما أعلنت السعودية اعتراض صواريخ، وتعرضت البرازيل والبيرو لعاصفة وزلزال.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T01:55:39.232Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T02:15:38.575Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58947,
-   "change": -4.77,
-   "asOf": "2026-11-21T02:05:35.000Z",
+   "value": 58909,
+   "change": -4.84,
+   "asOf": "2026-11-21T02:15:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "السعودية .. اعتراض وتدمير طائرة مسيرة بإتجاه المنطقة الجنوبية",
+     "url": "https://www.elbalad.news/7188445",
+     "source": "صدى البلد",
+     "time": "2026-11-21T02:15:01.000Z",
+     "seen": "2026-11-21T02:15:38.575Z"
+    },
+    {
+     "title": "قيام الليل.. صليها الآن ركعتين ركعتين وترقب معجزات ظننتها مستحيلة",
+     "url": "https://www.elbalad.news/7188448",
+     "source": "صدى البلد",
+     "time": "2026-11-21T02:14:45.000Z",
+     "seen": "2026-11-21T02:15:38.575Z"
+    },
+    {
+     "title": "ترامب: فرض عقوبات على الشركات الأمريكية التي تنشئ مراكز بيانات بالخارج",
+     "url": "https://www.elbalad.news/7188447",
+     "source": "صدى البلد",
+     "time": "2026-11-21T02:14:19.000Z",
+     "seen": "2026-11-21T02:15:38.575Z"
+    },
+    {
      "title": "مواعيد القطارات على خط «أسوان - القاهرة» والعكس اليوم السبت 21/ 11/ 2026",
      "url": "https://www.youm7.com/story/2026/11/21/مواعيد-القطارات-على-خط-«أسوان-القاهرة»-والعكس-اليوم-السبت-21/7625663",
      "source": "اليوم السابع",
@@ -147,27 +170,6 @@
      "title": "كلية التربية بجامعة العاصمة تنظم اليوم الملتقى العلمي الأول للتوكاتسو",
      "url": "https://www.youm7.com/story/2026/11/21/كلية-التربية-بجامعة-العاصمة-تنظم-اليوم-الملتقى-العلمي-الأول-للتوكاتسو/7625574",
      "source": "اليوم السابع",
-     "time": "2026-11-21T02:00:00.000Z",
-     "seen": "2026-11-21T02:05:39.208Z"
-    },
-    {
-     "title": "مدحت العدل: محمد فؤاد يمتلك موهبة لم يحسن إدارتها وعمرو دياب مؤسسة فنية",
-     "url": "https://www.elbalad.news/7188357",
-     "source": "صدى البلد",
-     "time": "2026-11-21T02:00:00.000Z",
-     "seen": "2026-11-21T02:05:39.208Z"
-    },
-    {
-     "title": "ترقية سماعة Apple HomePod mini 2 ضرورية لكنها تفتقد أهم ميزة",
-     "url": "https://www.elbalad.news/7188309",
-     "source": "صدى البلد",
-     "time": "2026-11-21T02:00:00.000Z",
-     "seen": "2026-11-21T02:05:39.208Z"
-    },
-    {
-     "title": "سعر الذهب في الصاغة الآن",
-     "url": "https://www.elbalad.news/7188043",
-     "source": "صدى البلد",
      "time": "2026-11-21T02:00:00.000Z",
      "seen": "2026-11-21T02:05:39.208Z"
     },
@@ -242,6 +244,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Ka3p1Q1dzUDdXLVp4c0o3Rm83VEwxbk5tU0pmMGF0R0ZUMXZ3bGE3d011QmhwTThRRmo0QnJVZWRmM1Nm?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-21T02:09:47.000Z",
+     "seen": "2026-11-21T00:45:39.148Z",
+     "impact": "يشير إلى استقرار أسعار الصرف بالبنوك المصرية مما يساعد المستثمرين والمواطنين على تخطيط تعاملاتهم المالية."
+    },
+    {
      "title": "استقرار العملة الأمريكية خلال التعاملات الصباحية عند هذه المستويات",
      "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxONkxncGgxRDZsNlB5UGRqQlVEOEVEMkhMZTViX1dnSzg5TmFHS29vSngtdmRLbmhfNjRRQzhHeWtnbldaQ3hNSjNnM2lybnBIWUNNQlhyd0R6QlViMU5fWEl1RmV3eGNUY01tcGRMdTE4Y3V5dzdvMm1Bb3RFNW55NExydlhrbkFkcUh3RkZpeF9wTmwwYlJMbXN0Z3hWMjBjMU9Ic2hZdGlQb3FwOW5UcVE2clFlR01Eaklsd1VTenp5UHJ1bkIyODVEQUJNLUpqazBiS29PQU9ZVTNuUjBtOEN3V1ItOHhDVzhMSTNMdVRPY2tSblJFUVNjemo5ck9vTU01dkh0R3o5V1V5djVQRmpNR2hqd3NQX0I2cHU0a1JUYkcxMWg4cHFhcUd2U1p0LXZnZ0paNkZYc2JsQ0J5WWxQaHBDTmdBaHMzcHpobWpIcVhHWTM0eWRtMmtFbjk3T2FFdXBTbWduY05Xd21QcENmOUJCd2FOM0UzWjFPNEd2cE1rdFBGZ2dwVk91Sjk4Uk04VWcxYzdkQVZsQmRmMHUtU2JSQTh6QlVzQkszcUpXUEJQNEVkbTdOcHhBbjF3S0t5N2FKcndSaUhYZElQVXplemtNa0NMX3R5S0dOaUw4SXcyeEdQN0R6OHB5NDdNeE5NclFrLXBvY043b2JmOUJuY2lmZkF5VkVTYzhGa0pEV2VNR0h5S1Z1aDQ1VXZLX3BNa3FIamQ2VEJhUXV0M3BnS29iZ9IBsARBVV95cUxPVUJMMUJtSE5hMFVvWG5hWmFaNkY3RER1Nm9YMUZMV0J6Q0VmamFDbFpucnhSRVpPYUpJRDJ5YXZqbTY4QXQ4cF94T01PRXhLbk42OUdmMjNPaEp4VkZiekxIM1JPTWNqMTgxSlRyVWtfSG52Z1lDZTB2TFJPQkNTX0ZFVFg1cVowcTJPU2NyQkl6OVpJZFN0cnluNFpTbW5leXBOcHlTdXExV0NlMy1rMmc0R0RhbmY4QjJ6LW1KQUhlYXRQX3M1NEJUcFUybU0yMm5BbXpzTUtHb091UVU4VHVEWU1FOGNwS2NKMWVsRXowV0RfMy1ra3BkUFVtZE5NS2R0eXJ2ZC1XZndtUzN4R0R3TUVmNWMyeEN2ZXAzTVBnWGVLa1dGeHp5RllFLUttSGNjN1RWQ0xna2dQS3hCenk0dzI4dWNLVTBqUWtlUm5TUlZtdFltcThPTlBlM0lZUEhaZG5GUXRxbC1Hc1VoUURHVmpUbGZuc01GZHZkYWIzVjFwVjZGMVd4eGxpNTlibHdBaEFNby1Lc2ZObTdIRzBxSjBUVmpsRE5IMEpyaWhUUUV6SmNXN1lhRWtGRmpkQXZrX1pPYWM2XzVGbWdnb1kzTmJia0treW9tcGxaYlpJbFpwZ1ZYVVBkQWo2WmJsUENjUXh3OG9CT1B5OVVHdWN0LTdnd0NrMEtPSEFpOU4wcjFzS01ZRjVOLXZVa0FkSjRmTVdCNVY4bURIWi1nSg?oc=5",
      "source": "اليوم السابع",
@@ -255,14 +265,6 @@
      "time": "2026-11-21T01:00:00.000Z",
      "seen": "2026-11-21T01:05:38.630Z",
      "impact": "يهم المتعاملين والمستوردين في مصر لمتابعة تحديثات سعر صرف الدولار وتأثيره على تكلفة السلع."
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Ka3p1Q1dzUDdXLVp4c0o3Rm83VEwxbk5tU0pmMGF0R0ZUMXZ3bGE3d011QmhwTThRRmo0QnJVZWRmM1Nm?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-21T00:39:47.000Z",
-     "seen": "2026-11-21T00:45:39.148Z",
-     "impact": "يشير إلى استقرار أسعار الصرف بالبنوك المصرية مما يساعد المستثمرين والمواطنين على تخطيط تعاملاتهم المالية."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 20 نوفمبر 2026 في مصر خلال التعاملات المسائية",
@@ -572,6 +574,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
