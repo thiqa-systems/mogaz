@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:09:44.950Z",
+ "updated": "2026-11-21T11:19:44.177Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه في البنوك المصرية، بينما أصدرت وزارة الزراعة مئات التراخيص الجديدة لمشروعات الثروة الحيوانية والدواجن.",
   "حذرت هيئة الأرصاد الجوية في مصر من ظاهرة تستمر حتى نهاية الأسبوع رغم الاستقرار العام للأحوال الجوية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T10:59:44.187Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T11:19:44.177Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57910,
-   "change": -1.51,
-   "asOf": "2026-11-21T11:09:58.000Z",
+   "value": 57792,
+   "change": -1.71,
+   "asOf": "2026-11-21T11:20:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محمد العدل يهاجم تسريب مكالمة عموتة وإمام: «اتكسفوا شوية واكذبوا صح»",
-     "url": "https://www.elbalad.news/7188781",
+     "title": "الداخلية تكشف حقيقة إدعاءات شخص الإفراج عن آخر من مركز شرطة عقب دفع مبلغ مالى",
+     "url": "https://www.elbalad.news/7188791",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:07:49.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
+     "time": "2026-11-21T11:19:05.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
     },
     {
-     "title": "أحمد مجاهد يترشح لعضوية لجنة المسابقات بالكاف وغريب للجنة الفنية",
-     "url": "https://www.elbalad.news/7188739",
+     "title": "أبو اليزيد سلامة لمعلمي العلوم الشرعية: خذوا العلم عن الأكابر..والتواضع مفتاح الزيادة",
+     "url": "https://www.elbalad.news/7188790",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:07:30.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
+     "time": "2026-11-21T11:19:05.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
     },
     {
-     "title": "‏‎صور جديدة من زفاف ابنة عاطف عوض ورانيا فريد شوقي بقصر محمد علي",
-     "url": "https://www.elbalad.news/7188779",
+     "title": "«اشتباه في عدم اتزان سائق خط 5 بالفيوم».. الأمن يفحص فيديو متداول أثار مخاوف الركاب",
+     "url": "https://www.elbalad.news/7188792",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:07:14.000Z",
-     "seen": "2026-11-21T11:09:44.950Z"
+     "time": "2026-11-21T11:18:45.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
+    },
+    {
+     "title": "وزير الخارجية يفتتح جناح الوكالة المصرية للشراكة من أجل التنمية على هامش منتدى أسوان للسلام",
+     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يفتتح-جناح-الوكالة-المصرية-للشراكة-من-أجل-التنمية/7626904",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:09:00.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقي نظيرته الكونجولية ويبحثان سبل تعزيز العلاقات الثنائية",
+     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يلتقي-نظيرته-الكونجولية-ويبحثان-سبل-تعزيز-العلاقات-الثنائية/7626912",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:07:00.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
+    },
+    {
+     "title": "وزارة العمل تعلن عن فرص عمل بشركة روسية في البحيرة برواتب تصل لـ30 ألف جنيه",
+     "url": "https://www.youm7.com/story/2026/11/21/وزارة-العمل-تعلن-عن-فرص-عمل-بشركة-روسية-في-البحيرة/7626902",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:00:00.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
     },
     {
      "title": "تفاصيل قرار مدبولي بتشكيل «المجلس الأعلى لتنمية مهارات الموارد البشرية»",
@@ -163,29 +186,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-21T10:56:27.000Z",
      "seen": "2026-11-21T11:09:44.950Z"
-    },
-    {
-     "title": "رغم استقرار الأحوال الجوية.. الأرصاد تحذر من ظاهرة خطيرة تستمر لنهاية الأسبوع",
-     "url": "https://www.youm7.com/story/2026/11/21/رغم-استقرار-الأحوال-الجوية-الأرصاد-تحذر-من-ظاهرة-خطيرة-تستمر/7626900",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T10:55:00.000Z",
-     "seen": "2026-11-21T10:59:44.187Z",
-     "impact": "تنبيه الأرصاد الجوية يساعد المواطنين والسائقين في مصر على اتخاذ الحيطة أثناء التنقل والحد من الحوادث."
-    },
-    {
-     "title": "مجلس الوزراء: قطاع الصحة.. من تحديات متراكمة لمبادرات ومشروعات للارتقاء بالخدمات",
-     "url": "https://www.youm7.com/story/2026/11/21/مجلس-الوزراء-قطاع-الصحة-من-تحديات-متراكمة-لمبادرات-ومشروعات-للارتقاء/7626893",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T10:54:00.000Z",
-     "seen": "2026-11-21T10:59:44.187Z",
-     "impact": "الارتقاء بالخدمات والمبادرات الصحية يتيح للمواطنين في مصر الحصول على جودة أفضل في الرعاية الطبية."
-    },
-    {
-     "title": "الأزهر للفتوى: العنف الأسري ضد الأطفال جريمة لا تبررها التربية",
-     "url": "https://www.youm7.com/story/2026/11/21/الأزهر-للفتوى-العنف-الأسري-ضد-الأطفال-جريمة-لا-تبررها-التربية/7626871",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T10:52:00.000Z",
-     "seen": "2026-11-21T10:59:44.187Z"
     },
     {
      "title": "الأرصاد تكشف موعد انخفاض درجات الحرارة وسقوط الأمطار",
@@ -256,6 +256,13 @@
      "time": "2026-11-21T10:45:00.000Z",
      "seen": "2026-11-21T10:49:44.869Z",
      "impact": "استقرار سعر الدولار يساعد الأفراد والمستوردين في مصر على التخطيط المالي وتحديد أسعار السلع بوضوح."
+    },
+    {
+     "title": "سعر الدولار مقابل الجنيه السبت 21 نوفمبر 2026 داخل البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNc1FaZGdIN3VJOF9YTUxLcDlpUkhnaF9RWW1rX3dPZlE4bTlDdHIwQmZzMVlZZ3I4UVA2OFZ6TE50cE5waUdzd1FFUFB5U1FHWk9jamhRdjdJMGdxakhNR3dvQUpZbkQ4SEJhbnV5OVREMmt3Y3Faa1Y4bXpuMDJ2b3FGRnhzN1l4NG1SSlkweWM0aERiZzB3Z0tpUnAtamdvanpxbUdNQnhPZXgzdC1CRkY5eGtoMVdXbWhSMGtmaHFvU1JfZ0hGamxqaWVsN0hmNEpLWk1Lc2t6WWV4eVpGLXZEeHBBVmlfa1R0eVdyUTlWdTVibDlBMUFIOXIxcVJPNjdvYzN5eVhtWkNxVDcwUl9tci1WNU9Vcnd4NWIwNW5DVWt0MHUwRG1aamQ5UWtROC0xdnlQTzNyWFRhWW5PVjFOWVhrZW5pRkFTT2Q2U1dWZVk1WFluRnFmUTBuTkE5ZFhXcDY2X2pTVUtWSlZXYVRlcGdhR21oaVJSWU92azJuYm1GM0FEVmllbWNNWnVYQjdIODJWM3dKQlljb3JnTXJ0ejBPb2tLRlBsb2NTNHROX0FNSGdVNWR2SnMzU21vZUJhb1ZxU0RTZUZkVW5aNWJCWG5YMjU5V3F4ZkRHS1RNVjQ2N18wZVNXeHpPYTBzd2pyMlFzeHljYVpBQVFtSGpn?oc=5",
+     "source": "CNN الاقتصادية",
+     "time": "2026-11-21T10:36:53.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
     },
     {
      "title": "وزير المالية: نتطلع لإقامة شراكات إنتاجية وصناعية بين مصر واليونان",
@@ -340,14 +347,6 @@
      "source": "BBC عربي",
      "time": "2026-11-21T08:00:05.000Z",
      "seen": "2026-11-21T08:06:02.605Z"
-    },
-    {
-     "title": "أسعار العملات الأجنبية اليوم السبت 21 نوفمبر 2026 في مصر",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jdXpUYW1lS09YYnVCY3hqWkxRZlFFMnV2NXBxMEZqMnZjdUZQVEZUTkV1dk4wMjFONzFyRVlXMWNBVWJuQzJv?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-21T08:00:00.000Z",
-     "seen": "2026-11-21T08:06:02.605Z",
-     "impact": "تحدد أسعار العملات الأجنبية تكاليف المعاملات الدولية وتؤثر مباشرة على القدرة الشرائية وميزانيات الشركات في مصر."
     }
    ]
   },
@@ -391,6 +390,13 @@
      "seen": "2026-11-21T10:16:03.159Z"
     },
     {
+     "title": "دراسة تكشف حيلة تخفض ارتفاع السكر بنسبة 40 بالمئة في دقيقة",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQZklxWjdLa0M5NWpjcFF3X2thVjczOTFIRzdxRG0wdTY3Y1pGOUJrcGtrUzhCbHU5N2F0YzR3Z3NKWlRlTmEzQW4yX3FsYTlXTEFjLUpRdFJfWVhmOGs4czh6blhzS28tV255dzlGeXpvY29NZnl1RkFSSHZKZUFwOWFXLUNONEZ4ODhteEFRVkkzNXFsNHg0WDJTN1FBR0F2cDg5MjU1S3ptQUFCWFRBbDEzYmhPbzRTXzl5Z3VpM1F5Zzh1V2Zrc2laekhFVDRZMElpanJTZjRiNG1sUkQ0S3I2bmtEWllNcEFPWE1uSGlRRXluaC03cnNjcTMyd1JsTG94ZmdQMXVOVGd6dlFXM08tNUJVZ1BKeVB5b2RNb2tPOTJycWRPVFd5dTRwNm5vS1hySVZZV1pFLVZqdnRPWndHVGppQ3lsWi1SdDRLV0NrT05NTmowYVJGemJ3MEo2ZzNhVDZIdkFfN0hqZzQxZzIwM1pKem1INHZuQXNqVjV0aVdWY1pkTDBrSnRqUm5jRXZvMmRnVmVZZHl1SDRRVEhKVjBTaXc5andSNkdxdXZicXhaaktNSmg4QlIyVFlJbHBMbmpfYl9EcEhr0gHSA0FVX3lxTFAwX0VSclhxQ3hUYVUtRnVsOVg1NTlEOWdrUG1ILXpDNGg2aFNQNFRNMTV6VDVZZ1dZOFJNaDJoa2FYb045X2NNVGlPeWFuUG83T1pIRkxIY3hrRmsyeWVpdjNsazZWdUtaMWJQLWNERzdhLXlxd2w1azdiQXRWMFFYZnJhTnpoeFpTczEwakZucGFRdGR5MnQwcGxQZFpJZ0ZwRlhmYi12Y3paN0NCY253TXl6dXU2QmhYZGhIRmxUNmJteUhVQ01aVGljVE12NVpfQ2J2dl9qUXNNdXFZZ3gwOWlFOWVBUWNzYkVoX1dCTkdZLVBQVHA4Vl8yZHUzOWhsVU80ejVhd3Ruckx4Y2NYNkM2TDNPRnI5UkRFVkxscGF3dlFNNTVmdHU5T1BEWXhndFZGU3dFT1NRcEItM2Z0OWl6QnA4ZDdhcDU0TnBWb0VMdXNFOXBRWVNGN3FfSkE0ektJZHA1QVpvWVlkT21Ccno0OE1RT0tZNzFONVRPUFZRd3ptXzNIcjhnazA4Q0E0NnlyVkFicGd3SnVXZEVSQ2tDbUE5TFdZUTNSdnFTWEtWY0FMNjJ6TTItM1I4MmJJaEhvSFBzSHBrVjFpb1Fnbmc?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T09:45:12.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
+    },
+    {
      "title": "مروحيات تطلق النار وجماهير تفر.. ليلة رعب في المكسيك",
      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOUFhmODdWM3JCc09uVGhIajd3b25ha2p3ZFJpME5iT1RvZFNlT1dfRndBel9UTWxJcklXM3Y4YURVSkpYYm5QYXNJX21pbXZmVnd0Y0k3MzhtandkMUFFaE1lS1NhUXRVZUtKZE9NWkt4RWVsa0d5anBFZ0YtampMemMzWEtoMEk4TWpaQ0ZreTl6QXBkWDliaVlzbXdBcXlRdDJsenlCa1ZkeUtmdm9HYzB0LVdUVHNfRkdaRzFnUkZKNkRjTEhsQWxueGtSazA1alJDQjJCaXhlSU1XXzZsR2RfTVV5UHFFZ3VZUlhYYnBvTUhNN0UzdTR5X0RfUlhxVDIxVzNDcXpxRVZUQ1AyZk03dTBPb2l4NEZ5SlZhWUFGMTFubDRLNXVkU3ZCaFRIVklfbUE1U0pqY3NuREh0d3NnaXBFSWg3YXUzWEVRT1ZOWGZSVy1IQlk0Q3NMdE1PTG5KLUVzbnN5SjYwc3Vmc1AwcDd1bGZFSEwwNTF6S1d6YW83UUpwVDR6TV9OR0NMb3lGWVM4TWgzT0kwUzdXV9IBpgNBVV95cUxQS0NEcDZPZDZGTkphOTJyODBySVEwTlU3TFQ2NnRVa0NwVEpLazFyWDhXREhxWnJTN244b3dOb2pOSzIwMWZwdXRKR3NaVTU2THk1V3hRSlJkOGxvOVRaZmdYcndwT05LQnQtUWJnVXhTbWRTR1JidE02NnR3TFphcUU2Ql9qT1F4ZVlpcGhSeFMyQjBZbEpYdEI5R3hjSjl1SjR0Rk1wbnktdFhlTmpJektPZEktMWtHWlk5Rm9DR1dFVGZiNUpkOWc1RTJiYlZ6ZmI3SHJ4UEhPclJOTFJfaF9NV1FEVngxLUxjWVJMd2NLVTFqazdlWXAtNWJtdktaYTNwdXI3SWVwcG9IbDVWd05mSWRZQlVQVlhES2ExQ2pROUFXYWFIeXJCcFBKMmNTQTRUaGJwY2Q1S3B1YXBDTFJxOUtTakR1c1FmTUQwVXZlVDZqbE03UW96Z3Eyak5jOEl6OGdiNVZnczlnNUV0ZmZISDFkRnczNkY1UGUtTndqT2FvSm10eFFLc2xjV0tPb1RtRFJ1cjkxWXM1a0QwN0dDOE1idw?oc=5",
      "source": "سكاي نيوز عربية",
@@ -417,13 +423,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-21T08:34:07.000Z",
      "seen": "2026-11-21T08:36:02.884Z"
-    },
-    {
-     "title": "مجلس السلام يلوّح بالانسحاب والتخلي عن مهمته في غزة",
-     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNRHlDblRiZ1RtRWQweTEtTXVhZ25fZ29TWlNSVjUyd2QtZVkyejdQdlhrc1hjVjlnN1VINjN4djhndU84anVDcFcxVGpxRWtRWmR5aXZma2FkT3Y5aDN5bkpwaE52VjdIbjlBUlpfLXNFdmpucUZ2dXF0WkhONnBwa1paTHRUaGg0RzRwLW5vaENVTWtHNjZtalVxc1VvanpnbFMwbnFuMVNrREh4S2d1RGxFNG9CT21JRkl0NUJzSDZRcERBNjJMOURqVnByWG5uci1zZzhpRGJIZjgtdmhGQ1lMLUZRLW1NTEp1ZUtpQmZXaHU4bGVKejVSb0lKLUlObWFoTzYwYlBIem5Db25tUk9laVpUb1RMRmRlTUswWkZ2TDdiVXNQeVBTU296TWNYY0hSMkJJZnNFRlkyZjV2SXlnREJUbm1WaFljV19DNHFLWmthTHFuZFRhM24wRHlXZnhZcHI3cGljeFRmRXlkdkZ2VnJCcnhWR1pyeF94WTJwMDBHS2VkcWhzTU00QnE0Wm9mel9xb9IBnANBVV95cUxQeEQ3MVc0bEJTamRZTGlpTnJUOUZsOVFpR0xUZGN3b0xWOWRpeWtPcDBwX0tHdkdnMFYyb0pQR05UbEE5a3VBeW9LUkZvZk5pTFJwRnh5ZFVRMzA3QndOZHgta3I2Q2NQQjNsUmpjaU1QOHlKb3pJSE5nVUR2aWlaVjdaTXdIZEhUcXRpMGlrSWJGQWVvRzFvU0xjS2pOZ3dxeEFhWUFtZGRRZ0NFUGozTXhhakh6MkR6ZjdMM2hTaDBaQllFYmxZc0NhTnRIZ0REbFZ2d2RnQ2NCdEQydGRxTWxmQzFySUNNQjBCbVdNaVpJWlRCX3FFZVpwSFNaSDZsLWJjbUFFZEwzLS1qMG1KQk1aZjBicWRTNTFSSWl3eXRaTWpZVVhIRnpSY2lmOVJkR0J4T2lzRDVBa0xROFB6T0RLM0hXVjJfUi15alFabVA4MWE2VGcwdUNxazY1QVpDZHF6eDNXQnJsQXlaZ3ZuMFBWdmlnTnJCSjBKVEJoNmZHdGtNdmQ2RFZJQndjd2g3NUs1NzBkeWYyZlNu?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T08:32:02.000Z",
-     "seen": "2026-11-21T09:56:02.429Z"
     },
     {
      "title": "شاهد.. \"أسود الأطلس\" لمبتوري الأطراف على بُعد خطوة من أول لقب عالمي",
@@ -542,6 +541,13 @@
      "seen": "2026-11-21T09:36:02.887Z"
     },
     {
+     "title": "ترامب يهدد بحظر شركات أمريكية من بناء مراكز بيانات للذكاء الاصطناعي في الخارج",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5R1Q4TFl3Y3NZOEVkUXJsNHlWaG9IQ3ZMa3RRSlBlbEhhT0JkcElXbTZTeGx4VVFvOXA3V1Ixd3c2NmhodjUxaWZ6eFpMYkdxQnEzUk1zY3JhaFJsOWfSAWNBVV95cUxPOTd6RUpERkJrYmZESUdUa25HQ2c3SzJ6NFItTHY2aWVuM3AxbE5xNkIzbV9HbW5IMURveFZySDVRU3RWMThCQVlPVzNvbzVSVzlJUDNxZHI0QXp1b0V1SmJWNnc?oc=5",
+     "source": "BBC",
+     "time": "2026-11-20T23:17:51.000Z",
+     "seen": "2026-11-21T11:19:44.177Z"
+    },
+    {
      "title": "روكستار: مبيعات GTA VI تبلغ 3.79 مليارات دولار في يومها الأول",
      "url": "https://aitnews.com/2026/11/21/gta-vi-first-day-sales-3-79-billion/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -555,28 +561,10 @@
      "source": "Masrawy",
      "time": "2026-11-20T22:53:10.000Z",
      "seen": "2026-11-21T02:55:39.135Z"
-    },
-    {
-     "title": "عمرو أديب: الإنسان تاني أذكى مخلوق في العالم والشمبانزي الثالث",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yVzJDTFc5cnJDOHFuM1VwOW9IbE95NE03TVlTenlibEdmRHcyWUh3NDNSdldSODU3djFwbVBTbklTNXFSSUxvQndXQ0JHaHBMa2V2aWNxNlZra2NVVkln?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-20T22:51:00.000Z",
-     "seen": "2026-11-21T00:35:38.750Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  },
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
