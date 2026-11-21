@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:59:44.409Z",
+ "updated": "2026-11-21T16:01:09.314Z",
  "minute": [
   "شهدت مصر تخصيص 19 مليار جنيه استثمارات عامة لمحافظة السويس واستقبال ميناء دمياط نحو 49.6 ألف طن بضائع، مع استقرار تداولات العملة وتسجيل الدولار 53.77 جنيه للشراء بالبنك الأهلي.",
   "توقعت الأرصاد الجوية شبورة كثيفة وأمطاراً ببعض المناطق وتسجيل الصغرى بالقاهرة 17 درجة، بينما أعلنت الخطوط السورية عودة رحلاتها إلى القاهرة من دمشق وحلب.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T15:59:44.409Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T16:01:09.314Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59846,
-   "change": 1.78,
-   "asOf": "2026-11-21T16:00:52.000Z",
+   "value": 59809,
+   "change": 1.72,
+   "asOf": "2026-11-21T16:02:25.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ربنا يبعد عننا النفوس والعيون الوحشة.. أحمد تيمور يكشف حقيقة انفصاله عن مي عز الدين",
-     "url": "https://www.elbalad.news/7189112",
+     "title": "الأرصاد: شبورة مائية كثيفة على الطرق.. وأمطار خفيفة على السواحل الشمالية غدا",
+     "url": "https://www.elbalad.news/7189115",
      "source": "صدى البلد",
-     "time": "2026-11-21T15:55:22.000Z",
-     "seen": "2026-11-21T15:59:44.409Z"
+     "time": "2026-11-21T16:00:02.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
     },
     {
-     "title": "فرص عمل بشركة روسية في البحيرة برواتب تصل لـ30 ألف جنيه والتقديم يبدأ من غدا",
-     "url": "https://www.elbalad.news/7189114",
+     "title": "5 أسباب تجعل شراء iPhone 18 Pro أفضل من آيفون ديو",
+     "url": "https://www.elbalad.news/7188980",
      "source": "صدى البلد",
-     "time": "2026-11-21T15:54:59.000Z",
-     "seen": "2026-11-21T15:59:44.409Z"
+     "time": "2026-11-21T16:00:00.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
     },
     {
-     "title": "تداول 21 سفينة حاويات وبضائع عامة بميناء دمياط",
-     "url": "https://www.elbalad.news/7189113",
+     "title": "سعر الدولار مقابل الجنيه المصري في البنوك",
+     "url": "https://www.elbalad.news/7188422",
      "source": "صدى البلد",
-     "time": "2026-11-21T15:54:47.000Z",
-     "seen": "2026-11-21T15:59:44.409Z"
+     "time": "2026-11-21T16:00:00.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
     },
     {
      "title": "البابا تواضروس الثاني يترأس صلوات رهبنة 12 راهبة جديدة لدير الأمير تادرس الشطبى بوادى النطرون",
@@ -195,6 +195,13 @@
      "seen": "2026-11-21T12:49:44.721Z"
     },
     {
+     "title": "سيدة تستوقف وزير العدل بمحكمة بنها: \"معايا أحكام من 12 سنة مش عارفة أنفذها\"",
+     "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNcC1lY2lOclB5dVQ5SExDX1huR25WVWRscUlpVU9rVnNDWUxwV0xELTdyMWZEWGgzenVaU09Sa09zTE5jM3hFNzdKMEFCTURiN3VucG9WVWYzX0JjaElfSkJBVUpjWU5kV01XSGdKNWJWZ29WRVhQUTVRM3dxSjRkYXl3NGJwdzBwNFNmcUg1OHoyWnV6dTczb3Q5dUs3UHFvMkZQMDczSV9ZTXdXYWl2dXdFVXZHZ0JYQjMzZl9iblhmT2RMS2xMc3hiT2FRVVZvaVVZc0FuNTF1WGFvV3NDOG51My1tZ2dNSGtGMVBXSTJGbFVCTVVkWDdoS2VUc3JqYkNqdHpZYWdVZ2lRcThYd3NEWkRsSDZwUl9kSTZhTFdTQjhQLTJfRHdpUmJmOUFVaUc4eWxTZU1ENzlEN0ZWdzRjNExRTFBEbS1BNElYdTd1LW9zX2p4WlJWVTl6bHAtdmVTYnhDbllEWThMQlVXZkZjN0JOeXc1S3dLbHFWVkhYSTctaEZvbEFUVzZUc2NpMEdja0hkZHBzalQwbXNLaE81TFp1WjRrUzRnOXh6MktucXE2MFdJSUJONzNxa1h1WU9wTlkyZ3diVHd4Y3NzOWZ2V1UyYlNranRFbFVkUEpZSVFkQU4yd2JiWE5YcXQtTHpFWVZIQWFPR0tVOWtQdGx4UXJrLUdzLUxIODJvdFNFTjNldjA3VmMySFRFOVhpSzdLMEd2b0xsbThkVVRVTy10WWtnYVdldkF0amExWXlpc0hHVlowWHFIYjFYUFZIejgwOVd30gHbBEFVX3lxTE5jdUp3MFZ3Smt6NHpTMXVXWm44SjJvMmtTaGxkVEIwT1FuVEFZU2Z2UnVURWttUWwxcmVVRnR4MWkxOTNfM2NfeXBkb2VNdHVzSzd2b3ZCV0E2anJvVURFdXhVSC03OTFuUEZHOHpnQ3Zmc3ZieXRRUmdidTYxd1ZIVUR2UmNjcTFmaGdycUM1eHB1ZnNuVGtpQUROQkg4UnY5Z1QwV1h3ajZVT0NmUW9jSV9mdks4cnYzemNZUTdwT3pUQ2F6Y3FEYmNNT29feWY4UzQ4NEFhRVBwQXVscXRXVW1XZHBiZC01aXBKYXNuRmRvZTBTZ2Z0WDFQZ2NabzBfb25HaFYwOC1qZlFBY1JlMFZUcTRJZTYxbWFuN2tiUzhRTEttc2RMQW1FTXZOVjFYc2Jhb0NuTkhSV1B4SUxHUVotVlBtU0kwd1I2SmZ3QzlzU3dGRzlrLXE3OGNqTVQyV3BCYWsyeGtNekIzejlWdzg5QnhxdjREMHpiUkNWbWZRZ25XSWs5VGZybDNVQWNlWEpCWmZ5cnRjejMwaXlOUy1QNzNZNVF4dXphY2JBWGFfYmxRZF9ubEFLYzNBbG03ckkzY3NSSUhqMloxNEtWRXJwQ2g5RFlUdXZkRUFNWk1SMWI3VDlpWld3MlNybkFxcWNfVVc3NHJrMVpqUTc2UHE3Vm0zdVlxT0RFb25MeTlFTy1TSGlRUVhCZ1lNUTRsVE8xMXVWZ1pHa1QtTHZ3VnRuM3NfQ3BzWW1DcnUxUE5mWVNLNkt1RmhsNmdRcWtqSWRvZmpod0haUQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-21T11:25:55.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
+    },
+    {
      "title": "مهندس يكشف أسرار إعادة استقامة عقار السنبلاوين المائل وإنقاذه من الإزالة",
      "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxORHV2a3pmbkNfZmNSSU9LMUt4b2dhVEtlSVA5a0ZHVWRvMEFyV2RaeWZDQkhuNzFFNjU4Ri1MYVFCNnNEV3FJdkJhVXI3UElvdFNaRkZKT1VzQVkzZi1fZlduVTRkcUdEdW1RVEZtOWFIV1dPeFRrcmJMSGtmSHpxcDUza0FlSnZhellKU0lwVnBqaGVLZGI3TTk0UFZKVExfRFp6XzJwYlg0b3pQdE9fWVBNYjRqeEhXakJRX0FnVndaZ1cwRDVNZW5RUWcyVVNZTWMzMVkzR05Bc1RRaVNhWFU2RnUzdi1YX3hwRS03SmVyLWdYYk0ydlFkaHpXMmlKNmdjV3pFbzhlQ0RUZnFTZ1JhcVVzWWZFSERzUThuNmxBeGN0bUROdWpMLTlzLS1PdkZ3cV9Odml1amRKbFZNa3dmM1A5eHBMVnRMZWtGRnFNV3M4UW84QjdqeUozTElPRXZicDktR3NjZnczTDFCa1k5ZkQ5cGRWTlZpU3RRR1ZUYXNyTzBhWkJyOFV1bnhYaDR1M0FVLUFBS250dVBhTi1LRUtnUkg4RG84NmVReWk2UThRRjg4UFlYSnpRcnFVUHVkZnFkY25sMDJmb2k2RlZTdzZQYnVxajRoVWJ6N1podVhGZkZxNUNqQmtkYmZCWjMzdWF1bDNiZWhCVHlzaXB1UXZhTC1Iam9VQmE0UVJ1QlhobjhzX0puR0M2dzBTRmEyVW9Vd2JXMDhoVlNPRDQ2bS11LWc3Mzk2QXpKSlBPUFprZEtnaGcxMlQzOWNnQmpCLWFpYTU1YmRfbEdHN3ZCd3gyOGFBM09uN1BLb19QVlRXTVHSAfsEQVVfeXFMTjhZbHphQXVVajVVZ0RrbW52OTVDQ1BhVnpVclpHRmRaVXdZRHBtR3hCUi1uN1RROE1rU2pTWk13QjBmcXQxQTNJdE9yODFYeG83dFI2R3ZrWWcxSDNqWTQ1b0pCMHluR2h3czJ0Vk1BRlRDZ2Mxc0kzZThmX2V5dE0wWGd4ZkhFOVFzbmI2Y2VnZnRkNHlHS1A4cXhCWnZmRkl6Qi1kZm1KSzFsVEh2c1kxRTRrV2t5NnVCTTFGbWp2VzFqREdVZUVUOEM3Z0J2dmxzWE1rVUlmSHJsWXhfcWxZcU9qbzQ1NzVXdl84RXhCUHNTZW9xSWxIdHgzeWZhNUgyV0FnWmNZWlp5WjVaNEdFemMtSHB6MVNfaEdCRHdJZnBrRDFFWjZSTmRoSllnWEUwb1M3bE9EMmJzX1d1NGhpOHJTVjVDdEpWU1hBR1BzNUljV1V5dzlxOG1pNU96TTMyVWRWTlJBWHJUMmpXYUNWWk9HZjN2dTZnRm9DZnpxU2hERU54TU1lRzNac0VXQ1c0NmVRMWM5QlN5cHdYWVMtLUpnWWhGSE9nWmtEQ2FUdFlCX2xsMHVGNWNsc09BNDhJSVVGeVlXZ1UwZ3pBUTVpVTE1YVRqSjJEcUZrSnNJd29jV2ZFQjdoN3NYTmYxNFpGckJ4R2o3d1Exc0x4bm1ZRkl2VXA4UTRkX3dVQkdpYWJYWUxYQWlOdmpjYjlscTlnZmFrQnlSYWxRNHFydFROalA2WHRFU1BTRGF1MUd4RFhPM1cySFA5NlNWWnhzNUNiYkgxX1I0ZTk2Y01WZktZTWRHcFdGMHRUSjRzb1owT0lIVjJYd09Cd28?oc=5",
      "source": "Masrawy",
@@ -214,13 +221,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-21T09:48:00.000Z",
      "seen": "2026-11-21T12:29:45.064Z"
-    },
-    {
-     "title": "مبارك رفض إنشاء قاعدة أمريكية في رأس بناس.. كواليس يكشفها عدلي حسين",
-     "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNaTNmaW04V0pPMjA4TkYzbGljcHJaOHZLaWZmaDJNemRFZmRqZTZXYjdBa0daSXBnSkdEdDJUZkR0cTQtREg4bEdLMjF3WWNSQVZPRnZTZEZ6RVFQV1YtallOWG1YMzJ2bklUYndTM051MjM5dnpKSXhLYlNjQlplRDlqWEpFcndUWFZDOXZjc2N6eTRaQm1mZ0ZPRVk5TVNzaWdTM2k3WHZYTUYxZzZwU0JpQTQ2aWRubF8zbTk3RjBxbF9rVW9QQmxjR09qQ0hFUW5hcWNvZUExcE5wSzRkaDVTQ2RMTVJ6eXl6Rk5uLXRWOTkxZEVzamZ4Q3FqWnowaWxENnNDTmFyaExuZTdsb2pISTZZOXBNakFybmJoWTFFQVJrY1JrMzVycm1qWmU5ZnlmSGlNdWt3ZUFyV0djVzhKWFJwLWJxYk83R0pZWWhtY3pnaFRPQ20xWklkVVUtM3dLdE04SUpTU1JkY0lfWUI1Z3R6RHNQNUhqVlViTmdTQnM0b0pRQ1JndTdEY1ZMZHlWTGwxUTBUUGZ0Vkh2MkpxVC1rNk80T29wbjdta3p5TURJUUh5MlhXdV9VWlpDS3psc2RpeGFrZ01aVktQVlRvV0wzTTl3aWdlRjNEOVVnWjNzNTd6WE05TUJIcGdzbFp0TTU4QzBYRUJkYy05MDNqZkVBZ2liVktHSEw3a0pkemszTGExaWdlczlkaXBXRnpxamdReldtRUFzYm9XazZsU2XSAboEQVVfeXFMUHhDMDRUTEFjUVh5b0NwX3RnU3UydEVneEl3TWF1T1I3cVc1UTQtU2NUQVdzelowdTRQa18xWDJZRjNzUnoxRzZ5VTZfV0VuYUtuenlfVG5RTlJ1RzdUcmQxZGxDX3FzNnBIcndVdng1SUpPazJkRnR2Y3JDNWYwNG1EbHVBa1g4c2FoeG9OOFV0SDY4d1BjQlhtTmhFY25aMDR4bG8xY0NYb20zVmFYWEFyaDh0Z1NhbU0xVnR3cnJRNGN6RGkzX2JhY1BWdVZHdGFpQ3hWcHhYSHVqV1FCQ1I3NHV4VmlEM01LZDV0QjB2TTNPWHhoMzVoRzc3MUZJRkw5RGpXX0tkX3VERDFkZVlhSEx1M0JUYUNRWE55SG92Mll1SEdNT0dHUFREdlFYOXduamN1cGZWOWYxd1h4cFlieWNIQVlHd2xGaHBpdnB5NzV4OHNPdGhmaEpGRnV0OFJuNmRtQkpRQmZUd1dQSGZwWDNOZmVyYnE2Vk95QVBBdDEzTHphcTdya3JYY0RmbW1nN2c5NmxONm81Q2xTZ21IemNoaDhER3Z3em9hZWxiOGFWdGYteFlCMVJua1k4eUJvbmZDZkZpNWlrdDkwa2VjNUZDM2JrLUxMSnNPX19uTzhMdFR1Y3BFcDhrcHlJajRhZHJaNTBhZnB4MExQclhvR0drQTVrZk1ISlhPLTFhdEZCMFlPSkRGVk9rVW9kcmVpUGpaNy1YWTR0aVBWRUNIRkp5amxfNlBB?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-21T09:35:09.000Z",
-     "seen": "2026-11-21T11:49:44.403Z"
     },
     {
      "title": "مكالمة تعيد قصة الجمل \"جميل\" للواجهة.. وتشغل المصريين",
@@ -290,6 +290,13 @@
      "seen": "2026-11-21T14:39:45.140Z"
     },
     {
+     "title": "53.77 جنيه سعر الدولار فى بنك البركة اليوم السبت 21 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNZTZGSUpuM2VTM2tnVWE0QVhDUEtIc0xSVlFSaEtXLUMwZXVnUnhWNUoyMnREOHc1QmRvOF9YTHV5bVlXT0RWUDJiaTNBV0ZWMi1INWd5OElfQ3JyNVBpaG5EWjlJMnk5YjB4Y0xGWl92UFN1ZkdmNVpMT3c0c2N0eFRjbEJScERRaTVoLXNfNlA2M0ZCQ2p0XzhienpVTVVEc0gwQ1pQLU1oS2FWczRnZk5LcGFJRV94ekcwdzRFOG15aXE0NDNjVS1ya2JZUy1MV2VuaEN4bzZRa1BXNlllLXY5N0p3eVQwQkJWUnpwcHBOeHdCZ3hRNWhOd3dVZzBtWWdkVGhfT0doUU5pY0t1TnFhaEpLWG1rSjZycmxSM1ZfdFA5Q184aGxvRzJQTEREQ0pET2FpUnE0QmlpVzgyYVg5dWs0OVNqV09LMUtTZ2FnT1A3WFpteFpUT3I1SG4zU2RFWjlLUEM2N1VtSnJTQk1IWndDQUVnZ2ZDcjEtVdIB_wJBVV95cUxNZTZGSUpuM2VTM2tnVWE0QVhDUEtIc0xSVlFSaEtXLUMwZXVnUnhWNUoyMnREOHc1QmRvOF9YTHV5bVlXT0RWUDJiaTNBV0ZWMi1INWd5OElfQ3JyNVBpaG5EWjlJMnk5YjB4Y0xGWl92UFN1ZkdmNVpMT3c0c2N0eFRjbEJScERRaTVoLXNfNlA2M0ZCQ2p0XzhienpVTVVEc0gwQ1pQLU1oS2FWczRnZk5LcGFJRV94ekcwdzRFOG15aXE0NDNjVS1ya2JZUy1MV2VuaEN4bzZRa1BXNlllLXY5N0p3eVQwQkJWUnpwcHBOeHdCZ3hRNWhOd3dVZzBtWWdkVGhfT0doUU5pY0t1TnFhaEpLWG1rSjZycmxSM1ZfdFA5Q184aGxvRzJQTEREQ0pET2FpUnE0QmlpVzgyYVg5dWs0OVNqV09LMUtTZ2FnT1A3WFpteFpUT3I1SG4zU2RFWjlLUEM2N1VtSnJTQk1IWndDQUVnZ2ZDcjEtVQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T14:02:02.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
+    },
+    {
      "title": "التضخم يتراجع إلى 12.7%.. مؤشرات جديدة على تحسن استقرار الاقتصاد المصري",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRndDREJGd2xwUWVUZDZqalRxS1h2WnBOT2cwM2JRc0h3OEVrUXpjdGEtM3hMTWIzUkZYak1DOFNnZTI4akNtMnFJOUFGNmZUZTFFMWtPSlZQWTFtR0xiNWVISU5QRm9qMTBFOGN3ak9lOEEwSEJ4YkUtM2hKX050UmVjZjVyUndSX18zcTNNQXpSZ2VoTmg2STVuTzE3ck9EUExscXhBRTJDNzVkSzM5SFhmOVg5aDRnUmlMbXhzbnlNNlRSS2ZsM0U0Qi04aDdiNGxlcjhvcWw3X0dKVUE5UjdsQjNYQWE5RTc5R0Nfa1I3TnZhX3ZZb1dZWkNJaVk2S2c0TnFTV0kwWVdMX2YxR09rYXBqRmlYTG1QMWtiVHIwTDRUMV9SaWZ3?oc=5",
      "source": "عالم المال",
@@ -342,14 +349,6 @@
      "time": "2026-11-21T11:44:00.000Z",
      "seen": "2026-11-21T11:49:44.403Z",
      "impact": "يهم الأسواق والمستهلكين في مصر لمتابعة وصول سعر الدولار إلى مستويات أقل من 54 جنيهاً."
-    },
-    {
-     "title": "سعر الذهب يخسر 8.9% عند أقل مستوى في 14 شهرا.. تحليل فني يكشف التفاصيل",
-     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOLWRsTXVoaVNnNmY4NXJ1Rm9KZENYRGZqX05ybW5SMVhQdmVPS2VFYW1EMzJ4Zm9xUmVQMExfNkpEMExzbFpzbFJJTXlUSmMxQzg2UURTd0xlU0FaVVkwem9fM0ViU0g1S0VoaDRLd0FtLW52V1V6MGZsN1k2MWE2RGdpdzVJLWxWTndndGxUMjZ2bkN1emZ2NHYyUkw4WVhtUDVCTG9pVmNwMmp5MmNTaWpRTTZYeWFya0NuSTJZRWNlMXd4WVRmdF82ZXBUUnQzN0pwdF9yanBvU1E5d1ZXVWdrajFfZEp3Zl9WQU5NTGtUbWJkMEhFNDRfenFzOHJCOWY3MnlOUFRKYS02OXUzV05STDBDUjVlMkFLMFhGeXhGOGRyd2toNTVSMDdKT1pucUtZRtIBrwJBVV95cUxQZmZrLV9wRkRFZ2l3ZjVkaGUwZ1BXZG9LRXRFYW51WjAzQ2ZLOXNLZHU5dENRbnU5U285MjZVV3pDN25ETGFrNVpRRzdkb0pCbGFia0ZLa1hNRjE1cnpsZ3pZWkdZOTJST1dUSTJ2bXE0MkxBVDhnR0UzRkthNDZ1UW83ZHZ4TmRGOHlubHg5cEU5LUFhak5zQ0hYN0JkX1cwQ2gxdVZSUTNTWVZ6ZW9YNnU2aDBLaXRCX0RKNXZKY0ZSVThXVS1HczRfR0stYm5LYXBKTWNqX3pQMGRFQWc4M3BIZ1NzendUdTBNcWU4WDMwM3htWHkxd3ZMc2ZTamJqcnQxYUloOUtxN1NPcWR6WkQ4RzBNQXN4LXh2WG5Hb0JhNUVUWGJJMU0yWUtZVnM?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T11:32:00.000Z",
-     "seen": "2026-11-21T12:19:44.717Z",
-     "impact": "يهم الراغبين في شراء الذهب أو الاستثمار فيه بمصر لمتابعة التراجع الحاصل في أسعاره."
     }
    ]
   },
@@ -463,6 +462,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "تسريب: Huawei Mate 90 Air أنحف بكثير من Mate 70 Air",
+     "url": "https://www.tech-wd.com/wd/2026/11/21/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-huawei-mate-90-air-%d8%a3%d9%86%d8%ad%d9%81-%d8%a8%d9%83%d8%ab%d9%8a%d8%b1-%d9%85%d9%86-mate-70-air/",
+     "source": "عالم التقنية",
+     "time": "2026-11-21T16:00:54.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
+    },
+    {
      "title": "تسريب: Huawei Pura 100 العريض قد يكون أول هواتف Pura بشاشة OLED مزدوجة الطبقة",
      "url": "https://www.tech-wd.com/wd/2026/11/21/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-huawei-pura-100-%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d8%b6-%d9%82%d8%af-%d9%8a%d9%83%d9%88%d9%86-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-pura-%d8%a8%d8%b4%d8%a7/",
      "source": "عالم التقنية",
@@ -477,12 +483,11 @@
      "seen": "2026-11-21T15:39:45.151Z"
     },
     {
-     "title": "سامسونج تطرح تصحيح نوفمبر 2026 الأمني لهاتفي Galaxy A56 وGalaxy A26",
-     "url": "https://www.tech-wd.com/wd/2026/11/21/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-2026-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a-%d9%84%d9%87%d8%a7/",
-     "source": "عالم التقنية",
-     "time": "2026-11-21T15:28:31.000Z",
-     "seen": "2026-11-21T15:29:44.998Z",
-     "impact": "يهم حائزي هواتف سامسونج المحددة للحصول على التحديثات الأمنية وتثبيتها لحماية بياناتهم."
+     "title": "هل أصبح التنبوء بالموت المفاجىء ممكنا؟ دراسة حديثة تكشف",
+     "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQNEZUQ1ZfU2xSZnN6c2s0ZmRPZ29URm1SNjZub3NDN0lMOWloeVQwR2syRWxDQm8yQWRESXBBUlZ2ZlhfSnRhZUdjbTBWT1I5elNtSFFHMG1rdDNUenNSYVY4TTVsNFZkRERxSnZwcTkzM1FyZk9Rc1RSOUdiWUFiUW5RdnBsRUhVMFdFU28zdG55Q2tNZlRfWEFHU2c5bEhYRDFtRjJsT0hldjhudW1JQmFhTVlCMWF3S0hkaTdwN0FaQVh5cU0zRnlFNUY1UVdLUVdoVmxSM1BVMk9oajF5UE9PZnh3bW1oakp0eWJOSHExNDZMbG1HaFY1bGtRbmdjOHRNM2tlX2lteXl6SmdBXzdNMHRqV3FkSTJhLWg4NmV2QW1Ca2wxUU5DdVo4OUFOZldRenY3RkZMam5DU292cnlQb1hFZm9XYXZ1cDR2NXVnVmhXVS1UVWZsMllvNDhTS3o1V1h2cV9sZXllY0VxZ3FlZEx2TGpfUXcxQ1dQblM2ZW92MWctaGZXWlFtM3huTUZUTlFCcXRPeUNNMGxoTk53U21HZ9IBqwNBVV95cUxOc1M3TXJQMnRTYmNicWhfWFJFM3o2dEtXcllFUExCUGR0QWFBMzFvVW1LZlVIak9DeUVQZnhLbXY1c0l2VGJ1YnJQdHAwNFRUYUQtSVpwZ3phc2R3TjVFb0NFTkt3UDlWSndiMm9rcXJuU3RZV0VhRW5YUjlQV2tGU3YyeXJyS0FsLWdsdFNYcnRncmVQYXVhZWFFdzMybDczZWlCUUE0VUFfYndhN3ExUHpHV01MZkxsbHRkV1RWR1VZRS14cC0xemdBV3NXdHZxc19HeHVWcTZGc0ppM2JnN3hsSVk1cXV0aEhCX1VMY1BaYV9ya1dSZmwyLTc3VjRHcjZwaVpWUjBlQ1hDQ2ViRUMwMEN2bFM1anV2aFdJT1locGMxRVEwQWdHRjcybFZfaTN4dURWbHFVdXdWbHdNR0VkQS1yeXpaS0VtakNTd3hWMklaVF9ENzVZSk1OVmhMMmZ0QWZnenJmaG02UHVjQWotQVNJRkV3allPX2xKMGM3Sk1PMjVfSmd0WEpLT0VDUG9oSUpnMHBhU3JnbUhicE5tRDVfZl9JYVI4?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T11:59:04.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
     },
     {
      "title": "دواء واعد لعلاج سرطان البنكرياس بعد اختفاء الأورام لدى مرضى، فما هو؟",
@@ -530,6 +535,13 @@
      "seen": "2026-11-21T11:59:44.245Z"
     },
     {
+     "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
+     "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOaU9aQnV2NEFmcWlKSWQ5eHJTcDdXc05CUUlpZ2lPOEZoUTBSYkNvNjM4WDRDcmo3bkoteEtIVUlvSmRLUFI4X2toanJjWDhyN1AzaHA5RzRYWnMyYnlDaGJaM0d4T1BoejItZUlKb2RLWVR5b1A0cE16cWZiZjEzZjBnQ3NzbW9fVEpHaHhmN3QySWU4cC1NdU8yZGxSNVFvQTdCd05fZU45ZzNZYUFVYUUxWXMydU1mV1ZwSFE3TzdRUVcxTnN3RWM5VGFTVHRrOEZoY0ZkYWFhLS1YcGtyTG13VlBuZy02MXI0Y1IxVGY1cURwOEJONzRhSFlDNC1GXzlqQllVVEFkNUl1M21mZFVkSS1NS2VIV2k1ZjhGMm5odF8xU0ctMHB6WWZGSEV2Z3RVaHFLRGp5T1RfRVdmY1R1cWhVd2ZXTWVLU050bkZDbXlkUmFsUDIzTjVtek9JaFFkYUlkanBqRElpTjZnVXZYN1UxMnA3eFl1WkZaS1dqR1MyTWdTalBkZVp6TF85OHBPRkh2bUdzeTllXzlMbVRHaWlnZEw1TkRPdGFzdmF2MVRmLUg0M21IUVUwek5wSDRZSWx3ZUNtRlRuRGk4ZW5jTFNGMXdiaU4xQnBnS2dUWmZwOFZnUDNETEwzNUJsTld0VlRHeUJHVHc1cjBMUkRzWkdUTy0x0gGIBEFVX3lxTE1oYmk5Ym9nOE1jLTFSVXhQQzMyd29jQWRtWmQ4U1lKVFVFQXVZNWs0bm15ZFptOU9mRy1mSDcwdnFXVHRJNGRkNWRWMUVvcDN4b08xUFpiQU9uYmF5bDNLNHlSbWJka2wwZjRYZ0RGT2p4ODlXMzRXam5YOUpsVXd1TjdRM2FkeURMLU1FTG9WbEtscDMyOTdXS21PUGNncUZ0TjFGS004Um9MQVJrOVk5YmpkMThob0ZVbjE3NTUzOF9MYXRPVXVVU21kU1Y1TjBHUGNraHpWVUtRY3UzQXBsNl9MU3otemhxVGJ2MzctN3Y2aldDcGRUZ25KSFY0YkRicXNBRVpuMTdhYmF6WE9VeWlpRGdTalppdGFCTWRUNzBacko5ZFpfVGhaTTVKOF83MVNiUnlQMThKY1RZRXVlTTdoLWU3bjBCOXB1Vl85bm9saVRSVHBlTFlNd3lMbTVZMk80VFAydkZCbFdMTm5iQ0dUbmJ0cjhOQjlpTzJOUjVSdGYzams0STlnQUVNNHZaVGo2YTRuR044bmdKM20wdi1LajlhMmw0Z3R6YkxxR1JVck11SlNSUjhIRFk5WHYxRjZJUm10VFR1b1p6c0lWTVA1MkJuY19jdEZ2a1lZM0ZDTnA5VkNtQ1RxRGhJWWZXcnB5UVRoVUNCWlFSTWdJNm1jYVlseG4?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-21T09:09:29.000Z",
+     "seen": "2026-11-21T16:01:09.314Z"
+    },
+    {
      "title": "منظمات حقوقية تنتقد تأجيل وضع قواعد لاستخدام \"الروبوتات القاتلة\" إلى ما بعد عامين",
      "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxNX25KWTRNYzhzNU9BRTFYaWJ1c1R2Q2ZjdHh5LU0wU1pnRGtSZ0hoWkNORTNLSDBrWEtDalk3bUdJMVZqTXFiQkRGX2RSR3lDcHRGQWEwUjZoRG5sMmlKR3FzTWlFVTRVdjViT2VtLWRuS1Y4NjNUMzVhRVBXRTlzcEF2ZHhtMk9YQjRpVDMydGxaN1BMZGFKamZWbnp5dVRhVEp5QXptM1UtcFBLSWh2Ml9rMm4tUGZ3cTR3Q3ZVTEJDQjdlSWJ4YjE5SVZoVFY1VUhiUFZkb3dtei1OeFItbzRxUWd3YnJxcE11M0VNdjlmZDJiVld2NkItOVM1RGNRdUhkWlVxcG44NF9pMjhDNmxpQURyZ0k3NktLaFJFSFY3VExoSWxCYkw4WGUzX1hXcGdRWnIzR2hUbFZFQnZfSDFfWEtXZk9wRzN4NExjZVZIajVUamNrc09Ub3QtcnlBRFRSS25ud0JNNFRJTUNZN3VsS2dMejF2bGgxR1YzcnNoQzFjem02aXV3U0FHT1JQbVY5MDZ0R0pSd0RUR3o4QWxGcDVZZFE2LXp5d3p6UnBiRnRKZWpxVzVtZHllMldNcFJzZUotNE04N0xuZVBhQ19nR1NhY1JZU0pIYjNlU1FhekJpZjB4akZmY2N5WkVvbEt2d0J1aUlqaUdpQmtGUThQX3hpWXJuR3RuZXdpcHRILURTQV8wcTd3MTUyT0lGVnE4eHJ4Uk9kMzkwajdJT3J5YkF5d3RqS0s3U3FNa0lLMldhaDhvdUZSTnJKTGpPTFVEU25ZbWMyeXpSaUJybmRMdnRhYkVQU0FKX09kaktBcHIyRG9sZmdwNVdXMGtDNUlOZXJOQXRnWlZGN052SEhRaTFEQnJjaGt0QzZjNTVUeXMtbk9wQTFnU3pXalZzWkVOaktUTXJXTk5PR1hMZkF0RHg1bnAya3hNY3FfdXhELXhZXzA5c21sUlJYTDl6ZDJVOHg0YzJzQdIB6gVBVV95cUxNQXJlaVVSOHNSZUVNRFJheEdMM000d2FpLWdhdndWY1kxUDk5TjlpdUR2YlE4OGxzVzhfdXROdGNVUTJhMklEaXFkZDItUlVFT0JOT01TbzNaTEJka1RLZEI5TFVvUzg0dFhMcGRJWU1oTHMwY0ZHQThyUDZPTEg2SVpYc1kxa2ZfQXlKYmJzMlZfb3hrdGNyVTBtbnVyUGM3M0VPb1poZ1NXdkZsRksxaGxvb24zUjdJR1hsdktxNFY5dU9YalN0d1loSHFfbWFHZnNEWU5GR05BLVJMenF5WFFZX2JrZFRNbUJYcTJsU3JUbzI5VHJiUW5WQmgxcHg0QTdvbVBOVGJhNm8tdlNYU21xT1hyY2txUDA0eDlmMFBmbTdkdGhhMGN5SXZJNnh2THRLTHF4VEg0a0xaWVpQeDJOM1dycnlxeEJqdXJnSEY1bmVmS0tiWHhMRE8tRjhjRGRuSFAtblJwZGNwZ2FxOTR0Q2tSYl9VZ191WTBFN294NVFTbVBvSjJ0Nl8yRVFNT3VURnVzWlk0YkQwVUE5bFNwd0RzMnVwOF9Od19QRVB5Q1VUaHZjZ0o3cGY2cl9HLVl0WXZKRkFPdldkdzRTRDFJRE1ZUGM2T1h1amNfd3d0dVBRU3N0WFZRUGw2V0hWaUIzQnRBWDVpTk9FWGpWZ25FZm1qQUIyOFNhV3RNQlRRYjNZM3VjTWVuUmVVdDd1S1dhOWI4MWFKRG1hZ0VJNU5RLTlTLUJndjRoY1F4RFBXRmdVQWhfV2NseEtCVFgtVEJtRUlhSXlTY0F4N285akdMaWtCMlEtVFRKTVo5WUgwR3QxUlQzZ0xHamFIamh3RHhsZUoxQ3pJbTF3LXZYSW96ZktSZkprNEI5YUJSQlh5RjI4R0VHb2QzR2pJQVNVdjNDU0VKSU1QUTJ6OXg3aDJ2VndQR3RheVA5ZlFsbmN0VVVrMlZPYll3WUV0ZFFySFBJeFQwUzhzUQ?oc=5",
      "source": "DW.com",
@@ -549,22 +561,6 @@
      "source": "BBC عربي",
      "time": "2026-11-21T08:00:05.000Z",
      "seen": "2026-11-21T08:06:02.605Z"
-    },
-    {
-     "title": "بتكوين تهوي إلى أدنى مستوى في عامين",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNXlCa1FQT0tOUmZENkdhdy1CN1RMQzNhNmdBWno5ZXJuR1dfcVhJMS1MYlBvMUE2aERhQXJHdlVoWmlBY2JMaG9OemJBb1NiMW5TcHRlS1Rod0x1U2MxckJnY0RFZDVPSDY2MnlvSU1oYmswekNwS0pNNGVYMlBJTzFwZk1uMW1NSDgyRWdVbTB3OUdxZUZ2X0dsMlBwZUJzTjhMZTl1Q1c2R09SQ043LUhMV21TVm9HQ0ZjWE9qZlZmcHlWbEgyOG5uaVVJLW1hajVGbG1JRjhPeHhhdG8xQjB5NE8wS0pZYXpLcFEya0NDUmxGYjc2X2pEV09SVUs0RDBpd2dkbHhiLTlZMF9OQXh3OU9CbWFubzYzQQ?oc=5",
-     "source": "اقتصاد سكاي نيوز عربية",
-     "time": "2026-11-21T07:31:30.000Z",
-     "seen": "2026-11-21T10:59:44.187Z",
-     "impact": "ينبه تراجع البتكوين المستثمرين والمتعاملين في الأصول الرقمية إلى حدة التذبذبات والمخاطر في هذه الأسواق."
-    },
-    {
-     "title": "أسبوع دبي للمستقبل.. الذكاء الاصطناعي في التشريعات وتجارب الأجهزة الذكية تتصدر اليوم الثالث",
-     "url": "https://aitnews.com/2026/11/21/dubai-future-week-2026-day-three/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-21T07:20:14.000Z",
-     "seen": "2026-11-21T07:26:02.387Z",
-     "impact": "متابعة تشريعات الذكاء الاصطناعي تهم رواد الأعمال والشركات التكنولوجية للتكيف مع المعايير الإقليمية الجديدة."
     }
    ]
   }
