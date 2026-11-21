@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:49:44.403Z",
+ "updated": "2026-11-21T11:59:44.245Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه في البنوك المصرية، بينما أصدرت وزارة الزراعة مئات التراخيص الجديدة لمشروعات الثروة الحيوانية والدواجن.",
   "حذرت هيئة الأرصاد الجوية في مصر من ظاهرة تستمر حتى نهاية الأسبوع رغم الاستقرار العام للأحوال الجوية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T11:49:44.403Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T11:59:44.245Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58054,
-   "change": -1.27,
-   "asOf": "2026-11-21T11:52:44.000Z",
+   "value": 58065,
+   "change": -1.25,
+   "asOf": "2026-11-21T12:02:00.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إصابة 4 أشخاص في تصادم ميكروباص بسيارة نقل بطريق بحيرة قارون بالفيوم",
-     "url": "https://www.elbalad.news/7188822",
+     "title": "هالاند يقود هجوم مانشستر سيتي أمام فولهام في الدوري الإنجليزي",
+     "url": "https://www.elbalad.news/7188829",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:47:13.000Z",
-     "seen": "2026-11-21T11:49:44.403Z"
+     "time": "2026-11-21T11:59:07.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
     },
     {
-     "title": "منال عوض توجه بسرعة استكمال الأعمال وفقاً للتصميمات المعتمدة لمشروع تطوير الكوربة للافتتاح قبل احتفالات العام الجديد",
-     "url": "https://www.elbalad.news/7188818",
+     "title": "خبير اقتصادي يحذر: تداعيات التوتر بين أمريكا وإيران تهدد أوروبا والخليج",
+     "url": "https://www.elbalad.news/7188827",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:45:08.000Z",
-     "seen": "2026-11-21T11:49:44.403Z"
+     "time": "2026-11-21T11:56:37.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
     },
     {
-     "title": "عليه حكم مؤبد..مصرع عنصر إجرامي خلال حملة أمنية فى قرية السمطا بقنا",
-     "url": "https://www.elbalad.news/7188814",
+     "title": "جهاز الشيخ زايد يشن حملة أمنية لمخالفات البناء والشغالات الطرق",
+     "url": "https://www.youm7.com/story/2026/11/21/جهاز-الشيخ-زايد-يشن-حملة-أمنية-لمخالفات-البناء-والشغالات-الطرق/7626914",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:56:00.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
+    },
+    {
+     "title": "وزيرا خارجية مصر والكونغو الديمقراطية يشهدان توقيع مذكرة تفاهم",
+     "url": "https://www.youm7.com/story/2026/11/21/وزيرا-خارجية-مصر-والكونغو-الديمقراطية-يشهدان-توقيع-مذكرة-تفاهم/7627017",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T11:55:00.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
+    },
+    {
+     "title": "زلزال بقوة 5.7 درجة يضرب مقاطعة تشينجهاي الصينية",
+     "url": "https://www.elbalad.news/7188825",
      "source": "صدى البلد",
-     "time": "2026-11-21T11:45:01.000Z",
-     "seen": "2026-11-21T11:49:44.403Z"
+     "time": "2026-11-21T11:54:16.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
     },
     {
      "title": "وزير التخطيط ومحافظ السويس يتفقدان مشروعات تنموية وخدمية باستثمارات تتجاوز 5 مليارات جنيه",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T11:45:00.000Z",
      "seen": "2026-11-21T11:49:44.403Z"
-    },
-    {
-     "title": "وزير الخارجية يفتتح جناح الوكالة المصرية للشراكة من أجل التنمية على هامش منتدى أسوان للسلام",
-     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يفتتح-جناح-الوكالة-المصرية-للشراكة-من-أجل-التنمية/7626904",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T11:09:00.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
-    },
-    {
-     "title": "وزير الخارجية يلتقي نظيرته الكونجولية ويبحثان سبل تعزيز العلاقات الثنائية",
-     "url": "https://www.youm7.com/story/2026/11/21/وزير-الخارجية-يلتقي-نظيرته-الكونجولية-ويبحثان-سبل-تعزيز-العلاقات-الثنائية/7626912",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T11:07:00.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
     },
     {
      "title": "تفاصيل قرار مدبولي بتشكيل «المجلس الأعلى لتنمية مهارات الموارد البشرية»",
@@ -331,11 +331,10 @@
     },
     {
      "title": "سعر الدولار اليوم السبت 21 نوفمبر 2026 في مصر.. تحديث البنك المركزي",
-     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNeFJRWGx6M2RWQ3dwQ01HMFJTSDYyMExoSkZVV2RHd212ZEZnMEFDVWNfTjRhSVlkYUw3TDUwU3NPdGJyaXBtVzJmQXE2M1BvdFdmQk9YWlFyaXlFMFQ0Ymw1RHVhYUZYSnlEem5xcmJEZ3ViTEhhQ0NxZnNrTWlnbExNa19wYTdKZm9QWXZNd1k3ZzNCWXV4Vy1oNXpVUW8tSGEyZS1pRVhVSEMtSGZrSkU5THBObW9LT29wNnYxenIwdm03MWozZk01TU9ibkNVYzVDTE5CMkIyTURBM3B0V09BYUFtbVFXNHozbUszbFBlVlBwRzNFY1pfSWZlMUlPc25kX1EzRGE0WU9XYWdncUdUSEdWMDNNZ2RJS2dtNGVmVmxnakhJZk56b3Nfa0lyTTlDMlhxNmY1OGxnQ0VhcUNGVk9YS3UwNDg3WUtqN2VPM3JqeUNaZUlzekJ2U1RRTTdibUpPNGxfY1dxMUpqUHA1WEIzcUR6c3A0YWtQNnVxRGF5RXhJWVhuNWpfc28?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNeFJRWGx6M2RWQ3dwQ01HMFJTSDYyMExoSkZVV2RHd212ZEZnMEFDVWNfTjRhSVlkYUw3TDUwU3NPdGJyaXBtVzJmQXE2M1BvdFdmQk9YWlFyaXlFMFQ0Ymw1RHVhYUZYSnlEem5xcmJEZ3ViTEhhQ0NxZnNrTWlnbExNa19wYTdKZm9QWXZNd1k3ZzNCWXV4Vy1oNXpVUW8tSGEyZS1pRVhVSEMtSGZrSkU5THBObW9LT29wNnYxenIwdm03MWozZk01TU9ibkNVYzVDTE5CMkIyTURBM3B0V09BYUFtbVFXNHozbUszbFBlVlBwRzNFY1pfSWZlMUlPc25kX1EzRGE0WU9XYWdncUdUSEdWMDNNZ2RJS2dtNGVmVmxnakhJZk56b3Nfa0lyTTlDMlhxNmY1OGxnQ0VhcUNGVk9YS3UwNDg3WUtqN2VPM3JqeUNaZUlzekJ2U1RRTTdibUpPNGxfY1dxMUpqUHA1WEIzcUR6c3A0YWtQNnVxRGF5RXhJWVhuNWpfc2_SAYoDQVVfeXFMTjdzbUlyME0yNmNZVUdiWHlBNjhwX3BZbmtLWEVnem9CUDFmUXBnNERnUHpJbnVDWUJ1Yks3Sk1fVTVib2UzemFyM1JYV2htY3V1Y0FiOE5XYllMZDFPMnVpWXpicmh5djZHRjJJbWVITjJXSlRHa0JxbVNBaUdiRGNZNnA1SUY2b1hMc3VMNzVvWko5M3V1S2llLVZpakFVUU9JS0N4M1pEOTlHN2xDakgyazBuclp0NHB6MU85SWpWZTdLNmdDQUs4YVM5anE2ejdDY0MxcDNVZl9HdHNueW5oOU93VWpycUZnbVA0eUxFV2FjdkRxaGdiMFFhcjRaWHZpYnVJSkRrbUtrS0FONzM5V0RxSFdQa1RrWFo4R0ZhSWxxeXFJNHdBSmVVdjdEeTVGRTZsenpTbkVZV2ZQOTJoWk9LaEVLRy0tTnUxcWZ5T0IwUENuT0h0MGhfMlI3NE0yRGtuT1hkZXVrOF9mZ1pXWnd1UkU0WDBrVG9MT19OUHVybWJPRVNUdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-21T08:30:00.000Z",
-     "seen": "2026-11-21T08:46:02.760Z",
-     "impact": "تساعد تحديثات سعر الدولار الرسمية من البنك المركزي المستثمرين على تقييم أسعار الصرف بدقة."
+     "seen": "2026-11-21T11:59:44.245Z"
     },
     {
      "title": "سعر الريال السعودي في مصر اليوم السبت 21/11/2026",
@@ -422,24 +421,24 @@
      "seen": "2026-11-21T09:16:02.637Z"
     },
     {
+     "title": "10 هجمات سيبرانية لا ينساها تاريخ الرياضة العالمية",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/10-%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d9%84%d8%a7-%d9%8a%d9%86%d8%b3%d8%a7%d9%87%d8%a7-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T08:33:19.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
+    },
+    {
+     "title": "الطيبي: التحريض ضد العرب بلغ ذروته ونتنياهو المسؤول",
+     "url": "https://www.aljazeera.net/politics/2026/11/21/%d8%af%d9%87%d8%b3-%d8%ad%d8%b1%d9%82-%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%8a-%d9%84%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b6-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-48?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T08:33:01.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
+    },
+    {
      "title": "كابوس الحرب.. مخاوف بريطانية من تداعيات قصف أمريكي جديد لإيران",
      "url": "https://www.aljazeera.net/news/2026/11/21/%d9%85%d8%ae%d8%a7%d9%88%d9%81-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-%d9%83%d8%a7%d8%a8%d9%88%d8%b3-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%81%d9%8a?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-21T08:20:09.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
-    },
-    {
-     "title": "عالم فضاء يتراجع عن الزواج.. تفصيل في وظيفة العروس يقلب الموازين",
-     "url": "https://www.aljazeera.net/misc/2026/11/21/%d8%b9%d8%a7%d9%84%d9%85-%d9%81%d8%b6%d8%a7%d8%a1-%d9%8a%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%b9%d9%86-%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac-%d8%aa%d9%81%d8%b5%d9%8a%d9%84-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T08:09:50.000Z",
-     "seen": "2026-11-21T11:39:44.183Z"
-    },
-    {
-     "title": "\"هرم القاهرة الرابع\".. سلطان قتله صراع السلطة وخلّد مسجده اسمه",
-     "url": "https://www.aljazeera.net/video/aldahih/2026/11/21/%d9%87%d8%b1%d9%85-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d9%82%d8%aa%d9%84%d9%87-%d8%b5%d8%b1%d8%a7%d8%b9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T08:05:06.000Z",
      "seen": "2026-11-21T11:39:44.183Z"
     },
     {
@@ -461,6 +460,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T09:17:00.000Z",
      "seen": "2026-11-21T10:39:44.869Z"
+    },
+    {
+     "title": "الروبوتات القاتلة.. اتفاق على وضع قواعد استخدامها خلال عامين",
+     "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxNX25KWTRNYzhzNU9BRTFYaWJ1c1R2Q2ZjdHh5LU0wU1pnRGtSZ0hoWkNORTNLSDBrWEtDalk3bUdJMVZqTXFiQkRGX2RSR3lDcHRGQWEwUjZoRG5sMmlKR3FzTWlFVTRVdjViT2VtLWRuS1Y4NjNUMzVhRVBXRTlzcEF2ZHhtMk9YQjRpVDMydGxaN1BMZGFKamZWbnp5dVRhVEp5QXptM1UtcFBLSWh2Ml9rMm4tUGZ3cTR3Q3ZVTEJDQjdlSWJ4YjE5SVZoVFY1VUhiUFZkb3dtei1OeFItbzRxUWd3YnJxcE11M0VNdjlmZDJiVld2NkItOVM1RGNRdUhkWlVxcG44NF9pMjhDNmxpQURyZ0k3NktLaFJFSFY3VExoSWxCYkw4WGUzX1hXcGdRWnIzR2hUbFZFQnZfSDFfWEtXZk9wRzN4NExjZVZIajVUamNrc09Ub3QtcnlBRFRSS25ud0JNNFRJTUNZN3VsS2dMejF2bGgxR1YzcnNoQzFjem02aXV3U0FHT1JQbVY5MDZ0R0pSd0RUR3o4QWxGcDVZZFE2LXp5d3p6UnBiRnRKZWpxVzVtZHllMldNcFJzZUotNE04N0xuZVBhQ19nR1NhY1JZU0pIYjNlU1FhekJpZjB4akZmY2N5WkVvbEt2d0J1aUlqaUdpQmtGUThQX3hpWXJuR3RuZXdpcHRILURTQV8wcTd3MTUyT0lGVnE4eHJ4Uk9kMzkwajdJT3J5YkF5d3RqS0s3U3FNa0lLMldhaDhvdUZSTnJKTGpPTFVEU25ZbWMyeXpSaUJybmRMdnRhYkVQU0FKX09kaktBcHIyRG9sZmdwNVdXMGtDNUlOZXJOQXRnWlZGN052SEhRaTFEQnJjaGt0QzZjNTVUeXMtbk9wQTFnU3pXalZzWkVOaktUTXJXTk5PR1hMZkF0RHg1bnAya3hNY3FfdXhELXhZXzA5c21sUlJYTDl6ZDJVOHg0YzJzQQ?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-21T09:10:03.000Z",
+     "seen": "2026-11-21T11:59:44.245Z"
     },
     {
      "title": "بتكوين تهوي إلى أدنى مستوى في عامين",
@@ -551,13 +557,6 @@
      "time": "2026-11-20T22:55:37.000Z",
      "seen": "2026-11-20T22:55:26.202Z",
      "impact": "المبيعات القياسية في صناعة الألعاب تسلط الضوء على فرص النمو والاقبال الاستثماري في قطاع الترفيه والتكنولوجيا الرقمية."
-    },
-    {
-     "title": "أديب: 4250 أمريكيًا أصبحوا مليونيرات ومليارديرات في ساعات بسبب \"كلود\"",
-     "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPbS1VT01TaUswcFI1SjVIY1M3U1I4cGc2MExya0x0Y3JhVlFkMG1palMzOEFRSGgtaUxjeUlmRWF6ajRVc19HNk0tVmhQNmpNaGZTVm9kOWZkc1pvNUhpZHZiSndBeVc3SlhNQzlXMTlfUDZyeC04ckJmVHFqdnBiM3BOY1NtZllTQXZoVjNQMExaYTJQZlBQc1ZYa1FwTjROT1hUWnNPaVVTMkRpNnlZSmFZMWJYRDJDVGZidzZfcXFPYURHdTRwSWZ1cFhZMXJDTTVNREJlMW4wbWhiYmV1akNzd3FxcXZUak5PZngyWElxbF9YRjlNbkhrV3pBdkZSQWJHc2lTLUNseVNsbmdwQ1NVU09pYWxTS09QNXA4bXNDT19VMkRSbGttNXJEUGZfRXhlQTVjUFZybHowdzI0VUw5QUZlSk5oYkFHMHpBNkNCNUpGUEIxMENwdXF0X0dvWkpROXdFaHdER1NORjRfOEt3Mm9lUkhqeGd2bTk3TWlqUUExSmJGZjRVY3lkZzZlQVZOYkZiU3dpVGdvdWdxTHBSVF84UHZLZjZ1b2V3UkxwT0ZlR3hkUzJRRTkxSVZib1plMlY2WXhsODJ3WUptVlJTcVZEYVZHVFVQLTVkYmJtWHY4YVpHSkN2LWZ3b2k4QkhHaEt3ak9qSUVmd19VMWU3ZVgyVEdpTUJaNmJiTkxIRjNMZHphWnl0aFVMamFEejlVZTJGbHRfUdIBrwRBVV95cUxPODAycmJ4OFZCN3l6M2lOU3ktLWl0Qjh0R2VucHhDTFhXUnhYUmpTaS1ieE82OG9FOV9tZ1JHajZ1LUZHSC1lYUpRei0zY1ZzTVpSVXphSzB2TTRmTXZuMWthNzRHUlFjcGVtNmd2VWNNWmlVOGQ3S2VVVExjVWZVV0drLWJLRW5QUXpXelFxOG96RUVjNzRPZHhodWYwN1BnSGdNMXhxWTFwYVR2ZWlCQ1MxX0J5VXgzUnlJd3NtUzFBTW5CRW9wNFVsdnBFclNXMGZvNFVnNTJ3LTBDYVJTZl83UnNqdlQ0NHltcjA0RDZ2X0RLanBjd2dXNjBRaDVUOC0tOGdhZERrOE1xX3dFVmtvSDRqV19XOWhLeDQxV2VrY0VzQWJXV0hva0Fya3pQMXZHZUtwOUZ6cE5yRWx4Zm40Y2E3cEZab0pJb3ZHdDFKamtSbC1iUmJOakRTekF3UHU1Zjh2T1FWSUJ2VzVCMU5PaUt6cXEwNHc3Wk9Gb3EyMGQ5ZGFjR3RNakVvdHBMX0NlcmdnOW9RRVRfZUx2cnhzdWYtNHZkeWNYckRwcmFVWW16dklFUU03RDFvbnVKOGNEc3hLaU02UjhaUGlsWXhwRHMteW9UVVZPdWhGeTZlSU5KbXdIZVloNTRjOUJtZldhRGhNblRZVlQ0NDUzaFlFTDZHM2hyUVJrNERoaEJyM0wzcEMxZklFbW1YeXY5YjdXNHpfeWY1b0VRb3hR?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-20T22:53:10.000Z",
-     "seen": "2026-11-21T02:55:39.135Z"
     }
    ]
   }
