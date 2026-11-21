@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:15:38.806Z",
+ "updated": "2026-11-21T04:25:38.354Z",
  "minute": [
   "شهدت البنوك المصرية استقراراً في سعر صرف الدولار الأمريكي، مع نشر توضيحات رسمية حول عقوبات مخالفات الكهرباء وإجراءات تراخيص المحال ومواعيد لقاح الإنفلونزا.",
   "تراجعت أسواق الأسهم العالمية مع تسجيل مؤشر ناسداك أسوأ أداء أسبوعي منذ عام 2020 بسب مخاوف قطاع الذكاء الاصطناعي، في حين حققت لعبة GTA VI مبيعات قياسية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T04:15:38.806Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T04:25:38.354Z"
  },
  "markets": [
   {
@@ -27,8 +27,8 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5352,
-   "change": -3.9,
+   "value": 5317,
+   "change": -4.54,
    "asOf": "2026-11-20T21:59:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
@@ -36,8 +36,8 @@
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6111,
-   "change": -3.9,
+   "value": 6070,
+   "change": -4.54,
    "asOf": "2026-11-20T21:59:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
@@ -45,8 +45,8 @@
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3539,
-   "change": -3.98,
+   "value": 3515,
+   "change": -4.62,
    "asOf": "2026-11-20T21:59:57.000Z",
    "source": "Yahoo Finance"
   },
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 55814,
-   "change": -9.83,
-   "asOf": "2026-11-21T04:16:40.000Z",
+   "value": 55724,
+   "change": -9.98,
+   "asOf": "2026-11-21T04:26:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "اندلاع حريق في ناقلة نفط بعد اصطدامها بلغم بحري قرب ميناء خصب العماني",
+     "url": "https://www.elbalad.news/7188462",
+     "source": "صدى البلد",
+     "time": "2026-11-21T04:22:00.000Z",
+     "seen": "2026-11-21T04:25:38.354Z"
+    },
+    {
      "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
      "url": "https://www.youm7.com/story/2026/11/21/قطار-تالجو-مواعيد-الرحلات-على-خطوط-السكة-الحديد/7625668",
      "source": "اليوم السابع",
@@ -162,13 +169,6 @@
     {
      "title": "سعر الدولار في مصر اليوم السبت .. آخر تحديث الآن",
      "url": "https://www.elbalad.news/7188432",
-     "source": "صدى البلد",
-     "time": "2026-11-21T04:00:00.000Z",
-     "seen": "2026-11-21T04:05:39.165Z"
-    },
-    {
-     "title": "وزير مالية سابق يكشف أسباب تآكل القوة الشرائية للمعاشات في مصر",
-     "url": "https://www.elbalad.news/7188381",
      "source": "صدى البلد",
      "time": "2026-11-21T04:00:00.000Z",
      "seen": "2026-11-21T04:05:39.165Z"
@@ -356,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "ترامب يربط أسعار البنزين بالتوصل إلى تسوية مع إيران",
+     "url": "https://arabic.cnn.com/middle-east/video/2026/11/21/v205689-trump-says-iran-is-bullshtting-on-effort-to-end-war",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T04:10:46.000Z",
+     "seen": "2026-11-21T04:25:38.354Z"
+    },
+    {
      "title": "بالتفصيل.. اختراق إلكتروني جديد يهز الـ\"إف بي آي\"",
      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPLVNSV2xSdC1BMUR2ZFQ5MlplcTktLU1ObUxzOFlsRjctdEhyeW51RXZzNm5hUk1ILUlWdGt3OFQ4X1dVdGJENHVwWS1KTkJMTzV0MUtqOVpHMnluVUxtZ3Bza3ZZQVhzWGthZlQyX1BlUU5ycU1YTmcwRXpJeU9qNFM5X2ZHZmVFQmJwVzE3X0FwdFlRU0lYTFd0aTU4WlVWY1BIZmxjY0xmMHgxdUVmVTBFaWRNNjJ4YjlWX0NxSFNfVXRUdFh2OHdmSVFIYTdfd1VZVU5iT0syd21KbGlfUHc4TVJCWW5HX3JPUG45QlpxV2NMcWlJRHBLYjZpZFJyVWljdDc3TngzXzJTanMzSi1QdGpoTW0tc21DNDRGTm90bmZNRG16Rk1uSExQdDBzeDYyd3V5LUZVQm1GcTR4ZDA1b3o3ZFJ5cmxnelZWampMNjNvM0l0dzUwbnFMLTVpNktiV0FMUTAwNnluY1pYd1Z3NGwtRDlJ?oc=5",
      "source": "سكاي نيوز عربية",
@@ -450,13 +457,6 @@
      "time": "2026-11-20T21:08:21.000Z",
      "seen": "2026-11-20T21:25:26.113Z",
      "impact": "يمنح هذا النبأ الأفراد في مصر معلومة صحية عامة عن بدائل الملح للمساعدة في تجنب مشكلات الضغط والقلب."
-    },
-    {
-     "title": "التحالف يشن غارات في اليمن والحوثيون يردون بهجوم في السعودية",
-     "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQR3NxelNqX3hvQTlVWEszQVRaUHF6UzBDOElBMl9yNXZ6eVpPLXdkRWFGN3ZuLW1ramVOd0JCbGs5Vm51YlA3Yk42TnBGNC1pN1FiVENmM0xTMGFUekRvSm9zMm5scVl4NzdRLU5kRTBqTm9fOWtEWGQtRFZ4RkY3ZWdlOWpfRzU3VzY0YzBaUm5oZDB2Y2xEbC0xRWhQUnRtVEJfU3ljOXJOUlJOcGdZam5GT3FXeEVjbHJ3Wk5aekVBWk1yRTRzSTIzSGdRU1Y5ZTJ2eG00MFVZRnFxQVNBb3BrdTRvb05OZ2ZFU0gyOXNFQUIwRUhVbVZiSUFjSzZoeHppaGZsSjVYYkRWemNuMXBORkRQNklHOVphbzFhQkluanU2cWY0WEg3RFhKTWlkRFlyUTRGV1JyMjVDZGM5aHJvSG1LQW1ITWxZS25fUGdXUHBHS2VQZEpsMktITVAyZHgxNzFzelJhb21fWTdaS3hWWlItUkxwNExaWGxPVnkwa0RpMTYySFY5VXNGZ3VlZXQxSnh3SnBWaDRCQ0RJSk1XOGtiejVUNVU4aVBFVVI0djVrMTNZZURCNGpkUjJsbm1BWkl1QVZNNUwxZHR6VFBxYVhUNmZUQzduQzBVY2pqYmpNZ1hBaHVKb2s0T2s0Q3ZxTmlBRzVKeVgxcENPcnlOdkVkcXZrR3prSkpJUUJucklKaktmcVdtOFB2R29aTVp0MDZIMjh5NkNsX0NSVk9JNjJySmcwNzNKZkRKbm93Qkp6WlN6UDlhZ2pkTEh6OWVxVm82NnNjQ1VScGd5THk0NA?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-20T20:43:14.000Z",
-     "seen": "2026-11-21T01:55:39.232Z"
     }
    ]
   },
@@ -571,6 +571,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
