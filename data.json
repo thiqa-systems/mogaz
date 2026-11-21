@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:25:39.112Z",
+ "updated": "2026-11-21T00:35:38.750Z",
  "minute": [
   "أعلنت مصر عن حد أدنى جديد للأجور بالقطاع الخاص بقيمة 8500 جنيه، في حين تتابع الأسواق المحلية أسعار الدولار والريال بالبنوك المصرية.",
   "على الصعيد الإقليمي والدولي، أُعلن عن اعتراض 3 صواريخ باتجاه الرياض، مع استمرار تبادل الرسائل بين واشنطن وإيران.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T00:15:38.910Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-21T00:35:38.750Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58905,
-   "change": -4.84,
-   "asOf": "2026-11-21T00:25:36.000Z",
+   "value": 58998,
+   "change": -4.69,
+   "asOf": "2026-11-21T00:37:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,17 +139,24 @@
    "title": "مصر",
    "items": [
     {
+     "title": "معيط: التضخم سرطان للجميع والاضطرابات الجيوسياسية تشعل الأسعار عالميًا",
+     "url": "https://www.elbalad.news/7188393",
+     "source": "صدى البلد",
+     "time": "2026-11-21T00:30:00.000Z",
+     "seen": "2026-11-21T00:35:38.750Z"
+    },
+    {
+     "title": "تخفيضات بقيمة 250 دولارا على أجهزة MacBook Pro الجديدة في الجمعة البيضاء",
+     "url": "https://www.elbalad.news/7188300",
+     "source": "صدى البلد",
+     "time": "2026-11-21T00:30:00.000Z",
+     "seen": "2026-11-21T00:35:38.750Z"
+    },
+    {
      "title": "التحالف : اعتراض وتدمير 3 صواريخ باليستية للفصائل اليمنية باتجاه الرياض",
      "url": "https://www.elbalad.news/7188430",
      "source": "صدى البلد",
      "time": "2026-11-21T00:13:44.000Z",
-     "seen": "2026-11-21T00:15:38.910Z"
-    },
-    {
-     "title": "أمريكا تفرض قيوداً جديدة على علاقاتها الدفاعية مع كندا",
-     "url": "https://www.elbalad.news/7188433",
-     "source": "صدى البلد",
-     "time": "2026-11-21T00:13:10.000Z",
      "seen": "2026-11-21T00:15:38.910Z"
     },
     {
@@ -162,13 +171,6 @@
      "title": "جامعة القاهرة تعلن اليوم نتائج هاكاثون الذكاء الاصطناعي ومسابقة مشروعات التخرج",
      "url": "https://www.youm7.com/story/2026/11/21/جامعة-القاهرة-تعلن-اليوم-نتائج-هاكاثون-الذكاء-الاصطناعي-ومسابقة-مشروعات/7625581",
      "source": "اليوم السابع",
-     "time": "2026-11-21T00:00:00.000Z",
-     "seen": "2026-11-21T00:05:39.134Z"
-    },
-    {
-     "title": "8 مواجهات في 30 يوما.. جدول ناري ينتظر محمد صلاح مع طرابزون سبور",
-     "url": "https://www.elbalad.news/7188427",
-     "source": "صدى البلد",
      "time": "2026-11-21T00:00:00.000Z",
      "seen": "2026-11-21T00:05:39.134Z"
     },
@@ -266,6 +268,13 @@
      "impact": "يهم الراغبين في السفر أو التحويل المالي لمتابعة أسعار صرف الريال السعودي بالبنوك المصرية."
     },
     {
+     "title": "أسعار الذهب اليوم السبت 21 نوفمبر 2026 فى مصر",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNei1WUGR1SmdlY1VoWVVyejktZ2g1SEV5X2RVYjdVU2M3aEF4bGUyRFVHemR5Sk1YcWtQUW9EVzN1eHBXRG11Q0kxakdsNUF3V0k2RW9YRjZWVlVoV3NYcUNUc0x4N1hzVVRhRzh3Y2xVX3RNajZLSVJ6cXhkZFh5eVVEMnZiazZIQ1VDZkpLbjBHX2xweUh1ZWFJNmxUd3VJcjhCUEJFNVJ6WklCTHRZUnpXVk1QN0l4dXkyTkQ3MHVmVjluOU9qSzl6ODZxVkFMejBFM2FCT2FRMUxsd296SjBERndlM2xuYWIxS0VCQWtQaFlySW9MeXV4S25RNjBGMGFYTk1iZzRGMGxGQVlvdWJiUjhqYkttdWRqRkxsQWg3bmFBWnR3ZlgxTTRiMnM1ZDNkSmtyQjFGQTBDTmswbWNDQ3RVZUpsWjZRRUhEZFk5SkR2VV9iSF9uaGZPclRfX25fcU9n0gHgAkFVX3lxTFBoOTIxajhTU2dtak9EaENYVEJ1YmRxVTBMNlFod2duNmpFTGppREFXZDhSaWpxMzc3TWs2Q3ZvRTJGclBPN1lDSFdWZFphN0VXQmhmU1pJWC10cy0zbXZsWU92aXdRaktmTE9WNE1CWHAxbkhsSHNZeGN3ZzA3U3pfTWFLaF9KaE5xUGRqenNVNHg1N3BreS1xMFVhOUFPVXlHdDNpbzRra091MFJrT0NEUHBRUzZRNTI3NjBWRGYxNGJKT2l1eDljQkMzQWFUVlFvRUg0UDhrRGJhUHY4SVA2SHBXcDUwZFZZZjd4STlRWFVva19QZHJrMUt3SmxkeFd5TGIteDJ2U2NSRkVRa2VNNlNsY0RuYk1oQmRidnF1MnROOWlZU29fQ1doRUNQSE15ckR0d2YxeFdFU3JFODZJQmV2bWtfanRCV0RlWWdldDB6cVRxNTRvT05vSGc1S1E?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-20T23:00:00.000Z",
+     "seen": "2026-11-21T00:35:38.750Z"
+    },
+    {
      "title": "أكبر سعر دولار في البنوك الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91dkxPbDVROE54bS1EWkpxdzhXVmpzbDREWjJfendXakZ3YXNtYk9YRERLX0xNcUdQcXBmZ1Fqa1E1eU96dW9F?oc=5",
      "source": "صدى البلد",
@@ -296,13 +305,6 @@
      "time": "2026-11-20T21:54:45.000Z",
      "seen": "2026-11-20T22:35:25.622Z",
      "impact": "يؤثر على الأفراد والمستثمرين في مصر الذين يمتلكون محافظ أو وثائق استثمار مرتبطة بالأسهم العالمية والتكنولوجية."
-    },
-    {
-     "title": "سعر الذهب اليوم فى مصر يتحرك بين 5530 و5560 جنيها لعيار 21",
-     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQWm5zdHdtZEIxTGItbnhhQTFoWGdlYkozQlZiOHFTTUp6dVNuSWpvQng0Q2NESGJCQmpaNlA1eWVNWjVtNm9BVU05TXRTUGpwODRVRzNKemdlRFctUTNFZ0FUa1F4SG9UZFVHbUFYcHR5MTNhazdyVDRvMjBlY2lLWk9GdzVwbDhoTW5EYVlnNHhQaUNpUnR3WkFLdzE3dVNlSlk2WnR4UzN2X183Rk9fTld0MXRVeGlRY3hGNE1vbTlPNmM5eDVVZ0JQLWNfRy1JeF9Wc3FBemdDYjZlOHRCXy1Pdjk0cFYzcjFMdk95RlE2TndhdVVaYUVMZHY1WDVmTE1JQ0stZ1FUVjdyUWFjTG91OFQxdllMb3FnYlVBWTg0TWdVLXFUcDltYjVCcmYtbWlOR1lmdnBQVXdRaVFKSW5SMXRKTWVFandjWEQ1LXVoVnFFdjM5R194MkdDYklfSzR3eWZTbVRCNWdQX1VmWi130gHsAkFVX3lxTE9odkhHZVNBVG8taWV1TkM4cmk3WUlDMWVUc2c0MDVkd1E1bWM4aGl1c0lQakZDdzBIU0Qxeks4ZXdubXNrbElGYnBaNVl1SGRDNTVlWFRYVnF4SlFndVZuYmVnNWRKWUN3VXZBdkphM3VnLThtWHB5akRmRWVrZGlKamFQeTVobjVVTFRyZXdoNFBDNWF3MEkxVkJfbXdVZUJMcDhYOXRXVGswQVQwY0gtdmlDY3dGaWtSUElENWJEWk1jWE1hNUZCVEJOVFZGQWdPU2swbmtEVUphaXRHa2FqWlA1OERrV0U3WGpjNjNUbU1mRVFIMkxlbU81NmFxRHk5TVkyd1pOOG44TDRmQ2YtQlloT1ZXRGJsZUlvWXZhUEtzaWZkUHlrVFd6dm9VeF9ZZU9iUnVGckdRSDNEUFJabDZGWmlZY1BDMWxaRTNwZS1melBTNHZibm9PeVN5YUpLcklfMEtnYm5DMHM?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T21:00:00.000Z",
-     "seen": "2026-11-21T00:25:39.112Z"
     },
     {
      "title": "قبل التوجه إلى محطة الوقود.. أسعار البنزين والسولار اليوم الجمعة 20 نوفمبر 2026",
@@ -466,12 +468,26 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "ترامب يهدد بحظر شركات أمريكية من بناء مراكز بيانات للذكاء الاصطناعي في الخارج",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5R1Q4TFl3Y3NZOEVkUXJsNHlWaG9IQ3ZMa3RRSlBlbEhhT0JkcElXbTZTeGx4VVFvOXA3V1Ixd3c2NmhodjUxaWZ6eFpMYkdxQnEzUk1zY3JhaFJsOWfSAWNBVV95cUxPOTd6RUpERkJrYmZESUdUa25HQ2c3SzJ6NFItTHY2aWVuM3AxbE5xNkIzbV9HbW5IMURveFZySDVRU3RWMThCQVlPVzNvbzVSVzlJUDNxZHI0QXp1b0V1SmJWNnc?oc=5",
+     "source": "BBC",
+     "time": "2026-11-20T23:17:51.000Z",
+     "seen": "2026-11-21T00:35:38.750Z"
+    },
+    {
      "title": "روكستار: مبيعات GTA VI تبلغ 3.79 مليارات دولار في يومها الأول",
      "url": "https://aitnews.com/2026/11/21/gta-vi-first-day-sales-3-79-billion/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-20T22:55:37.000Z",
      "seen": "2026-11-20T22:55:26.202Z",
      "impact": "يفيد المهتمين والمستثمرين في قطاع الألعاب الإلكترونية وتجارة التجزئة الرقمية بمصر بمؤشرات حجم السوق العالمية."
+    },
+    {
+     "title": "عمرو أديب: الإنسان تاني أذكى مخلوق في العالم والشمبانزي الثالث",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yVzJDTFc5cnJDOHFuM1VwOW9IbE95NE03TVlTenlibEdmRHcyWUh3NDNSdldSODU3djFwbVBTbklTNXFSSUxvQndXQ0JHaHBMa2V2aWNxNlZra2NVVkln?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-20T22:51:00.000Z",
+     "seen": "2026-11-21T00:35:38.750Z"
     },
     {
      "title": "\"ناسداك 100\" يسجل أسوأ أسبوع منذ 2020 وسط مخاوف الذكاء الاصطناعي",
@@ -554,30 +570,10 @@
      "source": "المصري اليوم",
      "time": "2026-11-20T17:35:00.000Z",
      "seen": "2026-11-20T19:15:25.593Z"
-    },
-    {
-     "title": "الأمن يفحص كاميرات المراقبة لكشف سرقة \"محفظة وهواتف\" نجل أبو زهرة بالقاهرة",
-     "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNTFFzSUxoSTVLeHRCa29XSHdGeXBKUzdjdmU1YU51SklxUEFfZ1JUd1BleThBUHV6QmNIdXBrOV9yc3lSR3FmaFBlSUp1NjZtOHN3RlYycVM1YXZJTGVaa2w5T0RtVHBneW4tX0JUcHhQQ1Z1YXZndzVBRldJMDF5Z1prbUJWM1o0VkF0NDVQNGNmTEo3azhpbDZTTW1mZG5nd3dMSGhGNlo0Sm42cll3dnRFZ2hNTFJSSDdUZzB3c1BSSDk2eWxybTVTX2o4aHUyMThEVHQxM2lZdzN3MlltVHhwXy1OVkEtWnd5RFRuUWdGQnR5ZUcxWFp6NGpWVlRJWU5KbVpHaTA2NF9BY09CLXRPZnpYQWN0Z2FKX0xncHBKTjNUVDF5dEQ4M2IxR3ZGa1k1cmozWDJmbnc4NzByeHdwWjVhdXJ1QldNVmFHV3pJUTZnRDEwWUxBS3I3ZlZ0OTEyYjZQMUs5ZmZZSEFyN01QRDFpWXpZNHY2WEJ0NnBlcE9Cd2s2TWw1LXplVUxQX08xaWFOajFhOFkyUUVqeWVpNElSRlNnMmZqN0dMbHdUM0VQd0FsbjRhMjFlY0RENU80Vk5GSWJKX3FwSFVRWEIwVkZmWThfMWRVU0Y3OW9razg4UE43MHA2bkdZNHBIOU12Z0REX1N6SUxOelBGOE9rR1hqUE5DaGgwd25xQkdBRUEtY2tjdUJzZHRDbGdka0pUUGd6SVN0T2otX1AxOEEzNk9DQjBJZEx4TTJCRVBnQXdaTlNMMW84V21zUjk1aFB2aXotQXVIbkt0aG01UnJlNUJ6NzBic3EwUtIB8gRBVV95cUxPY2RUSmt0VDBZbm5BWXR0dHh1aWdscGc5ek96QURGNWl0OGl1VEdQc3JzUldKVlljVlRZRE15MGM1eHRhVDNiaGhvd3F2eFdkTHZ3TUtKbER6U3lvWGZSVVcwRGV6YzBHVkVwU2U2clpRUkNTS3BoU1QwMDF6eUluYzc3NkVpWUw4QkVHdnM3eW9Qa0s4ZEFad3g2WndYVlB5cmlvWDNHNGxlOGVta1NrNnZ0LXU2VERjT3BtYXVtbXE5VVhySlNGdHcxX1IxekJuVWN2S2RrU1VFRms2dWZMQ2RqcU1kdjQ2djBYeGozV3JzUEI3V2lfMFhtNE9JbnFxVUR5V3VfNDhfOC1MYnN0aFh6MnVScENRam56ektiVloyb0NhMGVyYVRaWjVfV29YZHRxX3dYelBrb294ZnJkb0d3dzU5elh5OHVtR1VNMVlXbDFLTkpFQ21CMnh1NGw2ZzJJN3pNQm81ZmpZVTlxVUl5NnoydmFUdFlwQjZzUnNHRURVT2JpSTY5dXBkbXVnRVVlRnFsNGE0WmxWdDc2SEREWW9EUkhab0gzUTNpNWhabFpWZzNQMVF0NE9RaURPaWFBTVk4OUhTUmNRTFkzdDJzY1d6UElmM19QdXhLdGRabGJwcnhqQ0tGYm5FZTdWYUVyclNqQWsyZWYxN1FPQTg0YlJSbnlQVVV1TlEyQ2RvQWdDWlZHWlUwZWQ3NTJHdy1UYzNXWHBTejRzaHdlWlF2c2IyRGNSNkpKMUU4MERFQ3d1VFJCUnhiazBaMVlJYkx4Uk15ZFF5eTZ4MG9NOE91VmMtc1E1bUxIeDI5QThLQQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-20T17:22:18.000Z",
-     "seen": "2026-11-20T19:05:26.198Z"
-    },
-    {
-     "title": "بيتكوين تتراجع بأكثر من 3.5% وتهبط دون حاجز الـ 60 ألف دولار",
-     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSFdBNUM1WnhralpPUUNfZ2UtUEhYX3lwVWtVTGZ3TTY3SmkzUmR1bDUtaWJwTEZZOWh3Uk5PMExFNHFET3l4SDNNRTZiSl9tYlNnbnh5bUZrVkVNdi1iZDZvWGF5MFRJaHBydENtTWk4UEtySjhER0YxMmdSMWNKZUdlbVhZenlKbEhSRXFXS2QtUC11Wmt3M1ZyeFFRNGV5V1I2UEJqcjNhTkVhSVZycmc2X2ZRbExPRFBxY1N2Y3pnc2lCTVhPLU1HdWpKaUJybllrRGp3cV8wMkxERXVsUk0yVE9LYk9VYlNKdURHdWFYTDI3UjZ6UGZTLUM1dTZDMXk3QlQ3VDN0bHFyaXhZbFd1UDRvakhwc0VJR2pFQXNWeEpmUm5FV2hQU1BSdmlfbC1HcDNWMVlma25URWoxTGt0QUpueU9kNktBV3M1YzBhMWdKdDhWalRFTkE0YnlENWhXcWFCazNLaXgyNUJjOWdJNDNoLWdZcDM2eVhjZjdEUdIB_AJBVV95cUxQS19PUlpqY1NmeUU0R2ZaZEdhNmxGWU55WDN4QXY0M3JrSHFSbGFRcjE5dTdQWktpWHdFd2VCN2ktUS1DOWQ2WjlTMXJuTUFvUnNMVTlMR0hfZlpyV2FsNldIRE8tMXFqTUZBckxyOW5GbXZsTkJkS2NVRnpic1RfREVuel9XbUItbXdSY0J5TWVRVjZZVFN4TzE3cE5nbC1kZnZxYTlPT3RISlpPWjdLWUhIamRpSk9CaHc0WXBKUGEwck52UGJpWnQ1Ui1HRlJLNEI2aTM1Y0lQVmVnQ0JYckJLbURsRWJNUTJfRXVhVFZ6ZGc3UDZWSmxjazl6SkoxNEFYODRRMFVHODFOQXJZQmVmdmozV1pHYUVXamJNODJVUkR2VEtnNk9acXR1T21CLVZOMlkyV2hJQzhMb0NLejJMQTVUZW9FWVVWNjVmQ05yY2NhREtrZkpyRUF2NDkyWDRaQmN4cUxWSkJYaGdydlRzeFp0MEdsQjhaOQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-20T16:56:00.000Z",
-     "seen": "2026-11-21T00:25:39.112Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
