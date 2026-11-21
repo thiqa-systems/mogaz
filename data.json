@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:11:09.542Z",
+ "updated": "2026-11-21T19:21:09.894Z",
  "minute": [
   "تتناول الأخبار التطورات الاقتصادية المحلية في مصر من خلال متابعة أسعار الذهب وسعر صرف الدولار في البنوك.",
   "كما ترصد المستجدات التكنولوجية مثل إطلاق برامج للذكاء الاصطناعي وتحديثات الهواتف وتطبيق واتساب، إلى جانب نشرة حالة الطقس.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T19:11:09.542Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T19:21:09.894Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60153,
-   "change": 2.3,
-   "asOf": "2026-11-21T19:11:07.000Z",
+   "value": 60158,
+   "change": 2.31,
+   "asOf": "2026-11-21T19:21:19.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ألونسو بعد سقوط تشيلسي أمام ليدز: نمر بمرحلة صعبة وهشة",
-     "url": "https://www.elbalad.news/7189338",
+     "title": "بعد استغاثة والدته.. الطب الشرعي يأخذ عينة من جثمان «تلميذ المنوفية» لبيان أسباب الوفاة",
+     "url": "https://www.elbalad.news/7189333",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:10:54.000Z",
-     "seen": "2026-11-21T19:11:09.542Z"
+     "time": "2026-11-21T19:20:37.000Z",
+     "seen": "2026-11-21T19:21:09.894Z"
     },
     {
-     "title": "محافظ الغربية يتابع جهود رفع 790 طنًا من المخلفات والتراكمات بالمدن والأحياء| صور",
-     "url": "https://www.elbalad.news/7189316",
+     "title": "أهالي عزبة السرايا بالغربية يحتفلون بالشيخ عبد الفتاح أبوزهرة عقب فوزه بلقب «أول الأوائل» في المسابقة الدولية للقرآن الكريم بقطر",
+     "url": "https://www.elbalad.news/7189350",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:10:28.000Z",
-     "seen": "2026-11-21T19:11:09.542Z"
+     "time": "2026-11-21T19:18:59.000Z",
+     "seen": "2026-11-21T19:21:09.894Z"
     },
     {
-     "title": "حالة الطقس غدا الأحد 22 نوفمبر 2026.. الأرصاد تحذر من الشبورة المائية",
-     "url": "https://www.elbalad.news/7189348",
+     "title": "مديرة الإسكان بالقاهرة تقدم استئنافًا على حكم سجنها 15 سنة في قضية الرشوة",
+     "url": "https://www.elbalad.news/7189356",
      "source": "صدى البلد",
-     "time": "2026-11-21T19:10:04.000Z",
-     "seen": "2026-11-21T19:11:09.542Z"
+     "time": "2026-11-21T19:18:54.000Z",
+     "seen": "2026-11-21T19:21:09.894Z"
     },
     {
      "title": "المصرية لإدارة وتشغيل المترو والمونوريل تجدد شهادتي الجودة والسلامة للخط الأول",
@@ -350,6 +350,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "أمير قطر من برلين إلى الراين .. ما الذي تريده ألمانيا وقطر من تعميق شراكتهما؟",
+     "url": "https://www.dw.com/ar/أمير-قطر-من-برلين-إلى-الراين-ما-الذي-تريده-ألمانيا-وقطر-من-تعميق-شراكتهما؟/a-80010637?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-21T19:14:00.000Z",
+     "seen": "2026-11-21T19:21:09.894Z"
+    },
+    {
      "title": "سباح بريطاني في هرمز.. رسالة بيئية قرب السفن المشتعلة",
      "url": "https://www.skynewsarabia.com/middle-east/1906251-%D8%B3%D8%A8%D8%A7%D8%AD-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -385,11 +392,25 @@
      "seen": "2026-11-21T17:31:09.933Z"
     },
     {
+     "title": "آيزنكوت ينوي طرح «حكومة أقلية» في غضون 10 أيام",
+     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPaHBpM21WUUJqcy0wbERBemNFdVdDei1tZFNmbVNEUmFvUjFkQXVabDJGc096TFZ5OGtva2FiRTVUcFlYendZOXprVjloc0IzU0RjV1NlWUpmWWY0OHFELUFULXFzQ21EQnVFWkVEQmRLejNqS2RIenpkcmRHSFhTN2RyUWdQSHFvc2NFd1JCUmo4UzRZS0lzT1lmZ1NzaXREM2l0N0JHYkVRdDd4LXdCQmhLZk5zVHlvakVKRE5zY2NXazZDOVFoUDlqNmtObmRLWWd5MUEyc3FPYVlwWWpTWmotV1RDOWJRUUlSQUNYNjlQQ0pMSGwxV0pGRHdqYnFaNmxIQmJSczRlOUJsYVkwczBObGtqREtBUkpVMGVBSm5KSG9HQ3p1bm55MTlPNk1hZmpPVlJvZlF6WDVHeVVrU2lKS1FUMlBOcHFOVjA4OFdMR3V2dXBhZlhIREszdU9NNjBDeURvMnloVzljWW50UEowSTlvb3NJSE9FeGN1M0Z6OTd2NFIyR2xfSlAtcndwRDBjTEQzcmNLNUF6TkY4MWVBaUpZMlU0RnBFNDJGSnh6cXpiRVY1cA?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-21T17:16:00.000Z",
+     "seen": "2026-11-21T19:21:09.894Z"
+    },
+    {
      "title": "النوم الطويل ليس دائماً علامة على الراحة... تحذير لمرضى القلب",
      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQbm85dEs4dEhLX1E1Q2VNYlMtUXVrUW1pSGVOLV9rTjNLNDdGT3lMTVZJa3BPS2dvZEdWS19BbFFycktYTmM0cGRvcmJoTVhUMFdBNk00U1lZSWNBVndhVW1SMUh2Yk9hWk1RQmZZRmtHbzdaWjVkdVkwVWI2M3NFOHVsOTFUSEZkZ01GMFpKUVVMVkJhYTZPc1EzYW1mX0o3Q1JzX25LOGtwVUE3LWpWYmwzRE1ZLTZxeUIxOWRuQlFCcFpoVFc1OTRmT0dFbTdzcUJkelV1V0d5SkxDc3dwNFplVGFYdDdtYjRVNHFYMW11VzY1VWd2bE1sNWgzVHE2VlJHUnVKZUdHN2phZ3Rfa1E5M251a3Bpa3pTc240Q3A2RmIzbTJvX2s2emM2OVNRSW9PeW9ibWhZSkYwZkFia1B2Q2taQXZsQlA5VENMZ2l6TjN2eEpsY01abWF2aXZSZHJGdmNoM2xJOUNMS1Q1aW1ieWhLTmJoTV9LMHVrYlo2cmh5NDVXZ3ZKNDBIVk1ScmlOVEN3SDAyY0NuNTRYTEp6WnF3UlF1TTg5RTRoYTJZdzZvWjcwVmF5NEVoSFVzcUxwYkpoSTgzbC12Ym1peWY0NDJJRGY4VEVXb1ROYjNPbmttZTRXbkNJZjlGVWROZ2xaMlV3?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-21T17:13:09.000Z",
      "seen": "2026-11-21T19:11:09.542Z"
+    },
+    {
+     "title": "ترامب يعلق على اختراق قاعدة بيانات FBI: ربما نكشف أسرار عن روسيا",
+     "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxORzVsdTNBZXdLZnNTZXRzLVJndVp0S1o2elN3cjVkMnRIQVdNYm5fRkFzZ01mOEF4SGZZSnpWR1pWbDlzLUp1VlpVNV81eUZiaDBFZXR2aFZaQXI3TXEzdHN5bnBkaENpTV8wVV9udDFiUFhPcm9GZ1BXQXUxUHRIZWxCTktacE1pN0JYWlBCUE9IQUk4TEcxbm11cEhkVjZ4MzE4cV9HaXNCSW5MSEJxM3JuVkt2dWcyaEpDWkQ0TmE0QkMzTGlOVUxBcW5fMG9HZW9vY0NtUG9WaXg3alh2QW9BdWVKMXVWZjF1V0lNRFJFVmY5c20tbzJSZGx0YUpId2VPSmZ1emhLZzZpTC1ISU16blNSS18xSHg3NV9pbG5BRFhRZjYtbElXUVJDWWpBOUNPWEpBYWJPWXRCQWE2dlBLUk5Bd09neDd1WkxDaWNXWW1Bd2VIVmI5SHFKRWZjVnEtZlpyRGp6MEVzbElId21pa0JPa3h0MG1FcG40SUdFSDRLVldqRXQ4aFI0UHZEUS15SkZGNDNjUHRtenpwX3RDR09TZ0RfSTFXMFNiZXAxU0ZORXBXVHJZZWw2S19MNlVJbVhIdHRLcHVnZ0NSS0dDWHZvRDQ5NVNaSjlnSldpN0lGRkZ4QlAxcm5pckRmTjF2bmFvN3Jjd2lUVkc4RDNhcFp3SXpCUGF5Y09yZjF5cllsMl8tNkJJVdIBoARBVV95cUxOX2JteDRDcllKMm5MLUd5b3NTQzF1QUVUX0U5UTBUdy1WS2hoX3VQVUQzTlVUbEt5TGRXSi00MVFTZnVJc19tUW1qMFlXTEtqY2F0c3JZd1RBSmpsMlZzOVdKY2I2MUU1Zm5PUmhlNHVkTVZMOE81MzJ3NU56d2VYTTZqOTV3b2xLQjBzeW1YRVI5U1pVNVM5Tk50MlhvZThzblljbXFkeHRicDhLNVB3dWQ5LVhRZ3UyMlBER1o1ZFlLcVRpYUZzWnpfWXFsamZwdGJuWV9RSDRSRkhjOXRGZDJPZk11aGR6ODZiZzk4ZHQwVDVCZnZWOTk2T1ZPUEN3aXhRdmNOSmY3cUZOZXRpU2xOUWZyVmcwZ1BtaWg0dkdTQmNwWlppaTYzWEdWSXNZUldDcDVBTHBlSE9qZXhBMWx4Z0JLZWNUcEIzeE1EM3hMWU0zbzFVNGZCMXhnVnRUTTZrSERvc1hrV3FJdkNhQ2tRSkY0NXNfS01lMVZ4ZVlSM2l2ejJKWlFjYjVXd3hEd0Vwa1lPb1Awc3g2bkV3MmdUaTRsQ2xRNXdqNDMycHN2ZjhYb2xhZWw2a1ZyWHE5NWQ3b0p0ZXdwU3RBdU5WVVlZcEg5VUxCeFRtbFNjcEFIdlBWTkpZWDNWYlluOHg3QkZLSnM1aTFHOXNyakNzc3Zla2lhZnMyZTJOY0FFTmNabWlrNUtRZVh2cW5jR1VU?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-21T17:07:41.000Z",
+     "seen": "2026-11-21T19:21:09.894Z"
     },
     {
      "title": "موسكو تريد إعادة عقارب الساعة 29 عاماً إلى الوراء .. هل تتخلى أوروبا عن أمنها؟",
@@ -425,27 +446,6 @@
      "source": "DW.com",
      "time": "2026-11-21T16:04:49.000Z",
      "seen": "2026-11-21T18:51:09.509Z"
-    },
-    {
-     "title": "معركة الأصوات والنفوذ.. من يظفر برئاسة الفيفا؟",
-     "url": "https://www.dw.com/ar/معركة-الأصوات-والنفوذ-من-يظفر-برئاسة-الفيفا؟/a-80001124?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-21T15:59:00.000Z",
-     "seen": "2026-11-21T16:11:09.566Z"
-    },
-    {
-     "title": "وزير أردني يوضح لـCNN تفاصيل مشروع \"الناقل الوطني\" وكيفية تحقيق الأمن المائي للمملكة",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/jordanian-minister-water-security-does-not-depend-water-abroad",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T15:53:05.000Z",
-     "seen": "2026-11-21T15:59:44.409Z"
-    },
-    {
-     "title": "وزير أردني لـCNN: الأمن المائي للمملكة لا يعتمد على المياه من خارج حدودنا",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/21/v205715-aqaba-national-water-carrier-project",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T15:50:39.000Z",
-     "seen": "2026-11-21T15:59:44.409Z"
     }
    ]
   },
