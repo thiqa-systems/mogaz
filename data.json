@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:16:02.585Z",
+ "updated": "2026-11-21T07:26:02.387Z",
  "minute": [
   "شهدت الأسواق المصرية استقراراً في سعر صرف الدولار بالبنوك بالتوازي مع ضغوط هبوطية على أسعار الذهب محلياً جراء تراجعات عالمية.",
   "تستمر التطورات الميدانية والسياسية في المنطقة مع إعلان إيران عن استعدادها لمفاوضات بشأن مضيق هرمز وإعلان التحالف اعتراض صواريخ متجهة للرياض.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T07:16:02.585Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T07:26:02.387Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58200,
-   "change": -1.02,
-   "asOf": "2026-11-21T07:17:07.000Z",
+   "value": 58124,
+   "change": -1.15,
+   "asOf": "2026-11-21T07:27:00.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "وزارة التضامن تطلق معرض ديارنا للأثاث بالمنيا بتمويل ميسر حتى 7 سنوات",
+     "url": "https://www.youm7.com/story/2026/11/21/وزارة-التضامن-تطلق-معرض-ديارنا-للأثاث-بالمنيا-بتمويل-ميسر-حتى/7626586",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T07:22:00.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
+     "title": "باحث في العلاقات الدولية: إيران توازن بين الرد العسكري وتجنب مواجهة واسعة مع واشنطن",
+     "url": "https://www.elbalad.news/7188506",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:20:41.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
+     "title": "العراق: 4 وفيات و30 مصابا جراء حريق في محطة كهرباء بالبصرة",
+     "url": "https://www.elbalad.news/7188507",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:19:42.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
      "title": "استهداف محطة\" كريفوي روج \" للطاقة في دنيبروبتروفسك..وتدمير 275 طائرة مسيرة أوكرانية",
      "url": "https://www.elbalad.news/7188504",
      "source": "صدى البلد",
@@ -153,32 +174,11 @@
      "seen": "2026-11-21T07:16:02.585Z"
     },
     {
-     "title": "تحذير من الإفراط في الطعام.. وجرثومة المعدة ضمن أسباب رائحة الفم الكريهة",
-     "url": "https://www.elbalad.news/7188503",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:08:41.000Z",
-     "seen": "2026-11-21T07:16:02.585Z"
-    },
-    {
-     "title": "فض الأحراز في محاكمة 78 متهما بـ خلية مدينة نصر الإرهابية.. غدا",
-     "url": "https://www.elbalad.news/7188499",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:08:16.000Z",
-     "seen": "2026-11-21T07:16:02.585Z"
-    },
-    {
      "title": "قصر العيني يطلق المؤتمر الخامس ENDO CAIRO ويناقش أحدث تقنيات مناظير الجيوب الأنفية",
      "url": "https://www.youm7.com/story/2026/11/21/قصر-العيني-يطلق-المؤتمر-الخامس-ENDO-CAIRO-ويناقش-أحدث-تقنيات/7626575",
      "source": "اليوم السابع",
      "time": "2026-11-21T07:04:00.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "قوات التحالف: اعتراض وتدمير 3 صواريخ ومسيرة تجاه الرياض والمنطقة الجنوبية",
-     "url": "https://www.youm7.com/story/2026/11/21/قوات-التحالف-اعتراض-وتدمير-3-صواريخ-ومسيرة-تجاه-الرياض-والمنطقة/7626546",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T06:08:00.000Z",
-     "seen": "2026-11-21T06:16:02.229Z"
     },
     {
      "title": "عمري ما تخيلت أقابل رئيس الوزراء.. طالب الشرقية يروي تفاصيل حواره مع مدبولي خلال افتتاح مجمع هاير",
@@ -243,11 +243,39 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "التقى صدام حسين وصلى خلف نعيم قاسم: الملاكم محمد علي وسيطاً في ملفات خطف رهائن",
+     "url": "https://www.bbc.com/arabic/articles/cw782lvd7v84o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T07:24:00.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
+     "title": "أسعار النفط ترتفع بالختام.. لكنها تسجل خسارة للأسبوع الثالث",
+     "url": "https://alborsaanews.com/2026/11/21/2007826",
+     "source": "البورصة",
+     "time": "2026-11-21T07:17:02.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
+     "title": "أسعار الذهب تتراجع 4.5%.. وتتكبد أعمق خسارة أسبوعية في 8 أشهر",
+     "url": "https://alborsaanews.com/2026/11/21/2007824",
+     "source": "البورصة",
+     "time": "2026-11-21T07:13:17.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
      "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
      "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-21T07:13:14.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
+    },
+    {
+     "title": "أسهم شركات الرقائق الأمريكية تتراجع بالختام.. وتخسر 17% في أسبوع",
+     "url": "https://alborsaanews.com/2026/11/21/2007821",
+     "source": "البورصة",
+     "time": "2026-11-21T07:10:22.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
     },
     {
      "title": "سعر الدولار أمام الجنيه اليوم السبت21-11-2026.. آخر تحديث في البنوك",
@@ -310,43 +338,12 @@
      "seen": "2026-11-21T03:05:38.527Z"
     },
     {
-     "title": "مبيعات GTA 6 تبلغ 3.8 مليارات دولار في يوم واحد",
-     "url": "https://www.bbc.com/arabic/articles/cm93rkrgxvreo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-21T02:51:26.000Z",
-     "seen": "2026-11-21T02:55:39.135Z",
-     "impact": "يعكس للمستثمرين والمهتمين بالتكنولوجيا حجم الإقبال المالي الضخم على قطاع الألعاب الإلكترونية."
-    },
-    {
      "title": "استقرار العملة الأمريكية خلال التعاملات الصباحية عند هذه المستويات",
      "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPVUJMMUJtSE5hMFVvWG5hWmFaNkY3RER1Nm9YMUZMV0J6Q0VmamFDbFpucnhSRVpPYUpJRDJ5YXZqbTY4QXQ4cF94T01PRXhLbk42OUdmMjNPaEp4VkZiekxIM1JPTWNqMTgxSlRyVWtfSG52Z1lDZTB2TFJPQkNTX0ZFVFg1cVowcTJPU2NyQkl6OVpJZFN0cnluNFpTbW5leXBOcHlTdXExV0NlMy1rMmc0R0RhbmY4QjJ6LW1KQUhlYXRQX3M1NEJUcFUybU0yMm5BbXpzTUtHb091UVU4VHVEWU1FOGNwS2NKMWVsRXowV0RfMy1ra3BkUFVtZE5NS2R0eXJ2ZC1XZndtUzN4R0R3TUVmNWMyeEN2ZXAzTVBnWGVLa1dGeHp5RllFLUttSGNjN1RWQ0xna2dQS3hCenk0dzI4dWNLVTBqUWtlUm5TUlZtdFltcThPTlBlM0lZUEhaZG5GUXRxbC1Hc1VoUURHVmpUbGZuc01GZHZkYWIzVjFwVjZGMVd4eGxpNTlibHdBaEFNby1Lc2ZObTdIRzBxSjBUVmpsRE5IMEpyaWhUUUV6SmNXN1lhRWtGRmpkQXZrX1pPYWM2XzVGbWdnb1kzTmJia0treW9tcGxaYlpJbFpwZ1ZYVVBkQWo2WmJsUENjUXh3OG9CT1B5OVVHdWN0LTdnd0NrMEtPSEFpOU4wcjFzS01ZRjVOLXZVa0FkSjRmTVdCNVY4bURIWi1nStIBsARBVV95cUxPVUJMMUJtSE5hMFVvWG5hWmFaNkY3RER1Nm9YMUZMV0J6Q0VmamFDbFpucnhSRVpPYUpJRDJ5YXZqbTY4QXQ4cF94T01PRXhLbk42OUdmMjNPaEp4VkZiekxIM1JPTWNqMTgxSlRyVWtfSG52Z1lDZTB2TFJPQkNTX0ZFVFg1cVowcTJPU2NyQkl6OVpJZFN0cnluNFpTbW5leXBOcHlTdXExV0NlMy1rMmc0R0RhbmY4QjJ6LW1KQUhlYXRQX3M1NEJUcFUybU0yMm5BbXpzTUtHb091UVU4VHVEWU1FOGNwS2NKMWVsRXowV0RfMy1ra3BkUFVtZE5NS2R0eXJ2ZC1XZndtUzN4R0R3TUVmNWMyeEN2ZXAzTVBnWGVLa1dGeHp5RllFLUttSGNjN1RWQ0xna2dQS3hCenk0dzI4dWNLVTBqUWtlUm5TUlZtdFltcThPTlBlM0lZUEhaZG5GUXRxbC1Hc1VoUURHVmpUbGZuc01GZHZkYWIzVjFwVjZGMVd4eGxpNTlibHdBaEFNby1Lc2ZObTdIRzBxSjBUVmpsRE5IMEpyaWhUUUV6SmNXN1lhRWtGRmpkQXZrX1pPYWM2XzVGbWdnb1kzTmJia0treW9tcGxaYlpJbFpwZ1ZYVVBkQWo2WmJsUENjUXh3OG9CT1B5OVVHdWN0LTdnd0NrMEtPSEFpOU4wcjFzS01ZRjVOLXZVa0FkSjRmTVdCNVY4bURIWi1nSg?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-21T02:03:14.000Z",
      "seen": "2026-11-21T03:25:38.570Z",
      "impact": "يطمئن متعاملي السوق المصري بخصوص ثبات مستويات أسعار الدولار خلال التعاملات الصباحية."
-    },
-    {
-     "title": "تفاصيل سعر الدولار في البنوك الآن",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1wN3J0UzJlT0FxQkNyYmRBYWJzdWczYndUal9acFAtYndfamVxcC1RVnF6ZTJqeWE1MjhJWW45Ti1yWmkxZlVV?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-21T01:00:00.000Z",
-     "seen": "2026-11-21T01:05:38.630Z",
-     "impact": "تساعد متابعة أسعار صرف الدولار في البنوك الأفراد والمستثمرين في مصر على تحديد أوقات الصرف والتحويل المناسبة."
-    },
-    {
-     "title": "الدولار يفاجئ المصريين في ختام الأسبوع.. تعرف على أسعار السبت بالبنوك",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVTJRZ3JhS1Fxb0tRR3dvTU9kSnRCakxzZDUxR3Y5R2lSWDllTUQ3YUdYMzFSS3B5dkRLc3RtdkZLMzVIdV9SclRGWVViSG5tMkF5WnRlRUF1TmZGb0t0SC1yUW9fLXRYalVyN0ppdzBRVVI0b3VvY000VEVDd09UanZZVTRObmZpVDZlOTN1WmpTd2tGYlpVV3RSNGNPN2FfQVlNT29BRi1fQ1FBUmdSWVJQTVNHMmRkaXdGdGFDUlZVdmhsS0xHQmZLVE95OUJoVEpBYVdYNjQ3aVc5cF96WGFnM2JuNkgxLU1jQ3FoOUhqT1AxVUJJbmt6cTk4dGhiejJoWnVkOE1oUVgtOUNTWEk5RzBwaWxHaFVLMHNGRW03OWxud0htOGRwRWEzUmtySG1vMjVGSkhPUTl0QzhlZ29PU1VZWUFXMjJZRTJPc01Zdw?oc=5",
-     "source": "الوطن اليوم",
-     "time": "2026-11-20T23:52:56.000Z",
-     "seen": "2026-11-21T00:05:39.134Z",
-     "impact": "يهم المتابعين للشأن الاقتصادي في مصر للوقوف على أسعار الدولار في ختام التعاملات الأسبوعية."
-    },
-    {
-     "title": "سعر الريال السعودي اليوم السبت 21 نوفمبر 2026 في البنوك المصرية",
-     "url": "https://www.dostor.org/5785116",
-     "source": "جريدة الدستور",
-     "time": "2026-11-20T23:15:00.000Z",
-     "seen": "2026-11-21T07:16:02.585Z"
     }
    ]
   },
@@ -426,32 +423,32 @@
      "seen": "2026-11-21T05:36:03.155Z"
     },
     {
-     "title": "ضربة قوية لبايرن ميونخ قبل مواجهة ليل في دوري أبطال أوروبا",
-     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%87%d8%a7%d8%b1%d9%8a-%d9%83%d9%8a%d9%86-%d8%a3%d9%88%d9%84%d9%8a%d8%b3%d9%8a?traffic_source=rss",
+     "title": "الكبد الدهني.. علاجان جديدان يفتحان باب التعافي",
+     "url": "https://www.aljazeera.net/health/2026/11/21/%d8%a7%d9%84%d9%83%d8%a8%d8%af-%d8%a7%d9%84%d8%af%d9%87%d9%86%d9%8a-%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d9%86-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%86-%d9%8a%d9%81%d8%aa%d8%ad%d8%a7%d9%86-%d8%a8%d8%a7%d8%a8?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T03:41:37.000Z",
-     "seen": "2026-11-21T06:46:02.732Z"
+     "time": "2026-11-21T04:22:00.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
     },
     {
-     "title": "عبدول السيد يعتزم أداء اليمين على القرآن الكريم.. ماذا يعني ذلك لأمريكا؟",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%b9%d8%a8%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b3%d9%8a%d8%af-%d9%8a%d8%b9%d8%aa%d8%b2%d9%85-%d8%a3%d8%af%d8%a7%d8%a1-%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86-%d8%b9%d9%84%d9%89?traffic_source=rss",
+     "title": "بريطانيا والاتحاد الأوروبي يلغيان شهادات تجارة الأغذية بدءا من 2028",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/21/%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d9%8a%d9%84%d8%ba%d9%8a%d8%a7%d9%86?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T03:39:09.000Z",
-     "seen": "2026-11-21T06:46:02.732Z"
+     "time": "2026-11-21T04:19:19.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
     },
     {
-     "title": "ائتلاف إعلامي إندونيسي جديد لنقل الرواية الفلسطينية ومواجهة التضليل",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%b5%d8%ad%d9%81%d9%8a%d9%88%d9%86-%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a%d9%88%d9%86-%d9%8a%d8%a4%d8%b3%d8%b3%d9%88%d9%86-%d8%a7%d8%a6%d8%aa%d9%84%d8%a7%d9%81%d8%a7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T03:28:12.000Z",
-     "seen": "2026-11-21T06:46:02.732Z"
-    },
-    {
-     "title": "بالتفصيل.. اختراق إلكتروني جديد يهز الـ\"إف بي آي\"",
-     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPLVNSV2xSdC1BMUR2ZFQ5MlplcTktLU1ObUxzOFlsRjctdEhyeW51RXZzNm5hUk1ILUlWdGt3OFQ4X1dVdGJENHVwWS1KTkJMTzV0MUtqOVpHMnluVUxtZ3Bza3ZZQVhzWGthZlQyX1BlUU5ycU1YTmcwRXpJeU9qNFM5X2ZHZmVFQmJwVzE3X0FwdFlRU0lYTFd0aTU4WlVWY1BIZmxjY0xmMHgxdUVmVTBFaWRNNjJ4YjlWX0NxSFNfVXRUdFh2OHdmSVFIYTdfd1VZVU5iT0syd21KbGlfUHc4TVJCWW5HX3JPUG45QlpxV2NMcWlJRHBLYjZpZFJyVWljdDc3TngzXzJTanMzSi1QdGpoTW0tc21DNDRGTm90bmZNRG16Rk1uSExQdDBzeDYyd3V5LUZVQm1GcTR4ZDA1b3o3ZFJ5cmxnelZWampMNjNvM0l0dzUwbnFMLTVpNktiV0FMUTAwNnluY1pYd1Z3NGwtRDlJ0gH-AkFVX3lxTFBXaHhpN013NFlRR0ZWSmFFa0VlMXRueFBlT3N1eGhqa3FKZ3hwYVllU01kUnpIa2FxUDViSnFzeVJjM3M1LUlQUXZPX0twTkhNUTBPY0t6NnM0UVVEVEQxamVseS1ob0JEMFpmNG40YWZzUGZCdEp1anNDd0RLMU0yTHRhdEthYTBfcWEwcm9kZjNPbXo0WmZLTGdRR1hvOTduTDlyQlU2MlNqdExHVTJIbnhqYXpud2NiVEVGdTVGeVFYUkdJOUlmOGptT0xHU2UtWTZXS2wwOHNMd1B6YkNfVUQzekctSzZKVVM2S0QzbHBvYVQtMk5pd0VNb1lXaTBON1VCS1dBWDVHVE1uX19EYl9vWHBFa3dvbUJ2THhwbHFIa1YycGFMNVhQT0lyTmh3Ym9ldlVmSHRobTZDdGZjdmxBTkJHTTBFazlSbGRwSmY5ZW96OEVZV2xQZ3B0UGJsRm5rQjlCb21QcFJSWTRDZVNKclZhTmd2ZFU2SGc?oc=5",
+     "title": "ترامب: الكنديون باتوا أكثر جرأة في تعاملهم معنا",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObkYyMlk3aUtzZmM2dDRTMGRPd3NlMmlLN0h2Y01wU0czVHFoRTJDSElwbTNEcVRqaU9SNF9qdkJLQm0tSnMtai1NZF9lQ1BuWUFwZ1BzbHNTcy1OUFZHMlR3RTlMQlRUaXIyZkJyRGdGWTdDdG1FTU1feV9GM0VPNGpxUkpsT1RwSE9YbzlWZ01fUzZHWHQ5Tk5BX3BoR01DY09BTTVIYTlTS0JsQldjT05meFlHWkk5WFBzY2U1WUZteVhkRzN1eGlER0FpaVRtUmpBel9zNlB2LVpwTlU1b3dicGt2RE95a2Nzb1N6TzFIZXdhdU9pejJMWXNibk16ZlFhVXpKWVZUTU5mTjhRYzItSWtWWnNPQ0IyVldOUFRVRm9GeWtpUTNjZGFtaldya19SVE9FaDF3WllsSnoycXBHZnZOM3NqTEJiYzFray12SU5tdnF3ZkhZc0NOUmF1ZHdnblpR0gHrAkFVX3lxTE1jQmU4ZXRFSXpsNWdQN1RVOTNkUGp5MXZac1gzeG1OQTR4cDdPNmRiakg1X09wR1ZtU2hVY3hQeW9PUWk2X2lJdVFMUlFUazRCY2wxZWJ3TUhxd2dvc0ZESWw0cGJ4Q1poYnhGSVk5NmYxdVdyd3F5NGdGa29rR1JTNTlJa0Y0OGhrLWFCR2NxUzNiNVJZOWhZdGNUc1N1M3Rfb1ZnZGNDcnJyY05mX1FCNUZ1aGMwT3ZkRm9DSkZzdXJEdWJRTldZdlhlTXFJcUE5aC1FZndzeUdkeVhqaFdpZjRHT2pMa3Baalk2VklrZjlXdmZZQ3BrXzNIbzZya08tQ2J6UzdweXpEVkNlRUtlY2pIZGk0cjZ1SmEzWnlUbE01Y0dUSlVxV1R3aUZ1VVotZlZYTUZHVlJlbWd1Y01CSEJNdThnM1RMRXpTNGxXZEpPUFVQb1lDcGVRakhKVEo3bWF3RXEwbVFaZw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T03:19:41.000Z",
-     "seen": "2026-11-21T03:55:38.857Z"
+     "time": "2026-11-21T04:10:48.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
+    {
+     "title": "لا أحد يوقفها.. الملاكمة الويلزية برايس تحصد جميع أحزمة وزن الوسط",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/%d9%85%d9%84%d8%a7%d9%83%d9%85%d8%a9-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%b7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T04:00:51.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
     }
    ]
   },
@@ -459,6 +456,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "أسبوع دبي للمستقبل.. الذكاء الاصطناعي في التشريعات وتجارب الأجهزة الذكية تتصدر اليوم الثالث",
+     "url": "https://aitnews.com/2026/11/21/dubai-future-week-2026-day-three/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-21T07:20:14.000Z",
+     "seen": "2026-11-21T07:26:02.387Z"
+    },
     {
      "title": "تقارير: CrowdStrike تجري محادثات للاستحواذ على Zscaler",
      "url": "https://aitnews.com/2026/11/21/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-crowdstrike-%d8%aa%d8%ac%d8%b1%d9%8a-%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0-%d8%b9%d9%84%d9%89-zscaler/",
@@ -480,6 +484,21 @@
      "source": "صدى البلد",
      "time": "2026-11-21T03:51:00.000Z",
      "seen": "2026-11-21T06:56:02.484Z"
+    },
+    {
+     "title": "بالتفصيل.. اختراق إلكتروني جديد يهز الـ\"إف بي آي\"",
+     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPLVNSV2xSdC1BMUR2ZFQ5MlplcTktLU1ObUxzOFlsRjctdEhyeW51RXZzNm5hUk1ILUlWdGt3OFQ4X1dVdGJENHVwWS1KTkJMTzV0MUtqOVpHMnluVUxtZ3Bza3ZZQVhzWGthZlQyX1BlUU5ycU1YTmcwRXpJeU9qNFM5X2ZHZmVFQmJwVzE3X0FwdFlRU0lYTFd0aTU4WlVWY1BIZmxjY0xmMHgxdUVmVTBFaWRNNjJ4YjlWX0NxSFNfVXRUdFh2OHdmSVFIYTdfd1VZVU5iT0syd21KbGlfUHc4TVJCWW5HX3JPUG45QlpxV2NMcWlJRHBLYjZpZFJyVWljdDc3TngzXzJTanMzSi1QdGpoTW0tc21DNDRGTm90bmZNRG16Rk1uSExQdDBzeDYyd3V5LUZVQm1GcTR4ZDA1b3o3ZFJ5cmxnelZWampMNjNvM0l0dzUwbnFMLTVpNktiV0FMUTAwNnluY1pYd1Z3NGwtRDlJ0gH-AkFVX3lxTFBXaHhpN013NFlRR0ZWSmFFa0VlMXRueFBlT3N1eGhqa3FKZ3hwYVllU01kUnpIa2FxUDViSnFzeVJjM3M1LUlQUXZPX0twTkhNUTBPY0t6NnM0UVVEVEQxamVseS1ob0JEMFpmNG40YWZzUGZCdEp1anNDd0RLMU0yTHRhdEthYTBfcWEwcm9kZjNPbXo0WmZLTGdRR1hvOTduTDlyQlU2MlNqdExHVTJIbnhqYXpud2NiVEVGdTVGeVFYUkdJOUlmOGptT0xHU2UtWTZXS2wwOHNMd1B6YkNfVUQzekctSzZKVVM2S0QzbHBvYVQtMk5pd0VNb1lXaTBON1VCS1dBWDVHVE1uX19EYl9vWHBFa3dvbUJ2THhwbHFIa1YycGFMNVhQT0lyTmh3Ym9ldlVmSHRobTZDdGZjdmxBTkJHTTBFazlSbGRwSmY5ZW96OEVZV2xQZ3B0UGJsRm5rQjlCb21QcFJSWTRDZVNKclZhTmd2ZFU2SGc?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T03:19:41.000Z",
+     "seen": "2026-11-21T03:55:38.857Z"
+    },
+    {
+     "title": "مبيعات GTA 6 تبلغ 3.8 مليارات دولار في يوم واحد",
+     "url": "https://www.bbc.com/arabic/articles/cm93rkrgxvreo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-21T02:51:26.000Z",
+     "seen": "2026-11-21T02:55:39.135Z",
+     "impact": "يعكس للمستثمرين والمهتمين بالتكنولوجيا حجم الإقبال المالي الضخم على قطاع الألعاب الإلكترونية."
     },
     {
      "title": "ترامب يهدد بحظر شركات أمريكية من بناء مراكز بيانات للذكاء الاصطناعي في الخارج",
@@ -520,14 +539,6 @@
      "impact": "تؤثر تراجعات مؤشر ناسداك على المستثمرين في مصر المتابعين للأسواق المالية العالمية وأسهم الذكاء الاصطناعي."
     },
     {
-     "title": "هبوط ناسداك بأكثر من 4% مع موجة بيع حادة في أسهم الرقائق والذكاء الاصطناعي",
-     "url": "https://aitnews.com/2026/11/21/%d9%87%d8%a8%d9%88%d8%b7-%d9%86%d8%a7%d8%b3%d8%af%d8%a7%d9%83-%d8%a8%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-4-%d9%85%d8%b9-%d9%85%d9%88%d8%ac%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%ad%d8%a7%d8%af%d8%a9-%d9%81/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-20T20:54:32.000Z",
-     "seen": "2026-11-20T20:55:26.170Z",
-     "impact": "تفيد متابعة الهبوط الحاد في أسهم الرقائق والتكنولوجيا المستثمرين المحليين في تقييم مخاطر محافظم المالية الدولية."
-    },
-    {
      "title": "ملف أمن الطاقة... أزمة تتجاوز حدود الحرب الإيرانية",
      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOSHUxb3A3dXF4Zl9RMUZNNzNfckRWOGFtT3d3czJ5bVZPV3dWMktIUlF4MENKTm55enNMeEVNU01QMnZ6azROODJUeWo3NnJ3aEc3VFJUTW9CSzhvemNDMm5mYVdKOHhjT1B4LTIwYU1jZ01fVzUwY3ZDZllFY2kxQjR2SmVfWUVtc19wYXRVcG1wbG00YmsyanVXVzdLRzdsN0FhWGUzUlUtZXhyTW5HenFhV0V0NjY0VmdTd0JVV0c5dHV6TVRKeUFubmxsREhNTzE4UTMyUFFMUjVxUkN2QXRoeDdNbEI1M3lDNmNxZjltZGpvcXF6VzdGdHZLbkxicFd0REN0U1dldTNUR1A2OHdWUEZPUEt1NDlkQXRNU3gwTGV0OGEzUlpoOU5TU2pCWnIzc2dXb2hiZFAyUTVqeFhCbFVZTUlaVzc2UXg3QkZ2X3B4LUVYdWR5Zi1YbVIwX3RqMFRvRkJoQXlPNWlxc3VKMm5KQzdxVlFjQTJpWkZFNmlnMExBTVFPT0N1ODNLZnZtdWdZRnppM2RfQ2JlaVhvTHB6MlRnRzNNaEoyWk1ldkFTWmNyMTFmall0eC10eUxHTjFmYlVYeVVLOWdzOWloZHJEam9FWHEzMGFDSmptbjRT?oc=5",
      "source": "الشرق الأوسط",
@@ -548,24 +559,16 @@
      "source": "BBC عربي",
      "time": "2026-11-20T19:23:32.000Z",
      "seen": "2026-11-20T12:03:09.523Z"
-    },
-    {
-     "title": "ترامب يكشف سبب إقالة مسؤول الأمن السيبراني بالبيت الأبيض",
-     "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPaGhTUEVMZ0Ztd3UxUUU1REdFRWJwOGpLYUxtdk0tTTYzN1FfeGw1Mm1OODY5MzRYYlAzOVk2Z3RLRFpjUW5Hc1FuRTJlZUhJSlBmN3BjakMxMmhWTzJIWFMtbWFkTl9YYVVsSTltNnJUSEFJNzVsLVFhM1lnT2lqS3NabUlIcmlBN2RoOHpkNzRHclYyLTdyeVBOQWJCLS15WWEzV1cwbnlmbExzQmtiMmhUOC1YZ2FBZzYtWWcyZWk1UzM1VUFzR1AzQjlzTnpuVHlkVkw1S0NuV1BzT0M4bVREZEgyS2swcXBLb05jaVdSdDN0M1I1TlBSbGVrVFBidHBoN0kxeFNuN01JTW9IaFV1SVFGZ0lGc3ItVnBiTkQ1WS0zekVyZHMzeF9mV3VKTldKX3pVdUV0emtnVWVERi1PTkpCMzdlNG9KM2JfSEtsbkFRdE5oX3hJNThOMEc2YmJNbGhSUElkeVpiWWdlMWd3TS05NXhEQWFuVTZDSnFROWR5b0w4M0NkV3lESjVrOW5feS1VdmlFMTZEX0R0NEtTOXVnVnVRclQ4WHVYWi1XeFNCZ2xWRmZEMnBhN2V1WGppX01xNWFweTZqU0U4ZjNuajFwUDVxbzd0ZEZFUUNRbjNHVVliaUJQZ1JhRkM2czBvUGVmVDByZXRnUlVKYmI1TVdKb0tDdzRn0gGQBEFVX3lxTE9sc3M5V3ZTUVdjUzZ0S1V1UzhHeE44VmlSQkpFRmJUWEU1cUNwNDJJSDZoM1JzdmRxODlpa2VQbW9wUnFmcE1yUVhRZTZ5aVY3MFBpX1hYNEkwQTNhQjJpMjd5S085dDFaZmlRdWVqb1lBSDVYY04tNGVkR3VBNkYzTmp1UlJYV3lGaGRkZmJtMFVQRWhTallCb2dYYjVjV3NIQ1l0SDBQOFpmREplNUZuM3RvSkNZSVVXSUF4aTJKZjFaNDVzZkFIWHBBUDRUUTFkQURlQ29WdW1wdGRxMUViSmpjdEtLX01qOE9yOGVDVzQ4OUExZFk4VnFwckxwS05XRHg2QU1XT2NobnE0ZDhwdk9ORVpFR0xTUHlVV1NjazVST00wNjdRbnFtWmEwUFNfUlU5Z0xGY3BEdE1QY2NWYmlVRkFTQkI2Y1VoMTNpYm0zZUJNTnhFQkM3Tzg4M2ctekVBbW1QMzFMZlE4QlBXTXRtdjFRNVktSl9FQ2NmaTlIS1NsdTlHYnFrN0VoT0pJZ01WQmdBSDcxYm9FbWFzR0dDeThLYy1IRmF6TllSZ0xZQ0dIblhjZUE2ckVET0NxZGhreG5RM2tqMGxZSUlTNnBLcmM4N3ZfWjNMU2dPck0wcWhvQWM1TzJ0cEFOZUdkQ0NvUGdLd3cxSzN0LVltWTJkXy14b05pSWNXbDBRTg?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-20T19:22:08.000Z",
-     "seen": "2026-11-20T20:45:25.635Z"
-    },
-    {
-     "title": "\"أقول لابني إنها مجرد ألعاب نارية\": الحياة داخل مدينة يمنية يحاصرها الحوثيون",
-     "url": "https://www.bbc.com/arabic/articles/c9p83vdv55x8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-20T19:17:04.000Z",
-     "seen": "2026-11-20T19:25:25.493Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
