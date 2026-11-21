@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:05:38.527Z",
+ "updated": "2026-11-21T03:15:38.482Z",
  "minute": [
   "استقرت أسعار صرف الدولار الأمريكي في البنوك المصرية خلال التعاملات الصباحية والمسائية.",
   "عُقدت لقاءات أمريكية قطرية في ألمانيا لمناقشة إنهاء حرب إيران، في حين أعلنت السعودية اعتراض 3 صواريخ بالستية ومسيّرة حوثية.",
@@ -11,7 +11,7 @@
   "key": 2,
   "impacts": 8,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T03:05:38.527Z"
+  "errorAt": "2026-11-21T03:15:38.482Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58144,
-   "change": -6.07,
-   "asOf": "2026-11-21T03:05:38.000Z",
+   "value": 58313,
+   "change": -5.8,
+   "asOf": "2026-11-21T03:15:40.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -572,6 +572,17 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "tech",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
