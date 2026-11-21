@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:51:09.617Z",
+ "updated": "2026-11-21T21:01:09.395Z",
  "minute": [
   "شهدت الساحة الإقليمية توترات إثر إعلان إيران مهاجمة قاعدتين بالبحرين وإصابة ناقلات نفط، وإعلان البحرين تضرر منشأة صناعية.",
   "أعلنت وزارة البترول المصرية إعادة إحياء الإنتاج بحقل البركة بأسوان، بالتزامن مع طرح شركة شلاتين مزايدة للتعدين الأهلي في 10 مناطق.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T20:41:09.824Z",
   "model": "gemini-3.8-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T21:01:09.395Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60263,
-   "change": 2.49,
-   "asOf": "2026-11-21T20:51:09.000Z",
+   "value": 60373,
+   "change": 2.68,
+   "asOf": "2026-11-21T21:02:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "حضور وتمثيل دبلوماسي قوي في الدورة الثانية لمهرجان بورسعيد السينمائي الدولي",
-     "url": "https://www.elbalad.news/7189469",
+     "title": "وزراء خارجية مصر والسودان وإريتريا يؤكدون أهمية الحفاظ على أمن البحر الأحمر واستقراره",
+     "url": "https://www.elbalad.news/7189476",
      "source": "صدى البلد",
-     "time": "2026-11-21T20:48:32.000Z",
-     "seen": "2026-11-21T20:51:09.617Z"
+     "time": "2026-11-21T21:01:00.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     },
     {
-     "title": "الأرصاد: شبورة مائية كثيفة على الطرق غدا.. وفرص أمطار خفيفة على السواحل الشمالية",
-     "url": "https://www.elbalad.news/7189465",
+     "title": "موعد تطبيق زيادة الحد الأدنى للمعاشات 2027",
+     "url": "https://www.elbalad.news/7189453",
      "source": "صدى البلد",
-     "time": "2026-11-21T20:48:18.000Z",
-     "seen": "2026-11-21T20:51:09.617Z"
+     "time": "2026-11-21T21:00:00.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     },
     {
-     "title": "أحمد موسى يشيد بتطوير إشارات السكة الحديد.. وتسليم كرسي متحرك كهربائي لأحد المواطنين بالإسكندرية",
-     "url": "https://www.elbalad.news/7189467",
+     "title": "5 سيارات زيرو بمساحة عائلية.. اعرف الأسعار",
+     "url": "https://www.elbalad.news/7189229",
      "source": "صدى البلد",
-     "time": "2026-11-21T20:47:07.000Z",
-     "seen": "2026-11-21T20:51:09.617Z"
+     "time": "2026-11-21T21:00:00.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     },
     {
      "title": "دولة التلاوة.. التحكيم لطفل متسابق: سامعين عملاق بيقرأ وعاجبنا إحساسك",
@@ -399,6 +401,13 @@
      "seen": "2026-11-21T19:21:09.894Z"
     },
     {
+     "title": "إسرائيل وسنتكوم تصادقان على خطط عسكرية لمواجهة إيران",
+     "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNNElJVkQyVUFVZDJhQUZiWHRfRmFDbFNyVDc5SGRhN0lNdVRRbDNZeWxnc25HNC1NRndHbTBhT3hQUnc1OWVXSFkzWGoxeVZYMmZ6RTFtVG1qNWk5ZlF4RExNZXlLNnVlaXd4WUI4SDFLUGNvTjRBdmtiWGpJX2hFZy11dXQ5X09vN2pVcm1LLTgwZkRsaEtyVEtSYWJXWUZua1J4cFEwMXlHMkJ2bi1USndJcGFyaEQ5bUxHVl9WRHQ2NUx3clltVEI2VEw0V0VYMl96cV9EaU9SeUQxVF96YU5kMEpFS3p1R0NIRHRHTGc5SVkxZXNpUDhJZ1dZWWhxVmJPV184OUZvWnUwMDNNb3RFTUN1MnEtMThadGVqS2VoRFhwNC1WN1hldVh6V1A3TWc3NmZhUGdWUWIzR1ZYdTVPMk8zN0pPbm1xdHJhaFppYThVYjlFcTczU2NIT3dmQUV0WUVwSnRyOEM2Mk5TMWdvTTVIYkNmRjFKaXZMVWQ4UWpZZE5icUxBSmluZ3M0V0p2RzNwd2JLM1J0UVk2Mkl2b0p1T2lnRDhnbm91NFh0ZlFZUjYyUTVJRGZ1WVBkbkUtQ0hsUjFQVFFTLXJqajJENNIB2ANBVV95cUxPVDhkWGdoNXFVZjRtZFVzb3hsTlBvbUdnZkI1bWVsamtMV0dWRXg0N3ZMcVA5a3dYN3pmdmVkaVljMDZvb2NTZEN3QWFlS3pEZF92ZlZaZFRLVkN0ZlI3V3lLSHVOdnVsajlIS2tGX0dQcXliZG9USEtCejhWMHdMVU5RcURkV2R3VjAwdGYtVFMySFM5SEkyTmpkaUZBY3hpQ2dfX0FPeVM4RS1wMWltX085Uy1XaG9RQTRHaHhIenpaYUY0YVdNZGRidnAxMkppVnFZendVLXBwSXl1dVVZdkp1MS1CTDYwbnYtZTNXX2xnZGo2Ukxiak5RTUhTZExfRzFZV0Fjb044QUIxblFqVHhJRlRQTEdjRHJwSWVYakJYMWJmNWpnalQxdmRwZmJCUng3SHhsYlREMFg2aFFyMVFyWFVmbzJnVnVhMUpVaVhNdngzU2M1clItQUhsSXlPZzdvanJ1ZXVtNnFDUTZHSVBrU1dwTU5iVEx3bmphY0Z0ekNyWFpwd0tCWWw3ZDJCbHQwaF9jRGt4MzNtVXpRR3REc19PdF9YM2xDbzVDcFZZanQ4QnRmVmZkbXpNeHB2SXdhSlNzSU94VGdycDdvR3E0YWJRWVAt?oc=5",
+     "source": "العربية",
+     "time": "2026-11-21T18:57:00.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
+    },
+    {
      "title": "سباح بريطاني في هرمز.. رسالة بيئية قرب السفن المشتعلة",
      "url": "https://www.skynewsarabia.com/middle-east/1906251-%D8%B3%D8%A8%D8%A7%D8%AD-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -427,32 +436,25 @@
      "seen": "2026-11-21T18:31:10.233Z"
     },
     {
-     "title": "ماذا بعد اتفاق \"جرف الصخر\" بين حكومة بغداد وكتائب حزب الله؟",
-     "url": "https://www.aljazeera.net/video/behindthenews/2026/11/21/%d9%85%d8%a7%d8%b0%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%ac%d8%b1%d9%81-%d8%a7%d9%84%d8%b5%d8%ae%d8%b1-%d8%a8%d9%8a%d9%86-%d8%ad%d9%83%d9%88%d9%85%d8%a9?traffic_source=rss",
+     "title": "فليك متجاهلا انتصارات ريال مدريد: الكلاسيكو من الماضي وفياريال أولويتنا",
+     "url": "https://www.aljazeera.net/sport/2026/11/21/%d9%81%d9%84%d9%8a%d9%83-%d9%8a%d8%aa%d8%ac%d8%a7%d9%87%d9%84-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T17:19:55.000Z",
-     "seen": "2026-11-21T20:31:09.610Z"
+     "time": "2026-11-21T17:45:21.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     },
     {
-     "title": "آيزنكوت ينوي طرح «حكومة أقلية» في غضون 10 أيام",
-     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPaHBpM21WUUJqcy0wbERBemNFdVdDei1tZFNmbVNEUmFvUjFkQXVabDJGc096TFZ5OGtva2FiRTVUcFlYendZOXprVjloc0IzU0RjV1NlWUpmWWY0OHFELUFULXFzQ21EQnVFWkVEQmRLejNqS2RIenpkcmRHSFhTN2RyUWdQSHFvc2NFd1JCUmo4UzRZS0lzT1lmZ1NzaXREM2l0N0JHYkVRdDd4LXdCQmhLZk5zVHlvakVKRE5zY2NXazZDOVFoUDlqNmtObmRLWWd5MUEyc3FPYVlwWWpTWmotV1RDOWJRUUlSQUNYNjlQQ0pMSGwxV0pGRHdqYnFaNmxIQmJSczRlOUJsYVkwczBObGtqREtBUkpVMGVBSm5KSG9HQ3p1bm55MTlPNk1hZmpPVlJvZlF6WDVHeVVrU2lKS1FUMlBOcHFOVjA4OFdMR3V2dXBhZlhIREszdU9NNjBDeURvMnloVzljWW50UEowSTlvb3NJSE9FeGN1M0Z6OTd2NFIyR2xfSlAtcndwRDBjTEQzcmNLNUF6TkY4MWVBaUpZMlU0RnBFNDJGSnh6cXpiRVY1cA?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-21T17:16:00.000Z",
-     "seen": "2026-11-21T19:21:09.894Z"
-    },
-    {
-     "title": "بالفيديو.. هدف عكسي غريب يدخل مدافع بورتو في نوبة بكاء",
-     "url": "https://www.aljazeera.net/sport/2026/11/21/%d8%a8%d9%83%d8%a7%d8%a1-%d9%85%d9%88%d8%b1%d8%a7-%d9%87%d8%af%d9%81-%d8%b9%d9%83%d8%b3%d9%8a-%d8%ba%d8%b1%d9%8a%d8%a8-%d8%a8%d9%88%d8%b1%d8%aa%d9%88?traffic_source=rss",
+     "title": "بزشكيان يحذر من تفاقم أزمة الطاقة شتاء ويصف الحرب الاقتصادية بأنها أصعب من الصواريخ",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/21/%d8%a8%d8%b2%d8%b4%d9%83%d9%8a%d8%a7%d9%86-%d9%8a%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%aa%d9%81%d8%a7%d9%82%d9%85-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%b4%d8%aa%d8%a7%d8%a1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T17:11:12.000Z",
-     "seen": "2026-11-21T20:21:09.584Z"
+     "time": "2026-11-21T17:40:11.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     },
     {
-     "title": "ترامب يعلق على اختراق قاعدة بيانات FBI: ربما نكشف أسرار عن روسيا",
-     "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxORzVsdTNBZXdLZnNTZXRzLVJndVp0S1o2elN3cjVkMnRIQVdNYm5fRkFzZ01mOEF4SGZZSnpWR1pWbDlzLUp1VlpVNV81eUZiaDBFZXR2aFZaQXI3TXEzdHN5bnBkaENpTV8wVV9udDFiUFhPcm9GZ1BXQXUxUHRIZWxCTktacE1pN0JYWlBCUE9IQUk4TEcxbm11cEhkVjZ4MzE4cV9HaXNCSW5MSEJxM3JuVkt2dWcyaEpDWkQ0TmE0QkMzTGlOVUxBcW5fMG9HZW9vY0NtUG9WaXg3alh2QW9BdWVKMXVWZjF1V0lNRFJFVmY5c20tbzJSZGx0YUpId2VPSmZ1emhLZzZpTC1ISU16blNSS18xSHg3NV9pbG5BRFhRZjYtbElXUVJDWWpBOUNPWEpBYWJPWXRCQWE2dlBLUk5Bd09neDd1WkxDaWNXWW1Bd2VIVmI5SHFKRWZjVnEtZlpyRGp6MEVzbElId21pa0JPa3h0MG1FcG40SUdFSDRLVldqRXQ4aFI0UHZEUS15SkZGNDNjUHRtenpwX3RDR09TZ0RfSTFXMFNiZXAxU0ZORXBXVHJZZWw2S19MNlVJbVhIdHRLcHVnZ0NSS0dDWHZvRDQ5NVNaSjlnSldpN0lGRkZ4QlAxcm5pckRmTjF2bmFvN3Jjd2lUVkc4RDNhcFp3SXpCUGF5Y09yZjF5cllsMl8tNkJJVdIBoARBVV95cUxOX2JteDRDcllKMm5MLUd5b3NTQzF1QUVUX0U5UTBUdy1WS2hoX3VQVUQzTlVUbEt5TGRXSi00MVFTZnVJc19tUW1qMFlXTEtqY2F0c3JZd1RBSmpsMlZzOVdKY2I2MUU1Zm5PUmhlNHVkTVZMOE81MzJ3NU56d2VYTTZqOTV3b2xLQjBzeW1YRVI5U1pVNVM5Tk50MlhvZThzblljbXFkeHRicDhLNVB3dWQ5LVhRZ3UyMlBER1o1ZFlLcVRpYUZzWnpfWXFsamZwdGJuWV9RSDRSRkhjOXRGZDJPZk11aGR6ODZiZzk4ZHQwVDVCZnZWOTk2T1ZPUEN3aXhRdmNOSmY3cUZOZXRpU2xOUWZyVmcwZ1BtaWg0dkdTQmNwWlppaTYzWEdWSXNZUldDcDVBTHBlSE9qZXhBMWx4Z0JLZWNUcEIzeE1EM3hMWU0zbzFVNGZCMXhnVnRUTTZrSERvc1hrV3FJdkNhQ2tRSkY0NXNfS01lMVZ4ZVlSM2l2ejJKWlFjYjVXd3hEd0Vwa1lPb1Awc3g2bkV3MmdUaTRsQ2xRNXdqNDMycHN2ZjhYb2xhZWw2a1ZyWHE5NWQ3b0p0ZXdwU3RBdU5WVVlZcEg5VUxCeFRtbFNjcEFIdlBWTkpZWDNWYlluOHg3QkZLSnM1aTFHOXNyakNzc3Zla2lhZnMyZTJOY0FFTmNabWlrNUtRZVh2cW5jR1VU?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-21T17:07:41.000Z",
-     "seen": "2026-11-21T19:21:09.894Z"
+     "title": "مدارس لم تحمِ أطفالها.. فضيحة اعتداءات جنسية تهز فرنسا",
+     "url": "https://www.aljazeera.net/politics/2026/11/21/%d8%aa%d9%81%d8%b4-%d9%88%d8%a7%d8%b3%d8%b9-%d9%84%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d8%a9-%d8%b9%d9%84%d9%89?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-21T17:28:25.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     }
    ]
   },
@@ -501,6 +503,13 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-21T17:23:37.000Z",
      "seen": "2026-11-21T19:51:09.678Z"
+    },
+    {
+     "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
+     "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOaU9aQnV2NEFmcWlKSWQ5eHJTcDdXc05CUUlpZ2lPOEZoUTBSYkNvNjM4WDRDcmo3bkoteEtIVUlvSmRLUFI4X2toanJjWDhyN1AzaHA5RzRYWnMyYnlDaGJaM0d4T1BoejItZUlKb2RLWVR5b1A0cE16cWZiZjEzZjBnQ3NzbW9fVEpHaHhmN3QySWU4cC1NdU8yZGxSNVFvQTdCd05fZU45ZzNZYUFVYUUxWXMydU1mV1ZwSFE3TzdRUVcxTnN3RWM5VGFTVHRrOEZoY0ZkYWFhLS1YcGtyTG13VlBuZy02MXI0Y1IxVGY1cURwOEJONzRhSFlDNC1GXzlqQllVVEFkNUl1M21mZFVkSS1NS2VIV2k1ZjhGMm5odF8xU0ctMHB6WWZGSEV2Z3RVaHFLRGp5T1RfRVdmY1R1cWhVd2ZXTWVLU050bkZDbXlkUmFsUDIzTjVtek9JaFFkYUlkanBqRElpTjZnVXZYN1UxMnA3eFl1WkZaS1dqR1MyTWdTalBkZVp6TF85OHBPRkh2bUdzeTllXzlMbVRHaWlnZEw1TkRPdGFzdmF2MVRmLUg0M21IUVUwek5wSDRZSWx3ZUNtRlRuRGk4ZW5jTFNGMXdiaU4xQnBnS2dUWmZwOFZnUDNETEwzNUJsTld0VlRHeUJHVHc1cjBMUkRzWkdUTy0x0gGIBEFVX3lxTE1oYmk5Ym9nOE1jLTFSVXhQQzMyd29jQWRtWmQ4U1lKVFVFQXVZNWs0bm15ZFptOU9mRy1mSDcwdnFXVHRJNGRkNWRWMUVvcDN4b08xUFpiQU9uYmF5bDNLNHlSbWJka2wwZjRYZ0RGT2p4ODlXMzRXam5YOUpsVXd1TjdRM2FkeURMLU1FTG9WbEtscDMyOTdXS21PUGNncUZ0TjFGS004Um9MQVJrOVk5YmpkMThob0ZVbjE3NTUzOF9MYXRPVXVVU21kU1Y1TjBHUGNraHpWVUtRY3UzQXBsNl9MU3otemhxVGJ2MzctN3Y2aldDcGRUZ25KSFY0YkRicXNBRVpuMTdhYmF6WE9VeWlpRGdTalppdGFCTWRUNzBacko5ZFpfVGhaTTVKOF83MVNiUnlQMThKY1RZRXVlTTdoLWU3bjBCOXB1Vl85bm9saVRSVHBlTFlNd3lMbTVZMk80VFAydkZCbFdMTm5iQ0dUbmJ0cjhOQjlpTzJOUjVSdGYzams0STlnQUVNNHZaVGo2YTRuR044bmdKM20wdi1LajlhMmw0Z3R6YkxxR1JVck11SlNSUjhIRFk5WHYxRjZJUm10VFR1b1p6c0lWTVA1MkJuY19jdEZ2a1lZM0ZDTnA5VkNtQ1RxRGhJWWZXcnB5UVRoVUNCWlFSTWdJNm1jYVlseG4?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-21T15:16:20.000Z",
+     "seen": "2026-11-21T21:01:09.395Z"
     },
     {
      "title": "كيف خدّر رجل زوجته وعرّضها للاغتصاب على أيدي غرباء على مدى 13 عاماً؟",
@@ -553,13 +562,6 @@
      "source": "BBC عربي",
      "time": "2026-11-21T09:50:05.000Z",
      "seen": "2026-11-21T09:56:02.429Z"
-    },
-    {
-     "title": "انتقادات لمؤثر صينى استخدم الذكاء الاصطناعى لإحياء جده المتوفى بصورة رقمية",
-     "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNVGpLc2JOU25NcFRROTBId0hXVnBRcjR5TWV3YUQ4YkNJUGV6dHZhSWNBXzZNXzU3RWpydXpObG44bWwyRlFxX09vNS04V3FvUkY4UXdzUF8xenZOUkNkTk9OUHNmSklzbDN5blBhNS1TNDRuWWNJak5SejV2eDg5dW5BMlJYSXVuZG1JNjN4MkVsdVVEdW10cEhwZTVRakdMVS1TS0tUbFRFaGFMYWZKc3l0eUozOWZqeDJwNXN3WlpianFEREFhWVNlM19oS2xwRllxQ0NFaG1HV3gwR0pNcFlTR3NGbzNZUjFlUGVTazBXVVlQU1kzM0JfT3piZkxEajJ3YTFaSjFaajBPR21LVVNLRnBudkQwZ3lJaHRrc0t6NWlSMGMxaXVsWnFWOUNyanNFYXh3SFFwWWFlXy1iT1F0STZJTmVsQ2ljR3dqVFkzX2UyV1E5UTdnWEFobjZVOHBqdGt4aDNxQl8yeGVueEtMd0Jqd3Bqdng5VlBzVmlEczJBdkVzYm05R2ROTzJDY0ZVQ0ZCa2FoRXJGSUpsUVR2Tjg0WGV3UTF2VFRJRDN1NzBNeGQ2ZzR6c3FCTFp6QmdZMnEtMHhUMGJ4Y1FMZkpfQzVYekc4eHN6MzU5X0JZODdHYXFETXV5NFYzOVZ6VF90dVdzTmNrS29WdEtzRllvVndpTUZDTkZBcEt6ZFVKRGdJYXdBU0JaRmdmdjY5aXRZVXVLQVlMeExFU1RzclpuaW0tR21Ed25qRlhySdIBugRBVV95cUxPLTVnbEl5NjRORlZSM1RtRUJKQ25SRmp6M0VkeUpFZXNNckJHd2ZOREplY1JYMDNGVEpLdDdCZXpBZTV2eHJiZnZKZWRvU3hmR2Q0RC1DRk9hWU5zRHZIY1h2Vlp4eUg0aEt3TVVIVmNDR2FwMGtSaG92RUZxQ1pkajFBZE1DNzU2RnVEWVNOUFJlR1Q4NlpSVEJVd0VTYkNjSkJjemh2UHozRWdydXBpYklScjN2aG1pQUdOYWJCMjhTc0tKRUppWEE0YzVBQk1pMGlwQXdrV010YklySVZxNkNESXRkU2duWU4wei05RmJ5M3ZMZVNrRTZRcVROcDlVUDJfMmgtcDl0dlQyUlRURWgzVzVfTFhDMmVGVXpzdFRITzNIaElaMlVhaXBoQ0dSdzVPd0F1RE5TT3dUUlNNdi1jNkpnemFSQXV2UlMtaFRocktvZFVPelNxb0JRXzc3MGN6X3ZSNngyWU9IdmdpeGNJOEVFT1FMWHppUHVGbVoxR1lmNnlBN1JzbWhvb1BsZDN5QV9DU1Qta2NYM3E4LUhyQVNUbV85Nm5TZmp3NUNiNGY5WWN2bEluS3VMUVZnQnpKSU9rUlNZLVJGSFFNRnpiY3Y1ZWlUQ2hkSDJENUNjSF9HN1hKOVhWWGR4WEk3S0tuekRjQUpFUHBvUEM0Z1RXNTNEc2p3bGhmRHlQdVZqYkx6UzlGdlNWRHFpdFJrTGNaSTVzNkF2VGlKRDM0VUl2RG9BSTFlSXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T09:17:00.000Z",
-     "seen": "2026-11-21T10:39:44.869Z"
     }
    ]
   }
