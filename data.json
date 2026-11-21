@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:35:39.243Z",
+ "updated": "2026-11-21T04:45:38.828Z",
  "minute": [
   "شهدت البنوك المصرية استقراراً في سعر صرف الدولار الأمريكي، مع نشر توضيحات رسمية حول عقوبات مخالفات الكهرباء وإجراءات تراخيص المحال ومواعيد لقاح الإنفلونزا.",
   "تراجعت أسواق الأسهم العالمية مع تسجيل مؤشر ناسداك أسوأ أداء أسبوعي منذ عام 2020 بسب مخاوف قطاع الذكاء الاصطناعي، في حين حققت لعبة GTA VI مبيعات قياسية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-21T04:35:39.243Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T04:45:38.828Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 56093,
-   "change": -9.38,
-   "asOf": "2026-11-21T04:35:40.000Z",
+   "value": 55897,
+   "change": -9.7,
+   "asOf": "2026-11-21T04:45:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -572,7 +572,7 @@
  ],
  "failed": [
   {
-   "section": "egypt",
+   "section": "economy",
    "feed": "www.bing.com",
    "error": "no items"
   }
