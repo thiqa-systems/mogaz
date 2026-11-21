@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:06:02.962Z",
+ "updated": "2026-11-21T07:16:02.585Z",
  "minute": [
   "شهدت الأسواق المصرية استقراراً في سعر صرف الدولار بالبنوك بالتوازي مع ضغوط هبوطية على أسعار الذهب محلياً جراء تراجعات عالمية.",
   "تستمر التطورات الميدانية والسياسية في المنطقة مع إعلان إيران عن استعدادها لمفاوضات بشأن مضيق هرمز وإعلان التحالف اعتراض صواريخ متجهة للرياض.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T06:56:02.484Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T07:16:02.585Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57890,
-   "change": -6.48,
-   "asOf": "2026-11-21T07:06:00.000Z",
+   "value": 58200,
+   "change": -1.02,
+   "asOf": "2026-11-21T07:17:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,31 +139,38 @@
    "title": "مصر",
    "items": [
     {
+     "title": "استهداف محطة\" كريفوي روج \" للطاقة في دنيبروبتروفسك..وتدمير 275 طائرة مسيرة أوكرانية",
+     "url": "https://www.elbalad.news/7188504",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:11:48.000Z",
+     "seen": "2026-11-21T07:16:02.585Z"
+    },
+    {
+     "title": "جامعة القاهرة تصدر تقرير الاستدامة السنوى 2026.. يرصد جهود التحول الأخضر",
+     "url": "https://www.youm7.com/story/2026/11/21/جامعة-القاهرة-تصدر-تقرير-الاستدامة-السنوى-2026-يرصد-جهود-التحول/7626572",
+     "source": "اليوم السابع",
+     "time": "2026-11-21T07:10:00.000Z",
+     "seen": "2026-11-21T07:16:02.585Z"
+    },
+    {
+     "title": "تحذير من الإفراط في الطعام.. وجرثومة المعدة ضمن أسباب رائحة الفم الكريهة",
+     "url": "https://www.elbalad.news/7188503",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:08:41.000Z",
+     "seen": "2026-11-21T07:16:02.585Z"
+    },
+    {
+     "title": "فض الأحراز في محاكمة 78 متهما بـ خلية مدينة نصر الإرهابية.. غدا",
+     "url": "https://www.elbalad.news/7188499",
+     "source": "صدى البلد",
+     "time": "2026-11-21T07:08:16.000Z",
+     "seen": "2026-11-21T07:16:02.585Z"
+    },
+    {
      "title": "قصر العيني يطلق المؤتمر الخامس ENDO CAIRO ويناقش أحدث تقنيات مناظير الجيوب الأنفية",
      "url": "https://www.youm7.com/story/2026/11/21/قصر-العيني-يطلق-المؤتمر-الخامس-ENDO-CAIRO-ويناقش-أحدث-تقنيات/7626575",
      "source": "اليوم السابع",
      "time": "2026-11-21T07:04:00.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "مواعيد مباريات اليوم السبت 21-11-2026 والقنوات الناقلة",
-     "url": "https://www.elbalad.news/7188496",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:02:50.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "هبوط البانيه.. مفاجأة فى أسعار الدواجن والبيض اليوم السبت بالأسواق",
-     "url": "https://www.elbalad.news/7188498",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:02:35.000Z",
-     "seen": "2026-11-21T07:06:02.962Z"
-    },
-    {
-     "title": "دعاء للميت يوم السبت.. بـ5 كلمات يبدأ النعيم وينتهي عذاب وظلمة القبر",
-     "url": "https://www.elbalad.news/7188488",
-     "source": "صدى البلد",
-     "time": "2026-11-21T07:00:00.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
     },
     {
@@ -177,13 +186,6 @@
      "source": "القاهرة 24",
      "time": "2026-11-21T06:00:44.000Z",
      "seen": "2026-11-21T06:26:02.747Z"
-    },
-    {
-     "title": "الطقس اليوم.. ارتفاع بالحرارة وشبورة صباحا والعظمى بالقاهرة 28 درجة",
-     "url": "https://www.youm7.com/story/2026/11/21/الطقس-اليوم-ارتفاع-بالحرارة-وشبورة-صباحا-والعظمى-بالقاهرة-28-درجة/7626018",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T06:00:00.000Z",
-     "seen": "2026-11-21T06:06:02.381Z"
     },
     {
      "title": "بعد الانخفاض الأخير.. سعر كيلو الفراخ البيضاء اليوم السبت 21-11-2026 بالأسواق وبورصة الدواجن الآن",
@@ -244,7 +246,7 @@
      "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
      "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
-     "time": "2026-11-21T07:01:58.000Z",
+     "time": "2026-11-21T07:13:14.000Z",
      "seen": "2026-11-21T07:06:02.962Z"
     },
     {
@@ -297,7 +299,7 @@
      "title": "شركة أصابت الآلاف بالسرطان.. كم ستدفع تعويضا لهم؟",
      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPb05NdXRMcFVlN05KWmlxdW02WnhJVGd2YWEyWlh4ejIyai1UWkFzOTNBZVF3UkNoRG92dGNDSmpwZFdOa0htRVVkb054TFdqTUUxaFgyOUNvenNPemc3NmNTTkVETkVySURyZ0xhbE82WlZpT3c2ODBTQUFvWEl0QkxQUlptb0tHVGpSX0k2dGtLR282Qm9TcjRDbXcybEhlY1ZBbGt1QllRXzNwR25FVlJlUXVjVm5rS0wtUHUtcXZCc1pRX3ZVZWtKdDNEbS15eHp1RzM0SDZLTzRHRGpfY1BIQjlDRWZoTThpM0thMlNyLVlmSGdobWw0eGh0VGhxQWVpUzRhcWtBTnZwb2xDQ3k3eDBOdVNYSTVIdVRsT2dVMUx2UnJ4elFFUGVQa0swZDFhd1JXbU5CblZqSnNldUNrM1RpM1lycm0zeGZSVG5nVWI5RndlTHdQUkQ2Zk9TREVTMlZiRks4MEZvM0ZrQ0UwSGhXcUpNOWVDWFJLdlRpMlFrWkxzVXEwRDfSAZIDQVVfeXFMUDFwZXg3djRRNHY4ajdWSFlCVDE2d3NiRHh3V1BZWENQY3lEbzFDYk1MZnl2dk83d1BCVks1cUxucFBKZ3BGblltdk5URGJ2TjlKYjFPRXozUEFFY0dOeGN6cVgzY1lSTDd4NXZKNHNuRkZVdV92bjk3TFpVZGtrSzFBdjZRQ3A2SW1zeDlKbF9EVEZoUWU2aUtNSTZpV01OT1F2ZnpSWHBPb2dYMU9xN056T3ljRUxURUlmTXRfM0RBUzhaYWVHcGwxcWoxQ3hIdXJqZkRmZm1VdnFFUE84bHRibC0yREZwcFRhbkhQSGlJWW5Ma1Y1R0pXZF9MMi1vSGtSRjRsUWJ4c2tDLVduaFczTVNidmdoNkdZSlVLUU5KU3hJZUdDRUFIY0ZncUlMR080dy1wb1pnRjVXZ3pzRGp6VGFBRHp0TnU0NWRvdVlSLVFVWlhabDEwQV90QWFqc1VGckxvd1FtQlJCcGtMLWZ0WlhCZ3IzcnpWVFVVQ0NZZ2s3UDIxQ0VjRnNMSWY2cDR3?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T03:31:12.000Z",
+     "time": "2026-11-21T03:01:51.000Z",
      "seen": "2026-11-21T05:06:03.052Z"
     },
     {
@@ -341,11 +343,10 @@
     },
     {
      "title": "سعر الريال السعودي اليوم السبت 21 نوفمبر 2026 في البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLLUw1ZXZUcjNKZFlXdGpwWXhHVjF4aWVHY3RCUGxtcjAyTlYwR09YWkNidUxEZzA3amtPZURITW8yMW85?oc=5",
+     "url": "https://www.dostor.org/5785116",
      "source": "جريدة الدستور",
-     "time": "2026-11-20T23:06:21.000Z",
-     "seen": "2026-11-20T23:15:25.902Z",
-     "impact": "يهم المسافرين والمقبلين على العمرة والمواطنين المعتمدين على تحويلات السعودية متابعة سعر الريال بالبنوك."
+     "time": "2026-11-20T23:15:00.000Z",
+     "seen": "2026-11-21T07:16:02.585Z"
     }
    ]
   },
@@ -404,6 +405,13 @@
      "seen": "2026-11-21T06:06:02.381Z"
     },
     {
+     "title": "البصرة.. 4 قتلى و30 مصابا في حريق بمحطة كهرباء الهارثة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906175-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-4-%D9%82%D8%AA%D9%84%D9%89-%D9%8830-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D9%85%D8%AD%D8%B7%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D8%A7%D8%B1%D8%AB%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T05:46:16.000Z",
+     "seen": "2026-11-21T07:16:02.585Z"
+    },
+    {
      "title": "البصرة.. انفجار بمحطة كهرباء الهارثة وأنباء عن أضرار وضحايا",
      "url": "https://www.skynewsarabia.com/middle-east/1906175-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D9%85%D8%AD%D8%B7%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D8%A7%D8%B1%D8%AB%D8%A9-%D9%88%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1-%D9%88%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
      "source": "سكاي نيوز عربية",
@@ -444,13 +452,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T03:19:41.000Z",
      "seen": "2026-11-21T03:55:38.857Z"
-    },
-    {
-     "title": "لقاء أميركي قطري في برلين لمناقشة إنهاء حرب إيران",
-     "url": "https://www.skynewsarabia.com/middle-east/1906155-%D9%84%D9%82%D8%A7%D8%A1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%82%D8%B7%D8%B1%D9%8A-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-21T00:33:44.000Z",
-     "seen": "2026-11-21T06:16:02.229Z"
     }
    ]
   },
