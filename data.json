@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:39:45.151Z",
+ "updated": "2026-11-21T15:49:44.740Z",
  "minute": [
   "شهدت مصر تخصيص 19 مليار جنيه استثمارات عامة لمحافظة السويس واستقبال ميناء دمياط نحو 49.6 ألف طن بضائع، مع استقرار تداولات العملة وتسجيل الدولار 53.77 جنيه للشراء بالبنك الأهلي.",
   "توقعت الأرصاد الجوية شبورة كثيفة وأمطاراً ببعض المناطق وتسجيل الصغرى بالقاهرة 17 درجة، بينما أعلنت الخطوط السورية عودة رحلاتها إلى القاهرة من دمشق وحلب.",
@@ -9,7 +9,9 @@
   "at": "2026-11-21T15:29:44.998Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-21T15:49:44.740Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59732,
-   "change": 1.59,
-   "asOf": "2026-11-21T15:39:44.000Z",
+   "value": 59903,
+   "change": 1.88,
+   "asOf": "2026-11-21T15:50:46.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,31 +139,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "كواليس تعيين أحمد مجاهد في لجنة الأندية بالاتحاد الإفريقي لكرة القدم «كاف»",
-     "url": "https://www.elbalad.news/7189093",
+     "title": "100 ألف أوروبي يدخلون بريطانيا بموجب اتفاق إعادة ضبط العلاقات بعد «بريكست»",
+     "url": "https://www.elbalad.news/7189102",
      "source": "صدى البلد",
-     "time": "2026-11-21T15:38:40.000Z",
-     "seen": "2026-11-21T15:39:45.151Z"
+     "time": "2026-11-21T15:48:55.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
+    },
+    {
+     "title": "خبير مكافحة إرهاب دولي: الإخوان تستخدم آلاف الحسابات المزيفة لنشر الشائعات واستهداف جيل Z بالتجنيد الناعم",
+     "url": "https://www.elbalad.news/7189103",
+     "source": "صدى البلد",
+     "time": "2026-11-21T15:47:32.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
+    },
+    {
+     "title": "مانشستر سيتي يواصل نزيف النقاط أمام فولهام.. وأرقام سلبية تكشف حجم الأزمة",
+     "url": "https://www.elbalad.news/7189101",
+     "source": "صدى البلد",
+     "time": "2026-11-21T15:46:05.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
     },
     {
      "title": "محافظ القاهرة يتفقد أعمال تطوير المناطق التاريخية والتراثية بالمنطقة الجنوبية",
      "url": "https://www.youm7.com/story/2026/11/21/محافظ-القاهرة-يتفقد-أعمال-تطوير-المناطق-التاريخية-والتراثية-بالمنطقة-الجنوبية/7627279",
      "source": "اليوم السابع",
      "time": "2026-11-21T15:36:00.000Z",
-     "seen": "2026-11-21T15:39:45.151Z"
-    },
-    {
-     "title": "برلماني: كلمة الرئيس السيسي في منتدى أسوان خارطة طريق لإنصاف أفريقيا وإصلاح النظامين الدولي والمالي",
-     "url": "https://www.elbalad.news/7189096",
-     "source": "صدى البلد",
-     "time": "2026-11-21T15:36:00.000Z",
-     "seen": "2026-11-21T15:39:45.151Z"
-    },
-    {
-     "title": "بدء التصويت في انتخابات المكتب التنفيذي لحزب الوفد لاختيار 18 مقعدًا.. صور",
-     "url": "https://www.elbalad.news/7189094",
-     "source": "صدى البلد",
-     "time": "2026-11-21T15:35:10.000Z",
      "seen": "2026-11-21T15:39:45.151Z"
     },
     {
@@ -356,6 +358,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "فرنسا: \"فصل سادس\" من التعبئة للمطالبة بتحسين وضعية الشباب والاحتجاج على غلاء المعيشة",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261121-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%81%D8%B5%D9%84-%D8%B3%D8%A7%D8%AF%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D9%84%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D9%88%D8%B6%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC-%D8%B9%D9%84%D9%89-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-21T15:48:06.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
+    },
+    {
+     "title": "\"سنتكوم\" ترد على مزاعم إيرانية باستهداف مقاتلة \"إف- 16\" أمريكية",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/centcom-denies-iranian-claims-of-targeting-a-us-fighter-jet",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T15:43:39.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
+    },
+    {
      "title": "الجيش الجزائري يعلن القضاء على مُهربيْن مغربيَّي الجنسية \"لم يمتثلا لأمر التوقف\"",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261121-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D9%85%D9%87%D8%B1%D8%A8%D9%8A%D9%86-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA",
      "source": "فرانس 24",
@@ -406,13 +422,6 @@
      "seen": "2026-11-21T13:59:45.069Z"
     },
     {
-     "title": "الدنمارك تقرر سحب مقاتلاتها المشاركة في التحالف الدولي ضد تنظيم \"الدولة الإسلامية\"",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261121-%D8%A7%D9%84%D8%AF%D9%86%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D9%82%D8%B1%D8%B1-%D8%B3%D8%AD%D8%A8-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%B6%D8%AF-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-21T13:44:45.000Z",
-     "seen": "2026-11-21T13:49:44.947Z"
-    },
-    {
      "title": "إيران تحذر من \"تهريب النفط\" في الخليج، وتزايد استهداف الناقلات رغم الحراسة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9malI3R3U3enJla0NkckNGdWNqMDBMSEpoZ1dwUWx3cDZjalV0Z0J2Q0VLcDR1eDJNbGNfVms4dndiaDVGSTdDV2I2YkJ0ajc4c21FS01QYmtMWHZub2fSAWNBVV95cUxQNXdrUzRuMUtRNGE1dHhOR1kxRmJ2YkxmTHd6M1hYN0xKazFlTFJwNktsSFhWMXppa1ZCODZkd2FnVE9TeGJXajhSS2JzVmE1YXpLOXRlQ1hLSVJMR1E4d1Zyc2s?oc=5",
      "source": "BBC",
@@ -434,25 +443,18 @@
      "seen": "2026-11-21T13:49:44.947Z"
     },
     {
-     "title": "الاتحاد الأوروبي يقترح خفض ميزانيته إلى 1.74 تريليون دولار وفرض ضريبة رقمية",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/21/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d9%8a%d9%82%d8%aa%d8%b1%d8%ad-%d8%ae%d9%81%d8%b6-%d9%85%d9%8a%d8%b2%d8%a7%d9%86%d9%8a%d8%aa%d9%87?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T12:27:30.000Z",
-     "seen": "2026-11-21T15:39:45.151Z"
+     "title": "زيلينسكي لبوتين: جسر القرم لن يبقى قائما",
+     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPbXhsczRCRXE0Nl9ITTF4eWhkR3A4X2w3Y1JnX1MxUVpFZEhIbHpWSW96Y1R4VnctSTZCZzRNaWNwelpqNUEwdzRLQW1BRVB3VERpVmVPOENxUVdERlVkVThlRWJTc3dqZS1rVWFsTEN2Z0dLUzN4NUJxdFdaa25hN0IzV0hZdi1Jd19rUUdiRmpQZVk0SFFHX05KRHF5UWVlQS1BSXhJekpzaWgwaEEyTXpzdUQwMGpseUdVc0tkR1Y0ZDNudDlWVG9PT2pRUlpvRDVRck1kaHo1MnlOWXJnNHY2NUxwS1FZYXBpSFd6SnNFSnBWdFVnTTBiakJHeHlQeFZCN1BLS0M1VnN1VGJPNUE2YlcwWFp2bUwwX0ZERkJoSzFEbEtQUmZkcHZ0X2FGSndOVU1NQ21vSi13S2dXMWRyZ0NMZHZ6NllzZGdhdF9EMjJuN0HSAdsCQVVfeXFMTm81bmNGeTM2Q0k2Z0xsQkplOHV6U09ta2JST3VWMFBuZ2dGMDBnTW5xWEZ1NmdrZExJdkRTSTlNUUFIMjlqMjFNRTYwQzlTR24xME43Q3R2ejl4WDNqV1EwSnp3WUlzaTM0M1RuZ3dzOGctd1FUVXByczY3aXBrNG8yZ2FUUGZEc29TMjZmYklUdmRseHdjSjFHeVlBTXVsX0Mwdkc2M09tU0N1cFRJeEdOUnNxTHlhaFUwWWc2aW12LVNCWldrSFhZTVl2Y2FEcjkwcmNweHRFd1o0cnFMNTFSUDNDaFVZZ09FMmNhTElQY05jd3RVMDZpMHd5V29LUVA3OUJNR3RjaWU5Vlo3X3FFcGhjWWFqMFh4RzVQMDFtTEIxd1VsT0l2clJJcXJ0RlhrTzF2QllrTjZPLXJUc3lCSDFxWmZTdkNjSkJTZ3VRSUFyYmZ1S0pwbGM?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T12:52:06.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
     },
     {
-     "title": "من بينها 3 مدن عربية.. أفضل الوجهات السياحية لعام 2027",
-     "url": "https://www.aljazeera.net/travel/2026/11/21/%d9%85%d9%86-%d8%a8%d9%8a%d9%86%d9%87%d8%a7-3-%d9%85%d8%af%d9%86-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a3%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d9%88%d8%ac%d9%87%d8%a7%d8%aa?traffic_source=rss",
+     "title": "\"هل تتزوجينني؟\".. سؤال غير متوقع يحول جلسة برلمانية إلى احتفال",
+     "url": "https://www.aljazeera.net/misc/2026/11/21/%d9%87%d9%84-%d8%aa%d8%aa%d8%b2%d9%88%d8%ac%d9%8a%d9%86%d9%86%d9%8a-%d8%b3%d8%a4%d8%a7%d9%84-%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%82%d8%b9-%d9%8a%d8%ad%d9%88%d9%84?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-21T12:23:02.000Z",
-     "seen": "2026-11-21T15:39:45.151Z"
-    },
-    {
-     "title": "الحية: مشروع \"إسرائيل الكبرى\" دخل حيز التنفيذ وغزة تواجه التجويع",
-     "url": "https://www.aljazeera.net/news/2026/11/21/%d8%a7%d9%84%d8%ad%d9%8a%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%89-%d8%af%d8%ae%d9%84-%d8%ad%d9%8a%d8%b2?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-21T12:22:55.000Z",
-     "seen": "2026-11-21T15:39:45.151Z"
+     "time": "2026-11-21T12:35:15.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
     }
    ]
   },
@@ -535,6 +537,13 @@
      "seen": "2026-11-21T12:09:45.026Z"
     },
     {
+     "title": "الذكاء الاصطناعي يعيد تشكيل الحرب السيبرانية.. والتهديد أصبح واقعاً",
+     "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxOTm1jSjJwTGRkTW9xd25xUEp3SjRiWmdLMkZjM2Q5OERleENkM0VKRlhfN1dfak1hcW1rYlJMQXRaNUZIc252MDNfNHRyZVBnbGlXVnJtcTQxU3AxcjZnQnZKdFRNRFM3LWFCbGtVVk9iMUVPMUpyRk9kVTlxY3RGS3Q4RTNJVml6VmtPeVIyVFJjWTAza0lwNW9IZmFkTGtuTENpdzkwOHJLSXI3OGZtNUFoNGlXM2x5THRnRy1CN01wWkpKdnBzelNKTW9TZzNhUDVUVXo3TXpwUTNjWW8wVlVPU2EydVJ2SDdUdUF3RXo5SWgzbnhsZFo2V0c4bHEyRDgza1U5eWlQTkw1OGNySnp2RkxWMEpxc0xxZVgzb2loSEFrYlZJZVdDaDFXdXg2cWZHT2t4YVdqVlczZVBiaS05UUFXNGdqRjN0SkRtdW85aXctZ3pLMGttQkMybkR0ZnVxUXl2ZE1GekVzOWQ0QzJ2MlJCbXc2MFZzVG5hbFBVbmJmbUhrMUtBWEpwVWxkejk1c1lWN1h1S2JFeDhVNWtFcVgxM2x5RmJaR3JNUFhXY29oQkVVdXhmUy1ZQnlFSTk0Ymo4aktteURLcUtkMEpPQTlacWROU25nZmZSbWxIY0Y0Tl9yQ0dBQnlxVF95N3lQQ2Y1OHRicTZnUTV0ODJfTFdZRHFxdWNQR2tOeFA2RmNDZ1RHTG85Q3doakpjc2ZZT09uVzBEdGVCZWJIY9IBtgRBVV95cUxOb2JUT0YtXzl5SEZ0UkxLd3pxckMwRFV3TzVzMDVMWUtZMFBJMnpiODN0c0hReGlQRzBFU2xGZHU0SlQtU1VocXpEWXpIeUdpZWxsZXBsWjZFcGwwOGFXcE5vMkwwWDJDUnhlbERTS242MGVqYURlUnNGTnlhMmtJV2FSTjAtMm5fZWZETDJfZ0d0d2V4bTlpQmJJV0wwWmMwa05Nc2ZudXlNQlhMZllVWVQ5bXZDOXc1Y09BRHpkRnluczZVUGlUYmZ5NnlGQTlEblZXcUhGZWhiRkNIZlg0VG1aSnFGdDV5a1dCRm5qRVdBWGxNQXRRSXNpZWZndHVPVnYwbUtWVzVOZUN3X0UyYWtvR0N2VVYweF9ZbnEyemlzb2Q3Z0hWcnFfOUNSSERBLThfdURNbTl1SFFRRDBDcHVzYzJUNjhtTWpZdUhyOUs0YWpJUnEwc1N4OUhZRlBHa29SLVhZNFBVbTNRTGxGUUNxeDNMLXhicFFDdUJ3aTltVGIwZm0zSVhjWFdDdFNrZ0ZYblpzMkdnWF9BajJYN2pBcHNaUGxzaE1pRUltd0M0Q21zSHZhVHFlMG5lVHgwTVFfRzNwRXJtYk1yT0NwempXTXdQMUlHaExQUF9OUC12LW1rOG0wbEtKeXNiVUdHM2VfSGJGblVKck40dm92aG9Ka1BFem12NjNiWmdmUElzUktHcHlLZmROOUtsUW95cFMzeEROejUtZllZRUlLMHh1RWY5QQ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-21T08:29:00.000Z",
+     "seen": "2026-11-21T15:49:44.740Z"
+    },
+    {
      "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
      "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -556,14 +565,6 @@
      "time": "2026-11-21T07:20:14.000Z",
      "seen": "2026-11-21T07:26:02.387Z",
      "impact": "متابعة تشريعات الذكاء الاصطناعي تهم رواد الأعمال والشركات التكنولوجية للتكيف مع المعايير الإقليمية الجديدة."
-    },
-    {
-     "title": "تقارير: CrowdStrike تجري محادثات للاستحواذ على Zscaler",
-     "url": "https://aitnews.com/2026/11/21/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-crowdstrike-%d8%aa%d8%ac%d8%b1%d9%8a-%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0-%d8%b9%d9%84%d9%89-zscaler/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-21T06:45:08.000Z",
-     "seen": "2026-11-21T06:46:02.732Z",
-     "impact": "تؤثر اندماجات شركات الأمن السيبراني الكبرى على خدمات الحماية الرقمية وأسعارها للشركات والأفراد."
     }
    ]
   }
