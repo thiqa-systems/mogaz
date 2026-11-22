@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-22T17:45:03.336Z",
+ "updated": "2026-11-22T17:55:04.335Z",
  "minute": [
-  "شهدت الأسواق المصرية ارتفاعاً في سعر صرف الدولار مقابل الجنيه في بداية تعاملات الأسبوع، مع صدور توجيهات حكومية جديدة تخص الهواتف المحمولة.",
-  "تواصل الحكومة المصرية التخطيط لتطوير البنية التحتية، مع إعلان مواعيد انتهاء الحفر بخرائط مترو الهرم، ودراسة صندوق صناعة السيارات تقديم حوافز لمستثمري المركبات الكهربائية.",
-  "أوضحت وزارة النقل المصرية حقيقة الأنباء المتعلقة بسفينة خليج عدن مشيدة بشجاعة البحارة المصريين، فيما ثمنت نقابة التمريض استمرار التكليف الحكومي.",
-  "وعلى الصعيد الإقليمي والدولي، استمرت التوترات العسكرية والسياسية في منطقتي الخليج العربي وليبيا والضفة الغربية."
+  "شهدت التعاملات المالية في مصر ارتفاع سعر الدولار مقابل الجنيه بمقدار 60 قرشاً، بالتزامن مع دراسة صندوق صناعة السيارات حوافز جديدة لمستثمري ومصدري المركبات الكهربائية.",
+  "وعلى الصعيد الخدمي، أعلنت هيئة الأرصاد طقس الغد معتدلاً نهاراً ومائلاً للبرودة ليلاً بالقاهرة، فيما حددت مديرية التعليم جدول امتحانات شهر نوفمبر لصفوف النقل.",
+  "وإقليمياً وعالمياً، اختتم مؤتمر المناخ (كوب 31) دون التوصل إلى اتفاق، بالتوازي مع استمرار التطورات الميدانية في اليمن وليبيا والمنطقة."
  ],
  "ai": {
-  "at": "2026-11-22T17:25:03.434Z",
+  "at": "2026-11-22T17:55:04.335Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-22T17:45:03.336Z"
+  "key": 2,
+  "impacts": 4
  },
  "markets": [
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60849,
-   "change": 1.26,
-   "asOf": "2026-11-22T17:45:09.000Z",
+   "value": 60780,
+   "change": 1.14,
+   "asOf": "2026-11-22T17:56:11.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +137,34 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بحضور المفتي وقيادات الأزهر.. تكريم أوائل الطلاب الوافدين للعام الجامعي 2025 / 2026",
-     "url": "https://www.elbalad.news/7190443",
+     "title": "محمد رمضان يعرض شراء جميع مقتنيات أحمد زكي وتسليمها لوزارة الثقافة.. ما القصة؟",
+     "url": "https://www.elbalad.news/7190471",
      "source": "صدى البلد",
-     "time": "2026-11-22T17:44:21.000Z",
-     "seen": "2026-11-22T17:45:03.336Z"
+     "time": "2026-11-22T17:54:22.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
     },
     {
-     "title": "تقارير تكشف كواليس انفجارات هزت بنغازي.. انفجار غامض يدمر سفينة حربية روسية بـ150 مليون إسترليني ⁩",
-     "url": "https://www.elbalad.news/7190468",
+     "title": "الإصلاح والنهضة: إنقاذ عقار غزالة بالدقهلية نموذج يستحق التقدير.. وسلامة المواطنين أولوية",
+     "url": "https://www.elbalad.news/7190473",
      "source": "صدى البلد",
-     "time": "2026-11-22T17:44:16.000Z",
-     "seen": "2026-11-22T17:45:03.336Z"
+     "time": "2026-11-22T17:54:01.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
     },
     {
-     "title": "بتفكر بزيادة في كل حاجة.. إليك طرق علاج اضطرابات القلق والخوف",
-     "url": "https://www.elbalad.news/7190464",
+     "title": "الأرصاد: طقس الغد معتدا نهارًا مائل للبرودة ليلا على أغلب الأنحاء.. والعظمى بالقاهرة 25",
+     "url": "https://www.elbalad.news/7190476",
      "source": "صدى البلد",
-     "time": "2026-11-22T17:41:47.000Z",
-     "seen": "2026-11-22T17:45:03.336Z"
+     "time": "2026-11-22T17:53:56.000Z",
+     "seen": "2026-11-22T17:55:04.335Z",
+     "impact": "تساعد التوقعات الجوية المواطنين في مصر على اتخاذ الاحتياطات اللازمة واختيار الملابس المناسبة للطقس المائل للبرودة ليلاً."
+    },
+    {
+     "title": "تعليم القاهرة تعلن جدول امتحان شهر نوفمبر لصفوف النقل 2026",
+     "url": "https://www.youm7.com/story/2026/11/22/تعليم-القاهرة-تعلن-جدول-امتحان-شهر-نوفمبر-لصفوف-النقل-2026/7628660",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T17:52:00.000Z",
+     "seen": "2026-11-22T17:55:04.335Z",
+     "impact": "يتيح إعلان الجدول للطلاب وأولياء الأمور في محافظة القاهرة تنظيم الوقت والاستعداد المبكر لاختبارات شهر نوفمبر."
     },
     {
      "title": "حملة مكبرة ببولاق الدكرور لملاحقة الفريزة والنباشين ومصادرة معداتهم.. صور",
@@ -181,14 +187,6 @@
      "time": "2026-11-22T17:03:00.000Z",
      "seen": "2026-11-22T17:05:04.215Z",
      "impact": "يمس قطاع عريض من المواطنين والمستوردين في مصر لمعرفة أي تنظيمات جديدة قد تؤثر على أسعار أو توفر الهواتف المحمولة."
-    },
-    {
-     "title": "نقيب التمريض تثمن بيان وزارة الصحة بشأن استمرار التكليف",
-     "url": "https://www.youm7.com/story/2026/11/22/نقيب-التمريض-تثمن-بيان-وزارة-الصحة-بشأن-استمرار-التكليف/7628593",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T17:00:00.000Z",
-     "seen": "2026-11-22T17:05:04.215Z",
-     "impact": "يطمئن خريجي وأعضاء مهنة التمريض في مصر بشأن استقرار مسارهم الوظيفي واستمرار التكليف الحكومي."
     },
     {
      "title": "مدبولي يستعرض منهجية مراجعة وتدقيق بيانات الناتج المحلي لتعزيز دقة المؤشرات",
@@ -266,7 +264,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T16:48:00.000Z",
      "seen": "2026-11-22T16:55:03.448Z",
-     "impact": "يؤثر مباشرة على أسعار السلع واستيراد المنتجات وتكاليف المعيشة للمواطنين وتقييمات الأصول للمستثمرين في مصر."
+     "impact": "يؤثر تحرك سعر الدولار أمام الجنيه بشكل مباشر على تكلفة الواردات والقوة الشرائية وتكاليف التسعير للمستثمرين في مصر."
     },
     {
      "title": "السعودية تعلن اعتراض صاروخ حوثي وسط استمرار الغارات على اليمن",
@@ -282,7 +280,7 @@
      "source": "البورصة",
      "time": "2026-11-22T16:14:03.000Z",
      "seen": "2026-11-22T17:25:03.434Z",
-     "impact": "يدعم مستثمري قطاع السيارات ومصنعي المركبات الكهربائية في مصر للاستفادة من الحوافز والتسهيلات الجديدة المرتقبة."
+     "impact": "تفتح دراسة حوافز السيارات الكهربائية فرصاً استثمارية جديدة وتشجع المصنعين والمصدرين على التوسع في السوق المصري."
     },
     {
      "title": "«البترول» تستهدف ضخ 33.1 مليار دولار لتعظيم إنتاج الزيت والغاز حتى 2030",
@@ -337,19 +335,19 @@
      "seen": "2026-11-22T15:05:03.641Z"
     },
     {
+     "title": "سعر الدولار في مصر اليوم الأحد 22/11/2026.. قفزة مفاجئة",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xX3JpcEJ2NzBIZWtvNVBtaGpJYmcxdFJmMm5LWTFrWXV3MEJKSmtFVG9LSG5QU3NlbW9zRk5MRE9xeDhweUxCMjNUQnVuVEFyai1UMFpB?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-22T14:10:08.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
+    },
+    {
      "title": "بنك ABC يجدد شراكته مع مؤسسة راعي مصر للتنمية للعام الثالث",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFam1WX1hwcnNBWHk3MVJZV2VWRnYwRjBUMFBpMzEtZ3RtcEhPZnVyLXVCOU5VbWU1YzNzdHlpbk1oTXBNSHEyT0lnZUNPWGpDR3dhR2p3?oc=5",
      "source": "جريدة البورصة",
      "time": "2026-11-22T14:10:08.000Z",
      "seen": "2026-11-22T14:25:03.640Z",
      "impact": "يعزز استمرار الشراكة المصرفية مع مؤسسات التنمية من دعم الخدمات المجتمعية والرعاية الاجتماعية."
-    },
-    {
-     "title": "سعر صرف الدولار اليوم الأحد 22 نوفمبر 2026 في البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ya1pvYVFnenNQeTNDelg2b2FkRG9uNUJzWnBRWVNEeW9JMDhUYkQxRXJEQmtQVjcwazNjV1RIVjNldkhz?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-22T14:05:16.000Z",
-     "seen": "2026-11-22T14:35:03.321Z"
     }
    ]
   },
@@ -358,11 +356,32 @@
    "title": "العالم",
    "items": [
     {
+     "title": "بنغازي تشهد هجوما بحريا جديدا واعتراض أكثر من 12 مسيرة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906361-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%AA%D8%B4%D9%87%D8%AF-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%88%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%A3%D9%83%D8%AB%D8%B1-12-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T17:52:19.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
+    },
+    {
      "title": "فيديو متداول.. هل وقعت هجمات حوثية جديدة على منشآت نفطية في جدة؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/circulating-video-alleges-new-houthi-attacks-on-oil-facilities-in-jeddah",
      "source": "CNN بالعربية",
      "time": "2026-11-22T17:42:13.000Z",
      "seen": "2026-11-22T17:45:03.336Z"
+    },
+    {
+     "title": "جيل بلا آفاق.. تزايد هجرة الكفاءات الإيرانية إلى أوروبا",
+     "url": "https://www.dw.com/ar/جيل-بلا-آفاق-تزايد-هجرة-الكفاءات-الإيرانية-إلى-أوروبا/a-79969953?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-22T17:42:00.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
+    },
+    {
+     "title": "هل تنسى مواعيدك رغم منبهات الهاتف؟ الحل في تقويمك الورقي",
+     "url": "https://www.dw.com/ar/هل-تنسى-مواعيدك-رغم-منبهات-الهاتف؟-الحل-في-تقويمك-الورقي/a-80009038?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-22T17:41:00.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
     },
     {
      "title": "وفاة مصمم المجوهرات الإيطالي باولو بولغاري عن 89 عاما",
@@ -414,6 +433,13 @@
      "seen": "2026-11-22T17:45:03.336Z"
     },
     {
+     "title": "\"لنبدأ العمل\".. عبد الرحمن السيد يعلق بعد منشور من ترامب",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekZjTDJsMXV5ejNkVmJWUlhfTUtrZEZwRHpiZGp1bWl6SlNici1ZejdxTWxzUUdzY0tJNnBDMGZVT19ETDJMcG9IcXJIaHhlQ0lwMGhGeWFncjB5VEZJVjdCLUtwLXFIUnlPYzg4WG1xZ3FsTzczcDVPV0tYUWdaODhQR2h4S010aXNkNzZfTGVtN1hNX2hkRWcwRnlacnB2ZGZtaHJKTVRWXy01bDdCbjh4NGx3X3I5cnZrZ3N3?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-22T16:35:10.000Z",
+     "seen": "2026-11-22T17:55:04.335Z"
+    },
+    {
      "title": "الفيفا: لماذا يحظى إنفانتينو بدعم إفريقيا وأمريكا الجنوبية ومعارضة أوروبية؟",
      "url": "https://www.bbc.com/arabic/articles/c52e8w9lpewzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -427,35 +453,6 @@
      "time": "2026-11-22T16:29:32.000Z",
      "seen": "2026-11-21T13:39:45.128Z",
      "impact": "يهم المستثمرين للتعرف على مستويات التوتر الجيوسياسي وتأثيرها المحتمل على استقرار الأسواق الإقليمية."
-    },
-    {
-     "title": "حادث لناقلة وقوات عسكرية بخليج عمان.. وتنبيه للسفن",
-     "url": "https://www.skynewsarabia.com/middle-east/1906349-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D9%82%D9%88%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A8%D8%AE%D9%84%D9%8A%D8%AC-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%AA%D9%86%D8%A8%D9%8A%D9%87-%D9%84%D9%84%D8%B3%D9%81%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T16:15:24.000Z",
-     "seen": "2026-11-22T16:25:03.373Z",
-     "impact": "يهم العاملين في قطاع التجارة الخارجية والملاحة لمتابعة سلامة حركة السفن وسلاسل التوريد عبر الخليج."
-    },
-    {
-     "title": "ليبيا.. الكشف عن تفاصيل انفجار استهدف سفينة روسية في بنغازي وحكومة الوحدة تطالب بإنهاء تعدد مراكز القرار",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/libya-details-an-explosion-a-russian-ship-benghazi",
-     "source": "CNN بالعربية",
-     "time": "2026-11-22T16:12:06.000Z",
-     "seen": "2026-11-22T16:15:03.675Z"
-    },
-    {
-     "title": "هل استعانت السعودية بالجيش السوادني لمواجهة الحوثيين؟",
-     "url": "https://www.dw.com/ar/هل-استعانت-السعودية-بالجيش-السوادني-لمواجهة-الحوثيين؟/live-79987892?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-22T16:09:00.000Z",
-     "seen": "2026-11-22T16:15:03.675Z"
-    },
-    {
-     "title": "أكسيوس: أوكرانيا وراء الهجوم على السفينة الروسية ببنغازي",
-     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxORmF6V25hcXhJSDh3ZVJvRG1pdWNxd3BCY0hxZXpPMmpKTU5PTS00aUJDTU9EbFVIMzVwb0dlSHBpV0JyWkVmQU5vN0lXQmtqN2ZickNyMzhSZGJEaGJjdW1xVFBMUHdWaDJGN2RQMEJYMXh3MUJ1VjRIa0VGTExjLTI3ZFhxM0FObGNLUHFsbHY4dUZCQjZBX2F5aWwySnZHUV9YWEpJVWdHeUF0QThtTGlhLUVPeWtoQlhuLVVmeVNfcUdqa2hoeVUxei1GVFlmRkUxcjl2czBEemNRbmM1SzNXbGJuOU1XZUxac2VpYnhMejZPOEFxdXJ4cEhpaHRoUV9KeHFPR0dGMjN6LWpMYjBfd3FzMF95TmJLZWVVMWhWUjN5dlMyOVBpWUpHRUlBU2VXZmh4b3Etc3FSaU01em9FNkwtRHFlam1sWFpob1ByYzNFVWk3RXIxUHhsOEd4Z3gtdmZ3MUM3ZXRlTHE0N3BqSTgySHdoOXVldllwTEJKQVdnbTNyRjJtUl9IRjFRY3BWNFRlNVFoUVlaZ1ktSUZ2MlU3WHhQbjhJS0RoS2MteDhFT1IxbVRSUlFUNk1DMGFjOG9jc0k5MjFTWW5r0gHUA0FVX3lxTE94NFkzNUlodTNJY0hRY1ZpdHNTNzBDOGxyZE1BbGI2VHRneTY4ZS1zYWxGUmtvSUZiT08xUVcwcXpJZXBxVGNVdWZudGxmbUE0ZlBZN0hBbC1wYjN5VzlLcWhORHB2dk1EN3NOQjZ6czRGcjBCYTBTN2hkckdwVGFCTVh2NXVoTW9JblhDN3pVcXFXZmpteERMYzNMU196UXFkMDBvUHMxTmdJN1NEZ0FQOUhVbVRWSlZpcUZyOG5sYno5YnNOY3NOVGZtUUdDdTVJbU01ZEoyS216RUI1QWIwZGhkUV94UDZFaFQyMDJKYWt5bWZUc1hkelNHVGNaX2tPV29WdEs2VUpSY2NtTy1ZZFBDRktlYjlrYW1lNEg2YTE0UFBlb3FXU0JwOUFuX1lVV0pwWU9PVHhlcEwyc1pQa2xqUnJ6Yi1MVnBMTWltQVlzOWJnVE83YkxWRkkyZ180d3pPZEQ2amNkTWk1ZDJHLWt6ZTU3Q0kwN0U1dDN1T0RGVV84MDRTcWV6Q0FSOHZ6alJfWkVOSWlpRVZnU25YRmZrRlNvZWtjRzlqenQ1UXJBUDVPYlFXa2xvNGxwblc4UzdOc3lEWHk0TGc1cmtLQ091dQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T15:40:22.000Z",
-     "seen": "2026-11-22T16:55:03.448Z"
     }
    ]
   },
