@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:23:48.771Z",
+ "updated": "2026-11-22T13:33:49.239Z",
  "minute": [
   "شهدت مصر تطورات اقتصادية شملت ارتفاع سعر الدولار وزيادة صافي الأصول الأجنبية بالبنك المركزي، بالتوازي مع خسائر في البورصة المصرية.",
   "على الصعيد الإقليمي والدولي، تواصلت التصعيدات العسكرية في المنطقة، إلى جانب تظاهرات في أوروبا وتجاذبات في مؤتمر المناخ.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-22T13:23:48.771Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T13:33:49.239Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60676,
-   "change": 0.97,
-   "asOf": "2026-11-22T13:26:48.000Z",
+   "value": 60741,
+   "change": 1.08,
+   "asOf": "2026-11-22T13:35:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +139,38 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تأجيل مباراة قصار القامة أمام غانا بكأس العالم الى السابعة مساءا",
-     "url": "https://www.elbalad.news/7190128",
+     "title": "الخارجية الفلسطينية تدين إرهاب المستوطنين وإحراق 12 مركبة في رام الله والبيرة",
+     "url": "https://www.elbalad.news/7190137",
      "source": "صدى البلد",
-     "time": "2026-11-22T13:22:14.000Z",
-     "seen": "2026-11-22T13:23:48.771Z"
+     "time": "2026-11-22T13:32:25.000Z",
+     "seen": "2026-11-22T13:33:49.239Z"
+    },
+    {
+     "title": "القوات المسلحة الليبية: التواصل والتنسيق مع الأشقاء في مصر مستمر بصورة طبيعية",
+     "url": "https://www.elbalad.news/7190133",
+     "source": "صدى البلد",
+     "time": "2026-11-22T13:29:23.000Z",
+     "seen": "2026-11-22T13:33:49.239Z"
+    },
+    {
+     "title": "العراق يؤكد أن التشكيلات الأمنية بجرف النصر تخضع لقيادة وسيطرة موحدة",
+     "url": "https://www.elbalad.news/7190134",
+     "source": "صدى البلد",
+     "time": "2026-11-22T13:28:20.000Z",
+     "seen": "2026-11-22T13:33:49.239Z"
+    },
+    {
+     "title": "وزير الصحة يفتتح عيادة السلام للتأمين الصحي ومخازن الأدوية المركزية لتعزيز كفاءة المنظومة",
+     "url": "https://www.youm7.com/story/2026/11/22/وزير-الصحة-يفتتح-عيادة-السلام-للتأمين-الصحي-ومخازن-الأدوية-المركزية/7628271",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T13:24:00.000Z",
+     "seen": "2026-11-22T13:33:49.239Z"
     },
     {
      "title": "المفتي يوجه 5 رسائل لخريجي الأزهر الوافدين: العلم أمانة قبل أن يكون شهادة",
      "url": "https://www.youm7.com/story/2026/11/22/المفتي-يوجه-5-رسائل-لخريجي-الأزهر-الوافدين-العلم-أمانة-قبل/7628278",
      "source": "اليوم السابع",
      "time": "2026-11-22T13:22:00.000Z",
-     "seen": "2026-11-22T13:23:48.771Z"
-    },
-    {
-     "title": "تقلبات جوية وانخفاض الحرارة.. تغيرات جديدة في حالة الطقس خلال الأيام المقبلة",
-     "url": "https://www.elbalad.news/7190124",
-     "source": "صدى البلد",
-     "time": "2026-11-22T13:21:57.000Z",
-     "seen": "2026-11-22T13:23:48.771Z"
-    },
-    {
-     "title": "الخارجية الفلسطينية تدين إرهاب المستعمرين وإحراق 12 مركبة في 3 قرى بالضفة",
-     "url": "https://www.elbalad.news/7190123",
-     "source": "صدى البلد",
-     "time": "2026-11-22T13:21:38.000Z",
      "seen": "2026-11-22T13:23:48.771Z"
     },
     {
@@ -174,11 +181,11 @@
      "seen": "2026-11-22T13:23:48.771Z"
     },
     {
-     "title": "رئيس الوزراء يتابع إجراءات تعميق صناعة المحمول فى مصر وتوفيره بأسعار مناسبة",
-     "url": "https://www.youm7.com/story/2026/11/22/رئيس-الوزراء-يتابع-إجراءات-تعميق-صناعة-المحمول-فى-مصر-وتوفيره/7628276",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T13:16:00.000Z",
-     "seen": "2026-11-22T13:23:48.771Z"
+     "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YTlXWWd3SnFuLThIX1hnZ3NoOE5HUzlkZ1ZPMVpIMEtrclBDNUpHelo1Y1FmUVl0am5LQmdCcEg5eEZMcU5SLU5ESjVpSE5mR0RzUDRLdVNOZzd3YUM0RXVZaGs4Ml9vR1piSi1xMVZhSEdIek1CdHhpMGRjbzA?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-22T12:57:06.000Z",
+     "seen": "2026-11-22T12:03:48.510Z"
     },
     {
      "title": "الكهرباء تستهدف زيادة القدرات المركبة من الطاقة المتجددة إلى 31.9 ألف ميجاوات في 2030",
@@ -192,13 +199,6 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBESGJzM3hLNU1neF9SZndLNmt6NmpJVTk5MnROZzFuSlJKazB3Rk90ZnRBU1dqcXptZEdHZDMtdk5seVdEWEhv?oc=5",
      "source": "فيتو",
      "time": "2026-11-22T11:55:00.000Z",
-     "seen": "2026-11-22T12:03:48.510Z"
-    },
-    {
-     "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YTlXWWd3SnFuLThIX1hnZ3NoOE5HUzlkZ1ZPMVpIMEtrclBDNUpHelo1Y1FmUVl0am5LQmdCcEg5eEZMcU5SLU5ESjVpSE5mR0RzUDRLdVNOZzd3YUM0RXVZaGs4Ml9vR1piSi1xMVZhSEdIek1CdHhpMGRjbzA?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-22T11:51:12.000Z",
      "seen": "2026-11-22T12:03:48.510Z"
     },
     {
@@ -384,6 +384,13 @@
      "seen": "2026-11-22T12:53:48.430Z"
     },
     {
+     "title": "الخلاف بشأن الوقود الأحفوري يجر \"كوب31\" نحو طريق مسدود",
+     "url": "https://www.dw.com/ar/الخلاف-بشأن-الوقود-الأحفوري-يجر-كوب31-نحو-طريق-مسدود/a-80013372?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-22T12:17:00.000Z",
+     "seen": "2026-11-22T13:33:49.239Z"
+    },
+    {
      "title": "مؤتمر المناخ \"كوب31\" يتجّه إلى طريق مسدود مع احتدام الخلاف بشأن الوقود الأحفوري",
      "url": "https://www.dw.com/ar/مؤتمر-المناخ-كوب31-يتجّه-إلى-طريق-مسدود-مع-احتدام-الخلاف-بشأن-الوقود-الأحفوري/a-80013372?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -426,6 +433,13 @@
      "seen": "2026-11-22T13:23:48.771Z"
     },
     {
+     "title": "مشهد رومانسي في محيط الحرم المكي يثير الجدل حول عبير الصغير وزوجها",
+     "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNc2dXMDduY1hHRlJuUHdBRldMd1V5Q25nZHRJbW0xU2lCN0VOY0VpQmg2d2pKSmJEbWFxOXU1UmN0c0hyZWd6LXlteWdaVFFQYjVGZlY1RV96c05GaVNaRDBqS0dmM1ZNS2dQQTFIVDQwalZ1VVhqa1NYUE1SdV9LNkFTZ3JQWDRqREYyVk1SVkpVa201SXR1VWFWOU1TX3p4OHdSS0NsMC1FVlAzSm5wWkdxaDNaRWtZY2NRNGJNQTdzaFRDM2hSejQwM0F6XzVPYmRpbGl5MHFBdkNZeWxYY2JhNHpwaGEtTV9qWXdENEFmZ2pxYUVpdWYxWGc5XzNtaHJYaW0xRnZvbGE5eXhUY05hcmtGczFfMjRzQjh3dVFTa2RKTjFlZzBRemFENUdCQnE5cG9KS3dGWmptOXM0ZXU4cUFaUUR3NTVFQURQdFcwNVpabTVmVy1wQVJpck0tc3FWTmkwdDNWaVZBWV9NSHprbE50VDdHa1otckoyLXlqbUk2cmxLMTBKeDNDUURna3N4S3JrYTY1eWFUMU5WVTBYSkV3V1gtQnhWc3g4T1NxaVZhUlJuR25HRVowUW1XVlhPLVNwNHdBRmF6VE00bEhlbERrd2l5V1ZmM2NQMWJfVG9HMmJXQjNUb0ViTEJud0IzQTM1WEtnZEVsQnJGclppQkFXRVJnN3lDVUZSbjFGT3VpbE04M2dFTWdIanUtZGcxSmJPQlloRV9jR2ZUQXlfTHl0MTdGTExneTBreHo2SlA1VE9z0gHMBEFVX3lxTFBSYkF5TnpMLVZsYnpRRkRkbXZSdjV1N004a2dnZUdWYWctYXMwSzRaRGc1dEpTbXdYR1ZnUFZ0OUxhUVBlX183TV9OeUNudF9QVHRiWHktQnVoOTJIVmZkLXNmVldSNlFYNGJIazVxNXZIUV9XWHJfRGJ0M2I1bjBobldRbkhjNnd2Zzh0TTNvbzd2OU1qMVotSHhpQVAyQmxGVzZBUlp1TG4wMlYtZm5OOWxOVllkLVo5cjNvVGduSU9JNFh0SVNlbm1MaE5YRHo0MEdWVzZRYXZCdHdwcFdxR2NfQ2pXUzByYTZqaXFESmlKQ3owdHpUYlNLRmJKaFZWal9sdlZsaENMNGlaYU9MOGt1SjJyM2xDTGJuN0RIbkRTbEd4OEM0MXUtZmdGR3dXSEhnaDFFb3FFNmNyc0xJenJsZUdxZUdaOWE3d3dsNjcxa2hsUkFRY3N3WjF3NEhqRWNmRU1oTF9pNXdoc0R5ZEtneXQtZkZnR1pqTzZYSWlkeU9pOVFRN0hRS3UwS2xoRmRpNEEwOFNLQXZfZ0haNDVpOUpiSHdaSGZKa3BuUlpRcUhKZDh6SDByQmx5Q2VqS2JqTFBVRjltX3VfSzVjOU51bXhQb3N2cHdPS1Uwam1GLWl1QkRzdlpJakxzQUpHUjgyR1VxMkNoNzcxNWpWU2M0T1FISDR2UDNaOHE1cTcxMEFOdHNVcVZHcjNyTGNrU3BSbWE5VjdyMk5oUjdGdk85d1dGR0dsMUFTcDJIUTZtQmg4R19tR3RlVQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-22T11:03:50.000Z",
+     "seen": "2026-11-22T13:33:49.239Z"
+    },
+    {
      "title": "الرئيس الإيراني يحذر من كلفة البقاء بين الحرب والسلام",
      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxON1lNZHRDNzZVdTlyYjV5dU1QelhaaTY4WEFHTkNrUGY2Z2Vmem1xTzNpSkNWX3pFUFNrS3VRa3ZSSlJSMFhSNHhXVnJnSi1KN1hHdEk2UFhGcWw3U2Z6X0d4Q255T3BEdHJfZUt5c3VFclNCVFJDZDE2RW00V0ljQ0dvdWtvVF8xTDE0WkVDeWxlbGJqbS1IWm9iTkZ0U1k1WHA2ZEpqc3VKSGcyWTRWcUZwRjQwbW1XZVFuN0QwYkRoVUExald3VE56eEk0WG9IcTFjNWpsY3dNSXlLRDFYeEdIa0xkZkNDQ2J6b3BnZmZHSkEzMEtrYXM3S1RQbHBlV2k4TGo3Y1BCcHVGZzljSzRkb045ajZjSkc0SHZtUUNDZ3hTWUJjUjREb05OVUhLbGRNSGRreDdncHJZcVU5NC1XejYydFRaZXlmR2ZCblJTS0FIY0FsS29tdTNiOFo3Zk1RYlBwb01LVi1VM0RDLUxZajk2YzRGdDB5ZUhlNVZTZXFSLUN5ZXVLdl9iQi1pM2c?oc=5",
      "source": "سكاي نيوز عربية",
@@ -438,20 +452,6 @@
      "source": "DW عربية",
      "time": "2026-11-22T10:20:00.000Z",
      "seen": "2026-11-22T10:33:48.981Z"
-    },
-    {
-     "title": "الجُرف والضاحية وضَحْيان",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVmZNanZ4NktHSnBCbFEtaTFHYWVWZ1d0Q1dmZ09aMm9TemVobDVyWnZIV3hOZkNQaG1CaFlXenk0cW9LVXlGbkVVNGhWNkRHNFItVEJibFVPNjJmQ2Q5Vl8zdERZZGxldXlLYjNwVXZpQnFNRlRkam1yUWxFMktCdWxReUpaVFNnN3JLbGN5d0xaZlJLUEYzdk4tdHdLSzlYSDE5OTNUa3k4c3h2dXROU05aLWJXV2dJVndsYmxFTVU2V0I3Nm5KSHN6N2dEeE1qdUZZZjA4a3llM04xY3BrSHBEN0MybkJMWEJNTldUVjhWWWRpMHJhbURSek9pSElxeUN2ZXRqMlNKWHFyQXpRQ1pVT1I5dkMxM09CNA?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-22T10:04:44.000Z",
-     "seen": "2026-11-22T10:13:48.887Z"
-    },
-    {
-     "title": "في غاليريتا.. لماذا نشتاق للدراما السورية ولزمنٍ لم يعد كما كان؟",
-     "url": "https://www.aljazeera.net/video/%d8%ba%d8%a7%d9%84%d9%8a%d8%b1%d9%8a%d8%aa%d8%a7/2026/11/22/%d9%81%d9%8a-%d8%ba%d8%a7%d9%84%d9%8a%d8%b1%d9%8a%d8%aa%d8%a7-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%86%d8%b4%d8%aa%d8%a7%d9%82-%d9%84%d9%84%d8%af%d8%b1%d8%a7%d9%85%d8%a7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-22T10:03:46.000Z",
-     "seen": "2026-11-22T13:13:49.000Z"
     }
    ]
   },
@@ -470,7 +470,7 @@
      "title": "تحقيق صحفي: هوانغ مرتبطة بشبكة تهريب رقائق إنفيديا إلى الصين",
      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOYUpSUkl0NU5Waldvd0piRGFvWkJUREQxNThEN19GMjNUT2N1Rk9sMW11Vk12SHFUUWVqZ3g3MlV5V29yX0FSVk9FNTRiOVI3dHZoMjViWjVmVHBoQ2t6UFNoRFV0YmJZWlB5amw1QVh6OVIxYi11V2U4ajdoTWpVaGJkSExKa2JpZTZBYlZGeFhoWEJ5M1RUaEFPbGVpdzItQk9Nel82MGhja1VHLVhFWFk0X0hRclJPcFhwN2xqeG5LRzJhS0lYS2owbFNZS1RVMDdXMDhoOGxpSEh1V3FMbEowUW5FQk9BTUtpYlJPWEduNU92N0VYNHlSSm45WF9UYkRQQldqOW85RlVYb200a0lBd21EcFNkcGhlN2gzaWYzX3NjeDVZXzAtLUpQTEhTelhEUktGUkdSSy12VDRvNmpRNXBYRzF4Vnl6eG1lLVVmSk9PT01MbjZ4WUZOZFZqR2NLSUVCd2hhck1iWmtGT05zUGtuOGMyVndnVE56NGFQdThIdTQ5eVl1VC1HSVo5bmJfaU5VY3NoUGRfU05LNDNpcWNoSHd5N21iYUpGb0trd1dBdzduUFc3MTBkSGgxWjktaTIxUzhtVk9VbXFvckxsdjdFcThtbGfSAd8DQVVfeXFMUGc5OWkwd2M1LWtpWjFHamFUX0FNRkdnRzdYTEFWODNGUi15dlY4NDd5WUQtZl9TUXBRSl9Oa29NNUFrUXBQeDVRSlZrN1NobjdSNFk4NUV4dG9VcWgxV1dRQnFuTkpnQVNHWWxSYU9sMzRLUUVDYmRJbEFIOEs2dmx1ZFdraUxNTEJHVTVDbFlhSlJkNnc2bGNFQm9fR1VkclhGQVpEM2dXYjlfMVhFZkIybElXMmI1a0JzUXlfVUVJVVdqQ1dnOXFlX3Bkb0JocnJpLS1oVFp1MXZHaUpwOTk3TEhDVHM1MjhRXzlIV29rcTJoZEFuT1BlNVdmQUVxV2JHdk1YR09XZlNRQjlzRWJRMjZGTGtJMGNHTXJ6cHh2RW43S0xDUFhwakV2X3BBcm00V0NXNkhod2YyMzg4NGI5UURENzc5bEQ2MUg4TXpLWlM0SGJrNWtReUN4UEJXVXo3SXBnNXc2elFmUlU0RHVBREszbGlnTzZOTVMtd3U3NDZSTU1hVHAya05LUW9mRC10ZGpTMF9xNGo0cm9MYjRLZFJHejFkRTVlcEQxUDhkUE9qYUN2NHFMYU5JU0VlNlRrSHRQY01fZHpOeTVYM2ZjbVVaNEZfTGUxTEo0cU0?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T11:53:27.000Z",
+     "time": "2026-11-22T11:53:37.000Z",
      "seen": "2026-11-22T12:33:48.656Z"
     },
     {
