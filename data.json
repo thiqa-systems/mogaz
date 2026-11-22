@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-22T19:55:17.516Z",
+ "updated": "2026-11-22T20:05:17.534Z",
  "minute": [
-  "شهدت البنوك المصرية ارتفاعاً في سعر صرف الدولار، بالتزامن مع تراجع مؤشر البورصة الرئيسي EGX30 بنسبة 2.85% بضغط من المارجن كول.",
-  "تبحث الحكومة المصرية احتواء موجة غلاء الهواتف مع التجار، بينما أوصت لجنة هندسية بإخلاء عقار مائل بقرية ميت غزالة فوراً.",
-  "تضمنت التطورات الإقليمية والتكنولوجية تدمير الجيش الليبي زوارق مفخخة قبالة بنغازي، وتجاوز شحنات أساور شاومي الذكية 240 مليون وحدة."
+  "شهدت الأسواق المصرية متابعة لهبوط البورصة الحاد وارتفاع أسعار صرف الدولار بالبنوك، إلى جانب بحث الحكومة احتواء غلاء الهواتف وتوطين مستحضرات الأورام.",
+  "على المستوى الإقليمي، أطلقت مصر قافلة مساعدات جديدة إلى غزة، وجدد اجتماع ثلاثي بأسوان رفض الإجراءات الأحادية في قضايا الأمن المائي.",
+  "تضمنت الأحداث الدولية انتهاء مؤتمر المناخ كوب 31 ومفاوضات تشكيل الحكومة في إسرائيل دون اتفاق، بالإضافة إلى استهداف سفينة روسية ببنغازي."
  ],
  "ai": {
-  "at": "2026-11-22T19:35:17.715Z",
+  "at": "2026-11-22T20:05:17.534Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-22T19:55:17.516Z"
+  "key": 2,
+  "impacts": 6
  },
  "markets": [
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60635,
-   "change": 0.9,
-   "asOf": "2026-11-22T19:55:52.000Z",
+   "value": 60643,
+   "change": 0.91,
+   "asOf": "2026-11-22T20:05:38.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +137,34 @@
    "title": "مصر",
    "items": [
     {
-     "title": "هل تتحرك فرنسا في قضية سد النهضة؟ .. مارين لوبان تُجيب",
-     "url": "https://www.elbalad.news/7190685",
+     "title": "مدرب الاتحاد السعودي: يجب أن تظهر صورتنا الحقيقية في مباراة باختاكور",
+     "url": "https://www.elbalad.news/7190725",
      "source": "صدى البلد",
-     "time": "2026-11-22T19:54:58.000Z",
-     "seen": "2026-11-22T19:55:17.516Z"
+     "time": "2026-11-22T20:03:49.000Z",
+     "seen": "2026-11-22T20:05:17.534Z"
     },
     {
-     "title": "مساعد وزير الدفاع الأوكراني السابق: استهداف جسر القرم ضربة لرمزية بوتين",
-     "url": "https://www.elbalad.news/7190696",
+     "title": "قوات الاحتلال تطلق النار على عمال فلسطينيين وتعتقل 18 قرب بلدة حزما بالقدس",
+     "url": "https://www.elbalad.news/7190726",
      "source": "صدى البلد",
-     "time": "2026-11-22T19:54:48.000Z",
-     "seen": "2026-11-22T19:55:17.516Z"
+     "time": "2026-11-22T20:03:44.000Z",
+     "seen": "2026-11-22T20:05:17.534Z"
     },
     {
-     "title": "إمام عاشور أمام اختبار العودة في قمة بيراميدز.. أسامة عرابي يكشف موقفه من حسابات عموتة",
-     "url": "https://www.elbalad.news/7190683",
+     "title": "خبير أسواق المال: 3 أسباب وراء الهبوط الحاد للبورصة المصرية",
+     "url": "https://www.elbalad.news/7190717",
      "source": "صدى البلد",
-     "time": "2026-11-22T19:54:40.000Z",
-     "seen": "2026-11-22T19:55:17.516Z"
+     "time": "2026-11-22T20:03:33.000Z",
+     "seen": "2026-11-22T20:05:17.534Z",
+     "impact": "يمس مستثمري أسهم البورصة المصرية لفهم دوافع التراجع الحاد وتقييم مخاطر محافظم المالية."
+    },
+    {
+     "title": "رئيس هيئة الدواء المصرية يبحث تعزيز توطين مستحضرات الأورام بالسوق المصري",
+     "url": "https://www.youm7.com/story/2026/11/22/رئيس-هيئة-الدواء-المصرية-يبحث-تعزيز-توطين-مستحضرات-الأورام-بالسوق/7628753",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T20:00:00.000Z",
+     "seen": "2026-11-22T20:05:17.534Z",
+     "impact": "يهتم به المواطنون والمستثمرون في القطاع الطبي لأنه يتعلق بتوفير علاجات الأورام محلياً وتقليل تكاليف الاستيراد."
     },
     {
      "title": "اليوم السابع: مصر تطلق قافلة جديدة من المساعدات إلى غزة",
@@ -173,13 +180,6 @@
      "time": "2026-11-22T19:15:00.000Z",
      "seen": "2026-11-22T19:25:03.708Z",
      "impact": "توصية الإخلاء الفوري تنبه المواطنين والسكان في المنطقة لاتخاذ تدابير السلامة وتجنب مخاطر العقار المائل."
-    },
-    {
-     "title": "الجيش الليبي يدمر 4 زوارق مفخخة أوكرانية قبالة بنغازي.. ماذا يحدث في ليبيا؟",
-     "url": "https://www.youm7.com/story/2026/11/22/الجيش-الليبي-يدمر-4-زوارق-مفخخة-أوكرانية-قبالة-بنغازي-ماذا/7628726",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T19:14:00.000Z",
-     "seen": "2026-11-22T19:15:03.282Z"
     },
     {
      "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
@@ -245,6 +245,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "المشروع الأضخم: هل يتمكّن الأردن من تحقيق استقلاله المائي؟",
+     "url": "https://www.bbc.com/arabic/articles/cqx2x0erk6n1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T20:03:24.000Z",
+     "seen": "2026-11-22T20:05:17.534Z"
+    },
+    {
      "title": "قبل إغلاق التعاملات.. سعر الدولار في بنك مصر والأهلي الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OSjBTUDVsZjQteUNjU0VYdUVoUWZLNEU4SUdxVllILVRPa2NqMlRkMnU0ajIxZnR4U1RSZ2k5M0xaZUtuU09N?oc=5",
      "source": "صدى البلد",
@@ -257,7 +264,7 @@
      "source": "فيتو",
      "time": "2026-11-22T19:20:00.000Z",
      "seen": "2026-11-22T19:25:03.708Z",
-     "impact": "ارتفاع سعر الدولار في البنوك يرفع تكلفة الاستيراد ويؤثر مباشرة على أسعار المنتجات وتكاليف المعيشة والاستثمار في مصر."
+     "impact": "يؤثر ارتفاع سعر الدولار أمام الجنيه على القوة الشرائية للأفراد وتكاليف الاستيراد وتسعير السلع والخدمات."
     },
     {
      "title": "سعر الدولار اليوم في البنوك المصرية.. تعرف على أسعار الشراء والبيع",
@@ -305,11 +312,17 @@
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه في البنك المركزى المصرى اليوم الأحد",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNYUlwUmpFS1BSdXpDVEdUUEZxUkJPUXUyaW9pMjEzYUJZTjdrdndoRFJTYkJsSVlQYTAxWEtWYVcxY3ZHdnV3ZWN3a3lucWoxWG96bVNHQkdiTzhrLUlmTHJXNlR2QW55RFJ1S0xvQXgycTBmYnV3VHliYmVYOE5rQ3NpWWJVZmdhVld4YWpiY3dXa3piM2VodzFvSjByN1RxdXpMQkVMQllDSUZTMnRLM3lrN1Byc2ZNWGgyY0c2MWNwbDFRcXB3bHRkcHhzQzI3V0pSSEhzT2hQVkg2TE5uV3YwQkpOWE95a2JObU5tc29HM1B0b1UzWWQ5NEJUQlNjYVNlRFg1dUstME1ENkFmSXdtMVNQdFNiTm1zaGhDYW9KekhrQk5fVHVjdU9jclZQektPa3pDcHpNRDUwRXhNXy1TNHo1OF9YTTk1RzZ5Ry1qcWdWRVFOb0l5MWZua2k3QUVad2dQVlJSNkprNnl3dlNESVN2U0VzekxyMmNOS1ZERl9YaU9LQWtiU29OWktDOV84cXdUR0s3VFZ2WlU5QWo0RnpvZXBUUmZjaFpoUDJYSnNPSzhGMmpycVJzd1A3blZFbWVmV0hoQTU1ZjNobzJ3TF9mYUhCWDVKUHVtV2tPMGUxMVBz0gHiA0FVX3lxTE1lalpQa2pkeFNuSmUySk0xTWxFTFZsSGx0UHIyOEdJQUs5bWExOWl3TDVwcnNMUWEwLUZyZzBjNUdLT3I3eEZpTVFsckJ3OEg0THZQVDc3Um1CbmxxbmZpSHdfODdNdGVHUGV6LWxBVWlsSFNsQ0pHUWE5VFl6YjBCTFVEUjR4ZHpaNDNla2Rzbkdoa3JaUFAzQm1yU0FJUFpra0JXYTB4UXNNUUhYR2Rpam1aTFhDSFd1RWNsbm44Qk5pM09LNkRXSV91Q2tXTW5wLWo5Nlo0QmFRdmpmU1RZYTJfVzJXYkpsWHRKSThxRmVpTXdNM243Zl91LU1pZ1hiRU14Mkp6T2RybjNDNDE3bUo1cU92NWE2am9vY1hmR1F6SGZHR3RzTEFoa1V1RlpQb2FBbEJCdXRvRTI2WllzWjhwNjcyT2NTOEV1R2xjV2ZSQ2xXV2dxRTdoMnZHei1OWHdpbTRvSzhkME1pbVByZGJWR0o2eHVxS0RLcFhXX1JkR1VwbGQ4WDc4WmtvQUp6amF3bFJsRXYzUjk1RUpyWGV6bnowdWt3X0RKbjZ4dVBMNVhENThxbnRoTmNfRURmS0FNTFNzMDhFcTE2VFRkNHRud2gtLWlwbjFScWxpVVRn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNZWpaUGtqZHhTbkplMkpNMU1sRUxWbEhsdFByMjhHSUFLOW1hMTlpd0w1cHJzTFFhMC1GcmcwYzVHS09yN3hGaU1RbHJCdzhINEx2UFQ3N1JtQm5scW5maUh3Xzg3TXRlR1Blei1sQVVpbEhTbENKR1FhOVRZemIwQkxVRFI0eGR6WjQzZWtkc25HaGtyWlBQM0JtclNBSVBaa2tCV2EweFFzTVFIWEdkaWptWkxYQ0hXdUVjbG5uOEJOaTNPSzZEV0lfdUNrV01ucC1qOTZaNEJhUXZqZlNUWWEyX1cyV2JKbFh0Skk4cUZlaU13TTNuN2ZfdS1NaWdYYkVNeDJKek9kcm4zQzQxN21KNXFPdjVhNmpvb2NYZkdRekhmR0d0c0xBaGtVdUZaUG9hQWxCQnV0b0UyNlpZc1o4cDY3Mk9jUzhFdUdsY1dmUkNsV1dncUU3aDJ2R3otTlh3aW00b0s4ZDBNaW1QcmRiVkdKNnh1cUtES3BYV19SZEdVcGxkOFg3OFprb0FKemphd2xSbEV2M1I5NUVKclhlem56MHVrd19ESm42eHVQTDVYRDU4cW50aE5jX0VEZktBTUxTczA4RXExNlRUZDR0bndoLS1pcG4xUnFsaVVUZ9IB4gNBVV95cUxNZWpaUGtqZHhTbkplMkpNMU1sRUxWbEhsdFByMjhHSUFLOW1hMTlpd0w1cHJzTFFhMC1GcmcwYzVHS09yN3hGaU1RbHJCdzhINEx2UFQ3N1JtQm5scW5maUh3Xzg3TXRlR1Blei1sQVVpbEhTbENKR1FhOVRZemIwQkxVRFI0eGR6WjQzZWtkc25HaGtyWlBQM0JtclNBSVBaa2tCV2EweFFzTVFIWEdkaWptWkxYQ0hXdUVjbG5uOEJOaTNPSzZEV0lfdUNrV01ucC1qOTZaNEJhUXZqZlNUWWEyX1cyV2JKbFh0Skk4cUZlaU13TTNuN2ZfdS1NaWdYYkVNeDJKek9kcm4zQzQxN21KNXFPdjVhNmpvb2NYZkdRekhmR0d0c0xBaGtVdUZaUG9hQWxCQnV0b0UyNlpZc1o4cDY3Mk9jUzhFdUdsY1dmUkNsV1dncUU3aDJ2R3otTlh3aW00b0s4ZDBNaW1QcmRiVkdKNnh1cUtES3BYV19SZEdVcGxkOFg3OFprb0FKemphd2xSbEV2M1I5NUVKclhlem56MHVrd19ESm42eHVQTDVYRDU4cW50aE5jX0VEZktBTUxTczA4RXExNlRUZDR0bndoLS1pcG4xUnFsaVVUZw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T18:03:01.000Z",
+     "seen": "2026-11-22T20:05:17.534Z"
+    },
+    {
+     "title": "سعر الذهب اليوم الأحد 22 نوفمبر 2026.. عيار 21 بدون مصنعية بـ 5520 جنيها",
+     "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOdmJyaDR0YXNWRFRmSms5bjhZaWpZbnAtZS00LWljY0h2OUE1YTR5UE9CQ0NxODRDZ0VqVC1BazVXV3RBUjJWbE9Ua01OMktkNXJteWxlV3Z1TVVEZnVCSHdoYXhDNXh1UFJnUFJYbTEwX3ctUVYtdEd1blQzX2gybU5RSzFkTnpxeGF4VVVXMU9xLW15QjY0MmpabWl1cWFNQjlPWXFvV1BvY3p4NV9QcjZPVFF3N1ZMYm1FYkZiNktoaThoaEoyNENqVk81eFNJOHlNME9Zem1iZ3pXUGg4LVRaX2NjV2libjNxbGZxdnU3dFMycmVJdnhRWmZnM1U2LXdHd1J2SlBCcFY1Ui1ldGxrbTd3Si1BYXVVMEVIUkNsMGNtMF9hbnItZF9aaURUSGtacXU3QlB2WGQ4aVlySnhqUFhscTRDVGY1TUlpM2sybkJaU0lsSkZpY3g5UVN1akNmZmgtOEtLcFIyM3lYQWp30gHsAkFVX3lxTE83OGVXcjBfdW41eG83dzFZbUM5UEMtT1dBMTdtOENaN0dFNVlQTGZXRmxBRUstbFlRd1ZFOUNJSWNGdURtTUxmQmtJNUNqZktrenNyV1FramVobzJVV1U3TUYxLUc4U2JxQWJDZ0d3TmY1aXJYeTMyQm5IeG1SVE5BZVRZUWk5QnA0bUdLOEtpUGRHRFU1R214aWFKMzFCbDA2dUZRU2gxeGhwZk1mYzNkNUNIX0pjdHU0cnVrc3V0YUxEUFh6M01oV3pxc0I0Z3hxTWRhTWxIc0xFM0NES0kyalZZUG5wWEpzcmZFS3pwUHdrNU9pR3ljM2ROWDkzNE85eEQtTEcteW11NFo3azQ4YUI3ZVROZktoa2FlVlFrRzlWbjZEU09pT081elV6RFhEWlM3QWVSazZMaEs1Q1NkekJWOWtiTEw1bm4wa1pHbHFsMm5pa2dFUnU1YkV1QS1yRzczOVBxUnV3c1U?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-22T18:00:00.000Z",
-     "seen": "2026-11-22T18:05:04.012Z",
-     "impact": "تساعد الأفراد والمستثمرين في مصر على متابعة أسعار الصرف الرسمية وتأثيرها على التعاملات اليومية والتكاليف."
+     "seen": "2026-11-22T20:05:17.534Z"
     },
     {
      "title": "وسط تألق بلومي، هال سيتي يُسقط برايتون بثنائية في الدوري الإنجليزي",
@@ -333,21 +346,6 @@
      "time": "2026-11-22T17:25:30.000Z",
      "seen": "2026-11-22T18:25:03.590Z",
      "impact": "تهم المستثمرين في مصر لمتابعة توجهات التضخم وأسعار الفائدة العالمية وتأثيراتها المحتملة على الأسواق."
-    },
-    {
-     "title": "كوب 31: انتهاء المؤتمر بدون التوصل إلى اتفاق",
-     "url": "https://www.bbc.com/arabic/articles/cw8r7g85p4zno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T17:25:12.000Z",
-     "seen": "2026-11-22T09:13:49.056Z",
-     "impact": "قد يلقي عدم التوصل لاتفاق في مؤتمر كوب 31 بظلاله على تمويل مشروعات المناخ والاستدامة مستقبلاً."
-    },
-    {
-     "title": "60 قرشاً ارتفاعاً في سعر الدولار مقابل الجنيه بمستهل تعاملات الأسبوع",
-     "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQam9XaWkzak5KWl9ZMlVPc1FFdzE1OG1kYzdQMXZudVVCT1NSZmtsUlhLQnpDMzJodHFJbm8teW4tNk9YeVdKTGdQbHhKX2NORWt2NGIyQ3VhcW5zaWZwYV9fY2s5YXE5RE5oYUVyMmp2emtjSnJoMi1zLWxzaHRFMkFfbFNRcUxYeGNrVVhvZnBiQ0VYN0ZqYzh5LWVjT0Y2ZnBUM192NHZYUHotcE1SZ3cxdkxBeGR0YlNHU0V4YlE2YUZmWWpZMGl1Y0N1Z0hBb0YxV1VBMWJoS0JTSGU3NjlXbjNrUEhubGtacm0tRWl1aGNKaTA0SGExS2U2Z2o2OEJEQnpVOHFBbXdRMFRCZHdIeGhiLWI3YUtoWmlWR2pWQjZwNVBraUNDMVBMd0N0SGlZQ3VaYVotaVZQWFZBcFlhY1pZX0VDMU90ekdFeXQ2bl81WFJxNm95dVBSVG82bWttUGhzaXN6WnIzN2d4d0VHaVdzbnJ3NGlTSEhOU1lJTmpsWXVKaHQxSVZJSEhzTW9uX1BwZ1RKbEFvNmFLOUUyZzYzWWswOWc2cFFfMi1IcGtidWg3SVQxUWY2LXl6NzVPQmhEc0pVQXVnUG1UTVgwN3lBdDhLRUdGdjhLUHlDV3B4VzV0MXNOc1_SAewDQVVfeXFMUGpvV2lpM2pOSlpfWTJVT3NRRXcxNThtZGM3UDF2bnVVQk9TUmZrbFJYS0J6QzMyaHRxSW5vLXluLTZPWHlXSkxnUGx4Sl9jTkVrdjRiMkN1YXFuc2lmcGFfX2NrOWFxOUROaGFFcjJqdnprY0pyaDItcy1sc2h0RTJBX2xTUXFMWHhja1VYb2ZwYkNFWDdGamM4eS1lY09GNmZwVDNfdjR2WFB6LXBNUmd3MXZMQXhkdGJTR1NFeGJRNmFGZllqWTBpdWNDdWdIQW9GMVdVQTFiaEtCU0hlNzY5V24za1BIbmxrWnJtLUVpdWhjSmkwNEhhMUtlNmdqNjhCREJ6VThxQW13UTBUQmR3SHhoYi1iN2FLaFppVkdqVkI2cDVQa2lDQzFQTHdDdEhpWUN1WmFaLWlWUFhWQXBZYWNaWV9FQzFPdHpHRXl0Nm5fNVhScTZveXVQUlRvNm1rbVBoc2lzelpyMzdneHdFR2lXc25ydzRpU0hITlNZSU5qbFl1Smh0MUlWSUhIc01vbl9QcGdUSmxBbzZhSzlFMmc2M1lrMDlnNnBRXzItSHBrYnVoN0lUMVFmNi15ejc1T0JoRHNKVUF1Z1BtVE1YMDd5QXQ4S0VHRnY4S1B5Q1dweFc1dDFzTnNf?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T16:51:42.000Z",
-     "seen": "2026-11-22T18:05:04.012Z"
     }
    ]
   },
@@ -389,7 +387,7 @@
      "source": "CNN بالعربية",
      "time": "2026-11-22T19:12:54.000Z",
      "seen": "2026-11-22T19:25:03.708Z",
-     "impact": "بحث أسباب غلاء الهواتف يهم المستهلكين والتجار لتوقع مستويات الأسعار وتكاليف شراء الأجهزة الإلكترونية."
+     "impact": "يهم المستهلكين والتجار في مصر لمتابعة أسعار الأجهزة الإلكترونية وتحركات الحكومة للسيطرة على الغلاء."
     },
     {
      "title": "هجمات بنغازي.. إصابة روس وليبيين وإنقاذ طاقم تجاري",
@@ -448,11 +446,11 @@
      "seen": "2026-11-22T17:35:04.094Z"
     },
     {
-     "title": "\"لنبدأ العمل\".. عبد الرحمن السيد يعلق بعد منشور من ترامب",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekZjTDJsMXV5ejNkVmJWUlhfTUtrZEZwRHpiZGp1bWl6SlNici1ZejdxTWxzUUdzY0tJNnBDMGZVT19ETDJMcG9IcXJIaHhlQ0lwMGhGeWFncjB5VEZJVjdCLUtwLXFIUnlPYzg4WG1xZ3FsTzczcDVPV0tYUWdaODhQR2h4S010aXNkNzZfTGVtN1hNX2hkRWcwRnlacnB2ZGZtaHJKTVRWXy01bDdCbjh4NGx3X3I5cnZrZ3N3?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-22T17:25:12.000Z",
-     "seen": "2026-11-22T17:55:04.335Z"
+     "title": "فرنسا: لوبان وميلانشون يتصدران نوايا التصويت ومطالبات بتغيير موعد الانتخابات",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261122-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%84%D9%88%D8%A8%D8%A7%D9%86-%D9%88%D9%85%D9%8A%D9%84%D8%A7%D9%86%D8%B4%D9%88%D9%86-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1%D8%A7%D9%86-%D9%86%D9%88%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D9%88%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A8%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+     "source": "فرانس 24",
+     "time": "2026-11-22T17:22:45.000Z",
+     "seen": "2026-11-22T20:05:17.534Z"
     }
    ]
   },
@@ -480,7 +478,15 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-22T17:26:09.000Z",
      "seen": "2026-11-22T18:45:03.545Z",
-     "impact": "رفض الإجراءات الأحادية في الأمن المائي يرتبط بشكل مباشر بضمان استقرار الموارد المائية والتنمية والاقتصاد في مصر."
+     "impact": "يرتبط الاستقرار المائي بشكل مباشر بالقطاع الزراعي والاستثمارات واستدامة الموارد الحيوية في مصر."
+    },
+    {
+     "title": "كوب 31: انتهاء المؤتمر بدون التوصل إلى اتفاق",
+     "url": "https://www.bbc.com/arabic/articles/cw8r7g85p4zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T17:25:12.000Z",
+     "seen": "2026-11-22T09:13:49.056Z",
+     "impact": "قد يلقي عدم التوصل لاتفاق في مؤتمر كوب 31 بظلاله على تمويل مشروعات المناخ والاستدامة مستقبلاً."
     },
     {
      "title": "غرامات الكهرباء الجديدة 2026.. تعرف على مخالفات العدادات وعقوبات سرقة التيار وطرق التظلم",
@@ -488,7 +494,7 @@
      "source": "المصري اليوم",
      "time": "2026-11-22T17:12:00.000Z",
      "seen": "2026-11-22T18:45:03.545Z",
-     "impact": "الاطلاع على غرامات الكهرباء الجديدة وطرق التظلم يساعد المواطنين وأصحاب الأنشطة التجارية على تجنب المخالفات المالية والقانونية."
+     "impact": "يهتم به المواطنون وأصحاب العقارات في مصر لتجنب العقوبات والغرامات المالية المتعلقة بمخالفات عدادات الكهرباء."
     },
     {
      "title": "من لعبة فيديو لصفقة بـ 7.5 مليار دولار.. ما قصة Decart AI التي تسعى أمازون لشرائها؟",
@@ -527,13 +533,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-22T15:42:22.000Z",
      "seen": "2026-11-22T16:05:03.605Z"
-    },
-    {
-     "title": "ستة أيام من الانتظار.. أين البحّار الأردني محمد العتيبي المفقود في مضيق هرمز؟",
-     "url": "https://www.bbc.com/arabic/articles/ckvg2nl7zl5qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T14:12:00.000Z",
-     "seen": "2026-11-22T14:15:04.168Z"
     },
     {
      "title": "توجيه عاجل من مدبولي للحكومة بعد ارتفاع أسعار الهواتف المحمولة",
