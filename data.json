@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:51:37.609Z",
+ "updated": "2026-11-22T00:01:37.811Z",
  "minute": [
   "شهدت مصر متابعة لاستقرار سعر صرف الدولار وإشادة صندوق النقد الدولي بأداء السياسة النقدية والقطاع المصرفي.",
   "تواصلت المتابعات لمشروعات تطوير مرافق مياه الشرب بأسوان وزيادة نسبة الحسابات المالية مع استمرار التنبؤات الجوية.",
@@ -10,7 +10,9 @@
   "at": "2026-11-21T23:41:38.247Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-22T00:01:37.811Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60125,
-   "change": 2.26,
-   "asOf": "2026-11-21T23:51:35.000Z",
+   "value": 60063,
+   "change": 2.15,
+   "asOf": "2026-11-22T00:01:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,26 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أحمد مجدي: بيراميدز مُنافس قوي للأهلي.. وإذا لعب «عموتة» بنفس الطريقة هيخسر «سكور»",
-     "url": "https://www.elbalad.news/7189575",
+     "title": "أحمد عبدالباسط: أشكر قناة «صدى البلد» على ثقتها.. والمشاهدون سبب وجودي «في السنتر»",
+     "url": "https://www.elbalad.news/7189577",
      "source": "صدى البلد",
-     "time": "2026-11-21T23:43:23.000Z",
-     "seen": "2026-11-21T23:51:37.609Z"
+     "time": "2026-11-22T00:00:30.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
     },
     {
-     "title": "رئيس القابضة للمياه يتفقد مشروعات «حياة كريمة» وعددًا من محطات ومرافق مياه الشرب والصرف الصحي بأسوان.. صور",
-     "url": "https://www.elbalad.news/7189573",
-     "source": "صدى البلد",
-     "time": "2026-11-21T23:36:49.000Z",
-     "seen": "2026-11-21T23:41:38.247Z",
-     "impact": "تفيد متابعة مشروعات المياه والصرف الصحي بأسوان المواطنين في التعرف على مستوى تحسين الخدمات الأساسية بقرى الصعيد."
+     "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الأحد 22/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/22/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الأحد-22-11-2026/7627005",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T00:00:00.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
     },
     {
-     "title": "هجمات استهدفت منشأة صناعية مدنية.. «الخارجية البحرينية» تدين الاعتداءات الإيرانية على أرضيها",
-     "url": "https://www.elbalad.news/7189571",
+     "title": "تجارة عين شمس تطلق مسابقة «عباقرة أصحاب الهمم» لاكتشاف المواهب.. تفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/22/تجارة-عين-شمس-تطلق-مسابقة-«عباقرة-أصحاب-الهمم»-لاكتشاف-المواهب/7627114",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T00:00:00.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
+    },
+    {
+     "title": "أحمد عبد الباسط يكشف مفاجأة بشأن استضافة قطر للسوبر المصري",
+     "url": "https://www.elbalad.news/7189570",
      "source": "صدى البلد",
-     "time": "2026-11-21T23:36:16.000Z",
-     "seen": "2026-11-21T23:41:38.247Z"
+     "time": "2026-11-22T00:00:00.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
+    },
+    {
+     "title": "هل تستغل إسرائيل أزمة تشكيل الحكومة لتصعيد الحرب في غزة؟.. أستاذ علوم سياسية يُجيب",
+     "url": "https://www.elbalad.news/7189563",
+     "source": "صدى البلد",
+     "time": "2026-11-22T00:00:00.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
     },
     {
      "title": "فاضل 29 يوما على الشتاء.. يبدأ 21 ديسمبر 2026 ويستمر 88 يوما و 23 ساعة",
@@ -165,21 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-21T23:00:00.000Z",
      "seen": "2026-11-21T23:01:38.132Z"
-    },
-    {
-     "title": "جلسات Coffee with the Dean.. حوار مباشر بين الطلاب وعميد كلية هندسة عين شمس",
-     "url": "https://www.youm7.com/story/2026/11/22/جلسات-Coffee-with-the-Dean-حوار-مباشر-بين-الطلاب-وعميد/7623516",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T23:00:00.000Z",
-     "seen": "2026-11-21T23:01:38.132Z"
-    },
-    {
-     "title": "أخبار × 24 ساعة.. وزارة الصحة تحدد أكثر 7 فئات احتياجا للقاح الإنفلونزا",
-     "url": "https://www.youm7.com/story/2026/11/22/أخبار-×-24-ساعة-وزارة-الصحة-تحدد-أكثر-7-فئات/7627478",
-     "source": "اليوم السابع",
-     "time": "2026-11-21T22:00:00.000Z",
-     "seen": "2026-11-21T22:01:37.599Z",
-     "impact": "يساعد تحديد الفئات الأكثر احتياجاً للقاح الإنفلونزا الأفراد في مصر على اتخاذ قرارات وقائية لحماية صحتهم."
     },
     {
      "title": "باحث: اتساع نطاق انتشار «الإخوان» يفرض ضرورة فهم طبيعة الشبكات والروابط بين عناصرها",
@@ -269,11 +269,10 @@
     },
     {
      "title": "ثبات سعر الدولار مقابل الجنيه اليوم الأحد 22 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxObGJSWGU5N1JwSWp3eUxDOXVrZGtKdVh1dTVYRTFWelFIbE4ycDhqbVA5OUo3MmRfNkZjRVZOUlBhbXBHSHBtZHE1MnZhcEg1dTZBV1BHTmNSMmtESFZJU2o5SkZIbTlzalViRGVsS0RzSWtZdGJXUG9BQmxuU0JrYUlLUHA5N3NuaXFDWmR0QUQ3RU1hR09IWmgyOGFuejN0QzNGOUVBYzRJZm5oUTVVOWVyaFh3U0RNMG9LVDRhOTdsM0tDVE5PaVhyLUZUdWNlMnA5Y3VkNlRPOFRvRmdtNHhJbFprcHplZUlVMm9iTWk1RzNkd2VSOXMzQ2VIdFQ5NVFTaXZBZ01qTm5Hakpvc0ZkQ2h1RnJJX0xaWjRybWUxcExxWTJnaTVCUTJna0N4QmEyUGdyWFJEN3Rram5vZDM1V0l0VW1zb0liMjBDNWhSQmFoREVCZl8zTmxPQUcyT2pDbHRib0xEbWF6RWd5N1dxSVBQOVlUdEJWbmhaWVFRNW9UdjlCcUl5dTNwVmFLVU1VbWFEbGRTR1RPVDVhNjZuYkRZZVR0UTQyYjc3S2x1ODR6aXE40gGyA0FVX3lxTE1qX0ZfVEczUkVkRG9hS0d1ZVpzMnd6eTRMc0hiUEV3a3hZN1M5QV8xMDZwUWN0TnFkT2otTEVXYzFDRHJWSlFvUDg0dVlxOTZndXdBdmJocHRqYk12WE0tR0xueXhGbm9VaFlGNzRiU0VuMy1pX2FOTkhfWDBMOGNyNWxRR1J3d1FfRjNxYTRkR1dvQ0lKT2x2VlB0aVRSVE10cm05aFc4bVAtd0xfUnBXdjItbXNjYXgxUlduMkR2dW50NUlQQ1FidlRIMUVqdVNpb1VTX09XOW9EOVRXUlFkZDhZd0VRN2xsd3dNM3JLdG1lRk1ickNqLUowbXNUdHNSUjVMcU5aMmlmVjlSb29BZF9xVGgxLVNNbmJ5WFg5RWdybEZBQWNSdlh1R25uMG16RXJISFFpbVUteXQybEp2ZmZOM1ZPM0JJR0lUUlZfRVVSN2RWS1NmejM5XzNfT3hrb3duZHdGcXhnUWdENjBaXy1taUF5VVBhcFFlRHFOTG9lbFhqTlE4c2x4bGY2c0hTNXRqcngzVlJUSG1OQ2FWYnlBSXA1RmJiZGFHVEpBdWV3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNal9GX1RHM1JFZERvYUtHdWVaczJ3enk0THNIYlBFd2t4WTdTOUFfMTA2cFFjdE5xZE9qLUxFV2MxQ0RyVkpRb1A4NHVZcTk2Z3V3QXZiaHB0amJNdlhNLUdMbnl4Rm5vVWhZRjc0YlNFbjMtaV9hTk5IX1gwTDhjcjVsUUdSd3dRX0YzcWE0ZEdXb0NJSk9sdlZQdGlUUlRNdHJtOWhXOG1QLXdMX1JwV3YyLW1zY2F4MVJXbjJEdnVudDVJUENRYnZUSDFFanVTaW9VU19PVzlvRDlUV1JRZGQ4WXdFUTdsbHd3TTNyS3RtZUZNYnJDai1KMG1zVHRzUlI1THFOWjJpZlY5Um9vQWRfcVRoMS1TTW5ieVhYOUVncmxGQUFjUnZYdUdubjBtekVySEhRaW1VLXl0MmxKdmZmTjNWTzNCSUdJVFJWX0VVUjdkVktTZnozOV8zX094a293bmR3RnF4Z1FnRDYwWl8tbWlBeVVQYXBRZURxTkxvZWxYak5ROHNseGxmNnNIUzV0anJ4M1ZSVEhtTkNhVmJ5QUlwNUZiYmRhR1RKQXVld9IBsgNBVV95cUxNal9GX1RHM1JFZERvYUtHdWVaczJ3enk0THNIYlBFd2t4WTdTOUFfMTA2cFFjdE5xZE9qLUxFV2MxQ0RyVkpRb1A4NHVZcTk2Z3V3QXZiaHB0amJNdlhNLUdMbnl4Rm5vVWhZRjc0YlNFbjMtaV9hTk5IX1gwTDhjcjVsUUdSd3dRX0YzcWE0ZEdXb0NJSk9sdlZQdGlUUlRNdHJtOWhXOG1QLXdMX1JwV3YyLW1zY2F4MVJXbjJEdnVudDVJUENRYnZUSDFFanVTaW9VU19PVzlvRDlUV1JRZGQ4WXdFUTdsbHd3TTNyS3RtZUZNYnJDai1KMG1zVHRzUlI1THFOWjJpZlY5Um9vQWRfcVRoMS1TTW5ieVhYOUVncmxGQUFjUnZYdUdubjBtekVySEhRaW1VLXl0MmxKdmZmTjNWTzNCSUdJVFJWX0VVUjdkVktTZnozOV8zX094a293bmR3RnF4Z1FnRDYwWl8tbWlBeVVQYXBRZURxTkxvZWxYak5ROHNseGxmNnNIUzV0anJ4M1ZSVEhtTkNhVmJ5QUlwNUZiYmRhR1RKQXVldw?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-21T22:00:00.000Z",
-     "seen": "2026-11-21T22:51:37.552Z",
-     "impact": "يساعد استقرار سعر الدولار مقابل الجنيه التجّار والمستثمرين في مصر على استقرار التكاليف وتحديد أسعار المنتجات."
+     "time": "2026-11-21T22:02:15.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
     },
     {
      "title": "«النقل» تتفاوض مع «درغام للمقاولات» لإنشاء المنطقة اللوجستية في العريش",
@@ -361,6 +360,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "هل طردت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/libya-egypt-war-army",
+     "source": "CNN بالعربية",
+     "time": "2026-11-21T23:35:49.000Z",
+     "seen": "2026-11-22T00:01:37.811Z"
+    },
+    {
      "title": "البحرين ترد على الحرس الثوري بعد ضربات إيرانية جديدة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/bahrain-iran-war-usa-gulf",
      "source": "CNN بالعربية",
@@ -445,14 +451,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-21T19:22:26.000Z",
      "seen": "2026-11-21T22:21:37.688Z"
-    },
-    {
-     "title": "\"كرة لهب\".. انفجار خط غاز يشعل حريقا هائلا بمحطة كهرباء في البصرة بالعراق",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/21/v205725-iraq-power-station-explosion-kills-at-least-four",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T19:18:06.000Z",
-     "seen": "2026-11-21T19:31:10.030Z",
-     "impact": "قد تؤثر حوادث خطوط الغاز ومحطات الكهرباء الإقليمية على إمدادات وأسعار الطاقة للمستثمرين في المنطقة."
     },
     {
      "title": "أمير قطر من برلين إلى الراين .. ما الذي تريده ألمانيا وقطر من تعميق شراكتهما؟",
