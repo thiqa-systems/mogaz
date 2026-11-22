@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-22T08:22:08.930Z",
+ "updated": "2026-11-22T08:32:09.237Z",
  "minute": [
-  "تنوعت الأخبار المحلية في مصر بين إطلاق مبادرات توعوية وتقنيات صحية حديثة ومشاركات دولية.",
-  "سجلت الأسواق الاقتصادية استقراراً في أسعار صرف الدولار والعملات العربية أمام الجنيه المصري.",
-  "تناولت الأخبار العالمية تطورات أمنية وسياسية إلى جانب مناقشات مؤتمر المناخ.",
-  "شهد القطاع التكنولوجي تحركات واستثمارات كبرى لشركات عالمية مثل أمازون وبايت دانس وميتا."
+  "أصدر رئيس الوزراء قرارًا بإتاحة بيانات مشروعات البنية الأساسية للمستثمرين في مصر، إلى جانب إطلاق منظومة رقمية لدراسات التأثير البيئي.",
+  "استقرت أسعار صرف الدولار والعملات الأجنبية والعربية في البنك المركزي والبنوك المصرية في بداية التعاملات.",
+  "شهد قطاع التكنولوجيا تحركات واستثمارات بارزة تشمل شركات أمازون وميتا ومايكروسوفت وسوفت بنك.",
+  "تناولت الأنباء الإقليمية والدولية تطورات وأحداثاً ميدانية وأمنية في عدد من الدول."
  ],
  "ai": {
-  "at": "2026-11-22T08:12:09.081Z",
+  "at": "2026-11-22T08:32:09.237Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 8
  },
  "markets": [
   {
@@ -53,9 +53,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50054,
-   "change": -2.89,
-   "asOf": "2026-11-22T08:07:09.000Z",
+   "value": 50469,
+   "change": -2.09,
+   "asOf": "2026-11-22T08:18:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59552,
-   "change": -0.9,
-   "asOf": "2026-11-22T08:22:07.000Z",
+   "value": 59793,
+   "change": -0.5,
+   "asOf": "2026-11-22T08:33:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,46 +138,55 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني يطالب بمشروع قومي لتقنين أوضاع الورش العشوائية ودعم الحرفيين",
-     "url": "https://www.elbalad.news/7189757",
+     "title": "الجريدة الرسمية: رئيس الوزراء يصدر قرارًا بإتاحة بيانات مشروعات البنية الأساسية أمام المستثمرين",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51cWlkcFNWdEZIUFdoMzQ2M1RCS2FRX0FCd1IzQlRtNDhici1tSlJKQTItZlBZbnRGMGs0cmk5b2g5cnlQR2c?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-22T08:31:45.000Z",
+     "seen": "2026-11-22T08:32:09.237Z",
+     "impact": "يسهل على المستثمرين في مصر دراسة المشروعات والتخطيط لها بناءً على البيانات الرسمية للبنية الأساسية."
+    },
+    {
+     "title": "مصرع عامل سقط عليه سير ماكينة دريس أثناء العمل في أرض زراعية بسوهاج",
+     "url": "https://www.elbalad.news/7189763",
      "source": "صدى البلد",
-     "time": "2026-11-22T08:21:42.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
+     "time": "2026-11-22T08:30:50.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
-     "title": "قنا.. إزالة 20 طاحونة ذهب واسترداد 18 ألف متر مربع أراضي أملاك دولة بقوص",
-     "url": "https://www.elbalad.news/7189754",
+     "title": "مصرع شخصين وإصابة 3 آخرين في انقلاب سيارة ملاكي بطريق شبرا بنها الحر",
+     "url": "https://www.elbalad.news/7189758",
      "source": "صدى البلد",
-     "time": "2026-11-22T08:19:38.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
+     "time": "2026-11-22T08:30:20.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
-     "title": "التعليم العالي تعلن نتائج مسابقة الأفلام القصيرة لمواجهة الأفكار المغلوطة والمتطرفة",
-     "url": "https://www.youm7.com/story/2026/11/22/التعليم-العالي-تعلن-نتائج-مسابقة-الأفلام-القصيرة-لمواجهة-الأفكار-المغلوطة/7627693",
+     "title": "إطلاق المنظومة الرقمية لاستقبال دراسات تقويم التأثير البيئي ووقف الاستلام الورقى",
+     "url": "https://www.youm7.com/story/2026/11/22/إطلاق-المنظومة-الرقمية-لاستقبال-دراسات-تقويم-التأثير-البيئي-ووقف-الاستلام/7627700",
      "source": "اليوم السابع",
-     "time": "2026-11-22T08:19:00.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
+     "time": "2026-11-22T08:30:00.000Z",
+     "seen": "2026-11-22T08:32:09.237Z",
+     "impact": "يوفر الوقت والجهد على أصحاب الأعمال والمستثمرين في مصر عبر التقديم الرقمي لدراسات الأثر البيئي."
     },
     {
-     "title": "تحذيرات من عدوى المدارس في الشتاء.. نصائح مهمة لحماية الأطفال من الفيروسات والأمراض",
-     "url": "https://www.elbalad.news/7189753",
+     "title": "الحكم في استئناف المتهمين بوفاة 7 عاملات بحريق مصنع الزاوية الحمراء.. الثلاثاء",
+     "url": "https://www.elbalad.news/7189679",
      "source": "صدى البلد",
-     "time": "2026-11-22T08:17:39.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
+     "time": "2026-11-22T08:30:00.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
-     "title": "الصحة للمتعايشين مع فيروس نقص المناعة: كل تفصيلة مهمة فى متابعة حالتك وعلاجك",
-     "url": "https://www.youm7.com/story/2026/11/22/الصحة-للمتعايشين-مع-فيروس-نقص-المناعة-كل-تفصيلة-مهمة-فى/7627660",
+     "title": "خبير ياباني لـ«اليوم السابع»: مصر لديها ثروة شبابية ونتعاون لتأهيل جيل ماهر",
+     "url": "https://www.youm7.com/story/2026/11/22/خبير-ياباني-لـ«اليوم-السابع»-مصر-لديها-ثروة-شبابية-ونتعاون-لتأهيل/7627044",
      "source": "اليوم السابع",
-     "time": "2026-11-22T08:13:00.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
+     "time": "2026-11-22T08:29:00.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
-     "title": "جامعة العاصمة تطلق حملة إعلامية توعوية بعنوان «مش كل اللي ورا الشاشة آمن!»",
-     "url": "https://www.youm7.com/story/2026/11/22/جامعة-العاصمة-تطلق-حملة-إعلامية-توعوية-بعنوان-«مش-كل-اللي/7627688",
+     "title": "وزيرة التضامن تشهد احتفالية \"الأب القدوة\" لتكريم الآباء الملهمين",
+     "url": "https://www.youm7.com/story/2026/11/22/وزيرة-التضامن-تشهد-احتفالية-الأب-القدوة-لتكريم-الآباء-الملهمين/7627712",
      "source": "اليوم السابع",
-     "time": "2026-11-22T08:11:00.000Z",
-     "seen": "2026-11-22T08:12:09.081Z"
+     "time": "2026-11-22T08:29:00.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
      "title": "قرار بتخصيص 12 ألف متر مربع بالمجان لتوفيق أوضاع مركز شباب الشهداء بالمنوفية",
@@ -202,10 +211,10 @@
     },
     {
      "title": "مقتل مسؤول بحزب مصري بطعنة نافذة في الرقبة.. والأمن يكشف التفاصيل",
-     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPbjlac0JncHZZdDhLMnFCVmJ1bEphMUVrNkxOVFRFamZFa3lrdWl2dkctT1A5ZXdhTlQzSDA5WnhFc2ZHNExTcTJHazNJaFNaWndnR1NOYWxEMGhRTFNlZWJvTEEydWdNVFJOekltOHA0UDltbVoyUzQ3TUtBWXFYTi10LU1xdEg2S05wRFBub3JwMFE0dEdJamwyMklkWlJiZjBlbzlfSThhMDItZUFRU3QxRHU4REZ2N29xcTEtSFpES1FFczFSYU9Fd0k3WW05NV9LZ3c2ZENSLUtnOXR2WjBMeGZuSHV2Qm0xd01ZYlBEa2lGcmRxNnYxUUh6TjZ5Yjk2T1VQamw2RnlITEx4NE4xQ1plVGZWQmREeHp5RlZWUlJEdnQ0cmRiazFxbzBqSS1TS0tBeFpqSzhTaU0zejFhZUU0UHpMUDgwbVZla3NScG00Wkc5X1BaSjBCVk1MbWY1b0Y2LUJVYW8xWDlMT3JXMHNfTkJsdmpDbUdOQ2tpQ0F6WU4walF5Wi1vRVZpMkN4dlAwSjZiQkFVR2pSMjlfV3VDRTBraFVBMEwwRGJxMzExUE14MDhCWUF0Slk4TzBBY3FONVhXN0NhVTI2dlktaTZKMjhnbHhmOTBFYktFekJDcEpSbDhHbmlSQWlXd0hzelNMVDlDamEyVFZFWTFYX3pBMTdzRUxWeldyQ0g1Uk56XzNCaVZoOVFEbms?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPbjlac0JncHZZdDhLMnFCVmJ1bEphMUVrNkxOVFRFamZFa3lrdWl2dkctT1A5ZXdhTlQzSDA5WnhFc2ZHNExTcTJHazNJaFNaWndnR1NOYWxEMGhRTFNlZWJvTEEydWdNVFJOekltOHA0UDltbVoyUzQ3TUtBWXFYTi10LU1xdEg2S05wRFBub3JwMFE0dEdJamwyMklkWlJiZjBlbzlfSThhMDItZUFRU3QxRHU4REZ2N29xcTEtSFpES1FFczFSYU9Fd0k3WW05NV9LZ3c2ZENSLUtnOXR2WjBMeGZuSHV2Qm0xd01ZYlBEa2lGcmRxNnYxUUh6TjZ5Yjk2T1VQamw2RnlITEx4NE4xQ1plVGZWQmREeHp5RlZWUlJEdnQ0cmRiazFxbzBqSS1TS0tBeFpqSzhTaU0zejFhZUU0UHpMUDgwbVZla3NScG00Wkc5X1BaSjBCVk1MbWY1b0Y2LUJVYW8xWDlMT3JXMHNfTkJsdmpDbUdOQ2tpQ0F6WU4walF5Wi1vRVZpMkN4dlAwSjZiQkFVR2pSMjlfV3VDRTBraFVBMEwwRGJxMzExUE14MDhCWUF0Slk4TzBBY3FONVhXN0NhVTI2dlktaTZKMjhnbHhmOTBFYktFekJDcEpSbDhHbmlSQWlXd0hzelNMVDlDamEyVFZFWTFYX3pBMTdzRUxWeldyQ0g1Uk56XzNCaVZoOVFEbmvSAaQEQVVfeXFMT0xjSjhfYUNKLXpkeGNmVzV4V0dMWV9aYzJYTktLRnJ4bDJWVllNem8wVF9qbjEtY2JleGJPXzdXRHRSVTFGRVFlTjFkV0o4aHVUb2FfZ2JZQkhndDhhYUZHZURUM2d4a1RwQkFGbEQtOE9CbUttX2VyZlVnSHJVaThibUlzSkdsYk1ITmlnYVNXbVdUX19CTnEyOXhTRjRLNEthdk92cW9RdDM5NzVvTFlRTHJZQUtZR1Vwb0hLVVlfWndEZXVnNE54bldGdk5hY3ZRR285VXIxU1JGRnJFM1ZrcTFPX3RlekJTZmJ3Y3U3M2J5U0kyX1ExaTZhUkxSckJQNXZuXy16S3Y2dUN1S28tYWF0b3lRc2Z3Zl94QjFJM2ZoZXVHRGdMVzFmd3otYzJlWUI4UlcySXFvWkJaaENHcDZVMENNTnI0RC0yUzF3VzhnWkpXNGJ1X1dodDFUUUFLMEYtMjNJZUJKcFh3S0taZWxiSlJVUHlqalN3aFRQM1M5N08zNTk0TTNYTnhEaXFnNmZNckZlY1dpRE5DRmVSdFNMUHp3X2ZheGZBRkFrOXJLY2l4M1ZRVjFrQmpLMEFseWJtXzhEWXB0M0Q4emtua0dIRkJQZlpiMTdMeWFZS3hnM2tZMnhIODBVeHNaM2JKcWNWMEhZTXBJY0VZYkxmX043dDJmTmVheEZpR09ZdG9CZEpMamF4VFdHMnR4b2pEcWg?oc=5",
      "source": "العربية",
      "time": "2026-11-22T06:11:00.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
+     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
      "title": "لميس الحديدي توجه رسالة مؤثرة إلى رندة أبو العزم بعد رحيلها عن \"العربية\".. والأخيرة تعلق",
@@ -227,13 +236,6 @@
      "source": "Masrawy",
      "time": "2026-11-22T01:59:00.000Z",
      "seen": "2026-11-22T04:22:07.634Z"
-    },
-    {
-     "title": "مصر تنفي سحب خبرائها العسكريين من بنغازي الليبية",
-     "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOYnBlM3c0YWs4UjBEZlh6bVUzTVBzY1pUSHh2X0NicjZqTldwWXZURlJhSjJtdDhJeHp5bjFhRUZpMkw4aHJqVXNoQjFFMkE1UlphaGNNYjVxa0NXLTk0MFpxZm5RZy0xRkVEZENxWG9BamN2cDY0dmcxd2FqNExjaC05b1c3OWtwaVdPV2h5LWEwSXd6MjNWcGlNMUc5Vi1LNzU4MzVHNUtDdVA1Y21lTGtpV1BwV3lDV1VKMDhmOTh0TEtnZXRjMWtLeG42Y3lWVWFWTndFeU9NZUlZbkljb0V5ZFJTSExBd3p0d1ZTUmwxYkJxcVYwLWlxRzAtc3BUX1NnWm9oMlpMVXNGMXRIOHlnWlFUYk9MNkRnSndEaTNZelhHUzFCUk54ZnRJaEJrb245OXo0cDdwTEJkVFdRb1d2aURYTGVNbnVmeEMzeldUemlqZ0h4OGhocV9qNE5RVlY2RnV1dG1TUmY4eFlYbHlEbFBZd3N5N3J6c25HOEVFT0dicVc0ZlFta3NPN1JMRjN4VnNlWnRfVkhXVVJ2ZHpJeHpfU3BsZmJYLWhadjNKZXpZVUJuVTh5SWvSAcIDQVVfeXFMUEwzcWF4TUJZMEV5ZGx4d21kMWx3Tmh0cEM3TUVCVjQ0cTN1c1oyRURwWTA2Z3Y2ZkZmSm9lTWRLS2xOUmk4TTlMMGJPMXVfMFpadlk4ZUxranRoVUJOQ09TWmNMV0RDNzZWXy14Y2JtN2xmT3F2YXFNTnVtVG5vWUtndWpHT1FqTDdERF9zZGs0Qm1VVldhRlZUSWNRZTVydVF3c0h0dnZUM3ptdUEzdjlJV2psVmV1V2c4R3ZZdklIOW1SbkIwMjlRVFFYb3k3VmF1UkFoNEpNRkVPR0gxUTBZRk1zNk55ajZCbHRoRGlmbU1qNGJvM1dRMGx4cjdQa1FZbW1wZ1VEUDN3cVg3a1NnalhuTl9VWFJfd3d3SDk5X2VHZk15VjNrOW83Y3JEUWJVblRzQ3YwQllZT293d2RBd3NRdUlVRzlZVjExbFNoYjJseXluUjdfVlhsRkRUX1FjN09kOTRqLXg0WEJDWFBsNDdiNlQtQlUyVmNmOXJhTVJHSjZ3dGVlaThFQ3paVlpkZUNtNlR0bEVaZnA1Vnh4bk5CbUJHaTJGRzh6U1BQbmhFb0hxRGxrRmJraXl0VmhB?oc=5",
-     "source": "العربية",
-     "time": "2026-11-22T00:10:00.000Z",
-     "seen": "2026-11-22T06:32:08.369Z"
     }
    ]
   },
@@ -242,12 +244,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "أسعار العملات الأجنبية اليوم الأحد 22 نوفمبر 2026 في البنك المركزي المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TZXMwYWhNWmxqbF9nZ2x1b194Z210Q05mWE11RVppOEI3UHgzTUtSYV80V3M4dkRKN1NQOXd6WEZ0dHVL?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-22T08:23:57.000Z",
+     "seen": "2026-11-22T08:32:09.237Z",
+     "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة أسعار العملات وتحديد تكاليف التعاملات والتحويلات الخارجية."
+    },
+    {
+     "title": "سعر صرف العملات اليوم في البنك المركزي المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zTUJIVWp1VGVIOENUWHQxdnZwUEVJbDVDa0dORy1XUWh0anh3TFFIdVE1Tm0tcE55QlZLU2FmZWplaHNn?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-22T08:18:17.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
+    },
+    {
      "title": "سعر الدرهم الإماراتي في البنك المركزي اليوم الأحد",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1wN1NGbmluVTBadEpfT3IxNm9yVWZqVm9rUWJSMHBBMEdQOUpUOVoxcjJXcmVGdnEwYmtvTU9ULXJWeE1lenZz?oc=5",
      "source": "فيتو",
      "time": "2026-11-22T08:01:00.000Z",
      "seen": "2026-11-22T08:12:09.081Z",
-     "impact": "يساعد معرفة سعر الدرهم الإماراتي الأفراد والمستثمرين على تقييم تكاليف التحويلات والمعاملات التجارية."
+     "impact": "يهم المغتربين والمستثمرين المرتبطين بمعاملات مالية أو تجارية مع دولة الإمارات."
     },
     {
      "title": "استقرار سعر الدولار مقابل الجنيه فى بداية تعاملات اليوم الأحد",
@@ -255,7 +272,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T08:00:00.000Z",
      "seen": "2026-11-22T08:12:09.081Z",
-     "impact": "يدعم استقرار سعر الدولار مقابل الجنيه التخطيط المالي وضبط التكاليف للمستوردين والمستثمرين في مصر."
+     "impact": "يساعد استقرار سعر الصرف في تقليل تذبذب التكاليف على المستوردين والمتعاملين بالدولار."
     },
     {
      "title": "سعر الدولار والعملات العربية اليوم الأحد 22 نوفمبر 2026.. آخر تحديث في البنوك المصرية",
@@ -329,20 +346,6 @@
      "source": "جريدة البورصة",
      "time": "2026-11-22T06:43:51.000Z",
      "seen": "2026-11-22T06:52:08.395Z"
-    },
-    {
-     "title": "كيف قادت صورة سيلفي إلى اكتشاف نوع جديد عملاق من نبات زنبق الماء؟",
-     "url": "https://www.bbc.com/arabic/articles/cq98x513yggpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T06:31:38.000Z",
-     "seen": "2026-11-22T06:42:08.923Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك قبل بدء جلسة التداول",
-     "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPcnhpTHVLdy1NSWZpTTlhaGlBRkVpZF9ScVc0eWhoX3VQNnBGZkdRc0tEaWoyT2QzR2lpX01zNXNxSkdHcVlDek9BYlh4TFo5UWNNTGI5Q2lYdFU3ZGJGdzl0UUZISWdCOURURU9rRUJ6aWU3S0JBRG9VZzhaYk9KejBUakZuaVI1RHl3eV9HMXNnVlAxUzdQbVRPaDBzQTloYlh5MExvSVBaV2gtT1lkNXU2RlNkWG9pZXp0Q2xQYTgtVm5UZ21jV3paZXhxbzFmcjVQeDNkTndCOTVOak5xc1FHakl4a083TkVGekcxUXAwUTE4MVRyVEdRRXdFVHVoTHJjXzVnNGNXR0V2aEJjZ2xwWW1sQ2djb2tnWnZmcDg1Y2xlSGJEYTlvODNGSTZHd0c1bDk1dmdWcy12RTJDOXA1SVJ5Smd6QUR5SHV3a0tnbkxiZWZVTDNncGxaR3BTZnk1SDhzaV95aEk1SG5Lci1xYjZIaDdSSmRQUC1lNFFmOVZ4VUdVaTdWYndVREg3VzRMRkNRMW9MakVpdzltTXNBUVdkeFYzUlhDTGVmal9WQdIBsgNBVV95cUxPcnhpTHVLdy1NSWZpTTlhaGlBRkVpZF9ScVc0eWhoX3VQNnBGZkdRc0tEaWoyT2QzR2lpX01zNXNxSkdHcVlDek9BYlh4TFo5UWNNTGI5Q2lYdFU3ZGJGdzl0UUZISWdCOURURU9rRUJ6aWU3S0JBRG9VZzhaYk9KejBUakZuaVI1RHl3eV9HMXNnVlAxUzdQbVRPaDBzQTloYlh5MExvSVBaV2gtT1lkNXU2RlNkWG9pZXp0Q2xQYTgtVm5UZ21jV3paZXhxbzFmcjVQeDNkTndCOTVOak5xc1FHakl4a083TkVGekcxUXAwUTE4MVRyVEdRRXdFVHVoTHJjXzVnNGNXR0V2aEJjZ2xwWW1sQ2djb2tnWnZmcDg1Y2xlSGJEYTlvODNGSTZHd0c1bDk1dmdWcy12RTJDOXA1SVJ5Smd6QUR5SHV3a0tnbkxiZWZVTDNncGxaR3BTZnk1SDhzaV95aEk1SG5Lci1xYjZIaDdSSmRQUC1lNFFmOVZ4VUdVaTdWYndVREg3VzRMRkNRMW9MakVpdzltTXNBUVdkeFYzUlhDTGVmal9WQQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T06:03:32.000Z",
-     "seen": "2026-11-22T06:52:08.395Z"
     }
    ]
   },
@@ -350,6 +353,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "إيران تروّج لـ\"رسائل من المدينة الصاروخية\" موضحة \"خيارين لا ثالث لهما أمام الأعداء\"",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/iran-missile-city-warnings-messages-report-irna",
+     "source": "CNN بالعربية",
+     "time": "2026-11-22T08:20:36.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
+    },
     {
      "title": "على خلفية طائفية... سوريون يطالبون بالأمن بعد تفاقم عمليات الخطف وجرائم القتل",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261122-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%B7%D8%A7%D8%A6%D9%81%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%81%D8%A7%D9%82%D9%85-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B7%D9%81-%D9%88%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D9%82%D8%AA%D9%84",
@@ -401,6 +411,13 @@
      "seen": "2026-11-22T07:22:09.088Z"
     },
     {
+     "title": "كيف قادت صورة سيلفي إلى اكتشاف نوع جديد عملاق من نبات زنبق الماء؟",
+     "url": "https://www.bbc.com/arabic/articles/cq98x513yggpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T06:31:38.000Z",
+     "seen": "2026-11-22T06:42:08.923Z"
+    },
+    {
      "title": "حكومة وحدة بلا نتنياهو.. هل تنجح معادلة آيزنكوت؟",
      "url": "https://www.skynewsarabia.com/middle-east/1906291-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A8%D9%84%D8%A7-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%86%D8%AC%D8%AD-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA",
      "source": "سكاي نيوز عربية",
@@ -422,32 +439,18 @@
      "seen": "2026-11-22T05:42:08.935Z"
     },
     {
+     "title": "البحرين تعلن زوال \"حالة الخطر\" بعد هجمات إيرانية على أنظمة دفاع جوي أمريكية في البلاد",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9malI3R3U3enJla0NkckNGdWNqMDBMSEpoZ1dwUWx3cDZjalV0Z0J2Q0VLcDR1eDJNbGNfVms4dndiaDVGSTdDV2I2YkJ0ajc4c21FS01QYmtMWHZub2fSAWNBVV95cUxQNXdrUzRuMUtRNGE1dHhOR1kxRmJ2YkxmTHd6M1hYN0xKazFlTFJwNktsSFhWMXppa1ZCODZkd2FnVE9TeGJXajhSS2JzVmE1YXpLOXRlQ1hLSVJMR1E4d1Zyc2s?oc=5",
+     "source": "BBC",
+     "time": "2026-11-22T05:23:27.000Z",
+     "seen": "2026-11-22T08:32:09.237Z"
+    },
+    {
      "title": "علماء يحذرون: الصراخ المتكرر على الأطفال يرتبط بمشكلات سلوكية أسوأ من الضرب",
      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQSmhaZUcxNEdUSTlsWk0yUUFyY2dIdTZPWGszbVpIZzh1emZXQ0JmRFN1MnljY1NqcktCS2xianB3TXYxV2llRlNWTFlCX2tKMHVCSzZjclp1d09wdzd0UGNDV0lqSkJzd3NGelhKeFcwRUd5TjBTMW1qdm5HbFBEZWN1Ul8zcDJRaWxIaXppXzZDNTJiV3lBV0NuMTVLckFjOWxzNTJkVFVESG8yeUcwaWJ2WmRrRjg1RGFST3ZJc0x1ZjY3OE83cGF6bERaN09NMXlBNFRLTmdtR2tsaXRyWjVfeTM5MzZvWmRQWjZsM0Jqd1ZSa1BRR05pTEtSczc1c3hvcWxrcHk3NC12YWlKbHYwLUFYcl9XTFZqT3F6S19IUUFaUlJLUUZ3NURYSldiekVBSHZYLS1RWHlaN2NWQzg1ZEhrblNvd3pkNlVsbmJtSHZSYUV5cEFJUTlZM1JMUmpUMVJtcTItRmU0T185UWIyR3E2LTBtRDI0dU5vNzFFX2loLVpyM01OTUNDV2lmRFZEajViUHdsNnRfNmJOMmNZd25FVzVWWVFhS0tMQmljZURPNk1TeGI2UlJoLVM5c0gtS05kODFQVUtWV1ptXzVidWRYRVNZM3R0aWVCcXNmZG56YXdOX0lreVB0UUpPNUNxeUxsRXFFaFpCc2xXYkR3enpkYWxPa1l2cnBnTmFkXzJiRjRyR3VxNHJjTjJnbGJPSXVXVVJQUm5RM19OZG90YTRfd0ZEclplYnBDU0MzVllmbXh3VmRSVlhUcm5NRXNaeGthbjlnQmFEMVh30gHkBEFVX3lxTFBrRzZCLWY3SzhVbll6ZG82M3ItNC04N2wtQTZDYmNLdVNJaWhRQkZQeHI5Wk9WMDVHdG1VOHhmNmduRUxTQVFmWFVVYmhaLUFyVlhVQVlIYVhMOHB0X0EyR3dHajdWUng5Ylp1MU5sUmhMT0tEUUEtaW94UWZJd2QxWTdBNUkyQklxcEVIZE9PUnVlSjQ4X0RheEhxVXdCeFdXTEkySTNhQjFGX0luYVpuZVpqcDdXb1FKaUoxbWt5eEgzbmo3TXdUWTRJUnlpQ3dmazFMbEdoeGhEWjdSVGxWd3E1amJrY3hxYVJMV1JFZ1gwVkZFOWtGamE5amlCQmRHMWZIQzdEcG1qNmRHTFFmN3hpeERWaE5hdkVBdnV1b1lXVy16TDFVN19TX0NTajVwdVluQ0JCbjdsZVdwajNFYzJockpidll0Ri1XNmdNLWRQOWxLV2hvYjZVTDg2cl93TlV6ZFRjX3JKamhLOWNYRnpKcEtrYktnTTZUNWlqVVI2S1RtQ2lmUjJOa1BYR1M0ckRia0VDYUVVbFVNdWRLVWtCb29HQ19LT2kwamdyd3AxYi16U2lVUUZCWWliOEdZN0RheERBbVdScmF2TV80WnpGVlFLVEhacy13T19PdXpTUFJtUmUzVXAtaGFSbjdJNFhrT1AtTDU1QVcwX3F0Vi02alo2V1NGeVgydElfNUtGZWI0amtSeFprT3VZZ1k1WGZyaHBaRjZ3WnQ2SmNTbFNpbkc5S1VUX29hU25Sc2d4ZXBwYkJnQjZMX2VFdUhFX2wzb3hpa3Q0NmNuNVd4cTB6dw?oc=5",
      "source": "العربية",
      "time": "2026-11-22T05:19:00.000Z",
      "seen": "2026-11-22T08:22:08.930Z"
-    },
-    {
-     "title": "ترامب: فانس وروبيو أبرز الأسماء المحتملة لخلافتي.. و\"قد تكون هناك مفاجآت\"",
-     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQcTJLT1phN1dGU0NjTnNuZEEyYWZjMVhoYzVYaWJHWTh3dHR2ajE1SHk2eGpjTThndWtraGxvRlRmeExSNk5ZWElIUVdqcnEzM0UzVkU0YVJabEQ0S1ZDUUhybnhOUUMyRVRqeFBPUUVOcl9ianVvdGppdTBqVUsxbGdod1ZfV2dyeGtSMFNINE5pLVZrRjN0VXJYemlqZng5bngxemtyZENaWmVvY2tIRkZNV0xNd3FkT2ZKUTNsNzJKQy1faEhGT2pTUUU5eFRsQm9DSC1VZGt2WmtoOHBMTnpXdGNMUzljZmk5NnluZGlid2U3SmhOMU4wZUhodXZLSHI3UWc4OTdKV2tFd3JqVVZpNGNJbGJwb1RiUkJMNmhleGtRaXFYRjhGRVNfaTc3ZXBnNnBQT1VncUNCQ05na1pWVUFhYVA4dGM3RGpaMEpMSkVaRmdEbERJS2dURFFPZnJTTW83MG1saXY2Rm5OMFRaMTVNd0Q5bXpxYWQ1c0VKQ0laWWxuSy1jTVN2SXRoM29EUHVMTjgzV3hGQzVlcUpRNnRNeVppOVhfYUZHay1MVVlDdjJOUUttU3VjQmNrRWR3ZGxiaDh4cWpheXRZUk1DTW5LQ2x2WHVOMExOc0ZNSW9wRHV2SjAtTjVfd1d4QlNkZmFRb29XQWY4NGtSaEVqVVR1dFYwbjJyaXJOekRmb04ya2MzdEtVMGx4ek5VYllyMHk2UFVISGZfeEltakFxaVloNWp2dGtIV1UyaXNfak8zay0tc0VyZmhYQ2xSMzRPLTlheWM1RHlPLXFJ0gHkBEFVX3lxTFBqa1duSThqakxmc2FwM1hjanprNkJ1SUE0V0tTLWUzSGFjdzZabWhHUGZGZzlIYlpIdjRfWGRTNFFjdktyS05xRnVTZXhfaEMzakx0TG92ZC1BYjFBMFdCdkVFR2FzS0JZYW41b21KdmZpeThXckVFa0dENTJTMDRTdlNOengwdWtucjI1aC0yaDNnQ3F1TVM4b1ZSdmR2T0FjVVVjNmJ2cURobnVfZUlDbXdRRXBZNFhNTjBJVzlIX3JSMUV4WUFKRGpQUzE3M0ZwQTIwSmVEQmtIX1lHLWJNMzZfQXhNeFRubld6LXdkUzFDNmZJZGtZYzhjV0pySmY3OW94NFdsbGxzVGxtVFNER2oyVnhud0d0d0tYYXhvMWJsSWhvbUxoOTNtZlNTQWstTWRQR0prWE1CTHM5ZGpUc3Vqak8wMmtkNTEwQlhiVEZCYjdnNHhfQ1QzSkpZYjJMVkdBTWxJY1ctNy1HalhweDJmUnNzUHhULTg4TXpCaENTbGlkWTZtemg0cUZNNHloRjJtQWVTS0pBdFF1bTFTdHNLSlJCLUYyUDZNMG01bm1sY05sMV9HN3JXRlhtb3R0MmVhSk5DVTJmUGlwQmg1cC1EeDhJbTNzM1R0Wm1HeEt6czZPc1NvNGZxS3JBOHFITTNuWU5SbTRxYjlmeXl4dXRnQ0pCckkxTU1Oa0NuNTFVVWFzaWdJaHRrWnJOZzdOMGJwSzAyQTlTa28tZUcwQVpMVlFVdE9mVWVpUnM5WlotbXhoSjVzVzF6RldkZmloWENURU9seF9ISGZDekJPMlotbw?oc=5",
-     "source": "العربية",
-     "time": "2026-11-22T05:03:00.000Z",
-     "seen": "2026-11-22T08:22:08.930Z"
-    },
-    {
-     "title": "حزب \"الصراصير\".. كيف قلب شباب الهند إهانة البطالة إلى حركة احتجاجية تقلق نيودلهي؟",
-     "url": "https://www.aljazeera.net/video/%d8%ac%d9%86%d9%88%d8%a8/2026/11/22/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b5%d9%8a%d8%b1-%d9%83%d9%8a%d9%81-%d9%82%d9%84%d8%a8-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%87%d9%86%d8%af-%d8%a5%d9%87%d8%a7%d9%86%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-22T05:01:53.000Z",
-     "seen": "2026-11-22T08:12:09.081Z"
-    },
-    {
-     "title": "وول ستريت جورنال: لماذا يفلت كيم جونغ أون من العقاب رغم تطوير النووي وتجاهل ترمب؟",
-     "url": "https://www.aljazeera.net/news/2026/11/22/%d9%88%d9%88%d9%84-%d8%b3%d8%aa%d8%b1%d9%8a%d8%aa-%d8%ac%d9%88%d8%b1%d9%86%d8%a7%d9%84-%d9%83%d9%8a%d9%81-%d9%8a%d9%81%d9%84%d8%aa-%d9%83%d9%8a%d9%85-%d8%ac%d9%88%d9%86%d8%ba-%d8%a3%d9%88%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-22T04:55:44.000Z",
-     "seen": "2026-11-22T08:12:09.081Z"
     }
    ]
   },
@@ -461,7 +464,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-22T07:55:15.000Z",
      "seen": "2026-11-22T08:02:08.954Z",
-     "impact": "توضح إنفاقات بايت دانس الضخمة حجم التنافس والاستثمار العالمي في تقنيات الذكاء الاصطناعي."
+     "impact": "يعكس تزايد إنفاق الشركات على خدمات الذكاء الاصطناعي والسحابة للوصول لأحدث التقنيات."
     },
     {
      "title": "ميتا تعتزم بيع جهاز Muse Charm بـ300 دولار مع خطة بيانات مجانية",
@@ -469,7 +472,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-22T07:49:16.000Z",
      "seen": "2026-11-22T07:52:08.818Z",
-     "impact": "تتيح أجهزة ميتا الجديدة بأسعار وخطط بيانات محددة خيارات تقنية جديدة للمستهلكين."
+     "impact": "يعطي المهتمين بالتكنولوجيا انطباعاً عن تسعير أجهزة ميتا الجديدة وخدمات البيانات المرفقة بها."
     },
     {
      "title": "رئيس SoftBank اتصل بمؤسسات مالية لتمويل شراء SK Hynix",
@@ -484,7 +487,7 @@
      "source": "الشرق للأخبار",
      "time": "2026-11-22T05:56:23.000Z",
      "seen": "2026-11-22T08:02:08.954Z",
-     "impact": "تعكس صفقة استحواذ أمازون المرتقبة تسارع الاستثمارات الضخمة في شركات الذكاء الاصطناعي."
+     "impact": "يؤشر للمستثمرين على استمرار صفقات الاستحواذ الضخمة في سوق الذكاء الاصطناعي الناشئ."
     },
     {
      "title": "\"الذكاء الاصطناعي\" يطيح بوزير التعليم في كوريا الجنوبية",
