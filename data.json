@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:55:17.986Z",
+ "updated": "2026-11-22T23:05:17.614Z",
  "minute": [
   "شهدت الأسواق المصرية ارتفاعاً في أسعار صرف الدولار والذهب، بالتزامن مع تجميد بعض المشروعات الحكومية حتى يونيو 2027 لإعادة ترتيب أولويات الإنفاق.",
   "تسعى الحكومة المصرية لتطوير وتلبية احتياجات السوق المحلي من صناعة الهواتف المحمولة، وسط توضيحات من شعبة الاتصالات بشأن الأجهزة المتوقفة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-22T22:45:17.394Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T23:05:17.614Z"
  },
  "markets": [
   {
@@ -62,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": 0.06,
-   "asOf": "2026-11-22T22:54:48.000Z",
+   "value": 1.0975,
+   "change": 0.05,
+   "asOf": "2026-11-22T23:05:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60885,
-   "change": 1.32,
-   "asOf": "2026-11-22T22:55:17.000Z",
+   "value": 60991,
+   "change": 1.49,
+   "asOf": "2026-11-22T23:06:34.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,48 +140,46 @@
    "title": "مصر",
    "items": [
     {
+     "title": "معهد الفلك يخصص منصة بموقعه الرسمي استعداداً لكسوف الشمس العظيم 2027",
+     "url": "https://www.youm7.com/story/2026/11/23/معهد-الفلك-يخصص-منصة-بموقعه-الرسمي-استعداداً-لكسوف-الشمس-العظيم/7627939",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T23:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
+     "title": "أرقام شكاوى محافظة الجيزة.. طرق الإبلاغ عن المخالفات ومشكلات الخدمات",
+     "url": "https://www.youm7.com/story/2026/11/23/أرقام-شكاوى-محافظة-الجيزة-طرق-الإبلاغ-عن-المخالفات-ومشكلات-الخدمات/7622996",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T23:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
+     "title": "الشباب والرياضة بالشرقية تنفذ حزمة أنشطة وبرامج توعوية وتدريبية وثقافية",
+     "url": "https://www.elbalad.news/7190845",
+     "source": "صدى البلد",
+     "time": "2026-11-22T23:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
+     "title": "أدعية ليلة الزفاف للزوجين.. كلمات تجنبهما الشيطان يستحب ترديدها",
+     "url": "https://www.elbalad.news/7190830",
+     "source": "صدى البلد",
+     "time": "2026-11-22T23:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
+     "title": "كل ما تريد معرفته عن تويوتا لاندكروزر HEV MAX الرياضية",
+     "url": "https://www.elbalad.news/7190628",
+     "source": "صدى البلد",
+     "time": "2026-11-22T23:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
      "title": "ترامب: إيران قتلت 81 ألف متظاهر وتراجع أسعار النفط بعد الانتخابات خدعة",
      "url": "https://www.youm7.com/story/2026/11/23/ترامب-إيران-قتلت-81-ألف-متظاهر-وتراجع-أسعار-النفط-بعد/7628817",
      "source": "اليوم السابع",
      "time": "2026-11-22T22:52:00.000Z",
      "seen": "2026-11-22T22:55:17.986Z"
-    },
-    {
-     "title": "ترامب: الصوماليون سيطروا على ولاية مينيسوتا و95% منهم يعيشون على الإعانات",
-     "url": "https://www.youm7.com/story/2026/11/23/ترامب-الصوماليون-سيطروا-على-ولاية-مينيسوتا-و95-منهم-يعيشون-على/7628816",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T22:50:00.000Z",
-     "seen": "2026-11-22T22:55:17.986Z"
-    },
-    {
-     "title": "الأرصاد تحذر من الشبورة والأمطار خلال 3 أيام.. تفاصيل طقس الثلاثاء والأربعاء والخميس",
-     "url": "https://www.elbalad.news/7190870",
-     "source": "صدى البلد",
-     "time": "2026-11-22T22:44:16.000Z",
-     "seen": "2026-11-22T22:45:17.394Z",
-     "impact": "تساعد التحذيرات السائقين والمواطنين على اتخاذ الاحتياطات اللازمة أثناء السفر والتنقل في فترة الأمطار والشبورة."
-    },
-    {
-     "title": "تفاصيل أزمات الزمالك.. انقسام حول رحيل المدير التنفيذي وغضب بين اللاعبين بسبب المستحقات",
-     "url": "https://www.elbalad.news/7190866",
-     "source": "صدى البلد",
-     "time": "2026-11-22T22:43:35.000Z",
-     "seen": "2026-11-22T22:45:17.394Z"
-    },
-    {
-     "title": "تجميد مشروعات حكومية حتى يونيو 2027.. كيف تحدد الحكومة أولويات الإنفاق؟",
-     "url": "https://www.elbalad.news/7190867",
-     "source": "صدى البلد",
-     "time": "2026-11-22T22:38:34.000Z",
-     "seen": "2026-11-22T22:45:17.394Z",
-     "impact": "قد تتأثر شركات المقاولات والتوريدات المرتبطة بالقطاع الحكومي بإعادة ترتيب أولويات الإنفاق وتأجيل بعض المشروعات."
-    },
-    {
-     "title": "بمناسبة اليوم العالمى للبيئة.. آداب القاهرة تنظم ندوة تثقيفية عن التوعية البيئية",
-     "url": "https://www.youm7.com/story/2026/11/23/بمناسبة-اليوم-العالمى-للبيئة-آداب-القاهرة-تنظم-ندوة-تثقيفية-عن/7627612",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T22:30:00.000Z",
-     "seen": "2026-11-22T22:35:18.166Z"
     },
     {
      "title": "متحدث الحكومة: صناعة الهواتف المحمولة ما زالت وليدة.. ونسعى للحفاظ عليها لتلبية احتياجات السوق المحلي",
@@ -247,11 +247,32 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تفاصيل أقل سعر دولار في البنوك الآن",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92RlZodUlvd0lZQXowRUlZbjF4MDhJNkktOTZETTV5ZjBvSkdNR1FUQllWQWdBLURPSnZqOGxPaHV0M20zcFhj?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-22T23:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
      "title": "البحرين تعلن إصابة اثنين بعد قصف إيراني في المنامة",
      "url": "https://www.bbc.com/arabic/articles/c3wy0w4kp48lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-22T22:27:42.000Z",
      "seen": "2026-11-22T22:35:18.166Z"
+    },
+    {
+     "title": "كيف تؤثر العلامات التجارية فى قرارات المستهلك قبل الشراء؟",
+     "url": "https://alborsaanews.com/2026/11/23/2008182",
+     "source": "البورصة",
+     "time": "2026-11-22T22:03:12.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
+    {
+     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 23 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQazhDc2gySHE2c0N3T0pUSVhXUGJFU0sxTHNlM0pqd1hKOG5qN1JXczBQbnpJbEJuRWVKSXgyNDV5X2JQOENZWmJlUzJQRjQxTG5sTER1aWl3VlNCUDR3aVdXOG5FQkJNNGVRUWY2T0c1eWtqYWxXWF9KeDlJbUNfOXZBdkJfakd6N1Zab0JrUFBBempha2tsem5ILVdONFo0OEZVV0psS0twenMyb1dramtORDdVV0YyVGtyMHQ4OE5zUnRkRFh4QUNuWE03TUdFalNRWm1tMHJ4T2Y4WmxwZUFvZDlxVU5ET0xpd1Etck56Q1hybm9LVW5ibnFwX1Azc0d6Y2R2dlhoMW5hRU9QYWh3anBjV2tBaENVYUp6VTdqeEFGNkJsZE85UDRLY05JVmZiNTRnOUx0VGx0WFhyc1hnVVNSRmUwUnlNQWktTEFCaHNMSUo4S2tGU051MmIycW1pVnRQNEVMRDRNeFZhcmxhbG9yMjducXFUeG5CSUV2am5WSDU4Um4xcXN6dnU0Z1dpdmdWdzdGWFhibnU0bEFBdnZZcDNYNEVDWTJraXU3MXB1enZEaFBuYk1WRklhZnV2b3BCWVBabXBZaGgxZ1R30gHMA0FVX3lxTE10MkFKNXdyYk1HN3FMellQMW5VamFUSlRkWkxJS1NEek1BZ1dxLWYtZUluVGFEU3AzYl9Xb2pBQ24tOU9vY1FUdkVpWUlaeGdNaUVjUnZJZkc1V1R2U2h2VWppSV9ySmNMem1nWmVlRWhpdlVIZFo1azlUbGRTcFRoZHhLcHhZZnFWXzJ5UmxhVTdNYzhNQVptbVZqMHZoWEphUjdlcXJvQXRxSUFDMFpHX05MaWkzbzJ6ZVI4U3hySGotLWpTNEhZaEd2ak1mN3piM1JpT0RWS0NkMGgwMWFYanA1eGpEUHlHYnNPXzBMOHpjNEgtV2N1UkxmRklqd2dkazM3T0ZRLVpjVnpnYjlpR1ByU1VORDhFbDJraWpndmFWbld4aFBkSlFEbl9uSU1Bb0ZMMGJFZElzaUtRdzhGU0duN3hQQUw4LUdscWZhQ0c0TmpnOTlNUExZXzg4Z0pfUjRwNTM1bHZfY25PSDlfVXdxVUl4VzVIaXVzeG5ncmEtUFhqSml4VE4zWElEdHRqVUJVMnF2aFMxUTJsUkVxN1E4MkxWd3Nlb2k2YkVzT3N5REFtNmFxSkIyQV82MFVQQnJUOWxGekJvQUo?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T22:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
     },
     {
      "title": "يقترب من 55 جنيهًا.. سعر الدولار يرتفع مجددا في جميع البنوك",
@@ -284,14 +305,6 @@
      "time": "2026-11-22T21:11:42.000Z",
      "seen": "2026-11-22T22:05:18.091Z",
      "impact": "تشكل مقومات مصر الصناعية فرصة لجذب مستثمرين جدد لقطاع الرخام والجرانيت وزيادة الإنتاج."
-    },
-    {
-     "title": "الحكومة تفتح خزائن الحوافز لتوطين السيارات الكهربائية",
-     "url": "https://alborsaanews.com/2026/11/22/2008242",
-     "source": "البورصة",
-     "time": "2026-11-22T20:47:19.000Z",
-     "seen": "2026-11-22T22:05:18.091Z",
-     "impact": "يمهد الطريق للمستثمرين والأفراد المهتمين بالسيارات الكهربائية للاستفادة من التسهيلات والحوافز الحكومية المتاحة."
     },
     {
      "title": "أميرة ويلز كاثرين تتحدث بصراحة عن تأثير السرطان في حياتها في وثائقي على بي بي سي",
@@ -337,20 +350,6 @@
      "time": "2026-11-22T19:20:00.000Z",
      "seen": "2026-11-22T19:25:03.708Z",
      "impact": "تهم المستثمرين والأفراد في مصر لمتابعة تغيّرات سعر صرف الدولار وتأثيره على القوة الشرائية وتكلفة الاستيراد."
-    },
-    {
-     "title": "سعر الدولار اليوم في البنوك المصرية.. تعرف على أسعار الشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VaG4yV2RBU3BCRUt5N21yN3UtVHB6M1BRT3h2VUdtQjBDclVDVHAxc3Jpdzd1aVNha0ZLOHAybmlrdXVy?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-22T19:19:53.000Z",
-     "seen": "2026-11-22T19:25:03.708Z"
-    },
-    {
-     "title": "أعلى سعر للدولار في البنوك اليوم الأحد 22 نوفمبر",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9xUENaTGtqVC1SSVlfN2JNQUJWT2tHMHRyLXBxbWV2S2s2czgwbDRLNkFhb1lUZzRRS1JwUmhJeEh5VjZ1?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-22T19:19:24.000Z",
-     "seen": "2026-11-22T19:35:04.111Z"
     }
    ]
   },
@@ -358,6 +357,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "\"لسنا طرفاً بنزاع روسيا وأكرانيا\".. مجلس النواب الليبي يعلق بعد استهداف سفينة في بنغازي",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/libyan-house-of-representatives-comments-russian-ship-attack-benghazi",
+     "source": "CNN بالعربية",
+     "time": "2026-11-22T22:52:50.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
     {
      "title": "مجلس النواب الليبي.. رفض لـ\"تصفية الحسابات\" وانتهاك السيادة",
      "url": "https://www.skynewsarabia.com/middle-east/1906379-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D8%B1%D9%81%D8%B6-%D9%84-%D8%AA%D8%B5%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
@@ -448,14 +454,6 @@
      "source": "الجزيرة",
      "time": "2026-11-22T19:13:20.000Z",
      "seen": "2026-11-22T22:25:17.213Z"
-    },
-    {
-     "title": "مصر: الحكومة تبحث احتواء موجة غلاء الهواتف.. والتجار يكشفون أسباب الارتفاعات",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/egypt-government-surge-mobile-phone-prices-retailers-reveal-hikes-reasons",
-     "source": "CNN بالعربية",
-     "time": "2026-11-22T19:12:54.000Z",
-     "seen": "2026-11-22T19:25:03.708Z",
-     "impact": "تخص المشترين والتجار في مصر لمتابعة أسعار الهواتف المحمولة والجهود الحكومية للحد من ارتفاعها."
     }
    ]
   },
@@ -463,6 +461,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "لعبة GTA 6 .. تحذيرات رسمية عربياً .. وحملة تفتيش في غريان الليبية",
+     "url": "https://aitnews.com/2026/11/23/gta-6-arab-warnings-restrictions/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-22T22:57:50.000Z",
+     "seen": "2026-11-22T23:05:17.614Z"
+    },
     {
      "title": "كبير علماء OpenAI يكشف مقاييس داخلية لتقدم النماذج ويدعو إلى حدود مشتركة لتطويرها",
      "url": "https://aitnews.com/2026/11/23/%d9%85%d9%82%d8%a7%d9%8a%d9%8a%d8%b3-%d8%aa%d9%82%d8%af%d9%85-%d8%a7%d9%84%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d9%88%d8%b6%d9%88%d8%a7%d8%a8%d8%b7%d9%87%d8%a7/",
@@ -560,14 +565,6 @@
      "source": "العربية",
      "time": "2026-11-22T15:58:00.000Z",
      "seen": "2026-11-22T20:25:17.425Z"
-    },
-    {
-     "title": "تقرير: الذكاء الاصطناعي يرفع حوادث الاختراقات وانقطاع الخدمات",
-     "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNUXBDY3E5bnp6V0dhSVlwRS1kQUpPZTdyZTVGenRMc2luaTNvTzJPQTVmWURhd0xvTFkxczhWOG1ibnJ0b1VTUWFFNWZCWXg2X0p5aFNfaTBzcUZjUFZ5R2NpVURRLVF6eDdTOFdxbGFhVTVSajl3NnZEYXhMcWJEeXdxcnJ2NU16cW5oWnR3SmFwSXJQT0FPeUhJblJxTm9rZGU0TUpFTFFhUC1IRjBLOW5wSGpONFRmeGdWc1RHYk9ZLUZsdFFzeUdERmo3OHFBTFo5TEs4S3luT3NJYzc5cHVsSVhsZzdFc2cwSEtoZWVRUjNyMHpRcktKcWttb29xcEotdEdLQnAtay02ek4yZFF1NUM5NXN4ZjhOQ0QtanB0enpqd1pEb0J3UXcwUjVIckxKUGdnUnJZWkFPdm9pQy1HVXdnb1k4NTN2bXg2aTdGQ0xjU2FBdkdHQWk4UmVaWE9hZ3dHOXlTbGZSWVRybVFZSVNia3ZDd0ZNLThwR1ZEakg1Q3dOMlNmV3Y4ajFsVEYwdER3LU9VMFFJV25zcHR2TUtsUVJYd2JnS2NyOGNpTzVURFRDczg1THZCR1ZSWDNMQUY0dFdCRWYzYXRQc18yWDYta0RUZFJQRk80VG5nOVpQV2VsSi05cGR6ejVSazloZ1NPcHk?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-22T15:54:04.000Z",
-     "seen": "2026-11-22T18:05:04.012Z",
-     "impact": "ينبه الأفراد والشركات لأهمية تعزيز الأمن السيبراني لمواجهة الاختراقات وانقطاع الخدمات المرتبط بتقنيات الذكاء الاصطناعي."
     }
    ]
   }
