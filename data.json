@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:13:49.166Z",
+ "updated": "2026-11-22T12:23:49.042Z",
  "minute": [
   "أعلن البنك المركزي المصري ارتفاع صافي الأصول الأجنبية إلى 19.1 مليار دولار بنهاية أكتوبر، بينما طرحت هيئة الاستثمار 22 فرصة استثمارية جديدة في بني سويف.",
   "أكدت هيئة الرقابة على الصادرات توفير مئات المعامل المعتمدة لدعم المصدرين، في حين استمر تتبع تحركات أسعار صرف الدولار في البنوك المحلية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T12:03:48.510Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T12:23:49.042Z"
  },
  "markets": [
   {
@@ -52,9 +54,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 49897,
-   "change": -3.2,
-   "asOf": "2026-11-22T11:58:49.000Z",
+   "value": 49840,
+   "change": -3.31,
+   "asOf": "2026-11-22T12:09:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61088,
-   "change": 1.65,
-   "asOf": "2026-11-22T12:13:45.000Z",
+   "value": 60571,
+   "change": 0.79,
+   "asOf": "2026-11-22T12:24:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزير الخارجية يلتقي نظيره المالي لبحث تعزيز العلاقات الثنائية وتطورات الأوضاع في منطقة الساحل",
-     "url": "https://www.elbalad.news/7190042",
+     "title": "المحافظ يستعرض رؤية 2040 أمام منتدى أسوان للسلام والتنمية المستدامين",
+     "url": "https://www.elbalad.news/7190032",
      "source": "صدى البلد",
-     "time": "2026-11-22T12:12:57.000Z",
-     "seen": "2026-11-22T12:13:49.166Z"
+     "time": "2026-11-22T12:22:17.000Z",
+     "seen": "2026-11-22T12:23:49.042Z"
     },
     {
-     "title": "مصر تدين الاعتداءات على مملكة البحرين بعد استهداف منشأة صناعية مدنية",
-     "url": "https://www.elbalad.news/7190041",
+     "title": "جهاد حسام الدين لـ«صدى البلد»: فيلم «برلين» تجربة مختلفة وصعبة| فيديو",
+     "url": "https://www.elbalad.news/7190043",
      "source": "صدى البلد",
-     "time": "2026-11-22T12:12:02.000Z",
-     "seen": "2026-11-22T12:13:49.166Z"
+     "time": "2026-11-22T12:22:14.000Z",
+     "seen": "2026-11-22T12:23:49.042Z"
     },
     {
-     "title": "يارا السكري تسافر إلى لبنان مع أحمد العوضي لتصوير «سلطان الديب»",
-     "url": "https://www.elbalad.news/7190033",
+     "title": "القبض على طرفى مشاجرة بسلاح أبيض بالغربية",
+     "url": "https://www.elbalad.news/7190057",
      "source": "صدى البلد",
-     "time": "2026-11-22T12:11:51.000Z",
-     "seen": "2026-11-22T12:13:49.166Z"
+     "time": "2026-11-22T12:22:09.000Z",
+     "seen": "2026-11-22T12:23:49.042Z"
     },
     {
      "title": "الكهرباء تستهدف زيادة القدرات المركبة من الطاقة المتجددة إلى 31.9 ألف ميجاوات في 2030",
@@ -163,6 +165,13 @@
      "source": "المصري اليوم",
      "time": "2026-11-22T12:09:00.000Z",
      "seen": "2026-11-22T12:13:49.166Z"
+    },
+    {
+     "title": "وزير الخارجية يلتقي نظيره المالي لبحث تعزيز العلاقات وتطورات الأوضاع بمنطقة الساحل",
+     "url": "https://www.youm7.com/story/2026/11/22/وزير-الخارجية-يلتقي-نظيره-المالي-لبحث-تعزيز-العلاقات-وتطورات-الأوضاع/7628166",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T12:08:00.000Z",
+     "seen": "2026-11-22T12:23:49.042Z"
     },
     {
      "title": "مصر تدين الاعتداءات على مملكة البحرين",
@@ -178,13 +187,6 @@
      "time": "2026-11-22T11:59:00.000Z",
      "seen": "2026-11-22T12:03:48.510Z",
      "impact": "يتيح التعاون مع جامعة هايدلبرج فرصاً أكاديمية وبحثية أفضل للطلاب والباحثين في جامعة القاهرة."
-    },
-    {
-     "title": "أمين «البحوث الإسلامية» لخريجي الوافدين: كونوا حصنًا للوعي في مواجهة الغلو",
-     "url": "https://www.youm7.com/story/2026/11/22/أمين-«البحوث-الإسلامية»-لخريجي-الوافدين-كونوا-حصنًا-للوعي-في-مواجهة/7628069",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T11:57:00.000Z",
-     "seen": "2026-11-22T12:03:48.510Z"
     },
     {
      "title": "تحركات حكومية لتغيير خريطة الكهرباء في مصر.. ومدبولي يتابع المشروعات الجديدة",
@@ -241,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الصرف بالبنوك نهاية تعاملات اليوم الأحد 22 نوفمبر",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12ZXNTVVhFbVVqTEJhMHhYbWg3M1V5N2VfRU9PRVFDcmlBdTlMYllTY0kyY0Z5UEIwZHBRLU1UNl85X3BTYThXZnBlMXoyVDhRMEI3dw?oc=5",
+     "source": "الأهرام اوتو",
+     "time": "2026-11-22T12:17:03.000Z",
+     "seen": "2026-11-22T12:23:49.042Z"
+    },
     {
      "title": "السعودية تعلن اعتراض صاروخ حوثي وسط استمرار الغارات على اليمن",
      "url": "https://www.bbc.com/arabic/articles/cq98x50lgr4jo?at_medium=RSS&at_campaign=rss",
@@ -305,7 +314,7 @@
      "title": "سعر الصرف اليوم الأحد 22 نوفمبر 2026.. الدولار واليورو والإسترليني والريال السعودي",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nTlF2VjFIX1V2NThxOUZNdGZKOVVZMFFxbTA1YW5MZ0k4Q29Eb04yblNuNFRyMHVmTTR6U19KUGZMbDBKYWc?oc=5",
      "source": "القاهرة 24",
-     "time": "2026-11-22T10:48:36.000Z",
+     "time": "2026-11-22T10:51:12.000Z",
      "seen": "2026-11-22T10:53:49.017Z",
      "impact": "يهم المستوردين والمستثمرين في مصر لمتابعة تغيرات أسعار العملات الرئيسية وتأثيرها على السلع والخدمات."
     },
@@ -339,14 +348,6 @@
      "time": "2026-11-22T10:07:18.000Z",
      "seen": "2026-11-22T10:13:48.887Z",
      "impact": "ساعد الأفراد والمستثمرين على تقييم أسعار الصرف الرسمية الصادرة عن البنك المركزي المصري."
-    },
-    {
-     "title": "سعر الدولار يستقر فوق الـ 54 جنيهاً بمنتصف تعاملات اليوم الأحد",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNSWpveG9EY0h2eUtsMHhiNHBuajFMNU9VZWNMQ1oyYkszNGJqMHk2Qmh5NzRaaEVKeXBpczlQSHNVb3prckM2US1DdFpLN1prRnhsRWphLU1rbXhBU0dEODQzbDd1MUJkN3ZyMWdjMXVSa0ltMGJadnEzRXBtQ1lEQkpMcktBd2piNDBBRWNfbDl1X09kdVV1d25qVEN1bUxQU2Z4Y05kajFfWmtYYm5iV0NKLWlzWUMzMlFkN3AyWGp0a0pnX2x1SHBqaDNmZVdfbXl4QkFMb3ZEeF9VSHROT0UyM2Z2QkFqOHJXQTFjM0FJN2VENUpEcGQ4MjVxcmlreDZieUtHVzNWN0tMSlpkaUhaeWVsNmxiUTB0ekpHUU5COWFmU0pFT09FaXdoT0tid3VCYkdUMXowbjVFWlNMaGtGWDVIWHZ1M3dnVVhIUHF0dG43RjJWWnZqb05wVVdOTTUtVlBOSjBJNG5GR0w3TGxfdXJTWFpGbTFLQlJ5c0ppdnl0RkpHUlMtejFfVlVtMndIN2VlN3NJVVppUXVyYVhOeXFURHBiM3JjXzRYSkY4SFZCTWxYY283QTczNUFCODdib2p0cThubXdBMDhLVldB0gHMA0FVX3lxTFBRNmZOLXFQdEkzVmx6ZEs5V01faWVJNzZkaWlDNFZZejY1TWFmc2ZXVi1tamFQdFZaOEdCdkdETjRiXzBkSzVURmpDTjdMelBab05mVUNrRkJZYzhHTUFJY3ZKTnFUMVVybGRfOFlMMzAtMlVWRzd1LTZqUFc3TzNxRFRxVnFUaU1lbmZ2MHF2QmlrZjQ2OXZSU0VVdkhCRzR3VGEycERraUkyVThJLTljaDJnX2pCbXFrODlXUG9NWU1zbWtjajhiWkZQZUp1RjNENFU4WlNfT2E3SlhWVWVsTjJIRHF5V3pxdmdNeFdSdkNaYXR0X1RNN1ZyQ3BkbEhBd0VYMUFxSUFVcGcwRVdlb0o1ZkJfS0xlNWFfNk1mM0ZFajFFa29ON3pFeUxVTS1Bc0xfMFl2N3kxTzlNSFFIWGxOUktwcmxjUW8xQ1dWQlozQXZySTFNQWVlcEJYSjU0Q2pNU0hJZW1GajBtM1VIUDlRNkYtTTJjcHlHQnBlWi11MjR0ZjFNSjhSdGt5ZlN5OURtcFFFWWRYclF5dDBiQjRWZTNuTXl0Y1FxWFFJdzVQZUNLdWh4RVBDODZibzNTSGNYRFVpV0Qza2c?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T10:01:00.000Z",
-     "seen": "2026-11-22T10:13:48.887Z",
-     "impact": "يؤثر استقرار سعر الدولار على تحديد تكاليف الاستيراد والأسعار المتوقعة للسلع في السوق المحلي."
     }
    ]
   },
@@ -435,6 +436,13 @@
      "impact": "يهم المستثمرين للتعرف على مستويات التوتر الجيوسياسي وتأثيرها المحتمل على استقرار الأسواق الإقليمية."
     },
     {
+     "title": "«سبيد» ينهى لعبة GTA 6 بعد بث مباشر استمر 52 ساعة متواصلة دون نوم",
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQQlduWk9BMW5CWlk5aUJRdjRheUQ3TmlTRWs1bmdBNWtfNmFaSV9HWjdxZGtXRERad1hJaEl1bFpZLWFSWVdnMl9NcDhOZW1PRkRmX2RiVE1xY19ZTnJ2OGRBdHBuMkVaekN2VGRScnlENkt1S0ZYSFBKeGI5NWZTMl9KNm92MjF6MGtkZ2Z4N0hUb1hSNjB2NGxGZUgtbnZkaE5PbTBGRTRhRG5TaG1sMGR5NnhJV0R3dFctTUx2d2hBR1pyMldhdGZTNDRfLV9IRE8xejg3N0ZTS3NEZm4wR25nbXVERXdkU0NzazctQzZWdzVIR0M4TGxJMzd2MWNab0lVazR1akQxd2RsQmg0MXJqRk5KdF9valJyQWpGQzJKQWVGRlJ2cWJ6X0FfWjV5TjdMMHJSZkVTZzNkRWhmTUV0RDZ1OGlVZzM2eGZOV0RrakpKSE9F0gHSAkFVX3lxTFB6Y1FGSnZCLUFlUVdvNXRWaXpISVU3U0xrbldRY0lMQVFnRDV3WmM4LTVHOWhMcnJGTF83WXVqLUxuT3p4R1RsR2xySmE5dUIyaDNHcDVoWF9hNHQwWHdOcEhJS1EwRGRoR3k0czVZUnEydWlxQWFqRVZaWFFTSEZhMjhOZjFRTkpQcml3Y2ljS0Zub3p6RjFfb2VRNE9KNk1FYVpDMXhLMFR0T0lndi1tbWZaQ3lDQ3hEVlh0dVduamZzSE5YVFFxelhsc1FpZ3RtWVFYb2JrOGU3NFVPSEJUWnVsTzllNDhqVkEwT1BCcnBhdTRBYnU4bVFKaDVWSUtSTTlfVzByQ1ZjaFNkcTF3WnBYQXZvcVB2OWVyV3JYaVVsTTQ1MGIwWTRXTXBtSEc0SlNQbXZYSDRtWXJqSTBORUpIdzdpLXpDSjlfZ3hJOFZB?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T09:34:00.000Z",
+     "seen": "2026-11-22T12:23:49.042Z"
+    },
+    {
      "title": "قرقاش: التنافس الجيوسياسي لا يقل خطورة عن الحرب مع إيران",
      "url": "https://www.skynewsarabia.com/middle-east/1906311-%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%85%D9%88%D8%A7%D8%B2-%D9%84%D9%84%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D9%82%D9%84-%D8%AE%D8%B7%D9%88%D8%B1%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -447,13 +455,6 @@
      "source": "BBC",
      "time": "2026-11-22T09:24:12.000Z",
      "seen": "2026-11-22T10:53:49.017Z"
-    },
-    {
-     "title": "انفجارات تهز محيط ميناء بنغازي والدفاع المدني يكشف سبب",
-     "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPd1JIaVQ4T0RHanczVVlBTGtqaWNtd1hTZ3lTSFRudFRaRnc3enhRMTI3WVI4T3ZSY20wYnNQYUNzc2hVREFlaENKblFrLTQxeUZCdGF0VnREQy1SdXlZRTI0dGNfZnF5VGpGanJtYTRWcDJNeThwaWI3SllxV3NiQWp2eTc2NXNubzVkR0d0RlFuUWw3Sktab1IydmRNYy1DbVhQczctR3pMSGF6QjM2cG1kWW5zZ1d3d3p2ZDdZYmxqTVpNYm92Wk9YdGpmcmhyUDB4U1JzR2RBNC1WM3FzcHZ4YzFOUWdlN1B1bm5HcVp5UzZYTTNvM01jLVRnMDJuVEZkMkVRdHIxcVA2UWZ2QVdUQXBkNUtaaDFwZnZXc1ktbUNJa3VtTnRuVFBMaGF0bVpaVWxSQVYxcXRzNEFLVXNtUGpyQXY2cjZQNGtBNVRPbmlGU181VURyS18weUVzS3FWS2FRNkxnWGN4dkVRNVNSNmdueC0xbXFXR1otcTFaMmVoQlFkRnBmU195bHpHTG9hdUpONmQydHZ2SkZpaUhnZXFYUnpYZm5oWExCU1BTaGEwRmk2T2pZbDlqQ2JDd1RUTGVzVDZiQUxGX3dlYzNydFk0YW9VdmoyNEN1c1htaGEzanRmMW82ZURIaEZhRUlFSXdQalYyS1nSAYAEQVVfeXFMT0YtZkp6NVRVaWtwVWtYM0k1RkNoOTA4ZDd3WklXeU0zY2g2bHZlODNBMVI5dXFHb01kTUhaSTVONlIzcU5OX1B5Yk9qNVdHN05jVjlDamJISHFnMHV0dzU3c3ZuWURGS0RFcnFRcG52enpodWZsM3VUT3FzLU4zbjd3aEExUGV4SjN1ZjZ4RjNLWTEzZm8xSUVQeU8xdzNxZWxGSVplOFJoQ3B0bXBTY1pkcC1tSHRBLURsZkUtdE1CTVNUUUpVdGFIXzFOTnV6MUtaejZ0SktSWm9PU0FZWHBGS213YjROWkNQcjBiTnJiT3o1LTc3Vmh3MmwtZ25oUzNON1RRTUZ5b2NIOXNWUW1uTjZyaWM1bEtrbFZ6eUZCUllXQ2VKNHowQ3IzYmhGS29xamxGRW9VUUxPU05oczBicXFzZTRvUUItd0hJUDE2bU42RGwzMS0wa29Qbnh5bDZZcklSNjdxZ0tUcG10T2d4NGJlelVJVksxbFdwVG5YN21OUU9McnVMM21haVNXRk1DcVdIcTdRNWNEUjFERk0xWk9GSWw1QTd4RDh6TWxBSkFNVW83Z0h2V191bXdsUUhUaDk5WEMzZldNRE9lcTFkVjR2aTJIOWs1NENCZElrdVJuaFY0d19FOENjUTlOZTNCUXBTUHRWaV85a2tLa08?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-22T09:17:00.000Z",
-     "seen": "2026-11-22T10:33:48.981Z"
     }
    ]
   },
