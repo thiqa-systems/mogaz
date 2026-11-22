@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:35:17.997Z",
+ "updated": "2026-11-22T21:45:17.486Z",
  "minute": [
   "استقر سعر صرف الدولار أمام الجنيه المصري في ختام التعاملات، وأوضحت الرقابة المالية أن العقد النموذجي الجديد يضمن حقوق العملاء وشركات التمويل.",
   "كشفت شعبة الاتصالات في مصر عن سبب توقف بعض الهواتف المحمولة وطريقة إعادة تشغيلها، فيما تم التعامل مع خروج عجلة قطار بضائع بالعياط دون إصابات.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T21:25:18.136Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T21:45:17.486Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60883,
-   "change": 1.31,
-   "asOf": "2026-11-22T21:35:16.000Z",
+   "value": 60942,
+   "change": 1.41,
+   "asOf": "2026-11-22T21:45:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "فتاوى تشغل الأذهان| هل أرباح السوشيال ميديا حلال أم حرام؟.. حكم وضع الملابس غير النظيفة في الغسالة أثناء الوضوء",
-     "url": "https://www.elbalad.news/7190816",
+     "title": "في وقت قياسي.. السكة الحديد تُعيد عجلة قطار بضائع خرجت عن القضبان بالعياط",
+     "url": "https://www.elbalad.news/7190825",
      "source": "صدى البلد",
-     "time": "2026-11-22T21:33:10.000Z",
-     "seen": "2026-11-22T21:35:17.997Z"
+     "time": "2026-11-22T21:43:17.000Z",
+     "seen": "2026-11-22T21:45:17.486Z"
     },
     {
-     "title": "يفتح لك أبواب الرزق المغلقة.. ردد هذا الذكر واستعد لألوان الأرزاق كلها",
-     "url": "https://www.elbalad.news/7190808",
+     "title": "مش ندمانة | روجينا: والدي قاطعني لسنوات بسبب التمثيل.. ومسامحته كانت أصعب قرارات حياتي",
+     "url": "https://www.elbalad.news/7190806",
      "source": "صدى البلد",
-     "time": "2026-11-22T21:32:22.000Z",
-     "seen": "2026-11-22T21:35:17.997Z"
+     "time": "2026-11-22T21:42:26.000Z",
+     "seen": "2026-11-22T21:45:17.486Z"
     },
     {
-     "title": "مدير «الأزهر للفتوى»: الإسلام رسالة رحمة وسلام وتعايش.. والفهم الصحيح للدين حصن من التطرف",
-     "url": "https://www.elbalad.news/7190811",
+     "title": "روجينا: ابتعدت عن التمثيل 4 سنوات بسبب زواجي من أشرف زكي",
+     "url": "https://www.elbalad.news/7190807",
      "source": "صدى البلد",
-     "time": "2026-11-22T21:30:13.000Z",
-     "seen": "2026-11-22T21:35:17.997Z"
+     "time": "2026-11-22T21:40:47.000Z",
+     "seen": "2026-11-22T21:45:17.486Z"
     },
     {
      "title": "وزيرا التعليم والتعليم العالى يكرمان الفائزين بجوائز القومى للمسرح المدرسى.. صور",
@@ -243,6 +245,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "أخبار الاقتصاد اليوم: الرقابة المالية تصدر العقد النموذجي للمتعاملين في التمويل الاستهلاكي، ارتفاع سعر صرف الدولار في البنك المركزي، زيادة جديدة بسعر جرام الذهب",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xd1JWWUtmRlpTQWVPY0pXcXV4ZGxKc2hjb3F4cHJSNGJVN21QcS1HX19EcmRCZzQ4c0I4UG1MLW9kaW1QYWZB?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-22T21:30:00.000Z",
+     "seen": "2026-11-22T21:45:17.486Z"
+    },
     {
      "title": "أميرة ويلز كاثرين تتحدث بصراحة عن تأثير السرطان في حياتها في وثائقي على بي بي سي",
      "url": "https://www.bbc.com/arabic/articles/c3vg27zxqn7vo?at_medium=RSS&at_campaign=rss",
@@ -338,13 +347,6 @@
      "source": "البورصة",
      "time": "2026-11-22T18:34:56.000Z",
      "seen": "2026-11-22T19:35:04.111Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه في البنك المركزى المصرى اليوم الأحد",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNZWpaUGtqZHhTbkplMkpNMU1sRUxWbEhsdFByMjhHSUFLOW1hMTlpd0w1cHJzTFFhMC1GcmcwYzVHS09yN3hGaU1RbHJCdzhINEx2UFQ3N1JtQm5scW5maUh3Xzg3TXRlR1Blei1sQVVpbEhTbENKR1FhOVRZemIwQkxVRFI0eGR6WjQzZWtkc25HaGtyWlBQM0JtclNBSVBaa2tCV2EweFFzTVFIWEdkaWptWkxYQ0hXdUVjbG5uOEJOaTNPSzZEV0lfdUNrV01ucC1qOTZaNEJhUXZqZlNUWWEyX1cyV2JKbFh0Skk4cUZlaU13TTNuN2ZfdS1NaWdYYkVNeDJKek9kcm4zQzQxN21KNXFPdjVhNmpvb2NYZkdRekhmR0d0c0xBaGtVdUZaUG9hQWxCQnV0b0UyNlpZc1o4cDY3Mk9jUzhFdUdsY1dmUkNsV1dncUU3aDJ2R3otTlh3aW00b0s4ZDBNaW1QcmRiVkdKNnh1cUtES3BYV19SZEdVcGxkOFg3OFprb0FKemphd2xSbEV2M1I5NUVKclhlem56MHVrd19ESm42eHVQTDVYRDU4cW50aE5jX0VEZktBTUxTczA4RXExNlRUZDR0bndoLS1pcG4xUnFsaVVUZ9IB4gNBVV95cUxNZWpaUGtqZHhTbkplMkpNMU1sRUxWbEhsdFByMjhHSUFLOW1hMTlpd0w1cHJzTFFhMC1GcmcwYzVHS09yN3hGaU1RbHJCdzhINEx2UFQ3N1JtQm5scW5maUh3Xzg3TXRlR1Blei1sQVVpbEhTbENKR1FhOVRZemIwQkxVRFI0eGR6WjQzZWtkc25HaGtyWlBQM0JtclNBSVBaa2tCV2EweFFzTVFIWEdkaWptWkxYQ0hXdUVjbG5uOEJOaTNPSzZEV0lfdUNrV01ucC1qOTZaNEJhUXZqZlNUWWEyX1cyV2JKbFh0Skk4cUZlaU13TTNuN2ZfdS1NaWdYYkVNeDJKek9kcm4zQzQxN21KNXFPdjVhNmpvb2NYZkdRekhmR0d0c0xBaGtVdUZaUG9hQWxCQnV0b0UyNlpZc1o4cDY3Mk9jUzhFdUdsY1dmUkNsV1dncUU3aDJ2R3otTlh3aW00b0s4ZDBNaW1QcmRiVkdKNnh1cUtES3BYV19SZEdVcGxkOFg3OFprb0FKemphd2xSbEV2M1I5NUVKclhlem56MHVrd19ESm42eHVQTDVYRDU4cW50aE5jX0VEZktBTUxTczA4RXExNlRUZDR0bndoLS1pcG4xUnFsaVVUZw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T18:03:01.000Z",
-     "seen": "2026-11-22T20:05:17.534Z"
     }
    ]
   },
@@ -379,13 +381,6 @@
      "source": "فرانس 24",
      "time": "2026-11-22T20:31:25.000Z",
      "seen": "2026-11-22T20:45:17.353Z"
-    },
-    {
-     "title": "\"لنبدأ العمل\".. عبد الرحمن السيد يعلق بعد منشور من ترامب",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekZjTDJsMXV5ejNkVmJWUlhfTUtrZEZwRHpiZGp1bWl6SlNici1ZejdxTWxzUUdzY0tJNnBDMGZVT19ETDJMcG9IcXJIaHhlQ0lwMGhGeWFncjB5VEZJVjdCLUtwLXFIUnlPYzg4WG1xZ3FsTzczcDVPV0tYUWdaODhQR2h4S010aXNkNzZfTGVtN1hNX2hkRWcwRnlacnB2ZGZtaHJKTVRWXy01bDdCbjh4NGx3X3I5cnZrZ3N3?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-22T20:25:12.000Z",
-     "seen": "2026-11-22T21:35:17.997Z"
     },
     {
      "title": "كوب 31: انتهاء المؤتمر بدون التوصل إلى اتفاق",
@@ -450,6 +445,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-22T18:40:43.000Z",
      "seen": "2026-11-22T18:45:03.545Z"
+    },
+    {
+     "title": "رغم الحمى.. فتاة تقتحم منزلا تحاصره النيران وتنقذ طفلين",
+     "url": "https://www.aljazeera.net/misc/2026/11/23/%d8%b1%d8%ba%d9%85-%d8%a7%d9%84%d8%ad%d9%85%d9%89-%d9%81%d8%aa%d8%a7%d8%a9-%d8%aa%d9%82%d8%aa%d8%ad%d9%85-%d9%85%d9%86%d8%b2%d9%84%d8%a7-%d8%aa%d8%ad%d8%a7%d8%b5%d8%b1%d9%87?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-22T18:18:10.000Z",
+     "seen": "2026-11-22T21:45:17.486Z"
     }
    ]
   },
