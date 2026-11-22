@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-22T12:33:48.656Z",
+ "updated": "2026-11-22T12:43:49.156Z",
  "minute": [
-  "أعلن البنك المركزي المصري ارتفاع صافي الأصول الأجنبية إلى 19.1 مليار دولار بنهاية أكتوبر، بينما طرحت هيئة الاستثمار 22 فرصة استثمارية جديدة في بني سويف.",
-  "أكدت هيئة الرقابة على الصادرات توفير مئات المعامل المعتمدة لدعم المصدرين، في حين استمر تتبع تحركات أسعار صرف الدولار في البنوك المحلية.",
-  "شهدت مصر أنشطة محلية شملت تسليم مدفن صحي آمن بالمنيا، وتدريب طلاب الوادي الجديد على نظم المعلومات الجغرافية، وتطوير التعاون الأكاديمي بجامعة القاهرة."
+  "شهدت مصر تطورات اقتصادية شملت ارتفاع سعر الدولار وزيادة صافي الأصول الأجنبية بالبنك المركزي، بالتوازي مع خسائر في البورصة المصرية.",
+  "على الصعيد الإقليمي والدولي، تواصلت التصعيدات العسكرية في المنطقة، إلى جانب تظاهرات في أوروبا وتجاذبات في مؤتمر المناخ.",
+  "وفي المجالات التقنية والطبية، تناولت الأخبار أبحاثاً تنبؤية بسلامة القلب وتحديثات واجهة أجهزة سامسونج وتحقيقات حول تهريب الرقائق."
  ],
  "ai": {
-  "at": "2026-11-22T12:03:48.510Z",
+  "at": "2026-11-22T12:43:49.156Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-22T12:33:48.656Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -54,9 +52,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50042,
-   "change": -2.92,
-   "asOf": "2026-11-22T12:15:00.000Z",
+   "value": 49990,
+   "change": -3.02,
+   "asOf": "2026-11-22T12:25:01.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60584,
-   "change": 0.82,
-   "asOf": "2026-11-22T12:35:06.000Z",
+   "value": 60704,
+   "change": 1.01,
+   "asOf": "2026-11-22T12:46:23.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +137,42 @@
    "title": "مصر",
    "items": [
     {
-     "title": "القبض على ديلر مخدرات يروج لبيع السموم على الإنترنت",
-     "url": "https://www.elbalad.news/7190061",
+     "title": "أشجار غامضة تنبت على المريخ .. ناسا تكشف الحقيقة",
+     "url": "https://www.elbalad.news/7190082",
      "source": "صدى البلد",
-     "time": "2026-11-22T12:31:29.000Z",
-     "seen": "2026-11-22T12:33:48.656Z"
+     "time": "2026-11-22T12:42:51.000Z",
+     "seen": "2026-11-22T12:43:49.156Z"
     },
     {
-     "title": "ركود يضرب سوق الملابس.. تراجع المبيعات 50%",
-     "url": "https://www.elbalad.news/7189984",
+     "title": "هزة قوية في البورصة المصرية.. 153 مليار جنيه خسائر رأس المال السوقي بمنتصف التعاملات",
+     "url": "https://www.elbalad.news/7190084",
      "source": "صدى البلد",
-     "time": "2026-11-22T12:31:27.000Z",
-     "seen": "2026-11-22T12:33:48.656Z"
+     "time": "2026-11-22T12:42:43.000Z",
+     "seen": "2026-11-22T12:43:49.156Z",
+     "impact": "تهم المستثمرين في مصر لمتابعة تقلبات السوق والتراجعات في القيمة السوقية للأسهم بالبورصة."
     },
     {
-     "title": "أسترازينيكا: 480 مليون مريض بالانسداد الرئوي المزمن عالميًا و80% تُكتشف إصابتهم في مراحل متأخرة",
-     "url": "https://www.elbalad.news/7190065",
+     "title": "هل الضرب يصنع طفلاً مهذباً أم شخصية ضعيفة؟.. أسس التربية السليمة وطرق العقاب الصحيح",
+     "url": "https://www.elbalad.news/7190083",
      "source": "صدى البلد",
-     "time": "2026-11-22T12:30:36.000Z",
-     "seen": "2026-11-22T12:33:48.656Z"
+     "time": "2026-11-22T12:42:13.000Z",
+     "seen": "2026-11-22T12:43:49.156Z"
+    },
+    {
+     "title": "3 عقود في خدمة ملايين الركاب.. المترو يحتفي بمرور 30 عاما على الخط الثاني",
+     "url": "https://www.youm7.com/story/2026/11/22/3-عقود-في-خدمة-ملايين-الركاب-المترو-يحتفي-بمرور-30/7628213",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T12:37:00.000Z",
+     "seen": "2026-11-22T12:43:49.156Z",
+     "impact": "تهم أفراد المجتمع المصري المستخدمين للمترو لمعرفة مستوى انتظام وكفاءة خدمات النقل العام."
+    },
+    {
+     "title": "مدير التنبؤات بـ\"الأرصاد\": التغيرات المناخية قلصت دقة التنبؤات الفصلية",
+     "url": "https://www.youm7.com/story/2026/11/22/مدير-التنبؤات-بـ-الأرصاد-التغيرات-المناخية-قلصت-دقة-التنبؤات-الفصلية/7627899",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T12:34:00.000Z",
+     "seen": "2026-11-22T12:43:49.156Z",
+     "impact": "تهم الأفراد والقطاعات المرتبطة بالطقس كالمزارعين في مصر للتكيف مع صعوبة التنبؤات المناخية."
     },
     {
      "title": "فيديو توعوي.. وزارة النقل تستعرض مزايا الموانئ الجافة وميناء أكتوبر فى دعم التجارة",
@@ -171,20 +186,6 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sZFJlZVNzcWtQdnYzOE12dHcyY3JWX3RWc3RGcld2VkVmSl9DWjF1NFJmYlQ1ZU1kRDE0M2xNLWpkZkxPSUpLUjhRMEdSNDk4QkJWUVJpMHJCM21Lckw4?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-22T12:09:00.000Z",
-     "seen": "2026-11-22T12:13:49.166Z"
-    },
-    {
-     "title": "وزير الخارجية يلتقي نظيره المالي لبحث تعزيز العلاقات وتطورات الأوضاع بمنطقة الساحل",
-     "url": "https://www.youm7.com/story/2026/11/22/وزير-الخارجية-يلتقي-نظيره-المالي-لبحث-تعزيز-العلاقات-وتطورات-الأوضاع/7628166",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T12:08:00.000Z",
-     "seen": "2026-11-22T12:23:49.042Z"
-    },
-    {
-     "title": "مصر تدين الاعتداءات على مملكة البحرين",
-     "url": "https://www.youm7.com/story/2026/11/22/مصر-تدين-الاعتداءات-على-مملكة-البحرين/7628182",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T12:07:00.000Z",
      "seen": "2026-11-22T12:13:49.166Z"
     },
     {
@@ -247,7 +248,8 @@
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12ZXNTVVhFbVVqTEJhMHhYbWg3M1V5N2VfRU9PRVFDcmlBdTlMYllTY0kyY0Z5UEIwZHBRLU1UNl85X3BTYThXZnBlMXoyVDhRMEI3dw?oc=5",
      "source": "الأهرام اوتو",
      "time": "2026-11-22T12:17:03.000Z",
-     "seen": "2026-11-22T12:23:49.042Z"
+     "seen": "2026-11-22T12:23:49.042Z",
+     "impact": "تهم المستثمرين والمواطنين في مصر لمتابعة مستويات أسعار الصرف وإغلاقات التعاملات المصرفية."
     },
     {
      "title": "السعودية تعلن اعتراض صاروخ حوثي وسط استمرار الغارات على اليمن",
@@ -261,7 +263,8 @@
      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOdWJXTjI1OVRENWdPdEo1bEFXUGZjQ2hhWk1xV1BlWUx6ZjAzN0dISUR6UF95RkR3NV9LMnB1VThCdEdsY2FlblVkZ2xPTnc4d1lxMlZaWTA1VVJwUjZnV3MxSXhPaEU5a2I0NG1hakduZXRDWE9UY3RuZ1BEVWpMelhOMjBpZ0hzZHVHSUxYemFoR2o2RUwyMUJBMTJjclduY21rVmFWc1dzM21GcWt2dW40QTVoQnJ2QXdXa180NXZVYVptSW9iLUVtamhhaV8tUlVCV0V3VjRud3lsXzhHb0NfOXE4c24wMkpVbmNnZF9pMDl0a19PVGEwTFhySzRlejMxWlFzbzloTHd3dWJjWWRsUUN1ell6aVRTMEEweTExSXN4bHVSUDhIX0JUWnNaQUJjN3RCY1ZyeVQyRG9zOFFLZzlzOVBoeTFDY3BwcUxiSVdKdTM1dm1vVDJpT2ZmOEdXcTBXY2Q0V0hOMFV2bHF1aUYyLW5KejNRM3BRUnZwVnE0dnMtVnFHQlhQNDZRbmpKWGk1aEtHREttVHF0U2ltb3BORnBGQkF2SlZjZUJQcWxIMGRycGdEbEtmcmVxYmszMVJHTkxMYWgwUFExOWhIb1ZWcnRlWjVXSm9aUXZVX0Z1c1pLZndSQzJzZmd3Rnl4NWV4MXVVa0NFWTVV0gH6A0FVX3lxTE9WUGE2eHVJdjNEbjRVR2Z1cXBWNy1IN3ZMQ2hjeUlyQ21SZVl6RzZTV2twaWZWMzBpaUlqUF80N3doV1A3LTg5SE1YYWVMb3Z1Y2duemdjRkRGNzdTZG9ObmpScGZ0OVMySkxfcVRaVHRwN3AyZ0REVkhMQWJkb3lXb2tVeDVGeWMtNThkRVZZYXJvVldUQl9sRWthcW11WDNjSGpBWm5WMWNCV3FaYUlBM2Q0UENNdHVNRzYtZjVKZEU1RlRVYkdHMFNBd1NtMzcwRHJmUnZNRnNXZDhqbnRQOXRBd2FXSUt1WWVQb1pRMjdwYVpnNkRPZUdBUUtLbkh3bmlDTW5UZzd2ajgyX1J6bG5nUGd5OVZKWGhqeUtfTjU0OG1NMEJXcXRvR1M5MlRqUk9nd2x4dWxnV2w4X3hjMkNZaDA0U09zdktLbkQtNlo4dXh5MUJxSy03SUtIZElaeGh3cEt3cDVpZ2ZZS1pFM2JDOGdGV2JPX01jcUxqSXZDaXBjR2pOczdyUlZNWTFCTzllanFXaTUycHQ3TFE0eHZnT2dGbUR3WTc4QVlMU3J1cXh0a1FrclJ5dE9OejZqQ0pJcVVvQzJsWjVHalg3RzdMcHJXTDNObEUyNk5EaERzOTZ6SHRCbzdNd2dWSzZDNWFvRWU5YW13?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-22T12:08:00.000Z",
-     "seen": "2026-11-22T12:13:49.166Z"
+     "seen": "2026-11-22T12:13:49.166Z",
+     "impact": "تهم الأفراد والمستثمرين في مصر لما لارتفاع سعر الدولار من تأثير على أسعار السلع والتكلفة المعيشية."
     },
     {
      "title": "البنك المركزي: صافي الأصول الأجنبية يرتفع إلى 19.1 مليار دولار بنهاية أكتوبر",
@@ -269,7 +272,7 @@
      "source": "جريدة المال",
      "time": "2026-11-22T11:51:04.000Z",
      "seen": "2026-11-22T12:03:48.510Z",
-     "impact": "يعكس ارتفاع الأصول الأجنبية تعزيز الاستقرار النقدي في مصر، مما يؤثر إيجاباً على ثقة المستثمرين."
+     "impact": "تعطي انطباعاً للمستثمرين حول وضع السيولة الأجنبية ومدى استقرار القطاع المصرفي المصري."
     },
     {
      "title": "كيف وجدتْ أوروبا نفسها على قائمة رغبات بوتين؟ - مقال في الغارديان",
@@ -481,7 +484,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T10:00:00.000Z",
      "seen": "2026-11-22T10:43:48.327Z",
-     "impact": "يقدم الاكتشاف الطبي معلومات قيمة للأفراد المهتمين بالوقاية الصحية والمستجدات الطبية للقلب."
+     "impact": "تهم الأفراد والمهتمين بالرعاية الصحية لمتابعة التطورات الطبية في التنبؤ بالأزمات القلبية المفاجئة."
     },
     {
      "title": "سامسونج تختبر نقل إشعارات Now Bar إلى أعلى منتصف الشاشة على غرار Dynamic Island",
@@ -489,7 +492,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-22T09:21:34.000Z",
      "seen": "2026-11-22T09:23:49.256Z",
-     "impact": "يفيد مستخدمي الهواتف الذكية في مصر للتعرف على التحديثات والميزات القادمة في واجهات الأجهزة."
+     "impact": "تهم مستخدمي ومشتري الهواتف الذكية في مصر لمتابعة المزايا الجديدة المخطط لها في أجهزة سامسونج."
     },
     {
      "title": "المشروع الأضخم: هل يتمكّن الأردن من تحقيق استقلاله المائي؟",
@@ -536,6 +539,13 @@
      "seen": "2026-11-22T10:43:48.327Z"
     },
     {
+     "title": "«طيور الكعبة» وانتحال أصوات العلماء.. الذكاء الاصطناعي يدخل عالم الشائعات الدينية.. «المؤشر العالمي للفتوى» يكشف خريطة التضليل محليًا ودوليًا.. تقرير يرصد 15 منصة ويحذر من التزييف العميق",
+     "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxPZlo1TzhGUGFWR241WHJHRnR2emtkbXM1cms5U3NwR3Rsa1F4OUZ6eFBBLV9QRlRvb09RbUJzUGZzWEZIdkt6WHBocnpmdUY4TUFXU2FuN3NaeWo3SXhsZ2hBdm9jZFhEbnBEMzhMZ01raFBrZnhVam9Wb2U1ak1Zb0E0Unk3RjVNWXRKTE1vV2ZXQWkzTkI4ZVFFLXY1WWp4R2htYWhSRTFMNFprZ29UcExLNEs3ZGRsXzJUN0laWkk2WURKaDdsQmdBU2xYS1FLeEVYUS1ySzRSSktWQWcwbHRrWEVlY2pnNlhSd2s1N2ZudVp4dXFEelJRXzBOWG1wZ1BOOU9yQ3JBc1BnMnBFQ2pLbm9qNWtmZUp4M3YyRzJ1OURNOEdzcGVZVGszLVd5enl4Q2E4T2lnYk82VmxDaDJXOWRva3JMYWYwQk5UUlBnV1REWmE3OGdRRllwRHdKbG94bjBSbXVUY0ZHV1ZXVXJuR0dRXzVlcjZFaE5hSnRaZ1FxYzlqaS0yeEcyZklFZHRvUmlTaWhfcjdUU3FvWURfR0JPSHo2ejVoRTJLVDhqUUc0ZVFhVXA2SVNveFkxOUFSS2NjblNlN0tDR1AzVmJwOVZxVEFFM1JFOGtjUUhWdGxOd1dMeVZ5UTdZaTF3QV9nQ0l3OEJlT0xUamdmdEFGTkxKZGZ3Q2RPS0h1NE1BRGRaYmdDdVZ0YnJnZjNEM2N0U2hzSm5Nc3FhUVh3NmpOYzdUeTRMaXFlMk93Q3RGeWpUUHd3OGNuQkozMlo1Sm00akM1Z9IB0gRBVV95cUxPUlhpTUx3LTZ6ajUxR0JzQ1l3bFlacjF1RmpWdVY0OERwRmVzMUhpWWdieXNQaTRoSWxKOEdEWHhRd3JSbk92TUg2WGhxU3A5d2VhdWNXR3ZtVDVZT2k2MUJUbkFKSkhGV0l0MEx0UmowTk5aLTA1X002bS1zOUZMOXJORzFQblNfNEtoOV92ZUJhRjh2RGpua3M4aW9sRjB0OGhuNkgtTlBvMkhLcjI2NjhHQVhIZ01MRW1ta1pzWTR0Zl9UZ2NaZXhlbkFMLVhFTDN0Q1dZNTZucmFqSWFIYUxkMFlldU5SdmlKS2FRM2k5ZUxoNFVWYWFXSWlPQUlMN3lQbnQ1YlMwM3QtZHZvdXlFTFE5UDJwV1pfTl9FS19aWGpNNnhTQkREVG9VdGxQQjlyLVk5dWZZa3JPaHY5V2IySHhkUXpxYjR3SDJBMUJNcHRGS0RHcFgybUNxOURRY3Rid09sYUFIU3dTNmRpeHM5VGhGYWNiSHQzeDJ3MTcyNE5kNUtXY2lDZDhWTUdjUFByZ29iWGN3WFpNdlVsM2pCVHVVMUZvN1pjajd5UWZSU1UzdjlRNkZVY29hSlFzTmFrdFFwV1dGS1B5dVpiSU9vRjV4dkdQQk9oR09yVnp2dlFOSjZMMy0zQUFtb09zSllfVGVreS1nQ01SdTRXU0tLYkhLMXZod3lmNkZTb2FzSmtETG9wSHQ2bVRrZDY1Y1U1YlE2RjRocDlFcjBBWnM1RVJCYmRfeWJiODRyeEZzd21ETGRUYWFVYS0xREVIbXc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T08:05:00.000Z",
+     "seen": "2026-11-22T12:43:49.156Z"
+    },
+    {
      "title": "بكين ترفض حظرا أمريكيا على شركات اتصالات صينية",
      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxON3htVW5MVWpqNkMzSG1YYTNIdTZVSmxVODRhRU1qY1VtRHoxSlJNRzhfaWgxd3ltUldCb1llaVhYQi1hbjFTNjZzV04tMjhIVzJINnczVU56bWdQYkZ4Rjd2eHFzWkRabHAycTVqZ3RVdC1zTjNTUlhKampKM2RENlo5NmFGTHdNMF9ZUEJuRHlXYk1IMENTRmVpa053cjNyUmRnZTNwWUp6b0Zwa2YtZ3RqejFyOWg5RGl0TlFmMTdFeTlVNDNqbzVISXpMMy0yUnF2SlJrVHE2Nl84NjVaMzNpWWJuUGJoWlNCZkotcFJsTWhOYS15RHVzN0tJTG03ZzNuOVRpUkNxdlFiY1JFdlpoZVNpdl9ZQnl4RERwVXNXWnphZjdSMlF5RUk0MHBlckRsdVBSbEhqLV9aYXg0QUVB?oc=5",
      "source": "الجزيرة نت",
@@ -555,13 +565,6 @@
      "source": "العربية",
      "time": "2026-11-22T06:09:00.000Z",
      "seen": "2026-11-22T10:43:48.327Z"
-    },
-    {
-     "title": "تنفذ مهامك اليومية نيابة عنك.. أداة جديدة تُشعل سوق الذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQRVFINWNBNlVKM09YM1MwRjhsRU9GQ2xsaGNBU1FSdXhvcm9YYjhWWGxmOWl5bGZMUlpNVHNua1hILTJkQVpKV3NYV0tqYzBpQzRDUUlMbW0zNmsweWstMmZZa09TTjhSMV9VZmNLU0t4RDJaUVhVMGxlWnVsLVl2RWJDd0hUUnRUQnBmRUZ0VEVNSXluWWUtYzl4Wi1SSWxfQVJkdjVqaTRDelJ5NVk4SnVjcXp3eXYybHc0d0ZWUVNhZmtMTVcwZk01QWttVHFsUlpzSU41Wl9naV8zUlRXTXdPZ2JPREhmVTZhek1fcld0ck9HYlVjU19TeThBVjZVUW1kdmRXb1Z0X0JRNGI0dnVWR2kxTERKZEtfZnVTWEJzRFRFSjNPQzItQmZCRGx0NnlLa2JyN3NSWmM4SWpSOWthZ2NQMC1LNnA5YlNkQmpOUnlyaTQ3RG1SeDdaZDhUcGJiUEVRUVBSaWM3c2JYaTd6MUN2R1VoN1luNHdpaExjVDZWdkNERVhfZTlac3pGQzJVZ3p1aUtzaUNoZjlaUVpqWkgwQUNuWWtSTDNOT2JnbXpLUnhMcHdWc2RDMzZ0OGZuN3VXeDRBUGFneFVFQWVKa3NveXlEd0V4MkJLdFlTajJMd1JnOHZvTE1MZS03a19LaENRSWtabWtJSUhTTzJuYWhFSjZDMV9nMThzNHVVUEpMM3ctNC1XeVR0UUcy0gGmBEFVX3lxTE04cjRYQXhfU1FteGxsZkhhYlZ4VHdPb1pqWGVXdmJPcmdGVTh4RXd6VnpOWUhsbEFXb2pKNDVYNVZjbVRTWkdGTmpnb2Jqa2lMczJCQmRvR1Q3QndNN3dzRExlejQ2bmVQV3FkLUlDMktoMlk5WnJQRVRpTjRLS0tKV3FWd1VGdGd6WmJjM1Vrel9GNmFPc0tGSDNwVERfU29mMzJHekkwcTE0VzZ4dGFyWnJZRjg1YTZ4SEZMXzc4YXpMNmYwa3l2c3I2ZXdTTVNTdHNlVkhGaWVpcnduZzNlY1R6QlR3OUZzYm5VWXVlbU5NMzd1ZVVXVTFuWG9oTHBTbGUzYTk2VDh0OUNYMElFMm4xeFRGUldma2ppcE9qNnY3N1k2dkRGaUN0TzZaTm56SU43dEtOR0RraHktUGo1bGV2LVJ3S1BVVy03dThjRWI5YWRFOWZhUkp1dEdpVUNxTjh0cmprbXlUbldUVzhaN0h3TGgwVFRGbWk0RklNdG1JZ2NyRWRHWjcwMXlzVng0aFpYTDJLbk9HZG1YTjAzeGZPRk5FMk9aSGoyVndPRURndnUzckpEMlI1VnVsNm04UU9xUk5LUkZuejNQcmtCU1p6LUlsazFVa3FsV0hJWnFReGJoRlhpM0J4VVVRTXh5LW5rcDRnbVMxZkJHMDBmYzJkSjBYcG1MREZkck5uNkRtU0pObFhlT090aDdMa3pNZUhPYUE?oc=5",
-     "source": "العربية",
-     "time": "2026-11-22T06:04:00.000Z",
-     "seen": "2026-11-22T09:53:48.684Z"
     }
    ]
   }
