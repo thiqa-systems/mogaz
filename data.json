@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:33:48.981Z",
+ "updated": "2026-11-22T10:43:48.327Z",
  "minute": [
   "استقرت أسعار الدولار في البنوك المصرية فوق مستوى 54 جنيهاً مع متابعة أسعار باقي العملات الأجنبية.",
   "شهدت مواني البحر الأحمر تداول 11 ألف طن من البضائع العامة، مع توقعات مناخية بشتاء أدفأ لمنطقة حوض المتوسط.",
@@ -10,7 +10,9 @@
   "at": "2026-11-22T10:23:48.291Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T10:43:48.327Z"
  },
  "markets": [
   {
@@ -53,9 +55,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50371,
-   "change": -2.28,
-   "asOf": "2026-11-22T10:18:48.000Z",
+   "value": 50393,
+   "change": -2.23,
+   "asOf": "2026-11-22T10:29:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60636,
-   "change": 0.9,
-   "asOf": "2026-11-22T10:33:46.000Z",
+   "value": 60655,
+   "change": 0.93,
+   "asOf": "2026-11-22T10:44:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برج الدقهلية.. نقابة المهندسين تلاحق صاحب الواقعة وتشكل لجنة لمعاينة المبنى",
-     "url": "https://www.elbalad.news/7189909",
+     "title": "تاريخ مواجهات طرابزون سبور وأيوب سبور.. تفوق كامل لأصحاب الأرض",
+     "url": "https://www.elbalad.news/7189936",
      "source": "صدى البلد",
-     "time": "2026-11-22T10:33:02.000Z",
-     "seen": "2026-11-22T10:33:48.981Z"
+     "time": "2026-11-22T10:42:17.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
     },
     {
-     "title": "محافظ بورسعيد يصدق على إيقاف تشغيل أحد المخابز الإفرنجية بحي العرب لمخالفات تهدد الصحة العامة",
-     "url": "https://www.elbalad.news/7189920",
+     "title": "بسبب الميراث.. فتاة تدعي تعدي أشقاء والدها عليها بالبحيرة",
+     "url": "https://www.elbalad.news/7189933",
      "source": "صدى البلد",
-     "time": "2026-11-22T10:32:36.000Z",
-     "seen": "2026-11-22T10:33:48.981Z"
+     "time": "2026-11-22T10:41:31.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
     },
     {
-     "title": "محافظة الإسماعيلية تطلق معارض دائمة للحوم والأسماك والخضراوات بمدينة فايد",
-     "url": "https://www.elbalad.news/7189922",
+     "title": "عقوبات تصل للحبس 3 سنوات.. مشروع قانون جديد لتنظيم التطوير العقاري",
+     "url": "https://www.elbalad.news/7189931",
      "source": "صدى البلد",
-     "time": "2026-11-22T10:31:26.000Z",
-     "seen": "2026-11-22T10:33:48.981Z"
+     "time": "2026-11-22T10:41:30.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
     },
     {
      "title": "قومى البحوث يصدر نشرة طبية حول الأدوية والمستحضرات النباتية بين الفاعلية والأمان",
@@ -244,6 +246,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "كوب 31: انطلاق الجلسة الختامية على وقع خلافات وتأخير",
+     "url": "https://www.bbc.com/arabic/articles/cw8r7g85p4zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T10:36:34.000Z",
+     "seen": "2026-11-22T09:13:49.056Z"
+    },
+    {
      "title": "سعر الريال السعودي اليوم الأحد 22 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTWx5UHhkS0dJSm5fXy1aQko0X25wcU1Qa2dxYkFSeUxWd0pTajFXQ0VGc0RPcGxVNk10NWdaVzdGSjUydnVVdG9nYWV3N2kwS0dtNXd3?oc=5",
      "source": "بوابة الأهرام",
@@ -264,6 +273,20 @@
      "time": "2026-11-22T10:07:18.000Z",
      "seen": "2026-11-22T10:13:48.887Z",
      "impact": "ساعد الأفراد والمستثمرين على تقييم أسعار الصرف الرسمية الصادرة عن البنك المركزي المصري."
+    },
+    {
+     "title": "تكاليف الذاكرة تشعل أسعار خوادم الذكاء الاصطناعي وتقفز بها 45%",
+     "url": "https://alborsaanews.com/2026/11/22/2008018",
+     "source": "البورصة",
+     "time": "2026-11-22T10:07:03.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
+    },
+    {
+     "title": "أبو الفتوح: “إيجيبت أوتوموتيف” تكمل عقدًا من الحوار المشترك بين الحكومة والقطاع الخاص",
+     "url": "https://alborsaanews.com/2026/11/22/2008060",
+     "source": "البورصة",
+     "time": "2026-11-22T10:03:16.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
     },
     {
      "title": "سعر الدولار يستقر فوق الـ 54 جنيهاً بمنتصف تعاملات اليوم الأحد",
@@ -290,6 +313,20 @@
      "impact": "يهم المستثمرين للتعرف على مستويات التوتر الجيوسياسي وتأثيرها المحتمل على استقرار الأسواق الإقليمية."
     },
     {
+     "title": "لماذا قفز الدولار والذهب وتراجعت البورصة بشكل حاد خلال تعاملات اليوم؟",
+     "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxPbWhVLVhEejFkYzN3MUR6VEJzVzhNMnJVSm5vRlZMMzdyc1p6TXNzdkloc3EtQ3pqS1lLYm1QdXY3YTNmc3NXVkd4SHYzSnRQN3hkT0J2bm5aM3pPM1pWREJVOU9VcEpyVnVJNGQ5VjFwSkZCWVg4N2hGQjAzU3czd08zaVhHYjJSeGpuYUl6c1BHNHh2VE83NzgySzRyeUdEbkpBeEtZZGlIeUhUVDlBbUp1aS1NVVBYTklIREY4LWg3UFJMMVljbTF5MHpja0cxUTk4ajdqXzZhV3M2cThGQ2xORnExSTdvVmlGTDhXY3BYY2E4X1hCT3ZvYVh4bEkzWHFZeUVnQzFmREZpc1hqT2ljN2xacXBKWjRuV1JCVExUY2JxejVkSDZOM0dMTlQ5QW5fM0hVZkVJaTdRNmZfbUY4QkwwRzdrcVIyMjBvbU9Nc2hDN3pESEdtWTFib0JTaWRILUd0QmtxdFhzUW1SUzBJd1VLSzBsOE1zamRDTzhfVXB4bVlpN2xlY0NYM1NBUkxjdHhoTWZ2ZWxSbE42bEpxOC1IOHBCY2sxdGt5MjdRZWp4cDJteF9TTmVJQ0plWXg1aDB1blV1QUktVWF3RFRpeXdFRHFBOFNCRTR1SWx6Zmw2blYyRnlZZzM2YjRBREFYdXl1UUZiUjNzelpFUWsxQ2FIb0lob2pmYUhCakV2MmVhd1BCb0ozcHpzWmlqTEl6TlI4YlB0Q21qcnQ2bzdQRl9ZcHdhR2JzRXZhOTJBLU1OaVF2Nm8zVWkzTlg4MTVZT1Q0d9IB3ARBVV95cUxQU2ZBSk9tUTNfNVhqUEVqNUs4VWxBb1g0N0tWdFE1QWQ1dWxJN19rejYxeHEtNU95ZUVjdDVoVGZvUFdNZV93dzZEN0ZjNU5vMHZiajJOc1FVTFVCTDZfeC1SVDcwZkVoSmkycHNDelYycGhVTTNnMHloaF95Qm1XVXNBQmRRNmNGLTZ1ZXhxM0JxUEZ2T1JNaHN5c0xjb203SXQ3OFVCQkJnTUlNZUVwSlZUQkZCa2haN09mbndtdVA4RzFUbUREU2V0T2duRU9BOXRCcERSTEtnRHNEbjNOTTFmdXV6Y3BMUkwyMTdlNzdvWXFrLXp1NHFhWTRWeGU5TmZxU0h5Ykktdm41NzdSRUZyVDI5X2JqQjhoNlJVaGViaFFqNWY5YVVBN0xKdndrLWJZSzNwRmtjQ1FMRzVFRjZuNVFObUFtckdHdWFBM1p2T2REYXBGdl9wYUdKdWxveE5CZ1Z2WVpuZFk1MU92My1kXzNzajAtLWd1WFdRazhDcGxGWFFDWlozQ3FqZng3UlVwVzZJZHNuMnpUcWlpVlNrdmNUOHZXbG5NU3k5LUN3RUV5RmFWYlZyRzFpQVEwQk5QM2JUWnFHSTRDVnJzVUI5MnpoQXFwYlJlMkQzNkRCcU55enJ5MXhUWWFvUEhnUUlSVV9QWmRmMjNJSmtLaVUtMzRxVmJIY2pnZ1hocWx1cTVtdE5WZk5TZDVBT2FZeHJXN3k3bmNESVQxbHRKMHQteXBaRTBkSmNCNEhPZXpxVkNmODMzZmZsdkNFb0Z3V0M3ZWQ2aXAtVVpl?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-22T09:48:00.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
+    },
+    {
+     "title": "سعر الدولار اليوم الأحد 22 نوفمبر 2026 مقابل الجنيه المصري.. كم سجل سعر الصرف؟",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96Z010NHZYX2F3MjB1elhQTVZqckJyeE4wOHNpT2hVQ2M5Zll5OXVWcnd0Q0pESHJMdG5PZFlEbEhlMHdKeXc?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-22T09:44:42.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
+    },
+    {
      "title": "سعر اليورو اليوم في البنك الأهلي المصري.. 59.31 جنيه للبيع وأسعار الصرف في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUXNBSzlDMHVIOFdaa1Baci1jNlY1VGk1NXNqUjh3OGdEMVhzZHFIYUtjM2tOa1lzWC1JOTczdlZLS1lDcFliMmx3UFhJT3gxeEdMQnlXWHhISmJ0RkhZ?oc=5",
      "source": "المصري اليوم",
@@ -298,57 +335,18 @@
      "impact": "يوضح للمواطنين والمستثمرين أسعار البيع والشراء الفعلية لليورو في البنك الأهلي المصري."
     },
     {
-     "title": "تراجعات حادة للمؤشرات المصرية بقيادة EGX70 الذي يهبط 3.6%",
-     "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOcDNtRHF2cFNpeWhoRFJuZ1lucVE4YWRfRXlPemt3c2g5WXBmTmNvSWNIbmNTWnM4SDZDczh0SmhKVm9YZTV3aFhIMG1iQjJIS1BLRW5jWlJWanM3TFF0eUF0MVNXVElfU2laMHZXZGFuY0lzanU0ajUxTVNTdWhJNi1zZWMzNzVtc1pvT3BXZWlKVFB6T0FNNjZoUDZDN2V6NUFJY2s2X01ucnFIU3lIdDBaNmliYzBEcHk3Y043eU5IRU5QQkxmWGJjOFIyM2xGMi00djFHTnA5Yms3WEZJS1RZUlJNdVEzM0FEZ3BiN0dDdmJQWktqT2dUZWVnOUt5V2RfSjJsY0RkTUJiQlVkSlBzb1M5YV90NU1uelFFNVRBcTJCMFp3S3FlM0xrYjRfcVFXUTNxLVBKRUhwbHE0TEk1VGo4TS0tVkJPOFU1M1hDeHBhNW9Ca2tWdzhlVkxEVHpTS3VHUVNsRXpjMTZYVnRXaTBUYVB3MkxqVUpsQVJ5aGl6TkR0cVJZSmhHdVItZlgzM2V6Zy16c1dKSlRDZHFKbTBwVkU0c3RYTmxfRjdaV0FuaUdMRDdmM0hOZFNlbUHSAccDQVVfeXFMT1ExbVZ6UFFoVGI1QmVjYnQ0UTVRUEhJNHpCQ3dQSkxQblFSU2VUbWg0b0t0aVhCVjhaQy16Nm1hUGRxRjAzWDZBMmZ5YVl6VlJfeE94ZUsyVFdHN2c0ZVkzblNxQjU0SUhqdmwwRkx5YVpGNmlBNjZhdmZyOXdNSmoxM2VWRVh4bmNCQ2o1ZHo2dFFwT21DYWhBQklmN05hbTlnanQ3UEdnMVRSektSb1pUNDJ0RHNOUGM2cGR0YjFlelVNZkRXUlIwa2tEdV8wRnV0MzgzbUhHWVF4c1FwX0hfTUxFOHB6SDV4SlJVVkRtZGpVNXR0QTM0VjFLWWVRT1RMMzJmbUZGdG5XVlBvVjRxYlhHNzI2NGttVktFSm11QkhDM3VVRGV5dFVhdlF6U1ZxWlNrWTlLalRVdEV6UHJGMk9FNlZVNEdGZE1TbWZJVXpZWnVRalE2bkdoVmtVXzdoVHFFOWdrUUQzSkhXRGN6YTdhRHpxREZrNU5oS3VEbTRlcmJCRmhvcVlsN0k0Q3dYNEZVTlpKdEhBdk94TkdFVG9CbENlWTNCd0VpV2M3UUhUYnpfWkcxYm9RNUxOcHU2cTdKOE0?oc=5",
-     "source": "العربية",
-     "time": "2026-11-22T09:23:00.000Z",
-     "seen": "2026-11-22T10:33:48.981Z"
-    },
-    {
-     "title": "سعر الدولار في البنك الأهلي المصري اليوم 22 نوفمبر 2026.. أدنى وأعلى الأسعار المُسجلة في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1iSTh0TnVOSDdkR2Jldkd4WUxKck5QQmY5TExHLVMwV09FcnQtUV9jTkNKeEViTzMwYlFxWmxRQzVPeDNqQVE?oc=5",
-     "source": "القاهرة 24",
-     "time": "2026-11-22T09:21:11.000Z",
-     "seen": "2026-11-22T09:23:49.256Z",
-     "impact": "تتيح متابعة نطاق أسعار الدولار المسجلة في البنوك للمستثمرين والأفراد تحديد تكاليف توفير العملة الأجنبية."
-    },
-    {
-     "title": "بنحو 68 قرشا في بعض البنوك.. ارتفاع سعر الدولار اليوم الأحد 22-11-2026 خلال بداية التعاملات",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KNGFvdjJMWjBpay1QbnhzdjRxd3VCZm1lZXV2M0JhTHlaNTl5aEY1cFVjWkRaNkNWUFpZdUtfMGdNeTNjaTM3VGRBVVIwVXU5TTB6dm9EanV1dy1xQTYw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-22T09:21:00.000Z",
-     "seen": "2026-11-22T09:33:48.528Z",
-     "impact": "يؤثر ارتفاع سعر الدولار بنحو 68 قرشاً في التعاملات الصباحية على تقييم تكلفة الواردات والالتزامات المالية."
-    },
-    {
-     "title": "«شل للزيوت»: اضطرابات سلاسل الإمداد تفتح فرصًا لتعميق التصنيع المحلي",
-     "url": "https://alborsaanews.com/2026/11/22/2008047",
+     "title": "الرابطة الأفريقية للسيارات: نتحرك لتحويل فرص الصناعة في مصر إلى استثمارات",
+     "url": "https://alborsaanews.com/2026/11/22/2008055",
      "source": "البورصة",
-     "time": "2026-11-22T09:20:47.000Z",
-     "seen": "2026-11-22T09:43:49.018Z",
-     "impact": "تفتح توجيهات تعميق التصنيع المحلي مجالات استثمارية جديدة للمصنعين لمواجهة اضطرابات سلاسل الإمداد."
+     "time": "2026-11-22T09:35:40.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
     },
     {
-     "title": "المشروع الأضخم: هل يتمكّن الأردن من تحقيق استقلاله المائي؟",
-     "url": "https://www.bbc.com/arabic/articles/cqx2x0erk6n1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T09:20:45.000Z",
-     "seen": "2026-11-22T09:23:49.256Z"
-    },
-    {
-     "title": "سعر الدولار في البنك المركزي المصري اليوم الأحد 22 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mZE1UNVY5ZXV1Tm80RTE4azdoV0plbDFJLVdwc01fQncwM181SVBQcncybFVVMVNhcW9QT000T09BN2Fs?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-22T09:16:52.000Z",
-     "seen": "2026-11-22T09:23:49.256Z",
-     "impact": "تفيد أسعار الدولار في البنك المركزي المستثمرين في تقييم مراكزهم المالية وحسابات الصرف الرسمية."
-    },
-    {
-     "title": "“مصر للتأمين” تطلق صندوق للاستثمار في الأسهم بقيمة تتجاوز 2 مليار جنيه",
-     "url": "https://alborsaanews.com/2026/11/22/2008045",
-     "source": "البورصة",
-     "time": "2026-11-22T09:11:48.000Z",
-     "seen": "2026-11-22T09:43:49.018Z"
+     "title": "«سبيد» ينهى لعبة GTA 6 بعد بث مباشر استمر 52 ساعة متواصلة دون نوم",
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQQlduWk9BMW5CWlk5aUJRdjRheUQ3TmlTRWs1bmdBNWtfNmFaSV9HWjdxZGtXRERad1hJaEl1bFpZLWFSWVdnMl9NcDhOZW1PRkRmX2RiVE1xY19ZTnJ2OGRBdHBuMkVaekN2VGRScnlENkt1S0ZYSFBKeGI5NWZTMl9KNm92MjF6MGtkZ2Z4N0hUb1hSNjB2NGxGZUgtbnZkaE5PbTBGRTRhRG5TaG1sMGR5NnhJV0R3dFctTUx2d2hBR1pyMldhdGZTNDRfLV9IRE8xejg3N0ZTS3NEZm4wR25nbXVERXdkU0NzazctQzZWdzVIR0M4TGxJMzd2MWNab0lVazR1akQxd2RsQmg0MXJqRk5KdF9valJyQWpGQzJKQWVGRlJ2cWJ6X0FfWjV5TjdMMHJSZkVTZzNkRWhmTUV0RDZ1OGlVZzM2eGZOV0RrakpKSE9F0gHSAkFVX3lxTFB6Y1FGSnZCLUFlUVdvNXRWaXpISVU3U0xrbldRY0lMQVFnRDV3WmM4LTVHOWhMcnJGTF83WXVqLUxuT3p4R1RsR2xySmE5dUIyaDNHcDVoWF9hNHQwWHdOcEhJS1EwRGRoR3k0czVZUnEydWlxQWFqRVZaWFFTSEZhMjhOZjFRTkpQcml3Y2ljS0Zub3p6RjFfb2VRNE9KNk1FYVpDMXhLMFR0T0lndi1tbWZaQ3lDQ3hEVlh0dVduamZzSE5YVFFxelhsc1FpZ3RtWVFYb2JrOGU3NFVPSEJUWnVsTzllNDhqVkEwT1BCcnBhdTRBYnU4bVFKaDVWSUtSTTlfVzByQ1ZjaFNkcTF3WnBYQXZvcVB2OWVyV3JYaVVsTTQ1MGIwWTRXTXBtSEc0SlNQbXZYSDRtWXJqSTBORUpIdzdpLXpDSjlfZ3hJOFZB?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T09:34:00.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
     }
    ]
   },
@@ -420,6 +418,13 @@
      "seen": "2026-11-22T09:33:48.528Z"
     },
     {
+     "title": "المشروع الأضخم: هل يتمكّن الأردن من تحقيق استقلاله المائي؟",
+     "url": "https://www.bbc.com/arabic/articles/cqx2x0erk6n1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T09:20:45.000Z",
+     "seen": "2026-11-22T09:23:49.256Z"
+    },
+    {
      "title": "الإمارات تدين بشدة تجدد الهجوم الإيراني العدواني على البحرين",
      "url": "https://www.skynewsarabia.com/middle-east/1906310-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%B4%D8%AF%D8%A9-%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
      "source": "سكاي نيوز عربية",
@@ -441,13 +446,6 @@
      "seen": "2026-11-22T09:03:48.745Z"
     },
     {
-     "title": "مسودة اتفاق جديدة لتجنب انهيار محادثات قمة المناخ \" كوب 31\"",
-     "url": "https://www.bbc.com/arabic/articles/cw8r7g85p4zno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T09:03:06.000Z",
-     "seen": "2026-11-22T09:13:49.056Z"
-    },
-    {
      "title": "\"حرب الناقلات\".. شركة ملاحية تعلن تعرض 3 سفن نفطية لهجمات بمضيق هرمز",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/three-tankers-struck-in-strait-of-hormuz-since-friday-marisks-says",
      "source": "CNN بالعربية",
@@ -461,6 +459,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "علماء يتوصلون لإشارة قلبية خفية يمكنها التنبؤ بالموت القلبى المفاجئ",
+     "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQUlVrTDNyYjdlb18zNEFtVlcxeEtEcHlmRzl4eWU0V1ZUeDNkLUo0ZXRLbkJrQ3JDVnlScy1wQy01Z3ZETTJHU0pCRno0NzFyTUdnOUEtZG9GYkRuR3d5eVVZWmpTRVlKeC1acWNFdEFBeURFX0dQUkxtbVJlY0EyMGdJUnBsSjR4SXBsU1dlR2V2Q21UYzBnY3FYVXpGSVNfNURDbEZ4Z1N5U0xRb0RaQlhKSGpmZTBHUGxacjJ0Q3hYakx6M1pPVVN1TXlrcGlfYUhoQTVVYkpUb0lKQ0EyVnNHb3dZVDFYM3ZoOTJTWWdjdGZnT2YteXdVU1J0WHgycE12b2VCSjQtTF84VUpCTnZtWE1rXzAzYjJ6Ri1lOHYwaEFqdG4zVUZSVkpjT3Vic19sZ0NfaHJQRFg1d3VqTWFyOGhSYkM1S1VQWlJfVnhBWFlGTjNPMGdiR01mSW9wTHZuc2xvYU44UXBuT0RoSWQ4QVYxUGxGUVVUd2YwbmVsdkhaS0JpdXZUOVR3eTFwdzFfUGxUWGozZV8wcHY2RnZPZnFyUVpreDBaSHBFWVV6VHVtUFhWSEp5MlphM0ZyYkhrRWFvUmhVSHpxU3NISzhHbjZZVDJjU19LUmNvcUJfTENZdzVQazJZb3JkV3VEYXdSN25PWG9zd0pqc3FvdXl3RV83dWlFZXBzNXI3X1l4TnZuSHUxTnlLaS0taGxFMEJhbl9BLXRrZlFOUFJVeV9PWTdNSlnSAbIEQVVfeXFMT3JLeEJnVDlVMko0TjVhZGhsaFRhdDM4cWd5U0kzZkJVQmtvRHkzM0NUVTZ6TXk3SnBkc2N5Z3FGS2FUSmZSaTlYQlRTWjdzZm9wU2VxN2tXV2R0eGw1RjEzUnBZSnlPWmN3N3VXOW9CNGhGYnhSb21tdWZhQmYzYlFJVlFvU2xuNkF0bUFzRVJVSlhJY292SzI2XzBjbDVHS0JybEZ3cnBrdXpOd3BiUE93eGxvU0p6ZkFITzlsSzMwQ1N0aHFpTmF4SVZhVFRwd01vaGU4QTdPQUZWSHdTRnZJMlZlaWRnWW90ejdCcmJQQm1kLU4wa2JKaHlTam9kcTV4XzJOR3JoVWFjQVJVX2thbXJIZUxmUk9UY2M1X0ttQXJBRjlZN0R3ZGFHWl9pSHRHckpCaldCSnZNVmtlUlNuVXJMN2JCcVNZN25qcFVkQkg2QjRob3IwZ2x0S3ZvSlFDNnBWQmxmNkwxMi1DVmo1bFBPTENiQWJjUTNPY1FvUC1CdGY4UlJ0bFF1X0xWbTJ0TUNFUHoxc0x5UDExVWNpWW5hbTlqOWdGWDZLTFdZOVpibk53VU1UQWpickhFSm9tMkw2ZENUWFIySFZhLTNZbXJuNWYyeEs2aEo3X0xWcVBOMkhzeDlZTTlXRnFYTTVVRUhicklrMktOSTRORHJOT21OZ21qQ3NfUXFCWmtYR3RYaU41Yi1ZbWM1TTZFbzJsYUl4czdhYk9GTGhrN2c3dw?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T10:00:00.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
+    },
     {
      "title": "سامسونج تختبر نقل إشعارات Now Bar إلى أعلى منتصف الشاشة على غرار Dynamic Island",
      "url": "https://www.tech-wd.com/wd/2026/11/22/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d9%82%d9%84-%d8%a5%d8%b4%d8%b9%d8%a7%d8%b1%d8%a7%d8%aa-now-bar-%d8%a5%d9%84%d9%89-%d8%a3%d8%b9%d9%84%d9%89-%d9%85%d9%86/",
@@ -493,6 +498,13 @@
      "seen": "2026-11-22T09:33:48.528Z"
     },
     {
+     "title": "الأمن السعودي يعقّب بقضية اختفاء فتاة وبلاغ تعرضها للاختطاف في المدينة المنورة",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmowQ2NURWI1QlMyWi1mLWstNjVQVVBvci1TTHBHRkZvYkpSNzFLeEpFN2hmb2p4dEQxeGVQQy1SVFZ1czBYcFF5MnhISUdXcXg1bzNWeHNOVVhjWHllVHNKSE10S25seUowSVdPSE43OVlxaHljMmFLNU1wM2s0Q19famVJeUNNSThoVFRQNm9TSkhXVGNHOFpreFctM2xrMk1PTWhNYzItN04wb280Nk5xMW9md0lTaEVPRzZlYk9ZTmtL?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-22T08:06:39.000Z",
+     "seen": "2026-11-22T10:43:48.327Z"
+    },
+    {
      "title": "بكين ترفض حظرا أمريكيا على شركات اتصالات صينية",
      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxON3htVW5MVWpqNkMzSG1YYTNIdTZVSmxVODRhRU1qY1VtRHoxSlJNRzhfaWgxd3ltUldCb1llaVhYQi1hbjFTNjZzV04tMjhIVzJINnczVU56bWdQYkZ4Rjd2eHFzWkRabHAycTVqZ3RVdC1zTjNTUlhKampKM2RENlo5NmFGTHdNMF9ZUEJuRHlXYk1IMENTRmVpa053cjNyUmRnZTNwWUp6b0Zwa2YtZ3RqejFyOWg5RGl0TlFmMTdFeTlVNDNqbzVISXpMMy0yUnF2SlJrVHE2Nl84NjVaMzNpWWJuUGJoWlNCZkotcFJsTWhOYS15RHVzN0tJTG03ZzNuOVRpUkNxdlFiY1JFdlpoZVNpdl9ZQnl4RERwVXNXWnphZjdSMlF5RUk0MHBlckRsdVBSbEhqLV9aYXg0QUVB?oc=5",
      "source": "الجزيرة نت",
@@ -508,10 +520,10 @@
     },
     {
      "title": "حرب المسيرات مشتعلة بين روسيا وأوكرانيا.. ولا بارقة أمل لإنهاء الحرب قريباً",
-     "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNUm92VGhFaGstVEduZjJVbnp3X1pkVWNUSE5QTS1kRlE5eFR3UExnSFJQRC1VR0NEZVhQWUk0QU1fTEVvSS1zNHZkSTExUFR2QXBQTy1qSkswanJuUVZYTDMwaG1VdDRmbjE1ZUdCLUlQTXBJLVluWC1yRnhFc2pEUkc1MTNYREJkSzN4cTRZMHRsdHgyUTNPdjhpcWFwa0dBRDNYS2FNTktvaTVZbnkxU3gwSXlGLXdkOGY4VVdJUFlDQW9ZMjhUcGdOZ3RyLTQwZzV1STlZaGtNQUU5b1lCS0hQV1ROc1RNVjI1RldENGg2a3BycFdkckoxeWdNNVdXM2tkdnhfMEFrM3J1SFhVZzhpaFdXZF8waDFPTG9TaDYzTy1sbmVaSk5kZmhyR3lQRzRTUHd3blNvVTdZc2NnbHBHbGItc3ZVczdib0JkU3E0MThBU0pZNXpkcTExcVA3cUJzb0NXSmYzcGo0emhrOEJhcGJObGxSQkIxLTZEdG1kczJtSWtPdDJVQWNjTG9rQk9CNkxnVVE5NHBuM2JvYjI3ci16bkFnV2wwTTZHQzZmQWItdjJVOUF6SkpnckVpSmNaZW0xdTh6Rlo0R29sYk5vSS1WYUhFSzZMcGM4TjBZRklXYmhGMGh3cnA5cEc1a1J2Z1VlWlIyUm0tUmhhcGhMX3YwTTJzVXEzb0dfVWJieUZtS2tjMkpvMW5FQThKNFlqcG5OYzhFVE5jaEtLako5RE82Tk5aemt5emMtMkp0Umd4T21ySGlmcXV4d05SNVFMdTBsQnFHQdIB3wRBVV95cUxQMWdLQzQ4MTdNWlZqSkh6YnpBMldwa3ZJVUNXT2dhUnBaMXY0UE9vU21TeHVQZFgyWGpucEVhNlNNNVJvdjVwUlV5UHlvVXZpaUtUOXotcXdPWmlFZXhxa0dVMXpIakNDVU1hX002OFdDbmhGcjlkRGJCb3pqNnhhM29QRzBpYUZxRmRUU3hocEJWYWNZaUl5VmZReW5zUF9KOW1hQWhvcnNiSWp2YVhVTmgzMUlEdWV5MzBNTHRmLVo1Wktkalh3YnBnbkZod2pfQ0l2cDhCRnptTE5QMGFPT1UxMGV3djd2cFk3aC0zb2x4d3JnQ0xIUmhKbTRndmpPT3pnWWoyamRFaGllNHd5ZVUyNzhmQ0xPa2JRZUp2VDlYbkMxMkU4bXVWZmI3VWhzMHNmalFnMDRqcDZTUFMyR2pZVjdqdWZkcVpEaFJFaDBnVEgtMlFsenhZUEVMeUpLU3VwWS11akR1UjE1NW5ray16eFlfUVBFdHg5em1GeWxHVXBUMVZEcUF5OFdsN1p4N3IzQ0RoX1RDRWhLNE9BRFNmV05Eb00ydnhRNTYycU53ekdURTltME94RXY3cEVmaWMwVEVRS2xDQXZoR0dHQlB4TkFzcjBUSmhaVkNNeWM5Uk1hUTJKM3UzNk5qY0Juc1M5TjNRZHpuS0xuckVDcDc4eGpYMERYeXZPN2VJVEFLS2M0V1VlNV9yNjd3TVNhSUVUbjkwcFk5alF0ZG56RlV1bDJFaDlMNEJGc25WVVhLNzJiaXJnaDFWdlVyNGwzcU9UdlBZOUk4NkJNZzd3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxNUm92VGhFaGstVEduZjJVbnp3X1pkVWNUSE5QTS1kRlE5eFR3UExnSFJQRC1VR0NEZVhQWUk0QU1fTEVvSS1zNHZkSTExUFR2QXBQTy1qSkswanJuUVZYTDMwaG1VdDRmbjE1ZUdCLUlQTXBJLVluWC1yRnhFc2pEUkc1MTNYREJkSzN4cTRZMHRsdHgyUTNPdjhpcWFwa0dBRDNYS2FNTktvaTVZbnkxU3gwSXlGLXdkOGY4VVdJUFlDQW9ZMjhUcGdOZ3RyLTQwZzV1STlZaGtNQUU5b1lCS0hQV1ROc1RNVjI1RldENGg2a3BycFdkckoxeWdNNVdXM2tkdnhfMEFrM3J1SFhVZzhpaFdXZF8waDFPTG9TaDYzTy1sbmVaSk5kZmhyR3lQRzRTUHd3blNvVTdZc2NnbHBHbGItc3ZVczdib0JkU3E0MThBU0pZNXpkcTExcVA3cUJzb0NXSmYzcGo0emhrOEJhcGJObGxSQkIxLTZEdG1kczJtSWtPdDJVQWNjTG9rQk9CNkxnVVE5NHBuM2JvYjI3ci16bkFnV2wwTTZHQzZmQWItdjJVOUF6SkpnckVpSmNaZW0xdTh6Rlo0R29sYk5vSS1WYUhFSzZMcGM4TjBZRklXYmhGMGh3cnA5cEc1a1J2Z1VlWlIyUm0tUmhhcGhMX3YwTTJzVXEzb0dfVWJieUZtS2tjMkpvMW5FQThKNFlqcG5OYzhFVE5jaEtLako5RE82Tk5aemt5emMtMkp0Umd4T21ySGlmcXV4d05SNVFMdTBsQnFHQQ?oc=5",
      "source": "العربية",
      "time": "2026-11-22T06:09:00.000Z",
-     "seen": "2026-11-22T08:43:48.976Z"
+     "seen": "2026-11-22T10:43:48.327Z"
     },
     {
      "title": "تنفذ مهامك اليومية نيابة عنك.. أداة جديدة تُشعل سوق الذكاء الاصطناعي",
@@ -548,26 +560,16 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-22T03:14:10.000Z",
      "seen": "2026-11-22T03:22:07.486Z"
-    },
-    {
-     "title": "مايكروسوفت تعالج ثغرة في Entra Connect Health كشفت بيانات تقنية لمؤسسات",
-     "url": "https://aitnews.com/2026/11/22/%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d8%aa%d8%b9%d8%a7%d9%84%d8%ac-%d8%ab%d8%ba%d8%b1%d8%a9-%d9%81%d9%8a-entra-connect-health-%d9%83%d8%b4%d9%81%d8%aa-%d8%a8%d9%8a%d8%a7%d9%86/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-22T03:01:28.000Z",
-     "seen": "2026-11-22T03:01:37.459Z",
-     "impact": "ينبه المؤسسات والشركات في مصر بأهمية تحديث البرامج لتفادي كشف البيانات التقنية."
-    },
-    {
-     "title": "اختراق منصة Rackspace Spot يتيح للمهاجمين الوصول إلى بيانات حساسة لبعض العملاء",
-     "url": "https://aitnews.com/2026/11/22/%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d9%85%d9%86%d8%b5%d8%a9-rackspace-spot-%d9%8a%d8%aa%d9%8a%d8%ad-%d9%84%d9%84%d9%85%d9%87%d8%a7%d8%ac%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d8%a5/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-22T02:41:25.000Z",
-     "seen": "2026-11-22T02:41:38.208Z",
-     "impact": "يحث الشركات التقنية على مراجعة إجراءات حماية البيانات الحساسة المخزنة سحابياً."
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "The operation was aborted due to timeout"
+  }
+ ],
  "marketErrors": []
 }
