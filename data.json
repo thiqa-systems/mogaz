@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:45:17.353Z",
+ "updated": "2026-11-22T20:55:17.858Z",
  "minute": [
   "شهدت الأسواق المصرية ارتفاعاً في أسعار صرف الدولار بالبنوك، بالتوازي مع بحث حكومي لاحتواء غلاء أسعار الهواتف المحمولة.",
   "أعلنت وزارة الصحة المصرية أن تكليف الأطباء سيكون بحسب الاحتياج الفعلي دون تعيين دائم، إلى جانب نشر تفاصيل غرامات الكهرباء والمخالفات الجديدة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T20:35:17.218Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 5
+  "impacts": 5,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T20:55:17.858Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60532,
-   "change": 0.73,
-   "asOf": "2026-11-22T20:45:19.000Z",
+   "value": 60848,
+   "change": 1.25,
+   "asOf": "2026-11-22T20:56:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مصر تدين الهجوم بطائرات مسيرة على الخرطوم واستهداف مبنى تابع للأمم المتحدة",
-     "url": "https://www.elbalad.news/7190774",
+     "title": "مصرع 2 واصابة 3 آخرين في حادث تصادم بالدقهلية",
+     "url": "https://www.elbalad.news/7190778",
      "source": "صدى البلد",
-     "time": "2026-11-22T20:44:37.000Z",
-     "seen": "2026-11-22T20:45:17.353Z"
+     "time": "2026-11-22T20:53:34.000Z",
+     "seen": "2026-11-22T20:55:17.858Z"
     },
     {
-     "title": "نرفض المساس بسيادة ليبيا.. مصر تدين الهجمات على ميناء بنغازي",
-     "url": "https://www.elbalad.news/7190770",
+     "title": "زيادة الحد الأدنى للأجور.. 1500 جنيه فوق المرتب بدءًا من يناير 2027",
+     "url": "https://www.elbalad.news/7190324",
      "source": "صدى البلد",
-     "time": "2026-11-22T20:44:31.000Z",
-     "seen": "2026-11-22T20:45:17.353Z"
+     "time": "2026-11-22T20:47:00.000Z",
+     "seen": "2026-11-22T20:55:17.858Z"
     },
     {
-     "title": "ملامح تعديلات قانون المنظمات النقابية العمالية قبل إحالته للنواب",
-     "url": "https://www.elbalad.news/7190776",
+     "title": "أحمد بلال: شعار الأهلي حلم لأي لاعب.. ومن يرتدي قميصه هو الكسبان",
+     "url": "https://www.elbalad.news/7190768",
      "source": "صدى البلد",
-     "time": "2026-11-22T20:44:12.000Z",
-     "seen": "2026-11-22T20:45:17.353Z"
+     "time": "2026-11-22T20:45:16.000Z",
+     "seen": "2026-11-22T20:55:17.858Z"
+    },
+    {
+     "title": "مصر تدين بشدة الهجمات على الخرطوم واستهداف مبنى تابع للأمم المتحدة",
+     "url": "https://www.youm7.com/story/2026/11/22/مصر-تدين-بشدة-الهجمات-على-الخرطوم-واستهداف-مبنى-تابع-للأمم/7628780",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T20:45:00.000Z",
+     "seen": "2026-11-22T20:55:17.858Z"
     },
     {
      "title": "مصر تدين هجمات استهدفت ميناء بنغازى فى ليبيا",
@@ -170,14 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T20:33:00.000Z",
      "seen": "2026-11-22T20:35:17.218Z"
-    },
-    {
-     "title": "\"متحدث الصحة\": تكليف الأطباء وفق الاحتياج الفعلي وسد العجز.. ولا تعيين دائم",
-     "url": "https://www.youm7.com/story/2026/11/22/متحدث-الصحة-تكليف-الأطباء-وفق-الاحتياج-الفعلي-وسد-العجز-ولا/7628767",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T20:15:00.000Z",
-     "seen": "2026-11-22T20:25:17.425Z",
-     "impact": "تساعد الأطباء والخريجين الجدد في مصر على فهم ضوابط التكليف الوظيفي وشروط العمل المستقبلي بقطاع الصحة."
     },
     {
      "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
@@ -242,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "أميرة ويلز كاثرين تتحدث بصراحة عن تأثير السرطان في حياتها في وثائقي على بي بي سي",
+     "url": "https://www.bbc.com/arabic/articles/c3vg27zxqn7vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T20:45:53.000Z",
+     "seen": "2026-11-22T20:55:17.858Z"
+    },
     {
      "title": "استقرار سعر الدولار الأمريكي أمام الجنيه المصري في ختام تعاملات اليوم 22 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPSVNNODAzUVhRbk9nZ21NdWVDVEpnNDlha3g4MFNQQW5jSlNoR3V4Q0dTbUlvU0Q0cmJIdUt6UVQ1UXVIUW00X2tsdkRBSkpsaG4xUE1BaFdVRW5xRWxpUS1JTTVRVHFoNzlYdHV4U01tZm9vZmttQ3NKcjBqaE1BVm9iN3laMzgyblVYYmd5SGVDanlGWTY2NHhieVJXeVBtYXRBc0xub2ZqTExOS0FUd3kzMGNpSlRfOXQwd1Zad1FxMWx3cktHbkUwQUVJRlQzNEtjSXNvWC0waTZfaWRhWU5KVnV6VTRVZGZVbGZrTWZzcGxzODJqV0c3VDVYVVdhY2JZTDFxeEJrQjE3eVBkcVhYaEtGd3Z4a3RvQllza3NOOUkwMjFHbVVFbnNYNVJMX3Vmay1xamN4VHY0THFkaVlkcXQ5RVQ3dEZoN01pWFVBaEJncDV6M1JialFjdUR1WGVHQzAxR0JSdFFuZ0M1NnNHU19kY0YwaEEyaDFB?oc=5",
@@ -328,13 +336,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T18:00:00.000Z",
      "seen": "2026-11-22T20:05:17.534Z"
-    },
-    {
-     "title": "وسط تألق بلومي، هال سيتي يُسقط برايتون بثنائية في الدوري الإنجليزي",
-     "url": "https://www.bbc.com/arabic/articles/cm752d266rero?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T17:42:28.000Z",
-     "seen": "2026-11-22T17:45:03.336Z"
     },
     {
      "title": "«المنصور للسيارات» تستثمر 250 مليون دولار في مصر خلال 3 سنوات",
@@ -443,10 +444,10 @@
      "seen": "2026-11-22T19:05:03.633Z"
     },
     {
-     "title": "فيديو متداول.. هل وقعت هجمات حوثية جديدة على منشآت نفطية في جدة؟",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/circulating-video-alleges-new-houthi-attacks-on-oil-facilities-in-jeddah",
-     "source": "CNN بالعربية",
-     "time": "2026-11-22T17:42:13.000Z",
+     "title": "وسط تألق بلومي، هال سيتي يُسقط برايتون بثنائية في الدوري الإنجليزي",
+     "url": "https://www.bbc.com/arabic/articles/cm752d266rero?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T17:42:28.000Z",
      "seen": "2026-11-22T17:45:03.336Z"
     }
    ]
@@ -455,6 +456,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "شعبة الاتصالات تكشف سبب توقف بعض الهواتف المحمولة وطريقة إعادة تشغيلها",
+     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNbFNqUEJLYndxWGVGSFduLTBLMzBWcVBsOVFNV0hsYURHbGRDdGZPaGVDT2czNzZ6dGFxRU1mcDNnRVlRM2hCbUF3UGVjRTJIdm94SlVldkNYLWx6ejBnR2F4MnZjdVRqNVNQUm5XYVY2eG1hVkJJcnBKMklpSHQtYlc3OEJQZnRjcFFFWnFhTFVxQm84dVdaLXk1UUxsMXl5aTB4OG5DOTFCa0M3UVhfLUpya09SQjBOZWI3c2tJU0IwQ05zaS1Wd2ZSaFdDRFlPZC1jQ2lCZUo0b2hOenBlalU1Z29ibVc1UjBjdVRvbjRYN2liV3VPYjJZaW8xTS11a1ZmX0pmZWxJbGJqejhia0JIb3ZGMUpuZTM0UEhoQUROS0wzUVJzUlYzY01DWWxKaGktZVgtN1lRajlvQTZHVnJDSHd1UFVGaDJYek53YU1LSmp1UkFCQUZRdmR2Y1ItdjBBTEM1NTF3Q193TUdRa2xqbVJxeHB5bjI4cmF2LVdWQ3JibklyU3hyZkxWWTBYX2Q4WVMyMVdFVkpON0ZNSjdjZmVycklJVm9UU19SbXFlZVZkUDZ4SmduOTVHYmJfc2xJRlMzVmJwOXJJMTlhbHpFX1BuWVB6YnB0bVdQVWJ2MFkwWHhob19QZ1VKcnM4NXpOaURTcUxYaVRTaEdyWW9hWmdLU1J2Uk10a1JnUzdJMUpHZnJ5dE00VFplZTVocDV4emM4Y2xVQ2dFRWFPY3NtOVktdDZzTy16WlgtUllHbENnVHFWYmExUkQycWtUeERfMENESC04bk9rakFGRU51clN1UdIB6wRBVV95cUxQbnVoU0pLVlpZNDh0eEV4ZUFkdkNYT1RpdEZYcTRfQ0d6YXg4V3lqb2NNRERHMzFJV3BwM2dWT2hMY1c0NjZ4c3FsVi02SXc3MVB3X09IQUthSEdjRTVGV2dZd2hQQjdsXzVKZDNrM2xmR1hZaGF6N191WFZSdkZhTjNwRnZnM3Vhbnp4a2lETXFsOWhQNVUtRV9UNjJIV3UxWDN6WnlMWUFtU1lsNGhnNHN6QkROOEIwcE9Tb2hySWNsdXoweTl5UnM3TWZCOWdvYlh1a3RXY0U4YkJ1cjZqTmNxVGFjMnZrdkcwWHUtSzhkc1REM1RZVkF5MDZiNDA1cVhtSDZRa0tCM3J6NnVnT3RaOERVNTVDTG55RHFYaWViOGRhZmtQeHo2RUZ5bDE0LUgtWVlwVExPU1dMTFpSNXhXa21TbXp5S2xmX1pRckRGaUxJVktVb3VXTDhEeW41cnBCQkVnTGd0aHNZenNhWWdYV3BfVXhGUUxTX0FrVGEtSnFuZlg4bVU5SG10RjloaVJYLUwzQWxXbzFaNmMxTlZqeTJxM0FLSl9zNHQ4TGU0VkczaU5MOWZ3OFdJNk1CY0xYVVRRaUdKYzhDQ3FKOUxZRUFwdEZZd2VKdVMzeThBaHFNMU5qV2JyVWF6cHlPNlZzMV9EVFZJcjhmdzlsMjlzd3ZCYXJUUVg4RjROTUpfRnAtc2FjaDNYM2VWRmhzX3htOUtZMTFWZ2psQTJLNGJtQ3lDZWpqRFdZMGtlNXp0Vk9DR204ZkRwT25oRlktYzhISlBjbVFHMWtybjN6YWE2enhsdUREc2VB?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-22T20:17:46.000Z",
+     "seen": "2026-11-22T20:55:17.858Z"
+    },
     {
      "title": "شاومي تعلن تجاوز شحنات أساورها الذكية 240 مليون وحدة",
      "url": "https://www.tech-wd.com/wd/2026/11/22/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%b4%d8%ad%d9%86%d8%a7%d8%aa-%d8%a3%d8%b3%d8%a7%d9%88%d8%b1%d9%87%d8%a7-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-24/",
@@ -552,13 +560,6 @@
      "time": "2026-11-22T12:56:18.000Z",
      "seen": "2026-11-22T13:03:48.940Z",
      "impact": "يهم المتخصصين والمستثمرين في قطاع التكنولوجيا والنقل الاطلاع على أحدث تطبيقات الكاميرات الذكية في البنية التحتية."
-    },
-    {
-     "title": "تحقيق صحفي: هوانغ مرتبطة بشبكة تهريب رقائق إنفيديا إلى الصين",
-     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOYUpSUkl0NU5Waldvd0piRGFvWkJUREQxNThEN19GMjNUT2N1Rk9sMW11Vk12SHFUUWVqZ3g3MlV5V29yX0FSVk9FNTRiOVI3dHZoMjViWjVmVHBoQ2t6UFNoRFV0YmJZWlB5amw1QVh6OVIxYi11V2U4ajdoTWpVaGJkSExKa2JpZTZBYlZGeFhoWEJ5M1RUaEFPbGVpdzItQk9Nel82MGhja1VHLVhFWFk0X0hRclJPcFhwN2xqeG5LRzJhS0lYS2owbFNZS1RVMDdXMDhoOGxpSEh1V3FMbEowUW5FQk9BTUtpYlJPWEduNU92N0VYNHlSSm45WF9UYkRQQldqOW85RlVYb200a0lBd21EcFNkcGhlN2gzaWYzX3NjeDVZXzAtLUpQTEhTelhEUktGUkdSSy12VDRvNmpRNXBYRzF4Vnl6eG1lLVVmSk9PT01MbjZ4WUZOZFZqR2NLSUVCd2hhck1iWmtGT05zUGtuOGMyVndnVE56NGFQdThIdTQ5eVl1VC1HSVo5bmJfaU5VY3NoUGRfU05LNDNpcWNoSHd5N21iYUpGb0trd1dBdzduUFc3MTBkSGgxWjktaTIxUzhtVk9VbXFvckxsdjdFcThtbGfSAd8DQVVfeXFMUGc5OWkwd2M1LWtpWjFHamFUX0FNRkdnRzdYTEFWODNGUi15dlY4NDd5WUQtZl9TUXBRSl9Oa29NNUFrUXBQeDVRSlZrN1NobjdSNFk4NUV4dG9VcWgxV1dRQnFuTkpnQVNHWWxSYU9sMzRLUUVDYmRJbEFIOEs2dmx1ZFdraUxNTEJHVTVDbFlhSlJkNnc2bGNFQm9fR1VkclhGQVpEM2dXYjlfMVhFZkIybElXMmI1a0JzUXlfVUVJVVdqQ1dnOXFlX3Bkb0JocnJpLS1oVFp1MXZHaUpwOTk3TEhDVHM1MjhRXzlIV29rcTJoZEFuT1BlNVdmQUVxV2JHdk1YR09XZlNRQjlzRWJRMjZGTGtJMGNHTXJ6cHh2RW43S0xDUFhwakV2X3BBcm00V0NXNkhod2YyMzg4NGI5UURENzc5bEQ2MUg4TXpLWlM0SGJrNWtReUN4UEJXVXo3SXBnNXc2elFmUlU0RHVBREszbGlnTzZOTVMtd3U3NDZSTU1hVHAya05LUW9mRC10ZGpTMF9xNGo0cm9MYjRLZFJHejFkRTVlcEQxUDhkUE9qYUN2NHFMYU5JU0VlNlRrSHRQY01fZHpOeTVYM2ZjbVVaNEZfTGUxTEo0cU0?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T12:21:24.000Z",
-     "seen": "2026-11-22T12:33:48.656Z"
     }
    ]
   }
