@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:43:48.976Z",
+ "updated": "2026-11-22T08:53:49.194Z",
  "minute": [
   "أصدر رئيس الوزراء قرارًا بإتاحة بيانات مشروعات البنية الأساسية للمستثمرين في مصر، إلى جانب إطلاق منظومة رقمية لدراسات التأثير البيئي.",
   "استقرت أسعار صرف الدولار والعملات الأجنبية والعربية في البنك المركزي والبنوك المصرية في بداية التعاملات.",
@@ -10,7 +10,9 @@
   "at": "2026-11-22T08:32:09.237Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T08:53:49.194Z"
  },
  "markets": [
   {
@@ -53,9 +55,9 @@
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50647,
-   "change": -1.74,
-   "asOf": "2026-11-22T08:28:48.000Z",
+   "value": 50657,
+   "change": -1.72,
+   "asOf": "2026-11-22T08:39:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59788,
-   "change": -0.51,
-   "asOf": "2026-11-22T08:43:46.000Z",
+   "value": 59658,
+   "change": -0.73,
+   "asOf": "2026-11-22T08:54:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الزمالك يدرس التواصل مع شباب أهلي دبي للحصول على مليون دولار مبكرًا",
-     "url": "https://www.elbalad.news/7189778",
+     "title": "جامعة بنها تطلق تطبيقها الذكي الجديد لتقديم الخدمات الرقمية وتعزيز التواصل مع مُنتسبيها",
+     "url": "https://www.elbalad.news/7189792",
      "source": "صدى البلد",
-     "time": "2026-11-22T08:43:37.000Z",
-     "seen": "2026-11-22T08:43:48.976Z"
+     "time": "2026-11-22T08:53:34.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
     },
     {
-     "title": "تجار النحاس يعكسون رهاناتهم وينقلون المعدن من أمريكا إلى الصين بعد تبدد مخاوف الرسوم",
-     "url": "https://www.elbalad.news/7189780",
+     "title": "العناية الإلهية تُنقذ فتاة من الموت أسفل عجلات قطار بمحطة بركة السبع في المنوفية",
+     "url": "https://www.elbalad.news/7189794",
      "source": "صدى البلد",
-     "time": "2026-11-22T08:42:15.000Z",
-     "seen": "2026-11-22T08:43:48.976Z"
+     "time": "2026-11-22T08:53:16.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
     },
     {
-     "title": "سعر الدولار الآن.. أسعار العملات العربية والأجنبية اليوم الأحد 22 نوفمبر",
-     "url": "https://www.elbalad.news/7189725",
+     "title": "فيتش: توقعات بتحول كبير فى أسواق الطاقة العالمية بـ2027 مع اتجاه الأسعار للانخفاض",
+     "url": "https://www.youm7.com/story/2026/11/22/فيتش-توقعات-بتحول-كبير-فى-أسواق-الطاقة-العالمية-بـ2027-مع/7627770",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T08:53:00.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
+    {
+     "title": "فرقة أسوان للفنون الشعبية تبهر وفود منتدى السلام والتنمية المستدامين بفقراتها الفلكلورية",
+     "url": "https://www.elbalad.news/7189781",
      "source": "صدى البلد",
-     "time": "2026-11-22T08:40:00.000Z",
-     "seen": "2026-11-22T08:43:48.976Z"
+     "time": "2026-11-22T08:52:51.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
+    {
+     "title": "وزير التعليم يتابع انتظام الدراسة بمدارس محافظة الإسكندرية",
+     "url": "https://www.youm7.com/story/2026/11/22/وزير-التعليم-يتابع-انتظام-الدراسة-بمدارس-محافظة-الإسكندرية/7627781",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T08:51:00.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
+    {
+     "title": "وزير الرى: ارتفاع إجمالي الإزالات المنفذة ضمن مشروع ضبط النيل لـ1886 حالة",
+     "url": "https://www.youm7.com/story/2026/11/22/وزير-الرى-ارتفاع-إجمالي-الإزالات-المنفذة-ضمن-مشروع-ضبط-النيل/7627767",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T08:50:00.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
     },
     {
      "title": "الجريدة الرسمية: رئيس الوزراء يصدر قرارًا بإتاحة بيانات مشروعات البنية الأساسية أمام المستثمرين",
@@ -165,28 +188,6 @@
      "time": "2026-11-22T08:35:36.000Z",
      "seen": "2026-11-22T08:32:09.237Z",
      "impact": "يسهل على المستثمرين في مصر دراسة المشروعات والتخطيط لها بناءً على البيانات الرسمية للبنية الأساسية."
-    },
-    {
-     "title": "إطلاق المنظومة الرقمية لاستقبال دراسات تقويم التأثير البيئي ووقف الاستلام الورقى",
-     "url": "https://www.youm7.com/story/2026/11/22/إطلاق-المنظومة-الرقمية-لاستقبال-دراسات-تقويم-التأثير-البيئي-ووقف-الاستلام/7627700",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T08:30:00.000Z",
-     "seen": "2026-11-22T08:32:09.237Z",
-     "impact": "يوفر الوقت والجهد على أصحاب الأعمال والمستثمرين في مصر عبر التقديم الرقمي لدراسات الأثر البيئي."
-    },
-    {
-     "title": "خبير ياباني لـ«اليوم السابع»: مصر لديها ثروة شبابية ونتعاون لتأهيل جيل ماهر",
-     "url": "https://www.youm7.com/story/2026/11/22/خبير-ياباني-لـ«اليوم-السابع»-مصر-لديها-ثروة-شبابية-ونتعاون-لتأهيل/7627044",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T08:29:00.000Z",
-     "seen": "2026-11-22T08:32:09.237Z"
-    },
-    {
-     "title": "وزيرة التضامن تشهد احتفالية \"الأب القدوة\" لتكريم الآباء الملهمين",
-     "url": "https://www.youm7.com/story/2026/11/22/وزيرة-التضامن-تشهد-احتفالية-الأب-القدوة-لتكريم-الآباء-الملهمين/7627712",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T08:29:00.000Z",
-     "seen": "2026-11-22T08:32:09.237Z"
     },
     {
      "title": "قرار بتخصيص 12 ألف متر مربع بالمجان لتوفيق أوضاع مركز شباب الشهداء بالمنوفية",
@@ -243,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "10 أعوام من \"التعويم\"... ماذا بقي في جيب الأسرة المصرية؟",
+     "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxNdl9ZQkFWV1JkVjlkM19OTTAwYzdmZ3pjM3FVNnhVYWJrX2h5M2hsMmRrcDF2dDFCUDZhUzduR3gwOHdIZlg3Q2VnX2pOdVBQRjd4WEtKRGY4MHpfSXRxRnNtLTFVWER0bFdEbkRGRmRGUVBaOU9iUi1tYUljN0M0aUJQaVFhRkJzbEU5YXl3M2t1TWw4WHZNTUZDYkZLRDNMam10X0s0c2VHNUN5QkViM0x6VUpmS0JZRHBKREVfQW1adXQyUTRJQVBydURMb09hbW9WMnViOVU3Q0RnWXhVN29JSnBramRTMnlkXzNDcFdadWZILThhaVhQNnVwcFk2aU0xaU1QeTFnZlRjN21uOVZ0dUxBVmRQMDhucmlTaFd4RjZhWjFRRzBmb3lBNElOems3SnFyenhRTkFGdFdSa2JoT2dzRTZHQ2N2NXpYNXNMSE1OQ1JZY3l4M2hzZlpteVB1dHRPaTR4T2p3TmN2d2VIZzFxMXNMcURETXJhOEY2RW5kNUJMOUxDWHVpVmg2TEY2TmRIUHRHd3ZvNjZKd09RVU1LMlpPdEZRZkQwOG1MSHB1Zmp2ZWtibUJlenRCa2tJYzVKdjFFLXRQd1JVVUl2bkhuRnlqdGV2aEtFS3VIeElxU0JYMkRsRUctUUROOUJfNm56d3ZCOGhNS05lWWh0RDlJTTFLLWhybmhCMUpDNzdxZ3RIRmplV1kwMU02RWJsdEtSNWp1Yzd5dHFOVUg5bk1INzJWSzBFNUh2YlRQZDBPN0VpNE9IekNyeHFTQ3BUVVFiZXBuMFJ0Wk5YUnBrV2ZSUF9jdVE1cXZMYk1wRVZLVHVWei1ES1FFZw?oc=5",
+     "source": "اندبندنت عربية",
+     "time": "2026-11-22T08:48:10.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
     {
      "title": "البحرين تعلن زوال \"حالة الخطر\" بعد هجمات إيرانية على \"منشأة صناعية مدنية\"",
      "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
@@ -339,13 +347,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-22T06:48:09.000Z",
      "seen": "2026-11-22T06:52:08.395Z"
-    },
-    {
-     "title": "سعر الريال السعودي في مصر اليوم الأحد 22/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xTVlWYzc0QzFkQTZFNmQwQzF3MnphaWZrM2M0eUVoWWFZZjdoT0pQUVE2dTRtWHQ2a21lMTZ0R1oxNXFwRlBVU1RyTVdlR3lWRjd2dk53?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-22T06:43:51.000Z",
-     "seen": "2026-11-22T06:52:08.395Z"
     }
    ]
   },
@@ -353,6 +354,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "مستوطنون يحرقون 14 مركبة خلال هجوم استهدف قرى بالضفة الغربية",
+     "url": "https://www.skynewsarabia.com/middle-east/1906307-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D8%AD%D8%B1%D9%82%D9%88%D9%86-14-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%89-%D8%A8%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T08:43:08.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
+    {
+     "title": "\"حرب الناقلات\".. شركة ملاحية تعلن تعرض 3 سفن نفطية لهجمات بمضيق هرمز",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/three-tankers-struck-in-strait-of-hormuz-since-friday-marisks-says",
+     "source": "CNN بالعربية",
+     "time": "2026-11-22T08:39:19.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
     {
      "title": "إيران تروّج لـ\"رسائل من المدينة الصاروخية\" موضحة \"خيارين لا ثالث لهما أمام الأعداء\"",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/iran-missile-city-warnings-messages-report-irna",
@@ -418,25 +433,11 @@
      "seen": "2026-11-22T06:42:08.923Z"
     },
     {
-     "title": "حكومة وحدة بلا نتنياهو.. هل تنجح معادلة آيزنكوت؟",
-     "url": "https://www.skynewsarabia.com/middle-east/1906291-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A8%D9%84%D8%A7-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%86%D8%AC%D8%AD-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T06:25:49.000Z",
-     "seen": "2026-11-22T06:32:08.369Z"
-    },
-    {
      "title": "مباشر: البحرين تتهم إيران باستهداف \"منشأة صناعية مدنية\" والتحالف بقيادة السعودية يتصدى لهجمات حوثية",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261122-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AA%D9%87%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%86%D8%B4%D8%A3%D8%A9-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A8%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-22T06:19:46.000Z",
      "seen": "2026-11-22T06:32:08.369Z"
-    },
-    {
-     "title": "إيران: 16 دولة زودت صدام حسين بأسلحة كيميائية واليوم تتهم طهران بإنتاجها",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/iran-saddam-hissien-dirty-bombs-us-16-countries-aid",
-     "source": "CNN بالعربية",
-     "time": "2026-11-22T05:36:22.000Z",
-     "seen": "2026-11-22T05:42:08.935Z"
     },
     {
      "title": "مدفع إطفاء يهاجم صورة اللهب في منتجع.. ما الذي أشعل الموقف؟",
@@ -459,6 +460,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "تسريب: Huawei Mate 90 Air يحتفظ بمعالج Kirin 9020 ويقل سمكه 0.02mm فقط",
+     "url": "https://www.tech-wd.com/wd/2026/11/22/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-huawei-mate-90-air-%d9%8a%d8%ad%d8%aa%d9%81%d8%b8-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-kirin-9020-%d9%88%d9%8a%d9%82%d9%84-%d8%b3%d9%85%d9%83%d9%87-0-02mm-%d9%81%d9%82/",
+     "source": "عالم التقنية",
+     "time": "2026-11-22T08:52:19.000Z",
+     "seen": "2026-11-22T08:53:49.194Z"
+    },
+    {
      "title": "ByteDance تقترب من إنفاق 500 مليون دولار على خدمات مايكروسوفت للوصول إلى نماذج OpenAI",
      "url": "https://www.tech-wd.com/wd/2026/11/22/bytedance-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a5%d9%86%d9%81%d8%a7%d9%82-500-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%b9%d9%84%d9%89-%d8%ae%d8%af%d9%85%d8%a7%d8%aa/",
      "source": "عالم التقنية",
@@ -473,13 +481,6 @@
      "time": "2026-11-22T07:49:16.000Z",
      "seen": "2026-11-22T07:52:08.818Z",
      "impact": "يعطي المهتمين بالتكنولوجيا انطباعاً عن تسعير أجهزة ميتا الجديدة وخدمات البيانات المرفقة بها."
-    },
-    {
-     "title": "رئيس SoftBank اتصل بمؤسسات مالية لتمويل شراء SK Hynix",
-     "url": "https://www.tech-wd.com/wd/2026/11/22/%d8%b1%d8%a6%d9%8a%d8%b3-softbank-%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%b4%d8%b1%d8%a7%d8%a1-sk-hy/",
-     "source": "عالم التقنية",
-     "time": "2026-11-22T07:42:37.000Z",
-     "seen": "2026-11-22T07:52:08.818Z"
     },
     {
      "title": "حرب المسيرات مشتعلة بين روسيا وأوكرانيا.. ولا بارقة أمل لإنهاء الحرب قريباً",
