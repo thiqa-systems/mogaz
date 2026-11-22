@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:05:04.012Z",
+ "updated": "2026-11-22T18:15:04.270Z",
  "minute": [
   "شهدت التعاملات المالية في مصر ارتفاع سعر الدولار مقابل الجنيه بمقدار 60 قرشاً، بالتزامن مع دراسة صندوق صناعة السيارات حوافز جديدة لمستثمري ومصدري المركبات الكهربائية.",
   "وعلى الصعيد الخدمي، أعلنت هيئة الأرصاد طقس الغد معتدلاً نهاراً ومائلاً للبرودة ليلاً بالقاهرة، فيما حددت مديرية التعليم جدول امتحانات شهر نوفمبر لصفوف النقل.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T17:55:04.335Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 4
+  "impacts": 4,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T18:15:04.270Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60773,
-   "change": 1.13,
-   "asOf": "2026-11-22T18:05:03.000Z",
+   "value": 60667,
+   "change": 0.95,
+   "asOf": "2026-11-22T18:15:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "برلماني: بدء صرف تعويضات مالية للمتضررين من تأخر صرف المعاشات الأسبوع الجاري",
-     "url": "https://www.elbalad.news/7190486",
+     "title": "ترتيب الدوري التركي بعد فوز طرابزون سبور على أيوب سبور",
+     "url": "https://www.elbalad.news/7190504",
      "source": "صدى البلد",
-     "time": "2026-11-22T18:04:26.000Z",
-     "seen": "2026-11-22T18:05:04.012Z"
+     "time": "2026-11-22T18:14:34.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
     },
     {
-     "title": "تموين بني سويف يحرر 61 محضرا خلال حملات على المخابز البلدية والأسواق العامة",
-     "url": "https://www.elbalad.news/7190428",
+     "title": "محمود محيي الدين: الاستثمار في الإنسان مفتاح نمو أفريقيا",
+     "url": "https://www.elbalad.news/7190506",
      "source": "صدى البلد",
-     "time": "2026-11-22T18:04:17.000Z",
-     "seen": "2026-11-22T18:05:04.012Z"
+     "time": "2026-11-22T18:13:22.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
     },
     {
-     "title": "منتخب الارجنتين يهزم موزنبيق 2\\1 في كاس العالم للناشئين",
-     "url": "https://www.elbalad.news/7190488",
+     "title": "ألفاظ وإشارات خادشة.. القبض على فتاتى المترو بعد إنتشار الفيديو المثير",
+     "url": "https://www.elbalad.news/7190493",
      "source": "صدى البلد",
-     "time": "2026-11-22T18:03:42.000Z",
-     "seen": "2026-11-22T18:05:04.012Z"
+     "time": "2026-11-22T18:12:49.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
     },
     {
      "title": "تعليم القاهرة تعلن جدول امتحان شهر نوفمبر لصفوف النقل 2026",
@@ -180,12 +182,26 @@
      "seen": "2026-11-22T17:35:04.094Z"
     },
     {
+     "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YTlXWWd3SnFuLThIX1hnZ3NoOE5HUzlkZ1ZPMVpIMEtrclBDNUpHelo1Y1FmUVl0am5LQmdCcEg5eEZMcU5SLU5ESjVpSE5mR0RzUDRLdVNOZzd3YUM0RXVZaGs4Ml9vR1piSi1xMVZhSEdIek1CdHhpMGRjbzA?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-22T17:27:06.000Z",
+     "seen": "2026-11-22T12:03:48.510Z"
+    },
+    {
      "title": "توجيه عاجل من رئيس الوزراء للحكومة بشأن الهواتف المحمولة.. يهم ملايين المواطنين (تفاصيل)",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZE94QUs1V051OXlmbG1yb1FIZXZXMWxIZTh4djd6bktRZGE1T1dqQXN2dGxmaFpadUxFb0V6dUFfenpnVFRtczNFaW8zTF9KQ195THhGYkZOUm9wMDR3?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-22T17:03:00.000Z",
      "seen": "2026-11-22T17:05:04.215Z",
      "impact": "يمس قطاع عريض من المواطنين والمستوردين في مصر لمعرفة أي تنظيمات جديدة قد تؤثر على أسعار أو توفر الهواتف المحمولة."
+    },
+    {
+     "title": "هشام عبد الحميد يكشف حقيقة عودته لمصر ويوضح علاقته بالسياسة",
+     "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQeW5SbTFSeGpfOHBGcHFjRXdXZ3Q1OHBhYWxUVzZiUGQzbzlNOEF1elJzSGEzVi1XMjBkQmNGeEtLLTFpZm05NnZHWndTVmJ0V0E0XzZmd0c1SnFzSlNZMUZkejhSN3pUSmlKTXhpMVF3S2p6Mi1SYXRlV0xRUU1scHA4b0hUNVNzQTN1MGtzVnI0ejZPV1JrR1NLdnk5NUtKWXNjbm1vNmlSSU9pVER5c1dhaFhLMnZ3SXRiWm9xSVBOUXc1dm9zd3NLcHByRWNqNlpLMWF1WG9BUzhieXBUZGZDdjY2M19URlM3ZTUwcjE2c1dTS0FzUXhJZDhfb25UeEhialZrQUdTeW5YbGdrX2xUZW9DUFlMVnFaUS1KNW9mREZCMTJZVHJWNXdNam01OHp4VEJqVVFIVWlkT3llc0ZXa3k3aU52SGhVdVRZVk5kWTVkOUpSRGlqMWMzM1JsdlltWVR6UFV2Ti1xeS1IMVhpY3hkSkRVS05KVGJfMEtYUGhvcFhOTjhxQ00tUmZyUzJIeWp5ZkUyU0RpcC1ZWlRYanE1V0tfTC1sTXVZak9Na2VzZUFVQ2V1dE9BMEVQMXFPNXEwd2NkS1NyQkVJVExYUTZkb3VYbEZOMWJxUlRLczJvTUhHX1N4a3JhY29XWTZ3TVljN3HSAf4DQVVfeXFMTU5rd1ZrSVNMSWhTbDh2QmNmb3pWdzNFalRJeHBqNzEyN09SSUpHbEtMbnhfZFp0YWlUMERXV3hhY090ZEY1N3MycEJDR0tlQzlhSHN0MjY2eU12SEdueGVTRVBiWGd0MGc2VjJnREJ3NnI2VEhudHhMY2pVN01yUnk2ZUhzcktJQzRLNXI3cmFsei14ZUZYcUtMcDFVSWxGaGo5QnBmcGlwSUFaRFFPUnBJYllBZlVuVjBzclFnNHhUSnZKQ0ZYeERyVzNPUlozV2piRmFNY0lHaFRTYzQ3dkprMDJpak5FbWJQMktCa0Y5Rmw5NlItNHJzTVFrc2owb2NDV0xpZ1c5Sm9WREs5alNmREpQeHdlTmtxTHpURmVNblFfWnJfR2dCXy1YU0tVZ0t4NFNXeTlsVTdqOWJ4Nnh0UE4wVGtJZ1pfa293MlBNWGxuVFU3ZTVjQWdxTXZHQTEtMUVPMU9QYnp0RmtLQ0ttNVFrM2plOGVLTXM2aTJqYnVvRmgwTl9tcXFXOXNiS0wzenB2VnJjbHMyUkpYbE5QYW54MHdqNFB6M3ZqOGhOdHN1MkdQTWpfcHoybFlPZ3UxN0dWYUNreXVrc0NHN04zU2Q0MXJWVzdIOFpFWldiTGVJSkFvVnRSWUxyZjB4YXFrdmpJYVJHaE1ScXR3?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T16:55:24.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
     },
     {
      "title": "مدبولي يستعرض منهجية مراجعة وتدقيق بيانات الناتج المحلي لتعزيز دقة المؤشرات",
@@ -200,13 +216,6 @@
      "source": "Masrawy",
      "time": "2026-11-22T16:09:17.000Z",
      "seen": "2026-11-22T16:45:04.139Z"
-    },
-    {
-     "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YTlXWWd3SnFuLThIX1hnZ3NoOE5HUzlkZ1ZPMVpIMEtrclBDNUpHelo1Y1FmUVl0am5LQmdCcEg5eEZMcU5SLU5ESjVpSE5mR0RzUDRLdVNOZzd3YUM0RXVZaGs4Ml9vR1piSi1xMVZhSEdIek1CdHhpMGRjbzA?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-22T15:57:06.000Z",
-     "seen": "2026-11-22T12:03:48.510Z"
     },
     {
      "title": "مدبولي يؤكد حرص الدولة على تحديث بيانات الناتج المحلي بما يعكس الهيكل الفعلي للاقتصاد المصري",
@@ -228,13 +237,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-22T15:11:00.000Z",
      "seen": "2026-11-22T17:25:03.434Z"
-    },
-    {
-     "title": "توجيه عاجل من مدبولي للحكومة بعد ارتفاع أسعار الهواتف المحمولة",
-     "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNbXB5UXY5T2NkaHRyODhROV93a0QwWHZ6ZFc3LTlHSi1kd3BsWV9CMEtncHNyeFkzSFhHWjcwREFXckNUaGlkWFNMYlVEV2otN181YUVqaHJOQ01LWk5LNTN0VURBM1NKQ0ZUWFp1SFZjYWF0c20zQnFHeXFROUtTSHVxRi1jNzdkaUg1VFlDYWZuVUZ2bnplX0I0ZEJzX3hjbWVFQzVjM3FRMXVmaW05NnpFUXAybG5WcmNzWTJYRTdNRVVhMGd0U3FiSmViVG1lTzNuUGQxRWpYeHd2dXJVTGhWeGxqeGJCUjBCY2JYaGowTGdHR19QbFJrT2JkY2R4UWlMRU5mNnlxSThQUTBQLXg0Q3NZa0pMVk5hOG9lSnpNZHFjYmQ2TjFzdjNXcHRvNzNEZkFESFN0a2xISGdCRkw2YXJSQkMtM2JMMWZna2pnXy1xM3RiLUtKNnhEb1Z3Rngwazc4VkdVdEJPZk1uSFRVU21uYldGMzkzdTBSVXNoS0ZEVUFRblBwaUNhZHd6ZEZfQ1AyUElrU25JRko3RWJaZTRjbW56eEpNUTVIMENTNEJacENBMUIxbzFkOGNfb3ZNUEd3Q1d0WXhjZVJoVEw0ZWFRbnVRRTZmRVhYN3dfVnYzQ3RoNW1pM2QxQ2RNMzBwV0JBcXNwRVoyTThVazNIODFBajNRLXpIamJ1Nlg3X2p5NlhsZ3VEOUtVNUZGdkViWGs4azlYd9IBrwRBVV95cUxNcjFqSmdzcEtVRVZBQzBZalRTTEtiTHRpRllZc2J3T2NUUzQ4WERtM2tDQlBIR2dIZHllcWdmNFZZcEx3ZDg5bzBXNWRvVnVXaWNRSnpfSlJUdEQ4bjJiRExzWmpMZGdpbTZmcXdLMjdQYlZWSTJhS3pNU0liZmE0WlJhQjJLNVZKYTVkdUlsQTNEdGpLOWI1SjJQQ2d3ZXFVMWhkajVhYUpwMGk0S00xQkZpZnpZVnBQMzBZTG51a2JqZUMzdXdWcUZfUFhzMmNTX1luSHI0Q1ZQVXZaNFJPUi15T3lhRW96d2FqcFhyRG1SWHhyakt0RFd3Ymk2SHVDeUpPQUVUOVcybW5JR19vYzYwY1cyLWhuejZhS0h1cFRuaS1SRThWT1lkdlFLckx3UnlkV3BEQ0JpRkhLRWNvLVFXdnY0dEZfSUZKOW9ZcF9DcGZkeFhITG1lZ0xyWk1TS3JDbXVPWFRyN2hXd3Jhd0d4VEhjRUkwM0VXdHZqUGJ5Y1V1QThuQkVfUG10Q0lySW9STWg1STdaaE44bER3cVlfZWlFQnY0c3NpVG8wVjhZd0dTbFlTelBZZzFrTXJqUHBEQUFwekxtRmdraFZWbjItSThwcDRCUUZpRGJ1N2ZPdTdlVjdQQ0huOGxTNmZJNUtJZnM3dHFYaGc2NDN2SVFRY0IybXBWUFVMY1lBdExwRDl0cDRDUGs3SEJMRHhsX081ZzdMd0xEc2xWUXVF?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-22T13:31:20.000Z",
-     "seen": "2026-11-22T13:53:48.533Z"
     }
    ]
   },
@@ -325,6 +327,13 @@
      "seen": "2026-11-22T14:45:03.298Z"
     },
     {
+     "title": "هل توقف تجار الذهب عن البيع بعد انهيار الأسعار عالميًا؟",
+     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPTmpoX1hkWk9EWDZVUm5yVlZqb0VmejF3Y3pQM3VobTFWTl9tUU5fTnZNRDM0WURIUE9EbTVCamtRb3F4N0NRamtGeE51OGNGd3lkZE40RE8teFFSM2FRTzhISk9OOUVDREJPS1VrS2F0NzRJMzNUZHVwclZOZ2lveE4tTjJFTndudTZ1TkVWZUk3WGQydXpIYlV5clVMLWVPTkRQbHFCQ2RQbUhFY3h3eU56b2t4ZkRlWUozeUI0NzJ6cmljOFZ3ZFM5OU5BbXBIQktzUlZDOUI5V2dzTDllc09oMkVjaTgzTmxGOTliSXg5bkJqTktIT0V3SFUybG9ZdW04YkpIaEZ4LXFjWXhSYVhoU1hER0hRTjBMUDVZWmh4cTBrTDl5eXpLd09qZzhUVEh1WktrX1Vjd3NOa0VoUXdGdFM4Q2RlQi1JY0FZT1FzMlo5UXdva1BOZEp2VXFEZGkyM19vZU42SENBV1RVT1FyR3Y5OW9UVzJYM09SbFVjMHF3R3NSSXkwTEpnYkx3VXcxdElxb1UxVUQ3U2E0QWYwR0lFZVB5MkZkUVhpbVRxUlVzaksza19WRTMxc0lZLUw1QmpKQ0NvMlA5SGI5VjR0cW0xRFd3eGdCZk85SjExajlCZFR30gHsA0FVX3lxTE5USVVUSG5reDEyb3dSN2FnMUVNb0M2bUhhb1FKN09xNmdvWjFfWG4xSjVEOWxWMFlKS1hhRGhWSG5feTZvQWNYeG9xTUpCWWU5OW00MDdnQ1k4ckJNSFdRX1B4dWZoU080aHJHWFlIUXZvSjg5b1ZaWWZoT3VGX0VZTHdkcTkwTllfbFB0SWg0cUdzSlVGMGNnWllpTHBXMlI0V1N5SjhtUmp3Ulh1RjA3SGhqTHNqQXp1Slhoa011Zy1NUGZTUHBmN044ZmxhSkxHM25JV3BaT3o1M0JFcXA4OUlfZEh1d29HYjhhdkFqdGVoc090YnZJN2JPeVlIS0ZWUmpXeTRtOWFVaU1xWnBoUk1nQl85WDItN0thWjdQeGN6aTJiWFBTR3Nxb0N0eUVDMG9ObzU3R21pTGgxalRGS2FQNHNNQjVvWEhfa2lwdTZZSmVPRi1EOWpfVF9LMjlKS040SXI2Ujdfb3BNZ0pNalJHaEVyVDRDU1RVYkpvanc5a2lZSTdwT1ljUDJCc2hVN29RYzI0QWtUZkFmVExualV0OHVCYUpHcXVUSDNqLWhzT1VrYlRDdW1jTzR2dGN3WHdmMlVwX2FaRW9SanFYV2pLc1lXaXotX0xsZUg3UFVXNTNDRjl6X2tldQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-22T14:24:40.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
+    },
+    {
      "title": "ارتفاع سعر صرف الدولار في البنك المركزي المصري والبنوك المصرية (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vWFhVVDhWU25QbjJWeDEzOWRkRmNwYVEtYzdIblVLcDE3bmpmcjJLT0F6UEJId3JXUURhRjBUUF8wcHh5NThF?oc=5",
      "source": "فيتو",
@@ -338,13 +347,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T14:11:28.000Z",
      "seen": "2026-11-22T15:05:03.641Z"
-    },
-    {
-     "title": "سعر الدولار في مصر اليوم الأحد 22/11/2026.. قفزة مفاجئة",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xX3JpcEJ2NzBIZWtvNVBtaGpJYmcxdFJmMm5LWTFrWXV3MEJKSmtFVG9LSG5QU3NlbW9zRk5MRE9xeDhweUxCMjNUQnVuVEFyai1UMFpB?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-22T14:10:08.000Z",
-     "seen": "2026-11-22T17:55:04.335Z"
     }
    ]
   },
@@ -352,6 +354,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "ماذا يحدث في بنغازي؟ هجمات بحرية واستهداف متلاحق",
+     "url": "https://www.skynewsarabia.com/middle-east/1906353-%D9%8A%D8%AD%D8%AF%D8%AB-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%AA%D9%84%D8%A7%D8%AD%D9%82",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T18:06:27.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
+    },
     {
      "title": "بنغازي تشهد هجوما بحريا جديدا واعتراض أكثر من 12 مسيرة",
      "url": "https://www.skynewsarabia.com/middle-east/1906361-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%AA%D8%B4%D9%87%D8%AF-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%88%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%A3%D9%83%D8%AB%D8%B1-12-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9",
@@ -402,6 +411,13 @@
      "seen": "2026-11-22T17:35:04.094Z"
     },
     {
+     "title": "البحرين ترد على الحرس الثوري بعد ضربات إيرانية جديدة",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS01qZWQ4Wm5pRHdCdWpWOGVid3FMWEU1YVNnaXhMQ1RqbjAzc3BqTXBpMHI1UHZVUFk0UU92VnVGMmtGZGM3dTBKZFdjVnVWN2MwdDN6aHRIcEdsV2tfVU1VU0VrZmphOGdDTXpCbzVuVElJa0NlVng1dE5JSEhyaVh5UHh2UQ?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-22T17:16:33.000Z",
+     "seen": "2026-11-22T17:45:03.336Z"
+    },
+    {
      "title": "هجمات ليلية للمستوطنين في الضفة الغربية.. وآيزنكوت يصفها بـ\"إرهاب يهودي\"",
      "url": "https://arabic.cnn.com/middle-east/video/2026/11/22/v205769-israel-settlers-attack-west-bank",
      "source": "CNN بالعربية",
@@ -423,13 +439,6 @@
      "seen": "2026-11-22T16:55:03.448Z"
     },
     {
-     "title": "البحرين ترد على الحرس الثوري بعد ضربات إيرانية جديدة",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS01qZWQ4Wm5pRHdCdWpWOGVid3FMWEU1YVNnaXhMQ1RqbjAzc3BqTXBpMHI1UHZVUFk0UU92VnVGMmtGZGM3dTBKZFdjVnVWN2MwdDN6aHRIcEdsV2tfVU1VU0VrZmphOGdDTXpCbzVuVElJa0NlVng1dE5JSEhyaVh5UHh2UQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-22T16:35:56.000Z",
-     "seen": "2026-11-22T17:45:03.336Z"
-    },
-    {
      "title": "\"لنبدأ العمل\".. عبد الرحمن السيد يعلق بعد منشور من ترامب",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekZjTDJsMXV5ejNkVmJWUlhfTUtrZEZwRHpiZGp1bWl6SlNici1ZejdxTWxzUUdzY0tJNnBDMGZVT19ETDJMcG9IcXJIaHhlQ0lwMGhGeWFncjB5VEZJVjdCLUtwLXFIUnlPYzg4WG1xZ3FsTzczcDVPV0tYUWdaODhQR2h4S010aXNkNzZfTGVtN1hNX2hkRWcwRnlacnB2ZGZtaHJKTVRWXy01bDdCbjh4NGx3X3I5cnZrZ3N3?oc=5",
      "source": "CNN Arabic",
@@ -442,14 +451,6 @@
      "source": "BBC عربي",
      "time": "2026-11-22T16:32:53.000Z",
      "seen": "2026-11-22T16:45:04.139Z"
-    },
-    {
-     "title": "البحرين تشكو إيران لمجلس الأمن وتطالب بتعويضات، وقاليباف يتحدث عن \"ردع مستدام\" في الخليج",
-     "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T16:29:32.000Z",
-     "seen": "2026-11-21T13:39:45.128Z",
-     "impact": "يهم المستثمرين للتعرف على مستويات التوتر الجيوسياسي وتأثيرها المحتمل على استقرار الأسواق الإقليمية."
     }
    ]
   },
@@ -463,6 +464,14 @@
      "source": "الشرق للأخبار",
      "time": "2026-11-22T16:41:15.000Z",
      "seen": "2026-11-22T18:05:04.012Z"
+    },
+    {
+     "title": "البحرين تشكو إيران لمجلس الأمن وتطالب بتعويضات، وقاليباف يتحدث عن \"ردع مستدام\" في الخليج",
+     "url": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T16:29:32.000Z",
+     "seen": "2026-11-21T13:39:45.128Z",
+     "impact": "يهم المستثمرين للتعرف على مستويات التوتر الجيوسياسي وتأثيرها المحتمل على استقرار الأسواق الإقليمية."
     },
     {
      "title": "تقرير: الذكاء الاصطناعي يرفع حوادث الاختراقات وانقطاع الخدمات",
@@ -493,6 +502,13 @@
      "seen": "2026-11-22T13:53:48.533Z"
     },
     {
+     "title": "توجيه عاجل من مدبولي للحكومة بعد ارتفاع أسعار الهواتف المحمولة",
+     "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNbXB5UXY5T2NkaHRyODhROV93a0QwWHZ6ZFc3LTlHSi1kd3BsWV9CMEtncHNyeFkzSFhHWjcwREFXckNUaGlkWFNMYlVEV2otN181YUVqaHJOQ01LWk5LNTN0VURBM1NKQ0ZUWFp1SFZjYWF0c20zQnFHeXFROUtTSHVxRi1jNzdkaUg1VFlDYWZuVUZ2bnplX0I0ZEJzX3hjbWVFQzVjM3FRMXVmaW05NnpFUXAybG5WcmNzWTJYRTdNRVVhMGd0U3FiSmViVG1lTzNuUGQxRWpYeHd2dXJVTGhWeGxqeGJCUjBCY2JYaGowTGdHR19QbFJrT2JkY2R4UWlMRU5mNnlxSThQUTBQLXg0Q3NZa0pMVk5hOG9lSnpNZHFjYmQ2TjFzdjNXcHRvNzNEZkFESFN0a2xISGdCRkw2YXJSQkMtM2JMMWZna2pnXy1xM3RiLUtKNnhEb1Z3Rngwazc4VkdVdEJPZk1uSFRVU21uYldGMzkzdTBSVXNoS0ZEVUFRblBwaUNhZHd6ZEZfQ1AyUElrU25JRko3RWJaZTRjbW56eEpNUTVIMENTNEJacENBMUIxbzFkOGNfb3ZNUEd3Q1d0WXhjZVJoVEw0ZWFRbnVRRTZmRVhYN3dfVnYzQ3RoNW1pM2QxQ2RNMzBwV0JBcXNwRVoyTThVazNIODFBajNRLXpIamJ1Nlg3X2p5NlhsZ3VEOUtVNUZGdkViWGs4azlYd9IBrwRBVV95cUxNcjFqSmdzcEtVRVZBQzBZalRTTEtiTHRpRllZc2J3T2NUUzQ4WERtM2tDQlBIR2dIZHllcWdmNFZZcEx3ZDg5bzBXNWRvVnVXaWNRSnpfSlJUdEQ4bjJiRExzWmpMZGdpbTZmcXdLMjdQYlZWSTJhS3pNU0liZmE0WlJhQjJLNVZKYTVkdUlsQTNEdGpLOWI1SjJQQ2d3ZXFVMWhkajVhYUpwMGk0S00xQkZpZnpZVnBQMzBZTG51a2JqZUMzdXdWcUZfUFhzMmNTX1luSHI0Q1ZQVXZaNFJPUi15T3lhRW96d2FqcFhyRG1SWHhyakt0RFd3Ymk2SHVDeUpPQUVUOVcybW5JR19vYzYwY1cyLWhuejZhS0h1cFRuaS1SRThWT1lkdlFLckx3UnlkV3BEQ0JpRkhLRWNvLVFXdnY0dEZfSUZKOW9ZcF9DcGZkeFhITG1lZ0xyWk1TS3JDbXVPWFRyN2hXd3Jhd0d4VEhjRUkwM0VXdHZqUGJ5Y1V1QThuQkVfUG10Q0lySW9STWg1STdaaE44bER3cVlfZWlFQnY0c3NpVG8wVjhZd0dTbFlTelBZZzFrTXJqUHBEQUFwekxtRmdraFZWbjItSThwcDRCUUZpRGJ1N2ZPdTdlVjdQQ0huOGxTNmZJNUtJZnM3dHFYaGc2NDN2SVFRY0IybXBWUFVMY1lBdExwRDl0cDRDUGs3SEJMRHhsX081ZzdMd0xEc2xWUXVF?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-22T13:31:20.000Z",
+     "seen": "2026-11-22T13:53:48.533Z"
+    },
+    {
      "title": "دبي تكشف تصميم عربات الخط الأزرق للمترو بكاميرات لرصد العوائق وعدّ الركاب",
      "url": "https://aitnews.com/2026/11/22/%d8%af%d8%a8%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%b9%d8%b1%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%b7-%d8%a7%d9%84%d8%a3%d8%b2%d8%b1%d9%82-%d9%84%d9%84%d9%85%d8%aa%d8%b1/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -513,13 +529,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-22T12:13:00.000Z",
      "seen": "2026-11-22T15:25:03.296Z"
-    },
-    {
-     "title": "كيف وجدتْ أوروبا نفسها على قائمة رغبات بوتين؟ - مقال في الغارديان",
-     "url": "https://www.bbc.com/arabic/articles/cmwy8702pwzzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T11:46:34.000Z",
-     "seen": "2026-11-22T11:53:48.358Z"
     },
     {
      "title": "الذكاء الاصطناعي يكتشف سرطان المثانة قبل تشخيصه بسنوات",
@@ -551,17 +560,16 @@
      "time": "2026-11-22T11:07:00.000Z",
      "seen": "2026-11-22T12:53:48.430Z",
      "impact": "اعتماد 88.8% من تصفح الإنترنت في مصر على أندرويد يوجه شركات التكنولوجيا والمستثمرين لتركيز خدماتهم وتطبيقاتهم الرقمية على هذا النظام."
-    },
-    {
-     "title": "كيف أسقطت التكنولوجيا والحيل أحد أخطر أباطرة المخدرات في المكسيك؟",
-     "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQSGpURDBCZUJHRDhsVUtLQmgzLTZZT2hnSjRDcG1IdTVzMk95NThKLWdqaTFINlUxc0hnakR4MThONEpQcUF2RHY5NzlOa29VN2JHVEZlZlowdkJKU0RraDBRS0JGUlhMcEFJME9ydXRneGQtdGpuTE5LNVhMTDVGMFBYUDZGOXZMeHBBYkZ6ejR5V0RqcGhkSGNhRTc1QWVJcDlKWWtkNXhMQXE3SmY1Y0Y3bnBhSUdnRG9pTFc1QVFSazlDY3hSMFRwclRxbnBNRHFLTzRwci1QQmRXRV80VTU3Yk4yVTBRY0N1N0FwNHYxNk5ha2p5WE5zRnpGRUZKbjdFaDY2RzJfSGU4SHI4cTlHQkhpaWlIZVExQjhPUVZTeTFBSmtpaHgtOXRLV1VjYmVHMXdMVDVROGNid1RYWXhSd0otRGVfeV9wQTMyN2g4UURyQkhwRlloT0pSTjB5?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-22T10:26:02.000Z",
-     "seen": "2026-11-22T10:53:49.017Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
