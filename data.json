@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:15:03.529Z",
+ "updated": "2026-11-22T15:25:03.296Z",
  "minute": [
   "شهدت الأسواق المصرية ارتفاعًا في سعر صرف الدولار مقابل الجنيه، بالتوازي مع تكثيف الحملات التموينية وتوفير السلع المخفضة بالمنافذ.",
   "وعلى الصعيد الإقليمي، ينفي الجيش الليبي وجود خلافات مع مصر مع متابعة تفاصيل استهداف سفينة روسية في بنغازي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-22T15:15:03.529Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T15:25:03.296Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60789,
-   "change": 1.16,
-   "asOf": "2026-11-22T15:16:06.000Z",
+   "value": 60797,
+   "change": 1.17,
+   "asOf": "2026-11-22T15:26:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,18 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وكيل الأزهر يستقبل وفد مؤسسة «السلام في العالمين» الإندونيسية لتعزيز التعاون",
-     "url": "https://www.elbalad.news/7190269",
+     "title": "ولي العهد السعودي ورئيس وزراء بلغاريا يبحثان المستجدات الإقليمية والدولية",
+     "url": "https://www.elbalad.news/7190279",
      "source": "صدى البلد",
-     "time": "2026-11-22T15:14:13.000Z",
-     "seen": "2026-11-22T15:15:03.529Z"
+     "time": "2026-11-22T15:24:39.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
     },
     {
-     "title": "العلم أمانة.. مفتي الجمهورية يوجه خمس رسائل إلى خريجي الأزهر الوافدين",
-     "url": "https://www.elbalad.news/7190257",
+     "title": "مجلس السلام يتهم حكومة نتنياهو بعرقلة نزع سلاح حماس.. ويحذر من العودة إلى سياسات ما قبل 7 أكتوبر",
+     "url": "https://www.elbalad.news/7190280",
      "source": "صدى البلد",
-     "time": "2026-11-22T15:12:08.000Z",
-     "seen": "2026-11-22T15:15:03.529Z"
+     "time": "2026-11-22T15:24:14.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
+    },
+    {
+     "title": "مصرع سائق إثر سقوط حافلة رحلة مدرسية عليه أثناء إصلاحها بالمنوفية",
+     "url": "https://www.elbalad.news/7190266",
+     "source": "صدى البلد",
+     "time": "2026-11-22T15:23:49.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
+    },
+    {
+     "title": "وزير العدل يجدد ندب محمد فاروق قائما بأعمال رئيس قطاع الشهر العقارى",
+     "url": "https://www.youm7.com/story/2026/11/22/وزير-العدل-يجدد-ندب-محمد-فاروق-قائما-بأعمال-رئيس-قطاع/7628441",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T15:22:00.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
+    },
+    {
+     "title": "رئيس الوزراء يستعرض منهجية مراجعة وتدقيق بيانات الناتج المحلي الإجمالي",
+     "url": "https://www.youm7.com/story/2026/11/22/رئيس-الوزراء-يستعرض-منهجية-مراجعة-وتدقيق-بيانات-الناتج-المحلي-الإجمالي/7628455",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T15:15:00.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
     },
     {
      "title": "خارجية إيران تكشف آخر مستجدات المسار التفاوضي مع واشنطن",
@@ -160,31 +181,10 @@
      "seen": "2026-11-22T15:15:03.529Z"
     },
     {
-     "title": "سقوط نصاب أوهم ضحاياه ببيع عملات أجنبية",
-     "url": "https://www.elbalad.news/7190248",
-     "source": "صدى البلد",
-     "time": "2026-11-22T15:11:51.000Z",
-     "seen": "2026-11-22T15:15:03.529Z"
-    },
-    {
-     "title": "الطقس غدا.. انخفاض بالحرارة وشبورة كثيفة صباحا والصغرى بالقاهرة 16 درجة",
-     "url": "https://www.youm7.com/story/2026/11/22/الطقس-غدا-انخفاض-بالحرارة-وشبورة-كثيفة-صباحا-والصغرى-بالقاهرة-16/7628026",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T15:00:00.000Z",
-     "seen": "2026-11-22T15:05:03.641Z"
-    },
-    {
-     "title": "مصطفى حسني: النية الصالحة سر استمرار المودة بين الزوجين",
-     "url": "https://www.youm7.com/story/2026/11/22/مصطفى-حسني-النية-الصالحة-سر-استمرار-المودة-بين-الزوجين/7628378",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T14:44:00.000Z",
-     "seen": "2026-11-22T14:45:03.298Z"
-    },
-    {
      "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YTlXWWd3SnFuLThIX1hnZ3NoOE5HUzlkZ1ZPMVpIMEtrclBDNUpHelo1Y1FmUVl0am5LQmdCcEg5eEZMcU5SLU5ESjVpSE5mR0RzUDRLdVNOZzd3YUM0RXVZaGs4Ml9vR1piSi1xMVZhSEdIek1CdHhpMGRjbzA?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-22T14:27:06.000Z",
+     "time": "2026-11-22T14:52:37.000Z",
      "seen": "2026-11-22T12:03:48.510Z"
     },
     {
@@ -351,6 +351,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "فرنسا: محافظ يطلب إعفائه من مهامه بعد تحقيق قضائي حول تسريب معلومات سرية لحزب مارين لوبان",
+     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261122-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A5%D8%B9%D9%81%D8%A7%D8%A1-%D9%85%D9%87%D8%A7%D9%85-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B3%D8%B1%D9%8A%D8%A9-%D8%AD%D8%B2%D8%A8-%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%84%D9%88%D8%A8%D8%A7%D9%86",
+     "source": "فرانس 24",
+     "time": "2026-11-22T15:22:02.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
+    },
+    {
+     "title": "قبطان مصري يروي تفاصيل التصدي لهجمات قراصنة بالبحر الأحمر",
+     "url": "https://www.skynewsarabia.com/middle-east/1906343-%D9%82%D8%A8%D8%B7%D8%A7%D9%86-%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B1%D9%88%D9%8A-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D8%B1%D8%A7%D8%B5%D9%86%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T15:19:26.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
+    },
+    {
      "title": "لبنان: توقيف ثلاثة أشخاص ضبط بحوزتهم 264 كيلوغراما من المتفجرات",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261122-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B6%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-264-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A7%D8%AA",
      "source": "فرانس 24",
@@ -376,13 +390,6 @@
      "url": "https://www.skynewsarabia.com/middle-east/1906337-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D9%88%D8%AC%D9%88%D8%AF-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-22T14:28:22.000Z",
-     "seen": "2026-11-22T14:35:03.321Z"
-    },
-    {
-     "title": "انفجار بسفينة روسية في بنغازي وترجيح هجوم بمسيرات",
-     "url": "https://www.skynewsarabia.com/middle-east/1906340-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D9%88%D8%AA%D8%B1%D8%AC%D9%8A%D8%AD-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T14:24:19.000Z",
      "seen": "2026-11-22T14:35:03.321Z"
     },
     {
@@ -429,13 +436,6 @@
      "seen": "2026-11-22T13:53:48.533Z"
     },
     {
-     "title": "مؤتمر المناخ كوب31: هل خطفت الدول النفطية المفاوضات؟",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261122-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%83%D9%88%D8%A831-%D9%87%D9%84-%D8%AE%D8%B7%D9%81%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA",
-     "source": "فرانس 24",
-     "time": "2026-11-22T13:31:54.000Z",
-     "seen": "2026-11-22T13:43:48.650Z"
-    },
-    {
      "title": "كوب 31: مسودة اتفاق جديدة تهدف إلى تجنب انهيار المحادثات في قمة المناخ",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1femZZRS1seG9vcWV6QXZSakNlSmItdWdRbnlHdE40UlNNM3p2OUhzeDlQdXRadUFxNmxCVjFMMm1CYUVITzF5N00wYzlDaGtEWm1kdWZORzVNdWlFOFHSAWNBVV95cUxNbzMwdzdYUUlGaEhMaVE1UHc3dzFPNDgtdE5VUklsUmNKZ1YwUzJVVUl2ZEpuR3c4Z3VQcHhNc0l6STV0LUx0N3dxQ3R4YTI4ZHB3d3BEcVVOMEt0OTA3VmZ5VDQ?oc=5",
      "source": "BBC",
@@ -463,6 +463,20 @@
      "seen": "2026-11-22T13:03:48.940Z"
     },
     {
+     "title": "تحقيق صحفي: هوانغ مرتبطة بشبكة تهريب رقائق إنفيديا إلى الصين",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOYUpSUkl0NU5Waldvd0piRGFvWkJUREQxNThEN19GMjNUT2N1Rk9sMW11Vk12SHFUUWVqZ3g3MlV5V29yX0FSVk9FNTRiOVI3dHZoMjViWjVmVHBoQ2t6UFNoRFV0YmJZWlB5amw1QVh6OVIxYi11V2U4ajdoTWpVaGJkSExKa2JpZTZBYlZGeFhoWEJ5M1RUaEFPbGVpdzItQk9Nel82MGhja1VHLVhFWFk0X0hRclJPcFhwN2xqeG5LRzJhS0lYS2owbFNZS1RVMDdXMDhoOGxpSEh1V3FMbEowUW5FQk9BTUtpYlJPWEduNU92N0VYNHlSSm45WF9UYkRQQldqOW85RlVYb200a0lBd21EcFNkcGhlN2gzaWYzX3NjeDVZXzAtLUpQTEhTelhEUktGUkdSSy12VDRvNmpRNXBYRzF4Vnl6eG1lLVVmSk9PT01MbjZ4WUZOZFZqR2NLSUVCd2hhck1iWmtGT05zUGtuOGMyVndnVE56NGFQdThIdTQ5eVl1VC1HSVo5bmJfaU5VY3NoUGRfU05LNDNpcWNoSHd5N21iYUpGb0trd1dBdzduUFc3MTBkSGgxWjktaTIxUzhtVk9VbXFvckxsdjdFcThtbGfSAd8DQVVfeXFMUGc5OWkwd2M1LWtpWjFHamFUX0FNRkdnRzdYTEFWODNGUi15dlY4NDd5WUQtZl9TUXBRSl9Oa29NNUFrUXBQeDVRSlZrN1NobjdSNFk4NUV4dG9VcWgxV1dRQnFuTkpnQVNHWWxSYU9sMzRLUUVDYmRJbEFIOEs2dmx1ZFdraUxNTEJHVTVDbFlhSlJkNnc2bGNFQm9fR1VkclhGQVpEM2dXYjlfMVhFZkIybElXMmI1a0JzUXlfVUVJVVdqQ1dnOXFlX3Bkb0JocnJpLS1oVFp1MXZHaUpwOTk3TEhDVHM1MjhRXzlIV29rcTJoZEFuT1BlNVdmQUVxV2JHdk1YR09XZlNRQjlzRWJRMjZGTGtJMGNHTXJ6cHh2RW43S0xDUFhwakV2X3BBcm00V0NXNkhod2YyMzg4NGI5UURENzc5bEQ2MUg4TXpLWlM0SGJrNWtReUN4UEJXVXo3SXBnNXc2elFmUlU0RHVBREszbGlnTzZOTVMtd3U3NDZSTU1hVHAya05LUW9mRC10ZGpTMF9xNGo0cm9MYjRLZFJHejFkRTVlcEQxUDhkUE9qYUN2NHFMYU5JU0VlNlRrSHRQY01fZHpOeTVYM2ZjbVVaNEZfTGUxTEo0cU0?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T12:20:48.000Z",
+     "seen": "2026-11-22T12:33:48.656Z"
+    },
+    {
+     "title": "الصحف العالمية.. سفن ترامب تثير أزمة داخل البحرية الأمريكية والتكلفة مليارات.. وقرية بريطانية تصوت للانفصال عن المملكة المتحدة بسبب اللجوء.. بابا الفاتيكان يحذر من التكنولوجيا.. وسقوط أخطر زعماء مخدرات بالمكسيك",
+     "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOMnVKUFdyWUxfbjkyb29TcEhQRmE4RF9QYnQ0QTVZZGo4MTdQS1Y0YVE2RGM2S1NVVEJoVklMMnYzRXhhc1RpTk5YdmZ5anBxRXlGT1VjclJGYnRTVXdwXzl1V1RYMXNWUDJfVHRKc1EtaDVvcFZqZExCUEw5bnJQSVdpdk5uckQwQ281Z0tEQm5WVzAwbzg4RjhXZnhuRVl4SlRBa1BhSHJtUkZHc2dxa3o1ZlNjZ2JwVWRFNEtCLV9WcFlycVZDNXM2aEYtRjUwejVTaU55cERwSVZhNUxZbGVCTW5STGZUc1UxV2tzR3pNN1VodjZXMk9oWUdEUmhYMl9HX1gwOHJqei1KTXQwd0RtVW1TSjZYOGE1a1ItX21naFhlaXJCWUxTcXhPZFBVYVB3VS1KR1BIcTltS0Vhejl3ejdSeExDYnFsd3FtSkpGckwzRTZHemQ3YlFQQmhSajZjSi04d2dPQThjaFpENHk5WDVTYXFoUDgzeW1LZm1tSkdGbEU5Zm9mMTFXdTg4aUFFTTQwMTFFcE85YmxjTzllRlU4OFZkdUpLdjJoMnZSRTZFM3hJWG9xWUg3dllBbXpRMnY1MWJUYV9BVnFCZUJWVEJEeXFyVFY1b1dlR3dJQko4VVYzX0xkTkhLdVBOejkyNkJnbGNNSFkzQU51WDl3b3JWMGtDS2ZNVHdLWElpRVhFT1BhUENpdFFFUTRpUjN5bGE4RGo2eGlGajVv0gGqBEFVX3lxTE95aGVPSnU4WF9jYUtJTy1jRE9iRmNoSm9EV3FOOElqczlOaWtESTRSMmhzTVRadjZVY3RrVGtJNThJTERiM21ob0Vmd2JobFdIbDE3R2hIbTVDY3JyRnJGOWhHSG9LOWk1ek5YWHAtLUxoSk5Wcy1remFfcGQ3cXA2NHNTU3VYOXg0WlptbElaOEhrdTNPaVc1c0MtRlE5WV91VzExUTl0Y1pfa1VXVWVRd0JKRVZ1YVN6YWV4Y0d2NmpNM3JqQ0R5MmU0NXVGQ1BYQnJ5LWFmNldZVTRSUjBBS3BCQWJOVUIycU9lUFp0WG4zU1ZEN242eFR5RFB1T09rRXlibkFKNGdvUmpHenhiWnBodmwtcFRmdDQ0Z3Z6eGtkRFdqRmJsblItbVFYYTdTZjROOE0zZV9MTGFYSzVXMlF3VmZmWGVWbzlrYnFFMHFfVHFMaGRGU3FZRDFIZGdmTDM5X0RfQ3RaUXJaVDBIcnpBcURNcFlsb1dCYUFqSmlaY2o5NmxrSG9rS2ZiRExaZnE5ZmtmOHFXYWd3dXFnNGdJcXpHdnNNOUFhUW5yMU9selQzVnJfMUMySXZSRklPUXNqdG9wMDkwUFZaWmNjc0xZRy1NWnVHTG1nTVhDN0NEekoya3hMUlgtXzNmY2VpeTd4VElxel9vN2JUdXVQNXBnWDRXS25Ub29udmw1M256YmJNbGl2b2JtdGhqVDJLU0t3MHpDSTFn?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T12:13:00.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
+    },
+    {
      "title": "السعودية تعلن اعتراض صاروخ حوثي وسط استمرار الغارات على اليمن",
      "url": "https://www.bbc.com/arabic/articles/cq98x50lgr4jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -470,11 +484,11 @@
      "seen": "2026-11-22T12:13:49.166Z"
     },
     {
-     "title": "تحقيق صحفي: هوانغ مرتبطة بشبكة تهريب رقائق إنفيديا إلى الصين",
-     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOYUpSUkl0NU5Waldvd0piRGFvWkJUREQxNThEN19GMjNUT2N1Rk9sMW11Vk12SHFUUWVqZ3g3MlV5V29yX0FSVk9FNTRiOVI3dHZoMjViWjVmVHBoQ2t6UFNoRFV0YmJZWlB5amw1QVh6OVIxYi11V2U4ajdoTWpVaGJkSExKa2JpZTZBYlZGeFhoWEJ5M1RUaEFPbGVpdzItQk9Nel82MGhja1VHLVhFWFk0X0hRclJPcFhwN2xqeG5LRzJhS0lYS2owbFNZS1RVMDdXMDhoOGxpSEh1V3FMbEowUW5FQk9BTUtpYlJPWEduNU92N0VYNHlSSm45WF9UYkRQQldqOW85RlVYb200a0lBd21EcFNkcGhlN2gzaWYzX3NjeDVZXzAtLUpQTEhTelhEUktGUkdSSy12VDRvNmpRNXBYRzF4Vnl6eG1lLVVmSk9PT01MbjZ4WUZOZFZqR2NLSUVCd2hhck1iWmtGT05zUGtuOGMyVndnVE56NGFQdThIdTQ5eVl1VC1HSVo5bmJfaU5VY3NoUGRfU05LNDNpcWNoSHd5N21iYUpGb0trd1dBdzduUFc3MTBkSGgxWjktaTIxUzhtVk9VbXFvckxsdjdFcThtbGfSAd8DQVVfeXFMUGc5OWkwd2M1LWtpWjFHamFUX0FNRkdnRzdYTEFWODNGUi15dlY4NDd5WUQtZl9TUXBRSl9Oa29NNUFrUXBQeDVRSlZrN1NobjdSNFk4NUV4dG9VcWgxV1dRQnFuTkpnQVNHWWxSYU9sMzRLUUVDYmRJbEFIOEs2dmx1ZFdraUxNTEJHVTVDbFlhSlJkNnc2bGNFQm9fR1VkclhGQVpEM2dXYjlfMVhFZkIybElXMmI1a0JzUXlfVUVJVVdqQ1dnOXFlX3Bkb0JocnJpLS1oVFp1MXZHaUpwOTk3TEhDVHM1MjhRXzlIV29rcTJoZEFuT1BlNVdmQUVxV2JHdk1YR09XZlNRQjlzRWJRMjZGTGtJMGNHTXJ6cHh2RW43S0xDUFhwakV2X3BBcm00V0NXNkhod2YyMzg4NGI5UURENzc5bEQ2MUg4TXpLWlM0SGJrNWtReUN4UEJXVXo3SXBnNXc2elFmUlU0RHVBREszbGlnTzZOTVMtd3U3NDZSTU1hVHAya05LUW9mRC10ZGpTMF9xNGo0cm9MYjRLZFJHejFkRTVlcEQxUDhkUE9qYUN2NHFMYU5JU0VlNlRrSHRQY01fZHpOeTVYM2ZjbVVaNEZfTGUxTEo0cU0?oc=5",
+     "title": "الذكاء الاصطناعي يكتشف سرطان المثانة قبل تشخيصه بسنوات",
+     "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOOHp0bkp4LUI0R0JMandCT0taRkVsdUZKaWQ5enRQdDNTY3U3VGo1Nm5lOGhmYjF5X3BjSUNIUl9tQV9rYjk2RU5QQjhIc3RGaHhRTDQ3eTU0MEhGb0R1MHhYbmdFWEdLaUhsRjBuQTd5blJydVNLenBfX01DUzZUeUgwRkpwYXAzZDhwdGR2UExjME1maEZ1a0ZlZm1QZUpDQXlkUk93dVlub3JEa2huVlpwZDEydE9IblE1NTJRM0FJaVdERjdpckhkZjFCaGZVRE1KbV93bjNpRHNHbFI3bnlrRzNrcURNdGpSSFBpd3NhY2dGdXdkdURkTDVaU0Q5RWRFR1I2cGU1TVh4NEpVU21jYm1jcWV6VWZ4cmcwYU9jTkFjUWZSY3JuaVgzNm05bW9wMTc3YzhKM1pfODFicDNpenhDSTM3U2tjUEZxUEhxT0tsSDVMZnA4SzMzRU1IeF81RjNwQVFjUnpWY3dvSXpXT3JCbVJ2eFQ0MVlzZEpuXzBkMTRHdWlYbVdMdXFpUUZ5WDZKRThtUmVDNE95WEk4VTR0SzdjSE54OVVSQ1I2clg4cnJDT1RUMFJJZ2dQZHhTSjZn0gHLA0FVX3lxTE5vX3dqSk5ENzVWaEhSVzlNcDk1Vk1YMjlEWkN5UnJ6bkxWenNUV09DQUxoMnVlWDAzZW9LTF9FYjJ0VGZSbXI5Q1o3YV9IVmU0ZkNXNTBGbkZYSk1SVnc3Rm9FTXFkSVh1M1k1eEh6dGJpc0V4Qk9UajZvc0N6TnBMUTBKMFV0aFJXMHVEQW9HS1JPV2Q4Tlh0OUhZbGZsaDh6dmwwTlBqU0tMSkg4RmdydkhXQXJZYVlCMks3ZmE1R0IyZnVXdUZfby1DV0J0aGQtN3lpRWE2aFZEQkViNzhPZ0FmMjhFX0dJYkJxQXZwQjBBSHlERUowbnRyMnJDbnlrYnVpc29ONUdHYWtWQV9VOXplajZYLVB3cTQ4b3czWk5DbjNlSms4blJhZ2F5d2V6dU85NVlvalhJMzlCc3AyVFBWTGRPSWtNMkdoX0NHOXV6bld1MVd1NDlEWXhPZDRBakZqdFJONjFWNlNxT3Rvd1lBZU51OGxKRHlYYmZSby03T2hEamVpYVNsekwwZFhDcUM1M1UyNHhiRFlXT2hTZ0lvX3p3Vm9ObGZObndfLXdoU2RwMGxOTHFHVm1ZdHJpU2hMcmgzcXF2dw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T11:53:37.000Z",
-     "seen": "2026-11-22T12:33:48.656Z"
+     "time": "2026-11-22T12:03:43.000Z",
+     "seen": "2026-11-22T15:25:03.296Z"
     },
     {
      "title": "كيف وجدتْ أوروبا نفسها على قائمة رغبات بوتين؟ - مقال في الغارديان",
@@ -542,22 +556,6 @@
      "source": "BBC عربي",
      "time": "2026-11-22T09:20:45.000Z",
      "seen": "2026-11-22T09:23:49.256Z"
-    },
-    {
-     "title": "نسخة 16GB من Huawei OSTA O1 Pro تنفد في اليوم الأول وتتصدر المبيعات",
-     "url": "https://www.tech-wd.com/wd/2026/11/22/%d9%86%d8%b3%d8%ae%d8%a9-16gb-%d9%85%d9%86-huawei-osta-o1-pro-%d8%aa%d9%86%d9%81%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%88%d8%aa%d8%aa%d8%b5%d8%af%d8%b1/",
-     "source": "عالم التقنية",
-     "time": "2026-11-22T09:15:29.000Z",
-     "seen": "2026-11-22T09:23:49.256Z",
-     "impact": "يعطي إقبال المستهلكين على الأجهزة الحديثة مؤشراً لشركات التجزئة حول اتجاهات الطلب في سوق الإلكترونيات."
-    },
-    {
-     "title": "تسريب مواصفات Honor 700 وHonor 700 Pro: بطارية 9000mAh وكاميرا 200MP",
-     "url": "https://www.tech-wd.com/wd/2026/11/22/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-honor-700-%d9%88honor-700-pro-%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-9000mah-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-200mp/",
-     "source": "عالم التقنية",
-     "time": "2026-11-22T09:11:24.000Z",
-     "seen": "2026-11-22T09:13:49.056Z",
-     "impact": "ساعد المستهلكين والمقبلين على شراء هواتف جديدة في مصر على تقييم المواصفات الفنية المتاحة مستقبلاً."
     }
    ]
   }
