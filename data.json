@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:15:17.747Z",
+ "updated": "2026-11-22T20:25:17.425Z",
  "minute": [
   "شهدت الأسواق المصرية متابعة لهبوط البورصة الحاد وارتفاع أسعار صرف الدولار بالبنوك، إلى جانب بحث الحكومة احتواء غلاء الهواتف وتوطين مستحضرات الأورام.",
   "على المستوى الإقليمي، أطلقت مصر قافلة مساعدات جديدة إلى غزة، وجدد اجتماع ثلاثي بأسوان رفض الإجراءات الأحادية في قضايا الأمن المائي.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T20:05:17.534Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-22T20:25:17.425Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60598,
-   "change": 0.84,
-   "asOf": "2026-11-22T20:15:15.000Z",
+   "value": 60511,
+   "change": 0.69,
+   "asOf": "2026-11-22T20:25:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أكثر من 20 زورقًا مسيرًا.. تقارير تكشف كواليس الهجمات والانفجارات في بنغازي",
-     "url": "https://www.elbalad.news/7190734",
+     "title": "نقيب المهندسين: القانون يشترط خبرة 8 سنوات للمهندس الاستشاري المسؤول عن ترميم المباني",
+     "url": "https://www.elbalad.news/7190756",
      "source": "صدى البلد",
-     "time": "2026-11-22T20:14:45.000Z",
-     "seen": "2026-11-22T20:15:17.747Z"
+     "time": "2026-11-22T20:25:03.000Z",
+     "seen": "2026-11-22T20:25:17.425Z"
     },
     {
-     "title": "محمد أبو العينين: مصر تبذل جهودا كبيرة منذ 80 عامًا لدعم القضية الفلسطينية والوساطة لتحقيق السلام",
-     "url": "https://www.elbalad.news/7190740",
+     "title": "البنك المركزي يعلن بيع سندات خزانة بـ 23 مليار جنيه.. غدا",
+     "url": "https://www.elbalad.news/7190719",
      "source": "صدى البلد",
-     "time": "2026-11-22T20:14:39.000Z",
-     "seen": "2026-11-22T20:15:17.747Z"
+     "time": "2026-11-22T20:24:56.000Z",
+     "seen": "2026-11-22T20:25:17.425Z"
     },
     {
-     "title": "فيردر بريمن يحقق فوزًا كبيرًا على هامبورج برباعية نظيفة",
-     "url": "https://www.elbalad.news/7190722",
+     "title": "محافظة الإسماعيلية تبدأ تشغيل 2 ميكروباص مجانًا لنقل المواطنين إلى مقر التأمين الصحي الشامل",
+     "url": "https://www.elbalad.news/7190754",
      "source": "صدى البلد",
-     "time": "2026-11-22T20:13:54.000Z",
-     "seen": "2026-11-22T20:15:17.747Z"
+     "time": "2026-11-22T20:24:12.000Z",
+     "seen": "2026-11-22T20:25:17.425Z"
+    },
+    {
+     "title": "\"متحدث الصحة\": تكليف الأطباء وفق الاحتياج الفعلي وسد العجز.. ولا تعيين دائم",
+     "url": "https://www.youm7.com/story/2026/11/22/متحدث-الصحة-تكليف-الأطباء-وفق-الاحتياج-الفعلي-وسد-العجز-ولا/7628767",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T20:15:00.000Z",
+     "seen": "2026-11-22T20:25:17.425Z"
     },
     {
      "title": "مركز المناخ: 21 ديسمبر بداية الشتاء فلكيًا.. وموجات البرد المفاجئة واردة",
@@ -173,18 +182,18 @@
      "impact": "يهتم به المواطنون والمستثمرون في القطاع الطبي لأنه يتعلق بتوفير علاجات الأورام محلياً وتقليل تكاليف الاستيراد."
     },
     {
-     "title": "اليوم السابع: مصر تطلق قافلة جديدة من المساعدات إلى غزة",
-     "url": "https://www.youm7.com/story/2026/11/22/اليوم-السابع-مصر-تطلق-قافلة-جديدة-من-المساعدات-إلى-غزة/7628754",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T19:53:00.000Z",
-     "seen": "2026-11-22T19:55:17.516Z"
-    },
-    {
      "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YTlXWWd3SnFuLThIX1hnZ3NoOE5HUzlkZ1ZPMVpIMEtrclBDNUpHelo1Y1FmUVl0am5LQmdCcEg5eEZMcU5SLU5ESjVpSE5mR0RzUDRLdVNOZzd3YUM0RXVZaGs4Ml9vR1piSi1xMVZhSEdIek1CdHhpMGRjbzA?oc=5",
      "source": "CNN Arabic",
      "time": "2026-11-22T18:57:06.000Z",
      "seen": "2026-11-22T12:03:48.510Z"
+    },
+    {
+     "title": "هشام عبد الحميد يكشف حقيقة عودته لمصر ويوضح علاقته بالسياسة",
+     "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQeW5SbTFSeGpfOHBGcHFjRXdXZ3Q1OHBhYWxUVzZiUGQzbzlNOEF1elJzSGEzVi1XMjBkQmNGeEtLLTFpZm05NnZHWndTVmJ0V0E0XzZmd0c1SnFzSlNZMUZkejhSN3pUSmlKTXhpMVF3S2p6Mi1SYXRlV0xRUU1scHA4b0hUNVNzQTN1MGtzVnI0ejZPV1JrR1NLdnk5NUtKWXNjbm1vNmlSSU9pVER5c1dhaFhLMnZ3SXRiWm9xSVBOUXc1dm9zd3NLcHByRWNqNlpLMWF1WG9BUzhieXBUZGZDdjY2M19URlM3ZTUwcjE2c1dTS0FzUXhJZDhfb25UeEhialZrQUdTeW5YbGdrX2xUZW9DUFlMVnFaUS1KNW9mREZCMTJZVHJWNXdNam01OHp4VEJqVVFIVWlkT3llc0ZXa3k3aU52SGhVdVRZVk5kWTVkOUpSRGlqMWMzM1JsdlltWVR6UFV2Ti1xeS1IMVhpY3hkSkRVS05KVGJfMEtYUGhvcFhOTjhxQ00tUmZyUzJIeWp5ZkUyU0RpcC1ZWlRYanE1V0tfTC1sTXVZak9Na2VzZUFVQ2V1dE9BMEVQMXFPNXEwd2NkS1NyQkVJVExYUTZkb3VYbEZOMWJxUlRLczJvTUhHX1N4a3JhY29XWTZ3TVljN3HSAf4DQVVfeXFMTU5rd1ZrSVNMSWhTbDh2QmNmb3pWdzNFalRJeHBqNzEyN09SSUpHbEtMbnhfZFp0YWlUMERXV3hhY090ZEY1N3MycEJDR0tlQzlhSHN0MjY2eU12SEdueGVTRVBiWGd0MGc2VjJnREJ3NnI2VEhudHhMY2pVN01yUnk2ZUhzcktJQzRLNXI3cmFsei14ZUZYcUtMcDFVSWxGaGo5QnBmcGlwSUFaRFFPUnBJYllBZlVuVjBzclFnNHhUSnZKQ0ZYeERyVzNPUlozV2piRmFNY0lHaFRTYzQ3dkprMDJpak5FbWJQMktCa0Y5Rmw5NlItNHJzTVFrc2owb2NDV0xpZ1c5Sm9WREs5alNmREpQeHdlTmtxTHpURmVNblFfWnJfR2dCXy1YU0tVZ0t4NFNXeTlsVTdqOWJ4Nnh0UE4wVGtJZ1pfa293MlBNWGxuVFU3ZTVjQWdxTXZHQTEtMUVPMU9QYnp0RmtLQ0ttNVFrM2plOGVLTXM2aTJqYnVvRmgwTl9tcXFXOXNiS0wzenB2VnJjbHMyUkpYbE5QYW54MHdqNFB6M3ZqOGhOdHN1MkdQTWpfcHoybFlPZ3UxN0dWYUNreXVrc0NHN04zU2Q0MXJWVzdIOFpFWldiTGVJSkFvVnRSWUxyZjB4YXFrdmpJYVJHaE1ScXR3?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T17:15:57.000Z",
+     "seen": "2026-11-22T18:15:04.270Z"
     },
     {
      "title": "توجيه عاجل من رئيس الوزراء للحكومة بشأن الهواتف المحمولة.. يهم ملايين المواطنين (تفاصيل)",
@@ -193,13 +202,6 @@
      "time": "2026-11-22T17:03:00.000Z",
      "seen": "2026-11-22T17:05:04.215Z",
      "impact": "يمس قطاع عريض من المواطنين والمستوردين في مصر لمعرفة أي تنظيمات جديدة قد تؤثر على أسعار أو توفر الهواتف المحمولة."
-    },
-    {
-     "title": "هشام عبد الحميد يكشف حقيقة عودته لمصر ويوضح علاقته بالسياسة",
-     "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQeW5SbTFSeGpfOHBGcHFjRXdXZ3Q1OHBhYWxUVzZiUGQzbzlNOEF1elJzSGEzVi1XMjBkQmNGeEtLLTFpZm05NnZHWndTVmJ0V0E0XzZmd0c1SnFzSlNZMUZkejhSN3pUSmlKTXhpMVF3S2p6Mi1SYXRlV0xRUU1scHA4b0hUNVNzQTN1MGtzVnI0ejZPV1JrR1NLdnk5NUtKWXNjbm1vNmlSSU9pVER5c1dhaFhLMnZ3SXRiWm9xSVBOUXc1dm9zd3NLcHByRWNqNlpLMWF1WG9BUzhieXBUZGZDdjY2M19URlM3ZTUwcjE2c1dTS0FzUXhJZDhfb25UeEhialZrQUdTeW5YbGdrX2xUZW9DUFlMVnFaUS1KNW9mREZCMTJZVHJWNXdNam01OHp4VEJqVVFIVWlkT3llc0ZXa3k3aU52SGhVdVRZVk5kWTVkOUpSRGlqMWMzM1JsdlltWVR6UFV2Ti1xeS1IMVhpY3hkSkRVS05KVGJfMEtYUGhvcFhOTjhxQ00tUmZyUzJIeWp5ZkUyU0RpcC1ZWlRYanE1V0tfTC1sTXVZak9Na2VzZUFVQ2V1dE9BMEVQMXFPNXEwd2NkS1NyQkVJVExYUTZkb3VYbEZOMWJxUlRLczJvTUhHX1N4a3JhY29XWTZ3TVljN3HSAf4DQVVfeXFMTU5rd1ZrSVNMSWhTbDh2QmNmb3pWdzNFalRJeHBqNzEyN09SSUpHbEtMbnhfZFp0YWlUMERXV3hhY090ZEY1N3MycEJDR0tlQzlhSHN0MjY2eU12SEdueGVTRVBiWGd0MGc2VjJnREJ3NnI2VEhudHhMY2pVN01yUnk2ZUhzcktJQzRLNXI3cmFsei14ZUZYcUtMcDFVSWxGaGo5QnBmcGlwSUFaRFFPUnBJYllBZlVuVjBzclFnNHhUSnZKQ0ZYeERyVzNPUlozV2piRmFNY0lHaFRTYzQ3dkprMDJpak5FbWJQMktCa0Y5Rmw5NlItNHJzTVFrc2owb2NDV0xpZ1c5Sm9WREs5alNmREpQeHdlTmtxTHpURmVNblFfWnJfR2dCXy1YU0tVZ0t4NFNXeTlsVTdqOWJ4Nnh0UE4wVGtJZ1pfa293MlBNWGxuVFU3ZTVjQWdxTXZHQTEtMUVPMU9QYnp0RmtLQ0ttNVFrM2plOGVLTXM2aTJqYnVvRmgwTl9tcXFXOXNiS0wzenB2VnJjbHMyUkpYbE5QYW54MHdqNFB6M3ZqOGhOdHN1MkdQTWpfcHoybFlPZ3UxN0dWYUNreXVrc0NHN04zU2Q0MXJWVzdIOFpFWldiTGVJSkFvVnRSWUxyZjB4YXFrdmpJYVJHaE1ScXR3?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T16:55:24.000Z",
-     "seen": "2026-11-22T18:15:04.270Z"
     },
     {
      "title": "مدبولي يستعرض منهجية مراجعة وتدقيق بيانات الناتج المحلي لتعزيز دقة المؤشرات",
@@ -518,6 +520,13 @@
      "impact": "يهم المستثمرين للتعرف على مستويات التوتر الجيوسياسي وتأثيرها المحتمل على استقرار الأسواق الإقليمية."
     },
     {
+     "title": "السلاح X .. الذكاء الاصطناعي قد يمنح جماعات القدرة على إبادة البشرية",
+     "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPOGxDQlFXVEdNUDhtQm1vaWRGNVY5N2tXOTV0eW9Uakw5UWdIWVVNMEZFOGpsNTFTZlBRN2hlWXRodW04YjFmNzA3dl9XRGVzcU16RlVfWDlWanJWZThNeDAxWmRKT2F3VUd6bzEwWnBHUzAzQi1pRnhJUlpSNmJ3MGNOQXNXeVhtS09MbHc3R0gzN3hrTUtfcER3d1hlcHVTbml4UDJxWjlWRVVKN0p2ZWoxOFVHQm9tZ0R3YW84SXhBOWVZcTQ1T1hDMWJtR0FpM1VQd3RnV1N0ZzJHR3lYeXdLSUxERnQxR2Jpa2lZODBrUXZvU2U1LUFBNGFyc05WU2hDb0E0OTRFM2t5QkFRMkFCXzAyNG91ZksyaF91eENQa3dhWmV4TXlPQ3JQR3I1OGpVNF9nRVplQVM0R0F2Vi1sTHFMd0gydHI4N2Z4RWJWSEFsaVFfbVBIS0l0a1dmbjJjTkdPSUlDb1MzSWVuSGpFUHd0ZlNiM3dpQ2xla2lENXYzbFdwcFZzdW1hdUFXbTNqVXJlVFB3bllMazdxZ0cxMzd5LWFPcnBjUjkyUzlfYk5CczV6Vi1vNWkzSnBrRU9WdnEyTm90X05Td21IbzdjT1VlOTBwUEtyUE9WVmRDbFhiX1FxYUVjMzBDRmVjbHRtaEdUWTdJRlVtRENyajBQMjl4Q3Fma2JOX053WUZrMXdpRmE00gGcBEFVX3lxTE1ULUUxUTlpa1cwNGFLOTdnRnpKQ0hhTHNNNUxESmcwcGlDOGVvLTZDdGZ4czNTUmd4U0YydDg4amdzNFlCenNORTZlVnhva1FNZEdZbW1GY0wzVlcyVi1wVmk4dUZPaWY0LXJueXgyX0VBdnNGTW9OelJfbkJJYURhMFB2cmk0TjhXbElHNENoUUZQQkdiaTF0NzgwdHp0OFhkTVJIakw1WlpDWWFZdTJ4Y184V1VYV1YxWDZJZUZ2ZWhmNFBPSzBLVllkNGpMb0ZmdWNQODhWd1hGTXVuaXAyTDh5TDdieE5KeXVRV0VOeWtqZTlzSE5HMkhtYzJrclFRNWo5TmtXZXBhNVVnY1hRN2t2NG5nTjRBd0xadGpkWkw3bFRHdXN4Qko3UlBDNHFSN3pmV2Frc1I2M1hjWmV1aUZ3RlJOMkxlZ3NYUjc5MWZDZTFTdHlrMmx0ZWRlczNHTmxRSF9heUJfU0FneGFVQUxobHRJNi1HYTRzUGhkMVNUQ3BYbTlfUUtSall1SUdUazI5MW0xYzREanFVZmVlTmZFQjNlSF9sbUZQV2ZLd1Z6eFEzVVpQX0poZXNySkdkczhsUWFPZ3hfTlpSUG1VTElUZUctbENDcFVCN0xjVVc5aEJNZWhVNlFIakhCSG5GbXNpQ1Y3bk52Ums4YXRlRXBtbkVUZkpVRmttRlhfdXFPMkFTbDJkN3ZiWQ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-22T15:58:00.000Z",
+     "seen": "2026-11-22T20:25:17.425Z"
+    },
+    {
      "title": "تقرير: الذكاء الاصطناعي يرفع حوادث الاختراقات وانقطاع الخدمات",
      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNUXBDY3E5bnp6V0dhSVlwRS1kQUpPZTdyZTVGenRMc2luaTNvTzJPQTVmWURhd0xvTFkxczhWOG1ibnJ0b1VTUWFFNWZCWXg2X0p5aFNfaTBzcUZjUFZ5R2NpVURRLVF6eDdTOFdxbGFhVTVSajl3NnZEYXhMcWJEeXdxcnJ2NU16cW5oWnR3SmFwSXJQT0FPeUhJblJxTm9rZGU0TUpFTFFhUC1IRjBLOW5wSGpONFRmeGdWc1RHYk9ZLUZsdFFzeUdERmo3OHFBTFo5TEs4S3luT3NJYzc5cHVsSVhsZzdFc2cwSEtoZWVRUjNyMHpRcktKcWttb29xcEotdEdLQnAtay02ek4yZFF1NUM5NXN4ZjhOQ0QtanB0enpqd1pEb0J3UXcwUjVIckxKUGdnUnJZWkFPdm9pQy1HVXdnb1k4NTN2bXg2aTdGQ0xjU2FBdkdHQWk4UmVaWE9hZ3dHOXlTbGZSWVRybVFZSVNia3ZDd0ZNLThwR1ZEakg1Q3dOMlNmV3Y4ajFsVEYwdER3LU9VMFFJV25zcHR2TUtsUVJYd2JnS2NyOGNpTzVURFRDczg1THZCR1ZSWDNMQUY0dFdCRWYzYXRQc18yWDYta0RUZFJQRk80VG5nOVpQV2VsSi05cGR6ejVSazloZ1NPcHk?oc=5",
      "source": "الشرق للأخبار",
@@ -553,13 +562,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-22T12:21:24.000Z",
      "seen": "2026-11-22T12:33:48.656Z"
-    },
-    {
-     "title": "الصحف العالمية.. سفن ترامب تثير أزمة داخل البحرية الأمريكية والتكلفة مليارات.. وقرية بريطانية تصوت للانفصال عن المملكة المتحدة بسبب اللجوء.. بابا الفاتيكان يحذر من التكنولوجيا.. وسقوط أخطر زعماء مخدرات بالمكسيك",
-     "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOMnVKUFdyWUxfbjkyb29TcEhQRmE4RF9QYnQ0QTVZZGo4MTdQS1Y0YVE2RGM2S1NVVEJoVklMMnYzRXhhc1RpTk5YdmZ5anBxRXlGT1VjclJGYnRTVXdwXzl1V1RYMXNWUDJfVHRKc1EtaDVvcFZqZExCUEw5bnJQSVdpdk5uckQwQ281Z0tEQm5WVzAwbzg4RjhXZnhuRVl4SlRBa1BhSHJtUkZHc2dxa3o1ZlNjZ2JwVWRFNEtCLV9WcFlycVZDNXM2aEYtRjUwejVTaU55cERwSVZhNUxZbGVCTW5STGZUc1UxV2tzR3pNN1VodjZXMk9oWUdEUmhYMl9HX1gwOHJqei1KTXQwd0RtVW1TSjZYOGE1a1ItX21naFhlaXJCWUxTcXhPZFBVYVB3VS1KR1BIcTltS0Vhejl3ejdSeExDYnFsd3FtSkpGckwzRTZHemQ3YlFQQmhSajZjSi04d2dPQThjaFpENHk5WDVTYXFoUDgzeW1LZm1tSkdGbEU5Zm9mMTFXdTg4aUFFTTQwMTFFcE85YmxjTzllRlU4OFZkdUpLdjJoMnZSRTZFM3hJWG9xWUg3dllBbXpRMnY1MWJUYV9BVnFCZUJWVEJEeXFyVFY1b1dlR3dJQko4VVYzX0xkTkhLdVBOejkyNkJnbGNNSFkzQU51WDl3b3JWMGtDS2ZNVHdLWElpRVhFT1BhUENpdFFFUTRpUjN5bGE4RGo2eGlGajVv0gGqBEFVX3lxTE95aGVPSnU4WF9jYUtJTy1jRE9iRmNoSm9EV3FOOElqczlOaWtESTRSMmhzTVRadjZVY3RrVGtJNThJTERiM21ob0Vmd2JobFdIbDE3R2hIbTVDY3JyRnJGOWhHSG9LOWk1ek5YWHAtLUxoSk5Wcy1remFfcGQ3cXA2NHNTU3VYOXg0WlptbElaOEhrdTNPaVc1c0MtRlE5WV91VzExUTl0Y1pfa1VXVWVRd0JKRVZ1YVN6YWV4Y0d2NmpNM3JqQ0R5MmU0NXVGQ1BYQnJ5LWFmNldZVTRSUjBBS3BCQWJOVUIycU9lUFp0WG4zU1ZEN242eFR5RFB1T09rRXlibkFKNGdvUmpHenhiWnBodmwtcFRmdDQ0Z3Z6eGtkRFdqRmJsblItbVFYYTdTZjROOE0zZV9MTGFYSzVXMlF3VmZmWGVWbzlrYnFFMHFfVHFMaGRGU3FZRDFIZGdmTDM5X0RfQ3RaUXJaVDBIcnpBcURNcFlsb1dCYUFqSmlaY2o5NmxrSG9rS2ZiRExaZnE5ZmtmOHFXYWd3dXFnNGdJcXpHdnNNOUFhUW5yMU9selQzVnJfMUMySXZSRklPUXNqdG9wMDkwUFZaWmNjc0xZRy1NWnVHTG1nTVhDN0NEekoya3hMUlgtXzNmY2VpeTd4VElxel9vN2JUdXVQNXBnWDRXS25Ub29udmw1M256YmJNbGl2b2JtdGhqVDJLU0t3MHpDSTFn?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T12:13:00.000Z",
-     "seen": "2026-11-22T15:25:03.296Z"
     }
    ]
   }
