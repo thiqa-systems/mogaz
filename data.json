@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:32:07.433Z",
+ "updated": "2026-11-22T03:42:07.477Z",
  "minute": [
   "تناولت الأخبار الاقتصادية متابعة أسعار العملات الأجنبية والدولار في البنوك المصرية حيث استقر تحت مستوى 54 جنيهاً.",
   "على الصعيد الإقليمي والدولي، أعلنت البحرين زوال حالة الخطر بعد هجمات إيرانية، واعترضت السعودية صاروخاً باليستياً، مع صدور بيان رسمي ينفي طرد مصر لخبراء عسكريين من بنغازي.",
@@ -10,7 +10,9 @@
   "at": "2026-11-22T03:22:07.486Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T03:42:07.477Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59189,
-   "change": 0.66,
-   "asOf": "2026-11-22T03:32:05.000Z",
+   "value": 59078,
+   "change": 0.47,
+   "asOf": "2026-11-22T03:42:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ووال ستريت جورنال: واشنطن رفضت شروط زعيم كوريا الشمالية لمحادثات مباشرة مع ترامب",
-     "url": "https://www.elbalad.news/7189605",
+     "title": "إعلامي يكشف تطورات تجديد عقد محمد هاني مع الأهلي .. وخلاف حول بند المشاركة",
+     "url": "https://www.elbalad.news/7189609",
      "source": "صدى البلد",
-     "time": "2026-11-22T03:30:30.000Z",
-     "seen": "2026-11-22T03:32:07.433Z"
+     "time": "2026-11-22T03:40:38.000Z",
+     "seen": "2026-11-22T03:42:07.477Z"
     },
     {
-     "title": "بعد مراسم توقيع أرض أكتوبر.. إعلامي يوجّه رسالة إلى هشام نصر: أين إنجازاتك مع الزمالك؟",
-     "url": "https://www.elbalad.news/7189602",
+     "title": "بيراميدز يكشف سر غياب إيفرتون دا سيلفا وموعد عودته أمام الأهلي",
+     "url": "https://www.elbalad.news/7189608",
      "source": "صدى البلد",
-     "time": "2026-11-22T03:30:00.000Z",
-     "seen": "2026-11-22T03:32:07.433Z"
+     "time": "2026-11-22T03:36:36.000Z",
+     "seen": "2026-11-22T03:42:07.477Z"
     },
     {
-     "title": "وزيرة فلسطينية: نصف مليون طفل في غزة معرضون للمجاعة وسوء التغذية",
-     "url": "https://www.elbalad.news/7189466",
+     "title": "أمير هشام يكشف موقف إمام عاشور من المشاركة مع الأهلي أمام بيراميدز",
+     "url": "https://www.elbalad.news/7189606",
      "source": "صدى البلد",
-     "time": "2026-11-22T03:29:00.000Z",
-     "seen": "2026-11-22T03:32:07.433Z"
+     "time": "2026-11-22T03:34:19.000Z",
+     "seen": "2026-11-22T03:42:07.477Z"
     },
     {
      "title": "موعد شهر رجب فلكيا وأول أيامه.. الحسابات الفلكية تكشف التفاصيل",
@@ -367,10 +369,10 @@
     },
     {
      "title": "تحليل: ما الذي يقف وراء تحركات الجزائر وقوات حفتر الليبية تجاه النيجر؟",
-     "url": "https://www.bbc.com/arabic/articles/c699eppl4v75o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-22T00:39:18.000Z",
-     "seen": "2026-11-22T00:41:38.143Z"
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mY3RTbTF0YXd0M3dPd3RxR0duTEkzdnhpQUh1NmxnMjROZ0hrZG10SGpNaURNZGtqUkV0cmoxaWZBX1prWHB5SVN3V0tET3pibl92UTZIenRjOGtfdlHSAWNBVV95cUxOYWVSWlNPenAxaGV6OC1VSU10WGJSQXVyYVdrc1dGZGphYS1NUTBjaFdWMkFvdlB2RHd5bjlxaE9ESU5IRWQ4bzdnWGtlX2I2c2t4NEFvQlBJMnFBRTREQzFIRE0?oc=5",
+     "source": "BBC",
+     "time": "2026-11-22T00:45:48.000Z",
+     "seen": "2026-11-22T03:42:07.477Z"
     },
     {
      "title": "هل طردت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
@@ -400,6 +402,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-21T23:12:58.000Z",
      "seen": "2026-11-21T23:31:38.298Z"
+    },
+    {
+     "title": "كندا تكشف طبيعة مستقبل العلاقات العسكرية مع واشنطن",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNbUJMaXRtd3h1ZWNlMzd6ZWpKamV0VFR5QXJWaTZjdnFSeS1UYmtldWRpYzhWX1QzZEpDSlZtbFVvT1dTN2F4cDFwdl9QaDd4V0VoQklGY1E4ZEFOd1BFWU4wOHR1NWo0Q0E1YThsMzJENUV0QnRaOER2MGtna2xnekxNYlY4VFIteGVRLWx3aDB4dlA3RmM4eXJ1amdFMGFPMVl0Y0hKcnU2WElHeWZUcjMyeHVEMUhTYnFlY0lQeFlXZXVPV3o5WDYzVXEtQVRGR3ZqdFNJcml0ZzVhc0dQX3haUC1CZ1Z0ZHpoWF80aGVNNldoa3JVOG11eXVyV1BOV0E2RkxXTmNOOEE2b1NLM19kaFhCbkQwUW9UNWdmU0E3SUplenBuZVNGMkJwVnVSN2VTWW5JT1d0N2oxNzdOZ2lyVDQ4UVVPRHY4TzBrSGhyZlo4bGNfRi1oYTdYU3I2WGI2WE5IM3BYNTNsX3ZFWU5oWmFaVTl1Ry1WWnRuNjF2SFRydGRad0xFYl91MHdlS1AxSy12d0xNOGRJMDFzSHhuaDFGS3fSAawDQVVfeXFMTWtGdUN3S3dIb2tybUhfRkxpNUpYOEFCU01KeXJFdk5VWVE2cFQ1S0N0cDdYT3VudHNKZndUUkhzYXVWb2JFcHY3bHVQelp6QlN4bWx3T1dsQ2pHb284dVdsMEVJcHdzLTEzX3RmdVBiYUhkeHo4eTRaVXlnR3ZqdFhkWUFxWHphQ2dHQnNkWjVCcEU5c0FlRjF6b2lhbE1maEs2Z1Y4RE5CUXUtV0xFS21NTXZQZkRMSEduUWlrUC1zYXNnVnhLX3hsQ2lVWVdrMUozNnlUeTBGMDM1LVYzdVFkMmVCaUdNdDdpNFdEd3dWZERrVHdzalZjLUdEOWxKMHU2OWFtdDRNdnRERWhIWVR6TkRoQkkwMzRPQ1BlbDNrT2VUaVFidzV5SlhzMkRsTzZmYXN6a0dvTEhxdURCcWg2LV95NE81VGxWdXJYck55NXNqSEhLWTcybG93VVp0ck1NeTdwWEFtYWw5SElseXkzMVNEVEVHVjhqNmt4MU1JRWtmNnZZNnlNUWM4MFhrLTR3ZXliUVBSaXFhUGxSY3ZmS2Jvc0RrVWMwVks?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-21T23:02:19.000Z",
+     "seen": "2026-11-22T03:42:07.477Z"
     },
     {
      "title": "الوصول إلى الصور يكشف ثغرات الموافقة الرقمية في التطبيقات",
@@ -451,14 +460,6 @@
      "source": "فرانس 24",
      "time": "2026-11-21T21:18:04.000Z",
      "seen": "2026-11-21T21:31:09.649Z"
-    },
-    {
-     "title": "البحرين تعلن تعرضها لهجوم إيراني وتكشف التفاصيل والأضرار",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/21/bahrain-announces-it-has-been-subjected-to-an-iranian-attack",
-     "source": "CNN بالعربية",
-     "time": "2026-11-21T19:47:38.000Z",
-     "seen": "2026-11-21T20:01:09.836Z",
-     "impact": "يهم المستثمرين لمتابعة أثر المخاطر الجيوسياسية والتصعيد بالمنطقة على استقرار الأسواق الإقليمية."
     }
    ]
   },
@@ -496,6 +497,13 @@
      "time": "2026-11-22T01:48:43.000Z",
      "seen": "2026-11-22T02:21:37.724Z",
      "impact": "يهم العاملين والمستثمرين في قطاع التكنولوجيا لمتابعة سوق رقائق إنفيديا وسلاسل الإمداد العالمية."
+    },
+    {
+     "title": "تحليل: ما الذي يقف وراء تحركات الجزائر وقوات حفتر الليبية تجاه النيجر؟",
+     "url": "https://www.bbc.com/arabic/articles/c699eppl4v75o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-22T00:39:18.000Z",
+     "seen": "2026-11-22T00:41:38.143Z"
     },
     {
      "title": "بعد جريمــة هزت الغربية .. الأمن يضبط قاتـــل قيادي مستقبل وطن في أقل من 6 ساعات",
@@ -564,13 +572,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-21T17:53:20.000Z",
      "seen": "2026-11-21T19:51:09.678Z"
-    },
-    {
-     "title": "48 ساعة من البحث عن ثعبان.. طفل يخدع الجميع بالذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNQ29CWWdtQVJUdDhKSW0yNE5NN2pjejhiR2xiM25hV040RkJ0SHUyZkJfRTYwclZqcHZPWEVsRWJUNm13Z1Q4UElvU3B0SVF4UU9ISV9fMll5dmV2Wm5zanNyTkQtbjNpRFdBdXVaYzFWdzh6WEZtOXZnOUpyTkt1UGw2SnZldFU4VGxkSFVBcHhmWmtoVWR0elFpaGxKWHZsNVAweWd4cVFMTFB3YV9Ea3V6MDQ3R0tSZTcxbnJnVXFUbF9RQUVCX2prSXZCSng4dU5DZWowUjJkbk14SW50Y1JqZ1hwaFRlREZ6LUVwSzdfOE1lc2drVmw3Zmo0c25nT3dxQjJDWmhvUmIxSzdFVUlFb0I1bENQMFN3OUhrcHM3akdMSVJaTzdITG9nWmtJbU5MMTRJaEgwZjFiS3Z0NFdBSHN0RkdETDdWOEU2dU53aHVEWlhhWXB3?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-21T17:09:47.000Z",
-     "seen": "2026-11-22T01:11:38.101Z"
     }
    ]
   }
