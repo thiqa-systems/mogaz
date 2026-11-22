@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:31:37.585Z",
+ "updated": "2026-11-22T01:41:37.313Z",
  "minute": [
   "أعلنت وزارة العمل في مصر عن توفير 1323 فرصة عمل بالقطاع الخاص برواتب تصل إلى 15 ألف جنيه، كما أعلنت نقابة المهندسين عن قرعة علنية لوحدات سكنية.",
   "استمرت متابعة أسعار صرف الدولار مقابل الجنيه في البنوك المصرية حيث سجل سعر الشراء 53.75 جنيه في بنك الإسكندرية.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-22T01:31:37.585Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-22T01:41:37.313Z"
  },
  "markets": [
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59976,
-   "change": 2,
-   "asOf": "2026-11-22T01:31:48.000Z",
+   "value": 59913,
+   "change": 1.89,
+   "asOf": "2026-11-22T01:41:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,18 +140,32 @@
    "title": "مصر",
    "items": [
     {
+     "title": "بالقرب من مضيق هرمز.. ناقلة نفط ترفع علم إيران تسعى لكسر الحصار البحري الأمريكي",
+     "url": "https://www.elbalad.news/7189594",
+     "source": "صدى البلد",
+     "time": "2026-11-22T01:40:13.000Z",
+     "seen": "2026-11-22T01:41:37.313Z"
+    },
+    {
+     "title": "58 مليون يورو لمشروع مياه في وادي النيل .. هل يستفيد صغار المزارعين؟",
+     "url": "https://www.elbalad.news/7189590",
+     "source": "صدى البلد",
+     "time": "2026-11-22T01:38:19.000Z",
+     "seen": "2026-11-22T01:41:37.313Z"
+    },
+    {
+     "title": "أحمد مجدي: رحيل «عموتة» عن الأهلي «مسألة وقت» .. ولا يوجد تطوّر في الفريق",
+     "url": "https://www.elbalad.news/7189593",
+     "source": "صدى البلد",
+     "time": "2026-11-22T01:31:54.000Z",
+     "seen": "2026-11-22T01:41:37.313Z"
+    },
+    {
      "title": "وزير الدولة للإعلام: مصر لم تسحب خبراءها العسكريين من ليبيا",
      "url": "https://www.youm7.com/story/2026/11/22/وزير-الدولة-للإعلام-مصر-لم-تسحب-خبراءها-العسكريين-من-ليبيا/7627594",
      "source": "اليوم السابع",
      "time": "2026-11-22T01:24:00.000Z",
      "seen": "2026-11-22T01:31:37.585Z"
-    },
-    {
-     "title": "الرئيس الإيراني : الأمور ليست «وردية» .. وأوضاعنا ليست جيدة",
-     "url": "https://www.elbalad.news/7189588",
-     "source": "صدى البلد",
-     "time": "2026-11-22T01:02:11.000Z",
-     "seen": "2026-11-22T01:11:38.101Z"
     },
     {
      "title": "برواتب تصل لـ15 ألف جنيه.. «العمل» تعلن عن 1323 فرصة عمل بالقطاع الخاص",
@@ -168,20 +182,6 @@
      "time": "2026-11-22T01:00:00.000Z",
      "seen": "2026-11-22T01:01:37.605Z",
      "impact": "يهتم به أعضاء نقابة المهندسين في مصر الراغبون في الحصول على وحدات سكنية عبر القرعة العلنية."
-    },
-    {
-     "title": "هل القنوت في صلاة الفجر مخالف لسنة النبي؟ دار الإفتاء تجيب",
-     "url": "https://www.elbalad.news/7189514",
-     "source": "صدى البلد",
-     "time": "2026-11-22T01:00:00.000Z",
-     "seen": "2026-11-22T01:01:37.605Z"
-    },
-    {
-     "title": "مواقيت الصلاة في أسوان اليوم الأحد نوفمبر 22-11-2026",
-     "url": "https://www.elbalad.news/7189346",
-     "source": "صدى البلد",
-     "time": "2026-11-22T01:00:00.000Z",
-     "seen": "2026-11-22T01:01:37.605Z"
     },
     {
      "title": "باحث: اتساع نطاق انتشار «الإخوان» يفرض ضرورة فهم طبيعة الشبكات والروابط بين عناصرها",
@@ -302,7 +302,7 @@
      "title": "79 % من المصريين يمتلكون حسابات مالية.. هل غادر الاقتصاد غير الرسمي عزلته؟",
      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNX2RWb2RjNS14WmRDc3pna1hNOFdxeG5yS00yTFQ3bXBURmdJRTd3VlBxNFNLYzBRQ3R2bEVUSzN4WlV4VXV4bjl2MC1DcExZZVpsRWhCem43Z0RUTDUxOEVUMG5TX2NGcUFDZlgydk95bWQxM0hWbzZSeFZ1YnFtRzVkeTNZYWIzZk5kd2hpelpjaE42Q2NiX1hQYXhlU3Y3S0M1Z3NwMlZzT3hEaUlVUnpzcmlXVEQ5QkhPeUpjVkl0S05LU3djRVVLNTlxbnVQdlFkbnJ3OE5DNXFrUEZURUJVUTFIMFNiXzVJcXdrc1VwUktHZFhzQnVnUmxZZGs4OTRUUkhmR1VraXh6WUJreUdOdWlNQWRIX2dlLVkwcFB2ZlM2ak94TFNJSVcwbjVQVlZoUWNfUHA0RUpUdHF0R3l6bmtDQXBQ?oc=5",
      "source": "عالم المال",
-     "time": "2026-11-21T22:05:00.000Z",
+     "time": "2026-11-21T22:05:43.000Z",
      "seen": "2026-11-21T22:11:37.417Z",
      "impact": "يفيد المستثمرين وقطاع الأعمال في تقييم مدى انتشار الخدمات المالية والشمول المالي بين المواطنين في مصر."
     },
@@ -579,7 +579,7 @@
    "error": "no items"
   },
   {
-   "section": "economy",
+   "section": "tech",
    "feed": "www.bing.com",
    "error": "no items"
   }
