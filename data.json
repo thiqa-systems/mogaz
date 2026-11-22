@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:53:48.533Z",
+ "updated": "2026-11-22T14:03:48.616Z",
  "minute": [
   "شهدت مصر افتتاح عيادة جديدة للتأمين الصحي وتأكيداً حكومياً على وضع الطاقة الجديدة والمتجددة ضمن الأولويات.",
   "سجل سعر الدولار ارتفاعاً أمام الجنيه في البنوك المصرية بنهاية تعاملات يوم الأحد.",
@@ -10,7 +10,9 @@
   "at": "2026-11-22T13:43:48.650Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-22T14:03:48.616Z"
  },
  "markets": [
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60626,
-   "change": 0.89,
-   "asOf": "2026-11-22T13:53:46.000Z",
+   "value": 60683,
+   "change": 0.98,
+   "asOf": "2026-11-22T14:04:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وفاة رجل مسن مجهول الهوية أمام مستشفى سيوة المركزي",
-     "url": "https://www.elbalad.news/7190143",
+     "title": "انخفاض مؤشر البورصة السعودية الرئيسي في ختام التعاملات",
+     "url": "https://www.elbalad.news/7190178",
      "source": "صدى البلد",
-     "time": "2026-11-22T13:53:08.000Z",
-     "seen": "2026-11-22T13:53:48.533Z"
+     "time": "2026-11-22T14:02:43.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
     },
     {
-     "title": "الرئيس اللبناني: السيادة لا تقوم إلا على الدولة",
-     "url": "https://www.elbalad.news/7190162",
+     "title": "دول عربية تتعاون لتعزيز دعم المشروعات الصغيرة والمتوسطة في مواجهة الأزمات",
+     "url": "https://www.elbalad.news/7190177",
      "source": "صدى البلد",
-     "time": "2026-11-22T13:52:39.000Z",
-     "seen": "2026-11-22T13:53:48.533Z"
+     "time": "2026-11-22T14:01:14.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
     },
     {
-     "title": "محافظ الشرقية يوجه برفع درجة الاستعداد لموسم الأمطار وتكثيف الرقابة على الأغذية",
-     "url": "https://www.elbalad.news/7190155",
+     "title": "ماذا يحدث لضغط الدم عند منع الملح لمدة أسبوع؟.. فوائد مهمة لصحتك",
+     "url": "https://www.elbalad.news/7189904",
      "source": "صدى البلد",
-     "time": "2026-11-22T13:52:18.000Z",
-     "seen": "2026-11-22T13:53:48.533Z"
+     "time": "2026-11-22T14:00:00.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
+    },
+    {
+     "title": "«التضامن» تكرم حسن شحاتة وعمرو الورداني ضمن النماذج الملهمة في الأب القدوة",
+     "url": "https://www.youm7.com/story/2026/11/22/«التضامن»-تكرم-حسن-شحاتة-وعمرو-الورداني-ضمن-النماذج-الملهمة-في/7628354",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T13:57:00.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
     },
     {
      "title": "السكة الحديد تناشد الركاب بعدم النزول أو الصعود أثناء تحرك القطارات.. صور",
@@ -186,14 +195,6 @@
      "source": "الوطن",
      "time": "2026-11-22T13:26:14.000Z",
      "seen": "2026-11-22T13:53:48.533Z"
-    },
-    {
-     "title": "وزير الصحة يفتتح عيادة السلام للتأمين الصحي ومخازن الأدوية المركزية لتعزيز كفاءة المنظومة",
-     "url": "https://www.youm7.com/story/2026/11/22/وزير-الصحة-يفتتح-عيادة-السلام-للتأمين-الصحي-ومخازن-الأدوية-المركزية/7628271",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T13:24:00.000Z",
-     "seen": "2026-11-22T13:33:49.239Z",
-     "impact": "يسهم افتتاح عيادة التأمين الصحي ومخازن الأدوية المركزية في تحسين كفاءة الرعاية الصحية وسهولة الحصول على الأدوية للمواطنين."
     },
     {
      "title": "هل سحبت مصر خبراءها العسكريين من بنغازي؟.. بيان رسمي يرد",
@@ -303,6 +304,20 @@
      "impact": "يؤثر ارتفاع سعر الدولار أمام الجنيه على أسعار السلع المستوردة وتكاليف المعيشة وتخطيط المستثمرين لميزانياتهم."
     },
     {
+     "title": "تعرف على آخر تطورات سعر الذهب اليوم.. عيار 24 بـ6301 جنيه",
+     "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPWW5PRlJaNEhTbFg1dDJBX052Z0NfMFhJZXBwSlJhenVtMUdIa3FGOUpmV0hENG1KRkloQUM2Um1lNS1JdEh2eHIxRHJWRGt4TzlPVFFyWGFqSGpFWUZOc29PY1FxTUM4QlJDS0h6Sl80dmNERksyamxGMlgwVDZOZDFTYlF3aGZrM2haQXdyZi1Gd0lOYmJMb3dKWjFLMWlncFl6Z0RrbHBkb0ZVR0U5czhXSTJTZ0JUdDBfeUdqbGRZUWpLbF9pb3RrNWtfRFljcUl2VkxhQW1sWGFvYlE3bHNxZ0hwZXZQejAtX3JaN0p3OUxEVEF2dUZoNGVnSDlqMENQbHZIdWdBeFQ0NWlYaW00YjA0YXV6SVFVVTlpTHRYQWd1dEpzUnpIdEc0SjI3VzFWU2VHWUYtWmxLZFFZUkhicm1ENUVXbjRBVmVQZFBTTUdwdXVpTkRwVHd1Q1VHRDdSRXhHVHgtLXZFcEpQYVk3WjVsSHlRMlNYdHo5NXcycEVGNjc40gGCA0FVX3lxTE1YQTlwb09kc3hXd21zZi05UG5neEo5LXh1cnQxeWhtUnYyZ0J1NEN3WTB6X0Z6NENLSkc4MlNwVzFSZHl1RmdselVxbXFmOUxudHZxM3FFa0NsVmJxWTZrZDRoQWM3UzVObXE3b1hyY1BzMDhVU2QxcmlUd05WZEk3YVdHUmVEOHR2Tk9Eb2ZxU0lqMWluM2tzeWJFUXhfWWpnNGc4YVoxalNOVnFnaEdTeGhNdTNqSHlKRGoycFhwNkE4SF92RF84cC1YdXBZeHpiaTJ4c3VhZXlvb2dKeVZJTVVlX0JnVTRVN2FjMURqY2twOHVESzczcFJvYjdhWWRxMXZ5b3Z4VEdGZzZQcXRPV0kwaVRHdk5iTEx4enZnRjFZZEZtTXdLbTZHR2VXMjF3bGU5SDRmWVZ1c0JOLUNRZnJBSDVxS2J0STNndTJkRDEtQ1FYbEN4M1lfLUZfTEJIS2JWejNVUHBNMDhqalhOZjBvTnVFZjI5X0M2Xy12Mmtn?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T12:00:00.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
+    },
+    {
+     "title": "تحقيق صحفي: هوانغ مرتبطة بشبكة تهريب رقائق إنفيديا إلى الصين",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOYUpSUkl0NU5Waldvd0piRGFvWkJUREQxNThEN19GMjNUT2N1Rk9sMW11Vk12SHFUUWVqZ3g3MlV5V29yX0FSVk9FNTRiOVI3dHZoMjViWjVmVHBoQ2t6UFNoRFV0YmJZWlB5amw1QVh6OVIxYi11V2U4ajdoTWpVaGJkSExKa2JpZTZBYlZGeFhoWEJ5M1RUaEFPbGVpdzItQk9Nel82MGhja1VHLVhFWFk0X0hRclJPcFhwN2xqeG5LRzJhS0lYS2owbFNZS1RVMDdXMDhoOGxpSEh1V3FMbEowUW5FQk9BTUtpYlJPWEduNU92N0VYNHlSSm45WF9UYkRQQldqOW85RlVYb200a0lBd21EcFNkcGhlN2gzaWYzX3NjeDVZXzAtLUpQTEhTelhEUktGUkdSSy12VDRvNmpRNXBYRzF4Vnl6eG1lLVVmSk9PT01MbjZ4WUZOZFZqR2NLSUVCd2hhck1iWmtGT05zUGtuOGMyVndnVE56NGFQdThIdTQ5eVl1VC1HSVo5bmJfaU5VY3NoUGRfU05LNDNpcWNoSHd5N21iYUpGb0trd1dBdzduUFc3MTBkSGgxWjktaTIxUzhtVk9VbXFvckxsdjdFcThtbGfSAd8DQVVfeXFMUGc5OWkwd2M1LWtpWjFHamFUX0FNRkdnRzdYTEFWODNGUi15dlY4NDd5WUQtZl9TUXBRSl9Oa29NNUFrUXBQeDVRSlZrN1NobjdSNFk4NUV4dG9VcWgxV1dRQnFuTkpnQVNHWWxSYU9sMzRLUUVDYmRJbEFIOEs2dmx1ZFdraUxNTEJHVTVDbFlhSlJkNnc2bGNFQm9fR1VkclhGQVpEM2dXYjlfMVhFZkIybElXMmI1a0JzUXlfVUVJVVdqQ1dnOXFlX3Bkb0JocnJpLS1oVFp1MXZHaUpwOTk3TEhDVHM1MjhRXzlIV29rcTJoZEFuT1BlNVdmQUVxV2JHdk1YR09XZlNRQjlzRWJRMjZGTGtJMGNHTXJ6cHh2RW43S0xDUFhwakV2X3BBcm00V0NXNkhod2YyMzg4NGI5UURENzc5bEQ2MUg4TXpLWlM0SGJrNWtReUN4UEJXVXo3SXBnNXc2elFmUlU0RHVBREszbGlnTzZOTVMtd3U3NDZSTU1hVHAya05LUW9mRC10ZGpTMF9xNGo0cm9MYjRLZFJHejFkRTVlcEQxUDhkUE9qYUN2NHFMYU5JU0VlNlRrSHRQY01fZHpOeTVYM2ZjbVVaNEZfTGUxTEo0cU0?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T11:53:37.000Z",
+     "seen": "2026-11-22T12:33:48.656Z"
+    },
+    {
      "title": "البنك المركزي: صافي الأصول الأجنبية يرتفع إلى 19.1 مليار دولار بنهاية أكتوبر",
      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNWEQyMG03ZVN5cVJWVDc0dWlwcVNlblItdVEzb2ZrWkhXeVgtbVEySVZrR0FuUGVmM0tiWU00Yy1pWWNqaDZvNTM4MDFlQmJENGVtUlA5M0xEMUtpLUgza0NhZFk5V2E0VWtINWNhU2gwZTQzeFZXbG5WMV9fSFFrakV0alZBeDhOV1RKbnI3dUNhb2txelktX3BjbnhSVE5pREhFbkU0TWtWOGFGeWFWRC1IdERsWW1mcnlVZWx4ZEx5ajJ2V2tpRG9STVNSTVQ0b25qWmhacnZ2eGFzYTBGcEY1RHJJWEllTndvd0ZWWFlxaEtnWFQ1ZjNZczlNdEdFdl94Ri1nUGVRZi1LQThyQkxzSEtNREFRZHJLN0o4MC1MVEQyYUxKdzhoUVV6QXllZExiQi1GeE9KdUZHOG5ldjNIOE0yWFNfaVZISGR3QnI2QWRSY1hzWFl2MklYaVBVMFIwdFhnQkxCZ3JSTUFfeW9yNVZORVNrZWU5Nmt3?oc=5",
      "source": "جريدة المال",
@@ -333,22 +348,6 @@
      "time": "2026-11-22T10:29:00.000Z",
      "seen": "2026-11-22T10:33:48.981Z",
      "impact": "يهم المسافرين إلى السعودية والمحولين للأموال متابعة سعر صرف الريال أمام الجنيه في البنوك."
-    },
-    {
-     "title": "أسعار العملات الأجنبية اليوم الأحد 22 نوفمبر 2026 في البنك المركزي والبنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9kVl8ySnZtNkI2VURaUE1WSkg1MkJKYTBsOHpoYzlVU3FVMmhKU2RVRXhlSGNwQ3d3OUV5WFBxdFFGWkZR?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-22T10:26:13.000Z",
-     "seen": "2026-11-22T10:33:48.981Z",
-     "impact": "يهم الأفراد والمستثمرين للاطلاع على السعر الرسمي للعملات الأجنبية المعتمد لدى البنك المركزي."
-    },
-    {
-     "title": "كم سجل سعر العملات اليوم الأحد 22-11-2026 في البنك المركزي؟",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQM05PU0hGVW8tdjJVWXBSamx2d19DV2ZjY25SOGxCQ0VPT1MyRmR1a1lkS2VDUzlibnc4QmJaR3lvMHYzZmVCODNVamVCaDl2Q2NxRnhzQWVDdnhFZHpiU2UwU1hFNEdrcEpDYlp0SEFkRWxra25yMzRYVFZGd1p5RlpsOUo1TTZTN01iekFqajBoVExQc1NMa1FjdS1CQ0l6eFkwY2JHY3Z3c25mczlFUDlxVmRQclFPdkhTalY2dkJxRmxOcHcyYzZ3Tk42VlRkSGliaUwya2c0eXFGWGRfS0s0NUN3Wm11VjFCWFRaZnd6TjhoelVLZTBNRjJOZWRlVE9fTllKUERCX0xuclNUQ3RWZUN3Tk13?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-22T10:07:18.000Z",
-     "seen": "2026-11-22T10:13:48.887Z",
-     "impact": "ساعد الأفراد والمستثمرين على تقييم أسعار الصرف الرسمية الصادرة عن البنك المركزي المصري."
     }
    ]
   },
@@ -356,6 +355,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "توقعات مركز \"بيو\" لنمو أعداد المسملين عالميا ومتى سيتخطون عدد المسيحيين",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/muslims-growth-religious-groups-infographic",
+     "source": "CNN بالعربية",
+     "time": "2026-11-22T13:57:16.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
+    },
     {
      "title": "آيزنكوت يتحدث عن \"إرهاب يهودي\" .. مستوطنون يضرمون النار في ممتلكات لفلسطينيين في الضفة",
      "url": "https://www.dw.com/ar/آيزنكوت-يتحدث-عن-إرهاب-يهودي-مستوطنون-يضرمون-النار-في-ممتلكات-لفلسطينيين-في-الضفة/a-80013600?maca=ara-rss-ar-all-1125-rdf",
@@ -427,13 +433,6 @@
      "seen": "2026-11-22T12:13:49.166Z"
     },
     {
-     "title": "\"التحالف\" يعلن إحباط هجومين على السعودية الأحد.. والحوثيون يتحدثون عن ضربات جوية",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/cjfcspox-thwarting-2-houthi-attacks-on-saudi-arabia-on-sunday",
-     "source": "CNN بالعربية",
-     "time": "2026-11-22T12:06:00.000Z",
-     "seen": "2026-11-22T12:13:49.166Z"
-    },
-    {
      "title": "البحرين ترد على الحرس الثوري بعد ضربات إيرانية جديدة",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS01qZWQ4Wm5pRHdCdWpWOGVid3FMWEU1YVNnaXhMQ1RqbjAzc3BqTXBpMHI1UHZVUFk0UU92VnVGMmtGZGM3dTBKZFdjVnVWN2MwdDN6aHRIcEdsV2tfVU1VU0VrZmphOGdDTXpCbzVuVElJa0NlVng1dE5JSEhyaVh5UHh2UQ?oc=5",
      "source": "CNN Arabic",
@@ -466,13 +465,6 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-22T12:56:18.000Z",
      "seen": "2026-11-22T13:03:48.940Z"
-    },
-    {
-     "title": "تحقيق صحفي: هوانغ مرتبطة بشبكة تهريب رقائق إنفيديا إلى الصين",
-     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOYUpSUkl0NU5Waldvd0piRGFvWkJUREQxNThEN19GMjNUT2N1Rk9sMW11Vk12SHFUUWVqZ3g3MlV5V29yX0FSVk9FNTRiOVI3dHZoMjViWjVmVHBoQ2t6UFNoRFV0YmJZWlB5amw1QVh6OVIxYi11V2U4ajdoTWpVaGJkSExKa2JpZTZBYlZGeFhoWEJ5M1RUaEFPbGVpdzItQk9Nel82MGhja1VHLVhFWFk0X0hRclJPcFhwN2xqeG5LRzJhS0lYS2owbFNZS1RVMDdXMDhoOGxpSEh1V3FMbEowUW5FQk9BTUtpYlJPWEduNU92N0VYNHlSSm45WF9UYkRQQldqOW85RlVYb200a0lBd21EcFNkcGhlN2gzaWYzX3NjeDVZXzAtLUpQTEhTelhEUktGUkdSSy12VDRvNmpRNXBYRzF4Vnl6eG1lLVVmSk9PT01MbjZ4WUZOZFZqR2NLSUVCd2hhck1iWmtGT05zUGtuOGMyVndnVE56NGFQdThIdTQ5eVl1VC1HSVo5bmJfaU5VY3NoUGRfU05LNDNpcWNoSHd5N21iYUpGb0trd1dBdzduUFc3MTBkSGgxWjktaTIxUzhtVk9VbXFvckxsdjdFcThtbGfSAd8DQVVfeXFMUGc5OWkwd2M1LWtpWjFHamFUX0FNRkdnRzdYTEFWODNGUi15dlY4NDd5WUQtZl9TUXBRSl9Oa29NNUFrUXBQeDVRSlZrN1NobjdSNFk4NUV4dG9VcWgxV1dRQnFuTkpnQVNHWWxSYU9sMzRLUUVDYmRJbEFIOEs2dmx1ZFdraUxNTEJHVTVDbFlhSlJkNnc2bGNFQm9fR1VkclhGQVpEM2dXYjlfMVhFZkIybElXMmI1a0JzUXlfVUVJVVdqQ1dnOXFlX3Bkb0JocnJpLS1oVFp1MXZHaUpwOTk3TEhDVHM1MjhRXzlIV29rcTJoZEFuT1BlNVdmQUVxV2JHdk1YR09XZlNRQjlzRWJRMjZGTGtJMGNHTXJ6cHh2RW43S0xDUFhwakV2X3BBcm00V0NXNkhod2YyMzg4NGI5UURENzc5bEQ2MUg4TXpLWlM0SGJrNWtReUN4UEJXVXo3SXBnNXc2elFmUlU0RHVBREszbGlnTzZOTVMtd3U3NDZSTU1hVHAya05LUW9mRC10ZGpTMF9xNGo0cm9MYjRLZFJHejFkRTVlcEQxUDhkUE9qYUN2NHFMYU5JU0VlNlRrSHRQY01fZHpOeTVYM2ZjbVVaNEZfTGUxTEo0cU0?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T11:53:37.000Z",
-     "seen": "2026-11-22T12:33:48.656Z"
     },
     {
      "title": "رسميًا.. الانتهاء من حفر 12 محطة بالخط الرابع للمترو نهاية نوفمبر وبدء إعادة كفاءة شارع الهرم",
@@ -563,10 +555,23 @@
      "source": "الجزيرة نت",
      "time": "2026-11-22T08:22:28.000Z",
      "seen": "2026-11-22T13:53:48.533Z"
+    },
+    {
+     "title": "الأمن السعودي يعقّب بقضية اختفاء فتاة وبلاغ تعرضها للاختطاف في المدينة المنورة",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmowQ2NURWI1QlMyWi1mLWstNjVQVVBvci1TTHBHRkZvYkpSNzFLeEpFN2hmb2p4dEQxeGVQQy1SVFZ1czBYcFF5MnhISUdXcXg1bzNWeHNOVVhjWHllVHNKSE10S25seUowSVdPSE43OVlxaHljMmFLNU1wM2s0Q19famVJeUNNSThoVFRQNm9TSkhXVGNHOFpreFctM2xrMk1PTWhNYzItN04wb280Nk5xMW9md0lTaEVPRzZlYk9ZTmtL?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-22T08:06:39.000Z",
+     "seen": "2026-11-22T14:03:48.616Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
