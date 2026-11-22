@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:05:18.091Z",
+ "updated": "2026-11-22T22:15:17.561Z",
  "minute": [
   "استقر سعر صرف الدولار أمام الجنيه المصري في ختام التعاملات، وأوضحت الرقابة المالية أن العقد النموذجي الجديد يضمن حقوق العملاء وشركات التمويل.",
   "كشفت شعبة الاتصالات في مصر عن سبب توقف بعض الهواتف المحمولة وطريقة إعادة تشغيلها، فيما تم التعامل مع خروج عجلة قطار بضائع بالعياط دون إصابات.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-22T22:05:18.091Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T22:15:17.561Z"
  },
  "markets": [
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": 0.06,
-   "asOf": "2026-11-22T22:04:47.000Z",
+   "value": 1.0973,
+   "change": 0.03,
+   "asOf": "2026-11-22T22:15:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60815,
-   "change": 1.2,
-   "asOf": "2026-11-22T22:05:15.000Z",
+   "value": 60826,
+   "change": 1.22,
+   "asOf": "2026-11-22T22:15:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "محمد مندور يكتب: التراث في عصر الذكاء الاصطناعي",
+     "url": "https://www.elbalad.news/7190832",
+     "source": "صدى البلد",
+     "time": "2026-11-22T22:13:04.000Z",
+     "seen": "2026-11-22T22:15:17.561Z"
+    },
+    {
+     "title": "أسعار الوقود في مصر اليوم الاثنين 23-11-2026.. البنزين والسولار",
+     "url": "https://www.elbalad.news/7190849",
+     "source": "صدى البلد",
+     "time": "2026-11-22T22:11:57.000Z",
+     "seen": "2026-11-22T22:15:17.561Z"
+    },
+    {
+     "title": "قبل مباراة الأهلي وبيراميدز.. من الأفضل في الجبهة اليمنى الشيبي أم محمد هاني؟",
+     "url": "https://www.elbalad.news/7190836",
+     "source": "صدى البلد",
+     "time": "2026-11-22T22:10:23.000Z",
+     "seen": "2026-11-22T22:15:17.561Z"
+    },
+    {
      "title": "أخبار 24 ساعة.. تعليم القاهرة تعلن جدول امتحان شهر نوفمبر لصفوف النقل 2026",
      "url": "https://www.youm7.com/story/2026/11/23/أخبار-24-ساعة-تعليم-القاهرة-تعلن-جدول-امتحان-شهر-نوفمبر/7628769",
      "source": "اليوم السابع",
@@ -156,27 +177,6 @@
      "title": "حالة الطقس اليوم الإثنين 23 نوفمبر 2026.. انخفاض بالحرارة وشبورة كثيفة صباحا",
      "url": "https://www.youm7.com/story/2026/11/23/حالة-الطقس-اليوم-الإثنين-23-نوفمبر-2026-انخفاض-بالحرارة-وشبورة/7628109",
      "source": "اليوم السابع",
-     "time": "2026-11-22T22:00:00.000Z",
-     "seen": "2026-11-22T22:05:18.091Z"
-    },
-    {
-     "title": "شبورة كثيفة وأمطار ونشاط رياح.. خريطة الظواهر الجوية ودرجات الحرارة اليوم الاثنين",
-     "url": "https://www.elbalad.news/7190777",
-     "source": "صدى البلد",
-     "time": "2026-11-22T22:00:00.000Z",
-     "seen": "2026-11-22T22:05:18.091Z"
-    },
-    {
-     "title": "وفر 1200 دولار واحصل على iPad وساعة أبل.. تفاصيل عرض AT&T لهاتف iPhone Duo",
-     "url": "https://www.elbalad.news/7190571",
-     "source": "صدى البلد",
-     "time": "2026-11-22T22:00:00.000Z",
-     "seen": "2026-11-22T22:05:18.091Z"
-    },
-    {
-     "title": "تفاصيل أقل عيار ذهب في الصاغة الآن",
-     "url": "https://www.elbalad.news/7190542",
-     "source": "صدى البلد",
      "time": "2026-11-22T22:00:00.000Z",
      "seen": "2026-11-22T22:05:18.091Z"
     },
@@ -400,17 +400,17 @@
      "seen": "2026-11-22T20:45:17.353Z"
     },
     {
+     "title": "أميركا.. الديمقراطيون يحصدون أكبر أغلبية في النواب منذ 1992",
+     "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRWg5bmVtYkZiXzJEYWJDOExsYnVFcFZuWVdkWW5hbVhrc05hel9vVUdJNXpqd3BlaEo4RE1OblcxakdtUVR6UWJhd0Q5UWxCcmo0WEx6YkxJNmE2WUtWZk9penJSQ0k0RW1nMWFsWXdUbmdKODVUYm1MZW1IX195anhvemlVMnQyOV9NNFZzNzB0VldmaHptdVdXUHNRQkpKQU1RMkdUZEhudnZGdnctdFNkS3hwb3RsWFhMX0FWZVUyYm9YSHZHb1Y4bEMyTXVhWGVjNFlRZ2ExeHNCUENjRlZNdjFNV19TSnY4ODMtVjRrS2RyN1lOUUJadmNkVlhRUGFldnE3dE13VVRycmU3eU9TdzVMeGtvMmZybDhBc2FFNHFHQXEtbU1BTUJuX245Y29DaEJkRVpEVkwxT2p5emREbGVQTmxZMFVzWlhKTUxKVWZVY29ETjJ5VHdGVlhrUmx0bnhhUUh5NklqSFlXYS1oV0lYdzhsRlJ1WTByVUhnQzFIa2xvaVNBOXNHWS0zcFJPeWc4SlVhWlVxY2RWbHdnVnbSAaoDQVVfeXFMUFJOV1lOVXVKaEtPYjdKUGxjM1dMNy02QTY5c0xIM05CY0tUZHM5RFJOS3hmenFwcFVpY2FEek5aaUU4WWJKd25wZEtRRERra3EzdjZuYlR0UlF1S2RpYWYxNThJRHV5YVVvSGkya3phLTM0MFFYNXFUMnRxaVA2ZUtSRUhLZjYxQ3ZkOVFka3VGUVlFZUZSSzQyLWpWTDJIN0hKUGRrUHFWcTZCTEZia2dEeTh4WFhCZDFVY1VDYzFYZUotUWNEZWxYVU1ycUpBZm5NanFCb1F4UzJXQ01vSUFQU0w3Yms3Rm5YZy1sRjdpYUduMHFGeExrUnpHYWdKeVRkdnBoR1FBdktHZDc0WGlKTVF4elhobC1rd0s0UUdCWVo2SkZhMmd1blEtTzJSMUo2aUZPTDVneTQzUTRjeEVaOHZmZU1yTlY1ZUZvTlM3VUozTkxNQXNFUWNxRXM4MEo4WmhXX2pTRUtkNWRRcXg0ZFdoZGVVMEFZQ1VaZGhEY0gyUDRBY2c4ek04WkNiRlBJRkNiLUtTV2F5RVptTXBsdlV2Y2ZOR1BB?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T19:44:20.000Z",
+     "seen": "2026-11-22T22:15:17.561Z"
+    },
+    {
      "title": "كوب 31: انتهاء المؤتمر بدون التوصل إلى اتفاق",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1femZZRS1seG9vcWV6QXZSakNlSmItdWdRbnlHdE40UlNNM3p2OUhzeDlQdXRadUFxNmxCVjFMMm1CYUVITzF5N00wYzlDaGtEWm1kdWZORzVNdWlFOFHSAWNBVV95cUxNbzMwdzdYUUlGaEhMaVE1UHc3dzFPNDgtdE5VUklsUmNKZ1YwUzJVVUl2ZEpuR3c4Z3VQcHhNc0l6STV0LUx0N3dxQ3R4YTI4ZHB3d3BEcVVOMEt0OTA3VmZ5VDQ?oc=5",
      "source": "BBC",
      "time": "2026-11-22T19:41:15.000Z",
-     "seen": "2026-11-22T19:45:17.572Z"
-    },
-    {
-     "title": "مصادر: هجمات بنغازي انطلقت من قاعدة مصراتة البحرية",
-     "url": "https://www.skynewsarabia.com/middle-east/1906373-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D9%82%D8%AA-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%85%D8%B5%D8%B1%D8%A7%D8%AA%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T19:36:44.000Z",
      "seen": "2026-11-22T19:45:17.572Z"
     },
     {
@@ -436,18 +436,18 @@
      "impact": "تخص المشترين والتجار في مصر لمتابعة أسعار الهواتف المحمولة والجهود الحكومية للحد من ارتفاعها."
     },
     {
+     "title": "\"جزء من اللعبة\".. ضحية ميسي يرفض صب الزيت على النار (فيديو)",
+     "url": "https://www.aljazeera.net/sport/2026/11/23/%d8%ac%d8%b2%d8%a1-%d9%85%d9%86-%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9-%d8%b6%d8%ad%d9%8a%d8%a9-%d9%85%d9%8a%d8%b3%d9%8a-%d9%8a%d8%b1%d9%81%d8%b6-%d8%b5%d8%a8-%d8%a7%d9%84%d8%b2%d9%8a%d8%aa?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-22T19:05:42.000Z",
+     "seen": "2026-11-22T22:15:17.561Z"
+    },
+    {
      "title": "ترامب يكشف لـ\"فوكس نيوز\" الموعد المحتمل لاستئناف الضربات ضد إيران",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/22/trump-tells-fox-news-he-is-considering-resuming-strikes-on-iran-next-year",
      "source": "CNN بالعربية",
      "time": "2026-11-22T19:00:16.000Z",
      "seen": "2026-11-22T19:15:03.282Z"
-    },
-    {
-     "title": "\"لن نسمح بتوجيه كلمة سيئة له\".. دورتموند يدعم نميشا بعد الاحتفال المثير للجدل",
-     "url": "https://www.aljazeera.net/sport/2026/11/23/%d9%84%d9%86-%d9%86%d8%b3%d9%85%d8%ad-%d8%a8%d8%aa%d9%88%d8%ac%d9%8a%d9%87-%d9%83%d9%84%d9%85%d8%a9-%d8%b3%d9%8a%d8%a6%d8%a9-%d9%84%d9%87-%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-22T18:46:55.000Z",
-     "seen": "2026-11-22T22:05:18.091Z"
     }
    ]
   },
@@ -527,7 +527,7 @@
      "title": "من لعبة فيديو لصفقة بـ 7.5 مليار دولار.. ما قصة Decart AI التي تسعى أمازون لشرائها؟",
      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQMG0xSzVRLXFzMEc0LVNLSUZwR1Y0XzJoZEFjbldPZzhKRTJEeWNCYUpvOEtKMXQ1WGM5WUhLWnhfa0hUYXU1R21sU2hGakZYcW92bzA5dlVrRS00aWR2TVRHbzRtY3VJaUV1WlNPLTZUbnlkbG9KUzZHaEVBdXZlRkI2T2NVSGp1V0pkaV9nbm1RMkptVDh4TE4wU0EwbHVQMjRqU0J3MEJBYWYtYXRkSHZkVC0tT3cxeUVJWkN2Zm53ME5lMGJhb2s4aFBZMU05V0VqWGQzMi1fU0NJYVJtZVo1TTEyRVFkaW9yWDFvMmdPcXc3VUJwRTBxR2lkRFNaeFcxN0hzdUE5RkgzSlRFV1ZXVTl1RzRQdUpqbGxGNkVsWjNrYTBCVXg5YXdUYWNDMkU3ZExBSmZmc3RTbUEtaWpSNFVGcHEwcFhHS1VJZXRmQnBlbFFFRUYxaUppX3lyYUpSU0g2STc1MTJhVVVucXZwWWtzYjdPWDlKZnlJZEhYSlU3aG1VRGZYd3Q?oc=5",
      "source": "الشرق للأخبار",
-     "time": "2026-11-22T16:41:09.000Z",
+     "time": "2026-11-22T16:46:17.000Z",
      "seen": "2026-11-22T18:05:04.012Z",
      "impact": "سعي أمازون للاستحواذ على شركة ذكاء اصطناعي يعطي انطباعاً للمستثمرين عن اتجاهات النمو والاستثمار في قطاع التكنولوجيا العالمية."
     },
