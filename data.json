@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:45:03.472Z",
+ "updated": "2026-11-22T15:55:03.498Z",
  "minute": [
   "شهدت الأسواق المصرية متابعة لتطورات أسعار صرف الدولار وتغير نسب الحصص في بعض الشركات المدرجة بالبورصة.",
   "تستعد مصر لاستضافة المنتدى الدولي للحماية الاجتماعية لعام 2026 مع متابعة احتفال المتحف المصري الكبير بعامه الأول.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T15:35:03.652Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-22T15:55:03.498Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60669,
-   "change": 0.96,
-   "asOf": "2026-11-22T15:45:05.000Z",
+   "value": 60855,
+   "change": 1.27,
+   "asOf": "2026-11-22T15:56:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "فحص طبي يحدد موقف مهاجم بيراميدز من مواجهة الأهلي| خاص",
-     "url": "https://www.elbalad.news/7190299",
+     "title": "دعاء فاروق بعد خسارتها في انتخابات نادي الصيد: شكرًا لكل كلمة حلوة ومسامحة أي حد قال كلمة وحشة",
+     "url": "https://www.elbalad.news/7190293",
      "source": "صدى البلد",
-     "time": "2026-11-22T15:42:07.000Z",
-     "seen": "2026-11-22T15:45:03.472Z"
+     "time": "2026-11-22T15:54:28.000Z",
+     "seen": "2026-11-22T15:55:03.498Z"
     },
     {
-     "title": "وزير الخارجية يتفقد مكتب تصديقات أسوان ويؤكد الحرص على الارتقاء بالخدمات القنصلية المقدمة للمواطنين",
-     "url": "https://www.elbalad.news/7190292",
+     "title": "عبدالناصر زيدان: فتوح معروض على بيراميدز.. والزمالك لا يمتلك أموال لتجديد عقده",
+     "url": "https://www.elbalad.news/7190300",
      "source": "صدى البلد",
-     "time": "2026-11-22T15:40:49.000Z",
-     "seen": "2026-11-22T15:45:03.472Z"
+     "time": "2026-11-22T15:54:17.000Z",
+     "seen": "2026-11-22T15:55:03.498Z"
     },
     {
-     "title": "السعودية تهزم فرنسا وتنعش آمالها في التأهل بكأس العالم للناشئين",
-     "url": "https://www.elbalad.news/7190291",
+     "title": "ثنائية كوميدية في رمضان 2027.. أحمد رمزي بشخصية خالد أمريكا وشقيق أحمد فهمي في «نجم الموسم»",
+     "url": "https://www.elbalad.news/7190296",
      "source": "صدى البلد",
-     "time": "2026-11-22T15:37:40.000Z",
-     "seen": "2026-11-22T15:45:03.472Z"
+     "time": "2026-11-22T15:53:58.000Z",
+     "seen": "2026-11-22T15:55:03.498Z"
+    },
+    {
+     "title": "مدبولي يؤكد حرص الدولة على تحديث بيانات الناتج المحلي بما يعكس الهيكل الفعلي للاقتصاد المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE93UGRSYXhBdmd0T0x3Y21ub2VQNDNvZmYxejVDbUpyNnYxalFSMEZMTmpwUHRjaVVTWl9sbTkxOVh5eEgx?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-22T15:50:42.000Z",
+     "seen": "2026-11-22T15:55:03.498Z"
+    },
+    {
+     "title": "هل تنخفض أسعار الموبايلات في مصر قريبًا؟.. مجلس الوزراء يكشف تفاصيل التحركات الحكومية الجديدة",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KN1ZwQ0NXN0tsS3Y1R181bEt6M2QzS1BIdS1qVTU5dzQ4bVRadWVCSkdydUY5bnJUMHg2OXRHWEU2cENEa3Z5YjJiMjJQaVB3YUpDRkRlazIyZDhqeU9n?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-22T15:46:00.000Z",
+     "seen": "2026-11-22T15:55:03.498Z"
     },
     {
      "title": "رئيس الوزراء يشهد غدا فعاليات النسخة الأولى من المنتدى الدولي للحماية الاجتماعية في مصر 2026",
@@ -220,20 +236,6 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBESGJzM3hLNU1neF9SZndLNmt6NmpJVTk5MnROZzFuSlJKazB3Rk90ZnRBU1dqcXptZEdHZDMtdk5seVdEWEhv?oc=5",
      "source": "فيتو",
      "time": "2026-11-22T11:55:00.000Z",
-     "seen": "2026-11-22T12:03:48.510Z"
-    },
-    {
-     "title": "للوصول إلى 31.9 ألف ميجاوات بحلول 2030.. مدبولي يناقش مع وزير الكهرباء مستجدات الاستراتيجية الوطنية للطاقة",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2ak0zcVd5dWUzemZ2T0NfQjVhVTM1NV9ONTdPRXIyYmp6QmxEaG1VNXVrRkRqRUF0UkdCdTVhWUU1NDEwM0NaSGttdno1cHhkX2VUN1daZmp1MXB6?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-22T11:34:45.000Z",
-     "seen": "2026-11-22T11:53:48.358Z"
-    },
-    {
-     "title": "لماذا لم تنتهِ قضايا «عبّارة السلام» بمصر رغم مرور 20 عاماً على غرقها؟",
-     "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxNaGhDWkQwcEdNUW1taHFpYk90eWxBRURMZnVkYXlVMXpxallQRjg3MHNyRjdmRThpc1RsaGY1XzFHWlI1dDVJNkdLeGtDdlFjTmpmaVFNYlBKR25EVHZGZktxUzhXNnl1dkdEMFE3S3VfWWRCanRTSE1veXI4Z1hmS0xsR0RmWE1PdnJ4MDJfTXVETXNqOHVvUW9SMXJwNUFOTklBY0FQWGQyWC1ENmlUSTcxWXJSb1lENktwQUlvWDZlYTZlS2drZkRJaDQwdlpFOWdIaXFxbFd5a0xRTVZKTGdlWVQtNDVXUzd4VEktM2V4R2FwVTNEVGN2SVd5WEFNNXBaRlpuek9BX0l0Wk13U1VtbHd2X1hLUUtNVGRoWlhWQlhLX1hZS00xOWZKM2oxN3FRVDZVX1pFT1NGdVdBbHNCX0ZWck12MGpFMEVfWnZfeWs2ZlF0dC1xdmpqOGVuUkRaelVMNkdKaDBUci1ZWnRyem93bUl5Q3ZKN3dXRnFUU2FMTXgzVENySi14b0FUSGJpdXBwS2k4RXJmT1hSOFRJZXV4S2tDVm5KcEpZSExKcndDV0FWZkhsZ3lHUlFRczg1VXdXZnkzRVVOVExTaUlkOVYxXzdUbV9Ba1M3bXNZQ1ZDLXUwMzVQMElBWjZlenpzdzNTOTRKXzZYenp0NFRvUkVPalotei1na041cHV5S0FyUjFfX2dBYmxiSEtnS29LZ0dhMm9ZZzltNjh3Zmp3b1FQWmRiYWRlX1hiS1NNTVVUQUJqdXdud3JJdmtnU2kyMW1vRFQ5elNwUENpNHZONFVYTDVZdlktZDZ4QllKU29vTU9zOUUwNUNOc1hZMmM2cDJmN3hidWxDQUk0?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-22T10:47:37.000Z",
      "seen": "2026-11-22T12:03:48.510Z"
     }
    ]
@@ -359,7 +361,7 @@
      "seen": "2026-11-22T15:45:03.472Z"
     },
     {
-     "title": "فرنسا: محافظ يطلب إعفائه من مهامه بعد تحقيق قضائي حول تسريب معلومات سرية لحزب مارين لوبان",
+     "title": "فرنسا: محافظ يطلب الإعفاء من مهامه بعد تحقيق قضائي حول تسريب معلومات سرية لحزب مارين لوبان",
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261122-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A5%D8%B9%D9%81%D8%A7%D8%A1-%D9%85%D9%87%D8%A7%D9%85-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B3%D8%B1%D9%8A%D8%A9-%D8%AD%D8%B2%D8%A8-%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%84%D9%88%D8%A8%D8%A7%D9%86",
      "source": "فرانس 24",
      "time": "2026-11-22T15:22:02.000Z",
@@ -394,13 +396,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-22T14:28:22.000Z",
      "seen": "2026-11-22T14:35:03.321Z"
-    },
-    {
-     "title": "البحرين ترد على الحرس الثوري بعد ضربات إيرانية جديدة",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS01qZWQ4Wm5pRHdCdWpWOGVid3FMWEU1YVNnaXhMQ1RqbjAzc3BqTXBpMHI1UHZVUFk0UU92VnVGMmtGZGM3dTBKZFdjVnVWN2MwdDN6aHRIcEdsV2tfVU1VU0VrZmphOGdDTXpCbzVuVElJa0NlVng1dE5JSEhyaVh5UHh2UQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-22T14:13:31.000Z",
-     "seen": "2026-11-22T15:05:03.641Z"
     },
     {
      "title": "هجمات لمستوطنين في أنحاء الضفة الغربية.. وهكذا وصفها منافس نتنياهو",
@@ -444,6 +439,13 @@
      "source": "BBC",
      "time": "2026-11-22T12:45:47.000Z",
      "seen": "2026-11-22T14:25:03.640Z"
+    },
+    {
+     "title": "ترمب يهاجم شومر: سيكون من الصعب جدا العمل معه زعيما للأغلبية",
+     "url": "https://www.aljazeera.net/news/2026/11/22/%d8%aa%d8%b1%d9%85%d8%a8-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%b4%d9%88%d9%85%d8%b1-%d8%b3%d9%8a%d9%83%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d8%b9%d8%a8-%d8%ac%d8%af%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-22T12:44:24.000Z",
+     "seen": "2026-11-22T15:55:03.498Z"
     },
     {
      "title": "الرئيس الأمريكي السابق: مصر رفضت فتح حدودها أمام تهجير الفلسطينيين قسرًا من أرضهم",
