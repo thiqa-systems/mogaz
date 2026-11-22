@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:03:48.616Z",
+ "updated": "2026-11-22T14:05:03.699Z",
  "minute": [
   "شهدت مصر افتتاح عيادة جديدة للتأمين الصحي وتأكيداً حكومياً على وضع الطاقة الجديدة والمتجددة ضمن الأولويات.",
   "سجل سعر الدولار ارتفاعاً أمام الجنيه في البنوك المصرية بنهاية تعاملات يوم الأحد.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-22T14:03:48.616Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-22T14:05:03.699Z"
  },
  "markets": [
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60683,
-   "change": 0.98,
-   "asOf": "2026-11-22T14:04:48.000Z",
+   "value": 60699,
+   "change": 1.01,
+   "asOf": "2026-11-22T14:08:03.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "بايدن: مصر رفضت فتح حدودها لتهجير الفلسطينيين من أرضهم",
+     "url": "https://www.elbalad.news/7190170",
+     "source": "صدى البلد",
+     "time": "2026-11-22T14:04:14.000Z",
+     "seen": "2026-11-22T14:05:03.699Z"
+    },
+    {
      "title": "انخفاض مؤشر البورصة السعودية الرئيسي في ختام التعاملات",
      "url": "https://www.elbalad.news/7190178",
      "source": "صدى البلد",
@@ -151,13 +158,6 @@
      "url": "https://www.elbalad.news/7190177",
      "source": "صدى البلد",
      "time": "2026-11-22T14:01:14.000Z",
-     "seen": "2026-11-22T14:03:48.616Z"
-    },
-    {
-     "title": "ماذا يحدث لضغط الدم عند منع الملح لمدة أسبوع؟.. فوائد مهمة لصحتك",
-     "url": "https://www.elbalad.news/7189904",
-     "source": "صدى البلد",
-     "time": "2026-11-22T14:00:00.000Z",
      "seen": "2026-11-22T14:03:48.616Z"
     },
     {
@@ -232,11 +232,11 @@
      "seen": "2026-11-22T12:03:48.510Z"
     },
     {
-     "title": "بحضور «مدبولي».. انطلاق النسخة الأولى من المنتدى الدولي للحماية الاجتماعية غدا",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sdHNrcnE4bHhlZTdyaWlqVnNmTENpOUwwZmNFdW5SalRIeGdGd1JTR2dhVExCZjlLVFdXS3kzR1htTmh0TVBCV214MDJ6MERKYmQxeDRxWm94aEp0WGpN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-22T09:59:00.000Z",
-     "seen": "2026-11-22T11:53:48.358Z"
+     "title": "\"مناظرة علنية\" تضع البلوجر \"الأكيلانس\" في موقف محرج بمهرجان العسل",
+     "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPMzByQUgxWnhubXhNbTFuRGhyT01rbnhLR2d5VWFDcnRpdmVRNlRrNENWNERqTlRiSDIyd3U1Y2JmbnpiaGdWRWJJbHI1S1lJbFJ1dGd0Q3MtNVB1VWdVLURsdVJQRzUwTmhFYjhLY1FLcmluQ1JVNmZCcXprQjg2dEptNDhvWFRIUjlLUzYtTExvSVR0Yk5ZcWk1cnpDZmdnVFk3Nk1ERThIUGhwTmgzSG95NUZMOG1jYW53eHluYS1ZVUYwWGtUVE5zdldUVEg5UlFJZVRhSnNrTlpjSVpQT3pmajdhdWJab1ZIS3dIelhjaEl3NUdhcnFEUnJTWDVzYUZIUGxnaW0tLWlLalpVN1VVMHZCaE90aEpjT1lHUGhhUFZDa1ViTGlFRzJVZGFSaTdoaFhLYUR0TjBWYVppblEzemNncllNWUlCWFhKNzJkcDVpZ0staVpMX0ZISzdqWWQyT3gwSkFORWZ2a2dHNlZpTEtLWmI2LUotZ2xUYWMyVWtKVlhEeFY3REROZTdESnRZWER5Y25RalhsNFVIV1gzbUR2aWFDZ19fUTMteENyaENiVUtaTk5FQ0RWbFJvYUZNQzNmRnVWZHNoaFVHeEdTdFAwOHowSVpjdGVFcDh3M25BcmpOemZ6SmFUWGdpb3drNmlkQS1rV1lMX2czaEpIVTBKNmJiVndQUmVHWVNya2dDaVdudlFPOTU1emI5Ym840gGoBEFVX3lxTE4yb3Y2NG41TWw5VUJxajF2N0FEcnpoTDRyVlRic1c1QW00SnpuSmJkVzlWRlNVUURmUmxmYVhZTTJGZ1hTeGpSWmVKOTBndjlUZjdRdzJwYTlQTFM2UmFYOVRVTkM0YndpTjZkaEV4MGFmSVRlVDc0NUNYNHZCM1pWQ0g1eGw2bFNVc1JoZUVGSzRHTGdqd0FTQ1VENl9SZFl3Y3RHQ1QyeDFmRE03THc1TjlkZXd0MmhHQ2ZxdlYzWmZoN1dRcThGaWEwUTgyNHN6SHVoM3IyeDJzb01pQUM2OUdza0RQY24zUW16THJjXzFOOUhJb1hGRkttRUNidnQ5UWg0Rmw4dzkwUFl3Z0MtSUlXQ25WNUVtMl8tX3hoTDQ4dU1HaHIxUE9LSlY5Q2ZLT2UzRTFIZ19fc1BZVG5Ld0JhRXA3RC1MaWVyNkpPaEhoRUMwd245bHdsMFhFU1dub2duZzZfVVlZNmg2bzIyTi1LSjBBcDhBblpBVG1SWUVneVVwSE1aSnVuN1ZBZzJ2QVJBOG1PQi14Q3hWcmR3eW9fVGpvU2FxQzdxM3ZFdmRfQjZpd3dUb1BoVFZ1a0drMExlTVFBQUh5OHZXaUdtVlhYWTlWdG1iYS0yclhpMFBFUTNSNU82ZDdudEE5ZUlpTzBPZ3VYejViNVJkZkdpa2w1R0J6V1h0ZlFFY2c0RFQ1ZHh6eVdraXFGU3k5c08wWHo4S3pyNQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-22T10:45:25.000Z",
+     "seen": "2026-11-22T14:05:03.699Z"
     }
    ]
   },
@@ -569,6 +569,11 @@
  "failed": [
   {
    "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "tech",
    "feed": "www.bing.com",
    "error": "no items"
   }
