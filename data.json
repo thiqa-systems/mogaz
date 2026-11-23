@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:18:14.059Z",
+ "updated": "2026-11-23T13:28:13.532Z",
  "minute": [
   "شهدت مصر ارتفاعاً جديداً في أسعار الذهب وقدمت وزارة التموين برنامجاً لتعزيز القيمة الغذائية للخبز المدعم.",
   "تصاعدت التوترات والتطورت الميدانية والدولية في ليبيا وبولندا، مع تحديد إيران شروطاً لإمكانية فتح مضيق هرمز.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T13:18:14.059Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T13:28:13.532Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.27,
-   "change": 0.9,
-   "asOf": "2026-11-23T13:18:20.000Z",
+   "value": 54.28,
+   "change": 0.91,
+   "asOf": "2026-11-23T13:24:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5528,
-   "change": 3.92,
-   "asOf": "2026-11-23T13:08:18.000Z",
+   "value": 5530,
+   "change": 3.97,
+   "asOf": "2026-11-23T13:19:12.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6312,
-   "change": 3.92,
-   "asOf": "2026-11-23T13:08:18.000Z",
+   "value": 6314,
+   "change": 3.97,
+   "asOf": "2026-11-23T13:19:12.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3621,
-   "change": 3,
-   "asOf": "2026-11-23T13:08:18.000Z",
+   "value": 3622,
+   "change": 3.03,
+   "asOf": "2026-11-23T13:19:12.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0942,
-   "change": -0.25,
-   "asOf": "2026-11-23T13:17:46.000Z",
+   "value": 1.0947,
+   "change": -0.21,
+   "asOf": "2026-11-23T13:28:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.45,
-   "change": -4.45,
-   "asOf": "2026-11-23T13:08:15.000Z",
+   "value": 88.3,
+   "change": -4.61,
+   "asOf": "2026-11-23T13:19:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61153,
-   "change": -0.01,
-   "asOf": "2026-11-23T13:18:19.000Z",
+   "value": 61249,
+   "change": 0.14,
+   "asOf": "2026-11-23T13:29:12.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزيرا الرياضة والتعليم العالي يفتتحان فعاليات اليوم السنوي الرابع لمشروع الجينوم المرجعي للمصريين والقدماء المصريين",
-     "url": "https://www.elbalad.news/7191478",
+     "title": "محافظ بورسعيد يصدق على إيقاف تشغيل مطعمين لمخالفتهما الاشتراطات الصحية ببورفؤاد",
+     "url": "https://www.elbalad.news/7191495",
      "source": "صدى البلد",
-     "time": "2026-11-23T13:17:19.000Z",
-     "seen": "2026-11-23T13:18:14.059Z"
+     "time": "2026-11-23T13:27:33.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
     },
     {
-     "title": "المتحدث باسم البرلمان الليبي: نرفض تحويل بلادنا إلى ساحة معركة لصراعات دولية",
-     "url": "https://www.youm7.com/story/2026/11/23/المتحدث-باسم-البرلمان-الليبي-نرفض-تحويل-بلادنا-إلى-ساحة-معركة/7629652",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T13:17:00.000Z",
-     "seen": "2026-11-23T13:18:14.059Z"
-    },
-    {
-     "title": "رئيس مركز بلاط بالوادي الجديد يعقد اجتماعاً مع رؤساء القرى لمتابعة حصر أراضي الولاية والتصدي للتعديات",
-     "url": "https://www.elbalad.news/7191446",
+     "title": "من محنة وفاة الزوج إلى قصة نجاح.. «أم أحمد» بالغربية تصنع مستقبل أبنائها بمشروع رأس ماشية",
+     "url": "https://www.elbalad.news/7191475",
      "source": "صدى البلد",
-     "time": "2026-11-23T13:16:32.000Z",
-     "seen": "2026-11-23T13:18:14.059Z"
+     "time": "2026-11-23T13:27:20.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
     },
     {
-     "title": "الزمالك يحدد شروطه لبيع أحمد صفوت.. 3 ملايين دولار قيمة الصفقة المحتملة",
-     "url": "https://www.elbalad.news/7191477",
+     "title": "أحمد بدير: مسرح القطاع الخاص بعافية ومسرح الدولة لايصور أعماله",
+     "url": "https://www.elbalad.news/7191488",
      "source": "صدى البلد",
-     "time": "2026-11-23T13:16:31.000Z",
-     "seen": "2026-11-23T13:18:14.059Z"
+     "time": "2026-11-23T13:27:09.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
     },
     {
-     "title": "عبلة الألفي: 65.5% من الولادات في مصر قيصرية.. والقطاع الخاص يسجل 91%",
-     "url": "https://www.youm7.com/story/2026/11/23/عبلة-الألفي-65-5-من-الولادات-في-مصر-قيصرية-والقطاع/7629605",
+     "title": "مدبولي يشهد توقيع الميثاق الوطني لتسريع تطبيق منظومة التأمين الصحي الشامل بمصر",
+     "url": "https://www.youm7.com/story/2026/11/23/مدبولي-يشهد-توقيع-الميثاق-الوطني-لتسريع-تطبيق-منظومة-التأمين-الصحي/7629668",
      "source": "اليوم السابع",
-     "time": "2026-11-23T13:11:00.000Z",
-     "seen": "2026-11-23T13:18:14.059Z"
+     "time": "2026-11-23T13:23:00.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
     },
     {
-     "title": "المفتي يكشف حجم قاعدة بيانات «حصين»: 10 ملايين فتوى موثقة و30 مليون مدخل معرفي",
-     "url": "https://www.youm7.com/story/2026/11/23/المفتي-يكشف-حجم-قاعدة-بيانات-«حصين»-10-ملايين-فتوى-موثقة/7629636",
+     "title": "2666 وظيفة.. شروط التنظيم والإدارة للقبول في وظائف السكة الحديد الجديدة",
+     "url": "https://www.youm7.com/story/2026/11/23/2666-وظيفة-شروط-التنظيم-والإدارة-للقبول-في-وظائف-السكة-الحديد/7629670",
      "source": "اليوم السابع",
-     "time": "2026-11-23T13:10:00.000Z",
-     "seen": "2026-11-23T13:18:14.059Z"
+     "time": "2026-11-23T13:23:00.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
+    },
+    {
+     "title": "محلل فلسطيني لـ«اليوم السابع»: مصر رفضت تهجير غزة وتمسكت بحق الشعب الفلسطيني",
+     "url": "https://www.youm7.com/story/2026/11/23/محلل-فلسطيني-لـ«اليوم-السابع»-مصر-رفضت-تهجير-غزة-وتمسكت-بحق/7629574",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T13:19:00.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
+    },
+    {
+     "title": "فضيحة شهادات مزورة تهز الجامعات المصرية.. تحقيقات واسعة",
+     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxORmNDR2FnZ0stWnlhOXczeXpzU3gxZzRtQmZxQ2E4VDdGZ2dsRmJfRHh0cFh2amt2WVp4dGN1VnJMZVphSjIzQUlKV1N2RzZySVYzUXQ1SEhHaWs3ZFJic2d6ZHNkcUxMLXRKajZnd0xmRkhfMFJFWGlDQkozWG1pbWZQcjFQQ3dZckRUdURGT1pPX2VlV3g4ZGROY2VqaGVCQVRiQ25uSHZSc3ZVYWtDTmoxQVotRjdDUWs2S0RBd2R3WXZobHFBc05FdFZvNWxSX1d2NU9IRks2Wi1NZkMwc25zYmw0OFdjaTZIRWZ0SXlVWjhaWTFfSUxBZXZ6bHI5ai1SeHFtaTNCVTVOeGh0NUZMYmQyZ3Y0ekJEMGFOZDVWRUlfcmZobXd5VU1KNVl1QUI2dHZFVUxtOGZlMGo1VU5ZUy1FUXB0b1RucVM1YUl2aENFMjR6RXlGams3bEdrSEJfYVBxM0dUSWM1MlhRSWhlekVJYm5lTDZ1Q0EzWXBnR282NHZuRVJfalNCdHdTREZ4aU85MXg1UlA4VGI2OWdyQnNkcTVPMm5vaTcxcW5hTklUOUhpZVYwc0FISEd4czQtSm5BYUNIcXlsRHVNNGp3OU5sUdIB2wNBVV95cUxNdmxkdXlwREUyUmg2RXpYNzhEc3I0MXdPc3RvZVhTOHVxQ2VtMnZodUp4WTZ5anU3MkRib0ZUZVFvS2w2UEV6N2tyTE0wZkJQUVR1MUdFVzhLTjB1QnFyUldyUGg1SGd4RjRKT09ueVEyYVdTMEpwOUZjZVFHcVNBeGtISWpUOWx4MjdBeEkyX255WXBtRlpJZFNULV9jOFZ6WkFuQmRxWDNNc3dyU2ZvZDB0d3BxanVubzJXZUY5M0pWNWVTR0pHMVdET2xPTmxmZ05zRFFua1F4N2JTc3IyTDlXcU81dGJ4WUhMWnpacnR5eVJyX3VYR3BLMHBLTVlOMGNBQnEyNzJpbUJuaXVqMGZYOW1CcFhaVEhYRll6a1BrSjMwSmhJSnhVOGhwRHFaTnpsYWtLY1ByTlZ1U0VxNFlCbWNuQTFIRl9TNEV0VVF3MmRwR1pObW5FTkRZVHpXSVNhMjBpc0owX1RTMzAxZ1hCTWQzd0dhSDlaa003ZktlYVFKNU5NWFR3Tnd0MlY0NURfM0I2X0pNMWl0M2lNYjg5eG9XQTBUUnYzQWI1Wk9ZZHVqVVFmanRYVVFSOV9HdzJ5cl9GaV9WY0ZEV0ttYmxQbHJOOWVXUnEw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-23T11:51:38.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
     },
     {
      "title": "بدء التشغيل الرسمي للخط الرابع للمترو في 2027 (تعرف على المحطات)",
@@ -228,13 +235,6 @@
      "source": "فيتو",
      "time": "2026-11-23T09:47:00.000Z",
      "seen": "2026-11-23T10:06:13.284Z"
-    },
-    {
-     "title": "مدحت نافع يرد على مقترح حذف صفرين من الجنيه: لا يعالج اختلالات الاقتصاد",
-     "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxPUDQxeERRdkp2bWNLczg4ZUJFN0tzb3JkSGhrbXpqX2FoR0JkMEVOZTBBMnA0UnM4OVJiQzlHeHgwYlJ6TlFDZFl1Qms3UWduZzlpUk9IMDR6QndiU3h1M2ZlRnhMOVZuc2hib01jRl9OVE5aeHp3amxyTDdlV3JHVi0yLXYtaHdxWFpXVkQtY05pWFpRUHMwYS1VREhUY1BrZnpqVUJma21td0k5d2VhZlN0UWdlVGZOTW1jTGxiNWVvelNlMUNhZlc0cW9VQmZXMXJRd2JIV2d4UU5CaUdJUmN3MGFLOE5OdzdFYTZTNmpPLUZ5N3ctVGRJMzJUYnhiMS1DU2xyVWJfdUo0VW93UXFEblZ5TXhGM2hUUFBMeEx1X3BEdV8yYnFRTElQN05kaWt0SEp3bXVoOXkwQlQtZXhrcGtWU2NQc29qeU53VUpFR1hwSGJIR2Q2WFlzZVlocXR6Y3NHLUpPR3gzMERsZUpmS3ltd21wdGtUOTBqQXNCa2Jub0Z0d2VjeWRmRlRBVGZITjhNTFVqY0FJaXdFdkJLYXhrWlFRYXVPUGI2WktKQ1pRQmIzSXZGZWVBXzdkc3RueHZjTjRPWGJVOU1IT0JCeENERnJKM1RKdUNxbVZ4VmlyTDlFTF9qTFZ6OHVkenBienN2QmdWUU4tbnAxWnd4NGFBT0JRWjBGbFNrckp6NlplN2tvazVQeXdsUEY5T2lPZXI2bXhneWM4SDBPWk9jMk1JakhhZ2g3Si15SDl3dTAzWVl5Y0ZFNjJaX1ZmWHQ4U08xOEZKd9IB3wRBVV95cUxOTmhPR3NXdElnXzhsel9LNFdQMWZ5NEdhSzRRUzJzOWFzLXdjd3RGTVFEZmE0ZzZaenR1Z0VIZTVUOWRhSXFpNzBONVZQRUtwVFdTcmxvdXU0dEVkcloxXy1uWXhrYnFsN2gwUGN0ZHU1OUtweG9GUWgyY3VPNjM3aGdJSHRfel9HS01zcUpnYWpzWmY3ZlBvajNmdkFCYm00amY3NGpaUlh2T2pSUkJEQ01qbk9mRlhKMDlSSEJGTkNlT3JJLWwtckFyRDZId3VsS1QyTUgwWXBOb01QQjVVeTJlQndHQTd6TVp6bGtnWHlWS0xCN05rREx0V2Vmb1NDdDV3WEtUUXhpSFFNNEk2d29WY2ttOHB5dzdyOWpRMHpBekpIcFZEOWRTaktPME9xckg1eGt3M0l6dmtkUmJRS3hyWmpXUzRNZkZnNTdXeUhEZ0ctaUNoSTZHbk5qMW9tMUM3bjUzRjJFSTZ6b0s5OW5ZMXlRVURQbTYtTjFfMHFqT0lFSWlVSHNlU29XZy1iblRqMFc0Q1JBTmFEQkNjb29zbEdMX051a2lNd1ZNcUR3RWFDUWtXYzZPSXppR3doOGxtajNZS1pMSjF6bkJJV09oUWVEcDRWT3hBM2hDNHNjdnFpOHk0c2hqRVlDUnhGd1FtRWRUTE1KVGdCb1VqYWVUUHZqUFAtX0lmTDU2R29QUkRyb0IxYmFFaE42c2tlaXI2alp4ZFozS2NBeUF1QUVXaFBKZWp3ZTJ5Nm8tUXFwbHBuZjA3ZTE4bHRyWHo5dWVIMnZ6eW9IUmhfNUZN?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-23T09:36:11.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
     }
    ]
   },
@@ -306,6 +306,13 @@
      "seen": "2026-11-23T12:28:14.190Z"
     },
     {
+     "title": "تعرف على آخر تطورات سعر الذهب اليوم.. عيار 24 بـ6411 جنيها",
+     "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQYm5FSUlyTUFLZVgwMV9kT05YY0Z4emViZGRKQVlqdGFoNzJmZ3QwbXpiYW5zRlV6UzVaZ2pHYjlscTQzMFdnR0RYYnBTeGhweDZ3eU5xOWR3XzBEYUJqemV6cGhFR1dvSlpzeTlocHR3Y0NORWdGWW50ZEZ0b2d6VkFEQjljdExPaWhwT1E0RHZDNWpqbmZQM3lNaGdZMmhWRzdVVl8xVUNicFlVSlNDQThJUjVDUG9HY0pVRjhUYVg2QXlFQmxIYk40VWRSSGRkM2g4dVFNTm55VVdHbHNQWnV0TkxTTnVQM2JndkJVM29peFRocXVZc2R5cmpOUmhMLXY5MjFwYkMwVWpfMzltNFNaT0JlN2ZzYWRTOHdBX0trYkpkZUE5S3d5SUNnZVJxUTU5OFR3alhtS1V1VktGTzQ3QkRBLXo0dWdINXowWE1ocVVJN1VDNHd5dTZlRGFJVUgxNWY2QXJqQzlOOC11THcwT2dmdzFpRFRPSzIxQ0RQQXhZZC0w0gGCA0FVX3lxTE9UWHRqNndsZXZOZ2FLSWswUURLREkyb1pwWE4wMF9pckNVSDhjMlZhR24wemR0eEJfUk1pTjFWSE1QN1NBd2FTOGoxVGFYSXlQeXlqM0syY1B4UmlsdURsczJPQU9Xb2pvREpVU2xJTHlXa0d6MU9fNnprZ2NnUVNVdXhYazVjNl9pOENLMkVJZW9MTlJQTUVhVU1EU2FsdzhHcV9OQU8tanZsWkxZaXJQMFhOVVJ4UDZaMVFPb1ZkWGNKb3lMaUVQbkhfc1lPNlpBOURycGx4QWRvc0ppQmxONnhJTFRTQ2VpV2hlU1A3Z0tOOXowb0ZkV3ZrRXNfbkI3czVSYkNzV0E3QzRKUkRxTVlXUjJRQXliVzQzYWFIMU4tY09uZ3g3SEQ3WVByenYxd1dhNmJqUWwtVFFGWjhEeHVXcXNYWGV1T1ZnaVR1NTVfWFlDWU1xaXpSZldjZUg1NFA4dTlIZTZvUjFWcHZEMXRJTGZNQXJEQ3hEcm9uZ053?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T11:59:00.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
+    },
+    {
      "title": "مجلس إدارة مدينة مصر يوافق على شراء 18.15 مليون سهم خزينة",
      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPeWFIVXQ0YmlxVVZZNVdKZ2duaU9FdFJuVkZfYWRHVDVYTURwcHY2MW1wVzZOUmFsekF3dzlRRXdiVldHWTNhdElKS216YmhZR0FUVW5jODRPT0VWZTM2WGU5eHF5aVE0ZUNGV3FNOVNQOTJkSDdELWZJdVpDVXBUNUtGT2JNaGtGaHlwWWRtSWcteTF1dGYyc1FyamtPUm04RlItMjQwZ3IzTGxHdzAyMWt0cFc1SkMtcm5uaks1SG1EZkw2U0IzaXN2dVZ3MERCaVh5am5RWnNaV2RCbzBmUHNPcmJHcWZwWXNKbDFvaTR3Um05djB1WDhPbWNSbG9OX2FoMDZ6WDk2MkV5Ui01R2pqMENRUXlNNjctTWFoMDZSbHdLdmtlREhoZGRGNldMZzlVZG1IckJGczhSeGc?oc=5",
      "source": "عالم المال",
@@ -335,13 +342,6 @@
      "time": "2026-11-23T11:00:00.000Z",
      "seen": "2026-11-23T11:06:13.327Z",
      "impact": "يهتم به الراغبون في الادخار أو الاستثمار في الذهب بمصر لمعرفة تحركات الأسعار التأثراً بالسوق العالمي."
-    },
-    {
-     "title": "تحسن الأسواق الإقليمية وترقب استقرار الجنيه يدعمان البورصة المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOa1MxMDdaU3pQR2dsRndYLUNZVzk4RHZsaFFlSE5VNmZPNThBeVVfdmFDUHk1NElRUkllSG9VQndsOEpVa2NKTmljVmFwQnVZVmR0WmxCYW94b21YeVZDT3Q3bkp5RWlZcGUtc0NHMGxLN0NBOXdtSUc0WkY2SXE5LUJIampac0dQbjktU1lFbTRYU0ZEM011REMyTXZCOEZFdWxYckRkYTZ6OTZIcEUzZk9pc0w4WHRKU1ZIMmw2X25UR1NHNjRHc0YyQmpVWFJ3MnpXMFc2NWdMSElVLVJGdkpWaFU5S1NwLXM4MmpEWS1QNXptVW41emZ4ZG1UaVh3S281VVlJWkw4RFlLaFdyeW5ibjFULUx3ZS05b0p0dmZ2YWpaeXM4Tkk5ZEdWT1NKSzRYQUhiZHh5QVRRRjZ3aE1mYldaLVFqN3VjNjRkVDRUaXZhQVZsXzBiNjVxTkZqUkFUQng0RGYwR0t4U2hDSzYtVnliMndvQnkxQV9SZHNYRmRCVlZwLS1ia0Z3LVdCQmJVbEZQamhRc2x5TTU1YkY1OHZZSktKYWF0bmRGYktmQktrVEFHRVJfZ0ZKblpOY2dMdWRWYVdQODRaVDNhSDkwZ3pJRldPWnc1RndPZ0lFVEpMUm5DSURwckQ2T20xc0plbmxrNHhxWUNCY21ob2Z4T0JYdzhpN0xEVENqRVNPU1NWd3FSUjFWdU5pQV9jSVlyQkhtUDhxUFVQSjVOOWFTYmRSTDZudWxMd00tTVZhUXNsTW9yWkRiTdIBywRBVV95cUxOa1MxMDdaU3pQR2dsRndYLUNZVzk4RHZsaFFlSE5VNmZPNThBeVVfdmFDUHk1NElRUkllSG9VQndsOEpVa2NKTmljVmFwQnVZVmR0WmxCYW94b21YeVZDT3Q3bkp5RWlZcGUtc0NHMGxLN0NBOXdtSUc0WkY2SXE5LUJIampac0dQbjktU1lFbTRYU0ZEM011REMyTXZCOEZFdWxYckRkYTZ6OTZIcEUzZk9pc0w4WHRKU1ZIMmw2X25UR1NHNjRHc0YyQmpVWFJ3MnpXMFc2NWdMSElVLVJGdkpWaFU5S1NwLXM4MmpEWS1QNXptVW41emZ4ZG1UaVh3S281VVlJWkw4RFlLaFdyeW5ibjFULUx3ZS05b0p0dmZ2YWpaeXM4Tkk5ZEdWT1NKSzRYQUhiZHh5QVRRRjZ3aE1mYldaLVFqN3VjNjRkVDRUaXZhQVZsXzBiNjVxTkZqUkFUQng0RGYwR0t4U2hDSzYtVnliMndvQnkxQV9SZHNYRmRCVlZwLS1ia0Z3LVdCQmJVbEZQamhRc2x5TTU1YkY1OHZZSktKYWF0bmRGYktmQktrVEFHRVJfZ0ZKblpOY2dMdWRWYVdQODRaVDNhSDkwZ3pJRldPWnc1RndPZ0lFVEpMUm5DSURwckQ2T20xc0plbmxrNHhxWUNCY21ob2Z4T0JYdzhpN0xEVENqRVNPU1NWd3FSUjFWdU5pQV9jSVlyQkhtUDhxUFVQSjVOOWFTYmRSTDZudWxMd00tTVZhUXNsTW9yWkRiTQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-23T10:39:00.000Z",
-     "seen": "2026-11-23T12:08:13.707Z"
     }
    ]
   },
@@ -349,6 +349,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "\"فضيحة\" في المتاجر الفرنسية.. منتجات مستوردة من المستوطنات الإسرائيلية في الضفة الغربية؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261123-%D9%81%D8%B6%D9%8A%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AC%D8%B1-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-23T13:14:55.000Z",
+     "seen": "2026-11-23T13:28:13.532Z"
+    },
     {
      "title": "إصابة 4 عناصر أمن بهجوم بمسيرة في ريف السويداء",
      "url": "https://www.skynewsarabia.com/middle-east/1906574-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-4-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A3%D9%85%D9%86-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
@@ -385,6 +392,13 @@
      "seen": "2026-11-23T12:38:13.806Z"
     },
     {
+     "title": "كارني يلتقي «مقلِّد ترمب» في حفل عشاء الصحافيين (فيديو)",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNzBocVU3OW4yNEdrRURpbEtxaTVrZktjczRqajNTWERZTWlTNjdOM0pMNHY1WGRUbElUWjJBbWNHTmdqVGkzdkk1WDRzNzVXVm5zQ3Z4eXlVclM3UWxlYV9LZ0NZbndwcmVET1k0eFVMRDFvLTNFb1dFbU5jVDlRb3FHTV81dlgzc0VKZDVJV2JNZmVUUDlQbkxLUVllRVl6Nmw0b1pIR0hFZnBmdG96Z2VqN09GSW9mQ0w0UlYtR2lZN2dSV3czRkNsWVhMSXBiZEQ3dXFZekZocFRQbFFuRzYzQ2hYNXhBYzlWcjZCczVrb1FlZmFzd21manRWYngtSUFheXBYUXlOUjhBLVl6NS00NWk5WGFMNE9jMkwybHNwQ3dpVl9nYW1LU1pHTW5JLWpQOF9NSjFWV29hTkRqY1Biall1VVM4SzVGdjREM1pGN1k3UjhTTUN0Sm1za1lpYWUzQ0k5ZEx1QnE2V3JOc2N0QWF6VElXU2NwOWFXOW9qNWtTaWpRdFlvZld5V0ZzaDRMMzZtS2NBbWh2Qk42MG1uaTdzdTN2SExlRzltcFR4V2JyU2ZFSExYZkotejlpaWVOemZmTjFid29oVU95bExxb1Y?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-23T12:18:34.000Z",
+     "seen": "2026-11-23T13:08:14.196Z"
+    },
+    {
      "title": "إسرائيل تحذر من مسار تجاري بديل تقوده مصر والسعودية: يهمشنا ويقصي حلمنا",
      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQV2FsU19Xa2ZKRlpzbS1YOVVnU0pIV2dEbFowXzhXVjM2YklNRFdHQ2pibU42Wk5ma3EzMk5JMGtiSTZ0ZmhUVGFWdEZxZjdrbFlJTzJSWExDVC1oVUZTZnJGN3lGVDRhbHZ2VERtV2luWGlfYXhEVGNiVFQ3SUMxRVExeHh6cENWZ284RExTSmJ6UnVBVmcxWEFSY1hQamxoRDZDVGdzNmlFZFRVR1pIYUNrd0g0WUstRnFzVTFIV2RuUmVrM0RwcGhwM2MtbFhpbGphZjZCU0VqSXMzTTM2aWQxRFhIbkoxUGFlRlc0WlJTRkVEU3lrUUx4MjJOWnN2RnE0TjNKZ2VHLUFiVE5VT0JWNFVmNEhsX1JNVVFhRUlrZmtqNnVVb1QxbS04Uk92RXUtVmFJQll1VjJYUWZiSnZON21uVnBWbFh0V0tqdEtYeU1MQVJDNm1EcWwtb05uUGh3X2M5MlBqXzI3bmxDWXdlOHpUcXJuN1luUG16RGF6bFdTdjJneHpId05rUldiU3dzUjhscTBNcFBQWDVPQWU1aE5WbFY4WkFNTjhiakhUVk5feWdneE1VS2JDN3E1MjR0d1c3LWZuVVpKM0wxaGdVTlB1SDFSTjJMalI0SDBqZjNabDRvMDMzMnNaMV9fQ3JocFhINUhBX1NCX0tHdGJFcUVyelZ6ZzdnWTFacEZjSlBoX01oN012cWZEUVdMUjAwMjNOYThGYThZVFFIMUVya1JZQ19xd29ucGlhVm83REFhYVpPcWpxUGQ5dmpYX0JDVXRaakcwMDFXRjJ3cXlwTm9JYk3SAewEQVVfeXFMUGdEVmpvdFVVLVBIcjZWcjdwbE1wdUE0NHN5ZUhEcy1LNmt5clltcGhILVljTzhoaGVwNVpySEhzWnFpa084Nk1UNzM4NE1hQ1lUc0JxazI3eTV2LXJ4MVNobTBnbWhhQkVidVkxY1BiSlJoR2NkUWNtOVV6WjlvMTBSdFc3RDdjeTZ2d1N6bEZmTW1rdFAxeFhJaGxhMldpVWhLRFkyYXYxeGFTbWdmYVRZeC1CUWtodzdoT092dklwMWRxUFNuWHFzQkg2aWhXQlZhdkJxdmJFRXNpNHBueTRPM1VxQnZORjgteGprd2c0dG9Wb09aNW5aQXVvVndlUGR5UEVzX3Y0b3JqVlFQMTlOeEhzT3c5bnR6Rm5ZVXlHaGpseU5ocXRueFc0cVVDc3NGZDZNV2VrSlV0QUVZdDN6MW85ZHJzck1QWlVDakp5eXcySmc3TzFJZEtjaDZrTlh6SmlCQjlPbFJCLU5DSXlsWWVma1ZBSFBrZjI1RHNIZi1zN3F0anAxUnVMREkxQWMyV2JtTTJGV2dqeDJsMjVLVmJQNFZZUHREQjVIRlRwSlhKWXVwSmNxU1RhbTRTRHBsTm03eVR2Y2RNVkFOc25CM3QzemNHXzNQNXo5OFhzT090czFaVFZCcTFXNUx6d3BtajQ0TXdNbUxacVlZc05nYl8teTBqNUxIOFV6Y29YNi1zS1VNSng3Q2JuWFI1VmNjUGhzbWpiSjdTQ2l3aDdPY3dlYy05eFc4S0VPeFFXaDRSY0ZPdXg4Nnd2dUtyTGRmajFNQVFTbVJFSUdVYzQ3cWdCaXZrTUJtUG0?oc=5",
      "source": "Masrawy",
@@ -397,13 +411,6 @@
      "source": "فرانس 24",
      "time": "2026-11-23T12:04:48.000Z",
      "seen": "2026-11-23T12:18:13.567Z"
-    },
-    {
-     "title": "\"كاس\" تحسم الثلاثاء استئناف السنغال بشأن استعادة لقب كأس الأمم الأفريقية 2025 من المغرب",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261123-%D9%83%D8%A7%D8%B3-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D9%84%D9%82%D8%A8-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-2025-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
-     "source": "فرانس 24",
-     "time": "2026-11-23T12:01:39.000Z",
-     "seen": "2026-11-23T12:06:13.698Z"
     },
     {
      "title": "خارجية إيران: إعادة فتح مضيق هرمز \"خلال ساعتين\" ممكنة.. بشروط",
@@ -426,13 +433,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-23T11:42:35.000Z",
      "seen": "2026-11-23T11:56:13.317Z"
-    },
-    {
-     "title": "كارني يلتقي «مقلِّد ترمب» في حفل عشاء الصحافيين (فيديو)",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNzBocVU3OW4yNEdrRURpbEtxaTVrZktjczRqajNTWERZTWlTNjdOM0pMNHY1WGRUbElUWjJBbWNHTmdqVGkzdkk1WDRzNzVXVm5zQ3Z4eXlVclM3UWxlYV9LZ0NZbndwcmVET1k0eFVMRDFvLTNFb1dFbU5jVDlRb3FHTV81dlgzc0VKZDVJV2JNZmVUUDlQbkxLUVllRVl6Nmw0b1pIR0hFZnBmdG96Z2VqN09GSW9mQ0w0UlYtR2lZN2dSV3czRkNsWVhMSXBiZEQ3dXFZekZocFRQbFFuRzYzQ2hYNXhBYzlWcjZCczVrb1FlZmFzd21manRWYngtSUFheXBYUXlOUjhBLVl6NS00NWk5WGFMNE9jMkwybHNwQ3dpVl9nYW1LU1pHTW5JLWpQOF9NSjFWV29hTkRqY1Biall1VVM4SzVGdjREM1pGN1k3UjhTTUN0Sm1za1lpYWUzQ0k5ZEx1QnE2V3JOc2N0QWF6VElXU2NwOWFXOW9qNWtTaWpRdFlvZld5V0ZzaDRMMzZtS2NBbWh2Qk42MG1uaTdzdTN2SExlRzltcFR4V2JyU2ZFSExYZkotejlpaWVOemZmTjFid29oVU95bExxb1Y?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-23T11:41:13.000Z",
-     "seen": "2026-11-23T13:08:14.196Z"
     },
     {
      "title": "\"شجاعته مهّدت لسلام تاريخي\".. إسرائيل تنشر صورة للسادات خلال زيارته للقدس وتعلّق عليها",
