@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:08:14.129Z",
+ "updated": "2026-11-23T15:18:13.616Z",
  "minute": [
   "أعلن وزير الكهرباء المصري عن بدء التشغيل الفعلي للربط الكهربائي بين مصر والسعودية الأسبوع المقبل.",
   "شهدت تعاملات اليوم تراجعاً في سعر الدولار أمام الجنيه المصري في البنوك، بينما سجل الدينار الأردني 76.48 جنيه في البنك المركزي.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-23T15:08:14.129Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T15:18:13.616Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 54.19,
    "change": 0.75,
-   "asOf": "2026-11-23T14:56:23.000Z",
+   "asOf": "2026-11-23T15:14:05.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5591,
-   "change": 5.1,
-   "asOf": "2026-11-23T14:58:27.000Z",
+   "value": 5588,
+   "change": 5.06,
+   "asOf": "2026-11-23T15:08:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6383,
-   "change": 5.1,
-   "asOf": "2026-11-23T14:58:27.000Z",
+   "value": 6380,
+   "change": 5.06,
+   "asOf": "2026-11-23T15:08:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3667,
-   "change": 4.32,
-   "asOf": "2026-11-23T14:58:27.000Z",
+   "value": 3666,
+   "change": 4.28,
+   "asOf": "2026-11-23T15:08:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0923,
-   "change": -0.43,
-   "asOf": "2026-11-23T15:07:44.000Z",
+   "value": 1.0916,
+   "change": -0.49,
+   "asOf": "2026-11-23T15:17:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.01,
-   "change": -4.93,
-   "asOf": "2026-11-23T14:58:21.000Z",
+   "value": 87.06,
+   "change": -5.95,
+   "asOf": "2026-11-23T15:08:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7232,
-   "change": 4.65,
-   "asOf": "2026-11-23T15:08:27.000Z",
+   "value": 7255,
+   "change": 4.98,
+   "asOf": "2026-11-23T15:18:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 63076,
-   "change": 3.13,
-   "asOf": "2026-11-23T15:08:25.000Z",
+   "value": 62946,
+   "change": 2.92,
+   "asOf": "2026-11-23T15:18:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سياسة الاسترضاء لن توفر الحماية.. رئيس الموساد السابق يدعو للحرب على إيران وإسقاط النظام",
-     "url": "https://www.elbalad.news/7191608",
+     "title": "جامعة المنيا: افتتاح وحدة عناية جراحات القلب بعد تطويرها بـ 16 سريراً",
+     "url": "https://www.elbalad.news/7191559",
      "source": "صدى البلد",
-     "time": "2026-11-23T15:07:23.000Z",
-     "seen": "2026-11-23T15:08:14.129Z"
+     "time": "2026-11-23T15:17:23.000Z",
+     "seen": "2026-11-23T15:18:13.616Z"
     },
     {
-     "title": "سنغافورة والصين توقعان 29 اتفاقية لتعزيز التعاون الاقتصادي والتكنولوجي",
-     "url": "https://www.elbalad.news/7191593",
+     "title": "2666 وظيفة.. شروط القبول في وظائف السكة الحديد الجديدة 2026",
+     "url": "https://www.elbalad.news/7191637",
      "source": "صدى البلد",
-     "time": "2026-11-23T15:07:19.000Z",
-     "seen": "2026-11-23T15:08:14.129Z"
+     "time": "2026-11-23T15:17:15.000Z",
+     "seen": "2026-11-23T15:18:13.616Z"
     },
     {
-     "title": "محافظ بورسعيد يتابع اعمال إنشاء حديقة بالمنطقة الخامسة لخدمة الأهالي",
-     "url": "https://www.elbalad.news/7191590",
+     "title": "فتحي سند: الضغوط قد تحسم مواجهة الأهلي وبيراميدز.. وعموتة أمام اختبار حقيقي",
+     "url": "https://www.elbalad.news/7191626",
      "source": "صدى البلد",
-     "time": "2026-11-23T15:06:11.000Z",
-     "seen": "2026-11-23T15:08:14.129Z"
+     "time": "2026-11-23T15:17:13.000Z",
+     "seen": "2026-11-23T15:18:13.616Z"
+    },
+    {
+     "title": "منتدى الحماية الاجتماعية يستعرض استدامة نظم الحماية الاجتماعية والمعاشات",
+     "url": "https://www.youm7.com/story/2026/11/23/منتدى-الحماية-الاجتماعية-يستعرض-استدامة-نظم-الحماية-الاجتماعية-والمعاشات/7629804",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T15:13:00.000Z",
+     "seen": "2026-11-23T15:18:13.616Z"
     },
     {
      "title": "الطقس غدا.. انخفاض بالحرارة وشبورة وأمطار ببعض المناطق والصغرى بالقاهرة 15 درجة",
@@ -175,18 +182,18 @@
      "seen": "2026-11-23T15:08:14.129Z"
     },
     {
-     "title": "خريطة أسواق اليوم الواحد بالجيزة.. سوق أسبوعى فى إمبابة وآخر ببولاق الدكرور",
-     "url": "https://www.youm7.com/story/2026/11/23/خريطة-أسواق-اليوم-الواحد-بالجيزة-سوق-أسبوعى-فى-إمبابة-وآخر/7629440",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T15:00:00.000Z",
-     "seen": "2026-11-23T15:08:14.129Z"
-    },
-    {
      "title": "«مدبولي» يشهد توقيع «الميثاق الوطني لتسريع تطبيق التأمين الصحي الشامل» بالتعاون مع مجموعة البنك الدولي بحلول 2030",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pRnRQMEhjUURxUXh5OEN0c2kxOFg5MjNIUTZjZ2VoMzlScm9XNzlSeDdoa1dGZFp1blZISzZneDJNdGxtNXlGbFV1cE9PUnY4TGFVZDFKLTRYdzVtTXVV?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-23T13:27:00.000Z",
      "seen": "2026-11-23T13:38:14.158Z"
+    },
+    {
+     "title": "تصرف وزير الاتصالات يُشعل أزمة داخل \"الشيوخ\".. ورئيس المجلس يرد",
+     "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPdEh3RUNGdi1DeFNkQU1RVVk0Yy1jbVR0VlVOR3ptSE5WRWFqUElDMDE2bjl0VTY0bFEzYldZNXRCY1dwUUM1bWhxQ2ctTXFOOWdwekNiRXZ6a1FlRlBlOHlGXzJxLUtpOERTWTROVFl0LS1LTWF6a3BHVEdtRWNDbWZoM2h2U0lCVWxtaVdFM3RscEZXOHZsZEtwZUg4TDV0Qmt1LWFVSEZBUHFJeDVoWFFvYXlDVkY4UU5jZV9vOENkSDQzTmNGUmE1Q3dDNnUxU0VRamVKWVBGUXlwY084MF8yMnZnN3J6a3lzdEx4aGZKN3JrWERnYTNMQm9DejY2NEViS0RNZUlZdFVjY3NzbE9tNFNUbjRkOTZSVnVvS1I5eUd2QlN6MzE4eE50UmUtLVF5OW5vamEtZDJyb2xlU0dhOVBSWUxiUnZOV1N1WVlqZVFrVUJVZGNRNTZPblhyWFczeEI4a3dKRWNESVJlWFEzNUJ0V2QzcXc4WnRWWVp2dWtFV0FtRzVsMWJBUmZwOUYtbmRGWFNmWTA4UlJyejJVVEJSdkNBcERxcEYtUFNqTTYxSWh6aTJ1Yml5RlNPclkzQUhDTlBReEItYTlyUGtDVmVQZHZrQWhPa2Q5RDhSR0pGSWtrSFhqS1dHenNKdy0zQUdhNlBvZm0ySmlxYnhOcUJZdlVlY0sw0gGQBEFVX3lxTE5ET1dhMU0tZFhJaUhkMWFYRHRtNHRUcFVTX2JtUEx3TDlhVWpVSFdGY1BtWUJBb2hJWEZkQk5hcTB3NW9URm1yejA5QU5SMV81dnRvZFdRXy1SWXJfWWdRVXd0dDRpcGdvXy1NbkNjS0ZkYTM2b3c4endvdkZoZ05pNjMxaWlfUXNPRlZVeGpJNTYtd0dBWUJfSG53OXBwLXJnV3ZCT2VpOENyOHpBU0lLc0NQMk1vTlR0a3BMSk5aS1lRS3lITGl3dzlKNWVLamQ3MFNoVWtsNklKcGZ2S0M1LXdFS0l2aDM4eTNzeENmSWNqLWUwRDFlbmlsMEpmVkl0MXhLNG40YVdTcDBTRzRzWHNQNkl2NThOaS1ZUmR2dlRJSFVaSHVWTTd3aVpJSzQ0WDRnTmhPRXZHSTJWT0NoTkdDMnM2NzZXTkxJWmczLUJYNWIzN09WNE9CYVltcHBqeGJtdTVmbjRET1dKSEdGX2U5OGZqYVBic296bnk5NXNfVG1aTTVFOW8tb19EVGo0UXlXdHNodmdhWXJ5eHh5V0hYTmVPeXVsTk93VkVqaldSOGM5RzNKbXNlQ2s5UzNnOVRiakdxUU5UWVhCODNxR04yZ25HNTl2WkJOelFoWm9RdWJod1pZSE9IZlBVRHBxVXNjR19zSVhETmtEdy1QTW9UbmlldWRvbXFlRjZJUQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-23T12:47:08.000Z",
+     "seen": "2026-11-23T15:18:13.616Z"
     },
     {
      "title": "فضيحة شهادات مزورة تهز الجامعات المصرية.. تحقيقات واسعة",
@@ -229,13 +236,6 @@
      "source": "قناة صدى البلد",
      "time": "2026-11-23T11:07:42.000Z",
      "seen": "2026-11-23T12:18:13.567Z"
-    },
-    {
-     "title": "الحكومة: الموازنة العامة لم تتحمل جنيهًا واحدًا من تكلفة المنتدى الدولي",
-     "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxQV0lGU3pheTREV1JldmVQSmdpWnJvblRTbTNtVmY5RVhXNUNrenFVVXRqWlplR0x6enlTQ3NjSmRzOXMtbzZ1VWl3ZWVwOE1VYTVCbk41VjVMME5tamppUjlBN2daNVcyT2VfUFp2NWNIdVpZTzZxdkhOeFo4ZlVqMUVQellJdG5mNjFTM2U3Q0hOQkhucXZjZUsxRUd1Zzhzbm1jQ29RWkJnVUt2MEJfRFFkTTZ2R0lxTGRWMkhLMl96ckJERTZLWGxLck1VS3pjWFBqUHl2YmR6M2ItdWtIc3VFb1kzUHI0cEdpeUVvLVktT285Y3c0Ynd1dGoyaVdfNkt2VElzSjEzMDlJNVJMZFRTVXZxRXB1TVBPOTBKUWFaYWVteUw2VHlQRXpjaEZlVk1uSHlkYVB4eTVfN2JnZDZENnJpZWNpU2NBeDdoU1JUcER4SGJuRjJZNGJyWDEzeS1HUHFWZnJqcDdWbWNpaXgwMklVUUFXc3pVWUttdjVEbXpoTWhwQTl6akpZUi05NUZ0QXZoa1QxRkJHbUpqYWkzOUNVYndSeU5qR0RZLUtWTGN4ZWlrSmpIM0dHeE5IdDc5czBqUVpEc3RnU3ctMl82SzFSRmxXY2I0OHhLSVJrZ25HWklqZ0pQVFd0YWYxbVZPeWdtYmh4R19OTWM0Ty11RFp2Q3I1YWZCUms1eW5nZjZyV1QwQkJFaVRJOFd3bGtpbUdWcWxySVh1M2ZjOHVSVU1sdjFxd2owWGZjRXFOTXNZXzVVNXR5N1V4QVJYV3BQSHlR0gHbBEFVX3lxTE9ETmU3cnRjcm5uLTF4aGU0a2NoNzFaMHhqNUVYR1NNc2gxUmVWWkFoYWFhTGdRTkNNbS1ocXNHOGhHUWxHM0E0czB6MGI0VUVLWWUzUmRvczNjR3Z6SEhHc0VkYy1zWkdia25UUE5VQk4tdUV1SnY5ZGdyM3E1V0N6dS1SbGtlRzFQOExiTXczeEE3aE9jYUlTTGlIYnYzbUlENUdKWTlUbXVGOTk2YjRPYVR0dGpKSmpuM19Lb0Rpek4wVFRJMnNUd09JeWlvMVp2MERGQ3pybW9Jdm85enJNT1VZZHFoQm0xcjNSdmlRVXRvZHZ0R1dsM0ZlUHVIU1RzUkpZOXI0WmRjcEVBZU1wOHdweFFIZTQtWkVDNmtPamdQRDREVWZEZkRFVTV0WFp5c0tLRDFWYjNsZ1dqMVVORHhucmV1dnlWOC1LNGVjSnMwVlBVcGF0cC0zUTV2ZVZRR2hKX2lHQlFxR3NERENsdUlHRVNCTlBveF9vbVZ3ZnRrc29oVjYtRmpwYmxtQ2pKUkhGT29ETFVJWXBscGc3dVE1ZGZGZnRycnFkOVNrYl9HaHdaejlPVUg1ODU2MHZndW1LbVRnd3kwQjktazNvb2ViLVVQTENCOWpBbFp6TVhQWG13aFYtWXZfTTdSZllkbVktU1VDTXZyR3hjaFJfUUhaVGtpX04xRWNESW5zanNweXpDZnRuZ3drZWxFSkliNDNWUVNjT2QtZzBmYWJraF9Ccm03VUNzRmZQUzYtdGlSc09FUXNrWnYwRVl0cF9JN25DZDU4Qng2SQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-23T10:08:19.000Z",
-     "seen": "2026-11-23T10:26:13.769Z"
     }
    ]
   },
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "أسعار الدولار مقابل الجنيه المصري في 5 بنوك.. الأخضر بكام النهاردة؟",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4Q3ZyZ0ZsT21YRnZqOE1YQjJRM2hyM2l0MXplaTg4eGFCMDdYakdiX1FWQ1ZjZHg2LTZ1MHBGSXhlQWc0cHc?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-23T15:13:23.000Z",
+     "seen": "2026-11-23T15:18:13.616Z"
+    },
     {
      "title": "سعر الدولار في مصر اليوم الاثنين 23/11/2026.. تراجع بالختام",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNGtvaFFYMzkyOXl2SHdpbEpwMllEcElDcnZjTGMwZ0M1X0o1aDBDb21KdlhNcUtRWi1kLWhrWTlzQmVBYUEwMTd2WmtUajVHUGlnSlVB?oc=5",
@@ -336,13 +343,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T12:04:00.000Z",
      "seen": "2026-11-23T12:28:14.190Z"
-    },
-    {
-     "title": "تعرف على آخر تطورات سعر الذهب اليوم.. عيار 24 بـ6411 جنيها",
-     "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQYm5FSUlyTUFLZVgwMV9kT05YY0Z4emViZGRKQVlqdGFoNzJmZ3QwbXpiYW5zRlV6UzVaZ2pHYjlscTQzMFdnR0RYYnBTeGhweDZ3eU5xOWR3XzBEYUJqemV6cGhFR1dvSlpzeTlocHR3Y0NORWdGWW50ZEZ0b2d6VkFEQjljdExPaWhwT1E0RHZDNWpqbmZQM3lNaGdZMmhWRzdVVl8xVUNicFlVSlNDQThJUjVDUG9HY0pVRjhUYVg2QXlFQmxIYk40VWRSSGRkM2g4dVFNTm55VVdHbHNQWnV0TkxTTnVQM2JndkJVM29peFRocXVZc2R5cmpOUmhMLXY5MjFwYkMwVWpfMzltNFNaT0JlN2ZzYWRTOHdBX0trYkpkZUE5S3d5SUNnZVJxUTU5OFR3alhtS1V1VktGTzQ3QkRBLXo0dWdINXowWE1ocVVJN1VDNHd5dTZlRGFJVUgxNWY2QXJqQzlOOC11THcwT2dmdzFpRFRPSzIxQ0RQQXhZZC0w0gGCA0FVX3lxTE9UWHRqNndsZXZOZ2FLSWswUURLREkyb1pwWE4wMF9pckNVSDhjMlZhR24wemR0eEJfUk1pTjFWSE1QN1NBd2FTOGoxVGFYSXlQeXlqM0syY1B4UmlsdURsczJPQU9Xb2pvREpVU2xJTHlXa0d6MU9fNnprZ2NnUVNVdXhYazVjNl9pOENLMkVJZW9MTlJQTUVhVU1EU2FsdzhHcV9OQU8tanZsWkxZaXJQMFhOVVJ4UDZaMVFPb1ZkWGNKb3lMaUVQbkhfc1lPNlpBOURycGx4QWRvc0ppQmxONnhJTFRTQ2VpV2hlU1A3Z0tOOXowb0ZkV3ZrRXNfbkI3czVSYkNzV0E3QzRKUkRxTVlXUjJRQXliVzQzYWFIMU4tY09uZ3g3SEQ3WVByenYxd1dhNmJqUWwtVFFGWjhEeHVXcXNYWGV1T1ZnaVR1NTVfWFlDWU1xaXpSZldjZUg1NFA4dTlIZTZvUjFWcHZEMXRJTGZNQXJEQ3hEcm9uZ053?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T11:59:00.000Z",
-     "seen": "2026-11-23T13:28:13.532Z"
     }
    ]
   },
