@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:55:17.709Z",
+ "updated": "2026-11-23T00:05:17.445Z",
  "minute": [
   "تضمنت الأخبار تحديثات حول أسعار صرف الدولار مقابل الجنيه في البنوك المصرية، إلى جانب نشر أرقام شكاوى خدمات محافظة الجيزة.",
   "تتابع التطورات قبالة بنغازي عقب استهداف سفينتين من بينهما سفينة روسية، وتصريحات لمجلس النواب الليبي وردود فعل دولية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-22T23:45:17.482Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T00:05:17.445Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5474,
-   "change": 2.9,
-   "asOf": "2026-11-22T23:45:12.000Z",
+   "value": 5483,
+   "change": 3.07,
+   "asOf": "2026-11-22T23:56:15.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6249,
-   "change": 2.9,
-   "asOf": "2026-11-22T23:45:12.000Z",
+   "value": 6260,
+   "change": 3.07,
+   "asOf": "2026-11-22T23:56:15.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3579,
-   "change": 1.8,
-   "asOf": "2026-11-22T23:45:12.000Z",
+   "value": 3585,
+   "change": 1.97,
+   "asOf": "2026-11-22T23:56:15.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": 0.06,
-   "asOf": "2026-11-22T23:54:44.000Z",
+   "value": 1.0978,
+   "change": 0.08,
+   "asOf": "2026-11-23T00:05:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.37,
-   "change": -3.46,
-   "asOf": "2026-11-22T23:43:11.000Z",
+   "value": 89.33,
+   "change": -3.5,
+   "asOf": "2026-11-22T23:54:27.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61263,
-   "change": 1.95,
-   "asOf": "2026-11-22T23:55:14.000Z",
+   "value": 61085,
+   "change": 1.65,
+   "asOf": "2026-11-23T00:06:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الكورة تخبط في العارضتين والقايم.. إبراهيم فايق يتوقع مفاجأة في مباراة الأهلي وبيراميدز",
-     "url": "https://www.elbalad.news/7190885",
+     "title": "دموع وضحكة أم.. سهير جودة تكشف أجمل لحظات رانيا فريد شوقي مع ابنتها في حفل زفافها",
+     "url": "https://www.elbalad.news/7190899",
      "source": "صدى البلد",
-     "time": "2026-11-22T23:50:55.000Z",
-     "seen": "2026-11-22T23:55:17.709Z"
+     "time": "2026-11-23T00:03:02.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
     },
     {
-     "title": "تشكيل الأهلي بين الساعي وعاشور.. عماد متعب يوجه رسالة خاصة لـ عموتة",
-     "url": "https://www.elbalad.news/7190890",
-     "source": "صدى البلد",
-     "time": "2026-11-22T23:48:28.000Z",
-     "seen": "2026-11-22T23:55:17.709Z"
+     "title": "مواعيد القطارات على خط أسوان / القاهرة والعكس اليوم الإثنين 23/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/23/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الإثنين-23/7628246",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T00:00:00.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
     },
     {
-     "title": "مفاجآت في تشكيل الأهلي المتوقع أمام بيراميدز.. وموقف إمام عاشور وعمر الساعي",
-     "url": "https://www.elbalad.news/7190883",
+     "title": "تحذير لمزارعي القمح من 3 أصناف حساسة للصدأ.. اعرف التوصيات المهمة قبل الزراعة",
+     "url": "https://www.youm7.com/story/2026/11/23/تحذير-لمزارعي-القمح-من-3-أصناف-حساسة-للصدأ-اعرف-التوصيات/7618763",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T00:00:00.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
+    },
+    {
+     "title": "الموبايل ليس رفاهية.. مطالبة برلمانية بضبط أسعار المحمول ومراجعة أرباح الشركات لحماية المستهلك",
+     "url": "https://www.elbalad.news/7190875",
      "source": "صدى البلد",
-     "time": "2026-11-22T23:44:04.000Z",
-     "seen": "2026-11-22T23:45:17.482Z"
+     "time": "2026-11-23T00:00:00.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
+    },
+    {
+     "title": "مصر تنطلق بالتصدير.. إعداد خريطة وخطة عمل والترويج للفرص الاستثمارية ببني سويف",
+     "url": "https://www.elbalad.news/7190858",
+     "source": "صدى البلد",
+     "time": "2026-11-23T00:00:00.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
     },
     {
      "title": "معهد الفلك يخصص منصة بموقعه الرسمي استعداداً لكسوف الشمس العظيم 2027",
@@ -164,21 +180,6 @@
      "time": "2026-11-22T23:00:00.000Z",
      "seen": "2026-11-22T23:05:17.614Z",
      "impact": "يتيح للمواطنين في مصر متابعة الترتيبات والمعلومات الرسمية الخاصة بظاهرة كسوف الشمس المرتقبة عبر منصة معهد الفلك."
-    },
-    {
-     "title": "أرقام شكاوى محافظة الجيزة.. طرق الإبلاغ عن المخالفات ومشكلات الخدمات",
-     "url": "https://www.youm7.com/story/2026/11/23/أرقام-شكاوى-محافظة-الجيزة-طرق-الإبلاغ-عن-المخالفات-ومشكلات-الخدمات/7622996",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T23:00:00.000Z",
-     "seen": "2026-11-22T23:05:17.614Z",
-     "impact": "يساعد سكان محافظة الجيزة على معرفة قنوات التواصل الرسمية للإبلاغ عن المخالفات ومشكلات الخدمات المحلية."
-    },
-    {
-     "title": "ترامب: إيران قتلت 81 ألف متظاهر وتراجع أسعار النفط بعد الانتخابات خدعة",
-     "url": "https://www.youm7.com/story/2026/11/23/ترامب-إيران-قتلت-81-ألف-متظاهر-وتراجع-أسعار-النفط-بعد/7628817",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T22:52:00.000Z",
-     "seen": "2026-11-22T22:55:17.986Z"
     },
     {
      "title": "متحدث الحكومة: صناعة الهواتف المحمولة ما زالت وليدة.. ونسعى للحفاظ عليها لتلبية احتياجات السوق المحلي",
@@ -358,6 +359,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "بعد حسم مقعد في كارولاينا الشمالية.. الديمقراطيون يحققون أكبر أغلبية منذ أكثر من 30 عاما",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261123-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D9%8A%D8%AD%D8%B5%D8%AF%D9%88%D9%86-258-%D9%85%D9%82%D8%B9%D8%AF%D8%A7-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2%D9%87%D9%85-%D9%81%D9%8A-%D9%83%D8%A7%D8%B1%D9%88%D9%84%D8%A7%D9%8A%D9%86%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-23T00:04:06.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
+    },
+    {
+     "title": "برشلونة يقلب تأخره أمام فياريال ويعزز صدارته للدوري الإسباني",
+     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261122-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D9%82%D9%84%D8%A8-%D8%AA%D8%A3%D8%AE%D8%B1%D9%87-%D8%A3%D9%85%D8%A7%D9%85-%D9%81%D9%8A%D8%A7%D8%B1%D9%8A%D8%A7%D9%84-%D9%88%D9%8A%D8%B9%D8%B2%D8%B2-%D8%B5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87-%D9%84%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A",
+     "source": "فرانس 24",
+     "time": "2026-11-22T23:42:04.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
+    },
+    {
+     "title": "إصابتان في هجوم إيراني على البحرين والسعودية تحمّل طهران عواقب استمرار التصعيد",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261122-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%8A%D9%88%D9%82%D8%B9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%88%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-22T23:27:28.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
+    },
+    {
      "title": "\"لسنا طرفاً بنزاع روسيا وأكرانيا\".. مجلس النواب الليبي يعلق بعد استهداف سفينة في بنغازي",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/libyan-house-of-representatives-comments-russian-ship-attack-benghazi",
      "source": "CNN بالعربية",
@@ -393,18 +415,11 @@
      "seen": "2026-11-22T21:55:17.951Z"
     },
     {
-     "title": "ليبيا: هجوم بمسيّرات بحرية يستهدف سفينة ثانية قبالة بنغازي بعد انفجار على متن سفينة روسية",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261122-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%86-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-22T21:42:56.000Z",
-     "seen": "2026-11-22T21:55:17.951Z"
-    },
-    {
-     "title": "ضربات بمسيّرات تستهدف الخرطوم ومصدر في الجيش السوداني يتهم إثيوبيا",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261122-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A8%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D9%85%D8%B5%D8%AF%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D9%87%D9%85-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-22T21:12:12.000Z",
-     "seen": "2026-11-22T21:15:17.228Z"
+     "title": "تقرير \"أوكسفام\" يكشف: كيف ارتكبت إسرائيل \"جرائم حرب بيئية\" في غزة؟",
+     "url": "https://www.aljazeera.net/science/2026/11/23/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a3%d9%88%d9%83%d8%b3%d9%81%d8%a7%d9%85-%d9%8a%d9%83%d8%b4%d9%81-%d9%83%d9%8a%d9%81-%d8%a7%d8%b1%d8%aa%d9%83%d8%a8%d8%aa?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-22T21:01:00.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
     },
     {
      "title": "أول بيان من \"الجيش الليبي\" بعد استهداف سفينة حربية روسية في بنغازي",
@@ -418,13 +433,6 @@
      "url": "https://www.dw.com/ar/انهيار-مؤتمر-المناخ-العالمي-وسط-انقسام-حول-الوقود-الأحفوري/a-80015270?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-22T20:42:00.000Z",
-     "seen": "2026-11-22T20:45:17.353Z"
-    },
-    {
-     "title": "تركيا: آلاف المتظاهرين في إسطنبول احتجاجا على التضييق على وسائل الإعلام المعارضة",
-     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261122-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B6%D9%8A%D9%8A%D9%82-%D8%B9%D9%84%D9%89-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-22T20:31:25.000Z",
      "seen": "2026-11-22T20:45:17.353Z"
     },
     {
@@ -447,13 +455,6 @@
      "source": "الجزيرة",
      "time": "2026-11-22T20:00:41.000Z",
      "seen": "2026-11-22T23:35:17.425Z"
-    },
-    {
-     "title": "كوب 31: انتهاء المؤتمر بدون التوصل إلى اتفاق",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1femZZRS1seG9vcWV6QXZSakNlSmItdWdRbnlHdE40UlNNM3p2OUhzeDlQdXRadUFxNmxCVjFMMm1CYUVITzF5N00wYzlDaGtEWm1kdWZORzVNdWlFOFHSAWNBVV95cUxNbzMwdzdYUUlGaEhMaVE1UHc3dzFPNDgtdE5VUklsUmNKZ1YwUzJVVUl2ZEpuR3c4Z3VQcHhNc0l6STV0LUx0N3dxQ3R4YTI4ZHB3d3BEcVVOMEt0OTA3VmZ5VDQ?oc=5",
-     "source": "BBC",
-     "time": "2026-11-22T19:42:05.000Z",
-     "seen": "2026-11-22T19:45:17.572Z"
     }
    ]
   },
@@ -491,20 +492,27 @@
      "seen": "2026-11-22T21:55:17.951Z"
     },
     {
+     "title": "«اجتماع ثلاثي» بأسوان يُجدد رفض الإجراءات الأحادية في قضايا الأمن المائي",
+     "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNTWgtYVBKaC10aUJuUFg2OVFZNmFEbXNPdjY3VTI5UzFmV2ZuRFhxWGNiOGEzWEw5Mm1hN0tjVDhENmxXbE9JOHc4eGhELUNrYWNCODdEbEhZNnpHaElsWUUzdC1uWkQzQmdCWlZmd1AxbldweUhuZFJPT0dSREVMNjdTRFFuR3MzMC1oQXVfdUtXeHVmWC1rek40VThLWjJ0bXJ0eHdLTjNDZTBnS2VpZ0dQbDZkbkI2RVVkQm1DdDRTTjhud2hKNHdCTk1jcWM5cDN3Uk5FTlRDMGF0aUJ5ZlphYnVtQW5uY1hyZ1RJRlpySjd3QnZJTXlqZkE4NFAxRk94aWxDUDFuR0RDS3NLM1M5VEtTdTBORFBTeGdDNlR5Zi1mbkRwT1JiSlV5dEFxbTNWTjkySzlscnJDT3ZqNFNZMWwxeDE0OXdCUHltaXNzVmNjU0kyQ3kzUllQTld3STBjSmY1dFJ6SlYxTWRYbkRILThRa1VkY3E4N2MyX0VnVjFBWVlVcGtBanZQT25aTnRuNjlhc2V6V1oxdW9YR3I5ZzdIQklYZ2lCSVpzeUNBZ3ltM24wZTd4TjVTQzg5NWJJMnhiWEEzcnlLaC04OThDRGhYSWN2SlRuWlQ3Q3pSYkhSVlZ4c0txRTd3Y2xjRWpENVY2ZDEwRnRiSGozdk9mT2w0ek9WTEtLQ1NISEF3eHFPVDJQN2MzVS04Y3BVTjh4TnVhNDZWNjdZTjcydEs0ZmptZF9BRjA3RjRvNGY2eE1CV1FZc1NIbWN0RkxqR2gtOTJMZnhDOS0xdjVmMkJlaVg3NEhuZGs4aHJvamttLVU0WFp4UmVkcHVWNl84T245Tl9kMVNvZDlDeDNZUEVzRmlPV1ZlbWFRVUI5ZFdwaGo2SVF0dUM3VTJHUlpscVdqVkFlZUZRQQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-22T20:39:44.000Z",
+     "seen": "2026-11-22T18:45:03.545Z",
+     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة المستجدات والتوافقات المتعلقة بالأمن المائي والمشاريع المرتبطة به."
+    },
+    {
+     "title": "تسارع العمل في المشروع النووي المصري",
+     "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOMkFiMlpPVzY4ZWdGOWUtMVNvNll6c1JMV1dBSS1icjNKNWlhWlItOHJWRm9PSGtfd0lhZkoyWmItVGk3OERSTVg5QU1qSmRnR21MMFNlU2Z4VFh2SUpTXzNadThDY1U0cFQxd1VkNXltVkFKSEVOVFlSTFh0QWRfZ2JHTURoaHdMN2t3ZlRkZ2Z2VlB2OHlCQ1IxVWtiY3lXa3ZhelFXSGZrUHROMkpBWFJvR0ZNTExrdzcyeG5YcnZZV09MUndXb2hnbWdTYlJFbVRNaHR3RmdJQ0JnN2tPRVRWR29vVDRRa2hUNElGS0R1RVk1eDJEZXBheXlIU3JIbmdLOGdiaGZZcVlTbldoanNoSXRNV2FpbEtJdC1wQzZraXR2bTh1MXdybklRRUJPLWxqajYtSnV4d3hkb2hqLWZxcWRrRzh2NC05d2pSU3lEWmRsVWVsV2ZlTWNZZWhaX3o5UGZOMnpPMWw3SGlvX0tsSjRNM2lhclROS01vZkJvX0czUXZvalZTajFhUTVyMDVzM0RrNXRJQVZfRzdydkR1SWVVeGRCMmVxZlduZ1BUTklZUmx6cjNkT3E0eG4yNVRyRGRkNjUxZldxQkZNS3IxVndFdXhpR2MwYm1zX0hLUXM4ZEczLWhObExPdERiT1hZWWpNYXdWckpk?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-22T20:38:42.000Z",
+     "seen": "2026-11-23T00:05:17.445Z"
+    },
+    {
      "title": "شعبة الاتصالات تكشف سبب توقف بعض الهواتف المحمولة وطريقة إعادة تشغيلها",
      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNbFNqUEJLYndxWGVGSFduLTBLMzBWcVBsOVFNV0hsYURHbGRDdGZPaGVDT2czNzZ6dGFxRU1mcDNnRVlRM2hCbUF3UGVjRTJIdm94SlVldkNYLWx6ejBnR2F4MnZjdVRqNVNQUm5XYVY2eG1hVkJJcnBKMklpSHQtYlc3OEJQZnRjcFFFWnFhTFVxQm84dVdaLXk1UUxsMXl5aTB4OG5DOTFCa0M3UVhfLUpya09SQjBOZWI3c2tJU0IwQ05zaS1Wd2ZSaFdDRFlPZC1jQ2lCZUo0b2hOenBlalU1Z29ibVc1UjBjdVRvbjRYN2liV3VPYjJZaW8xTS11a1ZmX0pmZWxJbGJqejhia0JIb3ZGMUpuZTM0UEhoQUROS0wzUVJzUlYzY01DWWxKaGktZVgtN1lRajlvQTZHVnJDSHd1UFVGaDJYek53YU1LSmp1UkFCQUZRdmR2Y1ItdjBBTEM1NTF3Q193TUdRa2xqbVJxeHB5bjI4cmF2LVdWQ3JibklyU3hyZkxWWTBYX2Q4WVMyMVdFVkpON0ZNSjdjZmVycklJVm9UU19SbXFlZVZkUDZ4SmduOTVHYmJfc2xJRlMzVmJwOXJJMTlhbHpFX1BuWVB6YnB0bVdQVWJ2MFkwWHhob19QZ1VKcnM4NXpOaURTcUxYaVRTaEdyWW9hWmdLU1J2Uk10a1JnUzdJMUpHZnJ5dE00VFplZTVocDV4emM4Y2xVQ2dFRWFPY3NtOVktdDZzTy16WlgtUllHbENnVHFWYmExUkQycWtUeERfMENESC04bk9rakFGRU51clN1UdIB6wRBVV95cUxQbnVoU0pLVlpZNDh0eEV4ZUFkdkNYT1RpdEZYcTRfQ0d6YXg4V3lqb2NNRERHMzFJV3BwM2dWT2hMY1c0NjZ4c3FsVi02SXc3MVB3X09IQUthSEdjRTVGV2dZd2hQQjdsXzVKZDNrM2xmR1hZaGF6N191WFZSdkZhTjNwRnZnM3Vhbnp4a2lETXFsOWhQNVUtRV9UNjJIV3UxWDN6WnlMWUFtU1lsNGhnNHN6QkROOEIwcE9Tb2hySWNsdXoweTl5UnM3TWZCOWdvYlh1a3RXY0U4YkJ1cjZqTmNxVGFjMnZrdkcwWHUtSzhkc1REM1RZVkF5MDZiNDA1cVhtSDZRa0tCM3J6NnVnT3RaOERVNTVDTG55RHFYaWViOGRhZmtQeHo2RUZ5bDE0LUgtWVlwVExPU1dMTFpSNXhXa21TbXp5S2xmX1pRckRGaUxJVktVb3VXTDhEeW41cnBCQkVnTGd0aHNZenNhWWdYV3BfVXhGUUxTX0FrVGEtSnFuZlg4bVU5SG10RjloaVJYLUwzQWxXbzFaNmMxTlZqeTJxM0FLSl9zNHQ4TGU0VkczaU5MOWZ3OFdJNk1CY0xYVVRRaUdKYzhDQ3FKOUxZRUFwdEZZd2VKdVMzeThBaHFNMU5qV2JyVWF6cHlPNlZzMV9EVFZJcjhmdzlsMjlzd3ZCYXJUUVg4RjROTUpfRnAtc2FjaDNYM2VWRmhzX3htOUtZMTFWZ2psQTJLNGJtQ3lDZWpqRFdZMGtlNXp0Vk9DR204ZkRwT25oRlktYzhISlBjbVFHMWtybjN6YWE2enhsdUREc2VB?oc=5",
      "source": "Masrawy",
      "time": "2026-11-22T20:17:46.000Z",
      "seen": "2026-11-22T20:55:17.858Z",
      "impact": "يساعد حائزي الهواتف المحمولة في مصر على التغلب على الأعطال المفاجئة لأجهزتهم واستعادة تشغيلها."
-    },
-    {
-     "title": "«اجتماع ثلاثي» بأسوان يُجدد رفض الإجراءات الأحادية في قضايا الأمن المائي",
-     "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNTWgtYVBKaC10aUJuUFg2OVFZNmFEbXNPdjY3VTI5UzFmV2ZuRFhxWGNiOGEzWEw5Mm1hN0tjVDhENmxXbE9JOHc4eGhELUNrYWNCODdEbEhZNnpHaElsWUUzdC1uWkQzQmdCWlZmd1AxbldweUhuZFJPT0dSREVMNjdTRFFuR3MzMC1oQXVfdUtXeHVmWC1rek40VThLWjJ0bXJ0eHdLTjNDZTBnS2VpZ0dQbDZkbkI2RVVkQm1DdDRTTjhud2hKNHdCTk1jcWM5cDN3Uk5FTlRDMGF0aUJ5ZlphYnVtQW5uY1hyZ1RJRlpySjd3QnZJTXlqZkE4NFAxRk94aWxDUDFuR0RDS3NLM1M5VEtTdTBORFBTeGdDNlR5Zi1mbkRwT1JiSlV5dEFxbTNWTjkySzlscnJDT3ZqNFNZMWwxeDE0OXdCUHltaXNzVmNjU0kyQ3kzUllQTld3STBjSmY1dFJ6SlYxTWRYbkRILThRa1VkY3E4N2MyX0VnVjFBWVlVcGtBanZQT25aTnRuNjlhc2V6V1oxdW9YR3I5ZzdIQklYZ2lCSVpzeUNBZ3ltM24wZTd4TjVTQzg5NWJJMnhiWEEzcnlLaC04OThDRGhYSWN2SlRuWlQ3Q3pSYkhSVlZ4c0txRTd3Y2xjRWpENVY2ZDEwRnRiSGozdk9mT2w0ek9WTEtLQ1NISEF3eHFPVDJQN2MzVS04Y3BVTjh4TnVhNDZWNjdZTjcydEs0ZmptZF9BRjA3RjRvNGY2eE1CV1FZc1NIbWN0RkxqR2gtOTJMZnhDOS0xdjVmMkJlaVg3NEhuZGs4aHJvamttLVU0WFp4UmVkcHVWNl84T245Tl9kMVNvZDlDeDNZUEVzRmlPV1ZlbWFRVUI5ZFdwaGo2SVF0dUM3VTJHUlpscVdqVkFlZUZRQQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-22T20:13:30.000Z",
-     "seen": "2026-11-22T18:45:03.545Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة المستجدات والتوافقات المتعلقة بالأمن المائي والمشاريع المرتبطة به."
     },
     {
      "title": "من سيفاستوبول إلى بنغازي.. المسيرات تلاحق السفن الروسية",
@@ -558,13 +566,6 @@
      "time": "2026-11-22T16:46:17.000Z",
      "seen": "2026-11-22T18:05:04.012Z",
      "impact": "سعي أمازون للاستحواذ على شركة ذكاء اصطناعي يعطي انطباعاً للمستثمرين عن اتجاهات النمو والاستثمار في قطاع التكنولوجيا العالمية."
-    },
-    {
-     "title": "مسيرات تستهدف منازل ومبنى للأمم المتحدة في الخرطوم",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQa0VuZDFFeTJPSllqQlU4dHZjOXU0WnlIdVluTmJoX1VEN3REWnVQUENUeDVrYVQ2ZlptZ0xVc3lJMkxEU3B4bzMxSFBaNjI0Y1owUTY4RG1ZT3Z3aEdabjFoazdFa1pZd2Y0WmpaRTRwRTZzMUNNbnhXYlJBellraEZoVVB4bWpPUUFjNW1hSHE5dGhjZndHTHFhUFBkLW9zVlVjZjdhTGxyRFpZWEw3WEhlNk5DdXdnUmhKY0planNCcS1lWmRCNFI3eWwwdFJmSThPX052WXJVSkNyd3BWZUlnQS12dDliTkZPOXp2RDgxN3ppSVBIVXZNR2xxYXV2Z3ZvSXFLTVB0bjM4bnlqOHNUY3pkOHkzaHlVRXhFcUNtYUZMbVZhZDczX21jOTByeDl5SmlZMmF0OERVOHMwMjJzZ0JWdXhJdEp1Mzk1NE12azVmb3VTazZJVTY5WktyaWxtVzdMN0JWaHNaOWZyRUhVblkzUFgybGZtcUhZNkxQSVFEaUpJUnpPNGJ4OFEyWEVLMnJWa2RxMDVFOFZQR0hGUHVYeFZ6dVNxcEVvdjJzdkhtaTlKTEwySUNqNnU0NnlENGZickQzUm9M0gHSA0FVX3lxTE5pX0I4eG01Y2RlaTFYdmwtWTdBTy1ZSUlobFpOM2NVNDZ3STBmNkc2Umo1ckxOa1h5VThMdHlIZm5udVZIWl9xYXl2Q3BycEhzT0ptOXMtU2h6NEd3eWVfNEp6ZWRHUWgzUVB3TGIyN3dPb0tRY1NWWHFucXJ3alRqaVNUd1U3N0VYbnpUaHhybWIxcDI1ZFlMN3pFMUFLWE5GcVJDc080dWRPWDB6SmgtLURWNXlpT3Azd2RnYmpCZDZKU1Z6LXZQOVBzcnY4eTU2TmtyelNwRFRJRVcwdWcxMHZsUjE0Wms0NnhDczEzOW1OUExwbmpGVEJpTW9wejVrWk11a2ZFZEdpdExPOXpOT3ZSZjRMRC01WkFXalh1a29FcDdoMGFPSXNtaS1rRGxZZ19rMDA5QjVhUWRadldKRGRtcXg1MzR4TUllNVByWFNGTlVBcS1ueWJNc0hYakhsLXdHc0dmd05UeGVDb3lOZzNSYkRoV1N5dlE2WHpkSXRxbDVGZnRsNlF0eWRUR1V0am1mQXl5ZVFYLVk2T3FCd2VkYjV6NFJNZHR0ZzE5bHRmdE1qWUx2RkJSVE40UUg3My1HT3ZiemI5RnVOY3ItZXc?oc=5",
-     "source": "العربية",
-     "time": "2026-11-22T16:38:40.000Z",
-     "seen": "2026-11-22T23:55:17.709Z"
     }
    ]
   }
