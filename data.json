@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:45:58.989Z",
+ "updated": "2026-11-23T01:55:58.983Z",
  "minute": [
   "تداولت الأخبار استقرار أسعار صرف الدولار مقابل الجنيه المصري في البنوك المحلية.",
   "إقليمياً، شهدت ليبيا توقف تدفق النفط من ميناء الشرارة واستهداف سفن، إلى جانب تقارير عن هجوم وتوترات في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-23T01:45:58.989Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T01:55:58.983Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 54.37,
    "change": 1.08,
-   "asOf": "2026-11-23T01:40:36.000Z",
+   "asOf": "2026-11-23T01:51:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5518,
-   "change": 3.73,
-   "asOf": "2026-11-23T01:36:12.000Z",
+   "value": 5520,
+   "change": 3.78,
+   "asOf": "2026-11-23T01:46:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6300,
-   "change": 3.73,
-   "asOf": "2026-11-23T01:36:12.000Z",
+   "value": 6303,
+   "change": 3.78,
+   "asOf": "2026-11-23T01:46:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3608,
-   "change": 2.62,
-   "asOf": "2026-11-23T01:36:12.000Z",
+   "value": 3609,
+   "change": 2.67,
+   "asOf": "2026-11-23T01:46:01.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0985,
-   "change": 0.14,
-   "asOf": "2026-11-23T01:45:46.000Z",
+   "value": 1.0988,
+   "change": 0.17,
+   "asOf": "2026-11-23T01:55:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -74,7 +74,7 @@
    "unit": "$/برميل",
    "value": 89.61,
    "change": -3.2,
-   "asOf": "2026-11-23T01:35:14.000Z",
+   "asOf": "2026-11-23T01:45:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60853,
-   "change": 1.26,
-   "asOf": "2026-11-23T01:46:07.000Z",
+   "value": 60760,
+   "change": 1.11,
+   "asOf": "2026-11-23T01:55:59.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "منة شلبي: ثقة الجمهور كرم كبير من ربنا.. وشخصيتي في عنبر الموت تركت أثرا نفسيا بداخلي",
+     "url": "https://www.elbalad.news/7190915",
+     "source": "صدى البلد",
+     "time": "2026-11-23T01:47:19.000Z",
+     "seen": "2026-11-23T01:55:58.983Z"
+    },
+    {
      "title": "تجاهلتم تحذيراتي بشأن إيران والديمقراطيين.. ترامب يهاجم الأمريكيين بعد خسارة الجمهوريين",
      "url": "https://www.elbalad.news/7190914",
      "source": "صدى البلد",
@@ -150,13 +157,6 @@
      "url": "https://www.elbalad.news/7190878",
      "source": "صدى البلد",
      "time": "2026-11-23T01:45:00.000Z",
-     "seen": "2026-11-23T01:45:58.989Z"
-    },
-    {
-     "title": "شارع منضبط حركة أسهل وحق المواطن أولًا.. رئيسة عرب بورسعيد تحارب الاشغالات ليلا",
-     "url": "https://www.elbalad.news/7190913",
-     "source": "صدى البلد",
-     "time": "2026-11-23T01:38:04.000Z",
      "seen": "2026-11-23T01:45:58.989Z"
     },
     {
@@ -385,6 +385,13 @@
      "seen": "2026-11-23T00:05:17.445Z"
     },
     {
+     "title": "عطل فني يضرب أنظمة الملاحة الأميركية.. تأجيل مئات الرحلات",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQcEg5OERENVAyVlhrUlZNQUFpUTdUNVBadk9zam9Tdkp0Ml9EMnhLOVB2S3MzTDdKMlFmOFE0amJkYmJ6cEQ0T3RoTE5takRELWU4dHNqTGVXd1c2eXIxUUgtLUhUaURIQ29kdHZjUExHdklqU3djX2JEaTlpcEZ1VkNhdWlHN182cW8tTlFuUk45RXhuSVNDRWEzeTRzbmplMWpENjh0alloRlAxTWI4OUtIb3NrbTdJa0g2U1ZnR2JPT0VDUkJsY0NsQks2MVlKQmg5REZHamd2YXhiMDZ1T2hoQjM2RUtyR0daaXl6U2tScjdGamZhbFdza3UxTDZyT1VfSk45eWNwWEdrX2Q1N1J0MVUzd2dpTGVWbVBLY1hyQTNOUVJYQ0c4WXFpQUlVOXVXdzF5eEh5MXpWM3hYMzYyZkpHNlYyNExtd1VfRnB6b1M1dnZ5SDNwT0s3ZEJlN2szaURQbmhFWmd5Tjd2MVZreHQ3cWpfN1IxaGpHZkdlZjlJenVBdW1IbnNWZE1HNXB1RmZ1RHFGRVlJZl9CTFhvNEg5ZHYtNVgzRmxuVHRONnRhVWpfNDAzLU9TR2k3dkJjZnpBdGtyVlk0RklvNElKcHI3cDdObmfSAd8DQVVfeXFMTmRvaVdsLWstTl9USUhLMzJUMldOS1VfRmlmanVOWFJsTFhfLTU0Rk1ldFBFRDdwT2tJeEoxaFdPT1ppMXZmRjNRRDVDTlVhNFBoU3lHMkpfOXhfWHJIbFNDc3F3RnlwalBCZVphb2NfVXFJMmsxOHZPbmJZcFJVYS1HSmFOSk1HTlJxNEVHck90WHFoaDVmeHJtbWV0Z1J0QkI5U3hQellUTFhYSFRSTE5XQ29KZFdmTWNkV29xZmpIOXhEWnQ0SWhnOU1wemJ0NExkQURmYjJKNnhiaGVpemlFWlBDOTF6UkpKNDE2dU9RQ2ZDb2lLb1FvVnZkUXZURF9RS0llN18wbEFobXdLbXVfZ2FaQUY4WFFUVFlWZE5KVkQycmtacTdzeEdwVHVmd1lLYzN5dnF3b1hTM09reV9VRXFMcGNpeHVzTVlKVlgzYzhzLVVvT3dGMzNxNWhheXZtZ0YzQTNDYXJCY19oQ25EY19tYUp4TGFmVU5uUGptRDNhc0p4S2VjU0xKUGNsSktCOE9LODFSUzFnWEFSRC1tUDJVNGI3cTh6aTBTd3BGTzA3TUtkZW1xanl6NXVlZ1AycEZENXg0NWtxOTdJMTR0dFQ2N3JMSnFTbmtRNUk?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T22:56:07.000Z",
+     "seen": "2026-11-23T01:55:58.983Z"
+    },
+    {
      "title": "\"لسنا طرفاً بنزاع روسيا وأكرانيا\".. مجلس النواب الليبي يعلق بعد استهداف سفينة في بنغازي",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/libyan-house-of-representatives-comments-russian-ship-attack-benghazi",
      "source": "CNN بالعربية",
@@ -392,18 +399,18 @@
      "seen": "2026-11-22T23:05:17.614Z"
     },
     {
-     "title": "ترامب: توقعت انهيار الأسواق وتصاعد هجمات إيران",
-     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNYWQ5N2x4ajF4dDVQT25ZN0JDb0JWd0ZMZ001cDNLOXlNcVUwcUE1ZGlWdTJzN2ViZlV1ZXdaTnRuVU5HZ2ltWnZ0RU9XSGN1VHpOQngyQTZKWFNnS1I3YWM2ZGVVbmQyb2NYN3BJUXlyQm1SZURVelZlb3JmOE1MdVc2eE5vZnhqRm9KYUZuYzkzbVVFcHFlZkJURmpYRGM2aTJJdGFEU3ZDbFVzR1E2T0MzOTdLZ2o4VnVOZHl4WnJnTTVTbUNfanJWTm03eEVoVFlTc1k4aFg1d05xUDFqYV9ERUpJNW90X2VmZWJoNWdKSk9hVVdpRnRHT3hjeGFvWmZ1OEk3T2ZzWVlfMkk2ZEh2cWlzNnVwYVVnelR6c19aa1JvSTdLcV9XWkNLaklqbWlpcWZMY3JKd241X0YxT1diTFNGZ3p4YXc3eEROa2VlQ2NqREh5bE1zMVVrcXZocGoyWko2MkhYZS1HMXhYeEFfQ2pobVJxcXlIY29oNHg2cHQtRDNwcG4tbmt0VE90Q2VwczQwNNIBnANBVV95cUxPZlpiVG1LM2l5X1JTemNXd2NsM21ZRG1QNVdibllBYTFJNWVOU2hyV1ZleXpaVjJGZV9VWThkQk02QnFPbGM5VlhRWTMtXzUtMnZnazh4OVdSdmIwUktxa1hCWlhzb2cwWTFWbWtIMzBuMWRadXA2QnZuX29Ed0FlaGRzOEhSX1JWY0VkOFJOQUQ4UEJ0RGo3N1g2V1I0MFdiUzZXMi1SNFBrbHA1VzZkOTdqT0trclJLdlBQbmlPS1E2T3V4cjJMVERULUhEMUJhMm1KbkN1SmdfUzBhb0txMFY1SHk4cjBYUmx4TEtPSFZiTG5SbWhmM0lXUmNvVkJVMU1mRmhDSEhkanU0elN1d2JqNTVISXRVVVRMdWJ0UWZmT0lMVHlkNGxYdl9NWWVuVDE0UmdISFh1STVOLXFlYldpdDhRQzVwVEVUanY3NGtfVnVaM1Zzck5qM01IUER5cXhGZFE1SFJHeUlITjNuODVxOGhpSlFSNEtxRXpJLWpmdUpiRXlZcUFHWmZpU0Y1YmloeUhocjVlT0tw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T22:51:12.000Z",
-     "seen": "2026-11-23T01:25:58.898Z"
-    },
-    {
      "title": "\"لنبدأ العمل\".. عبد الرحمن السيد يعلق بعد منشور من ترامب",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekZjTDJsMXV5ejNkVmJWUlhfTUtrZEZwRHpiZGp1bWl6SlNici1ZejdxTWxzUUdzY0tJNnBDMGZVT19ETDJMcG9IcXJIaHhlQ0lwMGhGeWFncjB5VEZJVjdCLUtwLXFIUnlPYzg4WG1xZ3FsTzczcDVPV0tYUWdaODhQR2h4S010aXNkNzZfTGVtN1hNX2hkRWcwRnlacnB2ZGZtaHJKTVRWXy01bDdCbjh4NGx3X3I5cnZrZ3N3?oc=5",
      "source": "CNN Arabic",
      "time": "2026-11-22T22:41:01.000Z",
      "seen": "2026-11-22T23:55:17.709Z"
+    },
+    {
+     "title": "ترامب: توقعت انهيار الأسواق وتصاعد هجمات إيران",
+     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNYWQ5N2x4ajF4dDVQT25ZN0JDb0JWd0ZMZ001cDNLOXlNcVUwcUE1ZGlWdTJzN2ViZlV1ZXdaTnRuVU5HZ2ltWnZ0RU9XSGN1VHpOQngyQTZKWFNnS1I3YWM2ZGVVbmQyb2NYN3BJUXlyQm1SZURVelZlb3JmOE1MdVc2eE5vZnhqRm9KYUZuYzkzbVVFcHFlZkJURmpYRGM2aTJJdGFEU3ZDbFVzR1E2T0MzOTdLZ2o4VnVOZHl4WnJnTTVTbUNfanJWTm03eEVoVFlTc1k4aFg1d05xUDFqYV9ERUpJNW90X2VmZWJoNWdKSk9hVVdpRnRHT3hjeGFvWmZ1OEk3T2ZzWVlfMkk2ZEh2cWlzNnVwYVVnelR6c19aa1JvSTdLcV9XWkNLaklqbWlpcWZMY3JKd241X0YxT1diTFNGZ3p4YXc3eEROa2VlQ2NqREh5bE1zMVVrcXZocGoyWko2MkhYZS1HMXhYeEFfQ2pobVJxcXlIY29oNHg2cHQtRDNwcG4tbmt0VE90Q2VwczQwNNIBnANBVV95cUxPZlpiVG1LM2l5X1JTemNXd2NsM21ZRG1QNVdibllBYTFJNWVOU2hyV1ZleXpaVjJGZV9VWThkQk02QnFPbGM5VlhRWTMtXzUtMnZnazh4OVdSdmIwUktxa1hCWlhzb2cwWTFWbWtIMzBuMWRadXA2QnZuX29Ed0FlaGRzOEhSX1JWY0VkOFJOQUQ4UEJ0RGo3N1g2V1I0MFdiUzZXMi1SNFBrbHA1VzZkOTdqT0trclJLdlBQbmlPS1E2T3V4cjJMVERULUhEMUJhMm1KbkN1SmdfUzBhb0txMFY1SHk4cjBYUmx4TEtPSFZiTG5SbWhmM0lXUmNvVkJVMU1mRmhDSEhkanU0elN1d2JqNTVISXRVVVRMdWJ0UWZmT0lMVHlkNGxYdl9NWWVuVDE0UmdISFh1STVOLXFlYldpdDhRQzVwVEVUanY3NGtfVnVaM1Zzck5qM01IUER5cXhGZFE1SFJHeUlITjNuODVxOGhpSlFSNEtxRXpJLWpmdUpiRXlZcUFHWmZpU0Y1YmloeUhocjVlT0tw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T22:38:56.000Z",
+     "seen": "2026-11-23T01:25:58.898Z"
     },
     {
      "title": "هل نجح شي في فك شيفرة ترمب؟",
@@ -418,13 +425,6 @@
      "source": "الجزيرة",
      "time": "2026-11-22T22:13:18.000Z",
      "seen": "2026-11-23T01:25:58.898Z"
-    },
-    {
-     "title": "مجلس النواب الليبي.. رفض لـ\"تصفية الحسابات\" وانتهاك السيادة",
-     "url": "https://www.skynewsarabia.com/middle-east/1906379-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D8%B1%D9%81%D8%B6-%D9%84-%D8%AA%D8%B5%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T22:12:32.000Z",
-     "seen": "2026-11-22T22:25:17.213Z"
     },
     {
      "title": "الجزائر تكافح 21 حريقا في عدة ولايات وسط استمرار الأجواء الدافئة",
