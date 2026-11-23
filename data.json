@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:36:13.454Z",
+ "updated": "2026-11-23T09:46:13.585Z",
  "minute": [
   "شهدت الأسواق المالية في مصر تراجعاً في سعر صرف الدولار وارتفاعاً لسعر اليورو، بالتزامن مع قرارات لرفع رأس مال البنك الأهلي وإصدار وثائق جديدة بالبورصة.",
   "تضمنت التطورات المحلية تحديد ضوابط امتحانات النقل والمواد الأعلى درجات للإعدادية، وتصريحات حكومية بشأن الحماية الاجتماعية، وتحذيراً صحياً للمواطنين.",
@@ -9,70 +9,72 @@
   "at": "2026-11-23T09:26:13.517Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T09:46:13.585Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.22,
-   "change": 0.8,
-   "asOf": "2026-11-23T09:34:19.000Z",
+   "value": 54.26,
+   "change": 0.88,
+   "asOf": "2026-11-23T09:47:28.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5520,
-   "change": 3.76,
-   "asOf": "2026-11-23T09:26:07.000Z",
+   "value": 5516,
+   "change": 3.7,
+   "asOf": "2026-11-23T09:37:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6302,
-   "change": 3.76,
-   "asOf": "2026-11-23T09:26:07.000Z",
+   "value": 6298,
+   "change": 3.7,
+   "asOf": "2026-11-23T09:37:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3619,
-   "change": 2.94,
-   "asOf": "2026-11-23T09:26:07.000Z",
+   "value": 3614,
+   "change": 2.8,
+   "asOf": "2026-11-23T09:37:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50687,
-   "change": 1.4,
-   "asOf": "2026-11-23T09:21:13.000Z",
+   "value": 50656,
+   "change": 1.33,
+   "asOf": "2026-11-23T09:32:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0983,
-   "change": 0.12,
-   "asOf": "2026-11-23T09:35:46.000Z",
+   "value": 1.0984,
+   "change": 0.13,
+   "asOf": "2026-11-23T09:46:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.11,
-   "change": -3.74,
-   "asOf": "2026-11-23T09:25:54.000Z",
+   "value": 89.39,
+   "change": -3.44,
+   "asOf": "2026-11-23T09:37:12.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61488,
-   "change": 0.53,
-   "asOf": "2026-11-23T09:36:08.000Z",
+   "value": 61410,
+   "change": 0.41,
+   "asOf": "2026-11-23T09:47:35.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,67 @@
    "title": "مصر",
    "items": [
     {
-     "title": "مدبولي: نؤمن بأن الحماية الاجتماعية ليست منحة بل مسئولية أصيلة للدولة تستند إلى الدستور والقانون",
-     "url": "https://www.elbalad.news/7191160",
+     "title": "باهر النويهى ينضم إلى أبطال «تمكين» في دراما رمضان 2027",
+     "url": "https://www.elbalad.news/7191170",
      "source": "صدى البلد",
-     "time": "2026-11-23T09:36:07.000Z",
-     "seen": "2026-11-23T09:36:13.454Z"
+     "time": "2026-11-23T09:45:37.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
     },
     {
-     "title": "بدء الجلسة العامة للشيوخ لمناقشة دراسة أبو هشيمة حول توظيف الذكاء الاصطناعي في إدارة الاقتصاد",
-     "url": "https://www.elbalad.news/7191155",
+     "title": "حسام المندوه الحسيني يواجه الحكومة: هل زيادات أعضاء هيئة التدريس حقيقية أم إعادة احتساب ومن يمولها؟",
+     "url": "https://www.elbalad.news/7191171",
      "source": "صدى البلد",
-     "time": "2026-11-23T09:35:39.000Z",
-     "seen": "2026-11-23T09:36:13.454Z"
+     "time": "2026-11-23T09:45:25.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
     },
     {
-     "title": "البرلمان العربي: أمن الموانئ مسؤولية سيادية لا يجوز المساس بها",
-     "url": "https://www.elbalad.news/7191154",
+     "title": "محافظ أسيوط: تعليق إخطارات تحذيرية على العقارات المخالفة بمنقباد",
+     "url": "https://www.elbalad.news/7191151",
      "source": "صدى البلد",
-     "time": "2026-11-23T09:35:01.000Z",
-     "seen": "2026-11-23T09:36:13.454Z"
+     "time": "2026-11-23T09:44:56.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
+     "title": "التأمينات الاجتماعية تواصل صرف معاشات شهر نوفمبر 2026.. تفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/23/التأمينات-الاجتماعية-تواصل-صرف-معاشات-شهر-نوفمبر-2026-تفاصيل/7629152",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T09:44:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
+     "title": "مجلس الوزراء: المثلث الذهبى بوابة استثمارية ولوجستية واعدة تعزز فرص التنمية",
+     "url": "https://www.youm7.com/story/2026/11/23/مجلس-الوزراء-المثلث-الذهبى-بوابة-استثمارية-ولوجستية-واعدة-تعزز-فرص/7629168",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T09:43:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
+     "title": "عمدة نيويورك يفرج عن 84 ألف وثيقة سرية تتعلق بهجمات 11 سبتمبر.. ماذا تضمنت؟",
+     "url": "https://www.youm7.com/story/2026/11/23/عمدة-نيويورك-يفرج-عن-84-ألف-وثيقة-سرية-تتعلق-بهجمات/7629144",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T09:38:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
+     "title": "مدبولي: نستهدف كسر انتقال الفقر بين الأجيال والاستثمار في الإنسان",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WcGE5M2VzeF9rU0g4XzcxMVJvbkdtV1lRUlBqdFExdVFSN0UwT2ZrR0RhaWJkU3cxNGVtLTRtRWdKRnIwYVhV?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-23T09:35:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
+     "title": "رئيس الوزراء: نؤمن بأن الحماية الاجتماعية ليست منحة بل مسؤولية أصيلة للدولة تستند إلى الدستور والقانون",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tUHZScHZnYVZwTzF5UUVJdGVSQmVLY1F1NWlDUHd4Rm5pWE5ENzFZc1B1bmJpYWJyM0tDSllLOG45OGhtS2hwXzhuRTZrZWVOSVlERTBRdGFXRXBGZDRn?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T09:32:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
+     "title": "مدبولي: الحماية الاجتماعية استثمار في الإنسان وليست مجرد دعم مؤقت",
+     "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxObG0tdC1WNkI3ZDI4cG5vN1I2MjhQRUhuaDZZemhDOG01dFhsRjk0R0ZHZHdFYnR6ZWxGVGVHOHVHeU82VUV2bldLUHdzX0lOdU01bVRSRmlKa1A1WElCdV9VN0NCbmppUTlxbTBIUTh3TkRkTHFoM1FVTmRYVS1ZcnpNYmtMREdybWdmRnpOcmZuRXQ0a0ZqMWtINV9xd28wb0NhQmdKYS1zTEx5eUZ2NUlHWXN1bzlOQWdMOFg3eElUODVsbUNfZnhnZUZWQTN0Qm5Val9QVmdSNHpqbzVkVUxmV00wT19tQVhKMlptWHh4RlZQcnZ6MTB6Z2ctT3VEZG43OWVYOXlUN05uNElvRi1HUWI2ZGg1ZXFGX3V4NmdnLXVFNzJab05kWnNJcHg3QW5faF9yUXA0OTFoSlFnNDNndkVuYmlnY3FkOHBBTjJKZHlHcEpwNmE4cFdYd2tic0pvZ2Zta0xUWm00ZEIxM295UGNrQTZaRFdhRXl0emFSSWdjYThTVFJhLVE2dFZ6cE9uT2Q1c0FRbzh4QTZTNmEyRDZzZnlTWTRkR2R6YTdpbzg5Z1hmQ3NDSjcxeFVUUzFsb3BuR001N0FKRnhkQmRoYl9EdWc2WkxZeHA1NWNsWjU2dXlBLTVfcWFWOFB6bVN5SEplYmVGT2xTNjVibnVaclp0VkRWcW8xeVVRYW5uVjlkLW1zdklTTm5wdlBTdUhXUFh6V1I1UmI5VkhzVEE0VFFkeEkxV1HSAb8EQVVfeXFMT2RUODlhSm4waUdZTGlHLVZzZkxkLTlpUDM3VHFCY1ppd2NMRTFFV3ozaDdFYVA1eEdfUkNMQTJodkRYejFIS0ZiQ0FlVkphcFZfRDFoUktrM2x6ZnR5TENDWWVSMkhqcU5mRko1NkNMcGV1Tnc3d1A1VEJoMFRhRjR5dHlra3o2QVc1WVBkQklWMGRXSzVjazJEMFZLcmtnQVNjb1J1WExjWkdSbHRGVHpfdzZFWDZqckhTWDRvU0k4WmpDRUtMdzlkNHlNSk5ObWQzNlpGdzZ5NmJYRlNxRU5nMmIyMnZqVzlLcVlTUW1xRDVFRW1POENib2YtOXNGMF9SWkpBSWlsbjZxajBhb2VzOGtSRU9pNm8teEhDQXNrNVJqRTdRYlQyRHBNSFd1S2UydHU5blZuQmwzcUppbHBodG9XeDZSbGJmU0czS2NidXpSQVhEZWs4V19McFZLakJNbnEySFdtMFBMalNOZHA3a29IcmFLNjZnVkpfTV9rOVc4QlAxQW13bngwU25RSkFkUlk2YlJVY1F2MXVlQmFZcDhTbDYyaUNiOW1ZclBvUDVaQ0pseWsycF9QRG1QREc4blBKejdCU1AzLUYzMVd3VGE1MXFyMGVma0E5OFZOMUVzT3BQNXVfRXNvRFpXSnRXTm9NVDRsQndPS1Yyd3ZtVWZsZy0yRGFqOEVlNUIxdkprMUg0QkVjSTU4NEJ2Q09GSHB2MzduZmJCMG90ZV85cHFpNzQ5bTdTQnNSUTQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-23T09:31:36.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
     },
     {
      "title": "مدبولي: التجربة المصرية في الحماية الاجتماعية أصبحت جزءاً من الحوار الدولي",
@@ -172,27 +216,12 @@
      "seen": "2026-11-23T09:36:13.454Z"
     },
     {
-     "title": "مواصفة امتحان الترم الأول لصفوف النقل.. وضع الأسئلة من كتاب المدرسة أبرزها",
-     "url": "https://www.youm7.com/story/2026/11/23/مواصفة-امتحان-الترم-الأول-لصفوف-النقل-وضع-الأسئلة-من-كتاب/7629122",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T09:22:00.000Z",
-     "seen": "2026-11-23T09:26:13.517Z",
-     "impact": "يساعد الطلاب في مصر على معرفة ضوابط امتحانات الترم الأول والتحضير لها من كتاب المدرسة."
-    },
-    {
      "title": "مدبولي: الحماية الاجتماعية استثمار في الإنسان وليست عبئا على الموازنة",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDdUdFEwdkc5UTFoR1RvOXB4c1RsYXBJWHRXNkhlZC1mUVJDYWJKQnJDaU5PUk9uUEwzcXJlMmlkUEtURDVfN0dlU291Y1RBTlR2SEdXZGFVMy1zaTFSWjh2UnVDZ2g2RURReFpxUWZLSWFfdV9uWTFSdFdQM1hReWhzN3hFSjJ2T3JnNkFobDNSSlZaX21sTWV1anQ1NEpvSWNLWVlGRQ?oc=5",
      "source": "بوابة الشروق",
      "time": "2026-11-23T09:19:56.000Z",
      "seen": "2026-11-23T09:26:13.517Z",
      "impact": "يعكس اتجاه الدولة للاستمرار في دعم برامج الحماية الاجتماعية مما يهم الفئات الأكثر احتياجاً."
-    },
-    {
-     "title": "مركز المناخ يحذر: الشتاء الدافئ يهدد ساعات البرودة اللازمة لهذه المحاصيل",
-     "url": "https://www.youm7.com/story/2026/11/23/مركز-المناخ-يحذر-الشتاء-الدافئ-يهدد-ساعات-البرودة-اللازمة-لهذه/7627867",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T09:19:00.000Z",
-     "seen": "2026-11-23T09:26:13.517Z"
     },
     {
      "title": "مايا مرسي: اختيار «تكافل وكرامة» ضمن أفضل ممارسات الحد من الفقر عالميا",
@@ -207,34 +236,6 @@
      "source": "الوطن",
      "time": "2026-11-23T09:18:13.000Z",
      "seen": "2026-11-23T09:36:13.454Z"
-    },
-    {
-     "title": "وزيرة التضامن: ما نشهده اليوم ليس محطةً عابرة بل هو حصاد للإرادة السياسية",
-     "url": "https://www.youm7.com/story/2026/11/23/وزيرة-التضامن-ما-نشهده-اليوم-ليس-محطةً-عابرة-بل-هو/7629110",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T09:18:00.000Z",
-     "seen": "2026-11-23T09:26:13.517Z"
-    },
-    {
-     "title": "مدبولي: الحماية الاجتماعية مسؤولية أصيلة للدولة وليست منحة مؤقتة",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPa1VtTWR6SWJ0elBBSGl3OXQxZl9EV2MwMi1GSF9iZHk0RVpoUmhpLWVSRjF5WGVVdFFhRUZiNTFOY0NUT0JkRmJ4bzBlZi1PVnFGMVZEYjNxRFowUXAtS3BVSlVvNk5faV9HRGJGU3JMdmJwamV3RHhnd3FOTF9CNjRTRHJtOUVpenhhNHJxQjRsUEY5RjJqQzdKRWFEMmNtOVYtRlg4NXB3dVhVaHgzRHFPenNZa2ZqeWVNY1ZkWmNPc2RPRTF5bHc1Y1YwZWpGalVRYTc1bFVaenpLRWxxTjR0UWhBSnFkOHI1Sll5eTE3QVJaUnowdUhSS3UtcHI1a0JTcVZObGRQcjlVLXVrRE40WEIwOVdIaF9JVTBENFZ5MF85NDdsWlJ1aDFZc1EzQ0NkT1dvZFh4WlRlS2pvS3lPSHNqNHVZb0VudzhaNUt5RUNTNTJtUTdRdW8wRDdPYWZYSVFKUHNLaEJBc01fX1pxVTA0bm80dHpGVmZB?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-23T09:17:13.000Z",
-     "seen": "2026-11-23T09:26:13.517Z"
-    },
-    {
-     "title": "مدبولي: مصر شهدت تحولات واسعة في مسارات التنمية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9GQU1HQjVzUHllOE5aUHpMSHhuOUsyMDRXQTlJVERkT1pfeGItLVV0dDI2MklCRTJYdXV6bVFfWmVMdkpU?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-23T09:17:09.000Z",
-     "seen": "2026-11-23T09:26:13.517Z"
-    },
-    {
-     "title": "مدبولي: مستقبل الحماية الاجتماعية يرتبط بتطوير التمويل وتعزيز الشراكات الدولية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aQjV1SnZoZWthQjZOV1NWamozbXE3M2N3Ykg3TUJGajYySHlSZTh1a1BZT3FDZDBDMG5wdl9rV3h0N0hD?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-23T09:16:47.000Z",
-     "seen": "2026-11-23T09:26:13.517Z"
     }
    ]
   },
@@ -242,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم الإثنين 23-11-2026 مقابل الجنيه المصري في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNYlRmNDVTWlVENm0yV1ZBaG1CM1JEMm5OamtyQ0JrNDZiYU5CVjljaU50X01IX1JqbTZLY29ydFdFaDZjXzhiYVNYZmVmY3dybEFWQ25tcllHaElGZmgw?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T09:43:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
     {
      "title": "الجريدة الرسمية: «المركزي» يقرر تعديل النظام الأساسي للبنك الأهلي ورفع رأس المال المرخص به لـ600 مليار جنيه",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51MjlTWWZWcXJZeXJoQk5yMEU3Z0VnZWI4Q3hFbDhLenJLQjA4MHZpcVhuNkFYRy1qal9NcnZfX2ZpQXV4clE?oc=5",
@@ -289,6 +297,13 @@
      "impact": "يزيد من تكلفة التعاملات والسفر والاستيراد المسعر بالعملة الأوروبية في مصر."
     },
     {
+     "title": "سعر الدولار في مصر يعود للتراجع",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONnNMaU1TcjQyNVNjSDFhXzhBRHp2MkZPWjdZYzQ5V3k3cDdNb05ST0ItZVdfM3VmV2dpT29INVhKWG5RZEctUVRUUkZVd1BUVXhrQ3lFNnBYU3RCUVpKQXB4Q3hCcTV5YWJwcTc2UVQ5eG5LdDhXNHhjTmVVWEk2WVZ6TERIcW1kcjBtRDhveEtlZXhmeDl6YmJXQlhkM1l2UHY5V2dLZnE0Vi1OV1dzdTdJUnlfUk9GeHpGZUpKa3A0bEx3Z3llUklzYnNQWTJ6ek9RM2FKU2UxcXNvZnVpUkg3RndkR1FJN095OGVWOG5aanJTUHR2R0M3eFpSWDhJVTdpVkdPRHczZ0ZSa01NWnBQTkg0UXVwcTdad1FKdU0zWG1jUFdyV3pIUXhldWRFMllCZ0NLZWZaeFhGeW9V0gHEAkFVX3lxTE5Pa0NEVGlhTVpTUWtzR19PaDVvYzEzM2hZbkFxclRJZV9iTkdqa3VKbkNxSmREN3Fnd2NiSFhyOEp4bUxSbG1ENmotaklNUVFSZ3VFSUtFTWZmWDBxUVByQ0U1YTIwQnZsSkZMbk9wdlBfRmJSVk41Uzc3ZWg1QndwSmNnMjZ1d19VM1k2VkVlOHU2ZzlqZV9VSzRXdTAxUUFYRWlkNndjRGhfdkduUllWNXFXLXJHUTdDT0RwSktVYXZLZ08zNkd2b3Z0bkFkTjJSc0laRkpDY0VVUWoxN013UExGc3ZldXdNYUEzZzAxdWpoeGhXZ3RsQXB0akRMam9fMWQwdl9LcW1UUzRvZGpEc3ZVeU80SUhlNUU2Q2N4NDFEd3hHdXhFQm1KNFhEWDNwa25VYWtnN1hZdXVGT3NIcEZTcg?oc=5",
+     "source": "العربية",
+     "time": "2026-11-23T08:42:00.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
+    },
+    {
      "title": "سعر الدولار اليوم في مصر.. تحركات جديدة بعد تجاوز 54 جنيهاً",
      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPVXczLVZpeVZkMlBEaFhRMnZWOFhjVzU0eVVURFd2OGlTbWVVZ3hIZndCREhFVDFMS3BoQkoxNGZnT0gwcWpzTXdVQXgtYWVHZ0NmdmdWN3p6eFR1WHFBY0lyUGEzeGxEV1BfWDJYVEo5R2pTdGQ4c0RyZTN1RFhocDc1OHVCRGpHX29qa0djWWVJNGJqYjViel9Ea25NX3cwMndRSEYwT21MZFU4TVQ5U0p3a19kYWlmV0FpR3QyVU9VWUlPZERVNlJ2VUQ0Ny1pZmNzN2I0WER0STI4WjhWZDhGV2dtQmFCR0g1ZHp5NWFibWlNeUp6NmtSb0tzSTZYOERXeWo5RGEwV2d5emdWOGphbFBwVFI2Mlg3RU9OSl9zTmtRdjNjMmFaZlRBMER6ZFR4eGRKQmJLV3Mxekdyd1dOSUtHeE9YbUZDMjZRNWdNZmlNQ0JvMjJPYkdqZW1qX1lDS1AzM1lrNXBQa3pwNjBxRDVLclY5b0VGYTl1bzhpYnBfNm5yUjJIWVpRR215Qll0alp5UFRaUXkzb283NG5iQlk1ZWg1WDhiZllNb2NTYTI2MzF0SGoxdTBIRTM1UHYwRUUwR3pISGpYdzNRMnZwXzA?oc=5",
      "source": "CNN الاقتصادية",
@@ -332,20 +347,6 @@
      "url": "https://alborsaanews.com/2026/11/23/2008106",
      "source": "البورصة",
      "time": "2026-11-23T08:25:22.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
-    },
-    {
-     "title": "ارتفاع أسعار الذهب بنحو 3% مع التركيز على بيانات التضخم الأمريكية",
-     "url": "https://alborsaanews.com/2026/11/23/2008276",
-     "source": "البورصة",
-     "time": "2026-11-23T08:22:55.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
-    },
-    {
-     "title": "استقرار أسعار النفط رغم استمرار استهداف السفن في مضيق هرمز",
-     "url": "https://alborsaanews.com/2026/11/23/2008273",
-     "source": "البورصة",
-     "time": "2026-11-23T08:17:54.000Z",
      "seen": "2026-11-23T08:46:14.222Z"
     }
    ]
@@ -532,14 +533,6 @@
      "impact": "يساعد المستثمرين والأفراد في مصر على اتخاذ قرارات ادخارية متأنية بناءً على تحركات سوق الذهب."
     },
     {
-     "title": "\"سامسونغ\" تدرس رفع أسعار هواتف Galaxy S27 بسبب قفزة تكاليف الذاكرة",
-     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOem5TRHBiV3F1NjVlY21iblZVMFZxV1lqODdOTWkyV2JFdkFRTHZidGpueklfX0tpS0MyWHhOd3RqZWRUa2tzOG4tMjdpaUdRYnUzWmNNV09iNk1xaDhPM3BZLWt4ZXpkRzVuUnFOVGtrU3Npandzd09ocmNQWXB2RE1MQTB1UXMySXNKQVZJR1JRV21fYVBMODBlVXQ2N0NpbEZqZzBRRkpEVWdHOWpyZTZLT2tMQmVXVkY5MWpOU1d6ckVlWDJZXzJJOUtrZWtTZ2pWdUVYRUhqQnp0eTJPMWl6Z25Ya2I3SzM1OUFibjdnSFQ0cEVNTkxscTMzUFpsYmhQV2dIZk1LdHRVVXF6aVZlclNxYW1NOXk1aEtsZVN2TnloUjItYXVBLVN0R3U5ZmJraDRYNU1LTDZDc2ZCTjZXNzY3MFZBaHJjSFBWYlgyWmxRbG9PTzR6U2VTTlltWFlGV2lyY0RaekUyMlh3d09IVHh3TlV5a2I5dDd0d0E1N3c2ckkxS0J2WDFpR18waGNPWlNHeW91MTFtcDhDU3VmaXUtTW1ySXZURVdoX2gzWXNxZGxTd3c5NnZtVXdiVU9rYlBfLVRhS1p0SW5nQy1nQ1E2cHE4Z0xUcVpnaTBDUkZfYUJqRjFhRjRwYzTSAfQDQVVfeXFMT1RJUE5wZXlZcVpCck9BY2w4N1RxLUI1LXJuYVpMOVlSbnZwbzMySWV5MlZkZFh2alU1QnRTOU1QNDhMSjA3WU43UUpkRm83UXdTWXlxbmx5YjVFQWs4enJmdWZibEJ4cXJWR2h4b0dpc1EyRU1jQnN1VFZSejRUNlRyOENiMFg5b0FiTWIzbnNJQXlJY05qMlVtMHVtX2ZkTlNJRXNDc2taZmE2YWJyaWtNckc0MnMwZi1BZlpsdkhDT0x1NXRfUnhkUmVoaXRmMzB1bTZjR3RRYlVLa0hSSEFKOGluMTNXYmV0WjZmQU9CQkliUVpVckJaZVVuNlY3Smo4X0JCR1FVWk1vMU5penk1akpSRzE3NWV4REdZMW95M0xETWRVTkhtZGFrQWZtREF2d1p1a2s1aDZXZG9xMWRCaG1EcklaclBIeHBXYmcycER2N1pHQUNfbTNhSFAzQ1BIWkxNVzhzTTBKS2UyU1VJUFF3Yk56TUpROGgzSUppa3BrMXdueDJ5QmtrR0daUUZMb0J6S1dKWTBvMDAwdTh2UVhuXzNIVTVmeF9zR2lmS2I0b01CZDBaaEx3X011WXZIUkJCSVNBa25FRVRWXzVSMGxlSlc0cVB5RFRPUVMxVFNtYm0tajBjeWJCaERCVnlsXzE?oc=5",
-     "source": "العربية",
-     "time": "2026-11-23T01:22:34.000Z",
-     "seen": "2026-11-23T05:55:58.547Z",
-     "impact": "ينبه المستهلكين في مصر والمقبلين على شراء الهواتف لزيادة متوقعة في أسعار الأجهزة الإلكترونية المستقبلية."
-    },
-    {
      "title": "«اجتماع ثلاثي» بأسوان يُجدد رفض الإجراءات الأحادية في قضايا الأمن المائي",
      "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNTWgtYVBKaC10aUJuUFg2OVFZNmFEbXNPdjY3VTI5UzFmV2ZuRFhxWGNiOGEzWEw5Mm1hN0tjVDhENmxXbE9JOHc4eGhELUNrYWNCODdEbEhZNnpHaElsWUUzdC1uWkQzQmdCWlZmd1AxbldweUhuZFJPT0dSREVMNjdTRFFuR3MzMC1oQXVfdUtXeHVmWC1rek40VThLWjJ0bXJ0eHdLTjNDZTBnS2VpZ0dQbDZkbkI2RVVkQm1DdDRTTjhud2hKNHdCTk1jcWM5cDN3Uk5FTlRDMGF0aUJ5ZlphYnVtQW5uY1hyZ1RJRlpySjd3QnZJTXlqZkE4NFAxRk94aWxDUDFuR0RDS3NLM1M5VEtTdTBORFBTeGdDNlR5Zi1mbkRwT1JiSlV5dEFxbTNWTjkySzlscnJDT3ZqNFNZMWwxeDE0OXdCUHltaXNzVmNjU0kyQ3kzUllQTld3STBjSmY1dFJ6SlYxTWRYbkRILThRa1VkY3E4N2MyX0VnVjFBWVlVcGtBanZQT25aTnRuNjlhc2V6V1oxdW9YR3I5ZzdIQklYZ2lCSVpzeUNBZ3ltM24wZTd4TjVTQzg5NWJJMnhiWEEzcnlLaC04OThDRGhYSWN2SlRuWlQ3Q3pSYkhSVlZ4c0txRTd3Y2xjRWpENVY2ZDEwRnRiSGozdk9mT2w0ek9WTEtLQ1NISEF3eHFPVDJQN2MzVS04Y3BVTjh4TnVhNDZWNjdZTjcydEs0ZmptZF9BRjA3RjRvNGY2eE1CV1FZc1NIbWN0RkxqR2gtOTJMZnhDOS0xdjVmMkJlaVg3NEhuZGs4aHJvamttLVU0WFp4UmVkcHVWNl84T245Tl9kMVNvZDlDeDNZUEVzRmlPV1ZlbWFRVUI5ZFdwaGo2SVF0dUM3VTJHUlpscVdqVkFlZUZRQQ?oc=5",
      "source": "الشرق الأوسط",
@@ -560,6 +553,13 @@
      "source": "BBC",
      "time": "2026-11-23T00:33:03.000Z",
      "seen": "2026-11-23T08:56:13.557Z"
+    },
+    {
+     "title": "لعبة GTA 6 .. تحذيرات رسمية عربياً .. وحملة تفتيش في غريان الليبية",
+     "url": "https://aitnews.com/2026/11/23/gta-6-arab-warnings-restrictions/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-22T22:57:50.000Z",
+     "seen": "2026-11-23T09:46:13.585Z"
     }
    ]
   }
