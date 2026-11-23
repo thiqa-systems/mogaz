@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:55:17.390Z",
+ "updated": "2026-11-23T01:05:18.143Z",
  "minute": [
   "تداولت الأخبار استقرار أسعار صرف الدولار مقابل الجنيه المصري في البنوك المحلية.",
   "إقليمياً، شهدت ليبيا توقف تدفق النفط من ميناء الشرارة واستهداف سفن، إلى جانب تقارير عن هجوم وتوترات في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T00:55:17.390Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T01:05:18.143Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 54.37,
    "change": 1.08,
-   "asOf": "2026-11-23T00:50:50.000Z",
+   "asOf": "2026-11-23T01:00:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5475,
-   "change": 2.93,
-   "asOf": "2026-11-23T00:45:39.000Z",
+   "value": 5471,
+   "change": 2.84,
+   "asOf": "2026-11-23T00:55:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6251,
-   "change": 2.93,
-   "asOf": "2026-11-23T00:45:39.000Z",
+   "value": 6246,
+   "change": 2.84,
+   "asOf": "2026-11-23T00:55:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3580,
-   "change": 1.83,
-   "asOf": "2026-11-23T00:45:39.000Z",
+   "value": 3577,
+   "change": 1.74,
+   "asOf": "2026-11-23T00:55:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0983,
    "change": 0.12,
-   "asOf": "2026-11-23T00:55:45.000Z",
+   "asOf": "2026-11-23T01:05:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.29,
-   "change": -3.54,
-   "asOf": "2026-11-23T00:43:28.000Z",
+   "value": 89.32,
+   "change": -3.51,
+   "asOf": "2026-11-23T00:55:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61115,
-   "change": 1.7,
-   "asOf": "2026-11-23T00:55:42.000Z",
+   "value": 60929,
+   "change": 1.39,
+   "asOf": "2026-11-23T01:05:34.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "منة شلبي: عنبر الموت مليء بالتحديات النفسية والعصبية وأقدم شخصية سيكوباتية",
-     "url": "https://www.elbalad.news/7190906",
+     "title": "الإفتاء توضح حكم الوضوء بعد انتهاء مدة المسح على الخفين.. هل يكفي غسل القدمين؟",
+     "url": "https://www.youm7.com/story/2026/11/23/الإفتاء-توضح-حكم-الوضوء-بعد-انتهاء-مدة-المسح-على-الخفين/7627695",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T01:00:00.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
+    },
+    {
+     "title": "عندك محل غير مرخص؟.. خطوات توفيق أوضاعه واستخراج رخصة رسمية",
+     "url": "https://www.youm7.com/story/2026/11/23/عندك-محل-غير-مرخص-خطوات-توفيق-أوضاعه-واستخراج-رخصة-رسمية/7619271",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T01:00:00.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
+    },
+    {
+     "title": "تحذير من منح مساعد الذكاء الاصطناعي صلاحيات الوصول للحسابات الشخصية",
+     "url": "https://www.elbalad.news/7190877",
      "source": "صدى البلد",
-     "time": "2026-11-23T00:51:28.000Z",
-     "seen": "2026-11-23T00:55:17.390Z"
+     "time": "2026-11-23T01:00:00.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
+    },
+    {
+     "title": "دراسة تحذر: الأشعة السينية والمقطعية تزيد من خطر الإصابة بأورام الدماغ لدى الصغار",
+     "url": "https://www.elbalad.news/7190842",
+     "source": "صدى البلد",
+     "time": "2026-11-23T01:00:00.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
+    },
+    {
+     "title": "هل يجوز للمرأة طلب المرأة الطلاق من زوجها مريض ألزهايمر؟ .. دار الإفتاء تجيب",
+     "url": "https://www.elbalad.news/7190839",
+     "source": "صدى البلد",
+     "time": "2026-11-23T01:00:00.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
     },
     {
      "title": "فضيحة إنفيديا.. نيويورك تايمز تكشف ارتباط زوجة رئيس الشركة بمخابرات بكين",
@@ -151,36 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T00:37:00.000Z",
      "seen": "2026-11-23T00:45:17.789Z"
-    },
-    {
-     "title": "خسائر نفطية جديدة في ليبيا.. إغلاق صمام بخط الشرارة يفقد البلاد 365 ألف برميل يوميا",
-     "url": "https://www.elbalad.news/7190903",
-     "source": "صدى البلد",
-     "time": "2026-11-23T00:36:31.000Z",
-     "seen": "2026-11-23T00:45:17.789Z"
-    },
-    {
-     "title": "هل ينتقل حسام عبد المجيد للأهلي؟.. وكيله: مستقبل اللاعب مفتوح على جميع الاحتمالات",
-     "url": "https://www.elbalad.news/7190891",
-     "source": "صدى البلد",
-     "time": "2026-11-23T00:35:34.000Z",
-     "seen": "2026-11-23T00:45:17.789Z"
-    },
-    {
-     "title": "ليبيا.. وقف تدفق النفط من ميناء الشرارة النفطى بعد هجوم من خارجين عن القانون",
-     "url": "https://www.youm7.com/story/2026/11/23/ليبيا-وقف-تدفق-النفط-من-ميناء-الشرارة-النفطى-بعد-هجوم/7628836",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T00:28:00.000Z",
-     "seen": "2026-11-23T00:35:18.119Z",
-     "impact": "توقف تدفق النفط من ميناء ليبيا قد يؤثر على أسواق الطاقة وأسعار النفط التي يتابعها المستثمرون."
-    },
-    {
-     "title": "مواعيد القطارات على خط أسوان / القاهرة والعكس اليوم الإثنين 23/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/23/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الإثنين-23/7628246",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T00:00:00.000Z",
-     "seen": "2026-11-23T00:05:17.445Z",
-     "impact": "معرفة مواعيد القطارات تساعد الأفراد في مصر على تنظيم جدول سفرهم وتنقلاتهم بين القاهرة وأسوان."
     },
     {
      "title": "متحدث الحكومة: صناعة الهواتف المحمولة ما زالت وليدة.. ونسعى للحفاظ عليها لتلبية احتياجات السوق المحلي",
@@ -247,6 +245,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 23 نوفمبر 2026.. تحديث الأسعار",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXMUhUaUllX1dtZWJMYzJubTdtTkVNSU9CdDN3UHJaLS05V09tTmRKVTh2aGNMSlMzRVhoamIxZ0R4VUt2?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-23T00:59:30.000Z",
+     "seen": "2026-11-22T23:35:17.425Z",
+     "impact": "متابعة تحديث أسعار الدولار تتيح للأفراد والمستثمرين معرفة قيمة الصرف الدقيقة قبل إجراء المعاملات."
+    },
+    {
      "title": "سعر الدولار اليوم الاثنين 23 -11- 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hYTV4TWh3RWlXVXk2ck8tRC1IeUZTM1ZaYUVySmVoX0NHV2JTaXQ2SlFjZ2ctU1Y4anpOc3NvLWFfVjhfWTd6NzhZWHFhakZMNklSbHljOV9oRVVS?oc=5",
      "source": "الوطن",
@@ -260,14 +266,6 @@
      "source": "BBC عربي",
      "time": "2026-11-22T23:33:32.000Z",
      "seen": "2026-11-22T23:35:17.425Z"
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 23 نوفمبر 2026.. تحديث الأسعار",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXMUhUaUllX1dtZWJMYzJubTdtTkVNSU9CdDN3UHJaLS05V09tTmRKVTh2aGNMSlMzRVhoamIxZ0R4VUt2?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-22T23:29:30.000Z",
-     "seen": "2026-11-22T23:35:17.425Z",
-     "impact": "متابعة تحديث أسعار الدولار تتيح للأفراد والمستثمرين معرفة قيمة الصرف الدقيقة قبل إجراء المعاملات."
     },
     {
      "title": "تفاصيل أقل سعر دولار في البنوك الآن",
@@ -402,18 +400,18 @@
      "seen": "2026-11-22T23:55:17.709Z"
     },
     {
+     "title": "ترامب: توقعت انهيار الأسواق وتصاعد هجمات إيران",
+     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNYWQ5N2x4ajF4dDVQT25ZN0JDb0JWd0ZMZ001cDNLOXlNcVUwcUE1ZGlWdTJzN2ViZlV1ZXdaTnRuVU5HZ2ltWnZ0RU9XSGN1VHpOQngyQTZKWFNnS1I3YWM2ZGVVbmQyb2NYN3BJUXlyQm1SZURVelZlb3JmOE1MdVc2eE5vZnhqRm9KYUZuYzkzbVVFcHFlZkJURmpYRGM2aTJJdGFEU3ZDbFVzR1E2T0MzOTdLZ2o4VnVOZHl4WnJnTTVTbUNfanJWTm03eEVoVFlTc1k4aFg1d05xUDFqYV9ERUpJNW90X2VmZWJoNWdKSk9hVVdpRnRHT3hjeGFvWmZ1OEk3T2ZzWVlfMkk2ZEh2cWlzNnVwYVVnelR6c19aa1JvSTdLcV9XWkNLaklqbWlpcWZMY3JKd241X0YxT1diTFNGZ3p4YXc3eEROa2VlQ2NqREh5bE1zMVVrcXZocGoyWko2MkhYZS1HMXhYeEFfQ2pobVJxcXlIY29oNHg2cHQtRDNwcG4tbmt0VE90Q2VwczQwNNIBlANBVV95cUxQRGZWWWV0NTBRUUxPT0VqWTBOWGdLdFFscFgxZHF2anJ5R3VqQjdGQTFOaDhqUVJmaTcybU5uQzVMVVd3ZFdWWkxtZzBNcTdoVHd1eGlmcG9aUmhmR1J4eEFOYVpMOTRTSHFJX2xiTmJSODhyZUxILV8xYUw2Y01LZnBHd0VCWDdUXzZicndoTWF4LWZlWmtybzZjY01QcXVHMXRQR1JlSnlGTHRZLU1MLWZzem5zU0ZkMmlJS2ZEQ3o5dWxGVWhpY2YzblZCb1p6eXpoeUIzSHl4bERhZ2p2eUViYWVmRnUtSjBicDhGdEl5MHBzdlN2LU8xYkRMLVkxdzhzN0NUVHI5S0p3ZS01LUx6THVCRUJFWE1FM1g0TDJhVWxkcGJuQjJZZi1qUlktRUQzSFg0SkFRNW03cXVpZzFOYjRXMGdGMEJ1a0pjekVhQzloU1hFaWRXVl9KNE44c01GM2Y0dW1XenJaZUxDRUtpeHJFT0xEbDQ0R3FhNmM3WWxZSERGNjVBWVhiRWRTRGc1SQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-22T22:28:53.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
+    },
+    {
      "title": "مجلس النواب الليبي.. رفض لـ\"تصفية الحسابات\" وانتهاك السيادة",
      "url": "https://www.skynewsarabia.com/middle-east/1906379-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D8%B1%D9%81%D8%B6-%D9%84-%D8%AA%D8%B5%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-22T22:12:32.000Z",
      "seen": "2026-11-22T22:25:17.213Z"
-    },
-    {
-     "title": "روسيا تدرس الرد على هجوم بنغازي.. وتتحدث عن \"توسيع الرقعة\"",
-     "url": "https://www.skynewsarabia.com/middle-east/1906378-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%B1%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D9%88%D8%AA%D8%AA%D8%AD%D8%AF%D8%AB-%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D9%82%D8%B9%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-22T21:58:18.000Z",
-     "seen": "2026-11-22T22:05:18.091Z"
     },
     {
      "title": "تقرير \"أوكسفام\" يكشف: كيف ارتكبت إسرائيل \"جرائم حرب بيئية\" في غزة؟",
@@ -464,6 +462,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "عُمان تطبّق قانونًا جديدًا للاتصالات بغرامات تصل إلى 10 ملايين ريال",
+     "url": "https://aitnews.com/2026/11/23/oman-telecom-it-law-fines/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-23T01:03:46.000Z",
+     "seen": "2026-11-23T01:05:18.143Z"
+    },
+    {
      "title": "لعبة GTA 6 .. تحذيرات رسمية عربياً .. وحملة تفتيش في غريان الليبية",
      "url": "https://aitnews.com/2026/11/23/gta-6-arab-warnings-restrictions/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -476,14 +481,6 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-22T22:23:05.000Z",
      "seen": "2026-11-22T22:25:17.213Z"
-    },
-    {
-     "title": "اختراق Cleverbridge يسرّب بيانات بطاقات الدفع ورموز CVV لبعض العملاء",
-     "url": "https://aitnews.com/2026/11/23/%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-cleverbridge-%d9%8a%d8%b3%d8%b1%d9%91%d8%a8-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d9%88%d8%b1/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-22T22:18:56.000Z",
-     "seen": "2026-11-22T22:25:17.213Z",
-     "impact": "تسريب بيانات بطاقات الدفع يهم مستخدمي الإنترنت والمستثمرين لاتخاذ تدابير الحماية وتجنب مخاطر الاحتيال المالي."
     },
     {
      "title": "جيفرى هينتون يحذر: نماذج الذكاء الاصطناعى تطور لغة خاصة لا يفهمها البشر",
@@ -504,7 +501,7 @@
      "title": "تسارع العمل في المشروع النووي المصري",
      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOMkFiMlpPVzY4ZWdGOWUtMVNvNll6c1JMV1dBSS1icjNKNWlhWlItOHJWRm9PSGtfd0lhZkoyWmItVGk3OERSTVg5QU1qSmRnR21MMFNlU2Z4VFh2SUpTXzNadThDY1U0cFQxd1VkNXltVkFKSEVOVFlSTFh0QWRfZ2JHTURoaHdMN2t3ZlRkZ2Z2VlB2OHlCQ1IxVWtiY3lXa3ZhelFXSGZrUHROMkpBWFJvR0ZNTExrdzcyeG5YcnZZV09MUndXb2hnbWdTYlJFbVRNaHR3RmdJQ0JnN2tPRVRWR29vVDRRa2hUNElGS0R1RVk1eDJEZXBheXlIU3JIbmdLOGdiaGZZcVlTbldoanNoSXRNV2FpbEtJdC1wQzZraXR2bTh1MXdybklRRUJPLWxqajYtSnV4d3hkb2hqLWZxcWRrRzh2NC05d2pSU3lEWmRsVWVsV2ZlTWNZZWhaX3o5UGZOMnpPMWw3SGlvX0tsSjRNM2lhclROS01vZkJvX0czUXZvalZTajFhUTVyMDVzM0RrNXRJQVZfRzdydkR1SWVVeGRCMmVxZlduZ1BUTklZUmx6cjNkT3E0eG4yNVRyRGRkNjUxZldxQkZNS3IxVndFdXhpR2MwYm1zX0hLUXM4ZEczLWhObExPdERiT1hZWWpNYXdWckpk?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-22T20:38:42.000Z",
+     "time": "2026-11-22T20:36:20.000Z",
      "seen": "2026-11-23T00:05:17.445Z"
     },
     {
