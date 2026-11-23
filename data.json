@@ -1,81 +1,78 @@
 {
- "updated": "2026-11-23T12:06:13.698Z",
+ "updated": "2026-11-23T12:08:13.707Z",
  "minute": [
-  "شهدت الأسواق تراجعاً لسعر الدولار أمام الجنيه المصري بالتوازي مع قفزة في أسعار الذهب عالمياً.",
-  "أطلق البنك المركزي المصري خدمات ترميز بطاقات الدفع على تطبيقات الهاتف المحمول لتسهيل المعاملات الإلكترونية.",
-  "تستهدف وزارة الاتصالات المصرية إعداد 30 ألف متخصص في الذكاء الاصطناعي ودعم 250 شركة ناشئة بحلول عام 2030.",
-  "تنوعت بقية الأخبار بين متابعة تطورات قطاع التكنولوجيا العالمي وقرارات تنظيمية وإدارية محلياً ودولياً."
+  "شهدت مصر ارتفاعاً جديداً في أسعار الذهب وقدمت وزارة التموين برنامجاً لتعزيز القيمة الغذائية للخبز المدعم.",
+  "تصاعدت التوترات والتطورت الميدانية والدولية في ليبيا وبولندا، مع تحديد إيران شروطاً لإمكانية فتح مضيق هرمز.",
+  "في قطاع الاقتصاد والتكنولوجيا، أعلنت كراودسترايك صفقة استحواذ ضخمة، وتوافقت شركة مدينة مصر على شراء أسهم خزينة، بينما تعافت عقود الأسهم الأمريكية."
  ],
  "ai": {
-  "at": "2026-11-23T11:36:13.399Z",
+  "at": "2026-11-23T12:08:13.707Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-23T12:06:13.698Z"
+  "impacts": 7
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.27,
-   "change": 0.9,
-   "asOf": "2026-11-23T12:07:32.000Z",
+   "value": 54.34,
+   "change": 1.02,
+   "asOf": "2026-11-23T12:10:42.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5528,
-   "change": 3.92,
-   "asOf": "2026-11-23T11:57:50.000Z",
+   "value": 5532,
+   "change": 3.99,
+   "asOf": "2026-11-23T12:00:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6311,
-   "change": 3.92,
-   "asOf": "2026-11-23T11:57:50.000Z",
+   "value": 6316,
+   "change": 3.99,
+   "asOf": "2026-11-23T12:00:40.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3621,
-   "change": 3,
-   "asOf": "2026-11-23T11:57:50.000Z",
+   "value": 3619,
+   "change": 2.95,
+   "asOf": "2026-11-23T12:00:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50679,
-   "change": 1.38,
-   "asOf": "2026-11-23T11:52:54.000Z",
+   "value": 50666,
+   "change": 1.35,
+   "asOf": "2026-11-23T11:55:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0963,
-   "change": -0.06,
-   "asOf": "2026-11-23T12:07:44.000Z",
+   "value": 1.0964,
+   "change": -0.05,
+   "asOf": "2026-11-23T12:10:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.72,
-   "change": -4.16,
-   "asOf": "2026-11-23T11:57:51.000Z",
+   "value": 88.86,
+   "change": -4.01,
+   "asOf": "2026-11-23T12:00:39.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61339,
-   "change": 0.29,
-   "asOf": "2026-11-23T12:07:58.000Z",
+   "value": 61370,
+   "change": 0.34,
+   "asOf": "2026-11-23T12:10:48.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +137,29 @@
    "title": "مصر",
    "items": [
     {
+     "title": "نشتري ولا نبيع؟.. ارتفاع جديد يضرب أسعار الذهب بعد تراجعات متتالية وعيار 21 يقفز",
+     "url": "https://www.elbalad.news/7191367",
+     "source": "صدى البلد",
+     "time": "2026-11-23T12:07:57.000Z",
+     "seen": "2026-11-23T12:08:13.707Z",
+     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة مستويات أسعار الذهب وتحركات عيار 21 لتحديد قرارات الادخار والتحوط."
+    },
+    {
+     "title": "المجلس الرئاسي الليبي يحذر: بنغازي جرس إنذار ومواجهة الصراعات الدولية ضرورة",
+     "url": "https://www.youm7.com/story/2026/11/23/المجلس-الرئاسي-الليبي-يحذر-بنغازي-جرس-إنذار-ومواجهة-الصراعات-الدولية/7629390",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T12:07:00.000Z",
+     "seen": "2026-11-23T12:08:13.707Z"
+    },
+    {
+     "title": "وزير التموين يعلن تنفيذ البرنامج القومي لتعزيز القيمة الغذائية للخبز البلدي المدعم",
+     "url": "https://www.youm7.com/story/2026/11/23/وزير-التموين-يعلن-تنفيذ-البرنامج-القومي-لتعزيز-القيمة-الغذائية-للخبز/7629522",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T12:07:00.000Z",
+     "seen": "2026-11-23T12:08:13.707Z",
+     "impact": "يهم المستهلكين في مصر المعتمدين على منظومة الدعم لمعرفة جودة والتغيرات المتوقعة على الخبز البلدي."
+    },
+    {
      "title": "رئيس وحدة مكافحة الإرهاب السابق: أتحدى قيادات الإخوان الكشف عن إصداراتهم الدعوية خلال 100 عام",
      "url": "https://www.elbalad.news/7191358",
      "source": "صدى البلد",
@@ -158,27 +178,6 @@
      "url": "https://www.youm7.com/story/2026/11/23/وزير-التموين-إعداد-سلة-غذائية-استرشادية-تساعد-في-تحديد-أولويات/7629521",
      "source": "اليوم السابع",
      "time": "2026-11-23T12:05:00.000Z",
-     "seen": "2026-11-23T12:06:13.698Z"
-    },
-    {
-     "title": "قبل عرضه.. قبل ما تريد معرفته عن مسلسل عالم إفتراضي",
-     "url": "https://www.elbalad.news/7191353",
-     "source": "صدى البلد",
-     "time": "2026-11-23T12:05:00.000Z",
-     "seen": "2026-11-23T12:06:13.698Z"
-    },
-    {
-     "title": "نائب رئيس الوزراء: دعم الحرف اليدوية ركيزة أساسية فى منظومة الحماية الاجتماعية",
-     "url": "https://www.youm7.com/story/2026/11/23/نائب-رئيس-الوزراء-دعم-الحرف-اليدوية-ركيزة-أساسية-فى-منظومة/7629496",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T11:58:00.000Z",
-     "seen": "2026-11-23T12:06:13.698Z"
-    },
-    {
-     "title": "وزير التموين: الدعم النقدى يتيح للأسرة اختيار السلع الغذائية وفقا لاحتياجاتها",
-     "url": "https://www.youm7.com/story/2026/11/23/وزير-التموين-الدعم-النقدى-يتيح-للأسرة-اختيار-السلع-الغذائية-وفقا/7629524",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T11:57:00.000Z",
      "seen": "2026-11-23T12:06:13.698Z"
     },
     {
@@ -248,7 +247,8 @@
      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPeWFIVXQ0YmlxVVZZNVdKZ2duaU9FdFJuVkZfYWRHVDVYTURwcHY2MW1wVzZOUmFsekF3dzlRRXdiVldHWTNhdElKS216YmhZR0FUVW5jODRPT0VWZTM2WGU5eHF5aVE0ZUNGV3FNOVNQOTJkSDdELWZJdVpDVXBUNUtGT2JNaGtGaHlwWWRtSWcteTF1dGYyc1FyamtPUm04RlItMjQwZ3IzTGxHdzAyMWt0cFc1SkMtcm5uaks1SG1EZkw2U0IzaXN2dVZ3MERCaVh5am5RWnNaV2RCbzBmUHNPcmJHcWZwWXNKbDFvaTR3Um05djB1WDhPbWNSbG9OX2FoMDZ6WDk2MkV5Ui01R2pqMENRUXlNNjctTWFoMDZSbHdLdmtlREhoZGRGNldMZzlVZG1IckJGczhSeGc?oc=5",
      "source": "عالم المال",
      "time": "2026-11-23T11:51:27.000Z",
-     "seen": "2026-11-23T11:56:13.317Z"
+     "seen": "2026-11-23T11:56:13.317Z",
+     "impact": "يهم المتداولين والمستثمرين في البورصة المصرية لمتابعة خطط شركة مدينة مصر وأثر شراء أسهم الخزينة على السهم."
     },
     {
      "title": "\"ترامب جعل العالم غير مستعد لصعود الصين المسلحة نووياً\" - مقال في التلغراف",
@@ -269,7 +269,8 @@
      "url": "https://alborsaanews.com/2026/11/23/2008384",
      "source": "البورصة",
      "time": "2026-11-23T11:28:46.000Z",
-     "seen": "2026-11-23T11:56:13.317Z"
+     "seen": "2026-11-23T11:56:13.317Z",
+     "impact": "يهم المصريين المهتمين بالاستثمار العقاري في الخارج لمعرفة التوقعات المستقبلية لأسعار العقارات البريطانية."
     },
     {
      "title": "ارتفاع طفيف للأسهم الصينية رغم ضغوط القيود الأمريكية على الرقائق",
@@ -309,6 +310,13 @@
      "seen": "2026-11-23T10:56:13.673Z"
     },
     {
+     "title": "تحسن الأسواق الإقليمية وترقب استقرار الجنيه يدعمان البورصة المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOa1MxMDdaU3pQR2dsRndYLUNZVzk4RHZsaFFlSE5VNmZPNThBeVVfdmFDUHk1NElRUkllSG9VQndsOEpVa2NKTmljVmFwQnVZVmR0WmxCYW94b21YeVZDT3Q3bkp5RWlZcGUtc0NHMGxLN0NBOXdtSUc0WkY2SXE5LUJIampac0dQbjktU1lFbTRYU0ZEM011REMyTXZCOEZFdWxYckRkYTZ6OTZIcEUzZk9pc0w4WHRKU1ZIMmw2X25UR1NHNjRHc0YyQmpVWFJ3MnpXMFc2NWdMSElVLVJGdkpWaFU5S1NwLXM4MmpEWS1QNXptVW41emZ4ZG1UaVh3S281VVlJWkw4RFlLaFdyeW5ibjFULUx3ZS05b0p0dmZ2YWpaeXM4Tkk5ZEdWT1NKSzRYQUhiZHh5QVRRRjZ3aE1mYldaLVFqN3VjNjRkVDRUaXZhQVZsXzBiNjVxTkZqUkFUQng0RGYwR0t4U2hDSzYtVnliMndvQnkxQV9SZHNYRmRCVlZwLS1ia0Z3LVdCQmJVbEZQamhRc2x5TTU1YkY1OHZZSktKYWF0bmRGYktmQktrVEFHRVJfZ0ZKblpOY2dMdWRWYVdQODRaVDNhSDkwZ3pJRldPWnc1RndPZ0lFVEpMUm5DSURwckQ2T20xc0plbmxrNHhxWUNCY21ob2Z4T0JYdzhpN0xEVENqRVNPU1NWd3FSUjFWdU5pQV9jSVlyQkhtUDhxUFVQSjVOOWFTYmRSTDZudWxMd00tTVZhUXNsTW9yWkRiTdIBywRBVV95cUxOa1MxMDdaU3pQR2dsRndYLUNZVzk4RHZsaFFlSE5VNmZPNThBeVVfdmFDUHk1NElRUkllSG9VQndsOEpVa2NKTmljVmFwQnVZVmR0WmxCYW94b21YeVZDT3Q3bkp5RWlZcGUtc0NHMGxLN0NBOXdtSUc0WkY2SXE5LUJIampac0dQbjktU1lFbTRYU0ZEM011REMyTXZCOEZFdWxYckRkYTZ6OTZIcEUzZk9pc0w4WHRKU1ZIMmw2X25UR1NHNjRHc0YyQmpVWFJ3MnpXMFc2NWdMSElVLVJGdkpWaFU5S1NwLXM4MmpEWS1QNXptVW41emZ4ZG1UaVh3S281VVlJWkw4RFlLaFdyeW5ibjFULUx3ZS05b0p0dmZ2YWpaeXM4Tkk5ZEdWT1NKSzRYQUhiZHh5QVRRRjZ3aE1mYldaLVFqN3VjNjRkVDRUaXZhQVZsXzBiNjVxTkZqUkFUQng0RGYwR0t4U2hDSzYtVnliMndvQnkxQV9SZHNYRmRCVlZwLS1ia0Z3LVdCQmJVbEZQamhRc2x5TTU1YkY1OHZZSktKYWF0bmRGYktmQktrVEFHRVJfZ0ZKblpOY2dMdWRWYVdQODRaVDNhSDkwZ3pJRldPWnc1RndPZ0lFVEpMUm5DSURwckQ2T20xc0plbmxrNHhxWUNCY21ob2Z4T0JYdzhpN0xEVENqRVNPU1NWd3FSUjFWdU5pQV9jSVlyQkhtUDhxUFVQSjVOOWFTYmRSTDZudWxMd00tTVZhUXNsTW9yWkRiTQ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-23T10:39:00.000Z",
+     "seen": "2026-11-23T12:08:13.707Z"
+    },
+    {
      "title": "\"المركزي المصري\" يطلق خدمات ترميز بطاقات الدفع على تطبيقات الهاتف المحمول",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GRkc4N2pQN1dhOVJydGVsSy1ZRFF5Rm43V2hrTlk1VVVZY2JqYkRIcUZfSjJZTm85bWlBQVVyZ01IUXh5YlM2TThicHJoSFpsdjFSUUpB?oc=5",
      "source": "جريدة البورصة",
@@ -338,13 +346,6 @@
      "time": "2026-11-23T10:10:51.000Z",
      "seen": "2026-11-23T10:16:13.855Z",
      "impact": "تساعد معرفة أسعار العملات الرسمية بالبنك المركزي المتعاملين في التخطيط للمعاملات المالية والتجارية."
-    },
-    {
-     "title": "الدولار أمام الجنيه المصري: أكبر قفزة يومية منذ أكتوبر مع خروج جزئي للأجانب",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aTm1SV2pVQkl2N1FpQkJlOVNQUDdsb2hwWmRkRGM4ajV3alZqbTlwRGtFMmJTMDZrUVB3RklKVEtTR2U4MXJJUmQtbmRQQ1FhWDVKMTdadDhna3JkallTZlZKZFg3Yk0?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-23T10:08:00.000Z",
-     "seen": "2026-11-23T10:16:13.855Z"
     }
    ]
   },
@@ -364,7 +365,8 @@
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/baghaei-strait-of-hormuz-two-hours-is-possible-conditions",
      "source": "CNN بالعربية",
      "time": "2026-11-23T11:49:52.000Z",
-     "seen": "2026-11-23T11:56:13.317Z"
+     "seen": "2026-11-23T11:56:13.317Z",
+     "impact": "يهم الأسواق والمستثمرين لما قد يسببه الوضع في مضيق هرمز من تأثير مباشر على أسعار النفط وشحن البضائع عالمياً ومحلياً."
     },
     {
      "title": "بولندا تدق ناقوس الخطر داخل حلف الناتو بعد تكرار الخروقات الروسية لأجوائها",
@@ -475,7 +477,8 @@
      "url": "https://aitnews.com/2026/11/23/%d9%83%d8%b1%d8%a7%d9%88%d8%af%d8%b3%d8%aa%d8%b1%d8%a7%d9%8a%d9%83-%d8%aa%d8%aa%d9%81%d9%82-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%b2%d9%8a%d8%b3%d9%83%d9%8a%d9%84%d8%b1-%d8%a8%d8%b5%d9%81/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-23T11:49:36.000Z",
-     "seen": "2026-11-23T11:56:13.317Z"
+     "seen": "2026-11-23T11:56:13.317Z",
+     "impact": "يهم المتابعين لقطاع التكنولوجيا والأسهم العالمية لمعرفة حجم وتأثير الاندماجات الكبرى في مجال الأمن السيبراني."
     },
     {
      "title": "مراجعة Xiaomi 18 Fold: أفضل عتاد بين الهواتف القابلة للطي",
@@ -485,11 +488,12 @@
      "seen": "2026-11-23T11:36:13.399Z"
     },
     {
-     "title": "عقود الأسهم الأميركية ترتفع مع عودة المشترين بعد موجة بيع",
+     "title": "عقود الأسهم الأميركية تتعافى بعد موجة تصحيح مدفوعة بالذكاء الاصطناعي",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQa1BQQU4zNUFaM0tTTG5uSEFDdGc2RnBCV0M0YnpZSjhWVTh0b3ZJLWo4VURUa1NtdzVPemdKR09HbVJnWUU1akwxUGJha2pzLVNjaTUzMGZhbV9heVZwMnVBNGhlREZNSEpyc0xQbG80YV8wQ21LNWpQUUc3WnU4aUU2WmtVMEFMLTlpZTlLNy1JbFBzSXJRX2JxTWU2Rlk1YWNaaFJpamk0U3ZBLWdKUXM1RWZjLTBDTm5xbmZ3SllmUHB6dTYxMFIyTGc4emg3Q0J3VFFSZVh4aUZQUk93MThFUUJWdlRqLS02SjlwM3gtYnptUnYxdTM2R0hpeUdIWEZxd2pLTl9POUZMaWh2ZTc0R0UxemNiOEpvVkY5dTZ1aTd2S09xUGlB?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-23T11:26:15.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "seen": "2026-11-23T11:46:13.556Z",
+     "impact": "يهم المتعاملين في الأسواق المالية العالمية لمعرفة اتجاهات أسهم التكنولوجيا وموجات التصحيح المدفوعة بالذكاء الاصطناعي."
     },
     {
      "title": "سامسونج تطور ميزة Shorts في Gallery لتحويل الصور والفيديوهات إلى مقاطع قصيرة",
