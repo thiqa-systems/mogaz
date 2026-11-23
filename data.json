@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:46:13.556Z",
+ "updated": "2026-11-23T11:56:13.317Z",
  "minute": [
   "شهدت الأسواق تراجعاً لسعر الدولار أمام الجنيه المصري بالتوازي مع قفزة في أسعار الذهب عالمياً.",
   "أطلق البنك المركزي المصري خدمات ترميز بطاقات الدفع على تطبيقات الهاتف المحمول لتسهيل المعاملات الإلكترونية.",
@@ -10,16 +10,18 @@
   "at": "2026-11-23T11:36:13.399Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T11:56:13.317Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.35,
-   "change": 1.04,
-   "asOf": "2026-11-23T11:45:04.000Z",
+   "value": 54.34,
+   "change": 1.03,
+   "asOf": "2026-11-23T11:56:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -27,17 +29,17 @@
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
    "value": 5537,
-   "change": 4.1,
-   "asOf": "2026-11-23T11:36:09.000Z",
+   "change": 4.08,
+   "asOf": "2026-11-23T11:46:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6322,
-   "change": 4.1,
-   "asOf": "2026-11-23T11:36:09.000Z",
+   "value": 6321,
+   "change": 4.08,
+   "asOf": "2026-11-23T11:46:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -45,35 +47,35 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3622,
-   "change": 3.02,
-   "asOf": "2026-11-23T11:36:09.000Z",
+   "change": 3.03,
+   "asOf": "2026-11-23T11:46:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50670,
-   "change": 1.36,
-   "asOf": "2026-11-23T11:31:11.000Z",
+   "value": 50711,
+   "change": 1.44,
+   "asOf": "2026-11-23T11:41:41.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0964,
-   "change": -0.05,
-   "asOf": "2026-11-23T11:45:44.000Z",
+   "value": 1.0961,
+   "change": -0.08,
+   "asOf": "2026-11-23T11:56:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.36,
-   "change": -4.55,
-   "asOf": "2026-11-23T11:35:48.000Z",
+   "value": 88.51,
+   "change": -4.39,
+   "asOf": "2026-11-23T11:46:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61428,
-   "change": 0.44,
-   "asOf": "2026-11-23T11:46:13.000Z",
+   "value": 61304,
+   "change": 0.23,
+   "asOf": "2026-11-23T11:56:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,46 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "قبل صدام الليلة| الزمالك يتفوق على الجونة تاريخيا.. والأرقام تكشف حكاية 21 مواجهة",
-     "url": "https://www.elbalad.news/7191336",
+     "title": "قومي البحوث يحذر من الإفراط في استخدام الشاشات: مخاطر على نمو الأطفال وتركيزهم ونومهم",
+     "url": "https://www.elbalad.news/7191347",
      "source": "صدى البلد",
-     "time": "2026-11-23T11:45:22.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:53:15.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
-     "title": "عادل عزب: محمد مرسي طلب إدراج مجموعات من القيادات الأمنية والإعلامية والقضائية على قوائم الإرهاب",
-     "url": "https://www.elbalad.news/7191335",
+     "title": "وزير التموين: تخصيص 178.3 مليار جنيه لدعم الخبز والسلع التموينية",
+     "url": "https://www.youm7.com/story/2026/11/23/وزير-التموين-تخصيص-178-3-مليار-جنيه-لدعم-الخبز-والسلع/7629505",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T11:53:00.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "مسؤول أمني سابق: الإخوان منعوا التظاهر احتجاجا على الرسوم الدنماركية المسيئة للرسول",
+     "url": "https://www.elbalad.news/7191344",
      "source": "صدى البلد",
-     "time": "2026-11-23T11:44:28.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:52:57.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
-     "title": "وزير السياحة والآثار يلتقي مدير مكتب \"جايكا\" في مصر ووفدا من مقر الهيئة الرئيسي بطوكيو",
-     "url": "https://www.elbalad.news/7191334",
+     "title": "المجلس الأعلى لشئون التعليم والطلاب يستعرض تطوير الأنشطة الجامعية",
+     "url": "https://www.elbalad.news/7191352",
      "source": "صدى البلد",
-     "time": "2026-11-23T11:43:59.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:52:56.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
-     "title": "هيئة الدواء: الانتهاء من تطبيق منظومة التتبع الدوائي بحلول 2030",
-     "url": "https://www.youm7.com/story/2026/11/23/هيئة-الدواء-الانتهاء-من-تطبيق-منظومة-التتبع-الدوائي-بحلول-2030/7629479",
+     "title": "وزير السياحة والآثار يلتقي مدير مكتب هيئة التعاون الدولي اليابانية (جايكا) بمصر",
+     "url": "https://www.youm7.com/story/2026/11/23/وزير-السياحة-والآثار-يلتقي-مدير-مكتب-هيئة-التعاون-الدولي-اليابانية/7629501",
      "source": "اليوم السابع",
-     "time": "2026-11-23T11:40:00.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:52:00.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
-     "title": "البروفيسور مجدي يعقوب يشهد احتفال مؤسسة «البابا كيرلس» الخيرية في لندن",
-     "url": "https://www.youm7.com/story/2026/11/23/البروفيسور-مجدي-يعقوب-يشهد-احتفال-مؤسسة-«البابا-كيرلس»-الخيرية-في/7629463",
+     "title": "تفاصيل معرض «أسطول نابليون: حكايات يرويها البحر» بالمتحف القومي للحضارة المصرية",
+     "url": "https://www.youm7.com/story/2026/11/23/تفاصيل-معرض-«أسطول-نابليون-حكايات-يرويها-البحر»-بالمتحف-القومي-للحضارة/7629492",
      "source": "اليوم السابع",
-     "time": "2026-11-23T11:39:00.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
-    },
-    {
-     "title": "وزارة العمل تواصل تسوية النزاعات وديًا وتكثف حملات التفتيش والتشغيل وتنشر ثقافة السلامة المهنية",
-     "url": "https://www.youm7.com/story/2026/11/23/وزارة-العمل-تواصل-تسوية-النزاعات-وديًا-وتكثف-حملات-التفتيش-والتشغيل/7629464",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T11:38:00.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:51:00.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
      "title": "مدبولي: الحماية الاجتماعية تتجاوز حدود المساعدات لتصبح استثمارا في الإنسان",
@@ -242,6 +244,48 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "مجلس إدارة مدينة مصر يوافق على شراء 18.15 مليون سهم خزينة",
+     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPeWFIVXQ0YmlxVVZZNVdKZ2duaU9FdFJuVkZfYWRHVDVYTURwcHY2MW1wVzZOUmFsekF3dzlRRXdiVldHWTNhdElKS216YmhZR0FUVW5jODRPT0VWZTM2WGU5eHF5aVE0ZUNGV3FNOVNQOTJkSDdELWZJdVpDVXBUNUtGT2JNaGtGaHlwWWRtSWcteTF1dGYyc1FyamtPUm04RlItMjQwZ3IzTGxHdzAyMWt0cFc1SkMtcm5uaks1SG1EZkw2U0IzaXN2dVZ3MERCaVh5am5RWnNaV2RCbzBmUHNPcmJHcWZwWXNKbDFvaTR3Um05djB1WDhPbWNSbG9OX2FoMDZ6WDk2MkV5Ui01R2pqMENRUXlNNjctTWFoMDZSbHdLdmtlREhoZGRGNldMZzlVZG1IckJGczhSeGc?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-23T11:51:27.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "\"ترامب جعل العالم غير مستعد لصعود الصين المسلحة نووياً\" - مقال في التلغراف",
+     "url": "https://www.bbc.com/arabic/articles/c52e833ewd4ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T11:50:32.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "الناقل الوطني للمياه... هل يحقق الأردن استقلاله المائي؟",
+     "url": "https://www.bbc.com/arabic/watch/cqpv9kj0g3e7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T11:46:02.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "نايت فرانك تخفض توقعاتها لنمو أسعار المنازل البريطانية في 2027",
+     "url": "https://alborsaanews.com/2026/11/23/2008384",
+     "source": "البورصة",
+     "time": "2026-11-23T11:28:46.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "ارتفاع طفيف للأسهم الصينية رغم ضغوط القيود الأمريكية على الرقائق",
+     "url": "https://alborsaanews.com/2026/11/23/2008377",
+     "source": "البورصة",
+     "time": "2026-11-23T11:23:37.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "«مستقبل مصر» يبحث مع «سوميتومو» و«العربي» إنشاء مناطق بنظام المطور الصناعي",
+     "url": "https://alborsaanews.com/2026/11/23/2008380",
+     "source": "البورصة",
+     "time": "2026-11-23T11:20:32.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
      "title": "يتراجع أمام الجنيه.. سعر الدولار اليوم في منتصف التعاملات",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHMXpBai1QRUlEV1NZUUdNYkxJSlZSNDdwNEdCd3c4S3BxUkVObWgtV3l2WjFFMGt5dWtYWkFpakRLQ3BmRzlr?oc=5",
      "source": "صدى البلد",
@@ -273,14 +317,6 @@
      "impact": "يسهل على عملاء البنوك في مصر إجراء المعاملات المالية اليومية والدفع اللاتلامسي عبر الهواتف المحمولة."
     },
     {
-     "title": "رئيس الوزراء: الحماية الاجتماعية ليست منحة بل مسؤولية أصيلة للدولة",
-     "url": "https://alborsaanews.com/2026/11/23/2008347",
-     "source": "البورصة",
-     "time": "2026-11-23T10:27:07.000Z",
-     "seen": "2026-11-23T10:56:13.673Z",
-     "impact": "يطمئن المواطنين والأسر المستفيدة في مصر بشأن استمرار وتأكيد التزام الدولة ببرامج الدعم الاجتماعي."
-    },
-    {
      "title": "سعر الدولار يواصل التراجع أمام الجنيه بمنتصف تعاملات اليوم الإثنين",
      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOMEYtNlJZSWdTcWV1TnR3d2NJeVFySWxlZFZFSGRyM1ljMWFrUkVCaEg4eXUwU3hNdDlBb2N1WUF6QlNiUThRXzYzOGdiMWQxUDVvb0FaMWdGTGtlOGdMX3gwWjNpN2k0aEZvQ3g4QUI1VEhhTHBJRVpiMXM3Qk04YWlwaHB5WGRKbzRzdkZtV1lON19qR0k4QjlvSG5GMVU3YVBCODJoUUlkNVFMS0lvWVlQTkxOQWIxR1I1M2lCN2NXOXNmUWYtbUFGcXNfWHZaeC1PbDF6bVJSZFIzblc1UWtfcExud2ZPWFNVd01KYzNrS1hSYmhNaVdsazUxbzFPcHN0aEM5RkdPcGttZGM0OE9SM0tYQkRza0QyV1FyNkxKNnJ0R04wZ2Rabl9aM25IQktfVXFGZlhlWWRVZjQxQ3IzWUI3dURsaGIyRkZOYTF5eHBFOXlyTVhxR3FWblE4OTdVcloxeHlWa3VyREdpWEVSRW43ZjJhMEpGOXVWYmpuMGYzR0RROTRiWmhFLXktc3k1cmtUanRhRXRnTnItQkprdzA1UXNjNUgxVGpsOXh6R0Foa3VybmFEdXVxSEhqSXNlTmlRX1RJaVh2cmVGUS1aeHNsallicXg1R3V0VEwwb3F0Mi1IUHk0Y2VBeVFCdzdPVVBONDF6MUdkU2VweUJJaVd4UjhqSFBTX3hZUjVXX1AtUUx4NXhDc0lQUzRYT2RENWZrN1NwQWdDZmRB0gGqBEFVX3lxTE83MHVhNGFmUlAwanBFUUhuTTBpTzJFR1FCWmtMSzVFbkFVSjlhbk14Sk9mYkc5VVYzWU9wRzgzbm5JVUxVM0NRNXZZM0RwUFU5VTg2X0tEM2lmc0xSOWRTOXJWQmVsMDE2MEtQa2JrUzA0TG9wNEpCclZpVXBBUGI0ZDcyXzBja2pIalhFbWdXZEZsNEp6ZHFUZktTQmpRa3p1OXBEUzgwd2RhM0FOZFFFLUhyenEzZzlwVWFCNXlTeHJhWGV2Uks1UlpCczhhS1ZBcFBFall3XzVuQmhoVFhtVW1RUlFIZmJ6WHRUYm9GOE5uOENnZDNubl9wLUtNZ0FSM1dfdmdudXRVX1JLTi1Sby04TFltUHotVWx4U2d3cU5VWEdwQkJXMmVKY2MwenhXYTBuRmNCMlQ1UnpuQ2xZV0hGbjJWbk1PR3U3RWRFdTN3VkNTVzZQYTFQb3dLcHRaeURQR2lhV2Z1OUFuT3FrTENBVkdYRG1ScEVDd0luVTZ3M2U4dlAzaENyaC1CUkhDUUxLUmUxeklVSHhZaFhXTG01dnhXMkQ0SnYyZFQtbDBlMlo3R08tOUFTVVRvelg2UnZOTXQwV2NBS0I2eVEtaU9Sc0xhcFBBMVBYeWI0bUpua3Y2dzVfVDllNl91Z21VVWF0a0hBQW9ld0dIQVNnNmNHUThnaWtJQzBpb0V2ZWVocXo0Mm5mXzF4OWZDclJ1MUJHcDNHX1ZB?oc=5",
      "source": "اليوم السابع",
@@ -297,13 +333,6 @@
      "impact": "تساعد معرفة أسعار العملات الرسمية بالبنك المركزي المتعاملين في التخطيط للمعاملات المالية والتجارية."
     },
     {
-     "title": "“عبد العظيم”: محدودية إنتاج المصانع الصغيرة يعوق استفادتها من فرص التصدير الكبرى",
-     "url": "https://alborsaanews.com/2026/11/23/2008338",
-     "source": "البورصة",
-     "time": "2026-11-23T10:09:38.000Z",
-     "seen": "2026-11-23T10:56:13.673Z"
-    },
-    {
      "title": "الدولار أمام الجنيه المصري: أكبر قفزة يومية منذ أكتوبر مع خروج جزئي للأجانب",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aTm1SV2pVQkl2N1FpQkJlOVNQUDdsb2hwWmRkRGM4ajV3alZqbTlwRGtFMmJTMDZrUVB3RklKVEtTR2U4MXJJUmQtbmRQQ1FhWDVKMTdadDhna3JkallTZlZKZFg3Yk0?oc=5",
      "source": "Investing.com",
@@ -316,34 +345,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-23T10:04:32.000Z",
      "seen": "2026-11-23T10:36:13.689Z"
-    },
-    {
-     "title": "صادرات الصناعات الهندسية المصرية ترتفع 8% خلال 9 أشهر",
-     "url": "https://alborsaanews.com/2026/11/23/2008330",
-     "source": "البورصة",
-     "time": "2026-11-23T10:04:17.000Z",
-     "seen": "2026-11-23T10:56:13.673Z"
-    },
-    {
-     "title": "قرار عاجل من البنك المركزي بشأن رأس مال البنك الأهلي.. التفاصيل الكاملة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UblRaTUZGc3VISmcxUk5XamhhcFJOanV6Q3paSmJJczhoUHZONWtfOFBfNHpsTmtXN0VQSzhUUXNYUmZOZ3hXRmRvTHdockZ0b0xjTEZlMVlWSVdldEMw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T10:04:00.000Z",
-     "seen": "2026-11-23T10:56:13.673Z"
-    },
-    {
-     "title": "زيلينسكي: أوكرانيا أغرقت فرقاطة روسية وأصابت سفينة شحن قبالة ليبيا",
-     "url": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T09:59:48.000Z",
-     "seen": "2026-11-22T23:35:17.425Z"
-    },
-    {
-     "title": "سعر اليورو اليوم الأثنين في البنوك المصرية ... متوسط سعر البنوك 59.60 جنيها",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9EbC1la2lZSlJyMGp1X0Jyb1FPQTdCQmhIdF82S0tzcTEyanBUemNfUm55b040TkRZc2dXRVNFcFBjZ0NI?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-23T09:50:50.000Z",
-     "seen": "2026-11-23T09:56:13.342Z"
     }
    ]
   },
@@ -351,6 +352,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "خارجية إيران: إعادة فتح مضيق هرمز \"خلال ساعتين\" ممكنة.. بشروط",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/baghaei-strait-of-hormuz-two-hours-is-possible-conditions",
+     "source": "CNN بالعربية",
+     "time": "2026-11-23T11:49:52.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
+    {
+     "title": "هجوم بنغازي.. مجلس النواب الليبي يلوح بمساءلة أوكرانيا",
+     "url": "https://www.skynewsarabia.com/middle-east/1906565-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D9%8A%D9%84%D9%88%D8%AD-%D8%A8%D9%85%D8%B3%D8%A7%D8%A1%D9%84%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-23T11:42:35.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
+    },
     {
      "title": "صور نشرها الرئيس الأوكراني زيلينسكي لإغراق الفرقاطة الروسية في بنغازي بليبيا",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261123-%D8%B5%D9%88%D8%B1-%D9%86%D8%B4%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%84%D8%A5%D8%BA%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D8%B7%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%A8%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
@@ -408,18 +423,18 @@
      "seen": "2026-11-23T11:26:13.933Z"
     },
     {
-     "title": "رأي.. السيدة اللبنانية الأولى تكتب: الأخوّة كما تعلّمتها من نساء لبنان",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/lebanon-first-lady-nehmat-aoun-human-fraternity-oped",
-     "source": "CNN بالعربية",
-     "time": "2026-11-23T10:13:12.000Z",
-     "seen": "2026-11-23T10:26:13.769Z"
-    },
-    {
      "title": "صور متحدثة الجيش الإسرائيلي بمدرسة لبنانية تثير إدانات",
      "url": "https://www.skynewsarabia.com/middle-east/1906527-%D8%B5%D9%88%D8%B1-%D9%85%D8%AA%D8%AD%D8%AF%D8%AB%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-23T10:06:42.000Z",
      "seen": "2026-11-23T10:16:13.855Z"
+    },
+    {
+     "title": "زيلينسكي: أوكرانيا أغرقت فرقاطة روسية وأصابت سفينة شحن قبالة ليبيا",
+     "url": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T09:59:48.000Z",
+     "seen": "2026-11-22T23:35:17.425Z"
     },
     {
      "title": "عمليات \"فجر اليمن\" متواصلة.. القوات الحكومية تكبّد الحوثي خسائر جديدة",
@@ -434,20 +449,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T09:38:00.000Z",
      "seen": "2026-11-23T10:46:14.246Z"
-    },
-    {
-     "title": "زيلينسكي: أوكرانيا أغرقت فرقاطة روسية وأصابت سفينة شحن قبالة ليبيا",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15ZFVIQmU1ZE5iUGpPX0YyVHVpV3VSUmVGeUEzc2t5S3M0cGFlT1hNNE9PVUpBMkxmNzYwNTNwWm94Snd6QVFSNENuWFA3aWFraWYwNFpMbzYxS24zM3fSAWNBVV95cUxORWtaREJFM0RJUE5OdF8xM0JBa0EzY09pNGRNV3BqcTNHa1Qxem5FenBjRm9MbDhjX2YtTDNGb0pXR1dpYlVabEVBdTJ6T1JXM0VzQ1JoY29SYTFrVXZVOFhsd0E?oc=5",
-     "source": "BBC",
-     "time": "2026-11-23T09:24:37.000Z",
-     "seen": "2026-11-23T09:36:13.454Z"
-    },
-    {
-     "title": "مذكرات بايدن..ماذا قال عن رفض مصر تهجير الفلسطينيين من غزة؟",
-     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQeXU5UmIybldDZEtkVGczdDVkUzNSeHVuMEVUV1Q0TEk4YUlZZ2huWjJtejRwUVJNRDc4VXBRdTN2RTNEM29YZmMzdENSeUJjRDNEYmNVV0dGYmVob210RUJZRF9hUkJoTXZSVE5BbGFMUURxczN4YXZZMXFDaTRDb0VjdGRJZDBXQXAwNEF4bVltM0R5clZtQzFRR0RpQkxoVEVrblltazFzN2lvZmF5STVXNjFqdVdwM3RvM3BjX2kwaGZrX2JmamFTYW5hZVNmaUNBNXh6LWVKdU1seG9SZUEySmwzSWhubHJPbTdvekZ2Mk9OQzlvUjVOdkdFNUh2MXNiQmxuTzRWZkQ4VE9NcGZPdmZGZ25FVDJMZDBHZ2xYSkpPcEJGNDVVWWM5bUhLSTdjNFAxN3h5dWNOSzhSTjRTbDBoVE1pLXVpajh6bXNoZUU4RGd4dnpJSlNVbnFieHA0LTRqMEkwZTlRZzJnNVZQSjhzUkxrQ2RuMXVDUk9qZEI5VXVEdVNhWDN3RzNpaGtvbGQ2WEoxUl9uaHJiejBaMTZRaGoxSDdDSjhlOVVDT0N5cGVMM2twYVdJQ2ZQTndITThGZ9IBwgNBVV95cUxNbUtKekt2djZLR2ZIMTJPVFFvVkd2dVhqUFVTT3BUYVN3eno1QUhUUWM5Ylo2SWdvaVBYb21iQVN6eHZzY3RPZkh6Uy1ORE5jZjRzb0ZQX1hrUjBWQkJmMVhxN0JhRE85YWZRMU13YlVOaktONU1wRGZKSEc1aUpFOEpJWWdJYkZrcG00Z0VmdkVwd291THhqWWo2dWNxcXRHSHdleVFjNGlMUGhWM19rVWluMmlIaFV4RmpXSFJSYXhLNnU0UVR3VXFoV0dlTUs5dkpBS2VDTHhTNlZoQ3lXXzJhRXJjcGpITXllQ2FZbXIxeVZ1X1ZOQVRtTVRxTWdOTTd0M0pFZTVLREUxajhud3pCY2Y4Q01MRVZlMXphUHdodXBMcHpfQ0s5a0M2OUxYZnNtNUh3ZEtzRmRZSGFGZURIb3FkRmlIMllJMzVqdUVrNFJmb096b0picVpIaExVVlg3NmNwR3dPQ1RUTVJ0dXJWMnN1UVd4UmQzVlFfVXF5OTV4UmVhUjFlR1NIdVNiQktpODBuX19LM2QyY0c2OU9UQjJoVURfbFVMT3ZPUWUwTVBoNW80UmwwMU55Z1B0aGc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T09:24:00.000Z",
-     "seen": "2026-11-23T10:56:13.673Z"
     }
    ]
   },
@@ -456,26 +457,25 @@
    "title": "تكنولوجيا",
    "items": [
     {
-     "title": "الطلب على برمجيات نكست كلاود يرتفع نحو خمسة أضعاف مع توجه أوروبا للسيادة السحابية",
-     "url": "https://aitnews.com/2026/11/23/%d9%86%d9%83%d8%b3%d8%aa-%d9%83%d9%84%d8%a7%d9%88%d8%af-%d9%88%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b3%d8%ad%d8%a7%d8%a8%d9%8a%d8%a9/",
+     "title": "هونر تطلق سلسلة Honor 700 في الصين ببطارية 9000 ميلي أمبير وشاشة خلفية ذكية",
+     "url": "https://aitnews.com/2026/11/23/%d9%87%d9%88%d9%86%d8%b1-700-%d8%b4%d8%a7%d8%b4%d8%a9-%d8%ae%d9%84%d9%81%d9%8a%d8%a9/",
      "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-23T11:45:29.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:54:17.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
-     "title": "صادرات الرقائق الكورية تقفز 294.4% إلى 38.5 مليار دولار في 20 يومًا",
-     "url": "https://aitnews.com/2026/11/23/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a6%d9%82-%d8%a7%d9%84%d9%83%d9%88%d8%b1%d9%8a%d8%a9/",
+     "title": "تقرير: اتصالات أليس هوانغ بالاستخبارات الصينية تزامنت مع علاقتها برئيس إنفيديا السابق",
+     "url": "https://aitnews.com/2026/11/23/%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%a3%d9%84%d9%8a%d8%b3-%d9%87%d9%88%d8%a7%d9%86%d8%ba-%d8%a7%d9%84%d8%b5%d9%8a%d9%86/",
      "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-23T11:39:52.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
+     "time": "2026-11-23T11:50:33.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
-     "title": "كوسبي يخسر 3.3% مع تراجع أسهم سامسونج وSK Hynix وسط موجة بيع الذكاء الاصطناعي",
-     "url": "https://aitnews.com/2026/11/23/%d9%87%d8%a8%d9%88%d8%b7-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%87%d8%a7%d9%8a%d9%86%d9%83%d8%b3-23/",
+     "title": "كراودسترايك تتفق على شراء زيسكيلر بصفقة أسهم قيمتها 43.9 مليار دولار",
+     "url": "https://aitnews.com/2026/11/23/%d9%83%d8%b1%d8%a7%d9%88%d8%af%d8%b3%d8%aa%d8%b1%d8%a7%d9%8a%d9%83-%d8%aa%d8%aa%d9%81%d9%82-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%b2%d9%8a%d8%b3%d9%83%d9%8a%d9%84%d8%b1-%d8%a8%d8%b5%d9%81/",
      "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-23T11:29:51.000Z",
-     "seen": "2026-11-23T11:36:13.399Z",
-     "impact": "يهتم به المستثمرون في أسهم التكنولوجيا والأسواق المالية لمتابعة تأثير تراجعات قطاع الذكاء الاصطناعي على المحافظ الاستثمارية."
+     "time": "2026-11-23T11:49:36.000Z",
+     "seen": "2026-11-23T11:56:13.317Z"
     },
     {
      "title": "مراجعة Xiaomi 18 Fold: أفضل عتاد بين الهواتف القابلة للطي",
