@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:25:58.898Z",
+ "updated": "2026-11-23T01:35:58.377Z",
  "minute": [
   "تداولت الأخبار استقرار أسعار صرف الدولار مقابل الجنيه المصري في البنوك المحلية.",
   "إقليمياً، شهدت ليبيا توقف تدفق النفط من ميناء الشرارة واستهداف سفن، إلى جانب تقارير عن هجوم وتوترات في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T01:25:58.898Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T01:35:58.377Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5533,
-   "change": 4.01,
-   "asOf": "2026-11-23T01:16:01.000Z",
+   "value": 5534,
+   "change": 4.03,
+   "asOf": "2026-11-23T01:26:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6317,
-   "change": 4.01,
-   "asOf": "2026-11-23T01:16:01.000Z",
+   "value": 6318,
+   "change": 4.03,
+   "asOf": "2026-11-23T01:26:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3617,
-   "change": 2.9,
-   "asOf": "2026-11-23T01:16:01.000Z",
+   "value": 3618,
+   "change": 2.92,
+   "asOf": "2026-11-23T01:26:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0984,
    "change": 0.13,
-   "asOf": "2026-11-23T01:25:46.000Z",
+   "asOf": "2026-11-23T01:35:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.81,
-   "change": -2.98,
-   "asOf": "2026-11-23T01:16:00.000Z",
+   "value": 89.51,
+   "change": -3.31,
+   "asOf": "2026-11-23T01:26:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60879,
-   "change": 1.31,
-   "asOf": "2026-11-23T01:26:00.000Z",
+   "value": 61109,
+   "change": 1.69,
+   "asOf": "2026-11-23T01:36:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "إبراهيم فايق يكشف مفاجأة في تدريبات الأهلي قبل موقعة بيراميدز",
+     "url": "https://www.elbalad.news/7190887",
+     "source": "صدى البلد",
+     "time": "2026-11-23T01:30:00.000Z",
+     "seen": "2026-11-23T01:35:58.377Z"
+    },
+    {
      "title": "أحمد دويدار: مباراة الزمالك والجونة تضع لاعبي الأهلي تحت ضغط نفسي أمام بيراميدز",
      "url": "https://www.elbalad.news/7190874",
      "source": "صدى البلد",
@@ -150,13 +157,6 @@
      "url": "https://www.elbalad.news/7190910",
      "source": "صدى البلد",
      "time": "2026-11-23T01:10:50.000Z",
-     "seen": "2026-11-23T01:15:58.834Z"
-    },
-    {
-     "title": "استجابة للمنتفعين.. مدير رعاية بورسعيد الصحية في زيارة مسائية مفاجئة بمجمع الشفاء الطبي",
-     "url": "https://www.elbalad.news/7190908",
-     "source": "صدى البلد",
-     "time": "2026-11-23T01:10:19.000Z",
      "seen": "2026-11-23T01:15:58.834Z"
     },
     {
@@ -275,6 +275,13 @@
      "seen": "2026-11-22T23:35:17.425Z"
     },
     {
+     "title": "عاجل: سعر الذهب يرتفع 1.1% قرب 3,578 دولاراً مع افتتاح الأسبوع وتهديد ترامب",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LendpQjNwSTd6WjUxVm9VVFNBbFBQLXhkOWF1R0I5NGo2aHlHeGFrQ0RFTVlLWV9BcHJmZTk0OXZUbloxYm95Sjc3OXVwYW1vQU1uZmZDZFdQSElodTdvQ1hBYTRLTzN6VFo4VzQyUQ?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-22T23:08:00.000Z",
+     "seen": "2026-11-23T01:35:58.377Z"
+    },
+    {
      "title": "تفاصيل أقل سعر دولار في البنوك الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92RlZodUlvd0lZQXowRUlZbjF4MDhJNkktOTZETTV5ZjBvSkdNR1FUQllWQWdBLURPSnZqOGxPaHV0M20zcFhj?oc=5",
      "source": "صدى البلد",
@@ -342,14 +349,6 @@
      "source": "BBC عربي",
      "time": "2026-11-22T20:45:53.000Z",
      "seen": "2026-11-22T20:55:17.858Z"
-    },
-    {
-     "title": "استقرار سعر الدولار الأمريكي أمام الجنيه المصري في ختام تعاملات اليوم 22 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPSVNNODAzUVhRbk9nZ21NdWVDVEpnNDlha3g4MFNQQW5jSlNoR3V4Q0dTbUlvU0Q0cmJIdUt6UVQ1UXVIUW00X2tsdkRBSkpsaG4xUE1BaFdVRW5xRWxpUS1JTTVRVHFoNzlYdHV4U01tZm9vZmttQ3NKcjBqaE1BVm9iN3laMzgyblVYYmd5SGVDanlGWTY2NHhieVJXeVBtYXRBc0xub2ZqTExOS0FUd3kzMGNpSlRfOXQwd1Zad1FxMWx3cktHbkUwQUVJRlQzNEtjSXNvWC0waTZfaWRhWU5KVnV6VTRVZGZVbGZrTWZzcGxzODJqV0c3VDVYVVdhY2JZTDFxeEJrQjE3eVBkcVhYaEtGd3Z4a3RvQllza3NOOUkwMjFHbVVFbnNYNVJMX3Vmay1xamN4VHY0THFkaVlkcXQ5RVQ3dEZoN01pWFVBaEJncDV6M1JialFjdUR1WGVHQzAxR0JSdFFuZ0M1NnNHU19kY0YwaEEyaDFB?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-22T20:35:15.000Z",
-     "seen": "2026-11-22T20:45:17.353Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة استقرار أسعار الصرف وتأثيرها على أسواق السلع وتكلفة الأعمال."
     }
    ]
   },
@@ -520,6 +519,13 @@
      "seen": "2026-11-22T19:25:03.708Z"
     },
     {
+     "title": "بعد شلل الطيران والبنوك.. واشنطن تتوقع مزيداً من الأعطال",
+     "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOSmNfNGNKeUhFZWJraEd4LXBGSlJZZEM1eEFMdEFfbGNsLUQ2NEFuVWxLelo1UlprdXpvNUluakQ5RFBVak1Xb2JsaVdHQXFKODRmU1d6dUgwV3NoT3F6U1FSNlp3QTduQlJNWWJEVWNnVm5YY1c2MXZXRnAxeUFuU2I1V0EtWlQ5UC1TQ1FpT3czUUZ1NjlUQVNvR3o3TTNldFp5TThLRXlNdlhGcUdJRVRhOEg3dXdQZ3A0RVZvbzhTeWc4VXpyNldqRUk4b2VUNXNTVnZMOFVtbFdSVmJ2OVV3VGJXa3h0TFZPS1kyTjh5TVpSVWdLMU9jSTVlbHRGd1FLcVZUc3Bza0JNYndISkFVREVzOWdwOTcwZjN5U1VkQ2dwMG1MQnc2d2VuMjhCcGFTMDVtSmQ5WU9wVGN3MG0zMkFCaXk5SXd1RHRub0xfZlh5VUdWdnBScTduTHJwbWdVSGoxdUpRS2ZXUkRONUo4UE92LW1BZzhEV1RvaFZEVkRtSVZPUzU5aGlSeFR4SXA0cEMwRUJrejJyZWRRUExGZFNhazA0WjcwbjktZWdXX28xS3FFVktua2Fld1J5UHpRSGFoVEpGMTJXSkRHYnpNT29tVmVGLWNtSFpMMnNqVUQxbWstSUFtUUJkVkRuSzdjSdIB-gNBVV95cUxNODd2NjFvaTA0LWI0LVUxTXRLTHpfQlFRTU5rdlhuTmljZy1PaU53T0JPSzBVdlRMaVFOODdtMVhKX0tJRHc1RWhKa1pzcURQQjY4b0U1QXV5X1hCa05LdlI3ellIRzJBVWhpak9MWHBaNzJLNjQ2ZzFTOE1heTdUWlZzVFdYRktUTVl5QXptUlVhRUVRS25jLVpfdnF0SzY3TlpEVXBHQ1BZQzRtZndLV2RudmdBeEhHbVpmTTl2cXRYWDY4VXRCZ2d6WEhFUHV0MjZ4Tk5TdVNxc1Y0aEdhZkNvVERLMDBueldaczl3UmhhUHhxWmh2c1RvSm1qNk5LYlpjc1ZiSXUyblRlTkk3QWdNU2djM1pWYS10UmlOUE56VjcwLXVWNlQ0dmktQWttY2pPdzVXQ3kwQWpSTkNBWUtuQXFBYUdBbzVxSkx0UHBjTnF5ZnJGWV93TzRBNkh3Q1dNaGJwdC1LMGd3SmlZVXVodFR0ZDBCdzNTTXJ2Ri1lLTNTa1dKSVRDREdNTldDOERrT0JLa01VenZYbU9MOUd2QUVIZUhkdHRtbzNzcWJrbUVrWW1sM1hlejhOTldPUi1kcFJqdXhuY1phSlkybEtyRHNlblQ2VWI3S1pzb1FPWXBvUGo5MEphVjhBWUFKZ3VIUk11d3ZFZw?oc=5",
+     "source": "العربية",
+     "time": "2026-11-22T18:49:00.000Z",
+     "seen": "2026-11-23T01:35:58.377Z"
+    },
+    {
      "title": "شاومي تعلن تجاوز شحنات أساورها الذكية 240 مليون وحدة",
      "url": "https://www.tech-wd.com/wd/2026/11/22/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%b4%d8%ad%d9%86%d8%a7%d8%aa-%d8%a3%d8%b3%d8%a7%d9%88%d8%b1%d9%87%d8%a7-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-24/",
      "source": "عالم التقنية",
@@ -556,23 +562,10 @@
      "time": "2026-11-22T16:46:17.000Z",
      "seen": "2026-11-22T18:05:04.012Z",
      "impact": "سعي أمازون للاستحواذ على شركة ذكاء اصطناعي يعطي انطباعاً للمستثمرين عن اتجاهات النمو والاستثمار في قطاع التكنولوجيا العالمية."
-    },
-    {
-     "title": "الرؤى السرية لـ\"نبيّ\" الذكاء الاصطناعي ومستقبل البشرية",
-     "url": "https://www.aljazeera.net/tech/2026/11/23/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%a8%d9%8a%d9%86-%d8%b3%d8%a8%d8%a7%d9%82-%d8%a7%d9%84%d9%87%d9%8a%d9%85%d9%86%d8%a9",
-     "source": "الجزيرة نت",
-     "time": "2026-11-22T16:00:00.000Z",
-     "seen": "2026-11-23T01:25:58.898Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
