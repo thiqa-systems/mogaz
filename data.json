@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:46:14.222Z",
+ "updated": "2026-11-23T08:56:13.557Z",
  "minute": [
   "شهدت الأسواق تحركات جديدة في سعر الدولار بمصر بالتوازي مع تساؤلات حول اتجاهات مدخرات المصريين بين الشهادات البنكية والذهب بعد هبوطه عالمياً.",
   "أعلنت وزارة التضامن الاجتماعي تدشين الإطار الوطني للحماية الاجتماعية واختيار برنامج «تكافل وكرامة» كأفضل ممارسات الحد من الفقر عالمياً.",
@@ -9,70 +9,72 @@
   "at": "2026-11-23T08:36:14.079Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T08:56:13.557Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.17,
-   "change": 0.71,
-   "asOf": "2026-11-23T08:46:06.000Z",
+   "value": 54.18,
+   "change": 0.73,
+   "asOf": "2026-11-23T08:57:30.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5496,
-   "change": 3.32,
-   "asOf": "2026-11-23T08:36:14.000Z",
+   "value": 5504,
+   "change": 3.47,
+   "asOf": "2026-11-23T08:47:37.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6275,
-   "change": 3.32,
-   "asOf": "2026-11-23T08:36:14.000Z",
+   "value": 6284,
+   "change": 3.47,
+   "asOf": "2026-11-23T08:47:37.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3607,
-   "change": 2.59,
-   "asOf": "2026-11-23T08:36:14.000Z",
+   "value": 3611,
+   "change": 2.72,
+   "asOf": "2026-11-23T08:47:37.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50628,
-   "change": 1.28,
-   "asOf": "2026-11-23T08:31:15.000Z",
+   "value": 50695,
+   "change": 1.41,
+   "asOf": "2026-11-23T08:42:49.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0997,
-   "change": 0.25,
-   "asOf": "2026-11-23T08:45:45.000Z",
+   "value": 1.0994,
+   "change": 0.22,
+   "asOf": "2026-11-23T08:57:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.31,
-   "change": -3.52,
-   "asOf": "2026-11-23T08:36:03.000Z",
+   "value": 89.43,
+   "change": -3.39,
+   "asOf": "2026-11-23T08:47:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61502,
-   "change": 0.56,
-   "asOf": "2026-11-23T08:46:15.000Z",
+   "value": 61387,
+   "change": 0.37,
+   "asOf": "2026-11-23T08:57:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,67 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ارتفاع حصيلة ضحايا حريق اندلع في مصنع للحلوى بإندونيسيا إلى 24 قتيلا",
-     "url": "https://www.elbalad.news/7191108",
+     "title": "الصورة الأخيرة على الشاشة.. الحرس الثوري يسخر من المسيرات الأمريكية",
+     "url": "https://www.elbalad.news/7191112",
      "source": "صدى البلد",
-     "time": "2026-11-23T08:45:53.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "time": "2026-11-23T08:55:26.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
-     "title": "مدبولي: الحماية الاجتماعية استثمار في الإنسان وليست عبئا على الموازنة",
-     "url": "https://www.elbalad.news/7191103",
+     "title": "افتتاح سوق اليوم الواحد بأرض المطاحن في الجيزة بتخفيضات تصل إلى 25%",
+     "url": "https://www.youm7.com/story/2026/11/23/افتتاح-سوق-اليوم-الواحد-بأرض-المطاحن-في-الجيزة-بتخفيضات-تصل/7629033",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T08:55:00.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
+    },
+    {
+     "title": "رئيس الوزراء: الدولة لا تنظر إلى الحماية الاجتماعية باعتبارها عبئا على الموازنة وإنما استثمارا في الاستقرار البشري",
+     "url": "https://www.youm7.com/story/2026/11/23/رئيس-الوزراء-الدولة-لا-تنظر-إلى-الحماية-الاجتماعية-باعتبارها-عبئا/7629041",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T08:55:00.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
+    },
+    {
+     "title": "الكرملين: قريبا.. جولة جديدة من المفاوضات مع الولايات المتحدة وأوكرانيا",
+     "url": "https://www.elbalad.news/7191120",
      "source": "صدى البلد",
-     "time": "2026-11-23T08:45:04.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "time": "2026-11-23T08:54:34.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
-     "title": "محافظ الجيزة يعقد اجتماعا تمهيديًا لبدء إعداد مخطط تطوير وتحسين منطقة أرض اللواء",
-     "url": "https://www.youm7.com/story/2026/11/23/محافظ-الجيزة-يعقد-اجتماعا-تمهيديًا-لبدء-إعداد-مخطط-تطوير-وتحسين/7629016",
+     "title": "مدبولى: مصر شهدت تحولات واسعة فى مسارات التنمية بقيادة فخامة الرئيس السيسى",
+     "url": "https://www.youm7.com/story/2026/11/23/مدبولى-مصر-شهدت-تحولات-واسعة-فى-مسارات-التنمية-بقيادة-فخامة/7629031",
      "source": "اليوم السابع",
-     "time": "2026-11-23T08:45:00.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "time": "2026-11-23T08:54:00.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
-     "title": "رئيس الوزراء: الحماية الاجتماعية في مصر ليست عبئاً على الموازنة بل استثمار في رأس المال البشري",
-     "url": "https://www.elbalad.news/7191104",
+     "title": "القوات الحكومية اليمنية تشن غارات على مواقع للفصائل المسلحة شرقي تعز",
+     "url": "https://www.elbalad.news/7191114",
      "source": "صدى البلد",
-     "time": "2026-11-23T08:44:45.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "time": "2026-11-23T08:51:02.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
-     "title": "وزارة العمل تعلن فرص عمل بالضبعة براتب يبدأ من 14250 جنيها ويصل لـ40000 جنيه",
-     "url": "https://www.youm7.com/story/2026/11/23/وزارة-العمل-تعلن-فرص-عمل-بالضبعة-براتب-يبدأ-من-14250/7628901",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T08:44:00.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "title": "مدبولي: برنامج الحماية الاجتماعية في مصر لا يتوقف عند حدود الدعم النقدي",
+     "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxOSFVxd1BIb0RYb0xWUENucU9ONVZtbk5qSWRvQ195ZUpXQzZzQVVUSXk0Z0xVeHl4c3dKUUlodi00NldsQjdYdlM2YzRIbTllNHJIOXVCeU4tN29YTFQwSWkxRzgxSVEwUlZuZUtYTU5GcHhiSXhfcWZoRW5fcjRwQ0FTYlNNXzNhNEVIc0NIeW5Dbjc2eHpoWDZVR1o4dDMxeklHUEhEZ3RQN3RpUlVpSk1JdWZucDl2SWJZMlF4d3VEVUVScHpiNTQxOTFZaXpraWt1TjhISHVXc2Vuc1BuX2NwODItNG85Mkc2czdYdE8tM2d2bkU2VUtLS1BTcGx2WTVPeVFpbE5pNjI4UmIyUWpMQVlwQVc1cDVfVG5RVTdqcXF1VXFMNXQ3ZUVWNHlSNzl1djhKQlRYa09ISWtXajlpLV9zeUp6QWdHOFpNYndOVlE3YjBBV2k0VEpzN0YxUXprbE5ld3J0b2hEMDE1NzVfMk1QTGtVeUo5VGxqUGktTmh6djBxU0wzOVlQcDJLWDgtWWZzU0JCSnlFclRRaElqaWJkTzZnVU1PbXV2dmFSR0JJX09lMTIxRVBhZVgwN24tNEdxdld0aTQxdmthaE5OS3hsanRJdXV1c3NSZ0UxM2hxUF9jb3N1cUVWR2h5MWw0eTRXbjM5bW0xdE9hX09KZnU1ZGZRVTdNRDB2THdIZThMUlJEZ1M2QV8xUFJpcEVTbmRvNXBFbFZVUlFVQWN5d2ZxTUxUdWhTYzViUlNrLTg?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-23T08:48:00.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
-     "title": "مايا مرسي: الإطار الوطني للحماية الاجتماعية يصنف 45 برنامجا ويعزز كفاءة التنفيذ",
-     "url": "https://www.youm7.com/story/2026/11/23/مايا-مرسي-الإطار-الوطني-للحماية-الاجتماعية-يصنف-45-برنامجا-ويعزز/7628966",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T08:41:00.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "title": "مدبولي: العالم يمر بلحظة فارقة تتسارع فيها التحولات الاقتصادية والاجتماعية والتكنولوجية",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJdHJVbUZDaHBmZENyWExJR1F1M0JMQlpXcWlsSjdYdmFkZ08waGpxNzdDanJHaHQ0VG8yZTlzYmtST3JXVzFLNzdQcHRrRnUxMmg4b2E5MHZkRDRp?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-23T08:36:40.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
+    },
+    {
+     "title": "مدبولي: مفهوم الحماية الاجتماعية في مصر تجاوز حدود المساعدات والدعم المباشر",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnLTRwclI2SlROQzA3UGE2VjROdHpzR0QtU0dCNWE1dEFkSUFaV2d3UmdZQkpvTk45UTFwUTdqUnBMcmQtYk8yaFNCblp0UHp6enE5SkV2NEMtalNu?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-23T08:36:40.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
      "title": "بث مباشر.. رئيس الوزراء يشهد انطلاق المنتدى الدولي للحماية الاجتماعية في مصر",
@@ -200,13 +223,6 @@
      "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "مدبولي يشهد فعاليات النسخة الأولى من المنتدى الدولي للحماية الاجتماعية في مصر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52YTBkVVp1VFBsdWFGdGNoaGZqeDJSRmJ3NVYxa1BvUUxQSW9ySm90SG5nWVhQN1djbjUweGF5ME0xNVlIbnZPSUZ3T3RiaWZ0bTZQRUhjaGRHQmhN?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-23T07:38:28.000Z",
-     "seen": "2026-11-23T07:56:13.411Z"
-    },
-    {
      "title": "نجاة السكان قبل السقوط بلحظات.. فيديو مرعب لانهيار عقار في مصر",
      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPYzV1MzRDaTUwRHAwdTlnbE41OVhHU1NiZVBXV21nTmo5bHBSMUpkenJYYkdtdk95a2txSFhsMDA1eVlHMTk1Y016WjFCRHBJZkkzZ0ZNLXBkdktva0NnUXpnWmVVbE9RSTFCSjlFOHBVN2tHNGh5b1JOTmlHYVZ3SzN2NlA4UkJ3NHJ5MHNPNHF5VzQ1a0NzRUsxSFJYQmxwVE43MFp5Nlo1UDVSZjUybUJFalc0ZVV2Q1VSSzlJclVTMGF4UzdtV09ObEo0Skh1VDFZR1dyal9MQ3dEbWpsX1JiSkI5bW1VYkVFOUR1TkJFUk1LUGhqMGpUT1pObmtXRVNUSlktZUtrVnhzTERtdXI0Snp1YklSVC03cXRsM3JsNjdUQzZFTHRaazBhcTlxY1djajEyMXl3dEM1b2ZCUERldGRFUXZZRXhoR1N3MXlHcmNLeXpNeEw5S3ZEdlNWazdXaGVqS3JyTHZwb1dMOFlNT2xodXpmVDRqR3gyNzNvMFlhSm1QcnFfWW0wczYtN0hiX3lXMTJOWk9COHhiWGtzQVQyRzdRdzJzWnJ1Tm83aDFNaXY2eGNKUjVYaVNRWGhWVy1BVXp2UXY5V3NaOFgwMV9Xc2RQZEdCenNUeFpjZUNFX0kzbU42ZTQzNmR0UU9haWs1cDdKb3FRaXfSAYMEQVVfeXFMUFV6djNHdlRNTEVvbnFEV3BSLXVyS3l3Z2RiTWFXb0JNVEVjVFZSMnYyM0dJLUNCeHlTN0Nja1dsdlhybERrRHhhWU5tbjFoMlNyWEMwdVRKUUVSRWo5cVdzTGY2SDFMemltdEk5Y0tHMUVEa1Vud3UyeTNPV0tjSEtYeFduTTZZSnFERjNFSHV3OWtXUnFtWGUxakVtZDVDOW51ME9UTzAySWprbDJpQ2RSSzM5aTY2Y1dhNjRyUUp3YUJUOTFpLXZCSE1fbnB2SGJGeFk2SnNaRWpabndvZ3h2RTR5OHNaQm9ZNFV6bDJKcGZtVkFlVVl0aGtNMHN6S0tiZFhNTVI4WWhSdkZHeDV3TzFsMXhzbGF3Zlk5anFldDRIZEtZRWZNUlpONm9JQUVmUXRoNDlVMGoxcGVLd2pfUEl3amRuV2xiN3JJZC1nUzBHUVY4aGJJVlR3dVd5VXhYd29OX1Zoa2ExYVRUUU5ieHZWZDFfT0w5SnYybHIxZEZMbEo2Qm1SWG5EdzJDZVRiRjc3dlBPdE9aeGdCeklpVFRRZWJDRXJwUUJfNjBuMXdNeTh4SlRodV9jSlNHZHJSZk8wYmlOZWxGTldZTU53OW5zblhCenk3aXhqdUxiLUZhSlQ1SzdObncyR3k3U3Zic1hQWlo4ekdrc1BEYmVFT2s?oc=5",
      "source": "العربية",
@@ -219,20 +235,6 @@
      "source": "Masrawy",
      "time": "2026-11-23T07:01:00.000Z",
      "seen": "2026-11-23T08:46:14.222Z"
-    },
-    {
-     "title": "لماذا لم تنتهِ قضايا «عبّارة السلام» بمصر رغم مرور 20 عاماً على غرقها؟",
-     "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxNaGhDWkQwcEdNUW1taHFpYk90eWxBRURMZnVkYXlVMXpxallQRjg3MHNyRjdmRThpc1RsaGY1XzFHWlI1dDVJNkdLeGtDdlFjTmpmaVFNYlBKR25EVHZGZktxUzhXNnl1dkdEMFE3S3VfWWRCanRTSE1veXI4Z1hmS0xsR0RmWE1PdnJ4MDJfTXVETXNqOHVvUW9SMXJwNUFOTklBY0FQWGQyWC1ENmlUSTcxWXJSb1lENktwQUlvWDZlYTZlS2drZkRJaDQwdlpFOWdIaXFxbFd5a0xRTVZKTGdlWVQtNDVXUzd4VEktM2V4R2FwVTNEVGN2SVd5WEFNNXBaRlpuek9BX0l0Wk13U1VtbHd2X1hLUUtNVGRoWlhWQlhLX1hZS00xOWZKM2oxN3FRVDZVX1pFT1NGdVdBbHNCX0ZWck12MGpFMEVfWnZfeWs2ZlF0dC1xdmpqOGVuUkRaelVMNkdKaDBUci1ZWnRyem93bUl5Q3ZKN3dXRnFUU2FMTXgzVENySi14b0FUSGJpdXBwS2k4RXJmT1hSOFRJZXV4S2tDVm5KcEpZSExKcndDV0FWZkhsZ3lHUlFRczg1VXdXZnkzRVVOVExTaUlkOVYxXzdUbV9Ba1M3bXNZQ1ZDLXUwMzVQMElBWjZlenpzdzNTOTRKXzZYenp0NFRvUkVPalotei1na041cHV5S0FyUjFfX2dBYmxiSEtnS29LZ0dhMm9ZZzltNjh3Zmp3b1FQWmRiYWRlX1hiS1NNTVVUQUJqdXdud3JJdmtnU2kyMW1vRFQ5elNwUENpNHZONFVYTDVZdlktZDZ4QllKU29vTU9zOUUwNUNOc1hZMmM2cDJmN3hidWxDQUk0?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-23T05:20:21.000Z",
-     "seen": "2026-11-23T05:35:58.789Z"
-    },
-    {
-     "title": "ليبيا.. أول تعليق لصدام حفتر على وجود \"خلافات\" مع مصر",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3RwUGxISEMxUjhZZVJuWk1Rcl9IT3pEM05LQXUyUTU3dFVUTEpmOWktcEw0UF9TRnE2ZE5UdnZmY3pPaDdUbWh2dW9ONUttQm5KY3YtVnR5LUJVQjlpNlFta0tIR25iRGZKYjZKSlNQckF0c2NlRG1BVE5KSDVTYUZnWmZfckNsWXJiRm1JZ29mYmJoMHJjUTREVTVNYU9Oem9zb09pQWJEZGxSMnRHQ0tB?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-23T04:35:38.000Z",
-     "seen": "2026-11-23T08:06:13.521Z"
     }
    ]
   },
@@ -240,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "ارتفاع سعر اليورو اليوم الإثنين 23 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOcG9QeUtiLVhrb1plZG9mb2VYbGZBUXNWWTY2X1k2T1BQZlBNdWh3dWdUMjh2LXU0czhMZXNEMjJrTzNLRHNwOWI4LXVQckRYMlV2Z0dRdVJHbnVyZEFYUW15N3BrOTBEYmdzSEVDdHJxSFNNOWYxVS1XQnhreHRvZ0dIYV9vLWI4TzRCYklnZW1LeTVDWXF4UzB3c0dWbjlrMDRHcXJ2VDZ3bWVpd3ZSXzFEbEdNY0NMTmp2cWhMdHpFaGxSMFR5aG9OclhUYTBGczRPSXZSM2VlUElNTTFyUDhsTG5vdXlTXzUxeWN2UHdCMnM1ckJEVlB6NEpZLXlEWXgwUnhWYzVyY0t1a21DUEt2MHJLZlVJajJVZFp3dEswMy1CaFdpeXZwSHUzU19tMjhwYkMxU0hweW5mTUVERm1kRHhlakRsanhMUTllMFhkRjBXTlliTklxWFpGQnJrWFdCaFBJWjNBd2xHcDF0aUlpaTdWTVNkTVp4ai1lZ01mcE9JdW9OMkxVc251V3VRclF0U0NnbnlWd3RUUGZGLUF5bDNwSFhOcVk5UWI1Z3BaVDcxUXhWbElFYlFYYmx5Z1pqV2Fac9IBwgNBVV95cUxPU2xlcGd2UlhVdHFzVHBmZlJjNHZYMzRpZ1MwZW5kVDJUWmdMSDdXeVlDUWpWVzhpSVMzbjlQakpTcGZMOVJXWW9wWnV3anAxdXNoeFlrUkk5TWpWbDBWd3k0QUJUMEtYVzlSdW85LTY5UlhveG40bVNFeFk2MS1zaW8zU2ZvTnoyR3B3bVcwNnR6T2pvY1hfdnhkSUVzYWZFNFUwQVFuMDJDWm81LW5aYjBXdGU4cnBJRDNFSWtWMWo1RTdGam54UFMzUFo0OVZlM2wyRWRNaWVyczM4cDF0TWdEWUg1NU50ckUzRjc4Rnp2NzhFZDZKRnFPMzBkU3l5bXlPYjRIRXpiLTZSMVJBeEI4RmZjaUtKQ0xnZi1JYUliamRUSmJ5V1ZiWWh4VWhxbVlqeGhqN1h3S2ZDTFhiSF9DeVJiQi1UU3NzUEZHSmUwRUJfVW91bzFoeXhtX1poa2VENnZ1ek16aWVaa1hnSmJ0bWdVRF9vbVB4UEZlc19RNTJBSGVKazdLeFVmOG5ESFZlRTlZTUxQakRpNmplZm41VHlwNGMyUEdtZjc0eV90VEd5TWZ5RkJNVVRkR0tzbEE?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T08:45:48.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
+    },
     {
      "title": "سعر الدولار اليوم في مصر.. تحركات جديدة بعد تجاوز 54 جنيهاً",
      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPVXczLVZpeVZkMlBEaFhRMnZWOFhjVzU0eVVURFd2OGlTbWVVZ3hIZndCREhFVDFMS3BoQkoxNGZnT0gwcWpzTXdVQXgtYWVHZ0NmdmdWN3p6eFR1WHFBY0lyUGEzeGxEV1BfWDJYVEo5R2pTdGQ4c0RyZTN1RFhocDc1OHVCRGpHX29qa0djWWVJNGJqYjViel9Ea25NX3cwMndRSEYwT21MZFU4TVQ5U0p3a19kYWlmV0FpR3QyVU9VWUlPZERVNlJ2VUQ0Ny1pZmNzN2I0WER0STI4WjhWZDhGV2dtQmFCR0g1ZHp5NWFibWlNeUp6NmtSb0tzSTZYOERXeWo5RGEwV2d5emdWOGphbFBwVFI2Mlg3RU9OSl9zTmtRdjNjMmFaZlRBMER6ZFR4eGRKQmJLV3Mxekdyd1dOSUtHeE9YbUZDMjZRNWdNZmlNQ0JvMjJPYkdqZW1qX1lDS1AzM1lrNXBQa3pwNjBxRDVLclY5b0VGYTl1bzhpYnBfNm5yUjJIWVpRR215Qll0alp5UFRaUXkzb283NG5iQlk1ZWg1WDhiZllNb2NTYTI2MzF0SGoxdTBIRTM1UHYwRUUwR3pISGpYdzNRMnZwXzA?oc=5",
@@ -308,6 +317,13 @@
      "seen": "2026-11-22T23:35:17.425Z"
     },
     {
+     "title": "سعر صرف الدولار في البنوك المصرية اليوم الاثنين (آخر تحديث)",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TMmluaENtNmhjRWpRS0Nwb0VyZlBuLTdhdFJ4V0Y0STZoVUllVlU1eEV6UmpnMXVFc202eUNnbGxwdmpMdGg0?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-23T08:09:00.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
+    },
+    {
      "title": "تجاوز الـ 54 جنيها.. سعر الدولار اليوم الاثنين في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WX1B4dERTNVA2Q2R5OEZaSGlkTnB1Z0FEcmtSeDJyUmtRVTktS0cxaFJncVN0M3pScmt3dk5ReTU1UWR3SFE?oc=5",
      "source": "القاهرة 24",
@@ -328,21 +344,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-23T07:44:08.000Z",
      "seen": "2026-11-23T07:56:13.411Z"
-    },
-    {
-     "title": "سعر الدولار والعملات العربية اليوم الإثنين 23 نوفمبر 2026 في البنوك (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXY01Pdjdlc25UMVZiTGwxNXdEajgzZGItMm9WaS1LTkFGd1o4N3E4SXkyNHVlRk50dDl3d3M2am45azJoMnhFUWxnQnZvcVJKdWxhRUVJMDFyOExPNklN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T07:41:00.000Z",
-     "seen": "2026-11-23T07:46:14.234Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الاثنين 23 نوفمبر 2026 في مصر مقابل الجنيه",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NdGZhV2tRVlRyTGZvUVB6Z3REZTRUbU5hNTA0WnVlXzBqalRWTmx0THpyaERqbk5EVDV0eDd4X3FOZ1ZD?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-23T06:51:37.000Z",
-     "seen": "2026-11-23T06:56:13.649Z",
-     "impact": "يؤثر سعر الدولار في البنوك بشكل مباشر على أسعار السلع المستوردة ومستويات المعيشة للمواطن في مصر."
     }
    ]
   },
@@ -350,6 +351,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "\"زورق مُفخخ في قبضة البحرية الليبية\" بعد هجوم السفينة الروسية.. ما حقيقة الفيديو؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/circulating-video-allegedly-unmanned-booby-trapped-boat-interception-libya",
+     "source": "CNN بالعربية",
+     "time": "2026-11-23T08:48:11.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
+    },
     {
      "title": "زيلينسكي يكشف كيف استهدفت أوكرانيا وأغرقت سفينة حربية روسية في ليبيا",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/ukrainian-drones-sink-russian-warship-in-north-africa",
@@ -428,11 +436,11 @@
      "seen": "2026-11-23T07:06:14.019Z"
     },
     {
-     "title": "\"قلق بالغ\".. بيان مصري بعد استهداف سفينة حربية روسية في بنغازي",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/egyptian-statement-following-an-attack-a-russian-warship-benghazi",
-     "source": "CNN بالعربية",
-     "time": "2026-11-23T06:31:49.000Z",
-     "seen": "2026-11-23T06:36:13.898Z"
+     "title": "التحالف السعودي يؤكد اعتراض صاروخ بالستي والحوثيون يعلنون استهداف مصفاة رابغ",
+     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNd29yTU05bUlEcG9iajZCUFd0ZkdyZEdJS0tZYjF2Nmd4ZDJNYWtleURPOVdaTE1FRTY1S0wwbmtkQmFYQUxPTFZjY0JDMDNUOEo5U2NlbG02YkRKbU9MemJILWdCUWNabE5kY3FOc0l2SVBkaVRUSTU3U01IeTlBeVh6ZW1hUDNyR2plVTZDUlNnZ25WbEcxMDNFemdJWF9LNkUyWHB5bXlHTkhWY1pXak1DWFYxYzZkWk9ucmRCOWZONDhiOW5iNEtNRVpzakRmX1FkWjRRbVV6MXdPTjVYOUJBcVk4a3d6dVkzWUhuYmJ5TGxFMVlPS1ZRZTRvckpJSWhvMV9KclJDdFhGaFFpZ1dNbmhTOWF3OFZveXpQVTB6cHdMeW04MXNTWkU2OEZZZExyaTRXcFUxQV82aGVKUko2bnhQNTNmY1ZHOUhhOVp3NDE1WjNEZ1JjWURNU3JIRnhLZ0pFbFplUGtYdXdHLXRKVXdVMnpnOWl6TGFiSEd6RDZGNG5ONGg4S2cwaTBUSzNXWEVGaTVOYlNXZG4wazVmbzdLS2pQaWZVS0dmQ3RRRmowazlOQXFQTGJXY1pkYTNWODBoTXpldGRtTnVDODdmT0U0MjQ5YlMzektyV0VpcTRtSkxvTW9mRHlTLW5UOXdyS3FCM2c4OTVRa0dBUnlhTzU1Mnk2V04yRFFSOFdoaTlTZ1diaTFZejJqTVFPU2hZV1RGNmNGbi1oRWlFZUc4N0VkYk9y?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-23T06:39:39.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
      "title": "\"أشعر وكأن موجة من التعافي الذاتي تجتاحني\". اللحظة التي أدركت فيها أن \"GTA 6\" واحدة من أعظم الألعاب على الإطلاق",
@@ -440,13 +448,6 @@
      "source": "BBC عربي",
      "time": "2026-11-23T06:00:23.000Z",
      "seen": "2026-11-23T06:05:58.815Z"
-    },
-    {
-     "title": "روسيا تستهدف سفينة شحن في البحر الأسود محملة بمعدات عسكرية لأوكرانيا",
-     "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQbzE1RUpJMGsxR0hWNlFHNEdfVU80S2dlOWpvZTJnbEJmX01CQ1dsOTUzWmt3N041RHAtSGh6cEYzOXBjMV9kamVNTGhoeG4xVFRmSzYzaWVDSndMSFdEZFFtejJkQ0pIMHZva1hnOHNTV0dFcTZJQm1aRW92SU52X21QRU9NWjhUNE02ajhvRE1CeUd6OEhUV3pzQ1FfZUo2YTdsYjh1d1RfWGlhUjNJTjFYczA4bmlOcHNGdGY4U2t6cFJfNVR0aVFhb2JZUkN5Uk5FY0MySWlELWJEWm1LcWc5ek1fbExYb1NKZkhJaFBONVN6VF9yMXRrZGs0akFmUFozYXZGWlRyc05UOVVDVVBXZFNNZ2cxTVpCa3gzblFrSTc2ZUpuZExvRl9lUWxLTm0wcDRVVzI3UkdLMXdDVlJtWkNnTjMxYzcxVnpXaC01MnRUVTE2dGNLZmp5N2RGWTk3R0Y5S3V4MGxJX0o3X25qT1YtYzFMYV8teVNUa0tWaVBGWFJwQ0RCSE9qQnFoNjBobnN0bXFFNkh2SHlZZWRDcjhZaUlzeFdsREktM0hWNGRNckduSDVpR1FGbGRJM0ZmcFJMd3BTN0dVejltWmdzeUw3bnhPT21CQjN6aThINnk2aEQ2UU9uZWJteUpjcHA3SUNLbEpOdlB0SzJEbEE0Nk9sQkh0eC1VLU5PTUxHbkhMZWlJZ0FEQ3ZWZjJRWmlPSUduTWhabng5NkRnWEdEWVlLc2VIWno3cE5wUVbSAcYEQVVfeXFMT2p6d3N6ekx4cklVV0wwemE0MDhyQUMxQW9MUWZNWFVBTkhLakVYaF84eDlzdDVWeG5POEJ4VzdkX1lCSDViMXluUnB4aWNzU2hITnVxdW1JN1U3bXVZQWE5Z0N1a3BLT19zNzN2cWNQRXpIYjVwZzdxOUI1YVdyRmRYcmxkeHBfNXRtQVlGTExscS1RNXltUnB6TndaTk10c1FpUDRiSi1xcllFeDEtc0drM0tQZjJteGhublB4TEw3WF9CU3ZtdHc1NEpxOGlrbXdYZTlkd281aVk3bmdKeDU0bVhyNTRiUjVsaHQ1bEVtRW1GbXZ4eEJDR3lyUUF3V0FiY1ZCSlh0dmdtOFVMazlZdGp4TEFKMTVxRG5VSHRSc0lCbGJpOW1BT1FQU1Jxb0V3MFhSdjFxZlk3NV96eDhvT0JmcnZDVG14X2xvNDV1cFJ1VTQ5S0RSV2JsN3lKLWRISERRd0hfUG5kelJSdVIzVENzS29jYjZRU3gtNF8ySHJpZ3QxSU0tRkczSDFlbXZrdHdqTjk3RmgzQjRBczhlTy1STHJWSENlLTBiQThpbW1IdkRFZ25pRlh0WDBlaDNPMnpoYURudTdkeXREMGpNSE12em8xZTJhSGZHTDJwdkNwczJhWkV0aVl4RkVpNXRDbUxpeXhfM1dfUEFVU2owM241S0kwR3BPZHhSLUxtR3h2ZjlmWk5NcFMzUE1pbVdqV2U3N1pza2o5eDQyV1A1LTRudzhmQ3VLX2xSNWlZMnlUTXVR?oc=5",
-     "source": "العربية",
-     "time": "2026-11-23T05:58:00.000Z",
-     "seen": "2026-11-23T08:36:14.079Z"
     }
    ]
   },
@@ -537,10 +538,10 @@
     },
     {
      "title": "لماذا تعرض الذهب لهبوط حاد بعد انهيار أسهم الذكاء الاصطناعي؟",
-     "url": "https://www.bbc.com/arabic/articles/cmvg27e0ynpno",
+     "url": "https://www.msn.com/ar-sa/news/other/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%AD%D8%A7%D8%AF-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A/ar-AA2i1HTn",
      "source": "BBC",
-     "time": "2026-11-23T00:33:00.000Z",
-     "seen": "2026-11-23T08:46:14.222Z"
+     "time": "2026-11-23T00:33:03.000Z",
+     "seen": "2026-11-23T08:56:13.557Z"
     },
     {
      "title": "الخرطوم تحت نيران المسيّرات",
