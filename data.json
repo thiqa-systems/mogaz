@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:05:58.497Z",
+ "updated": "2026-11-23T05:15:59.262Z",
  "minute": [
   "تداولت الأخبار استقرار أسعار صرف الدولار مقابل الجنيه المصري في البنوك المحلية.",
   "إقليمياً، شهدت ليبيا توقف تدفق النفط من ميناء الشرارة واستهداف سفن، إلى جانب تقارير عن هجوم وتوترات في المنطقة.",
@@ -11,7 +11,7 @@
   "key": 2,
   "impacts": 7,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T05:05:58.497Z"
+  "errorAt": "2026-11-23T05:15:59.262Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5522,
-   "change": -0.98,
-   "asOf": "2026-11-23T04:55:51.000Z",
+   "value": 5517,
+   "change": 3.72,
+   "asOf": "2026-11-23T05:06:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6304,
-   "change": -0.98,
-   "asOf": "2026-11-23T04:55:51.000Z",
+   "value": 6299,
+   "change": 3.72,
+   "asOf": "2026-11-23T05:06:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3610,
-   "change": -2.04,
-   "asOf": "2026-11-23T04:55:51.000Z",
+   "value": 3607,
+   "change": 2.61,
+   "asOf": "2026-11-23T05:06:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0985,
-   "change": 0.14,
-   "asOf": "2026-11-23T05:05:45.000Z",
+   "value": 1.0988,
+   "change": 0.17,
+   "asOf": "2026-11-23T05:15:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.96,
-   "change": -2.2,
-   "asOf": "2026-11-23T04:54:01.000Z",
+   "value": 90.07,
+   "change": -2.7,
+   "asOf": "2026-11-23T05:05:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61199,
-   "change": 1.84,
-   "asOf": "2026-11-23T05:06:00.000Z",
+   "value": 61124,
+   "change": 1.71,
+   "asOf": "2026-11-23T05:15:56.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "تامر عبد الحميد: لو بدأ إمام عاشور مباراة بيراميدز فالبقاء لله في غرفة لبس الأهلي",
+     "url": "https://www.elbalad.news/7190923",
+     "source": "صدى البلد",
+     "time": "2026-11-23T05:15:00.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
+    },
+    {
+     "title": "الديمقراطيون يحققون أكبر أغلبية بمجلس النواب الأمريكي منذ 1992 بـ258 مقعدا",
+     "url": "https://www.elbalad.news/7190938",
+     "source": "صدى البلد",
+     "time": "2026-11-23T05:13:27.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
+    },
+    {
+     "title": "فخامة الرئيس السيسى يستقبل اليوم على الزيدى رئيس وزراء العراق فى زيارته الرسمية الأولى لمصر",
+     "url": "https://www.youm7.com/story/2026/11/23/فخامة-الرئيس-السيسى-يستقبل-اليوم-على-الزيدى-رئيس-وزراء-العراق/7628841",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T05:11:00.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
+    },
+    {
      "title": "التعليم توجه المديريات بالانتهاء من الإحصاء السنوي لأعداد الطلاب بالعام 2027",
      "url": "https://www.youm7.com/story/2026/11/23/التعليم-توجه-المديريات-بالانتهاء-من-الإحصاء-السنوي-لأعداد-الطلاب-بالعام/7626581",
      "source": "اليوم السابع",
@@ -160,32 +181,18 @@
      "seen": "2026-11-23T05:05:58.497Z"
     },
     {
-     "title": "موعد مباراة الزمالك والجونة اليوم في الدوري.. والقناة الناقلة",
-     "url": "https://www.elbalad.news/7190922",
-     "source": "صدى البلد",
-     "time": "2026-11-23T05:00:00.000Z",
-     "seen": "2026-11-23T05:05:58.497Z"
-    },
-    {
-     "title": "القمح الكامل أم ساوردو.. أيّ نوعٍ من الخبز أفضل لصحة الأمعاء؟",
-     "url": "https://www.elbalad.news/7190864",
-     "source": "صدى البلد",
-     "time": "2026-11-23T05:00:00.000Z",
-     "seen": "2026-11-23T05:05:58.497Z"
-    },
-    {
-     "title": "%89 من القراء يؤيدون تكثيف الحملات لضبط المتهمين ببيع الألعاب النارية عبر مواقع التواصل",
-     "url": "https://www.youm7.com/story/2026/11/23/89-من-القراء-يؤيدون-تكثيف-الحملات-لضبط-المتهمين-ببيع-الألعاب/7628839",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T04:03:00.000Z",
-     "seen": "2026-11-23T04:05:59.046Z"
-    },
-    {
      "title": "الحكومة المصرية تبدأ تطبيق قواعد جديدة لإتاحة بيانات المشروعات أمام المستثمرين",
      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUXpsOHBheE5lNW5UOC01U011WERpT3BidEJ6em83dUVBRG92b1ViZDZldjkzVFVxTm52cHowdmtBNTZGeVNTWXVIajU0ZTN6UXZPZ205aU9TMnpSc1UybTIzVGxxbGtFV3NvQWlmTXd2bkJUZnptSWJ4MHF1U1NvNnlhbGN3SWlWODZfSzhxTThQTVBRbzZqa0lsZ0lrTEJpUVRfRXR0RzItQUFSZW5sdTRnYUhvbVg2N0Qwck1rdjJybXR1dVl3LVdsOXppWEhRbEl4eDdaUlNjMjROaFJjYUdneXlnajkzUFFOX3V3b042VjVZU25hZVhMU2NKcW94LVlfUVBXMXBLTC01am9NXzZxMEZYU1JkN1UtYTZNZW1WOVliYmZFUEV2M1ZwT0FVcGJhMEl0aVdhWFNQaFJqSTkwMk5SS2tVb3JGQnlaOW5uUQ?oc=5",
      "source": "الوطن اليوم",
      "time": "2026-11-23T03:59:31.000Z",
      "seen": "2026-11-23T04:15:59.264Z"
+    },
+    {
+     "title": "الجنيه الجديد يعادل 3 دولارات.. شريف دلاور يحدد 4 شروط لاستعادة قوة العملة المحلية",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Pc0NucHZjSWdiNFY4SnJPdERFMTREMmxOTjhGajJoc1lKZlg2d0s2TmRTT1VPZnd5emhnc2wtVkJ2Qmo0RkZVSzBiUGUxN1ZpZkI5cGlONENGakZOWEpz?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T02:57:00.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
     },
     {
      "title": "حذف صفرين من الجنيه المصري.. شريف دلاور يقترح إصدار جنيه جديد يعادل 3 دولارات",
@@ -216,13 +223,6 @@
      "source": "CNN Arabic",
      "time": "2026-11-22T21:57:06.000Z",
      "seen": "2026-11-22T12:03:48.510Z"
-    },
-    {
-     "title": "«الموبايل مش رفاهية».. تحرك حكومي لضبط أسعار الهواتف وربط حوافز المصانع بالمكون المحلي",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YmRiSldBUEFxVkd3U0NBR3dPWTJvSjBkalZydV9zQzNYVEFyNndQZ1RySzRsdDN1U1U2anRQSFRwZjVoZkt2NzRLTUs4Q1dQTDBMc0dacm8xUl82R0lj?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-22T21:04:00.000Z",
-     "seen": "2026-11-22T21:15:17.228Z"
     },
     {
      "title": "خروج شريك \"نورهان\" قاتلة والدتها من مؤسسة الأحداث في بورسعيد",
@@ -353,6 +353,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مسعد بولس: تدفق الأسلحة إلى السودان يجب أن يتوقف",
+     "url": "https://www.skynewsarabia.com/middle-east/1906423-%D9%85%D8%B3%D8%B9%D8%AF-%D8%A8%D9%88%D9%84%D8%B3-%D8%AA%D8%AF%D9%81%D9%82-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%8A%D8%AC%D8%A8-%D9%8A%D8%AA%D9%88%D9%82%D9%81",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-23T05:05:33.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
+    },
+    {
      "title": "هجمات إيران على السفن في مضيق هرمز تبلغ ذروتها منذ اندلاع الحرب.. ما الذي يدفعها للتصعيد؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/iranian-attacks-strait-of-hormuz-highest-levels-since-the-conflict-began",
      "source": "CNN بالعربية",
@@ -381,6 +388,13 @@
      "seen": "2026-11-23T03:55:58.739Z"
     },
     {
+     "title": "6 أجهزة ذكية توظف الذكاء الاصطناعي لتطوير العمل من المنزل",
+     "url": "https://www.aljazeera.net/tech/2026/11/23/6-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d8%aa%d9%88%d8%b8%d9%81-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-23T02:00:00.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
+    },
+    {
      "title": "ليبيا.. تخريب خط أنابيب نفط يفقد البلاد 365 ألف برميل يوميا",
      "url": "https://www.skynewsarabia.com/middle-east/1906385-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%AA%D8%AE%D8%B1%D9%8A%D8%A8-%D8%AE%D8%B7-%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8-%D9%86%D9%81%D8%B7-%D9%8A%D9%81%D9%82%D8%AF-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-365-%D8%A3%D9%84%D9%81-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%8A%D9%88%D9%85%D9%8A%D8%A7",
      "source": "سكاي نيوز عربية",
@@ -395,6 +409,13 @@
      "seen": "2026-11-23T02:05:59.026Z"
     },
     {
+     "title": "من منفى إلى مأوى لا يقي البرد.. معاناة 1.37 مليون عائد إلى أفغانستان",
+     "url": "https://www.aljazeera.net/politics/2026/11/23/%d9%85%d9%86-%d9%85%d9%86%d9%81%d9%89-%d8%a5%d9%84%d9%89-%d9%85%d8%a3%d9%88%d9%89-%d9%84%d8%a7-%d9%8a%d9%82%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%af-%d9%85%d8%b9%d8%a7%d9%86%d8%a7%d8%a9-1-37?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-23T01:50:19.000Z",
+     "seen": "2026-11-23T05:15:59.262Z"
+    },
+    {
      "title": "أول بيان من \"الجيش الليبي\" بعد استهداف سفينة حربية روسية في بنغازي",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb25EM2g0UUxTU1ViVHNiLU92eTZuOEdFeVVwQ1g0LUwwN1ZrVi10M0JySGtpS05mVUZJaFRLUXR1VTNxZjlqWVl4djRvQkhWZ01vODNqNUN0dUpfQ2kySEJHTXVWTlVscGFGbUFoMlo1TWxBeDFXM1pnZ2ZIUGYwZkwxdXpJdHQ5akl4TllnTVo3ejFNY3g0aDcyYVBIcUdVbVdrcDdCakRjMkJ1cnRj?oc=5",
      "source": "CNN Arabic",
@@ -407,27 +428,6 @@
      "source": "الجزيرة",
      "time": "2026-11-23T01:22:46.000Z",
      "seen": "2026-11-23T04:45:59.237Z"
-    },
-    {
-     "title": "من الحديدة إلى هرمز: كيف تحوّل الخطأ الإستراتيجي في اليمن إلى تهديد لأمن التجارة والطاقة العالمية؟",
-     "url": "https://www.aljazeera.net/opinions/2026/11/23/%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d8%a9-%d8%a5%d9%84%d9%89-%d9%87%d8%b1%d9%85%d8%b2-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%ae%d8%b7%d8%a3?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-23T01:03:47.000Z",
-     "seen": "2026-11-23T04:45:59.237Z"
-    },
-    {
-     "title": "هجوم بنغازي.. مطلب دولي بتحقيق فوري ومستقل لمحاسبة المسؤولين",
-     "url": "https://www.skynewsarabia.com/middle-east/1906383-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D9%85%D8%B7%D9%84%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%88%D8%B1%D9%8A-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D9%84-%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-23T00:40:43.000Z",
-     "seen": "2026-11-23T00:45:17.789Z"
-    },
-    {
-     "title": "ضربات روسية مكثفة تستهدف محيط كييف ومحطتين لتوليد الكهرباء",
-     "url": "https://www.aljazeera.net/news/2026/11/23/%d8%b6%d8%b1%d8%a8%d8%a7%d8%aa-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d9%85%d9%83%d8%ab%d9%81%d8%a9-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d9%85%d8%ad%d9%8a%d8%b7-%d9%83%d9%8a%d9%8a%d9%81?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-23T00:40:42.000Z",
-     "seen": "2026-11-23T04:05:59.046Z"
     },
     {
      "title": "بعد حسم مقعد في كارولاينا الشمالية.. الديمقراطيون يحققون أكبر أغلبية منذ أكثر من 30 عاما",
@@ -559,17 +559,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
-  {
-   "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
