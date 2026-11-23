@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:05:17.445Z",
+ "updated": "2026-11-23T00:15:17.246Z",
  "minute": [
   "تضمنت الأخبار تحديثات حول أسعار صرف الدولار مقابل الجنيه في البنوك المصرية، إلى جانب نشر أرقام شكاوى خدمات محافظة الجيزة.",
   "تتابع التطورات قبالة بنغازي عقب استهداف سفينتين من بينهما سفينة روسية، وتصريحات لمجلس النواب الليبي وردود فعل دولية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T00:05:17.445Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T00:15:17.246Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5483,
-   "change": 3.07,
-   "asOf": "2026-11-22T23:56:15.000Z",
+   "value": 5469,
+   "change": 2.82,
+   "asOf": "2026-11-23T00:06:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6260,
-   "change": 3.07,
-   "asOf": "2026-11-22T23:56:15.000Z",
+   "value": 6244,
+   "change": 2.82,
+   "asOf": "2026-11-23T00:06:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3585,
-   "change": 1.97,
-   "asOf": "2026-11-22T23:56:15.000Z",
+   "value": 3576,
+   "change": 1.72,
+   "asOf": "2026-11-23T00:06:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": 0.08,
-   "asOf": "2026-11-23T00:05:44.000Z",
+   "value": 1.0981,
+   "change": 0.1,
+   "asOf": "2026-11-23T00:15:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.33,
-   "change": -3.5,
-   "asOf": "2026-11-22T23:54:27.000Z",
+   "value": 89.29,
+   "change": -3.54,
+   "asOf": "2026-11-23T00:03:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61085,
-   "change": 1.65,
-   "asOf": "2026-11-23T00:06:16.000Z",
+   "value": 61107,
+   "change": 1.69,
+   "asOf": "2026-11-23T00:16:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -246,6 +246,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم الاثنين 23 -11- 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hYTV4TWh3RWlXVXk2ck8tRC1IeUZTM1ZaYUVySmVoX0NHV2JTaXQ2SlFjZ2ctU1Y4anpOc3NvLWFfVjhfWTd6NzhZWHFhakZMNklSbHljOV9oRVVS?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-22T23:49:01.000Z",
+     "seen": "2026-11-23T00:15:17.246Z"
+    },
+    {
      "title": "هجوم على سفينتين واحدة منهما روسية في شرق ليبيا",
      "url": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -283,20 +290,20 @@
      "seen": "2026-11-22T23:05:17.614Z"
     },
     {
-     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 23 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQazhDc2gySHE2c0N3T0pUSVhXUGJFU0sxTHNlM0pqd1hKOG5qN1JXczBQbnpJbEJuRWVKSXgyNDV5X2JQOENZWmJlUzJQRjQxTG5sTER1aWl3VlNCUDR3aVdXOG5FQkJNNGVRUWY2T0c1eWtqYWxXWF9KeDlJbUNfOXZBdkJfakd6N1Zab0JrUFBBempha2tsem5ILVdONFo0OEZVV0psS0twenMyb1dramtORDdVV0YyVGtyMHQ4OE5zUnRkRFh4QUNuWE03TUdFalNRWm1tMHJ4T2Y4WmxwZUFvZDlxVU5ET0xpd1Etck56Q1hybm9LVW5ibnFwX1Azc0d6Y2R2dlhoMW5hRU9QYWh3anBjV2tBaENVYUp6VTdqeEFGNkJsZE85UDRLY05JVmZiNTRnOUx0VGx0WFhyc1hnVVNSRmUwUnlNQWktTEFCaHNMSUo4S2tGU051MmIycW1pVnRQNEVMRDRNeFZhcmxhbG9yMjducXFUeG5CSUV2am5WSDU4Um4xcXN6dnU0Z1dpdmdWdzdGWFhibnU0bEFBdnZZcDNYNEVDWTJraXU3MXB1enZEaFBuYk1WRklhZnV2b3BCWVBabXBZaGgxZ1R30gHMA0FVX3lxTE10MkFKNXdyYk1HN3FMellQMW5VamFUSlRkWkxJS1NEek1BZ1dxLWYtZUluVGFEU3AzYl9Xb2pBQ24tOU9vY1FUdkVpWUlaeGdNaUVjUnZJZkc1V1R2U2h2VWppSV9ySmNMem1nWmVlRWhpdlVIZFo1azlUbGRTcFRoZHhLcHhZZnFWXzJ5UmxhVTdNYzhNQVptbVZqMHZoWEphUjdlcXJvQXRxSUFDMFpHX05MaWkzbzJ6ZVI4U3hySGotLWpTNEhZaEd2ak1mN3piM1JpT0RWS0NkMGgwMWFYanA1eGpEUHlHYnNPXzBMOHpjNEgtV2N1UkxmRklqd2dkazM3T0ZRLVpjVnpnYjlpR1ByU1VORDhFbDJraWpndmFWbld4aFBkSlFEbl9uSU1Bb0ZMMGJFZElzaUtRdzhGU0duN3hQQUw4LUdscWZhQ0c0TmpnOTlNUExZXzg4Z0pfUjRwNTM1bHZfY25PSDlfVXdxVUl4VzVIaXVzeG5ncmEtUFhqSml4VE4zWElEdHRqVUJVMnF2aFMxUTJsUkVxN1E4MkxWd3Nlb2k2YkVzT3N5REFtNmFxSkIyQV82MFVQQnJUOWxGekJvQUo?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-22T22:00:00.000Z",
-     "seen": "2026-11-22T23:05:17.614Z",
-     "impact": "تساعد المستثمرين والأفراد على متابعة مستويات استقرار سعر الدولار مقابل الجنيه في البنوك."
-    },
-    {
      "title": "يقترب من 55 جنيهًا.. سعر الدولار يرتفع مجددا في جميع البنوك",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DX0Y0NGc0UWxZdEdhQlVwcUlxZExXMklGSlY5SzFXWERDQVRDWWtLMHZyWFE0NjloajZuNGdIOFN4cTB6M3dj?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-22T22:00:00.000Z",
      "seen": "2026-11-22T22:05:18.091Z",
      "impact": "تؤثر على القرارات المالية للمستثمرين والأفراد في مصر مع ارتفاع سعر الدولار واقترابه من 55 جنيهًا بالبنوك."
+    },
+    {
+     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الإثنين 23 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQazhDc2gySHE2c0N3T0pUSVhXUGJFU0sxTHNlM0pqd1hKOG5qN1JXczBQbnpJbEJuRWVKSXgyNDV5X2JQOENZWmJlUzJQRjQxTG5sTER1aWl3VlNCUDR3aVdXOG5FQkJNNGVRUWY2T0c1eWtqYWxXWF9KeDlJbUNfOXZBdkJfakd6N1Zab0JrUFBBempha2tsem5ILVdONFo0OEZVV0psS0twenMyb1dramtORDdVV0YyVGtyMHQ4OE5zUnRkRFh4QUNuWE03TUdFalNRWm1tMHJ4T2Y4WmxwZUFvZDlxVU5ET0xpd1Etck56Q1hybm9LVW5ibnFwX1Azc0d6Y2R2dlhoMW5hRU9QYWh3anBjV2tBaENVYUp6VTdqeEFGNkJsZE85UDRLY05JVmZiNTRnOUx0VGx0WFhyc1hnVVNSRmUwUnlNQWktTEFCaHNMSUo4S2tGU051MmIycW1pVnRQNEVMRDRNeFZhcmxhbG9yMjducXFUeG5CSUV2am5WSDU4Um4xcXN6dnU0Z1dpdmdWdzdGWFhibnU0bEFBdnZZcDNYNEVDWTJraXU3MXB1enZEaFBuYk1WRklhZnV2b3BCWVBabXBZaGgxZ1R30gHMA0FVX3lxTE10MkFKNXdyYk1HN3FMellQMW5VamFUSlRkWkxJS1NEek1BZ1dxLWYtZUluVGFEU3AzYl9Xb2pBQ24tOU9vY1FUdkVpWUlaeGdNaUVjUnZJZkc1V1R2U2h2VWppSV9ySmNMem1nWmVlRWhpdlVIZFo1azlUbGRTcFRoZHhLcHhZZnFWXzJ5UmxhVTdNYzhNQVptbVZqMHZoWEphUjdlcXJvQXRxSUFDMFpHX05MaWkzbzJ6ZVI4U3hySGotLWpTNEhZaEd2ak1mN3piM1JpT0RWS0NkMGgwMWFYanA1eGpEUHlHYnNPXzBMOHpjNEgtV2N1UkxmRklqd2dkazM3T0ZRLVpjVnpnYjlpR1ByU1VORDhFbDJraWpndmFWbld4aFBkSlFEbl9uSU1Bb0ZMMGJFZElzaUtRdzhGU0duN3hQQUw4LUdscWZhQ0c0TmpnOTlNUExZXzg4Z0pfUjRwNTM1bHZfY25PSDlfVXdxVUl4VzVIaXVzeG5ncmEtUFhqSml4VE4zWElEdHRqVUJVMnF2aFMxUTJsUkVxN1E4MkxWd3Nlb2k2YkVzT3N5REFtNmFxSkIyQV82MFVQQnJUOWxGekJvQUo?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-22T22:00:00.000Z",
+     "seen": "2026-11-22T23:05:17.614Z",
+     "impact": "تساعد المستثمرين والأفراد على متابعة مستويات استقرار سعر الدولار مقابل الجنيه في البنوك."
     },
     {
      "title": "أخبار الاقتصاد اليوم: الرقابة المالية تصدر العقد النموذجي للمتعاملين في التمويل الاستهلاكي، ارتفاع سعر صرف الدولار في البنك المركزي، زيادة جديدة بسعر جرام الذهب",
@@ -343,14 +350,6 @@
      "source": "صدى البلد",
      "time": "2026-11-22T19:44:00.000Z",
      "seen": "2026-11-22T19:45:17.572Z"
-    },
-    {
-     "title": "«المارجن كول» يعمق خسائر البورصة.. وEGX30 يفقد 2.85%",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IbnNDTktNclRmS3hQX2gzRUFJcHBldms0SjJMMDJMd3Mxc0VIUTQteTQ1RXRoZ0pIUWZXZFNTVUFiRGJiZUVVUi1jdmVJWlAyWk5GS21n?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-22T19:25:08.000Z",
-     "seen": "2026-11-22T19:35:04.111Z",
-     "impact": "تراجع مؤشر البورصة EGX30 بنسبة 2.85% يعكس انخفاض القيمة السوقية لمحفظة الأوراق المالية للمستثمرين."
     }
    ]
   },
