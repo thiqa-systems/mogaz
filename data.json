@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:58:14.243Z",
+ "updated": "2026-11-23T17:08:14.895Z",
  "minute": [
   "تراجع سعر صرف الدولار الأمريكي مقابل الجنيه المصري بختام التعاملات، بالتزامن مع الإعلان عن تدشين 3 خطوط طيران جديدة من بولندا إلى شرم الشيخ.",
   "وعلى الصعيد المحلي، استعرض منتدى الحماية الاجتماعية استدامة المعاشات، وسط توقعات بخصائص طقس غد تشهد انخفاضاً بالحرارة وأمطاراً وشبورة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T16:58:14.243Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T17:08:14.895Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5584,
-   "change": 4.96,
-   "asOf": "2026-11-23T16:49:15.000Z",
+   "value": 5594,
+   "change": 5.17,
+   "asOf": "2026-11-23T16:58:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6375,
-   "change": 4.96,
-   "asOf": "2026-11-23T16:49:15.000Z",
+   "value": 6387,
+   "change": 5.17,
+   "asOf": "2026-11-23T16:58:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3663,
-   "change": 4.19,
-   "asOf": "2026-11-23T16:49:15.000Z",
+   "value": 3670,
+   "change": 4.39,
+   "asOf": "2026-11-23T16:58:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0892,
-   "change": -0.71,
-   "asOf": "2026-11-23T16:58:47.000Z",
+   "value": 1.0891,
+   "change": -0.72,
+   "asOf": "2026-11-23T17:07:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.92,
-   "change": -6.1,
-   "asOf": "2026-11-23T16:49:16.000Z",
+   "value": 86.83,
+   "change": -6.2,
+   "asOf": "2026-11-23T16:58:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7252,
-   "change": 4.94,
-   "asOf": "2026-11-23T16:59:16.000Z",
+   "value": 7245,
+   "change": 4.84,
+   "asOf": "2026-11-23T17:08:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62194,
-   "change": 1.69,
-   "asOf": "2026-11-23T16:59:12.000Z",
+   "value": 61713,
+   "change": 0.9,
+   "asOf": "2026-11-23T17:08:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "كورتوا: أعرف مورينيو منذ زمن طويل.. وهو واضح وصريح عندما يتطلب الأمر",
-     "url": "https://www.elbalad.news/7191755",
+     "title": "د. عبد المنعم السيد: الحماية الاجتماعية لم تعد دعما نقديا.. والهدف تمكين المواطنين اقتصاديا",
+     "url": "https://www.elbalad.news/7191779",
      "source": "صدى البلد",
-     "time": "2026-11-23T16:57:39.000Z",
-     "seen": "2026-11-23T16:58:14.243Z"
+     "time": "2026-11-23T17:07:58.000Z",
+     "seen": "2026-11-23T17:08:14.895Z"
     },
     {
-     "title": "مسيّرة روسية تسقط على بعد أمتار من وزير الدفاع البريطاني في كييف",
-     "url": "https://www.elbalad.news/7191758",
+     "title": "كابوس تاكاتا يطارد هوندا مجددًا.. استدعاء ما يقرب من مليون سيارة",
+     "url": "https://www.elbalad.news/7191777",
      "source": "صدى البلد",
-     "time": "2026-11-23T16:56:45.000Z",
-     "seen": "2026-11-23T16:58:14.243Z"
+     "time": "2026-11-23T17:07:49.000Z",
+     "seen": "2026-11-23T17:08:14.895Z"
     },
     {
-     "title": "القبض على سيدتين يتسولان بالجيزة",
-     "url": "https://www.elbalad.news/7191767",
+     "title": "«خروج آمن» يواصل حصد الجوائز والمشاركات الدولية بعد تتويجه بالجونة الذهبية",
+     "url": "https://www.elbalad.news/7191769",
      "source": "صدى البلد",
-     "time": "2026-11-23T16:56:22.000Z",
-     "seen": "2026-11-23T16:58:14.243Z"
+     "time": "2026-11-23T17:05:48.000Z",
+     "seen": "2026-11-23T17:08:14.895Z"
+    },
+    {
+     "title": "شيخ الأزهر في استقبال رئيس وزراء العراق: وحدة الأمة غايتنا الأسمى",
+     "url": "https://www.youm7.com/story/2026/11/23/شيخ-الأزهر-في-استقبال-رئيس-وزراء-العراق-وحدة-الأمة-غايتنا/7629986",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T17:05:00.000Z",
+     "seen": "2026-11-23T17:08:14.895Z"
+    },
+    {
+     "title": "مدبولي يترأس اجتماع المجموعة الاقتصادية ويعلن موعد الانتهاء من برنامج التحول الاقتصادي",
+     "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxPU2YzaHZRQm9RZjdFbnhaNkVXd2NydDdYTE1uS05EMkZIYXlUdXZfTktfa0x4UjN5UDNyVU1zRGpoclBFZ2Q2c1JwZkFidkpfUVpSRV9Xd1ZFVXppWDZBTU90WWhfa0d3U1RhYW9vcS1PM3ZzUk9SMG4yQzU4blowQVUyd2pQeFBZcEYzem1zTjRnd0VDZUMyNE9WcC1yMXAtMThfVnRRQUdmTUFMekZLTjBOcTczYXNxU0tNaWVadXE2SFVaUUNsWGV5RDJYelBPWVdLbjhEU2oxamgyNzZwc1hfZDdqWTMtY2sycnJ4d1MxekZkX2NKU21uZ0M1SUcxa1RpSEJENzhXU0RHazQtMW00b1FLa1MwcUxraTg4RkFpX0tCejJlVWs0c2ZUT3FyMXp1aHBfS0s1aEw3MERuamVDN1BmSG5NTGVxTkNNdmp5WGZ3QUhjaFBubEpic0hoVWRhMlhVY0tNWXFqaUdNTEVUckdRMlduRGR1Mmk0TkxFRGNNMFlGbGJOYzZiYTZUODQ3UFRMM0JHbjIwZ0U5b2tSVmtoRTE0ZjJzTFE3Yk80QTJVUmYycXlGWnZqTll3VGZhdWtwcktRQlR1YThUWUJsMEgxVGczUVNDb3REYk1hMkdCbmtlTFNLOEV0aDRUWHlIUmJESVVKaDNKRGY5dVV2TF80UklnV1E5bWM1Z29kNEhONmpNZHA5SkQzZzRxV2t6X2F1Q0wzakE4Qm5ldjRnSnFOVTFaYXYtQUxaR3k4WE8yNFI2cy05M3EtdWFMeHJNR0paeGs4bVdiazVHQng0NUtsMTF1WHAyb3J3eVpLOEdpQ2pqTXJmZm1zVG5oWDZ1TkFkMWdNeHctS0R0UUVVMNIB4wVBVV95cUxQbS1PUXVuMFp3MUQ3eVI2VzhKcmUtMWQwQ3dTRUlEWkRYazhPVkRlSFJUMEc4S1pFcjZyb3BHSllwWGVKa1FHcDdzV3BlaEQtZDJQQzNhTU9hcnZLUlplYkE5Qk9XWEF6cWhlTmQyU2xmTVdITlhSTTVtcUU5aF82MzFMRU1rRlFpN3Q3R3FBQ2dZd2JZc3JZdHJMZ2s4elJTNEhndE9YRTJNRFRlNVpjQUtuVUdJdDdRM1hyWjJKR2otMVpsZXNjekZaa1RMcEIwVEd6OWNwU3Y1aWE3S0pIX2d5VDFlckFXN1lfeUtvNEZYQ3VUZEJaTEpiTXFFcWFrbW4zSWQxUDNtMVpLbXJ3Y3RWWElkQTZlWXpvcE1GS2Q2QUhpcE9PbXdPWkd1Z1FUMmhPUFF1WnpsRGhvTE5VaGJ0NV9hRUxraWp2dU1GN2RSai1tR0dRVHZLZUxLQ3dOeXpQZ0J6YWhGRUo4NGYzZHd1NnNndDI3dG9oRzdDY25VdzV2X0F4djdreXE1X3RjNi00ZDNwUUtXN1dxSW1uc2M1akdSS1BEalNrb1pkbS02R1BZSWQ4WlV1SUNaNXFkQzhmNTFHVnNGb21EQ3ludXl0ZUNOdUtOQkZxSC12dWE4emJkYWQyQmttS0FNOVRYcFhjTEZYMUotZjlxTXptb2pJVV8zRERvSkFicGxMVXRGWjhOcEdINFlFdXdaMVhVU0M3LUE5c3J5WUlVWDJzUzlDUWZiMmpHVkJPZXNfcW4zeE1OMXBTLUpNU0drcG5FanlaWWNvY1d6UkdteDFsd3NPaVh1a29DVzlLZVhlQlpYekZHRE9CMl93MGlJdTFoMUgyclk0Z3I3dXV6R0lDcnFLS1E4bUMzUF9xS2VGZTRIV1kxVmpFOUZ5MWFJVWlUUk00ZlJDQWRLcFpVTGxDOENobThTZUZWR2REOF9yQS1abDFnYkxPY2d4UWZxSlU0VG9v?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-23T16:57:34.000Z",
+     "seen": "2026-11-23T17:08:14.895Z"
     },
     {
      "title": "رئيس الوزراء: الانتهاء من برنامج التحول الاقتصادي قبل نهاية ديسمبر المقبل",
@@ -172,13 +186,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T16:54:00.000Z",
      "seen": "2026-11-23T16:58:14.243Z"
-    },
-    {
-     "title": "رئيس وزراء العراق يصلى في مسجد الحسين بالقاهرة ويتفقد الحجرة النبوية.. صور",
-     "url": "https://www.youm7.com/story/2026/11/23/رئيس-وزراء-العراق-يصلى-في-مسجد-الحسين-بالقاهرة-ويتفقد-الحجرة/7629959",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T16:45:00.000Z",
-     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
      "title": "الرخصة الذهبية للاستثمار.. من يحق له الحصول عليها وما شروطها ومزاياها؟",
@@ -228,13 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-23T11:35:00.000Z",
      "seen": "2026-11-23T13:08:14.196Z"
-    },
-    {
-     "title": "فضيحة شهادات مزورة تهز الجامعات المصرية.. تحقيقات واسعة",
-     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxORmNDR2FnZ0stWnlhOXczeXpzU3gxZzRtQmZxQ2E4VDdGZ2dsRmJfRHh0cFh2amt2WVp4dGN1VnJMZVphSjIzQUlKV1N2RzZySVYzUXQ1SEhHaWs3ZFJic2d6ZHNkcUxMLXRKajZnd0xmRkhfMFJFWGlDQkozWG1pbWZQcjFQQ3dZckRUdURGT1pPX2VlV3g4ZGROY2VqaGVCQVRiQ25uSHZSc3ZVYWtDTmoxQVotRjdDUWs2S0RBd2R3WXZobHFBc05FdFZvNWxSX1d2NU9IRks2Wi1NZkMwc25zYmw0OFdjaTZIRWZ0SXlVWjhaWTFfSUxBZXZ6bHI5ai1SeHFtaTNCVTVOeGh0NUZMYmQyZ3Y0ekJEMGFOZDVWRUlfcmZobXd5VU1KNVl1QUI2dHZFVUxtOGZlMGo1VU5ZUy1FUXB0b1RucVM1YUl2aENFMjR6RXlGams3bEdrSEJfYVBxM0dUSWM1MlhRSWhlekVJYm5lTDZ1Q0EzWXBnR282NHZuRVJfalNCdHdTREZ4aU85MXg1UlA4VGI2OWdyQnNkcTVPMm5vaTcxcW5hTklUOUhpZVYwc0FISEd4czQtSm5BYUNIcXlsRHVNNGp3OU5sUdIB2wNBVV95cUxNdmxkdXlwREUyUmg2RXpYNzhEc3I0MXdPc3RvZVhTOHVxQ2VtMnZodUp4WTZ5anU3MkRib0ZUZVFvS2w2UEV6N2tyTE0wZkJQUVR1MUdFVzhLTjB1QnFyUldyUGg1SGd4RjRKT09ueVEyYVdTMEpwOUZjZVFHcVNBeGtISWpUOWx4MjdBeEkyX255WXBtRlpJZFNULV9jOFZ6WkFuQmRxWDNNc3dyU2ZvZDB0d3BxanVubzJXZUY5M0pWNWVTR0pHMVdET2xPTmxmZ05zRFFua1F4N2JTc3IyTDlXcU81dGJ4WUhMWnpacnR5eVJyX3VYR3BLMHBLTVlOMGNBQnEyNzJpbUJuaXVqMGZYOW1CcFhaVEhYRll6a1BrSjMwSmhJSnhVOGhwRHFaTnpsYWtLY1ByTlZ1U0VxNFlCbWNuQTFIRl9TNEV0VVF3MmRwR1pObW5FTkRZVHpXSVNhMjBpc0owX1RTMzAxZ1hCTWQzd0dhSDlaa003ZktlYVFKNU5NWFR3Tnd0MlY0NURfM0I2X0pNMWl0M2lNYjg5eG9XQTBUUnYzQWI1Wk9ZZHVqVVFmanRYVVFSOV9HdzJ5cl9GaV9WY0ZEV0ttYmxQbHJOOWVXUnEw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-23T11:34:55.000Z",
-     "seen": "2026-11-23T13:28:13.532Z"
     }
    ]
   },
@@ -349,6 +349,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "رئيس وزراء العراق: اتفقنا على إلغاء التأشيرة مع مصر",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/prime-minister-of-iraq-we-have-agreed-to-abolish-visa-requirements-with-egypt",
+     "source": "CNN بالعربية",
+     "time": "2026-11-23T17:02:53.000Z",
+     "seen": "2026-11-23T17:08:14.895Z"
+    },
+    {
      "title": "اتصال هاتفي بين محمد بن زايد والشرع.. ماذا بحثا؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/phone-call-between-mohammed-bin-zayed-and-al-sharaa",
      "source": "CNN بالعربية",
@@ -405,13 +412,6 @@
      "seen": "2026-11-23T15:48:13.518Z"
     },
     {
-     "title": "لبنان.. انتقادات لزيارة مُتحدثة الجيش الإسرائيلي إلى مدرسة في الجنوب",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/lebanon-criticism-over-israeli-army-spokespersons-visit-to-a-school-in-the-south",
-     "source": "CNN بالعربية",
-     "time": "2026-11-23T14:53:12.000Z",
-     "seen": "2026-11-23T14:58:13.286Z"
-    },
-    {
      "title": "وفاة طفل بغزة بالتسمم بالرصاص.. تحذير من خطر يهدد النازحين",
      "url": "https://www.skynewsarabia.com/middle-east/1906593-%D9%88%D9%81%D8%A7%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D8%BA%D8%B2%D8%A9-%D8%A8%D8%A7%D9%84%D8%AA%D8%B3%D9%85%D9%85-%D8%A8%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AE%D8%B7%D8%B1-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86",
      "source": "سكاي نيوز عربية",
@@ -436,7 +436,7 @@
      "title": "الشيخ أحمد عبد الله الصباح.. غضب رئيس الوزراء الكويتي في احتفالية السفارة العُمانية يشعل مواقع التواصل",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfWnRBRjIxLXJKaDBRc294LTltX1ZQTk1hR21XXzJyU0ZMYlI1VE1LcE5YYklMMk5NU3BXOFJaM3A2RlhHYlB6NVZKZktyNnZ1MG96dDRRbFNzajUtbFHSAWNBVV95cUxNOFhEaVBESUNXS2JRUEdnZ2t1ai05bDJpWEpybDdLOUoySWhJNDg3cmw4eng3bUtSN3VNcUI3QTYyNThsSzMwMnlTN05XM29NcUIzRnVaNHhZQ1k1U0tYS3NvUzA?oc=5",
      "source": "BBC",
-     "time": "2026-11-23T14:10:11.000Z",
+     "time": "2026-11-23T14:10:57.000Z",
      "seen": "2026-11-23T15:48:13.518Z"
     },
     {
