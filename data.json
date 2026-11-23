@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-23T15:18:13.616Z",
+ "updated": "2026-11-23T15:28:13.983Z",
  "minute": [
-  "أعلن وزير الكهرباء المصري عن بدء التشغيل الفعلي للربط الكهربائي بين مصر والسعودية الأسبوع المقبل.",
-  "شهدت تعاملات اليوم تراجعاً في سعر الدولار أمام الجنيه المصري في البنوك، بينما سجل الدينار الأردني 76.48 جنيه في البنك المركزي.",
-  "وصل رئيس وزراء العراق إلى القاهرة حيث زار مقر الجامعة العربية والتقى شيخ الأزهر لتعزيز الخطاب المعتدل.",
-  "أطلقت شركة هونر سلسلة هواتف Honor 700 في الصين ببطارية سعتها 9000 ميلي أمبير وشاشة خلفية."
+  "تراجع سعر صرف الدولار الأمريكي مقابل الجنيه المصري بختام التعاملات، بالتزامن مع الإعلان عن تدشين 3 خطوط طيران جديدة من بولندا إلى شرم الشيخ.",
+  "وعلى الصعيد المحلي، استعرض منتدى الحماية الاجتماعية استدامة المعاشات، وسط توقعات بخصائص طقس غد تشهد انخفاضاً بالحرارة وأمطاراً وشبورة.",
+  "كما أحرزت مصر المركز الأول في بطولة إبراهيم مصطفى الدولية للمصارعة، وأطلقت شركة هونر سلسلتها الجديدة Honor 700 في الصين."
  ],
  "ai": {
-  "at": "2026-11-23T14:48:13.749Z",
+  "at": "2026-11-23T15:28:13.983Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T15:18:13.616Z"
+  "impacts": 7
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5588,
-   "change": 5.06,
-   "asOf": "2026-11-23T15:08:13.000Z",
+   "value": 5594,
+   "change": 5.16,
+   "asOf": "2026-11-23T15:18:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6380,
-   "change": 5.06,
-   "asOf": "2026-11-23T15:08:13.000Z",
+   "value": 6387,
+   "change": 5.16,
+   "asOf": "2026-11-23T15:18:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3666,
-   "change": 4.28,
-   "asOf": "2026-11-23T15:08:13.000Z",
+   "value": 3669,
+   "change": 4.38,
+   "asOf": "2026-11-23T15:18:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0916,
-   "change": -0.49,
-   "asOf": "2026-11-23T15:17:44.000Z",
+   "value": 1.0913,
+   "change": -0.52,
+   "asOf": "2026-11-23T15:27:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.06,
-   "change": -5.95,
-   "asOf": "2026-11-23T15:08:16.000Z",
+   "value": 86.63,
+   "change": -6.42,
+   "asOf": "2026-11-23T15:18:33.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7255,
-   "change": 4.98,
-   "asOf": "2026-11-23T15:18:15.000Z",
+   "value": 7278,
+   "change": 5.32,
+   "asOf": "2026-11-23T15:28:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62946,
-   "change": 2.92,
-   "asOf": "2026-11-23T15:18:13.000Z",
+   "value": 63400,
+   "change": 3.66,
+   "asOf": "2026-11-23T15:28:30.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,39 +137,43 @@
    "title": "مصر",
    "items": [
     {
-     "title": "جامعة المنيا: افتتاح وحدة عناية جراحات القلب بعد تطويرها بـ 16 سريراً",
-     "url": "https://www.elbalad.news/7191559",
+     "title": "مصر تحصد 74 ميدالية وتتوج بالمركز الأول في بطولة إبراهيم مصطفى الدولية للمصارعة",
+     "url": "https://www.elbalad.news/7191650",
      "source": "صدى البلد",
-     "time": "2026-11-23T15:17:23.000Z",
-     "seen": "2026-11-23T15:18:13.616Z"
+     "time": "2026-11-23T15:27:27.000Z",
+     "seen": "2026-11-23T15:28:13.983Z"
     },
     {
-     "title": "2666 وظيفة.. شروط القبول في وظائف السكة الحديد الجديدة 2026",
-     "url": "https://www.elbalad.news/7191637",
+     "title": "محافظ الأقصر يستقبل اللواء خالد فودة مستشار رئيس الجمهورية للتنمية المحلية لبحث عدد من الملفات والمشروعات التنموية بالمحافظة",
+     "url": "https://www.elbalad.news/7191545",
      "source": "صدى البلد",
-     "time": "2026-11-23T15:17:15.000Z",
-     "seen": "2026-11-23T15:18:13.616Z"
+     "time": "2026-11-23T15:27:05.000Z",
+     "seen": "2026-11-23T15:28:13.983Z",
+     "impact": "يهم الأفراد والمستثمرين المحليين في الأقصر لمتابعة خطط المشروعات التنموية بالمحافظة."
     },
     {
-     "title": "فتحي سند: الضغوط قد تحسم مواجهة الأهلي وبيراميدز.. وعموتة أمام اختبار حقيقي",
-     "url": "https://www.elbalad.news/7191626",
+     "title": "وزير الصحة ومحافظ المنوفية يتابعان الموقف التنفيذي للمشروعات القومية",
+     "url": "https://www.elbalad.news/7191612",
      "source": "صدى البلد",
-     "time": "2026-11-23T15:17:13.000Z",
-     "seen": "2026-11-23T15:18:13.616Z"
+     "time": "2026-11-23T15:26:57.000Z",
+     "seen": "2026-11-23T15:28:13.983Z",
+     "impact": "يهم المواطنين في المنوفية لمتابعة الموقف التنفيذ للمشروعات القومية والصحية بالمنطقة."
     },
     {
      "title": "منتدى الحماية الاجتماعية يستعرض استدامة نظم الحماية الاجتماعية والمعاشات",
      "url": "https://www.youm7.com/story/2026/11/23/منتدى-الحماية-الاجتماعية-يستعرض-استدامة-نظم-الحماية-الاجتماعية-والمعاشات/7629804",
      "source": "اليوم السابع",
      "time": "2026-11-23T15:13:00.000Z",
-     "seen": "2026-11-23T15:18:13.616Z"
+     "seen": "2026-11-23T15:18:13.616Z",
+     "impact": "يهم أصحاب المعاشات والمستفيدين من شبكات الأمان الاجتماعي لمتابعة استدامة نظم الحماية والمعاشات."
     },
     {
      "title": "الطقس غدا.. انخفاض بالحرارة وشبورة وأمطار ببعض المناطق والصغرى بالقاهرة 15 درجة",
      "url": "https://www.youm7.com/story/2026/11/23/الطقس-غدا-انخفاض-بالحرارة-وشبورة-وأمطار-ببعض-المناطق-والصغرى-بالقاهرة/7629644",
      "source": "اليوم السابع",
      "time": "2026-11-23T15:00:00.000Z",
-     "seen": "2026-11-23T15:08:14.129Z"
+     "seen": "2026-11-23T15:08:14.129Z",
+     "impact": "يهم الأفراد لاتخاذ الاحتياطات اليومية ومراعاة حركة السفر والقيادة في ظل انخفاض الحرارة والأمطار والشبورة."
     },
     {
      "title": "الفلسطيني لا يريد الموت أو النجاة خارج وطنه.. شهادات فلسطينية عن دور مصر في إحباط مخططات إسرائيل.. مذكرات بايدن تكشف ضغوط التهجير.. سياسيون فلسطينيون: الدولة المصرية أحبطت مخطط إفراغ رفح من مليون مواطن",
@@ -244,10 +245,18 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تراجع سعر الدولار الأمريكي أمام الجنيه المصري بختام تعاملات اليوم23 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNbFhxMU9PemU0MzdGVFFLMUJVNmZWVjVXNHg3NUFoWUFZcndzZkhubTdHRXR4Z0hoSHpyUW81WkdfenpHazM4cXZyOHRBaEVhYUxreG05cDVTdU9xaGcyWUdralQ0aVlieGRsU2dLOGVmcEw1cHA1ZnRiRElVNTdSRlJ1djF5bjA3TXItMUNkdXBWZW01YWJWRS0zNm1sRlM2c3hjUkxnaEJZbFN1bUxQRGhkZG5STmRQaGkzX2tqaXdIeUdnWTgzX1dnelR3NThST1pzN1Q1U2JvTXFHa1ZibWl1N0dpUmhJZVE2Sl9QM19YS0dHR0NBMWFfc2pXUk56SHBuOTNrN2hOZDNwVFFqOVZyb1FuSlMwc09ac3hpam12dzhxZmEtVzFBVkRIa1BRSGw4OG1PQ25EYVZjRW56RWFnQmdVUEZhb1hWbHdHcU5McW9JQ013bVVIdnlXaHpaaGZlZlZaSmwzNGt4RmZBV29leVNxMnc?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-23T15:20:46.000Z",
+     "seen": "2026-11-23T15:28:13.983Z",
+     "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة حركة تراجع سعر الدولار وتأثيرها على تكلفة المعيشة والأعمال."
+    },
+    {
      "title": "أسعار الدولار مقابل الجنيه المصري في 5 بنوك.. الأخضر بكام النهاردة؟",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4Q3ZyZ0ZsT21YRnZqOE1YQjJRM2hyM2l0MXplaTg4eGFCMDdYakdiX1FWQ1ZjZHg2LTZ1MHBGSXhlQWc0cHc?oc=5",
      "source": "القاهرة 24",
-     "time": "2026-11-23T15:13:23.000Z",
+     "time": "2026-11-23T15:16:31.000Z",
      "seen": "2026-11-23T15:18:13.616Z"
     },
     {
@@ -263,7 +272,8 @@
      "url": "https://alborsaanews.com/2026/11/23/2008507",
      "source": "البورصة",
      "time": "2026-11-23T14:32:51.000Z",
-     "seen": "2026-11-23T15:08:14.129Z"
+     "seen": "2026-11-23T15:08:14.129Z",
+     "impact": "يهم العاملين والمستثمرين في القطاع السياحي لتوقع زيادة في حركة السياحة الوافدة إلى شرم الشيخ من بولندا."
     },
     {
      "title": "سعر الدينار الأردني مقابل الجنيه المصري اليوم الاثنين 23-11-2026.. البنك المركزي يسجل 76.48 جنيه",
@@ -271,7 +281,7 @@
      "source": "القاهرة 24",
      "time": "2026-11-23T14:26:21.000Z",
      "seen": "2026-11-23T14:28:13.405Z",
-     "impact": "تحديد سعر الدينار الأردني أمام الجنيه يهم المغتربين والمسافرين والمستثمرين المهتمين بالتحويلات المالية بين البلدين."
+     "impact": "يهم المغتربين والمتعاملين بالعملات العربية لمتابعة أسعار صرف الدينار الأردني مقابل الجنيه المصري."
     },
     {
      "title": "\"لاينفع معكم إلا القوة\"، غضب رئيس الوزراء الكويتي في فعالية يشعل مواقع التواصل",
@@ -336,13 +346,6 @@
      "source": "الأهرام اوتو",
      "time": "2026-11-23T12:14:30.000Z",
      "seen": "2026-11-23T12:18:13.567Z"
-    },
-    {
-     "title": "استقرار سعر الدولار فى البنوك اليوم الإثنين.. سجل 54.30 جنيه للشراء بالبنك الأهلى",
-     "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOV0lrdXJRU3g4WXZ6ZmJySWFRU0w4ei0yeFlnblUwZWRid05pMjBCbnl6bVpveEhpd1lMREZZMURsS0tuMnVqLWRSMTZPMHFVTDRsNW5OWFk4NGd4UEduYUVxNlFlMElNSDhpcktSOVVRQ0V4YnhWZjI4cXlNeDBuaGlwRWxEblFQamJPdnp1UVB6dE96RXRXOWt4QkxSN0lldXR2MzBuLXFBS1habk9yM3VFQUdlbGJtV3ktN0ZsOG0wdnVfdFhIMVppX080UDRFVTdqM29hdW9BeDg3YWxCRFNqTWF0Rk04ZDIwQkpBLVZXajJoN3dxY3dldXVMTXBab3Q0aktwdm1sYm12RkFadUdCTGZsRnhqbnYtY0ctNlhQN1lTcUdVNUM5eVktd21MZXROR0ZZYVpFWFZRbmJWeWtMS2l1R0xXVzN5bjZ0TmRjZmR6STg0a3picWlVY0g4bkZoaGVKZGVKazUwUWJOMEZZTXAyc0R3Y2xmeFhnMC1BR2lnZmdQTWZEeTdBQktlMXBGRmVKaUFCbHAyRWxxOXJsbVVldzBpMkszSdIBpwNBVV95cUxPekdCSnhlYlJkVDBTV24tekdXOXN1U2RWS3JxX2l6eFFHdnFMUkZ5dDRLYWVpZTctNmdxRmxKcjF3TzNRWVhEQXVMN0ZtdkhMWmxNVTRVLW91TXJxUF80blFRU2V4Yjl5U0VESW1HY1IycHg1enpqUzVwNG1HRlBvbkVwUWhGQWkxMk50a3pENmRWSTYycV9TTUpjU1R2UTlGaVAtV2JTOVhob1RUc2dIbnk0Qmc5ay1BWFA1alJnYjdRdTJIbkQtamlPUW10QnVHZl9yNXplQjZ6N3hIdGJDbUprMFc5V1pnZGFTMG5raXpsRWFZbTJvTFM2R1dWMjRuaU9PdlJnWWFsUFkyRDUwOEhhVHVBMzg4cjRzZFZTUEhwQ19feXFnbGlibDNCblUzbXJxN3E5QmpSVElpSTQ2dVRzZlMzSFhISzV4Mk9tekQ0MWJoWUhvWFJZUS1OZ0tlb3AtaDdCYVVWY0J5eWNkRTdGTk9YNWxwZFd4NjI5OERVa3pHcWV0QlJ5YjFnX0I0bFh1T1czQkl3NmdWdW4yQXhTc204Wlk?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T12:04:00.000Z",
-     "seen": "2026-11-23T12:28:14.190Z"
     }
    ]
   },
@@ -400,11 +403,25 @@
      "seen": "2026-11-23T14:38:13.954Z"
     },
     {
+     "title": "كارني يلتقي «مقلِّد ترمب» في حفل عشاء الصحافيين (فيديو)",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNzBocVU3OW4yNEdrRURpbEtxaTVrZktjczRqajNTWERZTWlTNjdOM0pMNHY1WGRUbElUWjJBbWNHTmdqVGkzdkk1WDRzNzVXVm5zQ3Z4eXlVclM3UWxlYV9LZ0NZbndwcmVET1k0eFVMRDFvLTNFb1dFbU5jVDlRb3FHTV81dlgzc0VKZDVJV2JNZmVUUDlQbkxLUVllRVl6Nmw0b1pIR0hFZnBmdG96Z2VqN09GSW9mQ0w0UlYtR2lZN2dSV3czRkNsWVhMSXBiZEQ3dXFZekZocFRQbFFuRzYzQ2hYNXhBYzlWcjZCczVrb1FlZmFzd21manRWYngtSUFheXBYUXlOUjhBLVl6NS00NWk5WGFMNE9jMkwybHNwQ3dpVl9nYW1LU1pHTW5JLWpQOF9NSjFWV29hTkRqY1Biall1VVM4SzVGdjREM1pGN1k3UjhTTUN0Sm1za1lpYWUzQ0k5ZEx1QnE2V3JOc2N0QWF6VElXU2NwOWFXOW9qNWtTaWpRdFlvZld5V0ZzaDRMMzZtS2NBbWh2Qk42MG1uaTdzdTN2SExlRzltcFR4V2JyU2ZFSExYZkotejlpaWVOemZmTjFid29oVU95bExxb1Y?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-23T14:18:18.000Z",
+     "seen": "2026-11-23T15:28:13.983Z"
+    },
+    {
      "title": "دولة أوروبية تصدر بيانًا بشأن مزاعم حول دورها في الهجوم على سفينة روسية في ليبيا",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/albania-allegations-about-its-role-in-an-attack-on-a-russian-ship-in-libya",
      "source": "CNN بالعربية",
      "time": "2026-11-23T13:41:08.000Z",
      "seen": "2026-11-23T13:48:13.395Z"
+    },
+    {
+     "title": "\"عيب عليكم\".. رئيس وزراء الكويت يوبخ الحاضرين خلال حفل دبلوماسي |فيديو",
+     "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxOZG16V2t5cnRvT190RDNyT2xBVFlkNmlhY2VSR3RnclRNdXl0STVKV2lnMFJ3ZlZhcTZiS0ZuV2JmRExyeGlKT0toQlh4bkw0YlR2NmIxNkFsRDhxdlM2WWpFcWthX0RHclJHdmhEekZ1SEg2T0VhNjl5UmNHVWVMSjVGemZuN2N5Wks1UlNXRFl3VUU0LTF2dVE3bXBMVlVrVTRoeE16WUlxZzIweWY3cmRLU01iRWZFWktaRTFtYjFlSzRxWUJLWU9NUnpob213VFh2b1MtQ2lKcVcyOU9oQm8zczhJVFI2dW9NTm5JRmwxU1lLamdzVVVpSnQ4YTNFV19xZ2JfV0tUNlRSNU04ZFhtX3g4V1gyVnA1T2lYbE9nVURCUkRvSmtvWDBsNFVzQXFKWGpoMmdfMldYZXBvWjdqaXF6aXg1SlhndGZPb3NqanRiQnp0Ynp6OUh6VFB0ckdEcGZKQzEyMThtQ2pGRUk3RnBETllhTW5kREJ1c21oci1DZDZrVUQ3Q2lQUlRFWFhReW9Sa0FwTkNBYWJlYnZKM3N2bElVdlZGT3RjRVIzSFhYdERrWjM2OVM4SEFOMy1tN0dnMVhzcGg4ZTROdlJVYzNGT05pWFJYMFJQNDJZZnNGa1FGNVU3SGpUQ21BV2hUeEtvZkN1YmFuQWwyc1pSdjhlMWZRSnhqUlJXZ2tLQlZBYWdDdU9PeVNJR1dQZFBfVTBIazlpcmlDLXdjV0JNUVhRNnJUcXVZanZ2akdJbXBzbmJF0gHMBEFVX3lxTE5UbzdTdndlSVE4MGxRc2V5QlExQkxqX3h0UHFJWXVTV2ZySy1oYngxTFZYRUhVa0lQSWNxaFZaR0ZORGIxcFFfZFdQeVVVMExlZnd5NGh1OTNaRnFRMXprNlVrbndrejZ4WkxJbm85enVfZVhZaXcyRmI1Tm1IVER1ZUdyQU5pWTFXNnZ3dzd5NEVpamlJelJfX2J6cGlNOS03YzdRTWJQa21lYXBvaVFWZlEyQ01RZ19HTk5wX19GU29KaW1lcXE0UEJ6X256Tmg4RXdacnpYWG51NkZ0ZTB4Ym1hRDBVUWhOcGo3SlRPTldINWp2d1QxaW53Z3VkOUE1VGJFZ0tfQ2VCRXZ5X0ZSWFV0R1F0VF9SenZsYl9WbzJfQVZNeWxSUzJDX2thVjZhVEhmTThnS3B0WDhLN09kRHBuWTVoa2JYWEZ5a1hZdWRHZTVrSndWTjJNaGpucVo4bmJSa2VuVGR6MWNxdWhBMldvZXh4bzY1aHRXX3VUWjEyZ0lacUYzZ3dTODBSMUl4QUZDTGg4SndURkg4akxZdHRWUk1zcm9mNlF1ZjJQSFhZUDdqR3lOWC11VThVNU9lSUF1N1dCU0JscUJKRDIyZnFwbkF1eHZ2a2hPSWRqMi1Idk12MFpOV1AyYUJLSXhqNHQ0WTBLM0RkS2RQNEh4Uk96akhaWG0wZ3Y5WXg4UWFndHhBVk5PaU16Nl8zbklEa1UyTnhGRWthOGZGbnViRktPOWFtcnhtSkZmUXdSRG83SmJ3U0RuczJGQg?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-23T13:36:06.000Z",
+     "seen": "2026-11-23T15:28:13.983Z"
     },
     {
      "title": "إصابة 4 عناصر أمن بهجوم بمسيرة في ريف السويداء",
@@ -433,20 +450,6 @@
      "source": "DW.com",
      "time": "2026-11-23T12:43:31.000Z",
      "seen": "2026-11-23T15:08:14.129Z"
-    },
-    {
-     "title": "بعد هجوم بنغازي.. الاستخبارات الليبية تحذر من تهديد الملاحة",
-     "url": "https://www.skynewsarabia.com/middle-east/1906569-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-23T12:22:34.000Z",
-     "seen": "2026-11-23T12:28:14.190Z"
-    },
-    {
-     "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
-     "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T12:18:38.000Z",
-     "seen": "2026-11-23T12:28:14.190Z"
     }
    ]
   },
@@ -469,6 +472,13 @@
      "time": "2026-11-23T12:51:07.000Z",
      "seen": "2026-11-23T12:58:13.661Z",
      "impact": "يهم هواة الألعاب الإلكترونية ومتابعي التقنية للتحقق من الشائعات المتعلقة بخصوصية البيانات وتصنيف اللاعبين."
+    },
+    {
+     "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
+     "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T12:18:38.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
     },
     {
      "title": "هونر تطلق سلسلة Honor 700 في الصين ببطارية 9000 ميلي أمبير وشاشة خلفية ذكية",
@@ -523,13 +533,6 @@
      "impact": "يهم المتعاملين في الأسواق المالية العالمية لمعرفة اتجاهات أسهم التكنولوجيا وموجات التصحيح المدفوعة بالذكاء الاصطناعي."
     },
     {
-     "title": "إيران تؤكد أنها ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي، ولقاء أمريكي قطري في واشنطن اليوم",
-     "url": "https://www.bbc.com/arabic/articles/cwn83zz9d95vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T10:50:55.000Z",
-     "seen": "2026-11-23T10:56:13.673Z"
-    },
-    {
      "title": "تقرير: الصين سعت للحصول على رقائق الذكاء الاصطناعي قبل فضيحة «إنفيديا» بسنوات",
      "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxObEJuUkZ1MG5OalM2b3Mzd044WGt5TTdpd01DYXphTkdyMklNMllKZlgzTHotY1RKVFlHbTdJNVdEUkg5ckZmMnNWZ25CclV2THFEdm9fTHlqckdEbzV0a2x2S2lFYVlMdmNHZUdBMG5sRnotZEo3Rk1yRldwZ1pwMldtT1RkWGdBeE1QdW1iamprbXVCdDhlVEhxQzM4WU9tb2xwV18yWVV0dEo1UnV4VGN4S1dPS0oyUGZFVUpqN1FyUXVtRlU1ajl5dVRkS2hPWWdtTU1CZWw2TlZBNko4anF0RG5QYVFJUXRFT0dmWS03MnVITHIxM0pnMnB3d0lwZktTZmx1Wi1lWlFGNnViVGNxNjU1YkVidXpfd283S0xNaUF4S1owb3pZYUpwQ0lNS2xidzh0RHVZU0k3V2VNVDBjZHBON0llblNveUFfM2lZWFl3TjhiaFJFLVprVDdIdzNWemRyTU9KcnZ6cl91ZW9LYmJIR2lRalhtT01YQUttWlE4ZmZCOEpWUk1DdnJQTWJ2OTNzc0JfV1ItajZZUHlJaE8tUl9QbzJMX0Y2QWxLQUdKaUttLUZkZmpwazQ3V1NOai1ZcWdUVDliNjNEb0ZidG9pRl85bG9tbVBDUkI1NXNJV2ItWGpDQTJmWjZSbGlhajBzWXJxTngxZ3FmWm5HWnhOZUZCSFJ0cTg3U0dnLUpaUUFvT2REMkZnamdZS25YUTlIZ0FCTFNsQ1NacDVzemh3UURyQU01YVpZTmF0RVRPS1RubFMyQ0tLc0Z5Tm1VVlh5Ry1fNy1OYm1Ha1ZURXZZT3MzLU03Q2VueS13Q3BfUFRfZFVzcHZSa0R5LWJEUWxscmNDbVBrSXAwSU5VVDJ6VEVDeUE?oc=5",
      "source": "الشرق الأوسط",
@@ -562,6 +565,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "world",
+   "feed": "فرانس 24",
+   "error": "HTTP 403"
+  }
+ ],
  "marketErrors": []
 }
