@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:16:13.577Z",
+ "updated": "2026-11-23T07:26:13.819Z",
  "minute": [
   "استقبل الرئيس السيسي رئيس الوزراء العراقي، بينما بحث وزير الخارجية المصري مع نظيره القطري جهود خفض التصعيد بالمنطقة.",
   "استقرت أسعار صرف الدولار في البنوك المصرية تحت سقف 55 جنيهاً، وانتعشت أسعار الذهب بعد خسارة أسبوعية هي الأكبر في ثمانية أشهر.",
@@ -10,43 +10,45 @@
   "at": "2026-11-23T07:06:14.019Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T07:26:13.819Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.4,
-   "change": 1.14,
-   "asOf": "2026-11-23T07:12:20.000Z",
+   "value": 54.37,
+   "change": 1.08,
+   "asOf": "2026-11-23T07:26:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5555,
-   "change": 4.42,
-   "asOf": "2026-11-23T07:06:13.000Z",
+   "value": 5559,
+   "change": 4.51,
+   "asOf": "2026-11-23T07:16:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6342,
-   "change": 4.42,
-   "asOf": "2026-11-23T07:06:13.000Z",
+   "value": 6347,
+   "change": 4.51,
+   "asOf": "2026-11-23T07:16:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3630,
-   "change": 3.25,
-   "asOf": "2026-11-23T07:06:13.000Z",
+   "value": 3635,
+   "change": 3.39,
+   "asOf": "2026-11-23T07:16:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.1005,
-   "change": 0.32,
-   "asOf": "2026-11-23T07:15:43.000Z",
+   "value": 1.1007,
+   "change": 0.34,
+   "asOf": "2026-11-23T07:25:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.55,
-   "change": -3.26,
-   "asOf": "2026-11-23T07:05:15.000Z",
+   "value": 89.6,
+   "change": -3.21,
+   "asOf": "2026-11-23T07:16:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61448,
-   "change": 0.47,
-   "asOf": "2026-11-23T07:16:11.000Z",
+   "value": 61415,
+   "change": 0.41,
+   "asOf": "2026-11-23T07:26:42.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "روجينا تفتح صندوق أسرارها.. والدها قاطعها بسبب التمثيل وأشرف زكي أبعدها عن الفن 4 سنوات",
-     "url": "https://www.elbalad.news/7191012",
+     "title": "شقيقة أحمد زكي تحسم الجدل بشأن بيع مقتنياته لمحمد رمضان.. وتكشف مصير إنشاء متحف باسمه",
+     "url": "https://www.elbalad.news/7191022",
      "source": "صدى البلد",
-     "time": "2026-11-23T07:15:24.000Z",
-     "seen": "2026-11-23T07:16:13.577Z"
+     "time": "2026-11-23T07:22:11.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
     },
     {
-     "title": "فتحي سند يحذر الأهلي من المجازفة بإمام عاشور أمام بيراميدز",
-     "url": "https://www.elbalad.news/7190990",
+     "title": "القومي للمرأة: حصول صفا سليمان على برونزية العالم للجودو يضاف إلى سجل إنجازات المرأة المصرية",
+     "url": "https://www.elbalad.news/7191015",
      "source": "صدى البلد",
-     "time": "2026-11-23T07:15:00.000Z",
-     "seen": "2026-11-23T07:16:13.577Z"
+     "time": "2026-11-23T07:21:25.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
     },
     {
-     "title": "نائب وزير الخارجية: رعاية المصريين بالخارج وتلبية احتياجاتهم تأتي في مقدمة أولويات الدولة",
-     "url": "https://www.elbalad.news/7191017",
+     "title": "ترامب: توجيه ضربة إلى إيران بعد رأس السنة",
+     "url": "https://www.elbalad.news/7191021",
      "source": "صدى البلد",
-     "time": "2026-11-23T07:14:44.000Z",
-     "seen": "2026-11-23T07:16:13.577Z"
+     "time": "2026-11-23T07:21:22.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
+    },
+    {
+     "title": "المجلس الأعلى للشئون الإسلامية يبحث تعزيز التعاون الديني والثقافي مع بروناي",
+     "url": "https://www.youm7.com/story/2026/11/23/المجلس-الأعلى-للشئون-الإسلامية-يبحث-تعزيز-التعاون-الديني-والثقافي-مع/7628876",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T07:17:00.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
     },
     {
      "title": "منال عوض تتابع مع محافظ كفر الشيخ مشروعات الخطة الاستثمارية وملفات التصالح",
@@ -170,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/23/وزير-الصحة-يوجه-بمد-ساعات-عمل-صيدليات-التأمين-الصحي-حتى/7628871",
      "source": "اليوم السابع",
      "time": "2026-11-23T07:08:00.000Z",
-     "seen": "2026-11-23T07:16:13.577Z"
-    },
-    {
-     "title": "قسطرة قلبية عاجلة تنقذ شابا من جلطة حادة بالشريان التاجي بمستشفى شبرا العام",
-     "url": "https://www.youm7.com/story/2026/11/23/قسطرة-قلبية-عاجلة-تنقذ-شابا-من-جلطة-حادة-بالشريان-التاجي/7628870",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T07:06:00.000Z",
      "seen": "2026-11-23T07:16:13.577Z"
     },
     {
@@ -349,6 +351,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الحوثيون: مقتل وإصابة 59 مدنيا خلال 48 ساعة في 5 محافظات يمنية",
+     "url": "https://www.dw.com/ar/الحوثيون-مقتل-وإصابة-59-مدنيا-خلال-48-ساعة-في-5-محافظات-يمنية/live-80015556?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-23T07:22:00.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
+    },
+    {
+     "title": "جمال مؤقت بثمن باهظ: لماذا يوصي الخبراء بمنع أجهزة التسمير الاصطناعي؟",
+     "url": "https://www.dw.com/ar/جمال-مؤقت-بثمن-باهظ-لماذا-يوصي-الخبراء-بمنع-أجهزة-التسمير-الاصطناعي؟/a-80010245?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-23T07:18:00.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
+    },
+    {
+     "title": "بين الخوف والأمل.. حكايات شباب مغاربة مع المرض النفسي",
+     "url": "https://www.dw.com/ar/بين-الخوف-والأمل-حكايات-شباب-مغاربة-مع-المرض-النفسي/a-79981179?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-23T07:17:00.000Z",
+     "seen": "2026-11-23T07:26:13.819Z"
+    },
+    {
      "title": "دخول قوات جديدة إلى جرف الصخر.. ماذا عن كتائب حزب الله؟",
      "url": "https://www.skynewsarabia.com/middle-east/1906452-%D8%AF%D8%AE%D9%88%D9%84-%D9%82%D9%88%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D8%B9%D9%86-%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
      "source": "سكاي نيوز عربية",
@@ -424,27 +447,6 @@
      "source": "الجزيرة",
      "time": "2026-11-23T03:55:07.000Z",
      "seen": "2026-11-23T07:06:14.019Z"
-    },
-    {
-     "title": "مجموعة الأزمات: التفاوض مع \"نصرة الإسلام والمسلمين\" قد يكون أقل ضررا من الحرب في الساحل",
-     "url": "https://www.aljazeera.net/news/2026/11/23/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d8%b2%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d9%88%d8%b6-%d9%85%d8%b9-%d9%86%d8%b5%d8%b1%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-23T03:52:48.000Z",
-     "seen": "2026-11-23T07:06:14.019Z"
-    },
-    {
-     "title": "أوكرانيا: مقتل 15 شخصا على الأقل بضربات روسية في محيط كييف وانهيار جزئي لمبنى سكني",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261123-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%83%D9%8A%D9%8A%D9%81-%D9%82%D8%AA%D9%84%D9%89",
-     "source": "فرانس 24",
-     "time": "2026-11-23T03:48:44.000Z",
-     "seen": "2026-11-23T03:55:58.739Z"
-    },
-    {
-     "title": "التحالف السعودي يؤكد اعتراض صاروخ بالستي والحوثيون يعلنون استهداف مصفاة رابغ",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNd29yTU05bUlEcG9iajZCUFd0ZkdyZEdJS0tZYjF2Nmd4ZDJNYWtleURPOVdaTE1FRTY1S0wwbmtkQmFYQUxPTFZjY0JDMDNUOEo5U2NlbG02YkRKbU9MemJILWdCUWNabE5kY3FOc0l2SVBkaVRUSTU3U01IeTlBeVh6ZW1hUDNyR2plVTZDUlNnZ25WbEcxMDNFemdJWF9LNkUyWHB5bXlHTkhWY1pXak1DWFYxYzZkWk9ucmRCOWZONDhiOW5iNEtNRVpzakRmX1FkWjRRbVV6MXdPTjVYOUJBcVk4a3d6dVkzWUhuYmJ5TGxFMVlPS1ZRZTRvckpJSWhvMV9KclJDdFhGaFFpZ1dNbmhTOWF3OFZveXpQVTB6cHdMeW04MXNTWkU2OEZZZExyaTRXcFUxQV82aGVKUko2bnhQNTNmY1ZHOUhhOVp3NDE1WjNEZ1JjWURNU3JIRnhLZ0pFbFplUGtYdXdHLXRKVXdVMnpnOWl6TGFiSEd6RDZGNG5ONGg4S2cwaTBUSzNXWEVGaTVOYlNXZG4wazVmbzdLS2pQaWZVS0dmQ3RRRmowazlOQXFQTGJXY1pkYTNWODBoTXpldGRtTnVDODdmT0U0MjQ5YlMzektyV0VpcTRtSkxvTW9mRHlTLW5UOXdyS3FCM2c4OTVRa0dBUnlhTzU1Mnk2V04yRFFSOFdoaTlTZ1diaTFZejJqTVFPU2hZV1RGNmNGbi1oRWlFZUc4N0VkYk9y?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-23T03:38:12.000Z",
-     "seen": "2026-11-23T06:46:13.673Z"
     }
    ]
   },
@@ -470,7 +472,7 @@
      "title": "الذهب ينتعش بعد أكبر خسارة أسبوعية في 8 أشهر",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRlZmT21TNEFDM3NtYm1WXzRwTTNKbzVhaWxFVmhQYVpqc09BZE1uUHp3azBsOWhka212ODY4QTVESWVuT1oxTmJuRUZZSEhhUlJJZEpTSXVjNG1POUh2VmliVllPeldPX1A4ZUJYVnk2T2VseHAwSnFQTDNOS21LaV9vNFpoRzJKR2VyR2VaTndHbDlEdFE1Z2E5QUJlSWN3TDFtc2NodzVZRnk5aS1taW1HQ2hoaEtfWXRqTGRMNkFhOHJEczV1Sm5OWW5ldk5lcXlJbjJMbnlwRFd1NG9nb05OVWF6c0dycU9fNE9DS3REMVlvUkdQZHp1TXFkbmREa2dPX3RIQ2REdw?oc=5",
      "source": "الشرق بلومبرغ",
-     "time": "2026-11-23T02:41:17.000Z",
+     "time": "2026-11-23T02:40:15.000Z",
      "seen": "2026-11-23T05:55:58.547Z",
      "impact": "يهتم المستثمرون والأفراد في مصر بحركة أسعار الذهب لإدارة مدخراتهم واستثماراتهم في المعادن النفيسة."
     },
