@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:38:14.381Z",
+ "updated": "2026-11-23T16:48:14.501Z",
  "minute": [
   "تراجع سعر صرف الدولار الأمريكي مقابل الجنيه المصري بختام التعاملات، بالتزامن مع الإعلان عن تدشين 3 خطوط طيران جديدة من بولندا إلى شرم الشيخ.",
   "وعلى الصعيد المحلي، استعرض منتدى الحماية الاجتماعية استدامة المعاشات، وسط توقعات بخصائص طقس غد تشهد انخفاضاً بالحرارة وأمطاراً وشبورة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T16:38:14.381Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T16:48:14.501Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5596,
-   "change": 5.21,
-   "asOf": "2026-11-23T16:28:03.000Z",
+   "value": 5587,
+   "change": 5.03,
+   "asOf": "2026-11-23T16:40:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6389,
-   "change": 5.21,
-   "asOf": "2026-11-23T16:28:03.000Z",
+   "value": 6379,
+   "change": 5.03,
+   "asOf": "2026-11-23T16:40:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3671,
-   "change": 4.43,
-   "asOf": "2026-11-23T16:28:03.000Z",
+   "value": 3665,
+   "change": 4.26,
+   "asOf": "2026-11-23T16:40:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.09,
-   "change": -0.64,
-   "asOf": "2026-11-23T16:37:46.000Z",
+   "value": 1.089,
+   "change": -0.73,
+   "asOf": "2026-11-23T16:49:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.57,
-   "change": -6.48,
-   "asOf": "2026-11-23T16:28:16.000Z",
+   "value": 86.67,
+   "change": -6.37,
+   "asOf": "2026-11-23T16:40:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7232,
-   "change": 4.65,
-   "asOf": "2026-11-23T16:38:18.000Z",
+   "value": 7234,
+   "change": 4.68,
+   "asOf": "2026-11-23T16:50:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 62323,
-   "change": 1.9,
-   "asOf": "2026-11-23T16:38:17.000Z",
+   "value": 62033,
+   "change": 1.42,
+   "asOf": "2026-11-23T16:50:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تحرك استخباراتي ألماني يثير التساؤلات.. برلين تبحث عن متحدثين بالعبرية برواتب تتجاوز 81 ألف يورو",
-     "url": "https://www.elbalad.news/7191741",
+     "title": "طارق يوسف يتفقد مشروعات التطوير بمستشفى العبور الجامعي لمتابعة معدلات التنفيذ والارتقاء بالخدمات الطبية",
+     "url": "https://www.elbalad.news/7191752",
      "source": "صدى البلد",
-     "time": "2026-11-23T16:37:39.000Z",
-     "seen": "2026-11-23T16:38:14.381Z"
+     "time": "2026-11-23T16:47:10.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
-     "title": "علاء نبيل مديرًا فنيًا لاتحاد الكرة السوري.. تفاصيل اجتماعه مع رئيس الاتحاد",
-     "url": "https://www.elbalad.news/7191739",
+     "title": "رئيس وزراء العراق يصلى في مسجد الحسين بالقاهرة ويتفقد الحجرة النبوية.. صور",
+     "url": "https://www.youm7.com/story/2026/11/23/رئيس-وزراء-العراق-يصلى-في-مسجد-الحسين-بالقاهرة-ويتفقد-الحجرة/7629959",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T16:45:00.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
+    },
+    {
+     "title": "التعليم تطلق برنامج الإتاحة الشاملة لدعم الطلاب المدمجين بمشاركة خبراء الدمج",
+     "url": "https://www.youm7.com/story/2026/11/23/التعليم-تطلق-برنامج-الإتاحة-الشاملة-لدعم-الطلاب-المدمجين-بمشاركة-خبراء/7629941",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T16:45:00.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
+    },
+    {
+     "title": "لهذه الفئات فقط| انتهاء الإيجار القديم في 2027.. اعرف التفاصيل",
+     "url": "https://www.elbalad.news/7191737",
      "source": "صدى البلد",
-     "time": "2026-11-23T16:37:14.000Z",
-     "seen": "2026-11-23T16:38:14.381Z"
+     "time": "2026-11-23T16:44:55.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
-     "title": "بعد 22 سنة هي دي كلمة شكرا؟.. روجينا تعاتب أشرف عبد الباقي بسبب «حكايات زوج معاصر»",
-     "url": "https://www.elbalad.news/7191721",
+     "title": "الأرصاد: استمرار الأجواء الخريفية المعتدلة حتى الأحد.. والشبورة وفرص الأمطار أبرز الظواهر الجوية",
+     "url": "https://www.elbalad.news/7191747",
      "source": "صدى البلد",
-     "time": "2026-11-23T16:30:00.000Z",
-     "seen": "2026-11-23T16:38:14.381Z"
+     "time": "2026-11-23T16:44:53.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
-     "title": "الاحتفال بإطلاق 3 خطوط طيران مباشر لشركة Wizz Air من بولندا إلى شرم الشيخ",
-     "url": "https://www.youm7.com/story/2026/11/23/الاحتفال-بإطلاق-3-خطوط-طيران-مباشر-لشركة-Wizz-Air-من/7629900",
+     "title": "محافظ القاهرة ونقيب المهندسين يوقعان بروتوكول تعاون لتحصيل الدمغات الهندسية",
+     "url": "https://www.youm7.com/story/2026/11/23/محافظ-القاهرة-ونقيب-المهندسين-يوقعان-بروتوكول-تعاون-لتحصيل-الدمغات-الهندسية/7629957",
      "source": "اليوم السابع",
-     "time": "2026-11-23T16:02:00.000Z",
-     "seen": "2026-11-23T16:08:14.683Z"
+     "time": "2026-11-23T16:44:00.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
-     "title": "جهاز حماية المستهلك يعلن حملة استدعاء لإحدى علامات السيارات بسبب مشكلة فنية",
-     "url": "https://www.youm7.com/story/2026/11/23/جهاز-حماية-المستهلك-يعلن-حملة-استدعاء-لإحدى-علامات-السيارات-بسبب/7629808",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T15:49:00.000Z",
-     "seen": "2026-11-23T15:58:14.254Z"
-    },
-    {
-     "title": "جامعة العاصمة تنعى الفنان التشكيلي والناقد القدير الدكتور علي نبيل وهبة",
-     "url": "https://www.youm7.com/story/2026/11/23/جامعة-العاصمة-تنعى-الفنان-التشكيلي-والناقد-القدير-الدكتور-علي-نبيل/7629829",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T15:47:00.000Z",
-     "seen": "2026-11-23T15:58:14.254Z"
+     "title": "الرخصة الذهبية للاستثمار.. من يحق له الحصول عليها وما شروطها ومزاياها؟",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MMmtLam9zb1VfV3ZDYmlETkdJa2swOFF3bW10dU9nanZSaDUyNkstcjI1MVpZWElMd3VUMjQwU2lYMXg4b1RxaFN5LWNfQWVyb2RjWkRReFpxZV8xT1dn?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T16:40:00.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
      "title": "مصر تدعو لتطوير تمويل الحماية الاجتماعية ومساندة الدول النامية",
@@ -228,13 +235,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-23T11:34:55.000Z",
      "seen": "2026-11-23T13:28:13.532Z"
-    },
-    {
-     "title": "مدبولي: الحماية الاجتماعية تتجاوز حدود المساعدات لتصبح استثمارا في الإنسان",
-     "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOQWJFY2JIWE9LOXJGVTRzMW5PazhxS3hyc0tlbnRndjZGa2g1cnpmbV8tYXZueEs3dmtWUjk0NVBOOC10VUFVUVdhQ2ZHRTE2V04xbnZ5eGRoLXlZSGpCVEJycGFYSDNGZWxWQ2YtYnhvaFJaemlWMGF3SzFZd3FockFEb0V2dWthZWdOUl93RVZOcGhZVFprOFlVeXhjdGl4dk5acUtkZ2NHWnBTdVgydEVYcjBtRzZlU0hhY0RTUy1OcWF2Y0k5YkhKV2E4dDdyV2c2OUlJVzZ4d25Bck9uLVlKQ09YdGNYWmV4UzkwZENOQUJGNlJjOHFqeHQ0MDJZeXUtbE0zNkxYZGxIRGI4ZmowQXVOMFNEMGJiQnJFOTlCM1pQM2dKZTI4UHBQSlVPLWxlQkVBeG04X1kwMGhZSkNiTlhILU05eDltSE1rbkwtZXo5bnMwd1E0eV9XeWNXRm1oeFluNnpzbFc4N3lUVWxEX1lfOENQd1NnWU1OVXFER3ZqT25vS1VjMnpLeUZYdjBhQ05POFlnbTAyYncxbU1BQ1I0YzJBelVoMXZQMlk5R0hYaVpPNWw5N1RIWjdTa2VrS2ZpTURYaWhWX3VETUtnZE94Q0dRalRULW85R2FpQmQxbWxNU0xZR2IzT3RrMUVSaWRTYVMzT2hGdnp1UlViQmRmQnBzRnNHbW50Sl9Rb29EVlluM0ZyQlA3VEtOR2FyaC1KMnN5MGd4Q0FITWQ1WWNyNnZxR05JVjQxVWFnMXIwa2pNSHRDQm92V0Y5WGNROG9xeDg0WlBTRE9PdzFyRTQ3dHhn?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-23T11:18:00.000Z",
-     "seen": "2026-11-23T11:46:13.556Z"
     }
    ]
   },
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "الذكاء الاصطناعي في مختبرات الإنجاب: أداة جديدة لرصد أندر الخلايا المنوية",
+     "url": "https://www.bbc.com/arabic/watch/cxvg2n7n9qmro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T16:42:26.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
+    },
     {
      "title": "أعرف سعر الدولار بكام اليوم الإثنين فى البنك المركزى المصرى",
      "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxONnFhZEVVeWZFeXZQWDJySWVtSDlsUno3a2JMeDhWVFVzQXM1UDRCYV9QOXhYalgwTkNJOFV3WFB0ZFJ5TGdFN2UzUGZxR1N4NnRJdDFXQThBQ210YUZCYVN3aTk5aTdmbGFFb0cxWkNIQTdEeTIxX0tjYlotV3ZqTzhlZ3ZyTktxcElBQzg5NnlQMkFkeDc1blJKRlhfRDRvd19mX3ByWUtWN3FneU5ESm10ZmhySUMxYWxDdVoyUGVRbVc2N3htRzRGM0xIWlpFUGZYU29EM21CUUNsR1BGMkFhRmpJN2UwdFZjVFdmTHNqYmhCZjM4SVgtdkVVdlhpeFl3QjljMDJBUzVESHZaX3BxUmxrX0VJSW0zby1PMk9HWF9qNE9XN05PWkZ2YnFtUEY3azFyZnc1VDBabXRJd1l4TVl0WlhQaHlKc3o0ZEJidzdIV19UYkJyRWJXTHo5SW5Vd0FaSmpzdWdKZWJveG1UZzJwNm5BNThSdGRIT095WmxOc3g4ZjAtNFpiT2NHSFNwV3ZRcjFEak1DUFhLLXFGeXlkZ1Q3ZGduUy15VjZpVUNMTElOODhUTkcwWldWMFdlOVJvSGRza2s4TVpOMnVUZXZVdmpJZnJlRnFsMV81MGYzcGs5N3Z2S0xMME5UOHdQNi1Oc9IB8gNBVV95cUxQOVJmVm54Z3NQTk9RbXJydkluTXl3XzNQblNGcjU0SGJoMTRtZDUwcTJpclZTSnFxdXNtY3NRYTN3RzZ1dFpJd1pUTWZhSWI1WG1XV0lYRml6aUFiVXNXWE9xV0pHQ2VZdDlTVm1HbjktbHZUT0V3U1ljckZ0RU43a2RpSGhZdTcxUXJzMDRLX3o0OFFnLVFDRExYUFpFOHd0OUR6MmlJalFvTTRzZEVoUjBiSkVoQ25WbDM2RnpDcmZRb2pudFdBS1ZvWldMUXJzUnRMaG1qdHRaQ0pxZmw3U2U5c2ZTSDQzOGk5QXgydkxTSkFhM25WamtmM1RmSmRwZzdxOGdyVmg5cDJmZnFpRW80MmVoOG1oRUwza1B3bjA3X1A5NmxuMmQwNWdCdTBuRGoxYkYyWUd2UmtEd3ZodWFvNEx5REpTeGhMY1l4aXM0QmV4NEw0MnduaTBNM1JSVUgyUVJWeTJKTFpNdlExWW0xNmsxQnF4TkdEX0NES2tzV1VYZURxMzh2aHBST2hlRW5jTnIxQ0hUV1ZuVFhhMjBUUndEaThWZ2pjNFNrTGJLbVVUZmlnODd6UWd5RjFHX1AzVmxYVkNwMGdaLTNqWUNqaVZhTnZkYkFnOGthc2tLMXJqXzRNX21rd19KZ3Q1bXc?oc=5",
@@ -335,13 +342,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T14:05:25.000Z",
      "seen": "2026-11-23T15:08:14.129Z"
-    },
-    {
-     "title": "التهاب السحايا في غزة: 12 وفاة وتحذيرات من تفشي المرض، فماذا نعرف عنه؟",
-     "url": "https://www.bbc.com/arabic/articles/cmd910jlk73wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T13:37:06.000Z",
-     "seen": "2026-11-23T13:38:14.158Z"
     }
    ]
   },
@@ -475,6 +475,20 @@
      "seen": "2026-11-23T16:28:15.022Z"
     },
     {
+     "title": "قمر اصطناعي نووي روسي يثير الجدل.. والكرملين يعلق",
+     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQZlc2X19yMzNrbnhzalRZaEJad0FkVzVkSmk3cFRYdWlYS1VvOUk5UnJEbnBGWm1wdGJXbXVjd1NTQ0xlYWtjOTNzdEM4NjhJNU9iWGgxdExrc0xnZGxHeUctN0N0dnowcjBEVWF5Sm1ndlZnamJ3Wm1CUUNDa0diVzBVRmt3Wll2QnBMS1AtSk5xM09PRVRGLXcxSURsd29PNnhiZEZyZVowc3RHWHJoQldDdGhWeE5xRzhEVHFwOXNybGR3MWhlVjZFd2J4dVAycWNHT3psVDNCc3Q1b3JVME5zbzZfdEpxblpJd2gzWXhady1fRVVfXzEweGUwWEZOcUpDQW90WkJmUnZjYXhxTzVXSlkyazdOSTlJSnJCTGZTUkVQRFlIZHFQSVZqRXZ0bkNENU02ZFhsOHhMMUdyeE5qQ1RvVkVjY25MOTBkUFVNcUgzQ2dzWlNsSUVUb1JQVDM5X2FjNTBKYmI0c245RTZkZTBHeWhPM0pGWnh3cW5LUW1peUhRbU40VWQ5Ymh6R1BNYUZvMnR1MEY0TnZyVNIBpgNBVV95cUxPRlFiTGRCWnhVa2FKVTNtOUdrWHhBYk1ZT3pHOWQzamoxZTdTTGlkenRhWW5VdjlkMWZoM0tWdEtfYUdhaktmRmxKdzRTSUs3RTNhN3ktZll3NFBBb1dYUXJTVlZrVURpZWJLaHpPRGJqbFRNcEZ5azJCZjlBUXZsbzVYem81aEsycXVGdEtqcmJYMmVyak8wd0JndWVvZ1RYbWtTZWhISVVBaHRiblhOWUxyVkFwa1E4UVlSbi1UcW84NjVKaUlEdE5ISE91V1ZORDVLbURabThGVFBRbDlCQTV6ZU53NkZ3bF9KQ2tERmhfend6NmFSY0hNWDdxOXZYVHRzUTdlSGR3Z0J1UUpCRWwwRTF3OGh3eHlkVFFnVi1SMWo2SEtUTU1aQVI4dmJwUGM4Z2llRkJyTTZnVTRqNUhKWHBJZGVCc0tSdDZXZzB6YjVSdDlDWEdqMFlkbTZHZHlUdElWT1JtSTdaMUNhZTMyQmtVRElKbElmUWZfZ3pPWXplWmwwc2RydXFDaTBJOUJES1U0dUstc1pBSkk5LTM2ejQtUQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-23T14:46:47.000Z",
+     "seen": "2026-11-23T16:48:14.501Z"
+    },
+    {
+     "title": "التهاب السحايا في غزة: 12 وفاة وتحذيرات من تفشي المرض، فماذا نعرف عنه؟",
+     "url": "https://www.bbc.com/arabic/articles/cmd910jlk73wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T13:37:06.000Z",
+     "seen": "2026-11-23T13:38:14.158Z"
+    },
+    {
      "title": "هونر تطلق Honor 700 وHonor 700 Pro في الصين ببطارية 9000mAh وشاشة خلفية ثانوية",
      "url": "https://www.tech-wd.com/wd/2026/11/23/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-honor-700-%d9%88honor-700-pro-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-9000mah-%d9%88%d8%b4%d8%a7%d8%b4/",
      "source": "عالم التقنية",
@@ -513,13 +527,6 @@
      "impact": "إطلاق سلسلة هواتف ذات سعة بطارية كبيرة يهم المهتمين بسوق الأجهزة الذكية والتكنولوجيا في مصر لمتابعة المواصفات الجديدة."
     },
     {
-     "title": "\"ترامب جعل العالم غير مستعد لصعود الصين المسلحة نووياً\" - مقال في التلغراف",
-     "url": "https://www.bbc.com/arabic/articles/c52e833ewd4ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T11:50:32.000Z",
-     "seen": "2026-11-23T11:56:13.317Z"
-    },
-    {
      "title": "مراجعة Xiaomi 18 Fold: أفضل عتاد بين الهواتف القابلة للطي",
      "url": "https://www.tech-wd.com/wd/2026/11/23/%d9%85%d8%b1%d8%a7%d8%ac%d8%b9%d8%a9-xiaomi-18-fold-%d8%a3%d9%81%d8%b6%d9%84-%d8%b9%d8%aa%d8%a7%d8%af-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%82%d8%a7%d8%a8/",
      "source": "عالم التقنية",
@@ -548,14 +555,6 @@
      "time": "2026-11-23T09:14:37.000Z",
      "seen": "2026-11-23T10:06:13.284Z",
      "impact": "يساعد مستخدمي الهواتف الذكية في مصر على فهم آلية وشروط الاستفادة من خدمات الدفع اللاتلامسي ببطاقاتهم البنكية."
-    },
-    {
-     "title": "«المركزي» يعلن إطلاق خدمات الدفع على تطبيقات الهاتف المحمول التي تعمل بنظام الـ Android (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94OVRjbHpBYjdySElVNllJY3d2V2VSaXRiVU96NjVLUWgxLUZuN0FmTkxNLWJQNkdRN081Skd5VnkzQTV5ZC1NdUpUOVhMMGVIQk9qWTBWQUZxTGZmLWNN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T09:14:00.000Z",
-     "seen": "2026-11-23T09:56:13.342Z",
-     "impact": "تُمكّن مستخدمي هواتف أندرويد في مصر من الاعتماد على تطبيقات الهواتف في إجراء المدفوعات."
     }
    ]
   }
