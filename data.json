@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:38:42.084Z",
+ "updated": "2026-11-23T17:48:41.875Z",
  "minute": [
   "تستعد الحكومة المصرية لإقرار والكشف عن برنامج التحول الاقتصادي الجديد بعد اجتماع المجموعة الاقتصادية.",
   "عقدت اللجنة العليا المشتركة بين مصر والعراق اجتماعاتها، حيث أعلن رئيس وزراء العراق الاتفاق على إلغاء التأشيرة بين البلدين.",
@@ -9,7 +9,9 @@
   "at": "2026-11-23T17:28:15.038Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 5
+  "impacts": 5,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T17:48:41.875Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5584,
-   "change": 4.98,
-   "asOf": "2026-11-23T17:28:43.000Z",
+   "value": 5580,
+   "change": 4.89,
+   "asOf": "2026-11-23T17:40:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6375,
-   "change": 4.98,
-   "asOf": "2026-11-23T17:28:43.000Z",
+   "value": 6370,
+   "change": 4.89,
+   "asOf": "2026-11-23T17:40:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3663,
-   "change": 4.2,
-   "asOf": "2026-11-23T17:28:43.000Z",
+   "value": 3660,
+   "change": 4.12,
+   "asOf": "2026-11-23T17:40:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.089,
-   "change": -0.73,
-   "asOf": "2026-11-23T17:37:48.000Z",
+   "value": 1.0885,
+   "change": -0.77,
+   "asOf": "2026-11-23T17:49:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.24,
-   "change": -5.76,
-   "asOf": "2026-11-23T17:28:27.000Z",
+   "value": 87.19,
+   "change": -5.81,
+   "asOf": "2026-11-23T17:40:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7248,
-   "change": 4.89,
-   "asOf": "2026-11-23T17:38:45.000Z",
+   "value": 7219,
+   "change": 4.47,
+   "asOf": "2026-11-23T17:50:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61671,
-   "change": 0.83,
-   "asOf": "2026-11-23T17:38:40.000Z",
+   "value": 61502,
+   "change": 0.56,
+   "asOf": "2026-11-23T17:50:03.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "رئيس وزراء ماليزيا يشيد بعمق العلاقات مع مصر: نسأل الله أن تبقى مزدهرة وجسرا للعلم",
-     "url": "https://www.elbalad.news/7191821",
+     "title": "هل يجوز للزوج بيع شقة الزوجية دون موافقة الزوجة؟.. الحالات والموقف القانوني",
+     "url": "https://www.elbalad.news/7191822",
      "source": "صدى البلد",
-     "time": "2026-11-23T17:37:58.000Z",
-     "seen": "2026-11-23T17:38:14.915Z"
+     "time": "2026-11-23T17:45:42.000Z",
+     "seen": "2026-11-23T17:48:41.875Z"
     },
     {
-     "title": "محافظ الدقهلية يسلم 20 عقدا من عقود تقنين أراضي أملاك الدولة للمواطنين",
-     "url": "https://www.elbalad.news/7191756",
+     "title": "رئيس جامعة سوهاج: اللغات الأجنبية والذكاء الاصطناعي ركيزة أساسية لنقل المعرفة",
+     "url": "https://www.elbalad.news/7191826",
      "source": "صدى البلد",
-     "time": "2026-11-23T17:37:17.000Z",
-     "seen": "2026-11-23T17:38:14.915Z"
+     "time": "2026-11-23T17:45:11.000Z",
+     "seen": "2026-11-23T17:48:41.875Z"
     },
     {
-     "title": "علاء عبد العال بعد الخسارة أمام الزمالك: أهداف الأبيض جاءت من أخطاء ساذجة",
-     "url": "https://www.elbalad.news/7191810",
+     "title": "الهلال السعودي يفرط في الفوز ويتعادل مع نيفتشي الأوزبكي 2-2 بأبطال آسيا",
+     "url": "https://www.elbalad.news/7191828",
      "source": "صدى البلد",
-     "time": "2026-11-23T17:37:12.000Z",
-     "seen": "2026-11-23T17:38:14.915Z"
+     "time": "2026-11-23T17:45:07.000Z",
+     "seen": "2026-11-23T17:48:41.875Z"
+    },
+    {
+     "title": "رئيسا وزراء مصر والعراق يشهدان مراسم توقيع عدد من الوثائق بين البلدين",
+     "url": "https://www.youm7.com/story/2026/11/23/رئيسا-وزراء-مصر-والعراق-يشهدان-مراسم-توقيع-عدد-من-الوثائق/7630043",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T17:44:00.000Z",
+     "seen": "2026-11-23T17:48:41.875Z"
     },
     {
      "title": "مدبولي والزيدي يترأسان اجتماع الدورة الرابعة للجنة العليا المشتركة بين البلدين",
@@ -163,6 +172,13 @@
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-23T17:34:00.000Z",
      "seen": "2026-11-23T17:38:14.915Z"
+    },
+    {
+     "title": "رئيس وزراء ماليزيا يشيد بعمق العلاقات مع مصر",
+     "url": "https://www.youm7.com/story/2026/11/23/رئيس-وزراء-ماليزيا-يشيد-بعمق-العلاقات-مع-مصر/7630036",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T17:33:00.000Z",
+     "seen": "2026-11-23T17:48:41.875Z"
     },
     {
      "title": "رئيس الوزراء يترأس اجتماع المجموعة الاقتصادية قبل إقرار برنامج التحول الاقتصادي (تفاصيل)",
@@ -185,20 +201,6 @@
      "source": "الوطن",
      "time": "2026-11-23T17:16:41.000Z",
      "seen": "2026-11-23T17:28:15.038Z"
-    },
-    {
-     "title": "الطيار أحمد عادل رئيسًا للجنة التنفيذية لاتحاد شركات الطيران الأفريقية (AFRAA)",
-     "url": "https://www.youm7.com/story/2026/11/23/الطيار-أحمد-عادل-رئيسًا-للجنة-التنفيذية-لاتحاد-شركات-الطيران-الأفريقية/7630018",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T17:16:00.000Z",
-     "seen": "2026-11-23T17:18:14.325Z"
-    },
-    {
-     "title": "مدير عام اليونسكو يشيد بالشراكة المهمة والعريقة مع مصر ويتطلع إلى تعزيزها",
-     "url": "https://www.youm7.com/story/2026/11/23/مدير-عام-اليونسكو-يشيد-بالشراكة-المهمة-والعريقة-مع-مصر-ويتطلع/7630009",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T17:09:00.000Z",
-     "seen": "2026-11-23T17:18:14.325Z"
     },
     {
      "title": "مدبولي يكشف موعد إعلان برنامج التحول الاقتصادي المصري",
@@ -263,6 +265,14 @@
      "seen": "2026-11-23T15:58:14.254Z"
     },
     {
+     "title": "الحكومة تستعد للكشف عن برنامج التحول الاقتصادي المصري",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2RXAwOGlFOWhKSVRNekpiRk5aZ2VCVVJkeGdheU5FTl8yaXk3TV9fR2taczBLNVkwSTRNd3cyYU5KQ3lpTkk5X1RSVXRSTmpuaDNJQmtB?oc=5",
+     "source": "جريدة البورصة",
+     "time": "2026-11-23T16:56:06.000Z",
+     "seen": "2026-11-23T16:58:14.243Z",
+     "impact": "إعلان برنامج التحول الاقتصادي يساعد الشركات والمستثمرين في مصر على التخطيط الاستثماري وفق التوجهات الحكومية الجديدة."
+    },
+    {
      "title": "كيف عاد جينسن هوانغ إلى إنفيديا من جديد؟",
      "url": "https://www.bbc.com/arabic/articles/cklye3l97z08o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -276,14 +286,6 @@
      "time": "2026-11-23T16:47:00.000Z",
      "seen": "2026-11-23T16:58:14.243Z",
      "impact": "معرفة سعر الدولار في البنوك تهم المستوردين والمستهلكين في مصر لتحديد تكاليف السلع والخدمات وحجم التضخم المتوقع."
-    },
-    {
-     "title": "الحكومة تستعد للكشف عن برنامج التحول الاقتصادي المصري",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2RXAwOGlFOWhKSVRNekpiRk5aZ2VCVVJkeGdheU5FTl8yaXk3TV9fR2taczBLNVkwSTRNd3cyYU5KQ3lpTkk5X1RSVXRSTmpuaDNJQmtB?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-23T16:46:39.000Z",
-     "seen": "2026-11-23T16:58:14.243Z",
-     "impact": "إعلان برنامج التحول الاقتصادي يساعد الشركات والمستثمرين في مصر على التخطيط الاستثماري وفق التوجهات الحكومية الجديدة."
     },
     {
      "title": "أعرف سعر الدولار بكام اليوم الإثنين فى البنك المركزى المصرى",
@@ -350,6 +352,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "عمليات \"فجر اليمن\" متواصلة.. القوات الحكومية تكبّد الحوثي خسائر جديدة",
+     "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOZEZBQlAtc0k5S1JmTHdRQ2k0eGFEZ3VBZUV3VTRkV19zTERxajdzeVpzOEI2S09LVXNBM1JVSWZtRzJ2MWtseWNMclluV1d3b1JBSjJ5UG5zODdyQ1NfMFB0UlN6YXVGMXU5amU3TFFMNm15bXJjWlpvZWVyWnR3QTZtckRnNG5KaHRPamVOelo3Z2p5VlBDRFRrd05EM3VtdUJWUnBJZDNXMnFZdHRWa3VONVpYWks0aWQwN2V5Vk53U09MUWFNUC1nNFlHY0JQem9rbUZiNTFOdnQxUFZ4dGZIaVpBVVdOVW9kaWstRkh1bVg1LVRmZkw3N1NidnVHTkxFMFBQUDlJRWlXM0ttNUNhcTZXSnF6R1F0bzE5X29rWndRTld0RF9tUTlNRFhWQjdENWV6RFhmeWhEWVMtS0UtZk1YaGpXSWcwQmVULWNFeVNEWU9fM000UGJHWVlwZ05RdXg4Z2Y2ekxzQTVJZVEtMkRiSFBCb1hfSzdxQzhTeVFEV1d0Rno5OHpfN25YWTk2NUVCcHNWX0ptLWVLamkzMUkwVi1DUXNTUDkxeXRWYTNpbFN6YWxCSDhXbEpTNk9XOFZtR1NyWW5NQW8yQXVNOEpFX2o5VDdwejVpaDduRXM?oc=5",
+     "source": "العربية",
+     "time": "2026-11-23T17:26:00.000Z",
+     "seen": "2026-11-23T14:58:13.286Z"
+    },
+    {
      "title": "\"أفرّ منك إليك\" ... لاجئون أفغان يعملون في قنصلية بلادهم في ألمانيا",
      "url": "https://www.dw.com/ar/أفرّ-منك-إليك-لاجئون-أفغان-يعملون-في-قنصلية-بلادهم-في-ألمانيا/a-80025717?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -407,13 +416,6 @@
      "seen": "2026-11-23T16:28:15.022Z"
     },
     {
-     "title": "عمليات \"فجر اليمن\" متواصلة.. القوات الحكومية تكبّد الحوثي خسائر جديدة",
-     "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOZEZBQlAtc0k5S1JmTHdRQ2k0eGFEZ3VBZUV3VTRkV19zTERxajdzeVpzOEI2S09LVXNBM1JVSWZtRzJ2MWtseWNMclluV1d3b1JBSjJ5UG5zODdyQ1NfMFB0UlN6YXVGMXU5amU3TFFMNm15bXJjWlpvZWVyWnR3QTZtckRnNG5KaHRPamVOelo3Z2p5VlBDRFRrd05EM3VtdUJWUnBJZDNXMnFZdHRWa3VONVpYWks0aWQwN2V5Vk53U09MUWFNUC1nNFlHY0JQem9rbUZiNTFOdnQxUFZ4dGZIaVpBVVdOVW9kaWstRkh1bVg1LVRmZkw3N1NidnVHTkxFMFBQUDlJRWlXM0ttNUNhcTZXSnF6R1F0bzE5X29rWndRTld0RF9tUTlNRFhWQjdENWV6RFhmeWhEWVMtS0UtZk1YaGpXSWcwQmVULWNFeVNEWU9fM000UGJHWVlwZ05RdXg4Z2Y2ekxzQTVJZVEtMkRiSFBCb1hfSzdxQzhTeVFEV1d0Rno5OHpfN25YWTk2NUVCcHNWX0ptLWVLamkzMUkwVi1DUXNTUDkxeXRWYTNpbFN6YWxCSDhXbEpTNk9XOFZtR1NyWW5NQW8yQXVNOEpFX2o5VDdwejVpaDduRXM?oc=5",
-     "source": "العربية",
-     "time": "2026-11-23T16:15:00.000Z",
-     "seen": "2026-11-23T14:58:13.286Z"
-    },
-    {
      "title": "إضراب ومظاهرات في بلجيكا تنديدا بالتوجهات التقشفية للحكومة",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261123-%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8-%D9%88%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%AA%D9%86%D8%AF%D9%8A%D8%AF%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D8%B4%D9%81%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9",
      "source": "فرانس 24",
@@ -442,11 +444,11 @@
      "seen": "2026-11-23T15:48:13.518Z"
     },
     {
-     "title": "ذعر واستنفار في قطاع التعليم الألماني بعد إنذارات بوجود قنابل في مئات المدارس",
-     "url": "https://www.dw.com/ar/ذعر-واستنفار-في-قطاع-التعليم-الألماني-بعد-إنذارات-بوجود-قنابل-في-مئات-المدارس/a-80021785?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-23T14:30:00.000Z",
-     "seen": "2026-11-23T17:38:14.915Z"
+     "title": "سباح بريطاني في هرمز والأعطال التقنية بأمريكا بين الاختراقات ونظريات المؤامرة",
+     "url": "https://www.aljazeera.net/video/networks/2026/11/23/%d9%86%d9%87%d8%b1-%d8%aa%d8%b1%d9%83%d9%8a-%d8%a8%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%b3%d8%a8%d8%a7%d8%ad-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-23T14:30:34.000Z",
+     "seen": "2026-11-23T17:48:41.875Z"
     }
    ]
   },
