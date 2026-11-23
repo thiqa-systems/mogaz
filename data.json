@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:18:13.567Z",
+ "updated": "2026-11-23T12:28:14.190Z",
  "minute": [
   "شهدت مصر ارتفاعاً جديداً في أسعار الذهب وقدمت وزارة التموين برنامجاً لتعزيز القيمة الغذائية للخبز المدعم.",
   "تصاعدت التوترات والتطورت الميدانية والدولية في ليبيا وبولندا، مع تحديد إيران شروطاً لإمكانية فتح مضيق هرمز.",
@@ -9,70 +9,72 @@
   "at": "2026-11-23T12:08:13.707Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-23T12:28:14.190Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.29,
-   "change": 0.93,
-   "asOf": "2026-11-23T12:15:24.000Z",
+   "value": 54.34,
+   "change": 1.03,
+   "asOf": "2026-11-23T12:24:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5528,
-   "change": 3.92,
-   "asOf": "2026-11-23T12:08:10.000Z",
+   "value": 5527,
+   "change": 3.9,
+   "asOf": "2026-11-23T12:21:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6311,
-   "change": 3.92,
-   "asOf": "2026-11-23T12:08:10.000Z",
+   "value": 6310,
+   "change": 3.9,
+   "asOf": "2026-11-23T12:21:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3619,
-   "change": 2.96,
-   "asOf": "2026-11-23T12:08:10.000Z",
+   "value": 3615,
+   "change": 2.84,
+   "asOf": "2026-11-23T12:21:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50650,
-   "change": 1.32,
-   "asOf": "2026-11-23T12:03:09.000Z",
+   "value": 50714,
+   "change": 1.45,
+   "asOf": "2026-11-23T12:14:59.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0965,
-   "change": -0.04,
-   "asOf": "2026-11-23T12:17:45.000Z",
+   "value": 1.0966,
+   "change": -0.03,
+   "asOf": "2026-11-23T12:30:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.84,
-   "change": -4.03,
-   "asOf": "2026-11-23T12:08:10.000Z",
+   "value": 88.68,
+   "change": -4.2,
+   "asOf": "2026-11-23T12:21:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61209,
-   "change": 0.08,
-   "asOf": "2026-11-23T12:18:10.000Z",
+   "value": 61286,
+   "change": 0.2,
+   "asOf": "2026-11-23T12:30:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "3 مواجهات ترسم ملامح المنافسة.. صراع القمة يشتعل في الجولة التاسعة بالدوري المصري",
-     "url": "https://www.elbalad.news/7191373",
+     "title": "الأسهم البريطانية تتعافى من أدنى مستوى في 5 أشهر بدعم من البنوك وشركات التعدين",
+     "url": "https://www.elbalad.news/7191398",
      "source": "صدى البلد",
-     "time": "2026-11-23T12:16:42.000Z",
-     "seen": "2026-11-23T12:18:13.567Z"
+     "time": "2026-11-23T12:27:02.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
     },
     {
-     "title": "فيلم \"ألعاب الجوع\" يحقق 225 مليون دولار عالميا في أيامه الأولى",
-     "url": "https://www.elbalad.news/7191378",
+     "title": "أبو هميلة يدين العمل الإرهابي بميناء بنغازي: أمن ليبيا جزء لا يتجزأ من الأمن القومي العربي",
+     "url": "https://www.elbalad.news/7191396",
      "source": "صدى البلد",
-     "time": "2026-11-23T12:16:09.000Z",
-     "seen": "2026-11-23T12:18:13.567Z"
+     "time": "2026-11-23T12:25:26.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
     },
     {
-     "title": "محافظ أسيوط: تحفيز الشباب على العمل الحر وإقامة المشروعات الخاصة",
-     "url": "https://www.elbalad.news/7191384",
+     "title": "9 ملايين جنيه مقابل عدم الفضـ.يحة.. حبس فتاة بتهمة ابتزاز رجل أعمال بفيديوهات خاصة بأكتوبر",
+     "url": "https://www.elbalad.news/7191399",
      "source": "صدى البلد",
-     "time": "2026-11-23T12:15:30.000Z",
-     "seen": "2026-11-23T12:18:13.567Z"
+     "time": "2026-11-23T12:24:32.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
     },
     {
      "title": "المجلس الرئاسي الليبي يحذر: بنغازي جرس إنذار ومواجهة الصراعات الدولية ضرورة",
@@ -242,11 +244,32 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "هل تتحوّل البنية التحتية إلى سلاح حرب في مناطق النزاع؟",
+     "url": "https://www.bbc.com/arabic/articles/cwy803y7n5xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T12:18:38.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
+    },
+    {
+     "title": "الجريدة الرسمية تنشر موافقة المركزي على زيادة رأس المال المرخص للبنك الأهلي المصري إلى 600 مليار جنيه",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCNHNIbWJIT0xWWWRtSmdsMGY1d2lINkFYZk5leGRaaU9QTUZjQm5LblEyMlFuRDRSeGhSak9rcjZrbDZlcnc?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-23T12:15:50.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
+    },
+    {
      "title": "سعر الصرف: المركزي54.50 -الأهلي 54.38 - بنك مصر54.35 - CIB 54.25 - أبوظبي الإسلامي 53.89 جنيه للبيع",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kRlMxTGJtNnpWR0NXTk1VOUM1RUFLNDRjbTFUQXk1YTFyRi1XdkEyVjNTb1pKQ1BqN1pXM09FWV81ZVNWdXN3Sl9QTlJtbmtnZEZSNg?oc=5",
      "source": "الأهرام اوتو",
      "time": "2026-11-23T12:14:03.000Z",
      "seen": "2026-11-23T12:18:13.567Z"
+    },
+    {
+     "title": "استقرار سعر الدولار فى البنوك اليوم الإثنين.. سجل 54.30 جنيه للشراء بالبنك الأهلى",
+     "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOV0lrdXJRU3g4WXZ6ZmJySWFRU0w4ei0yeFlnblUwZWRid05pMjBCbnl6bVpveEhpd1lMREZZMURsS0tuMnVqLWRSMTZPMHFVTDRsNW5OWFk4NGd4UEduYUVxNlFlMElNSDhpcktSOVVRQ0V4YnhWZjI4cXlNeDBuaGlwRWxEblFQamJPdnp1UVB6dE96RXRXOWt4QkxSN0lldXR2MzBuLXFBS1habk9yM3VFQUdlbGJtV3ktN0ZsOG0wdnVfdFhIMVppX080UDRFVTdqM29hdW9BeDg3YWxCRFNqTWF0Rk04ZDIwQkpBLVZXajJoN3dxY3dldXVMTXBab3Q0aktwdm1sYm12RkFadUdCTGZsRnhqbnYtY0ctNlhQN1lTcUdVNUM5eVktd21MZXROR0ZZYVpFWFZRbmJWeWtMS2l1R0xXVzN5bjZ0TmRjZmR6STg0a3picWlVY0g4bkZoaGVKZGVKazUwUWJOMEZZTXAyc0R3Y2xmeFhnMC1BR2lnZmdQTWZEeTdBQktlMXBGRmVKaUFCbHAyRWxxOXJsbVVldzBpMkszSdIBpwNBVV95cUxPekdCSnhlYlJkVDBTV24tekdXOXN1U2RWS3JxX2l6eFFHdnFMUkZ5dDRLYWVpZTctNmdxRmxKcjF3TzNRWVhEQXVMN0ZtdkhMWmxNVTRVLW91TXJxUF80blFRU2V4Yjl5U0VESW1HY1IycHg1enpqUzVwNG1HRlBvbkVwUWhGQWkxMk50a3pENmRWSTYycV9TTUpjU1R2UTlGaVAtV2JTOVhob1RUc2dIbnk0Qmc5ay1BWFA1alJnYjdRdTJIbkQtamlPUW10QnVHZl9yNXplQjZ6N3hIdGJDbUprMFc5V1pnZGFTMG5raXpsRWFZbTJvTFM2R1dWMjRuaU9PdlJnWWFsUFkyRDUwOEhhVHVBMzg4cjRzZFZTUEhwQ19feXFnbGlibDNCblUzbXJxN3E5QmpSVElpSTQ2dVRzZlMzSFhISzV4Mk9tekQ0MWJoWUhvWFJZUS1OZ0tlb3AtaDdCYVVWY0J5eWNkRTdGTk9YNWxwZFd4NjI5OERVa3pHcWV0QlJ5YjFnX0I0bFh1T1czQkl3NmdWdW4yQXhTc204Wlk?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T12:04:00.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
     },
     {
      "title": "مجلس إدارة مدينة مصر يوافق على شراء 18.15 مليون سهم خزينة",
@@ -309,13 +332,6 @@
      "impact": "يهتم به الراغبون في الادخار أو الاستثمار في الذهب بمصر لمعرفة تحركات الأسعار التأثراً بالسوق العالمي."
     },
     {
-     "title": "إيران تؤكد أنها ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي، ولقاء أمريكي قطري في واشنطن اليوم",
-     "url": "https://www.bbc.com/arabic/articles/cwn83zz9d95vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T10:50:55.000Z",
-     "seen": "2026-11-23T10:56:13.673Z"
-    },
-    {
      "title": "تحسن الأسواق الإقليمية وترقب استقرار الجنيه يدعمان البورصة المصرية",
      "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOa1MxMDdaU3pQR2dsRndYLUNZVzk4RHZsaFFlSE5VNmZPNThBeVVfdmFDUHk1NElRUkllSG9VQndsOEpVa2NKTmljVmFwQnVZVmR0WmxCYW94b21YeVZDT3Q3bkp5RWlZcGUtc0NHMGxLN0NBOXdtSUc0WkY2SXE5LUJIampac0dQbjktU1lFbTRYU0ZEM011REMyTXZCOEZFdWxYckRkYTZ6OTZIcEUzZk9pc0w4WHRKU1ZIMmw2X25UR1NHNjRHc0YyQmpVWFJ3MnpXMFc2NWdMSElVLVJGdkpWaFU5S1NwLXM4MmpEWS1QNXptVW41emZ4ZG1UaVh3S281VVlJWkw4RFlLaFdyeW5ibjFULUx3ZS05b0p0dmZ2YWpaeXM4Tkk5ZEdWT1NKSzRYQUhiZHh5QVRRRjZ3aE1mYldaLVFqN3VjNjRkVDRUaXZhQVZsXzBiNjVxTkZqUkFUQng0RGYwR0t4U2hDSzYtVnliMndvQnkxQV9SZHNYRmRCVlZwLS1ia0Z3LVdCQmJVbEZQamhRc2x5TTU1YkY1OHZZSktKYWF0bmRGYktmQktrVEFHRVJfZ0ZKblpOY2dMdWRWYVdQODRaVDNhSDkwZ3pJRldPWnc1RndPZ0lFVEpMUm5DSURwckQ2T20xc0plbmxrNHhxWUNCY21ob2Z4T0JYdzhpN0xEVENqRVNPU1NWd3FSUjFWdU5pQV9jSVlyQkhtUDhxUFVQSjVOOWFTYmRSTDZudWxMd00tTVZhUXNsTW9yWkRiTdIBywRBVV95cUxOa1MxMDdaU3pQR2dsRndYLUNZVzk4RHZsaFFlSE5VNmZPNThBeVVfdmFDUHk1NElRUkllSG9VQndsOEpVa2NKTmljVmFwQnVZVmR0WmxCYW94b21YeVZDT3Q3bkp5RWlZcGUtc0NHMGxLN0NBOXdtSUc0WkY2SXE5LUJIampac0dQbjktU1lFbTRYU0ZEM011REMyTXZCOEZFdWxYckRkYTZ6OTZIcEUzZk9pc0w4WHRKU1ZIMmw2X25UR1NHNjRHc0YyQmpVWFJ3MnpXMFc2NWdMSElVLVJGdkpWaFU5S1NwLXM4MmpEWS1QNXptVW41emZ4ZG1UaVh3S281VVlJWkw4RFlLaFdyeW5ibjFULUx3ZS05b0p0dmZ2YWpaeXM4Tkk5ZEdWT1NKSzRYQUhiZHh5QVRRRjZ3aE1mYldaLVFqN3VjNjRkVDRUaXZhQVZsXzBiNjVxTkZqUkFUQng0RGYwR0t4U2hDSzYtVnliMndvQnkxQV9SZHNYRmRCVlZwLS1ia0Z3LVdCQmJVbEZQamhRc2x5TTU1YkY1OHZZSktKYWF0bmRGYktmQktrVEFHRVJfZ0ZKblpOY2dMdWRWYVdQODRaVDNhSDkwZ3pJRldPWnc1RndPZ0lFVEpMUm5DSURwckQ2T20xc0plbmxrNHhxWUNCY21ob2Z4T0JYdzhpN0xEVENqRVNPU1NWd3FSUjFWdU5pQV9jSVlyQkhtUDhxUFVQSjVOOWFTYmRSTDZudWxMd00tTVZhUXNsTW9yWkRiTQ?oc=5",
      "source": "العربية",
@@ -326,24 +342,9 @@
      "title": "\"المركزي المصري\" يطلق خدمات ترميز بطاقات الدفع على تطبيقات الهاتف المحمول",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GRkc4N2pQN1dhOVJydGVsSy1ZRFF5Rm43V2hrTlk1VVVZY2JqYkRIcUZfSjJZTm85bWlBQVVyZ01IUXh5YlM2TThicHJoSFpsdjFSUUpB?oc=5",
      "source": "جريدة البورصة",
-     "time": "2026-11-23T10:30:00.000Z",
+     "time": "2026-11-23T10:23:30.000Z",
      "seen": "2026-11-23T10:26:13.769Z",
      "impact": "يسهل على عملاء البنوك في مصر إجراء المعاملات المالية اليومية والدفع اللاتلامسي عبر الهواتف المحمولة."
-    },
-    {
-     "title": "سعر الدولار يواصل التراجع أمام الجنيه بمنتصف تعاملات اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOMEYtNlJZSWdTcWV1TnR3d2NJeVFySWxlZFZFSGRyM1ljMWFrUkVCaEg4eXUwU3hNdDlBb2N1WUF6QlNiUThRXzYzOGdiMWQxUDVvb0FaMWdGTGtlOGdMX3gwWjNpN2k0aEZvQ3g4QUI1VEhhTHBJRVpiMXM3Qk04YWlwaHB5WGRKbzRzdkZtV1lON19qR0k4QjlvSG5GMVU3YVBCODJoUUlkNVFMS0lvWVlQTkxOQWIxR1I1M2lCN2NXOXNmUWYtbUFGcXNfWHZaeC1PbDF6bVJSZFIzblc1UWtfcExud2ZPWFNVd01KYzNrS1hSYmhNaVdsazUxbzFPcHN0aEM5RkdPcGttZGM0OE9SM0tYQkRza0QyV1FyNkxKNnJ0R04wZ2Rabl9aM25IQktfVXFGZlhlWWRVZjQxQ3IzWUI3dURsaGIyRkZOYTF5eHBFOXlyTVhxR3FWblE4OTdVcloxeHlWa3VyREdpWEVSRW43ZjJhMEpGOXVWYmpuMGYzR0RROTRiWmhFLXktc3k1cmtUanRhRXRnTnItQkprdzA1UXNjNUgxVGpsOXh6R0Foa3VybmFEdXVxSEhqSXNlTmlRX1RJaVh2cmVGUS1aeHNsallicXg1R3V0VEwwb3F0Mi1IUHk0Y2VBeVFCdzdPVVBONDF6MUdkU2VweUJJaVd4UjhqSFBTX3hZUjVXX1AtUUx4NXhDc0lQUzRYT2RENWZrN1NwQWdDZmRB0gGqBEFVX3lxTE83MHVhNGFmUlAwanBFUUhuTTBpTzJFR1FCWmtMSzVFbkFVSjlhbk14Sk9mYkc5VVYzWU9wRzgzbm5JVUxVM0NRNXZZM0RwUFU5VTg2X0tEM2lmc0xSOWRTOXJWQmVsMDE2MEtQa2JrUzA0TG9wNEpCclZpVXBBUGI0ZDcyXzBja2pIalhFbWdXZEZsNEp6ZHFUZktTQmpRa3p1OXBEUzgwd2RhM0FOZFFFLUhyenEzZzlwVWFCNXlTeHJhWGV2Uks1UlpCczhhS1ZBcFBFall3XzVuQmhoVFhtVW1RUlFIZmJ6WHRUYm9GOE5uOENnZDNubl9wLUtNZ0FSM1dfdmdudXRVX1JLTi1Sby04TFltUHotVWx4U2d3cU5VWEdwQkJXMmVKY2MwenhXYTBuRmNCMlQ1UnpuQ2xZV0hGbjJWbk1PR3U3RWRFdTN3VkNTVzZQYTFQb3dLcHRaeURQR2lhV2Z1OUFuT3FrTENBVkdYRG1ScEVDd0luVTZ3M2U4dlAzaENyaC1CUkhDUUxLUmUxeklVSHhZaFhXTG01dnhXMkQ0SnYyZFQtbDBlMlo3R08tOUFTVVRvelg2UnZOTXQwV2NBS0I2eVEtaU9Sc0xhcFBBMVBYeWI0bUpua3Y2dzVfVDllNl91Z21VVWF0a0hBQW9ld0dIQVNnNmNHUThnaWtJQzBpb0V2ZWVocXo0Mm5mXzF4OWZDclJ1MUJHcDNHX1ZB?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T10:21:00.000Z",
-     "seen": "2026-11-23T10:36:13.689Z",
-     "impact": "يؤثر تراجع سعر الدولار أمام الجنيه على تكاليف الواردات وأسعار السلع في السوق المحلي."
-    },
-    {
-     "title": "التجاري الدولي يطلق “CIB Pay” للدفع عبر هواتف الأندرويد بدون بطاقة بلاستيكية",
-     "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNYXZPYUQwa3lFbnFjX0FxWjV2TUh4bnZIeXB3WnhmTmhZeHBMSFpoOWtLdUhUS3JodXduUjZUT3dfS014TkIySjVMTENkRXY3dF83dU15NU8yV01DNWZqX19wNnFsVFhlUjRjZzVnekhzSDZUUVlVMUhxcmVWNXVvQTNZdkhUeE44eU85WlZVLTZOUGhOQ3l4Y29EREpTSjJoS0l4R0poM0xHcnZFRllvRmRlS0xjdnpMcGtZM0VoVGdKaVJYTlg4VE9Qb1ptdUU2S0REN0dvYVhMU2F1blFCNWpNcENIT01uME1vOG1PX19JZTEwVWM3b3IwOUV2WDZmVjlyNE9rUTNGLUU1ZmZCcXY4bEM0R1RMSGU0UjlSWGNUU1dPWUJqM01UMG1ONFluNVpPdTJaZTJXd0E2Y0llRTJxQXNlQUxmN3UyVmNPV3V6V0tKSFJ6RnNLODQ5czZYWmRIaU1XWEM3Zmdubmdzd056WXdXRlFNdFZNZTFhZkVMcGNubHdXRF8yN0JlQ1ZKNkFFcjQtOFZGYkVTS1JPa2RPSU14ZEV6N2xDSVRDM05VT0lidFVmOVU4UFZpQzU1VUlxQTVzQ3pLRzhpdDdvaS1feFJCMVdORVBXb2Zmc0w3SVZaRGFhX2tSWHRKcWJwclloa1JPYWRleV9yR3FTR2I0dHM4LW9WS1gxZ1VaUkFBUkhXRmNsZjdCMUkyWEFReWdKRjI4YzVEWFlaOG9XV0ZwV255TXBucVFsVkU1RG4xM2lIZEtjdmhTU0liejJ3WlNnM20tTdIB3ARBVV95cUxQUnM1RTEybGpMWDQxcjJOR0F2TWIxWTJ1T3RUNGktc0JhaDVOalhIQ1dYQ1Z2QzdpZHNudVg1cjBzMDUydGI2VVo5Z0xDR1dYbzJMb2JySWNCUmZvUzNIYXZqbkxwc09iMnpKdjZCSlBKcm9HM1hMLUREbzViZXBsZEhaLVNqbXdYc2Y2Sks5ckJ2M2lkdzl5a2lmWWxBb2ZQVGhsRTc0Zm5NS3dVbWw3cWlTcTBhSjMyc1pvSFdwVXhsbmxxaHRzeXNVYlh0UXhYaldPSnRveFMwdlR2dkNOa1doZ3UwU2xZY3BlQi0xcFktbDRSY2Y2UWJqMURvOFFXdXJrOXhZZXhfcjZKaEtfSlVERFYwcGtuZHNxWXZNQXlKUFIzZGlrb1Fxd0FOLTh1MkRzcmVVQTVpdUY4ckp4MVY4Y2FncG0zdXZqanRWWmlVNkZDYXR4RGl0bll5V0FFSXl1LTY5bW9EOFcwN2hYNGhZb1hWcG94aTZyQUoxckRJSUxCSG5BQlVXeGNfVDJYNWVVQlVteWt1UHJOVUZrMWJ4SVNMV3pGY1JMUnN6WERBUl9DVWNHMjRtdkVRQjd6eU9pT3FXSjN6QXhqUU5yWnRmSXY4anBjMEVIazZraU9fdmdWdmt6dExGWFZORTNVTnU0Q2lzZ2c2RDc3NGsybU5Zb2VwM2QxaW41OVdmRUFFN0JyR2JaU2JKWmY1bmhsWG1ubTd6ckNhbTFGamluQTRqdEQ3SEVtZkQ4V1U2Ukt3OFdjV2x0eWE5aEVOUjJyaFF0dGp4dnFUQmgz?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-23T10:18:39.000Z",
-     "seen": "2026-11-23T12:06:13.698Z"
     }
    ]
   },
@@ -351,6 +352,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بعد هجوم بنغازي.. الاستخبارات الليبية تحذر من تهديد الملاحة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906569-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-23T12:22:34.000Z",
+     "seen": "2026-11-23T12:28:14.190Z"
+    },
     {
      "title": "الجزائر: أضخم ميزانية في تاريخ البلاد وسط تحديات إقليمية ودولية",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/20261123-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%A8%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A",
@@ -402,6 +410,13 @@
      "seen": "2026-11-23T11:26:13.933Z"
     },
     {
+     "title": "إيران تؤكد أنها ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي، ولقاء أمريكي قطري في واشنطن اليوم",
+     "url": "https://www.bbc.com/arabic/articles/cwn83zz9d95vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T10:50:55.000Z",
+     "seen": "2026-11-23T10:56:13.673Z"
+    },
+    {
      "title": "السعودية..مديرية الجوازات تكشف مهلة تصحيح أوضاع اليمنيين بالمملكة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/ksa-grace-period-regularizing-status-yemenis",
      "source": "CNN بالعربية",
@@ -423,13 +438,6 @@
      "seen": "2026-11-23T11:26:13.933Z"
     },
     {
-     "title": "صور متحدثة الجيش الإسرائيلي بمدرسة لبنانية تثير إدانات",
-     "url": "https://www.skynewsarabia.com/middle-east/1906527-%D8%B5%D9%88%D8%B1-%D9%85%D8%AA%D8%AD%D8%AF%D8%AB%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-23T10:06:42.000Z",
-     "seen": "2026-11-23T10:16:13.855Z"
-    },
-    {
      "title": "زيلينسكي: أوكرانيا أغرقت فرقاطة روسية وأصابت سفينة شحن قبالة ليبيا",
      "url": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -442,13 +450,6 @@
      "source": "العربية",
      "time": "2026-11-23T09:58:00.000Z",
      "seen": "2026-11-23T10:26:13.769Z"
-    },
-    {
-     "title": "التحالف السعودي يؤكد اعتراض صاروخ بالستي والحوثيون يعلنون استهداف مصفاة رابغ",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNd29yTU05bUlEcG9iajZCUFd0ZkdyZEdJS0tZYjF2Nmd4ZDJNYWtleURPOVdaTE1FRTY1S0wwbmtkQmFYQUxPTFZjY0JDMDNUOEo5U2NlbG02YkRKbU9MemJILWdCUWNabE5kY3FOc0l2SVBkaVRUSTU3U01IeTlBeVh6ZW1hUDNyR2plVTZDUlNnZ25WbEcxMDNFemdJWF9LNkUyWHB5bXlHTkhWY1pXak1DWFYxYzZkWk9ucmRCOWZONDhiOW5iNEtNRVpzakRmX1FkWjRRbVV6MXdPTjVYOUJBcVk4a3d6dVkzWUhuYmJ5TGxFMVlPS1ZRZTRvckpJSWhvMV9KclJDdFhGaFFpZ1dNbmhTOWF3OFZveXpQVTB6cHdMeW04MXNTWkU2OEZZZExyaTRXcFUxQV82aGVKUko2bnhQNTNmY1ZHOUhhOVp3NDE1WjNEZ1JjWURNU3JIRnhLZ0pFbFplUGtYdXdHLXRKVXdVMnpnOWl6TGFiSEd6RDZGNG5ONGg4S2cwaTBUSzNXWEVGaTVOYlNXZG4wazVmbzdLS2pQaWZVS0dmQ3RRRmowazlOQXFQTGJXY1pkYTNWODBoTXpldGRtTnVDODdmT0U0MjQ5YlMzektyV0VpcTRtSkxvTW9mRHlTLW5UOXdyS3FCM2c4OTVRa0dBUnlhTzU1Mnk2V04yRFFSOFdoaTlTZ1diaTFZejJqTVFPU2hZV1RGNmNGbi1oRWlFZUc4N0VkYk9y?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-23T09:44:10.000Z",
-     "seen": "2026-11-23T12:18:13.567Z"
     }
    ]
   },
@@ -564,6 +565,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "world",
+   "feed": "فرانس 24",
+   "error": "HTTP 403"
+  }
+ ],
  "marketErrors": []
 }
