@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:35:58.574Z",
+ "updated": "2026-11-23T03:45:58.643Z",
  "minute": [
   "تداولت الأخبار استقرار أسعار صرف الدولار مقابل الجنيه المصري في البنوك المحلية.",
   "إقليمياً، شهدت ليبيا توقف تدفق النفط من ميناء الشرارة واستهداف سفن، إلى جانب تقارير عن هجوم وتوترات في المنطقة.",
@@ -11,7 +11,7 @@
   "key": 2,
   "impacts": 7,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T03:35:58.574Z"
+  "errorAt": "2026-11-23T03:45:58.643Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5513,
-   "change": 3.64,
-   "asOf": "2026-11-23T03:26:00.000Z",
+   "value": 5519,
+   "change": 3.75,
+   "asOf": "2026-11-23T03:36:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6294,
-   "change": 3.64,
-   "asOf": "2026-11-23T03:26:00.000Z",
+   "value": 6301,
+   "change": 3.75,
+   "asOf": "2026-11-23T03:36:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3605,
-   "change": 2.53,
-   "asOf": "2026-11-23T03:26:00.000Z",
+   "value": 3608,
+   "change": 2.64,
+   "asOf": "2026-11-23T03:36:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0987,
-   "change": 0.16,
-   "asOf": "2026-11-23T03:35:43.000Z",
+   "value": 1.0984,
+   "change": 0.13,
+   "asOf": "2026-11-23T03:45:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.69,
-   "change": -3.11,
-   "asOf": "2026-11-23T03:21:25.000Z",
+   "value": 89.82,
+   "change": -2.97,
+   "asOf": "2026-11-23T03:34:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61548,
-   "change": 2.42,
-   "asOf": "2026-11-23T03:35:39.000Z",
+   "value": 61126,
+   "change": 1.72,
+   "asOf": "2026-11-23T03:45:57.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "السودان.. منظمة إغاثة تتهم الدعم السريع بنهب قرية أبو قلب",
+     "url": "https://www.elbalad.news/7190931",
+     "source": "صدى البلد",
+     "time": "2026-11-23T03:41:08.000Z",
+     "seen": "2026-11-23T03:45:58.643Z"
+    },
+    {
      "title": "متحدث اللجنة المصرية بغزة: دخول قوافل مساعدات مصرية محملة بالمواد الغذائية والخيام والبطاطين",
      "url": "https://www.elbalad.news/7190843",
      "source": "صدى البلد",
@@ -151,13 +158,6 @@
      "source": "صدى البلد",
      "time": "2026-11-23T03:21:31.000Z",
      "seen": "2026-11-23T03:25:58.335Z"
-    },
-    {
-     "title": "كوريا الجنوبية تتحرك لتمديد مهمتها قرب خليج عدن.. هل تشارك في حرب إيران؟",
-     "url": "https://www.elbalad.news/7190927",
-     "source": "صدى البلد",
-     "time": "2026-11-23T03:02:31.000Z",
-     "seen": "2026-11-23T03:05:59.140Z"
     },
     {
      "title": "5 معلومات مهمة عن امتحانات الثانوية العامة 2027.. التفاصيل",
@@ -379,7 +379,7 @@
      "title": "أول بيان من \"الجيش الليبي\" بعد استهداف سفينة حربية روسية في بنغازي",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb25EM2g0UUxTU1ViVHNiLU92eTZuOEdFeVVwQ1g0LUwwN1ZrVi10M0JySGtpS05mVUZJaFRLUXR1VTNxZjlqWVl4djRvQkhWZ01vODNqNUN0dUpfQ2kySEJHTXVWTlVscGFGbUFoMlo1TWxBeDFXM1pnZ2ZIUGYwZkwxdXpJdHQ5akl4TllnTVo3ejFNY3g0aDcyYVBIcUdVbVdrcDdCakRjMkJ1cnRj?oc=5",
      "source": "CNN Arabic",
-     "time": "2026-11-23T00:06:17.000Z",
+     "time": "2026-11-23T00:35:16.000Z",
      "seen": "2026-11-23T02:55:58.831Z"
     },
     {
@@ -562,12 +562,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
