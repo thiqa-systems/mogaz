@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:35:58.526Z",
+ "updated": "2026-11-23T06:36:13.898Z",
  "minute": [
   "تداولت الأخبار استقرار أسعار صرف الدولار مقابل الجنيه المصري في البنوك المحلية.",
   "إقليمياً، شهدت ليبيا توقف تدفق النفط من ميناء الشرارة واستهداف سفن، إلى جانب تقارير عن هجوم وتوترات في المنطقة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-23T06:35:58.526Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T06:36:13.898Z"
  },
  "markets": [
   {
@@ -20,25 +20,25 @@
    "unit": "ج.م",
    "value": 54.37,
    "change": 1.08,
-   "asOf": "2026-11-23T06:33:47.000Z",
+   "asOf": "2026-11-23T06:37:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5532,
-   "change": 4,
-   "asOf": "2026-11-23T06:25:57.000Z",
+   "value": 5533,
+   "change": 4.01,
+   "asOf": "2026-11-23T06:27:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6316,
-   "change": 4,
-   "asOf": "2026-11-23T06:25:57.000Z",
+   "value": 6317,
+   "change": 4.01,
+   "asOf": "2026-11-23T06:27:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +46,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3617,
-   "change": 2.89,
-   "asOf": "2026-11-23T06:25:57.000Z",
+   "change": 2.9,
+   "asOf": "2026-11-23T06:27:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.1001,
    "change": 0.29,
-   "asOf": "2026-11-23T06:35:47.000Z",
+   "asOf": "2026-11-23T06:36:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.9,
-   "change": -2.88,
-   "asOf": "2026-11-23T06:25:42.000Z",
+   "value": 89.94,
+   "change": -2.84,
+   "asOf": "2026-11-23T06:27:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61338,
-   "change": 2.07,
-   "asOf": "2026-11-23T06:35:59.000Z",
+   "value": 61386,
+   "change": 2.15,
+   "asOf": "2026-11-23T06:37:35.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -209,6 +209,13 @@
      "seen": "2026-11-23T05:55:58.547Z"
     },
     {
+     "title": "تبدأ يوم خميس إجازة 3 أيام متتالية.. موعد أول عطلة رسمية للطلاب والموظفين",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TTWlLdTFpMUxwb3FVLXBoU1lBMXgya2tmNnVDVzVGSlUtVWJoWE9jWWJYTnNWX1lpd0VQQXBhTnFCX3VueV9SMnJpWGlpS2ZWcGdzYmFpUnRrZ3JTSlFZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-22T23:25:00.000Z",
+     "seen": "2026-11-23T06:36:13.898Z"
+    },
+    {
      "title": "حذف صفرين من الجنيه المصري.. شريف دلاور يقترح إصدار جنيه جديد يعادل 3 دولارات",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPMmhUUHZSY2tMMXNMRWN6Qmk1cU1RSWlMcFUyd1pyWE5zYjNYNFNaTXlWSjZva3JKRUtTLVA3SUpBVEFzd1BtMlp6T3JIR2FSLWpJX1BYaGFnTXVyN3A0?oc=5",
      "source": "المصري اليوم",
@@ -222,13 +229,6 @@
      "time": "2026-11-22T22:27:59.000Z",
      "seen": "2026-11-22T22:35:18.166Z",
      "impact": "قد يساهم سعي الدولة لدعم صناعة الهواتف في توفير بدائل محلية وتوسيع الفرص الاستثمارية بالقطاع."
-    },
-    {
-     "title": "بعد الانخفاض الكبير.. سعر كيلو الفراخ البيضاء اليوم الإثنين 23-11-2026 بالأسواق وبورصة الدواجن الآن",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VM2ZMaEZpS19iakM3XzlYMXVkbnZxSjFOQ2xPTFM5amJCZGw4UjFUZVhsS2cyU3kxVjI1TVRtSTE3UklYa09WTWNsODZzZkdSQm5ydnVVdjdaU1lKdGNR?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-22T22:21:00.000Z",
-     "seen": "2026-11-23T06:25:58.472Z"
     },
     {
      "title": "خروج شريك \"نورهان\" قاتلة والدتها من مؤسسة الأحداث في بورسعيد",
@@ -300,7 +300,7 @@
      "seen": "2026-11-23T05:05:58.497Z"
     },
     {
-     "title": "سعر الذهب يرتفع 2.1% ويعود فوق 3,600 دولار مع تلويح ترامب بضرب إيران",
+     "title": "عاجل: سعر الذهب يرتفع 1.1% قرب 3,578 دولاراً مع افتتاح الأسبوع وتهديد ترامب",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LendpQjNwSTd6WjUxVm9VVFNBbFBQLXhkOWF1R0I5NGo2aHlHeGFrQ0RFTVlLWV9BcHJmZTk0OXZUbloxYm95Sjc3OXVwYW1vQU1uZmZDZFdQSElodTdvQ1hBYTRLTzN6VFo4VzQyUQ?oc=5",
      "source": "Investing.com",
      "time": "2026-11-23T04:54:59.000Z",
@@ -349,6 +349,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "\"قلق بالغ\".. بيان مصري بعد استهداف سفينة حربية روسية في بنغازي",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/egyptian-statement-following-an-attack-a-russian-warship-benghazi",
+     "source": "CNN بالعربية",
+     "time": "2026-11-23T06:31:49.000Z",
+     "seen": "2026-11-23T06:36:13.898Z"
+    },
+    {
      "title": "مباشر: مقتل أربعة أشخاص في ضربات سعودية على الحديدة وفق إعلام حوثي",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261123-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9",
      "source": "فرانس 24",
@@ -384,13 +391,6 @@
      "seen": "2026-11-23T05:05:58.497Z"
     },
     {
-     "title": "ليبيا.. أول تعليق لصدام حفتر على وجود \"خلافات\" مع مصر",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/saddam-haftar-denies-the-existence-of-any-rifts-with-egypt",
-     "source": "CNN بالعربية",
-     "time": "2026-11-23T04:35:38.000Z",
-     "seen": "2026-11-23T04:45:59.237Z"
-    },
-    {
      "title": "البحرين تعلن إصابة اثنين بعد قصف إيراني في المنامة",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SQ2tyWkh0Z2ozVkxlemJ0TEhvMFZLcTJ0eDJfMkY4RkNVVDM5b0ZKcVZOTWNFTjZWMTlRcjI1NTN2X0Jia1RqRmhLNjBqSzRLVDRlTXhNTnd2UUpuUGc?oc=5",
      "source": "BBC",
@@ -405,25 +405,25 @@
      "seen": "2026-11-23T03:55:58.739Z"
     },
     {
-     "title": "بعد تعثره مع الليكود.. تقدم بمفاوضات آيزنكوت والحريديم حول قانون التجنيد",
-     "url": "https://www.aljazeera.net/news/2026/11/23/%d8%a8%d8%b9%d8%af-%d8%aa%d8%b9%d8%ab%d8%b1%d9%87-%d9%85%d8%b9-%d8%a7%d9%84%d9%84%d9%8a%d9%83%d9%88%d8%af-%d8%aa%d9%82%d8%af%d9%85-%d8%a8%d9%85%d9%81%d8%a7%d9%88%d8%b6%d8%a7%d8%aa?traffic_source=rss",
+     "title": "ليبيا.. إغلاقات بأنابيب نفط تسبب خسارة 365 ألف برميل يوميا",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/23/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d8%b5%d9%85%d8%a7%d9%85-%d8%ae%d8%b7-%d8%a3%d9%86%d8%a7%d8%a8%d9%8a%d8%a8-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%b1%d8%a9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-23T02:58:01.000Z",
-     "seen": "2026-11-23T06:15:58.299Z"
+     "time": "2026-11-23T03:24:19.000Z",
+     "seen": "2026-11-23T06:36:13.898Z"
     },
     {
-     "title": "مستوطنون بزي الجيش يعتدون على عائلة فلسطينية خنقا وبالعصي",
-     "url": "https://www.aljazeera.net/politics/2026/11/23/%d8%ae%d9%86%d9%82%d8%a7-%d8%b9%d8%b5%d9%8a-%d9%85%d8%b3%d8%aa%d9%88%d8%b7%d9%86%d9%88%d9%86-%d8%a8%d8%b2%d9%8a-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%aa%d9%84%d9%81%d9%8a%d8%aa?traffic_source=rss",
+     "title": "إدانات دولية لهجمات الخرطوم وأمريكا تدعو لوقف تدفق الأسلحة إلى السودان",
+     "url": "https://www.aljazeera.net/news/2026/11/23/%d8%a5%d8%af%d8%a7%d9%86%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d8%ae%d8%b1%d8%b7%d9%88%d9%85-%d9%88%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-23T02:37:20.000Z",
-     "seen": "2026-11-23T05:45:58.298Z"
+     "time": "2026-11-23T03:21:35.000Z",
+     "seen": "2026-11-23T06:36:13.898Z"
     },
     {
-     "title": "6 أجهزة ذكية توظف الذكاء الاصطناعي لتطوير العمل من المنزل",
-     "url": "https://www.aljazeera.net/tech/2026/11/23/6-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d8%aa%d9%88%d8%b8%d9%81-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a?traffic_source=rss",
+     "title": "نيويورك تايمز: تقارير استخباراتية تكشف تفاصيل جديدة عن الاختراق الصيني لـ\"إنفيديا\"",
+     "url": "https://www.aljazeera.net/news/2026/11/23/%d8%b9%d9%84%d8%a7%d9%82%d8%a9-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%a9-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-23T02:00:00.000Z",
-     "seen": "2026-11-23T05:15:59.262Z"
+     "time": "2026-11-23T03:21:26.000Z",
+     "seen": "2026-11-23T06:36:13.898Z"
     },
     {
      "title": "ليبيا.. تخريب خط أنابيب نفط يفقد البلاد 365 ألف برميل يوميا",
