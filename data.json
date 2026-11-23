@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-23T23:19:02.246Z",
+ "updated": "2026-11-23T23:29:02.292Z",
  "minute": [
-  "تستعد الحكومة المصرية للكشف عن برنامج التحول الاقتصادي وتكثف هيئة الدواء جهودها لضمان توافر المستحضرات في الأسواق.",
-  "تستضيف القاهرة فعاليات اقتصادية وتعليمية تركز على بناء القدرات وتوفير دليل إرشادي للطلاب المدمجين.",
-  "تستمر التطورات السياسية والعسكرية في المنطقة مع طرح مبادرات لتوحيد المؤسسات في ليبيا واستمرار المواجهات في اليمن.",
-  "تتابع القطاعات التكنولوجية العالمية قضايا تتعلق بأسعار الهواتف الذكية وتطبيقات الذكاء الاصطناعي والتطورات الفضائية."
+  "سجل سعر صرف الدولار مقابل الجنيه المصري استقراراً وثباتاً في تعاملات البنوك.",
+  "بحثت هيئة الدواء المصرية دعم الاستثمارات والتوسع مع شركة إيفا فارما، بالتزامن مع استهداف شركات مصرية إقامة مصانع في العراق.",
+  "تشهد وتيرة العمل في المشروع النووي المصري تسارعاً، وسط توضيحات رسمية تخص قطاع الكهرباء المحلي وتحذيرات دولية من أعطال تكنولوجية."
  ],
  "ai": {
-  "at": "2026-11-23T17:58:41.870Z",
-  "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-23T23:19:02.246Z"
+  "at": "2026-11-23T23:29:02.292Z",
+  "model": "gemini-3.8-flash",
+  "key": 2,
+  "impacts": 6
  },
  "markets": [
   {
@@ -21,34 +18,34 @@
    "unit": "ج.م",
    "value": 54.19,
    "change": 0.75,
-   "asOf": "2026-11-23T22:21:45.000Z",
+   "asOf": "2026-11-23T23:25:36.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5541,
-   "change": 4.17,
-   "asOf": "2026-11-23T23:10:11.000Z",
+   "value": 5533,
+   "change": 4.01,
+   "asOf": "2026-11-23T23:18:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6327,
-   "change": 4.17,
-   "asOf": "2026-11-23T23:10:11.000Z",
+   "value": 6317,
+   "change": 4.01,
+   "asOf": "2026-11-23T23:18:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3635,
-   "change": 3.4,
-   "asOf": "2026-11-23T23:10:11.000Z",
+   "value": 3629,
+   "change": 3.24,
+   "asOf": "2026-11-23T23:18:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0909,
-   "change": -0.55,
-   "asOf": "2026-11-23T23:19:44.000Z",
+   "value": 1.091,
+   "change": -0.54,
+   "asOf": "2026-11-23T23:28:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.72,
-   "change": -6.32,
-   "asOf": "2026-11-23T23:10:05.000Z",
+   "value": 86.74,
+   "change": -6.3,
+   "asOf": "2026-11-23T23:18:15.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61452,
-   "change": 0.47,
-   "asOf": "2026-11-23T23:20:10.000Z",
+   "value": 61513,
+   "change": 0.57,
+   "asOf": "2026-11-23T23:29:12.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,17 +137,24 @@
    "title": "مصر",
    "items": [
     {
+     "title": "ليلة سعيدة.. ناصر ماهر يستفز جماهير الأهلي بعد الفوز بثنائية نظيفة",
+     "url": "https://www.elbalad.news/7192274",
+     "source": "صدى البلد",
+     "time": "2026-11-23T23:22:18.000Z",
+     "seen": "2026-11-23T23:29:02.292Z"
+    },
+    {
+     "title": "74 جلدة.. إيران تعاقب مغنية شهيرة بسبب الغناء دون حجاب",
+     "url": "https://www.elbalad.news/7192276",
+     "source": "صدى البلد",
+     "time": "2026-11-23T23:19:24.000Z",
+     "seen": "2026-11-23T23:29:02.292Z"
+    },
+    {
      "title": "نقل 6 أشخاص إلى المستشفى إثر حادث تسرب مواد كيميائية في لوس أنجلوس",
      "url": "https://www.elbalad.news/7192269",
      "source": "صدى البلد",
      "time": "2026-11-23T23:04:02.000Z",
-     "seen": "2026-11-23T23:08:41.660Z"
-    },
-    {
-     "title": "الأهلي يبلغ الحسين عموتة بقرار الرحيل وتحركات عاجلة من الخطيب لاختيار مدير فني جديد|خاص",
-     "url": "https://www.elbalad.news/7192267",
-     "source": "صدى البلد",
-     "time": "2026-11-23T23:02:06.000Z",
      "seen": "2026-11-23T23:08:41.660Z"
     },
     {
@@ -164,13 +168,6 @@
      "title": "متى ينعقد المجمع المقدس دون رئاسة البابا؟ اللائحة تحدد 3 استثناءات وضوابطها",
      "url": "https://www.youm7.com/story/2026/11/24/متى-ينعقد-المجمع-المقدس-دون-رئاسة-البابا-اللائحة-تحدد-3/7629310",
      "source": "اليوم السابع",
-     "time": "2026-11-23T23:00:00.000Z",
-     "seen": "2026-11-23T23:08:41.660Z"
-    },
-    {
-     "title": "حكم الوصية بحرمان وارث بسبب العقوق.. هل يسقط حق الابن العاق في الميراث؟",
-     "url": "https://www.elbalad.news/7192249",
-     "source": "صدى البلد",
      "time": "2026-11-23T23:00:00.000Z",
      "seen": "2026-11-23T23:08:41.660Z"
     },
@@ -247,7 +244,7 @@
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
      "source": "جريدة الدستور",
-     "time": "2026-11-23T23:17:17.000Z",
+     "time": "2026-11-23T23:22:42.000Z",
      "seen": "2026-11-23T23:19:02.246Z"
     },
     {
@@ -255,21 +252,24 @@
      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOMDkwOFhfSHhuclpBVVV5eFdMVy1nejhSRUtsTmtuX1dnNnNwMzFsVWt1X0FyM19OS1dqRUROVjJUdmdKd2J0YVBBbWY1VTUzeUlkMzhzUXdnMmtYRm8yVGdBVTZ4NVhPVzhNdG1ITjdkczNkN1BuY25DSE9JcGVHS0tjVktxWGhhblNJMFd3eFk0ZlRJenlPWjdPSFhDOXZsWlJUZWREcGxNUl9jWHBQZWliMzRJYUFzTjJudF9jVzkzanVaUXJJdTFMRFR4MVJQSjVQUUlOMmloNVI4bnJvOUZScW1vbGNWYjEtb3ZYYTM0Tm12SHBUTGtWWVRIRWZTQ0R5SXB3Nk0zbklWZjRCa05QQkFqdUd2SjRnd1g2Y09jci13UmNKaW4wN0dWcElWVnkxQ1RSbEduenJab0JUY0lqRlJZM05OTlljcE52cWgtSmhwYlNXWFVDd2ZpZm1pQTRLd3NUUGxHTmJTNEN1bl9Dei13YlI5ZGNMZXRlRzlkOXJsajY5SlBNb2NIdzZteXBrbUUxck0zMkxZb3QwdHkwbUVxSU85LTJ4Mm1ULURMRm5tUDk2clQ0M0Y1bTBNdGd6REdnS24xejkwVVA0TWw4YlXSAdQDQVVfeXFMTjA5MDhYX0h4bnJaQVVVeXhXTFctZ3o4UkVLbE5rbl9XZzZzcDMxbFVrdV9BcjNfTktXakVETlYyVHZnSndidGFQQW1mNVU1M3lJZDM4c1F3ZzJrWEZvMlRnQVU2eDVYT1c4TXRtSE43ZHMzZDdQbmNuQ0hPSXBlR0tLY1ZLcVhoYW5TSTBXd3hZNGZUSXp5T1o3T0hYQzl2bFpSVGVkRHBsTVJfY1hwUGVpYjM0SWFBc04ybnRfY1c5M2p1WlFySXUxTERUeDFSUEo1UFFJTjJpaDVSOG5ybzlGUnFtb2xjVmIxLW92WGEzNE5tdkhwVExrVllUSEVmU0NEeUlwdzZNM25JVmY0QmtOUEJBanVHdko0Z3dYNmNPY3Itd1JjSmluMDdHVnBJVlZ5MUNUUmxHbnpyWm9CVGNJakZSWTNOTk5ZY3BOdnFoLUpocGJTV1hVQ3dmaWZtaUE0S3dzVFBsR05iUzRDdW5fQ3otd2JSOWRjTGV0ZUc5ZDlybGo2OUpQTW9jSHc2bXlwa21FMXJNMzJMWW90MHR5MG1FcUlPOS0yeDJtVC1ETEZubVA5NnJUNDNGNW0wTXRnekRHZ0tuMXo5MFVQNE1sOGJV?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-23T22:04:36.000Z",
-     "seen": "2026-11-23T23:08:41.660Z"
+     "seen": "2026-11-23T23:08:41.660Z",
+     "impact": "يفيد الأفراد والمستثمرين في مصر في التخطيط المالي وتحديد تكاليف السلع والخدمات في ظل استقرار أسعار الصرف."
     },
     {
      "title": "«هيئة الدواء» تبحث مع «إيفا فارما» دعم الاستثمارات والتوسع بالسوق المصري",
      "url": "https://alborsaanews.com/2026/11/23/2008584",
      "source": "البورصة",
      "time": "2026-11-23T21:27:30.000Z",
-     "seen": "2026-11-23T22:08:41.456Z"
+     "seen": "2026-11-23T22:08:41.456Z",
+     "impact": "يهم المستثمرين والمواطنين لمتابعة نمو سوق الدواء المحلي وفرص زيادة الإنتاج والاستثمار في القطاع الطبي بمصر."
     },
     {
      "title": "شركات مصرية تستهدف إقامة مصانع جديدة والتوسع في العراق الفترة المقبلة",
      "url": "https://alborsaanews.com/2026/11/23/2008581",
      "source": "البورصة",
      "time": "2026-11-23T20:31:37.000Z",
-     "seen": "2026-11-23T21:18:42.252Z"
+     "seen": "2026-11-23T21:18:42.252Z",
+     "impact": "يساعد المستثمرين وأصحاب الأعمال المصريين في استكشاف فرص التوسع الصناعي وفتح أسواق تصديرية جديدة في العراق."
     },
     {
      "title": "نتنياهو يتّهم آيزنكوت بـ\"التقليل من خطورة\" التهديد الإيراني، ويدعو إلى تشكيل حكومة وحدة وطنية",
@@ -457,14 +457,16 @@
      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOMkFiMlpPVzY4ZWdGOWUtMVNvNll6c1JMV1dBSS1icjNKNWlhWlItOHJWRm9PSGtfd0lhZkoyWmItVGk3OERSTVg5QU1qSmRnR21MMFNlU2Z4VFh2SUpTXzNadThDY1U0cFQxd1VkNXltVkFKSEVOVFlSTFh0QWRfZ2JHTURoaHdMN2t3ZlRkZ2Z2VlB2OHlCQ1IxVWtiY3lXa3ZhelFXSGZrUHROMkpBWFJvR0ZNTExrdzcyeG5YcnZZV09MUndXb2hnbWdTYlJFbVRNaHR3RmdJQ0JnN2tPRVRWR29vVDRRa2hUNElGS0R1RVk1eDJEZXBheXlIU3JIbmdLOGdiaGZZcVlTbldoanNoSXRNV2FpbEtJdC1wQzZraXR2bTh1MXdybklRRUJPLWxqajYtSnV4d3hkb2hqLWZxcWRrRzh2NC05d2pSU3lEWmRsVWVsV2ZlTWNZZWhaX3o5UGZOMnpPMWw3SGlvX0tsSjRNM2lhclROS01vZkJvX0czUXZvalZTajFhUTVyMDVzM0RrNXRJQVZfRzdydkR1SWVVeGRCMmVxZlduZ1BUTklZUmx6cjNkT3E0eG4yNVRyRGRkNjUxZldxQkZNS3IxVndFdXhpR2MwYm1zX0hLUXM4ZEczLWhObExPdERiT1hZWWpNYXdWckpk?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-23T21:37:46.000Z",
-     "seen": "2026-11-23T21:48:42.242Z"
+     "seen": "2026-11-23T21:48:42.242Z",
+     "impact": "يهم المتابعين لقطاع الطاقة والمستثمرين في مصر لمعرفة تقدم مشروعات البنية التحتية الاستراتيجية لتوليد الطاقة."
     },
     {
      "title": "هل يجب تغيير عداد الكهرباء بعد 10 سنوات؟.. مسؤول سابق يوضح الحقيقة",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rVXlCbXRSamd1ZmlnbDNCTnJoemlTTEVvc01GN2p3RkYyTU8yLTdtYUZSNTJ6Vk02b0Y4cDRoZUtvMG5GUFRzZ2ZxeFVGcnFwVkxsazI5Zi1GWnZpdFhF?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-23T20:06:00.000Z",
-     "seen": "2026-11-23T23:08:41.660Z"
+     "seen": "2026-11-23T23:08:41.660Z",
+     "impact": "يهم الأفراد والمستهلكين في مصر للتعرف على حقيقة الإجراءات والضوابط المنظمة لاستخدام وتغيير عدادات الكهرباء في منازلهم."
     },
     {
      "title": "إعادة تعيين جينسن هوانغ رئيساً ومديراً تنفيذياً لشركة NVIDIA بعد مراجعة أمنية",
@@ -485,7 +487,8 @@
      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNSUhpN1pTR29tMzBMZ2lZd1otTE5yV3VXeXdnak1UeUNuTHVJT0dmbHcyd29Oc041Vl8wWnBVb0ppNno1eVNDc1pPMzlEaVFfdlg1blR0RFFoUThpa1FWNDdWQ1ZSZk1fZUFpSWpJTWVXUWhmYnFTMVNGdHY2NHBWRXU3VFRDSjMxXzJEalFUcGh4eDZDSDRsVVI5cHBiTkhFblhkZjFtMHRic1dLWjEtNVVVR1d6cmxWblBjVWpKaWxJNW8tZ2VOOFNwTXhPQV9kNnlXSlRnM1loUl9GM2Y3NGR5bm44UFk5ZDk3cWFEajREQ1RmZUJnMGxOUW5tSmZja3VsVHBGbmJWSllZRnhVU0YwMnBIODdVZ2FXTEFCMF9Bb3NUMTdBT2tEeG5vTEN6SnhMMWRQdVliQUVaM1N2WmhJVmpyR2JZcEpuQm1fNWIzSmxncDljNEFLT3daTnREb0JjOXhVQWFFMkhGZ09rVG9EY2syOFlhUEpEQVZvUWJ4OVZVMEJQdF9mRExUT3hwbHhqUmhieVhsNWRzRkZjam1SR0o0VmQ1UHc0VWQ4VXhNRy0tUFFIenEzcC1WZjBGd1diUVBpMmdKc1dTNnhMRExnb0FPSDNfNXJ4RTFMaHhRTEtaYjE1eVhQRmc?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-23T19:00:00.000Z",
-     "seen": "2026-11-23T23:09:01.345Z"
+     "seen": "2026-11-23T23:09:01.345Z",
+     "impact": "يهم قطاعات الأعمال والمؤسسات والأفراد في مصر لاتخاذ تدابير الحيطة والحفاظ على استمرارية الأنظمة الرقمية والخدمات التقنية."
     },
     {
      "title": "شركات تستعين بالذكاء الاصطناعي لتقليص خصومات \"الجمعة السوداء\"",
@@ -554,17 +557,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
