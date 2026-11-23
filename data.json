@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:06:13.521Z",
+ "updated": "2026-11-23T08:16:13.442Z",
  "minute": [
   "تناولت الأخبار تحديثات أسعار العملات ومتابعة ارتفاع وانتعاش الذهب عالمياً في ظل التحركات الجيوسياسية.",
   "محلياً في مصر، تقرر نزع ملكية عقارات بالمنصورة لتطوير المرافق، مع التركيز على تأهيل الشباب لوظائف الذكاء الاصطناعي.",
@@ -9,70 +9,72 @@
   "at": "2026-11-23T07:56:13.411Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-23T08:16:13.442Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.36,
-   "change": 1.06,
-   "asOf": "2026-11-23T08:06:11.000Z",
+   "value": 54.25,
+   "change": 0.86,
+   "asOf": "2026-11-23T08:16:31.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5538,
-   "change": 4.1,
-   "asOf": "2026-11-23T07:56:12.000Z",
+   "value": 5507,
+   "change": 3.53,
+   "asOf": "2026-11-23T08:06:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6322,
-   "change": 4.1,
-   "asOf": "2026-11-23T07:56:12.000Z",
+   "value": 6288,
+   "change": 3.53,
+   "asOf": "2026-11-23T08:06:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3621,
-   "change": 3.01,
-   "asOf": "2026-11-23T07:56:12.000Z",
+   "value": 3609,
+   "change": 2.65,
+   "asOf": "2026-11-23T08:06:33.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 49990,
-   "change": -3.02,
-   "asOf": "2026-11-22T12:25:01.000Z",
+   "value": 50314,
+   "change": 0.65,
+   "asOf": "2026-11-23T08:01:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0995,
-   "change": 0.23,
-   "asOf": "2026-11-23T08:05:44.000Z",
+   "value": 1.0994,
+   "change": 0.22,
+   "asOf": "2026-11-23T08:15:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.51,
-   "change": -3.31,
-   "asOf": "2026-11-23T07:55:58.000Z",
+   "value": 89.68,
+   "change": -3.12,
+   "asOf": "2026-11-23T08:06:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61337,
-   "change": 0.29,
-   "asOf": "2026-11-23T08:06:13.000Z",
+   "value": 61121,
+   "change": -0.07,
+   "asOf": "2026-11-23T08:16:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,47 +139,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تعليمات خاصة قبل لقاء الصدارة.. هل ينجح عموتة في تحصين دفاع الأهلي أمام بيراميدز؟",
-     "url": "https://www.elbalad.news/7191005",
+     "title": "تموين الأقصر تكثف حملاتها الرقابية لسحب عينات من الأغذية",
+     "url": "https://www.elbalad.news/7191047",
      "source": "صدى البلد",
-     "time": "2026-11-23T08:00:00.000Z",
-     "seen": "2026-11-23T08:06:13.521Z"
+     "time": "2026-11-23T08:12:28.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "بلاتي توريه: إمام عاشور أخطر وأفضل لاعب في الأهلي.. ويجب منع وصول الكرة إليه",
-     "url": "https://www.elbalad.news/7190995",
+     "title": "انطلاق فعاليات النسخة الأولى من المنتدى الدولى للحماية الاجتماعية",
+     "url": "https://www.youm7.com/story/2026/11/23/انطلاق-فعاليات-النسخة-الأولى-من-المنتدى-الدولى-للحماية-الاجتماعية/7628945",
+     "source": "اليوم السابع",
+     "time": "2026-11-23T08:12:00.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
+    },
+    {
+     "title": "اشتري دلوقتي ولا استنى؟.. هل يستعيد الذهب مكاسبه في 2027 ؟",
+     "url": "https://www.elbalad.news/7191055",
      "source": "صدى البلد",
-     "time": "2026-11-23T08:00:00.000Z",
-     "seen": "2026-11-23T08:06:13.521Z"
+     "time": "2026-11-23T08:11:59.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "حكم ترك الصلاة على السجادة خشية الانشغال بها.. الإفتاء توضح",
-     "url": "https://www.elbalad.news/7190939",
+     "title": "أستاذ الطب النفسي بجامعة الأزهر: فهم الذات مفتاح الزواج الناجح وبناء أسرة مستقرة",
+     "url": "https://www.elbalad.news/7191063",
      "source": "صدى البلد",
-     "time": "2026-11-23T08:00:00.000Z",
-     "seen": "2026-11-23T08:06:13.521Z"
+     "time": "2026-11-23T08:11:23.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "أستاذ طب نفسى بالأزهر: فهم الذات مفتاح الزواج الناجح وبناء أسرة مستقرة",
-     "url": "https://www.youm7.com/story/2026/11/23/أستاذ-طب-نفسى-بالأزهر-فهم-الذات-مفتاح-الزواج-الناجح-وبناء/7628925",
+     "title": "أوكرانيا تعلن إغراق سفينة حربية روسية ومهاجمة أخرى لنقل الأسلحة قبالة ليبيا",
+     "url": "https://www.youm7.com/story/2026/11/23/أوكرانيا-تعلن-إغراق-سفينة-حربية-روسية-ومهاجمة-أخرى-لنقل-الأسلحة/7628936",
      "source": "اليوم السابع",
-     "time": "2026-11-23T07:58:00.000Z",
-     "seen": "2026-11-23T08:06:13.521Z"
+     "time": "2026-11-23T08:06:00.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "مصر تبحث نقل خبرات الجودة والاعتماد الصحى إلى ليبيا",
-     "url": "https://www.youm7.com/story/2026/11/23/مصر-تبحث-نقل-خبرات-الجودة-والاعتماد-الصحى-إلى-ليبيا/7628920",
+     "title": "الأعلى لشئون التعليم والطلاب يناقش تطوير منصة الأنشطة الطلابية",
+     "url": "https://www.youm7.com/story/2026/11/23/الأعلى-لشئون-التعليم-والطلاب-يناقش-تطوير-منصة-الأنشطة-الطلابية/7628932",
      "source": "اليوم السابع",
-     "time": "2026-11-23T07:56:00.000Z",
-     "seen": "2026-11-23T08:06:13.521Z"
+     "time": "2026-11-23T08:06:00.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "نزع ملكية أراضٍ وعقارات بالمنصورة لإقامة موقف حضارى للسيرفيس وتحسين المرافق",
-     "url": "https://www.youm7.com/story/2026/11/23/نزع-ملكية-أراضٍ-وعقارات-بالمنصورة-لإقامة-موقف-حضارى-للسيرفيس-وتحسين/7628917",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T07:53:00.000Z",
-     "seen": "2026-11-23T07:56:13.411Z",
-     "impact": "يهم قاطني وأصحاب العقارات بالمنصورة لمعرفة خطة تطوير المرافق والتعويضات والتأثير المروري بالمنطقة."
+     "title": "بث مباشر.. رئيس الوزراء يشهد انطلاق النسخة الأولى من المنتدى الدولي للحماية الاجتماعية في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbmlNa01yQk5DNVgzVUFMTEplemVtd3dITGhRYjRXQWdiOHhyblAtU2JxN2JobGppZGM0TmZhdUlhMkVIZUlsYkdVMFFnT3JKdlZJN3FLMU9ITDRi?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-23T08:05:26.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
+    },
+    {
+     "title": "\"مدبولي\" يشهد انطلاق النسخة الأولى من المنتدى الدولي للحماية الاجتماعية في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hVno4N3lCd1FXM0VWZXNSVTk5M2JYaklhTml2Y0ZaWXVvX2pQTXBwRUlFZG43NmFZQXhnMHNRekVlX2l1?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-23T08:04:57.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
      "title": "مدبولي يشهد فعاليات النسخة الأولى من المنتدى الدولي للحماية الاجتماعية في مصر 2026",
@@ -220,20 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-23T02:57:00.000Z",
      "seen": "2026-11-23T05:15:59.262Z"
-    },
-    {
-     "title": "شريف دلاور يطرح رؤية جديدة: إصدار جنيه جديد بدلًا من كل 100 جنيه حاليًا",
-     "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxPUE9qbnJJc3Z0bVl0SjFhOUNKT0c2czl3Z1BrdS05bnhwQy04VHF1aWh0VWFId3NiSmFlMm9TQTdBczVWdmdlTGUyRDE2Tk5PNTQ1aGVIbUhnOER0QmFLb1hFVU5UTnZjMGN3LXNpUkZHRVZEU000eWRyQVFXZmJjcDlIUHlFYVJrZUpscThUeERtWHJ3enhhZWl5Sl9oQzZrRUtMNV9ySEV1bXNKVXdBWnhEM0NPQWZYWk1qazJ1TUt3N0ZrWkdQcThON1BJQ0VESTA5Y09QZklvNGJVdXpKR04tX2RTZUhhaW5HejdaM0ZYX1hyd19jeEdNTUx0dThjUlE1ZXJaa0w3bmE3ZEMtUHlsX2N6TXRKbmtrN21DckhlZ2J4MmdIY1ZpcF9IdV9WM2JBR3ZSbDBWVE1CSUpEQWV1NVQxSXZDT3NOTkFYbVY5Ri1kd1M2OUREWnp6dzlPMVVfYUhvaFJTRVE1a3Z6QmlycVcxRjdSYnBSWl9NTEpPekNEcWRMSGdINFRSZ1k3MEkxaDVvRlRJZmhsWHpDemNrcFNtSFpGSVdnUTNJMDRhcjdaTzVfek9MZnp6SnVQbWRka1pld0lBWTJ4SjhNb0NCN1ZGVjctTlFablZXaHRfOTBJTEpYT1hiZVlBMTZNek9FdXR5dDhzTmpDQlZIMzMwaDRvVXZLYXl2cTZ4VVViZ3NLZVlLdnE0U3hjY25KYzRYaDVxYmh1V1FYRmfSAbMEQVVfeXFMTTFuTTlyTGV6d0hYTjFCdmNDSHRTWTQ5dEJsQUdZY3NpdlJ5TVl2WExQYnlaNEdJdG1kMUMzblB2MHEtQnZUOXp2Ym5tWGJqMFhNZjNRQmZSSVByTW8zSkFVWUJudGlMa1I5UGJDT09CUWM2LUhLQl9KRDZkZXMwUjlXaFdQZ0tkQjRweV9iUlhZaE1fZFNhdWdkalpLTGlHcnBSWTNoLWVpRW9CU3ZnaVBsRkZnZkc4NkY3cURYNTBhcThYbENkM0NsLUNTYXp3U3ZJekZEcTViZG00MVp4T2EzVk95MzdLc25GZGZwOEFMYmowdjJ0WFpBcC1Dc0tRSEVhUXVFby1ZYmZRTGRpS0s1VDhKcnZDaUtxNEdvcWRiODhuSzEtbUFmNlNidGNnVHB4U0JuVlJiQ05oSkdTMnRTNEk1N3dMX2EwdE1hck5wajJDcG9NY2tmamI1MElENkV1VjJmMTNOdzZuaTRqeE9rLWpBclNxSWZvLURkWkNmeFQwX0YyYnJNRHBvcUF1YnVYVHdHLWxfZDdLd1kzb21lVG00ZjNpcnhTeUlmYUJuWTl3TUpaNkZiSlJOOWJ5ajRuV2c3bGIxbnRrNkhiVHVCV1E1enJUNmFjdG9jejVIYnU2ZlI4dkdVSVhhbDVmNVVoaTNDV2xORENjZkI4YXFsRUFZQjN0MFFvLTViVFEyQ3FLMXlpQlc3Z1ZVejQ1c2d1MVFRUkJUSUltTnJHZjNDVG8?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-22T23:41:07.000Z",
-     "seen": "2026-11-23T05:55:58.547Z"
-    },
-    {
-     "title": "تبدأ يوم خميس إجازة 3 أيام متتالية.. موعد أول عطلة رسمية للطلاب والموظفين",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TTWlLdTFpMUxwb3FVLXBoU1lBMXgya2tmNnVDVzVGSlUtVWJoWE9jWWJYTnNWX1lpd0VQQXBhTnFCX3VueV9SMnJpWGlpS2ZWcGdzYmFpUnRrZ3JTSlFZ?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-22T23:25:00.000Z",
-     "seen": "2026-11-23T06:36:13.898Z"
     }
    ]
   },
@@ -242,10 +243,17 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "زيلينسكي يعلن مسؤولية أوكرانيا عن استهداف سفينتين روسيتين قبالة سواحل ليبيا",
+     "url": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T08:11:09.000Z",
+     "seen": "2026-11-22T23:35:17.425Z"
+    },
+    {
      "title": "تجاوز الـ 54 جنيها.. سعر الدولار اليوم الاثنين في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WX1B4dERTNVA2Q2R5OEZaSGlkTnB1Z0FEcmtSeDJyUmtRVTktS0cxaFJncVN0M3pScmt3dk5ReTU1UWR3SFE?oc=5",
      "source": "القاهرة 24",
-     "time": "2026-11-23T08:00:21.000Z",
+     "time": "2026-11-23T08:01:20.000Z",
      "seen": "2026-11-23T08:06:13.521Z"
     },
     {
@@ -309,13 +317,6 @@
      "seen": "2026-11-23T06:25:58.472Z"
     },
     {
-     "title": "هجوم على سفينتين إحداهما روسية في شرق ليبيا، والأمم المتحدة تدعو \"لتحقيق مستقل\"",
-     "url": "https://www.bbc.com/arabic/articles/cj5y1x9260kyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T05:47:31.000Z",
-     "seen": "2026-11-22T23:35:17.425Z"
-    },
-    {
      "title": "البحرين تعلن إصابة اثنين بعد قصف إيراني في المنامة",
      "url": "https://www.bbc.com/arabic/articles/c3wy0w4kp48lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -349,6 +350,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "زيلينسكي يعلن مسؤولية أوكرانيا عن الهجوم على سفينتين روسيتين قبالة بنغازي في ليبيا",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261123-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B3%D9%81%D9%8A%D9%86%D8%AA%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%AA%D9%8A%D9%86-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-23T08:11:38.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
+    },
     {
      "title": "منظمة العفو الدولية تطلق حملة للإفراج عن الناشطة روكياتو دومبيا المسجونة في مالي",
      "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261123-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%AD%D9%85%D9%84%D8%A9-%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D9%86%D8%A7%D8%B4%D8%B7%D8%A9-%D9%85%D8%B3%D8%AC%D9%88%D9%86%D8%A9-%D8%B1%D9%88%D9%83%D9%8A%D8%A7%D8%AA%D9%88-%D8%AF%D9%88%D9%85%D8%A8%D9%8A%D8%A7",
@@ -420,13 +428,6 @@
      "seen": "2026-11-23T06:36:13.898Z"
     },
     {
-     "title": "مباشر: مقتل أربعة أشخاص في ضربات سعودية على الحديدة وفق إعلام حوثي",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261123-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-23T06:04:29.000Z",
-     "seen": "2026-11-23T06:15:58.299Z"
-    },
-    {
      "title": "ترامب يوضح أمرين توقعهما بشأن فوز الديمقراطيين وهجمات إيران",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/23/trump-democratic-gains-stock-market-decline-iranian-attacks",
      "source": "CNN بالعربية",
@@ -434,18 +435,18 @@
      "seen": "2026-11-23T05:25:58.540Z"
     },
     {
-     "title": "أول بيان من \"الجيش الليبي\" بعد استهداف سفينة حربية روسية في بنغازي",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb25EM2g0UUxTU1ViVHNiLU92eTZuOEdFeVVwQ1g0LUwwN1ZrVi10M0JySGtpS05mVUZJaFRLUXR1VTNxZjlqWVl4djRvQkhWZ01vODNqNUN0dUpfQ2kySEJHTXVWTlVscGFGbUFoMlo1TWxBeDFXM1pnZ2ZIUGYwZkwxdXpJdHQ5akl4TllnTVo3ejFNY3g0aDcyYVBIcUdVbVdrcDdCakRjMkJ1cnRj?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-23T04:36:17.000Z",
-     "seen": "2026-11-23T07:46:14.234Z"
+     "title": "العقار المائل في مصر.. بدا مستقيما بعد 33 يوما فلماذا أوصى المهندسون بإخلائه؟",
+     "url": "https://www.aljazeera.net/misc/2026/11/23/%d8%b9%d9%82%d8%a7%d8%b1-%d8%ba%d8%b2%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d9%84-%d9%8a%d8%b4%d8%b9%d9%84-%d8%ac%d8%af%d9%84%d8%a7-%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-23T05:02:15.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     },
     {
-     "title": "هدنة مودروس.. اتفاقية مهّدت لتفكيك الإمبراطورية العثمانية",
-     "url": "https://www.aljazeera.net/encyclopedia/2026/11/23/%d9%87%d8%af%d9%86%d8%a9-%d9%85%d9%88%d8%af%d8%b1%d9%88%d8%b3-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d9%85%d9%87%d8%af%d8%aa-%d9%84%d8%aa%d9%81%d9%83%d9%8a%d9%83?traffic_source=rss",
+     "title": "\"الضم الاقتصادي\".. مخطط إسرائيلي لإنشاء 8 مناطق صناعية بالضفة الغربية",
+     "url": "https://www.aljazeera.net/politics/2026/11/23/%d8%a7%d9%84%d8%b6%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d9%85%d8%ae%d8%b7%d8%b7-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-8?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-23T04:27:46.000Z",
-     "seen": "2026-11-23T07:36:14.184Z"
+     "time": "2026-11-23T04:50:43.000Z",
+     "seen": "2026-11-23T08:16:13.442Z"
     }
    ]
   },
