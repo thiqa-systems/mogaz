@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:59:02.296Z",
+ "updated": "2026-11-24T02:09:01.597Z",
  "minute": [
   "تشهد مصر استمراراً للأجواء الدافئة خلال شهري نوفمبر وديسمبر، مع متابعة مستمرة لأسعار صرف العملات والذهب في البنوك.",
   "أوضحت فاكسيرا أهمية التحديث السنوي للقاح الإنفلونزا، بينما أعلنت نقابة الزراعيين تقديم دعم مالي للمعاشات.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T01:59:02.296Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T02:09:01.597Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5591,
-   "change": 5.84,
-   "asOf": "2026-11-24T01:49:23.000Z",
+   "value": 5571,
+   "change": 1.53,
+   "asOf": "2026-11-24T01:59:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6383,
-   "change": 5.84,
-   "asOf": "2026-11-24T01:49:23.000Z",
+   "value": 6361,
+   "change": 1.53,
+   "asOf": "2026-11-24T01:59:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3668,
-   "change": 4.33,
-   "asOf": "2026-11-24T01:49:23.000Z",
+   "value": 3655,
+   "change": 0.08,
+   "asOf": "2026-11-24T01:59:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0917,
    "change": -0.5,
-   "asOf": "2026-11-24T01:58:47.000Z",
+   "asOf": "2026-11-24T02:08:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.39,
-   "change": -6.68,
-   "asOf": "2026-11-24T01:46:32.000Z",
+   "value": 86.41,
+   "change": -3.31,
+   "asOf": "2026-11-24T01:58:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60999,
-   "change": -0.27,
-   "asOf": "2026-11-24T01:59:29.000Z",
+   "value": 60885,
+   "change": -0.45,
+   "asOf": "2026-11-24T02:09:01.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استشهاد 3 فلسطينيين في غارة إسرائيلية على خان يونس",
-     "url": "https://www.elbalad.news/7192303",
+     "title": "ترامب يأمر بتسريع تنفيذ أحكام الإعدام الفيدرالية في الولايات المتحدة",
+     "url": "https://www.elbalad.news/7192304",
      "source": "صدى البلد",
-     "time": "2026-11-24T01:43:52.000Z",
-     "seen": "2026-11-24T01:49:01.319Z"
+     "time": "2026-11-24T02:02:30.000Z",
+     "seen": "2026-11-24T02:09:01.597Z"
     },
     {
-     "title": "سعر الذهب اليوم في مصر.. كم وصل عيار 21 والجنيه الثلاثاء 24 نوفمبر؟",
-     "url": "https://www.elbalad.news/7192258",
-     "source": "صدى البلد",
-     "time": "2026-11-24T01:43:23.000Z",
-     "seen": "2026-11-24T01:49:01.319Z"
+     "title": "مواعيد القطارات على خط أسوان القاهرة والعكس.. اليوم الثلاثاء 24/ 11/ 2026",
+     "url": "https://www.youm7.com/story/2026/11/24/مواعيد-القطارات-على-خط-أسوان-القاهرة-والعكس-اليوم-الثلاثاء-24/7628983",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T02:00:00.000Z",
+     "seen": "2026-11-24T02:09:01.597Z"
     },
     {
-     "title": "مريم الخشت: مي مش شريرة.. هي أنانية وبتفكر في نفسها ومش بتخطط تأذي نورا",
-     "url": "https://www.elbalad.news/7192256",
+     "title": "«معًا نزرع الأمل ونرسم البسمة».. الأوقاف تطلق 13 قافلة للمواساة بالمستشفيات",
+     "url": "https://www.youm7.com/story/2026/11/24/«معًا-نزرع-الأمل-ونرسم-البسمة»-الأوقاف-تطلق-13-قافلة-للمواساة/7628856",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T02:00:00.000Z",
+     "seen": "2026-11-24T02:09:01.597Z"
+    },
+    {
+     "title": "آيفون 18 برو مجاناً.. القائمة الكاملة لعروض أبل في الجمعة البيضاء",
+     "url": "https://www.elbalad.news/7192255",
      "source": "صدى البلد",
-     "time": "2026-11-24T01:29:36.000Z",
-     "seen": "2026-11-24T01:39:02.084Z"
+     "time": "2026-11-24T02:00:00.000Z",
+     "seen": "2026-11-24T02:09:01.597Z"
+    },
+    {
+     "title": "نظام غذائي يومي للطالب الرياضي.. ماذا يأكل قبل التمرين وبعده للحفاظ على طاقته؟",
+     "url": "https://www.elbalad.news/7192210",
+     "source": "صدى البلد",
+     "time": "2026-11-24T02:00:00.000Z",
+     "seen": "2026-11-24T02:09:01.597Z"
     },
     {
      "title": "فاكسيرا: لقاح الأنفلونزا يتغير سنويا لمواكبة السلالات المتوقع انتشارها",
@@ -167,22 +181,6 @@
      "time": "2026-11-24T01:00:00.000Z",
      "seen": "2026-11-24T01:09:01.832Z",
      "impact": "يساعد الأفراد في مصر على فهم أهمية تلقي اللقاح المحدث سنوياً للوقاية من سلالات الأنفلونزا المنتشرة."
-    },
-    {
-     "title": "«الزراعيين» تصرف 12.18 مليون جنيه دفعة ثالثة لدعم معاشات 3 فروع بإجمالي 86.28 مليون",
-     "url": "https://www.youm7.com/story/2026/11/24/«الزراعيين»-تصرف-12-18-مليون-جنيه-دفعة-ثالثة-لدعم-معاشات/7629484",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T01:00:00.000Z",
-     "seen": "2026-11-24T01:09:01.832Z",
-     "impact": "يهتم به المستحقون من أعضاء نقابة الزراعيين في مصر لمتابعة صرف المستحقات المالية ودعم المعاشات."
-    },
-    {
-     "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الثلاثاء 24/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/24/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الثلاثاء-24-11-2026/7628987",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T00:00:00.000Z",
-     "seen": "2026-11-24T00:09:01.963Z",
-     "impact": "تساعد المسافرين بين القاهرة والإسكندرية في تنظيم مواعيد تنقلاتهم اليومية عبر القطارات."
     },
     {
      "title": "مدبولي: الشركات المصرية مستعدة للمشاركة في خطط التنمية بالعراق",
@@ -247,6 +245,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الثلاثاء",
+     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxORW9RdzJpOENwS1BvUUVoR0M4RHJ3NjlKcS1LNHBpbzY0V0pYdjcyQXptLVN4RnYzTTM1Y3N4cHRzMjBhVy1NYVcxbDFBSzlFaE1tNlhDTkVGSmpJc0VYZFVkc2FaS203cXh3cHpDdlI0eGl0T2NHS1ppdUFYUERZcTA1MkFiaHlidTFtSk5feFBZRWM3VGhXbDNVYXRfZGhrMHp1Z2kwa2pFalY3SXVJeTFoeThYSkF0OVRwUVROczB1ZU5YRkt5WDhmOEY1RFo3VG1RQ09iSFFKaUk4WkhYaXI5Z1pwdVdScGc0SEpOeFFwZ1BKWkhwM2RJekNUSVhkMkdMcEQ0eEJGRjlkV0VEUHB1WF9qRlFnSWZ5T2NuTDg0Z3Rmb1dFbDdKTjF6bWZHYmdoYlJIdTJpMEZyVnVQd0NJNEFMX2h3bkpBRm5zMXpIVkQ3VmZ4eXl5enpJeTItNkVIZXQ3N2pDQTA5R1NpSXF6bGtJbEl3dmxCM05ERXhYYmFUcktSSWVaYWhxRnZlX21EbHptTWpYa19rQ3JKcnE5Y0Y1RlBUYTN3RG85RXNhdkFRMDM0NjJGclo5T05uVmt2YlFCU09nTDAxYVJmQ2JDN2p5cUZlS3k3UnhBc2w1bTdwSkZpSDBfQkFmcEnSAeoDQVVfeXFMTW05al8zekExekt5eFIyS3V0WmJWUjc4b0hQUWhPOHVCdEJkNUFaNjd5algyb0VhRjJCMEYzR2xUd2xlY1BTUW05OG5vZjBNR1p0emdKMDVZUVdvYmY5SFdsSHR4SmF5VVhmdVNhTGVVT1VNYmt1MW1YcEFQYmpPTlpBSW4yTC1sOTV5dVV2SlNGMmdtUjYwRDNJNzlKUFpRNVRNV1dJYVVBT3NsRnRndnRnY0ptVmN5eUhVZ2dXUG54cW0xQjlSdGc5bk55NnNOLUw5UEJ3OGlqNWtnZ290T3pUbmVTS1Itb3R4bF9lR2ZrV2JoS1Rhb3pmQmlxZjhYUlZBM25TN1Y4cTNudWdkYmtUdm9qSEVMTWpMYkhsNWNlSE5PRTFEZVRWQlBWdmdnVTEtMHo0amFsV3FfVkdrbHI1R05MZ1pjSHdmSFJFZXBVMk9zNThWZGdwdnVIZGQ1SzhjdV9Sd2ZITXN0dENLcXZwV3MyLXlkMlRyS1VPQU50ckE4a2Z0TnRLY053ejNSc3lZdW54WDJ5TnN4TDY2bTZLVV85Qi02UTk4NUVmV3hQbmY4NzJycFdZZDRyRk1EV2JKNXJnMmpsRXFpcEYyY0F3RFRCR0lxYjA3NU9TNzB3blR2dUlVenE0QQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T02:00:00.000Z",
+     "seen": "2026-11-24T02:09:01.597Z"
+    },
+    {
      "title": "أسعار الذهب والدولار في مصر اليوم الثلاثاء 24 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GZzY0RWlVeEV4UGZsNkdrU2FvdVB5T2NINldqaVQtMVEwU1o1QWtGbEJoa05LbmtNd2p6TzVZcC1nSXptdkE?oc=5",
      "source": "القاهرة 24",
@@ -262,19 +267,27 @@
      "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة حركة أسعار الدولار وتأثيرها على تكلفة السلع والمعاملات."
     },
     {
-     "title": "سعر الدولار اليوم الثلاثاء 24-11-2026.. الأخضر بكام انهاردة؟",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sQ003Y1AxMUtsTkJNRTQ5WU13eGFFN2RBUHMxc2FsS3B5ODVaNjZQQV9WUWlJeXQ0NUR2eEpIR3pqSEZsZUo4?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-24T00:00:00.000Z",
-     "seen": "2026-11-24T00:09:01.963Z"
+     "title": "سعر الذهب يواصل الانتعاش مع تجدد الإقبال على المخاطرة في السوق",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRlZmT21TNEFDM3NtYm1WXzRwTTNKbzVhaWxFVmhQYVpqc09BZE1uUHp3azBsOWhka212ODY4QTVESWVuT1oxTmJuRUZZSEhhUlJJZEpTSXVjNG1POUh2VmliVllPeldPX1A4ZUJYVnk2T2VseHAwSnFQTDNOS21LaV9vNFpoRzJKR2VyR2VaTndHbDlEdFE1Z2E5QUJlSWN3TDFtc2NodzVZRnk5aS1taW1HQ2hoaEtfWXRqTGRMNkFhOHJEczV1Sm5OWW5ldk5lcXlJbjJMbnlwRFd1NG9nb05OVWF6c0dycU9fNE9DS3REMVlvUkdQZHp1TXFkbmREa2dPX3RIQ2REdw?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-24T00:10:27.000Z",
+     "seen": "2026-11-24T00:49:02.279Z",
+     "impact": "يهتم به المستثمرون والراغبون في الادخار بمصر لمتابعة اتجاهات أسعار الذهب وتطورات السوق."
     },
     {
      "title": "سعر الدولار على مدار الساعة.. 54.29 جنيه شراء الأخضر فى بنك مصر",
      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcmZaRUlwcVdKaFhFSjVFblhmYzk2ZU1xcFpwM1dqb3c4cGoxLVZjU0tuTWpsLXQzZWQyYkRzRjF4MmJyVnE2Yks2ZzdQc2o4UjExSmhKckFpaTViZjMyUVVSVHdqQm9VWTNzcV9NS2pPWlE2OUJqSHZYd01ZUEZuM0JpeTlaN3BuZTlPbGlHeHdkcnhDMEFxODQ5b082ZDdVXzZLbnpXOWlVXy1sSHpwX0tqbEIycks0aGxXNENOSkQ4ZEM4amRLVGYxRTlKUkE1M09xMjk0Yk1Rd01fMWRXV0h3anVYWV9WX1hRN3J2UzljVlB2d3N0OVRDNUlpY3JELTlzQk1WYUZ6d3VHV3lBMmdubmN2VXd3M0hHSk1PSC1fSy1tQW1DUHh0VjRoMzJoakV1aGhoLUpma1lmRWpqakV6dmFfeTZhUHdoOUtCdDFsTW95Qko4R3VuSWV2bmRSdGtZMkZnUmhYQWxucjNnRF9XWWpkbkJsRy1JajZ1aGp3dWE2ekFmQmtuMl9HTkkwSXVJWtIBjwNBVV95cUxQOUl0NEM3NlctbnhnTmV0c3lfWGFMUHdqUHdVMTMwUFN2VTdRWExOSnhLOUF4QU9VOFh1Y2xvQkRPa2doMXRRNzR6Q2ZyYkVTbUE4XzFNdllJLXZHWS1zUm41cmxjMnBBYkcxWFJaX2hQdkVUNzQyZWg1ZjJmV1hjLTFPQ3k4cHFJWlRmYVFseXNvYjhhWm84b2xEZ09rUTc4V3o3ZWhXZUNQSmlqS3R6RUV6aWRaZ2NNMlRjMEJIOWNUU2lPOTFRRlRJQVJhdnN1YnN2eDBIQUJTSlFQX3drX0JqZkZjWjBhc083YXU5bGctMGQ3d3dPeUhxaWVuekhSbU9oZlpTR2FpZFZFREZMRE5ETnNhalRBbW5WQUk0Y295bVNGeTRzUnRIMUJ0aXNyUGsyOHZMYVo0WmtXXzlnUjlGUDlHVTJQQTBxN1JmVDFrUlZvNmFURFc2WmNRNGRfaHdOMzk5d003aG1xN2VFZlVlU3A1MmZ6T1Ixb0tjcTdiRkdEbVV3Yk1mbFJRaEE?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-24T00:00:00.000Z",
+     "time": "2026-11-24T00:01:06.000Z",
      "seen": "2026-11-24T00:09:01.963Z",
      "impact": "يتيح للمتعاملين مع بنك مصر معرفة سعر صرف الدولار الدقيق لإتمام المعاملات المالية."
+    },
+    {
+     "title": "سعر الدولار اليوم الثلاثاء 24-11-2026.. الأخضر بكام انهاردة؟",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sQ003Y1AxMUtsTkJNRTQ5WU13eGFFN2RBUHMxc2FsS3B5ODVaNjZQQV9WUWlJeXQ0NUR2eEpIR3pqSEZsZUo4?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-24T00:00:00.000Z",
+     "seen": "2026-11-24T00:09:01.963Z"
     },
     {
      "title": "مصر تتفاوض مع العراق لاستيراد 10 ملايين برميل نفط بتسهيلات ائتمانية",
@@ -314,14 +327,6 @@
      "seen": "2026-11-24T00:09:01.963Z"
     },
     {
-     "title": "سعر الذهب يواصل الانتعاش مع تجدد الإقبال على المخاطرة في السوق",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRlZmT21TNEFDM3NtYm1WXzRwTTNKbzVhaWxFVmhQYVpqc09BZE1uUHp3azBsOWhka212ODY4QTVESWVuT1oxTmJuRUZZSEhhUlJJZEpTSXVjNG1POUh2VmliVllPeldPX1A4ZUJYVnk2T2VseHAwSnFQTDNOS21LaV9vNFpoRzJKR2VyR2VaTndHbDlEdFE1Z2E5QUJlSWN3TDFtc2NodzVZRnk5aS1taW1HQ2hoaEtfWXRqTGRMNkFhOHJEczV1Sm5OWW5ldk5lcXlJbjJMbnlwRFd1NG9nb05OVWF6c0dycU9fNE9DS3REMVlvUkdQZHp1TXFkbmREa2dPX3RIQ2REdw?oc=5",
-     "source": "الشرق بلومبرغ",
-     "time": "2026-11-23T21:53:14.000Z",
-     "seen": "2026-11-24T00:49:02.279Z",
-     "impact": "يهتم به المستثمرون والراغبون في الادخار بمصر لمتابعة اتجاهات أسعار الذهب وتطورات السوق."
-    },
-    {
      "title": "«هيئة الدواء» تبحث مع «إيفا فارما» دعم الاستثمارات والتوسع بالسوق المصري",
      "url": "https://alborsaanews.com/2026/11/23/2008584",
      "source": "البورصة",
@@ -342,13 +347,6 @@
      "source": "BBC عربي",
      "time": "2026-11-23T20:06:48.000Z",
      "seen": "2026-11-23T15:58:14.254Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنوك اليوم الإثنين",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOYlhsUHJ4WE5IS0FKcEpsa3kyeURtNHR5X3l0LW9QaERWYkVNbjVHZ2FYcG9kQ1QyRGxBdm5GXzg4aV9YbDBmby01c0Z3RWhEcmtMelpIMURsSEY3YmE5T3lZZFFIdmpMN0tvZzFnd1BmTWVEXzJ6VWM4Z0J0Rjk0Q3ZkU1JnT0REOE9NdDJRTlMwMU5XY2cxTkZsejZXZ3E3SWo5SllDZ2gxWFU2ZVB3VnRjSFZyYWI2RnF3SllsOWRyLWp0SGM0TkJLdUdIcWs4WFRJbTI2Y1U2MDJtTnh1dW5vVWFVNllpVXh6cnBsZkU5aHJLTzE0dzQxV3RWVDZMM2ttRXdVZllXYkphdXJlSzJOdXdmcHRQSmtqaU8tdWZBbE1uVGFvSWwwN2tOSmRHNzR5VU9qSWw1RFVEWXpreVNVRzVjSy0tMzFLZmtvak12SUpjMC0tOVJvaEN1WnotQkNGTGM2RVlHY3N5U1c4R3VHUHRHbkNnWHF3cWRqckpHOW5kMkJyN25Cd0FsN1M0VUlLbFpGUzk2NTF0NE5DSlVndXlmZWhSSzYtdHc0OUJxZTRqRjNzTk1QVHpvRm5PU1ZtZWt4MmZlYlotUG5wbFppaFVxYmNLa3RiSXFhYzlVQdIB4gNBVV95cUxOYlhsUHJ4WE5IS0FKcEpsa3kyeURtNHR5X3l0LW9QaERWYkVNbjVHZ2FYcG9kQ1QyRGxBdm5GXzg4aV9YbDBmby01c0Z3RWhEcmtMelpIMURsSEY3YmE5T3lZZFFIdmpMN0tvZzFnd1BmTWVEXzJ6VWM4Z0J0Rjk0Q3ZkU1JnT0REOE9NdDJRTlMwMU5XY2cxTkZsejZXZ3E3SWo5SllDZ2gxWFU2ZVB3VnRjSFZyYWI2RnF3SllsOWRyLWp0SGM0TkJLdUdIcWs4WFRJbTI2Y1U2MDJtTnh1dW5vVWFVNllpVXh6cnBsZkU5aHJLTzE0dzQxV3RWVDZMM2ttRXdVZllXYkphdXJlSzJOdXdmcHRQSmtqaU8tdWZBbE1uVGFvSWwwN2tOSmRHNzR5VU9qSWw1RFVEWXpreVNVRzVjSy0tMzFLZmtvak12SUpjMC0tOVJvaEN1WnotQkNGTGM2RVlHY3N5U1c4R3VHUHRHbkNnWHF3cWRqckpHOW5kMkJyN25Cd0FsN1M0VUlLbFpGUzk2NTF0NE5DSlVndXlmZWhSSzYtdHc0OUJxZTRqRjNzTk1QVHpvRm5PU1ZtZWt4MmZlYlotUG5wbFppaFVxYmNLa3RiSXFhYzlVQQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T20:02:37.000Z",
-     "seen": "2026-11-23T21:28:42.307Z"
     }
    ]
   },
