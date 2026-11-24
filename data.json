@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:09:20.829Z",
+ "updated": "2026-11-24T06:19:20.565Z",
  "minute": [
   "أتاحت منصة مصر الرقمية حجز دور المناسبات إلكترونياً، بينما أعلنت وزارة التنمية المحلية عن تسهيلات لتراخيص المحال التجارية عبر حملات طرق الأبواب.",
   "واصلت البنوك المصرية تحديث أسعار صرف الدولار أمام الجنيه المصري، حيث سجل 54.27 جنيه للشراء في بنك الإسكندرية.",
@@ -10,43 +10,45 @@
   "at": "2026-11-24T05:59:20.650Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T06:19:20.565Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.29,
-   "change": 1.64,
-   "asOf": "2026-11-24T06:08:40.000Z",
+   "value": 54.31,
+   "change": 1.67,
+   "asOf": "2026-11-24T06:11:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5549,
-   "change": 1.13,
-   "asOf": "2026-11-24T05:59:28.000Z",
+   "value": 5538,
+   "change": 0.93,
+   "asOf": "2026-11-24T06:09:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6335,
-   "change": 1.13,
-   "asOf": "2026-11-24T05:59:28.000Z",
+   "value": 6323,
+   "change": 0.93,
+   "asOf": "2026-11-24T06:09:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3633,
-   "change": -0.5,
-   "asOf": "2026-11-24T05:59:28.000Z",
+   "value": 3625,
+   "change": -0.73,
+   "asOf": "2026-11-24T06:09:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0912,
-   "change": -0.54,
-   "asOf": "2026-11-24T06:08:48.000Z",
+   "value": 1.0913,
+   "change": -0.53,
+   "asOf": "2026-11-24T06:18:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.45,
-   "change": -3.27,
-   "asOf": "2026-11-24T05:59:25.000Z",
+   "value": 86.28,
+   "change": -3.46,
+   "asOf": "2026-11-24T06:09:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60383,
-   "change": -1.27,
-   "asOf": "2026-11-24T06:09:34.000Z",
+   "value": 60438,
+   "change": -1.18,
+   "asOf": "2026-11-24T06:19:21.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,49 +140,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الجنيه الذهب يفاجئ الجميع.. قفز 1560 جنيها في 48 ساعة فقط",
-     "url": "https://www.elbalad.news/7192180",
+     "title": "العثور على جثمان شاب مقتولًا بطلق ناري بأرض زراعية في أشمون",
+     "url": "https://www.elbalad.news/7192265",
      "source": "صدى البلد",
-     "time": "2026-11-24T06:00:00.000Z",
-     "seen": "2026-11-24T06:09:20.829Z"
+     "time": "2026-11-24T06:17:48.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
     },
     {
-     "title": "إزالة ومصادرة وحبس وغرامة.. 4 أسلحة قانونية لمواجهة المحاجر على الأراضي الزراعية",
-     "url": "https://www.elbalad.news/7192105",
+     "title": "سعد سمير ينتقد لاعبي الأهلي: خدوا الفلوس والإعلانات والشهرة.. قدموا إيه؟",
+     "url": "https://www.elbalad.news/7192336",
      "source": "صدى البلد",
-     "time": "2026-11-24T06:00:00.000Z",
-     "seen": "2026-11-24T06:09:20.829Z"
+     "time": "2026-11-24T06:16:07.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
     },
     {
-     "title": "المدارس تعقد التقييم المبدئي لتلاميذ الصفين الأول والثاني الابتدائي بالمدارس..اليوم",
-     "url": "https://www.elbalad.news/7191906",
+     "title": "شيكابالا يطالب باستبعاد إمام عاشور من الأهلي: ما يلبسش تشيرت الفريق",
+     "url": "https://www.elbalad.news/7192334",
      "source": "صدى البلد",
+     "time": "2026-11-24T06:15:05.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
+    },
+    {
+     "title": "الطقس اليوم.. انخفاض بالحرارة وشبورة وفرص أمطار والصغرى بالقاهرة 15 درجة",
+     "url": "https://www.youm7.com/story/2026/11/24/الطقس-اليوم-انخفاض-بالحرارة-وشبورة-وفرص-أمطار-والصغرى-بالقاهرة-15/7629647",
+     "source": "اليوم السابع",
      "time": "2026-11-24T06:00:00.000Z",
-     "seen": "2026-11-24T06:09:20.829Z"
+     "seen": "2026-11-24T06:19:20.565Z"
     },
     {
-     "title": "مصر الرقمية تتيح حجز دور المناسبات لعقد القران والعزاء إلكترونيا.. اعرف الشروط",
-     "url": "https://www.youm7.com/story/2026/11/24/مصر-الرقمية-تتيح-حجز-دور-المناسبات-لعقد-القران-والعزاء-إلكترونيا/7627690",
+     "title": "المركز القومى للبحوث يصدر نشرة تكشف الدليل الطبي لحماية البشرة من إكزيما الشتاء",
+     "url": "https://www.youm7.com/story/2026/11/24/المركز-القومى-للبحوث-يصدر-نشرة-تكشف-الدليل-الطبي-لحماية-البشرة/7623132",
      "source": "اليوم السابع",
-     "time": "2026-11-24T05:00:00.000Z",
-     "seen": "2026-11-24T05:09:21.040Z",
-     "impact": "يسهل على الأفراد في مصر تنظيم وتنسيق خدمات المناسبات المختلفة عبر منصة إلكترونية رسمية."
+     "time": "2026-11-24T06:00:00.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
     },
     {
-     "title": "التنمية المحلية: تسهيل حصول أصحاب المحال على التراخيص من خلال حملات طرق الأبواب",
-     "url": "https://www.youm7.com/story/2026/11/24/التنمية-المحلية-تسهيل-حصول-أصحاب-المحال-على-التراخيص-من-خلال/7624529",
+     "title": "التحجيم والتلوين الطبيعي للموالح.. مركز المناخ يقدم توصيات مهمة لمزارعي الموالح",
+     "url": "https://www.youm7.com/story/2026/11/24/التحجيم-والتلوين-الطبيعي-للموالح-مركز-المناخ-يقدم-توصيات-مهمة-لمزارعي/7618751",
      "source": "اليوم السابع",
-     "time": "2026-11-24T05:00:00.000Z",
-     "seen": "2026-11-24T05:09:21.040Z",
-     "impact": "يساعد أصحاب الأنشطة التجارية في مصر على تقنين أوضاع محالهم وتسهيل الحصول على التراخيص."
+     "time": "2026-11-24T06:00:00.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
     },
     {
-     "title": "قطار تالجو.. مواعيد الرحلات على خطوط السكة الحديد",
-     "url": "https://www.youm7.com/story/2026/11/24/قطار-تالجو-مواعيد-الرحلات-على-خطوط-السكة-الحديد/7628977",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T04:00:00.000Z",
-     "seen": "2026-11-24T04:09:02.081Z",
-     "impact": "تساعد معرفة مواعيد رحلات قطار تالجو المسافرين داخل مصر على تنظيم وتخطيط مواعيد تنقلاتهم عبر السكك الحديدية."
+     "title": "الداخلية تكشف حقيقة فيديو حبس أسرة بسبب مشاجرة مع ضابط شرطة",
+     "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxOSUVPRDZLSFo1WGdXWlk3YS00R1M2SlE2QnEtR2puTXlkeFpJcnVxMjNJaVBCU2pYUkRrN0Y1djZIenZvV1l3M1UwWGJGVWx3MjdqdU1Mb3ZoSHlBcl9WWWlwY3k3aU9Bdk5HVVB4QTFpY0lNRDI4YmVDTWpSVzU3THpHQkJxRXQ3SmhRNW1ERWJoT3ZnZ29iVHhUdklKNEttTHl2QU5icWJleXRuNjc2VGVOd0hnalpvaVU0Y01lUFVjT0pPV0hrSU1NeG1VbEtLTjVqdGQ3RXJzRTBucjJ1VEVnTnh2MHFHVGdHbHJGZ2h6U1dHWnU3aUo2MjlBMS1jZjFpSVpvTXBuSmhNRmhHY0hiUTNDekxlTXRGMmxtV085YXdSODFzalVSb0tzdV96ZjRGQURRZmpKVEFGRzBJSU1YRnU0TUNxRHBQXzlOV1FqSW1STUZxMmI1R3FWQ1ZqNmNRVUo4T08xdldmQm9TVjNUNlVDcEZJMUg3VlhSLU1aRW9ybjA2RUFLMlRxYXhGVkcwbFN1MXd5VHdSQW9uRjFKd19VNWNEMWVWMWgwa1RKUldVWUJHQVdSVFpBNTBGckVnaVNmbUlfQm1zSmNCNHNXZnBqRzgtSy0wTmJidVo5R0RISDdpck9VYmNHX0lINmJHZTZ2NkhwaXJsQXVNVTl4aURCR1IwVlY40gGQBEFVX3lxTE1nUmlEeElYVkhJUGk5S2V6NkxFOTVOS3N1a1kyS2JrOF8xLUw5dE5WMFVXclRkMkRKaUtOLThFWXpPRXhydUVUR0k0c3VMSWVRc0R3VzladjhlV0ZSdjJLT2ZMYW1QQkpSYm9jYm95X2Q2b05tZk9GSFRHVFRZSHZsanRNWmwwUkhCZk0taWVDRnRNbHhqOW9xbzlzVWUwOWlXWFIwSEJSSGRJNTNuRFpfeGxiRzRTUWZpZFMzdWNHakM3eS1lRFQwbG56UU1zNC16V0NNRGM0T1NSV3hycVdBRUZRMzBIakxQMVItZFFIS2tUVmxwX2NHZTJDN3ZSOU5waDlMUnNQdE94cFQ5YV9tMEtxVy1RbmlZRUd1VDhiaGtpVFFldTBHYlJfa0pJVk42RjJzc0ZxeVVjemlDdGR0b28tUTF6Rkd2YlNqbW5IZnotTnNWNWVXNklxaXBVdVlUOUR3QUQyZC15cEc2RDk3Z2J5LWtYSVlWclV3cDU4alN6eFA1NlpIN1JlLVNVTVJ4QjZoc0dfVG9oZ0p0alI5SkRKcTc4aXZEWThaQ2w1QURMbDBpMjFuUEJDcEl4MmE3OHR3ODE5VjNjMXlaalp4UnNjbTFrYzJyb3JIUlZmODhDR2JEaF9kUDE4Q2F0Rm9qUVU4OFlocm9MNlZFaVh5SkZXWVRuMjdMeFZucWFINQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-24T02:13:01.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
     },
     {
      "title": "إبعاد 3 أجانب خارج البلاد.. الحكومة تصدر 3 قرارات مهمة خلال الساعات الأخيرة",
@@ -230,13 +236,6 @@
      "source": "الشرق للأخبار",
      "time": "2026-11-23T19:59:55.000Z",
      "seen": "2026-11-23T19:28:41.448Z"
-    },
-    {
-     "title": "مدبولي: مصر حريصة على استقرار العراق وفتح آفاق جديدة للتعاون الاقتصادي والاستثماري بين البلدين",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzQzMXhfSHJ6Q1p6eWJuV1g3cHd6eHdRUnppYmNwRFVwb3p4Wk1vR1VyTzNrWVFTempLd2xPUDFHQVB6STl5OE9BRUJWT2FUbDNkREhMcU5NTkUxc2tSVTBJYnBBRGV1d0toMms0ZjNuNjNYVzM3NVlXdGk3Q2NDNzY2T0h5clB3alpaMFpwYWo1ZVZYNW5PYjFrVnhWUFR2ZE9iNjRuWQ?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-23T18:47:29.000Z",
-     "seen": "2026-11-23T18:48:42.154Z"
     }
    ]
   },
@@ -356,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "من مايكروسوفت إلى آبل والبنوك والمطارات.. أسبوع من الفوضى الرقمية يثير المخاوف في أمريكا",
+     "url": "https://www.dw.com/ar/من-مايكروسوفت-إلى-آبل-والبنوك-والمطارات-أسبوع-من-الفوضى-الرقمية-يثير-المخاوف-في-أمريكا/a-80020687?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-24T06:13:00.000Z",
+     "seen": "2026-11-24T06:19:20.565Z"
+    },
+    {
      "title": "مباشر - اليمن: الحوثيون يعلنون مقتل وفقدان 25 شخصا في ضربة سعودية على لحج",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%87%D8%B1%D9%85%D8%B2-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
      "source": "فرانس 24",
@@ -445,13 +451,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-23T22:40:27.000Z",
      "seen": "2026-11-24T03:39:02.012Z"
-    },
-    {
-     "title": "عقوبات أمريكية تستهدف عشرات المرتبطين بشبكات مالية إيرانية",
-     "url": "https://www.dw.com/ar/عقوبات-أمريكية-تستهدف-عشرات-المرتبطين-بشبكات-مالية-إيرانية/live-80015556?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-23T22:22:00.000Z",
-     "seen": "2026-11-23T22:28:42.089Z"
     }
    ]
   },
@@ -563,17 +562,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  },
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
