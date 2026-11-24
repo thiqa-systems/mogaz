@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:39:20.787Z",
+ "updated": "2026-11-24T09:49:20.718Z",
  "minute": [
   "تراجعت أسعار الذهب عالمياً مع ترقب بيانات التضخم، بالتوازي مع تحذير جهاز حماية المستهلك في مصر من مستحضرات التجميل المغشوشة خلال الجمعة البيضاء.",
   "سجل البنك المركزي المصري ارتفاع حجم التجارة الخارجية إلى 152.6 مليار دولار وتحديث أسعار العملات، بالتزامن مع كشف تفاصيل طرح مصر لتأمينات الحياة في البورصة.",
@@ -10,71 +10,71 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T09:39:20.787Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T09:49:20.718Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.16,
-   "change": 1.39,
-   "asOf": "2026-11-24T09:41:23.000Z",
+   "value": 54.25,
+   "change": 1.56,
+   "asOf": "2026-11-24T09:50:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5516,
-   "change": 0.54,
-   "asOf": "2026-11-24T09:31:22.000Z",
+   "value": 5527,
+   "change": 0.74,
+   "asOf": "2026-11-24T09:40:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6298,
-   "change": 0.54,
-   "asOf": "2026-11-24T09:31:22.000Z",
+   "value": 6311,
+   "change": 0.74,
+   "asOf": "2026-11-24T09:40:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3621,
-   "change": -0.84,
-   "asOf": "2026-11-24T09:31:22.000Z",
+   "value": 3622,
+   "change": -0.81,
+   "asOf": "2026-11-24T09:40:26.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51369,
-   "change": 1.29,
-   "asOf": "2026-11-24T09:26:22.000Z",
+   "value": 51389,
+   "change": 1.33,
+   "asOf": "2026-11-24T09:35:26.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0921,
-   "change": -0.46,
-   "asOf": "2026-11-24T09:40:47.000Z",
+   "value": 1.093,
+   "change": -0.38,
+   "asOf": "2026-11-24T09:49:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.59,
-   "change": -3.11,
-   "asOf": "2026-11-24T09:31:20.000Z",
+   "value": 86.72,
+   "change": -2.97,
+   "asOf": "2026-11-24T09:40:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60148,
-   "change": -1.74,
-   "asOf": "2026-11-24T09:41:19.000Z",
+   "value": 59971,
+   "change": -2.03,
+   "asOf": "2026-11-24T09:50:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تداول 17 سفينة حاويات وبضائع عامة بميناء دمياط",
-     "url": "https://www.elbalad.news/7192565",
+     "title": "اختيار النائب تامر عبد الحميد لعضوية اللجنة العامة بمجلس الشيوخ",
+     "url": "https://www.elbalad.news/7192559",
      "source": "صدى البلد",
-     "time": "2026-11-24T09:38:21.000Z",
-     "seen": "2026-11-24T09:39:20.787Z"
+     "time": "2026-11-24T09:48:41.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
     },
     {
-     "title": "بحرية الجيش الإيراني: اشتعال النيران في ناقلتي نفط مخالفتين فجر اليوم",
-     "url": "https://www.elbalad.news/7192560",
+     "title": "شوبير يكشف المرشح الأقرب لتدريب الأهلي بعد إقالة عموتة",
+     "url": "https://www.elbalad.news/7192571",
      "source": "صدى البلد",
-     "time": "2026-11-24T09:38:03.000Z",
-     "seen": "2026-11-24T09:39:20.787Z"
+     "time": "2026-11-24T09:48:10.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
     },
     {
-     "title": "الحد الأقصى للتحويل عبر إنستاباي 2026.. حدود المعاملات اليومية والشهرية والميزة الجديدة",
-     "url": "https://www.elbalad.news/7192547",
+     "title": "مصدر: الألماني أوربان مدرب الشباب بالأهلي يتولى مهمة الفريق الأول خلفا لعموته",
+     "url": "https://www.elbalad.news/7192575",
      "source": "صدى البلد",
-     "time": "2026-11-24T09:38:01.000Z",
-     "seen": "2026-11-24T09:39:20.787Z"
+     "time": "2026-11-24T09:47:42.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
     },
     {
-     "title": "وزيرة التضامن تكرّم المشاركين في ورش عمل تقرير إطار الحماية الاجتماعية",
-     "url": "https://www.youm7.com/story/2026/11/24/وزيرة-التضامن-تكرّم-المشاركين-في-ورش-عمل-تقرير-إطار-الحماية/7630526",
+     "title": "هل يتم تخصيص مواقع جديدة لإنشاء مآوٍ للكلاب؟..محافظ القاهرة يكشف التفاصيل",
+     "url": "https://www.youm7.com/story/2026/11/24/هل-يتم-تخصيص-مواقع-جديدة-لإنشاء-مآوٍ-للكلاب-محافظ-القاهرة/7627963",
      "source": "اليوم السابع",
-     "time": "2026-11-24T09:38:00.000Z",
-     "seen": "2026-11-24T09:39:20.787Z"
+     "time": "2026-11-24T09:46:00.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
     },
     {
-     "title": "وزير العمل يعيد تشكيل اللجنة الدائمة للدعم الفني للمنظمات النقابية",
-     "url": "https://www.youm7.com/story/2026/11/24/وزير-العمل-يعيد-تشكيل-اللجنة-الدائمة-للدعم-الفني-للمنظمات-النقابية/7630518",
+     "title": "مكتبة الإسكندرية و(آسرن) تنظمان مؤتمر «e-AGE26» لمناقشة مستقبل البحث العلمي والتراث الرقمي",
+     "url": "https://www.youm7.com/story/2026/11/24/مكتبة-الإسكندرية-و-آسرن-تنظمان-مؤتمر-«e-AGE26»-لمناقشة-مستقبل/7630544",
      "source": "اليوم السابع",
-     "time": "2026-11-24T09:33:00.000Z",
-     "seen": "2026-11-24T09:39:20.787Z"
+     "time": "2026-11-24T09:42:00.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
     },
     {
-     "title": "زراعة الجيزة تزيل سورًا مخالفًا بمساحة فدان ونصف بأبو رواش فى كرداسة",
-     "url": "https://www.youm7.com/story/2026/11/24/زراعة-الجيزة-تزيل-سورًا-مخالفًا-بمساحة-فدان-ونصف-بأبو-رواش/7630484",
+     "title": "التصالح وتقنين أراضى الدولة.. خطوات مهمة لمتابعة الطلبات وتجنب تعطيل الملفات",
+     "url": "https://www.youm7.com/story/2026/11/24/التصالح-وتقنين-أراضى-الدولة-خطوات-مهمة-لمتابعة-الطلبات-وتجنب-تعطيل/7627845",
      "source": "اليوم السابع",
-     "time": "2026-11-24T09:33:00.000Z",
-     "seen": "2026-11-24T09:39:20.787Z"
+     "time": "2026-11-24T09:41:00.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
     },
     {
      "title": "«مدبولي» يطلق مشروع التصنيع المحلي لسيارة «شيفروليه جروڤ» بأكتوبر غدًا",
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم الثلاثاء 24 نوفمبر 2026 مقابل الجنيه المصري داخل البنوك في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNUpBdnhyTldmZVVDNTRsR19sMzItTjJ2SnlVLUtna0N4YjBnOUJDRTFhMjJscDYzek9RMzNyVTBtajVfNkdIQXZ3MTJwT3hsTDRnSmhmOUZQYTUxUlQw?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T09:44:00.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
+    },
     {
      "title": "أين وصلت أسعار العملات أمام الجنيه اليوم الثلاثاء 24-11-2026؟",
      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOYUVsRmoycVVucnRIYTlVRW40d3piV0s4S3QzQmFmNDlDQ1ZXTTlmaXJocnRnQU1Ic2FUaWtsdjFuYzRtTllBRDlEX2NjM1g3TWVXcFNWUFh3R1piNVJjUTR2aUZQM3NReWFTMUlSNGpLc1RTaVh1UE1Jb2pnYTNRNUwxNTFfZlRXeVc5TFRQOE51Mk9FaXc4ZlRCVFhqY1pJOGdfSWgybU9mQm9EMFhMRHlDLVMxRE1UakFsY0xEUldWQml0anFWNmNhdkNianUxYUE4Z0F1SEFsQjFISkFZMHRTejdSV0Q5SFdUT0VGQlhkbG1UclVFVDlObmRvVHlmSmFrQXlWZUtBYk5NV1hYX2JxWTQwRTBJRHg5NXhjSVh0V18yOHhPWEVXdkJmdjI2OXctc3M3ai1RUE5xajAtWGRBQzY4M21pYWpsbmdEVlNjeERNd0lMR2E0SWo3Zw?oc=5",
@@ -339,13 +346,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T08:21:23.000Z",
      "seen": "2026-11-24T09:39:20.787Z"
-    },
-    {
-     "title": "سعر الدولار أمام الجنيه في البنوك الحكومية والخاصة اليوم الثلاثاء 24 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPM251Tm9xcGRzdllDNndVM2tTV29vbnVKWXg1T0RRSkcxLWRtNWd3THUwTlNmUWRkOVlXQmNoNUlkcTNUNFN2bi1LbnpmMU1ta0NtQ0xLRHV1bndCeEhvQTc0MC05UzNHbUYzaTBESEpWLTdqRHQxd2oxZHBQeEplVEZLTzJsM2FNaXhCempXSjVrdlRzdENfT3U3eUJUOUItWUJ4RDRUdEE2clU3Q1JsWk5ZOUhvVktnMHd4eDNVUnFMd050b0MzNG5DLXhMUjhHSUluVlQ1VlRDWTlRLTRDX0h4NndoZE1rRVFNNkRZX2xkNXZiZWZaRXJhenp4aHkxdGJSTVdsZ3dxbTBxcDZicWUtTTFtVlF3SmF2cW9hbTh6VEdOa1dhVG95Z2t1Z1FKZmRfQlR0VWVIcTB0T1MxeFM2WVJEUi1iX3RVSHVWWkRWamVHMWplTHJhTk5yMk5ObmdLUVpCRXJyR1JrN0VSYWV4NHpKdw?oc=5",
-     "source": "عالم المال",
-     "time": "2026-11-24T08:11:53.000Z",
-     "seen": "2026-11-24T08:49:20.755Z"
     }
    ]
   },
@@ -353,6 +353,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "لمن ستمنح المحكمة الرياضية كأس أمم أفريقيا لعام 2025.. للسنغال أم للمغرب؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D9%84%D9%85%D9%86-%D8%B3%D8%AA%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%84%D8%B9%D8%A7%D9%85-2025-%D9%84%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%A3%D9%85-%D9%84%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
+     "source": "فرانس 24",
+     "time": "2026-11-24T09:47:16.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
+    },
     {
      "title": "الحوثيون يعلنون مقتل وفقدان العشرات جراء غارات استهدفت حافلات وشاحنات في محافظة لحج",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%AD%D8%A7%D9%81%D9%84%D8%A7%D8%AA-%D9%88%D8%B4%D8%A7%D8%AD%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%84%D8%AD%D8%AC",
@@ -366,13 +373,6 @@
      "source": "فرانس 24",
      "time": "2026-11-24T09:16:29.000Z",
      "seen": "2026-11-24T09:29:21.132Z"
-    },
-    {
-     "title": "مباشر: المغرب والسنغال يترقبان ساعة الحسم... من الفائز بكأس أمم أفريقيا لكرة القدم 2025؟",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261124-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%AA%D8%B1%D9%82%D8%A8-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-24T09:10:23.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
     },
     {
      "title": "الألمان يديرون ظهرهم للدعم العسكري لأوكرانيا؟ استطلاع يكشف تراجعا لافتا في التأييد",
@@ -539,6 +539,13 @@
      "seen": "2026-11-24T02:59:01.773Z"
     },
     {
+     "title": "معادلة أخيرة لإنقاذ البشر.. هل يسبق الذكاء الاصطناعي العلماء؟",
+     "url": "https://www.aljazeera.net/politics/2026/11/24/%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d9%85%d8%b9%d8%a7%d8%af%d9%84%d8%a9-%d9%84%d9%85%d9%86%d8%b9-%d9%88%d9%82%d9%88%d8%b9-%d9%83%d8%a7%d8%b1%d8%ab%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9",
+     "source": "الجزيرة نت",
+     "time": "2026-11-24T01:38:00.000Z",
+     "seen": "2026-11-24T09:49:20.718Z"
+    },
+    {
      "title": "اتشقلبت أحوال الدنيا بالتكنولوجيا.. والذكاء الاصطناعى قادم!",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpOVFlWEJFeXYtdFlzQjhEWTVKcjRIQXVZMFNoQzVEZThnOTFlQk1RMjBFaTBxTTFxdnRuc1JxU3hVek41VTAtOXNDUExWMzF5MTZjaXJXVmZ0UDFWZG5V?oc=5",
      "source": "المصري اليوم",
@@ -551,13 +558,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-24T00:48:00.000Z",
      "seen": "2026-11-24T04:39:01.958Z"
-    },
-    {
-     "title": "660 ألف امرأة.. هل يأخذ الذكاء الاصطناعي مهنة الأطباء في الكشف عن سرطان الثدي؟",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xR2FYc0FqTS1JUEYwWGNKYngtcXd3cUtjOFkwS1NrbWdsTnB0blpyREYxV3JkNjZ4bUxiRzdUWmtpUlUxODU2N3FCbnpPMlp1VFVYaU5laVVZVEtV?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-23T21:41:07.000Z",
-     "seen": "2026-11-24T05:19:21.040Z"
     }
    ]
   }
