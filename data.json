@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:49:01.319Z",
+ "updated": "2026-11-24T01:59:02.296Z",
  "minute": [
   "تشهد مصر استمراراً للأجواء الدافئة خلال شهري نوفمبر وديسمبر، مع متابعة مستمرة لأسعار صرف العملات والذهب في البنوك.",
   "أوضحت فاكسيرا أهمية التحديث السنوي للقاح الإنفلونزا، بينما أعلنت نقابة الزراعيين تقديم دعم مالي للمعاشات.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T01:49:01.319Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T01:59:02.296Z"
  },
  "markets": [
   {
@@ -20,35 +20,35 @@
    "name": "الدولار / جنيه",
    "unit": "ج.م",
    "value": 54.19,
-   "change": 0.75,
-   "asOf": "2026-11-23T23:39:37.000Z",
+   "change": 1.45,
+   "asOf": "2026-11-24T01:57:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5599,
-   "change": 5.26,
-   "asOf": "2026-11-24T01:40:02.000Z",
+   "value": 5591,
+   "change": 5.84,
+   "asOf": "2026-11-24T01:49:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6393,
-   "change": 5.26,
-   "asOf": "2026-11-24T01:40:02.000Z",
+   "value": 6383,
+   "change": 5.84,
+   "asOf": "2026-11-24T01:49:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3673,
-   "change": 4.48,
-   "asOf": "2026-11-24T01:40:02.000Z",
+   "value": 3668,
+   "change": 4.33,
+   "asOf": "2026-11-24T01:49:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0918,
-   "change": -0.49,
-   "asOf": "2026-11-24T01:49:47.000Z",
+   "value": 1.0917,
+   "change": -0.5,
+   "asOf": "2026-11-24T01:58:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.43,
-   "change": -6.63,
-   "asOf": "2026-11-24T01:39:59.000Z",
+   "value": 86.39,
+   "change": -6.68,
+   "asOf": "2026-11-24T01:46:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61137,
-   "change": -0.04,
-   "asOf": "2026-11-24T01:49:58.000Z",
+   "value": 60999,
+   "change": -0.27,
+   "asOf": "2026-11-24T01:59:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -247,6 +247,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "أسعار الذهب والدولار في مصر اليوم الثلاثاء 24 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GZzY0RWlVeEV4UGZsNkdrU2FvdVB5T2NINldqaVQtMVEwU1o1QWtGbEJoa05LbmtNd2p6TzVZcC1nSXptdkE?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-24T01:27:39.000Z",
+     "seen": "2026-11-24T01:59:02.296Z"
+    },
+    {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
      "source": "جريدة الدستور",
@@ -255,19 +262,19 @@
      "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة حركة أسعار الدولار وتأثيرها على تكلفة السلع والمعاملات."
     },
     {
+     "title": "سعر الدولار اليوم الثلاثاء 24-11-2026.. الأخضر بكام انهاردة؟",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sQ003Y1AxMUtsTkJNRTQ5WU13eGFFN2RBUHMxc2FsS3B5ODVaNjZQQV9WUWlJeXQ0NUR2eEpIR3pqSEZsZUo4?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-24T00:00:00.000Z",
+     "seen": "2026-11-24T00:09:01.963Z"
+    },
+    {
      "title": "سعر الدولار على مدار الساعة.. 54.29 جنيه شراء الأخضر فى بنك مصر",
      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcmZaRUlwcVdKaFhFSjVFblhmYzk2ZU1xcFpwM1dqb3c4cGoxLVZjU0tuTWpsLXQzZWQyYkRzRjF4MmJyVnE2Yks2ZzdQc2o4UjExSmhKckFpaTViZjMyUVVSVHdqQm9VWTNzcV9NS2pPWlE2OUJqSHZYd01ZUEZuM0JpeTlaN3BuZTlPbGlHeHdkcnhDMEFxODQ5b082ZDdVXzZLbnpXOWlVXy1sSHpwX0tqbEIycks0aGxXNENOSkQ4ZEM4amRLVGYxRTlKUkE1M09xMjk0Yk1Rd01fMWRXV0h3anVYWV9WX1hRN3J2UzljVlB2d3N0OVRDNUlpY3JELTlzQk1WYUZ6d3VHV3lBMmdubmN2VXd3M0hHSk1PSC1fSy1tQW1DUHh0VjRoMzJoakV1aGhoLUpma1lmRWpqakV6dmFfeTZhUHdoOUtCdDFsTW95Qko4R3VuSWV2bmRSdGtZMkZnUmhYQWxucjNnRF9XWWpkbkJsRy1JajZ1aGp3dWE2ekFmQmtuMl9HTkkwSXVJWtIBjwNBVV95cUxQOUl0NEM3NlctbnhnTmV0c3lfWGFMUHdqUHdVMTMwUFN2VTdRWExOSnhLOUF4QU9VOFh1Y2xvQkRPa2doMXRRNzR6Q2ZyYkVTbUE4XzFNdllJLXZHWS1zUm41cmxjMnBBYkcxWFJaX2hQdkVUNzQyZWg1ZjJmV1hjLTFPQ3k4cHFJWlRmYVFseXNvYjhhWm84b2xEZ09rUTc4V3o3ZWhXZUNQSmlqS3R6RUV6aWRaZ2NNMlRjMEJIOWNUU2lPOTFRRlRJQVJhdnN1YnN2eDBIQUJTSlFQX3drX0JqZkZjWjBhc083YXU5bGctMGQ3d3dPeUhxaWVuekhSbU9oZlpTR2FpZFZFREZMRE5ETnNhalRBbW5WQUk0Y295bVNGeTRzUnRIMUJ0aXNyUGsyOHZMYVo0WmtXXzlnUjlGUDlHVTJQQTBxN1JmVDFrUlZvNmFURFc2WmNRNGRfaHdOMzk5d003aG1xN2VFZlVlU3A1MmZ6T1Ixb0tjcTdiRkdEbVV3Yk1mbFJRaEE?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-24T00:00:00.000Z",
      "seen": "2026-11-24T00:09:01.963Z",
      "impact": "يتيح للمتعاملين مع بنك مصر معرفة سعر صرف الدولار الدقيق لإتمام المعاملات المالية."
-    },
-    {
-     "title": "سعر الدولار اليوم الثلاثاء 24-11-2026.. الأخضر بكام انهاردة؟",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sQ003Y1AxMUtsTkJNRTQ5WU13eGFFN2RBUHMxc2FsS3B5ODVaNjZQQV9WUWlJeXQ0NUR2eEpIR3pqSEZsZUo4?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-24T00:00:00.000Z",
-     "seen": "2026-11-24T00:09:01.963Z"
     },
     {
      "title": "مصر تتفاوض مع العراق لاستيراد 10 ملايين برميل نفط بتسهيلات ائتمانية",
@@ -342,13 +349,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T20:02:37.000Z",
      "seen": "2026-11-23T21:28:42.307Z"
-    },
-    {
-     "title": "بي بي سي تلتقي بالمحتجين في شوارع فرنسا: ما الذي يريده اليسار المتطرف؟",
-     "url": "https://www.bbc.com/arabic/articles/c9m2jyz60lxko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T20:00:19.000Z",
-     "seen": "2026-11-23T20:08:41.952Z"
     }
    ]
   },
@@ -477,6 +477,13 @@
      "impact": "يفيد مستهلكي الكهرباء في مصر للتعرف على حقيقة ضوابط وشروط تغيير العدادات وتجنب أي تكاليف غير لازمة."
     },
     {
+     "title": "بي بي سي تلتقي بالمحتجين في شوارع فرنسا: ما الذي يريده اليسار المتطرف؟",
+     "url": "https://www.bbc.com/arabic/articles/c9m2jyz60lxko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T20:00:19.000Z",
+     "seen": "2026-11-23T20:08:41.952Z"
+    },
+    {
      "title": "إعادة تعيين جينسن هوانغ رئيساً ومديراً تنفيذياً لشركة NVIDIA بعد مراجعة أمنية",
      "url": "https://www.tech-wd.com/wd/2026/11/23/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%ac%d9%8a%d9%86%d8%b3%d9%86-%d9%87%d9%88%d8%a7%d9%86%d8%ba-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a7%d9%8b-%d9%88%d9%85%d8%af%d9%8a%d8%b1%d8%a7/",
      "source": "عالم التقنية",
@@ -532,13 +539,6 @@
      "source": "BBC",
      "time": "2026-11-23T16:50:59.000Z",
      "seen": "2026-11-23T20:58:41.825Z"
-    },
-    {
-     "title": "الذكاء الاصطناعي في مختبرات الإنجاب: أداة جديدة لرصد أندر الخلايا المنوية",
-     "url": "https://www.bbc.com/arabic/watch/cxvg2n7n9qmro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T16:42:26.000Z",
-     "seen": "2026-11-23T16:48:14.501Z"
     },
     {
      "title": "إنفيديا تعيد جنسن هوانغ رئيسًا تنفيذيًا",
