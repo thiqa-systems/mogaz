@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:51:28.163Z",
+ "updated": "2026-11-24T22:01:27.774Z",
  "minute": [
   "تتطلع مصر لتوفير 70 مليار دولار استثمارات أجنبية لدعم النمو الاقتصادي، بينما يستهدف جهاز تنمية المشروعات ضخ 500 مليون جنيه للمصدرين.",
   "تتجه تطبيقات المراسلة مثل سيجنال وواتساب لإطلاق ميزات حظر التقاط الشاشة لحماية بيانات المحادثات من التجسس ومحركات الذكاء الاصطناعي.",
@@ -10,7 +10,9 @@
   "at": "2026-11-24T21:41:28.137Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T22:01:27.774Z"
  },
  "markets": [
   {
@@ -26,18 +28,18 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5412,
-   "change": -1.36,
-   "asOf": "2026-11-24T21:41:31.000Z",
+   "value": 5413,
+   "change": -1.34,
+   "asOf": "2026-11-24T21:51:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6179,
-   "change": -1.36,
-   "asOf": "2026-11-24T21:41:31.000Z",
+   "value": 6181,
+   "change": -1.34,
+   "asOf": "2026-11-24T21:51:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -45,8 +47,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3552,
-   "change": -2.74,
-   "asOf": "2026-11-24T21:41:31.000Z",
+   "change": -2.71,
+   "asOf": "2026-11-24T21:51:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.02,
-   "asOf": "2026-11-24T21:50:47.000Z",
+   "value": 1.0971,
+   "change": 0,
+   "asOf": "2026-11-24T22:00:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.47,
-   "change": -1.01,
-   "asOf": "2026-11-24T21:40:57.000Z",
+   "value": 88.48,
+   "change": -1,
+   "asOf": "2026-11-24T21:51:20.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -82,16 +84,16 @@
    "unit": "نقطة",
    "value": 7201,
    "change": -0.5,
-   "asOf": "2026-11-24T21:20:01.000Z",
+   "asOf": "2026-11-24T21:54:10.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59790,
-   "change": -2.32,
-   "asOf": "2026-11-24T21:51:24.000Z",
+   "value": 59859,
+   "change": -2.21,
+   "asOf": "2026-11-24T22:01:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ارتفاع أسعار النفط الأمريكي 2.35% لتسجل 82.05 دولار للبرميل عند التسوية",
-     "url": "https://www.elbalad.news/7193532",
-     "source": "صدى البلد",
-     "time": "2026-11-24T21:50:25.000Z",
-     "seen": "2026-11-24T21:51:28.163Z"
+     "title": "درجات الحرارة اليوم الأربعاء 25 نوفمبر 2026.. الصغرى بالقاهرة 14 درجة",
+     "url": "https://www.youm7.com/story/2026/11/25/درجات-الحرارة-اليوم-الأربعاء-25-نوفمبر-2026-الصغرى-بالقاهرة-14/7630765",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
     },
     {
-     "title": "2666 وظيفة في السكة الحديد.. اعرف الشروط ورابط التقديم",
-     "url": "https://www.elbalad.news/7193523",
-     "source": "صدى البلد",
-     "time": "2026-11-24T21:43:56.000Z",
-     "seen": "2026-11-24T21:51:28.163Z"
+     "title": "مواقيت الصلاة اليوم الأربعاء 25 نوفمبر 2026 بمحافظات الجمهورية",
+     "url": "https://www.youm7.com/story/2026/11/25/مواقيت-الصلاة-اليوم-الأربعاء-25-نوفمبر-2026-بمحافظات-الجمهورية/7630408",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
     },
     {
-     "title": "أحمد حسن يوضح موقف إدارة الأهلي من المدرب الجديد.. ويكشف الأقرب لتولي المهمة",
-     "url": "https://www.elbalad.news/7193520",
+     "title": "أخبار التوك شو | أحمد موسى يطالب بثورة داخل الأهلي ويحذر من GTA 6.. وزير الكهرباء يكشف مستهدفات الطاقة النووية.. ومصر تتمسك باستقرار غزة ورفض الكيانات الموازية في السودان",
+     "url": "https://www.elbalad.news/7193519",
      "source": "صدى البلد",
-     "time": "2026-11-24T21:41:59.000Z",
-     "seen": "2026-11-24T21:51:28.163Z"
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
+    },
+    {
+     "title": "الذهب يفاجئ الأسواق.. انهيار جديد في أسعار المعدن الأصفر",
+     "url": "https://www.elbalad.news/7193484",
+     "source": "صدى البلد",
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
+    },
+    {
+     "title": "مسرب لعبة GTA VI يحصل على حكم بالسجن 7 سنوات ويخرج فوراً",
+     "url": "https://www.elbalad.news/7193456",
+     "source": "صدى البلد",
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
     },
     {
      "title": "تعرف على مواعيد رحلات سوبر جيت بين القاهرة والمنيا وطرق الحجز",
@@ -165,22 +181,6 @@
      "time": "2026-11-24T21:30:00.000Z",
      "seen": "2026-11-24T21:31:27.817Z",
      "impact": "يساعد المسافرين بين القاهرة والمنيا في التعرف على مواعيد الرحلات وطرق الحجز لتسهيل التنقل."
-    },
-    {
-     "title": "أمل عمار لـ\"اليوم السابع\": 52 مشغل بالجمهورية لتقديم برامج تدريبية للمرأة المعيلة",
-     "url": "https://www.youm7.com/story/2026/11/24/أمل-عمار-لـ-اليوم-السابع-52-مشغل-بالجمهورية-لتقديم-برامج/7630504",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T21:16:00.000Z",
-     "seen": "2026-11-24T21:21:27.676Z",
-     "impact": "يفيد السيدات المعيلات في مصر الراغبات في الالتحاق بالبرامج التدريبية لتطوير مهاراتهن وتحسين دخلهن."
-    },
-    {
-     "title": "مياه الجيزة: الانتهاء من أعمال إصلاح كسر خط منطقة ترعة الزمر",
-     "url": "https://www.youm7.com/story/2026/11/24/مياه-الجيزة-الانتهاء-من-أعمال-إصلاح-كسر-خط-منطقة-ترعة/7631518",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T21:16:00.000Z",
-     "seen": "2026-11-24T21:21:27.676Z",
-     "impact": "يهم سكان منطقة ترعة الزمر والجيزة للاطمئنان على عودة واستقرار خدمات مياه الشرب بعد إصلاح الكسر."
     },
     {
      "title": "مدبولي يناقش مع اللجنة الاستشارية السياسية تطورات الأوضاع.. ودعوات للمصارحة",
@@ -356,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الجيش الوطني الليبي يعلن مقتل عسكرييْن في هجوم ميناء بنغازي",
+     "url": "https://www.skynewsarabia.com/middle-east/1906898-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D9%8A%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T21:59:21.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
+    },
+    {
      "title": "سبع نصائح لاستخدام متوازن للهواتف الذكية لدى الأطفال .. لماذا لا يكون المنع هو الحل؟",
      "url": "https://www.dw.com/ar/سبع-نصائح-لاستخدام-متوازن-للهواتف-الذكية-لدى-الأطفال-لماذا-لا-يكون-المنع-هو-الحل؟/a-80018827?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -406,11 +413,11 @@
      "seen": "2026-11-24T20:21:12.120Z"
     },
     {
-     "title": "العراق.. النفط والحدود يشعلان التوتر بين بغداد وأربيل",
-     "url": "https://www.skynewsarabia.com/middle-east/1906884-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%8A%D8%B4%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T19:17:17.000Z",
-     "seen": "2026-11-24T19:21:12.307Z"
+     "title": "إيران تختبر «الجدار الفولاذي»... وترمب يتوعد",
+     "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQV2pxXy1oM25ROV82bDh2TWJqM0lVSzlHcFZ0cmE5R0h1M1Q2TXllOV93aWRITzN5THpVWElkWTV6WmxJWG83MzVuSDU5anFOWTl2ZkRtVkpZRlBPaW5heWxLM1ZtT1JsNkt4YVhGRi01YmFRNjZnU1d1UzR1S2JXNC05WVFVak1vOFNwYy01Qzl1b19TRVFUcjBBaEt5c1ptVXNYOVEwTnhPZ0RGYVFxemRlYWM4YjdueDRmM2tvUnhRT1NEdElyemhaTTVFZ3RCYW1rQTVmcXg2bWZZV2JIMG83dVMtclpmT09WQ2hQTnFrbWlkalhkTWM4WkxidDh0SFQxbzNPTTQ0YjFIYlRSZGEyOWtTeEFDeUs1dE1Za2t5bWhnQ2ZGZURRaU5waS1BU19zS2IwVk1hdjhocUR0ZjZ0SUN5WVdVQXhfSlEzTmJMdGJYYkZ4XzV4TUo1U1dWeERNSV9DM1duaEFhbENpWHMxVmRGdnh2VEh6ZkZMWmlnRV9jRGpySmpBZkNQOWtZRldMUHdOWHU5U2IzeUZxWjdhZzlCVXNDUE0wZGdGSVFhUQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-24T19:47:39.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
     },
     {
      "title": "حكومة وحدة تجمع بينيت ونتنياهو.. وآيزنكوت يطلب البداية",
@@ -446,13 +453,6 @@
      "source": "الجزيرة",
      "time": "2026-11-24T18:21:52.000Z",
      "seen": "2026-11-24T21:51:28.163Z"
-    },
-    {
-     "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
-     "url": "https://www.bbc.com/arabic/articles/c68x0ve7wqg1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T18:05:50.000Z",
-     "seen": "2026-11-24T18:11:11.547Z"
     }
    ]
   },
@@ -483,6 +483,13 @@
      "seen": "2026-11-24T21:11:12.187Z"
     },
     {
+     "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
+     "url": "https://www.bbc.com/arabic/articles/c68x0ve7wqg1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T18:05:50.000Z",
+     "seen": "2026-11-24T18:11:11.547Z"
+    },
+    {
      "title": "هل تطبيق Instinct AI آمن؟ خبير تكنولوجيا معلومات يكشف",
      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOaTdmOWtPeGYyX012VmZBSDBGdENtRkRCNGF3Q2FsNTRTZkdjMmtoNklzcml3WTJGS2J6OS1EbnlyeC1KNGxIOWRkcElkenlQWHlsTm4waHJBMU5lWjhaYWhUN2s3dE1vSlRHdll6Vk1mVHVJYmNSUlhvOFN6YldJOWdjb3gyWmc2TWhFLWdtTmxRVU5sUjhnZElHcDFGbU1FdXNTZ2xFWVYxektmVGx4SDNMYTlFd091V3E2S095MWFfWHlYajFnY3ZEZDhmaVZaZEZJazBEWmdnXzVieUdOYUlLNzZ4akZLRXZVMEF2SnFzM184a0hxcTcwWW9DS3RxemFmbUJwNEx3dG5kSmUwcUhfQXpkTWJNSnN6UUhjUTl6aWY0b0Y4em9vY25HelNhenBlc2RWNGhMWVhldlRxLTlTdU9oUDVnMWpSTzJmS0lpeEl2SjdnZzFqSkh3a0FsZG1jQXZ5M0FHQUd1cThURG05Y2ZxemRZNGFnUVFMN1phbFBPejBGNlJ3dWp2ZDFhUHFvVWdsYi01WTNJcGpr0gGkA0FVX3lxTE5pdm9TZ29EWmV3ZkVoY3gtMl9EVVdKTk9BZjZUT2wwUF8zRnZVa3RPXy13NFdoaDlCR1pnak9BQW5Lcl8weGZxcWx2cmlaSW9feURDR0N2ZDRIRGFTaUJkX0ZOQW9idnByQTFCLUxzMTFJUVRLZFNwOVlzMlNRUnRRY2JheFI2T3F2Zkk2VjgzUkktaTBBbmQ2Wll2MGRqWDNlVVljcGN5NmJFakxidERDWEJRbW00c0pUc0VkQ2NEVTQyVXRpYnFtcHJSRXZtakRsWG5Cb3NoSnZ5RVlzOWtSQkQxc3RmdUwzX2FQb3g3b0s0Vm9OckxsLS1uVTFhSjA0eTdpS21vc3RwNmMxMFNjYzdoV0tTY2VPQU9seXBOYzZJX2tKV2ZTX1FTdXRzSk8zakpERmZZaWNvSjdRTlNsY1dNRVQzLXhPMFZiSjlxc1lCdEJlWTMzOWNPaWRkTE9qUWpjajg3NWRScjlzM09PR3JWS2dsYm0zQldmZi00TC1GeW5lZHJFblc3MUhSeUc2djI1MTdhNXdlMDFvUlBpTklBeA?oc=5",
      "source": "Masrawy",
@@ -497,6 +504,13 @@
      "time": "2026-11-24T18:00:00.000Z",
      "seen": "2026-11-24T19:41:11.803Z",
      "impact": "يهتم به مستخدمو آيفون لمعرفة ميزات الخصوصية الجديدة واختبار الرسائل مخفية الأثر على تطبيق واتساب."
+    },
+    {
+     "title": "شعبة المحمول تكشف أسباب ارتفاع أسعار الهواتف في مصر",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNTFk4Wkg4SXRfWGVGZEFzRW9Pb3RXMjExM20wMTh0dDAwT1lCOS1ZQ0lFU3VoZ2tZV2FGZXJjcktFM1JCZlR2VFlTNTg1TlF5eHNPT2pZSUVNQ0Z5cEsxc1htSU5qWXBGQ2JMT2N6aUJwUTdwRW1RLVZNYW1heVphYUZTRHY5V2hQOW5oeHFEWEhTdlNVbVdfSEI0VV85MmJNYS1SVU8zTWlmUGt2SFJ2N05FdGNscVF6aGxIek11VlczV0k2REg2b2I2dDNoZDJYQjNmamR5ZHhpTFNjaGJFUVdmUWV2bDl0c3RKWWRsN2tLanBPRjhVbHpTSy1xbkpWeGdyVHBRV0o3SkN1ZWE1WHpkbGxFUkpSSkhqYWNOT0o1T3piR1paeVpmUk9CTURJSm4xaExfNDA4eUVZX1FTLU1XbFQ4N3ZCT09rRnlzY0JFdGMzOGZQX1Y2V1Q3VE1JVUwxdVp0aFdCbUdpLWtPVlFJYnFjVUJVZnlhVHF0QkIxT3JGYmtsSlhFUUNuWlRPRE5SYmRCNVJIc2RMZzhyTDFlMWlGdnh6a1hPTzdqM1dfQkxsaTBUMjlaM2JudmNlSnp1djBDRWxLYlJtelpRdGZDZ25ZdElERHfSAd8DQVVfeXFMUEZ5UkRqZWNaN0dzRVU0ZVNBMXhuc19vc215WUVsUmFrSTlYMGxVazJQd21TQlRsaGpjbThKaTFhbGY1V1BKNVZVNmdwaVN5RmNPNmhCYml3WHE2VGNlR3dpdlhXcjh4dlc4ZVB6RnpBTWhpbVpQUlJwT0RJQTNlNVZSSDNLMEt5QVl2TUs1bWZqR003dDJiLXZ6ajFlMGVFNGNmWXJaTWl3Z0pjQXV6UEN6bkdnUnkwak1ydXl5ZTk4elBHMTUwVzVNdjdkQ25JUmU1NHd6a09weVJfOHBHRUQ5aUxYVFpvZWIxUkRNZmhiN2NKNGF2V1hDUWk4VmpmUGxNS3NyUXRoQlBENmx1bmxWZXYwRXE2N0ItZks3blFOdFpmSTVKcnRqRl9zU1JVai1Zb2NycnpCS0paVnZncmh2dElWZ0NPQWNuR0xUQnNHbURKQ0lNUWgyU1dsc0xLYWR3ME0yNHBMM2hzTmlWazllSXUwLTJrdkYxVVVwTjFPNno3UHFVaUZsTHcySWtFT1lQbkw2ZUZkV0NQMUJBeW1ZNkEwNkQ2QW5HNERKWno4NmwzeV9xeERQZlpHNFJRSTUyUmVSeXIyVVRXMmYxWmxqak5QM01BejNoMEVtcXM?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-24T17:26:00.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
     },
     {
      "title": "العنف ضد النساء : مشكلة ثقافية أم أزمة قوانين ومؤسسات؟",
@@ -536,13 +550,6 @@
      "seen": "2026-11-24T19:41:11.803Z"
     },
     {
-     "title": "لماذا لا أُفصح دائماً عن إصابتي بعسر القراءة؟",
-     "url": "https://www.bbc.com/arabic/articles/cmj6lrl82pd8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T13:52:08.000Z",
-     "seen": "2026-11-24T14:00:37.723Z"
-    },
-    {
      "title": "جوجل تستعد لإطلاق قناة تلفزيونية تنتج المحتوى لحظياً بالذكاء الاصطناعي",
      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPenRGdFRCbTNicXVlaW5QdGVMaS03V2VVWGU0M0pLZVdjSm8wVXBDQkpLWFA1MzdPaHI3NDluVnUxM1hlSmRmM3NEUEdncThDUWpiSG1EX2xkU3B0RThwVDh5RmxUd3NKRHp0R1RtXy1xUWVBek5sSEhHQjBuWVd3aUNfNWhpSkx6eTlJX0xzYWRkRHZPcjZxRWFqSHhKMXhmLUNsOEJQRXZaOXNVdDdUQkFoLVByWDhFWGFVdVA4SjkxOV9WNzVwRVk1QUxMT2w3VFNyN3duYmdiclB5ZlBza3Bhb2J1UG9UVDZMeFBfOFF3a0hLSElMWl9UbW1ZOUowb0swOUdVYjctM0FNaTMydDdMVk5ZTG1tcHdMT1VwVEYzbXBxXzF3LWhxSkVCTVYyeFVhTllmZHdJRE5IbkNpTHkzLVJhc1YzYkFtbFVWSWZnTnJZQnhHVkxyd1BDenBBZWJqZTB1VElmMXIyMDJNdHhDeng0OEJkcUtzWDRibTI2dVFuUk9sTDNFbGZGMjNqYjlwOTZoSEdteFUybXA1cmNyMzhxeHRxLWtpN1ZKd014LWY1bTlISVJSbjdBWk1zUzM4QUJwMWpnWXBreUVQZVpra1B5c1NSc2ZrVmx2RW05cTVIT01EdVB2eTBEaUVKbGc?oc=5",
      "source": "الشرق للأخبار",
@@ -556,17 +563,21 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T12:24:57.000Z",
      "seen": "2026-11-24T15:00:37.967Z"
-    },
-    {
-     "title": "مفاجأة لأصحاب عدادات الكهرباء القديمة.. هل يتم تغيير العداد بعد مرور 10 سنوات على تركيبه؟",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y1pTaEJTUDFHOE5ySG53eFNadnk0ZW15dHduS01PQmsxa05iYW4xOFJoTmN4eVhiMTJPd1dEdThOYlJheFBCUmdWTV81bWo3YXZKNWJMeGdRV0pZcXhV?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T11:23:00.000Z",
-     "seen": "2026-11-24T14:40:37.647Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  }
+ ],
  "marketErrors": []
 }
