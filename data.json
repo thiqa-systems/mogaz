@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:41:12.204Z",
+ "updated": "2026-11-24T17:51:11.970Z",
  "minute": [
   "تتناول الأخبار الاقتصادية متابعة سعر صرف الدولار مقابل الجنيه بالبنك المركزي المصري، واستهداف موقع التوكيل دخول سوق السيارات المستعملة.",
   "على المستوى التكنولوجي، صدرت تحذيرات من تحميل تطبيق Instinct AI، بينما تداولت التقارير تسريبات حول أجهزة سامسونج واستعداد جوجل لإطلاق قناة تلفزيونية بالذكاء الاصطناعي.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T17:41:12.204Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T17:51:11.970Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5432,
-   "change": -1,
-   "asOf": "2026-11-24T17:31:16.000Z",
+   "value": 5435,
+   "change": -0.94,
+   "asOf": "2026-11-24T17:42:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6202,
-   "change": -1,
-   "asOf": "2026-11-24T17:31:16.000Z",
+   "value": 6206,
+   "change": -0.94,
+   "asOf": "2026-11-24T17:42:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3565,
-   "change": -2.38,
-   "asOf": "2026-11-24T17:31:16.000Z",
+   "value": 3567,
+   "change": -2.32,
+   "asOf": "2026-11-24T17:42:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0975,
-   "change": 0.03,
-   "asOf": "2026-11-24T17:40:47.000Z",
+   "value": 1.0977,
+   "change": 0.05,
+   "asOf": "2026-11-24T17:51:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.04,
-   "change": -1.49,
-   "asOf": "2026-11-24T17:31:15.000Z",
+   "value": 87.98,
+   "change": -1.56,
+   "asOf": "2026-11-24T17:42:19.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7215,
-   "change": -0.31,
-   "asOf": "2026-11-24T17:41:14.000Z",
+   "value": 7197,
+   "change": -0.55,
+   "asOf": "2026-11-24T17:52:20.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60015,
-   "change": -1.95,
-   "asOf": "2026-11-24T17:41:12.000Z",
+   "value": 59840,
+   "change": -2.24,
+   "asOf": "2026-11-24T17:52:20.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +139,31 @@
    "title": "مصر",
    "items": [
     {
+     "title": "من إستاد متهالك إلى قرية أوليمبية.. اقتراح برلماني لإعادة إحياء المنشأة الرياضية بأسيوط",
+     "url": "https://www.elbalad.news/7193224",
+     "source": "صدى البلد",
+     "time": "2026-11-24T17:48:22.000Z",
+     "seen": "2026-11-24T17:51:11.970Z"
+    },
+    {
+     "title": "التعادل السلبي يحسم لقاء زد وأبو قير للأسمدة في الدوري",
+     "url": "https://www.elbalad.news/7193217",
+     "source": "صدى البلد",
+     "time": "2026-11-24T17:47:53.000Z",
+     "seen": "2026-11-24T17:51:11.970Z"
+    },
+    {
+     "title": "البابا تواضروس يستقبل الأنبا جابرييل ويطلع على تقرير خدمته في نيوچيرسي",
+     "url": "https://www.elbalad.news/7193223",
+     "source": "صدى البلد",
+     "time": "2026-11-24T17:47:03.000Z",
+     "seen": "2026-11-24T17:51:11.970Z"
+    },
+    {
      "title": "الرئيس الإيراني: ترامب يتراجع عن مذكرة التفاهم لأنها تصب في مصلحتنا",
      "url": "https://www.youm7.com/story/2026/11/24/الرئيس-الإيراني-ترامب-يتراجع-عن-مذكرة-التفاهم-لأنها-تصب-في/7631358",
      "source": "اليوم السابع",
      "time": "2026-11-24T17:38:00.000Z",
-     "seen": "2026-11-24T17:41:12.204Z"
-    },
-    {
-     "title": "محمد رمضان يطرح أحدث أغانيه «أسمر وحلاوته سمارة» عبر يوتيوب",
-     "url": "https://www.elbalad.news/7193215",
-     "source": "صدى البلد",
-     "time": "2026-11-24T17:37:41.000Z",
-     "seen": "2026-11-24T17:41:12.204Z"
-    },
-    {
-     "title": "قداسة البابا تواضروس يستقبل كهنة وخدام كنيسة العذراء بالزيتون",
-     "url": "https://www.elbalad.news/7193216",
-     "source": "صدى البلد",
-     "time": "2026-11-24T17:37:17.000Z",
-     "seen": "2026-11-24T17:41:12.204Z"
-    },
-    {
-     "title": "برلمانية: تعميق صناعة الهواتف المحمولة محليا خطوة مهمة لخفض الأسعار",
-     "url": "https://www.elbalad.news/7193211",
-     "source": "صدى البلد",
-     "time": "2026-11-24T17:36:57.000Z",
      "seen": "2026-11-24T17:41:12.204Z"
     },
     {
@@ -353,6 +353,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إيران وفاة 20 شخصا على الأقل جراء تسمم بكحول مغشوشة",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D9%85%D9%85-%D9%83%D8%AD%D9%88%D9%84-%D9%85%D8%BA%D8%B4%D9%88%D8%B4%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-24T17:49:11.000Z",
+     "seen": "2026-11-24T17:51:11.970Z"
+    },
+    {
+     "title": "من النازية إلى روسيا بوتين.. ثمانون عاما تفصل بين مأساتين لأطفال مخطوفين",
+     "url": "https://www.dw.com/ar/من-النازية-إلى-روسيا-بوتين-ثمانون-عاما-تفصل-بين-مأساتين-لأطفال-مخطوفين/a-80021078?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-24T17:35:00.000Z",
+     "seen": "2026-11-24T17:51:11.970Z"
+    },
+    {
      "title": "كأس أمم أفريقيا 2025: السنغال تستعيد اللقب والمغرب يدرس كل \"الإجراءات القانونية\" للطعن في قرار المحكمة",
      "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261124-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%84%D9%82%D8%A8-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%AF%D8%B1%D8%B3-%D9%83%D9%84-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%B9%D9%86-%D9%81%D9%8A-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9",
      "source": "فرانس 24",
@@ -402,13 +416,6 @@
      "seen": "2026-11-24T16:31:12.124Z"
     },
     {
-     "title": "كأس أمم أفريقيا 2025... المغرب سيتخد كل \"الإجراءات القانونية اللازمة\" للطعن في قرار المحكمة الرياضية",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261124-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%AA%D8%B1%D9%82%D8%A8-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-24T15:49:45.000Z",
-     "seen": "2026-11-24T16:01:10.600Z"
-    },
-    {
      "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وهجوم على أعلى ناطحة سحاب في الرياض",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeG40QUhUOHVtZGV3NGpOdlhIdTBVQVNCd0ZLSUJaMWpPQWxRdnlKRjhsbm00SFJuWUJVV1J5OUthSjFlS1FoU2p0bUFjM2EyZEZ5M29HNG5lekZyQUHSAWNBVV95cUxPeXZMZmxFem9pNEFNNnhCR2Y5dWl2b1JJcmh6UC1EaGtKVXhLaWZWRUV4S1Y0S0o5TGplUVQ2M0EyT3hBMXVlQ21CM3NHY0FEbjlFQ1NuR05TNkw5UzEtbW50SXc?oc=5",
      "source": "BBC",
@@ -441,13 +448,6 @@
      "url": "https://www.aljazeera.net/sport/2026/11/24/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%b5%d8%a8%d8%a7%d8%ad-%d8%a8%d8%a7%d9%83%d9%88-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-24T14:25:45.000Z",
-     "seen": "2026-11-24T17:31:11.818Z"
-    },
-    {
-     "title": "رئيس وزراء العراق يكلف وزارة النفط الاتحادية بإدارة حقول المناطق الكردية",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/24/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d9%83%d9%84%d9%81-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%b7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T14:21:38.000Z",
      "seen": "2026-11-24T17:31:11.818Z"
     }
    ]
@@ -558,7 +558,7 @@
      "title": "طعم وكاميرات مراقبة.. فيديو \"أسد إسطنبول\" يستنفر السلطات",
      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQcFVaRGtWaWZXZnBQd3FFRDRTQ0ZRUnhwbHcyNHljV3pTaldZOVpUazFkR1NENHpIbnYtU3Nxa3hxNHExTmEzeXlGV21YYXhFVHA2QTFWazBvelJuNUw3QUNRYnhmZUtJdkFZVmVvTUJCMWZ1R1dFVDduZkJuMkFXci1ZX0ppdllWRk80N0lkWlpWNkxZb2NpSVFTYXZTUzM0M29VMnJyQVlLZkMtNkgwazVJMzVTR3NHWHFEU01UdUc1VzNpRlozVFBwOER6b2FEdElLUVdMOVZjSERqdzZjNDcyVlVuczgxcHJweTAza2FtY1E1WU9oZm5CODgzZkJtX21HZ0ZwLVduTmtybVJ5bnV4RlBhaThrdlg5NVJfWHZ2Q2NDODF1cmEwUHZtYk11RzViaGJOdC11SjE4Z0QtcWpvTTFwcUdidEktaVpIVHBpZmVBLS1zMTZQNGZKWHBOSDJrZ2hKNFBueGNndWFCYjMydnJvRkpTYkdHbDNCc0VSOWRmVzVwX0ZBMU5HLVN6R0g4UGpocEIwNzFwenF6T05mcnJmNmF2ckVsaEh3V2RRSWZGbFpGUkdlMkV4Tk8tQWtXdG5fNHYxTnJvRkHSAdMDQVVfeXFMT2MySHpNN3pGckxqanlzZ3NFNjllLXMyMnVQRHlrakp6QkxLQ185UjZkOVdERWVuZVcyM2g2c2o2REdFM2FIWWNUOGd5RFExWGVQRF9LdUZoeXpMN3JaaU1FNm1lbmQzakZCY24yeWpxUlJaMDRMVWVsdEM3M2YyUkpDR0hFcWNXN3dTZ2ZWVXBOaTBYZ1A1OE0yS2RGbEY2eUdLU3VacTRVNHpLUTdvOVVtVlJETi1VVnhnV2hMV2lmbFlmRGwtbGhpMEtKOEdmb3VGM1ZrdlNpdk5xQ1FBbzNOdFJKRi14eVd0ZVBEaE85b2tzME01dWl0eWNZVzRvcEZBbHVGQXkyNUQ2NG9xcGY5cWQycVBxS0ota3o2b3IzenMzVGVmMGd6bHZQVm5nNHlveG8xT080QndHMDRKS1llaS1lOTVtMVZRZ29SZEEwRTZHZ3A0TzNNV0x3d2oyRllSMGtpQWpTLXljMk9zZjUwaTMzdFUwcFdWM2JCVURjLUVzUXNycWowckhRZUsxTzB1RkRha0tqSEZVYWxSUkU2eVVXYVFZVkFWNzEzTHg3LUZBbjNXekVDVVJZbk8zNjFvNk1XSWNjd0VPem45TXY1OEU?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T10:46:34.000Z",
+     "time": "2026-11-24T10:43:32.000Z",
      "seen": "2026-11-24T12:20:38.050Z"
     }
    ]
