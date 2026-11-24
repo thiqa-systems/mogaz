@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:51:28.077Z",
+ "updated": "2026-11-24T23:01:27.501Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -9,7 +9,9 @@
   "at": "2026-11-24T22:41:28.166Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T23:01:27.501Z"
  },
  "markets": [
   {
@@ -61,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0967,
-   "change": -0.04,
-   "asOf": "2026-11-24T22:50:43.000Z",
+   "value": 1.0969,
+   "change": -0.02,
+   "asOf": "2026-11-24T23:00:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59927,
-   "change": -2.1,
-   "asOf": "2026-11-24T22:51:27.000Z",
+   "value": 59869,
+   "change": -2.19,
+   "asOf": "2026-11-24T23:01:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "هل يعود سامي قمصان إلى الأهلي؟.. رئيس المقاولون العرب يوضح الحقيقة | خاص",
-     "url": "https://www.elbalad.news/7193580",
-     "source": "صدى البلد",
-     "time": "2026-11-24T22:50:46.000Z",
-     "seen": "2026-11-24T22:51:28.077Z"
+     "title": "من القرى والنجوع إلى المناصب القيادية.. كيف يدعم القومي للمرأة السيدات؟",
+     "url": "https://www.youm7.com/story/2026/11/25/من-القرى-والنجوع-إلى-المناصب-القيادية-كيف-يدعم-القومي-للمرأة/7630474",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T23:00:00.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
     },
     {
-     "title": "هل اقترب حل لغز مقبرة الإسكندر الأكبر؟.. عالم آثار يكشف أسرار الاكتشاف الجديد بـ \"حدائق الشلالات\"",
-     "url": "https://www.elbalad.news/7193546",
-     "source": "صدى البلد",
-     "time": "2026-11-24T22:50:00.000Z",
-     "seen": "2026-11-24T22:51:28.077Z"
+     "title": "تنفيذا لتوصيات منتدى مصر.. استمرار التقدم لبرنامج \"ASPIRE Egypt\" لدعم الصناعة",
+     "url": "https://www.youm7.com/story/2026/11/25/تنفيذا-لتوصيات-منتدى-مصر-استمرار-التقدم-لبرنامج-ASPIRE-Egypt-لدعم/7630843",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T23:00:00.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
     },
     {
-     "title": "صندوق الإسكان الاجتماعي ودعم التمويل العقاري يُعلن موعد طرح كراسات مشروعات بورسعيد | شاهد",
-     "url": "https://www.elbalad.news/7193574",
+     "title": "أذكار النوم كاملة مكتوبة من السنة النبوية.. حصن نفسك قبل المنام",
+     "url": "https://www.elbalad.news/7193551",
      "source": "صدى البلد",
-     "time": "2026-11-24T22:49:31.000Z",
-     "seen": "2026-11-24T22:51:28.077Z"
+     "time": "2026-11-24T23:00:00.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
+    },
+    {
+     "title": "كيف أحدثت المبادرات الرئاسية تحولًا كبيرًا في مفهوم الرعاية الصحية.. حسام عبد الغفار يجيب",
+     "url": "https://www.elbalad.news/7193530",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:00:00.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
+    },
+    {
+     "title": "ماذا قالت طالبة الحوامدية فى اعتداء الدجال المزيف عليها ؟.. التحقيقات تكشف التفاصيل",
+     "url": "https://www.elbalad.news/7192589",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:00:00.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
     },
     {
      "title": "متحدث الخارجية: مصر تسعى لاحتواء الأزمات والحروب لا تحسم بالميدان",
@@ -163,22 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T22:06:00.000Z",
      "seen": "2026-11-24T22:11:27.853Z"
-    },
-    {
-     "title": "أخبار × 24 ساعة.. الصحة العالمية: مصر تمتلك أكثر من 180 مصنعا دوائيا وتغطى 90% من احتياجاتها",
-     "url": "https://www.youm7.com/story/2026/11/25/أخبار-×-24-ساعة-الصحة-العالمية-مصر-تمتلك-أكثر-من/7631385",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:11:27.853Z",
-     "impact": "يطمئن المواطنين والمستثمرين في القطاع الطبي على استقرار سوق الدواء وتوفر الإنتاج المحلي بنسبة كبيرة."
-    },
-    {
-     "title": "انخفاض الحرارة وشبورة كثيفة.. تفاصيل الطقس اليوم الأربعاء 25 نوفمبر 2026",
-     "url": "https://www.youm7.com/story/2026/11/25/انخفاض-الحرارة-وشبورة-كثيفة-تفاصيل-الطقس-اليوم-الأربعاء-25-نوفمبر/7630752",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:11:27.853Z",
-     "impact": "يساعد الأفراد في اتخاذ الاحتياطات اللازمة أثناء السفر والتنقل بسبب الشبورة وانخفاض درجات الحرارة."
     },
     {
      "title": "مدبولي يناقش مع اللجنة الاستشارية السياسية تطورات الأوضاع.. ودعوات للمصارحة",
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار مقابل الجنيه المصري اليوم الأربعاء 25 نوفمبر 2026 في البنوك.. استقرار أسعار الشراء والبيع",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1IS3ZSUHFoWlBwQ1FMQXF6ckFBOW9QanJHdkl5OXJDdkdPTjRDOXVBM1IxM2ZJQUZhRlozbHFiSHJUWlFn?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-24T22:58:27.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
+    },
     {
      "title": "ثبات سعر الدولار مقابل الجنيه فى البنوك اليوم الأربعاء 25 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOUXg2d1lXN3RHNTBiMERLU2ZuN1lrNEd1U2ZYSHN6TUFZLUx3YzJYMEtMcy1vTEFuZ3JZdlNYSWdkdnExT3NMTTdzRTlBbk1nVkI2Q3R0bzllbjFfUkg4amFTd0U3QUc0YUxzQUFDYWUtcE9ZYjBjYVg2OGxqalo2SnpGTEhtYVRvdVh1RkpzMGZmYWtzZzlmV2Z4T1VJSGtIV0NkU0l1c2NaVEh2SjFMZHRpMUNKN1B6eE1ST0NpSUlyLXNTTG5NcVIzblo3ZTRRdmpqOHBiU2UwdXVPWTAwbllFN25OR3dubDBtdU9CZE41YTAxVnUxTFNQRDR6OFM2T1J4RTFpRG1MLVpmSDhvTzNmZlp5ZmN2OHYxSDgzbW42YVFLbGx4UFJFVm05NkotckZaMF95M0x5TWFMNzROVjJBcFZYZnlyVERldnVkRnZuX3dMeFF6UFFjYXJpOE5qODZQZXlrVkptN091V3BJcndiN0lMcmpVTXVtV1dyRFZmUlZEWWhGRHFCREtBMnA2czdoWDVWbTF0N1BfQkZiRHdHdFNaSGVIdlF2TDI0dmt2NTh1N3NoejdzcXRQVGlxd0pVQml4OTFYRVgtWi1KZkJIWlBzdU9zZnfSAdQDQVVfeXFMTnI0WUxWQ0pqY1U5VXJQV2Y0NC1HcG5kNDFiQW1LbUdVajFZZU9nMXA2ckV5dmdDQWRWVkltOU9ZNWt2Z1pGY1BiYVZjNUxDLVhsdzV3bmw4WUVUSFV5QjQyOTBQM1ZMVHRnU3Z0RDZTaEg5VUpjQ1B5YkZfVFctNHkweE5vemdZUFE1Y3ZXVEtsSWRONkVmMUxyTk9uNllxamltN0c4cW16T0xaSVF2Q2RYa1pWX0U2X3AydF9ZUFYtZTdSVnR2c18wV1p0WW1UM0JuZ0ZyY3o1WFNJaHQ4Z1djOHpnbllqUVVKbmh4Qm12X0liVUtvaW5mazBhZURzcEpPcHpOVmRKTlUtWElSd1JjVEM0MXlVTk1ZNVJnNU1Ja0pZUVJaWmFBSVpTWEc3OE9HRURiS1pVWnhfTTRFZ3BzNHdCM0FOSUEwdGNpczk0N3BSMVpadG4zYUJqMDRwdjNtVUdkdDROSEJFNDRUbWUyUGhsR1R6QXhiSkRTcXMzd0tfMlIzRlFxeWU1WWY0LXJuSDZESDBmVVBVdklOVTQ2UjlYYi1NTzd6cDEzZzJYbnlzNGJEdTM4b0JZUEx0TzdVU0hHR3cteHZRN1JkNDdBcWd4?oc=5",
@@ -337,13 +344,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T17:00:00.000Z",
      "seen": "2026-11-24T19:41:11.803Z"
-    },
-    {
-     "title": "تخارجات الأموال الساخنة من مصر تسجل 576 مليون دولار في يوم",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxObVZUY2J4WWhGdFBLbUdCbGIwNzJTUDBaUG9ua1FQVDN4ZGxnSlRIZ1hMMWphcVpiVlVxd2VEbzJDR2FabVRZeXh3T2w0V1J6UlB0VXBIbDhsU2RaS0E0ZFhwaVJRcXpNNXJfdzM4bUNrOEZfZ2ZOUmg5LW1mb3NFaXBuYllEUzdzMlZTUTVHUno3V01PLVFNNlJmZGpQVEcxWWdIX01TNEE0d3RjaGlVaGZXdjBHVTNfU051YmVRVzB0T09yaG1DTTIyZEFTd2NzX3RPR0stUWl5czgyN2paT09Obmx5b0tHcEZ4anI4eW1pOC1iM0FjZF9rdmR2eWt2bk5YbS1rQzVybTZRTkh4MGZjRWJtX1Nlck9MQWFtemx5ZU1mWmJIc1NQN2pmR25fQm9Xd3I2cHlmS0IxVGVTSmtsendCREhoOVl2TGxGVVE5ZG1tb1J1eFNQUVRZSkgyYkhhVTdGb0pXWG5Vd1FxTThHTG1hblp5b1BuR2ZBRDdWYU1Cb2pDNHlpWVkyeUJoNVhaS0pSLW5Ga1NLOVNULTd1dUYxYVZlUXRpUWpRdWZlMWpjQjBWMFQtcTdQSDNIa011S0FENjdpWnZnX291V3RsUkktYTFNZjBPcU9aMEU1QdIB5wNBVV95cUxNMm93Tm1mLVJ2eXotanpRY0dwT2I2MVlQLU1CSGZHVF9JREpab0pQakxfTmRhc2Y4eC1TQWVwaW5abkNfRlpKdF9rV3VnYTIyYlJGNk1yTnFVNG5xTF9fZkhqTHYwNS0tUk9xNUxUUjMtVC1NNV9vYWFTMUlsX2J4b3FNVmpUU3dXRlNaNWZsb0J1Tm9LZVBobWgzR09FNG1LX1VORmtiV05jQzVid0ZFdWQwRVNNa2JXdjYyRVItRnpiMlRaalRicHlYSHVRWGU5NmF1eTU4VUFKMWJyaDhtYlNvLU5IVWJLMDZ4anI2T09XRDM1RU0zWUNjVWN4RzVZMnI1UFVMUmtINFlrTjNqeUlGTk9WZnhTU2E2UDEzdkJyR0h2VjEzeU1fc2UtZ3dyakNIQnBpQmNocy1UQm4yelI2VTI0aWdnNGo3Rm5oVUhOUHVITUZJaEVkaFVQNTk3OG02NWZ3S3VOYW13R1RJVDMyVmZGakZGQVUzNkJ5V1JFeGpLRHJ1Q1FOalJDUzVWbjRrUzVzNU9fMzl5NFFyV3hQemNXUi1xTXBmcXZ4eUxyc3FRc09jNmdHblRENjB4ejZadUFnOHMzUm9oanFEZXFHNUJjb2ZHWklUMnlTNFpRaER4aTFv?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T16:54:00.000Z",
-     "seen": "2026-11-24T19:01:11.490Z"
     }
    ]
   },
@@ -351,6 +351,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بعد عودته إلى منصبه رئيسا لإنفيديا جنسن هوانغ يرقص احتفالا مع موظفيه؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A3%D9%85-%D9%81%D8%A8%D8%B1%D9%83%D8%A9/20261124-%D8%A8%D8%B9%D8%AF-%D8%B9%D9%88%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A8%D9%87-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A7-%D9%84%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D9%8A%D8%B1%D9%82%D8%B5-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D8%A7-%D9%85%D8%B9-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%87",
+     "source": "فرانس 24",
+     "time": "2026-11-24T22:37:18.000Z",
+     "seen": "2026-11-24T23:01:27.501Z"
+    },
     {
      "title": "المغرب يطعن بعد حسم اللقب للسنغال .. و\"كاس\" تؤكد شرعية تتويج أسود التيرانغا بأمم أفريقيا 2025",
      "url": "https://www.dw.com/ar/المغرب-يطعن-بعد-حسم-اللقب-للسنغال-و-كاس-تؤكد-شرعية-تتويج-أسود-التيرانغا-بأمم-أفريقيا-2025/a-80041995?maca=ara-rss-ar-all-1125-rdf",
@@ -406,13 +413,6 @@
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261124-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%82-%D8%A5%D8%AF%D9%88%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B3-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%84%D9%88%D9%87%D8%A7%D9%81%D8%B1",
      "source": "فرانس 24",
      "time": "2026-11-24T20:28:02.000Z",
-     "seen": "2026-11-24T20:31:12.213Z"
-    },
-    {
-     "title": "إنفيديا: ما دلالات صفقة عودة هوانغ؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B4/20261124-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D9%85%D8%A7-%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D8%B5%D9%81%D9%82%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9-%D9%87%D9%88%D8%A7%D9%86%D8%BA",
-     "source": "فرانس 24",
-     "time": "2026-11-24T20:26:21.000Z",
      "seen": "2026-11-24T20:31:12.213Z"
     },
     {
@@ -565,12 +565,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
