@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:39:20.240Z",
+ "updated": "2026-11-24T06:49:20.609Z",
  "minute": [
   "أتاحت منصة مصر الرقمية حجز دور المناسبات إلكترونياً، بينما أعلنت وزارة التنمية المحلية عن تسهيلات لتراخيص المحال التجارية عبر حملات طرق الأبواب.",
   "واصلت البنوك المصرية تحديث أسعار صرف الدولار أمام الجنيه المصري، حيث سجل 54.27 جنيه للشراء في بنك الإسكندرية.",
@@ -11,44 +11,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T06:39:20.240Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T06:49:20.609Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.3,
-   "change": 1.65,
-   "asOf": "2026-11-24T06:39:52.000Z",
+   "value": 54.25,
+   "change": 1.56,
+   "asOf": "2026-11-24T06:49:24.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5527,
-   "change": 0.72,
-   "asOf": "2026-11-24T06:30:20.000Z",
+   "value": 5520,
+   "change": 0.61,
+   "asOf": "2026-11-24T06:39:36.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6310,
-   "change": 0.72,
-   "asOf": "2026-11-24T06:30:20.000Z",
+   "value": 6303,
+   "change": 0.61,
+   "asOf": "2026-11-24T06:39:36.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3618,
-   "change": -0.91,
-   "asOf": "2026-11-24T06:30:20.000Z",
+   "value": 3617,
+   "change": -0.94,
+   "asOf": "2026-11-24T06:39:36.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0909,
    "change": -0.57,
-   "asOf": "2026-11-24T06:39:43.000Z",
+   "asOf": "2026-11-24T06:48:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.39,
-   "change": -3.33,
-   "asOf": "2026-11-24T06:28:42.000Z",
+   "value": 86.18,
+   "change": -3.57,
+   "asOf": "2026-11-24T06:39:15.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60359,
-   "change": -1.31,
-   "asOf": "2026-11-24T06:40:20.000Z",
+   "value": 60403,
+   "change": -1.24,
+   "asOf": "2026-11-24T06:49:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لماذا سميت سورة الناس بهذا الاسم؟.. بسبب 5 تكرارات و10 أسرار",
-     "url": "https://www.elbalad.news/7192341",
+     "title": "أسرار ثروة ترامب.. 12 مليون دولار تربط الرئيس الأمريكي بـ\"إنفيديا\"",
+     "url": "https://www.elbalad.news/7192356",
      "source": "صدى البلد",
-     "time": "2026-11-24T06:30:00.000Z",
-     "seen": "2026-11-24T06:39:20.240Z"
+     "time": "2026-11-24T06:48:25.000Z",
+     "seen": "2026-11-24T06:49:20.609Z"
     },
     {
-     "title": "البرودة تعود ليلا ونشاط للرياح على أغلب الأنحاء.. تعرف على حالة الطقس والملاحة البحرية",
-     "url": "https://www.elbalad.news/7192098",
+     "title": "تدشين أول كنيسة قبطية أرثوذكسية في أوغندا باسم العذراء ومار مرقس الرسول",
+     "url": "https://www.elbalad.news/7192244",
      "source": "صدى البلد",
-     "time": "2026-11-24T06:30:00.000Z",
-     "seen": "2026-11-24T06:39:20.240Z"
+     "time": "2026-11-24T06:45:00.000Z",
+     "seen": "2026-11-24T06:49:20.609Z"
     },
     {
-     "title": "عشرات المصابين وأضرار واسعة بالمباني.. سيارة مفخخة تستهدف مقر حكومة ميتا في كولومبيا",
-     "url": "https://www.elbalad.news/7192346",
+     "title": "دودو الجباس: بيراميدز لعب أمام الأهلي بشخصيته المعتادة.. ومصطفى فتحي كان مصابا",
+     "url": "https://www.elbalad.news/7192347",
      "source": "صدى البلد",
-     "time": "2026-11-24T06:29:53.000Z",
-     "seen": "2026-11-24T06:39:20.240Z"
+     "time": "2026-11-24T06:44:24.000Z",
+     "seen": "2026-11-24T06:49:20.609Z"
     },
     {
      "title": "الطقس اليوم.. انخفاض بالحرارة وشبورة وفرص أمطار والصغرى بالقاهرة 15 درجة",
@@ -203,6 +203,13 @@
      "seen": "2026-11-24T04:39:01.958Z"
     },
     {
+     "title": "بعد الانخفاض الكبير ببورصة الدواجن الآن.. سعر كيلو الفراخ البيضاء اليوم الثلاثاء 24-11-2026 بالأسواق",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiVDJJejZuWnRmdnNGZ1VjaWM5Q1A3RmZFV0RjcjE2RU9LUFpha3BPdHNSellid2hLeXRzNjNpUklZSjFHYTE4d1hoMFBwcmVOV2FIQXJUTzNkSDNndEhN?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T22:45:00.000Z",
+     "seen": "2026-11-24T06:49:20.609Z"
+    },
+    {
      "title": "مدبولي في تنزانيا لافتتاح سد شيّدته مصر وسط توترات «أمن المياه»",
      "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOSHpyYlltVElYa2pvR2RZY1ZvaHRiVkJKQ2wwVXJlcmFoOGxCRzdSVVJxWkNvNHF4d2d5Zjl6MkhxWDFFbF9FWEx3RkpfVFdsMnpfTjE1ZTcza3UxbEFHS0pWVE0yb0k3RENQR2RFOERxbWtrWmd4RUhkYTlVbktQYVVVaHh2TWRnVEhjaG01Q2pRSnh3M1c4VWMtV0VWdjJFdzlCcjB2SUYwYWFxbTNqS3hkN1VuVWxnaG4xM0k4aUdLaGZGWnpvTXR1RXlPR2ZYaVMzNFRUQ1pPYzA2WnVOa2xWUXRxVTE5bS1PUExYSWc4VENSVGFTek94SHQtUVdGY29vTVFUN3loU2E1M3NtTWgzdFF5MEYxOC1QdzNuOEFlSG5DR1R0MUJSSllJWUxHQUkzb2lVcEtycWxyamNLM2paQmVOdl9TTlI5dkRHaXFzRlNMZXhZd3BCNWVWOWxwLXpkM3NwcGNOZDVOc09GQWdrUzFpMGtlUTNZUF9VVmdIT052U3pTTFBHSlVtb1ktNmhGeWtzUVFQc1dNMk1rN2Y1a0QyWnRoc3BKeHRMdmtoT1FHaGZmMWdCY1JOM0lfYnRMT2xxOWVKanUzMUlqSm5PVXMtVURicmZseXBwY210V3h1SERfckZqT1c3eGFJQ1FTUkRWS1JpV0hCZ2M0NUZrZ0t3NTNQMlRlcFRfdUZYOUJtaXRUUTNNT0RSdDdHdHdFVEpXVXE2S21DakJTd2ZyeXdENDk3eUJCZVQtRjdVQ3pnbzZTTXltZERvdUZmRXVtd2ZwcU5jOE4wb0hfUXFNcS1pRzdRa2tQdDg2dENtZFpqX3YyR2JOMWlJYTM0Vzh0aW5PY2ZhcGpUVzdMZjVtMGxJMGozak9SQUR1cEVuYms?oc=5",
      "source": "الشرق الأوسط",
@@ -215,13 +222,6 @@
      "source": "Masrawy",
      "time": "2026-11-23T20:28:04.000Z",
      "seen": "2026-11-23T20:38:41.498Z"
-    },
-    {
-     "title": "هل ألغت الحكومة ضريبة الموبايلات؟.. موقف الرسوم بعد اجتماع مدبولي وتحرك البرلمان (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaaHFzcE01MVpERE1RTTlfM2hKQloybTdZb09uTnBNUENma3VnaWhjZjZ2Q0hnTHNwRl9PRzFrTEV4WktGcDNOZ0hwaFo1LXU3QktqS0w2YmZ0Vi1aYXhB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T20:13:00.000Z",
-     "seen": "2026-11-23T20:18:41.439Z"
     },
     {
      "title": "حوار مفتوح لمدبولي والزيدي مع رؤساء ومسئولي عدد من الشركات المصرية",
@@ -251,6 +251,14 @@
      "seen": "2026-11-24T06:29:21.197Z"
     },
     {
+     "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-24T05:40:00.000Z",
+     "seen": "2026-11-23T23:19:02.246Z",
+     "impact": "تساعد متابعة سعر صرف الدولار مقابل الجنيه الأفراد والشركات في مصر على تقييم تكاليف المعاملات والتجارة."
+    },
+    {
      "title": "سعر الدولار اليوم الثلاثاء 24 نوفمبر 2026.. آخر تحديث في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qNnNSc2hBbHc1NmgyOHZNMGZHenQzVkFMd3Q1bnFGa1V4bmdXZEZTaEtMa001Vi0zOC02VUl3bTVBMFl3eHFEY29reXA2NHdTYWZOX0hkM2hOcjZlRUpJ?oc=5",
      "source": "المصري اليوم",
@@ -264,14 +272,6 @@
      "source": "BBC عربي",
      "time": "2026-11-24T05:15:07.000Z",
      "seen": "2026-11-24T05:19:21.040Z"
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-24T05:14:54.000Z",
-     "seen": "2026-11-23T23:19:02.246Z",
-     "impact": "تساعد متابعة سعر صرف الدولار مقابل الجنيه الأفراد والشركات في مصر على تقييم تكاليف المعاملات والتجارة."
     },
     {
      "title": "سعر الدولار اليوم في مصر الثلاثاء 24-11-2026 بالبنوك المصرية",
@@ -516,6 +516,13 @@
      "seen": "2026-11-24T05:19:21.040Z"
     },
     {
+     "title": "هل ألغت الحكومة ضريبة الموبايلات؟.. موقف الرسوم بعد اجتماع مدبولي وتحرك البرلمان (تفاصيل)",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaaHFzcE01MVpERE1RTTlfM2hKQloybTdZb09uTnBNUENma3VnaWhjZjZ2Q0hnTHNwRl9PRzFrTEV4WktGcDNOZ0hwaFo1LXU3QktqS0w2YmZ0Vi1aYXhB?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T20:13:00.000Z",
+     "seen": "2026-11-23T20:18:41.439Z"
+    },
+    {
      "title": "نتنياهو يتّهم آيزنكوت بـ\"التقليل من خطورة\" التهديد الإيراني، ويدعو إلى تشكيل حكومة وحدة وطنية",
      "url": "https://www.bbc.com/arabic/articles/cm78274q43deo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -550,14 +557,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-23T19:29:00.000Z",
      "seen": "2026-11-23T19:38:41.567Z"
-    },
-    {
-     "title": "الاستخبارات الأمريكية تحذر من موجة أعطال تكنولوجية جديدة",
-     "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNSUhpN1pTR29tMzBMZ2lZd1otTE5yV3VXeXdnak1UeUNuTHVJT0dmbHcyd29Oc041Vl8wWnBVb0ppNno1eVNDc1pPMzlEaVFfdlg1blR0RFFoUThpa1FWNDdWQ1ZSZk1fZUFpSWpJTWVXUWhmYnFTMVNGdHY2NHBWRXU3VFRDSjMxXzJEalFUcGh4eDZDSDRsVVI5cHBiTkhFblhkZjFtMHRic1dLWjEtNVVVR1d6cmxWblBjVWpKaWxJNW8tZ2VOOFNwTXhPQV9kNnlXSlRnM1loUl9GM2Y3NGR5bm44UFk5ZDk3cWFEajREQ1RmZUJnMGxOUW5tSmZja3VsVHBGbmJWSllZRnhVU0YwMnBIODdVZ2FXTEFCMF9Bb3NUMTdBT2tEeG5vTEN6SnhMMWRQdVliQUVaM1N2WmhJVmpyR2JZcEpuQm1fNWIzSmxncDljNEFLT3daTnREb0JjOXhVQWFFMkhGZ09rVG9EY2syOFlhUEpEQVZvUWJ4OVZVMEJQdF9mRExUT3hwbHhqUmhieVhsNWRzRkZjam1SR0o0VmQ1UHc0VWQ4VXhNRy0tUFFIenEzcC1WZjBGd1diUVBpMmdKc1dTNnhMRExnb0FPSDNfNXJ4RTFMaHhRTEtaYjE1eVhQRmfSAecDQVVfeXFMT3VKZEhqY19rSnFQOExpSXVyOGl2NHZ5ZTdGbzZBQ1pBMWpsTDhGVW40aVItbHNsQTVNLW13X256VTZCelpZN2pXZTM1S25ZRjJhek5td0RwSGptYlN5TDR2TnNPWW9qSnVyMlJXaXQ1c24yaldQRU5PUXR4R1kwV3BVX3M5U3RJYWdKU2hoN1R4Tzd0MUZ1UTNtOWplVHBRZWRoa1RzTWZ1WWs5amNINmQ0ekdXdzUzRkVxaURFMEc1VHg2Q04zOUFvOTJPa2dFM0dYd0ZMdmZIZkkwUzJuZHN0WnJLWUw3NUN4SkNzRmt3MXd3OHZQTDdzOVhVUlRoZGxJQ0hOS3UxSGRHMFZMdXJCQ0dzclRrd0ROYnFlaDFXOXhOQWl6eFh4UExLNkZCa3c2eXU2MWtkcUhkZzdQLWRtSGNjQnl5X2g3YlE4ZVpxWnY5bEFwVXgzOHNpZm1EbmdJMkswT1RyQWNHMlYyS0h0aGo4MUhzVG5PeFVkU2ZxSkJ6dm5MR2VtYlZvejlKVjR2eUxzTExUZzY4b2VpMXZ5UllIdVk5eTJOSHVuajRlWUYwenZjTWV6eHFsdXFyQmZmZ0EyRDhaMUd0M283azNSNVZ0ajU3QUpFbHNuQi1HYVQ2SlQ4bw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T19:00:00.000Z",
-     "seen": "2026-11-23T23:39:02.086Z",
-     "impact": "ينبه الأفراد وقطاع الأعمال في مصر لأهمية الاستعداد لأي اضطرابات أو أعطال قد تطال الأنظمة التكنولوجية."
     }
    ]
   }
