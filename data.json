@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:40:37.437Z",
+ "updated": "2026-11-24T13:50:37.727Z",
  "minute": [
   "استقبل رئيس الوزراء المصري رئيس مجلس الوزراء الانتقالي السوداني، فيما أكد وزير التخطيط أن السوق المصرية منصة للإنتاج والتصدير والتوسع الإقليمي.",
   "تواصل وزارة التموين مراجعة أرصدة السكر لتأمين احتياجات عام 2027، بالتزامن مع متابعة مستجدات سعر صرف الدولار وتأثير التوترات الإقليمية على أسعار السلع.",
@@ -9,43 +9,45 @@
   "at": "2026-11-24T13:30:37.604Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T13:50:37.727Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.17,
-   "change": 1.41,
-   "asOf": "2026-11-24T13:36:43.000Z",
+   "value": 54.16,
+   "change": 1.39,
+   "asOf": "2026-11-24T13:42:42.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5526,
-   "change": 0.71,
-   "asOf": "2026-11-24T13:30:37.000Z",
+   "value": 5517,
+   "change": 0.54,
+   "asOf": "2026-11-24T13:40:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6309,
-   "change": 0.71,
-   "asOf": "2026-11-24T13:30:37.000Z",
+   "value": 6299,
+   "change": 0.54,
+   "asOf": "2026-11-24T13:40:52.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3626,
-   "change": -0.69,
-   "asOf": "2026-11-24T13:30:37.000Z",
+   "value": 3621,
+   "change": -0.84,
+   "asOf": "2026-11-24T13:40:52.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0961,
-   "change": -0.1,
-   "asOf": "2026-11-24T13:39:47.000Z",
+   "value": 1.0965,
+   "change": -0.06,
+   "asOf": "2026-11-24T13:50:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.36,
-   "change": -2.25,
-   "asOf": "2026-11-24T13:30:36.000Z",
+   "value": 87.5,
+   "change": -2.09,
+   "asOf": "2026-11-24T13:40:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60069,
+   "value": 60065,
    "change": -1.87,
-   "asOf": "2026-11-24T13:40:34.000Z",
+   "asOf": "2026-11-24T13:50:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "القضاء الإسباني يستقبل غدا مواجهة جديدة بين برشلونة ورئيس ريال مدريد",
-     "url": "https://www.elbalad.news/7192936",
+     "title": "برلماني: الذكاء الاصطناعي يفتح آفاقًا جديدة لتعزيز كفاءة الاقتصاد وجذب الاستثمارات وتحقيق التنمية",
+     "url": "https://www.elbalad.news/7192942",
      "source": "صدى البلد",
-     "time": "2026-11-24T13:40:26.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
+     "time": "2026-11-24T13:50:10.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     },
     {
-     "title": "عبدالناصر زيدان: 25 مليون جنيه فاتورة إقالة عموتة من تدريب الأهلي",
-     "url": "https://www.elbalad.news/7192920",
+     "title": "بعد إعلان ميزانية 2027.. ولي العهد السعودي: رفعة الوطن والمواطن في صدارة أولوياتنا",
+     "url": "https://www.elbalad.news/7192946",
      "source": "صدى البلد",
-     "time": "2026-11-24T13:40:20.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
+     "time": "2026-11-24T13:50:08.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     },
     {
-     "title": "مصر تعرب عن خالص تعازيها لدولة قطر في وفاة أحد منتسبي قواتها البحرية",
-     "url": "https://www.youm7.com/story/2026/11/24/مصر-تعرب-عن-خالص-تعازيها-لدولة-قطر-في-وفاة-أحد/7631073",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T13:40:00.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
-    },
-    {
-     "title": "الأرصاد: استقرار الطقس حتى بداية الأسبوع المقبل.. ومنخفض جوي يغير الأحوال مع بداية ديسمبر",
-     "url": "https://www.elbalad.news/7192934",
+     "title": "ذكريات موقعة الجلابية تعود بعد 15 عاما.. ماذا حدث في آخر مواجهة بين الزمالك والإفريقي التونسي؟",
+     "url": "https://www.elbalad.news/7192952",
      "source": "صدى البلد",
-     "time": "2026-11-24T13:38:05.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
+     "time": "2026-11-24T13:50:07.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     },
     {
-     "title": "شبورة كثيفة وفرص أمطار.. الأرصاد تكشف الظواهر الجوية المتوقعة حتى الأحد المقبل",
-     "url": "https://www.youm7.com/story/2026/11/24/شبورة-كثيفة-وفرص-أمطار-الأرصاد-تكشف-الظواهر-الجوية-المتوقعة-حتى/7630403",
+     "title": "«الحرية لأحمد ناصر».. متظاهرو السفارة الهولندية بالقاهرة يوجهون رسائل للعالم",
+     "url": "https://www.youm7.com/story/2026/11/24/«الحرية-لأحمد-ناصر»-متظاهرو-السفارة-الهولندية-بالقاهرة-يوجهون-رسائل-للعالم/7631069",
      "source": "اليوم السابع",
-     "time": "2026-11-24T13:34:00.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
+     "time": "2026-11-24T13:45:00.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     },
     {
-     "title": "بيان مشترك فى ختام زيارة رئيس مجلس الوزراء السودانى لمصر",
-     "url": "https://www.youm7.com/story/2026/11/24/بيان-مشترك-فى-ختام-زيارة-رئيس-مجلس-الوزراء-السودانى-لمصر/7631061",
+     "title": "وزيرة فلسطين تروى مأساة غزة فى المنتدى الدولى للحماية الاجتماعية",
+     "url": "https://www.youm7.com/story/2026/11/24/وزيرة-فلسطين-تروى-مأساة-غزة-فى-المنتدى-الدولى-للحماية-الاجتماعية/7630943",
      "source": "اليوم السابع",
-     "time": "2026-11-24T13:32:00.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
+     "time": "2026-11-24T13:44:00.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
+    },
+    {
+     "title": "الصحة العالمية: مصر تمتلك أكثر من 180 مصنعا دوائيا وتغطى 90% من احتياجاتها",
+     "url": "https://www.youm7.com/story/2026/11/24/الصحة-العالمية-مصر-تمتلك-أكثر-من-180-مصنعا-دوائيا-وتغطى/7630958",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T13:43:00.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     },
     {
      "title": "مدبولي يستقبل رئيس مجلس الوزراء الانتقالي بجمهورية السودان",
@@ -240,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "استقرار سعر صرف الدولار أمام الجنيه في البنوك اليوم الثلاثاء \"آخر تحديث\"",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xSFZ3bkpHdm95eGpRTTU5TF9BYW1HdHBsTFBxQ1RGX1FURVlNUUU1MkZvdURNU3o4MUFjdERFcTRZaEVHS3FJ?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-24T13:46:00.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
+    },
     {
      "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وأنباء عن تضرر أعلى ناطحة سحاب في الرياض",
      "url": "https://www.bbc.com/arabic/articles/c6205xd02713o?at_medium=RSS&at_campaign=rss",
@@ -340,14 +349,6 @@
      "time": "2026-11-24T10:55:56.000Z",
      "seen": "2026-11-24T11:00:37.570Z",
      "impact": "يهم المستثمرين في مصر لفهم التحولات الاقتصادية والوضع الجديد في دول الخليج وتأثيره الإقليمي."
-    },
-    {
-     "title": "ارتفاع سعر الدولار أمام الجنيه خلال تعاملات اليوم (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBOd0tNMml6dGc2Ml91cnQ1VVF3UV9va2R0dHI5TU8tWjRDT01zcHdnTUQ3OVNxOFVIMW01SkxJa2hpU2RkY2Zz?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-24T10:55:00.000Z",
-     "seen": "2026-11-24T11:10:38.002Z",
-     "impact": "يهم المستهلك والمستثمر في مصر لأن تحرك سعر الدولار أمام الجنيه يؤثر مباشرة على تكاليف الاستيراد وأسعار السلع."
     }
    ]
   },
@@ -355,6 +356,34 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "هجوم بنغازي.. خيوط شبكة النفوذ الغامضة في مصراتة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906825-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%AE%D9%8A%D9%88%D8%B7-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6%D8%A9-%D9%85%D8%B5%D8%B1%D8%A7%D8%AA%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T13:48:56.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
+    },
+    {
+     "title": "ألمانيا ـ دعوة إلى استراتيجية لحماية المراهقين من الابتزاز عبر الإنترنت",
+     "url": "https://www.dw.com/ar/ألمانيا-ـ-دعوة-إلى-استراتيجية-لحماية-المراهقين-من-الابتزاز-عبر-الإنترنت/a-79999313?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-24T13:45:00.000Z",
+     "seen": "2026-11-24T13:30:37.604Z"
+    },
+    {
+     "title": "\"انقراض صامت\".. فرنسا تستعين بالسائقين لرصد التراجع الحاد في أعداد الحشرات",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261124-%D8%A7%D9%86%D9%82%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D9%85%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%82%D9%8A%D9%86-%D9%84%D8%B1%D8%B5%D8%AF-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AD%D8%A7%D8%AF-%D9%81%D9%8A-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B4%D8%B1%D8%A7%D8%AA",
+     "source": "فرانس 24",
+     "time": "2026-11-24T13:41:17.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
+    },
+    {
+     "title": "بعد تحقيق ألماني.. لماذا يخشى الغرب إرسال روسيا أقمارا صناعية نووية إلى الفضاء؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AA%D9%83%D9%86%D9%88/20261124-%D8%A8%D8%B9%D8%AF-%D9%85%D8%A7-%D9%83%D8%B4%D9%81%D9%87-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AE%D8%B4%D9%89-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D8%A5%D8%B1%D8%B3%D8%A7%D9%84-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A3%D9%82%D9%85%D8%A7%D8%B1%D8%A7%D9%8B-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
+     "source": "فرانس 24",
+     "time": "2026-11-24T13:40:30.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
+    },
     {
      "title": "مع إقرار ميزانية 2027.. ماذا قال محمد بن سلمان عن اقتصاد السعودية وتطورات المنطقة؟",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/2027-budget-mohammed-bin-salman-saudi-arabia-economy",
@@ -370,13 +399,6 @@
      "seen": "2026-11-24T13:40:37.437Z"
     },
     {
-     "title": "ما أسباب تدخل ترامب لإعادة جنسن هوانغ على رأس إنفيديا؟",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D9%85%D8%A7-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D8%AF%D8%AE%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D8%B9%D9%84%D9%89-%D8%B1%D8%A3%D8%B3-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-24T13:38:46.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
-    },
-    {
      "title": "أحداث بنغازي.. طرابلس تنفي وجود تفاهمات مع أوكرانيا",
      "url": "https://www.skynewsarabia.com/middle-east/1906821-%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%AA%D9%86%D9%81%D9%8A-%D9%88%D8%AC%D9%88%D8%AF-%D8%AA%D9%81%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
      "source": "سكاي نيوز عربية",
@@ -384,18 +406,11 @@
      "seen": "2026-11-24T13:40:37.437Z"
     },
     {
-     "title": "التحالف بقيادة السعودية: برج في الحي المالي بالرياض تعرض \"لهجوم إرهابي\"",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%87%D8%B1%D9%85%D8%B2-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
-     "source": "فرانس 24",
-     "time": "2026-11-24T13:21:40.000Z",
-     "seen": "2026-11-24T13:40:37.437Z"
-    },
-    {
-     "title": "ألمانيا ـ دعوة إلى استراتيجية لحماية المراهقين من الابتزاز عبر الإنترنت",
-     "url": "https://www.dw.com/ar/ألمانيا-ـ-دعوة-إلى-استراتيجية-لحماية-المراهقين-من-الابتزاز-عبر-الإنترنت/a-79999313?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-24T13:19:00.000Z",
-     "seen": "2026-11-24T13:30:37.604Z"
+     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
+     "source": "العربية",
+     "time": "2026-11-24T13:08:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
     },
     {
      "title": "كردستان العراق يرفض إجراءات بغداد بشأن النفط والمعابر",
@@ -419,25 +434,11 @@
      "seen": "2026-11-24T12:20:38.050Z"
     },
     {
-     "title": "قصف إسرائيلي وغارات تستهدف بلدات وقرى في جنوب لبنان",
-     "url": "https://www.skynewsarabia.com/middle-east/1906806-%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D9%88%D9%82%D8%B1%D9%89-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T12:08:23.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
      "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeG40QUhUOHVtZGV3NGpOdlhIdTBVQVNCd0ZLSUJaMWpPQWxRdnlKRjhsbm00SFJuWUJVV1J5OUthSjFlS1FoU2p0bUFjM2EyZEZ5M29HNG5lekZyQUHSAWNBVV95cUxPeXZMZmxFem9pNEFNNnhCR2Y5dWl2b1JJcmh6UC1EaGtKVXhLaWZWRUV4S1Y0S0o5TGplUVQ2M0EyT3hBMXVlQ21CM3NHY0FEbjlFQ1NuR05TNkw5UzEtbW50SXc?oc=5",
      "source": "BBC",
      "time": "2026-11-24T11:55:17.000Z",
      "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
-     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
-     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T11:42:00.000Z",
-     "seen": "2026-11-24T12:30:37.960Z"
     },
     {
      "title": "أعاد رسالة دون فتحها ورفض لقاءه.. كيم جونج أون يتجاهل ترامب",
@@ -447,11 +448,11 @@
      "seen": "2026-11-24T12:30:37.960Z"
     },
     {
-     "title": "مصرع 11 شخصاً جراء تصادم بين حافلة وشاحنة في إمارة رأس الخيمة",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nS2ptZzZyR0ZiNHVOYlZVSm9pcGpPWUVwVDVwMDJwemtqOWZCVmRFNnM5OWtFNy1TMjYxdHNac0FGT2FGeDFxWVZQN2RvR1VYYUZ0YWdRYWJWN1YwR3fSAWNBVV95cUxQZlFxbHZUUXBScHNDOVhDeEJidXBPQWJNYi1SeWtPWlptU2hyOE5GRWdUTUhTbTJFcEpLT1NLMFBPYTFINnVIdnlTZDRRdUxpNEg0WHNNbFhoU0o4TmQ3dERTV28?oc=5",
-     "source": "BBC",
-     "time": "2026-11-24T10:32:48.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
+     "title": "الويب الذي لا يراه البشر.. لماذا تعيد شركات التقنية بناء الإنترنت للوكلاء؟",
+     "url": "https://www.aljazeera.net/tech/2026/11/24/%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a7%d9%84%d8%b0%d9%8a-%d9%84%d8%a7-%d9%8a%d8%b1%d8%a7%d9%87-%d8%a7%d9%84%d8%a8%d8%b4%d8%b1-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%b9%d9%8a%d8%af?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T10:41:58.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     }
    ]
   },
@@ -487,6 +488,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T11:13:00.000Z",
      "seen": "2026-11-24T13:40:37.437Z"
+    },
+    {
+     "title": "الجيش الإسرائيلي يغتال مدير جهاز الأمن الداخلي في غزة",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOVE5jbkFEUFZpdUpQc0RKdzQzc2JCMkR0NWQyQkpKXzk0bWpkbWp5dUFSZDRFYlJnZXFOZzlxNjlERlZ3VnpvNFhDVnFqZFpEd0UwWEVpOUVPSVpocDlfd3E5eFVWVjlyal9DWEE0RTN1dV9ia1A3VXpKT0d3Y2ktdTg3a3VwUlF0VWJ1ZnBKYWdMN1JrRlEzTkt4Y281R2MybXhEQk1kcmx4aUxLRUd3RUdiV2RYRnBmZFJ6ZUh0emEwU2xqTFJ5N3ZDaTZKY1hGeXZmbmo1SzVjd1ZsdjMxbi02MHFYVnpmTVdPekMyOW5OdzBNbG1EOHkxbkU5V2xzVDgzT09mZWZ0LWdfZFZuazhoWFRsS1ZxbjhmNWhMWlFEZTB1V2NSdTdSWGVzYy1GZFBUZmNadGFrTldkWVByUXdpSUN2MDhsalA4ZGZVX2tBYTZlV2F3dW0xUkdSMjJRbmtIWGkyTmZZQmwzeHRMYmMxa19oQkxnajNBUXh6cnU5VHVZd3Y0Q3R0STQ1TUNJQ2JaZmpLQUhmNzUyUGRaZjV1cWNsUmNoOWZnYkZLbzBBUE9CZm1BZFNucG1fNVlxYllUMTNnbG5pSW9GaVh6ejF5RkfSAdoDQVVfeXFMUFFxYVJOWVBxQlhpZGNNZ0hQX1cyU1NCRXlhQ05jd2RYdExmYmk1bXBLcllhTklLbWs0TnI0SWVrY1F3ajZRcUVud2pRNC1vemVaWkNjYmd2LVZGaGVqOU9YcTB3NjUyUzk5MXhHYmlCY2VIVEhqOFdfaU9scUp6Y1RGNVpHVFgtVTExeVM0QTlVekRRS0d3YzhXUUZsS3RRRUR0YmJjdXQ3bUlXN1REZW1rdjV4YjhQUEw0YTV0dnRuVFJYUzEtV2ZhQ25McURVVjQzVFV0cnZ4MV9iQnI5ckRxUDliX1NrRkxkYW5pbUdsRl9SVVh4ZDNmb0tzSWczc0ZJYlE3djNZVXJpelJQX0Z2Y1hGNi10SE9PSHNqRTJyeHZkNld4UWFtbkpUaGZoT1hwWHhJUVlNTUp2Mk5Ec25YRlRwWjFFT1dlS0NkcmVOTmlqa3hXc3NBQmxkVThmd1JZWXAwN3Zkb0VRcVAxak1qdTNUallrOXdYU1JtSGpsU0pEZ09zckdBUDVkQ2FZMWJxR1VIeFNNdGMwWVFENzBaTGc1al9sazhHWmJKbFFlODhSZGRuMjg1TXltVTQwN21RUnlCby1TNWVsOHdhNlI2RURVT0EyM1J3?oc=5",
+     "source": "العربية",
+     "time": "2026-11-24T10:59:00.000Z",
+     "seen": "2026-11-24T13:50:37.727Z"
     },
     {
      "title": "فوجيتسو تشهد طلبًا يفوق التوقعات على معالجات Monaka وتبحث تأمين إنتاجها مع TSMC",
@@ -555,13 +563,6 @@
      "time": "2026-11-24T06:26:03.000Z",
      "seen": "2026-11-24T08:19:20.442Z",
      "impact": "تهم أولياء الأمور في مصر لمتابعة المحتوى الإلكتروني الذي يتعرض له الأبناء والتوعية بمخاطره."
-    },
-    {
-     "title": "كيف نتأكد من سلامة اللقاحات؟ إليكم أسرار اختبارات الأمان",
-     "url": "https://www.bbc.com/arabic/articles/cqe851z3014go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T06:20:13.000Z",
-     "seen": "2026-11-24T06:29:21.197Z"
     }
    ]
   }
