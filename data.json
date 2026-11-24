@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-24T20:51:11.898Z",
+ "updated": "2026-11-24T21:01:11.813Z",
  "minute": [
-  "تضمنت الأنباء الاقتصادية في مصر تخصيص 835 قطعة أرض سكنية جديدة، وفتح الاكتتاب في إصدار استثماري جديد بقيمة 200 مليون جنيه، مع متابعة أسعار الدولار في البنوك.",
-  "وعلى الصعيد الصحي والمحلي، أفاد الدكتور جمال شعبان بأن أمراض القلب تسبب 52.2% من الوفيات، بينما كشفت مصر مصير 27 مواطناً بعد غرق مركب هجرة قبالة بنغازي.",
-  "سياسياً ودبلوماسياً، شدد وزير الخارجية على عمق العلاقات والتنسيق بين مصر والأردن لمواجهة التحديات الإقليمية.",
-  "وتكنولوجياً، تعمل شركات عالمية على تطوير تقنيات لمكافحة الاحتيال عبر المكالمات وتوليد المحتوى لحظياً باستخدام الذكاء الاصطناعي."
+  "تتناول الأخبار المحلية في مصر مواعيد زيادة المعاشات والحد الأدنى الجديد، بالإضافة إلى مواعيد رحلات السوبر جيت وسعر صرف الدولار مقابل الجنيه.",
+  "تشهد العلاقات المصرية العُمانية حراكاً استثمارياً متبادلاً، بالتوازي مع فتح ليبيا الباب أمام الشركات العالمية لتطوير حقولها غير المستغلة.",
+  "على الصعيد التقني، يختبر تطبيق واتساب ميزات أمان جديدة للحفاظ على خصوصية الرسائل ومنع تصوير الشاشة."
  ],
  "ai": {
-  "at": "2026-11-24T19:11:11.599Z",
+  "at": "2026-11-24T21:01:11.813Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T20:51:11.898Z"
+  "key": 1,
+  "impacts": 8
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5408,
-   "change": -1.43,
-   "asOf": "2026-11-24T20:41:40.000Z",
+   "value": 5415,
+   "change": -1.3,
+   "asOf": "2026-11-24T20:51:28.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6175,
-   "change": -1.43,
-   "asOf": "2026-11-24T20:41:40.000Z",
+   "value": 6183,
+   "change": -1.3,
+   "asOf": "2026-11-24T20:51:28.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3549,
-   "change": -2.8,
-   "asOf": "2026-11-24T20:41:40.000Z",
+   "value": 3554,
+   "change": -2.68,
+   "asOf": "2026-11-24T20:51:28.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0967,
-   "change": -0.04,
-   "asOf": "2026-11-24T20:50:46.000Z",
+   "value": 1.0969,
+   "change": -0.02,
+   "asOf": "2026-11-24T21:00:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.13,
-   "change": -1.39,
-   "asOf": "2026-11-24T20:41:04.000Z",
+   "value": 88.27,
+   "change": -1.23,
+   "asOf": "2026-11-24T20:51:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7199,
-   "change": -0.53,
-   "asOf": "2026-11-24T20:51:35.000Z",
+   "value": 7202,
+   "change": -0.49,
+   "asOf": "2026-11-24T21:01:30.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59688,
-   "change": -2.49,
-   "asOf": "2026-11-24T20:51:37.000Z",
+   "value": 59704,
+   "change": -2.46,
+   "asOf": "2026-11-24T21:01:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +137,28 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إزاى تنقذ الأطفال بعد استنشاق المبيدات",
-     "url": "https://www.elbalad.news/7193471",
+     "title": "جمال شعبان: التغيرات الجوية تؤثر على النوم والمزاج والهرمونات",
+     "url": "https://www.elbalad.news/7193491",
      "source": "صدى البلد",
-     "time": "2026-11-24T20:49:57.000Z",
-     "seen": "2026-11-24T20:51:11.898Z"
+     "time": "2026-11-24T21:00:27.000Z",
+     "seen": "2026-11-24T21:01:11.813Z",
+     "impact": "يساعد الأفراد في مصر على اتخاذ احتياطات صحية للتعامل مع أثر التغيرات الجوية على النوم والمزاج."
     },
     {
-     "title": "الأهلي فوق الجميع مش الأشخاص.. هيثم عرابي يوجه رسالة نارية بعد رحيل عموتة",
-     "url": "https://www.elbalad.news/7193472",
+     "title": "قبل زيادات يوليو 2027.. موعد وقيمة زيادة المعاشات والحد الأدنى الجديد",
+     "url": "https://www.elbalad.news/7193462",
      "source": "صدى البلد",
-     "time": "2026-11-24T20:48:38.000Z",
-     "seen": "2026-11-24T20:51:11.898Z"
+     "time": "2026-11-24T20:59:31.000Z",
+     "seen": "2026-11-24T21:01:11.813Z",
+     "impact": "يهم المستحقين وكبار السن في مصر لتخطيط التزاماتهم المالية وفق موعد وقيمة زيادة المعاشات والحد الأدنى الجديد."
     },
     {
-     "title": "بلال قنديل يكتب: حلاوة البدايات",
-     "url": "https://www.elbalad.news/7193468",
+     "title": "تعرف على مواعيد رحلات سوبر جيت بين القاهرة والمنيا وطرق الحجز",
+     "url": "https://www.elbalad.news/7193485",
      "source": "صدى البلد",
-     "time": "2026-11-24T20:48:26.000Z",
-     "seen": "2026-11-24T20:51:11.898Z"
+     "time": "2026-11-24T20:57:46.000Z",
+     "seen": "2026-11-24T21:01:11.813Z",
+     "impact": "يفيد المسافرين والمواطنين الراغبين في التنقل بين القاهرة والمنيا لتنظيم رحلاتهم ومعرفة طرق الحجز."
     },
     {
      "title": "أحمد عبد الهادى بكير يكتب: الفريق كامل الوزير.. قيادة ميدانية لا تعرف التوقف.. وجهود متواصلة ليلًا ونهارًا لبناء منظومة نقل حديثة وآمنة",
@@ -172,7 +172,8 @@
      "url": "https://www.youm7.com/story/2026/11/24/سفير-عُمان-العلاقات-مع-مصر-نموذج-يُحتذى-به-وحراك-استثمارى/7631428",
      "source": "اليوم السابع",
      "time": "2026-11-24T19:24:00.000Z",
-     "seen": "2026-11-24T19:31:11.945Z"
+     "seen": "2026-11-24T19:31:11.945Z",
+     "impact": "يهم المستثمرين في مصر لمتابعة الفرص والشراكات الاستثمارية المتاحة مع سلطنة عُمان."
     },
     {
      "title": "اتحاد العمال: 500 قيادة عمالية تشارك فى مؤتمر «دعم الدولة المصرية»",
@@ -244,11 +245,19 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "البابا فرنسيس في مذكراته: \"رأيت الشيطان ثلاث مرات\"",
+     "url": "https://www.bbc.com/arabic/articles/cmkgdjxzzx7ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T20:58:04.000Z",
+     "seen": "2026-11-24T21:01:11.813Z"
+    },
+    {
      "title": "سعر صرف الدولار مقابل الجنيه في المركزي والبنوك المصرية اليوم الثلاثاء (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oWVk1eVdhWm1zaHgxcHBTUjJ0bXVPVjUwMUFTVjc4TkZrT0VLcjFDTkdieExsWFJRYXdRazlrd3Q3R2YwVzk0?oc=5",
      "source": "فيتو",
      "time": "2026-11-24T20:17:00.000Z",
-     "seen": "2026-11-24T20:21:12.120Z"
+     "seen": "2026-11-24T20:21:12.120Z",
+     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة حركة أسعار الصرف في البنوك وتأثيرها على القوة الشرائية وتكلفة الأعمال."
     },
     {
      "title": "ماذا تكشف هجمات بنغازي عن دور روسيا وأوكرانيا في ليبيا؟",
@@ -262,7 +271,8 @@
      "url": "https://alborsaanews.com/2026/11/24/2008815",
      "source": "البورصة",
      "time": "2026-11-24T19:43:06.000Z",
-     "seen": "2026-11-24T20:11:11.417Z"
+     "seen": "2026-11-24T20:11:11.417Z",
+     "impact": "يهم شركات قطاع الطاقة والمستثمرين المهتمين بفرص العمل والتوسع في تطوير الحقول الليبية."
     },
     {
      "title": "السنغال تستعيد لقب كأس الأمم الأفريقية 2025 بقرار محكمة التحكيم الرياضية، والمغرب يعتزم الطعن",
@@ -294,11 +304,11 @@
      "impact": "تساعد الأفراد والمستثمرين على متابعة أسعار الصرف وتأثير حركة الدولار على التكاليف والقوة الشرائية."
     },
     {
-     "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
-     "url": "https://www.bbc.com/arabic/articles/c68x0ve7wqg1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T18:05:50.000Z",
-     "seen": "2026-11-24T18:11:11.547Z"
+     "title": "جنسن هوانغ \"يزداد ثراءً\" بعد العودة إلى \"إنفيديا\".. كم ربح؟",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VrLWE3NzEwYWFvZWZ4OExmX3hiZnhReE04bFRsQnQ5MFBMLTV0alBlUnlSY1dUTUVER0EtREQ2WEVKRmRGWWtxSjZuU1hDd0owdkQtMGE0RU1qVnRobEZ0UklzVEk2N2tJZFYyN2E4dEdSbkM1NlFYQlBkNExXdFctampIZE13TWROSk5jLVQ?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-24T17:47:14.000Z",
+     "seen": "2026-11-24T19:21:12.307Z"
     },
     {
      "title": "أسعار الذهب اليوم في مصر تتراجع 115 جنيها.. عيار 21 يهبط إلى 5600 جنيه",
@@ -313,13 +323,6 @@
      "source": "العربية",
      "time": "2026-11-24T16:54:00.000Z",
      "seen": "2026-11-24T19:01:11.490Z"
-    },
-    {
-     "title": "جنسن هوانغ \"يزداد ثراءً\" بعد العودة إلى \"إنفيديا\".. كم ربح؟",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VrLWE3NzEwYWFvZWZ4OExmX3hiZnhReE04bFRsQnQ5MFBMLTV0alBlUnlSY1dUTUVER0EtREQ2WEVKRmRGWWtxSjZuU1hDd0owdkQtMGE0RU1qVnRobEZ0UklzVEk2N2tJZFYyN2E4dEdSbkM1NlFYQlBkNExXdFctampIZE13TWROSk5jLVQ?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-24T16:17:14.000Z",
-     "seen": "2026-11-24T19:21:12.307Z"
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
@@ -408,6 +411,13 @@
      "seen": "2026-11-24T18:51:11.413Z"
     },
     {
+     "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
+     "url": "https://www.bbc.com/arabic/articles/c68x0ve7wqg1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T18:05:50.000Z",
+     "seen": "2026-11-24T18:11:11.547Z"
+    },
+    {
      "title": "من النازية إلى روسيا بوتين.. ثمانون عاما تفصل بين مأساتين لأطفال مخطوفين",
      "url": "https://www.dw.com/ar/من-النازية-إلى-روسيا-بوتين-ثمانون-عاما-تفصل-بين-مأساتين-لأطفال-مخطوفين/a-80021078?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -441,13 +451,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-24T17:01:11.000Z",
      "seen": "2026-11-24T17:11:11.869Z"
-    },
-    {
-     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
-     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T16:47:00.000Z",
-     "seen": "2026-11-24T16:41:11.013Z"
     }
    ]
   },
@@ -477,11 +480,20 @@
      "seen": "2026-11-24T20:21:12.120Z"
     },
     {
+     "title": "هل تطبيق Instinct AI آمن؟ خبير تكنولوجيا معلومات يكشف",
+     "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOaTdmOWtPeGYyX012VmZBSDBGdENtRkRCNGF3Q2FsNTRTZkdjMmtoNklzcml3WTJGS2J6OS1EbnlyeC1KNGxIOWRkcElkenlQWHlsTm4waHJBMU5lWjhaYWhUN2s3dE1vSlRHdll6Vk1mVHVJYmNSUlhvOFN6YldJOWdjb3gyWmc2TWhFLWdtTmxRVU5sUjhnZElHcDFGbU1FdXNTZ2xFWVYxektmVGx4SDNMYTlFd091V3E2S095MWFfWHlYajFnY3ZEZDhmaVZaZEZJazBEWmdnXzVieUdOYUlLNzZ4akZLRXZVMEF2SnFzM184a0hxcTcwWW9DS3RxemFmbUJwNEx3dG5kSmUwcUhfQXpkTWJNSnN6UUhjUTl6aWY0b0Y4em9vY25HelNhenBlc2RWNGhMWVhldlRxLTlTdU9oUDVnMWpSTzJmS0lpeEl2SjdnZzFqSkh3a0FsZG1jQXZ5M0FHQUd1cThURG05Y2ZxemRZNGFnUVFMN1phbFBPejBGNlJ3dWp2ZDFhUHFvVWdsYi01WTNJcGpr0gGkA0FVX3lxTE5pdm9TZ29EWmV3ZkVoY3gtMl9EVVdKTk9BZjZUT2wwUF8zRnZVa3RPXy13NFdoaDlCR1pnak9BQW5Lcl8weGZxcWx2cmlaSW9feURDR0N2ZDRIRGFTaUJkX0ZOQW9idnByQTFCLUxzMTFJUVRLZFNwOVlzMlNRUnRRY2JheFI2T3F2Zkk2VjgzUkktaTBBbmQ2Wll2MGRqWDNlVVljcGN5NmJFakxidERDWEJRbW00c0pUc0VkQ2NEVTQyVXRpYnFtcHJSRXZtakRsWG5Cb3NoSnZ5RVlzOWtSQkQxc3RmdUwzX2FQb3g3b0s0Vm9OckxsLS1uVTFhSjA0eTdpS21vc3RwNmMxMFNjYzdoV0tTY2VPQU9seXBOYzZJX2tKV2ZTX1FTdXRzSk8zakpERmZZaWNvSjdRTlNsY1dNRVQzLXhPMFZiSjlxc1lCdEJlWTMzOWNPaWRkTE9qUWpjajg3NWRScjlzM09PR3JWS2dsYm0zQldmZi00TC1GeW5lZHJFblc3MUhSeUc2djI1MTdhNXdlMDFvUlBpTklBeA?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-24T18:05:26.000Z",
+     "seen": "2026-11-24T21:01:11.813Z",
+     "impact": "يهم مستخدمي التطبيقات الذكية في مصر لتقييم مدى أمان تطبيق Instinct AI قبل استخدامه."
+    },
+    {
      "title": "واتساب يختبر رسائل تختفي بعد قراءتها على آيفون.. وتمنع تصوير الشاشة",
      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQZkJTX21EUlZ4dk1pUnNYcGxEb2wyLU5tX0cxMnJQUkRSaE00R3FzV0Vld3paYzI2eS1EeWs1Ukg1djA5bVhzcU9YeEVhd2ZMRHdKd0J0M1lsMHh0TDkwZ2wzUlNSX2tZSU5zeWM3YlpicUpSY2otMTlLRmNZTmlCcFZxek9sNi1tdUtHN3lxT1o3eUxjUWxmdkZXbWpISHR3Q0hoQmJRcmJNYlhxaHR2LWxYTF9fNVpySFRHUkZqS0diMG5zOWM1YzhuNzc5RVprWGhJbFVWdTVBOElUZHg3bVZpNDMxNXVDNGxPYVV2WG1ZaWVhQ3FSWWJhRDBKRDVGcWs4TjVTeEhKTnZjV05lRGc1ZnE2TE11M3pHOHEwWEhKS1lNZS1JSjBOc015TEVXMjdqZ1VJZXJSTUJabkgxQWQ4ZU0ySENjcnNSVlcyckY2dmxZd3FXQlRId2tqRVNscVVrSzd1YmRxV3BFUFExTmdsZm1hb2t0VHVrUnJnVG8tM2lLejFLLVZ0UGhMQWxoZWVlRXplSU8xMmRyV0hlNFlBR3hObU81Vm12MzZ4MlhZdTB0UlRtU3FpYTJWN0VLWndlRU5WYS1qMnlrc1E1Nkp3elFMNFU3VmdYRVpNRzJ2c09xSmFvVmpwLV93eTDSAeoDQVVfeXFMT1pGejBWZjlOVTJvRm9MNlQybVBvbDBxVEVpdU92cXJsU0ZqVDZ0YWxFSU9JSGpxbFpiVXRkUjJYWkdhcDBMcTJLeDlzdnhKQkhHX3FRVjQ5VE1MQ2dEbkQ1NElMMWg5bGpZeDJHQmRCNGhESm5vdWxCemtndTFScjRyeWFISE1FTXlpOThNWDVnMzBSbV9hZkdHa3BpejlSRXkzejVINDJkeVJrVGVsbEc3R1F1VkQ1OFcyZE40Q29ZOGdvcjkxYVdsdmlBSG9kQjNWRXZkSDdOQUszT0VhUE9FdDAzc204WEE1X1c0SXpUek1QeV9EWVdPck9LN2NTTkFnWExiY040MEdkSnQ5NFUwVjU3M09vTTRXQ2ZBRnVHX3VEaUVlQk9WbWJmWXZBclNJS1BXTlJwVFg3S01aV0VrMXJJZDcxQklHTTFwcUdEZkRyVVNLampMWGE1c0tIUW93MXdRU0pkbFpiMHRXdUZjaWdQTFlCdzlseFBYYVd5OU9KakkyZXQzNnNFMGY2cWNaakZVZTJaZXpuUmxVQXAyUmIxWVpqbjQ1d1l4eDg1U3JvaTQzZW9vMGFGMDA4dDRCSm1ub0Q1NWFDSXZPdU5KWTAwN3ROaS1JSUpBQldQbUZ2ZF9fc21rdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-24T18:00:00.000Z",
-     "seen": "2026-11-24T19:41:11.803Z"
+     "seen": "2026-11-24T19:41:11.803Z",
+     "impact": "يهم مستخدمي آيفون وتطبيق واتساب في مصر لتعزيز خصوصية محادثاتهم ومنع تسريبها."
     },
     {
      "title": "العنف ضد النساء : مشكلة ثقافية أم أزمة قوانين ومؤسسات؟",
@@ -548,13 +560,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T11:13:00.000Z",
      "seen": "2026-11-24T13:40:37.437Z"
-    },
-    {
-     "title": "الجيش الإسرائيلي يغتال مدير جهاز الأمن الداخلي في غزة",
-     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOVE5jbkFEUFZpdUpQc0RKdzQzc2JCMkR0NWQyQkpKXzk0bWpkbWp5dUFSZDRFYlJnZXFOZzlxNjlERlZ3VnpvNFhDVnFqZFpEd0UwWEVpOUVPSVpocDlfd3E5eFVWVjlyal9DWEE0RTN1dV9ia1A3VXpKT0d3Y2ktdTg3a3VwUlF0VWJ1ZnBKYWdMN1JrRlEzTkt4Y281R2MybXhEQk1kcmx4aUxLRUd3RUdiV2RYRnBmZFJ6ZUh0emEwU2xqTFJ5N3ZDaTZKY1hGeXZmbmo1SzVjd1ZsdjMxbi02MHFYVnpmTVdPekMyOW5OdzBNbG1EOHkxbkU5V2xzVDgzT09mZWZ0LWdfZFZuazhoWFRsS1ZxbjhmNWhMWlFEZTB1V2NSdTdSWGVzYy1GZFBUZmNadGFrTldkWVByUXdpSUN2MDhsalA4ZGZVX2tBYTZlV2F3dW0xUkdSMjJRbmtIWGkyTmZZQmwzeHRMYmMxa19oQkxnajNBUXh6cnU5VHVZd3Y0Q3R0STQ1TUNJQ2JaZmpLQUhmNzUyUGRaZjV1cWNsUmNoOWZnYkZLbzBBUE9CZm1BZFNucG1fNVlxYllUMTNnbG5pSW9GaVh6ejF5RkfSAdoDQVVfeXFMUFFxYVJOWVBxQlhpZGNNZ0hQX1cyU1NCRXlhQ05jd2RYdExmYmk1bXBLcllhTklLbWs0TnI0SWVrY1F3ajZRcUVud2pRNC1vemVaWkNjYmd2LVZGaGVqOU9YcTB3NjUyUzk5MXhHYmlCY2VIVEhqOFdfaU9scUp6Y1RGNVpHVFgtVTExeVM0QTlVekRRS0d3YzhXUUZsS3RRRUR0YmJjdXQ3bUlXN1REZW1rdjV4YjhQUEw0YTV0dnRuVFJYUzEtV2ZhQ25McURVVjQzVFV0cnZ4MV9iQnI5ckRxUDliX1NrRkxkYW5pbUdsRl9SVVh4ZDNmb0tzSWczc0ZJYlE3djNZVXJpelJQX0Z2Y1hGNi10SE9PSHNqRTJyeHZkNld4UWFtbkpUaGZoT1hwWHhJUVlNTUp2Mk5Ec25YRlRwWjFFT1dlS0NkcmVOTmlqa3hXc3NBQmxkVThmd1JZWXAwN3Zkb0VRcVAxak1qdTNUallrOXdYU1JtSGpsU0pEZ09zckdBUDVkQ2FZMWJxR1VIeFNNdGMwWVFENzBaTGc1al9sazhHWmJKbFFlODhSZGRuMjg1TXltVTQwN21RUnlCby1TNWVsOHdhNlI2RURVT0EyM1J3?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T10:59:00.000Z",
-     "seen": "2026-11-24T13:50:37.727Z"
     }
    ]
   }
