@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:49:01.640Z",
+ "updated": "2026-11-24T03:59:01.574Z",
  "minute": [
   "تشهد مصر استمراراً للأجواء الدافئة خلال شهري نوفمبر وديسمبر، مع متابعة مستمرة لأسعار صرف العملات والذهب في البنوك.",
   "أوضحت فاكسيرا أهمية التحديث السنوي للقاح الإنفلونزا، بينما أعلنت نقابة الزراعيين تقديم دعم مالي للمعاشات.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T03:49:01.640Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T03:59:01.574Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 54.19,
    "change": 1.45,
-   "asOf": "2026-11-24T03:30:41.000Z",
+   "asOf": "2026-11-24T03:56:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5541,
-   "change": 0.99,
-   "asOf": "2026-11-24T03:39:08.000Z",
+   "value": 5533,
+   "change": 0.84,
+   "asOf": "2026-11-24T03:49:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6326,
-   "change": 0.99,
-   "asOf": "2026-11-24T03:39:08.000Z",
+   "value": 6317,
+   "change": 0.84,
+   "asOf": "2026-11-24T03:49:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3635,
-   "change": -0.45,
-   "asOf": "2026-11-24T03:39:08.000Z",
+   "value": 3630,
+   "change": -0.6,
+   "asOf": "2026-11-24T03:49:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0915,
    "change": -0.52,
-   "asOf": "2026-11-24T03:48:45.000Z",
+   "asOf": "2026-11-24T03:58:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.5,
-   "change": -3.21,
-   "asOf": "2026-11-24T03:38:18.000Z",
+   "value": 86.37,
+   "change": -3.36,
+   "asOf": "2026-11-24T03:49:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60298,
-   "change": -1.41,
-   "asOf": "2026-11-24T03:49:05.000Z",
+   "value": 60281,
+   "change": -1.44,
+   "asOf": "2026-11-24T03:59:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "أزمة مبنى السنبلاوين.. نقابة المهندسين تحيل منتحلي الصفة إلى النيابة وتلاحق المخالفين",
+     "url": "https://www.elbalad.news/7192317",
+     "source": "صدى البلد",
+     "time": "2026-11-24T03:50:03.000Z",
+     "seen": "2026-11-24T03:59:01.574Z"
+    },
+    {
      "title": "العجيزي: الأهلي كان هيتعاقد مع البدري قبل عموتة.. لكن المجلس سرب الخبر والجماهير غضبت",
      "url": "https://www.elbalad.news/7192316",
      "source": "صدى البلد",
@@ -151,13 +158,6 @@
      "url": "https://www.elbalad.news/7192309",
      "source": "صدى البلد",
      "time": "2026-11-24T03:19:23.000Z",
-     "seen": "2026-11-24T03:29:01.863Z"
-    },
-    {
-     "title": "ما سر سكتات النبي في الصلاة الجهرية؟.. الإفتاء توضح 4 أسباب وحكم",
-     "url": "https://www.elbalad.news/7192313",
-     "source": "صدى البلد",
-     "time": "2026-11-24T03:19:00.000Z",
      "seen": "2026-11-24T03:29:01.863Z"
     },
     {
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "اشتباه في وقوف إيران وراء هجمات سيبرانية على 50 سفينة، وعقوبات جديدة على \"شبكة الظل\" المالية لطهران",
+     "url": "https://www.bbc.com/arabic/articles/cm36g5rd06wyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T03:50:58.000Z",
+     "seen": "2026-11-24T03:59:01.574Z"
+    },
+    {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
      "source": "جريدة الدستور",
@@ -271,6 +278,14 @@
      "source": "القاهرة 24",
      "time": "2026-11-24T01:27:39.000Z",
      "seen": "2026-11-24T01:59:02.296Z"
+    },
+    {
+     "title": "سعر الذهب يواصل الانتعاش مع تجدد الإقبال على المخاطرة في السوق",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRlZmT21TNEFDM3NtYm1WXzRwTTNKbzVhaWxFVmhQYVpqc09BZE1uUHp3azBsOWhka212ODY4QTVESWVuT1oxTmJuRUZZSEhhUlJJZEpTSXVjNG1POUh2VmliVllPeldPX1A4ZUJYVnk2T2VseHAwSnFQTDNOS21LaV9vNFpoRzJKR2VyR2VaTndHbDlEdFE1Z2E5QUJlSWN3TDFtc2NodzVZRnk5aS1taW1HQ2hoaEtfWXRqTGRMNkFhOHJEczV1Sm5OWW5ldk5lcXlJbjJMbnlwRFd1NG9nb05OVWF6c0dycU9fNE9DS3REMVlvUkdQZHp1TXFkbmREa2dPX3RIQ2REdw?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-24T00:10:27.000Z",
+     "seen": "2026-11-24T00:49:02.279Z",
+     "impact": "يهتم به المستثمرون والراغبون في الادخار بمصر لمتابعة اتجاهات أسعار الذهب وتطورات السوق."
     },
     {
      "title": "سعر الدولار على مدار الساعة.. 54.29 جنيه شراء الأخضر فى بنك مصر",
@@ -324,27 +339,12 @@
      "seen": "2026-11-24T00:09:01.963Z"
     },
     {
-     "title": "سعر الذهب يواصل الانتعاش مع تجدد الإقبال على المخاطرة في السوق",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRlZmT21TNEFDM3NtYm1WXzRwTTNKbzVhaWxFVmhQYVpqc09BZE1uUHp3azBsOWhka212ODY4QTVESWVuT1oxTmJuRUZZSEhhUlJJZEpTSXVjNG1POUh2VmliVllPeldPX1A4ZUJYVnk2T2VseHAwSnFQTDNOS21LaV9vNFpoRzJKR2VyR2VaTndHbDlEdFE1Z2E5QUJlSWN3TDFtc2NodzVZRnk5aS1taW1HQ2hoaEtfWXRqTGRMNkFhOHJEczV1Sm5OWW5ldk5lcXlJbjJMbnlwRFd1NG9nb05OVWF6c0dycU9fNE9DS3REMVlvUkdQZHp1TXFkbmREa2dPX3RIQ2REdw?oc=5",
-     "source": "الشرق بلومبرغ",
-     "time": "2026-11-23T21:53:14.000Z",
-     "seen": "2026-11-24T00:49:02.279Z",
-     "impact": "يهتم به المستثمرون والراغبون في الادخار بمصر لمتابعة اتجاهات أسعار الذهب وتطورات السوق."
-    },
-    {
      "title": "«هيئة الدواء» تبحث مع «إيفا فارما» دعم الاستثمارات والتوسع بالسوق المصري",
      "url": "https://alborsaanews.com/2026/11/23/2008584",
      "source": "البورصة",
      "time": "2026-11-23T21:27:30.000Z",
      "seen": "2026-11-23T22:08:41.456Z",
      "impact": "يعزز بحث توسعات شركات الدواء من توافر المستحضرات الطبية محلياً ويدعم فرص نمو قطاع الرعاية الصحية."
-    },
-    {
-     "title": "ماذا يحدث إذا حذفت مصر صفرين من الجنيه؟.. خبراء يوضحون",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vYURzQlJrN19XS1lIaXNPWFhWdXR6ZkVzVEFkLXVhN1YtQjRiemhRR1h5OEFQZ0ZWcWxLdUtjRHdvQTdzZEdKalpBSG9pYnFpOUpjSzFMWmgxZTJNTHVB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T20:11:00.000Z",
-     "seen": "2026-11-24T01:29:01.556Z"
     }
    ]
   },
