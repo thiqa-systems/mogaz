@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:19:20.772Z",
+ "updated": "2026-11-24T09:29:21.132Z",
  "minute": [
   "تراجعت أسعار الذهب عالمياً مع ترقب بيانات التضخم، بالتوازي مع تحذير جهاز حماية المستهلك في مصر من مستحضرات التجميل المغشوشة خلال الجمعة البيضاء.",
   "سجل البنك المركزي المصري ارتفاع حجم التجارة الخارجية إلى 152.6 مليار دولار وتحديث أسعار العملات، بالتزامن مع كشف تفاصيل طرح مصر لتأمينات الحياة في البورصة.",
@@ -9,34 +9,36 @@
   "at": "2026-11-24T09:09:20.631Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T09:29:21.132Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.15,
-   "change": 1.37,
-   "asOf": "2026-11-24T09:18:29.000Z",
+   "value": 54.13,
+   "change": 1.34,
+   "asOf": "2026-11-24T09:29:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5511,
-   "change": 0.45,
-   "asOf": "2026-11-24T09:09:20.000Z",
+   "value": 5509,
+   "change": 0.41,
+   "asOf": "2026-11-24T09:19:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6293,
-   "change": 0.45,
-   "asOf": "2026-11-24T09:09:20.000Z",
+   "value": 6290,
+   "change": 0.41,
+   "asOf": "2026-11-24T09:19:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -45,34 +47,34 @@
    "unit": "$/أونصة",
    "value": 3618,
    "change": -0.91,
-   "asOf": "2026-11-24T09:09:20.000Z",
+   "asOf": "2026-11-24T09:19:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51388,
+   "value": 51387,
    "change": 1.33,
-   "asOf": "2026-11-24T09:04:13.000Z",
+   "asOf": "2026-11-24T09:14:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0918,
-   "change": -0.49,
-   "asOf": "2026-11-24T09:18:47.000Z",
+   "value": 1.0922,
+   "change": -0.45,
+   "asOf": "2026-11-24T09:28:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.06,
-   "change": -3.7,
-   "asOf": "2026-11-24T09:09:10.000Z",
+   "value": 86.37,
+   "change": -3.36,
+   "asOf": "2026-11-24T09:19:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59945,
-   "change": -2.07,
-   "asOf": "2026-11-24T09:19:16.000Z",
+   "value": 59877,
+   "change": -2.18,
+   "asOf": "2026-11-24T09:29:38.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الرعاية الصحية تستعد لإطلاق ملتقاها السنوي السابع بمشاركة خبراء دوليين.. فيديو",
-     "url": "https://www.elbalad.news/7192544",
+     "title": "الاستثمار: اعتماد وحدة شهادات المطابقة بالرقابة على الصادرات ضمن منظومة الجودة الأفريقية",
+     "url": "https://www.elbalad.news/7192533",
      "source": "صدى البلد",
-     "time": "2026-11-24T09:18:43.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
+     "time": "2026-11-24T09:28:18.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
-     "title": "الزمالك يفتتح مشواره في دوري أبطال إفريقيا أمام الإفريقي التونسي السبت.. الموعد والقناة الناقلة",
-     "url": "https://www.elbalad.news/7192545",
+     "title": "الرئيس السيسي يستقبل نائب رئيس جمهورية غينيا الاستوائية",
+     "url": "https://www.elbalad.news/7192557",
      "source": "صدى البلد",
-     "time": "2026-11-24T09:18:26.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
+     "time": "2026-11-24T09:27:53.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
-     "title": "الوزراء: مصر في صدارة دول شمال إفريقيا لنظام البيئي للشركات الناشئة.. والـ 35 عالميًا بمؤشر بيئة ريادة الأعمال الوطنية",
-     "url": "https://www.elbalad.news/7192536",
+     "title": "قبل الشتاء.. زاد العزة تنطلق إلى غزة بـ 2304 أطنان مساعدات",
+     "url": "https://www.youm7.com/story/2026/11/24/قبل-الشتاء-زاد-العزة-تنطلق-إلى-غزة-بـ-2304-أطنان/7630495",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T09:27:00.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
+    },
+    {
+     "title": "محافظ أسيوط: إزالة 26 حالة تعد على أراضي الدولة والزراعية ومخالفات البناء",
+     "url": "https://www.elbalad.news/7192529",
      "source": "صدى البلد",
-     "time": "2026-11-24T09:17:20.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
+     "time": "2026-11-24T09:26:48.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
-     "title": "الصحة تطلق حملة للتوعية بسرطان الفم.. فحص مجاني وتثقيف 1800 مواطن",
-     "url": "https://www.youm7.com/story/2026/11/24/الصحة-تطلق-حملة-للتوعية-بسرطان-الفم-فحص-مجاني-وتثقيف-1800/7630336",
+     "title": "نائب رئيس غينيا الاستوائية يعرب عن تقديره لمشاركة مصر بمشروعات بلاده الكبرى",
+     "url": "https://www.youm7.com/story/2026/11/24/نائب-رئيس-غينيا-الاستوائية-يعرب-عن-تقديره-لمشاركة-مصر-بمشروعات/7630496",
      "source": "اليوم السابع",
-     "time": "2026-11-24T09:14:00.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
+     "time": "2026-11-24T09:25:00.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
-     "title": "معلومات الوزراء: مصر الـ 65 عالميًا بمؤشر النظام البيئي للشركات الناشئة",
-     "url": "https://www.youm7.com/story/2026/11/24/معلومات-الوزراء-مصر-الـ-65-عالميًا-بمؤشر-النظام-البيئي-للشركات/7630454",
+     "title": "الجيزة ترفع كفاءة ميدان التعاون وتطور الجزيرة الوسطى بشارع الهرم.. صور",
+     "url": "https://www.youm7.com/story/2026/11/24/الجيزة-ترفع-كفاءة-ميدان-التعاون-وتطور-الجزيرة-الوسطى-بشارع-الهرم/7630381",
      "source": "اليوم السابع",
-     "time": "2026-11-24T09:11:00.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
+     "time": "2026-11-24T09:24:00.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
-     "title": "البابا تواضروس: المكتبة البابوية المركزية بها 100 ألف كتاب وبُنيت بتبرعات الأقباط",
-     "url": "https://www.youm7.com/story/2026/11/24/البابا-تواضروس-المكتبة-البابوية-المركزية-بها-100-ألف-كتاب-وبُنيت/7630417",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T09:09:00.000Z",
-     "seen": "2026-11-24T09:19:20.772Z"
+     "title": "«مدبولي» يطلق مشروع التصنيع المحلي لسيارة «شيفروليه جروڤ» بأكتوبر غدًا",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDRGxkV3h0V0RDQllkV2ZPMHZSNk4tSktOVTBjaEluOUUycGs3aENxYTVORnQyaXg3T19UV0ZPTUNPNEVqZEx5XzdlMmVlLVFweDdxeTZEZFVZNEFrRk1Z?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T09:24:00.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
+    },
+    {
+     "title": "«مدبولي» يستعرض نتائج قافلة طبية نظمتها «استغاثات مجلس الوزراء» في كفر الشيخ",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ManZfanJJanQ1bWRsRzNnQzNWM0NFVkdJQmpKX2FLanczX2RjTlZMNGZqNVg5UTdGd0FYczhydDlvNUhRLWdaV2pWb1pKZTlHWXh3ZHItMER5RkxDc3ZF?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T09:23:00.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
      "title": "غدًا.. مؤتمر صحفي لرئيس الوزراء للإعلان عن تعديلات اللائحة التنفيذية لقانون الشركات رقم 159",
@@ -192,6 +208,13 @@
      "time": "2026-11-24T07:51:11.000Z",
      "seen": "2026-11-24T07:59:20.602Z",
      "impact": "يساعد المواطنين في كفر الشيخ على معرفة توفر القوافل والخدمات الطبية المجانية."
+    },
+    {
+     "title": "تقرير رسمي يكشف المرض الأول المسبب لوفيات المصريين",
+     "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZ0FIUy1tcFYzRzN4bi10TTVxWGZINDNsU3Btc1FVZk5DQUtDdVlRM3ZnWFVSakV5S2R4WTBvWTlaUktVVDBDTUthR2hRLXVBZnVuYUtFTEhNcDNwekk5TDZ0cFVEUXNVYllkSjR1dGlZRkFaUFZ0UUItWUx0Z0xPZzZQbkhXeXRYWFNzamJqdmdseS1KYVZTSkdVSEN6MDcwWTlvVlRMWFhmRlBBYldpY3BKbjFuZndNVzRLODZFMUtJcE93YkdDSGFhQWw0cXhaMEpfdjRZVkxvcjhya0ZFbFVqaGVUelZjWGQyaF9sclFXNEpJUFc4RTVuaVJuYXRhTjVLYlNtV3pHUFVmQi1pWXh4UHhHbjE2VXJPZXNVbXByZjc0Y0twaXlxQ1NLSWd5U3N3eVNWdVV1ZXppRlRXa0tiYU9LQkhXRG8xeE5PYVcwVEVBTTVPQ2NSWHNZdnRlZmRUaW51Yk1pTUtFblYxNXBoSWw4N1cyQnI1WW5aTW84bTJuWlQwVUxwUlhER09BcVVjOHQ5U2hFLTJqUVdpcmU3NNIBqANBVV95cUxNNkFua0I2Rkd5X21XaWlsVk1hemJDeHhKek9ZZld4YkJZUDRvQ2kzMEZCTDYzNTdrZzhsNDk3eHRWa1gxcmlzVHEzel9OMVNodkt3Y082NFNRU1FaYnJURkN0OWZxcXhVWHFkODBOeHVhcEdqbGJ5Vjg5bjlQVmhYUEtnRERySzUwWmlxc3dsaGhBSV9xZnVhVEJkR2duSWtFVW9Vd1hyLVBLVVNCWjluOG9KXzVBa0d6WUhvaXNYcFdoYUtPRFZRUURUUnU0ZVdOSFhqWkJfY3E4Mi1OUGtSX21HRC12MWZrWjVGS1g5My1aQ0dMUDV6NElhTHZjbWh3a0VsWUh5MUwzRnE0MWFrbzkzcEtfaEpVS3d5VTRxZjdxRFRlSVpMZ1JERnhTQzYyU1RMRGZDeXZzR05HNEJNTXZ2UlhndnlYZzAyZEQtQmVzWlJJZWlPMzh3YlNUSGEtUnk1TTZPenhiaG5BYmQxemRZZXB2ZU00LVBFcDIwVXNoX1pLNVRnaWhVamZFSFQ5WmtxZGJNYnliQ09RX3hEMVVxNndMa0RN?oc=5",
+     "source": "العربية",
+     "time": "2026-11-24T07:13:00.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
     },
     {
      "title": "ارتدى قناعًا وقتل شقيقه وطفليه.. تفاصيل مذبحة الميراث بالشرقية",
@@ -213,27 +236,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-24T01:00:00.000Z",
      "seen": "2026-11-24T04:09:02.081Z"
-    },
-    {
-     "title": "حقيقة إلغاء ضريبة الهواتف المحمولة في مصر.. القصة الكاملة لتحركات البرلمان وتوجيهات رئيس الوزراء",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iUzVhaFVqbVJnczh0TmU2MU4yaFBqVWdVeXZIVGJSb2Y4bWdadWl6RGFJM05DTHN1QTVFWU1RUHNjYjU3S2NoekhjQ1ZiY3lkdWRSQnVrMnk4bHZJcTQw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T00:48:00.000Z",
-     "seen": "2026-11-24T04:39:01.958Z"
-    },
-    {
-     "title": "3 أيام وتبدأ يوم خميس.. أول عطلة للموظفين بالقطاع الحكومي والخاص والطلاب (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KOTlfb0JqNWpKUnRBd1ZoM0JIR2lLTHpxZE0tUWsxUWtmampPb0hrTXN3VWlKVHpDNl9xOXhUTnlVVFdCek9rY1JjY2d6YWxhUDFQUmJLZkI3cl8tNThV?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T23:01:00.000Z",
-     "seen": "2026-11-24T07:09:20.869Z"
-    },
-    {
-     "title": "مدبولي في تنزانيا لافتتاح سد شيّدته مصر وسط توترات «أمن المياه»",
-     "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOSHpyYlltVElYa2pvR2RZY1ZvaHRiVkJKQ2wwVXJlcmFoOGxCRzdSVVJxWkNvNHF4d2d5Zjl6MkhxWDFFbF9FWEx3RkpfVFdsMnpfTjE1ZTcza3UxbEFHS0pWVE0yb0k3RENQR2RFOERxbWtrWmd4RUhkYTlVbktQYVVVaHh2TWRnVEhjaG01Q2pRSnh3M1c4VWMtV0VWdjJFdzlCcjB2SUYwYWFxbTNqS3hkN1VuVWxnaG4xM0k4aUdLaGZGWnpvTXR1RXlPR2ZYaVMzNFRUQ1pPYzA2WnVOa2xWUXRxVTE5bS1PUExYSWc4VENSVGFTek94SHQtUVdGY29vTVFUN3loU2E1M3NtTWgzdFF5MEYxOC1QdzNuOEFlSG5DR1R0MUJSSllJWUxHQUkzb2lVcEtycWxyamNLM2paQmVOdl9TTlI5dkRHaXFzRlNMZXhZd3BCNWVWOWxwLXpkM3NwcGNOZDVOc09GQWdrUzFpMGtlUTNZUF9VVmdIT052U3pTTFBHSlVtb1ktNmhGeWtzUVFQc1dNMk1rN2Y1a0QyWnRoc3BKeHRMdmtoT1FHaGZmMWdCY1JOM0lfYnRMT2xxOWVKanUzMUlqSm5PVXMtVURicmZseXBwY210V3h1SERfckZqT1c3eGFJQ1FTUkRWS1JpV0hCZ2M0NUZrZ0t3NTNQMlRlcFRfdUZYOUJtaXRUUTNNT0RSdDdHdHdFVEpXVXE2S21DakJTd2ZyeXdENDk3eUJCZVQtRjdVQ3pnbzZTTXltZERvdUZmRXVtd2ZwcU5jOE4wb0hfUXFNcS1pRzdRa2tQdDg2dENtZFpqX3YyR2JOMWlJYTM0Vzh0aW5PY2ZhcGpUVzdMZjVtMGxJMGozak9SQUR1cEVuYms?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-23T21:47:53.000Z",
-     "seen": "2026-11-24T02:29:02.280Z"
     }
    ]
   },
@@ -354,6 +356,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "لحظة الحسم وشيكة.. محكمة التحكيم الرياضي ستعلن حكمها بشأن لقب كأس الأمم الأفريقية 2025",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%85-%D9%88%D8%B4%D9%8A%D9%83%D8%A9-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%B3%D8%AA%D8%B9%D9%84%D9%86-%D8%AD%D9%83%D9%85%D9%87%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D9%84%D9%82%D8%A8-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-2025",
+     "source": "فرانس 24",
+     "time": "2026-11-24T09:16:29.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
+    },
+    {
      "title": "مباشر: المغرب والسنغال يترقبان ساعة الحسم... من الفائز بكأس أمم أفريقيا لكرة القدم 2025؟",
      "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261124-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%AA%D8%B1%D9%82%D8%A8-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
      "source": "فرانس 24",
@@ -387,13 +396,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T08:44:16.000Z",
      "seen": "2026-11-24T08:49:20.755Z"
-    },
-    {
-     "title": "آيزنكوت ونتانياهو يواصلان مباحثات تشكيل الحكومة دون تقدم ملموس وسط تباين بشأن التهديد الإيراني",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D8%B7-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-24T08:33:04.000Z",
-     "seen": "2026-11-24T08:39:20.378Z"
     },
     {
      "title": "الجوع يدخل الفصول.. طلاب سودانيون يدرسون على بطون خاوية",
@@ -503,6 +505,13 @@
      "seen": "2026-11-24T06:59:21.155Z"
     },
     {
+     "title": "تقرير: الصين سعت للحصول على رقائق الذكاء الاصطناعي قبل فضيحة «إنفيديا» بسنوات",
+     "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxObEJuUkZ1MG5OalM2b3Mzd044WGt5TTdpd01DYXphTkdyMklNMllKZlgzTHotY1RKVFlHbTdJNVdEUkg5ckZmMnNWZ25CclV2THFEdm9fTHlqckdEbzV0a2x2S2lFYVlMdmNHZUdBMG5sRnotZEo3Rk1yRldwZ1pwMldtT1RkWGdBeE1QdW1iamprbXVCdDhlVEhxQzM4WU9tb2xwV18yWVV0dEo1UnV4VGN4S1dPS0oyUGZFVUpqN1FyUXVtRlU1ajl5dVRkS2hPWWdtTU1CZWw2TlZBNko4anF0RG5QYVFJUXRFT0dmWS03MnVITHIxM0pnMnB3d0lwZktTZmx1Wi1lWlFGNnViVGNxNjU1YkVidXpfd283S0xNaUF4S1owb3pZYUpwQ0lNS2xidzh0RHVZU0k3V2VNVDBjZHBON0llblNveUFfM2lZWFl3TjhiaFJFLVprVDdIdzNWemRyTU9KcnZ6cl91ZW9LYmJIR2lRalhtT01YQUttWlE4ZmZCOEpWUk1DdnJQTWJ2OTNzc0JfV1ItajZZUHlJaE8tUl9QbzJMX0Y2QWxLQUdKaUttLUZkZmpwazQ3V1NOai1ZcWdUVDliNjNEb0ZidG9pRl85bG9tbVBDUkI1NXNJV2ItWGpDQTJmWjZSbGlhajBzWXJxTngxZ3FmWm5HWnhOZUZCSFJ0cTg3U0dnLUpaUUFvT2REMkZnamdZS25YUTlIZ0FCTFNsQ1NacDVzemh3UURyQU01YVpZTmF0RVRPS1RubFMyQ0tLc0Z5Tm1VVlh5Ry1fNy1OYm1Ha1ZURXZZT3MzLU03Q2VueS13Q3BfUFRfZFVzcHZSa0R5LWJEUWxscmNDbVBrSXAwSU5VVDJ6VEVDeUE?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-24T04:14:14.000Z",
+     "seen": "2026-11-24T09:29:21.132Z"
+    },
+    {
      "title": "اشتباه في وقوف إيران وراء هجمات سيبرانية على 50 سفينة، وعقوبات جديدة على \"شبكة الظل\" المالية لطهران",
      "url": "https://www.bbc.com/arabic/articles/cm36g5rd06wyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -539,26 +548,18 @@
      "seen": "2026-11-24T05:29:21.161Z"
     },
     {
+     "title": "حقيقة إلغاء ضريبة الهواتف المحمولة في مصر.. القصة الكاملة لتحركات البرلمان وتوجيهات رئيس الوزراء",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iUzVhaFVqbVJnczh0TmU2MU4yaFBqVWdVeXZIVGJSb2Y4bWdadWl6RGFJM05DTHN1QTVFWU1RUHNjYjU3S2NoekhjQ1ZiY3lkdWRSQnVrMnk4bHZJcTQw?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T00:48:00.000Z",
+     "seen": "2026-11-24T04:39:01.958Z"
+    },
+    {
      "title": "660 ألف امرأة.. هل يأخذ الذكاء الاصطناعي مهنة الأطباء في الكشف عن سرطان الثدي؟",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xR2FYc0FqTS1JUEYwWGNKYngtcXd3cUtjOFkwS1NrbWdsTnB0blpyREYxV3JkNjZ4bUxiRzdUWmtpUlUxODU2N3FCbnpPMlp1VFVYaU5laVVZVEtV?oc=5",
      "source": "الوطن",
      "time": "2026-11-23T21:41:07.000Z",
      "seen": "2026-11-24T05:19:21.040Z"
-    },
-    {
-     "title": "هل ألغت الحكومة ضريبة الموبايلات؟.. موقف الرسوم بعد اجتماع مدبولي وتحرك البرلمان (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaaHFzcE01MVpERE1RTTlfM2hKQloybTdZb09uTnBNUENma3VnaWhjZjZ2Q0hnTHNwRl9PRzFrTEV4WktGcDNOZ0hwaFo1LXU3QktqS0w2YmZ0Vi1aYXhB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T20:13:00.000Z",
-     "seen": "2026-11-23T20:18:41.439Z"
-    },
-    {
-     "title": "هل يجب تغيير عداد الكهرباء بعد 10 سنوات؟.. مسؤول سابق يوضح الحقيقة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rVXlCbXRSamd1ZmlnbDNCTnJoemlTTEVvc01GN2p3RkYyTU8yLTdtYUZSNTJ6Vk02b0Y4cDRoZUtvMG5GUFRzZ2ZxeFVGcnFwVkxsazI5Zi1GWnZpdFhF?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T20:06:00.000Z",
-     "seen": "2026-11-23T23:08:41.660Z",
-     "impact": "يوضح التصريح للمواطنين حقيقة الالتزامات المالية الخاصة بتبديل أجهزة قياس الاستهلاك وتكاليف الصيانة."
     }
    ]
   }
