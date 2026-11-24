@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:00:37.723Z",
+ "updated": "2026-11-24T14:10:37.540Z",
  "minute": [
   "استقبل رئيس الوزراء المصري رئيس مجلس الوزراء الانتقالي السوداني، فيما أكد وزير التخطيط أن السوق المصرية منصة للإنتاج والتصدير والتوسع الإقليمي.",
   "تواصل وزارة التموين مراجعة أرصدة السكر لتأمين احتياجات عام 2027، بالتزامن مع متابعة مستجدات سعر صرف الدولار وتأثير التوترات الإقليمية على أسعار السلع.",
@@ -10,35 +10,35 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T14:00:37.723Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T14:10:37.540Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.17,
-   "change": 1.41,
-   "asOf": "2026-11-24T13:50:57.000Z",
+   "value": 54.1,
+   "change": 1.28,
+   "asOf": "2026-11-24T14:03:53.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5515,
-   "change": 0.51,
-   "asOf": "2026-11-24T13:50:40.000Z",
+   "value": 5508,
+   "change": 0.38,
+   "asOf": "2026-11-24T14:02:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6296,
-   "change": 0.51,
-   "asOf": "2026-11-24T13:50:40.000Z",
+   "value": 6288,
+   "change": 0.38,
+   "asOf": "2026-11-24T14:02:38.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,7 +47,7 @@
    "unit": "$/أونصة",
    "value": 3619,
    "change": -0.89,
-   "asOf": "2026-11-24T13:50:40.000Z",
+   "asOf": "2026-11-24T14:02:38.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.02,
-   "asOf": "2026-11-24T13:59:48.000Z",
+   "value": 1.0972,
+   "change": 0,
+   "asOf": "2026-11-24T14:12:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.51,
-   "change": -2.08,
-   "asOf": "2026-11-24T13:50:40.000Z",
+   "value": 87.59,
+   "change": -1.99,
+   "asOf": "2026-11-24T14:02:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60020,
-   "change": -1.95,
-   "asOf": "2026-11-24T14:00:37.000Z",
+   "value": 60233,
+   "change": -1.6,
+   "asOf": "2026-11-24T14:12:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "حساباتك في خطر.. 4 أخطاء تقنية تسرق بياناتك بصمت",
-     "url": "https://www.elbalad.news/7192837",
+     "title": "رفض يديله فلوس.. القبض على حلاق تعدى على والده المسن بالضرب بالقاهرة",
+     "url": "https://www.elbalad.news/7192989",
      "source": "صدى البلد",
-     "time": "2026-11-24T14:00:00.000Z",
-     "seen": "2026-11-24T14:00:37.723Z"
+     "time": "2026-11-24T14:10:02.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
     },
     {
-     "title": "استخراج الملصق الإلكتروني 2026.. الخطوات والرسوم والشروط وغرامة عدم التركيب",
-     "url": "https://www.elbalad.news/7192823",
+     "title": "بعد خروج حسين شريك نورهان قاتلة والدتها.. حكايات أشخاص طردهم المجتمع من قراهم بعد السجن",
+     "url": "https://www.elbalad.news/7192965",
      "source": "صدى البلد",
-     "time": "2026-11-24T14:00:00.000Z",
-     "seen": "2026-11-24T14:00:37.723Z"
+     "time": "2026-11-24T14:09:51.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
     },
     {
-     "title": "هل وضع اللابتوب على الساقين يسبب السرطان أو يؤثر في الخصوبة؟.. اعرف الحقيقة",
-     "url": "https://www.elbalad.news/7192342",
+     "title": "الملتقى الثقافي المصري الإندونيسي يعزز التعاون بين شباب البلدين",
+     "url": "https://www.elbalad.news/7192987",
      "source": "صدى البلد",
-     "time": "2026-11-24T14:00:00.000Z",
-     "seen": "2026-11-24T14:00:37.723Z"
+     "time": "2026-11-24T14:09:20.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
+    },
+    {
+     "title": "«شمال يمين إحنا المصريين».. هتافات المتظاهرين بمحيط السفارة الهولندية بالقاهرة",
+     "url": "https://www.youm7.com/story/2026/11/24/«شمال-يمين-إحنا-المصريين»-هتافات-المتظاهرين-بمحيط-السفارة-الهولندية-بالقاهرة/7631091",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T13:58:00.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
+    },
+    {
+     "title": "بيان مصري سوداني مشترك: لا مساس بالسيادة أو الحقوق المائية.. والاستعداد لتفعيل اتفاقية الدفاع المشترك",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NXBDWC1qVXJRS2NLTkwwemNRNExLMVQzYU43N0VuelFuamQzR19TZ25LSHVKYW1MXzBmQWcySno2aHVjM1hpR2w5LWI3LTBNTDA1eEJkb3NubGpxNHRn?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T13:58:00.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
     },
     {
      "title": "«الحرية لأحمد ناصر».. متظاهرو السفارة الهولندية بالقاهرة يوجهون رسائل للعالم",
@@ -171,13 +185,6 @@
      "url": "https://www.youm7.com/story/2026/11/24/وزيرة-فلسطين-تروى-مأساة-غزة-فى-المنتدى-الدولى-للحماية-الاجتماعية/7630943",
      "source": "اليوم السابع",
      "time": "2026-11-24T13:44:00.000Z",
-     "seen": "2026-11-24T13:50:37.727Z"
-    },
-    {
-     "title": "الصحة العالمية: مصر تمتلك أكثر من 180 مصنعا دوائيا وتغطى 90% من احتياجاتها",
-     "url": "https://www.youm7.com/story/2026/11/24/الصحة-العالمية-مصر-تمتلك-أكثر-من-180-مصنعا-دوائيا-وتغطى/7630958",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T13:43:00.000Z",
      "seen": "2026-11-24T13:50:37.727Z"
     },
     {
@@ -228,13 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-24T09:24:00.000Z",
      "seen": "2026-11-24T09:29:21.132Z"
-    },
-    {
-     "title": "«مدبولي» يستعرض نتائج قافلة طبية نظمتها «استغاثات مجلس الوزراء» في كفر الشيخ",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ManZfanJJanQ1bWRsRzNnQzNWM0NFVkdJQmpKX2FLanczX2RjTlZMNGZqNVg5UTdGd0FYczhydDlvNUhRLWdaV2pWb1pKZTlHWXh3ZHItMER5RkxDc3ZF?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T09:23:00.000Z",
-     "seen": "2026-11-24T09:29:21.132Z"
     }
    ]
   },
@@ -243,11 +243,33 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وهجوم على أعلى ناطحة سحاب في الرياض",
+     "url": "https://www.bbc.com/arabic/articles/c6205xd02713o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T14:09:21.000Z",
+     "seen": "2026-11-24T08:29:20.977Z",
+     "impact": "تستهدف العقوبات البريطانية التوترات الإقليمية التي قد تؤثر على حركة الملاحة وسلاسل الإمداد العالمية."
+    },
+    {
+     "title": "سعر الدولار ينهى تعاملات اليوم الثلاثاء على تراجع أمام الجنيه المصرى",
+     "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNY1VORnIxa09Bak5nQ01xa2ZmYkhSR01GeERjYm5TUEkycDVTQmNrRnJpN2Rtb1FXZVltamJMUzlkSWxPY21yREhUMFRyMWpDdS1kYXIwV0xabXNJclRLVTJPYzZ0dmVuZ1E3a3VOT1I5cnktMzZaWF9zV01ETzBqWHMybEowNHV5Z0Z0WjFWQUhLQlRnVUhkZlNsZlRrekVpME04TkN4TkhoaWl1MFNyeDI3aGN2eWtHbTgtV1lFV1BGb2FZU0h3NTZCRFB0anNORjVGVGlldW9iZDB2R2VmeGJjTUhuRVh6M21MNGVsWU80ellwbi1ldjRwanJSa1BRV05QY1ZZTzl1X3A1UjBDdEFtYzJXb3NqZk9yeFk0b2UzUEFkaU9La3U4eF9QOUxwdko0RWROTGV0OUdMc01lVnQ3eVY4QzUwQzlKLS12a1BaQ2FkQXZlUkpCZjJFZTBSUFZVQzcxdU5rSzRMSlZHRXJlT1BaYVAyLWdxMUdUc3lmOTUwODJlWmlaT3lqdXpqTGQwWDhzV0NOWkNzcXFjVU9pZlpTMzc2dVFOY0xwc1VlQ0lWcnJvSkd5d2ttUC1POGRWN3VNQ1d4bWtUb2phQzJVTlE0ZnVONWcyallLdThaMV95Yld1Y2xxSUsxLTgyLU95ZXdIN2lVeGcyWWJqRGVTTDBnblHSAYIEQVVfeXFMUDN4eWo1VnAyUnBRR2dVZHFMNWt4NWZwQ2Ryd3FqMmF5cEFKUExKMmVVRDlxajBIcXRIOVVfejMybVllNkVHNmVlOHcxZVE4ME5pNnBRbkJFWGh1cDEyc3ZSV1RVMWFZY0M5RHlSRWw5LVd2NDk5Y2piS1ExOFZiWEVTOElmODc0c0ZMLVNyUkVjLV9RRW1Ma1RKU3dyaUJySW51aktDMGw0aENDQ0xVNnpFSTBNSWRVV2xzU3JSbWxaQldwUlI1WWRIUVZJRUJRZmhLVlp6ZzZJMWZOY3otOXpUYndCVy1lVGpjMTdiT284bU1rR3FHWnM4NmlTYmhibEFtLWg3Z3phVGdObzFMcWtrTkNDazgzdVFvcG5YdWo4U3o2SFlvVDh1Z1B2ZVU0Q1RrS1VKTExyeUo4ZF80R2dVRGVhbmx3dXFZakppSm8wcW5KM3Z3WWdVcWoxclRkWlRITEROX0FYTnR2c3M3dzJBZjMtRk1KUHE1bVNZX1I1c2hJd0F6bncwU3lUTUlzX2M4OG9VUjJSMzBaMDFoMXZwTW5qekQ2a0VCZGxyYXFpSWJ3WkVyMTRxSnlXQVFYM1BmVmhNV25ZV1FMNlFnY09VMVlISTZkdzU5SEZvWXBkM0d3d3RZdXF1aFh4MWoxQjNsOVpkVFhYUTZEaXI5SV9tQQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T14:00:00.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
+    },
+    {
      "title": "لماذا لا أُخبر أصحاب العمل المحتملين دائماً أنني أعاني من عسر القراءة؟",
      "url": "https://www.bbc.com/arabic/articles/cmj6lrl82pd8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-24T13:52:08.000Z",
      "seen": "2026-11-24T14:00:37.723Z"
+    },
+    {
+     "title": "مصر والسودان تؤكدان ترابط الأمن المائي وترفضان الإجراءات الأحادية الإثيوبية",
+     "url": "https://alborsaanews.com/2026/11/24/2008766",
+     "source": "البورصة",
+     "time": "2026-11-24T13:51:17.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
     },
     {
      "title": "استقرار سعر صرف الدولار أمام الجنيه في البنوك اليوم الثلاثاء \"آخر تحديث\"",
@@ -257,12 +279,18 @@
      "seen": "2026-11-24T13:50:37.727Z"
     },
     {
-     "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وأنباء عن تضرر أعلى ناطحة سحاب في الرياض",
-     "url": "https://www.bbc.com/arabic/articles/c6205xd02713o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T13:12:56.000Z",
-     "seen": "2026-11-24T08:29:20.977Z",
-     "impact": "تستهدف العقوبات البريطانية التوترات الإقليمية التي قد تؤثر على حركة الملاحة وسلاسل الإمداد العالمية."
+     "title": "البورصة تقيد «سبارك ذات غرض الاستحواذ» مؤقتاً برأسمال 10 ملايين جنيه",
+     "url": "https://alborsaanews.com/2026/11/24/2008760",
+     "source": "البورصة",
+     "time": "2026-11-24T13:45:32.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
+    },
+    {
+     "title": "فرنسا تخطط لإنشاء مخزون استراتيجي من المعادن الأرضية النادرة",
+     "url": "https://alborsaanews.com/2026/11/24/2008748",
+     "source": "البورصة",
+     "time": "2026-11-24T13:44:21.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
     },
     {
      "title": "سعر صرف الدولار اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
@@ -278,30 +306,6 @@
      "source": "BBC عربي",
      "time": "2026-11-24T12:52:49.000Z",
      "seen": "2026-11-24T13:00:38.047Z"
-    },
-    {
-     "title": "جيه بي مورجان يتوقع ارتفاع عوائد السندات الأمريكية خلال الربع الأول من 2026",
-     "url": "https://alborsaanews.com/2026/11/24/2008710",
-     "source": "البورصة",
-     "time": "2026-11-24T12:43:39.000Z",
-     "seen": "2026-11-24T13:00:38.047Z",
-     "impact": "تؤثر توقعات ارتفاع عوائد السندات الأمريكية على توجهات المستثمرين في إدارة محافظهم المالية وأصولهم."
-    },
-    {
-     "title": "“التموين” تراجع أرصدة السكر وفجوة الإنتاج والاستهلاك لتأمين احتياجات 2027",
-     "url": "https://alborsaanews.com/2026/11/24/2008720",
-     "source": "البورصة",
-     "time": "2026-11-24T12:36:33.000Z",
-     "seen": "2026-11-24T13:00:38.047Z",
-     "impact": "تطائم مراجعة المخزون الاستراتيجي للسكر المستهلكين والمستثمرين بشأن استقرار إمدادات السلع الأساسية وأسعارها."
-    },
-    {
-     "title": "1194 سفينة تدعم إيرادات “قناة السويس” بـ593 مليون دولار خلال نوفمبر",
-     "url": "https://alborsaanews.com/2026/11/24/2008718",
-     "source": "البورصة",
-     "time": "2026-11-24T12:34:12.000Z",
-     "seen": "2026-11-24T13:00:38.047Z",
-     "impact": "يعكس للمستثمرين في مصر أداء تدفقات العملة الصعبة عبر أحد أهم مصادر الإيرادات الوطنية."
     },
     {
      "title": "سعر الدولار اليوم الثلاثاء 24 نوفمبر 2026.. كم تساوي 1000 دولار بالجنيه المصري اليوم؟",
@@ -340,14 +344,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T11:08:00.000Z",
      "seen": "2026-11-24T13:40:37.437Z"
-    },
-    {
-     "title": "سعر الدولار اليوم في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoRUJZaVNPd1gyQTVuWGFqZ3RVNUR6WE1RT2xha1ZyZnRWRDh0b3FQUExfVlF6blJPdDl4VWxzX2dISHlhX3cw?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-24T10:56:00.000Z",
-     "seen": "2026-11-24T11:00:37.570Z",
-     "impact": "يهم الأفراد والمتعاملين في مصر لمتابعة أسعار صرف العملات الأجنبية في البنوك وتأثيرها على التعاملات اليومية."
     }
    ]
   },
@@ -355,6 +351,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "أرقام صادمة ـ قفزة مقلقة في جرائم العنف ضد النساء والفتيات في ألمانيا",
+     "url": "https://www.dw.com/ar/أرقام-صادمة-ـ-قفزة-مقلقة-في-جرائم-العنف-ضد-النساء-والفتيات-في-ألمانيا/a-80034581?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-24T13:57:00.000Z",
+     "seen": "2026-11-24T14:10:37.540Z"
+    },
     {
      "title": "هجوم بنغازي.. خيوط شبكة النفوذ الغامضة في مصراتة",
      "url": "https://www.skynewsarabia.com/middle-east/1906825-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A-%D8%AE%D9%8A%D9%88%D8%B7-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6%D8%A9-%D9%85%D8%B5%D8%B1%D8%A7%D8%AA%D8%A9",
@@ -433,7 +436,7 @@
      "seen": "2026-11-24T12:20:38.050Z"
     },
     {
-     "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها",
+     "title": "الحوثيون والجيش اليمني يتبادلون الاتهامات بشأن هجوم تسبب في قتلى ومفقودين في جنوب غرب البلاد",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeG40QUhUOHVtZGV3NGpOdlhIdTBVQVNCd0ZLSUJaMWpPQWxRdnlKRjhsbm00SFJuWUJVV1J5OUthSjFlS1FoU2p0bUFjM2EyZEZ5M29HNG5lekZyQUHSAWNBVV95cUxPeXZMZmxFem9pNEFNNnhCR2Y5dWl2b1JJcmh6UC1EaGtKVXhLaWZWRUV4S1Y0S0o5TGplUVQ2M0EyT3hBMXVlQ21CM3NHY0FEbjlFQ1NuR05TNkw5UzEtbW50SXc?oc=5",
      "source": "BBC",
      "time": "2026-11-24T11:55:17.000Z",
@@ -445,14 +448,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-24T10:56:00.000Z",
      "seen": "2026-11-24T12:30:37.960Z"
-    },
-    {
-     "title": "هذا هو \"الوضع الطبيعي الجديد\" في دول الخليج - فايننشال تايمز",
-     "url": "https://www.bbc.com/arabic/articles/c85y1xn7kw6ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T10:55:56.000Z",
-     "seen": "2026-11-24T11:00:37.570Z",
-     "impact": "يهم المستثمرين في مصر لفهم التحولات الاقتصادية والوضع الجديد في دول الخليج وتأثيره الإقليمي."
     }
    ]
   },
@@ -513,6 +508,14 @@
      "impact": "يهم المهتمين بقطاع الإلكترونيات في مصر للتعرف على أحدث المنتجات الذكية المتاحة ومواصفاتها الفنية."
     },
     {
+     "title": "هذا هو \"الوضع الطبيعي الجديد\" في دول الخليج - فايننشال تايمز",
+     "url": "https://www.bbc.com/arabic/articles/c85y1xn7kw6ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T10:55:56.000Z",
+     "seen": "2026-11-24T11:00:37.570Z",
+     "impact": "يهم المستثمرين في مصر لفهم التحولات الاقتصادية والوضع الجديد في دول الخليج وتأثيره الإقليمي."
+    },
+    {
      "title": "أبوظبي ودبي تتفوقان على المدن الأمريكية والصينية في مؤشر تبنّي الذكاء الاصطناعي",
      "url": "https://aitnews.com/2026/11/24/%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d9%88%d8%af%d8%a8%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -555,14 +558,6 @@
      "time": "2026-11-24T08:26:06.000Z",
      "seen": "2026-11-24T11:10:38.002Z",
      "impact": "يعكس ارتفاع أسهم الأسواق الناشئة انتعاشاً في شهية الاستثمار العالمية قد ينعكس إيجابياً على حركة رؤوس الأموال في الأسواق الإقليمية."
-    },
-    {
-     "title": "\"GTA 6\" بين الترفيه والمخاطر.. ما الذي يجب أن يعرفه الآباء؟",
-     "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUW82UDloRVdoZnVDZ3FuR1JJcFBFMG5FUnNxNGtYMHlPNklpYU1hRm54VXBEaUF0MW5UMVVBT1dVaEo4VmFGQmlQUXFlNEctODVtdlFnTVZod1JpeEpNTXp6SDhGUWlDcnZ3cUVuSDVTZjdJcE13UV9hTXdTQTFhS3Q2THd6MkFyYWNkU3dHS29wbUVrVWsyc29yWnM4dW5RZGtLLXd5ZkEtSG9vcVVIeFBjQS1TTVJlSXNMdXBiUW81M19idW00cEgyWm5ydnh4cUZ6Y25rb2pJdzNJODA4c01IVF9rYjJKV0FMSmxEeUtKcHQyV0VZeEVKSVh1UFNsRVpFU01DTnRscDNuRjFFS0JKLTR2S0xxVlFXRGt3SjFJM1lUX2JYZmpoVzRPOEVzMzRleUhzeUl2TV9Dak5Yc1NoQlppTWdsUEZPbUNxdk1IQkQtLVZ5am9YQ09XNWhObFpQcGF4TzhhaElOZ09JQXcydEjSAfoCQVVfeXFMTWhmd3RmcXFJaUMybE1tSnRaRUZjX2hRMTAza1B6WV9IMWhNc2kzWGNjb05jRWpWQ2FVaVVqSzNfZHBPdVhxczFqbk85RnNwZUhtTXNvWERTV19NNUx6NVY3UEJDNGlLZUpCa2x5NjVIc3MyMG0zLVdXYzFCbmdTdHA2UnpRelVmZWdoMW1hclJYR0wtZUVuWW5XV1NTcTlfNkxCbkQ4QzZEWUdBYkRkVy1vZVZ3MS1BU2xhRTNYY1Nma3F6Q04wWXFPNkFvbHkzSkxTRHBGb1VIRUNGeXZSQ2lHcDBLa2E2LUFFT0pnZEpSdzZlVzFBVHdUbnBfTDZZbW0zV2VFMjh1RDhxXzVJZ0FFdUVLOWw2dlZneXRQVTNJRUpWMzg1d0RhbUgwb2pDZkJLci1Cc2prd0NnX0xBRUFhNG9xdFlwcnhyVFZCYVZtMzlmRmZybUd4M3hXcUplQmpHQk5KaW1XSEF4Y2RXV00yWnJuQUFUcjh3?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T06:26:03.000Z",
-     "seen": "2026-11-24T08:19:20.442Z",
-     "impact": "تهم أولياء الأمور في مصر لمتابعة المحتوى الإلكتروني الذي يتعرض له الأبناء والتوعية بمخاطره."
     }
    ]
   }
