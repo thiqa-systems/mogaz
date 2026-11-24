@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:19:21.040Z",
+ "updated": "2026-11-24T05:29:21.161Z",
  "minute": [
   "تابع المتعاملون في مصر آخر تحديثات سعر صرف الدولار في البنوك المصرية، بالتوازي مع إتاحة منصة مصر الرقمية خدمات حجز دور المناسبات إلكترونياً وتسهيل تراخيص المحال.",
   "على صعيد المشروعات والبنية التحتية، شهد المشروع النووي المصري تسارعاً في معدلات التنفيذ، مع صدور توضيحات شأن التساؤلات المتعلقة بتبديل عدادات الكهرباء.",
@@ -9,7 +9,9 @@
   "at": "2026-11-24T05:09:21.040Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T05:29:21.161Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5555,
-   "change": 1.25,
-   "asOf": "2026-11-24T05:09:20.000Z",
+   "value": 5549,
+   "change": 1.13,
+   "asOf": "2026-11-24T05:21:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6343,
-   "change": 1.25,
-   "asOf": "2026-11-24T05:09:20.000Z",
+   "value": 6335,
+   "change": 1.13,
+   "asOf": "2026-11-24T05:21:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3638,
-   "change": -0.38,
-   "asOf": "2026-11-24T05:09:20.000Z",
+   "value": 3633,
+   "change": -0.5,
+   "asOf": "2026-11-24T05:21:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.091,
-   "change": -0.56,
-   "asOf": "2026-11-24T05:18:47.000Z",
+   "value": 1.0913,
+   "change": -0.53,
+   "asOf": "2026-11-24T05:30:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.18,
-   "change": -3.57,
-   "asOf": "2026-11-24T05:07:56.000Z",
+   "value": 85.96,
+   "change": -3.82,
+   "asOf": "2026-11-24T05:19:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60550,
-   "change": -1,
-   "asOf": "2026-11-24T05:19:17.000Z",
+   "value": 60658,
+   "change": -0.82,
+   "asOf": "2026-11-24T05:31:03.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,26 +139,25 @@
    "title": "مصر",
    "items": [
     {
+     "title": "طرق إستخراج صحيفة الحالة الجنائية",
+     "url": "https://www.elbalad.news/7192330",
+     "source": "صدى البلد",
+     "time": "2026-11-24T05:24:04.000Z",
+     "seen": "2026-11-24T05:29:21.161Z"
+    },
+    {
+     "title": "قطر وأمريكا تبحثان تعزيز الشراكة الاستراتيجية وتوقعان اتفاقيات في الذكاء الاصطناعي والمعادن الحرجة",
+     "url": "https://www.elbalad.news/7192327",
+     "source": "صدى البلد",
+     "time": "2026-11-24T05:22:37.000Z",
+     "seen": "2026-11-24T05:29:21.161Z"
+    },
+    {
      "title": "من التعقيدات الإدارية إلى الإيداع المباشر.. كيف أعاد القانون تنظيم شهر أراضي الدولة؟",
      "url": "https://www.elbalad.news/7192016",
      "source": "صدى البلد",
      "time": "2026-11-24T05:09:08.000Z",
      "seen": "2026-11-24T05:19:21.040Z"
-    },
-    {
-     "title": "سعر الدولار اليوم في مصر الثلاثاء 24-11-2026 بالبنوك المصرية",
-     "url": "https://www.elbalad.news/7192285",
-     "source": "صدى البلد",
-     "time": "2026-11-24T05:07:03.000Z",
-     "seen": "2026-11-24T05:09:21.040Z",
-     "impact": "يساعد متابعة سعر صرف الدولار الأفراد والمستثمرين على تقييم أسعار السلع وتخطيط الميزانيات المالية والمعاملات الاقتصادية."
-    },
-    {
-     "title": "فضيحة تجسس داخل مستشفيات أستراليا.. طبيب يصور 871 امرأة خلسة داخل دورات المياه",
-     "url": "https://www.elbalad.news/7192302",
-     "source": "صدى البلد",
-     "time": "2026-11-24T05:05:31.000Z",
-     "seen": "2026-11-24T05:09:21.040Z"
     },
     {
      "title": "مصر الرقمية تتيح حجز دور المناسبات لعقد القران والعزاء إلكترونيا.. اعرف الشروط",
@@ -385,24 +386,24 @@
      "seen": "2026-11-24T04:39:20.848Z"
     },
     {
+     "title": "بعد خروج كتائب حزب الله العراقي.. حلم مؤجل يراود نازحي جرف الصخر",
+     "url": "https://www.aljazeera.net/politics/2026/11/24/%d8%a8%d8%b9%d8%af-%d8%ae%d8%b1%d9%88%d8%ac-%d9%83%d8%aa%d8%a7%d8%a6%d8%a8-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%84%d9%87-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d8%ad%d9%84%d9%85?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T01:57:31.000Z",
+     "seen": "2026-11-24T05:29:21.161Z"
+    },
+    {
+     "title": "بين \"نفايات الذكاء الاصطناعي\" وصداقة الروبوت.. كيف تحمي وعي طفلك؟",
+     "url": "https://www.aljazeera.net/family/2026/11/24/%d8%a8%d9%8a%d9%86-%d9%86%d9%81%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%88%d8%b5%d8%af%d8%a7%d9%82%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T01:57:00.000Z",
+     "seen": "2026-11-24T05:29:21.161Z"
+    },
+    {
      "title": "زيلينسكي يحذر من هجمات روسية جديدة وسط تصعيد ميداني متبادل",
      "url": "https://www.aljazeera.net/news/2026/11/24/%d8%aa%d8%b5%d8%b9%d9%8a%d8%af-%d9%85%d8%aa%d8%a8%d8%a7%d8%af%d9%84-%d8%a8%d9%8a%d9%86-%d9%85%d9%88%d8%b3%d9%83%d9%88-%d9%88%d9%83%d9%8a%d9%8a%d9%81?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-24T01:47:52.000Z",
-     "seen": "2026-11-24T04:59:20.450Z"
-    },
-    {
-     "title": "مهذب في حياتك وعدواني في سيارتك.. 5 أسباب نفسية تفسر \"انفصام الطريق\"",
-     "url": "https://www.aljazeera.net/lifestyle/2026/11/24/%d9%85%d9%87%d8%b0%d8%a8-%d9%81%d9%8a-%d8%ad%d9%8a%d8%a7%d8%aa%d9%83-%d9%88%d8%b9%d8%af%d9%88%d8%a7%d9%86%d9%8a-%d9%81%d9%8a-%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%83-5-%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T01:44:00.000Z",
-     "seen": "2026-11-24T04:59:20.450Z"
-    },
-    {
-     "title": "ترمب الجريح أخطر من ترمب المنتصر",
-     "url": "https://www.aljazeera.net/opinions/2026/11/24/%d8%aa%d8%b1%d9%85%d8%a8-%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%ad-%d8%a3%d8%ae%d8%b7%d8%b1-%d9%85%d9%86-%d8%aa%d8%b1%d9%85%d8%a8-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b5%d8%b1?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T01:37:56.000Z",
      "seen": "2026-11-24T04:59:20.450Z"
     },
     {
@@ -482,6 +483,13 @@
      "seen": "2026-11-24T02:59:01.773Z"
     },
     {
+     "title": "اتشقلبت أحوال الدنيا بالتكنولوجيا.. والذكاء الاصطناعى قادم!",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpOVFlWEJFeXYtdFlzQjhEWTVKcjRIQXVZMFNoQzVEZThnOTFlQk1RMjBFaTBxTTFxdnRuc1JxU3hVek41VTAtOXNDUExWMzF5MTZjaXJXVmZ0UDFWZG5V?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T01:05:00.000Z",
+     "seen": "2026-11-24T05:29:21.161Z"
+    },
+    {
      "title": "تسارع العمل في المشروع النووي المصري",
      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOMkFiMlpPVzY4ZWdGOWUtMVNvNll6c1JMV1dBSS1icjNKNWlhWlItOHJWRm9PSGtfd0lhZkoyWmItVGk3OERSTVg5QU1qSmRnR21MMFNlU2Z4VFh2SUpTXzNadThDY1U0cFQxd1VkNXltVkFKSEVOVFlSTFh0QWRfZ2JHTURoaHdMN2t3ZlRkZ2Z2VlB2OHlCQ1IxVWtiY3lXa3ZhelFXSGZrUHROMkpBWFJvR0ZNTExrdzcyeG5YcnZZV09MUndXb2hnbWdTYlJFbVRNaHR3RmdJQ0JnN2tPRVRWR29vVDRRa2hUNElGS0R1RVk1eDJEZXBheXlIU3JIbmdLOGdiaGZZcVlTbldoanNoSXRNV2FpbEtJdC1wQzZraXR2bTh1MXdybklRRUJPLWxqajYtSnV4d3hkb2hqLWZxcWRrRzh2NC05d2pSU3lEWmRsVWVsV2ZlTWNZZWhaX3o5UGZOMnpPMWw3SGlvX0tsSjRNM2lhclROS01vZkJvX0czUXZvalZTajFhUTVyMDVzM0RrNXRJQVZfRzdydkR1SWVVeGRCMmVxZlduZ1BUTklZUmx6cjNkT3E0eG4yNVRyRGRkNjUxZldxQkZNS3IxVndFdXhpR2MwYm1zX0hLUXM4ZEczLWhObExPdERiT1hZWWpNYXdWckpk?oc=5",
      "source": "الشرق الأوسط",
@@ -553,13 +561,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-23T18:43:00.000Z",
      "seen": "2026-11-24T04:59:20.450Z"
-    },
-    {
-     "title": "شركات تستعين بالذكاء الاصطناعي لتقليص خصومات \"الجمعة السوداء\"",
-     "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNT1o2cXNSUTBVOW5OdzVsLXd1WFJjNUdweDhQaE1aRlFfVW5maG9XRnRjaU5JTEJtNF9lMzlrYm9id2czcHJ5ZjdzSVJzUEFqZlRUMXdiMncxeHFHRnlCTGpEcUpfbHl2QzJJUUhKWGtwZkcxdUxWQTdIN2Vxc3VpSTN2NzVtRk9KdFA4NDlOVFQ4RmthMktQQ2NEVlR2c25XdHQ0TmpDTVNuOWY5RjZoUFFDOXlHU0lRM3FraERwNW5fb2UwYXVkWmpzMVVRM19vS0lMRWM2cFVBV1oxa3c3RE9hU2tWUEF6d1lBbHVtbGZ6V0dOSEJ4S3VHb042OHBzZTFmNmhGNUdPQjl2NXZ2SWk2SC1pamtWTTBSampUdDlUa1d3bnBqeHE4TXNHUlQ3cTdHTUd2SkQ3bjE3QkZCZ05fZ0ExaEt3bmdmdkxuRUxTNTYtSVpoZ0ZLZ2NhUi1taWpjUko0VzQ4RTF6NlRQZUJQaVlMQWtaV3lwd3Z6MnlQTkEwOC1vNVhVeEZOMkU1MzJVY0ZGN1RudnNtbGFCYlpLenpHaTNqaHc1MGprSlc5YVJZVWtDUXJnOGhOTi1ZVVZsZ1Ziang3NGRDVzVvMjJ0QWVadjlfMlRxLTQ4TTdUS3lOTFhBU1FidnM1eXZiODVvd3R2elI?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-23T18:20:50.000Z",
-     "seen": "2026-11-23T22:28:42.089Z"
     }
    ]
   }
