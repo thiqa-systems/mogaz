@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-24T22:01:27.774Z",
+ "updated": "2026-11-24T22:11:27.853Z",
  "minute": [
-  "تتطلع مصر لتوفير 70 مليار دولار استثمارات أجنبية لدعم النمو الاقتصادي، بينما يستهدف جهاز تنمية المشروعات ضخ 500 مليون جنيه للمصدرين.",
-  "تتجه تطبيقات المراسلة مثل سيجنال وواتساب لإطلاق ميزات حظر التقاط الشاشة لحماية بيانات المحادثات من التجسس ومحركات الذكاء الاصطناعي.",
-  "أُعلنت تفاصيل مواعيد ورحلات السوبر جيت بين القاهرة والمنيا، إلى جانب التوسع في المشغلات التدريبية المخصصة للمرأة المعيلة.",
-  "شهدت الساحة الدولية تصريحات ترامب بشأن تدمير القدرات العسكرية الإيرانية، وتعيين رئيس جديد لهيئة المنافذ العراقية."
+  "شهدت الأخبار المحلية الإعلان عن تغطية 90% من الاحتياجات الدوائية في مصر عبر أكثر من 180 مصنعاً، مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
+  "وعلى الصعيد الاقتصادي، أُعلن عن طلب 70 مليار دولار استثمارات أجنبية لدعم النمو، وتوجه لجهاز تنمية المشروعات لضخ 500 مليون جنيه لدعم المصدرين.",
+  "وفي الشأن التكنولوجي، أطلق تطبيق سيجنال ميزة حجب لقطات الشاشة لحماية المحادثات، فيما تكبدت شركة أنثروبيك خسائر سوقية بعد أول يوم تداول.",
+  "كما تضمنت الأخبار تنبيهات عن حالة الطقس وانخفاض الحرارة، إلى جانب متابعات لأحداث رياضية وإقليمية متنوعة."
  ],
  "ai": {
-  "at": "2026-11-24T21:41:28.137Z",
+  "at": "2026-11-24T22:11:27.853Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T22:01:27.774Z"
+  "key": 2,
+  "impacts": 10
  },
  "markets": [
   {
@@ -28,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5413,
-   "change": -1.34,
-   "asOf": "2026-11-24T21:51:16.000Z",
+   "value": 5418,
+   "change": -1.26,
+   "asOf": "2026-11-24T21:59:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6181,
-   "change": -1.34,
-   "asOf": "2026-11-24T21:51:16.000Z",
+   "value": 6185,
+   "change": -1.26,
+   "asOf": "2026-11-24T21:59:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3552,
-   "change": -2.71,
-   "asOf": "2026-11-24T21:51:16.000Z",
+   "value": 3555,
+   "change": -2.64,
+   "asOf": "2026-11-24T21:59:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0971,
-   "change": 0,
-   "asOf": "2026-11-24T22:00:47.000Z",
+   "value": 1.0966,
+   "change": -0.05,
+   "asOf": "2026-11-24T22:11:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.48,
-   "change": -1,
-   "asOf": "2026-11-24T21:51:20.000Z",
+   "value": 88.5,
+   "change": -0.97,
+   "asOf": "2026-11-24T21:59:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59859,
-   "change": -2.21,
-   "asOf": "2026-11-24T22:01:26.000Z",
+   "value": 59879,
+   "change": -2.18,
+   "asOf": "2026-11-24T22:11:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,18 +138,41 @@
    "title": "مصر",
    "items": [
     {
-     "title": "درجات الحرارة اليوم الأربعاء 25 نوفمبر 2026.. الصغرى بالقاهرة 14 درجة",
-     "url": "https://www.youm7.com/story/2026/11/25/درجات-الحرارة-اليوم-الأربعاء-25-نوفمبر-2026-الصغرى-بالقاهرة-14/7630765",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:01:27.774Z"
+     "title": "ريال مدريد يكتسح آيندهوفن بخماسية ويعتلي صدارة دوري أبطال أوروبا",
+     "url": "https://www.elbalad.news/7193556",
+     "source": "صدى البلد",
+     "time": "2026-11-24T22:10:52.000Z",
+     "seen": "2026-11-24T22:11:27.853Z"
     },
     {
-     "title": "مواقيت الصلاة اليوم الأربعاء 25 نوفمبر 2026 بمحافظات الجمهورية",
-     "url": "https://www.youm7.com/story/2026/11/25/مواقيت-الصلاة-اليوم-الأربعاء-25-نوفمبر-2026-بمحافظات-الجمهورية/7630408",
+     "title": "انتحل صفة موظف بشركة الاتصالات .. كيف يُواجه القانون المتهم؟",
+     "url": "https://www.elbalad.news/7193547",
+     "source": "صدى البلد",
+     "time": "2026-11-24T22:08:25.000Z",
+     "seen": "2026-11-24T22:11:27.853Z"
+    },
+    {
+     "title": "متحدث الخارجية: مصر تسعى لاحتواء الأزمات والحروب لا تحسم بالميدان",
+     "url": "https://www.youm7.com/story/2026/11/25/متحدث-الخارجية-مصر-تسعى-لاحتواء-الأزمات-والحروب-لا-تحسم-بالميدان/7631539",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T22:06:00.000Z",
+     "seen": "2026-11-24T22:11:27.853Z"
+    },
+    {
+     "title": "أخبار × 24 ساعة.. الصحة العالمية: مصر تمتلك أكثر من 180 مصنعا دوائيا وتغطى 90% من احتياجاتها",
+     "url": "https://www.youm7.com/story/2026/11/25/أخبار-×-24-ساعة-الصحة-العالمية-مصر-تمتلك-أكثر-من/7631385",
      "source": "اليوم السابع",
      "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:01:27.774Z"
+     "seen": "2026-11-24T22:11:27.853Z",
+     "impact": "يطمئن الأفراد والمستثمرين في القطاع الطبي على استقرار الإمدادات وتوافر المستحضرات الدوائية في السوق المحلي."
+    },
+    {
+     "title": "انخفاض الحرارة وشبورة كثيفة.. تفاصيل الطقس اليوم الأربعاء 25 نوفمبر 2026",
+     "url": "https://www.youm7.com/story/2026/11/25/انخفاض-الحرارة-وشبورة-كثيفة-تفاصيل-الطقس-اليوم-الأربعاء-25-نوفمبر/7630752",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:11:27.853Z",
+     "impact": "يساعد الأفراد في اتخاذ الاحتياطات اللازمة أثناء السفر والتنقل بسبب الشبورة وانخفاض درجات الحرارة."
     },
     {
      "title": "أخبار التوك شو | أحمد موسى يطالب بثورة داخل الأهلي ويحذر من GTA 6.. وزير الكهرباء يكشف مستهدفات الطاقة النووية.. ومصر تتمسك باستقرار غزة ورفض الكيانات الموازية في السودان",
@@ -159,28 +180,6 @@
      "source": "صدى البلد",
      "time": "2026-11-24T22:00:00.000Z",
      "seen": "2026-11-24T22:01:27.774Z"
-    },
-    {
-     "title": "الذهب يفاجئ الأسواق.. انهيار جديد في أسعار المعدن الأصفر",
-     "url": "https://www.elbalad.news/7193484",
-     "source": "صدى البلد",
-     "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:01:27.774Z"
-    },
-    {
-     "title": "مسرب لعبة GTA VI يحصل على حكم بالسجن 7 سنوات ويخرج فوراً",
-     "url": "https://www.elbalad.news/7193456",
-     "source": "صدى البلد",
-     "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:01:27.774Z"
-    },
-    {
-     "title": "تعرف على مواعيد رحلات سوبر جيت بين القاهرة والمنيا وطرق الحجز",
-     "url": "https://www.youm7.com/story/2026/11/24/تعرف-على-مواعيد-رحلات-سوبر-جيت-بين-القاهرة-والمنيا-وطرق/7631511",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T21:30:00.000Z",
-     "seen": "2026-11-24T21:31:27.817Z",
-     "impact": "يساعد المسافرين بين القاهرة والمنيا في التعرف على مواعيد الرحلات وطرق الحجز لتسهيل التنقل."
     },
     {
      "title": "مدبولي يناقش مع اللجنة الاستشارية السياسية تطورات الأوضاع.. ودعوات للمصارحة",
@@ -245,6 +244,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "ثبات سعر الدولار مقابل الجنيه فى البنوك اليوم الأربعاء 25 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOUXg2d1lXN3RHNTBiMERLU2ZuN1lrNEd1U2ZYSHN6TUFZLUx3YzJYMEtMcy1vTEFuZ3JZdlNYSWdkdnExT3NMTTdzRTlBbk1nVkI2Q3R0bzllbjFfUkg4amFTd0U3QUc0YUxzQUFDYWUtcE9ZYjBjYVg2OGxqalo2SnpGTEhtYVRvdVh1RkpzMGZmYWtzZzlmV2Z4T1VJSGtIV0NkU0l1c2NaVEh2SjFMZHRpMUNKN1B6eE1ST0NpSUlyLXNTTG5NcVIzblo3ZTRRdmpqOHBiU2UwdXVPWTAwbllFN25OR3dubDBtdU9CZE41YTAxVnUxTFNQRDR6OFM2T1J4RTFpRG1MLVpmSDhvTzNmZlp5ZmN2OHYxSDgzbW42YVFLbGx4UFJFVm05NkotckZaMF95M0x5TWFMNzROVjJBcFZYZnlyVERldnVkRnZuX3dMeFF6UFFjYXJpOE5qODZQZXlrVkptN091V3BJcndiN0lMcmpVTXVtV1dyRFZmUlZEWWhGRHFCREtBMnA2czdoWDVWbTF0N1BfQkZiRHdHdFNaSGVIdlF2TDI0dmt2NTh1N3NoejdzcXRQVGlxd0pVQml4OTFYRVgtWi1KZkJIWlBzdU9zZnfSAdQDQVVfeXFMTnI0WUxWQ0pqY1U5VXJQV2Y0NC1HcG5kNDFiQW1LbUdVajFZZU9nMXA2ckV5dmdDQWRWVkltOU9ZNWt2Z1pGY1BiYVZjNUxDLVhsdzV3bmw4WUVUSFV5QjQyOTBQM1ZMVHRnU3Z0RDZTaEg5VUpjQ1B5YkZfVFctNHkweE5vemdZUFE1Y3ZXVEtsSWRONkVmMUxyTk9uNllxamltN0c4cW16T0xaSVF2Q2RYa1pWX0U2X3AydF9ZUFYtZTdSVnR2c18wV1p0WW1UM0JuZ0ZyY3o1WFNJaHQ4Z1djOHpnbllqUVVKbmh4Qm12X0liVUtvaW5mazBhZURzcEpPcHpOVmRKTlUtWElSd1JjVEM0MXlVTk1ZNVJnNU1Ja0pZUVJaWmFBSVpTWEc3OE9HRURiS1pVWnhfTTRFZ3BzNHdCM0FOSUEwdGNpczk0N3BSMVpadG4zYUJqMDRwdjNtVUdkdDROSEJFNDRUbWUyUGhsR1R6QXhiSkRTcXMzd0tfMlIzRlFxeWU1WWY0LXJuSDZESDBmVVBVdklOVTQ2UjlYYi1NTzd6cDEzZzJYbnlzNGJEdTM4b0JZUEx0TzdVU0hHR3cteHZRN1JkNDdBcWd4?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T22:00:00.000Z",
+     "seen": "2026-11-24T22:11:27.853Z",
+     "impact": "يعزز ثبات سعر الدولار استقرار التكاليف على المستوردين والتجار ويمنح المستهلك رؤية أوضح للأسعار."
+    },
+    {
      "title": "البابا فرنسيس في مذكراته: \"رأيت الشيطان ثلاث مرات\"",
      "url": "https://www.bbc.com/arabic/articles/cmkgdjxzzx7ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -257,7 +264,7 @@
      "source": "البورصة",
      "time": "2026-11-24T20:41:18.000Z",
      "seen": "2026-11-24T21:11:12.187Z",
-     "impact": "يوضح للمستثمرين حجم الاستثمارات الأجنبية المستهدفة لدعم النمو الاقتصادي في مصر خلال الفترة المقبلة."
+     "impact": "يُوضح للمستثمرين الحجم الاستثماري المستهدف والفرص المتاحة لدعم نمو القطاعات الاقتصادية في مصر."
     },
     {
      "title": "«الشمس للمقاولات» تستهدف رفع حجم أعمالها إلى 5 مليارات جنيه العام المقبل",
@@ -265,7 +272,7 @@
      "source": "البورصة",
      "time": "2026-11-24T20:38:08.000Z",
      "seen": "2026-11-24T21:11:12.187Z",
-     "impact": "يعطي صورة لمستثمري قطاع المقاولات والبناء حول خطط توسع شركة الشمس وحجم أعمالها المستهدف."
+     "impact": "يعكس للمستثمرين في قطاع التشييد والبناء حركة النمو وحجم الأعمال المتوقع لشركات المقاولات."
     },
     {
      "title": "“تنمية المشروعات” يعتزم ضخ 500 مليون جنيه لدعم المصدرين بنهاية الربع الأول من 2027",
@@ -273,7 +280,7 @@
      "source": "البورصة",
      "time": "2026-11-24T20:33:58.000Z",
      "seen": "2026-11-24T21:11:12.187Z",
-     "impact": "يهتم به المصدرون في مصر لمتابعة التمويلات والدعم المالي المرتقب من جهاز تنمية المشروعات."
+     "impact": "يُفيد المصدرين وأصحاب المشروعات الصغيرة بدعم تمويلي مرتقب يساعدهم على توسيع نشاطهم التصديري."
     },
     {
      "title": "سعر صرف الدولار مقابل الجنيه في المركزي والبنوك المصرية اليوم الثلاثاء (آخر تحديث)",
@@ -282,6 +289,13 @@
      "time": "2026-11-24T20:17:00.000Z",
      "seen": "2026-11-24T20:21:12.120Z",
      "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة تحديثات سعر صرف الدولار وتأثيره على سوق الصرف والأسعار."
+    },
+    {
+     "title": "أعرف سعر الدولار بكام فى البنك التجارى الدولى اليوم الثلاثاء",
+     "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQdVk4aWFjRWVLeXpJMXFPYUVtRUhRTjVoT19VNzVreGVMUzBzOGZNcWp5RjZRTmNwTEJldVJBb01xd1pwYU9DUFIyX1pDQjhzdHItSmVQUmdmMnZ4amh4R3BMT1g5N18yUjJHenZLRkdJSFRJZVhtdHRrMktqSlNxd2lwZzR5RlQ2VXR3Z0lNV09SN1pnb2NCU2gwZVphenNZdXpzMEZvVjVsLWFMWFV2dGpIU0hwaFh1aThNT1NMWDBSTldaaUVBRy1WQUxpV2pRRVpsTWJFcUttODk1LW5wZklrWWZSVE4xNHNlTUtOQ0FxREJ5elFkUGYxb1ZPTnlmdGVGZnZmdEtrbE9jbnBDTGhNSlpXYVZiRzFvYXFYNkk0dy1iOXhkSFV6NFk1UndKUU82Qm00NWpCb19pTk1KWW1pd3o1Z1o1azIwcmM0NFhlYkxCcUkxYjBsaGFOY1hTZDdralkySTJsZDUycWc0bzJGWEZXRVE5ejJiazdaVDRvdnZxcWk4ejk2cnVJQk5qSEpoaF9YQUM0VU02cXM3WHFKb05qeVluVFlDbmxna3pHR1BVdVpkbFlieHlqZ3NPUnlITUtIcUtuU3hfbVBKU1FBMXJfSTYwb09uSHVmQXByOWJzQTIzdWQ3SmVPUjQ1UnRFS21UVjFBUdIB-gNBVV95cUxQdVk4aWFjRWVLeXpJMXFPYUVtRUhRTjVoT19VNzVreGVMUzBzOGZNcWp5RjZRTmNwTEJldVJBb01xd1pwYU9DUFIyX1pDQjhzdHItSmVQUmdmMnZ4amh4R3BMT1g5N18yUjJHenZLRkdJSFRJZVhtdHRrMktqSlNxd2lwZzR5RlQ2VXR3Z0lNV09SN1pnb2NCU2gwZVphenNZdXpzMEZvVjVsLWFMWFV2dGpIU0hwaFh1aThNT1NMWDBSTldaaUVBRy1WQUxpV2pRRVpsTWJFcUttODk1LW5wZklrWWZSVE4xNHNlTUtOQ0FxREJ5elFkUGYxb1ZPTnlmdGVGZnZmdEtrbE9jbnBDTGhNSlpXYVZiRzFvYXFYNkk0dy1iOXhkSFV6NFk1UndKUU82Qm00NWpCb19pTk1KWW1pd3o1Z1o1azIwcmM0NFhlYkxCcUkxYjBsaGFOY1hTZDdralkySTJsZDUycWc0bzJGWEZXRVE5ejJiazdaVDRvdnZxcWk4ejk2cnVJQk5qSEpoaF9YQUM0VU02cXM3WHFKb05qeVluVFlDbmxna3pHR1BVdVpkbFlieHlqZ3NPUnlITUtIcUtuU3hfbVBKU1FBMXJfSTYwb09uSHVmQXByOWJzQTIzdWQ3SmVPUjQ1UnRFS21UVjFBUQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T20:03:58.000Z",
+     "seen": "2026-11-24T22:11:27.853Z"
     },
     {
      "title": "ماذا تكشف هجمات بنغازي عن دور روسيا وأوكرانيا في ليبيا؟",
@@ -332,22 +346,6 @@
      "source": "العربية",
      "time": "2026-11-24T16:54:00.000Z",
      "seen": "2026-11-24T19:01:11.490Z"
-    },
-    {
-     "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNXdhei1kdldvTDI4Y0JjVnJnMFZvWmZhQ29vclRjbzZWVTVGbE9BVlVTeEx2YjZOdUF6RWYzMFJnMkxiYnZZREZlbS1vVm9YYzBYbXNxZW9xcmgwY0ZNUU5abE1nUUJHMGc0QVpVeGxhWXpiVnpCckctVHpDMHl3b1FYQWd2WmxkMTU3eWtXeWdSY05ld0M1OWJDQjdkSmhQRFNYYWdaOHBoY0JCUkkteldKNUpiemNnOUtvV2xOQ0NzN1R0M010WE1mTFd3X0ZJbkhaYlNkUm83MjdhQ2dnaXFKUVUxak9JUHA0RDdjX04zN3o0WkRLMmN1TkFMQzkxUXJXN2ZwLVBGMHZ4dVdSbVlnbmVoSUVjZkhkYkNfeXNJdmpxRUxiYWhEdXVBanRhVGduQ2J3TWE3WVl5NHFyektjcjZnN05LS3RxaTB2bVd1Ti1WOW1oUlo0Smk2Vk1YVGtoMlB6MmdYSk00WWUyTlJFcTRwdzIwYU5RaWZwQWZWS210THE4TUVDLXBTVnJBZ1pEUFFLVVRMT3VMMXgyTEoyYVhhRVpSRjlaeWxXamxyd2VpNERzanl1VFBxekFEanpNUGttc2tGQWZWZ2kyR3VvVlBjYkc5SERZeHdLak1Pd9IB4gNBVV95cUxPNXdhei1kdldvTDI4Y0JjVnJnMFZvWmZhQ29vclRjbzZWVTVGbE9BVlVTeEx2YjZOdUF6RWYzMFJnMkxiYnZZREZlbS1vVm9YYzBYbXNxZW9xcmgwY0ZNUU5abE1nUUJHMGc0QVpVeGxhWXpiVnpCckctVHpDMHl3b1FYQWd2WmxkMTU3eWtXeWdSY05ld0M1OWJDQjdkSmhQRFNYYWdaOHBoY0JCUkkteldKNUpiemNnOUtvV2xOQ0NzN1R0M010WE1mTFd3X0ZJbkhaYlNkUm83MjdhQ2dnaXFKUVUxak9JUHA0RDdjX04zN3o0WkRLMmN1TkFMQzkxUXJXN2ZwLVBGMHZ4dVdSbVlnbmVoSUVjZkhkYkNfeXNJdmpxRUxiYWhEdXVBanRhVGduQ2J3TWE3WVl5NHFyektjcjZnN05LS3RxaTB2bVd1Ti1WOW1oUlo0Smk2Vk1YVGtoMlB6MmdYSk00WWUyTlJFcTRwdzIwYU5RaWZwQWZWS210THE4TUVDLXBTVnJBZ1pEUFFLVVRMT3VMMXgyTEoyYVhhRVpSRjlaeWxXamxyd2VpNERzanl1VFBxekFEanpNUGttc2tGQWZWZ2kyR3VvVlBjYkc5SERZeHdLak1Pdw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T16:02:45.000Z",
-     "seen": "2026-11-24T17:01:11.405Z",
-     "impact": "يهتم به الأفراد والمستثمرون في مصر لمتابعة أسعار الصرف الرسمية والتي تؤثر على أسعار السلع والتعاملات التجارية."
-    },
-    {
-     "title": "سعر الدولار اليوم الثلاثاء 24 نوفمبر 2026.. تراجع جديد أمام الجنيه في ختام التعاملات بالبنوك",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfQU9pZzVRUUtEcS1aUk5FZHlhUmVIalFmdXItb2UySHpJOVEtMnhXU00tRFhFNHlHUXFpeVlYSmJ5RDdhdWVTNnk3N3l3N1JJaTdUZ3gyVEJ5NUFrSnJB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T15:35:00.000Z",
-     "seen": "2026-11-24T15:40:37.924Z",
-     "impact": "يؤثر تراجع سعر الدولار أمام الجنيه على تكلفة الواردات والمعاملات المالية للمواطنين والمستثمرين في مصر."
     }
    ]
   },
@@ -368,7 +366,7 @@
      "source": "DW عربية",
      "time": "2026-11-24T21:09:00.000Z",
      "seen": "2026-11-24T21:21:27.676Z",
-     "impact": "يساعد أولياء الأمور في اتخاذ خطوات عملية تنظيمية لاستخدام أطفالهم للهواتف الذكية بشكل متوازن."
+     "impact": "يقدم لأولياء الأمور توجيهات مفيدة للتعامل مع استخدام الأبناء للهواتف الذكية دون اللجوء للمنع التام."
     },
     {
      "title": "بعد أزمة تهريب النفط.. العراق يعين رئيسا جديدا لهيئة المنافذ",
@@ -466,7 +464,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-24T21:16:41.000Z",
      "seen": "2026-11-24T21:21:27.676Z",
-     "impact": "يهتم به مستخدمو الذكاء الاصطناعي والتطبيقات لمتابعة تحديثات حماية بياناتهم وشاشات محادثاتهم."
+     "impact": "يزيد من توعية الأفراد حول الميزات الرقمية المتاحة لحماية خصوصية بياناتهم ومحادثاتهم عبر التطبيقات."
     },
     {
      "title": "لعبة GTA VI تتجاوز 364 مليون ساعة مشاهدة على منصات البث في يومين",
@@ -480,7 +478,8 @@
      "url": "https://www.tech-wd.com/wd/2026/11/25/%d8%a3%d9%86%d8%ab%d8%b1%d9%88%d8%a8%d9%8a%d9%83-%d8%aa%d9%81%d9%82%d8%af-%d9%85%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d9%82%d9%8a%d9%85%d8%aa%d9%87/",
      "source": "عالم التقنية",
      "time": "2026-11-24T21:04:09.000Z",
-     "seen": "2026-11-24T21:11:12.187Z"
+     "seen": "2026-11-24T21:11:12.187Z",
+     "impact": "يُطلع المستثمرين المهتمين بقطاع التكنولوجيا على تقلبات المخاطر والتقييمات المالية لشركات الذكاء الاصطناعي."
     },
     {
      "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
@@ -495,7 +494,7 @@
      "source": "Masrawy",
      "time": "2026-11-24T18:05:26.000Z",
      "seen": "2026-11-24T21:01:11.813Z",
-     "impact": "يفيد المستخدمين في مصر المهتمين بالأمان الرقمي للتحقق من مدى سلامة تطبيق Instinct AI قبل تثبيته."
+     "impact": "يساعد الأفراد والمختصين في مصر على معرفة درجة أمان التطبيقات الحديثة والتعامل معها بحذر."
     },
     {
      "title": "واتساب يختبر رسائل تختفي بعد قراءتها على آيفون.. وتمنع تصوير الشاشة",
@@ -567,17 +566,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
-  {
-   "section": "economy",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
