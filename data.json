@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:49:21.161Z",
+ "updated": "2026-11-24T04:59:20.450Z",
  "minute": [
   "تناولت الأخبار المصرية متابعة تحديثات أسعار صرف الدولار مقابل الجنيه بالبنوك، وإعلان مواعيد رحلات قطار تالجو.",
   "تطرقت العناوين التكنولوجية والمحلية إلى تسارع العمل في المشروع النووي المصري وتوضيح حقيقة تغيير عدادات الكهرباء بعد 10 سنوات.",
@@ -9,7 +9,9 @@
   "at": "2026-11-24T04:39:20.848Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T04:59:20.450Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5542,
-   "change": 1.01,
-   "asOf": "2026-11-24T04:39:19.000Z",
+   "value": 5551,
+   "change": 1.17,
+   "asOf": "2026-11-24T04:49:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6328,
-   "change": 1.01,
-   "asOf": "2026-11-24T04:39:19.000Z",
+   "value": 6338,
+   "change": 1.17,
+   "asOf": "2026-11-24T04:49:46.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3629,
-   "change": -0.62,
-   "asOf": "2026-11-24T04:39:19.000Z",
+   "value": 3635,
+   "change": -0.46,
+   "asOf": "2026-11-24T04:49:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0912,
-   "change": -0.54,
-   "asOf": "2026-11-24T04:48:46.000Z",
+   "value": 1.0911,
+   "change": -0.55,
+   "asOf": "2026-11-24T04:59:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.3,
-   "change": -3.44,
-   "asOf": "2026-11-24T04:37:58.000Z",
+   "value": 86.14,
+   "change": -3.61,
+   "asOf": "2026-11-24T04:49:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60405,
-   "change": -1.24,
-   "asOf": "2026-11-24T04:49:18.000Z",
+   "value": 60298,
+   "change": -1.41,
+   "asOf": "2026-11-24T04:59:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "أمير هشام يثير الجدل بشأن عموتة وغرفة ملابس الأهلي.. ويتساءل عن جدوى أسلوبه مع اللاعبين",
+     "url": "https://www.elbalad.news/7192310",
+     "source": "صدى البلد",
+     "time": "2026-11-24T04:51:02.000Z",
+     "seen": "2026-11-24T04:59:20.450Z"
+    },
+    {
      "title": "هاني سعيد: بيراميدز لم يحسم الدوري.. وصرف مكافآت للاعبين هو قرار لمجلس الإدارة",
      "url": "https://www.elbalad.news/7192328",
      "source": "صدى البلد",
@@ -148,13 +157,6 @@
      "url": "https://www.elbalad.news/7192321",
      "source": "صدى البلد",
      "time": "2026-11-24T04:38:38.000Z",
-     "seen": "2026-11-24T04:39:01.958Z"
-    },
-    {
-     "title": "حقق لي أحلامي.. ماذا قالت مريم الخشت عن تجربتها في \"طالع نازل\"؟",
-     "url": "https://www.elbalad.news/7192229",
-     "source": "صدى البلد",
-     "time": "2026-11-24T04:34:30.000Z",
      "seen": "2026-11-24T04:39:01.958Z"
     },
     {
@@ -373,18 +375,25 @@
      "seen": "2026-11-24T04:39:20.848Z"
     },
     {
-     "title": "سباق التحديثات الأمنية.. عندما تصبح الحماية مصدر الخطر",
-     "url": "https://www.aljazeera.net/tech/2026/11/24/%d8%b3%d8%a8%d8%a7%d9%82-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d8%b9%d9%86%d8%af%d9%85%d8%a7-%d8%aa%d8%b5%d8%a8%d8%ad?traffic_source=rss",
+     "title": "زيلينسكي يحذر من هجمات روسية جديدة وسط تصعيد ميداني متبادل",
+     "url": "https://www.aljazeera.net/news/2026/11/24/%d8%aa%d8%b5%d8%b9%d9%8a%d8%af-%d9%85%d8%aa%d8%a8%d8%a7%d8%af%d9%84-%d8%a8%d9%8a%d9%86-%d9%85%d9%88%d8%b3%d9%83%d9%88-%d9%88%d9%83%d9%8a%d9%8a%d9%81?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-24T01:30:00.000Z",
-     "seen": "2026-11-24T04:39:01.958Z"
+     "time": "2026-11-24T01:47:52.000Z",
+     "seen": "2026-11-24T04:59:20.450Z"
     },
     {
-     "title": "غرفة عمليات ومصالح.. كيف تدخّل ترمب لعودة رئيس إنفيديا؟",
-     "url": "https://www.aljazeera.net/politics/2026/11/24/%d8%ba%d8%b1%d9%81%d8%a9-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa-%d9%88%d9%85%d8%b5%d8%a7%d9%84%d8%ad-%d9%83%d9%8a%d9%81-%d8%aa%d8%af%d8%ae%d9%84-%d8%aa%d8%b1%d9%85%d8%a8?traffic_source=rss",
+     "title": "مهذب في حياتك وعدواني في سيارتك.. 5 أسباب نفسية تفسر \"انفصام الطريق\"",
+     "url": "https://www.aljazeera.net/lifestyle/2026/11/24/%d9%85%d9%87%d8%b0%d8%a8-%d9%81%d9%8a-%d8%ad%d9%8a%d8%a7%d8%aa%d9%83-%d9%88%d8%b9%d8%af%d9%88%d8%a7%d9%86%d9%8a-%d9%81%d9%8a-%d8%b3%d9%8a%d8%a7%d8%b1%d8%aa%d9%83-5-%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-24T01:21:19.000Z",
-     "seen": "2026-11-24T04:39:01.958Z"
+     "time": "2026-11-24T01:44:00.000Z",
+     "seen": "2026-11-24T04:59:20.450Z"
+    },
+    {
+     "title": "ترمب الجريح أخطر من ترمب المنتصر",
+     "url": "https://www.aljazeera.net/opinions/2026/11/24/%d8%aa%d8%b1%d9%85%d8%a8-%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%ad-%d8%a3%d8%ae%d8%b7%d8%b1-%d9%85%d9%86-%d8%aa%d8%b1%d9%85%d8%a8-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b5%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T01:37:56.000Z",
+     "seen": "2026-11-24T04:59:20.450Z"
     },
     {
      "title": "كيف قد تواجه وزارة الدفاع الأمريكية صعوبة في الإنفاق على حرب إيران؟.. مصادر تكشف لـCNN",
@@ -399,13 +408,6 @@
      "source": "فرانس 24",
      "time": "2026-11-24T01:11:30.000Z",
      "seen": "2026-11-24T01:19:01.785Z"
-    },
-    {
-     "title": "\"أمك ثم أمك ثم أمك\".. أب أسود مسلم في مواجهة عالم لا يراه",
-     "url": "https://www.aljazeera.net/arts/2026/11/24/%d8%a3%d9%85%d9%83-%d8%ab%d9%85-%d8%a3%d9%85%d9%83-%d8%ab%d9%85-%d8%a3%d9%85%d9%83-%d8%a3%d8%a8-%d8%a3%d8%b3%d9%88%d8%af-%d9%85%d8%b3%d9%84%d9%85-%d9%81%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T01:00:00.000Z",
-     "seen": "2026-11-24T04:09:02.081Z"
     },
     {
      "title": "سوريا: ظهور رجل ببزة عسكرية إسرائيلية خلال زيارة لعائلته في ريف القنيطرة يثير جدلا",
@@ -529,6 +531,13 @@
      "seen": "2026-11-23T18:48:42.154Z"
     },
     {
+     "title": "قفزة أسعار الهواتف تربك أسواق المحمول.. أصحاب المحال: «بقالنا 3 شهور مبنبيعش»",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aTDVwRHFLMVNqOUZfcDNFelFOQlF4ZV9UbUZGU3dfanNkLTJZX1RnSXdfdUE5cHp3YkVfUW1PUVNtNlFFZDhnT3hwSFhRZWN1OXVNWUYxbF9Zb2g5QjFR?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T18:43:00.000Z",
+     "seen": "2026-11-24T04:59:20.450Z"
+    },
+    {
      "title": "شركات تستعين بالذكاء الاصطناعي لتقليص خصومات \"الجمعة السوداء\"",
      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNT1o2cXNSUTBVOW5OdzVsLXd1WFJjNUdweDhQaE1aRlFfVW5maG9XRnRjaU5JTEJtNF9lMzlrYm9id2czcHJ5ZjdzSVJzUEFqZlRUMXdiMncxeHFHRnlCTGpEcUpfbHl2QzJJUUhKWGtwZkcxdUxWQTdIN2Vxc3VpSTN2NzVtRk9KdFA4NDlOVFQ4RmthMktQQ2NEVlR2c25XdHQ0TmpDTVNuOWY5RjZoUFFDOXlHU0lRM3FraERwNW5fb2UwYXVkWmpzMVVRM19vS0lMRWM2cFVBV1oxa3c3RE9hU2tWUEF6d1lBbHVtbGZ6V0dOSEJ4S3VHb042OHBzZTFmNmhGNUdPQjl2NXZ2SWk2SC1pamtWTTBSampUdDlUa1d3bnBqeHE4TXNHUlQ3cTdHTUd2SkQ3bjE3QkZCZ05fZ0ExaEt3bmdmdkxuRUxTNTYtSVpoZ0ZLZ2NhUi1taWpjUko0VzQ4RTF6NlRQZUJQaVlMQWtaV3lwd3Z6MnlQTkEwOC1vNVhVeEZOMkU1MzJVY0ZGN1RudnNtbGFCYlpLenpHaTNqaHc1MGprSlc5YVJZVWtDUXJnOGhOTi1ZVVZsZ1Ziang3NGRDVzVvMjJ0QWVadjlfMlRxLTQ4TTdUS3lOTFhBU1FidnM1eXZiODVvd3R2elI?oc=5",
      "source": "الشرق للأخبار",
@@ -548,13 +557,6 @@
      "source": "BBC",
      "time": "2026-11-23T16:50:59.000Z",
      "seen": "2026-11-23T20:58:41.825Z"
-    },
-    {
-     "title": "إنفيديا تعيد جنسن هوانغ رئيسًا تنفيذيًا",
-     "url": "https://aitnews.com/2026/11/23/%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%aa%d8%b9%d9%8a%d8%af-%d8%ac%d9%86%d8%b3%d9%86-%d9%87%d9%88%d8%a7%d9%86%d8%ba-%d8%b1%d8%a6%d9%8a%d8%b3%d9%8b%d8%a7-%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-23T15:58:27.000Z",
-     "seen": "2026-11-23T16:08:14.683Z"
     }
    ]
   }
