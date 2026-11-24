@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:19:01.785Z",
+ "updated": "2026-11-24T01:29:01.556Z",
  "minute": [
   "تشهد مصر استمراراً للأجواء الدافئة خلال شهري نوفمبر وديسمبر، مع متابعة مستمرة لأسعار صرف العملات والذهب في البنوك.",
   "أوضحت فاكسيرا أهمية التحديث السنوي للقاح الإنفلونزا، بينما أعلنت نقابة الزراعيين تقديم دعم مالي للمعاشات.",
@@ -10,7 +10,9 @@
   "at": "2026-11-24T01:09:01.832Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T01:29:01.556Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5574,
-   "change": 4.79,
-   "asOf": "2026-11-24T01:09:03.000Z",
+   "value": 5576,
+   "change": 4.83,
+   "asOf": "2026-11-24T01:19:15.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6364,
-   "change": 4.79,
-   "asOf": "2026-11-24T01:09:03.000Z",
+   "value": 6366,
+   "change": 4.83,
+   "asOf": "2026-11-24T01:19:15.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3656,
-   "change": 4.01,
-   "asOf": "2026-11-24T01:09:03.000Z",
+   "value": 3658,
+   "change": 4.05,
+   "asOf": "2026-11-24T01:19:15.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0915,
-   "change": -0.52,
-   "asOf": "2026-11-24T01:18:47.000Z",
+   "value": 1.0922,
+   "change": -0.45,
+   "asOf": "2026-11-24T01:28:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.93,
-   "change": -6.09,
-   "asOf": "2026-11-24T01:08:07.000Z",
+   "value": 86.45,
+   "change": -6.61,
+   "asOf": "2026-11-24T01:18:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61407,
-   "change": 0.4,
-   "asOf": "2026-11-24T01:18:58.000Z",
+   "value": 61503,
+   "change": 0.56,
+   "asOf": "2026-11-24T01:29:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -277,6 +279,13 @@
      "seen": "2026-11-24T00:09:01.963Z"
     },
     {
+     "title": "مصر تتفاوض مع العراق لاستيراد 10 ملايين برميل نفط بتسهيلات ائتمانية",
+     "url": "https://alborsaanews.com/2026/11/24/2008557",
+     "source": "البورصة",
+     "time": "2026-11-23T23:46:20.000Z",
+     "seen": "2026-11-24T01:29:01.556Z"
+    },
+    {
      "title": "سعر الريال السعودي مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nbFNjLTZIR0JSOVU0bWZsWWlWNk9vQzAzR3BEekg3V25GdEZvTVo1NmFweWRvd2piNi04Ujdid2pPTjFp?oc=5",
      "source": "جريدة الدستور",
@@ -315,12 +324,11 @@
      "impact": "يعزز بحث توسعات شركات الدواء من توافر المستحضرات الطبية محلياً ويدعم فرص نمو قطاع الرعاية الصحية."
     },
     {
-     "title": "شركات مصرية تستهدف إقامة مصانع جديدة والتوسع في العراق الفترة المقبلة",
-     "url": "https://alborsaanews.com/2026/11/23/2008581",
-     "source": "البورصة",
-     "time": "2026-11-23T20:31:37.000Z",
-     "seen": "2026-11-23T21:18:42.252Z",
-     "impact": "يتيح توجه الشركات المصرية للاستثمار في العراق تنويع مصادر الدخل وفتح أسواق إقليمية جديدة للمنتجات والخدمات."
+     "title": "ماذا يحدث إذا حذفت مصر صفرين من الجنيه؟.. خبراء يوضحون",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vYURzQlJrN19XS1lIaXNPWFhWdXR6ZkVzVEFkLXVhN1YtQjRiemhRR1h5OEFQZ0ZWcWxLdUtjRHdvQTdzZEdKalpBSG9pYnFpOUpjSzFMWmgxZTJNTHVB?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T20:11:00.000Z",
+     "seen": "2026-11-24T01:29:01.556Z"
     },
     {
      "title": "نتنياهو يتّهم آيزنكوت بـ\"التقليل من خطورة\" التهديد الإيراني، ويدعو إلى تشكيل حكومة وحدة وطنية",
@@ -342,13 +350,6 @@
      "source": "BBC عربي",
      "time": "2026-11-23T20:00:19.000Z",
      "seen": "2026-11-23T20:08:41.952Z"
-    },
-    {
-     "title": "الدولار يتراجع أمام الجنيه في 9 بنوك.. ومصرف أبو ظبي يسجل أعلى سعر",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqOTdwOF9PbXU4Rk0zTlg0S09pYmQzQ3RraWpnYWNvQ1dkazBLdjBTRXBzNWlDeWhBd3NyX3lHcXFielVINWM4?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-23T18:56:00.000Z",
-     "seen": "2026-11-23T18:58:42.191Z"
     }
    ]
   },
@@ -356,6 +357,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "كيف قد تواجه وزارة الدفاع الأمريكية صعوبة في الإنفاق على حرب إيران؟.. مصادر تكشف لـCNN",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/pentagon-faces-real-possibility-it-might-not-get-another-dollar-this-year",
+     "source": "CNN بالعربية",
+     "time": "2026-11-24T01:14:09.000Z",
+     "seen": "2026-11-24T01:29:01.556Z"
+    },
     {
      "title": "الديمقراطيون يطلقون سباق الرئاسة الأمريكية لعام 2028 بإعلان تنظيم 12 مناظرة",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261124-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-2028-%D8%A7%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A-12-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D9%85%D8%B1%D8%B4%D8%AD%D9%87",
@@ -399,13 +407,6 @@
      "seen": "2026-11-23T23:08:41.660Z"
     },
     {
-     "title": "إيران تجلد مغنية و4 أعضاء في فرقتها الموسيقية بسبب \"حفل ظهرت فيه بدون حجاب\"",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/iran-flogs-female-singer-and-four-members-of-concert-team-over-her-performance",
-     "source": "CNN بالعربية",
-     "time": "2026-11-23T22:30:53.000Z",
-     "seen": "2026-11-23T22:38:42.212Z"
-    },
-    {
      "title": "عقوبات أمريكية تستهدف عشرات المرتبطين بشبكات مالية إيرانية",
      "url": "https://www.dw.com/ar/عقوبات-أمريكية-تستهدف-عشرات-المرتبطين-بشبكات-مالية-إيرانية/live-80015556?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -418,6 +419,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-23T22:11:34.000Z",
      "seen": "2026-11-23T22:18:41.784Z"
+    },
+    {
+     "title": "كوشنر يحذّر إسرائيل من تحولها إلى دولة منبوذة دوليا",
+     "url": "https://www.aljazeera.net/news/2026/11/24/%d9%83%d9%88%d8%b4%d9%86%d8%b1-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%b3%d9%8a%d8%b1-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84-%d8%a5%d9%84%d9%89-%d8%af%d9%88%d9%84%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-23T22:04:19.000Z",
+     "seen": "2026-11-24T01:29:01.556Z"
     },
     {
      "title": "ارتكاب عضو بالكونغرس لـ\"سوء سلوك جنسي\".. لجنة أخلاقيات تحسم",
@@ -445,13 +453,6 @@
      "url": "https://www.aljazeera.net/sport/2026/11/24/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%8a%d9%86%d9%87%d9%8a-%d8%aa%d8%b9%d8%a7%d9%82%d8%af%d9%87-%d9%85%d8%b9?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-23T21:43:39.000Z",
-     "seen": "2026-11-24T00:59:01.757Z"
-    },
-    {
-     "title": "3 شهداء في قصف إسرائيلي استهدف نقطة للشرطة جنوبي القطاع",
-     "url": "https://www.aljazeera.net/news/2026/11/24/3-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-%d9%82%d8%b5%d9%81-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d9%84%d9%84%d9%86%d9%82%d8%b7%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-23T21:40:02.000Z",
      "seen": "2026-11-24T00:59:01.757Z"
     }
    ]
@@ -567,9 +568,9 @@
  ],
  "failed": [
   {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
+   "section": "egypt",
+   "feed": "صدى البلد",
+   "error": "The operation was aborted due to timeout"
   }
  ],
  "marketErrors": []
