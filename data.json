@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:11:10.990Z",
+ "updated": "2026-11-24T16:21:10.668Z",
  "minute": [
   "شهدت البنوك المصرية تراجعاً في أسعار صرف الدولار أمام الجنيه في ختام التعاملات.",
   "تابعت وزارة الخارجية المصرية موقف 27 مصرياً إثر غرق مركب هجرة غير شرعية قبالة بنغازي.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T16:11:10.990Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T16:21:10.668Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5438,
-   "change": -0.89,
-   "asOf": "2026-11-24T16:01:24.000Z",
+   "value": 5435,
+   "change": -0.94,
+   "asOf": "2026-11-24T16:13:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6209,
-   "change": -0.89,
-   "asOf": "2026-11-24T16:01:24.000Z",
+   "value": 6206,
+   "change": -0.94,
+   "asOf": "2026-11-24T16:13:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3569,
-   "change": -2.26,
-   "asOf": "2026-11-24T16:01:24.000Z",
+   "value": 3567,
+   "change": -2.32,
+   "asOf": "2026-11-24T16:13:13.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0972,
-   "change": 0,
-   "asOf": "2026-11-24T16:10:45.000Z",
+   "value": 1.0973,
+   "change": 0.01,
+   "asOf": "2026-11-24T16:22:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -75,25 +75,25 @@
    "unit": "$/برميل",
    "value": 86.89,
    "change": -2.77,
-   "asOf": "2026-11-24T16:01:24.000Z",
+   "asOf": "2026-11-24T16:13:06.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7157,
-   "change": -1.11,
-   "asOf": "2026-11-24T16:11:26.000Z",
+   "value": 7166,
+   "change": -0.99,
+   "asOf": "2026-11-24T16:23:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59638,
+   "value": 59635,
    "change": -2.57,
-   "asOf": "2026-11-24T16:11:16.000Z",
+   "asOf": "2026-11-24T16:23:08.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأهلي يقترب من استعادة كولر.. عضو بارز بالمجلس يحصل على موافقته للعودة",
-     "url": "https://www.elbalad.news/7193129",
+     "title": "الأوقاف تطلق التصفية النهائية للموسم الثالث من «دوري الأئمة النجباء» بمسجد مصر الكبير",
+     "url": "https://www.elbalad.news/7193138",
      "source": "صدى البلد",
-     "time": "2026-11-24T16:10:58.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
+     "time": "2026-11-24T16:20:06.000Z",
+     "seen": "2026-11-24T16:21:10.668Z"
     },
     {
-     "title": "وزيرة الإسكان ومحافظ بورسعيد يشهدان مراسم تسليم عقود وحدات محور \"الإسكان المتوسط\" بمدينة بورفؤاد",
-     "url": "https://www.elbalad.news/7193128",
+     "title": "شمس البارودي تستعيد ذكرياتها مع زوجها الراحل حسن يوسف: قمر حياتي حبيبي الغالي",
+     "url": "https://www.elbalad.news/7193135",
      "source": "صدى البلد",
-     "time": "2026-11-24T16:10:19.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
+     "time": "2026-11-24T16:18:17.000Z",
+     "seen": "2026-11-24T16:21:10.668Z"
     },
     {
-     "title": "وزارة الخارجية تتابع حادث غرق مركب للهجرة غير الشرعية قبالة سواحل بنغازي",
-     "url": "https://www.elbalad.news/7193124",
+     "title": "هل الجمبري البلدي أفضل من المستزرع؟.. أبرز فوائده وأهم علامات الغش",
+     "url": "https://www.elbalad.news/7193134",
      "source": "صدى البلد",
-     "time": "2026-11-24T16:10:16.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
+     "time": "2026-11-24T16:17:32.000Z",
+     "seen": "2026-11-24T16:21:10.668Z"
     },
     {
      "title": "بوتين: سنرد على مهاجمة أوكرانيا لمنشآت النفط الروسية",
@@ -379,7 +379,7 @@
      "seen": "2026-11-24T15:51:10.873Z"
     },
     {
-     "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها",
+     "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وهجوم على أعلى ناطحة سحاب في الرياض",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeG40QUhUOHVtZGV3NGpOdlhIdTBVQVNCd0ZLSUJaMWpPQWxRdnlKRjhsbm00SFJuWUJVV1J5OUthSjFlS1FoU2p0bUFjM2EyZEZ5M29HNG5lekZyQUHSAWNBVV95cUxPeXZMZmxFem9pNEFNNnhCR2Y5dWl2b1JJcmh6UC1EaGtKVXhLaWZWRUV4S1Y0S0o5TGplUVQ2M0EyT3hBMXVlQ21CM3NHY0FEbjlFQ1NuR05TNkw5UzEtbW50SXc?oc=5",
      "source": "BBC",
      "time": "2026-11-24T15:24:18.000Z",
