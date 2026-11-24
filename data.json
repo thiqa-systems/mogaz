@@ -1,80 +1,79 @@
 {
- "updated": "2026-11-24T08:29:20.977Z",
+ "updated": "2026-11-24T08:39:20.378Z",
  "minute": [
-  "استعرض رئيس الوزراء المصري نتائج قافلة طبية بكفر الشيخ فحصت 2650 مواطناً، مع استقرار أسعار صرف الدولار والعملات الأجنبية في البنوك المصرية.",
-  "شهد القطاع التكنولوجي والتجاري العالمي أحداثاً بارزة شملت فوضى رقمية في أمريكا وهجمات سيبرانية استهدفت سفناً بحرية.",
-  "تتابعت الأنباء الإقليمية والدولية حول تطورات الأوضاع في ليبيا ولبنان، إلى جانب نمو استخدام نظام تشغيل هواوي وتوسعات الصين الفضائية."
+  "حذرت هيئة الأرصاد الجوية في مصر من انخفاض درجات الحرارة لتصل الصغرى بالقاهرة إلى 15 درجة.",
+  "استقرت أسعار صرف الدولار أمام الجنيه المصري في بداية تعاملات اليوم.",
+  "عُقدت ورشة عمل مصرية فرنسية تهدف لتعزيز نقل التكنولوجيا وربط البحث العلمي بالصناعة.",
+  "أعلنت شركة هواوي تجاوز عدد أجهزة نظام HarmonyOS المستقلة حاجز 100 مليون جهاز."
  ],
  "ai": {
-  "at": "2026-11-24T07:59:20.602Z",
+  "at": "2026-11-24T08:39:20.378Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T08:29:20.977Z"
+  "impacts": 9
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.13,
-   "change": 1.34,
-   "asOf": "2026-11-24T08:31:29.000Z",
+   "value": 54.15,
+   "change": 1.37,
+   "asOf": "2026-11-24T08:39:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5512,
-   "change": 0.46,
-   "asOf": "2026-11-24T08:21:43.000Z",
+   "value": 5498,
+   "change": 0.21,
+   "asOf": "2026-11-24T08:29:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6293,
-   "change": 0.46,
-   "asOf": "2026-11-24T08:21:43.000Z",
+   "value": 6277,
+   "change": 0.21,
+   "asOf": "2026-11-24T08:29:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3620,
-   "change": -0.87,
-   "asOf": "2026-11-24T08:21:43.000Z",
+   "value": 3609,
+   "change": -1.15,
+   "asOf": "2026-11-24T08:29:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51188,
-   "change": 0.94,
-   "asOf": "2026-11-24T08:16:31.000Z",
+   "value": 51344,
+   "change": 1.25,
+   "asOf": "2026-11-24T08:24:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0917,
-   "change": -0.5,
-   "asOf": "2026-11-24T08:30:46.000Z",
+   "value": 1.0919,
+   "change": -0.48,
+   "asOf": "2026-11-24T08:39:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.24,
-   "change": -3.5,
-   "asOf": "2026-11-24T08:21:08.000Z",
+   "value": 86.19,
+   "change": -3.56,
+   "asOf": "2026-11-24T08:29:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60083,
-   "change": -1.84,
-   "asOf": "2026-11-24T08:31:44.000Z",
+   "value": 60048,
+   "change": -1.9,
+   "asOf": "2026-11-24T08:39:46.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,39 +138,50 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وفاة شخص تحت أنقاض عقار الإسكندرية.. والحماية المدنية تواصل البحث عن ناجين",
-     "url": "https://www.elbalad.news/7192484",
+     "title": "محافظ الغربية يتفقد أعمال رصف طريق السنطة",
+     "url": "https://www.elbalad.news/7192494",
      "source": "صدى البلد",
-     "time": "2026-11-24T08:28:50.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
+     "time": "2026-11-24T08:38:24.000Z",
+     "seen": "2026-11-24T08:39:20.378Z"
     },
     {
-     "title": "«الإسكان» تعتمد مشروعًا سكنيًا على مساحة 9072 مترًا بالحزام الأخضر في 6 أكتوبر",
-     "url": "https://www.elbalad.news/7192491",
+     "title": "إصابة 22 شخصًا في تصادم أتوبيسين لنقل العمال أمام مدخل الضبعة بمطروح",
+     "url": "https://www.elbalad.news/7192506",
      "source": "صدى البلد",
-     "time": "2026-11-24T08:28:27.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
+     "time": "2026-11-24T08:37:23.000Z",
+     "seen": "2026-11-24T08:39:20.378Z",
+     "impact": "تهم العمال وسائقي السيارات للانتظار والتأني ومراعاة إجراءات السلامة أثناء التنقل على الطرق."
     },
     {
-     "title": "مقتل وإصابة 39 شخصا في حادث تصادم بالهند",
-     "url": "https://www.elbalad.news/7192493",
-     "source": "صدى البلد",
-     "time": "2026-11-24T08:28:24.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
-    },
-    {
-     "title": "وزير الخارجية يبحث مع مستشار ترامب هجمات ميناء بنغازى وتطورات السودان",
-     "url": "https://www.youm7.com/story/2026/11/24/وزير-الخارجية-يبحث-مع-مستشار-ترامب-هجمات-ميناء-بنغازى-وتطورات/7630313",
+     "title": "ورشة عمل مصرية فرنسية لتعزيز نقل التكنولوجيا وربط البحث العلمى بالصناعة",
+     "url": "https://www.youm7.com/story/2026/11/24/ورشة-عمل-مصرية-فرنسية-لتعزيز-نقل-التكنولوجيا-وربط-البحث-العلمى/7630329",
      "source": "اليوم السابع",
-     "time": "2026-11-24T08:07:00.000Z",
-     "seen": "2026-11-24T08:09:20.448Z"
+     "time": "2026-11-24T08:36:00.000Z",
+     "seen": "2026-11-24T08:39:20.378Z",
+     "impact": "تهم المستثمرين والصناعيين في مصر للاستفادة من نقل التكنولوجيا وتطوير الإنتاج عبر البحث العلمي."
     },
     {
-     "title": "كيف تنظم اللائحة الجديدة بالمجمع المقدس للكنيسة إجراءات وفاة الأسقف؟",
-     "url": "https://www.youm7.com/story/2026/11/24/كيف-تنظم-اللائحة-الجديدة-بالمجمع-المقدس-للكنيسة-إجراءات-وفاة-الأسقف/7630309",
+     "title": "خطوة بسيطة بإعدادات الآيفون تغير طريقة مشاركتك للملفات إلى الأبد",
+     "url": "https://www.elbalad.news/7192500",
+     "source": "صدى البلد",
+     "time": "2026-11-24T08:35:54.000Z",
+     "seen": "2026-11-24T08:39:20.378Z",
+     "impact": "تهم مستخدمي هواتف آيفون في مصر لتحسين تجربة مشاركة الملفات وزيادة سهولة استخدام الهاتف."
+    },
+    {
+     "title": "تحذير عاجل من الأرصاد.. انخفاض درجات الحرارة والصغرى بالقاهرة 15 درجة",
+     "url": "https://www.youm7.com/story/2026/11/24/تحذير-عاجل-من-الأرصاد-انخفاض-درجات-الحرارة-والصغرى-بالقاهرة-15/7630348",
      "source": "اليوم السابع",
-     "time": "2026-11-24T08:04:00.000Z",
-     "seen": "2026-11-24T08:09:20.448Z"
+     "time": "2026-11-24T08:30:00.000Z",
+     "seen": "2026-11-24T08:39:20.378Z",
+     "impact": "تهم جميع المواطنين في مصر لاتخاذ الاحتياطات اللازمة وارتداء الملابس المناسبة مع انخفاض درجات الحرارة."
+    },
+    {
+     "title": "رئيس الوزراء يعلن غدا عن تعديلات اللائحة التنفيذية لقانون الشركات",
+     "url": "https://www.youm7.com/story/2026/11/24/رئيس-الوزراء-يعلن-غدا-عن-تعديلات-اللائحة-التنفيذية-لقانون-الشركات/7630352",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T08:29:00.000Z",
+     "seen": "2026-11-24T08:39:20.378Z"
     },
     {
      "title": "مدبولي يستعرض نتائج قافلة طبية شاملة بكفر الشيخ: فحص 2650 مواطنا على مدار يومين",
@@ -182,11 +192,11 @@
      "impact": "يساعد المواطنين في كفر الشيخ على معرفة توفر القوافل والخدمات الطبية المجانية."
     },
     {
-     "title": "رئيس الوزراء يستعرض نتائج قافلة طبية بمحافظة كفر الشيخ",
-     "url": "https://www.youm7.com/story/2026/11/24/رئيس-الوزراء-يستعرض-نتائج-قافلة-طبية-بمحافظة-كفر-الشيخ/7630310",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T07:51:00.000Z",
-     "seen": "2026-11-24T07:59:20.602Z"
+     "title": "ارتدى قناعًا وقتل شقيقه وطفليه.. تفاصيل مذبحة الميراث بالشرقية",
+     "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxQdUVqS3lRaUoxeVBfMi1pR01pZ2dodDJzRFlIeHUzdTNDTzFDSlBjeWtYeU1HS04zb1VMTXQ0SXdGTWx6dWtGSXI1SHQ1ak4xRjIyeEFIWTNnNTRNUTRJSHdNVkFSdzNVczYtcTZIbzN2d1pzWU1KbzhCMWljNW80RzVpTlV3TG44QnpyN2ZucWJjVHpfRWV5SXhNLWh6VXRIQUpISTZzNXJsS3JYdUExV3B4OHRvYVZMOEZzZnRnWlZqQWFUb0hkQ05WV2dUeWdOekl6ak9aWU9OTkM3ZzRQLXdVTlA0aDZjelpMUW9XeWtLRjhnckMwcHJ6MVBWRkdZTFdfM0MxR0dydDVuWnZMNTlkTk12YjNGeExDck5rZkoyM245QVFUMTlveWJfcUdUeThBOURpNUtBVGtQbGFrcVhFWUlzanpheVVpVnlNZ0NFUjZyNWpsZi1EbEZ1WFByVVVTcWxYd3Z0M2h1aktDOUlmcmNKNjA4a1ZsaG1HM0l1anpFd2lyTjVNbFgyLXhYUEpJSTNSVTdfR0R6SENrdVM1Z0gxSDhmTGVjR1NDbE1lRXNEaE9KRzZnWmFPTjNqOEtpYkFkNmR5b3poS21fYkJSUGNxSVRhQjEydm4tS0dZWmlVeGNYS3UycHVxenhMNnBJWEZWeDZKaHU1Vlg4eXNkRnYxZUxRX19scUJ2Nm1zVER2YlRYcXJn0gGfBEFVX3lxTE9ybE84SF9nTzVyLVN5LXQ2WFlKYzUtY2JLNW1jTWdLdzlIejZCX2JEQzlHSWNCV3o4UTByZ0hLclFES19GdnkxQjJCQlBQOFA4Q05MVGlmYXdUZnVyMXNfdlBzMmhaSVFpR0hLSlhQb0N6NmtRVThMMWp0cnkyTFlsNDJHcU1DaTRvZ2x4d0FHWmZsNHBOSmJqWUY2dnVuS3JJSktDbHRfYUVMS19FTUg4djZHSm5PbDN3UGVwVERuZ0FWUzVKczlLMlprYURQOFBRcmZ6eWw2c0w3QzdjdVQ2azhILS0xOHRYTTROMXkwOWVZQi1HS1VsRlk5NmcyR0lzcHdOUlFHWUtWRnF1Y1R0ZGFqSzlVbHFkRjEwdUpIdmJMaWRPcWtNZHk1M042M0l2ejB4ZGJwbjI0Q1lwZGx1VzFoNDI0c1Y4RWVNT1FVNENXQWR2bC10ZUtLLXgzUldrVDZEanRuam9BS21oR29meWFaWGZVeExEZzk2VUxNeDladkxjMjhjYklqSldYY1FMUHVHNWN6WDRfa2ZVd1Bmb2hWRGdqaWdyaWZHOEE1a0xyeUZXZ2l5M1pLdFI3LXdXWHc4N1kyd0swZUtSZnFPVzVSMGpyOGFncnN6ZHBoRTlGTldXZldVYzIwaUlXTWo1dTZBckhkc0lGaTFjUkJxRFhQVXEwQkhETVp2dS02SDBrb3VzZTRLdTB2SVQyUQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-24T07:00:00.000Z",
+     "seen": "2026-11-24T08:39:20.378Z"
     },
     {
      "title": "الداخلية تكشف حقيقة فيديو حبس أسرة بسبب مشاجرة مع ضابط شرطة",
@@ -229,13 +239,6 @@
      "source": "Masrawy",
      "time": "2026-11-23T20:28:04.000Z",
      "seen": "2026-11-23T20:38:41.498Z"
-    },
-    {
-     "title": "حوار مفتوح لمدبولي والزيدي مع رؤساء ومسئولي عدد من الشركات المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxQZ1FocGY0QmhBa20wWklwT3FmMzZHWjA4d05iZDZjV3ZhLXNKZDkxUHg3bDY4LTZiMjY3MnlhT1ZWZk1uNFdONVRPbndZQ0luaG9qdmZnTEd6RThqUUlhSUZnZGtRRmN1WEFjYWNFeFNDVjRHeFlBc09oRVAtbjlMUjRyQmFIRlMxOXp3QXNlM1FSd0JpNVpBX0JkRHhJMm1vTlBXYWFzWTkzaGpJY1R3ZFZKUGJyTnNLQkthUHNmS05OS1RVdWZELXVLYzl0aUo1Yno5LU9zeHFrRFRPTzhDZmNrMzdpU2llbmxjZWo0OFpGQ2VWaVpmMDBoMVpjal9SRWd1dm5oWVFXa0thTkI0dVVhR20xT1k1b2REcHRMZTZEYVhLd0dZM2x1OUZMNFdxclZ5NllUdk1PWkxxNkNzZzdIdXRUS1hNSWVxUGFjUkEzUGJVQlR2TU41Mi1VVlFPVU51aGJIdEdRZDNQdnlvNndBQmZlNHp3djhMVzFQOXllcklsUE5ST29ZelhMMXNqbzdleHNWMnRIZkJ6UjFONDRCZVc0SGY3OEJSWERVZC00cUlVTE9mNTFpUWpGS2hZUURPRVM5QVQwNFlHN1JVbHNqUTVNcGtja2tuak4zWnJoOUY5MjFDWUlEdDhjOVFtWDZJWnU4R2xuZ0NQREJjbkxacTJKTWthelRfeVpkQTF4ZGlMOThPdl90U2JiZXVIbVNTWHJWWVRMQQ?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-23T20:10:00.000Z",
-     "seen": "2026-11-23T20:18:41.439Z"
     }
    ]
   },
@@ -255,10 +258,11 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40VVBxQnVWemp6VG91dWxxajJzUmVTVXpldzQtNFBrRmt1ZGd1bHFtclE2THZSd2hFeTNhODc4Ny1jV1BZMDFZ?oc=5",
      "source": "فيتو",
      "time": "2026-11-24T08:26:00.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
+     "seen": "2026-11-24T08:29:20.977Z",
+     "impact": "تهم المستثمرين والمستوردين والمواطنين لمتابعة تغيرات أسعار الصرف وتأثيرها على أسعار السلع والخدمات."
     },
     {
-     "title": "الحوثيون والجيش اليمني يتبادولون الاتهامات بشأن هجوم تسبب في قتلى ومفقودين في جنوب غرب البلاد",
+     "title": "الحوثيون والجيش اليمني يتبادلون الاتهامات بشأن هجوم تسبب في قتلى ومفقودين في جنوب غرب البلاد",
      "url": "https://www.bbc.com/arabic/articles/c6205xd02713o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-24T08:21:31.000Z",
@@ -269,7 +273,8 @@
      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOdW1fM0FjT0p1SVhCRl81Y0UtTDBweTM0Wk5sd1U1VHhYcDgyNnBSSzZtNjdqcHNITDhrQTBGbWxORFpEcmh5Wkg5bXhKb1RlNlUzcHRXRmh3b0VqWnp6a3F1eElyRHdud0VFVFp2SXU1MHdGLWJ3UHNFSHBFSUVFTF9jaVBYQWtiVDJMRnZ0UTdUMU55ak1qU1JxZVBWZE11dVZndUplcy02cmxyTXpKVnBHXzZOUHVTYjBwZW1heTRpbndnblVYbDQ3LTlTV1pxU0RfVGhhN0ZCTDNjelZBZ0daYUtXX0pVLWMtZHhRNUhoSE1lR1ZJbEVlc2VLSXJpRHlhLWcxRWxVZDZPOUpPSTBsVjR6c0ZueDNPS0VUQTVMTnZaNy1tNF9XZEV6eEJaMU5hRERSSGpFZEsyS212UmpncEdmT2tNSFhvYkpUa1NyeEVDallNRHFIeWN1RVJYV1hHMkp4OXJhR1Z0WG5OOU5PX1NWYjNLMEc4dnRqaDZnNnZCUGg3dTh1cVlOcDFnOWpEWE1Td0tEdFZ0dXZvY1RZam0yUHFURk9kakl3MzhQdmc5R3hWU2x5UUotTVhzTUJuUUdKTmJCaU1DTUdsWG1JMHJsV0psdDlGcnYwSElYMGRrd2d4SlNsUmpxVWNDSXZXUEdRYlhHN0g3MGljSzNkSnlEWmQ3Y2ViUVBPZnBQdkNiNHVCUURKU2lnSm_SAZoEQVVfeXFMUHZGdV9fcGZYVk1yZENLZHZhOER5NW92VHMtNWJ5OG1wN1FjX2RBWVFQOWpXdnZzNi1TNS0ybGlkd2lEdDhBanZPdDRaRkhfZ2l1Tkk0VklTcFFaRWFKOEQ0MU0zR3ZoWGZKdHBCc1BiWG0zVDFPV3VrWW41MWtIUDZvdHA1bEJwUXNIV2JuUER6MjJ6eWxRemZ3Rnh0LTdXV2NfV190LUhLN0V0VUxDVHFzcGR0Y2tIcm9wY2p1cGI1SGVPekYwWmlFVEtQZEtEVEd0UGJfbEFaZ0NfNGdKX1VlR0s1cEliTTVkc3hlZmk3by1Fd0ZYWEJQQWJGdklwX3hEaUJ4N1dCVmEtMkdzMklRc2tqUVphNEhNS1RIcXZyamhSZ3hsVUNIUVZvVUFhREgybGdCQ1hLQmREdENVQkE1cFFwX3BTbFpYYlBwdWMzUHhUV1BZc3dwLU1vY3dvTHR6YVhkV3pDVXJmWmZQOWlaem16eTNfNVlLREVLSWI5YUVyM1RMUXJMVjB0WjI0VnNZVHdWY3liRGtLU2dPUzc4N3dfdVJBaDBJSGc4dzhrazRpbk4xclJFSWxxaGJPZFNiOE1nLUlCMEZ3cDhBOXVSRUJST0NPbENXaFM5WUM2QjVtb0VuY2w1ZEx2ZDllN0F4WlMxQm1fa3BsLXRoZDlPZmFzN3hvVGZqRDNxd2VwZVdoajJWU0xfUQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-24T08:18:00.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
+     "seen": "2026-11-24T08:29:20.977Z",
+     "impact": "تساعد الأفراد والمستثمرين في مصر على تخطيط التزاماتهم المالية وتكلفة الواردات في ظل استقرار سوق الصرف."
     },
     {
      "title": "سعر الدولار في مصر اليوم الثلاثاء 24/11/2026",
@@ -352,6 +357,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "آيزنكوت ونتانياهو يواصلان مباحثات تشكيل الحكومة دون تقدم ملموس وسط تباين بشأن التهديد الإيراني",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D8%B7-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+     "source": "فرانس 24",
+     "time": "2026-11-24T08:33:04.000Z",
+     "seen": "2026-11-24T08:39:20.378Z"
+    },
+    {
      "title": "الجوع يدخل الفصول.. طلاب سودانيون يدرسون على بطون خاوية",
      "url": "https://www.skynewsarabia.com/middle-east/1906752-%D8%A7%D9%84%D8%AC%D9%88%D8%B9-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%81%D8%B5%D9%88%D9%84-%D8%B7%D9%84%D8%A7%D8%A8-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D9%88%D9%86-%D9%8A%D8%AF%D8%B1%D8%B3%D9%88%D9%86-%D8%A8%D8%B7%D9%88%D9%86-%D8%AE%D8%A7%D9%88%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -423,32 +435,25 @@
      "seen": "2026-11-24T05:59:20.650Z"
     },
     {
+     "title": "كائن بحري دقيق يحطم الأرقام القياسية بأصغر جينوم عرفته البشرية",
+     "url": "https://www.aljazeera.net/science/2026/11/24/%d9%83%d8%a7%d8%a6%d9%86-%d8%a8%d8%ad%d8%b1%d9%8a-%d8%af%d9%82%d9%8a%d9%82-%d9%8a%d8%ad%d8%b7%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d9%82%d8%a7%d9%85-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T05:33:27.000Z",
+     "seen": "2026-11-24T08:39:20.378Z"
+    },
+    {
+     "title": "جنوب لبنان بعد \"اليونيفيل\".. فراغ أمني يهدد بتجدد الحرب!",
+     "url": "https://www.aljazeera.net/politics/2026/11/24/%d8%ac%d9%86%d9%88%d8%a8-%d9%84%d8%a8%d9%86%d8%a7%d9%86-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%8a%d9%88%d9%86%d9%8a%d9%81%d9%8a%d9%84-%d9%81%d8%b1%d8%a7%d8%ba-%d8%a3%d9%85%d9%86%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T05:31:43.000Z",
+     "seen": "2026-11-24T08:39:20.378Z"
+    },
+    {
      "title": "الإمارات: وفيات بحادث مروري بين حافلة نقل ركاب وشاحنة في رأس الخيمة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/uae-moi-deaths-acident-bus-truck-ras-alkhaimah",
      "source": "CNN بالعربية",
      "time": "2026-11-24T05:30:45.000Z",
      "seen": "2026-11-24T05:39:20.646Z"
-    },
-    {
-     "title": "حلف الناتو يتعهد بردع التهديدات الفضائية وسط تقارير استخباراتية عن سلاح نووي روسي مداري",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jSmVTOWk3TkN3THRUMk1JUUxJajZSNlFJZjhlS2dGM2FsOWYtLUY2ZmJjOGpfWTZmUFBDMHZ5T1NlOWtONllYVjFNNXFSTkpFdnVMT1RNeENzajZndEHSAWNBVV95cUxPdUk0eno1NGdaYUp6Qkh1Vy0waUV3MFVjXzJhNV9LaEJ1bXBWWms1TXpZY3YzVmUzaFJtNldkNEI0cWU4X2tYcWdHVTlmYVJJZ2NGNG4zNEZ3M1NHZjhTYVNZQlU?oc=5",
-     "source": "BBC",
-     "time": "2026-11-24T05:22:29.000Z",
-     "seen": "2026-11-24T07:59:20.602Z"
-    },
-    {
-     "title": "قطر.. وزارة الدفاع تعلن مقتل أحد منتسبيها أثناء تأدية واجبه العسكري",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/qatari-mod-announces-soldier-killed-on-duty",
-     "source": "CNN بالعربية",
-     "time": "2026-11-24T05:07:17.000Z",
-     "seen": "2026-11-24T05:09:21.040Z"
-    },
-    {
-     "title": "الذهب يتأرجح وسط ترقب بيانات التضخم الأمريكية",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/24/%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d8%aa%d8%a3%d8%b1%d8%ac%d8%ad-%d9%88%d8%b3%d8%b7-%d8%aa%d8%b1%d9%82%d8%a8-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b6%d8%ae%d9%85?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T05:00:09.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
     }
    ]
   },
@@ -461,7 +466,8 @@
      "url": "https://aitnews.com/2026/11/24/%d8%a3%d9%88%d8%b4%d9%86-%d9%84%d9%8a%d9%83-%d9%85%d9%86%d8%b5%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-24T07:47:17.000Z",
-     "seen": "2026-11-24T07:49:20.303Z"
+     "seen": "2026-11-24T07:49:20.303Z",
+     "impact": "تهم المطورين وشركات التكنولوجيا في مصر للتعرف على أدوات الذكاء الاصطناعي الجديدة المفتوحة المصدر."
     },
     {
      "title": "الصين تختار رائد فضاء باكستانيًا في أول مهمة دولية إلى محطتها الفضائية",
@@ -476,14 +482,15 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-24T07:43:46.000Z",
      "seen": "2026-11-24T07:49:20.303Z",
-     "impact": "يوفر للمستهلكين في سوق الهواتف خيارات تقنية بديلة تعتمد على نظام HarmonyOS."
+     "impact": "تهم المهتمين بالتقنية والمستهلكين لمتابعة توسع البدائل التكنولوجية لأنظمة تشغيل الهواتف الذكية."
     },
     {
      "title": "\"GTA 6\" بين الترفيه والمخاطر.. ما الذي يجب أن يعرفه الآباء؟",
      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUW82UDloRVdoZnVDZ3FuR1JJcFBFMG5FUnNxNGtYMHlPNklpYU1hRm54VXBEaUF0MW5UMVVBT1dVaEo4VmFGQmlQUXFlNEctODVtdlFnTVZod1JpeEpNTXp6SDhGUWlDcnZ3cUVuSDVTZjdJcE13UV9hTXdTQTFhS3Q2THd6MkFyYWNkU3dHS29wbUVrVWsyc29yWnM4dW5RZGtLLXd5ZkEtSG9vcVVIeFBjQS1TTVJlSXNMdXBiUW81M19idW00cEgyWm5ydnh4cUZ6Y25rb2pJdzNJODA4c01IVF9rYjJKV0FMSmxEeUtKcHQyV0VZeEVKSVh1UFNsRVpFU01DTnRscDNuRjFFS0JKLTR2S0xxVlFXRGt3SjFJM1lUX2JYZmpoVzRPOEVzMzRleUhzeUl2TV9Dak5Yc1NoQlppTWdsUEZPbUNxdk1IQkQtLVZ5am9YQ09XNWhObFpQcGF4TzhhaElOZ09JQXcydEjSAfoCQVVfeXFMTWhmd3RmcXFJaUMybE1tSnRaRUZjX2hRMTAza1B6WV9IMWhNc2kzWGNjb05jRWpWQ2FVaVVqSzNfZHBPdVhxczFqbk85RnNwZUhtTXNvWERTV19NNUx6NVY3UEJDNGlLZUpCa2x5NjVIc3MyMG0zLVdXYzFCbmdTdHA2UnpRelVmZWdoMW1hclJYR0wtZUVuWW5XV1NTcTlfNkxCbkQ4QzZEWUdBYkRkVy1vZVZ3MS1BU2xhRTNYY1Nma3F6Q04wWXFPNkFvbHkzSkxTRHBGb1VIRUNGeXZSQ2lHcDBLa2E2LUFFT0pnZEpSdzZlVzFBVHdUbnBfTDZZbW0zV2VFMjh1RDhxXzVJZ0FFdUVLOWw2dlZneXRQVTNJRUpWMzg1d0RhbUgwb2pDZkJLci1Cc2prd0NnX0xBRUFhNG9xdFlwcnhyVFZCYVZtMzlmRmZybUd4M3hXcUplQmpHQk5KaW1XSEF4Y2RXV00yWnJuQUFUcjh3?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T06:08:22.000Z",
-     "seen": "2026-11-24T08:19:20.442Z"
+     "seen": "2026-11-24T08:19:20.442Z",
+     "impact": "تهم أولياء الأمور في مصر لمتابعة المحتوى الإلكتروني الذي يتعرض له الأبناء والتوعية بمخاطره."
     },
     {
      "title": "حلف الناتو يتعهد بردع التهديدات الفضائية وسط تقارير استخباراتية عن سلاح نووي روسي مداري",
@@ -560,17 +567,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  },
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "The operation was aborted due to timeout"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
