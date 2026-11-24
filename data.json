@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:21:27.997Z",
+ "updated": "2026-11-24T22:31:27.656Z",
  "minute": [
   "شهدت الأخبار المحلية الإعلان عن تغطية 90% من الاحتياجات الدوائية في مصر عبر أكثر من 180 مصنعاً، مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى الصعيد الاقتصادي، أُعلن عن طلب 70 مليار دولار استثمارات أجنبية لدعم النمو، وتوجه لجهاز تنمية المشروعات لضخ 500 مليون جنيه لدعم المصدرين.",
@@ -10,7 +10,9 @@
   "at": "2026-11-24T22:11:27.853Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T22:31:27.656Z"
  },
  "markets": [
   {
@@ -64,7 +66,7 @@
    "unit": "$",
    "value": 1.0969,
    "change": -0.02,
-   "asOf": "2026-11-24T22:20:47.000Z",
+   "asOf": "2026-11-24T22:31:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59945,
-   "change": -2.07,
-   "asOf": "2026-11-24T22:21:29.000Z",
+   "value": 59906,
+   "change": -2.13,
+   "asOf": "2026-11-24T22:31:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "سبورتنج يفوز على سموحة في ذهاب نصف نهائي دوري المرتبط لكرة السلة للسيدات",
-     "url": "https://www.elbalad.news/7193561",
+     "title": "موعد مباراة مصر وبنما في كأس العالم للناشئين .. والقنوات الناقلة",
+     "url": "https://www.elbalad.news/7193565",
      "source": "صدى البلد",
-     "time": "2026-11-24T22:19:37.000Z",
-     "seen": "2026-11-24T22:21:27.997Z"
+     "time": "2026-11-24T22:30:36.000Z",
+     "seen": "2026-11-24T22:31:27.656Z"
     },
     {
-     "title": "أحمد عبد الباسط يكشف كواليس الـ 24 ساعة الأخيرة داخل الأهلي بعد زلزال الخسارة من بيراميدز",
-     "url": "https://www.elbalad.news/7193558",
+     "title": "تحديث GTA 6 الأول يصل PS5 وXbox بسبع إصلاحات ومشكلة مستمرة",
+     "url": "https://www.elbalad.news/7193467",
      "source": "صدى البلد",
-     "time": "2026-11-24T22:18:03.000Z",
-     "seen": "2026-11-24T22:21:27.997Z"
+     "time": "2026-11-24T22:30:00.000Z",
+     "seen": "2026-11-24T22:31:27.656Z"
     },
     {
-     "title": "هليوبوليس يفوز على الأهلي في ذهاب نصف نهائي دوري المرتبط لكرة السلة للسيدات",
-     "url": "https://www.elbalad.news/7193559",
+     "title": "رئيس المقاولون العرب يكشف حقيقة مفاوضات الأهلي مع سامي قمصان",
+     "url": "https://www.elbalad.news/7193570",
      "source": "صدى البلد",
-     "time": "2026-11-24T22:13:42.000Z",
-     "seen": "2026-11-24T22:21:27.997Z"
+     "time": "2026-11-24T22:29:18.000Z",
+     "seen": "2026-11-24T22:31:27.656Z"
     },
     {
      "title": "متحدث الخارجية: مصر تسعى لاحتواء الأزمات والحروب لا تحسم بالميدان",
@@ -351,6 +353,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "من الجزائر إلى تونس.. لماذا تحوّل اصطحاب الأطفال لصلاة الفجر إلى موضوع جدل؟",
+     "url": "https://www.dw.com/ar/من-الجزائر-إلى-تونس-لماذا-تحوّل-اصطحاب-الأطفال-لصلاة-الفجر-إلى-موضوع-جدل؟/a-80033957?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-24T22:15:00.000Z",
+     "seen": "2026-11-24T22:31:27.656Z"
+    },
+    {
      "title": "الجيش الوطني الليبي يعلن مقتل عسكرييْن في هجوم ميناء بنغازي",
      "url": "https://www.skynewsarabia.com/middle-east/1906898-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D9%8A%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A",
      "source": "سكاي نيوز عربية",
@@ -373,11 +382,11 @@
      "seen": "2026-11-24T21:11:12.187Z"
     },
     {
-     "title": "السعودية تتوعد بـ\"الرد بحزم\" على استهداف المركز المالي",
-     "url": "https://www.skynewsarabia.com/middle-east/1906892-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8-%D8%A7%D9%84%D8%B1%D8%AF-%D8%A8%D8%AD%D8%B2%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A",
+     "title": "السعودية تطلب من المدنيين إخلاء ميناء الحديدة اليمني",
+     "url": "https://www.skynewsarabia.com/middle-east/1906892-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T20:47:26.000Z",
-     "seen": "2026-11-24T20:51:11.898Z"
+     "seen": "2026-11-24T22:31:27.656Z"
     },
     {
      "title": "كأس الأمم الأفريقية 2025: لقب بالقلم عوض القدم",
@@ -415,6 +424,13 @@
      "seen": "2026-11-24T22:01:27.774Z"
     },
     {
+     "title": "\"رأيته ثلاث مرات\".. كيف وصف البابا فرنسيس الشيطان في مذكراته؟ | CNN Arabic | CNN",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZrOGlPVm5SRE9US2MtcDlaLTNiQWdaemJ5WTE5LU5TWVEwd2RHdmIwdzk2SzlZS0x5NDd4YkJZTTlpZUpJZ1pfUUVBb1ZPYkxOWVlPV05yeF9MUXNTS2tJSmQ0SkR0bDZCUS11VVdmbG1jOWhueDBWRVBqbkRrZ3BB?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-24T19:24:21.000Z",
+     "seen": "2026-11-24T22:31:27.656Z"
+    },
+    {
      "title": "حكومة وحدة تجمع بينيت ونتنياهو.. وآيزنكوت يطلب البداية",
      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPRS1paWJ1R1V2ZURYM0oyOFJlc2k3Y3lGWHRBeC1iU3c1WUF5MXJzZHdZTHJpZXFZTEpRa19yaGlxVXlIMFkxd3B5dFNCTUdBVFlpWTVtUmExSnV4bGRCMmRlREo0eU5pcVlmcVpJRU9GdzdlUVBNNUZqWndFakhBU3NNejZYWUJCZ2RzbWl6ME0tNlQ4aXUySThfcmhTN01yS3UxZ1hfaDFBNG5ZRmFSbVN6Wm1MUjlpa3RKNVJ5SmlEMkRiellfV0lXczlFd04xeVZ2SWxDaUNxa3o1Um1DQ01ETl9TVWZWaFM1MUZNQVhOQWgxR2J3emU3dklHV1dkT25YeGJWLXBWWVZsNklyT05vYkU1R19PSlZXVVYtU3dzS016V0NULTEwdGh4T09GdGdlRDA4ODdJQUdDSWlVTnp5NkhlTVpYdjJIWS1TS3pYbi1maHlWeXJZX0Q0bHZfbF9tazdBVXpuVGRmWmphTGF3UUtmazh6WnRKTmtsbXZSMUpQZzRYckIzb2hRR0Utbk9sTkhhWm4zZGtkWDlIZHRPYTRXZVlzSVl0MS1VUnVBT0JrLVNoc0NYNjk5ZDRkSGZoS0VmbDFjT1U0X01mLWMtd9IB2ANBVV95cUxOSE1zcnBXd01rQ0dsRllmWmtXWXAzcThOWEQ4WGo5TDhqR1FYbnJGMUNpOEVCTHpLZXpJaVUyWDZGLWNRWGtLd3JLWlJTTEVRTzFXa1lDTzJuZzc1bm85VGpyM2dYT3J3eGJkaE0xNmVOamlaTVYwaFktS0pBMzd0ZUxuaUt1M3NfUGNET0pZTmxWMk4wU0NydmZ5UGtCX3loQmpNWUFYUTdtZDVlc0w3TTJDbTMtcTYyc250ZU8yd0l4NDdIckVYb0ZYZlgwTUNleGg2N2xJYjkzRUdIazBERlBmMUpLa2gyT1pOckpXd2FGQ0Q4NVVDVVdnSlB1T01aWk8teC1SMmhrTEx0TDRuNTZwdm5uQ1FwZmdhdW93VWZsS3U5M2tKQVhGVk9FaFlHVE5LaV9Jb3RVME9KWHhVZnFkTHRPaVBKMGpmSGJvcy1qUzlseldPa2VRbFc2dlJCVlc3Z3NaVk9JaFBpOVFoNTNyRHZIUU96R3dPUWF2eHozd045RTJYQlVTcHItUkRPNDdMNWVLMXZmTGh4ekNxOXdZRkNoeERudTBrNkdWaFdCSkJ3MUFiUTF3LWw3cUtZU1ZiZ192X25QUjR1dE15ZS1jekE2dERh?oc=5",
      "source": "العربية",
@@ -434,20 +450,6 @@
      "source": "الجزيرة",
      "time": "2026-11-24T19:00:34.000Z",
      "seen": "2026-11-24T22:21:27.997Z"
-    },
-    {
-     "title": "هل يفلت الذكاء الاصطناعي من قبضة الشركات المطورة؟",
-     "url": "https://www.aljazeera.net/tech/2026/11/25/%d9%87%d9%84-%d9%8a%d9%81%d9%84%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%85%d9%86-%d9%82%d8%a8%d8%b6%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T19:00:00.000Z",
-     "seen": "2026-11-24T22:21:27.997Z"
-    },
-    {
-     "title": "مصرع 5 عسكريين إثر تحطم مروحية في تركيا",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/5-military-personnel-killed-in-helicopter-crash-in-turkiye",
-     "source": "CNN بالعربية",
-     "time": "2026-11-24T18:38:21.000Z",
-     "seen": "2026-11-24T18:51:11.413Z"
     }
    ]
   },
@@ -563,6 +565,17 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  }
+ ],
  "marketErrors": []
 }
