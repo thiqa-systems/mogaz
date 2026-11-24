@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:21:12.149Z",
+ "updated": "2026-11-24T17:31:11.818Z",
  "minute": [
   "تتناول الأخبار الاقتصادية متابعة سعر صرف الدولار مقابل الجنيه بالبنك المركزي المصري، واستهداف موقع التوكيل دخول سوق السيارات المستعملة.",
   "على المستوى التكنولوجي، صدرت تحذيرات من تحميل تطبيق Instinct AI، بينما تداولت التقارير تسريبات حول أجهزة سامسونج واستعداد جوجل لإطلاق قناة تلفزيونية بالذكاء الاصطناعي.",
@@ -9,7 +9,9 @@
   "at": "2026-11-24T17:11:11.869Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T17:31:11.818Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5443,
-   "change": -0.79,
-   "asOf": "2026-11-24T17:11:10.000Z",
+   "value": 5433,
+   "change": -0.99,
+   "asOf": "2026-11-24T17:21:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6215,
-   "change": -0.79,
-   "asOf": "2026-11-24T17:11:10.000Z",
+   "value": 6203,
+   "change": -0.99,
+   "asOf": "2026-11-24T17:21:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3572,
-   "change": -2.17,
-   "asOf": "2026-11-24T17:11:10.000Z",
+   "value": 3565,
+   "change": -2.37,
+   "asOf": "2026-11-24T17:21:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.02,
-   "asOf": "2026-11-24T17:20:47.000Z",
+   "value": 1.0972,
+   "change": 0,
+   "asOf": "2026-11-24T17:30:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.55,
-   "change": -2.04,
-   "asOf": "2026-11-24T17:11:10.000Z",
+   "value": 87.9,
+   "change": -1.64,
+   "asOf": "2026-11-24T17:21:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7194,
-   "change": -0.6,
-   "asOf": "2026-11-24T17:21:15.000Z",
+   "value": 7211,
+   "change": -0.37,
+   "asOf": "2026-11-24T17:31:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59637,
-   "change": -2.57,
-   "asOf": "2026-11-24T17:21:12.000Z",
+   "value": 59948,
+   "change": -2.06,
+   "asOf": "2026-11-24T17:31:10.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,46 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تصعيد خطير..ترامب يدرس اغتيال قادة إيرانيين: نعرف من هم وأين يوجدون",
-     "url": "https://www.elbalad.news/7193194",
+     "title": "وزيرة التضامن تعلن ختام فعاليات النسخة الأولى للمنتدى الدولي للحماية الاجتماعية",
+     "url": "https://www.elbalad.news/7193187",
      "source": "صدى البلد",
-     "time": "2026-11-24T17:20:33.000Z",
-     "seen": "2026-11-24T17:21:12.149Z"
+     "time": "2026-11-24T17:30:35.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     },
     {
-     "title": "جوتيريش يحذر أمام مجلس الأمن من استخدام الذكاء الاصطناعي في الحروب ويدعو إلى حظر الروبوتات القاتلة",
-     "url": "https://www.elbalad.news/7193193",
+     "title": "بوتين يتوعد أوكرانيا برد أكثر إيلامًا.. موسكو تتخلى عن هدنة استهداف منشآت الطاقة",
+     "url": "https://www.elbalad.news/7193188",
      "source": "صدى البلد",
-     "time": "2026-11-24T17:19:53.000Z",
-     "seen": "2026-11-24T17:21:12.149Z"
+     "time": "2026-11-24T17:28:45.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     },
     {
-     "title": "بدء إعادة فرز أصوات انتخابات المكتب التنفيذي لحزب الوفد.. صور",
-     "url": "https://www.elbalad.news/7193183",
+     "title": "أعضاء اللجنة الاستشارية للشئون السياسية: تعقّد المشهد الراهن واتساع رقعة الصراع",
+     "url": "https://www.youm7.com/story/2026/11/24/أعضاء-اللجنة-الاستشارية-للشئون-السياسية-تعقّد-المشهد-الراهن-واتساع-رقعة/7631346",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T17:28:00.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
+    },
+    {
+     "title": "\"بورينجر إنجلهايم\" تطلق شراكة استراتيجية مع \"VeryNile\" لحماية نهر النيل وتعزيز جهود الاستدامة في مصر",
+     "url": "https://www.elbalad.news/7193184",
      "source": "صدى البلد",
-     "time": "2026-11-24T17:19:05.000Z",
-     "seen": "2026-11-24T17:21:12.149Z"
+     "time": "2026-11-24T17:27:05.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     },
     {
-     "title": "مايا مرسى تشهد مناقشات مستقبل الحماية الاجتماعية فى المنتدى الدولى",
-     "url": "https://www.youm7.com/story/2026/11/24/مايا-مرسى-تشهد-مناقشات-مستقبل-الحماية-الاجتماعية-فى-المنتدى-الدولى/7631289",
+     "title": "اللجنة الاستشارية للشئون السياسية تطالب بضرورة مصارحة المواطنين وكشف الحقائق",
+     "url": "https://www.youm7.com/story/2026/11/24/اللجنة-الاستشارية-للشئون-السياسية-تطالب-بضرورة-مصارحة-المواطنين-وكشف-الحقائق/7631343",
      "source": "اليوم السابع",
-     "time": "2026-11-24T17:13:00.000Z",
-     "seen": "2026-11-24T17:21:12.149Z"
+     "time": "2026-11-24T17:25:00.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     },
     {
-     "title": "دعم مصري لوحدة واستقرار وسيادة السودان.. أبرز عناوين اليوم السابع غدا",
-     "url": "https://www.youm7.com/story/2026/11/24/دعم-مصري-لوحدة-واستقرار-وسيادة-السودان-أبرز-عناوين-اليوم-السابع/7631170",
+     "title": "رئيس الوزراء يلتقى أعضاء اللجنة الاستشارية للشئون السياسية",
+     "url": "https://www.youm7.com/story/2026/11/24/رئيس-الوزراء-يلتقى-أعضاء-اللجنة-الاستشارية-للشئون-السياسية/7631341",
      "source": "اليوم السابع",
-     "time": "2026-11-24T17:00:00.000Z",
-     "seen": "2026-11-24T17:11:11.869Z"
-    },
-    {
-     "title": "فى الذكرى التاسعة لمجزرة مسجد الروضة.. الأوقاف: لن ينساها التاريخ",
-     "url": "https://www.youm7.com/story/2026/11/24/فى-الذكرى-التاسعة-لمجزرة-مسجد-الروضة-الأوقاف-لن-ينساها-التاريخ/7631313",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T16:55:00.000Z",
-     "seen": "2026-11-24T17:11:11.869Z"
+     "time": "2026-11-24T17:24:00.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     },
     {
      "title": "كامل إدريس يدعو مصطفى مدبولي لزيارة السودان",
@@ -351,6 +353,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "كأس أمم أفريقيا 2025: السنغال تستعيد اللقب والمغرب يدرس كل \"الإجراءات القانونية\" للطعن في قرار المحكمة",
+     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261124-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%84%D9%82%D8%A8-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%AF%D8%B1%D8%B3-%D9%83%D9%84-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%B9%D9%86-%D9%81%D9%8A-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-24T17:27:38.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
+    },
+    {
+     "title": "كأس أمم أفريقيا 2025: محكمة التحكيم الرياضي تؤكد فوز السنغال باللقب",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%AA%D8%A4%D9%83%D8%AF-%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D9%84%D9%82%D8%A8",
+     "source": "فرانس 24",
+     "time": "2026-11-24T17:15:07.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
+    },
+    {
      "title": "الطين والحجارة.. بدائل اضطرارية لترميم منازل غزة",
      "url": "https://www.skynewsarabia.com/middle-east/1906802-%D8%A7%D9%84%D8%B7%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D9%84%D8%AA%D8%B1%D9%85%D9%8A%D9%85-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%BA%D8%B2%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -393,20 +409,6 @@
      "seen": "2026-11-24T16:01:10.600Z"
     },
     {
-     "title": "قرار محكمة التحكيم الرياضي (كاس): هل يملك المغرب سبيلاً للطعن؟",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D9%83%D8%A7%D8%B3-%D9%87%D9%84-%D9%8A%D9%85%D9%84%D9%83-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%B3%D8%A8%D9%8A%D9%84%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D8%B9%D9%86",
-     "source": "فرانس 24",
-     "time": "2026-11-24T15:48:14.000Z",
-     "seen": "2026-11-24T16:01:10.600Z"
-    },
-    {
-     "title": "مقتل مدير ‌عام جهاز الأمن الداخلي التابع لحماس بغارة جوية على غزة",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%8A%D8%B1-%D8%B9%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%AD%D9%85%D8%A7%D8%B3-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-24T15:40:22.000Z",
-     "seen": "2026-11-24T15:51:10.873Z"
-    },
-    {
      "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وهجوم على أعلى ناطحة سحاب في الرياض",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeG40QUhUOHVtZGV3NGpOdlhIdTBVQVNCd0ZLSUJaMWpPQWxRdnlKRjhsbm00SFJuWUJVV1J5OUthSjFlS1FoU2p0bUFjM2EyZEZ5M29HNG5lekZyQUHSAWNBVV95cUxPeXZMZmxFem9pNEFNNnhCR2Y5dWl2b1JJcmh6UC1EaGtKVXhLaWZWRUV4S1Y0S0o5TGplUVQ2M0EyT3hBMXVlQ21CM3NHY0FEbjlFQ1NuR05TNkw5UzEtbW50SXc?oc=5",
      "source": "BBC",
@@ -435,18 +437,18 @@
      "seen": "2026-11-24T14:30:37.317Z"
     },
     {
-     "title": "أرقام صادمة ـ قفزة مقلقة في جرائم العنف ضد النساء والفتيات في ألمانيا",
-     "url": "https://www.dw.com/ar/أرقام-صادمة-ـ-قفزة-مقلقة-في-جرائم-العنف-ضد-النساء-والفتيات-في-ألمانيا/a-80034581?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-24T13:57:00.000Z",
-     "seen": "2026-11-24T14:10:37.540Z"
+     "title": "من كتالونيا إلى باكو.. برشلونة يقطع أطول رحلة في تاريخه لمواجهة صباح",
+     "url": "https://www.aljazeera.net/sport/2026/11/24/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%b5%d8%a8%d8%a7%d8%ad-%d8%a8%d8%a7%d9%83%d9%88-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T14:25:45.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     },
     {
-     "title": "لماذا لا أُفصح دائماً عن إصابتي بعسر القراءة؟",
-     "url": "https://www.bbc.com/arabic/articles/cmj6lrl82pd8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T13:52:08.000Z",
-     "seen": "2026-11-24T14:00:37.723Z"
+     "title": "رئيس وزراء العراق يكلف وزارة النفط الاتحادية بإدارة حقول المناطق الكردية",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/24/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d9%83%d9%84%d9%81-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d9%81%d8%b7?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T14:21:38.000Z",
+     "seen": "2026-11-24T17:31:11.818Z"
     }
    ]
   },
@@ -454,6 +456,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "لماذا لا أُفصح دائماً عن إصابتي بعسر القراءة؟",
+     "url": "https://www.bbc.com/arabic/articles/cmj6lrl82pd8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T13:52:08.000Z",
+     "seen": "2026-11-24T14:00:37.723Z"
+    },
     {
      "title": "جوجل تستعد لإطلاق قناة تلفزيونية تنتج المحتوى لحظياً بالذكاء الاصطناعي",
      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPenRGdFRCbTNicXVlaW5QdGVMaS03V2VVWGU0M0pLZVdjSm8wVXBDQkpLWFA1MzdPaHI3NDluVnUxM1hlSmRmM3NEUEdncThDUWpiSG1EX2xkU3B0RThwVDh5RmxUd3NKRHp0R1RtXy1xUWVBek5sSEhHQjBuWVd3aUNfNWhpSkx6eTlJX0xzYWRkRHZPcjZxRWFqSHhKMXhmLUNsOEJQRXZaOXNVdDdUQkFoLVByWDhFWGFVdVA4SjkxOV9WNzVwRVk1QUxMT2w3VFNyN3duYmdiclB5ZlBza3Bhb2J1UG9UVDZMeFBfOFF3a0hLSElMWl9UbW1ZOUowb0swOUdVYjctM0FNaTMydDdMVk5ZTG1tcHdMT1VwVEYzbXBxXzF3LWhxSkVCTVYyeFVhTllmZHdJRE5IbkNpTHkzLVJhc1YzYkFtbFVWSWZnTnJZQnhHVkxyd1BDenBBZWJqZTB1VElmMXIyMDJNdHhDeng0OEJkcUtzWDRibTI2dVFuUk9sTDNFbGZGMjNqYjlwOTZoSEdteFUybXA1cmNyMzhxeHRxLWtpN1ZKd014LWY1bTlISVJSbjdBWk1zUzM4QUJwMWpnWXBreUVQZVpra1B5c1NSc2ZrVmx2RW05cTVIT01EdVB2eTBEaUVKbGc?oc=5",
@@ -551,13 +560,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T10:46:34.000Z",
      "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
-     "title": "غزة تعلن حالة الإنذار الوبائي مع تصاعد إصابات التهاب السحايا، فماذا نعرف عنه؟",
-     "url": "https://www.bbc.com/arabic/articles/cmd910jlk73wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T09:56:09.000Z",
-     "seen": "2026-11-24T10:09:20.347Z"
     }
    ]
   }
