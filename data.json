@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-24T17:01:11.405Z",
+ "updated": "2026-11-24T17:11:11.869Z",
  "minute": [
-  "شهدت البنوك المصرية تراجعاً في أسعار صرف الدولار أمام الجنيه في ختام التعاملات.",
-  "تابعت وزارة الخارجية المصرية موقف 27 مصرياً إثر غرق مركب هجرة غير شرعية قبالة بنغازي.",
-  "أعلنت وزارة التموين عن إقبال على سوق اليوم الواحد بالقناطر الخيرية بتخفيضات تصل إلى 30%.",
-  "تضمّنت الأخبار الدولية استهداف سفن في مضيق هرمز وتطورات ميدانية وسياسية في لبنان والإقليم."
+  "تتناول الأخبار الاقتصادية متابعة سعر صرف الدولار مقابل الجنيه بالبنك المركزي المصري، واستهداف موقع التوكيل دخول سوق السيارات المستعملة.",
+  "على المستوى التكنولوجي، صدرت تحذيرات من تحميل تطبيق Instinct AI، بينما تداولت التقارير تسريبات حول أجهزة سامسونج واستعداد جوجل لإطلاق قناة تلفزيونية بالذكاء الاصطناعي.",
+  "تتضمن الأخبار السياسية والإقليمية تحذيرات من كردستان العراق لبغداد بشأن دخول القوات للإقليم، واستمرار التطورات الميدانية في اليمن وغزة."
  ],
  "ai": {
-  "at": "2026-11-24T15:40:37.924Z",
+  "at": "2026-11-24T17:11:11.869Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T17:01:11.405Z"
+  "impacts": 7
  },
  "markets": [
   {
@@ -28,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5438,
-   "change": -0.9,
-   "asOf": "2026-11-24T16:52:41.000Z",
+   "value": 5433,
+   "change": -0.97,
+   "asOf": "2026-11-24T17:01:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6208,
-   "change": -0.9,
-   "asOf": "2026-11-24T16:52:41.000Z",
+   "value": 6203,
+   "change": -0.97,
+   "asOf": "2026-11-24T17:01:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3568,
-   "change": -2.28,
-   "asOf": "2026-11-24T16:52:41.000Z",
+   "value": 3566,
+   "change": -2.35,
+   "asOf": "2026-11-24T17:01:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,34 +63,34 @@
    "unit": "$",
    "value": 1.097,
    "change": -0.01,
-   "asOf": "2026-11-24T17:01:47.000Z",
+   "asOf": "2026-11-24T17:11:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.51,
-   "change": -2.08,
-   "asOf": "2026-11-24T16:51:49.000Z",
+   "value": 87.29,
+   "change": -2.33,
+   "asOf": "2026-11-24T17:01:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7167,
-   "change": -0.96,
-   "asOf": "2026-11-24T17:02:43.000Z",
+   "value": 7202,
+   "change": -0.49,
+   "asOf": "2026-11-24T17:11:56.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59322,
-   "change": -3.09,
-   "asOf": "2026-11-24T17:02:38.000Z",
+   "value": 59941,
+   "change": -2.07,
+   "asOf": "2026-11-24T17:11:55.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,46 +137,47 @@
    "title": "مصر",
    "items": [
     {
-     "title": "التضليل الإعلامي من مناظير متعددة..ضمن فعاليات مبادرة «جسور» بالتعاون مع المجلس الأعلى للشئون الإسلامية",
-     "url": "https://www.elbalad.news/7193177",
+     "title": "خالد الغندور يكشف مفاجأة بشأن الشرط الجزائي في عقد عموتة مع الأهلي",
+     "url": "https://www.elbalad.news/7193178",
      "source": "صدى البلد",
-     "time": "2026-11-24T17:00:31.000Z",
-     "seen": "2026-11-24T17:01:11.405Z"
+     "time": "2026-11-24T17:07:04.000Z",
+     "seen": "2026-11-24T17:11:11.869Z"
     },
     {
-     "title": "حركة تغييرات مرتقبة في الجيزة.. قيادات جديدة لرئاسة الأحياء والمراكز وتصعيد 2 لدرجة سكرتير عام مساعد",
-     "url": "https://www.elbalad.news/7193179",
+     "title": "قبل تحمليه.. خبير تكنولوجيا: احذر من تطبيق Instinct AI",
+     "url": "https://www.elbalad.news/7193182",
      "source": "صدى البلد",
-     "time": "2026-11-24T17:00:01.000Z",
-     "seen": "2026-11-24T17:01:11.405Z"
+     "time": "2026-11-24T17:04:34.000Z",
+     "seen": "2026-11-24T17:11:11.869Z",
+     "impact": "ينبه مستخدمي الهواتف في مصر لأهمية الحذر قبل تحميل تطبيق Instinct AI لحماية أجهزتهم وبياناتهم الشخصية."
     },
     {
-     "title": "احذروا الأمطار في الطريق.. حالة الطقس غداً حتى الأحد المقبل",
-     "url": "https://www.elbalad.news/7193085",
+     "title": "وقفة احتجاجية أمام السفارة الهولندية بالقاهرة للمطالبة بالإفراج عن أحمد ناصر",
+     "url": "https://www.elbalad.news/7193176",
      "source": "صدى البلد",
+     "time": "2026-11-24T17:02:20.000Z",
+     "seen": "2026-11-24T17:11:11.869Z"
+    },
+    {
+     "title": "دعم مصري لوحدة واستقرار وسيادة السودان.. أبرز عناوين اليوم السابع غدا",
+     "url": "https://www.youm7.com/story/2026/11/24/دعم-مصري-لوحدة-واستقرار-وسيادة-السودان-أبرز-عناوين-اليوم-السابع/7631170",
+     "source": "اليوم السابع",
      "time": "2026-11-24T17:00:00.000Z",
-     "seen": "2026-11-24T17:01:11.405Z"
+     "seen": "2026-11-24T17:11:11.869Z"
     },
     {
-     "title": "إزالة تعديات على أراضى أملاك الدولة بمدينة الباويطى والواحات البحرية بالجيزة",
-     "url": "https://www.youm7.com/story/2026/11/24/إزالة-تعديات-على-أراضى-أملاك-الدولة-بمدينة-الباويطى-والواحات-البحرية/7631297",
+     "title": "فى الذكرى التاسعة لمجزرة مسجد الروضة.. الأوقاف: لن ينساها التاريخ",
+     "url": "https://www.youm7.com/story/2026/11/24/فى-الذكرى-التاسعة-لمجزرة-مسجد-الروضة-الأوقاف-لن-ينساها-التاريخ/7631313",
      "source": "اليوم السابع",
-     "time": "2026-11-24T16:44:00.000Z",
-     "seen": "2026-11-24T16:51:10.648Z"
+     "time": "2026-11-24T16:55:00.000Z",
+     "seen": "2026-11-24T17:11:11.869Z"
     },
     {
-     "title": "مفتى الجمهورية: «حصين» توفر للباحثين مقارنة فقهية منهجية وتتبع تطور الفتوى",
-     "url": "https://www.youm7.com/story/2026/11/24/مفتى-الجمهورية-«حصين»-توفر-للباحثين-مقارنة-فقهية-منهجية-وتتبع-تطور/7631293",
+     "title": "الأوقاف تطلق التصفية النهائية للموسم الثالث من «دورى الأئمة النجباء» 29 نوفمبر",
+     "url": "https://www.youm7.com/story/2026/11/24/الأوقاف-تطلق-التصفية-النهائية-للموسم-الثالث-من-«دورى-الأئمة-النجباء»/7631306",
      "source": "اليوم السابع",
-     "time": "2026-11-24T16:43:00.000Z",
-     "seen": "2026-11-24T16:51:10.648Z"
-    },
-    {
-     "title": "بوتين: سنرد على مهاجمة أوكرانيا لمنشآت النفط الروسية",
-     "url": "https://www.youm7.com/story/2026/11/24/بوتين-سنرد-على-مهاجمة-أوكرانيا-لمنشآت-النفط-الروسية/7631242",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T16:10:00.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
+     "time": "2026-11-24T16:50:00.000Z",
+     "seen": "2026-11-24T17:11:11.869Z"
     },
     {
      "title": "كامل إدريس يدعو مصطفى مدبولي لزيارة السودان",
@@ -248,7 +246,8 @@
      "url": "https://alborsaanews.com/2026/11/24/2008740",
      "source": "البورصة",
      "time": "2026-11-24T16:51:38.000Z",
-     "seen": "2026-11-24T17:01:11.405Z"
+     "seen": "2026-11-24T17:01:11.405Z",
+     "impact": "يهم المستهلكين والمستثمرين في سوق السيارات بمصر لتوقعات زيادة الخيارات المتاحة لبيع وشراء السيارات المستعملة."
     },
     {
      "title": "العنف ضد النساء : مشكلة ثقافية أم أزمة قوانين ومؤسسات؟",
@@ -262,14 +261,16 @@
      "url": "https://alborsaanews.com/2026/11/24/2008832",
      "source": "البورصة",
      "time": "2026-11-24T16:17:15.000Z",
-     "seen": "2026-11-24T17:01:11.405Z"
+     "seen": "2026-11-24T17:01:11.405Z",
+     "impact": "يمس المستثمرين والتجار في قطاع المعادن لمتابعة تسريع إجراءات اعتماد المنتجين الجدد وتأثيرها على حركة التداول."
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه فى البنك المركزى المصرى",
      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNXdhei1kdldvTDI4Y0JjVnJnMFZvWmZhQ29vclRjbzZWVTVGbE9BVlVTeEx2YjZOdUF6RWYzMFJnMkxiYnZZREZlbS1vVm9YYzBYbXNxZW9xcmgwY0ZNUU5abE1nUUJHMGc0QVpVeGxhWXpiVnpCckctVHpDMHl3b1FYQWd2WmxkMTU3eWtXeWdSY05ld0M1OWJDQjdkSmhQRFNYYWdaOHBoY0JCUkkteldKNUpiemNnOUtvV2xOQ0NzN1R0M010WE1mTFd3X0ZJbkhaYlNkUm83MjdhQ2dnaXFKUVUxak9JUHA0RDdjX04zN3o0WkRLMmN1TkFMQzkxUXJXN2ZwLVBGMHZ4dVdSbVlnbmVoSUVjZkhkYkNfeXNJdmpxRUxiYWhEdXVBanRhVGduQ2J3TWE3WVl5NHFyektjcjZnN05LS3RxaTB2bVd1Ti1WOW1oUlo0Smk2Vk1YVGtoMlB6MmdYSk00WWUyTlJFcTRwdzIwYU5RaWZwQWZWS210THE4TUVDLXBTVnJBZ1pEUFFLVVRMT3VMMXgyTEoyYVhhRVpSRjlaeWxXamxyd2VpNERzanl1VFBxekFEanpNUGttc2tGQWZWZ2kyR3VvVlBjYkc5SERZeHdLak1Pd9IB4gNBVV95cUxPNXdhei1kdldvTDI4Y0JjVnJnMFZvWmZhQ29vclRjbzZWVTVGbE9BVlVTeEx2YjZOdUF6RWYzMFJnMkxiYnZZREZlbS1vVm9YYzBYbXNxZW9xcmgwY0ZNUU5abE1nUUJHMGc0QVpVeGxhWXpiVnpCckctVHpDMHl3b1FYQWd2WmxkMTU3eWtXeWdSY05ld0M1OWJDQjdkSmhQRFNYYWdaOHBoY0JCUkkteldKNUpiemNnOUtvV2xOQ0NzN1R0M010WE1mTFd3X0ZJbkhaYlNkUm83MjdhQ2dnaXFKUVUxak9JUHA0RDdjX04zN3o0WkRLMmN1TkFMQzkxUXJXN2ZwLVBGMHZ4dVdSbVlnbmVoSUVjZkhkYkNfeXNJdmpxRUxiYWhEdXVBanRhVGduQ2J3TWE3WVl5NHFyektjcjZnN05LS3RxaTB2bVd1Ti1WOW1oUlo0Smk2Vk1YVGtoMlB6MmdYSk00WWUyTlJFcTRwdzIwYU5RaWZwQWZWS210THE4TUVDLXBTVnJBZ1pEUFFLVVRMT3VMMXgyTEoyYVhhRVpSRjlaeWxXamxyd2VpNERzanl1VFBxekFEanpNUGttc2tGQWZWZ2kyR3VvVlBjYkc5SERZeHdLak1Pdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-24T16:02:45.000Z",
-     "seen": "2026-11-24T17:01:11.405Z"
+     "seen": "2026-11-24T17:01:11.405Z",
+     "impact": "يهتم به الأفراد والمستثمرون في مصر لمتابعة أسعار الصرف الرسمية والتي تؤثر على أسعار السلع والتعاملات التجارية."
     },
     {
      "title": "السنغال تستعيد لقب كأس الأمم الأفريقية 2025 بقرار من محكمة التحكيم الرياضية، والمغرب يعتزم الطعن",
@@ -351,6 +352,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الطين والحجارة.. بدائل اضطرارية لترميم منازل غزة",
+     "url": "https://www.skynewsarabia.com/middle-east/1906802-%D8%A7%D9%84%D8%B7%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D9%84%D8%AA%D8%B1%D9%85%D9%8A%D9%85-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%BA%D8%B2%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T17:01:12.000Z",
+     "seen": "2026-11-24T17:11:11.869Z"
+    },
+    {
+     "title": "ما صحة \"الصورة الحصرية\" المزعومة لهجوم برج المركز المالي في الرياض؟",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/ai-alleged-image-attack-towers-financial-center-aftermath-riyadh",
+     "source": "CNN بالعربية",
+     "time": "2026-11-24T17:01:11.000Z",
+     "seen": "2026-11-24T17:11:11.869Z"
+    },
+    {
+     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
+     "source": "العربية",
+     "time": "2026-11-24T16:47:00.000Z",
+     "seen": "2026-11-24T16:41:11.013Z"
+    },
+    {
      "title": "كردستان العراق يحذر بغداد من دخول قواتها للإقليم",
      "url": "https://www.skynewsarabia.com/middle-east/1906845-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AF%D8%AE%D9%88%D9%84-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85",
      "source": "سكاي نيوز عربية",
@@ -363,13 +385,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T16:29:10.000Z",
      "seen": "2026-11-24T16:31:12.124Z"
-    },
-    {
-     "title": "أزمة التدفئة تدفع اللبنانيين إلى استخدام \"جفت الزيتون\"",
-     "url": "https://www.skynewsarabia.com/middle-east/1906796-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AF%D9%81%D8%A6%D8%A9-%D8%AA%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%AC%D9%81%D8%AA-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T16:04:56.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
     },
     {
      "title": "كأس أمم أفريقيا 2025... المغرب سيتخد كل \"الإجراءات القانونية اللازمة\" للطعن في قرار المحكمة الرياضية",
@@ -398,13 +413,6 @@
      "source": "BBC",
      "time": "2026-11-24T15:24:18.000Z",
      "seen": "2026-11-24T15:51:10.873Z"
-    },
-    {
-     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
-     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T15:19:00.000Z",
-     "seen": "2026-11-24T16:41:11.013Z"
     },
     {
      "title": "بعد معركة قضائية مثيرة .. \"كاس\" تعيد لقب أمم أفريقيا إلى السنغال وتسقط قرار \"الكاف\" بفوز المغرب",
@@ -440,13 +448,6 @@
      "source": "BBC عربي",
      "time": "2026-11-24T13:52:08.000Z",
      "seen": "2026-11-24T14:00:37.723Z"
-    },
-    {
-     "title": "ألمانيا ـ دعوة إلى استراتيجية لحماية المراهقين من الابتزاز عبر الإنترنت",
-     "url": "https://www.dw.com/ar/ألمانيا-ـ-دعوة-إلى-استراتيجية-لحماية-المراهقين-من-الابتزاز-عبر-الإنترنت/a-79999313?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-24T13:45:00.000Z",
-     "seen": "2026-11-24T13:30:37.604Z"
     }
    ]
   },
@@ -459,7 +460,8 @@
      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPenRGdFRCbTNicXVlaW5QdGVMaS03V2VVWGU0M0pLZVdjSm8wVXBDQkpLWFA1MzdPaHI3NDluVnUxM1hlSmRmM3NEUEdncThDUWpiSG1EX2xkU3B0RThwVDh5RmxUd3NKRHp0R1RtXy1xUWVBek5sSEhHQjBuWVd3aUNfNWhpSkx6eTlJX0xzYWRkRHZPcjZxRWFqSHhKMXhmLUNsOEJQRXZaOXNVdDdUQkFoLVByWDhFWGFVdVA4SjkxOV9WNzVwRVk1QUxMT2w3VFNyN3duYmdiclB5ZlBza3Bhb2J1UG9UVDZMeFBfOFF3a0hLSElMWl9UbW1ZOUowb0swOUdVYjctM0FNaTMydDdMVk5ZTG1tcHdMT1VwVEYzbXBxXzF3LWhxSkVCTVYyeFVhTllmZHdJRE5IbkNpTHkzLVJhc1YzYkFtbFVWSWZnTnJZQnhHVkxyd1BDenBBZWJqZTB1VElmMXIyMDJNdHhDeng0OEJkcUtzWDRibTI2dVFuUk9sTDNFbGZGMjNqYjlwOTZoSEdteFUybXA1cmNyMzhxeHRxLWtpN1ZKd014LWY1bTlISVJSbjdBWk1zUzM4QUJwMWpnWXBreUVQZVpra1B5c1NSc2ZrVmx2RW05cTVIT01EdVB2eTBEaUVKbGc?oc=5",
      "source": "الشرق للأخبار",
      "time": "2026-11-24T13:52:08.000Z",
-     "seen": "2026-11-24T15:10:37.383Z"
+     "seen": "2026-11-24T15:10:37.383Z",
+     "impact": "يهم المتابعين لقطاع التكنولوجيا والإعلام لتقييم التأثيرات المستقبيلة للذكاء الاصطناعي على صناعة المحتوى المرئي."
     },
     {
      "title": "تسريب: Galaxy S27 Ultra يتخلى عن وحدة التركيز بالليزر وعدسة التقريب 3x",
@@ -473,7 +475,8 @@
      "url": "https://www.tech-wd.com/wd/2026/11/24/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-galaxy-fit-4-%d9%82%d8%af-%d9%8a%d8%b5%d9%84-%d8%a8%d8%b3%d8%b9%d8%b1-79-90-%d9%8a%d9%88%d8%b1%d9%88/",
      "source": "عالم التقنية",
      "time": "2026-11-24T12:56:54.000Z",
-     "seen": "2026-11-24T13:00:38.047Z"
+     "seen": "2026-11-24T13:00:38.047Z",
+     "impact": "يفيد المستهلكين المهتمين بشراء الأجهزة الرياضية الذكية بمعرفة السعر المسرب للسوار الجديد قبل إطلاقه."
     },
     {
      "title": "سامسونج قد تحصر الذاكرة والتخزين الأسرع في Galaxy S27 Pro وUltra",
@@ -481,7 +484,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-24T12:53:10.000Z",
      "seen": "2026-11-24T13:00:38.047Z",
-     "impact": "تمكن متابعة التحديثات والتسريبات التكنولوجية المستهلكين في مصر من اتخاذ قرارات شراء واعية للأجهزة الذكية."
+     "impact": "يسهم في توجيه قرارات المستهلكين المستقبليين حول الفئات المفضلة للشراء من هواتف سامسونج بناءً على المواصفات المتاحة."
     },
     {
      "title": "البنتاغون يطرق أبواب مصانع السيارات.. الهدف ملايين المسيرات",
