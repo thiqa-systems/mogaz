@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:21:12.307Z",
+ "updated": "2026-11-24T19:31:11.945Z",
  "minute": [
   "تضمنت الأنباء الاقتصادية في مصر تخصيص 835 قطعة أرض سكنية جديدة، وفتح الاكتتاب في إصدار استثماري جديد بقيمة 200 مليون جنيه، مع متابعة أسعار الدولار في البنوك.",
   "وعلى الصعيد الصحي والمحلي، أفاد الدكتور جمال شعبان بأن أمراض القلب تسبب 52.2% من الوفيات، بينما كشفت مصر مصير 27 مواطناً بعد غرق مركب هجرة قبالة بنغازي.",
@@ -10,7 +10,9 @@
   "at": "2026-11-24T19:11:11.599Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T19:31:11.945Z"
  },
  "markets": [
   {
@@ -19,34 +21,34 @@
    "unit": "ج.م",
    "value": 54.17,
    "change": 1.41,
-   "asOf": "2026-11-24T19:11:30.000Z",
+   "asOf": "2026-11-24T19:30:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5423,
-   "change": -1.17,
-   "asOf": "2026-11-24T19:11:11.000Z",
+   "value": 5426,
+   "change": -1.12,
+   "asOf": "2026-11-24T19:21:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6191,
-   "change": -1.17,
-   "asOf": "2026-11-24T19:11:11.000Z",
+   "value": 6195,
+   "change": -1.12,
+   "asOf": "2026-11-24T19:21:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3558,
-   "change": -2.55,
-   "asOf": "2026-11-24T19:11:11.000Z",
+   "value": 3560,
+   "change": -2.49,
+   "asOf": "2026-11-24T19:21:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0971,
-   "change": 0,
-   "asOf": "2026-11-24T19:20:44.000Z",
+   "value": 1.097,
+   "change": -0.01,
+   "asOf": "2026-11-24T19:30:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -73,25 +75,25 @@
    "unit": "$/برميل",
    "value": 88.44,
    "change": -1.04,
-   "asOf": "2026-11-24T19:10:21.000Z",
+   "asOf": "2026-11-24T19:21:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7204,
-   "change": -0.45,
-   "asOf": "2026-11-24T19:21:10.000Z",
+   "value": 7196,
+   "change": -0.56,
+   "asOf": "2026-11-24T19:31:15.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59878,
-   "change": -2.18,
-   "asOf": "2026-11-24T19:21:10.000Z",
+   "value": 59795,
+   "change": -2.31,
+   "asOf": "2026-11-24T19:31:12.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عبر zoom.. تفاصيل جلسة ال 45 دقيقة بين الخطيب ونائبه وعبدالحفيظ لاختيار خليفة عموتة",
-     "url": "https://www.elbalad.news/7193341",
+     "title": "غير تقليدية وطبيعية.. حيل مذهلة لتخفيف الصداع أبرزها التدليك والتنفس",
+     "url": "https://www.elbalad.news/7193365",
      "source": "صدى البلد",
-     "time": "2026-11-24T19:17:03.000Z",
-     "seen": "2026-11-24T19:21:12.307Z"
+     "time": "2026-11-24T19:30:44.000Z",
+     "seen": "2026-11-24T19:31:11.945Z"
     },
     {
-     "title": "شروط مارسيل كولر لتولي تدريب الأهلي خلفا لحسين عموتة",
-     "url": "https://www.elbalad.news/7193347",
+     "title": "بالصور.. نجوم الفن في العرض الخاص لفيلم \"ليلة باظت خالص\"",
+     "url": "https://www.elbalad.news/7193329",
      "source": "صدى البلد",
-     "time": "2026-11-24T19:16:24.000Z",
-     "seen": "2026-11-24T19:21:12.307Z"
+     "time": "2026-11-24T19:30:34.000Z",
+     "seen": "2026-11-24T19:31:11.945Z"
     },
     {
-     "title": "مجلس تأديب فنون جامعة بنها يصدر عقوبات رادعة بحق طالبين",
-     "url": "https://www.elbalad.news/7193276",
+     "title": "هل شوربة الدجاج تساعد في علاج نزلات البرد حقا؟.. إليك الإجابة",
+     "url": "https://www.elbalad.news/7193316",
      "source": "صدى البلد",
-     "time": "2026-11-24T19:15:35.000Z",
-     "seen": "2026-11-24T19:21:12.307Z"
+     "time": "2026-11-24T19:30:10.000Z",
+     "seen": "2026-11-24T19:31:11.945Z"
+    },
+    {
+     "title": "سفير عُمان: العلاقات مع مصر نموذج يُحتذى به.. وحراك استثمارى متبادل",
+     "url": "https://www.youm7.com/story/2026/11/24/سفير-عُمان-العلاقات-مع-مصر-نموذج-يُحتذى-به-وحراك-استثمارى/7631428",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T19:24:00.000Z",
+     "seen": "2026-11-24T19:31:11.945Z"
     },
     {
      "title": "اتحاد العمال: 500 قيادة عمالية تشارك فى مؤتمر «دعم الدولة المصرية»",
@@ -170,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/24/وزير-الخارجية-تعزيز-المشاورات-بين-مصر-والأردن-فى-ظل-تحديات/7631399",
      "source": "اليوم السابع",
      "time": "2026-11-24T18:47:00.000Z",
-     "seen": "2026-11-24T18:51:11.413Z"
-    },
-    {
-     "title": "رئيس جامعة عين شمس يناقش خريطة الطريق للتحول إلى الفئة الأولى عالميًا (Tier 1)",
-     "url": "https://www.youm7.com/story/2026/11/24/رئيس-جامعة-عين-شمس-يناقش-خريطة-الطريق-للتحول-إلى-الفئة/7631394",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T18:42:00.000Z",
      "seen": "2026-11-24T18:51:11.413Z"
     },
     {
@@ -222,18 +224,18 @@
      "seen": "2026-11-24T15:00:37.967Z"
     },
     {
-     "title": "بيان مصري سوداني مشترك: لا مساس بالسيادة أو الحقوق المائية.. والاستعداد لتفعيل اتفاقية الدفاع المشترك",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NXBDWC1qVXJRS2NLTkwwemNRNExLMVQzYU43N0VuelFuamQzR19TZ25LSHVKYW1MXzBmQWcySno2aHVjM1hpR2w5LWI3LTBNTDA1eEJkb3NubGpxNHRn?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T13:58:00.000Z",
-     "seen": "2026-11-24T14:10:37.540Z"
+     "title": "مصر تؤكد دعمها الكامل للسودان وترفض المساس بوحدته",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMGlZUVRDTmVRUUFOYnEyUnBvMGQxU2J3ODRDMEFXdzM5b0hnLXNDLTJ6MllBUXVSV2FhUHBlQi1xYW1hbnppTnlzM2lTSG9NcDV0eHJPRjY2alNjSDFtV2RzT3FJc29MMnJ4b29iS2xKSXlzbTJRc2pmbFk1TEJ0bmdyQmIzS0J0RlFNLWJKalc5OURMOFhHaFNTR0lKNG1vaGlDaGl5bUdWVEJHbTRrdnJvLUk1TnU5bTd3Yi0wblZXTU9pNTdwQnVSTnhTYTZyblJZano0SkVUUWt6TGQ4OENWZmZ0V1J2R25jUlR0NlktbWczNlgyYVpibUh0eTBmamVBWmR3VE9kMFVLWERWeS0zTTJGX0pLSWN3eW5TVk1hQVFnMk5tLWZRdUxReEtlbE0zTThKMzA5ZHo2SEhoemkyN0czRjB2MEIxdENSNmx5WXdNcmxBeDlFX3o0enVlTHhDVGFoRnNLdTdrdFYtZDVHNGFXOU0?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-24T14:16:37.000Z",
+     "seen": "2026-11-24T19:31:11.945Z"
     },
     {
-     "title": "بالصور- كشف أثري بالحي الملكي في الإسكندرية يرجح صلته بمقبرة بطليموس الرابع | مصراوي",
-     "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQOS1QdXk4WVZxSkJHR3lONEh0dkIxM3Nycmx1a3UwSDNhWjFpbGlETkJmMU53OFMxLUtzQ3FXYi1TbWdQb25KTF9keHZlMmFIRlRaMXRqclZqWnQ2UVNLd1N3bGNMWHZJSndGVmVaVWxVR0tubDR4aklFaHJmajFnWnhVUVhnMUJ0MXhvZVl5SnNTMXFmVk82OFZMazZxNVJlOWstMF8waHRDQkhJU3RpYUtyS2tyOWNVS1R4OW5hSERzTWRBRUdyZjRRZVc5MzhWYlJKaVV4ei1Id1RCYm9zN2NiNHlmNXI1enA2RGdaZ0RwYmQwWW52M2Fha2lmRWs4RnZxMFczZmQ0QVN0THd1RldidHA1X09nTGtISU1TNnlBaHowZHo0TkxQMUpDRHBFbVNUWS1kSzhQaFFZcGtzQUowai1pX19XeEdyMlBKZEstWWNaTjFNN2lwcTR2ZzdyRmV1QmdBX0Z6UDBienhRazllc0ZkMzJmM3BkQUNqM1BRazdfblF6Tk9YNUtlRDRfTnh4dkNDRmJjTTdFZWlJT1RTRWVQRjNFWE8yNUNSUmE5UzhrTEUybWpsOW51cXpZZU5CV0hQOVVRUTJGbFFBUE5ndkhjRUhSak9xa1VuMW1xczhMUjdhSDhTRENwZGx1cGU5Q294cEtaZDZ0Y2puWHJjYnRNM0ttWU5Vc0hxWDh2SFowVEFrWGdobXRaMF9UUFlMMVo1WV9YMHpmcENtTmpDTW01UEVfem5pQlhVVEtqMV9MVHZENkdJLVZORE0tSU1KRW04aElMVWRnUHVlLVAySlZtYWVvcUFEMlJiZ3k5ZWl2Y0Zv?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-24T13:29:17.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
+     "title": "مصر والسودان تتفقان على تيسير العودة الطوعية للمواطنين السودانيين",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNZDlrVEdXb3BKN3NwZGhZQm9CYk5YVXJSTTRvSHUyYzJUWE1ocWt5MzJyUEF6QkM4ZUJCT012NTZxbWhNWU8xZ1BFMGFkMHV2ZTZEM1VpQ2pMMl9wRVZaY0RETm9fNm50aUQyVVpzM2oxNEZsTEtEUlBKVU9iSUZHR0YzUHpkblVSYlJyZHA5cndPbGNwZU1tTWMzd2ViXzJhYW1wWWk2T3pQU21IcjJXMV9DeVVmNkVpd1FoZTJWczlGdC1PREdkS0xVWllJTkpVU2tCRzNpbC1iM1VYM3NiSDhzdjFkeDVYRVhvQ0p6VFp5eEJxVm15Uk83U28tNWF6LWsxazg2QlBMLXlrTExOdHZvRVoxTkdzc2d2LVVXZTJ3d3BpMGlDWF9TNEpObmtES2R2eHVqMFNQc3ptNjZ3dlE1OTVTR0EyTFdHZk9tajl1SFBpOWVyczJZS3hmVlM4SkFRdEpmT3c3NGcybTBNTDNRZHR4OEk?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-24T14:16:35.000Z",
+     "seen": "2026-11-24T19:31:11.945Z"
     }
    ]
   },
@@ -416,13 +418,6 @@
      "seen": "2026-11-24T17:11:11.869Z"
     },
     {
-     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
-     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T16:47:00.000Z",
-     "seen": "2026-11-24T16:41:11.013Z"
-    },
-    {
      "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها، وهجوم على أعلى ناطحة سحاب في الرياض",
      "url": "https://www.bbc.com/arabic/articles/c6205xd02713o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -450,6 +445,13 @@
      "source": "الجزيرة",
      "time": "2026-11-24T15:48:08.000Z",
      "seen": "2026-11-24T19:11:11.599Z"
+    },
+    {
+     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
+     "source": "العربية",
+     "time": "2026-11-24T15:19:00.000Z",
+     "seen": "2026-11-24T16:41:11.013Z"
     }
    ]
   },
