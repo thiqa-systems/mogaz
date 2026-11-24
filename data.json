@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:20:37.917Z",
+ "updated": "2026-11-24T11:30:37.961Z",
  "minute": [
   "ارتفع سعر الدولار أمام الجنيه المصري وسط تسجيل العملة الأمريكية أقوى أداء لها في نوفمبر منذ 10 سنوات، في حين استعرض مجلس الوزراء جهود تطوير قطاع الكهرباء والطاقة المتجددة.",
   "سجلت أسهم الأسواق الناشئة أكبر مكاسب لها منذ يوليو بدعم من الذكاء الاصطناعي، بالتزامن مع تفوق مدينتي أبوظبي ودبي في مؤشر تبنّي هذه التقنية.",
@@ -10,70 +10,72 @@
   "at": "2026-11-24T11:10:38.002Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-24T11:30:37.961Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.23,
-   "change": 1.52,
-   "asOf": "2026-11-24T11:19:07.000Z",
+   "value": 54.22,
+   "change": 1.5,
+   "asOf": "2026-11-24T11:31:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5528,
-   "change": 0.75,
-   "asOf": "2026-11-24T11:10:36.000Z",
+   "value": 5534,
+   "change": 0.85,
+   "asOf": "2026-11-24T11:21:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6312,
-   "change": 0.75,
-   "asOf": "2026-11-24T11:10:36.000Z",
+   "value": 6318,
+   "change": 0.85,
+   "asOf": "2026-11-24T11:21:13.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3624,
-   "change": -0.76,
-   "asOf": "2026-11-24T11:10:36.000Z",
+   "value": 3628,
+   "change": -0.65,
+   "asOf": "2026-11-24T11:21:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50899,
-   "change": 0.37,
-   "asOf": "2026-11-24T11:05:39.000Z",
+   "value": 50765,
+   "change": 0.1,
+   "asOf": "2026-11-24T11:16:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0948,
-   "change": -0.21,
-   "asOf": "2026-11-24T11:19:44.000Z",
+   "value": 1.0953,
+   "change": -0.17,
+   "asOf": "2026-11-24T11:30:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.83,
-   "change": -2.84,
-   "asOf": "2026-11-24T11:10:26.000Z",
+   "value": 86.85,
+   "change": -2.82,
+   "asOf": "2026-11-24T11:20:59.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59569,
-   "change": -2.68,
-   "asOf": "2026-11-24T11:20:38.000Z",
+   "value": 59828,
+   "change": -2.26,
+   "asOf": "2026-11-24T11:31:10.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,46 +140,53 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نقيب البيطريين: الذكاء الاصطناعى يضع حلولا عملية لتحديات الثروة الحيوانية",
-     "url": "https://www.youm7.com/story/2026/11/24/نقيب-البيطريين-الذكاء-الاصطناعى-يضع-حلولا-عملية-لتحديات-الثروة-الحيوانية/7630730",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T11:19:00.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
-    },
-    {
-     "title": "فخامة الرئيس السيسى: نرفض وندين أي محاولات تستهدف النيل من أمن السودان",
-     "url": "https://www.youm7.com/story/2026/11/24/فخامة-الرئيس-السيسى-نرفض-وندين-أي-محاولات-تستهدف-النيل-من/7630749",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T11:18:00.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
-    },
-    {
-     "title": "ارتفاع حصيلة ضحايا حريق اندلع في مصنع للحلوى بإندونيسيا إلى 26 قتيلا",
-     "url": "https://www.elbalad.news/7192702",
+     "title": "بضغطة زر .. طريقة تقديم شكوى رسمية ضد عدم تطبيق الحد الأدنى للأجور",
+     "url": "https://www.elbalad.news/7192587",
      "source": "صدى البلد",
-     "time": "2026-11-24T11:17:48.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
+     "time": "2026-11-24T11:30:00.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
     },
     {
-     "title": "مصنع صيني جديد لمهمات توربينات الرياح.. جولدويند تبحث توطين الصناعة في مصر",
-     "url": "https://www.elbalad.news/7192696",
+     "title": "كشف حساب عموتة مع الأهلي.. 14 مباراة و11 انتصارًا ونهاية لم تكن متوقعة",
+     "url": "https://www.elbalad.news/7192720",
      "source": "صدى البلد",
-     "time": "2026-11-24T11:17:34.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
+     "time": "2026-11-24T11:29:36.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
     },
     {
-     "title": "فخامة الرئيس السيسى يؤكد محورية العلاقات الأخوية بين مصر والسودان",
-     "url": "https://www.youm7.com/story/2026/11/24/فخامة-الرئيس-السيسى-يؤكد-محورية-العلاقات-الأخوية-بين-مصر-والسودان/7630745",
+     "title": "نائبة بالشيوخ تحذر من أخطاء الخوارزميات وتطالب بضمانات لحماية المواطنين",
+     "url": "https://www.elbalad.news/7192708",
+     "source": "صدى البلد",
+     "time": "2026-11-24T11:28:33.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
+    },
+    {
+     "title": "القوات المسلحة توقع بروتوكول تعاون وعقد اتفاق مع عدد من الجهات المتخصصة",
+     "url": "https://www.youm7.com/story/2026/11/24/القوات-المسلحة-توقع-بروتوكول-تعاون-وعقد-اتفاق-مع-عدد-من/7630778",
      "source": "اليوم السابع",
-     "time": "2026-11-24T11:17:00.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
+     "time": "2026-11-24T11:26:00.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
     },
     {
-     "title": "مقتل 5 مسلحين في عملية أمنية شمال غربي باكستان",
-     "url": "https://www.elbalad.news/7192697",
-     "source": "صدى البلد",
-     "time": "2026-11-24T11:15:45.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
+     "title": "وفد حقوقى يزور مركز الإصلاح والتأهيل بالعاشر من رمضان",
+     "url": "https://www.youm7.com/story/2026/11/24/وفد-حقوقى-يزور-مركز-الإصلاح-والتأهيل-بالعاشر-من-رمضان/7630762",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T11:24:00.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
+    },
+    {
+     "title": "وزير الصحة يبحث التعاون مع إمبريال كوليدج البريطانية تطوير كوادر التمريض",
+     "url": "https://www.youm7.com/story/2026/11/24/وزير-الصحة-يبحث-التعاون-مع-إمبريال-كوليدج-البريطانية-تطوير-كوادر/7630739",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T11:24:00.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
+    },
+    {
+     "title": "مدبولي يوجه بتدبير الاعتمادات المالية اللازمة لتأمين احتياجات السوق من المواد البترولية واستدامة إمدادات الطاقة",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlpVRURyRFNTNVQyOFp5dUlUZDVBR1RrVWZ3ZXdZcGZFUUlJaUYtc3FITWNZNnhrLUxvNFJaZ0JCck9iX0I1d3NqMjZlejNDbllvTzhYWDE1aEZOWGc5YTBYTVJUSGl0ODhDUk9zMFA2dTg2dGRtOXhIOXdRWmhrZmQzX3ozSzZMYXBKMWlrVm5WNGRhemd0OERvSnU0S3NLeGNEUy1DSQ?oc=5",
+     "source": "بوابة الشروق",
+     "time": "2026-11-24T11:23:08.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
     },
     {
      "title": "مصدر بـ\"القومي للبحوث\" يكشف سبب عدم زيادة رواتب الباحثين رغم قرار مدبولي",
@@ -228,13 +237,6 @@
      "source": "Masrawy",
      "time": "2026-11-24T07:00:00.000Z",
      "seen": "2026-11-24T08:39:20.378Z"
-    },
-    {
-     "title": "15 توجيهًا رئاسيًا لتحسين معيشة المواطنين.. وحصد ثمار الإصلاح الاقتصادى",
-     "url": "https://www.maspero.eg/radio-and-tv-magazine-politics/2026/11/24/1008326/15-توجيهًا-رئاسيًا-لتحسين-معيشة-المواطنين--وحصد-ثمار-الإصلاح-الاقتصادى",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-24T02:42:00.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
     }
    ]
   },
@@ -454,6 +456,20 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "إطلاق Huawei Mate 90 Air بسُمك 6.58 ملم وشاشة 7 بوصات ومعالج Kirin 9020",
+     "url": "https://www.tech-wd.com/wd/2026/11/24/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-huawei-mate-90-air-%d8%a8%d8%b3%d9%8f%d9%85%d9%83-6-58-%d9%85%d9%84%d9%85-%d9%88%d8%b4%d8%a7%d8%b4%d8%a9-7-%d8%a8%d9%88%d8%b5%d8%a7%d8%aa-%d9%88%d9%85%d8%b9%d8%a7%d9%84/",
+     "source": "عالم التقنية",
+     "time": "2026-11-24T11:25:44.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
+    },
+    {
+     "title": "هواوي تطلق MateBook Fold S مع شاشة خارجية مربعة ومعالج Kirin XE90",
+     "url": "https://www.tech-wd.com/wd/2026/11/24/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-matebook-fold-s-%d9%85%d8%b9-%d8%b4%d8%a7%d8%b4%d8%a9-%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d9%85%d8%b1%d8%a8%d8%b9%d8%a9-%d9%88%d9%85%d8%b9/",
+     "source": "عالم التقنية",
+     "time": "2026-11-24T11:21:19.000Z",
+     "seen": "2026-11-24T11:30:37.961Z"
+    },
+    {
      "title": "إطلاق Huawei Mate X8 رسمياً بشاشة قابلة للطي وبطارية 6200mAh",
      "url": "https://www.tech-wd.com/wd/2026/11/24/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-huawei-mate-x8-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-%d9%82%d8%a7%d8%a8%d9%84%d8%a9-%d9%84%d9%84%d8%b7%d9%8a-%d9%88%d8%a8%d8%b7%d8%a7%d8%b1/",
      "source": "عالم التقنية",
@@ -540,20 +556,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-24T04:14:14.000Z",
      "seen": "2026-11-24T09:29:21.132Z"
-    },
-    {
-     "title": "هاتف \"OpenAI\" المرتقب قد يشكل تهديدًا لهواتف Galaxy من \"سامسونغ\"",
-     "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOQ0s2S19GN3Fwd3BRSUR4b2NaVThGcVpwSHk3TjJNNnFiX1R2bTliSkdsZ0puZ3Zqd1NHblNfUDg1TnlwTHpPeDdYTGtsOWpjTjNrcGJ6LTdKMnZNOExjeWVXaG43LUJnTGZjN1lXMmhuMngyYTA3UWZCTnR1ZmlIb1hONmdsWl9HMDdKd2ZYWHEwa3k5VkhnN2laZ3d2bW9Ta1ZhN0ZxRUgxa3R3UTI3b3pHWFNUOGhsa0NMNUV2VTBkUXRJYUx6S1dVN0dMRm9BaDFmZk96RUJlY0gwSnBCSkd6MGpZdmgxRVdncE1ZQkhuaGM2VmhjNUllZ2tuQ0tIT0lYY2FrNzFQSmhzeHF4SUFJSUh0N1dWdlI3RVJkSFhuVmx5UVV6Y3lpWjM2VXQtTUdTeVlhNUxhbkdoRDhjblBQMWxSa25vUEx5S081ajFZaEtVdlhVNE5aZnFRTUxEZFlMMkVsN3J1SWZsazVXbEgtTnhsXzczNy16RUN1VDhyVmh0ejk4MXRfWHpPOFozWEhHLXBHSEs3MGpPQzRrTkNzelpVVldfNHBtbmdEb0VPeWlvZDJBVXRsUdIBwANBVV95cUxPQ3EzQklpMlBFZDJmTnhfdVdLNF81TWlKeThEcHRRY0xjd01DNkhiTmJkMTdyRWpzT3huMXhSei1UUVNXRkJFNm8welg1RG5DN2wzdEpDNC1DOWlNN25wOWRWUTNJeVRoSmxnVXpsMDYwc2t4cXlnWnMyZmJPNWNPeWdBakNsU1dnb3RqN0NVN3NnUEJKV0FjaGVDeENDeUtaN2d3YV9CYVhVTTBrN21pLTBGYU9UNUUxNkF3cTc2ZXJKQmFLaVNuTURUZncyVURpTmRYZm1sV2VZaWZnMUpRTWQ1N3c0QkhvYzFHY1NNaUxxR21qOFJhaVh6WktpQ2s2ei1GUFJTN0tEX1ZhREhjSUFtWUVjSDl6UmFJd0tadC1HZG5YMEVpbkhpc2FISklkYlhwOUsxYThpaWZpQUFoOW03RGptWE5EU3A4Wk9ZNUpyckVtMWQtR2h6NUFRWUxPZHhfRmw4MEM5MHdvMEZtZ2tjNGc3aF9QYkNUTzk4SnpVTEU3SVhMdHFBVUhwMnVLZGxfN2hOQTdiNFVFQTJxTlJNVlRiS3RmN3NwMUxzOFhtMWh6aUNaRHNISU1sWVFo?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T03:01:31.000Z",
-     "seen": "2026-11-24T11:20:37.917Z"
-    },
-    {
-     "title": "روسيا تستهدف مواقع مسيرات ومحطات لستارلينك بمنطقة أوكرانية",
-     "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPaGFpbkw1UXJTR1pFa2tsQ2NTaDNmakd2WjBUNjJ6VE1hbTZyM0dJU3F6cTg2VmtENmRrTEJPU1Q4QVZzN00zR0pyQzIwVVBlMFpEcmFMNVlfVUJmTDlpcnNCdmJlblB5M3B1T1pJRDBCWjg0aWpPN0pIT3ZwOWxRdlZYSmFfUnNyUVFXSjBBTW51VHdrNDA5NW5rVnhDa0FVaWIzQl9ueU9oWEhhV3NVWmtkbFZkbVRQX0JnUk1oLXQ5XzhNR3JaVy1EMXhpeUdlWXRfWFVLVGlQQ25QdjJtSHd4TldrRjVMc1N3Sm5JRzNENHVodXE1M0x4QjRIMm1rV0FhaS1UcW1RWExTWGxpazRZdjFtZjJxcF82d0tvM0NCQzJVNWhlaHUzTWhVZHIyOGJMMGVGaGlreWFRVC05TFpRLURhU2xmcC1mbWp4S3RmX0xSQllDUXdpaHVxaDRoQmFOT1FCdE4xMmdLNjBTVUlYWnMzVmRka1Z6blN2NnV1UGMtT2l5VVN0SkZBMDJXUnpTcFJIMEVfeHRzRm10cjdiYXk3anJQaGdFTlN3VzFmclA4dEFoNE1DeC1hMnhLaUFVdFk0dmlsbjhNRlNWd3hPOGNWUUk3aHA1bjAwb0ZqZDZtbW51dGxmTGRfeFlhbE9TM2xsaFJjbm1oYVI0ZHVWQS1RblVQbkhxMkVSZXRvRmI5bVN0eThsNk1HbUs4eHfSAacEQVVfeXFMT1RiV3BQX2hoZS1nNDlfd2NEbkNDQjNDMklqNHFacDA1aTE2NUZNUVcxWGFVYklIYXRHQ3d4bUUyd0dXdEN0bm1iWDloSGJyeFpDTzdrZWJRNEcwM3FFRzlxVXA1RXdfcWJ1bERUM0Ywdl8tUDM1Skl3S1BMODB1Uk9GV09pVTBCRHM2OGFGVnJyQ3BMck5aWVhLbGpNS1hwZmN0VDVLdmRTTVY4dnpDZ05WVU16QlhEd19PQV9mZ08xWFQ4WGJBdFNwcEE0d2E1elBhbEtzeVlYQ19jeU9QRlVwNkEzc1ZnTlVCNUlrNXF0QXloLUsyYmQ2RmxRSWJlV1hmbFlqMXV3Z193ZmZGc0dyNVlBZzJYcFdYb3h6X0V3UkRpakVSVUJxUm90Y3hSMF9OdFJZUWFuSENLV1lIREFzWXV0RWZDSFBhRnprZmdKRl9fOU9HSmt0VlVYc2NoaENDUGJXbi1PTFNhcEFjdHZmcmxMOFhWZDJ4bjdvMWs0UFhfMDlwUndrWlNxN1RnUjRtR0JkazQ0dkdQSUZ1cWlMRTV2ZFc2dDVyejg0Wk1GUldoWkRSWkNocjVnRjRqcHk0UUxyQTFNd1FqaFhlcVpJN0M2M1NHWVRVMG80ZkVkTm4wbk4zU3RqcHpoRXVBVmY4UVNSNnBNSmIxcGU3TzMxSFltbUFOdmxPRTNvTVpoN0ZBNGNaQlEtdlVrVVJ3eDFuNkl4Rnc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-24T02:53:01.000Z",
-     "seen": "2026-11-24T04:49:21.161Z"
     }
    ]
   }
