@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:00:37.967Z",
+ "updated": "2026-11-24T15:10:37.383Z",
  "minute": [
   "استقبل رئيس الوزراء المصري رئيس مجلس الوزراء الانتقالي السوداني، فيما أكد وزير التخطيط أن السوق المصرية منصة للإنتاج والتصدير والتوسع الإقليمي.",
   "تواصل وزارة التموين مراجعة أرصدة السكر لتأمين احتياجات عام 2027، بالتزامن مع متابعة مستجدات سعر صرف الدولار وتأثير التوترات الإقليمية على أسعار السلع.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T15:00:37.967Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T15:10:37.383Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5530,
-   "change": 0.78,
-   "asOf": "2026-11-24T14:51:30.000Z",
+   "value": 5514,
+   "change": 0.5,
+   "asOf": "2026-11-24T15:00:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6313,
-   "change": 0.78,
-   "asOf": "2026-11-24T14:51:30.000Z",
+   "value": 6296,
+   "change": 0.5,
+   "asOf": "2026-11-24T15:00:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3629,
-   "change": -0.62,
-   "asOf": "2026-11-24T14:51:30.000Z",
+   "value": 3619,
+   "change": -0.9,
+   "asOf": "2026-11-24T15:00:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
-   "change": 0.04,
-   "asOf": "2026-11-24T15:00:44.000Z",
+   "value": 1.097,
+   "change": -0.01,
+   "asOf": "2026-11-24T15:10:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.16,
-   "change": -1.35,
-   "asOf": "2026-11-24T14:51:32.000Z",
+   "value": 88.2,
+   "change": -1.31,
+   "asOf": "2026-11-24T15:00:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7214,
-   "change": -0.32,
-   "asOf": "2026-11-24T15:01:36.000Z",
+   "value": 7194,
+   "change": -0.59,
+   "asOf": "2026-11-24T15:10:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60374,
-   "change": -1.37,
-   "asOf": "2026-11-24T15:01:39.000Z",
+   "value": 59965,
+   "change": -2.04,
+   "asOf": "2026-11-24T15:10:36.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تراجع في أسعار الدواجن.. الكيلو الأبيض 75 جنيهًا والبانيه 200 جنيه",
-     "url": "https://www.elbalad.news/7192775",
+     "title": "حق الاعتراض على قرارات الذكاء الاصطناعي.. ضمانات جديدة للطلاب في مشروع قانون التعليم الرقمي",
+     "url": "https://www.elbalad.news/7193057",
      "source": "صدى البلد",
-     "time": "2026-11-24T15:00:00.000Z",
-     "seen": "2026-11-24T15:00:37.967Z"
+     "time": "2026-11-24T15:09:55.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
     },
     {
-     "title": "فوائد فاكهة القشطة.. تقوي المناعة وتحسن الهضم وتمنح الجسم عناصر غذائية مهمة",
-     "url": "https://www.elbalad.news/7192605",
+     "title": "الأرشيف الوطني: مصر في 50 عاماً برنامج جديد على القناة الأولى يوثّق تاريخ مصر ومواد فيلمية تعرض لأول مرة",
+     "url": "https://www.elbalad.news/7193062",
      "source": "صدى البلد",
-     "time": "2026-11-24T15:00:00.000Z",
-     "seen": "2026-11-24T15:00:37.967Z"
+     "time": "2026-11-24T15:08:59.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
     },
     {
-     "title": "أوزبكستان ترسخ حضورها على خارطة الجودو العالمية باستضافة تاريخية لمونديال الناشئين",
-     "url": "https://www.elbalad.news/7193048",
+     "title": "إعادة السنغال بطلة لكأس الأمم الأفريقية 2025",
+     "url": "https://www.elbalad.news/7193061",
      "source": "صدى البلد",
-     "time": "2026-11-24T14:59:52.000Z",
-     "seen": "2026-11-24T15:00:37.967Z"
+     "time": "2026-11-24T15:06:49.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
+    },
+    {
+     "title": "التموين: إقبال كبير على سوق اليوم الواحد بالقناطر الخيرية وتخفيضات تصل إلى 30%",
+     "url": "https://www.youm7.com/story/2026/11/24/التموين-إقبال-كبير-على-سوق-اليوم-الواحد-بالقناطر-الخيرية-وتخفيضات/7631185",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T15:02:00.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
+    },
+    {
+     "title": "كامل إدريس يدعو مصطفى مدبولي لزيارة السودان",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOMzladkhYdWNiV2ZhTGI1SkVTbHBRejR0cEV1U09sWGxxTFFYWm81RGFYTlliUmFmdVZFN2VpdnF6WXFyZ1lXZjJBX0FoYVNqVjd2Z3NVd0hOVTJlalNaakRXMjlkTGtXZVZVcFRCYTRrTnctblpCYm1weE5hSlBXbGZYeWE1VVhLMlhQTnZBVWR4R1JwbEx3b3dVRHdNTDY4dnFib1JtR0tzWVRxNE1iSGdYY21HT3k4b1VwTnFjUllsLWZRSFFMdkUwQmJfcWFGTXd3aFNwRnNOcXNFZllaM2pjWVpBQjFEbC1lM2lWV0k5RHhDSS1HR0tpQms1Q0x5U2tYR05QMVA3RkFXRU5xUmJzeVh6UU1Zby1lZE50N3hib1U0ZUZEcDRLQ2thVDhfblhhUEFMLUZfSlpTOVdlOHE0M1FmVGlrZ2RKWV9Ja2VsTnFlTGJpZWxEb0RiaGE1Y096ZTAxNTFva3diU0pqZ3dreW1ONDA?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-24T15:00:08.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
+    },
+    {
+     "title": "الطقس غدا.. انخفاض بالحرارة وشبورة وفرص أمطار تمتد للعاصمة والصغرى 14 درجة",
+     "url": "https://www.youm7.com/story/2026/11/24/الطقس-غدا-انخفاض-بالحرارة-وشبورة-وفرص-أمطار-تمتد-للعاصمة-والصغرى/7630735",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T15:00:00.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
     },
     {
      "title": "مدبولي وإدريس يشددان على ترابط الأمن المائي المصري والسوداني كجسم واحد لا يتجزأ",
@@ -188,20 +209,6 @@
      "seen": "2026-11-24T15:00:37.967Z"
     },
     {
-     "title": "رئيس الوزراء يتابع الموقف التنفيذى لمشروعات صندوق مصر السيادى",
-     "url": "https://www.youm7.com/story/2026/11/24/رئيس-الوزراء-يتابع-الموقف-التنفيذى-لمشروعات-صندوق-مصر-السيادى/7631136",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T14:24:00.000Z",
-     "seen": "2026-11-24T14:30:37.317Z"
-    },
-    {
-     "title": "مصر تواصل دورها الإنسانى.. استقبال جرحى ووداع متعافين من غزة عبر رفح",
-     "url": "https://www.youm7.com/story/2026/11/24/مصر-تواصل-دورها-الإنسانى-استقبال-جرحى-ووداع-متعافين-من-غزة/7631117",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T14:14:00.000Z",
-     "seen": "2026-11-24T14:20:37.942Z"
-    },
-    {
      "title": "بيان مصري سوداني مشترك: لا مساس بالسيادة أو الحقوق المائية.. والاستعداد لتفعيل اتفاقية الدفاع المشترك",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NXBDWC1qVXJRS2NLTkwwemNRNExLMVQzYU43N0VuelFuamQzR19TZ25LSHVKYW1MXzBmQWcySno2aHVjM1hpR2w5LWI3LTBNTDA1eEJkb3NubGpxNHRn?oc=5",
      "source": "المصري اليوم",
@@ -228,13 +235,6 @@
      "source": "الوطن",
      "time": "2026-11-24T12:55:34.000Z",
      "seen": "2026-11-24T13:10:37.733Z"
-    },
-    {
-     "title": "مدبولي يوجه بتدبير الاعتمادات المالية اللازمة لتأمين احتياجات السوق من المواد البترولية واستدامة إمدادات الطاقة",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlpVRURyRFNTNVQyOFp5dUlUZDVBR1RrVWZ3ZXdZcGZFUUlJaUYtc3FITWNZNnhrLUxvNFJaZ0JCck9iX0I1d3NqMjZlejNDbllvTzhYWDE1aEZOWGc5YTBYTVJUSGl0ODhDUk9zMFA2dTg2dGRtOXhIOXdRWmhrZmQzX3ozSzZMYXBKMWlrVm5WNGRhemd0OERvSnU0S3NLeGNEUy1DSQ?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-24T11:23:08.000Z",
-     "seen": "2026-11-24T11:30:37.961Z"
     }
    ]
   },
@@ -243,18 +243,25 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر صرف الدولار في البنك المركزي المصري والبنوك المصرية (آخر تحديث)",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9SdlVGV2EwTkFBUmh0N25TaU4tcTNzSDdzRXpSNTk2enB2WV8zbDM2NjUtVFVLZXFEWFk1QVJPRlk5dkpLa3Uw?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-24T15:05:00.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
+    },
+    {
+     "title": "السنغال تستعيد لقب كأس الأمم الأفريقية 2025 بقرار من محكمة التحكيم الرياضية",
+     "url": "https://www.bbc.com/arabic/articles/cmdx1vxv1p16o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T15:02:10.000Z",
+     "seen": "2026-11-24T13:00:38.047Z"
+    },
+    {
      "title": "تحديث رسمي.. أسعار العملات اليوم الثلاثاء 24-11-2026 في البنك المركزي",
      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZWNhaGphNHhGM0RKYzFqUmpUSXdWMVdJX1gtVGJVRW9YdUMwWi11XzNsVTlNMFNBODNHdVlEZ19Fb3FmOHA2bmhsQ1dPWmFZZ0pvQTljMG1CeURPS1BTQktBNlBOZlVvbkxGcTZUdlJZVmNhUUdtT2h5YmF3VGJsclB3RU9sSEREczloLWNsVklaX0ZLc2paTHhVTU5EcG9aN2pQMi1RaHRRY000bUFSMWdiYlE0OXUtMzAzcTQ2V1BCaGwzUm1QdkJDdXR0b01RUXJwUTU0Y3E2elJFOWszQTZpVGQwdGRGbWpPX2xsNHNWWWVmTF9qQVRsdWV1RlVjdnBYdnFjTDVLUi1BMG1RaTI5ZHN4M3lVS0RwS1pJV1l2em0zX21iejYycnhLVXluUVNmb2RUZHJQa1g3dlppc3VIeEUzX1lMUmJkemFlZ19rRGVpUFdPSFNGbFFWRmVP?oc=5",
      "source": "جريدة المال",
      "time": "2026-11-24T14:56:36.000Z",
      "seen": "2026-11-24T15:00:37.967Z"
-    },
-    {
-     "title": "محكمة التحكيم الرياضية تعلن فوز السنغال بكأس الأمم الأفريقية 2025",
-     "url": "https://www.bbc.com/arabic/articles/cmdx1vxv1p16o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T14:33:55.000Z",
-     "seen": "2026-11-24T13:00:38.047Z"
     },
     {
      "title": "البنك المركزي: 152.6 مليار دولار حجم التجارة الخارجية لمصر خلال 2025/2026",
@@ -334,14 +341,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-24T13:11:20.000Z",
      "seen": "2026-11-24T14:20:37.942Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الثلاثاء 24 نوفمبر 2026.. كم تساوي 1000 دولار بالجنيه المصري اليوم؟",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsYkhrMHlmRDZDc0dYMTIwVVRWTEI3TzVOTzY4WlVZd2tpdWZqVzZ1bERmVGdKZnNKcldQT3FzUWNWRTFW?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-24T12:27:42.000Z",
-     "seen": "2026-11-24T12:40:38.159Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمعرفة أسعار الصرف وتقييم القوة الشرائية وتكاليف المعاملات."
     }
    ]
   },
@@ -476,6 +475,13 @@
      "impact": "تمكن متابعة التحديثات والتسريبات التكنولوجية المستهلكين في مصر من اتخاذ قرارات شراء واعية للأجهزة الذكية."
     },
     {
+     "title": "جوجل تستعد لإطلاق قناة تلفزيونية تنتج المحتوى لحظياً بالذكاء الاصطناعي",
+     "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPenRGdFRCbTNicXVlaW5QdGVMaS03V2VVWGU0M0pLZVdjSm8wVXBDQkpLWFA1MzdPaHI3NDluVnUxM1hlSmRmM3NEUEdncThDUWpiSG1EX2xkU3B0RThwVDh5RmxUd3NKRHp0R1RtXy1xUWVBek5sSEhHQjBuWVd3aUNfNWhpSkx6eTlJX0xzYWRkRHZPcjZxRWFqSHhKMXhmLUNsOEJQRXZaOXNVdDdUQkFoLVByWDhFWGFVdVA4SjkxOV9WNzVwRVk1QUxMT2w3VFNyN3duYmdiclB5ZlBza3Bhb2J1UG9UVDZMeFBfOFF3a0hLSElMWl9UbW1ZOUowb0swOUdVYjctM0FNaTMydDdMVk5ZTG1tcHdMT1VwVEYzbXBxXzF3LWhxSkVCTVYyeFVhTllmZHdJRE5IbkNpTHkzLVJhc1YzYkFtbFVWSWZnTnJZQnhHVkxyd1BDenBBZWJqZTB1VElmMXIyMDJNdHhDeng0OEJkcUtzWDRibTI2dVFuUk9sTDNFbGZGMjNqYjlwOTZoSEdteFUybXA1cmNyMzhxeHRxLWtpN1ZKd014LWY1bTlISVJSbjdBWk1zUzM4QUJwMWpnWXBreUVQZVpra1B5c1NSc2ZrVmx2RW05cTVIT01EdVB2eTBEaUVKbGc?oc=5",
+     "source": "الشرق للأخبار",
+     "time": "2026-11-24T12:51:32.000Z",
+     "seen": "2026-11-24T15:10:37.383Z"
+    },
+    {
      "title": "البنتاغون يطرق أبواب مصانع السيارات.. الهدف ملايين المسيرات",
      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQSUZBbThzaVR3NHFtcmtqaS1FaVM3QVZpSEdPc3pUeXF6SEJMd2RxV2lJMlJLNkFSYjg2VlBhYXVmQUNPa1U0bkx4My1tZWxNc3A5WVpWWTNIVGhBcVNiTDNXMVhqdm5KNWh5SmdqNjlvWUl0aUpMVGVOVlZqUnBUQlJhUHpNRjFGbHRVMHZfTVlueTh5UndhZ2ZRNndoNFp1YXpZUG80cXhid0doeHRVNnA2QWg0dVhNZnJVNFRiSUFzM0Z1RlA0dEhlbEh3LVozOTQ1OVpJajc2b252RzhHYWhlTUcwVWR5QXAzNUY5NEhFWUNDWFNXNEdKbjEzWV9aSEN1UVNMOE1tR3ZsZGNjX2ktQTFpZENKcHVLZm4tOWlaNzB5U2FXSWk0RnJFY2tkdi03YXB3SjFMTEpVSmRCTXF3UjRpa0RjSlkxN2pxMkZ1VlMxUWVqYnB1RzI3NWZfbVNBQWdDOWNsSzI3WWVobXprQWc4NEFxZnNLb3FkU3J0UnRxVmJTUzViVk5OQjIxdnVJeEJEaWZXQXRWbWhhajllYkxxa0RCNWoyUGtxV3FYMXlEcmE0Z1BXVk16ODNhUmdONUZ5VVlTaWRNOUN4ZVFvT3NadWNUWFk3Q0E5VDNzc3pmdnduOUkwMlc0QTV20gH2A0FVX3lxTE5Mc2RHZEdHaFN2Y095TjZ2LU94YnU5VGZIQWQ1M0hlVVdxZlRXWURWNGc0Qlc3UGxEd2piMTVFbk9pSDdXcFlRNjBEN3h3RkxPb2JkUVh3RFYxV1RsLWhkbzRQZ3hYaG40aE1uTmd0eWFHN1VzTmZMM2o4M25TNWxRWWd1SGpvS3ZNUDdVRjBCd1dHNjBVbzh4Y284bFVhb3RsZ3RfRVdFa3h3QUI1WjhybFVXd0pFd2VEX1J5OTFmeGNKZFlyeTBzZEgyZHJXaGtvSFhJT0RXdkg0NlRZb0tYLU5EY3dFVDZ0d1dSci1ZemI3SlpEemlUd3pSSHdhSE5KbWhfTUtHSU9LeHRWTjZrTjJIV1JFQ2ZFbXl2Sl9oNlg3TmhYaXhmUElfSjdzUDdZZERNWUE1MDd3LUdma3dwV3VnNElEUEdQaVNFd0Qxd0VOOFY0aWM2TVdjV05fTUZkOEhMcnEzdmhnUTRxMUs1ZEF3eEM2Y2pibUl2OXMxVjVRT3FlRWhjeENVRzNqQjlta3ZoMVotYTdiZks3dkwzWkRNbmFmODZuUzFmUkZkQTdGR0FNM0l4WDZWR25MYjhUN3JxbVM5bzlOQkxKaXR2MzdVVFZSOGZwNFRIalBtWFdDYk1SdHRTZDZiSk81dzdzTVU5Mnc?oc=5",
      "source": "سكاي نيوز عربية",
@@ -548,13 +554,6 @@
      "source": "BBC عربي",
      "time": "2026-11-24T09:56:09.000Z",
      "seen": "2026-11-24T10:09:20.347Z"
-    },
-    {
-     "title": "الحد الأقصى للتحويل عبر تطبيق إنستاباى 2026",
-     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOclVJc3FrenVGQ0k3TndjUXVySmdJSWk0Y2UyMU5ScmhCRDh4RkRVU0dqTUUwRlFGa09sMXc3aFZlaTlMMlptOTFOczY4MGFjeHlTWEFKTExNT014cmRBcVVYb0hqRU93ZkJJZTdzVFo5T0lJR1ducUxpYk9GdGZMbVhHb2RHREhQMGl5T0ota09RcXZZWGQ2eG1fVFd3enZyZGszdXVnVFRUODJWNXJzeS1YVlhxdTBzRjUyUmt5SzZRbFY3UWhjdG56ZDByVXJIS2o3TXdMYUlrenJrbEV5VV9UWkU4bEhBX2V4UkFZTHdUMGx2clRlaGFKNHloLXA4ZDFIcHZLdzNCVm9oZ1JxTEVEZEQydzhiU0RZVE5DMHFXRmQ3NGxYVG9WZS00R21NZDR6ZGdadXJEeWFid190bWRmRTl2dXFpVDJoMTFEa3NkMzE0S2dQSldnRDNoOC1IQTBRUEhRZGRzbnFsalBHWtIB6wJBVV95cUxQUHVscW8zRl9oeFhBa3liNUcxV2VsaUNRZVFOUlJMVE4xdzFJck5ncVpiWl9vd0NHSmstZTUtM1Y4NnBoNHVfei13R0R2dTBZN3d3YTY0aml0TENxRTdoMUd5RWF6WGdIcHFROFFSZUloMjFzaTlUbzRnSktNcDhoTjIzQTdJMllWcHhRWkIxa2t0em5JUmxxX05YRElCT0JrNnY5NVZ1eEZrUnN2LVdZQkxIUjhMQWZhaEtuZzNkVTAtRmRiS2xVdm1pRXJYTnlhNWtUZkpFTlNrZ3dqNVJZaW1kWHpBSm1SRzZ2NV9KM3NrcUhaMkY0Rlc5STc4RHpvcU1IZDQ0eVhZTUg1Yl9GSklCX2dsYThmSUt0NDgyXzd4RXlDVkZnYkIyM0JXbDJKRTNZV3lxdnlTWFp1ZTF5UUNOYm5GQmhMbWxtUXhfNnI3VjZ0TkhGbmJmYVF5SmY1cmRzVkNXa3pBaFU?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T09:35:00.000Z",
-     "seen": "2026-11-24T13:30:37.604Z"
     }
    ]
   }
