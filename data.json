@@ -1,62 +1,60 @@
 {
- "updated": "2026-11-24T12:20:38.050Z",
+ "updated": "2026-11-24T12:30:37.960Z",
  "minute": [
-  "تناولت الأخبار المصرية تصريحات لوزير الصناعة حول توظيف الذكاء الاصطناعي في تحسين القرار الاقتصادي، إلى جانب توقيع القوات المسلحة بروتوكول تعاون جديد.",
-  "وعلى الصعيد المالي، سجل سعر صرف الدولار أمام الجنيه المصري ارتفاعاً خلال تعاملات اليوم في البنوك.",
-  "عالمياً وتكنولوجياً، كشفت شركة هواوي عن منتجات ومبيعات جديدة، إلى جانب تقارير اقتصادية وتطورات أحداث في عدة دول."
+  "استقبلت الهيئة العامة للتنمية الصناعية بمصر وفداً عُمانياً للاطلاع على تجربة المطور الصناعي، بالتوازي مع تسجيل تراجع في أسعار صرف العملات الأجنبية مقابل الجنيه في البنوك المصرية.",
+  "وعلى الصعيد الإقليمي والدولي، استمرت الغارات الإسرائيلية على قطاع غزة وجنوب لبنان، فيما فرضت بريطانيا عقوبات تستهدف جماعة الحوثي وقيادات بها.",
+  "وفي القطاع التكنولوجي، كشفت شركة هواوي عن ساعتها الذكية الجديدة Watch Air وأعلنت بيع أكثر من 12 مليون هاتف قابل للطي حول العالم."
  ],
  "ai": {
-  "at": "2026-11-24T11:40:37.646Z",
+  "at": "2026-11-24T12:30:37.960Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T12:20:38.050Z"
+  "impacts": 9
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.18,
-   "change": 1.43,
-   "asOf": "2026-11-24T12:21:18.000Z",
+   "value": 54.2,
+   "change": 1.47,
+   "asOf": "2026-11-24T12:28:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5522,
-   "change": 0.65,
-   "asOf": "2026-11-24T12:11:18.000Z",
+   "value": 5526,
+   "change": 0.72,
+   "asOf": "2026-11-24T12:22:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6305,
-   "change": 0.65,
-   "asOf": "2026-11-24T12:11:18.000Z",
+   "value": 6309,
+   "change": 0.72,
+   "asOf": "2026-11-24T12:22:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3623,
-   "change": -0.77,
-   "asOf": "2026-11-24T12:11:18.000Z",
+   "value": 3624,
+   "change": -0.74,
+   "asOf": "2026-11-24T12:22:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50864,
-   "change": 0.3,
-   "asOf": "2026-11-24T12:06:17.000Z",
+   "value": 50887,
+   "change": 0.35,
+   "asOf": "2026-11-24T12:15:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +63,16 @@
    "unit": "$",
    "value": 1.0959,
    "change": -0.11,
-   "asOf": "2026-11-24T12:20:45.000Z",
+   "asOf": "2026-11-24T12:31:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.21,
-   "change": -2.42,
-   "asOf": "2026-11-24T12:11:11.000Z",
+   "value": 86.8,
+   "change": -2.88,
+   "asOf": "2026-11-24T12:20:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60177,
-   "change": -1.69,
-   "asOf": "2026-11-24T12:21:17.000Z",
+   "value": 60252,
+   "change": -1.57,
+   "asOf": "2026-11-24T12:31:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,45 +137,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وزير الاستثمار: الذكاء الاصطناعي السيادي ضرورة للتطبيقات الحكومية",
-     "url": "https://www.elbalad.news/7192797",
+     "title": "مجدي عبدالغني: الأهلي عمال «يلصم» من أول الدوري.. وبيراميدز كشف الحقيقة",
+     "url": "https://www.elbalad.news/7192690",
      "source": "صدى البلد",
-     "time": "2026-11-24T12:20:05.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
+     "time": "2026-11-24T12:30:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
+    },
+    {
+     "title": "تارا عماد تتألق في إطلالة بمكياج ناعم.. والجمهور يتفاعل مع أحدث ظهور لها",
+     "url": "https://www.elbalad.news/7192579",
+     "source": "صدى البلد",
+     "time": "2026-11-24T12:30:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
+    },
+    {
+     "title": "رئيس التنمية الصناعية تستقبل وفدا عُمانيا للاطلاع على تجربة \"المطور الصناعي\"",
+     "url": "https://www.elbalad.news/7192801",
+     "source": "صدى البلد",
+     "time": "2026-11-24T12:28:14.000Z",
+     "seen": "2026-11-24T12:30:37.960Z",
+     "impact": "تعزز زيارة الوفد العُماني فرص التعاون الاستثماري والصناعي وتبادل الخبرات بين مصر والدول العربية."
+    },
+    {
+     "title": "سفير إسبانيا بالقاهرة يزور البعثة الأثرية الإسبانية بقبة الهوا فى أسوان",
+     "url": "https://www.youm7.com/story/2026/11/24/سفير-إسبانيا-بالقاهرة-يزور-البعثة-الأثرية-الإسبانية-بقبة-الهوا-فى/7630883",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T12:28:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
+    },
+    {
+     "title": "وزير التضامن: مصر ملتزمة بمواصلة الدعم الإغاثى والإنسانى لأهالى غزة",
+     "url": "https://www.youm7.com/story/2026/11/24/وزير-التضامن-مصر-ملتزمة-بمواصلة-الدعم-الإغاثى-والإنسانى-لأهالى-غزة/7630936",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T12:26:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
     },
     {
      "title": "مركز الإصلاح والتأهيل بالعاشر من رمضان.. منظومة طبية ترعى النزلاء على مدار الساعة",
      "url": "https://www.youm7.com/story/2026/11/24/مركز-الإصلاح-والتأهيل-بالعاشر-من-رمضان-منظومة-طبية-ترعى-النزلاء/7630917",
      "source": "اليوم السابع",
      "time": "2026-11-24T12:19:00.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
-     "title": "تسليم عقود الدفعة الخامسة من مسابقة \"30 ألف معلم\" للمدرسين الجدد بقنا",
-     "url": "https://www.elbalad.news/7192786",
-     "source": "صدى البلد",
-     "time": "2026-11-24T12:18:19.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
-     "title": "البنك الدولي: مصر نجحت في بناء واحدة من أنجح شبكات الأمان الاجتماعي عالميًا",
-     "url": "https://www.elbalad.news/7192794",
-     "source": "صدى البلد",
-     "time": "2026-11-24T12:17:15.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
-     "title": "وزير المالية: تحسين الخدمة هو المسار الأساسى لاستخدام الذكاء الاصطناعى",
-     "url": "https://www.youm7.com/story/2026/11/24/وزير-المالية-تحسين-الخدمة-هو-المسار-الأساسى-لاستخدام-الذكاء-الاصطناعى/7630916",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T12:16:00.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
-    },
-    {
-     "title": "وزير النقل يتفقد مشروع خط سكة حديد (الروبيكي – العاشر من رمضان – بلبيس)",
-     "url": "https://www.youm7.com/story/2026/11/24/وزير-النقل-يتفقد-مشروع-خط-سكة-حديد-الروبيكي-–-العاشر/7630914",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T12:14:00.000Z",
      "seen": "2026-11-24T12:20:38.050Z"
     },
     {
@@ -248,35 +247,40 @@
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRdXlJVDdOMEc1MFJJQWVsTlZpREhLV2FEaWxnMHFVWXNBMS1iTW5vZzg4RWljZXZzdWRCY2gwZmlyck45anJuRk1vTWhueWpldXYtZg?oc=5",
      "source": "الأهرام اوتو",
      "time": "2026-11-24T12:15:03.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
+     "seen": "2026-11-24T12:20:38.050Z",
+     "impact": "تراجع أسعار الصرف أمام الجنيه يؤثر مباشرة على تكلفة السلع المستوردة والقوة الشرائية للمواطنين والمستثمرين."
     },
     {
      "title": "أعلى وأقل سعر للدولار اليوم الثلاثاء 24 نوفمبر 2026 في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LNkplVWlOOFJ1cVA4dFpWaFM5ZG1YejlEYUdxSGh0aU1WbGVhZ3BhV3JCcE1zendWemJlNTQyOV9NbVBV?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-24T12:09:32.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
+     "seen": "2026-11-24T12:20:38.050Z",
+     "impact": "تحديد أعلى وأقل سعر للدولار يتيح للمستثمرين والأفراد اختيار الأنسب لتعاملاتهم المالية اليومية."
     },
     {
      "title": "عقوبات بريطانية تستهدف جماعة الحوثي وأربعة من قادتها",
      "url": "https://www.bbc.com/arabic/articles/c6205xd02713o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-24T12:08:55.000Z",
-     "seen": "2026-11-24T08:29:20.977Z"
+     "seen": "2026-11-24T08:29:20.977Z",
+     "impact": "تستهدف العقوبات البريطانية التوترات الإقليمية التي قد تؤثر على حركة الملاحة وسلاسل الإمداد العالمية."
     },
     {
      "title": "سعر الدولار اليوم مقابل الجنيه المصري الثلاثاء 24 نوفمبر 2026.. تحديث أسعار البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE04SDNldHNRLVNHQ3NETDdONUE2ZWFCRTVrV3FQVkY2T2ZKOGdwX05fallyd1BEcE1ZakZGaE1sSzlWVlZq?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-24T11:53:37.000Z",
-     "seen": "2026-11-24T12:10:37.202Z"
+     "seen": "2026-11-24T12:10:37.202Z",
+     "impact": "متابعة سعر الدولار تحديثاً أولاً بأول تساعد في التخطيط المالي للشراء والاستيراد بالعملة الصعبة."
     },
     {
      "title": "ليبيا تعتزم طرح مزايدتين نفطيتين لتطوير الحقول والاستكشاف خلال عامين",
      "url": "https://alborsaanews.com/2026/11/24/2008698",
      "source": "البورصة",
      "time": "2026-11-24T11:49:18.000Z",
-     "seen": "2026-11-24T12:00:37.316Z"
+     "seen": "2026-11-24T12:00:37.316Z",
+     "impact": "طرح مزايدات نفطية إقليمية يفتح آفاقاً لفرص الأعمال والخدمات المساندة لشركات القطاع في المنطقة."
     },
     {
      "title": "«رجال الأعمال» تقترح مجموعة دائمة لتحويل تعاون «بريكا» لمشروعات مشتركة",
@@ -408,6 +412,13 @@
      "seen": "2026-11-24T11:40:37.646Z"
     },
     {
+     "title": "أعاد رسالة دون فتحها ورفض لقاءه.. كيم جونج أون يتجاهل ترامب",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPcVFyam9vRERBSTE5VzF4LXl2eWV6R3JHTmVkOVNjWlhZaXFBajZqbEQ1S1Y0VVJfR0QyREg0TmlJanJBc3M1SVlpTTVnM2dSSW03Y1g3MFRVdFJQYUltMmY2b2tsX0VoajlvWlZIa2tfTU84RmZBRFcyZGNOOHBjMzJ5M3lJbUg1STZJR0FTMmZuNnQyQkFkT0ktdzNiRk9BNU1oSEZaLTdwNjh6bVAxaURNYW0yZVl6TjRyYzRzU00tT2ZqN09xY1JFZ1V2b1F6X21nN3dndWFiODhNVjBTSUhoWGVTVkZvQmhXNVZIUGdLQzc0dl9XSlFuMlZyNTJIbkZ0SDdZTnM0WWdfSWM3bUR5Y2U5aTFPWnliQ0lVb19KbFJjR1dRQUdYOTFCenZjSjM4OHJfaVBDcWJxZnN4ZEdWOWNTNnk0VmJVVkVfbmgtekh5ZktNUHA1T3RfRUV3Y0kzSndFM3JBYzNRY19IbUdORmdhZkRrQTBCNGNmX01JcGdqdU9UN1RZTU1TSDJRdFNndGxiNVFYY2Jsd2NJZHZJc2EtSk5tY0gzTU81eURhejFkcy1F0gGyA0FVX3lxTE5EZkhLbTNIY202N3J6bnJMaGZSYmo2S2JHTTdNWWVzaklEVG9Ua1RJVGEwWGJsMGczZUw5X1JydWl0ZkRxdG54dmQ5bnBvLVhXRWdMZWp5TzhGbzJYQnZRTXEyckZDbVFOOEJZa21nRWJwXzI1YktNWk16S1ZYYU1WZy1KOWlUZTBtbzdfamJGVkNWUDNEeGpoSHg1TnZDS1duUWl6MzNXT1pZYlV0d3JOalE0QmJ0SFFSV2lGRXpGOWZGcXhZQ1RTVDNtVkV4TUlTbkh0SW5IajNDenJEbk9ZQ0dVdWVSampFVWVmMGlkTTdZZ0s1dS1KZlU2NGp5ZUdfRjFQQlUtYVdZZTdCOXp1WExuYWdDTkR6UUtKT09nSVZjMUsyenpMV0prbHAtcGkxdEpXckl4ckZnSWFMbzBjUFhoQlJaSTVMYjVEYTQtbHNIQkJ2UzJNNy1KQmltSUFURS1lVGhhQ3FDT2J1Yk9HT0V5TGdNNzRHMmhQSUFsaHVpWGdUeEM4VENVUTJ2MXBlSmM2ZzRPMmdXZWdWcWdJeVZwX3ZlajZueGpPazNIRmlR?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T10:56:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
+    },
+    {
      "title": "مصرع 11 شخصاً جراء تصادم بين حافلة وشاحنة في إمارة رأس الخيمة",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nS2ptZzZyR0ZiNHVOYlZVSm9pcGpPWUVwVDVwMDJwemtqOWZCVmRFNnM5OWtFNy1TMjYxdHNac0FGT2FGeDFxWVZQN2RvR1VYYUZ0YWdRYWJWN1YwR3fSAWNBVV95cUxQZlFxbHZUUXBScHNDOVhDeEJidXBPQWJNYi1SeWtPWlptU2hyOE5GRWdUTUhTbTJFcEpLT1NLMFBPYTFINnVIdnlTZDRRdUxpNEg0WHNNbFhoU0o4TmQ3dERTV28?oc=5",
      "source": "BBC",
@@ -429,25 +440,18 @@
      "seen": "2026-11-24T12:10:37.202Z"
     },
     {
+     "title": "\"فجر اليمن\" تدخل يومها الـ 50.. وضربات مكثفة ضد الحوثيين",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxObUtzbHRZOVpCeXpSOUF6V1loZTYwcm5yYmljX21nNDQ1N21nYVkybGM2bWhVdEYzaVRueDBTbWEyNW5oR19rZW1HVTAyVUJrdjZnUlF6b0dieXFPalRtMVlsNnJENnBOSHJoa0psdHlGemNLR193cEZLTzE5VWdlUVFUNUNTT2NKYUlMQnIwbVNxUkE0SEd5RzFjbzdKT3RGaXd5MDV4dTg5R1VNek9LRGNIM1dNM1VkSFhXRkRUZDJOcjFFeVdwNUF3X3d1YzN2TjVPeDRNS2Y4bWQzTDZoZVZrMUhVTzI2bUFZVEpDRkZUXzhZUHRwOXY0REpMRXMwTlFQNGVwd2F0S0lCRzllMkJGWkVhaXlSU0EzS3BGcFFqQnJGcWdlRS1UUDUyUHRsUXZGTkFJNFc3Mm9RV3U2aHU0ekJqaGRXMDhJWjBrSUlGZVJISHNWTVo0ZzRldFpVYTY1bTZhV2FuRVFiUlhLMWROSHJKYURzQjlVcUdRNmNoREZ5ZEVvUUFaTURDZVo4cl9PWUZ1MGFqeFRfZmUyN2VwWVh0SFB2OUMxR2hvcEtscVNZM05VVXlYM3NUV1Br?oc=5",
+     "source": "العربية",
+     "time": "2026-11-24T09:59:00.000Z",
+     "seen": "2026-11-24T12:30:37.960Z"
+    },
+    {
      "title": "غزة تعلن حالة الإنذار الوبائي مع تصاعد إصابات التهاب السحايا، فماذا نعرف عنه؟",
      "url": "https://www.bbc.com/arabic/articles/cmd910jlk73wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-24T09:56:09.000Z",
      "seen": "2026-11-24T10:09:20.347Z"
-    },
-    {
-     "title": "إيران تجلد مغنية و4 أعضاء في فرقتها الموسيقية بسبب \"حفل ظهرت فيه بدون حجاب\"",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzhMekdDWUNNR1diSllpdkdrdW1PeW1WaTZ3ZTFwVnN6X3YxUUFBTFB1em4tbHpNYlBLTC1KUldXNmkxYjk4UmpGQWlweWI1Vm1aYkZteGlULWI4Q0RnZElzWjRmYnhTM1E4ejlwRldlV05ubVNXcnVFcndKZFZuc1IxYS1FQlBMSDlIbV93blNJUFdwRTUzQjNZa2lQbng1U3EyWUpGM3Bla0hYWDVNc2Z0R2ZOTXN0MWtjLVcwMTRoU3FJaHlpNVdTTWg?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-24T09:33:57.000Z",
-     "seen": "2026-11-24T12:10:37.202Z"
-    },
-    {
-     "title": "أهالي تونسيين مفقودين في روسيا يناشدون قيس سعيد كشف مصير أبنائهم",
-     "url": "https://www.aljazeera.net/news/2026/11/24/%d8%a3%d9%87%d8%a7%d9%84%d9%8a-%d8%aa%d9%88%d9%86%d8%b3%d9%8a%d9%8a%d9%86-%d9%85%d9%81%d9%82%d9%88%d8%af%d9%8a%d9%86-%d9%81%d9%8a-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T09:08:44.000Z",
-     "seen": "2026-11-24T12:20:38.050Z"
     }
    ]
   },
@@ -460,7 +464,8 @@
      "url": "https://www.tech-wd.com/wd/2026/11/24/%d8%b3%d8%a7%d8%b9%d8%a9-huawei-watch-air-%d8%aa%d8%af%d8%b9%d9%85-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d8%b9%d9%8a%d8%a9-%d9%88%d8%a7%d9%84/",
      "source": "عالم التقنية",
      "time": "2026-11-24T11:39:18.000Z",
-     "seen": "2026-11-24T11:40:37.646Z"
+     "seen": "2026-11-24T11:40:37.646Z",
+     "impact": "توفر الميزات الصحية المتقدمة في الساعة الذكية خيارات جديدة للمستهلكين المهتمين بمتابعة مؤشراتهم الصحية."
     },
     {
      "title": "هواوي تطلق ساعة Watch Air بسماكة 6.9 ملم ووزن 27 غرام",
@@ -475,14 +480,15 @@
      "source": "عالم التقنية",
      "time": "2026-11-24T11:30:58.000Z",
      "seen": "2026-11-24T11:40:37.646Z",
-     "impact": "يهم المستهلكين والمستثمرين في قطاع التكنولوجيا لمعرفة حجم الطلب الاتجاهات العالمية في سوق الهواتف الذكية."
+     "impact": "يعكس حجم مبيعات الهواتف القابلة للطي اتجاهات السوق وتوافر التقنيات الحديثة للمستهلكين."
     },
     {
      "title": "فوجيتسو تشهد طلبًا يفوق التوقعات على معالجات Monaka وتبحث تأمين إنتاجها مع TSMC",
      "url": "https://aitnews.com/2026/11/24/%d9%81%d9%88%d8%ac%d9%8a%d8%aa%d8%b3%d9%88-%d8%a7%d9%84%d8%b7%d9%84%d8%a8-%d8%b9%d9%84%d9%89-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7%d8%aa-%d9%85%d9%88%d9%86%d8%a7%d9%83%d8%a7/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-24T10:57:29.000Z",
-     "seen": "2026-11-24T11:00:37.570Z"
+     "seen": "2026-11-24T11:00:37.570Z",
+     "impact": "ارتفاع الطلب على المعالجات يسلط الضوء على حركة سلاسل إمداد التكنولوجيا والمكونات الإلكترونية."
     },
     {
      "title": "هواوي تكشف عن Watch Air.. أنحف ساعاتها الذكية بسمك 6.9 ملم",
