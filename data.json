@@ -1,16 +1,15 @@
 {
- "updated": "2026-11-24T00:39:01.371Z",
+ "updated": "2026-11-24T00:49:02.279Z",
  "minute": [
-  "تناولت الأخبار المحلية أسعار صرف العملات بالبنوك حيث سجل شراء الدولار 54.29 جنيه في بنك مصر، بجانب تسارع العمل في المشروع النووي المصري.",
-  "تابع المسؤولون محلياً مشروعات تطوير المنازل في كفر سعد بدمياط وتطوير ميدان الإمام الشافعي بالقاهرة.",
-  "تواصلت التطورات الميدانية والضربات العسكرية في اليمن وتأثيراتها الإقليمية.",
-  "تقنياً، صدر تحذير استخباراتي أمريكي من موجة أعطال تكنولوجية جديدة تزامناً مع مستجدات في قطاع الأجهزة والإدارات التقنية."
+  "تتناول الأخبار الاقتصادية متابعة أسعار صرف الدولار والريال السعودي مقابل الجنيه المصري وتواصل انتعاش أسعار الذهب.",
+  "تشمل المستجدات المحلية تسارع العمل بالمشروع النووي المصري وتطوير الخدمات الطبية وافتتاح عيادات ومتابعة مواعيد القطارات.",
+  "على الصعيد الدولي والتكنولوجي برزت تحذيرات استخباراتية من أعطال تكنولوجية جديدة وتطورات ميدانية وسياسية متفرقة."
  ],
  "ai": {
-  "at": "2026-11-24T00:29:02.114Z",
-  "model": "gemini-3.8-flash",
-  "key": 2,
-  "impacts": 9
+  "at": "2026-11-24T00:49:02.279Z",
+  "model": "gemini-3.6-flash",
+  "key": 1,
+  "impacts": 8
  },
  "markets": [
   {
@@ -26,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5555,
-   "change": 4.43,
-   "asOf": "2026-11-24T00:28:59.000Z",
+   "value": 5573,
+   "change": 4.76,
+   "asOf": "2026-11-24T00:39:14.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6342,
-   "change": 4.43,
-   "asOf": "2026-11-24T00:28:59.000Z",
+   "value": 6363,
+   "change": 4.76,
+   "asOf": "2026-11-24T00:39:14.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3644,
-   "change": 3.66,
-   "asOf": "2026-11-24T00:28:59.000Z",
+   "value": 3656,
+   "change": 3.99,
+   "asOf": "2026-11-24T00:39:14.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.091,
-   "change": -0.56,
-   "asOf": "2026-11-24T00:38:46.000Z",
+   "value": 1.0911,
+   "change": -0.55,
+   "asOf": "2026-11-24T00:48:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.95,
-   "change": -6.07,
-   "asOf": "2026-11-24T00:27:53.000Z",
+   "value": 86.92,
+   "change": -6.1,
+   "asOf": "2026-11-24T00:35:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61103,
-   "change": -0.1,
-   "asOf": "2026-11-24T00:39:02.000Z",
+   "value": 61160,
+   "change": 0,
+   "asOf": "2026-11-24T00:49:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,6 +137,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "دمياط.. افتتاح مركز العيادات التخصصية بقرية كفر شحاتة لتعزيز الخدمات الطبية",
+     "url": "https://www.elbalad.news/7192291",
+     "source": "صدى البلد",
+     "time": "2026-11-24T00:39:02.000Z",
+     "seen": "2026-11-24T00:49:02.279Z"
+    },
+    {
      "title": "السنغال تستحق الاحترام.. أشرف حكيمي يعلق على أزمة لقب أمم إفريقيا",
      "url": "https://www.elbalad.news/7192297",
      "source": "صدى البلد",
@@ -152,19 +158,12 @@
      "seen": "2026-11-24T00:39:01.371Z"
     },
     {
-     "title": "وثيقة كاس تشعل الجدل.. السنغال بطلا لأمم إفريقيا 2025 على حساب المغرب",
-     "url": "https://www.elbalad.news/7192296",
-     "source": "صدى البلد",
-     "time": "2026-11-24T00:31:20.000Z",
-     "seen": "2026-11-24T00:39:01.371Z"
-    },
-    {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الثلاثاء 24/ 11/ 2026",
      "url": "https://www.youm7.com/story/2026/11/24/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الثلاثاء-24-11-2026/7628987",
      "source": "اليوم السابع",
      "time": "2026-11-24T00:00:00.000Z",
      "seen": "2026-11-24T00:09:01.963Z",
-     "impact": "يفيد المسافرين يومياً بين القاهرة والإسكندرية في تنظيم جداول رحلاتهم ومواعيد أعمالهم."
+     "impact": "تساعد المسافرين بين القاهرة والإسكندرية في تنظيم مواعيد تنقلاتهم اليومية عبر القطارات."
     },
     {
      "title": "محافظ القاهرة يعلن تفاصيل تطوير ميدان الإمام الشافعي وترميم ضريح شاهين كينج",
@@ -210,6 +209,13 @@
      "seen": "2026-11-23T19:28:41.448Z"
     },
     {
+     "title": "أول تعليق من سائق سيارة «تريلا» الغربية بعد إنقاذه 20 شخصًا وإصابته ببتر: «احتسبت قدمي عند الله» (فيديو)",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LUklQcGZfY1RXU0lQVk5UX1RMZE1DTVd0UWFWeVZBYTNvbjhGcUQxSVJBU1pKUk1JTTdkM2NIanQySEw5VDgxR2xPZ2Z6VFF1RFZBR0k2LWs0VUxHS3dz?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-23T18:58:00.000Z",
+     "seen": "2026-11-24T00:49:02.279Z"
+    },
+    {
      "title": "مدبولي: مصر حريصة على استقرار العراق وفتح آفاق جديدة للتعاون الاقتصادي والاستثماري بين البلدين",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzQzMXhfSHJ6Q1p6eWJuV1g3cHd6eHdRUnppYmNwRFVwb3p4Wk1vR1VyTzNrWVFTempLd2xPUDFHQVB6STl5OE9BRUJWT2FUbDNkREhMcU5NTkUxc2tSVTBJYnBBRGV1d0toMms0ZjNuNjNYVzM3NVlXdGk3Q2NDNzY2T0h5clB3alpaMFpwYWo1ZVZYNW5PYjFrVnhWUFR2ZE9iNjRuWQ?oc=5",
      "source": "بوابة الشروق",
@@ -222,13 +228,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-23T18:43:00.000Z",
      "seen": "2026-11-23T23:08:41.660Z"
-    },
-    {
-     "title": "رئيسا وزراء مصر والعراق يترأسان أعمال اللجنة العليا المشتركة بين البلدين",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HQ2wyZk5Lc2pfbTdLdXJIZ0ktSjdLaUhGN0MyV2I2RUVqZzJzbElIWHE2RUpKSHMxazA0VE45aXdJb0xTNl9vRmtoZ045VkdFR0RLNklQd203S1dTMkZN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-23T18:33:00.000Z",
-     "seen": "2026-11-23T18:38:42.268Z"
     },
     {
      "title": "عاجل| مدبولي: مصر تضع جميع إمكاناتها لتعزيز التعاون مع العراق وفتح آفاق جديدة للاستثمار والتجارة",
@@ -244,12 +243,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "سعر الدولار على مدار الساعة.. 54.29 جنيه شراء الأخضر فى بنك مصر",
-     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcmZaRUlwcVdKaFhFSjVFblhmYzk2ZU1xcFpwM1dqb3c4cGoxLVZjU0tuTWpsLXQzZWQyYkRzRjF4MmJyVnE2Yks2ZzdQc2o4UjExSmhKckFpaTViZjMyUVVSVHdqQm9VWTNzcV9NS2pPWlE2OUJqSHZYd01ZUEZuM0JpeTlaN3BuZTlPbGlHeHdkcnhDMEFxODQ5b082ZDdVXzZLbnpXOWlVXy1sSHpwX0tqbEIycks0aGxXNENOSkQ4ZEM4amRLVGYxRTlKUkE1M09xMjk0Yk1Rd01fMWRXV0h3anVYWV9WX1hRN3J2UzljVlB2d3N0OVRDNUlpY3JELTlzQk1WYUZ6d3VHV3lBMmdubmN2VXd3M0hHSk1PSC1fSy1tQW1DUHh0VjRoMzJoakV1aGhoLUpma1lmRWpqakV6dmFfeTZhUHdoOUtCdDFsTW95Qko4R3VuSWV2bmRSdGtZMkZnUmhYQWxucjNnRF9XWWpkbkJsRy1JajZ1aGp3dWE2ekFmQmtuMl9HTkkwSXVJWtIBjwNBVV95cUxQOUl0NEM3NlctbnhnTmV0c3lfWGFMUHdqUHdVMTMwUFN2VTdRWExOSnhLOUF4QU9VOFh1Y2xvQkRPa2doMXRRNzR6Q2ZyYkVTbUE4XzFNdllJLXZHWS1zUm41cmxjMnBBYkcxWFJaX2hQdkVUNzQyZWg1ZjJmV1hjLTFPQ3k4cHFJWlRmYVFseXNvYjhhWm84b2xEZ09rUTc4V3o3ZWhXZUNQSmlqS3R6RUV6aWRaZ2NNMlRjMEJIOWNUU2lPOTFRRlRJQVJhdnN1YnN2eDBIQUJTSlFQX3drX0JqZkZjWjBhc083YXU5bGctMGQ3d3dPeUhxaWVuekhSbU9oZlpTR2FpZFZFREZMRE5ETnNhalRBbW5WQUk0Y295bVNGeTRzUnRIMUJ0aXNyUGsyOHZMYVo0WmtXXzlnUjlGUDlHVTJQQTBxN1JmVDFrUlZvNmFURFc2WmNRNGRfaHdOMzk5d003aG1xN2VFZlVlU3A1MmZ6T1Ixb0tjcTdiRkdEbVV3Yk1mbFJRaEE?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T00:00:00.000Z",
-     "seen": "2026-11-24T00:09:01.963Z",
-     "impact": "يحدد للمستوردين والمواطنين التكلفة الرسمية لشراء العملة الأمريكية في التعاملات البنكية."
+     "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-24T00:44:54.000Z",
+     "seen": "2026-11-23T23:19:02.246Z",
+     "impact": "تفيد المتعاملين والمستثمرين في مصر بمتابعة مستجدات سعر صرف الدولار أمام الجنيه في البنوك."
+    },
+    {
+     "title": "سعر الذهب يواصل الانتعاش مع تجدد الإقبال على المخاطرة في السوق",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRlZmT21TNEFDM3NtYm1WXzRwTTNKbzVhaWxFVmhQYVpqc09BZE1uUHp3azBsOWhka212ODY4QTVESWVuT1oxTmJuRUZZSEhhUlJJZEpTSXVjNG1POUh2VmliVllPeldPX1A4ZUJYVnk2T2VseHAwSnFQTDNOS21LaV9vNFpoRzJKR2VyR2VaTndHbDlEdFE1Z2E5QUJlSWN3TDFtc2NodzVZRnk5aS1taW1HQ2hoaEtfWXRqTGRMNkFhOHJEczV1Sm5OWW5ldk5lcXlJbjJMbnlwRFd1NG9nb05OVWF6c0dycU9fNE9DS3REMVlvUkdQZHp1TXFkbmREa2dPX3RIQ2REdw?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-24T00:10:27.000Z",
+     "seen": "2026-11-24T00:49:02.279Z",
+     "impact": "تساعد المدخرين والمستثمرين على متابعة توجهات أسواق الذهب وحركته السعرية."
     },
     {
      "title": "سعر الدولار اليوم الثلاثاء 24-11-2026.. الأخضر بكام انهاردة؟",
@@ -259,20 +266,20 @@
      "seen": "2026-11-24T00:09:01.963Z"
     },
     {
+     "title": "سعر الدولار على مدار الساعة.. 54.29 جنيه شراء الأخضر فى بنك مصر",
+     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcmZaRUlwcVdKaFhFSjVFblhmYzk2ZU1xcFpwM1dqb3c4cGoxLVZjU0tuTWpsLXQzZWQyYkRzRjF4MmJyVnE2Yks2ZzdQc2o4UjExSmhKckFpaTViZjMyUVVSVHdqQm9VWTNzcV9NS2pPWlE2OUJqSHZYd01ZUEZuM0JpeTlaN3BuZTlPbGlHeHdkcnhDMEFxODQ5b082ZDdVXzZLbnpXOWlVXy1sSHpwX0tqbEIycks0aGxXNENOSkQ4ZEM4amRLVGYxRTlKUkE1M09xMjk0Yk1Rd01fMWRXV0h3anVYWV9WX1hRN3J2UzljVlB2d3N0OVRDNUlpY3JELTlzQk1WYUZ6d3VHV3lBMmdubmN2VXd3M0hHSk1PSC1fSy1tQW1DUHh0VjRoMzJoakV1aGhoLUpma1lmRWpqakV6dmFfeTZhUHdoOUtCdDFsTW95Qko4R3VuSWV2bmRSdGtZMkZnUmhYQWxucjNnRF9XWWpkbkJsRy1JajZ1aGp3dWE2ekFmQmtuMl9HTkkwSXVJWtIBjwNBVV95cUxQOUl0NEM3NlctbnhnTmV0c3lfWGFMUHdqUHdVMTMwUFN2VTdRWExOSnhLOUF4QU9VOFh1Y2xvQkRPa2doMXRRNzR6Q2ZyYkVTbUE4XzFNdllJLXZHWS1zUm41cmxjMnBBYkcxWFJaX2hQdkVUNzQyZWg1ZjJmV1hjLTFPQ3k4cHFJWlRmYVFseXNvYjhhWm84b2xEZ09rUTc4V3o3ZWhXZUNQSmlqS3R6RUV6aWRaZ2NNMlRjMEJIOWNUU2lPOTFRRlRJQVJhdnN1YnN2eDBIQUJTSlFQX3drX0JqZkZjWjBhc083YXU5bGctMGQ3d3dPeUhxaWVuekhSbU9oZlpTR2FpZFZFREZMRE5ETnNhalRBbW5WQUk0Y295bVNGeTRzUnRIMUJ0aXNyUGsyOHZMYVo0WmtXXzlnUjlGUDlHVTJQQTBxN1JmVDFrUlZvNmFURFc2WmNRNGRfaHdOMzk5d003aG1xN2VFZlVlU3A1MmZ6T1Ixb0tjcTdiRkdEbVV3Yk1mbFJRaEE?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T00:00:00.000Z",
+     "seen": "2026-11-24T00:09:01.963Z",
+     "impact": "توفر للمتعاملين مع بنك مصر معرفة سعر شراء الدولار المذكور عند 54.29 جنيه."
+    },
+    {
      "title": "سعر الريال السعودي مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nbFNjLTZIR0JSOVU0bWZsWWlWNk9vQzAzR3BEekg3V25GdEZvTVo1NmFweWRvd2piNi04Ujdid2pPTjFp?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-23T23:33:12.000Z",
      "seen": "2026-11-24T00:09:01.963Z",
-     "impact": "يهم الراغبين في السفر أو أداء العمرة وذوي العاملين بالخارج لمتابعة قيمة الصرف والتحويلات."
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه المصري اليوم الثلاثاء 24 نوفمبر 2026 في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83eUZDQm1YcWZQempyRDQ3V3J2N2ZtUTA5WjFfdTFLengtU0dvZnh4SWo3VTh0NEhfaHRzel9MaG9waGQy?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-23T23:22:42.000Z",
-     "seen": "2026-11-23T23:19:02.246Z",
-     "impact": "يؤثر تغير سعر الدولار أمام الجنيه على تكاليف التشغيل وتسعير السلع بالنسبة للمستثمرين والتجار."
+     "impact": "تهم الراغبين في التحويل أو السفر لمعرفة سعر صرف الريال السعودي مقابل الجنيه في البنوك."
     },
     {
      "title": "كيف تحول أذربيجان التنويع الاقتصادي إلى نمو مستدام؟",
@@ -339,13 +346,6 @@
      "source": "صدى البلد",
      "time": "2026-11-23T18:56:00.000Z",
      "seen": "2026-11-23T18:58:42.191Z"
-    },
-    {
-     "title": "لماذا يصعب تشخيص مرض مزمن يصيب 10 بالمئة من النساء في العالم؟",
-     "url": "https://www.bbc.com/arabic/articles/c6vg2d8y99m3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-23T18:45:32.000Z",
-     "seen": "2026-11-23T18:48:42.154Z"
     }
    ]
   },
@@ -354,11 +354,25 @@
    "title": "العالم",
    "items": [
     {
+     "title": "سوريا: ظهور رجل ببزة عسكرية إسرائيلية خلال زيارة لعائلته في ريف القنيطرة يثير جدلا",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B8%D9%87%D9%88%D8%B1-%D8%B1%D8%AC%D9%84-%D8%A8%D8%A8%D8%B2%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%AA%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%AC%D8%AF%D9%84%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-24T00:48:24.000Z",
+     "seen": "2026-11-24T00:49:02.279Z"
+    },
+    {
      "title": "الحوثيون: مقتل عشرات المدنيين في غارات سعودية",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/houthis-say-dozens-of-civilians-killed-in-saudi-strikes-on-monday",
      "source": "CNN بالعربية",
      "time": "2026-11-23T23:58:14.000Z",
      "seen": "2026-11-24T00:09:01.963Z"
+    },
+    {
+     "title": "هل تهدد الحرب بين روسيا وأوكرانيا المنطقة المغاربية؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%88%D8%AC%D9%87%D8%A7-%D9%84%D9%88%D8%AC%D9%87/20261123-%D9%87%D9%84-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-23T23:28:27.000Z",
+     "seen": "2026-11-24T00:49:02.279Z"
     },
     {
      "title": "عمليات \"فجر اليمن\" متواصلة.. القوات الحكومية تكبّد الحوثي خسائر جديدة",
@@ -410,20 +424,6 @@
      "seen": "2026-11-23T21:58:41.456Z"
     },
     {
-     "title": "المكسيك: مقتل 16 مشتبها بهم وأربعة عسكريين خلال عملية توقيف زعيم مخدرات بارز",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261123-%D9%82%D8%AA%D9%84%D9%89-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D9%8A%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B2%D8%B9%D9%8A%D9%85-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83",
-     "source": "فرانس 24",
-     "time": "2026-11-23T21:07:46.000Z",
-     "seen": "2026-11-23T21:18:42.252Z"
-    },
-    {
-     "title": "وزارة النقل الإسرائيلية تسمح لشركة \"فلاي دبي\" الإماراتية باستئناف رحلاتها بعد أشهر من تعليقها",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261123-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D9%87",
-     "source": "فرانس 24",
-     "time": "2026-11-23T20:39:46.000Z",
-     "seen": "2026-11-23T20:48:41.612Z"
-    },
-    {
      "title": "واشنطن تفرض عقوبات جديدة على شركات مصرفية وكيانات مرتبطة بإيران",
      "url": "https://www.aljazeera.net/news/2026/11/24/%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b7%d8%a7%d9%84-24-%d8%b4%d8%b1%d9%83%d8%a9-%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d8%a9?traffic_source=rss",
      "source": "الجزيرة",
@@ -461,9 +461,9 @@
      "title": "تسارع العمل في المشروع النووي المصري",
      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOMkFiMlpPVzY4ZWdGOWUtMVNvNll6c1JMV1dBSS1icjNKNWlhWlItOHJWRm9PSGtfd0lhZkoyWmItVGk3OERSTVg5QU1qSmRnR21MMFNlU2Z4VFh2SUpTXzNadThDY1U0cFQxd1VkNXltVkFKSEVOVFlSTFh0QWRfZ2JHTURoaHdMN2t3ZlRkZ2Z2VlB2OHlCQ1IxVWtiY3lXa3ZhelFXSGZrUHROMkpBWFJvR0ZNTExrdzcyeG5YcnZZV09MUndXb2hnbWdTYlJFbVRNaHR3RmdJQ0JnN2tPRVRWR29vVDRRa2hUNElGS0R1RVk1eDJEZXBheXlIU3JIbmdLOGdiaGZZcVlTbldoanNoSXRNV2FpbEtJdC1wQzZraXR2bTh1MXdybklRRUJPLWxqajYtSnV4d3hkb2hqLWZxcWRrRzh2NC05d2pSU3lEWmRsVWVsV2ZlTWNZZWhaX3o5UGZOMnpPMWw3SGlvX0tsSjRNM2lhclROS01vZkJvX0czUXZvalZTajFhUTVyMDVzM0RrNXRJQVZfRzdydkR1SWVVeGRCMmVxZlduZ1BUTklZUmx6cjNkT3E0eG4yNVRyRGRkNjUxZldxQkZNS3IxVndFdXhpR2MwYm1zX0hLUXM4ZEczLWhObExPdERiT1hZWWpNYXdWckpk?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-23T21:37:46.000Z",
+     "time": "2026-11-23T21:44:47.000Z",
      "seen": "2026-11-23T21:48:42.242Z",
-     "impact": "يعكس للمستثمرين وقطاع الصناعة مدى تقدم العمل في مشاريع الطاقة والبنية التحتية الكبرى بمصر."
+     "impact": "تهم المستثمرين والمواطنين لمتابعة سير التقدم في مشروعات الطاقة الكبرى في مصر."
     },
     {
      "title": "هل يجب تغيير عداد الكهرباء بعد 10 سنوات؟.. مسؤول سابق يوضح الحقيقة",
@@ -471,7 +471,7 @@
      "source": "المصري اليوم",
      "time": "2026-11-23T20:06:00.000Z",
      "seen": "2026-11-23T23:08:41.660Z",
-     "impact": "يساعد المشتركين وأصحاب العقارات على معرفة حقيقة الالتزامات المالية أو الفنية الخاصة بعدادات الكهرباء."
+     "impact": "تفيد مستهلكي الكهرباء في مصر للتعرف على حقيقة الحاجة لتغيير العدادات بعد 10 سنوات."
     },
     {
      "title": "إعادة تعيين جينسن هوانغ رئيساً ومديراً تنفيذياً لشركة NVIDIA بعد مراجعة أمنية",
@@ -493,7 +493,14 @@
      "source": "اليوم السابع",
      "time": "2026-11-23T19:00:00.000Z",
      "seen": "2026-11-23T23:39:02.086Z",
-     "impact": "ينبه مسؤولي تكنولوجيا المعلومات وأصحاب الأعمال في مصر لضرورة الاستعداد لاحتمالات التوقف التقني وحماية البيانات."
+     "impact": "تنبه الأفراد والمؤسسات في مصر لاحتمالية تأثر الخدمات بوجود أعطال تكنولوجية جديدة."
+    },
+    {
+     "title": "لماذا يصعب تشخيص مرض مزمن يصيب 10 بالمئة من النساء في العالم؟",
+     "url": "https://www.bbc.com/arabic/articles/c6vg2d8y99m3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-23T18:45:32.000Z",
+     "seen": "2026-11-23T18:48:42.154Z"
     },
     {
      "title": "شركات تستعين بالذكاء الاصطناعي لتقليص خصومات \"الجمعة السوداء\"",
@@ -551,28 +558,10 @@
      "time": "2026-11-23T15:16:24.000Z",
      "seen": "2026-11-23T16:28:15.022Z",
      "impact": "ينبه المستهلكين والمستوردين في مصر للاحتمالات المستقبلية لارتفاع أسعار الهواتف الذكية نتيجة زيادة تكاليف الذاكرة."
-    },
-    {
-     "title": "OpenAI تقترح حدودًا لتطوير الذكاء الاصطناعى قبل فقدان السيطرة",
-     "url": "https://www.youm7.com/story/2026/11/23/OpenAI-%D8%AA%D9%82%D8%AA%D8%B1%D8%AD-%D8%AD%D8%AF%D9%88%D8%AF%D9%8B%D8%A7-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%82%D8%A8%D9%84-%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9/7629407",
-     "source": "اليوم السابع",
-     "time": "2026-11-23T15:00:00.000Z",
-     "seen": "2026-11-23T23:09:01.345Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
