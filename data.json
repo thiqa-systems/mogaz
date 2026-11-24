@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:49:02.039Z",
+ "updated": "2026-11-24T02:59:01.773Z",
  "minute": [
   "تشهد مصر استمراراً للأجواء الدافئة خلال شهري نوفمبر وديسمبر، مع متابعة مستمرة لأسعار صرف العملات والذهب في البنوك.",
   "أوضحت فاكسيرا أهمية التحديث السنوي للقاح الإنفلونزا، بينما أعلنت نقابة الزراعيين تقديم دعم مالي للمعاشات.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T02:49:02.039Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T02:59:01.773Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5561,
-   "change": 1.35,
-   "asOf": "2026-11-24T02:39:26.000Z",
+   "value": 5552,
+   "change": 1.19,
+   "asOf": "2026-11-24T02:49:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6349,
-   "change": 1.35,
-   "asOf": "2026-11-24T02:39:26.000Z",
+   "value": 6339,
+   "change": 1.19,
+   "asOf": "2026-11-24T02:49:06.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3648,
-   "change": -0.1,
-   "asOf": "2026-11-24T02:39:26.000Z",
+   "value": 3642,
+   "change": -0.25,
+   "asOf": "2026-11-24T02:49:06.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0916,
    "change": -0.51,
-   "asOf": "2026-11-24T02:48:44.000Z",
+   "asOf": "2026-11-24T02:58:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.25,
-   "change": -3.49,
-   "asOf": "2026-11-24T02:38:08.000Z",
+   "value": 86.27,
+   "change": -3.47,
+   "asOf": "2026-11-24T02:48:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60178,
-   "change": -1.61,
-   "asOf": "2026-11-24T02:49:24.000Z",
+   "value": 60046,
+   "change": -1.82,
+   "asOf": "2026-11-24T02:59:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "استهداف سفينة روسية في بنغازي.. وزير الخارجية الإيطالي يحذر من امتداد الحرب إلى المتوسط",
+     "url": "https://www.elbalad.news/7192308",
+     "source": "صدى البلد",
+     "time": "2026-11-24T02:48:38.000Z",
+     "seen": "2026-11-24T02:59:01.773Z"
+    },
+    {
      "title": "كوريا الجنوبية: طائرات روسية تدخل منطقة تحديد الدفاع الجوي التابعة لها",
      "url": "https://www.elbalad.news/7192307",
      "source": "صدى البلد",
@@ -151,13 +158,6 @@
      "url": "https://www.elbalad.news/7192217",
      "source": "صدى البلد",
      "time": "2026-11-24T02:37:49.000Z",
-     "seen": "2026-11-24T02:39:02.193Z"
-    },
-    {
-     "title": "لا أحد أكبر من النادي.. عماد النحاس يوجه رسالة قوية للاعبي الأهلي",
-     "url": "https://www.elbalad.news/7192301",
-     "source": "صدى البلد",
-     "time": "2026-11-24T02:30:00.000Z",
      "seen": "2026-11-24T02:39:02.193Z"
     },
     {
@@ -458,6 +458,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "واشنطن تحقق في تورط إيران بعشرات الهجمات الإلكترونية",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNWUZfdVk1UmJFcU9XUU9UakkxUTNFRGpXUWdMcTRaTFdQaU1SR1VrbGZiY1M1V3Y5MDNnVm5UdlpCcGRabkNBams4bFVISzl3TS1VaFFCZ01JRUN0VTl2eTlXQ29wbXdBUXlkSk16Rl9OWFRaeG9pQ1Znay12WXZNNzI5emtvZmFZY2tZOHVFTXBKUzc2LWVDbGdJV2QtZFBPSGRuelFWMGo5ZC1aTm9hN3lTeFBTbDFfZmVvd3hudng4ZjZHUW1fUHhMSUZXMXlQc25NZ3hXMTFsN2RQOXBnSng0eUFPVldaTUdGeU5TekVtb19nMVYzYWEybE9tNWEzMlVzRkV0Tk9DOF9xT3ktODdWRVREMkF2bXZFVXFMZXowOEFMZUxTMGRKWnh2UUZnbFZjNTVabEtmYlFjbU9pSjhCMHJwWW01ZTlMSzZiajRUa1RkNUF3UUZEYnhSRExxdUJZcHMzRHllY3FISkxBa3VMQU5nalMwSUxVRUIzMHdUcXdZbmpOMjJkeEJIZk9SQ0ltc1pNNV9fZVJNekl2dDJpS3FWY2ZrOVdXZmlLZzhZTWFiVGpj0gG8A0FVX3lxTE13c2NwVzhka1Mwb0FpWi1XZlVWM1BvTGZMdjNPYkF5NkU4YV9RUEJ6ekxpX203UnVmNmpZTjlyTkRsMXkwV2xkZFo0d25Ga3JWODM0WTN4OTNxWU81YU80X2F3THhHOUQ4UVBKMXd2Y1liZWM1VGJyYmxITkZBci1TWmtsVUxZVWdMR19fZXJ1NTZOV0pjaVJIWWtENkFpaFFsdVg2ZjNWcVZCajNQUk15cHBLVllJek05MFhRbWxhU0NvdlRWLXRDRmxIYllGOVo3MWZSSVB2R0RNRkltQ1MxSnlJUXc0YVphOENxYVVvc0xVT05taWM4QklGSzhFOXk1SWFXZFVpVlFTWVRlbkRYRUhWQ0hDTWt4V08wemh4RjN1c29Rc0gxanJJODNxY3U2LUpQZnhKLWJySnBwR1pUMkp6UFJqcTA3MUVoZEIxUlVOWTBQLS1aY2c1a0U1VDdHSlM0c3lEd1ppSjBHdDZvVUFJNmJkM3FVTy16T1FwQUxTUF9Fd2l2ZEtLOEJ2MXp2c1pNV1N5VkhzUkJVUmdMaHBQemUtX2tmUUFRd2MyTzlyX0daNjdfZ1BLRQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T01:56:15.000Z",
+     "seen": "2026-11-24T02:59:01.773Z"
+    },
+    {
      "title": "تسارع العمل في المشروع النووي المصري",
      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOMkFiMlpPVzY4ZWdGOWUtMVNvNll6c1JMV1dBSS1icjNKNWlhWlItOHJWRm9PSGtfd0lhZkoyWmItVGk3OERSTVg5QU1qSmRnR21MMFNlU2Z4VFh2SUpTXzNadThDY1U0cFQxd1VkNXltVkFKSEVOVFlSTFh0QWRfZ2JHTURoaHdMN2t3ZlRkZ2Z2VlB2OHlCQ1IxVWtiY3lXa3ZhelFXSGZrUHROMkpBWFJvR0ZNTExrdzcyeG5YcnZZV09MUndXb2hnbWdTYlJFbVRNaHR3RmdJQ0JnN2tPRVRWR29vVDRRa2hUNElGS0R1RVk1eDJEZXBheXlIU3JIbmdLOGdiaGZZcVlTbldoanNoSXRNV2FpbEtJdC1wQzZraXR2bTh1MXdybklRRUJPLWxqajYtSnV4d3hkb2hqLWZxcWRrRzh2NC05d2pSU3lEWmRsVWVsV2ZlTWNZZWhaX3o5UGZOMnpPMWw3SGlvX0tsSjRNM2lhclROS01vZkJvX0czUXZvalZTajFhUTVyMDVzM0RrNXRJQVZfRzdydkR1SWVVeGRCMmVxZlduZ1BUTklZUmx6cjNkT3E0eG4yNVRyRGRkNjUxZldxQkZNS3IxVndFdXhpR2MwYm1zX0hLUXM4ZEczLWhObExPdERiT1hZWWpNYXdWckpk?oc=5",
      "source": "الشرق الأوسط",
@@ -550,24 +557,10 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-23T15:32:13.000Z",
      "seen": "2026-11-23T15:38:14.179Z"
-    },
-    {
-     "title": "\"سامسونغ\" تدرس رفع أسعار هواتف Galaxy S27 بسبب قفزة تكاليف الذاكرة",
-     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOem5TRHBiV3F1NjVlY21iblZVMFZxV1lqODdOTWkyV2JFdkFRTHZidGpueklfX0tpS0MyWHhOd3RqZWRUa2tzOG4tMjdpaUdRYnUzWmNNV09iNk1xaDhPM3BZLWt4ZXpkRzVuUnFOVGtrU3Npandzd09ocmNQWXB2RE1MQTB1UXMySXNKQVZJR1JRV21fYVBMODBlVXQ2N0NpbEZqZzBRRkpEVWdHOWpyZTZLT2tMQmVXVkY5MWpOU1d6ckVlWDJZXzJJOUtrZWtTZ2pWdUVYRUhqQnp0eTJPMWl6Z25Ya2I3SzM1OUFibjdnSFQ0cEVNTkxscTMzUFpsYmhQV2dIZk1LdHRVVXF6aVZlclNxYW1NOXk1aEtsZVN2TnloUjItYXVBLVN0R3U5ZmJraDRYNU1LTDZDc2ZCTjZXNzY3MFZBaHJjSFBWYlgyWmxRbG9PTzR6U2VTTlltWFlGV2lyY0RaekUyMlh3d09IVHh3TlV5a2I5dDd0d0E1N3c2ckkxS0J2WDFpR18waGNPWlNHeW91MTFtcDhDU3VmaXUtTW1ySXZURVdoX2gzWXNxZGxTd3c5NnZtVXdiVU9rYlBfLVRhS1p0SW5nQy1nQ1E2cHE4Z0xUcVpnaTBDUkZfYUJqRjFhRjRwYzTSAfQDQVVfeXFMT1RJUE5wZXlZcVpCck9BY2w4N1RxLUI1LXJuYVpMOVlSbnZwbzMySWV5MlZkZFh2alU1QnRTOU1QNDhMSjA3WU43UUpkRm83UXdTWXlxbmx5YjVFQWs4enJmdWZibEJ4cXJWR2h4b0dpc1EyRU1jQnN1VFZSejRUNlRyOENiMFg5b0FiTWIzbnNJQXlJY05qMlVtMHVtX2ZkTlNJRXNDc2taZmE2YWJyaWtNckc0MnMwZi1BZlpsdkhDT0x1NXRfUnhkUmVoaXRmMzB1bTZjR3RRYlVLa0hSSEFKOGluMTNXYmV0WjZmQU9CQkliUVpVckJaZVVuNlY3Smo4X0JCR1FVWk1vMU5penk1akpSRzE3NWV4REdZMW95M0xETWRVTkhtZGFrQWZtREF2d1p1a2s1aDZXZG9xMWRCaG1EcklaclBIeHBXYmcycER2N1pHQUNfbTNhSFAzQ1BIWkxNVzhzTTBKS2UyU1VJUFF3Yk56TUpROGgzSUppa3BrMXdueDJ5QmtrR0daUUZMb0J6S1dKWTBvMDAwdTh2UVhuXzNIVTVmeF9zR2lmS2I0b01CZDBaaEx3X011WXZIUkJCSVNBa25FRVRWXzVSMGxlSlc0cVB5RFRPUVMxVFNtYm0tajBjeWJCaERCVnlsXzE?oc=5",
-     "source": "العربية",
-     "time": "2026-11-23T15:16:24.000Z",
-     "seen": "2026-11-23T16:28:15.022Z",
-     "impact": "ينبه المستهلكين والمستوردين في مصر للاحتمالات المستقبلية لارتفاع أسعار الهواتف الذكية نتيجة زيادة تكاليف الذاكرة."
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
