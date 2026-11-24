@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:01:27.501Z",
+ "updated": "2026-11-24T23:11:28.017Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T23:01:27.501Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T23:11:28.017Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5418,
-   "change": -1.26,
-   "asOf": "2026-11-24T21:59:57.000Z",
+   "value": 5423,
+   "change": -1.17,
+   "asOf": "2026-11-24T23:02:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6185,
-   "change": -1.26,
-   "asOf": "2026-11-24T21:59:57.000Z",
+   "value": 6191,
+   "change": -1.17,
+   "asOf": "2026-11-24T23:02:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3555,
-   "change": -2.64,
-   "asOf": "2026-11-24T21:59:57.000Z",
+   "value": 3558,
+   "change": -2.55,
+   "asOf": "2026-11-24T23:02:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.02,
-   "asOf": "2026-11-24T23:00:43.000Z",
+   "value": 1.0964,
+   "change": -0.07,
+   "asOf": "2026-11-24T23:11:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59869,
-   "change": -2.19,
-   "asOf": "2026-11-24T23:01:28.000Z",
+   "value": 59885,
+   "change": -2.17,
+   "asOf": "2026-11-24T23:12:25.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "تركي آل الشيخ يُثير تساؤلات جماهير الإسماعيلي بمنشور غامض",
+     "url": "https://www.elbalad.news/7193595",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:10:52.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
+    },
+    {
+     "title": "«هات مدرب فرز أول» .. أحمد عبد الباسط يُحذّر الأهلي من التسرّع في اختيار المدرب | فيديو",
+     "url": "https://www.elbalad.news/7193563",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:08:46.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
+    },
+    {
+     "title": "هجمات على ميناء الحديدة بعد دعوة التحالف للمدنيين بإخلائه",
+     "url": "https://www.elbalad.news/7193594",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:05:22.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
+    },
+    {
      "title": "من القرى والنجوع إلى المناصب القيادية.. كيف يدعم القومي للمرأة السيدات؟",
      "url": "https://www.youm7.com/story/2026/11/25/من-القرى-والنجوع-إلى-المناصب-القيادية-كيف-يدعم-القومي-للمرأة/7630474",
      "source": "اليوم السابع",
@@ -149,27 +170,6 @@
      "title": "تنفيذا لتوصيات منتدى مصر.. استمرار التقدم لبرنامج \"ASPIRE Egypt\" لدعم الصناعة",
      "url": "https://www.youm7.com/story/2026/11/25/تنفيذا-لتوصيات-منتدى-مصر-استمرار-التقدم-لبرنامج-ASPIRE-Egypt-لدعم/7630843",
      "source": "اليوم السابع",
-     "time": "2026-11-24T23:00:00.000Z",
-     "seen": "2026-11-24T23:01:27.501Z"
-    },
-    {
-     "title": "أذكار النوم كاملة مكتوبة من السنة النبوية.. حصن نفسك قبل المنام",
-     "url": "https://www.elbalad.news/7193551",
-     "source": "صدى البلد",
-     "time": "2026-11-24T23:00:00.000Z",
-     "seen": "2026-11-24T23:01:27.501Z"
-    },
-    {
-     "title": "كيف أحدثت المبادرات الرئاسية تحولًا كبيرًا في مفهوم الرعاية الصحية.. حسام عبد الغفار يجيب",
-     "url": "https://www.elbalad.news/7193530",
-     "source": "صدى البلد",
-     "time": "2026-11-24T23:00:00.000Z",
-     "seen": "2026-11-24T23:01:27.501Z"
-    },
-    {
-     "title": "ماذا قالت طالبة الحوامدية فى اعتداء الدجال المزيف عليها ؟.. التحقيقات تكشف التفاصيل",
-     "url": "https://www.elbalad.news/7192589",
-     "source": "صدى البلد",
      "time": "2026-11-24T23:00:00.000Z",
      "seen": "2026-11-24T23:01:27.501Z"
     },
@@ -243,6 +243,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "الحوثيون يتقدمون نحو عدن ويهددون باستهداف جدة وجميع الموانئ السعودية",
+     "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T23:07:38.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
+    },
+    {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الأربعاء 25 نوفمبر 2026 في البنوك.. استقرار أسعار الشراء والبيع",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1IS3ZSUHFoWlBwQ1FMQXF6ckFBOW9QanJHdkl5OXJDdkdPTjRDOXVBM1IxM2ZJQUZhRlozbHFiSHJUWlFn?oc=5",
      "source": "جريدة الدستور",
@@ -251,11 +258,10 @@
     },
     {
      "title": "ثبات سعر الدولار مقابل الجنيه فى البنوك اليوم الأربعاء 25 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOUXg2d1lXN3RHNTBiMERLU2ZuN1lrNEd1U2ZYSHN6TUFZLUx3YzJYMEtMcy1vTEFuZ3JZdlNYSWdkdnExT3NMTTdzRTlBbk1nVkI2Q3R0bzllbjFfUkg4amFTd0U3QUc0YUxzQUFDYWUtcE9ZYjBjYVg2OGxqalo2SnpGTEhtYVRvdVh1RkpzMGZmYWtzZzlmV2Z4T1VJSGtIV0NkU0l1c2NaVEh2SjFMZHRpMUNKN1B6eE1ST0NpSUlyLXNTTG5NcVIzblo3ZTRRdmpqOHBiU2UwdXVPWTAwbllFN25OR3dubDBtdU9CZE41YTAxVnUxTFNQRDR6OFM2T1J4RTFpRG1MLVpmSDhvTzNmZlp5ZmN2OHYxSDgzbW42YVFLbGx4UFJFVm05NkotckZaMF95M0x5TWFMNzROVjJBcFZYZnlyVERldnVkRnZuX3dMeFF6UFFjYXJpOE5qODZQZXlrVkptN091V3BJcndiN0lMcmpVTXVtV1dyRFZmUlZEWWhGRHFCREtBMnA2czdoWDVWbTF0N1BfQkZiRHdHdFNaSGVIdlF2TDI0dmt2NTh1N3NoejdzcXRQVGlxd0pVQml4OTFYRVgtWi1KZkJIWlBzdU9zZnfSAdQDQVVfeXFMTnI0WUxWQ0pqY1U5VXJQV2Y0NC1HcG5kNDFiQW1LbUdVajFZZU9nMXA2ckV5dmdDQWRWVkltOU9ZNWt2Z1pGY1BiYVZjNUxDLVhsdzV3bmw4WUVUSFV5QjQyOTBQM1ZMVHRnU3Z0RDZTaEg5VUpjQ1B5YkZfVFctNHkweE5vemdZUFE1Y3ZXVEtsSWRONkVmMUxyTk9uNllxamltN0c4cW16T0xaSVF2Q2RYa1pWX0U2X3AydF9ZUFYtZTdSVnR2c18wV1p0WW1UM0JuZ0ZyY3o1WFNJaHQ4Z1djOHpnbllqUVVKbmh4Qm12X0liVUtvaW5mazBhZURzcEpPcHpOVmRKTlUtWElSd1JjVEM0MXlVTk1ZNVJnNU1Ja0pZUVJaWmFBSVpTWEc3OE9HRURiS1pVWnhfTTRFZ3BzNHdCM0FOSUEwdGNpczk0N3BSMVpadG4zYUJqMDRwdjNtVUdkdDROSEJFNDRUbWUyUGhsR1R6QXhiSkRTcXMzd0tfMlIzRlFxeWU1WWY0LXJuSDZESDBmVVBVdklOVTQ2UjlYYi1NTzd6cDEzZzJYbnlzNGJEdTM4b0JZUEx0TzdVU0hHR3cteHZRN1JkNDdBcWd4?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOcjRZTFZDSmpjVTlVclBXZjQ0LUdwbmQ0MWJBbUttR1VqMVllT2cxcDZyRXl2Z0NBZFZWSW05T1k1a3ZnWkZjUGJhVmM1TEMtWGx3NXdubDhZRVRIVXlCNDI5MFAzVkxUdGdTdnRENlNoSDlVSmNDUHliRl9UVy00eTB4Tm96Z1lQUTVjdldUS2xJZE42RWYxTHJOT242WXFqaW03RzhxbXpPTFpJUXZDZFhrWlZfRTZfcDJ0X1lQVi1lN1JWdHZzXzBXWnRZbVQzQm5nRnJjejVYU0lodDhnV2M4emduWWpRVUpuaHhCbXZfSWJVS29pbmZrMGFlRHNwSk9wek5WZEpOVS1YSVJ3UmNUQzQxeVVOTVk1Umc1TUlrSllRUlpaYUFJWlNYRzc4T0dFRGJLWlVaeF9NNEVncHM0d0IzQU5JQTB0Y2lzOTQ3cFIxWlp0bjNhQmowNHB2M21VR2R0NE5IQkU0NFRtZTJQaGxHVHpBeGJKRFNxczN3S18yUjNGUXF5ZTVZZjQtcm5INkRIMGZVUFV2SU5VNDZSOVhiLU1PN3pwMTNnMlhueXM0YkR1MzhvQllQTHRPN1VTSEdHdy14dlE3UmQ0N0FxZ3jSAdQDQVVfeXFMTnI0WUxWQ0pqY1U5VXJQV2Y0NC1HcG5kNDFiQW1LbUdVajFZZU9nMXA2ckV5dmdDQWRWVkltOU9ZNWt2Z1pGY1BiYVZjNUxDLVhsdzV3bmw4WUVUSFV5QjQyOTBQM1ZMVHRnU3Z0RDZTaEg5VUpjQ1B5YkZfVFctNHkweE5vemdZUFE1Y3ZXVEtsSWRONkVmMUxyTk9uNllxamltN0c4cW16T0xaSVF2Q2RYa1pWX0U2X3AydF9ZUFYtZTdSVnR2c18wV1p0WW1UM0JuZ0ZyY3o1WFNJaHQ4Z1djOHpnbllqUVVKbmh4Qm12X0liVUtvaW5mazBhZURzcEpPcHpOVmRKTlUtWElSd1JjVEM0MXlVTk1ZNVJnNU1Ja0pZUVJaWmFBSVpTWEc3OE9HRURiS1pVWnhfTTRFZ3BzNHdCM0FOSUEwdGNpczk0N3BSMVpadG4zYUJqMDRwdjNtVUdkdDROSEJFNDRUbWUyUGhsR1R6QXhiSkRTcXMzd0tfMlIzRlFxeWU1WWY0LXJuSDZESDBmVVBVdklOVTQ2UjlYYi1NTzd6cDEzZzJYbnlzNGJEdTM4b0JZUEx0TzdVU0hHR3cteHZRN1JkNDdBcWd4?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T22:11:27.853Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة استقرار أسعار الصرف وتأثيرها على تكلفة الواردات والأسعار."
+     "time": "2026-11-24T22:03:44.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
     },
     {
      "title": "دانيال موس يكتب: كيف يعزز الذكاء الاصطناعى هيمنة العملة الأمريكية؟",
@@ -310,13 +316,6 @@
      "seen": "2026-11-24T19:51:12.335Z"
     },
     {
-     "title": "السنغال تستعيد لقب كأس الأمم الأفريقية 2025 بقرار محكمة التحكيم الرياضية، والمغرب يعتزم الطعن",
-     "url": "https://www.bbc.com/arabic/articles/cmdx1vxv1p16o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T19:39:36.000Z",
-     "seen": "2026-11-24T13:00:38.047Z"
-    },
-    {
      "title": "تراجع مديونية مصر لدى «صندوق النقد» لا يحل أزمة القروض",
      "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOMzJvVVpQX3dhYXNKTjQ5U1lLMnhENVlPMUN0VEIzMUZhOFN0anZiSHpPUHd3SWJYUHkzWlVYTFVMbXk0OUppbEJCdlQ1dWRRQ1c3MUI1LUtYQXFzalJkNE5IV01DSnJmMmU4b25memNVT3BFci1OMm5adkRleTFyWDNqQkNPN193clctcFdKdnpTbC0zQnAxZFNJZ0IxOHB5UmkxVTdFUC1ueHpybGY2NVlpWEtLYmg1ZHlYN2JHS0YyYXRRWVNHSXRmUGNYdXJhQ0t5S1h1aHdQOVo5d3VmWm8wencySXVvMnFfMkJuZnMtRjRxQmVFWlJ2aUtjVWgyVk83WVNRTEZWSmx0RU9yMVRpYnpZd3c5dVR5Y0hrQ19wWEJpS3VLWnFBLUdtcXVTLTRrcFNrYmVrMzBSNDBPUVVUanJieXR1bHdpNFNVWDdVSWY0eVUtc0t6eFRmNU50TFBXWDlKWWs4ZndSelVGTk9Ma3VmLTNUejdKOUsxb040bGZoNzJOSGM0VGZXSElDQjdDWDlIQm5XQ0dCZXRoempvSzBJZEdkdkJBTS1ZZ2pDelloVmZSMWNfOXp4Vm81MlhPMjdnMF9vcHJYSkJMZjlIandDcHpXdHdkbnpzQTVQeFhiOGRLZWJhV3JqdXEyTTRnYUM0eUZoUGs0RGlOTTFHdWlnbXJDTW9hbzZQRHlaTmd5LW82aDRTZklYdzY2Q2MzSG1PV0pnWFJiWDN5TWRoRWFIR3EyYnVwNnAyMnp5cDVVRE1GTFVkLVMzM3VnYWdCUHkzQ3AtelNGckJSanZn?oc=5",
      "source": "الشرق الأوسط",
@@ -339,11 +338,11 @@
      "impact": "تساعد الأفراد والمستثمرين على متابعة أسعار الصرف وتأثير حركة الدولار على التكاليف والقوة الشرائية."
     },
     {
-     "title": "أسعار الذهب اليوم في مصر تتراجع 115 جنيها.. عيار 21 يهبط إلى 5600 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQS0zMHZCdnRfejB4M2piVWRzTEhsakdwOXFZZWtLUEd4bzBXZ29rZTNZUy1GTWFHUHR5M2pDNXVnV0o3M05PN0RSMkgwemFJaG8yTjRsMVdhTk9QRDNyS3pUQlpqdTloTTMwR0h2c0d6bkhaWXNYckRHNVI4S2o0dFJRTVJkVTN1VDRjYzd5OGMySV9CSjBRMmFnR1N2Z2l2S3VydDM4OWFmNEZaRnN1WFlFcXVoLTdjdTJDWTRsUFRZS0h4QWhtb1ZtNWNKcEpPVDhrRDlxT2VicUZzb0Y5cnc2Y1pkRERoX3dxTmMxQWFneXBhN3NCa3Y2cWliUHR6Q1A3T3ZRS1AyRVZLMGNwdm1ySnlKSUszOXlkU040TnEwTUNCMHJmV0tPN09zWXZkMnBJekEzVmZvZFVsUmM3T2laT1piYU0zaVVudWoyRWRHV0d3LWV2d0NZVWlnMEtEalpFLU04cGxZZTdXQUFScF9Ka1JhNElSa3ZpNWMxT0Nxczl5UWfSAYADQVVfeXFMT1JXYkJNM3B4YWUtU0trRlc2UDJHN3dISWh2V0JRdlVJU3p1Mno2dmdQZlV2cnlVUXprWFNvd1lZWXRUV3BEenNsVVFrbHIyWS1HbThYZWhPWmVQRDN1YXF5RW15WmV3cjU3TExGaTFZNjE5OTcyZXcwcDhtbVFGR1h3bXRDSGdVT3NXT0YxY3FqSjVuYlJ3c1Z0QmlZZU1USFNxUDZaM0ZQNFM0emF4RzRrZ2RROEo5WV9BUVhjUHZjMG1SLXFRZm9rRjZnWnc0UjFSdWoxNWMwYjRtbVF2alFSYzdsYWZnNS1fUnZPTzk4a1R6RnhlOHZuRDVTa0F5RTVXWVBCTGZKZnVtSEZUYzhvUFV5Yk13cENjM0I3RS15d0U2WkNXRWRPZzhxYURnMjlCVDlZbmQyRThWNl83QzBCaHg1ZTc3VEZKNmd3MWZhTklTQXd0SW9iRXdrSzZNRE9OQzh5UWFraFFsWnlQRGhPc3J5c05uU3JsZGd1TUJl?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T17:00:00.000Z",
-     "seen": "2026-11-24T19:41:11.803Z"
+     "title": "تحرك سعر الذهب اليوم الثلاثاء 24- 11- 2026 في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pSzRMaXBrdWNKbGlhaFdzMERlbVdxZGlKTHU4U2NMZ1cyS2dUODh2WUx4RGdOSFpYeWlKdmdzSnJQTHpLbGh5OE1welJIcWQtTngyMFNR?oc=5",
+     "source": "بوابة الأهرام",
+     "time": "2026-11-24T18:39:00.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
     }
    ]
   },
@@ -351,6 +350,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بعد توعُّد الحوثيين.. \"التحالف\" يطلب من المدنيين \"إخلاء\" ميناء الحديدة",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/25/saudi-coalition-spokesperson-major-general-turki-al-maliki",
+     "source": "CNN بالعربية",
+     "time": "2026-11-24T22:56:31.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
+    },
     {
      "title": "بعد عودته إلى منصبه رئيسا لإنفيديا جنسن هوانغ يرقص احتفالا مع موظفيه؟",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A3%D9%85-%D9%81%D8%A8%D8%B1%D9%83%D8%A9/20261124-%D8%A8%D8%B9%D8%AF-%D8%B9%D9%88%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A8%D9%87-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A7-%D9%84%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D9%8A%D8%B1%D9%82%D8%B5-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D8%A7-%D9%85%D8%B9-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%87",
@@ -430,25 +436,18 @@
      "seen": "2026-11-24T22:51:28.077Z"
     },
     {
+     "title": "السنغال تستعيد لقب كأس الأمم الأفريقية 2025 بقرار محكمة التحكيم الرياضية، والمغرب يعتزم الطعن",
+     "url": "https://www.bbc.com/arabic/articles/cmdx1vxv1p16o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T19:39:36.000Z",
+     "seen": "2026-11-24T13:00:38.047Z"
+    },
+    {
      "title": "\"رأيته ثلاث مرات\".. كيف وصف البابا فرنسيس الشيطان و\"بوابة الجحيم\" في مذكراته؟",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZrOGlPVm5SRE9US2MtcDlaLTNiQWdaemJ5WTE5LU5TWVEwd2RHdmIwdzk2SzlZS0x5NDd4YkJZTTlpZUpJZ1pfUUVBb1ZPYkxOWVlPV05yeF9MUXNTS2tJSmQ0SkR0bDZCUS11VVdmbG1jOWhueDBWRVBqbkRrZ3BB?oc=5",
      "source": "CNN Arabic",
      "time": "2026-11-24T19:24:21.000Z",
      "seen": "2026-11-24T22:31:27.656Z"
-    },
-    {
-     "title": "تشاد تندد بترحيل النيجر المئات من قبيلة المحاميد العربية",
-     "url": "https://www.aljazeera.net/news/2026/11/25/%d8%aa%d8%b4%d8%a7%d8%af-%d8%aa%d9%86%d8%af%d8%af-%d8%a8%d8%aa%d8%b1%d8%ad%d9%8a%d9%84-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1-%d8%a7%d9%84%d9%85%d8%a6%d8%a7%d8%aa-%d9%85%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T19:18:48.000Z",
-     "seen": "2026-11-24T22:51:28.077Z"
-    },
-    {
-     "title": "حكومة وحدة تجمع بينيت ونتنياهو.. وآيزنكوت يطلب البداية",
-     "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPRS1paWJ1R1V2ZURYM0oyOFJlc2k3Y3lGWHRBeC1iU3c1WUF5MXJzZHdZTHJpZXFZTEpRa19yaGlxVXlIMFkxd3B5dFNCTUdBVFlpWTVtUmExSnV4bGRCMmRlREo0eU5pcVlmcVpJRU9GdzdlUVBNNUZqWndFakhBU3NNejZYWUJCZ2RzbWl6ME0tNlQ4aXUySThfcmhTN01yS3UxZ1hfaDFBNG5ZRmFSbVN6Wm1MUjlpa3RKNVJ5SmlEMkRiellfV0lXczlFd04xeVZ2SWxDaUNxa3o1Um1DQ01ETl9TVWZWaFM1MUZNQVhOQWgxR2J3emU3dklHV1dkT25YeGJWLXBWWVZsNklyT05vYkU1R19PSlZXVVYtU3dzS016V0NULTEwdGh4T09GdGdlRDA4ODdJQUdDSWlVTnp5NkhlTVpYdjJIWS1TS3pYbi1maHlWeXJZX0Q0bHZfbF9tazdBVXpuVGRmWmphTGF3UUtmazh6WnRKTmtsbXZSMUpQZzRYckIzb2hRR0Utbk9sTkhhWm4zZGtkWDlIZHRPYTRXZVlzSVl0MS1VUnVBT0JrLVNoc0NYNjk5ZDRkSGZoS0VmbDFjT1U0X01mLWMtd9IB2ANBVV95cUxOSE1zcnBXd01rQ0dsRllmWmtXWXAzcThOWEQ4WGo5TDhqR1FYbnJGMUNpOEVCTHpLZXpJaVUyWDZGLWNRWGtLd3JLWlJTTEVRTzFXa1lDTzJuZzc1bm85VGpyM2dYT3J3eGJkaE0xNmVOamlaTVYwaFktS0pBMzd0ZUxuaUt1M3NfUGNET0pZTmxWMk4wU0NydmZ5UGtCX3loQmpNWUFYUTdtZDVlc0w3TTJDbTMtcTYyc250ZU8yd0l4NDdIckVYb0ZYZlgwTUNleGg2N2xJYjkzRUdIazBERlBmMUpLa2gyT1pOckpXd2FGQ0Q4NVVDVVdnSlB1T01aWk8teC1SMmhrTEx0TDRuNTZwdm5uQ1FwZmdhdW93VWZsS3U5M2tKQVhGVk9FaFlHVE5LaV9Jb3RVME9KWHhVZnFkTHRPaVBKMGpmSGJvcy1qUzlseldPa2VRbFc2dlJCVlc3Z3NaVk9JaFBpOVFoNTNyRHZIUU96R3dPUWF2eHozd045RTJYQlVTcHItUkRPNDdMNWVLMXZmTGh4ekNxOXdZRkNoeERudTBrNkdWaFdCSkJ3MUFiUTF3LWw3cUtZU1ZiZ192X25QUjR1dE15ZS1jekE2dERh?oc=5",
-     "source": "العربية",
-     "time": "2026-11-24T19:06:00.000Z",
-     "seen": "2026-11-24T21:41:28.137Z"
     }
    ]
   },
@@ -478,6 +477,20 @@
      "time": "2026-11-24T21:04:09.000Z",
      "seen": "2026-11-24T21:11:12.187Z",
      "impact": "يُطلع المستثمرين المهتمين بقطاع التكنولوجيا على تقلبات المخاطر والتقييمات المالية لشركات الذكاء الاصطناعي."
+    },
+    {
+     "title": "تسريب معلومات بعد هجوم سيبراني استهدف وكالة الاستخبارات المركزية الأمريكية",
+     "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxNR3ZhdlZTNFZvQTI3cUg0S1BaQ1VJVHJLY1lEZ05QS2RSanpJTnhyN3JVWlRfSkJzSDJjaDdxWjJnamdxVGxvTmNNNnFBeFFwNmo4QjM0NnpBckdlWDkzTnRLbHUtWGplSVdSTGVnWjc4Z1lvZFlLbTI2eFlzRUYtNnQwT3YxUmhEazZ5eGtoc3h5WVQwZUhrTUlYWnpMYmk0YkRwWXZ4dHVmbnJpVXpudUs3TEtMMmQ3eUZzN2NlaWNfT0tVYzdzZUs3a1pfWUg5YXN0Yk5LdEtnVDhwT1pJRDdfQkhHSTlZR3FmOUcyREt4VFlfVTZMQlpxTjlpMUs2Z0RnNXNscG81Q3l3cWozZVJ3dnBWR3RRVGxfNFMxaUNoNFRtZXZjaGREeW9IMVFnaGh6elZkdG5xRmJvS0NvbFNjR1VzTVlFVWk3QWF5dkhlREI1UGYySGZ4alhjd1Aya01MaE9kc2htcVlBR2tvS0VjUG9JVWVhNjZxeDlxUjNzaDZEQ3JZUzFjOWNMZDRKd05lTWY0ZlE2N2RFdy1iMzVSdTdpdndWOHNHQjhBaDVtVUMySXlCcDZMRXJWMzQ4VjZlTFNSYXFzakxmblljNGlTVlFLcDNzcTdVZUhFYllwTlNhWkg2YjRvZDlvNDlvNWJxTUo3b0dwdmpqSGZZZTUyZldQT3ZEUW1PLXJidFgtOXUwVk5vRlFiTVRZaDF2R2FZbkplTHNlNUpyM0l0ZVl1ZURlWnA2T2pqWHRMalY4ajFqallrNEtTUHZaX2JQQ3R5WV9PYlFpaExfSE1EeWZhcHU0NzR0Wi1FSmNPaDdKaFltaHdBdXdrb2lsc0FkZVNjYlZOVmc4LWVLWnNES0pxcG3SAZoFQVVfeXFMTnpRUWp6N29IVTUtOUNoUHV3V2cwa2w5TDZucEJISTBBRTlmYWlSYnFWUjRpWE1MVFlpX3JwcXpTWTB3VVVfNlZoNnNyQmctbnh6OFBWaEZubEt0dW1pQ0YwWmg4T0RJb3piMXFfUnpQRFVQMXJndzBCYUtoZXRHc2lJZlU4WnpRQ2tJNXM1UFJYXzJjQkc2cWc3MHBaeGZjVDdMaWJDTWdYT1g0YlU5blRZelM3OU9CVUpSMEQ1Z3lycWhsOU9tNnJQWjJQTHlPTlZfZ1BSajRVbkZObkZlaHk3S0NIclhtUl9NSV9mR3k4djBqbmZESjFrYUJBdGk0Z1IyRERQOVJ0Um9oT0V1MV96SzB5N0JCNjdGRC1DbC1LRG5obmJhMy1PY3BmTzFUNDZYQzJBdXAyeHpqQXBicHZoVzk3a3FCSkZlM0JHNmNKZHBqYUprSnlaN1NRN3FIVHN1SnFlNzB6YjV6OGNKUWM0Z29wX1hQcTh3STZSMkRsSGQ4OWwwdGFoV09McWlvUzY5NUxtUjFCLVFpYmRBNW54YWNjWFBrUjJSU1FkU252RDQyYU1CQzc1b0U5Qk5LZ3BiMmd6R0RvWXgwaTVqdWZFS0tJZDFJdzFDWnFOTUdCOC1NRUlfdWNQNGV6M1QyNi1wUFlxaWxadWhHRGg5LUpmdGFmS3FoMHJrU1J2ejhXa1ZVUEhLOGJFUm8tZ0g1MFA1aGtrS0l6YmJzWmpxTkV6bFFUXzlSd1E5WUlqTHBjTE9HSFBWWHZCcnRfRFVXdVFYV3cwZTJnWXBwcDRsbm1obHVOSi1ZZ0tRSWZzcG96d2hBY2lrVVNPSHZEMXJZMnJzLTNzNVNuWXNHdzJXNlFlTGdGcloyclpn?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-24T20:07:11.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
+    },
+    {
+     "title": "مخترق GTA 6 يفلت من السجن رغم الحكم عليه بـ7 سنوات.. اعرف السبب",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQaktBZXBMYi0yM3cyMkNQM0JLaThpNEpRSk9PcV9fQ0dUNG5hNFVCTEtaRXVSOHBvblpXMl9QbmU5LXdKNXFKZmFNa09CNk9RMFdUbHZYS2VIVTdiM2ZOdGMxVC0zZnh0NTVGWnVhdk56R1EtbTBEWnpVZ1JEd1o5ellPTmlXZVl2aHY1XzhtSEVZb3IxeEFIWWNQclJ4aXZsRTUyc0V3WUdsaS1TajFiWVk4Zmwtcl9wYzRFYkpGZWQySFlnbkNWTDIteEpHSWF1dUJudTRJc0o1aDRsR2QyeGZuZEZpcWZwNk5IMncxWTcwQ0xmcm9YQXNrdWJHSHdEYzMwU09IRnp4d2REZDR3UkNldDhyYUQ2Q3J0WkR6Q25oWl9DT19ZVWRGN0RsS1lpMDBXdUdCanRGd2FHNVRSaWpQZnRVa3N3OGpSSVVjYlhhSmxyT2R0d0F6RjRXQdIB2AJBVV95cUxQTVdXdmRSNU9fdnpaRkFEUk9kRnZFOGpGTVFUNVlNeXlDeWI1YXh0R0hEVzcwaGpXQ05rM0otTzIyODRkNFRuZWxMWE5DVmFFOUp2UF9aTDUyZTk0T0s5eDdEbWdRUmJYSUFuUW04Yzh1MlU0YWtYYkF3dXU4NDZDTktpeG5uT3ozX0xIWnZ4RmxaZDVJYUhUUll5R0RjRTJybFVvT19nRFhJTC1QNFlmem9vVy01YmdCU1J1akVPNHVQZ2YxaWJFMFZfLVJMakhuVXlra2l4amFoZnczdVFhZURGNHlPLWc1QW1aOUJCNFJaVnFOQmZlbEd2NkthZGlDUmhDVDY2dG8zY29KNVo3YnljeG1WS0xvY193SUxkaGpyMEs3cktfakxpbXZDNjJZNThWbElBcmVNMWtSYW9GbjhJTXc4Z0Jvc3RMVW1Gbms4Rk1yVjBkNQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T19:00:00.000Z",
+     "seen": "2026-11-24T23:11:28.017Z"
     },
     {
      "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
@@ -541,26 +554,12 @@
      "impact": "تمنح مستخدمي الهواتف في مصر حماية أكبر من محاولات الاحتيال المالي والتصلبي عبر تطبيقات التواصل."
     },
     {
-     "title": "مصر والسودان: اتفاق على حماية الحقوق المائية ورفض الإجراءات الأحادية للسد الإثيوبي",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VWI2My1HVTlhR2pRQTljajFLWTZMRjFxVUhfcXdlTVdSdk0tRU96WTZEU0h6TFVQSFdGMHhrUkFnOVRyUVBYZkFacXhYdndCMkpONkpVVVlERUN4WHFqajU1SmNHcTdSSnQ3RW1FOHd4bEhn0gG6BUFVX3lxTFBGamJzT3dGbTVhaWJJY0V2aGV3TndIQXJ3Tm9JUEJlci1tc2JxNGJ5Vm40TTFYTjQ1WW9Obi1UeEVXbi1ia0NpY0hUODVweVZWQkF5b21MSFFOdkRZSTY3Vmt6WGw1SW1iU1RxX0JQTF9uTDFRa254bUN4TkdWZWEtZVczc1RzR3FJNGlRUy1WekpuQkdLckZkVzZ0NElZOVN3dFozTGV1Y2xRNGpJWTU3MEhmN1lTcndZeFYxM2k2Nklqc0hsbEdsRzM5TlppYm1xUVZSclpVYWdqZDFDS1ZENWloQXZsZXREeGl5bHlYLWxuczZGVnoxaFdtVkhEOEM5YmdPSUM4QzF5aW1WZzJ4aGpxXzdkeWRRLV9xTC1JZV8yQzJQZDhtcDhrYjVfQllBalNaYTJuLWJQd1FkQ01CWGRiamYtVWZFV1ctcXBDTjlKeE8tNHE3ZldvNks0UE51dlJOM1F2VkxxY3hlVS1COGNvSEFsd0MteU9Fd2xPX3BnUDk3Y2RrSV91RjMzSUhDb1lsZm50NmdrZi1GelZOWkpTOXdLdnhZQlF6LUttWXZlZkhvNjBROG0tbXQxRVJBOF81dUFvZmNxRnNQdEpYSGxEUlB5bVVOTk5fMmxLZk12ZUJrS3ZqNXVyd3FpVnh4QWZTOWVpaFBKcEZVTFROb2hKaEg5Mm1aNnV2QVczRXRvd0psOUY1QldqVmxXNm4yMndNbUN3Z1p3UjR5MW81TWZ1dzhlSldXclZ0TGVmMU94NC1sOGcxTXM2UmZTa3Uya0lCTGtINnRndklGUlVuRTJkeVVqbExrNkx3bVEtM0N0SDR1QVp1aGp1cVE3TnN6SVBzdWVVeFBBS3ROem9IRkdEc01Rbm53S2p5czJlU3YwU2ZmOUpaNk5XNlJ2T2NIdG9PUDlCczlB?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-24T14:13:28.000Z",
-     "seen": "2026-11-24T19:41:11.803Z"
-    },
-    {
      "title": "جوجل تستعد لإطلاق قناة تلفزيونية تنتج المحتوى لحظياً بالذكاء الاصطناعي",
      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPenRGdFRCbTNicXVlaW5QdGVMaS03V2VVWGU0M0pLZVdjSm8wVXBDQkpLWFA1MzdPaHI3NDluVnUxM1hlSmRmM3NEUEdncThDUWpiSG1EX2xkU3B0RThwVDh5RmxUd3NKRHp0R1RtXy1xUWVBek5sSEhHQjBuWVd3aUNfNWhpSkx6eTlJX0xzYWRkRHZPcjZxRWFqSHhKMXhmLUNsOEJQRXZaOXNVdDdUQkFoLVByWDhFWGFVdVA4SjkxOV9WNzVwRVk1QUxMT2w3VFNyN3duYmdiclB5ZlBza3Bhb2J1UG9UVDZMeFBfOFF3a0hLSElMWl9UbW1ZOUowb0swOUdVYjctM0FNaTMydDdMVk5ZTG1tcHdMT1VwVEYzbXBxXzF3LWhxSkVCTVYyeFVhTllmZHdJRE5IbkNpTHkzLVJhc1YzYkFtbFVWSWZnTnJZQnhHVkxyd1BDenBBZWJqZTB1VElmMXIyMDJNdHhDeng0OEJkcUtzWDRibTI2dVFuUk9sTDNFbGZGMjNqYjlwOTZoSEdteFUybXA1cmNyMzhxeHRxLWtpN1ZKd014LWY1bTlISVJSbjdBWk1zUzM4QUJwMWpnWXBreUVQZVpra1B5c1NSc2ZrVmx2RW05cTVIT01EdVB2eTBEaUVKbGc?oc=5",
      "source": "الشرق للأخبار",
      "time": "2026-11-24T13:52:08.000Z",
      "seen": "2026-11-24T15:10:37.383Z",
      "impact": "تفيد المهتمين بقطاع الإعلام والتكنولوجيا بالتعرف على أحدث وسائل الذكاء الاصطناعي وتأثيرها على صناعة المحتوى."
-    },
-    {
-     "title": "البنتاغون يطرق أبواب مصانع السيارات.. الهدف ملايين المسيرات",
-     "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQSUZBbThzaVR3NHFtcmtqaS1FaVM3QVZpSEdPc3pUeXF6SEJMd2RxV2lJMlJLNkFSYjg2VlBhYXVmQUNPa1U0bkx4My1tZWxNc3A5WVpWWTNIVGhBcVNiTDNXMVhqdm5KNWh5SmdqNjlvWUl0aUpMVGVOVlZqUnBUQlJhUHpNRjFGbHRVMHZfTVlueTh5UndhZ2ZRNndoNFp1YXpZUG80cXhid0doeHRVNnA2QWg0dVhNZnJVNFRiSUFzM0Z1RlA0dEhlbEh3LVozOTQ1OVpJajc2b252RzhHYWhlTUcwVWR5QXAzNUY5NEhFWUNDWFNXNEdKbjEzWV9aSEN1UVNMOE1tR3ZsZGNjX2ktQTFpZENKcHVLZm4tOWlaNzB5U2FXSWk0RnJFY2tkdi03YXB3SjFMTEpVSmRCTXF3UjRpa0RjSlkxN2pxMkZ1VlMxUWVqYnB1RzI3NWZfbVNBQWdDOWNsSzI3WWVobXprQWc4NEFxZnNLb3FkU3J0UnRxVmJTUzViVk5OQjIxdnVJeEJEaWZXQXRWbWhhajllYkxxa0RCNWoyUGtxV3FYMXlEcmE0Z1BXVk16ODNhUmdONUZ5VVlTaWRNOUN4ZVFvT3NadWNUWFk3Q0E5VDNzc3pmdnduOUkwMlc0QTV20gH2A0FVX3lxTE5Mc2RHZEdHaFN2Y095TjZ2LU94YnU5VGZIQWQ1M0hlVVdxZlRXWURWNGc0Qlc3UGxEd2piMTVFbk9pSDdXcFlRNjBEN3h3RkxPb2JkUVh3RFYxV1RsLWhkbzRQZ3hYaG40aE1uTmd0eWFHN1VzTmZMM2o4M25TNWxRWWd1SGpvS3ZNUDdVRjBCd1dHNjBVbzh4Y284bFVhb3RsZ3RfRVdFa3h3QUI1WjhybFVXd0pFd2VEX1J5OTFmeGNKZFlyeTBzZEgyZHJXaGtvSFhJT0RXdkg0NlRZb0tYLU5EY3dFVDZ0d1dSci1ZemI3SlpEemlUd3pSSHdhSE5KbWhfTUtHSU9LeHRWTjZrTjJIV1JFQ2ZFbXl2Sl9oNlg3TmhYaXhmUElfSjdzUDdZZERNWUE1MDd3LUdma3dwV3VnNElEUEdQaVNFd0Qxd0VOOFY0aWM2TVdjV05fTUZkOEhMcnEzdmhnUTRxMUs1ZEF3eEM2Y2pibUl2OXMxVjVRT3FlRWhjeENVRzNqQjlta3ZoMVotYTdiZks3dkwzWkRNbmFmODZuUzFmUkZkQTdGR0FNM0l4WDZWR25MYjhUN3JxbVM5bzlOQkxKaXR2MzdVVFZSOGZwNFRIalBtWFdDYk1SdHRTZDZiSk81dzdzTVU5Mnc?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T12:24:57.000Z",
-     "seen": "2026-11-24T15:00:37.967Z"
     }
    ]
   }
