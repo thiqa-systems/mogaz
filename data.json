@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:11:28.017Z",
+ "updated": "2026-11-24T23:21:27.991Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-24T23:11:28.017Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T23:21:27.991Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5423,
-   "change": -1.17,
-   "asOf": "2026-11-24T23:02:07.000Z",
+   "value": 5417,
+   "change": -1.27,
+   "asOf": "2026-11-24T23:11:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6191,
-   "change": -1.17,
-   "asOf": "2026-11-24T23:02:07.000Z",
+   "value": 6185,
+   "change": -1.27,
+   "asOf": "2026-11-24T23:11:24.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3558,
-   "change": -2.55,
-   "asOf": "2026-11-24T23:02:07.000Z",
+   "value": 3555,
+   "change": -2.64,
+   "asOf": "2026-11-24T23:11:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0964,
-   "change": -0.07,
-   "asOf": "2026-11-24T23:11:43.000Z",
+   "value": 1.0967,
+   "change": -0.04,
+   "asOf": "2026-11-24T23:20:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.5,
-   "change": -0.97,
-   "asOf": "2026-11-24T21:59:17.000Z",
+   "value": 88.39,
+   "change": -1.1,
+   "asOf": "2026-11-24T23:10:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59885,
-   "change": -2.17,
-   "asOf": "2026-11-24T23:12:25.000Z",
+   "value": 59904,
+   "change": -2.13,
+   "asOf": "2026-11-24T23:21:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,24 +139,24 @@
    "title": "مصر",
    "items": [
     {
+     "title": "ردًا على قصف «الحديدة» .. الفصائل اليمنية تهدّد بمهاجمة موانئ السعودية",
+     "url": "https://www.elbalad.news/7193600",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:15:56.000Z",
+     "seen": "2026-11-24T23:21:27.991Z"
+    },
+    {
+     "title": "أمير هشام يكشف كواليس صادمة عن علاقة «عموتة» بلاعبي الأهلي: أزمة ثقة وخلافات داخل غرفة الملابس",
+     "url": "https://www.elbalad.news/7193566",
+     "source": "صدى البلد",
+     "time": "2026-11-24T23:15:00.000Z",
+     "seen": "2026-11-24T23:21:27.991Z"
+    },
+    {
      "title": "تركي آل الشيخ يُثير تساؤلات جماهير الإسماعيلي بمنشور غامض",
      "url": "https://www.elbalad.news/7193595",
      "source": "صدى البلد",
      "time": "2026-11-24T23:10:52.000Z",
-     "seen": "2026-11-24T23:11:28.017Z"
-    },
-    {
-     "title": "«هات مدرب فرز أول» .. أحمد عبد الباسط يُحذّر الأهلي من التسرّع في اختيار المدرب | فيديو",
-     "url": "https://www.elbalad.news/7193563",
-     "source": "صدى البلد",
-     "time": "2026-11-24T23:08:46.000Z",
-     "seen": "2026-11-24T23:11:28.017Z"
-    },
-    {
-     "title": "هجمات على ميناء الحديدة بعد دعوة التحالف للمدنيين بإخلائه",
-     "url": "https://www.elbalad.news/7193594",
-     "source": "صدى البلد",
-     "time": "2026-11-24T23:05:22.000Z",
      "seen": "2026-11-24T23:11:28.017Z"
     },
     {
@@ -351,6 +351,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "إيران تختبر «الجدار الفولاذي»... وترمب يتوعد",
+     "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQV2pxXy1oM25ROV82bDh2TWJqM0lVSzlHcFZ0cmE5R0h1M1Q2TXllOV93aWRITzN5THpVWElkWTV6WmxJWG83MzVuSDU5anFOWTl2ZkRtVkpZRlBPaW5heWxLM1ZtT1JsNkt4YVhGRi01YmFRNjZnU1d1UzR1S2JXNC05WVFVak1vOFNwYy01Qzl1b19TRVFUcjBBaEt5c1ptVXNYOVEwTnhPZ0RGYVFxemRlYWM4YjdueDRmM2tvUnhRT1NEdElyemhaTTVFZ3RCYW1rQTVmcXg2bWZZV2JIMG83dVMtclpmT09WQ2hQTnFrbWlkalhkTWM4WkxidDh0SFQxbzNPTTQ0YjFIYlRSZGEyOWtTeEFDeUs1dE1Za2t5bWhnQ2ZGZURRaU5waS1BU19zS2IwVk1hdjhocUR0ZjZ0SUN5WVdVQXhfSlEzTmJMdGJYYkZ4XzV4TUo1U1dWeERNSV9DM1duaEFhbENpWHMxVmRGdnh2VEh6ZkZMWmlnRV9jRGpySmpBZkNQOWtZRldMUHdOWHU5U2IzeUZxWjdhZzlCVXNDUE0wZGdGSVFhUQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-24T23:02:25.000Z",
+     "seen": "2026-11-24T22:01:27.774Z"
+    },
+    {
      "title": "بعد توعُّد الحوثيين.. \"التحالف\" يطلب من المدنيين \"إخلاء\" ميناء الحديدة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/25/saudi-coalition-spokesperson-major-general-turki-al-maliki",
      "source": "CNN بالعربية",
@@ -408,6 +415,13 @@
      "seen": "2026-11-24T22:31:27.656Z"
     },
     {
+     "title": "السعودية تقرر توطين 50% من 17 مهنة مالية بالقطاع الخاص.. تفاصيل وموعد التطبيق",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wQWdIbzV2Zjh1b1pYRWthTExDeHA5UDVNVGZtWEs1SVNoQ1RHdTNoN2V6eUU0bXo5d1lHSk43emtSbFdDSGRsVmI1VV9HZEJiNENJdzRDeWlxN2MzTTI4?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T20:34:00.000Z",
+     "seen": "2026-11-24T23:21:27.991Z"
+    },
+    {
      "title": "كأس الأمم الأفريقية 2025: لقب بالقلم عوض القدم",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261124-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-2025-%D9%84%D9%82%D8%A8-%D8%A8%D8%A7%D9%84%D9%82%D9%84%D9%85-%D8%B9%D9%88%D8%B6-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
      "source": "فرانس 24",
@@ -422,13 +436,6 @@
      "seen": "2026-11-24T20:31:12.213Z"
     },
     {
-     "title": "إيران تختبر «الجدار الفولاذي»... وترمب يتوعد",
-     "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQV2pxXy1oM25ROV82bDh2TWJqM0lVSzlHcFZ0cmE5R0h1M1Q2TXllOV93aWRITzN5THpVWElkWTV6WmxJWG83MzVuSDU5anFOWTl2ZkRtVkpZRlBPaW5heWxLM1ZtT1JsNkt4YVhGRi01YmFRNjZnU1d1UzR1S2JXNC05WVFVak1vOFNwYy01Qzl1b19TRVFUcjBBaEt5c1ptVXNYOVEwTnhPZ0RGYVFxemRlYWM4YjdueDRmM2tvUnhRT1NEdElyemhaTTVFZ3RCYW1rQTVmcXg2bWZZV2JIMG83dVMtclpmT09WQ2hQTnFrbWlkalhkTWM4WkxidDh0SFQxbzNPTTQ0YjFIYlRSZGEyOWtTeEFDeUs1dE1Za2t5bWhnQ2ZGZURRaU5waS1BU19zS2IwVk1hdjhocUR0ZjZ0SUN5WVdVQXhfSlEzTmJMdGJYYkZ4XzV4TUo1U1dWeERNSV9DM1duaEFhbENpWHMxVmRGdnh2VEh6ZkZMWmlnRV9jRGpySmpBZkNQOWtZRldMUHdOWHU5U2IzeUZxWjdhZzlCVXNDUE0wZGdGSVFhUQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-24T19:47:39.000Z",
-     "seen": "2026-11-24T22:01:27.774Z"
-    },
-    {
      "title": "تونس.. جدل برلماني حكومي بسبب المجلس الأعلى المؤقت للقضاء",
      "url": "https://www.aljazeera.net/news/2026/11/25/%d8%aa%d9%88%d9%86%d8%b3-%d8%ac%d8%af%d9%84-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3?traffic_source=rss",
      "source": "الجزيرة",
@@ -441,13 +448,6 @@
      "source": "BBC عربي",
      "time": "2026-11-24T19:39:36.000Z",
      "seen": "2026-11-24T13:00:38.047Z"
-    },
-    {
-     "title": "\"رأيته ثلاث مرات\".. كيف وصف البابا فرنسيس الشيطان و\"بوابة الجحيم\" في مذكراته؟",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZrOGlPVm5SRE9US2MtcDlaLTNiQWdaemJ5WTE5LU5TWVEwd2RHdmIwdzk2SzlZS0x5NDd4YkJZTTlpZUpJZ1pfUUVBb1ZPYkxOWVlPV05yeF9MUXNTS2tJSmQ0SkR0bDZCUS11VVdmbG1jOWhueDBWRVBqbkRrZ3BB?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-24T19:24:21.000Z",
-     "seen": "2026-11-24T22:31:27.656Z"
     }
    ]
   },
