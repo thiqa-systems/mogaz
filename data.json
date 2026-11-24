@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:30:37.911Z",
+ "updated": "2026-11-24T10:40:38.092Z",
  "minute": [
   "تراجعت أسعار الذهب عالمياً مع ترقب بيانات التضخم، بالتوازي مع تحذير جهاز حماية المستهلك في مصر من مستحضرات التجميل المغشوشة خلال الجمعة البيضاء.",
   "سجل البنك المركزي المصري ارتفاع حجم التجارة الخارجية إلى 152.6 مليار دولار وتحديث أسعار العملات، بالتزامن مع كشف تفاصيل طرح مصر لتأمينات الحياة في البورصة.",
@@ -10,71 +10,71 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T10:30:37.911Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-24T10:40:38.092Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.18,
-   "change": 1.43,
-   "asOf": "2026-11-24T10:32:02.000Z",
+   "value": 54.2,
+   "change": 1.47,
+   "asOf": "2026-11-24T10:41:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5518,
-   "change": 0.57,
-   "asOf": "2026-11-24T10:22:28.000Z",
+   "value": 5524,
+   "change": 0.68,
+   "asOf": "2026-11-24T10:32:37.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6300,
-   "change": 0.57,
-   "asOf": "2026-11-24T10:22:28.000Z",
+   "value": 6307,
+   "change": 0.68,
+   "asOf": "2026-11-24T10:32:37.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3621,
-   "change": -0.85,
-   "asOf": "2026-11-24T10:22:28.000Z",
+   "value": 3623,
+   "change": -0.78,
+   "asOf": "2026-11-24T10:32:37.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 51222,
-   "change": 1.01,
-   "asOf": "2026-11-24T10:17:30.000Z",
+   "value": 51152,
+   "change": 0.87,
+   "asOf": "2026-11-24T10:27:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0934,
-   "change": -0.34,
-   "asOf": "2026-11-24T10:31:43.000Z",
+   "value": 1.0936,
+   "change": -0.32,
+   "asOf": "2026-11-24T10:41:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 86.71,
-   "change": -2.98,
-   "asOf": "2026-11-24T10:22:22.000Z",
+   "value": 86.69,
+   "change": -3,
+   "asOf": "2026-11-24T10:32:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59776,
-   "change": -2.34,
-   "asOf": "2026-11-24T10:32:31.000Z",
+   "value": 59647,
+   "change": -2.56,
+   "asOf": "2026-11-24T10:42:37.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,39 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "يسرا تخطف الأنظار بفستان أوف شولدر أنيق في أحدث ظهور.. صور",
-     "url": "https://www.elbalad.news/7192573",
+     "title": "محافظ أسوان يتابع نتائج تشغيل المركز التكنولوجي المتنقل بقرى إدفو",
+     "url": "https://www.elbalad.news/7192620",
      "source": "صدى البلد",
+     "time": "2026-11-24T10:40:21.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
+     "title": "بسبب بقعة زيت.. انقلاب تريلا في مسار الأتوبيس الترددي وتصادم 3 سيارات على دائري العمرانية",
+     "url": "https://www.elbalad.news/7192645",
+     "source": "صدى البلد",
+     "time": "2026-11-24T10:39:02.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
+     "title": "السياحة تشارك في معرض Touristik & Caravaning Leipzig 2026 بألمانيا",
+     "url": "https://www.elbalad.news/7192623",
+     "source": "صدى البلد",
+     "time": "2026-11-24T10:38:52.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
+     "title": "التعليم العالى توعى الطلاب بكيفية التحقق من نتائج البحث عبر الإنترنت",
+     "url": "https://www.youm7.com/story/2026/11/24/التعليم-العالى-توعى-الطلاب-بكيفية-التحقق-من-نتائج-البحث-عبر/7630626",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T10:35:00.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
+     "title": "الداخلية تعلن بدء سداد باقى تكاليف حج القرعة لعام 1448هـ/ 2027م غدا",
+     "url": "https://www.youm7.com/story/2026/11/24/الداخلية-تعلن-بدء-سداد-باقى-تكاليف-حج-القرعة-لعام-1448هـ/7630643",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T10:31:00.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
+     "title": "وزيرة التضامن توجه بتوفير طرف صناعى لسائق «تريلا» صحراوي البحيرة",
+     "url": "https://www.youm7.com/story/2026/11/24/وزيرة-التضامن-توجه-بتوفير-طرف-صناعى-لسائق-«تريلا»-صحراوي-البحيرة/7630614",
+     "source": "اليوم السابع",
      "time": "2026-11-24T10:30:00.000Z",
-     "seen": "2026-11-24T10:30:37.911Z"
-    },
-    {
-     "title": "مدير تعليم جنوب سيناء تتفقد انتظام الدراسة بمدرسة الشهيد عمرو مصطفى بنويبع",
-     "url": "https://www.elbalad.news/7192616",
-     "source": "صدى البلد",
-     "time": "2026-11-24T10:28:57.000Z",
-     "seen": "2026-11-24T10:30:37.911Z"
-    },
-    {
-     "title": "قمة الجزائر للموبايل تناقش مستقبل الاتصالات والتحول الرقمي",
-     "url": "https://www.elbalad.news/7192628",
-     "source": "صدى البلد",
-     "time": "2026-11-24T10:28:11.000Z",
-     "seen": "2026-11-24T10:30:37.911Z"
-    },
-    {
-     "title": "مصر وقبرص تنفذان التدريب المشترك \" بطليموس - 2026\"",
-     "url": "https://www.youm7.com/story/2026/11/24/مصر-وقبرص-تنفذان-التدريب-المشترك-بطليموس-2026/7630618",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T10:22:00.000Z",
-     "seen": "2026-11-24T10:30:37.911Z"
-    },
-    {
-     "title": "مجلس الوزراء يستعرض جهود تطوير قطاع الكهرباء والطاقة المتجددة",
-     "url": "https://www.youm7.com/story/2026/11/24/مجلس-الوزراء-يستعرض-جهود-تطوير-قطاع-الكهرباء-والطاقة-المتجددة/7630617",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T10:21:00.000Z",
-     "seen": "2026-11-24T10:30:37.911Z"
+     "seen": "2026-11-24T10:40:38.092Z"
     },
     {
      "title": "مصدر بـ\"القومي للبحوث\" يكشف سبب عدم زيادة رواتب الباحثين رغم قرار مدبولي",
@@ -179,13 +186,6 @@
      "source": "Masrawy",
      "time": "2026-11-24T10:20:08.000Z",
      "seen": "2026-11-24T10:30:37.911Z"
-    },
-    {
-     "title": "هل يتم طرد المستأجر بسبب غلق الشقة أو امتلاك وحدة بديلة؟.. القانون يجيب",
-     "url": "https://www.youm7.com/story/2026/11/24/هل-يتم-طرد-المستأجر-بسبب-غلق-الشقة-أو-امتلاك-وحدة/7630603",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T10:17:00.000Z",
-     "seen": "2026-11-24T10:20:37.637Z"
     },
     {
      "title": "«مدبولي» يطلق مشروع التصنيع المحلي لسيارة «شيفروليه جروڤ» بأكتوبر غدًا",
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الفرنك السويسري يثير الاهتمام، استقرار أمام الجنيه المصري",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yaEs2eDJNOVZoM2hNLWFIZnVqS1pZWmd5WVd4ZzNkYm5XOXJ5bTM3aWZlNFNGN21xN0VSV1dMaHI5SWl4dm5J?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-24T10:28:00.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
      "title": "مفاجأة في سوق العملات.. اليورو يحافظ على استقراره أمام الجنيه المصري",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0taTZyQXVLa0M2QXFWRE9OVEFYZUF6TkVXT2ZtZkxmTU5TREVtYWlsRkk0MURpX3JSV242eTVaVGdfYUZfNjBZ?oc=5",
      "source": "فيتو",
@@ -268,7 +275,7 @@
      "title": "الدولار يتراجع أمام الجنيه المصري.. لكنه يحافظ على مستوى 54 جنيهاً",
      "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNNldMbS0zb2twMWJ4MTFreElZTzQ1UlNXWXh4WUJWbEdBeThsLU9xYVNZdV9ROGVHSXlZQWZpNlhBNEZHZHpxUGdSdXRqOVVPQklMdGhXUmVqUzNuQWJDOG9UODJpTFBud0IxY0hKMWlmUHBhM0pxVTZpSTlGTXZ6cVE1WFBBTU85UklCVlB0SFQyVG1XRTR5V2ktZG5pN3dFbFJjWmpKM2F6RmY1S09kWGRha1JnTGJSNTFPdmhTVWMyWnhtaXlUWEdSVXVpeko4WWVBdldUdkV1RmxVSldBQUhlejhGZ3FnY2VzMEMtT21VOHFwMWFNUWNvajEtTmxYSnFaQVJsSE1qTWZzUkpGV0JGM3BOdmRLQ3daWXJkMExIcUlrS09DQy0ybzNpR282ZkVWcFJ6MFZVc1VoTXVjVjcxc09BdWszakFhUU5zNmpEUGFRZ3pvQlZabHh0Ynp3aEdOeU5uS2ZTQ19ia3FkOEFhVEtZYUxUbEFHRElEbFVUaTVpZ0xxbExJTTlyLS1sOV9vRU41R3NjSjhhYklkR1o2X1NqY0VOajhVSDY1eGtBblFEcWM0THBhcmgyZGx4VUdMS1hfNW9nZ2xiNVVINThZeUVZalEwNC1YQy1OWTdfdElhcFR1NWRYZEc2ZUJ5VGpOcEdDc2lIRWc3cmRXeWEzNUhpYlZvRnNzUA?oc=5",
      "source": "CNN الاقتصادية",
-     "time": "2026-11-24T10:09:09.000Z",
+     "time": "2026-11-24T10:09:04.000Z",
      "seen": "2026-11-24T10:30:37.911Z"
     },
     {
@@ -333,13 +340,6 @@
      "source": "CNN الاقتصادية",
      "time": "2026-11-24T09:10:56.000Z",
      "seen": "2026-11-24T09:19:20.772Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الثلاثاء 24-11-2026 في البنوك.. بنك مصر يسجل أكبر تراجع بـ22 قرشًا",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzcW8xZEJqb2xtSWZwcHVnSC1udkNoMzhmbVdtTldKN292RVlJQTBZTFpkMy0tNXBHejVWRnVEWDZyWEN3MFE?oc=5",
-     "source": "القاهرة 24",
-     "time": "2026-11-24T09:09:15.000Z",
-     "seen": "2026-11-24T10:09:20.347Z"
     }
    ]
   },
@@ -347,6 +347,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "لمواجهة التغير المناخي.. غابات الغد في بلجيكا",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20261124-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%AF-%D9%81%D9%8A-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%A8%D8%B0%D9%88%D8%B1-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82",
+     "source": "فرانس 24",
+     "time": "2026-11-24T10:30:05.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
     {
      "title": "ترامب يؤكد تدخله المباشر لإعادة جنسن هوانغ لرئاسة \"إنفيديا\".. لماذا؟",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%A4%D9%83%D8%AF-%D8%AA%D8%AF%D8%AE%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D9%84%D9%85%D8%A7%D8%B0%D8%A7",
@@ -367,13 +374,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-24T10:14:12.000Z",
      "seen": "2026-11-24T10:20:37.637Z"
-    },
-    {
-     "title": "إحياء المفاوضات الأمريكية الإيرانية.. وساطة قطرية وخيار عسكري حاضر",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261124-%D8%A5%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AE%D9%8A%D8%A7%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%AD%D8%A7%D8%B6%D8%B1",
-     "source": "فرانس 24",
-     "time": "2026-11-24T09:55:43.000Z",
-     "seen": "2026-11-24T09:59:21.059Z"
     },
     {
      "title": "قتلى فلسطينيون في قصف إسرائيلي بغزة",
@@ -496,6 +496,13 @@
      "seen": "2026-11-24T05:19:21.040Z"
     },
     {
+     "title": "\"تمس الأمن القومي\".. \"علاء مبارك يتحدث عن \"بيع أراضي الدولة للمستثمرين\"",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSC1SRE1PVmtjX2dHSGMxTllac0NQV21KcEd0dG8xOE1Sb2p5WC1SakZPLTV5Y2RNWVJDMkpxZ2VfMjk5X3ZrVTFOekVKcHJMTC0xenRCU21iY0JyS1FzOEJLd3F3M2psVjY4WC15aTdOaUVCUF94R0gwNGRQSmh6b3V1cHhLbDZKNDFzc3JFYzJxSmlIQ0Z6RXkyekNvSWljZ1R6ZnExdWV0SEtMMTh6MjlGU1Y4a0daOHZhNEQ0UjFyYW9Hemc?oc=5",
+     "source": "CNN Arabic",
+     "time": "2026-11-24T04:45:28.000Z",
+     "seen": "2026-11-24T10:40:38.092Z"
+    },
+    {
      "title": "بعد مسيرات السماء.. زوارق الموت تهدد أمن البحار",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOcTlncGJCQXpMY0p1d3d4OW13YUVoOVJDT3RudWtlcjhsQ1lqTzVpa0tYaHR3bklBNFZFbzdZaVpQdWV4RWI5X2ZtWTJpT1htZERmVXhsaVYtYUl5bmFnanR1cncxQXNLSV90aFVuQVBLUXNfSVVWcWhTTEQ1ODR5VExLQjJxWFVMUk1qbnNONC1kVERKV1lsaU12Z0JMaURZelUyemFUTDJtMHN5TEgxS3pnRGRKMjE0bHNxYW5reFpIOFB4NFEyRnVWMExqQTdnalRhanNGelRSNzVEQnpIRFN6YjIybV9VR3NjaXRBMmh4RDVhRFprQlVyNGE5QzNJMkVfYkk2Y0hhZkNLcTM5dzBFNWk0MTBFTXpWdXd3TFdsbjY3cDdLVXRHbXh1eWFReGkzWk5mNHBLbWZ0SGNFV1pMQi1nUU4wMkZrbTdXMEgwdHc1Q1hibjY3NnhKS3g4em5Yckp5dmtnckluZFl0SHVFWndvVmfSAfwCQVVfeXFMUGFoSzhTMW5wZTZCZmlDY19hSTdSajZrLWhHVS02WVQwcUpJck1fRmE4MFczSkxKREhGQ2VnUlNiUkN5YkhDUWMzel9YS0MtSk5mSlhCd1pTRDJ3T1dVb0FpWEg4WHFPci1GUEhRaTNFUVpMekNGeE02c0JUeFdNbnlXcjdVQmRGQmlsQmdkTFRjaGRkYkJERTB1V21fc3BFS2F3dEJ4UFIzakgxSk10OE1wSHR2ZDVBM2VjSWhqaVloVFNkaEc2TmFmX2pEdDlnbC0wN3YtVTdLWERBMVJxY3FpaTFib1FBcXEwTG9QSTFTYTRmVjJhZXJFT0k2Q1ZqRklYUVNwcFJCbTNkWDY2THZodGEwcF9lb2RFMFV0VkZkWGZ2Z3plblY1MW1zZENoODhVRFFSMkotWTZNX2Z2d1NkZURMSEVLQU80cGRoRzJ0LTN0WnlQSHJGcDZvQkxCSC1McDg0anhoaU5UeVdrUTROMVM3OU5ZT0Q3cHk?oc=5",
      "source": "سكاي نيوز عربية",
@@ -544,13 +551,6 @@
      "source": "الجزيرة نت",
      "time": "2026-11-24T01:38:00.000Z",
      "seen": "2026-11-24T09:49:20.718Z"
-    },
-    {
-     "title": "اتشقلبت أحوال الدنيا بالتكنولوجيا.. والذكاء الاصطناعى قادم!",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpOVFlWEJFeXYtdFlzQjhEWTVKcjRIQXVZMFNoQzVEZThnOTFlQk1RMjBFaTBxTTFxdnRuc1JxU3hVek41VTAtOXNDUExWMzF5MTZjaXJXVmZ0UDFWZG5V?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T01:05:00.000Z",
-     "seen": "2026-11-24T05:29:21.161Z"
     }
    ]
   }
