@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-25T21:33:15.819Z",
+ "updated": "2026-11-25T21:43:16.259Z",
  "minute": [
-  "شهدت مصر سقوط قتلى ومصابين إثر حريق هائل ناجم عن انقلاب سيارة صهريج مواد بترولية على الطريق الدائري بالوراق، وسط استنفار طبي وتحقيقات للنيابة.",
-  "تابعت البنوك في مصر تحديثات أسعار صرف الدولار الأمريكي والريال السعودي مقابل الجنيه المصري.",
-  "إقليمياً، أعلنت جماعة أنصار الله استهداف ميناءي جدة وجازان، فيما شهدت الحسكة السورية هجوماً لتنظيم داعش أسفر عن قتلى ومصابين."
+  "شهدت مصر حادث حريق هائل ناتج عن انقلاب صهريج مواد بترولية بالوراق في الجيزة أسفر عن ضحايا، وأعقبه توجيه رئاسي وإخلاء الموقع وفتح الطريق بالاتجاهين.",
+  "استقرت متابعة الأسواق الاقتصادية في مصر على متابعة أسعار الدولار مقابل الجنيه اليوم الأربعاء في البنوك.",
+  "ميدانياً ودولياً، قُتل مسؤول أمني في قطاع غزة بغارة إسرائيلية، وشهدت سوريا قتلى ومصابين إثر تفجير وهجوم أمني.",
+  "وفي قطاع التكنولوجيا، ظهرت تسريبات حول سعات بطاريات الهواتف وطرق تحسين شبكات الواي فاي وتطورات الذكاء الاصطناعي والحوسبة الفضائية."
  ],
  "ai": {
-  "at": "2026-11-25T20:43:15.396Z",
-  "model": "gemini-3.8-flash",
+  "at": "2026-11-25T21:43:16.259Z",
+  "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T21:33:15.819Z"
+  "impacts": 10
  },
  "markets": [
   {
@@ -20,34 +19,34 @@
    "unit": "ج.م",
    "value": 54.6,
    "change": 0.72,
-   "asOf": "2026-11-25T20:20:52.000Z",
+   "asOf": "2026-11-25T21:38:12.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5527,
-   "change": 1.75,
-   "asOf": "2026-11-25T21:23:11.000Z",
+   "value": 5539,
+   "change": 1.96,
+   "asOf": "2026-11-25T21:33:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6310,
-   "change": 1.75,
-   "asOf": "2026-11-25T21:23:11.000Z",
+   "value": 6324,
+   "change": 1.96,
+   "asOf": "2026-11-25T21:33:19.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3598,
-   "change": 1.02,
-   "asOf": "2026-11-25T21:23:11.000Z",
+   "value": 3606,
+   "change": 1.24,
+   "asOf": "2026-11-25T21:33:19.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +64,16 @@
    "unit": "$",
    "value": 1.0978,
    "change": 0.64,
-   "asOf": "2026-11-25T21:32:47.000Z",
+   "asOf": "2026-11-25T21:42:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.77,
-   "change": -0.69,
-   "asOf": "2026-11-25T21:22:42.000Z",
+   "value": 90.78,
+   "change": -0.68,
+   "asOf": "2026-11-25T21:32:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60293,
-   "change": 0.91,
-   "asOf": "2026-11-25T21:33:15.000Z",
+   "value": 60275,
+   "change": 0.88,
+   "asOf": "2026-11-25T21:43:27.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +138,40 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الحكومة العراقية: الدستور ضامن وحدة البلاد وحقوق الشعب.. وننفي تحرك قوات الجيش باتجاه كردستان",
-     "url": "https://www.elbalad.news/7194790",
+     "title": "الدقهلية.. ضبط 6 دراجات بخارية مخالفة وتحرير 22 محضر إشغال",
+     "url": "https://www.elbalad.news/7194799",
      "source": "صدى البلد",
-     "time": "2026-11-25T21:31:46.000Z",
-     "seen": "2026-11-25T21:33:15.819Z"
+     "time": "2026-11-25T21:42:52.000Z",
+     "seen": "2026-11-25T21:43:16.259Z"
     },
     {
-     "title": "محمد صلاح يوجّه رسالة لأسر ضحايا ومُصابي حادث دائري الوراق",
-     "url": "https://www.elbalad.news/7194787",
+     "title": "خبير سلامة طرق: العنصر البشري مسئول عن أكثر من 70% من حوادث الطرق.. والتحقيقات تكشف أسباب حادث دائري الوراق",
+     "url": "https://www.elbalad.news/7194742",
      "source": "صدى البلد",
-     "time": "2026-11-25T21:31:32.000Z",
-     "seen": "2026-11-25T21:33:15.819Z"
+     "time": "2026-11-25T21:41:51.000Z",
+     "seen": "2026-11-25T21:43:16.259Z",
+     "impact": "يهم سائقي المركبات والمواطنين لمعرفة التقييمات الفنية لأسباب حوادث الطرق وتجنب الأخطاء البشرية."
+    },
+    {
+     "title": "بين الأناقة والبساطة.. سارة نخلة تخطف الأنظار بإطلالة كاجوال جريئة | شاهد",
+     "url": "https://www.elbalad.news/7194779",
+     "source": "صدى البلد",
+     "time": "2026-11-25T21:40:49.000Z",
+     "seen": "2026-11-25T21:43:16.259Z"
+    },
+    {
+     "title": "محافظ الجيزة لإكسترا نيوز: إخلاء موقع حادث الوراق وفتح الطريق بالاتجاهين",
+     "url": "https://www.youm7.com/story/2026/11/25/محافظ-الجيزة-لإكسترا-نيوز-إخلاء-موقع-حادث-الوراق-وفتح-الطريق/7632750",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T21:36:00.000Z",
+     "seen": "2026-11-25T21:43:16.259Z",
+     "impact": "يفيد القاطنين والمترددين على محافظة الجيزة بمعرفة عودة حركة المرور لطبيعتها بعد فتح الطريق الدائري."
     },
     {
      "title": "الشركة المتحدة للخدمات الإعلامية تنعى ببالغ الحزن ضحايا حادث دائري الوراق",
      "url": "https://www.youm7.com/story/2026/11/25/الشركة-المتحدة-للخدمات-الإعلامية-تنعى-ببالغ-الحزن-ضحايا-حادث-دائري/7632748",
      "source": "اليوم السابع",
      "time": "2026-11-25T21:31:00.000Z",
-     "seen": "2026-11-25T21:33:15.819Z"
-    },
-    {
-     "title": "آخر موعد 6 ديسمبر.. رابط التقديم في وظائف مصر للطيران 2026",
-     "url": "https://www.elbalad.news/7194588",
-     "source": "صدى البلد",
-     "time": "2026-11-25T21:30:00.000Z",
      "seen": "2026-11-25T21:33:15.819Z"
     },
     {
@@ -178,13 +186,6 @@
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxORnRZRFhOUmNCZ2JfTUUyYmM1Q3hkQVZZc0pwX0FWSFYxdkIyT2loOVB2bE1IRDZXZnlBelFWZlc0dm9FRzM1bTdQZDhRQWtleFk4YlJmUVhoOFNKTndxM1dETVRvcmxaaDRsTWc1bE1Qc3o5Q0s1QmV6Nnc1YUpfRU1iZnExdi16ZUQ3cEFsMjZkb25PLXNCQ2w1YVVUUC1aQzJJRXY3Ul9pWTBCRmZLbGl3RjBzR2plbGFzTEpLOUlUemdLUUsxQUp5SXp6WGZMZkJPTkZueVdkTkIxeUNIRERUYzJSbEItcUR6Y2JaNy14UHNxZ0tMTzZQVG1hRUdCUkgza2JHOUQxOXJzN3RSM0VzdmRRMmluNC16WnVhM3ZkOUtyLWdjZHk3cVhoWDd0MUZCT0JhbmtLWUxrT1hIUklyVEctRUtnSXBHY2tIbHNSeXotSE9Hb19ZeVlXNFliTk1ybUh6V2lwYzBhdDVNOEVvQk5PV2M?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-25T21:20:08.000Z",
-     "seen": "2026-11-25T21:23:15.695Z"
-    },
-    {
-     "title": "وزير الصحة: آخر حصيلة لحادث الوراق بلغت 31 وفاةً و21 مصابًا",
-     "url": "https://www.youm7.com/story/2026/11/25/وزير-الصحة-آخر-حصيلة-لحادث-الوراق-بلغت-31-وفاةً-و21/7632738",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T21:18:00.000Z",
      "seen": "2026-11-25T21:23:15.695Z"
     },
     {
@@ -248,7 +249,7 @@
      "source": "BBC عربي",
      "time": "2026-11-25T21:19:44.000Z",
      "seen": "2026-11-25T18:22:58.624Z",
-     "impact": "يهم مستخدمي الطرق وسائقي النقل لمتابعة تأثير الحريق على السيولة المرورية وإجراءات السلامة."
+     "impact": "يهم المواطنين والمستثمرين لمتابعة مخاطر ونقل المواد البترولية وتأثير الحوادث على السلامة العامة."
     },
     {
      "title": "سوريا: مقتل اثنين وإصابة آخرين في هجوم لـ\"تنظيم الدولة\" استهدف مقراً أمنياً في الحسكة",
@@ -262,14 +263,16 @@
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5OTBpNVVhUV9CTzBpUERLbGhUamlkMHF4UVQ4RzFMMjR3YzJUbU5ROXdCMmZPX1daVDlCQmRFMjEzaWwwSjVqalp1UkdnRkJ0eW5qZGM4WC13YXFT?oc=5",
      "source": "الوطن",
      "time": "2026-11-25T20:57:42.000Z",
-     "seen": "2026-11-25T21:23:15.695Z"
+     "seen": "2026-11-25T21:23:15.695Z",
+     "impact": "يساعد الأفراد والمستثمرين في مصر على تقييم أسعار الصرف وتأثيرها على المعاملات المالية والأسعار."
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه في البنوك اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPS2o1TEY5TGxtM0ZYNGoySlA5Q1Ztck5WSVFpbDFzenRUUEZiQkhjM1JnSUJuXzIzNFdaTG9QZjhzX2lRVTlfcWVldjE1djdqbWdzLWxWbzJXb282VTBDYnpqOUpJVV83bE8tb0xPVUlkNWkwR1c1MG1BYTJHTFljQng4dmMtUndlb1hlay01cnQyeWlsMzA5dVJQa053bjJ5UGkteUhVbEpnR2tUeVlaZWxSeFYyR3ktQ3F0a0lvS0twbFI5NHpFcFRiS0c2d25iS2pLbWtpMy1QenBOWXlEaTFFbDJ2RDBOWjg4SFJwQ0tJczFfX01mSHFndkU5V1E0SVVlRzlFbHlQM3lEYTUzYXAwaUJVMVhWTmJBa3YweXk4NERhSmU3ZzVZV3BjRlB6c0xvWGhiZjBJRER4eDhqaC1TdG1Db1hoOW93Ulp4N0ZGQ3hjYnY1VmhITlhzaGVYbXphR0l3NEVvTzczNFFZenR5RHNlU3N4MDdZSy01WGJ4MkotanVUckxwZWE5QXdDVFBXSGhyaWVmZFk3SkJzcnFteHMybEhNUWM4Z19pTlJzVFI3ZElMbE9kbzFXT0tzUF9XbG5PWjZVRVN1U2hKWHJ0akp0Ty1nMzZqLWlCbkUzbnZjUm5OV0N30gHqA0FVX3lxTE9LajVMRjlMbG0zRlg0ajJKUDlDVm1yTlZJUWlsMXN6dFRQRmJCSGMzUmdJQm5fMjM0V1pMb1BmOHNfaVFVOV9xZWV2MTV2N2ptZ3MtbFZvMldvbzZVMENiemo5SklVXzdsTy1vTE9VSWQ1aTBHVzUwbUFhMkdMWWNCeDh2Yy1Sd2VvWGVrLTVydDJ5aWwzMDl1UlBrTnduMnlQaS15SFVsSmdHa1R5WVplbFJ4VjJHeS1DcXRrSW9LS3BsUjk0ekVwVGJLRzZ3bmJLaktta2kzLVB6cE5ZeURpMUVsMnZEME5aODhIUnBDS0lzMV9fTWZIcWd2RTlXUTRJVWVHOUVseVAzeURhNTNhcDBpQlUxWFZOYkFrdjB5eTg0RGFKZTdnNVlXcGNGUHpzTG9YaGJmMElERHh4OGpoLVN0bUNvWGg5b3dSWng3RkZDeGNidjVWaEhOWHNoZVhtemFHSXc0RW9PNzM0UVl6dHlEc2VTc3gwN1lLLTVYYngySi1qdVRyTHBlYTlBd0NUUFdIaHJpZWZkWTdKQnNycW14czJsSE1RYzhnX2lOUnNUUjdkSUxsT2RvMVdPS3NQX1dsbk9aNlVFU3VTaEpYcnRqSnRPLWczNmotaUJuRTNudmNSbk5XQ3c?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T20:04:37.000Z",
-     "seen": "2026-11-25T21:03:15.752Z"
+     "seen": "2026-11-25T21:03:15.752Z",
+     "impact": "يمكّن المتعاملين في السوق المصري من متابعة تحديثات سعر الدولار مقابل الجنيه وتحديد تكاليف الاستيراد والادخار."
     },
     {
      "title": "لماذا تكتسب زيارة خليفة حفتر إلى تركيا أهمية خاصة؟",
@@ -350,11 +353,19 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مقتل مدير جهاز الأمن الداخلي التابع لحماس شمال قطاع غزة مع عائلته في غارة إسرائيلية على مخيم الشاطئ",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261125-%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%8A%D8%B1-%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9-%D9%84%D8%AD%D9%85%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D9%84-%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D8%B2%D8%A9-%D9%85%D8%B9-%D8%B9%D8%A7%D8%A6%D9%84%D8%AA%D9%87-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A6",
+     "source": "فرانس 24",
+     "time": "2026-11-25T21:40:24.000Z",
+     "seen": "2026-11-25T21:43:16.259Z"
+    },
+    {
      "title": "مصر.. السيسي يُصدر \"توجيهاً\" بعد حادث حريق دائري الوراق",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/egypt-sisi-incident-warraq-ring-road",
      "source": "CNN بالعربية",
      "time": "2026-11-25T21:05:45.000Z",
-     "seen": "2026-11-25T21:13:16.212Z"
+     "seen": "2026-11-25T21:13:16.212Z",
+     "impact": "يهم المواطنين لمتابعة رد الفعل الرسمي والتوجيهات الرئاسية في إدارة أزمات الحوادث الكبرى."
     },
     {
      "title": "سوريا.. قتلى ومصابون بتفجير منسوب لـ\"داعش\"",
@@ -376,7 +387,7 @@
      "source": "DW عربية",
      "time": "2026-11-25T20:24:00.000Z",
      "seen": "2026-11-25T20:43:15.396Z",
-     "impact": "يعكس للمواطنين والمستثمرين حجم الأضرار الناتجة عن حوادث نقل المواد البترولية على الطرق الرئيسية."
+     "impact": "يهم القاطنين بمحافظة الجيزة لمتابعة تطورات الحريق وآثاره على المنطقة والسلامة العامة."
     },
     {
      "title": "نتانياهو يطالب بإنهاء محاكمته بعد توصية قضائية بإسقاط تهمة الرشوة عنه",
@@ -413,13 +424,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T19:48:49.000Z",
      "seen": "2026-11-25T19:53:15.966Z"
-    },
-    {
-     "title": "ليبيا: أي تداعيات للضربة الأوكرانية على الداخل؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B4/20261125-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%A3%D9%8A-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84",
-     "source": "فرانس 24",
-     "time": "2026-11-25T19:45:38.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
     },
     {
      "title": "إفطار في البرلمان الألماني يتحول إلى أزمة بسبب حضور رئيس الموساد السابق",
@@ -461,14 +465,16 @@
      "url": "https://www.tech-wd.com/wd/2026/11/26/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-redmi-note-18-%d9%82%d8%af-%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-8888mah-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86/",
      "source": "عالم التقنية",
      "time": "2026-11-25T21:10:14.000Z",
-     "seen": "2026-11-25T21:13:16.212Z"
+     "seen": "2026-11-25T21:13:16.212Z",
+     "impact": "يفيد الراغبين في شراء الهواتف الذكية بمصر بالاطلاع على أحدث المواصفات المسربة لبطاريات الأجهزة الجديدة."
     },
     {
      "title": "كيف تحسن سرعة Wi-Fi في Starlink بتقسيم الشبكة إلى 2.4GHz و5GHz",
      "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d8%b3%d9%86-%d8%b3%d8%b1%d8%b9%d8%a9-wi-fi-%d9%81%d9%8a-starlink-%d8%a8%d8%aa%d9%82%d8%b3%d9%8a%d9%85-%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d8%a9-%d8%a5%d9%84%d9%89-2-4ghz/",
      "source": "عالم التقنية",
      "time": "2026-11-25T21:06:34.000Z",
-     "seen": "2026-11-25T21:13:16.212Z"
+     "seen": "2026-11-25T21:13:16.212Z",
+     "impact": "يساعد مستخدمي تقنيات الاتصال والإنترنت على تحسين سرعة وكفاءة التغطية المنزلية."
     },
     {
      "title": "ترخيص أمريكي مشروط لسبيس إكس لنشر ما يصل إلى مليون قمر اصطناعي للحوسبة الفضائية",
@@ -484,7 +490,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T18:14:13.000Z",
      "seen": "2026-11-25T18:22:58.624Z",
-     "impact": "يهم قطاع التكنولوجيا المصري لمتابعة تطورات وتطبيقات حلول الذكاء الاصطناعي في الأسواق المجاورة."
+     "impact": "يهم المهتمين بالقطاع التقني لمتابعة التطورات الإقليمية في تطبيقات الذكاء الاصطناعي."
     },
     {
      "title": "\"حمّلتْ أمي قوات زيلينسكي مسؤولية مقتل عائلتي في أوكرانيا، لكن الحقيقة أكثر تعقيداً\"",
