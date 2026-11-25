@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:31:27.545Z",
+ "updated": "2026-11-25T01:41:27.558Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه المصري في تعاملات البنوك وسجل 54.17 جنيهاً للشراء في بنك مصر.",
   "أعلنت هيئة السكة الحديد في مصر عن طرح 2666 وظيفة في 12 تخصصاً مختلفاً للمواطنين.",
@@ -10,7 +10,9 @@
   "at": "2026-11-25T01:21:27.788Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T01:41:27.558Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5388,
-   "change": -3.24,
-   "asOf": "2026-11-25T01:21:16.000Z",
+   "value": 5392,
+   "change": -3.17,
+   "asOf": "2026-11-25T01:31:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6151,
-   "change": -3.24,
-   "asOf": "2026-11-25T01:21:16.000Z",
+   "value": 6156,
+   "change": -3.17,
+   "asOf": "2026-11-25T01:31:21.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3536,
-   "change": -3.17,
-   "asOf": "2026-11-25T01:21:16.000Z",
+   "value": 3538,
+   "change": -3.1,
+   "asOf": "2026-11-25T01:31:21.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0959,
-   "change": 0.47,
-   "asOf": "2026-11-25T01:30:46.000Z",
+   "value": 1.0961,
+   "change": 0.48,
+   "asOf": "2026-11-25T01:40:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.36,
-   "change": -1.13,
-   "asOf": "2026-11-25T01:21:09.000Z",
+   "value": 88.3,
+   "change": -1.2,
+   "asOf": "2026-11-25T01:31:24.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59323,
-   "change": -3.08,
-   "asOf": "2026-11-25T01:31:27.000Z",
+   "value": 59338,
+   "change": -3.06,
+   "asOf": "2026-11-25T01:41:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -243,6 +245,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "ملكة جمال الكون: أزمات تهدد بريق التاج ومشاركات عربية في قلب العاصفة",
+     "url": "https://www.bbc.com/arabic/articles/cw8dv64n0zp3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T01:33:41.000Z",
+     "seen": "2026-11-25T01:41:27.558Z"
+    },
+    {
      "title": "إسرائيل تتهم طهران بتطوير أسلحة كيميائية، والجيش الإيراني يُسقط مسيّرتين أمريكيتين في هرمز",
      "url": "https://www.bbc.com/arabic/articles/ckeq4799g8zeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -308,13 +317,6 @@
      "time": "2026-11-24T21:49:14.000Z",
      "seen": "2026-11-24T22:21:27.997Z",
      "impact": "يعكس فرص النمو للمستثمرين في قطاع النقل واللوجستيات والموانئ الجافة في مصر."
-    },
-    {
-     "title": "البابا فرنسيس في مذكراته: \"رأيت الشيطان ثلاث مرات\"",
-     "url": "https://www.bbc.com/arabic/articles/cmkgdjxzzx7ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T20:58:04.000Z",
-     "seen": "2026-11-24T21:01:11.813Z"
     },
     {
      "title": "جنسن هوانغ \"يزداد ثراءً\" بعد العودة إلى \"إنفيديا\".. كم ربح؟",
@@ -417,18 +419,18 @@
      "seen": "2026-11-24T22:41:28.166Z"
     },
     {
+     "title": "الجيش الوطني الليبي يعلن مقتل عسكرييْن في هجوم ميناء بنغازي",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPT01iZlhMdlFreGFtbGhraUg5bXlHUXJsZW9vNnRKbXFtZVExaUJGMnhObnRsSHFYd3ZkbjkyenViek9ETXhJODd2QVFsYUx4NXFyaERRR0Q5SS1rLW4taFNpaHJaX1hVOTFYYXJsdWNzWHhWLXRiOXBra081TTB5NElrc0tMUXlVS0YtMTgxRm5ZTUJNa1VKdTV2UEFLZnp0LW02N1hQc19IRVUzdTBwYlJSZ3FwVWdZdFRBN2hJNXdpaTQ0amFiLVRkbWQ2VUk0c1ktX09mVWNkWWZ0Y2pzOEJEcFIta0t6MHVLb3czM3kzaUEwMklVRW9TQUQwazVCMHRFT01DcU9yNW1Qb2R0enYyUTBjMWpoZGNMWG9FamYyTGVwYnp1Z3J3SEdWWnBYOG5DZXdKZ0VFdVc0alNjQWh3QWkxci1WRGwxZm5TT2xXdldTTTdPSnJVNWlqZ08tbTVuOWpVTHZGQ0pmVGd5cXFmajliUzhEVkVrNjYtYzlFNnVtRDBsOExOTG9icVhhWDB1cE1QYWt6MHJTMTZaU3pGQ0NpWi1wZVBMaDRLOWkwYzFrdmQyNy1Vd0I5cU91eDVHbmNyUmNuZzJCeW9zWGx6cXdCWG5ZTkxMVDRwTXNoUdIB5wNBVV95cUxQMlQ4QUVFTmw5RE4zSWpDaU9USjVZcDR3R0JIV3lXcjBwYXVrZFdlNldYZmN1QkNheFphb3BKZVV2enNGZ1hqSTdLRWhOMERhRmNsR2RnUjBIUVBRUmRQekF4bTZLRnpkMnRHZVBGRk4ydzcwSHdKWUxiTnF0WU9WZTBzb0pJeXUxd2tfNzdXZlh4TWZINGRLTDJRMkRCbnBwdGF6NWxBRkk2TnNiemdHWTl3UmpuOUtMY1R1VVoyeUp0cERIZXk2NUw5aVpYUkR0YXNQcVpNSVh3VDFXN0tZT0cyTkdpQ2d0aTJIempYQzkxaVlNZno5NFFFbFJtQ3ZhM1o2aWJCYm4zb0txNkpSbExtYWpad2R4NGloUkJMS3dRdEF4bUp3bXNGVVZjT3puem9YRzJiSlFCd3g4bmRELUNqWjEtUGxkRElQZFlUMnB2aXgwOHNqZktpdndZbnJWTDVDenNUMW04X2k3cXV2Z3hGNjcwdm0zbDl4cDZjUGJONWkwTmhJNzlEM2x3akR4bk5pdXp4LThzTTBud3N0dl9UbHhvdVhrdERnTW9QNXJ3TE1IQ3IyYm9jcnRrbzNIYThVLXJrSjhuZGNDYkhiQl9VLXpYMFpvWXZlbHhRYVVLZ2JFaGp3?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T22:25:27.000Z",
+     "seen": "2026-11-25T01:01:27.578Z"
+    },
+    {
      "title": "من الجزائر إلى تونس.. لماذا تحوّل اصطحاب الأطفال لصلاة الفجر إلى موضوع جدل؟",
      "url": "https://www.dw.com/ar/من-الجزائر-إلى-تونس-لماذا-تحوّل-اصطحاب-الأطفال-لصلاة-الفجر-إلى-موضوع-جدل؟/a-80033957?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-24T22:15:00.000Z",
      "seen": "2026-11-24T22:31:27.656Z"
-    },
-    {
-     "title": "الجيش الوطني الليبي يعلن مقتل عسكرييْن في هجوم ميناء بنغازي",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPT01iZlhMdlFreGFtbGhraUg5bXlHUXJsZW9vNnRKbXFtZVExaUJGMnhObnRsSHFYd3ZkbjkyenViek9ETXhJODd2QVFsYUx4NXFyaERRR0Q5SS1rLW4taFNpaHJaX1hVOTFYYXJsdWNzWHhWLXRiOXBra081TTB5NElrc0tMUXlVS0YtMTgxRm5ZTUJNa1VKdTV2UEFLZnp0LW02N1hQc19IRVUzdTBwYlJSZ3FwVWdZdFRBN2hJNXdpaTQ0amFiLVRkbWQ2VUk0c1ktX09mVWNkWWZ0Y2pzOEJEcFIta0t6MHVLb3czM3kzaUEwMklVRW9TQUQwazVCMHRFT01DcU9yNW1Qb2R0enYyUTBjMWpoZGNMWG9FamYyTGVwYnp1Z3J3SEdWWnBYOG5DZXdKZ0VFdVc0alNjQWh3QWkxci1WRGwxZm5TT2xXdldTTTdPSnJVNWlqZ08tbTVuOWpVTHZGQ0pmVGd5cXFmajliUzhEVkVrNjYtYzlFNnVtRDBsOExOTG9icVhhWDB1cE1QYWt6MHJTMTZaU3pGQ0NpWi1wZVBMaDRLOWkwYzFrdmQyNy1Vd0I5cU91eDVHbmNyUmNuZzJCeW9zWGx6cXdCWG5ZTkxMVDRwTXNoUdIB5wNBVV95cUxQMlQ4QUVFTmw5RE4zSWpDaU9USjVZcDR3R0JIV3lXcjBwYXVrZFdlNldYZmN1QkNheFphb3BKZVV2enNGZ1hqSTdLRWhOMERhRmNsR2RnUjBIUVBRUmRQekF4bTZLRnpkMnRHZVBGRk4ydzcwSHdKWUxiTnF0WU9WZTBzb0pJeXUxd2tfNzdXZlh4TWZINGRLTDJRMkRCbnBwdGF6NWxBRkk2TnNiemdHWTl3UmpuOUtMY1R1VVoyeUp0cERIZXk2NUw5aVpYUkR0YXNQcVpNSVh3VDFXN0tZT0cyTkdpQ2d0aTJIempYQzkxaVlNZno5NFFFbFJtQ3ZhM1o2aWJCYm4zb0txNkpSbExtYWpad2R4NGloUkJMS3dRdEF4bUp3bXNGVVZjT3puem9YRzJiSlFCd3g4bmRELUNqWjEtUGxkRElQZFlUMnB2aXgwOHNqZktpdndZbnJWTDVDenNUMW04X2k3cXV2Z3hGNjcwdm0zbDl4cDZjUGJONWkwTmhJNzlEM2x3akR4bk5pdXp4LThzTTBud3N0dl9UbHhvdVhrdERnTW9QNXJ3TE1IQ3IyYm9jcnRrbzNIYThVLXJrSjhuZGNDYkhiQl9VLXpYMFpvWXZlbHhRYVVLZ2JFaGp3?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T22:01:38.000Z",
-     "seen": "2026-11-25T01:01:27.578Z"
     },
     {
      "title": "اختراق سيبراني جديد يضرب وكالة الاستخبارات المركزية الأمريكية",
@@ -457,6 +459,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "اختراق يطال \"سي آي إيه\" ومكتب مسؤول استخباراتي أميركي بارز",
+     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQSFZTVjM5VFF3d3Nyd3VuQlgzRDlCT3ZpeksxUVNwY3M5Q0FpYk13ZEkyQURMZko5U0NwZ3pDZHBNWFJ0T1lSRkhMV0VFS2NEQ0RBWHVqcHRQZGp2Zm0zSzE1T1hKRS16TjdyUHJYOC15WGNpMjVlX0M0NXItcEdsbkhIbzZrU0JHd2Z3RjItMldlTnphTjZNMy1lVG11VkxkLWwybHhWMVZlbWNrVVhXN2ZUQ0lUSUVrMUh0NlJuWnFhN1FGcHBTQ2tVN2RjNGVrWEdIV2tnNXc5aFdHNG9weXloZU53aGNwSVhkekk0Z3RGVWV3bzBBV0N2OXpwWVRlV1ViSk1xNGhHVnZpMV85NFZxZWNTYldZYnJBUHd4TWhaMzBqa2dpOXpJcGpqYkZwamJSZDhjaklwa0dUdmJOMnNoZUJxTW1PZWw1QUtVX3Y2bVR4bkJsRFc5UmEwQnpEZ0Y0cGltS2xPby1Ca3d4VWN2WFlDYUF5RmpqYk1PbzJ6WTUxbk9weFE1d2t6U1NfZ3ZkcmNXQ3V0bTh5ZUN0WElyeGxreWpTMnJraU9RMHRqYXNwdHd4bW5uMzN1VUpscm9aeGJLcndZQdIBzwNBVV95cUxQLTdtMmRueGYtSm95d3VNRDQzREhvZl9pS2dYSldmZVVxc29CeE9SLWhUQXZOM1hQMDg5ZFltMGkwSW4wdWxKanFJYUJGU1VRU204bkoyTm5MQ2JObWJYS0ZQNHhUeGpDSmd2QnRpdzJ5YlpYc0M4RFd6YzRJbHJpdjh1UnZrYXgySVlTRXFhbDNVRDdUMUptZ281M3hwNkFkMHEtV190c3VhWEhlVy1oWlBlenh1emZOSmotSXRYampHamRWTTNMQW8xVGhSUDlfRENBSVFfZXlfcWhLMzhUNWVXZ0tfMHFCWnRrVGRlMW1SQkgyb2Iwa293Y2dqRGI1aGg1UHEtRHFkbzZ3MS1JXzRJaC0ydDBzZnB5ZVpyQzFrN25CekJGckl4cWVHRW5ma2NGTENHVzVkbjhSTGFXWXcwUDhxVjRsSjQ2ZXBiREtnWXpQNm9wcGYwVGJUdkEwNldFRzU0WkNiUUFsX2pGMmwxSHZlcHhZa2phek1TcHhjV1VUdXMwSVZPNVBWa1Y1S3pueXN4VWszb3JfeXpGUlA4RldzcHNfb2JxeWY0N21PUmJyTEtCRTdVOTdtSzNoNWFPQTMzTjgxTUxJSThz?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T23:55:12.000Z",
+     "seen": "2026-11-25T01:41:27.558Z"
+    },
     {
      "title": "تيك توك يتعرض لعطل عالمي.. ما الخدمات التي توقفت داخل التطبيق؟",
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPeXhKUTBDelBBaC03bWRoZ2h0alpEWm1PQTZnOGNQTi10QjZlTm9fT2kyRlBXemdYd3BXY09yWG1RcTRxZE1jMTBWWGxub2xYczNlaTdVV2hTVVg5VE9Hdl9GZFo2WXRSbDlZazh0bGhlV1lJM2x2VHBfNXRBbGlWYmswWWp4ejdkbC1jdURiMzVSR1ptY1huMnpGM2JaZTFKTG9MTDJWVDQ4NFJ3aC1FM0xYa2tOQmZLWnZEempEV0lKWGtsN3M1SmRleDkyZWZIOGtmaEc5WEs3ZXF2eEtVbzQyaXVOTElTMG9vZ25KNUpUczUwbDREWkVDaE1WcjJ6LUk1djBPdFZTZTlINUdMZlVleWlTdzdWeG41Z3lxZDJ5bWowcHNPY1V5cldtMDhUWG9FUW1RR0p3TFFIUEE5Sm9zX0hibXoxa0RoSjZZV2NjSGxzaElhWTVwdVhpaWJLNkhqVlNUUWVfUGRPLVh1T3duaUlIcjAxZF9OaXhSYXBOaTZPbTZMVkNDTmRYV3d4eUFYa2hYN255TlpaNkkyTEhZRWc0a283V2NtNmpUaE1Oak5JUTc40gGyA0FVX3lxTE0zUDFjbjNhdWVmNkxrU1J0M0R2bUl2LVI2VGVjRE5TU2Noc0xUWjlxUU1MRUdCcXk0VWJkQmcwQlVSVFB6SjRjQldWZnp5Q1NNczdVMENKanFKczRpQXRzYkhsSTBiNzRSSXlHSEJsQXczQV9Wa3lGdlRuSVBGM1U2UHNtOUJtYWx2anBwaThWTndhNmE5Tk1EMktqSXBMcDRpSGNvS1J1SmRrQkdsWWJ6OFBwc2t6aWFPcmozX2JzOEgzR0txMktrZ2JQLTF2NnR0NFNoY0R6U2dvUDZBcnV1N1NSdTNVUk1ZQl9YSDFkOURZbGQwcjdzRXVCOEJscmtHcFkxOENnczlBMW1kcGl2Y01lYjl6WHNoblduUURqUVVwckN4TXhZT1FjSE5md1VURVdaM2U4MFBsSUdYRnR2NFNFWG1hSDBiNGxqR1JURm5kTzNqUEJXSi05NHY5dkdTV2prUlNodUlBVU1iWjZHQ2VqVmlSb2VhTmJZY0lid1BSZURCa3NmMEV1VUZUSnJocGdFcVE1ZnZSS19jNlRhYldOVnhudnczUjhLYW54d3ZR?oc=5",
@@ -487,6 +496,13 @@
      "time": "2026-11-24T21:04:09.000Z",
      "seen": "2026-11-24T21:11:12.187Z",
      "impact": "يعكس للمستثمرين المهتمين بالتكنولوجيا في مصر حجم التقلبات الحادة في تقييمات شركات الذكاء الاصطناعي."
+    },
+    {
+     "title": "البابا فرنسيس في مذكراته: \"رأيت الشيطان ثلاث مرات\"",
+     "url": "https://www.bbc.com/arabic/articles/cmkgdjxzzx7ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T20:58:04.000Z",
+     "seen": "2026-11-24T21:01:11.813Z"
     },
     {
      "title": "تسريب معلومات بعد هجوم سيبراني استهدف وكالة الاستخبارات المركزية الأمريكية",
@@ -524,14 +540,6 @@
      "seen": "2026-11-25T01:11:27.363Z"
     },
     {
-     "title": "هل عقلك مُرهق بسبب كثرة المهام العالقة؟ 5 خطوات بسيطة لاستعادة راحتك الذهنية",
-     "url": "https://www.bbc.com/arabic/articles/c68x0ve7wqg1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T18:05:50.000Z",
-     "seen": "2026-11-24T18:11:11.547Z",
-     "impact": "يفيد الأفراد الراغبين في زيادة إنتاجيتهم والتغلب على الإجهاد الذهني الناتج عن ضغوط العمل."
-    },
-    {
      "title": "هل تطبيق Instinct AI آمن؟ خبير تكنولوجيا معلومات يكشف",
      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOaTdmOWtPeGYyX012VmZBSDBGdENtRkRCNGF3Q2FsNTRTZkdjMmtoNklzcml3WTJGS2J6OS1EbnlyeC1KNGxIOWRkcElkenlQWHlsTm4waHJBMU5lWjhaYWhUN2s3dE1vSlRHdll6Vk1mVHVJYmNSUlhvOFN6YldJOWdjb3gyWmc2TWhFLWdtTmxRVU5sUjhnZElHcDFGbU1FdXNTZ2xFWVYxektmVGx4SDNMYTlFd091V3E2S095MWFfWHlYajFnY3ZEZDhmaVZaZEZJazBEWmdnXzVieUdOYUlLNzZ4akZLRXZVMEF2SnFzM184a0hxcTcwWW9DS3RxemFmbUJwNEx3dG5kSmUwcUhfQXpkTWJNSnN6UUhjUTl6aWY0b0Y4em9vY25HelNhenBlc2RWNGhMWVhldlRxLTlTdU9oUDVnMWpSTzJmS0lpeEl2SjdnZzFqSkh3a0FsZG1jQXZ5M0FHQUd1cThURG05Y2ZxemRZNGFnUVFMN1phbFBPejBGNlJ3dWp2ZDFhUHFvVWdsYi01WTNJcGpr0gGkA0FVX3lxTE5pdm9TZ29EWmV3ZkVoY3gtMl9EVVdKTk9BZjZUT2wwUF8zRnZVa3RPXy13NFdoaDlCR1pnak9BQW5Lcl8weGZxcWx2cmlaSW9feURDR0N2ZDRIRGFTaUJkX0ZOQW9idnByQTFCLUxzMTFJUVRLZFNwOVlzMlNRUnRRY2JheFI2T3F2Zkk2VjgzUkktaTBBbmQ2Wll2MGRqWDNlVVljcGN5NmJFakxidERDWEJRbW00c0pUc0VkQ2NEVTQyVXRpYnFtcHJSRXZtakRsWG5Cb3NoSnZ5RVlzOWtSQkQxc3RmdUwzX2FQb3g3b0s0Vm9OckxsLS1uVTFhSjA0eTdpS21vc3RwNmMxMFNjYzdoV0tTY2VPQU9seXBOYzZJX2tKV2ZTX1FTdXRzSk8zakpERmZZaWNvSjdRTlNsY1dNRVQzLXhPMFZiSjlxc1lCdEJlWTMzOWNPaWRkTE9qUWpjajg3NWRScjlzM09PR3JWS2dsYm0zQldmZi00TC1GeW5lZHJFblc3MUhSeUc2djI1MTdhNXdlMDFvUlBpTklBeA?oc=5",
      "source": "Masrawy",
@@ -553,23 +561,10 @@
      "source": "Masrawy",
      "time": "2026-11-24T17:26:00.000Z",
      "seen": "2026-11-24T22:01:27.774Z"
-    },
-    {
-     "title": "هل يفلت الذكاء الاصطناعي من قبضة الشركات المطورة؟",
-     "url": "https://www.aljazeera.net/tech/2026/11/25/%d9%87%d9%84-%d9%8a%d9%81%d9%84%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%85%d9%86-%d9%82%d8%a8%d8%b6%d8%a9",
-     "source": "الجزيرة نت",
-     "time": "2026-11-24T15:59:00.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
