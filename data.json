@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:43:16.135Z",
+ "updated": "2026-11-25T23:53:16.175Z",
  "minute": [
   "شهدت مصر حادث حريق هائل ناتج عن انقلاب صهريج مواد بترولية بالوراق في الجيزة أسفر عن ضحايا، وأعقبه توجيه رئاسي وإخلاء الموقع وفتح الطريق بالاتجاهين.",
   "استقرت متابعة الأسواق الاقتصادية في مصر على متابعة أسعار الدولار مقابل الجنيه اليوم الأربعاء في البنوك.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T23:43:16.135Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T23:53:16.175Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5537,
-   "change": 1.94,
-   "asOf": "2026-11-25T23:33:18.000Z",
+   "value": 5543,
+   "change": 2.04,
+   "asOf": "2026-11-25T23:43:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6322,
-   "change": 1.94,
-   "asOf": "2026-11-25T23:33:18.000Z",
+   "value": 6328,
+   "change": 2.04,
+   "asOf": "2026-11-25T23:43:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3605,
-   "change": 1.21,
-   "asOf": "2026-11-25T23:33:18.000Z",
+   "value": 3609,
+   "change": 1.31,
+   "asOf": "2026-11-25T23:43:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0973,
    "change": 0.59,
-   "asOf": "2026-11-25T23:42:45.000Z",
+   "asOf": "2026-11-25T23:52:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.67,
-   "change": -0.8,
-   "asOf": "2026-11-25T23:32:51.000Z",
+   "value": 90.68,
+   "change": -0.79,
+   "asOf": "2026-11-25T23:40:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60282,
-   "change": 0.89,
-   "asOf": "2026-11-25T23:43:14.000Z",
+   "value": 60387,
+   "change": 1.07,
+   "asOf": "2026-11-25T23:53:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -274,18 +274,18 @@
      "impact": "يهم المستثمرين لمتابعة استقرار سلاسل الإمداد وحركة الملاحة والموانئ في البحر الأحمر."
     },
     {
+     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الخميس 26 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPZngxdXRya1NCR0NnSHo1d1VFZ285OE1fSjMwdEpOSWtOc3VNSVJYR2JHOVMyMG5uVnl3SmY2bEFjcWFNMlQxYjkwNHBsT2pIS0Nic29lWHFYLW5GM3NMN2duVlVtdVBjZ0xuNGs5Ry02ZnhEZEE4di10Nm5HbllieHRNZjlWNFBDOTd5UVJCR29uUEJad2V4T3ZKdmJlQlJjT0lCbmtweUdOZG4wUFpBUjFZa0UwMnZMWDRQOG9kTDk3dXJyQmVOcHhMTHFmREVteFlST2hLLUtjdWtQQ1hoYThkcmk5QzFsRVlTaHhWbEsxOWVuVXdEcmQ5TzhfTnI4dVpYWHBQU2lKRjQxM3dTQzgzTnY3Wl9wWldRS0xoLWJCQ1Q0bXZINU45YjY2SXVMZXdQNTg3ZTA0WlZnOHNiVm9LVHM3Ymtlc0phMzl6QVdpSi1CMy1NNHB2NUMyQkhHNEp3V2lCb0VKQU0wRFFseWVKbjVwWkR6MjA0MWpBek1QMXl1SHh0YmRuMlBwLTVCTFg1SHU5SmtoQWItUDMwM0JVclR6Y00wMFhiMS1ua3dranB3WnhhTUtULWNjVV9nZzQxVdIBxANBVV95cUxPZngxdXRya1NCR0NnSHo1d1VFZ285OE1fSjMwdEpOSWtOc3VNSVJYR2JHOVMyMG5uVnl3SmY2bEFjcWFNMlQxYjkwNHBsT2pIS0Nic29lWHFYLW5GM3NMN2duVlVtdVBjZ0xuNGs5Ry02ZnhEZEE4di10Nm5HbllieHRNZjlWNFBDOTd5UVJCR29uUEJad2V4T3ZKdmJlQlJjT0lCbmtweUdOZG4wUFpBUjFZa0UwMnZMWDRQOG9kTDk3dXJyQmVOcHhMTHFmREVteFlST2hLLUtjdWtQQ1hoYThkcmk5QzFsRVlTaHhWbEsxOWVuVXdEcmQ5TzhfTnI4dVpYWHBQU2lKRjQxM3dTQzgzTnY3Wl9wWldRS0xoLWJCQ1Q0bXZINU45YjY2SXVMZXdQNTg3ZTA0WlZnOHNiVm9LVHM3Ymtlc0phMzl6QVdpSi1CMy1NNHB2NUMyQkhHNEp3V2lCb0VKQU0wRFFseWVKbjVwWkR6MjA0MWpBek1QMXl1SHh0YmRuMlBwLTVCTFg1SHU5SmtoQWItUDMwM0JVclR6Y00wMFhiMS1ua3dranB3WnhhTUtULWNjVV9nZzQxVQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T22:04:08.000Z",
+     "seen": "2026-11-25T23:53:16.175Z"
+    },
+    {
      "title": "هل يواصل الهبوط؟.. آخر تطورات أسعار الذهب اليوم الخميس 26 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPZ2ctOTlkWDVKSEU2N2xWRzdxeTRFX2FZVEtYekVrbDJzbXR1S2pVS25KdV9XVDZEcktBV1hfdWdsdlQ4TXBCRjFJa0dHUnZwYmZvNEJRUE4yeDJhWFpNRG5TSURKSnpBOG9wRWl2Q2tuMkdvdkVpOTVQU0k1WDRqNE0wcS1RNWs1bUJReXFJV2twc3dpVTV1NVpQZURPMzFJejlGTzJtRndwYjlScW9tQnNtaWlDbFJBS3NTRUVLZGI4b1FmaFh0RW5PbUh6cWZFSFdIVFlxYXFpOWdoUVZnN3NYZUlxQ0FQUjNSRndVYndRZ3lBQmg0MWJhaDNiTHZQTFNBUERmNE1VeU5WaEhORzRHVDJxWkJqN0d2Z05fSUduRkh5Q1lKR1JFMnZqUnN5RmNwVDczbVBDMVlac1lFX09kRUIwLVlEZVFPTC16bHFrR213WG9fSjBzUFBPVkFZVjR6R2lTZ2xJWmpQOUM4dWJVaFNUdVJnOUZYb3lybmFia1VJbE5XZ0FMSjZZVURLNXNWd0o2Q3lDVFptRld5M0VKeXNEZDIzOHBtZE0tQzdQVEJSWUJIUWFrY3htXzczMnfSAbwDQVVfeXFMT01CWjhsYmdleXFpaWw0YnVvVmYwazRsdEhtcnRDcmt5Q3RweFY5X3ZGZnRIV21mZ1lMUGk5UDI0eVBQZWNSSHBvZHp0ZVRzdmluY1NmdXVQNFJ5OTlBNGxLZ3VHb2tqUkp0eFB4ajJyOURMclNidmlVeTNJMVM2WUthbHI2S0d1M2d3SnZLOEV5T1hodm9lV2F6MGp5YkhuRG1iMU5KYzNVOWROSHgxckdzR25oZHNRYktqdEg5WnZneU5KZXhKZGJvWEpQTjJjQ0ZMYU8xMWRsVXh5TnNwZUc5VGhKQ3VhRzBaRUxtYnFUczh1VklXdG9OYVR2V0stbDktVzNDdGVNZkpFUU0zcERSTi16bDlnVmRXVzJXTm13YThKQ2xqTlBUN0ZFaGJJMlM5eWdDR0xpYnUtSFZ5R1lLUS1qUldwdmNwWkZZZnpwbUhGQS03NWhoRWJncjVtUjh2bFFXWHdxU0h3cXZOc0ZCX2RudDVkY0daVmRBaEFScWpkNThyN0Q3TG9naFFEenp2OVk3TVBUWlQ0Tkg0Z1hsSk1kSW9WbnlaaGlQMlFRejdIQ0dXbjlGb2Fw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T22:00:00.000Z",
      "seen": "2026-11-25T23:13:15.970Z"
-    },
-    {
-     "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الخميس 26 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNa0c1WjJqUGMxTlM4dm1yTldLWkRpREtBRS01RmlqRFNyZEE4WjJDclU0c2pvZjNyQmNmZ3Z3d3BzU0EyRmx4b2RPTVZOYWN3YzFSbHJzS0F6cXdYc1JFcjd1MGxYLVhGQlg4MXh0X2E3X1o4YndfYkt1YUVvV0RkRnpjMXByMXV5T1k5aUZTSnM3d1pWeGNHSE5fTDFJbnFjMlBCYW13cEY0WmptaDBxdnZqRzMzMVVodVk5WWNBTUdtZmF0b1dVWFZQNGRHN0pUaXpZZXN1clpQak1kS0F4cndfVHh1bkMtV1NnOFhMVzl4WEJOeFc2RU9mMDRCbnJXMk5XRmhBNE96SEwtUTF3Tm5WcFplTDZSTUZxcUJhM2JSYTA5WmpCazB3MEZ4QldWRjU5MU1TNkxWVlYzeU4wQm43VC03LV9rWW9BSDB1VmIzbktlZEdCazBPRlFQQ0JYZHdZS0Z1LVpJQ0E1bGJsTTVrSGg0M2lhakRyYmRORFdDQ0lHNDRqYWtkbnRBNVZwaC14dzY2Vmg4cV8tLWc0MzlwMWlGTUF6MVJTcGRHSkhwdlNSaE05SnlYWVVYNVVPMW0weDFPS1ZXd9IBxANBVV95cUxPZngxdXRya1NCR0NnSHo1d1VFZ285OE1fSjMwdEpOSWtOc3VNSVJYR2JHOVMyMG5uVnl3SmY2bEFjcWFNMlQxYjkwNHBsT2pIS0Nic29lWHFYLW5GM3NMN2duVlVtdVBjZ0xuNGs5Ry02ZnhEZEE4di10Nm5HbllieHRNZjlWNFBDOTd5UVJCR29uUEJad2V4T3ZKdmJlQlJjT0lCbmtweUdOZG4wUFpBUjFZa0UwMnZMWDRQOG9kTDk3dXJyQmVOcHhMTHFmREVteFlST2hLLUtjdWtQQ1hoYThkcmk5QzFsRVlTaHhWbEsxOWVuVXdEcmQ5TzhfTnI4dVpYWHBQU2lKRjQxM3dTQzgzTnY3Wl9wWldRS0xoLWJCQ1Q0bXZINU45YjY2SXVMZXdQNTg3ZTA0WlZnOHNiVm9LVHM3Ymtlc0phMzl6QVdpSi1CMy1NNHB2NUMyQkhHNEp3V2lCb0VKQU0wRFFseWVKbjVwWkR6MjA0MWpBek1QMXl1SHh0YmRuMlBwLTVCTFg1SHU5SmtoQWItUDMwM0JVclR6Y00wMFhiMS1ua3dranB3WnhhTUtULWNjVV9nZzQxVQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T22:00:00.000Z",
-     "seen": "2026-11-25T22:13:16.252Z"
     },
     {
      "title": "«الرقابة المالية» توجه بسرعة صرف تعويضات ضحايا حريق الطريق الدائري",
@@ -388,7 +388,7 @@
      "seen": "2026-11-25T22:43:15.283Z"
     },
     {
-     "title": "من الجزائر إلى تونس ـ جدل حول دفع أطفال للذهاب لصلاة الفجر",
+     "title": "\"أطفال الفجر\"ـ جدل حول مبادرة اصطحاب قاصرين إلى صلاة الصبح",
      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQ0VIRk1FVmNyTGpyUVo5cFB6ZG1RLUMzeGtTOHVhS0NWN09hMjNoUEc4cW8zWnhGbmM0dUlpd1RKQVYzTFFaNGhCTkpNVGk4RmJQemdYTlVrMEJVN29FZThSd0o1cHRvLXlKVFNBMEQwd0pKUjUya2xQYXBwaEk3dHV3cVNmWUhyWW80am5fd3pYVjh1Rld5TXFLVmxueS1wcXlsclE5eVU1QmFnZTdKckJpM0tXaFRITmRlcmpHOENORjhqOXk1QW52dzhIazZxTU9VNmk2V0JPYjZxVFJZOUFMdEhtdmNGbDRlRVZVUFdxWXFHZS1ycXhRSGFQZFNDdTBwM3lyWU1IdU1EWG5DLVpDZExfNzVrWDNNOHhRWTRSYnRpYVNjWTc1YnFhaHVSbzFaRUJfcEpGTXlMcjdIS1V1WG4tOURMM2pVekUzQmJTVUhQM2VhZmUya3h1Q2EzMWxCX3lXNF9hTlFvd2FMOHhTWkpVYW94dHFTNjZFVHFsbV9KTGpMN3pFQWZNVUZpNVVCbXZVT1dNbU5LTVFsTWtxNWVQRzhGZTc1SldGSnZfMmNOSkdjbVNGTWQydkpsd2U4VW41aVo5clJXUXBMNnR4SUVGeDZMazdibUZnZ2diOUxWNHcwSkQxMA?oc=5",
      "source": "DW.com",
      "time": "2026-11-25T21:58:43.000Z",
@@ -565,17 +565,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
