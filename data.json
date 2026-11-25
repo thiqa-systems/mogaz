@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:21:27.533Z",
+ "updated": "2026-11-25T00:31:27.624Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T00:21:27.533Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T00:31:27.624Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5407,
-   "change": -1.45,
-   "asOf": "2026-11-25T00:12:17.000Z",
+   "value": 5397,
+   "change": -1.63,
+   "asOf": "2026-11-25T00:21:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6174,
-   "change": -1.45,
-   "asOf": "2026-11-25T00:12:17.000Z",
+   "value": 6162,
+   "change": -1.63,
+   "asOf": "2026-11-25T00:21:42.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3548,
-   "change": -2.82,
-   "asOf": "2026-11-25T00:12:17.000Z",
+   "value": 3542,
+   "change": -3,
+   "asOf": "2026-11-25T00:21:42.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0965,
    "change": 0.52,
-   "asOf": "2026-11-25T00:21:45.000Z",
+   "asOf": "2026-11-25T00:31:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.5,
-   "change": -0.97,
-   "asOf": "2026-11-25T00:12:24.000Z",
+   "value": 88.51,
+   "change": -0.96,
+   "asOf": "2026-11-25T00:15:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59470,
-   "change": -2.84,
-   "asOf": "2026-11-25T00:22:27.000Z",
+   "value": 59498,
+   "change": -2.8,
+   "asOf": "2026-11-25T00:31:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "دعاء قضاء الحوائج المستحيلة وتفريج الهموم في الثلث الأخير من الليل.. أدعية مستجابة",
-     "url": "https://www.elbalad.news/7193619",
+     "title": "لم يحدث أي تواصل.. رئيس المقاولون العرب يكشف حقيقة رحيل سامي قمصان عن الفريق لتدريب الأهلي | فيديو",
+     "url": "https://www.elbalad.news/7193587",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:02:03.000Z",
-     "seen": "2026-11-25T00:11:27.508Z"
+     "time": "2026-11-25T00:30:00.000Z",
+     "seen": "2026-11-25T00:31:27.624Z"
+    },
+    {
+     "title": "أحمد مقلد يكشف كواليس أزمة حزب المؤتمر .. تفاصيل",
+     "url": "https://www.elbalad.news/7193535",
+     "source": "صدى البلد",
+     "time": "2026-11-25T00:30:00.000Z",
+     "seen": "2026-11-25T00:31:27.624Z"
+    },
+    {
+     "title": "هاتف Honor القابل للطي بدون تجاعيد.. تأكيد رسمي للطرح في مارس 2027",
+     "url": "https://www.elbalad.news/7193483",
+     "source": "صدى البلد",
+     "time": "2026-11-25T00:30:00.000Z",
+     "seen": "2026-11-25T00:31:27.624Z"
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الأربعاء 25/ 11/ 2026",
@@ -156,20 +170,6 @@
      "title": "الأوقاف تنظم اليوم 1033 قافلة دعوية بمراكز الشباب لمواجهة التنمر",
      "url": "https://www.youm7.com/story/2026/11/25/الأوقاف-تنظم-اليوم-1033-قافلة-دعوية-بمراكز-الشباب-لمواجهة-التنمر/7630747",
      "source": "اليوم السابع",
-     "time": "2026-11-25T00:00:00.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
-    },
-    {
-     "title": "5 طرق طبيعية لتغيير لون الشعر في المنزل .. القهوة والكركديه والحناء أبرزها",
-     "url": "https://www.elbalad.news/7193614",
-     "source": "صدى البلد",
-     "time": "2026-11-25T00:00:00.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
-    },
-    {
-     "title": "أحمد عبدالباسط: لاعبو الزمالك جابوا للنادي دوري من «لا شيء».. ولازم حسين لبيب يتصرف لحل أزمة مُستحقاتهم|فيديو",
-     "url": "https://www.elbalad.news/7193568",
-     "source": "صدى البلد",
      "time": "2026-11-25T00:00:00.000Z",
      "seen": "2026-11-25T00:01:27.980Z"
     },
@@ -242,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "إسرائيل تتهم طهران بتطوير أسلحة كيميائية، والجيش الإيراني يُسقط مسيّرتين أمريكيتين في هرمز",
+     "url": "https://www.bbc.com/arabic/articles/ckeq4799g8zeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T00:22:14.000Z",
+     "seen": "2026-11-25T00:31:27.624Z"
+    },
     {
      "title": "سعر الدولار لحظة بلحظة.. 54.17 جنيه شراء الأخضر فى بنك مصر اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQUDlVd1hFU0xCbnU0Slh2NlBfQkpIY0ZqNU9xTFlfTXVpcnJOcUhHTkJDOXN1NkFDMnUtRFJJSEd0Y25NUUtQMDhYdFF4Mm5QUnl0bV85a1NsYkhCMzA3ZW1vSjFsdEg5bE9mcjNsRXI0dDZUT3RQR2xZMVc1SlU4T2dQZVFGeVJPSkFrN2lFeHQ0cG5XRlkzMU1VWjZZbGpMZ09PUHNwbk01cV9QOTNhbVdkVzZyZm9IWVA1ZTNDQ2NoWjFxZUZ2OF9ldElXODhDVTZOUGJFdHBpekhMckxLSXR6Z0Z5TzBjdW5nSE1mcVRWVmhyTElLNC1KTjJEMDhmYnhvcG1DRVFmdURWa0xRSDVMU1dFZG5sMDBqYTd6VEdvbUlVem9Vd09iVlZ6QTgwWjdqZDZHUVN6MnRFZHlUVDhpMjF4cEs1Uks4LWtTS2h3M3ZDN2Q1UjF6U1o5RDR6UkRqbk1wR2NZUnBhNHJNODBJZ2x2Y1JRcEgtZ0o1WmladEJS0gH_AkFVX3lxTFBySUUzVkdaSmlNeUlWeDlJNGNVWkJSX29lREZOaGdMSlB3bjFiOFFOeElHQ2oyNUxxSGI2aFVOcU93OWV0bDAtSjFodGdCUl9uOHo1SUx2MnJpY2VlbDB3ZnJLQ3lUX2tBRXE0N3dpbVhyc3BsT2Y3ZV9qRlV0bExGV2RwY0E2Wi1PTS16d2U1cndmeWtRVlJzY093Y2dDNW5UUERXZ2d5YmR0OWNMOTctOU5QWms5NUdfbWpvM0xIQmh1MVVTektIb3J0bkJ2aE1xU1ZVWVFWek1tb1RscVo1b2FCVmdqZ3lqOVFOazlLZE1JOGhJZUZIVXNRV0hab3NDWk9mY3NqTmVRSkwwZGRqMXRVdEdyYmo3azNiVzZGX3dCVDI0aW13QVY5aUlIVklMV3lvclFsaDJrekRobldVR0stUEJfaVZmbnlGbjJObnF1bHg3ZWZTN0tDSU85SnpGdzNoNUZ4aEY3QjRCMEpRQkhqQzRMMlE4V1JTRFIw?oc=5",
@@ -320,13 +327,6 @@
      "time": "2026-11-24T20:17:00.000Z",
      "seen": "2026-11-24T20:21:12.120Z",
      "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة تحديثات سعر صرف الدولار وتأثيره على سوق الصرف والأسعار."
-    },
-    {
-     "title": "ماذا تكشف هجمات بنغازي عن دور روسيا وأوكرانيا في ليبيا؟",
-     "url": "https://www.bbc.com/arabic/articles/cqe87zdxj0ejo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T19:44:50.000Z",
-     "seen": "2026-11-24T19:51:12.335Z"
     },
     {
      "title": "تراجع مديونية مصر لدى «صندوق النقد» لا يحل أزمة القروض",
@@ -420,6 +420,13 @@
      "seen": "2026-11-24T22:01:27.774Z"
     },
     {
+     "title": "\"رأيت الشيطان\".. البابا فرانشيسكو يروي أسرار صراع روحي طويل",
+     "url": "https://www.aljazeera.net/politics/2026/11/25/%d8%b1%d8%a3%d9%8a%d8%aa-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8%d8%a7-%d9%81%d8%b1%d8%a7%d9%86%d8%b3%d9%8a%d8%b3-%d9%8a%d8%b1%d9%88%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T21:18:16.000Z",
+     "seen": "2026-11-25T00:31:27.624Z"
+    },
+    {
      "title": "سبع نصائح لاستخدام متوازن للهواتف الذكية لدى الأطفال .. لماذا لا يكون المنع هو الحل؟",
      "url": "https://www.dw.com/ar/سبع-نصائح-لاستخدام-متوازن-للهواتف-الذكية-لدى-الأطفال-لماذا-لا-يكون-المنع-هو-الحل؟/a-80018827?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -435,18 +442,11 @@
      "seen": "2026-11-24T23:51:27.732Z"
     },
     {
-     "title": "القضاء الأمريكي يدين عسكريا ببيع بيانات سرية لجهات صينية",
-     "url": "https://www.aljazeera.net/news/2026/11/25/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%af%d9%8a%d9%86-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a7-%d8%a8%d8%a8%d9%8a%d8%b9?traffic_source=rss",
+     "title": "مينا مسعود للجزيرة نت: إيرادات \"دانيال وأتون النار\" تجاوزت 10.5 ملايين دولار والسينما المصرية أكثر حرية",
+     "url": "https://www.aljazeera.net/arts/2026/11/25/%d9%85%d9%8a%d9%86%d8%a7-%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d9%84%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%86%d8%aa-%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%af%d8%a7%d9%86%d9%8a%d8%a7%d9%84?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-24T20:46:46.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
-    },
-    {
-     "title": "قاض أمريكي يأمر بالإفراج عن مهندس سعودي متهم بالتنصت على اجتماعات لشركة \"أوبن إيه آي\"",
-     "url": "https://www.aljazeera.net/news/2026/11/25/%d9%82%d8%a7%d8%b6-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d8%a7%d8%ac-%d8%b9%d9%86-%d9%85%d9%87%d9%86%d8%af%d8%b3?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-24T20:46:01.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
+     "time": "2026-11-24T21:00:00.000Z",
+     "seen": "2026-11-25T00:31:27.624Z"
     }
    ]
   },
@@ -492,6 +492,13 @@
      "seen": "2026-11-24T23:11:28.017Z"
     },
     {
+     "title": "ماذا تكشف هجمات بنغازي عن دور روسيا وأوكرانيا في ليبيا؟",
+     "url": "https://www.bbc.com/arabic/articles/cqe87zdxj0ejo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-24T19:44:50.000Z",
+     "seen": "2026-11-24T19:51:12.335Z"
+    },
+    {
      "title": "السنغال تستعيد لقب كأس الأمم الأفريقية 2025 بقرار محكمة التحكيم الرياضية، والمغرب يعتزم الطعن",
      "url": "https://www.bbc.com/arabic/articles/cmdx1vxv1p16o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -535,13 +542,6 @@
      "source": "Masrawy",
      "time": "2026-11-24T17:26:00.000Z",
      "seen": "2026-11-24T22:01:27.774Z"
-    },
-    {
-     "title": "العنف ضد النساء : مشكلة ثقافية أم أزمة قوانين ومؤسسات؟",
-     "url": "https://www.bbc.com/arabic/articles/c6n831y58xmeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-24T16:29:05.000Z",
-     "seen": "2026-11-24T16:11:10.990Z"
     },
     {
      "title": "هل يفلت الذكاء الاصطناعي من قبضة الشركات المطورة؟",
