@@ -1,83 +1,80 @@
 {
- "updated": "2026-11-25T09:02:43.538Z",
+ "updated": "2026-11-25T09:12:43.903Z",
  "minute": [
-  "تواصلت المبادرات الخدمية في مصر بإعلان التموين خفض أسعار 30 منتجاً وتحديث البنوك لأسعار الدولار مقابل الجنيه.",
-  "عالمياً، تفاقمت خسائر الأسهم وتراجع النفط بالتزامن مع تعثر رهانات الذكاء الاصطناعي وإطلاق صندوق أوروبي بـ 50 مليار دولار للقطاع.",
-  "حذر أمين المنظمة البحرية الدولية من عدم أمان مرور ناقلات الطاقة عبر مضيق هرمز، فيما انخفضت أسعار زيت فول الصويا عالمياً.",
-  "شهد القطاع التعليمي بمصر افتتاحات طبية بجامعة المنيا وتوصية برلمانية بحجب لعبة GTA 6 ومبادرات ترفيهية وتوعوية مختلفة."
+  "تناولت الأخبار تحذيرات جهاز حماية المستهلك والأزهر الشريف وتوصية برلمانية في مصر بشأن الجمعة البيضاء وتأثيرات لعبة 'جاتا 6'.",
+  "أعلنت وزارة العمل المصرية عن توفير 580 فرصة عمل في عدة محافظات برواتب تصل إلى 35 ألف جنيه.",
+  "سجلت الأسواق ارتفاعاً في سعر الدولار مقابل الجنيه المصري صباحاً، إلى جانب تزايد خسائر الأسهم العالمية وتراجع النفط.",
+  "تضمنت المستجدات الدولية تحركات لوقف حرب السودان ومسائل عسكرية وتطورات رياضية في كأس أمم أفريقيا."
  ],
  "ai": {
-  "at": "2026-11-25T08:52:43.419Z",
+  "at": "2026-11-25T09:12:43.903Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 7
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.23,
-   "change": null,
-   "asOf": "2026-11-25T00:02:31.000Z",
-   "source": "ExchangeRate-API"
+   "value": 54.17,
+   "change": -0.07,
+   "asOf": "2026-11-25T04:22:06.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5391,
-   "change": null,
-   "asOf": "2026-11-25T09:02:45Z",
+   "value": 5427,
+   "change": -0.09,
+   "asOf": "2026-11-25T09:04:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6155,
-   "change": null,
-   "asOf": "2026-11-25T09:02:45Z",
+   "value": 6196,
+   "change": -0.09,
+   "asOf": "2026-11-25T09:04:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3534,
-   "change": null,
-   "asOf": "2026-11-25T09:02:45Z",
-   "source": "gold-api.com"
+   "value": 3561,
+   "change": -0.01,
+   "asOf": "2026-11-25T09:04:17.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50968,
-   "change": 0.16,
-   "asOf": "2026-11-25T08:38:58.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "value": 50836,
+   "change": -0.1,
+   "asOf": "2026-11-25T08:59:18.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0947,
-   "change": 0.36,
-   "asOf": "2026-11-25T08:53:46.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "value": 1.0945,
+   "change": 0.34,
+   "asOf": "2026-11-25T09:13:46.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.7,
-   "change": -4.05,
-   "asOf": "2026-11-25T08:43:49.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "value": 88.22,
+   "change": -3.48,
+   "asOf": "2026-11-25T09:04:13.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
@@ -85,18 +82,17 @@
    "unit": "نقطة",
    "value": 7201,
    "change": -0.5,
-   "asOf": "2026-11-24T21:00:00.000Z",
-   "source": "Yahoo Finance",
-   "stale": true
+   "asOf": "2026-11-24T21:54:10.000Z",
+   "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59343,
-   "change": -1.19,
-   "asOf": "2026-11-25T09:02:45.770Z",
-   "source": "CoinGecko"
+   "value": 59017,
+   "change": -1.22,
+   "asOf": "2026-11-25T09:14:16.000Z",
+   "source": "Yahoo Finance"
   }
  ],
  "indicators": [
@@ -142,46 +138,77 @@
    "title": "مصر",
    "items": [
     {
-     "title": "تطورات الحالة الصحية بالوسط الفني.. 5 نجوم إصابات بالقدم ولوسي تسقط بمنزلها و2 يجريان عملية بالقلب",
-     "url": "https://www.elbalad.news/7193857",
-     "source": "صدى البلد",
-     "time": "2026-11-25T09:01:58.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
-    },
-    {
-     "title": "أحدث داش كاميرا من بورش بمواصفات تكنولوجية مذهلة",
-     "url": "https://www.elbalad.news/7193785",
-     "source": "صدى البلد",
-     "time": "2026-11-25T09:00:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
-    },
-    {
-     "title": "موعد مباراة الأهلي وأول أغسطس الأنجولي في الكونفدرالية الأفريقية والقنوات الناقلة",
-     "url": "https://www.elbalad.news/7193739",
-     "source": "صدى البلد",
-     "time": "2026-11-25T09:00:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
-    },
-    {
-     "title": "المفتى لمبعوث الأمم المتحدة: الإسلاموفوبيا والتطرف وجهان لأزمة واحدة",
-     "url": "https://www.youm7.com/story/2026/11/25/المفتى-لمبعوث-الأمم-المتحدة-الإسلاموفوبيا-والتطرف-وجهان-لأزمة-واحدة/7631766",
+     "title": "الجمعة البيضاء.. حماية المستهلك يحذر من الانسياق وراء الأسعار المغرية",
+     "url": "https://www.youm7.com/story/2026/11/25/الجمعة-البيضاء-حماية-المستهلك-يحذر-من-الانسياق-وراء-الأسعار-المغرية/7631741",
      "source": "اليوم السابع",
-     "time": "2026-11-25T08:59:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
+     "time": "2026-11-25T09:12:00.000Z",
+     "seen": "2026-11-25T09:12:43.903Z",
+     "impact": "ينبه المستهلكين في مصر للحذر وتجنب العروض الخادعة أثناء فترة تخفيضات الجمعة البيضاء."
     },
     {
-     "title": "الزراعة تضبط 27 طن مواد خام و5 آلاف عبوة مبيدات مخالفة داخل مصنع بالعبور",
-     "url": "https://www.youm7.com/story/2026/11/25/الزراعة-تضبط-27-طن-مواد-خام-و5-آلاف-عبوة-مبيدات/7631728",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T08:58:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
+     "title": "روسيا تعلن إسقاط 863 طائرة مسيرة أوكرانية خلال الـ24 ساعة الماضية",
+     "url": "https://www.elbalad.news/7193876",
+     "source": "صدى البلد",
+     "time": "2026-11-25T09:11:50.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
     },
     {
-     "title": "صور الأقمار الصناعية تكشف توقعات حالة الطقس ودرجات الحرارة",
-     "url": "https://www.youm7.com/story/2026/11/25/صور-الأقمار-الصناعية-تكشف-توقعات-حالة-الطقس-ودرجات-الحرارة/7631676",
+     "title": "الأزهر يحذر من لعبة «جاتا 6».. ويؤكد: طقوس غامضة وعنف ومشاهد غير أخلاقية تهدد النشء",
+     "url": "https://www.elbalad.news/7193875",
+     "source": "صدى البلد",
+     "time": "2026-11-25T09:11:26.000Z",
+     "seen": "2026-11-25T09:12:43.903Z",
+     "impact": "يزيد وعي الأسر في مصر بالمخاطر الأخلاقية والسلوكية المنسوبة للعبة 'جاتا 6' على الأطفال والنشء."
+    },
+    {
+     "title": "وزارة العمل تعلن عن 580 فرصة عمل فى 6 محافظات براتب يصل إلى 35 ألف جنيه",
+     "url": "https://www.youm7.com/story/2026/11/25/وزارة-العمل-تعلن-عن-580-فرصة-عمل-فى-6-محافظات/7631612",
      "source": "اليوم السابع",
-     "time": "2026-11-25T08:56:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
+     "time": "2026-11-25T09:11:00.000Z",
+     "seen": "2026-11-25T09:12:43.903Z",
+     "impact": "يتيح للباحثين عن عمل في مصر فرصاً جديدة للتقديم على وظائف برواتب مجزية في 6 محافظات."
+    },
+    {
+     "title": "لا يجوز.. اتحاد الكرة يصدم الأهلي في تعيين سامي قمصان مدربا| تفاصيل",
+     "url": "https://www.elbalad.news/7193879",
+     "source": "صدى البلد",
+     "time": "2026-11-25T09:10:47.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
+     "title": "قائد القوات الجوية يلتقى قائد القوات الجوية والفضائية الفرنسية",
+     "url": "https://www.youm7.com/story/2026/11/25/قائد-القوات-الجوية-يلتقى-قائد-القوات-الجوية-والفضائية-الفرنسية/7631785",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T09:09:00.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
+     "title": "مدبولي يشهد فيلمًا تسجيليًا عن رحلة «شيفروليه جروف» بالتزامن مع إطلاق تصنيعها محليًا",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hNnJKb1JyX1M2VkVuc1BtOHBzQ2k2a25KdG1RRVNoTXNsUFYwOEJhV3ZRV1dtdC1iLTZFRHhWLWR6OGd0?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T09:07:51.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
+     "title": "مدبولي يشهد انطلاق إنتاج «شيفروليه جروف» في أكتوبر.. و45% من مكوناتها محلية",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jSUpNMnRVM2ZiX09XclJHc2w1QkRUS1RzMUoxcVB1VVBjWXozWkdkTVhESGxBd1U3S3c5S2NPUmRzQ0tYNHEw?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-25T09:05:00.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
+     "title": "مدبولي: صناعة السيارات تحظى باهتمام الدولة ونعمل على توفير المكونات الأساسية لجذب الاستثمارات",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTTg2NmZBb2k3dHFEUnF5blhKVW1qT3Bvejg0WUIzVmZydHZENEhBYml3TUd0bkk5cUhHMmUtd0JQX3ViWFdQbi1mRE8tNHdIbkw0NXR1RzJtNjVuUnAwYl83OUhoMjl6Y0JoTkJDVmVrQ3pna1ZVU21kNjFhaEF4WWdYbEozLXF0anpTU3lQSWZSS1Q4Zk55ZDhZU1p6V0wxNmpEbXlocnVkM2pISVhmZ1NNVG5oR1RXTllXZm9mdzJIMm4xUXJzU0pMUGY0TGZRNjFYQU5qVHVzd0g5bEQ4OTlmX0h1WVowX3ZjSzRnLXR3VFF4TWFNY0VqV211TjJPUUdJYnk2SXlfNDl1V1VxeXdjTXdWbm12MlMxejd1bnNZdlRfd2NfN1c5TVhMRlQzNUIwOHJSWG5McWNmdUpGbGlYU3NBRzQtenFSQU4wNWJTeW1mZktWM05ITUJVNWlqeDR0bTFYZ0ttcVFNdFgwSDE2VXRwLVdfMUFJVnpn?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T09:03:46.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
+     "title": "مدبولي : مصر تشهد اليوم اطلاق سيارة شيفرولية جروف بنظام التجميع الكامل",
+     "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNS3BJOFVraEgxbVNaR3pURll1WEFlWGVaYVBfVi11VVJUYUZPRVdaQWF6QzZtQnQtdVAtZ05kRlBJT2tWbU9oN3NBdXFaMHlmaEN6ZkxobC1wWmNqbTFCTmFTNC1vMWVHTEV6MlJUZXV3WExwTzdKbzFDSHZVa2t5V3NBVy14aXFVbjJrYjVNdDZWbTJnd2dFLVNTcGpXbXUycGNDb0NaTXdrMUFXeV95MzVTMkU0a0h2TFZOVXFKSENIWnQ1WDBkdFBFeGVueEY1MVhjb2hGRGFlcWVYU2E1S2hYSGxHWVpYRG9LZTdCZmdUUjRYZDVFdHliX2VTV0F5ckFNTEdUMkVON3pBUEJEcHB2bTVlTFc0TUwyTW9rSXVTVjBabDVsN3NYSWlDdnVZUFVlT3RhNmlhUkdFWXRhN1d5WmRIR0Z4dTlqSmYzVVdFUFo4dkc4NjdOQjJWQS1zX0FPTnl5TWktQXZ3ZXA1ci0zUGh4Y0hxcjFBamlQSENPZFFXX2llbVdkVXl0OGQybk9KSHB4Z2tHY3M2WWlrTDB2NmI5NW5xWmtQNXhyMzdvWGJXZ1JZSEltVVJhaS1naEtRRnUtUXpIU0ZMUW1EakplNElmWk9EU3hkNVVvMXpaeDFCbkJ1QjlfWlBRb1pzdXlsc0N5UFNxVnRHcHhKbkhPd25YMWFad1gtZnpyN3hSRkNfSFEzQzhPOXlMZmpyampMMzhoR2ZYcWF2VTRMYkQ4cWQya1dWWDlkZA?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-25T09:01:00.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
     },
     {
      "title": "رئيس الوزراء يشهد إطلاق مشروع التصنيع المحلي لسيارة «شيفروليه جروف» بمدينة 6 أكتوبر (بث مباشر)",
@@ -191,7 +218,7 @@
      "seen": "2026-11-25T09:02:43.538Z"
     },
     {
-     "title": "بث مباشر.. \"مدبولي\" يشهد إطلاق مشروع التصينع المحلي لسيارة شيفرولية \"جروف\"",
+     "title": "بث مباشر.. \"مدبولي\" يشهد إطلاق مشروع التصنيع المحلي لسيارة شيفرولية \"جروف\"",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0QktGR1NoUHlOOVNoaFNPcy1OR2t4QkY2U25TNnR0bUdjeEhIMlhuYjBaMEl6THE4UWpzRUttZ25td2o0?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-25T08:47:56.000Z",
@@ -210,34 +237,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-25T08:25:01.000Z",
      "seen": "2026-11-25T08:32:44.069Z"
-    },
-    {
-     "title": "يطبق اليوم الأربعاء.. قرار مهم من وزير المالية بشأن ضريبة القيمة المضافة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wNER5NkZTUmFITXdUeGJIX1lRWlJuTGRpV0t3X1lpOHYxZ3pmTi05V3pWMFNWYms5LUgyLUFRNHI1M3VhZVNhUDJCMHpEYVcxY3hDVXpfanVFRFZnTHF3?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T06:57:00.000Z",
-     "seen": "2026-11-25T08:52:43.419Z"
-    },
-    {
-     "title": "«إندبندنت عربية» تحصد جائزتها الـ13 عن تطوير الصحافة الرقمية",
-     "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPVG1lY2NROHJBRE0ydno4NjBLMDdTanZlY0l5aVdkVG9wTjJDeDNjWkc4MVBnRV9MZXJidEwtUE9xNk8yZmFMZWljVjFaeUQxeG1feG5oWnUzUjFBSUIxbHdKRHdtYWR1OEtVcjFBcE5VQm9WNm85N3o3YW8zSm5IZXVjVmJnMGR4cDNGeFVyZFpwVGhIVmdfelIyMlF1cl9mSFpRUEtVOHNHSVgxRXRKb0JnSGFGY09jMW91MUdyOFB2YVE5ZmlKWlJXS1FBY0dZZkhYSjJsMzdMd1RPTWZPQUUzWktWc0tMcDNuV1VHeVhnSDFrOGs1V2RRQnhUSTRqa3N3OVVKclpPSlp6WUliZmd2ZUlFOXN2dEtDSG51RGEyM09KODZiYkNhRkZ0bWFTQlEwYXkwRzVjQkFKTjZfMmZIcjhaWWR5X1hsNVBSZVk1cVU3Zk1uX2piQlQ3OHZDY1RxVUI1SmZvR1lYTHg2S1JwQU9ueUpnM3RYNE9jb3RDWngyX2Fxa0lTNXQycmhJMTk5ZEJmNy0tbTI0VjB3LWUzZ0xBRTB1UG15T0xrb0xHczhFS3RRSEpUUVBqLXNHSVZRa2tDb19POVZOaWdkYzNCS19qWFd0eXItTVdEUHNES1RSREdnZF9razZ4MmxRc19MdVd4VmlHSnpNU2ZNZmVZVzFCc1JURVYzenk0U1RVRnZYSEFkUTRQS3JTWTRqWlQtMDJwRWY?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-25T04:23:51.000Z",
-     "seen": "2026-11-25T07:01:45.135Z"
-    },
-    {
-     "title": "سعر كيلو الفراخ البيضاء الآن بعد الانخفاض الكبير.. أسعار الدواجن اليوم الأربعاء 25-11-2026 وأسعار البيض",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tcUIxOEQyQ19qekdUbWhSc2ZjMXRIYlBlRXgyYVcxWnl3VmRqR0J1Z1E2MlZ4aDNUM3pBS2tIeXQxTTU2dDVBTnJGMjJrZGhIZVdYZDgxU0dJTmZaRWNn?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T03:28:00.000Z",
-     "seen": "2026-11-25T07:41:44.947Z"
-    },
-    {
-     "title": "هو هو قال هو",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXFFdXcxREhQSkJFd2R3ME5Rb2stdEZsTEhVaEZPVThpVzdFU1ptSjB5TjRhQnZGc1hwckVZeV9HOElJZzlqbDhieFdUT1hEbnlpTEhSdHBpbUVkTGtKelFINkZCQ3ZaNFh3MnlpOTZCVmllRnlZaDk2aEJPWFdhNWIzaUd3SnR5RE1yQ1VtMG9lajRsR2RxbkF0Q1hZeFZCRjJaeHAweUhvN1BFbkU5Q25lOXV0QQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-25T00:09:18.000Z",
-     "seen": "2026-11-25T07:41:44.947Z"
     }
    ]
   },
@@ -257,7 +256,8 @@
      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxObTB6WWY5cFFKbXQ5SFNfTms2RHpTazI2MTVrOEQ3czN0ZXN2d19oVzlPTTh1MEFkamVObFlYUi0tSFU5OVRiTlZUSEpCeGxaWWpVTnZKQ3NaRzdWOUVuYXVoLUY4NS1peTFLSmE2MWZEQTdPVTZvM2xJNTVzWXIyMXQ3QXJWTjlDcjFQWGgxNWtHaTFFMnFJclZyVkc3LV9DZ2dNNHlWM255NmtkdU5QbkgwOXF3ZW9hY0JHd2ZSd1lSMVJ0VG1aVTZBU2xacE02OWh1bmxDUzI0RlM0YlpPZHFBb2F0LWQydG04VUxRYzZUNTcxbElWMjdhY1hXbmU4V3F4ZGZCazlpR0JyMXJadHYyWjFBUVljUGMxckJjTXNtVVlSdzh5Mm0yUlVQM2NrX1lsTGw0U01OT1lOejFfMUlpN0t2cmpocTVSNk1wVFNqUFNnTEhjUEkxUG4zam5XZy02UjlpMnIwQlZ4RHRaTTEzQnhYV0FJSUZhazM2bml1SHZPMDVZbjBSUnN5N3lJZEdyQjZ6YWhTaFlRUGVxVXRRdzRtdjR4eTRSUEJLbk9sdFh0ZWFTNUVXOTRSVS0teVBKb3lBSlBkR09SbDZTLXRnNUNQM2hwSUxFUHFvTW5pRGFPQ0N6bHlPN2RoaFlYZmM0aXRhMmtySy1WaGfSAfgDQVVfeXFMUFA1d1FDT0taVW9neHVpcjI3X2wyMkxCcWhqQV9FcTVsU01BSTVma3RjUXJjTkI0LWhmb2plakJhR1FSbXNmNlBwRDVZdVp6NG16ckluV28wa2ZEVnE2dnctOHVnWGptdUxvZjd5Ym1yWm9NdWpYUnlORXB4VktNazg4UTg4cWI5SnZyQmtCRkEzczRKUUV0amFxNGVvZDRfZUdzSEZtRERjUFE0c0tCejVlVmdRVWRtVHhjSzEwc29jRHJDOHZfNjFPZWpkYk44YmlyYnE1aW96V1RkYU9zS3dCNkUtS0R4SzVORE1SQ0JVX1RncFRVQmtZdkVld08wdHZhRG9NOEdKT0x2N2M5aVRrcFJGX0NlU2tnTHM1b0hCNnZPanlwVXJ3Z1F4SDdHVTJsTE56ZmNIV01NWFVFckM1S181ZEpFbHQ1UExmamxsOUJCc2dLQXVzSm1hQ1BtWWxsblpUMzdLeHZmRThwcFpISDc4RmxPcXNqbER1SjlFaHJSdVNTcHNwV2lOQ2FpUjhzWlBrVWUzV056SGxBUFhxaU1zWkxLNFVrZmZ1ck45SkV0Um1ka2pRTHdGVzYzVGtCd3ppeWQwTUFqYlRNNmJKTGJqaXk5ZFEtOE5ybWJqYWlVc0VXOTVtdHVfUVp4T3ZsaXpuQkJj?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T08:52:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
+     "seen": "2026-11-25T09:02:43.538Z",
+     "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة تأثير ارتفاع سعر الدولار على أسعار السلع والقوة الشرائية."
     },
     {
      "title": "أزمة الإسكان العالمية: اكتشف ما الذي يتطلبه امتلاك منزل في المكان الذي تعيش فيه",
@@ -265,7 +265,14 @@
      "source": "BBC عربي",
      "time": "2026-11-25T08:35:29.000Z",
      "seen": "2026-11-25T08:42:43.672Z",
-     "impact": "تساعد متابعة أزمة الإسكان العالمية المستثمرين والأفراد في مصر على فهم تحديات وتكاليف امتلاك العقارات."
+     "impact": "يفيد الراغبين في الشراء والاستثمار العقاري بفهم متطلبات امتلاك المنازل في ظل أزمة الإسكان العالمية."
+    },
+    {
+     "title": "سعر الدولار مقابل الجنيه المصري للبيع والشراء في البنوك المصرية والأجنبية اليوم",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IYjlJUkQxZk5hN1MwR1lQM0lZWEFtNjRKeEx4Q2M0S01WT0luYUdCQ00zT3R5UUNrWWFYODBnRGlqTi1t?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T08:32:19.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
     },
     {
      "title": "سعر الدولار اليوم مقابل الجنيه في مصر.. تحديث أسعار العملة الأمريكية بالبنوك",
@@ -297,14 +304,6 @@
      "time": "2026-11-25T07:38:50.000Z",
      "seen": "2026-11-25T08:11:44.545Z",
      "impact": "قد ينعكس انخفاض أسعار زيت فول الصويا عالمياً لأدنى مستوى على تكاليف استيراد وإنتاج زيوت الطعام للمستهلكين والشركات."
-    },
-    {
-     "title": "الدولار بـ 54.3094 جنيه للبيع.. سعر العملات الأجنبية في البنك المركزي المصري",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBESkZCaXlscjIwTk1INzZNcExJOU55Sl9NOEdDU0lwalVjdUltRXJTc3dtVElSZWUwMEpVY2R6T0Vhb0Jw?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T07:38:47.000Z",
-     "seen": "2026-11-25T07:41:44.947Z",
-     "impact": "تؤثر على تقييم المعاملات التجارية وتحديد التكاليف وقرارات الادخار للأفراد والمستثمرين في مصر."
     },
     {
      "title": "سعر الدولار في مصر اليوم الأربعاء 25/11/2026",
@@ -356,11 +355,32 @@
    "title": "العالم",
    "items": [
     {
+     "title": "جرائم قتل النساء في فرنسا: الأطفال الأيتام.. ضحايا في طي النسيان",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%87%D9%86%D8%A7-%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261125-%D8%A3%D9%8A%D8%AA%D8%A7%D9%85-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D9%86%D8%B3%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A3%D9%85-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-25T09:09:10.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
+     "title": "فيديو- كأس أمم أفريقيا 2025: فرح وارتياح في السنغال... وخيبة أمل في المغرب",
+     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261125-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D9%81%D8%B1%D8%AD-%D8%A7%D8%B1%D8%AA%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%AE%D9%8A%D8%A8%D8%A9-%D8%A3%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
+     "source": "فرانس 24",
+     "time": "2026-11-25T09:07:31.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
      "title": "إثيوبيا تطلق مبادرة شاملة لوقف حرب السودان",
      "url": "https://www.skynewsarabia.com/middle-east/1907010-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D9%88%D9%82%D9%81-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T08:53:32.000Z",
      "seen": "2026-11-25T09:02:43.538Z"
+    },
+    {
+     "title": "الحوثيون يعلنون استهداف مصفاة رأس تنورة والمركز المالي في الرياض، والسعودية تقصف ميناء الحُديدة",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nV3B6NnpHZXRjbGYwU29rQjVqcFlIbThsU3B6MEVvRXQzZVgxXzV4WjdIWXotYTlXZGpHN1hwQjlqc2M4VDZWWGlGWGgwbHQtMmhwNThLeG1BUjA1TnfSAWNBVV95cUxPQ3JKNmNwTG9aTmZJSTREd1lkVTNTV3BMZFZjT1Nnbk1LVDhuaWVxbkxPMzVObmVvXzZzNXVvYzVEZWF3QjVDYjdKY3ZVQkRYQWxDYTA4MGdkOXAwekxGVl93eTA?oc=5",
+     "source": "BBC",
+     "time": "2026-11-25T08:43:16.000Z",
+     "seen": "2026-11-25T01:31:27.545Z"
     },
     {
      "title": "ردود الفعل في السنغال بعد قرار محكمة التحكيم الرياضي إعادة لقب \"الكان\" لمنتخب بلادهم",
@@ -374,20 +394,6 @@
      "url": "https://www.skynewsarabia.com/middle-east/1906979-%D9%86%D8%B2%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A3%D8%B1%D8%A8%D9%8A%D9%84-%D9%8A%D9%82%D9%88%D9%84-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T08:08:24.000Z",
-     "seen": "2026-11-25T08:11:44.545Z"
-    },
-    {
-     "title": "انطلاق مهمة \"شنتشو-24\" الفضائية الصينية وعلى متنها أول رائد فضاء أجنبي",
-     "url": "https://www.france24.com/ar/sciences/20261125-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D8%B4%D9%86%D8%AA%D8%B4%D9%88-24-%D8%A5%D9%84%D9%89-%D9%85%D8%AD%D8%B7%D8%A9-%D8%AA%D9%8A%D8%A7%D9%86%D8%BA%D9%88%D9%86%D8%BA-%D8%B1%D8%A7%D8%A6%D8%AF-%D9%81%D8%B6%D8%A7%D8%A1",
-     "source": "فرانس 24",
-     "time": "2026-11-25T08:01:00.000Z",
-     "seen": "2026-11-25T08:11:44.545Z"
-    },
-    {
-     "title": "ردود الفعل في المغرب بعد قرار محكمة التحكيم الرياضي تجريده من لقب كأس أمم أفريقيا",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%B1%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D8%B9%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-25T07:58:50.000Z",
      "seen": "2026-11-25T08:11:44.545Z"
     },
     {
@@ -427,13 +433,6 @@
      "seen": "2026-11-25T07:21:45.317Z"
     },
     {
-     "title": "السعودية تعلن استهداف ميناء الحُديدة، والحوثيون يهددون بقصف موانئ المملكة",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nV3B6NnpHZXRjbGYwU29rQjVqcFlIbThsU3B6MEVvRXQzZVgxXzV4WjdIWXotYTlXZGpHN1hwQjlqc2M4VDZWWGlGWGgwbHQtMmhwNThLeG1BUjA1TnfSAWNBVV95cUxPQ3JKNmNwTG9aTmZJSTREd1lkVTNTV3BMZFZjT1Nnbk1LVDhuaWVxbkxPMzVObmVvXzZzNXVvYzVEZWF3QjVDYjdKY3ZVQkRYQWxDYTA4MGdkOXAwekxGVl93eTA?oc=5",
-     "source": "BBC",
-     "time": "2026-11-25T07:07:30.000Z",
-     "seen": "2026-11-25T01:31:27.545Z"
-    },
-    {
      "title": "محلل لـCNN: قرارات بغداد بشأن تصدير النفط قد تضعف الحكم الذاتي في كردستان",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/25/baghdads-latest-directives-could-weaken-kurdish-autonomy",
      "source": "CNN بالعربية",
@@ -441,18 +440,18 @@
      "seen": "2026-11-25T06:51:44.671Z"
     },
     {
+     "title": "\"نشامى الفجر\" و\"فرسان الفجر\".. كيف توسعت المبادرة الجزائرية بمسميات محلية؟",
+     "url": "https://www.aljazeera.net/news/2026/11/25/%d9%86%d8%b4%d8%a7%d9%85%d9%89-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%88%d9%81%d8%b1%d8%b3%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%83%d9%8a%d9%81-%d8%aa%d9%88%d8%b3%d8%b9%d8%aa?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-25T05:55:36.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
      "title": "ضجة في إسرائيل حول كتاب عن إيران.. والموساد آخر من يعلم",
      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQWjBITHhZZFRLR1BtT1h1cVdiRXgxa3VDaEJiR0t2SUc3M0w4eTJVWV9pSW0zNXhQNUJicll1UmpySzJCajVFbWpUVzV2WlhydmQ2OGxpMkJzb1g3VklqZWtpbE55cEM3NExXMzllSUdHZHdUeWdMZGpkUHJfMkNQTi1DMjdnYXJIR0I1LVd1N19oYjRQUXY2QVRlZWxMYWkwQmZ2SGdCc09HQVdPSFF6M0VmakhxTi1hYU5wbWZNRGtubHNYb3RWckw1Uy1FTFkwXzQ3amJGbXhMYkwtX2pRSGpwZU0yYXBMOHlDb2ZvWHk3eUxrcGRlclhhTzJoVUlPbEVNRVE3NWktRjVNa0xCbG8yTFRfQXFzclFiRjlTZVlLWlQwbGQ1anZTUmFMdHA2Ujh6THY4LWItUGdjbDVqNmR3M1VVbGlnaks1LWFrWkoyTjNLTnNwOG1qQV9uRWdiUXVYMGxsY0FsbWFJdG5HLXVpQ1dFd29VVF9kN3FMeGNQYzQ1VW5iT25uSElrd1hqbUhEWGItdEtwZHFDX0ktb3dMMnNrY29yV2lTS3Rxc2gya3g4WDZZMTgyR1JPQVd3aHczbXZOWQ?oc=5",
      "source": "العربية",
      "time": "2026-11-25T05:55:00.000Z",
      "seen": "2026-11-25T08:11:44.545Z"
-    },
-    {
-     "title": "من الجزائر إلى تونس.. لماذا تحوّل اصطحاب الأطفال لصلاة الفجر إلى موضوع جدل؟",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNaHQyQ1F6XzJ4Njk3RU92TXNlTzExVUJhNHZqWnVEMzFHODh3aDdDUkp0N2tsb1hhYnVPc0dBbUEteXdocThRQUtGN2FJZ2stSm56WkFoSFZqbVdPaEdPRkFwV01UMUk3aldyYzR2anR1VHdVWFh2MjAyZkVnZkpOc3NGWVhTTDdUNVVUYWJYR2REVjI2U3pPY1k1NlBjUmdmOU9zMTZrU09MWDNYaDQtTmdWZC1LNE5IV2dTWjJrQXk3djdrakZmMWdRV1RrcC1fc3B0YlpsdGc2Ri1obGNfd1N6UklDS21TVzZDNTJoVjJqclFMX1RTa3hEM3IyMXVzR3Jab1Z5cDVBamJOOXlETkVLa0x5OEU2VWpyS0ZYelZWVlpSOEFoclJZZFhXdDdpSWNISER6WnRuS1FZNFpyWVdKSm5kZHZPS0dfRHFIdmZ3bm4yUmlzMW5FTHdrdVB2UDVReG5CRmwxZGl5dzgycWx0c3Y1ZG5RdmJiR1RQODVSWHE5YnJpcTIzTUJsNVJzb2RERlZMc05RamRjMHQtWGNrekpkMWs5aTJET1did1FFUGlwZ2ZOWVlkMGtaMjZFdUFtaFhPelBUZ1ZFVzduRmNHNGt6eXNIUFlER2NjTGVLVlg0alFYclZHYUxCZVJ2TUZYQjNrb0x3ZjJndGNqWkF6bWFPQzl1YTJjeWZKZmJnOWJvZ1ZpWWdoQ2Q5VU9FM1dGdE1YOG42bldhX09DaE50b1ZnZWFD0gG4BEFVX3lxTFBQLU5kNTNwMFFoc3lMM3FSeEI5Y0VoZnF2WloxX25XdFlqZlVmTV9jVEdXNE52XzJDb3ZJcGlFd2oxa1p5bkxfWHdlNlRfS3pkWFRVRXpaMWVodVB2eVVIaUpPLVIzenY5YzZjZjdCNUJOa1VYN0k0ZzdyMUJ4bjNQRS1CV3BFNTZPS24tSDhMeFlSYVhnRVA4WUI0U2xmejJUcmtBNUZTU1FMWjZjOEhZMjZueEpkWTNpNXNMcWtic1BFMnU3aVRlcnlwR1dtVEI5eXU3eUdBZWV1Zk9UZlgxVDd0akwtbXdscE9waEpDYnVTV3d4cC13NUJiQ3Z4bFNtdzF5aWt6RV9SZ290X29LTWVNZW04WFZ5UWxMOTFKcnhmblJTOVpySFZQcTlVS1ZIRy1vWkdjQ0FzZnFPOU1IdU5RUVVFVmJqaDFaYjR3eGR0VkwxZE5mOHlnZXZaTDQ0VG05LUgtLVVFNzFucXF2dUIzQlQxZ2phbVl1c2p4OTg5UGdYNjNhNzFNdVNZSDdmZ3I1UjVaM2pZOWJGZzE1cEdseVJuNEJneWJFai1HZTdGZWVVaWlDSHZxZm1ZZVlvVnhwWHROZmROdEEtQVVycE5ZZHpQODF0ZHBxbTBQUzdlQjBTSmtjSFNDeUZoSndrbkxyd2ZVOFVWdTB1SU1oczNYdG44Y2k2MnFLSUprVUhLU2hDUkowOFI4Y0hjckJWNDY1NDVJbVppR2g5UUUxdHEtOUV4amI?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-25T05:51:37.000Z",
-     "seen": "2026-11-25T08:52:43.419Z"
     }
    ]
   },
@@ -461,12 +460,19 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "الأردن.. حكم بإعدام منفذ الهجوم على رجال أمن في عمان",
+     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNU0xwNkUyRDNzcGpVNmJVX2xHOFZZRGF4NUhFeTh4UVhtZzlHQTdndE1rZVREemRkZ2hiMTVpNjI4SlUzeXZmZ2hvT1FXMmNLTFdFdFZPUkx0Q1RkQWJabWd3d0dQNGdJM0Y3dTVHSXBXTHJvclNNXzZwdExUeVN3Q0xtM2xtMzJURWEtNXZhRnZsVGZuUzJBTmxXakJuY3dNa0NYbDdnNm5Vc3V2M3hhLW1jWUZVR0hRNzcwRUJZbjktWUJDUWNjbkYtNG1aeVVqNFZiY3gwWUFGNXloTzlWU3ZzTE9ZZF9saVNxQWMzNl9jZGtKR3YtTWFncVNlWkhWMFRfQjc2T041YUplWV9Yam0ya29tSkM5V3JVWlR0YXo1NF9Yd3NETXY2NUxDdWtRRWd0dFBGWXZDMGtUM2NTSWJOUXYxUW9DdWZuMVR1TXRjSjFzSlk5M3hjb1hGNnpLaXFKckJ3dnhhcjdnZWhXTEhMSW9zMnAtTW9seV9iZGNzeWxfeVpUWtIBjgNBVV95cUxNRlJ1V1ZuUUUxQ0pLVXhHNkxfY21Wb0wtUzRmYnhkcklSVEwydWd4cHlnaHZQeU0ycU1vdEFKQWxXajRraUVKWkI2eTlQbWpqclhtRUpVY2dReGZXTzA4c3R2VlVreHBXeGEtQXhaT21FQ1VjWkd1YWQ4ZTEwdXdwY3JOOWFqUEpvYmhwN1lrNnYtYXdzaXU2NTJpSEEyS3F4ZXNINWZjRmZwSER3aHNyTGxiMnBueXVFWl8yZ2NNY1k1U2k1cW9kU3l3azFRWlM2ZzZIYmtEaTNnN2kyMThZcFMzWGk3V2d6LUhwWGlYd29VSWRqeG9KWWFGZnNoNXZVZTRZdGlZYjZ5ZnRiNk1qU3FkYVlJMlRkM3ZKTm5DR21hb0xMVlBxbDJXdnpCLXA2Yk5KaWk2RVlZNFVGTG9GY2ZBRktvZzlNU1cxck5yWV9TQjBXeUFIXy1wY1hWeFE2REliUExCTFhmSDl6aVBDSU1MVU0zUGZmR1BQRlRXNGxUTmR3WjRxcHlsSUZDUQ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T07:28:32.000Z",
+     "seen": "2026-11-25T09:12:43.903Z"
+    },
+    {
      "title": "خسائر الأسهم العالمية تتفاقم مع تعثر رهانات الذكاء الاصطناعي وتراجع النفط",
      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOLU53a0N0VmR5bkhJYTQ3NUZWcGFRREp3ZmZyZmNYaXAxb011LU1BdGZBbS1URnBpOS1lZmE1Z1BUZlltRlpRNV8wbDNsZlZ4ZExkQmdPQzEtcXBEd1Z0V1BHSUFRZ2tzMUpNRlYxdmZLNkIzcVFmYVJwTEx4Q1FEa1B3SEZTYlk5MGU0M2hfdk9kQ3M2bi1kWXZDY2FhcUNCTVNqVnhBeXRaWDBra1FEMkRaekhTT0JNYUFWZFRyWjR4ckMxRlhfTE5qSVUxbnNpVjc0eFhsbXUwREpCenM4ai1vcWlVNml5Zks4QkZlQ2J1eFEzSjN3MkNoREFiVkdueXE0VXJKS0diZThlVzVQV0tkcjhoLU9tQ2dwR3RscV9hS2hwYkg0Q3BOcTVSY3hJeXpRZzkzUmRoZw?oc=5",
      "source": "الشرق بلومبرغ",
      "time": "2026-11-25T06:02:15.000Z",
      "seen": "2026-11-25T07:41:44.947Z",
-     "impact": "تنبّه خسائر الأسهم العالمية وتراجع النفط المستثمرين في مصر إلى تقلبات أسواق المال العالمية وتراجع تقييمات شركات التكنولوجيا."
+     "impact": "ينبه المستثمرين في مصر لتأثير تعثر رهانات الذكاء الاصطناعي وتراجع النفط على محافظم المالية في الأسهم العالمية."
     },
     {
      "title": "لجنة بالبرلمان المصري توصي بحجب GTA 6",
@@ -474,7 +480,7 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T05:51:52.000Z",
      "seen": "2026-11-25T06:51:44.671Z",
-     "impact": "تؤثر توصية حجب لعبة GTA 6 في مصر على قطاع الألعاب الإلكترونية والمستهلكين والمهتمين بالصناعات الرقمية."
+     "impact": "يعرف أصحاب الأعمال واللاعبين والأسر في مصر بالتوجهات التشريعية النيابية المحتملة لمنع تداول لعبة GTA 6."
     },
     {
      "title": "حرب المسيرات.. قتيل في \"سامارا\" الروسية وآخر في ضواحي كييف",
@@ -496,13 +502,6 @@
      "source": "BBC عربي",
      "time": "2026-11-25T04:22:49.000Z",
      "seen": "2026-11-25T01:41:27.558Z"
-    },
-    {
-     "title": "الصين تطلق مهمة فضائية تحمل أول رائد \"أجنبي\"",
-     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQQUdrSDVMUzlPQ1FVMEF1STFMZl9GSmxMd3paSlVXbUdoVVVCWDF0V3drVlRiMDlZMzVNUzNEZDhQU0JmRVJEV3dFWVBUODg5enQzUEc5aERva0tOTXBwZUlRQmR2T3UtOEFUVlQ1RF9NVXNreWJZV05UWERvNEx1eXNZOEdpQklybm5CdEVGTjRlSkJiSDhOcmtKSk1qZ1NiMXpwdWpjRGZkYU0yYWt1VGswbFg4amRPS1EzWkx4V1JzaXJkSmdPNFgxVW1JQTc2V1Q2TmEtZ29JWlh4QWhKc2xrT2xJbmxBNFAyRUVUVk92TXRYZnRaaFBRdWdMRFN6RDZ6VGZhMnBVVDRaZ25reFc4Q2s5cHg5TWZQSXBaVXp0RFdDV2ZJZ29uOFhmeWJZRVA2bVktdFh4TjRIYmxLWGlWaUZHamFJanZFa2lCWktOeEhaMHJfVlBGVXhxZWxMQ2tIbGVR0gHrAkFVX3lxTE04UnQxcXVnSXRNZlk4UnYwdHgtYkxRU08yYUJVbzA2RW9TM2ZLWFBXeVhfQWNYRUZsSWJ0U01BU0wwaDhfalpmeHplVWJpVUxqV1pjQ01obWh4TXgtcHI3UXJKcVdZd3Vfajk0cUpMTjctUlU3RGw3VkVIRTMwOUY1R3FIOUdQTmI1bGEyOTNFcGNoQm9MbXlDQ0oyY2IzUHVkemlFTWJqYXZqN0YzRXZKZi1BN2UwdEF5TENrQjlLTjFfdW14YmZDSGxQNmI2R3RNUnhjWEJlRTJ2X0IxTWwycUxYQzUxTENmTm1qeWpEam1WTGRTbFpIekxXV0k4UXFFNUZaS0RQbWZRU1ozV2VRU0lFcDlqdDZxTVlOSDRDLWZzb0pJQ2Q0Tm1XM1A5elRaN1JGM0lIWHZSNjNCRWlKN25MZWx3TTd4VzNpYkc0WWxkMUVMYkRTS2ZVX2dKMWtmakRRZ2E0S3Q3TQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T00:57:23.000Z",
-     "seen": "2026-11-25T07:21:45.317Z"
     },
     {
      "title": "إسرائيل تتهم طهران بتطوير أسلحة كيميائية، والجيش الإيراني يُسقط مسيّرتين أمريكيتين في هرمز",
@@ -568,10 +567,5 @@
   }
  ],
  "failed": [],
- "marketErrors": [
-  "brent: HTTP 429",
-  "eurusd: HTTP 429",
-  "sp500: HTTP 429",
-  "egx30: HTTP 429"
- ]
+ "marketErrors": []
 }
