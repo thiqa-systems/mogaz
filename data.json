@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:22:44.320Z",
+ "updated": "2026-11-25T08:32:44.069Z",
  "minute": [
   "سجلت الصادرات الزراعية المصرية الطازجة والمصنعة 11.5 مليار دولار مع فتح 160 سوقاً عالمياً.",
   "سجل سعر بيع الدولار 54.3094 جنيه في البنك المركزي المصري، بينما انخفضت أسعار زيت فول الصويا لأدنى مستوى منذ 9 أشهر.",
@@ -10,7 +10,9 @@
   "at": "2026-11-25T08:11:44.545Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T08:32:44.069Z"
  },
  "markets": [
   {
@@ -26,54 +28,54 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5367,
-   "change": -1.19,
-   "asOf": "2026-11-25T08:12:40.000Z",
+   "value": 5373,
+   "change": -1.09,
+   "asOf": "2026-11-25T08:23:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6128,
-   "change": -1.19,
-   "asOf": "2026-11-25T08:12:40.000Z",
+   "value": 6134,
+   "change": -1.09,
+   "asOf": "2026-11-25T08:23:01.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3522,
-   "change": -1.11,
-   "asOf": "2026-11-25T08:12:40.000Z",
+   "value": 3526,
+   "change": -1.01,
+   "asOf": "2026-11-25T08:23:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50774,
-   "change": -0.22,
-   "asOf": "2026-11-25T08:07:43.000Z",
+   "value": 50826,
+   "change": -0.12,
+   "asOf": "2026-11-25T08:18:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0943,
-   "change": 0.32,
-   "asOf": "2026-11-25T08:22:45.000Z",
+   "value": 1.0942,
+   "change": 0.31,
+   "asOf": "2026-11-25T08:32:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.17,
-   "change": -4.63,
-   "asOf": "2026-11-25T08:11:51.000Z",
+   "value": 87.16,
+   "change": -4.64,
+   "asOf": "2026-11-25T08:22:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58837,
-   "change": -1.52,
-   "asOf": "2026-11-25T08:22:42.000Z",
+   "value": 59252,
+   "change": -0.83,
+   "asOf": "2026-11-25T08:32:58.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "رئيس الوزراء يشهد إطلاق مشروع التصنيع المحلي لإحدى السيارات العالمية",
-     "url": "https://www.elbalad.news/7193811",
-     "source": "صدى البلد",
-     "time": "2026-11-25T08:16:07.000Z",
-     "seen": "2026-11-25T08:22:44.320Z"
+     "title": "الأمم المتحدة تحذر: 1.2 مليون إصابة جديدة بفيروس الإيدز خلال 2025",
+     "url": "https://www.youm7.com/story/2026/11/25/الأمم-المتحدة-تحذر-1-2-مليون-إصابة-جديدة-بفيروس-الإيدز/7631687",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T08:30:00.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
     },
     {
-     "title": "سامي قمصان يقود الأهلي مؤقتًا.. وتحركات للتعاقد مع مدرب أجنبي من العيار الثقيل",
-     "url": "https://www.elbalad.news/7193731",
+     "title": "دراسة تكشف إن تناول هذه الأسماك قد يقلل من خطر الوفاة",
+     "url": "https://www.elbalad.news/7193746",
      "source": "صدى البلد",
-     "time": "2026-11-25T08:15:00.000Z",
-     "seen": "2026-11-25T08:22:44.320Z"
+     "time": "2026-11-25T08:30:00.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
     },
     {
-     "title": "قطر والولايات المتحدة توقعان اتفاقيتين لتعزيز التعاون في الذكاء الاصطناعي والمعادن الحرجة",
-     "url": "https://www.elbalad.news/7193815",
+     "title": "موعد مباراة الزمالك والأفريقي التونسي في دوري أبطال أفريقيا والقنوات الناقلة",
+     "url": "https://www.elbalad.news/7193736",
      "source": "صدى البلد",
-     "time": "2026-11-25T08:14:33.000Z",
-     "seen": "2026-11-25T08:22:44.320Z"
+     "time": "2026-11-25T08:30:00.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
+    },
+    {
+     "title": "استئناف لينا عطا الله على تغريمها 3 ملايين جنيه وغلق مدى مصر.. بعد قليل",
+     "url": "https://www.elbalad.news/7193653",
+     "source": "صدى البلد",
+     "time": "2026-11-25T08:30:00.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
+    },
+    {
+     "title": "\"مدبولي\" يشهد إطلاق مشروع التصنيع المحلي لسيارة شيفروليه \"جروڤ\" في 6 أكتوبر",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qZXNUR1daTGF5ejN5NWJIN3JqaTV5b3MwcWFWR3J5X3pXTmMyU00zZnZsRW1la2tsTmVxcnBCdGczcmpG?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T08:25:01.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
+    },
+    {
+     "title": "التعليم تحدد نسب الحضور لطلاب.. 70% للابتدائى والإعدادى و85% للثانوى",
+     "url": "https://www.youm7.com/story/2026/11/25/التعليم-تحدد-نسب-الحضور-لطلاب-70-للابتدائى-والإعدادى-و85-للثانوى/7631666",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T08:24:00.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
     },
     {
      "title": "النيابة الإدارية تعلن 7 وسائل لتقديم شكاوى المواطنين ومتابعتها",
@@ -167,27 +190,11 @@
      "impact": "تتيح للمواطنين في مصر التعرف على القنوات الرسمية المتاحة لتقديم الشكاوى ومتابعتها."
     },
     {
-     "title": "«تمكين» من بيت الزكاة والصدقات.. كيف يمكن التقديم لدعم المشروعات الصغيرة",
-     "url": "https://www.youm7.com/story/2026/11/25/«تمكين»-من-بيت-الزكاة-والصدقات-كيف-يمكن-التقديم-لدعم-المشروعات/7628857",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T08:10:00.000Z",
-     "seen": "2026-11-25T08:11:44.545Z",
-     "impact": "تفيد الأفراد وأصحاب المشروعات الصغيرة في مصر بمعرفة آليات الحصول على التمويل والدعم."
-    },
-    {
      "title": "رئيس الوزراء يشهد إطلاق مشروع التصنيع المحلي لسيارة شيفروليه \"جروڤ\"",
      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPYWVBMl9NYUo5c2p2RmZnYkdCWk9iWFd0MFAtdU5Qc20tQWNqcFE4ZWlxNlpDRE9IQVduWHozRUgzc01Vc3RjQ3NMWUQ1d2FRT25qUzZBa0NkRG1yenVjcXoxbUVyNlgwZDVsbWNUNnRuX1ZzNkVoV1ZlY3dBLW11aEpmeUdUYU9wZUFoOWxuZFBwU1pkaDJ4RXFTbDZiTXlFUG4zbU5weEdHbzduUXpSVl9vandoOVdrcDFYajVETV9BNmVzMjQ4dlI1cWh0Q0wxOHRXdFRKSThEZHczMTRHcUdaNXNOMG4xM1YwQTlKQmtLQkp4a0k4YmpOU0tGTzBxc0JXTEtjSzhvM3dtNXpGdFp2Y1lLb3gxYU1XRy1vdllzdGttSlBBdHZURHcwejdHVmRKeE5UVjZIcHdQbFJGRHRXdjc5ZDVSbEhhZHQ5S1JRY1Q1QlhtMHpSYnlSMGRGSEhRZnJiWmdHUmZsZEpEdmNSUTJKM3pHLXZHOFZzTDhsZXdXdkRMN3Uta0pXUmZFcWRxQ2wxX25MQkJLNEplT2RMc09CUVVBNllPN09uWUdkMjNqcm4xd1BwbTUxWW1aek45WDd1ZTd3b1pXdHA2bGtDWDFTWG8wUjRraFh4MUJWVXNMZ1U1ZjZER0p4Rl9lSWJDV25DNU5vNWdndHl1ZlFFY1FVS21lWTVsOW1VNHktYUxlVlJTYjR5cGlEU0xHelJiMEl2UU5LdzA?oc=5",
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-25T08:10:00.000Z",
      "seen": "2026-11-25T08:22:44.320Z"
-    },
-    {
-     "title": "11.5 مليار دولار صادرات زراعية مصرية طازجة ومصنعة.. وفتح 160 سوقا عالميا",
-     "url": "https://www.youm7.com/story/2026/11/25/11-5-مليار-دولار-صادرات-زراعية-مصرية-طازجة-ومصنعة-وفتح/7631641",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T08:09:00.000Z",
-     "seen": "2026-11-25T08:11:44.545Z",
-     "impact": "توفر للمستثمرين في مصر مؤشراً على نمو التصدير الزراعي وفرص التوسع في الأسواق الخارجية."
     },
     {
      "title": "«إندبندنت عربية» تحصد جائزتها الـ13 عن تطوير الصحافة الرقمية",
@@ -230,13 +237,6 @@
      "source": "Masrawy",
      "time": "2026-11-24T19:21:00.000Z",
      "seen": "2026-11-24T23:31:28.051Z"
-    },
-    {
-     "title": "مصر.. قتلى وجرحى في حادث تصادم حافلتين بأسوان",
-     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQajZpM1dBdzFZRUtJQlphVTRYenROMDNlTXhaVHVLaHNaaWkwWXRqLUVWX0xzX2dUX1ZDTzN5TXlnN1pqdXZRSk5IX1FLdEQ1RlhZNEtGaTQzMzFMVVp6dDVnTGhNSVRsc2ZWM21YczdxNDdjODJCT0owdFMtaElHZjVJQ3RmdkNxcC1sNW9SMGxQcGw2cHBlWldTZ3JOUGpBU0g3b1plWDZyMVlBbDZ1bDFndWhib00taTJULU81QTRTZHU5MkhPSWc0M09uaFdKM25FNVhoVTBoanM3TzdSTy04UTVQZ0JLQ2ZPei02ZDh2czltNFlZa3RRb3k3S1Q4VWVZUHhTQnVXTFNacGhEOGRqV1hhNkotTmQtVlpLeFlsbElZMGNBSEMyd3FaNDNSc2RLQUZCcm0xLUtrN25JdmNHUmJNNVVtblMyMG5YNmpKeXpFR2VUaHhKMVV3dkFMZmRIOUNjRjg5eVhFWVZMVEg5TElqUWhCVG5XdnNlWFp0OTB0OHBZbGI0NnDSAZIDQVVfeXFMT1hiRm00bmQxaUJmV1Q5MWNYQjJKN1hCY205R3JoaFpIdGFRWXl0N24xdHhmMjlqc3NwVkVDRVVVUFlyeVRPazBPdldzTjdoOE1mNmVYby1mM1YxM0dESHQxWXN3dngzd0dWMC1OWVlqTG56eHZqSUQ2Q2Z3cEFETHVrV250WC05TXV1Z0ttc3dJblFDbTA2NVZUeGdSM1Y4cmtIVVZsbHNtaHRWWnV4Y09fUmwxOEFLNEVOUXZCaGhGYmNneXluUUhUTFVGSk1xaTBhNlNZM0hSYkd0bjdLMk43OEgybnNSc3gyU29ZUVFOLTJ6dGRkWGJ5SmpPZW1iRnFubm1SMFpXWU9WVmRMRDUtOVMwbzRuT2VCWVJ6WVM1aFR3THpPUW5DSWNOR0tYN2lGOWtsNVBxdy1wNTRnWFE5cnp3eVAxU3hmMU9UVndKS0ZXS0VUUmtqYXowUXVITUJDNGpVaUZ6bGNVZEQ5UkUyTkFHdlFicXRBWHBaWVA0cjRUeEFqTE43b1J2TmZFa1NB?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-24T19:17:56.000Z",
-     "seen": "2026-11-25T00:41:28.123Z"
     }
    ]
   },
@@ -244,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم مقابل الجنيه في مصر.. تحديث أسعار العملة الأمريكية بالبنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9LVmlOQ3ZBMGpoVFZ0b0dkLVRtWGp1M056clBYOVZTbWxoMlZuMFhOcWY4RlpGaVpLaFh0U1k1M0lwOXdp?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T08:21:52.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
+    },
     {
      "title": "ماذا نعرف عن الحانوتي الذي دفن 18 ألف شخص في 3 أعوام؟",
      "url": "https://www.bbc.com/arabic/articles/cq4gn8znp7y4o?at_medium=RSS&at_campaign=rss",
@@ -302,13 +309,6 @@
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9iWjNjV0ZGLWNVNDNHdGJpTE5zQmVTbWVIVmpadWltbWVsVVQyS2hlbGs1UU1JUjR4cnh1UFAwRVRGQ3dF?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-25T07:14:12.000Z",
-     "seen": "2026-11-25T07:21:45.317Z"
-    },
-    {
-     "title": "سعر صرف العملات اليوم الأربعاء 25 نوفمبر 2026 في البنك المركزي",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBpUE16VzRnblROOHFqaWRkNF84R1FySGZnNjg5Q01DcFE3TkZmd3RQWGFKY2JLY2VESXQzeVhjZkJPYl9F?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T07:12:09.000Z",
      "seen": "2026-11-25T07:21:45.317Z"
     },
     {
@@ -445,11 +445,11 @@
      "seen": "2026-11-25T08:11:44.545Z"
     },
     {
-     "title": "من الجزائر إلى تونس.. لماذا تحوّل اصطحاب الأطفال لصلاة الفجر إلى موضوع جدل؟",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNaHQyQ1F6XzJ4Njk3RU92TXNlTzExVUJhNHZqWnVEMzFHODh3aDdDUkp0N2tsb1hhYnVPc0dBbUEteXdocThRQUtGN2FJZ2stSm56WkFoSFZqbVdPaEdPRkFwV01UMUk3aldyYzR2anR1VHdVWFh2MjAyZkVnZkpOc3NGWVhTTDdUNVVUYWJYR2REVjI2U3pPY1k1NlBjUmdmOU9zMTZrU09MWDNYaDQtTmdWZC1LNE5IV2dTWjJrQXk3djdrakZmMWdRV1RrcC1fc3B0YlpsdGc2Ri1obGNfd1N6UklDS21TVzZDNTJoVjJqclFMX1RTa3hEM3IyMXVzR3Jab1Z5cDVBamJOOXlETkVLa0x5OEU2VWpyS0ZYelZWVlpSOEFoclJZZFhXdDdpSWNISER6WnRuS1FZNFpyWVdKSm5kZHZPS0dfRHFIdmZ3bm4yUmlzMW5FTHdrdVB2UDVReG5CRmwxZGl5dzgycWx0c3Y1ZG5RdmJiR1RQODVSWHE5YnJpcTIzTUJsNVJzb2RERlZMc05RamRjMHQtWGNrekpkMWs5aTJET1did1FFUGlwZ2ZOWVlkMGtaMjZFdUFtaFhPelBUZ1ZFVzduRmNHNGt6eXNIUFlER2NjTGVLVlg0alFYclZHYUxCZVJ2TUZYQjNrb0x3ZjJndGNqWkF6bWFPQzl1YTJjeWZKZmJnOWJvZ1ZpWWdoQ2Q5VU9FM1dGdE1YOG42bldhX09DaE50b1ZnZWFD0gG4BEFVX3lxTFBQLU5kNTNwMFFoc3lMM3FSeEI5Y0VoZnF2WloxX25XdFlqZlVmTV9jVEdXNE52XzJDb3ZJcGlFd2oxa1p5bkxfWHdlNlRfS3pkWFRVRXpaMWVodVB2eVVIaUpPLVIzenY5YzZjZjdCNUJOa1VYN0k0ZzdyMUJ4bjNQRS1CV3BFNTZPS24tSDhMeFlSYVhnRVA4WUI0U2xmejJUcmtBNUZTU1FMWjZjOEhZMjZueEpkWTNpNXNMcWtic1BFMnU3aVRlcnlwR1dtVEI5eXU3eUdBZWV1Zk9UZlgxVDd0akwtbXdscE9waEpDYnVTV3d4cC13NUJiQ3Z4bFNtdzF5aWt6RV9SZ290X29LTWVNZW04WFZ5UWxMOTFKcnhmblJTOVpySFZQcTlVS1ZIRy1vWkdjQ0FzZnFPOU1IdU5RUVVFVmJqaDFaYjR3eGR0VkwxZE5mOHlnZXZaTDQ0VG05LUgtLVVFNzFucXF2dUIzQlQxZ2phbVl1c2p4OTg5UGdYNjNhNzFNdVNZSDdmZ3I1UjVaM2pZOWJGZzE1cEdseVJuNEJneWJFai1HZTdGZWVVaWlDSHZxZm1ZZVlvVnhwWHROZmROdEEtQVVycE5ZZHpQODF0ZHBxbTBQUzdlQjBTSmtjSFNDeUZoSndrbkxyd2ZVOFVWdTB1SU1oczNYdG44Y2k2MnFLSUprVUhLU2hDUkowOFI4Y0hjckJWNDY1NDVJbVppR2g5UUUxdHEtOUV4amI?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-25T05:51:37.000Z",
-     "seen": "2026-11-25T08:11:44.545Z"
+     "title": "\"درّاجو المقاومة\".. هدير محركات يكسر الصمت عن فلسطين في شوارع أوروبا",
+     "url": "https://www.aljazeera.net/politics/2026/11/25/%d8%af%d8%b1%d8%a7%d8%ac%d9%88-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d8%a9-%d9%87%d8%af%d9%8a%d8%b1-%d9%85%d8%ad%d8%b1%d9%83%d8%a7%d8%aa-%d9%8a%d9%83%d8%b3%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-25T05:24:50.000Z",
+     "seen": "2026-11-25T08:32:44.069Z"
     }
    ]
   },
