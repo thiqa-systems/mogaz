@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:01:44.828Z",
+ "updated": "2026-11-25T03:11:44.641Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه المصري في تعاملات البنوك وسجل 54.17 جنيهاً للشراء في بنك مصر.",
   "أعلنت هيئة السكة الحديد في مصر عن طرح 2666 وظيفة في 12 تخصصاً مختلفاً للمواطنين.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T03:01:44.828Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T03:11:44.641Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5411,
-   "change": -0.38,
-   "asOf": "2026-11-25T02:51:46.000Z",
+   "value": 5405,
+   "change": -0.49,
+   "asOf": "2026-11-25T03:01:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6178,
-   "change": -0.38,
-   "asOf": "2026-11-25T02:51:46.000Z",
+   "value": 6171,
+   "change": -0.49,
+   "asOf": "2026-11-25T03:01:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3551,
-   "change": -0.31,
-   "asOf": "2026-11-25T02:51:46.000Z",
+   "value": 3547,
+   "change": -0.42,
+   "asOf": "2026-11-25T03:01:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0957,
    "change": 0.45,
-   "asOf": "2026-11-25T03:01:43.000Z",
+   "asOf": "2026-11-25T03:11:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.57,
-   "change": -4.19,
-   "asOf": "2026-11-25T02:51:36.000Z",
+   "value": 87.44,
+   "change": -4.33,
+   "asOf": "2026-11-25T03:01:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59032,
-   "change": -3.56,
-   "asOf": "2026-11-25T03:01:46.000Z",
+   "value": 59366,
+   "change": -3.01,
+   "asOf": "2026-11-25T03:12:08.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الإعلان عن أول اتفاق ائتلافي مُفاجئ لتشكيل حكومة إسرائيلية جديدة | تفاصيل",
+     "url": "https://www.elbalad.news/7193649",
+     "source": "صدى البلد",
+     "time": "2026-11-25T03:07:09.000Z",
+     "seen": "2026-11-25T03:11:44.641Z"
+    },
+    {
      "title": "متى يزرع القمح ؟ رئيس مركز تغير المناخ يحدد الموعد الأنسب ويحذر من التبكير",
      "url": "https://www.youm7.com/story/2026/11/25/متى-يزرع-القمح-رئيس-مركز-تغير-المناخ-يحدد-الموعد-الأنسب/7630578",
      "source": "اليوم السابع",
@@ -163,13 +170,6 @@
     {
      "title": "«شبانة» عن بيان لاعبي الزمالك: سيناريو مقصود لإشعال الأزمات داخل النادي",
      "url": "https://www.elbalad.news/7193597",
-     "source": "صدى البلد",
-     "time": "2026-11-25T03:00:00.000Z",
-     "seen": "2026-11-25T03:01:44.828Z"
-    },
-    {
-     "title": "«رود كرول»: خرجنا من أمم إفريقيا 1996 بسبب رفض اللاعبين الفطار في رمضان رغم فتوى أحد الشيوخ لإقناعهم",
-     "url": "https://www.elbalad.news/7193588",
      "source": "صدى البلد",
      "time": "2026-11-25T03:00:00.000Z",
      "seen": "2026-11-25T03:01:44.828Z"
@@ -398,7 +398,7 @@
      "title": "إيران تختبر «الجدار الفولاذي»... وترمب يتوعد",
      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQV2pxXy1oM25ROV82bDh2TWJqM0lVSzlHcFZ0cmE5R0h1M1Q2TXllOV93aWRITzN5THpVWElkWTV6WmxJWG83MzVuSDU5anFOWTl2ZkRtVkpZRlBPaW5heWxLM1ZtT1JsNkt4YVhGRi01YmFRNjZnU1d1UzR1S2JXNC05WVFVak1vOFNwYy01Qzl1b19TRVFUcjBBaEt5c1ptVXNYOVEwTnhPZ0RGYVFxemRlYWM4YjdueDRmM2tvUnhRT1NEdElyemhaTTVFZ3RCYW1rQTVmcXg2bWZZV2JIMG83dVMtclpmT09WQ2hQTnFrbWlkalhkTWM4WkxidDh0SFQxbzNPTTQ0YjFIYlRSZGEyOWtTeEFDeUs1dE1Za2t5bWhnQ2ZGZURRaU5waS1BU19zS2IwVk1hdjhocUR0ZjZ0SUN5WVdVQXhfSlEzTmJMdGJYYkZ4XzV4TUo1U1dWeERNSV9DM1duaEFhbENpWHMxVmRGdnh2VEh6ZkZMWmlnRV9jRGpySmpBZkNQOWtZRldMUHdOWHU5U2IzeUZxWjdhZzlCVXNDUE0wZGdGSVFhUQ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-25T01:15:50.000Z",
+     "time": "2026-11-25T01:00:29.000Z",
      "seen": "2026-11-24T22:01:27.774Z"
     },
     {
