@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:12:43.632Z",
+ "updated": "2026-11-25T13:22:43.994Z",
  "minute": [
   "شهدت أسواق الصرف في مصر ارتفاعاً متواصلاً لسعر الدولار واليوان الصيني أمام الجنيه في التعاملات البنكية ليتجاوز الدولار مستوى 54 جنيهاً.",
   "كشف رئيس مركز المناخ في مصر عن توقعات وتفاصيل جديدة بشأن درجات الحرارة وموجات البرد والصقيع خلال شتاء 2026.",
@@ -12,43 +12,43 @@
   "key": 1,
   "impacts": 9,
   "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T13:12:43.632Z"
+  "errorAt": "2026-11-25T13:22:43.994Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.17,
-   "change": -0.07,
-   "asOf": "2026-11-25T04:22:06.000Z",
+   "value": 54.63,
+   "change": 0.78,
+   "asOf": "2026-11-25T13:20:13.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5400,
-   "change": -0.58,
-   "asOf": "2026-11-25T13:02:56.000Z",
+   "value": 5443,
+   "change": 0.21,
+   "asOf": "2026-11-25T13:12:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6166,
-   "change": -0.58,
-   "asOf": "2026-11-25T13:02:56.000Z",
+   "value": 6215,
+   "change": 0.21,
+   "asOf": "2026-11-25T13:12:54.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3544,
-   "change": -0.51,
-   "asOf": "2026-11-25T13:02:56.000Z",
+   "value": 3542,
+   "change": -0.56,
+   "asOf": "2026-11-25T13:12:54.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0942,
-   "change": 0.31,
-   "asOf": "2026-11-25T13:12:46.000Z",
+   "value": 1.0946,
+   "change": 0.35,
+   "asOf": "2026-11-25T13:22:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.3,
-   "change": -2.3,
-   "asOf": "2026-11-25T13:02:59.000Z",
+   "value": 89.23,
+   "change": -2.37,
+   "asOf": "2026-11-25T13:12:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58781,
-   "change": -1.62,
-   "asOf": "2026-11-25T13:12:54.000Z",
+   "value": 58714,
+   "change": -1.73,
+   "asOf": "2026-11-25T13:22:56.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,32 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عماد متعب يفتح الصندوق الأسود في الأهلي: المشكلة مش في عموتة بس",
-     "url": "https://www.elbalad.news/7194147",
-     "source": "صدى البلد",
-     "time": "2026-11-25T13:10:00.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
-    },
-    {
-     "title": "7 مباريات تنتظر طرابزون سبور بعد التوقف الدولي",
-     "url": "https://www.elbalad.news/7194207",
-     "source": "صدى البلد",
-     "time": "2026-11-25T13:09:49.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
-    },
-    {
-     "title": "مفتي الجمهورية ناعيا الشيخ ناصر محمد يحيى: كرَّس مسيرته العلمية لخدمة التراث الإسلامي وصيانة كنوزه",
-     "url": "https://www.elbalad.news/7194203",
-     "source": "صدى البلد",
-     "time": "2026-11-25T13:07:36.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
-    },
-    {
-     "title": "\"الزراعة\" تضبط 27 طناً من المواد الخام و5 آلاف عبوة مبيدات مخالفة",
-     "url": "https://www.youm7.com/story/2026/11/25/الزراعة-تضبط-27-طناً-من-المواد-الخام-و5-آلاف-عبوة/7631726",
+     "title": "الصحة تحذر من التدخين السلبي للفيب: يزيد احتمالية الإدمان والتدخين مستقبلا",
+     "url": "https://www.youm7.com/story/2026/11/25/الصحة-تحذر-من-التدخين-السلبي-للفيب-يزيد-احتمالية-الإدمان-والتدخين/7631717",
      "source": "اليوم السابع",
-     "time": "2026-11-25T13:06:00.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
+     "time": "2026-11-25T13:22:00.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "آير كايرو توقع عقد يتيح حجز التذاكر بمكاتب البريد",
+     "url": "https://www.youm7.com/story/2026/11/25/آير-كايرو-توقع-عقد-يتيح-حجز-التذاكر-بمكاتب-البريد/7632213",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T13:22:00.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "تفاصيل جلسة سيد عبدالحفيظ مع الحسين عموته لتخفيض قيمة الشرط الجزائي",
+     "url": "https://www.elbalad.news/7194225",
+     "source": "صدى البلد",
+     "time": "2026-11-25T13:21:51.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "نبيلة حسن تتفقد مستشفى أكاديمية الفنون وتتابع مراحل تجهيزه",
+     "url": "https://www.elbalad.news/7194224",
+     "source": "صدى البلد",
+     "time": "2026-11-25T13:20:50.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "10 قرارات حكومية باجتماع الوزراء.. تعديل اشتراطات مبادرة دعم القطاعات الصناعية",
+     "url": "https://www.elbalad.news/7194219",
+     "source": "صدى البلد",
+     "time": "2026-11-25T13:20:00.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "مجلس الوزراء يوافق على تعديل بعض اشتراطات ومحددات مبادرة دعم القطاعات الصناعية",
+     "url": "https://www.youm7.com/story/2026/11/25/مجلس-الوزراء-يوافق-على-تعديل-بعض-اشتراطات-ومحددات-مبادرة-دعم/7632236",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T13:18:00.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
     },
     {
      "title": "رئيس الوزراء يترأس الاجتماع الأسبوعي للحكومة في العاصمة الجديدة",
@@ -189,25 +203,11 @@
      "seen": "2026-11-25T12:52:44.096Z"
     },
     {
-     "title": "الصحة: موسم الإنفلونزا معتاد ولا توجد مؤشرات على جائحة.. واللقاح يقلل الأعراض",
-     "url": "https://www.youm7.com/story/2026/11/25/الصحة-موسم-الإنفلونزا-معتاد-ولا-توجد-مؤشرات-على-جائحة-واللقاح/7632175",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T12:43:00.000Z",
-     "seen": "2026-11-25T12:52:44.096Z"
-    },
-    {
      "title": "رسائل حاسمة بشأن 3 دول عربية.. مدبولي يستعرض تحركات الرئيس السيسي باجتماع الحكومة",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVGw5dWFKMmt5WUR6cFhZSm56RXdSU3MzRktxU0E0ekU2S0lYQS1ncjU5Z2pQZzN3N243WVR4RUc5eDBvQ044dU9aZlN1WExTSG1wb2JpUVZKRklt?oc=5",
      "source": "الوطن",
      "time": "2026-11-25T12:41:20.000Z",
      "seen": "2026-11-25T13:02:44.003Z"
-    },
-    {
-     "title": "التعليم: نماذج 3 إعدادى الاسترشادية تحاكى الامتحان النهائى",
-     "url": "https://www.youm7.com/story/2026/11/25/التعليم-نماذج-3-إعدادى-الاسترشادية-تحاكى-الامتحان-النهائى/7632170",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T12:40:00.000Z",
-     "seen": "2026-11-25T12:42:43.661Z"
     },
     {
      "title": "بدء اجتماع مجلس الوزراء برئاسة الدكتور مصطفى مدبولي",
@@ -356,7 +356,14 @@
    "title": "العالم",
    "items": [
     {
-     "title": "فرنسا تعتبر هجمات أوكرانيا على سفن روسية قبالة سواحل ليبيا \"دفاعا مشروعا عن النفس\" وإيطاليا تنتقدها",
+     "title": "المكسيك: جرائم قتل النساء تتواصل.. طالبات يعشن الخوف وناشطات يطالبن بالعدالة",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261125-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%AA%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D9%8A%D8%B9%D8%B4%D9%86-%D8%A7%D9%84%D8%AE%D9%88%D9%81-%D9%88%D9%86%D8%A7%D8%B4%D8%B7%D8%A7%D8%AA-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%86-%D8%A8%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-25T13:14:03.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "فرنسا تعتبر هجمات أوكرانيا على سفن روسية قبالة سواحل ليبيا \"دفاعا مشروعا عن النفس\" وإيطاليا تنتقد",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261125-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B3%D9%81%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%88%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AF%D9%81%D8%A7%D8%B9",
      "source": "فرانس 24",
      "time": "2026-11-25T13:07:28.000Z",
@@ -398,13 +405,6 @@
      "seen": "2026-11-25T12:42:43.661Z"
     },
     {
-     "title": "بعد طلب الصومال مغادرة السفير الإماراتي: هل بات القرن الأفريقي ساحة لصراعات الشرق الأوسط؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B5%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82/20261125-%D8%A8%D8%B9%D8%AF-%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%87%D9%84-%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D8%B3%D8%A7%D8%AD%D8%A9-%D9%84%D8%B5%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
-     "source": "فرانس 24",
-     "time": "2026-11-25T12:16:56.000Z",
-     "seen": "2026-11-25T12:22:43.710Z"
-    },
-    {
      "title": "من جرف الصخر إلى كردستان.. الزيدي يوسع معركة السيادة",
      "url": "https://www.skynewsarabia.com/middle-east/1907047-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%B3%D8%B9-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -417,6 +417,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T12:01:53.000Z",
      "seen": "2026-11-25T12:12:43.925Z"
+    },
+    {
+     "title": "\"فجر اليمن\" توسع الضغط على الحوثيين.. بضربات مكثفة",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T11:53:00.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
     },
     {
      "title": "أظهر النجمة السباعية.. ولي عهد الأردن يصحح وضعية علم بلاده قبيل لقاء رئيس وزراء أيرلندا",
@@ -445,13 +452,6 @@
      "source": "DW عربية",
      "time": "2026-11-25T10:45:00.000Z",
      "seen": "2026-11-25T11:12:44.113Z"
-    },
-    {
-     "title": "ترامب يعلق على رغبة إسرائيل فى تغيير النظام الإيرانى.. ماذا قال؟",
-     "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOLWtjNHV0U2NDM0ZWRkJWTEJZX29rbXM3NXJoMXhxLURwWjZYUzVhZkhDZmFSUmJRN1JFWm5nYUx1RVBBbGdjVHZiRzhraWczYTU4cWxwc1JLbG5nSXFQc203UlUwMjVsY1M5dVRRMkpod0xlTnN2U1AweVZUcExuV2R6YXNhMURkaVhhSlUzUGxKdXpPb0l6VmVfdkdrekVBOGFlSllheFlzNVB5WDBNMW1pZDRydDVzaE9TdFE0b09ZN0FNVzFsN1JaUG1ZRWV3a3VjRW1UaHJsenBKZHhia2tDWUJPUDRqakJoVHFnOWliZ0tCTGZxcV9fX3dNb3VaemJ1RUNzYWdpUnF6WTUwTWpDS2w4SkVvNXdDaFhpYkZfakJMZ2V0ODNWS2FwTm1WUVRjbndlS1dMcFlrUGNjT0pMM2JDTThDcU03YXAzSUxUTGZ6NHAzWWJwME9iZ0szS2hHM1hObnZNS3hPQ015VmNLZ2k4R3BVZUwtVTZNN2FVbWJETEtYcVNlSUw2WjBXU2dwWkxJbk15Xy1iNWdEdWY3TXNfaXhOZzJBeTV3NEV2cnBBdjItYVY2RU51MEYyUEpCZlFpRGFMYW9Nd2JlYnp4LVRMblBrMm5UUVhVek1yMTNmMXFz0gHiA0FVX3lxTE9Hbm1GS3U1X1VrLUItV0M0QkVBREFDamY0TVBUWUY3ekxmOWpSVkZXSkdULVRxMlFybWFzcEZWY0FUTlhsRHNJckxIQVROdi1vaXVLcU5qS1AzaTR4MmU2czUxUUtyTkJhMlozMVdSUG15QkNOWUF1OXI0bFdYWV9LSXk0bGNxYVJFWW9NQTY2MVhZeUY5QjI1RGRCYTdSYlItVWRZMEhXN01zUGdRT1RpUHFfaG5CUC0xLUxlSUYxSTNYdDM0Q1liTnJzaEN6dUkxdEp1blZkcGVUdGJjR1B3WE44ekEyVTJ0U0lJZjMtT0ZBb2dEMnJ1Wm96eVJyamFUbjdSU1FyT2swNjdjOE5BZHdMQzBDTzQ5cXJ0eHo5ZzJ4bUFOU2syMHhKcFRCZDI3OHljV191WFlaYnd5TUxSNnZwR3lmaXdZSGo5UjhYMHZxci1nNHZPOVZZUjFxcWpGOTMzZHhLb1djX1p0UnJQUWVrT2p5WV91MWdJTGphOTloY245QWRHOE1ISkFyOGQ3dmhTc0pwYWx4QlZXb2RETlhYY0kybXpaNU5kdUlnZ2JZRUpnd2g3clo1b1BSanNNQVZPekcycHdCVzFnRkhfaEg4MS11REdGbUxaYlJZcDdn?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T10:44:00.000Z",
-     "seen": "2026-11-25T12:02:44.221Z"
     }
    ]
   },
@@ -459,6 +459,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "دراسة: دول الخليج تتصدر مؤشر الثقة بالذكاء الاصطناعي في قطاع الإنشاءات",
+     "url": "https://aitnews.com/2026/11/25/%d8%ab%d9%82%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-25T13:21:21.000Z",
+     "seen": "2026-11-25T13:22:43.994Z"
+    },
     {
      "title": "المفوضية الأوروبية تقترح قانونًا للتقنيات الكمّية وصندوقًا يستهدف 50 مليار يورو",
      "url": "https://aitnews.com/2026/11/25/%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a9/",
@@ -472,13 +479,6 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T13:06:04.000Z",
      "seen": "2026-11-25T13:12:43.632Z"
-    },
-    {
-     "title": "عروض نيسان للشركات في الإمارات بخصومات تصل إلى 38 ألف درهم",
-     "url": "https://aitnews.com/2026/11/25/%d8%b9%d8%b1%d9%88%d8%b6-%d9%86%d9%8a%d8%b3%d8%a7%d9%86-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-25T12:58:55.000Z",
-     "seen": "2026-11-25T13:02:44.003Z"
     },
     {
      "title": "11 ألف رسالة أثناء الأزمة.. كيف واجهت مايكروسوفت العطل؟",
@@ -563,12 +563,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "fetch failed"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
