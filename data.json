@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:52:43.419Z",
+ "updated": "2026-11-25T09:02:43.538Z",
  "minute": [
   "تواصلت المبادرات الخدمية في مصر بإعلان التموين خفض أسعار 30 منتجاً وتحديث البنوك لأسعار الدولار مقابل الجنيه.",
   "عالمياً، تفاقمت خسائر الأسهم وتراجع النفط بالتزامن مع تعثر رهانات الذكاء الاصطناعي وإطلاق صندوق أوروبي بـ 50 مليار دولار للقطاع.",
@@ -17,37 +17,37 @@
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.17,
-   "change": -0.07,
-   "asOf": "2026-11-25T04:22:06.000Z",
-   "source": "Yahoo Finance"
+   "value": 54.23,
+   "change": null,
+   "asOf": "2026-11-25T00:02:31.000Z",
+   "source": "ExchangeRate-API"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5432,
-   "change": 0.01,
-   "asOf": "2026-11-25T08:43:50.000Z",
+   "value": 5391,
+   "change": null,
+   "asOf": "2026-11-25T09:02:45Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6202,
-   "change": 0.01,
-   "asOf": "2026-11-25T08:43:50.000Z",
+   "value": 6155,
+   "change": null,
+   "asOf": "2026-11-25T09:02:45Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3565,
-   "change": 0.08,
-   "asOf": "2026-11-25T08:43:50.000Z",
-   "source": "Yahoo Finance"
+   "value": 3534,
+   "change": null,
+   "asOf": "2026-11-25T09:02:45Z",
+   "source": "gold-api.com"
   },
   {
    "id": "egx30",
@@ -56,7 +56,8 @@
    "value": 50968,
    "change": 0.16,
    "asOf": "2026-11-25T08:38:58.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "eurusd",
@@ -65,7 +66,8 @@
    "value": 1.0947,
    "change": 0.36,
    "asOf": "2026-11-25T08:53:46.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "brent",
@@ -74,7 +76,8 @@
    "value": 87.7,
    "change": -4.05,
    "asOf": "2026-11-25T08:43:49.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "sp500",
@@ -83,16 +86,17 @@
    "value": 7201,
    "change": -0.5,
    "asOf": "2026-11-24T21:00:00.000Z",
-   "source": "Yahoo Finance"
+   "source": "Yahoo Finance",
+   "stale": true
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59246,
-   "change": -0.84,
-   "asOf": "2026-11-25T08:53:57.000Z",
-   "source": "Yahoo Finance"
+   "value": 59343,
+   "change": -1.19,
+   "asOf": "2026-11-25T09:02:45.770Z",
+   "source": "CoinGecko"
   }
  ],
  "indicators": [
@@ -138,55 +142,59 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محافظ أسيوط يشهد احتفالية \"مسار يجمعنا كلنا\" بدير درنكة احتفاءً برحلة العائلة المقدسة",
-     "url": "https://www.elbalad.news/7193824",
+     "title": "تطورات الحالة الصحية بالوسط الفني.. 5 نجوم إصابات بالقدم ولوسي تسقط بمنزلها و2 يجريان عملية بالقلب",
+     "url": "https://www.elbalad.news/7193857",
      "source": "صدى البلد",
-     "time": "2026-11-25T08:52:20.000Z",
-     "seen": "2026-11-25T08:52:43.419Z"
+     "time": "2026-11-25T09:01:58.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
     },
     {
-     "title": "جامعة المنيا تعلن 8 افتتاحات طبية وتعليمية وتحول 17 كلية للساعات المعتمدة",
-     "url": "https://www.elbalad.news/7193838",
+     "title": "أحدث داش كاميرا من بورش بمواصفات تكنولوجية مذهلة",
+     "url": "https://www.elbalad.news/7193785",
      "source": "صدى البلد",
-     "time": "2026-11-25T08:52:14.000Z",
-     "seen": "2026-11-25T08:52:43.419Z",
-     "impact": "تساهم الافتتاحات الطبية وتحول الكليات للساعات المعتمدة بجامعة المنيا في تطوير الخدمات العلاجية والتعليمية للطلاب والمواطنين."
+     "time": "2026-11-25T09:00:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
     },
     {
-     "title": "مدير تعليم جنوب سيناء تتابع انتظام الدراسة بمدرسة مجمع نويبع التعليمية",
-     "url": "https://www.elbalad.news/7193823",
+     "title": "موعد مباراة الأهلي وأول أغسطس الأنجولي في الكونفدرالية الأفريقية والقنوات الناقلة",
+     "url": "https://www.elbalad.news/7193739",
      "source": "صدى البلد",
-     "time": "2026-11-25T08:52:09.000Z",
-     "seen": "2026-11-25T08:52:43.419Z"
+     "time": "2026-11-25T09:00:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
     },
     {
-     "title": "الأعلى للجامعات: 25 وحدة لمناهضة العنف ضد المرأة بالجامعات لنشر الوعى",
-     "url": "https://www.youm7.com/story/2026/11/25/الأعلى-للجامعات-25-وحدة-لمناهضة-العنف-ضد-المرأة-بالجامعات-لنشر/7631743",
+     "title": "المفتى لمبعوث الأمم المتحدة: الإسلاموفوبيا والتطرف وجهان لأزمة واحدة",
+     "url": "https://www.youm7.com/story/2026/11/25/المفتى-لمبعوث-الأمم-المتحدة-الإسلاموفوبيا-والتطرف-وجهان-لأزمة-واحدة/7631766",
      "source": "اليوم السابع",
-     "time": "2026-11-25T08:49:00.000Z",
-     "seen": "2026-11-25T08:52:43.419Z",
-     "impact": "يعزز إنشاء 25 وحدة لمناهضة العنف ضد المرأة بالجامعات من مستوى التوعية وتوفير بيئة تعليمية آمنة للطالبات."
+     "time": "2026-11-25T08:59:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
     },
     {
-     "title": "أسعار السلع بمبادرة التموين.. قائمة تضم 30 منتجًا بتخفيضات في 400 منفذ",
-     "url": "https://www.youm7.com/story/2026/11/25/أسعار-السلع-بمبادرة-التموين-قائمة-تضم-30-منتجًا-بتخفيضات-في/7631733",
+     "title": "الزراعة تضبط 27 طن مواد خام و5 آلاف عبوة مبيدات مخالفة داخل مصنع بالعبور",
+     "url": "https://www.youm7.com/story/2026/11/25/الزراعة-تضبط-27-طن-مواد-خام-و5-آلاف-عبوة-مبيدات/7631728",
      "source": "اليوم السابع",
-     "time": "2026-11-25T08:48:00.000Z",
-     "seen": "2026-11-25T08:52:43.419Z",
-     "impact": "تتيح مبادرة التموين للمواطنين في مصر شراء 30 منتجاً بتخفيضات سعرية عبر 400 منفذ لتخفيض تكاليف المعيشة."
+     "time": "2026-11-25T08:58:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
+    },
+    {
+     "title": "صور الأقمار الصناعية تكشف توقعات حالة الطقس ودرجات الحرارة",
+     "url": "https://www.youm7.com/story/2026/11/25/صور-الأقمار-الصناعية-تكشف-توقعات-حالة-الطقس-ودرجات-الحرارة/7631676",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T08:56:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
+    },
+    {
+     "title": "رئيس الوزراء يشهد إطلاق مشروع التصنيع المحلي لسيارة «شيفروليه جروف» بمدينة 6 أكتوبر (بث مباشر)",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Y09IdGNsS0IxX0xBQURWLXNQMElGUG5FdlhXc2hmdWFuYkJKRTk2M2U5MElnQkVfQ3Rzb2J1NmpWYWpqUjhfWWV0U0FMN25XVWVKa0VkYWZNdUpTZEpv?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-25T08:52:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
     },
     {
      "title": "بث مباشر.. \"مدبولي\" يشهد إطلاق مشروع التصينع المحلي لسيارة شيفرولية \"جروف\"",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0QktGR1NoUHlOOVNoaFNPcy1OR2t4QkY2U25TNnR0bUdjeEhIMlhuYjBaMEl6THE4UWpzRUttZ25td2o0?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-25T08:47:56.000Z",
-     "seen": "2026-11-25T08:52:43.419Z"
-    },
-    {
-     "title": "التأمين الصحي يعتمد حركة ترقيات لـ4044 موظفًا بمختلف التخصصات والمواقع الوظيفية",
-     "url": "https://www.youm7.com/story/2026/11/25/التأمين-الصحي-يعتمد-حركة-ترقيات-لـ4044-موظفًا-بمختلف-التخصصات-والمواقع/7631705",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T08:46:00.000Z",
      "seen": "2026-11-25T08:52:43.419Z"
     },
     {
@@ -202,13 +210,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-25T08:25:01.000Z",
      "seen": "2026-11-25T08:32:44.069Z"
-    },
-    {
-     "title": "رئيس الوزراء يشهد إطلاق مشروع التصنيع المحلي لسيارة شيفروليه \"جروڤ\"",
-     "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPYWVBMl9NYUo5c2p2RmZnYkdCWk9iWFd0MFAtdU5Qc20tQWNqcFE4ZWlxNlpDRE9IQVduWHozRUgzc01Vc3RjQ3NMWUQ1d2FRT25qUzZBa0NkRG1yenVjcXoxbUVyNlgwZDVsbWNUNnRuX1ZzNkVoV1ZlY3dBLW11aEpmeUdUYU9wZUFoOWxuZFBwU1pkaDJ4RXFTbDZiTXlFUG4zbU5weEdHbzduUXpSVl9vandoOVdrcDFYajVETV9BNmVzMjQ4dlI1cWh0Q0wxOHRXdFRKSThEZHczMTRHcUdaNXNOMG4xM1YwQTlKQmtLQkp4a0k4YmpOU0tGTzBxc0JXTEtjSzhvM3dtNXpGdFp2Y1lLb3gxYU1XRy1vdllzdGttSlBBdHZURHcwejdHVmRKeE5UVjZIcHdQbFJGRHRXdjc5ZDVSbEhhZHQ5S1JRY1Q1QlhtMHpSYnlSMGRGSEhRZnJiWmdHUmZsZEpEdmNSUTJKM3pHLXZHOFZzTDhsZXdXdkRMN3Uta0pXUmZFcWRxQ2wxX25MQkJLNEplT2RMc09CUVVBNllPN09uWUdkMjNqcm4xd1BwbTUxWW1aek45WDd1ZTd3b1pXdHA2bGtDWDFTWG8wUjRraFh4MUJWVXNMZ1U1ZjZER0p4Rl9lSWJDV25DNU5vNWdndHl1ZlFFY1FVS21lWTVsOW1VNHktYUxlVlJTYjR5cGlEU0xHelJiMEl2UU5LdzA?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-25T08:10:00.000Z",
-     "seen": "2026-11-25T08:22:44.320Z"
     },
     {
      "title": "يطبق اليوم الأربعاء.. قرار مهم من وزير المالية بشأن ضريبة القيمة المضافة",
@@ -244,6 +245,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "تحديث سعر الدولار اليوم في مصر.. كم سجلت العملة الأمريكية في البنوك؟",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NX0x1S0E0ZGtSMU0zdndhYWZfZjkxMHlsNTFxekQxSFBlOVZCZ0oxTmZicW9NNkxrQzhkd2FCVHdlQjR1?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T08:55:22.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
+    },
+    {
+     "title": "ارتفاع سعر الدولار مقابل الجنيه في مستهل التعاملات الصباحية",
+     "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxObTB6WWY5cFFKbXQ5SFNfTms2RHpTazI2MTVrOEQ3czN0ZXN2d19oVzlPTTh1MEFkamVObFlYUi0tSFU5OVRiTlZUSEpCeGxaWWpVTnZKQ3NaRzdWOUVuYXVoLUY4NS1peTFLSmE2MWZEQTdPVTZvM2xJNTVzWXIyMXQ3QXJWTjlDcjFQWGgxNWtHaTFFMnFJclZyVkc3LV9DZ2dNNHlWM255NmtkdU5QbkgwOXF3ZW9hY0JHd2ZSd1lSMVJ0VG1aVTZBU2xacE02OWh1bmxDUzI0RlM0YlpPZHFBb2F0LWQydG04VUxRYzZUNTcxbElWMjdhY1hXbmU4V3F4ZGZCazlpR0JyMXJadHYyWjFBUVljUGMxckJjTXNtVVlSdzh5Mm0yUlVQM2NrX1lsTGw0U01OT1lOejFfMUlpN0t2cmpocTVSNk1wVFNqUFNnTEhjUEkxUG4zam5XZy02UjlpMnIwQlZ4RHRaTTEzQnhYV0FJSUZhazM2bml1SHZPMDVZbjBSUnN5N3lJZEdyQjZ6YWhTaFlRUGVxVXRRdzRtdjR4eTRSUEJLbk9sdFh0ZWFTNUVXOTRSVS0teVBKb3lBSlBkR09SbDZTLXRnNUNQM2hwSUxFUHFvTW5pRGFPQ0N6bHlPN2RoaFlYZmM0aXRhMmtySy1WaGfSAfgDQVVfeXFMUFA1d1FDT0taVW9neHVpcjI3X2wyMkxCcWhqQV9FcTVsU01BSTVma3RjUXJjTkI0LWhmb2plakJhR1FSbXNmNlBwRDVZdVp6NG16ckluV28wa2ZEVnE2dnctOHVnWGptdUxvZjd5Ym1yWm9NdWpYUnlORXB4VktNazg4UTg4cWI5SnZyQmtCRkEzczRKUUV0amFxNGVvZDRfZUdzSEZtRERjUFE0c0tCejVlVmdRVWRtVHhjSzEwc29jRHJDOHZfNjFPZWpkYk44YmlyYnE1aW96V1RkYU9zS3dCNkUtS0R4SzVORE1SQ0JVX1RncFRVQmtZdkVld08wdHZhRG9NOEdKT0x2N2M5aVRrcFJGX0NlU2tnTHM1b0hCNnZPanlwVXJ3Z1F4SDdHVTJsTE56ZmNIV01NWFVFckM1S181ZEpFbHQ1UExmamxsOUJCc2dLQXVzSm1hQ1BtWWxsblpUMzdLeHZmRThwcFpISDc4RmxPcXNqbER1SjlFaHJSdVNTcHNwV2lOQ2FpUjhzWlBrVWUzV056SGxBUFhxaU1zWkxLNFVrZmZ1ck45SkV0Um1ka2pRTHdGVzYzVGtCd3ppeWQwTUFqYlRNNmJKTGJqaXk5ZFEtOE5ybWJqYWlVc0VXOTVtdHVfUVp4T3ZsaXpuQkJj?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T08:52:00.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
+    },
     {
      "title": "أزمة الإسكان العالمية: اكتشف ما الذي يتطلبه امتلاك منزل في المكان الذي تعيش فيه",
      "url": "https://www.bbc.com/arabic/articles/c60rk1r8pnvzo?at_medium=RSS&at_campaign=rss",
@@ -314,13 +329,6 @@
      "seen": "2026-11-25T07:51:44.926Z"
     },
     {
-     "title": "أسعار العملات العربية والأجنبية اليوم في البنك المركزي المصري",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9iWjNjV0ZGLWNVNDNHdGJpTE5zQmVTbWVIVmpadWltbWVsVVQyS2hlbGs1UU1JUjR4cnh1UFAwRVRGQ3dF?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T07:14:12.000Z",
-     "seen": "2026-11-25T07:21:45.317Z"
-    },
-    {
      "title": "سعر صرف الدولار في البنوك المصرية اليوم الأربعاء 25-11-2026",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZWkRxaXllLThVTThNRzJkRnV4aXc0WEVoV21tenRGMDZGaWt3Mjg4OHZCVEtjQWRTSnVRWVo0TEJsWTBFbFFr?oc=5",
      "source": "فيتو",
@@ -340,13 +348,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T06:04:17.000Z",
      "seen": "2026-11-25T07:01:45.135Z"
-    },
-    {
-     "title": "رسميًا الآن .. سعر الدولار مقابل الجنيه عقب تحركه الأخير",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KZURYZm9PTG85OTdMQkJ2N2ZBYmltbXpMVnY0Rk52eHQyRGNHNFRyMlpPdEhwcDIyemNHN0Z0aEtkNTBfejFj?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-25T05:15:00.000Z",
-     "seen": "2026-11-25T05:21:44.509Z"
     }
    ]
   },
@@ -355,7 +356,14 @@
    "title": "العالم",
    "items": [
     {
-     "title": "ردود الفعل في السنغال بعد قرار محكمة التحكيم الرياضي",
+     "title": "إثيوبيا تطلق مبادرة شاملة لوقف حرب السودان",
+     "url": "https://www.skynewsarabia.com/middle-east/1907010-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D9%88%D9%82%D9%81-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T08:53:32.000Z",
+     "seen": "2026-11-25T09:02:43.538Z"
+    },
+    {
+     "title": "ردود الفعل في السنغال بعد قرار محكمة التحكيم الرياضي إعادة لقب \"الكان\" لمنتخب بلادهم",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%B1%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D8%B9%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
      "source": "فرانس 24",
      "time": "2026-11-25T08:09:42.000Z",
@@ -376,7 +384,7 @@
      "seen": "2026-11-25T08:11:44.545Z"
     },
     {
-     "title": "ردود الفعل في المغرب بعد قرار محكمة التحكيم الرياضي تجريدها من لقب كأس أمم أفريقيا",
+     "title": "ردود الفعل في المغرب بعد قرار محكمة التحكيم الرياضي تجريده من لقب كأس أمم أفريقيا",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%B1%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D8%B9%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
      "source": "فرانس 24",
      "time": "2026-11-25T07:58:50.000Z",
@@ -433,13 +441,6 @@
      "seen": "2026-11-25T06:51:44.671Z"
     },
     {
-     "title": "دروع بشرية بغزة والضفة.. 16 تحقيقا بلا محاكمات",
-     "url": "https://www.skynewsarabia.com/middle-east/1906956-%D8%AF%D8%B1%D9%88%D8%B9-%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D8%A8%D8%BA%D8%B2%D8%A9-%D9%88%D8%A7%D9%84%D8%B6%D9%81%D8%A9-16-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7-%D8%A8%D9%84%D8%A7-%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A7%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T06:42:48.000Z",
-     "seen": "2026-11-25T06:51:44.671Z"
-    },
-    {
      "title": "ضجة في إسرائيل حول كتاب عن إيران.. والموساد آخر من يعلم",
      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQWjBITHhZZFRLR1BtT1h1cVdiRXgxa3VDaEJiR0t2SUc3M0w4eTJVWV9pSW0zNXhQNUJicll1UmpySzJCajVFbWpUVzV2WlhydmQ2OGxpMkJzb1g3VklqZWtpbE55cEM3NExXMzllSUdHZHdUeWdMZGpkUHJfMkNQTi1DMjdnYXJIR0I1LVd1N19oYjRQUXY2QVRlZWxMYWkwQmZ2SGdCc09HQVdPSFF6M0VmakhxTi1hYU5wbWZNRGtubHNYb3RWckw1Uy1FTFkwXzQ3amJGbXhMYkwtX2pRSGpwZU0yYXBMOHlDb2ZvWHk3eUxrcGRlclhhTzJoVUlPbEVNRVE3NWktRjVNa0xCbG8yTFRfQXFzclFiRjlTZVlLWlQwbGQ1anZTUmFMdHA2Ujh6THY4LWItUGdjbDVqNmR3M1VVbGlnaks1LWFrWkoyTjNLTnNwOG1qQV9uRWdiUXVYMGxsY0FsbWFJdG5HLXVpQ1dFd29VVF9kN3FMeGNQYzQ1VW5iT25uSElrd1hqbUhEWGItdEtwZHFDX0ktb3dMMnNrY29yV2lTS3Rxc2gya3g4WDZZMTgyR1JPQVd3aHczbXZOWQ?oc=5",
      "source": "العربية",
@@ -471,7 +472,7 @@
      "title": "لجنة بالبرلمان المصري توصي بحجب GTA 6",
      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQOEpiVVZMTnlpaWtLY3BEZnVObnB0ZEpDbE5KMHZOMzFORDdrc3JnY2JBUW5YTzAzSzlOT19WSnRzeEdYX3hMSEVSbVJFbVdYQS05UjZ4cXdPSDh3alRjMG9BZ2JXR25RVmFHUTlFb00taGFONmppekFULUtuN1pCX015azZQNE5QekhwN1QxY3pfVm9OUTNHU0JESlJNbWlnVWNDUUJoaDNwdG9nVm11UVAzaWF0dXMxR09RTnZGbk83REhSbDVhMlpxUFpkUlotSkhPWlVDMjVpTHN2OWJ2ZGxVSnhlbUwzWVJGSmZkeU8xekV6cGpPWVMzRUNtZGh0QWxHbzlldjdyMEVqVmYyNGRXamZmNEFtQjhJdWZfaXRFOWZFbnB0MUt6c2RORlFhQ1FDQi01M1RYZTRxRF9DLVJuVdIByAJBVV95cUxOM3JnTVBqZ2tjSzJWbnhvQnJjZUVBMjdfMlJaMXpwTE91NDRmQXBIY3BTNTRKNTMzUG13T3NfbHNxeFhRT3doUjhhSUJjbjZhSy1RSGJpX3IwZnhxaUtDOW5FdkVCLVI4ZFRYcWZ3cFVLdGNEbGxsZnh2VWFDbDB3blJ3LVN6Z3NUdFBucUdtV1ZJNmg1Ym44d2t3VGR3NXRsVHkwWWhTSkRKc0UzRnM5NHdhYk4zRWcxV0J1Q0FfYWZRa0RDa3pmdFhQQlhnM3hGMDB4QW5VUWtxc3lfVlhlSjFoLTdORWs1SEdxX3owTDdSVC1yaW9iczByaVpEN1dxZEc0WXd4Tl9sb3p0bWVnRWFMSHlvdFFYVTdFdlFhRTY0b2NqOFhTUVk3X1FhNUZYbVE2NVZ1Z3NJa2ZFcHVZMzg1TzBYZ3E5?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T05:48:44.000Z",
+     "time": "2026-11-25T05:51:52.000Z",
      "seen": "2026-11-25T06:51:44.671Z",
      "impact": "تؤثر توصية حجب لعبة GTA 6 في مصر على قطاع الألعاب الإلكترونية والمستهلكين والمهتمين بالصناعات الرقمية."
     },
@@ -500,7 +501,7 @@
      "title": "الصين تطلق مهمة فضائية تحمل أول رائد \"أجنبي\"",
      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQQUdrSDVMUzlPQ1FVMEF1STFMZl9GSmxMd3paSlVXbUdoVVVCWDF0V3drVlRiMDlZMzVNUzNEZDhQU0JmRVJEV3dFWVBUODg5enQzUEc5aERva0tOTXBwZUlRQmR2T3UtOEFUVlQ1RF9NVXNreWJZV05UWERvNEx1eXNZOEdpQklybm5CdEVGTjRlSkJiSDhOcmtKSk1qZ1NiMXpwdWpjRGZkYU0yYWt1VGswbFg4amRPS1EzWkx4V1JzaXJkSmdPNFgxVW1JQTc2V1Q2TmEtZ29JWlh4QWhKc2xrT2xJbmxBNFAyRUVUVk92TXRYZnRaaFBRdWdMRFN6RDZ6VGZhMnBVVDRaZ25reFc4Q2s5cHg5TWZQSXBaVXp0RFdDV2ZJZ29uOFhmeWJZRVA2bVktdFh4TjRIYmxLWGlWaUZHamFJanZFa2lCWktOeEhaMHJfVlBGVXhxZWxMQ2tIbGVR0gHrAkFVX3lxTE04UnQxcXVnSXRNZlk4UnYwdHgtYkxRU08yYUJVbzA2RW9TM2ZLWFBXeVhfQWNYRUZsSWJ0U01BU0wwaDhfalpmeHplVWJpVUxqV1pjQ01obWh4TXgtcHI3UXJKcVdZd3Vfajk0cUpMTjctUlU3RGw3VkVIRTMwOUY1R3FIOUdQTmI1bGEyOTNFcGNoQm9MbXlDQ0oyY2IzUHVkemlFTWJqYXZqN0YzRXZKZi1BN2UwdEF5TENrQjlLTjFfdW14YmZDSGxQNmI2R3RNUnhjWEJlRTJ2X0IxTWwycUxYQzUxTENmTm1qeWpEam1WTGRTbFpIekxXV0k4UXFFNUZaS0RQbWZRU1ozV2VRU0lFcDlqdDZxTVlOSDRDLWZzb0pJQ2Q0Tm1XM1A5elRaN1JGM0lIWHZSNjNCRWlKN25MZWx3TTd4VzNpYkc0WWxkMUVMYkRTS2ZVX2dKMWtmakRRZ2E0S3Q3TQ?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T01:07:50.000Z",
+     "time": "2026-11-25T00:57:23.000Z",
      "seen": "2026-11-25T07:21:45.317Z"
     },
     {
@@ -567,5 +568,10 @@
   }
  ],
  "failed": [],
- "marketErrors": []
+ "marketErrors": [
+  "brent: HTTP 429",
+  "eurusd: HTTP 429",
+  "sp500: HTTP 429",
+  "egx30: HTTP 429"
+ ]
 }
