@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:23:16.142Z",
+ "updated": "2026-11-25T22:33:15.297Z",
  "minute": [
   "شهدت مصر حادث حريق هائل ناتج عن انقلاب صهريج مواد بترولية بالوراق في الجيزة أسفر عن ضحايا، وأعقبه توجيه رئاسي وإخلاء الموقع وفتح الطريق بالاتجاهين.",
   "استقرت متابعة الأسواق الاقتصادية في مصر على متابعة أسعار الدولار مقابل الجنيه اليوم الأربعاء في البنوك.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T22:23:16.142Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T22:33:15.297Z"
  },
  "markets": [
   {
@@ -21,7 +21,7 @@
    "unit": "ج.م",
    "value": 54.6,
    "change": 0.72,
-   "asOf": "2026-11-25T21:38:12.000Z",
+   "asOf": "2026-11-25T22:30:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": 0.64,
-   "asOf": "2026-11-25T22:23:43.000Z",
+   "value": 1.0979,
+   "change": 0.65,
+   "asOf": "2026-11-25T22:32:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59962,
-   "change": 0.36,
-   "asOf": "2026-11-25T22:24:17.000Z",
+   "value": 60108,
+   "change": 0.6,
+   "asOf": "2026-11-25T22:33:13.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أنغام تخطف الأنظار بإطلالة كاجوال أنيقة",
-     "url": "https://www.elbalad.news/7194792",
+     "title": "إنجي علاء تكشف آخر تطورات حالتها الصحية: تحسن العصب السابع وبدأت مرحلة التعافي",
+     "url": "https://www.elbalad.news/7194804",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:23:15.000Z",
-     "seen": "2026-11-25T22:23:16.142Z"
+     "time": "2026-11-25T22:30:50.000Z",
+     "seen": "2026-11-25T22:33:15.297Z"
     },
     {
-     "title": "إبراهيم فايق يُثير الجدل بصورة لتركي آل الشيخ وجون إدوارد .. هل يقترب من الإسماعيلي؟",
-     "url": "https://www.elbalad.news/7194839",
+     "title": "على مدار 3 أيام.. قافلة مائية بالشرقية تقدم خدمات مجانية لـ3000 مواطن بقرية الرحمانية بأبو كبير",
+     "url": "https://www.elbalad.news/7194399",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:22:39.000Z",
-     "seen": "2026-11-25T22:23:16.142Z"
+     "time": "2026-11-25T22:30:00.000Z",
+     "seen": "2026-11-25T22:33:15.297Z"
     },
     {
-     "title": "احترس.. 6 أطعمة ممنوع وضعها في الميكرويف",
-     "url": "https://www.elbalad.news/7194841",
+     "title": "GTA 6 تسجل أكبر إطلاق في تاريخ بلايستيشن.. 683 مليون ساعة لعب خلال الأسبوع الأول",
+     "url": "https://www.elbalad.news/7194151",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:21:37.000Z",
-     "seen": "2026-11-25T22:23:16.142Z"
+     "time": "2026-11-25T22:30:00.000Z",
+     "seen": "2026-11-25T22:33:15.297Z"
+    },
+    {
+     "title": "سفيرة البحرين تنعي ضحايا حادث حريق «دائري الوراق»",
+     "url": "https://www.youm7.com/story/2026/11/26/سفيرة-البحرين-تنعي-ضحايا-حادث-حريق-«دائري-الوراق»/7632776",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T22:26:00.000Z",
+     "seen": "2026-11-25T22:33:15.297Z"
     },
     {
      "title": "الجالية الأذربيجانية في مصر تعزي ضحايا حريق سيارة البترول بالوراق",
@@ -173,13 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T22:03:00.000Z",
      "seen": "2026-11-25T22:13:16.252Z"
-    },
-    {
-     "title": "شبورة وأمطار ورياح.. خريطة الظواهر الجوية اليوم الخميس 26 نوفمبر 2026",
-     "url": "https://www.youm7.com/story/2026/11/26/شبورة-وأمطار-ورياح-خريطة-الظواهر-الجوية-اليوم-الخميس-26-نوفمبر/7632173",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T22:00:00.000Z",
-     "seen": "2026-11-25T22:03:15.341Z"
     },
     {
      "title": "مدبولي يوجه بتحقيق فوري للوقوف على أسباب حريق الوراق",
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سوريا: مقتل اثنين وإصابة آخرين في هجوم لـ\"تنظيم الدولة\" استهدف مقراً أمنياً في الحسكة",
+     "url": "https://www.bbc.com/arabic/articles/cq772vy1er0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T22:26:07.000Z",
+     "seen": "2026-11-25T20:53:15.304Z"
+    },
+    {
      "title": "سماع دوي انفجارات في الرياض، والحوثيون يستهدفون ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
      "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -265,13 +272,6 @@
      "time": "2026-11-25T21:19:44.000Z",
      "seen": "2026-11-25T18:22:58.624Z",
      "impact": "يهم المواطنين والمستثمرين لمتابعة مخاطر ونقل المواد البترولية وتأثير الحوادث على السلامة العامة."
-    },
-    {
-     "title": "سوريا: مقتل اثنين وإصابة آخرين في هجوم لـ\"تنظيم الدولة\" استهدف مقراً أمنياً في الحسكة",
-     "url": "https://www.bbc.com/arabic/articles/cq772vy1er0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T20:58:37.000Z",
-     "seen": "2026-11-25T20:53:15.304Z"
     },
     {
      "title": "سعر الدولار في البنوك المصرية اليوم الأربعاء 25 نوفمبر 2026",
@@ -375,6 +375,13 @@
      "seen": "2026-11-25T21:43:16.259Z"
     },
     {
+     "title": "\"فجر اليمن\" توسع الضغط على الحوثيين.. بضربات مكثفة",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T21:31:00.000Z",
+     "seen": "2026-11-25T22:33:15.297Z"
+    },
+    {
      "title": "مصر.. السيسي يُصدر \"توجيهاً\" بعد حادث حريق دائري الوراق",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/egypt-sisi-incident-warraq-ring-road",
      "source": "CNN بالعربية",
@@ -445,13 +452,6 @@
      "source": "BBC عربي",
      "time": "2026-11-25T19:20:21.000Z",
      "seen": "2026-11-25T19:23:16.138Z"
-    },
-    {
-     "title": "مرشح محتمل للرئاسة الأميركية يهاجم نتنياهو.. \"فاشل\"",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNZzJTV1ZTT0Z2VXl2bzUyWFFHcDRSRWJEaEhEYTdCdUNaWjNTRFhGLXVzR2tfZF9KN0xhRGFPb1RCc29uOGliODJ3ODd6cXk0SWdCdldXMzFYRF8yY2FUX212bXkxYWFZSWptTk4zRDV0SEpRQ3k4MXo2ZFhLbmJhTDdmajdBS0dtQzNiOGhMQjdtVXNlSWk3a0xuZzBvejBaU3dqaXJrZXFaWFB6aE1odzRnY0daQUd2azdJRGNRbE5faVZjbnRweHdkOTZiRndaNlc5bmNHYmNZTy12ank5YlI2Sm10Z2o4eDFCaF9NS1lGYXJCa1B3dGJ4cDVZemtpeG9idm9QenFleHdFVlNWVnZqMmpucklsUzdtNWVEbXhmMlI2NWw3d19IYnRJUXRveFFzQ3I5MldpM3BVN3pucUVtTUxPV1M4dnNwMGtnQWxJSm95eDkyNnZJVEd4a1A1c3dndmdsN3R4RUdzMVZaVzhyRjhSRmdMWjVxTjNGSUhmZ3FLS1ZuZEsxekRiQldkdmpLbmxRcHFBSFU5UElreUJNNkdPUmJnNHhKNG9OWG41bUhfc05MNXI3eUVibWh2TUI2SUZCTlVISlhDXy1ON1VB0gHXA0FVX3lxTE1IR0RjQy1GYVV5a2tYWXRDRHg0dkMzd1BUMzg3OHJ0NDdXekpzYmYtSk4zSXlSSW5ibEZySmRiU1JnZG5pVkNra3BNeHVqcF82a05pVzFJV1p6dG1PSHZiUzAzS0xTWWJtNjEwNEIzdjJtRjNhdGQ0U3BsSFJqa2hLSWhUeTd4RUhIZWIzVVhlWWJ4MXZDNE1kYWVlLUFEZ3RZcWZNZXpaQ1FIVGVYNDdsZnBZY0pvTkxhLTNhelhERm82TDhGcVJGaExMYkhvb2tBUTFXcC1OeGRPMGlYTy1QNGpwaHNBSVNwZHZYM2ZfcGNYVDhVcUVnUi1Yb3ZsUHRySlVyRkE5TVFYazM4UFdKVFdod2RGaW9WbzNnLUV0ekdIcTFMbE4wMmRZMnlxUFVmczVDU2tmbEhfQmhxekVhVk1hZWlXT1dfRmRaWEVaQ0JCeEFpM2dabWtXLWNaRHNQdHdjeG1PUHRuVnZvRENzTlVXcmRQMzlGaEwzclV1MkFCZmhULXlzTjdDbnhrWnBIQ1lXMnNwMHk2S1V2WWxFNmgtMURUT2g5QVU1aUllbHJUdldzcWdIS2ROZjJKNlVaa01fd3VKeTA1RVVwRm5VbXNoTGZ0bw?oc=5",
-     "source": "العربية",
-     "time": "2026-11-25T18:53:55.000Z",
-     "seen": "2026-11-25T19:33:15.502Z"
     }
    ]
   },
