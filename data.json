@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:51:27.732Z",
+ "updated": "2026-11-25T00:01:27.980Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-24T23:51:27.732Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T00:01:27.980Z"
  },
  "markets": [
   {
@@ -19,7 +19,7 @@
    "name": "الدولار / جنيه",
    "unit": "ج.م",
    "value": 54.17,
-   "change": 1.41,
+   "change": 0.71,
    "asOf": "2026-11-24T21:13:07.000Z",
    "source": "Yahoo Finance"
   },
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5413,
-   "change": -1.35,
-   "asOf": "2026-11-24T23:42:26.000Z",
+   "value": 5405,
+   "change": -2.18,
+   "asOf": "2026-11-24T23:51:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6180,
-   "change": -1.35,
-   "asOf": "2026-11-24T23:42:26.000Z",
+   "value": 6170,
+   "change": -2.18,
+   "asOf": "2026-11-24T23:51:23.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3552,
-   "change": -2.72,
-   "asOf": "2026-11-24T23:42:26.000Z",
+   "value": 3547,
+   "change": -2.87,
+   "asOf": "2026-11-24T23:51:23.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0965,
-   "change": -0.06,
-   "asOf": "2026-11-24T23:51:44.000Z",
+   "value": 1.0967,
+   "change": -0.04,
+   "asOf": "2026-11-25T00:00:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59735,
-   "change": -2.41,
-   "asOf": "2026-11-24T23:52:36.000Z",
+   "value": 59698,
+   "change": -2.47,
+   "asOf": "2026-11-25T00:01:27.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "إعلام عبري: جيش الاحتلال «مُستنزف» .. ثلث آلياته غير صالحة و92 ألف جندي يخضعون للعلاج",
-     "url": "https://www.elbalad.news/7193615",
-     "source": "صدى البلد",
-     "time": "2026-11-24T23:48:48.000Z",
-     "seen": "2026-11-24T23:51:27.732Z"
+     "title": "الأوقاف تنظم اليوم 1033 قافلة دعوية بمراكز الشباب لمواجهة التنمر",
+     "url": "https://www.youm7.com/story/2026/11/25/الأوقاف-تنظم-اليوم-1033-قافلة-دعوية-بمراكز-الشباب-لمواجهة-التنمر/7630747",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T00:00:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
     },
     {
-     "title": "الحكومة العراقية: قرارنا «شأن وطني خالص» ولا ننتظر تشجيعاً من أحد",
-     "url": "https://www.elbalad.news/7193605",
+     "title": "5 طرق طبيعية لتغيير لون الشعر في المنزل .. القهوة والكركديه والحناء أبرزها",
+     "url": "https://www.elbalad.news/7193614",
      "source": "صدى البلد",
-     "time": "2026-11-24T23:46:11.000Z",
-     "seen": "2026-11-24T23:51:27.732Z"
+     "time": "2026-11-25T00:00:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
     },
     {
-     "title": "عامر العمايرة: سامي قمصان لا يجوز له تدريب الأهلي وفقًا للوائح القيد",
-     "url": "https://www.elbalad.news/7193612",
+     "title": "أحمد عبدالباسط: لاعبو الزمالك جابوا للنادي دوري من «لا شيء».. ولازم حسين لبيب يتصرف لحل أزمة مُستحقاتهم|فيديو",
+     "url": "https://www.elbalad.news/7193568",
      "source": "صدى البلد",
-     "time": "2026-11-24T23:43:06.000Z",
-     "seen": "2026-11-24T23:51:27.732Z"
+     "time": "2026-11-25T00:00:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
+    },
+    {
+     "title": "«رود كرول»: استبعدت حسام حسن من «أمم إفريقيا 1996» لأن علي ماهر كان أفضل منه",
+     "url": "https://www.elbalad.news/7193553",
+     "source": "صدى البلد",
+     "time": "2026-11-25T00:00:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
     },
     {
      "title": "وزارة الصحة تحذر من سوء استخدام المضادات الحيوية وتهديد حياة المرضى",
@@ -174,11 +181,11 @@
      "seen": "2026-11-24T23:01:27.501Z"
     },
     {
-     "title": "تنفيذا لتوصيات منتدى مصر.. استمرار التقدم لبرنامج \"ASPIRE Egypt\" لدعم الصناعة",
-     "url": "https://www.youm7.com/story/2026/11/25/تنفيذا-لتوصيات-منتدى-مصر-استمرار-التقدم-لبرنامج-ASPIRE-Egypt-لدعم/7630843",
-     "source": "اليوم السابع",
-     "time": "2026-11-24T23:00:00.000Z",
-     "seen": "2026-11-24T23:01:27.501Z"
+     "title": "بشرى لأصحاب العدادات الكودية.. وزير الكهرباء يكشف مفاجأة بشأن التصالح",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLN3JSV3F2UzlUMDVORVZOa1Z0bW5TVm5fTGN6SW5UVnNISU5rd3hjNlBOTTQtbHpzVnBBOFMyaTdpWlMwX1duZjJqMmNhR2VmMWtjaWxNQzlsT2I1elpJ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-24T19:47:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
     },
     {
      "title": "ننشر الصور الأولى لحادث تصادم طريق \"أسوان - أبوسمبل\" والحصيلة 10 وفيات و5 مصابين",
@@ -228,13 +235,6 @@
      "source": "الوطن",
      "time": "2026-11-24T14:30:00.000Z",
      "seen": "2026-11-24T15:00:37.967Z"
-    },
-    {
-     "title": "مصر تؤكد دعمها الكامل للسودان وترفض المساس بوحدته",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMGlZUVRDTmVRUUFOYnEyUnBvMGQxU2J3ODRDMEFXdzM5b0hnLXNDLTJ6MllBUXVSV2FhUHBlQi1xYW1hbnppTnlzM2lTSG9NcDV0eHJPRjY2alNjSDFtV2RzT3FJc29MMnJ4b29iS2xKSXlzbTJRc2pmbFk1TEJ0bmdyQmIzS0J0RlFNLWJKalc5OURMOFhHaFNTR0lKNG1vaGlDaGl5bUdWVEJHbTRrdnJvLUk1TnU5bTd3Yi0wblZXTU9pNTdwQnVSTnhTYTZyblJZano0SkVUUWt6TGQ4OENWZmZ0V1J2R25jUlR0NlktbWczNlgyYVpibUh0eTBmamVBWmR3VE9kMFVLWERWeS0zTTJGX0pLSWN3eW5TVk1hQVFnMk5tLWZRdUxReEtlbE0zTThKMzA5ZHo2SEhoemkyN0czRjB2MEIxdENSNmx5WXdNcmxBeDlFX3o0enVlTHhDVGFoRnNLdTdrdFYtZDVHNGFXOU0?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-24T14:16:37.000Z",
-     "seen": "2026-11-24T19:31:11.945Z"
     }
    ]
   },
@@ -350,6 +350,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "11 جريحا في هجوم بمسيّرة على برج في الرياض والتحالف بقيادة السعودية يتوعد بالرد \"بحزم\"",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
+     "source": "فرانس 24",
+     "time": "2026-11-24T23:52:39.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
+    },
+    {
      "title": "الإعلان عن أول اتفاق ائتلافي لتشكيل حكومة إسرائيلية جديدة",
      "url": "https://www.skynewsarabia.com/middle-east/1906906-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A3%D9%88%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81%D9%8A-%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -421,32 +428,25 @@
      "seen": "2026-11-24T23:51:27.732Z"
     },
     {
-     "title": "السعودية تقرر توطين 50% من 17 مهنة مالية بالقطاع الخاص.. تفاصيل وموعد التطبيق",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wQWdIbzV2Zjh1b1pYRWthTExDeHA5UDVNVGZtWEs1SVNoQ1RHdTNoN2V6eUU0bXo5d1lHSk43emtSbFdDSGRsVmI1VV9HZEJiNENJdzRDeWlxN2MzTTI4?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-24T20:34:00.000Z",
-     "seen": "2026-11-24T23:21:27.991Z"
-    },
-    {
-     "title": "كأس الأمم الأفريقية 2025: لقب بالقلم عوض القدم",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261124-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-2025-%D9%84%D9%82%D8%A8-%D8%A8%D8%A7%D9%84%D9%82%D9%84%D9%85-%D8%B9%D9%88%D8%B6-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
-     "source": "فرانس 24",
-     "time": "2026-11-24T20:32:54.000Z",
-     "seen": "2026-11-24T20:41:11.998Z"
-    },
-    {
-     "title": "فرنسا: القضاء يحقق مع رئيس الوزراء السابق إدوار فيليب بشبهة اختلاس أموال عامة",
-     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261124-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%82-%D8%A5%D8%AF%D9%88%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B3-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%84%D9%88%D9%87%D8%A7%D9%81%D8%B1",
-     "source": "فرانس 24",
-     "time": "2026-11-24T20:28:02.000Z",
-     "seen": "2026-11-24T20:31:12.213Z"
-    },
-    {
-     "title": "قطر وكندا تبحثان تعزيز الشراكة الإستراتيجية وتوسيع التعاون التجاري والاستثماري",
-     "url": "https://www.aljazeera.net/news/2026/11/25/%d9%82%d8%b7%d8%b1-%d9%88%d9%83%d9%86%d8%af%d8%a7-%d8%aa%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%83%d8%a9?traffic_source=rss",
+     "title": "القضاء الأمريكي يدين عسكريا ببيع بيانات سرية لجهات صينية",
+     "url": "https://www.aljazeera.net/news/2026/11/25/%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%af%d9%8a%d9%86-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a7-%d8%a8%d8%a8%d9%8a%d8%b9?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-24T20:09:58.000Z",
-     "seen": "2026-11-24T23:31:28.051Z"
+     "time": "2026-11-24T20:46:46.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
+    },
+    {
+     "title": "قاض أمريكي يأمر بالإفراج عن مهندس سعودي متهم بالتنصت على اجتماعات لشركة \"أوبن إيه آي\"",
+     "url": "https://www.aljazeera.net/news/2026/11/25/%d9%82%d8%a7%d8%b6-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d8%a7%d8%ac-%d8%b9%d9%86-%d9%85%d9%87%d9%86%d8%af%d8%b3?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T20:46:01.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
+    },
+    {
+     "title": "من التأخر بهدف إلى الاكتساح بخماسية.. كيف قلب ريال مدريد الموازين أمام أيندهوفن؟",
+     "url": "https://www.aljazeera.net/sport/2026/11/25/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%a3%d8%ae%d8%b1-%d8%a8%d9%87%d8%af%d9%81-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d8%b3%d8%a7%d8%ad-%d8%a8%d8%ae%d9%85%d8%a7%d8%b3%d9%8a%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-24T20:37:57.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
     }
    ]
   },
@@ -454,6 +454,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "تيك توك يتعرض لعطل عالمي.. ما الخدمات التي توقفت داخل التطبيق؟",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPeXhKUTBDelBBaC03bWRoZ2h0alpEWm1PQTZnOGNQTi10QjZlTm9fT2kyRlBXemdYd3BXY09yWG1RcTRxZE1jMTBWWGxub2xYczNlaTdVV2hTVVg5VE9Hdl9GZFo2WXRSbDlZazh0bGhlV1lJM2x2VHBfNXRBbGlWYmswWWp4ejdkbC1jdURiMzVSR1ptY1huMnpGM2JaZTFKTG9MTDJWVDQ4NFJ3aC1FM0xYa2tOQmZLWnZEempEV0lKWGtsN3M1SmRleDkyZWZIOGtmaEc5WEs3ZXF2eEtVbzQyaXVOTElTMG9vZ25KNUpUczUwbDREWkVDaE1WcjJ6LUk1djBPdFZTZTlINUdMZlVleWlTdzdWeG41Z3lxZDJ5bWowcHNPY1V5cldtMDhUWG9FUW1RR0p3TFFIUEE5Sm9zX0hibXoxa0RoSjZZV2NjSGxzaElhWTVwdVhpaWJLNkhqVlNUUWVfUGRPLVh1T3duaUlIcjAxZF9OaXhSYXBOaTZPbTZMVkNDTmRYV3d4eUFYa2hYN255TlpaNkkyTEhZRWc0a283V2NtNmpUaE1Oak5JUTc40gGyA0FVX3lxTE0zUDFjbjNhdWVmNkxrU1J0M0R2bUl2LVI2VGVjRE5TU2Noc0xUWjlxUU1MRUdCcXk0VWJkQmcwQlVSVFB6SjRjQldWZnp5Q1NNczdVMENKanFKczRpQXRzYkhsSTBiNzRSSXlHSEJsQXczQV9Wa3lGdlRuSVBGM1U2UHNtOUJtYWx2anBwaThWTndhNmE5Tk1EMktqSXBMcDRpSGNvS1J1SmRrQkdsWWJ6OFBwc2t6aWFPcmozX2JzOEgzR0txMktrZ2JQLTF2NnR0NFNoY0R6U2dvUDZBcnV1N1NSdTNVUk1ZQl9YSDFkOURZbGQwcjdzRXVCOEJscmtHcFkxOENnczlBMW1kcGl2Y01lYjl6WHNoblduUURqUVVwckN4TXhZT1FjSE5md1VURVdaM2U4MFBsSUdYRnR2NFNFWG1hSDBiNGxqR1JURm5kTzNqUEJXSi05NHY5dkdTV2prUlNodUlBVU1iWjZHQ2VqVmlSb2VhTmJZY0lid1BSZURCa3NmMEV1VUZUSnJocGdFcVE1ZnZSS19jNlRhYldOVnhudnczUjhLYW54d3ZR?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-24T22:10:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
+    },
     {
      "title": "تطبيق Signal يحجب لقطات الشاشة افتراضياً لمنع وكلاء الذكاء الاصطناعي من قراءة المحادثات",
      "url": "https://www.tech-wd.com/wd/2026/11/25/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-signal-%d9%8a%d8%ad%d8%ac%d8%a8-%d9%84%d9%82%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a9-%d8%a7%d9%81%d8%aa%d8%b1%d8%a7%d8%b6%d9%8a%d8%a7%d9%8b-%d9%84%d9%85/",
@@ -537,27 +544,18 @@
      "seen": "2026-11-24T16:11:10.990Z"
     },
     {
+     "title": "هل يفلت الذكاء الاصطناعي من قبضة الشركات المطورة؟",
+     "url": "https://www.aljazeera.net/tech/2026/11/25/%d9%87%d9%84-%d9%8a%d9%81%d9%84%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%85%d9%86-%d9%82%d8%a8%d8%b6%d8%a9",
+     "source": "الجزيرة نت",
+     "time": "2026-11-24T15:59:00.000Z",
+     "seen": "2026-11-25T00:01:27.980Z"
+    },
+    {
      "title": "الصين.. الإعدام لمسؤول وزاري بتهمة التجسس وتسريب معلومات",
      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOalp6cmUzeFlrbEhiTUpEV3gxb0NIQ2kwN2pjNEhpRFVsRDRyU2FjZUI5SEM4U1NWWXl4SVlJVHh1VjhpQm1RWHJDR3V4WFNkR1Z5eG5BTU8wUFF6MUNOQzJ0MlBCUXBVYWk4RE5RdnZ6R2ZKQ2J6OWdYcnkxMFZZMHBGODg4VDYwcDJLSENIWkRxOWNjY285d0JxZWxjdXFKT2RsODRENG96OURQR0YyZWF5TjlHV1Ria25sODJCZzA3X2ZjSjdnb01BNU9QTDQxRVJaaG5GQ0RMQU05NjVWSkJrMDZncHVxcWVWNExMZmw1aUk3QU1kSTJEV2d3WWdHUnNMNXRtbXUxdWxFWWMxanZndVV6N181a3RwQXRSX2FRaEJ1MUtxNi01UjFoWnBHUlBWa0hHM242YVIzQXZFV1V1MGNnS3hBSkFFZmRUTTVDSG5zNWZndUNDald0cjV5ZFVOYVduOW1zT2xWdXAxQUpQRlZUeGFsemhVN21nOVBFUzk0WHFSUTVNalp4aDJZbl81TzdfczdDWllrSGpVcHZDd0NsZWd5emp6ZTF6WW1UbFpGMGtZQ2swcFltdWw5RU4tM0Q2S3p3OUFpVnBrMTQxbF80Yjdr0gHeA0FVX3lxTFBLaFQ4QjExZklnWWQ5bmk2N1lpZmdSMWI3bXVERC1xUU5fNFEyd0VycEFNSGNpY0dFaHgwNF94OTdGQ0Z1TG04Sk1ReUlJLVJTa0VzSHl5N2FhMVd1X21Falk5Z2Qxb3lLcFVXeVQ2Rk1JMEt4dnRxd2JudlJQelZ4dGZPWlRUMDkxYmg5cG1KelFnaklRZnZSZXRRWWYxSjVjdFRkQVdsdzdtam02dkNKa2ZNTjYxaGlRc3ZBS2g1S3BwczVHUV9RQmtCeVlMaHA5WHdHNGFMbWZLZGlRX09FYlZKenJ3ZEl3NzJDY2VVbVpEOWNyM1JmY1czVlRBRnR3cGQ4OWtWVDBFdTFIWGNBZDBhTTBuR0RQNmVuYmJUMThhVTRsMXJJTFpqb1k5UEZXUEM4Q3Rra0hlNzBJQTB5U0UtVDA1U1BUUmhqa0NrUGMxTDNLVGNoUnJtaHI3cFdpN0cxZmllY1ZBcTFXeHNMZXQ1QUNJNWNWUW8zTlMwNnVmazJsMTJ2Ry1Vd0Z5U0JiTlplOUdFTE1lUU1LbTM2WUtYZ1dwc0duSzVRVk56SF8ySVEzQnI4ak1CTE9jOWFHOVVQTUg3bFgyVVJlM3ppajhxc1lvdXQ5VEFvY2c?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-24T15:44:57.000Z",
      "seen": "2026-11-24T21:11:12.187Z"
-    },
-    {
-     "title": "سامسونج تطور ميزة لرصد الاحتيال عبر مكالمات واتساب وتليجرام",
-     "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPeFFUeDhlSnhMb2tubVZaVF8xM182RmU1UGpocEJ3V3FsWXR6a2tkTFY1bG5ja016MGxHdUZCeDBFdkFPU3Z5LXd1NG1sbHRKNGgzRVN4S1hGZGFaUEU2R0cwZE8zZXFPMHlBN1MtVWd3SjQ3cU4xRHhncUN5QVhjaHBFalhZU0tCbHloSGZlM3htZkFoRWlZN1JxOXZUQVdPbjV0TnRFbWxGa1RKeUJzR09nWU9ieWFzRmNxWXg0b3ltbjBxOF9id2VOaHhfQlFURGZsLXk3OEZoWXJlV1NZNG0wc09SREVoNlZtMTZCM19NVVZvYjlIQk42RXlTdkxNTjI2Um5OcjVoYTBISHdrRnh4X2haTnlqbzVEalpRWGhRcGRBSnJxeFZUQWVtQTNRbmFyU0p0V1IwZC1mZGREZEF0czBxazlhYkhkRl9FeUNhT1VzdzQwSTlmTDRSRG9YdVRYeGNTV0N5ckhnRHlXWDhtQlZjcDhGRHpMd2JyT2JFMEhnTjhodGVzdUxGd01Kcm5hd2NnT3puSnBoLWs3M2h6TzUwWTVsb3dJR042dDBBcURCOVFuZGRaa1puQnl5QmJkczN3cF9KeXRRR3N5V1U0MUc5SmFTYnNHc0JneUdUdHl4R0JCR0dRQW5MNllrRWc?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-24T15:35:52.000Z",
-     "seen": "2026-11-24T18:01:11.681Z",
-     "impact": "تمنح مستخدمي الهواتف في مصر حماية أكبر من محاولات الاحتيال المالي والتصلبي عبر تطبيقات التواصل."
-    },
-    {
-     "title": "جوجل تستعد لإطلاق قناة تلفزيونية تنتج المحتوى لحظياً بالذكاء الاصطناعي",
-     "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPenRGdFRCbTNicXVlaW5QdGVMaS03V2VVWGU0M0pLZVdjSm8wVXBDQkpLWFA1MzdPaHI3NDluVnUxM1hlSmRmM3NEUEdncThDUWpiSG1EX2xkU3B0RThwVDh5RmxUd3NKRHp0R1RtXy1xUWVBek5sSEhHQjBuWVd3aUNfNWhpSkx6eTlJX0xzYWRkRHZPcjZxRWFqSHhKMXhmLUNsOEJQRXZaOXNVdDdUQkFoLVByWDhFWGFVdVA4SjkxOV9WNzVwRVk1QUxMT2w3VFNyN3duYmdiclB5ZlBza3Bhb2J1UG9UVDZMeFBfOFF3a0hLSElMWl9UbW1ZOUowb0swOUdVYjctM0FNaTMydDdMVk5ZTG1tcHdMT1VwVEYzbXBxXzF3LWhxSkVCTVYyeFVhTllmZHdJRE5IbkNpTHkzLVJhc1YzYkFtbFVWSWZnTnJZQnhHVkxyd1BDenBBZWJqZTB1VElmMXIyMDJNdHhDeng0OEJkcUtzWDRibTI2dVFuUk9sTDNFbGZGMjNqYjlwOTZoSEdteFUybXA1cmNyMzhxeHRxLWtpN1ZKd014LWY1bTlISVJSbjdBWk1zUzM4QUJwMWpnWXBreUVQZVpra1B5c1NSc2ZrVmx2RW05cTVIT01EdVB2eTBEaUVKbGc?oc=5",
-     "source": "الشرق للأخبار",
-     "time": "2026-11-24T13:52:08.000Z",
-     "seen": "2026-11-24T15:10:37.383Z",
-     "impact": "تفيد المهتمين بقطاع الإعلام والتكنولوجيا بالتعرف على أحدث وسائل الذكاء الاصطناعي وتأثيرها على صناعة المحتوى."
     }
    ]
   }
