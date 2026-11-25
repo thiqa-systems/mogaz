@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-25T01:11:27.363Z",
+ "updated": "2026-11-25T01:21:27.788Z",
  "minute": [
-  "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
-  "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
-  "وفي الشأن الرياضي والتكنولوجي، تقرر تولّي سامي قمصان القيادة الفنية للأهلي، وحجب تطبيق سيكنال لقطات الشاشة لحماية المحادثات من وكلاء الذكاء الاصطناعي."
+  "استقر سعر صرف الدولار مقابل الجنيه المصري في تعاملات البنوك وسجل 54.17 جنيهاً للشراء في بنك مصر.",
+  "أعلنت هيئة السكة الحديد في مصر عن طرح 2666 وظيفة في 12 تخصصاً مختلفاً للمواطنين.",
+  "تصاعدت التوترات الأمنية بالمنطقة مع هجوم بمسيّرة في الرياض وتهديدات باستهداف موانئ وإسقاط مسيّرات في هرمز.",
+  "تعرض تطبيق تيك توك لعطل عالمي، وفقدت شركة أنثروبيك مئات المليارات من قيمتها السوقية بعد إدراجها."
  ],
  "ai": {
-  "at": "2026-11-24T22:41:28.166Z",
-  "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T01:11:27.363Z"
+  "at": "2026-11-25T01:21:27.788Z",
+  "model": "gemini-3.8-flash",
+  "key": 1,
+  "impacts": 9
  },
  "markets": [
   {
@@ -27,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5413,
-   "change": -2.79,
-   "asOf": "2026-11-25T01:01:28.000Z",
+   "value": 5389,
+   "change": -3.23,
+   "asOf": "2026-11-25T01:12:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6180,
-   "change": -2.79,
-   "asOf": "2026-11-25T01:01:28.000Z",
+   "value": 6152,
+   "change": -3.23,
+   "asOf": "2026-11-25T01:12:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3552,
-   "change": -2.72,
-   "asOf": "2026-11-25T01:01:28.000Z",
+   "value": 3536,
+   "change": -3.16,
+   "asOf": "2026-11-25T01:12:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0961,
+   "value": 1.096,
    "change": 0.48,
-   "asOf": "2026-11-25T01:10:46.000Z",
+   "asOf": "2026-11-25T01:21:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.63,
-   "change": -0.83,
-   "asOf": "2026-11-25T01:01:29.000Z",
+   "value": 88.4,
+   "change": -1.09,
+   "asOf": "2026-11-25T01:11:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59495,
-   "change": -2.8,
-   "asOf": "2026-11-25T01:11:27.000Z",
+   "value": 59372,
+   "change": -3,
+   "asOf": "2026-11-25T01:22:15.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,32 +138,41 @@
    "title": "مصر",
    "items": [
     {
+     "title": "انهيار حائط وجزء من سقف منزل قديم بالمراغة في سوهاج",
+     "url": "https://www.elbalad.news/7193637",
+     "source": "صدى البلد",
+     "time": "2026-11-25T01:19:21.000Z",
+     "seen": "2026-11-25T01:21:27.788Z"
+    },
+    {
+     "title": "لم يقرأ حتى رسالته .. وول ستريت: كيم جونج يتجاهل «ترامب» ويرفض لقاءه",
+     "url": "https://www.elbalad.news/7193635",
+     "source": "صدى البلد",
+     "time": "2026-11-25T01:14:10.000Z",
+     "seen": "2026-11-25T01:21:27.788Z"
+    },
+    {
+     "title": "ترامب: حرب إيران ممولة حتى يناير وأحذر الديمقراطيين من إنهائها مبكراً",
+     "url": "https://www.youm7.com/story/2026/11/25/ترامب-حرب-إيران-ممولة-حتى-يناير-وأحذر-الديمقراطيين-من-إنهائها/7631563",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T01:13:00.000Z",
+     "seen": "2026-11-25T01:21:27.788Z"
+    },
+    {
      "title": "إجازتك كام يوم وهل يحق لمديرك رفضها؟ .. قانون الخدمة المدنية يحسم حقوق الموظفين في الإجازات",
      "url": "https://www.elbalad.news/7193586",
      "source": "صدى البلد",
      "time": "2026-11-25T01:10:41.000Z",
-     "seen": "2026-11-25T01:11:27.363Z"
-    },
-    {
-     "title": "أمير هشام يكشف تفاصيل تهميش ياسر رضوان في جهاز الأهلي.. وموقف اللاعبين من مساعد «عموتة»",
-     "url": "https://www.elbalad.news/7193571",
-     "source": "صدى البلد",
-     "time": "2026-11-25T01:03:26.000Z",
-     "seen": "2026-11-25T01:11:27.363Z"
-    },
-    {
-     "title": "ترامب يُفاجئ الجميع بإشادة غير مُتوقعة بـ«عبدول».. ويعد بلقائه لبحث «ترامب كير»",
-     "url": "https://www.elbalad.news/7193633",
-     "source": "صدى البلد",
-     "time": "2026-11-25T01:00:32.000Z",
-     "seen": "2026-11-25T01:01:27.578Z"
+     "seen": "2026-11-25T01:11:27.363Z",
+     "impact": "يحدد للموظفين الخاضعين لقانون الخدمة المدنية في مصر حقوقهم وضوابط قبول أو رفض إجازاتهم."
     },
     {
      "title": "2666 وظيفة بالسكة الحديد فى 12 تخصصا.. تعرف على الشروط ورابط التقديم",
      "url": "https://www.youm7.com/story/2026/11/25/2666-وظيفة-بالسكة-الحديد-فى-12-تخصصا-تعرف-على-الشروط/7630896",
      "source": "اليوم السابع",
      "time": "2026-11-25T01:00:00.000Z",
-     "seen": "2026-11-25T01:11:27.363Z"
+     "seen": "2026-11-25T01:11:27.363Z",
+     "impact": "يوفر فرص توظيف جديدة للباحثين عن عمل في مصر ضمن قطاع السكة الحديد بمختلف التخصصات."
     },
     {
      "title": "نظام التهوية.. رئيس مركز المناخ يحذر من أخطاء إدارة الأنفاق البلاستيكية الزراعية",
@@ -172,13 +180,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T01:00:00.000Z",
      "seen": "2026-11-25T01:01:27.578Z"
-    },
-    {
-     "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الأربعاء 25/ 11/ 2026",
-     "url": "https://www.youm7.com/story/2026/11/25/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-الأربعاء-25-11-2026/7630799",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T00:00:00.000Z",
-     "seen": "2026-11-25T00:11:27.508Z"
     },
     {
      "title": "«سحله وضربه أمام ابنه».. التفاصيل الكاملة لواقعة اعتداء مدير مدرسة ببورسعيد على ولي أمر تلميذ",
@@ -247,21 +248,24 @@
      "url": "https://www.bbc.com/arabic/articles/ckeq4799g8zeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-25T00:22:14.000Z",
-     "seen": "2026-11-25T00:31:27.624Z"
+     "seen": "2026-11-25T00:31:27.624Z",
+     "impact": "قد تؤثر التوترات في مضيق هرمز على حركة الملاحة وأسعار النفط وتكاليف الاستيراد في مصر."
     },
     {
      "title": "سعر الدولار لحظة بلحظة.. 54.17 جنيه شراء الأخضر فى بنك مصر اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQcklFM1ZHWkppTXlJVng5STRjVVpCUl9vZURGTmhnTEpQd24xYjhRTnhJR0NqMjVMcUhiNmhVTnFPdzlldGwwLUoxaHRnQlJfbjh6NUlMdjJyaWNlZWwwd2ZyS0N5VF9rQUVxNDd3aW1YcnNwbE9mN2VfakZVdGxMRldkcGNBNlotT00tendlNXJ3ZnlrUVZSc2NPd2NnQzVuVFBEV2dneWJkdDljTDk3LTlOUFprOTVHX21qbzNMSEJodTFVU3pLSG9ydG5CdmhNcVNWVVlRVnpNbW9UbHFaNW9hQlZnamd5ajlRTms5S2RNSThoSWVGSFVzUVdIWm9zQ1pPZmNzak5lUUpMMGRkajF0VXRHcmJqN2szYlc2Rl93QlQyNGltd0FWOWlJSFZJTFd5b3JRbGgya3pEaG5XVUdLLVBCX2lWZm55Rm4yTm5xdWx4N2VmUzdLQ0lPOUp6RnczaDVGeGhGN0I0QjBKUUJIakM0TDJROFdSU0RSMNIB_wJBVV95cUxQcklFM1ZHWkppTXlJVng5STRjVVpCUl9vZURGTmhnTEpQd24xYjhRTnhJR0NqMjVMcUhiNmhVTnFPdzlldGwwLUoxaHRnQlJfbjh6NUlMdjJyaWNlZWwwd2ZyS0N5VF9rQUVxNDd3aW1YcnNwbE9mN2VfakZVdGxMRldkcGNBNlotT00tendlNXJ3ZnlrUVZSc2NPd2NnQzVuVFBEV2dneWJkdDljTDk3LTlOUFprOTVHX21qbzNMSEJodTFVU3pLSG9ydG5CdmhNcVNWVVlRVnpNbW9UbHFaNW9hQlZnamd5ajlRTms5S2RNSThoSWVGSFVzUVdIWm9zQ1pPZmNzak5lUUpMMGRkajF0VXRHcmJqN2szYlc2Rl93QlQyNGltd0FWOWlJSFZJTFd5b3JRbGgya3pEaG5XVUdLLVBCX2lWZm55Rm4yTm5xdWx4N2VmUzdLQ0lPOUp6RnczaDVGeGhGN0I0QjBKUUJIakM0TDJROFdSU0RSMA?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T00:04:17.000Z",
-     "seen": "2026-11-25T00:41:28.123Z"
+     "seen": "2026-11-25T00:41:28.123Z",
+     "impact": "يساعد المستثمرين والأفراد في مصر على احتساب تكاليف النقد الأجنبي والمعاملات المالية بدقة."
     },
     {
      "title": "الحوثيون يتقدمون نحو عدن ويهددون باستهداف جدة وجميع الموانئ السعودية",
      "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-24T23:36:20.000Z",
-     "seen": "2026-11-24T23:11:28.017Z"
+     "seen": "2026-11-24T23:11:28.017Z",
+     "impact": "يثير مخاوف بشأن اضطراب خطوط الملاحة والموانئ الإقليمية وسلاسل الإمداد المتجهة لمصر."
     },
     {
      "title": "سعر الدولار مقابل الجنيه المصري اليوم الأربعاء 25 نوفمبر 2026 في البنوك.. استقرار أسعار الشراء والبيع",
@@ -382,7 +386,8 @@
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261124-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
      "source": "فرانس 24",
      "time": "2026-11-24T23:52:39.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
+     "seen": "2026-11-25T00:01:27.980Z",
+     "impact": "يعكس مخاطر أمنية إقليمية قد تؤثر على حركة الاستثمارات وأسواق الطاقة في المنطقة."
     },
     {
      "title": "الإعلان عن أول اتفاق ائتلافي لتشكيل حكومة إسرائيلية جديدة",
@@ -459,7 +464,8 @@
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPeXhKUTBDelBBaC03bWRoZ2h0alpEWm1PQTZnOGNQTi10QjZlTm9fT2kyRlBXemdYd3BXY09yWG1RcTRxZE1jMTBWWGxub2xYczNlaTdVV2hTVVg5VE9Hdl9GZFo2WXRSbDlZazh0bGhlV1lJM2x2VHBfNXRBbGlWYmswWWp4ejdkbC1jdURiMzVSR1ptY1huMnpGM2JaZTFKTG9MTDJWVDQ4NFJ3aC1FM0xYa2tOQmZLWnZEempEV0lKWGtsN3M1SmRleDkyZWZIOGtmaEc5WEs3ZXF2eEtVbzQyaXVOTElTMG9vZ25KNUpUczUwbDREWkVDaE1WcjJ6LUk1djBPdFZTZTlINUdMZlVleWlTdzdWeG41Z3lxZDJ5bWowcHNPY1V5cldtMDhUWG9FUW1RR0p3TFFIUEE5Sm9zX0hibXoxa0RoSjZZV2NjSGxzaElhWTVwdVhpaWJLNkhqVlNUUWVfUGRPLVh1T3duaUlIcjAxZF9OaXhSYXBOaTZPbTZMVkNDTmRYV3d4eUFYa2hYN255TlpaNkkyTEhZRWc0a283V2NtNmpUaE1Oak5JUTc40gGyA0FVX3lxTE0zUDFjbjNhdWVmNkxrU1J0M0R2bUl2LVI2VGVjRE5TU2Noc0xUWjlxUU1MRUdCcXk0VWJkQmcwQlVSVFB6SjRjQldWZnp5Q1NNczdVMENKanFKczRpQXRzYkhsSTBiNzRSSXlHSEJsQXczQV9Wa3lGdlRuSVBGM1U2UHNtOUJtYWx2anBwaThWTndhNmE5Tk1EMktqSXBMcDRpSGNvS1J1SmRrQkdsWWJ6OFBwc2t6aWFPcmozX2JzOEgzR0txMktrZ2JQLTF2NnR0NFNoY0R6U2dvUDZBcnV1N1NSdTNVUk1ZQl9YSDFkOURZbGQwcjdzRXVCOEJscmtHcFkxOENnczlBMW1kcGl2Y01lYjl6WHNoblduUURqUVVwckN4TXhZT1FjSE5md1VURVdaM2U4MFBsSUdYRnR2NFNFWG1hSDBiNGxqR1JURm5kTzNqUEJXSi05NHY5dkdTV2prUlNodUlBVU1iWjZHQ2VqVmlSb2VhTmJZY0lid1BSZURCa3NmMEV1VUZUSnJocGdFcVE1ZnZSS19jNlRhYldOVnhudnczUjhLYW54d3ZR?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-24T22:10:00.000Z",
-     "seen": "2026-11-25T00:01:27.980Z"
+     "seen": "2026-11-25T00:01:27.980Z",
+     "impact": "يؤثر على صناع المحتوى وأصحاب الأعمال في مصر المعتمدين على منصة تيك توك في التسويق والتواصل."
     },
     {
      "title": "تطبيق Signal يحجب لقطات الشاشة افتراضياً لمنع وكلاء الذكاء الاصطناعي من قراءة المحادثات",
@@ -467,7 +473,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-24T21:16:41.000Z",
      "seen": "2026-11-24T21:21:27.676Z",
-     "impact": "يهم مستخدمي التطبيقات الذكية في مصر الراغبين في تعزيز خصوصية بياناتهم ومحادثاتهم."
+     "impact": "يمنح المستخدمين في مصر حماية إضافية لخصوصية بياناتهم ومحادثاتهم من الاطلاع الآلي."
     },
     {
      "title": "لعبة GTA VI تتجاوز 364 مليون ساعة مشاهدة على منصات البث في يومين",
@@ -482,7 +488,7 @@
      "source": "عالم التقنية",
      "time": "2026-11-24T21:04:09.000Z",
      "seen": "2026-11-24T21:11:12.187Z",
-     "impact": "يُطلع المستثمرين المهتمين بقطاع التكنولوجيا على تقلبات المخاطر والتقييمات المالية لشركات الذكاء الاصطناعي."
+     "impact": "يعكس للمستثمرين المهتمين بالتكنولوجيا في مصر حجم التقلبات الحادة في تقييمات شركات الذكاء الاصطناعي."
     },
     {
      "title": "تسريب معلومات بعد هجوم سيبراني استهدف وكالة الاستخبارات المركزية الأمريكية",
@@ -560,12 +566,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
