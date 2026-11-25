@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:31:27.624Z",
+ "updated": "2026-11-25T00:41:28.123Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T00:31:27.624Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T00:41:28.123Z"
  },
  "markets": [
   {
@@ -19,35 +19,35 @@
    "name": "الدولار / جنيه",
    "unit": "ج.م",
    "value": 54.17,
-   "change": 1.41,
-   "asOf": "2026-11-24T21:13:07.000Z",
+   "change": -0.07,
+   "asOf": "2026-11-25T00:36:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5397,
-   "change": -1.63,
-   "asOf": "2026-11-25T00:21:42.000Z",
+   "value": 5403,
+   "change": -2.98,
+   "asOf": "2026-11-25T00:31:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6162,
-   "change": -1.63,
-   "asOf": "2026-11-25T00:21:42.000Z",
+   "value": 6168,
+   "change": -2.98,
+   "asOf": "2026-11-25T00:31:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3542,
-   "change": -3,
-   "asOf": "2026-11-25T00:21:42.000Z",
+   "value": 3545,
+   "change": -2.91,
+   "asOf": "2026-11-25T00:31:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,7 +65,7 @@
    "unit": "$",
    "value": 1.0965,
    "change": 0.52,
-   "asOf": "2026-11-25T00:31:45.000Z",
+   "asOf": "2026-11-25T00:40:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59498,
-   "change": -2.8,
-   "asOf": "2026-11-25T00:31:43.000Z",
+   "value": 59511,
+   "change": -2.78,
+   "asOf": "2026-11-25T00:41:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لم يحدث أي تواصل.. رئيس المقاولون العرب يكشف حقيقة رحيل سامي قمصان عن الفريق لتدريب الأهلي | فيديو",
-     "url": "https://www.elbalad.news/7193587",
+     "title": "نيويورك تايمز: اختراق وكالات الاستخبارات الأمريكية طال معلومات غير سرية.. ومؤشرات حول تورّط الصين",
+     "url": "https://www.elbalad.news/7193631",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:30:00.000Z",
-     "seen": "2026-11-25T00:31:27.624Z"
+     "time": "2026-11-25T00:39:29.000Z",
+     "seen": "2026-11-25T00:41:28.123Z"
     },
     {
-     "title": "أحمد مقلد يكشف كواليس أزمة حزب المؤتمر .. تفاصيل",
-     "url": "https://www.elbalad.news/7193535",
+     "title": "محسن صلاح يكشف تفاصيل اتصال «الخطيب» بشأن عودة سامي قمصان إلى الأهلي",
+     "url": "https://www.elbalad.news/7193629",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:30:00.000Z",
-     "seen": "2026-11-25T00:31:27.624Z"
+     "time": "2026-11-25T00:34:25.000Z",
+     "seen": "2026-11-25T00:41:28.123Z"
     },
     {
-     "title": "هاتف Honor القابل للطي بدون تجاعيد.. تأكيد رسمي للطرح في مارس 2027",
-     "url": "https://www.elbalad.news/7193483",
+     "title": "يومان راحة سلبية للاعبي المصري.. والفريق يستأنف تدريباته الجمعة ببورسعيد استعدادًا للزمالك",
+     "url": "https://www.elbalad.news/7193628",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:30:00.000Z",
-     "seen": "2026-11-25T00:31:27.624Z"
+     "time": "2026-11-25T00:32:55.000Z",
+     "seen": "2026-11-25T00:41:28.123Z"
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الأربعاء 25/ 11/ 2026",
@@ -202,6 +202,13 @@
      "seen": "2026-11-24T23:31:28.051Z"
     },
     {
+     "title": "مصر.. قتلى وجرحى في حادث تصادم حافلتين بأسوان",
+     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQajZpM1dBdzFZRUtJQlphVTRYenROMDNlTXhaVHVLaHNaaWkwWXRqLUVWX0xzX2dUX1ZDTzN5TXlnN1pqdXZRSk5IX1FLdEQ1RlhZNEtGaTQzMzFMVVp6dDVnTGhNSVRsc2ZWM21YczdxNDdjODJCT0owdFMtaElHZjVJQ3RmdkNxcC1sNW9SMGxQcGw2cHBlWldTZ3JOUGpBU0g3b1plWDZyMVlBbDZ1bDFndWhib00taTJULU81QTRTZHU5MkhPSWc0M09uaFdKM25FNVhoVTBoanM3TzdSTy04UTVQZ0JLQ2ZPei02ZDh2czltNFlZa3RRb3k3S1Q4VWVZUHhTQnVXTFNacGhEOGRqV1hhNkotTmQtVlpLeFlsbElZMGNBSEMyd3FaNDNSc2RLQUZCcm0xLUtrN25JdmNHUmJNNVVtblMyMG5YNmpKeXpFR2VUaHhKMVV3dkFMZmRIOUNjRjg5eVhFWVZMVEg5TElqUWhCVG5XdnNlWFp0OTB0OHBZbGI0NnDSAZIDQVVfeXFMT1hiRm00bmQxaUJmV1Q5MWNYQjJKN1hCY205R3JoaFpIdGFRWXl0N24xdHhmMjlqc3NwVkVDRVVVUFlyeVRPazBPdldzTjdoOE1mNmVYby1mM1YxM0dESHQxWXN3dngzd0dWMC1OWVlqTG56eHZqSUQ2Q2Z3cEFETHVrV250WC05TXV1Z0ttc3dJblFDbTA2NVZUeGdSM1Y4cmtIVVZsbHNtaHRWWnV4Y09fUmwxOEFLNEVOUXZCaGhGYmNneXluUUhUTFVGSk1xaTBhNlNZM0hSYkd0bjdLMk43OEgybnNSc3gyU29ZUVFOLTJ6dGRkWGJ5SmpPZW1iRnFubm1SMFpXWU9WVmRMRDUtOVMwbzRuT2VCWVJ6WVM1aFR3THpPUW5DSWNOR0tYN2lGOWtsNVBxdy1wNTRnWFE5cnp3eVAxU3hmMU9UVndKS0ZXS0VUUmtqYXowUXVITUJDNGpVaUZ6bGNVZEQ5UkUyTkFHdlFicXRBWHBaWVA0cjRUeEFqTE43b1J2TmZFa1NB?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-24T19:15:21.000Z",
+     "seen": "2026-11-25T00:41:28.123Z"
+    },
+    {
      "title": "مدبولي يناقش مع اللجنة الاستشارية السياسية تطورات الأوضاع.. ودعوات للمصارحة",
      "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQeGN4YzZfdzlObm9JaG9ld2VjMENQamcxeFBRUFd4UjJPSEY5cVVpeHMzVzNIR04yNVJXb1hqMkpkczcyN2F6WHFJQXduaHhkUE9uTzlsNE9YVUp0NUUwS3lUU3VlWGV4YUFHWHl1YVJCLURVTkpTZjV0Rk12X3lZbUVyWlhKeDU2cjd1QUYyemJhZU9kbTR4MExRQ2ZaMWZtS0ZRVkxrUnQ3c2ZpWk5nZFdSaUllQUowWHJSajdFUWtDRS1PQ01xNHgyN0NiemhjRm12YjBrUWxuYVlsems3WDd6bDJkeXhZWVNoalBrQ01UUjFKWGRiVG9uU3pSWTVXT3dWcUY2UFhBVW13Q1gtcHU3YTUzcWpOdVE0YnNHTUx2MUR4OENVcWRiUFliU2ZlNm1oaHdqQmJkTU1LS056N1JzM0xIbmpZZm9pNkpVM1NkOTRIXzlUVFVjTERhY1ZYX0JUbnFhbXMyS01GaTg3eXhEcDRaR1hOM0wwcENGVWlmRmQ0X2ZGVTlVSS03cy01cFlxRjBTZG50SEhsdjdpNGVIZUtjVV9taERCNFhmNzJNTUEtZ2VwLWdiR1pHZGFEeFpTU3RSVGFYeEljemVRTllySWV4aW1McGRHVktDWXl1dmlpS0VhOWc5bGVMZERvWXZmd0FFdkZqSEgyMEl1SC16MGoxZzBELWlyZlRCQ21qcTFnSkRPTmdmV1pSSVlOajVUeVl3QjRqVVZpVERJMzFjbmJndEN6X1NEOURsdlUxS1ROM3ZzbE9zSVBrYkNmYWFEMEJlazlQM0ZOZVFSLWxwNWRuX0ZNVmlDLUFhaHUyYmZxMlpWTnNybWFHZ3dSUUHSAYcFQVVfeXFMT2VPeHZzOXUyVERWYjh3Sm9XU0ZTMjZONnd0N1ZfREVCX2gtNVllWWZIZ2UtNjlzQTBaMG1Xc2Rsc0VyUThpQTNJQ1ZtbGl3WWl2WmdPVGx1UFNwa2JaRGlJVlgyeFlfcW02dkR3NkVfaTRZZHhIR082bzV3Mmdwb2pTUVVZRUVwV3BHSnhJRlZwMDJRMHhPTnFjTTM4UWtDelJPX2NvSWE4V0VBNFZYUUxqOGd0aVdjUmV2UEpjUFZoMzl2M0tWQW05a0hMVFVlUnJxbzFnRjFCeG53MkU1TFhVaTFYWV9ncF9SQTVNVEpFUU04Ulc4QjJqdVh0aFhtQlJydVJzRHoyRnJnNVJwaTJiaHVJS0xKRXdFUFEya3lSQ3lMNXlHZTBoS1ZHU1MyWGpZd1d4NkdPM2RVcmU5djVhQlhCdmRYZ3lUd0JPQUJmVEYwWWg3QnE3RlQyMnppRDhLdktqS0tyRlFNQUFDLVd2NmduNVloZnIyMEs0V1JtYUZ6dl96NWZZbFVfRFFRUXBmVmFyNHNPNWNLRzlrTDhkZ3JGT3BQeFNGbWQtdWhSYnVwS25NYWIwTDdIelhJLTQtNkI0VnU1N05HRDA4c3RBdHVrRzFwT0hwLXJSTW9sWm1HU29LTmFwTk5DeVpYb3BzTUF3ZjM5ak5GVjZTTXdZTS1WQm5yRkd3d3lHMWoyNy1hbHU0Y1VHOUNKRmxLTVVybGpuZHVuaHNJWXRYamZCWnNGYWtIRzF2ZU56U1hFdW5jcDVTMUtfWThHcmNNSF85bGVFazNFbkYzVGZJTEx0ZmotbGJOcEg0Szk0LUNKTlREb21xNjFFc0hnUDdOY2ZfZFIyaUU?oc=5",
      "source": "Masrawy",
@@ -228,13 +235,6 @@
      "source": "جريدة المال",
      "time": "2026-11-24T14:53:18.000Z",
      "seen": "2026-11-24T15:00:37.967Z"
-    },
-    {
-     "title": "الحكومة: صندوق مصر السيادي سيعلن عن توقيع صفقات مهمة الفترة المقبلة",
-     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQcTRpQzR0VENhX2xta1JzUXI5Vm52bnNvQWY3dW9jQmNYRnViLWh2V2p3QmVZQXdOclpPeXBnY0t1VUhBRmdnaDRuSS1ZTWVqOExHLXBYcm54cnFjZkpIOFpoUks5TkVyUUVjcC1zUTk1bHlGSHNtbU1IcGJZTXdFSEJpbzJtdGpack9QNHBxaGY4eXBrQnhHaFRKY0lSNHV6LWFXWnozMkZaSXJfeGpaUGxfNjczTG5pREpCaHFWSE0xdUFtMlM5aTVTNmFHaUY3czZpSkZKS29jeXFvY0F2b2ZxbDY0d0dkc0w1Smx4ZkVGS1NldGdxNVVNTEt2a1FjSW5WbkJqYUFnVmJkMXNnWk9FWmVZNlhvT3hFUHBtRnlVWHgzQy1NVTFRODA1R2pIOWJhOTdEYlB6ckxlVVVIQVQ3cGplQkdIUld2NkNNS1Bld3RTRWMyMVdpeGZHQQ?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-24T14:50:56.000Z",
-     "seen": "2026-11-24T15:00:37.967Z"
     }
    ]
   },
@@ -251,10 +251,10 @@
     },
     {
      "title": "سعر الدولار لحظة بلحظة.. 54.17 جنيه شراء الأخضر فى بنك مصر اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQUDlVd1hFU0xCbnU0Slh2NlBfQkpIY0ZqNU9xTFlfTXVpcnJOcUhHTkJDOXN1NkFDMnUtRFJJSEd0Y25NUUtQMDhYdFF4Mm5QUnl0bV85a1NsYkhCMzA3ZW1vSjFsdEg5bE9mcjNsRXI0dDZUT3RQR2xZMVc1SlU4T2dQZVFGeVJPSkFrN2lFeHQ0cG5XRlkzMU1VWjZZbGpMZ09PUHNwbk01cV9QOTNhbVdkVzZyZm9IWVA1ZTNDQ2NoWjFxZUZ2OF9ldElXODhDVTZOUGJFdHBpekhMckxLSXR6Z0Z5TzBjdW5nSE1mcVRWVmhyTElLNC1KTjJEMDhmYnhvcG1DRVFmdURWa0xRSDVMU1dFZG5sMDBqYTd6VEdvbUlVem9Vd09iVlZ6QTgwWjdqZDZHUVN6MnRFZHlUVDhpMjF4cEs1Uks4LWtTS2h3M3ZDN2Q1UjF6U1o5RDR6UkRqbk1wR2NZUnBhNHJNODBJZ2x2Y1JRcEgtZ0o1WmladEJS0gH_AkFVX3lxTFBySUUzVkdaSmlNeUlWeDlJNGNVWkJSX29lREZOaGdMSlB3bjFiOFFOeElHQ2oyNUxxSGI2aFVOcU93OWV0bDAtSjFodGdCUl9uOHo1SUx2MnJpY2VlbDB3ZnJLQ3lUX2tBRXE0N3dpbVhyc3BsT2Y3ZV9qRlV0bExGV2RwY0E2Wi1PTS16d2U1cndmeWtRVlJzY093Y2dDNW5UUERXZ2d5YmR0OWNMOTctOU5QWms5NUdfbWpvM0xIQmh1MVVTektIb3J0bkJ2aE1xU1ZVWVFWek1tb1RscVo1b2FCVmdqZ3lqOVFOazlLZE1JOGhJZUZIVXNRV0hab3NDWk9mY3NqTmVRSkwwZGRqMXRVdEdyYmo3azNiVzZGX3dCVDI0aW13QVY5aUlIVklMV3lvclFsaDJrekRobldVR0stUEJfaVZmbnlGbjJObnF1bHg3ZWZTN0tDSU85SnpGdzNoNUZ4aEY3QjRCMEpRQkhqQzRMMlE4V1JTRFIw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQcklFM1ZHWkppTXlJVng5STRjVVpCUl9vZURGTmhnTEpQd24xYjhRTnhJR0NqMjVMcUhiNmhVTnFPdzlldGwwLUoxaHRnQlJfbjh6NUlMdjJyaWNlZWwwd2ZyS0N5VF9rQUVxNDd3aW1YcnNwbE9mN2VfakZVdGxMRldkcGNBNlotT00tendlNXJ3ZnlrUVZSc2NPd2NnQzVuVFBEV2dneWJkdDljTDk3LTlOUFprOTVHX21qbzNMSEJodTFVU3pLSG9ydG5CdmhNcVNWVVlRVnpNbW9UbHFaNW9hQlZnamd5ajlRTms5S2RNSThoSWVGSFVzUVdIWm9zQ1pPZmNzak5lUUpMMGRkajF0VXRHcmJqN2szYlc2Rl93QlQyNGltd0FWOWlJSFZJTFd5b3JRbGgya3pEaG5XVUdLLVBCX2lWZm55Rm4yTm5xdWx4N2VmUzdLQ0lPOUp6RnczaDVGeGhGN0I0QjBKUUJIakM0TDJROFdSU0RSMNIB_wJBVV95cUxQcklFM1ZHWkppTXlJVng5STRjVVpCUl9vZURGTmhnTEpQd24xYjhRTnhJR0NqMjVMcUhiNmhVTnFPdzlldGwwLUoxaHRnQlJfbjh6NUlMdjJyaWNlZWwwd2ZyS0N5VF9rQUVxNDd3aW1YcnNwbE9mN2VfakZVdGxMRldkcGNBNlotT00tendlNXJ3ZnlrUVZSc2NPd2NnQzVuVFBEV2dneWJkdDljTDk3LTlOUFprOTVHX21qbzNMSEJodTFVU3pLSG9ydG5CdmhNcVNWVVlRVnpNbW9UbHFaNW9hQlZnamd5ajlRTms5S2RNSThoSWVGSFVzUVdIWm9zQ1pPZmNzak5lUUpMMGRkajF0VXRHcmJqN2szYlc2Rl93QlQyNGltd0FWOWlJSFZJTFd5b3JRbGgya3pEaG5XVUdLLVBCX2lWZm55Rm4yTm5xdWx4N2VmUzdLQ0lPOUp6RnczaDVGeGhGN0I0QjBKUUJIakM0TDJROFdSU0RSMA?oc=5",
      "source": "اليوم السابع",
-     "time": "2026-11-25T00:00:00.000Z",
-     "seen": "2026-11-25T00:11:27.508Z"
+     "time": "2026-11-25T00:04:17.000Z",
+     "seen": "2026-11-25T00:41:28.123Z"
     },
     {
      "title": "الحوثيون يتقدمون نحو عدن ويهددون باستهداف جدة وجميع الموانئ السعودية",
