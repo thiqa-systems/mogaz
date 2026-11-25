@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:42:58.371Z",
+ "updated": "2026-11-25T16:52:59.177Z",
  "minute": [
   "شهدت مصر إعلان تعديلات جديدة على اللائحة التنفيذية لقانون الشركات ومباحثات مع شيفرون لربط حقل أفروديت، إلى جانب متابعة تحديثات أسعار العملات في البنوك.",
   "وعلى الصعيد الإقليمي والدولي، تواصلت التطورات العسكرية بين الحوثيين والسعودية، في حين شل إضراب مفاجئ حركة قطارات يوروستار بين باريس ولندن.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T16:42:58.371Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T16:52:59.177Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5357,
-   "change": -1.38,
-   "asOf": "2026-11-25T16:33:35.000Z",
+   "value": 5342,
+   "change": -1.65,
+   "asOf": "2026-11-25T16:44:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6116,
-   "change": -1.38,
-   "asOf": "2026-11-25T16:33:35.000Z",
+   "value": 6099,
+   "change": -1.65,
+   "asOf": "2026-11-25T16:44:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3488,
-   "change": -2.09,
-   "asOf": "2026-11-25T16:33:35.000Z",
+   "value": 3478,
+   "change": -2.36,
+   "asOf": "2026-11-25T16:44:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0966,
-   "change": 0.53,
-   "asOf": "2026-11-25T16:42:46.000Z",
+   "value": 1.0972,
+   "change": 0.59,
+   "asOf": "2026-11-25T16:53:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.64,
-   "change": -1.93,
-   "asOf": "2026-11-25T16:33:31.000Z",
+   "value": 89.71,
+   "change": -1.85,
+   "asOf": "2026-11-25T16:43:32.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7001,
-   "change": -2.78,
-   "asOf": "2026-11-25T16:43:38.000Z",
+   "value": 7002,
+   "change": -2.76,
+   "asOf": "2026-11-25T16:54:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58112,
-   "change": -2.74,
-   "asOf": "2026-11-25T16:43:34.000Z",
+   "value": 58241,
+   "change": -2.52,
+   "asOf": "2026-11-25T16:54:01.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الخارجية الروسية: لا موعد محدد للجولة المقبلة من المفاوضات مع الولايات المتحدة وأوكرانيا",
-     "url": "https://www.elbalad.news/7194447",
+     "title": "خالد مختار يسجل الهدف الثالث لمنتخب مصر أمام بنما",
+     "url": "https://www.elbalad.news/7194403",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:42:31.000Z",
-     "seen": "2026-11-25T16:42:58.371Z"
+     "time": "2026-11-25T16:52:23.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     },
     {
-     "title": "رئيس الوزراء: القطاع الخاص محور النمو والتنمية الاقتصادية في مصر",
-     "url": "https://www.elbalad.news/7194452",
+     "title": "من كلماته وألحانه.. مروان خوري يطرح أحدث أغانيه «عزيز الروح»",
+     "url": "https://www.elbalad.news/7194445",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:41:55.000Z",
-     "seen": "2026-11-25T16:42:58.371Z"
+     "time": "2026-11-25T16:51:56.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     },
     {
-     "title": "رئيس الوزراء: تجميع سيارة جديدة في مصر بنسبة مكون محلي 45% وخطة لزيادة التصنيع المحلي",
-     "url": "https://www.elbalad.news/7194451",
+     "title": "هل استقال أم أقيل؟ المقاولون العرب يحسم الجدل بشأن سامي قمصان",
+     "url": "https://www.elbalad.news/7194450",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:41:10.000Z",
-     "seen": "2026-11-25T16:42:58.371Z"
+     "time": "2026-11-25T16:51:53.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
+     "title": "مدبولي: الحكومة تهدف لاستقرار النشاط الاقتصادي رغم التحديات الراهنة",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPc2ZldjNKT2lRMFlpbVc2N2thbXVSRkhuV3k4MUhmNEZFU250cm1oVmhzTF82c2NGdzBtZFl6MlE2LXY0ZmJMdXQxcmlpbmJnRGtLM3o2WmczQ1MyQmxLT1Z1bGJRSTBhYnZLMUE5UUg3MTdZV0lsRG9IWV9uc3V4Q1RmajBVZ1dUeHE1aVMxamE2RGlvOVdfV2MxNHYwQzZrVGJtQ25zdk9Dc0VRNGVYSTdkekEtZlZBbUNvcjhUbkN2UGFmc0JVM0lVOHNSeWcyWXJDTmk3cjBiWnNtTmxkN0QzWWFpUG5VTDBYTDFpb1E0UG9pTUl1X1dUMGVFZjRybHUwOGtkTUxfb1YzaUlJUjdPZTFMMnR4UWlYdW14cFRXVkJQbWdxdTlnbzZFQk1KYktrZVg4X2daVEZ0SnJZOHZNeUVVSkNFWmhBd1RJSFBoZnN6SmZIU3FRaU5JcW5DNnozWVJQT2JrYU8wVG9qSlVzMzJVcVoxNmZOSjFn?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T16:47:53.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
+     "title": "مدبولي: بندعي ربنا يديم علينا نعمة الأمن والاستقرار",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOb1hZWXNqU3RjN0RHWXlxQURqNFFMLVpHVTFzQ182SVBEYy1sOHMtaU5QM3lWa0tYMTNkWGhfQVk3cHpkMzVGZEhVX0h3Sm9hWDVQSjV4WXBYcTI3ek9hMENxd29iWHkxakROa3ZFVldCTl9vRmZtVFlFTEtCbzdld3ZCOW1Ocm5XY1h6bVltQTlJck0zTkhraWFuVUNvcW80SW9rZkxWNWI2RUdrUmw4QjlHOWZyczgtcU4yWTZUOVdWZmJqQThlRVZDVlRLd2thTnZwdmlTWlBxUl82eUxJNDRMYnBXNW9Wd3BYU3ROTVV1MjF2R3l1OHg5M1ZoNFh5bUxmVDJYeGtvb2E4UFYwWmhEcE1kakRMcThHRktrV2VnUXZ1NzUwU1ZOcmFHZHAyMGUxSVJlcTdKTzRIVEozYlpB?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-25T16:46:37.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
+     "title": "مدبولى: لدينا برنامج وطنى للتحول الرقمي والدولة ستلتزم بتنفيذه خلال عام 2027",
+     "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOZUIydXBsQ2p0OFNjV3ZBTGFTX19GSHdTVElIZVdGemdCbkxvaXdHUU9PeldOZEFRSzI3aWZKR1hhS3pVYnNZMlFMYjFaTWRWMlYwdXBhLTZmX3FybjA0SklkMlNhcXZMSjROcmlna25oUHBSQmJDSFFFLXFJQnB1N0NpdXNzOWVkcEZTelR5UU9CSHpSU3oyakR0U0U1YS0tN3B5UmcxNHB0d2l3UGN4X0Q3R01zVDNmMUlxSjU4bEdpd0pPRE5MTzhUSU5TLWtiQmZRRncyVWJPRzFQNG1iYlh3dzNoc0JhenlQdkVuMm9MeUJuV3ZhQnR2RzFHTDVtTG5JX3hkaXZqUktzd2FuTHJWdXNLTXZDMVJ4Qng4bzNHTi1IRDdRelhJOS1yWURQWHhoTzdvc0VkMEEza2NMaG5nRGN1YkViYVpjNFh2MW0yNTZIbmxmLUJIbVFVM2s3eTY2Tm1lWlJ5STZISC1FRVpuNjk0eEtJYU4zWHItczI4Y0FuN2xSSld2YW5GbE5Ic1hBSUQ0aVA5MEZ1ci1DV05UbkV2UFR5OXp5bUc0cTZOVW0zaUxDNUs0a2o0LUQ5LTV1WEJma1ZfZTJHOS1HQjlKd0tjcGF2VDBOUFE1TDhvT01rNVg5S1g2N2xYVUVQdWdkWDJIZXh5ZHlSMWxfYWIwb25Bdy1QSHN5eXk5TGZLRGxhd2JaZFRrS19qMF81WnZlZnI3NXVoTDZYT0JXYWhzUXBXeHNFTV9fXzkwVkI4ODdnT3ROVmhEdkt3dF9h?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-25T16:38:00.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     },
     {
      "title": "مصر تستجيب لمناشدة أطفال غزة وتوفر أقلام الإنسولين.. اعرف التفاصيل (فيديو)",
@@ -174,11 +195,25 @@
      "seen": "2026-11-25T16:42:58.371Z"
     },
     {
+     "title": "مدبولي: إعلان إجراءات تنفيذية جديدة لخفض الدين خلال الفترة المقبلة",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ILUlYaDRfeWhmVjV5X0hxUEphQVJaNGdLcHdDTExOX01uWUxKeDBIUkJtdHBpT0JyZm1Fai1KNHYza3RMSXVmTHdxcEdKa20zcVRrbWZhbmZFRlpi?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-25T16:27:04.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
      "title": "وزير الاستثمار: تعديلات اللائحة التنفيذية لقانون الشركات تهدف تيسير بيئة العمل",
      "url": "https://www.youm7.com/story/2026/11/25/وزير-الاستثمار-تعديلات-اللائحة-التنفيذية-لقانون-الشركات-تهدف-تيسير-بيئة/7632425",
      "source": "اليوم السابع",
      "time": "2026-11-25T16:22:00.000Z",
      "seen": "2026-11-25T16:22:58.551Z"
+    },
+    {
+     "title": "هو هو قال هو",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXFFdXcxREhQSkJFd2R3ME5Rb2stdEZsTEhVaEZPVThpVzdFU1ptSjB5TjRhQnZGc1hwckVZeV9HOElJZzlqbDhieFdUT1hEbnlpTEhSdHBpbUVkTGtKelFINkZCQ3ZaNFh3MnlpOTZCVmllRnlZaDk2aEJPWFdhNWIzaUd3SnR5RE1yQ1VtMG9lajRsR2RxbkF0Q1hZeFZCRjJaeHAweUhvN1BFbkU5Q25lOXV0QQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-25T16:05:25.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     },
     {
      "title": "حدث في 8 ساعات| السيسي يستقبل رؤساء شركات عالمية.. ووظائف حكومية جديدة",
@@ -202,44 +237,6 @@
      "time": "2026-11-25T14:48:17.000Z",
      "seen": "2026-11-25T14:52:59.239Z",
      "impact": "يعزز فرص الاستثمار الصناعي في قطاع السيارات ويرفع قدرات التصنيع المحلي والتصدير."
-    },
-    {
-     "title": "مجلس الوزراء يوافق لـ شركة «جي بي إتش» على استكمال السير في إجراءات إدارة وتشغيل محطة الركاب بميناء الإسكندرية",
-     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ2F0MzFDUnpzbXJvZnA3Q3BWTFUzV2R0Y294QTFxNndNdG5lSnhUUEV1UWNuWktzcHgzdUV0cFRkRGtrc0s0bXlNdDVWRGZkNnVXbko5cWxmdEx0VEdqZGZsck55SVZKWi1FWklCNzFsRkUxWWcyWTBLT0djcGdBREozbExsek9BYmtEMXpsczM1MnZUMmwyTHp0bnl2amJCaG83ektkNmc0bEVQQTJVQXIzbHZwS2drSDcwNWN1MFZSUXBsZ1BhQ1U2aHZwcEQ2N2d3OWVTdVVVYlRHZlVzcnZZMkU1QzN2WlZyM1FoeEFRTF96eEtHeGJVbU1JSVBsaUFTNDlDQ0xQdXRJQjFvVkIycXJ2WUsza2tDTFltTHFUTzVLLUE?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-25T14:41:26.000Z",
-     "seen": "2026-11-25T14:52:59.239Z",
-     "impact": "يعكس فتح المجال للقطاع الخاص لإدارة وتشغيل المرافق البحرية ومحطات الركاب بميناء الإسكندرية."
-    },
-    {
-     "title": "مجلس الوزراء يوافق على مشروع قرار بإعادة تنظيم الهيئة العامة للخدمات الحكومية",
-     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOX0lPTnBUVHZyZWRHVktUV3A0WDd1YXJsbWw0cF9nMl9KZUdLcWJ1NUVyVUdBbDBLUHp3SVhsWnAzVVZXTEtyMFNpcXZxRGYxb0Z6bmJ5Z2QtQU8tUUZTcTN6MTJsdnVldEk5cS1WYlhiSFQ1bHl0blhqZWN6YnhPSXhobDE0VjU2akhNeW1wSW92TTh5dXF0SGVvRDl0YVJBMmh4ZFFSZUNYeGVodFhQaUp3N0JnUkJINFlKOXRtc1ZORVFfY0d0aHVwUy1fSW9TN2tsMjBNNjdyX1pMbnl2SFN4SnNua29FdWtoZE4xYUxsVC13c0NfTVEzc1JBNURkbXBhTVVoVVgxclNYVmtWVmpaVU1jZVdvUHBncGpkNHpLeDBab2I5TlllYUtKOHNscTZ4U09oTXZ1b0d5RXQ0UUUwS0FvZnJLTzVBcy1NeXJrdmY4ZkhRMHRGQ1ZnZw?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-25T14:19:55.000Z",
-     "seen": "2026-11-25T14:32:59.049Z"
-    },
-    {
-     "title": "السيسي يصدر قرارًا جمهوريًا بتخصيص قطعة أرض لصالح صندوق تحيا مصر",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qQXV5eVZRTXlwQTItNDNPNDhiVEZqbVRvNzBGenJrRFVRMzJ2MHVLeHhabC00bVpBcW1WMklhOWhfLWJ0ZXZfZEViTUNEQWRXOXZocHktdFVoYktTZ0x3?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T13:40:00.000Z",
-     "seen": "2026-11-25T16:32:59.088Z"
-    },
-    {
-     "title": "مجلس الوزراء يوافق على 9 قرارات جديدة (تفاصيل)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZjBnV1pxdGc1WHRnUEpxZ3NNMzQ2Zmx2b21qajE5QW5SQkdhRFV2cWMtdThEVXhaT21hamU2UGdUZFZnVmZ2a01EdE52dzFxeGcyMFpsTlBjd09fSVlB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T13:39:00.000Z",
-     "seen": "2026-11-25T13:52:59.013Z",
-     "impact": "تؤثر القرارات الحكومية الجديدة بشكل مباشر على بيئة الأعمال والأنشطة الاقتصادية والتنظيمية للمواطنين والمستثمرين في مصر."
-    },
-    {
-     "title": "مدبولي يوافق على تخصيص 15 مليار جنيه لتمويل آلات ومعدات قطع غيار السيارات",
-     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMnhicGJ1aDJXTWhyaldKb3AyNkdoS1RudFY3MWJkMWQ0dU9WbWVkNHlSVEpyMkQ4aXRTaDNrNlJFdWsyVHVTTWhsa2QwUFR6aVJXVW9VRjR4ZzByREVtUlhERmpZekZyZU1oRmdIMjhUQThYQ0l0U041OElPMkNEVzBabkpRczRIcWo4WnlZNVNYenR5M3BXbF9US3RGSnJVRURBYzd0WktlS19xZndFUEk4OTBKd0c2T1dNTml6ZDcyX1d0Q2l6ZkhmdUtMZHJ2MU1pSk56UTgtTWVfcWdabDNNNlh0WUhSM1R6dFJZX0VTT0pidGJ6Q0hXdTc4TFFsbVV1UmtZcFhWUlRLclI0dWczT2ZJUGxFMTZmaU9kdlB1UlVRb2RDZGZlNl92ZFNzc3VJa3lkUmxqcFVXYWc?oc=5",
-     "source": "قناة صدى البلد",
-     "time": "2026-11-25T13:27:36.000Z",
-     "seen": "2026-11-25T13:32:43.407Z",
-     "impact": "يوفر تخصيص 15 مليار جنيه فرص تمويل جديدة للمستثمرين والشركات العاملة في قطاع آلات ومعدات قطع غيار السيارات في مصر."
     }
    ]
   },
@@ -248,6 +245,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم الأربعاء 25 نوفمبر 2026 في البنوك.. ارتفاع جديد أمام الجنيه",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiMW1zTmlTM0tfdFJ2RlNhcFdMZ1JfM0NVSWJOekJ2Y1k5WHZuSXdISWdFaGdQVHM4SVVyUU8xc0lHcVBq?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T16:44:06.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
      "title": "الألغام تواصل حصد الأرواح في سوريا بعد عامين من انتهاء الحرب",
      "url": "https://www.bbc.com/arabic/articles/cxg5rznnjmmlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -255,11 +259,11 @@
      "seen": "2026-11-25T16:22:58.551Z"
     },
     {
-     "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVDhKVVRIbTVGY25SNXBtamYwb1FvMFZzemFLeUJtWGlYS3Bodnp1RXBRbzZWbTJqNkJnaFgxUDJYTDNWdG9sNEx3YmdkU0JyY1l1bF9zR1F3LVRDMG5KX3FPeUVfcDlicVp1d2JieDhfZXhwbDFXUkN2aHZmaXFiemxWSDBnbUFSalNFMVlwUkFJclBqNWNRRGpDQ0ZtRzd1cThTZWlJWVZpUWktVlFxNC1iYzRlbExGZU5Eb090WjY2R1oxLUVTeENYS1FqcGJDZ2RyQ0cwaUdYRjU1V2R6UEZZWDBMTFhjMTZTNzVOUTNFOUZsdFBiLXlxTmIzb3NfVlJzQ0ZNVnFJa3N4SlRUOTdUdHUwYXhzQTRxMXBObGExV3ZfQVByTUVCNXdjWkNHdUk1V2NNUVJtNmZyMEJfdFRYd1pHZFlURUprQ0lic0pYdkJ3Yi15bFpyb09PYzNZOVZpSXRNSE1BTEpzZDJUQ2ZEMzMzblNFcFRYOFhKTTAxYkxBV0JQd0h3Mk4xVnl1d1lJSnowOUpxRW16RE5kVXJadmh3Nlg3di00SnBWRHlteHhjUnNWYUtpN1FyYXdhQjlFMG5fRVFBNExkZW9UN1RR0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T16:03:38.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
+     "title": "إيديتا تستثمر 25 مليون دولار في لمضاعفة طاقتها الإنتاجية بالعراق خلال عامين",
+     "url": "https://alborsaanews.com/2026/11/25/2009137",
+     "source": "البورصة",
+     "time": "2026-11-25T16:02:56.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     },
     {
      "title": "ارتفاع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
@@ -269,12 +273,25 @@
      "seen": "2026-11-25T16:12:58.542Z"
     },
     {
-     "title": "سعر الدولار اليوم الأربعاء 25 نوفمبر 2026 في البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56c0I2SmZTNG02amY3N19IRHFvbkpJT3JwanpKa25LU2U5Vm15Vl80SGtkWDRZd0tRWmYxNFhKd2tDMUFV?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T15:44:03.000Z",
-     "seen": "2026-11-25T16:02:58.494Z",
-     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة أسعار صرف الدولار في البنوك وتأثيرها على تكاليف المعاملات."
+     "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVDhKVVRIbTVGY25SNXBtamYwb1FvMFZzemFLeUJtWGlYS3Bodnp1RXBRbzZWbTJqNkJnaFgxUDJYTDNWdG9sNEx3YmdkU0JyY1l1bF9zR1F3LVRDMG5KX3FPeUVfcDlicVp1d2JieDhfZXhwbDFXUkN2aHZmaXFiemxWSDBnbUFSalNFMVlwUkFJclBqNWNRRGpDQ0ZtRzd1cThTZWlJWVZpUWktVlFxNC1iYzRlbExGZU5Eb090WjY2R1oxLUVTeENYS1FqcGJDZ2RyQ0cwaUdYRjU1V2R6UEZZWDBMTFhjMTZTNzVOUTNFOUZsdFBiLXlxTmIzb3NfVlJzQ0ZNVnFJa3N4SlRUOTdUdHUwYXhzQTRxMXBObGExV3ZfQVByTUVCNXdjWkNHdUk1V2NNUVJtNmZyMEJfdFRYd1pHZFlURUprQ0lic0pYdkJ3Yi15bFpyb09PYzNZOVZpSXRNSE1BTEpzZDJUQ2ZEMzMzblNFcFRYOFhKTTAxYkxBV0JQd0h3Mk4xVnl1d1lJSnowOUpxRW16RE5kVXJadmh3Nlg3di00SnBWRHlteHhjUnNWYUtpN1FyYXdhQjlFMG5fRVFBNExkZW9UN1RR0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T16:00:00.000Z",
+     "seen": "2026-11-25T16:12:58.542Z"
+    },
+    {
+     "title": "وزير الخارجية يبحث مع «سكاتك» النرويجية مضاعفة استثماراتها في مصر",
+     "url": "https://alborsaanews.com/2026/11/25/2009118",
+     "source": "البورصة",
+     "time": "2026-11-25T15:36:59.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
+     "title": "جنوب أفريقيا تخصص 6 ملايين دولار لدعم شركات الذكاء الاصطناعي الناشئة",
+     "url": "https://alborsaanews.com/2026/11/25/2009113",
+     "source": "البورصة",
+     "time": "2026-11-25T15:31:09.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     },
     {
      "title": "تحديث رسمي.. أسعار العملات اليوم الأربعاء 25-11-2026 في البنك المركزي",
@@ -308,32 +325,11 @@
      "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة حركة سعر صرف الدولار وتأثيرها على أسعار السلع والتكاليف."
     },
     {
-     "title": "الحكومة تبحث تسريع التنسيق التشريعي لتحسين بيئة الاستثمار",
-     "url": "https://alborsaanews.com/2026/11/25/2009096",
-     "source": "البورصة",
-     "time": "2026-11-25T14:59:22.000Z",
-     "seen": "2026-11-25T15:52:59.197Z"
-    },
-    {
      "title": "سعر الدولار ينهى تعاملات اليوم الأربعاء على ارتفاع أمام الجنيه",
      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPOUdFend2SG05TURWLWRyVmExMEpyRkk1UzRhR2FrVkhoSTB4azFESEFncWE1eDBWWktCYnYtb0VYUEN5b0J5cE1FeUhRRS0zUjR5SXdlRGluWVk4cVdsN3JtM2tGUVJRd2UxRDc0aWZwcWlONXZRSmRIeHdiNmg4bVZFUmwzV2FhWmRxQ2p1US1SVGU5WDEyUy1IUFdseWpOYldMbHdnMk1XSXQzSWFnQk5BUFNLb19TUTQ2eHpKaU5lNWEyVXpoRU9kWXlid2JkY2lhZWdzc0N0T2R6MGN2Y19Xd3JLNTJIbTlXbjhEZlJPaFZCTnROVXNyLWZlWTFVOTAwTjRmOVpJSGNBbnJQamlDaTN2Q3V3NkE4Y3hBTDQ2UGQ1VlRhaXVtWDRJUW1oeGd6RjZaWVRFSlB3TDN5RGdUMzVTdHcxZ2N3SGR6TkxkblpBMzAybjAtbjRQXzV0bWRGZEZtM2FfTHZmUzNOQkJqTlp2dW9mYkNKNzJFb2tsdzNzNlZudGQ4RUo3cUtaVE1ibEt3MEJIc1Zpak9XbHNMYjNTN3BTbGlDamhuckdiRTJJcXc0bmpOVW43NDBxb0wtaUdlUXBnS1ZJMTE3MG1lMUVHajhITGRNWWlKZHBKV1lGMGhqcjdOYnczODVRUEV6Q1RHZUtxd0ZjYTZTbkdyUllVUkJXdXfSAYoEQVVfeXFMTzlHRXp3dkhtOU1EVi1kclZhMTBKckZJNVM0YUdha1ZIaEkweGsxREhBZ3FhNXgwVlpLQmJ2LW9FWFBDeW9CeXBNRXlIUUUtM1I0eUl3ZURpbllZOHFXbDdybTNrRlFSUXdlMUQ3NGlmcHFpTjV2UUpkSHh3YjZoOG1WRVJsM1dhYVpkcUNqdVEtUlRlOVgxMlMtSFBXbHlqTmJXTGx3ZzJNV0l0M0lhZ0JOQVBTS29fU1E0Nnh6SmlOZTVhMlV6aEVPZFl5YndiZGNpYWVnc3NDdE9kejBjdmNfV3dySzUySG05V244RGZST2hWQk50TlVzci1mZVkxVTkwME40ZjlaSUhjQW5yUGppQ2kzdkN1dzZBOGN4QUw0NlBkNVZUYWl1bVg0SVFtaHhnekY2WllURUpQd0wzeURnVDM1U3R3MWdjd0hkek5MZG5aQTMwMm4wLW40UF81dG1kRmRGbTNhX0x2ZlMzTkJCak5adnVvZmJDSjcyRW9rbHczczZWbnRkOEVKN3FLWlRNYmxLdzBCSHNWaWpPV2xzTGIzUzdwU2xpQ2pobnJHYkUySXF3NG5qTlVuNzQwcW9MLWlHZVFwZ0tWSTExNzBtZTFFR2o4SExkTVlpSmRwSldZRjBoanI3TmJ3Mzg1UVBFekNUR2VLcXdGY2E2U25HclJZVVJCV3V3?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T14:59:06.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
-    },
-    {
-     "title": "“أركيوس إنرجي” تستهدف ضخ استثمارات بمليار دولار في مصر خلال 2027",
-     "url": "https://alborsaanews.com/2026/11/25/2009087",
-     "source": "البورصة",
-     "time": "2026-11-25T14:41:52.000Z",
-     "seen": "2026-11-25T15:52:59.197Z"
-    },
-    {
-     "title": "تغطية 64% للطرح العام لأسهم «مصر لتأمينات الحياة» فى ثاني أيام الاكتتاب",
-     "url": "https://alborsaanews.com/2026/11/25/2009078",
-     "source": "البورصة",
-     "time": "2026-11-25T14:23:52.000Z",
-     "seen": "2026-11-25T15:52:59.197Z"
     },
     {
      "title": "سعر الدولار في مصر اليوم الأربعاء 25/11/2026.. ارتفاع بالختام",
@@ -358,6 +354,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الانتخابات الرئاسية الفرنسية2027: من هو دافيد ليسنار الليبرالي الذي قلب حسابات اليمين في السباق؟",
+     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261125-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A92027-%D9%85%D9%86-%D9%87%D9%88-%D8%AF%D8%A7%D9%81%D9%8A%D8%AF-%D9%84%D9%8A%D8%B3%D9%86%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D8%B1%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D9%82%D9%84%D8%A8-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D9%82",
+     "source": "فرانس 24",
+     "time": "2026-11-25T16:48:07.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
+     "title": "كاتس يرسم سياسة غزة: اغتيالات ومنطقة بلا سكان",
+     "url": "https://www.skynewsarabia.com/middle-east/1907101-%D9%83%D8%A7%D8%AA%D8%B3-%D9%8A%D8%B1%D8%B3%D9%85-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A8%D9%84%D8%A7-%D8%B3%D9%83%D8%A7%D9%86",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T16:40:48.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
+     "title": "التحالف بقيادة السعودية يعلن استهداف \"قدرات تشغيلية بميناء الحديدة\" باليمن",
+     "url": "https://www.dw.com/ar/التحالف-بقيادة-السعودية-يعلن-استهداف-قدرات-تشغيلية-بميناء-الحديدة-باليمن/live-80015556?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-25T16:40:00.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
+    },
+    {
      "title": "تركيا.. الإعلام المعارض تحت الوصاية",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9/20261125-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9",
      "source": "فرانس 24",
@@ -377,13 +394,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-25T16:19:43.000Z",
      "seen": "2026-11-25T16:32:59.088Z"
-    },
-    {
-     "title": "كأس أمم أفريقيا 2025: ما هي السبل القانونية المتاحة أمام المغرب للطعن في قرار محكمة التحكيم الرياضي؟",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261125-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D8%A7%D9%84%D8%B3%D8%A8%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D8%B9%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-25T16:02:28.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
     },
     {
      "title": "العراق ـ المحكمة الاتحادية العليا تؤيد إجراءات الحكومة بشأن إقليم كردستان",
@@ -435,25 +445,11 @@
      "seen": "2026-11-25T16:32:59.088Z"
     },
     {
-     "title": "الكنيست يصادق تمهيدياً على مشروع قانون لتشكيل لجنة تحقيق في هجوم السابع من أكتوبر بميزانية مليوني دولار",
-     "url": "https://www.bbc.com/arabic/articles/cmg46re3qkego?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T13:53:44.000Z",
-     "seen": "2026-11-25T14:02:58.758Z"
-    },
-    {
-     "title": "ملف تفاعلي.. نفط العراق.. أين تختفي هوية البرميل؟",
-     "url": "https://www.skynewsarabia.com/middle-east/1907038-%D9%85%D9%84%D9%81-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%AE%D8%AA%D9%81%D9%8A-%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T13:50:24.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
-    },
-    {
-     "title": "عودة هوانغ إلى إنفيديا تلقي الضوء على مزايا وحصانة يتمتع بها أصدقاء ترامب- مقال في الغارديان",
-     "url": "https://www.bbc.com/arabic/articles/c6regn2jgz7eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T13:46:42.000Z",
-     "seen": "2026-11-25T13:52:59.013Z"
+     "title": "طالبة إيرانية تصرخ في وجه بزشكيان.. والرئيس يغادر قاعة اللقاء",
+     "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxONTlSaHZtVDFfei1ZNEs2TDZVQmJBZU1sdm1hQUZBTEdTQ0NYeGZSR05CSFF0OXRiZlRnaGR5WEhQc0xYVEdsMTNnSk9idDMxNTUzdkJST1ZGRGVXbkM1M2Z3S2gwUTBuUUc2VEVrQk91d18tU1NlbUYtWnpiM1RaSE56UVRUX2NnMmtwdUVYVDZoM0pycWZRd3Vaa1UxQnlSTGw0dldRS283VnZwM3ZkbFVJWWV6ck95ZzlJMy1JdmFEaUhBcEJIa2hfSEczUnpMSVdVOXJ6eG1ROGxadTJUUFkyTkdFWmNSOTMtMHpsRTBFT1BQbWFTN0VudzJ6MzhfZWdLVklWcVdwYlVwMFJjWDJ1RTIxMjdhT2ppTUlCYTV6Z2NNSjA3czdGVktOZ3ZtWVpBRW9nUFktckdMb2ozUW9Ib19teUlmdVF6a3Z3QTlFTnppZEM5Nk9WNEZOMkRjb3I5bDdDV21JbnJTQU5oSnpCazlURVlGaWZaandNQ1JPWmR0NHduazF3bmI1NTVsTlluakdVQU9TTzd3NWtETWJhaUN5TkZmdXNWMDRaS29wd2g5cG9vcjBXbkVpLTJza3poak5LYWM1RzBhVnpwTjhHcllqLUlWR1pmRmhpZXVyRUJFUGVRRENmN2hwOTJTMmhOTDdCZ9IB_ANBVV95cUxNY3NrU0FFQmxWOWxEYkNYSXZuSTVKa2toM19QTWxpYlR4S3FGRUdDLXJ2a090N2pZVGVFak84OFhyVEt1bTAxaFRTNUtNbTJ6elVjSkRKOEtGYWxwcTJPZ2tnTGxVRk10cFJnVTJVZzEyTVFHN3BGNE9uX1d3d2dyQUNvdVEzN0QxMmMtcktINnZaTnRTcVhScWhXLTZobDNjcmlTWFROZElTYlE3aGltdlpMNkpVRHJXZE93ZDRSUmQ1UGFuX3VBalpnQ043YVFlRU9tRGUzem1zR19LOU1pSzhRYm9EOTV4b1BfOTVEUGFqaDJPb1EwUEYwOVV0dTc4UmJONVlEQkhzWnQ5c1lzeUtkZmJRX2ZDNnVzZHFwWjJTTWZZZ2FDbzNKemU1WHo0QVZJVWhad2VDTkJuNWhuNnJIb2tyMXJrejFpVUpqcExaX2ZPWkJfVUstcXZpYzNSQTR3bUl6SThTWlpwNUwxR0NlaHFmd3FpUnpIel93dmlJSmhoeGMtd1BMcjZkblpXVERXRUpzZjR5MmtqSERmNHotWFBKbkNCbTd5RnF2bjQzWGtuVnBMb1dLalRiNFVxU2xIXzl5LXd6NF9HaXRnOGhoYldic3FuN2IxTEVIYnJnbF8zUHplR0dUT2ptYnlrRHEtQ3A3dE1aRFlm?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T14:37:00.000Z",
+     "seen": "2026-11-25T16:52:59.177Z"
     }
    ]
   },
@@ -484,6 +480,20 @@
      "impact": "يفيد مستثمري التكنولوجيا بفهم مستوى صلاحيات اتخاذ القرار الاستثماري في مجال الذكاء الاصطناعي بالمنطقة."
     },
     {
+     "title": "الكنيست يصادق تمهيدياً على مشروع قانون لتشكيل لجنة تحقيق في هجوم السابع من أكتوبر بميزانية مليوني دولار",
+     "url": "https://www.bbc.com/arabic/articles/cmg46re3qkego?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T13:53:44.000Z",
+     "seen": "2026-11-25T14:02:58.758Z"
+    },
+    {
+     "title": "عودة هوانغ إلى إنفيديا تلقي الضوء على مزايا وحصانة يتمتع بها أصدقاء ترامب- مقال في الغارديان",
+     "url": "https://www.bbc.com/arabic/articles/c6regn2jgz7eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T13:46:42.000Z",
+     "seen": "2026-11-25T13:52:59.013Z"
+    },
+    {
      "title": "دراسة: دول الخليج تتصدر مؤشر الثقة بالذكاء الاصطناعي في قطاع الإنشاءات",
      "url": "https://aitnews.com/2026/11/25/%d8%ab%d9%82%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -512,13 +522,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T12:17:00.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
-    },
-    {
-     "title": "النفط والمنافذ الحدودية تشعل فصلاً جديداً من الخلافات بين بغداد وأربيل",
-     "url": "https://www.bbc.com/arabic/articles/cq772v3vmk1xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T12:12:17.000Z",
-     "seen": "2026-11-25T12:22:43.710Z"
     },
     {
      "title": "بمساعدة الـ AI.. \"هاكر مبتدئ\" يسرق بيانات 1.2 مليون بلجيكي",
@@ -557,13 +560,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-25T09:51:20.000Z",
      "seen": "2026-11-25T10:12:44.028Z"
-    },
-    {
-     "title": "3 دول عربية ضمن الـ10 الأوائل عالميًا في استخدام الذكاء الاصطناعي بالعمل",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVo3eE1RblgwZWkxNEV5cE00NmM3WDlacFZjaDUyT0dydFlONk10STlnTFl0by1Scm9yZnY2Wlg3ZXR5cjdyYldqRGFaWms5akVLaEJTR2JuOTRLT2l2dEF1b0ZvcnAta1UyRy1rLXNITkdpbXY1LVQtcWJVVjNOOVY0ZkFIQi1pV0ZxdWx1TTNfa3JEMDNHSk1aNA?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-25T09:37:07.000Z",
-     "seen": "2026-11-25T11:52:44.149Z"
     }
    ]
   }
