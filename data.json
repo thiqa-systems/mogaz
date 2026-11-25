@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:11:44.641Z",
+ "updated": "2026-11-25T03:21:45.163Z",
  "minute": [
   "استقر سعر صرف الدولار مقابل الجنيه المصري في تعاملات البنوك وسجل 54.17 جنيهاً للشراء في بنك مصر.",
   "أعلنت هيئة السكة الحديد في مصر عن طرح 2666 وظيفة في 12 تخصصاً مختلفاً للمواطنين.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T03:11:44.641Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T03:21:45.163Z"
  },
  "markets": [
   {
@@ -21,34 +21,34 @@
    "unit": "ج.م",
    "value": 54.17,
    "change": -0.07,
-   "asOf": "2026-11-25T03:01:47.000Z",
+   "asOf": "2026-11-25T03:18:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5405,
-   "change": -0.49,
-   "asOf": "2026-11-25T03:01:58.000Z",
+   "value": 5423,
+   "change": -0.16,
+   "asOf": "2026-11-25T03:11:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6171,
-   "change": -0.49,
-   "asOf": "2026-11-25T03:01:58.000Z",
+   "value": 6192,
+   "change": -0.16,
+   "asOf": "2026-11-25T03:11:45.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3547,
-   "change": -0.42,
-   "asOf": "2026-11-25T03:01:58.000Z",
+   "value": 3559,
+   "change": -0.09,
+   "asOf": "2026-11-25T03:11:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0957,
    "change": 0.45,
-   "asOf": "2026-11-25T03:11:43.000Z",
+   "asOf": "2026-11-25T03:21:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 87.44,
-   "change": -4.33,
-   "asOf": "2026-11-25T03:01:30.000Z",
+   "value": 87.47,
+   "change": -4.3,
+   "asOf": "2026-11-25T03:11:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59366,
-   "change": -3.01,
-   "asOf": "2026-11-25T03:12:08.000Z",
+   "value": 59571,
+   "change": -2.68,
+   "asOf": "2026-11-25T03:21:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,6 +140,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "تحالف دعم الشرعية في اليمن: اعتراض 4 مُسيّرات في «رأس تنورة».. وسقوط شظايا دون إصابات",
+     "url": "https://www.elbalad.news/7193651",
+     "source": "صدى البلد",
+     "time": "2026-11-25T03:19:50.000Z",
+     "seen": "2026-11-25T03:21:45.163Z"
+    },
+    {
+     "title": "الأقمار الصناعية تكشف مفاجأة .. «الشيطان النووي 2» الروسي يدخل الخدمة أخيرًا",
+     "url": "https://www.elbalad.news/7193650",
+     "source": "صدى البلد",
+     "time": "2026-11-25T03:15:01.000Z",
+     "seen": "2026-11-25T03:21:45.163Z"
+    },
+    {
      "title": "الإعلان عن أول اتفاق ائتلافي مُفاجئ لتشكيل حكومة إسرائيلية جديدة | تفاصيل",
      "url": "https://www.elbalad.news/7193649",
      "source": "صدى البلد",
@@ -157,20 +171,6 @@
      "title": "وزارة العمل تعلن فرص عمل جديدة بالبحيرة.. والرواتب تصل إلى 30 ألف جنيه",
      "url": "https://www.youm7.com/story/2026/11/25/وزارة-العمل-تعلن-فرص-عمل-جديدة-بالبحيرة-والرواتب-تصل-إلى/7629281",
      "source": "اليوم السابع",
-     "time": "2026-11-25T03:00:00.000Z",
-     "seen": "2026-11-25T03:01:44.828Z"
-    },
-    {
-     "title": "«الغندور»: ياسين منصور يرفض تولّي حسام حسن تدريب الأهلي",
-     "url": "https://www.elbalad.news/7193621",
-     "source": "صدى البلد",
-     "time": "2026-11-25T03:00:00.000Z",
-     "seen": "2026-11-25T03:01:44.828Z"
-    },
-    {
-     "title": "«شبانة» عن بيان لاعبي الزمالك: سيناريو مقصود لإشعال الأزمات داخل النادي",
-     "url": "https://www.elbalad.news/7193597",
-     "source": "صدى البلد",
      "time": "2026-11-25T03:00:00.000Z",
      "seen": "2026-11-25T03:01:44.828Z"
     },
@@ -353,6 +353,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الحوثيون يتقدمون نحو عدن ويهددون باستهداف جدة وجميع الموانئ السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nV3B6NnpHZXRjbGYwU29rQjVqcFlIbThsU3B6MEVvRXQzZVgxXzV4WjdIWXotYTlXZGpHN1hwQjlqc2M4VDZWWGlGWGgwbHQtMmhwNThLeG1BUjA1TnfSAWNBVV95cUxPQ3JKNmNwTG9aTmZJSTREd1lkVTNTV3BMZFZjT1Nnbk1LVDhuaWVxbkxPMzVObmVvXzZzNXVvYzVEZWF3QjVDYjdKY3ZVQkRYQWxDYTA4MGdkOXAwekxGVl93eTA?oc=5",
+     "source": "BBC",
+     "time": "2026-11-25T02:45:04.000Z",
+     "seen": "2026-11-25T01:31:27.545Z"
+    },
+    {
      "title": "السعودية تعلن استهداف ميناء الحديدة ومحافظتي صعدة وعمران",
      "url": "https://www.skynewsarabia.com/middle-east/1906920-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%AA%D9%8A-%D8%B5%D8%B9%D8%AF%D8%A9-%D9%88%D8%B9%D9%85%D8%B1%D8%A7%D9%86",
      "source": "سكاي نيوز عربية",
@@ -407,13 +414,6 @@
      "source": "الجزيرة",
      "time": "2026-11-24T23:43:34.000Z",
      "seen": "2026-11-25T03:01:44.828Z"
-    },
-    {
-     "title": "الحوثيون يتقدمون نحو عدن ويهددون باستهداف جدة وجميع الموانئ السعودية",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nV3B6NnpHZXRjbGYwU29rQjVqcFlIbThsU3B6MEVvRXQzZVgxXzV4WjdIWXotYTlXZGpHN1hwQjlqc2M4VDZWWGlGWGgwbHQtMmhwNThLeG1BUjA1TnfSAWNBVV95cUxPQ3JKNmNwTG9aTmZJSTREd1lkVTNTV3BMZFZjT1Nnbk1LVDhuaWVxbkxPMzVObmVvXzZzNXVvYzVEZWF3QjVDYjdKY3ZVQkRYQWxDYTA4MGdkOXAwekxGVl93eTA?oc=5",
-     "source": "BBC",
-     "time": "2026-11-24T23:09:46.000Z",
-     "seen": "2026-11-25T01:31:27.545Z"
     },
     {
      "title": "بعد توعُّد الحوثيين.. \"التحالف\" يطلب من المدنيين \"إخلاء\" ميناء الحديدة",
