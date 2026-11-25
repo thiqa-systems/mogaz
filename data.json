@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:12:59.119Z",
+ "updated": "2026-11-25T14:22:58.439Z",
  "minute": [
   "وافق مجلس الوزراء المصري على تسعة قرارات جديدة، واصلت السلطات الرقابية جهودها بضبط مصنع مخالف بسوهاج ومتابعة شكاوى ضد منصات ولعبة إلكترونية.",
   "وعلى الصعيد الاقتصادي، سجل سعر الدينار الأردني ارتفاعاً مقابل الجنيه المصري في البنك الأهلي، في حين شهدت السندات الأمريكية العشرية انخفاضاً في عائداتها.",
@@ -10,44 +10,44 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T14:12:59.119Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T14:22:58.439Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.64,
-   "change": 0.79,
-   "asOf": "2026-11-25T14:12:29.000Z",
+   "value": 54.53,
+   "change": 0.59,
+   "asOf": "2026-11-25T14:18:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5396,
-   "change": -0.67,
-   "asOf": "2026-11-25T14:03:28.000Z",
+   "value": 5390,
+   "change": -0.78,
+   "asOf": "2026-11-25T14:13:04.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6160,
-   "change": -0.67,
-   "asOf": "2026-11-25T14:03:28.000Z",
+   "value": 6154,
+   "change": -0.78,
+   "asOf": "2026-11-25T14:13:04.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3510,
-   "change": -1.45,
-   "asOf": "2026-11-25T14:03:28.000Z",
+   "value": 3514,
+   "change": -1.36,
+   "asOf": "2026-11-25T14:13:04.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0949,
    "change": 0.37,
-   "asOf": "2026-11-25T14:12:48.000Z",
+   "asOf": "2026-11-25T14:22:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.2,
-   "change": -2.41,
-   "asOf": "2026-11-25T14:02:54.000Z",
+   "value": 89.34,
+   "change": -2.25,
+   "asOf": "2026-11-25T14:13:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58278,
-   "change": -2.46,
-   "asOf": "2026-11-25T14:13:27.000Z",
+   "value": 58317,
+   "change": -2.39,
+   "asOf": "2026-11-25T14:23:10.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بتكلفة 220 مليون جنيه.. افتتاح مستشفى طب وجراحة العيون بالزقازيق",
-     "url": "https://www.elbalad.news/7194268",
+     "title": "حتى الخامسة صباحا.. الأنبا يؤانس يكشف تفاصيل سهرات كيهك 2026",
+     "url": "https://www.elbalad.news/7194284",
      "source": "صدى البلد",
-     "time": "2026-11-25T14:12:31.000Z",
-     "seen": "2026-11-25T14:12:59.119Z"
+     "time": "2026-11-25T14:21:37.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
     },
     {
-     "title": "رئيس الوزراء العراقي يطمئن ممثلي كردستان: لا نسعى إلى عمل عسكري.. وتصاعد الخلاف حول النفط والمنافذ الحدودية",
-     "url": "https://www.elbalad.news/7194273",
+     "title": "جلسة خاصة من معتمد جمال مع لاعبي الزمالك قبل مواجهة الإفريقي",
+     "url": "https://www.elbalad.news/7194280",
      "source": "صدى البلد",
-     "time": "2026-11-25T14:11:16.000Z",
-     "seen": "2026-11-25T14:12:59.119Z"
+     "time": "2026-11-25T14:20:46.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
     },
     {
-     "title": "طلعت محرم مديرًا فنيًا للمقاولون العرب خلفًا لسامي قمصان",
-     "url": "https://www.elbalad.news/7194269",
+     "title": "الأقصر.. سرعة الانتهاء من مشروعات الطرق قبل العيد القومي للمحافظة",
+     "url": "https://www.elbalad.news/7194253",
      "source": "صدى البلد",
-     "time": "2026-11-25T14:10:39.000Z",
-     "seen": "2026-11-25T14:12:59.119Z"
+     "time": "2026-11-25T14:20:18.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
+    },
+    {
+     "title": "وزيرا الصحة والاتصالات يشهدان توقيع بروتوكولي تعاون لتوفير وحدات غسيل كلوي للأطفال",
+     "url": "https://www.youm7.com/story/2026/11/25/وزيرا-الصحة-والاتصالات-يشهدان-توقيع-بروتوكولي-تعاون-لتوفير-وحدات-غسيل/7632251",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T14:20:00.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
     },
     {
      "title": "الأزهر يفتح باب التقديم برواق العلوم الشرعية والعربية",
@@ -180,13 +187,6 @@
      "time": "2026-11-25T13:39:00.000Z",
      "seen": "2026-11-25T13:52:59.013Z",
      "impact": "تؤثر القرارات الحكومية الجديدة بشكل مباشر على بيئة الأعمال والأنشطة الاقتصادية والتنظيمية للمواطنين والمستثمرين في مصر."
-    },
-    {
-     "title": "د. محمد سعودي يلقي ورشة عمل عن السرد القصصي الرقمي لطلاب الإعلام",
-     "url": "https://www.youm7.com/story/2026/11/25/د-محمد-سعودي-يلقي-ورشة-عمل-عن-السرد-القصصي-الرقمي/7632238",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T13:37:00.000Z",
-     "seen": "2026-11-25T13:42:43.404Z"
     },
     {
      "title": "مدبولي يوافق على تخصيص 15 مليار جنيه لتمويل آلات ومعدات قطع غيار السيارات",
@@ -245,17 +245,24 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "الكنيست يصادق تمهيدياً على مشروع قانون لتشكيل لجنة تحقيق في هجوم السابع من أكتوبر بميزانية مليوني دولار",
-     "url": "https://www.bbc.com/arabic/articles/cmg46re3qkego?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T13:53:44.000Z",
-     "seen": "2026-11-25T14:02:58.758Z"
+     "title": "ارتفاع الدولار أمام الجنيه في ختام تعاملات الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nZnMzUkU3RlZSd3o0QzBRX3d1RlRXcGhJamZfcEhLVU1FWmtydDg2dFI5dWVFVGF4elNnX1BWRXF6TjB4aF9Z?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-25T14:17:00.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
     },
     {
      "title": "سعر الدولار في مصر اليوم الأربعاء 25/11/2026.. ارتفاع بالختام",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FWEtISUEtdGZaaWFQeFd1OEFGNDl5UFQ3cllZb241c3JSNDhodmstT3ltMUdEanI1ZkhXMkNtTzdyeTlvX1JSb3l4ald2LUE3b1ZmaFp3?oc=5",
      "source": "جريدة البورصة",
-     "time": "2026-11-25T13:53:00.000Z",
+     "time": "2026-11-25T14:15:00.000Z",
+     "seen": "2026-11-25T14:02:58.758Z"
+    },
+    {
+     "title": "الكنيست يصادق تمهيدياً على مشروع قانون لتشكيل لجنة تحقيق في هجوم السابع من أكتوبر بميزانية مليوني دولار",
+     "url": "https://www.bbc.com/arabic/articles/cmg46re3qkego?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T13:53:44.000Z",
      "seen": "2026-11-25T14:02:58.758Z"
     },
     {
@@ -272,6 +279,13 @@
      "source": "BBC عربي",
      "time": "2026-11-25T13:46:42.000Z",
      "seen": "2026-11-25T13:52:59.013Z"
+    },
+    {
+     "title": "عاجل: التضخم الأمريكي أعلى من المتوقع",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83d3QxWE4yZWlZRnVzdmJ0QTZveTlESUFOb0hQMFh1UnRnTWxoX3lpTE1BTzloNkdLNkc5U0lKUHpaSHNLYUFUQ1FaS1dZclVCTnh6bnUwTlZROWpuMll3UTk4NUkzak9xLUFsTXhEY3BVaFk?oc=5",
+     "source": "Investing.com",
+     "time": "2026-11-25T13:32:00.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
     },
     {
      "title": "انخفاض عائد السندات الأمريكية العشرية بأكثر من 8 نقاط أساس",
@@ -333,22 +347,6 @@
      "time": "2026-11-25T11:23:00.000Z",
      "seen": "2026-11-25T11:32:43.730Z",
      "impact": "متابعة سعر اليوان تهم المستوردين في مصر لتحديد تكلفة البضائع والمكونات الواردة من السوق الصيني."
-    },
-    {
-     "title": "سعر الدولار في مصر يقفز إلى 54.70 جنيه لأعلى مستوى في 3 أسابيع.. ما الأسباب؟",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBidm9iZ2YydldFdWg1VkVGNHBCdkh4WUxfSUNjc3NGR1piQzJ6aExNNzdKLUEwa2tfMVh4NWpkdnFic09oR3NhWVZlbUNfX3ZhLUd5Z1JhYjIzR3c1RFh3S2dwMk9wb00?oc=5",
-     "source": "Investing.com",
-     "time": "2026-11-25T11:12:00.000Z",
-     "seen": "2026-11-25T12:02:44.221Z",
-     "impact": "وصول الدولار لأعلى مستوى في 3 أسابيع يعيد تقييم تكاليف المشاريع الاستثمارية المعتمدة على العملة الأجنبية."
-    },
-    {
-     "title": "سعر الدولار يواصل ارتفاعه اليوم الأربعاء 25 نوفمبر 2026 في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPOXNSLWdMRWR3aFVMMW1kc18zazV6OVpySWpZcUVIZnVxM1M3YmpuTFM4UE5OYTVKTUdBTVhNeDQzZktpQWRtajYzTi1jLWt0Ym93RDEzb2U4SEpNMnhJcG1PYnducGVBUkpmYnF4UlpRMDFPU0pEWXg2QjNKbjVTa3l6Q1NTN185RVlGWVdwbXR4blFyYkZ2THBWdVNqeEdxbmk4NGlKemxsS1NsTml1M19rZUtBMVFQODFGU1RZSTYteGI0dzNuS01SSGJiN05VcDVTeWdENXBiX0JRNTUwWkJrUnNCVzFUaGR6X2xuYmlUZDdHRDV2Wlp0R3FPSjUtaC13R01tU1RsMXJ5R3hOcUhhZk1QQmIxSDNrSXEtMnd0aFFZMUZYY2MwdnlaWnZpXzE5aHN3OG1zbnhTbWxGWGVJYzBsY3dZWHJ1SXVuZ0ZlckJqM0dZNngyY2ZpVDZ6ckNnNUV4eEt6VkVNRTdrbzROUGJaNXNzMVdGejNUeXlFVm9JTlVqX1JvWE9sMG16dFhLV3FxSFBrUVlxejRtN0FUU013MFdPbnJOSlZMZWhsbDlrb192azZoTFV2MWpJQXVoWk9PRdIBwgNBVV95cUxQY0JJYmt2dUd1dktHMmtic1R0V04za0ltdlo5UUl4ek9YMEJyNDlHbjNTY2d4NnZ5Vjl5NEpKQXZEYUo5V09Ya0xCbER6amQyWFFQTVUwbEdzRExZaC11anhhakVmamxnRWtOWS1aeEhNZTV5OXRlUVlXZzcycHl0bVItdF81TlJYckNqSEhqNXJZS3RxMWc2SDRqRUJHT3pTSmx2UnJmNXlsZnNsUkN1bjhMV3ViLVotUFJwVm9OeGFsSmltbk5mMW13VGZhSEdhRl9hYlk5MEZGM2JnVlVqZmpENUdZMklWRnczTWhsMWFvMFdycUd4bktSN1pqSVZELUZ4elZsZGhFckRYdmhtTWNLZDl1OE14ZWJ3czlaRFNLaUEyVm5MWUxCdlhkMC1sU29SR3duSEQyN2kxb1J2cjgtSXhsUnlDallmMUJKLTBmSFUwUFpNSDhGeHcwOFNyTUI1S0podU9OUEswWmNvTGtsUFhiWnpra1ZVcjNIVnFpejNUbXVwczdDSWx0WUZrNWJOWkl1R1drOW5Fa2EtaVN1UHUxY01rdGxrc21oRFc4UlhKaU5mNm5kdl9Xa0d0bHc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T11:10:00.000Z",
-     "seen": "2026-11-25T11:22:43.348Z",
-     "impact": "استمرار صعود سعر الصرف بالبنوك ينعكس بشكل مباشر على أسعار السلع والخدمات في السوق المحلي."
     }
    ]
   },
@@ -356,6 +354,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "المحكمة الاتحادية العليا العراقية تجيز نشر قوات حدودية في إقليم كردستان لتأمين البلاد",
+     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261125-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AC%D9%8A%D8%B2-%D9%86%D8%B4%D8%B1-%D9%82%D9%88%D8%A7%D8%AA-%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
+     "source": "فرانس 24",
+     "time": "2026-11-25T14:17:11.000Z",
+     "seen": "2026-11-25T14:22:58.439Z"
+    },
     {
      "title": "ملف تفاعلي.. نفط العراق.. أين تختفي هوية البرميل؟",
      "url": "https://www.skynewsarabia.com/middle-east/1907038-%D9%85%D9%84%D9%81-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A-%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%AE%D8%AA%D9%81%D9%8A-%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
@@ -383,13 +388,6 @@
      "source": "فرانس 24",
      "time": "2026-11-25T13:14:03.000Z",
      "seen": "2026-11-25T13:22:43.994Z"
-    },
-    {
-     "title": "فرنسا تعتبر هجمات أوكرانيا على سفن روسية قبالة سواحل ليبيا \"دفاعا مشروعا عن النفس\" وإيطاليا تنتقد",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261125-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B3%D9%81%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%88%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AF%D9%81%D8%A7%D8%B9",
-     "source": "فرانس 24",
-     "time": "2026-11-25T13:07:28.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
     },
     {
      "title": "وكالة الأنباء العراقية: القبض على مسؤول عراقي سابق في مصر بتهم فساد",
@@ -568,6 +566,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
