@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-25T09:32:43.903Z",
+ "updated": "2026-11-25T09:42:44.237Z",
  "minute": [
-  "تناولت الأخبار تحذيرات جهاز حماية المستهلك والأزهر الشريف وتوصية برلمانية في مصر بشأن الجمعة البيضاء وتأثيرات لعبة 'جاتا 6'.",
-  "أعلنت وزارة العمل المصرية عن توفير 580 فرصة عمل في عدة محافظات برواتب تصل إلى 35 ألف جنيه.",
-  "سجلت الأسواق ارتفاعاً في سعر الدولار مقابل الجنيه المصري صباحاً، إلى جانب تزايد خسائر الأسهم العالمية وتراجع النفط.",
-  "تضمنت المستجدات الدولية تحركات لوقف حرب السودان ومسائل عسكرية وتطورات رياضية في كأس أمم أفريقيا."
+  "أعلن رئيس الوزراء المصري عن وصول استثمارات قطاع تصنيع السيارات في مصر إلى خمسة مليارات دولار موزعة على 18 شركة و27 مصنعاً.",
+  "شهدت التعاملات المصرفية في مصر ارتفاعاً في سعر صرف الدولار الأمريكي أمام الجنيه في مستهل التداولات.",
+  "تراجعت أسعار النفط عالمياً بفعل مخاوف فائض المعروض، بينما سجلت كبرى أسهم التكنولوجيا والذكاء الاصطناعي تراجعاً حاداً.",
+  "أعلن الحوثيون استهداف مواقع ومنشآت في السعودية، في حين شنت المملكة غارات على ميناء الحُديدة باليمن."
  ],
  "ai": {
-  "at": "2026-11-25T09:12:43.903Z",
-  "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T09:32:43.903Z"
+  "at": "2026-11-25T09:42:44.237Z",
+  "model": "gemini-3.8-flash",
+  "key": 2,
+  "impacts": 10
  },
  "markets": [
   {
@@ -28,54 +26,54 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5417,
-   "change": -0.27,
-   "asOf": "2026-11-25T09:23:07.000Z",
+   "value": 5414,
+   "change": -0.32,
+   "asOf": "2026-11-25T09:33:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6185,
-   "change": -0.27,
-   "asOf": "2026-11-25T09:23:07.000Z",
+   "value": 6182,
+   "change": -0.32,
+   "asOf": "2026-11-25T09:33:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3555,
-   "change": -0.2,
-   "asOf": "2026-11-25T09:23:07.000Z",
+   "value": 3553,
+   "change": -0.25,
+   "asOf": "2026-11-25T09:33:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50851,
-   "change": -0.07,
-   "asOf": "2026-11-25T09:18:08.000Z",
+   "value": 50887,
+   "change": 0,
+   "asOf": "2026-11-25T09:28:10.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.094,
-   "change": 0.29,
-   "asOf": "2026-11-25T09:32:46.000Z",
+   "value": 1.0942,
+   "change": 0.31,
+   "asOf": "2026-11-25T09:42:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.21,
-   "change": -3.49,
-   "asOf": "2026-11-25T09:22:50.000Z",
+   "value": 88.64,
+   "change": -3.02,
+   "asOf": "2026-11-25T09:33:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58836,
-   "change": -1.53,
-   "asOf": "2026-11-25T09:33:05.000Z",
+   "value": 58800,
+   "change": -1.59,
+   "asOf": "2026-11-25T09:43:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +138,57 @@
    "title": "مصر",
    "items": [
     {
-     "title": "اليونان تعتزم تعزيز مشاركة شركات الدفاع المحلية في صفقات التسليح وتطوير الطائرات المسيرة والذكاء الاصطناعي",
-     "url": "https://www.elbalad.news/7193909",
+     "title": "صناديق بيتكوين الأمريكية تتجه لأكبر موجة خروج شهري منذ إطلاقها في 2024",
+     "url": "https://www.elbalad.news/7193930",
      "source": "صدى البلد",
-     "time": "2026-11-25T09:31:16.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "time": "2026-11-25T09:42:08.000Z",
+     "seen": "2026-11-25T09:42:44.237Z",
+     "impact": "يؤثر مسار السيولة في صناديق البيتكوين العالمية على قرارات الأفراد والمستثمرين المهتمين بالأصول الرقمية في مصر."
     },
     {
-     "title": "رئيس الوزراء يشهد مراسم إطلاق تصنيع سيارة \"شيڤروليه جروڤ\" محليا",
-     "url": "https://www.elbalad.news/7193903",
+     "title": "أفعال خادشة للحياء.. القبض على شخص لمضايقته الفتيات بالقناطر",
+     "url": "https://www.elbalad.news/7193917",
      "source": "صدى البلد",
-     "time": "2026-11-25T09:30:18.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "time": "2026-11-25T09:41:17.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
     },
     {
-     "title": "أسعار النفط اليوم| برنت يهبط بقوة لـ89 دولارا.. هل بدأ الانهيار؟",
-     "url": "https://www.elbalad.news/7193886",
+     "title": "النفط يتراجع مع تفوق مخاوف فائض المعروض على مخاطر اضطراب الشحن في الشرق الأوسط",
+     "url": "https://www.elbalad.news/7193928",
      "source": "صدى البلد",
-     "time": "2026-11-25T09:30:07.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "time": "2026-11-25T09:40:24.000Z",
+     "seen": "2026-11-25T09:42:44.237Z",
+     "impact": "يسهم انخفاض أسعار النفط عالمياً في تقليل الضغوط على تكلفة استيراد المشتقات البترولية في مصر."
+    },
+    {
+     "title": "مدبولي: 18 شركة و27 مصنعًا للسيارات في مصر باستثمارات 5 مليارات دولار",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE02T3FqZWI3QTR0U2FHUkVPY1VhZ3N6WV9aOUhqZ2QxZ2h6SWZOWllCWWc5OEMySGFFMXRSS0Z0NUU0NmRC?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T09:35:18.000Z",
+     "seen": "2026-11-25T09:42:44.237Z",
+     "impact": "يوضح للقطاع الخاص حجم التوسع الحكومي والفرص الاستثمارية المتاحة في سلاسل توريد وتصنيع السيارات بمصر."
+    },
+    {
+     "title": "مدبولي: \"جنرال موتورز\" شريك أساسي في مسيرة التنمية الصناعية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIeVdTWnBiZjY4RlFFa090NXpEeFJiaEx4UXlfdHp5eFcxcWNVX1hQeExDUk9JN3lESG1yUTVkRzE0ZEZk?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T09:32:18.000Z",
+     "seen": "2026-11-25T09:42:44.237Z",
+     "impact": "يعكس للمستثمرين مدى استقرار بيئة الاستثمار الصناعي وجذب الشركاء الأجانب للسوق المصرية."
+    },
+    {
+     "title": "5 مليارات دولار استثمارات، مدبولي يكشف بالأرقام خريطة صناعة السيارات في مصر",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrYURGanV3RW1ob1hrRDJ2VnZ2Tlotd3ZSTWtsaktsTUk3WVYtNmRwRVBLbnRSV2FuOUpRaFh0Y01jZEFZQ0hN?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-25T09:32:00.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
+    },
+    {
+     "title": "مدبولي: صناعة السيارات ركيزة لتعزيز اندماج مصر في سلاسل الإمداد العالمية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkcHdGNl9zc1F5SXNFOWdBLVVYakZtRkFtMWJxc1pJTWR2ZjJQak1VcGpnSWYzTGlxZTBCNlNIUHoxNzZ5?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T09:31:51.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
     },
     {
      "title": "ضبط كمية من الدقيق المدعم بالصف قبل بيعها في السوق السوداء",
@@ -182,6 +212,13 @@
      "seen": "2026-11-25T09:32:43.903Z"
     },
     {
+     "title": "مدبولي: مصر تمتلك قاعدة صناعية متنوعة في قطاع السيارات تضم 18 شركة",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wNEo1QW1lZXFvbml3TXdKOVUxM0twT09KbTVqQUJmSDdzR0RhSF90Y3ZuQW9JdHNvME0tLXBFbXBmckw4a3laOFhHdmR0SmZCR1M5Rm5Ndkt4UzRP?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-25T09:24:18.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
+    },
+    {
      "title": "مدبولي يشهد بدء إنتاج شيفروليه جروڤ بمصنع جنرال موتورز في أكتوبر | مصراوي",
      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPNWViSm04bEVod1VtQjA4OGIxQzl5WF90T2Z1NC1VcG5lSVh3TkYwb00xNlhwQ0o2ekMyLUZxT3pjcWlLN1FLRDJ4dnM1ekUzWURWTHZRNGlsMGc1bTV6ekJjOUdKb21menVpTDJaWGQzUTF4YVp1dkVZVVRwSTlfc2s3cXNDVVppNUdsWmRjT1dvb2FybGI4ZS0wQXpJNmMzT0RZeFNtZnlVQjQ2ZWZyLXROUlZkRUowVFFjUEJVeG1HaEZIUTllQnQzZHM1b0htdWpRNURpWXJqYURpbzRkZWRITjlsb3VCOUxOZVVuemcwQ1ctbXJaYmFNc0ZWa3k5X0s3d3FtV2kxMnN6U2szZ1dsSDVZZncyblJELUtSdklJNkFoWkFpcV9PTjJoUU02Y0Q3YVF5cElDN1FuWmlSNkFacjRaY25XUFRvSHFqVVI4TDI0emVlMWdIZHd5a2NYSEZTanZzQXpOa3pyOFUyMlJXbTcyZG9RNy1nTkFPaTg2ZmwwRlRnN2N3TzIwaGVicjdOODJSd0tmbHBFNm1tSzRucTc0RTRncnFBWlZiTVFxNXBzOHNCbDlkVjdCcnFDV1BTUXVaSEQ0SHZxRjkteEFxdVhWNFZNTTZBeGUtSXh0amk3bFcyQjJ0RDJUQ0NVZHNReUY4LUJvNVBiSzh1dXF2TUo3d2FzbXdOeFhDV0EwOWVSRmVKQkVSdWZOSHZRejlOZExJUFBrWkpqbmlEU2JjdFJNRmxaSzdWa0R3cl83a3pnVnZxNmlaOVZYY2s?oc=5",
      "source": "Masrawy",
@@ -201,41 +238,6 @@
      "source": "بوابة الشروق",
      "time": "2026-11-25T09:17:53.000Z",
      "seen": "2026-11-25T09:22:44.065Z"
-    },
-    {
-     "title": "مدبولي: سعداء بإطلاق التصنيع المحلي لسيارة شيفروليه \"جروف\" بمصنع جنرال موتورز",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBmQl9IUVFxM2lnYXVRYmV2RkxnemFPQjFqMDBTMTJ0YkFvQm1aUnJyZUpoZ1hZVVA5WmZldVY4cUczZGt6?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T09:09:10.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
-    },
-    {
-     "title": "مدبولي يشهد فيلمًا تسجيليًا عن رحلة «شيفروليه جروف» بالتزامن مع إطلاق تصنيعها محليًا",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hNnJKb1JyX1M2VkVuc1BtOHBzQ2k2a25KdG1RRVNoTXNsUFYwOEJhV3ZRV1dtdC1iLTZFRHhWLWR6OGd0?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T09:07:51.000Z",
-     "seen": "2026-11-25T09:12:43.903Z"
-    },
-    {
-     "title": "مدبولي يشهد انطلاق إنتاج «شيفروليه جروف» في أكتوبر.. و45% من مكوناتها محلية",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jSUpNMnRVM2ZiX09XclJHc2w1QkRUS1RzMUoxcVB1VVBjWXozWkdkTVhESGxBd1U3S3c5S2NPUmRzQ0tYNHEw?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-25T09:05:00.000Z",
-     "seen": "2026-11-25T09:12:43.903Z"
-    },
-    {
-     "title": "مدبولي: صناعة السيارات تحظى باهتمام الدولة ونعمل على توفير المكونات الأساسية لجذب الاستثمارات",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTTg2NmZBb2k3dHFEUnF5blhKVW1qT3Bvejg0WUIzVmZydHZENEhBYml3TUd0bkk5cUhHMmUtd0JQX3ViWFdQbi1mRE8tNHdIbkw0NXR1RzJtNjVuUnAwYl83OUhoMjl6Y0JoTkJDVmVrQ3pna1ZVU21kNjFhaEF4WWdYbEozLXF0anpTU3lQSWZSS1Q4Zk55ZDhZU1p6V0wxNmpEbXlocnVkM2pISVhmZ1NNVG5oR1RXTllXZm9mdzJIMm4xUXJzU0pMUGY0TGZRNjFYQU5qVHVzd0g5bEQ4OTlmX0h1WVowX3ZjSzRnLXR3VFF4TWFNY0VqV211TjJPUUdJYnk2SXlfNDl1V1VxeXdjTXdWbm12MlMxejd1bnNZdlRfd2NfN1c5TVhMRlQzNUIwOHJSWG5McWNmdUpGbGlYU3NBRzQtenFSQU4wNWJTeW1mZktWM05ITUJVNWlqeDR0bTFYZ0ttcVFNdFgwSDE2VXRwLVdfMUFJVnpn?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-25T09:03:46.000Z",
-     "seen": "2026-11-25T09:12:43.903Z"
-    },
-    {
-     "title": "مدبولي : مصر تشهد اليوم اطلاق سيارة شيفرولية جروف بنظام التجميع الكامل",
-     "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNS3BJOFVraEgxbVNaR3pURll1WEFlWGVaYVBfVi11VVJUYUZPRVdaQWF6QzZtQnQtdVAtZ05kRlBJT2tWbU9oN3NBdXFaMHlmaEN6ZkxobC1wWmNqbTFCTmFTNC1vMWVHTEV6MlJUZXV3WExwTzdKbzFDSHZVa2t5V3NBVy14aXFVbjJrYjVNdDZWbTJnd2dFLVNTcGpXbXUycGNDb0NaTXdrMUFXeV95MzVTMkU0a0h2TFZOVXFKSENIWnQ1WDBkdFBFeGVueEY1MVhjb2hGRGFlcWVYU2E1S2hYSGxHWVpYRG9LZTdCZmdUUjRYZDVFdHliX2VTV0F5ckFNTEdUMkVON3pBUEJEcHB2bTVlTFc0TUwyTW9rSXVTVjBabDVsN3NYSWlDdnVZUFVlT3RhNmlhUkdFWXRhN1d5WmRIR0Z4dTlqSmYzVVdFUFo4dkc4NjdOQjJWQS1zX0FPTnl5TWktQXZ3ZXA1ci0zUGh4Y0hxcjFBamlQSENPZFFXX2llbVdkVXl0OGQybk9KSHB4Z2tHY3M2WWlrTDB2NmI5NW5xWmtQNXhyMzdvWGJXZ1JZSEltVVJhaS1naEtRRnUtUXpIU0ZMUW1EakplNElmWk9EU3hkNVVvMXpaeDFCbkJ1QjlfWlBRb1pzdXlsc0N5UFNxVnRHcHhKbkhPd25YMWFad1gtZnpyN3hSRkNfSFEzQzhPOXlMZmpyampMMzhoR2ZYcWF2VTRMYkQ4cWQya1dWWDlkZA?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-25T09:01:00.000Z",
-     "seen": "2026-11-25T09:12:43.903Z"
     }
    ]
   },
@@ -248,7 +250,8 @@
      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQczU0MWRnRmVyWHZ0WVc2NDFTS29rVkhKQ3ZzWDZicjlOLVVsR2dQSlpHRm92dkhhdU9rOXlXRGdlQzlRRXNKN1lFZVppel8zc2NfTVBjX0FMc1lDR29pcG92Ykl3cl95N2xlNGdSVUdyYmotWWFHc3d2RlJlQlBJM214T3VKMGFNN1BvSnlSVEdWeFViTDVybjdOZVFIRXFndzRINkpjbUxHcnI1aGE0aUx5XzVOYU1ZcUowa1E4V25STlY1QzVmdThZY1hnU3ptdzRlYlBQUDZROFdsdWtlWGdtTTBabThsUHc2cll0X0s3R1Jxc2g4b1k3Q1ZqeS1qNG1RZ2tWVDJ0bkRvOURCbUVjVEhDT0YzZm9GOVU1WHE?oc=5",
      "source": "جريدة المال",
      "time": "2026-11-25T09:29:36.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "seen": "2026-11-25T09:32:43.903Z",
+     "impact": "يساعد الأفراد والشركات في مصر على معرفة الأسعار الرسمية المعلنة من البنك المركزي لتحديد كلفة المعاملات بالعملة الأجنبية."
     },
     {
      "title": "ارتفاع سعر الدولار أمام الليرة السورية في مصرف سوريا المركزي اليوم الأربعاء",
@@ -262,7 +265,8 @@
      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNX1dWejVRcWtER0xuOFZqTHBJUkk0dTZuelY4QjJHUHFzTU1DellMQUthMzVfd1lMcWRhNER4My1fRlRoYTZnOGhacnUzZ1VFdm9pR3hrY084bWMzQ1Z4a25HZll5V1VtNXpka1lDOXctckRycUMxZU9LSllQRGo5MldWUGs5bW1jM0RIMjZ3SGU3UFJQXzJkcFR3YmI0aTgyRXc2ZnVQTFhpcHR2VTJnR1RDTllVMXh5YTRBU3hDQlJ2ZVgyYnFXVERFZl91UnBGN21xdFo2eTF0Tk52QXU0bGZBbUtfclkyd2RsNHM2aDZaaVdiaWZTb1ItU3VDOWZpLWc1TERDeDV4M1M1eWN2RnRFdWJOanU5QWZRbkdRaW90V3hsd2NMamNGZERLZUNqMS16SDRWVkwyTzhJRG1rOGlvTmkwZkhxenFmSVR1QzQtN1dmVVF4UXV5OG4zOUV2RVVDQ0l3MEU4YzJPUE9QUtIB9gJBVV95cUxQblZGb0l5emxGWDZNZ01wNDVsTGN4NWVWODdEc3VlRWhndndrZ2QwZXk1elBqTEpiMFFmYlNJNTBKdURoZlZKbkFjVGtwd1NNSDFKUExqQVRldTY3QW1LR243TUVhbEtPazFHWVNHaE8ydkttTFJhTFkyT1BQVHZ2ZE1tWDZoLWpxcWh1TWhNRTEtX2hQTEFZdHVZN3kzbzlrejd6MDg3bzZudWZndTd2ZDl2bEtwNk1uYkpUel83QXRLbVdnc3k1T0tadU1FMWZ6YkRIdjJ1V1dLU3pfc2JlNExvRmlmc0pHdFk0NUZETVo4UGJsZktrR3ZCSWdHd2hwb0lfNE44MFJVY256WTh3NVhvNWxJTDE5ZzdJTlROUElMeU80QW9fdWxJLURuU0VsaVBvMVdQdzVNd1RyLXZZM0otWm5UNE1nRXNFa3Q4MFdSb3B4bHNBcVpkeVdGSXJleHZablN6MW01djVZTmhRbFg1TUhEdw?oc=5",
      "source": "العربية",
      "time": "2026-11-25T09:11:00.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "seen": "2026-11-25T09:32:43.903Z",
+     "impact": "يؤثر صعود الدولار أمام الجنيه المصري على تكاليف استيراد السلع ومعدلات التضخم بالنسبة للمستهلكين والمنتجين."
     },
     {
      "title": "تحديث سعر الدولار اليوم في مصر.. كم سجلت العملة الأمريكية في البنوك؟",
@@ -277,7 +281,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T08:52:00.000Z",
      "seen": "2026-11-25T09:02:43.538Z",
-     "impact": "يهم المستثمرين والمواطنين في مصر لمتابعة تأثير ارتفاع سعر الدولار على أسعار السلع والقوة الشرائية."
+     "impact": "يهم المستوردين والمستثمرين لتسعير تعاملاتهم اليومية فور بدء حركة التداول في البنوك المصرية."
     },
     {
      "title": "أزمة الإسكان العالمية: اكتشف ما الذي يتطلبه امتلاك منزل في المكان الذي تعيش فيه",
@@ -354,6 +358,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الأمين العام للمحكمة الرياضية يشرح تفاصيل قرار تجريد المغرب من لقب الكان وإعادته للسنغال",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%8A%D8%B4%D8%B1%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AC%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%85%D9%86-%D9%84%D9%82%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D9%86-%D9%88%D8%A5%D8%B9%D8%A7%D8%AF%D8%AA%D9%87-%D9%84%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84",
+     "source": "فرانس 24",
+     "time": "2026-11-25T09:32:55.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
+    },
+    {
      "title": "جرائم قتل النساء في فرنسا: الأطفال الأيتام... ضحايا في طي النسيان",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%87%D9%86%D8%A7-%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261125-%D8%A3%D9%8A%D8%AA%D8%A7%D9%85-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D9%86%D8%B3%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A3%D9%85-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
      "source": "فرانس 24",
@@ -379,14 +390,8 @@
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nV3B6NnpHZXRjbGYwU29rQjVqcFlIbThsU3B6MEVvRXQzZVgxXzV4WjdIWXotYTlXZGpHN1hwQjlqc2M4VDZWWGlGWGgwbHQtMmhwNThLeG1BUjA1TnfSAWNBVV95cUxPQ3JKNmNwTG9aTmZJSTREd1lkVTNTV3BMZFZjT1Nnbk1LVDhuaWVxbkxPMzVObmVvXzZzNXVvYzVEZWF3QjVDYjdKY3ZVQkRYQWxDYTA4MGdkOXAwekxGVl93eTA?oc=5",
      "source": "BBC",
      "time": "2026-11-25T08:43:16.000Z",
-     "seen": "2026-11-25T01:31:27.545Z"
-    },
-    {
-     "title": "ردود الفعل في السنغال بعد قرار محكمة التحكيم الرياضي إعادة لقب \"الكان\" لمنتخب بلادهم",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%B1%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D8%B9%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-25T08:09:42.000Z",
-     "seen": "2026-11-25T08:11:44.545Z"
+     "seen": "2026-11-25T01:31:27.545Z",
+     "impact": "تثير التوترات العسكرية في البحر الأحمر والمنطقة قلقاً حول سلامة حركة الشحن وسلاسل الإمداد المتجهة لمصر."
     },
     {
      "title": "نزاع المنافذ بين بغداد وأربيل.. ماذا يقول الدستور؟",
@@ -439,18 +444,18 @@
      "seen": "2026-11-25T06:51:44.671Z"
     },
     {
-     "title": "\"نشامى الفجر\" و\"فرسان الفجر\".. كيف توسعت المبادرة الجزائرية بمسميات محلية؟",
-     "url": "https://www.aljazeera.net/news/2026/11/25/%d9%86%d8%b4%d8%a7%d9%85%d9%89-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%88%d9%81%d8%b1%d8%b3%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d8%ac%d8%b1-%d9%83%d9%8a%d9%81-%d8%aa%d9%88%d8%b3%d8%b9%d8%aa?traffic_source=rss",
+     "title": "فرق الهندسة العسكرية تواصل عمليات إزالة الألغام غير المنفجرة في إدلب",
+     "url": "https://www.aljazeera.net/video/2026/11/25/%d9%81%d8%b1%d9%82-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-25T05:55:36.000Z",
-     "seen": "2026-11-25T09:12:43.903Z"
+     "time": "2026-11-25T06:26:54.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
     },
     {
-     "title": "ضجة في إسرائيل حول كتاب عن إيران.. والموساد آخر من يعلم",
-     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQWjBITHhZZFRLR1BtT1h1cVdiRXgxa3VDaEJiR0t2SUc3M0w4eTJVWV9pSW0zNXhQNUJicll1UmpySzJCajVFbWpUVzV2WlhydmQ2OGxpMkJzb1g3VklqZWtpbE55cEM3NExXMzllSUdHZHdUeWdMZGpkUHJfMkNQTi1DMjdnYXJIR0I1LVd1N19oYjRQUXY2QVRlZWxMYWkwQmZ2SGdCc09HQVdPSFF6M0VmakhxTi1hYU5wbWZNRGtubHNYb3RWckw1Uy1FTFkwXzQ3amJGbXhMYkwtX2pRSGpwZU0yYXBMOHlDb2ZvWHk3eUxrcGRlclhhTzJoVUlPbEVNRVE3NWktRjVNa0xCbG8yTFRfQXFzclFiRjlTZVlLWlQwbGQ1anZTUmFMdHA2Ujh6THY4LWItUGdjbDVqNmR3M1VVbGlnaks1LWFrWkoyTjNLTnNwOG1qQV9uRWdiUXVYMGxsY0FsbWFJdG5HLXVpQ1dFd29VVF9kN3FMeGNQYzQ1VW5iT25uSElrd1hqbUhEWGItdEtwZHFDX0ktb3dMMnNrY29yV2lTS3Rxc2gya3g4WDZZMTgyR1JPQVd3aHczbXZOWQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-25T05:55:00.000Z",
-     "seen": "2026-11-25T08:11:44.545Z"
+     "title": "بسبب علم فرنسا والحجاب.. جماعة متطرفة تستهدف منزل إنشايب",
+     "url": "https://www.aljazeera.net/news/2026/11/25/%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b9%d9%84%d9%85-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d9%88%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%a8-%d8%ac%d9%85%d8%a7%d8%b9%d8%a9-%d9%85%d8%aa%d8%b7%d8%b1%d9%81%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-25T06:25:12.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
     }
    ]
   },
@@ -459,31 +464,40 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "سامسونج تخفض مستهدف شحنات هواتفها في 2027 إلى 210 ملايين وحدة",
+     "url": "https://www.tech-wd.com/wd/2026/11/25/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%ae%d9%81%d8%b6-%d9%85%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%b4%d8%ad%d9%86%d8%a7%d8%aa-%d9%87%d9%88%d8%a7%d8%aa%d9%81%d9%87%d8%a7-%d9%81%d9%8a-2027/",
+     "source": "عالم التقنية",
+     "time": "2026-11-25T09:34:59.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
+    },
+    {
+     "title": "محكمة أمريكية تقرر الإفراج بكفالة مليون دولار عن مهندس سعودي سابق في OpenAI",
+     "url": "https://aitnews.com/2026/11/25/%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d8%a7%d8%ac-%d8%a8%d9%83%d9%81%d8%a7%d9%84%d8%a9-%d8%b9%d9%86-%d9%85%d9%87%d9%86%d8%af%d8%b3-%d8%a3%d9%88%d8%a8%d9%86-%d8%a5%d9%8a%d9%87-%d8%a2%d9%8a/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-25T09:34:29.000Z",
+     "seen": "2026-11-25T09:42:44.237Z"
+    },
+    {
      "title": "تريند فورس تخفض توقعاتها لسوق الذاكرة في 2027 وترجح تراجع أسعار NAND",
      "url": "https://aitnews.com/2026/11/25/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%b4%d8%b1%d8%a7%d8%a6%d8%ad-%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-2027/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T09:31:50.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "seen": "2026-11-25T09:32:43.903Z",
+     "impact": "قد ينعكس تراجع أسعار رقائق الذاكرة عالمياً على تكلفة اقتناء وتجميع الأجهزة الإلكترونية في مصر مستقبلاً."
     },
     {
      "title": "أسهم سامسونج وSK Hynix تهوي بنحو 10% و11% مع تجدد موجة بيع أسهم الذكاء الاصطناعي",
      "url": "https://aitnews.com/2026/11/25/%d9%87%d8%a8%d9%88%d8%b7-%d8%a3%d8%b3%d9%87%d9%85-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%88%d9%87%d8%a7%d9%8a%d9%86%d9%83%d8%b3/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T09:31:39.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
+     "seen": "2026-11-25T09:32:43.903Z",
+     "impact": "يعكس هبوط أسهم التكنولوجيا العالمية تقلبات معنويات المستثمرين في الأسواق المالية وتأثيرها المحتمل على التدفقات الدولية."
     },
     {
      "title": "سامسونج تطلق تحديث نوفمبر 2026 الأمني لهاتفي Galaxy A37 وGalaxy A56 5G",
      "url": "https://www.tech-wd.com/wd/2026/11/25/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d9%84%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-2026-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a-%d9%84%d9%87%d8%a7/",
      "source": "عالم التقنية",
      "time": "2026-11-25T09:31:33.000Z",
-     "seen": "2026-11-25T09:32:43.903Z"
-    },
-    {
-     "title": "إكس بينغ تبدأ تجارب نقل الركاب بسيارات أجرة ذاتية القيادة دون مراقب أمان في مقعد السائق",
-     "url": "https://aitnews.com/2026/11/25/%d8%a5%d9%83%d8%b3-%d8%a8%d9%8a%d9%86%d8%ba-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a3%d8%ac%d8%b1%d8%a9-%d8%b0%d8%a7%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-25T09:31:24.000Z",
      "seen": "2026-11-25T09:32:43.903Z"
     },
     {
@@ -553,13 +567,6 @@
      "time": "2026-11-24T21:16:41.000Z",
      "seen": "2026-11-24T21:21:27.676Z",
      "impact": "يمنح المستخدمين في مصر حماية إضافية لخصوصية بياناتهم ومحادثاتهم من الاطلاع الآلي."
-    },
-    {
-     "title": "لعبة GTA VI تتجاوز 364 مليون ساعة مشاهدة على منصات البث في يومين",
-     "url": "https://www.tech-wd.com/wd/2026/11/25/%d9%84%d8%b9%d8%a8%d8%a9-gta-vi-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-364-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b3%d8%a7%d8%b9%d8%a9-%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d9%86/",
-     "source": "عالم التقنية",
-     "time": "2026-11-24T21:08:25.000Z",
-     "seen": "2026-11-24T21:11:12.187Z"
     }
    ]
   }
