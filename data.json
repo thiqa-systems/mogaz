@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:42:58.331Z",
+ "updated": "2026-11-25T17:52:59.226Z",
  "minute": [
   "أعلنت السكة الحديد في مصر عن فتح باب التعيين لـ 755 مهندسا ومساعد قائد قطار بالمحافظات.",
   "سجل سعر الدولار ارتفاء جديدا أمام الجنيه المصري بالتزامن مع تخارج محدود للأموال الساخنة.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T17:42:58.331Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T17:52:59.226Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5415,
-   "change": -0.31,
-   "asOf": "2026-11-25T17:34:00.000Z",
+   "value": 5443,
+   "change": 0.19,
+   "asOf": "2026-11-25T17:43:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6183,
-   "change": -0.31,
-   "asOf": "2026-11-25T17:34:00.000Z",
+   "value": 6214,
+   "change": 0.19,
+   "asOf": "2026-11-25T17:43:17.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3526,
-   "change": -1.02,
-   "asOf": "2026-11-25T17:34:00.000Z",
+   "value": 3543,
+   "change": -0.52,
+   "asOf": "2026-11-25T17:43:17.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,34 +66,34 @@
    "unit": "$",
    "value": 1.0988,
    "change": 0.73,
-   "asOf": "2026-11-25T17:43:48.000Z",
+   "asOf": "2026-11-25T17:52:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.13,
-   "change": -1.39,
-   "asOf": "2026-11-25T17:33:47.000Z",
+   "value": 90.19,
+   "change": -1.32,
+   "asOf": "2026-11-25T17:43:14.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7122,
-   "change": -1.1,
-   "asOf": "2026-11-25T17:44:02.000Z",
+   "value": 7123,
+   "change": -1.09,
+   "asOf": "2026-11-25T17:53:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59683,
-   "change": -0.11,
-   "asOf": "2026-11-25T17:43:53.000Z",
+   "value": 59380,
+   "change": -0.62,
+   "asOf": "2026-11-25T17:53:15.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "منتخب السعودية يبلغ دور الـ 32 لكأس العالم تحت 17 عاما بفوزه على هايتي 2-1",
-     "url": "https://www.elbalad.news/7194517",
+     "title": "السيطرة على حريق سيارة للمواد البترولية بدائرى الوراق",
+     "url": "https://www.elbalad.news/7194523",
      "source": "صدى البلد",
-     "time": "2026-11-25T17:42:41.000Z",
-     "seen": "2026-11-25T17:42:58.331Z"
+     "time": "2026-11-25T17:51:14.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
     },
     {
-     "title": "محافظ الدقهلية يعقد اجتماعًا لتشكيل مجلس إدارة مسجد النصر.. صور",
-     "url": "https://www.elbalad.news/7194510",
+     "title": "ضبط 10 أطنان مخللات داخل منشأة غير مرخصة تفتقر للاشتراطات الصحية بالأقصر",
+     "url": "https://www.elbalad.news/7194528",
      "source": "صدى البلد",
-     "time": "2026-11-25T17:42:20.000Z",
-     "seen": "2026-11-25T17:42:58.331Z"
+     "time": "2026-11-25T17:50:56.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
     },
     {
-     "title": "محافظ الدقهلية يكرم الجهات المشاركة في الحملة القومية للتطعيم ضد الحصبة والحصبة الألمانية.. وتطعيم 1.2 مليون طفل",
-     "url": "https://www.elbalad.news/7194505",
+     "title": "مصدر بالأهلي: خفضنا مطالبنا المالية لبيع إمام عاشور ونرحب برحيله في يناير",
+     "url": "https://www.elbalad.news/7194524",
      "source": "صدى البلد",
-     "time": "2026-11-25T17:41:44.000Z",
-     "seen": "2026-11-25T17:42:58.331Z"
+     "time": "2026-11-25T17:50:34.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
+     "title": "وزيرة التضامن تتابع تداعيات حريق سيارة مواد بترولية أعلى الدائري بالوراق",
+     "url": "https://www.youm7.com/story/2026/11/25/وزيرة-التضامن-تتابع-تداعيات-حريق-سيارة-مواد-بترولية-أعلى-الدائري/7632521",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T17:49:00.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
+     "title": "بحضور مدبولي.. وزير الاستثمار يعلن 48 تعديلًا على لائحة قانون الشركات لتيسير التأسيس والتمويل",
+     "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQWWYtMzlQd05Dakw0dHRBNXFLRkpIQmMxcjA5eTZYb2h3eWZRaUNYcDRRa0owZkZiU3RsNmQ3OHFObDVVLUVuLXp4UER1NmRtMDFuRkN1N0VoTjl0aUdoUFRMdHQ4MEZrbFkwZi1YZU80WFB6N2lTZlpPMUdHNTh2TklEUnZ5c0tBQ0NUdTVFVTNyM1F3WDhKcGVFM3RWX0F3aGd3UndBTDZoRTV3Z29ObGdtUjRJaG5PLTFXQ3NXOVgxaWM1bk1rYzJkVl9uSzFZVWtsSHM1ZHRXZDRXekJ1VnVvMVNIWWFyWTBtZ2pQWXg3M1Y5UjRnYWZzZkdqcGlFWFJUTERYdVRVRFJ0cllWTGVNZ0xqclMyNWVfMVRoUzE3WGQzeGc1RnNHeS1JZHJ6YV82TmFMa1NqRTh5M0dBalg3TWttLVVZWDZTdlBHVjA4UXRvaGpORm95Y3BIeEcyYUdONmVDQUY?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-25T17:46:21.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
+     "title": "مدبولي: نعمل على تنفيذ مخرجات منتدى مصر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQc3lXaGVyeERmZUoxYktCdThGNzd6RUpuM1ZhYnZnLTVXM3dCa0FXMloxMlZQNlFUUG1obG5Ca1hZdVJ4LWRrMkxleUw5VjlhYVZEYXZ4U3hkNFNJT3FNcmx5eExUcnh6MHN1bjBtWmhNYVJkcXVXVmoxSTJDazVyd2Y4OGdFUUtHbFdjanM4d2VNeWhjelZCVV8zSjVSTlg0N3F1YnF5UGt5NVllTTFBV1IybjhseTM2T1pMRngyZmdYS3pla1NxeVpPV1puRUwxRFZTdUtneHdkbGNVWnp4SUJVT0k0NFU1TUd1ck5RSGI4d2JRanhEek1CLUdIVlVBUjhQQk52MnNZckJJejJfZWI3dUVkQmxzbTh0QjlTcnZrTTAyWGxIMDN5V2ZtdTlRaFJXcGtKM1RWYUQ0U0NCYnIwREtIMi14U2l0Z1JPMG9QemdGTHpGTm94MHNnNnRib2dFUWpQNmhCQQ?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T17:46:09.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
+     "title": "مدبولي: صندوق النقد الدولي ينهي المراجعة الثامنة والأخيرة لبرنامج الإصلاح الاقتصادي",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNaUQ1eXhSWVpsamJRYVRXYzd1Y1o3QkNiUDFCQVFvSzY2dHB0YXdtSGxhMGNMUEI1dFVCQ1Qtd1o5QVBIZnhTSEJjZ3M5WHJ3eG9veHBXVHJDTVd0bmVBczgwZ2dfVkdVRGg0NGx2TDZEd0J5Wi1McXpEV25yMmlaaFZqLUNUd3pGSUZ5TVJEVV9EWFNDVGlxbXhSaW53RWFJQzg4djZSX1I0M2FsdlVPU0dLNFk5VFVFS0pYZl93NGh4eFpOVFIzN0FPYWY1TEc1SjNYam1KekhJbUViNTdmVG1Bc3ZlS1A4UkpRUndIakZFLV9HSl9DZmdnWWlONkZ4LURZQTd3cHdLbWhpaG1VM05BQ3pRajVwOUhFa2dqLWplYjZ1UUxTWkJ2TFlYem9QS1Z4OXBUWFljYkk2OEsycWhDVWxIdnFsZkc0QkJOXzN1WGFNRVp1aDdqXzAyc1kzb0tMOUFwZGY5QnpWUnZvZWRMbUx6dk0?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T17:46:08.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
+     "title": "رئيس الوزراء يكشف كيف تستفيد مصر من التحديات العالمية لجذب المستثمرين",
+     "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPTF9sYnc2SDZDNWpFZURpOWg2aHpSS3JJYWtmdDIyZ3NhbHVlOEg0cS1iOFFZdG5RYTlOQnd3ZHhoMzJvOHN6TlFIVVFEeHNPbV9TRGh5N0dQdndScFI2U1pPem9EanBFVmVSU1pBWXFXWlhMVHB1aXZsbVlqM3VRMDg0T24yaWRJbzBrQnpzLThYTDItbzFLZ1A4eGs1dHdNUWMzVTM1Qk1Jb0dtel9Vdi1fS0RuN2x1cTdoOFpJNVlfVHlKVEx4em15ajFjem5iN1pudHc4Nlhtd0dOdnpvMzF4YUZFaVVYLXpROXM1VFNlblN5Qi1zeXNZN09jNzFSUkpNTW9mNGpMNjJrT3VYWjU5b2EwZXJ2MWp1SHdZV2FFaXlrRUY5aG9HWUZ0SEFkTm00U3pRbXFqdkllakgyX21fVmNDNi1yOFdXT0dGdU5vYmlpdnE2eXZrbEhKeHlqbU53cE92T0lOOUJPNTV4RTRGdWdNbWxXQzZhclNqaTM0OWY0ZjJmaVB4SVNaTTUwUFc5elZTOXRUOXptMnlNZWxSQWE0QV9UclAwRDFCQXhxNVdTVkpJWjdEQjVOcG05bzZvSE5pTGtkdXBZaGNOZTdQSllhR0cxcWVDQ1hLRHFvYkY0Y1VOTmdXX1dJc1JEdFVxWmN3c3BNWVNXc21hN2RHNXQ1VXYtYkR0OXlaRVk5QjJUdmVyX0FrQ2w5WDItZU9aZ2c5ajdwT1JZWkpGellSNXJvXzVXcHJLLVdLMHB4VUtReGxveXFrS3ZjUzRpc0F5b21fNzAzWlXSAeAEQVVfeXFMUHdUc01hYV8tT1RDc3dUbUVaZ0lMNVFKUDIzOFNuR2RrdWdrdjZBcmt1dVlua25OZnhoSTJ5a2JqREl3S1h5OWg4emx4bW4zWmxaX1hfb0ZzYVkzbmtNTkpiTlRUMzN4TkpnUFVYTVVNNWRSYndjNDJ1WlVCYjZmT3BKeUJKQjBHOFhxZ0Ftb18wZHM1VmE3QmtfeVBTR2ROMEo4VzdIODlPWHBvalFKZENyWGZQdWhQU2tpSG9iM0VTdFM5Z2o0aGp5MWE2S3BJVGprbDl5ZkZyVkw4akhXclRIeldXdndOZWxReC1uSlEwVmxlVDdGcTdTeDlzQjM4Y0FBd0JTRm5UWVcySzNFNHZkV3A5TUszbktYRlZCT2pwNHI0dmh5eGxKaUtuaFFDS20xQkxtQzNFZUJ2ZjE2NER3aVR4Qk9XUS1pWnp1RlVzWHJ1aUNxMTVaSjNFLWQ3UnFJbUdvdUdEamM2Z19xY2VsSnJELVBFb08wSVJ4WkdodEN0X1o5Yld5S0hoRnpEcmVlSWVQZC15ZG9wdjY2YkdCTjdSLVNJZVk1X180Y2tKN0xqdHhBTjIwTG5ldFk0THlkampfM3VTVGJxVjNHd3BMVTZzNDZsMjFBSWI4UU84WDhNZHJWQzVPYXRON3ptZDZtZWFQaVBKVVlXU0cyNDFMYmM0NXB6SG94RF9pUWdYTXFoWElWSUdfTmJFOFBuOFUtYmx4dHhMdWxVR2h2ZGtxV3Z1TVhKQldwMzRUNVRGS2RRNFoyZFNQVXdFQjNhajZWd1dqMFkteEc3M2pIQng?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T17:38:28.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
     },
     {
      "title": "إعادة إعمار 3 دول عربية - مدبولي يكشف فرص شركات المقاولات المصرية",
@@ -172,13 +207,6 @@
      "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxPWTNCQjlwTGR0cXlwUEFHeE1TRG16dTJGZkl4V2xVdEtnUFdIT2l1MS00SC03WWRQY1poUGdmM2ExUWxWcThJMzBMV2FhazZmd1l1ekdsVWc1YmlabWJJd1lHQXU1VWx5MUVSdmNtTm44cTNfdUthUWxTNGZ5b0xSNl83bkJxRWhjTFQtUG8xZmZDVG5RV3NYSkJna043RWxCdFZzMzE4ZFFFV3NaSTYyUWZpaFVkbXlDOFdJUmRYMVhISUZjOXlfeFhiaWNSVXhxcW5lOHRFeHFha0pOZngtaHlNMUgxRnVTWGhHSDJCdGo3QTNBOFVtMWtwUmFoaU5UVHpNbXozRFV2RnB1T1hpRmtxZVNsd0xBaFBKa09NYk05dVFyVmIwd3pSOFZ4cEd3djVTRWhBNWktMDB0X0FxQ1BqVWZsSkxYZnh2MVM1UGhGV0Jlb0NZMHduejYybEZwZnNlUUhsZHJ0MmxtVVR5NTMzaFJRLVJ6R29DbU5Wa0RlbFlVZndndE1fTnJPbEJUZXUyOGdpT3N5d0ZlZ3lCYUpTcFFQMkFBbVJzSUxHYkFUUVllcXNKeWxHWWFPc0FaWHhFR3JBMkpIODE1V1VUVUQ5SnU5MEZ5Q3VjWXNDSldrMHdXTDNkUDFfeGV4MDhObzFDbXNiT1hHZzZVRzg1RmlaQUt3MGlsRnJCWTVfYU14d0c4RmtjN19mNkttODhkQXhXMnJpdmxERmFqaW5wbXdGUDREazRnVElLb9IBwgRBVV95cUxNTi0wZUhrRWVfWTlDTUtfd1JLaDAwVGI4RlRuT0R5MVAySVU2OXV0dWtMbG1SUnh0VGFfNHcyc0FqU09xUldwVTJoemtLZ1ZWWnA5a2YzZ3lkX3YtOFEzN3RxZ1NIMGNyekNsOUNXYjNseEVBMXpmcV9zdEhwMFhXU2ZPUFNEZDlWRjZJTnFYbk9abElvY1R1VzhreHpCcTlwNUJjNG5hOV9GaURlajVVYTYxUzRrUkNBdVBmcGdxSGlzQnlqOFllMHpQN2VIalNoUkJUVVk0a0c3T0M5M09DUkpiUnEyWmtoZl8zdUtQcEdYdFBKVkRyckVjbVlzZG0zRDFtdVBVMzR4ckRIZTlFaTFyOXJCRExyOEZ5RG1MSmR6alYyMVB0dTl5WGVESDJDZDhUSE82aGU4WmtWQUFwcHlFcHhFOTJrajNsTzdpb2dKQnI2dWc3WGxLM3NRWFJZSjE4Ry1mVzYtUEpRamNHN2ItZm8zblJxUG1CRWdGTEFkaVZyT0FkVVRxc3pwbXZDX1V5TEppOXZQRXZxSmw4SnFUdnh0NzlBV2VubjVfSFRRRVdXUmZKdFZMZXpvQW9uT0RYNmpmYUNHaWhMR09CSGdEYlNCWWlsSktrS0kxR2tSVFRKd3hXYmtpVzY0SEdUQlRrelJqbm1tWjYzenV5eER2THcxT3d4dGtYdndDYmVEdjZYSEtRWkgyN205N292VVFSTnJCamJ6c2VqTm9ORElzLXpIRnJUYkFMdF9EVXQzZw?oc=5",
      "source": "Masrawy",
      "time": "2026-11-25T17:34:35.000Z",
-     "seen": "2026-11-25T17:42:58.331Z"
-    },
-    {
-     "title": "رئيس الوزراء يكشف علاقة تعديلات قانون الشركات بمخرجات منتدى مصر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQV1l6VEdxSWJvY0lnS3BjR1B3RDU1TnpfOF9PZGFzaC1iUjRWd202aGE2Tl9RRVdQQ1lPTjlibzk2YXZtZXVnWndDc0ZnNlR5bjl1UlBmNXlXdG56UWN5RzVOSjZacUtFZHZVNm95Y1piSVc3NmxDZ3V3ZXYzZk5NNXhRX3NHc0dFa1dvTkEyLVViQTFrLWstUXdRbFFHYWcwQ2R1RGtjYnVZcnczNVpJaC1JU2FMOGNaeGFhUlA3bjNLVW9kTjFYV1VjNXlFTWRwODR3MTRReWJ6QTRvYTV2NGQ4Z0h4QnNvRGVzZkZCSExkcUJ0TEhxYm93ZUpUQlJtNlFESnZZb2VKMndTRlZmSlR0S2UxQ1cxVTBPUFlVVmNQZUxtb0paMVJMQlRJRGhfd096NGtjNlNVc0VQVlhGVjBaOUNYV09ndHdPS0VlMzFMYjEyYVNFc0pSdFpZbDZlb0dJRXlUUDZGa1JkMUJtVXNQc08xSzdlTk5TbmdIRDlnbGVyMnZId1pSeTh2d2NPa1dvWGtYbXZKUWtta3lZTEVvZVRkRmppSnVQc2pUbXl0QVJVc1RJeHdkajV5dlNvZkQwZmpzUlRSTVFLTlZKOXBSSWN2MnJBUE01eUNTYzBtZ2FyS2FiUzBKc2xPZENCLUYydXhBbUV5YUxKalRxdFpDZC1KakVzVGZ0UTRCX3B1VHJTQUdCRVlKT01neHVybmN2T0Fqc3hLenNTd2dBeTk3Mlc2aEQ00gG-BEFVX3lxTFAwaFZtV0J1aXc3YndsbmpadUtzOUlVR3FTSlRXSWZQb2haYUNZclo3UmxvVHZZN1R5TnZSR1FrWTNtdVRQeUpLNEI2c1h3OXNjWVNmRFpfcWtzOTFBTUZtbGp2TWxiNW9OYlZrN040VWRTWGlEWWczYmpUV2s3dDlCUWhwTjJMNGxyTzllYlRYX0EwSTg2aldCN1pPb1pzNnhHUUl3M1dCTFN5U3JXSk94cTdfR1FCdkRVQXpKdDgweWR3cllYNmx2QlcwckMtUjdzeTNvd2J6QjhVdGhrbldvak0ta0dMOWJ6MnlURlZlSk1kQkRtSlhUVmlvTDBOcUdwZ2hDTHJGSElhV3NJUFJJaENad1VvcEMtU1VCUm5qaDdzT19vdDB2bW1PYjNpaExlUEhDcThIbkpjMVJ5UmRQc2FhUmZCRXpORzE3TnJEZlVfUWl1Mk1wTHcwT3I2TUlQWTVVWVFNQkxmY3FNUG1ZLXhiZUhNYkZCeDRQSE9MTU9RM2JKdVkxRG8zbjBVWF9YWWZ1eUtDdnpwMEVMUHo4dlZRWDZHRWptRWZaR3JtU1daNk82TG9CaUFyZVlSdkpZYmJ4UHpvb0tDRWNQTWR4WnMya25kOEFZNUE5VkRIQmJUYWhaNFVsMi1LUXY3M01YOF9WbGxFVFY3NFRjZEFEeXRpVXFDUjNwR212aDJnNnlmVHQ5amNqRS00dnVXd0dIbXJOWEZ5TDVycWtRSEIxSFl5emw0cjZQY2xWS1E?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T17:33:46.000Z",
      "seen": "2026-11-25T17:42:58.331Z"
     },
     {
@@ -209,34 +237,6 @@
      "time": "2026-11-25T17:19:00.000Z",
      "seen": "2026-11-25T17:22:59.153Z",
      "impact": "تتيح هذه الوظائف المعلنة فرص عمل جديدة للمهندسين والكوادر الفنية في قطاع النقل بالمحافظات."
-    },
-    {
-     "title": "الداخلية تعلن السيطرة على حريق سيارة مواد بترولية فى الوراق",
-     "url": "https://www.youm7.com/story/2026/11/25/الداخلية-تعلن-السيطرة-على-حريق-سيارة-مواد-بترولية-فى-الوراق/7632497",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T17:19:00.000Z",
-     "seen": "2026-11-25T17:32:58.679Z"
-    },
-    {
-     "title": "مدبولي: «بندعي ربنا يديم علينا نعمة الأمن والاستقرار»",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WeWJGZjFSaU54YkpjbHlvbEh2QzVOZ3VzMHo5UjRZbF9qejNNTVdGZlNDUXlHV0VYV3J2azloRVdoRF85UWFpdlZwRmdvbU9uV1VNTnF1b3BZVm9janVR?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T17:15:00.000Z",
-     "seen": "2026-11-25T17:22:59.153Z"
-    },
-    {
-     "title": "مدبولي: تنفيذ توصيات منتدى مصر أولوية لعمل الحكومة خلال الفترة المقبلة",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NSU9vdWJCWU8xSVVieXFBSm9YUXg5cjdtMUg1NFdoTjBpSm1WN3JqWC1heWxxUWFEZzVVRXdHRjV3cjRhLXVr?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-25T16:58:00.000Z",
-     "seen": "2026-11-25T17:02:59.018Z"
-    },
-    {
-     "title": "مدبولي يكشف نتائج تحركات السيسي العربية، مشروعات كبرى في ليبيا والعراق والسودان",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43VXU3VElwWnBkbVNpUEVpOExrTjJKaGJ0WkQ4aFlwVFlQYnJxZzlXRE5ZVWNYRnNiajRaZVlTekRKdHBkRXVj?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-25T16:57:00.000Z",
-     "seen": "2026-11-25T17:02:59.018Z"
     }
    ]
   },
@@ -245,10 +245,10 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "التحالف يعلن سقوط مقذوف أطلقه الحوثيون على ميناء جازان السعودي ووقوع أضرار، بعد استهداف مصفاة رأس تنورة والمركز المالي في الرياض",
+     "title": "التحالف يعلن سقوط مقذوف أطلقته جماعة أنصار الله على ميناء جازان السعودي ووقوع أضرار",
      "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
-     "time": "2026-11-25T17:13:39.000Z",
+     "time": "2026-11-25T17:48:53.000Z",
      "seen": "2026-11-24T23:11:28.017Z",
      "impact": "تؤثر التطورات الأمنية واستهداف المنشآت البحرية والنفطية في الخليج على أسعار الطاقة وحركة التجارة التي تمس المستثمرين."
     },
@@ -292,10 +292,10 @@
     },
     {
      "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNV0dWUGtUN0FnbWJaQkJLNlg1eEt3RVliM0JMSHdZQTVGNTNDa3MtZW9GbUNsVnRzcUdlb2NVaDFHYTRlRDFkQ09pQlB6aHRseGpwYUxOVEF0OXlnOGtZLVlpdFFHOUxHR005OThlYjV5TlJ3SG5VdGdHOEtvUlNLQW1yZjF0ZXotZEFyVWlPWnloam9UbVo1ay1nRmRURzRFUHVxMHhTQXJjZDZ0NEN4aDR6QkNxVDRHSXRJRDczejB3V0MweXhDODRLbmo5eG42dW9kandDS0ZXN255VjJ5c0RMRTdIVHVncGJkYnZFVE5pdjhzTUozb0dnUkkzWDB2RFdjblgySW9lSDJVUENxSW92bG9uQkVyaVBIcnFKM1k2YWJFdjRHay1OMEVhczB6XzZJOUZFTFVkLTFqSlN2VjR3QU4xZHpTOE1BWVFwUkF4b2g4N29NOW1GU011TTVlb3Axd2VJQ0ZZWGVNdEcwaTRjU2tPa0toTncyeGtCbmVmRWlvUFdkd0lZY3llN0JDZi1wZW9TQ0dUOTFoMFYtdkg4Zkx3bXhWbU4tMTM0RXNOSzl4TFJPN184elVJUnFJRUpNeTlkZzl4ZjJN0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVDhKVVRIbTVGY25SNXBtamYwb1FvMFZzemFLeUJtWGlYS3Bodnp1RXBRbzZWbTJqNkJnaFgxUDJYTDNWdG9sNEx3YmdkU0JyY1l1bF9zR1F3LVRDMG5KX3FPeUVfcDlicVp1d2JieDhfZXhwbDFXUkN2aHZmaXFiemxWSDBnbUFSalNFMVlwUkFJclBqNWNRRGpDQ0ZtRzd1cThTZWlJWVZpUWktVlFxNC1iYzRlbExGZU5Eb090WjY2R1oxLUVTeENYS1FqcGJDZ2RyQ0cwaUdYRjU1V2R6UEZZWDBMTFhjMTZTNzVOUTNFOUZsdFBiLXlxTmIzb3NfVlJzQ0ZNVnFJa3N4SlRUOTdUdHUwYXhzQTRxMXBObGExV3ZfQVByTUVCNXdjWkNHdUk1V2NNUVJtNmZyMEJfdFRYd1pHZFlURUprQ0lic0pYdkJ3Yi15bFpyb09PYzNZOVZpSXRNSE1BTEpzZDJUQ2ZEMzMzblNFcFRYOFhKTTAxYkxBV0JQd0h3Mk4xVnl1d1lJSnowOUpxRW16RE5kVXJadmh3Nlg3di00SnBWRHlteHhjUnNWYUtpN1FyYXdhQjlFMG5fRVFBNExkZW9UN1RR?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T16:03:38.000Z",
-     "seen": "2026-11-25T17:42:58.331Z"
+     "seen": "2026-11-25T17:52:59.226Z"
     },
     {
      "title": "إيديتا تستثمر 25 مليون دولار في لمضاعفة طاقتها الإنتاجية بالعراق خلال عامين",
@@ -357,6 +357,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "نتنياهو يعلن \"انهيار المحاكمة\" ويطالب بإغلاق قضايا الفساد",
+     "url": "https://www.skynewsarabia.com/middle-east/1907107-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D9%88%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T17:42:48.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
+     "title": "مراهقون بأفكار متطرفة.. كيف وُلدت جماعة \"إرهاب 18\" اليمينية الألمانية؟",
+     "url": "https://www.dw.com/ar/مراهقون-بأفكار-متطرفة-كيف-وُلدت-جماعة-إرهاب-18-اليمينية-الألمانية؟/a-80052833?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-25T17:42:00.000Z",
+     "seen": "2026-11-25T17:52:59.226Z"
+    },
+    {
      "title": "مصر.. النيران تمتد لسيارات بعد حريق شاحنة وقود بالجيزة",
      "url": "https://www.skynewsarabia.com/middle-east/1907108-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%85%D8%AA%D8%AF-%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AD%D8%B1%D9%8A%D9%82-%D8%B4%D8%A7%D8%AD%D9%86%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9",
      "source": "سكاي نيوز عربية",
@@ -389,13 +403,6 @@
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261125-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A92027-%D9%85%D9%86-%D9%87%D9%88-%D8%AF%D8%A7%D9%81%D9%8A%D8%AF-%D9%84%D9%8A%D8%B3%D9%86%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D8%B1%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D9%82%D9%84%D8%A8-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D9%82",
      "source": "فرانس 24",
      "time": "2026-11-25T16:48:07.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
-    },
-    {
-     "title": "كاتس يرسم سياسة غزة: اغتيالات ومنطقة بلا سكان",
-     "url": "https://www.skynewsarabia.com/middle-east/1907101-%D9%83%D8%A7%D8%AA%D8%B3-%D9%8A%D8%B1%D8%B3%D9%85-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A8%D9%84%D8%A7-%D8%B3%D9%83%D8%A7%D9%86",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T16:40:48.000Z",
      "seen": "2026-11-25T16:52:59.177Z"
     },
     {
@@ -447,13 +454,6 @@
      "source": "العربية",
      "time": "2026-11-25T15:52:00.000Z",
      "seen": "2026-11-25T16:22:58.551Z"
-    },
-    {
-     "title": "إسرائيل تواجه اتهامات بارتكاب فظائع بحق الفلسطينيين وتحذيرات من عزلة دولية",
-     "url": "https://www.dw.com/ar/إسرائيل-تواجه-اتهامات-بارتكاب-فظائع-بحق-الفلسطينيين-وتحذيرات-من-عزلة-دولية/a-80050921?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-25T15:11:00.000Z",
-     "seen": "2026-11-25T15:22:58.860Z"
     }
    ]
   },
