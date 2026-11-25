@@ -1,18 +1,16 @@
 {
- "updated": "2026-11-25T18:32:59.146Z",
+ "updated": "2026-11-25T18:42:58.660Z",
  "minute": [
-  "أعلنت السكة الحديد في مصر عن فتح باب التعيين لـ 755 مهندسا ومساعد قائد قطار بالمحافظات.",
-  "سجل سعر الدولار ارتفاء جديدا أمام الجنيه المصري بالتزامن مع تخارج محدود للأموال الساخنة.",
-  "أطلقت الحكومة المصرية حزمة تعديلات على اللائحة التنفيذية لقانون الشركات.",
-  "أعلن التحالف تعرض ميناء جازان السعودي لمقذوف تسبب في وقوع أضرار."
+  "شهدت مصر حادث حريق هائل على الطريق الدائري بالوراق إثر انقلاب مركبة تحمل منتجات بترولية أسفر عن سقوط قتلى ومصابين وتوجيه رئيس الوزراء بفتح تحقيق عاجل.",
+  "على الصعيد الاقتصادي، سجل سعر الدولار 54.63 جنيه في البنك الأهلي المصري، بينما بحثت وزارة التخطيط فرص التوسع والاستثمار مع شركتي إيرباص وCMA CGM.",
+  "أكد صندوق الإسكان الاجتماعي استمرار الزيارات الميدانية للتأكد من إقامة المستفيدين بوحداتهم، في حين أطلق مجلس الوزراء دليل جودة الحياة ضمن مشروع بناء الشخصية.",
+  "دولياً، التقى حفتر بأردوغان في تركيا مع الاتفاق على إلغاء التأشيرات، ورصدت شركة OpenAI تحسنًا في خدمات ChatGPT وCodex بعد ارتفاع معدلات الأخطاء."
  ],
  "ai": {
-  "at": "2026-11-25T17:22:59.153Z",
+  "at": "2026-11-25T18:42:58.660Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T18:32:59.146Z"
+  "key": 2,
+  "impacts": 8
  },
  "markets": [
   {
@@ -28,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5462,
-   "change": 0.56,
-   "asOf": "2026-11-25T18:23:30.000Z",
+   "value": 5469,
+   "change": 0.67,
+   "asOf": "2026-11-25T18:34:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6236,
-   "change": 0.56,
-   "asOf": "2026-11-25T18:23:30.000Z",
+   "value": 6244,
+   "change": 0.67,
+   "asOf": "2026-11-25T18:34:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3556,
-   "change": -0.16,
-   "asOf": "2026-11-25T18:23:30.000Z",
+   "value": 3560,
+   "change": -0.04,
+   "asOf": "2026-11-25T18:34:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +62,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.099,
-   "change": 0.75,
-   "asOf": "2026-11-25T18:32:44.000Z",
+   "value": 1.0988,
+   "change": 0.73,
+   "asOf": "2026-11-25T18:44:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.27,
-   "change": -1.24,
-   "asOf": "2026-11-25T18:23:20.000Z",
+   "value": 90.03,
+   "change": -1.5,
+   "asOf": "2026-11-25T18:34:39.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7145,
-   "change": -0.77,
-   "asOf": "2026-11-25T18:33:33.000Z",
+   "value": 7174,
+   "change": -0.38,
+   "asOf": "2026-11-25T18:44:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59442,
-   "change": -0.51,
-   "asOf": "2026-11-25T18:33:30.000Z",
+   "value": 59592,
+   "change": -0.26,
+   "asOf": "2026-11-25T18:44:43.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,46 +138,63 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أحمد موسى: انفجار سيارة المواد البترولية أحرق سيارات كثيرة أعلى دائري الوراق",
-     "url": "https://www.elbalad.news/7194564",
+     "title": "برشلونة ينهي الشوط الأول متقدمًا على صباح 1-0 في دوري أبطال أوروبا",
+     "url": "https://www.elbalad.news/7194577",
      "source": "صدى البلد",
-     "time": "2026-11-25T18:32:47.000Z",
-     "seen": "2026-11-25T18:32:59.146Z"
+     "time": "2026-11-25T18:40:27.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
     },
     {
-     "title": "كم مدة قصر الصلاة للمسافر؟.. الإفتاء توضح ضوابط القصر في السفر والإقامة",
-     "url": "https://www.elbalad.news/7194568",
-     "source": "صدى البلد",
-     "time": "2026-11-25T18:32:29.000Z",
-     "seen": "2026-11-25T18:32:59.146Z"
+     "title": "تطوير التعليم بالوزراء يطلق دليل جودة الحياة للنشء والشباب ضمن مشروع بناء الشخصية",
+     "url": "https://www.youm7.com/story/2026/11/25/تطوير-التعليم-بالوزراء-يطلق-دليل-جودة-الحياة-للنشء-والشباب-ضمن/7632564",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T18:40:00.000Z",
+     "seen": "2026-11-25T18:42:58.660Z",
+     "impact": "يهم الأسر والنشء في مصر لمتابعة الدلائل والمبادرات الحكومية الموجهة لبناء الشخصية وتطوير التعليم."
     },
     {
-     "title": "لتعزيز الوعي والتفكير النقدي.. تنفيذي أسوان يوافق على إطلاق منتدى الطلاب",
-     "url": "https://www.elbalad.news/7194544",
+     "title": "الإسكان الاجتماعي: الزيارات الميدانية مستمرة للتأكد من إقامة المستفيدين بالوحدات",
+     "url": "https://www.elbalad.news/7194561",
      "source": "صدى البلد",
-     "time": "2026-11-25T18:30:31.000Z",
-     "seen": "2026-11-25T18:32:59.146Z"
+     "time": "2026-11-25T18:39:35.000Z",
+     "seen": "2026-11-25T18:42:58.660Z",
+     "impact": "يهم الحاصلين على وحدات الإسكان الاجتماعي في مصر لتجنب أي مخالفات عبر التأكد من تواجدهم وإقامتهم الفعلية بالوحدات."
     },
     {
-     "title": "«دعم فائق وتعوضيات للمضارين».. أول تعليق من رئيس الوزراء على «حريق الوراق»",
+     "title": "أحمد موسى يستعرض اللحظات الأولى لحريق الطريق الدائري بالوراق",
+     "url": "https://www.elbalad.news/7194578",
+     "source": "صدى البلد",
+     "time": "2026-11-25T18:39:35.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
+    },
+    {
+     "title": "مصادر لـ اليوم السابع: رئيس الوزراء يوجه بفتح تحقيق عاجل فى حادث حريق الوراق",
+     "url": "https://www.youm7.com/story/2026/11/25/مصادر-لـ-اليوم-السابع-رئيس-الوزراء-يوجه-بفتح-تحقيق-عاجل/7632568",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T18:36:00.000Z",
+     "seen": "2026-11-25T18:42:58.660Z",
+     "impact": "يهم المواطنين في مصر لمتابعة التحقيقات الحكومية العاجلة بشأن حريق الطريق الدائري وتداعياته."
+    },
+    {
+     "title": "التعليم تعلن صدور قرار بتعيين معلمين بالمحافظات الحدودية",
+     "url": "https://www.youm7.com/story/2026/11/25/التعليم-تعلن-صدور-قرار-بتعيين-معلمين-بالمحافظات-الحدودية/7632552",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T18:34:00.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
+    },
+    {
+     "title": "حريق الوراق| مصطفى مدبولي يقدم العزاء لأسر ضحايا حادث الطريق الدائري",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUU9aZUxPLWM0MzNCQkpvQU9Ed2VIcUdMQldUdVVpV1NuWklZT2JfVXNQdjQxdmJ4RFo5RW5iak9lT242dW40MHJaajY4RUtLODIzLVRybF8zMHNqM28tNkozd3lYdTNUX3oxVjdJek5lWVlRVmY3aFRaMXhiVzNOSHhOUUJNNXliTnF5ZkZlQjYxajcwZzNGeTVWZzUwQ0NMV3ZlekxsZWlhdWFnREpnUncxMGhmSERXWkFDcXdHUDhwV0pxbm1mZFJiTWxOM25DRjl5Y0xIWmRKV3dmb2xrZmlONGFYdzJ2Q25KTXpBWm1tV0Q0US1PNkNVR1JZTnBhRTdpVWIwVUZEa1hWUWdoX2hlbm5EbjM0ajc5bTdZa1RWT2t5Z3JTODRCMTRJV01WU0ZxWmp3YlBZZUZWRDVZMGJrTmhtQmNYSXVCc2NpTGRnNHIyanRZYXM1R0xfcExKeEE3Ml9DcnJwOUpwajYzUThGMUNmbXc?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T18:29:16.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
+    },
+    {
+     "title": "«دعم فائق وتعويضات للمضارين».. أول تعليق من رئيس الوزراء على «حريق الوراق»",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUzB3anhSYy1lclBLd1VGZFFsYUF1V1MzUS1rRFFjZHZsdHVSdEdHUnJXQWp4UmJQXzRaMEtydXVsQzdCM1o0cEFFWGgxamZkUWhaLXdPcnB5SFFVZVBB?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-25T18:24:00.000Z",
      "seen": "2026-11-25T18:32:59.146Z"
-    },
-    {
-     "title": "انتظام حركة الأتوبيس الترددي (BRT) تزامنا مع غلق أجزاء من الطريق الدائري",
-     "url": "https://www.youm7.com/story/2026/11/25/انتظام-حركة-الأتوبيس-الترددي-BRT-تزامنا-مع-غلق-أجزاء-من/7632546",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T18:22:00.000Z",
-     "seen": "2026-11-25T18:22:58.624Z"
-    },
-    {
-     "title": "رئيس الوزراء يكلف بتقديم الرعاية اللازمة والتعويضات للمضارين بحادث حريق الوراق",
-     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-يكلف-بتقديم-الرعاية-اللازمة-والتعويضات-للمضارين-بحادث-حريق/7632545",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T18:20:00.000Z",
-     "seen": "2026-11-25T18:22:58.624Z"
     },
     {
      "title": "مدبولي يتابع حريق الوراق ويكلف بتقديم الرعاية الطبية للمصابين وتعويضات للمضارين",
@@ -187,13 +202,6 @@
      "source": "Masrawy",
      "time": "2026-11-25T18:17:09.000Z",
      "seen": "2026-11-25T18:32:59.146Z"
-    },
-    {
-     "title": "رئيس الوزراء يتابع تطورات حادث حريق أعلى الطريق الدائرى فى الوراق",
-     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-يتابع-تطورات-حادث-حريق-أعلى-الطريق-الدائرى-فى/7632539",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T18:17:00.000Z",
-     "seen": "2026-11-25T18:22:58.624Z"
     },
     {
      "title": "رئيس الوزراء: خطوة أخرى نحو مزيد من تيسير الإجراءات وتحفيز مناخ الاستثمار في مصر",
@@ -224,18 +232,11 @@
      "seen": "2026-11-25T17:52:59.226Z"
     },
     {
-     "title": "مدبولي: نعمل على تنفيذ مخرجات منتدى مصر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQc3lXaGVyeERmZUoxYktCdThGNzd6RUpuM1ZhYnZnLTVXM3dCa0FXMloxMlZQNlFUUG1obG5Ca1hZdVJ4LWRrMkxleUw5VjlhYVZEYXZ4U3hkNFNJT3FNcmx5eExUcnh6MHN1bjBtWmhNYVJkcXVXVmoxSTJDazVyd2Y4OGdFUUtHbFdjanM4d2VNeWhjelZCVV8zSjVSTlg0N3F1YnF5UGt5NVllTTFBV1IybjhseTM2T1pMRngyZmdYS3pla1NxeVpPV1puRUwxRFZTdUtneHdkbGNVWnp4SUJVT0k0NFU1TUd1ck5RSGI4d2JRanhEek1CLUdIVlVBUjhQQk52MnNZckJJejJfZWI3dUVkQmxzbTh0QjlTcnZrTTAyWGxIMDN5V2ZtdTlRaFJXcGtKM1RWYUQ0U0NCYnIwREtIMi14U2l0Z1JPMG9QemdGTHpGTm94MHNnNnRib2dFUWpQNmhCQQ?oc=5",
+     "title": "مدبولي: تجميع سيارة جديدة في مصر بنسبة مكون محلي 45%",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPc0haeXhkR2Vub3FWTjJYMlNON1VsaXlCYnNPamhmbkVFTTdkMHB2RU4xMjdMdWhENjBkTmJfQVlNSzdvUTViSDk1cXJtLVV6T3AxQVJyVkp0RFFhRDZfNXFBRmFUY0ZYdVpJVkVmUlFHN2FBUHNNZ194cnZDbWRJdi0tTDZBYlc3MURtWW53c3pubTdKa3FnMHIyR3V1andBR1RnZVB4a0hRU3IxSE1hUkZodWpJajNkX19oWWJFMVhkaFBhVXh6SEVjYVBDR2pFc1BXcHg3MmJJQ09QRmY2VEJzdzh5SlBwRW4wcTRMSXN5d2JTcXlNeFhSd3NNRDR6enNveTJJU1V3T18zR2ZQVzd6WEZXalc0SUtFTzE3SnhkYmtLeFk5ZlJRZUNzbG5fYUpfeDFKSzY2bzctVF9WTUhhU2U2VEVJclQyODBHaW43cnE1RjRZSWN1eFlZSjdYa0ZGOUtPaFNTQnRQS19uWA?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-25T17:46:09.000Z",
-     "seen": "2026-11-25T17:52:59.226Z"
-    },
-    {
-     "title": "مدبولي: صندوق النقد الدولي ينهي المراجعة الثامنة والأخيرة لبرنامج الإصلاح الاقتصادي",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNaUQ1eXhSWVpsamJRYVRXYzd1Y1o3QkNiUDFCQVFvSzY2dHB0YXdtSGxhMGNMUEI1dFVCQ1Qtd1o5QVBIZnhTSEJjZ3M5WHJ3eG9veHBXVHJDTVd0bmVBczgwZ2dfVkdVRGg0NGx2TDZEd0J5Wi1McXpEV25yMmlaaFZqLUNUd3pGSUZ5TVJEVV9EWFNDVGlxbXhSaW53RWFJQzg4djZSX1I0M2FsdlVPU0dLNFk5VFVFS0pYZl93NGh4eFpOVFIzN0FPYWY1TEc1SjNYam1KekhJbUViNTdmVG1Bc3ZlS1A4UkpRUndIakZFLV9HSl9DZmdnWWlONkZ4LURZQTd3cHdLbWhpaG1VM05BQ3pRajVwOUhFa2dqLWplYjZ1UUxTWkJ2TFlYem9QS1Z4OXBUWFljYkk2OEsycWhDVWxIdnFsZkc0QkJOXzN1WGFNRVp1aDdqXzAyc1kzb0tMOUFwZGY5QnpWUnZvZWRMbUx6dk0?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-25T17:46:08.000Z",
-     "seen": "2026-11-25T17:52:59.226Z"
+     "time": "2026-11-25T17:46:12.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
     }
    ]
   },
@@ -244,25 +245,28 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
-     "title": "حريق يتسبب بوفيات وإصابات في الجيزة بمصر",
+     "title": "قتلى ومصابون إثر حريق هائل لسيارة مواد بترولية فوق نفق مروري بمصر",
      "url": "https://www.bbc.com/arabic/articles/ckjrelp34nz1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-25T18:23:32.000Z",
-     "seen": "2026-11-25T18:22:58.624Z"
+     "seen": "2026-11-25T18:22:58.624Z",
+     "impact": "يهم الأفراد والمسافرين على الطرق في مصر لمتابعة السلامة المرورية وتأثير الحوادث البترولية على حركة السير."
     },
     {
      "title": "54.63 جنيه سعر الدولار في البنك الأهلى المصرى اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOZ296Q1VuWUk5T1RRUHluNVVNcWhkMGFTSzNlQnNpSlgxUW9vN194ZVc3RUp4Ql9wUXYxTUY1NVl5bjFFeUZxcDRFbE4wYVprbllGRE1qODhNMEFEYXVZS0VBMFdHYzc0UHFISUM0S19yOGNmWHktTTdmMWlLZWw4RWdMakJJZEd0S1RGdnhrTjZYUGhmOEdCNFJUaUREdUFwRUVuRElxa3htRW4wZVlSM1k4dm00Sm95RGpDNlA0YWhjTFVYa1hRRFV5TjZXbHdfN2NNTFFEdmwwUWdZb0RCSE5ZQ3lJc1lyS0FMbERfZW5rR25DQ2gzdHQ5MGJ2Qkt2dGtCRXpfVkFNN01pZW9SMVBBUXNaZlhGazlLNzY4X05nQWtOOGUwQTEzTWFDLWxnV3FlcFFrLXUwUl93YTlDeG1ZMGdQdU5kNzE4MnEyaDY0SEV2UjJreml3Y3ZCWUlXOWJscjVrdXl4czc2Yl94RFNZSGlWTlQ2S2xzLUYwRU9YWGxXcWM2aTJmX2c2UVhPSENieE1mLUpNWDFE0gGXA0FVX3lxTE5uSURaQktDYnNoV3dBUmRuM0FPV3NoTDVHekZBcHo3SHJROHRzU2JXTmJFb2p1Nk83RE42R1IyYXpGY3lCaENscHF6TEF2aDZNVlFfdlNEQ3FvZkE1cVBMc0lLdkZYRkJBMm9lMzItZ0Y2SzVaVXJxU1FWTWtnbnBna1B4RGdTekUyWFNCazBEMk5aTDdCY0JIcGdwZ2FQZEhoblZNakRBblVhSG9EZGcxU3UyNmJDMTVYcDJfWFV3S051aGdWS3ZlY3VQb2JoZVk4c3k5Q2x2RWJoNjVzSjlMQS1wVDdhVnJheUxfSmtZNWtTV2o4aGNRWUJTU1RZYldlOUFHZmt2aVZsVW02QUxfa3lRR2FIS09tUk5uMlFlbk5UUEVtdDZERFVYeDdoMXdVcDhvVjIxQzJ2NkNJMGZtNnRxVDY3YmFyZ2N3cFhPNlFNRlJrblJxZWpvdDR2dlpCd2M2R3pzRXBTZlBZajVyNEg3bm9NaktNSmItWnoyajRDN2tMcjNXUGhJUHlqYWdrRVJyOWVZ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T18:00:00.000Z",
-     "seen": "2026-11-25T18:12:58.972Z"
+     "seen": "2026-11-25T18:12:58.972Z",
+     "impact": "يهم الأفراد والمستثمرين في مصر لمتابعة سعر صرف الدولار وأثره المباشر على أسعار السلع وتكاليف المعيشة."
     },
     {
      "title": "«التخطيط» تبحث مع «إيرباص» و«CMA CGM» فرص التوسع والاستثمار في مصر",
      "url": "https://alborsaanews.com/2026/11/25/2009145",
      "source": "البورصة",
      "time": "2026-11-25T17:49:30.000Z",
-     "seen": "2026-11-25T18:32:59.146Z"
+     "seen": "2026-11-25T18:32:59.146Z",
+     "impact": "يهم المستثمرين في مصر رصد فرص التوسع وتدفق الاستثمارات الأجنبية الشريكة مع شركات عالمية كبرى."
     },
     {
      "title": "التحالف يعلن سقوط مقذوف أطلقته جماعة أنصار الله على ميناء جازان السعودي ووقوع أضرار",
@@ -295,10 +299,10 @@
     },
     {
      "title": "تخارج محدود للأموال الساخنة من مصر والدولار يرتفع",
-     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNX0R1TTVvUzIyWldTeHRxRmFJWWYzRERaSWNnUEZjRFNPZFRHbXVkS3N2OFU3Q3lnek90TjJzZE9KU29SREkzVTZ6TlRDYU1YQ284VWxvREh6Nm5NdVltb2FTU1R6QzlEMFVlTGFaNlJqR0NjSUZ4ZUx1WEs5SXgzQ1Nua1NOTUhzdFFGbW1qLURqWnQ0OFZLU3k1dERaOWszU2xUYUd0X0lFeFZJZ1ZCdTJzZ043aENySjRlalZwZ0x6bFR3NEFkNTk5bUhJdDlYTkZId2VsVXJJRHowT211TVRvOTZyUi1iNzFnT2hGUGUzUy1IdHd1OFJ5ZkhPa2V4ZFVEVjQySExPMkdySzB5Wk1POUhzWXVtRlE3dzRBbXM0ZkpzUWRxbURTLThMSDFEOHpCYkJFLUNmeXRlcDVNV3FCSm91bFJhYmoxYVZ1Y3RpSHVSSVdKRy1DNl9hdVl6RHZMTkpuMDBkSmtxVWhNQnRWTnJVcjltdVZEa2Mxa3BtR3pmbWd4bXRMbGh6X244NkJRcHRCa1lOcmJFZ3h3aEQwWTFjdTlLZnp0UHdWMkZKRDY2OEJWSmFhTUpwbVZPNXR3eDhJb9IBxwNBVV95cUxNX0R1TTVvUzIyWldTeHRxRmFJWWYzRERaSWNnUEZjRFNPZFRHbXVkS3N2OFU3Q3lnek90TjJzZE9KU29SREkzVTZ6TlRDYU1YQ284VWxvREh6Nm5NdVltb2FTU1R6QzlEMFVlTGFaNlJqR0NjSUZ4ZUx1WEs5SXgzQ1Nua1NOTUhzdFFGbW1qLURqWnQ0OFZLU3k1dERaOWszU2xUYUd0X0lFeFZJZ1ZCdTJzZ043aENySjRlalZwZ0x6bFR3NEFkNTk5bUhJdDlYTkZId2VsVXJJRHowT211TVRvOTZyUi1iNzFnT2hGUGUzUy1IdHd1OFJ5ZkhPa2V4ZFVEVjQySExPMkdySzB5Wk1POUhzWXVtRlE3dzRBbXM0ZkpzUWRxbURTLThMSDFEOHpCYkJFLUNmeXRlcDVNV3FCSm91bFJhYmoxYVZ1Y3RpSHVSSVdKRy1DNl9hdVl6RHZMTkpuMDBkSmtxVWhNQnRWTnJVcjltdVZEa2Mxa3BtR3pmbWd4bXRMbGh6X244NkJRcHRCa1lOcmJFZ3h3aEQwWTFjdTlLZnp0UHdWMkZKRDY2OEJWSmFhTUpwbVZPNXR3eDhJbw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNN3pVSGs0ZmRNbVlHS0lSRDJ6dWFzeU15eE5uUDhRVGE3WWdyWHdhM1RmeENSMDVNNTZwSXVZY01VOWVUMC1IcFFmcmhKRDhJUmNFVTgyNW8xbjcxai1Tcjl4dzVKWkIzWjgwVGpHZS1VNi1IRktfRzFEWUh5OUxWcnRtSDVqWUdjZFhUUHFjSkdpUlNtR2FjZUpUX2RFTEc0cmZIUDAyalMwcklGOE4zcGo5MzZrSU9rMVJHWTJwSFFVRGRRbkxIQ05vSzEzZW13NGp1SXBzc0N5a3hHdXQ2WFBnbGhDSW1hbHAwalZiMF90TU9EenJ1ekQ5NFRWeEJjckU4R0otYWxzbHVhUUVCZzdNdGN3ZlljYUxxTXJNT3E2TzFqNkU0QnRCZkZ3TGZIbkxfMFNzNWFNazZCMG9fU1BMU2xnVGcxWEdrQ0lWUC1zNjNJS2pDaldYbV96UExnc2Nld204ZFpEekZ1bTZGLVFrX3lwR1RZbS1vR0MyeGxkbk45RW52V0ZCY3VISHMtRXh2bmljZzZYMHlaSDhnYy13R2NoMDktaHNROFZQZERhbDRGcTdCMzRuc01DUU5aV2fSAccDQVVfeXFMTV9EdU01b1MyMlpXU3h0cUZhSVlmM0REWkljZ1BGY0RTT2RUR211ZEtzdjhVN0N5Z3pPdE4yc2RPSlNvUkRJM1U2ek5UQ2FNWENvOFVsb0RIejZuTXVZbW9hU1NUekM5RDBVZUxhWjZSakdDY0lGeGVMdVhLOUl4M0NTbmtTTk1Ic3RRRm1tai1Ealp0NDhWS1N5NXREWjlrM1NsVGFHdF9JRXhWSWdWQnUyc2dON2hDcko0ZWpWcGdMemxUdzRBZDU5OW1ISXQ5WE5GSHdlbFVySUR6ME9tdU1Ubzk2clItYjcxZ09oRlBlM1MtSHR3dThSeWZIT2tleGRVRFY0MkhMTzJHcksweVpNTzlIc1l1bUZRN3c0QW1zNGZKc1FkcW1EUy04TEgxRDh6QmJCRS1DZnl0ZXA1TVdxQkpvdWxSYWJqMWFWdWN0aUh1UklXSkctQzZfYXVZekR2TE5KbjAwZEprcVVoTUJ0Vk5yVXI5bXVWRGtjMWtwbUd6Zm1neG10TGxoel9uODZCUXB0QmtZTnJiRWd4d2hEMFkxY3U5S2Z6dFB3VjJGSkQ2NjhCVkphYU1KcG1WTzV0d3g4SW8?oc=5",
      "source": "العربية",
      "time": "2026-11-25T16:48:00.000Z",
-     "seen": "2026-11-25T18:22:58.624Z"
+     "seen": "2026-11-25T18:42:58.660Z"
     },
     {
      "title": "الحكومة تطلق حزمة تعديلات اللائحة التنفيذية لقانون الشركات",
@@ -353,11 +357,33 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مصر.. قتلى ومصابون وسيارات متفحمة بحريق دائري الوراق",
+     "url": "https://www.skynewsarabia.com/middle-east/1907121-%D9%85%D8%B5%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%D9%88%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D9%81%D8%AD%D9%85%D8%A9-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T18:33:11.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
+    },
+    {
      "title": "\"مرحلة جديدة من العلاقات\".. حفتر يلتقي أردوغان في تركيا واتفاق على إلغاء التأشيرات",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/25/haftar-meets-erdogan-in-turkiye-agreement-reached-to-abolish-visas",
      "source": "CNN بالعربية",
      "time": "2026-11-25T18:26:32.000Z",
-     "seen": "2026-11-25T18:32:59.146Z"
+     "seen": "2026-11-25T18:32:59.146Z",
+     "impact": "يهم المسافرين والمهتمين بالمرور بين ليبيا وتركيا لمتابعة مستجدات اتفاقية إلغاء التأشيرات."
+    },
+    {
+     "title": "مصر: وفاة 21 ​شخصا ​على ​الأقل ‌في ​حريق ‌​جراء ​انقلاب ​مركبة ​كانت تحمل منتجات ​بترولية",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261125-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-21-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%83%D8%A7%D9%86%D8%AA-%D8%AA%D8%AD%D9%85%D9%84-%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A8%D8%AA%D8%B1%D9%88%D9%84%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-25T18:22:15.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
+    },
+    {
+     "title": "مصر: مقتل 21 شخصا وإصابة العشرات جراء حريق اندلع بعد انقلاب مركبة تحمل منتجات بترولية",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261125-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-21-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%83%D8%A7%D9%86%D8%AA-%D8%AA%D8%AD%D9%85%D9%84-%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A8%D8%AA%D8%B1%D9%88%D9%84%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-25T18:21:20.000Z",
+     "seen": "2026-11-25T18:42:58.660Z"
     },
     {
      "title": "ماذا سيعني نشر سلاح نووي في الفضاء على كوكب الأرض؟",
@@ -405,7 +431,7 @@
      "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQdG11Z2N4Z0FBVmJxeHVyMnI2bl9UNThKbWFZd1BVUTc5S3hrVzJ5TTdBUDMxWG9VWXhDelc2VHJUMEU4ejRLQ0pSU3RoR1JJU1BUaHJVQ2V0YlYwVjRST2pYREdtUjhvTXJNdWVfajdpckpIcHMzRWhZOG5DUGVpVzdiaTVzSFFkUXBMQ01VQnF4dC11Sl9Vb3pvTDFDcG5XNGFRR25ZX19PaERwb1ZMbTNMbVFocWJFQ19sc0lyY2wyeEU2TkRob0g2V1UxMGwzd0Qyc0NoQUdZVkt4eGlUUV9yNS1BZThhZnYzUnA0SFBtS2dpZGZNeWFpZGNLNS0wYXpQSFhvTmdvZmJqbGUwcDNzek5tVUhqamNPRmpXQ3lJWkxSX3dpdjRDWGxMSzRqRTFnMXR4STRSMXV5LW5JSmNQYTJFeDJxcWIzOGdOckxIZUJvTTBpU0FZTXhMb3lyRC1DMEs5Z3RMVGVnTWtPUDM1Wm10OHFBa1Rrc2VOS0JCaG1QajFpWFZKX3VLalVKNTJsQkJTRU1iQkRFeXNHQmFFUEpzUzBxT1VtbjY4TjVoVEF3TmFzM1NKQnZscDhnNlJfaTNaQTNSYURMeXFEOWNETkNobDJ0NUtPeElSaDBtendBWUh3YXAzZTU3TTVvaEdFRUFaelNBeEI5ZnJCOENVLWd1YjFib2thVFZiMFo1UkpQTEYwZUp0QVhpNG9JMGMyd2ppbkhCUzYwV3ZUSU01YXhtWGxrWEdTbTVyNmw2V05QZjZnbXhiYmlIdkIwUWRqZElpaTJrb1NNQ3JHVWRsYkJJX1JJ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-25T17:30:23.000Z",
+     "time": "2026-11-25T17:36:49.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
     },
     {
@@ -423,32 +449,11 @@
      "seen": "2026-11-25T17:22:59.153Z"
     },
     {
-     "title": "السعودية.. سقوط مقذوف حوثي بميناء جازان دون إصابات",
-     "url": "https://www.skynewsarabia.com/middle-east/1907104-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B3%D9%82%D9%88%D8%B7-%D9%85%D9%82%D8%B0%D9%88%D9%81-%D8%AD%D9%88%D8%AB%D9%8A-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T17:07:17.000Z",
-     "seen": "2026-11-25T17:42:58.331Z"
-    },
-    {
-     "title": "الانتخابات الرئاسية الفرنسية 2027: من هو دافيد ليسنار الليبرالي الذي قلب حسابات اليمين في السباق؟",
-     "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261125-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A92027-%D9%85%D9%86-%D9%87%D9%88-%D8%AF%D8%A7%D9%81%D9%8A%D8%AF-%D9%84%D9%8A%D8%B3%D9%86%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D8%B1%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D9%82%D9%84%D8%A8-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D9%82",
-     "source": "فرانس 24",
-     "time": "2026-11-25T16:48:07.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
-    },
-    {
      "title": "التحالف بقيادة السعودية يعلن استهداف \"قدرات تشغيلية بميناء الحديدة\" باليمن",
      "url": "https://www.dw.com/ar/التحالف-بقيادة-السعودية-يعلن-استهداف-قدرات-تشغيلية-بميناء-الحديدة-باليمن/live-80015556?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-25T16:40:00.000Z",
      "seen": "2026-11-25T16:52:59.177Z"
-    },
-    {
-     "title": "تركيا.. الإعلام المعارض تحت الوصاية",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9/20261125-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-25T16:35:48.000Z",
-     "seen": "2026-11-25T16:42:58.371Z"
     }
    ]
   },
@@ -476,7 +481,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T16:11:41.000Z",
      "seen": "2026-11-25T16:12:58.542Z",
-     "impact": "يهتم مستخدمو أدوات الذكاء الاصطناعي والمطورون بتحسن كفاءة وموثوقية خدمات ChatGPT وCodex في أعمالهم اليومية."
+     "impact": "يهم المطورين والمستثمرين المعتمدين على الذكاء الاصطناعي متابعة مستوى استقرار وأداء نماذج OpenAI."
     },
     {
      "title": "حماس تعلن استشهاد مدير الأمن الداخلي بشمال غزة مع زوجته وأطفاله",
