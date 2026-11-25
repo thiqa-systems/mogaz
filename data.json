@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:43:16.101Z",
+ "updated": "2026-11-25T19:53:15.966Z",
  "minute": [
   "شهدت مصر استنفاراً صحياً ورفعاً لدرجة الاستعداد بالمستشفيات عقب حادث انقلاب سيارة منتجات بترولية وحريق هائل على طريق دائري الوراق أسفر عن قتلى ومصابين.",
   "على الصعيد الاقتصادي، سجل سعر صرف الدولار 54.63 جنيه في البنك الأهلي المصري، بينما بحثت وزارة التخطيط فرص التوسع والاستثمار مع شركتي إيرباص وCMA CGM.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T19:43:16.101Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T19:53:15.966Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5493,
-   "change": 1.13,
-   "asOf": "2026-11-25T19:33:40.000Z",
+   "value": 5476,
+   "change": 0.81,
+   "asOf": "2026-11-25T19:44:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6272,
-   "change": 1.13,
-   "asOf": "2026-11-25T19:33:40.000Z",
+   "value": 6252,
+   "change": 0.81,
+   "asOf": "2026-11-25T19:44:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3576,
-   "change": 0.41,
-   "asOf": "2026-11-25T19:33:40.000Z",
+   "value": 3565,
+   "change": 0.09,
+   "asOf": "2026-11-25T19:44:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0988,
-   "change": 0.73,
-   "asOf": "2026-11-25T19:42:45.000Z",
+   "value": 1.0984,
+   "change": 0.7,
+   "asOf": "2026-11-25T19:53:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.43,
-   "change": -1.06,
-   "asOf": "2026-11-25T19:33:05.000Z",
+   "value": 90.32,
+   "change": -1.18,
+   "asOf": "2026-11-25T19:44:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7180,
-   "change": -0.29,
-   "asOf": "2026-11-25T19:43:43.000Z",
+   "value": 7188,
+   "change": -0.18,
+   "asOf": "2026-11-25T19:54:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59906,
-   "change": 0.27,
-   "asOf": "2026-11-25T19:43:42.000Z",
+   "value": 59966,
+   "change": 0.37,
+   "asOf": "2026-11-25T19:54:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "النيابة تنتدب الطب الشرعى لتحليل عينات DNA لمعرفة هوية ضحايا حادث الوراق",
-     "url": "https://www.youm7.com/story/2026/11/25/النيابة-تنتدب-الطب-الشرعى-لتحليل-عينات-DNA-لمعرفة-هوية-ضحايا/7632621",
+     "title": "مصرع سائق سيارة المواد البترولية المتسببة في حريق دائري الوراق",
+     "url": "https://www.elbalad.news/7194650",
+     "source": "صدى البلد",
+     "time": "2026-11-25T19:52:35.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
+    {
+     "title": "التضامن: نقل مصابي حادث الطريق الدائري لعدة مستشفيات وتقديم الخدمات الطبية اللازمة",
+     "url": "https://www.elbalad.news/7194645",
+     "source": "صدى البلد",
+     "time": "2026-11-25T19:51:51.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
+    {
+     "title": "شهود عيان يروون تفاصيل حريق الوراق: العربية انفجرت وملحقناش نعمل حاجة",
+     "url": "https://www.elbalad.news/7194647",
+     "source": "صدى البلد",
+     "time": "2026-11-25T19:50:11.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
+    {
+     "title": "مدبولي يلغي زيارته إلى بني سويف بسبب حادث الوراق",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPS1lvMzN2XzNoTU5NR2FNd3I5ZTFybnAteGlWbDFpbE9peFpUYVgwcGtmSUhjNzdETkRkNklVdmhVYlVEVGQ1NFlMREVrSzVIQmZVWVRBeGR4ZS1FM1JkZloycjcwT3g1UlIxNjFpaGpLZTBmVkpsd3NJVEZiRS1lc0h6b1Z5Z01fN3RacUFRVndlNUFCVVpJeHRNcUtycmxXcC1lbDFhYzBRMXo1NGdGcEo5SFFJcUozRjRwUTQwaU9ZcmVKMW9GRlRPbXdiZ1FjcWVGeEc2bTJHemIyTkJpMzhkMWxkUGlmMkg2dlNjOXQwNllHSUkydEdBUUx4b1c2d3c1SWNQT0NOeG8zNWFvTkxXNEZVdkFYNUgxNTYwWXhfdWpqZWU3T2RQZzNfRm1QeFdlc1FLWlBoNDM5ajQzcFlDaEdIQmVVQzQwdXRLOFg3TWNoWk9tZFU0MnBVVWhZeWZVMFdVUmdDZFVjWmFtTm9wNndHS01WeXFVcDQxb09uSVpLdHVOcjllZjJSaENCU0IwSWg1UFU3OHhoN1hjSlRfc3l5TTJEV0QtOFpjcUNCUFZLSmRqMkxYSXZBRDVQ0gHGA0FVX3lxTE95cGFlYkhxRmtRVnFEd2RHY2JMOWNxbjRTV1J4QlNfRVZNck9LRktLbEdld2pvbGxpNXJQaWkyUzJIeDBGTjZxeG5zc0l1c25GQk5MaVJ1dmFyLU9BSG1ZODVEU2d0UVdOaTFqN2YwVkFTSlptRE91X1NWS21jWlJQVGRpOTlKeTR3aUFranlySHlaTjVOUV9BTWhaQXFqUG9ZajM2N0pxbHhOc0YxTTk5cTRNMmR2UXVGWmgybXo3Z05yMVBLUG9EZDlUcUlHOEVCUU4wTTlRajVxX0Y2R2JHLWpQTGFtZXh3d2FQejJoeWNHenE1eUFfaGRFczZjQ21OVTNOSWk4d2NZZFRnNzBXMjNOc0w0aWpacXRvRVo0WW1hM0NlUVA4N0R1NElkMmQzVjN5TW93OGY1Q1hnU3hOWTRCTjVLcE03ZXltODFvZV9fZHpRUGQybzNmMGpURWJfRzdnVlVESFBuMWNsdi15VHBHV2l1R2lISVBLNTQyUDd5SnE0ZW1Ec2t3MzFQYTMtaFlodGtyZVhMdk1INDlMdEtYMFJwYk5YQUlPcFp3bjAtNVB2R2s2QTNVVGtRSzEyQndsZ3c?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T19:44:44.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
+    {
+     "title": "النيابة: أخذ عينات DNA من جثامين لم يتم التعرف على هوياتهم بحادث الوراق",
+     "url": "https://www.youm7.com/story/2026/11/25/النيابة-أخذ-عينات-DNA-من-جثامين-لم-يتم-التعرف-على/7632621",
      "source": "اليوم السابع",
      "time": "2026-11-25T19:42:00.000Z",
-     "seen": "2026-11-25T19:43:16.101Z"
+     "seen": "2026-11-25T19:53:15.966Z"
     },
     {
      "title": "محافظ الجيزة يطمئن على مصابى حريق الطريق الدائرى بمستشفى بولاق الدكرور",
@@ -153,32 +181,18 @@
      "seen": "2026-11-25T19:43:16.101Z"
     },
     {
-     "title": "تفحص الأشلاء وتطلب تحليل DNA | النيابة تحقق في كارثة الوراق.. 30 وفاة و25 مصابًا وتفحّم 27 مركبة",
-     "url": "https://www.elbalad.news/7194639",
-     "source": "صدى البلد",
-     "time": "2026-11-25T19:41:49.000Z",
-     "seen": "2026-11-25T19:43:16.101Z"
-    },
-    {
-     "title": "محافظ الجيزة يطمئن على مصابي حريق الطريق الدائري بالوراق بمستشفى بولاق الدكرور",
-     "url": "https://www.elbalad.news/7194638",
-     "source": "صدى البلد",
-     "time": "2026-11-25T19:41:13.000Z",
-     "seen": "2026-11-25T19:43:16.101Z"
-    },
-    {
-     "title": "نقابة الصحفيين تنعى ضحايا حادث حريق «دائري الوراق».. وتدعو الالتزام بالمعايير المهنية والأخلاقية في التغطية",
-     "url": "https://www.elbalad.news/7194637",
-     "source": "صدى البلد",
-     "time": "2026-11-25T19:41:01.000Z",
-     "seen": "2026-11-25T19:43:16.101Z"
-    },
-    {
-     "title": "رئيس الوزراء يؤجل زيارته لـ بنى سويف لمتابعة تداعيات حادث حريق دائرى الوراق",
-     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-يؤجل-زيارته-لـ-بنى-سويف-لمتابعة-تداعيات-حادث/7632625",
+     "title": "النيابة تنتدب الطب الشرعى لتحليل عينات DNA لمعرفة هوية ضحايا حادث الوراق",
+     "url": "https://www.youm7.com/story/2026/11/25/النيابة-تنتدب-الطب-الشرعى-لتحليل-عينات-DNA-لمعرفة-هوية-ضحايا/7632621",
      "source": "اليوم السابع",
-     "time": "2026-11-25T19:34:00.000Z",
+     "time": "2026-11-25T19:42:00.000Z",
      "seen": "2026-11-25T19:43:16.101Z"
+    },
+    {
+     "title": "متحدث الوزراء: مدبولي يتابع مع وزيري \"الصحة والتضامن\" حادث الوراق",
+     "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOMDI3c2c5U1ZmdkF4ZmdkRTBCVlMtbHlxVllJdTMwbERRX2psSFpsaFRkYktNTTd2WjFRQmpuSVpyMXB1Ri1xZV9RdGxsYjVTUjlVNk51TllVSVc2bG1SNGRkV2ZsMTEtUUhOMWMxajMzRU8teU1RXzZTVV8wYmNfc2xYRl81enZUUnVtQTF4cDUwVnBack5qc0RNdkVaTDRJcHlGSjVGOXJicXFDSVNYLXBqNEpVa2c0T2FKS0NjZXhYZzRGNDJEMmZsZmZTTjZMeFRnUUZHREhzcGpvQnhJVEh3a1dVZEtzTlhrbUNzbHZSaUVKaEJzVHVuYjFCY2FuYVlKa0pCeXV4MXdNRHM2MWtGOGlxdjJwbmI2S1NoSTl2ZVA5MDFEWk90STlJQ19pOVpuaGZueVNTYmV4cTVIZXRCUnNWRmtHNGhDd09TRWJaVzZOMm9vc0hRanVFNEZrbnkxbXpidG1nX1ItbTloS2Vlb19WYmd0Wm9SQ1phUkFWYlhvOUlpcm1fNXFSc2xfTUhrcU5tX0FGbDFJdWJsVk1BNkJLSG9QcWVISTlwNUNVaEhQZjdGMmlTR1dkTElCZTI3NlpCWEx4M19YQ0Q2MnAzWi1RU3h6NnRTdVJkck1BYUNxdmZhMGlpRnRQMVFKWFd2czdldE9ienlqNnhnclpWNnBXQXNqOWp4SXBUS0VuNkJySmxQRnRla1lsaTFwVGpjZE5nbHJZZ9IBrwRBVV95cUxPZDJtalM3b3gyaGRreTN5YUJXWnNqQkhFNHhVWjBjbGtHa0RYclRKUmY0TTIxYkd4VWFzaXJ2cVFOM1pvNXp0SFZ1X3Q3bHdlLTZKZXVOQmh1eldqazRoRmJLTVVCeTdjRTFXcnhTSWVuZ1pMTS1fYnRVNGxOd1ZtWFVwZ3RNbFduU0lYZkJ3QkRGQkJub3pxdVJsUkxJZVVRcmtBNmd5RW5RZmhEeDlsX2tfckV1YnFlTnFrRmhMdVhzQnAyckUyOXlFeklYYnNvMEkxeTZHZ1VSX21XWWFfdDB1UlJPU0RRNUcza255ckZLTl81Z09VZVd0X2IteG40aFFYd056SzNDemcxRUpveDRTa0RYOTBnT043X0tEbkVhSWJKczB5MWt3aExTWVZHcVlhTndDUUh5ZWh1QS1kX09WOEw4a1lTcVR2U0RKSVZkYmdBeU9fMWpCMkViejRBUDA2VWE3OHl0dWJnZFRGSXNsQ2xVd0JGek16TktjellxXzBIVWZXckw4RjR4OC1OdTdvdEtRX00yZGtQLVl2VUYtVm5QTVhjS2R5SkNIWkEzYXlqY2l2Y0dsQVBRMm9qOV8zU1NVdm1faV9lTVo0ajBuQ0puWVJGam1UdXY4RXlDeDNGQVNDLVIwNm1pOGtfOHUyVUI2R3B6UGdLYnRSak9nVEZYZWtMOUU1cXlqajh3RmRXa1BnWEVKbjRDYVB1TjFuMVBEVjlMaXZRYmtJ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T19:40:53.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
     },
     {
      "title": "مدبولي يعلن تعديلات لائحة قانون الشركات ويتعهد بدعم الاستثمار",
@@ -221,20 +235,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-25T19:06:00.000Z",
      "seen": "2026-11-25T19:12:58.662Z"
-    },
-    {
-     "title": "قرارات حكومية مصرية جديدة لدعم الصناعة وتطوير الخدمات والمرافق",
-     "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNblR1NjZ4QjJMNUhFUTFrbi1pVVRSQWFFcmZUcUs2a1ZINWdscXBJWTBEVW5jWG95aVVoNEdqV1BINDFUS2FPSzQ5WjBFRUNKYkw1ZFg1aWdJZHpEZy1UaU1lZ0RBSU5MWmcySm5FZV82eUVBX1VKMjV6amFHaWw0MzFRSWVsMi11WS16ZzNRaXQtWUhDUFNab2N3a3E0VTMxekZzenZ0UnVzUEJmblNuZFZfZjF5X3JFbFk1Y09Yc0h3eXB4QnFDdmR0SWtKcUFsTEt5OUpFV1NzdUZhbFhJeDdtRmM4dGhiNW1ZMUhTUTBBV2dJQ2pPREpWNnh0elRZc2lkcFl6cVZkb1BqMjRkS0lpOElsbGswTkJQOV9zQjZrdUo5RXMyaW9za3hkcVFFM3dIbFJ2N0hBWlZpV2ZyNjBISnNvQndDNjlRMDh6ME5QX0JCZHVrSG9YZHp4SzE1aDdSbVJ2aTBfSjVhWm5OSGJyc3BleG81cFhkcVFiUXU3aUhMOTFtT3ZMRFZ2ZGVoWFdMNlZsNjRaNWZRc2I5VmtKWTFjRXBnbllLR2ctWDZ5Ty1zUWY5Smkyd2VTcGRqdERuNmtOQXhGNmJycENDVjc5ZGJJaFFlRmIzQjcyTGduY2NMdWwzb1VQYWdWTkx5ZzhLa2FEaTdFaUx1RjhQV1owWmVDVm9NZXBpbms3ZWthY002?oc=5",
-     "source": "CNN الاقتصادية",
-     "time": "2026-11-25T18:33:23.000Z",
-     "seen": "2026-11-25T19:43:16.101Z"
-    },
-    {
-     "title": "رئيس الوزراء يتابع مع الوزراء المعنيين تطورات حادث الحريق أعلى الطريق الدائري بالوراق",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWRiaWJMR0EwdUV6Tm1YX1dhdmNsbUxQd2tOSW5FRTBoVS1PeXpTbmtTaTFmUDZTeWNuSnZjRG9wRDdxTV9YMHRvb0F3UUhnQ3pIQmptNWpMdXh3bzkyMllTQmtyYzZmUWV4ZkpvZFA0MnBBN0RIeG1HTGVheXoxWDg1aUlHLWFLaXA2WF9tc01wdFlXSHY2NWVXc0NZUQ?oc=5",
-     "source": "بوابة الشروق",
-     "time": "2026-11-25T18:32:11.000Z",
-     "seen": "2026-11-25T19:43:16.101Z"
     }
    ]
   },
@@ -242,6 +242,14 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "قتلى ومصابون إثر حريق هائل لسيارة مواد بترولية فوق نفق مروري بمصر",
+     "url": "https://www.bbc.com/arabic/articles/ckjrelp34nz1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T19:46:40.000Z",
+     "seen": "2026-11-25T18:22:58.624Z",
+     "impact": "تؤثر الحوادث الجسيمة لسيارات المواد البترولية على السلامة العامة وانتظام حركة المرور للمواطنين والمتحركين عبر الأنفاق والمحاور."
+    },
     {
      "title": "لماذا تكتسب زيارة خليفة حفتر إلى تركيا أهمية خاصة؟",
      "url": "https://www.bbc.com/arabic/articles/cwj3kr2j888vo?at_medium=RSS&at_campaign=rss",
@@ -258,12 +266,18 @@
      "impact": "تؤثر التطورات الأمنية واستهداف المنشآت البحرية والنفطية في الخليج على أسعار الطاقة وحركة التجارة التي تمس المستثمرين."
     },
     {
-     "title": "قتلى ومصابون إثر حريق هائل لسيارة مواد بترولية فوق نفق مروري بمصر",
-     "url": "https://www.bbc.com/arabic/articles/ckjrelp34nz1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T19:11:32.000Z",
-     "seen": "2026-11-25T18:22:58.624Z",
-     "impact": "تؤثر الحوادث الجسيمة لسيارات المواد البترولية على السلامة العامة وانتظام حركة المرور للمواطنين والمتحركين عبر الأنفاق والمحاور."
+     "title": "أسعار الريال السعودي اليوم الأربعاء 25 نوفمبر 2026 في البنوك المصرية مقابل الجنيه المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9uV0hIeEdVZGEzMVhsS2NMQlRvYzM0cVdBdzY4eUIybHVJdV82Yy1YeHVtWGFOeWVLM3h5VFpfYTA0ellG?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-25T19:15:19.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
+    {
+     "title": "ارتفاع سعر اليوان الصيني مقابل الجنيه في البنك المركزي مساء اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sampGS2VLSU9fQnJUcWlUVUpCNHFOVHpCTGx5TGNsVjZjNy1idnBsR3JuNzVhZDlEVHh2ZFhwbk9ybWhJNl9J?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-25T19:12:00.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
     },
     {
      "title": "سعر الدولار مقابل الجنيه اليوم.. الأربعاء 25 نوفمبر 2026",
@@ -330,22 +344,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T16:03:38.000Z",
      "seen": "2026-11-25T18:32:59.146Z"
-    },
-    {
-     "title": "ارتفاع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92N3FNWV9RQ1NJaGtZZEJlWWRLYkR5U29qVWhLc3FQOGd5N0tLajYyZXNUMjdNUkN0Q2xTVXg3NlNZNGRVZXA0?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-25T16:01:00.000Z",
-     "seen": "2026-11-25T16:12:58.542Z",
-     "impact": "تفيد التحديثات المستمرة لسعر صرف الدولار بالبنوك المصرية الأفراد والمستثمرين في إدارة تعاملاتهم المالية."
-    },
-    {
-     "title": "تحديث رسمي.. أسعار العملات اليوم الأربعاء 25-11-2026 في البنك المركزي",
-     "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOd1Z3QUFxb2JXMEhpcGUxbWNaVnVVMnRmY0Vpa0ZIN09sR1hINnZINU9vS3A0bjNQbXlpYzBndnl1REZmZGdGakN0dmxBc1ZlbE9FdTc3U29XRUp0M1hDdzR4YWh5RjBDcjFxMC1aQU82NHdYNHQ0WU90LXlmM2ppSDFfanZaTUdRQXpCZy1aajJ1U0k0ZWFUYnU4NkYwalVUSnlOOUsxNzlfanJPNkxzQ2p2ZXU5SmUxOGZkd1V3MnRSTTYzWEFycS1DRmlTUnFXY3lGbU02NGkxWHJLOEthM1ZqRzBPOFdLQ2VCTlpCVGtTR1ZhcGZZMi11SzE2eHZld0ViNzJEbEE2bzZ3dzg2NE1JamkwNjl2QU15UlY5VFpwRXFjWk96bVllM2xhdFZiQmRKYUlJZ2V1bjhHUXdnNHdfVTluSS13clpEaDdJMmxqZzJ0ZzVPaUNaQlg3MXBf?oc=5",
-     "source": "جريدة المال",
-     "time": "2026-11-25T15:20:18.000Z",
-     "seen": "2026-11-25T15:32:58.533Z",
-     "impact": "يهم المتعاملين بالسوق المصري للوقوف على التحديثات الرسمية لأسعار العملات الأجنبية من البنك المركزي."
     }
    ]
   },
@@ -353,6 +351,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "مصر.. انفجار وسط السيارات يوثق بداية مأساة الوراق",
+     "url": "https://www.skynewsarabia.com/middle-east/1907129-%D9%85%D8%B5%D8%B1-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D9%88%D8%AB%D9%82-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T19:48:49.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
     {
      "title": "مصر.. شيخ الأزهر يعزي في ضحايا حريق الطريق الدائري بالجيزة",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/25/egypt-grand-imam-of-al-azhar-offers-condolences-ring-road-fire-victims",
@@ -364,7 +369,7 @@
      "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQdG11Z2N4Z0FBVmJxeHVyMnI2bl9UNThKbWFZd1BVUTc5S3hrVzJ5TTdBUDMxWG9VWXhDelc2VHJUMEU4ejRLQ0pSU3RoR1JJU1BUaHJVQ2V0YlYwVjRST2pYREdtUjhvTXJNdWVfajdpckpIcHMzRWhZOG5DUGVpVzdiaTVzSFFkUXBMQ01VQnF4dC11Sl9Vb3pvTDFDcG5XNGFRR25ZX19PaERwb1ZMbTNMbVFocWJFQ19sc0lyY2wyeEU2TkRob0g2V1UxMGwzd0Qyc0NoQUdZVkt4eGlUUV9yNS1BZThhZnYzUnA0SFBtS2dpZGZNeWFpZGNLNS0wYXpQSFhvTmdvZmJqbGUwcDNzek5tVUhqamNPRmpXQ3lJWkxSX3dpdjRDWGxMSzRqRTFnMXR4STRSMXV5LW5JSmNQYTJFeDJxcWIzOGdOckxIZUJvTTBpU0FZTXhMb3lyRC1DMEs5Z3RMVGVnTWtPUDM1Wm10OHFBa1Rrc2VOS0JCaG1QajFpWFZKX3VLalVKNTJsQkJTRU1iQkRFeXNHQmFFUEpzUzBxT1VtbjY4TjVoVEF3TmFzM1NKQnZscDhnNlJfaTNaQTNSYURMeXFEOWNETkNobDJ0NUtPeElSaDBtendBWUh3YXAzZTU3TTVvaEdFRUFaelNBeEI5ZnJCOENVLWd1YjFib2thVFZiMFo1UkpQTEYwZUp0QVhpNG9JMGMyd2ppbkhCUzYwV3ZUSU01YXhtWGxrWEdTbTVyNmw2V05QZjZnbXhiYmlIdkIwUWRqZElpaTJrb1NNQ3JHVWRsYkJJX1JJ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-25T19:28:04.000Z",
+     "time": "2026-11-25T19:29:30.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
     },
     {
@@ -446,13 +451,6 @@
      "source": "فرانس 24",
      "time": "2026-11-25T17:55:00.000Z",
      "seen": "2026-11-25T18:02:58.493Z"
-    },
-    {
-     "title": "نتنياهو يعلن \"انهيار المحاكمة\" ويطالب بإغلاق قضايا الفساد",
-     "url": "https://www.skynewsarabia.com/middle-east/1907107-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D9%88%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T17:42:48.000Z",
-     "seen": "2026-11-25T17:52:59.226Z"
     }
    ]
   },
@@ -540,6 +538,13 @@
      "seen": "2026-11-25T16:12:58.542Z"
     },
     {
+     "title": "فخامة الرئيس السيسى: مشروعات تحلية المياه ركيزة أساسية لتعزيز الأمن المائى",
+     "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPVzNoRVA5S2M1enpSTXNBRElwLTZFR2tSNFBESkprWU1xMjNGQjZ5Sk9kQkVqY0ljRlY4UFZ2bGpzSnZHaTR1enhqRnl6clV4MVQ0NF8yTWh1SUdnMmVXbEJNVGluQW5yUWhmbmRtdjBMTVRZVnNIdHYwbDlaZm5uTEQ4OC1qVXBEcThWMHV5ckVreWlwa1Qzemk2ZjBiLUxqaGNKR1ZfdlJ4VER0TnJlRFBPMFNIeHRXTWJSeGRuT1NqLXlqRXBMVm1MYlVsVW04VFpLZDB1VzFZYnJLdGVadVNOaEY3UTBpQzZ2VS1YWmNGbmpsdHN0cUl0NDQyek9UX0lZOHNndzVyQkJ3UW5qdmgyVmpOLXZZWTk5LVNOT045QTRZaDQ5cDNwZXNVZURPUG1QME5Nbnc1OTBoTGM1a295U3NwaFMyRnZTREU2a1NaTmVxMldKNVFMX1hFVGc4amRnTzdxbHpHeW5qWVJNTTd5WWM3SVBMcVNIVVJfeUw2UVZibnVySmpnY1dwcS1KblEzUjhzWjktTk42LVU2RTNOUzVmSkVBLUhSZ3hPTC0xdzRCZldoSXMzdlp5VVBZbExSbGdMdWVmSldZVEVfV0tYbWJKMkZkM1djc1A0RU8yT2xqdDQ0RDBKS0Y2aFdYeHhmR3BiV2NxVHRoWnJyMTZJR0ZLY0l5WG5xLXl2OWV0MnRjcF8tS0xwZVRzU1htempSVUpvakxpeVNjbTFv0gGqBEFVX3lxTE4wOVNnN2U5M2tTUmFBWjNSRFd3bWQzOGh0RGd5R25EX3B5aGlGUmQzZFhtVzR6bnRjOEw3RlpGMHZJWnc1Y0EtaS1IOGZBd2MzQ1NYdTMzemI3N3hRaW9abDBTbGpBOVR5ejNwYy1udjAwc2ZOZmlDTnN6TV9sZjZRSHVsUmg5V285S2djVU11dXVBRThicFJZanRCMjEwQnJmN0VobG52czlueUthamZyY2xyLVZYd0lYSE5jMUgzVjZGcFEyYnI4NENBMDlxSVkyX3ZDbHlhdjl0Y0premE5UFg1aXUzSEJvODdJMmZLMGRlMzBCbERROHpTRlhCY09GdUROLTI3NXFJMUE5bGNSc1ZsaW1KUngybnVRTzY1Z1JRVlA3bkRmX3lBMTBjQTlIcm81b2FIMFhlaUU1aXVTazRWWENrVGFhYUh6cEgwM1R4NDBzdlBDd0huTDh0WktPdHJXNEc4TmJ3SXJkZzVkdjRSbVpZYjhRMS0tQ3QxTGhYREY4YVMwbWtMTTJaMnprU1kybU9mbU5ZeDB2TDhYQmlpOHNrcFhOOW9XWTFUUUJpRkhPSVFBN241ckY4T19IUW5tUVVXMXB1blhTdVdQQmpnTC1aWWpPV1ZCSDVXNEtsbTBzLUF3aG5NRW1SQjAxVFVwZHV6cllGRW1YdklRbE95Z3JWZ204c2wyQWxuYV9DemFWWXFCSk14bVVuNjNCX1h1RHlvWlRB?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T11:58:00.000Z",
+     "seen": "2026-11-25T19:53:15.966Z"
+    },
+    {
      "title": "بمساعدة الـ AI.. \"هاكر مبتدئ\" يسرق بيانات 1.2 مليون بلجيكي",
      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPdjdqSG55eG9fQnlzeEllQTA1a3NOLU15NVpQRTlyb1VIQWZraUNKM29vWlNuX1ZsdXJoN1VOT01fRUNyRnNUUEpjRm8tMEJxWUpHbkk2OXVlaG1fd1dPaENJV1AyY3BTdnRmenZNU1pvZ0hJc2dwa3JmZEVwd2JlbllxcHRHODNvLVc5YVJyUl85S1JpXzhqVnJ4ZTk4MThIRWdJUzlzTnZjbkhWRGNlTHMyZlFRSlBwNHNsS1htOS14aXZOc1E4MGI3aDJrdXRVMlhrZ2txV0E2LUpuaDRPR2V4dXNic0lfb3JHZk9IQjNKU0k2NDVTNmItNW1femJhX0FITFllZVFEZG1nNUpFMUx4OW5TT2x4UG9XRjlYbXNudXlQano1V0JqRmZkSU1JcHBibWVoSGdocUwzZTVRN2ktYnA3T0ZSS1JXNmoxTmNhUzNpZXBuNDBsTmhiRTQ2dmdTdkhfQkF3enBOYmsxZUhJTW43a08wZEFfODMzT18tYkRxSnR4dDdTNnJBWnhnamItc2xndkdpLThVU1lIbWpHZFljeHdPV3c2bVFQREhmSmfSAbgDQVVfeXFMUGpDOE8xQzVJdGxoMWxiVjNWaDZMZEZydUxXbWpvVlh3eV9Ocm1mVUxLM0VaazhENERfYWtLblNTMkszQVViV1ZyUnktdDNvVnJtcjhONHNCOUpZc3RZRXFjdWxWV2hCcVg2alVaajA0cW1xN29YTlk4Zk1SeEJLLXpmOWZlTXhYUjBVd2xLdVdxd2wzdGNQZ2lYMTNsbXBmbmR5Q0ZVczVzejlTczNFZUtNSzZKMUEyWXFFWU1GNmIweFBBRWNzdEx3VnJtcVdUZ09KN2RIZGwyUzhncGl1anFDRF85TWx3aGs0M1ZIbi1qYUNRVHg4Zzg2cnZLaHFxelg5OW5GY2dqS3FaTVRMUFYxZllMeWwwdk1ObmZRRFlUV3JlTXVjMmVlRXJHRmdkTlBWaE9XdEJPY1dOX2Rid1JrYjFJaHVOa2t5YzFBemtqbE1JVzhlcVJaYXBnTDJWSWozdnhiYV9YRkNWUWhOSE1YMU4xRFR6VW90OEMwTjUtNFBtWnByTE4xUTNYRXNGYjFNYk1UekxjUUhFbGtvRnR4SG0xMjRndU0tYmlfSGlZdjdocjlRQWg?oc=5",
      "source": "العربية",
@@ -554,13 +559,6 @@
      "time": "2026-11-25T10:44:06.000Z",
      "seen": "2026-11-25T11:52:44.149Z",
      "impact": "ينبه الشركات في مصر إلى أهمية الاستعداد وآليات التعامل مع الأعطال التقنية المفاجئة في خدمات تكنولوجيا المعلومات."
-    },
-    {
-     "title": "مايكروسوفت تعلن \"الكود الأحمر\" بعد عطل استمر 24 ساعة",
-     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPNVdOLWNCQURTaWZ6WUIxc1ZsZTBBdE1yX2FKU3E5bGd6RWIyNk4wd3JLRWlMLUtrN2pjX0VoNG91NHNwNHQzeGdhREJmWk56V3pDMHJPVVUwcDhJQWVOUk9zdlFjUDZvWHdiNHl2UVdBT1BjMzRreFFIaGNJa1dmNDFTb05OVHk5bXZHZURjQ0pYY1g2aUI1a0VGNTJsY3NwYWFOSXN3ellBQjE4YThUTVNESllEZzktY2xYRVpwNzJiZUMzd0lfT2VMN0R6aHVhckhaRk5SRVUwN1dIMkF4NHhvcUpERDVDRDBHRTJrZ0lQN1VGMEpRWFloc1Z3dEJ5NWtHekhYVzJVbFNSeVZ6TXQtNzlHcV9wUl9MWkVOVC1zTTF5bEc2X011VjYtTXpnMGVKNDJfdTc0YkJJRGRCTjI4em5pZmpXMGd3dG9ha0t3V2NBWXFPYTA2RV9TQ2tteFpkOWotY0xxNmdRckhheVhXWmRPNWVkVTlaUmRPdERsOG4zNTVXdFZUZ2xWSUlxLXfSAZcDQVVfeXFMTWJHZG83Nk9XdXlqRnR2NVVud3FkR0RsLTBZVmlHeG9uWFl2ZGcyTy0tTGZ3SUFUd1RxZXJyQ2pVWnpmUXNkbXJpZXV2TkZlM3Jidk4tLWY2QnVaQ0NzenlKVjYzMGxha0ZvWDA5U05CcWRnY1FJeVliYW1mM05uaWthc0M5ZEsyR2tnanhmVlpneVVIT3RTOEE3Q3VwYjFOdjFhMjFraWR3dDJLa1JpOTdVLTkzUU5tTnBrUXl4Q3VVejBld0dCY2RkOXhyb0lqVFUtX3ZyZzd3TTdiOUdCVVMybVp1QVRPbHJmM2R3MjJnSUFtdGJMSVhPTk84MWtKaEcySFdfSkhRcXViWHl2aGpzZTJqMlp2Tm5lNnVOU3plVmQ2akd0N0xNV210ZEZSOHBYYlgwVnFQX2I0YVhTLVQyLTdlbHp2cEFzSENVOVowc3FwV0pLOFU0eDR2eTBnbnRwS3FEQTZ4TURDVEtFenNPRjF5V2o2Z0NZeXozcGVEZGVHaFQ5dDBfZW1Vd0RnVHhMTXJIWVE?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T10:38:08.000Z",
-     "seen": "2026-11-25T14:32:59.049Z"
     }
    ]
   }
