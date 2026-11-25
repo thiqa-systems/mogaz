@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:41:28.123Z",
+ "updated": "2026-11-25T00:51:28.124Z",
  "minute": [
   "أكدت منظمة الصحة العالمية تغطية مصر تسعين بالمئة من احتياجاتها الدوائية المحلية، بالتزامن مع استقرار سعر صرف الدولار مقابل الجنيه في البنوك.",
   "وعلى صعيد الأعمال والاستثمار، أسندت سكاى بورتس استشارات ميناء برج العرب الجاف لشركة إيطالية، بينما شهدت إيجارات منافذ التجزئة بالقاهرة ارتفاعاً بنسبة 7.9%.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T00:41:28.123Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T00:51:28.124Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5403,
-   "change": -2.98,
-   "asOf": "2026-11-25T00:31:29.000Z",
+   "value": 5398,
+   "change": -3.05,
+   "asOf": "2026-11-25T00:41:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6168,
-   "change": -2.98,
-   "asOf": "2026-11-25T00:31:29.000Z",
+   "value": 6163,
+   "change": -3.05,
+   "asOf": "2026-11-25T00:41:32.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3545,
-   "change": -2.91,
-   "asOf": "2026-11-25T00:31:29.000Z",
+   "value": 3543,
+   "change": -2.98,
+   "asOf": "2026-11-25T00:41:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0965,
-   "change": 0.52,
-   "asOf": "2026-11-25T00:40:45.000Z",
+   "value": 1.0964,
+   "change": 0.51,
+   "asOf": "2026-11-25T00:50:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.51,
-   "change": -0.96,
-   "asOf": "2026-11-25T00:15:00.000Z",
+   "value": 88.53,
+   "change": -0.94,
+   "asOf": "2026-11-25T00:40:01.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59511,
-   "change": -2.78,
-   "asOf": "2026-11-25T00:41:26.000Z",
+   "value": 59603,
+   "change": -2.63,
+   "asOf": "2026-11-25T00:51:33.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نيويورك تايمز: اختراق وكالات الاستخبارات الأمريكية طال معلومات غير سرية.. ومؤشرات حول تورّط الصين",
-     "url": "https://www.elbalad.news/7193631",
+     "title": "شركات كبرى بين الضحايا.. نيويورك تُدين «هواوي» بالتآمر لسرقة أسرار تجارية والاحتيال المصرفي",
+     "url": "https://www.elbalad.news/7193632",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:39:29.000Z",
-     "seen": "2026-11-25T00:41:28.123Z"
+     "time": "2026-11-25T00:51:02.000Z",
+     "seen": "2026-11-25T00:51:28.124Z"
     },
     {
-     "title": "محسن صلاح يكشف تفاصيل اتصال «الخطيب» بشأن عودة سامي قمصان إلى الأهلي",
-     "url": "https://www.elbalad.news/7193629",
+     "title": "أحمد مالك في لقاء خاص لـ«صدى البلد»: فيلم «ليلة باظت خالص» تجربة كوميدية ممتعة | فيديو",
+     "url": "https://www.elbalad.news/7193630",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:34:25.000Z",
-     "seen": "2026-11-25T00:41:28.123Z"
+     "time": "2026-11-25T00:43:14.000Z",
+     "seen": "2026-11-25T00:51:28.124Z"
     },
     {
-     "title": "يومان راحة سلبية للاعبي المصري.. والفريق يستأنف تدريباته الجمعة ببورسعيد استعدادًا للزمالك",
-     "url": "https://www.elbalad.news/7193628",
+     "title": "«الغندور» يكشف تفاصيل حديث سامي قمصان مع لاعبي المقاولون العرب بعد الفوز على «القناة»",
+     "url": "https://www.elbalad.news/7193617",
      "source": "صدى البلد",
-     "time": "2026-11-25T00:32:55.000Z",
-     "seen": "2026-11-25T00:41:28.123Z"
+     "time": "2026-11-25T00:40:00.000Z",
+     "seen": "2026-11-25T00:51:28.124Z"
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم الأربعاء 25/ 11/ 2026",
@@ -279,10 +279,10 @@
     },
     {
      "title": "هل يواصل الانخفاض؟.. آخر تطورات أسعار الذهب اليوم الأربعاء 25 نوفمبر 2025",
-     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQOGpRSVItMUdmdGlILUVhTThqdVRLZDBlWGZQaEZzejlpa3dyaG5xUzI0NW40SGtkbEdjSjRPVFlmcWF6TGMwMEFZQlRCVjJHdm94ZTV5NWQ0eVNaQm1nRVdPRVNTQUNVRW5nLThBN0Y3YTJNaHh6ZWZHVllHandaSW1CRmliUzJKN0ZjSlExRng0UXFabVhoRTBDMEhaZVJPZFE4Rm4yVDZIb3pQQ0hCc3ZDcTViUmdtRWFnRVF2X2JaOFBmRXg5ZWJaNEdleUJnSi1DS1JPd3dURVpxUDRNSTV3ZHoyZWVDU1B6djI2VGR5cUdGanZCUkVvQ0VKaDQyRHpWamw1NXNYeGtBR0JCYk5STGFYUXM1aDZpWlJLQThMWW9PS3l0T24tdk5LNmhxeHpvY0tVbGVkem16VmdXQTQ1aExIN3VFZzM0WEFnNlVlckgtQ1BwOW9KSUk0TTVFaTJzUGxaYTdDVU1jbWdKWF9BMTZLdkluSUswM1J3ZGlDZWV0eFlVb3JZcldfZkhuUjY3RmRPam5zdy1MUWpNUGhVZFotYzVkWTVyMWdzVVYweENUZUpkejVPTFRmNXZpUm9qa0JpcFFyVkdXak5DQ3FFRElpY3lfVUxZYzJwM0dxQQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQOGpRSVItMUdmdGlILUVhTThqdVRLZDBlWGZQaEZzejlpa3dyaG5xUzI0NW40SGtkbEdjSjRPVFlmcWF6TGMwMEFZQlRCVjJHdm94ZTV5NWQ0eVNaQm1nRVdPRVNTQUNVRW5nLThBN0Y3YTJNaHh6ZWZHVllHandaSW1CRmliUzJKN0ZjSlExRng0UXFabVhoRTBDMEhaZVJPZFE4Rm4yVDZIb3pQQ0hCc3ZDcTViUmdtRWFnRVF2X2JaOFBmRXg5ZWJaNEdleUJnSi1DS1JPd3dURVpxUDRNSTV3ZHoyZWVDU1B6djI2VGR5cUdGanZCUkVvQ0VKaDQyRHpWamw1NXNYeGtBR0JCYk5STGFYUXM1aDZpWlJLQThMWW9PS3l0T24tdk5LNmhxeHpvY0tVbGVkem16VmdXQTQ1aExIN3VFZzM0WEFnNlVlckgtQ1BwOW9KSUk0TTVFaTJzUGxaYTdDVU1jbWdKWF9BMTZLdkluSUswM1J3ZGlDZWV0eFlVb3JZcldfZkhuUjY3RmRPam5zdy1MUWpNUGhVZFotYzVkWTVyMWdzVVYweENUZUpkejVPTFRmNXZpUm9qa0JpcFFyVkdXak5DQ3FFRElpY3lfVUxZYzJwM0dxQdIB3ANBVV95cUxPYlQtRm1XY3kzY1dGSUUzb3NXUXlLNFBhY2ljYXVrWnlvZ2FvR3pIdUJlUWFQNnJsbEJ0bl9ST1JUS09QMm5RSWg2VWR0M0g0OTNNQ01lamRUUXFRXzlDMnZHelNTcExvRWQ2UUE4dGVHR0dOVloxWk5fdWVEM1ZtaXVfNVYyZW5xSDVLaTNITlA5SHUzb1VhVUxDVGtua3N1SUN5Z19tTjZsWjk2REExT2JRLU9RQXRNU1Vfa0NPdnlkX0wyQjVWUnlweENlNkRpWXlKUC12aTk5YWxVajcyUTlIeUdqb2VjVFhKTnpkZkYxcFRCbDZtRURFclltTG41WWgtNGdYbGszaDhCN0lwLUNiSEJ3Yy1CeHZwQmtIcHBlSXI4U3ExeXpPeHhYZWhyUjdyMHdxdmxXV3ZkbVQ5SlBja2pkOHZBWFpFMGF4ZlRNZDhPM09nY0N6bnY1Rm8ySGpqaGx2ckV2UmxQcnVnLUpKMUNVMjB0bl9YU1VDY25kekpWTDJic0VIMGlsa2cwVHRFaFJIS1RMLVlicDFFVjZ3MTdKZ203dG5tODNXYzNzU2RlbjltQ0ZibllDYjhJSmlaMlNrY3pJbGZ3X3dBTC1SdGJ1aVJOemJrdg?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-24T22:00:00.000Z",
-     "seen": "2026-11-24T23:31:28.051Z"
+     "seen": "2026-11-25T00:51:28.124Z"
     },
     {
      "title": "تقلبات أسواق التكنولوجيا تدفع المستثمرين لإعادة اكتشاف السوق الهندية",
@@ -350,6 +350,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "هيئة محلفين في نيويورك تدين \"هواوي\" بعشر تهم جنائية بينها سرقة أسرار تجارية",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261125-%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%AD%D9%84%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D8%A8%D8%B9%D8%B4%D8%B1-%D8%AA%D9%87%D9%85-%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%B3%D8%B1%D9%82%D8%A9-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-25T00:41:14.000Z",
+     "seen": "2026-11-25T00:51:28.124Z"
+    },
+    {
      "title": "اتصال هاتفي بين وزيري الخارجية السعودي والأميركي",
      "url": "https://www.skynewsarabia.com/middle-east/1906910-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%87%D8%A7%D8%AA%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
      "source": "سكاي نيوز عربية",
@@ -390,13 +397,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-24T22:56:31.000Z",
      "seen": "2026-11-24T23:11:28.017Z"
-    },
-    {
-     "title": "بعد عودته إلى منصبه رئيسا لإنفيديا جنسن هوانغ يرقص احتفالا مع موظفيه؟",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A3%D9%85-%D9%81%D8%A8%D8%B1%D9%83%D8%A9/20261124-%D8%A8%D8%B9%D8%AF-%D8%B9%D9%88%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A8%D9%87-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A7-%D9%84%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%AC%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D9%8A%D8%B1%D9%82%D8%B5-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D8%A7-%D9%85%D8%B9-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%87",
-     "source": "فرانس 24",
-     "time": "2026-11-24T22:37:18.000Z",
-     "seen": "2026-11-24T23:01:27.501Z"
     },
     {
      "title": "المغرب يطعن بعد حسم اللقب للسنغال .. و\"كاس\" تؤكد شرعية تتويج أسود التيرانغا بأمم أفريقيا 2025",
