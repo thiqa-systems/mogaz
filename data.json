@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:12:58.542Z",
+ "updated": "2026-11-25T16:22:58.551Z",
  "minute": [
   "شهدت مصر إعلان تعديلات جديدة على اللائحة التنفيذية لقانون الشركات ومباحثات مع شيفرون لربط حقل أفروديت، إلى جانب متابعة تحديثات أسعار العملات في البنوك.",
   "وعلى الصعيد الإقليمي والدولي، تواصلت التطورات العسكرية بين الحوثيين والسعودية، في حين شل إضراب مفاجئ حركة قطارات يوروستار بين باريس ولندن.",
@@ -9,7 +9,9 @@
   "at": "2026-11-25T16:02:58.494Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T16:22:58.551Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5338,
-   "change": -1.73,
-   "asOf": "2026-11-25T16:03:00.000Z",
+   "value": 5336,
+   "change": -1.77,
+   "asOf": "2026-11-25T16:13:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6095,
-   "change": -1.73,
-   "asOf": "2026-11-25T16:03:00.000Z",
+   "value": 6092,
+   "change": -1.77,
+   "asOf": "2026-11-25T16:13:08.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3475,
-   "change": -2.43,
-   "asOf": "2026-11-25T16:03:00.000Z",
+   "value": 3474,
+   "change": -2.47,
+   "asOf": "2026-11-25T16:13:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0947,
-   "change": 0.36,
-   "asOf": "2026-11-25T16:12:46.000Z",
+   "value": 1.0951,
+   "change": 0.39,
+   "asOf": "2026-11-25T16:22:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.87,
-   "change": -1.67,
-   "asOf": "2026-11-25T16:02:54.000Z",
+   "value": 89.78,
+   "change": -1.77,
+   "asOf": "2026-11-25T16:12:59.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 6995,
-   "change": -2.87,
-   "asOf": "2026-11-25T16:13:00.000Z",
+   "value": 7015,
+   "change": -2.59,
+   "asOf": "2026-11-25T16:23:10.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58320,
-   "change": -2.39,
-   "asOf": "2026-11-25T16:12:56.000Z",
+   "value": 58751,
+   "change": -1.67,
+   "asOf": "2026-11-25T16:23:09.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,18 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "نهى الأزهري: قناة السويس تستعيد مكانتها في حسابات كبرى شركات الشحن العالمية",
-     "url": "https://www.elbalad.news/7194360",
-     "source": "صدى البلد",
-     "time": "2026-11-25T16:10:44.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
+     "title": "وزير الاستثمار: تعديلات اللائحة التنفيذية لقانون الشركات تهدف تيسير بيئة العمل",
+     "url": "https://www.youm7.com/story/2026/11/25/وزير-الاستثمار-تعديلات-اللائحة-التنفيذية-لقانون-الشركات-تهدف-تيسير-بيئة/7632425",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T16:22:00.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
     },
     {
-     "title": "خالد عبد الفتاح: سامي قمصان قادر على النجاح مع الأهلي ويستحق الفرصة",
-     "url": "https://www.elbalad.news/7194404",
+     "title": "بعد سقوط 3 صواريخ روسية.. بولندا تتحرك لتأمين حدودها الشرقية",
+     "url": "https://www.elbalad.news/7194420",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:10:43.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
+     "time": "2026-11-25T16:21:44.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
+    },
+    {
+     "title": "جنايات الإسكندرية تحيل أوراق المحامية المتهمة بقتل والدتها إلى المفتي",
+     "url": "https://www.elbalad.news/7194418",
+     "source": "صدى البلد",
+     "time": "2026-11-25T16:18:37.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
+    },
+    {
+     "title": "الصحة العالمية ترفع تأهبها لأقصى درجات الطوارئ لمواجهة ظاهرة «النينيو»",
+     "url": "https://www.youm7.com/story/2026/11/25/الصحة-العالمية-ترفع-تأهبها-لأقصى-درجات-الطوارئ-لمواجهة-ظاهرة-«النينيو»/7632417",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T16:18:00.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
+    },
+    {
+     "title": "محافظ قنا يبحث إنشاء أسواق حضرية ومحطات وسيطة",
+     "url": "https://www.elbalad.news/7194276",
+     "source": "صدى البلد",
+     "time": "2026-11-25T16:16:17.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
     },
     {
      "title": "مرور القاهرة يعلن غلق اتجاه بكوبرى قصر النيل لمدة 15 ساعة لصيانة الفواصل",
@@ -156,28 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T16:10:00.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
-    },
-    {
-     "title": "​من أسوار القاعات إلى صناعة القرار.. كيف تقود الجامعات معركة اقتصاد المعرفة؟",
-     "url": "https://www.elbalad.news/7194395",
-     "source": "صدى البلد",
-     "time": "2026-11-25T16:09:44.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
-    },
-    {
-     "title": "وزارة الاستثمار: حزمة تعديلات لائحة قانون الشركات تهدف لتقليل زمن الإجراءات",
-     "url": "https://www.youm7.com/story/2026/11/25/وزارة-الاستثمار-حزمة-تعديلات-لائحة-قانون-الشركات-تهدف-لتقليل-زمن/7632409",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T16:06:00.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
-    },
-    {
-     "title": "48 تعديلا.. رئيس الوزراء يشهد إعلان تعديلات اللائحة التنفيذية لقانون الشركات",
-     "url": "https://www.youm7.com/story/2026/11/25/48-تعديلا-رئيس-الوزراء-يشهد-إعلان-تعديلات-اللائحة-التنفيذية-لقانون/7632403",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T16:01:00.000Z",
-     "seen": "2026-11-25T16:02:58.494Z",
-     "impact": "يهم المستثمرين وأصحاب الشركات في مصر للتعرف على القواعد والتسهيلات الجديدة المنظمة للأعمال."
     },
     {
      "title": "حدث في 8 ساعات| السيسي يستقبل رؤساء شركات عالمية.. ووظائف حكومية جديدة",
@@ -235,10 +236,10 @@
     },
     {
      "title": "مدبولي: استثمارات صناعة السيارات في مصر تقدر بـ5 مليارات دولار",
-     "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxQb1dLdm03YnJOOFZXeHRpZEhDY1FiMm0wYTJ5WS00UGZRUGhHSmVMandWNFRQQnVvOWJjRmNlMmJFWE0wTThicW9ZbTltYlQyczNIQWdiTzZKSURLdGhtX3VkRGJMUFVvblcxZ003QTVhYllvd1M2NERoUmwwQXlIbm5YV3h4bW5odUtNaDlmNFRRVEExbzlTeXVoTXN0RHNfN2tlVE1tWGp4dEdaNzNmc3hXaG4wVUVZdF9jc1Q4TnF2QXJUeExvNHpEdWNBWTN1MHFTTGlpWjRSbFhCRTl2WlNtMzNEWVlDSk0yUVFocHdua1BtSFAwMVlPckIwX1BDbkU0eDdITG93RENEbk95djJzRUVzNkFrSWdnVEZiQl9Kby1tM090dWhYU01oN203VVFiNEd3WWVwOG1jdUU3eFV5X0lyU2I2UUgxNG5sSzktQzRqS2dzT1hnU2pjY1NlTFJXamE0endPOV96VlhCaFRlMWxZcS1qc3dtaG5WSzM4aUZkSEczTjI1NmtiQXZmZ2Rrb0RadUdHZ284Q3l5SFYzeklsdU9MYmJ0d0FFM0lDTXQ5UG5DbnlqV0d5cnIzMUJ5TkR6anJMYi11VnowdC1xQmVzZXdVaU5pZnJ2bGhmcjE0NHFZeVdTMmt6R1dwNkhhTUpaR0NhVU9yNFk0bHNhbEVoVU9WZzR2eDNPb2RibGtkTk1tX0lGQUl0SXE5TnfSAaIEQVVfeXFMUG9XS3ZtN2JyTjhWV3h0aWRIQ2NRYjJtMGEyeVktNFBmUVBoR0plTGp3VjRUUEJ1bzliY0ZjZTJiRVhNME04YnFvWW05bWJUMnMzSEFnYk82SklES3RobV91ZERiTFBVb25XMWdNN0E1YWJZb3dTNjREaFJsMEF5SG5uWFd4eG1uaHVLTWg5ZjRUUVRBMW85U3l1aE1zdERzXzdrZVRNbVhqeHRHWjczZnN4V2huMFVFWXRfY3NUOE5xdkFyVHhMbzR6RHVjQVkzdTBxU0xpaVo0UmxYQkU5dlpTbTMzRFlZQ0pNMlFRaHB3bmtQbUhQMDFZT3JCMF9QQ25FNHg3SExvd0RDRG5PeXYyc0VFczZBa0lnZ1RGYkJfSm8tbTNPdHVoWFNNaDdtN1VRYjRHd1llcDhtY3VFN3hVeV9JclNiNlFIMTRubEs5LUM0aktnc09YZ1NqY2NTZUxSV2phNHp3TzlfelZYQmhUZTFsWXEtanN3bWhuVkszOGlGZEhHM04yNTZrYkF2Zmdka29EWnVHR2dvOEN5eUhWM3pJbHVPTGJidHdBRTNJQ010OVBuQ255aldHeXJyMzFCeU5EempyTGItdVZ6MHQtcUJlc2V3VWlOaWZydmxoZnIxNDRxWXlXUzJrekdXcDZIYU1KWkdDYVVPcjRZNGxzYWxFaFVPVmc0dngzT29kYmxrZE5NbV9JRkFJdElxOU53?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNYzRENmJmeExMTXYtR2kzc0drMXk1T29meTF5bWlDN0sxVVB5bm90Q2wxN3FoQ3EtTFQ1MlFVU001SFdVMndxYlRSZE40OGdTeWlnMlp0dU5LZm84Q2dWd3J6MUdVUWdBbm5ibDF4dEFIRDI2MTRQT2V0WlBJa2pmMWM2cnJBaEpERUtHeUZuVzNaMnVlYzlzd2dNcWp6TEdBR3JnLTdaOVpEdDduZ1p0akZZSndDcVNCOHRlbHgweVFtTlYxdk0weU0zR2xEMl92WUNlTWZSS251QnVkbk9CS1ZPSEU5QkNYQ1VYZ01FVDh4QldNNjV4Y2NWTUlQU1o4LUZwVWpyRGRZdnpRY0VOSE52X1FyckdPM19UWmNOVEdmVFNzbHVMdTdBY0JhMExkQUxmUlhjXzhtdGdVS3ZzYXhEWUlvWVNzTHRUN0o1ZEdpaG1YU0MyRTNTRHFEZjRtV2lGQjdTdHdyeXBXSG1ybEZaYTRXcnI3cWJYQ0c4Mm9KaWRRNGtpVURIS1ZoYUpNUGJ2UEpXZHFXeUdGYWltMWJCS09hd2JzZ0FtbGtSal9fZ0M0djN2Q0RVT0E0Tkt5eXZOQXJCRmdrNWpTT2FpX2JNTGRVNUQzMUJnU19ObGlWTWRVWFVSWWZ2X1dNMUxxUTBLcTVidWRsMXBrSWZmQUUxMkpaVVZkOWRQbG9OcGk3VUNoaWZ6UzVULUXSAaIEQVVfeXFMUG9XS3ZtN2JyTjhWV3h0aWRIQ2NRYjJtMGEyeVktNFBmUVBoR0plTGp3VjRUUEJ1bzliY0ZjZTJiRVhNME04YnFvWW05bWJUMnMzSEFnYk82SklES3RobV91ZERiTFBVb25XMWdNN0E1YWJZb3dTNjREaFJsMEF5SG5uWFd4eG1uaHVLTWg5ZjRUUVRBMW85U3l1aE1zdERzXzdrZVRNbVhqeHRHWjczZnN4V2huMFVFWXRfY3NUOE5xdkFyVHhMbzR6RHVjQVkzdTBxU0xpaVo0UmxYQkU5dlpTbTMzRFlZQ0pNMlFRaHB3bmtQbUhQMDFZT3JCMF9QQ25FNHg3SExvd0RDRG5PeXYyc0VFczZBa0lnZ1RGYkJfSm8tbTNPdHVoWFNNaDdtN1VRYjRHd1llcDhtY3VFN3hVeV9JclNiNlFIMTRubEs5LUM0aktnc09YZ1NqY2NTZUxSV2phNHp3TzlfelZYQmhUZTFsWXEtanN3bWhuVkszOGlGZEhHM04yNTZrYkF2Zmdka29EWnVHR2dvOEN5eUhWM3pJbHVPTGJidHdBRTNJQ010OVBuQ255aldHeXJyMzFCeU5EempyTGItdVZ6MHQtcUJlc2V3VWlOaWZydmxoZnIxNDRxWXlXUzJrekdXcDZIYU1KWkdDYVVPcjRZNGxzYWxFaFVPVmc0dngzT29kYmxrZE5NbV9JRkFJdElxOU53?oc=5",
      "source": "Masrawy",
      "time": "2026-11-25T13:20:26.000Z",
-     "seen": "2026-11-25T16:02:58.494Z"
+     "seen": "2026-11-25T16:22:58.551Z"
     }
    ]
   },
@@ -246,6 +247,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "الألغام تواصل حصد الأرواح في سوريا بعد عامين من انتهاء الحرب",
+     "url": "https://www.bbc.com/arabic/articles/cxg5rznnjmmlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T16:19:22.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
+    },
     {
      "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVDhKVVRIbTVGY25SNXBtamYwb1FvMFZzemFLeUJtWGlYS3Bodnp1RXBRbzZWbTJqNkJnaFgxUDJYTDNWdG9sNEx3YmdkU0JyY1l1bF9zR1F3LVRDMG5KX3FPeUVfcDlicVp1d2JieDhfZXhwbDFXUkN2aHZmaXFiemxWSDBnbUFSalNFMVlwUkFJclBqNWNRRGpDQ0ZtRzd1cThTZWlJWVZpUWktVlFxNC1iYzRlbExGZU5Eb090WjY2R1oxLUVTeENYS1FqcGJDZ2RyQ0cwaUdYRjU1V2R6UEZZWDBMTFhjMTZTNzVOUTNFOUZsdFBiLXlxTmIzb3NfVlJzQ0ZNVnFJa3N4SlRUOTdUdHUwYXhzQTRxMXBObGExV3ZfQVByTUVCNXdjWkNHdUk1V2NNUVJtNmZyMEJfdFRYd1pHZFlURUprQ0lic0pYdkJ3Yi15bFpyb09PYzNZOVZpSXRNSE1BTEpzZDJUQ2ZEMzMzblNFcFRYOFhKTTAxYkxBV0JQd0h3Mk4xVnl1d1lJSnowOUpxRW16RE5kVXJadmh3Nlg3di00SnBWRHlteHhjUnNWYUtpN1FyYXdhQjlFMG5fRVFBNExkZW9UN1RR0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
@@ -342,14 +350,6 @@
      "time": "2026-11-25T14:20:00.000Z",
      "seen": "2026-11-25T14:32:59.049Z",
      "impact": "يهم الأفراد والمستثمرين الذين لديهم تعاملات مالية أو خطط سفر وتجارة تقتضي استخدام اليورو."
-    },
-    {
-     "title": "ارتفاع الدولار أمام الجنيه في ختام تعاملات الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nZnMzUkU3RlZSd3o0QzBRX3d1RlRXcGhJamZfcEhLVU1FWmtydDg2dFI5dWVFVGF4elNnX1BWRXF6TjB4aF9Z?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-25T14:17:00.000Z",
-     "seen": "2026-11-25T14:22:58.439Z",
-     "impact": "يوفر للمتابعين صورة عن اتجاهات أسعار الصرف بنهاية التعاملات اليومية في البنوك."
     }
    ]
   },
@@ -384,6 +384,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T15:53:06.000Z",
      "seen": "2026-11-25T16:02:58.494Z"
+    },
+    {
+     "title": "\"فجر اليمن\" توسع الضغط على الحوثيين.. بضربات مكثفة",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T15:52:00.000Z",
+     "seen": "2026-11-25T16:22:58.551Z"
     },
     {
      "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
@@ -447,13 +454,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T12:58:00.000Z",
      "seen": "2026-11-25T15:22:58.860Z"
-    },
-    {
-     "title": "قميص لامين جمال يشعل الانتخابات الإسبانية والسجال بين النشطاء",
-     "url": "https://www.aljazeera.net/sport/2026/11/25/%d9%82%d9%85%d9%8a%d8%b5-%d9%84%d8%a7%d9%85%d9%8a%d9%86-%d8%ac%d9%85%d8%a7%d9%84-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-25T12:49:45.000Z",
-     "seen": "2026-11-25T16:02:58.494Z"
     }
    ]
   },
