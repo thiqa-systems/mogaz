@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:53:15.716Z",
+ "updated": "2026-11-25T23:03:15.695Z",
  "minute": [
   "شهدت مصر حادث حريق هائل ناتج عن انقلاب صهريج مواد بترولية بالوراق في الجيزة أسفر عن ضحايا، وأعقبه توجيه رئاسي وإخلاء الموقع وفتح الطريق بالاتجاهين.",
   "استقرت متابعة الأسواق الاقتصادية في مصر على متابعة أسعار الدولار مقابل الجنيه اليوم الأربعاء في البنوك.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T22:53:15.716Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T23:03:15.695Z"
  },
  "markets": [
   {
@@ -66,7 +66,7 @@
    "unit": "$",
    "value": 1.0979,
    "change": 0.65,
-   "asOf": "2026-11-25T22:52:44.000Z",
+   "asOf": "2026-11-25T23:00:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60100,
-   "change": 0.59,
-   "asOf": "2026-11-25T22:53:16.000Z",
+   "value": 59937,
+   "change": 0.32,
+   "asOf": "2026-11-25T23:01:26.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عمرو يوسف ينعى ضحايا حادث الطريق الدائري بالوراق بكلمات مؤثرة",
-     "url": "https://www.elbalad.news/7194863",
+     "title": "أسعار مواد البناء في مصر اليوم الخميس.. تراجع الحديد وارتفاع الأسمنت",
+     "url": "https://www.elbalad.news/7194736",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:50:05.000Z",
-     "seen": "2026-11-25T22:53:15.716Z"
+     "time": "2026-11-25T23:02:46.000Z",
+     "seen": "2026-11-25T23:03:15.695Z"
     },
     {
-     "title": "نقابة العلوم الصحية تنعى ضحايا حادث الوراق وتتمنى الشفاء العاجل للمصابين",
-     "url": "https://www.elbalad.news/7194862",
+     "title": "«القرية المنتجة» .. كيف تتحوّل 1000 قرية مصرية إلى مراكز صناعية وإنتاجية بحلول 2030؟",
+     "url": "https://www.elbalad.news/7194859",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:49:29.000Z",
-     "seen": "2026-11-25T22:53:15.716Z"
+     "time": "2026-11-25T23:01:16.000Z",
+     "seen": "2026-11-25T23:03:15.695Z"
     },
     {
-     "title": "برلمانية تحذر من خطورة إدمان الألعاب الرقمية.. وتدعم حجب GTA 6",
-     "url": "https://www.elbalad.news/7194860",
+     "title": "أفضل فرصة لرصد أورانوس.. الكوكب السابع يزين سماء مصر الليلة",
+     "url": "https://www.youm7.com/story/2026/11/26/أفضل-فرصة-لرصد-أورانوس-الكوكب-السابع-يزين-سماء-مصر-الليلة/7631837",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T23:00:00.000Z",
+     "seen": "2026-11-25T23:03:15.695Z"
+    },
+    {
+     "title": "رئيسة القومى للمرأة: الدولة المصرية تولي اهتماما غير مسبوق بحماية الأسرة",
+     "url": "https://www.youm7.com/story/2026/11/26/رئيسة-القومى-للمرأة-الدولة-المصرية-تولي-اهتماما-غير-مسبوق-بحماية/7630424",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T23:00:00.000Z",
+     "seen": "2026-11-25T23:03:15.695Z"
+    },
+    {
+     "title": "أسعار هيونداي جيتز موديل 2007 المستعملة في مصر",
+     "url": "https://www.elbalad.news/7194851",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:48:54.000Z",
-     "seen": "2026-11-25T22:53:15.716Z"
+     "time": "2026-11-25T23:00:00.000Z",
+     "seen": "2026-11-25T23:03:15.695Z"
     },
     {
      "title": "مؤسسات التحالف الوطني تعزز استجابتها الصحية لحادث الوراق وتوفر الرعاية الطبية للمصابين",
@@ -168,24 +182,10 @@
      "seen": "2026-11-25T22:43:15.283Z"
     },
     {
-     "title": "نقيب الأشراف يعزي أسر ضحايا حريق الطريق الدائري ويشيد بجهود فرق الإنقاذ والإسعاف",
-     "url": "https://www.youm7.com/story/2026/11/26/نقيب-الأشراف-يعزي-أسر-ضحايا-حريق-الطريق-الدائري-ويشيد-بجهود/7632779",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T22:39:00.000Z",
-     "seen": "2026-11-25T22:43:15.283Z"
-    },
-    {
      "title": "رسائل مدبولي خلال مؤتمر تعديلات قانون الشركات",
      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQaGdTYUlTMm04Z1NnV2FXTS1XUGhmelJhTkZIWmJzWWZwa2IxTnZRRmFSQlpQYW5WUjJnTDlWdWJjMGdab2w5Y1VtZVlZLS1sT2lfWmhqcXcycW83aDRlV092NzRKbEdxaWdwMmVLSTRKcVgwX1RtX2pUZ0x5N1R1Q3VITXBPaXdlMFMtSkJZLURud2FqWWw5MGVXeTdYMTBLQ2hmdGMzYVNmdWVNTm5tWW9Rd2FWcEszWWNndVl3eFROQ3JqTDVpZmZ6QlZsdF93RHgtRUhyQ0J1aU1EYTdkb2VZUjR3SmFyZ2NpT1VrVTg4dW9tTHRQUzhFLVFtZnRlVDA5OENNU2JvOEpvNVBvWXhvRUE4b3JsS3RkRHRuOU4yNjFZcEJlZUVNVDJNQWpvUWdWanlJUFFXbXFOU2lyM1pQY2ItVzVZU1JOUDZzWWVGRi1QcWpZQkdzbzBPWl9GLWRTN2Y1VGdNWTBsNUUzS1Z3Zld2Z1RyWVBRNVpYSVFPR2YwaFpSVHBzdlFuSDZLalNzTF9HZkM4Zm04UlF5SURlc19BeGZYSm9nMExBVHhoMWtjWWfSAbsDQVVfeXFMTmZZZGUwZmlMUEFreTBMS09vT0pLOFFPSW0wNC1Lc3A5cnZSSzlSOVRUdFBOenh1dkdNUDJ0YmxrVm5xdmw2cDNzeXpkbWlGa3dtUmdDSTB6MXlxLU54d0ZGcEFSOUtUOVBkUXZRMVhYZUpmVmZhQkdaaExueTBUemV0dDF2SjNmY0FCWWNMaU5YYzl6dGhvS3NidE5tdTBQOTRweWNRUzVaV1lXNjRzWTJFSGtJQm9KZC1ibUNkSmpkemUteHotUjc0X21PR3JzYWRROXBXMl9CTHZ5dVFraW5jbGZWWDhWLUVSY2ZNVGI1WWszaVVjTFl2X090RDI5ZncxdHduS0ZocGJkSDVabU53cEpxbTR5Ykk0RFRmNG4ycVR4REY3WWxZT0VHMVN2QllwMWxzZ2R0YTdTbmhRTXdSaFNDdnIyUTR0b3ZfdlRiZzNRY2JxSFdpWVVMZXg3TE5hRllQRFc3WGU3a2tneElsLTdfaFg4amVfSUk2Z29RaHBDYU1HSGE2a1ptb2l1LTVTQjBBR0RiWk1tOVRCeS12M0VDbHZUNE12RjluSUw0NzhGSGNMVi1GcGc?oc=5",
      "source": "Masrawy",
      "time": "2026-11-25T22:37:54.000Z",
-     "seen": "2026-11-25T22:43:15.283Z"
-    },
-    {
-     "title": "«مصر الخير» توجّه فرق الإغاثة والطوارئ إلى موقع حادث حريق الوراق والمستشفيات",
-     "url": "https://www.youm7.com/story/2026/11/26/«مصر-الخير»-توجّه-فرق-الإغاثة-والطوارئ-إلى-موقع-حادث-حريق/7632780",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T22:37:00.000Z",
      "seen": "2026-11-25T22:43:15.283Z"
     },
     {
@@ -354,7 +354,14 @@
    "title": "العالم",
    "items": [
     {
-     "title": "دوري أبطال أوروبا: ليفربول يستعيد انتصاراته بثلاثية وليل يقلب النتيجة على بايرن ميونيخ",
+     "title": "مصر.. وزارة الصحة تكشف الحصيلة النهائية لضحايا كارثة الوراق",
+     "url": "https://www.skynewsarabia.com/middle-east/1907147-%D9%85%D8%B5%D8%B1-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T22:56:33.000Z",
+     "seen": "2026-11-25T23:03:15.695Z"
+    },
+    {
+     "title": "دوري أبطال أوروبا: باريس سان جرمان يفقد الصدارة بتعادله مع روما وليل يقلب النتيجة على بايرن ميونيخ",
      "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261125-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%8A%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D9%83%D9%84%D9%88%D8%A8-%D8%A8%D8%B1%D9%88%D8%AC-%D9%88%D9%84%D9%8A%D9%84-%D9%8A%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D9%8A%D8%AE",
      "source": "فرانس 24",
      "time": "2026-11-25T22:34:04.000Z",
@@ -424,13 +431,6 @@
      "time": "2026-11-25T20:24:00.000Z",
      "seen": "2026-11-25T20:43:15.396Z",
      "impact": "يهم القاطنين بمحافظة الجيزة لمتابعة تطورات الحريق وآثاره على المنطقة والسلامة العامة."
-    },
-    {
-     "title": "مصر.. انفجار وسط السيارات يوثق بداية مأساة الوراق",
-     "url": "https://www.skynewsarabia.com/middle-east/1907129-%D9%85%D8%B5%D8%B1-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D9%88%D8%AB%D9%82-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T19:48:49.000Z",
-     "seen": "2026-11-25T19:53:15.966Z"
     },
     {
      "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
