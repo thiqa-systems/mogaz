@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:13:15.892Z",
+ "updated": "2026-11-25T20:23:15.871Z",
  "minute": [
   "شهدت مصر استنفاراً صحياً ورفعاً لدرجة الاستعداد بالمستشفيات عقب حادث انقلاب سيارة منتجات بترولية وحريق هائل على طريق دائري الوراق أسفر عن قتلى ومصابين.",
   "على الصعيد الاقتصادي، سجل سعر صرف الدولار 54.63 جنيه في البنك الأهلي المصري، بينما بحثت وزارة التخطيط فرص التوسع والاستثمار مع شركتي إيرباص وCMA CGM.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T20:13:15.892Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T20:23:15.871Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 54.6,
    "change": 0.72,
-   "asOf": "2026-11-25T19:04:25.000Z",
+   "asOf": "2026-11-25T20:20:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5497,
-   "change": 1.2,
-   "asOf": "2026-11-25T20:03:31.000Z",
+   "value": 5518,
+   "change": 1.59,
+   "asOf": "2026-11-25T20:13:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6276,
-   "change": 1.2,
-   "asOf": "2026-11-25T20:03:31.000Z",
+   "value": 6300,
+   "change": 1.59,
+   "asOf": "2026-11-25T20:13:18.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3579,
-   "change": 0.48,
-   "asOf": "2026-11-25T20:03:31.000Z",
+   "value": 3593,
+   "change": 0.86,
+   "asOf": "2026-11-25T20:13:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0982,
    "change": 0.68,
-   "asOf": "2026-11-25T20:12:46.000Z",
+   "asOf": "2026-11-25T20:22:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.54,
-   "change": -0.94,
-   "asOf": "2026-11-25T20:03:21.000Z",
+   "value": 90.51,
+   "change": -0.97,
+   "asOf": "2026-11-25T20:12:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7181,
-   "change": -0.28,
-   "asOf": "2026-11-25T20:13:36.000Z",
+   "value": 7179,
+   "change": -0.3,
+   "asOf": "2026-11-25T20:23:18.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60002,
-   "change": 0.42,
-   "asOf": "2026-11-25T20:13:34.000Z",
+   "value": 59992,
+   "change": 0.41,
+   "asOf": "2026-11-25T20:23:16.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,53 +139,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الشرقية إنبي يهزم سيراميكا كليوباترا بهدف ويحقق انتصارًا ثمينًا في الدوري",
-     "url": "https://www.elbalad.news/7194682",
+     "title": "السيدة انتصار السيسي توجه فرق الهلال الأحمر بتقديم الدعم لضحايا حادث الوراق",
+     "url": "https://www.elbalad.news/7194688",
      "source": "صدى البلد",
-     "time": "2026-11-25T20:12:23.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
+     "time": "2026-11-25T20:20:48.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
-     "title": "وزير الصحة يرفع درجة الاستعداد بالغرفة المركزية للأزمات بالوزارة ويتابع تقديم الخدمات الطبية لمصابي الوراق ويتوجه للموقع ومستشفيات الإحالة",
-     "url": "https://www.elbalad.news/7194683",
+     "title": "BYD تقترب من امتلاك مصنع سيارات في فرنسا.. خطوة جديدة لمواجهة الرسوم الأوروبية",
+     "url": "https://www.elbalad.news/7194693",
      "source": "صدى البلد",
-     "time": "2026-11-25T20:12:19.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
+     "time": "2026-11-25T20:20:46.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
-     "title": "«الجبهة الوطنية» ينعى ضحايا حادث الدائري بالوراق.. ويقدّم تعازٍيه لأسر المتوفين ودعوات بالشفاء للمصابين",
-     "url": "https://www.elbalad.news/7194658",
+     "title": "حزب الشعب الجمهوري ينعى ضحايا حريق \"دائري الوراق\" ويكلف وفدًا برئاسة النائب طارق الطويل لمتابعة تداعيات الحادث",
+     "url": "https://www.elbalad.news/7194692",
      "source": "صدى البلد",
-     "time": "2026-11-25T20:12:18.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
+     "time": "2026-11-25T20:20:27.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
-     "title": "حادث الوراق.. لحظة انفجار سيارة المواد البترولية أعلى الطريق الدائرى",
-     "url": "https://www.youm7.com/story/2026/11/25/حادث-الوراق-لحظة-انفجار-سيارة-المواد-البترولية-أعلى-الطريق-الدائرى/7632630",
+     "title": "الهلال الأحمر المصري: تقديم الدعم النفسي لمصابي وأسر ضحايا حريق الطريق الدائري",
+     "url": "https://www.youm7.com/story/2026/11/25/الهلال-الأحمر-المصري-تقديم-الدعم-النفسي-لمصابي-وأسر-ضحايا-حريق/7632664",
      "source": "اليوم السابع",
-     "time": "2026-11-25T20:05:00.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
+     "time": "2026-11-25T20:19:00.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
-     "title": "البابا تواضروس: نعزى أسر ضحايا حادث طريق الوراق ونصلى لشفاء المصابين",
-     "url": "https://www.youm7.com/story/2026/11/25/البابا-تواضروس-نعزى-أسر-ضحايا-حادث-طريق-الوراق-ونصلى-لشفاء/7632638",
+     "title": "«القومي للمرأة» ينعى ضحايا الحادث الأليم أعلى الطريق الدائري بمنطقة الوراق",
+     "url": "https://www.youm7.com/story/2026/11/25/«القومي-للمرأة»-ينعى-ضحايا-الحادث-الأليم-أعلى-الطريق-الدائري-بمنطقة/7632652",
      "source": "اليوم السابع",
-     "time": "2026-11-25T19:57:00.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
+     "time": "2026-11-25T20:18:00.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
-     "title": "رئيس الطائفة الإنجيلية بمصر ينعي ضحايا حادث حريق الوراق بالجيزة",
-     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الطائفة-الإنجيلية-بمصر-ينعي-ضحايا-حادث-حريق-الوراق-بالجيزة/7632646",
+     "title": "وزير الصحة يتابع مصابي حريق الوراق ميدانيًا.. 30 وفاة و19 مصابًا في حصر أولي",
+     "url": "https://www.youm7.com/story/2026/11/25/وزير-الصحة-يتابع-مصابي-حريق-الوراق-ميدانيًا-30-وفاة-و19/7632662",
      "source": "اليوم السابع",
-     "time": "2026-11-25T19:57:00.000Z",
-     "seen": "2026-11-25T20:03:15.546Z"
+     "time": "2026-11-25T20:17:00.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
+    },
+    {
+     "title": "رئيس الوزراء يوجه بفتح تحقيق عاجل في ملابسات «حريق الوراق»",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GdzFlZk5SUVFxdWxaV3lzamREN1ptRUMtdFZoalR6UldOakozV214SzVMZlVCVDZZV05kVlMzZEZZQVVRTkFiVWZkOU9LeEpJM1VieEFvOXN3N2JfelEw?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-25T20:15:00.000Z",
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
      "title": "مدبولي يلغي زيارته إلى بني سويف بسبب حادث الوراق",
-     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPS1lvMzN2XzNoTU5NR2FNd3I5ZTFybnAteGlWbDFpbE9peFpUYVgwcGtmSUhjNzdETkRkNklVdmhVYlVEVGQ1NFlMREVrSzVIQmZVWVRBeGR4ZS1FM1JkZloycjcwT3g1UlIxNjFpaGpLZTBmVkpsd3NJVEZiRS1lc0h6b1Z5Z01fN3RacUFRVndlNUFCVVpJeHRNcUtycmxXcC1lbDFhYzBRMXo1NGdGcEo5SFFJcUozRjRwUTQwaU9ZcmVKMW9GRlRPbXdiZ1FjcWVGeEc2bTJHemIyTkJpMzhkMWxkUGlmMkg2dlNjOXQwNllHSUkydEdBUUx4b1c2d3c1SWNQT0NOeG8zNWFvTkxXNEZVdkFYNUgxNTYwWXhfdWpqZWU3T2RQZzNfRm1QeFdlc1FLWlBoNDM5ajQzcFlDaEdIQmVVQzQwdXRLOFg3TWNoWk9tZFU0MnBVVWhZeWZVMFdVUmdDZFVjWmFtTm9wNndHS01WeXFVcDQxb09uSVpLdHVOcjllZjJSaENCU0IwSWg1UFU3OHhoN1hjSlRfc3l5TTJEV0QtOFpjcUNCUFZLSmRqMkxYSXZBRDVQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPS1lvMzN2XzNoTU5NR2FNd3I5ZTFybnAteGlWbDFpbE9peFpUYVgwcGtmSUhjNzdETkRkNklVdmhVYlVEVGQ1NFlMREVrSzVIQmZVWVRBeGR4ZS1FM1JkZloycjcwT3g1UlIxNjFpaGpLZTBmVkpsd3NJVEZiRS1lc0h6b1Z5Z01fN3RacUFRVndlNUFCVVpJeHRNcUtycmxXcC1lbDFhYzBRMXo1NGdGcEo5SFFJcUozRjRwUTQwaU9ZcmVKMW9GRlRPbXdiZ1FjcWVGeEc2bTJHemIyTkJpMzhkMWxkUGlmMkg2dlNjOXQwNllHSUkydEdBUUx4b1c2d3c1SWNQT0NOeG8zNWFvTkxXNEZVdkFYNUgxNTYwWXhfdWpqZWU3T2RQZzNfRm1QeFdlc1FLWlBoNDM5ajQzcFlDaEdIQmVVQzQwdXRLOFg3TWNoWk9tZFU0MnBVVWhZeWZVMFdVUmdDZFVjWmFtTm9wNndHS01WeXFVcDQxb09uSVpLdHVOcjllZjJSaENCU0IwSWg1UFU3OHhoN1hjSlRfc3l5TTJEV0QtOFpjcUNCUFZLSmRqMkxYSXZBRDVQ0gHGA0FVX3lxTE95cGFlYkhxRmtRVnFEd2RHY2JMOWNxbjRTV1J4QlNfRVZNck9LRktLbEdld2pvbGxpNXJQaWkyUzJIeDBGTjZxeG5zc0l1c25GQk5MaVJ1dmFyLU9BSG1ZODVEU2d0UVdOaTFqN2YwVkFTSlptRE91X1NWS21jWlJQVGRpOTlKeTR3aUFranlySHlaTjVOUV9BTWhaQXFqUG9ZajM2N0pxbHhOc0YxTTk5cTRNMmR2UXVGWmgybXo3Z05yMVBLUG9EZDlUcUlHOEVCUU4wTTlRajVxX0Y2R2JHLWpQTGFtZXh3d2FQejJoeWNHenE1eUFfaGRFczZjQ21OVTNOSWk4d2NZZFRnNzBXMjNOc0w0aWpacXRvRVo0WW1hM0NlUVA4N0R1NElkMmQzVjN5TW93OGY1Q1hnU3hOWTRCTjVLcE03ZXltODFvZV9fZHpRUGQybzNmMGpURWJfRzdnVlVESFBuMWNsdi15VHBHV2l1R2lISVBLNTQyUDd5SnE0ZW1Ec2t3MzFQYTMtaFlodGtyZVhMdk1INDlMdEtYMFJwYk5YQUlPcFp3bjAtNVB2R2s2QTNVVGtRSzEyQndsZ3c?oc=5",
      "source": "Masrawy",
      "time": "2026-11-25T19:44:44.000Z",
-     "seen": "2026-11-25T20:03:15.546Z"
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
      "title": "مجلس الوزراء: مدبولي يتابع مستجدات حريق الوراق | مصراوي",
@@ -227,13 +234,6 @@
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUDc3WDZKZkF0QUR6UDRuS1VGdmFDQS1SNWc5QVhUZkduQThENTBCQnJURnQ3b0lVVnMwQXdUbExEUDUyRE90WWpRY0g3aktQeEh1SkUwRTdyUWotdXBlYWc4c2RQaDlrTGdqSmxsSDRYUVdRNm9SUFl5Q2NqRklZMS1VNHc2b1hDNEVjMnBsSGhsTjZpN0lBS1VYelpjVUtoNzBQRW0tX3p6NmZ2TndnMFpMRWtudDBIeDVhcTNBdE05RUdhekZMUUlxa1RmRklVWEMwcEtudGFNdjV0dXdwTkktOUJISy03cnhjb2h6cEhscjJpTFZrR0F2RUZ4WlZuSEgwRWZuaFVHQ2IxWHRJMzlpcEVIOXU3MG5DREtFUmY2d0ZtOUlUOEMtR2pLRmZQODZvR1lTeXhXdS1qWmJGWkVGRW9ubWhVeHBVU25yelAxVElPV3ppVE5wRThsVENZaUg4MTBEN0VGS2dOOUhTYWFDTkhmVkU?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-25T19:15:36.000Z",
-     "seen": "2026-11-25T19:23:16.138Z"
-    },
-    {
-     "title": "رئيس الوزراء يلغي زيارته إلى بني سويف بسبب «حريق الوراق»",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84Rm1yY213X2NNYlFHWG0ySUtrZXpNMXR6US1rWEdfUGlYUTM3TDdxblcxaFRmY1pwNlJQTW5VVHFPeXZJVk5EVVpXSFE2MkowS3BfOG1iSEpPanhsb1BJ?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T19:15:00.000Z",
      "seen": "2026-11-25T19:23:16.138Z"
     }
    ]
@@ -331,10 +331,10 @@
     },
     {
      "title": "تخارج محدود للأموال الساخنة من مصر والدولار يرتفع",
-     "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNN3pVSGs0ZmRNbVlHS0lSRDJ6dWFzeU15eE5uUDhRVGE3WWdyWHdhM1RmeENSMDVNNTZwSXVZY01VOWVUMC1IcFFmcmhKRDhJUmNFVTgyNW8xbjcxai1Tcjl4dzVKWkIzWjgwVGpHZS1VNi1IRktfRzFEWUh5OUxWcnRtSDVqWUdjZFhUUHFjSkdpUlNtR2FjZUpUX2RFTEc0cmZIUDAyalMwcklGOE4zcGo5MzZrSU9rMVJHWTJwSFFVRGRRbkxIQ05vSzEzZW13NGp1SXBzc0N5a3hHdXQ2WFBnbGhDSW1hbHAwalZiMF90TU9EenJ1ekQ5NFRWeEJjckU4R0otYWxzbHVhUUVCZzdNdGN3ZlljYUxxTXJNT3E2TzFqNkU0QnRCZkZ3TGZIbkxfMFNzNWFNazZCMG9fU1BMU2xnVGcxWEdrQ0lWUC1zNjNJS2pDaldYbV96UExnc2Nld204ZFpEekZ1bTZGLVFrX3lwR1RZbS1vR0MyeGxkbk45RW52V0ZCY3VISHMtRXh2bmljZzZYMHlaSDhnYy13R2NoMDktaHNROFZQZERhbDRGcTdCMzRuc01DUU5aV2fSAccDQVVfeXFMTV9EdU01b1MyMlpXU3h0cUZhSVlmM0REWkljZ1BGY0RTT2RUR211ZEtzdjhVN0N5Z3pPdE4yc2RPSlNvUkRJM1U2ek5UQ2FNWENvOFVsb0RIejZuTXVZbW9hU1NUekM5RDBVZUxhWjZSakdDY0lGeGVMdVhLOUl4M0NTbmtTTk1Ic3RRRm1tai1Ealp0NDhWS1N5NXREWjlrM1NsVGFHdF9JRXhWSWdWQnUyc2dON2hDcko0ZWpWcGdMemxUdzRBZDU5OW1ISXQ5WE5GSHdlbFVySUR6ME9tdU1Ubzk2clItYjcxZ09oRlBlM1MtSHR3dThSeWZIT2tleGRVRFY0MkhMTzJHcksweVpNTzlIc1l1bUZRN3c0QW1zNGZKc1FkcW1EUy04TEgxRDh6QmJCRS1DZnl0ZXA1TVdxQkpvdWxSYWJqMWFWdWN0aUh1UklXSkctQzZfYXVZekR2TE5KbjAwZEprcVVoTUJ0Vk5yVXI5bXVWRGtjMWtwbUd6Zm1neG10TGxoel9uODZCUXB0QmtZTnJiRWd4d2hEMFkxY3U5S2Z6dFB3VjJGSkQ2NjhCVkphYU1KcG1WTzV0d3g4SW8?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNX0R1TTVvUzIyWldTeHRxRmFJWWYzRERaSWNnUEZjRFNPZFRHbXVkS3N2OFU3Q3lnek90TjJzZE9KU29SREkzVTZ6TlRDYU1YQ284VWxvREh6Nm5NdVltb2FTU1R6QzlEMFVlTGFaNlJqR0NjSUZ4ZUx1WEs5SXgzQ1Nua1NOTUhzdFFGbW1qLURqWnQ0OFZLU3k1dERaOWszU2xUYUd0X0lFeFZJZ1ZCdTJzZ043aENySjRlalZwZ0x6bFR3NEFkNTk5bUhJdDlYTkZId2VsVXJJRHowT211TVRvOTZyUi1iNzFnT2hGUGUzUy1IdHd1OFJ5ZkhPa2V4ZFVEVjQySExPMkdySzB5Wk1POUhzWXVtRlE3dzRBbXM0ZkpzUWRxbURTLThMSDFEOHpCYkJFLUNmeXRlcDVNV3FCSm91bFJhYmoxYVZ1Y3RpSHVSSVdKRy1DNl9hdVl6RHZMTkpuMDBkSmtxVWhNQnRWTnJVcjltdVZEa2Mxa3BtR3pmbWd4bXRMbGh6X244NkJRcHRCa1lOcmJFZ3h3aEQwWTFjdTlLZnp0UHdWMkZKRDY2OEJWSmFhTUpwbVZPNXR3eDhJb9IBxwNBVV95cUxNX0R1TTVvUzIyWldTeHRxRmFJWWYzRERaSWNnUEZjRFNPZFRHbXVkS3N2OFU3Q3lnek90TjJzZE9KU29SREkzVTZ6TlRDYU1YQ284VWxvREh6Nm5NdVltb2FTU1R6QzlEMFVlTGFaNlJqR0NjSUZ4ZUx1WEs5SXgzQ1Nua1NOTUhzdFFGbW1qLURqWnQ0OFZLU3k1dERaOWszU2xUYUd0X0lFeFZJZ1ZCdTJzZ043aENySjRlalZwZ0x6bFR3NEFkNTk5bUhJdDlYTkZId2VsVXJJRHowT211TVRvOTZyUi1iNzFnT2hGUGUzUy1IdHd1OFJ5ZkhPa2V4ZFVEVjQySExPMkdySzB5Wk1POUhzWXVtRlE3dzRBbXM0ZkpzUWRxbURTLThMSDFEOHpCYkJFLUNmeXRlcDVNV3FCSm91bFJhYmoxYVZ1Y3RpSHVSSVdKRy1DNl9hdVl6RHZMTkpuMDBkSmtxVWhNQnRWTnJVcjltdVZEa2Mxa3BtR3pmbWd4bXRMbGh6X244NkJRcHRCa1lOcmJFZ3h3aEQwWTFjdTlLZnp0UHdWMkZKRDY2OEJWSmFhTUpwbVZPNXR3eDhJbw?oc=5",
      "source": "العربية",
      "time": "2026-11-25T16:48:00.000Z",
-     "seen": "2026-11-25T20:13:15.892Z"
+     "seen": "2026-11-25T20:23:15.871Z"
     },
     {
      "title": "سعر الدولار اليوم الأربعاء 25 نوفمبر 2026 في البنوك.. ارتفاع جديد أمام الجنيه",
@@ -560,6 +560,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
