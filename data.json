@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-25T13:22:43.994Z",
+ "updated": "2026-11-25T13:32:43.407Z",
  "minute": [
-  "شهدت أسواق الصرف في مصر ارتفاعاً متواصلاً لسعر الدولار واليوان الصيني أمام الجنيه في التعاملات البنكية ليتجاوز الدولار مستوى 54 جنيهاً.",
-  "كشف رئيس مركز المناخ في مصر عن توقعات وتفاصيل جديدة بشأن درجات الحرارة وموجات البرد والصقيع خلال شتاء 2026.",
-  "على المستوى العالمي والتكنولوجي، خفّض المرصد الألماني توقعات النمو الاقتصادي، بينما أعلنت شركات تقنية مثل لينوفو وهواوي وسامسونج عن مستجدات إنتاجية وتحديثات لأجهزتها.",
-  "ميدانياً وإقليمياً، واصلت المؤسسات الأممية والقضائية متابعة الملفات السياسية والأمنية في المنطقة."
+  "وافق رئيس الوزراء المصري على تخصيص 15 مليار جنيه لتمويل آلات ومعدات قطع غيار السيارات، بينما حذرت وزارة الصحة من مخاطر التدخين السلبي للفيب.",
+  "اقتصادياً، شهد سعر الدينار الأردني ارتفاعاً مقابل الجنيه المصري في البنك الأهلي، وحقق الفائض التجاري السعودي أعلى مستوى له في ستة أشهر.",
+  "عربياً وتكنولوجياً، قُبض على مسؤول عراقي سابق في مصر بتهم فساد، وتستمر الاختبارات والدراسات الحديثة حول تطبيقات الذكاء الاصطناعي والتكنولوجيا."
  ],
  "ai": {
-  "at": "2026-11-25T12:02:44.221Z",
+  "at": "2026-11-25T13:32:43.407Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T13:22:43.994Z"
+  "impacts": 9
  },
  "markets": [
   {
@@ -21,34 +18,34 @@
    "unit": "ج.م",
    "value": 54.63,
    "change": 0.78,
-   "asOf": "2026-11-25T13:20:13.000Z",
+   "asOf": "2026-11-25T13:32:16.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5443,
-   "change": 0.21,
-   "asOf": "2026-11-25T13:12:54.000Z",
+   "value": 5430,
+   "change": -0.04,
+   "asOf": "2026-11-25T13:22:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6215,
-   "change": 0.21,
-   "asOf": "2026-11-25T13:12:54.000Z",
+   "value": 6199,
+   "change": -0.04,
+   "asOf": "2026-11-25T13:22:53.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3542,
-   "change": -0.56,
-   "asOf": "2026-11-25T13:12:54.000Z",
+   "value": 3533,
+   "change": -0.81,
+   "asOf": "2026-11-25T13:22:53.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0946,
-   "change": 0.35,
-   "asOf": "2026-11-25T13:22:46.000Z",
+   "value": 1.0954,
+   "change": 0.42,
+   "asOf": "2026-11-25T13:32:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.23,
-   "change": -2.37,
-   "asOf": "2026-11-25T13:12:58.000Z",
+   "value": 89.16,
+   "change": -2.45,
+   "asOf": "2026-11-25T13:22:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58714,
-   "change": -1.73,
-   "asOf": "2026-11-25T13:22:56.000Z",
+   "value": 58385,
+   "change": -2.28,
+   "asOf": "2026-11-25T13:32:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,11 +137,41 @@
    "title": "مصر",
    "items": [
     {
+     "title": "انخفاض مؤشر بورصة قطر في ختام التعاملات",
+     "url": "https://www.elbalad.news/7194235",
+     "source": "صدى البلد",
+     "time": "2026-11-25T13:32:17.000Z",
+     "seen": "2026-11-25T13:32:43.407Z"
+    },
+    {
+     "title": "حبس مسن بتهمة انتهاك براءة صغيرة بعد استدراجها لشقته بالصف",
+     "url": "https://www.elbalad.news/7194211",
+     "source": "صدى البلد",
+     "time": "2026-11-25T13:31:22.000Z",
+     "seen": "2026-11-25T13:32:43.407Z"
+    },
+    {
+     "title": "رئيس مياه القاهرة يتفقد ليلاً مواقع جنوب القاهرة.. ويشيد بتميز أداء العاملين برافع زهراء المعادي",
+     "url": "https://www.elbalad.news/7194222",
+     "source": "صدى البلد",
+     "time": "2026-11-25T13:30:55.000Z",
+     "seen": "2026-11-25T13:32:43.407Z"
+    },
+    {
+     "title": "مدبولي يوافق على تخصيص 15 مليار جنيه لتمويل آلات ومعدات قطع غيار السيارات",
+     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMnhicGJ1aDJXTWhyaldKb3AyNkdoS1RudFY3MWJkMWQ0dU9WbWVkNHlSVEpyMkQ4aXRTaDNrNlJFdWsyVHVTTWhsa2QwUFR6aVJXVW9VRjR4ZzByREVtUlhERmpZekZyZU1oRmdIMjhUQThYQ0l0U041OElPMkNEVzBabkpRczRIcWo4WnlZNVNYenR5M3BXbF9US3RGSnJVRURBYzd0WktlS19xZndFUEk4OTBKd0c2T1dNTml6ZDcyX1d0Q2l6ZkhmdUtMZHJ2MU1pSk56UTgtTWVfcWdabDNNNlh0WUhSM1R6dFJZX0VTT0pidGJ6Q0hXdTc4TFFsbVV1UmtZcFhWUlRLclI0dWczT2ZJUGxFMTZmaU9kdlB1UlVRb2RDZGZlNl92ZFNzc3VJa3lkUmxqcFVXYWc?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-25T13:27:36.000Z",
+     "seen": "2026-11-25T13:32:43.407Z",
+     "impact": "يوفر تخصيص 15 مليار جنيه فرص تمويل جديدة للمستثمرين والشركات العاملة في قطاع آلات ومعدات قطع غيار السيارات في مصر."
+    },
+    {
      "title": "الصحة تحذر من التدخين السلبي للفيب: يزيد احتمالية الإدمان والتدخين مستقبلا",
      "url": "https://www.youm7.com/story/2026/11/25/الصحة-تحذر-من-التدخين-السلبي-للفيب-يزيد-احتمالية-الإدمان-والتدخين/7631717",
      "source": "اليوم السابع",
      "time": "2026-11-25T13:22:00.000Z",
-     "seen": "2026-11-25T13:22:43.994Z"
+     "seen": "2026-11-25T13:22:43.994Z",
+     "impact": "يساعد هذا التحذير الأفراد في مصر على التوعية بالمخاطر الصحية المرتبطة بالتعرض للتدخين السلبي لأجهزة الفيب."
     },
     {
      "title": "آير كايرو توقع عقد يتيح حجز التذاكر بمكاتب البريد",
@@ -154,32 +181,18 @@
      "seen": "2026-11-25T13:22:43.994Z"
     },
     {
-     "title": "تفاصيل جلسة سيد عبدالحفيظ مع الحسين عموته لتخفيض قيمة الشرط الجزائي",
-     "url": "https://www.elbalad.news/7194225",
-     "source": "صدى البلد",
-     "time": "2026-11-25T13:21:51.000Z",
-     "seen": "2026-11-25T13:22:43.994Z"
-    },
-    {
-     "title": "نبيلة حسن تتفقد مستشفى أكاديمية الفنون وتتابع مراحل تجهيزه",
-     "url": "https://www.elbalad.news/7194224",
-     "source": "صدى البلد",
-     "time": "2026-11-25T13:20:50.000Z",
-     "seen": "2026-11-25T13:22:43.994Z"
-    },
-    {
-     "title": "10 قرارات حكومية باجتماع الوزراء.. تعديل اشتراطات مبادرة دعم القطاعات الصناعية",
-     "url": "https://www.elbalad.news/7194219",
-     "source": "صدى البلد",
-     "time": "2026-11-25T13:20:00.000Z",
-     "seen": "2026-11-25T13:22:43.994Z"
-    },
-    {
      "title": "مجلس الوزراء يوافق على تعديل بعض اشتراطات ومحددات مبادرة دعم القطاعات الصناعية",
      "url": "https://www.youm7.com/story/2026/11/25/مجلس-الوزراء-يوافق-على-تعديل-بعض-اشتراطات-ومحددات-مبادرة-دعم/7632236",
      "source": "اليوم السابع",
      "time": "2026-11-25T13:18:00.000Z",
      "seen": "2026-11-25T13:22:43.994Z"
+    },
+    {
+     "title": "مدبولي يترأس اجتماع الحكومة الأسبوعي.. ماذا ناقش؟",
+     "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNSklPeU5TQ2VUc2xxcmxna3l3QTVMNUZUSUUwWl9NUkN1Qkl2TC1iVDMwR1RpVmlSWXpKQ3lZQmRlYmE1clVhaUFVeVJwMHhPTE42Wkw3NHE0elpYcDh0ZUtVU2dEZmNxY292ejl2UHg1V2FFbWNOT1lrZ25BdTNrRXNvZ0dCNS0xZmpudlB2MExTcGhEeEU4QXdSMEU0bXNqelllTU9tT2haWDR4c0hrUlduaUs3STRNTnJkcjFlZGtuaWRfcXliMDlGcWxjdG5QWG9TSW5QLWNUWVduTEFJTEl5RklnNUl5OXFJTkRaVF9jZkpKcjRVclpzWUw3bE11UVBQeFB6TW16UmIwclltYzF4WVNiYW1jRWt2RHFBVFZpRngxQUxwWDlmMDltUFdhV2p5NHhtdk1mcWkzaXNKWGlXRzM2bG9kTndpelhvcEpFUzFETElVOFcydTdMWlp2WTJyVTZrQ0tjMFpabjk2UXQ3SUNKbEdrdlJzaGhlN0plbUpXNFMySHlfR05Xa3pzMXFaWGt1NElfUUdaYk93OGVxOGZfZ190SENYRU9CbGoxWlhTaWp0b3hBNkFQSHPSAcQDQVVfeXFMUE9WYnhmWWFZSEZHU01mT255Nm4xYWRlVG51VmFZaWVpNUUzMGlnUmdDNjlyUFpWa1hOUGQ1dzBrX3dRbFdwSXpmYU9RS05UMzdQR2ttX2Z6a0ZBQjZ6eUtQcDBkLWtvbTV3NFFoS29oMzlreG10d0l5X25oREhydUJ2dFNCUS1JdHpkcW05VW1ra25IdG1oQXJjRFFRRDVxRkRHamN3MFhIQlNVQnByV0lWWFpsSXAyaW55Mm1YVWlPTFNJbnFxTURneWNtc1pNcG1sdVZ3R1dtemxZTG5HSEhvZ0M2MW9VR3dINVRzTFhTNE50ZzBkNjc2bHIxSFJMTzNYTE43OG1tMGYxcmtCQ3BpM2hNN3RsTmllR3kxUmxPTGRHUWsxUmk4SVpMTW01V2JBTGg0bzVDcTVGeUZoQzlTYWl0ZkYyMFFLaHNRQzVhZVhYa2xPbWIxZUhUSjNOcFN5NXpueEVDVHFmZEJEemZYZ1hXT0h6bldUMExDd1N1QlR2YmpqYTJxbWZSV2dLU1ZOVTVNZkZLWFB2TklfRm5jQkZ5c2twTFI5Rjh6YmpBVE4zUklVdzNLdXplUW0wd0pFTVo?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T13:11:51.000Z",
+     "seen": "2026-11-25T13:32:43.407Z"
     },
     {
      "title": "رئيس الوزراء يترأس الاجتماع الأسبوعي للحكومة في العاصمة الجديدة",
@@ -222,20 +235,6 @@
      "source": "عالم المال",
      "time": "2026-11-25T11:21:54.000Z",
      "seen": "2026-11-25T11:32:43.730Z"
-    },
-    {
-     "title": "بدء الاجتماع الأسبوعي للحكومة برئاسة مدبولي في العاصمة الإدارية",
-     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOUjR3Z09oTl83cWhvLVZLN2s3ZjdQNnpFVnE5Q3VraGJmZUtCcGZzSzk0MVQwTVNBQ0U0QmVKa2dpdGZiT2twdWZCZEN0dkIxMEE0TlN5U0Q0bzMyN3FzQW1GMzFnTHZTOHEwVUFFLV9RWWwtMWFFLUxZRG9lNk44SWFVaWZ4UXItQ0JFdUQwdTBSallqZFN2cGgtejN1VnY4M3gtUUtyOGxXRW9OZTE2NlgtTVpxTjhRY25uQzJVb09weGliUmJON3UyUkpmY0ZadnJOZTlHLTJWblVmY3VTMDhEV1lGbkVMWHZxTV9wTFgyT3hjdjhNc3hRbklRcGpmdDZTNFVpaDhfSVJQOFdjbkxJa1NpMDFnLTNvSGpPQUpGNzJ5MEpTWTdCcG90aF80eVZydjFXLVlVSkFyRmcyNXVmNl9GWV93NGdLTUt6Nm83WFB2czRVWWhyZVVXMkF4ZnZLMTA3RE9LMGtlMXQ1WU1YQWZjSktUeFFqVDdvdzI1VmhaSW1Qc1BoeEhaZDcxMFNEYVFKNGx1VnVrTHQydUxTaFFhS0p2Mkppb2FSZTVnTDR4elZLdXp3eVYzcmVFY3NTNjVoTU1UbExvbmlVMEtLTEx1aWJFellpbU9mZUpiblJnbkpmR3lqOTRWNHlMZjZpTElqMWxLNFRVWWE1dVlaTXpvMmw0RWhEdUxtcTUzVkdHNFhtNjBwQmIwdFM3SlBjUEhmaUxMV0FZY0lXZk5iWFlPdlBT?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T11:19:00.000Z",
-     "seen": "2026-11-25T11:42:44.218Z"
-    },
-    {
-     "title": "بدء اجتماع مجلس الوزراء برئاسة مدبولي بالعاصمة الجديدة",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TR0lCWmI5R21MajR1YnU4cDI0NURBZkhjbTVMbnoyQmJLNHJTRUdwQ2I5YzBYNGgtZVBIdFc0RWV6cTdCSnpJ?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-25T11:14:00.000Z",
-     "seen": "2026-11-25T11:22:43.348Z"
     }
    ]
   },
@@ -256,7 +255,8 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yQTQ4anNwcDExRFJwajRCZVZ0RWRjMFN5NUx4NlktSUFDMVZrMGtZdVl1OE5LcS10WXV0Rk9WejFOSE5xWE5j?oc=5",
      "source": "فيتو",
      "time": "2026-11-25T12:26:00.000Z",
-     "seen": "2026-11-25T12:42:43.661Z"
+     "seen": "2026-11-25T12:42:43.661Z",
+     "impact": "يؤثر ارتفاع سعر الدينار الأردني مقابل الجنيه على تكلفة التحويلات المالية والتعاملات التجارية للمسافرين والمستوردين في مصر."
     },
     {
      "title": "كوريّتان شماليتان ترويان لبي بي سي قصتهما مع الاضطهاد بسبب اعتناقهما المسيحية",
@@ -277,7 +277,8 @@
      "url": "https://alborsaanews.com/2026/11/25/2009015",
      "source": "البورصة",
      "time": "2026-11-25T12:03:11.000Z",
-     "seen": "2026-11-25T12:52:44.096Z"
+     "seen": "2026-11-25T12:52:44.096Z",
+     "impact": "يشير ارتفاع الفائض التجاري السعودي إلى انتعاش في قطاع النفط الإقليمي، وهو ما قد ينعكس على بيئة الاستثمار في المنطقة."
     },
     {
      "title": "سعر الصرف يصل 54.51 في الأهلي و CIB و 54.43 في مصر و 54.30 في المركزي للبيع نهاية تعاملات اليوم",
@@ -377,11 +378,12 @@
      "seen": "2026-11-25T13:12:43.632Z"
     },
     {
-     "title": "\"واع\": القبض على مسؤول عراقي سابق في مصر لاتهامه بالفساد",
+     "title": "وكالة الأنباء العراقية: القبض على مسؤول عراقي سابق في مصر بتهم فساد",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/25/ina-former-iraqi-official-arrested-in-egypt-on-corruption-charges",
      "source": "CNN بالعربية",
      "time": "2026-11-25T12:40:02.000Z",
-     "seen": "2026-11-25T12:52:44.096Z"
+     "seen": "2026-11-25T12:52:44.096Z",
+     "impact": "يعكس القبض على مسؤول سابق بتهم فساد التنسيق القضائي والأمني وأهمية الالتزام بمعايير الحوكمة."
     },
     {
      "title": "مفتاح السلام بيد الغرب.. خبير يكشف الشرط الصعب لإنهاء حرب أوكرانيا",
@@ -464,7 +466,8 @@
      "url": "https://aitnews.com/2026/11/25/%d8%ab%d9%82%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T13:21:21.000Z",
-     "seen": "2026-11-25T13:22:43.994Z"
+     "seen": "2026-11-25T13:22:43.994Z",
+     "impact": "يفيد مستثمري وشركات الإنشاءات في مصر بالفرص المتاحة لاستخدام الذكاء الاصطناعي في مشاريع البناء بدول الخليج."
     },
     {
      "title": "المفوضية الأوروبية تقترح قانونًا للتقنيات الكمّية وصندوقًا يستهدف 50 مليار يورو",
@@ -478,14 +481,24 @@
      "url": "https://aitnews.com/2026/11/25/%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%88%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa-%d8%b9%d8%a7%d9%85%d8%a9/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T13:06:04.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
+     "seen": "2026-11-25T13:12:43.632Z",
+     "impact": "يوجه أصحاب الأعمال والمهنيين في مصر نحو تحديث أدوات العلاقات العامة وإدارة السمعة باستخدام الذكاء الاصطناعي."
+    },
+    {
+     "title": "واتساب يختبر ملصقات صوتية في الإصدار التجريبي",
+     "url": "https://www.tech-wd.com/wd/2026/11/25/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%85%d9%84%d8%b5%d9%82%d8%a7%d8%aa-%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7/",
+     "source": "عالم التقنية",
+     "time": "2026-11-25T13:00:30.000Z",
+     "seen": "2026-11-25T13:32:43.407Z",
+     "impact": "يستفيد مستخدمو واتساب في مصر من التحسينات والتقنيات الجديدة المرتقبة للتواصل الصوتي."
     },
     {
      "title": "11 ألف رسالة أثناء الأزمة.. كيف واجهت مايكروسوفت العطل؟",
      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPNVdOLWNCQURTaWZ6WUIxc1ZsZTBBdE1yX2FKU3E5bGd6RWIyNk4wd3JLRWlMLUtrN2pjX0VoNG91NHNwNHQzeGdhREJmWk56V3pDMHJPVVUwcDhJQWVOUk9zdlFjUDZvWHdiNHl2UVdBT1BjMzRreFFIaGNJa1dmNDFTb05OVHk5bXZHZURjQ0pYY1g2aUI1a0VGNTJsY3NwYWFOSXN3ellBQjE4YThUTVNESllEZzktY2xYRVpwNzJiZUMzd0lfT2VMN0R6aHVhckhaRk5SRVUwN1dIMkF4NHhvcUpERDVDRDBHRTJrZ0lQN1VGMEpRWFloc1Z3dEJ5NWtHekhYVzJVbFNSeVZ6TXQtNzlHcV9wUl9MWkVOVC1zTTF5bEc2X011VjYtTXpnMGVKNDJfdTc0YkJJRGRCTjI4em5pZmpXMGd3dG9ha0t3V2NBWXFPYTA2RV9TQ2tteFpkOWotY0xxNmdRckhheVhXWmRPNWVkVTlaUmRPdERsOG4zNTVXdFZUZ2xWSUlxLXc?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T10:50:26.000Z",
-     "seen": "2026-11-25T11:52:44.149Z"
+     "seen": "2026-11-25T11:52:44.149Z",
+     "impact": "ينبه الشركات في مصر إلى أهمية الاستعداد وآليات التعامل مع الأعطال التقنية المفاجئة في خدمات تكنولوجيا المعلومات."
     },
     {
      "title": "هواوي تخفض مستهدف مبيعات 2027 إلى أقل من 50 مليون هاتف",
@@ -501,14 +514,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-25T09:51:20.000Z",
      "seen": "2026-11-25T10:12:44.028Z"
-    },
-    {
-     "title": "مشرف سامسونج يعد بمعالجة استنزاف بطارية One UI 9.0 في تحديث One UI 9.5",
-     "url": "https://www.tech-wd.com/wd/2026/11/25/%d9%85%d8%b4%d8%b1%d9%81-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%8a%d8%b9%d8%af-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a9-%d8%a7%d8%b3%d8%aa%d9%86%d8%b2%d8%a7%d9%81-%d8%a8%d8%b7%d8%a7%d8%b1/",
-     "source": "عالم التقنية",
-     "time": "2026-11-25T09:49:00.000Z",
-     "seen": "2026-11-25T10:12:44.028Z",
-     "impact": "تحديث سامسونج المرتقب لمعالجة استنزاف البطارية يهم حائزي أجهزة الشركة لتحسين كفاءة استخدام أجهزتهم."
     },
     {
      "title": "3 دول عربية ضمن الـ10 الأوائل عالميًا باستخدام الذكاء الاصطناعي بالعمل",
@@ -563,6 +568,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
+  }
+ ],
  "marketErrors": []
 }
