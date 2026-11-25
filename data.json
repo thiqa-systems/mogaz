@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-25T16:52:59.177Z",
+ "updated": "2026-11-25T17:02:59.018Z",
  "minute": [
-  "شهدت مصر إعلان تعديلات جديدة على اللائحة التنفيذية لقانون الشركات ومباحثات مع شيفرون لربط حقل أفروديت، إلى جانب متابعة تحديثات أسعار العملات في البنوك.",
-  "وعلى الصعيد الإقليمي والدولي، تواصلت التطورات العسكرية بين الحوثيين والسعودية، في حين شل إضراب مفاجئ حركة قطارات يوروستار بين باريس ولندن.",
-  "وفي مجالات التكنولوجيا والوظائف، أعلنت شركة سوبر جيت عن فتح باب التعيين لسائقين بمصر، وتواصلت الاختبارات والمقترحات حول الذكاء الاصطناعي والتقنيات الحديثة."
+  "شهدت الأسواق الاقتصادية في مصر ارتفاعاً في سعر صرف الدولار أمام الجنيه بالتزامن مع تخارج محدود للأموال الساخنة وأخبار عن استثمارات مرتقبة لشركة سكاتك بقيمة 5 مليارات دولار.",
+  "تستثمر شركة إيديتا 25 مليون دولار لمضاعفة طاقتها الإنتاجية في العراق خلال عامين.",
+  "وجهت وزارة الصحة المصرية 4 نصائح لتغذية الأطفال بعد إتمام الشهر السادس، بينما تأهل المنتخب السعودي إلى دور الـ 32 في كأس العالم للناشئين.",
+  "أعلنت الولايات المتحدة فرض رسوم جمركية جديدة على واردات من الصين والاتحاد الأوروبي وشركاء تجاريين آخرين."
  ],
  "ai": {
-  "at": "2026-11-25T16:02:58.494Z",
+  "at": "2026-11-25T17:02:59.018Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 9,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T16:52:59.177Z"
+  "key": 1,
+  "impacts": 8
  },
  "markets": [
   {
@@ -27,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5342,
-   "change": -1.65,
-   "asOf": "2026-11-25T16:44:00.000Z",
+   "value": 5339,
+   "change": -1.72,
+   "asOf": "2026-11-25T16:53:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6099,
-   "change": -1.65,
-   "asOf": "2026-11-25T16:44:00.000Z",
+   "value": 6095,
+   "change": -1.72,
+   "asOf": "2026-11-25T16:53:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3478,
-   "change": -2.36,
-   "asOf": "2026-11-25T16:44:00.000Z",
+   "value": 3476,
+   "change": -2.42,
+   "asOf": "2026-11-25T16:53:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +62,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0972,
-   "change": 0.59,
-   "asOf": "2026-11-25T16:53:47.000Z",
+   "value": 1.0985,
+   "change": 0.7,
+   "asOf": "2026-11-25T17:03:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -74,25 +73,25 @@
    "unit": "$/برميل",
    "value": 89.71,
    "change": -1.85,
-   "asOf": "2026-11-25T16:43:32.000Z",
+   "asOf": "2026-11-25T16:53:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7002,
-   "change": -2.76,
-   "asOf": "2026-11-25T16:54:00.000Z",
+   "value": 7048,
+   "change": -2.12,
+   "asOf": "2026-11-25T17:03:52.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58241,
-   "change": -2.52,
-   "asOf": "2026-11-25T16:54:01.000Z",
+   "value": 58656,
+   "change": -1.83,
+   "asOf": "2026-11-25T17:03:49.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +138,69 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خالد مختار يسجل الهدف الثالث لمنتخب مصر أمام بنما",
-     "url": "https://www.elbalad.news/7194403",
+     "title": "نتنياهو يطالب بإنهاء محاكمته فورا.. والقضاء الإسرائيلي يثير تساؤلات حول قضايا الفساد",
+     "url": "https://www.elbalad.news/7194472",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:52:23.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
+     "time": "2026-11-25T17:02:19.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
     },
     {
-     "title": "من كلماته وألحانه.. مروان خوري يطرح أحدث أغانيه «عزيز الروح»",
-     "url": "https://www.elbalad.news/7194445",
+     "title": "السعودية تهزم هايتي وتحسم تأهلها إلى دور الـ 32 في كأس العالم للناشئين",
+     "url": "https://www.elbalad.news/7194468",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:51:56.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
+     "time": "2026-11-25T17:01:44.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
     },
     {
-     "title": "هل استقال أم أقيل؟ المقاولون العرب يحسم الجدل بشأن سامي قمصان",
-     "url": "https://www.elbalad.news/7194450",
+     "title": "المجلس لا يملك حلولا.. شوبير يدافع عن لاعبي الزمالك بعد بيان المستحقات: أبطال بمعنى الكلمة",
+     "url": "https://www.elbalad.news/7194462",
      "source": "صدى البلد",
-     "time": "2026-11-25T16:51:53.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
+     "time": "2026-11-25T17:00:42.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
+    },
+    {
+     "title": "استثمارات عالمية تطرق أبواب مصر.. 5 مليارات دولار من سكاتك.. أبرز عناوين اليوم السابع غدا",
+     "url": "https://www.youm7.com/story/2026/11/25/استثمارات-عالمية-تطرق-أبواب-مصر-5-مليارات-دولار-من-سكاتك/7632366",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T17:00:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z",
+     "impact": "قد تعزز دخول استثمارات بقيمة 5 مليارات دولار من شركة سكاتك التدفقات الأجنبية وفرص النمو الاقتصادي في مصر."
+    },
+    {
+     "title": "4 نصائح من وزارة الصحة لتغذية طفلك بعد إتمام الشهر السادس",
+     "url": "https://www.youm7.com/story/2026/11/25/4-نصائح-من-وزارة-الصحة-لتغذية-طفلك-بعد-إتمام-الشهر/7580806",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T17:00:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z",
+     "impact": "تساعد نصائح وزارة الصحة الأسر في مصر على معرفة الأساليب السليمة لتغذية الأطفال بعد الشهر السادس."
+    },
+    {
+     "title": "مدبولي: صندوق النقد أتم المراجعة الثامنة والأخيرة لبرنامج مصر.. واجتماع المجلس قبل منتصف ديسمبر",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zZlFSNkdrMkZYU0VfQmZfM3RUUGtqVThrVThmdDMyWXhJT1h3VGlFYVZ3ZVV1M3h4RzIwOENnY2UzVnpvbHVENnJKbmFCWk91Mld2S2FvNW1CY1oxUm1r?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-25T16:59:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
+    },
+    {
+     "title": "مدبولي: تنفيذ توصيات منتدى مصر أولوية لعمل الحكومة خلال الفترة المقبلة",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NSU9vdWJCWU8xSVVieXFBSm9YUXg5cjdtMUg1NFdoTjBpSm1WN3JqWC1heWxxUWFEZzVVRXdHRjV3cjRhLXVr?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-25T16:58:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
+    },
+    {
+     "title": "مدبولي يكشف نتائج تحركات السيسي العربية، مشروعات كبرى في ليبيا والعراق والسودان",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43VXU3VElwWnBkbVNpUEVpOExrTjJKaGJ0WkQ4aFlwVFlQYnJxZzlXRE5ZVWNYRnNiajRaZVlTekRKdHBkRXVj?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-25T16:57:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
+    },
+    {
+     "title": "مدبولي: تكلفة شحن وتأمين برميل البترول ارتفعت لأكثر من 20 دولارًا بعد أن كانت دولارين أو 3 دولارات",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UM0VQYm1nYjFmc3dPOEZJV1BiVHM3UWxlb3NMeVlxS3FqX2ttbVhkQUF6MUh6NEdlUDZ0dHZ3UWNObXFrb1E?oc=5",
+     "source": "القاهرة 24",
+     "time": "2026-11-25T16:55:38.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
     },
     {
      "title": "مدبولي: الحكومة تهدف لاستقرار النشاط الاقتصادي رغم التحديات الراهنة",
@@ -188,55 +231,11 @@
      "seen": "2026-11-25T16:42:58.371Z"
     },
     {
-     "title": "رئيس الوزراء: صندوق النقد الدولى أعلن إتمام المراجعة الأخيرة",
-     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-صندوق-النقد-الدولى-أعلن-إتمام-المراجعة-الأخيرة/7632440",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T16:33:00.000Z",
-     "seen": "2026-11-25T16:42:58.371Z"
-    },
-    {
-     "title": "مدبولي: إعلان إجراءات تنفيذية جديدة لخفض الدين خلال الفترة المقبلة",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ILUlYaDRfeWhmVjV5X0hxUEphQVJaNGdLcHdDTExOX01uWUxKeDBIUkJtdHBpT0JyZm1Fai1KNHYza3RMSXVmTHdxcEdKa20zcVRrbWZhbmZFRlpi?oc=5",
+     "title": "مدبولي: الظروف العالمية الحالية فرصة لجذب مزيد من الاستثمارات الأجنبية إلى مصر",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUEpUZ2JqbjczTnRhNnJtbnRnNmtqTjlGU3MxOWJjeGk5TzZna3NlVGYtLVUtUlFYSG52ci1HTURSTTVITWgtNEpUSWlDMERHVHJtRzBGV2RZZlN2?oc=5",
      "source": "الوطن",
-     "time": "2026-11-25T16:27:04.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
-    },
-    {
-     "title": "وزير الاستثمار: تعديلات اللائحة التنفيذية لقانون الشركات تهدف تيسير بيئة العمل",
-     "url": "https://www.youm7.com/story/2026/11/25/وزير-الاستثمار-تعديلات-اللائحة-التنفيذية-لقانون-الشركات-تهدف-تيسير-بيئة/7632425",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T16:22:00.000Z",
-     "seen": "2026-11-25T16:22:58.551Z"
-    },
-    {
-     "title": "هو هو قال هو",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXFFdXcxREhQSkJFd2R3ME5Rb2stdEZsTEhVaEZPVThpVzdFU1ptSjB5TjRhQnZGc1hwckVZeV9HOElJZzlqbDhieFdUT1hEbnlpTEhSdHBpbUVkTGtKelFINkZCQ3ZaNFh3MnlpOTZCVmllRnlZaDk2aEJPWFdhNWIzaUd3SnR5RE1yQ1VtMG9lajRsR2RxbkF0Q1hZeFZCRjJaeHAweUhvN1BFbkU5Q25lOXV0QQ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-25T16:05:25.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
-    },
-    {
-     "title": "حدث في 8 ساعات| السيسي يستقبل رؤساء شركات عالمية.. ووظائف حكومية جديدة",
-     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQRU10SGJiOC1qVUU0X2t1c0JNekR2VVh0aGdTNFBiNzZSNExJU29kSkRJZFlaemFXZ21hX3FwTmxkRHp6UmUyLTJyNV9jYjQ2UW9sSzk4VU9uSkRKUF9XUjBMbEhZU2hOQkd1cEo5M0c2QjAzanljNVV1YlR6RHlTdWZaSnQwN00yeGlHLW00NEEwN1RzMFV6elZiMWtPaTZiRXlXeWNYUFVyeG5QN253Y0JqVGgtLXNMVzBzWFNZNFNJSTVFOVhrR1BsaHJNNUdXbEpaR2JkbDNSbkVYYkppLUZ1ZFBzamxkXzdOdUxtWVlJLVE5N2hySTdaYS0wa0t1SmF5SHRMblpRcG1KbEh4WTJucTNoSzRVeWJpcEJVQldCMGc4Y05aVC1pTjRjRE0wWWJmMnhXNUEweDhjeUZUVWV5YTBxQUNPWE5xU2d2MFU3Z2RBZWJTaTY4akdfaW92Z0dyQ05JOGdSLXNEcUFTa1BtTDdiUlBvQTVQWG5JWkNOUGRwVW9uN09ZQ2R3VXhoQ00xTmhzSjZqOUQ1VEgtci1uZUMwUWFyMV9od2xiNFRGeFhWc1dyai1hclRVS2g3VElPNlkyLWpneW0wTnVNVUxCeW52MHdlajlKSWw2OU1NVll2X25TeU4wZE9TRnVRMkpNUlFxZ2lNT2gyWDFOMjVOMGN4WC1XWEY2SlZzcnlVdE1TazE4aXVNMXk1akFGRWdsZmFueUtfakxpcXItVm1GYXJscHE5Q0JrcVR30gHDBEFVX3lxTE4wcEswOWNPVl90S2pzQXlhaklQeEg1bG9WdnZhci1XS2k3bThGYlhNWnZQVTg4YmZFWHg3SVNkM0pqNUJEWFRHX1VlcFRRLTlKMTVMMTU4T09iVTNwN3pUM3BPb041TVh4U1hoM3lLMjAydU1yM291Zl9lQWpLbHFiOXpKNWJjY0VKeFM4TFNudmVkZkpBeEl4QjNIRVZqSTE4SWNOMnFKbjdOMHU5emF1THc2aFd6V0hfVEs0T3YwcTZTVlRwMUthcHBuemE4Z053N2hnMmtHRWFvdHJuNk1jYjh1eU8wU2RZTnVnem1oZ2U1dXlFNjEzV3Iwd2w5RDJNb3JsZkI0cF9kN1JLZFBYT0FOVXFFVTVIUDNoWTJoMTQ5M1RzZnY1OWsyNlVDd2c0Q3NmN0lRekNMbHdBdG1CaVVrdmxjOTIwLUtQdGhNYWkxeUxqZzlnUVF0MHNaOG52LVMxXzZKYUFTMXd3djlmX0NJd0ZWSDlTZ250WUhfbmZ2TVVVRlNkYTd0Uno0Mld1cmxDWVBpd1B5TExrY2lWOC1tS19EcE9uSkZ1Y2hTb19Jelc3MU1XM2hlSlYxNkhySFBhM2NSeWJzcGVEUkJTMkN2dEwtZzVpYlRzNjQ3LUhQZUYzcllPUDhtVmJKOWFBaTdsal9vZVZUN0dhWTNKdVNWcFpkV3dWYkFHQU9GUVhiZ1dCZFZTMmRuQXFra3QweEtMZU9IUkgxWjQwMlgwekJKdkJnQXlYTXluUzhqYl94TQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T15:36:06.000Z",
-     "seen": "2026-11-25T15:52:59.197Z"
-    },
-    {
-     "title": "مدبولي يزور بني سويف غدًا في ثالث جولة ميدانية منذ توليه رئاسة الحكومة.. ماذا تحقق من زياراته السابقة؟",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VTGhTZUZVVUhaTFpCUEJHMDZ0dy1PbDVxWHZ2emNheGMtalIxQ0lJcnZHaXNGYmlaSlk0UlVYeE5wYlY0aUlUQnUxTlZBNVlTekstN04yYk9IcVhOYzY0?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T15:36:00.000Z",
-     "seen": "2026-11-25T15:42:58.781Z",
-     "impact": "تهم الجولة الميدانية لرئيس الوزراء سكان ومستثمري بني سويف لمتابعة تطور المشروعات والخدمات بالمحافظة."
-    },
-    {
-     "title": "توجيهات مدبولي الحاسمة مصنع جنرال موتورز: زودوا المكون المحلي.انقلوا التكنولوجيا.وصنعوا للتصدير.مصرمركزإقليمي",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RNGxsSlpnZlo1MTVrclpvLUtfRkRPclhPWWstQWM1N1NRWTlwd01KT0tIS05sVDdYcGVTeFhzWVVfeGxuR1RBazJBVzRYZWNnRGxibQ?oc=5",
-     "source": "الأهرام اوتو",
-     "time": "2026-11-25T14:48:17.000Z",
-     "seen": "2026-11-25T14:52:59.239Z",
-     "impact": "يعزز فرص الاستثمار الصناعي في قطاع السيارات ويرفع قدرات التصنيع المحلي والتصدير."
+     "time": "2026-11-25T16:31:04.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
     }
    ]
   },
@@ -245,11 +244,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "تخارج محدود للأموال الساخنة من مصر والدولار يرتفع",
+     "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNN3pVSGs0ZmRNbVlHS0lSRDJ6dWFzeU15eE5uUDhRVGE3WWdyWHdhM1RmeENSMDVNNTZwSXVZY01VOWVUMC1IcFFmcmhKRDhJUmNFVTgyNW8xbjcxai1Tcjl4dzVKWkIzWjgwVGpHZS1VNi1IRktfRzFEWUh5OUxWcnRtSDVqWUdjZFhUUHFjSkdpUlNtR2FjZUpUX2RFTEc0cmZIUDAyalMwcklGOE4zcGo5MzZrSU9rMVJHWTJwSFFVRGRRbkxIQ05vSzEzZW13NGp1SXBzc0N5a3hHdXQ2WFBnbGhDSW1hbHAwalZiMF90TU9EenJ1ekQ5NFRWeEJjckU4R0otYWxzbHVhUUVCZzdNdGN3ZlljYUxxTXJNT3E2TzFqNkU0QnRCZkZ3TGZIbkxfMFNzNWFNazZCMG9fU1BMU2xnVGcxWEdrQ0lWUC1zNjNJS2pDaldYbV96UExnc2Nld204ZFpEekZ1bTZGLVFrX3lwR1RZbS1vR0MyeGxkbk45RW52V0ZCY3VISHMtRXh2bmljZzZYMHlaSDhnYy13R2NoMDktaHNROFZQZERhbDRGcTdCMzRuc01DUU5aV2fSAccDQVVfeXFMTV9EdU01b1MyMlpXU3h0cUZhSVlmM0REWkljZ1BGY0RTT2RUR211ZEtzdjhVN0N5Z3pPdE4yc2RPSlNvUkRJM1U2ek5UQ2FNWENvOFVsb0RIejZuTXVZbW9hU1NUekM5RDBVZUxhWjZSakdDY0lGeGVMdVhLOUl4M0NTbmtTTk1Ic3RRRm1tai1Ealp0NDhWS1N5NXREWjlrM1NsVGFHdF9JRXhWSWdWQnUyc2dON2hDcko0ZWpWcGdMemxUdzRBZDU5OW1ISXQ5WE5GSHdlbFVySUR6ME9tdU1Ubzk2clItYjcxZ09oRlBlM1MtSHR3dThSeWZIT2tleGRVRFY0MkhMTzJHcksweVpNTzlIc1l1bUZRN3c0QW1zNGZKc1FkcW1EUy04TEgxRDh6QmJCRS1DZnl0ZXA1TVdxQkpvdWxSYWJqMWFWdWN0aUh1UklXSkctQzZfYXVZekR2TE5KbjAwZEprcVVoTUJ0Vk5yVXI5bXVWRGtjMWtwbUd6Zm1neG10TGxoel9uODZCUXB0QmtZTnJiRWd4d2hEMFkxY3U5S2Z6dFB3VjJGSkQ2NjhCVkphYU1KcG1WTzV0d3g4SW8?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T16:48:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z",
+     "impact": "يرتبط متابعة تخارج الأموال الساخنة وارتفاع الدولار بتقلبات أسواق الصرف وتكلفة التمويل في مصر."
+    },
+    {
      "title": "سعر الدولار اليوم الأربعاء 25 نوفمبر 2026 في البنوك.. ارتفاع جديد أمام الجنيه",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiMW1zTmlTM0tfdFJ2RlNhcFdMZ1JfM0NVSWJOekJ2Y1k5WHZuSXdISWdFaGdQVHM4SVVyUU8xc0lHcVBq?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-25T16:44:06.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
+     "seen": "2026-11-25T16:52:59.177Z",
+     "impact": "يؤثر الارتفاع الجديد لسعر الدولار أمام الجنيه في البنوك على أسعار السلع وحسابات المستوردين والمستهلكين."
     },
     {
      "title": "الألغام تواصل حصد الأرواح في سوريا بعد عامين من انتهاء الحرب",
@@ -263,14 +271,16 @@
      "url": "https://alborsaanews.com/2026/11/25/2009137",
      "source": "البورصة",
      "time": "2026-11-25T16:02:56.000Z",
-     "seen": "2026-11-25T16:52:59.177Z"
+     "seen": "2026-11-25T16:52:59.177Z",
+     "impact": "يهتم مستثمرو إيديتا بتوسع الشركة باستثمار 25 مليون دولار في العراق لتقييم أثر التوسع الإقليمي على أرباحها."
     },
     {
      "title": "ارتفاع سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92N3FNWV9RQ1NJaGtZZEJlWWRLYkR5U29qVWhLc3FQOGd5N0tLajYyZXNUMjdNUkN0Q2xTVXg3NlNZNGRVZXA0?oc=5",
      "source": "فيتو",
      "time": "2026-11-25T16:01:00.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
+     "seen": "2026-11-25T16:12:58.542Z",
+     "impact": "تفيد التحديثات المستمرة لسعر صرف الدولار بالبنوك المصرية الأفراد والمستثمرين في إدارة تعاملاتهم المالية."
     },
     {
      "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
@@ -325,27 +335,18 @@
      "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة حركة سعر صرف الدولار وتأثيرها على أسعار السلع والتكاليف."
     },
     {
+     "title": "سقوط جديد للذهب.. عيار 21 يهبط دون 5500 جنيها",
+     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSzdZQTJJaG5HZWQwNDhkOGU5Qk5GdjF6aWdENDdzbW5GWW5OZ2I0SWttRjJpRWdUWFhCZnVWUTQzWW1wQlNSM0NNdWtGdzFWM1dtcUxfVWxZTHFlcW04UWxYTmQ4UDFkZkVaRXlTdERkdEhQWkUzOXprWHJZWmNwcUdmNm1rblJpZmlYXzVhTmM2d2hqc2R2aXVvZ0xVNjJPVDR3WEpJQVNUTTF2RDlfN0diQi1sSS1JaGtsZ01JbHdWYlJ0Z2lTeE1VcTFfc29Dams0eW44eWxlNVNDNHdHQWQwRFZDMFRIOHJYZ3JMYWF3VVRkWERlNUdBQ3dGcHdmYTVWNDBBanV0bWV2aDMtWnEzMGU0aEFFRUVOUW4ySGdNQmNRbEpETG1idWZVWDduMXhuSWpvemZyZGJyUF9FRWhRTDF6azBxaHZDcVZEQzBVbnZ1V2fSAdACQVVfeXFMTVhXcldmWGQwTm1sNkpZbm5ybkVjNnhhbEpsZjY0SjdZbm53cWZHcGQwd2p3ako3TC1nWXRBMXhCTzNicThCY0MxSWRhSVdSYVhwc25iTFpyVmt3X1dXVWZhUEUxOWRnTzZzRjFYcVVyWFkxQ3dvR3JKQldBak51a2RoYXdOUGFoSHluSU1SMlA1N2VXbV8tSGh2d3ZxQldUZ3ViZnlUcmF4R3daZWV5Wm13cHdjQ0FwdUVWVkhvQjUteWdsNnMxLWszY0d4aEFVc25Ldmd5YlBDYVBKa3Ewc1JFeGNMNThXcjJfZmFVV2lYUUtqVzQwWDE1ckF1dXNhN05aaWhxaGpaRzBwenVLQ3BKeGc0b3BjTEMzZEl3aDk4YkpYTVBxa0RFbkRjMmw4akZwdE5CLUhINndub1hXTTJrT3hGQ3Z1STlmUldQaHlU?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T15:00:00.000Z",
+     "seen": "2026-11-25T17:02:59.018Z"
+    },
+    {
      "title": "سعر الدولار ينهى تعاملات اليوم الأربعاء على ارتفاع أمام الجنيه",
      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPOUdFend2SG05TURWLWRyVmExMEpyRkk1UzRhR2FrVkhoSTB4azFESEFncWE1eDBWWktCYnYtb0VYUEN5b0J5cE1FeUhRRS0zUjR5SXdlRGluWVk4cVdsN3JtM2tGUVJRd2UxRDc0aWZwcWlONXZRSmRIeHdiNmg4bVZFUmwzV2FhWmRxQ2p1US1SVGU5WDEyUy1IUFdseWpOYldMbHdnMk1XSXQzSWFnQk5BUFNLb19TUTQ2eHpKaU5lNWEyVXpoRU9kWXlid2JkY2lhZWdzc0N0T2R6MGN2Y19Xd3JLNTJIbTlXbjhEZlJPaFZCTnROVXNyLWZlWTFVOTAwTjRmOVpJSGNBbnJQamlDaTN2Q3V3NkE4Y3hBTDQ2UGQ1VlRhaXVtWDRJUW1oeGd6RjZaWVRFSlB3TDN5RGdUMzVTdHcxZ2N3SGR6TkxkblpBMzAybjAtbjRQXzV0bWRGZEZtM2FfTHZmUzNOQkJqTlp2dW9mYkNKNzJFb2tsdzNzNlZudGQ4RUo3cUtaVE1ibEt3MEJIc1Zpak9XbHNMYjNTN3BTbGlDamhuckdiRTJJcXc0bmpOVW43NDBxb0wtaUdlUXBnS1ZJMTE3MG1lMUVHajhITGRNWWlKZHBKV1lGMGhqcjdOYnczODVRUEV6Q1RHZUtxd0ZjYTZTbkdyUllVUkJXdXfSAYoEQVVfeXFMTzlHRXp3dkhtOU1EVi1kclZhMTBKckZJNVM0YUdha1ZIaEkweGsxREhBZ3FhNXgwVlpLQmJ2LW9FWFBDeW9CeXBNRXlIUUUtM1I0eUl3ZURpbllZOHFXbDdybTNrRlFSUXdlMUQ3NGlmcHFpTjV2UUpkSHh3YjZoOG1WRVJsM1dhYVpkcUNqdVEtUlRlOVgxMlMtSFBXbHlqTmJXTGx3ZzJNV0l0M0lhZ0JOQVBTS29fU1E0Nnh6SmlOZTVhMlV6aEVPZFl5YndiZGNpYWVnc3NDdE9kejBjdmNfV3dySzUySG05V244RGZST2hWQk50TlVzci1mZVkxVTkwME40ZjlaSUhjQW5yUGppQ2kzdkN1dzZBOGN4QUw0NlBkNVZUYWl1bVg0SVFtaHhnekY2WllURUpQd0wzeURnVDM1U3R3MWdjd0hkek5MZG5aQTMwMm4wLW40UF81dG1kRmRGbTNhX0x2ZlMzTkJCak5adnVvZmJDSjcyRW9rbHczczZWbnRkOEVKN3FLWlRNYmxLdzBCSHNWaWpPV2xzTGIzUzdwU2xpQ2pobnJHYkUySXF3NG5qTlVuNzQwcW9MLWlHZVFwZ0tWSTExNzBtZTFFR2o4SExkTVlpSmRwSldZRjBoanI3TmJ3Mzg1UVBFekNUR2VLcXdGY2E2U25HclJZVVJCV3V3?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T14:59:06.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
-    },
-    {
-     "title": "سعر الدولار في مصر اليوم الأربعاء 25/11/2026.. ارتفاع بالختام",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FWEtISUEtdGZaaWFQeFd1OEFGNDl5UFQ3cllZb241c3JSNDhodmstT3ltMUdEanI1ZkhXMkNtTzdyeTlvX1JSb3l4ald2LUE3b1ZmaFp3?oc=5",
-     "source": "جريدة البورصة",
-     "time": "2026-11-25T14:20:45.000Z",
-     "seen": "2026-11-25T14:02:58.758Z",
-     "impact": "يتيح للمستثمرين تقييم أسعار العملات الأجنبية الرسمية لحساب تكاليف المعاملات التجارية."
-    },
-    {
-     "title": "اليورو يرتفع بختام تعاملات اليوم الأربعاء 25 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQeEdiNWU2QVFyVTNnZVFmNjdrcDY1RU9KRXBzdzdhRXZxOFE5Q25idmJ4Wl9EWjJDdDBaa1AzY2F1c2lxdHYtX2tUQnZGT1IwYldMZ3NGanFfRXpHaVlWVThLNlRNZGEtVlY5Zm9ST0diWkluV0YxZ1A0Rmh6V2t5YWhZQko1R0RBcHFrWlNqOXdnRTVyRlY5d2JkdHFTUzEzbVQ3X0VENmlNNHJqSUFFalRCeFE0b0x2RFdOMVhGUGpidVBGZ2d6LWVTY3UycDFjUExJQ1ZlbTZ5ZHZJdXBrSXdra0RVLUhDNncwanRWZU9famVIWHhaWURRS2JQQW1DaDFNUlNZcHBnN2xpZThPSzFjRWpHOS1PaUpyU2NNQmRlREljSlFoVTg5WV9vYXhORVZZcmpORnl5dFY4SHJDWXJkcnk5VEJLR19Sblg2Y3RoeUJFMG9oUXN2WHZZdTUxaUtnMFk4dlhIckhRYnNrNU03UEhVbWhrU1NkbzY3N1dFSXhQRUVEN0p4NTZNM09DWVRvSUNxbTR2Umxvd2xpN1ZucFRhdXJxdE9IVGNZeGEyRTVBQzdfaFczdzFpQ1JKeGFTXzgydmRJMERvNldSVTViMXVvM1E3QXpWWXJYc9IB2gNBVV95cUxQMm9ETXN1RGktMUZoR3B3c2M0WXhRVzZ0alpRYm5XWUFEMVAxR2FYWkxKdXlRVzZJNFRUNlNnd2NCQlBuZV96T3JncnVmWnQ3QjJWWldaenNQVU4yQlVnS1hNRml6bktGRkFqRktvNldEUmhyd0pjTHF6ZGVoMHpiQlhodDRZNDdrWEpjUnpFWVVUWVF0ODRWekRHYnY1OU52NkxCbENJOTd2UGNYNWxmaVBsV2EwUDFMeHFxd2NJbkx2M2YzVEdubm9LMmNUNC1BUWdkcGtha3BVY2FDQ19qbEJnTDF2dTk5aGU4Wk5xZEZ4YmEzOGdpdnpDQTBaX3FmTS1Wc2REWWZrZUFTb3ExQWozR0FfM2FidFc1YkE0SkYyQkJnTmNBSmdRWWxlVDBzUlhRNE1tOVJlNWlOeUJGa3cwcElvallZVENnQl9jZGxzcFhfcDlTQVJ4M09LRXc1M0F6MGtJejBHX1JWOF9sSnZGQTlvVFBaTjI5aEVKRTVwdmwtNktwN3BIMF9HdnhPSzFqQk1qeTBhYzlPUjduTVQ1Qm5GekliZTZ2ZHZCYlUwVXdiU2dKbWxCd3NfTGlRZXN1SC02YWUtcEMwbVVqN2ZRUndLN2hRSnc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T14:20:00.000Z",
-     "seen": "2026-11-25T14:32:59.049Z",
-     "impact": "يهم الأفراد والمستثمرين الذين لديهم تعاملات مالية أو خطط سفر وتجارة تقتضي استخدام اليورو."
     }
    ]
   },
@@ -386,7 +387,8 @@
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%B1%D8%B3%D9%88%D9%85%D8%A7-%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%88%D8%B4%D8%B1%D9%83%D8%A7%D8%A1-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D9%8A%D9%86-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86",
      "source": "فرانس 24",
      "time": "2026-11-25T16:20:37.000Z",
-     "seen": "2026-11-25T16:32:59.088Z"
+     "seen": "2026-11-25T16:32:59.088Z",
+     "impact": "قد تؤثر الرسوم الجمركية الأمريكية الجديدة على حركة التجارة العالمية وسلاسل الإمداد للشركات في مصر."
     },
     {
      "title": "فيديو منسوب لـ\"هجوم حوثي على مصفاة رأس تنورة\".. هذه حقيقته",
@@ -394,6 +396,13 @@
      "source": "CNN بالعربية",
      "time": "2026-11-25T16:19:43.000Z",
      "seen": "2026-11-25T16:32:59.088Z"
+    },
+    {
+     "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
+     "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQdG11Z2N4Z0FBVmJxeHVyMnI2bl9UNThKbWFZd1BVUTc5S3hrVzJ5TTdBUDMxWG9VWXhDelc2VHJUMEU4ejRLQ0pSU3RoR1JJU1BUaHJVQ2V0YlYwVjRST2pYREdtUjhvTXJNdWVfajdpckpIcHMzRWhZOG5DUGVpVzdiaTVzSFFkUXBMQ01VQnF4dC11Sl9Vb3pvTDFDcG5XNGFRR25ZX19PaERwb1ZMbTNMbVFocWJFQ19sc0lyY2wyeEU2TkRob0g2V1UxMGwzd0Qyc0NoQUdZVkt4eGlUUV9yNS1BZThhZnYzUnA0SFBtS2dpZGZNeWFpZGNLNS0wYXpQSFhvTmdvZmJqbGUwcDNzek5tVUhqamNPRmpXQ3lJWkxSX3dpdjRDWGxMSzRqRTFnMXR4STRSMXV5LW5JSmNQYTJFeDJxcWIzOGdOckxIZUJvTTBpU0FZTXhMb3lyRC1DMEs5Z3RMVGVnTWtPUDM1Wm10OHFBa1Rrc2VOS0JCaG1QajFpWFZKX3VLalVKNTJsQkJTRU1iQkRFeXNHQmFFUEpzUzBxT1VtbjY4TjVoVEF3TmFzM1NKQnZscDhnNlJfaTNaQTNSYURMeXFEOWNETkNobDJ0NUtPeElSaDBtendBWUh3YXAzZTU3TTVvaEdFRUFaelNBeEI5ZnJCOENVLWd1YjFib2thVFZiMFo1UkpQTEYwZUp0QVhpNG9JMGMyd2ppbkhCUzYwV3ZUSU01YXhtWGxrWEdTbTVyNmw2V05QZjZnbXhiYmlIdkIwUWRqZElpaTJrb1NNQ3JHVWRsYkJJX1JJ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-25T15:58:45.000Z",
+     "seen": "2026-11-25T16:12:58.542Z"
     },
     {
      "title": "العراق ـ المحكمة الاتحادية العليا تؤيد إجراءات الحكومة بشأن إقليم كردستان",
@@ -415,13 +424,6 @@
      "source": "العربية",
      "time": "2026-11-25T15:52:00.000Z",
      "seen": "2026-11-25T16:22:58.551Z"
-    },
-    {
-     "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
-     "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQdG11Z2N4Z0FBVmJxeHVyMnI2bl9UNThKbWFZd1BVUTc5S3hrVzJ5TTdBUDMxWG9VWXhDelc2VHJUMEU4ejRLQ0pSU3RoR1JJU1BUaHJVQ2V0YlYwVjRST2pYREdtUjhvTXJNdWVfajdpckpIcHMzRWhZOG5DUGVpVzdiaTVzSFFkUXBMQ01VQnF4dC11Sl9Vb3pvTDFDcG5XNGFRR25ZX19PaERwb1ZMbTNMbVFocWJFQ19sc0lyY2wyeEU2TkRob0g2V1UxMGwzd0Qyc0NoQUdZVkt4eGlUUV9yNS1BZThhZnYzUnA0SFBtS2dpZGZNeWFpZGNLNS0wYXpQSFhvTmdvZmJqbGUwcDNzek5tVUhqamNPRmpXQ3lJWkxSX3dpdjRDWGxMSzRqRTFnMXR4STRSMXV5LW5JSmNQYTJFeDJxcWIzOGdOckxIZUJvTTBpU0FZTXhMb3lyRC1DMEs5Z3RMVGVnTWtPUDM1Wm10OHFBa1Rrc2VOS0JCaG1QajFpWFZKX3VLalVKNTJsQkJTRU1iQkRFeXNHQmFFUEpzUzBxT1VtbjY4TjVoVEF3TmFzM1NKQnZscDhnNlJfaTNaQTNSYURMeXFEOWNETkNobDJ0NUtPeElSaDBtendBWUh3YXAzZTU3TTVvaEdFRUFaelNBeEI5ZnJCOENVLWd1YjFib2thVFZiMFo1UkpQTEYwZUp0QVhpNG9JMGMyd2ppbkhCUzYwV3ZUSU01YXhtWGxrWEdTbTVyNmw2V05QZjZnbXhiYmlIdkIwUWRqZElpaTJrb1NNQ3JHVWRsYkJJX1JJ?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-25T15:39:05.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
     },
     {
      "title": "إسرائيل تواجه اتهامات بارتكاب فظائع بحق الفلسطينيين وتحذيرات من عزلة دولية",
@@ -462,7 +464,8 @@
      "url": "https://aitnews.com/2026/11/25/%d8%b9%d8%b7%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a9-%d9%88%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-2026/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T16:11:41.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
+     "seen": "2026-11-25T16:12:58.542Z",
+     "impact": "يهتم مستخدمو أدوات الذكاء الاصطناعي في مصر بتحسن أداء ChatGPT وCodex لاستقرار أعمالهم البرمجية واليومية."
     },
     {
      "title": "حماس تعلن استشهاد مدير الأمن الداخلي بشمال غزة مع زوجته وأطفاله",
