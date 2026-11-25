@@ -226,9 +226,22 @@ footer p{margin:0 0 6px}
   var deferred = null, btn = $("install");
   window.addEventListener("beforeinstallprompt", function(e){ e.preventDefault(); deferred = e; btn.hidden = false; });
   btn.addEventListener("click", function(){ if (!deferred) return; deferred.prompt(); deferred = null; btn.hidden = true; });
-  window.addEventListener("appinstalled", function(){ btn.hidden = true; });
+  window.addEventListener("appinstalled", function(){ btn.hidden = true; track("install", "ثبّت التطبيق"); });
+
+  // إحصائيات مجهولة (GoatCounter): عدد الزيارات، التثبيت، والفتح كتطبيق. لا cookies ولا بيانات شخصية.
+  function track(path, title, tries){
+    tries = tries || 0;
+    if (window.goatcounter && window.goatcounter.count) {
+      window.goatcounter.count({ path: path, title: title, event: true });
+    } else if (tries < 20) {
+      setTimeout(function(){ track(path, title, tries + 1); }, 500);
+    }
+  }
+  var standalone = (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+  if (standalone) track("open-as-app", "فتح من التطبيق المثبّت");
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function(){});
 })();
 </script>
+<script data-goatcounter="https://mogaz.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>
 </html>
