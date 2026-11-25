@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:13:16.252Z",
+ "updated": "2026-11-25T22:23:16.142Z",
  "minute": [
   "شهدت مصر حادث حريق هائل ناتج عن انقلاب صهريج مواد بترولية بالوراق في الجيزة أسفر عن ضحايا، وأعقبه توجيه رئاسي وإخلاء الموقع وفتح الطريق بالاتجاهين.",
   "استقرت متابعة الأسواق الاقتصادية في مصر على متابعة أسعار الدولار مقابل الجنيه اليوم الأربعاء في البنوك.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T22:13:16.252Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T22:23:16.142Z"
  },
  "markets": [
   {
@@ -66,7 +66,7 @@
    "unit": "$",
    "value": 1.0978,
    "change": 0.64,
-   "asOf": "2026-11-25T22:13:43.000Z",
+   "asOf": "2026-11-25T22:23:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60009,
-   "change": 0.44,
-   "asOf": "2026-11-25T22:14:16.000Z",
+   "value": 59962,
+   "change": 0.36,
+   "asOf": "2026-11-25T22:24:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,31 +140,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خالد منصور يكشف لـ «صدى البلد» تفاصيل فيلمه الجديد «ليلة باظت خالص»: الكوميديا صعبة | فيديو",
-     "url": "https://www.elbalad.news/7194826",
+     "title": "أنغام تخطف الأنظار بإطلالة كاجوال أنيقة",
+     "url": "https://www.elbalad.news/7194792",
      "source": "صدى البلد",
-     "time": "2026-11-25T22:12:34.000Z",
-     "seen": "2026-11-25T22:13:16.252Z"
+     "time": "2026-11-25T22:23:15.000Z",
+     "seen": "2026-11-25T22:23:16.142Z"
+    },
+    {
+     "title": "إبراهيم فايق يُثير الجدل بصورة لتركي آل الشيخ وجون إدوارد .. هل يقترب من الإسماعيلي؟",
+     "url": "https://www.elbalad.news/7194839",
+     "source": "صدى البلد",
+     "time": "2026-11-25T22:22:39.000Z",
+     "seen": "2026-11-25T22:23:16.142Z"
+    },
+    {
+     "title": "احترس.. 6 أطعمة ممنوع وضعها في الميكرويف",
+     "url": "https://www.elbalad.news/7194841",
+     "source": "صدى البلد",
+     "time": "2026-11-25T22:21:37.000Z",
+     "seen": "2026-11-25T22:23:16.142Z"
     },
     {
      "title": "الجالية الأذربيجانية في مصر تعزي ضحايا حريق سيارة البترول بالوراق",
      "url": "https://www.youm7.com/story/2026/11/26/الجالية-الأذربيجانية-في-مصر-تعزي-ضحايا-حريق-سيارة-البترول-بالوراق/7632771",
      "source": "اليوم السابع",
      "time": "2026-11-25T22:09:00.000Z",
-     "seen": "2026-11-25T22:13:16.252Z"
-    },
-    {
-     "title": "إنتر ميلان يهزم شتوتجارت بثنائية في دوري أبطال أوروبا",
-     "url": "https://www.elbalad.news/7194828",
-     "source": "صدى البلد",
-     "time": "2026-11-25T22:08:20.000Z",
-     "seen": "2026-11-25T22:13:16.252Z"
-    },
-    {
-     "title": "باريس سان جيرمان يتعادل مع روما 2-2 في دوري أبطال أوروبا",
-     "url": "https://www.elbalad.news/7194827",
-     "source": "صدى البلد",
-     "time": "2026-11-25T22:07:02.000Z",
      "seen": "2026-11-25T22:13:16.252Z"
     },
     {
@@ -244,6 +244,14 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سماع دوي انفجارات في الرياض، والحوثيون يستهدفون ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
+     "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T22:16:07.000Z",
+     "seen": "2026-11-24T23:11:28.017Z",
+     "impact": "يهم المستثمرين لمتابعة استقرار سلاسل الإمداد وحركة الملاحة والموانئ في البحر الأحمر."
+    },
+    {
      "title": "ثبات سعر الدولار مقابل الجنيه في البنوك اليوم الخميس 26 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNa0c1WjJqUGMxTlM4dm1yTldLWkRpREtBRS01RmlqRFNyZEE4WjJDclU0c2pvZjNyQmNmZ3Z3d3BzU0EyRmx4b2RPTVZOYWN3YzFSbHJzS0F6cXdYc1JFcjd1MGxYLVhGQlg4MXh0X2E3X1o4YndfYkt1YUVvV0RkRnpjMXByMXV5T1k5aUZTSnM3d1pWeGNHSE5fTDFJbnFjMlBCYW13cEY0WmptaDBxdnZqRzMzMVVodVk5WWNBTUdtZmF0b1dVWFZQNGRHN0pUaXpZZXN1clpQak1kS0F4cndfVHh1bkMtV1NnOFhMVzl4WEJOeFc2RU9mMDRCbnJXMk5XRmhBNE96SEwtUTF3Tm5WcFplTDZSTUZxcUJhM2JSYTA5WmpCazB3MEZ4QldWRjU5MU1TNkxWVlYzeU4wQm43VC03LV9rWW9BSDB1VmIzbktlZEdCazBPRlFQQ0JYZHdZS0Z1LVpJQ0E1bGJsTTVrSGg0M2lhakRyYmRORFdDQ0lHNDRqYWtkbnRBNVZwaC14dzY2Vmg4cV8tLWc0MzlwMWlGTUF6MVJTcGRHSkhwdlNSaE05SnlYWVVYNVVPMW0weDFPS1ZXd9IBxANBVV95cUxPZngxdXRya1NCR0NnSHo1d1VFZ285OE1fSjMwdEpOSWtOc3VNSVJYR2JHOVMyMG5uVnl3SmY2bEFjcWFNMlQxYjkwNHBsT2pIS0Nic29lWHFYLW5GM3NMN2duVlVtdVBjZ0xuNGs5Ry02ZnhEZEE4di10Nm5HbllieHRNZjlWNFBDOTd5UVJCR29uUEJad2V4T3ZKdmJlQlJjT0lCbmtweUdOZG4wUFpBUjFZa0UwMnZMWDRQOG9kTDk3dXJyQmVOcHhMTHFmREVteFlST2hLLUtjdWtQQ1hoYThkcmk5QzFsRVlTaHhWbEsxOWVuVXdEcmQ5TzhfTnI4dVpYWHBQU2lKRjQxM3dTQzgzTnY3Wl9wWldRS0xoLWJCQ1Q0bXZINU45YjY2SXVMZXdQNTg3ZTA0WlZnOHNiVm9LVHM3Ymtlc0phMzl6QVdpSi1CMy1NNHB2NUMyQkhHNEp3V2lCb0VKQU0wRFFseWVKbjVwWkR6MjA0MWpBek1QMXl1SHh0YmRuMlBwLTVCTFg1SHU5SmtoQWItUDMwM0JVclR6Y00wMFhiMS1ua3dranB3WnhhTUtULWNjVV9nZzQxVQ?oc=5",
      "source": "اليوم السابع",
@@ -274,19 +282,19 @@
      "impact": "يساعد الأفراد والمستثمرين في مصر على تقييم أسعار الصرف وتأثيرها على المعاملات المالية والأسعار."
     },
     {
+     "title": "«نماء القابضة» تطلق ذراعًا لإدارة الأصول بمحفظة تتجاوز 5.5 مليار جنيه",
+     "url": "https://alborsaanews.com/2026/11/25/2009063",
+     "source": "البورصة",
+     "time": "2026-11-25T20:24:54.000Z",
+     "seen": "2026-11-25T22:23:16.142Z"
+    },
+    {
      "title": "تعرف على سعر الدولار مقابل الجنيه في البنوك اليوم الأربعاء",
      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPS2o1TEY5TGxtM0ZYNGoySlA5Q1Ztck5WSVFpbDFzenRUUEZiQkhjM1JnSUJuXzIzNFdaTG9QZjhzX2lRVTlfcWVldjE1djdqbWdzLWxWbzJXb282VTBDYnpqOUpJVV83bE8tb0xPVUlkNWkwR1c1MG1BYTJHTFljQng4dmMtUndlb1hlay01cnQyeWlsMzA5dVJQa053bjJ5UGkteUhVbEpnR2tUeVlaZWxSeFYyR3ktQ3F0a0lvS0twbFI5NHpFcFRiS0c2d25iS2pLbWtpMy1QenBOWXlEaTFFbDJ2RDBOWjg4SFJwQ0tJczFfX01mSHFndkU5V1E0SVVlRzlFbHlQM3lEYTUzYXAwaUJVMVhWTmJBa3YweXk4NERhSmU3ZzVZV3BjRlB6c0xvWGhiZjBJRER4eDhqaC1TdG1Db1hoOW93Ulp4N0ZGQ3hjYnY1VmhITlhzaGVYbXphR0l3NEVvTzczNFFZenR5RHNlU3N4MDdZSy01WGJ4MkotanVUckxwZWE5QXdDVFBXSGhyaWVmZFk3SkJzcnFteHMybEhNUWM4Z19pTlJzVFI3ZElMbE9kbzFXT0tzUF9XbG5PWjZVRVN1U2hKWHJ0akp0Ty1nMzZqLWlCbkUzbnZjUm5OV0N30gHqA0FVX3lxTE9LajVMRjlMbG0zRlg0ajJKUDlDVm1yTlZJUWlsMXN6dFRQRmJCSGMzUmdJQm5fMjM0V1pMb1BmOHNfaVFVOV9xZWV2MTV2N2ptZ3MtbFZvMldvbzZVMENiemo5SklVXzdsTy1vTE9VSWQ1aTBHVzUwbUFhMkdMWWNCeDh2Yy1Sd2VvWGVrLTVydDJ5aWwzMDl1UlBrTnduMnlQaS15SFVsSmdHa1R5WVplbFJ4VjJHeS1DcXRrSW9LS3BsUjk0ekVwVGJLRzZ3bmJLaktta2kzLVB6cE5ZeURpMUVsMnZEME5aODhIUnBDS0lzMV9fTWZIcWd2RTlXUTRJVWVHOUVseVAzeURhNTNhcDBpQlUxWFZOYkFrdjB5eTg0RGFKZTdnNVlXcGNGUHpzTG9YaGJmMElERHh4OGpoLVN0bUNvWGg5b3dSWng3RkZDeGNidjVWaEhOWHNoZVhtemFHSXc0RW9PNzM0UVl6dHlEc2VTc3gwN1lLLTVYYngySi1qdVRyTHBlYTlBd0NUUFdIaHJpZWZkWTdKQnNycW14czJsSE1RYzhnX2lOUnNUUjdkSUxsT2RvMVdPS3NQX1dsbk9aNlVFU3VTaEpYcnRqSnRPLWczNmotaUJuRTNudmNSbk5XQ3c?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T20:04:37.000Z",
      "seen": "2026-11-25T21:03:15.752Z",
      "impact": "يمكّن المتعاملين في السوق المصري من متابعة تحديثات سعر الدولار مقابل الجنيه وتحديد تكاليف الاستيراد والادخار."
-    },
-    {
-     "title": "لماذا تكتسب زيارة خليفة حفتر إلى تركيا أهمية خاصة؟",
-     "url": "https://www.bbc.com/arabic/articles/cwj3kr2j888vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T19:20:21.000Z",
-     "seen": "2026-11-25T19:23:16.138Z"
     },
     {
      "title": "أسعار الريال السعودي اليوم الأربعاء 25 نوفمبر 2026 في البنوك المصرية مقابل الجنيه المصري",
@@ -331,13 +339,6 @@
      "time": "2026-11-25T17:49:30.000Z",
      "seen": "2026-11-25T18:32:59.146Z",
      "impact": "يسهم بحث فرص الاستثمار مع شركات عالمية مثل إيرباص وCMA CGM في دعم مناخ الاستثمار الأجنبي وفرص النمو الاقتصادي في مصر."
-    },
-    {
-     "title": "غدًا.. انطلاق «قمة المرأة المصرية 2026» برعاية 7 وزارات ومؤسسات حكومية ودولية",
-     "url": "https://alborsaanews.com/2026/11/25/2009142",
-     "source": "البورصة",
-     "time": "2026-11-25T17:11:46.000Z",
-     "seen": "2026-11-25T18:32:59.146Z"
     },
     {
      "title": "تخارج محدود للأموال الساخنة من مصر والدولار يرتفع",
@@ -439,12 +440,11 @@
      "seen": "2026-11-25T19:43:16.101Z"
     },
     {
-     "title": "جماعة أنصار الله تعلن استهداف ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
-     "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
+     "title": "لماذا تكتسب زيارة خليفة حفتر إلى تركيا أهمية خاصة؟",
+     "url": "https://www.bbc.com/arabic/articles/cwj3kr2j888vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
-     "time": "2026-11-25T19:19:50.000Z",
-     "seen": "2026-11-24T23:11:28.017Z",
-     "impact": "يهم المستثمرين لمتابعة استقرار سلاسل الإمداد وحركة الملاحة والموانئ في البحر الأحمر."
+     "time": "2026-11-25T19:20:21.000Z",
+     "seen": "2026-11-25T19:23:16.138Z"
     },
     {
      "title": "مرشح محتمل للرئاسة الأميركية يهاجم نتنياهو.. \"فاشل\"",
