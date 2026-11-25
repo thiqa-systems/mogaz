@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:12:43.925Z",
+ "updated": "2026-11-25T12:22:43.710Z",
  "minute": [
   "شهدت أسواق الصرف في مصر ارتفاعاً متواصلاً لسعر الدولار واليوان الصيني أمام الجنيه في التعاملات البنكية ليتجاوز الدولار مستوى 54 جنيهاً.",
   "كشف رئيس مركز المناخ في مصر عن توقعات وتفاصيل جديدة بشأن درجات الحرارة وموجات البرد والصقيع خلال شتاء 2026.",
@@ -10,7 +10,9 @@
   "at": "2026-11-25T12:02:44.221Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 9
+  "impacts": 9,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T12:22:43.710Z"
  },
  "markets": [
   {
@@ -26,54 +28,54 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5373,
-   "change": -1.09,
-   "asOf": "2026-11-25T12:02:44.000Z",
+   "value": 5389,
+   "change": -0.8,
+   "asOf": "2026-11-25T12:13:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6134,
-   "change": -1.09,
-   "asOf": "2026-11-25T12:02:44.000Z",
+   "value": 6152,
+   "change": -0.8,
+   "asOf": "2026-11-25T12:13:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3526,
-   "change": -1.02,
-   "asOf": "2026-11-25T12:02:44.000Z",
+   "value": 3536,
+   "change": -0.73,
+   "asOf": "2026-11-25T12:13:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50537,
-   "change": -0.68,
-   "asOf": "2026-11-25T11:57:44.000Z",
+   "value": 50513,
+   "change": -0.73,
+   "asOf": "2026-11-25T12:08:05.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0948,
-   "change": 0.37,
-   "asOf": "2026-11-25T12:12:45.000Z",
+   "value": 1.0957,
+   "change": 0.45,
+   "asOf": "2026-11-25T12:22:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 88.45,
-   "change": -3.23,
-   "asOf": "2026-11-25T12:02:40.000Z",
+   "value": 88.64,
+   "change": -3.02,
+   "asOf": "2026-11-25T12:12:40.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58444,
-   "change": -2.18,
-   "asOf": "2026-11-25T12:12:40.000Z",
+   "value": 58480,
+   "change": -2.12,
+   "asOf": "2026-11-25T12:23:07.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عيار 21 بـ5660 جنيهًا.. رئيس شعبة الذهب يوجه رسالة مهمة للمواطنين",
-     "url": "https://www.elbalad.news/7194141",
+     "title": "النائب محمد أبو العينين يعلن انطلاق \"اسأل حصين\" على \"صدى البلد\" بإشراف دار الإفتاء",
+     "url": "https://www.elbalad.news/7194159",
      "source": "صدى البلد",
-     "time": "2026-11-25T12:12:09.000Z",
-     "seen": "2026-11-25T12:12:43.925Z"
+     "time": "2026-11-25T12:21:20.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
     },
     {
-     "title": "استنفار للبحث عن 4 طالبات عقب سقوط تروسيكل في ترعة بمنطقة بنجر السكر",
-     "url": "https://www.elbalad.news/7194143",
+     "title": "حاكم ولاية أمريكية يطالب بمحاسبة نتنياهو وإقالة وزير دفاع ترامب",
+     "url": "https://www.elbalad.news/7194158",
      "source": "صدى البلد",
-     "time": "2026-11-25T12:11:30.000Z",
-     "seen": "2026-11-25T12:12:43.925Z"
+     "time": "2026-11-25T12:19:39.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
     },
     {
-     "title": "صحة مطروح تواصل تفعيل برنامج السلامة الحيوية بالوحدات الصحية لتأمين بيئة العمل",
-     "url": "https://www.elbalad.news/7194093",
+     "title": "الفصائل اليمنية : جميع موانئ السعودية هدف لقواتنا",
+     "url": "https://www.elbalad.news/7194156",
      "source": "صدى البلد",
-     "time": "2026-11-25T12:11:06.000Z",
-     "seen": "2026-11-25T12:12:43.925Z"
+     "time": "2026-11-25T12:18:46.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
+    },
+    {
+     "title": "رئيس نظافة الجيزة يناقش مطالب عمال الأجر اليومى ويتابع تسليمهم بطاقات التأمين الصحى",
+     "url": "https://www.youm7.com/story/2026/11/25/رئيس-نظافة-الجيزة-يناقش-مطالب-عمال-الأجر-اليومى-ويتابع-تسليمهم/7632154",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T12:17:00.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
     },
     {
      "title": "رؤساء شركات عالمية: السوق المصرى تمثل إحدى أهم الأسواق الاستراتيجية عالميا",
@@ -170,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/25/«الصحة»-تستعد-لإعادة-المسح-الوطني-لاستخدام-المضادات-الحيوية-في-100/7632087",
      "source": "اليوم السابع",
      "time": "2026-11-25T12:04:00.000Z",
-     "seen": "2026-11-25T12:12:43.925Z"
-    },
-    {
-     "title": "فخامة الرئيس: أهمية توطين الصناعة بمجالات إنتاج مستلزمات محطات التحلية",
-     "url": "https://www.youm7.com/story/2026/11/25/فخامة-الرئيس-أهمية-توطين-الصناعة-بمجالات-إنتاج-مستلزمات-محطات-التحلية/7632145",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T12:02:00.000Z",
      "seen": "2026-11-25T12:12:43.925Z"
     },
     {
@@ -242,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "النفط والمنافذ الحدودية تشعل فصلاً جديداً من الخلافات بين بغداد وأربيل",
+     "url": "https://www.bbc.com/arabic/articles/cq772v3vmk1xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T12:12:17.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
+    },
     {
      "title": "سعر الصرف يصل 54.51 في الأهلي و CIB و 54.43 في مصر و 54.30 في المركزي للبيع نهاية تعاملات اليوم",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vR2poc01BVy14TDc2Uk9HNGFqckRoT3NaME5BU2ZTbnJTU3JYTHZBclVET0hIa09zNi1QZy1aQllXQlhzYW1vNnU3b1UzSXJqbjRWMg?oc=5",
@@ -341,14 +350,6 @@
      "source": "الشرق بلومبرغ",
      "time": "2026-11-25T10:32:03.000Z",
      "seen": "2026-11-25T11:52:44.149Z"
-    },
-    {
-     "title": "سعر الدولار في مصر يرتفع مجدداً ويتجاوز 54.5 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPQ3RKT29VYUdjOGlSUTFnbVVXb3hVSTVReE01alI1YmZ6Y2J2SkNYVzFHOVVGMFlMUGlzUUgzVkR1RnU2MU1HZlF5THBSTU5NWXJFVXdRQnhUbzBXZUtOYnpYRzhjZTF2WGVPUXNhY0lSeWlSb0ZIbkVXbDFmM3JJdGRtT1F4dWJud0M0SDlTMkZOempPYXZxWjdRNmF6SjdOY2ZlM1kwSkxWRTBfcTJUNm9FZ2tXSC05eDVraHlQcFJjMEZ6VmljQjhVZ1ZqX0t1bWEyQkNzQnNvTVBtZG9nbU8tY0hSTllCaUo3OFV3MHdDY1ZkQVNJbG82M2tCdUtxM29jZmwyWElvczZSbk5FOVNnY2pBcVpCWk5FeHk5R0EtSndLVWNlaFNKa1dLMUhKUjc4OFF0N2ExTFRIV1o0ZGd6ekhRTnYwYWozZXYweU55QUNsclAtUUZtVlpiVFVsbjNuT05IYzUxOExPejE5dnBFVk1YNWtkcTh1bUJSNTJKS29KNENTNGxpUHlXQmlCYXJv?oc=5",
-     "source": "CNN الاقتصادية",
-     "time": "2026-11-25T10:31:26.000Z",
-     "seen": "2026-11-25T10:42:44.163Z",
-     "impact": "تجاوز الدولار حاجز 54.5 جنيه يزيد من الضغوط التضخمية وتكلفة الإنتاج على المستوردين والشركات في مصر."
     }
    ]
   },
@@ -356,6 +357,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بعد طلب الصومال مغادرة السفير الإماراتي: هل بات القرن الأفريقي ساحة لصراعات الشرق الأوسط؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B5%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82/20261125-%D8%A8%D8%B9%D8%AF-%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%87%D9%84-%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D8%B3%D8%A7%D8%AD%D8%A9-%D9%84%D8%B5%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+     "source": "فرانس 24",
+     "time": "2026-11-25T12:16:56.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
+    },
+    {
+     "title": "من جرف الصخر إلى كردستان.. الزيدي يوسع معركة السيادة",
+     "url": "https://www.skynewsarabia.com/middle-east/1907047-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%B3%D8%B9-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T12:14:17.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
+    },
     {
      "title": "زي ملكة جمال لبنان في \"ملكة جمال الكون\" يشعل موجة انتقادات",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D9%8A%D8%A8/20261125-%D8%B2%D9%8A-%D9%85%D9%84%D9%83%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D9%84%D9%83%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D9%88%D9%86-%D9%8A%D8%B4%D8%B9%D9%84-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA",
@@ -378,24 +393,10 @@
      "seen": "2026-11-25T11:52:44.149Z"
     },
     {
-     "title": "أيزنكوت وليبرمان.. اتفاق سري يعيد رسم المشهد السياسي في إسرائيل",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%A3%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%88%D9%84%D9%8A%D8%A8%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B3%D8%B1%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
-     "source": "فرانس 24",
-     "time": "2026-11-25T11:49:20.000Z",
-     "seen": "2026-11-25T11:52:44.149Z"
-    },
-    {
      "title": "الأمم المتحدة تدعو للتحرك لمنع \"جرائم وحشية\" إسرائيلية بغزة",
      "url": "https://www.skynewsarabia.com/middle-east/1907051-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D9%84%D9%85%D9%86%D8%B9-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D9%88%D8%AD%D8%B4%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A8%D8%BA%D8%B2%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T11:47:17.000Z",
-     "seen": "2026-11-25T11:52:44.149Z"
-    },
-    {
-     "title": "القضاء العراقي يؤكد سلطة بغداد على حدود كردستان ومنافذه",
-     "url": "https://www.skynewsarabia.com/middle-east/1907046-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AD%D8%AF%D9%88%D8%AF-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D9%85%D9%86%D8%A7%D9%81%D8%B0%D9%87",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T11:41:14.000Z",
      "seen": "2026-11-25T11:52:44.149Z"
     },
     {
@@ -416,7 +417,7 @@
      "title": "الحرب... النصرُ صبرُ ساعة",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeGtwOGdnSE9SVHZzQTRFY0JqX0xFaWFMT2x0b0Yzb28tNXRBMW5HeDhfOFVEYUM3YlhtcThzSHdLelFQdUhQcWN0eXNDX3E0TnpuRkpTcTFOUjZmTkJVSVl3QnVoYXJiekdKOTNiNUhwSHZqLW5tQnRCcTl1Z0k1Y0lFMVlMSHBFR2RpbGpKcXZwSjlKVERFTnpmR3VRSWxOUWI3MVlxTW1XRlhUT1BhZXl1Yzlaejg1dGJFeDFHUzF0enNoRFBHRzhPT01xc0I3bXJZWE5yOFFPbk1kUUd6RmlkbkFkXzBqc3ZWMEM5LU5BbUlLYm1RUU1YWjBWVExDN1psYjhn?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-25T11:02:33.000Z",
+     "time": "2026-11-25T11:12:16.000Z",
      "seen": "2026-11-25T12:12:43.925Z"
     },
     {
@@ -558,15 +559,21 @@
      "seen": "2026-11-25T07:51:44.926Z"
     },
     {
-     "title": "الأردن.. حكم بإعدام منفذ الهجوم على رجال أمن في عمان",
-     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNU0xwNkUyRDNzcGpVNmJVX2xHOFZZRGF4NUhFeTh4UVhtZzlHQTdndE1rZVREemRkZ2hiMTVpNjI4SlUzeXZmZ2hvT1FXMmNLTFdFdFZPUkx0Q1RkQWJabWd3d0dQNGdJM0Y3dTVHSXBXTHJvclNNXzZwdExUeVN3Q0xtM2xtMzJURWEtNXZhRnZsVGZuUzJBTmxXakJuY3dNa0NYbDdnNm5Vc3V2M3hhLW1jWUZVR0hRNzcwRUJZbjktWUJDUWNjbkYtNG1aeVVqNFZiY3gwWUFGNXloTzlWU3ZzTE9ZZF9saVNxQWMzNl9jZGtKR3YtTWFncVNlWkhWMFRfQjc2T041YUplWV9Yam0ya29tSkM5V3JVWlR0YXo1NF9Yd3NETXY2NUxDdWtRRWd0dFBGWXZDMGtUM2NTSWJOUXYxUW9DdWZuMVR1TXRjSjFzSlk5M3hjb1hGNnpLaXFKckJ3dnhhcjdnZWhXTEhMSW9zMnAtTW9seV9iZGNzeWxfeVpUWtIBjgNBVV95cUxNRlJ1V1ZuUUUxQ0pLVXhHNkxfY21Wb0wtUzRmYnhkcklSVEwydWd4cHlnaHZQeU0ycU1vdEFKQWxXajRraUVKWkI2eTlQbWpqclhtRUpVY2dReGZXTzA4c3R2VlVreHBXeGEtQXhaT21FQ1VjWkd1YWQ4ZTEwdXdwY3JOOWFqUEpvYmhwN1lrNnYtYXdzaXU2NTJpSEEyS3F4ZXNINWZjRmZwSER3aHNyTGxiMnBueXVFWl8yZ2NNY1k1U2k1cW9kU3l3azFRWlM2ZzZIYmtEaTNnN2kyMThZcFMzWGk3V2d6LUhwWGlYd29VSWRqeG9KWWFGZnNoNXZVZTRZdGlZYjZ5ZnRiNk1qU3FkYVlJMlRkM3ZKTm5DR21hb0xMVlBxbDJXdnpCLXA2Yk5KaWk2RVlZNFVGTG9GY2ZBRktvZzlNU1cxck5yWV9TQjBXeUFIXy1wY1hWeFE2REliUExCTFhmSDl6aVBDSU1MVU0zUGZmR1BQRlRXNGxUTmR3WjRxcHlsSUZDUQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T07:28:32.000Z",
-     "seen": "2026-11-25T09:12:43.903Z"
+     "title": "صورة لماسك مع رئيس إنفيديا تتصدر.. ما سر العلاقة بينهما؟",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPejd4dURrTWU1S21pbU03X3d2aTF1SmpiRzNOM29YTlQ2blp2T3M0cmlGZGoyNmRseWU1ZEdoNU9ETG02SEtoY3BNMVZ1Z3QycmdqTFhKbXB0WENRbjk2VmhzMzZpbm5DTVlNLWs2YmZXOFgzQjlteUtlaWNuZ05TNWxxVTBzUEJrN0pJdW9GVG1fNURqSTkxb3czLUdiWTVIekM5bWgxamxyMlJ2Ml8yTUVtaEpaVGh6OVF1Y1pJVUxzUzBXcWVOZUVFRjQwUm1OS3NqRUpESm9KdzdwZjItdGRxbkdSUmpXVGxoZkpsTVpicE41TXBJbFVudnd1S0xzSTNWSU81RWliRFl5bFAxVmNfbHlONVZydnptUEtxcDVRX01heU9Vc09ralJ3VGJGUUplS3dVV0NRNDR4Yml6V1V2VDVzRjhrdzlqcWwxTnQzbUpOeWFzQS1mUV9oNVl4MF9pbjRqbjhwc3NQUmU1VWZxeFpkWS1JSUdrUzMyeVp2X2tLOWlIanBzSWxWaEVPZXVKTzRTVmxDeEFfc3JSTS0tUFFZU1hZdGNFWDVwMGV3RWxudkp2bjVTQUE2YXBOMzZfS1hOcUxZTlZQ0gHSA0FVX3lxTE9rVkFxdGF2SUk3MFZOVXV1ZnVBWTE2aURVa3BJRkg3TUVxd2h4cTNVV2VTTWgwTlBCMUpoN000dDZNdUJPNU90MVVBMWhSWHFpSnlsNm5QU25TNVlHX2hFYVNEakVvV2lTY1AzVGp6d0Z6NDZJWXRXV2ZnWnVEMkRmSC00ZXNSenpCT0w1QW9IUDNUaDA1c1ZjSnVNUFNObUpaMEJ1LW41VXNianpSTENtai1WMlRublRZU1hrLUo0UnBaQU1oY3hRX3p1M19SdTRPbVhvejRGbl9tNVF4RmFsd3p1SDdmMHZZSjg3SkFiNG4ta0pTbFMxRE83bGM0R2stMm5ZekluMjFQRnllUHVSVzlCQVF4dEItSzEwQzVTT1UydmExUEVVdnU0TW9QYTJaQ3diTGJvcVpTSkxtZnV2bnRwZWEwTmxmdXlkV0o0OEw1dEE1SVFVdUFNRHk5VS1DakhXWXRHTUM3WExkeGFtb2l1LXNfQzk3ZHFXYUpkbG9xcm1JNXdpY0JldDBnbDhGY2hXRkZNOVBOSEFLMVFPSDlUZmRoN2ZobWNsaGh6NVZVSm1TcXdJT0pqOHR1aWExWmtXUkNPVmNFZk9kcDBfSVE?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T07:29:00.000Z",
+     "seen": "2026-11-25T12:22:43.710Z"
     }
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
+  }
+ ],
  "marketErrors": []
 }
