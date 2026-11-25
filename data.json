@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:32:58.679Z",
+ "updated": "2026-11-25T17:42:58.331Z",
  "minute": [
   "أعلنت السكة الحديد في مصر عن فتح باب التعيين لـ 755 مهندسا ومساعد قائد قطار بالمحافظات.",
   "سجل سعر الدولار ارتفاء جديدا أمام الجنيه المصري بالتزامن مع تخارج محدود للأموال الساخنة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-25T17:22:59.153Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-25T17:42:58.331Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5422,
-   "change": -0.18,
-   "asOf": "2026-11-25T17:23:01.000Z",
+   "value": 5415,
+   "change": -0.31,
+   "asOf": "2026-11-25T17:34:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6190,
-   "change": -0.18,
-   "asOf": "2026-11-25T17:23:01.000Z",
+   "value": 6183,
+   "change": -0.31,
+   "asOf": "2026-11-25T17:34:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3530,
-   "change": -0.9,
-   "asOf": "2026-11-25T17:23:01.000Z",
+   "value": 3526,
+   "change": -1.02,
+   "asOf": "2026-11-25T17:34:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,34 +66,34 @@
    "unit": "$",
    "value": 1.0988,
    "change": 0.73,
-   "asOf": "2026-11-25T17:32:48.000Z",
+   "asOf": "2026-11-25T17:43:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.12,
-   "change": -1.4,
-   "asOf": "2026-11-25T17:22:51.000Z",
+   "value": 90.13,
+   "change": -1.39,
+   "asOf": "2026-11-25T17:33:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7092,
-   "change": -1.51,
-   "asOf": "2026-11-25T17:33:00.000Z",
+   "value": 7122,
+   "change": -1.1,
+   "asOf": "2026-11-25T17:44:02.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59292,
-   "change": -0.76,
-   "asOf": "2026-11-25T17:32:56.000Z",
+   "value": 59683,
+   "change": -0.11,
+   "asOf": "2026-11-25T17:43:53.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,31 +140,52 @@
    "title": "مصر",
    "items": [
     {
+     "title": "منتخب السعودية يبلغ دور الـ 32 لكأس العالم تحت 17 عاما بفوزه على هايتي 2-1",
+     "url": "https://www.elbalad.news/7194517",
+     "source": "صدى البلد",
+     "time": "2026-11-25T17:42:41.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
+     "title": "محافظ الدقهلية يعقد اجتماعًا لتشكيل مجلس إدارة مسجد النصر.. صور",
+     "url": "https://www.elbalad.news/7194510",
+     "source": "صدى البلد",
+     "time": "2026-11-25T17:42:20.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
+     "title": "محافظ الدقهلية يكرم الجهات المشاركة في الحملة القومية للتطعيم ضد الحصبة والحصبة الألمانية.. وتطعيم 1.2 مليون طفل",
+     "url": "https://www.elbalad.news/7194505",
+     "source": "صدى البلد",
+     "time": "2026-11-25T17:41:44.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
+     "title": "إعادة إعمار 3 دول عربية - مدبولي يكشف فرص شركات المقاولات المصرية",
+     "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNV3NxRGthT0hpWE9CUWVkYlVLbmZSLWtPMjNqNnZ5YkV0QVYyb3I0TVpZRkJGMjBnTDkyN0J0cjFxbVlNa3lRWnhhTkRMc0pFR2VpQ1EwVGRQb2ZJVUFac1dtNnJ6TUpFMUZIQlV6dm82ZlAxQ3g4Y1BNeV9aRGhRaHc4M1hQNmpseFJRYjY1TTMwZ0RmNGpJOFpQemdCcERsempKZ0JudFR5eHFyM3JjalprdGdPQ3BsbGJXTWFnLW1QVE5seHFocEVKZkNKYlh1eGI5YUk3VFpfaWRDVEEteWxBbk5EWlY0Mllxd0d0NEludThKLU1Uc0tTRVBUQXNBaWdlLWM0RkVoeTUyMmlpS1JVNGFKSmUtTWVZRkhaaXAzaHdRSURsYTE2YzFMZEcwam9hY0pydl9iM0pmQmZGZE9VWU1PcVZ2UW5oUnBKRGJIQWN1NVRBWnVfOW5GU2V5dHg0S19FaVR0VElocUxsdHl1XzNjNVpRZHc5RUZXaG5BM0lDYmJ3aW9jUG5jVnVlb0FwNmdlRm5YQS1TUUtYVGdabXJwc1FzQk9wNkkxUW9JT2hWazNEdjJsQkJycnZyZVcwUkZvcUZlZHBxY0xjSkZ4QWxZTkJVRzBkd0FNMVA4UmpPUmlhcmFaT3ZUMmZrVGNGMHRJNXBTS09WZzJyV19CQVhoZndtbGZQOXNsRm51Tkh5b0JYNE1nbDlxZXVjWE5FNtIBqgRBVV95cUxNZUNTNXlPeU9oYWNZZDkwVXFqaGpYVk1EUXJ5RkUzQ25VcW41TERGXzFkLWRzRUpBcURoNmhpbXBKWE13bUFkNXNaSTlyT2FYRjEwS21iRkJMa0JFSllGUlhwM2RqeHFtNGNrbTRmLUYwRG5idm05NjNnb05kalNzbzhzd1h5RUJRZmhLS1UtRi1McGo0dmhNZHVoTzZrVUJCSDVJT3hleDhhZ1VYRWljQm9KbVFmMnpZb3dKTlI4QjA2TVFOMk0tR2EzUUZhTVJ0VHFvU0ZnVTZBU2w5RTJBUTJfN190YWlIS3diZzMzWFVKRXM0Wkg1Y19YQkQxM0U3NkswU3lOMzFBMFJsSEI5YXBkaUNZdlE1a24zT09Kd2otd0ZtbTMxLWxUX2IxbGVKMFhWdWpFT1JES29KNDRVdFJ1X1JwTWJpajNTOXQ1SkhVa1ZNNFg0Mm1LTHVnd2xkSl93WVdhR1RhSksyYWNmNFVWV2FqVzJoWGJpc3RNR3BEd091VFp1RUN4QmlfRFE1R1VET3REZmxzVUxTLWxvVlB2anJjVTgzVmtELXJZN0h6MTVCaU9XOGlGbDVuWWFPVU1jcGc1aE84V2dadm5RajZZeUpBZEZVeHBKcmlMZjkwcFZMR1FnNnQ2VVdoclhwWjdZQUNzNEVubGRubS0xR3d5MkhmMmdQOWZSUXl6SDk3QmNvTjBVRVBQNzRxbEtkUHd3UUNBNkFNZw?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T17:35:57.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
+     "title": "مدبولي يعلن خطة الحكومة لزيادة معدلات النمو الاقتصادي خلال 3 سنوات",
+     "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxPWTNCQjlwTGR0cXlwUEFHeE1TRG16dTJGZkl4V2xVdEtnUFdIT2l1MS00SC03WWRQY1poUGdmM2ExUWxWcThJMzBMV2FhazZmd1l1ekdsVWc1YmlabWJJd1lHQXU1VWx5MUVSdmNtTm44cTNfdUthUWxTNGZ5b0xSNl83bkJxRWhjTFQtUG8xZmZDVG5RV3NYSkJna043RWxCdFZzMzE4ZFFFV3NaSTYyUWZpaFVkbXlDOFdJUmRYMVhISUZjOXlfeFhiaWNSVXhxcW5lOHRFeHFha0pOZngtaHlNMUgxRnVTWGhHSDJCdGo3QTNBOFVtMWtwUmFoaU5UVHpNbXozRFV2RnB1T1hpRmtxZVNsd0xBaFBKa09NYk05dVFyVmIwd3pSOFZ4cEd3djVTRWhBNWktMDB0X0FxQ1BqVWZsSkxYZnh2MVM1UGhGV0Jlb0NZMHduejYybEZwZnNlUUhsZHJ0MmxtVVR5NTMzaFJRLVJ6R29DbU5Wa0RlbFlVZndndE1fTnJPbEJUZXUyOGdpT3N5d0ZlZ3lCYUpTcFFQMkFBbVJzSUxHYkFUUVllcXNKeWxHWWFPc0FaWHhFR3JBMkpIODE1V1VUVUQ5SnU5MEZ5Q3VjWXNDSldrMHdXTDNkUDFfeGV4MDhObzFDbXNiT1hHZzZVRzg1RmlaQUt3MGlsRnJCWTVfYU14d0c4RmtjN19mNkttODhkQXhXMnJpdmxERmFqaW5wbXdGUDREazRnVElLb9IBwgRBVV95cUxNTi0wZUhrRWVfWTlDTUtfd1JLaDAwVGI4RlRuT0R5MVAySVU2OXV0dWtMbG1SUnh0VGFfNHcyc0FqU09xUldwVTJoemtLZ1ZWWnA5a2YzZ3lkX3YtOFEzN3RxZ1NIMGNyekNsOUNXYjNseEVBMXpmcV9zdEhwMFhXU2ZPUFNEZDlWRjZJTnFYbk9abElvY1R1VzhreHpCcTlwNUJjNG5hOV9GaURlajVVYTYxUzRrUkNBdVBmcGdxSGlzQnlqOFllMHpQN2VIalNoUkJUVVk0a0c3T0M5M09DUkpiUnEyWmtoZl8zdUtQcEdYdFBKVkRyckVjbVlzZG0zRDFtdVBVMzR4ckRIZTlFaTFyOXJCRExyOEZ5RG1MSmR6alYyMVB0dTl5WGVESDJDZDhUSE82aGU4WmtWQUFwcHlFcHhFOTJrajNsTzdpb2dKQnI2dWc3WGxLM3NRWFJZSjE4Ry1mVzYtUEpRamNHN2ItZm8zblJxUG1CRWdGTEFkaVZyT0FkVVRxc3pwbXZDX1V5TEppOXZQRXZxSmw4SnFUdnh0NzlBV2VubjVfSFRRRVdXUmZKdFZMZXpvQW9uT0RYNmpmYUNHaWhMR09CSGdEYlNCWWlsSktrS0kxR2tSVFRKd3hXYmtpVzY0SEdUQlRrelJqbm1tWjYzenV5eER2THcxT3d4dGtYdndDYmVEdjZYSEtRWkgyN205N292VVFSTnJCamJ6c2VqTm9ORElzLXpIRnJUYkFMdF9EVXQzZw?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T17:34:35.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
+     "title": "رئيس الوزراء يكشف علاقة تعديلات قانون الشركات بمخرجات منتدى مصر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQV1l6VEdxSWJvY0lnS3BjR1B3RDU1TnpfOF9PZGFzaC1iUjRWd202aGE2Tl9RRVdQQ1lPTjlibzk2YXZtZXVnWndDc0ZnNlR5bjl1UlBmNXlXdG56UWN5RzVOSjZacUtFZHZVNm95Y1piSVc3NmxDZ3V3ZXYzZk5NNXhRX3NHc0dFa1dvTkEyLVViQTFrLWstUXdRbFFHYWcwQ2R1RGtjYnVZcnczNVpJaC1JU2FMOGNaeGFhUlA3bjNLVW9kTjFYV1VjNXlFTWRwODR3MTRReWJ6QTRvYTV2NGQ4Z0h4QnNvRGVzZkZCSExkcUJ0TEhxYm93ZUpUQlJtNlFESnZZb2VKMndTRlZmSlR0S2UxQ1cxVTBPUFlVVmNQZUxtb0paMVJMQlRJRGhfd096NGtjNlNVc0VQVlhGVjBaOUNYV09ndHdPS0VlMzFMYjEyYVNFc0pSdFpZbDZlb0dJRXlUUDZGa1JkMUJtVXNQc08xSzdlTk5TbmdIRDlnbGVyMnZId1pSeTh2d2NPa1dvWGtYbXZKUWtta3lZTEVvZVRkRmppSnVQc2pUbXl0QVJVc1RJeHdkajV5dlNvZkQwZmpzUlRSTVFLTlZKOXBSSWN2MnJBUE01eUNTYzBtZ2FyS2FiUzBKc2xPZENCLUYydXhBbUV5YUxKalRxdFpDZC1KakVzVGZ0UTRCX3B1VHJTQUdCRVlKT01neHVybmN2T0Fqc3hLenNTd2dBeTk3Mlc2aEQ00gG-BEFVX3lxTFAwaFZtV0J1aXc3YndsbmpadUtzOUlVR3FTSlRXSWZQb2haYUNZclo3UmxvVHZZN1R5TnZSR1FrWTNtdVRQeUpLNEI2c1h3OXNjWVNmRFpfcWtzOTFBTUZtbGp2TWxiNW9OYlZrN040VWRTWGlEWWczYmpUV2s3dDlCUWhwTjJMNGxyTzllYlRYX0EwSTg2aldCN1pPb1pzNnhHUUl3M1dCTFN5U3JXSk94cTdfR1FCdkRVQXpKdDgweWR3cllYNmx2QlcwckMtUjdzeTNvd2J6QjhVdGhrbldvak0ta0dMOWJ6MnlURlZlSk1kQkRtSlhUVmlvTDBOcUdwZ2hDTHJGSElhV3NJUFJJaENad1VvcEMtU1VCUm5qaDdzT19vdDB2bW1PYjNpaExlUEhDcThIbkpjMVJ5UmRQc2FhUmZCRXpORzE3TnJEZlVfUWl1Mk1wTHcwT3I2TUlQWTVVWVFNQkxmY3FNUG1ZLXhiZUhNYkZCeDRQSE9MTU9RM2JKdVkxRG8zbjBVWF9YWWZ1eUtDdnpwMEVMUHo4dlZRWDZHRWptRWZaR3JtU1daNk82TG9CaUFyZVlSdkpZYmJ4UHpvb0tDRWNQTWR4WnMya25kOEFZNUE5VkRIQmJUYWhaNFVsMi1LUXY3M01YOF9WbGxFVFY3NFRjZEFEeXRpVXFDUjNwR212aDJnNnlmVHQ5amNqRS00dnVXd0dIbXJOWEZ5TDVycWtRSEIxSFl5emw0cjZQY2xWS1E?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T17:33:46.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
      "title": "الصحة: الدفع بـ 23 سيارة إسعاف فى حادث الوراق ونقل 10 مصابين لمستشفى زايد",
      "url": "https://www.youm7.com/story/2026/11/25/الصحة-الدفع-بـ-23-سيارة-إسعاف-فى-حادث-الوراق-ونقل/7632503",
      "source": "اليوم السابع",
      "time": "2026-11-25T17:32:00.000Z",
-     "seen": "2026-11-25T17:32:58.679Z"
-    },
-    {
-     "title": "الصحة: إصابة 10 أشخاص في حريق أعلى نفق عشرة بالوراق.. والدفع بـ 23 سيارة إسعاف",
-     "url": "https://www.elbalad.news/7194509",
-     "source": "صدى البلد",
-     "time": "2026-11-25T17:31:51.000Z",
-     "seen": "2026-11-25T17:32:58.679Z"
-    },
-    {
-     "title": "عناية رئيس التحرير)) وداعًا للاستيراد؟.. خبير يكشف مكاسب تصنيع السيارات بمكون محلي 45%",
-     "url": "https://www.elbalad.news/7194493",
-     "source": "صدى البلد",
-     "time": "2026-11-25T17:31:51.000Z",
-     "seen": "2026-11-25T17:32:58.679Z"
-    },
-    {
-     "title": "الطفل القا.تل أمام القانون.. متى يحاكم أمام الجنايات وما العقوبة المقررة؟",
-     "url": "https://www.elbalad.news/7193490",
-     "source": "صدى البلد",
-     "time": "2026-11-25T17:30:59.000Z",
      "seen": "2026-11-25T17:32:58.679Z"
     },
     {
@@ -200,27 +223,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-25T17:15:00.000Z",
      "seen": "2026-11-25T17:22:59.153Z"
-    },
-    {
-     "title": "مدبولي يكشف خطة زيادة المكون المحلي في صناعة السيارات خلال 3 سنوات",
-     "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQTEZlRUEwVnRKdGtES2lCWUFCRWtOWmtTTGJaMzhPOEp3VG5aekg4QVdxREtBQklhckZqU21saE42ZFRFV1R5aS1uNFhKZ2pueFcwUHd1QVFWQ1BwSDN1ZkEza0d6N241YzB6TjBMUnp5QWtPeVJPM2VCeEpRc1lMMHJHSFBIQll2dDdWcGRtcjBFd185NElDbUU1eGhid01qbWdsemtFdnhYVTloQjdnVXFYMklJazU3QVI3ZUE4LWh2b1VYQW03aFEtYWlYcDF6ck54TWthREZGVXFjQVI0ajVUX3ZRYzhYSFhHdTZWNndZcWJvUDhqa0J0Z0ZZaUlUOE9rOHZjbW04NURqRVRCUmtYVTVBNUl1d2lUSXliZ0RxbXFlV3VBOU82WW1NOXdxNEtRaGxFd2JJdnZ2NDN3VVM0QlhleHU4Y2lmLXcyWGU1UVRpMERCYWZTVmlfS1A2dVVPZ3R0OEViSncycU93MUQtcGk1LUpmeUExd3F3ajF6VjVyY2lwSlg2T1FUU19PalQ4SEdIbGR3bVlvTW9SRUIzbUk2Q1JoTDJ2YzBOcml5dzNVTkxHclZIZm1IQnQ2WngyQ2hLdTd3bmJDbWFuVWlLcDhtclZLM2lWbGUzLU9wTllSMjN4Yl9OazBLNm1wQ184a1N2azRESkFyaVNyRFBuNWZQWmRBQTFkUWpyMmZ5eFFwbXRBSXlUMkpzWDZzNzBvMkhMb0FzUWhxS1I0cGw1ODgxZ9IBuwRBVV95cUxNSlBNY3RJdGFZY2VfZG8zWmxKZXZzLXFDY1JoLVVEM3dNN0xYV20zZHI3dEFfZUthUGI2WHIxOXFudWVIZGJpclFkc00xQnJ3SjkyUWd6d0xudF92NFNWYWJvNnY4XzZmNjhMcHM1TlFJUWZsejctcXI0eDFNR1RuaTAwdXMzVEt1WHRTdUxidm12N29OTFk1TnB6TWNnZ012UUdWbUhIWUR3eUwzZlBxNUtabTRfNjB3NDZ3bGVuZXgzbXhCYjltTlAxRHJ4andRRGtjWTQzUFVIYVZ3TGVHUUxJWGp3RmNBVkRxVjZIeHhNQlBxY1hXZk54aXpUbjE0TWVlTkcyV0hIanFBdk1UR0Q2ZmpuNWdUVmg3SkNhQ0prcHVPdDdhS3ZReHVuMTJqSlNkRGRiamNsbmJfbmNLakpVVzhMQ2o0Y1d0QnFBdGZ3RlQteXdtQ013U2VzQ0xqWkl4MHZBOC1JbzdjajgxeE5qcGdiU2d1WUxLSGQ0OWJSRWloSjBDRzVkMUZfR09GdUc1N19FWVBuenlKMW5QMGtEUVFFc2M1U08wQmxZM1k3Y01ZY04zZ3dpcU5HeUE0dEtYZ0Y1ZGp5cWRibzhNSnppeUlMd0ZDWml0dkVEM0Zpd2o4T3hrZU43ZkEtZlU4anJUTEI2cFZCMFpSd09aeDBEa0liMkFKT1VYY3JmYjNWUU9MaFlyYWlNaDhYUVhYdjVTcFF2RUpRemx6VWVBMUhFcmVrWEo0LUJv?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T17:10:29.000Z",
-     "seen": "2026-11-25T17:22:59.153Z"
-    },
-    {
-     "title": "مدبولي: أخبار إيجابية تدريجيًا بشأن خفض الدين العام خلال الفترة المقبلة",
-     "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxPSzNKbVFBUndhbUpmdmNQYU1VM3gxaEJ4U05wU2xId19wbHFyeGpCTUIzWEpoZFpfeW92ajN0c3dfX0s1N3B0RUJCZTZydndSeDRsOTZaNlMydmd3Zl9tSDROT295a3FPaHpfOTRmR1VrcWUyb0Etc1ZVdjF0UWFETC02dklyNVk0WjNvRUFsZUZsWEExYlNxYVJnLWxhMzk0N2kyQWRvbXUyaFFZamg2S1J3aUpBOWRtSnBXMEUxa2tqNjFDaTNMVE81NVExMFgzSVFoSDk1d1F5d2pveGZFNlBPc0JlcW41U3J5SlBIRkpqZmR4d003RHFseDQyOXlETWpzRElLWnRKN3NDcm9rX1hsa2JNMEFBaDQ2ajNrRmpsNldzWGNzcUI4T2VjZnE1Y1AtM0lzMXl4MmRaTThxTHBpQmV6WUJQcGN5UEJEWEtRZXBmbkdzQkZ1VnU4enZaQnhyNFIyS2NCc25fS0JYNmlJeFpTUHB3OG1kUnIzUEVqdTVzVHVMVU1tY2pTbFlWLS16NDdBbDdCVEF6REExY2tPbk1NcUwzUER5YWx2UjRMRUllSG9NenBrWFVPaTBMNzRnTEJCUU9lVEM2aW1YYnZhN3ZTTzh2ZjIyUU5zZFc0N1ZSNi1zbjBFdnBfMmlHRWNFMHlNR0pnekozZGhzVFJEbVNoWkNlNENuUWpEMmVzOTVRMEtWUll3T3RCczVWY2ZNWTYtTkx1YjNQZHdaTU5kWWUtNDdTQVpLZGZTN2dfUzdxY1JyaDR1V1lrY0gzaVVta2tqRjZCNm010gHiBEFVX3lxTFB4YU1neE00REozaUxLcmtpT3N5NG1PaUNOdmcyVlVKUU9NVlNBTWU1a3VaS1hXUUwyb1VDT18tclJtN2JBREJpUXFsOFdUNTdmaWx1WG5sM3ZlZm1xaDNHVkRUMGVtQVNsVERwOEF3Sm5panFTZ1FVQWgyaEZJYWQ3elctWEd0ZHBYLVhXU0tvREtKbFM4czFPeHRLbUxGX3RrcGNLT0RURWYyd2VBbF9BQTNxc200cDFuMmlJY0ktOUNGdmlVNDNKRnJ4SDZVd0VVcFUwQTd5ZjU4V3BfR28yZjF2R3BvbUdyMDlQZFBXamtLX25tM195MVh5Y0NlcEhPTFAtZGx2MGFoaVBsQlQ4M1RUdzdiYWlFV3NsblZicWEyMVd0YXlGNzNPMHFKcUhBdldrb3c2eElrTzZiYkxiZS0tVFdHWWtwdFJYcG16bVUxaW91X1oydmdyU2NOUTBWdlRVMVBFMWg1VlJ4V2VsRllLQzBENDZxelpzaWhCSUl6QUpWMXh5cWxsb2l6VnE5Zm82SFFrOXZPTXBINnowU0xUTFpzcHIzeEkwUVFCdk5CMFlWSWlEd0ZXN0JCU3kyWGh4QmtzNklfNlh4Y0tfXzEwdGNYNmpVdHRLdVJhVThCckhaZ3NhVVBFYXVNUzdlUEo2TzZBcjhHNG1NUzh5blJ3T2dKNlNPZ3Nsb3NOV3otd01vUlhlcThCVlZmbGhzZHhnMUExalNnWHpEcnZsMG5lb2h2RFJGZEdLNURUVFJDSm1CWnRkZXE0T1VTRElTQ25RNnk2QmMxbG5FR3FLRHc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T16:59:06.000Z",
-     "seen": "2026-11-25T17:12:59.123Z"
-    },
-    {
-     "title": "مدبولي: بناء اقتصاد قوي يتطلب زيادة الإنتاج والتوسع الصناعي وتوفير فرص العمل",
-     "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNSXhOTVRXR2VyaXR0NkpVaHZOSUp5NzNicWpBMXZoeS1zVkZvSW5WWDFRSUR2djJJLVUtLVdVWmkySFdMNDcxQ2diZkw4TExTdWczZ3A2TGhRS0dkYzhpX25tU0pLN1Fhd0JHMDRZeDlnUEMwTTF0a0cyX0lFaGhXdl9mdGhmamZ1Y081a1pkU0V3SU5LcXpCR0hxYTNVYWhDZzBHSE1SQ2U2R2luU3ZRbVZXQ3NtOVVxNTJLaXRnSVppOXJhQkxqZ1F3WGlObkxVczhTT3JxVjQzT3BCc1pJdUJ3OVVZaVNkMFJSdGlRcEh2RkRyek9FTkwxMFdWMTJHR3NHcEs0Z1dTQjhEWUlHUTBEUlE5al9iZkZoM2k5bnMwY2hNVmZER2FzSnl6SWo2WXRMYXVoRTFTMnZHNjJEM3dqazUzcGxzTlBfRWNXdlowdkJ3WC1oRWRTRFFTc1VfZ1VwTHZpczBqU2JFRnByQXJJSHNmZ3Bud2JXdXhIWXBSLTVyTWNYN1lRX0pSM2J1SXNpNG9vcG85RXZfM1ExMG9jVzdiUnpGSHk1TDRaQmtrNWNjN3Nxc1Nqd0hiVFY2bGVNMzJpdGNNaDMxbWlwZUtfRDh3MXBRbHRGQlpoSzY0RGRDbG1jZVcwZ0VyTmh3eTV2M3RuSTdwTTYtRjhpdDdkNmlsZFNQYVlBLTBUNlFUdkRfR2Jjd0htbWxzTDZReUc4NXNIWThKQXV2ZXJoYUhvTG1CYmY0eEZrSm4xbE9jUHp2S0QyYXFESmlXcENyTk1Fd1Z1Wk5qV1NENDYxN3FScUFiV0k2YlJibFpfeXZnZG1RWHBRZUFhMDFLbXlxWVBTVdIBigVBVV95cUxNQnJBcXhNcWwxZTlHYVNpeXpDdnlXZXJtR0NsT3o5enVrREFaclVhNlQxY0tob2NsVEdiZ3hDOEVrTGo1UWppRWFqOUZ4TnFfVFVfS25rN1pRTWstZi04a3VEdy1iYWptSEZSenlzT29jYU1HaGxRRlVyeXVfcjZmWUxmSkRwMlhhOVpLX1RWSlJ5LWlUVW55N1dNYTFjWkwxYm5jQlpfeTNtSjlYWXlEV1NlV3lBRHRsSlhBYTJJVTRDU2pMRjZGQWVZNXlwTXF2UWxZd05PbEh4WDBZbzdKYjhwMWxkT19XcUJoZ1ZodVR1SGs1bWx0SVE0SlF1aTJkSE5VanNBbHI2YWNDd2hMd3BWUERybkVUY3FUeWFDZ19Qa0JHbW1zeXNEMWZuYm1BQVo3M0Vhbzh0TmUxVDJaRS15clFhUWFEX2lDREZtMXdELTBZVW5JM1ZSQkg4dF9nVDV2SWc5UE9sUlJzM0lPd05CZS13UU5XR3dFZWcwNXZsT1p5bHRfRVVDSXZQT1B2ZDBrd0lCNjkwd09Dbmt2LVN1U0t4cWpJUHJrQWhpckE5S0xQdlVvWldzREFldkxaeGZabkdLalUxbWRscWZJR0FvWmZ6cVpTaS1JcUtzN2p6ZDFteXRVLUFfUktsdXd0MGUxbmJUZ3FxbWRiUDN6V0hJV0pHU3Rsb2NEbDV1TF9mY21yNFpNVmhvZHd0dm9rU05UYm9Eczc2MkY1LVJ1NzBlMTVkdUpVemdsd053RjNBTHpBUTZ3Q3hMdmFZRVo3R2hGNlBKcTdTeVF0NFlnUE9xc3VfMDBzU0I3c1RObUhMTVZWbUdMaEhGT2NPbkFOaXNsbDZWd0gydw?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T16:58:51.000Z",
-     "seen": "2026-11-25T17:32:58.679Z"
     },
     {
      "title": "مدبولي: تنفيذ توصيات منتدى مصر أولوية لعمل الحكومة خلال الفترة المقبلة",
@@ -289,6 +291,13 @@
      "seen": "2026-11-25T16:22:58.551Z"
     },
     {
+     "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNV0dWUGtUN0FnbWJaQkJLNlg1eEt3RVliM0JMSHdZQTVGNTNDa3MtZW9GbUNsVnRzcUdlb2NVaDFHYTRlRDFkQ09pQlB6aHRseGpwYUxOVEF0OXlnOGtZLVlpdFFHOUxHR005OThlYjV5TlJ3SG5VdGdHOEtvUlNLQW1yZjF0ZXotZEFyVWlPWnloam9UbVo1ay1nRmRURzRFUHVxMHhTQXJjZDZ0NEN4aDR6QkNxVDRHSXRJRDczejB3V0MweXhDODRLbmo5eG42dW9kandDS0ZXN255VjJ5c0RMRTdIVHVncGJkYnZFVE5pdjhzTUozb0dnUkkzWDB2RFdjblgySW9lSDJVUENxSW92bG9uQkVyaVBIcnFKM1k2YWJFdjRHay1OMEVhczB6XzZJOUZFTFVkLTFqSlN2VjR3QU4xZHpTOE1BWVFwUkF4b2g4N29NOW1GU011TTVlb3Axd2VJQ0ZZWGVNdEcwaTRjU2tPa0toTncyeGtCbmVmRWlvUFdkd0lZY3llN0JDZi1wZW9TQ0dUOTFoMFYtdkg4Zkx3bXhWbU4tMTM0RXNOSzl4TFJPN184elVJUnFJRUpNeTlkZzl4ZjJN0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T16:03:38.000Z",
+     "seen": "2026-11-25T17:42:58.331Z"
+    },
+    {
      "title": "إيديتا تستثمر 25 مليون دولار في لمضاعفة طاقتها الإنتاجية بالعراق خلال عامين",
      "url": "https://alborsaanews.com/2026/11/25/2009137",
      "source": "البورصة",
@@ -303,13 +312,6 @@
      "time": "2026-11-25T16:01:00.000Z",
      "seen": "2026-11-25T16:12:58.542Z",
      "impact": "تفيد التحديثات المستمرة لسعر صرف الدولار بالبنوك المصرية الأفراد والمستثمرين في إدارة تعاملاتهم المالية."
-    },
-    {
-     "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVDhKVVRIbTVGY25SNXBtamYwb1FvMFZzemFLeUJtWGlYS3Bodnp1RXBRbzZWbTJqNkJnaFgxUDJYTDNWdG9sNEx3YmdkU0JyY1l1bF9zR1F3LVRDMG5KX3FPeUVfcDlicVp1d2JieDhfZXhwbDFXUkN2aHZmaXFiemxWSDBnbUFSalNFMVlwUkFJclBqNWNRRGpDQ0ZtRzd1cThTZWlJWVZpUWktVlFxNC1iYzRlbExGZU5Eb090WjY2R1oxLUVTeENYS1FqcGJDZ2RyQ0cwaUdYRjU1V2R6UEZZWDBMTFhjMTZTNzVOUTNFOUZsdFBiLXlxTmIzb3NfVlJzQ0ZNVnFJa3N4SlRUOTdUdHUwYXhzQTRxMXBObGExV3ZfQVByTUVCNXdjWkNHdUk1V2NNUVJtNmZyMEJfdFRYd1pHZFlURUprQ0lic0pYdkJ3Yi15bFpyb09PYzNZOVZpSXRNSE1BTEpzZDJUQ2ZEMzMzblNFcFRYOFhKTTAxYkxBV0JQd0h3Mk4xVnl1d1lJSnowOUpxRW16RE5kVXJadmh3Nlg3di00SnBWRHlteHhjUnNWYUtpN1FyYXdhQjlFMG5fRVFBNExkZW9UN1RR0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T16:00:00.000Z",
-     "seen": "2026-11-25T16:12:58.542Z"
     },
     {
      "title": "وزير الخارجية يبحث مع «سكاتك» النرويجية مضاعفة استثماراتها في مصر",
@@ -377,10 +379,10 @@
     },
     {
      "title": "السعودية.. سقوط مقذوف حوثي بميناء جازان دون إصابات",
-     "url": "https://www.skynewsarabia.com/business/1907104-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B3%D9%82%D9%88%D8%B7-%D9%85%D9%82%D8%B0%D9%88%D9%81-%D8%AD%D9%88%D8%AB%D9%8A-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA",
+     "url": "https://www.skynewsarabia.com/middle-east/1907104-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B3%D9%82%D9%88%D8%B7-%D9%85%D9%82%D8%B0%D9%88%D9%81-%D8%AD%D9%88%D8%AB%D9%8A-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T17:07:17.000Z",
-     "seen": "2026-11-25T17:32:58.679Z"
+     "seen": "2026-11-25T17:42:58.331Z"
     },
     {
      "title": "الانتخابات الرئاسية الفرنسية 2027: من هو دافيد ليسنار الليبرالي الذي قلب حسابات اليمين في السباق؟",
@@ -546,7 +548,7 @@
      "title": "مايكروسوفت تعلن \"الكود الأحمر\" بعد عطل استمر 24 ساعة",
      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPNVdOLWNCQURTaWZ6WUIxc1ZsZTBBdE1yX2FKU3E5bGd6RWIyNk4wd3JLRWlMLUtrN2pjX0VoNG91NHNwNHQzeGdhREJmWk56V3pDMHJPVVUwcDhJQWVOUk9zdlFjUDZvWHdiNHl2UVdBT1BjMzRreFFIaGNJa1dmNDFTb05OVHk5bXZHZURjQ0pYY1g2aUI1a0VGNTJsY3NwYWFOSXN3ellBQjE4YThUTVNESllEZzktY2xYRVpwNzJiZUMzd0lfT2VMN0R6aHVhckhaRk5SRVUwN1dIMkF4NHhvcUpERDVDRDBHRTJrZ0lQN1VGMEpRWFloc1Z3dEJ5NWtHekhYVzJVbFNSeVZ6TXQtNzlHcV9wUl9MWkVOVC1zTTF5bEc2X011VjYtTXpnMGVKNDJfdTc0YkJJRGRCTjI4em5pZmpXMGd3dG9ha0t3V2NBWXFPYTA2RV9TQ2tteFpkOWotY0xxNmdRckhheVhXWmRPNWVkVTlaUmRPdERsOG4zNTVXdFZUZ2xWSUlxLXfSAZcDQVVfeXFMTWJHZG83Nk9XdXlqRnR2NVVud3FkR0RsLTBZVmlHeG9uWFl2ZGcyTy0tTGZ3SUFUd1RxZXJyQ2pVWnpmUXNkbXJpZXV2TkZlM3Jidk4tLWY2QnVaQ0NzenlKVjYzMGxha0ZvWDA5U05CcWRnY1FJeVliYW1mM05uaWthc0M5ZEsyR2tnanhmVlpneVVIT3RTOEE3Q3VwYjFOdjFhMjFraWR3dDJLa1JpOTdVLTkzUU5tTnBrUXl4Q3VVejBld0dCY2RkOXhyb0lqVFUtX3ZyZzd3TTdiOUdCVVMybVp1QVRPbHJmM2R3MjJnSUFtdGJMSVhPTk84MWtKaEcySFdfSkhRcXViWHl2aGpzZTJqMlp2Tm5lNnVOU3plVmQ2akd0N0xNV210ZEZSOHBYYlgwVnFQX2I0YVhTLVQyLTdlbHp2cEFzSENVOVowc3FwV0pLOFU0eDR2eTBnbnRwS3FEQTZ4TURDVEtFenNPRjF5V2o2Z0NZeXozcGVEZGVHaFQ5dDBfZW1Vd0RnVHhMTXJIWVE?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T10:23:06.000Z",
+     "time": "2026-11-25T10:38:08.000Z",
      "seen": "2026-11-25T14:32:59.049Z"
     },
     {
