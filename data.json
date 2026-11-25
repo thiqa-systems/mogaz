@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:02:58.493Z",
+ "updated": "2026-11-25T18:12:58.972Z",
  "minute": [
   "أعلنت السكة الحديد في مصر عن فتح باب التعيين لـ 755 مهندسا ومساعد قائد قطار بالمحافظات.",
   "سجل سعر الدولار ارتفاء جديدا أمام الجنيه المصري بالتزامن مع تخارج محدود للأموال الساخنة.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-25T18:02:58.493Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T18:12:58.972Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5438,
-   "change": 0.1,
-   "asOf": "2026-11-25T17:53:03.000Z",
+   "value": 5457,
+   "change": 0.47,
+   "asOf": "2026-11-25T18:03:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6208,
-   "change": 0.1,
-   "asOf": "2026-11-25T17:53:03.000Z",
+   "value": 6231,
+   "change": 0.47,
+   "asOf": "2026-11-25T18:03:56.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3540,
-   "change": -0.61,
-   "asOf": "2026-11-25T17:53:03.000Z",
+   "value": 3553,
+   "change": -0.25,
+   "asOf": "2026-11-25T18:03:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +64,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0989,
-   "change": 0.74,
-   "asOf": "2026-11-25T18:02:43.000Z",
+   "value": 1.099,
+   "change": 0.75,
+   "asOf": "2026-11-25T18:13:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.33,
-   "change": -1.17,
-   "asOf": "2026-11-25T17:52:44.000Z",
+   "value": 90.5,
+   "change": -0.98,
+   "asOf": "2026-11-25T18:03:41.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7134,
-   "change": -0.93,
-   "asOf": "2026-11-25T18:03:02.000Z",
+   "value": 7129,
+   "change": -1,
+   "asOf": "2026-11-25T18:13:55.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59684,
-   "change": -0.11,
-   "asOf": "2026-11-25T18:02:58.000Z",
+   "value": 59647,
+   "change": -0.17,
+   "asOf": "2026-11-25T18:13:45.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وظائف جديدة.. الهيئة القومية لسكك حديد مصر تعلن عن حاجتها لعدة تخصصات.. اعرف الشروط",
-     "url": "https://www.elbalad.news/7194536",
+     "title": "مش أي كلام وخلاص.. اعرف فوائد الكمون المثبتة صحيا",
+     "url": "https://www.elbalad.news/7194547",
      "source": "صدى البلد",
-     "time": "2026-11-25T18:01:27.000Z",
-     "seen": "2026-11-25T18:02:58.493Z"
+     "time": "2026-11-25T18:12:20.000Z",
+     "seen": "2026-11-25T18:12:58.972Z"
     },
     {
-     "title": "القبض على متهم بحمل أسلحة نارية بقنا",
-     "url": "https://www.elbalad.news/7194527",
+     "title": "محافظ أسوان يتابع انطلاق مبادرة \"معاً ضد العنف\" لتعزيز حماية المرأة",
+     "url": "https://www.elbalad.news/7194543",
      "source": "صدى البلد",
-     "time": "2026-11-25T18:00:49.000Z",
-     "seen": "2026-11-25T18:02:58.493Z"
+     "time": "2026-11-25T18:11:46.000Z",
+     "seen": "2026-11-25T18:12:58.972Z"
     },
     {
-     "title": "محافظ السويس: تكامل الجهود البرلمانية والتنفيذية ركيزة لتحقيق مطالب المواطنين والارتقاء بالخدمات",
-     "url": "https://www.elbalad.news/7194539",
+     "title": "في حصر أولي| الصحة: ارتفاع ضحايا حريق أعلى نفق عشرة بالوراق إلى 21 وفاة و15 مصابًا",
+     "url": "https://www.elbalad.news/7194548",
      "source": "صدى البلد",
-     "time": "2026-11-25T18:00:07.000Z",
-     "seen": "2026-11-25T18:02:58.493Z"
+     "time": "2026-11-25T18:11:33.000Z",
+     "seen": "2026-11-25T18:12:58.972Z"
+    },
+    {
+     "title": "رئيس الوزراء: تعديلات لائحة قانون الشركات خطوة أخرى لتيسير الإجراءات وتحفيز مناخ الاستثمار",
+     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-تعديلات-لائحة-قانون-الشركات-خطوة-أخرى-لتيسير-الإجراءات/7632527",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T18:04:00.000Z",
+     "seen": "2026-11-25T18:12:58.972Z"
     },
     {
      "title": "الملك الصالح.. محطة تبادلية جديدة تعزز تكامل شبكة مترو القاهرة",
@@ -172,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/25/حريق-الوراق-فرق-الاستجابة-بالهلال-الأحمر-تساند-الإسعاف-والحماية-المدنية/7632523",
      "source": "اليوم السابع",
      "time": "2026-11-25T17:58:00.000Z",
-     "seen": "2026-11-25T18:02:58.493Z"
-    },
-    {
-     "title": "بدء عمليات التبريد بعد إخماد حريق دائرى الوراق",
-     "url": "https://www.youm7.com/story/2026/11/25/بدء-عمليات-التبريد-بعد-إخماد-حريق-دائرى-الوراق/7632524",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T17:55:00.000Z",
      "seen": "2026-11-25T18:02:58.493Z"
     },
     {
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "54.63 جنيه سعر الدولار في البنك الأهلى المصرى اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOZ296Q1VuWUk5T1RRUHluNVVNcWhkMGFTSzNlQnNpSlgxUW9vN194ZVc3RUp4Ql9wUXYxTUY1NVl5bjFFeUZxcDRFbE4wYVprbllGRE1qODhNMEFEYXVZS0VBMFdHYzc0UHFISUM0S19yOGNmWHktTTdmMWlLZWw4RWdMakJJZEd0S1RGdnhrTjZYUGhmOEdCNFJUaUREdUFwRUVuRElxa3htRW4wZVlSM1k4dm00Sm95RGpDNlA0YWhjTFVYa1hRRFV5TjZXbHdfN2NNTFFEdmwwUWdZb0RCSE5ZQ3lJc1lyS0FMbERfZW5rR25DQ2gzdHQ5MGJ2Qkt2dGtCRXpfVkFNN01pZW9SMVBBUXNaZlhGazlLNzY4X05nQWtOOGUwQTEzTWFDLWxnV3FlcFFrLXUwUl93YTlDeG1ZMGdQdU5kNzE4MnEyaDY0SEV2UjJreml3Y3ZCWUlXOWJscjVrdXl4czc2Yl94RFNZSGlWTlQ2S2xzLUYwRU9YWGxXcWM2aTJmX2c2UVhPSENieE1mLUpNWDFE0gGXA0FVX3lxTE5uSURaQktDYnNoV3dBUmRuM0FPV3NoTDVHekZBcHo3SHJROHRzU2JXTmJFb2p1Nk83RE42R1IyYXpGY3lCaENscHF6TEF2aDZNVlFfdlNEQ3FvZkE1cVBMc0lLdkZYRkJBMm9lMzItZ0Y2SzVaVXJxU1FWTWtnbnBna1B4RGdTekUyWFNCazBEMk5aTDdCY0JIcGdwZ2FQZEhoblZNakRBblVhSG9EZGcxU3UyNmJDMTVYcDJfWFV3S051aGdWS3ZlY3VQb2JoZVk4c3k5Q2x2RWJoNjVzSjlMQS1wVDdhVnJheUxfSmtZNWtTV2o4aGNRWUJTU1RZYldlOUFHZmt2aVZsVW02QUxfa3lRR2FIS09tUk5uMlFlbk5UUEVtdDZERFVYeDdoMXdVcDhvVjIxQzJ2NkNJMGZtNnRxVDY3YmFyZ2N3cFhPNlFNRlJrblJxZWpvdDR2dlpCd2M2R3pzRXBTZlBZajVyNEg3bm9NaktNSmItWnoyajRDN2tMcjNXUGhJUHlqYWdrRVJyOWVZ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T18:00:00.000Z",
+     "seen": "2026-11-25T18:12:58.972Z"
+    },
+    {
      "title": "التحالف يعلن سقوط مقذوف أطلقته جماعة أنصار الله على ميناء جازان السعودي ووقوع أضرار",
      "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -291,10 +298,10 @@
     },
     {
      "title": "سعر الدولار تحت سقف الـ55 جنيها في البنوك اليوم الأربعاء",
-     "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVDhKVVRIbTVGY25SNXBtamYwb1FvMFZzemFLeUJtWGlYS3Bodnp1RXBRbzZWbTJqNkJnaFgxUDJYTDNWdG9sNEx3YmdkU0JyY1l1bF9zR1F3LVRDMG5KX3FPeUVfcDlicVp1d2JieDhfZXhwbDFXUkN2aHZmaXFiemxWSDBnbUFSalNFMVlwUkFJclBqNWNRRGpDQ0ZtRzd1cThTZWlJWVZpUWktVlFxNC1iYzRlbExGZU5Eb090WjY2R1oxLUVTeENYS1FqcGJDZ2RyQ0cwaUdYRjU1V2R6UEZZWDBMTFhjMTZTNzVOUTNFOUZsdFBiLXlxTmIzb3NfVlJzQ0ZNVnFJa3N4SlRUOTdUdHUwYXhzQTRxMXBObGExV3ZfQVByTUVCNXdjWkNHdUk1V2NNUVJtNmZyMEJfdFRYd1pHZFlURUprQ0lic0pYdkJ3Yi15bFpyb09PYzNZOVZpSXRNSE1BTEpzZDJUQ2ZEMzMzblNFcFRYOFhKTTAxYkxBV0JQd0h3Mk4xVnl1d1lJSnowOUpxRW16RE5kVXJadmh3Nlg3di00SnBWRHlteHhjUnNWYUtpN1FyYXdhQjlFMG5fRVFBNExkZW9UN1RR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNV0dWUGtUN0FnbWJaQkJLNlg1eEt3RVliM0JMSHdZQTVGNTNDa3MtZW9GbUNsVnRzcUdlb2NVaDFHYTRlRDFkQ09pQlB6aHRseGpwYUxOVEF0OXlnOGtZLVlpdFFHOUxHR005OThlYjV5TlJ3SG5VdGdHOEtvUlNLQW1yZjF0ZXotZEFyVWlPWnloam9UbVo1ay1nRmRURzRFUHVxMHhTQXJjZDZ0NEN4aDR6QkNxVDRHSXRJRDczejB3V0MweXhDODRLbmo5eG42dW9kandDS0ZXN255VjJ5c0RMRTdIVHVncGJkYnZFVE5pdjhzTUozb0dnUkkzWDB2RFdjblgySW9lSDJVUENxSW92bG9uQkVyaVBIcnFKM1k2YWJFdjRHay1OMEVhczB6XzZJOUZFTFVkLTFqSlN2VjR3QU4xZHpTOE1BWVFwUkF4b2g4N29NOW1GU011TTVlb3Axd2VJQ0ZZWGVNdEcwaTRjU2tPa0toTncyeGtCbmVmRWlvUFdkd0lZY3llN0JDZi1wZW9TQ0dUOTFoMFYtdkg4Zkx3bXhWbU4tMTM0RXNOSzl4TFJPN184elVJUnFJRUpNeTlkZzl4ZjJN0gHMA0FVX3lxTE1XR1ZQa1Q3QWdtYlpCQks2WDV4S3dFWWIzQkxId1lBNUY1M0Nrcy1lb0ZtQ2xWdHNxR2VvY1VoMUdhNGVEMWRDT2lCUHpodGx4anBhTE5UQXQ5eWc4a1ktWWl0UUc5TEdHTTk5OGViNXlOUndIblV0Z0c4S29SU0tBbXJmMXRlei1kQXJVaU9aeWhqb1RtWjVrLWdGZFRHNEVQdXEweFNBcmNkNnQ0Q3hoNHpCQ3FUNEdJdElENzN6MHdXQzB5eEM4NEtuajl4bjZ1b2Rqd0NLRlc3bnlWMnlzRExFN0hUdWdwYmRidkVUTml2OHNNSjNvR2dSSTNYMHZEV2NuWDJJb2VIMlVQQ3FJb3Zsb25CRXJpUEhycUozWTZhYkV2NEdrLU4wRWFzMHpfNkk5RkVMVWQtMWpKU3ZWNHdBTjFkelM4TUFZUXBSQXhvaDg3b005bUZTTXVNNWVvcDF3ZUlDRllYZU10RzBpNGNTa09rS2hOdzJ4a0JuZWZFaW9QV2R3SVljeWU3QkNmLXBlb1NDR1Q5MWgwVi12SDhmTHdteFZtTi0xMzRFc05LOXhMUk83Xzh6VUlScUlFSk15OWRnOXhmMk0?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-25T16:03:38.000Z",
-     "seen": "2026-11-25T17:52:59.226Z"
+     "seen": "2026-11-25T18:12:58.972Z"
     },
     {
      "title": "إيديتا تستثمر 25 مليون دولار في لمضاعفة طاقتها الإنتاجية بالعراق خلال عامين",
@@ -340,14 +347,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-25T15:19:36.000Z",
      "seen": "2026-11-25T16:02:58.494Z"
-    },
-    {
-     "title": "أسعار الدولار اليوم الأربعاء 25 نوفمبر 2026 في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0dlgxS01RWGVrN2RuVnRIYUNtZlJSSTNnOGdCOHl0d0E1QUdfRmFMOWF2bXhId0NGZGZpdkVPRFB1dlNr?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T15:01:47.000Z",
-     "seen": "2026-11-25T15:12:58.742Z",
-     "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة حركة سعر صرف الدولار وتأثيرها على أسعار السلع والتكاليف."
     }
    ]
   },
@@ -387,7 +386,7 @@
      "title": "لماذا نستيقظ في منتصف الليل لتناول الطعام؟ العلم يفسر «متلازمة الأكل الليلي»",
      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQdG11Z2N4Z0FBVmJxeHVyMnI2bl9UNThKbWFZd1BVUTc5S3hrVzJ5TTdBUDMxWG9VWXhDelc2VHJUMEU4ejRLQ0pSU3RoR1JJU1BUaHJVQ2V0YlYwVjRST2pYREdtUjhvTXJNdWVfajdpckpIcHMzRWhZOG5DUGVpVzdiaTVzSFFkUXBMQ01VQnF4dC11Sl9Vb3pvTDFDcG5XNGFRR25ZX19PaERwb1ZMbTNMbVFocWJFQ19sc0lyY2wyeEU2TkRob0g2V1UxMGwzd0Qyc0NoQUdZVkt4eGlUUV9yNS1BZThhZnYzUnA0SFBtS2dpZGZNeWFpZGNLNS0wYXpQSFhvTmdvZmJqbGUwcDNzek5tVUhqamNPRmpXQ3lJWkxSX3dpdjRDWGxMSzRqRTFnMXR4STRSMXV5LW5JSmNQYTJFeDJxcWIzOGdOckxIZUJvTTBpU0FZTXhMb3lyRC1DMEs5Z3RMVGVnTWtPUDM1Wm10OHFBa1Rrc2VOS0JCaG1QajFpWFZKX3VLalVKNTJsQkJTRU1iQkRFeXNHQmFFUEpzUzBxT1VtbjY4TjVoVEF3TmFzM1NKQnZscDhnNlJfaTNaQTNSYURMeXFEOWNETkNobDJ0NUtPeElSaDBtendBWUh3YXAzZTU3TTVvaEdFRUFaelNBeEI5ZnJCOENVLWd1YjFib2thVFZiMFo1UkpQTEYwZUp0QVhpNG9JMGMyd2ppbkhCUzYwV3ZUSU01YXhtWGxrWEdTbTVyNmw2V05QZjZnbXhiYmlIdkIwUWRqZElpaTJrb1NNQ3JHVWRsYkJJX1JJ?oc=5",
      "source": "الشرق الأوسط",
-     "time": "2026-11-25T17:30:08.000Z",
+     "time": "2026-11-25T17:30:22.000Z",
      "seen": "2026-11-25T16:12:58.542Z"
     },
     {
