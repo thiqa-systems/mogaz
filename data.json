@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:22:44.065Z",
+ "updated": "2026-11-25T09:32:43.903Z",
  "minute": [
   "تناولت الأخبار تحذيرات جهاز حماية المستهلك والأزهر الشريف وتوصية برلمانية في مصر بشأن الجمعة البيضاء وتأثيرات لعبة 'جاتا 6'.",
   "أعلنت وزارة العمل المصرية عن توفير 580 فرصة عمل في عدة محافظات برواتب تصل إلى 35 ألف جنيه.",
@@ -10,7 +10,9 @@
   "at": "2026-11-25T09:12:43.903Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-25T09:32:43.903Z"
  },
  "markets": [
   {
@@ -26,45 +28,45 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5421,
-   "change": -0.2,
-   "asOf": "2026-11-25T09:12:46.000Z",
+   "value": 5417,
+   "change": -0.27,
+   "asOf": "2026-11-25T09:23:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6190,
-   "change": -0.2,
-   "asOf": "2026-11-25T09:12:46.000Z",
+   "value": 6185,
+   "change": -0.27,
+   "asOf": "2026-11-25T09:23:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3558,
-   "change": -0.12,
-   "asOf": "2026-11-25T09:12:46.000Z",
+   "value": 3555,
+   "change": -0.2,
+   "asOf": "2026-11-25T09:23:07.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50830,
-   "change": -0.11,
-   "asOf": "2026-11-25T09:07:44.000Z",
+   "value": 50851,
+   "change": -0.07,
+   "asOf": "2026-11-25T09:18:08.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0941,
-   "change": 0.3,
-   "asOf": "2026-11-25T09:22:46.000Z",
+   "value": 1.094,
+   "change": 0.29,
+   "asOf": "2026-11-25T09:32:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -73,7 +75,7 @@
    "unit": "$/برميل",
    "value": 88.21,
    "change": -3.49,
-   "asOf": "2026-11-25T09:12:28.000Z",
+   "asOf": "2026-11-25T09:22:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58963,
-   "change": -1.31,
-   "asOf": "2026-11-25T09:22:43.000Z",
+   "value": 58836,
+   "change": -1.53,
+   "asOf": "2026-11-25T09:33:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,46 +140,60 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الحكومة تخصص قطعة أرض بالمجان لإقامة مستشفى فى الدقهلية",
-     "url": "https://www.youm7.com/story/2026/11/25/الحكومة-تخصص-قطعة-أرض-بالمجان-لإقامة-مستشفى-فى-الدقهلية/7631809",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T09:21:00.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
-    },
-    {
-     "title": "رئيس الوزراء: صناعة السيارات تحظى باهتمام خاص",
-     "url": "https://www.elbalad.news/7193888",
+     "title": "اليونان تعتزم تعزيز مشاركة شركات الدفاع المحلية في صفقات التسليح وتطوير الطائرات المسيرة والذكاء الاصطناعي",
+     "url": "https://www.elbalad.news/7193909",
      "source": "صدى البلد",
-     "time": "2026-11-25T09:19:51.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:31:16.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
-     "title": "المالية والاتصالات تطلقان هاكاثون لتطوير الخدمات الحكومية بالذكاء الاصطناعي",
-     "url": "https://www.elbalad.news/7193872",
+     "title": "رئيس الوزراء يشهد مراسم إطلاق تصنيع سيارة \"شيڤروليه جروڤ\" محليا",
+     "url": "https://www.elbalad.news/7193903",
      "source": "صدى البلد",
-     "time": "2026-11-25T09:19:39.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:30:18.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
-     "title": "روبيو: نثمن علاقاتنا القوية مع البوسنة والهرسك",
-     "url": "https://www.elbalad.news/7193891",
+     "title": "أسعار النفط اليوم| برنت يهبط بقوة لـ89 دولارا.. هل بدأ الانهيار؟",
+     "url": "https://www.elbalad.news/7193886",
      "source": "صدى البلد",
-     "time": "2026-11-25T09:19:30.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:30:07.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
-     "title": "رغم توقعات الشتاء الدافئ.. رئيس مركز المناخ يحذر من موجات صقيع تهدد المحاصيل",
-     "url": "https://www.youm7.com/story/2026/11/25/رغم-توقعات-الشتاء-الدافئ-رئيس-مركز-المناخ-يحذر-من-موجات/7630281",
+     "title": "ضبط كمية من الدقيق المدعم بالصف قبل بيعها في السوق السوداء",
+     "url": "https://www.youm7.com/story/2026/11/25/ضبط-كمية-من-الدقيق-المدعم-بالصف-قبل-بيعها-في-السوق/7631825",
      "source": "اليوم السابع",
-     "time": "2026-11-25T09:19:00.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:30:00.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
-     "title": "أكثر من 38 ألف شهيدة.. تقرير نقابي دولي يكشف مأساة المرأة في غزة",
-     "url": "https://www.youm7.com/story/2026/11/25/أكثر-من-38-ألف-شهيدة-تقرير-نقابي-دولي-يكشف-مأساة/7631797",
+     "title": "باستثمارات 20 مليون دولار.. تفاصيل إطلاق الإنتاج المحلي لسيارة شيفروليه «جروڤ» بحضور رئيس الوزراء",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPeXR4RmtvNk0ta25FTmdsMGNqVVNBc0ptSnNwZ21xUXF4V1dtUzlWcUhhcmxWRFhqWEM1TVpWY3BKX2Y5eTA0Wm5XcW9pTndqRXEtcVNHVUNSbWt6dkVrQ1R0bFdkcFd5OF9XbklIYXRyXzIzWGRiWDcxcENNak9uS0QtRGEtQkM5anBON0JoYVpWU3haMGw0bUlaR1BKNW9hYVlMNTVKbmdpRS14d1JIcGp5ZHE1cndsSFdLQnJOX3VpM0h2ZUFtcmRWVnVZTWFNUmloSFlydmhtQ3VodzFjOHZ2LVRVcHdjSTFUV0ExSzJxRE9wcllfU1RSMXBzSmppRTZaZDNkdUJmdlpOU3lqcGVlUkp0Um1GR0J2NlZmUEpFS1JUZUkyLXhvN05PRWdpU0oySnZCNnhRZWZjamZQNG1XMlgzYy1WTXpHal9Qc1JmV3YyM1lTYU80czMyRFpISmtMcGRPZGl2QQ?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T09:27:58.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
+    {
+     "title": "حضور إلكترونى.. كيف تنظم اللائحة الجديدة اجتماعات المجمع المقدس بالكنيسة؟",
+     "url": "https://www.youm7.com/story/2026/11/25/حضور-إلكترونى-كيف-تنظم-اللائحة-الجديدة-اجتماعات-المجمع-المقدس-بالكنيسة/7629308",
      "source": "اليوم السابع",
-     "time": "2026-11-25T09:19:00.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:26:00.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
+    {
+     "title": "مدبولي يشهد بدء إنتاج شيفروليه جروڤ بمصنع جنرال موتورز في أكتوبر | مصراوي",
+     "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPNWViSm04bEVod1VtQjA4OGIxQzl5WF90T2Z1NC1VcG5lSVh3TkYwb00xNlhwQ0o2ekMyLUZxT3pjcWlLN1FLRDJ4dnM1ekUzWURWTHZRNGlsMGc1bTV6ekJjOUdKb21menVpTDJaWGQzUTF4YVp1dkVZVVRwSTlfc2s3cXNDVVppNUdsWmRjT1dvb2FybGI4ZS0wQXpJNmMzT0RZeFNtZnlVQjQ2ZWZyLXROUlZkRUowVFFjUEJVeG1HaEZIUTllQnQzZHM1b0htdWpRNURpWXJqYURpbzRkZWRITjlsb3VCOUxOZVVuemcwQ1ctbXJaYmFNc0ZWa3k5X0s3d3FtV2kxMnN6U2szZ1dsSDVZZncyblJELUtSdklJNkFoWkFpcV9PTjJoUU02Y0Q3YVF5cElDN1FuWmlSNkFacjRaY25XUFRvSHFqVVI4TDI0emVlMWdIZHd5a2NYSEZTanZzQXpOa3pyOFUyMlJXbTcyZG9RNy1nTkFPaTg2ZmwwRlRnN2N3TzIwaGVicjdOODJSd0tmbHBFNm1tSzRucTc0RTRncnFBWlZiTVFxNXBzOHNCbDlkVjdCcnFDV1BTUXVaSEQ0SHZxRjkteEFxdVhWNFZNTTZBeGUtSXh0amk3bFcyQjJ0RDJUQ0NVZHNReUY4LUJvNVBiSzh1dXF2TUo3d2FzbXdOeFhDV0EwOWVSRmVKQkVSdWZOSHZRejlOZExJUFBrWkpqbmlEU2JjdFJNRmxaSzdWa0R3cl83a3pnVnZxNmlaOVZYY2s?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-25T09:23:52.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
+    {
+     "title": "رئيس الوزراء يصدر قرار بإنشاء المنظومة الوطنية الشاملة للبيانات",
+     "url": "https://www.youm7.com/story/2026/11/25/رئيس-الوزراء-يصدر-قرار-بإنشاء-المنظومة-الوطنية-الشاملة-للبيانات/7631796",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T09:23:00.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
      "title": "مدبولي يشهد بدء الإنتاج المنتظم لسيارة «شيفروليه جروڤ» باستثمارات 20 مليون دولار",
@@ -220,20 +236,6 @@
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-25T09:01:00.000Z",
      "seen": "2026-11-25T09:12:43.903Z"
-    },
-    {
-     "title": "رئيس الوزراء يشهد إطلاق مشروع التصنيع المحلي لسيارة «شيفروليه جروف» بمدينة 6 أكتوبر (بث مباشر)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Y09IdGNsS0IxX0xBQURWLXNQMElGUG5FdlhXc2hmdWFuYkJKRTk2M2U5MElnQkVfQ3Rzb2J1NmpWYWpqUjhfWWV0U0FMN25XVWVKa0VkYWZNdUpTZEpv?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T08:52:00.000Z",
-     "seen": "2026-11-25T09:02:43.538Z"
-    },
-    {
-     "title": "بث مباشر.. \"مدبولي\" يشهد إطلاق مشروع التصنيع المحلي لسيارة شيفرولية \"جروف\"",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0QktGR1NoUHlOOVNoaFNPcy1OR2t4QkY2U25TNnR0bUdjeEhIMlhuYjBaMEl6THE4UWpzRUttZ25td2o0?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-25T08:47:56.000Z",
-     "seen": "2026-11-25T08:52:43.419Z"
     }
    ]
   },
@@ -241,6 +243,27 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "أسعار العملات اليوم الأربعاء 25-11-2026 في البنك المركزي المصري",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQczU0MWRnRmVyWHZ0WVc2NDFTS29rVkhKQ3ZzWDZicjlOLVVsR2dQSlpHRm92dkhhdU9rOXlXRGdlQzlRRXNKN1lFZVppel8zc2NfTVBjX0FMc1lDR29pcG92Ykl3cl95N2xlNGdSVUdyYmotWWFHc3d2RlJlQlBJM214T3VKMGFNN1BvSnlSVEdWeFViTDVybjdOZVFIRXFndzRINkpjbUxHcnI1aGE0aUx5XzVOYU1ZcUowa1E4V25STlY1QzVmdThZY1hnU3ptdzRlYlBQUDZROFdsdWtlWGdtTTBabThsUHc2cll0X0s3R1Jxc2g4b1k3Q1ZqeS1qNG1RZ2tWVDJ0bkRvOURCbUVjVEhDT0YzZm9GOVU1WHE?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-25T09:29:36.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
+    {
+     "title": "ارتفاع سعر الدولار أمام الليرة السورية في مصرف سوريا المركزي اليوم الأربعاء",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SSHpSbWk5UXVCaGhJYXctSkh3YkJqQS1oTE9acTVWdkx4VUNzZURObC1raEloLTVrTlppOUkwQzl4dFQ4MFRJ?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-25T09:23:00.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
+    {
+     "title": "سعر الدولار في مصر يعود لتحقيق المكاسب",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNX1dWejVRcWtER0xuOFZqTHBJUkk0dTZuelY4QjJHUHFzTU1DellMQUthMzVfd1lMcWRhNER4My1fRlRoYTZnOGhacnUzZ1VFdm9pR3hrY084bWMzQ1Z4a25HZll5V1VtNXpka1lDOXctckRycUMxZU9LSllQRGo5MldWUGs5bW1jM0RIMjZ3SGU3UFJQXzJkcFR3YmI0aTgyRXc2ZnVQTFhpcHR2VTJnR1RDTllVMXh5YTRBU3hDQlJ2ZVgyYnFXVERFZl91UnBGN21xdFo2eTF0Tk52QXU0bGZBbUtfclkyd2RsNHM2aDZaaVdiaWZTb1ItU3VDOWZpLWc1TERDeDV4M1M1eWN2RnRFdWJOanU5QWZRbkdRaW90V3hsd2NMamNGZERLZUNqMS16SDRWVkwyTzhJRG1rOGlvTmkwZkhxenFmSVR1QzQtN1dmVVF4UXV5OG4zOUV2RVVDQ0l3MEU4YzJPUE9QUtIB9gJBVV95cUxQblZGb0l5emxGWDZNZ01wNDVsTGN4NWVWODdEc3VlRWhndndrZ2QwZXk1elBqTEpiMFFmYlNJNTBKdURoZlZKbkFjVGtwd1NNSDFKUExqQVRldTY3QW1LR243TUVhbEtPazFHWVNHaE8ydkttTFJhTFkyT1BQVHZ2ZE1tWDZoLWpxcWh1TWhNRTEtX2hQTEFZdHVZN3kzbzlrejd6MDg3bzZudWZndTd2ZDl2bEtwNk1uYkpUel83QXRLbVdnc3k1T0tadU1FMWZ6YkRIdjJ1V1dLU3pfc2JlNExvRmlmc0pHdFk0NUZETVo4UGJsZktrR3ZCSWdHd2hwb0lfNE44MFJVY256WTh3NVhvNWxJTDE5ZzdJTlROUElMeU80QW9fdWxJLURuU0VsaVBvMVdQdzVNd1RyLXZZM0otWm5UNE1nRXNFa3Q4MFdSb3B4bHNBcVpkeVdGSXJleHZablN6MW01djVZTmhRbFg1TUhEdw?oc=5",
+     "source": "العربية",
+     "time": "2026-11-25T09:11:00.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
     {
      "title": "تحديث سعر الدولار اليوم في مصر.. كم سجلت العملة الأمريكية في البنوك؟",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NX0x1S0E0ZGtSMU0zdndhYWZfZjkxMHlsNTFxekQxSFBlOVZCZ0oxTmZicW9NNkxrQzhkd2FCVHdlQjR1?oc=5",
@@ -323,27 +346,6 @@
      "time": "2026-11-25T07:34:59.000Z",
      "seen": "2026-11-24T23:11:28.017Z",
      "impact": "يثير مخاوف بشأن اضطراب خطوط الملاحة والموانئ الإقليمية وسلاسل الإمداد المتجهة لمصر."
-    },
-    {
-     "title": "سعر الدولار الأمريكي في البنوك اليوم الأربعاء 25-11-2026.. آخر تحديث",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51Mi1Iam5telExeWw0UlVGU2JIN3I1alJFTHotRHJrT2RFd2l4NlRNcGtJTHRZVnVONUZVY1dxOFdmRDRiUFpuRV8wLVJtWERLay0zX2JmaG9zRGw4?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-25T07:32:07.000Z",
-     "seen": "2026-11-25T07:51:44.926Z"
-    },
-    {
-     "title": "سعر صرف الدولار في البنوك المصرية اليوم الأربعاء 25-11-2026",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZWkRxaXllLThVTThNRzJkRnV4aXc0WEVoV21tenRGMDZGaWt3Mjg4OHZCVEtjQWRTSnVRWVo0TEJsWTBFbFFr?oc=5",
-     "source": "فيتو",
-     "time": "2026-11-25T07:12:00.000Z",
-     "seen": "2026-11-25T07:21:45.317Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الأربعاء 25 نوفمبر 2026 بعد الانخفاض الأخير",
-     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZVR1RmZRQ2d6UHdnRElmMTlYWnRodGstQ0VDMDZZX1NaYmh0Rm54LVpZYTVMZVFxYjRGbUxyZTlKb0NQR0Y0bm51b3RSLWt1QTVNSDdrYmd2ZFQ1cGxYZTR6WGktX295X08yVWZOTXZ6Vm5hSnVMTnc0aWJfWFlidTVFS0dVcGt3WXN5R0toR0JyNm1nYVd6VS1fUEF3VkJobzlLdXNzWEpFRklJSUdaWWpIZjB5Q19xS1F3N2YzaGo4cnRiNU0yZFI1QVZhbndNOUVGM1pFRWYzaWZhSTczRzZMWlo0ZXdDMVNJenV1bkJkcEZwLVlUSmVPYjZPNFViN1NaZWc3b1EtZ1VsWmF1R1NTWGxSU0tsSUpPTU1pOVdUSGFXN3ZwU19HQjFiUGNjcjdyWmFOQlplODJqSkRCbmRsVQ?oc=5",
-     "source": "قناة صدى البلد",
-     "time": "2026-11-25T07:09:04.000Z",
-     "seen": "2026-11-25T07:11:44.736Z"
     }
    ]
   },
@@ -457,25 +459,32 @@
    "title": "تكنولوجيا",
    "items": [
     {
-     "title": "تقرير: مخاوف داخل OpenAI وأنثروبيك بشأن سلامة نماذج لم تُطرح بعد",
-     "url": "https://aitnews.com/2026/11/25/%d8%b3%d9%84%d8%a7%d9%85%d8%a9-%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/",
+     "title": "تريند فورس تخفض توقعاتها لسوق الذاكرة في 2027 وترجح تراجع أسعار NAND",
+     "url": "https://aitnews.com/2026/11/25/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%b4%d8%b1%d8%a7%d8%a6%d8%ad-%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-2027/",
      "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-25T09:22:35.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:31:50.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
-     "title": "أمازون تستأنف توسيع شبكتها للإنترنت الفضائي بإطلاق 36 قمرًا اصطناعيًا بعد خسارة 40 قمرًا",
-     "url": "https://aitnews.com/2026/11/25/%d8%a3%d9%85%d8%a7%d8%b2%d9%88%d9%86-%d8%aa%d8%b7%d9%84%d9%82-36-%d9%82%d9%85%d8%b1%d8%a7/",
+     "title": "أسهم سامسونج وSK Hynix تهوي بنحو 10% و11% مع تجدد موجة بيع أسهم الذكاء الاصطناعي",
+     "url": "https://aitnews.com/2026/11/25/%d9%87%d8%a8%d9%88%d8%b7-%d8%a3%d8%b3%d9%87%d9%85-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%88%d9%87%d8%a7%d9%8a%d9%86%d9%83%d8%b3/",
      "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-25T09:22:16.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:31:39.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
-     "title": "باحث أمني يكشف عن قاعدة بيانات مكشوفة تضم نحو ملياري سجل لبيانات تسجيل الدخول",
-     "url": "https://aitnews.com/2026/11/25/%d8%a7%d9%86%d9%83%d8%b4%d8%a7%d9%81-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d9%8a-%d8%b3%d8%ac%d9%84-%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%a7%d9%84%d8%af%d8%ae%d9%88%d9%84/",
+     "title": "سامسونج تطلق تحديث نوفمبر 2026 الأمني لهاتفي Galaxy A37 وGalaxy A56 5G",
+     "url": "https://www.tech-wd.com/wd/2026/11/25/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d9%84%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-2026-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a-%d9%84%d9%87%d8%a7/",
+     "source": "عالم التقنية",
+     "time": "2026-11-25T09:31:33.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
+    },
+    {
+     "title": "إكس بينغ تبدأ تجارب نقل الركاب بسيارات أجرة ذاتية القيادة دون مراقب أمان في مقعد السائق",
+     "url": "https://aitnews.com/2026/11/25/%d8%a5%d9%83%d8%b3-%d8%a8%d9%8a%d9%86%d8%ba-%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a3%d8%ac%d8%b1%d8%a9-%d8%b0%d8%a7%d8%aa%d9%8a%d8%a9-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9/",
      "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-25T09:21:54.000Z",
-     "seen": "2026-11-25T09:22:44.065Z"
+     "time": "2026-11-25T09:31:24.000Z",
+     "seen": "2026-11-25T09:32:43.903Z"
     },
     {
      "title": "الأردن.. حكم بإعدام منفذ الهجوم على رجال أمن في عمان",
@@ -551,14 +560,6 @@
      "source": "عالم التقنية",
      "time": "2026-11-24T21:08:25.000Z",
      "seen": "2026-11-24T21:11:12.187Z"
-    },
-    {
-     "title": "أنثروبيك تفقد مئات المليارات من قيمتها السوقية بعد قمتها في أول يوم تداول",
-     "url": "https://www.tech-wd.com/wd/2026/11/25/%d8%a3%d9%86%d8%ab%d8%b1%d9%88%d8%a8%d9%8a%d9%83-%d8%aa%d9%81%d9%82%d8%af-%d9%85%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d9%82%d9%8a%d9%85%d8%aa%d9%87/",
-     "source": "عالم التقنية",
-     "time": "2026-11-24T21:04:09.000Z",
-     "seen": "2026-11-24T21:11:12.187Z",
-     "impact": "يعكس للمستثمرين المهتمين بالتكنولوجيا في مصر حجم التقلبات الحادة في تقييمات شركات الذكاء الاصطناعي."
     }
    ]
   }
