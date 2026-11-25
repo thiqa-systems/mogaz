@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-25T15:32:58.533Z",
+ "updated": "2026-11-25T15:42:58.781Z",
  "minute": [
-  "شهدت البنوك المصرية ارتفاعاً في أسعار صرف الدولار واليورو أمام الجنيه في ختام تعاملات الأربعاء.",
-  "استعرضت وزارة التربية والتعليم في مصر مسارات جديدة لإعداد الطلاب لسوق العمل، بينما أطلق المجلس القومي للمرأة حملة لمناهضة العنف.",
-  "عالمياً وتكنولوجياً، تسبب إضراب مفاجئ في شل حركة قطارات يوروستار، واقترحت المفوضية الأوروبية قانوناً للتقنيات الكمية."
+  "ارتفعت أسعار الدولار والعملات أمام الجنيه المصري في ختام تعاملات اليوم الأربعاء بالبنوك والبنك المركزي.",
+  "حذرت هيئة الأرصاد الجوية في مصر من برودة الطقس، بينما يتفقد رئيس الوزراء محافظة بني سويف في جولة ميدانية.",
+  "شهدت المنطقة تصعيداً ميدانياً مع إعلان الحوثيين استهداف منشآت بالسعودية وقصف ميناء الحديدة، توازياً مع تطورات سياسية في إسرائيل واليمن.",
+  "تسبّب إضراب مفاجئ في توقف قطارات يوروستار بين باريس ولندن، في حين اقترحت المفوضية الأوروبية قانوناً وصندوقاً للتقنيات الكمية."
  ],
  "ai": {
-  "at": "2026-11-25T15:12:58.742Z",
+  "at": "2026-11-25T15:42:58.781Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-25T15:32:58.533Z"
+  "key": 2,
+  "impacts": 9
  },
  "markets": [
   {
@@ -27,27 +26,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5316,
-   "change": -2.13,
-   "asOf": "2026-11-25T15:23:12.000Z",
+   "value": 5333,
+   "change": -1.82,
+   "asOf": "2026-11-25T15:33:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6069,
-   "change": -2.13,
-   "asOf": "2026-11-25T15:23:12.000Z",
+   "value": 6089,
+   "change": -1.82,
+   "asOf": "2026-11-25T15:33:11.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3461,
-   "change": -2.83,
-   "asOf": "2026-11-25T15:23:12.000Z",
+   "value": 3472,
+   "change": -2.53,
+   "asOf": "2026-11-25T15:33:11.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +62,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0947,
-   "change": 0.36,
-   "asOf": "2026-11-25T15:32:45.000Z",
+   "value": 1.0945,
+   "change": 0.34,
+   "asOf": "2026-11-25T15:42:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 89.57,
-   "change": -2,
-   "asOf": "2026-11-25T15:23:13.000Z",
+   "value": 89.59,
+   "change": -1.98,
+   "asOf": "2026-11-25T15:33:01.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7011,
-   "change": -2.64,
-   "asOf": "2026-11-25T15:33:14.000Z",
+   "value": 7012,
+   "change": -2.63,
+   "asOf": "2026-11-25T15:43:11.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 57971,
-   "change": -2.97,
-   "asOf": "2026-11-25T15:33:12.000Z",
+   "value": 58208,
+   "change": -2.58,
+   "asOf": "2026-11-25T15:43:09.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,46 +138,55 @@
    "title": "مصر",
    "items": [
     {
-     "title": "التحقيق في تخلص سائق من حياته بسبب النفقة ورؤية أبنائه بأكتوبر",
-     "url": "https://www.elbalad.news/7194348",
+     "title": "عصابة الضباط المزيفة.. حبس عاطلين لاتهامهما بسرقة خليجي بالهرم",
+     "url": "https://www.elbalad.news/7194366",
      "source": "صدى البلد",
-     "time": "2026-11-25T15:30:42.000Z",
-     "seen": "2026-11-25T15:32:58.533Z"
+     "time": "2026-11-25T15:41:06.000Z",
+     "seen": "2026-11-25T15:42:58.781Z"
     },
     {
-     "title": "كأس العالم للناشئين| منتخب مصر يتقدم على بنما بهدف في الشوط الأول",
-     "url": "https://www.elbalad.news/7194356",
+     "title": "درجات الحرارة في مصر .. الأرصاد تحذر من برودة الطقس",
+     "url": "https://www.elbalad.news/7194370",
      "source": "صدى البلد",
-     "time": "2026-11-25T15:29:44.000Z",
-     "seen": "2026-11-25T15:32:58.533Z"
+     "time": "2026-11-25T15:40:57.000Z",
+     "seen": "2026-11-25T15:42:58.781Z",
+     "impact": "تساعد التحذيرات الجوية المواطنين في مصر على اتخاذ الاحتياطات اللازمة للتعامل مع انخفاض درجات الحرارة."
     },
     {
-     "title": "محافظ أسوان يتفقد 9 سيارات لنقل المخلفات الطبية الخطرة لضمان التخلص الآمن منها",
-     "url": "https://www.elbalad.news/7194347",
+     "title": "محافظ القاهرة يتفقد ميدان المحطة بحلوان بعد رفع الإشغالات وتيسير حركة المواطنين",
+     "url": "https://www.youm7.com/story/2026/11/25/محافظ-القاهرة-يتفقد-ميدان-المحطة-بحلوان-بعد-رفع-الإشغالات-وتيسير/7632331",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T15:40:00.000Z",
+     "seen": "2026-11-25T15:42:58.781Z",
+     "impact": "يسهم رفع الإشغالات بحلوان في تسهيل التنقل وحركة التجارة المحلية لسكان المنطقة والمترددين عليها."
+    },
+    {
+     "title": "الكرملين يكشف موقف أوروبا من دعوة بوتين لزيارة موسكو.. هل تقترب مفاوضات السلام في أوكرانيا؟",
+     "url": "https://www.elbalad.news/7194367",
      "source": "صدى البلد",
-     "time": "2026-11-25T15:25:41.000Z",
-     "seen": "2026-11-25T15:32:58.533Z"
+     "time": "2026-11-25T15:39:13.000Z",
+     "seen": "2026-11-25T15:42:58.781Z"
+    },
+    {
+     "title": "مدبولي يزور بني سويف غدًا في ثالث جولة ميدانية منذ توليه رئاسة الحكومة.. ماذا تحقق من زياراته السابقة؟",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VTGhTZUZVVUhaTFpCUEJHMDZ0dy1PbDVxWHZ2emNheGMtalIxQ0lJcnZHaXNGYmlaSlk0UlVYeE5wYlY0aUlUQnUxTlZBNVlTekstN04yYk9IcVhOYzY0?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-25T15:36:00.000Z",
+     "seen": "2026-11-25T15:42:58.781Z",
+     "impact": "تهم الجولة الميدانية لرئيس الوزراء سكان ومستثمري بني سويف لمتابعة تطور المشروعات والخدمات بالمحافظة."
+    },
+    {
+     "title": "مستشار الرئيس الأمريكى: التنسيق مع مصر بالغ الأهمية.. ورؤانا متطابقة بشأن ليبيا",
+     "url": "https://www.youm7.com/story/2026/11/25/مستشار-الرئيس-الأمريكى-التنسيق-مع-مصر-بالغ-الأهمية-ورؤانا-متطابقة/7632370",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T15:33:00.000Z",
+     "seen": "2026-11-25T15:42:58.781Z"
     },
     {
      "title": "المجلس القومى للمرأة يطلق حملة تحت شعار «كونى» لمناهضة العنف",
      "url": "https://www.youm7.com/story/2026/11/25/المجلس-القومى-للمرأة-يطلق-حملة-تحت-شعار-«كونى»-لمناهضة-العنف/7632350",
      "source": "اليوم السابع",
      "time": "2026-11-25T15:12:00.000Z",
-     "seen": "2026-11-25T15:12:58.742Z"
-    },
-    {
-     "title": "التعليم تستعرض مسارات «جسر»: 3 نماذج لإعداد الطلبة لسوق العمل محليًا ودوليًا",
-     "url": "https://www.youm7.com/story/2026/11/25/التعليم-تستعرض-مسارات-«جسر»-3-نماذج-لإعداد-الطلبة-لسوق-العمل/7632354",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T15:11:00.000Z",
-     "seen": "2026-11-25T15:12:58.742Z",
-     "impact": "يهم الطلاب وأولياء الأمور لمعرفة النماذج التعليمية الجديدة المطروحة لإعداد الخريجين لسوق العمل محلياً ودولياً."
-    },
-    {
-     "title": "وزير الخارجية يستقبل الرئيس التنفيذى لشركة \"سكاتك\" النرويجية",
-     "url": "https://www.youm7.com/story/2026/11/25/وزير-الخارجية-يستقبل-الرئيس-التنفيذى-لشركة-سكاتك-النرويجية/7632355",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T15:10:00.000Z",
      "seen": "2026-11-25T15:12:58.742Z"
     },
     {
@@ -233,13 +241,6 @@
      "source": "Masrawy",
      "time": "2026-11-25T13:11:51.000Z",
      "seen": "2026-11-25T13:32:43.407Z"
-    },
-    {
-     "title": "رئيس الوزراء يترأس الاجتماع الأسبوعي للحكومة في العاصمة الجديدة",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tVG9hTGtyWi1GX0RRemR2NjZLSGwta1oxOGVuZEVWZmVDVUlfQUNsUHYwSEVsOEZlc2pVNlcyeEpoN29lM1gxajY0M253aU14ZnRBZXM3ZjM0cl9PdXhr?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-25T12:57:00.000Z",
-     "seen": "2026-11-25T13:02:44.003Z"
     }
    ]
   },
@@ -252,7 +253,8 @@
      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOd1Z3QUFxb2JXMEhpcGUxbWNaVnVVMnRmY0Vpa0ZIN09sR1hINnZINU9vS3A0bjNQbXlpYzBndnl1REZmZGdGakN0dmxBc1ZlbE9FdTc3U29XRUp0M1hDdzR4YWh5RjBDcjFxMC1aQU82NHdYNHQ0WU90LXlmM2ppSDFfanZaTUdRQXpCZy1aajJ1U0k0ZWFUYnU4NkYwalVUSnlOOUsxNzlfanJPNkxzQ2p2ZXU5SmUxOGZkd1V3MnRSTTYzWEFycS1DRmlTUnFXY3lGbU02NGkxWHJLOEthM1ZqRzBPOFdLQ2VCTlpCVGtTR1ZhcGZZMi11SzE2eHZld0ViNzJEbEE2bzZ3dzg2NE1JamkwNjl2QU15UlY5VFpwRXFjWk96bVllM2xhdFZiQmRKYUlJZ2V1bjhHUXdnNHdfVTluSS13clpEaDdJMmxqZzJ0ZzVPaUNaQlg3MXBf?oc=5",
      "source": "جريدة المال",
      "time": "2026-11-25T15:20:18.000Z",
-     "seen": "2026-11-25T15:32:58.533Z"
+     "seen": "2026-11-25T15:32:58.533Z",
+     "impact": "تساعد متابعة أسعار العملات بالبنك المركزي الأفراد والمستوردين في التخطيط المالي وتسعير المعاملات التجارية."
     },
     {
      "title": "الحوثيون يعلنون استهداف مصفاة رأس تنورة والمركز المالي في الرياض، والسعودية تقصف ميناء الحُديدة",
@@ -260,7 +262,7 @@
      "source": "BBC عربي",
      "time": "2026-11-25T15:13:19.000Z",
      "seen": "2026-11-24T23:11:28.017Z",
-     "impact": "تؤثر التصعيدات العسكرية في المنطقة على أسواق النفط وتكاليف الشحن وسلاسل الإمداد التي تمس الاقتصاد الإقليمي والمحلي."
+     "impact": "تؤثر التوترات العسكرية واستهداف المنشآت النفطية على أسعار الطاقة والتجارة الإقليمية والعالمية."
     },
     {
      "title": "أسعار الدولار اليوم الأربعاء 25 نوفمبر 2026 في البنوك",
@@ -276,15 +278,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-25T14:56:00.000Z",
      "seen": "2026-11-25T15:02:58.628Z",
-     "impact": "يعكس للمتعاملين في السوق المصرفي التغير الأخير في قيمة الجنيه أمام الدولار بنهاية التعاملات."
-    },
-    {
-     "title": "اليورو يرتفع بختام تعاملات اليوم الأربعاء 25 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQeEdiNWU2QVFyVTNnZVFmNjdrcDY1RU9KRXBzdzdhRXZxOFE5Q25idmJ4Wl9EWjJDdDBaa1AzY2F1c2lxdHYtX2tUQnZGT1IwYldMZ3NGanFfRXpHaVlWVThLNlRNZGEtVlY5Zm9ST0diWkluV0YxZ1A0Rmh6V2t5YWhZQko1R0RBcHFrWlNqOXdnRTVyRlY5d2JkdHFTUzEzbVQ3X0VENmlNNHJqSUFFalRCeFE0b0x2RFdOMVhGUGpidVBGZ2d6LWVTY3UycDFjUExJQ1ZlbTZ5ZHZJdXBrSXdra0RVLUhDNncwanRWZU9famVIWHhaWURRS2JQQW1DaDFNUlNZcHBnN2xpZThPSzFjRWpHOS1PaUpyU2NNQmRlREljSlFoVTg5WV9vYXhORVZZcmpORnl5dFY4SHJDWXJkcnk5VEJLR19Sblg2Y3RoeUJFMG9oUXN2WHZZdTUxaUtnMFk4dlhIckhRYnNrNU03UEhVbWhrU1NkbzY3N1dFSXhQRUVEN0p4NTZNM09DWVRvSUNxbTR2Umxvd2xpN1ZucFRhdXJxdE9IVGNZeGEyRTVBQzdfaFczdzFpQ1JKeGFTXzgydmRJMERvNldSVTViMXVvM1E3QXpWWXJYc9IB2gNBVV95cUxQMm9ETXN1RGktMUZoR3B3c2M0WXhRVzZ0alpRYm5XWUFEMVAxR2FYWkxKdXlRVzZJNFRUNlNnd2NCQlBuZV96T3JncnVmWnQ3QjJWWldaenNQVU4yQlVnS1hNRml6bktGRkFqRktvNldEUmhyd0pjTHF6ZGVoMHpiQlhodDRZNDdrWEpjUnpFWVVUWVF0ODRWekRHYnY1OU52NkxCbENJOTd2UGNYNWxmaVBsV2EwUDFMeHFxd2NJbkx2M2YzVEdubm9LMmNUNC1BUWdkcGtha3BVY2FDQ19qbEJnTDF2dTk5aGU4Wk5xZEZ4YmEzOGdpdnpDQTBaX3FmTS1Wc2REWWZrZUFTb3ExQWozR0FfM2FidFc1YkE0SkYyQkJnTmNBSmdRWWxlVDBzUlhRNE1tOVJlNWlOeUJGa3cwcElvallZVENnQl9jZGxzcFhfcDlTQVJ4M09LRXc1M0F6MGtJejBHX1JWOF9sSnZGQTlvVFBaTjI5aEVKRTVwdmwtNktwN3BIMF9HdnhPSzFqQk1qeTBhYzlPUjduTVQ1Qm5GekliZTZ2ZHZCYlUwVXdiU2dKbWxCd3NfTGlRZXN1SC02YWUtcEMwbVVqN2ZRUndLN2hRSnc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-25T14:24:48.000Z",
-     "seen": "2026-11-25T14:32:59.049Z",
-     "impact": "يهم الأفراد والمستثمرين الذين لديهم تعاملات مالية أو خطط سفر وتجارة تقتضي استخدام اليورو."
+     "impact": "ينعكس ارتفاع سعر الدولار أمام الجنيه على زيادة تكاليف الواردات وأسعار السلع بالأسواق المحلية."
     },
     {
      "title": "سعر الدولار في مصر اليوم الأربعاء 25/11/2026.. ارتفاع بالختام",
@@ -293,6 +287,14 @@
      "time": "2026-11-25T14:20:45.000Z",
      "seen": "2026-11-25T14:02:58.758Z",
      "impact": "يتيح للمستثمرين تقييم أسعار العملات الأجنبية الرسمية لحساب تكاليف المعاملات التجارية."
+    },
+    {
+     "title": "اليورو يرتفع بختام تعاملات اليوم الأربعاء 25 نوفمبر 2026 أمام الجنيه بالبنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQeEdiNWU2QVFyVTNnZVFmNjdrcDY1RU9KRXBzdzdhRXZxOFE5Q25idmJ4Wl9EWjJDdDBaa1AzY2F1c2lxdHYtX2tUQnZGT1IwYldMZ3NGanFfRXpHaVlWVThLNlRNZGEtVlY5Zm9ST0diWkluV0YxZ1A0Rmh6V2t5YWhZQko1R0RBcHFrWlNqOXdnRTVyRlY5d2JkdHFTUzEzbVQ3X0VENmlNNHJqSUFFalRCeFE0b0x2RFdOMVhGUGpidVBGZ2d6LWVTY3UycDFjUExJQ1ZlbTZ5ZHZJdXBrSXdra0RVLUhDNncwanRWZU9famVIWHhaWURRS2JQQW1DaDFNUlNZcHBnN2xpZThPSzFjRWpHOS1PaUpyU2NNQmRlREljSlFoVTg5WV9vYXhORVZZcmpORnl5dFY4SHJDWXJkcnk5VEJLR19Sblg2Y3RoeUJFMG9oUXN2WHZZdTUxaUtnMFk4dlhIckhRYnNrNU03UEhVbWhrU1NkbzY3N1dFSXhQRUVEN0p4NTZNM09DWVRvSUNxbTR2Umxvd2xpN1ZucFRhdXJxdE9IVGNZeGEyRTVBQzdfaFczdzFpQ1JKeGFTXzgydmRJMERvNldSVTViMXVvM1E3QXpWWXJYc9IB2gNBVV95cUxQMm9ETXN1RGktMUZoR3B3c2M0WXhRVzZ0alpRYm5XWUFEMVAxR2FYWkxKdXlRVzZJNFRUNlNnd2NCQlBuZV96T3JncnVmWnQ3QjJWWldaenNQVU4yQlVnS1hNRml6bktGRkFqRktvNldEUmhyd0pjTHF6ZGVoMHpiQlhodDRZNDdrWEpjUnpFWVVUWVF0ODRWekRHYnY1OU52NkxCbENJOTd2UGNYNWxmaVBsV2EwUDFMeHFxd2NJbkx2M2YzVEdubm9LMmNUNC1BUWdkcGtha3BVY2FDQ19qbEJnTDF2dTk5aGU4Wk5xZEZ4YmEzOGdpdnpDQTBaX3FmTS1Wc2REWWZrZUFTb3ExQWozR0FfM2FidFc1YkE0SkYyQkJnTmNBSmdRWWxlVDBzUlhRNE1tOVJlNWlOeUJGa3cwcElvallZVENnQl9jZGxzcFhfcDlTQVJ4M09LRXc1M0F6MGtJejBHX1JWOF9sSnZGQTlvVFBaTjI5aEVKRTVwdmwtNktwN3BIMF9HdnhPSzFqQk1qeTBhYzlPUjduTVQ1Qm5GekliZTZ2ZHZCYlUwVXdiU2dKbWxCd3NfTGlRZXN1SC02YWUtcEMwbVVqN2ZRUndLN2hRSnc?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-25T14:20:00.000Z",
+     "seen": "2026-11-25T14:32:59.049Z",
+     "impact": "يهم الأفراد والمستثمرين الذين لديهم تعاملات مالية أو خطط سفر وتجارة تقتضي استخدام اليورو."
     },
     {
      "title": "ارتفاع الدولار أمام الجنيه في ختام تعاملات الأربعاء",
@@ -360,6 +362,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "هل تفتح قرارات القضاء الباب أمام عودة نتنياهو إلى واجهة الحكم في إسرائيل؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%88%D8%AF%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A5%D9%84%D9%89-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+     "source": "فرانس 24",
+     "time": "2026-11-25T15:38:11.000Z",
+     "seen": "2026-11-25T15:42:58.781Z"
+    },
+    {
      "title": "معركة عدن.. هل تعيد رسم موازين المواجهة بين الحوثيين وحلفاء الرياض؟",
      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261125-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%B9%D8%AF%D9%86-%D9%87%D9%84-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B1%D8%B3%D9%85-%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%88%D8%AD%D9%84%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
      "source": "فرانس 24",
@@ -379,14 +388,7 @@
      "source": "فرانس 24",
      "time": "2026-11-25T15:08:18.000Z",
      "seen": "2026-11-25T15:12:58.742Z",
-     "impact": "يهم المسافرين وأصحاب الأعمال في مصر الذين يعتمدون على التنقل بين باريس ولندن."
-    },
-    {
-     "title": "آمال صيام من غزة: إسرائيل قتلتنا وقتلت أولادنا وأزواجنا ودمرت بيوتنا وآمالنا وطموحاتنا",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261125-%D8%A2%D9%85%D8%A7%D9%84-%D8%B5%D9%8A%D8%A7%D9%85-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%82%D8%AA%D9%84%D8%AA%D9%86%D8%A7-%D9%88%D9%82%D8%AA%D9%84%D8%AA-%D8%A3%D9%88%D9%84%D8%A7%D8%AF%D9%86%D8%A7-%D9%88%D8%A3%D8%B2%D9%88%D8%A7%D8%AC%D9%86%D8%A7-%D9%88%D8%AF%D9%85%D8%B1%D8%AA-%D8%A8%D9%8A%D9%88%D8%AA%D9%86%D8%A7-%D9%88%D8%A2%D9%85%D8%A7%D9%84%D9%86%D8%A7-%D9%88%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA%D9%86%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-25T15:07:25.000Z",
-     "seen": "2026-11-25T15:12:58.742Z"
+     "impact": "يتسبب توقف حركة القطارات في تعطيل خطوط السفر والتنقل للمسافرين وأصحاب الأعمال بين فرنسا وبريطانيا."
     },
     {
      "title": "\"إخفاقات 7 أكتوبر\".. الكنيست يمهد لتحقيق رسمي",
@@ -479,14 +481,15 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T13:21:21.000Z",
      "seen": "2026-11-25T13:22:43.994Z",
-     "impact": "يوفر لشركات الإنشاءات والتكنولوجيا بيانات حول مدى اعتماد وتقبل قطاع البناء للذكاء الاصطناعي في الخليج."
+     "impact": "تفيد نتائج المؤشر شركات المقاولات المصرية الراغبة في التوسع أو العمل في قطاع الإنشاءات بدول الخليج."
     },
     {
      "title": "المفوضية الأوروبية تقترح قانونًا للتقنيات الكمّية وصندوقًا يستهدف 50 مليار يورو",
      "url": "https://aitnews.com/2026/11/25/%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a9/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-25T13:10:04.000Z",
-     "seen": "2026-11-25T13:12:43.632Z"
+     "seen": "2026-11-25T13:12:43.632Z",
+     "impact": "يهتم رواد الأعمال والمستثمرون في مجال التكنولوجيا بمتابعة خطط التمويل الأوروبية الموجهة للتقنيات الحديثة."
     },
     {
      "title": "واتساب يختبر ملصقات صوتية في الإصدار التجريبي",
