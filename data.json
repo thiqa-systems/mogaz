@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:14:17.522Z",
+ "updated": "2026-11-26T14:24:17.204Z",
  "minute": [
   "شهدت مصر متابعة لتطورات حادث الطريق الدائري بمنطقة الوراق مع ضبط المتهم المتسبب في الحادث، إلى جانب التأكيد على ترسيخ الشراكة الاستراتيجية بين مصر وقطر.",
   "استقرت أسعار العملات الأجنبية والعربية مقابل الجنيه المصري في البنك المركزي، وسجل الدرهم الإماراتي 14.87 جنيه للشراء.",
@@ -11,44 +11,44 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-26T14:14:17.522Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T14:24:17.204Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.67,
-   "change": 0.89,
-   "asOf": "2026-11-26T14:13:18.000Z",
+   "value": 54.75,
+   "change": 1.04,
+   "asOf": "2026-11-26T14:16:24.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5535,
-   "change": 2.69,
-   "asOf": "2026-11-26T14:04:16.000Z",
+   "value": 5546,
+   "change": 2.89,
+   "asOf": "2026-11-26T14:14:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6319,
-   "change": 2.69,
-   "asOf": "2026-11-26T14:04:16.000Z",
+   "value": 6331,
+   "change": 2.89,
+   "asOf": "2026-11-26T14:14:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3599,
-   "change": 1.78,
-   "asOf": "2026-11-26T14:04:16.000Z",
+   "value": 3601,
+   "change": 1.83,
+   "asOf": "2026-11-26T14:14:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0989,
    "change": 0.24,
-   "asOf": "2026-11-26T14:13:47.000Z",
+   "asOf": "2026-11-26T14:23:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.19,
-   "change": -3.61,
-   "asOf": "2026-11-26T14:04:23.000Z",
+   "value": 91.29,
+   "change": -3.51,
+   "asOf": "2026-11-26T14:12:28.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60784,
-   "change": 0.67,
-   "asOf": "2026-11-26T14:14:11.000Z",
+   "value": 60755,
+   "change": 0.62,
+   "asOf": "2026-11-26T14:24:18.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,11 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "البحوث الإسلامية ينظم الأسبوع الدعوي الـ28 بجامعة بني سويف الأهلية",
-     "url": "https://www.elbalad.news/7195557",
+     "title": "طلع 60 جنيه.. سعر الذهب في الصاغة الآن",
+     "url": "https://www.elbalad.news/7195568",
      "source": "صدى البلد",
-     "time": "2026-11-26T14:13:53.000Z",
-     "seen": "2026-11-26T14:14:17.522Z"
+     "time": "2026-11-26T14:22:46.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
+     "title": "نهال أبو وافية تعلن بدء أعمال تمهيد ورصف طريق الدلنجات دمنهور بالحجناية",
+     "url": "https://www.elbalad.news/7195565",
+     "source": "صدى البلد",
+     "time": "2026-11-26T14:18:16.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
+     "title": "سيارات المواد البترولية لها قواعد خاصة.. ضوابط تحركها ومرافقتها على الطرق بعد حادث الوراق",
+     "url": "https://www.elbalad.news/7195567",
+     "source": "صدى البلد",
+     "time": "2026-11-26T14:18:14.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
+     "title": "زاد العزة 321 تنطلق إلى غزة بـ 1,899 طن مساعدات و5,200 خيمة",
+     "url": "https://www.youm7.com/story/2026/11/26/زاد-العزة-321-تنطلق-إلى-غزة-بـ-1-899-طن/7633521",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T14:13:00.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
     },
     {
      "title": "العمل الأهلي يتحرك.. دعم ومساندة لأسر ضحايا ومصابي حادث الوراق",
@@ -154,18 +175,11 @@
      "seen": "2026-11-26T14:14:17.522Z"
     },
     {
-     "title": "هيئة بحرية بريطانية: إصابة ناقلة نفط متجهة إلى خارج الخليج بمقذوف مجهول أثناء عبورها مضيق هرمز",
-     "url": "https://www.elbalad.news/7195558",
-     "source": "صدى البلد",
-     "time": "2026-11-26T14:12:58.000Z",
-     "seen": "2026-11-26T14:14:17.522Z"
-    },
-    {
-     "title": "تركي آل الشيخ يخصص 30 مليون جنيه لمساندة أسر ضحايا حادث الوراق",
-     "url": "https://www.elbalad.news/7195553",
-     "source": "صدى البلد",
-     "time": "2026-11-26T14:12:17.000Z",
-     "seen": "2026-11-26T14:14:17.522Z"
+     "title": "رئيس الوزراء اللبناني يعزي مدبولي هاتفيا في ضحايا حادث الطريق الدائري",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqN0NkaUhxM3A5TXd3ZUFGSUdQZ0pjUWpxUFRQOU5iYXBiS3Z4OUdnR2RGS1UtVENQTFl1NExyTXgxTUhQQkFoc1NudVB2NzlaUWt6Mm1SMncwU0Jx?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-26T14:11:20.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
     },
     {
      "title": "محافظ الجيزة يتفقد مصابى حادث الطريق الدائرى بمستشفى الوراق المركزى",
@@ -173,13 +187,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-26T14:07:00.000Z",
      "seen": "2026-11-26T14:14:17.522Z"
-    },
-    {
-     "title": "الإعلام القطرى يبرز العلاقة الاستثنائية بين القاهرة والدوحة(فيديو)",
-     "url": "https://www.youm7.com/story/2026/11/26/الإعلام-القطرى-يبرز-العلاقة-الاستثنائية-بين-القاهرة-والدوحة-فيديو/7633543",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T13:59:00.000Z",
-     "seen": "2026-11-26T14:04:18.111Z"
     },
     {
      "title": "رئيس الوزراء يزور مستشفى الوراق للاطمئنان على مصابي حادث الطريق الدائري",
@@ -229,13 +236,6 @@
      "source": "فيتو",
      "time": "2026-11-26T10:02:00.000Z",
      "seen": "2026-11-26T10:13:53.604Z"
-    },
-    {
-     "title": "رئيس الوزراء يزور مستشفى بولاق الدكرور العام للاطمئنان على مُصابي حادث الدائري",
-     "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxPY3lyRUdiUUFhZEtGMHpKYURFWF9XWWRhN0I3eW4yVWx0eXhNTHpndWV2M3k4WGEzb1RuU21MdVJCOFNDeThkRGxLeF9BVlM1cWtWeTZ6MWFSdktNSkxJTFM5SXZfSF9Dbm0zQnFqTm5rZ0tSanRrd2hBYzZYdWkzNW9NUXBlUk5tQ2pXc1ZXOXhXakFrUmtoblZ2UlJjVXVSVGdpUmhSdTRPVzEyb05rZ3NvY1RNakl6UGFzY0liaF9BTFNSNWRqUHItRDNRWkdMTHpKRm1WM1VNRWE3WHlRVzI5TmhFSG5hN1dwUHlyMHJzMndCUjlKZWtSQlBkd2tmcnBhakh6b0xUYWNPZll5aXkzUWdXNnlQMjF5Y3VlcE5xbzJ2aGlFb01xLTR6eU1PbDVHeGhERkRYNHJTQTVFLWs3akl5LUYyUVdSM1hhOEQtTlVLU1N1b0dSTFREdXJXTm5rY0Y0MTRZb1ZCb29sTHE2NlBCYkVRMDlzNS0zc05qU1h5WEtBUkVfT2JNNDlXczR4RmMyaG9fYTVsNlJBd21WelZOWnQxclcxYkxwaWtKdkFGR21Ncno2MTJCTUkwdDVkMVhXRlEwZmVWS1FqZlQ4WkJNd1RLbHdRaW9zTGFSWEpuYjREbUx5TFlQWGQ2aDhZeWJiYUh3bmJ5LTgyNWItUGZKelpPYUE5RGd1X0pBWHl6Q1ZYNm80Q0FwbWFWX2RNa2ZOaUdqY3d1N3czOHlIZWJwTEFsRFlyRndtRzZ1NS03eVF4MTNscVRkMVljZ1ZjaTl5cmpzS3Y5bzAxZkR0RjliUnY1dlg0c3J4NDRWTldXd3hNX2JISlpxSTVPYmg0?oc=5",
-     "source": "الهيئة الوطنية للإعلام",
-     "time": "2026-11-26T09:49:00.000Z",
-     "seen": "2026-11-26T14:14:17.522Z"
     }
    ]
   },
@@ -247,14 +247,14 @@
      "title": "سعر الدولار في مصر اليوم الخميس 26/11/2026.. إغلاق قرب 55 جنيهًا",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcTBVYmFxNmU0WE5tZF8xSlZEeVRlZW9RUm9KbUJJYVVrRGVGdGFsdW9ZQVNhN1dDSEZ6U21mTTV3dHQzWVBpUEZtZVlDdmd6QTFRX3lR?oc=5",
      "source": "جريدة البورصة",
-     "time": "2026-11-26T14:08:40.000Z",
+     "time": "2026-11-26T14:11:27.000Z",
      "seen": "2026-11-26T14:14:17.522Z"
     },
     {
      "title": "\"المركزي\" يوجه بتقديم دعم مبدئي بـ60 مليون جنيه لأسر ضحايا حادث الوراق",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OZE5hNG81RzA1RWF4YVk0UHl1TzNiamQ3b1U4VUV6MG1FMlJvRHNzUS1KVFRvX3BPQ3RiaWtjRXJmVzhHVlNxUnljc3A4SU04MVlOaWRR?oc=5",
      "source": "جريدة البورصة",
-     "time": "2026-11-26T14:03:45.000Z",
+     "time": "2026-11-26T14:03:40.000Z",
      "seen": "2026-11-26T14:14:17.522Z"
     },
     {
@@ -279,11 +279,32 @@
      "seen": "2026-11-26T13:44:17.452Z"
     },
     {
+     "title": "ارتفاع متوسط أسعار جوالات شاومي نحو 40% عند مستوى قياسي",
+     "url": "https://alborsaanews.com/2026/11/26/2009294",
+     "source": "البورصة",
+     "time": "2026-11-26T13:31:41.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
      "title": "استقرار سعر الدولار الأمريكي أمام الجنيه المصري ختام تعاملات اليوم 26 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPY2F1QXpHVHlpSEpRUVNGWmRvRXVUMTk5cnBoNDAwTkYwMHFoQnZuTkJHUFU3Tzg2T3JJOEpVTmdiVXUyRjJZbFNBRVozQllhMklKNWRfV0VKVXBsWDdBN01Lalg2NFoxSWJsQzNGYkRSZVR3czh5Y2Z4V3ZzUFNNVXpmdG5va3hWZzdmMURGRm50YnFXbV9tWU5pRW8wd0JBSkw0SncxSjFOaWo4WWdpYTR4Y1BJZk9icmVaa1U1MHVpV0Y1YlhNRlo1Y1VVWU0yVVQxSUxfdFR5U0dhSTVlRG1fek51UUpNYU1XZy1ndGczeldWbnJjTVpKVDFBZi15SUk4c0V1akFUQVVWWERRV1g2Z3NKQ1NoYmV2amRVVEpIaFI1cGpibE4tajJOeldGQ0pjRHR1YTdheXcxakRrOGE3NTR5d2xQYjlwbkhDWGpXS3EwdFBjR0hGZEJvMWRnQ1NBbVBEZ1ZaQW9HcEtpS2xyQVBKam9MdFdreVhn?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-26T13:24:55.000Z",
      "seen": "2026-11-26T13:34:17.765Z"
+    },
+    {
+     "title": "لاجارد تشيد بدور الذكاء الاصطناعي في صمود أوروبا خلال أزمة الطاقة",
+     "url": "https://alborsaanews.com/2026/11/26/2009281",
+     "source": "البورصة",
+     "time": "2026-11-26T13:17:56.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
+     "title": "“تعليم” تشتري 300 ألف سهم خزينة",
+     "url": "https://alborsaanews.com/2026/11/26/2009289",
+     "source": "البورصة",
+     "time": "2026-11-26T13:11:49.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
     },
     {
      "title": "الولايات المتحدة تعلن عن رسوم جمركية جديدة على مجموعة من الدول بينها الصين",
@@ -305,27 +326,6 @@
      "source": "BBC عربي",
      "time": "2026-11-26T12:23:42.000Z",
      "seen": "2026-11-26T12:34:17.426Z"
-    },
-    {
-     "title": "قطر تعزز صادرات الغاز المسال مع اقتراب الطلب الشتوي من ذروته",
-     "url": "https://alborsaanews.com/2026/11/26/2009275",
-     "source": "البورصة",
-     "time": "2026-11-26T12:21:23.000Z",
-     "seen": "2026-11-26T13:24:18.183Z"
-    },
-    {
-     "title": "«USSEC»: فول الصويا الأمريكي يخفض تكلفة طن الأعلاف في مصر 25 دولارًا",
-     "url": "https://alborsaanews.com/2026/11/26/2009277",
-     "source": "البورصة",
-     "time": "2026-11-26T12:20:38.000Z",
-     "seen": "2026-11-26T13:24:18.183Z"
-    },
-    {
-     "title": "“طلعت مصطفى” وتامر حسني يقرران تأجيل حفل مدينتي إلى 4 ديسمبر",
-     "url": "https://alborsaanews.com/2026/11/26/2009273",
-     "source": "البورصة",
-     "time": "2026-11-26T12:13:38.000Z",
-     "seen": "2026-11-26T13:24:18.183Z"
     },
     {
      "title": "الدولار يرتفع من جديد اليوم الخميس .. أعلى سعر للبيع في هذا البنك",
@@ -454,6 +454,20 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "لعبة The Witcher 4 ستأتي في علبة فعلية",
+     "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%84%d8%b9%d8%a8%d8%a9-the-witcher-4-%d8%b3%d8%aa%d8%a3%d8%aa%d9%8a-%d9%81%d9%8a-%d8%b9%d9%84%d8%a8%d8%a9-%d9%81%d8%b9%d9%84%d9%8a%d8%a9/",
+     "source": "عالم التقنية",
+     "time": "2026-11-26T14:22:02.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
+     "title": "ساعات Casio Baby-G BGD-565FG بطابع Y2K تصل إلى اليابان بنحو 60 دولار",
+     "url": "https://www.tech-wd.com/wd/2026/11/26/%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa-casio-baby-g-bgd-565fg-%d8%a8%d8%b7%d8%a7%d8%a8%d8%b9-y2k-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86-%d8%a8%d9%86%d8%ad%d9%88-60/",
+     "source": "عالم التقنية",
+     "time": "2026-11-26T14:17:23.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
+    },
+    {
      "title": "مكبر صوت Xiaomi Sound INF بقدرة 150 واط وBluetooth 6.0 يظهر في أوروبا",
      "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%85%d9%83%d8%a8%d8%b1-%d8%b5%d9%88%d8%aa-xiaomi-sound-inf-%d8%a8%d9%82%d8%af%d8%b1%d8%a9-150-%d9%88%d8%a7%d8%b7-%d9%88bluetooth-6-0-%d9%8a%d8%b8%d9%87%d8%b1-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88/",
      "source": "عالم التقنية",
@@ -461,25 +475,18 @@
      "seen": "2026-11-26T14:14:17.522Z"
     },
     {
-     "title": "تسريب: Vivo X500s قد يعمل بنسخة مخصصة من معالج Dimensity 9600 Pro",
-     "url": "https://www.tech-wd.com/wd/2026/11/26/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-vivo-x500s-%d9%82%d8%af-%d9%8a%d8%b9%d9%85%d9%84-%d8%a8%d9%86%d8%b3%d8%ae%d8%a9-%d9%85%d8%ae%d8%b5%d8%b5%d8%a9-%d9%85%d9%86-%d9%85%d8%b9%d8%a7%d9%84%d8%ac-dimensity-960/",
-     "source": "عالم التقنية",
-     "time": "2026-11-26T13:54:55.000Z",
-     "seen": "2026-11-26T14:04:18.111Z"
-    },
-    {
-     "title": "تقرير: آبل تشغل macOS على أجهزة iPad داخلياً للاختبار",
-     "url": "https://www.tech-wd.com/wd/2026/11/26/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a2%d8%a8%d9%84-%d8%aa%d8%b4%d8%ba%d9%84-macos-%d8%b9%d9%84%d9%89-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ipad-%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a7%d9%8b-%d9%84%d9%84%d8%a7/",
-     "source": "عالم التقنية",
-     "time": "2026-11-26T13:48:50.000Z",
-     "seen": "2026-11-26T13:54:17.979Z"
-    },
-    {
      "title": "حملة خبيثة تستهدف حسابات الأعمال في فيسبوك ورسائل جيميل وأوتلوك",
      "url": "https://aitnews.com/2026/11/26/%d8%ad%d9%85%d9%84%d8%a9-%d8%ae%d8%a8%d9%8a%d8%ab%d8%a9-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83-%d9%88%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-26T12:40:48.000Z",
      "seen": "2026-11-26T12:44:17.820Z"
+    },
+    {
+     "title": "OpenAI تطرح تجربة موحدة للمحادثات وإنجاز المهام داخل ChatGPT",
+     "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQTW1hVDYyanhMTUtSOXdWYU1ucHNSZ2dQNXdLT2xHYXBDOElFQWpxN0NrSmxnMHFvaGFaeTM0dkx0MzJQbzRyNVUtT1gxVlRTbndWampMbHVnZ1N0VFVSc3cwWm5CV29kaXA4RmQ4cFI5WEc2YWFReEFNMGEzSFVqRG9DN1BvRDhZSVV3dFItbC1nT08wWDdfQ0p5b0otYnViZWI3YkNkQi1LM21uMi1fMlBQTWVxcWZzM2p1NDV3eEhOYWJheGdNWm5MelhTUG9zN3JsOG1oR0FNUFBTSWxLeC03Z2pKalhSUnZ1WHhKNk5kdDZDLUhrcUdVaTk5RE9Cbk5iT3Vzdzhsd0QtRkNJR3Z3b2UyV2x5dVJIWU1TTzFKbVJ5dWIyRDJ5UjM0Y2hvTlZVNzB0aW9vRUxsLXA5d2FwT002TWVaWGdrc0JpQ1pJWmY2TjJiNTc1U2VHbDhwbGhtZnBxcHRhbmloXzdzOERkQkg1ZVRUZGtDMmxBMVdBaS1lazBCZ2JfN29JVWRZNEtZWmJGc3FxcnYtT2t1Uko0VQ?oc=5",
+     "source": "الشرق للأخبار",
+     "time": "2026-11-26T12:18:47.000Z",
+     "seen": "2026-11-26T14:24:17.204Z"
     },
     {
      "title": "فولفو تبدأ تدريب روبوتات بشرية في مصنعها ببلجيكا تمهيدًا لاستخدامها في الإنتاج منتصف 2027",
@@ -545,13 +552,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-26T07:23:30.000Z",
      "seen": "2026-11-26T12:04:17.909Z"
-    },
-    {
-     "title": "أصغر من شعرة بمئات المرات.. روبوتات تحمل الدواء إلى الدماغ",
-     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxObVJZeVNaV21ONkc1aDhtZDMwSU83Wmh5Y0xpQkl5b2ZwQTZVeXZ1Y2VvM3lmR29WLUFtclhKMXB1cVFfbWR5cW41VTBudzF4cDNiTmdwbEJad0JfR1JwNmJ5c3FhN2tyS1lVdFVxVkNWX190R3NpZGtUbzU4Y3FTRzU2TU1ycDRqUFpHLXM3Vzd5by05TlRoZ1ctRzRsa2txbjdhX25oOHlsaHI2OUtJMUtCTjVNd3ZnTWJHZzRNdzBGazc4dG54WmpuV3FDOFdEWmFFVmZLYzhwd2UzcEw1eGh1VDF6cXhxUG5MZVB2NzRCUkZKTXJfYjA3dmhwQldCR05FdUl1dHIxOEN1WXFMNWI3N3JZdzhMNnNVNGZlb18wNFFLM2s5RmFSVEdCMGhSS3IxUmsxS00yOXVuUDFsTkYxNzNaUjktOHgzYzA4UEQ3M2N3MEdWZ2llSVdfUnZ3M0lCMEpoYXVGSldjQ0ltS2x1aEgyYmtrcjRJWEloMk0tUlhjTGVBVnlpVXlnTW5FV204UkRlMXpZQUZ6X1o2UnpBOWhVN1U2YVpjeHlSeVBxU3l5ZGxB0gG8A0FVX3lxTFBjRDB1M3dneThRcW5YaW0xbm4zZWQzQ0lETlpRVk9zMkxCc1lEZmtnVVp6YXVaMUVmUVV1dnhUU291azhtMWhQUWRhWThzX2I3V0ZfLXlYeXZVYjVVT1NXTW1jWDE1NGRuSGtCLWdlUEsxNkR6UzhjSWdIcVAwU1ctWnJEeXFZSWdLWEdkZFFaX2ttbDAxNXhJWWExdzdOalpMWE5oNWNBQ3ltTzFzMFRNcWJoaGtaNndtai1hMi1sUXpJYnVSbWcxTXVQdkQ0OXM3WlVkOUlMdFBUQWdIaTVWYVpsRXdlemFnLWxlQkVyME9EQkE2RkVaaEIycjc2ZTFQeVJHcHBOR2VHRUpTZnUyVXpmeXhjLS1UVkw0Sk9zRFJjZE1EVXdBQnFKMUV6b3lFRGxZTGtuZXhlcndFaVBBaFhZVkZ0VUV4YUtOdU11QmNFSEpUTHZGSWU5LUNNVVhOYXY1c2dHOUdCZmRuQzYzUU5meVpjS0p6OHNhazhKZHJBTE9heFFaakUyZzNkc1JLdktpdFF6X09hTWktdEhJUHQxeS1ib01hRDZpS2VBODlXWG9KVlBKYng0YQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-26T06:46:51.000Z",
-     "seen": "2026-11-26T13:44:17.452Z"
     }
    ]
   }
