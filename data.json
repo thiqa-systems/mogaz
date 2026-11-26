@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:33:53.501Z",
+ "updated": "2026-11-26T08:43:54.354Z",
  "minute": [
   "استقرت أسعار صرف الدولار والعملات الأجنبية في البنوك المصرية والبنك المركزي في بداية التعاملات.",
   "أصدرت الحكومة المصرية قراراً باعتبار مشروع تطوير الطريق الدولي الساحلي من أعمال المنفعة العامة.",
@@ -11,71 +11,71 @@
   "model": "gemini-3.8-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-26T08:33:53.501Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T08:43:54.354Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.7,
-   "change": 0.95,
-   "asOf": "2026-11-26T08:36:30.000Z",
+   "value": 54.73,
+   "change": 1,
+   "asOf": "2026-11-26T08:45:06.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5527,
-   "change": 2.55,
-   "asOf": "2026-11-26T08:26:37.000Z",
+   "value": 5532,
+   "change": 2.64,
+   "asOf": "2026-11-26T08:35:35.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6311,
-   "change": 2.55,
-   "asOf": "2026-11-26T08:26:37.000Z",
+   "value": 6316,
+   "change": 2.64,
+   "asOf": "2026-11-26T08:35:35.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3592,
-   "change": 1.59,
-   "asOf": "2026-11-26T08:26:37.000Z",
+   "value": 3593,
+   "change": 1.62,
+   "asOf": "2026-11-26T08:35:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50580,
-   "change": 0.08,
-   "asOf": "2026-11-26T08:21:37.000Z",
+   "value": 50331,
+   "change": -0.41,
+   "asOf": "2026-11-26T08:30:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0973,
-   "change": 0.1,
-   "asOf": "2026-11-26T08:35:45.000Z",
+   "value": 1.0975,
+   "change": 0.12,
+   "asOf": "2026-11-26T08:44:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.81,
-   "change": -4.02,
-   "asOf": "2026-11-26T08:26:32.000Z",
+   "value": 90.7,
+   "change": -4.13,
+   "asOf": "2026-11-26T08:34:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -84,16 +84,16 @@
    "unit": "نقطة",
    "value": 7183,
    "change": -0.25,
-   "asOf": "2026-11-25T21:00:00.000Z",
+   "asOf": "2026-11-25T21:32:06.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60564,
-   "change": 0.31,
-   "asOf": "2026-11-26T08:36:34.000Z",
+   "value": 60693,
+   "change": 0.52,
+   "asOf": "2026-11-26T08:45:35.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,32 +140,67 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استغاثات وبلاغات اختفاء بعد حريق دائري الوراق.. أسر تبحث عن ذويها في المستشفيات ومصير مجهول لعدد من المفقودين",
-     "url": "https://www.elbalad.news/7195121",
+     "title": "إصابة 6 أشخاص في حادث انقلاب سيارة ميكروباص أعلى الطريق الأوسطي بالشرقية",
+     "url": "https://www.elbalad.news/7195134",
      "source": "صدى البلد",
-     "time": "2026-11-26T08:32:43.000Z",
-     "seen": "2026-11-26T08:33:53.501Z"
+     "time": "2026-11-26T08:43:18.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
     },
     {
-     "title": "سيارات بديلة وشهادات استثمار.. رئيس الوزراء يطمئن على المصابين في مستشفى الشيخ زايد التخصصي",
-     "url": "https://www.elbalad.news/7195119",
+     "title": "مسؤول أممي من عدن: اليمن يواجه تراجعا غير مسبوق في جهود إيصال المساعدات الإنسانية",
+     "url": "https://www.elbalad.news/7195135",
      "source": "صدى البلد",
-     "time": "2026-11-26T08:32:42.000Z",
-     "seen": "2026-11-26T08:33:53.501Z"
+     "time": "2026-11-26T08:43:04.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
     },
     {
-     "title": "«شوبير» يرد على غضب الإعلام المغربي بعد رحيل «عموتة» عن الأهلي",
-     "url": "https://www.elbalad.news/7195117",
+     "title": "وزير الخارجية يبحث في اتصال مع نظيره الكويتي التطورات الإقليمية وجهود خفض التصعيد",
+     "url": "https://www.elbalad.news/7195138",
      "source": "صدى البلد",
-     "time": "2026-11-26T08:31:42.000Z",
-     "seen": "2026-11-26T08:33:53.501Z"
+     "time": "2026-11-26T08:42:01.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
     },
     {
-     "title": "الكلية التكنولوجية بجامعة حلوان الدولية تمنح طلابها 80 فرصة تدريبية",
-     "url": "https://www.youm7.com/story/2026/11/26/الكلية-التكنولوجية-بجامعة-حلوان-الدولية-تمنح-طلابها-80-فرصة-تدريبية/7632914",
+     "title": "التضامن: إزالة التعديات على عقار تابع لصندوق دعم مشروعات الجمعيات بـ15 مايو",
+     "url": "https://www.youm7.com/story/2026/11/26/التضامن-إزالة-التعديات-على-عقار-تابع-لصندوق-دعم-مشروعات-الجمعيات/7632953",
      "source": "اليوم السابع",
-     "time": "2026-11-26T08:25:00.000Z",
-     "seen": "2026-11-26T08:33:53.501Z"
+     "time": "2026-11-26T08:42:00.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
+    },
+    {
+     "title": "مدبولي: توجيهات رئاسية بتقديم كل أوجه الدعم للمصابين وأسر ضحايا حادث دائري الوراق",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTTdzalNVZXdmVl9HcVhKWmdscDJENkJLdjBlekdFTVFPVjZYNVV5NEZaaUdXRFV4OGp2TjJsX056dDl0Y1ZDcUVtVkhsMmpKN3VsNllB?oc=5",
+     "source": "بوابة الأهرام",
+     "time": "2026-11-26T08:42:00.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
+    },
+    {
+     "title": "جامعة عين شمس: رفع درجة الاستعداد بالمستشفيات لتقديم الرعاية لمصابى الوراق",
+     "url": "https://www.youm7.com/story/2026/11/26/جامعة-عين-شمس-رفع-درجة-الاستعداد-بالمستشفيات-لتقديم-الرعاية-لمصابى/7632909",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T08:41:00.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
+    },
+    {
+     "title": "رئيس جامعة العاصمة يشارك فى المؤتمر العام لاتحاد الجامعات العربية بالإمارات",
+     "url": "https://www.youm7.com/story/2026/11/26/رئيس-جامعة-العاصمة-يشارك-فى-المؤتمر-العام-لاتحاد-الجامعات-العربية/7632921",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T08:40:00.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
+    },
+    {
+     "title": "مدبولي ووزيرا الصحة والتضامن في جولة بالمستشفيات للاطمئنان على مصابى \"الدائري\"",
+     "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxOYVpJS0w5TmEtd2x3OG1ZaV9EbkMySmRwMEhhMTUzNlR1Zm1BUmkxN2RmaTRwNmJyblV4R1I3ZDdkSGhwM0FIMXg5dDYwdDBoOC13MGZFUmFwc1ZCZmZUNlpyN2VUY0VQTGxQZ2QtRHE4OW4yS2JTbm9jSUhXTFZPeklRWTJrTmJqaUZGZE5tanZuLVFudE5nMWJWMG40aVRjZ1NwUncweVdMWEt3TkdXNjZ3YjE2Z0k3N214cWV2MUV1UG9CNkJ3V0RlTnhkWGgwNGJIQ2d3WkxOQkxlYlg1emoySFRpa1RvNFpKcmRhVkFpcjNlX0dpTFljNGZwZ2dkQU5xZGlIRVJjYjIzMDBLUG1KOU5DWWhuSXhIOUtIM1pGLVNua09YVjBSWUswMGtsQnNIUVlKQmFlNkh6NUR4aUE4RzIya1cyUGNCdTQ0Umd4OGhWbGx1YkZLbVAtanBLaklQYXF2elVyZnJFcEVjN1c3ZXo3a2MwQUkxdUJBSDZuWVVUdnp0czFVby1wOVBFZEZFbE1hSF9GRHV0V2ZHdGhDd0ExVjMzYzdmd2loa2x4a0hVeDJRcFI2OUgxQUlSZWg3MFZ0eFJlQ0dRc013Y1BGXzBReDM3Q1hVVVZUdW9qYUg1VjhETmpZakdOMHEzWTVsa2s4b0R4NXNSbHhJUUk2LWphSVk0UUZBR3hiblN1bWxnVWtmckJ4alQ1bjJQdURmNGhLOWZxN2pwZFQ5UUEzeHkxcllzVzk3YkFPUkE3V0phcERWVnRZdDJwY3NpT1V0TWlwMkJERFpQTDR0UHZodWdPUVNDQ0VhbDVUdWNwRm5yWkhKNzFR?oc=5",
+     "source": "الهيئة الوطنية للإعلام",
+     "time": "2026-11-26T08:39:00.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
+    },
+    {
+     "title": "مدبولي يتفقد مصابي حادث الوراق ويوجه بتقديم الدعم لأسر الضحايا",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOWHFSa3JBaUh0aXI0eXVxYXdoUEo2Q1E1VlNhUlhJOHZkYkUxU2tKRmVkOWRZNVduTEE4dkdDM3cwbDhsUEdhXzlVY0FjSGd6N24wejNKLTI3eGpCUmlGcnRYenZ2ZDUxU0NaOVNtZGNPNHFfWXhQVTlBSFo0R3ZLTXZqa2J5cXpMeXptTU9xRXRJNnRDM3JKZ0dwSExFZ2RQTXpwNWdpbGttNmZQdGlSQU5oNUNqTWo1UURhWG9RUERZcF9WU1k0b2VTeEFRY2E0ZjJLd0FtWXpEZGdTLWNvTm9pMTF6Nl9fdmJqLWJLUlJwU2NRcHVCNGt6NTdoclJpVDhTcDQ1blNGaWVXSnhJWEs4RGgwNEN4eUFqcWdkUjZvUi1qM2tPdWJEVUtjQlRvakpYMjJrdmpXWjVxb3NRbkt3?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-26T08:36:33.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
     },
     {
      "title": "مدبولي يطمئن على مصابي حريق الوراق.. ويعلن شهادات استثمار وسيارات بديلة للمتضررين",
@@ -173,20 +208,6 @@
      "source": "فيتو",
      "time": "2026-11-26T08:25:00.000Z",
      "seen": "2026-11-26T08:33:53.501Z"
-    },
-    {
-     "title": "دار الإفتاء تختتم 74 مجلسًا علميًا لشرح كتاب «التمهيد» في عامين",
-     "url": "https://www.youm7.com/story/2026/11/26/دار-الإفتاء-تختتم-74-مجلسًا-علميًا-لشرح-كتاب-«التمهيد»-في/7632917",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T08:24:00.000Z",
-     "seen": "2026-11-26T08:33:53.501Z"
-    },
-    {
-     "title": "بالصور.. هاني سعد يشارك في أمسية السفارة الإيطالية بالقاهرة بحضور الفنانة درة",
-     "url": "https://www.youm7.com/story/2026/11/26/بالصور-هاني-سعد-يشارك-في-أمسية-السفارة-الإيطالية-بالقاهرة-بحضور/7632906",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T08:22:00.000Z",
-     "seen": "2026-11-26T08:23:53.507Z"
     },
     {
      "title": "مدبولي ووزيرا الصحة والتضامن يتفقدون المستشفيات للاطمئنان على مصابي حادث الدائري بالوراق",
@@ -215,27 +236,6 @@
      "source": "CNN Arabic",
      "time": "2026-11-26T01:50:51.000Z",
      "seen": "2026-11-26T05:43:32.196Z"
-    },
-    {
-     "title": "لابس جاكيت وبنطلون أزرق.. فتاة تستغيث بالسوشيال ميديا للبحث عن والدها بعد حريق دائري الوراق",
-     "url": "https://news.google.com/rss/articles/CBMi4AVBVV95cUxORkpKUHV4V1hiLXRrdUdFRmlTR2I5cUZiTjNFS1VWVXhBOXFlVFM5ajhXQkRlZ1hmcUYzOGlVUzVYY3BLclNYd2tqOGVUcmxYcUIxaW5WUnVCWWNZeWhqTHhnYmxjR1Y0MVZ2VUJva3FiYnRqX25pNU5PRnZXLWxyMmpMRGRpLTBGVnlNdllvc09PalNXTHdKSUZvQy1Dalg2Zk9udWI0OHdOT2Q1dENublVuYl96blVNdmtGNWE2RUpBVnk0Y01yRWdGcVdMc1hzYThpVElod2Z5QkxEaERqdjRJSGY1clQwNkhEMi1Sb1Q5MFowdE5fQk1HOC04VW1WakxGbjlKaVhOV09tLXJTSHAwQXd1MTctREUwZzB6bTVNLXhCQWRjVmp4QjF5NFFGbHNEMnlzbG9yX0owejdTcExHQS03QllJMWhFeFkySUtMSDZxdXJOZTk1QkxNdGpQNGhSWHBVbWV5QmpsaG5nNGsxdGREcG1RV19Pa3UzVDVaSHF5QV9EaUV0T043VmdpcWdhYXNyTlhRLS01dmRPUnk4bktHZi1LbkdDT1AwSDBydjlVT1lXeGZ2ZmdmXzhsOHhVTlZrR3Y5Ty0wdWNmNnFMZDlDb3VxSlo5LVU1NnlLaGZycGwwTXF0cDZVajRnUWFfdXZka2Y3a2QwdkU5RWFnTS0wTzdLcC1HdWwxNDYxX0xhUkFKeW5IUk51OFpyOWFDcS1qV0lHU2hqSVYxTF9sSFBrcWd6alV4czlkX3R2VkhJekFOYXF2YS05VmZoOUdBOFNoUzBDSk1Mc0Rfa3JqQmpsb2trSFctQkhmY0RfT2pyZklTdDZpelp0QnFBa2sySGh0RHdvejdBMXotVEh1Z1FoNmViYW5mUkVxd2E2RzFlaENNNlhBUFQ5aWFIbWFETmJpV1VYaGE3ZTR5S1FkekJFcjBfbS1yQkFSbXpwYVpPZmJCNHA1QTRtRWVh0gHmBUFVX3lxTFBJRFJjdVJqY1RqNjA1YjNQYVZ6QS14V3BMZUxtNnFnR1dONkZTQ3BNT0VKNmYyY2trby1lOEZLVE12NEJvczhobTZzcFptYzJhTENkS3JsUV9CZGZENmtUZW9LQU1VRU8tUkk4UVBjNkYycmdnZThIMUdnaWxabHNGOF92SnRKY3QyeVpZRnRUZER3V3VoRjQ3VWJFendjT3o1OFAzend3bllyUFBpV2t6cjY0WTlieVZLUFhwUERrSkNYWnZqOGJXY3ZPRVVCQXk3b1k5bktLb01qTEtMZEpUa2JycnV6bGd5NTV1UmhqbDVBS2FVdU5yLXBNTnBNZHNvMjN3Q3daTjNwc0FaMm1aRmc3STBtMFRzVTJ5aW9rczBVMEQtbWQzdm1FRXBNTmh2cFA1cXcxT0ZHV3JqWXpYT182TDdVZGFRcy1VVHJnQUZNbjdhUDNVckxmT2tST1V6eVB6SEV5cnhiU1NDS0FYUTkxWWhTZFYyRGFXekJXaG9qT1hDd2NFaFIzVGNWSnNpaE1jUF9EQVdKX1lLaWZ3UnU5d3VFcVJIaFFvXzF4Y3NERl9iUDVvSXB2OEhrcHBrMF9XbVVSZ1g3SFJKdEc3WmRZUmF2VWNyNGxTQ3U1Mzh6UEZ3YjBqRlVneUdjXzBLUnhqT0pvQS1za3dvekl5NmlVQzZRX0VDVk5FX0hibFBfd0FlM2tEdUlpZVBxOHZhOU5ZWTlKTC13WU5rYXJtS2ZQVmhWMnVaV3dIRzFPaWRzTC0yZE5aUHc5R3AyZWVMY1RxdHpLVnZkalpTM1RIeFNtbzdiRjllcHozbWxSNHZxTjJtZXloVjliVlFNMWVNeWR3VHJDNUZrVzFMbHZUOEFTQ0pkS0hBUnRQNkxkQ25wMUx0czgxbnI4ZHB2bnpPNWNtSXFPMVRjVnRmWnFldjBVSlYxQUpUS2dCRzNOVlFlaHdJQTRvbTFvaWt4TVF0Vms0bUE?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-26T01:37:59.000Z",
-     "seen": "2026-11-26T04:23:31.844Z"
-    },
-    {
-     "title": "«لا تحمل هم العوض».. تركي آل الشيخ يوجه رسالة تضامن لمتضرر حريق الوراق",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4NGctX0VzT05Nel82cDh0b0lOQkxyb2xnVUR6RWFNblU2NGNBWEFqeG92NmJyWVpxTnJlRzdybUVMRllCSlNEUzhnQzBrSHlPR3NyUmFOLUp5U1RiUWNB?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-26T01:28:00.000Z",
-     "seen": "2026-11-26T04:03:31.699Z"
-    },
-    {
-     "title": "3 أيام إجازة متتالية تبدأ يوم خميس.. موعد أول إجازة رسمية للموظفين والطلاب في مصر",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTnExRDM2VVpqUlI2bTN1dnBMX0JHNXYyWkxGelloU1ktU2lfQVkzVjBPYklfQlRVT01kZkFRejZMdzA1WkYxc1FqYVpHd1pTYnd2aXVaMWpPUVdTaGFv?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-26T01:22:00.000Z",
-     "seen": "2026-11-26T07:03:53.455Z"
     }
    ]
   },
@@ -352,11 +352,18 @@
    "title": "العالم",
    "items": [
     {
-     "title": "بورما ترفض الامتثال لبنود من قرار محكمة العدل الدولية تعتبرها \"غير مناسبة\" بشأن الروهينغا",
+     "title": "بورما ترفض الامتثال لبنود من قرار محكمة العدل الدولية بشأن الروهينغا وتصفها بأنها \"غير مناسبة\"",
      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261126-%D8%A8%D9%88%D8%B1%D9%85%D8%A7-%D8%A8%D8%A8%D9%86%D9%88%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%87%D9%8A%D9%86%D8%BA%D8%A7-%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-26T08:31:20.000Z",
      "seen": "2026-11-26T08:33:53.501Z"
+    },
+    {
+     "title": "إيلون ماسك يحصل على موافقة لنشر مليون قر صناعي ... مراكز البيانات الفضائية حل لمشكلتي الطاقة والتبريد؟",
+     "url": "https://www.dw.com/ar/إيلون-ماسك-يحصل-على-موافقة-لنشر-مليون-قر-صناعي-مراكز-البيانات-الفضائية-حل-لمشكلتي-الطاقة-والتبريد؟/a-80056730?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-26T08:29:00.000Z",
+     "seen": "2026-11-26T08:43:54.354Z"
     },
     {
      "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
@@ -428,13 +435,6 @@
      "url": "https://www.skynewsarabia.com/middle-east/1907207-%D8%B4%D8%A8%D9%87%D8%A9-%D8%AA%D8%B7%D9%87%D9%8A%D8%B1-%D8%B9%D8%B1%D9%82%D9%8A-%D8%AA%D9%84%D8%A7%D8%AD%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%BA%D8%B1%D8%A8-%D9%83%D8%B1%D8%AF%D9%81%D8%A7%D9%86",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-26T06:22:48.000Z",
-     "seen": "2026-11-26T06:23:53.761Z"
-    },
-    {
-     "title": "آلاف الوظائف في صناعة السيارات تبخرت.. هل تفقد ألمانيا حصنها الصناعي الأهم؟",
-     "url": "https://www.dw.com/ar/آلاف-الوظائف-في-صناعة-السيارات-تبخرت-هل-تفقد-ألمانيا-حصنها-الصناعي-الأهم؟/a-80052436?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-26T06:10:00.000Z",
      "seen": "2026-11-26T06:23:53.761Z"
     },
     {
