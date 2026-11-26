@@ -1,53 +1,52 @@
 {
- "updated": "2026-11-26T08:03:53.591Z",
+ "updated": "2026-11-26T08:13:53.488Z",
  "minute": [
-  "تشهد الأسواق المصرية استقراراً في أسعار الدولار والذهب، مع تشديد جهاز حماية المستهلك على إلزام التجار بوضع الأسعار بوضوح.",
-  "تعتزم الولايات المتحدة فرض رسوم جمركية جديدة تصل إلى 20% على دول عدة، بالتوازي مع تطورات وإجراءات أمنية دولية وإقليمية.",
-  "أصدرت منصات تقنية تحذيرات أمنية بشأن ثغرات في أنظمة إدارة المحتوى قد تهدد سلامة المواقع الإلكترونية."
+  "استقرت أسعار صرف الدولار والعملات الأجنبية في البنوك المصرية والبنك المركزي في بداية التعاملات.",
+  "أصدرت الحكومة المصرية قراراً باعتبار مشروع تطوير الطريق الدولي الساحلي من أعمال المنفعة العامة.",
+  "أعلنت وزارة الصحة خروج حالتين من مصابي حريق الوراق مع استمرار تلقي 19 مصاباً للعلاج.",
+  "عدل بنك Saib شروط الإصدار الأول لبرنامج سندات بالجنيه المصري بقيمة تصل إلى 5 مليارات جنيه."
  ],
  "ai": {
-  "at": "2026-11-26T03:13:32.270Z",
-  "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-26T08:03:53.591Z"
+  "at": "2026-11-26T08:13:53.488Z",
+  "model": "gemini-3.8-flash",
+  "key": 1,
+  "impacts": 8
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.78,
-   "change": 1.1,
-   "asOf": "2026-11-26T08:04:25.000Z",
+   "value": 54.75,
+   "change": 1.04,
+   "asOf": "2026-11-26T08:14:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5536,
-   "change": 2.71,
-   "asOf": "2026-11-26T07:54:25.000Z",
+   "value": 5539,
+   "change": 2.77,
+   "asOf": "2026-11-26T08:04:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6321,
-   "change": 2.71,
-   "asOf": "2026-11-26T07:54:25.000Z",
+   "value": 6324,
+   "change": 2.77,
+   "asOf": "2026-11-26T08:04:43.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3592,
-   "change": 1.6,
-   "asOf": "2026-11-26T07:54:25.000Z",
+   "value": 3596,
+   "change": 1.71,
+   "asOf": "2026-11-26T08:04:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +62,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": 0.14,
-   "asOf": "2026-11-26T08:03:45.000Z",
+   "value": 1.0979,
+   "change": 0.15,
+   "asOf": "2026-11-26T08:13:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.63,
-   "change": -4.21,
-   "asOf": "2026-11-26T07:54:05.000Z",
+   "value": 90.67,
+   "change": -4.16,
+   "asOf": "2026-11-26T08:04:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -83,16 +82,16 @@
    "unit": "نقطة",
    "value": 7183,
    "change": -0.25,
-   "asOf": "2026-11-25T21:32:06.000Z",
+   "asOf": "2026-11-25T21:00:00.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60537,
-   "change": 0.26,
-   "asOf": "2026-11-26T08:04:24.000Z",
+   "value": 60540,
+   "change": 0.27,
+   "asOf": "2026-11-26T08:14:41.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,11 +138,41 @@
    "title": "مصر",
    "items": [
     {
+     "title": "وزير الأوقاف يوجه بتخصيص خطبة الجمعة الثانية للحديث عن الابتلاءات والتضامن وقت الأزمات",
+     "url": "https://www.elbalad.news/7195093",
+     "source": "صدى البلد",
+     "time": "2026-11-26T08:12:15.000Z",
+     "seen": "2026-11-26T08:13:53.488Z"
+    },
+    {
+     "title": "مش بيشرب سيجارة وعنده أربع عيال.. أسرة سائق شاحنة الوراق في صدمة كبيرة",
+     "url": "https://www.elbalad.news/7195090",
+     "source": "صدى البلد",
+     "time": "2026-11-26T08:11:23.000Z",
+     "seen": "2026-11-26T08:13:53.488Z"
+    },
+    {
+     "title": "أحمد درويش: حسين عبداللطيف أصر على قيادة منتخب الناشئين أمام بنما رغم أزمته الصحية",
+     "url": "https://www.elbalad.news/7195091",
+     "source": "صدى البلد",
+     "time": "2026-11-26T08:10:00.000Z",
+     "seen": "2026-11-26T08:13:53.488Z"
+    },
+    {
+     "title": "قرار حكومى باعتبار مشروع تطوير الطريق الدولى الساحلى أعمال منفعة عامة",
+     "url": "https://www.youm7.com/story/2026/11/26/قرار-حكومى-باعتبار-مشروع-تطوير-الطريق-الدولى-الساحلى-أعمال-منفعة/7632878",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T08:05:00.000Z",
+     "seen": "2026-11-26T08:13:53.488Z",
+     "impact": "يهم المستثمرين وأصحاب الأراضي لمعرفة نطاق المشروعات القومية وتأثير تحسين البنية التحتية للنقل على حركة التجارة."
+    },
+    {
      "title": "الصحة: خروج حالتين من مصابي حريق الوراق.. و19 مصابا يواصلون العلاج",
      "url": "https://www.youm7.com/story/2026/11/26/الصحة-خروج-حالتين-من-مصابي-حريق-الوراق-و19-مصابا-يواصلون/7632865",
      "source": "اليوم السابع",
      "time": "2026-11-26T08:03:00.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
+     "seen": "2026-11-26T08:03:53.591Z",
+     "impact": "يهم المواطنين لمتابعة الحالة الصحية لمصابي الحادث ومستوى تقديم الرعاية الطبية لهم."
     },
     {
      "title": "اليوم السابع فى جولة ميدانية بموقع حادث الوراق: انتظام المرور",
@@ -153,32 +182,11 @@
      "seen": "2026-11-26T08:03:53.591Z"
     },
     {
-     "title": "الأسهم الآسيوية ترتفع رغم الرسوم الأمريكية مع انحسار مخاوف المستثمرين من تداعياتها",
-     "url": "https://www.elbalad.news/7195082",
-     "source": "صدى البلد",
-     "time": "2026-11-26T08:00:08.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
-    },
-    {
-     "title": "شحن الهاتف طوال الليل .. أمان فوري أم ضرر صامت للبطارية؟",
-     "url": "https://www.elbalad.news/7195056",
-     "source": "صدى البلد",
-     "time": "2026-11-26T08:00:00.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
-    },
-    {
-     "title": "إعفاء جزئي لكبار السن من تكلفة رسوم المواقع الأثرية المملوكة للدولة",
-     "url": "https://www.elbalad.news/7195036",
-     "source": "صدى البلد",
-     "time": "2026-11-26T08:00:00.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
-    },
-    {
-     "title": "وزير الأوقاف: تخصيص خطبة الجمعة للحديث عن الابتلاءات والتضامن وقت الأزمات",
-     "url": "https://www.youm7.com/story/2026/11/26/وزير-الأوقاف-تخصيص-خطبة-الجمعة-للحديث-عن-الابتلاءات-والتضامن-وقت/7632872",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T07:58:00.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
+     "title": "بعد حادث القاهرة.. 7 خطوات للسلامة عند انقلاب صهريج وقود",
+     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNYzkxOVZiZEo4TFNleDI0bWFfSmJYMG1iTlFaX3ZJRUE2cXh0V1ozcmcyN0ExXzJTRUR4QktkSzFfV25QOGtMdEJoUlVBNVFMQXdoRDM4bjVPQTZIMjRwcFJZeF9NV0dqZlMwOFVKZS1WVmRDVWFHWVh0N0M2VkNWRDJPanVrUlZWZXVqSGVJLVFXUjBRak1qZ3JJVFlHcFp4U2F3Uk45UVpXdTZVeG56czBmczRnaERMTU9DNUExMkh5OGFxa2ZiWUtRQm1BbW1sb0dDb2dHMHV6akM3ZmRicUd6c2k4U3JPb1Y0bmZ2WmJra2ZWYUtRbm1kQVlJODdKdGVrMm5mb0xlVzV4dFpPdGZ5QWF1UHJyMU45UmNxNkRNNFk1UTc2djFWV21lQmdoOVBxRmZnQm56MkJXWUhYTWUxYXViZTBCcGV4VE5US2o0b21TMGhtNi1iZjZlczc3UmJNc2ZCa3YxYkFTLTZyWHdxYXBxbHRYWW5yUmZ2TWlOZnB0T214YWx6OGxHVWRRci1iRHpwb9IBnANBVV95cUxNaU95X0RzU1UtSDBia0NuNDR5bnFlRGRPZEpyZGFOUUV0a1UxYkdydEpZU1hNd3dFQnpiRUJzZXNDeG9WQWQ0cXhsT25LTkx6eWN5U25ZOGxNeDltRS1JREVHdVRYTkhPa0F2blRQc3dtbEt3WU1fTzkzdk50UkgzOXNzRTBqbmRTZXNsOFhQekJSUXFSb2NVU2p4Y0xScGtZQk1PVExoOWl2WFh4NVJKOEp2Q2FVcGFpbVVSYjNUX3ByNkpNdHZHMzI5V01Ua3FyV2FBeVFtTVlFaHduV0ZfdWs3WHkzYXFhdXBMbkM5QnNXWGJjdG81ZFJ2TDhJUGx3MUdXZEE1RTFDcTFTSDVjUmd6eXZfR3JNUUxNSHZIb1QtbXV5QTRsdFBNTk11T1M3UFFlRERfbzlJSDFJVHBpYkVULTB3QW8wSkQxSHlpMlpCTmxpVkJWUVpQcUJLZi1ZdzNlYUhGWkFuY0NuQTYyZFg5R21DN29sZi00dnlReFB6Qy1ZOXp3U3ZCd2YyOUFESVVkSi1zZkFjNzdy?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-26T06:13:59.000Z",
+     "seen": "2026-11-26T08:13:53.488Z"
     },
     {
      "title": "مصر.. السيسي يُصدر \"توجيهاً\" بعد حادث حريق دائري الوراق",
@@ -188,7 +196,7 @@
      "seen": "2026-11-26T01:03:32.250Z"
     },
     {
-     "title": "\"لا مكان لكبش فداء\".. ماذا قال عمرو موسى عن حادث حريق دائري الوراق؟",
+     "title": "\"لا مكان لكبش فداء\".. ماذا قال عمرو موسى عن حادث حريق دائري الوراق؟ | CNN Arabic | CNN",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck85dkZ2TzJoX0U5eUwtb3J3MEJ5amlQZkhsSkMtOUZaOTQ1anhLN2txSWx4SmNiWWxBMmZaSVhOa1BSRjVwdHJBcHhfVllWNmdZWThvdTBBMnpwOHJvd210SGJBTGx5dy10dEFHNXNaRGlyUmRvaU5URFZ0WUdnZUxYSWdBR1lYMkVxdzZ0T0JoM2pGWlRJZWFiWGUyZEoydk9EVA?oc=5",
      "source": "CNN Arabic",
      "time": "2026-11-26T01:50:51.000Z",
@@ -228,13 +236,6 @@
      "source": "العربية",
      "time": "2026-11-26T00:12:00.000Z",
      "seen": "2026-11-26T06:43:53.997Z"
-    },
-    {
-     "title": "رسائل مدبولي خلال مؤتمر تعديلات قانون الشركات",
-     "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQaGdTYUlTMm04Z1NnV2FXTS1XUGhmelJhTkZIWmJzWWZwa2IxTnZRRmFSQlpQYW5WUjJnTDlWdWJjMGdab2w5Y1VtZVlZLS1sT2lfWmhqcXcycW83aDRlV092NzRKbEdxaWdwMmVLSTRKcVgwX1RtX2pUZ0x5N1R1Q3VITXBPaXdlMFMtSkJZLURud2FqWWw5MGVXeTdYMTBLQ2hmdGMzYVNmdWVNTm5tWW9Rd2FWcEszWWNndVl3eFROQ3JqTDVpZmZ6QlZsdF93RHgtRUhyQ0J1aU1EYTdkb2VZUjR3SmFyZ2NpT1VrVTg4dW9tTHRQUzhFLVFtZnRlVDA5OENNU2JvOEpvNVBvWXhvRUE4b3JsS3RkRHRuOU4yNjFZcEJlZUVNVDJNQWpvUWdWanlJUFFXbXFOU2lyM1pQY2ItVzVZU1JOUDZzWWVGRi1QcWpZQkdzbzBPWl9GLWRTN2Y1VGdNWTBsNUUzS1Z3Zld2Z1RyWVBRNVpYSVFPR2YwaFpSVHBzdlFuSDZLalNzTF9HZkM4Zm04UlF5SURlc19BeGZYSm9nMExBVHhoMWtjWWfSAbsDQVVfeXFMTmZZZGUwZmlMUEFreTBMS09vT0pLOFFPSW0wNC1Lc3A5cnZSSzlSOVRUdFBOenh1dkdNUDJ0YmxrVm5xdmw2cDNzeXpkbWlGa3dtUmdDSTB6MXlxLU54d0ZGcEFSOUtUOVBkUXZRMVhYZUpmVmZhQkdaaExueTBUemV0dDF2SjNmY0FCWWNMaU5YYzl6dGhvS3NidE5tdTBQOTRweWNRUzVaV1lXNjRzWTJFSGtJQm9KZC1ibUNkSmpkemUteHotUjc0X21PR3JzYWRROXBXMl9CTHZ5dVFraW5jbGZWWDhWLUVSY2ZNVGI1WWszaVVjTFl2X090RDI5ZncxdHduS0ZocGJkSDVabU53cEpxbTR5Ykk0RFRmNG4ycVR4REY3WWxZT0VHMVN2QllwMWxzZ2R0YTdTbmhRTXdSaFNDdnIyUTR0b3ZfdlRiZzNRY2JxSFdpWVVMZXg3TE5hRllQRFc3WGU3a2tneElsLTdfaFg4amVfSUk2Z29RaHBDYU1HSGE2a1ptb2l1LTVTQjBBR0RiWk1tOVRCeS12M0VDbHZUNE12RjluSUw0NzhGSGNMVi1GcGc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-25T22:37:54.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
     }
    ]
   },
@@ -243,11 +244,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "استقرار سعر الدولار اليوم الخميس في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sLUYwOE1pNWtBZUVBdTlkdHB3X3U1d3MwYWxlcm9JODVDendSaS1kWmVsei04ZGNWdE9qNnRIeTlpYk12RS1ZYi1xcVBlLTVMLWtmY1R3?oc=5",
+     "source": "بوابة الأهرام",
+     "time": "2026-11-26T08:09:00.000Z",
+     "seen": "2026-11-26T08:13:53.488Z",
+     "impact": "يساعد المستوردين والمستهلكين في مصر على تقدير تكاليف السلع والخدمات وتخطيط ميزانياتهم في ظل استقرار الصرف."
+    },
+    {
+     "title": "سعر الدولار اليوم الخميس 26/11/2026 أمام الجنيه فى بداية التعاملات",
+     "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxORm9aXzd1VzNhMGp2OUtjWFJ4LUFVOGktV2ZRT3d6S25FNGJmSzdndGRlNHFHN1RndkRURUpoV2NDdmcyWkkyUFRQYjlFUGVPSHpMSEN1SWNoakFldlZyVnZEQW5QWkxFWWk4NFBxOFB5LUxnaEVTbWozQTA2b0tua2pWYWdaNGI4QWtpZjhFakpQYmdXZncxeW1TYV9GQXlwZTdGYkVYd3I3LWI2ODk0QTFsNEVLVEdDM2ZNV1N0UmFtWFluUV8zYnBqVXE0ejdEeFc0NWpIYW1iQkNreXNnX21HVmRvSmNZVS1SaUtYSEhnWnJva2VuUk93SUFibU1KUkc1RklGc200RzlRbUViV3R5S0o5UGlRb29YTFVoQjNyQ05pNGlIaFhMMUQyTGJQN3lsZTFyLUY0dUtheVJQZ0VFN1kxa19ZelJtZ1NtWklNZklIVjBtbWNSRGxWQ05OSkc2OWI0VnoxV2hRcUVERGlMUmpmbE5rSXfSAfQCQVVfeXFMUEI1UnBhNmhTZmFlUGh2NVRDNE9najlqQjd5cEpETF90R3ZYMGd4MkppMGlFdjVUeGZwRlBnNEhMYk4yRXlVSVFxb2NfbkVORHRwY0RXSUF6Q2NqYzI4UkRoWnBWa3NBRHJSSHdUSjZFRUN4V0pSZ25fUDBDUlZ6OEtkSENodDg2TjA0VHowM2VlQ1pqN19FenAzNVFlTG1zZkRONHhjMXVuUVZfUWRjWmJVc3RqeWs0a0F0VDFJeTNTajFIVVNSbXdMeHdReTMxZzE3bTJNYTNvV2l3N2c2al8zTjhvNl9TS3UtVWVrbTFDRHZmbVl0NkhhVE80SE92UnJJenNIa2Z2LVZwSEhIOGlzeG1FQjJoNGdONzZGdlYzUUwteXBacnJkNEpjWTgybHpyUVlkRVdkZ3MtWjRybkNxWG1sdUJkM0lhdHNUZEYxZlhjX0ZwdW9JSkZ2aFk4MXJSa1FTLWNVcXVyRzg2dklidFpK?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T08:07:00.000Z",
+     "seen": "2026-11-26T08:13:53.488Z"
+    },
+    {
      "title": "سعر الدولار واليورو والعملات العربية والأجنبية اليوم في البنك المركزي",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE81VUhubjVjVklITTJaRG0ySXUxeTNOMkZWeEtMMUM5bnRmWFRpX3htdU81QWdtZkZELV92VEk2NjB0Qksz?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-26T07:54:21.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
+     "seen": "2026-11-26T08:03:53.591Z",
+     "impact": "يتيح للأفراد والمستثمرين الاطلاع على الأسعار الرسمية المعلنة لمختلف العملات لضبط تعاملاتهم المالية الخارجية."
     },
     {
      "title": "سعر صرف الدولار في البنوك المصرية اليوم الخميس 26 نوفمبر",
@@ -261,7 +278,8 @@
      "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOU1o4R1EtZkRRWWc2Q1h1cmhwdG5obG93XzZOMDlsR09IeXJCV28xSzMwMHV1UlE4Y28zZjdPaVhTb0l6cS1WQmNRbHdCMU1TNzFFOVRjbEVLY3BIbXdVcks3blBvcnJFM0FEMUxsanQwc04zYzdRdEFXLXVSenR5TXQyOWY0enNTem4wTUJnbUNqRmcxU2stbWtsWmtWWHViSjdPRGNMN3dxbmEyTFA5a3RoRU1PV3BRYXY4U1VZdlJ0c1g5bmtxLTYzSkMtT3djZEhBMEVjRXJFbHV4N2RxekZFYzV1MW9CZ21KM3l3Z25pdFNSel9JQkl4aTBiSVBtZmhLNm0tSm16MFNYWWhTbnFfNDRpajdXNzBSUzFJdl9ObkNyY1oyS1BDSUI2eFNiR0w4Qk40NzdrM3dfVWFPVE1rT3Z2clEteFBVZTFYREpaQXlxU09KT2kyTWhwbURvT3lZaHZhQi1UazBsY3lMejJxVWVJSDM2WmpRWUxDRFN2T1ppdGJEQ3pWMmM4SElMRUxyTloyYzRKUThCT1hWS2psR21xckxNTEJyUDlCRXdTekUzXzdaTzF6aE00TzItUnoxTU1KODZXcVdyMTU4NzFsazhnSlpYdW5BOGRiS1JTZTJpeVFoU3I3a0pzYjJQXzR4Nm9mYWg0UVdQdERvNEwxM0E0QTZMOUwtNmtUamFHOUNpT3h1Ti1XNkkxVlRFZ1dvVWFkLVB3b3hTX0dYcXhTdHFvaHlTMWE5eEdTSjVFc1NTTV9VQg?oc=5",
      "source": "CNBC عربية",
      "time": "2026-11-26T07:49:24.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
+     "seen": "2026-11-26T08:03:53.591Z",
+     "impact": "يهم المتعاملين في سوق المال المصري لتقييم الفرص الاستثمارية وشروط الاكتتاب في أدوات الدين التي يصدرها البنك."
     },
     {
      "title": "كرة القدم والسياحة والاقتصاد: كيف تؤثر ظاهرة محمد صلاح على مدينة طرابزون؟",
@@ -314,32 +332,18 @@
      "seen": "2026-11-26T06:53:54.035Z"
     },
     {
+     "title": "تعرف على سعر الدولار مقابل الجنيه قبل بدء جلسة التداول",
+     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNcS1uRnVWZERuM1JrMmhVUzA3dS1jWTdjdklvNjFMWm9MSEw0RGkzOU53X1dLZ2JjYjUtWEtvb3c0R1lYalpzZGtQR3l5VlZFNThJbFBXRzNiM2Jxem9jTXNnZnpLTTQ4RWVYX1N5MWZHcHlSY1E3aFVDTE1ieEFqdFg4bWpkQ2x4OTBOWDdEekVfSVktekoxSmpTa2xhdUt0eXl6UFg5LVMzZnZ1SldBRTRQQkFSbVMwRXhFM3V2Q2Y2QW9fTVpsMmtxMHZxRmw0NnAxZjJ2anFSdkp2elRvcWVVTmkyXzhnTnhkWmx4WWF2TlNSWVEzSks4bGJOeEdBUFFpNVVtVGcyNnFfYW8yYmF0VXRuY0QyRGRhRl9MdWRmRlRIMGsxa0txa3hVZnF1OWF5TWRZYVdPZ0liR2REdnBlekJqQU12V3FiUDdrWS1hVDE1dXcxdU1hN0tHUUpPTmhDSGNDc0EzQUZvSXBFbWJmRjNsZ1BXU3l0SlY0MldNRGpUQUtSTjA3TEVfU2JpRkU3V2NtaGx3b1Rza1l0dnc4bFkxUHA3ZWtFeFZ6SVhJWkVUQUtmYldBMG50QWlCYUtad2h6TTREQdIBygNBVV95cUxNcS1uRnVWZERuM1JrMmhVUzA3dS1jWTdjdklvNjFMWm9MSEw0RGkzOU53X1dLZ2JjYjUtWEtvb3c0R1lYalpzZGtQR3l5VlZFNThJbFBXRzNiM2Jxem9jTXNnZnpLTTQ4RWVYX1N5MWZHcHlSY1E3aFVDTE1ieEFqdFg4bWpkQ2x4OTBOWDdEekVfSVktekoxSmpTa2xhdUt0eXl6UFg5LVMzZnZ1SldBRTRQQkFSbVMwRXhFM3V2Q2Y2QW9fTVpsMmtxMHZxRmw0NnAxZjJ2anFSdkp2elRvcWVVTmkyXzhnTnhkWmx4WWF2TlNSWVEzSks4bGJOeEdBUFFpNVVtVGcyNnFfYW8yYmF0VXRuY0QyRGRhRl9MdWRmRlRIMGsxa0txa3hVZnF1OWF5TWRZYVdPZ0liR2REdnBlekJqQU12V3FiUDdrWS1hVDE1dXcxdU1hN0tHUUpPTmhDSGNDc0EzQUZvSXBFbWJmRjNsZ1BXU3l0SlY0MldNRGpUQUtSTjA3TEVfU2JpRkU3V2NtaGx3b1Rza1l0dnc4bFkxUHA3ZWtFeFZ6SVhJWkVUQUtmYldBMG50QWlCYUtad2h6TTREQQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T06:01:42.000Z",
+     "seen": "2026-11-26T08:13:53.488Z"
+    },
+    {
      "title": "سعر الدولار اليوم الخميس 26 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9SWUpCVG1XV0R0T2FwTWpqcDFWQUdVWGFCLTRWdElnbkNxU0gxdElENGs2RHlPVVJWRGluUVBoRjVQb002?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-26T05:40:00.000Z",
      "seen": "2026-11-26T05:23:31.787Z"
-    },
-    {
-     "title": "أوراسكوم كونستراكشون تتم اندماجها مع \"أو سي آي\" مقابل 47% من أسهمها",
-     "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNc0QtWmZndnlpckthcUVDSmNnVlJTS2g3RTFGdGR6NVIwbU1xMGh4RmF0OHR6WmlkTUluQWxabnppTnF5MU9QTFN1VU9lWGYwWUVnZTNjWnhNZVNzTHhQaHU0a0J4Q09HM0RlX0Zib3dlVEtQUnBWWmRvd1dBTkdEdkJpVjBSVjdsMnppb1BJSHlZSkRCRlcwVE9RZnhJdDFGT3FZM2hLRWtKRGZ6RjRwOTNBdFAzVUp4aG40NEJmT0ZpOG5OczZCOVQwOFdyS3AwY2E2OW5GQkhFRUhPVkxxWC1Qb00yNnI5eDJKMDUwU0pXX1U5MnpYUDAwQldHVmlMM3pUQ0k2UV9oQkd6cGtuNWd1NmdGTkxUNElxc3VuSVNoZFpvT0VuRE5qS0hTcDhjRjVsd2EtY0hZTHJYdnIwS3pXNXNKUG1vV0JCZzRiNU1EYUNEN2twTTNB?oc=5",
-     "source": "EnterpriseAM",
-     "time": "2026-11-26T05:34:54.000Z",
-     "seen": "2026-11-26T07:43:53.709Z"
-    },
-    {
-     "title": "رسميا.. سعر الدولار مقابل الجنيه اليوم الخميس 26 نوفمبر",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WVGszTjA2Uy1vcWxPcENFMHd0YUpMeWp4TGl0UHlqWE0wZElHUXNTMXlfcERZQmdyNFR1WkhXRG5DcXQ0RWFB?oc=5",
-     "source": "صدى البلد",
-     "time": "2026-11-26T05:03:00.000Z",
-     "seen": "2026-11-26T05:13:32.221Z"
-    },
-    {
-     "title": "هل يقترب آيزنكوت من إنهاء حكم نتنياهو في إسرائيل؟",
-     "url": "https://www.bbc.com/arabic/articles/c84gndlyl1d5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-26T04:58:52.000Z",
-     "seen": "2026-11-26T05:03:32.074Z"
     }
    ]
   },
@@ -373,14 +377,16 @@
      "url": "https://www.dw.com/ar/انفجار-قرب-ناقلة-نفط-غربي-دبي-دون-تسجيل-أضرار/live-80056516?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-26T07:37:00.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
+     "seen": "2026-11-26T08:03:53.591Z",
+     "impact": "يهم المستثمرين والتجار لمراقبة سلامة الملاحة البحرية وأي تأثيرات محتملة على أسعار الطاقة وتكاليف الشحن."
     },
     {
      "title": "\"ما الذي تعلمناه؟\".. نجيب ساويرس يعلق على حادث الطريق الدائري في مصر",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/naguib-sawiris-comments-giza-accident",
      "source": "CNN بالعربية",
      "time": "2026-11-26T07:10:42.000Z",
-     "seen": "2026-11-26T07:13:53.656Z"
+     "seen": "2026-11-26T07:13:53.656Z",
+     "impact": "يهم مستخدمي الطرق وقائدي المركبات لمتابعة النقاش العام حول سبل تعزيز السلامة وتفادي حوادث السير."
     },
     {
      "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
@@ -459,6 +465,13 @@
      "seen": "2026-11-26T07:13:53.656Z"
     },
     {
+     "title": "هل يقترب آيزنكوت من إنهاء حكم نتنياهو في إسرائيل؟",
+     "url": "https://www.bbc.com/arabic/articles/c84gndlyl1d5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-26T04:58:52.000Z",
+     "seen": "2026-11-26T05:03:32.074Z"
+    },
+    {
      "title": "هاتف Vivo X500 FE يظهر في قاعدة بيانات NBD بذاكرة 8GB وتخزين 256GB",
      "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%87%d8%a7%d8%aa%d9%81-vivo-x500-fe-%d9%8a%d8%b8%d9%87%d8%b1-%d9%81%d9%8a-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-nbd-%d8%a8%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-8gb-%d9%88/",
      "source": "عالم التقنية",
@@ -470,7 +483,8 @@
      "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%86%d9%85%d9%88%d8%b0%d8%ac-claude-%d9%8a%d8%ad%d9%88%d9%84-artifacts-%d8%a5%d9%84%d9%89-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d9%82%d9%84%d8%a9-%d8%b9%d9%84%d9%89-mac/",
      "source": "عالم التقنية",
      "time": "2026-11-26T04:15:36.000Z",
-     "seen": "2026-11-26T04:23:31.844Z"
+     "seen": "2026-11-26T04:23:31.844Z",
+     "impact": "يهم العاملين في قطاع التكنولوجيا والمطورين في مصر للاستفادة من الأدوات البرمجية الجديدة لزيادة الإنتاجية."
     },
     {
      "title": "\"ليحيا المسيح الملك!\": لماذا رفعت ملكة جمال الكون السابقة هذا الشعار قبل تسليم التاج للفائزة؟",
@@ -538,17 +552,10 @@
     },
     {
      "title": "مصر تضبط استخدام الذكاء الاصطناعي في الجهات الحكومية",
-     "url": "https://www.msn.com/ar-ae/technology/software/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9/ar-AA2igsnb",
+     "url": "https://www.msn.com/ar-ae/news/other/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9/ar-AA2igsnb",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T22:50:26.000Z",
-     "seen": "2026-11-26T08:03:53.591Z"
-    },
-    {
-     "title": "سوريا: مقتل اثنين وإصابة آخرين في هجوم لـ\"تنظيم الدولة\" استهدف مقراً أمنياً في الحسكة",
-     "url": "https://www.bbc.com/arabic/articles/cq772vy1er0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T22:26:07.000Z",
-     "seen": "2026-11-25T20:53:15.304Z"
+     "seen": "2026-11-26T08:13:53.488Z"
     }
    ]
   }
