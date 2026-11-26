@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:33:54.310Z",
+ "updated": "2026-11-26T06:43:53.997Z",
  "minute": [
   "تشهد الأسواق المصرية استقراراً في أسعار الدولار والذهب، مع تشديد جهاز حماية المستهلك على إلزام التجار بوضع الأسعار بوضوح.",
   "تعتزم الولايات المتحدة فرض رسوم جمركية جديدة تصل إلى 20% على دول عدة، بالتوازي مع تطورات وإجراءات أمنية دولية وإقليمية.",
@@ -10,17 +10,17 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-26T06:33:54.310Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T06:43:53.997Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.63,
-   "change": 0.82,
-   "asOf": "2026-11-26T06:24:31.000Z",
+   "value": 54.67,
+   "change": 0.89,
+   "asOf": "2026-11-26T06:43:47.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -29,7 +29,7 @@
    "unit": "ج.م/جرام",
    "value": 5535,
    "change": 2.7,
-   "asOf": "2026-11-26T06:22:30.000Z",
+   "asOf": "2026-11-26T06:33:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,16 +38,16 @@
    "unit": "ج.م/جرام",
    "value": 6320,
    "change": 2.7,
-   "asOf": "2026-11-26T06:22:30.000Z",
+   "asOf": "2026-11-26T06:33:55.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3602,
-   "change": 1.86,
-   "asOf": "2026-11-26T06:22:30.000Z",
+   "value": 3599,
+   "change": 1.79,
+   "asOf": "2026-11-26T06:33:55.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0966,
    "change": 0.03,
-   "asOf": "2026-11-26T06:31:43.000Z",
+   "asOf": "2026-11-26T06:43:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.03,
-   "change": -3.78,
-   "asOf": "2026-11-26T06:22:05.000Z",
+   "value": 90.78,
+   "change": -4.05,
+   "asOf": "2026-11-26T06:33:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60579,
-   "change": 1.39,
-   "asOf": "2026-11-26T06:34:04.000Z",
+   "value": 60400,
+   "change": 1.09,
+   "asOf": "2026-11-26T06:43:56.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الجحيم في إثيوبيا| معارك مويالي لا تتوقف.. وهروب 70 ألف شخص إلى كينيا",
-     "url": "https://www.elbalad.news/7194991",
+     "title": "تحذير من 3 ظواهر جوية تضرب مصر خلال ساعات.. ماذا يحدث في الطقس؟",
+     "url": "https://www.elbalad.news/7195001",
      "source": "صدى البلد",
-     "time": "2026-11-26T06:32:48.000Z",
-     "seen": "2026-11-26T06:33:54.310Z"
+     "time": "2026-11-26T06:42:53.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
     },
     {
-     "title": "شبانة يكشف تفاصيل مشروع \"الكرة للغلابة\" لاكتشاف المواهب في القرى والنجوع",
-     "url": "https://www.elbalad.news/7194980",
-     "source": "صدى البلد",
-     "time": "2026-11-26T06:30:04.000Z",
-     "seen": "2026-11-26T06:33:54.310Z"
+     "title": "الجامعة العربية تعزى مصر فى ضحايا حادث الوراق وتتمنى الشفاء العاجل للمصابين",
+     "url": "https://www.youm7.com/story/2026/11/26/الجامعة-العربية-تعزى-مصر-فى-ضحايا-حادث-الوراق-وتتمنى-الشفاء/7632826",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T06:42:00.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
     },
     {
-     "title": "درة تبهر متابعيها بفستانها في أحدث ظهور.. شاهد",
-     "url": "https://www.elbalad.news/7194979",
+     "title": "الهلال الأحمر المصرى: توفير الدم لمصابي حادث الوراق",
+     "url": "https://www.youm7.com/story/2026/11/26/الهلال-الأحمر-المصرى-توفير-الدم-لمصابي-حادث-الوراق/7632830",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T06:41:00.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
+    },
+    {
+     "title": "الجامعة العربية تعرب عن خالص تعازيها لمصر في ضحايا حادث الوراق",
+     "url": "https://www.elbalad.news/7194999",
      "source": "صدى البلد",
-     "time": "2026-11-26T06:30:00.000Z",
-     "seen": "2026-11-26T06:33:54.310Z"
+     "time": "2026-11-26T06:39:28.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
+    },
+    {
+     "title": "صور حسين إبراهيم سائق فنطاس البترول ضحية حريق دائري الوراق",
+     "url": "https://www.elbalad.news/7194985",
+     "source": "صدى البلد",
+     "time": "2026-11-26T06:39:10.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
     },
     {
      "title": "الطقس اليوم.. انخفاض بالحرارة وشبورة وفرص أمطار والصغرى بالقاهرة 15 درجة",
@@ -167,18 +181,11 @@
      "seen": "2026-11-26T06:03:31.861Z"
     },
     {
-     "title": "الرمان والياسمين والنباتات الطبية.. الزراعة: مجمعات تصنيع جديدة بالقرى",
-     "url": "https://www.youm7.com/story/2026/11/26/الرمان-والياسمين-والنباتات-الطبية-الزراعة-مجمعات-تصنيع-جديدة-بالقرى/7631732",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T06:00:00.000Z",
-     "seen": "2026-11-26T06:03:31.861Z"
-    },
-    {
-     "title": "غدا آخر أيام التقديم على وظائف شركة روسية بالبحيرة براتب يصل لـ30 ألف جنيه",
-     "url": "https://www.youm7.com/story/2026/11/26/غدا-آخر-أيام-التقديم-على-وظائف-شركة-روسية-بالبحيرة-براتب/7631720",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T05:00:00.000Z",
-     "seen": "2026-11-26T05:03:32.074Z"
+     "title": "قصة مؤثرة في حريق الجيزة.. محاولة إنقاذ تنتهي بمأساة",
+     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQM0FkcFhLZVc2dE5iR3M1VUg5Z0FGMmw1OUtxU1UtTVZzOEJGUk9JMnlEVEVDR04zZTlKN1JZZnpia3JLRGIyNGdQMTZhVnRFZzltb3FENGFRcUNTV0tzMXZGbG1XMllvUDdxM0xoU2ZwTGY3aDBNU2tfQmlsbGxQLW1oNmZPRjhTdTZEV3haY3hZbW0wbDBGZGxfUUE1dW4zSklXNERTZkg3MzhNRzVteHY0SFUzNUZBQzgtMURzYjhyVTR4ZkcxQk02Rm56WHhndWhac0hkX2VfN2gtZ2pjYkRYdHlPbjJ1bl81c25jMUpSQ1hhRjVNS1VzSXVDWHJhUFc3YUdjaFoySXdVdXdMWFpicjhuWHViZkduSm9hN08wbjUxUmJjS18yZkd3TVdmN1ZWeVJfTG9DTHJ3VDBFTklpbmN4TDc0RU5VUnluSmxIbk0yZFJkRFVQOWtmTDZPR1pxaWJBLVYtZ2JxbG15ajA4NE13ZmpCODV3N2owX2ZBRUFuNzhPc09aS2xqVnJHZlBSaUdCU0djNGpzNW1Qc1lyZy0xVlo2M1lBT2ZGd3dNcEdESUV2Nm1sWGQyQUtXOVZGa9IBygNBVV95cUxNTzVPeE9ySzk0V2Z2OEFNUWhkQXlVOGkwSGtLaHRtQ3cxckxRTVNHTHphTXVIX2FyeTVDU3lfLXZBZTBwMzdlcTBoQmhBb1ExaldpcTBPYjZFaFJmTUV3UzFoS1REbzdkUkVUa1dldUVRN2RtM0lBM25kcGZqcV90Y0FKblF2S051cndzMVFxUC01b2VNOG1DNEVWYXdSWFlyX1Rfa0Npb2hxVmNsN1JZWXh4Mzlwd08yMFhYaF9QaTRFU2xSanFhbDBybkZkQjl6UzlNSmYwNTQ1d1g3aVluWmFFSndvcDRlNnBvR3lDN1RrSHBCTlFXSGp5N1lLMEM1aE92dkZtYW9QQjVRVGoyRktwSzBpRDlGeW1oRDhkQ1lrOFlMWGo3Z1RKV1JtQXpuYm85MGFCYnpJem9BYjN1MFpMbWZVUG1wMzNtVVFFRWJ3M3JGMEZHNGlwalVld1JxUjFzblM4cDhyTDBTeFFGT25HR04wVDRwZ25xVVFlaGtkM0FsYi1GVzA3TE9QaVpwN1NFaUtiZ0ZHOF9WTFZ2cEdTOGdjWjEtdlBMTHc2WFcyWGZDOXlMTUJhdmJSMGFyS2RNaUpIcTR6QQ?oc=5",
+     "source": "العربية",
+     "time": "2026-11-26T04:14:16.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
     },
     {
      "title": "مصر.. السيسي يُصدر \"توجيهاً\" بعد حادث حريق دائري الوراق",
@@ -207,13 +214,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-26T01:28:00.000Z",
      "seen": "2026-11-26T04:03:31.699Z"
-    },
-    {
-     "title": "مدبولي يعلن تعديلات لائحة قانون الشركات ويتعهد بدعم الاستثمار",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPS0gxakVwb2JGSFhSWTFPN1NiaUJuNnBXN0cyOHRQWUExRFoyc1g2aUtVeTFVVEhjWXBJX2l2X0drNEg3N2RXSmZnX2F2cmNGMS1mWnlIcl9xemJKR0JIYVNNS1I4TlBiUEZMZy1OTHotczNkb1h5RHpvY0Q1VDBKUC1DMFB5VGc4N1JFTzZteGMwSkhpcHVPSkltUUg5UU0tZFhTQXptLVExUU1ta1VhaC05SGlvLUo0c2toS2VzazA1SDYxXzdKT19vOGpHanM0ZW5sckpmU0xQUnVsQXpWdHROUkhMXzNmWWFCYmR4QlUyMnd6a0syYkNXSjNBUW5SVmNwb1RLUjNYdDBSZnlXcDVpOG51bjNZaXJwSFRKenhEMVo4Ti1YMzUtdTBORE4xWGhfMFJtay1RUFR1Mzh0NnhZemdmbUtQc3BieUpobExZQklqdm5ZeW5pMExuVEtjLVcwMmp2ZnlZOG94dmpBblVhVHJ4Nnc?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-25T23:50:52.000Z",
-     "seen": "2026-11-26T06:23:53.761Z"
     },
     {
      "title": "متحدث الوزراء: استنفار طبي وإغاثي لاحتواء تداعيات حريق دائري الوراق",
@@ -391,7 +391,7 @@
      "seen": "2026-11-26T05:43:32.196Z"
     },
     {
-     "title": "مباشر: تصعيد متبادل بين السعودية والحوثيين ...هجمات على الرياض وموانئ المملكة وقصف للحديدة باليمن",
+     "title": "مباشر: التحالف يعترض صاروخين أطلقا باتجاه الرياض والحوثيون يعلنون استهداف ميناءي جدة وجازان",
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261126-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9",
      "source": "فرانس 24",
      "time": "2026-11-26T05:30:47.000Z",
@@ -419,32 +419,32 @@
      "seen": "2026-11-26T04:53:31.772Z"
     },
     {
+     "title": "الذهب يتأرجح بعد هبوطه لأدنى مستوى في أكثر من عام",
+     "url": "https://www.aljazeera.net/ebusiness/2026/11/26/%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%8a%d8%aa%d8%a3%d8%b1%d8%ac%d8%ad-%d8%a8%d8%b9%d8%af-%d9%87%d8%a8%d9%88%d8%b7%d9%87-%d9%84%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%81%d9%8a?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-26T03:28:58.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
+    },
+    {
+     "title": "فاجعة الوراق.. مقاطع صادمة توثق بطولات اللحظات الأخيرة ومأساة الناجين",
+     "url": "https://www.aljazeera.net/news/2026/11/26/%d9%81%d8%a7%d8%ac%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%b1%d8%a7%d9%82-%d9%85%d9%82%d8%a7%d8%b7%d8%b9-%d8%b5%d8%a7%d8%af%d9%85%d8%a9-%d8%aa%d9%88%d8%ab%d9%82-%d8%a8%d8%b7%d9%88%d9%84%d8%a7%d8%aa?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-26T03:24:17.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
+    },
+    {
+     "title": "كوشنر: على إسرائيل التخلي عن عقلية الحرب الدائمة والتفاوض مع حماس",
+     "url": "https://www.aljazeera.net/news/2026/11/26/%d9%83%d9%88%d8%b4%d9%86%d8%b1-%d8%b9%d9%84%d9%89-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a7%d9%84%d8%aa%d8%ae%d9%84%d9%8a-%d8%b9%d9%86-%d8%b9%d9%82%d9%84%d9%8a%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-26T03:22:06.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
+    },
+    {
      "title": "أوكرانيا: قصف روسي يصيب 3 أشخاص في كييف وواشنطن توافق على دعم مقاتلات إف-16",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261126-%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%8A%D9%8A%D9%81-%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%84%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA-%D8%A7%D9%81-16-%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
      "source": "فرانس 24",
      "time": "2026-11-26T03:17:12.000Z",
      "seen": "2026-11-26T03:33:32.275Z"
-    },
-    {
-     "title": "\"أهمّ قضية في حياة عميلة لدى مكتب التحقيقات الفيدرالي\"",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzRmJtMGU1dlpTNnRFMkFidVhKXzE4WmRMZ2VDY05HNzNiNkVibVhoSkdJMlJyRTI1WkNoUk9qS2s4MHRfZWtMdHBva0xMWDBObWo4emMtak4yeUNiZUHSAWNBVV95cUxObnlSOVdLS3lZWDRUNWJwWkRMN3RXanNuN0pwektmbDR0RUs5c3c5MTBWLUVpcHI2VVFLaV9kMi1KdjRSQlR1Ql9iNGR0ZjZmUjAydnFJV3B4REtVTFRILXlBQnM?oc=5",
-     "source": "BBC",
-     "time": "2026-11-26T02:50:09.000Z",
-     "seen": "2026-11-26T05:13:32.221Z"
-    },
-    {
-     "title": "خبراء يحذّرون: انبعاثات سامة تفتك بالحياة في غزة",
-     "url": "https://www.aljazeera.net/politics/2026/11/26/%d8%ae%d8%a8%d8%b1%d8%a7%d8%a1-%d8%a8%d9%8a%d8%a6%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%b3%d9%85%d9%88%d9%85-%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab%d8%a7%d8%aa?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-26T02:49:25.000Z",
-     "seen": "2026-11-26T06:13:53.823Z"
-    },
-    {
-     "title": "ما خيارات إثيوبيا بعد رفض الخرطوم مبادرة آبي أحمد؟",
-     "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPeG5MSzZkQnNkTXdjbFhHZGxZQXpUT084QTA2cDFQZXN1TmpRN1hCc3YyYTQ3dXN5OTEyZ0pWWmIteDI3VmFvOXRNNnFJclhwbXAzLUR1X3FiYmxzQTEzUWJ1S0dKMnZvNGt4SlIxSEg3N2RQdXF5d3hQQ0hYeVkwa0dJN1FveUExb19VV21MVHhmM1FJc3hobmtQcTdfVFlvek8zQngtbjd0MXVhOVFSTm1TXzlKSUR1V2theGNZQWRHRXB5UFU5Qk9Ca1ZndEY5VFhnamZtTlpvRXVBWDhRNTAwdVB3UjZMMk5Dci1kT2oteDc3Y3k0Vzc5NVFFZ1o2QlZpN3RGNTRyNUtkaDdkZWRsT29wVm0zZm9KUTg4WERCUTVrWHo0ZjBaYkNHd1BRNXBTSThGY21Vend2OXlrWThNRkx4Vm85dkI4VGk2WjN1eWpmWmJhVVI2ZHFIY2tickpLM1dkX1VLWkdiQldNdUZseHVwOTdEY0dGSGFRVDdxel94a2laeUhpUy1rc3ZlVWhIRHlZd1dpZGlkUmxVUy1aTWJJS29KOFI0M1hqS0Z3Z2I5WXhad0Mxc3FOeEZOYnVLS3YtRUZVVlZGSUtlSkoxUTRaM0ppYmhsVkpwUElLbVl1OGdvWTJHeXAybFZiME85eGoxVlRYUVMxdXc?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-26T02:31:41.000Z",
-     "seen": "2026-11-26T06:23:53.761Z"
     }
    ]
   },
@@ -525,6 +525,13 @@
      "seen": "2026-11-25T20:53:15.304Z"
     },
     {
+     "title": "أبوظبي ثالث أفضل مدينة عالمياً في الذكاء الاصطناعي",
+     "url": "https://www.msn.com/ar-ae/technology/general/%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AB%D8%A7%D9%84%D8%AB-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A/ar-AA2igavs",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-25T22:25:43.000Z",
+     "seen": "2026-11-26T06:43:53.997Z"
+    },
+    {
      "title": "سماع دوي انفجارات في الرياض، والحوثيون يستهدفون ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
      "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -545,13 +552,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T20:53:23.000Z",
      "seen": "2026-11-26T01:03:32.250Z"
-    },
-    {
-     "title": "علي القرني.. حارس أمن يضحي بسلامته وينقذ طفلا من الدهس بجدة",
-     "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNdjAyUndQSmtOaGFjeDNhMmJYSUxNSG5YOU5aOWNRVjRJSjctQTNMSlgySlhaZlViSk1xYUNTbGNnODRJR0xudnBjYmdHZTNaVWJBczFqOXV6bVdGWEtIeGNFcTVUMk94VnZXRHJCbmNEVFB0cHVZN1JqanoyVTIxTHR6aFNkVkM5eVBiMFZPRkoyaEkwbkJQcTNUdVpWTFpUckhEeVV3NmctX1pnRHZvVVhsNWJnMEY0Z1VGX3Y4ZkVfSTZ5emxtX0xIM2llOVBnMEdUWXJlVGQyXzRwSzJTc2swOWVMaEhHbTdiM2FDSWdIYWE1enJTWlE0XzhQYVJxWlZuZVdSQldHcE1qYzlEcEhRcFV5ZkpLRWZ2cFFCTlR0MmZKeVhuNFloUkc4bzNqNUlSX1N1VGVuQkVGYkd0MTQ3Z20zSG9OYzRoQURFRmV4VDhDNzJ0d3Q2Tmg?oc=5",
-     "source": "الجزيرة نت",
-     "time": "2026-11-25T20:25:35.000Z",
-     "seen": "2026-11-26T03:53:31.285Z"
     }
    ]
   }
