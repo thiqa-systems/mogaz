@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:43:32.088Z",
+ "updated": "2026-11-26T02:53:32.154Z",
  "minute": [
   "شهدت مصر حادث حريق هائل ناتج عن انقلاب صهريج مواد بترولية بالوراق في الجيزة أسفر عن ضحايا، وأعقبه توجيه رئاسي وإخلاء الموقع وفتح الطريق بالاتجاهين.",
   "استقرت متابعة الأسواق الاقتصادية في مصر على متابعة أسعار الدولار مقابل الجنيه اليوم الأربعاء في البنوك.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-26T02:43:32.088Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T02:53:32.154Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5560,
-   "change": 3.1,
-   "asOf": "2026-11-26T02:33:31.000Z",
+   "value": 5590,
+   "change": 3.67,
+   "asOf": "2026-11-26T02:44:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6347,
-   "change": 3.1,
-   "asOf": "2026-11-26T02:33:31.000Z",
+   "value": 6382,
+   "change": 3.67,
+   "asOf": "2026-11-26T02:44:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3612,
-   "change": 2.16,
-   "asOf": "2026-11-26T02:33:31.000Z",
+   "value": 3632,
+   "change": 2.72,
+   "asOf": "2026-11-26T02:44:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0972,
-   "change": 0.09,
-   "asOf": "2026-11-26T02:42:43.000Z",
+   "value": 1.097,
+   "change": 0.07,
+   "asOf": "2026-11-26T02:53:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.87,
-   "change": -3.95,
-   "asOf": "2026-11-26T02:33:32.000Z",
+   "value": 90.66,
+   "change": -4.18,
+   "asOf": "2026-11-26T02:41:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60914,
-   "change": 1.95,
-   "asOf": "2026-11-26T02:43:32.000Z",
+   "value": 60682,
+   "change": 1.56,
+   "asOf": "2026-11-26T02:54:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,31 +140,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بينها الفقر والتضخم وارتفاع الأسعار.. تحديات تواجه تنفيذ الاستراتيجية الوطنية لحقوق الإنسان",
-     "url": "https://www.elbalad.news/7194953",
+     "title": "انتخابات رئاسة فيفا 2027.. إنفانتينو في مواجهة ديالو وتاشيما بمعركة الأصوات السرية في الرباط",
+     "url": "https://www.elbalad.news/7194915",
      "source": "صدى البلد",
-     "time": "2026-11-26T02:41:32.000Z",
-     "seen": "2026-11-26T02:43:32.088Z"
+     "time": "2026-11-26T02:50:16.000Z",
+     "seen": "2026-11-26T02:53:32.154Z"
+    },
+    {
+     "title": "أسعار السجائر اليوم في مصر.. كليوباترا ومارلبورو وميريت والتبغ المسخن",
+     "url": "https://www.elbalad.news/7194925",
+     "source": "صدى البلد",
+     "time": "2026-11-26T02:45:55.000Z",
+     "seen": "2026-11-26T02:53:32.154Z"
+    },
+    {
+     "title": "شبانة تعليقًا على بوست لأيمن الشريعي: بحاول أحسن النية والمفروض علاقته قوية بالأهلي",
+     "url": "https://www.elbalad.news/7194944",
+     "source": "صدى البلد",
+     "time": "2026-11-26T02:45:02.000Z",
+     "seen": "2026-11-26T02:53:32.154Z"
     },
     {
      "title": "شهيدان ومصابون بقصف شقة في دير البلح وسط تصاعد الغارات على غزة",
      "url": "https://www.youm7.com/story/2026/11/26/شهيدان-ومصابون-بقصف-شقة-في-دير-البلح-وسط-تصاعد-الغارات/7632815",
      "source": "اليوم السابع",
      "time": "2026-11-26T02:41:00.000Z",
-     "seen": "2026-11-26T02:43:32.088Z"
-    },
-    {
-     "title": "باطلة لا أساس لها.. حزب الله ينفي تورطه في مخطط أمني بالأردن",
-     "url": "https://www.elbalad.news/7194891",
-     "source": "صدى البلد",
-     "time": "2026-11-26T02:36:02.000Z",
-     "seen": "2026-11-26T02:43:32.088Z"
-    },
-    {
-     "title": "ماهر همام: الخطيب سيعود للإشراف على ملف الكرة بالأهلي.. وتصعيد الناشئين مشروع النادي الجديد",
-     "url": "https://www.elbalad.news/7194939",
-     "source": "صدى البلد",
-     "time": "2026-11-26T02:31:00.000Z",
      "seen": "2026-11-26T02:43:32.088Z"
     },
     {
@@ -180,6 +180,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-26T02:07:00.000Z",
      "seen": "2026-11-26T02:13:31.694Z"
+    },
+    {
+     "title": "مدبولي يعلن تعديلات لائحة قانون الشركات ويتعهد بدعم الاستثمار",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPS0gxakVwb2JGSFhSWTFPN1NiaUJuNnBXN0cyOHRQWUExRFoyc1g2aUtVeTFVVEhjWXBJX2l2X0drNEg3N2RXSmZnX2F2cmNGMS1mWnlIcl9xemJKR0JIYVNNS1I4TlBiUEZMZy1OTHotczNkb1h5RHpvY0Q1VDBKUC1DMFB5VGc4N1JFTzZteGMwSkhpcHVPSkltUUg5UU0tZFhTQXptLVExUU1ta1VhaC05SGlvLUo0c2toS2VzazA1SDYxXzdKT19vOGpHanM0ZW5sckpmU0xQUnVsQXpWdHROUkhMXzNmWWFCYmR4QlUyMnd6a0syYkNXSjNBUW5SVmNwb1RLUjNYdDBSZnlXcDVpOG51bjNZaXJwSFRKenhEMVo4Ti1YMzUtdTBORE4xWGhfMFJtay1RUFR1Mzh0NnhZemdmbUtQc3BieUpobExZQklqdm5ZeW5pMExuVEtjLVcwMmp2ZnlZOG94dmpBblVhVHJ4Nnc?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T23:50:52.000Z",
+     "seen": "2026-11-26T02:53:32.154Z"
     },
     {
      "title": "وزير الاستثمار: نسعى إلى دعم المنشآت الفردية وتسهيل عملها",
@@ -224,13 +231,6 @@
      "seen": "2026-11-26T01:43:31.495Z"
     },
     {
-     "title": "مدبولي يوجه بتحقيق فوري للوقوف على أسباب حريق الوراق",
-     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxORnRZRFhOUmNCZ2JfTUUyYmM1Q3hkQVZZc0pwX0FWSFYxdkIyT2loOVB2bE1IRDZXZnlBelFWZlc0dm9FRzM1bTdQZDhRQWtleFk4YlJmUVhoOFNKTndxM1dETVRvcmxaaDRsTWc1bE1Qc3o5Q0s1QmV6Nnc1YUpfRU1iZnExdi16ZUQ3cEFsMjZkb25PLXNCQ2w1YVVUUC1aQzJJRXY3Ul9pWTBCRmZLbGl3RjBzR2plbGFzTEpLOUlUemdLUUsxQUp5SXp6WGZMZkJPTkZueVdkTkIxeUNIRERUYzJSbEItcUR6Y2JaNy14UHNxZ0tMTzZQVG1hRUdCUkgza2JHOUQxOXJzN3RSM0VzdmRRMmluNC16WnVhM3ZkOUtyLWdjZHk3cVhoWDd0MUZCT0JhbmtLWUxrT1hIUklyVEctRUtnSXBHY2tIbHNSeXotSE9Hb19ZeVlXNFliTk1ybUh6V2lwYzBhdDVNOEVvQk5PV2M?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-25T21:20:08.000Z",
-     "seen": "2026-11-25T21:23:15.695Z"
-    },
-    {
      "title": "مصدر: مدبولي يزور مصابي حريق دائري الوراق بمستشفى الشيخ زايد غدًا",
      "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxPRWdmemFNd2YwblBzbUZLY1Z3dC1UU0RQLXp1OWk3aUt6RlRCNzFjbklGNGhJaV9aUXpuUEFxRWpRZGVrSDQyTlZfbjFEcDNxb1FVOXhoV05zY2dDMjJwWmxPeUdiQ0h1RGpZSFdPSGNSeDAxTkRjZjhMRU4yZlV5cDRjcUNpYnJyWUU1UUV4MWduc1ZpcUFsQWF4eTBoSUhnbGZsdzZWdm9xSnJHZXEwYlctdHZTNVdqVzZXblQybDNncmV1dnM0NFFlLWk3WWV1VkJ0Z1BNcmM0LUFDbFlhZjV3TjNzN3g5d2RyeXowMjVySlBEYUJwZ1hpTGhjbWp0SnY5T1FjTHYtc2ViTVJwTk8wSHpzSjFIMU4zWUkwR1JwOVc0dVVZVEo5VUF1dzlxcjFhZlRlWjNmU3k1cjJTZUI1b05qODNFLW45VVc0UkhmeVZuZjR1eGhUdEg5bk0weWFnNjgwUXN0Qm1TWDdMQTE5SzFpVm9OdUk0dVRwbGxSbUY2WUxMVXl1a1VyZGQ5NzVZcGRIRDVicE9FWUctbFdEODRHUlVCSmNoWGxSSXJUcmhDYWhxSUVrWHZMNWRMdWtmSmUwa1BmSTRwN3A2cVpvWklaODJiVFYyUjdMU3dTRS1tY2ZaQnRvT0pCREFoUk9ZWHFuZHJBaWxJZ0JiZ29iR2xIUXV3OEI3czhDbUUteXFlRDRtMS1uLXRuVDQ5aGs1bjhoblhrc2VB0gGyBEFVX3lxTFBZb2s3eUZSX2hhcV9SaERnb0s0Y2lKYlphYW5wVms1VVNyRFg0b0NkcUNKYmlDT011R0tEMTVTZ3EzUHVhUWpTb3JtNVIxbTlnY29mcHFCQzdyb25XM0tYZUNsX1VMTzlnZ3VZT2RkV3FYaDJCSnI0dXktQkFudTBsNEJURDRFWmJYeTVRZEJ6VW5GVkk5aXdGc1NLeHJPaHF0SGdpUzlVbEo0NmxpWDdCNUFfVDl6eGVlRVZEX1RSNEJmU1hfc3BacmtJMTJmZE5jRTNpVUUtcG9qRnJ1S09RQWRfbldHM1VfeURmS000QXpJOTlVUElJdHZ4RFhtTVg4dUNUXzhhdWVEdnNNU0xINlV6T3EyWURNNnZQd2QwRVN4WlF1WWkwbU1oX2VJTGhkTUlfeGdKU3hJbjdMbkQ3UXM0Z04zRTJ2RVlVcGVLTE1PanNTckxBZVc3dXdLUmtzSEtleGtwYnN3dkdSME5fZEtHMzJLcUd6S29ZYUIxbFFNdGVvSXd3Q2hIWUJIMF9DYXhETE5IamlIeDZaX05hWUg3MmI2dmRBT0pBQ0J5MWRKN2ozWjBBMl8taGhjNWVNbE1TU1VlekJ5LWI3OXl5OFNURlYxYmV6TU5Yd1VteDFPQi1hX1lMN1gwVzl0dTQ1SlRZMUlsM0gyVlgzVkNyRDlJS3dwZXktOG1WY3laLXNLeG5Jel81V002UnVBX251NHlTR3VnajQzSk9NTG1YWVE?oc=5",
      "source": "Masrawy",
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "\"أهمّ قضية في حياة عميلة لدى مكتب التحقيقات الفيدرالي\"",
+     "url": "https://www.bbc.com/arabic/articles/c64gn842qg0xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-26T02:41:48.000Z",
+     "seen": "2026-11-26T02:53:32.154Z"
+    },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه في البنوك اليوم الخميس",
      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQeHFNaFBfYW9qSkpJd1c5TGUxVVVtSVJLTDFpbVl1YkpxOTlEdzFyS0UwaVBFaTRqc2R5T1dSRTFzQ0JwdlZFdnFYN2c0UmRVamN0U0Eyd281am9KYXQ4aTZiWXc3VkZXcnpiMHNYbkdzV25CR2ZobVp2TjFSZjFnN0F5U053R1ctWE9xVnNNenBnY1ZrNEFPand1ZE5jMzV4bXptTndNSVJEVHhULVpHejlaU1EwM21wcGdlX0NURE5hYWVpbXJFRFJfNzY2RkZ5VEhTbEdwaXRGLWlPMkdxdjlMU1MyRFI5aW9CeTY3QkFGVmRpSGZlUkxuMlJwdGNhYlo1M0lvMUk3OHkxMDM4cnpvd3lndXpZbkdWZFB4dWN3YkZDZW5oaURKV0xmUGtkUFZobWdNSm14UXNwLTR5Z3JjcVFlNXVKOEc4RDJSYndBbVhzTkRQVUJiV2NhMnFTekp6OHJudnpNcHRMNFRMcnhQd0JFQ1hYMFpzQjhjNVRVQmlCVVFud2xVcWxxRC0yZkpYX1Vlb2RleWZ6eGhVOWtGRWtoSzBYT2VtRXlCbmRRcDBKNzh0MHZsMXkzWGdEdVQ5Y01vd3dWaTZfOXhTWEpTQkhQWWlUTGfSAdoDQVVfeXFMUHhxTWhQX2FvakpKSXdXOUxlMVVVbUlSS0wxaW1ZdWJKcTk5RHcxcktFMGlQRWk0anNkeU9XUkUxc0NCcHZWRXZxWDdnNFJkVWpjdFNBMndvNWpvSmF0OGk2Yll3N1ZGV3J6YjBzWG5Hc1duQkdmaG1adk4xUmYxZzdBeVNOd0dXLVhPcVZzTXpwZ2NWazRBT2p3dWROYzM1eG16bU53TUlSRFR4VC1aR3o5WlNRMDNtcHBnZV9DVEROYWFlaW1yRURSXzc2NkZGeVRIU2xHcGl0Ri1pTzJHcXY5TFNTMkRSOWlvQnk2N0JBRlZkaUhmZVJMbjJScHRjYWJaNTNJbzFJNzh5MTAzOHJ6b3d5Z3V6WW5HVmRQeHVjd2JGQ2VuaGlESldMZlBrZFBWaG1nTUpteFFzcC00eWdyY3FRZTV1SjhHOEQyUmJ3QW1Yc05EUFVCYldjYTJxU3pKejhybnZ6TXB0TDRUTHJ4UHdCRUNYWDBac0I4YzVUVUJpQlVRbndsVXFscUQtMmZKWF9VZW9kZXlmenhoVTlrRkVraEswWE9lbUV5Qm5kUXAwSjc4dDB2bDF5M1hnRHVUOWNNb3d3Vmk2Xzl4U1hKU0JIUFlpVExn?oc=5",
@@ -306,14 +313,6 @@
      "source": "BBC عربي",
      "time": "2026-11-25T22:26:07.000Z",
      "seen": "2026-11-25T20:53:15.304Z"
-    },
-    {
-     "title": "سماع دوي انفجارات في الرياض، والحوثيون يستهدفون ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
-     "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-25T22:16:07.000Z",
-     "seen": "2026-11-24T23:11:28.017Z",
-     "impact": "يهم المستثمرين لمتابعة استقرار سلاسل الإمداد وحركة الملاحة والموانئ في البحر الأحمر."
     },
     {
      "title": "«الرقابة المالية» توجه بسرعة صرف تعويضات ضحايا حريق الطريق الدائري",
@@ -421,6 +420,14 @@
      "seen": "2026-11-26T02:03:31.753Z"
     },
     {
+     "title": "سماع دوي انفجارات في الرياض، والحوثيون يستهدفون ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
+     "url": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-25T22:16:07.000Z",
+     "seen": "2026-11-24T23:11:28.017Z",
+     "impact": "يهم المستثمرين لمتابعة استقرار سلاسل الإمداد وحركة الملاحة والموانئ في البحر الأحمر."
+    },
+    {
      "title": "\"أطفال الفجر\"ـ جدل حول مبادرة اصطحاب قاصرين إلى صلاة الصبح",
      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQ0VIRk1FVmNyTGpyUVo5cFB6ZG1RLUMzeGtTOHVhS0NWN09hMjNoUEc4cW8zWnhGbmM0dUlpd1RKQVYzTFFaNGhCTkpNVGk4RmJQemdYTlVrMEJVN29FZThSd0o1cHRvLXlKVFNBMEQwd0pKUjUya2xQYXBwaEk3dHV3cVNmWUhyWW80am5fd3pYVjh1Rld5TXFLVmxueS1wcXlsclE5eVU1QmFnZTdKckJpM0tXaFRITmRlcmpHOENORjhqOXk1QW52dzhIazZxTU9VNmk2V0JPYjZxVFJZOUFMdEhtdmNGbDRlRVZVUFdxWXFHZS1ycXhRSGFQZFNDdTBwM3lyWU1IdU1EWG5DLVpDZExfNzVrWDNNOHhRWTRSYnRpYVNjWTc1YnFhaHVSbzFaRUJfcEpGTXlMcjdIS1V1WG4tOURMM2pVekUzQmJTVUhQM2VhZmUya3h1Q2EzMWxCX3lXNF9hTlFvd2FMOHhTWkpVYW94dHFTNjZFVHFsbV9KTGpMN3pFQWZNVUZpNVVCbXZVT1dNbU5LTVFsTWtxNWVQRzhGZTc1SldGSnZfMmNOSkdjbVNGTWQydkpsd2U4VW41aVo5clJXUXBMNnR4SUVGeDZMazdibUZnZ2diOUxWNHcwSkQxMA?oc=5",
      "source": "DW.com",
@@ -440,14 +447,6 @@
      "source": "الجزيرة",
      "time": "2026-11-25T21:19:06.000Z",
      "seen": "2026-11-26T00:53:31.578Z"
-    },
-    {
-     "title": "مصر.. السيسي يُصدر \"توجيهاً\" بعد حادث حريق دائري الوراق",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/egypt-sisi-incident-warraq-ring-road",
-     "source": "CNN بالعربية",
-     "time": "2026-11-25T21:05:45.000Z",
-     "seen": "2026-11-25T21:13:16.212Z",
-     "impact": "يهم المواطنين لمتابعة رد الفعل الرسمي والتوجيهات الرئاسية في إدارة أزمات الحوادث الكبرى."
     }
    ]
   },
