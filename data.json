@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:23:53.507Z",
+ "updated": "2026-11-26T08:33:53.501Z",
  "minute": [
   "استقرت أسعار صرف الدولار والعملات الأجنبية في البنوك المصرية والبنك المركزي في بداية التعاملات.",
   "أصدرت الحكومة المصرية قراراً باعتبار مشروع تطوير الطريق الدولي الساحلي من أعمال المنفعة العامة.",
@@ -10,52 +10,54 @@
   "at": "2026-11-26T08:13:53.488Z",
   "model": "gemini-3.8-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T08:33:53.501Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.72,
-   "change": 0.98,
-   "asOf": "2026-11-26T08:23:54.000Z",
+   "value": 54.7,
+   "change": 0.95,
+   "asOf": "2026-11-26T08:36:30.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5532,
-   "change": 2.64,
-   "asOf": "2026-11-26T08:13:47.000Z",
+   "value": 5527,
+   "change": 2.55,
+   "asOf": "2026-11-26T08:26:37.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6316,
-   "change": 2.64,
-   "asOf": "2026-11-26T08:13:47.000Z",
+   "value": 6311,
+   "change": 2.55,
+   "asOf": "2026-11-26T08:26:37.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3594,
-   "change": 1.64,
-   "asOf": "2026-11-26T08:13:47.000Z",
+   "value": 3592,
+   "change": 1.59,
+   "asOf": "2026-11-26T08:26:37.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50559,
-   "change": 0.04,
-   "asOf": "2026-11-26T08:08:49.000Z",
+   "value": 50580,
+   "change": 0.08,
+   "asOf": "2026-11-26T08:21:37.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,7 +66,7 @@
    "unit": "$",
    "value": 1.0973,
    "change": 0.1,
-   "asOf": "2026-11-26T08:23:45.000Z",
+   "asOf": "2026-11-26T08:35:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -73,7 +75,7 @@
    "unit": "$/برميل",
    "value": 90.81,
    "change": -4.02,
-   "asOf": "2026-11-26T08:13:33.000Z",
+   "asOf": "2026-11-26T08:26:32.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60624,
-   "change": 0.41,
-   "asOf": "2026-11-26T08:23:52.000Z",
+   "value": 60564,
+   "change": 0.31,
+   "asOf": "2026-11-26T08:36:34.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أمير هشام: الأهلي اختار الطريق الأصعب.. والبدري كان الخيار الآمن للعودة للمنافسة",
-     "url": "https://www.elbalad.news/7195107",
+     "title": "استغاثات وبلاغات اختفاء بعد حريق دائري الوراق.. أسر تبحث عن ذويها في المستشفيات ومصير مجهول لعدد من المفقودين",
+     "url": "https://www.elbalad.news/7195121",
      "source": "صدى البلد",
-     "time": "2026-11-26T08:23:46.000Z",
-     "seen": "2026-11-26T08:23:53.507Z"
+     "time": "2026-11-26T08:32:43.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
     },
     {
-     "title": "نائب محافظ البحر الأحمر تترأس الاجتماع الأول للجنة التنسيقية لمناهضة العنف ضد المرأة",
-     "url": "https://www.elbalad.news/7195102",
+     "title": "سيارات بديلة وشهادات استثمار.. رئيس الوزراء يطمئن على المصابين في مستشفى الشيخ زايد التخصصي",
+     "url": "https://www.elbalad.news/7195119",
      "source": "صدى البلد",
-     "time": "2026-11-26T08:23:44.000Z",
-     "seen": "2026-11-26T08:23:53.507Z"
+     "time": "2026-11-26T08:32:42.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
     },
     {
-     "title": "إزالة 82 حالة تعد على الأراضي الزراعية بقنا",
-     "url": "https://www.elbalad.news/7195086",
+     "title": "«شوبير» يرد على غضب الإعلام المغربي بعد رحيل «عموتة» عن الأهلي",
+     "url": "https://www.elbalad.news/7195117",
      "source": "صدى البلد",
-     "time": "2026-11-26T08:23:13.000Z",
-     "seen": "2026-11-26T08:23:53.507Z"
+     "time": "2026-11-26T08:31:42.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
+    {
+     "title": "الكلية التكنولوجية بجامعة حلوان الدولية تمنح طلابها 80 فرصة تدريبية",
+     "url": "https://www.youm7.com/story/2026/11/26/الكلية-التكنولوجية-بجامعة-حلوان-الدولية-تمنح-طلابها-80-فرصة-تدريبية/7632914",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T08:25:00.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
+    {
+     "title": "مدبولي يطمئن على مصابي حريق الوراق.. ويعلن شهادات استثمار وسيارات بديلة للمتضررين",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGOHY1bUREZVYtWkZKY2Y4V0Zsc056Um5oTzQ1UmhCYUJyNk85cld5UGxJaExzcTFkc3d6V0ZyYmh5UjhwZTlN?oc=5",
+     "source": "فيتو",
+     "time": "2026-11-26T08:25:00.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
+    {
+     "title": "دار الإفتاء تختتم 74 مجلسًا علميًا لشرح كتاب «التمهيد» في عامين",
+     "url": "https://www.youm7.com/story/2026/11/26/دار-الإفتاء-تختتم-74-مجلسًا-علميًا-لشرح-كتاب-«التمهيد»-في/7632917",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T08:24:00.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
     },
     {
      "title": "بالصور.. هاني سعد يشارك في أمسية السفارة الإيطالية بالقاهرة بحضور الفنانة درة",
@@ -166,18 +189,11 @@
      "seen": "2026-11-26T08:23:53.507Z"
     },
     {
-     "title": "الجريدة الرسمية تنشر قرار اعتماد برنامج الذكاء الاصطناعى بمعهد الزرقا",
-     "url": "https://www.youm7.com/story/2026/11/26/الجريدة-الرسمية-تنشر-قرار-اعتماد-برنامج-الذكاء-الاصطناعى-بمعهد-الزرقا/7632857",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T08:21:00.000Z",
-     "seen": "2026-11-26T08:23:53.507Z"
-    },
-    {
-     "title": "بمزايا متعددة.. «العمل» تعلن عن 1440 فرصة جديدة بمجال نقل وأمن الأموال",
-     "url": "https://www.youm7.com/story/2026/11/26/بمزايا-متعددة-«العمل»-تعلن-عن-1440-فرصة-جديدة-بمجال-نقل/7632854",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T08:19:00.000Z",
-     "seen": "2026-11-26T08:23:53.507Z"
+     "title": "مدبولي ووزيرا الصحة والتضامن يتفقدون المستشفيات للاطمئنان على مصابي حادث الدائري بالوراق",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uYnpjTmc5NlNfS3JHSG9JUDI0b2NBTEdOTlpzWkE4YUNxeWpMWFQ4aFVTUFotYzZEZ21GM2NQUmtjZlpyQmFVVTVEYkNjNVV0SDhjNURMX2pqQllm?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-26T08:12:25.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
     },
     {
      "title": "بعد حادث القاهرة.. 7 خطوات للسلامة عند انقلاب صهريج وقود",
@@ -220,20 +236,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-26T01:22:00.000Z",
      "seen": "2026-11-26T07:03:53.455Z"
-    },
-    {
-     "title": "بعد مشهد بحثه عن شقيقه أمام سيارته المتفحمة.. ياسر جلال يتبرع بـ200 ألف جنيه",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YckpCWko1WkRNTW01Z2ZOMWpNdFBZMFpRZFFtXzQyOXFZVV83alNPYndyNEZCOWh0WTk4ZXZKWmNMQWo2VnZLR1FsQ19FZUZBdzNaZzRld0Fucm1DN3h3?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-26T01:08:00.000Z",
-     "seen": "2026-11-26T07:03:53.455Z"
-    },
-    {
-     "title": "قصة مؤثرة في حريق الجيزة.. محاولة إنقاذ تنتهي بمأساة",
-     "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQM0FkcFhLZVc2dE5iR3M1VUg5Z0FGMmw1OUtxU1UtTVZzOEJGUk9JMnlEVEVDR04zZTlKN1JZZnpia3JLRGIyNGdQMTZhVnRFZzltb3FENGFRcUNTV0tzMXZGbG1XMllvUDdxM0xoU2ZwTGY3aDBNU2tfQmlsbGxQLW1oNmZPRjhTdTZEV3haY3hZbW0wbDBGZGxfUUE1dW4zSklXNERTZkg3MzhNRzVteHY0SFUzNUZBQzgtMURzYjhyVTR4ZkcxQk02Rm56WHhndWhac0hkX2VfN2gtZ2pjYkRYdHlPbjJ1bl81c25jMUpSQ1hhRjVNS1VzSXVDWHJhUFc3YUdjaFoySXdVdXdMWFpicjhuWHViZkduSm9hN08wbjUxUmJjS18yZkd3TVdmN1ZWeVJfTG9DTHJ3VDBFTklpbmN4TDc0RU5VUnluSmxIbk0yZFJkRFVQOWtmTDZPR1pxaWJBLVYtZ2JxbG15ajA4NE13ZmpCODV3N2owX2ZBRUFuNzhPc09aS2xqVnJHZlBSaUdCU0djNGpzNW1Qc1lyZy0xVlo2M1lBT2ZGd3dNcEdESUV2Nm1sWGQyQUtXOVZGa9IBygNBVV95cUxNTzVPeE9ySzk0V2Z2OEFNUWhkQXlVOGkwSGtLaHRtQ3cxckxRTVNHTHphTXVIX2FyeTVDU3lfLXZBZTBwMzdlcTBoQmhBb1ExaldpcTBPYjZFaFJmTUV3UzFoS1REbzdkUkVUa1dldUVRN2RtM0lBM25kcGZqcV90Y0FKblF2S051cndzMVFxUC01b2VNOG1DNEVWYXdSWFlyX1Rfa0Npb2hxVmNsN1JZWXh4Mzlwd08yMFhYaF9QaTRFU2xSanFhbDBybkZkQjl6UzlNSmYwNTQ1d1g3aVluWmFFSndvcDRlNnBvR3lDN1RrSHBCTlFXSGp5N1lLMEM1aE92dkZtYW9QQjVRVGoyRktwSzBpRDlGeW1oRDhkQ1lrOFlMWGo3Z1RKV1JtQXpuYm85MGFCYnpJem9BYjN1MFpMbWZVUG1wMzNtVVFFRWJ3M3JGMEZHNGlwalVld1JxUjFzblM4cDhyTDBTeFFGT25HR04wVDRwZ25xVVFlaGtkM0FsYi1GVzA3TE9QaVpwN1NFaUtiZ0ZHOF9WTFZ2cEdTOGdjWjEtdlBMTHc2WFcyWGZDOXlMTUJhdmJSMGFyS2RNaUpIcTR6QQ?oc=5",
-     "source": "العربية",
-     "time": "2026-11-26T00:12:00.000Z",
-     "seen": "2026-11-26T06:43:53.997Z"
     }
    ]
   },
@@ -308,6 +310,13 @@
      "seen": "2026-11-26T08:03:53.591Z"
     },
     {
+     "title": "سعر الذهب اليوم الخميس 26 نوفمبر 2026 في مصر.. هدوء في محلات الصاغة",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOb1hJTjk5bEpFT0NyVmJPS2ZSZ2h0R04wUFVlbzZsbEYxSGtVcmxsR2N4UWM1U1BFdEprczM1UnV3UW8xclpJZkJVVDQ5QkdKSG1yclY5Ym1RZGVRTUdOVk9JMkozWUJsU0xTQzluSmgzdnZ4XzNWUDZaTnFjU2N3TEItbHBnYjAtb0d2X0hoRkdSVHlwbGNvcl9XZFhxTGdXelZmRjRkM29vSmk4UHAyejhnbzlidHVfaWVmMzNZa3hHbXZhSS1adm8wSDVZUjFHNHlEX3Z5Z2poVkpkWGV4Z0R5b2lmRkcwX2hEdjVDQ0dTX1VBTDg3UzNsS1M4TGVnNVVjR3RyUk5KQmlHNnVmMHRPaGw5VFY1dHRJVVg3MWJIaFJSQld5WGdvazJ5M0NWNTIzNGlCU3FQUTVYRk1TTXpsSUR5NVJ5ZV9BWmdEb1FIbnhLT04yX3RMSEF6T3NSeWdWWW5qSm9ZbF9McDd0ZzhUMmZaNEN1RFdSTTdLc9IB-gJBVV95cUxNZmREcll5ekVIa3M2Y0Q1STJCT2xxbmpjWjlUQ0pRSWw4bU1iZUVBeTJOZU8taXVBa1NCeVhlZWVRWWQ5UFROTEplby1aT0p3ci1RNTZxRGQ5WEdpSDU1VGlUdDU1U2gzZHNEdkZYcU1PeEpMa0V0dTdxTFJPN2E3R1FFeEZUUXJXOWFVLWx5eVJqQVZaQVRqb2hCUGFCeUZIcWc1SDdQQ1hyanVCTWt6YzlRYUMzTk83bmNuVUwxMnNwY1pZTE5uZmxZNTZkWXdZcUxFR3N0U2VEd3Y3UjRLYVI4eHJFd3lEeVlEcnF3TmtwRkplcHNlTlk3dlBmaGtyaENKN0NzWW1BZjBmYVpuTzZDYVhrV1VUbnNNV1l2U1ZpNkxhZWNxSHlRckUzMnJvdUk5UE9mbDdpUV9PckZWQzBMRjNJaWxnU0dmQjJjTmdHa1huREVNYXAyeUxTN25fREc2STF3aHBIOEtoRnZCRHhxRkQzRlplSEE?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T07:00:00.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
+    {
      "title": "سعر الدولار الأمريكي أمام الجنيه اليوم الخميس 26 نوفمبر 2026.. كم وصل؟",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VbEJwWHZBWmNSNGk0VUEzSjk4QmNreHVxYTYwSGEzMS1GMVBJNHNMQXVtcmpXNS1VeFZUVGhCNG5jQXl4RjJyM0xjT3VpZXFvTEd0WlV6dndqdV9leGswNk1PQ3h1cV9RajdORTFoeVZsSi1RMVE?oc=5",
      "source": "قناة صدى البلد",
@@ -335,13 +344,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-26T06:01:42.000Z",
      "seen": "2026-11-26T08:13:53.488Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الخميس 26 نوفمبر 2026 في البنوك المصرية.. استقرار العملة الأمريكية",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9SWUpCVG1XV0R0T2FwTWpqcDFWQUdVWGFCLTRWdElnbkNxU0gxdElENGs2RHlPVVJWRGluUVBoRjVQb002?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-26T05:40:00.000Z",
-     "seen": "2026-11-26T05:23:31.787Z"
     }
    ]
   },
@@ -349,6 +351,27 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "بورما ترفض الامتثال لبنود من قرار محكمة العدل الدولية تعتبرها \"غير مناسبة\" بشأن الروهينغا",
+     "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20261126-%D8%A8%D9%88%D8%B1%D9%85%D8%A7-%D8%A8%D8%A8%D9%86%D9%88%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%87%D9%8A%D9%86%D8%BA%D8%A7-%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-26T08:31:20.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
+    {
+     "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-26T08:27:00.000Z",
+     "seen": "2026-11-26T06:03:31.861Z"
+    },
+    {
+     "title": "\"كارثة الوراق\" تسلسل الأحداث",
+     "url": "https://www.skynewsarabia.com/middle-east/1907247-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82-%D8%AA%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-26T08:26:22.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
     {
      "title": "\"جهل بجغرافيا البحر\".. قائد بحري إيراني يرد على ادعاء حصار بلاده: لا يمكن السيطرة على المنطقة من مدخل الخليج لسواحل عُمان",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/iran-denies-being-besieged-by-sea-according-to-a-naval-commander",
@@ -394,13 +417,6 @@
      "impact": "يهم مستخدمي الطرق وقائدي المركبات لمتابعة النقاش العام حول سبل تعزيز السلامة وتفادي حوادث السير."
     },
     {
-     "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-26T06:59:00.000Z",
-     "seen": "2026-11-26T06:03:31.861Z"
-    },
-    {
      "title": "النبي محمد ومناصرة حقوق المرأة.. رواج تدوينة لرئيس إيران وسط ضجة جلد المغنية باراستو أحمدي لعدم ارتداء حجاب",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/islam-prophet-mohammad-woman-rights-iran-femal-singer-post-masoud-pezeshkian",
      "source": "CNN بالعربية",
@@ -412,13 +428,6 @@
      "url": "https://www.skynewsarabia.com/middle-east/1907207-%D8%B4%D8%A8%D9%87%D8%A9-%D8%AA%D8%B7%D9%87%D9%8A%D8%B1-%D8%B9%D8%B1%D9%82%D9%8A-%D8%AA%D9%84%D8%A7%D8%AD%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%BA%D8%B1%D8%A8-%D9%83%D8%B1%D8%AF%D9%81%D8%A7%D9%86",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-26T06:22:48.000Z",
-     "seen": "2026-11-26T06:23:53.761Z"
-    },
-    {
-     "title": "ترامب وأمين عام حلف \"الناتو\" يدعوان روسيا لتجنب \"توسيع نطاق الحرب\" في أوكرانيا",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261126-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B9%D8%A7%D9%85-%D8%AD%D9%84%D9%81-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
-     "source": "فرانس 24",
-     "time": "2026-11-26T06:10:01.000Z",
      "seen": "2026-11-26T06:23:53.761Z"
     },
     {
@@ -436,13 +445,6 @@
      "seen": "2026-11-26T05:53:31.372Z"
     },
     {
-     "title": "نفط كردستان ومعابره.. بغداد وأربيل على حافة التصعيد",
-     "url": "https://www.skynewsarabia.com/middle-east/1907197-%D9%86%D9%81%D8%B7-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D9%85%D8%B9%D8%A7%D8%A8%D8%B1%D9%87-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A3%D8%B1%D8%A8%D9%8A%D9%84-%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-26T05:37:06.000Z",
-     "seen": "2026-11-26T05:43:32.196Z"
-    },
-    {
      "title": "هل يقترب آيزنكوت من إنهاء حكم نتنياهو في إسرائيل؟",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iTU4xcXpqVXJiN09YeWV0SWZyNWxOLW5lQTd4UWpETE5ZV2FuLVB0ZjhoRWh1a2dsbTZiQmg5T2dyMXhxeDhQU1QzSV9CQWZ6cUtvLXJ1cXNPWUtrNEHSAWNBVV95cUxNWDdDVW9UempNVktWSU5ZamtjSUljdldWZm14V00zdXF0NVlJSEhtb3lqdENocHIwMHg3WVJGeUZnb2h5Wk5EZ3RSS0x1N2ZJNjBaa3h6S04zaFFqczVwZWpDWDQ?oc=5",
      "source": "BBC",
@@ -455,6 +457,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "مصر تضبط استخدام الذكاء الاصطناعي في الجهات الحكومية",
+     "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQLWhaczBhRW5UYW8xVUZfaHFHSGpZQWpZcXgyeXFjSndmS2Y4aTJJNWk3T1d1OVpiSFBpbV80b0NscENjbHJrTDJnbWgtZ1kxQ1dEdzRLN1dpNlc4dUw5YWFKSWYzd0hsQlVsa04yNWlmVm8tcTFic3ZJWXZGVkQySTlmQUJHaWpxUnB0cnhvelhaMlBDTTcwZW5FU1BxTEMtaUR1N3lnWWZOM3ZVd1FFUE91VTNCNjRBUWMzLWZ1X25KclEtZUdhTEhSZUNXWEROcGpFUl8tWXJqeFZxRWVTM1drY3lReWF3NGdYVXRVUTdkREJKSGhGOThrRXlXN2YwWVlRaGtRd2l4bHN3di1BcUpVNUk3TlFhOE5vWkg5a2J5MERfN0ZtWWkybi0wNEc1dkdkdTY2UVVBNGtVNlNJSWhmdk5pZkFCa0lsZlVnOXZkdnU3ZVFtTGZoeFVJdVFqSzdIdGlTeTVucHJra29aZDVhRW05MnE2RXk3ZmtNZ1JXbDlVTGpJbDZwM2tkUG4wZEk0c1pwUnhCZVhaekJ3U2phNElyQkJhVVNUTDF2N0hlTk9tSWF4dWFWOWtGQdIBwwNBVV95cUxNNnRmc3BvOGF5RkFUaFMzZUhZbTAxdkUzMXl3NktOSWtOVnhCckktVk1yQlVfWjJVdFMwWVVhTjBHLUhKdDNlV0kzeHpJME9YdzZDbGRQaW5RZFUzckZsakJKVjh4Zi1xV0JnSWtibEN2bWpkRnlPel9sU3d0SlNVemQ3WGlLV0tOQlc5N2xRZC1CQ1U1VFUxYTI3V1h4c0xERWRjVXVXYmtzSDBpWUkyZWVPVkFYdjV3bXVDSzl0NTg2bTlzcGZRbVlpdE44MkY1VkFUWHNFLXdBUFFEdXNIWHRWcHdNM3M3U0ZQTHcydzlRNER5OG5lVk9HMV9nNlZMUEw1SFhpZHYwNTR5RXBaMmR2WGs3N3IyUzFtaUNmeHIzeWptUnlOU2VUTE55cnprOXJwaDFMNXJsb2lGcVBGMUI4aldFUjVMemRGMVFDVDZiNEh2aXp6RWRXbElLT3MyQkVjaXB5U0wyRTNhS1RuaGRWT1BsUkNwWUlyNG1kcDV4U04xbkljRHFxcFV6WDBvbjRPSERyNWdXOEpHTnRwWXBuNXV2V243TDZRWWF3QlpYSGJ6bGtBb1A2Y3B4YWM1S0NZ?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-26T06:51:29.000Z",
+     "seen": "2026-11-26T08:33:53.501Z"
+    },
     {
      "title": "إيلون ماسك: كل طفل في أمريكا سيحصل على سهمين في شركة \"سبيس إكس\"",
      "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNRzNkbE9oOWktNEt4Q0RPbmlkMHVBRkZvLXVaVV92ZHcyTU1UOU1yMUVNX01kNTVFWGZxZGZ5R1N6MUNvVEhHdXpneFRsbWVhMGtIbjExVGlVME9ISHZRUWNwYTFFWjRpZkJGejFhS1ljeTRyRm1GdUFQZDBSSVZRZEtlWUtVTEJlN3l0WlQxZk5UamVsTHk5MzZfM0ZjUDdVZmhYQWVaX0VVRWw1cDFXS20wWVByOExnY2R5SUhwZFUyV0k5UmtpY3dDMGo2UnlhUXd1ZEc3WDZ2V3ZzYnRBMjU0c0l4QmdEYzBxZWhaU2gtR0tGY2E0RFdXNFVwaGVqalpVOTczbTV6bzFoN2R2VU9NQ0F1Q29WakpuTEZUTmhJUmVER1E1dVI4MGVSeks1U3g2V3BCZ3RMMS02YnNWNjJBbDVqSmhFQjZxU2xkaE50M1N0VUlVcXN1TGEybFFYeEFaOTRXZkN5RXlPMVF2RE8zWHo3Vk96cEVJcEZlaHBXcDJ5NlpndUFFMkVjSGhBbVB6TnRVV1k3LVk2M3FVU0dleDFpV3pHUy1BX3FFRHRtSG96RjZwbFdVR1A4UWpZSUpPWkVMSEhNRnN0RUJHVEstZzNWX1ViM1gzSTJHSWk5NWE4eTNZQWFyZHpvZUtSTGRYcXJzYmRLRHF5RHFLRVM3SmJUV1BpaDJDam1BUTNtQdIBlwRBVV95cUxPZkk4UGxMME9WZTc5S0hoejFaSlFITGFHbDBlZFRsUnZJdjlTdVZCX3RaM2o1cEg0WGZKRXhOdG9qVDYxZnZPY0FUWUozekNDV2ktbG44SmRrWTJuemNoNzhDVXdadl9HTTNIaEp2Wk1GcExnSVJUbHpQUDF3cUI3eXZMamd5bGJuY093cS1xb3dtbE1meXBadzNVR0RTU0dZb3pfX1lyT0dqUXdCTDlqUEtLOWlVbXlyb1JUNy1BYWJzMmlSSWQ1dFhlT0YwUjFmQUJORzRYSlNoNkRDbmpaVTJMYUtlU3BmRld4ZGlBeDRCVUwzMGgyQmZoV2RXbUtMYmMwbnd0OE90aWo1alF2NTJtb2hHbG92Rk56UFhyYTlZSG5zdHdkREMtOGM0T1BRV2pWeV9MdWIwQ0RoN0Ribk5SNGFZc1c5NnNIMzMwTzVROVk0VHA5d0pUYU8tN182aGtNUXQ0dDlJcXAwU0JoQTRaYm9QT3RkUWoyTVp1bzZzVDF4ZHY0M21Sd1RZU0V6elRKdk55bkdfR0lFRWdNSTBVWjRYYTRPdFRpTmFpR1VGXzdmY3VUVDNwT2U3ZVk4SUlnOGtkeDJCZGt3enQxMTNHXzJndHpNX284SzRNcW5SRF9PNllkRFZ2dm8zVE1PQnFFVFg4Y3kxMVdPRGpiWWl0LVFiMTIwX3VUYkhBOUJJMjUtM3dF?oc=5",
@@ -547,13 +556,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-25T22:58:00.000Z",
      "seen": "2026-11-26T02:33:31.397Z"
-    },
-    {
-     "title": "مصر تضبط استخدام الذكاء الاصطناعي في الجهات الحكومية",
-     "url": "https://www.msn.com/ar-ae/news/other/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9/ar-AA2igsnb",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-25T22:50:26.000Z",
-     "seen": "2026-11-26T08:13:53.488Z"
     }
    ]
   }
