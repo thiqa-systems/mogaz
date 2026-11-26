@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:04:17.909Z",
+ "updated": "2026-11-26T12:14:17.398Z",
  "minute": [
   "شهدت مصر متابعة لتطورات حادث الطريق الدائري بمنطقة الوراق مع ضبط المتهم المتسبب في الحادث، إلى جانب التأكيد على ترسيخ الشراكة الاستراتيجية بين مصر وقطر.",
   "استقرت أسعار العملات الأجنبية والعربية مقابل الجنيه المصري في البنك المركزي، وسجل الدرهم الإماراتي 14.87 جنيه للشراء.",
@@ -11,53 +11,53 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-26T12:04:17.909Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T12:14:17.398Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.77,
-   "change": 1.08,
-   "asOf": "2026-11-26T12:05:42.000Z",
+   "value": 54.75,
+   "change": 1.04,
+   "asOf": "2026-11-26T12:13:18.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5538,
-   "change": 2.75,
-   "asOf": "2026-11-26T11:55:42.000Z",
+   "value": 5542,
+   "change": 2.81,
+   "asOf": "2026-11-26T12:04:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6323,
-   "change": 2.75,
-   "asOf": "2026-11-26T11:55:42.000Z",
+   "value": 6327,
+   "change": 2.81,
+   "asOf": "2026-11-26T12:04:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3595,
-   "change": 1.66,
-   "asOf": "2026-11-26T11:55:42.000Z",
+   "value": 3598,
+   "change": 1.76,
+   "asOf": "2026-11-26T12:04:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "egx30",
    "name": "البورصة المصرية EGX30",
    "unit": "نقطة",
-   "value": 50266,
-   "change": -0.54,
-   "asOf": "2026-11-26T11:50:48.000Z",
+   "value": 50276,
+   "change": -0.52,
+   "asOf": "2026-11-26T11:59:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0975,
    "change": 0.12,
-   "asOf": "2026-11-26T12:05:45.000Z",
+   "asOf": "2026-11-26T12:13:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.93,
-   "change": -3.89,
-   "asOf": "2026-11-26T11:54:59.000Z",
+   "value": 90.83,
+   "change": -4,
+   "asOf": "2026-11-26T12:04:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60780,
-   "change": 0.67,
-   "asOf": "2026-11-26T12:05:53.000Z",
+   "value": 60572,
+   "change": 0.32,
+   "asOf": "2026-11-26T12:14:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "استثمارات الشركات الأسترالية تسجل أكبر زيادة منذ 15 عامًا بدعم من طفرة مراكز بيانات الذكاء الاصطناعي",
-     "url": "https://www.elbalad.news/7195380",
+     "title": "وكيل صحة الفيوم يحيل المتغيبين عن العمل بوحدة الروضة الصحية للتحقيق",
+     "url": "https://www.elbalad.news/7195378",
      "source": "صدى البلد",
-     "time": "2026-11-26T12:03:52.000Z",
-     "seen": "2026-11-26T12:04:17.909Z"
+     "time": "2026-11-26T12:14:02.000Z",
+     "seen": "2026-11-26T12:14:17.398Z"
     },
     {
-     "title": "مصطفى بكري يتقدم ببلاغ لمباحث الإنترنت ضد 15 شخصا بتهمة السب والقذف",
-     "url": "https://www.elbalad.news/7195374",
+     "title": "الدولار يرتفع من جديد اليوم الخميس .. أعلى سعر للبيع في هذا البنك",
+     "url": "https://www.elbalad.news/7195384",
      "source": "صدى البلد",
-     "time": "2026-11-26T12:03:36.000Z",
-     "seen": "2026-11-26T12:04:17.909Z"
+     "time": "2026-11-26T12:10:18.000Z",
+     "seen": "2026-11-26T12:14:17.398Z"
     },
     {
-     "title": "تأهل 5 لاعبين من منتخب مصر إلى نهائيات الفردي في البطولة الأفريقية لجمباز الأيروبيك",
-     "url": "https://www.elbalad.news/7195376",
+     "title": "بطل حريق دائري الوراق يكشف تفاصيل اللحظات الأخيرة قبل الحادث: كنت شغال دليفري وركبت شخص عشان أوصله",
+     "url": "https://www.elbalad.news/7195381",
      "source": "صدى البلد",
-     "time": "2026-11-26T12:03:36.000Z",
-     "seen": "2026-11-26T12:04:17.909Z"
+     "time": "2026-11-26T12:08:05.000Z",
+     "seen": "2026-11-26T12:14:17.398Z"
+    },
+    {
+     "title": "وزارة الصحة تكشف آخر تفاصيل بشأن مصابي حادث الوراق: 21 حالة تواصل العلاج",
+     "url": "https://www.youm7.com/story/2026/11/26/وزارة-الصحة-تكشف-آخر-تفاصيل-بشأن-مصابي-حادث-الوراق-21/7633329",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T12:06:00.000Z",
+     "seen": "2026-11-26T12:14:17.398Z"
     },
     {
      "title": "الأزهر يحذر من نشر صور ضحايا الوراق: لا تجعلوا أحزان الأسر مادة لحصد المشاهدات",
@@ -172,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/26/قصة-شابان-حاولا-إنقاذ-الأرواح-وإبعاد-السيارات-عن-موقع-حادث/7633333",
      "source": "اليوم السابع",
      "time": "2026-11-26T11:57:00.000Z",
-     "seen": "2026-11-26T12:04:17.909Z"
-    },
-    {
-     "title": "مستشار الرئيس للصحة: الكشف المبكر للأورام يزيد نجاح العلاج",
-     "url": "https://www.youm7.com/story/2026/11/26/مستشار-الرئيس-للصحة-الكشف-المبكر-للأورام-يزيد-نجاح-العلاج/7633276",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T11:55:00.000Z",
      "seen": "2026-11-26T12:04:17.909Z"
     },
     {
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "الدولار يرتفع من جديد اليوم الخميس .. أعلى سعر للبيع في هذا البنك",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ea3hZR3k3U1RMSWpfQWI2a0N3UnFVWnozalR5ejF5U29zTHVIaTN0a205djFxamhXdWV6cTZCeXVHYUdjSDVj?oc=5",
+     "source": "صدى البلد",
+     "time": "2026-11-26T12:10:00.000Z",
+     "seen": "2026-11-26T12:14:17.398Z"
+    },
     {
      "title": "سعر الدولار اليوم الخميس 26/11/2026 أمام الجنيه المصرى يسجل 54.75 جنيه للشراء",
      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQbG5mV3FERHZMQi1vVkdjLVlyQ3ZZd0RVbzdlXzAwOVl1ZFo4c3c3V2U5RnpsZElaVnI1eXBMTjVhM3hIdDBOQllEd1Z0ZExQOGdmU3l5cGlqcFZOaVZRZFJsRXNLT3RKZ1B5d0s2aTJNQmtadlVpS2c4ZUFrREM1VTBfbVBSRTB3NTlaOTdHUVFCam5pb29XRmVTcEJsYmFQaEd0a1E5VWMzOG91NmdnZ2NYQUkwRGxscHhqUEU2eEVseXBwMlVDYUdsZ2JzeU0tbVZia3EwTkNIVTR5N25qX2x5aVEwR2ppMVh5c0ExakdqOHExeW5VVXpIWTE4V0o3MWplTnRUb2NpNE1hQU1pS3hsckVjRFVvTi1tV0YzS2lYTkk4Wk9pbk1xTTl0TjFGbXRESzEtVTh0ZHcxTWk0MFlmWUR2dThPUXV2YnJHZ3ZTcXk4aGtSeW5HZUV1M282cS1mMElmQmZPLW5sX2xGc0dtdGdYX2RXVDBoVFpaZkh1YW1QY0p3NHZWUDJ2Ukhqd2h6R0xSdF94UdIBlANBVV95cUxQV1k0VFYxTmhPanVDSVZTYlQtRjdSSDB3c3plWGMzYmVtQVFpcnpBeDd5Ry1xVFpqbGdhZHRQTnUtZEtJZWdvN1RqZDgzNG9TeFRrcWEyVGpzNW0zdDJFZ3lsR19sdjVWV1JFRklscnNpS0N4YVNQMThUU2NnVGRxcTl6TGJSNlJJUVZRMVY2SkxxNURybldYLWRZWks3bGcxT2FiUlpsX05CQXc5bzJSSUwwdXFZeUhHY2tnTThGVUxST2NfSmJMZWVYczlOZS00enNNbWQ4c3p3NTgxaXJ5aWdycF9LdGpDZ0ttcGN3RWFKSzlocm9NYkxfLTNZOTlxUmJfS1dCNVg1VEhvbm9xQlNpX2RBSTM0WlozY0tZcFZ3cTlaV2JBR1hnd3ZEeVJlUzYxeXNPZi1lUGJZSW9UekZob3dnenBQUDhJVVZmaTJBVHVRWWVlZWdMaUh6bWlNQWhMUVZDQlBfUm1Md2MzcDB5ZE15cTVqMzI5OGg3Vmg3aDdpYndyY2JhdzFPb0xNcjJtYQ?oc=5",
@@ -341,14 +348,6 @@
      "time": "2026-11-26T10:04:00.000Z",
      "seen": "2026-11-26T10:23:53.716Z",
      "impact": "يهم العاملين في دولة الكويت وأسرهم في مصر لاحتساب قيمة التحويلات المالية بالجنيه المصري عبر بنك مصر."
-    },
-    {
-     "title": "الدولار يقترب من 55 جنيهًا.. أعلى وأقل سعر للعملة الأمريكية بالبنوك اليوم",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAxay1zV1BuTG1KSDlSWVdiNzQtVUFmY0d5YTVZSGFsM1E5SFJkdkN1NVFLMTRLSVlQSjVnUTZtV2ZnMVZ5?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-26T10:01:02.000Z",
-     "seen": "2026-11-26T10:23:53.716Z",
-     "impact": "يمس المستثمرين والمستهلكين في مصر بشكل مباشر نظراً لارتباط مستوى سعر صرف الدولار بأسعار السلع والخدمات وتكاليف الإنتاج."
     }
    ]
   },
@@ -449,11 +448,11 @@
      "seen": "2026-11-26T11:43:53.447Z"
     },
     {
-     "title": "نتنياهو وكاتس يعلنان اغتيال مسؤول ملفي الاقتصاد والتعليم في \"حماس\" خالد أبو ندى",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/joint-statement-netanyahu-katz-eleminating-khaled-abu-nada",
-     "source": "CNN بالعربية",
-     "time": "2026-11-26T09:08:25.000Z",
-     "seen": "2026-11-26T09:23:53.466Z"
+     "title": "يوسف جبارين: إسقاط نتنياهو يمر عبر تحالف المعارضة مع الأحزاب العربية",
+     "url": "https://www.aljazeera.net/politics/2026/11/26/%d9%8a%d9%88%d8%b3%d9%81-%d8%ac%d8%a8%d8%a7%d8%b1%d9%8a%d9%86-%d8%a5%d8%b3%d9%82%d8%a7%d8%b7-%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%8a%d9%85%d8%b1-%d8%b9%d8%a8%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-26T09:09:12.000Z",
+     "seen": "2026-11-26T12:14:17.398Z"
     }
    ]
   },
