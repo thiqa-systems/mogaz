@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:23:31.755Z",
+ "updated": "2026-11-26T03:33:32.275Z",
  "minute": [
   "تشهد الأسواق المصرية استقراراً في أسعار الدولار والذهب، مع تشديد جهاز حماية المستهلك على إلزام التجار بوضع الأسعار بوضوح.",
   "تعتزم الولايات المتحدة فرض رسوم جمركية جديدة تصل إلى 20% على دول عدة، بالتوازي مع تطورات وإجراءات أمنية دولية وإقليمية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-26T03:13:32.270Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T03:33:32.275Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5553,
-   "change": 2.99,
-   "asOf": "2026-11-26T03:13:17.000Z",
+   "value": 5547,
+   "change": 2.86,
+   "asOf": "2026-11-26T03:23:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6340,
-   "change": 2.99,
-   "asOf": "2026-11-26T03:13:17.000Z",
+   "value": 6333,
+   "change": 2.86,
+   "asOf": "2026-11-26T03:23:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3608,
-   "change": 2.05,
-   "asOf": "2026-11-26T03:13:17.000Z",
+   "value": 3604,
+   "change": 1.92,
+   "asOf": "2026-11-26T03:23:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,16 +65,16 @@
    "unit": "$",
    "value": 1.0965,
    "change": 0.02,
-   "asOf": "2026-11-26T03:22:44.000Z",
+   "asOf": "2026-11-26T03:32:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.81,
-   "change": -4.02,
-   "asOf": "2026-11-26T03:12:32.000Z",
+   "value": 90.91,
+   "change": -3.91,
+   "asOf": "2026-11-26T03:21:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60670,
-   "change": 1.54,
-   "asOf": "2026-11-26T03:23:29.000Z",
+   "value": 60621,
+   "change": 1.46,
+   "asOf": "2026-11-26T03:33:31.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
+     "title": "القانون يحظر على وسائل الإعلام بث محتوى يدعو للعنف أو التمييز",
+     "url": "https://www.youm7.com/story/2026/11/26/القانون-يحظر-على-وسائل-الإعلام-بث-محتوى-يدعو-للعنف-أو/7631729",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T03:30:00.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
+     "title": "أمير هشام: حسام البدري رحب بتدريب الأهلي.. وعقده في طرابلس لم يكن عائقا",
+     "url": "https://www.elbalad.news/7194917",
+     "source": "صدى البلد",
+     "time": "2026-11-26T03:30:00.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
+     "title": "ما حكم قراءة المعوذتين في الصلاة دائمًا لعدم حفظ غيرهما؟.. الإفتاء توضح",
+     "url": "https://www.elbalad.news/7194208",
+     "source": "صدى البلد",
+     "time": "2026-11-26T03:30:00.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
      "title": "ضياء السيد: الأهلي يحتاج إلى ثورة في اختيار المدربين واللاعبين.. ورحيل عموتة تأخر كثيرًا",
      "url": "https://www.elbalad.news/7194945",
      "source": "صدى البلد",
      "time": "2026-11-26T03:15:00.000Z",
      "seen": "2026-11-26T03:23:31.755Z"
-    },
-    {
-     "title": "جمال حمزة يتحدث عن بيان لاعبي الزمالك.. وموقفه من شركة الكرة",
-     "url": "https://www.elbalad.news/7194920",
-     "source": "صدى البلد",
-     "time": "2026-11-26T03:12:00.000Z",
-     "seen": "2026-11-26T03:13:32.270Z"
-    },
-    {
-     "title": "طريقة عمل حواوشي السجق في المنزل.. وصفة سهلة بطعم مميز",
-     "url": "https://www.elbalad.news/7194829",
-     "source": "صدى البلد",
-     "time": "2026-11-26T03:10:00.000Z",
-     "seen": "2026-11-26T03:13:32.270Z"
     },
     {
      "title": "«السعر إنبوكس» يكلفك 500 ألف جنيه.. جهاز حماية المستهلك يتوعد التجار المخالفين",
@@ -173,13 +182,6 @@
      "seen": "2026-11-26T03:03:32.128Z"
     },
     {
-     "title": "شهيدان ومصابون بقصف شقة في دير البلح وسط تصاعد الغارات على غزة",
-     "url": "https://www.youm7.com/story/2026/11/26/شهيدان-ومصابون-بقصف-شقة-في-دير-البلح-وسط-تصاعد-الغارات/7632815",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T02:41:00.000Z",
-     "seen": "2026-11-26T02:43:32.088Z"
-    },
-    {
      "title": "مصر.. السيسي يُصدر \"توجيهاً\" بعد حادث حريق دائري الوراق",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1VLUHFJZVp6SE9PSHlPWFFQa3ZLRk8xWWstWjZiVFFxM3pRazNWVUpkUVV5R3JMcEgxVXI0TFZxV0pKRkRkSHMzRTUwUGF1RkpvcFRDc25pYUhEcFVkWDljLWxHWEw4OXJPYk5CWlJ1Tmc0ODktb004Q2xSSDByMmFNa052eXJiN242ZmhVaUJFUk14?oc=5",
      "source": "CNN Arabic",
@@ -194,6 +196,13 @@
      "seen": "2026-11-26T03:23:31.755Z"
     },
     {
+     "title": "متحدث الوزراء: استنفار طبي وإغاثي لاحتواء تداعيات حريق دائري الوراق",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXM4VV9DMGhacEtTODJzSzNINjFWMWE4U0pqZlk3SGlMcGRyM0pfTVdVSWpVRnFKVktNeWk5V2VXS0tUMFFDWlplUGNzeE9CREdMV1VKNlJGYnVUN0VjQ3NwSTQ0UFFXSHRtX09GMVhVOVAzendwSXNjYzlSTkVzZFFEVlJ6UnVKSGl6NDYtMEI4bWF1clhvaThTUlNuNVFWcVZDaHAtSkozU0NNTDBBZnZYRlBJWmRWWnVPb1NWLWtrSmhlZWN1a181dVU4TTlXYS1SOWNoWUpyeWZ0SWpTQzViVEFUVFVoZTliWlpBVzBNSGlnZXdzRTdCYUpOM3BOT1Vrd0kzUkVndXdENUNQeGpoeTA3NDZBemItalNSZGx6U2xiT2ZIYVVERUxrcUxVRk9KWFZORE1qNjZzS3lJaXFNT1MydjBBejZTOVlkREY3MEFZOGIyazRldVhKOXdlSEctVUpsT3V1RGdTR0w0NHhXXzlvVjVfQW83UzJ3?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-25T23:50:52.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
      "title": "وزير الاستثمار: نسعى إلى دعم المنشآت الفردية وتسهيل عملها",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNWHdoaDFoZGEzMGw0YXRpODlCZDA0alZucVNCX0JvbUdETHhQeDhSZDV3UVpjckZyOTVMZzZOR0R1aU9WLVJxNElaQXMzY205Rl9Dc0RIQjVrZVNWMTRsbGlsV0lNMUVhbGNjZUd1VEdEWnltSk1tNzVpaDhoZTBKb1VCaVBSMUJLVHdZUng5ZHhPRUozYlRLRU41VVFKTEpqaG9qT2dmbERHTEkxZHFjR0VIaHJLT0tNTllWRWE2US1uNkJSU3JUa01TdERORDhmUTRma2hzNHVaLWJmTnlSRzFsdVNhZHdsTEphYXZENDRfekpVOXgwZnJ4ZXdMLWlIbGJKMzZlS0gxbVRmTWlBeWdhVTN5R09pRmNsSWNKSlFIVVBXUkhjNmRHYWthaGdsVUwyUnFrQm1EOFI4MjhFSHRoRzNXVjFRQVJxVjdzZERGZlBwZTNOdS1RUFlfbVJTLTFLZWVJNkhDS1BRYzMyV054a3h3Y0U?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
@@ -206,13 +215,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-25T22:58:18.000Z",
      "seen": "2026-11-26T00:43:31.419Z"
-    },
-    {
-     "title": "وزير الاستثمار: تسيير إشكالية عقود التمويل القابلة للتحول إلى أسهم للشركات",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQSW5pN2JTRHF1SE5PbmphQ0NPZHBHSldvdXYxZnRUZlhDRnc4T0FuZnBtUXZTdnV1cGlXQk1nU0RleFdrMlJrXzdISGJKaTBoVlVwaUlrTll3aFpoamhfUHhQdk1kWFZTZnpWc2Zua2FjYkw4Nk9mWGo1MGxpR2IwQVQwOGpmOG9sY3g5SS1LN2UwTHctcFpGYmM5cjFCTURsQndwVzRqb0Fpam0xTXF3LVJHNDdFbFNyOFgybjRQRDRIS3AtTmJWZnpOc0kxaTdZTW1mVXVwTHFqMzRudFpCTWQ2Tm93RVJ3YmxQTHpNbklZRG8wcGNKeEh1Q1haMTlacFlXTnlUVHpFWWgxdnR2UUM5VXFTUTM2bFp4OUZ4dVVsaU1KZDVoV1VDQVNkS0l1ZUFQSXljNzZBcl9IejV0Ung5aGpnS2lrWXAzYVJsQ1pkV2ZTem45QlN1TmpIQXhuYlFQUUpyMEZQQko1UmVud3N3cXFtMGp6Sm9FOUZR?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-25T22:53:12.000Z",
-     "seen": "2026-11-26T02:33:31.397Z"
     },
     {
      "title": "رسائل مدبولي خلال مؤتمر تعديلات قانون الشركات",
@@ -351,6 +353,27 @@
    "title": "العالم",
    "items": [
     {
+     "title": "انحرفت عن الطريق ثم انفجرت.. مقتل العشرات في حادث ناقلة وقود بمصر",
+     "url": "https://arabic.cnn.com/middle-east/video/2026/11/26/v205971-at-least-31-killed-in-fuel-tanker-fire-in-egypt-digvid",
+     "source": "CNN بالعربية",
+     "time": "2026-11-26T03:25:02.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
+     "title": "أوكرانيا: قصف روسي يصيب 3 أشخاص في كييف وواشنطن توافق على دعم مقاتلات إف-16",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261126-%D8%A7%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%8A%D9%8A%D9%81-%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%84%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA-%D8%A7%D9%81-16-%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
+     "source": "فرانس 24",
+     "time": "2026-11-26T03:17:12.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
+     "title": "بعد سنوات من الخصومة.. أردوغان يستقبل حفتر في أنقرة وسط تقارب مع شرق ليبيا",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261126-%D8%A7%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D8%AD%D9%81%D8%AA%D8%B1-%D9%81%D9%8A-%D8%A7%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%82%D8%A7%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B4%D8%B1%D9%82-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA",
+     "source": "فرانس 24",
+     "time": "2026-11-26T02:30:18.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
+    },
+    {
      "title": "واشنطن تعزم فرض رسوم جمركية تصل إلى 20% على الصين والاتحاد الأوروبي ودول أخرى",
      "url": "https://www.france24.com/ar/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/20261126-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B1%D8%B3%D9%88%D9%85-%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-20-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
      "source": "فرانس 24",
@@ -387,25 +410,11 @@
      "seen": "2026-11-26T00:23:16.045Z"
     },
     {
-     "title": "اختطاف مواطن سعودي في النيجر على يد مسلحين يشتبه في انتمائهم إلى تنظيم \"الدولة الإسلامية\"",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/20261126-%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1-%D9%88%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87-%D8%A8%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B7%D9%81%D9%8A%D9%86-%D8%A8%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84",
-     "source": "فرانس 24",
-     "time": "2026-11-26T00:08:16.000Z",
-     "seen": "2026-11-26T00:13:15.548Z"
-    },
-    {
      "title": "لماذا تحتفي إسرائيل بعودة جنسن هوانغ إلى قيادة \"إنفيديا\"؟",
      "url": "https://www.aljazeera.net/news/2026/11/26/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%ad%d8%aa%d9%81%d9%8a-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a8%d8%b9%d9%88%d8%af%d8%a9-%d8%ac%d9%86%d8%b3%d9%86-%d9%87%d9%88%d8%a7%d9%86%d8%ba?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-25T23:24:46.000Z",
      "seen": "2026-11-26T03:03:32.128Z"
-    },
-    {
-     "title": "التحالف بقيادة السعودية يعلن اعتراض صاروخين باتجاه الرياض والحوثيون يتبنون استهداف ميناءي جدة وجازان",
-     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261125-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D9%86-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%AA%D8%A8%D9%86%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%8A%D9%86%D8%A7%D8%A1%D9%8A-%D8%AC%D8%AF%D8%A9-%D9%88%D8%AC%D8%A7%D8%B2%D8%A7%D9%86",
-     "source": "فرانس 24",
-     "time": "2026-11-25T23:18:10.000Z",
-     "seen": "2026-11-25T23:23:15.494Z"
     },
     {
      "title": "\"فجر اليمن\" توسع الضغط على الحوثيين.. بضربات مكثفة",
@@ -442,13 +451,6 @@
      "time": "2026-11-25T22:16:07.000Z",
      "seen": "2026-11-24T23:11:28.017Z",
      "impact": "يهم المستثمرين لمتابعة استقرار سلاسل الإمداد وحركة الملاحة والموانئ في البحر الأحمر."
-    },
-    {
-     "title": "\"أطفال الفجر\"ـ جدل حول مبادرة اصطحاب قاصرين إلى صلاة الصبح",
-     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQQ0VIRk1FVmNyTGpyUVo5cFB6ZG1RLUMzeGtTOHVhS0NWN09hMjNoUEc4cW8zWnhGbmM0dUlpd1RKQVYzTFFaNGhCTkpNVGk4RmJQemdYTlVrMEJVN29FZThSd0o1cHRvLXlKVFNBMEQwd0pKUjUya2xQYXBwaEk3dHV3cVNmWUhyWW80am5fd3pYVjh1Rld5TXFLVmxueS1wcXlsclE5eVU1QmFnZTdKckJpM0tXaFRITmRlcmpHOENORjhqOXk1QW52dzhIazZxTU9VNmk2V0JPYjZxVFJZOUFMdEhtdmNGbDRlRVZVUFdxWXFHZS1ycXhRSGFQZFNDdTBwM3lyWU1IdU1EWG5DLVpDZExfNzVrWDNNOHhRWTRSYnRpYVNjWTc1YnFhaHVSbzFaRUJfcEpGTXlMcjdIS1V1WG4tOURMM2pVekUzQmJTVUhQM2VhZmUya3h1Q2EzMWxCX3lXNF9hTlFvd2FMOHhTWkpVYW94dHFTNjZFVHFsbV9KTGpMN3pFQWZNVUZpNVVCbXZVT1dNbU5LTVFsTWtxNWVQRzhGZTc1SldGSnZfMmNOSkdjbVNGTWQydkpsd2U4VW41aVo5clJXUXBMNnR4SUVGeDZMazdibUZnZ2diOUxWNHcwSkQxMA?oc=5",
-     "source": "DW.com",
-     "time": "2026-11-25T21:58:43.000Z",
-     "seen": "2026-11-25T23:43:16.135Z"
     }
    ]
   },
@@ -457,25 +459,25 @@
    "title": "تكنولوجيا",
    "items": [
     {
-     "title": "ما هو Huawei Sense G1 وكيف تستخدمه؟ دليل لجهاز مراقبة السكر المستمر",
-     "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%85%d8%a7-%d9%87%d9%88-huawei-sense-g1-%d9%88%d9%83%d9%8a%d9%81-%d8%aa%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%87%d8%9f-%d8%af%d9%84%d9%8a%d9%84-%d9%84%d8%ac%d9%87%d8%a7%d8%b2-%d9%85%d8%b1%d8%a7%d9%82/",
+     "title": "تسريب: Honor Magic 9 Lite+ قادم ببطارية 9530mAh وكاميرا رئيسية 108MP",
+     "url": "https://www.tech-wd.com/wd/2026/11/26/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-honor-magic-9-lite-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-9530mah-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%b1%d8%a6%d9%8a%d8%b3/",
      "source": "عالم التقنية",
-     "time": "2026-11-26T03:22:49.000Z",
-     "seen": "2026-11-26T03:23:31.755Z"
+     "time": "2026-11-26T03:31:55.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
     },
     {
-     "title": "هواوي تحقق نحو 800 مليون دولار من ترخيص براءات الاختراع في 2025",
-     "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%ad%d9%82%d9%82-%d9%86%d8%ad%d9%88-800-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d9%86-%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5-%d8%a8%d8%b1/",
+     "title": "Honor تحدّث OneHop لنقل الملفات مباشرة مع هواتف Apple وOPPO وvivo وXiaomi",
+     "url": "https://www.tech-wd.com/wd/2026/11/26/honor-%d8%aa%d8%ad%d8%af%d9%91%d8%ab-onehop-%d9%84%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1%d8%a9-%d9%85%d8%b9-%d9%87%d9%88%d8%a7%d8%aa%d9%81-apple/",
      "source": "عالم التقنية",
-     "time": "2026-11-26T03:19:33.000Z",
-     "seen": "2026-11-26T03:23:31.755Z"
+     "time": "2026-11-26T03:29:02.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
     },
     {
-     "title": "تعرف على مواصفات Huawei Watch Air الكاملة",
-     "url": "https://www.tech-wd.com/wd/2026/11/26/%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-huawei-watch-air-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9/",
+     "title": "هواوي تشرح تقنية المفصلة المغناطيسية خلف شاشة Mate X8 المسطحة",
+     "url": "https://www.tech-wd.com/wd/2026/11/26/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b4%d8%b1%d8%ad-%d8%aa%d9%82%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%b5%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d9%86%d8%a7%d8%b7%d9%8a%d8%b3%d9%8a%d8%a9/",
      "source": "عالم التقنية",
-     "time": "2026-11-26T03:17:14.000Z",
-     "seen": "2026-11-26T03:23:31.755Z"
+     "time": "2026-11-26T03:25:59.000Z",
+     "seen": "2026-11-26T03:33:32.275Z"
     },
     {
      "title": "دروبال تحذر من ثغرة مستغلة تتيح السيطرة على مواقع رغم تحديثها أمنيًا",
