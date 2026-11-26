@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:34:17.802Z",
+ "updated": "2026-11-26T15:44:17.304Z",
  "minute": [
   "شهدت مصر متابعة لتطورات حادث الطريق الدائري بمنطقة الوراق مع ضبط المتهم المتسبب في الحادث، إلى جانب التأكيد على ترسيخ الشراكة الاستراتيجية بين مصر وقطر.",
   "استقرت أسعار العملات الأجنبية والعربية مقابل الجنيه المصري في البنك المركزي، وسجل الدرهم الإماراتي 14.87 جنيه للشراء.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-26T15:34:17.802Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T15:44:17.304Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5545,
-   "change": 2.87,
-   "asOf": "2026-11-26T15:24:12.000Z",
+   "value": 5548,
+   "change": 2.93,
+   "asOf": "2026-11-26T15:36:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6330,
-   "change": 2.87,
-   "asOf": "2026-11-26T15:24:12.000Z",
+   "value": 6334,
+   "change": 2.93,
+   "asOf": "2026-11-26T15:36:02.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3599,
-   "change": 1.78,
-   "asOf": "2026-11-26T15:24:12.000Z",
+   "value": 3601,
+   "change": 1.83,
+   "asOf": "2026-11-26T15:36:02.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,9 +64,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0976,
+   "value": 1.0977,
    "change": 0.13,
-   "asOf": "2026-11-26T15:33:44.000Z",
+   "asOf": "2026-11-26T15:45:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -75,7 +75,7 @@
    "unit": "$/برميل",
    "value": 91.41,
    "change": -3.38,
-   "asOf": "2026-11-26T15:24:08.000Z",
+   "asOf": "2026-11-26T15:36:12.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60294,
-   "change": -0.14,
-   "asOf": "2026-11-26T15:34:22.000Z",
+   "value": 60325,
+   "change": -0.09,
+   "asOf": "2026-11-26T15:46:14.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,45 +140,52 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أكاديميتان عالميتان و80% من النادي.. إبراهيم فايق يكشف تفاصيل مشروع المستثمر العربي لإنقاذ الإسماعيلي",
-     "url": "https://www.elbalad.news/7195642",
+     "title": "طلع 10 جنيهات.. سعر الذهب في الصاغة الآن",
+     "url": "https://www.elbalad.news/7195655",
      "source": "صدى البلد",
-     "time": "2026-11-26T15:33:27.000Z",
-     "seen": "2026-11-26T15:34:17.802Z"
+     "time": "2026-11-26T15:43:09.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
     },
     {
-     "title": "المرشد الإيراني: عناصر «الباسيج» لا يفوّتون أي فرصة لضرب الأعداء",
-     "url": "https://www.elbalad.news/7195645",
+     "title": "فرنسا وألمانيا تتحركان لتحصين ميزانية الاتحاد الأوروبي من وصول مارين لوبان إلى السلطة",
+     "url": "https://www.elbalad.news/7195657",
      "source": "صدى البلد",
-     "time": "2026-11-26T15:32:57.000Z",
-     "seen": "2026-11-26T15:34:17.802Z"
+     "time": "2026-11-26T15:43:08.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
     },
     {
-     "title": "اعتقال الناشط الإيراني مهدي محموديان المرشح لجائزة الأوسكار في طهران",
-     "url": "https://www.elbalad.news/7195643",
+     "title": "الأوقاف تفتتح 22 مسجدا غدا الجمعة ضمن خطتها لإعمار بيوت الله",
+     "url": "https://www.elbalad.news/7195641",
      "source": "صدى البلد",
-     "time": "2026-11-26T15:32:18.000Z",
-     "seen": "2026-11-26T15:34:17.802Z"
+     "time": "2026-11-26T15:42:48.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
+    },
+    {
+     "title": "الأوقاف تفتتح 22 مسجدًا غدًا.. وتعلن وصول إجمالي المساجد المفتتحة إلى 433",
+     "url": "https://www.youm7.com/story/2026/11/26/الأوقاف-تفتتح-22-مسجدًا-غدًا-وتعلن-وصول-إجمالي-المساجد-المفتتحة/7633644",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T15:38:00.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
+    },
+    {
+     "title": "في خطاب لمدبولي منصور يؤكد استعداد المجموعة للتنسيق الكامل لصرف التبرع لمستحقيه بأسرع وقت",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTbmlCWHA4SXZoTGtka2tlTC0ySjB0ZzVpb2UyVlExd3F6aklkelJkTXhNWmRBZW9QbjhZaEhSZVVlZ1N1cHA2c1pzNEpGbVk0TXlwNA?oc=5",
+     "source": "الأهرام اوتو",
+     "time": "2026-11-26T15:36:01.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
+    },
+    {
+     "title": "55 مليون جنيه من هشام طلعت مصطفى وأبو هشيمة والدجوى ومنصور وعز ومحمد لطفى.. مجلس الوزراء يتلقى تبرعات من ممثلي مجتمع الأعمال لمساندة أسر ضحايا حادث الوراق.. ومدبولى يوجه وزارة التضامن بتسليم التبرعات لأصحابها",
+     "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQWHo1cjc0YmRlR3NaUkFlYUNHWmNlcDkyUWtYZmpmTUlzN25FeVlCTlZsUTFHTEF5YnNtS0NKOXFpMUF4Ulg5YjNRTW9JVlk2WkpQSjlGckZPM2JhcWRocV9aRk5sd29oQ3NRdzJpTkNzY1R4ME9GOGpaVjUtcGFoNktHM1JaM0V4SC16RG5XR0ZkTU9oQkU4eUR1dmhzRVMwajRwLUJmQWJ0OThsQUdqSTdDVy11c3hfMnE2aEFLQ21pMDVqeUhWNHFTSkw5aW9FeVZPMFEwYVBqOENTckltdjJVUVlxQjdRTnB4LW1yVEQzeGZvU180QlJwU1RvY1ZuN2xNV3AtdVFmR3czZ0tCMWFvbnhDODY3bGtSVDR6OGJQakdhMk05Z1Nrd0Y5ejFPc2g4VkExWWM1VDBJTVNTUUNjdnRDRXV5UjNhcmlNcktIR3UwV0I4MFlaM3lpeXJtMklPT0ZSSEhSSm94amtSMXpwSkNndmJnNlJqMktVMl9NM2RtaFhFSXBCWkFOMWQtZTlsUXBUdUVwMjIyQkhkbzJIb2xiWEEzS3fSAaQDQVVfeXFMT3VsVjlGdThyMmdNNUVnWUNMR2R0bzJGZDQwbjhwbTR3Rnp3NGZhTFpXem02ZTBGWTRUWUhoU3VBVHBiNFlhcjhzX0JDVEJYZDEyYkdLRjhDX1BQUWMyaUFDWHk2SDBMWnExdVZOTi1hM0xnamUySFloazAtTDNqVEdmMk9wUGNfU0NldmNRbkR0TXA5c1UtWi16NFp1T016NWtwODBGZEluLTVCLVhxV21LSm0wbERtQ0Y1NEVNYzNKVks0WHl3cGJNNUJFbDRVdXdxbFlHVVViU01HRXBlOWFka0FPeFlSandsYldxbE1vRnhGNjFHWUJwamtsZWZmSy0wd3RSNXNxdzRGQzlwdTZZOEJEWU5oa2g1dlllZzAtckxSbERCTmlxZ0V0MG1hY1c1MDQ5elExYWZXQV9KMERHLUN2Mk5fVE9hcXVXY0N5VTAtTE5nXzBzWTkwdWwwTGswX2ZnWmdZb0VOTWNzVDNxakh5WEpYQkc3YkNOeXBVMnB3d0VZTDc1NDBxa0JiVHpRZkxYNnJidzdGYmNYdEFVVWE4?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T15:30:00.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
     },
     {
      "title": "الجامع الأزهر يقيم صلاة الغائب على شهداء حادث الوراق غدا.. والأوقاف تعممها",
      "url": "https://www.youm7.com/story/2026/11/26/الجامع-الأزهر-يقيم-صلاة-الغائب-على-شهداء-حادث-الوراق-غدا/7633623",
      "source": "اليوم السابع",
      "time": "2026-11-26T15:23:00.000Z",
-     "seen": "2026-11-26T15:24:18.038Z"
-    },
-    {
-     "title": "التضامن تتيح رقم إنستاباي لتلقي دعم الراغبين فى مساندة أسر ضحايا حادث الوراق",
-     "url": "https://www.youm7.com/story/2026/11/26/التضامن-تتيح-رقم-إنستاباي-لتلقي-دعم-الراغبين-فى-مساندة-أسر/7633608",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T15:19:00.000Z",
-     "seen": "2026-11-26T15:24:18.038Z"
-    },
-    {
-     "title": "محافظ الجيزة من موقع حريق الوراق: نتائج فحص الطريق الدائرى والمحور مطمئنة",
-     "url": "https://www.youm7.com/story/2026/11/26/محافظ-الجيزة-من-موقع-حريق-الوراق-نتائج-فحص-الطريق-الدائرى/7633610",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T15:18:00.000Z",
      "seen": "2026-11-26T15:24:18.038Z"
     },
     {
@@ -224,13 +231,6 @@
      "seen": "2026-11-26T15:04:17.929Z"
     },
     {
-     "title": "مصر.. رسالة من محمد صلاح لأسر ضحايا حادث حريق دائري الوراق",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDhwWUFRZlJ5M2F4Tnp0dV9rT29RQWpGMHI4Vm5VakVtb0l3V1Jnb1R6WG4zTVNCU2o2MHVCNU8xN2tMbDhBakRJN3JmejZITmhzT3FrMV9RdTRpclh6Nmo0NGhDSDNiQlVYZDdVTloyX0NDVXNkb09PdHZWWkNJNGFZc2JNdDVJLU9fVTRzZzg?oc=5",
-     "source": "CNN Arabic",
-     "time": "2026-11-26T12:26:37.000Z",
-     "seen": "2026-11-26T15:04:17.929Z"
-    },
-    {
      "title": "شهادات استثمار وسيارات بديلة.. مدبولي يعلن تعويضات استثنائية لأسر ضحايا حريق دائري الوراق",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iRFRWb2hzbTB0ODJrR2Q3cTh1Q05abDNsOXBHVDVOeW9fRVBBNXNhakJEbmNZN2Q3T1FoNkh4Q0tzUEJ6VERYVnE4ZTRqUi12RFdLNw?oc=5",
      "source": "الأهرام اوتو",
@@ -243,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم الخميس 26 نوفمبر 2026 مقابل الجنيه المصري.. تحركات العملة الأمريكية في البنوك وماذا يحدث عالميًا؟",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZTlTV1NGTmt5aU1lWWs3eDRpR0NWalBFZlBPOE9YQzVTTWI5NjRxZ2NUREd1amgtQTFrSEdUZ0FrM0tqcTFqQlJOM21PRzR3NjdfbWxKa3pHejdia0RZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-26T15:36:00.000Z",
+     "seen": "2026-11-26T15:44:17.304Z"
+    },
     {
      "title": "مسؤول سياسي في حماس وزوجته من بين ثمانية قتلى في غارات إسرائيلية على غزة",
      "url": "https://www.bbc.com/arabic/articles/crp3e7jjdklvo?at_medium=RSS&at_campaign=rss",
@@ -333,13 +340,6 @@
      "source": "عالم المال",
      "time": "2026-11-26T13:36:22.000Z",
      "seen": "2026-11-26T13:44:17.452Z"
-    },
-    {
-     "title": "استقرار سعر الدولار الأمريكي أمام الجنيه المصري ختام تعاملات اليوم 26 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPY2F1QXpHVHlpSEpRUVNGWmRvRXVUMTk5cnBoNDAwTkYwMHFoQnZuTkJHUFU3Tzg2T3JJOEpVTmdiVXUyRjJZbFNBRVozQllhMklKNWRfV0VKVXBsWDdBN01Lalg2NFoxSWJsQzNGYkRSZVR3czh5Y2Z4V3ZzUFNNVXpmdG5va3hWZzdmMURGRm50YnFXbV9tWU5pRW8wd0JBSkw0SncxSjFOaWo4WWdpYTR4Y1BJZk9icmVaa1U1MHVpV0Y1YlhNRlo1Y1VVWU0yVVQxSUxfdFR5U0dhSTVlRG1fek51UUpNYU1XZy1ndGczeldWbnJjTVpKVDFBZi15SUk4c0V1akFUQVVWWERRV1g2Z3NKQ1NoYmV2amRVVEpIaFI1cGpibE4tajJOeldGQ0pjRHR1YTdheXcxakRrOGE3NTR5d2xQYjlwbkhDWGpXS3EwdFBjR0hGZEJvMWRnQ1NBbVBEZ1ZaQW9HcEtpS2xyQVBKam9MdFdreVhn?oc=5",
-     "source": "بوابة أخبار اليوم الإلكترونية",
-     "time": "2026-11-26T13:24:55.000Z",
-     "seen": "2026-11-26T13:34:17.765Z"
     }
    ]
   },
