@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:44:18.180Z",
+ "updated": "2026-11-26T16:54:17.723Z",
  "minute": [
   "شهدت مصر متابعة لتطورات حادث الطريق الدائري بمنطقة الوراق مع ضبط المتهم المتسبب في الحادث، إلى جانب التأكيد على ترسيخ الشراكة الاستراتيجية بين مصر وقطر.",
   "استقرت أسعار العملات الأجنبية والعربية مقابل الجنيه المصري في البنك المركزي، وسجل الدرهم الإماراتي 14.87 جنيه للشراء.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-26T16:44:18.180Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 503; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-26T16:54:17.723Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5543,
-   "change": 2.84,
-   "asOf": "2026-11-26T16:34:16.000Z",
+   "value": 5547,
+   "change": 2.92,
+   "asOf": "2026-11-26T16:44:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6328,
-   "change": 2.84,
-   "asOf": "2026-11-26T16:34:16.000Z",
+   "value": 6334,
+   "change": 2.92,
+   "asOf": "2026-11-26T16:44:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3598,
-   "change": 1.75,
-   "asOf": "2026-11-26T16:34:16.000Z",
+   "value": 3600,
+   "change": 1.83,
+   "asOf": "2026-11-26T16:44:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -66,16 +66,16 @@
    "unit": "$",
    "value": 1.0973,
    "change": 0.1,
-   "asOf": "2026-11-26T16:43:46.000Z",
+   "asOf": "2026-11-26T16:53:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.59,
-   "change": -3.19,
-   "asOf": "2026-11-26T16:33:39.000Z",
+   "value": 91.24,
+   "change": -3.56,
+   "asOf": "2026-11-26T16:44:37.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60467,
-   "change": 0.15,
-   "asOf": "2026-11-26T16:44:16.000Z",
+   "value": 60424,
+   "change": 0.08,
+   "asOf": "2026-11-26T16:54:38.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "غرفة الأخشاب والأثاث تشارك في افتتاح «كايرو وود شو 2026» وتؤكد دعم تنافسية المنتج المصري",
-     "url": "https://www.elbalad.news/7195734",
+     "title": "خالد الجندي: من كتب عليه الموت سيبلغه أجله ولو تحصن في بيته.. فيديو",
+     "url": "https://www.elbalad.news/7195666",
      "source": "صدى البلد",
-     "time": "2026-11-26T16:43:37.000Z",
-     "seen": "2026-11-26T16:44:18.180Z"
+     "time": "2026-11-26T16:53:31.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
     },
     {
-     "title": "تبرعات بالملايين لضحايا حريق الدائري.. 158.2 مليون جنيه حصيلة المساهمات المعلنة",
-     "url": "https://www.elbalad.news/7195724",
+     "title": "متحف الحضارة يفتتح معرض «خيوط الصداقة» بالتعاون مع سفارة الفلبين",
+     "url": "https://www.elbalad.news/7195744",
      "source": "صدى البلد",
-     "time": "2026-11-26T16:43:37.000Z",
-     "seen": "2026-11-26T16:44:18.180Z"
+     "time": "2026-11-26T16:49:11.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
     },
     {
-     "title": "بعد حادث الوراق.. تحرك رقابي من لجنة النقل بالنواب لمراجعة منظومة الأمان على الطرق",
-     "url": "https://www.elbalad.news/7195733",
+     "title": "محافظة سوهاج تعلن تفتيت البقعة البترولية بالكامل وعودة تشغيل جميع محطات المياه لطبيعتها",
+     "url": "https://www.elbalad.news/7195746",
      "source": "صدى البلد",
-     "time": "2026-11-26T16:42:44.000Z",
-     "seen": "2026-11-26T16:44:18.180Z"
+     "time": "2026-11-26T16:46:27.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
+    },
+    {
+     "title": "وزارة الطيران تقدم 30 مليون جنيه لمساندة أسر ضحايا ومصابي حادث حريق الوراق",
+     "url": "https://www.youm7.com/story/2026/11/26/وزارة-الطيران-تقدم-30-مليون-جنيه-لمساندة-أسر-ضحايا-ومصابي/7633700",
+     "source": "اليوم السابع",
+     "time": "2026-11-26T16:45:00.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
     },
     {
      "title": "لجنة المتابعة للقوى الوطنية والإسلامية بفلسطين تعزي مصر في ضحايا حريق الوراق",
@@ -172,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/26/اطمن-على-نفسك-فحصان-ضروريان-سنويا-لكل-مريض-سكر-للكشف/7633549",
      "source": "اليوم السابع",
      "time": "2026-11-26T16:17:00.000Z",
-     "seen": "2026-11-26T16:24:17.248Z"
-    },
-    {
-     "title": "فخامة الرئيس السيسى يودّع أمير قطر بمطار القاهرة فى ختام زيارته الرسمية لمصر",
-     "url": "https://www.youm7.com/story/2026/11/26/فخامة-الرئيس-السيسى-يودّع-أمير-قطر-بمطار-القاهرة-فى-ختام/7633662",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T16:14:00.000Z",
      "seen": "2026-11-26T16:24:17.248Z"
     },
     {
@@ -224,17 +224,17 @@
      "seen": "2026-11-26T15:14:17.222Z"
     },
     {
+     "title": "رئيس وزراء إثيوبيا يعلن أن النيل ليس لبلاده وحدها ويطمئن مصر والسودان",
+     "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQMjhoQ3BjMkdoekNYTmhyWDRvdFFBQzQ4MTI4dmpvUjVKLVo2TklYS0dEbmNsaURUUTdpRGcxRGVEZDg3QlRvV0xacW5FV2FKYlRURE00WG5WVkoyUWhlRWpWUXZpNk1iN0dvdVJjRGxUNk9WYWgtVU4waXBDWm45Z3YwQm1Wa2xsRjE0U0M2d0x3WU5peWJjdXVMSl9PRHlYbUpEbWNsd0tmX205U2xud2s2aWU2VVkwLXFYWXg5d0pmWUpqSVdYR2szZjB1X09fbVdUck41XzNhaHZ0bXEwT0lYZWRHX3A4UF84SFBJUFo3akhCTFVSbW02Q3NReUNLb2g0UWN5YjEwME5SSk9fbGs5Z3ZhcWxBLU5sX01MakgwLWNOWlJXb2pvZjFrWjdrcXNTUzhCcjFUZi1qN3JjdE52VXZ3VFRIc3E3MmhxRUJHTlhPVWVOWmNYa0hfb0hJYjJkejZIRnQ0cGdlVFBvRlU5Qms5RFJHRWpjaHpBbzY1V3FMT1lic3RDWDhIVVdESVdTdHhpSS1ra3pUb2dpUjB1RWFBb1VkUzRZY3M4cXl5djh1X3V0WEVXQ0JTM1VfSXJtLVVDSW5wUkxjTFkxQU84ZnlUTE41TzVFSlJPX3F2WmFZRUVURWxTeGlKTE9XYWhwdE15V09XS1UzcWFtMmtPVXpNMEl4Tll5Qk15cnQzd2VwNkNFNE4yeThvODF2ZWFyQ0wtZk9MSUVLT013NkxLQUdJd2JteHlkNEN6a2bSAcYEQVVfeXFMT2VQaUNaSUNDdnVWMGxsZFJTR1p2X3hiV2xBQndsQlZIeFBvU29QX1M1N1FtS1k5OE1jVTN0RkpvZVZQUGtMa1I3ME5nX2NMcEJhcHdVakIySUg1dFlKTW1nUmNfY3NteG0zRkRhbmtpb1VaTXBIM0VGT0lHOExULVhucEh0R0Y4M1JRc3V1UVdfM1Z1SEtqcmE0Skh0STJ2XzNEOWlHbzVjWGU5dmlfZnR3dExRNlNValAzeXo0LThXamNNcEtHcGpITkRMMFdneVdpclZ6aFl1b0xoQVJfOFV6a3NJOFl5UDdSS0dKSHo1SEQweGFFdnBnM1ltMFp6VzdaQ0dya1RnUG9yM2lvUmctWDFveUFFQV9MZlB2LWxkLVlIRzJ5VEVwTXlpMFgwdGxFOWdGYnRRTmJWR0NHbDRJV2dxMXVKUnA5Sl9SU2VEdGc4YlE5a1ZQdWREV2pVZmNkWm50aGxmSHpEWlFMUEphZFlFeE1xRHdZeUZobFF5Q0I4TC1jdlFwd05qNkN6eHBiWWVFcTJDb28wSXlBWlZMU1d5b1d1RDF1SXd5VlRvTTdKQU1qU1JVa215OE4yRG5CeUdwUE1ieUtFeWE2a0VlWGdfc2MzY3pncG1CNjI3Q0JBYzBNRnNQTV9rTlhOS19TSjJlS0VGX3JhWnJ2V3VLWmpiU05CZS1BUXFsZm9JZlI5V2NRUVU2UTM1aVlIR3JGM1FFbjJ4S19ZLVppZUtJTFNyTzBLTTRLZ0V6UFhBUmtzY193?oc=5",
+     "source": "العربية",
+     "time": "2026-11-26T12:57:00.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
+    },
+    {
      "title": "رئيس الوزراء يزور مستشفى الوراق للاطمئنان على مصابي حادث الطريق الدائري",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbWRkUFlqSFMxRHlEQWIwSV9XbGFKMkMxaU42WHp5MWhsUHVhemhVSmdjNXR5QXZWMGpsNWdIbXVYTjV0bW9CczlieTFNZXFKVnF3a19oTTJSQ2RLby1R?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-26T12:57:00.000Z",
-     "seen": "2026-11-26T13:04:17.391Z"
-    },
-    {
-     "title": "رئيس وزراء لبنان يعزي الدكتور مصطفى مدبولي في ضحايا حادث الطريق الدائري",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWENkVVdXNVFHM2xVOTJkaDBxWDRzcFlqbGFlNEwxVkI5MWN5cHBKZXlSQTRKQ1VGYWhRUXI4cjAyTTNDZndqQ0pVVndoeE53dEhNUkNB?oc=5",
-     "source": "بوابة الأهرام",
-     "time": "2026-11-26T12:54:00.000Z",
      "seen": "2026-11-26T13:04:17.391Z"
     }
    ]
@@ -243,6 +243,20 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار اليوم مقابل الجنيه الخميس 26 نوفمبر 2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ha0MyZmZvaEZOaXRDOF9GVE9tRXlDNGRaUWhCWnFFNXVSbG93M2FxVzE2Z3YzVmstdUQydVdxSGlETm9N?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-26T16:51:24.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
+    },
+    {
+     "title": "أسعار الدولار اليوم الخميس 26 نوفمبر 2026 في البنوك المصرية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mMzdwS3ZzaFktZkUxcXZGZ013MXA3VzZndTZOekhxdFIxdjRiLS1XMVFYcGhRYi1qZ0dPRjR3X0FzTng4?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-26T16:46:46.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
+    },
     {
      "title": "سعر الدولار اليوم الخميس 26 نوفمبر 2026 مقابل الجنيه المصري.. تحركات العملة الأمريكية في البنوك وماذا يحدث عالميًا؟",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZTlTV1NGTmt5aU1lWWs3eDRpR0NWalBFZlBPOE9YQzVTTWI5NjRxZ2NUREd1amgtQTFrSEdUZ0FrM0tqcTFqQlJOM21PRzR3NjdfbWxKa3pHejdia0RZ?oc=5",
@@ -326,20 +340,6 @@
      "source": "جريدة البورصة",
      "time": "2026-11-26T14:03:40.000Z",
      "seen": "2026-11-26T14:14:17.522Z"
-    },
-    {
-     "title": "سعر الدولار اليوم الخميس 26/11/2026 أمام الجنيه المصرى فى ختام التعاملات",
-     "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNd2JPOG5LNkFBNDZsbEY4em5OYmJ5eDBWMzUtMXBRRm93UWdzbUlDUVJHbmppZWlsbVQyMS1uZVc4MkhWU2owczhxRXQ1RkZCLWVBYnZyQ205Nk1YWE1TUTBJOXF5SDdoWXJpTjNSeE04Z21uOVhNRVhHSUgta2dIS2FDUHQtMVdPekthOEhFVGljUU96V2F4STFSRXF1N2NOdUVwaThvVnNqM3F5WVNBVDlEUzFXbTl4XzNYTzZUbmRhQUdKNThIM1VZVFdkdGhiVHA5dzZqMWJidkZOcnlWVzFlNXVtZFM1WGhyUUdQdndkOGtLb0ZneERpOHFZZldZUVpqNmwzelJma3otM0lvRXR6U1BwZWlWZE5zYUlpZTFwZ0wzdHROd29rVTBJUzRpWmlTdWpGT2JSbUhDSkZMdG1lYW1nVndQaDNjSW96dGIxRnc1aHVhOTM4QW80MVN6eGhrdGJlejhPaDd1aHdyOFJHbHRVVkd1NmFCZUJFenJBNnBPWldwN1V0YUNRcjZjZ0M0d1dKejQ5UdIBlANBVV95cUxPSGlNU0N4ZE5TSUFhNlVDakdYbFNOSGJFVGswZzRhY0sxWkRYYk5QVjd3MEsxRW5jT0E3QW5sRWdyQnFTdDdmNUxBb1pFYzF1TlhXbnUyVzRXakkwRmxxcHdkQ0taX1FuTlBuRlVhQjI5RVgwVFFDWW8yMXFtLVJaMmxRSEt5cTRBZmdQc0hlVWpnWlYyTktPVWt1SU5tNElrYXFua3NuUWNaZU1qYU1LWkV2UFNLUVZKODRGTXJ1WTdESXlIcWQySERRQ0EzQXlKUlpoN01peUNReEo1RDJUR2MyVENuRjd0LVpLeHJHV3pZc2JGbC1mYTZmS1Z5SUVVRlBVS0hUNUxxLWE2VjFheXVidHR3LVZLSTQtNDlvc3RWLUVzVGtjbkoxS0FWc2pncmE2Y2N0RS1DcjN3R1Mxa3NRb25EX0tQcTl4OFFfQWxNam4zcjhTMTd3X0p5Q0dFRHplTUpqc2J5QUw4cFVyY1UwYnV5TTNqVk9vNVNpRjhjNjJEb3haUnJFcHNYdUNVemtvag?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T13:57:00.000Z",
-     "seen": "2026-11-26T14:04:18.111Z"
-    },
-    {
-     "title": "البنك المركزي يوجه القطاع المصرفي بتقديم دعم 60 مليون جنيه لأسر ضحايا ومصابي الدائري",
-     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOeGp4ZGtVUS1KakItVnR0QTB6NnA0ajdqWEYtUTQ4SHdlMG1Hai1NbHRUZUtkanJ0d1ZlRGF5WWh4UkFJdjlUcVhRQkJZeC1YY1pDa0hGVktFaHlBQnp0OHh5TEd4VHU4R0gzYmlralFpMzY5Q3ljd2FuNEJzeXBqOGFuN0g4RzlCY0UwaExpWEhTSGxheWNiT040M0hhNUJjbUlIekNibFpiaDlUTUlNVFQwSFBRbDdjLXlUODZTSmg0UmRiWjBxUy0yNUJMQlFiWUduUURxR1B5MnBiWEw2eEZaMjRabF9pQ1lCNzNTX3MyNEhIVzVuVUxXQkQ1OHRzbVpxbUlCWWJlSk5BcURIREJFcHlxTnlzNmhNcV9CMTBZMWVueTZVd01uY3RjNFE3OXU1N21RNXlUUVkyajltbk1vT1ViekFOWEdzdmxXMjVmTDRVbTdDVzg5WFVGUlFxMUR5Z1g1V19KR0VMY0hxYjdUaG80eWIwRmNIT3c1Ymdmb3ZhQXc?oc=5",
-     "source": "عالم المال",
-     "time": "2026-11-26T13:36:22.000Z",
-     "seen": "2026-11-26T13:44:17.452Z"
     }
    ]
   },
@@ -347,6 +347,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "إسرائيل تكثّف استهداف قادة حماس في غزة.. وكوشنر يحث نتنياهو على المضي في خطة وقف إطلاق النار",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/israel-intensifies-assassinations-gaza-us-urges-netanyahu-proceed-ceasefire-plan",
+     "source": "CNN بالعربية",
+     "time": "2026-11-26T16:45:16.000Z",
+     "seen": "2026-11-26T16:54:17.723Z"
+    },
     {
      "title": "«الديمقراطيون» ينضم لائتلاف آيزنكوت.. والأغلبية لم تحسم بعد",
      "url": "https://www.skynewsarabia.com/middle-east/1907359-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%88%D9%86-%D9%8A%D9%86%D8%B6%D9%85-%D9%84%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85",
@@ -412,10 +419,10 @@
     },
     {
      "title": "السلطات البريطانية تحبط محاولة للاستيلاء على قصر القذافى فى لندن.. تفاصيل",
-     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPc1NweEpxSTFFTkpkZ3RKMm5yQ2xDZWwzVDMzbWRYaXNxQUhLak9uVGxXSUdWN0lMMXc0TGwxeC01NnJIREd2TmZhTUk0d21wSW5LR09XeHpqdnVtY3hlWnlmWDBTLUdCaUxaSEJEN2dHeGNUUEEyRDVOamJseTc5NWU5R3lLR1JwU19WVkxHdVkyNmVRQ3ZfblI1LWdaV3lEOFgyc2w3dmY2M05jWmluZEVSc0h3ZUlFV1AwOUJEVFU2R0NxbW41N0xyWWtXcmpyMmpVUWFsM0JTSW5pSnBUR0pzdVp3OFNUYnViZXFnVnVvSU0xbXpJLXNnU0pzNE1KMi05U0lyMU85Y09OejBBdVNfdTg1M3cwc3hEUkU4dVZJWXU2TTA4SkpUTWFqVGt1MlVtZ0hSVjkwMk8xQWliZ2FETzBMYjBRbTNWV2JmcEpudnhoM3QtWHY0by1NN0VfekFBeGc1RWY0bkNjZWw2dHoxR1lnR1VVbkNXNGVlU3lndmc2V3RDVXpWOHdFaUN6UURJN1lxUXdXcWVfaGZDSVpWSWFMZTk2VW02aklaWnFGRmxmdUFkbVhxZzUxMlpPTHNXM2RtcGJnS2RDdV9VM1FjWVRrM2JnYWRGUjdLbnR0NmU3ZEhwSk84dkNiSkV6cjlwMUtfZDl4TlVNTm5KQmxJYUJicWlZN3hvVUtOTHozOGhFeFdrMDh2dllUTWM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPc1NweEpxSTFFTkpkZ3RKMm5yQ2xDZWwzVDMzbWRYaXNxQUhLak9uVGxXSUdWN0lMMXc0TGwxeC01NnJIREd2TmZhTUk0d21wSW5LR09XeHpqdnVtY3hlWnlmWDBTLUdCaUxaSEJEN2dHeGNUUEEyRDVOamJseTc5NWU5R3lLR1JwU19WVkxHdVkyNmVRQ3ZfblI1LWdaV3lEOFgyc2w3dmY2M05jWmluZEVSc0h3ZUlFV1AwOUJEVFU2R0NxbW41N0xyWWtXcmpyMmpVUWFsM0JTSW5pSnBUR0pzdVp3OFNUYnViZXFnVnVvSU0xbXpJLXNnU0pzNE1KMi05U0lyMU85Y09OejBBdVNfdTg1M3cwc3hEUkU4dVZJWXU2TTA4SkpUTWFqVGt1MlVtZ0hSVjkwMk8xQWliZ2FETzBMYjBRbTNWV2JmcEpudnhoM3QtWHY0by1NN0VfekFBeGc1RWY0bkNjZWw2dHoxR1lnR1VVbkNXNGVlU3lndmc2V3RDVXpWOHdFaUN6UURJN1lxUXdXcWVfaGZDSVpWSWFMZTk2VW02aklaWnFGRmxmdUFkbVhxZzUxMlpPTHNXM2RtcGJnS2RDdV9VM1FjWVRrM2JnYWRGUjdLbnR0NmU3ZEhwSk84dkNiSkV6cjlwMUtfZDl4TlVNTm5KQmxJYUJicWlZN3hvVUtOTHozOGhFeFdrMDh2dllUTWPSAZoEQVVfeXFMTWNFWkFYSUZscE01TmpLX0V3cWlYVnY1aU9JWjNydno5WWdwN2tGanQxWjhQZlcxWTBhMWdiaWMxaEl2aklEVTI1WDVPWWZCUmNaZko2U2d6Ul9JRUR1WEt6ckVYWXpIU1o4ZS1lSFpjbmcwbDNNemUtdzBUYXhqa1FOT0VHTUNBbkFQcTdlWXA2VlUzZnNJc0NfdXlDemlEZ09yaUxrd044NmJFMWh4TXBKcHpvbHdzMVptMTVOWkdwMkFPa2lyRkdSSm1DNDNsOWlCMXZmTzJGUEpZYjBIa3NZbGViYnhLTDdBZGY0RjYzX2tTZTZKMkpxTU9mR2N3dW5keVNTQ1BQVDIxSG5lVjQtek9jOTQtS2xZV2JyM1FxdUVpWGhDcHIxMF9lR1FoUlFna3RoYjliTjRuem1yZmdlWEZndFc2QnM1S2J2dWlKVDlFSUE3T3BqWG5oRGJYcHUzRnJUZVlvQ1RZVUgtS0lTbVpHYWRKVWRydVlETUpxQzNUTENZcUJoRmlxblAzZjh6LWdsRG9zdF9qekRjXzVnMEJQbTd3ZHZSOHFLUWRFZ04tVFRySXRNc0xaV2dQd3Q5MlZ1UUswa2R5MncyTEhpa3RnTmNHZnFNaFd6aHJzUzlPa1ZPV3pUY1dtblNiMGlJeEpHcVdZN3BNZkN0SUtScWcycEJoSm1XYUhDWHMtUE5YYzl3SGg0UQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-26T14:00:00.000Z",
-     "seen": "2026-11-26T15:54:17.333Z"
+     "seen": "2026-11-26T16:54:17.723Z"
     },
     {
      "title": "الكويت: مقتل إيطاليين اثنين وإصابة كويتي وباكستاني إثر هجوم إيراني استهدف \"أحد المواقع الحيوية\"",
@@ -423,13 +430,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-26T13:57:17.000Z",
      "seen": "2026-11-26T14:34:18.123Z"
-    },
-    {
-     "title": "الجيش الكويتي يعلن إصابة 4 أشخاص في هجوم إيراني استهدف \"موقعا حيويا\"",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/kuwait-defense-ministry-4-people-injured-in-iranian-attack",
-     "source": "CNN بالعربية",
-     "time": "2026-11-26T13:57:17.000Z",
-     "seen": "2026-11-26T14:04:18.111Z"
     },
     {
      "title": "ألمانيا ... اعتقال عراقيين بشبهة عضوية تنظيم مؤيد لإيران والتخطيط لاستهداف مصالح يهودية",
