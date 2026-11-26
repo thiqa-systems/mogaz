@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:43:31.513Z",
+ "updated": "2026-11-26T04:53:31.772Z",
  "minute": [
   "تشهد الأسواق المصرية استقراراً في أسعار الدولار والذهب، مع تشديد جهاز حماية المستهلك على إلزام التجار بوضع الأسعار بوضوح.",
   "تعتزم الولايات المتحدة فرض رسوم جمركية جديدة تصل إلى 20% على دول عدة، بالتوازي مع تطورات وإجراءات أمنية دولية وإقليمية.",
@@ -11,43 +11,43 @@
   "key": 2,
   "impacts": 6,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-26T04:43:31.513Z"
+  "errorAt": "2026-11-26T04:53:31.772Z"
  },
  "markets": [
   {
    "id": "usdegp",
    "name": "الدولار / جنيه",
    "unit": "ج.م",
-   "value": 54.71,
-   "change": 0.97,
-   "asOf": "2026-11-26T04:27:23.000Z",
+   "value": 54.63,
+   "change": 0.82,
+   "asOf": "2026-11-26T04:49:50.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5578,
-   "change": 3.48,
-   "asOf": "2026-11-26T04:33:31.000Z",
+   "value": 5572,
+   "change": 3.38,
+   "asOf": "2026-11-26T04:43:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6368,
-   "change": 3.48,
-   "asOf": "2026-11-26T04:33:31.000Z",
+   "value": 6361,
+   "change": 3.38,
+   "asOf": "2026-11-26T04:43:30.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3624,
-   "change": 2.49,
-   "asOf": "2026-11-26T04:33:31.000Z",
+   "value": 3626,
+   "change": 2.54,
+   "asOf": "2026-11-26T04:43:30.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0965,
+   "value": 1.0964,
    "change": 0.02,
-   "asOf": "2026-11-26T04:42:45.000Z",
+   "asOf": "2026-11-26T04:52:46.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.07,
-   "change": -3.74,
-   "asOf": "2026-11-26T04:27:02.000Z",
+   "value": 91.1,
+   "change": -3.71,
+   "asOf": "2026-11-26T04:33:48.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60951,
-   "change": 2.01,
-   "asOf": "2026-11-26T04:43:30.000Z",
+   "value": 60882,
+   "change": 1.9,
+   "asOf": "2026-11-26T04:53:32.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -351,6 +351,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "\"خطأ\" يدفع سيناتورا أمريكيا لمهاجمة إيران بتقرير عن كوريا الشمالية.. وهكذا رد متحدث خارجية طهران",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/senator-john-cornyn-mistakes-iran-with-northkorea-repost-iaea-nuclear",
+     "source": "CNN بالعربية",
+     "time": "2026-11-26T04:47:00.000Z",
+     "seen": "2026-11-26T04:53:31.772Z"
+    },
+    {
      "title": "ولي عهد إيران السابق يعلق بنقطتين على جلد المغنية باراستو أحمدي لعدم ارتدائها الحجاب",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/26/reza-pahlavi-iran-parastoo-ahmadi-lashing-reaction",
      "source": "CNN بالعربية",
@@ -370,13 +377,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-26T03:33:34.000Z",
      "seen": "2026-11-26T03:43:31.712Z"
-    },
-    {
-     "title": "انحرفت عن الطريق ثم انفجرت.. مقتل العشرات في حادث ناقلة وقود بمصر",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/26/v205971-at-least-31-killed-in-fuel-tanker-fire-in-egypt-digvid",
-     "source": "CNN بالعربية",
-     "time": "2026-11-26T03:25:02.000Z",
-     "seen": "2026-11-26T03:33:32.275Z"
     },
     {
      "title": "أوكرانيا: قصف روسي يصيب 3 أشخاص في كييف وواشنطن توافق على دعم مقاتلات إف-16",
@@ -477,7 +477,7 @@
      "seen": "2026-11-26T04:03:31.699Z"
     },
     {
-     "title": "عقوبات واتهامات تشمل صينيين.. قرارات أمريكية بعد اختراقات استهدفت وكالات حساسة",
+     "title": "عاجل | البيت الأبيض: توجيه اتهامات لـ 12 قرصانا إلكترونيا وعناصر أمن صيني بعد اختراقات استهدفت وكالات أمريكية",
      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOOEpPZDRhb2Q0czlxaFJJUGFPaE9nY0JIUU1ka19DNE90ejVqYV90YXRzNW9ldFdlN1ZQei1JLWhOOHNoXzh3bTdaTFVsb3dkdHRzdWZiQ24zZnh2TXd3ODVaQnB4T2hWMUZFaWNfZ0ZaaTdiZ2pwLTBfazBCUnczbzZQYlBKbFZXc29xUlFtYUtYTl85eXFwbUZXc0xDVVFTTjFlTFpWeUg0ZEdCUml0WXdtQzR0VU9TSEJwWVhUdDg0NHJkSmhDMW8zbnowQTFqcWQtUXd6ZHpTS1BZRHVZa09SSm84NzNFRFgzdFFacFNDQ2FrNHNEM2J5ME93MGlReFVfQ1JFd0gwaDdMUU9rTGhUTl82VnpIazFmcjBlV04yYmV6bEtMSmszeHl5NUNILTI5M3JLa2hKSERpZllHY01PQUp0a0U?oc=5",
      "source": "الجزيرة نت",
      "time": "2026-11-26T01:23:57.000Z",
@@ -563,6 +563,21 @@
  "failed": [
   {
    "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "tech",
    "feed": "www.bing.com",
    "error": "no items"
   }
