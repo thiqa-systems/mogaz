@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:17:31.640Z",
+ "updated": "2026-11-27T12:27:32.157Z",
  "minute": [
   "شهدت الأسواق المحلية والعالمية ارتفاعًا في أسعار الذهب بالتوازي مع متابعة أسعار صرف الدولار أمام الجنيه المصري في البنوك.",
   "أعلنت هيئة الاعتماد والرقابة الصحية «جهار» تجاوز ألف منشأة صحية معتمدة موزعة على 27 محافظة.",
@@ -11,8 +11,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T12:17:31.640Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-27T12:27:32.157Z"
  },
  "markets": [
   {
@@ -28,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5696,
-   "change": 4.68,
-   "asOf": "2026-11-27T12:10:26.000Z",
+   "value": 5699,
+   "change": 4.73,
+   "asOf": "2026-11-27T12:18:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6504,
-   "change": 4.68,
-   "asOf": "2026-11-27T12:10:26.000Z",
+   "value": 6507,
+   "change": 4.73,
+   "asOf": "2026-11-27T12:18:03.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3697,
-   "change": 4.56,
-   "asOf": "2026-11-27T12:10:26.000Z",
+   "value": 3699,
+   "change": 4.62,
+   "asOf": "2026-11-27T12:18:03.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0969,
-   "change": -0.01,
-   "asOf": "2026-11-27T12:19:43.000Z",
+   "value": 1.0967,
+   "change": -0.03,
+   "asOf": "2026-11-27T12:27:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.89,
-   "change": -2.87,
-   "asOf": "2026-11-27T12:10:15.000Z",
+   "value": 91.91,
+   "change": -2.85,
+   "asOf": "2026-11-27T12:17:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -91,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61588,
-   "change": 1.81,
-   "asOf": "2026-11-27T12:20:23.000Z",
+   "value": 61510,
+   "change": 1.68,
+   "asOf": "2026-11-27T12:28:00.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,25 +140,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "خطيب المسجد النبوي: من أعظم المنن الإلهية على العبد أن يلهمه الله الشكر ويوفقه إليه",
-     "url": "https://www.elbalad.news/7196522",
+     "title": "الجيش السوداني: استعادة السيطرة على منطقة مقنزا جنوبي مدينة الدمازين",
+     "url": "https://www.elbalad.news/7196531",
      "source": "صدى البلد",
-     "time": "2026-11-27T12:16:55.000Z",
-     "seen": "2026-11-27T12:17:31.640Z"
+     "time": "2026-11-27T12:27:13.000Z",
+     "seen": "2026-11-27T12:27:32.157Z"
     },
     {
-     "title": "غيابات بالجملة وعودة منتظرة.. ماذا يحدث داخل الزمالك قبل مواجهة الأفريقي التونسي؟",
-     "url": "https://www.elbalad.news/7196521",
+     "title": "قبل موقعة الكونفدرالية.. 4 غيابات تضرب الأهلي أمام أول أغسطس",
+     "url": "https://www.elbalad.news/7196530",
      "source": "صدى البلد",
-     "time": "2026-11-27T12:15:39.000Z",
-     "seen": "2026-11-27T12:17:31.640Z"
+     "time": "2026-11-27T12:26:58.000Z",
+     "seen": "2026-11-27T12:27:32.157Z"
     },
     {
-     "title": "الأوقاف: استنفار الدولة بعد حادث الوراق.. والشعب المصري يظهر معدنه وقت الأزمات",
-     "url": "https://www.elbalad.news/7196519",
+     "title": "أعاد الحياه لطرابزون.. الصحف التركية تتغزل في محمد صلاح",
+     "url": "https://www.elbalad.news/7196525",
      "source": "صدى البلد",
-     "time": "2026-11-27T12:15:14.000Z",
-     "seen": "2026-11-27T12:17:31.640Z"
+     "time": "2026-11-27T12:23:42.000Z",
+     "seen": "2026-11-27T12:27:32.157Z"
+    },
+    {
+     "title": "صلاة الغائب بمساجد الجمهورية ترحمًا على أرواح ضحايا حادث دائرى الوراق.. صور",
+     "url": "https://www.youm7.com/story/2026/11/27/صلاة-الغائب-بمساجد-الجمهورية-ترحمًا-على-أرواح-ضحايا-حادث-دائرى/7634432",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T12:17:00.000Z",
+     "seen": "2026-11-27T12:27:32.157Z"
     },
     {
      "title": "سوزان صدقي: الهيئة القبطية الإنجيلية تصل سنويًا لأكثر من 100 ألف مزارع لدعم التكيف المناخي",
@@ -172,13 +179,6 @@
      "url": "https://www.youm7.com/story/2026/11/27/رانيا-راشد-تمويل-التكيف-المناخي-ينقذ-حياة-البشر-والمزارعون-الأكثر/7634421",
      "source": "اليوم السابع",
      "time": "2026-11-27T12:09:00.000Z",
-     "seen": "2026-11-27T12:17:31.640Z"
-    },
-    {
-     "title": "من لحظة اشتعال النيران حتى وداع الأحبة.. الحكاية الكاملة لحادث الوراق",
-     "url": "https://www.youm7.com/story/2026/11/27/من-لحظة-اشتعال-النيران-حتى-وداع-الأحبة-الحكاية-الكاملة-لحادث/7634422",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T12:07:00.000Z",
      "seen": "2026-11-27T12:17:31.640Z"
     },
     {
@@ -357,6 +357,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "الكويت.. الداخلية تعلن القبض على شخصين أحدهما من الأسرة الحاكمة بحوزتهما مخدرات",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/kuwait-2-individuals-one-of-ruling-family-arrested-drugs",
+     "source": "CNN بالعربية",
+     "time": "2026-11-27T12:24:34.000Z",
+     "seen": "2026-11-27T12:27:32.157Z"
+    },
+    {
      "title": "\"التحالف\" يعلن تدمير طائرة مسيرة أطلقها الحوثي باتجاه الرياض",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/cjfcspox-drone-houthis-riyadh-destroyed",
      "source": "CNN بالعربية",
@@ -448,13 +455,6 @@
      "source": "الجزيرة",
      "time": "2026-11-27T09:01:17.000Z",
      "seen": "2026-11-27T12:17:31.640Z"
-    },
-    {
-     "title": "أسطورة مانشستر يونايتد يتوقع انتقال هالاند إلى ريال مدريد",
-     "url": "https://www.aljazeera.net/sport/2026/11/27/%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%8a%d8%aa%d9%88%d9%82%d8%b9-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T09:00:00.000Z",
-     "seen": "2026-11-27T12:17:31.640Z"
     }
    ]
   },
@@ -466,7 +466,7 @@
      "title": "حمام بأدمغة شبه إلكترونية.. هل بدأ عصر الطيور المسيرة؟",
      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcHBubUpfR0MwMXh3MmZpeWJpRmE0V3VQbjQxTGoxZWxDTm5tX2FBdFNXejl0d3lUeFVfQlNCWkh6OS1FMmd6SDA1M1dPZHB3Tm9BTVp0UHRvemVnQTRhbDl2UTdpTUozaFJvQWpSV0NmN3RLV0g2QzZBdUtIQklCazJZdnlPbWZEV0c1aGhBaUJQZ0Y0T3o0S0J0SXlxY0FoaldtQ3ZUSldJZ1dpb1RSTmdfaHVvMDRObXZsRGM3XzJ0eFI1S0lHaWV2SnpnV3dYdjh5eGdCUXIzQXh0dkM5VEphc1lra1ZIQ0Q0d3BKQUdMVi1HWXF0c3JuMWFqM3pMaVkwUnhvR082bElOZG1Ob3hzSGd2eW1ET3pMdTNsZDJmMjNxTTlKT0kxelo1eDNwVXpVUXdpTnJWa2p2V3g0S1hmNTRwRFZUY1RNX2t5WFdzMjJqYVBhTXRGd1VFc1p6d0dBZDVwWTA0S2oxVXEzWnlDZzhqQXY5aVNIREg5dFdiSXhhcmQyZzRwUDl3Q0FLQ0pDaGtR0gGbA0FVX3lxTE1paUJDMHAwdmRvZkdWbG1xdFNndzg2Y3pHUXBTdXhaQXVncGtOYy1tOHRBTUJjTE01bEdUeTJ6N3NUTEQxdnhDMjV3dHdqbXNsTjk4VUpZd2JXdGk3bDlLcWphVnNTbVY5MVBhNEhaYU1pcmVnU3dnRGh2ZkxJZWJSS0lCWlFySWZVN2J1cWNuLWVuZnBPelVFZi1XYlNGR1FvNTc3Qm9MV1JITFVCN3N5aGlCd29vY0tybklLY0xMMjhBeXpMNHdMUHl1T29GcEprYlVReUxTZndKSWtoNWRWU2xVNVpxazVKTFdZa0hGZFFjMEdaeDRsenZianBRaHIwcGJGRHFQOUxmQ1ljOUNzb2tlWE5XbHdfQjN5RzdEZWIwdEwzWGQ5TmJIVEF0ZWpyRWV6djQ4eG9UVzQ3WmJDX19scG1YRU9HcXRLaWhfdkZhY2puMDJGZmN3S2M3c0ltSVFjOFVQQ2xxWUJpV0FkWFo1OExiX1NNQkFSRTl4QUFIUnZFcW1ZOFNkbVktQUhndlRlYVdPQ3duaw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T08:51:04.000Z",
+     "time": "2026-11-27T08:54:40.000Z",
      "seen": "2026-11-27T09:36:06.178Z"
     },
     {
@@ -570,6 +570,22 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "economy",
+   "feed": "www.bing.com",
+   "error": "no items"
+  },
+  {
+   "section": "tech",
+   "feed": "www.bing.com",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
