@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:17:31.337Z",
+ "updated": "2026-11-27T15:18:31.909Z",
  "minute": [
   "أعلنت سكك حديد مصر عن فتح باب التعيينات لوظائف هندسية وقيادية، في حين تابعت الجهات المعنية الإجراءات والدعم لضحايا حادثي حريق الوراق والطريق الدائري.",
   "وعلى الصعيد الاقتصادي، سجل سعر شراء الدولار 54.85 جنيه في بنك أبو ظبي الإسلامي، بينما ناقش وزير الزراعة آليات ضبط سوق الدواجن ودعم صغار المربين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-27T15:17:31.337Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T15:18:31.909Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5639,
-   "change": 3.61,
-   "asOf": "2026-11-27T15:08:10.000Z",
+   "value": 5637,
+   "change": 3.59,
+   "asOf": "2026-11-27T15:10:41.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6438,
-   "change": 3.61,
-   "asOf": "2026-11-27T15:08:10.000Z",
+   "value": 6436,
+   "change": 3.59,
+   "asOf": "2026-11-27T15:10:41.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3660,
-   "change": 3.5,
-   "asOf": "2026-11-27T15:08:10.000Z",
+   "value": 3659,
+   "change": 3.48,
+   "asOf": "2026-11-27T15:10:41.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,34 +65,34 @@
    "unit": "$",
    "value": 1.0942,
    "change": -0.26,
-   "asOf": "2026-11-27T15:17:48.000Z",
+   "asOf": "2026-11-27T15:19:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.84,
-   "change": -3.98,
-   "asOf": "2026-11-27T15:07:40.000Z",
+   "value": 90.98,
+   "change": -3.84,
+   "asOf": "2026-11-27T15:10:41.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7243,
-   "change": 0.83,
-   "asOf": "2026-11-27T15:18:09.000Z",
+   "value": 7238,
+   "change": 0.78,
+   "asOf": "2026-11-27T15:20:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59470,
-   "change": -1.69,
-   "asOf": "2026-11-27T15:18:06.000Z",
+   "value": 59392,
+   "change": -1.82,
+   "asOf": "2026-11-27T15:20:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -457,6 +457,13 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "قراصنة يخترقون البنية الرقمية للقوات الجوية الأميركية",
+     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPZWZnSVdRMEFfNWpzc1E0eTEzc3JuZzNDLVFiLXRnbTFVUE44WmdBUlpCalFKMDRIVXN4ZEFibFBnbERQTlJWLTR1empaczJvUDlrU2ptLWlRRkQxMFEzaXZRRGU1OUtzOEZpU195aFJpd25XMWZYNEdJMlRMbnUzTzhwal80Z0RoUzhERVBLbzd2Tk5jQlZ1VDRFRGhTajZJR1piRXVEcVlJUFk0am9lR09XX0VsZVNnMVcxY2dTbVJNbW1wNnF4eXVkVzJWOGJOUjdHZXQtQ1lwcWRiaVFMVm1rcExkWUhLcTVITkg1SHFxNUJDZndpN0JURnVhYlB6ZkhBMmZJYnBnaWhOd3otRmZVVmg2em5zdUlpSGM2ZFdERWZlREN3Z0JKcTBLM2JReTllRHc5eTFfNUJkSE1mUEo5R1dXTGNRbjFTM2dVODB3c0M2OUlLQlN1LTRoY0dEWHdFRGFoWTlrWEhhR1JYdmdUV0Z6a1ZhMm5LU3U4d2VPMUpVeXIxR3JXbFAtaXB4REs5QkhUVU5xUG05MXBKcmRwZHNIR2lkeXdwVFJOalBfc2dfbFdsRlQ5ZzlQNDFhTHBsbXc5Yl9NYXJzSFZyd19QRXFQZFnSAdwDQVVfeXFMT0hZRXh4QWJ5MUl2MU5NYUk5QXVId0ZrUVA5YnM1WjdGaml6azJvenRXY2pNZVBFTHppMFJQQkNzd0s0MUYtanN4LVQ5Z3dDeENxY0VTY1VQWWpKMnRVRGk5blpWelRxbWhTbkNudTZfRDBhcjJjSXYwVXU0ZWxPdHNERlV4STBYM2t1Vnk4QlBuTlZlZjZuRVBhYWdlSGhFeGQweWZOYUV6QVRCR2oxZVpCNU5IWDN4NVY1WTZVQzBGeUFUc0lYSGpnSGh5ekhwNkgzaWNsaGVmREllMkZ3cV9NX2Z2b0JxV2pwdG9OMmpROXdqdVktdGdGdXB4ODhMUjU5UU5xclZubUtfaVRUX3R0RVo3elJUdDZXZ2FmYjZqeTNVS2t0OXZYeW9XMmt1SUZvR05DWTk3VFF5dWxKejdHSVQ5LWowQU1KdVVqTEV2TzZfdGxzeWRWODJCWG1aZ2xXaFFSLWdaazlxMWZwS3dJSDl2TTltc2hVTGtCa3d1b1gycXllUFAtV0Zncl9ZSFQ1aFpub3dZLUN5akUtLUFwUjMxUkRqTmpzYkdUVm1RSzUtQWZGZVlVLWN2V2ZtSFI4M25BSHFVN3hINmxsN0RnaXdHVlBlMEVwWXE?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-27T13:35:39.000Z",
+     "seen": "2026-11-27T15:18:31.909Z"
+    },
+    {
      "title": "الصين تنظم الهوية الرقمية الموزعة وتشجع استخدامها لوكلاء الذكاء الاصطناعي",
      "url": "https://aitnews.com/2026/11/27/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -524,13 +531,6 @@
      "seen": "2026-11-27T13:47:32.110Z"
     },
     {
-     "title": "خبراء يطورون علاجات جديدة للسرطان في الفضاء",
-     "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNWTZhMHhWZWJGWTlOQUR2WVg5dlN1cUJFaFdOczE0X1B2czhkc1M0cW96Z3FXR0lsLUhadUZrMjQ5SVZCcjR3QnRtTFdIN3drNGtDNmJqR2phcUN2czZ6dVFyNnhOUHVKTjZuX3BDS1NKOHlPbkVzTDl3d2Y2QVVyZU1sQUNmWXg5NVV5cDRpZjNya2VsazVwdFlLWkMwemN5UlAtTTE1aFNNYTVtTFREbVphQUdVTWQxeWFDM2RBeklXQUJxV0R5dmlta21vMGc2SXk3TXhKWmxBYVEzcmQzR3dNbEJ3NzVmSWhXTHRKLWlUUXo3YTMyaXI0RjFqYWFJOEFjMk1yT3lTS2FVS3diazNJUmw4Y3liNkQtSmJoSWlNQkVFcEF6R1ozb3U0TWVCa0RBdWRTWFktMDctSFdjRGcwRG5TUGoweUdLUHdNcnpNc1ltOHFvaVlXSEZZWExlZm4wcl9ydUVtUFlFWWtaSGJJLXRJYTMxVU1actIBggNBVV95cUxNcVZSYjdDVHZlVG1UcDAzMUJLQlk2anI5X2drbEFpUlMtTG1hemV3bmF3T2dUUERHMHp0U2otQm5NaHhVTU42cjhCWVk2M19qUUtNS1ZfMC1ZMXhoajFsczJXel8wYUxKSTE0V3VZbnJWdVpsSDA5bjMzSnFLYXhUTUdWSFM1UWFYRXR2UnZ4NzVxMmJGWk5DWmRfQzVkWG5Qd3JoT21Wc3BuZUU5SXNaSWZJSTBIRTdqaXpjTmZ4LXFJeGdmbi1seXRDQm1wUDJoNklReUdFQ1U5UnJxaWJnbmdPZjlYUjNILVp3NnY5d084M0ZSb1hzVFlnRHRWNlZYNmttMTZmT3lMd0hkUEVDYXlsbGVVNGtQYUdyQ2FrUXZkb3lPWURKcms1dXdYY0U2ZC1UZU4ycFFka3BRMlBnaG1uVGdXNEhFSEUyQTBsS1N2WjRiVFNqTFlkN3lmeS1OdmQ2elpPN19VRkNpRTZ5OE1aR0RWaENTc2lDNHR6Ynk2QQ?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T07:15:39.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
-    },
-    {
      "title": "الذهب يرتفع بدعم من ضعف الدولار وتعافي أسهم التكنولوجيا",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQODJScmpkRjZPMzMwOUIzbVlqWThXMWRkTjMzeTlnX0VBbldjTndwSFlMWVhjTEtTTDNSRUNocVo1UXdHLXZ6dkMxbjZnTVE5WVk1VG5wY1NCenNXd1RRcGs0QkFEQjRyd085Y01oaEFZSGxTc0ZiZjNVSDB0VlNuUGpPbEluUlJYaU9ucDZvbHhMempES3RNeV9XSWg3Qnk3MDJnLWlWVUJDSEgyNFNuZzVlTWRoZWJZMm1qV3dUdkxtLTJRbDBUaUhSSjIya2tMZlZBWDVfT2hLWTN5d0N5OW85Vk51SUdZdVpqbXVaZW5JeWpWUkE1cXNMbWhaamVTd3Z4NnlOSE9jQQ?oc=5",
      "source": "الشرق بلومبرغ",
@@ -564,6 +564,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
