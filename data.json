@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:48:55.194Z",
+ "updated": "2026-11-27T21:58:54.376Z",
  "minute": [
   "شملت الأخبار المحلية في مصر تحديثات لأسعار صرف الدولار والدينار الكويتي بالبنوك، إلى جانب مواضيع تتعلق بالقوانين والفتاوى التجارية.",
   "وعلى الصعيد العالمي، برزت مباحثات دفاعية بين السعودية وباكستان وتركيا، وتطورات ميدانية وسياسية في سوريا وليبيا وفرنسا.",
@@ -9,7 +9,9 @@
   "at": "2026-11-27T21:38:54.844Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 7
+  "impacts": 7,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T21:58:54.376Z"
  },
  "markets": [
   {
@@ -18,7 +20,7 @@
    "unit": "ج.م",
    "value": 54.77,
    "change": 0.11,
-   "asOf": "2026-11-27T20:12:19.000Z",
+   "asOf": "2026-11-27T21:51:08.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0935,
-   "change": -0.32,
-   "asOf": "2026-11-27T21:48:46.000Z",
+   "value": 1.0937,
+   "change": -0.3,
+   "asOf": "2026-11-27T21:58:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59723,
-   "change": -1.28,
-   "asOf": "2026-11-27T21:48:55.000Z",
+   "value": 59755,
+   "change": -1.22,
+   "asOf": "2026-11-27T21:58:51.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "بسبب أعمال تطوير نظم الإشارات.. السكة الحديد تعتذر لركاب الوجه القبلي عن التأخيرات",
+     "url": "https://www.elbalad.news/7197077",
+     "source": "صدى البلد",
+     "time": "2026-11-27T21:49:59.000Z",
+     "seen": "2026-11-27T21:58:54.376Z"
+    },
+    {
      "title": "الفيوم: نستهدف توفير 600 صندوق قمامة جديد لتطوير منظومة النظافة وإدارة المخلفات الصلبة",
      "url": "https://www.elbalad.news/7197076",
      "source": "صدى البلد",
@@ -148,13 +157,6 @@
      "url": "https://www.elbalad.news/7197073",
      "source": "صدى البلد",
      "time": "2026-11-27T21:42:12.000Z",
-     "seen": "2026-11-27T21:48:55.194Z"
-    },
-    {
-     "title": "استشهاد حارسين من أطباء بلا حدود في هجوم إسرائيلي قرب مستشفى الشفاء بغزة",
-     "url": "https://www.elbalad.news/7197068",
-     "source": "صدى البلد",
-     "time": "2026-11-27T21:40:35.000Z",
      "seen": "2026-11-27T21:48:55.194Z"
     },
     {
@@ -505,10 +507,17 @@
      "impact": "الشراكة لتأمين الحدود الليبية تهم الأفراد والمستثمرين في مصر لمتابعة انعكاسات الاستقرار الأمني والإقليمي على المنطقة."
     },
     {
+     "title": "وول ستريت تغلق على ارتفاع مع تعافي أسهم شركات الذكاء الاصطناعي",
+     "url": "https://sana.sy/economy/2647121/",
+     "source": "الوكالة العربية السورية للأنباء",
+     "time": "2026-11-27T13:57:00.000Z",
+     "seen": "2026-11-27T21:58:54.376Z"
+    },
+    {
      "title": "الذكاء الاصطناعي يقلص فرص المبرمجين.. دليلك للبقاء في عملك",
      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQcDk1am1TS2x3bkF5MnMwZWtUV0xGVlVmQndZTlpZRENCenIxclQtQVpHM2xONXZXZTlud1pnaFlCaXVraUhPRkxVTTJsc2ZFOUtMc0p1WkhhWV9vWVpudmFQNnc0ZHlCcm9BbEdjNU5ZNUl3M3RiTkVUdmxpRktoTllSSVNfTkJhT2hIcnBacURfZE9MQ2NLSWNPdnotZHVSdHVBX1dtOG5xdnlSS0NwSVZMbXpSZkg4NEpKZ1VSRlMyc2MwZWtvOWhQenBFV0JWeS01dEV2eXpWRXZiUTdsazZZdV8yMHBTc2VCQVIxcFQ0eGl0WjFyUXpNRTgxOVRnME9kS1NoNlh6SXlxYW1pRU5rbXBVNXllUmRqSVVUS3c4eGtBXzFSLTdOLURldnZWZVMzMUFmMXQ0dFRQNTE4YkN3ejFRdTN2STFLMkE1RHlHdFB1TE9mcVVrVFo3d3VyaGtPVl9YdW83ZThrdVMtTXVsSmVUUXg3UzJCLWs0amcyOGpBa1hLeUZINVZKbU5haHF5R3ExTklvT2t5RVBhSUtwS0t1M0FkcmEzUTY0SF8tUUFhNlE3cHNReV9wVlJkUW5rTEtlRUVhQkVSOVpzTC1EVnUySlnSAdwDQVVfeXFMTkhOMnRYVmFIWHZLRFhmMDVTaElrMG10YkNIZkduQk55X1NiYXB4YjRjT1htYnpVZ0FLcVdpSWhGNEh0d0VRMDFvaDRma1RFRzJwTERDd0J0SERUanJKajFxR29IWm83Wno4bVZOOTg1N2pnQXlwNEdMdFo0b2FfZlBlVEJsdGtNX3FZOTM3eFhtdjZmUTNOWmNSRXFwcGcyeVFPbHV2bW9BVVRSMVFDbTcyUVdSN0pVOXpQSjBUM3F2U0xodmFaOFV6eW93Q3lsSWpUOVJidnlyOGVqNnFuNFg2bGxaMFN6QWRGWmw3X0EwV2JGa2VfTG1xajBvSk8tM2hMODlhRnhmNHFZTHhSNzJ5UHFyVDAyTGZfaExoVUVsM09rTDZER1g4U3hSX1lNU2NTallTa29zcEtNRm5yNEt2ZmRNNURWYUxyb2REdE9wZFZxRGp4VTJkYUZnWlRlRlZ1cVBUa0NndHRNRnBReklOSjlGRHJxYmh5eXYxQkdUaVNPYkk2VnpoeENyWlk5cmc1Sm5LWkRTdFlwUGNiTlZ2aUhtMXJqUURKa0hySUl4WEhhcTNfSHZMZmJ3TzJ1aXBsWS1ybjloUFZ0QXVVTWFXaXRDTzR5Nm40T2k?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T13:40:49.000Z",
+     "time": "2026-11-27T13:51:08.000Z",
      "seen": "2026-11-27T21:18:55.217Z"
     },
     {
@@ -548,13 +557,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T10:51:00.000Z",
      "seen": "2026-11-27T17:08:31.515Z"
-    },
-    {
-     "title": "حمام بأدمغة شبه إلكترونية.. هل بدأ عصر الطيور المسيرة؟",
-     "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcHBubUpfR0MwMXh3MmZpeWJpRmE0V3VQbjQxTGoxZWxDTm5tX2FBdFNXejl0d3lUeFVfQlNCWkh6OS1FMmd6SDA1M1dPZHB3Tm9BTVp0UHRvemVnQTRhbDl2UTdpTUozaFJvQWpSV0NmN3RLV0g2QzZBdUtIQklCazJZdnlPbWZEV0c1aGhBaUJQZ0Y0T3o0S0J0SXlxY0FoaldtQ3ZUSldJZ1dpb1RSTmdfaHVvMDRObXZsRGM3XzJ0eFI1S0lHaWV2SnpnV3dYdjh5eGdCUXIzQXh0dkM5VEphc1lra1ZIQ0Q0d3BKQUdMVi1HWXF0c3JuMWFqM3pMaVkwUnhvR082bElOZG1Ob3hzSGd2eW1ET3pMdTNsZDJmMjNxTTlKT0kxelo1eDNwVXpVUXdpTnJWa2p2V3g0S1hmNTRwRFZUY1RNX2t5WFdzMjJqYVBhTXRGd1VFc1p6d0dBZDVwWTA0S2oxVXEzWnlDZzhqQXY5aVNIREg5dFdiSXhhcmQyZzRwUDl3Q0FLQ0pDaGtR0gGbA0FVX3lxTE1paUJDMHAwdmRvZkdWbG1xdFNndzg2Y3pHUXBTdXhaQXVncGtOYy1tOHRBTUJjTE01bEdUeTJ6N3NUTEQxdnhDMjV3dHdqbXNsTjk4VUpZd2JXdGk3bDlLcWphVnNTbVY5MVBhNEhaYU1pcmVnU3dnRGh2ZkxJZWJSS0lCWlFySWZVN2J1cWNuLWVuZnBPelVFZi1XYlNGR1FvNTc3Qm9MV1JITFVCN3N5aGlCd29vY0tybklLY0xMMjhBeXpMNHdMUHl1T29GcEprYlVReUxTZndKSWtoNWRWU2xVNVpxazVKTFdZa0hGZFFjMEdaeDRsenZianBRaHIwcGJGRHFQOUxmQ1ljOUNzb2tlWE5XbHdfQjN5RzdEZWIwdEwzWGQ5TmJIVEF0ZWpyRWV6djQ4eG9UVzQ3WmJDX19scG1YRU9HcXRLaWhfdkZhY2puMDJGZmN3S2M3c0ltSVFjOFVQQ2xxWUJpV0FkWFo1OExiX1NNQkFSRTl4QUFIUnZFcW1ZOFNkbVktQUhndlRlYVdPQ3duaw?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T08:28:52.000Z",
-     "seen": "2026-11-27T09:36:06.178Z"
     }
    ]
   }
