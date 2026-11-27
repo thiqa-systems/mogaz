@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:17:32.154Z",
+ "updated": "2026-11-27T13:27:32.238Z",
  "minute": [
   "تتابع الأسواق في مصر تحديثات أسعار صرف الدولار والتوقعات المستقبلية لأسعار الذهب.",
   "شهدت المنطقة المركزية العسكرية في مصر تنفيذ المرحلة الرئيسية لمشروع مراكز القيادة الاستراتيجي التعبوي.",
@@ -10,7 +10,9 @@
   "at": "2026-11-27T13:07:31.393Z",
   "model": "gemini-3.6-flash",
   "key": 2,
-  "impacts": 6
+  "impacts": 6,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-27T13:27:32.238Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5694,
-   "change": 4.64,
-   "asOf": "2026-11-27T13:07:32.000Z",
+   "value": 5667,
+   "change": 4.14,
+   "asOf": "2026-11-27T13:19:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6501,
-   "change": 4.64,
-   "asOf": "2026-11-27T13:07:32.000Z",
+   "value": 6470,
+   "change": 4.14,
+   "asOf": "2026-11-27T13:19:16.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3696,
-   "change": 4.53,
-   "asOf": "2026-11-27T13:07:32.000Z",
+   "value": 3678,
+   "change": 4.03,
+   "asOf": "2026-11-27T13:19:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -62,18 +64,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0953,
-   "change": -0.16,
-   "asOf": "2026-11-27T13:16:45.000Z",
+   "value": 1.0948,
+   "change": -0.2,
+   "asOf": "2026-11-27T13:28:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.88,
-   "change": -2.89,
-   "asOf": "2026-11-27T13:07:17.000Z",
+   "value": 91.75,
+   "change": -3.02,
+   "asOf": "2026-11-27T13:19:18.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61397,
-   "change": 1.49,
-   "asOf": "2026-11-27T13:17:32.000Z",
+   "value": 61363,
+   "change": 1.44,
+   "asOf": "2026-11-27T13:29:19.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,25 +140,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الملايين بيدعولهم بالرحمة.. المحافظات تؤدي صلاة الغائب على أرواح ضحايا دائري الوراق",
-     "url": "https://www.elbalad.news/7196593",
+     "title": "مفتي الجمهورية يعزي الدكتور إبراهيم صابر محافظ القاهرة في وفاة والدته",
+     "url": "https://www.elbalad.news/7196598",
      "source": "صدى البلد",
-     "time": "2026-11-27T13:16:58.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
+     "time": "2026-11-27T13:24:07.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
     },
     {
-     "title": "بعد ساعات من البحث.. أسرة أحد ضحايا الدائري تتعرف على جثمانه وتستعد لدفنه بالشرقية",
-     "url": "https://www.elbalad.news/7196590",
+     "title": "مشاهد خطيرة.. وزير الداخلية الفرنسي يدين أعمال العنف خلال مباراة مع فريق بلغاري",
+     "url": "https://www.elbalad.news/7196597",
      "source": "صدى البلد",
-     "time": "2026-11-27T13:16:15.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
+     "time": "2026-11-27T13:22:57.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
     },
     {
-     "title": "باحث سياسي: الحكومة اللبنانية اتخذت قرار التفاوض سياسيا دون خطوات تنفيذية",
-     "url": "https://www.elbalad.news/7196592",
+     "title": "تقرير حقوقي: احتجاز 733 امرأة حامل في مراكز الهجرة الأمريكية خلال ولاية ترامب الثانية",
+     "url": "https://www.elbalad.news/7196595",
      "source": "صدى البلد",
-     "time": "2026-11-27T13:15:32.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
+     "time": "2026-11-27T13:20:13.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
     },
     {
      "title": "وزارة التضامن تجرى تحاليل طبية لنزلاء دار الرعاية بمدينة 6 أكتوبر",
@@ -353,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "جدل وانتقادات لحظر الجندرية في وزارة الخارجية الألمانية ومعهد غوته واتهام \"بتراجع ثقافي\"",
+     "url": "https://www.dw.com/ar/جدل-وانتقادات-لحظر-الجندرية-في-وزارة-الخارجية-الألمانية-ومعهد-غوته-واتهام-بتراجع-ثقافي/a-80075149?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T13:16:00.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
+    },
+    {
      "title": "من رأس تنورة إلى الرياض.. خريطة تكشف اتساع نطاق هجمات الحوثيين في السعودية",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/saudi-houthi-attacks-map-271126-infographic",
      "source": "CNN بالعربية",
@@ -430,24 +439,17 @@
      "seen": "2026-11-27T11:07:32.250Z"
     },
     {
+     "title": "أوكرانيا «ليس لديها أي نية» لتوسيع رقعة الحرب إلى ليبيا",
+     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQZzF4SkdjbENsd3I5a3dHQ21uNFc2MS1tOVJJQ3NzZWJDOXFZOU9ocGZwVGVKUTZ6UXVQam1jVENMaE5MX0hEdHlsLTVXZWFWU2tFT3lubnI1Z0pXZTVyQWxoMkdJNWZFQ3pBd3NlZnBwN1RQbThqU0lPandTeHNsZUdjaHRObDg4NXc3LTIxS08yUGR0UDJKaWhfN1hyaW9CenZIMnZZRDNKWFNRZDhvZWlTR0t2eVRHNFNwMnpfa20wRGNVZTk0U3pVODA3THhXcGUwRVo2WHduSlg3RHQ0MXVuYzBkTFBjbHJ5bEx0YWlvQWhQUkJCNGJJRkNhMzNZVUw5RFRkNm0yMWZXcGFER0xqNk8zMm5aUWRiWVNRQktGWkZZS3BobUpqSDFobkwzdWJ3dUhIWHZWNV9RaU4tV0U3R3Nyc2RlNGpBMk42bkJqY05hQTVQZnk1ZmdSa2pzSWlhU1pzUGlaSDBTWmFUaHhsMy0zQ1JDdlpGS3dWV2FOVWVpa0xXdDlJMUNFcm42QmFSR2hxamgyMmlCTG9CeWxmbEl3TEpFa1lHMThKNDNmZnJhUDJXZXZobWFsZkpYUk9IN3Fmby1rNDBoOUhubGUtcUwzRk5UbUlKZ3FjaEJfYlJUNG5OeDEySHdtZk12Ym0zNEg5dUdpNEYxRzY0S3FheW0wbzlmRlBTRHV1SHdvcWtLd1hFUHRwTzF5WE9HTjQ3RTh3THc4N3hzelhKVUFGcXdnanlHbHBFSEJqWk5VemZ6a0NmQnQ0TXJBUTY3OFZ3S0dGUGlDZ2U1WlQwc01UNVRDZUZ6amc?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-27T10:07:40.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
+    },
+    {
      "title": "\"لا نملك لاعبين إسبان\".. مورينيو يمزح حول الانتخابات ويرفض مقارنة بيلينغهام بزيدان",
      "url": "https://www.aljazeera.net/sport/2026/11/27/%d9%84%d8%a7-%d9%86%d9%85%d9%84%d9%83-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86-%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88-%d9%8a%d9%85%d8%b2%d8%ad-%d8%ad%d9%88%d9%84?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-27T10:00:00.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
-    },
-    {
-     "title": "تعاون سوري عراقي يحبط تهريب 400 ألف حبة كبتاغون من لبنان",
-     "url": "https://www.aljazeera.net/news/2026/11/27/%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%b3%d9%88%d8%b1%d9%8a-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%8a%d8%ad%d8%a8%d8%b7-%d8%aa%d9%87%d8%b1%d9%8a%d8%a8-400-%d8%a3%d9%84%d9%81-%d8%ad%d8%a8%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T09:58:22.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
-    },
-    {
-     "title": "المغربي دياز يجدد عقده مع ريال مدريد حتى 2031",
-     "url": "https://www.aljazeera.net/2026/11/27/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%af%d9%8a%d8%a7%d8%b2-%d9%8a%d8%ac%d8%af%d8%af-%d8%b9%d9%82%d8%af%d9%87-%d9%85%d8%b9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T09:56:48.000Z",
      "seen": "2026-11-27T13:17:32.154Z"
     }
    ]
@@ -457,24 +459,24 @@
    "title": "تكنولوجيا",
    "items": [
     {
+     "title": "الصين تنظم الهوية الرقمية الموزعة وتشجع استخدامها لوكلاء الذكاء الاصطناعي",
+     "url": "https://aitnews.com/2026/11/27/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-27T13:18:52.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
+    },
+    {
+     "title": "علي باي تطلق وكيل ذكاء اصطناعي للتسوق والدفع صوتيًا من داخل السيارات",
+     "url": "https://aitnews.com/2026/11/27/%d8%b9%d9%84%d9%8a-%d8%a8%d8%a7%d9%8a-%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa/",
+     "source": "البوابة العربية للأخبار التقنية",
+     "time": "2026-11-27T13:17:49.000Z",
+     "seen": "2026-11-27T13:27:32.238Z"
+    },
+    {
      "title": "وكيل ذكاء اصطناعي يشتري البيتزا بالدفع المباشر من حساب مصرفي في بريطانيا",
      "url": "https://aitnews.com/2026/11/27/%d9%88%d9%83%d9%8a%d9%84-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-27T13:16:42.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
-    },
-    {
-     "title": "ميتوان المالكة لمنصة «كيتا» تحقق إيرادات فصلية قدرها 17.37 مليار دولار",
-     "url": "https://aitnews.com/2026/11/27/%d9%85%d9%8a%d8%aa%d9%88%d8%a7%d9%86-%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%a8%d8%b9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-2026/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-27T13:15:51.000Z",
-     "seen": "2026-11-27T13:17:32.154Z"
-    },
-    {
-     "title": "مون شوت تتيح للباحثين أرصدة ذكاء اصطناعي تصل إلى 20 ألف دولار",
-     "url": "https://aitnews.com/2026/11/27/%d9%85%d9%88%d9%86-%d8%b4%d9%88%d8%aa-%d8%a3%d8%b1%d8%b5%d8%af%d8%a9-%d9%83%d9%8a%d9%85%d9%8a-%d9%84%d9%84%d8%a8%d8%a7%d8%ad%d8%ab%d9%8a%d9%86/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-27T13:14:28.000Z",
      "seen": "2026-11-27T13:17:32.154Z"
     },
     {
