@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:07:32.069Z",
+ "updated": "2026-11-27T12:17:31.640Z",
  "minute": [
   "شهدت الأسواق المحلية والعالمية ارتفاعًا في أسعار الذهب بالتوازي مع متابعة أسعار صرف الدولار أمام الجنيه المصري في البنوك.",
   "أعلنت هيئة الاعتماد والرقابة الصحية «جهار» تجاوز ألف منشأة صحية معتمدة موزعة على 27 محافظة.",
@@ -10,7 +10,9 @@
   "at": "2026-11-27T11:57:32.008Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 8
+  "impacts": 8,
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T12:17:31.640Z"
  },
  "markets": [
   {
@@ -26,27 +28,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5698,
-   "change": 4.7,
-   "asOf": "2026-11-27T11:57:30.000Z",
+   "value": 5696,
+   "change": 4.68,
+   "asOf": "2026-11-27T12:10:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6505,
-   "change": 4.7,
-   "asOf": "2026-11-27T11:57:30.000Z",
+   "value": 6504,
+   "change": 4.68,
+   "asOf": "2026-11-27T12:10:26.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3698,
-   "change": 4.58,
-   "asOf": "2026-11-27T11:57:30.000Z",
+   "value": 3697,
+   "change": 4.56,
+   "asOf": "2026-11-27T12:10:26.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,16 +66,16 @@
    "unit": "$",
    "value": 1.0969,
    "change": -0.01,
-   "asOf": "2026-11-27T12:06:43.000Z",
+   "asOf": "2026-11-27T12:19:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.09,
-   "change": -2.66,
-   "asOf": "2026-11-27T11:57:17.000Z",
+   "value": 91.89,
+   "change": -2.87,
+   "asOf": "2026-11-27T12:10:15.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -89,9 +91,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61568,
-   "change": 1.77,
-   "asOf": "2026-11-27T12:07:30.000Z",
+   "value": 61588,
+   "change": 1.81,
+   "asOf": "2026-11-27T12:20:23.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -138,40 +140,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "هل يفاجئ معتمد جماهير الأبيض؟.. تغييرات مرتقبة في تشكيل الزمالك أمام الأفريقي",
-     "url": "https://www.elbalad.news/7196509",
+     "title": "خطيب المسجد النبوي: من أعظم المنن الإلهية على العبد أن يلهمه الله الشكر ويوفقه إليه",
+     "url": "https://www.elbalad.news/7196522",
      "source": "صدى البلد",
-     "time": "2026-11-27T12:03:14.000Z",
-     "seen": "2026-11-27T12:07:32.069Z"
+     "time": "2026-11-27T12:16:55.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     },
     {
-     "title": "نقيب التمريض: بلاغ للنائب العام لوقف عرض مسلسل عنبر موت",
-     "url": "https://www.elbalad.news/7196508",
+     "title": "غيابات بالجملة وعودة منتظرة.. ماذا يحدث داخل الزمالك قبل مواجهة الأفريقي التونسي؟",
+     "url": "https://www.elbalad.news/7196521",
      "source": "صدى البلد",
-     "time": "2026-11-27T12:02:57.000Z",
-     "seen": "2026-11-27T12:07:32.069Z"
+     "time": "2026-11-27T12:15:39.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     },
     {
-     "title": "بني سويف.. 2686 خدمة طبية والكشف على 811 مواطنا في قافلة مجانية بالأنصار",
-     "url": "https://www.elbalad.news/7196504",
+     "title": "الأوقاف: استنفار الدولة بعد حادث الوراق.. والشعب المصري يظهر معدنه وقت الأزمات",
+     "url": "https://www.elbalad.news/7196519",
      "source": "صدى البلد",
-     "time": "2026-11-27T12:02:23.000Z",
-     "seen": "2026-11-27T12:07:32.069Z"
+     "time": "2026-11-27T12:15:14.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     },
     {
-     "title": "حادث دائرى الوراق.. مساجد مصر تقيم صلاة الغائب على أرواح الضحايا",
-     "url": "https://www.youm7.com/story/2026/11/27/حادث-دائرى-الوراق-مساجد-مصر-تقيم-صلاة-الغائب-على-أرواح/7634282",
+     "title": "سوزان صدقي: الهيئة القبطية الإنجيلية تصل سنويًا لأكثر من 100 ألف مزارع لدعم التكيف المناخي",
+     "url": "https://www.youm7.com/story/2026/11/27/سوزان-صدقي-الهيئة-القبطية-الإنجيلية-تصل-سنويًا-لأكثر-من-100/7634425",
      "source": "اليوم السابع",
-     "time": "2026-11-27T11:57:00.000Z",
-     "seen": "2026-11-27T12:07:32.069Z"
+     "time": "2026-11-27T12:11:00.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     },
     {
-     "title": "«جهار»: تجاوز الألف منشأة صحية معتمدة بـ27 محافظة",
-     "url": "https://www.youm7.com/story/2026/11/27/«جهار»-تجاوز-الألف-منشأة-صحية-معتمدة-بـ27-محافظة/7634327",
+     "title": "رانيا راشد: تمويل التكيف المناخي ينقذ حياة البشر.. والمزارعون الأكثر تضررا",
+     "url": "https://www.youm7.com/story/2026/11/27/رانيا-راشد-تمويل-التكيف-المناخي-ينقذ-حياة-البشر-والمزارعون-الأكثر/7634421",
      "source": "اليوم السابع",
-     "time": "2026-11-27T11:44:00.000Z",
-     "seen": "2026-11-27T11:47:32.242Z",
-     "impact": "يهتم الأفراد في مصر بمتابعة مدى انتشار وجودة المنشآت الصحية المعتمدة في مختلف المحافظات."
+     "time": "2026-11-27T12:09:00.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
+    },
+    {
+     "title": "من لحظة اشتعال النيران حتى وداع الأحبة.. الحكاية الكاملة لحادث الوراق",
+     "url": "https://www.youm7.com/story/2026/11/27/من-لحظة-اشتعال-النيران-حتى-وداع-الأحبة-الحكاية-الكاملة-لحادث/7634422",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T12:07:00.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     },
     {
      "title": "«فلوس التبرعات هتروح فين».. مجلس الوزراء يكشف مصير أموال دعم ضحايا حادث الطريق الدائري",
@@ -180,13 +188,6 @@
      "time": "2026-11-27T11:39:00.000Z",
      "seen": "2026-11-27T11:47:32.242Z",
      "impact": "يوضح للمواطنين والمترعين كيفية توجيه وإدارة أموال الدعم والمساعدات المخصصة لضحايا الحوادث."
-    },
-    {
-     "title": "بحضور مفتي الجمهورية.. صلاة الغائب على شهداء حادث الوراق بالجامع الأزهر",
-     "url": "https://www.youm7.com/story/2026/11/27/بحضور-مفتي-الجمهورية-صلاة-الغائب-على-شهداء-حادث-الوراق-بالجامع/7634382",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T11:34:00.000Z",
-     "seen": "2026-11-27T11:37:31.697Z"
     },
     {
      "title": "\"مدبولي\" يُعلن دعم أسر ضحايا حريق الوراق.. شهادات استثمار وسيارات للمتضررين",
@@ -243,6 +244,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "بعد آخر زيادة.. كم سجل سعر الدولار اليوم الجمعة 27 نوفمبر 2026 مقابل الجنيه المصري؟",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jMjd2b093NV8yaVlTOVFCSFctV0FnSVdEMzZfZWF5Y2k3X3YzOXJNUUpRVW84VHVIc3JxUElEM21MYTBpNkNieHRqZjlyRXpnQkdIZEFSRnExVmltbDBZ?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-27T12:10:00.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
+    },
     {
      "title": "5 آلاف دولار تكلفك 274 ألفا و750 جنيها.. اعرف أقل تكلفة للشراء من البنوك",
      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQb0dCZUtIcE82UGQ0RHB3SWJsY2JyZjhBV1h5RTBOajhtRzRSVlFwY2w1c2FQYldhcDJTRWNNa1M1OWk0bXdxcUc3OWZfdHV0U0N4QUNxNFNjdjZUOWIyaThWZ0l3dXRSN2xwLW5qM1VtVldBRTg0OUw4Mmt0SThpcy1KczhObjd2SmkwR3luMTIxdWdSLTFXM2JsT21KZ0xTMEVCTklnMWtvV2U0a2l1ZENsLXVsNHB5ZlFNbDdHNFRqUlVzcWNYbVQ3dWsyblRJVmlMNS05YUJlV2FCNV8tSm9ZYl9sWnZqUWpRem1QanBRR0twdWRnMWpFVjlwRnFIUzV1M2c0amJxVHgxTWt4Z25DWUlucUh5cVFoZm5LbDd0bGlteDVzemFmRDVzZE1NR3I1dmlqUW14SGNQWmxKeEdicTU4UWZ3X1lRZ0hnX0VJRHJpaVpVMVc2ZUdaOHVIRDhWcjNMTWrSAeMCQVVfeXFMUGJVeGVqRGgycUFwTzYwTGdMX3JoWnc2OHJMbkNxazMwVmdQQkxHQXBEbS1vWXV3WTBQQVA4R1BBNnhOZEkzaUFUVm5jdldvMWhldWxWVG03LWVoMS1UNDVyRUV0VGxFN09wdlpjanU4Y1hFMWU0LUNVeloxR25ubHEwWXdmWk52bEJLTnVFUFJnTllNNFY0Vm9fdFR1SDVLTWNWYllPQjV3Z3ZXcGptZGpUbFRyLVg4ak1aSWE2aVpmZG8zazkxc29LN0VLZFYydEI4M0czZGx4SG1pQXBnSHprV29SVS05d0dzTFVQQ0gySlJGandnRFdFN2tSampMZXN3Z2hzOHFUdk03d0hXdjQ1eDM2YzZCV0VVUFlmLTg3THE3dk5XS0YxdUctdllETk1iWFpIbVJrc192d2pVc1QtYmd5NHN2QWpEQjF6QzY5dUZZMmJjYXBKaUVPSXlRNC1KRQ?oc=5",
@@ -341,13 +349,6 @@
      "time": "2026-11-27T08:59:19.000Z",
      "seen": "2026-11-27T09:06:05.390Z",
      "impact": "تؤثر في حركة الأسواق وتكلفة الاستيراد والمشتريات اليومية للمستهلكين والمستثمرين."
-    },
-    {
-     "title": "تركيا تصادق على اتفاقية مكة للدفاع المشترك قبيل اجتماع ثلاثي في إسلام آباد",
-     "url": "https://www.bbc.com/arabic/articles/c3dx1yz9q2nko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T08:23:33.000Z",
-     "seen": "2026-11-27T08:26:05.961Z"
     }
    ]
   },
@@ -355,6 +356,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "\"التحالف\" يعلن تدمير طائرة مسيرة أطلقها الحوثي باتجاه الرياض",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/cjfcspox-drone-houthis-riyadh-destroyed",
+     "source": "CNN بالعربية",
+     "time": "2026-11-27T12:05:40.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
+    },
     {
      "title": "إيران تنفي مسؤوليتها عن مقتل إيطاليَيْن في هجوم بالكويت",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Qd2ZDNFhsa2RYYXBLQjYwSnZBa2w0eVluR1FBcFNscnV0OUR0OHZidjZSN3lCWDNQVVQzalVxZjFDZ1ItbXdkUWZCaWtkZXp3YWVKajRCZk43UzEtRnfSAWNBVV95cUxPMWRBak5ORVZHTlZmWmZUbzVVSWl5UWtGR29tSDRXWlE0MFB3N190TktQeUg1a3lHbVB5Qy1pT2NycFJmV0VTR1NUbS16bnVhM2wyUmM5TFluUExubE5QZjFqam8?oc=5",
@@ -399,13 +407,6 @@
      "impact": "يهتم المستهلكون في مصر بمتابعة مواسم التخفيضات الكبرى للشراء عبر المتاجر أو المنصات الرقمية."
     },
     {
-     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-27T10:24:00.000Z",
-     "seen": "2026-11-27T11:27:31.737Z"
-    },
-    {
      "title": "قمة بروكسل تفشل في حسم ميزانية الاتحاد الأوروبي وسط انقسامات عميقة",
      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261127-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%84-%D8%AA%D9%81%D8%B4%D9%84-%D9%81%D9%8A-%D8%AD%D8%B3%D9%85-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%88%D8%B3%D8%B7-%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85%D8%A7%D8%AA-%D8%B9%D9%85%D9%8A%D9%82%D8%A9",
      "source": "فرانس 24",
@@ -442,18 +443,18 @@
      "seen": "2026-11-27T11:27:31.737Z"
     },
     {
-     "title": "تركيا تصادق على اتفاقية مكة للدفاع المشترك قبيل اجتماع ثلاثي في إسلام آباد",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pSm5uaVptY2p1RlVwbGR2bEJlRWVsTlFfaVVlTzhrNUJiekFNQ2FGMHhPVXJ3dmJ2SFpzZUtSeEJZQ1lZNkxtMlhKdWgzTXUxYjRQY19KMTVOTW5TOFHSAWNBVV95cUxQM0JmV0NQczQxbHNSUGxQNjhGZDZtb0ozQmRrR2RwdFhRaG9CZVAweWtkTUljM2kzUWFsU2NkcnNVNE1xTThPZDVKc0xudzNjTTNoNFhRMHBPQjd2U3hQSnhrLUE?oc=5",
-     "source": "BBC",
-     "time": "2026-11-27T08:31:16.000Z",
-     "seen": "2026-11-27T10:37:31.725Z"
+     "title": "عاجل | حماس: ادعاءات الاحتلال بشأن استخدام المستشفى الأهلي المعمداني مركزا للتحقيق أكاذيب لا أساس لها من الصحة",
+     "url": "https://www.aljazeera.net/news/2026/11/27/%d8%b9%d8%a7%d8%ac%d9%84-%d8%ad%d9%85%d8%a7%d8%b3-%d8%a7%d8%af%d8%b9%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%a8%d8%b4%d8%a3%d9%86?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-27T09:01:17.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     },
     {
-     "title": "بعد التساوي في الرقم القياسي لبطولة العالم.. ماركيز يعلن الاعتزال",
-     "url": "https://www.aljazeera.net/sport/2026/11/27/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%aa%d8%b3%d8%a7%d9%88%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%82%d9%85-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a-%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a9?traffic_source=rss",
+     "title": "أسطورة مانشستر يونايتد يتوقع انتقال هالاند إلى ريال مدريد",
+     "url": "https://www.aljazeera.net/sport/2026/11/27/%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%8a%d8%aa%d9%88%d9%82%d8%b9-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-27T08:30:00.000Z",
-     "seen": "2026-11-27T11:47:32.242Z"
+     "time": "2026-11-27T09:00:00.000Z",
+     "seen": "2026-11-27T12:17:31.640Z"
     }
    ]
   },
@@ -465,8 +466,15 @@
      "title": "حمام بأدمغة شبه إلكترونية.. هل بدأ عصر الطيور المسيرة؟",
      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcHBubUpfR0MwMXh3MmZpeWJpRmE0V3VQbjQxTGoxZWxDTm5tX2FBdFNXejl0d3lUeFVfQlNCWkh6OS1FMmd6SDA1M1dPZHB3Tm9BTVp0UHRvemVnQTRhbDl2UTdpTUozaFJvQWpSV0NmN3RLV0g2QzZBdUtIQklCazJZdnlPbWZEV0c1aGhBaUJQZ0Y0T3o0S0J0SXlxY0FoaldtQ3ZUSldJZ1dpb1RSTmdfaHVvMDRObXZsRGM3XzJ0eFI1S0lHaWV2SnpnV3dYdjh5eGdCUXIzQXh0dkM5VEphc1lra1ZIQ0Q0d3BKQUdMVi1HWXF0c3JuMWFqM3pMaVkwUnhvR082bElOZG1Ob3hzSGd2eW1ET3pMdTNsZDJmMjNxTTlKT0kxelo1eDNwVXpVUXdpTnJWa2p2V3g0S1hmNTRwRFZUY1RNX2t5WFdzMjJqYVBhTXRGd1VFc1p6d0dBZDVwWTA0S2oxVXEzWnlDZzhqQXY5aVNIREg5dFdiSXhhcmQyZzRwUDl3Q0FLQ0pDaGtR0gGbA0FVX3lxTE1paUJDMHAwdmRvZkdWbG1xdFNndzg2Y3pHUXBTdXhaQXVncGtOYy1tOHRBTUJjTE01bEdUeTJ6N3NUTEQxdnhDMjV3dHdqbXNsTjk4VUpZd2JXdGk3bDlLcWphVnNTbVY5MVBhNEhaYU1pcmVnU3dnRGh2ZkxJZWJSS0lCWlFySWZVN2J1cWNuLWVuZnBPelVFZi1XYlNGR1FvNTc3Qm9MV1JITFVCN3N5aGlCd29vY0tybklLY0xMMjhBeXpMNHdMUHl1T29GcEprYlVReUxTZndKSWtoNWRWU2xVNVpxazVKTFdZa0hGZFFjMEdaeDRsenZianBRaHIwcGJGRHFQOUxmQ1ljOUNzb2tlWE5XbHdfQjN5RzdEZWIwdEwzWGQ5TmJIVEF0ZWpyRWV6djQ4eG9UVzQ3WmJDX19scG1YRU9HcXRLaWhfdkZhY2puMDJGZmN3S2M3c0ltSVFjOFVQQ2xxWUJpV0FkWFo1OExiX1NNQkFSRTl4QUFIUnZFcW1ZOFNkbVktQUhndlRlYVdPQ3duaw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T08:54:40.000Z",
+     "time": "2026-11-27T08:51:04.000Z",
      "seen": "2026-11-27T09:36:06.178Z"
+    },
+    {
+     "title": "تركيا تصادق على اتفاقية مكة للدفاع المشترك قبيل اجتماع ثلاثي في إسلام آباد",
+     "url": "https://www.bbc.com/arabic/articles/c3dx1yz9q2nko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-27T08:23:33.000Z",
+     "seen": "2026-11-27T08:26:05.961Z"
     },
     {
      "title": "حرب الرقائق.. هل تتحول القيود على الصين لخلاف أميركي أوروبي؟",
@@ -522,13 +530,6 @@
      "seen": "2026-11-27T09:47:31.438Z"
     },
     {
-     "title": "زيلينسكي لـ \"بي بي سي\": الولايات المتحدة تركز على الشرق الأوسط أكثر من اللازم",
-     "url": "https://www.bbc.com/arabic/articles/cq4gnjkl31z7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T01:23:18.000Z",
-     "seen": "2026-11-27T01:24:51.586Z"
-    },
-    {
      "title": "شراكة ليبية - أوروبية لتأمين الحدود البرية والبحرية لمواجهة التهريب",
      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQLV85cXZUNU5yb3k5d1ptV3AtRzdxTFJoelZXZU9JSW80MjQ3dkVGX0Y5ZUVwd2ttMEI4Tk9ZZXgzMmI1b2JwU3hVVVlGa2hhc0swdUNRZFZWTVROOWMzZllXTno1M0pBdXhla2VySW5CZlcxME1Sc05DQVZiZVNtQUptQU1QcUM3bnV6bVZ5REhVN3JNMW1CSk1YenI0UHB1ZUdtQ0VBSzBTdkh2VEY4YXBKdjk4U2tyY0JfdFpnWFdxbWFTck5uclJKbzFPWEFubFIyR0VPaEF6cVlMU3MxWDBzTHByVDd5a2ZMMDRLTTAxLUEwUi1MNmNOekFQQ1lOU0g4eUFUYTAtX0ZlMjQtcmZGcFFHWjd4WjBMZGZ5Mm1NZGRqS1hWaG5MRnRiOW1PT2NadElPWHpKTTg5VUM0b0NDTWozVEJiVEZvMG5yZHY0SGJEY2lQWmJCMTFCcUV1NHF6WnRQWWFhUzFBV0NIcEdPTlNGN09sNGljLU9FUDVxRzdrV0wyUGxod0V5WVBsRXEzQW52UkxkQkE4cHFpNDgxdWdab1NkY0xEM19xMXVyaTMxaVZSYVl1a2F0Nno0ZTItOS1zbmM5Tm01THdoeHhONFl0SHNFTTA5Q0xtRDZxMDdFcDZtLTlCYmdkUlMwWU1iQVVqcVZFcWNhYmRiazZtcEdQckFnbExQX19mT2dtdk16SzB3eldSMzNTM3NwVE1SQ0NUUDg0aWV3bjRLbjQzOUVkR0xUZFRtWllYdEIwZXpVZFNYWDhQemo3c3EtNldWZFBhRk1QU1prUDdyc3N0Vl9fa1hwRlFiMHN1b2pST1h3M2ZjVXhmLUc2VEliUVJKN0lJMkZoeGxtcnNnYm9EX3VLVHc?oc=5",
      "source": "الشرق الأوسط",
@@ -569,17 +570,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
