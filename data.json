@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:28:32.114Z",
+ "updated": "2026-11-27T16:38:32.250Z",
  "minute": [
   "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
   "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-27T16:28:32.114Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T16:38:32.250Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5618,
-   "change": 3.24,
-   "asOf": "2026-11-27T16:18:51.000Z",
+   "value": 5627,
+   "change": 3.4,
+   "asOf": "2026-11-27T16:29:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6414,
-   "change": 3.24,
-   "asOf": "2026-11-27T16:18:51.000Z",
+   "value": 6424,
+   "change": 3.4,
+   "asOf": "2026-11-27T16:29:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3646,
-   "change": 3.13,
-   "asOf": "2026-11-27T16:18:51.000Z",
+   "value": 3652,
+   "change": 3.28,
+   "asOf": "2026-11-27T16:29:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0941,
-   "change": -0.27,
-   "asOf": "2026-11-27T16:28:44.000Z",
+   "value": 1.0943,
+   "change": -0.25,
+   "asOf": "2026-11-27T16:38:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.43,
-   "change": -4.42,
-   "asOf": "2026-11-27T16:18:44.000Z",
+   "value": 90.4,
+   "change": -4.45,
+   "asOf": "2026-11-27T16:29:31.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7267,
-   "change": 1.18,
-   "asOf": "2026-11-27T16:28:53.000Z",
+   "value": 7269,
+   "change": 1.2,
+   "asOf": "2026-11-27T16:39:34.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59997,
-   "change": -0.82,
-   "asOf": "2026-11-27T16:28:50.000Z",
+   "value": 60262,
+   "change": -0.38,
+   "asOf": "2026-11-27T16:39:28.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +139,31 @@
    "title": "مصر",
    "items": [
     {
-     "title": "بوليتيكو: ميتا تتحمل مسؤولية قانونية أكبر عن أخطاء وكيل الذكاء الاصطناعي «ميوز» في بريطانيا",
-     "url": "https://www.elbalad.news/7196779",
+     "title": "ثابتة دون تغيير.. العملات العربية الدرهم الإماراتي والريال السعودي الآن",
+     "url": "https://www.elbalad.news/7196793",
      "source": "صدى البلد",
-     "time": "2026-11-27T16:26:30.000Z",
-     "seen": "2026-11-27T16:28:32.114Z"
+     "time": "2026-11-27T16:37:58.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
     },
     {
-     "title": "إيران تتحدى: لن نفتح مضيق هرمز ولن نسمح باستمرار الحصار الأمريكي",
-     "url": "https://www.elbalad.news/7196777",
+     "title": "مندوب المغرب بالأمم المتحدة: أي عملية سياسية بشأن الصحراء تحتاج إلى وجود كل الشركاء",
+     "url": "https://www.elbalad.news/7196782",
      "source": "صدى البلد",
-     "time": "2026-11-27T16:25:17.000Z",
-     "seen": "2026-11-27T16:28:32.114Z"
+     "time": "2026-11-27T16:36:18.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
+    {
+     "title": "رغم عدم قدرته على الحركة.. توفيق عبد الحميد: عايز أتبرع لضحايا حادث الوراق",
+     "url": "https://www.elbalad.news/7196792",
+     "source": "صدى البلد",
+     "time": "2026-11-27T16:36:16.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
     },
     {
      "title": "مجلس الوزراء يتلقى تبرعات جديدة تتجاوز 30 مليون جنيه لمساندة أسر ضحايا حادث الدائري",
      "url": "https://www.youm7.com/story/2026/11/27/مجلس-الوزراء-يتلقى-تبرعات-جديدة-تتجاوز-30-مليون-جنيه-لمساندة/7634672",
      "source": "اليوم السابع",
      "time": "2026-11-27T16:25:00.000Z",
-     "seen": "2026-11-27T16:28:32.114Z"
-    },
-    {
-     "title": "وزيرة التنمية المحلية والبيئة تشارك في افتتاح أسبوع الابتكار الزراعي والغذائي المتوسطي السادس",
-     "url": "https://www.elbalad.news/7196774",
-     "source": "صدى البلد",
-     "time": "2026-11-27T16:23:59.000Z",
      "seen": "2026-11-27T16:28:32.114Z"
     },
     {
@@ -330,18 +330,18 @@
      "seen": "2026-11-27T14:47:31.652Z"
     },
     {
+     "title": "سعر الريال السعودي خلال تعاملات اليوم 27 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxORmVaYy1XcThRRFpteVpEbUliTmloS0pvbXZxbkpINmFfQnpEazhJOVpWelh5U3VGdUhDNnRpUHdJaldhR09EekcwRWtpRFRfSUc1ZGNycXh4WnZNYlpsX1lGQjRTNzM0b2UwMEZjb0pxdGUxaFVCYXFzMDVBeVZTU0s0OUduWUsxRmhBSEhYVFphenVZQ3BSa19GMUJPSDdONFZNWENqbWc3QjNoTUpoeG1HV2V5UmtLMzRQMmJSVEZqM2dCRFEyWHlGRlEzMlZadmdFc2Q0UDdzWG13U3FnSnd6LU9fX056Y2xlX3VWWWpPLWlOOE1uVmVnM3k1YTVyNmR6YUNSQ3hGMk9YRWNGT0Z5Q0QzelRhb2Jjdm9Hc09YZnBBd1Vfb29nU0V0ZEVfTlM3QUNjRGVYUmpTNG83QVhlS2swMWVteG55bi13YjE2blRRUDFDazg5YVdRX0NYWnY5RHotZGpxUQ?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-27T14:26:15.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
+    {
      "title": "30 شركة ملابس مصرية تستكشف فرص التصدير إلى كينيا",
      "url": "https://alborsaanews.com/2026/11/27/2009426",
      "source": "البورصة",
      "time": "2026-11-27T14:14:08.000Z",
      "seen": "2026-11-27T15:17:31.337Z"
-    },
-    {
-     "title": "أعلى سعر لشراء الدولار اليوم.. أبو ظبي الإسلامي عند 54.85 جنيه",
-     "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOS3FzTXRmaEg1TXU3eW5mand4RnRhTGczNW53cmNqSFdSdlR5RXlLbG53OWRJRExzazB2RmQ3U0pmVTBtb3ROT1ZOSkV5ZzN5VURtNl9mY2RLbk9EelBQQjJVYVBEMmV6R3ZVdFhiM0M4U3U2MnQzQ2dRSEVubDZVUXB1REh2V0pxamg3RDk3ZlRSUXRTeGFVNGlzNFlsMlVkVUJaYzMzRW04M3hldzJnVkU0bi1zb2lsTW41Y29yMmpXWnpkSkVxWmwzRjZmX21NQ1lpeFd4UW41RFlzQjk5ZDhmWU5NbWFNV2xrNHFsWUt4blJrWEltRG93SzItR0pXRklpTzd1ZzhBMGNKY0xlS1pESC1GS0JWNmd3ZklEMGpUUFpjUE1QQnI0QjlZQWlXbnZSSlZ3VXNScEI3WVpSb3ozVHJrMjV2azhLcEpvZGN6T2FkclNaWkkyVXBxTnFJcTVNZlBaU1BhSVBaTXpBYk1uODNLbjFmOGppczNhbzRJbUprdHJKNnZaR1VwX0tISjhYWGVzS0VIZXZ1QmtSUDFVcTZfMnJvWWg0LdIBrANBVV95cUxOS3FzTXRmaEg1TXU3eW5mand4RnRhTGczNW53cmNqSFdSdlR5RXlLbG53OWRJRExzazB2RmQ3U0pmVTBtb3ROT1ZOSkV5ZzN5VURtNl9mY2RLbk9EelBQQjJVYVBEMmV6R3ZVdFhiM0M4U3U2MnQzQ2dRSEVubDZVUXB1REh2V0pxamg3RDk3ZlRSUXRTeGFVNGlzNFlsMlVkVUJaYzMzRW04M3hldzJnVkU0bi1zb2lsTW41Y29yMmpXWnpkSkVxWmwzRjZmX21NQ1lpeFd4UW41RFlzQjk5ZDhmWU5NbWFNV2xrNHFsWUt4blJrWEltRG93SzItR0pXRklpTzd1ZzhBMGNKY0xlS1pESC1GS0JWNmd3ZklEMGpUUFpjUE1QQnI0QjlZQWlXbnZSSlZ3VXNScEI3WVpSb3ozVHJrMjV2azhLcEpvZGN6T2FkclNaWkkyVXBxTnFJcTVNZlBaU1BhSVBaTXpBYk1uODNLbjFmOGppczNhbzRJbUprdHJKNnZaR1VwX0tISjhYWGVzS0VIZXZ1QmtSUDFVcTZfMnJvWWg0LQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T14:03:28.000Z",
-     "seen": "2026-11-27T15:38:31.585Z"
     }
    ]
   },
@@ -349,6 +349,41 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "رسوم ترامب الجمركية الإضافية.. ضغوط تفاوضية أم بداية مواجهة تجارية جديدة مع الصين وأوروبا؟",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A/20261127-%D8%B1%D8%B3%D9%88%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%B6%D8%BA%D9%88%D8%B7-%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A%D8%A9-%D8%A3%D9%85-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-27T16:34:34.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
+    {
+     "title": "ضربة بنغازي تقلق برلين.. مخاوف دولية من انتقال حرب أوكرانيا إلى المتوسط",
+     "url": "https://www.dw.com/ar/ضربة-بنغازي-تقلق-برلين-مخاوف-دولية-من-انتقال-حرب-أوكرانيا-إلى-المتوسط/a-80070157?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T16:30:00.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
+    {
+     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-27T16:30:00.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
+    {
+     "title": "\"انتهاك صارخ للسيادة\".. الكويت تستدعي السفير الإيراني بعد هجوم أسفر عن مقتل إيطاليين اثنين",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/kuwait-summons-iranian-ambassador-following-attack-resulted-deaths-italians",
+     "source": "CNN بالعربية",
+     "time": "2026-11-27T16:23:46.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
+    {
+     "title": "فوضى الطيران بين سماء مزدحمة وأرض مرتبكة .... فأين تكمن أزمة التأخير؟",
+     "url": "https://www.dw.com/ar/فوضى-الطيران-بين-سماء-مزدحمة-وأرض-مرتبكة-فأين-تكمن-أزمة-التأخير؟/a-80068175?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T16:23:00.000Z",
+     "seen": "2026-11-27T16:38:32.250Z"
+    },
     {
      "title": "\"لحظة الحسم\".. آيزنكوت يتهم حزب نتنياهو بعرقلة الحكومة",
      "url": "https://www.skynewsarabia.com/middle-east/1907603-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D9%85-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%8A%D8%AA%D9%87%D9%85-%D8%AD%D8%B2%D8%A8-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A8%D8%B9%D8%B1%D9%82%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9",
@@ -368,13 +403,6 @@
      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261127-%D8%AA%D9%88%D9%86%D8%B3-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%AD%D9%81%D9%84-%D8%B4%D9%8A%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%AF%D9%8A-%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
      "source": "فرانس 24",
      "time": "2026-11-27T16:07:12.000Z",
-     "seen": "2026-11-27T16:28:32.114Z"
-    },
-    {
-     "title": "مع اقتراب الانتخابات الرئاسية.. الميزانية الأوروبية تشعل سجالا حادا بين ماكرون ولوبان",
-     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261127-%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B4%D8%B9%D9%84-%D8%B3%D8%AC%D8%A7%D9%84%D8%A7-%D8%AD%D8%A7%D8%AF%D8%A7-%D8%A8%D9%8A%D9%86-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D9%88%D9%84%D9%88%D8%A8%D8%A7%D9%86",
-     "source": "فرانس 24",
-     "time": "2026-11-27T16:00:58.000Z",
      "seen": "2026-11-27T16:28:32.114Z"
     },
     {
@@ -413,39 +441,11 @@
      "seen": "2026-11-27T15:17:31.337Z"
     },
     {
-     "title": "الإمارات تعرب عن تضامنها مع الأردن بعد وفاة بحار إثر هجوم على سفينة لـ\"أدنوك\"",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/uae-solidarity-jordan-death-of-a-sailor-attack-adnoc-vessel",
-     "source": "CNN بالعربية",
-     "time": "2026-11-27T14:41:01.000Z",
-     "seen": "2026-11-27T14:47:31.652Z"
-    },
-    {
      "title": "هجومُ إيران لفكّ الحصار!",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONFVjSDdOSmFRWmJHR1VMR0NpZnUyd2Nvb2pBM0lIZG80Z3FIYmhXb0k0TEtyMTNnRF9kbDBHSTNYekFKQU9acWNkUUVTMXZHNGxPNFRyNjRUT0ZDeEx0SFlFWldQVmx1NnNkWm1UTnhqMjdfRHlvOUZSdU14Q2ZDNHMtLU5EZmJDTFlCM1RHM3MxYnhzM3NzOUtSclh5cjhIYVdUeF9NZldJMzREeXVLdFlwWkQyTTdocmlpM3Ewc0JEamVYVHVabE96eU5naERQU2V6Y3drZXFiQ01SUlE2ZjVzdHdLRzI1eTIxNDJaUGdiTlRjQkpmdE9LQUFOVk1oeU9XcTJFZWUwQ19NeGc?oc=5",
      "source": "الشرق الأوسط",
      "time": "2026-11-27T14:27:31.000Z",
      "seen": "2026-11-27T08:16:05.475Z"
-    },
-    {
-     "title": "الذكاء الاصطناعي يجاري الكاتب الروسي غوغول ويكتب الجزء الثاني من \"النفوس الميتة\"",
-     "url": "https://www.dw.com/ar/الذكاء-الاصطناعي-يجاري-الكاتب-الروسي-غوغول-ويكتب-الجزء-الثاني-من-النفوس-الميتة/a-80077320?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-27T14:19:00.000Z",
-     "seen": "2026-11-27T15:48:32.211Z"
-    },
-    {
-     "title": "ترامب يدعم إجراءات الزيدي لمكافحة تهريب النفط وسط تصاعد الخلاف بين بغداد وأربيل",
-     "url": "https://www.bbc.com/arabic/articles/ckyvdn2rqnypo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T13:34:30.000Z",
-     "seen": "2026-11-27T13:37:31.864Z"
-    },
-    {
-     "title": "الهجرة ورقة انتخابية في إسبانيا.. مخاوف الجاليات العربية تتصاعد مع خطاب الكراهية",
-     "url": "https://www.aljazeera.net/politics/2026/11/27/%d8%a7%d9%84%d9%87%d8%ac%d8%b1%d8%a9-%d9%88%d8%b1%d9%82%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%85%d8%ae%d8%a7%d9%88%d9%81?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T13:20:54.000Z",
-     "seen": "2026-11-27T16:28:32.114Z"
     }
    ]
   },
@@ -468,6 +468,13 @@
      "time": "2026-11-27T13:35:39.000Z",
      "seen": "2026-11-27T15:18:31.909Z",
      "impact": "يهتم به العاملون والمستثمرون في قطاع التكنولوجيا لمتابعة أمن المعلومات ومخاطر الاختراقات السيبرانية."
+    },
+    {
+     "title": "ترامب يدعم إجراءات الزيدي لمكافحة تهريب النفط وسط تصاعد الخلاف بين بغداد وأربيل",
+     "url": "https://www.bbc.com/arabic/articles/ckyvdn2rqnypo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-27T13:34:30.000Z",
+     "seen": "2026-11-27T13:37:31.864Z"
     },
     {
      "title": "الصين تنظم الهوية الرقمية الموزعة وتشجع استخدامها لوكلاء الذكاء الاصطناعي",
@@ -507,13 +514,6 @@
      "source": "BBC عربي",
      "time": "2026-11-27T11:27:20.000Z",
      "seen": "2026-11-27T11:37:31.697Z"
-    },
-    {
-     "title": "كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت",
-     "url": "https://www.bbc.com/arabic/articles/cr15el0nk085o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T11:17:42.000Z",
-     "seen": "2026-11-27T11:27:31.737Z"
     },
     {
      "title": "حمام بأدمغة شبه إلكترونية.. هل بدأ عصر الطيور المسيرة؟",
