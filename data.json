@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-27T15:18:31.909Z",
+ "updated": "2026-11-27T15:28:31.983Z",
  "minute": [
-  "أعلنت سكك حديد مصر عن فتح باب التعيينات لوظائف هندسية وقيادية، في حين تابعت الجهات المعنية الإجراءات والدعم لضحايا حادثي حريق الوراق والطريق الدائري.",
-  "وعلى الصعيد الاقتصادي، سجل سعر شراء الدولار 54.85 جنيه في بنك أبو ظبي الإسلامي، بينما ناقش وزير الزراعة آليات ضبط سوق الدواجن ودعم صغار المربين.",
-  "عالمياً، سجل الاقتصاد الفرنسي انكماشاً بنسبة 0.2% في الربع الثالث، وتواصلت التطورات التكنولوجية المتصلة بتقنيات وتنظيمات الذكاء الاصطناعي."
+  "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
+  "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
+  "تتواصل التطورات التكنولوجية عالمياً مع توسع استخدامات وكلاء الذكاء الاصطناعي في المعاملات المالية والشراء."
  ],
  "ai": {
-  "at": "2026-11-27T14:37:31.824Z",
+  "at": "2026-11-27T15:28:31.983Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 503; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T15:18:31.909Z"
+  "key": 1,
+  "impacts": 10
  },
  "markets": [
   {
@@ -20,7 +18,7 @@
    "unit": "ج.م",
    "value": 54.77,
    "change": 0.11,
-   "asOf": "2026-11-27T14:37:45.000Z",
+   "asOf": "2026-11-27T15:23:43.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -29,7 +27,7 @@
    "unit": "ج.م/جرام",
    "value": 5637,
    "change": 3.59,
-   "asOf": "2026-11-27T15:10:41.000Z",
+   "asOf": "2026-11-27T15:19:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -38,7 +36,7 @@
    "unit": "ج.م/جرام",
    "value": 6436,
    "change": 3.59,
-   "asOf": "2026-11-27T15:10:41.000Z",
+   "asOf": "2026-11-27T15:19:44.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +44,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3659,
-   "change": 3.48,
-   "asOf": "2026-11-27T15:10:41.000Z",
+   "change": 3.47,
+   "asOf": "2026-11-27T15:19:44.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0942,
-   "change": -0.26,
-   "asOf": "2026-11-27T15:19:48.000Z",
+   "value": 1.0947,
+   "change": -0.21,
+   "asOf": "2026-11-27T15:29:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.98,
-   "change": -3.84,
-   "asOf": "2026-11-27T15:10:41.000Z",
+   "value": 91.01,
+   "change": -3.81,
+   "asOf": "2026-11-27T15:19:42.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7238,
-   "change": 0.78,
-   "asOf": "2026-11-27T15:20:40.000Z",
+   "value": 7243,
+   "change": 0.83,
+   "asOf": "2026-11-27T15:29:38.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59392,
-   "change": -1.82,
-   "asOf": "2026-11-27T15:20:39.000Z",
+   "value": 59740,
+   "change": -1.25,
+   "asOf": "2026-11-27T15:29:41.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,31 +137,40 @@
    "title": "مصر",
    "items": [
     {
+     "title": "بتوجيهات شيخ الأزهر.. المصلون في الجامع يؤدون صلاة الغائب على ضحايا حادث الوراق",
+     "url": "https://www.elbalad.news/7196719",
+     "source": "صدى البلد",
+     "time": "2026-11-27T15:23:29.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
+    },
+    {
+     "title": "العين السخنة.. كيف يدعم تطوير البنية التحتية توطين الصناعة؟",
+     "url": "https://www.elbalad.news/7196714",
+     "source": "صدى البلد",
+     "time": "2026-11-27T15:21:37.000Z",
+     "seen": "2026-11-27T15:28:31.983Z",
+     "impact": "يهتم به المستثمرون الصناعيون في مصر لمتابعة دعم البنية التحتية وفرص توطين الصناعة."
+    },
+    {
+     "title": "إندونيسيا ترفض الانضمام إلى تحالف مكة الدفاعي.. ما سر تمسك أكبر دولة إسلامية بسياسة الحياد؟",
+     "url": "https://www.elbalad.news/7196713",
+     "source": "صدى البلد",
+     "time": "2026-11-27T15:19:48.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
+    },
+    {
+     "title": "النيابة الإدارية تشرف على عمومية نادي 6 أكتوبر إلكترونيا بمشاركة 50 ألف عضو",
+     "url": "https://www.youm7.com/story/2026/11/27/النيابة-الإدارية-تشرف-على-عمومية-نادي-6-أكتوبر-إلكترونيا-بمشاركة/7634619",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:19:00.000Z",
+     "seen": "2026-11-27T15:28:31.983Z",
+     "impact": "يهتم به أعضاء نادي 6 أكتوبر في مصر لمعرفة تفاصيل تنظيم الجمعية العمومية إلكترونياً."
+    },
+    {
      "title": "الآلاف يشيعون جثامين 5 شهداء من أسرة واحدة لقوا مصرعهم بحادث الوراق",
      "url": "https://www.youm7.com/story/2026/11/27/الآلاف-يشيعون-جثامين-5-شهداء-من-أسرة-واحدة-لقوا-مصرعهم/7634614",
      "source": "اليوم السابع",
      "time": "2026-11-27T15:16:00.000Z",
-     "seen": "2026-11-27T15:17:31.337Z"
-    },
-    {
-     "title": "ضبط أكثر من1.5 طن أغذية فاسدة وإعدام 450 كيلو جبن خلال حملة في تلا",
-     "url": "https://www.elbalad.news/7196677",
-     "source": "صدى البلد",
-     "time": "2026-11-27T15:15:43.000Z",
-     "seen": "2026-11-27T15:17:31.337Z"
-    },
-    {
-     "title": "رفع 24 طن مخلفات بطريق قوص.. محافظ قنا يوجه بتكثيف حملات النظافة والتجميل",
-     "url": "https://www.elbalad.news/7196700",
-     "source": "صدى البلد",
-     "time": "2026-11-27T15:15:41.000Z",
-     "seen": "2026-11-27T15:17:31.337Z"
-    },
-    {
-     "title": "الصحة تعلن الانتهاء من تحديد هوية 27 من ضحايا حادث حريق الوراق",
-     "url": "https://www.elbalad.news/7196706",
-     "source": "صدى البلد",
-     "time": "2026-11-27T15:14:09.000Z",
      "seen": "2026-11-27T15:17:31.337Z"
     },
     {
@@ -174,11 +181,11 @@
      "seen": "2026-11-27T15:17:31.337Z"
     },
     {
-     "title": "الطقس غدا.. تحذير من شبورة كثيفة وانخفاض الرؤية والصغرى بالقاهرة 14 درجة",
-     "url": "https://www.youm7.com/story/2026/11/27/الطقس-غدا-تحذير-من-شبورة-كثيفة-وانخفاض-الرؤية-والصغرى-بالقاهرة/7634496",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T15:00:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
+     "title": "التموين في أسبوع.. استقرار الأسواق وضبط آليات الرقابة الأبرز",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPUDkwYmNPTVpqaHh5b1lURHNhU3RlX1BBOU9WX1VDV0V0ZUVuN2xEQ1FfZFhicUlfNGVqYWhnWnNVdkw5ZkVfVE1Wc0xWVEoyR2UyQzg0SWxneHVFQ2ZzUlBWb1ctelFIX2pwRE8tbkxrNk52ZGQ3MExxdmVZVWJraW1qUzE5Q3F2T1dpYzJSTVdpQ2pERHNoYUYzTS1uT2pZWFo3NEl5ZzhKemJaYk5peUtnR05vTGtKYmN3SEFUSkRQaVBlUzhtak5CMjJhTjRlNUY2NHpVZTBWNHJ1N1pRRVZ1OVgtQlVfcDlKSmJNLWpkTmkxdEt3T1lRTVhfdGFuSy1LM3Y1NjNLSGhwcFk5V2Y3SE1maTdpcEI3azBuOEEwY3JYRDVOWC12Nm9IMEg3aW9EWEttR1FNUTczSTFrZ1ZvOXhVVzNtWDBkN3BYNUlqa3pSMGNUYUt3OU1IcnRDaFBtMDdVMFR3bXJLMUtYR3JtY1hkQVF1MzhtalBSUQ?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-27T13:10:17.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
     },
     {
      "title": "«فلوس التبرعات هتروح فين».. مجلس الوزراء يكشف مصير أموال دعم ضحايا حادث الطريق الدائري",
@@ -187,6 +194,13 @@
      "time": "2026-11-27T11:39:00.000Z",
      "seen": "2026-11-27T11:47:32.242Z",
      "impact": "يوضح للمواطنين والمترعين كيفية توجيه وإدارة أموال الدعم والمساعدات المخصصة لضحايا الحوادث."
+    },
+    {
+     "title": "أسرة شاب بالشرقية تنتظر تحليل الـDNA بعد حادث الوراق: نجا السائق وتوفي زميله وبقي مصيره مجهولًا",
+     "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxPdGZ2eFRMVC1vNmQ3cVhuc0lhVnVoNnNDWWxhTzNkTzQ2eTFRU0Rud1Y1UFExal9CRjB1dmwweXBfTFljQlRtb2xHb0ZrWkdiV1hCLWdNRi1KMW5BdTYxOEZEUG9qMXh6SFdBSXlhOUYtT2wxZmtjWWNKNG1qbm9mUGJ6d1BnTlFvbmxhaUlVNzZCSEd4dUNINjhGTnZ5ZFdZczIxbjQ2UGx4c1pVMnZVemtiUDJJVjNpX2UySDJDUFpWUU5HNURfZFVtaHF5S0JFbDlLSzZ2RHEyYk1RWDZtSDRQcFZZdWExZWtRNHprZ200MEpaZUpEX1JRRlV2eHBaeE9ZbUxqUWIwMTl3WVZiTERqMFhlaUk1LVUyMXpuNzNLUjE0ajlZNjVoVUhTZFNycnYzU0Rkam1pSFdZWThfMmdzN2FuY0E4bk42eTF2SEdYV0xWazBqTUhwMG9sajhCTFMzMkV0VERlN25sT0FFeVlZazZxRWFQVmhiMFZnb200SXpZcHdhTGcyNG5wOVF5dHp3SkdROEp5TW96U05ZRXJMVUlvbTEwc2dKQk52TEpiVHVtYzlPemI1TmFnWEZGUlhUSGl3QnpVTW81dm51MUstaHdGbzVBMWxJdmdWSE9GYWlER18zU1R6U0g4RVkycVhiSHlsT3VrZVBrc3N6RTFnRG15MUVDdW1WQnlNYUNFU3QtaS13UjJrV3VSQ0s2TDdTUmN0bDZPYkhJVzItbUJtQXFadlVkMlFKMnlrem02RV92cWlxd1NGbno5VUZVLVdOVUJ6THdvRDdEQngwblNnR1h6U3pTOGJOTkJlUVdoR0J5alJTamRoQnd6SWFzZUVnU19pY21sSGVWS3hMNzY2dVpmeVJINHl4a29fSUtzUWk2TEpZVmtIanBmZmxnV1EycXlFSkpxYm9SanlYam8yRlFEMGxZWmNLakRIcFpvVXhyZjNDYjJqV0JKVWRDOVJXSVhMS2hKQdIB7wVBVV95cUxNbnhyRzgzdXVZYXl4OUhFM2U1V3ktU2p2bVA2ak5HMER2cnVZQmY3T0Jxakh0d0M1LWQwN0RLUldMR3hYZnNsRDVKanNhYlF3dWNLT2duYUtHRnNxVHlSenAzdGx0enhNaFBQZUp0VmY2UUVZOE9QWTNsc3VNTnc3ai05N29tZ25zdmZRaGJNWUdRV1VtNlZPM2pvSFlQSHJVU3pERjkwQklCZWdITlR6b09yNC16ZW15X3NxLVJUS3F5OGtKTmItcGs0OHRld1ZKYVdtSGRzR2dCZjFTOHJzSUNCbmcxeHNBaURjRFdwZ2ttajNwamY1R2M1aEJ5NXhEWjAxTE9qc3pSMXVQcG9MQVg0dVk5T2tWU2pEUm44LXRLcEo0VTQzZDFBdlBSNHhid1lQUFl4WVFZOEFhU3V5QnV0LVl6LXBqOG92VU9mYlhkVWg0SVlTNFRoZTJPb05oaHBKX3B1eW9lX0RqYXgxNi1XM0N2ZDdOcWlKRXJIUDNXUDgyNml5bDdfcnhYemhJTFFHYUtLTlliUWVvZ2d1TXJOZWpBZXJBcDl0bTd6TVdxbUh2OExRNFM0b2ZCUlBPeTlMTnoxWmVmLWU5T0lMMkFSaTBkckZqcENQdEZJcHBIdm12V292ckhIQ0VacDhxd1NGQ19pZzctZGZadGNTZk5jTF91SEkxbHlNZjJtbGpRQlZUREhEYzNtb1pudzY3Uk5oZ2tDTFhDcDVPTE5NTC10aG1LVHRTaXItQlZGREN6bjhqZjNfcF9KZndnUmZLeUs2RXhLNUxYUUNSMG5DSVhva0dVNUo0V0x3M2U3bm1HRmQwZ0xYcWdWN2xyYUhoakRWNFhrY3d6WUdhVGUzNmQ2ZWpuVjJ4WExpQXBFUGhaY0FZRWQ2WUZzR3dhcXpEVkJJcE5FZ09VeUdXX3ZOSWRfcGVFRTNHNS1RNmlNN1R3WS1FTkNLUUhwc2U3b3FHR003YjQzSzNlNm13UzJr?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-27T11:13:43.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
     },
     {
      "title": "\"مدبولي\" يُعلن دعم أسر ضحايا حريق الوراق.. شهادات استثمار وسيارات للمتضررين",
@@ -222,20 +236,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-27T09:30:25.000Z",
      "seen": "2026-11-27T10:07:31.437Z"
-    },
-    {
-     "title": "وزيرة التضامن: نعلن كل جنيه تبرعات بالأوراق الرسمية ونتحمل الأمانة أمام الله",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aVVBoa1I3cGhUQkZ6aDhULUh3LTQyd2thN01QdlVOYjg1NURxU0RIOU9TOUNvZ3JHWDBiMHZWdUs5dHdK?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-27T09:05:10.000Z",
-     "seen": "2026-11-27T10:57:31.790Z"
-    },
-    {
-     "title": "25 مليون جنيه تبرعًا جديدًا لدعم أسر ضحايا ومصابي حادث الوراق",
-     "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNbGxWTGxObEx2YlBEMVVtTmtOemdGWDJ2bU16eFplUjRZSXZXZ1VHRFhzWFpzUklQc29rSnZobll3c3RHN2RyTDVidzkyTjE3MmRTaWRiOU80OEtLdXdqY0JhZFpBNHpDelBya2VlaUs2bmw3ajNlbDdJV2E1dHBqSFpZZ1YzakNpd2VoUTRRSjN2NEppc0VhbkU1b0VqZW1CMGswX1A2UEpRQVBXSmc4NEZxaUVRNFpQNFh2WkNRdGU5a2QzbC15bW1mUFFDU28wZTRHNjhRZmNwVlZDdmRJYndIZUt0WmxvYVVuX0VpM21HWXNrTV94WjV3T3FBVGtldUllM0VyNnBSVldjZjlrUEhQanpkUnZtNWpwTVE2cnNvWjVKaE1OQ1lJT2pDbFV0Sl9FY1AtWlA4bkd2aTBFUWFfVWk0SDZNT3lxb21JUlN1RjgwMmRyWHJybTNOWDJGUE5iZXlad0tXQXFFbEJHOXdoOG11SV91dVQzZFplMTI1YU1qOW9KTFlnam1NN1RCelpXSTJQS0xXOC1SS1liZkRaX0tRcFE4U0dJMWNaMFQtUTV5RHNzdUhPelpRVmxtQ1RoSC1QSXJla0JKbDltdFBsMGZDVGs2cVhJRnNrSFNTbjhMRGh4blhlcEkxTV9oZVNVTHlEV0R0VldrMS15VNIBhgRBVV95cUxOdW9FdUFjNVNmdk45LXh5QnVWR0prbVpSV1J1X2JaWGJ3Z1FVQXVsOWQxT01xaHZpUEFHRFg3TlFYVTdEZlVIbXpMQW10bUJiQWlwekNiUWJhT2VwTUlJenZqd2FNLVk5bnFHN2VxRUlsendXcFdkVzJBLWpQUkl1WmFRekpuak1VUmd3RmZIQ0ViR0k1SjVxSHZNTUNxcjdQeDFLUHFLSENySFZmQVgtRElNemFmOHJWdEZCWExkdU5fTVoxTC1CV2lneXc2Sk1rV2U3S1JvQ19mdXpzOGgzNXBMczVuMU1OQnMwUE5wNU8wR3IwMC1RTzJTRWptMXNGX0VDWUVjQk1YYk1aSEttNkpPaGRzcXZaQ1FKQUZ5QXhDdEtpa3ZLaGNCMDRjamdyVFAxSEhuZkR3TnNNcGoxRXI5MHE3QnhTUnFYSGZKbXJJX3FnLTNKSHhIS1I3OWgydzdBc2FqVUJBcnMwY0pEYzBXb0hJN0NnbUNIcGQtQUpBbGlPR0VqMGFLY0ZoQkpCUlZHdXp1TmRkNU92Z2h4UTdmS1dHUi0tNlUxTnRyVWl0ek93VkpPd3N3SzA0cjFtQ1I4VVVQRi1YWldRQUtYYzVQNUhJOUdqYWozZFh3QWUwbi1wdGF6R2dxR0U4eWlWU05od2ZwNXdPVVhGMkNZb21CMzU3QQ?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-27T09:01:51.000Z",
-     "seen": "2026-11-27T09:16:05.984Z"
     }
    ]
   },
@@ -244,11 +244,27 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "المؤسسات والأفراد",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSTVxcDRiLXFSQTMtYThDV0xaRHJIcTk3OWRnSnU0eTFkT2dEUGVFTE9jUDBBZDhQZU5qOVd4NlF5cmt3OVMzX3o1Z3BRNE9kSFZwV2FUbGd2SkN0bEl3bjBSOXZTUGdGOTJmVXU4dWpPWTFUcnExRng1LW1Zdms3Q1pVY05rSzRISmRxZnNfOTZIQW9WMkhIalNvQ21jRGQ5alFYNzY0emxSZ1E5N1hoTEpnQUwxd0p6Z0JNNFRCczFVVzl2RUFhVjRuNEtaejJvY1E?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-27T15:14:56.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
+    },
+    {
      "title": "سعر الدولار اليوم الجمعة 27 نوفمبر 2026.. مفاجأة في أسعار الأخضر بالبنوك",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5WVW5lR2NlRy1GazlONUpvbmpicW10ZkxrcEpqV2E0VTkydzg0WkluYlVfZWlSaG1RTlU1MlhOLXFKNG1E?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-27T15:09:42.000Z",
-     "seen": "2026-11-27T15:17:31.337Z"
+     "seen": "2026-11-27T15:17:31.337Z",
+     "impact": "يهتم به الأفراد والمستثمرون في مصر لمتابعة مستويات أسعار العملات في البنوك وتأثيرها على القوة الشرائية."
+    },
+    {
+     "title": "في 24 ساعة.. مئات ملايين الجنيهات تبرعات لضحايا حادث الوراق",
+     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQT2trYThfY1RjQ0VGRzlPRGpyTG95TzRVUm11QTZlUHFNMFlLeGszb1FKeXQwMjJlaVpITmFhZWl0NldCVWNwcThXQnBwbHp3bFFOWFc4ZTAwUms2akRVMWF2TUZmT0U3ZFJnN1lpV2UzckZyem9JZDBJVF94RWdLUGJ0TDE4NkNxZFdmSUMxMG8wUUctT25tdmY1SEhzVUE5bXVtdVpVZnZpTXdQT0FJNEJ4eXFuVzdQei1IM0UzYXI5SUMxczNqNjFBbmtjanV0OXl6YTJvNDBtNVJWRnhad216dUluSHlFQ3B0UGlCelMxMEFuRHZseldSTEZJbjk2SWVZdWRUSGQzT2lNNUpDUzk4Rk5neklfWXByQVZaYkJ0QlZGUmtuQXh6dXlCSC1QVUpaQVZfYzVoZG96YXV3M0p4RXJqTC0td09zUW1zV2V4eWVlcWpEeHYtMkt5ZDgxclZCVDV6YU9vWWNqRkFOTlE5N2NvREIxWmhvbzJnSmhmS0R1TTZkM2dINEVmU0tfMXM4Y3RORU1aTkRZV0pZcENTVW5IR09rMzR6Nk5GNUR3QnVHYzloYkJmOXJXaUV5cmEzSWVTb3k2Mkoy0gHSA0FVX3lxTE1QaVdsSzZpVlFZXzdJLWhwX0ZzbjMzTnhPdHJzZEdvNkxwaHhLNFJvNEMwdkE4ckpGbktfdF9yZ3NrX1ZKLVU2MjBaMTRTTDctWElfSjdaUWFNaUgzV1VZVk5CQXp2Z3BSUG4tMGtvRnJXVklDQkM5VnF4UXBiSmhRanVxdktDbG1nZHpWYWxjbERPQXF2aXNMNUhDQU5nUEIzYm1yblBzWGtOLW9hdkZQWENXaERZVWdMN0gtN0xWM1NSMEg2b1N0SGh1cGZocjRnWmJoWVV5dlNPa0I4WkZOTlhQeExzWDN6a19mZFZObXVCTkVBTFFJSC03aWQxeUhFVXU5ZDNjb3VqeGs5aE1JYUNJdk84YW5kcjBycnRFdE5GR3ktTlAtcmtVUEFmajY1ZXVBbEdSdWpQNTVqRXU5eW9oVmViWDlKRFM0LWRMeUh3b1Nuam83MmhBYkxjX0FHR2poN3pQeXdfOE9ON2J1ZkpPT0FUTVpEc1pFQVZsSTRSYnZmR0RjZWNUMmlkX3VaXzdxN19Yak03ZWR6cXFhYm9yc2NadEM3SDRFbTRCRmdmYlVsamhfSURqV0tpY1hYdTdtbE1VQndhTElwY0tPTHc?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-27T15:08:08.000Z",
+     "seen": "2026-11-27T15:28:31.983Z",
+     "impact": "يهتم به الأفراد في مصر لمتابعة التضامن المجتمعي وتجهيز الدعم المالي لضحايا حادث الوراق."
     },
     {
      "title": "تعرف على سعر الدولار مقابل الجنيه اليوم الجمعة 27 نوفمبر 2026",
@@ -262,7 +278,8 @@
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPM0x0NzN5VFh3UUxMV1BjdTRDaElqMGczQ3FhblRoUkVFQ2hLV3o3bWV1SFVqQmJRbF9YWFo5Nk5Gd3lLZGhlanBNV3M2OHoyc0VHSzZfbGZlRkgwMldUOEhQa1RYb1M4NFAzbG8zWGhacHU1Nm1oSXd0R0Q2MTZXSk5IYlpHRk0tMTZHVVllUlVrSU9iZWo5T0llZFZiZE1wOEtHMW1jUVVhOVdMS1FFS0psWVZydzQ0ZXZDMWhrVmJBU2NZNkFkU1FjUWo3VVdzVkk5dHIxZk11dDI1dDVrV0FTazVTcmF6TVBVTEhfVVZPUlhUUEtETlVMWkk4S1gyZ3NOaDFpX0Nya1dpaVhqZmEtT0NUVGN2MDE3OXNGblljdlpoeloxclR3dXlVTkhaOHZGOFI0cnV0Z2VPUjhyaHNHRk5IMlFsZlEtVWpNZC1yZXB1NkdoX0x5Rnd3dGZnSVdWWHdiT19YcXc3djZzLXV6cUdGYWhoczdvVXl4QkdxYTBkcW11dkdDbFRBM0pGVl81cHBtUHN1WnlpSGM1eGJldlRmUGdENWw1d19oUUlkeE54dEFF0gGyA0FVX3lxTE92WUxZNUZxQ3JKTENVOGRDTDh5R3JYRVZZb3JDWktaRWIwbndmRUl6SVNNY1h6UTBDc1VMamdmcGFMVEY3akhTaGlLSllpY2Zmd1Jvd1BIVjVQb1A1dC1rOXRjYkxQc3Bfd01vQzhtMU5EUVJMaDJ5UTJPOUl0SXJQSmlBQ0RISF8xWUhNYlo5ZXhBVG80b2c4S2o0eFQ5Vl9JUjdIMUQ1cEhudEFYZHJjRzVvS0FKZGtRQXZ1T0thRzRWV0hObi0zNlpBVUlXOEY0bHhXRnZsOW1GeUlua3FYMkRtNVF5Z1JMSW9RVTVXU3c5NlFBZHVXbWdfOHJ0VGdMRGFvMFdMT2h1aGRLMEpaQ09xUVdJUGlfWGRobzlFelN5TnlybXNTdTB6dUVXZERXdFl6cEM5bjA4ajJSell1TkVXTDlVd0lsRGJKdVZWd3ZuTnJiWVFRWnJmQV9wajBKMTVHdmx0ZmVTLS1IYWhGdEhCRTlMaVIyX0JDOThxVUpXNlBtaHc4bTVWZ1FRRUJ0SjhpbHJXS2VyRzRmYm4za0lBemprYmNmRFVXdlIyTTl3?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-27T15:00:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
+     "seen": "2026-11-27T15:07:31.473Z",
+     "impact": "يهتم به المستثمرون والمستهلكون في مصر لمتابعة قفزات الدولار بالبنك المركزي وتأثيرها على الاستيراد والأسعار."
     },
     {
      "title": "أسعار العملات الأجنبية اليوم الجمعة 27-11-2026 في البنك المركزي المصري",
@@ -329,22 +346,6 @@
      "time": "2026-11-27T13:29:57.000Z",
      "seen": "2026-11-27T14:17:31.843Z",
      "impact": "يمس المستهلكين وصغار المربين في مصر لما له من تأثير مباشر على استقرار أسعار الدواجن."
-    },
-    {
-     "title": "السعر الرسمي للدولار اليوم الجمعة 27 نوفمبر 2026 في مصر",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcXNCaEVWNGFpYngweFU2c0xac3lRVEdSTmdPZ0QyTDREdzZSVG5XTlJHQnJGdWltWnYtamI3eW5rYlRWMzhSN2Rna2ZxN0ltUHpuV1B3?oc=5",
-     "source": "بوابة الأهرام",
-     "time": "2026-11-27T13:15:00.000Z",
-     "seen": "2026-11-27T13:17:32.154Z",
-     "impact": "يوفر للمواطنين والمستثمرين في مصر رؤية واضحة حول السعر الرسمي الحالي للعملة الأمريكية."
-    },
-    {
-     "title": "سعر اليورو اليوم الجمعة 27 نوفمبر 2026 في مصر",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14aTR5NHAxZTVhQWxNU1JNcTAtdUYwY0JTMlZ1UlJULV9kUEZJVGpYdU1RYjJEZEd4Uy1nY2RMWmpQWUNTUktYVDJuY2RYZExlOUV6djlR?oc=5",
-     "source": "بوابة الأهرام",
-     "time": "2026-11-27T13:14:00.000Z",
-     "seen": "2026-11-27T13:17:32.154Z",
-     "impact": "يهم المستوردين والمسافرين إلى أوروبا لتحديد ميزانيات معاملاتهم المالية باليورو."
     }
    ]
   },
@@ -352,6 +353,20 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-27T15:21:00.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
+    },
+    {
+     "title": "إسبانيا: اختتام الحملة الانتخابية وسانشيز يصف الاقتراع بالخيار بين \"طريقين\" وسط مخاوف من عودة اليمين",
+     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261127-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%AA%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%B3%D8%A7%D9%86%D8%B4%D9%8A%D8%B2-%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-27T15:17:36.000Z",
+     "seen": "2026-11-27T15:28:31.983Z"
+    },
     {
      "title": "سفير إيراني لـCNN: الصراع مع أمريكا وإسرائيل \"معركة وجود\" ونواصل تبادل الرسائل مع واشنطن",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/us-iran-exchanging-messages-mediators-ambassador",
@@ -395,13 +410,6 @@
      "seen": "2026-11-27T08:16:05.475Z"
     },
     {
-     "title": "الذكاء الاصطناعي.. فاتورة بيئية ثقيلة",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B9%D9%84%D9%89-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6/20261127-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9-%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D8%AB%D9%82%D9%8A%D9%84%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-27T14:22:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
-    },
-    {
      "title": "الذكاء الاصطناعي يجاري الكاتب الروسي غوغول ويكتب الجزء الثاني من \"النقوس الميتة\"",
      "url": "https://www.dw.com/ar/الذكاء-الاصطناعي-يجاري-الكاتب-الروسي-غوغول-ويكتب-الجزء-الثاني-من-النقوس-الميتة/a-80077320?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -442,13 +450,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-27T12:52:43.000Z",
      "seen": "2026-11-27T12:57:31.922Z"
-    },
-    {
-     "title": "الشرطة الهندية تنقذ 164 أجنبياً احتجزتهم شبكة احتيال إلكتروني واتجار بالبشر",
-     "url": "https://www.bbc.com/arabic/articles/c6y4j027dz8mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T12:51:10.000Z",
-     "seen": "2026-11-27T12:57:31.922Z"
     }
    ]
   },
@@ -461,7 +462,8 @@
      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPZWZnSVdRMEFfNWpzc1E0eTEzc3JuZzNDLVFiLXRnbTFVUE44WmdBUlpCalFKMDRIVXN4ZEFibFBnbERQTlJWLTR1empaczJvUDlrU2ptLWlRRkQxMFEzaXZRRGU1OUtzOEZpU195aFJpd25XMWZYNEdJMlRMbnUzTzhwal80Z0RoUzhERVBLbzd2Tk5jQlZ1VDRFRGhTajZJR1piRXVEcVlJUFk0am9lR09XX0VsZVNnMVcxY2dTbVJNbW1wNnF4eXVkVzJWOGJOUjdHZXQtQ1lwcWRiaVFMVm1rcExkWUhLcTVITkg1SHFxNUJDZndpN0JURnVhYlB6ZkhBMmZJYnBnaWhOd3otRmZVVmg2em5zdUlpSGM2ZFdERWZlREN3Z0JKcTBLM2JReTllRHc5eTFfNUJkSE1mUEo5R1dXTGNRbjFTM2dVODB3c0M2OUlLQlN1LTRoY0dEWHdFRGFoWTlrWEhhR1JYdmdUV0Z6a1ZhMm5LU3U4d2VPMUpVeXIxR3JXbFAtaXB4REs5QkhUVU5xUG05MXBKcmRwZHNIR2lkeXdwVFJOalBfc2dfbFdsRlQ5ZzlQNDFhTHBsbXc5Yl9NYXJzSFZyd19QRXFQZFnSAdwDQVVfeXFMT0hZRXh4QWJ5MUl2MU5NYUk5QXVId0ZrUVA5YnM1WjdGaml6azJvenRXY2pNZVBFTHppMFJQQkNzd0s0MUYtanN4LVQ5Z3dDeENxY0VTY1VQWWpKMnRVRGk5blpWelRxbWhTbkNudTZfRDBhcjJjSXYwVXU0ZWxPdHNERlV4STBYM2t1Vnk4QlBuTlZlZjZuRVBhYWdlSGhFeGQweWZOYUV6QVRCR2oxZVpCNU5IWDN4NVY1WTZVQzBGeUFUc0lYSGpnSGh5ekhwNkgzaWNsaGVmREllMkZ3cV9NX2Z2b0JxV2pwdG9OMmpROXdqdVktdGdGdXB4ODhMUjU5UU5xclZubUtfaVRUX3R0RVo3elJUdDZXZ2FmYjZqeTNVS2t0OXZYeW9XMmt1SUZvR05DWTk3VFF5dWxKejdHSVQ5LWowQU1KdVVqTEV2TzZfdGxzeWRWODJCWG1aZ2xXaFFSLWdaazlxMWZwS3dJSDl2TTltc2hVTGtCa3d1b1gycXllUFAtV0Zncl9ZSFQ1aFpub3dZLUN5akUtLUFwUjMxUkRqTmpzYkdUVm1RSzUtQWZGZVlVLWN2V2ZtSFI4M25BSHFVN3hINmxsN0RnaXdHVlBlMEVwWXE?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-27T13:35:39.000Z",
-     "seen": "2026-11-27T15:18:31.909Z"
+     "seen": "2026-11-27T15:18:31.909Z",
+     "impact": "يهتم به العاملون والمستثمرون في قطاع التكنولوجيا لمتابعة أمن المعلومات ومخاطر الاختراقات السيبرانية."
     },
     {
      "title": "الصين تنظم الهوية الرقمية الموزعة وتشجع استخدامها لوكلاء الذكاء الاصطناعي",
@@ -469,7 +471,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-27T13:18:52.000Z",
      "seen": "2026-11-27T13:27:32.238Z",
-     "impact": "يفيد الفاعلين في قطاع التكنولوجيا في مصر بمتابعة التنظيمات التشريعية العالمية للذكاء الاصطناعي."
+     "impact": "يهتم به مطورو ومستثمرو الذكاء الاصطناعي لمتابعة التنظيمات الحكومية الدولية للهوية الرقمية."
     },
     {
      "title": "علي باي تطلق وكيل ذكاء اصطناعي للتسوق والدفع صوتيًا من داخل السيارات",
@@ -477,7 +479,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-27T13:17:49.000Z",
      "seen": "2026-11-27T13:27:32.238Z",
-     "impact": "يطلع المهتمين بالتكنولوجيا والمستثمرين على التطورات الحديثة في وسائل الدفع والتسوق الذكي."
+     "impact": "يهتم به المستهلكون والمستثمرون في قطاع السيارات والتجارة لمتابعة تقنيات الدفع الصوتي الذكي."
     },
     {
      "title": "وكيل ذكاء اصطناعي يشتري البيتزا بالدفع المباشر من حساب مصرفي في بريطانيا",
@@ -485,7 +487,15 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-27T13:16:42.000Z",
      "seen": "2026-11-27T13:17:32.154Z",
-     "impact": "يعكس لمتابعي القطاع المصرفي والتقني اتجاهات الابتكار في إجراء المعاملات المالية الآلية."
+     "impact": "يهتم به الأفراد الراغبون في التعرف على تطور حلول الدفع المباشر من الحسابات المصرفية عبر الذكاء الاصطناعي."
+    },
+    {
+     "title": "الشرطة الهندية تنقذ 164 أجنبياً احتجزتهم شبكة احتيال إلكتروني واتجار بالبشر",
+     "url": "https://www.bbc.com/arabic/articles/c6y4j027dz8mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-27T12:51:10.000Z",
+     "seen": "2026-11-27T12:57:31.922Z",
+     "impact": "يهتم به المسافرون والعاملون بالخارج لزيادة الحرص والتوعية ضد شبكات الاحتيال الإلكتروني والاتجار بالبشر."
     },
     {
      "title": "إيران تنفي مسؤوليتها عن مقتل إيطاليَيْن في هجوم بالكويت",
@@ -505,15 +515,8 @@
      "title": "حمام بأدمغة شبه إلكترونية.. هل بدأ عصر الطيور المسيرة؟",
      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcHBubUpfR0MwMXh3MmZpeWJpRmE0V3VQbjQxTGoxZWxDTm5tX2FBdFNXejl0d3lUeFVfQlNCWkh6OS1FMmd6SDA1M1dPZHB3Tm9BTVp0UHRvemVnQTRhbDl2UTdpTUozaFJvQWpSV0NmN3RLV0g2QzZBdUtIQklCazJZdnlPbWZEV0c1aGhBaUJQZ0Y0T3o0S0J0SXlxY0FoaldtQ3ZUSldJZ1dpb1RSTmdfaHVvMDRObXZsRGM3XzJ0eFI1S0lHaWV2SnpnV3dYdjh5eGdCUXIzQXh0dkM5VEphc1lra1ZIQ0Q0d3BKQUdMVi1HWXF0c3JuMWFqM3pMaVkwUnhvR082bElOZG1Ob3hzSGd2eW1ET3pMdTNsZDJmMjNxTTlKT0kxelo1eDNwVXpVUXdpTnJWa2p2V3g0S1hmNTRwRFZUY1RNX2t5WFdzMjJqYVBhTXRGd1VFc1p6d0dBZDVwWTA0S2oxVXEzWnlDZzhqQXY5aVNIREg5dFdiSXhhcmQyZzRwUDl3Q0FLQ0pDaGtR0gGbA0FVX3lxTE1paUJDMHAwdmRvZkdWbG1xdFNndzg2Y3pHUXBTdXhaQXVncGtOYy1tOHRBTUJjTE01bEdUeTJ6N3NUTEQxdnhDMjV3dHdqbXNsTjk4VUpZd2JXdGk3bDlLcWphVnNTbVY5MVBhNEhaYU1pcmVnU3dnRGh2ZkxJZWJSS0lCWlFySWZVN2J1cWNuLWVuZnBPelVFZi1XYlNGR1FvNTc3Qm9MV1JITFVCN3N5aGlCd29vY0tybklLY0xMMjhBeXpMNHdMUHl1T29GcEprYlVReUxTZndKSWtoNWRWU2xVNVpxazVKTFdZa0hGZFFjMEdaeDRsenZianBRaHIwcGJGRHFQOUxmQ1ljOUNzb2tlWE5XbHdfQjN5RzdEZWIwdEwzWGQ5TmJIVEF0ZWpyRWV6djQ4eG9UVzQ3WmJDX19scG1YRU9HcXRLaWhfdkZhY2puMDJGZmN3S2M3c0ltSVFjOFVQQ2xxWUJpV0FkWFo1OExiX1NNQkFSRTl4QUFIUnZFcW1ZOFNkbVktQUhndlRlYVdPQ3duaw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T08:33:22.000Z",
+     "time": "2026-11-27T08:23:57.000Z",
      "seen": "2026-11-27T09:36:06.178Z"
-    },
-    {
-     "title": "تركيا تصادق على اتفاقية مكة للدفاع المشترك قبيل اجتماع ثلاثي في إسلام آباد",
-     "url": "https://www.bbc.com/arabic/articles/c3dx1yz9q2nko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T08:23:33.000Z",
-     "seen": "2026-11-27T08:26:05.961Z"
     },
     {
      "title": "حرب الرقائق.. هل تتحول القيود على الصين لخلاف أميركي أوروبي؟",
@@ -565,6 +568,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
+  },
   {
    "section": "tech",
    "feed": "البوابة العربية للأخبار التقنية",
