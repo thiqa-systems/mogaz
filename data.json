@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:58:54.376Z",
+ "updated": "2026-11-27T22:08:54.796Z",
  "minute": [
   "شملت الأخبار المحلية في مصر تحديثات لأسعار صرف الدولار والدينار الكويتي بالبنوك، إلى جانب مواضيع تتعلق بالقوانين والفتاوى التجارية.",
   "وعلى الصعيد العالمي، برزت مباحثات دفاعية بين السعودية وباكستان وتركيا، وتطورات ميدانية وسياسية في سوريا وليبيا وفرنسا.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T21:58:54.376Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-27T22:08:54.796Z"
  },
  "markets": [
   {
@@ -20,7 +20,7 @@
    "unit": "ج.م",
    "value": 54.77,
    "change": 0.11,
-   "asOf": "2026-11-27T21:51:08.000Z",
+   "asOf": "2026-11-27T22:09:01.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0937,
-   "change": -0.3,
-   "asOf": "2026-11-27T21:58:46.000Z",
+   "value": 1.0939,
+   "change": -0.28,
+   "asOf": "2026-11-27T22:08:46.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59755,
-   "change": -1.22,
-   "asOf": "2026-11-27T21:58:51.000Z",
+   "value": 59652,
+   "change": -1.39,
+   "asOf": "2026-11-27T22:09:04.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,27 @@
    "title": "مصر",
    "items": [
     {
+     "title": "درجات الحرارة اليوم السبت 28 نوفمبر 2026.. الصغرى بالقاهرة 14 درجة",
+     "url": "https://www.youm7.com/story/2026/11/28/درجات-الحرارة-اليوم-السبت-28-نوفمبر-2026-الصغرى-بالقاهرة-14/7634516",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T22:00:00.000Z",
+     "seen": "2026-11-27T22:08:54.796Z"
+    },
+    {
+     "title": "حالة الطقس اليوم السبت 28 نوفمبر 2026.. شبورة كثيفة وانخفاض الرؤية",
+     "url": "https://www.youm7.com/story/2026/11/28/حالة-الطقس-اليوم-السبت-28-نوفمبر-2026-شبورة-كثيفة-وانخفاض/7634514",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T22:00:00.000Z",
+     "seen": "2026-11-27T22:08:54.796Z"
+    },
+    {
+     "title": "مواقيت الصلاة اليوم السبت 28 نوفمبر 2026 بمحافظات الجمهورية",
+     "url": "https://www.youm7.com/story/2026/11/28/مواقيت-الصلاة-اليوم-السبت-28-نوفمبر-2026-بمحافظات-الجمهورية/7633990",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T22:00:00.000Z",
+     "seen": "2026-11-27T22:08:54.796Z"
+    },
+    {
      "title": "بسبب أعمال تطوير نظم الإشارات.. السكة الحديد تعتذر لركاب الوجه القبلي عن التأخيرات",
      "url": "https://www.elbalad.news/7197077",
      "source": "صدى البلد",
@@ -158,28 +179,6 @@
      "source": "صدى البلد",
      "time": "2026-11-27T21:42:12.000Z",
      "seen": "2026-11-27T21:48:55.194Z"
-    },
-    {
-     "title": "شيخ الأزهر يعزى محافظ القاهرة في وفاة والدته.. ويدعو الله أن يتغمدها بواسع رحمته",
-     "url": "https://www.youm7.com/story/2026/11/27/شيخ-الأزهر-يعزى-محافظ-القاهرة-في-وفاة-والدته-ويدعو-الله/7634900",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T21:31:00.000Z",
-     "seen": "2026-11-27T21:38:54.844Z"
-    },
-    {
-     "title": "تعرف على مهام وواجبات مأموري الضبط القضائي وفقًا لقانون الإجراءات الجنائية",
-     "url": "https://www.youm7.com/story/2026/11/27/تعرف-على-مهام-وواجبات-مأموري-الضبط-القضائي-وفقًا-لقانون-الإجراءات/7631952",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T21:27:00.000Z",
-     "seen": "2026-11-27T21:28:55.015Z",
-     "impact": "يزيد من وعي الأفراد والمستثمرين في مصر بالواجبات والحدود القانونية الخاصة بمأموري الضبط القضائي."
-    },
-    {
-     "title": "الفنان حسن الرداد يشارك في حملة التبرع بالدم للمصابين.. كيس واحد ينقذ حياة",
-     "url": "https://www.youm7.com/story/2026/11/27/الفنان-حسن-الرداد-يشارك-في-حملة-التبرع-بالدم-للمصابين-كيس/7634897",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T21:22:00.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
     },
     {
      "title": "كانت تقل 13 مصريا.. غرق سفينة قبالة كوبا",
@@ -243,6 +242,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار السبت.. 54.95 جنيه أعلى سعر للبيع مع توقف التعاملات المصرفية",
+     "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPOWpzMFRVU1ZJY25SYU03SWNSOVd0ME02Tl92WW9hTXpIN3VpeUp5WFVHNmt1ZHd5b2NRU2FOSGp0VTlnVkxDSDZyNEtDWnhNMGNRV1ZxR3Aybk9PTFd5Uzd4Y1pkczYzaGs4U2pyaGxWZnFVZGlYUXFCQWprbXBzUFNjbkhrekJWZHNlMGhfZHJiX1N6VDZLbkFNWlp1RWZ3bmRWN19rRXVVYklNYWZueGJOUGdwYlEtRVRaZUgtWjdwV21ESlZCZHJhNHNHSXQ0dVR1bHg4bjkzb1RlRVRudTcxNkJTQ3MwUlpTcTVSLTBmam5FU0xyMmVFV1A2RVdZaURRZzBlRDdCSUpDYXpxb0pnUHRPYTNyUVI0UVFLSERfN05ENlh6Q2FHOWhEd18wNUs4RjQ5TzNkdzZwcVNkSWdmR0ZIY1pKYWFaaUVLaGNMZzFWMXl0bjJJRUVIM2I3Z2R3eVcycGR0OF9zSHdtd0c1NTXSAe8CQVVfeXFMTmsxd3QwZk1iOWZLYU5tcXMzajNOVG15SkpSWHZueWVTaVZma0I3V0JpLTVOVVdTSWQtUHV2SjkzQ0tfcEt2VUptWGxtM3dEZi1FVWdDcURxN3hXZ1ByZ3ljcl91Y1dKQ093VmJfbEROU3RadHpKUmlJbU1FT3l2c0h5Q3lXM0Q0QkxBd3VCZXpoeHZCWk5jSUhHMk5xUG1PZmNoZ3FLLTRiUG9hX1JkVFRSV2pEYU9CZUdaODhkcG9ScWZOWFo1eXdhaHVLQWRyM21nMTNzT0VpeWpEdzc1bDdhUmRIc3ZsYUJnUFNPYWk5c3hyTm5FZEZzMFE1NXY3ZEwtR0VVQng1V3BlNlFmMmdTM3JFNWIwTU4yczl2bDA2WmhzbUdwTEdGT21tRFRyMXZXMFZGeGItbnJ2QXd5NnBYWU5ZdmdqVVRqR29YVXJhc0hfV2ltdnNwY1JOTjB3bElPeV9YN0t5NzZRQmVBMA?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T22:00:00.000Z",
+     "seen": "2026-11-27T22:08:54.796Z"
+    },
     {
      "title": "سعر صرف الدولار في البنك المركزي المصري والبنوك المصرية (آخر تحديث)",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92aGVUMkl2Z1JLOEVRZjZZV2pmbF9DZmR5YkJmMDdMZkdvLWdydEs1VG8tVDBZNlNZRUJIMk00aWhvNG82cmU0?oc=5",
@@ -308,13 +314,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T18:00:00.000Z",
      "seen": "2026-11-27T18:08:32.138Z"
-    },
-    {
-     "title": "قبل استثمار مدخراتك.. لماذا تدفع 140 جنيهًا إضافية في كل جرام ذهب؟",
-     "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQNjdvNVVRY1VJd2hhbGdBWERDdTQxX0JBdVhkcTZBTjlQZnVsZXJRR1gtbG1vM3dhVlU3cTRxU2tvLXp0VE1NR2lkeXFjUm16RE9BdVhBOXhnSGtMNGdpX2d4bldseDRLWmpSX1NPZzN3bEEzSUZwend3S0NyblhtVDR1ZmVvZGpNQzUwLXpHcEJ0aUplc3pvTFNnczZPdGZwLWNaakVESGQ3b1BxV2l3RHR6N2lDaUw2Snh0NjhQbURhX2JmVG5NLWMwZXIzbDNUUEplZHU2SHBFXzZOdG4zdzhrRFFxanRKTWE5WGJMX0xGa1NMVXJ4Z1g2Vy1DX0JFb2FHd2llQzFoZnU2OFl5ZERHbW55WVg1Y1R1YlFURWtVWmU0OVVnZ2VJSE1mdFRTa010Rnc1WV9KOUI1UW1XZnlNdnRNdkVjZ3BYWWNKemlZNHk4SW1tcFlOblloUEtwZVp4YllNM1dpQnQzSEZaZ2FnQjZRWE84bEkyVWJsNWRNQzBlVVRzdnFiM3dncUlVVko1ZUhGeFltZk1KRnVIYjRvRlpoWE4wRDVNWWNzZFpBTmppMXFIRzFrONIBtgNBVV95cUxQTEJabVFaOXRvUVkteGlUMEx5bkdVQWVCR1Z1MmRWS3BCSzRfdi1fV3IzUWJxVXdLYXoyMHJlSHRXNm92SDNMY3ZYQkE2N3RraWU1YzVoRl94cFN0SFYzTmFOcEUxWWp3VS1ZWm5NNlE5MVNmNFZuMThwS2JjaWhmMHhUUTYwN1FULXFQQ0FkXzllR2RlSEdDVXJvc25CWXRCRGQ0ZHJ0MWtFMnQtdmNWeHdWaXQ1OHFYRVFObFNHekJUME9VcTU5eEdDNTJmVGtpVTFIRG1uMXRhUUpxaXYtdEoxdmRveVBGeExLYXRldjNKekZDc3ZldlEyall5WlN6NGpvcm9jdHcydl94M0hac3FNZkR4eXo5SjFIMjB5eW9GSUFuMVR3OUNGOWE5b01STTZJOEhNaXN3LXJuVFpKSk15T3p6NmhpdWdtV2Y3Q1VDckEtNWtTcXFWMTM2VVZTaElOejFzVm9MMjlWZkVXNmZra2NzSzZQX01PU2FsY1pRV09GanJTMXBkLVRFcW1QX1o1RndCek1aQUFpZVpXUWJpMWRNSTVianhRWVdJNFFiQ3F1X2c?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T18:00:00.000Z",
-     "seen": "2026-11-27T19:38:32.182Z"
     },
     {
      "title": "افتتاح معرض “موضة كيدز فاشون” للملابس بمشاركة 300 شركة",
@@ -510,7 +509,7 @@
      "title": "وول ستريت تغلق على ارتفاع مع تعافي أسهم شركات الذكاء الاصطناعي",
      "url": "https://sana.sy/economy/2647121/",
      "source": "الوكالة العربية السورية للأنباء",
-     "time": "2026-11-27T13:57:00.000Z",
+     "time": "2026-11-27T14:07:00.000Z",
      "seen": "2026-11-27T21:58:54.376Z"
     },
     {
