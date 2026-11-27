@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:07:31.473Z",
+ "updated": "2026-11-27T15:17:31.337Z",
  "minute": [
   "أعلنت سكك حديد مصر عن فتح باب التعيينات لوظائف هندسية وقيادية، في حين تابعت الجهات المعنية الإجراءات والدعم لضحايا حادثي حريق الوراق والطريق الدائري.",
   "وعلى الصعيد الاقتصادي، سجل سعر شراء الدولار 54.85 جنيه في بنك أبو ظبي الإسلامي، بينما ناقش وزير الزراعة آليات ضبط سوق الدواجن ودعم صغار المربين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T15:07:31.473Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-27T15:17:31.337Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5653,
-   "change": 3.88,
-   "asOf": "2026-11-27T14:57:34.000Z",
+   "value": 5639,
+   "change": 3.61,
+   "asOf": "2026-11-27T15:08:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6454,
-   "change": 3.88,
-   "asOf": "2026-11-27T14:57:34.000Z",
+   "value": 6438,
+   "change": 3.61,
+   "asOf": "2026-11-27T15:08:10.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3669,
-   "change": 3.77,
-   "asOf": "2026-11-27T14:57:34.000Z",
+   "value": 3660,
+   "change": 3.5,
+   "asOf": "2026-11-27T15:08:10.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0949,
-   "change": -0.19,
-   "asOf": "2026-11-27T15:06:47.000Z",
+   "value": 1.0942,
+   "change": -0.26,
+   "asOf": "2026-11-27T15:17:48.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.1,
-   "change": -3.71,
-   "asOf": "2026-11-27T14:57:17.000Z",
+   "value": 90.84,
+   "change": -3.98,
+   "asOf": "2026-11-27T15:07:40.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7221,
-   "change": 0.53,
-   "asOf": "2026-11-27T15:07:35.000Z",
+   "value": 7243,
+   "change": 0.83,
+   "asOf": "2026-11-27T15:18:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 58911,
-   "change": -2.62,
-   "asOf": "2026-11-27T15:07:33.000Z",
+   "value": 59470,
+   "change": -1.69,
+   "asOf": "2026-11-27T15:18:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,45 +139,45 @@
    "title": "مصر",
    "items": [
     {
-     "title": "وثائق مسربة: حارس بوتين الشخصي المرشح لخلافته أنهى حياته عند شلال ارتفاعه 90 قدما",
-     "url": "https://www.elbalad.news/7196701",
+     "title": "الآلاف يشيعون جثامين 5 شهداء من أسرة واحدة لقوا مصرعهم بحادث الوراق",
+     "url": "https://www.youm7.com/story/2026/11/27/الآلاف-يشيعون-جثامين-5-شهداء-من-أسرة-واحدة-لقوا-مصرعهم/7634614",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:16:00.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
+     "title": "ضبط أكثر من1.5 طن أغذية فاسدة وإعدام 450 كيلو جبن خلال حملة في تلا",
+     "url": "https://www.elbalad.news/7196677",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:06:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
+     "time": "2026-11-27T15:15:43.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
+     "title": "رفع 24 طن مخلفات بطريق قوص.. محافظ قنا يوجه بتكثيف حملات النظافة والتجميل",
+     "url": "https://www.elbalad.news/7196700",
+     "source": "صدى البلد",
+     "time": "2026-11-27T15:15:41.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
+     "title": "الصحة تعلن الانتهاء من تحديد هوية 27 من ضحايا حادث حريق الوراق",
+     "url": "https://www.elbalad.news/7196706",
+     "source": "صدى البلد",
+     "time": "2026-11-27T15:14:09.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
+     "title": "الكويت تستدعي سفير إيران وتسلمه مذكرة احتجاج على استمرار الاعتداءات",
+     "url": "https://www.youm7.com/story/2026/11/27/الكويت-تستدعي-سفير-إيران-وتسلمه-مذكرة-احتجاج-على-استمرار-الاعتداءات/7634609",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:09:00.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
     },
     {
      "title": "الطقس غدا.. تحذير من شبورة كثيفة وانخفاض الرؤية والصغرى بالقاهرة 14 درجة",
      "url": "https://www.youm7.com/story/2026/11/27/الطقس-غدا-تحذير-من-شبورة-كثيفة-وانخفاض-الرؤية-والصغرى-بالقاهرة/7634496",
      "source": "اليوم السابع",
      "time": "2026-11-27T15:00:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
-    },
-    {
-     "title": "حساب خاص ببنك ناصر لاستقبال مساهمات رجال الأعمال لدعم أسر ضحايا حادث الوراق",
-     "url": "https://www.youm7.com/story/2026/11/27/حساب-خاص-ببنك-ناصر-لاستقبال-مساهمات-رجال-الأعمال-لدعم-أسر/7634143",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T15:00:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
-    },
-    {
-     "title": "موعد صرف تكافل وكرامة عن شهر ديسمبر 2026 وطرق الاستعلام",
-     "url": "https://www.youm7.com/story/2026/11/27/موعد-صرف-تكافل-وكرامة-عن-شهر-ديسمبر-2026-وطرق-الاستعلام/7632493",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T15:00:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
-    },
-    {
-     "title": "رأيت الشيطان وأبواب الجحيم.. اعترافات مثيرة للبابا فرنسيس تكشف أسرار دفتره الأسود",
-     "url": "https://www.elbalad.news/7196663",
-     "source": "صدى البلد",
-     "time": "2026-11-27T15:00:00.000Z",
-     "seen": "2026-11-27T15:07:31.473Z"
-    },
-    {
-     "title": "عصابة سرقة المواشي في قبضة مباحث إسنا.. ضبط 4 متهمين واستعادة 12 رأس ماشية و2 تروسيكل بالأقصر",
-     "url": "https://www.elbalad.news/7196690",
-     "source": "صدى البلد",
-     "time": "2026-11-27T14:58:11.000Z",
      "seen": "2026-11-27T15:07:31.473Z"
     },
     {
@@ -244,6 +244,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار اليوم الجمعة 27 نوفمبر 2026.. مفاجأة في أسعار الأخضر بالبنوك",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5WVW5lR2NlRy1GazlONUpvbmpicW10ZkxrcEpqV2E0VTkydzg0WkluYlVfZWlSaG1RTlU1MlhOLXFKNG1E?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-27T15:09:42.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
+     "title": "تعرف على سعر الدولار مقابل الجنيه اليوم الجمعة 27 نوفمبر 2026",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBvZU85YTg3elZMV1o2X2hySkw1eU5wUkdrRFhTcDA0R3hNWEVNNkhJY0dheC1SQ29mdWhnSlQ3ajJfclBR?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-27T15:03:56.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
      "title": "سعر الدولار يقفز أكثر من جنيه في البنك المركزي خلال أسبوع",
      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPM0x0NzN5VFh3UUxMV1BjdTRDaElqMGczQ3FhblRoUkVFQ2hLV3o3bWV1SFVqQmJRbF9YWFo5Nk5Gd3lLZGhlanBNV3M2OHoyc0VHSzZfbGZlRkgwMldUOEhQa1RYb1M4NFAzbG8zWGhacHU1Nm1oSXd0R0Q2MTZXSk5IYlpHRk0tMTZHVVllUlVrSU9iZWo5T0llZFZiZE1wOEtHMW1jUVVhOVdMS1FFS0psWVZydzQ0ZXZDMWhrVmJBU2NZNkFkU1FjUWo3VVdzVkk5dHIxZk11dDI1dDVrV0FTazVTcmF6TVBVTEhfVVZPUlhUUEtETlVMWkk4S1gyZ3NOaDFpX0Nya1dpaVhqZmEtT0NUVGN2MDE3OXNGblljdlpoeloxclR3dXlVTkhaOHZGOFI0cnV0Z2VPUjhyaHNHRk5IMlFsZlEtVWpNZC1yZXB1NkdoX0x5Rnd3dGZnSVdWWHdiT19YcXc3djZzLXV6cUdGYWhoczdvVXl4QkdxYTBkcW11dkdDbFRBM0pGVl81cHBtUHN1WnlpSGM1eGJldlRmUGdENWw1d19oUUlkeE54dEFF0gGyA0FVX3lxTE92WUxZNUZxQ3JKTENVOGRDTDh5R3JYRVZZb3JDWktaRWIwbndmRUl6SVNNY1h6UTBDc1VMamdmcGFMVEY3akhTaGlLSllpY2Zmd1Jvd1BIVjVQb1A1dC1rOXRjYkxQc3Bfd01vQzhtMU5EUVJMaDJ5UTJPOUl0SXJQSmlBQ0RISF8xWUhNYlo5ZXhBVG80b2c4S2o0eFQ5Vl9JUjdIMUQ1cEhudEFYZHJjRzVvS0FKZGtRQXZ1T0thRzRWV0hObi0zNlpBVUlXOEY0bHhXRnZsOW1GeUlua3FYMkRtNVF5Z1JMSW9RVTVXU3c5NlFBZHVXbWdfOHJ0VGdMRGFvMFdMT2h1aGRLMEpaQ09xUVdJUGlfWGRobzlFelN5TnlybXNTdTB6dUVXZERXdFl6cEM5bjA4ajJSell1TkVXTDlVd0lsRGJKdVZWd3ZuTnJiWVFRWnJmQV9wajBKMTVHdmx0ZmVTLS1IYWhGdEhCRTlMaVIyX0JDOThxVUpXNlBtaHc4bTVWZ1FRRUJ0SjhpbHJXS2VyRzRmYm4za0lBemprYmNmRFVXdlIyTTl3?oc=5",
      "source": "اليوم السابع",
@@ -279,6 +293,13 @@
      "seen": "2026-11-27T14:47:31.652Z"
     },
     {
+     "title": "30 شركة ملابس مصرية تستكشف فرص التصدير إلى كينيا",
+     "url": "https://alborsaanews.com/2026/11/27/2009426",
+     "source": "البورصة",
+     "time": "2026-11-27T14:14:08.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
+    {
      "title": "أعلى سعر لشراء الدولار اليوم.. أبو ظبي الإسلامي عند 54.85 جنيه",
      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTjFtRkMtS3AzSjRPMDdGQl9vUzlaaVRtVGRqbHhfQmlFWGp6LWZmN0RXemJjNXBPTUNibTdmd1htc29vVmNjQXVJcTRJTmx3MjVsMkwyNEs0bmE4R1ZhRFBEX0FWNGhNOVBQQjJ0YXJCOFdkT2h4M3BKQ3JhSEsyZVBkRjY3MVA0MmdKRW1qQXdFdlBrc2UzXy04eXJ2cmxlNDVKN3k2cmRZMmFURHVJUVY1WklYMm9UZHRCY2xvNDNkSHEzbTVQVUlTdGE4ZFN0aEtNTUo4Mm9rN0ZnWnhISjROZ1RCXy0tOXJPSS1tR3ZidXJLdkF2Z0dDZFNjaTVORFpBb2szSnlZdThPLXNXdVZOU3RYVFg1UU81bW5aV2VCMjJzSlh6dHBrZk05eFdqWkVLMnlDU3QwZUNmVXVhOTJHNXhPOWRMOHpjTjY1alVzVHVQTUVhMU9rcDlYSmtJZlZmUkMzMVZrejRNcTA2eEtfUFJBcVFJT2hJTXdSaEtnZzNITFhZYVJwWGloeVFaRF9PWUxybWIyV2I3MDlWRTlWZkFGV05jNl9xUEVLYVBDUdIBrANBVV95cUxOS3FzTXRmaEg1TXU3eW5mand4RnRhTGczNW53cmNqSFdSdlR5RXlLbG53OWRJRExzazB2RmQ3U0pmVTBtb3ROT1ZOSkV5ZzN5VURtNl9mY2RLbk9EelBQQjJVYVBEMmV6R3ZVdFhiM0M4U3U2MnQzQ2dRSEVubDZVUXB1REh2V0pxamg3RDk3ZlRSUXRTeGFVNGlzNFlsMlVkVUJaYzMzRW04M3hldzJnVkU0bi1zb2lsTW41Y29yMmpXWnpkSkVxWmwzRjZmX21NQ1lpeFd4UW41RFlzQjk5ZDhmWU5NbWFNV2xrNHFsWUt4blJrWEltRG93SzItR0pXRklpTzd1ZzhBMGNKY0xlS1pESC1GS0JWNmd3ZklEMGpUUFpjUE1QQnI0QjlZQWlXbnZSSlZ3VXNScEI3WVpSb3ozVHJrMjV2azhLcEpvZGN6T2FkclNaWkkyVXBxTnFJcTVNZlBaU1BhSVBaTXpBYk1uODNLbjFmOGppczNhbzRJbUprdHJKNnZaR1VwX0tISjhYWGVzS0VIZXZ1QmtSUDFVcTZfMnJvWWg0LQ?oc=5",
      "source": "اليوم السابع",
@@ -310,14 +331,6 @@
      "impact": "يمس المستهلكين وصغار المربين في مصر لما له من تأثير مباشر على استقرار أسعار الدواجن."
     },
     {
-     "title": "مجلس الوزراء: 25 مليون جنيه تبرعًا جديدًا لمساندة أسر ضحايا ومصابي حادث الدائري",
-     "url": "https://alborsaanews.com/2026/11/27/2009416",
-     "source": "البورصة",
-     "time": "2026-11-27T13:28:11.000Z",
-     "seen": "2026-11-27T14:17:31.843Z",
-     "impact": "يوضح تفاصيل مساندة الدولة والدعم المالي الموجه لأسر المتضررين من حوادث الطرق."
-    },
-    {
      "title": "السعر الرسمي للدولار اليوم الجمعة 27 نوفمبر 2026 في مصر",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcXNCaEVWNGFpYngweFU2c0xac3lRVEdSTmdPZ0QyTDREdzZSVG5XTlJHQnJGdWltWnYtamI3eW5rYlRWMzhSN2Rna2ZxN0ltUHpuV1B3?oc=5",
      "source": "بوابة الأهرام",
@@ -332,20 +345,6 @@
      "time": "2026-11-27T13:14:00.000Z",
      "seen": "2026-11-27T13:17:32.154Z",
      "impact": "يهم المستوردين والمسافرين إلى أوروبا لتحديد ميزانيات معاملاتهم المالية باليورو."
-    },
-    {
-     "title": "سعر الدولار اليوم الجمعة 27/11/2026 أمام الجنيه المصرى",
-     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOb056MDZUWHRRWDZYS2NvR01yMmM4bTAtdjk0NXBhS0dKTlh1clRvUnQ5US1aenFfdUFVQlhlNDJQRDRVWE1qTGplN0pmZzMzVlNSeVlDUGxCaDZyTGRKVXVpdTFPYnpucHhSR3RoQUp6VVhjLXNiUUpDUFZTNHI1WVFqSi1hT1NTNzZYTHEtUC1ieUM0Wl9STjdJUWdjM2c0a2k0MHdxcHBQWWhMdWdRNWhfeXdTR0RkckFrU0tmTEY0MVRHbzRQdkJPSkVhcW14Z2hsT0FPYldWYlhYUkVxNERQclBrSnZTbzdMeXNuOVIxVWxhYXYtX0tPR2hPekRIVWhUMWZ5UGpvOC0zeDJ0a3hIQ05wamZwVUtkeVQtTVBQMHc0WWZtM200dDJudXVJczlNVThXSlhXclVnaHpubzVWRkNlN0toamhJNFFYWVl4S1Q0b3U3MVRpYXpfMDA4WnFwbkxqcDVReUpFWEF5R1FCSzQzbmVVeG9uZlE0cmdScTNZTTBxcXl1YnFabGFacWRtT9IBlANBVV95cUxOb056MDZUWHRRWDZYS2NvR01yMmM4bTAtdjk0NXBhS0dKTlh1clRvUnQ5US1aenFfdUFVQlhlNDJQRDRVWE1qTGplN0pmZzMzVlNSeVlDUGxCaDZyTGRKVXVpdTFPYnpucHhSR3RoQUp6VVhjLXNiUUpDUFZTNHI1WVFqSi1hT1NTNzZYTHEtUC1ieUM0Wl9STjdJUWdjM2c0a2k0MHdxcHBQWWhMdWdRNWhfeXdTR0RkckFrU0tmTEY0MVRHbzRQdkJPSkVhcW14Z2hsT0FPYldWYlhYUkVxNERQclBrSnZTbzdMeXNuOVIxVWxhYXYtX0tPR2hPekRIVWhUMWZ5UGpvOC0zeDJ0a3hIQ05wamZwVUtkeVQtTVBQMHc0WWZtM200dDJudXVJczlNVThXSlhXclVnaHpubzVWRkNlN0toamhJNFFYWVl4S1Q0b3U3MVRpYXpfMDA4WnFwbkxqcDVReUpFWEF5R1FCSzQzbmVVeG9uZlE0cmdScTNZTTBxcXl1YnFabGFacWRtTw?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T12:54:54.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
-    },
-    {
-     "title": "الشرطة الهندية تنقذ 164 أجنبياً احتجزتهم شبكة احتيال إلكتروني واتجار بالبشر",
-     "url": "https://www.bbc.com/arabic/articles/c6y4j027dz8mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T12:51:10.000Z",
-     "seen": "2026-11-27T12:57:31.922Z"
     }
    ]
   },
@@ -353,6 +352,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "سفير إيراني لـCNN: الصراع مع أمريكا وإسرائيل \"معركة وجود\" ونواصل تبادل الرسائل مع واشنطن",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/us-iran-exchanging-messages-mediators-ambassador",
+     "source": "CNN بالعربية",
+     "time": "2026-11-27T15:15:20.000Z",
+     "seen": "2026-11-27T15:17:31.337Z"
+    },
     {
      "title": "في 24 ساعة.. مئات ملايين الجنيهات تبرعات لضحايا حادث الوراق",
      "url": "https://www.skynewsarabia.com/middle-east/1907591-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D8%A6%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87%D8%A7%D8%AA-%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA-%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82",
@@ -366,13 +372,6 @@
      "source": "فرانس 24",
      "time": "2026-11-27T15:00:28.000Z",
      "seen": "2026-11-27T15:07:31.473Z"
-    },
-    {
-     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-27T14:56:00.000Z",
-     "seen": "2026-11-27T14:37:31.824Z"
     },
     {
      "title": "خلافات الميزانية الأوروبية.. هل تهدد وحدة الاتحاد ومستقبل دعمه لأوكرانيا؟",
@@ -438,17 +437,17 @@
      "seen": "2026-11-27T13:27:32.238Z"
     },
     {
-     "title": "من رأس تنورة إلى الرياض.. خريطة تكشف اتساع نطاق هجمات الحوثيين في السعودية",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/saudi-houthi-attacks-map-271126-infographic",
-     "source": "CNN بالعربية",
-     "time": "2026-11-27T12:56:47.000Z",
-     "seen": "2026-11-27T12:57:31.922Z"
-    },
-    {
      "title": "عون يرسم أولويات لبنان: حصر السلاح وإنهاء العداء مع إسرائيل",
      "url": "https://www.skynewsarabia.com/middle-east/1907552-%D8%B9%D9%88%D9%86-%D9%8A%D8%B1%D8%B3%D9%85-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%88%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D8%A1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-27T12:52:43.000Z",
+     "seen": "2026-11-27T12:57:31.922Z"
+    },
+    {
+     "title": "الشرطة الهندية تنقذ 164 أجنبياً احتجزتهم شبكة احتيال إلكتروني واتجار بالبشر",
+     "url": "https://www.bbc.com/arabic/articles/c6y4j027dz8mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-27T12:51:10.000Z",
      "seen": "2026-11-27T12:57:31.922Z"
     }
    ]
