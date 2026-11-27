@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-27T21:28:55.015Z",
+ "updated": "2026-11-27T21:38:54.844Z",
  "minute": [
-  "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
-  "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
-  "تتواصل التطورات التكنولوجية عالمياً مع توسع استخدامات وكلاء الذكاء الاصطناعي في المعاملات المالية والشراء."
+  "شملت الأخبار المحلية في مصر تحديثات لأسعار صرف الدولار والدينار الكويتي بالبنوك، إلى جانب مواضيع تتعلق بالقوانين والفتاوى التجارية.",
+  "وعلى الصعيد العالمي، برزت مباحثات دفاعية بين السعودية وباكستان وتركيا، وتطورات ميدانية وسياسية في سوريا وليبيا وفرنسا.",
+  "تكنولوجياً، رُصدت تقارير عن اختراق أمني لمنصة سحابية تابعة لسلاح الجو الأمريكي، ووصول رقاقات إنفيديا المحظورة إلى الصين."
  ],
  "ai": {
-  "at": "2026-11-27T15:28:31.983Z",
+  "at": "2026-11-27T21:38:54.844Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T21:28:55.015Z"
+  "key": 2,
+  "impacts": 7
  },
  "markets": [
   {
@@ -63,9 +61,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0936,
-   "change": -0.31,
-   "asOf": "2026-11-27T21:28:45.000Z",
+   "value": 1.0935,
+   "change": -0.32,
+   "asOf": "2026-11-27T21:38:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59761,
-   "change": -1.21,
-   "asOf": "2026-11-27T21:28:55.000Z",
+   "value": 59776,
+   "change": -1.19,
+   "asOf": "2026-11-27T21:39:17.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,45 +137,47 @@
    "title": "مصر",
    "items": [
     {
+     "title": "كاف يوافق علي ارتداء لاعبي الزمالك شارات سوداء خلال مباراة الأفريقي حدادا علي ضحايا الوراق",
+     "url": "https://www.elbalad.news/7197066",
+     "source": "صدى البلد",
+     "time": "2026-11-27T21:36:11.000Z",
+     "seen": "2026-11-27T21:38:54.844Z"
+    },
+    {
+     "title": "محمد ثروت يتلقى العزاء في شقيقه الأحد",
+     "url": "https://www.elbalad.news/7197052",
+     "source": "صدى البلد",
+     "time": "2026-11-27T21:31:06.000Z",
+     "seen": "2026-11-27T21:38:54.844Z"
+    },
+    {
+     "title": "شيخ الأزهر يعزى محافظ القاهرة في وفاة والدته.. ويدعو الله أن يتغمدها بواسع رحمته",
+     "url": "https://www.youm7.com/story/2026/11/27/شيخ-الأزهر-يعزى-محافظ-القاهرة-في-وفاة-والدته-ويدعو-الله/7634900",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T21:31:00.000Z",
+     "seen": "2026-11-27T21:38:54.844Z"
+    },
+    {
+     "title": "فتاوى تشغل الأذهان| هل الأطعمة والمشروبات الجديدة محرمة لمجرد أننا لا نعرفها؟.. حكم دفع عربون عند إرادة شراء السلع.. هل إذا شك الزوج في وقوع الطلاق يكون الأصل بقاء الزواج؟",
+     "url": "https://www.elbalad.news/7197064",
+     "source": "صدى البلد",
+     "time": "2026-11-27T21:30:21.000Z",
+     "seen": "2026-11-27T21:38:54.844Z",
+     "impact": "يوضح للأفراد والمستثمرين في مصر الأحكام الشرعية المتعلقة بالمعاملات المالية اليومية كدفع العربون."
+    },
+    {
      "title": "تعرف على مهام وواجبات مأموري الضبط القضائي وفقًا لقانون الإجراءات الجنائية",
      "url": "https://www.youm7.com/story/2026/11/27/تعرف-على-مهام-وواجبات-مأموري-الضبط-القضائي-وفقًا-لقانون-الإجراءات/7631952",
      "source": "اليوم السابع",
      "time": "2026-11-27T21:27:00.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
-    },
-    {
-     "title": "قريطم يطالب بتغليظ غرامة عدم ارتداء الخوذة وتطبيق نظام النقاط الإلكترونية بالمرور",
-     "url": "https://www.elbalad.news/7197051",
-     "source": "صدى البلد",
-     "time": "2026-11-27T21:24:41.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
-    },
-    {
-     "title": "الشعب الجمهوري: تطوير الأداء التنظيمي والبرلماني وتمكين الشباب على رأس أولويات المرحلة المقبلة",
-     "url": "https://www.elbalad.news/7197044",
-     "source": "صدى البلد",
-     "time": "2026-11-27T21:23:35.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
+     "seen": "2026-11-27T21:28:55.015Z",
+     "impact": "يزيد من وعي الأفراد والمستثمرين في مصر بالواجبات والحدود القانونية الخاصة بمأموري الضبط القضائي."
     },
     {
      "title": "الفنان حسن الرداد يشارك في حملة التبرع بالدم للمصابين.. كيس واحد ينقذ حياة",
      "url": "https://www.youm7.com/story/2026/11/27/الفنان-حسن-الرداد-يشارك-في-حملة-التبرع-بالدم-للمصابين-كيس/7634897",
      "source": "اليوم السابع",
      "time": "2026-11-27T21:22:00.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
-    },
-    {
-     "title": "الأعلى للشئون الإسلامية يوسع منافذ إصداراته بالمحافظات بالتعاون مع المراكز الثقافية",
-     "url": "https://www.elbalad.news/7197047",
-     "source": "صدى البلد",
-     "time": "2026-11-27T21:21:46.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
-    },
-    {
-     "title": "الباحث سالم الشامسى يحصل على درجة الماجستير المهني من جامعة القاهرة",
-     "url": "https://www.youm7.com/story/2026/11/27/الباحث-سالم-الشامسى-يحصل-على-درجة-الماجستير-المهني-من-جامعة/7634899",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T21:21:00.000Z",
      "seen": "2026-11-27T21:28:55.015Z"
     },
     {
@@ -247,7 +247,8 @@
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92aGVUMkl2Z1JLOEVRZjZZV2pmbF9DZmR5YkJmMDdMZkdvLWdydEs1VG8tVDBZNlNZRUJIMk00aWhvNG82cmU0?oc=5",
      "source": "فيتو",
      "time": "2026-11-27T21:00:00.000Z",
-     "seen": "2026-11-27T21:08:54.724Z"
+     "seen": "2026-11-27T21:08:54.724Z",
+     "impact": "يساعد الأفراد والمستثمرين في مصر على متابعة التغيرات في أسعار الصرف لتقييم تكاليف الاستيراد والخدمات."
     },
     {
      "title": "سعر الدولار اليوم في مصر الجمعة 27-11-2026.. آخر تحديث لسعر «الأخضر»",
@@ -261,7 +262,8 @@
      "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOaXlLWVNzTl82WC1UWWpjbVJxRTZMREFhbDl6dXZ0Y1FPdHVoVzFfQVlfcEk3TXAyZnNiX0ZTXy16OWRoWldiUmszUGNaU29fMXhhUnp6aUpuYjF4dnE3SHM0ck02bEtOT0lzOWtKQmhkaFBTQVVjLTlBQUl3Z2VpOHEydmpFTXlFdGYtMjMwTnUxVjdIR0pnMGcwNlBFYVZNNkdiYWJRY1dGVHpfWmhEQ2VkNlVDQ2xnbFFyeGtnNkZpdlhUXzZ2V285ZjRtNUgxTGJFOFJrQjAtalAwSDE3YXh0X1lnTEhkUDJHQmlaZS1rTEhjTUhDTDJsMjZIdkxtRlN6bkRaV3FjTU5FYjZsOXc2M2xwRFpfNmw1V2toNGdHbmhQQURMTUd4eGkxQ3M0MnFGeVhKSHhxZnd4QnU2WXNab1dKd1JxR2FmMkgxTHd2ZTR6eloxWlpoN1hzaDZFUVVxam85UGRhSVU2Mk9xTFlvMkZucW5uRzJ3QkFhdmh4bXM2Mk5GdEQteW5oUU90b0xyUnhYTjFKdTNhWmVxME4wSERpX3lldlV3Ti1oNHQzWjNrMjRsZkNzRUJNUEs0NHVjSGxFTnVMVlF0Y3Rsa0xmaGlHQVUyYjZGaXJ0UXdrR1p6ZEVvZWJYZDFQYzFQek8ycFZ4U2hmUkRXVmQ3OUpGQzh2RzBmaGJMQUJkZUx1NkRIZUlaMGcyS1hubHoyV2E2RHBUbnNNd9IBqgRBVV95cUxOaXlLWVNzTl82WC1UWWpjbVJxRTZMREFhbDl6dXZ0Y1FPdHVoVzFfQVlfcEk3TXAyZnNiX0ZTXy16OWRoWldiUmszUGNaU29fMXhhUnp6aUpuYjF4dnE3SHM0ck02bEtOT0lzOWtKQmhkaFBTQVVjLTlBQUl3Z2VpOHEydmpFTXlFdGYtMjMwTnUxVjdIR0pnMGcwNlBFYVZNNkdiYWJRY1dGVHpfWmhEQ2VkNlVDQ2xnbFFyeGtnNkZpdlhUXzZ2V285ZjRtNUgxTGJFOFJrQjAtalAwSDE3YXh0X1lnTEhkUDJHQmlaZS1rTEhjTUhDTDJsMjZIdkxtRlN6bkRaV3FjTU5FYjZsOXc2M2xwRFpfNmw1V2toNGdHbmhQQURMTUd4eGkxQ3M0MnFGeVhKSHhxZnd4QnU2WXNab1dKd1JxR2FmMkgxTHd2ZTR6eloxWlpoN1hzaDZFUVVxam85UGRhSVU2Mk9xTFlvMkZucW5uRzJ3QkFhdmh4bXM2Mk5GdEQteW5oUU90b0xyUnhYTjFKdTNhWmVxME4wSERpX3lldlV3Ti1oNHQzWjNrMjRsZkNzRUJNUEs0NHVjSGxFTnVMVlF0Y3Rsa0xmaGlHQVUyYjZGaXJ0UXdrR1p6ZEVvZWJYZDFQYzFQek8ycFZ4U2hmUkRXVmQ3OUpGQzh2RzBmaGJMQUJkZUx1NkRIZUlaMGcyS1hubHoyV2E2RHBUbnNNdw?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-27T20:04:14.000Z",
-     "seen": "2026-11-27T21:18:55.217Z"
+     "seen": "2026-11-27T21:18:55.217Z",
+     "impact": "ُيمكّن المتعاملين في مصر من مقارنة أعلى وأقل أسعار لشراء وبيع الدولار بين البنوك المختلفة."
     },
     {
      "title": "سعر الدولار مقابل الجنيه اليوم الجمعة 27 نوفمبر 2026",
@@ -275,7 +277,8 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zSkFja2NTbS1QYTFHYldkeDc0MnpJNVRpaEpSdEQzZGl4S1pZM2VfUzhnTnhKUkNkeTJyOEJULTZ0UHhndW1KMmg0cDFyZmtJVWlSckV4ek1HMElWVlVr?oc=5",
      "source": "المصري اليوم",
      "time": "2026-11-27T19:43:00.000Z",
-     "seen": "2026-11-27T19:48:32.229Z"
+     "seen": "2026-11-27T19:48:32.229Z",
+     "impact": "يهتم به الأفراد والمستثمرون والمصريون العاملون بالخارج لمعرفة قيمة تحويلاتهم المالية بالدينار الكويتي."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 27-11-2026.. آخر تحديث",
@@ -347,11 +350,11 @@
    "title": "العالم",
    "items": [
     {
-     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-27T21:20:00.000Z",
-     "seen": "2026-11-27T21:28:55.015Z"
+     "title": "السعودية وباكستان وتركيا تبحث توسيع اتفاق الدفاع المشترك وانضمام أعضاء جدد",
+     "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261127-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D9%83%D8%A9-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+     "source": "فرانس 24",
+     "time": "2026-11-27T21:28:13.000Z",
+     "seen": "2026-11-27T21:38:54.844Z"
     },
     {
      "title": "مقتل عنصري أمن في هجوم شرقي سوريا",
@@ -476,14 +479,16 @@
      "url": "https://aitnews.com/2026/11/27/%d8%b1%d9%82%d8%a7%d9%82%d8%a7%d8%aa-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%a8%d9%84%d8%a7%d9%83%d9%88%d9%8a%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86/",
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-27T16:53:07.000Z",
-     "seen": "2026-11-27T16:58:31.954Z"
+     "seen": "2026-11-27T16:58:31.954Z",
+     "impact": "يعطي المستثمرين في قطاع التكنولوجيا انطباعاً عن تأثير قيود التصدير على حركة سلاسل إمداد الرقائق عالمياً."
     },
     {
      "title": "اختراق أمنى خطير.. قراصنة يستهدفون منصة الحوسبة السحابية لسلاح الجو الأمريكى",
      "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNZFd2cTRROG9uQllNSW82NDBUYmtBZU1LVE5PaXdlZThkYzE4MEh5dnM2b202d1RaOW5nN3NrVmVVRlJucTM5b29SQjFHR29nbHRfcnlIV2xrSFFwZlJLOFRKV1k3YzRyUDV3SzF4Q1RIbkdCSHVNbldDbXE4TTUya3dOS1ZMNV9UUHBqdGY3QlRTeG1Yc1BhWXFnUS1zdy1VMEJuNmFBcmNhQ0N1d3lxbUNCR0gwT3lNUXNhdmZmZ2xoLS1wdEtDN1JnOFNQa0E5NngxdVROMTlLMmdpaFJUem0zMU9JeWlubWpxRklFQlhoYm95N2kzQWYyOWg5NHhfZm9fenA2TlZKRmJRaWFfRi1rZlNualdqR05EN0VlcnRsVnh6MmtIdUE3bkVSbERXYWJQVHZBdHpEWlF3UkZYUEVtRkhQVlNPZWFhenpfb3ZTSm5XcURQeUhPOWxCcmxjRENwRk5Kc0RvX3UtTHZPYmllUHZHVFB0d1dVZE9TZENzSnRoRXdYSHU3V0I4SlVIWnJteTV5RXdwTGtZY3doS0x0R1BLNVA4cEdaamlfbEZSUFNaaXhKV2FnMHM4cEp1UjFNclp4ejF5WnExTllDcDZ2ZlBzY3BXaDNFLWNlLWtoTmZycjNQbGUtQzBTNjM4N1JnQ09Eb0hQWlk4SVRESG00THBqXzEtc3l3dVdIUXh2OFpJb0lrVko1U2Vrc29ZOEhHSm45WdIBogRBVV95cUxOY0xGZXpicE5FQWNuSjFoU2hFUklVMmdydFpkWG5fWm9lWXlOZmdFNHMwVW9hVnlKaW5HejdqZ3lFemJZaXY2WC1Qelc2dGxWTHNZaVk3STdIcGRCajhHZGY1eEc2QWJsX0gxT1ltQ0t4V2V3T0NXMk1oaTJwd3p3VG54b0ZJMHk1VnpTSUJIQkdYWVVwYVNIamJncmM0cmRTSEVTR1dacGgtUE5wV1JQN2UtTmlXZEI5NnNLaWdYcXozM0Q3b2NvUXVYd0ItUXVWTzFwQXp0UGJxZXNjbmJOVnFBeXhOTWY5Q0V0em1leTFBdFNKUFZ6bWRRWXlsd1J3YjR0RUNwZXVGcm9sWmNXNWY2Sk9BNUxkMjZMYlZLWHVSMDJycWZWampDTkYtbkpEbzNUNDdaU1Q4R0Rrd2xfQ0pFUURDU196a1hoZlUzeXU2TjlWMmplNnA3SlFlMzRRRHNNaDhMWk9fQkVaRDRNVVBuTGNUaGo1LThoQzZLWXNzQTFyLUtlREFKbDdaWThXakhqOEYzSWE0dXNOeV9fUVlTOW93MU53SmlKUUswRTVqQTNDdGYtTlN3TWJKUVFnbmh0OEdhTVMyRlhjLUp0OTliUEF0elp2ZjhDV1hVXzF6bDM5SWg4NGViY0dvT0djZGhGOGs4VUZMLWN0ZWhNaDJCUWtuRDhjYkdJRWYwRkZOS1hoNGlfYUdiWV9QdzNNeXc?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-27T16:53:00.000Z",
-     "seen": "2026-11-27T19:48:32.229Z"
+     "seen": "2026-11-27T19:48:32.229Z",
+     "impact": "ينبه الأفراد ومؤسسات الأعمال في مصر إلى أهمية الاستثمار في الأمن السيبراني لحماية البيانات السحابية."
     },
     {
      "title": "عودة الشيخة حسينة المرتقبة تضع بنغلاديش على حافة الهاوية، وتحرج الهند",
@@ -549,18 +554,13 @@
      "title": "حمام بأدمغة شبه إلكترونية.. هل بدأ عصر الطيور المسيرة؟",
      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcHBubUpfR0MwMXh3MmZpeWJpRmE0V3VQbjQxTGoxZWxDTm5tX2FBdFNXejl0d3lUeFVfQlNCWkh6OS1FMmd6SDA1M1dPZHB3Tm9BTVp0UHRvemVnQTRhbDl2UTdpTUozaFJvQWpSV0NmN3RLV0g2QzZBdUtIQklCazJZdnlPbWZEV0c1aGhBaUJQZ0Y0T3o0S0J0SXlxY0FoaldtQ3ZUSldJZ1dpb1RSTmdfaHVvMDRObXZsRGM3XzJ0eFI1S0lHaWV2SnpnV3dYdjh5eGdCUXIzQXh0dkM5VEphc1lra1ZIQ0Q0d3BKQUdMVi1HWXF0c3JuMWFqM3pMaVkwUnhvR082bElOZG1Ob3hzSGd2eW1ET3pMdTNsZDJmMjNxTTlKT0kxelo1eDNwVXpVUXdpTnJWa2p2V3g0S1hmNTRwRFZUY1RNX2t5WFdzMjJqYVBhTXRGd1VFc1p6d0dBZDVwWTA0S2oxVXEzWnlDZzhqQXY5aVNIREg5dFdiSXhhcmQyZzRwUDl3Q0FLQ0pDaGtR0gGbA0FVX3lxTE1paUJDMHAwdmRvZkdWbG1xdFNndzg2Y3pHUXBTdXhaQXVncGtOYy1tOHRBTUJjTE01bEdUeTJ6N3NUTEQxdnhDMjV3dHdqbXNsTjk4VUpZd2JXdGk3bDlLcWphVnNTbVY5MVBhNEhaYU1pcmVnU3dnRGh2ZkxJZWJSS0lCWlFySWZVN2J1cWNuLWVuZnBPelVFZi1XYlNGR1FvNTc3Qm9MV1JITFVCN3N5aGlCd29vY0tybklLY0xMMjhBeXpMNHdMUHl1T29GcEprYlVReUxTZndKSWtoNWRWU2xVNVpxazVKTFdZa0hGZFFjMEdaeDRsenZianBRaHIwcGJGRHFQOUxmQ1ljOUNzb2tlWE5XbHdfQjN5RzdEZWIwdEwzWGQ5TmJIVEF0ZWpyRWV6djQ4eG9UVzQ3WmJDX19scG1YRU9HcXRLaWhfdkZhY2puMDJGZmN3S2M3c0ltSVFjOFVQQ2xxWUJpV0FkWFo1OExiX1NNQkFSRTl4QUFIUnZFcW1ZOFNkbVktQUhndlRlYVdPQ3duaw?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T08:36:27.000Z",
+     "time": "2026-11-27T08:28:52.000Z",
      "seen": "2026-11-27T09:36:06.178Z"
     }
    ]
   }
  ],
  "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "البوابة العربية للأخبار التقنية",
