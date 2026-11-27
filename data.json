@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:04:51.674Z",
+ "updated": "2026-11-27T04:14:52.208Z",
  "minute": [
   "شملت التطورات الاقتصادية في مصر بيع البنك المركزي وثائق خزانة بقيمة 425 مليار جنيه لمجموعة من البنوك، بالتوازي مع متابعة أسعار صرف الدولار أمام الجنيه.",
   "وعلى الصعيد المحلي، أُعلن عن فرض غرامات تصل إلى 100 ألف جنيه على أصحاب الأعمال لعدم التأمين على العمال، بينما تواصل النيابة كشف تفاصيل حادث حريق دائري الوراق بالجيزة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T04:04:51.674Z"
+  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T04:14:52.208Z"
  },
  "markets": [
   {
@@ -20,34 +20,34 @@
    "unit": "ج.م",
    "value": 54.77,
    "change": 0.11,
-   "asOf": "2026-11-27T03:49:26.000Z",
+   "asOf": "2026-11-27T04:05:54.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5636,
-   "change": 3.57,
-   "asOf": "2026-11-27T03:54:41.000Z",
+   "value": 5632,
+   "change": 3.5,
+   "asOf": "2026-11-27T04:05:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6435,
-   "change": 3.57,
-   "asOf": "2026-11-27T03:54:41.000Z",
+   "value": 6430,
+   "change": 3.5,
+   "asOf": "2026-11-27T04:05:49.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3658,
-   "change": 3.46,
-   "asOf": "2026-11-27T03:54:41.000Z",
+   "value": 3655,
+   "change": 3.38,
+   "asOf": "2026-11-27T04:05:49.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -65,16 +65,16 @@
    "unit": "$",
    "value": 1.0978,
    "change": 0.07,
-   "asOf": "2026-11-27T04:04:43.000Z",
+   "asOf": "2026-11-27T04:15:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.24,
-   "change": -2.51,
-   "asOf": "2026-11-27T03:54:02.000Z",
+   "value": 92.29,
+   "change": -2.45,
+   "asOf": "2026-11-27T04:04:02.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61301,
-   "change": 1.53,
-   "asOf": "2026-11-27T04:04:49.000Z",
+   "value": 61418,
+   "change": 1.72,
+   "asOf": "2026-11-27T04:15:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "%93 من القراء يؤيدون تكثيف الحملات الأمنية لضبط عصابات سرقة الهواتف المحمولة",
+     "url": "https://www.youm7.com/story/2026/11/27/93-من-القراء-يؤيدون-تكثيف-الحملات-الأمنية-لضبط-عصابات-سرقة/7633947",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T04:14:00.000Z",
+     "seen": "2026-11-27T04:14:52.208Z"
+    },
+    {
      "title": "دبلوماسي روسي يحذر: العالم يقترب من حرب نووية",
      "url": "https://www.elbalad.news/7196223",
      "source": "صدى البلد",
@@ -174,14 +181,6 @@
      "seen": "2026-11-27T04:04:51.674Z"
     },
     {
-     "title": "غرامة تصل إلى 100 ألف جنيه على صاحب العمل لعدم التأمين على العمال",
-     "url": "https://www.youm7.com/story/2026/11/27/غرامة-تصل-إلى-100-ألف-جنيه-على-صاحب-العمل-لعدم/7632881",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T03:30:00.000Z",
-     "seen": "2026-11-27T03:34:51.268Z",
-     "impact": "يهم أصحاب الأعمال والعمال في مصر لمعرفة الالتزامات المالية والتشريعية الخاصة بالتأمين الاجتماعي لتجنب الغرامات."
-    },
-    {
      "title": "طلب إحاطة لـ مدبولي و10 وزراء بشأن عدم تنفيذ توصيات إصلاح منظومة تداول المواد البترولية",
      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcktwM2ZZY0Z5eHdkRUdwd0ZmNHVQZjE0RXlUNHhiWGdqdVJNMVpDYXdCUFRfSFc1ZGVkd25FQjNEdHBrbHZZTGdPMmxjWF9vNDJPWFNyZ201aVk4TzNSNFk3NWJpUnFqWlRNTGltdkpzeTMzWm1MMkFMSW54dkkzbHFnVi0weDA0NUtUVHZGMVRGMXJJZlR3TTdrZXhOU2xqQWEwWU02cUNnU29HakxsUE1FVXlhRnlrU2xHQ1dveUxybGhYeVcxQUtUSnh2N2Z4WHBBbHVoUTNRM1RjTkRWTXhZRnVTTXgtTFNoXzdrWUxpNmxjc09wdkRvV3FWREU5YXRkX1dJSFAxek9QOVZ5RTNuaW9ocTZJcmx6RWNJck8tVVhTLUhSdzJOWFhkeHZYU2NTbVloQ0JleVlLWUU4?oc=5",
      "source": "قناة صدى البلد",
@@ -194,6 +193,13 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-26T20:37:02.000Z",
      "seen": "2026-11-27T03:54:51.500Z"
+    },
+    {
+     "title": "«الجو هيقلب».. الأرصاد تُعلن موعد تغير الطقس: انخفاض 6 درجات وأمطار",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nWmN6SVdQSFg5bldubXM1SnRUNXZmZ0lNZXU5T0hIYnhKdVZrREQ4bXhmR0llVmpyWDc3bVhDeUVpMEVsM3VrMXBrSnZ5Sl9sRnJQVzl2ZFp5bXhKaFNr?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-26T20:22:00.000Z",
+     "seen": "2026-11-27T04:14:52.208Z"
     },
     {
      "title": "مدبولي يوجه بصرف أكبر تعويضات ممكنة لأسر ضحايا حادث الوراق",
@@ -229,13 +235,6 @@
      "source": "جريدة المال",
      "time": "2026-11-26T18:04:43.000Z",
      "seen": "2026-11-26T18:14:32.385Z"
-    },
-    {
-     "title": "دعم مبدئي بأكثر من مليون دولار لضحايا حادث الدائري وحبس المتهم في الحادث",
-     "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQaU5TSlg3bExnNldUQ1NtQlEtdUdjRkdQSUxpbzdBREFZazZvQTVoZ1JJWmFMbi1mcENRbDBTYS1SbWhMVC1sQWtLdGhFMDZJb1lUbmphc0xjTUZHTHZYUE1XekVoT1E4dnFsT1FMN1VmTXN1WFFEUzBCN2dVbllIRFJSVEQzSk54Qlh0YmdYd2t4ZE5LeEJCX0lIay1VNWVSOV9JbU1EdkVkYklmYmpyZzJfZUdXbkxKMDNhc2RKSjU4WmpsOVJUaGxPV2pGcDA4YnAxNjZxcVM3Z0dyRjhLZzZtSHRoZWcwV3oxZVBwdEZ5ZjNGUTN1NVVtZW5DMkRYMWUtRS1wZW5zUDlmWjBxdnA2MVRqNlZwX2dyZkREQ3BYdUo5WW1wQWdOeVNmMGdidHFwTkM3bGZSSFVTTDRRODAtdU9QY3R5N1U4V0FFRkczbUpzd3hyMWR2UW1RU2dqaHc5SjR6SFludVRUMHdKeGtwRW1iY3NPVGxyNnB4ZkJ4YnRvbjFvY2twWS1MbmhJNjFMMUx3Q2hybjgyTlc2QzZzVURLNk9GVXUwQi1yT1QxY0pFNjZnSnZuTWRFcDg2WmNJMTd2Q3ZBYzJRWV9taEwxR2NFTGhxUGlueUh0Vi1PNnpxZGZTM3RIbEhxQ3p4RE1HY2szeTB3TDBnTjBaYkEtM3dVdjhZR2twRS0xbTZ6Tk5ZamJ1VVpNbHFkV3BxN1Rya3p2VVloWVYzbTJ2dGNEc1F4VWhKX25JVEstdExnVC1QSTh5dDJ3c3ZUMHRuY3NacU1YcFN2d9IB3wRBVV95cUxNdDZPMldVejYtdzY0ZjJOWGYyUWY2QU0zY3l2bkp5OEtqRDNRUFY0TlIySF83MEM1THRTMnkyVU1Oa0loSjd4dVhiNHhQT0pOeUNpeXowQ0wwVFV6M2h0VzNBMUJLU3lPaWZTSHR1NVFaRmFsY3RmRHdFVFRoVDNWb09KVmZ2NENYUzJjZ25LWEpwSUliU2pLX0h4R0Njc2YySHlEWHcxZTgyNkNjb2xGcE80ZkV5ZkItTVRYbFhIbUl3cUxZZGx6eDc4NzVfYVQwSGJmeEh5aUN0X2toamdmVTVEVkxCUWM0NWZDNmtEa0lKNmlqSzJIQ0NuR0dUZ2hWbUZ1YlNubkZKSjhXWS1qRGppYS1XNDlOTEo1RFMwNU5PazZnUVg5SWpLXzFaWmV0aGJ2RUQyQnhhTkhOdFhLdnZWclRtVl9ybGN6R3dxRXhibHlHTU9BOV9rWk9NeTRhZHdud3BJdUFXMHZfR1dPMG5ienk5MGw3M0d3bWtId1ZpZUV4TTZ0MC1UMFB0Wi1UOEQtMTlYLXJNaFpSUVk0VGFiZjVkVmZFcVdJZXZtcmhYRldHM3JyUENfMURsMUhteVlORXVTSFlpdVE3VUViSGJaRDVDZ0RycHhOM2luRFk3VmJwdzI0RTJCcnlnNFlDeGtKS182UmRfSnIyLUlsbUc4bk5XbzhZUzlFYW1kU1l2V1dmNWVITVJtUXpXVXF4ZFZBRVBlS3Mzd2ltOHktM09xSUoxYXdKWnp6TjVRSy1YdXFVU1RNalVEYndsWmgyYWVXU0xXZXQ0LVhzdm1j?oc=5",
-     "source": "العربية",
-     "time": "2026-11-26T17:48:00.000Z",
-     "seen": "2026-11-27T00:14:51.850Z"
     }
    ]
   },
@@ -382,6 +381,13 @@
      "seen": "2026-11-27T02:54:52.239Z"
     },
     {
+     "title": "زيلينسكي لـ \"بي بي سي\": الولايات المتحدة تركز على الشرق الأوسط أكثر من اللازم",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81WHFMOVE4WVZaVm9CZi0tNS1RMm1RQUdFSUdFN2ZjT0dsZGk4dUptR1FCY2tOaTYzR1YyMmlpbFg4S0J3SHNqQjRwUFZYUnYwTEV4ZVFMNU13Y2QwZVHSAWNBVV95cUxQSVZGTG11V0xydVk1R3Zra2pMSmNTVU9yYWQ5ZDBvZld6alo5d2ExSmQ3c1RZTUo2dzZUYVNGclJUTzBOVlpUaGVlUGcyeFNubi1yQm82ZXExbWMwa0xBczVlMjg?oc=5",
+     "source": "BBC",
+     "time": "2026-11-27T01:34:53.000Z",
+     "seen": "2026-11-27T04:14:52.208Z"
+    },
+    {
      "title": "القضاء الفرنسي يؤكد إحالة الممثل جيرار دوبارديو للمحاكمة بتهمة الاغتصاب",
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261127-%D8%AC%D9%8A%D8%B1%D8%A7%D8%B1-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8",
      "source": "فرانس 24",
@@ -429,13 +435,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-26T22:19:54.000Z",
      "seen": "2026-11-27T02:04:52.081Z"
-    },
-    {
-     "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-26T22:09:00.000Z",
-     "seen": "2026-11-26T06:03:31.861Z"
     },
     {
      "title": "ألمانيا: محكمة ترفض منع أم منقبة من دخول مدرسة .. والولاية تحظر تغطية الوجه في الفصول",
@@ -560,17 +559,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
