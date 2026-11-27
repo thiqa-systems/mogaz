@@ -1,18 +1,15 @@
 {
- "updated": "2026-11-27T14:27:32.122Z",
+ "updated": "2026-11-27T14:37:31.824Z",
  "minute": [
-  "تتناول الأخبار متابعة مستجدات أسعار صرف الدولار واليورو أمام الجنيه المصري في البنوك المحلية.",
-  "وعلى الصعيد الدولي، حذرت الأمم المتحدة من تفاقم المجاعة عالمياً جراء النزاعات وتغيرات المناخ.",
-  "شهد قطاع التكنولوجيا إطلاق تطبيقات جديدة لوكلاء الذكاء الاصطناعي وتنظيم الهوية الرقمية.",
-  "كما تناولت التقارير مواقف سياسية وأمنية متنوعة في المنطقة والعالم."
+  "أعلنت سكك حديد مصر عن فتح باب التعيينات لوظائف هندسية وقيادية، في حين تابعت الجهات المعنية الإجراءات والدعم لضحايا حادثي حريق الوراق والطريق الدائري.",
+  "وعلى الصعيد الاقتصادي، سجل سعر شراء الدولار 54.85 جنيه في بنك أبو ظبي الإسلامي، بينما ناقش وزير الزراعة آليات ضبط سوق الدواجن ودعم صغار المربين.",
+  "عالمياً، سجل الاقتصاد الفرنسي انكماشاً بنسبة 0.2% في الربع الثالث، وتواصلت التطورات التكنولوجية المتصلة بتقنيات وتنظيمات الذكاء الاصطناعي."
  ],
  "ai": {
-  "at": "2026-11-27T14:07:31.813Z",
+  "at": "2026-11-27T14:37:31.824Z",
   "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: The operation was aborted due to timeout; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T14:27:32.122Z"
+  "key": 2,
+  "impacts": 8
  },
  "markets": [
   {
@@ -21,16 +18,16 @@
    "unit": "ج.م",
    "value": 54.77,
    "change": 0.11,
-   "asOf": "2026-11-27T14:29:07.000Z",
+   "asOf": "2026-11-27T14:37:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5647,
+   "value": 5648,
    "change": 3.78,
-   "asOf": "2026-11-27T14:19:35.000Z",
+   "asOf": "2026-11-27T14:28:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -39,7 +36,7 @@
    "unit": "ج.م/جرام",
    "value": 6448,
    "change": 3.78,
-   "asOf": "2026-11-27T14:19:35.000Z",
+   "asOf": "2026-11-27T14:28:09.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -47,8 +44,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3665,
-   "change": 3.66,
-   "asOf": "2026-11-27T14:19:35.000Z",
+   "change": 3.67,
+   "asOf": "2026-11-27T14:28:09.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -64,36 +61,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0949,
-   "change": -0.19,
-   "asOf": "2026-11-27T14:28:46.000Z",
+   "value": 1.0953,
+   "change": -0.16,
+   "asOf": "2026-11-27T14:37:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.49,
-   "change": -3.3,
-   "asOf": "2026-11-27T14:19:10.000Z",
+   "value": 91.3,
+   "change": -3.5,
+   "asOf": "2026-11-27T14:28:09.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7183,
-   "change": -0.25,
-   "asOf": "2026-11-25T21:32:06.000Z",
+   "value": 7243,
+   "change": 0.84,
+   "asOf": "2026-11-27T14:38:03.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61353,
-   "change": 1.42,
-   "asOf": "2026-11-27T14:29:29.000Z",
+   "value": 60481,
+   "change": -0.02,
+   "asOf": "2026-11-27T14:38:06.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -140,39 +137,42 @@
    "title": "مصر",
    "items": [
     {
-     "title": "عمر جابر: الزمالك استعد جيدًا لمواجهة الإفريقي ونسعى للفوز لإسعاد الجماهير",
-     "url": "https://www.elbalad.news/7196662",
+     "title": "ليلة العمى.. تحقيق إسرائيلي يكشف كيف فشلت أجهزة الاستخبارات في رصد هجوم 7 أكتوبر",
+     "url": "https://www.elbalad.news/7196673",
      "source": "صدى البلد",
-     "time": "2026-11-27T14:26:45.000Z",
-     "seen": "2026-11-27T14:27:32.122Z"
+     "time": "2026-11-27T14:37:00.000Z",
+     "seen": "2026-11-27T14:37:31.824Z"
     },
     {
-     "title": "محمد بركات لـ لاعب الأهلي : أنت اللى وصلت جمهور النادي يشتمك",
-     "url": "https://www.elbalad.news/7196640",
+     "title": "الرقابة الإدارية: المؤبد لمسؤول بأحد البنوك استولى على 11مليون جنيه",
+     "url": "https://www.elbalad.news/7196675",
      "source": "صدى البلد",
-     "time": "2026-11-27T14:25:15.000Z",
-     "seen": "2026-11-27T14:27:32.122Z"
+     "time": "2026-11-27T14:36:26.000Z",
+     "seen": "2026-11-27T14:37:31.824Z",
+     "impact": "يعكس إجراءات حماية القطاع المصرفي وأموال المودعين وتعزيز الرقابة المالية."
     },
     {
-     "title": "سقط من علو.. إصابة عامل داخل مزرعة بإحدى قرى الدقهلية",
-     "url": "https://www.elbalad.news/7196635",
+     "title": "مدرب إسباني جديد يدخل حسابات الأهلي لخلافة عموتة.. خاص",
+     "url": "https://www.elbalad.news/7196676",
      "source": "صدى البلد",
-     "time": "2026-11-27T14:23:45.000Z",
-     "seen": "2026-11-27T14:27:32.122Z"
+     "time": "2026-11-27T14:36:26.000Z",
+     "seen": "2026-11-27T14:37:31.824Z"
     },
     {
      "title": "سكك حديد مصر تعلن حاجتها لتعيين 162 مهندسًا ثالثًا و593 مساعد قائد قطار ممتاز ثالث",
      "url": "https://www.youm7.com/story/2026/11/27/سكك-حديد-مصر-تعلن-حاجتها-لتعيين-162-مهندسًا-ثالثًا-و593/7634582",
      "source": "اليوم السابع",
      "time": "2026-11-27T14:14:00.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
+     "seen": "2026-11-27T14:17:31.843Z",
+     "impact": "يوفر فرص عمل حكومية جديدة للمهندسين ومساعدي قادة القطارات في مصر."
     },
     {
      "title": "وزارة الصحة تعلن الانتهاء من تحديد هوية 27 من ضحايا حادث حريق الوراق",
      "url": "https://www.youm7.com/story/2026/11/27/وزارة-الصحة-تعلن-الانتهاء-من-تحديد-هوية-27-من-ضحايا/7634568",
      "source": "اليوم السابع",
      "time": "2026-11-27T14:06:00.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
+     "seen": "2026-11-27T14:17:31.843Z",
+     "impact": "يهم المواطنين والمتابعين للتعرف على مستجدات رعاية وضبط بيانات ضحايا الحوادث المحلية."
     },
     {
      "title": "مجلس وزراء الداخلية العرب يشيد بالحماية المدنية المصرية في إنقاذ مصابي حادث الوراق",
@@ -250,7 +250,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T14:00:00.000Z",
      "seen": "2026-11-27T14:07:31.813Z",
-     "impact": "يساعد المستثمرين والأفراد في مصر على تقييم أعلى عائد متاح عند بيع الدولار للبنوك."
+     "impact": "يفيد المستوردين والأفراد المتابعين لأسعار الصرف لمعرفة أعلى سعر لشراء الدولار بالبنوك."
     },
     {
      "title": "ترامب يدعم إجراءات الزيدي لمكافحة تهريب النفط وسط تصاعد الخلاف بين بغداد وأربيل",
@@ -264,21 +264,24 @@
      "url": "https://alborsaanews.com/2026/11/27/2009421",
      "source": "البورصة",
      "time": "2026-11-27T13:32:01.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
+     "seen": "2026-11-27T14:17:31.843Z",
+     "impact": "يعطي المستثمرين فكرة عن اتجاهات النمو الاقتصادي في الشركاء التجاريين الدوليين مثل فرنسا."
     },
     {
      "title": "وزير الزراعة يبحث مع اتحاد منتجي الدواجن آليات ضبط السوق ودعم صغار المربين",
      "url": "https://alborsaanews.com/2026/11/27/2009418",
      "source": "البورصة",
      "time": "2026-11-27T13:29:57.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
+     "seen": "2026-11-27T14:17:31.843Z",
+     "impact": "يمس المستهلكين وصغار المربين في مصر لما له من تأثير مباشر على استقرار أسعار الدواجن."
     },
     {
      "title": "مجلس الوزراء: 25 مليون جنيه تبرعًا جديدًا لمساندة أسر ضحايا ومصابي حادث الدائري",
      "url": "https://alborsaanews.com/2026/11/27/2009416",
      "source": "البورصة",
      "time": "2026-11-27T13:28:11.000Z",
-     "seen": "2026-11-27T14:17:31.843Z"
+     "seen": "2026-11-27T14:17:31.843Z",
+     "impact": "يوضح تفاصيل مساندة الدولة والدعم المالي الموجه لأسر المتضررين من حوادث الطرق."
     },
     {
      "title": "السعر الرسمي للدولار اليوم الجمعة 27 نوفمبر 2026 في مصر",
@@ -311,6 +314,13 @@
      "seen": "2026-11-27T12:57:31.922Z"
     },
     {
+     "title": "أسعار الذهب في مصر اليوم الجمعة 27-11-2026",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdE1abm1MNUljcDBrbWI4NENPVFh4NC1oT21WYmFZazVhSmRGRlp2SGlrajNKcms4bVhydWpuWkZ1bGpDZEk3Ul80VVljUFByQ1VVaFltQlFqcmg5aHFxSFZfNDdhZTFUaE9NSjVGUGxsMGJUNHhZTzBnMWpJN2pRLWpFdFdqWlg5dkdNTHNQX1JsUUpyaHdyWkk4RWhER2h0NDEySGhnaWVWWG5PWTQ2YmZQYUFHUFZhdzJQU3dNNEF2a0IzLXFpbHROTkFkd3FOb3Z0N2NWMFZlNXpLVEZkNEZhNVdYeFpfdmxmWlZ1Mm1hSDNtYW9jY3lhUUl2bHhUajlxdjczOVpiVEcteU5SclJWNVNFSGExV0RoTnJxbHNVVnZNelJLWHlDMDdNejVGVGJMbHkySFFMRkNEeG1lOdIBuwJBVV95cUxOanpyS2p6SkhxbmUtUkdJY2lPZ0FZZDduTUhmTUR5WVNqeUx3d2E1Y2E1ZmFVN29xeV9RRXhXN3RNTzlYSTJKOTRkSHFzX3JjV2JaRFRCZHZ6UmNLRkFfRVU2V29DdzMwNklzVF9VRjd1Y0FkdlJ2ZFlqVUlndUE1T2wyUlM0N0hkbWdvREVaZjM2TEJ0Y3pfelV3Tlc3NHphRE5nclNEdGNOSWlkTUVKem1tVTFsZEpjbU9XcVEyWjdudGdoMmVPOTJfVEdibmttR1NNRTJiam94WHVscF9hSzVncjF1dVR6VTlubWttSjVmazRSYzEzWnBaVkY2TXRWenN6X1N4TG9iaUdCckFpakpxelhEMUVTSzk5Z24yaFBLT0dXNW84S3NEdXlRQ2taNm05QVhENldmMjA?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T12:49:00.000Z",
+     "seen": "2026-11-27T14:37:31.824Z"
+    },
+    {
      "title": "سعر الدولار مقابل الجنيه اليوم الجمعة 27 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1sRzZoRzdqSkJ2ZE5PTEtBUEt2bkZod0YtXy1uMXZXQWQ0N0dhUjA4a1lRQkp6NHU3Qjg2OGxidUwtLVFf?oc=5",
      "source": "جريدة الدستور",
@@ -335,14 +345,6 @@
      "impact": "يهتم به المستهلكون والمستثمرون في مصر لمتابعة مستويات سعر الدولار عقب التغيرات الأخيرة."
     },
     {
-     "title": "5 آلاف دولار تكلفك 274 ألفا و750 جنيها.. اعرف أقل تكلفة للشراء من البنوك",
-     "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQb0dCZUtIcE82UGQ0RHB3SWJsY2JyZjhBV1h5RTBOajhtRzRSVlFwY2w1c2FQYldhcDJTRWNNa1M1OWk0bXdxcUc3OWZfdHV0U0N4QUNxNFNjdjZUOWIyaThWZ0l3dXRSN2xwLW5qM1VtVldBRTg0OUw4Mmt0SThpcy1KczhObjd2SmkwR3luMTIxdWdSLTFXM2JsT21KZ0xTMEVCTklnMWtvV2U0a2l1ZENsLXVsNHB5ZlFNbDdHNFRqUlVzcWNYbVQ3dWsyblRJVmlMNS05YUJlV2FCNV8tSm9ZYl9sWnZqUWpRem1QanBRR0twdWRnMWpFVjlwRnFIUzV1M2c0amJxVHgxTWt4Z25DWUlucUh5cVFoZm5LbDd0bGlteDVzemFmRDVzZE1NR3I1dmlqUW14SGNQWmxKeEdicTU4UWZ3X1lRZ0hnX0VJRHJpaVpVMVc2ZUdaOHVIRDhWcjNMTWrSAeMCQVVfeXFMUGJVeGVqRGgycUFwTzYwTGdMX3JoWnc2OHJMbkNxazMwVmdQQkxHQXBEbS1vWXV3WTBQQVA4R1BBNnhOZEkzaUFUVm5jdldvMWhldWxWVG03LWVoMS1UNDVyRUV0VGxFN09wdlpjanU4Y1hFMWU0LUNVeloxR25ubHEwWXdmWk52bEJLTnVFUFJnTllNNFY0Vm9fdFR1SDVLTWNWYllPQjV3Z3ZXcGptZGpUbFRyLVg4ak1aSWE2aVpmZG8zazkxc29LN0VLZFYydEI4M0czZGx4SG1pQXBnSHprV29SVS05d0dzTFVQQ0gySlJGandnRFdFN2tSampMZXN3Z2hzOHFUdk03d0hXdjQ1eDM2YzZCV0VVUFlmLTg3THE3dk5XS0YxdUctdllETk1iWFpIbVJrc192d2pVc1QtYmd5NHN2QWpEQjF6QzY5dUZZMmJjYXBKaUVPSXlRNC1KRQ?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T12:03:05.000Z",
-     "seen": "2026-11-27T12:07:32.069Z",
-     "impact": "تساعد معرفة أقل تكلفة لشراء الدولار من البنوك في تدبير النقد الأجنبي بأقل مصاريف ممكنة."
-    },
-    {
      "title": "إيران تنفي مسؤوليتها عن مقتل إيطاليَيْن في هجوم بالكويت",
      "url": "https://www.bbc.com/arabic/articles/c32l57epjy74o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -355,6 +357,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "هجومُ إيران لفكّ الحصار!",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONFVjSDdOSmFRWmJHR1VMR0NpZnUyd2Nvb2pBM0lIZG80Z3FIYmhXb0k0TEtyMTNnRF9kbDBHSTNYekFKQU9acWNkUUVTMXZHNGxPNFRyNjRUT0ZDeEx0SFlFWldQVmx1NnNkWm1UTnhqMjdfRHlvOUZSdU14Q2ZDNHMtLU5EZmJDTFlCM1RHM3MxYnhzM3NzOUtSclh5cjhIYVdUeF9NZldJMzREeXVLdFlwWkQyTTdocmlpM3Ewc0JEamVYVHVabE96eU5naERQU2V6Y3drZXFiQ01SUlE2ZjVzdHdLRzI1eTIxNDJaUGdiTlRjQkpmdE9LQUFOVk1oeU9XcTJFZWUwQ19NeGc?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-27T14:27:31.000Z",
+     "seen": "2026-11-27T08:16:05.475Z"
+    },
     {
      "title": "الذكاء الاصطناعي يجاري الكاتب الروسي غوغول ويكتب الجزء الثاني من \"النقوس الميتة\"",
      "url": "https://www.dw.com/ar/الذكاء-الاصطناعي-يجاري-الكاتب-الروسي-غوغول-ويكتب-الجزء-الثاني-من-النقوس-الميتة/a-80077320?maca=ara-rss-ar-all-1125-rdf",
@@ -399,6 +408,13 @@
      "seen": "2026-11-27T13:47:32.110Z"
     },
     {
+     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-27T13:22:00.000Z",
+     "seen": "2026-11-27T14:37:31.824Z"
+    },
+    {
      "title": "جدل وانتقادات لحظر المصطلحات الجندرية في وزارة الخارجية الألمانية ومعهد غوته واتهام \"بتراجع ثقافي\"",
      "url": "https://www.dw.com/ar/جدل-وانتقادات-لحظر-المصطلحات-الجندرية-في-وزارة-الخارجية-الألمانية-ومعهد-غوته-واتهام-بتراجع-ثقافي/a-80075149?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
@@ -439,20 +455,6 @@
      "source": "BBC",
      "time": "2026-11-27T11:44:53.000Z",
      "seen": "2026-11-27T12:07:32.069Z"
-    },
-    {
-     "title": "كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FZG1SOVc4c1dJcGhobldVaWtHellFV0Y2RzM1WTBmZ2RkSFJGZ2Q0S2tXOWNTRFhkR1NoM2FuSURFdFJqdUpEZEdnNWNDdnlHZHZqeUlVVWRTeTQwYnfSAWNBVV95cUxOTVplS1RscHJKbWJzWEVZU2J3eFRKZ3F1bV9KdC1HNTNNMnBKOW5Cbmh5X0hPaXktNTBaNzBQN1AzX1NQNWdXdXNHenU0S1hocHRjdjdUc3BKb3NCYXFsVnJ0VE0?oc=5",
-     "source": "BBC",
-     "time": "2026-11-27T11:26:15.000Z",
-     "seen": "2026-11-27T13:47:32.110Z"
-    },
-    {
-     "title": "هجومُ إيران لفكّ الحصار!",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONFVjSDdOSmFRWmJHR1VMR0NpZnUyd2Nvb2pBM0lIZG80Z3FIYmhXb0k0TEtyMTNnRF9kbDBHSTNYekFKQU9acWNkUUVTMXZHNGxPNFRyNjRUT0ZDeEx0SFlFWldQVmx1NnNkWm1UTnhqMjdfRHlvOUZSdU14Q2ZDNHMtLU5EZmJDTFlCM1RHM3MxYnhzM3NzOUtSclh5cjhIYVdUeF9NZldJMzREeXVLdFlwWkQyTTdocmlpM3Ewc0JEamVYVHVabE96eU5naERQU2V6Y3drZXFiQ01SUlE2ZjVzdHdLRzI1eTIxNDJaUGdiTlRjQkpmdE9LQUFOVk1oeU9XcTJFZWUwQ19NeGc?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-27T11:08:50.000Z",
-     "seen": "2026-11-27T08:16:05.475Z"
     }
    ]
   },
@@ -474,7 +476,7 @@
      "source": "البوابة العربية للأخبار التقنية",
      "time": "2026-11-27T13:17:49.000Z",
      "seen": "2026-11-27T13:27:32.238Z",
-     "impact": "يعطي المهتمين بالتجارة الإلكترونية فكرة عن التطورات المستقبلية في وسائل الدفع والتسوق الذكي."
+     "impact": "يطلع المهتمين بالتكنولوجيا والمستثمرين على التطورات الحديثة في وسائل الدفع والتسوق الذكي."
     },
     {
      "title": "وكيل ذكاء اصطناعي يشتري البيتزا بالدفع المباشر من حساب مصرفي في بريطانيا",
@@ -569,6 +571,17 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "The operation was aborted due to timeout"
+  },
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "The operation was aborted due to timeout"
+  }
+ ],
  "marketErrors": []
 }
