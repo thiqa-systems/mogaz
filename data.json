@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:38:31.585Z",
+ "updated": "2026-11-27T15:48:32.211Z",
  "minute": [
   "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
   "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
@@ -9,7 +9,9 @@
   "at": "2026-11-27T15:28:31.983Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 10
+  "impacts": 10,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T15:48:32.211Z"
  },
  "markets": [
   {
@@ -25,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5633,
-   "change": 3.51,
-   "asOf": "2026-11-27T15:28:31.000Z",
+   "value": 5639,
+   "change": 3.63,
+   "asOf": "2026-11-27T15:39:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6431,
-   "change": 3.51,
-   "asOf": "2026-11-27T15:28:31.000Z",
+   "value": 6438,
+   "change": 3.63,
+   "asOf": "2026-11-27T15:39:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3656,
-   "change": 3.39,
-   "asOf": "2026-11-27T15:28:31.000Z",
+   "value": 3660,
+   "change": 3.51,
+   "asOf": "2026-11-27T15:39:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0943,
-   "change": -0.25,
-   "asOf": "2026-11-27T15:37:43.000Z",
+   "value": 1.0937,
+   "change": -0.3,
+   "asOf": "2026-11-27T15:48:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.22,
-   "change": -3.58,
-   "asOf": "2026-11-27T15:28:24.000Z",
+   "value": 91.1,
+   "change": -3.71,
+   "asOf": "2026-11-27T15:39:04.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7268,
-   "change": 1.19,
-   "asOf": "2026-11-27T15:38:33.000Z",
+   "value": 7273,
+   "change": 1.26,
+   "asOf": "2026-11-27T15:49:36.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60078,
-   "change": -0.69,
-   "asOf": "2026-11-27T15:38:28.000Z",
+   "value": 59964,
+   "change": -0.88,
+   "asOf": "2026-11-27T15:49:31.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,25 +139,32 @@
    "title": "مصر",
    "items": [
     {
-     "title": "الأرصاد تحذر من تقلبات جوية بداية الأسبوع.. أمطار ورياح وانخفاض جديد في درجات الحرارة",
-     "url": "https://www.elbalad.news/7196723",
+     "title": "عصام محمود يتولى تدريب حراس مرمى الأهلي ضمن جهاز سامي قمصان",
+     "url": "https://www.elbalad.news/7196739",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:37:45.000Z",
-     "seen": "2026-11-27T15:38:31.585Z"
+     "time": "2026-11-27T15:46:49.000Z",
+     "seen": "2026-11-27T15:48:32.211Z"
     },
     {
-     "title": "روسيا تفرض حظرا لمدة 6 أشهر على صادرات الحنطة السوداء بسبب تراجع المحصول والمخزون",
-     "url": "https://www.elbalad.news/7196732",
+     "title": "كأس الكونفدرالية.. المؤتمر الصحفي لمباراة الأهلي و«أول أغسطس»",
+     "url": "https://www.elbalad.news/7196737",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:37:28.000Z",
-     "seen": "2026-11-27T15:38:31.585Z"
+     "time": "2026-11-27T15:45:51.000Z",
+     "seen": "2026-11-27T15:48:32.211Z"
     },
     {
-     "title": "محمد صلاح يتصدر قائمة الأكثر مساهمة تهديفية في دوري المؤتمر الأوروبي هذا الموسم",
-     "url": "https://www.elbalad.news/7196733",
+     "title": "مشهد يهز القلوب.. مسلمون ومسيحيون يودعون كيرلس ضحية حريق الوراق بـ طنط الجزيرة",
+     "url": "https://www.elbalad.news/7196716",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:36:55.000Z",
-     "seen": "2026-11-27T15:38:31.585Z"
+     "time": "2026-11-27T15:44:35.000Z",
+     "seen": "2026-11-27T15:48:32.211Z"
+    },
+    {
+     "title": "التأمين الصحي: السيطرة على حريق محدود بدراجة بخارية داخل جراج مستشفى النيل",
+     "url": "https://www.youm7.com/story/2026/11/27/التأمين-الصحي-السيطرة-على-حريق-محدود-بدراجة-بخارية-داخل-جراج/7634640",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:44:00.000Z",
+     "seen": "2026-11-27T15:48:32.211Z"
     },
     {
      "title": "النيابة الإدارية تشرف على عمومية نادي 6 أكتوبر إلكترونيا بمشاركة 50 ألف عضو",
@@ -173,18 +182,18 @@
      "seen": "2026-11-27T15:17:31.337Z"
     },
     {
-     "title": "الكويت تستدعي سفير إيران وتسلمه مذكرة احتجاج على استمرار الاعتداءات",
-     "url": "https://www.youm7.com/story/2026/11/27/الكويت-تستدعي-سفير-إيران-وتسلمه-مذكرة-احتجاج-على-استمرار-الاعتداءات/7634609",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T15:09:00.000Z",
-     "seen": "2026-11-27T15:17:31.337Z"
-    },
-    {
      "title": "التموين في أسبوع.. استقرار الأسواق وضبط آليات الرقابة الأبرز",
      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPUDkwYmNPTVpqaHh5b1lURHNhU3RlX1BBOU9WX1VDV0V0ZUVuN2xEQ1FfZFhicUlfNGVqYWhnWnNVdkw5ZkVfVE1Wc0xWVEoyR2UyQzg0SWxneHVFQ2ZzUlBWb1ctelFIX2pwRE8tbkxrNk52ZGQ3MExxdmVZVWJraW1qUzE5Q3F2T1dpYzJSTVdpQ2pERHNoYUYzTS1uT2pZWFo3NEl5ZzhKemJaYk5peUtnR05vTGtKYmN3SEFUSkRQaVBlUzhtak5CMjJhTjRlNUY2NHpVZTBWNHJ1N1pRRVZ1OVgtQlVfcDlKSmJNLWpkTmkxdEt3T1lRTVhfdGFuSy1LM3Y1NjNLSGhwcFk5V2Y3SE1maTdpcEI3azBuOEEwY3JYRDVOWC12Nm9IMEg3aW9EWEttR1FNUTczSTFrZ1ZvOXhVVzNtWDBkN3BYNUlqa3pSMGNUYUt3OU1IcnRDaFBtMDdVMFR3bXJLMUtYR3JtY1hkQVF1MzhtalBSUQ?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-27T13:10:17.000Z",
      "seen": "2026-11-27T15:28:31.983Z"
+    },
+    {
+     "title": "الصور الأولى من داخل عقار الفلكي المائل بالإسكندرية تظهر تصدع الحوائط بـ 3 طوابق",
+     "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxPMmZGNXUteGZPMThpdWVwZzJ3cVFRQkZfYnhpYkhlOEFILUVpcFlrazhTQzNJUl9TUVpNTGk4YlJaTXNxbzhodmlVc1JDdEs1RG1iWlJxclc0UUlBVDdscC02TmxkM1dMMzdIMGFfQmtpaU1IQkZocXRfS1F3ZVhCR0pUTFp3QzhsQy1oakRIaE1zaVJOX2IyWGk1aENGQnFudk9BN1Mxc3JOMXk5S2Y2WmZpTU5HWTRpUVpsb0NYQnllbWFGeGkxelpWZlVYQ2d6XzNJZzg4dzlyVGxZM2o4VzRkV0NUYjhacFFzbnRjYlJpNV9oWEtPeTdMb3NkVnJ0alJ1dUhNQnZYell3Q1hEWndYZktvMGlELWhFVHhFbTBjbWFscERmVkNORXE5cVZGckZLWUg5MWZLRmJYUm5tbUQyTElZcndfUlFRR2c0cV92SUpuS0Zuanpya1N3SGtqaU9SU3VEdkNHcmw1bEgyOFlvTTBqNjd3YjJVd1UzTUZsQ2dERDhMdy1sWDFYNW5IczFiZDZCZGJWR2haUklNeWlsQWEzQU9UWUhWR1R2XzJUVktZaFllcHU1SlhDNWFiM0J6MGp2aTQ3XzZzNzJVakZWWDBDRHNBcXRSRmN6X1VGWDdiMU1FQkRVLWlvRUFROXV0SktRdVAtbnpadHBOR1cxb0hMUEN1dWdtMHdfZEs3NHdKbWhob3B5ajROcS1WRUdmT25KaG5PV2NkTWlEZm8yNi1reElFcDRJczZZMXpIMVdZNGl3c2ZkMXNweDZLYVpPbTA4MER0VkxIMDF4cHJQaXh5ZWlYczMyRFJWQTh1eWxOUWJWM0FqZFUtQ1p5anJzbnBiblRxM1NacEhORlpKcXpGMk5Xb3Jr0gGgBUFVX3lxTE9zaXl2c2dDLVJJWG1yRE9rdUdjSE55dVN4Tmp4UUtFaGNNaXFjM2xaX2prRWk1cEdidzk2RUhuRDBBaDBYMEdlS25pTmNWcEJLNFM3ZUZhLXlpVVZMVFl2SnYxVDlEMGc5LUtYOFpnQWFwMEJnRktKenliV2pDeWtnUFV0bTRZLTRaNnJ2Vk5sdmRWU1N3eDAwTUpabFVhZlBqaU5sNE5rYXl6ZnFnZWFibzl0c1AzVGExN0JwWlc3WkppeDZsRm51N05hcG5QZWxIa0Y3SkUyWV8tc0NsWnZmQVZqdVl3OXc5VV9vRUFvYl9WQzBsVEw1ZE9TTG05TVY3V3A1VFY0bHhkNm1ueVBfT3FLU3FWRWx4VzRFaUVtX1ctOHJzZC1fNkVlZXkzb215cWJsT1Mtanpsc2JySXNCZ2JPaE1KNV84TjZTNlRpZ3hjVjY3TzlGQUdKYzBBbTF5OGZQelQwZFBzVU5LVThiaU84dlZUU1g1cXgwUl95U2pzT1I0NUFKY2RjU24zUjRjOUl2WHpOOWJMTUYwS1RmYnNJNk9uNkRDNVZheDhWTmZYTG4xWVdsWjV5bHY3ODR4S1dpaUtWdkpuejA3LTNqQ0FtLXEtUDR5V2hGYjR5RlZWbWh0TXhsYkQyVWg3R01wSmRyUy1HS2pCOUNVUkpRQ1U2R0RsdGhKRTVBaWlqN04xdXJUaDZlZDhrdDd3bTZhbjcxT0VndkdKblhQSEUyTVJjcUVyYXpmTVBDbC16Q0ljU0JmeTRxX2NHbEVQal9jNFRtUlFFSG1STlZQUnJtR2NVcU5mWXFNbGNjc1Y2N3Q0NzdCS3NyR2FUb2IyWGZmay1aT3A4ZXNMS3gzLU1yM0V2aHBQSkVtTjhXVnB3QQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-27T11:50:08.000Z",
+     "seen": "2026-11-27T15:48:32.211Z"
     },
     {
      "title": "«فلوس التبرعات هتروح فين».. مجلس الوزراء يكشف مصير أموال دعم ضحايا حادث الطريق الدائري",
@@ -228,13 +237,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-27T09:33:00.000Z",
      "seen": "2026-11-27T11:27:31.737Z"
-    },
-    {
-     "title": "الحكومة: 25 مليون جنيه تبرعًا جديدًا لمساندة أسر ضحايا ومصابي حادث الوراق",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hWllySlM1aWZ6Nks1YUgxMzBhRUJQVklGdUliQ1YxMHdpQU1oQkM0YldNLUJWTE1MWlktSVF4MC1IcXJ4?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-27T09:30:25.000Z",
-     "seen": "2026-11-27T10:07:31.437Z"
     }
    ]
   },
@@ -414,11 +416,11 @@
      "seen": "2026-11-27T08:16:05.475Z"
     },
     {
-     "title": "الذكاء الاصطناعي يجاري الكاتب الروسي غوغول ويكتب الجزء الثاني من \"النقوس الميتة\"",
-     "url": "https://www.dw.com/ar/الذكاء-الاصطناعي-يجاري-الكاتب-الروسي-غوغول-ويكتب-الجزء-الثاني-من-النقوس-الميتة/a-80077320?maca=ara-rss-ar-all-1125-rdf",
+     "title": "الذكاء الاصطناعي يجاري الكاتب الروسي غوغول ويكتب الجزء الثاني من \"النفوس الميتة\"",
+     "url": "https://www.dw.com/ar/الذكاء-الاصطناعي-يجاري-الكاتب-الروسي-غوغول-ويكتب-الجزء-الثاني-من-النفوس-الميتة/a-80077320?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-27T14:19:00.000Z",
-     "seen": "2026-11-27T14:27:32.122Z"
+     "seen": "2026-11-27T15:48:32.211Z"
     },
     {
      "title": "\"يتخذ قراراته بنفسه\".. ترامب يعلق على جهود العراق لمكافحة تهريب النفط وبسط سلطة الدولة",
@@ -565,6 +567,11 @@
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
+  },
   {
    "section": "tech",
    "feed": "البوابة العربية للأخبار التقنية",
