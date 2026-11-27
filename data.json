@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:48:54.801Z",
+ "updated": "2026-11-27T20:58:55.101Z",
  "minute": [
   "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
   "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-27T20:48:54.801Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T20:58:55.101Z"
  },
  "markets": [
   {
@@ -65,7 +65,7 @@
    "unit": "$",
    "value": 1.0937,
    "change": -0.3,
-   "asOf": "2026-11-27T20:48:45.000Z",
+   "asOf": "2026-11-27T20:58:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59711,
-   "change": -1.3,
-   "asOf": "2026-11-27T20:49:02.000Z",
+   "value": 59763,
+   "change": -1.21,
+   "asOf": "2026-11-27T20:58:54.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "لجنة تحكيم دولة التلاوة تشيد بأداء محمد الطباخ: شيء فاخر ربنا يفتح عليك",
-     "url": "https://www.elbalad.news/7197009",
+     "title": "وزيرة التضامن: 3 فئات لتوزيع دعم أسر ضحايا ومصابي الوراق",
+     "url": "https://www.elbalad.news/7197019",
      "source": "صدى البلد",
-     "time": "2026-11-27T20:48:01.000Z",
-     "seen": "2026-11-27T20:48:54.801Z"
+     "time": "2026-11-27T20:56:57.000Z",
+     "seen": "2026-11-27T20:58:55.101Z"
     },
     {
-     "title": "قانون الإجراءات الجنائية الجديد.. 3 شروط لتأجيل حبس الزوجين المسئولين عن أطفال",
-     "url": "https://www.elbalad.news/7197007",
+     "title": "20 سنة على إنتاج آيفون.. تسريب يكشف عن نسخة سيراميك محدودة من iPhone 20 Pro",
+     "url": "https://www.elbalad.news/7196982",
      "source": "صدى البلد",
-     "time": "2026-11-27T20:47:09.000Z",
-     "seen": "2026-11-27T20:48:32.003Z"
+     "time": "2026-11-27T20:55:50.000Z",
+     "seen": "2026-11-27T20:58:55.101Z"
     },
     {
-     "title": "جامعة بورسعيد تفتح آفاقا جديدة للتدريب والتوظيف.. وتوقع بروتوكول تعاون مع منتدى الخمسين",
-     "url": "https://www.elbalad.news/7196988",
+     "title": "أحمد أبو هشيمة: تضامن المصريين مع ضحايا حادث الوراق رسالة تعكس قوة المجتمع وقت الأزمات",
+     "url": "https://www.elbalad.news/7197014",
      "source": "صدى البلد",
-     "time": "2026-11-27T20:46:32.000Z",
-     "seen": "2026-11-27T20:48:32.003Z"
+     "time": "2026-11-27T20:55:30.000Z",
+     "seen": "2026-11-27T20:58:55.101Z"
     },
     {
      "title": "أسعار الذهب ترتفع بنحو 2% والأونصة تلامس 3653 دولاراً",
@@ -347,6 +347,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "تقرير: أسطول روسي غير مساره من ليبيا إلى الجزائر بعد استهداف السفينتين في بنغازي",
+     "url": "https://www.dw.com/ar/تقرير-أسطول-روسي-غير-مساره-من-ليبيا-إلى-الجزائر-بعد-استهداف-السفينتين-في-بنغازي/a-80082423?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T20:49:00.000Z",
+     "seen": "2026-11-27T20:58:55.101Z"
+    },
+    {
      "title": "هجومُ إيران لفكّ الحصار!",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONFVjSDdOSmFRWmJHR1VMR0NpZnUyd2Nvb2pBM0lIZG80Z3FIYmhXb0k0TEtyMTNnRF9kbDBHSTNYekFKQU9acWNkUUVTMXZHNGxPNFRyNjRUT0ZDeEx0SFlFWldQVmx1NnNkWm1UTnhqMjdfRHlvOUZSdU14Q2ZDNHMtLU5EZmJDTFlCM1RHM3MxYnhzM3NzOUtSclh5cjhIYVdUeF9NZldJMzREeXVLdFlwWkQyTTdocmlpM3Ewc0JEamVYVHVabE96eU5naERQU2V6Y3drZXFiQ01SUlE2ZjVzdHdLRzI1eTIxNDJaUGdiTlRjQkpmdE9LQUFOVk1oeU9XcTJFZWUwQ19NeGc?oc=5",
      "source": "الشرق الأوسط",
@@ -436,13 +443,6 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-27T17:35:02.000Z",
      "seen": "2026-11-27T18:48:31.589Z"
-    },
-    {
-     "title": "تحية نازية واشتباكات دامية.. النيابة الفرنسية ويويفا يحققان في أحداث مباراة مارسيليا",
-     "url": "https://www.aljazeera.net/sport/2026/11/27/%d8%aa%d8%ad%d9%8a%d8%a9-%d9%86%d8%a7%d8%b2%d9%8a%d8%a9-%d9%88%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d8%af%d8%a7%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T17:30:00.000Z",
-     "seen": "2026-11-27T20:48:32.003Z"
     }
    ]
   },
