@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:04:52.203Z",
+ "updated": "2026-11-27T03:14:51.913Z",
  "minute": [
   "تناولت الأخبار تحديثات أسعار الدولار مقابل الجنيه المصري في البنوك، إلى جانب الإعلان عن مواعيد القطارات.",
   "شهدت الساحة المحلية متابعة وتفاعلات حول حادث حريق دائري الوراق، إضافة إلى إطلاق قوافل دعوية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T03:04:52.203Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: The operation was aborted due to timeout; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T03:14:51.913Z"
  },
  "markets": [
   {
@@ -19,35 +19,35 @@
    "name": "الدولار / جنيه",
    "unit": "ج.م",
    "value": 54.77,
-   "change": 1.08,
-   "asOf": "2026-11-26T22:32:45.000Z",
+   "change": 0.11,
+   "asOf": "2026-11-27T03:05:29.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5628,
-   "change": 4.42,
-   "asOf": "2026-11-27T02:54:53.000Z",
+   "value": 5634,
+   "change": 3.53,
+   "asOf": "2026-11-27T03:05:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6426,
-   "change": 4.42,
-   "asOf": "2026-11-27T02:54:53.000Z",
+   "value": 6432,
+   "change": 3.53,
+   "asOf": "2026-11-27T03:05:51.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3653,
-   "change": 3.31,
-   "asOf": "2026-11-27T02:54:53.000Z",
+   "value": 3657,
+   "change": 3.42,
+   "asOf": "2026-11-27T03:05:51.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0987,
-   "change": 0.15,
-   "asOf": "2026-11-27T03:04:47.000Z",
+   "value": 1.0983,
+   "change": 0.12,
+   "asOf": "2026-11-27T03:15:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.25,
-   "change": -2.49,
-   "asOf": "2026-11-27T02:54:38.000Z",
+   "value": 92.29,
+   "change": -2.45,
+   "asOf": "2026-11-27T03:02:56.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61425,
-   "change": 1.73,
-   "asOf": "2026-11-27T03:04:53.000Z",
+   "value": 61434,
+   "change": 1.75,
+   "asOf": "2026-11-27T03:15:50.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,24 +139,24 @@
    "title": "مصر",
    "items": [
     {
+     "title": "ترامب يرحب بحضور بوتين قمة العشرين في فلوريدا: يمكنه المشاركة إذا أراد",
+     "url": "https://www.elbalad.news/7196219",
+     "source": "صدى البلد",
+     "time": "2026-11-27T03:14:08.000Z",
+     "seen": "2026-11-27T03:14:51.913Z"
+    },
+    {
+     "title": "الأهلي يستعد لاتخاذ قرارات صارمة ضد المقصرين.. لا مكان للموظفين",
+     "url": "https://www.elbalad.news/7196208",
+     "source": "صدى البلد",
+     "time": "2026-11-27T03:05:23.000Z",
+     "seen": "2026-11-27T03:14:51.913Z"
+    },
+    {
      "title": "وكيل عبدالله جمعة: اللاعب تعرض لصدمة بالغة بعد رحيله من الزمالك.. وسنصعد أزمة المستحقات دوليًا",
      "url": "https://www.elbalad.news/7196212",
      "source": "صدى البلد",
      "time": "2026-11-27T03:03:54.000Z",
-     "seen": "2026-11-27T03:04:52.203Z"
-    },
-    {
-     "title": "وكيل لاعبين: أهلي بنغازي حاول ضم بن شرقي.. واللاعب رفض الرحيل عن الأهلي",
-     "url": "https://www.elbalad.news/7196214",
-     "source": "صدى البلد",
-     "time": "2026-11-27T03:02:42.000Z",
-     "seen": "2026-11-27T03:04:52.203Z"
-    },
-    {
-     "title": "إدارة ترامب تقترح فرض رسوم جمركية جديدة على 14 شريكاً تجاريا،. بينهم الصين والاتحاد الأوروبي واليابان",
-     "url": "https://www.elbalad.news/7196218",
-     "source": "صدى البلد",
-     "time": "2026-11-27T03:02:03.000Z",
      "seen": "2026-11-27T03:04:52.203Z"
     },
     {
@@ -244,6 +244,13 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "المركزي المصري يبيع وثائق خزانة بـ425 مليار جنيه لـ4 بنوك",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPT2VyaWRtR2lxblI4RVFmaEVlM3NxLUZROVh6bmNWN1dWV3dOcy1XRDdURFFKX0ttODhWYnNZUXc3Z204eUNadFNBNW96VkRYTm1oclRmeUNpSWxCdXNNanhMaFI1V1Z6UWdCUEt5QWN2RVllNWFyejFTY0w0SlF2alRlSml3QjZrdFhfZ0lobjlLNk9ZY0dMNjZRX1dmR2k5SzJhQ3JndzIwTk9fWXc4SG5TdGw4ZEJGRTNwVHpRZlF6MGVuaG5ucXNNWU90c2RaMVJpYThEdE9rdTZrdW5IX0poOVdSdVlpOUZYUVowcGZCTkRkdkh1QlRBZkE1Nm9LdzFtU1Y4bkFMX2Fvdk9IUVd4WHRMZTA5RFVrVWd2UTZpempqZTU5TTFRZ2xpeUtTSml6V0VUWnJxSW9qWWd6MDJFWTJfaUtQS09XbXlucnJ4Z2drX3F2bGNreURsNzVrZUgwU0wwaVJCa0tLU2YyQWx2ampOTk1KZmxrcGx0dlhWVlBTRlBCV3Z0a0ptak4yNHdyaE8xUkRycnpubklFcUdma2ZJSzFxNHhkcmxVMG80WWhENEpr?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-27T02:58:30.000Z",
+     "seen": "2026-11-27T03:14:51.913Z"
+    },
+    {
      "title": "أسعار الدولار الأمريكي مقابل الجنيه المصري والعملات الأجنبية اليوم الجمعة 27 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVFJSVFBaMUtZYnk5VWozUVF1SWc1a1BxWmdQdWlfZXZxcUkzdTVhZlRJNC1DSjN5Sl9jMFFOdnNVU3V5VWg1QWJnVW1DU1lsb3RmWHRtYWhGcEZRSGNlTXoya01HVGxoMEhJbEJTQlFfLXBBVVgyaGpudFNsd0drd1duMU82bnBwSndzOXFRbm0taTRxTzJZZkZFZHhzNFI2b2dFcWEwZWJqMHJKTUdHLWp2NUpUdG5hSEthaHhNYWY5cm96Vlg0Wnd5enk3ZDd6WjF1eEdwS3kzRmpwbTl6V0tMWFU0Q3BsZFdLT3lYLTBHOGwxZUIxMERfRHFzR2w3b2luSjZZNUJOVkZ4ZW1KQkJWMllXYkR5cE9KT0pRQ0Z3Y19nV2VkNFpYYVNXRHdtckNPRkYtb2lUeUpJTkhXNkRDcnNsclpYRUpYMnRBb2lkUQ?oc=5",
      "source": "الوطن اليوم",
@@ -316,13 +323,6 @@
      "source": "BBC عربي",
      "time": "2026-11-26T22:50:49.000Z",
      "seen": "2026-11-26T22:54:51.778Z"
-    },
-    {
-     "title": "المركزي المصري يبيع وثائق خزانة بـ425 مليار جنيه لـ4 بنوك",
-     "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNc0JIRzh0OElzTDZGOFBHc0o1R1BISW1xdTI1N2JnaGRaeDBjTWJLbFc4Uko1dmNkdnAzZ3N0TFF6OEgtVFBTN0hTdFBWaUJsUTVQSl9WU2dGWWFlMDlDQUNKRUVlWUtsTmlJbGRZSndaWlJOLXpVVGpZTjhVLThsYnlESmozYkJrY0dGV2FFZ0VzYUVrYXd3ZW13bDlIMEQySXZ5THVFWXFhZUxjVjBfcC1TaVE1blpXX2lVUVZLVE5CUDI5UjFTbjM5bUgwZHNJazVGUkwydE9femFDbzJJWWpMX1hCR2d6UF9YdXFDTEhhdTd1UE9WX1FocEx5SmVBc1dKd282eTFvanFVcW5yY0JlUzJyYzdtMVFTOUd6VmlVMmJMQjlpT1A1Vm5tRUdZZzZXYUw5dG9kM1ZLYmRqdU93VWRRVnduak9EblNJTk9VSzdfaDA1QnFpT1FFajZlWVE3SmlTZkNhMmNyN1VOcFBFMUx6UHdVaFNkUHFDeERkQkZ6aFVfLUlqTWJzNXdIUnVUbU04TGtPRHRRdm1HaVJYbnRWVXdZX0trMHd2bmNhc2ZRejFKa283T2w?oc=5",
-     "source": "الشرق بلومبرغ",
-     "time": "2026-11-26T22:02:52.000Z",
-     "seen": "2026-11-27T00:54:51.598Z"
     },
     {
      "title": "آخر تحديث لسعر الدولار الأمريكي أمام الجنيه اليوم الجمعة 27 نوفمبر 2026",
