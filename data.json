@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:57:32.129Z",
+ "updated": "2026-11-27T15:07:31.473Z",
  "minute": [
   "أعلنت سكك حديد مصر عن فتح باب التعيينات لوظائف هندسية وقيادية، في حين تابعت الجهات المعنية الإجراءات والدعم لضحايا حادثي حريق الوراق والطريق الدائري.",
   "وعلى الصعيد الاقتصادي، سجل سعر شراء الدولار 54.85 جنيه في بنك أبو ظبي الإسلامي، بينما ناقش وزير الزراعة آليات ضبط سوق الدواجن ودعم صغار المربين.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 2,
   "impacts": 8,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-27T14:57:32.129Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T15:07:31.473Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5634,
-   "change": 3.53,
-   "asOf": "2026-11-27T14:47:50.000Z",
+   "value": 5653,
+   "change": 3.88,
+   "asOf": "2026-11-27T14:57:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6432,
-   "change": 3.53,
-   "asOf": "2026-11-27T14:47:50.000Z",
+   "value": 6454,
+   "change": 3.88,
+   "asOf": "2026-11-27T14:57:34.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3657,
-   "change": 3.42,
-   "asOf": "2026-11-27T14:47:50.000Z",
+   "value": 3669,
+   "change": 3.77,
+   "asOf": "2026-11-27T14:57:34.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0953,
-   "change": -0.16,
-   "asOf": "2026-11-27T14:57:47.000Z",
+   "value": 1.0949,
+   "change": -0.19,
+   "asOf": "2026-11-27T15:06:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 91.07,
-   "change": -3.74,
-   "asOf": "2026-11-27T14:47:21.000Z",
+   "value": 91.1,
+   "change": -3.71,
+   "asOf": "2026-11-27T14:57:17.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7230,
-   "change": 0.65,
-   "asOf": "2026-11-27T14:57:50.000Z",
+   "value": 7221,
+   "change": 0.53,
+   "asOf": "2026-11-27T15:07:35.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59259,
-   "change": -2.04,
-   "asOf": "2026-11-27T14:57:46.000Z",
+   "value": 58911,
+   "change": -2.62,
+   "asOf": "2026-11-27T15:07:33.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,48 +139,46 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ندوات وورش عمل وعروض مسرحية بالأقصر ضمن حملة الـ 16 يوما لمناهضة العنف ضد المرأة",
-     "url": "https://www.elbalad.news/7196694",
+     "title": "وثائق مسربة: حارس بوتين الشخصي المرشح لخلافته أنهى حياته عند شلال ارتفاعه 90 قدما",
+     "url": "https://www.elbalad.news/7196701",
      "source": "صدى البلد",
-     "time": "2026-11-27T14:55:11.000Z",
-     "seen": "2026-11-27T14:57:32.129Z"
+     "time": "2026-11-27T15:06:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
     },
     {
-     "title": "الحرس الثوري: ساعة الصفر لكسر الحصار البحري الأمريكي باتت قريبة",
-     "url": "https://www.elbalad.news/7196698",
+     "title": "الطقس غدا.. تحذير من شبورة كثيفة وانخفاض الرؤية والصغرى بالقاهرة 14 درجة",
+     "url": "https://www.youm7.com/story/2026/11/27/الطقس-غدا-تحذير-من-شبورة-كثيفة-وانخفاض-الرؤية-والصغرى-بالقاهرة/7634496",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:00:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
+     "title": "حساب خاص ببنك ناصر لاستقبال مساهمات رجال الأعمال لدعم أسر ضحايا حادث الوراق",
+     "url": "https://www.youm7.com/story/2026/11/27/حساب-خاص-ببنك-ناصر-لاستقبال-مساهمات-رجال-الأعمال-لدعم-أسر/7634143",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:00:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
+     "title": "موعد صرف تكافل وكرامة عن شهر ديسمبر 2026 وطرق الاستعلام",
+     "url": "https://www.youm7.com/story/2026/11/27/موعد-صرف-تكافل-وكرامة-عن-شهر-ديسمبر-2026-وطرق-الاستعلام/7632493",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:00:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
+     "title": "رأيت الشيطان وأبواب الجحيم.. اعترافات مثيرة للبابا فرنسيس تكشف أسرار دفتره الأسود",
+     "url": "https://www.elbalad.news/7196663",
      "source": "صدى البلد",
-     "time": "2026-11-27T14:54:00.000Z",
-     "seen": "2026-11-27T14:57:32.129Z"
+     "time": "2026-11-27T15:00:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
     },
     {
-     "title": "إنذار سيبراني في إسرائيل.. هجوم واسع يهدد المستشفيات والقطاع الصحي",
-     "url": "https://www.elbalad.news/7196696",
+     "title": "عصابة سرقة المواشي في قبضة مباحث إسنا.. ضبط 4 متهمين واستعادة 12 رأس ماشية و2 تروسيكل بالأقصر",
+     "url": "https://www.elbalad.news/7196690",
      "source": "صدى البلد",
-     "time": "2026-11-27T14:53:31.000Z",
-     "seen": "2026-11-27T14:57:32.129Z"
-    },
-    {
-     "title": "سكك حديد مصر تعلن حاجتها لتعيين 162 مهندسًا ثالثًا و593 مساعد قائد قطار ممتاز ثالث",
-     "url": "https://www.youm7.com/story/2026/11/27/سكك-حديد-مصر-تعلن-حاجتها-لتعيين-162-مهندسًا-ثالثًا-و593/7634582",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T14:14:00.000Z",
-     "seen": "2026-11-27T14:17:31.843Z",
-     "impact": "يوفر فرص عمل حكومية جديدة للمهندسين ومساعدي قادة القطارات في مصر."
-    },
-    {
-     "title": "وزارة الصحة تعلن الانتهاء من تحديد هوية 27 من ضحايا حادث حريق الوراق",
-     "url": "https://www.youm7.com/story/2026/11/27/وزارة-الصحة-تعلن-الانتهاء-من-تحديد-هوية-27-من-ضحايا/7634568",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T14:06:00.000Z",
-     "seen": "2026-11-27T14:17:31.843Z",
-     "impact": "يهم المواطنين والمتابعين للتعرف على مستجدات رعاية وضبط بيانات ضحايا الحوادث المحلية."
-    },
-    {
-     "title": "مجلس وزراء الداخلية العرب يشيد بالحماية المدنية المصرية في إنقاذ مصابي حادث الوراق",
-     "url": "https://www.youm7.com/story/2026/11/27/مجلس-وزراء-الداخلية-العرب-يشيد-بالحماية-المدنية-المصرية-في-إنقاذ/7634565",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T14:05:00.000Z",
-     "seen": "2026-11-27T14:07:31.813Z"
+     "time": "2026-11-27T14:58:11.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
     },
     {
      "title": "«فلوس التبرعات هتروح فين».. مجلس الوزراء يكشف مصير أموال دعم ضحايا حادث الطريق الدائري",
@@ -246,11 +244,32 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "سعر الدولار يقفز أكثر من جنيه في البنك المركزي خلال أسبوع",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPM0x0NzN5VFh3UUxMV1BjdTRDaElqMGczQ3FhblRoUkVFQ2hLV3o3bWV1SFVqQmJRbF9YWFo5Nk5Gd3lLZGhlanBNV3M2OHoyc0VHSzZfbGZlRkgwMldUOEhQa1RYb1M4NFAzbG8zWGhacHU1Nm1oSXd0R0Q2MTZXSk5IYlpHRk0tMTZHVVllUlVrSU9iZWo5T0llZFZiZE1wOEtHMW1jUVVhOVdMS1FFS0psWVZydzQ0ZXZDMWhrVmJBU2NZNkFkU1FjUWo3VVdzVkk5dHIxZk11dDI1dDVrV0FTazVTcmF6TVBVTEhfVVZPUlhUUEtETlVMWkk4S1gyZ3NOaDFpX0Nya1dpaVhqZmEtT0NUVGN2MDE3OXNGblljdlpoeloxclR3dXlVTkhaOHZGOFI0cnV0Z2VPUjhyaHNHRk5IMlFsZlEtVWpNZC1yZXB1NkdoX0x5Rnd3dGZnSVdWWHdiT19YcXc3djZzLXV6cUdGYWhoczdvVXl4QkdxYTBkcW11dkdDbFRBM0pGVl81cHBtUHN1WnlpSGM1eGJldlRmUGdENWw1d19oUUlkeE54dEFF0gGyA0FVX3lxTE92WUxZNUZxQ3JKTENVOGRDTDh5R3JYRVZZb3JDWktaRWIwbndmRUl6SVNNY1h6UTBDc1VMamdmcGFMVEY3akhTaGlLSllpY2Zmd1Jvd1BIVjVQb1A1dC1rOXRjYkxQc3Bfd01vQzhtMU5EUVJMaDJ5UTJPOUl0SXJQSmlBQ0RISF8xWUhNYlo5ZXhBVG80b2c4S2o0eFQ5Vl9JUjdIMUQ1cEhudEFYZHJjRzVvS0FKZGtRQXZ1T0thRzRWV0hObi0zNlpBVUlXOEY0bHhXRnZsOW1GeUlua3FYMkRtNVF5Z1JMSW9RVTVXU3c5NlFBZHVXbWdfOHJ0VGdMRGFvMFdMT2h1aGRLMEpaQ09xUVdJUGlfWGRobzlFelN5TnlybXNTdTB6dUVXZERXdFl6cEM5bjA4ajJSell1TkVXTDlVd0lsRGJKdVZWd3ZuTnJiWVFRWnJmQV9wajBKMTVHdmx0ZmVTLS1IYWhGdEhCRTlMaVIyX0JDOThxVUpXNlBtaHc4bTVWZ1FRRUJ0SjhpbHJXS2VyRzRmYm4za0lBemprYmNmRFVXdlIyTTl3?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T15:00:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
+     "title": "أسعار العملات الأجنبية اليوم الجمعة 27-11-2026 في البنك المركزي المصري",
+     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNSUsxSml3NV9Lb3FTUk85WVo2RDVpdlk0dnk0VVBCMkNXR1JkOFo4YlY1aG9aaEpxemtNOFcyeGZPZ3E5V0N0TU5xaHVmeDJBQV96MTZNZ1AtVk1BdjZYbERENngxR20wdFhOeEo3SHh4WHFfdHBqRVFhaFZRRlNITlUwek93V0FRZlNTczF3SkVEUVhiQmIzR0Jva3NZUlVGVUxvbTd4QzgtRzV4TGt0em92eVFGUjZZQ1l5M2x3bUxtOUxfVVFZRG1lYWczX3EzdjRxRlRxWWpidHVkUDZlZ29IVWtaZi1Ia183OWdqbTJmbXdGV3VueWozVzVtWW5Bamh0ajZwZE9HM1p4WGxFRl93QUNncWVXbl9UakdWLXlhRktjd1BHczd3cnB4TDRLMFJrTVNHQ0tCT0JkNHBObU9uN0NYTEJxRUZR?oc=5",
+     "source": "جريدة المال",
+     "time": "2026-11-27T14:59:46.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
      "title": "ثابت في السوق.. سعر الدولار في البنوك الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPSEQ5XzVDWGlCbkd3cFY2YXR4OFF0NFRLZUx0ajZmR0E3aTZKeE9wTkxvR0ZpcVA2SXRkM2doMGpIMXBQZERV?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-27T14:39:00.000Z",
      "seen": "2026-11-27T14:47:31.652Z"
+    },
+    {
+     "title": "النفط العالمي أمام فائض محتمل في 2027.. هل تتراجع فاتورة الطاقة المصرية؟",
+     "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQcGUwa3cxVVE2MV91T2QyWHlLNTVsTGU1amx5cGZxUnJsUGRaQ3BxdnBqVmxLdTd6cS1vUFB3WEVmUUQwVnY3ZUFiM3hFRDZyUG5odXZwSDIwWnh5YldPMy03TktGRjNpdVlQUnBLbU8xT0UwVkx2OWtkVDBQY2ItRkxZS2E1WHBGckdtVkJFMUpPc1ZPMVBHUjVHWmI2TWR0TGF4TjRPT3dROTIwZGZlRS11T0ZSbXRheF9PbXBqQVlzNFJPTEdjcFZBUmdIMWI1ZXhlNU8tc2k5VDhIUkYxRzVjOG0wam81TUo0UUs2SlF4Ny1lUnBONGN6eWQ2N0xzXzU5aWJpdUpNV0d2NHhJUmRzdU9OR2pXOGJFM2hUOW1tX2dsMi0xRVpJdTVjSkVhNjNv?oc=5",
+     "source": "عالم المال",
+     "time": "2026-11-27T14:37:42.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
     },
     {
      "title": "سعر صرف الدولار في البنوك المصرية (آخر تحديث)",
@@ -327,29 +346,6 @@
      "source": "BBC عربي",
      "time": "2026-11-27T12:51:10.000Z",
      "seen": "2026-11-27T12:57:31.922Z"
-    },
-    {
-     "title": "أسعار الذهب في مصر اليوم الجمعة 27-11-2026",
-     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdE1abm1MNUljcDBrbWI4NENPVFh4NC1oT21WYmFZazVhSmRGRlp2SGlrajNKcms4bVhydWpuWkZ1bGpDZEk3Ul80VVljUFByQ1VVaFltQlFqcmg5aHFxSFZfNDdhZTFUaE9NSjVGUGxsMGJUNHhZTzBnMWpJN2pRLWpFdFdqWlg5dkdNTHNQX1JsUUpyaHdyWkk4RWhER2h0NDEySGhnaWVWWG5PWTQ2YmZQYUFHUFZhdzJQU3dNNEF2a0IzLXFpbHROTkFkd3FOb3Z0N2NWMFZlNXpLVEZkNEZhNVdYeFpfdmxmWlZ1Mm1hSDNtYW9jY3lhUUl2bHhUajlxdjczOVpiVEcteU5SclJWNVNFSGExV0RoTnJxbHNVVnZNelJLWHlDMDdNejVGVGJMbHkySFFMRkNEeG1lOdIBuwJBVV95cUxOanpyS2p6SkhxbmUtUkdJY2lPZ0FZZDduTUhmTUR5WVNqeUx3d2E1Y2E1ZmFVN29xeV9RRXhXN3RNTzlYSTJKOTRkSHFzX3JjV2JaRFRCZHZ6UmNLRkFfRVU2V29DdzMwNklzVF9VRjd1Y0FkdlJ2ZFlqVUlndUE1T2wyUlM0N0hkbWdvREVaZjM2TEJ0Y3pfelV3Tlc3NHphRE5nclNEdGNOSWlkTUVKem1tVTFsZEpjbU9XcVEyWjdudGdoMmVPOTJfVEdibmttR1NNRTJiam94WHVscF9hSzVncjF1dVR6VTlubWttSjVmazRSYzEzWnBaVkY2TXRWenN6X1N4TG9iaUdCckFpakpxelhEMUVTSzk5Z24yaFBLT0dXNW84S3NEdXlRQ2taNm05QVhENldmMjA?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T12:49:00.000Z",
-     "seen": "2026-11-27T14:37:31.824Z"
-    },
-    {
-     "title": "سعر الدولار مقابل الجنيه اليوم الجمعة 27 نوفمبر 2026",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1sRzZoRzdqSkJ2ZE5PTEtBUEt2bkZod0YtXy1uMXZXQWQ0N0dhUjA4a1lRQkp6NHU3Qjg2OGxidUwtLVFf?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-27T12:47:33.000Z",
-     "seen": "2026-11-27T12:57:31.922Z",
-     "impact": "يساعد الأفراد والمستوردين في مصر على معرفة التحديثات الحالية لسعر العملة الأمريكية مقابل الجنيه."
-    },
-    {
-     "title": "سعر الدولار الأمريكي اليوم الجمعة 27 نوفمبر 2026.. آخر تحديث أمام الجنيه في البنوك",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5STzlyN0ZVRVRDalJ5Zlp5SFFqbFpvQl8zQmZ5ZkxPazA5eWJvcjFPd0t0dFVRNFA3bGR3Vm1WMkxNNGlG?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-27T12:47:14.000Z",
-     "seen": "2026-11-27T12:57:31.922Z",
-     "impact": "يفيد الراغبين في المعاملات المالية بمعرفة أحدث أسعار صرف الدولار في البنوك المصرية."
     }
    ]
   },
@@ -357,6 +353,34 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "في 24 ساعة.. مئات ملايين الجنيهات تبرعات لضحايا حادث الوراق",
+     "url": "https://www.skynewsarabia.com/middle-east/1907591-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D8%A6%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87%D8%A7%D8%AA-%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA-%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D9%82",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-27T15:05:33.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
+     "title": "\"الجيش الأحمر الياباني\".. من التمرد الطلابي إلى الكفاح المسلح",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AA%D8%B0%D9%83%D8%B1%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9/20261127-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D8%AF-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD",
+     "source": "فرانس 24",
+     "time": "2026-11-27T15:00:28.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
+    {
+     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
+     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+     "source": "العربية",
+     "time": "2026-11-27T14:56:00.000Z",
+     "seen": "2026-11-27T14:37:31.824Z"
+    },
+    {
+     "title": "خلافات الميزانية الأوروبية.. هل تهدد وحدة الاتحاد ومستقبل دعمه لأوكرانيا؟",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261127-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D9%87%D9%84-%D8%AA%D9%87%D8%AF%D8%AF-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+     "source": "فرانس 24",
+     "time": "2026-11-27T14:53:47.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
+    },
     {
      "title": "الإمارات تعرب عن تضامنها مع الأردن بعد وفاة بحار إثر هجوم على سفينة لـ\"أدنوك\"",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/uae-solidarity-jordan-death-of-a-sailor-attack-adnoc-vessel",
@@ -370,6 +394,13 @@
      "source": "الشرق الأوسط",
      "time": "2026-11-27T14:27:31.000Z",
      "seen": "2026-11-27T08:16:05.475Z"
+    },
+    {
+     "title": "الذكاء الاصطناعي.. فاتورة بيئية ثقيلة",
+     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B9%D9%84%D9%89-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6/20261127-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9-%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D8%AB%D9%82%D9%8A%D9%84%D8%A9",
+     "source": "فرانس 24",
+     "time": "2026-11-27T14:22:00.000Z",
+     "seen": "2026-11-27T15:07:31.473Z"
     },
     {
      "title": "الذكاء الاصطناعي يجاري الكاتب الروسي غوغول ويكتب الجزء الثاني من \"النقوس الميتة\"",
@@ -386,40 +417,11 @@
      "seen": "2026-11-27T13:57:31.444Z"
     },
     {
-     "title": "في هايتي: \"العصابات خائفة\" من القوات السلفادورية",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D9%88%D9%86/20261127-%D9%81%D9%8A-%D9%87%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AE%D8%A7%D8%A6%D9%81%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D9%81%D8%A7%D8%AF%D9%88%D8%B1%D9%8A%D8%A9",
-     "source": "فرانس 24",
-     "time": "2026-11-27T13:48:51.000Z",
-     "seen": "2026-11-27T13:57:31.444Z"
-    },
-    {
      "title": "سلطة بورتسودان ترفض مبادرة إثيوبيا للحوار",
      "url": "https://www.skynewsarabia.com/middle-east/1907571-%D8%B3%D9%84%D8%B7%D8%A9-%D8%A8%D9%88%D8%B1%D8%AA%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%AA%D8%B1%D9%81%D8%B6-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D9%84%D9%84%D8%AD%D9%88%D8%A7%D8%B1",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-27T13:39:36.000Z",
      "seen": "2026-11-27T13:47:32.110Z"
-    },
-    {
-     "title": "الأمم المتحدة تحذر من تفاقم المجاعة في العالم بسبب النزاعات المسلحة وتقلبات المناخ",
-     "url": "https://www.france24.com/ar/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/20261127-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D8%AA%D9%81%D8%A7%D9%82%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE",
-     "source": "فرانس 24",
-     "time": "2026-11-27T13:38:30.000Z",
-     "seen": "2026-11-27T13:47:32.110Z",
-     "impact": "ينبه المستثمرين في القطاع الغذائي بضرورة تحسب تقلبات الأسعار وسلاسل الإمداد العالمية."
-    },
-    {
-     "title": "لدرء خطر الكويكبات القاتلة.. أوروبا تحقق في \"قصف\" أمريكي لجسم فضائي بعيد",
-     "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B9%D9%84%D9%88%D9%85/20261127-%D9%84%D8%AF%D8%B1%D8%A1-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%AD%D9%82%D9%82-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%84%D8%AC%D8%B3%D9%85-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A-%D8%A8%D8%B9%D9%8A%D8%AF",
-     "source": "فرانس 24",
-     "time": "2026-11-27T13:37:39.000Z",
-     "seen": "2026-11-27T13:47:32.110Z"
-    },
-    {
-     "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
-     "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-     "source": "العربية",
-     "time": "2026-11-27T13:22:00.000Z",
-     "seen": "2026-11-27T14:37:31.824Z"
     },
     {
      "title": "جدل وانتقادات لحظر المصطلحات الجندرية في وزارة الخارجية الألمانية ومعهد غوته واتهام \"بتراجع ثقافي\"",
@@ -448,13 +450,6 @@
      "source": "سكاي نيوز عربية",
      "time": "2026-11-27T12:52:43.000Z",
      "seen": "2026-11-27T12:57:31.922Z"
-    },
-    {
-     "title": "\"الرقصة الأخيرة للأباتشي\".. ميسي يلبي دعوة تيفيز والأنظار تتجه إلى رونالدو",
-     "url": "https://www.aljazeera.net/sport/2026/11/27/%d8%a7%d9%84%d8%b1%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9-%d9%84%d9%84%d8%a3%d8%a8%d8%a7%d8%aa%d8%b4%d9%8a-%d9%85%d9%8a%d8%b3%d9%8a-%d9%8a%d9%84%d8%a8%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T11:44:53.000Z",
-     "seen": "2026-11-27T14:57:32.129Z"
     }
    ]
   },
@@ -570,12 +565,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "egypt",
-   "feed": "اليوم السابع",
-   "error": "fetch failed"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
