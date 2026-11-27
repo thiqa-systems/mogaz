@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:44:51.296Z",
+ "updated": "2026-11-27T03:54:51.500Z",
  "minute": [
   "شملت التطورات الاقتصادية في مصر بيع البنك المركزي وثائق خزانة بقيمة 425 مليار جنيه لمجموعة من البنوك، بالتوازي مع متابعة أسعار صرف الدولار أمام الجنيه.",
   "وعلى الصعيد المحلي، أُعلن عن فرض غرامات تصل إلى 100 ألف جنيه على أصحاب الأعمال لعدم التأمين على العمال، بينما تواصل النيابة كشف تفاصيل حادث حريق دائري الوراق بالجيزة.",
@@ -9,7 +9,9 @@
   "at": "2026-11-27T03:34:51.268Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 6
+  "impacts": 6,
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T03:54:51.500Z"
  },
  "markets": [
   {
@@ -18,34 +20,34 @@
    "unit": "ج.م",
    "value": 54.77,
    "change": 0.11,
-   "asOf": "2026-11-27T03:05:29.000Z",
+   "asOf": "2026-11-27T03:49:26.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5632,
-   "change": 3.49,
-   "asOf": "2026-11-27T03:34:51.000Z",
+   "value": 5635,
+   "change": 3.55,
+   "asOf": "2026-11-27T03:44:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6430,
-   "change": 3.49,
-   "asOf": "2026-11-27T03:34:51.000Z",
+   "value": 6433,
+   "change": 3.55,
+   "asOf": "2026-11-27T03:44:50.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3655,
-   "change": 3.37,
-   "asOf": "2026-11-27T03:34:51.000Z",
+   "value": 3657,
+   "change": 3.43,
+   "asOf": "2026-11-27T03:44:50.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -61,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0982,
-   "change": 0.11,
-   "asOf": "2026-11-27T03:44:43.000Z",
+   "value": 1.0981,
+   "change": 0.1,
+   "asOf": "2026-11-27T03:54:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.24,
-   "change": -2.51,
-   "asOf": "2026-11-27T03:34:49.000Z",
+   "value": 92.2,
+   "change": -2.55,
+   "asOf": "2026-11-27T03:41:20.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61395,
-   "change": 1.68,
-   "asOf": "2026-11-27T03:44:51.000Z",
+   "value": 61420,
+   "change": 1.73,
+   "asOf": "2026-11-27T03:54:52.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -188,11 +190,11 @@
      "seen": "2026-11-26T21:14:32.428Z"
     },
     {
-     "title": "الداخلية المصرية تنشر تسجيلا يوثق لحظات قبل \"حادث الدائري\"",
-     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOM21TT1pYRVRqd21uZ1JlbjZXX0tmaFpHYlpVM0tIdVJmZ0xVbmNGSVB3WXRIOTJJRTNnMVBGd2FFMnJydXBrbHJIWFFXekEydmVqWUVtYzhEZjE0bDh6R1liQ3l3SS1KRW85aVE2a1R6ZDVqMDZ1ZWdMS1pnTHdaaGdyR3g4TEI2bV9WcmpweERrQ2Y4MGdjM1ZFVFFncnl6a01LZ0JydVkxSm9JbTRaN1RhLUVDUF9wcmhzRGRMZmgzX1lGQUJUVDFmT3d4YXZlQWtrbTFxbjdMcEx6YlAxd29iUllJUjU4THotOFp5ZWI3V3BEVTBvUXBabDV2VEJhQk9IM0ZVbXY0bExVb2g3M1NNRk9KRE85c2JOSW5TdW1jeUhpQzZqQnoxZjAtcXUyUTF1UTlqNDNobTVMSGtGSGxkOTUwakJoZXlLQVpJZUQzZm5CMVpsZ09McEM3ZG5VaThFVDJCbnNzYUg4WDZDRWNLcU9aenc1aGIxRWdJM2dPWkR5RWJfdlMyenR2SThibVNueEM5XzQ5NTVmZFZNSE4ycERGdXEwckg0VTZUZWl0SkF6b0NpVzdYVGYtRDBwQ0sxQTVFYzA3dXYteHhtQdIB1gNBVV95cUxOV1FlZTZlN3JuRFhLMGRmRkNhZW9BUzBpVjA3YVkyV1FpcU9wWUZEREFrMjlYV1I1Nm5zeUFBcmNhRm5yNTU0MGhHSWhKVDJjZXdIaGhtTDNiRExYMWd3bzNyZmUzTFdVd1VlZEktMV9rSEJ0SXZ2eXVzM0N3S3NkLXg5eW95cnhmdDA0T1dfSmIxOENCNHl6dHR4dlU2NWhrcHRvUWVCSVN1VzlDOEFpWHFrRUNMN0ZiemJXSzNaVk1DVnE3cUZnVnVjNms2bl90NGVPcU9fdjVFdDhoSHZCZGVaLW5OUkNTakw1Vnc3cy1PR3ZuQ1pSaHJnUUQ5Z25aYjh3XzkyNVpJSzN0dnhwTEQyTDM1WVF2NV9BX0ExWS1tQ19YR0FBYlV2M3BwU19OUV8wTTVscndkWnhmREVXQTZ5eXlmV2xzV3Y3RHZWVDJCTnE0dVJrRS1aRHBRbzdCWmFxN3pUUmlVTVFRZ2hHTkNhTzRnRURnU0JkODM2VjdFLW9KczBLb0pUSVZyamNnSUQzM2xRYlJ2ZVkwNFlDS1dUVk1aMG5DWHlLSnBFZzlPeDNRX2d0OGNILWIzbnpwbU5UMnhncVA3RHZpTWgwRG1EZUpadw?oc=5",
+     "title": "الداخلية المصرية تنشر تسجيلا يوثق لحظات قبل \"حادث الدائري\" المروع",
+     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOM21TT1pYRVRqd21uZ1JlbjZXX0tmaFpHYlpVM0tIdVJmZ0xVbmNGSVB3WXRIOTJJRTNnMVBGd2FFMnJydXBrbHJIWFFXekEydmVqWUVtYzhEZjE0bDh6R1liQ3l3SS1KRW85aVE2a1R6ZDVqMDZ1ZWdMS1pnTHdaaGdyR3g4TEI2bV9WcmpweERrQ2Y4MGdjM1ZFVFFncnl6a01LZ0JydVkxSm9JbTRaN1RhLUVDUF9wcmhzRGRMZmgzX1lGQUJUVDFmT3d4YXZlQWtrbTFxbjdMcEx6YlAxd29iUllJUjU4THotOFp5ZWI3V3BEVTBvUXBabDV2VEJhQk9IM0ZVbXY0bExVb2g3M1NNRk9KRE85c2JOSW5TdW1jeUhpQzZqQnoxZjAtcXUyUTF1UTlqNDNobTVMSGtGSGxkOTUwakJoZXlLQVpJZUQzZm5CMVpsZ09McEM3ZG5VaThFVDJCbnNzYUg4WDZDRWNLcU9aenc1aGIxRWdJM2dPWkR5RWJfdlMyenR2SThibVNueEM5XzQ5NTVmZFZNSE4ycERGdXEwckg0VTZUZWl0SkF6b0NpVzdYVGYtRDBwQ0sxQTVFYzA3dXYteHhtQQ?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-26T20:37:02.000Z",
-     "seen": "2026-11-26T22:14:33.215Z"
+     "seen": "2026-11-27T03:54:51.500Z"
     },
     {
      "title": "مدبولي يوجه بصرف أكبر تعويضات ممكنة لأسر ضحايا حادث الوراق",
@@ -352,6 +354,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "السعودية.. محمد بن سلمان يبعث برقية للسيسي عن حريق دائري الوراق في الجيزة",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/saudi-crown-prince-egypt-sisi-letter-fire-in-the-warraq-ring-road-area-in-giza",
+     "source": "CNN بالعربية",
+     "time": "2026-11-27T03:50:55.000Z",
+     "seen": "2026-11-27T03:54:51.500Z"
+    },
+    {
      "title": "مصر.. المتهم عمره 21 عاما بحادث حريق دائري الوراق بالجيزة.. النيابة تكشف تفاصيل جديدة ببيان ثالث",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/egypt-details-fire-incident-in-the-al-warraq-neighborhood-of-giza",
      "source": "CNN بالعربية",
@@ -374,14 +383,6 @@
      "seen": "2026-11-27T02:54:52.239Z"
     },
     {
-     "title": "مصر.. إيران تعقّب على حادث حريق دائري الوراق في الجيزة",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/egypt-iran-fire-petrol-truck-reactions-major-accident-post",
-     "source": "CNN بالعربية",
-     "time": "2026-11-27T02:33:01.000Z",
-     "seen": "2026-11-27T02:44:51.527Z",
-     "impact": "تهم متابعة أخبار حادث دائري الوراق الأفراد في مصر للاطلاع على مستجدات السلامة وحركة المرور في المنطقة."
-    },
-    {
      "title": "القضاء الفرنسي يؤكد إحالة الممثل جيرار دوبارديو للمحاكمة بتهمة الاغتصاب",
      "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261127-%D8%AC%D9%8A%D8%B1%D8%A7%D8%B1-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8",
      "source": "فرانس 24",
@@ -394,6 +395,13 @@
      "source": "فرانس 24",
      "time": "2026-11-27T01:06:02.000Z",
      "seen": "2026-11-27T01:14:51.634Z"
+    },
+    {
+     "title": "أوكرانيا: لا نية لدينا لتوسيع رقعة الحرب إلى ليبيا",
+     "url": "https://www.aljazeera.net/news/2026/11/27/%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d9%84%d8%a7-%d9%86%d9%8a%d8%a9-%d9%84%d8%af%d9%8a%d9%86%d8%a7-%d9%84%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d8%b1%d9%82%d8%b9%d8%a9?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-27T00:30:47.000Z",
+     "seen": "2026-11-27T03:54:51.500Z"
     },
     {
      "title": "السعودية واليمن: التحالف يعلن اعتراض وتدمير مسيرة استهدفت جنوب السعودية بعد تعرض مصفاة جازان السعودية لهجوم من جماعة أنصار الله",
@@ -442,13 +450,6 @@
      "url": "https://www.aljazeera.net/politics/2026/11/27/%d9%82%d8%a7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-4-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%82%d8%af?traffic_source=rss",
      "source": "الجزيرة",
      "time": "2026-11-26T21:35:52.000Z",
-     "seen": "2026-11-27T00:44:52.085Z"
-    },
-    {
-     "title": "تقرير إسرائيلي يكشف التفاصيل.. هكذا يشرعن الاحتلال التعذيب لانتزاع اعترافات الأسرى الفلسطينيين",
-     "url": "https://www.aljazeera.net/news/2026/11/27/%d8%aa%d8%b9%d8%b0%d9%8a%d8%a8-%d8%a8%d8%a5%d9%82%d8%b1%d8%a7%d8%b1-%d8%b1%d8%b3%d9%85%d9%8a-%d9%83%d9%8a%d9%81-%d8%aa%d9%86%d8%aa%d8%b2%d8%b9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-26T21:35:47.000Z",
      "seen": "2026-11-27T00:44:52.085Z"
     }
    ]
@@ -560,12 +561,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
