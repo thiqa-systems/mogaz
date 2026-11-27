@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:46:05.880Z",
+ "updated": "2026-11-27T05:56:05.262Z",
  "minute": [
   "تابعت الأوساط المحلية في مصر تداعيات حادث دائري الوراق والإجراءات الخدمية الخاصة بالكهرباء والاستعداد لموسم الأمطار.",
   "ركزت الأخبار الاقتصادية على متابعة تحديثات سعر الدولار في البنوك المصرية وعروض تخفيضات الجمعة البيضاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.8-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T05:46:05.880Z"
+  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T05:56:05.262Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5678,
-   "change": 4.33,
-   "asOf": "2026-11-27T05:36:05.000Z",
+   "value": 5665,
+   "change": 4.1,
+   "asOf": "2026-11-27T05:46:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6482,
-   "change": 4.33,
-   "asOf": "2026-11-27T05:36:05.000Z",
+   "value": 6468,
+   "change": 4.1,
+   "asOf": "2026-11-27T05:46:07.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3685,
-   "change": 4.22,
-   "asOf": "2026-11-27T05:36:05.000Z",
+   "value": 3677,
+   "change": 3.99,
+   "asOf": "2026-11-27T05:46:07.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0985,
-   "change": 0.14,
-   "asOf": "2026-11-27T05:45:45.000Z",
+   "value": 1.0981,
+   "change": 0.1,
+   "asOf": "2026-11-27T05:55:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.56,
-   "change": -2.17,
-   "asOf": "2026-11-27T05:36:01.000Z",
+   "value": 92.84,
+   "change": -1.87,
+   "asOf": "2026-11-27T05:46:05.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61697,
-   "change": 2.18,
-   "asOf": "2026-11-27T05:46:06.000Z",
+   "value": 61620,
+   "change": 2.06,
+   "asOf": "2026-11-27T05:55:57.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -197,6 +197,13 @@
      "seen": "2026-11-27T04:56:05.503Z"
     },
     {
+     "title": "«مدبولى» يوجه «التضامن» بصرف أكبر تعويضات ممكنة لأسر الضحايا والمصابين",
+     "url": "https://www.almasryalyoum.com/news/details/4421794",
+     "source": "المصري اليوم",
+     "time": "2026-11-26T21:54:00.000Z",
+     "seen": "2026-11-27T05:56:05.262Z"
+    },
+    {
      "title": "طلب إحاطة لـ مدبولي و10 وزراء بشأن عدم تنفيذ توصيات إصلاح منظومة تداول المواد البترولية",
      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcktwM2ZZY0Z5eHdkRUdwd0ZmNHVQZjE0RXlUNHhiWGdqdVJNMVpDYXdCUFRfSFc1ZGVkd25FQjNEdHBrbHZZTGdPMmxjWF9vNDJPWFNyZ201aVk4TzNSNFk3NWJpUnFqWlRNTGltdkpzeTMzWm1MMkFMSW54dkkzbHFnVi0weDA0NUtUVHZGMVRGMXJJZlR3TTdrZXhOU2xqQWEwWU02cUNnU29HakxsUE1FVXlhRnlrU2xHQ1dveUxybGhYeVcxQUtUSnh2N2Z4WHBBbHVoUTNRM1RjTkRWTXhZRnVTTXgtTFNoXzdrWUxpNmxjc09wdkRvV3FWREU5YXRkX1dJSFAxek9QOVZ5RTNuaW9ocTZJcmx6RWNJck8tVVhTLUhSdzJOWFhkeHZYU2NTbVloQ0JleVlLWUU4?oc=5",
      "source": "قناة صدى البلد",
@@ -223,13 +230,6 @@
      "source": "جريدة الدستور",
      "time": "2026-11-26T20:03:42.000Z",
      "seen": "2026-11-26T23:54:52.021Z"
-    },
-    {
-     "title": "«كان لسه بدري يا نور عيني».. ابنة تامر عبدالسلام المفقود في حريق الوراق تنعاه بعد العثور على جثمانه",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmaURDdlYwMHpuVkNHSGtSdkRkWTBuTjl1ZGV2Yk8xdzZOVElZV1Q0dURfeHhpOU9VVlItUDdhZHYtNTZkdG1KR1RNRWNmdGVVdHFadnZtOE41Y21pRFo0?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-26T19:55:00.000Z",
-     "seen": "2026-11-26T22:34:32.656Z"
     },
     {
      "title": "مدبولي: السيسي يوجّه بحصر خسائر حريق دائري الوراق وتعويض المتضررين بالكامل",
@@ -356,6 +356,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "جلست تبكي بحثاً عن بعض الهدوء.. فكانت الغرامة بانتظارها",
+     "url": "https://www.dw.com/ar/جلست-تبكي-بحثاً-عن-بعض-الهدوء-فكانت-الغرامة-بانتظارها/a-80062053?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T05:49:00.000Z",
+     "seen": "2026-11-27T05:56:05.262Z"
+    },
+    {
+     "title": "DW تتحقق: لماذا توجد أنظمة كثيرة لرصد معدلات الفقر والحرمان وأيها نصدق؟",
+     "url": "https://www.dw.com/ar/dw-تتحقق-لماذا-توجد-أنظمة-كثيرة-لرصد-معدلات-الفقر-والحرمان-وأيها-نصدق؟/a-80061093?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T05:47:00.000Z",
+     "seen": "2026-11-27T05:56:05.262Z"
+    },
+    {
      "title": "ترامب يبين إن كانت هناك أنشطة رصدت في جبل الفأس بإيران ويؤكد: نحاول إعطاءهم فرصة ليكونوا أذكياء",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/trump-we-would-absolutely-hit-pickaxe-mountain-but-no-activity",
      "source": "CNN بالعربية",
@@ -439,20 +453,6 @@
      "source": "فرانس 24",
      "time": "2026-11-27T01:06:02.000Z",
      "seen": "2026-11-27T01:14:51.634Z"
-    },
-    {
-     "title": "السعودية واليمن: التحالف يعلن اعتراض وتدمير مسيرة استهدفت جنوب السعودية بعد تعرض مصفاة جازان السعودية لهجوم من جماعة أنصار الله",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rUFdYSDg5bS1qb0tHaGdVNXoxMnJPb1V3S2szMmNrYldlS0tycHZMX3ViRWVOMzVkWWdITWd5dHN2cUNOV09UQkdHaXdvZkJic240T29OMVVhVWNLTkHSAWNBVV95cUxQbVN5ek0xWk5WUENMZTRQYjJaZkJYS2loaWpDZFphRHhKQ0pMNXBLLUhCRmxNX05mUHRWM3YwYldHeHp0UlRyTkpVVW5NUjZCTl9IOXVOcnlicGZZZnMydk1KaFU?oc=5",
-     "source": "BBC",
-     "time": "2026-11-27T00:29:43.000Z",
-     "seen": "2026-11-27T01:34:52.239Z"
-    },
-    {
-     "title": "التحالف يعلن اعتراض وتدمير مُسيرة استهدفت جنوب السعودية بعد هجوم على مصفاة جازان",
-     "url": "https://www.bbc.com/arabic/articles/c6y0xqg0dp0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T00:16:45.000Z",
-     "seen": "2026-11-26T12:34:17.426Z"
     }
    ]
   },
@@ -460,6 +460,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "التحالف يعلن اعتراض وتدمير مُسيرة استهدفت جنوب السعودية بعد هجوم على مصفاة جازان",
+     "url": "https://www.bbc.com/arabic/articles/c6y0xqg0dp0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-27T00:16:45.000Z",
+     "seen": "2026-11-26T12:34:17.426Z"
+    },
     {
      "title": "إيران تنفي مسؤوليتها عن مقتل إيطالييْن في هجوم بالكويت",
      "url": "https://www.bbc.com/arabic/articles/c32l57epjy74o?at_medium=RSS&at_campaign=rss",
@@ -541,13 +548,6 @@
      "seen": "2026-11-26T20:44:32.329Z"
     },
     {
-     "title": "كردستان العراق بين خلافات داخلية وتوتر مع بغداد... إلى أين تتجه الأزمة؟",
-     "url": "https://www.bbc.com/arabic/articles/cmp3veyr1y34o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-26T17:59:47.000Z",
-     "seen": "2026-11-26T18:04:32.495Z"
-    },
-    {
      "title": "واتساب تطلق رسميًا ميزة جدولة الرسائل وإرسالها تلقائيًا",
      "url": "https://aitnews.com/2026/11/26/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%ac%d8%af%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84/",
      "source": "البوابة العربية للأخبار التقنية",
@@ -565,11 +565,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "البوابة العربية للأخبار التقنية",
