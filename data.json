@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:58:32.062Z",
+ "updated": "2026-11-27T16:08:31.423Z",
  "minute": [
   "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
   "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 503; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T15:58:32.062Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: The operation was aborted due to timeout; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T16:08:31.423Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5634,
-   "change": 3.53,
-   "asOf": "2026-11-27T15:48:32.000Z",
+   "value": 5632,
+   "change": 3.5,
+   "asOf": "2026-11-27T15:59:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6432,
-   "change": 3.53,
-   "asOf": "2026-11-27T15:48:32.000Z",
+   "value": 6430,
+   "change": 3.5,
+   "asOf": "2026-11-27T15:59:33.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3657,
-   "change": 3.42,
-   "asOf": "2026-11-27T15:48:32.000Z",
+   "value": 3655,
+   "change": 3.38,
+   "asOf": "2026-11-27T15:59:33.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,36 +63,36 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0942,
-   "change": -0.26,
-   "asOf": "2026-11-27T15:57:44.000Z",
+   "value": 1.0941,
+   "change": -0.27,
+   "asOf": "2026-11-27T16:08:44.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 90.86,
-   "change": -3.96,
-   "asOf": "2026-11-27T15:48:31.000Z",
+   "value": 90.6,
+   "change": -4.24,
+   "asOf": "2026-11-27T15:59:29.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "sp500",
    "name": "S&P 500",
    "unit": "نقطة",
-   "value": 7270,
-   "change": 1.22,
-   "asOf": "2026-11-27T15:58:24.000Z",
+   "value": 7269,
+   "change": 1.2,
+   "asOf": "2026-11-27T16:09:33.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 60098,
-   "change": -0.66,
-   "asOf": "2026-11-27T15:58:33.000Z",
+   "value": 60040,
+   "change": -0.75,
+   "asOf": "2026-11-27T16:09:31.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "محافظ البحيرة: 7.5 مليار جنيه استثمارات عامة لتنفيذ 479 مشروعًا تنمويًا",
-     "url": "https://www.elbalad.news/7196755",
+     "title": "ميناء دمياط يستقبل 16 سفينة ويصدر 32.6 ألف طن بضائع و919 حاوية مكافئة",
+     "url": "https://www.elbalad.news/7196760",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:58:04.000Z",
-     "seen": "2026-11-27T15:58:32.062Z"
+     "time": "2026-11-27T16:07:55.000Z",
+     "seen": "2026-11-27T16:08:31.423Z"
     },
     {
-     "title": "خلاف بين الموساد ورئيس أركان جيش الاحتلال حول توجيه ضربة منفردة لإيران",
-     "url": "https://www.elbalad.news/7196743",
+     "title": "دعم الصناعة وتطوير التعليم.. أبرز الملفات المطروحة على جدول أعمال مجلس النواب",
+     "url": "https://www.elbalad.news/7196747",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:57:20.000Z",
-     "seen": "2026-11-27T15:58:32.062Z"
+     "time": "2026-11-27T16:07:14.000Z",
+     "seen": "2026-11-27T16:08:31.423Z"
     },
     {
-     "title": "بعد حادث الوراق.. كيف تنقذ نفسك والآخرين عند حدوث الحرائق؟",
-     "url": "https://www.elbalad.news/7196749",
+     "title": "استياء وغضب من منشورات الفنان «أبو» بعد دقائق من تعزية ضحايا حادث دائري الوراق",
+     "url": "https://www.elbalad.news/7196764",
      "source": "صدى البلد",
-     "time": "2026-11-27T15:57:02.000Z",
-     "seen": "2026-11-27T15:58:32.062Z"
+     "time": "2026-11-27T16:06:29.000Z",
+     "seen": "2026-11-27T16:08:31.423Z"
+    },
+    {
+     "title": "السكك الحديدية تعتذر عن تأخيرات بالوجه القبلي بسبب خروج بوجي قطار عن القضبان دون إصابات",
+     "url": "https://www.youm7.com/story/2026/11/27/السكك-الحديدية-تعتذر-عن-تأخيرات-بالوجه-القبلي-بسبب-خروج-بوجي/7634657",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T16:04:00.000Z",
+     "seen": "2026-11-27T16:08:31.423Z"
+    },
+    {
+     "title": "منافسة قوية الليلة في برنامج دولة التلاوة.. اعرف قائمة المتسابقين الـ6",
+     "url": "https://www.youm7.com/story/2026/11/27/منافسة-قوية-الليلة-في-برنامج-دولة-التلاوة-اعرف-قائمة-المتسابقين/7634650",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T16:03:00.000Z",
+     "seen": "2026-11-27T16:08:31.423Z"
     },
     {
      "title": "منظومة علاجية متكاملة بمستشفيات أمانة المراكز الطبية المتخصصة.. تفاصيل",
@@ -165,21 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T15:50:00.000Z",
      "seen": "2026-11-27T15:58:32.062Z"
-    },
-    {
-     "title": "التأمين الصحي: السيطرة على حريق محدود بدراجة بخارية داخل جراج مستشفى النيل",
-     "url": "https://www.youm7.com/story/2026/11/27/التأمين-الصحي-السيطرة-على-حريق-محدود-بدراجة-بخارية-داخل-جراج/7634640",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T15:44:00.000Z",
-     "seen": "2026-11-27T15:48:32.211Z"
-    },
-    {
-     "title": "النيابة الإدارية تشرف على عمومية نادي 6 أكتوبر إلكترونيا بمشاركة 50 ألف عضو",
-     "url": "https://www.youm7.com/story/2026/11/27/النيابة-الإدارية-تشرف-على-عمومية-نادي-6-أكتوبر-إلكترونيا-بمشاركة/7634619",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T15:19:00.000Z",
-     "seen": "2026-11-27T15:28:31.983Z",
-     "impact": "يهتم به أعضاء نادي 6 أكتوبر في مصر لمعرفة تفاصيل تنظيم الجمعية العمومية إلكترونياً."
     },
     {
      "title": "التموين في أسبوع.. استقرار الأسواق وضبط آليات الرقابة الأبرز",
@@ -244,6 +243,13 @@
    "id": "economy",
    "title": "اقتصاد وأسواق",
    "items": [
+    {
+     "title": "سعر الدولار في البنوك الحكومية والخاصة.. 54.87 جنيه للبيع في 4 بنوك",
+     "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOMTFENlV4SVd5S0Vfb3J4OW5oaGVxVGV5Nkl3OC1HT3BZSnBUamlOT3VSUWlVSFFtbVBucU9WcTlWMHpERXlFd3FFU1gyblhsanhyRkV6cGpsaWd3STgtRVVNeVNiSEpHTW4wREJvWGhfMVE1TjVnbDl1eGN0R3pyNUdudWsweWZFbTRNeS1nSC1QWS1nVERxb0hSMkpwSkJqcFZCTWNRWFl1YVhmdUYyWHBKcU9oaTZxLTZsNUdacFkxTE9UVHgwTXVQQU50YXE2bGlieDlLb0t3aXl5aW1BQmxSODNFYnRReUl4R3dnTU83RlRESldPSjFxcTVadm50T1lhLW9RR05MN084QmpPaUo5UXRBV1pnZGFUU3BSZEFiMjBkQWQ5WlpScWVFdVhDdEhzQzZzX3J3bUk0RkZYY0tISU04S0xGd0JjXzFwQXZuT19RV2ZwRmRyb00wOGl4ZW9hMDhQLTltcHlwLVdRLWdOekhTVW1FVVhtSDZBSzVxeDRNZzBfOWEzUGRNSkxkOTBURktpeGhmQk91TnBMZUdSV1FFTi1lVDdOVG5TMlplc3ZhNWVOeER0aUzSAbcDQVVfeXFMTTdOdzVKV3NHTzRIc282dlhrVV9OMTdaSG5jOHRQX3RxU1dZenFqSnc2UHU1REtyZ2dzUTFGbTBBSlNoZEdmbXhyVnFUcTdxMnNEaFptSGtWdmZlVDgyRUsyWjcyNloxSlg4YlJkZ1EtWVpoVzlGb0d4YlRRdUNGNVJYanVHSExfZk1CaUdxa1BvbURyVENjWXp5QVJjMVloblNvSVBBelBERlhNWEJPQlB5bUUzNWc3RjRXVmxCb21ocXFBN3REdjV1RnROY0k5eVVaSkI5V3MxZjA5NWlYbUN0d1RMV3lsa2dDTVFhc2JsTWVpemJVQzNmbTZxeDhCQ3NVWExUc1l4TXk0Z0pzam5mODZ4Z240UTBhWmN4SGkxTUNBVkRtWGRGSXY5MC1scXE0cVFPTGI4Zm9fMDNtWWtDWEtVZUtJSXJueldVM1hpXzRyMU5zY1dCbG1ZcHJaTGltUWIzNDhBMkdoa2dQQl9rUGFyakkxanUteExoZEw0MDlVTng2MVE0bGFvcW82emtodTBnVVZLZ3M5cnk0aGlrdUlBZThac241R1BxQXhndEplLUgtTQ?oc=5",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T16:00:00.000Z",
+     "seen": "2026-11-27T16:08:31.423Z"
+    },
     {
      "title": "الإسترليني يقترب من 72 جنيهًا.. سعر الجنيه الإسترليني اليوم في البنوك المصرية",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBpcUNJTHhQZDktUjhvblVENnNqWmJ4enFrcWZzdExZZDVaUWRWaTZKZXg4ZW1uUElXLWhOTGdzdmNhcmFs?oc=5",
@@ -336,13 +342,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T14:03:28.000Z",
      "seen": "2026-11-27T15:38:31.585Z"
-    },
-    {
-     "title": "ترامب يدعم إجراءات الزيدي لمكافحة تهريب النفط وسط تصاعد الخلاف بين بغداد وأربيل",
-     "url": "https://www.bbc.com/arabic/articles/ckyvdn2rqnypo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-27T13:34:30.000Z",
-     "seen": "2026-11-27T13:37:31.864Z"
     }
    ]
   },
@@ -435,18 +434,18 @@
      "seen": "2026-11-27T15:48:32.211Z"
     },
     {
+     "title": "ترامب يدعم إجراءات الزيدي لمكافحة تهريب النفط وسط تصاعد الخلاف بين بغداد وأربيل",
+     "url": "https://www.bbc.com/arabic/articles/ckyvdn2rqnypo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-27T13:34:30.000Z",
+     "seen": "2026-11-27T13:37:31.864Z"
+    },
+    {
      "title": "جدل وانتقادات لحظر المصطلحات الجندرية في وزارة الخارجية الألمانية ومعهد غوته واتهام \"بتراجع ثقافي\"",
      "url": "https://www.dw.com/ar/جدل-وانتقادات-لحظر-المصطلحات-الجندرية-في-وزارة-الخارجية-الألمانية-ومعهد-غوته-واتهام-بتراجع-ثقافي/a-80075149?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-27T13:16:00.000Z",
      "seen": "2026-11-27T13:47:32.110Z"
-    },
-    {
-     "title": "جدل وانتقادات لحظر الجندرية في وزارة الخارجية الألمانية ومعهد غوته واتهام \"بتراجع ثقافي\"",
-     "url": "https://www.dw.com/ar/جدل-وانتقادات-لحظر-الجندرية-في-وزارة-الخارجية-الألمانية-ومعهد-غوته-واتهام-بتراجع-ثقافي/a-80075149?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-27T13:16:00.000Z",
-     "seen": "2026-11-27T13:27:32.238Z"
     }
    ]
   },
@@ -564,12 +563,6 @@
    ]
   }
  ],
- "failed": [
-  {
-   "section": "tech",
-   "feed": "البوابة العربية للأخبار التقنية",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
