@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:14:52.208Z",
+ "updated": "2026-11-27T04:16:05.391Z",
  "minute": [
   "شملت التطورات الاقتصادية في مصر بيع البنك المركزي وثائق خزانة بقيمة 425 مليار جنيه لمجموعة من البنوك، بالتوازي مع متابعة أسعار صرف الدولار أمام الجنيه.",
   "وعلى الصعيد المحلي، أُعلن عن فرض غرامات تصل إلى 100 ألف جنيه على أصحاب الأعمال لعدم التأمين على العمال، بينما تواصل النيابة كشف تفاصيل حادث حريق دائري الوراق بالجيزة.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 6,
-  "error": "gemini-3.8-flash key1: The operation was aborted due to timeout; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T04:14:52.208Z"
+  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
+  "errorAt": "2026-11-27T04:16:05.391Z"
  },
  "markets": [
   {
@@ -27,18 +27,18 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5632,
-   "change": 3.5,
-   "asOf": "2026-11-27T04:05:49.000Z",
+   "value": 5631,
+   "change": 3.48,
+   "asOf": "2026-11-27T04:05:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6430,
-   "change": 3.5,
-   "asOf": "2026-11-27T04:05:49.000Z",
+   "value": 6429,
+   "change": 3.48,
+   "asOf": "2026-11-27T04:05:57.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
@@ -46,8 +46,8 @@
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
    "value": 3655,
-   "change": 3.38,
-   "asOf": "2026-11-27T04:05:49.000Z",
+   "change": 3.37,
+   "asOf": "2026-11-27T04:05:57.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61418,
-   "change": 1.72,
-   "asOf": "2026-11-27T04:15:50.000Z",
+   "value": 61452,
+   "change": 1.78,
+   "asOf": "2026-11-27T04:16:05.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -559,6 +559,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
