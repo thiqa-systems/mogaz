@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:56:05.326Z",
+ "updated": "2026-11-27T08:06:05.697Z",
  "minute": [
   "تابعت الأوساط المحلية في مصر تداعيات حادث دائري الوراق والإجراءات الخدمية الخاصة بالكهرباء والاستعداد لموسم الأمطار.",
   "ركزت الأخبار الاقتصادية على متابعة تحديثات سعر الدولار في البنوك المصرية وعروض تخفيضات الجمعة البيضاء.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.8-flash",
   "key": 2,
   "impacts": 8,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T07:56:05.326Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-27T08:06:05.697Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5675,
-   "change": 4.29,
-   "asOf": "2026-11-27T07:45:59.000Z",
+   "value": 5690,
+   "change": 4.57,
+   "asOf": "2026-11-27T07:56:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6479,
-   "change": 4.29,
-   "asOf": "2026-11-27T07:45:59.000Z",
+   "value": 6497,
+   "change": 4.57,
+   "asOf": "2026-11-27T07:56:29.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3683,
-   "change": 4.17,
-   "asOf": "2026-11-27T07:45:59.000Z",
+   "value": 3693,
+   "change": 4.45,
+   "asOf": "2026-11-27T07:56:29.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0981,
-   "change": 0.1,
-   "asOf": "2026-11-27T07:55:48.000Z",
+   "value": 1.0976,
+   "change": 0.05,
+   "asOf": "2026-11-27T08:05:43.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.61,
-   "change": -2.11,
-   "asOf": "2026-11-27T07:45:49.000Z",
+   "value": 92.57,
+   "change": -2.16,
+   "asOf": "2026-11-27T07:56:31.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61615,
-   "change": 1.85,
-   "asOf": "2026-11-27T07:56:02.000Z",
+   "value": 61789,
+   "change": 2.14,
+   "asOf": "2026-11-27T08:06:29.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,25 @@
    "title": "مصر",
    "items": [
     {
-     "title": "المستوطنون ينفذون 14 اعتداء على فلسطينيين وممتلكاتهم في الضفة خلال 24 ساعة",
-     "url": "https://www.elbalad.news/7196286",
+     "title": "كواليس سقوط صانعة محتوى بتهمة نشر فيديوهات تتضمن ألفاظا خارجة بالقاهرة",
+     "url": "https://www.elbalad.news/7196296",
      "source": "صدى البلد",
-     "time": "2026-11-27T07:52:03.000Z",
-     "seen": "2026-11-27T07:56:05.326Z"
+     "time": "2026-11-27T08:05:25.000Z",
+     "seen": "2026-11-27T08:06:05.697Z"
     },
     {
-     "title": "مكتبة الإسكندرية تختتم هاكاثون مدن مصر لتعزيز الابتكار وريادة الأعمال",
-     "url": "https://www.elbalad.news/7196285",
+     "title": "18 مليون يمني يواجهون انعدام الأمن الغذائي",
+     "url": "https://www.elbalad.news/7196293",
      "source": "صدى البلد",
-     "time": "2026-11-27T07:50:07.000Z",
-     "seen": "2026-11-27T07:56:05.326Z"
+     "time": "2026-11-27T08:02:08.000Z",
+     "seen": "2026-11-27T08:06:05.697Z"
     },
     {
-     "title": "آخر مستجدات الحالة الصحية لمصابي دائري الوراق والجثامين المجهولة",
-     "url": "https://www.elbalad.news/7196278",
+     "title": "طريقة عمل النجرسكو في البيت",
+     "url": "https://www.elbalad.news/7196264",
      "source": "صدى البلد",
-     "time": "2026-11-27T07:48:16.000Z",
-     "seen": "2026-11-27T07:56:05.326Z"
+     "time": "2026-11-27T08:00:00.000Z",
+     "seen": "2026-11-27T08:06:05.697Z"
     },
     {
      "title": "وزيرة التضامن: نعلن كل جنيه بالأوراق ونتحمل الأمانة أمام الله في حادث الوراق",
@@ -271,6 +271,14 @@
      "seen": "2026-11-27T06:36:05.992Z"
     },
     {
+     "title": "سعر الدولار اليوم الجمعة 27-11-2026 أمام الجنيه المصري في البنوك.. تحديث أسعار الشراء والبيع",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LcU85ZUN2ZHctQ3dHNEZPSUVRaWtMd1dJUDdVUDRocURVVUpydjZwOXpGZk1PazRkeHdPOC1SV2pkYXF1?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-27T05:40:00.000Z",
+     "seen": "2026-11-26T23:24:51.591Z",
+     "impact": "يمس الأفراد والمستثمرين في مصر لمتابعة التغيرات في أسعار صرف العملات الأجنبية وتأثيرها على التعاملات والقوة الشرائية."
+    },
+    {
      "title": "سعر الدولار اليوم في البنوك المصرية الجمعة 27 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSEx4WGZvbDNWZTkzLWVSV085X0NvVjk4YVpLUnBoSWgzektCMk5UMGJDSE1TTVVDbktMSkUydnVVV3dmeG9fV2h3WjZQbF9BX0FpRUl0SXJvd0h3dTMw?oc=5",
      "source": "المصري اليوم",
@@ -285,14 +293,6 @@
      "time": "2026-11-27T05:18:49.000Z",
      "seen": "2026-11-27T05:26:05.390Z",
      "impact": "يفيد التقرير المستهلك في مصر بحمايته من الوقوع في عروض التخفيض غير الحقيقية أثناء التسوق في الجمعة البيضاء."
-    },
-    {
-     "title": "سعر الدولار اليوم الجمعة 27-11-2026 أمام الجنيه المصري في البنوك.. تحديث أسعار الشراء والبيع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LcU85ZUN2ZHctQ3dHNEZPSUVRaWtMd1dJUDdVUDRocURVVUpydjZwOXpGZk1PazRkeHdPOC1SV2pkYXF1?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-27T05:06:36.000Z",
-     "seen": "2026-11-26T23:24:51.591Z",
-     "impact": "يمس الأفراد والمستثمرين في مصر لمتابعة التغيرات في أسعار صرف العملات الأجنبية وتأثيرها على التعاملات والقوة الشرائية."
     },
     {
      "title": "سعر الدولار في البنوك الآن",
@@ -464,6 +464,13 @@
      "seen": "2026-11-27T07:56:05.326Z"
     },
     {
+     "title": "الأسهم العالمية تواصل تعافيها مع عودة المشترين لأسهم التكنولوجيا",
+     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWkxMZDNJclk4elVWR290ckVzLUJYdmtDeDlaZzgtZ3JSdjJySXhtRmpFS1dGaUY3TmEwVVhuWFhxR180U0hVY05qN2djMHNvS01aSEhyb2xMWDhnamR6M3FKdnZrRXVPS05hcFdNQ041MWR1VllPeTRuOGcyMmtLLWo5ODh1M2VLS21RQVlJb1JvRllhVnRwVnNMTGpVUHQxTVdYSWQ2VXpxRkNyd0pRMlFfaDlWQUxtdk9QdUd2TWNuZ0xjTTRwd0JnOUV3c2FjeEJ0UjhvamZwVThTOGhEN28wR3ZmcG5oWEVVamZxS2V3bTdHbGNZal9GSFFSMG02cW5BX1lVU0t1bDFxdzlPei1nQXRMTnlxZnVFbk5qSERIaXNFYzJ3VEFn?oc=5",
+     "source": "الشرق بلومبرغ",
+     "time": "2026-11-27T04:52:42.000Z",
+     "seen": "2026-11-27T08:06:05.697Z"
+    },
+    {
      "title": "زيلينسكي لـ \"بي بي سي\": الولايات المتحدة تركز على الشرق الأوسط أكثر من اللازم",
      "url": "https://www.bbc.com/arabic/articles/cq4gnjkl31z7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -549,13 +556,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-26T18:10:00.000Z",
      "seen": "2026-11-27T06:36:05.992Z"
-    },
-    {
-     "title": "مصر تدين بأشد العبارات اعتداءات استهدفت أراضي الكويت",
-     "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOZGV3ZUlieUdJaFVQVXo5UFhxaUNnTjBRVUFPSHpEajZYRW40OHRodXpkamRfdnRYdndBNlZKZ3AybmJ5aWZGcGVXZlVsOHB3RjM0aUdTY2VpYUc1ZlBfTGNCWW11aE03QTJYYWQ4RE9RWUxRU2dTVXhlUkxDU05hV2lGQnlOOTN3UHQ2dkZ6OTMybXZQT3BxVmFpNXIwYmNWYXV5UFd2aFBnLXhPNm0zTTQ2c2dIWGJSdDYzRHhDR1J6YUx3T3ByeG9yb1NJYUxUdUVlU3B4S0FBZWdKalNibFpySV9EdlBPUmw2R1ExUEZvZUlGNG5rU0s0dDdvakc4U090Q2VWNTNjbXhCSmgxSGR1aXFKdTNzYnFvam9WWmlxMmVyVjFyVldYd2xkVENhRkRfc1A2QXNhUkh1WEMwZmN6WER0R3dvVnY1bGNXamx5bWxzRlJsUEI1VjJVdVlWaTdqRGpJMlZucGdnRUhxQVdHVG52YkJRcC05OG11MTYzWjJmeEFKY05seWt5c3c2Ri11WU9yMWtNcVpXeE1DWTdyVTZKYVpwSnU2YVJFQ2ZIVEFfTEhybl91V0dScjhmTGVyODd5eEN5WE1L0gHHA0FVX3lxTE4ybDNXOG1NaVE5Z2NrTi1IdTdvbXB4Mk1SYVNQT1pXVnpmeUZrRkRGSXNQVjdhOEZFSGh5Tll2eXE4ckNDZmM1WlVXdXFBMzBwczFYemtBWkNRajRjbVhhR1FSSnc5ajYyVG5jNkZFRzN3S1hoLV9wR0tUUmdmSXcwSU11YUx3RWxYbHN6U3pleVhOSWZwTVN6VEF4ZDQ3MUV5dXVSc2xYRTNiRnU3dHNrSE5iTVY2RjB5ZWlnVkNLaXRmNFRQVjBfb2pDNmFkakktTEJKZ0JiWXZmTjlhdFN0SXQwR0lnRXU5S1hDcmFhMmN6dm9UWDczZXBST0tKWFEyemFOeG1DNWl4ZUZNSU9FTk96cjNZRHF1R0dBMVFBSHJKdU5JUkgybXpMbDRIejhHNDZWRm9ZZ1VKY0pEamNWcFA4SlNFOGc4SS0wQTBFWkVsMnJEd0FLTTZqTHVMNS1xVHpuOFBrbXIzdHM5NERIYV95STFCdnlwZjRRM2Z6VnBLT0hMNnB0UEViVVFwQU9LcFUzcGVweWhWWVFEQURQLWFPSUJFVWF1X3JDLWRDRHRBSXRQVHRLSnM1UWtTMXRaM1VaN3Fv?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-26T18:04:00.000Z",
-     "seen": "2026-11-26T20:44:32.329Z"
     }
    ]
   }
@@ -563,21 +563,6 @@
  "failed": [
   {
    "section": "egypt",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "egypt",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
-  },
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
-  {
-   "section": "economy",
    "feed": "news.google.com",
    "error": "HTTP 429"
   },
