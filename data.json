@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:48:32.003Z",
+ "updated": "2026-11-27T20:48:54.801Z",
  "minute": [
   "شهدت مصر متابعة لتداعيات حادث الوراق عبر تشييع الجثامين وصلاة الغائب وتلقي تبرعات بمئات ملايين الجنيهات.",
   "ارتفع سعر صرف الدولار مقابل الجنيه المصري بالبنك المركزي بأكثر من جنيه خلال أسبوع.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 10,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T20:48:32.003Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-27T20:48:54.801Z"
  },
  "markets": [
   {
@@ -63,9 +63,9 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0939,
-   "change": -0.28,
-   "asOf": "2026-11-27T20:47:45.000Z",
+   "value": 1.0937,
+   "change": -0.3,
+   "asOf": "2026-11-27T20:48:45.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59727,
-   "change": -1.27,
-   "asOf": "2026-11-27T20:48:29.000Z",
+   "value": 59711,
+   "change": -1.3,
+   "asOf": "2026-11-27T20:49:02.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "لجنة تحكيم دولة التلاوة تشيد بأداء محمد الطباخ: شيء فاخر ربنا يفتح عليك",
+     "url": "https://www.elbalad.news/7197009",
+     "source": "صدى البلد",
+     "time": "2026-11-27T20:48:01.000Z",
+     "seen": "2026-11-27T20:48:54.801Z"
+    },
+    {
      "title": "قانون الإجراءات الجنائية الجديد.. 3 شروط لتأجيل حبس الزوجين المسئولين عن أطفال",
      "url": "https://www.elbalad.news/7197007",
      "source": "صدى البلد",
@@ -150,13 +157,6 @@
      "url": "https://www.elbalad.news/7196988",
      "source": "صدى البلد",
      "time": "2026-11-27T20:46:32.000Z",
-     "seen": "2026-11-27T20:48:32.003Z"
-    },
-    {
-     "title": "شيخ الأزهر يعزي محافظ القاهرة في وفاة والدته",
-     "url": "https://www.elbalad.news/7197010",
-     "source": "صدى البلد",
-     "time": "2026-11-27T20:44:53.000Z",
      "seen": "2026-11-27T20:48:32.003Z"
     },
     {
@@ -179,6 +179,13 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T20:00:00.000Z",
      "seen": "2026-11-27T20:08:31.966Z"
+    },
+    {
+     "title": "مصر تتابع مصير مواطنيها بعد غرق سفينة قبالة سواحل كوبا",
+     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTFFmQXFvN3BidHM3MW5nMnZ2dWpyM2wwbVEwcGJnR2licE9SQzFaZzZPUlZad2p5R0hCck5pV0pyeDNSc0dGMVJ2bzF6RWt4Tnk0U2F0ZGVZaHhGV0dMLW45VURQMk5oSmVXdzRrcWhsdVMzT2ZXT0lmNXR3RUhLNktZU3dsUnk3SDhDRmxLVnloN1g5akRsbm0wdHk4MmtaUUFvVC1nUngwNjdSYjE3aE9BN2hQZG9XZ0ktOFRKdTFVY3Q1czh3a2gyNDVsejh3Q0tnXzN4TlREc19oQlpSMnJwdXlwcmJVVDF3dzJtd1VIa3VjbVUxNVFremlBX3BvSGd4dm43ZjlFckpUOVFSdUIzU1pCTEc1WnU5UUpkbDdZV3hyLUN6dkpCWDUxY2NXRzFBUUtCdGUwcVFXM0JsTjI4dlR3SFc1eDdERTNMWnU1a1FTTUZFdkpwZkl3MUt5cW9BbHdhUdIB7AJBVV95cUxNaXFycDJPXzIyTWNsTmxIdDFaYkhUakVUQmNsTjg3SXN1Rmpjak51aWJ0Mm1sLXRqNW1hSkI3a1lVWkFybzIwNkxpUHJKZXQyQUNJLS11QWs5RjJUemhidXpvLVYwVVRRcF8xX0swYnBtRENNbkVrTE1CWGNLX21vSkZkTllISS05UmViaVdJV1R4YnJGaW1GLTl1c0M1NzRGNTFNRlE2b3M5alI1cDJVeVVoaU9zNmJqR042bkJha1NITkRNeHh6dlBZMGVJNFVGbkVmRmtMS1NlcW5EdGZuTUVsdUZDNmhLLUxyUTBxMkJuZTh1UWNqdGhNVFNjNU1EX1Q0WVB6T1FnZGJUaTk1V2dZUTh0dTdoWUM3U1RhYm1JM1pFa0hiZm1IOUxiSV82TjNzN3pJOXNvQ1A0bHBhZ1FFQUprOUlSYmRodng2U2pjY1QxNWR4T0l1N0E1WFRCb2RSbzdCeThUdVBh?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-27T17:40:33.000Z",
+     "seen": "2026-11-27T20:48:54.801Z"
     },
     {
      "title": "كانت تقل 13 مصريا.. غرق سفينة قبالة كوبا",
@@ -227,13 +234,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQSVpuX1A0ejhoSTlLeUhjbjdtaVhwVjNwVTZoZkhFc29sdk1hWF9QUzZhQnVIZHR4VWtKU1lNSjdrQTNrZGRfR1NDMWZkYkYyVEhucUNYWTczSFZVcDlOQVBkNlV4UU5EUFR2X3FCMDJSZUZVVVBmUTFSWGw5Wmo1UXFKc1J2NzM1dU5XcjlhVm1FZnpDaWx1RlliVnYyNUpJMlpUeWpMTjBTNElxZHRpVEJQN1VnRHVDWWRWbmtmLVlxSUlJSWYwLV9SS01uUmYxaTNyb0ZGVEpjNW05bFJEaUJIcDRyMlQ2UWlRM3A4dEM2bGtKVUNnMHF5aUtOQzM0V3B5MVhnbE5OdVJybkpDa0dkMVlXa3BEUjdCb0w1eW9GeVd1TW5hdkRLbmQ1UXF5SUN4S2Nid1d3MkZsTU9UTVJYakoxYklhRnZvNWplS3V5UnV5d3R5NFJnQjJ6cUxpMWxnMEdzUEV0WkpySmtRT0JvXzJDRER4R0Q0THpVVnlCcUUtc2ZBVko0N0FoUUtqNjVCMGt0NmsyYUNNODJUbDBWSHMzLWQ2TlYwbm5zMnZ1M3VDTW1BbFl5amFRUnNCdWd1V3JpVktsWEEwbm5RZzN5Y3FBS20xbUFXRXRQSExPNnowX0pBY2FNMHZ2Qm0xSnl3a0l5eHRiU2lmTFh3RlhrakFrc0ZfbW4wZWdZZGJwTnpsRWgxVUlReG13bndaeHpuSXJ6RWZUWnpobEE2elVxWTNwOTVtMElrYmhtclM3OFJnQ19JWjBQN1d6WHJDZjByTUNTajR2Zw?oc=5",
      "source": "الهيئة الوطنية للإعلام",
      "time": "2026-11-27T17:02:00.000Z",
-     "seen": "2026-11-27T17:08:31.515Z"
-    },
-    {
-     "title": "تيسيرا على أسر ضحايا حريق الوراق.. تخصيص دائرة بمحكمة جنوب الجيزة لتسريع استخراج الإعلام الشرعي",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PVVRJdUNESEc2YUhLX1Vpby1NazFwbWN6NzhkRW82QWFVWFRfMVBYOXZrRGdsdGhkSXhnSFFVN3dYWnJtaTgxaHR1Tk53dWQ4OGhWc09fdmltU1BvUXUw?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-27T16:55:00.000Z",
      "seen": "2026-11-27T17:08:31.515Z"
     }
    ]
@@ -556,6 +556,12 @@
    ]
   }
  ],
- "failed": [],
+ "failed": [
+  {
+   "section": "tech",
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "no items"
+  }
+ ],
  "marketErrors": []
 }
