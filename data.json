@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-27T09:16:05.984Z",
+ "updated": "2026-11-27T09:26:06.178Z",
  "minute": [
-  "تناولت الأخبار المصرية تحركات عاجلة لإنقاذ صناعة الدواجن، إضافة إلى تقديم الشكر للمتبرعين لأهالي المتضررين بحادث حريق دائري الوراق.",
-  "شهد القطاع الاقتصادي تحديثات في أسعار صرف العملات الأجنبية والعربية مثل الدولار واليورو والدينار الكويتي مقابل الجنيه المصري في البنوك.",
-  "تكنولوجياً وعالمياً، قامت شركة أوبن آيه أي بتصحيح خطأ يسرع نفاد الاستخدام المجاني لـ ChatGPT، بالتوازي مع تحذيرات دولية من الارتفاع القياسي لدرجات الحرارة."
+  "تناولت الأخبار الاقتصادية تحديثات أسعار العملات الأجنبية والعربية مقابل الجنيه المصري، وحركة الأسهم العالمية والتطورات في قطاع الطاقة.",
+  "أبرزت الأخبار المحلية تصريحات وزارة التضامن الاجتماعي حول برامج المساعدات النقدية، وتوضيح دار الإفتاء لأحكام صلاة الغائب.",
+  "شهدت الساحة الدولية تحذيرات بشأن مخاطر الحرب النووية والتغيرات المناخية، إلى جانب متابعة الأوضاع والأحداث الميدانية في المنطقة."
  ],
  "ai": {
-  "at": "2026-11-27T08:36:06.255Z",
+  "at": "2026-11-27T09:26:06.178Z",
   "model": "gemini-3.6-flash",
-  "key": 2,
-  "impacts": 7,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-27T09:16:05.984Z"
+  "key": 1,
+  "impacts": 10
  },
  "markets": [
   {
@@ -27,27 +25,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5719,
-   "change": 5.09,
-   "asOf": "2026-11-27T09:07:51.000Z",
+   "value": 5715,
+   "change": 5.01,
+   "asOf": "2026-11-27T09:16:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6529,
-   "change": 5.09,
-   "asOf": "2026-11-27T09:07:51.000Z",
+   "value": 6524,
+   "change": 5.01,
+   "asOf": "2026-11-27T09:16:58.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3712,
-   "change": 4.97,
-   "asOf": "2026-11-27T09:07:51.000Z",
+   "value": 3709,
+   "change": 4.9,
+   "asOf": "2026-11-27T09:16:58.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +61,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.096,
-   "change": -0.09,
-   "asOf": "2026-11-27T09:17:45.000Z",
+   "value": 1.0965,
+   "change": -0.05,
+   "asOf": "2026-11-27T09:26:45.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.18,
-   "change": -2.57,
-   "asOf": "2026-11-27T09:07:47.000Z",
+   "value": 92.21,
+   "change": -2.54,
+   "asOf": "2026-11-27T09:16:35.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61682,
-   "change": 1.96,
-   "asOf": "2026-11-27T09:17:48.000Z",
+   "value": 61654,
+   "change": 1.92,
+   "asOf": "2026-11-27T09:26:55.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +137,34 @@
    "title": "مصر",
    "items": [
     {
+     "title": "دبلوماسي روسي يحذّر: الحرب النووية مع الناتو \"تقترب\"",
+     "url": "https://www.elbalad.news/7196361",
+     "source": "صدى البلد",
+     "time": "2026-11-27T09:18:40.000Z",
+     "seen": "2026-11-27T09:26:06.178Z"
+    },
+    {
+     "title": "8 مباريات في الجولة السابعة من دوري المحترفين لكرة اليد.. الأهلي والزمالك في مواجهتين قويتين",
+     "url": "https://www.elbalad.news/7196360",
+     "source": "صدى البلد",
+     "time": "2026-11-27T09:17:36.000Z",
+     "seen": "2026-11-27T09:26:06.178Z"
+    },
+    {
+     "title": "التضامن: برامج المساعدات النقدية تتكامل مع الحماية الاجتماعية لدعم سبل العيش",
+     "url": "https://www.youm7.com/story/2026/11/27/التضامن-برامج-المساعدات-النقدية-تتكامل-مع-الحماية-الاجتماعية-لدعم-سبل/7634163",
+     "source": "اليوم السابع",
+     "time": "2026-11-27T09:16:00.000Z",
+     "seen": "2026-11-27T09:26:06.178Z",
+     "impact": "يزود الفئات المستفيدة بمعلومات حول تكامل برامج الدعم النقدي والحماية الاجتماعية لدعم المستويات المعيشية."
+    },
+    {
      "title": "‏عبر خطوط الأنابيب .. تركيا تمدد عقد الغاز الإيراني حتى 2032",
      "url": "https://www.elbalad.news/7196356",
      "source": "صدى البلد",
      "time": "2026-11-27T09:15:40.000Z",
-     "seen": "2026-11-27T09:16:05.984Z"
-    },
-    {
-     "title": "اللهم احفظ مصر وأهلها.. وليد الفراج يعزي أسر ضحايا حادث الوراق",
-     "url": "https://www.elbalad.news/7196316",
-     "source": "صدى البلد",
-     "time": "2026-11-27T09:15:00.000Z",
-     "seen": "2026-11-27T09:16:05.984Z"
-    },
-    {
-     "title": "بث مباشر.. شعائر صلاة الجمعة من الحرمين الشريفين",
-     "url": "https://www.elbalad.news/7196358",
-     "source": "صدى البلد",
-     "time": "2026-11-27T09:14:24.000Z",
-     "seen": "2026-11-27T09:16:05.984Z"
+     "seen": "2026-11-27T09:16:05.984Z",
+     "impact": "يهتم به المتابعون لقطاع الطاقة الإقليمي وتأثير اتجاهات وتدفقات الغاز على الأسواق العالمية."
     },
     {
      "title": "دار الإفتاء توضح حكم صلاة الغائب على الضحايا وتكشف كيفية أدائها في المنزل",
@@ -179,13 +186,6 @@
      "source": "Masrawy",
      "time": "2026-11-27T09:01:51.000Z",
      "seen": "2026-11-27T09:16:05.984Z"
-    },
-    {
-     "title": "الصحة: فحص 25.5 مليون مواطن ضمن مبادرة الكشف المبكر عن الأمراض المزمنة",
-     "url": "https://www.youm7.com/story/2026/11/27/الصحة-فحص-25-5-مليون-مواطن-ضمن-مبادرة-الكشف-المبكر/7634084",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T08:47:00.000Z",
-     "seen": "2026-11-27T08:56:05.426Z"
     },
     {
      "title": "نزع ملكية أراضٍ بالإسكندرية والبحيرة لتطوير الطريق الدولي الساحلي",
@@ -247,14 +247,16 @@
      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOVUtnX2lNbG5PTzBtQXkwdzZGT0FwYzNjenVnVW1jT2lLMmVrZUVYWi1Iak9mNGVVYUV5emROVDZzUG81d0tBdEgwUV9lQ0FzUkFRQ2lSTDRtZnMyY2U3M0c0aHlsUWNvTTVTNTZYNlVkNXl5bUlMWWFWRXJOWVYyZ2piQW94cjV1andlRS1SQUhQS1lWRlZucmdfRE5SU2FNR0dsMFNRWDFuMkRyeUZxRDFkZXoxenp2THFZQ3NPN2JnMTZNN09VY3YtMTE0MlFRNnF5QW5mRW5xMjJ5NXJrRUd1SG5QczVfZWszVnQ2QXYxMy1SeFVNcnV6RTlidkxxTzZ2XzZzZGl4NlJPRUhReWZFb2NTeE5jN1FpRGVmQVp1c3hWR0ZlMUhDRHpzR3VTQ1dCNDhkX2M5MHZyWFY3UGNCajM2RGdCd1I0MFAwQ01CYnFVUVNuZWExZHZDRFln?oc=5",
      "source": "عالم المال",
      "time": "2026-11-27T09:12:32.000Z",
-     "seen": "2026-11-27T09:16:05.984Z"
+     "seen": "2026-11-27T09:16:05.984Z",
+     "impact": "يهتم به المسافرون والمستثمرون والمقبلون على العمرة لمعرفة أسعار صرف الريال السعودي مقابل الجنيه."
     },
     {
      "title": "سعر الدولار الأمريكي أمام الجنيه المصري خلال تعاملات اليوم 27 نوفمبر 2026",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQTGFUdDAyUVRKTFVaTGt3cE1qMzJNa3pPcmktRFJpZks1bzdVMVpyaG9PcWZDTVpCaXNfY3kwZmp4RV9lMWJUYzJuRFQtTlh6Rk1NbkpzTVIwN016TVBJdkZFYW5RaktSZEJiYl94bHd3b0YtWHhCT2ZkS3lQOXBLcnJHLXZiNkxlSXlIZWJxUWZwNzNjWnlRNjFhcGh0RDlpRGozM1JtaGZGZkhRRDhveF82NjFndDBsZTA3YktOczJUSFhQZXhFYVFzWk4zYTlzZlhrazU5RFdMWF9UcGdRZ2dWT2o1bUl0X3ZYc1RVRWs5WlBnNm9RRk9oMVhhOTZDWmpUa1B4cE1GaDAxcUVLWGpEZlFDOGhQRExLZDQ1ckJMbGtyVlZIbjJ6ZkJKaUNlU3MxNXM1cEw0Rnd3Uk1YYUREUDUtYk1OODJjcG1wbnJhUVpyMW1ZY3NSOGYxNFdLVWRkRmpuUnlKMjVwVzZHSzBqUGhhU3c?oc=5",
      "source": "بوابة أخبار اليوم الإلكترونية",
      "time": "2026-11-27T08:59:19.000Z",
-     "seen": "2026-11-27T09:06:05.390Z"
+     "seen": "2026-11-27T09:06:05.390Z",
+     "impact": "ساعد المستوردين والمستثمرين والأفراد في مصر على متابعة حركة سعر صرف الدولار وتأثيره على أسواق السلع والتجارة."
     },
     {
      "title": "سعر الدولار اليوم الجمعة 27- 11- 2026 أمام الجنيه",
@@ -262,7 +264,7 @@
      "source": "اليوم السابع",
      "time": "2026-11-27T08:25:00.000Z",
      "seen": "2026-11-27T08:36:06.255Z",
-     "impact": "ساعد المستثمرين والمواطنين في مصر على متابعة حركة سعر صرف الدولار أمام الجنيه لتحديد تكاليف السلع والاستيراد."
+     "impact": "يوفر للمتعاملين مع البنوك تحديثاً مباشراً لأسعار شراء وبيع الدولار الأمريكي لاستخداماتهم المالية المختلفة."
     },
     {
      "title": "تركيا تصادق على اتفاقية مكة للدفاع المشترك قبيل اجتماع ثلاثي في إسلام آباد",
@@ -277,7 +279,7 @@
      "source": "الوطن",
      "time": "2026-11-27T08:00:27.000Z",
      "seen": "2026-11-27T08:26:05.961Z",
-     "impact": "يهُم المقيمين والأسر في مصر لمتابعة أسعار صرف الدينار الكويتي وتحويلات العاملين بالخارج."
+     "impact": "يهم العاملين في الخارجي وأسرهم والمستثمرين لمتابعة أسعار تحويل وصرف الدينار الكويتي."
     },
     {
      "title": "سعر اليورو اليوم الجمعة 27 نوفمبر 2026 في البنوك أمام الجنيه",
@@ -353,6 +355,13 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مصدر لسكاي نيوز عربية: غارة إسرائيلية تستهدف نجل خليل الحية",
+     "url": "https://www.skynewsarabia.com/middle-east/1907481-%D9%85%D8%B5%D8%AF%D8%B1-%D9%84%D8%B3%D9%83%D8%A7%D9%8A-%D9%86%D9%8A%D9%88%D8%B2-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%AC%D9%84-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D9%8A%D8%A9",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-27T09:15:20.000Z",
+     "seen": "2026-11-27T09:26:06.178Z"
+    },
+    {
      "title": "مقتل 11 مدنياً في قصف للجيش السوداني بغرب كردفان",
      "url": "https://www.skynewsarabia.com/middle-east/1907478-%D9%85%D9%82%D8%AA%D9%84-11-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%A8%D8%BA%D8%B1%D8%A8-%D9%83%D8%B1%D8%AF%D9%81%D8%A7%D9%86",
      "source": "سكاي نيوز عربية",
@@ -364,7 +373,8 @@
      "url": "https://www.dw.com/ar/تحذير-من-عواقب-الارتفاع-القياسي-لدرجة-الحرارة-في-العالم-ودعوة-لخفض-الانبعاثات-الغازية/a-80071015?maca=ara-rss-ar-all-1125-rdf",
      "source": "DW عربية",
      "time": "2026-11-27T08:23:00.000Z",
-     "seen": "2026-11-27T08:26:05.961Z"
+     "seen": "2026-11-27T08:26:05.961Z",
+     "impact": "يهم الأفراد والمستثمرين لمتابعة التحذيرات المناخية العالمية والتوجهات الصارمة نحو تقليل الانبعاثات وتأثيرها البيئي."
     },
     {
      "title": "أجنحة خاصة وصالات فاخرة..الاتحاد للطيران تطلق تجربة سفر جديد",
@@ -392,13 +402,6 @@
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261127-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%B3%D9%81%D9%86-%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A",
      "source": "فرانس 24",
      "time": "2026-11-27T07:44:11.000Z",
-     "seen": "2026-11-27T07:46:05.575Z"
-    },
-    {
-     "title": "غزة.. مقتل شخصين بقصف إسرائيلي في مواصي خان يونس وجباليا",
-     "url": "https://www.skynewsarabia.com/middle-east/1907451-%D8%BA%D8%B2%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%A7%D8%B5%D9%8A-%D8%AE%D8%A7%D9%86-%D9%8A%D9%88%D9%86%D8%B3-%D9%88%D8%AC%D8%A8%D8%A7%D9%84%D9%8A%D8%A7",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T07:40:42.000Z",
      "seen": "2026-11-27T07:46:05.575Z"
     },
     {
@@ -462,7 +465,8 @@
      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQaGFma1hoVXo1MG4zUFVydDJ0dDcxel9lNU1aMVUyUjB5T0d2U3JVRkpRRVpUOWx6eEpNU1dmMVFLV2kxZmxPem1JZ25pTzFld1huZnE3emZpajJjeVgtdmlIc0pZcGRlRFdTNWRPa1FTN3liYnpYT1hvd3ZXazYwNk81SXh0eGZEUUZlb19xQ1FTd0J1YjdqeEk1SFpfQ2YtSDRDenJDbUpNbFM1eHNKMUhVRUJiQXJTVlpCTTlMZkw1d0VaRnNGUEU2NmlqenVyVFBkVG9STjYxc1Y5TTJIMXJCY2Z1Vkp3UjF6endpLVRaVDlueEZOdkp1MjZ0Y3o0WDFZM1VmRko5ZFhvZlZ1c2JXd2dWaFN2RlhlMjN3RzN6YTViZnFqVXgxU0RHSlZPdEtyTHlpaHpwUGRmVXpELS01Z0RaQTZRdnRSRW14NGxaMV9tdGJ0X3F1V3ZRRnVTMk5icTlHUnAxTkhCUXhyQkxLMnYxdDk2aGh6NlZ1bmRmVDN2cWFMWUduRnJxX2tCSjBiT2lkc1JtaVF5am15NEdIWVNOaUF5REpoNDVnNm41YW1XTU9oM1hvVHlid0nSAcQDQVVfeXFMT0xqZ25qWXlfV1RWVndDNjhSSE84RE1YZF8tZTF2VllHbTQyU1A5QW1xTVN2LXBHbHNuZzVUMTY2U3FYX2JrcFJfbHRZMmJLQ0sxbWhVaGV6V1ZqNE1qMWYyTzZIZzRYR290WnlKT2JjTFEyeXlER1R3RnlLNk54ekpZOTN4TlREM0tqT0I0Y3Nud3hrUDlNb2MtZ1hhaDl4Zzd4Um5oSWw1Ti1YUjNVOHNBdmdoWndVc01YYnRpNVBGaXNmVTR1LUhWN3Y0TTgwRE1YX2JKU2ZzYmg5R3NRbUNOWVh3RkZBMHJmRFhiYmk4Y1lwOWFXVmQzcTlzbnd4WXlrRmdjVHRoSnllUUNhX010djRoOEt6OVhRdDNtQnlIZUY5RVBPUkpIaGJxR0JvMC1ES0paTlkyYmdZeVREMy1kSFlJTGRfU2NLc3J4cUx4Vmkybm04Xzk2bmpjN2g4RHVLWkwyMmRmcUJRNGpsZUFuWWNWMmdtYWpTNlZqRWNQZzNiN29ERlFmNmk2LUtmdTVIQkhCeFVOTUE3MFV3bVIxczBSV0o0NXdrMTdrem03WGJnNjIwTl93NGlxUHN2V2ZBLTY?oc=5",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-27T07:20:44.000Z",
-     "seen": "2026-11-27T08:36:06.255Z"
+     "seen": "2026-11-27T08:36:06.255Z",
+     "impact": "يهتم به المستثمرون في القطاع التكنولوجي لمتابعة تأثير قيود الرقائق الإلكترونية على العلاقات التجارية وسلاسل التوريد."
     },
     {
      "title": "بحجم كلب.. اكتشاف أكبر عقرب في العالم",
@@ -477,7 +481,7 @@
      "source": "الشرق بلومبرغ",
      "time": "2026-11-27T04:52:42.000Z",
      "seen": "2026-11-27T08:06:05.697Z",
-     "impact": "يهُم المهتمين بالاستثمار في الأسواق المالية لمتابعة اتجاهات الأسهم العالمية وتعافي قطاع التكنولوجيا."
+     "impact": "يفيد المستثمرين والمتعاملين في البورصة بمتابعة حالة التعافي في الأسهم العالمية وقطاع التكنولوجيا."
     },
     {
      "title": "زيلينسكي لـ \"بي بي سي\": الولايات المتحدة تركز على الشرق الأوسط أكثر من اللازم",
@@ -492,7 +496,7 @@
      "source": "BBC عربي",
      "time": "2026-11-27T00:16:45.000Z",
      "seen": "2026-11-26T12:34:17.426Z",
-     "impact": "التطورات الأمنية قرب المنشآت النفطية بالسعودية تهم المستثمرين لمتابعة أثرها المحتمل على أسواق الطاقة."
+     "impact": "يهتم به متابعو أسواق الطاقة والنفط لرصد مدى تأثر الإمدادات وأسعار الخام بالهجمات والتطورات الأمنية الإقليمية."
     },
     {
      "title": "إيران تنفي مسؤوليتها عن مقتل إيطاليَيْن في هجوم بالكويت",
@@ -565,14 +569,19 @@
  ],
  "failed": [
   {
+   "section": "world",
+   "feed": "news.google.com",
+   "error": "HTTP 429"
+  },
+  {
    "section": "tech",
-   "feed": "البوابة العربية للأخبار التقنية",
+   "feed": "www.bing.com",
    "error": "no items"
   },
   {
    "section": "tech",
-   "feed": "news.google.com",
-   "error": "HTTP 429"
+   "feed": "البوابة العربية للأخبار التقنية",
+   "error": "no items"
   }
  ],
  "marketErrors": []
