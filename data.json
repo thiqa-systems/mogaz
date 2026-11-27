@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:26:05.908Z",
+ "updated": "2026-11-27T07:36:05.421Z",
  "minute": [
   "تابعت الأوساط المحلية في مصر تداعيات حادث دائري الوراق والإجراءات الخدمية الخاصة بالكهرباء والاستعداد لموسم الأمطار.",
   "ركزت الأخبار الاقتصادية على متابعة تحديثات سعر الدولار في البنوك المصرية وعروض تخفيضات الجمعة البيضاء.",
@@ -11,7 +11,7 @@
   "key": 2,
   "impacts": 8,
   "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-27T07:26:05.908Z"
+  "errorAt": "2026-11-27T07:36:05.421Z"
  },
  "markets": [
   {
@@ -27,27 +27,27 @@
    "id": "gold21",
    "name": "ذهب عيار 21 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 5682,
-   "change": 4.42,
-   "asOf": "2026-11-27T07:16:03.000Z",
+   "value": 5679,
+   "change": 4.36,
+   "asOf": "2026-11-27T07:26:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold24",
    "name": "ذهب عيار 24 (تقديري)",
    "unit": "ج.م/جرام",
-   "value": 6488,
-   "change": 4.42,
-   "asOf": "2026-11-27T07:16:03.000Z",
+   "value": 6484,
+   "change": 4.36,
+   "asOf": "2026-11-27T07:26:00.000Z",
    "source": "محسوب من سعر الذهب العالمي وسعر الدولار"
   },
   {
    "id": "gold",
    "name": "الذهب عالمياً",
    "unit": "$/أونصة",
-   "value": 3688,
-   "change": 4.3,
-   "asOf": "2026-11-27T07:16:03.000Z",
+   "value": 3686,
+   "change": 4.24,
+   "asOf": "2026-11-27T07:26:00.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -63,18 +63,18 @@
    "id": "eurusd",
    "name": "اليورو / دولار",
    "unit": "$",
-   "value": 1.0978,
-   "change": 0.07,
-   "asOf": "2026-11-27T07:25:47.000Z",
+   "value": 1.0975,
+   "change": 0.04,
+   "asOf": "2026-11-27T07:35:47.000Z",
    "source": "Yahoo Finance"
   },
   {
    "id": "brent",
    "name": "خام برنت",
    "unit": "$/برميل",
-   "value": 92.59,
-   "change": -2.14,
-   "asOf": "2026-11-27T07:15:51.000Z",
+   "value": 92.35,
+   "change": -2.39,
+   "asOf": "2026-11-27T07:24:16.000Z",
    "source": "Yahoo Finance"
   },
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 61785,
-   "change": 2.13,
-   "asOf": "2026-11-27T07:26:07.000Z",
+   "value": 61761,
+   "change": 2.09,
+   "asOf": "2026-11-27T07:36:04.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,17 +139,31 @@
    "title": "مصر",
    "items": [
     {
+     "title": "بتكلفة تفوق الـ ٢ مليار جنيه وعلي مساحة ٤٠ ألف متر مربع .. إسناد تنفيذ مستشفى سفاجا المركزي الجديد",
+     "url": "https://www.elbalad.news/7196250",
+     "source": "صدى البلد",
+     "time": "2026-11-27T07:33:34.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
+    },
+    {
+     "title": "دراسة جديدة عن كورونا: استمرار صعوبات التنفس لسنوات بعد الإصابة الأولية",
+     "url": "https://www.elbalad.news/7195316",
+     "source": "صدى البلد",
+     "time": "2026-11-27T07:30:00.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
+    },
+    {
+     "title": "بعد تساؤله عن مصير تبرعات \"واقعة الوراق\".. وزيرة التضامن ترد على صلاح عبدالله: \"سنعلن بالأوراق الرسمية أين ذهب كل جنيه ونتحمل الأمانة أمام الله\"",
+     "url": "https://www.elbalad.news/7196265",
+     "source": "صدى البلد",
+     "time": "2026-11-27T07:28:08.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
+    },
+    {
      "title": "وزيرة التضامن: نعلن كل جنيه بالأوراق ونتحمل الأمانة أمام الله في حادث الوراق",
      "url": "https://www.youm7.com/story/2026/11/27/وزيرة-التضامن-نعلن-كل-جنيه-بالأوراق-ونتحمل-الأمانة-أمام-الله/7633989",
      "source": "اليوم السابع",
      "time": "2026-11-27T07:24:00.000Z",
-     "seen": "2026-11-27T07:26:05.908Z"
-    },
-    {
-     "title": "علي معلول ينعى ضحايا حادث الوراق ويتمنى الشفاء العاجل للمصابين",
-     "url": "https://www.elbalad.news/7196236",
-     "source": "صدى البلد",
-     "time": "2026-11-27T07:22:19.000Z",
      "seen": "2026-11-27T07:26:05.908Z"
     },
     {
@@ -164,20 +178,6 @@
      "url": "https://www.youm7.com/story/2026/11/27/نائب-وزارة-التضامن-تبحث-مع-ممثلة-باليونيسف-تعزيز-التعاون-ودعم/7633987",
      "source": "اليوم السابع",
      "time": "2026-11-27T07:20:00.000Z",
-     "seen": "2026-11-27T07:26:05.908Z"
-    },
-    {
-     "title": "اشترى الذهب وخزنه.. الحكم الشرعي للاستثمار بالمعدن الأصفر",
-     "url": "https://www.elbalad.news/7196258",
-     "source": "صدى البلد",
-     "time": "2026-11-27T07:18:55.000Z",
-     "seen": "2026-11-27T07:26:05.908Z"
-    },
-    {
-     "title": "جسدتها شهامة المصريين.. فضل إغاثة الملهوف وإنقاذ المصابين في الإسلام",
-     "url": "https://www.elbalad.news/7196260",
-     "source": "صدى البلد",
-     "time": "2026-11-27T07:17:23.000Z",
      "seen": "2026-11-27T07:26:05.908Z"
     },
     {
@@ -353,6 +353,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "مصر.. السفارة الأمريكية بالقاهرة تعزي بحادث حريق دائري الوراق",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/egypt-us-embassy-fuel-tanker-fire-incident-in-the-warraq-area-of-giza",
+     "source": "CNN بالعربية",
+     "time": "2026-11-27T07:28:24.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
+    },
+    {
+     "title": "تحذير إيراني لكوريا الجنوبية مع تأهب سول لتوسيع دورها البحري",
+     "url": "https://www.dw.com/ar/تحذير-إيراني-لكوريا-الجنوبية-مع-تأهب-سول-لتوسيع-دورها-البحري/live-80056516?maca=ara-rss-ar-all-1125-rdf",
+     "source": "DW عربية",
+     "time": "2026-11-27T07:04:00.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
+    },
+    {
      "title": "سلاح حزب الله.. التنسيق السوري اللبناني يضيّق الإمداد",
      "url": "https://www.skynewsarabia.com/middle-east/1907431-%D8%B3%D9%84%D8%A7%D8%AD-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%B6%D9%8A%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF",
      "source": "سكاي نيوز عربية",
@@ -402,6 +416,13 @@
      "seen": "2026-11-27T06:06:05.649Z"
     },
     {
+     "title": "تقرير من الرياض في ظل تصعيد الحوثيين لهجماتهم بالطائرات المسيرة والصواريخ",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UUjFnczQ4Q1VXb3h1MnY4VXkxTDZpS1EyOTlQeGlkSlc3RkUyejRpVU5xcjZDQmUwTk1WS1BfenN1c2pwRXdwVUhOUzdILVdrbTVXcXFSYlBzbUVTSnfSAWNBVV95cUxQQmtPUHAyWm1PbENLdk10cmtVeVFPUHFFMG5UVUg3LVJKWlpDUTBRNWFTYVV4WDdPbW55dVVBN1RyTW0xaXFZNEdLMTJKenlJa2JWUWZjek5fOWpTcEZIT0pWVWs?oc=5",
+     "source": "BBC",
+     "time": "2026-11-27T04:52:16.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
+    },
+    {
      "title": "ترامب يبين إن كانت هناك أنشطة رصدت في جبل الفأس بإيران ويؤكد: نحاول إعطاءهم فرصة ليكونوا أذكياء",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/27/trump-we-would-absolutely-hit-pickaxe-mountain-but-no-activity",
      "source": "CNN بالعربية",
@@ -409,46 +430,25 @@
      "seen": "2026-11-27T04:46:05.887Z"
     },
     {
-     "title": "أحرقوا منزله ثم عادوا بجرافة.. مستوطنون يهدمون ممتلكات فلسطيني في الضفة الغربية",
-     "url": "https://arabic.cnn.com/middle-east/video/2026/11/27/v206034-settlers-torched-his-home-then-came-the-bulldozer",
-     "source": "CNN بالعربية",
-     "time": "2026-11-27T04:19:48.000Z",
-     "seen": "2026-11-27T04:26:06.225Z"
-    },
-    {
-     "title": "قتلى وجرحى في ضربات متبادلة وكييف تحذر من هجوم روسي واسع",
-     "url": "https://www.aljazeera.net/news/2026/11/27/%d9%82%d8%aa%d9%84%d9%89-%d9%88%d8%ac%d8%b1%d8%ad%d9%89-%d9%81%d9%8a-%d8%b6%d8%b1%d8%a8%d8%a7%d8%aa-%d9%85%d8%aa%d8%a8%d8%a7%d8%af%d9%84%d8%a9-%d9%88%d9%83%d9%8a%d9%8a%d9%81-%d8%aa%d8%ad%d8%b0%d8%b1?traffic_source=rss",
+     "title": "\"ثورة على الاحتلال\".. لاعبو بشكتاش يلتقطون صورة أمام لافتة داعمة لفلسطين (فيديو)",
+     "url": "https://www.aljazeera.net/sport/2026/11/27/%d8%ab%d9%88%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d9%84%d8%a7%d8%b9%d8%a8%d9%88-%d8%a8%d8%b4%d9%83%d8%aa%d8%a7%d8%b4?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-27T03:55:45.000Z",
-     "seen": "2026-11-27T07:06:06.231Z"
+     "time": "2026-11-27T04:30:00.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
     },
     {
-     "title": "\"الجمعة السوداء\".. كيف تتسوق بذكاء وتتجنب العروض الوهمية؟",
-     "url": "https://www.aljazeera.net/ebusiness/2026/11/27/%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1-%d9%83%d9%8a%d9%81-%d8%aa%d8%aa%d8%b3%d9%88%d9%82-%d8%a8%d8%b0%d9%83%d8%a7%d8%a1?traffic_source=rss",
+     "title": "عاملة نظافة تركية تخطف الأنظار بإسطنبول.. ما قصة الفيديو الذي شاهده الملايين؟",
+     "url": "https://www.aljazeera.net/news/2026/11/27/%d8%b9%d8%a7%d9%85%d9%84%d8%a9-%d9%86%d8%b8%d8%a7%d9%81%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a9-%d8%aa%d8%ae%d8%b7%d9%81-%d8%a7%d9%84%d8%a3%d9%86%d8%b8%d8%a7%d8%b1?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-27T03:40:32.000Z",
-     "seen": "2026-11-27T07:06:06.231Z"
+     "time": "2026-11-27T04:24:27.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
     },
     {
-     "title": "من التنين إلى التفاحة.. هذه أسلحة تركيا التي تفوقت بها على الغرب",
-     "url": "https://www.aljazeera.net/tech/2026/11/27/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%ad%d8%a9-%d9%87%d8%b0%d9%87-%d8%a3%d8%b3%d9%84%d8%ad%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7?traffic_source=rss",
+     "title": "أستراليا تفرض عقوبات على شخصين تتهمهما بتدبير هجمات لصالح إيران",
+     "url": "https://www.aljazeera.net/news/2026/11/27/%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d9%81%d8%b1%d8%b6-%d8%b9%d9%82%d9%88%d8%a8%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86?traffic_source=rss",
      "source": "الجزيرة",
-     "time": "2026-11-27T03:33:32.000Z",
-     "seen": "2026-11-27T07:06:06.231Z"
-    },
-    {
-     "title": "الدوري الأوروبي: مواجهات خلال مباراة بشيكتاش التركي وفريق إسرائيلي تستدعي تدخلا دبلوماسيا",
-     "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261127-%D8%A8%D8%B4%D9%8A%D9%83%D8%AA%D8%A7%D8%B4-%D9%87%D8%A8%D9%88%D8%B9%D9%8A%D9%84-%D8%A8%D8%A6%D8%B1-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9-%D9%84%D8%A7%D9%81%D8%AA%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-27T02:56:07.000Z",
-     "seen": "2026-11-27T03:34:51.268Z"
-    },
-    {
-     "title": "بعد خلافات حادة.. اختتام مفاجئ للقمة الأوروبية الاستثنائية",
-     "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQNWZaT296LTQ5TU5pSE5zOEJFYlRGajJMajcxbDBRTFhLM3R0blZGeW94cEZjX0NTZ0JwSWprSGZGR3c4YXBpcHVmNnJNeFUyRmI0R3ZZVmN3OE8yT1pCaGpBMWhWQkNFRFNocm9PNXdOWG1uZ2RheWN5NG9RcTRITWFLdkNwWUtZTm1NZEt3UFh2Yno0TEhMTjVUcFNiRmdEUFExUnhMWkQ5NFVKUHhVVC03clMyM1Npb3JzT00zNllHQ21rR2tTX2FhWXpJd1loZENMNWlXdkczSWFRSzBBX0VjYVF6S2ZIeGVEY2pNX2Y2bWtnWTkwVmpfUTJiQ1RGelhIY01xZjV4VlBuSU1BVmlUdU5iLXhoSWJxYjZJa0ZWWmVNUkFhWmxmMTlCVUZQQjVXalRCU3FkcWZRdC1XMGVNLVZCNUR1SHAxcU84VVhvRk5JS19tdm10SUZHeGxsb1lIMWlONUVQdWZuaUd6QmZ2MUFLa1FrYy0tNWh1ejdBUEVHRVR1WW14d3R5YUZveXR4VWpwdEhnZ29wQ3VUX09qaU1rLTRXdV9QNTBvNDhrVTRLcmJDcUhTcmhGRlY4SExGTktPazkzWEFMbjRr0gHUA0FVX3lxTFB5dkRVbGl0OUdkaHRJcndZcEVXdk1MM25RZWZabnVhMVpfTG5uc3FDbGQ5SlE5dW9IdmppY1BfTjZkeHRuLTNDZjZoNlkxZndQMlFhTE4xRW96dElra1JNUXBQUGhLWlJyWGZkWU82MEZXaVdOdTJna29RS05FbkZDT3FrbFdkN3VuUk9zS2dMcHBlQWpCbjA3MjNocmR5RlNMQkROVGZ4anZhajFVOXJscWw5VE1QUmw3R3VoVzFwVzE5blVNOUJ6WERERTE3Y0s5YkMwNllwREM5VXVSdEJ0Ti1vXy1FY3ZLWm9ueWxoR3NDRWJZVW9wQ3RtR0RzY2c3S2owZmJ6RWdGWF9nVzhWTUpwQk9uMmNrRmtGdjg5bjQwa2NwTWoyX2R0Um9rejJjcUI1ZVhJSkc2Z1N0cV9nbTdETVl0S2MyejJfSkxVcmF6ZGtTOHZidVFmVUdZZ0FMZkZtWVItTXQ0cllnN3NRTFJsbEVlb3Q1UTU0TjVRaGROdG1fZzRESWYwM0V6QU56NWZ3X09DSkdFY2k4TXVuckZLUWp1dHpYVmdmQWZoYVZaYlkwZG83UTlSVWNVOXgwbkxUWGxmWER0LUdnMWh0c1lGTg?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T02:17:48.000Z",
-     "seen": "2026-11-27T04:26:06.225Z"
+     "time": "2026-11-27T04:20:40.000Z",
+     "seen": "2026-11-27T07:36:05.421Z"
     }
    ]
   },
@@ -561,11 +561,6 @@
   }
  ],
  "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  },
   {
    "section": "tech",
    "feed": "البوابة العربية للأخبار التقنية",
