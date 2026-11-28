@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:29:11.172Z",
+ "updated": "2026-11-28T07:39:11.085Z",
  "minute": [
   "تتابع الأسواق المصرية تحديثات أسعار الذهب والدولار، إلى جانب تحركات حكومية شملت جولات تفقدية ودعم قطاع الزراعة.",
   "أصدرت الأرصاد الجوية تحذيرات من شبورة كثيفة وانخفاض الرؤية، بينما وصت لجنة بالبرلمان المصري بحجب إحدى الألعاب الإلكترونية.",
@@ -10,8 +10,8 @@
   "model": "gemini-3.6-flash",
   "key": 1,
   "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 503; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-28T07:29:11.172Z"
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-28T07:39:11.085Z"
  },
  "markets": [
   {
@@ -90,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59631,
-   "change": -0.39,
-   "asOf": "2026-11-28T07:29:11.000Z",
+   "value": 59691,
+   "change": -0.29,
+   "asOf": "2026-11-28T07:39:27.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,25 +139,39 @@
    "title": "مصر",
    "items": [
     {
-     "title": "ذعر في إسرائيل.. إنذار صحي بعد العثور على كلب مصاب بـ\"السعار\"",
-     "url": "https://www.elbalad.news/7197251",
+     "title": "باكستان: ارتفاع حصيلة ضحايا انهيار مبنى قيد الإنشاء في مدينة \"كراتشي\" إلى 11 قتيلا",
+     "url": "https://www.elbalad.news/7197264",
      "source": "صدى البلد",
-     "time": "2026-11-28T07:28:15.000Z",
-     "seen": "2026-11-28T07:29:11.172Z"
+     "time": "2026-11-28T07:38:59.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
     },
     {
-     "title": "إيران: أي مكان في العالم يطلق منه النار علينا سيكون هدفا مشروعا لنا",
-     "url": "https://www.elbalad.news/7197247",
+     "title": "النفط الكويتي يرتفع بمقدار 1.27 دولار ليصل إلى 82.11 دولار للبرميل",
+     "url": "https://www.elbalad.news/7197259",
      "source": "صدى البلد",
-     "time": "2026-11-28T07:27:37.000Z",
-     "seen": "2026-11-28T07:29:11.172Z"
+     "time": "2026-11-28T07:35:24.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
     },
     {
-     "title": "تعرف على أسعار العملات الأجنبية والعربية مقابل الجنيه اليوم",
-     "url": "https://www.elbalad.news/7197243",
+     "title": "وسط ضغوط اقتصادية وأمنية.. السعودية تُعيد ترتيب أولويات إنفاق رؤية 2030",
+     "url": "https://www.elbalad.news/7197257",
      "source": "صدى البلد",
-     "time": "2026-11-28T07:25:41.000Z",
-     "seen": "2026-11-28T07:29:11.172Z"
+     "time": "2026-11-28T07:32:06.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
+    {
+     "title": "مياه الجيزة تعاين هبوطا أرضيا بشارع البوهى وتؤكد سلامة شبكة الصرف",
+     "url": "https://www.youm7.com/story/2026/11/28/مياه-الجيزة-تعاين-هبوطا-أرضيا-بشارع-البوهى-وتؤكد-سلامة-شبكة/7635012",
+     "source": "اليوم السابع",
+     "time": "2026-11-28T07:32:00.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
+    {
+     "title": "أمانة المراكز الطبية المتخصصة تحصد التميز الوطني في علاج الجلطات القلبية الحادة",
+     "url": "https://www.youm7.com/story/2026/11/28/أمانة-المراكز-الطبية-المتخصصة-تحصد-التميز-الوطني-في-علاج-الجلطات/7635011",
+     "source": "اليوم السابع",
+     "time": "2026-11-28T07:30:00.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
     },
     {
      "title": "الدكتور طارق توفيق رئيسا للجنة العلمية للمتحف المصري بتورينو الإيطالية",
@@ -165,20 +179,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-28T07:15:00.000Z",
      "seen": "2026-11-28T07:19:10.538Z"
-    },
-    {
-     "title": "تحذير عاجل من الأرصاد.. حالة عدم استقرار في الأحوال الجوية تبدأ الإثنين",
-     "url": "https://www.youm7.com/story/2026/11/28/تحذير-عاجل-من-الأرصاد-حالة-عدم-استقرار-في-الأحوال-الجوية/7634988",
-     "source": "اليوم السابع",
-     "time": "2026-11-28T07:08:00.000Z",
-     "seen": "2026-11-28T07:09:11.087Z"
-    },
-    {
-     "title": "امتحانات الثانوية العامة 2027.. تجهيز النماذج الاسترشادية للتدريب على الأسئلة",
-     "url": "https://www.youm7.com/story/2026/11/28/امتحانات-الثانوية-العامة-2027-تجهيز-النماذج-الاسترشادية-للتدريب-على-الأسئلة/7633442",
-     "source": "اليوم السابع",
-     "time": "2026-11-28T07:00:00.000Z",
-     "seen": "2026-11-28T07:09:11.087Z"
     },
     {
      "title": "محمود سعد عن حادث الوراق: كلنا شاركنا في الكارثة.. وغياب النظام والقانون وراء تكرار الحوادث",
@@ -243,6 +243,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "استقرار سعر الدولار الأمريكي أمام الجنيه المصري بداية تعاملات اليوم 28 نوفمبر",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcklFU1VpekpWUnBtTWZsQzY1dkVkS3R2MEljSnF1MmRzMlcwb0JKZ0NiWGE0UFRER1hPSkZwNTZTQ1RQRkVTQnFVOEhMYW9OX29CWm0wRkhMRUJzd2pLUjZGWFJlbnFPUkNPMk9tTno0Rm9qaHRhWkNGMEdvakhrZS1HMERaMlp2V0E2WjhqeXZCN0M2M1MzdVBNVGVQNHRLWElsM3lhMWR6VTlNX3R0Ti1ibXpMbkNJdHMtOHNGaERyOTRZNnozSTlLMnozT3dtc0pRQWxrdS1KREQ0MHF0WVBpRGhOYnhnRC1BMmRhZTAzT3pZeXFFVmppOXJLeTkwV09XZ2pnaVhNbWNiZVRWQVI4aHR2amwxcU1hOHRlMnFlWDRZY0U1cXdsaWpiLVBlWkhUX29uRDRBMkFselJkd1VmLW9RMGJIMkhXeUhkMlVWcDJVUVZXT2RmYU9kZ09tSTQ3b0NMMjR3OWpqMkUxWm5EeUhBZzFhV2g0MURn?oc=5",
+     "source": "بوابة أخبار اليوم الإلكترونية",
+     "time": "2026-11-28T07:28:53.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
+    {
+     "title": "سعر الدولار اليوم السبت 28 نوفمبر 2026 في البنوك",
+     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeng0a1VhVE0yUGQ1ZXlaTmYxRGt5S3BKOVhYakJnUmQ3SVZvVXdGMVNSZU1yb3pXVTFzQ0RjUXVTVnBGZllZVFJGX2Y5UXdVMG5vQVZBN3U4bVBLWUcxaEpDNkVucHYwN3l0SUVZNTMzN3pzQ2E4NHJiVUIzQ3lGR1AzRS1hNVdQeTF1bWhreXBCQ01KQndXS3lZZkhFSV9Wanhkclg2TXlESjNxc21tUXBNQ2pSWjBLanFfZkFRVjlhS2Q4YjJwYUJqeVpwLXhwSVRObHJZQTE2MmNyZlM1Ri0yWElXMjBpTDZwOUNyZVZJc2w2Z0dTN0lselJQX3FTTC1wckNpT25yWWpZSDBqS0tma2hwWXEyOG5zZUd1cUF3c21uN28zSmZRdlRDYjdnU3ZGR3I0QndiYXdtaHBMdFJJQVg?oc=5",
+     "source": "قناة صدى البلد",
+     "time": "2026-11-28T07:28:37.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
+    {
      "title": "السعودية تعلن اعتراض صاروخ حوثي باتجاه الرياض، وغارات سعودية تستهدف منشآت كهرباء وغاز في اليمن",
      "url": "https://www.bbc.com/arabic/articles/cwj057rlqd82o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -262,14 +276,6 @@
      "source": "صدى البلد",
      "time": "2026-11-28T07:00:00.000Z",
      "seen": "2026-11-28T07:09:11.087Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 28 نوفمبر 2026 في البنوك المصرية مقابل الجنيه",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10OEFidEMwaS1OQVVzU0VocDMzM1FudmF4UHNlbEg0d3BCRjFKV1lPTHB3eFdkNEVtMmV1a3VTdC1veTk0?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-28T06:46:42.000Z",
-     "seen": "2026-11-28T06:59:10.911Z",
-     "impact": "تؤثر تغيرات سعر الدولار مقابل الجنيه في البنوك المصرية على التكاليف المعيشية للأفراد وتكاليف الاستيراد للمستثمرين."
     },
     {
      "title": "سعر اليورو اليوم السبت 28 نوفمبر 2026 في البنوك مقابل الجنيه المصري",
@@ -339,13 +345,6 @@
      "time": "2026-11-28T05:40:00.000Z",
      "seen": "2026-11-27T22:38:54.984Z",
      "impact": "يوضح للأسواق والأفراد أعلى حد لسعر البيع المتاح للعملة الأجنبية بالبنوك المصرية."
-    },
-    {
-     "title": "المهاجرون العرب في إسبانيا: ما الذي يشغلهم عشية الانتخابات؟",
-     "url": "https://www.bbc.com/arabic/articles/cmn50enldxplo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC عربي",
-     "time": "2026-11-28T04:15:54.000Z",
-     "seen": "2026-11-28T04:19:10.902Z"
     }
    ]
   },
@@ -353,6 +352,13 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "سفير إيران في باكستان يبين لـCNN وضع الحوثي على الأرض والموقف من اعتراف دول بهم كواقع في اليمن",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/houthi-irans-ambassador-to-pakistan-reza-amiri-moghadam",
+     "source": "CNN بالعربية",
+     "time": "2026-11-28T07:29:15.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
     {
      "title": "إسبانيا: العثور على 14 متوفين عند إنقاذ قارب مهاجرين قرب جزر الكناري",
      "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261128-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-14-%D9%85%D8%AA%D9%88%D9%81%D9%8A%D9%86-%D8%B9%D9%86%D8%AF-%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D9%82%D8%A7%D8%B1%D8%A8-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D9%82%D8%B1%D8%A8-%D8%AC%D8%B2%D8%B1-%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%B1%D9%8A",
@@ -410,19 +416,18 @@
      "seen": "2026-11-28T05:29:10.509Z"
     },
     {
-     "title": "مصر.. آخر تطورات حادث حريق دائري الوراق: تحديد هوية 27 جثة من الضحايا",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/egypt-fire-giza-tanker-update-dna-results",
-     "source": "CNN بالعربية",
-     "time": "2026-11-28T05:01:50.000Z",
-     "seen": "2026-11-28T05:09:10.686Z",
-     "impact": "يمس الشأن العام والسلامة المرورية ومتابعة الأسر لتطورات التعرف على الضحايا في الحادث."
-    },
-    {
      "title": "حماس تعلن نجاة نجل رئيسها خليل الحية من \"محاولة إسرائيلية لاغتياله\"",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KcGtVZU1QcUVfVVNaZE0zdWtuSXNfbGgxRUcwMS1Ec0I2S0ZsSk9DY3FMR1pQNlFTWm5zVHNWZnVQekpFNnZMOHlsbGJnOGdVbVc4N2NMckJ5eU1McVHSAWNBVV95cUxOMHh5TFM2R2VmWXYweng5UjFCWXRpM3FCekZpV1B6d0lDcm9mYl9sX04zVURpU0lRclYycFUySjhmSUdscVcxNEFDRXVJSTVzTDU2ZEdMbmdRclVxUlJEM1dGYXc?oc=5",
      "source": "BBC",
      "time": "2026-11-28T04:50:03.000Z",
      "seen": "2026-11-28T04:39:10.235Z"
+    },
+    {
+     "title": "المهاجرون العرب في إسبانيا: ما الذي يشغلهم عشية الانتخابات؟",
+     "url": "https://www.bbc.com/arabic/articles/cmn50enldxplo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC عربي",
+     "time": "2026-11-28T04:15:54.000Z",
+     "seen": "2026-11-28T04:19:10.902Z"
     },
     {
      "title": "بطانة الرحم المهاجرة.. لماذا تنتظر النساء سنوات لتشخيص المرض؟",
@@ -444,13 +449,6 @@
      "source": "العربية",
      "time": "2026-11-28T03:43:00.000Z",
      "seen": "2026-11-28T03:49:10.354Z"
-    },
-    {
-     "title": "فيديو.. غزيون يحوّلون صناديق الكرتون الإغاثية إلى أثاث لمدارسهم",
-     "url": "https://www.aljazeera.net/politics/2026/11/28/%d8%b5%d9%86%d8%a7%d8%b9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%ba%d8%b2%d8%a9?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-28T03:36:14.000Z",
-     "seen": "2026-11-28T06:39:10.421Z"
     }
    ]
   },
@@ -473,6 +471,13 @@
      "seen": "2026-11-28T07:09:11.087Z"
     },
     {
+     "title": "صحيفة: الجيش الأميركي صد مسيرات في قاعدة بريطانية",
+     "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQRDI5VlR2Vm1CZnIwZ09zcmRVZGZVd3h3LWE5cVVvUi1Ea2V1akpNZmhJdWFRdnpTVTNFZzVCcXJpUWJwWDJHRnBweDluNDRUOXZrMkFVcVlwUzYtWUpjWUhCbVo4OGMzMlZnMzE5LTRSQXZKc29nT0c0SF9lZ3d4MFRyc25nX3RmWVR1VnczWGppTDFOTXpPYl9hQTJRSmtuZWJ5azk2Y25hcFo3andqakNZSlFWMjJKa2ZOd1laTXNDdEZlR0E1Z0FxTV9NQXo5TjhUME1WZEtzV0otd3BxNm8xdjh4Qk1oamlKRmw4aFBFZW5CNWtiaURiQms4Smt1cUFqTkhiYUxseVJiU051MzM4Nk1JVi15YnppVC1DakNpTmdNdWNFVWNMVC1BcVFnWlNNcGJyZ3YzS21naTh5MVlLVkNZcTZ3YVJVRTJZVU1MNUEwMjVna1hsa2lyYkg4ckcwZDJIMFAxSkd6eUc5TXAzQjZlLThmMW1ISDUtcjlWWVU4SVFObGhZMjVFbXNBVTZQVmpiM0oxYU8wcUszMHo2RTFjNDV3c042LWVISU83bW_SAbgDQVVfeXFMTzBDQnF3ZUdUM05iMmVZRkVTdWlVRHM3SHVKVW9zRWUxblZyd2VUTE1EcHlONmNMSzBhUkNnSWNLd3h0cS1uakVmWGtsYjAtSVNYV2RqSmpyb0JkTXhyNUZiSUkyUEgxRUZCYWpreWhHdzJ1S2JDYkp6dHFPclktckh6SmhDamc4YUQwWktuTkJZZEk0bms1WjEzdHIzMk9yN1FZeU5RZ0xsVFV4bFVCRVIwRS1wc2czdm1WamlsNlh5dUhReUdLZTRVZ2E0Zmd3RHJBa0h4Yk1qWmR3eVIxalN0dHl5VWJaWkhnV0NYTjB6UTZZTF9SR3RvZDR0ZldmbFNpSzg4RGtPb09yaVFzWTFhM1E4UExnT0NtZ2xQNHc5aFhYYjNFdFVLbzJPUkh2WTlKR2VlZjBXTDllaU80Q2diQ3JEc2otd3JsNU1NcjAzMTFNdTdFSzhrcHYyeElLeDhmQ2lRUlpnX2ItNjRHR016NURNTE1GUlNMaUk0VGo5c3lSRkptWG5sbGpXei1PRWF4U2dwdGVzcVdWZHpoVzlDOVdHamhPUGljUTlKazF5TEpJdmltXzE?oc=5",
+     "source": "العربية",
+     "time": "2026-11-28T05:36:00.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
+    {
      "title": "حماس تعلن نجاة نجل رئيسها خليل الحية من \"محاولة إسرائيلية لاغتياله\"",
      "url": "https://www.bbc.com/arabic/articles/cqlyj6yp9pywo?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
@@ -490,7 +495,7 @@
      "title": "فيديو.. أوكرانيا تسقط مسيّرة روسية بالليزر لأول مرة",
      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNdlRHNS1zN21tTEtsMTdLTnE3cUVqYWxWVHAzR21tZ2xCSHFodVBSTEJNbGxzWmd0YjhMVTdMeF82Z3BJVGZjSGRQbHZaeXZzZ0VxSHVNbHVoMUJ6WUVIaU1feUZnRDRVR01oUktQYVBFNVN0SXA3azk3VFBsYzBuMGI0SnNIRWlKY3UxR2xHaUtEZk1BX2FnSFBxS1dISVRldnFIS2RyT1d0dFZEREZLOXV1UFZPZkk0V3hLNEhWYkFMdlh4RU96MmJKS201NnpMR255eDdtZUVDRHdOZ0FKSFJiNzEwZURtTDc2WWQ1eDZZV1NOajNGaDMzQ0FzRnRjS21RODhHbkRpMGFqZVFVeUVjZHNqSHk2OTJ5ekh2ck9tMFZyRDlHZ2s3WFM2ak5rc0VoaVlXdEhTeTVqUnY3N2ZNbHdSaldlRnlFUWNuSV9FVXRfbHJIV0laU2dnLXM2VkNzeUFtOWR3a25OQzBpSGJhM2Frb3RUMWdzX0ZqX1VfODRwWVBZLUFmYnZIeDJ2bE9hbVh6d0ZSVjZaQ01vUmhuNjlkVFg10gGuA0FVX3lxTE9jN09EdFp2SEJjVzc2N2JhWWphMjc5RjltQ2Vmejc2VEVhMUozM3cybVp0OGM3NFY1a3V3M3E4eUF3cHBwQ1VXLUdUYnQzUnhreWFMU01weEdPTDB2bXo0OWl4cWhESzh3dy1naV9tWUxLZXRXQzA1Sk9NV1VWcHg1OERrX3R0UTVfaFFhc0pPQlcydU4xSzdmZGhqNzEwUzUzQjlRT3AwOE1IcEpwYWVmdkIzT1BVRWszNl9rNmlZZlA4M09NVzhsY3FNejJsVlA0UnB1T2RUMGxTQ1JtVkd3WFRGZ2dkY3RxOS1fNWZ1LW50Q01zd19FcGFsUU5LaEhhejQtSUhQSFYzSEc5QXdkRzZvZHZlTEE4YnFrYjF5a0FSWTREQnZuTTdFR0Zqa0tPcVYzVDJDeDY2T1piYmxPcXp3R195dlpBN05YNUJES2hMRm9wVzJ5VXNKVXVEUFRPclc2ckIwZmgwYjREZUlxRXFpekVBNjgtTkJoVlNyTkpCZGk0LVFBYUxUZG9PbUY5YV83b3JaUzE5TkRtVi1jTFV6UEhCVnlXYkJhZmc?oc=5",
      "source": "سكاي نيوز عربية",
-     "time": "2026-11-28T01:14:03.000Z",
+     "time": "2026-11-28T01:04:53.000Z",
      "seen": "2026-11-28T03:59:10.711Z"
     },
     {
@@ -525,6 +530,13 @@
      "impact": "يهتم به المستثمرون والمتخصصون في قطاع التكنولوجيا بمصر لمتابعة النزاعات القضائية بين الشركات العالمية الكبرى وتأثيرها على الأسواق."
     },
     {
+     "title": "أوبن إيه آي ترفع دعوى على آبل بتهمة سرقة أسرار تجارية",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQem1OU0RJV1hRT3RUcHU0anRreDZGN3dGcnhIaUk0WGlHMS1OSjdFTExTbVBsZlNHVmlaalBQNkNCamY2SXFPZG9JWkdWc1FhdmF4bUdld3FXNl9IdlJVaDY1dWpxUkhJSjNRZ0RTZllWWVZFTnhBUDdaQ1pCVWhvUWVsWTJGQXRZc2owTW5ZcVRSQTNRNmRwQnEzbnF3cWRaMG5Hb3FPTG4wYUVDazB2dncyektmOEg3djJWa1R0VUh4YUFTOURKQWI3c2NKVWtCS1dFN2lZTkl3REdibHJRY1M0VUcyYkNJbVhKYk1vQkdmaGdic1VYWWRScXNiRHJNMGU4WVRJektjWlI0VWZTdEVZRHlTZFd5RzRlZG9rNlk0eDg1TzI1OEFCMVBNVkFad1duZVFrSmllZzZyenFFTDd4LTRCT0JPRDg3X09VemJIRXV2Qm9NeFFRc1BIbjVDNWt3Xy1R?oc=5",
+     "source": "الجزيرة نت",
+     "time": "2026-11-27T20:55:49.000Z",
+     "seen": "2026-11-28T07:39:11.085Z"
+    },
+    {
      "title": "7 أكتوبر المقبل سيكون سيبرانيا.. تحذير إسرائيلى من مفاجأة تهدد الجيش",
      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNcXJzVEtPSHBfYlNyVVVxNGNJU2pXWm54QTdnVlJCSVBPaDE3X0ZmZVYzaHNteHVzaWM3YV9ibDhzM0l0eTBPU1hoQ3pBTGg5LTlwckZDcktnLWtvenI1N3FzWXZGYU4ta0V2ZGd6X2ZSS2lLalVSMENWNVVGcXZSTkpLbFJNb2hRZmZ4b3J2VENiTVBGb3FybzE4UWZoSEZyY1Y4REZuLXF2Z0pZQnpNa25lWGJhRWJXSE13ekZHUzlCOEVKYzJ5TWJjcEFMdkRLbkFYaHNveE1QMkZOd0xkVk5WVEdhQWhTUTQ1UHlBVTQ5Si1rNzJqUzBZMmN5WjBDSm0yN2kyWGo3YUI1a2wyeVAtd0l5LXRJanJHYnZzVTVwVktZei1EdUNwSXRtU05jRDl2blgxbGhqSVo3VjRTc3dhYW5neVZFay1MNzFMQ2ZnR25RY0pPeDhySnZ6cWFRbHIycjc5WUxFZGxaeG9acWJNUi1WTnRtdlJrcFFubFRsdTJvX3ZwWC0wRmx4eWxRbTItd3p0MmZVSDFYcTFfWjFFV2JvVVVha0FWUGlSaGFwbnRPcVFrd3A2YjZBNFpsbnNNd2hRdzVXVUhVSnpPajMxalczMkxnNm1Zb2FWZzlval9YRkExQy1qeVVsVFpUcmx4RnZqU1TSAfMDQVVfeXFMT182cXhpM0lhbnQxQmtwRE5KQzlIa1RWMGFvbS1HMHB3M0x3QkVudHByN2NGd0M5cUIyN21SRmZxMk5jc2theUFmTXF3cTJCYkZOZVliTGNvdHhncVBfYXY5emhJVkxva3RMUHdONWNyZXgtb2k3X1NYSUpScVJkSnZfdUtYWW5kc05aRExWWFRkZUVicGdTZVp2SlA1VnlKRm50SDNlcGd6eTJCRUV0eEZ6Z3Y0MnR1bGhONFlIT1RNTnlfenFEVThvZ1ZBdVNqckFXdmRuenBlNHFhaGNHcm1VMjV3R2NZUkFINFVKQlo5ekFuQ2FOOTJSUFdGVVhhRmtxcFVBYm1LZzdVYkxWd0MwQjZ4NjEzMEJpRW01UnRWdW5xa2RFWHpwc1Q3T0xlRW5qZGRrU0JhVWJ5TlR5anJaSDlCd3JfVlRwWTRUSzQzbGNaTnVieVBfYUpOYmdOdkVVRFpXM2FBU0ZFOVYzLWtaSnZEQ2haTjJWaTBJc0tlVjdLMXNPR0xmV3hpN2U2SE83MUZaT00zb2Q3ZkZ2WGVqOTcyM0lFdV9CR2JsTm5FX1lXdnpnSjdueXFKdHJGOFpSZVU4YUlCM0xJRU9vaXJCdi03dU1wVlZweEdxUlRfbmIybmx1X25Pb2FzT1NHS1ZkUQ?oc=5",
      "source": "اليوم السابع",
@@ -545,32 +557,10 @@
      "time": "2026-11-27T16:53:58.000Z",
      "seen": "2026-11-27T16:58:31.954Z",
      "impact": "ينبه الأفراد والمستثمرين في قطاع التكنولوجيا لأهمية تقوية الأمن السيبراني وحماية البيانات السحابية."
-    },
-    {
-     "title": "اختراق أمنى خطير.. قراصنة يستهدفون منصة الحوسبة السحابية لسلاح الجو الأمريكى",
-     "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNZFd2cTRROG9uQllNSW82NDBUYmtBZU1LVE5PaXdlZThkYzE4MEh5dnM2b202d1RaOW5nN3NrVmVVRlJucTM5b29SQjFHR29nbHRfcnlIV2xrSFFwZlJLOFRKV1k3YzRyUDV3SzF4Q1RIbkdCSHVNbldDbXE4TTUya3dOS1ZMNV9UUHBqdGY3QlRTeG1Yc1BhWXFnUS1zdy1VMEJuNmFBcmNhQ0N1d3lxbUNCR0gwT3lNUXNhdmZmZ2xoLS1wdEtDN1JnOFNQa0E5NngxdVROMTlLMmdpaFJUem0zMU9JeWlubWpxRklFQlhoYm95N2kzQWYyOWg5NHhfZm9fenA2TlZKRmJRaWFfRi1rZlNualdqR05EN0VlcnRsVnh6MmtIdUE3bkVSbERXYWJQVHZBdHpEWlF3UkZYUEVtRkhQVlNPZWFhenpfb3ZTSm5XcURQeUhPOWxCcmxjRENwRk5Kc0RvX3UtTHZPYmllUHZHVFB0d1dVZE9TZENzSnRoRXdYSHU3V0I4SlVIWnJteTV5RXdwTGtZY3doS0x0R1BLNVA4cEdaamlfbEZSUFNaaXhKV2FnMHM4cEp1UjFNclp4ejF5WnExTllDcDZ2ZlBzY3BXaDNFLWNlLWtoTmZycjNQbGUtQzBTNjM4N1JnQ09Eb0hQWlk4SVRESG00THBqXzEtc3l3dVdIUXh2OFpJb0lrVko1U2Vrc29ZOEhHSm45WdIBogRBVV95cUxOY0xGZXpicE5FQWNuSjFoU2hFUklVMmdydFpkWG5fWm9lWXlOZmdFNHMwVW9hVnlKaW5HejdqZ3lFemJZaXY2WC1Qelc2dGxWTHNZaVk3STdIcGRCajhHZGY1eEc2QWJsX0gxT1ltQ0t4V2V3T0NXMk1oaTJwd3p3VG54b0ZJMHk1VnpTSUJIQkdYWVVwYVNIamJncmM0cmRTSEVTR1dacGgtUE5wV1JQN2UtTmlXZEI5NnNLaWdYcXozM0Q3b2NvUXVYd0ItUXVWTzFwQXp0UGJxZXNjbmJOVnFBeXhOTWY5Q0V0em1leTFBdFNKUFZ6bWRRWXlsd1J3YjR0RUNwZXVGcm9sWmNXNWY2Sk9BNUxkMjZMYlZLWHVSMDJycWZWampDTkYtbkpEbzNUNDdaU1Q4R0Rrd2xfQ0pFUURDU196a1hoZlUzeXU2TjlWMmplNnA3SlFlMzRRRHNNaDhMWk9fQkVaRDRNVVBuTGNUaGo1LThoQzZLWXNzQTFyLUtlREFKbDdaWThXakhqOEYzSWE0dXNOeV9fUVlTOW93MU53SmlKUUswRTVqQTNDdGYtTlN3TWJKUVFnbmh0OEdhTVMyRlhjLUp0OTliUEF0elp2ZjhDV1hVXzF6bDM5SWg4NGViY0dvT0djZGhGOGs4VUZMLWN0ZWhNaDJCUWtuRDhjYkdJRWYwRkZOS1hoNGlfYUdiWV9QdzNNeXc?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-27T16:53:00.000Z",
-     "seen": "2026-11-27T19:48:32.229Z",
-     "impact": "ينبه الأفراد ومؤسسات الأعمال في مصر إلى أهمية الاستثمار في الأمن السيبراني لحماية البيانات السحابية."
-    },
-    {
-     "title": "شراكة ليبية - أوروبية لتأمين الحدود البرية والبحرية لمواجهة التهريب",
-     "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQLV85cXZUNU5yb3k5d1ptV3AtRzdxTFJoelZXZU9JSW80MjQ3dkVGX0Y5ZUVwd2ttMEI4Tk9ZZXgzMmI1b2JwU3hVVVlGa2hhc0swdUNRZFZWTVROOWMzZllXTno1M0pBdXhla2VySW5CZlcxME1Sc05DQVZiZVNtQUptQU1QcUM3bnV6bVZ5REhVN3JNMW1CSk1YenI0UHB1ZUdtQ0VBSzBTdkh2VEY4YXBKdjk4U2tyY0JfdFpnWFdxbWFTck5uclJKbzFPWEFubFIyR0VPaEF6cVlMU3MxWDBzTHByVDd5a2ZMMDRLTTAxLUEwUi1MNmNOekFQQ1lOU0g4eUFUYTAtX0ZlMjQtcmZGcFFHWjd4WjBMZGZ5Mm1NZGRqS1hWaG5MRnRiOW1PT2NadElPWHpKTTg5VUM0b0NDTWozVEJiVEZvMG5yZHY0SGJEY2lQWmJCMTFCcUV1NHF6WnRQWWFhUzFBV0NIcEdPTlNGN09sNGljLU9FUDVxRzdrV0wyUGxod0V5WVBsRXEzQW52UkxkQkE4cHFpNDgxdWdab1NkY0xEM19xMXVyaTMxaVZSYVl1a2F0Nno0ZTItOS1zbmM5Tm01THdoeHhONFl0SHNFTTA5Q0xtRDZxMDdFcDZtLTlCYmdkUlMwWU1iQVVqcVZFcWNhYmRiazZtcEdQckFnbExQX19mT2dtdk16SzB3eldSMzNTM3NwVE1SQ0NUUDg0aWV3bjRLbjQzOUVkR0xUZFRtWllYdEIwZXpVZFNYWDhQemo3c3EtNldWZFBhRk1QU1prUDdyc3N0Vl9fa1hwRlFiMHN1b2pST1h3M2ZjVXhmLUc2VEliUVJKN0lJMkZoeGxtcnNnYm9EX3VLVHc?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-27T15:40:49.000Z",
-     "seen": "2026-11-26T20:14:33.220Z",
-     "impact": "الشراكة لتأمين الحدود الليبية تهم الأفراد والمستثمرين في مصر لمتابعة انعكاسات الاستقرار الأمني والإقليمي على المنطقة."
     }
    ]
   }
  ],
- "failed": [
-  {
-   "section": "economy",
-   "feed": "www.bing.com",
-   "error": "no items"
-  }
- ],
+ "failed": [],
  "marketErrors": []
 }
