@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:29:10.509Z",
+ "updated": "2026-11-28T05:39:10.508Z",
  "minute": [
   "استقرت أسعار الدولار في البنوك المصرية مع تسجيل أعلى سعر للبيع عند 54.95 جنيه.",
   "أعلنت وزارة العمل في مصر عن فرص عمل جديدة للمهندسين والفنيين برواتب تصل إلى 20 ألف جنيه، فيما تم تحديد هوية 27 جثة في حريق دائري الوراق.",
@@ -9,7 +9,9 @@
   "at": "2026-11-28T05:19:11.087Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-28T05:39:10.508Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59781,
-   "change": -1.18,
-   "asOf": "2026-11-28T05:29:12.000Z",
+   "value": 59668,
+   "change": -1.37,
+   "asOf": "2026-11-28T05:39:24.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,13 @@
    "title": "مصر",
    "items": [
     {
+     "title": "تاريخ مواجهات الزمالك والأفريقي التونسي.. أرقام قياسية وإحصائيات قبل صدام دوري أبطال أفريقيا",
+     "url": "https://www.elbalad.news/7197178",
+     "source": "صدى البلد",
+     "time": "2026-11-28T05:30:00.000Z",
+     "seen": "2026-11-28T05:39:10.508Z"
+    },
+    {
      "title": "تركيا تستدعي سفير جورجيا لديها بسبب مباراة كرة",
      "url": "https://www.elbalad.news/7197198",
      "source": "صدى البلد",
@@ -149,13 +158,6 @@
      "source": "صدى البلد",
      "time": "2026-11-28T05:18:57.000Z",
      "seen": "2026-11-28T05:29:10.509Z"
-    },
-    {
-     "title": "بـ20 دعاء للميت يوم السبت لن ينقطع النور عن قبره.. لا تبخل عليه",
-     "url": "https://www.elbalad.news/7197196",
-     "source": "صدى البلد",
-     "time": "2026-11-28T05:16:42.000Z",
-     "seen": "2026-11-28T05:19:11.087Z"
     },
     {
      "title": "فرص عمل في العاشر.. «العمل» تطلب مهندسين وفنيين براتب يصل لـ20 ألف جنيه",
@@ -358,6 +360,20 @@
    "title": "العالم",
    "items": [
     {
+     "title": "3 ادعاءات إيرانية يرد عليها الجيش الأمريكي منها تحرير الحرس الثوري ناقلتين سرقهما جنود أمريكيون بعملية وهم نائمون",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/iran-3-allegations-centcom-response",
+     "source": "CNN بالعربية",
+     "time": "2026-11-28T05:32:19.000Z",
+     "seen": "2026-11-28T05:39:10.508Z"
+    },
+    {
+     "title": "وزير دفاع السعودية يعلق بعد اجتماع \"حلف مكة الدفاعي\" مع تركيا وباكستان",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-defense-minister-mecca-alliance-reaction-new-meeting-session",
+     "source": "CNN بالعربية",
+     "time": "2026-11-28T05:30:50.000Z",
+     "seen": "2026-11-28T05:39:10.508Z"
+    },
+    {
      "title": "السعودية تعلن اعتراض صاروخ كروز أطلقه الحوثيون",
      "url": "https://www.skynewsarabia.com/middle-east/1907658-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%83%D8%B1%D9%88%D8%B2-%D8%A3%D8%B7%D9%84%D9%82%D9%87-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86",
      "source": "سكاي نيوز عربية",
@@ -403,12 +419,11 @@
      "impact": "يهم قطاع الأعمال المصري المترقب لفرص إعادة الإعمار واستقرار السوق في دولة ليبيا المجاورة."
     },
     {
-     "title": "أمريكا توضح حقيقة \"فرض رسوم على السفن العابرة لهرمز\"",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/us-clarifies-the-truth-regarding-imposing-fees-on-ships-passing-t-hormuz",
-     "source": "CNN بالعربية",
-     "time": "2026-11-28T01:58:40.000Z",
-     "seen": "2026-11-28T02:08:55.124Z",
-     "impact": "تساعد في تقليل المخاوف حول ارتفاع تكاليف سلاسل الإمداد وأسعار السلع المستوردة."
+     "title": "125 جهة مُعارضة في تركيا تدعو لتظاهرة كبرى في إسطنبول ... ما مطالبها؟",
+     "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxPWHg5cDRpaEMtdDNLUU9fdGlWdVluT3pzdEFZMm1CZlRuUkpuZUJ0UjZOZVE4UnFFU2FBWk5pYXJvblhXWFEwLXZaMmpfT2FYdEsySVljdmd3cFpoTUJmckE4WVBBZmNSM2FVRDJ6S1E1cVl5TThwZDJpVktuYnVNOWJjUEhZUGtJaGx1a1k3OWc5cmdEZkdidkNqSjdVaDZUdlBfR21hM3BTaWlIQUloV0MxZmNNUXk2UHFkNGxidmRZbXV5UElxQVRFOE03QnhhNU1hT3pGc2lQUnpvOGU5NUdXeDNhRFhuU0pJOEllZE94T2I4WEdNeF9neXgySTBlV29nWWRmazhkMlJGMnlQWWYyNU9QZi1TRXI1eFh4QW01S29Ld2kxdlA0enN6MExzVll0ZFViWEJTYVdlVTczRGY1VzhhcWd3c3Rra0xwclN4NE43Sk9yY2J0QUc4LWRPVm9ha3VMNGpxYnBUOG9tZWRoaGVHa3FKVXdsYXNzeUVLUzMzb2x3dWduSEMyZ19zcWZxQzRwSzhxWFRRZW8xSjJRMHNWWVNXUWdXdmk0bjdBbjR5U2lqNkpOdXIyUFVOdXZuSnM4N2FQcVh5YkV4Y2FPUW9ud2F6bnItdG9TRk1wYzRLRHViTzNwa9IB6wNBVV95cUxPV2pwYTM2UnpLY2hidUpyZ0Naa2JNYUVnMVl1Z2RJUTdpYWdfZlB5NVRJLThpRGtDdWF2cHE1anpoR2tETmRSaDRtWVZFc19yR3ktWnpJTEVEQWZneDZDMXd0dmhmUXg0VXBYR2c0WTRscmRFOW9DbU1KeEtnV0YwR0ZaaXpWUTJlLW9fSE5Td01IMW53RVBkSmhjR1Z2Nm5vREdZREZOTkI4SFVOQU9fXzBPWGhFOVBmeTRnTHA5elJMMHlidmxLUlh4djF1aFNSMW1IODRuWFkwWTlNZUlyd19mU2Zib1N5UzBUZlZxbVNhVDl0NkpBdlh0QjZwOGNRYW9aRmtYR0JWMnAzWmF1cG55dTdSaW1LNmJGSjBoREh4aXA2TUVvU1Npb2lMQnBQSkhQM3pRQ1d0WklvcFBfNlJCaVVsYmZJY2tKV0lieUFJWXpqa0VpZUhGZ2NHVnBMUllEQWpialFPWVhkTWRZOFY0dDh4UlE3TUJDU3phYmVGRlh4Z2J5ajV1TzlUbzdTc1M0QlZYa0F4ZmtFc2xBTHVnUl9CZW5mM3NNZ2RrOGhnX0pRYllDZi1sQ3ItbmtDUm9za0QtVThKbVFjc0tma2M3YVhqQ3VTWWRIVDlCV0VUX3JfYTQyOFd1SQ?oc=5",
+     "source": "DW.com",
+     "time": "2026-11-28T02:59:50.000Z",
+     "seen": "2026-11-28T05:39:10.508Z"
     },
     {
      "title": "عداوة الثمانينيات وصداقة الكبار.. هل يجتمع ستالوني وشوارزنيغر في \"تولسا كينغ\"؟",
@@ -423,14 +438,6 @@
      "source": "الجزيرة",
      "time": "2026-11-28T01:37:45.000Z",
      "seen": "2026-11-28T04:49:10.818Z"
-    },
-    {
-     "title": "\"أطباء بلا حدود\" تعلن مقتل اثنين من موظفيها في غارة على عيادة بغزة.. وإسرائيل ترد",
-     "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/two-workers-killed-in-israeli-strike-on-gaza-clinic-msf-says",
-     "source": "CNN بالعربية",
-     "time": "2026-11-28T00:57:30.000Z",
-     "seen": "2026-11-28T01:08:55.237Z",
-     "impact": "يهم المتابع في مصر لرصد استمرار التصعيد الميداني والإنساني في قطاع غزة وتداعياته على أمن المنطقة."
     },
     {
      "title": "عاصفة عيد الشكر تُربك أمريكا.. مئات الآلاف بلا كهرباء واضطراب واسع في الطيران",
@@ -452,13 +459,6 @@
      "source": "العربية",
      "time": "2026-11-27T22:41:00.000Z",
      "seen": "2026-11-28T03:09:11.098Z"
-    },
-    {
-     "title": "ميلونشون ينفي معاداة ألمانيا ويهاجم سياساتها الدفاعية والاقتصادية ... هل يستقيم ذلك؟",
-     "url": "https://www.dw.com/ar/ميلونشون-ينفي-معاداة-ألمانيا-ويهاجم-سياساتها-الدفاعية-والاقتصادية-هل-يستقيم-ذلك؟/a-80082619?maca=ara-rss-ar-all-1125-rdf",
-     "source": "DW عربية",
-     "time": "2026-11-27T22:29:00.000Z",
-     "seen": "2026-11-27T22:38:54.984Z"
     }
    ]
   },
