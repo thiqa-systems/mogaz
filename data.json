@@ -1,17 +1,16 @@
 {
- "updated": "2026-11-28T09:49:41.366Z",
+ "updated": "2026-11-28T09:59:41.930Z",
  "minute": [
-  "وجهت وزارة التضامن الاجتماعي في مصر بصرف تعويضات وحسابات مباشرة لأسر ضحايا حادث الوراق بناءً على توجيهات رئاسية.",
-  "وعلى الصعيد الاقتصادي، تفقد رئيس الوزراء مصنعاً لإنتاج كمبروسر التكييف، في حين أعلن البنك المركزي أسعار العملات وسعر الدولار اليوم.",
-  "ودولياً، أعلنت إيران عن انفجار ناقلتي نفط في مضيق هرمز، بينما أعلنت السلطات الروسية إسقاط وتدمير مسيرات كانت متجهة نحو العاصمة."
+  "تفقد رئيس الوزراء المصري مصنعاً للمنسوجات باستثمارات بلغت 150 مليون دولار في منطقة كوم أبو راضي.",
+  "تابعت الأوساط الاقتصادية مستويات أسعار صرف الدولار واليورو أمام الجنيه داخل البنوك المصرية.",
+  "شهدت المنطقة توترات ملاحية وأمنية شملت اختطاف سفينة قبالة سواحل اليمن وانفجار ناقلتي نفط في مضيق هرمز.",
+  "سجلت أوروبا سحباً قياسياً من مخزونات الغاز تزامناً مع خفض تصنيف فرنسا الائتماني إلى سلبي."
  ],
  "ai": {
-  "at": "2026-11-28T09:19:41.400Z",
-  "model": "gemini-3.6-flash",
-  "key": 1,
-  "impacts": 6,
-  "error": "bad JSON: Unexpected end of JSON input",
-  "errorAt": "2026-11-28T09:49:41.366Z"
+  "at": "2026-11-28T09:59:41.930Z",
+  "model": "gemini-3.8-flash",
+  "key": 2,
+  "impacts": 10
  },
  "markets": [
   {
@@ -90,9 +89,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59497,
-   "change": -0.62,
-   "asOf": "2026-11-28T09:50:57.000Z",
+   "value": 59487,
+   "change": -0.63,
+   "asOf": "2026-11-28T10:00:39.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -139,17 +138,61 @@
    "title": "مصر",
    "items": [
     {
-     "title": "أحمد سليمان: بيان لاعبي الزمالك ظاهرة تحدث لأول مرة في تاريخ النادي",
-     "url": "https://www.elbalad.news/7197372",
+     "title": "هناء العمير: \"جحيم العابرين\" فيلم انتظرته طويلا ومن أمتع التجارب.. خاص",
+     "url": "https://www.elbalad.news/7197376",
      "source": "صدى البلد",
-     "time": "2026-11-28T09:46:08.000Z",
-     "seen": "2026-11-28T09:49:41.366Z"
+     "time": "2026-11-28T09:54:59.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
     },
     {
-     "title": "إيران توجه رسالة مرعبة بالذكاء الاصطناعي.. تدمير مقرات \"أمازون\" و\"مايكروسوفت\" و\"سبيس إكس\" الأمريكية",
-     "url": "https://www.elbalad.news/7197371",
+     "title": "أوروبا تسحب كمية قياسية من الغاز بمخازنها في الشهر الأول لموسم التدفئة",
+     "url": "https://www.elbalad.news/7197378",
      "source": "صدى البلد",
-     "time": "2026-11-28T09:41:49.000Z",
+     "time": "2026-11-28T09:53:49.000Z",
+     "seen": "2026-11-28T09:59:41.930Z",
+     "impact": "يؤثر حجم السحب الأوروبي للغاز على اتجاهات أسعار الطاقة العالمية وتكاليفها على الأنشطة الإنتاجية في مصر."
+    },
+    {
+     "title": "الزراعة: تقديم أكثر من 40 ألف خدمة للرعاية التناسلية للماشية خلال أكتوبر",
+     "url": "https://www.youm7.com/story/2026/11/28/الزراعة-تقديم-أكثر-من-40-ألف-خدمة-للرعاية-التناسلية-للماشية/7635239",
+     "source": "اليوم السابع",
+     "time": "2026-11-28T09:53:00.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
+    },
+    {
+     "title": "رئيس حزب التجمع : سندفع بمرشح في الانتخابات الرئاسية 2030",
+     "url": "https://www.elbalad.news/7197374",
+     "source": "صدى البلد",
+     "time": "2026-11-28T09:51:55.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
+    },
+    {
+     "title": "باستثمارات 150 مليون دولار.. رئيس الوزراء يتفقد مصنع للمنسوجات بكوم أبو راضي",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBmOC1KYUQxTjZUMTlGOG96ZGxoTGp4cDVzOE5pc3puVEtITXpuSDViS3hvdDNEcXF1ejZmVzlGUkVIQU1I?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-28T09:48:22.000Z",
+     "seen": "2026-11-28T09:59:41.930Z",
+     "impact": "يبرز المشروع فرص التوسع الصناعي والتشغيل في قطاع المنسوجات أمام المصنعين والمستثمرين في السوق المحلي."
+    },
+    {
+     "title": "رئيس الوزراء يتفقد مصنع كمبرا لإنتاج كمبروسر التكييف",
+     "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNWVZ0TkVCbjBCTmNad1N2M3hfWHNqSTBLWjNxWTNJTk8zaVhUMUhCSXZxaXgtdFdaaUpsTnZ0ZmVKOEx1ZnR0eHEycUM3bDhIOTFSWnF0d2JDUkx3dlgzUWtSLUxGUjJTYlpNUkRlVjdhU3ZZelUza0xWc1hxMVFhUU80SUJpN1l3cW9hQTRJY19DNnFGRUFZWV9rQVY0b3d3bXduSDQ5cEJHS2ZEbU5TRVZZcjRmdEtlXzJuUFFOalpDbTlxemhIVUlfYUlza3dQdjJ0dm50QzF0WFhSUjdZc1dQWDlYR3NJb1F3T0RoZjNxWGxJNmp4ZFMyWENsY1NMdHU4MVk0SjNxMlJQbzVTUEloaExySWJJT1NuQlhfb20zQzJyRUkySjRPUDhoQmNqZU5JTE9tWDRETzJzYUIzeDBwejlVblRkTlZFdjhHUDVkXzJjTkdLVHoxVFZvZjJJbFE0bmVPc2NpU2tkczJSa3pQRHBKRnJmLU9iRkVqM1Ezckw4Mkc5TS0wVTFIZndmZVVHRUJsblE0alRKby1TN3pITnVTNTFTQURFNlFaVi1ua1VuQTh5M3E1TDFjNDZhcG5yREJJNXd0REE5MWx1aWF1ZUtET3E2LWdGMjVkclpOZUhXSFA0VtIB7gNBVV95cUxQTUZMN0hUN2ZMTFNSTFFDOEdoUWtoSnBaWktjQ0gwX2gzWkVPdDBSTUhiRGQwT2pBakdBUHZDT0FjanNfTjB4SThfZ0hBY0NEeWsxdjZqeW1GS3kyaHRjbjhldXF1c19sUmhHaHl6REZoVTdabElybXllaEVJa3BKdFBibk4tUjdibnBYVWdsMXYyRXo0Ql80RkFlQVNJVU0wWEVtTGhOMzdoT1FISHF1dXhtbUtfQUlHWk5aU29iMXlaV2pvRk5UTFluaVZGczI0X0VTd2tXbWkxamc1YUJGMzlWSTdGa2NicFhWNGJESFhiUm1KbUVpTGh3Vk1CVy0tMzBUU2YtQUg4UWtFN3EtTkJ5WU9yVkNMUFFqWlNhOGdsTHdILVdiR2ZvVjBGbVdVNmxibFFwRExfRlFQZm8wZUhHaFJSRkVsUFIxem9HNGNuRUtBbWp6dFVsR29PTV9CZG1kc19BZXNZTmt1dGczbnpHa1B2Z1dEeXluU084dE1BNEZWUTIyZTQzQmNGSHMzd0xJaW82NEV0RWhtbVFhLTVJVDlZdmE0TUxNaGFsRXJKYllkWTM1Q3pndHBoTGZYTi02MGQ4TGVPUmd2MWV0QVFiZktWcG1Wc1BRd0o0STNhZDZ3OFZ2UmdPT3NSUQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-28T09:43:09.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
+    },
+    {
+     "title": "مدبولي: القطار الكهربائي السريع يدعم الربط بين المحافظات والمناطق الصناعية والسياحية",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80a0NEeF9aUk01Qng1TjJoQWhSSFQ0UDJ6cnRETGw1VWg0MWtMRFBlZ1N2S3NTbHpSbkdsSFlmWDJHdm50Q2JBcWFWa1pzYU9RZ1F2cl92MzZWLVRf?oc=5",
+     "source": "الوطن",
+     "time": "2026-11-28T09:42:02.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
+    },
+    {
+     "title": "من داخل مصنع التكييفات ببني سويف.. رئيس الوزراء يسلم عقود عمل لذوي الهمم بالواسطى",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RU1M5VkhhVGpZejBnbDNhSUE4eDczTjYzY1NLVXBudkV2bk41bDZtYms4U25uR3ZLMFI3YktObnZ2blVjczRLalVMb3VXMzhNeU9KOHJfYVBoZXl4VDNN?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-28T09:40:00.000Z",
      "seen": "2026-11-28T09:49:41.366Z"
     },
     {
@@ -157,20 +200,6 @@
      "url": "https://www.youm7.com/story/2026/11/28/وزارة-التضامن-تحديد-قيمة-المبلغ-النهائية-لدعم-ضحايا-الوراق-مساء/7635214",
      "source": "اليوم السابع",
      "time": "2026-11-28T09:40:00.000Z",
-     "seen": "2026-11-28T09:49:41.366Z"
-    },
-    {
-     "title": "مدبولي يسلم عقود عمل لذوي الهمم خلال زيارته مصنع تكييفات بالواسطى في بني سويف",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RU1M5VkhhVGpZejBnbDNhSUE4eDczTjYzY1NLVXBudkV2bk41bDZtYms4U25uR3ZLMFI3YktObnZ2blVjczRLalVMb3VXMzhNeU9KOHJfYVBoZXl4VDNN?oc=5",
-     "source": "المصري اليوم",
-     "time": "2026-11-28T09:40:00.000Z",
-     "seen": "2026-11-28T09:49:41.366Z"
-    },
-    {
-     "title": "الشعب الجمهوري يناقش مستقبل العمل الحزبي وتمكين الشباب وتطوير الأداء التنظيمي والبرلماني",
-     "url": "https://www.elbalad.news/7197368",
-     "source": "صدى البلد",
-     "time": "2026-11-28T09:39:40.000Z",
      "seen": "2026-11-28T09:49:41.366Z"
     },
     {
@@ -202,39 +231,11 @@
      "seen": "2026-11-28T09:39:41.605Z"
     },
     {
-     "title": "وزارة التضامن: تعويض مالي لأسرة كل متوفى بحادث الوراق يساوي تعويض العجز الكلي",
-     "url": "https://www.youm7.com/story/2026/11/28/وزارة-التضامن-تعويض-مالي-لأسرة-كل-متوفى-بحادث-الوراق-يساوي/7635196",
-     "source": "اليوم السابع",
-     "time": "2026-11-28T09:33:00.000Z",
-     "seen": "2026-11-28T09:39:41.605Z"
-    },
-    {
      "title": "مليون دولار و455 فرصة عمل.. مدبولي يتفقد مصنعًا كوريًا للمنسوجات في بني سويف",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBudGJtd0JHNHhJUnNEZlZGVFcxRFhvZGpZek5qTmVYdl9LTzluQlVnLVluQzViV0dfckRDQVZ3VWc3cVRacy1j?oc=5",
      "source": "فيتو",
      "time": "2026-11-28T09:32:00.000Z",
      "seen": "2026-11-28T09:39:41.605Z"
-    },
-    {
-     "title": "«مدبولي» يتفقد مصنع «ال هوا إيجيبت» للمنسوجات ببني سويف باستثمارات 150 مليون دولار",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xRDM4V1M2MVZjSzlnaUl6WkMwaDlIWl85a09BTEZIRVNtZU5Wc2c1a01zZHRaalJZa3loUjhPUjJFZ0JwNjM1aFU3YkVGeENQb1p1Vk5OOUJHeFho?oc=5",
-     "source": "الوطن",
-     "time": "2026-11-28T09:30:34.000Z",
-     "seen": "2026-11-28T09:39:41.605Z"
-    },
-    {
-     "title": "مدبولي يتفقد محطة \"الفيوم – بني سويف\" بالقطار الكهربائي السريع",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEWlBkNkJvZHlGd01jSk9hSm5YOHJFOTZUWTZYY1gzc2xzek5GckdNcE9LbGpIZGVadUo3ejNpdGZoelJJ?oc=5",
-     "source": "جريدة الدستور",
-     "time": "2026-11-28T09:29:44.000Z",
-     "seen": "2026-11-28T09:39:41.605Z"
-    },
-    {
-     "title": "مدبولي يستهل زيارته لبني سويف بتفقد مصنع \"كمبرا\" لإنتاج كمبروسر التكييف",
-     "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPN0djSG43OFB0SWtBRm1CX2tFV3IwYmxicW01eXRtQ0ZiSEZVelg2bEZoSEhGT0JrNzJBc0pPUXJuWUlseTNReFF0OEowX1haUjUwb1ZZS0RtcmJCei1CdmZiMkZscjNGWFp1MGtRV1FDdXlkWnBocHFTYVBFSzczSUlOc2xnbXQwTU5veGtuTEluMEh3YmZsS2pNYlZPOEtWaEdTR19OOHMyQmpqOV9VZ1BQTlh1d3l3Zm44ZlFLcDhPamFaU3A1T3FhY3NoNFZHR0RuYVZ3SDB5QVlWNHdMeVgtZzRnQS1WUjh6NWlDcHlEbE9iTFlJNWFsLXBIb0I3SWVDUnlBMXJpblhhZl9DU3pNS0lBZlZNQ00zZW1xV3VGS1ZvQlNxMVM2U3E1VkdjSFQxa09ac2JieHhmaGdici1OX1o2TW1qWFFTRWpMOTBEeFZ1dVV6WGRpX3FWdVh6dWVWeEtORVR3MU4xZWhjZWZNWHZtSTJ6WlN3RGpXWjJWYlRieUxXS0dxZDVFRUdERkk5TWFBRE9BeEJPbmhUQ01LSHlRUkNMYkJmU21Sc0wzOTA1WVJoNFhETDdFemlLYXNjWlMzNTRTSmxzTjc2NHIyWE1ha2tuRmVIR3AzMnhKam9EQlpPN1k5QVpPMmE0SE5qWk83WktIbG1qTGFUaGh2bjZyQlBBd0hqUWctR19pejNYTzJ3OWpxQU5lSDQyX0JQZXF3OHNZWjJZUzlTR0lPZXJrS1lVMm9fWjdOT3NSUGNaWjl6YUJoQ3IxMnd4ZnY1aVo2QlRjNlh4QVHSAeMEQVVfeXFMT3hKOHY2X0E2SWZrZHFTMXZmMlJiX05qdC1JTGJQaUVfU3E2ZndXbUQ2Q3hNbTlTYTZ6SmV2dXVKNFFuMW5MczJlMzFEZlZYTW91bWlZc3JuUEJhcGFLZ1ZYZHoyaHkzVzJxaFhBSXRhRldVbmJkc3ZpZnBZUkFRbTZSQlhvUDU5QXVRUV9pYXhnQ2hCRm9Ia1NxNVlxYmQwaEppa0QwSktJTnZRbDFCbHRoUDRWU0FxTGtlTkRyRVZKX2xQTE8xYnE3OVVuTS1aNEp0OWdCNy1DMUJ5U0xkMDFlYWFxS3FoN1A1Q0pMcTJDR0dPazQwTkdOQkxyelplX0VJZ3RGTk9Oc1UtOGlpaUtMQ0FsVW5xSTF5dG1EODNEYzUwTHo1eGVja0NVenZnNi1aMkZoWWk5REJZUW5BMXNNTUZraWdtemZuUTNEdnJpeFJkSUo5UVhLQjRsTk0tSmstd1BPYjhtMFQ5YWVUcTlEQjlaSDNiR2xfcmFTVEJZQXFNSXdyTDNOR1V2ODFHeU92Vkp1QmJTMm5MRDFreXdrMEtLa1hrTW5UZGRhdVAtSVJsMVkyOV9OR3ZEOW5ralhubkdoTW44djZzckRDaDJUZ2V5WmFZT2ZMYUxwVHE2YXJLWTJ5cWg3SThNM21xRjNyODhPQkVnQ0gxSG5PcDNURld2cVV6MklLV01nZmszdlBXM25KclFGd2FRNkJBUENUcUVpakNxM1pJWW9LUEdDZW1FNEp3UFZ3ckV2TDBqLXpxTm5Ic0ZYTFV2NXRXNXZUY0FfaEtBVjRQMkRRU2dSUlU?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-28T09:25:23.000Z",
-     "seen": "2026-11-28T09:49:41.366Z"
     }
    ]
   },
@@ -243,11 +244,20 @@
    "title": "اقتصاد وأسواق",
    "items": [
     {
+     "title": "بعد آخر ارتفاع له.. كم سجل سعر الدولار اليوم السبت 28 نوفمبر 2026 داخل البنوك؟",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWnlOVVRDMzIwTXRKZklUVVN6ZnlBZFRyUmtkVUUyZHViMkdxQWhiV1ppbGpyLU00TjNGNTZnNE1VM3I2SW9yb0stRmNmY3RuYjROSnh1N0pMb1lQX0NF?oc=5",
+     "source": "المصري اليوم",
+     "time": "2026-11-28T09:54:00.000Z",
+     "seen": "2026-11-28T09:59:41.930Z",
+     "impact": "تحدد تحركات سعر الدولار بالبنوك تكلفة المعاملات التجارية وتكلفة استيراد السلع للمستهلكين والشركات في مصر."
+    },
+    {
      "title": "اختطاف سفينة شحن قبالة سواحل اليمن، والسعودية تعلن اعتراض صاروخ حوثي باتجاه الرياض",
      "url": "https://www.bbc.com/arabic/articles/cwj057rlqd82o?at_medium=RSS&at_campaign=rss",
      "source": "BBC عربي",
      "time": "2026-11-28T09:30:22.000Z",
-     "seen": "2026-11-28T07:09:11.087Z"
+     "seen": "2026-11-28T07:09:11.087Z",
+     "impact": "تؤثر الاضطرابات الملاحية قبالة اليمن على حركة التجارة وسلاسل الإمداد وتكاليف الشحن البحري المرتبطة بمصر."
     },
     {
      "title": "عاجل: قتلى وجرحى إثر انفجار قرب مدرسة شرقي أفغانستان",
@@ -261,7 +271,8 @@
      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOWRHbW9JZGdGQV9WTXBJYThtZmJrdXVmdnJkTTRTZjZWNHl2M2RIMVZ3cVktYkxON1lLR2JtVUhKakgzRVVtbzFwRUtXMW5ER2c1WEVaV1dWYWcxTEpEZXMya3BwVTQ0UGUwZWZ2TmFFY0hJbVdOQlhMWkxyR2JzNGtZdDJzY0hlYUNLN0NYb190Y0kwbDlCeGMyUU1hNm53ZVFZTHZIUmJJMXcxOU9veENVdFhnMlN1aksyZFNOZUlsS08tUG1fLXNOOHJBTUxhVjdJU2hmdGphdzIwQWo4eTJrSlVndXRWRHY3b2lvNkRzT0RuaUxTb0ZBblZsR2RNcVJhNzZJY3JaMFBBTzBkRTR0bzJMejJLTG9aWDBxRndZX3BvSXlQWjBISXBhLVNtNWgzdFdzc0JpTHFiWi1TRUNPSFVvNE1hR0d0YVVPNHBSeUE3dkJDcXFkbWhJVTM0cmNDcUxDRVZRMW9TQmRQWHBOX2lwUFJuelZZTEhXcDF1bXNFZDJDbWxOcE5LX2xLYm4yV2FuVWZjaURTVlFudzRibDdVZGh4WUxyQ21jYWNoT0RhRG9TQmhpT3ZjTG_SAboDQVVfeXFMUGJlS2gzWVJjcUF4Vkk3cWR3X3MyaE5qcDJNNURRQzhNTmxSWWI4RDdFN0RjeEVVeHhzbkhERWwtaDRvVVN4OGFyaDc2bkIxZVBLZ0thVDUxYTNoX1ppdVplSmljZ2R0ZFBzV0l1bTF4LV9jMVdPOUU2S0E0bUxYa3k3enRvM0FlUFR5RTZCUmU3MnpsYVUtYWNKVU1kMjR3V3hHcEM3MURTWnNUU01lVTliYi1NZUpoVEJKQ0N0UXNUVloyNGU3T3FaeENsaDBUd0lwMk5DVEIyMjRlUzY3QnpoUHR4eVUzTE9TbDNBWHlNMXI2Zk5zT19mYkZFYlJMSmtvTDN1YjViU1VkeXNrMXByMjBIaXVBcG5jMS1IbjAxOFpmb3hxdFpDMU4tU19YaFpYQVlhOHp2VU1MS1EtLW5oZWs0bkNnMjNlRkVIOG9QZU42VmdTY0NEd1R0aHN4ZTEwVVZMQUtwNmRFN0RoaHBlN3Q1VFluenhiQmtNNWpqYU9RalVhLV9RVzZ4ZEhFMDZjU2gtMjZIbG9vUzAydVRKU0RiX3dYdFNIVS1LQWZKLXZpb2xVb21RQQ?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-28T09:17:00.000Z",
-     "seen": "2026-11-28T09:29:42.028Z"
+     "seen": "2026-11-28T09:29:42.028Z",
+     "impact": "يهم سعر صرف اليورو المستوردين والمصدرين والمتعاملين مع الأسواق الأوروبية لتحديد تكاليف السلع والخدمات."
     },
     {
      "title": "أقل من 55 جنيها .. سعر الدولار اليوم السبت 28 نوفمبر 2026 في مصر",
@@ -269,7 +280,7 @@
      "source": "صدى البلد",
      "time": "2026-11-28T09:00:00.000Z",
      "seen": "2026-11-28T09:09:41.752Z",
-     "impact": "يساعد معرفة سعر الدولار عند مستويات أقل من 55 جنيهاً المستهلكين والمستثمرين على تحديد تكاليف الشراء والاستيراد."
+     "impact": "يساعد استقرار أو تغير مستوى سعر الدولار الأفراد والمستثمرين على تسعير المنتجات وإدارة السيولة النقدية."
     },
     {
      "title": "رئيس الوزراء يتفقد مصنع “كمبرا” لإنتاج كمبروسر التكييف",
@@ -338,13 +349,6 @@
      "source": "اليوم السابع",
      "time": "2026-11-28T08:01:53.000Z",
      "seen": "2026-11-28T09:19:41.400Z"
-    },
-    {
-     "title": "سعر الدولار اليوم السبت 28/11/2026 فى البنوك المصرية",
-     "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOcFU0ZXBaanRQekZ6b3hsaVduNE9ZZWY1X2dYTUtMZ3REcUFlS0tqU3loVHduUXJDeHJaV2NGUzFoMlhENEpqakU2RGhzQVk4ZHhGZHdhb1pRVnZ6Zmk2MDFTSU16QTQ1WEV4SEhMYmJsZkMxZXNRakVBSzZFa0FWSnhFUi02SEtTVXFCRlFIOEJVbTY3MllXekNCQU5vTXZsUHBtN3JqdXhLVmlzSU14SzZ1WDlCcnZ5ajQ4VDQ4b3BBbmFGbVVYcVFoMTlXRFppdUtWMXoyb2xiSWZHWlNMQTRORlltRFliYkxoM2FsV25Kb3BoOFpuWDlzcXZEWEJJb28yZkFrUDNsVnA0dlFiaFB1cy1sbjFJSGxXZUVtUkpiMEJhbEN6RkxsVmJCSzZLYzJ2YjZpRmlEbmZrQ3lkZU00cVJrRTl4OTYyam04MXVsN3M3Q0lhSTQ2OFpLTHVPVVBKZ3ozMks3MmhFVnE3SGY2U2UtNzEtYnFra2JCbEd5NDFPbHRVdjRR0gGEA0FVX3lxTFBzZWptNEdILXhCVjZwX3ptN1lPVk9JVzlpWUhreF8zSHlHR3ZURzBTM05fUXRhU040VmFYQzNuSTZ3X1RjWFZMZEc5VDQ3NkI4cXVxaVlaRm5uM0tvbGhodHVWMmRkUkg4dWd4WnZGNmRPNU9QT1RjR2lDT05MalZWWGdFbkhKTEZaSGVxd2lkVzlySUpRXy01eXVHa3RrS0ctUWk3N21yWTQyRFo3WlhEeEJFdnRfc01BbVBBM3BLU1FtYm5jQTRXZGJZaVM4NDlzMVBqV253Z1o5Y2NQOFM1ZnJhUUg3ZlduTDV2SGJLWU1reXEwU2h4clg4dkxUQkhWemg5NE9zenNWV3JidWQtLS0yMDc1MGRmVGpJOFJsNmRsMG1JSE84QXhVVno3UDdPUFVKOW40Sk1FanBBM190QjVFQ2JFdGV2NXFxUnYxU2l4TjNXb2NZaXB4bXpyMHlmZllFd19kOFhnV094MUZxQ2lDQ3Jva0NWSGM1NUo0dDN1Zko?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-28T08:00:00.000Z",
-     "seen": "2026-11-28T09:49:41.366Z"
     }
    ]
   },
@@ -352,6 +356,14 @@
    "id": "world",
    "title": "العالم",
    "items": [
+    {
+     "title": "ستاندرد اند بورز تخفض تصنيف فرنسا إلى \"سلبي\"",
+     "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261128-%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%B1%D8%AF-%D8%A7%D9%86%D8%AF-%D8%A8%D9%88%D8%B1%D8%B2-%D8%AA%D8%AE%D9%81%D8%B6-%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A5%D9%84%D9%89-%D8%B3%D9%84%D8%A8%D9%8A",
+     "source": "فرانس 24",
+     "time": "2026-11-28T09:49:41.000Z",
+     "seen": "2026-11-28T09:59:41.930Z",
+     "impact": "قد تنعكس الضغوط الائتمانية على الاقتصادات الكبرى على أسواق التمويل الدولية وحركة الاستثمار الخارجي."
+    },
     {
      "title": "السعودية.. الأمن العام يعلن القبض على مقيم يمني ويكشف ما فعله",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/saudi-security-arrests-a-yemeni-resident-drug",
@@ -379,7 +391,7 @@
      "source": "CNN بالعربية",
      "time": "2026-11-28T08:29:14.000Z",
      "seen": "2026-11-28T08:29:41.598Z",
-     "impact": "قد يؤدي انفجار ناقلات النفط في مضيق هرمز إلى اضطراب أسعار الطاقة والشحن عالمياً، ما قد ينعكس على أسعار الوقود والواردات في مصر."
+     "impact": "قد تؤدي حوادث ناقلات النفط في مضيق هرمز إلى تذبذب أسعار الوقود العالمية مما يؤثر على فاتورة الطاقة بمصر."
     },
     {
      "title": "سيارات نقل المواد البترولية.. ما شروط السلامة لتجنب الكوارث؟",
@@ -411,13 +423,6 @@
      "seen": "2026-11-28T07:49:11.205Z"
     },
     {
-     "title": "إيران تهدد بـ«التحرك في الجو والبحر»... وترمب يقلل من أهمية دعم الصين وروسيا لها (تغطية حية)",
-     "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxOWnZTT2pPTlpTYUxUQ0NjN3Ezd0JjcnQxemRPaGR1UEZzc3NQSjJQUXZ5MFNBUkRIeHh6akptak5VOHJtdFo0MFRjMXpPTUtxZ3lUc1NvbkRDajMwTVFYLUdYOWtXYnV5Vk00ZXphUjhDemFKc2VreWJEM25HV0Fjak5mWmYxaFZ2T2wwNnlGMWJFMEVYLTNqRzhGWjVLYWFialoyVmRNQklvQkFyWWdycEFZV3d1N2d0eDdLeWlwQkUxSHBYV1VnT0RsdUs0WkRsd1Zydkg5dkNSVVBGN1ZBVGEwVzBBZkFWUmJQU1RCa2p6LUc3b3NvcFNXS05ZWUIxNUxNdHhvalduY2ZRdHo2S3lMMWNRc0VQbzBCWFBObHljRjZrcGk1T2dtV2JKNWxzQi1RMFlZSG9KRkVqZHRkUGxtNXU2R0xLTENwaE9wSkZ5aU9wX0pkR3phTTFsQk1abUpWWk1vQThmUmRmOUl4U19tR2lNcmdiaERxT0J3UUwyNEFjUnozU2FsS200X1VLWFEzXzF5Uzlxa0FKWWx6NzcwU0Uzak1sTHZucmRjN1JGNjdEXzJWenhVWUJWelpoUFpldDFMSWx4MHRiV2pCME05SmFqQTNHR0NQN0NMNUZyTm9XaXhRc1ZaRVVObWhvVjRNR0lxbVRiYV84bWlhcndyaGFUZk1RQkVMS2FKMTlDb3IxeExKTENtR3VqWG1IT01DTW10V1dtQk4wcy0tSVJTVzF5eFVuNXVQQkVTRXZLU3RlblNYWGJ1bzNRUGJjNnJsUV9rNWZRZXhSV3d5ZDVlcnJxWHRjbVBYRjFSbDZacTFpaGRKN081VHhqWEROekhia2FTNmdSS1ppanA1YTU5UHFVMnFZbnR1WTUzcFZMOG8?oc=5",
-     "source": "الشرق الأوسط",
-     "time": "2026-11-28T07:38:30.000Z",
-     "seen": "2026-11-28T09:09:41.752Z"
-    },
-    {
      "title": "سفير إيران في باكستان يبين لـCNN وضع الحوثي على الأرض والموقف من اعتراف دول بهم كواقع في اليمن",
      "url": "https://arabic.cnn.com/middle-east/article/2026/11/28/houthi-irans-ambassador-to-pakistan-reza-amiri-moghadam",
      "source": "CNN بالعربية",
@@ -446,11 +451,11 @@
      "seen": "2026-11-28T09:09:41.752Z"
     },
     {
-     "title": "إسبانيا: العثور على جثامين 14 مهاجرا خلال عملية إنقاذ قارب قبالة جزر الكناري",
-     "url": "https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20261128-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-14-%D9%85%D8%AA%D9%88%D9%81%D9%8A%D9%86-%D8%B9%D9%86%D8%AF-%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D9%82%D8%A7%D8%B1%D8%A8-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D9%82%D8%B1%D8%A8-%D8%AC%D8%B2%D8%B1-%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%B1%D9%8A",
-     "source": "فرانس 24",
-     "time": "2026-11-28T06:59:54.000Z",
-     "seen": "2026-11-28T09:49:41.366Z"
+     "title": "تقرير أممي يرصد اتساع خريطة الكوارث الغذائية عالميا",
+     "url": "https://www.aljazeera.net/video/2026/11/28/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a3%d9%85%d9%85%d9%8a-%d9%8a%d8%b1%d8%b5%d8%af-%d8%a7%d8%aa%d8%b3%d8%a7%d8%b9-%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-28T06:42:54.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
     }
    ]
   },
@@ -458,6 +463,13 @@
    "id": "tech",
    "title": "تكنولوجيا",
    "items": [
+    {
+     "title": "الأردن.. إصابة 20 شخصا جراء استنشاق مبيدات حشرية",
+     "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxObEk2SC03aEdoandwSTA4YkFSUjgxRzBBelRvRmFWcW8wLVZkWWVtYmF1Vnc4b1lOYy0tZF94WmVYMWtyREtyYzYyMmRKQ2xDdmhnaFV6eDRoY3ZWdjRuTERtdWFCWHlyOW9rb1BNSjFwU2toSVQ3Y3RXQ1dKTEJfWm9xc3l1WUlQbHg1SUdweUFxd1FwNElTWFdqUkZkQVlEUTF5ckZFcWN1N01Kc3VSejQxOTA4Q3FTT0ExSWlpYXpuRmh6cjBwSGktTFo4LW1FaVA1QmN2cGRYZzJxeExnR05SOXVRZm5mOXFxMHV4SkVMamVFbmFHQVZvSzM4NGI2NUdaT3E1TWwtSlZna19nTHREb3JKRHRLZXhwS1pPbFhLTjlEYnZTTnNLR3ZPNVVIWWxxYkxITGFHRTZZeFVxWWNiY0RwZkpGRmlsM3ZuejhLU1dSX1czdURXdWVpemxVZEVvdF9ZZWVNX2pMQlViamV0c21HNnB2NFhLY3ZjckRWdlFmZG41VTUxSC1lVDBLWm5B0gGYA0FVX3lxTE1UOUpNRkZCTGlfOW4tUUQ5ZzE3aFMzM25TNUU4UDRyaGMtTW1XS05IcGNfVmxzUUQ1QlFQdXNKRGxxR2t4Q0pQRmN2djAxRU1iSHA4bVNHVTBrc2VHUncwYjk3ODhtVjhQZnRWTk40RkpiRlZ4SUVNVG13RDNVSFoyZ05ZbVVGZWVueElaeUs0X1pNd29WTTlOb2lUcHBNVEVnbF9VcjhaQWN6SVFHWUtfWWt4UVd4VDI1TEc3WUtEUXhPc21vM0tnTkxlMVV5UVo4LUtfWHlCNVd4TklNSnBIRGRQSmVLNFdkQW9wUW9oOGt0TkU4bnNkeEV5OXlRVlphUjhLNHBkdnRVUkNwVHg2M1RneVkycFhJdEdPcnVRcjBySXpXYU9HOE02b295N2F0T0hsSDg2NEswMlVZaGRrN2FwZXR1S2YxQ3l4enBXZHVoeGNIbWhrbXZBS0ZHclBrejhHcy0zNi1qY0xCcFlXSWctbEJ3UW96YmpoeEhPNURRaENkR1NYdm40Wi1CY3dIMWsta0M5Rw?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-28T08:56:44.000Z",
+     "seen": "2026-11-28T09:59:41.930Z"
+    },
     {
      "title": "هل يفقد التعليم السيطرة أمام الذكاء الاصطناعي؟",
      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQdGdqenUzQmh3UXFsc0F5ZEUyX1BtSlJHeUtFYXV6WE8xZ3hPYm0ybktNTVZBaVVWc3hUdW1RMFd3bWFWUFgyeTF4UGRpS0h6cWltRnFBOVliWUQ1bEJndGFnRjA0OHhVSTRZRVIybTJhbEFNNHBaTHFDaEVMbDB1Wkt5YlNSbzhycFN0alFOODJ2Wjk1b0pOMnkwYnRFaXlZeVpUNjVjaXMxVk9RUXJWVmEwZXAtM2Zhckd1RUdkcUlmbWV1X2VLQXJlNzRmZWxRVTVYdVY0UkFjTVdCSUJzZU9zWnBEZmJvVF9UTTl5dWNYVWVjUnY3LXlRWUpVNk9uS0pxUmxMRTQ0M3A5RnN6MDhfejJxQzkzWGxPTGFsSnZreFpNQjBFZzFtZWVqNVVPTEt2NlNZWlY4WWpsM2FpRlhZck9icnYxUzJpcXBoQzk?oc=5",
@@ -478,7 +490,8 @@
      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQV1FaT1RHZ2t4TzBqRms2elVKNDI4WHduTGt4VVRUb0w1MXQ4MWpidGtNTUxsT0FtODdidTZfcDVQOWRmTmtscms5ZVBwR0ZpV0p4Umt4VHp0a2JnRi1taE0yU0VraGM4LVp2dERZTDRaZVNUTUhha3hab3pTVWZUNUdqMG9wNWhtUXBSVVdpYmdWanBnRUp5NzdrYjNvRzJxdERsM2trTjEtYVppTENLU3ByTWgzRlZyUG9NSF9aYjg5dlJsamVnXzZaVDEyNHdBZ1RZdk5NSjVLeEJXdGZ5QVV3UEYyUFUya0VtUkJ5cE9LZW5oTzQtN2NWTzV6M1NZLUlSUWJvb0RaUkNidEJVT0xNNlZHVDZhelVuNDJrcUFFTm1mUVZWd1lMRmMyZ0dEVkZHQWpqZ0lGN0FUY080czZIVjlEdFFkdEFMYzJYUGt0MzFxbmlEd2dDaC1DU2d3RmZoRk9MRE4yUVJWUzc5TEp5SldJeHBmYlVlYVJJQzZIVHAxSWtFbU9vOWcyX0VIWEFlZWJhMU53N1gzRnR1S2Y3RDdNdUVjZ2NFTmRzbDRpa2dya1ZlOE90WEotRlhJVmMtdlVxRVpHQQ?oc=5",
      "source": "الشرق للأخبار",
      "time": "2026-11-28T07:00:52.000Z",
-     "seen": "2026-11-28T09:29:42.028Z"
+     "seen": "2026-11-28T09:29:42.028Z",
+     "impact": "تهم النزاعات القضائية بين كبرى شركات التقنية العاملين والمستثمرين في قطاع تكنولوجيا المعلومات والتطبيقات."
     },
     {
      "title": "دولار بسعرَين: لماذا يوجد فارق كبير بين السعر الرسمي وسعر السوق في بعض الدول؟",
@@ -486,7 +499,7 @@
      "source": "BBC عربي",
      "time": "2026-11-28T06:31:02.000Z",
      "seen": "2026-11-28T06:39:10.421Z",
-     "impact": "يُساعد فهم أسباب وجود فارق بين السعر الرسمي وسعر السوق للدولار الأفراد والمستثمرين في اتخاذ قرارات مالية أكثر وعياً."
+     "impact": "يوضح التقرير للمتعاملين والمستثمرين تداعيات وجود فجوة بين أسعار الصرف الرسمية والموازية على حركة الأسواق."
     },
     {
      "title": "الجيش الأمريكي يعترض 6 مسيرات في قاعدة بريطانية",
@@ -552,19 +565,16 @@
      "time": "2026-11-28T00:11:00.000Z",
      "seen": "2026-11-28T04:59:10.454Z",
      "impact": "تؤثر توصية حجب لعبة GTA 6 على مستخدمي الألعاب الإلكترونية والتجار المتعاملين في هذا القطاع داخل مصر."
-    },
-    {
-     "title": "تايدال تحظر الموسيقى المولّدة بالكامل بالذكاء الاصطناعي وتعتزم إزالة ملايين المقاطع",
-     "url": "https://aitnews.com/2026/11/28/%d8%aa%d8%a7%d9%8a%d8%af%d8%a7%d9%84-%d8%ad%d8%b8%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%8a%d9%82%d9%89-%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af%d8%a9/",
-     "source": "البوابة العربية للأخبار التقنية",
-     "time": "2026-11-27T22:37:01.000Z",
-     "seen": "2026-11-28T03:19:10.400Z",
-     "impact": "يهتم به صنّاع الموسيقى والمستثمرون في قطاع التكنولوجيا بمصر لمعرفة قيود منصات النشر على المحتوى المولد بالذكاء الاصطناعي."
     }
    ]
   }
  ],
  "failed": [
+  {
+   "section": "egypt",
+   "feed": "اليوم السابع",
+   "error": "fetch failed"
+  },
   {
    "section": "tech",
    "feed": "البوابة العربية للأخبار التقنية",
