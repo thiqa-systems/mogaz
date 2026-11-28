@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:09:11.087Z",
+ "updated": "2026-11-28T07:19:10.538Z",
  "minute": [
   "تتابع الأسواق المصرية تحديثات أسعار الذهب والدولار، إلى جانب تحركات حكومية شملت جولات تفقدية ودعم قطاع الزراعة.",
   "أصدرت الأرصاد الجوية تحذيرات من شبورة كثيفة وانخفاض الرؤية، بينما وصت لجنة بالبرلمان المصري بحجب إحدى الألعاب الإلكترونية.",
@@ -9,7 +9,9 @@
   "at": "2026-11-28T06:59:10.911Z",
   "model": "gemini-3.6-flash",
   "key": 1,
-  "impacts": 7
+  "impacts": 7,
+  "error": "bad JSON: Unexpected end of JSON input",
+  "errorAt": "2026-11-28T07:19:10.538Z"
  },
  "markets": [
   {
@@ -88,9 +90,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59208,
-   "change": -2.13,
-   "asOf": "2026-11-28T07:09:18.000Z",
+   "value": 59555,
+   "change": -0.52,
+   "asOf": "2026-11-28T07:19:25.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -137,6 +139,20 @@
    "title": "مصر",
    "items": [
     {
+     "title": "الدكتور طارق توفيق رئيسا للجنة العلمية للمتحف المصري بتورينو الإيطالية",
+     "url": "https://www.youm7.com/story/2026/11/28/الدكتور-طارق-توفيق-رئيسا-للجنة-العلمية-للمتحف-المصري-بتورينو-الإيطالية/7634997",
+     "source": "اليوم السابع",
+     "time": "2026-11-28T07:15:00.000Z",
+     "seen": "2026-11-28T07:19:10.538Z"
+    },
+    {
+     "title": "إبراهيم سعيد يطالب بتخليد ذكرى ضحايا حريق الوراق على الطريق الدائري",
+     "url": "https://www.elbalad.news/7197222",
+     "source": "صدى البلد",
+     "time": "2026-11-28T07:15:00.000Z",
+     "seen": "2026-11-28T07:19:10.538Z"
+    },
+    {
      "title": "كوستاريكا تمنع مقررة الأمم المتحدة لحقوق الإنسان في فلسطين من دخول أراضيها",
      "url": "https://www.elbalad.news/7197234",
      "source": "صدى البلد",
@@ -158,13 +174,6 @@
      "seen": "2026-11-28T07:09:11.087Z"
     },
     {
-     "title": "خبير: تصريحات ترامب لتهيئة الرأي العام لضربة عسكرية محتملة ضد إيران",
-     "url": "https://www.elbalad.news/7197228",
-     "source": "صدى البلد",
-     "time": "2026-11-28T07:05:14.000Z",
-     "seen": "2026-11-28T07:09:11.087Z"
-    },
-    {
      "title": "امتحانات الثانوية العامة 2027.. تجهيز النماذج الاسترشادية للتدريب على الأسئلة",
      "url": "https://www.youm7.com/story/2026/11/28/امتحانات-الثانوية-العامة-2027-تجهيز-النماذج-الاسترشادية-للتدريب-على-الأسئلة/7633442",
      "source": "اليوم السابع",
@@ -172,11 +181,11 @@
      "seen": "2026-11-28T07:09:11.087Z"
     },
     {
-     "title": "1800 فرنك شهريا وتدريب بسويسرا.. تجارة عين شمس تفتح الباب للالتحاق ببرنامج دولي",
-     "url": "https://www.youm7.com/story/2026/11/28/1800-فرنك-شهريا-وتدريب-بسويسرا-تجارة-عين-شمس-تفتح-الباب/7634511",
-     "source": "اليوم السابع",
-     "time": "2026-11-28T07:00:00.000Z",
-     "seen": "2026-11-28T07:09:11.087Z"
+     "title": "محمود سعد عن حادث الوراق: كلنا شاركنا في الكارثة.. وغياب النظام والقانون وراء تكرار الحوادث",
+     "url": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxQRndsd2Z6T1UtaTA5TlUxRnozZDF1b3o3RWpFY2o1MTdIeVpoMTBTclYweFBaX2Q5eUFtYll6ZDEyQnpxTmx6M3hGSEwxLWtqeTBQUmJuWGdZUmJVM0s4c1drWGpmQUVsNGFabEZFMmduTjlUc3NyNV96LV8zand2ZnJub05QcmFtZVNHMWFCXzRDLUtFRXhhdW5wRnJnVjNqTkJjSWd5SmZpNGNSbFRYczhrc0hxdjhlSFRLWE5mdkhyREEwek4weWo0U1o5bnZ5N2lZa3JRbTRpMi0tUWJfZ1hQX09ESmR6SkZEV09qSDM4ZllPeC15QTQ3djY2dXh3WWdfZi10cUlQV0FYRUd2cVNyN1NvT3paVF9HZ09JMURrckJra3RJcURMQzJOUkp2ckxoS3BxNVNKV25oeTh4TFlpZVdtV2Rvamt5WF96ZXRvalJvc1RNZ1BYWWlvZDNwNDZIbTB3Z1JxUEIzOFMwOW9jRXp6S1dEZ3lZTDI2Nmcwa2tSS2k3cmUtS2NuZ0VMcE53N3B3QUtsT3Nxd2hqQWZZWTJWUWNzU1hkcEplUjBkSUZNUDJQVDVHRTV6dHRfaGltU3g2MTNuekw1YnEyWnJ6X3ZvaENOR3U4OTd4M042a3h4cm9nN2VXRGhmR0ZzMm9BSk1iSnpSdjRfRGVGaF9aM2pDZVFKYTBtZWRjMlZuUHJRclY1OV9RX1VBVlhOd3B3WFRsZEphS3FJQWVFbTByRm1YZnFTelNnTDJvTDFkVjA0dEdYdEZDZWZ6dzctT2lENGxDV2FVZm9ORGEwWHBSYllOR0p3OEQ0eXV4aXhoSlkzY3NwLWUwSGFlRGU1TnFLcHlLc3NwNVQweTQ5V3hnWjAxeHBKbUxFMzlfcGU2ejJXYzVqdDc0X3Y3SlBSUTJod1p2dEhqbXRvTnZ5MWRhU0Vhc0ExZVM2ZHgyYTlGQjJHa1dRdNIB3gVBVV95cUxOUXVxSlZrcVhpcXN4LUJMQnUtaXh3OVotWUhRWFF2dkFhaEYzQ1ZkZ25mRmNqUnVLbnlCbktJdk11QjhhOElsN3dKMV9RdHFWMGU3a19jMTdGYXpYeTVjdUszYjJSU05yS3hNdm1wM3JuTXgzcmdwY0tseWhHeVd1TWV2eUgxZlVXdDcxUndlZnBaZ1VnU205Wk5SdnVDTU9pNFlobjZfR2xSYVYwSndTOF9fYXlWNTJ6bjlyaU5Mb3RwMXREbmc2N3NXVDFmcnNCQ2M1aFc2dmI2SkdtdmZOb0pOZGI5dWV2Z3hhNnZZVjR0X3hOREp0dUlWdkQwNjVzekJWeWc5SHlscUNzSFB3aFpnak5MT0lYMGl6dTFaUkphTmZjNUUtVm9GWHduNlZZbExKeU5OTGtGRDlaTTkxVU12WUdtVTVfMG5nWlkyYUlGR2FyeU5MWEtDb2dMYjFzcVhnX0xJa1JiUEs1OUlFLXd3bHYtZ2V0RXFoM3FNaGhLcmRiQTM2S0hqZmU4REE1VFpfMUNuVF8zUW9VWVVZZHFGMjJreHBSMll6eW9hZkhnTVA1emt1cDFQNlBBVmNDNU02RkFLRDV3d3ZVRzNnN01LVENmY3JobmhBa19XZC0xc0lnamg4Sm5TU3REaDRDcUduVXpObWhOeHNQOXUzS1VDZkg1Y1JncjJvUnpXbnQzdzV2WTZ6NElmWXVyRjNncjNfQklRdlo4a2ZrbmJVU2RmMEoyOUdlYnBrdEJxVG03Mll2THdaV0RxbENld0QxZm5hNzNpVl84aURscFJJZlk2azJ4VEg5WHZMWjVRUkxRc3pGZjJCLVdrN3p3RHpjejdZVGprSFVhWWVrRUNfT1ZoLURPT0sxVjlCcjZxU0pIR042c3VickIzemFWUkd4UXpsY0hzaE9OWVViUC1TNE52U1NTZDFDczRjblVJckh1UzZjbmlSQTAxckRQQQ?oc=5",
+     "source": "Masrawy",
+     "time": "2026-11-28T03:54:51.000Z",
+     "seen": "2026-11-28T07:19:10.538Z"
     },
     {
      "title": "من منظومة الدعم إلى موسم السكر الجديد.. أبرز أنشطة التموين خلال أسبوع",
@@ -212,13 +221,6 @@
      "source": "Masrawy",
      "time": "2026-11-27T21:49:22.000Z",
      "seen": "2026-11-28T03:49:10.354Z"
-    },
-    {
-     "title": "تفاصيل حادث انقلاب سيارة نقل مواد بترولية بطريق هضبة السلوم في مطروح (صور)",
-     "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNb0V5eTlRMXJyb0g3NldSY3JWNDI0MW1zNEFqVFkwc2hVVzBzendTQmdzenQwUVFmQTNTZm94UG5EZnJ4T1lGNmR0Z2hmOG44UGlVTUY1amdkbDYzSmpfd0h2c25UZnBwOVV5MUNrTDYwMHJSS0pMRU5iZjRncC1LSndjVUMxZkNIUDZUY2JnRGdTRy1uWHllNjF1blJVajg5Q212RVNjejdyby1iTmZUbGhPdmo2MHFHRGg3UlNhZ18tVWRyb0hFR3V1dHhSQVBIcXJyWWdFMnMwZEVWb1Z4UzBITFVoeDFBdlNzSU1yYWZzVEViNVJ3czROTWxZTEVYQVlxLU1qSVg4blpnMTl2STV5eGRpR1VDMjNpbUx6UWF1YWZCMTFNbGtMNGNzNk96ZFFoRGZWV0lzYWdQeHhkbnd4REZucmxVb1dwU3BqWi1mSE9HOFlSM3M2ajktX2RkRGJ2aW1RS1QzeG1DSlFtOGtSYTEwVzJld1BfUXRwbGxBVDJ5MGZoOHlBd2huVE9pYW4tdGU3a21nQ0tycVFaMmNWQ00ydVVsOTNrQlVzcVdzbGg5elZXRi0yS1B1aG5kT2ZuMjdVUUFqc2x6eXpYcVRscjhyTGo5V281OWNJa3k2NFJJb05fbUhyNjNrYWVwTzBtVzhfMUJBNVBxOHRHSWFFdVJlUDQ1MDN2Vm1FNlVFNFZKeUlDc1ZIRFMxdjRLY0R3bnpaRWxZOWZxWWotb3FwaFVVQlhHTEZVNURQcDc1TG96ZXp1SmctSVlNaWtIUTJnNFRyOG1jYmN2MFJqTTlncDNoQzh3b0HSAe8EQVVfeXFMTWxoa1R4cEh3dVhLdnRSam5mQndRTTdvSUFOT2VOaHlhd1dvd1haSGJtMlctb0tYR21ZbDRkLUFEUEVCWGl0VGRHb1V0NUFSXzF0cTkzVW9ZQ21XVE9aQzBWQm00QWtrV3k2OVd1SXVYUnFsak5rd21aZmluVmNJajdvdF9VOVNVRmtWMExmM0tkRDNCTUNPV3pYMVRTN0hNbzRqcWpGS19DaHVDVV94U090a2RUc3VIdWxTaHVwVUM5cXlPVV9KMGloZmJLNU5rWXl1T215VVpRTUFPTUtGQnJneld1a0ZlZHJweFdVTE5DX0ljN0dqeThCemhtdVpSTDcxRTU1R282Q1djTHlhczM2UUZqQzZKX2xqZFh1cGVKTG1qRDlDZkpwb0VoZW9hbWxia2oxMGpQeWp3bWxkMXY3TVRXX2VVX2phUFVaR095dDdkMWZGS2ZaUnJpeWc0XzlBRkMzU2JnRjUxM0lWX1VJdU9SSTNiOEdpUnhaV1JuTTNQcEV5ZDBCZVVDMkoxSUQ1UzNmZXJNRkZNZWRqTU1XbXRGTmdGY0Q3T2RYN2lZTHUzb3pVMzU4M0MyU3ppdjJENDBrUHRxVTJYVG5jZU84SW9GSmxCREs4Q3ZGVUZCMGV3bDRGNzFEMVdsQ0s4Y1ljM2oySm93VDhEZF9hUGZDWDgybENFOFp3LVpILVpsWHBjYmEyUHpmMzNaV0lNRExyWGlCMHJjOWJjWjR5QTFZaERmVC04dzVncXZFN3ZaM05lNnpLR3NYczRDemUtWVNGUWhrLWZPU28zdkJKd1NLeUVwUlp0YWZ2MVJPSmc?oc=5",
-     "source": "Masrawy",
-     "time": "2026-11-27T21:11:40.000Z",
-     "seen": "2026-11-28T04:29:10.538Z"
     },
     {
      "title": "حادث دائرى الوراق.. هل هناك منظومة فاعلة؟",
@@ -268,6 +270,13 @@
      "time": "2026-11-28T06:46:42.000Z",
      "seen": "2026-11-28T06:59:10.911Z",
      "impact": "تؤثر تغيرات سعر الدولار مقابل الجنيه في البنوك المصرية على التكاليف المعيشية للأفراد وتكاليف الاستيراد للمستثمرين."
+    },
+    {
+     "title": "سعر اليورو اليوم السبت 28 نوفمبر 2026 في البنوك مقابل الجنيه المصري",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JU0hQQUpVSnMxX2otNjBnT2o2czRVUkxpMFJ1SHBXR1hzdDRlZXV3RmRqVUdiY3ZYQXJCUXZkRTFiamt2?oc=5",
+     "source": "جريدة الدستور",
+     "time": "2026-11-28T06:46:33.000Z",
+     "seen": "2026-11-28T07:19:10.538Z"
     },
     {
      "title": "دولار بسعرين: لماذا يوجد فارق كبير بين السعر الرسمي وسعر السوق في بعض الدول؟",
@@ -337,14 +346,6 @@
      "source": "BBC عربي",
      "time": "2026-11-28T04:15:54.000Z",
      "seen": "2026-11-28T04:19:10.902Z"
-    },
-    {
-     "title": "100 دولار تساوي كام؟.. اعرف قيمة العملة الأمريكية بأسعار البنوك السبت",
-     "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPR1ZZdDVVY21qM3Y4YWg5YXVaMmY5cFlEWTZUMzlzSFE5bVpPc1ptb2hYQV9TS0xyN0JNSmxSQlk5WnpNaVBvUGRnSXd5WFMyUk5lZGZMc0dnbmZ6OTJQWlFzV2dUdS1FbGJFdGtoVzN1a0U1RkcyeC11NDNYY0s3YWFBYUYzWFpGU3JIQWxJcXVZbFNsNGtzcWVRVUVnaVoxTDdzSW53dFVuNC1kc2xwRDBtUkg0anJyRmxLWEtiUGR1bEpJbDRORzhKamRKUmIyNnpzeU1lMzRQR2otRGJja0JSM1pxZ0haMFRQN3VJWDBhSXc3VGMxNG9ZRzlnalMyQWtwel80RGkyNDNBMC1xcE0xV2M2eWFScFk1VDBaYmg0SXFWQmZkVm9vYUtaS0NKN3FlMU82a3pkbDdIRWJObTJvcVk5ZTdhdW1HemtlZDRGN3h0S3BEY2tyOE8tN0tKNF84Z2tMRzdWMzNCRTF4NGs1M2RxRmQ0WDJlWl9yZ0RWRy1uNlhDM1UzTVg1aG5Eek9BTXF4bzRlUzBzRTBIRHpyel80b0RMUVJyZkRKOUNfeFFHYzZpWW5icF8zaUcyeFVQM3RFbUtUMHVIMFltc0RyaXJENHNqZS13WmlrZXFxempYYXfSAeYDQVVfeXFMT0dWWXQ1VWNtajN2OGFoOWF1WjJmOXBZRFk2VDM5c0hROW1aT3NabW9oWEFfU0tMcjdCTUpsUkJZOVp6TWlQb1BkZ0l3eVhTMlJOZWRmTHNHZ25mejkyUFpRc1dnVHUtRWxiRXRraFczdWtFNUZHMngtdTQzWGNLN2FhQWFGM1haRlNySEFsSXF1WWxTbDRrc3FlUVVFZ2laMUw3c0lud3RVbjQtZHNscEQwbVJINGpyckZsS1hLYlBkdWxKSWw0Tkc4SmpkSlJiMjZ6c3lNZTM0UEdqLURiY2tCUjNacWdIWjBUUDd1SVgwYUl3N1RjMTRvWUc5Z2pTMkFrcHpfNERpMjQzQTAtcXBNMVdjNnlhUnBZNVQwWmJoNElxVkJmZFZvb2FLWktDSjdxZTFPNmt6ZGw3SEViTm0yb3FZOWU3YXVtR3prZWQ0Rjd4dEtwRGNrcjhPLTdLSjRfOGdrTEc3VjMzQkUxeDRrNTNkcUZkNFgyZVpfcmdEVkctbjZYQzNVM01YNWhuRHpPQU1xeG80ZVMwc0UwSER6cnpfNG9ETFFScmZESjlDX3hRR2M2aVluYnBfM2lHMnhVUDN0RW1LVDB1SDBZbXNEcmlyRDRzamUtd1ppa2VxcXpqWGF3?oc=5",
-     "source": "اليوم السابع",
-     "time": "2026-11-28T04:03:04.000Z",
-     "seen": "2026-11-28T05:09:10.686Z",
-     "impact": "يهم حائزي العملة الأجنبية والموردين في مصر لحساب قيمة المدخرات والالتزام بالأسعار الرسمية المعلنة بالبنوك."
     }
    ]
   },
@@ -424,6 +425,20 @@
      "seen": "2026-11-28T04:39:10.235Z"
     },
     {
+     "title": "بطانة الرحم المهاجرة.. لماذا تنتظر النساء سنوات لتشخيص المرض؟",
+     "url": "https://www.aljazeera.net/health/2026/11/28/%d8%a8%d8%b7%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85-%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d8%a9-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d9%86%d8%aa%d8%b8%d8%b1?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-28T04:05:00.000Z",
+     "seen": "2026-11-28T07:19:10.538Z"
+    },
+    {
+     "title": "محمد النجار للجزيرة نت.. مسيرة مدرب فلسطيني وتجربة أسر",
+     "url": "https://www.aljazeera.net/sport/2026/11/28/%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%b1-%d9%84%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%86%d8%aa-%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d9%85%d8%af%d8%b1%d8%a8?traffic_source=rss",
+     "source": "الجزيرة",
+     "time": "2026-11-28T04:03:37.000Z",
+     "seen": "2026-11-28T07:19:10.538Z"
+    },
+    {
      "title": "عمليات \"فجر اليمن\" متواصلة.. ميليشيا الحوثي بمرمى نيران القوات اليمنية",
      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
      "source": "العربية",
@@ -436,20 +451,6 @@
      "source": "الجزيرة",
      "time": "2026-11-28T03:36:14.000Z",
      "seen": "2026-11-28T06:39:10.421Z"
-    },
-    {
-     "title": "ميلوني تعاتب زيلينسكي على استهداف سفن روسية قبالة سواحل ليبيا",
-     "url": "https://www.aljazeera.net/news/2026/11/28/%d9%85%d9%8a%d9%84%d9%88%d9%86%d9%8a-%d8%aa%d8%b9%d8%a7%d8%aa%d8%a8-%d8%b2%d9%8a%d9%84%d9%8a%d9%86%d8%b3%d9%83%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%b3%d9%81%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-28T03:31:27.000Z",
-     "seen": "2026-11-28T06:39:10.421Z"
-    },
-    {
-     "title": "أطباء بلا حدود تندد بمقتل اثنين من موظفيها في غارة إسرائيلية على عيادة بغزة",
-     "url": "https://www.aljazeera.net/news/2026/11/28/%d8%a3%d8%b7%d8%a8%d8%a7%d8%a1-%d8%a8%d9%84%d8%a7-%d8%ad%d8%af%d9%88%d8%af-%d8%aa%d9%86%d8%af%d8%af-%d8%a8%d9%85%d9%82%d8%aa%d9%84-%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%85%d9%86?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-28T03:01:11.000Z",
-     "seen": "2026-11-28T06:09:10.290Z"
     }
    ]
   },
