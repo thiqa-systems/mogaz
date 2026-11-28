@@ -1,17 +1,15 @@
 {
- "updated": "2026-11-28T00:48:55.019Z",
+ "updated": "2026-11-28T00:58:55.234Z",
  "minute": [
-  "شملت الأخبار المحلية في مصر تحديثات لأسعار صرف الدولار والدينار الكويتي بالبنوك، إلى جانب مواضيع تتعلق بالقوانين والفتاوى التجارية.",
-  "وعلى الصعيد العالمي، برزت مباحثات دفاعية بين السعودية وباكستان وتركيا، وتطورات ميدانية وسياسية في سوريا وليبيا وفرنسا.",
-  "تكنولوجياً، رُصدت تقارير عن اختراق أمني لمنصة سحابية تابعة لسلاح الجو الأمريكي، ووصول رقاقات إنفيديا المحظورة إلى الصين."
+  "سجلت أسعار صرف الدولار في البنوك المصرية مستويات بين 54.77 و54.95 جنيهاً مع صدور تحذيرات اقتصادية من مخاطر الأموال الساخنة على الاستقرار المالي.",
+  "وجه مركز المناخ في مصر إرشادات لمزارعي القمح تزامناً مع نشر مواعيد قطارات القاهرة والإسكندرية ومتابعات محلية بالوادي الجديد.",
+  "شهدت الساحتان الإقليمية والدولية توترات عسكرية في السودان واليمن إلى جانب مباحثات دفاعية وخلافات نفطية بين بغداد وأربيل."
  ],
  "ai": {
-  "at": "2026-11-27T21:38:54.844Z",
-  "model": "gemini-3.6-flash",
+  "at": "2026-11-28T00:58:55.234Z",
+  "model": "gemini-3.8-flash",
   "key": 2,
-  "impacts": 7,
-  "error": "gemini-3.8-flash key1: HTTP 429; gemini-3.8-flash key2: HTTP 429; gemini-3.6-flash key1: HTTP 429; gemini-3.6-flash key2: HTTP 429; gemini-2.5-flash key1: HTTP 404",
-  "errorAt": "2026-11-28T00:48:55.019Z"
+  "impacts": 8
  },
  "markets": [
   {
@@ -90,9 +88,9 @@
    "id": "btc",
    "name": "بيتكوين",
    "unit": "$",
-   "value": 59903,
-   "change": -0.98,
-   "asOf": "2026-11-28T00:49:05.000Z",
+   "value": 59834,
+   "change": -1.09,
+   "asOf": "2026-11-28T00:59:42.000Z",
    "source": "Yahoo Finance"
   }
  ],
@@ -157,21 +155,24 @@
      "url": "https://www.elbalad.news/7197094",
      "source": "صدى البلد",
      "time": "2026-11-28T00:40:00.000Z",
-     "seen": "2026-11-28T00:48:55.019Z"
+     "seen": "2026-11-28T00:48:55.019Z",
+     "impact": "تعكس للمهتمين بالوادي الجديد جهود الترويج الخارجي عبر المعارض ومدى استعدادات البنية التحتية لحالات الطوارئ بالمحافظة."
     },
     {
      "title": "مواعيد قطارات القاهرة - الإسكندرية والعكس اليوم السبت 28/ 11/ 2026",
      "url": "https://www.youm7.com/story/2026/11/28/مواعيد-قطارات-القاهرة-الإسكندرية-والعكس-اليوم-السبت-28-11-2026/7634213",
      "source": "اليوم السابع",
      "time": "2026-11-28T00:00:00.000Z",
-     "seen": "2026-11-28T00:08:54.433Z"
+     "seen": "2026-11-28T00:08:54.433Z",
+     "impact": "تساعد المسافرين والمواطنين في مصر على تنسيق مواعيد رحلاتهم اليومية بالقطارات بين مدينتي القاهرة والإسكندرية."
     },
     {
      "title": "قبل دخول الشتاء.. «مركز المناخ» يوجه رسالة لمزارعي القمح بشأن مواعيد الزراعة",
      "url": "https://www.youm7.com/story/2026/11/28/قبل-دخول-الشتاء-«مركز-المناخ»-يوجه-رسالة-لمزارعي-القمح-بشأن/7631629",
      "source": "اليوم السابع",
      "time": "2026-11-28T00:00:00.000Z",
-     "seen": "2026-11-28T00:08:54.433Z"
+     "seen": "2026-11-28T00:08:54.433Z",
+     "impact": "توفر للمزارعين والمستثمرين الزراعيين في مصر إرشادات لتحديد التوقيت المناسب لزراعة القمح قبل فصل الشتاء لتفادي تقلبات الطقس."
     },
     {
      "title": "مواعيد القطارات على خط أسوان / القاهرة والعكس.. اليوم السبت 28/ 11/ 2026",
@@ -193,6 +194,13 @@
      "source": "المصري اليوم",
      "time": "2026-11-27T19:11:00.000Z",
      "seen": "2026-11-27T22:28:55.013Z"
+    },
+    {
+     "title": "مصر تتابع مصير مواطنيها بعد غرق سفينة قبالة سواحل كوبا",
+     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTFFmQXFvN3BidHM3MW5nMnZ2dWpyM2wwbVEwcGJnR2licE9SQzFaZzZPUlZad2p5R0hCck5pV0pyeDNSc0dGMVJ2bzF6RWt4Tnk0U2F0ZGVZaHhGV0dMLW45VURQMk5oSmVXdzRrcWhsdVMzT2ZXT0lmNXR3RUhLNktZU3dsUnk3SDhDRmxLVnloN1g5akRsbm0wdHk4MmtaUUFvVC1nUngwNjdSYjE3aE9BN2hQZG9XZ0ktOFRKdTFVY3Q1czh3a2gyNDVsejh3Q0tnXzN4TlREc19oQlpSMnJwdXlwcmJVVDF3dzJtd1VIa3VjbVUxNVFremlBX3BvSGd4dm43ZjlFckpUOVFSdUIzU1pCTEc1WnU5UUpkbDdZV3hyLUN6dkpCWDUxY2NXRzFBUUtCdGUwcVFXM0JsTjI4dlR3SFc1eDdERTNMWnU1a1FTTUZFdkpwZkl3MUt5cW9BbHdhUdIB7AJBVV95cUxNaXFycDJPXzIyTWNsTmxIdDFaYkhUakVUQmNsTjg3SXN1Rmpjak51aWJ0Mm1sLXRqNW1hSkI3a1lVWkFybzIwNkxpUHJKZXQyQUNJLS11QWs5RjJUemhidXpvLVYwVVRRcF8xX0swYnBtRENNbkVrTE1CWGNLX21vSkZkTllISS05UmViaVdJV1R4YnJGaW1GLTl1c0M1NzRGNTFNRlE2b3M5alI1cDJVeVVoaU9zNmJqR042bkJha1NITkRNeHh6dlBZMGVJNFVGbkVmRmtMS1NlcW5EdGZuTUVsdUZDNmhLLUxyUTBxMkJuZTh1UWNqdGhNVFNjNU1EX1Q0WVB6T1FnZGJUaTk1V2dZUTh0dTdoWUM3U1RhYm1JM1pFa0hiZm1IOUxiSV82TjNzN3pJOXNvQ1A0bHBhZ1FFQUprOUlSYmRodng2U2pjY1QxNWR4T0l1N0E1WFRCb2RSbzdCeThUdVBh?oc=5",
+     "source": "سكاي نيوز عربية",
+     "time": "2026-11-27T17:40:48.000Z",
+     "seen": "2026-11-27T20:48:54.801Z"
     },
     {
      "title": "كانت تقل 13 مصريا.. غرق سفينة قبالة كوبا",
@@ -228,13 +236,6 @@
      "source": "المصري اليوم",
      "time": "2026-11-27T17:15:00.000Z",
      "seen": "2026-11-27T19:08:31.504Z"
-    },
-    {
-     "title": "مصر تتابع مصير مواطنيها بعد غرق سفينة قبالة سواحل كوبا",
-     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQTFFmQXFvN3BidHM3MW5nMnZ2dWpyM2wwbVEwcGJnR2licE9SQzFaZzZPUlZad2p5R0hCck5pV0pyeDNSc0dGMVJ2bzF6RWt4Tnk0U2F0ZGVZaHhGV0dMLW45VURQMk5oSmVXdzRrcWhsdVMzT2ZXT0lmNXR3RUhLNktZU3dsUnk3SDhDRmxLVnloN1g5akRsbm0wdHk4MmtaUUFvVC1nUngwNjdSYjE3aE9BN2hQZG9XZ0ktOFRKdTFVY3Q1czh3a2gyNDVsejh3Q0tnXzN4TlREc19oQlpSMnJwdXlwcmJVVDF3dzJtd1VIa3VjbVUxNVFremlBX3BvSGd4dm43ZjlFckpUOVFSdUIzU1pCTEc1WnU5UUpkbDdZV3hyLUN6dkpCWDUxY2NXRzFBUUtCdGUwcVFXM0JsTjI4dlR3SFc1eDdERTNMWnU1a1FTTUZFdkpwZkl3MUt5cW9BbHdhUdIB7AJBVV95cUxNaXFycDJPXzIyTWNsTmxIdDFaYkhUakVUQmNsTjg3SXN1Rmpjak51aWJ0Mm1sLXRqNW1hSkI3a1lVWkFybzIwNkxpUHJKZXQyQUNJLS11QWs5RjJUemhidXpvLVYwVVRRcF8xX0swYnBtRENNbkVrTE1CWGNLX21vSkZkTllISS05UmViaVdJV1R4YnJGaW1GLTl1c0M1NzRGNTFNRlE2b3M5alI1cDJVeVVoaU9zNmJqR042bkJha1NITkRNeHh6dlBZMGVJNFVGbkVmRmtMS1NlcW5EdGZuTUVsdUZDNmhLLUxyUTBxMkJuZTh1UWNqdGhNVFNjNU1EX1Q0WVB6T1FnZGJUaTk1V2dZUTh0dTdoWUM3U1RhYm1JM1pFa0hiZm1IOUxiSV82TjNzN3pJOXNvQ1A0bHBhZ1FFQUprOUlSYmRodng2U2pjY1QxNWR4T0l1N0E1WFRCb2RSbzdCeThUdVBh?oc=5",
-     "source": "سكاي نيوز عربية",
-     "time": "2026-11-27T17:09:12.000Z",
-     "seen": "2026-11-27T20:48:54.801Z"
     }
    ]
   },
@@ -254,28 +255,32 @@
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XSkplQ0M1YS1TWVZXZG1fNm1TNnlBcW1LWUpNd3poSHhlQUFkRms5Wm5tZmtCbnFMT3N6NG9aSFQ0dkcw?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-28T00:00:49.000Z",
-     "seen": "2026-11-27T22:38:54.984Z"
+     "seen": "2026-11-27T22:38:54.984Z",
+     "impact": "تهم المستوردين والشركات في مصر لتحديد تكلفة شراء العملة الأجنبية وفق أعلى سعر بيع معلن في البنوك."
     },
     {
      "title": "قبل استئناف العمل بالبنوك.. أقل سعر لشراء الدولار يسجل 54.77 جنيه",
      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPRm00OV84aFU0OTlwS3pFVEE1dDROT2ZZVTZmN3JhRkVodjNXV1EzLUoyT2Zpb1NFZnpzempPOXpRQzZhUnhNei1WSjExeEFsRG1XS0VFemFOR05yY0FnN1RseWVxam45Skh3UFRrX3ZaSVpvck5fanpWMmVfNXZ0eHVpa25sLTRtTkJpZGJsNEFnUThUS2tMaWpvNHZ5OG5WV0xBcGF2SFlCQnZDTURudnJRcWNwOXhQc205eURFbHhFYlExck5kRXRqSjNGaG44eVdVVUhHSm5yRWpFc1RoalltQTRYd2tkVXYzQTFLejFTWVdWRkc1TWY1RDkxVjhWcGM0NzJlTF9uUk9QXzlXUTNZckxGS3dHQjdJMUdvTUVEUmNGS3hXVk5nNGl5ZWdENVdJWUszUUF1ZDRTSFBTSTVvdFowNWpVZDFNZzRrcUtMcHRXQ0RKbjA1dnFhWTVHTjg1TjNIQnJOZEJJbW52ZURHZEdmQkpjei0ySC1fUkZkVzN1eVBIZTBHcjRDQmsxOG9OZVpEX20tblJUaV8zSGxvc2ZnMk42SUREaHY5N1ZkWFQ0STFoN0RJOTlsemh2NGlLdTNSajYwQdIBxANBVV95cUxNck5fOVVha1V0Q1dCN0dYUVlDRmNaMWt0eURsVkRndlllQVJDeEk3OTFfbVZVaXQ2MTRwZGRyMzBFUWlKNndfSzMzUElBUE8weE8xaTBiOTBVczdLMGR6aEsxOVh2YnpqN2pCdlFyWHlFcHZLcDhPOVprTEw1YlRwNDV5QUlMSTc2NEVIQzVNVlpMdTRpOXhSN1hPN1FVMXF2QU9ZVTU1WGcyb2dxTVFpeUtnT21TekpmS0xrWmYzYVctUkg4YWpySU5UWFNzREhuWU5tRDdzV0pYaGpXRzJiTElOSWNxZHA2X01rMWVNMjV3My1NZkVYTkV5RW1MMGU0V05jVzl6eUo4ZFg5VHBPQU9MbDUtZENYTlh2Sm9HVEczMGZoUVBLNmFPQnlRMzd5UHFzRnhaR2Ryc1VhRktVbnNVLWFrTHhTR01aTnltNk81ZFZKQl90cmt1ZjhUWVpuTnVBSkxoaUpKVnRUbWsyVGRwanQtZVdvcDlHTmF5MmJfbjltdzd2WU1QVUpCMlYwdUNERGI1R0JUU05LX29kV2U0cjZPSVI1Yy05NE5TUHNKM0FNc1A0SEtBQ0JZUDlCR0dBbA?oc=5",
      "source": "اليوم السابع",
      "time": "2026-11-28T00:00:00.000Z",
-     "seen": "2026-11-28T00:08:54.433Z"
+     "seen": "2026-11-28T00:08:54.433Z",
+     "impact": "تفيد الأفراد الراغبين في بيع العملة بمصر لمقارنة أدنى أسعار الصرف المعروضة لشراء الدولار بالقطاع المصرفي."
     },
     {
      "title": "محمود السعيد: الأموال الساخنة خطر يهدد استقرار الاقتصاد المصري",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAtTExnblBLeXB6eVJ5ajNuZk5tM3ZJbDE2emtlVEpMcGY1dnlJZUhQS1RuczZ2a29adXY0VXpnWXlhSEoy?oc=5",
      "source": "جريدة الدستور",
      "time": "2026-11-27T23:37:23.000Z",
-     "seen": "2026-11-27T23:48:55.078Z"
+     "seen": "2026-11-27T23:48:55.078Z",
+     "impact": "تلقي الضوء للمستثمرين في مصر على تقييم مخاطر تدفقات الأموال الساخنة وتأثيرها المحتمل على استقرار السوق والاقتصاد."
     },
     {
      "title": "أقل سعر دولار في البنوك الآن",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBibllnVVdTVzhxRUxyczh5T0hCMmp0ZVJpX3M3dzU2TFVvZlpSaV9ZNlIycFJ6RDJhSm9sbF84N0E1WXRzMDU0?oc=5",
      "source": "صدى البلد",
      "time": "2026-11-27T23:00:00.000Z",
-     "seen": "2026-11-27T23:08:55.023Z"
+     "seen": "2026-11-27T23:08:55.023Z",
+     "impact": "تمكن المتعاملين في مصر من متابعة التفاوت في أسعار الصرف بين البنوك لاختيار الأنسب لاحتياجاتهم المالية."
     },
     {
      "title": "سعر الدولار السبت.. 54.95 جنيه أعلى سعر للبيع مع توقف التعاملات المصرفية",
@@ -353,7 +358,8 @@
      "url": "https://www.skynewsarabia.com/middle-east/1907623-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A3%D8%B1%D8%A8%D9%8A%D9%84-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D8%B6%D8%BA%D9%88%D8%B7-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
      "source": "سكاي نيوز عربية",
      "time": "2026-11-28T00:37:28.000Z",
-     "seen": "2026-11-28T00:38:54.883Z"
+     "seen": "2026-11-28T00:38:54.883Z",
+     "impact": "تؤثر اضطرابات إمدادات النفط على أسواق الطاقة العالمية، مما قد ينعكس لاحقاً على تكاليف استيراد الوقود في مصر."
     },
     {
      "title": "ملامح حكومة آيزنكوت.. كاتس وبن غفير وسموتريتش خارج الصورة",
@@ -389,6 +395,13 @@
      "source": "فرانس 24",
      "time": "2026-11-27T21:28:13.000Z",
      "seen": "2026-11-27T21:38:54.844Z"
+    },
+    {
+     "title": "هل استُهدفت سفينة إيرانية في بنغازي تحمل معدات إلكترونية لحفتر؟",
+     "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNMTh5Y0R4REM1WDNhYjJEanNwMTNlSndmOXNXU3U5OFQxYTFLVnZma3ZzRW1Hdk43ME9OeTlTaE56bnNwUnJuTWdCOExMMmpxcjI2NzAtWC1WeVlYck1VdER0UXZVNGxIV2VlYWg3dVNhNHhBazhfZ21Cc2RnVjAwSFFHdUo1V3pPYTB1SW1mbVJFZTdSbVhWb3RLVjNBRTNOalozSW8ybHIxTlU5bmhiQlc1SEoxelZ6LS1DdWVYVmtwU2VBaDY2YWxBaFV6b1VGUkNHamFWbmp1X2wxdnhKNzRnbU5vc09pUE5ubHdTVXhoLXZQaWUzaFhRZW5NUXU4Y2Z1eUY0cFMtZ0E2SmtiY2o3OTJ2X19ZSUVMRXJuS3E0c25TaDVVcTYxQ0JNNlFNZGZhcmEyd1JpSUtvcTQ5RmFzdl9rcjZJcTNKemlXd0dLTjdILTVpcEpLVkQzZ3l1d2Q2aVVlWEstQUo0LWNva05Dc0RTWWc5eG1QZUNCb3hxZkdoMFBrR2J6V2NLYU5TLVpXM1BMbUNNMDhKVFJqSUx0djA3akQ0c0lMY3ZoTzlMR1pjUE5DUFkxeTdvYmxPTFZpN3FlUXF4WjZuSHBWLU5URlJXSko2Mm5yQkFDdlRPUzJ6QVBiZml0VFpfWmFqMmhacTVyM0xJeGh4QTFmMWFEY0d4UEtDeVVpYlZmUGdJeUNiS2tnc3lOLU5JY0JlSmNWQnV2U1A0WG9JeC1Kb3diTXlLaUZmWnRYbVpULXJ5Uk1aMnhpVmVqcHM3ZTA0ajJwWGJIYXNsMEx6X1V5emM0RC14Z080dU9CV1VDVkg3MDBpVXNMVTJ0WlluOHZtY1hhOV9HZUdDY0JpWDZ1bGxfTE9ENk9jU1B3QkNUbFpUeHdSUDhMV01Sd0tGd3ZHT215S1dQal9nQQ?oc=5",
+     "source": "الشرق الأوسط",
+     "time": "2026-11-27T21:23:57.000Z",
+     "seen": "2026-11-28T00:58:55.234Z"
     },
     {
      "title": "الحراك الطلابي يرشّح كيميائياً لانتخابات الرئاسة في صربيا",
@@ -438,13 +451,6 @@
      "source": "CNN بالعربية",
      "time": "2026-11-27T20:10:37.000Z",
      "seen": "2026-11-27T20:18:32.070Z"
-    },
-    {
-     "title": "بعد منعها من دخول البلاد.. ألبانيزي تتسلم الدكتوراه في المطار وتطالب بمحاسبة كوستاريكا",
-     "url": "https://www.aljazeera.net/news/2026/11/28/%d8%a8%d8%b9%d8%af-%d9%85%d9%86%d8%b9%d9%87%d8%a7-%d9%85%d9%86-%d8%af%d8%ae%d9%88%d9%84-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af-%d8%a3%d9%84%d8%a8%d8%a7%d9%86%d9%8a%d8%b2%d9%8a?traffic_source=rss",
-     "source": "الجزيرة",
-     "time": "2026-11-27T20:06:29.000Z",
-     "seen": "2026-11-27T23:28:55.261Z"
     }
    ]
   },
